@@ -5,4 +5,5 @@ feedparser
 requests
 python-dotenv
 newspaper3k
-Flask
+flask
+lxml_html_clean
