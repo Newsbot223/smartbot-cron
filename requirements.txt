@@ -4,6 +4,6 @@ exceptiongroup
 feedparser
 requests
 python-dotenv
-newspaper3k
+newspaper3k==0.2.8
 flask
 lxml_html_clean
