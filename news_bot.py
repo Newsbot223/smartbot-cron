@@ -6,7 +6,6 @@ import json
 import feedparser
 import requests
 from datetime import datetime, timedelta
-from keep_alive import keep_alive
 from dotenv import load_dotenv
 from openai import OpenAI
 from newspaper import Article
@@ -153,49 +152,40 @@ def format_summary(summary, link):
     return summary + f"\n\n[Weiterlesen]({link})"
 
 def main_loop(debug=False):
-    while True:
-        now = datetime.utcnow().strftime("%d.%m.%Y %H:%M UTC")
-        send_log_to_telegram(f"🟢 Bot gestartet – {now}")
+    now = datetime.utcnow().strftime("%d.%m.%Y %H:%M UTC")
+    send_log_to_telegram(f"🟢 Bot gestartet – {now}")
 
-        print("\n⏳ Überprüfe RSS-Feeds...")
-        articles = fetch_articles()
-        sent_data = load_sent_articles()
-        count = 0
+    print("\n⏳ Überprüfe RSS-Feeds...")
+    articles = fetch_articles()
+    sent_data = load_sent_articles()
+    count = 0
 
-        for article in articles:
-            if article["link"] in sent_data["urls"]:
-                continue
+    for article in articles:
+        if article["link"] in sent_data["urls"]:
+            continue
 
-            print(f"🔎 Analysiere: {article['title']}")
-            full_text = extract_full_text(article["link"])
-            if not full_text or len(full_text) < 300:
-                print("❌ Zu wenig Text oder Fehler beim Extrahieren")
-                continue
+        print(f"🔎 Analysiere: {article['title']}")
+        full_text = extract_full_text(article["link"])
+        if not full_text or len(full_text) < 300:
+            print("❌ Zu wenig Text oder Fehler beim Extrahieren")
+            continue
 
-            summary = summarize(full_text)
-            if summary:
-                image_url = extract_image_url(article["link"])
-                formatted = format_summary(summary, article["link"])
-                send_to_telegram(formatted, image_url=image_url)
-                print("✅ Gesendet")
+        summary = summarize(full_text)
+        if summary:
+            image_url = extract_image_url(article["link"])
+            formatted = format_summary(summary, article["link"])
+            send_to_telegram(formatted, image_url=image_url)
+            print("✅ Gesendet")
 
-                sent_data["urls"].append(article["link"])
-                save_sent_articles(sent_data)
-                count += 1
-                time.sleep(5)
+            sent_data["urls"].append(article["link"])
+            save_sent_articles(sent_data)
+            count += 1
+            time.sleep(5)
 
-        if count == 0:
-            send_log_to_telegram("⚠️ Keine neuen Artikel gefunden.")
-        else:
-            send_log_to_telegram(f"✅ {count} neue Artikel gesendet.")
-
-        if debug:
-            print("🧪 Debug-Modus: Warte 60 Sekunden...")
-            time.sleep(60)
-        else:
-            print("📘 Warte 2 Stunden bis zum nächsten Durchlauf...")
-            time.sleep(7200)
+    if count == 0:
+        send_log_to_telegram("⚠️ Keine neuen Artikel gefunden.")
+    else:
+        send_log_to_telegram(f"✅ {count} neue Artikel gesendet.")
 
 if __name__ == "__main__":
-    keep_alive()
     main_loop(debug=True)
