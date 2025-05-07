@@ -137,14 +137,30 @@ def send_to_telegram(text, image_url=None):
     except Exception as e:
         print("Fehler bei Telegram:", e)
 
+def send_log_to_telegram(message):
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": message,
+        "parse_mode": "Markdown"
+    }
+    try:
+        requests.post(url, data=payload)
+    except Exception as e:
+        print("❌ Fehler beim Senden des Logs:", e)
+
 def format_summary(summary, link):
     return summary + f"\n\n[Weiterlesen]({link})"
 
 def main_loop(debug=False):
     while True:
+        now = datetime.utcnow().strftime("%d.%m.%Y %H:%M UTC")
+        send_log_to_telegram(f"🟢 Bot gestartet – {now}")
+
         print("\n⏳ Überprüfe RSS-Feeds...")
         articles = fetch_articles()
         sent_data = load_sent_articles()
+        count = 0
 
         for article in articles:
             if article["link"] in sent_data["urls"]:
@@ -165,16 +181,21 @@ def main_loop(debug=False):
 
                 sent_data["urls"].append(article["link"])
                 save_sent_articles(sent_data)
+                count += 1
                 time.sleep(5)
 
-            if debug:
-                print("🧪 Debug-Modus: Warte 60 Sekunden...")
-                time.sleep(60)
-            else:
-                print("📘 Warte 2 Stunden bis zum nächsten Durchlauf...")
-                time.sleep(7200)
+        if count == 0:
+            send_log_to_telegram("⚠️ Keine neuen Artikel gefunden.")
+        else:
+            send_log_to_telegram(f"✅ {count} neue Artikel gesendet.")
+
+        if debug:
+            print("🧪 Debug-Modus: Warte 60 Sekunden...")
+            time.sleep(60)
+        else:
+            print("📘 Warte 2 Stunden bis zum nächsten Durchlauf...")
+            time.sleep(7200)
 
 if __name__ == "__main__":
     keep_alive()
     main_loop(debug=True)
-
