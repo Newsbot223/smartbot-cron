@@ -8,7 +8,7 @@ import requests
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from openai import OpenAI
-from newspaper import Article
+from readability import Document
 from bs4 import BeautifulSoup
 
 load_dotenv()
@@ -78,11 +78,13 @@ def fetch_articles():
 
 def extract_full_text(url):
     try:
-        article = Article(url)
-        article.download()
-        article.parse()
-        return article.text
-    except:
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        doc = Document(response.text)
+        html = doc.summary()
+        soup = BeautifulSoup(html, "html.parser")
+        return soup.get_text()
+    except Exception as e:
+        print("❌ Fehler beim Extrahieren:", e)
         return ""
 
 def extract_image_url(url):
