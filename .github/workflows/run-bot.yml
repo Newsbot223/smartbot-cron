@@ -1,0 +1,29 @@
+name: Run Telegram Bot every 15 minutes
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # каждые 15 минут
+  workflow_dispatch:        # запуск вручную по кнопке
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Клонируем репозиторий
+        uses: actions/checkout@v3
+
+      - name: 🐍 Устанавливаем Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Устанавливаем зависимости
+        run: pip install -r requirements.txt
+
+      - name: 🕵️ Запускаем бота
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python news_bot.py
