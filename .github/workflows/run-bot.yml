@@ -24,8 +24,7 @@ jobs:
           pip install --no-cache-dir --force-reinstall -r requirements.txt
 
       - name: 🔍 Проверка версии OpenAI
-        run: |
-          python -c "import openai; print('OpenAI version:', openai.__version__)"
+        - run: pip install --force-reinstall openai==1.1.1
 
       - name: 🕵️ Запускаем бота
         env:
