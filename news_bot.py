@@ -5,9 +5,9 @@ import time
 import json
 import feedparser
 import requests
-import openai
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+from openai import OpenAI
 from readability import Document
 from bs4 import BeautifulSoup
 
@@ -15,7 +15,7 @@ load_dotenv()
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 TELEGRAM_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -102,7 +102,7 @@ def summarize(text):
         f"{text}"
     )
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "Du bist Nachrichtenredakteur und schreibst klar, sachlich und ansprechend für Telegram."},
