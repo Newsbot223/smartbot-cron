@@ -18,8 +18,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 📦 Устанавливаем зависимости
-        run: pip install -r requirements.txt
+      - name: Устанавливаем зависимости (без кеша)
+        run: |
+          pip install --upgrade pip
+          pip install --no-cache-dir --force-reinstall -r requirements.txt
+
 
       - name: 🕵️ Запускаем бота
         env:
