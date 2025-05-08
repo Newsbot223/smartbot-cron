@@ -15,7 +15,10 @@ load_dotenv()
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(
+    api_key=os.getenv("OPENROUTER_API_KEY"),
+    base_url="https://openrouter.ai/api/v1"
+)
 
 TELEGRAM_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -103,7 +106,7 @@ def summarize(text):
     )
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="mistralai/mistral-7b-instruct",
             messages=[
                 {"role": "system", "content": "Du bist Nachrichtenredakteur und schreibst klar, sachlich und ansprechend für Telegram."},
                 {"role": "user", "content": prompt}
