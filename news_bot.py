@@ -165,6 +165,8 @@ def main_loop(debug=False):
 
         print(f"🔎 Analysiere: {article['title']}")
         full_text = extract_full_text(article["link"])
+        print(full_text[:500])  # ВРЕМЕННАЯ ОТЛАДКА
+
         if not full_text or len(full_text) < 300:
             print("❌ Zu wenig Text oder Fehler beim Extrahieren")
             continue
