@@ -18,11 +18,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Устанавливаем зависимости (без кеша)
+      - name: 🔧 Откат pip и установка зависимостей
         run: |
-          pip install --upgrade pip
+          python -m pip install pip==23.2.1
           pip install --no-cache-dir --force-reinstall -r requirements.txt
 
+      - name: 🔍 Проверка версии OpenAI
+        run: |
+          python -c "import openai; print('OpenAI version:', openai.__version__)"
 
       - name: 🕵️ Запускаем бота
         env:
