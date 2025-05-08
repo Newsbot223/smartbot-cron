@@ -159,17 +159,20 @@ def main_loop(debug=False):
     sent_data = load_sent_articles()
     count = 0
 
-    for article in articles:
-        if article["link"] in sent_data["urls"]:
-            continue
+for article in articles:
+    if article["link"] in sent_data["urls"]:
+        continue
 
-        print(f"🔎 Analysiere: {article['title']}")
-        full_text = extract_full_text(article["link"])
-        print(full_text[:500])  # ВРЕМЕННАЯ ОТЛАДКА
+    print(f"🔎 Analysiere: {article['title']}")
+    print(f"🔗 {article['link']}")  # Показывает ссылку
 
-        if not full_text or len(full_text) < 300:
-            print("❌ Zu wenig Text oder Fehler beim Extrahieren")
-            continue
+    full_text = extract_full_text(article["link"])
+    print("📄 Textauszug:", full_text[:300])  # Показывает первые 300 символов
+    print("📏 Länge:", len(full_text))         # Показывает длину текста
+
+    if not full_text or len(full_text) < 100:  # Временно снижаем порог
+        print("❌ Zu wenig Text oder Fehler beim Extrahieren")
+        continue
 
         summary = summarize(full_text)
         if summary:
