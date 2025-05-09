@@ -7,16 +7,20 @@ import feedparser
 import requests
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
-from openai import OpenAI
 from readability import Document
 from bs4 import BeautifulSoup
 
 load_dotenv()
+HF_API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
+HF_HEADERS = {
+    "Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
+    "Content-Type": "application/json"
+}
+
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-client = OpenAI(
-    api_key=os.getenv("OPENROUTER_API_KEY"),
+,
     base_url="https://openrouter.ai/api/v1"
 )
 
@@ -97,26 +101,34 @@ def extract_image_url(url):
     except:
         return None
 
+
 def summarize(text):
     prompt = (
         "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
         "Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. "
-        "Nutze kurze Absätze und formuliere professionell und klar:\n\n"
-        f"{text}"
+        "Nutze kurze Absätze und formuliere professionell und klar.
+
+" + text
     )
+    payload = {
+        "inputs": prompt,
+        "parameters": {"temperature": 0.7, "max_new_tokens": 600},
+        "options": {"use_cache": False}
+    }
     try:
-        response = client.chat.completions.create(
-            model="mistralai/mistral-7b-instruct",
-            messages=[
-                {"role": "system", "content": "Du bist Nachrichtenredakteur und schreibst klar, sachlich und ansprechend für Telegram."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
-        )
-        return response.choices[0].message.content.strip()
+        response = requests.post(HF_API_URL, headers=HF_HEADERS, json=payload, timeout=60)
+        response.raise_for_status()
+        result = response.json()
+        if isinstance(result, list) and "generated_text" in result[0]:
+            return result[0]["generated_text"].strip()
+        elif isinstance(result, dict) and "error" in result:
+            print("Hugging Face API-Fehler:", result["error"])
+        else:
+            print("⚠️ Unerwartete Antwort von Hugging Face:", result)
     except Exception as e:
-        print("Fehler bei OpenAI:", e)
-        return None
+        print("Fehler bei Hugging Face API:", e)
+    return None
+
 
 def send_to_telegram(text, image_url=None):
     url_photo = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
