@@ -17,7 +17,7 @@ FEEDS = [
 
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
-MAX_CHARS = 3500
+MAX_CHARS = 6500
 MAX_AGE_SECONDS = 10800  # 3 часа
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
@@ -81,9 +81,7 @@ Text: {text}
     try:
         res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
             "model": "mistralai/mistral-7b-instruct",
-            "messages": [
-                {"role": "user", "content": prompt}
-            ],
+            "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.7,
             "max_tokens": MAX_TOKENS
         }, timeout=60)
@@ -91,10 +89,11 @@ Text: {text}
         res.raise_for_status()
         result = res.json()
         if "choices" in result and isinstance(result["choices"], list):
-            return result["choices"][0]["message"]["content"].strip()
-        elif isinstance(result, dict) and "error" in result:
-            print("Fehler bei Zusammenfassung:", result["error"])
-            return ""
+            full = result["choices"][0]["message"]["content"].strip()
+            # Удаляем строку "Title: ..."
+            lines = full.splitlines()
+            cleaned = "\n".join([line for line in lines if not line.strip().lower().startswith("title:")])
+            return cleaned.strip()
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
         return ""
