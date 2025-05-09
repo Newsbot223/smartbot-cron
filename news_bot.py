@@ -102,9 +102,7 @@ def summarize(text):
     prompt = (
         "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
         "Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. "
-        "Nutze kurze Absätze und formuliere professionell und klar.
-
-" + text
+        "Nutze kurze Absätze und formuliere professionell und klar." + text
     )
     payload = {
         "inputs": prompt,
@@ -124,7 +122,6 @@ def summarize(text):
     except Exception as e:
         print("Fehler bei Hugging Face API:", e)
     return None
-
 
 def send_to_telegram(text, image_url=None):
     url_photo = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
