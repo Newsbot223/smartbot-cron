@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 load_dotenv()
 print("🔍 HF_TOKEN geladen:", os.getenv("HF_TOKEN")[:10])
-HF_API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
+HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"
 HF_HEADERS = {
     "Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
     "Content-Type": "application/json"
