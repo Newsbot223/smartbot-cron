@@ -17,7 +17,7 @@ FEEDS = [
 
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
-MAX_CHARS = 10000
+MAX_CHARS = 3500
 MAX_AGE_SECONDS = 10800  # 3 часа
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
@@ -91,10 +91,11 @@ Text: {text}
         result = res.json()
         if "choices" in result and isinstance(result["choices"], list):
             full = result["choices"][0]["message"]["content"].strip()
-            # Удаляем строки, начинающиеся с Title:, Titel:, Text:
             lines = full.splitlines()
-            cleaned = "
-".join([line for line in lines if not any(line.strip().lower().startswith(x) for x in ("title:", "titel:", "text:"))])
+            cleaned = "".join([
+                line for line in lines
+                if not any(line.strip().lower().startswith(x) for x in ("title:", "titel:", "text:"))
+            ])
             return cleaned.strip()
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
