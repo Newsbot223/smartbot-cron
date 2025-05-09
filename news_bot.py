@@ -80,7 +80,7 @@ Text: {text}
 '''
     try:
         res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
-            "model": "mistralai/mistral-7b-instruct:free",
+            "model": "mistralai/mistral-7b-instruct",
             "messages": [
                 {"role": "user", "content": prompt}
             ],
