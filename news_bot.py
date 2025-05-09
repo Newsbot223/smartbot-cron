@@ -17,7 +17,7 @@ FEEDS = [
 
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
-MAX_CHARS = 6500
+MAX_CHARS = 10000
 MAX_AGE_SECONDS = 10800  # 3 часа
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
@@ -72,6 +72,7 @@ def get_image_url(article_url):
         print("⚠ Fehler beim Abrufen des Bildes:", e)
     return None
 
+
 def summarize(text):
     prompt = f'''
 Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
@@ -90,13 +91,15 @@ Text: {text}
         result = res.json()
         if "choices" in result and isinstance(result["choices"], list):
             full = result["choices"][0]["message"]["content"].strip()
-            # Удаляем строку "Title: ..."
+            # Удаляем строки, начинающиеся с Title:, Titel:, Text:
             lines = full.splitlines()
-            cleaned = "\n".join([line for line in lines if not line.strip().lower().startswith("title:")])
+            cleaned = "
+".join([line for line in lines if not any(line.strip().lower().startswith(x) for x in ("title:", "titel:", "text:"))])
             return cleaned.strip()
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
         return ""
+
 
 def send_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
