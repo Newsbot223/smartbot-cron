@@ -15,8 +15,11 @@ FEEDS = [
     "https://www.faz.net/rss/aktuell/"
 ]
 
-MAX_ARTICLES = 1000  # сколько храним статей в списке
-MAX_TOKENS = 800     # лимит модели
+MAX_ARTICLES = 1000
+MAX_TOKENS = 800
+MAX_CHARS = 3500
+MAX_AGE_SECONDS = 10800  # 3 часа
+
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 CHAT_ID = os.getenv("CHAT_ID")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -47,7 +50,6 @@ def get_article_text(url):
         summary = doc.summary()
         text = BeautifulSoup(summary, "html.parser").get_text(separator=" ", strip=True)
         if len(text) < 100:
-            # fallback
             soup = BeautifulSoup(html, "html.parser")
             article = soup.find("article") or soup.find("main")
             if article:
@@ -58,7 +60,6 @@ def get_article_text(url):
     except Exception as e:
         print(f"⚠ Fehler beim Abrufen des Artikels: {e}")
         return ""
-
 
 def get_image_url(article_url):
     try:
@@ -71,14 +72,12 @@ def get_image_url(article_url):
         print("⚠ Fehler beim Abrufen des Bildes:", e)
     return None
 
-
 def summarize(text):
     prompt = f'''
-Fasse diesen deutschen Nachrichtentext in 4-7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
+Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
 
 Text: {text}
 '''
-
     try:
         res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
             "model": "mistralai/mistral-7b-instruct:free",
@@ -90,7 +89,6 @@ Text: {text}
         }, timeout=60)
 
         res.raise_for_status()
-        data = res.json()
         result = res.json()
         if "choices" in result and isinstance(result["choices"], list):
             return result["choices"][0]["message"]["content"].strip()
@@ -109,8 +107,17 @@ def send_message(text):
         "parse_mode": "HTML",
         "disable_web_page_preview": False
     }
-    res = requests.post(url, json=payload)
-    return res.status_code == 200
+    return requests.post(url, json=payload).status_code == 200
+
+def send_photo(photo_url, caption):
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
+    payload = {
+        "chat_id": CHAT_ID,
+        "photo": photo_url,
+        "caption": caption,
+        "parse_mode": "HTML"
+    }
+    return requests.post(url, json=payload).status_code == 200
 
 def main():
     sent = load_sent_articles()
@@ -125,12 +132,12 @@ def main():
             published = entry.get("published_parsed")
             if published:
                 pub_date = datetime.fromtimestamp(time.mktime(published))
-                if (datetime.utcnow() - pub_date).total_seconds() > 10800:
+                if (datetime.utcnow() - pub_date).total_seconds() > MAX_AGE_SECONDS:
                     print(f"⏳ Zu alt, übersprungen: {title}")
                     continue
 
             full_text = get_article_text(url)
-            if len(full_text) > 6000:
+            if len(full_text) > MAX_CHARS:
                 print(f"⚠ Zu lang, übersprungen: {title} ({len(full_text)} Zeichen)")
                 continue
 
@@ -147,15 +154,11 @@ def main():
             if not summary:
                 continue
 
-            
             image_url = get_image_url(url)
             caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
-            if image_url:
-                send_photo(image_url, caption)
-            else:
-                send_message(caption)
 
-            success = True
+            success = send_photo(image_url, caption) if image_url else send_message(caption)
+
             if success:
                 print("✅ Gesendet")
                 sent["urls"].append(url)
@@ -167,13 +170,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-def send_photo(photo_url, caption):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
-    payload = {
-        "chat_id": CHAT_ID,
-        "photo": photo_url,
-        "caption": caption,
-        "parse_mode": "HTML"
-    }
-    res = requests.post(url, json=payload)
-    return res.status_code == 200
