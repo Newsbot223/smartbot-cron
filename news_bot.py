@@ -91,7 +91,12 @@ Text: {text}
 
         res.raise_for_status()
         data = res.json()
-        return data["choices"][0]["message"]["content"]
+        result = res.json()
+        if "choices" in result and isinstance(result["choices"], list):
+            return result["choices"][0]["message"]["content"].strip()
+        elif isinstance(result, dict) and "error" in result:
+            print("Fehler bei Zusammenfassung:", result["error"])
+            return ""
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
         return ""
@@ -172,9 +177,3 @@ def send_photo(photo_url, caption):
     }
     res = requests.post(url, json=payload)
     return res.status_code == 200
-
-result = response.json()
-if "choices" in result and isinstance(result["choices"], list):
-    return result["choices"][0]["message"]["content"].strip()
-elif isinstance(result, dict) and "error" in result:
-    print("Fehler bei Zusammenfassung:", result["error"])
