@@ -3,6 +3,30 @@ import os
 import sys
 import time
 import json
+# Загружаем отправленные статьи
+sent_data = {"urls": [], "hashes": []}
+try:
+    with open("sent_articles.json", "r", encoding="utf-8") as f:
+        sent_data = json.load(f)
+except Exception:
+    pass
+
+def is_duplicate(url, text):
+    from hashlib import md5
+    text_hash = md5(text[:1000].encode("utf-8")).hexdigest()
+    return url in sent_data["urls"] or text_hash in sent_data["hashes"]
+
+def remember_article(url, text):
+    from hashlib import md5
+    text_hash = md5(text[:1000].encode("utf-8")).hexdigest()
+    sent_data["urls"].append(url)
+    sent_data["hashes"].append(text_hash)
+    # Оставляем только последние 1000 записей
+    sent_data["urls"] = sent_data["urls"][-1000:]
+    sent_data["hashes"] = sent_data["hashes"][-1000:]
+    with open("sent_articles.json", "w", encoding="utf-8") as f:
+        json.dump(sent_data, f)
+
 import feedparser
 import requests
 from datetime import datetime, timedelta
@@ -11,7 +35,12 @@ from readability import Document
 from bs4 import BeautifulSoup
 
 load_dotenv()
-GPTJ_API_URL = "http://api.vicgalle.net:5000/generate"
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.getenv("OPENROUTER_API_KEY"),
+    base_url="https://openrouter.ai/api/v1"
+)
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
@@ -22,9 +51,7 @@ CHAT_ID = os.getenv("CHAT_ID")
 SOURCES = [
     "https://www.spiegel.de/international/index.rss",
     "https://www.zdf.de/rss/zdfheutea.xml",
-    "https://www.faz.net/rss/aktuell/",
-    "https://www.belltower.news/feed/",
-    "https://overton-magazin.de/feed/"
+    "https://www.faz.net/rss/aktuell/"
 ]
 
 SENT_ARTICLES_FILE = "sent_articles.json"
@@ -95,25 +122,24 @@ def extract_image_url(url):
 
 
 
+
 def summarize(text):
     prompt = (
         "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
         "Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. "
         "Nutze kurze Absätze und formuliere professionell und klar." + text
     )
-    payload = {
-        "context": prompt,
-        "token_max_length": 600,
-        "temperature": 0.7,
-        "top_p": 0.9
-    }
+    
     try:
-        response = requests.post(GPTJ_API_URL, params=payload, timeout=60)
-        response.raise_for_status()
-        result = response.json()
-        return result.get("text", "").strip()
+        response = client.chat.completions.create(
+            model="mistralai/mistral-7b-instruct",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=800,
+            temperature=0.7
+        )
+        return response.choices[0].message.content.strip()
     except Exception as e:
-        print("❌ Fehler bei GPT-J API:", e)
+        print("❌ Fehler bei OpenRouter:", e)
         return None
 
 
