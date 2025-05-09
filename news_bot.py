@@ -20,10 +20,6 @@ HF_HEADERS = {
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-,
-    base_url="https://openrouter.ai/api/v1"
-)
-
 TELEGRAM_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
