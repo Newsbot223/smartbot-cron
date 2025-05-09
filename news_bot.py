@@ -13,9 +13,6 @@ from bs4 import BeautifulSoup
 load_dotenv()
 GPTJ_API_URL = "http://api.vicgalle.net:5000/generate"
 
-"Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
-"Content-Type": "application/json"
-
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
