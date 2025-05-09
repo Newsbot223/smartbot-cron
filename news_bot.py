@@ -11,6 +11,7 @@ from readability import Document
 from bs4 import BeautifulSoup
 
 load_dotenv()
+print("🔍 HF_TOKEN geladen:", os.getenv("HF_TOKEN")[:10])
 HF_API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
 HF_HEADERS = {
     "Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
@@ -111,6 +112,7 @@ def summarize(text):
     }
     try:
         response = requests.post(HF_API_URL, headers=HF_HEADERS, json=payload, timeout=60)
+        print("📡 Sende Anfrage an Hugging Face...")
         response.raise_for_status()
         result = response.json()
         if isinstance(result, list) and "generated_text" in result[0]:
