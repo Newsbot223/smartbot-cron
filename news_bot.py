@@ -59,14 +59,25 @@ def get_article_text(url):
         print(f"⚠ Fehler beim Abrufen des Artikels: {e}")
         return ""
 
+
+def get_image_url(article_url):
+    try:
+        html = requests.get(article_url, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
+        og_image = soup.find("meta", property="og:image")
+        if og_image and og_image.get("content"):
+            return og_image["content"]
+    except Exception as e:
+        print("⚠ Fehler beim Abrufen des Bildes:", e)
+    return None
+
+
 def summarize(text):
-    prompt = f'''
-Fasse diesen deutschen Nachrichtentext in 4-7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
-
-Danach übersetze denselben Text vollständig auf Russisch.
-
-Text: {text}
-'''
+    prompt = (
+        "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
+        "Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. "
+        "Nutze kurze Absätze und formuliere professionell und klar." + text
+)
 
     try:
         res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
@@ -106,6 +117,13 @@ def main():
                 continue
 
             title = entry.title
+            published = entry.get("published_parsed")
+            if published:
+                pub_date = datetime.fromtimestamp(time.mktime(published))
+                if (datetime.utcnow() - pub_date).total_seconds() > 10800:
+                    print(f"⏳ Zu alt, übersprungen: {title}")
+                    continue
+
             full_text = get_article_text(url)
             if len(full_text) < 200:
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
@@ -120,8 +138,15 @@ def main():
             if not summary:
                 continue
 
-            message = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Quelle öffnen</a>"
-            success = send_message(message)
+            
+            image_url = get_image_url(url)
+            caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
+            if image_url:
+                send_photo(image_url, caption)
+            else:
+                send_message(caption)
+
+            success = True
             if success:
                 print("✅ Gesendet")
                 sent["urls"].append(url)
@@ -133,3 +158,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+def send_photo(photo_url, caption):
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
+    payload = {
+        "chat_id": CHAT_ID,
+        "photo": photo_url,
+        "caption": caption,
+        "parse_mode": "HTML"
+    }
+    res = requests.post(url, json=payload)
+    return res.status_code == 200
