@@ -73,11 +73,11 @@ def get_image_url(article_url):
 
 
 def summarize(text):
-    prompt = (
-        "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
-        "Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. "
-        "Nutze kurze Absätze und formuliere professionell und klar." + text
-)
+    prompt = f'''
+Fasse diesen deutschen Nachrichtentext in 4-7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
+
+Text: {text}
+'''
 
     try:
         res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
@@ -125,6 +125,10 @@ def main():
                     continue
 
             full_text = get_article_text(url)
+            if len(full_text) > 3500:
+                print(f"⚠ Zu lang, übersprungen: {title} ({len(full_text)} Zeichen)")
+                continue
+
             if len(full_text) < 200:
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
                 continue
