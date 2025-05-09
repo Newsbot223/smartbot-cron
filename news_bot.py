@@ -11,12 +11,10 @@ from readability import Document
 from bs4 import BeautifulSoup
 
 load_dotenv()
-print("🔍 HF_TOKEN geladen:", os.getenv("HF_TOKEN")[:10])
-HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"
-HF_HEADERS = {
-    "Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
-    "Content-Type": "application/json"
-}
+GPTJ_API_URL = "http://api.vicgalle.net:5000/generate"
+
+"Authorization": f"Bearer {os.getenv('HF_TOKEN')}",
+"Content-Type": "application/json"
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
@@ -99,6 +97,7 @@ def extract_image_url(url):
         return None
 
 
+
 def summarize(text):
     prompt = (
         "Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. "
@@ -106,24 +105,20 @@ def summarize(text):
         "Nutze kurze Absätze und formuliere professionell und klar." + text
     )
     payload = {
-        "inputs": prompt,
-        "parameters": {"temperature": 0.7, "max_new_tokens": 600},
-        "options": {"use_cache": False}
+        "context": prompt,
+        "token_max_length": 600,
+        "temperature": 0.7,
+        "top_p": 0.9
     }
     try:
-        response = requests.post(HF_API_URL, headers=HF_HEADERS, json=payload, timeout=60)
-        print("📡 Sende Anfrage an Hugging Face...")
+        response = requests.post(GPTJ_API_URL, params=payload, timeout=60)
         response.raise_for_status()
         result = response.json()
-        if isinstance(result, list) and "generated_text" in result[0]:
-            return result[0]["generated_text"].strip()
-        elif isinstance(result, dict) and "error" in result:
-            print("Hugging Face API-Fehler:", result["error"])
-        else:
-            print("⚠️ Unerwartete Antwort von Hugging Face:", result)
+        return result.get("text", "").strip()
     except Exception as e:
-        print("Fehler bei Hugging Face API:", e)
-    return None
+        print("❌ Fehler bei GPT-J API:", e)
+        return None
+
 
 def send_to_telegram(text, image_url=None):
     url_photo = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
