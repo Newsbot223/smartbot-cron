@@ -10,9 +10,9 @@ from readability import Document
 
 # --- Константы ---
 FEEDS = [
-    "https://www.spiegel.de/international/index.rss",
-    "https://www.zdf.de/rss/zdfheutea.xml",
-    "https://www.faz.net/rss/aktuell/"
+    "https://www.spiegel.de/thema/deutschland/index.rss",
+    "https://www.zdf.de/rss/zdfheute-deutschland-100.html",
+    "https://www.faz.net/rss/aktuell/politik/inland"
 ]
 
 MAX_ARTICLES = 1000
@@ -160,7 +160,14 @@ def main():
             image_url = get_image_url(url)
             caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
 
-            success = send_photo(image_url, caption) if image_url else send_message(caption)
+            success = False
+            if image_url:
+                success = send_photo(image_url, caption)
+                if not success:
+                    print("⚠ Fehler beim Senden des Bildes. Versuche nur Text...")
+                    success = send_message(caption)
+            else:
+                success = send_message(caption)
 
             if success:
                 print("✅ Gesendet")
