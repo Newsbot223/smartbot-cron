@@ -18,7 +18,7 @@ FEEDS = [
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
 MAX_CHARS = 8000
-MAX_AGE_SECONDS = 10800  # 3 часа
+MAX_AGE_SECONDS = 86400  # 3 часа
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -136,7 +136,7 @@ def main():
             if published:
                 pub_date = datetime.fromtimestamp(time.mktime(published))
                 if (datetime.utcnow() - pub_date).total_seconds() > MAX_AGE_SECONDS:
-                    print(f"⏳ Zu alt, übersprungen: {title}")
+                    print(f"⏳ Zu alt ({feed_url}): {title}")
                     continue
 
             full_text = get_article_text(url)
