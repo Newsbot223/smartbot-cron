@@ -2,7 +2,7 @@ name: Run Telegram Bot every 45 minutes
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # каждые 15 минут
+    - cron: '0,45 * * * *'  # запуск в 00 и 45 минут каждого часа
   workflow_dispatch:        # запуск вручную по кнопке
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
       - name: 🔧 Откат pip и установка зависимостей
         run: |
           python -m pip install pip==23.2.1
-                    pip install --no-cache-dir --force-reinstall -r requirements.txt
+          pip install --no-cache-dir --force-reinstall -r requirements.txt
 
       - name: 🕵️ Запускаем бота
         env:
