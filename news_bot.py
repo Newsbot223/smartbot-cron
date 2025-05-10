@@ -18,7 +18,7 @@ FEEDS = [
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
 MAX_CHARS = 8000
-MAX_AGE_SECONDS = 86400  # 3 часа
+MAX_AGE_SECONDS = 10800  # 3 часа
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -34,11 +34,12 @@ def load_sent_articles():
         with open("sent_articles.json", "r", encoding="utf-8") as f:
             return json.load(f)
     except:
-        return {"urls": [], "hashes": []}
+        return {"urls": [], "hashes": [], "titles": []}
 
 def save_sent_articles(data):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
+    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
     with open("sent_articles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -96,7 +97,10 @@ Text: {text}
                 line for line in lines
                 if not any(line.strip().lower().startswith(x) for x in ("title:", "titel:", "text:"))
             ])
-            return cleaned.strip()
+            summary = cleaned.strip()
+            if summary.count(".") > 7:
+                summary = ".".join(summary.split(".")[:7]) + "."
+            return summary
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
         return ""
@@ -128,7 +132,9 @@ def main():
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             url = entry.link
-            if url in sent["urls"]:
+            if url in sent["urls"] or title in sent["titles"]:
+                print(f"⏩ Bereits verarbeitet: {title}")
+                continue
                 continue
 
             title = entry.title
@@ -136,7 +142,7 @@ def main():
             if published:
                 pub_date = datetime.fromtimestamp(time.mktime(published))
                 if (datetime.utcnow() - pub_date).total_seconds() > MAX_AGE_SECONDS:
-                    print(f"⏳ Zu alt ({feed_url}): {title}")
+                    print(f"⏳ Zu alt, übersprungen: {title}")
                     continue
 
             full_text = get_article_text(url)
@@ -173,6 +179,7 @@ def main():
                 print("✅ Gesendet")
                 sent["urls"].append(url)
                 sent["hashes"].append(hash_)
+                sent["titles"].append(title)
             else:
                 print("⚠ Fehler beim Senden")
 
