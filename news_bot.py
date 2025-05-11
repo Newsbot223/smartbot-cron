@@ -38,6 +38,17 @@ KEYWORDS = [
     "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise"
 ]
 
+BLOCKED_KEYWORDS = [
+    # Погода
+    "wetter", "wetterbericht", "regen", "sonnig", "heiter", "unwetter",
+    "vorhersage", "temperature", "schnee", "hitze",
+
+    # Спорт
+    "sport", "bundesliga", "fußball", "tor", "spiel", "trainer",
+    "verein", "tabelle", "champions league", "olympia", "weltmeisterschaft",
+    "spieltag", "tennis", "formel 1", "handball", "basketball"
+]
+
 def load_sent_articles():
     try:
         with open("sent_articles.json", "r", encoding="utf-8") as f:
@@ -165,6 +176,10 @@ def main():
 
             if not any(keyword.lower() in full_text.lower() for keyword in KEYWORDS):
                 print(f"⛔ Thema nicht relevant: {title}")
+                continue
+
+            if any(word in full_text.lower() for word in BLOCKED_KEYWORDS):
+                print(f"❌ Thema blockiert: {title}")
                 continue
 
             hash_ = hashlib.md5(full_text.encode("utf-8")).hexdigest()
