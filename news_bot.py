@@ -10,8 +10,10 @@ from readability import Document
 
 # --- Константы ---
 FEEDS = [
+    "https://www.deutschlandfunk.de/nachrichten-100.rss",
+    "https://www.deutschlandfunk.de/politikportal-100.rss",
+    "https://www.deutschlandfunk.de/wirtschaft-106.rss",
     "https://www.spiegel.de/thema/deutschland/index.rss",
-    "https://www.zdf.de/rss/zdfheute-deutschland-100.html",
     "https://www.faz.net/rss/aktuell/politik/inland"
 ]
 
@@ -28,6 +30,13 @@ HEADERS = {
     "Authorization": f"Bearer {OPENROUTER_API_KEY}",
     "Content-Type": "application/json",
 }
+
+KEYWORDS = [
+    "regierung", "bundestag", "wirtschaft", "ampel", "haushalt", "migration",
+    "bürgergeld", "afd", "spd", "cdu", "grüne", "wahl", "streik",
+    "arbeitsmarkt", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
+    "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise"
+]
 
 def load_sent_articles():
     try:
@@ -152,6 +161,10 @@ def main():
 
             if len(full_text) < 200:
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
+                continue
+
+            if not any(keyword.lower() in full_text.lower() for keyword in KEYWORDS):
+                print(f"⛔ Thema nicht relevant: {title}")
                 continue
 
             hash_ = hashlib.md5(full_text.encode("utf-8")).hexdigest()
