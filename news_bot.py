@@ -166,6 +166,25 @@ def main():
                     continue
 
             full_text = get_article_text(url)
+
+            UNWANTED_ENDINGS = [
+                r'Diese Entwicklung wurde am \d{2}\.\d{2}\.\d{4} .*? berichtet\.',
+                r'Diese Meldung wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
+                r'Diese Nachricht wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
+                r'Die Nachricht wurde am gleichen Tag veröffentlicht\.',
+                r'Die Information wurde am selben Tag verbreitet\.',
+                r'Die Verbreitung dieser Flyer wurde am .*? gemeldet\.',
+                r'Der Link zur Nachricht kann.*?(kopiert|geteilt).*?',
+                r'Am \d{2}\.\d{2}\.\d{4} veröffentlicht\.',
+                r'(Veröffentlicht|Berichtet) am \d{2}\.\d{2}\.\d{4}',
+                r'\(?Stand: \d{2}\.\d{2}\.\d{4}\)?',
+                r'\(?\d{2}\.\d{2}\.\d{4}\)?\s*im Programm Deutschlandfunk'
+            ]
+
+            for pattern in UNWANTED_ENDINGS:
+                full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
+
+
             # Удаляем стандартные хвосты с датами и источниками
             UNWANTED_ENDINGS = [
                 r'Diese Entwicklung wurde am \d{2}\.\d{2}\.\d{4} .*? berichtet\.',
