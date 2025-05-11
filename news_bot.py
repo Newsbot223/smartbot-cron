@@ -168,13 +168,13 @@ def main():
             full_text = get_article_text(url)
             # Удаляем стандартные хвосты с датами и источниками
             UNWANTED_ENDINGS = [
-                r'Diese Entwicklung wurde am \\d{2}\\.\\d{2}\\.\\d{4} .*? berichtet\\.',
-                r'Diese Meldung wurde am \\d{2}\\.\\d{2}\\.\\d{4} .*? veröffentlicht\\.',
-                r'Diese Nachricht wurde am \\d{2}\\.\\d{2}\\.\\d{4} .*? veröffentlicht\\.',
-                r'Am \\d{2}\\.\\d{2}\\.\\d{4} veröffentlicht\\.',
-                r'(Veröffentlicht|Berichtet) am \\d{2}\\.\\d{2}\\.\\d{4}',
-                r'\\(?Stand: \\d{2}\\.\\d{2}\\.\\d{4}\\)?',
-                r'\\(?\\d{2}\\.\\d{2}\\.\\d{4}\\)?\\s*im Programm Deutschlandfunk'
+                r'Diese Entwicklung wurde am \d{2}\.\d{2}\.\d{4} .*? berichtet\.',
+                r'Diese Meldung wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
+                r'Diese Nachricht wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
+                r'Am \d{2}\.\d{2}\.\d{4} veröffentlicht\.',
+                r'(Veröffentlicht|Berichtet) am \d{2}\.\d{2}\.\d{4}',
+                r'\(?Stand: \d{2}\.\d{2}\.\d{4}\)?',
+                r'\(?\d{2}\.\d{2}\.\d{4}\)?\s*im Programm Deutschlandfunk'
             ]
 
             import re
