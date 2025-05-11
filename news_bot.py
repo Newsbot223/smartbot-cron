@@ -4,6 +4,7 @@ import time
 import hashlib
 import requests
 import feedparser
+import re
 from bs4 import BeautifulSoup
 from datetime import datetime
 from readability import Document
@@ -196,7 +197,7 @@ def main():
                 r'\(?\d{2}\.\d{2}\.\d{4}\)?\s*im Programm Deutschlandfunk'
             ]
 
-            import re
+
             for pattern in UNWANTED_ENDINGS:
                 full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
 
