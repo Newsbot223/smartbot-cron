@@ -132,13 +132,12 @@ def main():
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             url = entry.link
-            
-                continue
 
             title = entry.title
             if url in sent["urls"] or title in sent["titles"]:
                 print(f"⏩ Bereits verarbeitet: {title}")
                 continue
+
             published = entry.get("published_parsed")
             if published:
                 pub_date = datetime.fromtimestamp(time.mktime(published))
