@@ -59,16 +59,17 @@ def load_sent_articles():
     except:
         return {"urls": [], "hashes": [], "titles": []}
 
-def save_sent_articles(data):
-    data["urls"] = data["urls"][-MAX_ARTICLES:]
-    if not data['urls'] or not data['hashes']:
-        print("⚠️ Нет новых данных — файл не пересылается.")
-        return
     upload_sent_json()
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
     with open("sent_articles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+def save_sent_articles(data):
+    data["urls"] = data["urls"][-MAX_ARTICLES:]
+    if not data['urls'] or not data['hashes']:
+        print("⚠️ Нет новых данных — файл не пересылается.")
+        return
 
 def get_article_text(url):
     try:
@@ -153,7 +154,31 @@ def send_photo(photo_url, caption):
     }
     return requests.post(url, json=payload).status_code == 200
 
-def upload_sent_json():
+def get_latest_sent_file_id():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
+    try:
+        res = requests.get(url).json()
+        for update in reversed(res["result"]):
+            doc = update.get("message", {}).get("document", {})
+            if doc.get("file_name") == "sent_articles.json":
+                return doc.get("file_id")
+    except Exception as e:
+        print("⚠ Fehler bei getUpdates:", e)
+    return None
+
+def download_sent_json():
+    file_id = get_latest_sent_file_id()
+    if not file_id:
+        print("❗ Не найден файл sent_articles.json в getUpdates.")
+        return
+    info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
+    file_path = info["result"]["file_path"]
+    url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
+    data = requests.get(url).content
+    with open("sent_articles.json", "wb") as f:
+        f.write(data)
+    print("📥 Загружен самый свежий sent_articles.json из Telegram")
+
     with open("sent_articles.json", "rb") as f:
         url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
         files = {"document": f}
@@ -254,28 +279,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-def get_latest_sent_file_id():
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
-    try:
-        res = requests.get(url).json()
-        for update in reversed(res.get("result", [])):
-            doc = update.get("message", {}).get("document", {})
-            if doc.get("file_name") == "sent_articles.json":
-                return doc.get("file_id")
-    except Exception as e:
-        print("⚠ Fehler bei getUpdates:", e)
-    return None
-
-def download_sent_json():
-    file_id = get_latest_sent_file_id()
-    if not file_id:
-        print("❗ Не найден файл sent_articles.json в getUpdates.")
-        return
-    info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
-    file_path = info["result"]["file_path"]
-    url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
-    data = requests.get(url).content
-    with open("sent_articles.json", "wb") as f:
-        f.write(data)
-    print("📥 Загружен самый свежий sent_articles.json из Telegram")
