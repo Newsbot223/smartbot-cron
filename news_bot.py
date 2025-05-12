@@ -32,11 +32,11 @@ HEADERS = {
     "Content-Type": "application/json",
 }
 
-KEYWORDS = [
+KEYWORD_ROOTS = [
     "regierung", "bundestag", "wirtschaft", "ampel", "haushalt", "migration",
-    "bürgergeld", "afd", "spd", "cdu", "grüne", "wahl", "streik",
-    "arbeitsmarkt", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
-    "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise"
+    "bürgergeld", "afd", "spd", "cdu", "grün", "wahl", "streik",
+    "arbeits", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
+    "grenz", "bundespolizei", "flüchtling", "einreise"
 ]
 
 BLOCKED_KEYWORDS = [
@@ -221,8 +221,8 @@ def main():
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
                 continue
 
-            if not any(keyword.lower() in full_text.lower() for keyword in KEYWORDS):
-                print(f"⛔ Thema nicht relevant: {title}")
+            if not any(root in title.lower() for root in KEYWORD_ROOTS):
+                print("❌ Thema blockiert:", title)
                 continue
 
             if any(word in full_text.lower() for word in BLOCKED_KEYWORDS):
