@@ -32,11 +32,11 @@ HEADERS = {
     "Content-Type": "application/json",
 }
 
-KEYWORD_ROOTS = [
+KEYWORDS = [
     "regierung", "bundestag", "wirtschaft", "ampel", "haushalt", "migration",
-    "bürgergeld", "afd", "spd", "cdu", "grün", "wahl", "streik",
-    "arbeits", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
-    "grenz", "bundespolizei", "flüchtling", "einreise"
+    "bürgergeld", "afd", "spd", "cdu", "grüne", "wahl", "streik",
+    "arbeitsmarkt", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
+    "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise"
 ]
 
 BLOCKED_KEYWORDS = [
@@ -153,16 +153,6 @@ def send_photo(photo_url, caption):
     }
     return requests.post(url, json=payload).status_code == 200
 
-def download_sent_json():
-    url = "https://api.telegram.org/bot{}/getFile?file_id={}"
-    file_info = requests.get(url.format(BOT_TOKEN, "BQACAgIAAxkBAAIDqmghzcR68uyKy6vUGrJGw2sVg8fJAAICdgACZG4ISYkFFdbMAQABDDYE")).json()
-    file_path = file_info["result"]["file_path"]
-    file_url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/" + file_path
-    response = requests.get(file_url)
-    with open("sent_articles.json", "wb") as f:
-        f.write(response.content)
-    print("📥 Загружен sent_articles.json из Telegram")
-
 def upload_sent_json():
     with open("sent_articles.json", "rb") as f:
         url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
@@ -221,8 +211,8 @@ def main():
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
                 continue
 
-            if not any(root in title.lower() for root in KEYWORD_ROOTS):
-                print("❌ Thema blockiert:", title)
+            if not any(keyword.lower() in full_text.lower() for keyword in KEYWORDS):
+                print(f"⛔ Thema nicht relevant: {title}")
                 continue
 
             if any(word in full_text.lower() for word in BLOCKED_KEYWORDS):
@@ -256,9 +246,36 @@ def main():
                 sent["urls"].append(url)
                 sent["hashes"].append(hash_)
                 sent["titles"].append(title)
-                save_sent_articles(sent)
             else:
                 print("⚠ Fehler beim Senden")
 
+    print("💾 Сохраняем данные:", json.dumps(sent, indent=2, ensure_ascii=False))
+    save_sent_articles(sent)
+
 if __name__ == "__main__":
     main()
+
+def get_latest_sent_file_id():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
+    try:
+        res = requests.get(url).json()
+        for update in reversed(res.get("result", [])):
+            doc = update.get("message", {}).get("document", {})
+            if doc.get("file_name") == "sent_articles.json":
+                return doc.get("file_id")
+    except Exception as e:
+        print("⚠ Fehler bei getUpdates:", e)
+    return None
+
+def download_sent_json():
+    file_id = get_latest_sent_file_id()
+    if not file_id:
+        print("❗ Не найден файл sent_articles.json в getUpdates.")
+        return
+    info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
+    file_path = info["result"]["file_path"]
+    url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
+    data = requests.get(url).content
+    with open("sent_articles.json", "wb") as f:
+        f.write(data)
+    print("📥 Загружен самый свежий sent_articles.json из Telegram")
