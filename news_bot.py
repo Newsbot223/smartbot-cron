@@ -53,14 +53,11 @@ BLOCKED_KEYWORDS = [
 def load_sent_articles():
     try:
         with open("sent_articles.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-        print("📂 Загружен sent_articles.json:", json.dumps(data, indent=2, ensure_ascii=False))
-        return json.load(f)
+            return json.load(f)
     except:
         return {"urls": [], "hashes": [], "titles": []}
 
 def save_sent_articles(data):
-    print("📝 Сохраняем данные:", json.dumps(data, indent=2, ensure_ascii=False))
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
@@ -232,11 +229,8 @@ def main():
             if success:
                 print("✅ Gesendet")
                 sent["urls"].append(url)
-                print("➕ Добавлен URL:", url)
                 sent["hashes"].append(hash_)
-                print("➕ Добавлен ХЭШ:", hash_)
                 sent["titles"].append(title)
-                print("➕ Добавлен ЗАГОЛОВОК:", title)
             else:
                 print("⚠ Fehler beim Senden")
 
@@ -244,3 +238,21 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+def get_updates():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
+    try:
+        response = requests.get(url)
+        updates = response.json()
+        print("📥 Последние обновления от Telegram:")
+        for result in updates.get("result", []):
+            if "document" in result.get("message", {}):
+                doc = result["message"]["document"]
+                print(f"📎 Найден файл: {doc.get('file_name')} — file_id: {doc.get('file_id')}")
+    except Exception as e:
+        print("⚠️ Ошибка при получении обновлений:", e)
+
+
+get_updates()
