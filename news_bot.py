@@ -59,6 +59,7 @@ def load_sent_articles():
 
 def save_sent_articles(data):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
+    upload_sent_json()
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
     with open("sent_articles.json", "w", encoding="utf-8") as f:
@@ -147,7 +148,26 @@ def send_photo(photo_url, caption):
     }
     return requests.post(url, json=payload).status_code == 200
 
+def download_sent_json():
+    url = "https://api.telegram.org/bot{}/getFile?file_id={}"
+    file_info = requests.get(url.format(BOT_TOKEN, "BQACAgIAAxkBAAIDqmghzcR68uyKy6vUGrJGw2sVg8fJAAICdgACZG4ISYkFFdbMAQABDDYE")).json()
+    file_path = file_info["result"]["file_path"]
+    file_url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/" + file_path
+    response = requests.get(file_url)
+    with open("sent_articles.json", "wb") as f:
+        f.write(response.content)
+    print("📥 Загружен sent_articles.json из Telegram")
+
+def upload_sent_json():
+    with open("sent_articles.json", "rb") as f:
+        url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+        files = {"document": f}
+        data = {"chat_id": CHAT_ID, "caption": "✅ Обновлённый sent_articles.json"}
+        response = requests.post(url, files=files, data=data)
+        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
+
 def main():
+    download_sent_json()
     sent = load_sent_articles()
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
@@ -238,21 +258,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-def get_updates():
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
-    try:
-        response = requests.get(url)
-        updates = response.json()
-        print("📥 Последние обновления от Telegram:")
-        for result in updates.get("result", []):
-            if "document" in result.get("message", {}):
-                doc = result["message"]["document"]
-                print(f"📎 Найден файл: {doc.get('file_name')} — file_id: {doc.get('file_id')}")
-    except Exception as e:
-        print("⚠️ Ошибка при получении обновлений:", e)
-
-
-get_updates()
