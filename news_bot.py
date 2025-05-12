@@ -53,11 +53,14 @@ BLOCKED_KEYWORDS = [
 def load_sent_articles():
     try:
         with open("sent_articles.json", "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+        print("📂 Загружен sent_articles.json:", json.dumps(data, indent=2, ensure_ascii=False))
+        return json.load(f)
     except:
         return {"urls": [], "hashes": [], "titles": []}
 
 def save_sent_articles(data):
+    print("📝 Сохраняем данные:", json.dumps(data, indent=2, ensure_ascii=False))
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
@@ -229,8 +232,11 @@ def main():
             if success:
                 print("✅ Gesendet")
                 sent["urls"].append(url)
+                print("➕ Добавлен URL:", url)
                 sent["hashes"].append(hash_)
+                print("➕ Добавлен ХЭШ:", hash_)
                 sent["titles"].append(title)
+                print("➕ Добавлен ЗАГОЛОВОК:", title)
             else:
                 print("⚠ Fehler beim Senden")
 
