@@ -84,7 +84,7 @@ def upload_sent_json():
         print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
 
 def load_sent_articles():
-    if not os.path.exists("sent_articles.json"):
+    if not os.path.exists("sent_articles.json") or os.path.getsize("sent_articles.json") < 100:
         print("📂 Файл не найден локально, загружаем из Telegram...")
         download_sent_json()
 
