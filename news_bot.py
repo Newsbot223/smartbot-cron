@@ -161,6 +161,25 @@ def get_article_text(url):
         print("⚠ Ошибка при получении изображения:", e)
     return None
 
+def save_sent_articles(data):
+    data["urls"] = data["urls"][-MAX_ARTICLES:]
+    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
+    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
+
+    if not data['urls'] or not data['hashes']:
+        print("⚠️ Нет новых данных — файл не пересылается.")
+        return
+
+    with open("sent_articles.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("💾 sent_articles.json сохранён.")
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+    with open("sent_articles.json", "rb") as f:
+        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
+        print("📤 Отправка файла в Telegram... статус:", response.status_code)
+        print("📨 Ответ Telegram:", response.text)
+
 def main():
     if not os.path.exists("sent_articles.json"):
         download_sent_json()
@@ -229,8 +248,8 @@ def main():
             print(f"🔄 Analysiere: {title}")
             summary = summarize(full_text)
             if not summary:
-                continue       
-                 
+                continue      
+
             caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
 
             success = False
