@@ -59,6 +59,9 @@ def load_sent_articles():
 
 def save_sent_articles(data):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
+    if not data['urls'] or not data['hashes']:
+        print("⚠️ Нет новых данных — файл не пересылается.")
+        return
     upload_sent_json()
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
