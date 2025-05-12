@@ -96,7 +96,6 @@ Text: {text}
         print("Fehler bei Zusammenfassung:", e)
         return ""
 
-
 def send_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
     payload = {
@@ -107,16 +106,7 @@ def send_message(text):
     }
     return requests.post(url, json=payload).status_code == 200
 
-def send_photo(photo_url, caption):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
-    payload = {
-        "chat_id": CHAT_ID,
-        "photo": photo_url,
-        "caption": caption,
-        "parse_mode": "HTML"
-    }
-    return requests.post(url, json=payload).status_code == 200
-
+    
 def get_latest_sent_file_id():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
     try:
@@ -161,8 +151,6 @@ def get_article_text(url):
         print("⚠ Ошибка при загрузке статьи:", e)
         return ""
 
-def get_image_url(url):
-    try:
         response = requests.get(url, timeout=10)
         html = response.text
         soup = BeautifulSoup(html, "html.parser")
@@ -174,7 +162,10 @@ def get_image_url(url):
     return None
 
 def main():
-    download_sent_json()
+    if not os.path.exists("sent_articles.json"):
+        download_sent_json()
+    else:
+        print("📁 Используется локальный sent_articles.json (не скачиваем)")
     sent = load_sent_articles()
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
@@ -212,7 +203,6 @@ def main():
             for pattern in UNWANTED_ENDINGS:
                 full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
 
-
             
 
             if len(full_text) > MAX_CHARS:
@@ -239,19 +229,12 @@ def main():
             print(f"🔄 Analysiere: {title}")
             summary = summarize(full_text)
             if not summary:
-                continue
-
-            image_url = get_image_url(url)
+                continue       
+                 
             caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
 
             success = False
-            if image_url:
-                success = send_photo(image_url, caption)
-                if not success:
-                    print("⚠ Fehler beim Senden des Bildes. Versuche nur Text...")
-                    success = send_message(caption)
-            else:
-                success = send_message(caption)
+            success = send_message(caption)
 
             if success:
                 print("✅ Gesendet")
