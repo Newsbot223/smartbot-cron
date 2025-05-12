@@ -53,7 +53,9 @@ BLOCKED_KEYWORDS = [
 def load_sent_articles():
     try:
         with open("sent_articles.json", "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+            print("📂 Загружено из JSON:", json.dumps(data, indent=2, ensure_ascii=False))
+            return data
     except:
         return {"urls": [], "hashes": [], "titles": []}
 
@@ -172,6 +174,9 @@ def upload_sent_json():
 def main():
     download_sent_json()
     sent = load_sent_articles()
+    if not sent['urls'] and not sent['hashes']:
+        print("⚠️ Загруженные данные пусты. Останавливаем выполнение.")
+        return
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
