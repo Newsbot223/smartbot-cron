@@ -40,30 +40,69 @@ KEYWORDS = [
 ]
 
 BLOCKED_KEYWORDS = [
-    # Погода
     "wetter", "wetterbericht", "regen", "sonnig", "heiter", "unwetter",
     "vorhersage", "temperature", "schnee", "hitze",
-
-    # Спорт
     "sport", "bundesliga", "fußball", "tor", "spiel", "trainer",
     "verein", "tabelle", "champions league", "olympia", "weltmeisterschaft",
     "spieltag", "tennis", "formel 1", "handball", "basketball"
 ]
 
+def get_latest_sent_file_id():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
+    try:
+        res = requests.get(url).json()
+        for update in reversed(res["result"]):
+            doc = update.get("message", {}).get("document", {})
+            if doc.get("file_name") == "sent_articles.json":
+                return doc.get("file_id")
+    except Exception as e:
+        print("⚠ Fehler bei getUpdates:", e)
+    return None
+
+def download_sent_json():
+    file_id = get_latest_sent_file_id()
+    if not file_id:
+        print("❗ Не найден файл sent_articles.json в getUpdates.")
+        return
+    try:
+        info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
+        file_path = info["result"]["file_path"]
+        url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
+        data = requests.get(url).content
+        with open("sent_articles.json", "wb") as f:
+            f.write(data)
+        print("📥 Загружен самый свежий sent_articles.json из Telegram")
+    except Exception as e:
+        print("⚠ Ошибка при загрузке файла:", e)
+
+def upload_sent_json():
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+    with open("sent_articles.json", "rb") as f:
+        files = {"document": f}
+        data = {"chat_id": CHAT_ID, "caption": "✅ Обновлённый sent_articles.json"}
+        response = requests.post(url, files=files, data=data)
+        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
+
 def load_sent_articles():
+    if not os.path.exists("sent_articles.json"):
+        print("📂 Файл не найден локально, загружаем из Telegram...")
+        download_sent_json()
+
     try:
         with open("sent_articles.json", "r", encoding="utf-8") as f:
             data = json.load(f)
             print("📂 Загружено из JSON:", json.dumps(data, indent=2, ensure_ascii=False))
-            return data
     except:
-        return {"urls": [], "hashes": [], "titles": []}
+        data = {"urls": [], "hashes": [], "titles": []}
 
-    upload_sent_json()
+    data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
+
     with open("sent_articles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+    return data
 
 def summarize(text):
     prompt = f'''
@@ -106,39 +145,6 @@ def send_message(text):
     }
     return requests.post(url, json=payload).status_code == 200
 
-    
-def get_latest_sent_file_id():
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
-    try:
-        res = requests.get(url).json()
-        for update in reversed(res["result"]):
-            doc = update.get("message", {}).get("document", {})
-            if doc.get("file_name") == "sent_articles.json":
-                return doc.get("file_id")
-    except Exception as e:
-        print("⚠ Fehler bei getUpdates:", e)
-    return None
-
-def download_sent_json():
-    file_id = get_latest_sent_file_id()
-    if not file_id:
-        print("❗ Не найден файл sent_articles.json в getUpdates.")
-        return
-    info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
-    file_path = info["result"]["file_path"]
-    url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
-    data = requests.get(url).content
-    with open("sent_articles.json", "wb") as f:
-        f.write(data)
-    print("📥 Загружен самый свежий sent_articles.json из Telegram")
-
-    with open("sent_articles.json", "rb") as f:
-        url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-        files = {"document": f}
-        data = {"chat_id": CHAT_ID, "caption": "✅ Обновлённый sent_articles.json"}
-        response = requests.post(url, files=files, data=data)
-        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
-
 def get_article_text(url):
     try:
         response = requests.get(url, timeout=10)
@@ -151,47 +157,25 @@ def get_article_text(url):
         print("⚠ Ошибка при загрузке статьи:", e)
         return ""
 
-        response = requests.get(url, timeout=10)
-        html = response.text
-        soup = BeautifulSoup(html, "html.parser")
-        img = soup.find("img")
-        if img and img.get("src"):
-            return img["src"]
-    except Exception as e:
-        print("⚠ Ошибка при получении изображения:", e)
-    return None
-
 def save_sent_articles(data):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
 
-    if not data['urls'] or not data['hashes']:
-        print("⚠️ Нет новых данных — файл не пересылается.")
-        return
-
     with open("sent_articles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print("💾 sent_articles.json сохранён.")
 
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open("sent_articles.json", "rb") as f:
-        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
-        print("📤 Отправка файла в Telegram... статус:", response.status_code)
-        print("📨 Ответ Telegram:", response.text)
+    upload_sent_json()
 
 def main():
-    if not os.path.exists("sent_articles.json"):
-        download_sent_json()
-    else:
-        print("📁 Используется локальный sent_articles.json (не скачиваем)")
     sent = load_sent_articles()
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             url = entry.link
-
             title = entry.title
+
             if url in sent["urls"] or title in sent["titles"]:
                 print(f"⏩ Bereits verarbeitet: {title}")
                 continue
@@ -204,25 +188,6 @@ def main():
                     continue
 
             full_text = get_article_text(url)
-
-            UNWANTED_ENDINGS = [
-                r'Diese Entwicklung wurde am \d{2}\.\d{2}\.\d{4} .*? berichtet\.',
-                r'Diese Meldung wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
-                r'Diese Nachricht wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
-                r'Die Nachricht wurde am gleichen Tag veröffentlicht\.',
-                r'Die Information wurde am selben Tag verbreitet\.',
-                r'Die Verbreitung dieser Flyer wurde am .*? gemeldet\.',
-                r'Der Link zur Nachricht kann.*?(kopiert|geteilt).*?',
-                r'Am \d{2}\.\d{2}\.\d{4} veröffentlicht\.',
-                r'(Veröffentlicht|Berichtet) am \d{2}\.\d{2}\.\d{4}',
-                r'\(?Stand: \d{2}\.\d{2}\.\d{4}\)?',
-                r'\(?\d{2}\.\d{2}\.\d{4}\)?\s*im Programm Deutschlandfunk'
-            ]
-
-            for pattern in UNWANTED_ENDINGS:
-                full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
-
-            
 
             if len(full_text) > MAX_CHARS:
                 print(f"⚠ Zu lang, übersprungen: {title} ({len(full_text)} Zeichen)")
@@ -248,13 +213,11 @@ def main():
             print(f"🔄 Analysiere: {title}")
             summary = summarize(full_text)
             if not summary:
-                continue      
+                continue
 
             caption = f"<b>📰 {title}</b>\n\n{summary}\n\n🔗 <a href='{url}'>Weiterlesen</a>"
 
-            success = False
             success = send_message(caption)
-
             if success:
                 print("✅ Gesendet")
                 sent["urls"].append(url)
@@ -263,31 +226,7 @@ def main():
             else:
                 print("⚠ Fehler beim Senden")
 
-    print("💾 Сохраняем данные:", json.dumps(sent, indent=2, ensure_ascii=False))
     save_sent_articles(sent)
 
 if __name__ == "__main__":
     main()
-
-def save_sent_articles(data):
-    data["urls"] = data["urls"][-MAX_ARTICLES:]
-    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
-    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
-
-    print("📊 URLs:", data["urls"])
-    print("📊 Hashes:", data["hashes"])
-    print("📊 Titles:", data["titles"])
-
-    if not data['urls'] or not data['hashes']:
-        print("⚠️ Нет новых данных — файл не пересылается.")
-        return
-
-    with open("sent_articles.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print("💾 sent_articles.json сохранён.")
-
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open("sent_articles.json", "rb") as f:
-        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
-        print("📤 Отправка в Telegram... статус:", response.status_code)
-        print("📨 Ответ Telegram:", response.text)
