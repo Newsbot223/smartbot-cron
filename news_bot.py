@@ -174,9 +174,6 @@ def upload_sent_json():
 def main():
     download_sent_json()
     sent = load_sent_articles()
-    if not sent['urls'] and not sent['hashes']:
-        print("⚠️ Загруженные данные пусты. Останавливаем выполнение.")
-        return
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
@@ -262,6 +259,7 @@ def main():
             else:
                 print("⚠ Fehler beim Senden")
 
+    print("💾 Сохраняем данные:", json.dumps(sent, indent=2, ensure_ascii=False))
     save_sent_articles(sent)
 
 if __name__ == "__main__":
