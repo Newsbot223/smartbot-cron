@@ -186,20 +186,7 @@ def main():
                 full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
 
 
-            # Удаляем стандартные хвосты с датами и источниками
-            UNWANTED_ENDINGS = [
-                r'Diese Entwicklung wurde am \d{2}\.\d{2}\.\d{4} .*? berichtet\.',
-                r'Diese Meldung wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
-                r'Diese Nachricht wurde am \d{2}\.\d{2}\.\d{4} .*? veröffentlicht\.',
-                r'Am \d{2}\.\d{2}\.\d{4} veröffentlicht\.',
-                r'(Veröffentlicht|Berichtet) am \d{2}\.\d{2}\.\d{4}',
-                r'\(?Stand: \d{2}\.\d{2}\.\d{4}\)?',
-                r'\(?\d{2}\.\d{2}\.\d{4}\)?\s*im Programm Deutschlandfunk'
-            ]
-
-
-            for pattern in UNWANTED_ENDINGS:
-                full_text = re.sub(pattern, '', full_text, flags=re.IGNORECASE)
+            
 
             if len(full_text) > MAX_CHARS:
                 print(f"⚠ Zu lang, übersprungen: {title} ({len(full_text)} Zeichen)")
@@ -217,7 +204,7 @@ def main():
                 print(f"❌ Thema blockiert: {title}")
                 continue
 
-            hash_base = full_text[:300].lower()
+            hash_base = (title + full_text[:300].lower()).strip()
             hash_ = hashlib.md5(hash_base.encode("utf-8")).hexdigest()
             if hash_ in sent["hashes"]:
                 continue
