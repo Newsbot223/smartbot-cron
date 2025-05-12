@@ -51,10 +51,18 @@ def get_latest_sent_file_id():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
     try:
         res = requests.get(url).json()
-        for update in reversed(res["result"]):
-            doc = update.get("message", {}).get("document", {})
-            if doc.get("file_name") == "sent_articles.json":
-                return doc.get("file_id")
+        documents = []
+        for update in res.get("result", []):
+            msg = update.get("message", {})
+            doc = msg.get("document")
+            if doc and doc.get("file_name") == "sent_articles.json":
+                documents.append((doc["file_id"], msg.get("date", 0)))
+        if not documents:
+            print("❗ Не найден подходящий файл sent_articles.json в getUpdates.")
+            return None
+        # Сортировка по дате, выбираем самый свежий
+        documents.sort(key=lambda x: x[1], reverse=True)
+        return documents[0][0]
     except Exception as e:
         print("⚠ Fehler bei getUpdates:", e)
     return None
@@ -62,13 +70,13 @@ def get_latest_sent_file_id():
 def download_sent_json():
     file_id = get_latest_sent_file_id()
     if not file_id:
-        print("❗ Не найден файл sent_articles.json в getUpdates.")
         return
     try:
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
         file_path = info["result"]["file_path"]
         url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
         data = requests.get(url).content
+        print("📦 Размер полученного файла:", len(data))
         with open("sent_articles.json", "wb") as f:
             f.write(data)
         print("📥 Загружен самый свежий sent_articles.json из Telegram")
@@ -85,7 +93,7 @@ def upload_sent_json():
 
 def load_sent_articles():
     if not os.path.exists("sent_articles.json") or os.path.getsize("sent_articles.json") < 100:
-        print("📂 Файл не найден локально, загружаем из Telegram...")
+        print("📂 Файл отсутствует или пустой — загружаем из Telegram...")
         download_sent_json()
 
     try:
