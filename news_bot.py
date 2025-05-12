@@ -9,6 +9,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from readability import Document
 
+from news_bot import get_article_text, get_image_url
+
 # --- Константы ---
 FEEDS = [
     "https://www.deutschlandfunk.de/nachrichten-100.rss",
@@ -67,39 +69,21 @@ def load_sent_articles():
 
 def save_sent_articles(data):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
+    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
+    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
+
     if not data['urls'] or not data['hashes']:
         print("⚠️ Нет новых данных — файл не пересылается.")
         return
 
-def get_article_text(url):
-    try:
-        response = requests.get(url, timeout=10)
-        html = response.text
-        doc = Document(html)
-        summary = doc.summary()
-        text = BeautifulSoup(summary, "html.parser").get_text(separator=" ", strip=True)
-        if len(text) < 100:
-            soup = BeautifulSoup(html, "html.parser")
-            article = soup.find("article") or soup.find("main")
-            if article:
-                text = " ".join([p.get_text(strip=True) for p in article.find_all("p")])
-            else:
-                text = " ".join([p.get_text(strip=True) for p in soup.find_all("p")])
-        return text.strip()
-    except Exception as e:
-        print(f"⚠ Fehler beim Abrufen des Artikels: {e}")
-        return ""
+    with open("sent_articles.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
-def get_image_url(article_url):
-    try:
-        html = requests.get(article_url, timeout=10).text
-        soup = BeautifulSoup(html, "html.parser")
-        og_image = soup.find("meta", property="og:image")
-        if og_image and og_image.get("content"):
-            return og_image["content"]
-    except Exception as e:
-        print("⚠ Fehler beim Abrufen des Bildes:", e)
-    return None
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+    with open("sent_articles.json", "rb") as f:
+        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
+        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
+
 
 
 def summarize(text):
