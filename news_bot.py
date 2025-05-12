@@ -256,11 +256,9 @@ def main():
                 sent["urls"].append(url)
                 sent["hashes"].append(hash_)
                 sent["titles"].append(title)
+                save_sent_articles(sent)
             else:
                 print("⚠ Fehler beim Senden")
-
-    print("💾 Сохраняем данные:", json.dumps(sent, indent=2, ensure_ascii=False))
-    save_sent_articles(sent)
 
 if __name__ == "__main__":
     main()
