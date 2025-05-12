@@ -217,7 +217,8 @@ def main():
                 print(f"❌ Thema blockiert: {title}")
                 continue
 
-            hash_ = hashlib.md5(full_text.encode("utf-8")).hexdigest()
+            hash_base = full_text[:300].lower()
+            hash_ = hashlib.md5(hash_base.encode("utf-8")).hexdigest()
             if hash_ in sent["hashes"]:
                 continue
 
