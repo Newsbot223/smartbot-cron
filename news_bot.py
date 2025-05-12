@@ -9,8 +9,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from readability import Document
 
-from news_bot import get_article_text, get_image_url
-
 # --- Константы ---
 FEEDS = [
     "https://www.deutschlandfunk.de/nachrichten-100.rss",
@@ -66,25 +64,6 @@ def load_sent_articles():
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
     with open("sent_articles.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-
-def save_sent_articles(data):
-    data["urls"] = data["urls"][-MAX_ARTICLES:]
-    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
-    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
-
-    if not data['urls'] or not data['hashes']:
-        print("⚠️ Нет новых данных — файл не пересылается.")
-        return
-
-    with open("sent_articles.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open("sent_articles.json", "rb") as f:
-        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
-        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
-
-
 
 def summarize(text):
     prompt = f'''
@@ -169,6 +148,30 @@ def download_sent_json():
         data = {"chat_id": CHAT_ID, "caption": "✅ Обновлённый sent_articles.json"}
         response = requests.post(url, files=files, data=data)
         print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
+
+def get_article_text(url):
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+        doc = Document(html)
+        summary = doc.summary()
+        text = BeautifulSoup(summary, "html.parser").get_text(separator="\n", strip=True)
+        return text
+    except Exception as e:
+        print("⚠ Ошибка при загрузке статьи:", e)
+        return ""
+
+def get_image_url(url):
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+        img = soup.find("img")
+        if img and img.get("src"):
+            return img["src"]
+    except Exception as e:
+        print("⚠ Ошибка при получении изображения:", e)
+    return None
 
 def main():
     download_sent_json()
@@ -263,3 +266,26 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def save_sent_articles(data):
+    data["urls"] = data["urls"][-MAX_ARTICLES:]
+    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
+    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
+
+    print("📊 URLs:", data["urls"])
+    print("📊 Hashes:", data["hashes"])
+    print("📊 Titles:", data["titles"])
+
+    if not data['urls'] or not data['hashes']:
+        print("⚠️ Нет новых данных — файл не пересылается.")
+        return
+
+    with open("sent_articles.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("💾 sent_articles.json сохранён.")
+
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+    with open("sent_articles.json", "rb") as f:
+        response = requests.post(url, data={"chat_id": CHAT_ID}, files={"document": f})
+        print("📤 Отправка в Telegram... статус:", response.status_code)
+        print("📨 Ответ Telegram:", response.text)
