@@ -13,6 +13,12 @@ jobs:
       - name: 📥 Клонируем репозиторий
         uses: actions/checkout@v3
 
+      - name: 💾 Восстанавливаем last_file_id.json из кэша
+        uses: actions/cache@v3
+        with:
+          path: last_file_id.json
+          key: telegram-sent-articles-cache
+
       - name: 🐍 Устанавливаем Python
         uses: actions/setup-python@v4
         with:
@@ -29,3 +35,9 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python news_bot.py
+
+      - name: 💾 Сохраняем обновлённый last_file_id.json
+        uses: actions/upload-artifact@v3
+        with:
+          name: last_file_id
+          path: last_file_id.json
