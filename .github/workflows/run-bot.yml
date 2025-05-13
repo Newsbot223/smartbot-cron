@@ -2,8 +2,8 @@ name: Run Telegram Bot every 45 minutes
 
 on:
   schedule:
-    - cron: '0,45 * * * *'
-  workflow_dispatch:
+    - cron: '0,45 * * * *'  # запуск в 00 и 45 минут каждого часа
+  workflow_dispatch:        # ручной запуск
 
 jobs:
   run-bot:
@@ -13,10 +13,10 @@ jobs:
       - name: 📥 Клонируем репозиторий
         uses: actions/checkout@v3
 
-      - name: 💾 Восстанавливаем last_file_id.json из кэша
+      - name: 💾 Восстанавливаем file_id из кэша
         uses: actions/cache@v3
         with:
-          path: last_file_id.json
+          path: bot-state/last_file_id.json
           key: telegram-sent-articles-cache
 
       - name: 🐍 Устанавливаем Python

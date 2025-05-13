@@ -21,7 +21,7 @@ FEEDS = [
 MAX_ARTICLES = 1000
 MAX_TOKENS = 800
 MAX_CHARS = 8000
-MAX_AGE_SECONDS = 21600  # 6 часов
+MAX_AGE_SECONDS = 43200  # 12 часов
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -47,7 +47,11 @@ BLOCKED_KEYWORDS = [
     "spieltag", "tennis", "formel 1", "handball", "basketball"
 ]
 
-# --- Файловая логика ---
+STATE_DIR = "bot-state"
+STATE_FILE = os.path.join(STATE_DIR, "last_file_id.json")
+
+os.makedirs(STATE_DIR, exist_ok=True)
+
 def generate_filename():
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     return f"sent_articles_{timestamp}.json"
@@ -67,9 +71,8 @@ def download_by_file_id(file_id, filename):
         return None
 
 def load_sent_articles():
-    # Если есть сохранённый file_id — используем его
-    if os.path.exists("last_file_id.json"):
-        with open("last_file_id.json", "r") as f:
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE, "r") as f:
             obj = json.load(f)
             file_id = obj.get("file_id")
             filename = obj.get("filename")
@@ -101,55 +104,11 @@ def save_sent_articles(data, local_file):
         res = requests.post(url, files=files, data=data_tg)
         if res.status_code == 200:
             file_id = res.json().get("document", {}).get("file_id")
-            with open("last_file_id.json", "w") as meta:
+            with open(STATE_FILE, "w") as meta:
                 json.dump({"file_id": file_id, "filename": local_file}, meta)
             print(f"📤 Отправлен {local_file}, сохранён file_id")
         else:
             print(f"⚠ Ошибка при отправке файла: {res.status_code}")
-
-# --- Обработка новостей ---
-def summarize(text):
-    prompt = f'''
-Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
-
-Text: {text}
-'''
-    try:
-        res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
-            "model": "mistralai/mistral-7b-instruct",
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.7,
-            "max_tokens": MAX_TOKENS
-        }, timeout=60)
-        res.raise_for_status()
-        result = res.json()
-        if "choices" in result and isinstance(result["choices"], list):
-            return result["choices"][0]["message"]["content"].strip()
-    except Exception as e:
-        print("Fehler bei Zusammenfassung:", e)
-        return ""
-
-def send_message(text):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": CHAT_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
-    return requests.post(url, json=payload).status_code == 200
-
-def get_article_text(url):
-    try:
-        response = requests.get(url, timeout=10)
-        html = response.text
-        doc = Document(html)
-        summary = doc.summary()
-        text = BeautifulSoup(summary, "html.parser").get_text(separator="\n", strip=True)
-        return text
-    except Exception as e:
-        print("⚠ Ошибка при загрузке статьи:", e)
-        return ""
 
 # --- main ---
 def main():
