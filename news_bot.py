@@ -102,8 +102,18 @@ def save_sent_articles(data, local_file):
         files = {"document": f}
         data_tg = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
         res = requests.post(url, files=files, data=data_tg)
-        if res.status_code == 200:
-            file_id = res.json().get("document", {}).get("file_id")
+
+        try:
+            response_json = res.json()
+            print("📦 Ответ Telegram:", json.dumps(response_json, indent=2))
+        except Exception as e:
+            print("⚠ Не удалось распарсить JSON-ответ Telegram:", e)
+            response_json = {}
+
+        file_id = response_json.get("document", {}).get("file_id")
+        print("📌 Полученный file_id:", file_id)
+
+        if res.status_code == 200 and file_id:
             with open(STATE_FILE, "w") as meta:
                 json.dump({"file_id": file_id, "filename": local_file}, meta)
             print(f"📤 Отправлен {local_file}, сохранён file_id")
