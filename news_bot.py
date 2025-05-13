@@ -47,34 +47,12 @@ BLOCKED_KEYWORDS = [
     "spieltag", "tennis", "formel 1", "handball", "basketball"
 ]
 
-# --- Функции работы с файлами ---
+# --- Файловая логика ---
 def generate_filename():
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     return f"sent_articles_{timestamp}.json"
 
-def get_latest_filename_from_updates():
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
-    try:
-        res = requests.get(url).json()
-        files = []
-        for update in res.get("result", []):
-            msg = update.get("message", {})
-            doc = msg.get("document")
-            if doc and doc.get("file_name", "").startswith("sent_articles_"):
-                files.append((doc["file_name"], doc["file_id"], msg.get("date", 0)))
-        if not files:
-            return None, None
-        files.sort(key=lambda x: x[2], reverse=True)
-        return files[0][0], files[0][1]
-    except Exception as e:
-        print("⚠ Ошибка при поиске последнего файла:", e)
-        return None, None
-
-def download_latest_sent_json():
-    filename, file_id = get_latest_filename_from_updates()
-    if not file_id:
-        print("📭 Нет доступного файла для загрузки")
-        return generate_filename()
+def download_by_file_id(file_id, filename):
     try:
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
         file_path = info["result"]["file_path"]
@@ -82,38 +60,31 @@ def download_latest_sent_json():
         data = requests.get(url).content
         with open(filename, "wb") as f:
             f.write(data)
-        print(f"📥 Загружен {filename} из Telegram")
+        print(f"📥 Успешно загружен {filename} из Telegram по file_id")
         return filename
     except Exception as e:
-        print("⚠ Ошибка при загрузке файла:", e)
-        return generate_filename()
-
-def upload_sent_json(local_filename):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open(local_filename, "rb") as f:
-        files = {"document": f}
-        data = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
-        res = requests.post(url, files=files, data=data)
-        print("📤 Отправлен:", local_filename, res.status_code)
+        print("⚠ Ошибка при скачивании по file_id:", e)
+        return None
 
 def load_sent_articles():
-    local_file = None
-    for file in os.listdir():
-        if file.startswith("sent_articles_") and file.endswith(".json"):
-            local_file = file
-            break
-
-    if not local_file:
-        print("📂 Локальный файл не найден, пробуем загрузить...")
-        local_file = download_latest_sent_json()
-
-    try:
-        with open(local_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except:
-        data = {"urls": [], "hashes": [], "titles": []}
-
-    return data, local_file
+    # Если есть сохранённый file_id — используем его
+    if os.path.exists("last_file_id.json"):
+        with open("last_file_id.json", "r") as f:
+            obj = json.load(f)
+            file_id = obj.get("file_id")
+            filename = obj.get("filename")
+        if file_id and filename:
+            print("📂 Локальный файл не найден, пробуем скачать по сохранённому file_id...")
+            path = download_by_file_id(file_id, filename)
+            if path and os.path.exists(path):
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    return data, filename
+                except:
+                    pass
+    print("📭 Нет доступного файла для загрузки. Создаётся новый...")
+    return {"urls": [], "hashes": [], "titles": []}, generate_filename()
 
 def save_sent_articles(data, local_file):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
@@ -123,7 +94,18 @@ def save_sent_articles(data, local_file):
     with open(local_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    upload_sent_json(local_file)
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+    with open(local_file, "rb") as f:
+        files = {"document": f}
+        data_tg = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
+        res = requests.post(url, files=files, data=data_tg)
+        if res.status_code == 200:
+            file_id = res.json().get("document", {}).get("file_id")
+            with open("last_file_id.json", "w") as meta:
+                json.dump({"file_id": file_id, "filename": local_file}, meta)
+            print(f"📤 Отправлен {local_file}, сохранён file_id")
+        else:
+            print(f"⚠ Ошибка при отправке файла: {res.status_code}")
 
 # --- Обработка новостей ---
 def summarize(text):
