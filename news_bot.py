@@ -47,97 +47,84 @@ BLOCKED_KEYWORDS = [
     "spieltag", "tennis", "formel 1", "handball", "basketball"
 ]
 
-def get_latest_sent_file_id():
+# Новый подход: генерация уникального имени файла
+
+def generate_filename():
+    timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    return f"sent_articles_{timestamp}.json"
+
+def get_latest_filename_from_updates():
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
     try:
         res = requests.get(url).json()
-        documents = []
+        files = []
         for update in res.get("result", []):
             msg = update.get("message", {})
             doc = msg.get("document")
-            if doc and doc.get("file_name") == "sent_articles.json":
-                documents.append((doc["file_id"], msg.get("date", 0)))
-        if not documents:
-            print("❗ Не найден подходящий файл sent_articles.json в getUpdates.")
-            return None
-        documents.sort(key=lambda x: x[1], reverse=True)
-        return documents[0][0]
+            if doc and doc.get("file_name", "").startswith("sent_articles_"):
+                files.append((doc["file_name"], doc["file_id"], msg.get("date", 0)))
+        if not files:
+            return None, None
+        files.sort(key=lambda x: x[2], reverse=True)
+        return files[0][0], files[0][1]
     except Exception as e:
-        print("⚠ Fehler bei getUpdates:", e)
-    return None
+        print("⚠ Ошибка при поиске последнего файла:", e)
+        return None, None
 
-def download_sent_json():
-    file_id = get_latest_sent_file_id()
+def download_latest_sent_json():
+    filename, file_id = get_latest_filename_from_updates()
     if not file_id:
-        return
+        print("📭 Нет доступного файла для загрузки")
+        return "sent_articles_fallback.json"
     try:
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
         file_path = info["result"]["file_path"]
         url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
         data = requests.get(url).content
-        print("📦 Размер полученного файла:", len(data))
-        with open("sent_articles.json", "wb") as f:
+        with open(filename, "wb") as f:
             f.write(data)
-        print("📥 Загружен самый свежий sent_articles.json из Telegram")
+        print(f"📥 Загружен {filename} из Telegram")
+        return filename
     except Exception as e:
         print("⚠ Ошибка при загрузке файла:", e)
+        return "sent_articles_fallback.json"
 
-def get_old_sent_message_id():
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
-    try:
-        res = requests.get(url).json()
-        for update in reversed(res.get("result", [])):
-            msg = update.get("message", {})
-            doc = msg.get("document")
-            sender = msg.get("from", {})
-            if doc and doc.get("file_name") == "sent_articles.json" and sender.get("is_bot"):
-                return msg.get("message_id")
-    except Exception as e:
-        print("⚠ Fehler bei getUpdates (message_id):", e)
-    return None
-
-def delete_old_sent_file():
-    msg_id = get_old_sent_message_id()
-    if not msg_id:
-        print("⚠ Нет старого файла для удаления.")
-        return
-    try:
-        url = f"https://api.telegram.org/bot{BOT_TOKEN}/deleteMessage"
-        res = requests.post(url, data={"chat_id": CHAT_ID, "message_id": msg_id})
-        print("🗑 Статус удаления:", res.status_code)
-        print("📨 Ответ Telegram:", res.text)
-    except Exception as e:
-        print("⚠️ Ошибка при удалении старого файла:", e)
-
-def upload_sent_json():
-    delete_old_sent_file()
+def upload_sent_json(local_filename):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open("sent_articles.json", "rb") as f:
+    with open(local_filename, "rb") as f:
         files = {"document": f}
-        data = {"chat_id": CHAT_ID, "caption": "✅ Обновлённый sent_articles.json"}
-        response = requests.post(url, files=files, data=data)
-        print("📤 Отправлен sent_articles.json в Telegram:", response.status_code)
+        data = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
+        res = requests.post(url, files=files, data=data)
+        print("📤 Отправлен:", local_filename, res.status_code)
 
 def load_sent_articles():
-    if not os.path.exists("sent_articles.json") or os.path.getsize("sent_articles.json") < 100:
-        print("📂 Файл отсутствует или пустой — загружаем из Telegram...")
-        download_sent_json()
+    local_file = None
+    for file in os.listdir():
+        if file.startswith("sent_articles_") and file.endswith(".json"):
+            local_file = file
+            break
+
+    if not local_file:
+        print("📂 Локальный файл не найден, пробуем загрузить...")
+        local_file = download_latest_sent_json()
 
     try:
-        with open("sent_articles.json", "r", encoding="utf-8") as f:
+        with open(local_file, "r", encoding="utf-8") as f:
             data = json.load(f)
-            print("📂 Загружено из JSON:", json.dumps(data, indent=2, ensure_ascii=False))
     except:
         data = {"urls": [], "hashes": [], "titles": []}
 
+    return data, local_file
+
+def save_sent_articles(data, local_file):
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
 
-    with open("sent_articles.json", "w", encoding="utf-8") as f:
+    with open(local_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    return data
+    upload_sent_json(local_file)
 
 def summarize(text):
     prompt = f'''
