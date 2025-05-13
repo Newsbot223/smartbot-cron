@@ -89,7 +89,8 @@ def get_old_sent_message_id():
         for update in reversed(res.get("result", [])):
             msg = update.get("message", {})
             doc = msg.get("document")
-            if doc and doc.get("file_name") == "sent_articles.json":
+            sender = msg.get("from", {})
+            if doc and doc.get("file_name") == "sent_articles.json" and sender.get("is_bot"):
                 return msg.get("message_id")
     except Exception as e:
         print("⚠ Fehler bei getUpdates (message_id):", e)
@@ -103,8 +104,8 @@ def delete_old_sent_file():
     try:
         url = f"https://api.telegram.org/bot{BOT_TOKEN}/deleteMessage"
         res = requests.post(url, data={"chat_id": CHAT_ID, "message_id": msg_id})
-        print("🗑 Удалено старое сообщение:", res.status_code)
-    except Exception as e:
+        print("🗑 Статус удаления:", res.status_code)
+        print("📨 Ответ Telegram:", res.text)
         print("⚠ Ошибка при удалении старого файла:", e)
 
 def upload_sent_json():
@@ -136,6 +137,7 @@ def load_sent_articles():
         json.dump(data, f, ensure_ascii=False, indent=2)
 
     return data
+    
 def summarize(text):
     prompt = f'''
 Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
