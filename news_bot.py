@@ -110,7 +110,49 @@ def save_sent_articles(data, local_file):
         else:
             print(f"⚠ Ошибка при отправке файла: {res.status_code}")
 
-# --- main ---
+def get_article_text(url):
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+        doc = Document(html)
+        summary = doc.summary()
+        text = BeautifulSoup(summary, "html.parser").get_text(separator="\n", strip=True)
+        return text
+    except Exception as e:
+        print("⚠ Ошибка при загрузке статьи:", e)
+        return ""
+
+def summarize(text):
+    prompt = f'''
+Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
+
+Text: {text}
+'''
+    try:
+        res = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=HEADERS, json={
+            "model": "mistralai/mistral-7b-instruct",
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.7,
+            "max_tokens": MAX_TOKENS
+        }, timeout=60)
+        res.raise_for_status()
+        result = res.json()
+        if "choices" in result and isinstance(result["choices"], list):
+            return result["choices"][0]["message"]["content"].strip()
+    except Exception as e:
+        print("Fehler bei Zusammenfassung:", e)
+        return ""
+
+def send_message(text):
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": CHAT_ID,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": False
+    }
+    return requests.post(url, json=payload).status_code == 200
+
 def main():
     sent, local_file = load_sent_articles()
 
