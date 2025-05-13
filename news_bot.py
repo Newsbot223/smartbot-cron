@@ -47,8 +47,7 @@ BLOCKED_KEYWORDS = [
     "spieltag", "tennis", "formel 1", "handball", "basketball"
 ]
 
-# Новый подход: генерация уникального имени файла
-
+# --- Функции работы с файлами ---
 def generate_filename():
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     return f"sent_articles_{timestamp}.json"
@@ -75,7 +74,7 @@ def download_latest_sent_json():
     filename, file_id = get_latest_filename_from_updates()
     if not file_id:
         print("📭 Нет доступного файла для загрузки")
-        return "sent_articles_fallback.json"
+        return generate_filename()
     try:
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
         file_path = info["result"]["file_path"]
@@ -87,7 +86,7 @@ def download_latest_sent_json():
         return filename
     except Exception as e:
         print("⚠ Ошибка при загрузке файла:", e)
-        return "sent_articles_fallback.json"
+        return generate_filename()
 
 def upload_sent_json(local_filename):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
@@ -126,6 +125,7 @@ def save_sent_articles(data, local_file):
 
     upload_sent_json(local_file)
 
+# --- Обработка новостей ---
 def summarize(text):
     prompt = f'''
 Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
@@ -139,20 +139,10 @@ Text: {text}
             "temperature": 0.7,
             "max_tokens": MAX_TOKENS
         }, timeout=60)
-
         res.raise_for_status()
         result = res.json()
         if "choices" in result and isinstance(result["choices"], list):
-            full = result["choices"][0]["message"]["content"].strip()
-            lines = full.splitlines()
-            cleaned = "".join([
-                line for line in lines
-                if not any(line.strip().lower().startswith(x) for x in ("title:", "titel:", "text:"))
-            ])
-            summary = cleaned.strip()
-            if summary.count(".") > 7:
-                summary = ".".join(summary.split(".")[:7]) + "."
-            return summary
+            return result["choices"][0]["message"]["content"].strip()
     except Exception as e:
         print("Fehler bei Zusammenfassung:", e)
         return ""
@@ -179,19 +169,10 @@ def get_article_text(url):
         print("⚠ Ошибка при загрузке статьи:", e)
         return ""
 
-def save_sent_articles(data):
-    data["urls"] = data["urls"][-MAX_ARTICLES:]
-    data["hashes"] = data["hashes"][-MAX_ARTICLES:]
-    data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
-
-    with open("sent_articles.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print("💾 sent_articles.json сохранён.")
-
-    upload_sent_json()
-
+# --- main ---
 def main():
-    sent = load_sent_articles()
+    sent, local_file = load_sent_articles()
+
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
@@ -244,11 +225,12 @@ def main():
                 print("✅ Gesendet")
                 sent["urls"].append(url)
                 sent["hashes"].append(hash_)
-                sent["titles"].append(title)
+                if title not in sent["titles"]:
+                    sent["titles"].append(title)
             else:
                 print("⚠ Fehler beim Senden")
 
-    save_sent_articles(sent)
+    save_sent_articles(sent, local_file)
 
 if __name__ == "__main__":
     main()
