@@ -106,7 +106,8 @@ def delete_old_sent_file():
         res = requests.post(url, data={"chat_id": CHAT_ID, "message_id": msg_id})
         print("🗑 Статус удаления:", res.status_code)
         print("📨 Ответ Telegram:", res.text)
-        print("⚠ Ошибка при удалении старого файла:", e)
+    except Exception as e:
+        print("⚠️ Ошибка при удалении старого файла:", e)
 
 def upload_sent_json():
     delete_old_sent_file()
@@ -137,7 +138,7 @@ def load_sent_articles():
         json.dump(data, f, ensure_ascii=False, indent=2)
 
     return data
-    
+
 def summarize(text):
     prompt = f'''
 Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
