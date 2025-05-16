@@ -197,6 +197,13 @@ def normalize_text(text):
     text = re.sub(r'[^\w\s]', '', text)
     return text
 
+def clean_article_text(text):
+    """Удаляет лишние фрагменты из текста статьи"""
+    text = re.sub(r'^Titel:\s*', '', text, flags=re.IGNORECASE | re.MULTILINE)
+    text = re.sub(r'Diese Nachricht wurde am .*? gesendet\.', '', text, flags=re.IGNORECASE | re.DOTALL)
+    return text.strip()
+
+
 def get_content_hash(text):
     """Создает хеш только от содержимого статьи"""
     # Берем больше текста для более надежного хеша
@@ -286,6 +293,7 @@ def main():
                     continue
 
             full_text = get_article_text(url)
+            full_text = clean_article_text(full_text)
 
             if len(full_text) > MAX_CHARS:
                 print(f"⚠ Zu lang, übersprungen: {title} ({len(full_text)} Zeichen)")
