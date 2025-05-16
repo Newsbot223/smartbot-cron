@@ -49,6 +49,7 @@ BLOCKED_KEYWORDS = [
 
 STATE_DIR = "bot-state"
 STATE_FILE = os.path.join(STATE_DIR, "last_file_id.json")
+LOCAL_CACHE_FILE = os.path.join(STATE_DIR, "local_cache.json")
 
 os.makedirs(STATE_DIR, exist_ok=True)
 
@@ -71,29 +72,77 @@ def download_by_file_id(file_id, filename):
         return None
 
 def load_sent_articles():
+    data = {"urls": [], "content_hashes": [], "titles": [], "hashes": []}
+    filename = generate_filename()
+    
+    # Сначала пробуем загрузить локальный кэш
+    if os.path.exists(LOCAL_CACHE_FILE):
+        try:
+            with open(LOCAL_CACHE_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            print(f"📂 Загружен локальный кэш: {LOCAL_CACHE_FILE}")
+            return data, filename
+        except Exception as e:
+            print(f"⚠ Ошибка при загрузке локального кэша: {e}")
+    
+    # Если локальный кэш не доступен, пробуем загрузить из Telegram
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r") as f:
-            obj = json.load(f)
-            file_id = obj.get("file_id")
-            filename = obj.get("filename")
-        if file_id and filename:
-            print("📂 Локальный файл не найден, пробуем скачать по сохранённому file_id...")
-            path = download_by_file_id(file_id, filename)
-            if path and os.path.exists(path):
-                try:
-                    with open(path, "r", encoding="utf-8") as f:
-                        data = json.load(f)
-                    return data, filename
-                except:
-                    pass
+        try:
+            with open(STATE_FILE, "r") as f:
+                obj = json.load(f)
+                file_id = obj.get("file_id")
+                filename = obj.get("filename")
+            
+            if file_id and filename:
+                print("📂 Пробуем скачать по сохранённому file_id...")
+                path = download_by_file_id(file_id, filename)
+                if path and os.path.exists(path):
+                    try:
+                        with open(path, "r", encoding="utf-8") as f:
+                            loaded_data = json.load(f)
+                        
+                        # Обновляем структуру данных, если нужно
+                        data["urls"] = loaded_data.get("urls", [])
+                        data["titles"] = loaded_data.get("titles", [])
+                        data["hashes"] = loaded_data.get("hashes", [])
+                        
+                        # Добавляем новое поле для хешей содержимого, если его нет
+                        if "content_hashes" not in loaded_data:
+                            data["content_hashes"] = []
+                        else:
+                            data["content_hashes"] = loaded_data["content_hashes"]
+                        
+                        # Сохраняем в локальный кэш
+                        save_local_cache(data)
+                        return data, filename
+                    except Exception as e:
+                        print(f"⚠ Ошибка при обработке загруженного файла: {e}")
+        except Exception as e:
+            print(f"⚠ Ошибка при чтении STATE_FILE: {e}")
+    
     print("📭 Нет доступного файла для загрузки. Создаётся новый...")
-    return {"urls": [], "hashes": [], "titles": []}, generate_filename()
+    return data, filename
+
+def save_local_cache(data):
+    """Сохраняет данные в локальный кэш-файл"""
+    try:
+        with open(LOCAL_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"💾 Локальный кэш обновлен: {LOCAL_CACHE_FILE}")
+    except Exception as e:
+        print(f"⚠ Ошибка при сохранении локального кэша: {e}")
 
 def save_sent_articles(data, local_file):
+    # Ограничиваем размер списков
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
-
+    data["content_hashes"] = data.get("content_hashes", [])[-MAX_ARTICLES:]
+    
+    # Сохраняем в локальный кэш
+    save_local_cache(data)
+    
+    # Сохраняем в файл для отправки
     with open(local_file, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
@@ -110,7 +159,13 @@ def save_sent_articles(data, local_file):
             print("⚠ Не удалось распарсить JSON-ответ Telegram:", e)
             response_json = {}
 
-        file_id = response_json.get("document", {}).get("file_id")
+        file_id = None
+        if res.status_code == 200:
+            if "result" in response_json and "document" in response_json["result"]:
+                file_id = response_json["result"]["document"]["file_id"]
+            else:
+                file_id = response_json.get("document", {}).get("file_id")
+        
         print("📌 Полученный file_id:", file_id)
 
         if res.status_code == 200 and file_id:
@@ -131,6 +186,48 @@ def get_article_text(url):
     except Exception as e:
         print("⚠ Ошибка при загрузке статьи:", e)
         return ""
+
+def normalize_text(text):
+    """Нормализует текст для более надежного сравнения"""
+    if not text:
+        return ""
+    # Удаляем все пробельные символы и приводим к нижнему регистру
+    text = re.sub(r'\s+', ' ', text.lower()).strip()
+    # Удаляем пунктуацию
+    text = re.sub(r'[^\w\s]', '', text)
+    return text
+
+def get_content_hash(text):
+    """Создает хеш только от содержимого статьи"""
+    # Берем больше текста для более надежного хеша
+    normalized_text = normalize_text(text[:1000])
+    return hashlib.md5(normalized_text.encode("utf-8")).hexdigest()
+
+def is_duplicate_content(text, sent_data):
+    """Проверяет, является ли статья дубликатом по содержанию"""
+    if not text:
+        return False
+    
+    # Создаем хеш от содержимого
+    content_hash = get_content_hash(text)
+    
+    # Проверяем, есть ли такой хеш в истории
+    if content_hash in sent_data.get("content_hashes", []):
+        print("🔄 Дубликат содержимого обнаружен по хешу содержания")
+        return True
+    
+    # Дополнительная проверка на схожесть текста (для случаев небольших изменений)
+    normalized_text = normalize_text(text[:500])
+    for i, old_hash in enumerate(sent_data.get("content_hashes", [])):
+        # Если у нас есть сохраненный текст, можно было бы сравнить напрямую
+        # Но так как у нас только хеши, используем дополнительную проверку по старому алгоритму
+        if i < len(sent_data.get("hashes", [])):
+            old_hash_base = sent_data.get("hashes", [])[i]
+            if old_hash_base and normalized_text and old_hash_base.startswith(normalized_text[:20]):
+                print("🔄 Дубликат содержимого обнаружен по частичному совпадению")
+                return True
+    
+    return False
 
 def summarize(text):
     prompt = f'''
@@ -165,6 +262,10 @@ def send_message(text):
 
 def main():
     sent, local_file = load_sent_articles()
+    
+    # Убедимся, что у нас есть все необходимые ключи
+    if "content_hashes" not in sent:
+        sent["content_hashes"] = []
 
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
@@ -172,6 +273,7 @@ def main():
             url = entry.link
             title = entry.title
 
+            # Базовая проверка по URL и заголовку
             if url in sent["urls"] or title in sent["titles"]:
                 print(f"⏩ Bereits verarbeitet: {title}")
                 continue
@@ -193,6 +295,7 @@ def main():
                 print(f"⚠ Übersprungen ({feed_url}): {title} (zu kurz)")
                 continue
 
+            # Проверка на релевантность и блокировку по ключевым словам
             if not any(keyword.lower() in full_text.lower() for keyword in KEYWORDS):
                 print(f"⛔ Thema nicht relevant: {title}")
                 continue
@@ -201,10 +304,20 @@ def main():
                 print(f"❌ Thema blockiert: {title}")
                 continue
 
+            # Проверка на дубликаты по содержимому
+            if is_duplicate_content(full_text, sent):
+                print(f"🔄 Дубликат содержимого: {title}")
+                continue
+
+            # Старый метод хеширования для обратной совместимости
             hash_base = (title + full_text[:300].lower()).strip()
             hash_ = hashlib.md5(hash_base.encode("utf-8")).hexdigest()
             if hash_ in sent["hashes"]:
+                print(f"🔄 Дубликат по старому хешу: {title}")
                 continue
+
+            # Новый метод хеширования только содержимого
+            content_hash = get_content_hash(full_text)
 
             print(f"🔄 Analysiere: {title}")
             summary = summarize(full_text)
@@ -218,8 +331,12 @@ def main():
                 print("✅ Gesendet")
                 sent["urls"].append(url)
                 sent["hashes"].append(hash_)
+                sent["content_hashes"].append(content_hash)
                 if title not in sent["titles"]:
                     sent["titles"].append(title)
+                
+                # Сохраняем локальный кэш после каждой успешной отправки
+                save_local_cache(sent)
             else:
                 print("⚠ Fehler beim Senden")
 
