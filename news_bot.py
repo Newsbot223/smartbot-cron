@@ -92,16 +92,27 @@ def update_cache_meta(data):
 def get_telegram_file_info():
     """Получает информацию о последнем файле из Telegram"""
     if not os.path.exists(STATE_FILE):
+        print("⚠ STATE_FILE не существует")
         return None
     
     try:
         with open(STATE_FILE, "r") as f:
-            return json.load(f)
+            info = json.load(f)
+            # Проверяем наличие и валидность file_id
+            if not info.get("file_id"):
+                print("⚠ В STATE_FILE отсутствует валидный file_id")
+                return None
+            return info
     except Exception as e:
         print(f"⚠ Ошибка при чтении STATE_FILE: {e}")
         return None
 
 def download_by_file_id(file_id, filename):
+    """Загружает файл из Telegram по file_id"""
+    if not file_id:
+        print("⚠ Невозможно загрузить файл: file_id отсутствует или некорректен")
+        return None
+        
     try:
         print(f"🔄 Попытка загрузки файла из Telegram с file_id: {file_id}")
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
@@ -120,17 +131,37 @@ def download_by_file_id(file_id, filename):
         print("⚠ Ошибка при скачивании по file_id:", e)
         return None
 
+def load_local_cache():
+    """Загружает данные из локального кэша"""
+    data = {"urls": [], "content_hashes": [], "titles": [], "hashes": []}
+    
+    if os.path.exists(LOCAL_CACHE_FILE):
+        try:
+            with open(LOCAL_CACHE_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            print(f"📂 Загружен локальный кэш: {LOCAL_CACHE_FILE}")
+            print(f"📊 Данные из локального кэша: URLs: {len(data.get('urls', []))}, Titles: {len(data.get('titles', []))}")
+            return data
+        except Exception as e:
+            print(f"⚠ Ошибка при загрузке локального кэша: {e}")
+    else:
+        print("📂 Локальный кэш отсутствует, будет создан новый")
+    
+    return data
+
 def load_sent_articles():
     """
     Загружает историю отправленных статей.
-    ВАЖНО: Всегда пытается сначала загрузить из Telegram, затем использует локальный кэш как запасной вариант.
+    Пытается загрузить из Telegram, если доступно, иначе использует локальный кэш.
     """
     data = {"urls": [], "content_hashes": [], "titles": [], "hashes": []}
     filename = generate_filename()
     
+    print("\n" + "="*50)
     print("🔄 Запуск процесса загрузки истории статей...")
+    print("="*50)
     
-    # Всегда пытаемся сначала загрузить из Telegram
+    # Пытаемся загрузить из Telegram, если есть валидный file_id
     telegram_info = get_telegram_file_info()
     if telegram_info and telegram_info.get("file_id"):
         print(f"📡 Найдена информация о файле в Telegram: {telegram_info}")
@@ -154,20 +185,22 @@ def load_sent_articles():
             except Exception as e:
                 print(f"⚠ Ошибка при обработке загруженного файла: {e}")
     else:
-        print("⚠ Не найдена информация о файле в Telegram")
+        print("⚠ Не найдена информация о файле в Telegram или file_id некорректен")
     
-    # Если не удалось загрузить из Telegram, пробуем использовать локальный кэш
-    if os.path.exists(LOCAL_CACHE_FILE):
-        try:
-            with open(LOCAL_CACHE_FILE, "r", encoding="utf-8") as f:
-                data = json.load(f)
-            print(f"📂 Загружен локальный кэш: {LOCAL_CACHE_FILE}")
-            print(f"📊 Данные из локального кэша: URLs: {len(data.get('urls', []))}, Titles: {len(data.get('titles', []))}")
-            return data, filename
-        except Exception as e:
-            print(f"⚠ Ошибка при загрузке локального кэша: {e}")
+    # Если не удалось загрузить из Telegram, используем локальный кэш
+    print("📂 Используем локальный кэш...")
+    data = load_local_cache()
     
-    print("📭 Нет доступного файла для загрузки. Создаётся новый...")
+    # Убедимся, что у нас есть все необходимые ключи
+    if "content_hashes" not in data:
+        data["content_hashes"] = []
+    if "urls" not in data:
+        data["urls"] = []
+    if "titles" not in data:
+        data["titles"] = []
+    if "hashes" not in data:
+        data["hashes"] = []
+    
     return data, filename
 
 def save_local_cache(data):
@@ -185,6 +218,7 @@ def save_local_cache(data):
         return False
 
 def save_sent_articles(data, local_file):
+    """Сохраняет историю отправленных статей и отправляет файл в Telegram"""
     # Ограничиваем размер списков
     data["urls"] = data["urls"][-MAX_ARTICLES:]
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
@@ -195,40 +229,50 @@ def save_sent_articles(data, local_file):
     save_local_cache(data)
     
     # Сохраняем в файл для отправки
-    with open(local_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    try:
+        with open(local_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"💾 Сохранен файл для отправки: {local_file}")
+    except Exception as e:
+        print(f"⚠ Ошибка при сохранении файла для отправки: {e}")
+        return False
 
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-    with open(local_file, "rb") as f:
-        files = {"document": f}
-        data_tg = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
-        res = requests.post(url, files=files, data=data_tg)
+    # Отправляем файл в Telegram
+    try:
+        url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
+        with open(local_file, "rb") as f:
+            files = {"document": f}
+            data_tg = {"chat_id": CHAT_ID, "caption": "✅ Новый sent_articles файл"}
+            res = requests.post(url, files=files, data=data_tg)
 
-        try:
-            response_json = res.json()
-            print("📦 Ответ Telegram:", json.dumps(response_json, indent=2))
-        except Exception as e:
-            print("⚠ Не удалось распарсить JSON-ответ Telegram:", e)
-            response_json = {}
+            try:
+                response_json = res.json()
+                print("📦 Ответ Telegram:", json.dumps(response_json, indent=2))
+            except Exception as e:
+                print("⚠ Не удалось распарсить JSON-ответ Telegram:", e)
+                response_json = {}
 
-        file_id = None
-        if res.status_code == 200 and response_json.get("ok", False):
-            if "result" in response_json and "document" in response_json["result"]:
-                file_id = response_json["result"]["document"]["file_id"]
-            else:
-                file_id = response_json.get("document", {}).get("file_id")
-        
-        print("📌 Полученный file_id:", file_id)
-
-        if res.status_code == 200 and file_id:
-            with open(STATE_FILE, "w") as meta:
-                json.dump({"file_id": file_id, "filename": local_file, "timestamp": int(time.time())}, meta)
-            print(f"📤 Отправлен {local_file}, сохранён file_id")
+            file_id = None
+            if res.status_code == 200 and response_json.get("ok", False):
+                if "result" in response_json and "document" in response_json["result"]:
+                    file_id = response_json["result"]["document"]["file_id"]
             
-            # Обновляем время модификации STATE_FILE, чтобы отразить факт обновления
-            os.utime(STATE_FILE, None)
-        else:
-            print(f"⚠ Ошибка при отправке файла: {res.status_code}")
+            print("📌 Полученный file_id:", file_id)
+
+            if res.status_code == 200 and file_id:
+                with open(STATE_FILE, "w") as meta:
+                    json.dump({"file_id": file_id, "filename": local_file, "timestamp": int(time.time())}, meta)
+                print(f"📤 Отправлен {local_file}, сохранён file_id")
+                
+                # Обновляем время модификации STATE_FILE, чтобы отразить факт обновления
+                os.utime(STATE_FILE, None)
+                return True
+            else:
+                print(f"⚠ Ошибка при отправке файла: {res.status_code}")
+                return False
+    except Exception as e:
+        print(f"⚠ Ошибка при отправке файла в Telegram: {e}")
+        return False
 
 def get_article_text(url):
     try:
