@@ -103,6 +103,7 @@ def get_telegram_file_info():
 
 def download_by_file_id(file_id, filename):
     try:
+        print(f"🔄 Попытка загрузки файла из Telegram с file_id: {file_id}")
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
         if not info.get("ok", False):
             print(f"⚠ Telegram API вернул ошибку: {info}")
@@ -120,63 +121,48 @@ def download_by_file_id(file_id, filename):
         return None
 
 def load_sent_articles():
+    """
+    Загружает историю отправленных статей.
+    ВАЖНО: Всегда пытается сначала загрузить из Telegram, затем использует локальный кэш как запасной вариант.
+    """
     data = {"urls": [], "content_hashes": [], "titles": [], "hashes": []}
     filename = generate_filename()
     
-    # Получаем метаданные о локальном кэше
-    cache_meta = get_cache_meta()
+    print("🔄 Запуск процесса загрузки истории статей...")
     
-    # Получаем информацию о файле в Telegram
+    # Всегда пытаемся сначала загрузить из Telegram
     telegram_info = get_telegram_file_info()
-    
-    # Проверяем наличие локального кэша
-    local_cache_exists = os.path.exists(LOCAL_CACHE_FILE)
-    
-    # Логика принятия решения о загрузке данных
     if telegram_info and telegram_info.get("file_id"):
-        # Если есть информация о файле в Telegram, проверяем, нужно ли его скачивать
-        need_download = True
-        
-        if local_cache_exists:
-            # Если локальный кэш существует, проверяем его актуальность
+        print(f"📡 Найдена информация о файле в Telegram: {telegram_info}")
+        path = download_by_file_id(telegram_info["file_id"], telegram_info.get("filename", filename))
+        if path and os.path.exists(path):
             try:
-                # Проверяем, когда был обновлен локальный кэш
-                cache_mtime = os.path.getmtime(LOCAL_CACHE_FILE)
-                state_mtime = os.path.getmtime(STATE_FILE)
+                with open(path, "r", encoding="utf-8") as f:
+                    loaded_data = json.load(f)
                 
-                # Если STATE_FILE новее, чем локальный кэш, скачиваем файл
-                if state_mtime <= cache_mtime:
-                    need_download = False
-                    print("📂 Локальный кэш актуален, используем его")
+                # Обновляем структуру данных
+                data["urls"] = loaded_data.get("urls", [])
+                data["titles"] = loaded_data.get("titles", [])
+                data["hashes"] = loaded_data.get("hashes", [])
+                data["content_hashes"] = loaded_data.get("content_hashes", [])
+                
+                print(f"✅ Успешно загружены данные из Telegram: URLs: {len(data['urls'])}, Titles: {len(data['titles'])}")
+                
+                # Сохраняем в локальный кэш для резервного копирования
+                save_local_cache(data)
+                return data, filename
             except Exception as e:
-                print(f"⚠ Ошибка при проверке времени модификации файлов: {e}")
-        
-        if need_download:
-            print("🔄 Локальный кэш устарел или отсутствует, скачиваем файл из Telegram")
-            path = download_by_file_id(telegram_info["file_id"], telegram_info.get("filename", filename))
-            if path and os.path.exists(path):
-                try:
-                    with open(path, "r", encoding="utf-8") as f:
-                        loaded_data = json.load(f)
-                    
-                    # Обновляем структуру данных
-                    data["urls"] = loaded_data.get("urls", [])
-                    data["titles"] = loaded_data.get("titles", [])
-                    data["hashes"] = loaded_data.get("hashes", [])
-                    data["content_hashes"] = loaded_data.get("content_hashes", [])
-                    
-                    # Сохраняем в локальный кэш
-                    save_local_cache(data)
-                    return data, filename
-                except Exception as e:
-                    print(f"⚠ Ошибка при обработке загруженного файла: {e}")
+                print(f"⚠ Ошибка при обработке загруженного файла: {e}")
+    else:
+        print("⚠ Не найдена информация о файле в Telegram")
     
-    # Если не удалось загрузить из Telegram или не нужно скачивать, пробуем использовать локальный кэш
-    if local_cache_exists:
+    # Если не удалось загрузить из Telegram, пробуем использовать локальный кэш
+    if os.path.exists(LOCAL_CACHE_FILE):
         try:
             with open(LOCAL_CACHE_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
             print(f"📂 Загружен локальный кэш: {LOCAL_CACHE_FILE}")
+            print(f"📊 Данные из локального кэша: URLs: {len(data.get('urls', []))}, Titles: {len(data.get('titles', []))}")
             return data, filename
         except Exception as e:
             print(f"⚠ Ошибка при загрузке локального кэша: {e}")
@@ -337,6 +323,10 @@ def send_message(text):
 
 def main():
     # Выводим информацию о состоянии файлов перед загрузкой
+    print("\n" + "="*50)
+    print("🚀 ЗАПУСК БОТА ДЛЯ НОВОСТЕЙ")
+    print("="*50)
+    
     if os.path.exists(LOCAL_CACHE_FILE):
         cache_mtime = datetime.fromtimestamp(os.path.getmtime(LOCAL_CACHE_FILE))
         print(f"📂 Локальный кэш существует, последнее изменение: {cache_mtime}")
@@ -346,6 +336,14 @@ def main():
     if os.path.exists(STATE_FILE):
         state_mtime = datetime.fromtimestamp(os.path.getmtime(STATE_FILE))
         print(f"📂 STATE_FILE существует, последнее изменение: {state_mtime}")
+        
+        # Выводим содержимое STATE_FILE для отладки
+        try:
+            with open(STATE_FILE, "r") as f:
+                state_content = json.load(f)
+            print(f"📄 Содержимое STATE_FILE: {state_content}")
+        except Exception as e:
+            print(f"⚠ Ошибка при чтении STATE_FILE: {e}")
     else:
         print("📂 STATE_FILE отсутствует")
     
@@ -434,6 +432,9 @@ def main():
                 print("⚠ Fehler beim Senden")
 
     save_sent_articles(sent, local_file)
+    print("\n" + "="*50)
+    print("🏁 ЗАВЕРШЕНИЕ РАБОТЫ БОТА")
+    print("="*50)
 
 if __name__ == "__main__":
     main()
