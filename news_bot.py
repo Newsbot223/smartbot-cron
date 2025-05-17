@@ -50,6 +50,7 @@ BLOCKED_KEYWORDS = [
 STATE_DIR = "bot-state"
 STATE_FILE = os.path.join(STATE_DIR, "last_file_id.json")
 LOCAL_CACHE_FILE = os.path.join(STATE_DIR, "local_cache.json")
+CACHE_META_FILE = os.path.join(STATE_DIR, "cache_meta.json")
 
 os.makedirs(STATE_DIR, exist_ok=True)
 
@@ -57,9 +58,56 @@ def generate_filename():
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     return f"sent_articles_{timestamp}.json"
 
+def get_cache_meta():
+    """Получает метаданные о локальном кэше"""
+    if os.path.exists(CACHE_META_FILE):
+        try:
+            with open(CACHE_META_FILE, "r") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"⚠ Ошибка при чтении метаданных кэша: {e}")
+    return {"last_update": 0, "hash": ""}
+
+def update_cache_meta(data):
+    """Обновляет метаданные о локальном кэше"""
+    meta = {
+        "last_update": int(time.time()),
+        "hash": hashlib.md5(json.dumps(data, sort_keys=True).encode("utf-8")).hexdigest(),
+        "count": {
+            "urls": len(data.get("urls", [])),
+            "hashes": len(data.get("hashes", [])),
+            "titles": len(data.get("titles", [])),
+            "content_hashes": len(data.get("content_hashes", []))
+        }
+    }
+    try:
+        with open(CACHE_META_FILE, "w") as f:
+            json.dump(meta, f, indent=2)
+        print(f"📊 Метаданные кэша обновлены: {meta}")
+        return meta
+    except Exception as e:
+        print(f"⚠ Ошибка при обновлении метаданных кэша: {e}")
+        return None
+
+def get_telegram_file_info():
+    """Получает информацию о последнем файле из Telegram"""
+    if not os.path.exists(STATE_FILE):
+        return None
+    
+    try:
+        with open(STATE_FILE, "r") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"⚠ Ошибка при чтении STATE_FILE: {e}")
+        return None
+
 def download_by_file_id(file_id, filename):
     try:
         info = requests.get(f"https://api.telegram.org/bot{BOT_TOKEN}/getFile?file_id={file_id}").json()
+        if not info.get("ok", False):
+            print(f"⚠ Telegram API вернул ошибку: {info}")
+            return None
+            
         file_path = info["result"]["file_path"]
         url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
         data = requests.get(url).content
@@ -75,8 +123,56 @@ def load_sent_articles():
     data = {"urls": [], "content_hashes": [], "titles": [], "hashes": []}
     filename = generate_filename()
     
-    # Сначала пробуем загрузить локальный кэш
-    if os.path.exists(LOCAL_CACHE_FILE):
+    # Получаем метаданные о локальном кэше
+    cache_meta = get_cache_meta()
+    
+    # Получаем информацию о файле в Telegram
+    telegram_info = get_telegram_file_info()
+    
+    # Проверяем наличие локального кэша
+    local_cache_exists = os.path.exists(LOCAL_CACHE_FILE)
+    
+    # Логика принятия решения о загрузке данных
+    if telegram_info and telegram_info.get("file_id"):
+        # Если есть информация о файле в Telegram, проверяем, нужно ли его скачивать
+        need_download = True
+        
+        if local_cache_exists:
+            # Если локальный кэш существует, проверяем его актуальность
+            try:
+                # Проверяем, когда был обновлен локальный кэш
+                cache_mtime = os.path.getmtime(LOCAL_CACHE_FILE)
+                state_mtime = os.path.getmtime(STATE_FILE)
+                
+                # Если STATE_FILE новее, чем локальный кэш, скачиваем файл
+                if state_mtime <= cache_mtime:
+                    need_download = False
+                    print("📂 Локальный кэш актуален, используем его")
+            except Exception as e:
+                print(f"⚠ Ошибка при проверке времени модификации файлов: {e}")
+        
+        if need_download:
+            print("🔄 Локальный кэш устарел или отсутствует, скачиваем файл из Telegram")
+            path = download_by_file_id(telegram_info["file_id"], telegram_info.get("filename", filename))
+            if path and os.path.exists(path):
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        loaded_data = json.load(f)
+                    
+                    # Обновляем структуру данных
+                    data["urls"] = loaded_data.get("urls", [])
+                    data["titles"] = loaded_data.get("titles", [])
+                    data["hashes"] = loaded_data.get("hashes", [])
+                    data["content_hashes"] = loaded_data.get("content_hashes", [])
+                    
+                    # Сохраняем в локальный кэш
+                    save_local_cache(data)
+                    return data, filename
+                except Exception as e:
+                    print(f"⚠ Ошибка при обработке загруженного файла: {e}")
+    
+    # Если не удалось загрузить из Telegram или не нужно скачивать, пробуем использовать локальный кэш
+    if local_cache_exists:
         try:
             with open(LOCAL_CACHE_FILE, "r", encoding="utf-8") as f:
                 data = json.load(f)
@@ -84,41 +180,6 @@ def load_sent_articles():
             return data, filename
         except Exception as e:
             print(f"⚠ Ошибка при загрузке локального кэша: {e}")
-    
-    # Если локальный кэш не доступен, пробуем загрузить из Telegram
-    if os.path.exists(STATE_FILE):
-        try:
-            with open(STATE_FILE, "r") as f:
-                obj = json.load(f)
-                file_id = obj.get("file_id")
-                filename = obj.get("filename")
-            
-            if file_id and filename:
-                print("📂 Пробуем скачать по сохранённому file_id...")
-                path = download_by_file_id(file_id, filename)
-                if path and os.path.exists(path):
-                    try:
-                        with open(path, "r", encoding="utf-8") as f:
-                            loaded_data = json.load(f)
-                        
-                        # Обновляем структуру данных, если нужно
-                        data["urls"] = loaded_data.get("urls", [])
-                        data["titles"] = loaded_data.get("titles", [])
-                        data["hashes"] = loaded_data.get("hashes", [])
-                        
-                        # Добавляем новое поле для хешей содержимого, если его нет
-                        if "content_hashes" not in loaded_data:
-                            data["content_hashes"] = []
-                        else:
-                            data["content_hashes"] = loaded_data["content_hashes"]
-                        
-                        # Сохраняем в локальный кэш
-                        save_local_cache(data)
-                        return data, filename
-                    except Exception as e:
-                        print(f"⚠ Ошибка при обработке загруженного файла: {e}")
-        except Exception as e:
-            print(f"⚠ Ошибка при чтении STATE_FILE: {e}")
     
     print("📭 Нет доступного файла для загрузки. Создаётся новый...")
     return data, filename
@@ -129,8 +190,13 @@ def save_local_cache(data):
         with open(LOCAL_CACHE_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         print(f"💾 Локальный кэш обновлен: {LOCAL_CACHE_FILE}")
+        
+        # Обновляем метаданные кэша
+        update_cache_meta(data)
+        return True
     except Exception as e:
         print(f"⚠ Ошибка при сохранении локального кэша: {e}")
+        return False
 
 def save_sent_articles(data, local_file):
     # Ограничиваем размер списков
@@ -160,7 +226,7 @@ def save_sent_articles(data, local_file):
             response_json = {}
 
         file_id = None
-        if res.status_code == 200:
+        if res.status_code == 200 and response_json.get("ok", False):
             if "result" in response_json and "document" in response_json["result"]:
                 file_id = response_json["result"]["document"]["file_id"]
             else:
@@ -170,8 +236,11 @@ def save_sent_articles(data, local_file):
 
         if res.status_code == 200 and file_id:
             with open(STATE_FILE, "w") as meta:
-                json.dump({"file_id": file_id, "filename": local_file}, meta)
+                json.dump({"file_id": file_id, "filename": local_file, "timestamp": int(time.time())}, meta)
             print(f"📤 Отправлен {local_file}, сохранён file_id")
+            
+            # Обновляем время модификации STATE_FILE, чтобы отразить факт обновления
+            os.utime(STATE_FILE, None)
         else:
             print(f"⚠ Ошибка при отправке файла: {res.status_code}")
 
@@ -202,7 +271,6 @@ def clean_article_text(text):
     text = re.sub(r'^Titel:\s*', '', text, flags=re.IGNORECASE | re.MULTILINE)
     text = re.sub(r'Diese Nachricht wurde am .*? gesendet\.', '', text, flags=re.IGNORECASE | re.DOTALL)
     return text.strip()
-
 
 def get_content_hash(text):
     """Создает хеш только от содержимого статьи"""
@@ -268,7 +336,24 @@ def send_message(text):
     return requests.post(url, json=payload).status_code == 200
 
 def main():
+    # Выводим информацию о состоянии файлов перед загрузкой
+    if os.path.exists(LOCAL_CACHE_FILE):
+        cache_mtime = datetime.fromtimestamp(os.path.getmtime(LOCAL_CACHE_FILE))
+        print(f"📂 Локальный кэш существует, последнее изменение: {cache_mtime}")
+    else:
+        print("📂 Локальный кэш отсутствует")
+        
+    if os.path.exists(STATE_FILE):
+        state_mtime = datetime.fromtimestamp(os.path.getmtime(STATE_FILE))
+        print(f"📂 STATE_FILE существует, последнее изменение: {state_mtime}")
+    else:
+        print("📂 STATE_FILE отсутствует")
+    
+    # Загружаем историю отправленных статей
     sent, local_file = load_sent_articles()
+    
+    # Выводим информацию о загруженных данных
+    print(f"📊 Загружено URLs: {len(sent.get('urls', []))}, Titles: {len(sent.get('titles', []))}, Hashes: {len(sent.get('hashes', []))}, Content Hashes: {len(sent.get('content_hashes', []))}")
     
     # Убедимся, что у нас есть все необходимые ключи
     if "content_hashes" not in sent:
