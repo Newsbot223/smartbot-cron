@@ -1,37 +1,35 @@
-name: Run Telegram Bot every 45 minutes
+name: run-bot
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0,45 * * * *'  # запуск в 00 и 45 минут каждого часа
-  workflow_dispatch:        # ручной запуск
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  run-bot:
+  run:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Клонируем репозиторий
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: 💾 Восстанавливаем file_id из кэша
-        uses: actions/cache@v3
-        with:
-          path: bot-state/last_file_id.json
-          key: telegram-sent-articles-cache
-
-      - name: 🐍 Устанавливаем Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: 3.11
 
-      - name: 🔧 Установка зависимостей
-        run: |
-          python -m pip install pip==23.2.1
-          pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: 🚀 Запускаем бота
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      - name: Run python news_bot.py
         run: python news_bot.py
+
+      - name: Commit and push updated state
+        run: |
+          git config user.name "github-actions"
+          git config user.email "bot@example.com"
+          git add bot-state/last_file_id.json bot-state/local_cache.json || echo "No state files to commit"
+          git commit -m "Update last_file_id.json and local_cache.json" || echo "No changes to commit"
+          git push || echo "Nothing to push"
