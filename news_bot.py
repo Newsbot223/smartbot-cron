@@ -224,15 +224,15 @@ def save_sent_articles(data, local_file):
     data["hashes"] = data["hashes"][-MAX_ARTICLES:]
     data["titles"] = data.get("titles", [])[-MAX_ARTICLES:]
     data["content_hashes"] = data.get("content_hashes", [])[-MAX_ARTICLES:]
-    
+
     # Сохраняем в локальный кэш
     save_local_cache(data)
-    
+
     # Сохраняем в файл для отправки
     try:
         with open(local_file, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"💾 Сохранен файл для отправки: {local_file}")
+        print(f"📎 Сохранен файл для отправки: {local_file}")
     except Exception as e:
         print(f"⚠ Ошибка при сохранении файла для отправки: {e}")
         return False
@@ -252,19 +252,14 @@ def save_sent_articles(data, local_file):
                 print("⚠ Не удалось распарсить JSON-ответ Telegram:", e)
                 response_json = {}
 
-            file_id = None
-            if res.status_code == 200 and response_json.get("ok", False):
-                if "result" in response_json and "document" in response_json["result"]:
-                    file_id = response_json["result"]["document"]["file_id"]
-            
-            print("📌 Полученный file_id:", file_id)
+            file_id = response_json.get("result", {}).get("document", {}).get("file_id")
+            print("📌 DEBUG: file_id =", file_id)
 
             if res.status_code == 200 and file_id:
                 with open(STATE_FILE, "w") as meta:
                     json.dump({"file_id": file_id, "filename": local_file, "timestamp": int(time.time())}, meta)
                 print(f"📤 Отправлен {local_file}, сохранён file_id")
-                
-                # Обновляем время модификации STATE_FILE, чтобы отразить факт обновления
+
                 os.utime(STATE_FILE, None)
                 return True
             else:
