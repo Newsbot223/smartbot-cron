@@ -19,7 +19,7 @@ FEEDS = [
 ]
 
 MAX_ARTICLES = 1000
-MAX_TOKENS = 800
+MAX_TOKENS = 400
 MAX_CHARS = 8000
 MAX_AGE_SECONDS = 21600 # 6 часов
 
@@ -332,8 +332,6 @@ def is_duplicate_content(text, sent_data):
 def summarize(text):
     prompt = f'''
 Lies bitte den folgenden Text sorgfältig (auch wenn er auf Englisch ist) und fasse ihn dann auf DEUTSCH zusammen.
-
-Erstelle zuerst einen sachlichen, aber spannenden Titel auf Deutsch – ohne Anführungszeichen, klar und professionell.
 
 Fasse den Inhalt in 4–7 Sätzen auf DEUTSCH zusammen.
 ➤ Verwende kurze Absätze.
