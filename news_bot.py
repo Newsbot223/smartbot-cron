@@ -331,7 +331,16 @@ def is_duplicate_content(text, sent_data):
 
 def summarize(text):
     prompt = f'''
-Fasse diesen deutschen Nachrichtentext in 4–7 Sätzen zusammen. Verfasse zuerst einen spannenden, aber sachlichen Titel (ohne Anführungszeichen), dann einen stilistisch ansprechenden Nachrichtentext. Nutze kurze Absätze und formuliere professionell und klar.
+Lies bitte den folgenden Text sorgfältig (auch wenn er auf Englisch ist) und fasse ihn dann auf DEUTSCH zusammen.
+
+Erstelle zuerst einen sachlichen, aber spannenden Titel auf Deutsch – ohne Anführungszeichen, klar und professionell.
+
+Fasse den Inhalt in 4–7 Sätzen auf DEUTSCH zusammen.
+➤ Verwende kurze Absätze.
+➤ Schreibe stilistisch ansprechend im Stil einer Nachrichtenseite (z. B. tagesschau.de).
+➤ Kein Kommentar, keine Meinung, keine Übersetzung – nur eine sachliche, journalistische Zusammenfassung auf Deutsch.
+
+⚠️ Wichtig: Der ganze Output soll ausschließlich auf DEUTSCH sein – auch wenn der Ursprungstext auf Englisch oder einer anderen Sprache ist.
 
 Text: {text}
 '''
