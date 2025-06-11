@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israelische-armee-weitet-offensive-in-gaza-aus-einsatz-von-bodentruppen-gestartet-100.html",
-    "https://www.faz.net/aktuell/politik/inland/brandenburgs-innenministerin-geht-woidkes-krise-bleibt-110484531.html",
-    "https://www.deutschlandfunk.de/nach-rueckzug-der-usa-deutschland-unterstuetzt-who-mit-zusaetzlichen-millionen-100.html",
     "https://www.deutschlandfunk.de/ostdeutschland-holt-in-vielen-bereichen-auf-bleibt-aber-strukturell-zurueck-100.html",
     "https://www.deutschlandfunk.de/tausende-demonstrieren-auf-kanarischen-inseln-gegen-massentourismus-102.html",
     "https://www.faz.net/aktuell/politik/inland/lars-klingbeil-und-die-beharrungskraefte-der-alten-spd-110481068.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/norbert-walter-borjans-im-interview-ueber-das-spd-manifest-110530161.html",
     "https://www.deutschlandfunk.de/vcd-fordert-fuer-familien-planbare-fahrpreise-kritik-an-abschaffung-der-familienreservierung-100.html",
     "https://www.deutschlandfunk.de/offenbar-wieder-annaeherung-von-trump-und-musk-100.html",
-    "https://www.deutschlandfunk.de/harvey-weinstein-erneut-wegen-sexualverbrechens-schuldig-gesprochen-104.html"
+    "https://www.deutschlandfunk.de/harvey-weinstein-erneut-wegen-sexualverbrechens-schuldig-gesprochen-104.html",
+    "https://www.deutschlandfunk.de/proteste-gegen-einwanderungspolitik-weiten-sich-aus-100.html",
+    "https://www.deutschlandfunk.de/israelische-armee-birgt-in-gazastreifen-leichen-von-zwei-weiteren-geiseln-100.html",
+    "https://www.spiegel.de/politik/deutschland/donald-tusk-polen-erwaegt-kontrollen-an-der-grenze-zu-deutschland-a-8cb83139-8fc8-4b48-90ae-9fd9b063145d#ref=rss"
   ],
   "content_hashes": [
-    "aa328776b4d16315b99822c611cd71cd",
-    "3969a7b0c2043490e84d7cfe3c43cf41",
-    "16165170966bda9ad7fa2fde648bac8c",
     "58c20e0f6a6960132e8a2f6a328c46af",
     "3abdef52135884ce3df32a9914c3569a",
     "8ad16f4228b3062d13aca63f115e3ca4",
@@ -2001,12 +1998,12 @@
     "0048e573e018d1e67ffcd006294162c5",
     "eae6e77d57cde19380fe9cac299115b5",
     "5e0696e848518dd400a21908b88a7399",
-    "e8d62f462bb596e0e04bf55028e53868"
+    "e8d62f462bb596e0e04bf55028e53868",
+    "35d0f8ab72e1b4ea53d52d2e938cc186",
+    "d908082f88cceeff37ff56da98b168bb",
+    "232f118957af612706773f963a172d65"
   ],
   "titles": [
-    "Nahost - Israelische Armee weitet Offensive in Gaza aus - Einsatz von Bodentruppen gestartet",
-    "Brandenburg: Die Innenministerin geht, Woidkes Krise bleibt",
-    "Gesundheit - Nach Rückzug der USA: Deutschland unterstützt WHO mit zusätzlichen Millionen",
     "Ifo-Studie - Ostdeutschland holt in vielen Bereichen auf - bleibt aber strukturell zurück",
     "Spanien - Tausende demonstrieren auf Kanarischen Inseln gegen Massentourismus",
     "Lars Klingbeil und die Beharrungskräfte der alten SPD",
@@ -3003,12 +3000,12 @@
     "Norbert Walter-Borjans: „Klingbeil gibt die Meinung vieler an der Basis nicht wieder“",
     "Deutsche Bahn - VCD fordert für Familien planbare Fahrpreise - Kritik an Abschaffung der Familienreservierung",
     "USA - Offenbar wieder Annäherung von Trump und Musk",
-    "Früherer Filmmogul - Harvey Weinstein erneut wegen Sexualverbrechens schuldig gesprochen"
+    "Früherer Filmmogul - Harvey Weinstein erneut wegen Sexualverbrechens schuldig gesprochen",
+    "USA - Proteste gegen Einwanderungspolitik weiten sich aus",
+    "Gaza-Krieg - Israelische Armee birgt in Gazastreifen Leichen von zwei weiteren Geiseln",
+    "Donald Tusk: Polen erwägt Kontrollen an der Grenze zu Deutschland"
   ],
   "hashes": [
-    "922d24f3737cbd9fd6ba59559409e605",
-    "138e701a02f53007c91e781cb4a7d4de",
-    "c975d7de1822de6b98fa3785a61fb489",
     "8d72733e34383bd47080e965269da5e0",
     "706ee5c7d323d471dcdcc5cde304487e",
     "bf2a3e8d6aa1bfa44197cce7a23e1109",
@@ -4005,6 +4002,9 @@
     "8023e9fb8676f2445712313b05e4b223",
     "1e27302224c8039adfbe1ff2b22337b1",
     "f93009d8643f2fca9af526065174061e",
-    "fa8e9c30c0ab78ea4ba71a28897adcfc"
+    "fa8e9c30c0ab78ea4ba71a28897adcfc",
+    "2c4110ae1afbfbdfe52b69238912afda",
+    "d2a06705a92f0a4ef70b86db86a625a5",
+    "2a7527785545f1ec89e77fdf20b7553c"
   ]
 }
