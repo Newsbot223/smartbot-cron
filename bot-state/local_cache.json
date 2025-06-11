@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nach-gutachten-kommt-ein-waffenverbot-fuer-afd-mitglieder-110481366.html",
-    "https://www.deutschlandfunk.de/deutsche-arbeiten-weniger-als-menschen-in-anderen-laendern-bas-ruft-arbeitgeber-zu-mehr-familienfreu-100.html",
     "https://www.deutschlandfunk.de/gruene-ueben-scharfe-kritik-an-merkel-wegen-russischem-gas-100.html",
     "https://www.deutschlandfunk.de/ukrainische-luftwaffe-groesster-russischer-drohnenangriff-seit-beginn-des-krieges-102.html",
     "https://www.deutschlandfunk.de/europaeer-wollen-sich-vor-putin-gespraech-mit-trump-abstimmen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/daenisches-parlament-beschliesst-wehrpflicht-fuer-frauen-102.html",
     "https://www.deutschlandfunk.de/schweitzer-spd-keine-politische-loesung-beim-rundfunkbeitrag-in-sicht-102.html",
     "https://www.deutschlandfunk.de/ganzes-stadtviertel-vollstaendig-abgesperrt-800-polizisten-gehen-gegen-drogenhandel-im-belgischen-an-100.html",
-    "https://www.deutschlandfunk.de/1-7-milliarden-illegale-zigaretten-in-deutschland-verkauft-100.html"
+    "https://www.deutschlandfunk.de/1-7-milliarden-illegale-zigaretten-in-deutschland-verkauft-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wuerdigt-verstorbenen-nagelkuenstler-guenther-uecker-102.html",
+    "https://www.faz.net/aktuell/politik/inland/innenministerkonferenz-in-sachen-afd-steht-es-16-zu-1-110530771.html"
   ],
   "content_hashes": [
-    "3076d4e496c88d53a26e3ca0164ad4d7",
-    "a9744342f6412e93ed4fc3ea2eb2e569",
     "0dfff2880d3ecd490bde34b82f34a45e",
     "6e56c8009684f79394e41556b4f0fae3",
     "7e94193340b1c12d20531ada8c020bda",
@@ -2001,11 +1999,11 @@
     "8ecf728041cf112d509dfbbc1ed36147",
     "579b4392f0da5478e589ea61717f5a22",
     "889555a145307edc015742dfac11bdc4",
-    "7e31dd68f94774f2e90600fc7888879f"
+    "7e31dd68f94774f2e90600fc7888879f",
+    "76f761302a2dd0268fa040e38aef5542",
+    "c83f2648af5d062b6127b12d909d720e"
   ],
   "titles": [
-    "Nach Gutachten: Kommt ein Waffenverbot für AfD-Mitglieder?",
-    "Auswertung - Deutsche arbeiten weniger als Menschen in anderen Ländern - Bas ruft Arbeitgeber zu mehr Familienfreundlichkeit auf",
     "Wirtschaftspolitik - Grüne üben scharfe Kritik an Merkel wegen russischem Gas",
     "Russischer Angriffskrieg - Ukrainische Luftwaffe: Größter russischer Drohnenangriff seit Beginn des Krieges",
     "Ukraine-Krieg - Europäer wollen sich vor Putin-Gespräch mit Trump abstimmen",
@@ -3003,11 +3001,11 @@
     "Verteidigung - Dänisches Parlament beschließt Wehrpflicht für Frauen",
     "Ministerpräsident von Rheinland-Pfalz - Schweitzer (SPD): Keine politische Lösung beim Rundfunkbeitrag in Sicht",
     "Kriminalität - Ganzes Stadtviertel vollständig abgesperrt: 800 Polizisten gehen gegen Drogenhandel im belgischen Anderlecht vor",
-    "Untersuchung - 1,7 Milliarden illegale Zigaretten in Deutschland verkauft"
+    "Untersuchung - 1,7 Milliarden illegale Zigaretten in Deutschland verkauft",
+    "Kultur - Bundespräsident Steinmeier würdigt verstorbenen \"Nagelkünstler\" Günther Uecker",
+    "Innenministerkonferenz: In Sachen AfD steht es 16 zu 1"
   ],
   "hashes": [
-    "fd9ada7e87965d0f4890ee6b1ed2a820",
-    "06f4974bdb568624aced119a19442e3c",
     "37179113dcb93b1d71f7bc0e504f4078",
     "3ba8ce67eb7e2528114841c0125ba1fa",
     "0e9df8ed1e4dd00bd0cc400a6518c34b",
@@ -4005,6 +4003,8 @@
     "1264edc327bf2c0f22f0d1a1e2e93042",
     "c41222c4b9f6d7f1ddcc9d065df09a9e",
     "69c7b724cf239b3cdaeeae7b1ceaf386",
-    "b8dcee6b73847d2d2e93f83e97e89dd7"
+    "b8dcee6b73847d2d2e93f83e97e89dd7",
+    "d506b4076511aa8b873fc48e15c9532b",
+    "59b51d8cbb02030348bf3ee574d7f90a"
   ]
 }
