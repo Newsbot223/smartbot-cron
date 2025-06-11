@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/militaerische-fuehrung-in-kiew-meldet-russischen-grossangriff-mit-drohnen-100.html",
-    "https://www.deutschlandfunk.de/sprengsatz-vor-kinderwunschzentrum-in-den-usa-detoniert-mindestes-ein-todesopfer-100.html",
     "https://www.deutschlandfunk.de/papst-leo-xiv-wird-in-sein-amt-eingefuehrt-100.html",
     "https://www.deutschlandfunk.de/portugal-stimmt-in-vorgezogener-wahl-ueber-neues-parlament-ab-100.html",
     "https://www.deutschlandfunk.de/merz-will-druck-auf-russland-erhoehen-und-italien-einbinden-106.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/slowakei-droht-mit-veto-gegen-russland-sanktionen-100.html",
     "https://www.faz.net/aktuell/politik/inland/freie-sachsen-rechtsextremist-gesteht-wahlmanipulation-110529884.html",
     "https://www.deutschlandfunk.de/ein-viertel-der-eingewanderten-in-deutschland-denkt-ueber-auswanderung-nach-100.html",
-    "https://www.deutschlandfunk.de/800-polizisten-durchsuchen-stadtviertel-von-anderlecht-100.html"
+    "https://www.deutschlandfunk.de/800-polizisten-durchsuchen-stadtviertel-von-anderlecht-100.html",
+    "https://www.deutschlandfunk.de/deutscher-botschafter-in-kiew-soll-neuer-bnd-praesident-werden-100.html",
+    "https://www.deutschlandfunk.de/agrarminister-rainer-waelder-stehen-unter-dauerstress-100.html"
   ],
   "content_hashes": [
-    "2dfe68635f5e5a1312d433e7b0f1a8c7",
-    "7d662fb50eb3e9388a91431f5ef4ee04",
     "5fabc2d1356bf947afe3cd9ade995559",
     "377a7bc1ef1369c633ddc24b58ca5dc7",
     "8401a45bc4b465b73211e3b504460c42",
@@ -2001,11 +1999,11 @@
     "12ab4f09e8451b2b3a7162d3282303cc",
     "a8cd1ce976f911a8d51c087b1f8721c2",
     "631360cd78171ae0472dbbc88d8bfa0f",
-    "cf9aba62741305e28d9c2c192fd7415a"
+    "cf9aba62741305e28d9c2c192fd7415a",
+    "45e4842688aa66ccb8509027bd289962",
+    "23a651d2dd3e9dcff6deb1b7db3b0b98"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Militärische Führung in Kiew meldet russischen Großangriff mit Drohnen",
-    "\"American Reproductive Center\" - Sprengsatz vor Kinderwunschzentrum in den USA detoniert - mindestes ein Todesopfer",
     "Vatikan - Papst Leo XIV. wird in sein Amt eingeführt",
     "Abstimmung - Portugal stimmt in vorgezogener Wahl über neues Parlament ab",
     "Diplomatie - Merz will Druck auf Russland erhöhen und Italien einbinden",
@@ -3003,11 +3001,11 @@
     "Pläne der EU-Kommission - Slowakei droht mit Veto gegen Russland-Sanktionen",
     "Rechtsextremist gesteht Wahlfälschung für „Freie Sachsen“",
     "Migration - Ein Viertel der Eingewanderten in Deutschland denkt über Auswanderung nach",
-    "Kampf gegen Drogenhandel - 800 Polizisten durchsuchen Stadtviertel von Anderlecht"
+    "Kampf gegen Drogenhandel - 800 Polizisten durchsuchen Stadtviertel von Anderlecht",
+    "\"Spiegel\" - Deutscher Botschafter in Kiew soll neuer BND-Präsident werden",
+    "Ökologie - Agrarminister Rainer: Wälder stehen unter Dauerstress"
   ],
   "hashes": [
-    "030b0ff4ed8de47eccdd127b6dd3154c",
-    "1e45aa616e628315c6fc8bfbcf860772",
     "e293cd385cd7fbc71ad7e6bb566260f5",
     "28f5d1cca806e0c72e1fe0a0786babca",
     "9f6e6bd246678551ea5cec7f69967487",
@@ -4005,6 +4003,8 @@
     "864977ca69e83f44a1977ec1fa4e32c5",
     "828550ff224335eeb851fd64b51b43d3",
     "604e630a453966bc0dad03829f18d275",
-    "1c99d10cffa4a53a8bea66abeade1313"
+    "1c99d10cffa4a53a8bea66abeade1313",
+    "171ef8c643024be27e937f81e83f630f",
+    "712cb4a8384f01b1abb7120d2e5161d5"
   ]
 }
