@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/papst-leo-xiv-wird-in-sein-amt-eingefuehrt-100.html",
-    "https://www.deutschlandfunk.de/portugal-stimmt-in-vorgezogener-wahl-ueber-neues-parlament-ab-100.html",
-    "https://www.deutschlandfunk.de/merz-will-druck-auf-russland-erhoehen-und-italien-einbinden-106.html",
     "https://www.deutschlandfunk.de/bundesbildungsministerin-prien-expertenkommission-zu-handynutzung-an-schulen-geplant-110.html",
     "https://www.deutschlandfunk.de/nach-lange-ruecktritt-fordern-linke-und-gruene-wiedereinsetzung-von-verfassungsschutzchef-mueller-100.html",
     "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-will-handel-mit-lachgas-deutlich-einschraenken-108.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ein-viertel-der-eingewanderten-in-deutschland-denkt-ueber-auswanderung-nach-100.html",
     "https://www.deutschlandfunk.de/800-polizisten-durchsuchen-stadtviertel-von-anderlecht-100.html",
     "https://www.deutschlandfunk.de/deutscher-botschafter-in-kiew-soll-neuer-bnd-praesident-werden-100.html",
-    "https://www.deutschlandfunk.de/agrarminister-rainer-waelder-stehen-unter-dauerstress-100.html"
+    "https://www.deutschlandfunk.de/agrarminister-rainer-waelder-stehen-unter-dauerstress-100.html",
+    "https://www.deutschlandfunk.de/nach-amoklauf-in-graz-polizei-findet-plaene-fuer-sprengstoffanschlag-100.html",
+    "https://www.deutschlandfunk.de/grundsaetzliche-einigung-im-handelskonflikt-was-china-und-die-usa-laut-trump-vereinbart-haben-100.html",
+    "https://www.deutschlandfunk.de/hoergeraete-kette-kind-wird-von-daenischem-unternehmen-uebernommen-100.html"
   ],
   "content_hashes": [
-    "5fabc2d1356bf947afe3cd9ade995559",
-    "377a7bc1ef1369c633ddc24b58ca5dc7",
-    "8401a45bc4b465b73211e3b504460c42",
     "18fd36ca686279508f461fb955b01535",
     "babc887ea08c521847d570f1b028bdc7",
     "e48412709d5a078bff69719bf83dd3c0",
@@ -2001,12 +1998,12 @@
     "631360cd78171ae0472dbbc88d8bfa0f",
     "cf9aba62741305e28d9c2c192fd7415a",
     "45e4842688aa66ccb8509027bd289962",
-    "23a651d2dd3e9dcff6deb1b7db3b0b98"
+    "23a651d2dd3e9dcff6deb1b7db3b0b98",
+    "2ef0ee46d526000a696614d59faa5bfa",
+    "92848d8edcc9206f5f977b01349821d1",
+    "ea75f59344d60a916f0f676cb46e3e22"
   ],
   "titles": [
-    "Vatikan - Papst Leo XIV. wird in sein Amt eingeführt",
-    "Abstimmung - Portugal stimmt in vorgezogener Wahl über neues Parlament ab",
-    "Diplomatie - Merz will Druck auf Russland erhöhen und Italien einbinden",
     "Interview der Woche - Bundesbildungsministerin Prien: Expertenkommission zu Handynutzung an Schulen geplant",
     "Brandenburg - Nach Lange-Rücktritt fordern Linke und Grüne Wiedereinsetzung von Verfassungsschutzchef Müller",
     "Partydroge - Bundesgesundheitsministerin Warken will Handel mit Lachgas deutlich einschränken",
@@ -3003,12 +3000,12 @@
     "Migration - Ein Viertel der Eingewanderten in Deutschland denkt über Auswanderung nach",
     "Kampf gegen Drogenhandel - 800 Polizisten durchsuchen Stadtviertel von Anderlecht",
     "\"Spiegel\" - Deutscher Botschafter in Kiew soll neuer BND-Präsident werden",
-    "Ökologie - Agrarminister Rainer: Wälder stehen unter Dauerstress"
+    "Ökologie - Agrarminister Rainer: Wälder stehen unter Dauerstress",
+    "Österreich - Nach Amoklauf in Graz: Polizei findet Pläne für Sprengstoffanschlag",
+    "Abbau von Exportbeschränkungen - Grundsätzliche Einigung im Handelskonflikt: Was China und die USA laut Trump vereinbart haben",
+    "Besitzerwechsel - Hörgeräte-Kette Kind wird von dänischem Unternehmen übernommen"
   ],
   "hashes": [
-    "e293cd385cd7fbc71ad7e6bb566260f5",
-    "28f5d1cca806e0c72e1fe0a0786babca",
-    "9f6e6bd246678551ea5cec7f69967487",
     "930d0596d05c97e7052604724d1a67fd",
     "58b2a33b73ff54479d86c08a72fd6d75",
     "ff924f7feca305b525f44b6af2c98820",
@@ -4005,6 +4002,9 @@
     "604e630a453966bc0dad03829f18d275",
     "1c99d10cffa4a53a8bea66abeade1313",
     "171ef8c643024be27e937f81e83f630f",
-    "712cb4a8384f01b1abb7120d2e5161d5"
+    "712cb4a8384f01b1abb7120d2e5161d5",
+    "d5d78e2ccad008016e4fe1e902d14b6c",
+    "dfee4a0eb663d207f0e40d787baf81b4",
+    "28bc50bdac6baa2e1dd60b4988ae5964"
   ]
 }
