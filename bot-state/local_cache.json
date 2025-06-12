@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/palaestinensische-angaben-viele-tote-bei-israelischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-kuendigt-entlastungspaket-bis-mitte-juli-an-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-wirtschaft-in-deutschland-stagniert-weiter-106.html",
-    "https://www.deutschlandfunk.de/afd-klagt-gegen-einstufung-des-landesverbandes-als-rechtsextremistisch-100.html",
     "https://www.deutschlandfunk.de/dax-erreicht-rekordhoch-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-und-russischer-staatschef-putin-fuehren-telefonat-putin-nennt-gespraech-nuetzlic-100.html",
     "https://www.deutschlandfunk.de/supreme-court-kippt-schutzstatus-fuer-350-000-venezolaner-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/mindestens-200-tote-bei-flugzeugunglueck-in-indien-ein-ueberlebender-gefunden-100.html",
     "https://www.deutschlandfunk.de/trump-nennt-fed-chef-powell-hohlkopf-und-erhoeht-druck-100.html",
     "https://www.deutschlandfunk.de/trump-kippt-verbrenner-aus-in-kalifornien-100.html",
-    "https://www.deutschlandfunk.de/gedenken-im-wiener-stephansdom-100.html"
+    "https://www.deutschlandfunk.de/gedenken-im-wiener-stephansdom-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-260-tote-bei-flugzeugunglueck-ein-ueberlebender-gefunden-102.html",
+    "https://www.deutschlandfunk.de/bundesrat-befasst-sich-mit-investitions-booster-der-schwarz-roten-regierung-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-besucht-aegypten-libanon-jordanien-und-israel-100.html",
+    "https://www.deutschlandfunk.de/gruene-raeumen-fehler-im-fall-gelbhaar-ein-106.html"
   ],
   "content_hashes": [
-    "9ba0571bac87c980f8fa3114232a9c63",
-    "156edd4ba4b16de35818a4b133de0231",
-    "5111f318f36f435eac783614726cea7e",
-    "d4792d8dd5b02e25004cf08cd4577c99",
     "32e5833056a0a06dd4169dede07a2783",
     "4fa6e7bbbecf07dd92927a91bdf542b6",
     "902fca3a05724761b1f8a6b59da9e7d0",
@@ -2001,13 +1997,13 @@
     "215e1f00dfb1d9dcbe89b50f5501c74b",
     "e1fe599f39fce964e60d11d990e0381f",
     "61fb6ee6ea9a1bdd4849073b06d89853",
-    "728de88d72f333108117e12b01f4f96a"
+    "728de88d72f333108117e12b01f4f96a",
+    "3b00dd3410bff427ce4c79c203b51124",
+    "6cefcca5938fbc7f139c91eeca039431",
+    "5832da56b9cee56d4af4a6a633354be3",
+    "713db51a8e770ca4409684ffd1d218dc"
   ],
   "titles": [
-    "Nahost - Palästinensische Angaben: Viele Tote bei israelischen Angriffen",
-    "Konjunktur - Wirtschaftsministerin Reiche kündigt Entlastungspaket bis Mitte Juli an",
-    "Konjunkturprognose - EU-Kommission: Wirtschaft in Deutschland stagniert weiter",
-    "Brandenburg - AfD klagt gegen Einstufung des Landesverbandes als rechtsextremistisch",
     "Fast 24.000 Punkte - Dax erreicht Rekordhoch",
     "Ukrainekrieg - US-Präsident Trump und russischer Staatschef Putin führen Telefonat - Putin nennt Gespräch \"nützlich\"",
     "USA - Supreme Court kippt Schutzstatus für 350.000 Venezolaner",
@@ -3003,13 +2999,13 @@
     "Flugzeugabsturz - Mindestens 200 Tote bei Flugzeugunglück in Indien - ein Überlebender gefunden",
     "Vereinigte Staaten - Trump nennt Fed-Chef Powell \"Hohlkopf\" und erhöht Druck",
     "Vereinigte Staaten - Trump kippt Verbrenner-Aus in Kalifornien",
-    "Nach Amoklauf in Graz - Gedenken im Wiener Stephansdom"
+    "Nach Amoklauf in Graz - Gedenken im Wiener Stephansdom",
+    "Indien - Mehr als 260 Tote bei Flugzeugunglück - ein Überlebender gefunden",
+    "Geringere Steuereinnahmen - Bundesrat befasst sich mit \"Investitions-Booster\" der schwarz-roten Regierung",
+    "Nahostkonflikt - Bundesaußenminister Wadephul besucht Ägypten, Libanon, Jordanien und Israel",
+    "Nach Missbrauchsvorwürfen - Grüne räumen Fehler im Fall Gelbhaar ein"
   ],
   "hashes": [
-    "b29be46850c58ac57c978b80a17b5f16",
-    "3d0da8033fe3832e5a775effe818c8b3",
-    "cc3c5a546e4893dc97f4f9011eda2c6a",
-    "ee7006ec1b0597f733c90416180f6e0d",
     "2d3c35f3c7027645886592b024daceeb",
     "1094c47c902c38ffe49d883be5e778e8",
     "029c0e99cacdece7ef33137ee235b30a",
@@ -4005,6 +4001,10 @@
     "7694ec9b0acd89b79bd053261dad18a2",
     "67f932a2e6b36822dac807e9dd38c178",
     "2dc550b4a1736e14f4b817f97279f644",
-    "5bc1846bd4ef321487bbaff08d755265"
+    "5bc1846bd4ef321487bbaff08d755265",
+    "271e1dc85726eeed44aa39b5ea66ef6b",
+    "2382089533341a8667a6c178f7030dd5",
+    "56284248dd53619f3818d9f34eb7fe5a",
+    "036c47531c4dad6cb75847028cd97b2d"
   ]
 }
