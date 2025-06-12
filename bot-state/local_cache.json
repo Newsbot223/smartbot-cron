@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mindestens-20-tote-bei-israelischen-angriffen-netanjahu-kuendigt-wiederaufnahme-von-hilfslieferungen-100.html",
-    "https://www.deutschlandfunk.de/partei-von-praesident-milei-gewinnt-kommunalwahl-in-buenos-aires-100.html",
-    "https://www.spiegel.de/wirtschaft/eu-kommission-senkt-wachstumsprognose-in-deutschland-a-4c4f9774-cb06-49d6-ac2e-60360bd94aba#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/brandenburg-rene-wilke-soll-laut-berichten-innenminister-werden-110485837.html",
     "https://www.deutschlandfunk.de/spanien-stoppt-mehr-als-65-000-vermietungen-ueber-airbnb-102.html",
     "https://www.spiegel.de/panorama/justiz/beerta-in-den-niederlanden-polizei-sucht-grenzgebiet-zu-deutschland-nach-zwei-kindern-verdacht-der-entfuehrung-a-475c9e3e-1513-4c5b-adfc-41874d97ea82#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spd-chef-klingbeil-gegen-kehrtwende-in-der-ukraine-politik-102.html",
     "https://www.deutschlandfunk.de/oecd-empfiehlt-abschaffung-von-fruehrente-und-ehegattensplitting-100.html",
     "https://www.deutschlandfunk.de/fristverlaengerung-fuer-gesetze-zu-unverheirateten-vaetern-und-zu-befugnissen-des-bka-100.html",
-    "https://www.deutschlandfunk.de/klage-von-bootsfluechtlingen-gegen-italien-abgewiesen-100.html"
+    "https://www.deutschlandfunk.de/klage-von-bootsfluechtlingen-gegen-italien-abgewiesen-100.html",
+    "https://www.deutschlandfunk.de/gesundheitsminister-fordern-hoehere-altersgrenze-100.html",
+    "https://www.deutschlandfunk.de/erneuter-austausch-von-kriegsgefangenen-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/asyl-in-der-eu-seit-assad-sturz-viel-weniger-asylantraege-von-syrern-110532430.html"
   ],
   "content_hashes": [
-    "72145cf984ca98febfd49b30764373d1",
-    "c3d32b05520f09aa525690fc7a8c1a52",
-    "094d48f71da70a64e36634bb0b224109",
     "3d2f9bac4a4df09c44f8d8b2229e828b",
     "9e858615728baffb38804b0e44c77bb0",
     "caa98f8e5eab6712319b13154b631ac7",
@@ -2001,12 +1998,12 @@
     "c7a6fa5d12197d86fa583bac71056184",
     "5b1ad4cd0f962b48b98ffd5588723063",
     "46385cc82f4089299f2554c7d3d0157e",
-    "6e3c03dc7c5cfabd0bef03e1a7a9756a"
+    "6e3c03dc7c5cfabd0bef03e1a7a9756a",
+    "58c3ba6ad06e3c8ee3b9da84329fad95",
+    "8f2f499ce12f14aa47e1a6955086f6b4",
+    "0fe211757c5f8a0ac36c067f343220bd"
   ],
   "titles": [
-    "Gazastreifen - Mindestens 20 Tote bei israelischen Angriffen - Netanjahu kündigt Wiederaufnahme von Hilfslieferungen an",
-    "Argentinien - Partei von Präsident Milei gewinnt Kommunalwahl in Buenos Aires",
-    "EU-Kommission senkt Wachstumsprognose für Deutschland",
     "Berichte: René Wilke soll neuer Innenminister werden",
     "Madrid - Spanien stoppt mehr als 65.000 Vermietungen über Airbnb",
     "Beerta in den Niederlanden: Polizei sucht Grenzgebiet zu Deutschland nach zwei Kindern – Verdacht der Entführung",
@@ -3003,12 +3000,12 @@
     "Nach Manifest von SPD-Politikern - SPD-Chef Klingbeil gegen Kehrtwende in der Ukraine-Politik",
     "Wirtschaft - OECD empfiehlt Abschaffung von Frührente und Ehegattensplitting",
     "Bundesverfassungsgericht - Fristverlängerung für Gesetze zu unverheirateten Vätern und zu Befugnissen des BKA",
-    "EGMR - Klage von Bootsflüchtlingen gegen Italien abgewiesen"
+    "EGMR - Klage von Bootsflüchtlingen gegen Italien abgewiesen",
+    "Alkoholkonsum - Gesundheitsminister fordern höhere Altersgrenze",
+    "Ukraine-Krieg - Erneuter Austausch von Kriegsgefangenen",
+    "EU-Asylstatistik: Viel weniger Syrer beantragen Asyl in der EU"
   ],
   "hashes": [
-    "eb53d8b8f90fdf1986dddd50a6a32d73",
-    "554ceb97fc12f0460da218c2f91f8e55",
-    "5bc2907b5f8641eeac07c15ae123ea38",
     "7fc8145faeaf5444ff88d143f041a87e",
     "5e757f4dce51cbaf54ce896631b47d94",
     "6e45ccae11250357320a783066d8fe66",
@@ -4005,6 +4002,9 @@
     "5f2ade7fb420271f1911e0611d9ddcfb",
     "7055e85a8c204a2fb41dd999162de8f5",
     "094ca6e579e2eba5021955f17d6e1bec",
-    "0abfbb70ec18a4aeb50ad61cfdc63534"
+    "0abfbb70ec18a4aeb50ad61cfdc63534",
+    "7cf043d4a085b9818755a24ebfc071d7",
+    "b6f9ac4503c74182e66adb4146b1b3e0",
+    "52ad5027b694eeb45a6073bdf0ff344e"
   ]
 }
