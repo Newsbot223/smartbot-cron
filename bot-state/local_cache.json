@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/brandenburg-rene-wilke-wird-neuer-innenminister-110485837.html",
-    "https://www.deutschlandfunk.de/ford-in-koeln-einigung-mit-ig-metall-auf-weitere-verhandlungen-102.html",
-    "https://www.deutschlandfunk.de/hoechste-alarmstufe-fuer-indonesischen-vulkan-100.html",
     "https://www.deutschlandfunk.de/prosiebensat-1-uebernimmt-podcast-produktionsfirma-studio-bummens-102.html",
     "https://www.deutschlandfunk.de/palaestinensische-angaben-viele-tote-bei-israelischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-kuendigt-entlastungspaket-bis-mitte-juli-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bildhauerin-hamberg-erhaelt-robert-jacobsen-preis-102.html",
     "https://www.deutschlandfunk.de/cdu-politiker-brand-soll-antiziganismus-beauftragter-werden-100.html",
     "https://www.deutschlandfunk.de/neu-aufgerollter-prozess-gegen-harvey-weinstein-beendet-keine-einigung-bei-drittem-anklagepunkt-100.html",
-    "https://www.deutschlandfunk.de/ehemalige-toennies-gruppe-darf-keine-vion-schlachthoefe-uebernehmen-100.html"
+    "https://www.deutschlandfunk.de/ehemalige-toennies-gruppe-darf-keine-vion-schlachthoefe-uebernehmen-100.html",
+    "https://www.deutschlandfunk.de/mindestens-200-tote-bei-flugzeugunglueck-in-indien-ein-ueberlebender-gefunden-100.html",
+    "https://www.deutschlandfunk.de/trump-nennt-fed-chef-powell-hohlkopf-und-erhoeht-druck-100.html",
+    "https://www.deutschlandfunk.de/trump-kippt-verbrenner-aus-in-kalifornien-100.html"
   ],
   "content_hashes": [
-    "d9f1379a049c5837fdf69277df0efc34",
-    "3384ea816a14e72a89788e3cc4f514f7",
-    "e2a3bf93193c1b49611cba76c934ac12",
     "4d4ee4b3f76e227dca102033ee961716",
     "9ba0571bac87c980f8fa3114232a9c63",
     "156edd4ba4b16de35818a4b133de0231",
@@ -2001,12 +1998,12 @@
     "74af20293f102985565ac2d661129d41",
     "98f385f1ec7077fae14596ed6b062621",
     "6c657d504fee0bedd47604d3a65975a3",
-    "1a1dd583fc705159fd68dca3ba4be436"
+    "1a1dd583fc705159fd68dca3ba4be436",
+    "215e1f00dfb1d9dcbe89b50f5501c74b",
+    "e1fe599f39fce964e60d11d990e0381f",
+    "61fb6ee6ea9a1bdd4849073b06d89853"
   ],
   "titles": [
-    "Brandenburg: René Wilke wird neuer Innenminister",
-    "Automobilwirtschaft - Ford in Köln: Einigung mit IG Metall auf weitere Verhandlungen",
-    "Nach erneutem Ausbruch - Höchste Alarmstufe für indonesischen Vulkan",
     "Medienkonzern - ProSiebenSat.1 übernimmt Podcast-Produktionsfirma Studio Bummens",
     "Nahost - Palästinensische Angaben: Viele Tote bei israelischen Angriffen",
     "Konjunktur - Wirtschaftsministerin Reiche kündigt Entlastungspaket bis Mitte Juli an",
@@ -3003,12 +3000,12 @@
     "Auszeichnung - Bildhauerin Hamberg erhält Robert-Jacobsen-Preis",
     "Bundesregierung - CDU-Politiker Brand soll Antiziganismus-Beauftragter werden",
     "USA - Neu aufgerollter Prozess gegen Harvey Weinstein beendet - keine Einigung bei drittem Anklagepunkt",
-    "Budeskartellamt - Ehemalige Tönnies-Gruppe darf keine Vion-Schlachthöfe übernehmen"
+    "Budeskartellamt - Ehemalige Tönnies-Gruppe darf keine Vion-Schlachthöfe übernehmen",
+    "Flugzeugabsturz - Mindestens 200 Tote bei Flugzeugunglück in Indien - ein Überlebender gefunden",
+    "Vereinigte Staaten - Trump nennt Fed-Chef Powell \"Hohlkopf\" und erhöht Druck",
+    "Vereinigte Staaten - Trump kippt Verbrenner-Aus in Kalifornien"
   ],
   "hashes": [
-    "e756af388c876473762bb69933b39300",
-    "730a98450b47552e017707f5f6c0dede",
-    "2c0d3a569f1ce7657739d6760a7a45ed",
     "49382c7f459a939cc160d20fb103cd93",
     "b29be46850c58ac57c978b80a17b5f16",
     "3d0da8033fe3832e5a775effe818c8b3",
@@ -4005,6 +4002,9 @@
     "d4dba51b53db1a9aa22e80236a46d223",
     "d4fc5ac7643ae51925fc903b1caa74dd",
     "090971b540783b692060f3038827b05c",
-    "06e54983f5fb84d54860dcf5141c8de9"
+    "06e54983f5fb84d54860dcf5141c8de9",
+    "7694ec9b0acd89b79bd053261dad18a2",
+    "67f932a2e6b36822dac807e9dd38c178",
+    "2dc550b4a1736e14f4b817f97279f644"
   ]
 }
