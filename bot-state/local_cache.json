@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sparkassen-plaedieren-fuer-mehr-investitionen-und-zukunftsplan-fuer-deutschland-100.html",
-    "https://www.deutschlandfunk.de/erneut-leichter-anstieg-bei-fleischersatzprodukten-wachstum-verlangsamt-sich-102.html",
     "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bielefeld-tatverdaechtiger-festgenommen-islamistisches-motiv-wird-geprueft-110487347.html",
     "https://www.deutschlandfunk.de/20-prozent-der-beschaeftigten-berichten-von-sexueller-belaestigung-im-arbeitsumfeld-100.html",
     "https://www.faz.net/aktuell/politik/inland/politische-kriminalitaet-steigt-um-40-prozent-110487762.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hilfsorganisationen-kritisieren-kuerzungen-durch-g7-staaten-102.html",
     "https://www.deutschlandfunk.de/kretschmer-und-woidke-bitten-merz-um-ausreichende-foerderung-der-stiftung-fuer-das-sorbische-volk-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-warnt-vor-eskalation-in-nahost-100.html",
-    "https://www.faz.net/aktuell/politik/inland/staatsdienstanwaerter-bayern-will-afd-mitgliedschaft-als-hindernis-werten-110535206.html"
+    "https://www.faz.net/aktuell/politik/inland/staatsdienstanwaerter-bayern-will-afd-mitgliedschaft-als-hindernis-werten-110535206.html",
+    "https://www.deutschlandfunk.de/urteil-gegen-krefelder-serien-brandstifter-haft-und-anschliessende-sicherungsverwahrung-100.html",
+    "https://www.deutschlandfunk.de/eu-verlaengert-schutzstatus-fuer-ukrainische-fluechtlinge-bis-maerz-102.html"
   ],
   "content_hashes": [
-    "691ff3c81aec6403bc899350fd4368b6",
-    "9e743f11d35833ade32810f78ee3a76e",
     "b8b62b2c84d96facaa664cb60f66a2c1",
     "5f1a6e1de948cac2ea5a994543dec0c9",
     "0588422845a02c583de13fa09d6a46bd",
@@ -2001,11 +1999,11 @@
     "5711b10cd295c887f69ee026a6a5d979",
     "3158d4d1e3a5d0b5884bfc7d53627c13",
     "615374a13accda191958830fcae79173",
-    "c857b42f098c13102c69758a06f2eb2c"
+    "c857b42f098c13102c69758a06f2eb2c",
+    "eec0aaeb3b66b9ce9431f5970a874148",
+    "244798000e114845562501baac68e9c1"
   ],
   "titles": [
-    "Standort Deutschland - Sparkassen plädieren für mehr Investitionen und Zukunftsplan für Deutschland",
-    "Vegan oder Vegetarisch - Erneut leichter Anstieg bei Fleischersatzprodukten - Wachstum verlangsamt sich",
     "Angriff auf fünf Menschen in Bielefeld: Tatverdächtiger festgenommen",
     "Umfrage - 20 Prozent der Beschäftigten berichten von sexueller Belästigung im Arbeitsumfeld",
     "Nach Bundestagswahl: Politische Kriminalität steigt um 40 Prozent",
@@ -3003,11 +3001,11 @@
     "Vor Gipfel in Kanada - Hilfsorganisationen kritisieren Kürzungen durch G7-Staaten",
     "Nationale Minderheit - Kretschmer und Woidke bitten Merz um ausreichende Förderung der Stiftung für das sorbische Volk",
     "Israel-Iran-Konflikt - Bundesregierung warnt vor Eskalation in Nahost",
-    "Staatsdienstanwärter: Bayern will AfD-Mitgliedschaft als Hindernis werten"
+    "Staatsdienstanwärter: Bayern will AfD-Mitgliedschaft als Hindernis werten",
+    "Landgericht - Urteil gegen Krefelder Serien-Brandstifter: Haft und anschließende Sicherungsverwahrung",
+    "Luxemburg - EU verlängert Schutzstatus für ukrainische Flüchtlinge bis März 2027"
   ],
   "hashes": [
-    "a0d40ffd375da7b31675c59bcfe98869",
-    "a06b006248828de5814016ea4453a15b",
     "97d976a40295a44df84b0298de410cb5",
     "81e56526a5b8019ebcd47feb442f1752",
     "cf290a7d5acdb6f0df33cc93aac94e93",
@@ -4005,6 +4003,8 @@
     "3e945d64ea464d983860bad1628ca496",
     "ba3c4de6e9eac96ff904d670b60b7420",
     "b4608bcff9d52c4d90c1f7d4e4beed01",
-    "cde889cc7e7808a673a10d6d9407a431"
+    "cde889cc7e7808a673a10d6d9407a431",
+    "14462ad8ab14c5a2e4b377efa77a80ec",
+    "283e259b5bb5c27aa397ecc269c5551b"
   ]
 }
