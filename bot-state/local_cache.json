@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/olaf-lies-zum-neuen-ministerpraesidenten-gewaehlt-102.html",
-    "https://www.deutschlandfunk.de/international-agierende-bande-in-spanien-zerschlagen-100.html",
-    "https://www.deutschlandfunk.de/gedenken-an-1-7-millionen-opfer-der-roten-khmer-102.html",
     "https://www.deutschlandfunk.de/verfassungsgerichtshof-kippt-neues-kommunalwahlgesetz-in-nrw-102.html",
     "https://www.faz.net/aktuell/politik/inland/olaf-lies-in-niedersachsen-zum-ministerpraesidenten-gewaehlt-110488200.html",
     "https://www.faz.net/aktuell/politik/inland/prozess-in-muenchen-ein-kriegsheimkehrer-als-handlanger-in-putins-schattenkrieg-110487740.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zwei-briten-wegen-diebstahls-von-goldener-toilette-zu-haftstrafen-verurteilt-102.html",
     "https://www.deutschlandfunk.de/interview-mit-josef-braml-usa-experte-zur-us-rolle-100.html",
     "https://www.deutschlandfunk.de/40-jahre-schengen-100.html",
-    "https://www.deutschlandfunk.de/klein-sieht-erhoehte-bedrohungslage-fuer-juden-in-deutschland-102.html"
+    "https://www.deutschlandfunk.de/klein-sieht-erhoehte-bedrohungslage-fuer-juden-in-deutschland-102.html",
+    "https://www.deutschlandfunk.de/kloeckner-beklagt-wettlauf-von-afd-und-linken-um-ordnungsrufe-102.html",
+    "https://www.deutschlandfunk.de/rotes-kreuz-fordert-18-milliarden-euro-fuer-soziale-infrastruktur-106.html",
+    "https://www.spiegel.de/politik/deutschland/bundeswehr-jens-spahn-fordert-vorbereitung-fuer-die-rueckkehr-der-wehrpflicht-a-c62f694a-9103-4de8-8930-2f4b79bdb16d#ref=rss"
   ],
   "content_hashes": [
-    "d53ec2b7d3eca2a0bb941da421e5ffce",
-    "6325dfcce247a0638296f1d492ddc759",
-    "5e5d937c39580d0790b48488966732c7",
     "70d57b7937ff491666af39f54377cd9f",
     "2e273865eb85f7cdecfcae998b4fec29",
     "a96c623bb966be165b784788d1ad518f",
@@ -2001,12 +1998,12 @@
     "8101d551b4f63d472cf81c575365c523",
     "854307686dd2f22c7c153f6ddf111b07",
     "aeaba0aaa4b9776a0bfc493382b4be11",
-    "f6815116ac3da2e5a8198a28ae17b6eb"
+    "f6815116ac3da2e5a8198a28ae17b6eb",
+    "5c6ac92323b3129b3766909affdba620",
+    "edf77f4496a5fbee12c4fb7dcb2a75ad",
+    "5f25024f611d12b4a13b6e69fdc9c84b"
   ],
   "titles": [
-    "Niedersachsen - Olaf Lies zum neuen Ministerpräsidenten gewählt",
-    "Müllentsorgung - International agierende Bande in Spanien zerschlagen",
-    "Kambodscha - Gedenken an 1,7 Millionen Opfer der Roten Khmer",
     "Sitzverteilungsberechnung - Verfassungsgerichtshof kippt neues Kommunalwahlgesetz in NRW",
     "Niedersachsen: Olaf Lies zum Ministerpräsidenten gewählt",
     "Prozess in München: Ein Kriegsheimkehrer als Handlanger in Putins Schattenkrieg",
@@ -3003,12 +3000,12 @@
     "Kunstraub - Zwei Briten wegen Diebstahls von goldener Toilette zu Haftstrafen verurteilt",
     "Israel-Iran-Konflikt - US-Experte: Guter Polizist, schlechter Polizist",
     "Europäische Union - 40 Jahre Schengen",
-    "Nahost-Krise - Klein sieht erhöhte Bedrohungslage für Juden in Deutschland"
+    "Nahost-Krise - Klein sieht erhöhte Bedrohungslage für Juden in Deutschland",
+    "Gewachsene Fraktionen - Klöckner beklagt Wettlauf von AfD und Linken um Ordnungsrufe",
+    "Sondervermögen - Rotes Kreuz fordert 18 Milliarden Euro für soziale Infrastruktur",
+    "Bundeswehr: Jens Spahn fordert Vorbereitung für die Rückkehr der Wehrpflicht"
   ],
   "hashes": [
-    "2028b784f364dd98a7c93a0e3ab61b38",
-    "2c19b391131e1c6996226719fe66b971",
-    "cd473e3cc88f5cc41af616a58f71df76",
     "2a1a8945e9506789c5dafb88050d48e0",
     "9e3d7a0553559036a0d81c8cc395f122",
     "b1f4ceb9b6d56f4f8a07de99f51ff6b8",
@@ -4005,6 +4002,9 @@
     "7c61bc15a87902cd55b06166a1c3ae41",
     "c8c28d6ecfcf2a373a495689222b9c00",
     "27ceae0c9902b20ca5039b9c3f022491",
-    "3310a440bd433051209a11755ec97c88"
+    "3310a440bd433051209a11755ec97c88",
+    "f464de696e17f0e3375fc134b4dcc966",
+    "082311053a27da0b6907cf532ea18ff5",
+    "fd0a2f17b4acf6cfac0fd52745f31c63"
   ]
 }
