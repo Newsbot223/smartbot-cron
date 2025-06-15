@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/putin-besucht-region-kursk-nach-rueckeroberung-100.html",
-    "https://www.deutschlandfunk.de/gericht-stoppt-abschiebung-von-migranten-in-den-suedsudan-100.html",
-    "https://www.spiegel.de/politik/eu-staaten-einigen-sich-auf-megadarlehen-fuer-ruestungsbeschaffung-a-286b8370-143b-4fb9-a64c-9260a9f735bc#ref=rss",
     "https://www.spiegel.de/panorama/niederlande-vermisste-kinder-und-vater-tot-in-auto-entdeckt-a-bbdcd35b-44fe-4a5b-b8f2-eeefa5954033#ref=rss",
     "https://www.spiegel.de/panorama/justiz/razzia-wegen-schleuserkriminalitaet-in-mehreren-bundeslaendern-a-9434b78a-ca99-4865-8c77-5ec7bc05211d#ref=rss",
     "https://www.spiegel.de/kultur/musik/elvis-lizzo-und-coldplay-auch-diese-stars-sangen-wie-dua-lipa-schon-auf-deutsch-a-6ee41ee4-3e37-47ae-9073-5442a33f63ad#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-ausweitung-des-konflikts-im-nahen-osten-verhindern-102.html",
     "https://www.faz.net/aktuell/politik/inland/thueringer-linke-ueberrascht-mit-neuer-fuehrung-110538219.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/gruene-in-frankfurt-junge-wilde-moradi-ist-neue-parteisprecherin-110538117.html",
-    "https://www.faz.net/aktuell/politik/inland/veteranentag-zollt-soldaten-anerkennung-110538285.html"
+    "https://www.faz.net/aktuell/politik/inland/veteranentag-zollt-soldaten-anerkennung-110538285.html",
+    "https://www.deutschlandfunk.de/positionspapier-bundesregierung-lehnt-hoehere-zahlungen-an-eu-ab-102.html",
+    "https://www.spiegel.de/politik/pistorius-sieht-bundeswehr-in-der-mitte-der-gesellschaft-a-27b6591a-513a-460c-bb2d-3298d5f6cfb1#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/vermummte-greifen-kundgebung-gegen-rechts-in-brandenburg-an-110538494.html"
   ],
   "content_hashes": [
-    "ab72be1632b8c98305c8fee7db1d05f2",
-    "8fbc34132b075c37717432d039c7d889",
-    "8886bd6a6b0e65fa8dbf32b0bc8f9f4d",
     "41452f9d954ac6124a8fe764b42cb4a6",
     "ab2f803071e25167bf0043ffd816a145",
     "cc3b3c50a8164bff45e870a279ccfce4",
@@ -2001,12 +1998,12 @@
     "7731c75348a2e042692b67067fc1a4f7",
     "cf5dbaa21f921a771613ab59c107f2e5",
     "884fa716b2ef34d8b9843d57146ef23d",
-    "6030e2e1e36503468396894b1f17edb4"
+    "6030e2e1e36503468396894b1f17edb4",
+    "bc8c918eb86397c7746aa20d4f9df08b",
+    "bfb7ddeceac2057be2f4c6b10157b46b",
+    "44b16cd102c713492915d8ddd988ac9d"
   ],
   "titles": [
-    "Ukraine-Krieg - Putin besucht Region Kursk nach Rückeroberung",
-    "USA - Gericht stoppt Abschiebung von Migranten in den Südsudan",
-    "EU-Staaten einigen sich auf Megadarlehen für Rüstungsbeschaffung",
     "Niederlande: Vermisste Kinder und Vater tot in Auto entdeckt",
     "Razzia wegen Schleuserkriminalität in mehreren Bundesländern",
     "Elvis, Lizzo und Coldplay – auch diese Stars sangen wie Dua Lipa schon auf Deutsch",
@@ -3003,12 +3000,12 @@
     "Eskalation zwischen Israel und Iran - Bundeskanzler Merz: \"Ausweitung des Konflikts im Nahen Osten verhindern\"",
     "Vorsitzenden-Wahl: Thüringer Linke überrascht mit neuer Führung",
     "Sieg einer „jungen Wilden“ bei den Vorstandswahlen der Frankfurter Grünen",
-    "Veteranentag: Wie Soldaten Anerkennung gezollt werden soll"
+    "Veteranentag: Wie Soldaten Anerkennung gezollt werden soll",
+    "EU-Finanzen - Positionspapier: Bundesregierung lehnt höhere Zahlungen an EU ab",
+    "Pistorius sieht Bundeswehr »in der Mitte der Gesellschaft«",
+    "Vermummte greifen Kundgebung gegen rechts in Brandenburg an"
   ],
   "hashes": [
-    "ff48ce5bb49b0198a78108ba632d6426",
-    "fafa94cf5d907ef95a7464b9d339bb0e",
-    "0336d2b8b3e34813c75241433dfd9033",
     "5e56889686dca2fe655031a03d649e0f",
     "dbaa5c7fe62cc763e0710738cfd68197",
     "7b58ad89277b3ffcee27c5d9898e2e75",
@@ -4005,6 +4002,9 @@
     "b53c6f93d681c54efb2339ca384bae32",
     "1e6ab376f148c33e0f76b7900abd9046",
     "1f81907ddb4be2d8fdd53932ab3fefc7",
-    "b0589ba877332daa530ed4b13ee652f9"
+    "b0589ba877332daa530ed4b13ee652f9",
+    "85cbcb1841ca48f6624ec90f0c25f57b",
+    "2444cc8ade2ffee65d25c2b5ea5fda83",
+    "9dc44ccad96055b237b370a1ac8fb085"
   ]
 }
