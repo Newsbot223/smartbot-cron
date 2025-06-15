@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gericht-weist-klage-von-fischern-gegen-naturschutzregeln-in-der-nordsee-ab-102.html",
-    "https://www.deutschlandfunk.de/frau-und-kind-sterben-bei-ueberfahrt-im-aermelkanal-100.html",
-    "https://www.deutschlandfunk.de/innenminister-dobrindt-will-bundespolizei-mit-elektroschockern-ausruesten-102.html",
-    "https://www.deutschlandfunk.de/merz-blickt-mit-grosser-sorge-auf-israelische-offensive-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/erste-afd-kandidatin-scheitert-bei-wahl-zum-ausschussvorsitz-100.html",
     "https://www.deutschlandfunk.de/laschet-cdu-zum-vorsitzenden-des-auswaertigen-ausschusses-gewaehlt-esken-sitzt-familienausschuss-vor-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-drei-auslandseinsaetze-verlaengern-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/vermummte-greifen-kundgebung-gegen-rechts-in-brandenburg-an-110538494.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-wir-haben-ein-alkohol-und-tabakproblem-in-deutschland-102.html",
     "https://www.faz.net/aktuell/politik/inland/veteranentag-ueberfaellige-ehrung-von-soldaten-110538011.html",
-    "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-bei-der-deutschen-bahn-100.html"
+    "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-bei-der-deutschen-bahn-100.html",
+    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israels--100.html",
+    "https://www.deutschlandfunk.de/netanjahu-meldet-toetung-von-iranischem-geheimdienstchef-kasemi-100.html",
+    "https://www.deutschlandfunk.de/wieder-protestaktionen-gegen-massentourismus-in-suedeuropa-kundgebugen-und-spanien-italien-oder-port-100.html",
+    "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-mehr-bei-der-deutschen-bahn-100.html"
   ],
   "content_hashes": [
-    "6e5ffee8b546f70e05e3c42147273c60",
-    "fe8843a3eb6d137dd063339af8068406",
-    "742abdb19fd68d46d7add1922e59008d",
-    "bce6a45219ec97e50eae42b9a370ec33",
     "e14ef16c6e30dc1602b116c067a54119",
     "01ee5a9200f3a645349f7f9a194808b3",
     "0ee052b5592a73dfd8d1e2eee74b0428",
@@ -2001,13 +1997,13 @@
     "44b16cd102c713492915d8ddd988ac9d",
     "a727161b5fe1ff520570b5be33e11fc2",
     "74dac81c0d2cc79b92e826781135188e",
-    "27d4835e7ad42d6fafff65d3df2b1fc6"
+    "27d4835e7ad42d6fafff65d3df2b1fc6",
+    "e25604533df4b646f3323015b5007a97",
+    "65214ab9c1383973de0cfc7eb2821f11",
+    "de22859b26c34360974fb17a50607b68",
+    "655796329d79a7338826ca74e8de6005"
   ],
   "titles": [
-    "EU-Fischereirecht - Gericht weist Klage von Fischern gegen Naturschutzregeln in der Nordsee ab",
-    "Migration - Frau und Kind sterben bei Überfahrt im Ärmelkanal",
-    "Befragung im Bundestag - Innenminister Dobrindt will Bundespolizei mit Elektroschockern ausrüsten",
-    "Nahost - Merz blickt \"mit großer Sorge\" auf israelische Offensive im Gazastreifen",
     "Bundestag - Erste AfD-Kandidatin scheitert bei Wahl zum Ausschussvorsitz",
     "Bundestag - Laschet (CDU) zum Vorsitzenden des Auswärtigen Ausschusses gewählt - Esken sitzt Familienausschuss vor",
     "Bundeswehr - Bundesregierung will drei Auslandseinsätze verlängern",
@@ -3003,13 +2999,13 @@
     "Vermummte greifen Kundgebung gegen rechts in Brandenburg an",
     "Drogenbeauftragter Streeck: \"Wir haben ein Alkohol- und Tabakproblem in Deutschland\"",
     "Nationaler Veteranentag: Überfällige Ehrung von Bundeswehrsoldaten",
-    "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen bei der Deutschen Bahn"
+    "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen bei der Deutschen Bahn",
+    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israels Regierung in Den Haag",
+    "Nahost - Netanjahu meldet Tötung von iranischem Geheimdienstchef Kasemi",
+    "Urlaub - Wieder Protestaktionen gegen Massentourismus in Südeuropa - Kundgebugen und Spanien, Italien oder Portugal",
+    "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen mehr bei der Deutschen Bahn"
   ],
   "hashes": [
-    "d57b9f67bd3d382e000b704884d7da6e",
-    "069368d154233c9f763f3fdcc5eff897",
-    "6ec616022755dde98565c4aba955a9e5",
-    "00866bce4fe9ae3355d6c41c2c33ef31",
     "a4e84f5f3f20cf97b535ca36b43e2480",
     "70b8e4d98408c6a9fb8d74fbe444afa4",
     "79f7531e1123b5d3fd897ee3bd4ed4c7",
@@ -4005,6 +4001,10 @@
     "9dc44ccad96055b237b370a1ac8fb085",
     "118a8f6946364e9138fe667435f9fdd8",
     "c12b1fdc35eb07793af08976c4b10042",
-    "f97341bb49d52c28b800ed27c55d953f"
+    "f97341bb49d52c28b800ed27c55d953f",
+    "d2bcdbafc8eefa41402f7cdc9dbb1ddc",
+    "d710b3c31e90fe8e299a76643327672b",
+    "db68e47510136d447a130cb0cf127168",
+    "d2cbfaac4fef04e1a409bb6e665bfa6f"
   ]
 }
