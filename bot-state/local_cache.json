@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-wegen-us-zollpolitik-fuer-2025-stagnation-der-deutschen-wirtschaft-100.html",
-    "https://www.deutschlandfunk.de/attentat-auf-ex-berater-des-frueheren-ukrainischen-praesidenten-janukowitsch-100.html",
-    "https://www.deutschlandfunk.de/festnahmen-nach-razzia-gegen-die-ndrangheta-102.html",
     "https://www.faz.net/aktuell/politik/inland/deutsche-marine-was-wenn-abschreckung-nicht-reicht-110488368.html",
     "https://www.deutschlandfunk.de/mehrere-afd-kandidaten-scheitern-bei-wahl-zum-ausschussvorsitz-100.html",
     "https://www.deutschlandfunk.de/untersuchung-zu-predigten-in-deutschen-moscheen-findet-keine-hass-inhalte-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spahn-wehrt-sich-gegen-masken-vorwuerfe-waehrend-der-pandemie-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israel-i-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/vermummte-greifen-familienfest-gegen-rechts-an-innenminister-wilke-verurteilt-gewalt-100.html"
+    "https://www.deutschlandfunk.de/vermummte-greifen-familienfest-gegen-rechts-an-innenminister-wilke-verurteilt-gewalt-100.html",
+    "https://www.deutschlandfunk.de/macron-und-frederiksen-beschwoeren-groenlands-souveraenitaet-100.html",
+    "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-sofort-keine-familienreservierungen-bei-der-deutschen-bahn-100.html",
+    "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistliches-chamenei-ab-102.html"
   ],
   "content_hashes": [
-    "871521f5995a8ce3dd6cbabe0426bfbf",
-    "03026c8782193711f295445a1d1e2446",
-    "66e822341f07a93b454a28033c31d2a6",
     "1ab53d21ffc78b44cc17ed13b06946ec",
     "f1ee2b6c3c7f1b234bb03d422ae7399f",
     "d42bc5247af079d376c2f2fd12c3ba7b",
@@ -2001,12 +1998,12 @@
     "291647ce9bcc9ddf3bcf095a8ff03a23",
     "74362b3fcc5209867cb28c3c11e15c19",
     "8058645513ee40b88cf064ff78770285",
-    "fdb55ea7fc2345e7e2809cee968e9bf2"
+    "fdb55ea7fc2345e7e2809cee968e9bf2",
+    "65d7ae98ab14fa6b39efb9cd52d8aec4",
+    "228bec1637fbe90d67a6bc1fd5ab02c7",
+    "a68567df70022447b6ec06267286adf9"
   ],
   "titles": [
-    "Konjunkturprognose - \"Wirtschaftsweise\" erwarten wegen US-Zollpolitik für 2025 Stagnation der deutschen Wirtschaft",
-    "Madrid - Attentat auf Ex-Berater des früheren ukrainischen Präsidenten Janukowitsch",
-    "Organisierte Kriminalität - Festnahmen nach Razzia gegen die 'Ndrangheta",
     "Deutsche Marine: Was, wenn Abschreckung nicht reicht?",
     "Bundestag - Mehrere AfD-Kandidaten scheitern bei Wahl zum Ausschussvorsitz",
     "Islam - Untersuchung zu Predigten in deutschen Moscheen findet keine Hass-Inhalte",
@@ -3003,12 +3000,12 @@
     "Corona-Pandemie - Spahn wehrt sich gegen Masken-Vorwürfe während der Pandemie",
     "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israel in Den Haag",
     "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen",
-    "Brandenburg - Vermummte greifen Familienfest gegen Rechts an - Innenminister Wilke verurteilt Gewalt"
+    "Brandenburg - Vermummte greifen Familienfest gegen Rechts an - Innenminister Wilke verurteilt Gewalt",
+    "Nach US-Vorstoß - Macron und Frederiksen beschwören Grönlands Souveränität",
+    "Verkehr - Trotz empörter Reaktionen - ab sofort keine Familienreservierungen bei der Deutschen Bahn",
+    "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistliches Chamenei ab"
   ],
   "hashes": [
-    "d22569377f073f40684d24705ec86d7e",
-    "b862946db4248330bd77ce507c3ed380",
-    "902b1b3b778ea98aee0c5f6ffce28d77",
     "197d9f9b5547007c6ac84f81ecc12c67",
     "10945284d196510ec5b9b0442cf88a12",
     "5e042d0948a17756fa5c984b56cd55e8",
@@ -4005,6 +4002,9 @@
     "ddb6a6b7786a81ee7a13231d8942b4c9",
     "002d841fb3f454cb76ff59c841b83083",
     "ead18164cb574813604f64c61d4865aa",
-    "741f2bcf691c00e4356206d79c4e7ec8"
+    "741f2bcf691c00e4356206d79c4e7ec8",
+    "2844e631a97eebefdfc9d2f2148be13d",
+    "eae5d52b52b4109dbf22de004c5911f1",
+    "7c2adc6fd2920da4188fde6fb1e199dd"
   ]
 }
