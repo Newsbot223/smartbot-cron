@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/razzien-wegen-schleuserkriminalitaet-in-mehreren-bundeslaendern-110490035.html",
-    "https://www.deutschlandfunk.de/bauindustrie-spricht-von-systemversagen-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/direktverbindungen-zwischen-deutschland-und-italien-sollen-ausgebaut-werden-100.html",
     "https://www.deutschlandfunk.de/putin-besucht-region-kursk-nach-rueckeroberung-100.html",
     "https://www.deutschlandfunk.de/gericht-stoppt-abschiebung-von-migranten-in-den-suedsudan-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ein-toter-und-zahlreiche-verletzte-beim-absturz-zweier-heissluftballons-102.html",
     "https://www.deutschlandfunk.de/scheidender-bpb-chef-krueger-wirbt-fuer-mehr-verstaendnis-fuer-ostdeutsche-besonderheiten-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-bundeswehr-als-festen-bestandteil-der-gesellschaft-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-ausweitung-des-konflikts-im-nahen-osten-verhindern-102.html"
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-ausweitung-des-konflikts-im-nahen-osten-verhindern-102.html",
+    "https://www.faz.net/aktuell/politik/inland/thueringer-linke-ueberrascht-mit-neuer-fuehrung-110538219.html",
+    "https://www.faz.net/aktuell/rhein-main/frankfurt/gruene-in-frankfurt-junge-wilde-moradi-ist-neue-parteisprecherin-110538117.html"
   ],
   "content_hashes": [
-    "42ca9a9b15747d4686ba201a86fee926",
-    "b03ba8f376afd53b392a3c46382b728d",
     "f9e9e087b52c2fd47c57d2d5d8b41d6b",
     "ab72be1632b8c98305c8fee7db1d05f2",
     "8fbc34132b075c37717432d039c7d889",
@@ -2001,11 +1999,11 @@
     "7dbbf875af7688c03719a6ae8b0fe434",
     "125c990845209bf9ea63567c990d63b3",
     "7332e31e62c2476bcb85bfa9bf906cab",
-    "7731c75348a2e042692b67067fc1a4f7"
+    "7731c75348a2e042692b67067fc1a4f7",
+    "cf5dbaa21f921a771613ab59c107f2e5",
+    "884fa716b2ef34d8b9843d57146ef23d"
   ],
   "titles": [
-    "Razzien wegen Schleuserkriminalität in mehreren Bundesländern",
-    "Wohnungsbau - Bauindustrie spricht von \"Systemversagen\" in Deutschland",
     "Fernzüge - Direktverbindungen zwischen Deutschland und Italien sollen ausgebaut werden",
     "Ukraine-Krieg - Putin besucht Region Kursk nach Rückeroberung",
     "USA - Gericht stoppt Abschiebung von Migranten in den Südsudan",
@@ -3003,11 +3001,11 @@
     "Türkei - Ein Toter und zahlreiche Verletzte beim Absturz zweier Heißluftballons",
     "Bundeszentrale für politische Bildung - Scheidender bpb-Chef Krüger wirbt für mehr Verständnis für ostdeutsche Besonderheiten",
     "Nationaler Veteranentag - Bundeskanzler Merz würdigt Bundeswehr als \"festen Bestandteil der Gesellschaft\"",
-    "Eskalation zwischen Israel und Iran - Bundeskanzler Merz: \"Ausweitung des Konflikts im Nahen Osten verhindern\""
+    "Eskalation zwischen Israel und Iran - Bundeskanzler Merz: \"Ausweitung des Konflikts im Nahen Osten verhindern\"",
+    "Vorsitzenden-Wahl: Thüringer Linke überrascht mit neuer Führung",
+    "Sieg einer „jungen Wilden“ bei den Vorstandswahlen der Frankfurter Grünen"
   ],
   "hashes": [
-    "f3f9ad7d9496d07af4773e5b42b2a050",
-    "93dc7f65ef9d58d8a6ab5adc03be5f2e",
     "d34f1d18fd8f917854dff9d0835f6684",
     "ff48ce5bb49b0198a78108ba632d6426",
     "fafa94cf5d907ef95a7464b9d339bb0e",
@@ -4005,6 +4003,8 @@
     "e8f5b378215b0fbbbf0083ac6e27bad2",
     "ba21b17f5378cabc19cadd59ca0c3106",
     "cd0c8a64a0283ac3e3a8583ddfaa685d",
-    "b53c6f93d681c54efb2339ca384bae32"
+    "b53c6f93d681c54efb2339ca384bae32",
+    "1e6ab376f148c33e0f76b7900abd9046",
+    "1f81907ddb4be2d8fdd53932ab3fefc7"
   ]
 }
