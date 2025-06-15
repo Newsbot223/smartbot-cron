@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tschechien-verbietet-fotografieren-oder-filmen-militaerischer-anlagen-100.html",
-    "https://www.deutschlandfunk.de/deutschpalaestinenser-und-ihre-familien-afd-fordert-sofortigen-stopp-des-einfliegens-von-menschen-au-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-wegen-us-zollpolitik-fuer-2025-stagnation-der-deutschen-wirtschaft-100.html",
     "https://www.deutschlandfunk.de/attentat-auf-ex-berater-des-frueheren-ukrainischen-praesidenten-janukowitsch-100.html",
     "https://www.deutschlandfunk.de/festnahmen-nach-razzia-gegen-die-ndrangheta-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-mehr-bei-der-deutschen-bahn-100.html",
     "https://www.deutschlandfunk.de/wieder-kundgebungen-gegen-massentourismus-kundgebungen-und-spanien-italien-und-portugal-100.html",
     "https://www.deutschlandfunk.de/spahn-wehrt-sich-gegen-masken-vorwuerfe-waehrend-der-pandemie-100.html",
-    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israel-i-100.html"
+    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israel-i-100.html",
+    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-100.html",
+    "https://www.deutschlandfunk.de/vermummte-greifen-familienfest-gegen-rechts-an-innenminister-wilke-verurteilt-gewalt-100.html"
   ],
   "content_hashes": [
-    "5227377d089f6f1a7f3846db869a1c85",
-    "b471679b0c7c226a2e446adf673a9d1d",
     "871521f5995a8ce3dd6cbabe0426bfbf",
     "03026c8782193711f295445a1d1e2446",
     "66e822341f07a93b454a28033c31d2a6",
@@ -2001,11 +1999,11 @@
     "655796329d79a7338826ca74e8de6005",
     "084f3643ef31752516cf0c1482409842",
     "291647ce9bcc9ddf3bcf095a8ff03a23",
-    "74362b3fcc5209867cb28c3c11e15c19"
+    "74362b3fcc5209867cb28c3c11e15c19",
+    "8058645513ee40b88cf064ff78770285",
+    "fdb55ea7fc2345e7e2809cee968e9bf2"
   ],
   "titles": [
-    "Maßnahme gegen Spionage - Tschechien verbietet Fotografieren oder Filmen militärischer Anlagen",
-    "Nahostkrieg - Deutschpalästinenser und ihre Familien - AfD fordert sofortigen Stopp des Einfliegens von Menschen aus dem Gazastreifen nach Deutschland",
     "Konjunkturprognose - \"Wirtschaftsweise\" erwarten wegen US-Zollpolitik für 2025 Stagnation der deutschen Wirtschaft",
     "Madrid - Attentat auf Ex-Berater des früheren ukrainischen Präsidenten Janukowitsch",
     "Organisierte Kriminalität - Festnahmen nach Razzia gegen die 'Ndrangheta",
@@ -3003,11 +3001,11 @@
     "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen mehr bei der Deutschen Bahn",
     "Südeuropa - Wieder Kundgebungen gegen Massentourismus - Kundgebungen und Spanien, Italien und Portugal",
     "Corona-Pandemie - Spahn wehrt sich gegen Masken-Vorwürfe während der Pandemie",
-    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israel in Den Haag"
+    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israel in Den Haag",
+    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen",
+    "Brandenburg - Vermummte greifen Familienfest gegen Rechts an - Innenminister Wilke verurteilt Gewalt"
   ],
   "hashes": [
-    "d53dab17d7043826981b74844f0ee061",
-    "7a301bdf7a9cd464a0c86faed8a74e7d",
     "d22569377f073f40684d24705ec86d7e",
     "b862946db4248330bd77ce507c3ed380",
     "902b1b3b778ea98aee0c5f6ffce28d77",
@@ -4005,6 +4003,8 @@
     "d2cbfaac4fef04e1a409bb6e665bfa6f",
     "8d5679a583137e4c9b50c95607f3afaa",
     "ddb6a6b7786a81ee7a13231d8942b4c9",
-    "002d841fb3f454cb76ff59c841b83083"
+    "002d841fb3f454cb76ff59c841b83083",
+    "ead18164cb574813604f64c61d4865aa",
+    "741f2bcf691c00e4356206d79c4e7ec8"
   ]
 }
