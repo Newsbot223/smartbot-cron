@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutsche-marine-was-wenn-abschreckung-nicht-reicht-110488368.html",
-    "https://www.deutschlandfunk.de/mehrere-afd-kandidaten-scheitern-bei-wahl-zum-ausschussvorsitz-100.html",
     "https://www.deutschlandfunk.de/untersuchung-zu-predigten-in-deutschen-moscheen-findet-keine-hass-inhalte-102.html",
     "https://www.deutschlandfunk.de/israel-raeumt-warnschuesse-auf-eu-delegation-im-westjordanland-ein-100.html",
     "https://www.deutschlandfunk.de/russland-meldet-massiven-ukrainischen-drohnenangriff-moskauer-flughaefen-stellen-zweitweise-betrieb--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/vermummte-greifen-familienfest-gegen-rechts-an-innenminister-wilke-verurteilt-gewalt-100.html",
     "https://www.deutschlandfunk.de/macron-und-frederiksen-beschwoeren-groenlands-souveraenitaet-100.html",
     "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-sofort-keine-familienreservierungen-bei-der-deutschen-bahn-100.html",
-    "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistliches-chamenei-ab-102.html"
+    "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistliches-chamenei-ab-102.html",
+    "https://www.deutschlandfunk.de/selenskyj-fordert-vor-g7-gipfel-mehr-druck-auf-russland-100.html",
+    "https://www.deutschlandfunk.de/flugzeugabsturz-in-indien-zweiter-flugschreiber-geborgen-100.html"
   ],
   "content_hashes": [
-    "1ab53d21ffc78b44cc17ed13b06946ec",
-    "f1ee2b6c3c7f1b234bb03d422ae7399f",
     "d42bc5247af079d376c2f2fd12c3ba7b",
     "020d07e8e2df16f1bec40d200e5c8cc1",
     "7de24e0f90d778132e79a1b6403aa92c",
@@ -2001,11 +1999,11 @@
     "fdb55ea7fc2345e7e2809cee968e9bf2",
     "65d7ae98ab14fa6b39efb9cd52d8aec4",
     "228bec1637fbe90d67a6bc1fd5ab02c7",
-    "a68567df70022447b6ec06267286adf9"
+    "a68567df70022447b6ec06267286adf9",
+    "694736c46325e5f9e78286c6a1c840f5",
+    "5086ff2717362346c1eb5d372af011a7"
   ],
   "titles": [
-    "Deutsche Marine: Was, wenn Abschreckung nicht reicht?",
-    "Bundestag - Mehrere AfD-Kandidaten scheitern bei Wahl zum Ausschussvorsitz",
     "Islam - Untersuchung zu Predigten in deutschen Moscheen findet keine Hass-Inhalte",
     "Nahost - Israel räumt Warnschüsse auf EU-Delegation im Westjordanland ein",
     "Ukraine-Krieg - Russland meldet massiven ukrainischen Drohnenangriff - Moskauer Flughäfen stellen zweitweise Betrieb ein",
@@ -3003,11 +3001,11 @@
     "Brandenburg - Vermummte greifen Familienfest gegen Rechts an - Innenminister Wilke verurteilt Gewalt",
     "Nach US-Vorstoß - Macron und Frederiksen beschwören Grönlands Souveränität",
     "Verkehr - Trotz empörter Reaktionen - ab sofort keine Familienreservierungen bei der Deutschen Bahn",
-    "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistliches Chamenei ab"
+    "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistliches Chamenei ab",
+    "Vor dem Treffen in Kanada - Selenskyj fordert vor G7-Gipfel mehr Druck auf Russland",
+    "Air-India-Maschine - Flugzeugabsturz in Indien: zweiter Flugschreiber geborgen"
   ],
   "hashes": [
-    "197d9f9b5547007c6ac84f81ecc12c67",
-    "10945284d196510ec5b9b0442cf88a12",
     "5e042d0948a17756fa5c984b56cd55e8",
     "1c9d3a5a392323421f61e75c70bcf55f",
     "6038ba2645d6a759c7fc3da1e8bbb120",
@@ -4005,6 +4003,8 @@
     "741f2bcf691c00e4356206d79c4e7ec8",
     "2844e631a97eebefdfc9d2f2148be13d",
     "eae5d52b52b4109dbf22de004c5911f1",
-    "7c2adc6fd2920da4188fde6fb1e199dd"
+    "7c2adc6fd2920da4188fde6fb1e199dd",
+    "35bf9e020b55e21b52c28636a981e18b",
+    "a0cdaa9fbf39c6f1b68acd67654a1e81"
   ]
 }
