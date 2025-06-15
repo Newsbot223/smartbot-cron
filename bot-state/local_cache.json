@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/laschet-cdu-zum-vorsitzenden-des-auswaertigen-ausschusses-gewaehlt-esken-sitzt-familienausschuss-vor-102.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-drei-auslandseinsaetze-verlaengern-100.html",
     "https://www.deutschlandfunk.de/tschechien-verbietet-fotografieren-oder-filmen-militaerischer-anlagen-100.html",
     "https://www.deutschlandfunk.de/deutschpalaestinenser-und-ihre-familien-afd-fordert-sofortigen-stopp-des-einfliegens-von-menschen-au-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-wegen-us-zollpolitik-fuer-2025-stagnation-der-deutschen-wirtschaft-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/netanjahu-meldet-toetung-von-iranischem-geheimdienstchef-kasemi-100.html",
     "https://www.deutschlandfunk.de/wieder-protestaktionen-gegen-massentourismus-in-suedeuropa-kundgebugen-und-spanien-italien-oder-port-100.html",
     "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-mehr-bei-der-deutschen-bahn-100.html",
-    "https://www.deutschlandfunk.de/wieder-kundgebungen-gegen-massentourismus-kundgebungen-und-spanien-italien-und-portugal-100.html"
+    "https://www.deutschlandfunk.de/wieder-kundgebungen-gegen-massentourismus-kundgebungen-und-spanien-italien-und-portugal-100.html",
+    "https://www.deutschlandfunk.de/spahn-wehrt-sich-gegen-masken-vorwuerfe-waehrend-der-pandemie-100.html",
+    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israel-i-100.html"
   ],
   "content_hashes": [
-    "01ee5a9200f3a645349f7f9a194808b3",
-    "0ee052b5592a73dfd8d1e2eee74b0428",
     "5227377d089f6f1a7f3846db869a1c85",
     "b471679b0c7c226a2e446adf673a9d1d",
     "871521f5995a8ce3dd6cbabe0426bfbf",
@@ -2001,11 +1999,11 @@
     "65214ab9c1383973de0cfc7eb2821f11",
     "de22859b26c34360974fb17a50607b68",
     "655796329d79a7338826ca74e8de6005",
-    "084f3643ef31752516cf0c1482409842"
+    "084f3643ef31752516cf0c1482409842",
+    "291647ce9bcc9ddf3bcf095a8ff03a23",
+    "74362b3fcc5209867cb28c3c11e15c19"
   ],
   "titles": [
-    "Bundestag - Laschet (CDU) zum Vorsitzenden des Auswärtigen Ausschusses gewählt - Esken sitzt Familienausschuss vor",
-    "Bundeswehr - Bundesregierung will drei Auslandseinsätze verlängern",
     "Maßnahme gegen Spionage - Tschechien verbietet Fotografieren oder Filmen militärischer Anlagen",
     "Nahostkrieg - Deutschpalästinenser und ihre Familien - AfD fordert sofortigen Stopp des Einfliegens von Menschen aus dem Gazastreifen nach Deutschland",
     "Konjunkturprognose - \"Wirtschaftsweise\" erwarten wegen US-Zollpolitik für 2025 Stagnation der deutschen Wirtschaft",
@@ -3003,11 +3001,11 @@
     "Nahost - Netanjahu meldet Tötung von iranischem Geheimdienstchef Kasemi",
     "Urlaub - Wieder Protestaktionen gegen Massentourismus in Südeuropa - Kundgebugen und Spanien, Italien oder Portugal",
     "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen mehr bei der Deutschen Bahn",
-    "Südeuropa - Wieder Kundgebungen gegen Massentourismus - Kundgebungen und Spanien, Italien und Portugal"
+    "Südeuropa - Wieder Kundgebungen gegen Massentourismus - Kundgebungen und Spanien, Italien und Portugal",
+    "Corona-Pandemie - Spahn wehrt sich gegen Masken-Vorwürfe während der Pandemie",
+    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israel in Den Haag"
   ],
   "hashes": [
-    "70b8e4d98408c6a9fb8d74fbe444afa4",
-    "79f7531e1123b5d3fd897ee3bd4ed4c7",
     "d53dab17d7043826981b74844f0ee061",
     "7a301bdf7a9cd464a0c86faed8a74e7d",
     "d22569377f073f40684d24705ec86d7e",
@@ -4005,6 +4003,8 @@
     "d710b3c31e90fe8e299a76643327672b",
     "db68e47510136d447a130cb0cf127168",
     "d2cbfaac4fef04e1a409bb6e665bfa6f",
-    "8d5679a583137e4c9b50c95607f3afaa"
+    "8d5679a583137e4c9b50c95607f3afaa",
+    "ddb6a6b7786a81ee7a13231d8942b4c9",
+    "002d841fb3f454cb76ff59c841b83083"
   ]
 }
