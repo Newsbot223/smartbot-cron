@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-konfrontiert-ramaphosa-mit-angeblichem-massenmord-an-weissen-in-suedafrika-100.html",
-    "https://www.deutschlandfunk.de/italien-spanien-und-frankreich-berufen-israelischen-botschafter-ein-wadephul-telefoniert-mit-israeli-100.html",
-    "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-erschuettert-kreta-und-santorin-100.html",
     "https://www.deutschlandfunk.de/bundeswehr-stellt-panzerbrigade-in-dienst-kanzler-merz-und-verteidigungsminister-pistorius-reisen-na-102.html",
     "https://www.deutschlandfunk.de/g7-finanzministerkonferenz-in-banff-geht-in-ihren-letzten-tag-100.html",
     "https://www.deutschlandfunk.de/klingbeil-sieht-positive-signale-im-zollstreit-mit-den-usa-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/syrischer-arzt-verurteilt-die-nebenklaeger-bekommen-was-sie-sich-gewuenscht-haben-110539880.html",
     "https://www.deutschlandfunk.de/spd-fuer-gemeinsames-bund-laender-vorgehen-102.html",
     "https://www.faz.net/aktuell/politik/inland/syrischer-arzt-verurteilt-kein-folterer-kann-sich-seiner-straflosigkeit-gewiss-sein-110539880.html",
-    "https://www.spiegel.de/panorama/israel-iran-konflikt-so-reagieren-die-bundeslaender-auf-die-eskalation-in-nahost-a-ea152713-c9fd-4f13-9b84-478b409264a3#ref=rss"
+    "https://www.spiegel.de/panorama/israel-iran-konflikt-so-reagieren-die-bundeslaender-auf-die-eskalation-in-nahost-a-ea152713-c9fd-4f13-9b84-478b409264a3#ref=rss",
+    "https://www.deutschlandfunk.de/fluechtlingshilfswerk-unhcr-streicht-3-500-stellen-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-100-000-menschen-bei-sammelklage-gegen-vodafone-100.html",
+    "https://www.deutschlandfunk.de/bildungsministerium-verbietet-handys-auch-in-oberen-klassen-102.html"
   ],
   "content_hashes": [
-    "2656a10edff4289f9a79d9456aec1900",
-    "7374f263f069ab4dcd980e94cec7d406",
-    "58c364366e66094db4250eca0380ac0f",
     "0e8920abeffda39cbf3be3116c4a8b51",
     "4c3339d18cf69eafc8438822b0e48a5f",
     "12b7383fd21091cf355b5be0c06e451e",
@@ -2001,12 +1998,12 @@
     "4398a33fd6c9c6a42b8a5ebed0c7899d",
     "b01091d014c8d1b0af051cb0ca1fc35e",
     "f502979c9a17208e50c0bf5e6480cc1c",
-    "18922c85b26b446f6fd048368b5bd918"
+    "18922c85b26b446f6fd048368b5bd918",
+    "ec7f7f074f3014cd253f416d151ce631",
+    "4c957bf5126b95060df93a82a6317d78",
+    "fe1aa2e937591222d0bb78ad3343f96a"
   ],
   "titles": [
-    "Treffen im Weißen Haus - Trump konfrontiert Ramaphosa mit angeblichem Massenmord an Weißen in Südafrika",
-    "Nach Warnschüssen auf Diplomaten - Italien, Spanien und Frankreich berufen israelischen Botschafter ein - Wadephul telefoniert mit israelischem Amtskollegen",
-    "Griechenland - Erdbeben der Stärke 6,1 erschüttert Kreta und Santorin",
     "Litauen-Brigade - Bundeswehr stellt Panzerbrigade in Dienst - Kanzler Merz und Verteidigungsminister Pistorius reisen nach Vilnius",
     "G7-Treffen - Finanzminister Klingbeil hat sein Debüt in Kanada",
     "G7-Treffen - Klingbeil sieht positive Signale im Zollstreit mit den USA",
@@ -3003,12 +3000,12 @@
     "Syrischer Arzt verurteilt: Die Nebenkläger bekommen, was sie sich gewünscht haben",
     "AfD-Verbotsverfahren - SPD für gemeinsames Bund-Länder-Vorgehen",
     "Syrischer Arzt verurteilt: „Kein Folterer kann sich seiner Straflosigkeit gewiss sein“",
-    "Israel-Iran-Konflikt: So reagieren die Bundesländer auf die Eskalation in Nahost"
+    "Israel-Iran-Konflikt: So reagieren die Bundesländer auf die Eskalation in Nahost",
+    "UNO - Flüchtlingshilfswerk UNHCR streicht 3.500 Stellen",
+    "Preiserhöhung - Mehr als 100.000 Menschen bei Sammelklage gegen Vodafone",
+    "Italien - Bildungsministerium verbietet Handys auch in oberen Klassen"
   ],
   "hashes": [
-    "8f8d47440b4c716ad45b5793722ce199",
-    "a4fccd9f0faa9906bd9b34d155dca3e6",
-    "78f5512e29eb9dc78b30e232474d4b61",
     "ffaeac19a6dae4bb7e81d2319fd28282",
     "7936765c79c9b55f8d58a8d4a3dbc6c0",
     "44ee3754c51e115b73e131a78f56e777",
@@ -4005,6 +4002,9 @@
     "533fa1171958e309cdc8bd4b7b2a9fc4",
     "38c1e72255cdb076e50ad411aeb8646e",
     "96c9dfc9d865e8c047d0a94627d6ffb8",
-    "42cee36a46cef61e42a20673c6ddb6ba"
+    "42cee36a46cef61e42a20673c6ddb6ba",
+    "b5c6023029e9971a7965e9eef8d76092",
+    "6f8f058ee8b9536f9af6384f02514e2c",
+    "4b462df1b0d73b45bd19feff53870649"
   ]
 }
