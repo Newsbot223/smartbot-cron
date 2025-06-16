@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wahlen-der-ausschussvorsitzenden-afd-geht-mehrfach-leer-aus-110491106.html",
-    "https://www.faz.net/aktuell/politik/inland/reserveoffizier-henning-otte-zum-neuen-wehrbeauftragten-gewaehlt-110491007.html",
     "https://www.deutschlandfunk.de/usa-nehmen-von-katar-geschenktes-flugzeug-offiziell-an-100.html",
     "https://www.deutschlandfunk.de/kommentar-zu-rechtsextremen-jugendlichen-kommen-nicht-aus-dem-nichts-100.html",
     "https://www.deutschlandfunk.de/forum-journalismuskritik-sind-medien-gegen-populisten-wehrlos-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sachsen-anhalts-infrastrukturministerin-hueskens-fordert-klare-finanzierung-fuer-deutschlandticket-100.html",
     "https://www.deutschlandfunk.de/washington-post-von-hackerangriff-betroffen-100.html",
     "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistlichem-oberhaupt-chamenei-ab-100.html",
-    "https://www.deutschlandfunk.de/iran-meldet-hinrichtung-eines-israelischen-agenten-100.html"
+    "https://www.deutschlandfunk.de/iran-meldet-hinrichtung-eines-israelischen-agenten-100.html",
+    "https://www.deutschlandfunk.de/faelle-von-kirchenasyl-haben-laut-medienbericht-zugenommen-100.html",
+    "https://www.spiegel.de/wirtschaft/nahost-krieg-bundesbankchef-joachim-nagel-warnt-vor-folgen-fuer-deutsche-wirtschaft-a-b1c0aa6a-bdfb-40c0-ac98-f48d78436f8f#ref=rss"
   ],
   "content_hashes": [
-    "64145af0c7d854c65cf23c4869540fa1",
-    "f34e07c57fea21e81df88789016ab7a4",
     "f254842e71867bf8f09512ac8d17d096",
     "333fc70671a01a6aad3eb7a05ec8757a",
     "a26b80ec14408e310e3944f7db47f215",
@@ -2001,11 +1999,11 @@
     "3124ed26825b5714b8ed4e1943ffbd2b",
     "ca5dd4602d4592727f7fb94a631374a7",
     "8acc0cb0ff52cb4d3b2f700c6f52f50a",
-    "c266ddce16595f6107df29eec9e6b2d9"
+    "c266ddce16595f6107df29eec9e6b2d9",
+    "1a0507c25eebf63280ce72b8a56fe6e5",
+    "ca2ed60ba7d290cc9a167fc4869d8b55"
   ],
   "titles": [
-    "Wieder keine Posten: Die AfD sieht sich diskriminiert",
-    "Henning Otte: Ein Reserveoffizier als neuer Wehrbeauftragter",
     "Washington - USA nehmen von Katar geschenktes Flugzeug offiziell an",
     "Kommentar - Rechtsextreme Jugendliche kommen nicht aus dem Nichts",
     "Journalismus - Sind Medien gegen Populisten wehrlos?",
@@ -3003,11 +3001,11 @@
     "FDP-Politikerin - Sachsen-Anhalts Infrastrukturministerin Hüskens fordert klare Finanzierung für Deutschlandticket",
     "USA - \"Washington Post\" von Hackerangriff betroffen",
     "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistlichem Oberhaupt Chamenei ab",
-    "Nahost - Iran meldet Hinrichtung eines israelischen Agenten"
+    "Nahost - Iran meldet Hinrichtung eines israelischen Agenten",
+    "Migration - Fälle von Kirchenasyl haben laut Medienbericht zugenommen",
+    "Nahost-Krieg: Bundesbankchef Joachim Nagel warnt vor Folgen für deutsche Wirtschaft"
   ],
   "hashes": [
-    "ec6b67157f75ae634beb692df3e26c0b",
-    "dd013542a3174260afb0d713db08c118",
     "52473bff46fb93d6c7570ab96fb2a405",
     "b4e1531e7d29194cb4af64e26e495181",
     "112e3df3531e1f9f67360c9548f68d63",
@@ -4005,6 +4003,8 @@
     "cef0c4c78a6bb5c5fd7b6c32907a4eee",
     "d6badc8414b946a5c8789f20045e0b2f",
     "27f6a296e9963bc9261b199dceb9f3e3",
-    "497ab890d4905a80acce53903df6b455"
+    "497ab890d4905a80acce53903df6b455",
+    "a575a0205cfdd4fa0bf2cc2dae9af773",
+    "7d9a14b78fd585819c09d3fbb50d3b47"
   ]
 }
