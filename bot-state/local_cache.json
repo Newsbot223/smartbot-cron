@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/horst-seehofer-merkels-migrationspolitik-war-ein-grosser-fehler-110492155.html",
-    "https://www.deutschlandfunk.de/neuer-innenminister-wilke-im-amt-100.html",
     "https://www.deutschlandfunk.de/oberstes-gericht-weist-antrag-auf-annullierung-der-praesidentenwahl-zurueck-100.html",
     "https://www.deutschlandfunk.de/mehr-als-ein-viertel-der-bevoelkerung-hat-eine-einwanderungsgeschichte-102.html",
     "https://www.faz.net/aktuell/politik/inland/neue-zahlen-jede-vierte-person-in-deutschland-hat-einwanderungsgeschichte-110492171.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/debatte-ueber-wehrpflicht-die-lage-fordert-es-uns-ab-110534819.html",
     "https://www.deutschlandfunk.de/netanjahu-angriffe-haben-iranisches-atomprogramm-weit-zurueckgeworfen-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-die-afd-mit-der-wehrpflicht-hadert-110539823.html",
-    "https://www.deutschlandfunk.de/palaestinenser-melden-mehrere-tote-bei-verteilzentrum-102.html"
+    "https://www.deutschlandfunk.de/palaestinenser-melden-mehrere-tote-bei-verteilzentrum-102.html",
+    "https://www.deutschlandfunk.de/iran-sollte-vereinbarung-zu-atomprogramm-unterzeichnen-102.html",
+    "https://www.deutschlandfunk.de/eu-kommission-will-vollausstieg-aus-russischem-gas-umsetzen-100.html"
   ],
   "content_hashes": [
-    "4035a37c105fe2e2fce366253682f8b7",
-    "1e84d10967abc7245c30c2cf722d6875",
     "ff3a66e7d41c2a3fceae83f6975a46b4",
     "a76f5e65d88e97f199291c80e9435748",
     "5f63ada4114fea80fdbf5325aa2535cf",
@@ -2001,11 +1999,11 @@
     "7cd768d06b554ac5a52a3ea384826f9f",
     "33ace9369f0d6219e37010b21844c490",
     "d31a6de936d0e314a56543d34945ffe9",
-    "3d3911fab8b1ae356e1580f18dc71b9b"
+    "3d3911fab8b1ae356e1580f18dc71b9b",
+    "21a9ee6ad3b712654783f6a5b503047d",
+    "11860721eca89a3cb3e378cba4380f43"
   ],
   "titles": [
-    "Horst Seehofer: „Merkels Migrationspolitik war ein großer Fehler“",
-    "Brandenburg - Neuer Innenminister Wilke im Amt",
     "Rumänien - Oberstes Gericht weist Antrag auf Annullierung der Präsidentenwahl zurück",
     "Migration - Mehr als ein Viertel der Bevölkerung hat eine Einwanderungsgeschichte",
     "Neue Zahlen: Jede vierte Person in Deutschland hat Einwanderungsgeschichte",
@@ -3003,11 +3001,11 @@
     "„Die sicherheitspolitische Lage fordert es uns ab“",
     "Israel - Netanjahu: Angriffe haben iranisches Atomprogramm weit zurückgeworfen",
     "Warum die AfD mit der Wehrpflicht hadert",
-    "Gazastreifen - Palästinenser melden mehrere Tote bei Verteilzentrum"
+    "Gazastreifen - Palästinenser melden mehrere Tote bei Verteilzentrum",
+    "G7-Gipfel - Iran sollte Vereinbarung zu Atomprogramm unterzeichnen",
+    "Gesetzesvorschlag - EU-Kommission will Vollausstieg aus russischem Gas umsetzen"
   ],
   "hashes": [
-    "adbd7a2a8ef3329126c00007a9fbeff5",
-    "761676e0c7be9dd21b760abe080c05b1",
     "fded597b6c57bed0ad9406a857acf901",
     "ff7f1b58ef96b3399388490b72bbe1c0",
     "0830518b5f8f568c416670032707cc45",
@@ -4005,6 +4003,8 @@
     "89799d372caec47768a6ace6ccef394a",
     "004ac55e4dc6ae5fb966c2ec268ea6bd",
     "bf5987653d4870c7caa0e69016c255e6",
-    "d0521619ff249f413267cc169ac0a0b1"
+    "d0521619ff249f413267cc169ac0a0b1",
+    "a3afa270546d454239719d4ab0faaeea",
+    "8cc9e7fbdb2844a864eb2a6b45d6fe78"
   ]
 }
