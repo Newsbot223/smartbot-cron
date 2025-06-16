@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/openai-uebernimmt-firma-von-jony-ive-fuer-6-5-milliarden-dollar-100.html",
-    "https://www.faz.net/aktuell/politik/neugeborene-haben-keine-lobby-110488493.html",
-    "https://www.deutschlandfunk.de/kim-jon-un-bezeichnet-gescheiterten-stapellauf-als-kriminelle-handlung-100.html",
-    "https://www.deutschlandfunk.de/prien-spricht-sich-fuer-pflichtbesuche-in-kz-gedenkstaetten-waehrend-der-schulzeit-aus-100.html",
-    "https://www.deutschlandfunk.de/us-regierung-zwei-mitarbeiter-der-israelischen-botschaft-getoetet-botschafter-spricht-von-antisemiti-100.html",
     "https://www.deutschlandfunk.de/israel-faengt-weitere-rakete-aus-dem-jemen-ab-100.html",
     "https://www.deutschlandfunk.de/klingbeil-trifft-us-finanzminister-bessent-100.html",
     "https://www.deutschlandfunk.de/us-regierung-zwei-mitarbeiter-der-israelischen-botschaft-getoetet-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/tschechien-bringt-seine-staatsbuerger-aus-israel-in-sicherheit-100.html",
     "https://www.deutschlandfunk.de/lebenslange-haft-fuer-syrischen-arzt-wegen-verbrechen-gegen-die-menschlichkeit-100.html",
     "https://www.deutschlandfunk.de/flugzeug-muss-wegen-bombendrohung-umkehren-100.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundeswehr-auf-dem-hessentag-in-bad-vilbel-machtgefuehl-im-panzer-110536354.html"
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundeswehr-auf-dem-hessentag-in-bad-vilbel-machtgefuehl-im-panzer-110536354.html",
+    "https://www.deutschlandfunk.de/europaeische-hilfe-fuer-die-ukraine-ist-deutlich-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/deutsch-franzoesische-abgeordnete-wollen-staerker-auf-nationale-parlamente-einwirken-104.html",
+    "https://www.deutschlandfunk.de/28-jaehriger-soll-auf-dauer-in-psychiatrie-100.html",
+    "https://www.deutschlandfunk.de/israel-iran-krieg-ukraine-russland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/syrischer-arzt-verurteilt-die-nebenklaeger-bekommen-was-sie-sich-gewuenscht-haben-110539880.html"
   ],
   "content_hashes": [
-    "d03fd962a57820e9b06533995576c929",
-    "5ef0b3de4ec3c90becc815618dc3d836",
-    "257eab9ece4570e3c6aa5031b14a2f11",
-    "59537819dcec391d940120bb2ded07e6",
-    "9b5f4a7fbbe193658cb1b0b89174ea33",
     "529d8833bad3e0768144aa569d8e47c3",
     "7b058326e877d90203806dfe9b3a0234",
     "e016486e43cf8f767d16f1104fed803a",
@@ -2001,14 +1996,14 @@
     "5b900fd4d4c969bad0416850a3f79c48",
     "7b8e5559856dfb1d6410932f58274764",
     "156e723fa094ea4ada3500a5070fb67e",
-    "dba02d6e31f6e92e42f9ef2cf2d9980e"
+    "dba02d6e31f6e92e42f9ef2cf2d9980e",
+    "7f5328810cf6da671c2cf6d7a8331782",
+    "3ab80ab067e33533bf1a0124b1870c77",
+    "fa6940a05cd23a911aba631fb7817b09",
+    "7ef470ba6ed810fe68c453ceaa8f2adf",
+    "4398a33fd6c9c6a42b8a5ebed0c7899d"
   ],
   "titles": [
-    "Künstliche Intelligenz - OpenAI übernimmt Firma von Jony Ive für 6,5 Milliarden Dollar",
-    "Medizinische Versorgung: In Deutschland sterben zu viele Neugeborene",
-    "Nordkorea - Kim Jon Un bezeichnet gescheiterten Stapellauf als \"kriminelle Handlung\"",
-    "Erinnerungskultur - Prien spricht sich für Pflichtbesuche in KZ-Gedenkstätten während der Schulzeit aus",
-    "Washington - US-Regierung: Zwei Mitarbeiter der israelischen Botschaft getötet - Botschafter spricht von antisemitischem Terrorakt",
     "Nahost-Konflikt - Israel fängt weitere Rakete aus dem Jemen ab",
     "G7-Treffen - Klingbeil trifft US-Finanzminister Bessent",
     "Washington - US-Regierung: Zwei Mitarbeiter der israelischen Botschaft getötet",
@@ -3003,14 +2998,14 @@
     "Eskalation in Nahost - Tschechien bringt seine Staatsbürger aus Israel in Sicherheit",
     "Oberlandesgericht Frankfurt/M. - Lebenslange Haft für syrischen Arzt wegen Verbrechen gegen die Menschlichkeit",
     "Lufthansa - Flugzeug muss wegen Bombendrohung umkehren",
-    "Hessentag 2025 in Bad Vilbel: Was die Bundeswehr bietet"
+    "Hessentag 2025 in Bad Vilbel: Was die Bundeswehr bietet",
+    "Institut für Weltwirtschaft - Europäische Hilfe für die Ukraine ist deutlich gestiegen",
+    "Vollversammlung - Deutsch-französische Abgeordnete wollen stärker auf nationale Parlamente einwirken",
+    "Angriff auf Synagoge in Oldenburg - 28-Jähriger soll auf Dauer in Psychiatrie",
+    "Krieg zwischen Israel und Iran - Folgen einer Eskalation",
+    "Syrischer Arzt verurteilt: Die Nebenkläger bekommen, was sie sich gewünscht haben"
   ],
   "hashes": [
-    "88da88194d4c2e1af9c39db6e20786b7",
-    "971d6f2060ca30ee9d23e94b288bdc6d",
-    "54392b2755c4504fecdd27d5d3808d15",
-    "add09136caea0dace8b07094cafd514f",
-    "31c422c54189014e423f814172a364c8",
     "1f24ea18067c5898f3bc372e1a95e2e4",
     "c837a41f7f9abde314d4ae0637d30c40",
     "3eb697637a8a6883ca2417cfb82a83c6",
@@ -4005,6 +4000,11 @@
     "0160f0751be6050cc800c12cbfbe260e",
     "afec0aa63d0f10833324f8083569ecb0",
     "226fcf89e8ba54123545597e1a816b13",
-    "35e31cd35dc94643f7b7252394b2f40d"
+    "35e31cd35dc94643f7b7252394b2f40d",
+    "bbe7f281b1c6ea42839d642006c2a4c8",
+    "ef8aada9b0d77082193200281c3bd710",
+    "278f957a3b30d606343dd725ba1ff057",
+    "61391e72e0cac32fce96f1ea184b364e",
+    "533fa1171958e309cdc8bd4b7b2a9fc4"
   ]
 }
