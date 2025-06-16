@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/forum-journalismuskritik-sind-medien-gegen-populisten-wehrlos-100.html",
     "https://www.deutschlandfunk.de/wadephul-telefoniert-mit-israelischem-amtskollegen-100.html",
     "https://www.deutschlandfunk.de/openai-uebernimmt-firma-von-jony-ive-fuer-6-5-milliarden-dollar-100.html",
     "https://www.faz.net/aktuell/politik/neugeborene-haben-keine-lobby-110488493.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/faelle-von-kirchenasyl-haben-laut-medienbericht-zugenommen-100.html",
     "https://www.spiegel.de/wirtschaft/nahost-krieg-bundesbankchef-joachim-nagel-warnt-vor-folgen-fuer-deutsche-wirtschaft-a-b1c0aa6a-bdfb-40c0-ac98-f48d78436f8f#ref=rss",
     "https://www.deutschlandfunk.de/tschechien-bringt-seine-staatsbuerger-aus-israel-in-sicherheit-100.html",
-    "https://www.deutschlandfunk.de/lebenslange-haft-fuer-syrischen-arzt-wegen-verbrechen-gegen-die-menschlichkeit-100.html"
+    "https://www.deutschlandfunk.de/lebenslange-haft-fuer-syrischen-arzt-wegen-verbrechen-gegen-die-menschlichkeit-100.html",
+    "https://www.deutschlandfunk.de/flugzeug-muss-wegen-bombendrohung-umkehren-100.html"
   ],
   "content_hashes": [
-    "a26b80ec14408e310e3944f7db47f215",
     "8a780380d9a5150330682965755e3ade",
     "d03fd962a57820e9b06533995576c929",
     "5ef0b3de4ec3c90becc815618dc3d836",
@@ -2001,10 +2000,10 @@
     "1a0507c25eebf63280ce72b8a56fe6e5",
     "ca2ed60ba7d290cc9a167fc4869d8b55",
     "5b900fd4d4c969bad0416850a3f79c48",
-    "7b8e5559856dfb1d6410932f58274764"
+    "7b8e5559856dfb1d6410932f58274764",
+    "156e723fa094ea4ada3500a5070fb67e"
   ],
   "titles": [
-    "Journalismus - Sind Medien gegen Populisten wehrlos?",
     "Nach Warnschüssen auf Diplomaten - Wadephul telefoniert mit israelischem Amtskollegen",
     "Künstliche Intelligenz - OpenAI übernimmt Firma von Jony Ive für 6,5 Milliarden Dollar",
     "Medizinische Versorgung: In Deutschland sterben zu viele Neugeborene",
@@ -3003,10 +3002,10 @@
     "Migration - Fälle von Kirchenasyl haben laut Medienbericht zugenommen",
     "Nahost-Krieg: Bundesbankchef Joachim Nagel warnt vor Folgen für deutsche Wirtschaft",
     "Eskalation in Nahost - Tschechien bringt seine Staatsbürger aus Israel in Sicherheit",
-    "Oberlandesgericht Frankfurt/M. - Lebenslange Haft für syrischen Arzt wegen Verbrechen gegen die Menschlichkeit"
+    "Oberlandesgericht Frankfurt/M. - Lebenslange Haft für syrischen Arzt wegen Verbrechen gegen die Menschlichkeit",
+    "Lufthansa - Flugzeug muss wegen Bombendrohung umkehren"
   ],
   "hashes": [
-    "112e3df3531e1f9f67360c9548f68d63",
     "7ed9ffab0d7ee6eed6c73e2797954b1e",
     "88da88194d4c2e1af9c39db6e20786b7",
     "971d6f2060ca30ee9d23e94b288bdc6d",
@@ -4005,6 +4004,7 @@
     "a575a0205cfdd4fa0bf2cc2dae9af773",
     "7d9a14b78fd585819c09d3fbb50d3b47",
     "0160f0751be6050cc800c12cbfbe260e",
-    "afec0aa63d0f10833324f8083569ecb0"
+    "afec0aa63d0f10833324f8083569ecb0",
+    "226fcf89e8ba54123545597e1a816b13"
   ]
 }
