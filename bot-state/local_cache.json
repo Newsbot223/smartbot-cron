@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nrw-wirtschaftsministerin-neubaur-fordert-wiederaufbau-west-100.html",
-    "https://www.deutschlandfunk.de/putin-will-waffenexporte-in-andere-laender-ausbauen-100.html",
-    "https://www.deutschlandfunk.de/ki-software-versucht-bei-test-entwickler-zu-erpressen-102.html",
-    "https://www.deutschlandfunk.de/verletzte-bei-messerangriff-in-hamburg-100.html",
     "https://www.deutschlandfunk.de/mindestens-17-verletzte-bei-messerangriff-am-hamburger-hauptbahnhof-polizei-nimmt-frau-fest-100.html",
     "https://www.deutschlandfunk.de/17-verletzte-bei-messerangriff-am-hamburger-hauptbahnhof-polizei-nimmt-frau-fest-100.html",
     "https://www.deutschlandfunk.de/anklage-gegen-17-mitarbeiter-der-griechischen-kuestenwache-erhoben-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/10-000-beschwerden-nach-praesidentschaftswahl-in-polen-afp-ungewoehnlich-hohe-zahl-102.html",
     "https://www.deutschlandfunk.de/china-zementiert-bei-gipfel-in-kasachstan-beziehungen-zu-zentralasiatischen-staaten-100.html",
     "https://www.deutschlandfunk.de/israel-und-iran-setzen-gegenseitige-angriffe-fort-108.html",
-    "https://www.deutschlandfunk.de/proteste-in-los-angeles-buergermeisterin-hebt-ausgangssperre-auf-102.html"
+    "https://www.deutschlandfunk.de/proteste-in-los-angeles-buergermeisterin-hebt-ausgangssperre-auf-102.html",
+    "https://www.deutschlandfunk.de/kanada-kuendigt-weitere-unterstuetzung-fuer-ukraine-an-110.html",
+    "https://www.deutschlandfunk.de/ministerpraesidenten-treffen-merz-bund-und-laender-sprechen-ueber-investitionsprogramm-100.html",
+    "https://www.deutschlandfunk.de/bau-turbo-bundeskabinett-will-schaffung-neuen-wohnraums-vorantreiben-100.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-der-gefaehrdung-der-freiheit-110.html"
   ],
   "content_hashes": [
-    "7b2fad752ae0c04b06ac40cafbc3ab15",
-    "5e3bb11c3ce6438946332cf4bd14aaa3",
-    "4f647275595c82cf5118231b7f9afbf2",
-    "3727b31ff39bfd4f774a9f54d7772118",
     "9b96b4e8424cc51e4d8da300acc922de",
     "dac39cbc12e47eebb3defa40e2ece79e",
     "c87a9fce7da419a8d5e8a275e2cf3d77",
@@ -2001,13 +1997,13 @@
     "f5b5a283c8aca82158f1de8b546ec063",
     "1d5e3e5846da1178d7b3bd98be7db658",
     "fcb93a64bfc0257505baa42a3828de22",
-    "9fa03ce24a18f6faaeb455ed330b3384"
+    "9fa03ce24a18f6faaeb455ed330b3384",
+    "3e2550acdf6b27e44d31c252d5a65d94",
+    "89dbf2fe6ffcd7a277700933bc36b20f",
+    "c39d0030570e4f0f02aa3a89db56f467",
+    "73fc2538361114bcd99b96c1d4b7d791"
   ],
   "titles": [
-    "Sondervermögen Infrastruktur - NRW-Wirtschaftsministerin Neubaur fordert \"Wiederaufbau West\"",
-    "Trotz Ukraine-Kriegs - Putin will Waffenexporte in andere Länder ausbauen",
-    "Künstliche Intelligenz - KI-Software versucht bei Test Entwickler zu erpressen",
-    "Kriminalität - Verletzte bei Messerangriff in Hamburg",
     "Keine Hinweise auf politisches Motiv - Mindestens 17 Verletzte bei Messerangriff am Hamburger Hauptbahnhof - Polizei nimmt Frau fest",
     "Keine Hinweise auf politisches Motiv - 17 Verletzte bei Messerangriff am Hamburger Hauptbahnhof - Polizei nimmt Frau fest",
     "Zwei Jahre nach Untergang von Flüchtlingsboot - Anklage gegen 17 Mitarbeiter der griechischen Küstenwache erhoben",
@@ -3003,13 +2999,13 @@
     "Nawrocki-Sieg - 10.000 Beschwerden nach Präsidentschaftswahl in Polen - AFP: ungewöhnlich hohe Zahl",
     "Astana - China zementiert bei Gipfel in Kasachstan Beziehungen zu zentralasiatischen Staaten",
     "Krieg im Nahen Osten - Israel und Iran setzen gegenseitige Angriffe fort",
-    "USA - Proteste in Los Angeles: Bürgermeisterin hebt Ausgangssperre auf"
+    "USA - Proteste in Los Angeles: Bürgermeisterin hebt Ausgangssperre auf",
+    "G7-Gipfel - Kanada kündigt weitere Unterstützung für Ukraine an",
+    "Finanzen - Ministerpräsidenten treffen Merz: Bund und Länder sprechen über Investitionsprogramm",
+    "Gesetzentwurf - \"Bau-Turbo\": Bundeskabinett will Schaffung neuen Wohnraums vorantreiben",
+    "Rede in Berlin - Kulturstaatsminister Weimer warnt vor der Gefährdung der Freiheit"
   ],
   "hashes": [
-    "0a59b7ff108ae1fa79e527a02372d96e",
-    "4d348e1f8263814002e58ca5b0ecb428",
-    "e7b3cfa6cbfe60e2c6e6b00dbc97ea80",
-    "63c9802d9e694312d3788c3973220086",
     "15f5333ce0ab4b66088b069680b6bfc3",
     "01376f8ada683be464a8190db5721fb8",
     "d69a8da7fea39c3080da24b84bb26e52",
@@ -4005,6 +4001,10 @@
     "552b1f0853da167da963376f4bc6ed14",
     "f3efee7543aa3041eb66cf2fb673d0f4",
     "c8c9f403bf13a84fee145a256db84589",
-    "b5040d91f95143db5f94032f2315b67f"
+    "b5040d91f95143db5f94032f2315b67f",
+    "5adf4c423c648064160e8f8e4c5ccc03",
+    "19f50fea2eb7ab18850ef964702f7b8e",
+    "9afa05f8605c5196ffbf877dfb824d2e",
+    "2e27141fc82956f76913a776d8dc49c5"
   ]
 }
