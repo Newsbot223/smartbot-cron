@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-zum-attentat-in-washington-tat-mit-politischer-dimension-100.html",
-    "https://www.deutschlandfunk.de/g7-finanzminister-betonen-gemeinsames-eintreten-fuer-stabilisierung-der-maerkte-100.html",
-    "https://www.deutschlandfunk.de/g7-finanzminister-wollen-druck-auf-moskau-erhoehen-102.html",
     "https://www.deutschlandfunk.de/mehr-als-6-000-abschiebungen-im-ersten-quartal-100.html",
     "https://www.deutschlandfunk.de/die-altersarmut-steigt-und-trifft-vor-allem-frauen-100.html",
     "https://www.deutschlandfunk.de/g7-finanzminister-wollen-druck-auf-moskau-erhoehen-112.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/raumfahrt-innovation-expo-bundespraesident-reist-nach-japan-100.html",
     "https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise-a-60a1d9bb-4654-4003-ac64-7a20f2f21ef9#ref=rss",
     "https://www.deutschlandfunk.de/weitere-evakuierungsfluege-in-europa-angekommen-100.html",
-    "https://www.deutschlandfunk.de/bas-will-gesetzesentwurf-zur-reform-des-buergergeldes-zuegig-vorlegen-100.html"
+    "https://www.deutschlandfunk.de/bas-will-gesetzesentwurf-zur-reform-des-buergergeldes-zuegig-vorlegen-100.html",
+    "https://www.deutschlandfunk.de/studie-menschen-vermeiden-zunehmend-nachrichten-interesse-bleibt-stabil-102.html",
+    "https://www.deutschlandfunk.de/sexueller-kindesmissbrauch-und-heimerziehung-betroffene-und-fachleute-werden-oeffentlich-befragt-100.html",
+    "https://www.spiegel.de/panorama/justiz/deutschland-uebergriffe-und-diskriminierung-gegen-muslime-auf-hoechststand-a-54c79875-0b64-4a65-8881-40b2c1faab44#ref=rss"
   ],
   "content_hashes": [
-    "7e4120203974fa5dee270375af2ee82b",
-    "aa2678465c1374220d88a13d86732b9d",
-    "d16fedf6d8b37df8bcca18b247cbbb6d",
     "d56b5df7a4ea60a6ce677783d8f04e14",
     "7cd6f214515c5f5470111d8283c8a475",
     "61fc0acbbc90ddd8ae253b3e2c6df7fb",
@@ -2001,12 +1998,12 @@
     "7b21f7adbe78b148ecddcf581e1812bc",
     "4f789b4200e4301059a8be12ab46869a",
     "9b15c8c6b54d457d8ed21e84d4f482ed",
-    "aed0696505676593c1c1cd3fde94485c"
+    "aed0696505676593c1c1cd3fde94485c",
+    "d531ac3fa98cfff2c554f5ce8caa87eb",
+    "a6e29fdbed0302345aa3b44bb69fa7d1",
+    "dd0883efa7ca94616533e0b7b4e2588d"
   ],
   "titles": [
-    "Kommentar - Israelis nicht mit der Netanjahu-Regierung gleichsetzen",
-    "Treffen im kanadischen Banff - G7-Finanzminister betonen gemeinsames Eintreten für Stabilisierung der Märkte",
-    "Treffen im kanadischen Banff - G7-Finanzminister wollen Druck auf Moskau erhöhen",
     "Migration - Mehr als 6.000 Abschiebungen im ersten Quartal",
     "Rentensystem - Die Altersarmut steigt - und trifft vor allem Frauen",
     "Treffen in Kanada - G7-Finanzminister wollen Druck auf Moskau erhöhen",
@@ -3003,12 +3000,12 @@
     "Bundespräsident - Steinmeier reist zum vierten Mal nach Japan",
     "Energie, Wasser, Personal: Freibäder verlangen höhere Eintrittspreise",
     "Newsblog zur Eskalation in Nahost - Weitere Evakuierungsflüge in Europa angekommen",
-    "Bundesregierung - Bas will Gesetzesentwurf zur Reform des Bürgergeldes zügig vorlegen"
+    "Bundesregierung - Bas will Gesetzesentwurf zur Reform des Bürgergeldes zügig vorlegen",
+    "Medienforschung - Studie: Menschen vermeiden zunehmend Nachrichten - Interesse bleibt stabil",
+    "Hearing - Sexueller Kindesmissbrauch und Heimerziehung - Betroffene und Fachleute werden öffentlich befragt",
+    "Deutschland: Übergriffe und Diskriminierung gegen Muslime auf Höchststand"
   ],
   "hashes": [
-    "50ff4408c5d59f5bbf36c4f1284a888c",
-    "e040f8373b133b44bbbabc70a23d2eb5",
-    "d8b8a1cf8b23b58eee2539ec1e819a7d",
     "7843356e41095969df35b1d3861deb97",
     "f5323bc56fa5a04db0ff9fc66cbe6e4e",
     "f862857edd843e01f19899c024f2c1a3",
@@ -4005,6 +4002,9 @@
     "178e329211aae68df9b7a7d6e4ac1cad",
     "93ac79a5569d1441f631eb91de0b14b6",
     "d8c542c7b269ed5520cf0d5768727a24",
-    "f6f84a14032159cdd6dffac2ca68241c"
+    "f6f84a14032159cdd6dffac2ca68241c",
+    "e382ad20ffaec737aaed0ecbae8fe5ce",
+    "eaeda42a5649521cde1b367397f34674",
+    "bb2aadb9687e9c99627f80ec2c7c7321"
   ]
 }
