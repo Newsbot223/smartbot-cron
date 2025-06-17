@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesjugendminsiterin-prien-bestuerzt-ueber-gewalt-100.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-will-neuen-festtag-fuer-demokratie-und-engagement-102.html",
     "https://www.deutschlandfunk.de/drohmails-an-schulen-in-mehreren-bundeslaendern-eingegangen-100.html",
     "https://www.deutschlandfunk.de/gefangenenaustausch-begonnen-102.html",
     "https://www.faz.net/aktuell/politik/inland/bundesrat-will-haertere-strafen-fuer-einsatz-von-k-o-tropfen-110495822.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/wadephul-sichert-heimreise-zu-deutsche-sollen-israel-ueber-jordanien-verlassen-110542473.html",
     "https://www.deutschlandfunk.de/trump-will-echtes-ende-des-konflikts-mit-dem-iran-100.html",
-    "https://www.deutschlandfunk.de/ruestungsinvestitionen-eu-will-buerokratie-abbauen-100.html"
+    "https://www.deutschlandfunk.de/ruestungsinvestitionen-eu-will-buerokratie-abbauen-100.html",
+    "https://www.deutschlandfunk.de/spanische-regierung-sieht-mehrere-ursachen-fuer-massiven-stromausfall-im-april-102.html",
+    "https://www.faz.net/aktuell/politik/inland/sed-opferbeauftragte-lobt-umgang-mit-sed-opfern-110541909.html"
   ],
   "content_hashes": [
-    "8ce5da4d31dbafb8f9b1ea7af13c7838",
-    "00488a2ecd2b4d11926a801c9a2ae922",
     "b09f4824371e7ca39d6052ef4971fbc4",
     "69611017ea125e9564bf822f8c293b98",
     "619d9ef72392de9fbfca8304b7204e83",
@@ -2001,11 +1999,11 @@
     "da537751d89c1031d2973c32a35f48e7",
     "97415c7fd315aab08bafc1920208082b",
     "af2999b1c82d6155615abd35391df8c5",
-    "7850766f540e17abb675f21572a16d64"
+    "7850766f540e17abb675f21572a16d64",
+    "f6ab21cef6d3d593f3dc6fd17fadf229",
+    "72b74ff08241899bf417bf2c1c219b84"
   ],
   "titles": [
-    "Angriffe auf Mitschüler mit Messern - Bundesjugendminsiterin Prien bestürzt über Gewalt",
-    "Ehrenamt - Bundespräsident Steinmeier will neuen Festtag für Demokratie und Engagement",
     "Kriminalität - Drohmails an Schulen in mehreren Bundesländern eingegangen",
     "Russland und Ukraine - Gefangenenaustausch begonnen",
     "Bundesrat will härtere Strafen für Einsatz von K.-o.-Tropfen",
@@ -3003,11 +3001,11 @@
     "Arbeitszeit: Beschäftigte wollen tägliche Höchstarbeitszeit beibehalten",
     "Krieg gegen Iran: Deutsche sollen Israel über Jordanien verlassen",
     "Nahost - Trump will \"echtes Ende\" des Konflikts mit dem Iran",
-    "Aufrüstung in Europa - Rüstungsinvestitionen: EU will Bürokratie abbauen"
+    "Aufrüstung in Europa - Rüstungsinvestitionen: EU will Bürokratie abbauen",
+    "Iberische Halbinsel - Spanische Regierung sieht mehrere Ursachen für massiven Stromausfall im April",
+    "SED-Opferbeauftragte: Zupke lobt den „Paradigmenwechsel“ im Umgang mit SED-Opfern"
   ],
   "hashes": [
-    "c324d4ddcd37427a26688968f772b38a",
-    "193c1c273812d06d2a0ad000e75db0b7",
     "75ce478a8bc4fbb12accf81c5c6de1ef",
     "d571999713316e2995ef84d18322ad4b",
     "ae4d3c2e0f0083d3a8502ebafb0caeec",
@@ -4005,6 +4003,8 @@
     "4811fea5bdd8f91e7ec0ab3bf32a422f",
     "3076ec1fcbf9e50e121c2fb295c8ce5d",
     "47bcc32478ff219423045efe43fa5bff",
-    "6729776b36e7572be6b9b16f6b4561f2"
+    "6729776b36e7572be6b9b16f6b4561f2",
+    "2f1c9d3b8972a0aa9067ce4e572d7423",
+    "53b76076f06d23e96a99c855786575e4"
   ]
 }
