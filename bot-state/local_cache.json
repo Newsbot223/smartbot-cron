@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-verteilung-von-hilfsguetern-verlaeuft-nach-uno-angaben-schleppend-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nina-warken-will-chefin-der-frauen-union-werden-110493088.html",
-    "https://www.deutschlandfunk.de/israel-erhoeht-weltweit-sicherheitsmassnahmen-fuer-diplomatische-vertretungen-100.html",
-    "https://www.deutschlandfunk.de/aktion-gegen-darknet-banden-270-festnahmen-in-zehn-laendern-100.html",
     "https://www.deutschlandfunk.de/trump-regierung-will-harvard-aufnahme-auslaendischen-studenten-verbieten-100.html",
     "https://www.deutschlandfunk.de/trump-regierung-verbietet-harvard-aufnahme-auslaendischer-studenten-100.html",
     "https://www.deutschlandfunk.de/kommentar-zum-attentat-in-washington-tat-mit-politischer-dimension-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/pentagon-vergibt-ki-auftrag-im-wert-von-200-millionen-dollar-an-openai-100.html",
     "https://www.deutschlandfunk.de/gegenseitige-luftangriffe-fortgesetzt-israel-meldet-tod-von-iranischem-kommandanten-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-gast-trump-reist-wegen-internationaler-lage-ab-100.html",
-    "https://www.deutschlandfunk.de/verschuldete-bundesbuerger-haben-im-schnitt-33-000-euro-an-verbindlichkeiten-100.html"
+    "https://www.deutschlandfunk.de/verschuldete-bundesbuerger-haben-im-schnitt-33-000-euro-an-verbindlichkeiten-100.html",
+    "https://www.deutschlandfunk.de/anteil-der-erwerbstaetigen-in-teilzeit-in-deutschland-besonders-hoch-100.html",
+    "https://www.deutschlandfunk.de/kopenhagen-loest-wien-als-lebenswerteste-stadt-der-welt-ab-102.html",
+    "https://www.deutschlandfunk.de/raumfahrt-innovation-expo-bundespraesident-reist-nach-japan-100.html",
+    "https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise-a-60a1d9bb-4654-4003-ac64-7a20f2f21ef9#ref=rss"
   ],
   "content_hashes": [
-    "cb6229ae6360394ecfa2a97613604220",
-    "7932e75fdc0777b015874bce8d73017c",
-    "0b0fed3b386b0472b48b264fa4480635",
-    "11e7424de15034eacbbc1673495fc265",
     "65d09bf5ccee908f9d930f2ef458c7a8",
     "4dfb542cd19e3e839d9d0fc06f714ffd",
     "7e4120203974fa5dee270375af2ee82b",
@@ -2001,13 +1997,13 @@
     "a98a07a84b3db5b0bfb60c02ad4fd0c2",
     "74fa8bd94437ce0b47cd68407c3d7e52",
     "8736fae3bcfc93907a081e8c023ae7a1",
-    "a1dfb52cf614a26bc5e4386d455eab30"
+    "a1dfb52cf614a26bc5e4386d455eab30",
+    "2d091257c6edb3760d667945042c3188",
+    "cf44da1b1b7284a78130bc4b7ea9edbd",
+    "7b21f7adbe78b148ecddcf581e1812bc",
+    "4f789b4200e4301059a8be12ab46869a"
   ],
   "titles": [
-    "Gazastreifen - Die Verteilung von Hilfsgütern verläuft nach UNO-Angaben schleppend",
-    "F.A.Z. exklusiv: Nina Warken will Chefin der Frauen-Union werden",
-    "Nach tödlichem Angriff in Washington - Israel erhöht weltweit Sicherheitsmaßnahmen für diplomatische Vertretungen",
-    "Europol - Aktion gegen Darknet-Banden - 270 Festnahmen in zehn Ländern",
     "USA - Trump-Regierung will Harvard Aufnahme ausländischen Studenten verbieten",
     "USA - Trump-Regierung verbietet Harvard Aufnahme ausländischer Studenten",
     "Kommentar - Israelis nicht mit der Netanjahu-Regierung gleichsetzen",
@@ -3003,13 +2999,13 @@
     "ChatGPT-Entwickler - Pentagon vergibt KI-Auftrag im Wert von 200 Millionen Dollar an OpenAI",
     "Newsblog zur Eskalation in Nahost - Gegenseitige Luftangriffe fortgesetzt - Israel meldet Tod von iranischem Kommandanten",
     "G7-Gipfel in Kanada - Selenskyj zu Gast - Trump reist \"wegen internationaler Lage\" ab",
-    "Deutschland - Verschuldete Bundesbürger haben im Schnitt 33.000 Euro an Verbindlichkeiten"
+    "Deutschland - Verschuldete Bundesbürger haben im Schnitt 33.000 Euro an Verbindlichkeiten",
+    "Statistik - Anteil der Erwerbstätigen in Teilzeit in Deutschland besonders hoch",
+    "\"Economist\"-Ranking - Kopenhagen löst Wien als \"lebenswerteste Stadt der Welt\" ab",
+    "Bundespräsident - Steinmeier reist zum vierten Mal nach Japan",
+    "Energie, Wasser, Personal: Freibäder verlangen höhere Eintrittspreise"
   ],
   "hashes": [
-    "e184af28f845f152869b6f11cd06fb40",
-    "ac0b8f13771eb0dfc5b89f55a698f3f3",
-    "96fbc71966e4dbe8d4949a27963ddb9c",
-    "93b58420df57b28773dac94bd4d12468",
     "b018e12a8b634a48372918786fb46605",
     "47924d4e49a3370e8b7683a2fdb8d343",
     "50ff4408c5d59f5bbf36c4f1284a888c",
@@ -4005,6 +4001,10 @@
     "c194b104b9938e3a5860d696195b9f53",
     "87a277e1392f0083a1131e398dd00e2e",
     "a6867d3db89ae251f24a9effc3cc78d0",
-    "6418d2f0e329fea43b701973427bc565"
+    "6418d2f0e329fea43b701973427bc565",
+    "600a77cb49fde686869c1afeb04fa849",
+    "eabea32c706c43c26117a1fe0d791e39",
+    "178e329211aae68df9b7a7d6e4ac1cad",
+    "93ac79a5569d1441f631eb91de0b14b6"
   ]
 }
