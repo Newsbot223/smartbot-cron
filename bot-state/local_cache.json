@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/facebook-mutterkonzern-meta-darf-ki-mit-deutschen-nutzerdaten-trainieren-100.html",
-    "https://www.deutschlandfunk.de/gericht-verurteilt-syrien-rueckkehrerin-zu-bewaehrungsstrafe-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-kritisiert-us-praesident-trump-fuer-androhung-von-zoellen-gegen-eu-102.html",
     "https://www.deutschlandfunk.de/zwoelf-verletzte-bei-messerangriff-in-hamburg-100.html",
     "https://www.deutschlandfunk.de/nrw-wirtschaftsministerin-neubaur-fordert-wiederaufbau-west-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/sed-opferbeauftragte-lobt-umgang-mit-sed-opfern-110541909.html",
     "https://www.deutschlandfunk.de/nach-angriff-in-bad-freienwalde-brandenburgische-landespolitiker-fordern-besseren-schutz-100.html",
     "https://www.deutschlandfunk.de/investoren-stecken-600-millionen-euro-in-ruestungstechnologie-firma-helsing-eines-der-wertvollsten-s-100.html",
-    "https://www.deutschlandfunk.de/deutscher-sachbuchpreis-fuer-comic-geht-an-ulli-lust-100.html"
+    "https://www.deutschlandfunk.de/deutscher-sachbuchpreis-fuer-comic-geht-an-ulli-lust-100.html",
+    "https://www.deutschlandfunk.de/10-000-beschwerden-nach-praesidentschaftswahl-in-polen-afp-ungewoehnlich-hohe-zahl-102.html",
+    "https://www.deutschlandfunk.de/china-zementiert-bei-gipfel-in-kasachstan-beziehungen-zu-zentralasiatischen-staaten-100.html"
   ],
   "content_hashes": [
-    "a5173011406eb78afe9014b3096eac78",
-    "56a00891867aadc5f42c6c6d23f8ff8c",
     "736ca58e290b065c641361458e7fc7a9",
     "1a1a31a7d14004b32b0302b944f291b2",
     "7b2fad752ae0c04b06ac40cafbc3ab15",
@@ -2001,11 +1999,11 @@
     "72b74ff08241899bf417bf2c1c219b84",
     "8bc3dda8d5d54efee6f399b084eb47db",
     "66317ef2c22887fc7c94cd290b323326",
-    "34b2636a80f6132ad102cd03d6b19f4b"
+    "34b2636a80f6132ad102cd03d6b19f4b",
+    "f5b5a283c8aca82158f1de8b546ec063",
+    "1d5e3e5846da1178d7b3bd98be7db658"
   ],
   "titles": [
-    "Eilverfahren - Facebook-Mutterkonzern Meta darf KI mit deutschen Nutzerdaten trainieren",
-    "Terrorismus - Gericht verurteilt Syrien-Rückkehrerin zu Bewährungsstrafe",
     "Wirtschaft - Bundesaußenminister Wadephul kritisiert US-Präsident Trump für Androhung von Zöllen gegen EU",
     "Kriminalität - Zwölf Verletzte bei Messerangriff in Hamburg",
     "Sondervermögen Infrastruktur - NRW-Wirtschaftsministerin Neubaur fordert \"Wiederaufbau West\"",
@@ -3003,11 +3001,11 @@
     "SED-Opferbeauftragte: Zupke lobt den „Paradigmenwechsel“ im Umgang mit SED-Opfern",
     "Veranstaltung für Vielfalt - Nach Angriff in Bad Freienwalde: Brandenburgische Landespolitiker fordern besseren Schutz",
     "Finanzierungsrunde - Investoren stecken 600 Millionen Euro in Rüstungstechnologie-Firma Helsing - eines der wertvollsten Startups Europas",
-    "Steinzeit-Frauen - Deutscher Sachbuchpreis für Comic geht an Ulli Lust"
+    "Steinzeit-Frauen - Deutscher Sachbuchpreis für Comic geht an Ulli Lust",
+    "Nawrocki-Sieg - 10.000 Beschwerden nach Präsidentschaftswahl in Polen - AFP: ungewöhnlich hohe Zahl",
+    "Astana - China zementiert bei Gipfel in Kasachstan Beziehungen zu zentralasiatischen Staaten"
   ],
   "hashes": [
-    "731781bc88c0829f0d0ad708228a28e1",
-    "8b27f5f5dfd46419929fa82082b9cef7",
     "d8f76ddf153f1194fb3043720efd5874",
     "1cb12bcfe9239ddb6517430ff0ee4550",
     "0a59b7ff108ae1fa79e527a02372d96e",
@@ -4005,6 +4003,8 @@
     "53b76076f06d23e96a99c855786575e4",
     "30e5415bee5e5084ef5f588cc6f25122",
     "cbecacdcece27b3886a425f64a5228d8",
-    "2d07f6bd676f75bf8fdb8989232c3746"
+    "2d07f6bd676f75bf8fdb8989232c3746",
+    "552b1f0853da167da963376f4bc6ed14",
+    "f3efee7543aa3041eb66cf2fb673d0f4"
   ]
 }
