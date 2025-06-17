@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-ein-viertel-der-bevoelkerung-hat-eine-einwanderungsgeschichte-102.html",
     "https://www.faz.net/aktuell/politik/inland/neue-zahlen-jede-vierte-person-in-deutschland-hat-einwanderungsgeschichte-110492171.html",
     "https://www.deutschlandfunk.de/eu-parlament-beschliesst-hohe-strafzoelle-auf-russische-duengemittel-100.html",
     "https://www.deutschlandfunk.de/ifo-index-stimmung-in-deutschen-unternehmen-verbessert-sich-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/palaestinenser-melden-mehrere-tote-bei-verteilzentrum-102.html",
     "https://www.deutschlandfunk.de/iran-sollte-vereinbarung-zu-atomprogramm-unterzeichnen-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-vollausstieg-aus-russischem-gas-umsetzen-100.html",
-    "https://www.deutschlandfunk.de/regionale-staaten-fordern-feuerpause-israels-102.html"
+    "https://www.deutschlandfunk.de/regionale-staaten-fordern-feuerpause-israels-102.html",
+    "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-trump-vorgehen-gegen-china-vor-102.html"
   ],
   "content_hashes": [
-    "a76f5e65d88e97f199291c80e9435748",
     "5f63ada4114fea80fdbf5325aa2535cf",
     "eb8ef86e8c34ddbb3cc9c244ce4137a8",
     "af4833a93618fa9e77189e44545c0fd5",
@@ -2001,10 +2000,10 @@
     "3d3911fab8b1ae356e1580f18dc71b9b",
     "21a9ee6ad3b712654783f6a5b503047d",
     "11860721eca89a3cb3e378cba4380f43",
-    "8ae65625dce1b805125afb6ad3393049"
+    "8ae65625dce1b805125afb6ad3393049",
+    "41f4c2dd133c4fe29b5074d93ec0b764"
   ],
   "titles": [
-    "Migration - Mehr als ein Viertel der Bevölkerung hat eine Einwanderungsgeschichte",
     "Neue Zahlen: Jede vierte Person in Deutschland hat Einwanderungsgeschichte",
     "Brüssel - EU-Parlament beschließt hohe Strafzölle auf russische Düngemittel",
     "Konjunktur - Ifo-Index: Stimmung in deutschen Unternehmen verbessert sich",
@@ -3003,10 +3002,10 @@
     "Gazastreifen - Palästinenser melden mehrere Tote bei Verteilzentrum",
     "G7-Gipfel - Iran sollte Vereinbarung zu Atomprogramm unterzeichnen",
     "Gesetzesvorschlag - EU-Kommission will Vollausstieg aus russischem Gas umsetzen",
-    "Nahost-Krise - Regionale Staaten fordern Feuerpause Israels"
+    "Nahost-Krise - Regionale Staaten fordern Feuerpause Israels",
+    "Handelspolitik - Von der Leyen schlägt Trump Vorgehen gegen China vor"
   ],
   "hashes": [
-    "ff7f1b58ef96b3399388490b72bbe1c0",
     "0830518b5f8f568c416670032707cc45",
     "a5ae5e504e2d91bc0d90121306f13182",
     "603356af788f254462fc1001e24a393e",
@@ -4005,6 +4004,7 @@
     "d0521619ff249f413267cc169ac0a0b1",
     "a3afa270546d454239719d4ab0faaeea",
     "8cc9e7fbdb2844a864eb2a6b45d6fe78",
-    "c794625d6477a26588973ee0db376a12"
+    "c794625d6477a26588973ee0db376a12",
+    "a250fa323265b0b41a1c855c82b472bc"
   ]
 }
