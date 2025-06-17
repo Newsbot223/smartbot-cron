@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/bildung/internationale-studierende-in-bundeslaendern-beliebter-osten-a-ef53deeb-cf39-49fd-91ff-ac12f5f75ced#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/welche-voraussetzungen-muessten-fuer-ein-afd-verbot-erfuellt-sein-110491008.html",
     "https://www.faz.net/aktuell/politik/inland/drei-vorschlaege-fuer-einen-neuen-verfassungsrichter-110493068.html",
     "https://www.deutschlandfunk.de/uno-verteilt-erstmals-seit-anfang-maerz-hilfsgueter-im-gazastreifen-104.html",
     "https://www.deutschlandfunk.de/deutschland-so-schwach-wie-keine-andere-g7-nation-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/unerwartet-auf-erklaerung-zu-iran-und-israel-geeinigt-100.html",
     "https://www.deutschlandfunk.de/iaea-iranische-urananreicherungsanlage-in-natans-stark-beschaedigt-100.html",
     "https://www.deutschlandfunk.de/gruene-rufen-zu-staerkerem-schutz-von-strassenhunden-in-der-eu-auf-100.html",
-    "https://www.deutschlandfunk.de/sexueller-kindesmissbrauch-und-heimerziehung-betroffen-und-fachleute-werden-oeffentlich-befragt-100.html"
+    "https://www.deutschlandfunk.de/sexueller-kindesmissbrauch-und-heimerziehung-betroffen-und-fachleute-werden-oeffentlich-befragt-100.html",
+    "https://www.deutschlandfunk.de/trump-reist-vorzeitig-ab-dennoch-einigung-auf-erklaerung-zu-iran-und-israel-102.html",
+    "https://www.deutschlandfunk.de/klingbeil-sieht-deutliche-erhoehung-des-verteidigungsbudgets-100.html"
   ],
   "content_hashes": [
-    "3c43eccb6e6080ebc977c47ebea9d1c8",
-    "3e365ffedec5bfe07f6577caf9ee0783",
     "a332166ecb359c9e076dbe61b9141fec",
     "f67be53e7e0102d11bdece6e878a48f1",
     "b29a51e9b3119b0914ff9bac50ec67b6",
@@ -2001,11 +1999,11 @@
     "687799aaad923b725cbd972b9d8fb8b7",
     "cd7e0fd69687e51b37cb399d8746903d",
     "51caac65700ccbcf6438facb33e221be",
-    "40d89bff65b4886fc99a67aacc2c7da6"
+    "40d89bff65b4886fc99a67aacc2c7da6",
+    "0c9d8fe161bc61ea3e918f38b64714b6",
+    "f354671a56ea026c77260913c9a4a175"
   ],
   "titles": [
-    "Internationale Studierende in Bundesländern: Beliebter Osten",
-    "Bundesverfassungsgericht: Was ist für ein AfD-Verbot nötig?",
     "Vorschläge aus dem Gericht: Wer wird neuer Bundesverfassungsrichter?",
     "Nahostkrieg - UNO verteilt erstmals seit Anfang März Hilfsgüter im Gazastreifen",
     "Wirtschaft - Deutschland so schwach wie keine andere G7-Nation",
@@ -3003,11 +3001,11 @@
     "G7-Gipfel - Unerwartet auf Erklärung zu Iran und Israel geeinigt",
     "Newsblog zur Eskalation in Nahost - IAEA: Iranische Urananreicherungsanlage in Natans stark beschädigt",
     "Tierschutz - Grüne rufen zu stärkerem Schutz von Straßenhunden in der EU auf",
-    "Hearing - Sexueller Kindesmissbrauch und Heimerziehung - Betroffen und Fachleute werden öffentlich befragt"
+    "Hearing - Sexueller Kindesmissbrauch und Heimerziehung - Betroffen und Fachleute werden öffentlich befragt",
+    "G7-Gipfel - Trump reist vorzeitig ab - dennoch Einigung auf Erklärung zu Iran und Israel",
+    "Bundehaushalt - Klingbeil sieht deutliche Erhöhung des Verteidigungsbudgets"
   ],
   "hashes": [
-    "eefbf46bfdac98792987f1aef5ab791c",
-    "f35a37d89b5e577cd75b44445afdc469",
     "e887afdca6e91bb41d115b9255446f93",
     "3e7e4d37b4d722b5ec01aa66cd5dafb8",
     "0f73ad847723510c271b501cbf8aa84b",
@@ -4005,6 +4003,8 @@
     "ef4e6c963f0de797239a0a9781d7f690",
     "53a3fbe1d94f095c2972d2b7fdad2680",
     "ff97fcd0a0f88807b059d16e8f9fc4a5",
-    "328cc992c38d3fb88c3fff42701e25ee"
+    "328cc992c38d3fb88c3fff42701e25ee",
+    "c37a77ba2c1d09128709f4d6b595cfd9",
+    "53c1c24e4346350a92238d28d34b8d7b"
   ]
 }
