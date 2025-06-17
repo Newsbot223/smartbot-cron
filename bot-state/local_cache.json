@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/einsatz-von-k-o-tropfen-bei-straftaten-soll-strenger-geahndet-werden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bund-und-laender-foerdern-kuenftig-70-exzellenzcluster-110494933.html",
-    "https://www.deutschlandfunk.de/merz-fordert-in-telefonat-mit-praesident-xi-fairen-wettbewerb-100.html",
-    "https://www.deutschlandfunk.de/trump-droht-eu-mit-zoellen-in-hoehe-von-50-prozent-zum-1-juni-100.html",
     "https://www.deutschlandfunk.de/zollstreit-wuerde-deutsche-regionen-unterschiedlich-stark-treffen-100.html",
     "https://www.deutschlandfunk.de/eliteuniversitaet-harvard-wehrt-sich-gegen-ausschluss-auslaendischer-studierender-100.html",
     "https://www.deutschlandfunk.de/bundesjugendminsiterin-prien-bestuerzt-ueber-gewalt-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundesarbeitsministerin-bas-spd-will-gesetzesentwurf-zur-reform-des-buergergeldes-zuegig-vorlegen-100.html",
     "https://www.deutschlandfunk.de/vorwuerfe-gegen-spahn-cdu-bundesgesundheitsministerin-warken-will-im-haushaltsausschuss-stellung-zu--100.html",
     "https://www.faz.net/aktuell/politik/ausland/nargess-eskandari-gruenberg-ueber-iran-mit-verbrechern-kann-man-nicht-verhandeln-110541713.html",
-    "https://www.faz.net/aktuell/politik/inland/wer-ist-der-engste-vertraute-von-friedrich-merz-110540324.html"
+    "https://www.faz.net/aktuell/politik/inland/wer-ist-der-engste-vertraute-von-friedrich-merz-110540324.html",
+    "https://www.deutschlandfunk.de/eu-kommission-legt-plan-fuer-verbot-russischer-gasimporte-vor-einfuhren-sollen-schrittweise-verboten-100.html",
+    "https://www.deutschlandfunk.de/bund-mitbegruender-hubert-weinzierl-ist-tot-100.html",
+    "https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/wadephul-sichert-heimreise-zu-deutsche-sollen-israel-ueber-jordanien-verlassen-110542473.html"
   ],
   "content_hashes": [
-    "a4c1b21c7d0e85113d2d2cb6a8fb2e46",
-    "0e527af24cf0c40ca6a57e96c0ac7a81",
-    "a13a41a58b32dda6fb087729f083b79a",
-    "1e9d75e955ba26780c96a532f8366606",
     "609dea56acbc89e562aeabf978f66cbe",
     "2a830ea95027a96bbd412a130a9a5a0c",
     "8ce5da4d31dbafb8f9b1ea7af13c7838",
@@ -2001,13 +1997,13 @@
     "b26a7548828bb55d3b93f6c5ef4bd031",
     "e25d71d5ce88a084dac6d5557003a0c7",
     "8da6db7a5b6bd8621fa762f639ca895d",
-    "0a4a2f756b422996f78e9457f3036baf"
+    "0a4a2f756b422996f78e9457f3036baf",
+    "6710471da731e03fc390be83ce8c8d18",
+    "7cfad9c089b8d1011a1a6b8e5ac1627f",
+    "da537751d89c1031d2973c32a35f48e7",
+    "97415c7fd315aab08bafc1920208082b"
   ],
   "titles": [
-    "Bundesrat - Einsatz von K.o.-Tropfen bei Straftaten soll strenger geahndet werden",
-    "Exzellenzstrategie: Wie die deutsche Spitzenforschung gestärkt werden soll",
-    "Deutsch-chinesische Beziehungen - Merz fordert in Telefonat mit Präsident Xi fairen Wettbewerb",
-    "Wirtschaft - Trump droht EU mit Zöllen in Höhe von 50 Prozent zum 1. Juni",
     "Studie - Zollstreit würde deutsche Regionen unterschiedlich stark treffen",
     "Beschluss der US-Regierung - Eliteuniversität Harvard wehrt sich gegen Ausschluss ausländischer Studierender",
     "Angriffe auf Mitschüler mit Messern - Bundesjugendminsiterin Prien bestürzt über Gewalt",
@@ -3003,13 +2999,13 @@
     "Bundesregierung - Bundesarbeitsministerin Bas (SPD) will Gesetzesentwurf zur Reform des Bürgergeldes zügig vorlegen",
     "Bundestag - Vorwürfe gegen Spahn (CDU): Bundesgesundheitsministerin Warken will im Haushaltsausschuss Stellung zu Masken-Bericht nehmen",
     "Nargess Eskandari-Grünberg: „Mit Verbrechern kann man nicht verhandeln“",
-    "Alter Ego gesucht: Gibt es einen Vertrauten im Umfeld von Merz?"
+    "Alter Ego gesucht: Gibt es einen Vertrauten im Umfeld von Merz?",
+    "Energiepolitik - EU-Kommission legt Plan für Verbot russischer Gasimporte vor - Einfuhren sollen schrittweise verboten werden",
+    "Umweltschutz - BUND-Mitbegründer Hubert Weinzierl ist tot",
+    "Arbeitszeit: Beschäftigte wollen tägliche Höchstarbeitszeit beibehalten",
+    "Krieg gegen Iran: Deutsche sollen Israel über Jordanien verlassen"
   ],
   "hashes": [
-    "b8d67f97589ca778dc44070c65c52772",
-    "20725ac30ab9771e29b4bab702b71d7b",
-    "15bb834d6480e99f51ba8ba47229ee11",
-    "1b8d34fae040664432f7f055fb6a5502",
     "b737967d185d36524a98e38a3f5ff1f0",
     "cd25dbe532e1e0932a34407f8d4975c2",
     "c324d4ddcd37427a26688968f772b38a",
@@ -4005,6 +4001,10 @@
     "7974ac13d503d5318f60a833ca5bc47a",
     "ee8ac354eb0f1d4dd3403ca4e03ba911",
     "29de749beaf8ef5e2be258a0019b39ac",
-    "05852f47958c65f20c93d8a8808e6d5a"
+    "05852f47958c65f20c93d8a8808e6d5a",
+    "6837b31f1d93af99d028d5b36de34f42",
+    "5e31f71ef31a903465e9ce06e39cade5",
+    "4811fea5bdd8f91e7ec0ab3bf32a422f",
+    "3076ec1fcbf9e50e121c2fb295c8ce5d"
   ]
 }
