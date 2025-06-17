@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/neue-zahlen-jede-vierte-person-in-deutschland-hat-einwanderungsgeschichte-110492171.html",
-    "https://www.deutschlandfunk.de/eu-parlament-beschliesst-hohe-strafzoelle-auf-russische-duengemittel-100.html",
-    "https://www.deutschlandfunk.de/ifo-index-stimmung-in-deutschen-unternehmen-verbessert-sich-100.html",
     "https://www.deutschlandfunk.de/ukrainische-drohnenangriffe-stoeren-flugverkehr-in-moskau-102.html",
     "https://www.deutschlandfunk.de/israels-armee-ruft-bevoelkerung-im-norden-zum-verlassen-des-gebiets-auf-100.html",
     "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-erschuettert-kreta-104.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/iran-sollte-vereinbarung-zu-atomprogramm-unterzeichnen-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-vollausstieg-aus-russischem-gas-umsetzen-100.html",
     "https://www.deutschlandfunk.de/regionale-staaten-fordern-feuerpause-israels-102.html",
-    "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-trump-vorgehen-gegen-china-vor-102.html"
+    "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-trump-vorgehen-gegen-china-vor-102.html",
+    "https://www.deutschlandfunk.de/trump-reist-vorzeitig-ab-kein-treffen-mit-selenskyj-102.html",
+    "https://www.deutschlandfunk.de/trump-fordert-alle-bewohner-teherans-zum-verlassen-der-stadt-auf-100.html",
+    "https://www.deutschlandfunk.de/weiter-gegenseitiger-beschuss-zwischen-israel-und-dem-iran-100.html"
   ],
   "content_hashes": [
-    "5f63ada4114fea80fdbf5325aa2535cf",
-    "eb8ef86e8c34ddbb3cc9c244ce4137a8",
-    "af4833a93618fa9e77189e44545c0fd5",
     "1764c14ae9ff01cd377f7e535c673189",
     "4c876f0ec5f5dd05f51823a6e98334af",
     "8dbbcb6ff6fc90a20e9bbb4b6e08e1d5",
@@ -2001,12 +1998,12 @@
     "21a9ee6ad3b712654783f6a5b503047d",
     "11860721eca89a3cb3e378cba4380f43",
     "8ae65625dce1b805125afb6ad3393049",
-    "41f4c2dd133c4fe29b5074d93ec0b764"
+    "41f4c2dd133c4fe29b5074d93ec0b764",
+    "b8779dfc4da19f5e8cf5e4208f03ae25",
+    "e8fb731876f2766dd87ef9224ae8badc",
+    "9758369803fbf48dafabe4bb70b9565e"
   ],
   "titles": [
-    "Neue Zahlen: Jede vierte Person in Deutschland hat Einwanderungsgeschichte",
-    "Brüssel - EU-Parlament beschließt hohe Strafzölle auf russische Düngemittel",
-    "Konjunktur - Ifo-Index: Stimmung in deutschen Unternehmen verbessert sich",
     "Ukraine-Krieg - Ukrainische Drohnenangriffe stören Flugverkehr in Moskau",
     "Gazastreifen - Israels Armee ruft Bevölkerung im Norden zum Verlassen des Gebiets auf",
     "Griechenland - Erdbeben der Stärke 6,1 erschüttert Kreta",
@@ -3003,12 +3000,12 @@
     "G7-Gipfel - Iran sollte Vereinbarung zu Atomprogramm unterzeichnen",
     "Gesetzesvorschlag - EU-Kommission will Vollausstieg aus russischem Gas umsetzen",
     "Nahost-Krise - Regionale Staaten fordern Feuerpause Israels",
-    "Handelspolitik - Von der Leyen schlägt Trump Vorgehen gegen China vor"
+    "Handelspolitik - Von der Leyen schlägt Trump Vorgehen gegen China vor",
+    "G7-Gipfel - Trump reist vorzeitig ab - kein Treffen mit Selenskyj",
+    "Newsblog zur Eskalation in Nahost - Trump fordert alle Bewohner Teherans zum Verlassen der Stadt auf",
+    "Eskalation in Nahost - Weiter gegenseitiger Beschuss zwischen Israel und dem Iran"
   ],
   "hashes": [
-    "0830518b5f8f568c416670032707cc45",
-    "a5ae5e504e2d91bc0d90121306f13182",
-    "603356af788f254462fc1001e24a393e",
     "2141afa51be853faf5951d5bea9f9dd9",
     "ef99f04f7eba1171fb5f9670450a06b9",
     "cb9ea2b981fd3d6637ab58838ea53c03",
@@ -4005,6 +4002,9 @@
     "a3afa270546d454239719d4ab0faaeea",
     "8cc9e7fbdb2844a864eb2a6b45d6fe78",
     "c794625d6477a26588973ee0db376a12",
-    "a250fa323265b0b41a1c855c82b472bc"
+    "a250fa323265b0b41a1c855c82b472bc",
+    "77de6769a1c342982bff8926b58a7d02",
+    "4d59c503c4cbd47b3ba8c20f6a41b46b",
+    "97d032fca59574d0e95a5537ba9e0c18"
   ]
 }
