@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/drei-vorschlaege-fuer-einen-neuen-verfassungsrichter-110493068.html",
-    "https://www.deutschlandfunk.de/uno-verteilt-erstmals-seit-anfang-maerz-hilfsgueter-im-gazastreifen-104.html",
-    "https://www.deutschlandfunk.de/deutschland-so-schwach-wie-keine-andere-g7-nation-104.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-will-programme-gegen-rechtsextremismus-finanziell-absichern-100.html",
     "https://www.deutschlandfunk.de/spd-gewinnt-streit-um-otto-wels-saal-gegen-afd-102.html",
     "https://www.faz.net/aktuell/politik/inland/stefanie-hubig-ueber-afd-verbot-wir-haben-nicht-ewig-zeit-110492791.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruene-rufen-zu-staerkerem-schutz-von-strassenhunden-in-der-eu-auf-100.html",
     "https://www.deutschlandfunk.de/sexueller-kindesmissbrauch-und-heimerziehung-betroffen-und-fachleute-werden-oeffentlich-befragt-100.html",
     "https://www.deutschlandfunk.de/trump-reist-vorzeitig-ab-dennoch-einigung-auf-erklaerung-zu-iran-und-israel-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-sieht-deutliche-erhoehung-des-verteidigungsbudgets-100.html"
+    "https://www.deutschlandfunk.de/klingbeil-sieht-deutliche-erhoehung-des-verteidigungsbudgets-100.html",
+    "https://www.deutschlandfunk.de/neue-iranische-raketenangriffe-luftalarm-in-israel-100.html",
+    "https://www.deutschlandfunk.de/vorwuerfe-gegen-spahn-warken-will-im-haushaltsausschuss-stellung-zu-masken-bericht-nehmen-100.html",
+    "https://www.deutschlandfunk.de/pentagon-vergibt-ki-auftrag-im-wert-von-200-millionen-dollar-an-openai-100.html"
   ],
   "content_hashes": [
-    "a332166ecb359c9e076dbe61b9141fec",
-    "f67be53e7e0102d11bdece6e878a48f1",
-    "b29a51e9b3119b0914ff9bac50ec67b6",
     "8b49798eae472a3f17eef4b1f59f344d",
     "6b4a29277eadf6dd538b1c87eb311c72",
     "f0f992594a07a5f175a134c25432f5d8",
@@ -2001,12 +1998,12 @@
     "51caac65700ccbcf6438facb33e221be",
     "40d89bff65b4886fc99a67aacc2c7da6",
     "0c9d8fe161bc61ea3e918f38b64714b6",
-    "f354671a56ea026c77260913c9a4a175"
+    "f354671a56ea026c77260913c9a4a175",
+    "54ad8f11f3dd6cf534ad79e3dca1e2a0",
+    "b13ba358aeb32bf0a4c409519c5dcbf5",
+    "a98a07a84b3db5b0bfb60c02ad4fd0c2"
   ],
   "titles": [
-    "Vorschläge aus dem Gericht: Wer wird neuer Bundesverfassungsrichter?",
-    "Nahostkrieg - UNO verteilt erstmals seit Anfang März Hilfsgüter im Gazastreifen",
-    "Wirtschaft - Deutschland so schwach wie keine andere G7-Nation",
     "Bundesregierung - Innenminister Dobrindt will Programme gegen Rechtsextremismus finanziell absichern",
     "Reichstagsgebäude - SPD gewinnt Streit um Otto-Wels-Saal gegen AfD",
     "Stefanie Hubig über AfD-Verbot: „Wir haben  nicht ewig Zeit“",
@@ -3003,12 +3000,12 @@
     "Tierschutz - Grüne rufen zu stärkerem Schutz von Straßenhunden in der EU auf",
     "Hearing - Sexueller Kindesmissbrauch und Heimerziehung - Betroffen und Fachleute werden öffentlich befragt",
     "G7-Gipfel - Trump reist vorzeitig ab - dennoch Einigung auf Erklärung zu Iran und Israel",
-    "Bundehaushalt - Klingbeil sieht deutliche Erhöhung des Verteidigungsbudgets"
+    "Bundehaushalt - Klingbeil sieht deutliche Erhöhung des Verteidigungsbudgets",
+    "Newsblog zur Eskalation in Nahost - Neue iranische Raketenangriffe - Luftalarm in Israel",
+    "Bundestag - Vorwürfe gegen Spahn - Warken will im Haushaltsausschuss Stellung zu Masken-Bericht nehmen",
+    "ChatGPT-Entwickler - Pentagon vergibt KI-Auftrag im Wert von 200 Millionen Dollar an OpenAI"
   ],
   "hashes": [
-    "e887afdca6e91bb41d115b9255446f93",
-    "3e7e4d37b4d722b5ec01aa66cd5dafb8",
-    "0f73ad847723510c271b501cbf8aa84b",
     "13b3f9ccfacd7b090a4136c20c3d83b0",
     "5c401007d0984290e3cdcb37e378558e",
     "7f96452fc62df5df9aa694a50f722ac0",
@@ -4005,6 +4002,9 @@
     "ff97fcd0a0f88807b059d16e8f9fc4a5",
     "328cc992c38d3fb88c3fff42701e25ee",
     "c37a77ba2c1d09128709f4d6b595cfd9",
-    "53c1c24e4346350a92238d28d34b8d7b"
+    "53c1c24e4346350a92238d28d34b8d7b",
+    "4b3b873a66d3374f7ef2a8ca1744185a",
+    "1e30132af8286b2a5e20d33366f458f5",
+    "c194b104b9938e3a5860d696195b9f53"
   ]
 }
