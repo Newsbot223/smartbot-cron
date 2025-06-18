@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oezdemir-zum-spitzenkandidaten-der-gruenen-fuer-landtagswahl-2026-gewaehlt-102.html",
-    "https://www.deutschlandfunk.de/spd-will-lies-zum-neuen-parteivorsitzenden-waehlen-102.html",
-    "https://www.deutschlandfunk.de/spd-waehlt-lies-zum-vorsitzenden-100.html",
     "https://www.deutschlandfunk.de/scheidende-vorsitzende-widmann-mauz-beklagt-mangel-an-frauen-in-cdu-spitzenposten-100.html",
     "https://www.deutschlandfunk.de/adac-waechst-auf-22-2-millionen-mitglieder-102.html",
     "https://www.deutschlandfunk.de/unterbringung-der-verdaechtigen-in-klinik-angeordnet-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/panorama/justiz/vereinten-patrioten-in-sachsen-und-brandenburg-ermittler-durchsuchen-wohnungen-a-b3a806e1-63a9-4e0b-b373-4a7e104c7284#ref=rss",
     "https://www.deutschlandfunk.de/inzwischen-27-tote-in-kiew-geborgen-102.html",
     "https://www.deutschlandfunk.de/medienberichte-bund-kommt-laendern-bei-entlastung-fuer-steuerausfaelle-entgegen-100.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-verhandlungen-mit-laenderchefs-einigung-auf-entlastungen-fuer-steuerausfaelle-a-768d7fd3-7f91-49f1-a8a5-bd199207ec98#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/friedrich-merz-verhandlungen-mit-laenderchefs-einigung-auf-entlastungen-fuer-steuerausfaelle-a-768d7fd3-7f91-49f1-a8a5-bd199207ec98#ref=rss",
+    "https://www.deutschlandfunk.de/deutsche-verlassen-israel-via-jordanien-102.html",
+    "https://www.deutschlandfunk.de/kritik-an-aeusserung-von-merz-zur-drecksarbeit-israels-im-iran-106.html",
+    "https://www.faz.net/aktuell/politik/inland/landtagswahl-in-sachsen-anhalt-die-afd-ist-optimistisch-110542621.html"
   ],
   "content_hashes": [
-    "55822582d36abe733a6defc3eac0b203",
-    "20f6fe9d264fdae6010883491ffb6d12",
-    "356bdfdb3a4a30df490f53e3eb1fc7d8",
     "806fb950addc682b74987f8ee3516ee9",
     "73c20440f658632d536685414302ee25",
     "746d4ec548744b2dbee939291854484b",
@@ -2001,12 +1998,12 @@
     "12c3d79f694bed01035b2dec82bc381b",
     "76e3c7aebe2af81fe4a12847a669ed3d",
     "3d68c87db899ac257286e68d9f0b7f83",
-    "001e800968cd133e451d7db56dfd0675"
+    "001e800968cd133e451d7db56dfd0675",
+    "faca676d7890a7df1ebcc3eee1bf7ecd",
+    "883ae7e65493b626d0645b55ce571c55",
+    "9437f8815b7d50e1cc24cdf2f217bd31"
   ],
   "titles": [
-    "Baden-Württemberg - Özdemir zum Spitzenkandidaten der Grünen für Landtagswahl 2026 gewählt",
-    "Niedersachsen - SPD will Lies zum neuen Parteivorsitzenden wählen",
-    "Niedersachsen - SPD wählt Lies zum Vorsitzenden",
     "Frauen-Union - Scheidende Vorsitzende Widmann-Mauz beklagt Mangel an Frauen in CDU-Spitzenposten",
     "Verkehr - ADAC wächst auf 22,2 Millionen Mitglieder",
     "Nach Messerangriff in Hamburg - Unterbringung der Verdächtigen in Klinik angeordnet",
@@ -3003,12 +3000,12 @@
     "»Vereinten Patrioten« in Sachsen und Brandenburg: Ermittler durchsuchen Wohnungen",
     "Russischer Angriffskrieg - Inzwischen 27 Tote in Kiew geborgen",
     "Konjunkturprogramm - Medienberichte: Bund kommt Ländern bei Entlastung für Steuerausfälle entgegen",
-    "Friedrich Merz' Verhandlungen mit Länderchefs: Einigung auf Entlastungen für Steuerausfälle"
+    "Friedrich Merz' Verhandlungen mit Länderchefs: Einigung auf Entlastungen für Steuerausfälle",
+    "Luftkrieg in Nahost - Deutsche verlassen Israel via Jordanien",
+    "Bundespolitik - Kritik an Äußerung von Merz zur \"Drecksarbeit\" Israels im Iran",
+    "Warum die AfD optimistisch auf die Landtagswahl in Sachsen-Anhalt blickt"
   ],
   "hashes": [
-    "b9c258cfdb1a113ea938c9dffd96c68b",
-    "08dc1a9b64f810ea824ce897e1adc42a",
-    "e0fd593ffdfd6d1b2a25d13aff151a35",
     "f823185a7f5abb7769ff060506699888",
     "790f3ca6a37930ce8ab0d36b1d55bea1",
     "9cbed3a4f000ceab76d8ccedbcb31c67",
@@ -4005,6 +4002,9 @@
     "79fe2e4b45e277432644223dac986b01",
     "23c00b510a5d649efb0a518168805c26",
     "9124ff2b865a7bf191ab8e0ef16f0e58",
-    "ffe5ed239ebf36bb0ce321fff9608149"
+    "ffe5ed239ebf36bb0ce321fff9608149",
+    "d218b8c29de51713fadc39ec88bbfdf0",
+    "e69c21de3076aa5a257044b4aae4fdce",
+    "a0641cabe07912649fbae5ea20dfa845"
   ]
 }
