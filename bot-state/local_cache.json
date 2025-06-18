@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-fordert-budapest-zu-abkehr-von-gesetz-gegen-ngos-auf-102.html",
-    "https://www.deutschlandfunk.de/ifo-institut-warnt-vor-drastischem-exportrueckgang-deutscher-unternehmen-bis-zu-60-milliarden-euro-s-102.html",
     "https://www.deutschlandfunk.de/verteidigungsminister-hegseth-schraenkt-zugang-fuer-journalisten-im-pentagon-ein-100.html",
     "https://www.deutschlandfunk.de/beauftraftge-fordern-von-politik-verbindliche-regeln-zur-einbeziehung-von-menschen-mit-behinderungen-100.html",
     "https://www.deutschlandfunk.de/trump-vs-harvard-chance-fuer-deutschland-interview-mit-karl-lauterbach-spd-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kanada-und-indien-beenden-ihre-diplomatische-krise-100.html",
     "https://www.deutschlandfunk.de/irans-oberster-fuehrer-chamenei-droht-israel-100.html",
     "https://www.deutschlandfunk.de/australien-verhaengt-erstmals-sanktionen-gegen-russische-schattenflotte-100.html",
-    "https://www.deutschlandfunk.de/gruenen-politiker-nouripour-fordert-deeskalation-im-iran-konflikt-100.html"
+    "https://www.deutschlandfunk.de/gruenen-politiker-nouripour-fordert-deeskalation-im-iran-konflikt-100.html",
+    "https://www.deutschlandfunk.de/bildungsministerin-prien-begruesst-debatte-ueber-smartphone-verbot-100.html",
+    "https://www.deutschlandfunk.de/richterin-regierung-muss-wieder-geschlechtsneutrale-reisepaesse-ausstellen-100.html"
   ],
   "content_hashes": [
-    "3419e0f4aef990b22969b2fc5b8f6662",
-    "4652d48a8300b9eb61c32bcb2d6f0abf",
     "4c7fadd248ed51aba90d2967f67825c3",
     "d8dfd346b794cda0088bd5a2ccda9a50",
     "632abdb3ff9191eaa22befd3dd07e92a",
@@ -2001,11 +1999,11 @@
     "b3e484f3a0cd4b6050630e1dc1eef378",
     "46ba8a4f3d567ce115e5ee579ee2941d",
     "add12586067b0fe2795bb90538b0d4d5",
-    "0af5d1fcc1ec59bd920b681d705de447"
+    "0af5d1fcc1ec59bd920b681d705de447",
+    "1a6d4e802e0546aa24911aa15a3b61ff",
+    "414eae2d7f865efebf7c4cb875ac90e2"
   ],
   "titles": [
-    "Ungarn - EU-Kommission fordert Budapest zu Abkehr von Gesetz gegen NGOs auf",
-    "US-Strafzölle - Ifo-Institut warnt vor drastischem Exportrückgang deutscher Unternehmen - \"bis zu 60 Milliarden Euro Schaden\"",
     "USA - Verteidigungsminister Hegseth schränkt Zugang für Journalisten im Pentagon ein",
     "\"Mainzer Erklärung\" - Beauftraftge fordern von Politik verbindliche Regeln zur Einbeziehung von Menschen mit Behinderungen",
     "Forschungspolitik - Lauterbach: \"Wir brauchen Universitäten, die so stark sind wie Harvard\"",
@@ -3003,11 +3001,11 @@
     "Bilaterale Beziehungen - Kanada und Indien beenden ihre diplomatische Krise",
     "Newsblog zur Eskalation in Nahost - Irans oberster Führer Chamenei droht Israel",
     "Öltanker - Australien verhängt erstmals Sanktionen gegen russische Schattenflotte",
-    "Nahost - Grünen-Politiker Nouripour fordert Deeskalation im Iran-Konflikt"
+    "Nahost - Grünen-Politiker Nouripour fordert Deeskalation im Iran-Konflikt",
+    "Digitale Medien - Bildungsministerin Prien begrüßt Debatte über Smartphone-Verbot",
+    "USA - Richterin: Regierung muss wieder geschlechtsneutrale Reisepässe ausstellen"
   ],
   "hashes": [
-    "abd005d4e6c0c638e3123a73b12649e0",
-    "320ec4fa8ef44e9b5a8292276ca581da",
     "ebf2aa213d19d87e1bad9e39d0f5b87f",
     "002a811c9802d08bd15042d927dd4f7e",
     "f96f71834456bb0b38d94d454eb09fd6",
@@ -4005,6 +4003,8 @@
     "22ebb8bfb992b4d98af9676ca83c0a57",
     "225ba9465aa80ea32a69c5e658309375",
     "4d1743cc42ea0027cf2c2d2b796dfda6",
-    "f5849cd850112f858016166a5ff30d13"
+    "f5849cd850112f858016166a5ff30d13",
+    "428b4cf823ef5fc0a808b00f4f19858f",
+    "cc2c3643257232a2092ee5e2336bb600"
   ]
 }
