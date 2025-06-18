@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spd-niedersachsen-olaf-lies-zum-neuen-parteichef-gewaehlt-110497668.html",
     "https://www.deutschlandfunk.de/stromnetz-in-cannes-wiederhergestellt-106.html",
     "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-neue-vorsitzende-der-frauen-union-102.html",
     "https://www.faz.net/aktuell/politik/inland/umgang-mit-rechtsaussen-gebt-der-afd-gleiche-rechte-110495254.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/landtagswahl-in-sachsen-anhalt-die-afd-ist-optimistisch-110542621.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-das-waffenrecht-verschaerfen-104.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-mindestens-140-tote-durch-israelische-angriffe-102.html",
-    "https://www.deutschlandfunk.de/ki-bald-fuer-ein-prozent-des-weltweiten-stromverbrauchs-verantwortlich-106.html"
+    "https://www.deutschlandfunk.de/ki-bald-fuer-ein-prozent-des-weltweiten-stromverbrauchs-verantwortlich-106.html",
+    "https://www.deutschlandfunk.de/fed-laesst-leitzinsen-unveraendert-konjunkturprognose-fuer-dieses-jahr-gesenkt-100.html"
   ],
   "content_hashes": [
-    "82b540fba32355547a28213af613d9d2",
     "11385058c93149df44b274a24cfdfb4e",
     "57d07671e5ca375f31933062dfdb2e5c",
     "2fb3bab888ebd46248b4e44d5787c6a2",
@@ -2001,10 +2000,10 @@
     "9437f8815b7d50e1cc24cdf2f217bd31",
     "21347a3fddd9063df1c71d92af1b55c0",
     "540656495951c00f8d810bddd6f5c024",
-    "2a4ed1c1a732b690f6f411b55f8bee77"
+    "2a4ed1c1a732b690f6f411b55f8bee77",
+    "0f98d68585fab40cfd68fb634a485225"
   ],
   "titles": [
-    "SPD Niedersachsen: Olaf Lies zum neuen Parteichef gewählt",
     "Frankreich - Stromnetz in Cannes wiederhergestellt",
     "Reutlingen - Bundesgesundheitsministerin Warken neue Vorsitzende der Frauen-Union",
     "Umgang mit Rechtsaußen: Gebt der AfD gleiche Rechte",
@@ -3003,10 +3002,10 @@
     "Warum die AfD optimistisch auf die Landtagswahl in Sachsen-Anhalt blickt",
     "Waffenrecht - Bundesregierung will das Waffenrecht verschärfen",
     "Gaza-Krieg - Palästinenser melden mindestens 140 Tote durch israelische Angriffe",
-    "Umweltbundesamt - KI bald für ein Prozent des weltweiten Stromverbrauchs verantwortlich"
+    "Umweltbundesamt - KI bald für ein Prozent des weltweiten Stromverbrauchs verantwortlich",
+    "US-Wirtschaft - Fed lässt Leitzinsen unverändert - Konjunkturprognose für dieses Jahr gesenkt"
   ],
   "hashes": [
-    "de28b6778fd519f0b7a3498d6b873a7b",
     "ae8c3460aa37df49b7324e350aa7b3ec",
     "b92c74de84c6f2b3cadfaceeb21dede8",
     "0d1cc012420e9176a1794491bbb282b4",
@@ -4005,6 +4004,7 @@
     "a0641cabe07912649fbae5ea20dfa845",
     "fea1dcd1f36fcb8cf8cb59a42d004f78",
     "a80d6a4715ff0c8c909ffbaa5386d4d3",
-    "f3fed0b18d67a630ddc891edc025e75e"
+    "f3fed0b18d67a630ddc891edc025e75e",
+    "f9ba9eb009b279c761a6dffbf10add47"
   ]
 }
