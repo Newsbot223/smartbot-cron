@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahlreiche-oppositionelle-verhaftet-100.html",
-    "https://www.deutschlandfunk.de/ifo-institut-warnt-vor-drastischem-exportrueckgang-deutscher-unternehmen-bis-zu-60-milliarden-euro-s-100.html",
-    "https://www.deutschlandfunk.de/nrw-wirtschaftsministerin-neubaur-gruene-fordert-wiederaufbau-west-102.html",
-    "https://www.deutschlandfunk.de/bka-warnt-vor-erstarken-rechter-jugendgruppen-102.html",
     "https://www.deutschlandfunk.de/klein-aufrufe-zur-vernichtung-von-staaten-bestrafen-104.html",
     "https://www.deutschlandfunk.de/18-verletzte-bei-messerangriff-am-hamburger-hauptbahnhof-polizei-nimmt-frau-fest-100.html",
     "https://www.deutschlandfunk.de/union-auch-gegen-wahl-von-afd-vizevorsitzenden-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/abtreibungen-in-england-und-wales-bald-grundsaetzlich-nicht-strafbar-100.html",
     "https://www.deutschlandfunk.de/israel-wird-erneut-vom-iran-beschossen-bundesregierung-will-deutsche-staatsbuerger-ausfliegen-100.html",
     "https://www.deutschlandfunk.de/merz-wertet-g7-gipfel-als-erfolg-100.html",
-    "https://www.deutschlandfunk.de/mieten-in-grossen-staedten-haben-sich-in-den-vergangenen-10-jahren-fast-verdoppelt-100.html"
+    "https://www.deutschlandfunk.de/mieten-in-grossen-staedten-haben-sich-in-den-vergangenen-10-jahren-fast-verdoppelt-100.html",
+    "https://www.deutschlandfunk.de/usa-verhindern-gemeinsame-erklaerung-zur-ukraine-merz-wertet-gipfel-dennoch-als-erfolg-100.html",
+    "https://www.deutschlandfunk.de/iran-und-israel-setzen-gegenseitige-angriffe-fort-bundesregierung-will-deutsche-staatsbuerger-ausfli-100.html",
+    "https://www.deutschlandfunk.de/tiktok-erst-ab-16-lehrerverband-gegen-social-media-verbot-fuer-jugendliche-100.html",
+    "https://www.deutschlandfunk.de/kanada-und-indien-beenden-ihre-diplomatische-krise-100.html"
   ],
   "content_hashes": [
-    "ceddab6a19cec1d5e28ce7673a3edb65",
-    "70b145550b3b54cfb70d84aab1033fdc",
-    "a63dc0cb03238fd164d449e208d24a06",
-    "b873f9a3014bab2a75ca1c0ff2fafbeb",
     "6b9eb87f4b8159c6d9b9ccab58a02285",
     "e66ef937d517019f124c768e79b36f99",
     "091d8800f8e6b327b2aa77bae0ea2683",
@@ -2001,13 +1997,13 @@
     "3c951e6c807d47e3d9825b2ec113672c",
     "7414f5bd47b456a0b24761b49c14c2fe",
     "a94b635e4dbc9c799c3036be4cdb4737",
-    "fb0f118fee25d0a2bebc4262850e5f4e"
+    "fb0f118fee25d0a2bebc4262850e5f4e",
+    "9f8c1dd9fc23d0fbc479604ab63a17b2",
+    "9daa3a9554125ef9e50dfe66e0cc681c",
+    "739c8dc2289394d24bfb779fa5e2015f",
+    "b3e484f3a0cd4b6050630e1dc1eef378"
   ],
   "titles": [
-    "Vor Wahlen in Venezuela - Zahlreiche Oppositionelle verhaftet",
-    "US-Strafzölle - Ifo Institut warnt vor drastischem Exportrückgang deutscher Unternehmen - \"bis zu 60 Milliarden Euro Schaden\"",
-    "Sonder-Etats für Infrastruktur - NRW-Wirtschaftsministerin Neubaur (Grüne) fordert \"Wiederaufbau West\"",
-    "Kriminalität - BKA warnt vor Erstarken rechter Jugendgruppen",
     "Antisemitismusbeauftragter - Klein: \"Aufrufe zur Vernichtung von Staaten bestrafen\"",
     "Keine Hinweise auf politisches Motiv - 18 Verletzte bei Messerangriff am Hamburger Hauptbahnhof - Polizei nimmt Frau fest",
     "Bundesstags-Ausschüsse - Union auch gegen Wahl von AfD-Vizevorsitzenden",
@@ -3003,13 +2999,13 @@
     "Schwangerschaftsabbrüche - Abtreibungen in England und Wales bald grundsätzlich nicht strafbar",
     "Nahost - Israel wird erneut vom Iran beschossen - Bundesregierung will deutsche Staatsbürger ausfliegen",
     "Kanada - Merz wertet G7-Gipfel als Erfolg",
-    "Wohnkosten - Mieten in großen Städten haben sich in den vergangenen 10 Jahren fast verdoppelt"
+    "Wohnkosten - Mieten in großen Städten haben sich in den vergangenen 10 Jahren fast verdoppelt",
+    "G7-Gipfel - USA verhindern gemeinsame Erklärung zur Ukraine - Merz wertet Gipfel dennoch als Erfolg",
+    "Nahost - Iran und Israel setzen gegenseitige Angriffe fort - Bundesregierung will deutsche Staatsbürger ausfliegen",
+    "\"Realitätsfern\" - Tiktok erst ab 16? - Lehrerverband gegen Social-Media-Verbot für Jugendliche",
+    "Bilaterale Beziehungen - Kanada und Indien beenden ihre diplomatische Krise"
   ],
   "hashes": [
-    "0b1a91b3bcf490bad7c7168ce648f8b5",
-    "45d5d44e80f9c82512efdf41be05e1ec",
-    "e8398e2c87ea9df6314ab9f4955ac5cc",
-    "a26e07fffbca1034c8cd7bb721723219",
     "3165d43919629790a27cf02ed6f97aa3",
     "104481657d0115697451c7d4c01a1502",
     "4b3acd48e06942bddedd22fce504033a",
@@ -4005,6 +4001,10 @@
     "a0bce3f88af3a81558377255b00013fb",
     "89c0ad8c4e4a702d2f494046a7ee45c7",
     "53a8011a7d7e98c616e2b93a92e031d1",
-    "794645cd91f0a12c372f2a64af937863"
+    "794645cd91f0a12c372f2a64af937863",
+    "59cf261271e731cd1e244c68c567f207",
+    "0a835acd5bd8651697c6f1e4c5f5cb8a",
+    "bf67dd889a37dab79780281676815ae2",
+    "22ebb8bfb992b4d98af9676ca83c0a57"
   ]
 }
