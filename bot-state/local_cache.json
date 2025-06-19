@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-prueft-berichte-ueber-neun-getoetete-geschwister-in-chan-junis-100.html",
-    "https://www.deutschlandfunk.de/dobrindt-kuendigt-entwurf-an-familiennachzug-fuer-zwei-jahre-stoppen-100.html",
     "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-fordert-mehr-einsatz-zur-erhaltung-des-wohlstands-102.html",
     "https://www.deutschlandfunk.de/interview-general-breuer-carsten-generalinspekteur-der-bundeswehr-100.html",
     "https://www.spiegel.de/politik/israel-gaza-krieg-felix-klein-fordert-debatte-ueber-staatsraeson-a-7654ea1b-df94-40f1-933c-a039ae6d6756#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierung-stellt-besondere-hilfshotline-fuer-lgbtq-jugendliche-ein-102.html",
     "https://www.deutschlandfunk.de/santana-und-clapton-planen-neues-woodstock-fuer-den-frieden-102.html",
     "https://www.deutschlandfunk.de/weltweite-krisen-ueberschatten-japan-reise-von-bundespraesident-steinmeier-100.html",
-    "https://www.deutschlandfunk.de/politische-krise-in-thailand-koalitionspartner-zieht-sich-aus-regierung-zurueck-102.html"
+    "https://www.deutschlandfunk.de/politische-krise-in-thailand-koalitionspartner-zieht-sich-aus-regierung-zurueck-102.html",
+    "https://www.deutschlandfunk.de/schweizer-notenbank-senkt-leitzins-auf-null-prozent-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-deutschland-und-japan-sollten-zusammenruecken-102.html"
   ],
   "content_hashes": [
-    "a6d5ee575cdae0c697cf188217bd063f",
-    "9a89a6ef40116cb1fcc2c675e9b54ae7",
     "a821b741da66eac9afa6a9f2f17cacc1",
     "cc1137091fb0a69d904f9ab3e00927f0",
     "7e02237edc1c8196aba0acac58879981",
@@ -2001,11 +1999,11 @@
     "92dadd722cf0e06dcf8ae5def6e0beac",
     "0d06c6d4bb58cf0d7d30fa580f927b7c",
     "802c2b9a31f2ac00ebeecf45c0af2006",
-    "9ae681967016c0a9789d37f42f1fdb91"
+    "9ae681967016c0a9789d37f42f1fdb91",
+    "a7fff14b19bbdbcb25eac3e2767b74a1",
+    "74cc7752f5b28a5e8248f6066a257ab3"
   ],
   "titles": [
-    "Gaza - Israel prüft Berichte über neun getötete Geschwister in Chan Junis",
-    "Migrationspolitik - Dobrindt kündigt Entwurf an: Familiennachzug für zwei Jahre stoppen",
     "Gesellschaft - CDU-Generalsekretär Linnemann fordert mehr Einsatz zur Erhaltung des Wohlstands",
     "Bundeswehr - Generalinspekteur Breuer: Wehrpflicht eine „Rückversicherung“ bei zunehmender Bedrohung",
     "Israel-Gaza-Krieg: Felix Klein fordert Debatte über »Staatsräson«",
@@ -3003,11 +3001,11 @@
     "USA - Regierung stellt besondere Hilfshotline für LGBTQ-Jugendliche ein",
     "\"Oye cómo va\" - Santana und Clapton planen neues \"Woodstock\" für den Frieden",
     "Japan-Reise - Steinmeier wirbt für mehr Kooperation im Bereich Technologie",
-    "Tonband-Leak - Politische Krise in Thailand: Koalitionspartner zieht sich aus Regierung zurück"
+    "Tonband-Leak - Politische Krise in Thailand: Koalitionspartner zieht sich aus Regierung zurück",
+    "Geldpolitik - Schweizer Notenbank senkt Leitzins auf null Prozent",
+    "Besuch in Tokio - Steinmeier: Deutschland und Japan sollten zusammenrücken"
   ],
   "hashes": [
-    "eb5c63b61f5e39f08ab0a1c88c09774d",
-    "676078e6554b8394c9b846f49d28b2b7",
     "c8b9e656fec887b856f801a0c6548f9d",
     "1847007119d9f6bb58da567647e5f80e",
     "953d9b8d4a01302d26f2d886f183e89c",
@@ -4005,6 +4003,8 @@
     "e2cf80b6983db5856e73e5d2da3aa279",
     "be522307c744c8be56dd6b1adfed2471",
     "3ace6b1805923f51a916a44b04a9064d",
-    "a3e5c73c57deb630fec02173a3d2d9df"
+    "a3e5c73c57deb630fec02173a3d2d9df",
+    "1b404341bfb2df79375a9be74013279a",
+    "f9a7211b36d5bff6566313b041cd07cd"
   ]
 }
