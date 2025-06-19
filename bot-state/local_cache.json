@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nsu-dokumentationszentrum-in-chemnitz-ausgerechnet-in-der-stadt-der-taeter-110495569.html",
-    "https://www.deutschlandfunk.de/verstaatlichung-privater-bahnbetriebe-in-grossbritannien-begonnen-100.html",
-    "https://www.deutschlandfunk.de/abschaffung-von-25-beauftragten-in-ministerien-fuehrt-laut-medienbericht-nur-zu-geringer-kosteneinsp-100.html",
-    "https://www.deutschlandfunk.de/parlamentswahl-in-venezuela-begonnen-102.html",
     "https://www.deutschlandfunk.de/dobrindt-will-familiennachzug-fuer-zwei-jahre-stoppen-100.html",
     "https://www.deutschlandfunk.de/schweiz-prueft-verfahren-gegen-von-den-usa-unterstuetzte-organisation-ghf-100.html",
     "https://www.deutschlandfunk.de/marburger-bund-gegen-abschaffung-der-taeglichen-hoechstarbeitszeit-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/politik/deutschland/jens-spahn-ex-gesundheitsminister-weis-vorwuerfe-ueber-corona-masken-zurueck-a-5ee9fea9-4917-46b0-b10f-29787fa5fd43#ref=rss",
     "https://www.deutschlandfunk.de/polizei-durchsucht-wohnung-von-verdaechtigem-100.html",
     "https://www.deutschlandfunk.de/unhcr-warnt-vor-dramatischer-unterfinanzierung-der-fluechtlingshilfe-100.html",
-    "https://www.deutschlandfunk.de/airbus-erhaelt-bestellungen-fuer-mehr-als-250-maschinen-100.html"
+    "https://www.deutschlandfunk.de/airbus-erhaelt-bestellungen-fuer-mehr-als-250-maschinen-100.html",
+    "https://www.deutschlandfunk.de/menschenrechtsorganisationen-fordern-aussetzung-des-eu-israel-abkommens-100.html",
+    "https://www.deutschlandfunk.de/auch-finnland-steigt-aus-internationalem-abkommen-aus-102.html",
+    "https://www.deutschlandfunk.de/polizei-verbietet-pride-parade-in-budapest-102.html",
+    "https://www.faz.net/aktuell/politik/inland/verwaltungsreform-berlin-will-endlich-funktionieren-110545607.html"
   ],
   "content_hashes": [
-    "92aa3b004c21bce0b5d8f9d318a182d6",
-    "ffa1d8c53144f3110e537996a4b7d181",
-    "8ef8df3f249e3dd7e80f7aa1caccf7fc",
-    "091e96a006c7ac81ff786ba272b341f7",
     "3e984e243f8e0a2101523822716a2edb",
     "c1e1d1a6b24429d896547f7655bf2386",
     "833081bdb3bf167c0d85bbb7fe4efe85",
@@ -2001,13 +1997,13 @@
     "2012e7d88fe8c80dec6f405369e8e157",
     "518cbcc29d8eaf9520aad5b202f6f66e",
     "d7d34ce186e9daa64da1f4f37075b552",
-    "0f47c3e937642f99efc5ca729b30a1c6"
+    "0f47c3e937642f99efc5ca729b30a1c6",
+    "8c58b24705a148e9a33fb1101bb1247c",
+    "0b419038ef019998023cd29a8bf6011e",
+    "e54c8064997397674978cd6f1c2725bc",
+    "56b5680c7b8e97cef60c76d573459a64"
   ],
   "titles": [
-    "NSU-Dokumentationszentrum: Ausgerechnet in der Stadt der Täter",
-    "Labour-Wahlversprechen - Verstaatlichung privater Bahnbetriebe in Großbritannien begonnen",
-    "Kabinettsbeschluss - Abschaffung von 25 Beauftragten in Ministerien führt laut Medienbericht nur zu geringer Kosteneinsparung",
-    "Umstrittene Abstimmung - Parlamentswahl in Venezuela begonnen",
     "Gesetzentwurf zu Migrationspolitik - Dobrindt will Familiennachzug für zwei Jahre stoppen",
     "Gaza-Hilfe - Schweiz prüft Verfahren gegen von den USA unterstützte Organisation GHF",
     "Wochenstunden statt Tagesmaximum - Marburger Bund gegen Abschaffung der täglichen Höchstarbeitszeit",
@@ -3003,13 +2999,13 @@
     "Jens Spahn: Ex-Gesundheitsminister weis Vorwürfe über Corona-Masken zurück",
     "Bad Freienwalde - Polizei durchsucht Wohnung von Verdächtigem",
     "Weltflüchtlingstag - UNHCR warnt vor dramatischer Unterfinanzierung der Flüchtlingshilfe",
-    "Luftfahrtmesse - Airbus erhält Bestellungen für mehr als 250 Maschinen"
+    "Luftfahrtmesse - Airbus erhält Bestellungen für mehr als 250 Maschinen",
+    "Gaza-Krieg - Menschenrechtsorganisationen fordern Aussetzung des EU-Israel-Abkommens",
+    "Antipersonenminen - Auch Finnland steigt aus internationalem Abkommen aus",
+    "Ungarn - Polizei verbietet \"Pride Parade\" in Budapest",
+    "Berliner Verwaltungsreform: Berlin will endlich funktionieren"
   ],
   "hashes": [
-    "1d0fe1f4a4ff9ea2e5f2bc8c143407d8",
-    "b9f9958c16aee7e69bf33b2c88df7c2c",
-    "8240c1092f7e6038bdd683866d0326c0",
-    "c5f53ba7e801064489e86027747e1d9e",
     "ead1a7fa3cfdd63a73c8f1dc31e8ead9",
     "3aad2fffd9f0cb65962071132995bace",
     "5bcf049ff765d3e21fd100542347b4c6",
@@ -4005,6 +4001,10 @@
     "e755977694a783236a00f5e47e06e089",
     "901e608ac857b9d092c854be0f63fc03",
     "e5eb077548f35ff0e82a3bb003d35580",
-    "6f421393e8ef272b505dabf5f50befe6"
+    "6f421393e8ef272b505dabf5f50befe6",
+    "b963eee274207d3dfa9ff7de8b93d834",
+    "576f8fb42f6970978dc9e576722b6276",
+    "f9d24ef9cb8f12bdb2a752041c4b7499",
+    "1c98c9630e18b4e4f8b5ecfd925177a4"
   ]
 }
