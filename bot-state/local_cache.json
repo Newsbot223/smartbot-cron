@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dobrindt-will-familiennachzug-fuer-zwei-jahre-stoppen-100.html",
-    "https://www.deutschlandfunk.de/schweiz-prueft-verfahren-gegen-von-den-usa-unterstuetzte-organisation-ghf-100.html",
-    "https://www.deutschlandfunk.de/marburger-bund-gegen-abschaffung-der-taeglichen-hoechstarbeitszeit-100.html",
-    "https://www.faz.net/aktuell/politik/inland/zentralkomitee-der-deutschen-katholiken-ueberschaetzt-sich-110498643.html",
     "https://www.deutschlandfunk.de/europaeische-und-arabische-staaten-beraten-ueber-humanitaere-hilfe-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/iran-bestellt-franzoesischen-chefdiplomaten-ein-100.html",
     "https://www.deutschlandfunk.de/zahlreiche-aktionen-fuer-bezahlbare-mieten-am-wochenende-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/menschenrechtsorganisationen-fordern-aussetzung-des-eu-israel-abkommens-100.html",
     "https://www.deutschlandfunk.de/auch-finnland-steigt-aus-internationalem-abkommen-aus-102.html",
     "https://www.deutschlandfunk.de/polizei-verbietet-pride-parade-in-budapest-102.html",
-    "https://www.faz.net/aktuell/politik/inland/verwaltungsreform-berlin-will-endlich-funktionieren-110545607.html"
+    "https://www.faz.net/aktuell/politik/inland/verwaltungsreform-berlin-will-endlich-funktionieren-110545607.html",
+    "https://www.deutschlandfunk.de/spanien-lehnt-hoehere-verteidigungsausgaben-ab-100.html",
+    "https://www.deutschlandfunk.de/eu-parlament-will-illegalen-tierhandel-eindaemmen-100.html",
+    "https://www.deutschlandfunk.de/friedensnobelpreistraegerinnen-fordern-kriegsende-102.html",
+    "https://www.deutschlandfunk.de/aetna-ausgebrochen-100.html"
   ],
   "content_hashes": [
-    "3e984e243f8e0a2101523822716a2edb",
-    "c1e1d1a6b24429d896547f7655bf2386",
-    "833081bdb3bf167c0d85bbb7fe4efe85",
-    "2b2a2e2d069386e2218a89c3dce93952",
     "d22177ce20c9e459a1f7e54e2377d094",
     "2d611b0cb43fff2b64a885c68f828f1a",
     "b445180d5892a40e77e7119c762ae521",
@@ -2001,13 +1997,13 @@
     "8c58b24705a148e9a33fb1101bb1247c",
     "0b419038ef019998023cd29a8bf6011e",
     "e54c8064997397674978cd6f1c2725bc",
-    "56b5680c7b8e97cef60c76d573459a64"
+    "56b5680c7b8e97cef60c76d573459a64",
+    "a25bc1bf16b5eec001fe2e95fd9de59e",
+    "bbc18253800b89c7c56dcaeceaa75bee",
+    "a8d8a92d20842cd134f26903225733e4",
+    "8e6037a9b6bdf8a66b4342c69344174a"
   ],
   "titles": [
-    "Gesetzentwurf zu Migrationspolitik - Dobrindt will Familiennachzug für zwei Jahre stoppen",
-    "Gaza-Hilfe - Schweiz prüft Verfahren gegen von den USA unterstützte Organisation GHF",
-    "Wochenstunden statt Tagesmaximum - Marburger Bund gegen Abschaffung der täglichen Höchstarbeitszeit",
-    "Kommentar zum Zentralkomitee der Katholiken: Zu provinziell für den neuen Papst",
     "Madrid - Europäische und arabische Staaten beraten über humanitäre Hilfe im Gazastreifen",
     "Nach Cannes-Äußerungen - Iran bestellt französischen Chefdiplomaten ein",
     "Mietenstopp-Kampagne - Zahlreiche Aktionen für bezahlbare Mieten am Wochenende",
@@ -3003,13 +2999,13 @@
     "Gaza-Krieg - Menschenrechtsorganisationen fordern Aussetzung des EU-Israel-Abkommens",
     "Antipersonenminen - Auch Finnland steigt aus internationalem Abkommen aus",
     "Ungarn - Polizei verbietet \"Pride Parade\" in Budapest",
-    "Berliner Verwaltungsreform: Berlin will endlich funktionieren"
+    "Berliner Verwaltungsreform: Berlin will endlich funktionieren",
+    "NATO - Spanien lehnt höhere Verteidigungsausgaben ab",
+    "Europa - EU-Parlament will illegalen Tierhandel eindämmen",
+    "Israel-Iran-Konflikt - Friedensnobelpreisträgerinnen fordern Kriegsende",
+    "Italien - Ätna ausgebrochen"
   ],
   "hashes": [
-    "ead1a7fa3cfdd63a73c8f1dc31e8ead9",
-    "3aad2fffd9f0cb65962071132995bace",
-    "5bcf049ff765d3e21fd100542347b4c6",
-    "89b0d0682f1f06d951c10bc63a0bb49a",
     "3648b4724e2b43cbb8d4af69a9540a7a",
     "1d225ed6efdfaf721bc5798f07d599b6",
     "a2704bd1a0a3d1ee13bb6f95cc230c70",
@@ -4005,6 +4001,10 @@
     "b963eee274207d3dfa9ff7de8b93d834",
     "576f8fb42f6970978dc9e576722b6276",
     "f9d24ef9cb8f12bdb2a752041c4b7499",
-    "1c98c9630e18b4e4f8b5ecfd925177a4"
+    "1c98c9630e18b4e4f8b5ecfd925177a4",
+    "acf6fc13815fb0ff35134e6be8abf44d",
+    "3de8295826a712412ec9d4a13a185e9b",
+    "70f2b778bfa2dc40fe2154f3b4b9e41a",
+    "47ddfdcbe4f0c189346d87644785dd08"
   ]
 }
