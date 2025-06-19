@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-laeuft-102.html",
-    "https://www.deutschlandfunk.de/asean-gipfel-beginnt-in-malaysia-lage-in-myanmar-und-zollkonflikt-im-mittelpunkt-100.html",
     "https://www.deutschlandfunk.de/usa-verlaengern-frist-fuer-einigung-mit-eu-bis-zum-9-juli-102.html",
     "https://www.deutschlandfunk.de/voellig-verrueckt-geworden-trump-kritisiert-putin-fuer-russische-grossangriffe-auf-ukrainische-staed-100.html",
     "https://www.deutschlandfunk.de/israel-will-drei-viertel-des-gazastreifens-unter-kontrolle-bringen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/afd-fluegel-uneins-ueber-beurteilung-israelischer-angriffe-110546439.html",
     "https://www.deutschlandfunk.de/bahnchef-lutz-familienreservierung-wurde-haeufig-von-kleingruppen-zweckentfremdet-100.html",
     "https://www.deutschlandfunk.de/trump-gibt-tiktok-die-naechste-verlaengerung-in-den-usa-100.html",
-    "https://www.deutschlandfunk.de/hamas-behoerde-meldet-76-tote-durch-angriffe-im-gazastreifen-keine-angaben-aus-israel-102.html"
+    "https://www.deutschlandfunk.de/hamas-behoerde-meldet-76-tote-durch-angriffe-im-gazastreifen-keine-angaben-aus-israel-102.html",
+    "https://www.deutschlandfunk.de/who-verurteilt-angriffe-auf-krankenhaeuser-in-israel-und-dem-iran-100.html",
+    "https://www.deutschlandfunk.de/arcelormittal-steigt-in-deutschland-aus-der-geplanten-stahlproduktion-mit-wasserstoff-aus-100.html"
   ],
   "content_hashes": [
-    "a7cb0c0c9f8eb5e24444271b4a22a292",
-    "1ae17a91d434355effd03c4537f547ac",
     "5d84b3d29f3819eb2b28958c8301879e",
     "6c512eb0e7dfe7a87d6d0ca02669e31e",
     "196b4ee679580068ab3f0528c5dd4188",
@@ -2001,11 +1999,11 @@
     "974ad499ebe3854a22b53baa4004c0a7",
     "3987f704eb23a80110d5a5ca8bd80ee5",
     "aa3fd9494ac742d16403d17c80cfcbe9",
-    "72d3fd1f142d86f7ba148bebb3dcebc2"
+    "72d3fd1f142d86f7ba148bebb3dcebc2",
+    "68e49bccb84f04b344fde9585747ab03",
+    "84d9eb8c92bdae9b231e21f30c666861"
   ],
   "titles": [
-    "Venezuela - Umstrittene Parlamentswahl läuft",
-    "Südostasien - ASEAN-Gipfel beginnt in Malaysia - Lage in Myanmar und Zollkonflikt im Mittelpunkt",
     "Handelskonflikt - USA verlängern Frist für Einigung mit EU bis zum 9. Juli",
     "Ukraine-Krieg - \"Völlig verrückt geworden\" - Trump kritisiert Putin für russische Großangriffe auf ukrainische Städte",
     "Nahost - Israel will drei Viertel des Gazastreifens unter Kontrolle bringen",
@@ -3003,11 +3001,11 @@
     "AfD-Flügel uneins über israelische Angriffe",
     "Verkehr - Bahnchef Lutz: Familienreservierung wurde häufig von Kleingruppen zweckentfremdet",
     "US-Politik - Trump gibt Tiktok die nächste Verlängerung in den USA",
-    "Palästinensergebiet - Hamas-Behörde meldet 76 Tote durch Angriffe im Gazastreifen - keine Angaben aus Israel"
+    "Palästinensergebiet - Hamas-Behörde meldet 76 Tote durch Angriffe im Gazastreifen - keine Angaben aus Israel",
+    "Nahost - WHO verurteilt Angriffe auf Krankenhäuser in Israel und dem Iran",
+    "Industrie - ArcelorMittal steigt in Deutschland aus der geplanten Stahlproduktion mit Wasserstoff aus"
   ],
   "hashes": [
-    "fb8ff411917638ff90276bad81a530da",
-    "3bca246e02e06741a29c4d0ae9b67d46",
     "d0558d5b5092f1c3e65bb72a9aaa1d2e",
     "907dfee0542347a758ad82308c2eceb8",
     "b49a9f81edae10666e80f63f1690aee2",
@@ -4005,6 +4003,8 @@
     "2ead88a39a7357b151c7b87159b1655d",
     "0e4c8e8a3b3190d27f91f718dc2ae8c2",
     "3448f0a9c08c944021ee3ef1d0b1fb02",
-    "2a7865ddec29ad0a52ed5f64e2c5b459"
+    "2a7865ddec29ad0a52ed5f64e2c5b459",
+    "d71ac2504183e67f82a4c234aa7f88cb",
+    "3e3f385e0656f9de4876bf854dae601c"
   ]
 }
