@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/europaeische-und-arabische-staaten-beraten-ueber-humanitaere-hilfe-im-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/iran-bestellt-franzoesischen-chefdiplomaten-ein-100.html",
     "https://www.deutschlandfunk.de/zahlreiche-aktionen-fuer-bezahlbare-mieten-am-wochenende-102.html",
     "https://www.deutschlandfunk.de/zeremonien-zur-amtseinfuehrung-von-papst-leo-xiv-beendet-102.html",
     "https://www.deutschlandfunk.de/rotes-kreuz-meldet-den-tod-von-mitarbeitern-bei-israelischen-angriffen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/spanien-lehnt-hoehere-verteidigungsausgaben-ab-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-will-illegalen-tierhandel-eindaemmen-100.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerinnen-fordern-kriegsende-102.html",
-    "https://www.deutschlandfunk.de/aetna-ausgebrochen-100.html"
+    "https://www.deutschlandfunk.de/aetna-ausgebrochen-100.html",
+    "https://www.deutschlandfunk.de/agora-energiewende-kritisiert-milliardenluecke-beim-klimaschutz-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundestagswahlkampf-vier-maenner-nach-attacken-auf-spd-politiker-verurteilt-110546222.html"
   ],
   "content_hashes": [
-    "d22177ce20c9e459a1f7e54e2377d094",
-    "2d611b0cb43fff2b64a885c68f828f1a",
     "b445180d5892a40e77e7119c762ae521",
     "8746f235d22770cd59d4a389f4a0590d",
     "317ad144cde1f10f4adf92e8acb05d70",
@@ -2001,11 +1999,11 @@
     "a25bc1bf16b5eec001fe2e95fd9de59e",
     "bbc18253800b89c7c56dcaeceaa75bee",
     "a8d8a92d20842cd134f26903225733e4",
-    "8e6037a9b6bdf8a66b4342c69344174a"
+    "8e6037a9b6bdf8a66b4342c69344174a",
+    "ef8c7f17b2ac27f17aa1be078eec043f",
+    "0ee8efb6e23de08ab6ccc3d8c625308d"
   ],
   "titles": [
-    "Madrid - Europäische und arabische Staaten beraten über humanitäre Hilfe im Gazastreifen",
-    "Nach Cannes-Äußerungen - Iran bestellt französischen Chefdiplomaten ein",
     "Mietenstopp-Kampagne - Zahlreiche Aktionen für bezahlbare Mieten am Wochenende",
     "Vatikan - Zeremonien zur Amtseinführung von Papst Leo XIV. beendet",
     "Gazastreifen - Rotes Kreuz meldet den Tod von Mitarbeitern bei israelischen Angriffen",
@@ -3003,11 +3001,11 @@
     "NATO - Spanien lehnt höhere Verteidigungsausgaben ab",
     "Europa - EU-Parlament will illegalen Tierhandel eindämmen",
     "Israel-Iran-Konflikt - Friedensnobelpreisträgerinnen fordern Kriegsende",
-    "Italien - Ätna ausgebrochen"
+    "Italien - Ätna ausgebrochen",
+    "Haushaltsplanungen - \"Agora Energiewende\" kritisiert Milliardenlücke beim Klimaschutz",
+    "Bundestagswahlkampf: Vier Männer nach Attacken auf SPD-Politiker verurteilt"
   ],
   "hashes": [
-    "3648b4724e2b43cbb8d4af69a9540a7a",
-    "1d225ed6efdfaf721bc5798f07d599b6",
     "a2704bd1a0a3d1ee13bb6f95cc230c70",
     "3d402b02e09896ef051664079027017e",
     "ddb41eb50929eec5acc420297f253071",
@@ -4005,6 +4003,8 @@
     "acf6fc13815fb0ff35134e6be8abf44d",
     "3de8295826a712412ec9d4a13a185e9b",
     "70f2b778bfa2dc40fe2154f3b4b9e41a",
-    "47ddfdcbe4f0c189346d87644785dd08"
+    "47ddfdcbe4f0c189346d87644785dd08",
+    "55c1931056dbf7cc013944ec87b4ebf1",
+    "2dc67576a8146fea7b62140c23c21888"
   ]
 }
