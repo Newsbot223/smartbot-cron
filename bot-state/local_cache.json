@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/viele-tote-bei-israelischem-angriff-auf-hamas-kommandozentrale-palaestinenser-sprechen-von-attacke-a-102.html",
-    "https://www.deutschlandfunk.de/iranischer-sicherheitsrat-setzt-umstrittenes-kopftuchgesetz-aus-100.html",
     "https://www.deutschlandfunk.de/fruehere-vw-manager-wegen-dieselskandal-zu-haft-verurteilt-102.html",
     "https://www.deutschlandfunk.de/humanitaere-hilfe-fuer-die-ukraine-interview-mit-oliver-mueller-caritas-100.html",
     "https://www.deutschlandfunk.de/ukraine-meldet-groessten-russischen-drohnenangriff-seit-kriegsbeginn-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-will-ueber-200-zusaetzliche-stellen-schaffen-100.html",
     "https://www.deutschlandfunk.de/steinmeier-eroeffnet-nationentag-bei-der-expo-2025-in-osaka-100.html",
     "https://www.deutschlandfunk.de/feuerwehr-chef-gaffer-sollten-fuehrerschein-verlieren-koennen-102.html",
-    "https://www.deutschlandfunk.de/uno-gewalt-gegen-kinder-in-konflikten-erreicht-neuen-hoechststand-102.html"
+    "https://www.deutschlandfunk.de/uno-gewalt-gegen-kinder-in-konflikten-erreicht-neuen-hoechststand-102.html",
+    "https://www.deutschlandfunk.de/wadephul-fordert-mehr-verlaesslichkeit-vom-iran-100.html",
+    "https://www.deutschlandfunk.de/aetna-ist-ausgebrochen-100.html"
   ],
   "content_hashes": [
-    "6fabb398dbcadb01493d09102caebdde",
-    "7cd7955da20f6097ca65b377d6b6653c",
     "128ebf7a0afc5e8452864e7c9d400a95",
     "ba5dfab9bf578e17565d3e620dca3979",
     "c677e41e0bb054d985a0e7b2e477367a",
@@ -2001,11 +1999,11 @@
     "2f82976ea81c26ef454a9c0fa4edf60c",
     "4b7c34c0ccf219a8419f747e2b66d17b",
     "1ab828cab70cb5adb13710bcf7cc3167",
-    "28fe6bbd012985c1919f8a552503f8f1"
+    "28fe6bbd012985c1919f8a552503f8f1",
+    "994b3d4ac9599587565ff0f899839d17",
+    "3853d309193cb89dd3a2fb67f45d8a74"
   ],
   "titles": [
-    "Gazastreifen - Viele Tote bei israelischem Angriff auf Hamas-Kommandozentrale; Palästinenser sprechen von Attacke auf Schule",
-    "Frauenrechte im Iran - Sicherheitsrat setzt umstrittenes Kopftuchgesetz aus",
     "Braunschweig - Frühere VW-Manager wegen Dieselskandal zu Haft verurteilt",
     "Krieg in der Ukraine - Caritas: Psychologische Hilfe ist die größte Herausforderung",
     "Russischer Angriffskrieg - Ukraine meldet größten russischen Drohnenangriff seit Kriegsbeginn",
@@ -3003,11 +3001,11 @@
     "Medienberichte - Bundesregierung will über 200 zusätzliche Stellen schaffen",
     "Japan-Reise - Steinmeier eröffnet Nationentag bei der Expo 2025 in Osaka",
     "Behinderung von Einsätzen - Feuerwehr-Chef: Gaffer sollten Führerschein verlieren können",
-    "Bericht - UNO: Gewalt gegen Kinder in Konflikten erreicht neuen Höchststand"
+    "Bericht - UNO: Gewalt gegen Kinder in Konflikten erreicht neuen Höchststand",
+    "Nahost - Wadephul fordert mehr Verlässlichkeit vom Iran",
+    "Italien - Ätna ist ausgebrochen"
   ],
   "hashes": [
-    "897ab494b13564b966bb2b7cf19f06dc",
-    "37b328054189b3d565054f1e39b33532",
     "a7e34d9f94a2cd8faa9135524e89d1a2",
     "7d81d2fbfb2662e07d0e9dfc268f818c",
     "8f99cabc8efc63bd893b5e740087fda8",
@@ -4005,6 +4003,8 @@
     "e6fd4870584f00297e78a14c7b31053b",
     "35d4aba2fa3a04bf00944eec8ed643bd",
     "7a558c06fea37ad692e405bcd1328cf2",
-    "678e3669cdaa7ea7ae5b17306ff6ffa3"
+    "678e3669cdaa7ea7ae5b17306ff6ffa3",
+    "345c623c77577ac051342fc9a8a3355a",
+    "d33fdf6b9329e02ab9e11cdcbbdbde6f"
   ]
 }
