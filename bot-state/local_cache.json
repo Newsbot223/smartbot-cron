@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ex-ministerin-angela-dorn-gruene-verabschiedet-sich-aus-der-politik-110502001.html",
-    "https://www.deutschlandfunk.de/deutscher-aerztetag-gesundheitsministerin-warken-will-buerokratieabbau-fuer-praxen-vorantreiben-100.html",
-    "https://www.deutschlandfunk.de/hermann-parzinger-nach-17-jahren-im-amt-verabschiedet-102.html",
-    "https://www.deutschlandfunk.de/rechtspopulist-georgescu-erklaert-rueckzug-aus-der-politik-100.html",
     "https://www.deutschlandfunk.de/russische-vermoegen-fuer-ukraine-interview-annegret-kramp-karrenbauer-cdu-100.html",
     "https://www.deutschlandfunk.de/suedostasiatische-staaten-wollen-sich-bei-zollpolitik-nicht-gegeneinander-ausspielen-lassen-100.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-und-aussenminister-wadepfuhl-kritisieren-israels-einsatz-im-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/gespraeche-zwischen-eu-und-iran-ueber-nuklearprogramm-in-genf-weitere-angriffe-zwischen-israel-und-i-100.html",
     "https://www.deutschlandfunk.de/spahn-maskenbericht-soll-doch-an-haushaltsausschuss-gehen-100.html",
     "https://www.deutschlandfunk.de/putin-will-ruestungsindustrie-weiter-ausbauen-100.html",
-    "https://www.deutschlandfunk.de/thyssenkrupp-chef-l-pez-erhaelt-neuen-vertrag-bis-100.html"
+    "https://www.deutschlandfunk.de/thyssenkrupp-chef-l-pez-erhaelt-neuen-vertrag-bis-100.html",
+    "https://www.deutschlandfunk.de/verletzte-in-israel-nach-iranischen-angriffen-luftalarm-ueber-buschehr-102.html",
+    "https://www.deutschlandfunk.de/bas-spd-sanktionen-beim-buergergeld-werden-nicht-zu-einsparungen-fuehren-100.html",
+    "https://www.deutschlandfunk.de/britische-abgeordnete-stimmen-fuer-legalisierung-der-sterbehilfe-100.html",
+    "https://www.deutschlandfunk.de/gefaehrdete-afghanen-wollen-einreise-nach-deutschland-einklagen-100.html"
   ],
   "content_hashes": [
-    "4c1ea735996706a88c116d212410b995",
-    "a9bb3552c7c60764b558873b59a56daa",
-    "1d3304946602cef9d9d85fbe1b500e2f",
-    "e7913362cf666691bd162ae1c9b84aba",
     "a67ca56ff70a68cda55d26362b0bbdd3",
     "f5c4668a08b821ea6a83cda96fc647ac",
     "23cb8a8c3e5b7862b2a97dcbec6612e2",
@@ -2001,13 +1997,13 @@
     "becb50369758bfa2595dd8a4d5390d92",
     "f0f6453d302412e75e30e89de2520477",
     "9a2525f1b68bf1bd57b6e5d0e1fd11c6",
-    "d97870febe55de4b081cc536523509da"
+    "d97870febe55de4b081cc536523509da",
+    "cf363b3b8019abc32440a8f127985afb",
+    "95c72d6c303a331fcb01947e872d5f79",
+    "f32b28b13ad4aa26735664c3bb4dd51a",
+    "49c7bba407ddae1c33fd42745deba3d6"
   ],
   "titles": [
-    "Hessischer Landtag: Ex-Ministerin Angela Dorn legt ihr Mandat nieder",
-    "Leipzig - Deutscher Ärztetag: Gesundheitsministerin Warken will Bürokratieabbau für Praxen vorantreiben",
-    "Stiftung Preußischer Kulturbesitz - Hermann Parzinger nach 17 Jahren im Amt verabschiedet",
-    "Rumänien - Rechtspopulist Georgescu erklärt Rückzug aus der Politik",
     "Kramp-Karrenbauer (CDU) - Eingefrorenes russisches Vermögen für Ukraine nutzen",
     "Asean-Gipfel - Südostasiatische Staaten wollen sich bei Zollpolitik nicht gegeneinander ausspielen lassen",
     "Nahost - EU-Kommissionspräsidentin von der Leyen und Außenminister Wadepfuhl kritisieren Israels Einsatz im Gazastreifen",
@@ -3003,13 +2999,13 @@
     "Newsblog zur Eskalation in Nahost - Gespräche zwischen EU und Iran über Nuklearprogramm in Genf - Weitere Angriffe zwischen Israel und Iran",
     "Masken-Affäre um Spahn - Bericht soll doch an Haushaltsausschuss gehen",
     "Wirtschaftsforum Sankt Petersburg - Putin will Rüstungsindustrie weiter ausbauen",
-    "Essen - Thyssenkrupp-Chef López erhält neuen Vertrag bis 2031"
+    "Essen - Thyssenkrupp-Chef López erhält neuen Vertrag bis 2031",
+    "Nahost - Verletzte in Israel nach iranischen Angriffen - Luftalarm über Buschehr",
+    "Interview der Woche - Bas (SPD): \"Sanktionen beim Bürgergeld werden nicht zu Einsparungen führen\"",
+    "England und Wales - Britische Abgeordnete stimmen für Legalisierung der Sterbehilfe",
+    "Migration - Gefährdete Afghanen wollen Einreise nach Deutschland einklagen"
   ],
   "hashes": [
-    "9373edc8967b752c61f08fbd9342c04c",
-    "cb91e24447b6bdd351356a157ffcd70e",
-    "a2bb7ab837f86e0d29bf4c210e8707ee",
-    "00fa40b31846e372e1728e7679604522",
     "c2deb2dfabaa1dd0c69ee2c2eee03cf2",
     "1904c88e6755abf5d2642b0fb90c54ae",
     "4f8293ffb5bcd81f5b7e6e7e6adc6499",
@@ -4005,6 +4001,10 @@
     "87c2897a246f96c732ffc7498412809e",
     "1c140abe598ed098b03e3f347b83ef5c",
     "3c3854aba775cb5de3b31f8b7fe7fbe7",
-    "491e73cd2980cc5951ecdbba165bfa36"
+    "491e73cd2980cc5951ecdbba165bfa36",
+    "392d62afe643ba8e1fba35148793c0e4",
+    "ef7679389088d52c264fedb2d585bb46",
+    "59cc8054d05ffaed4a5cb05f8b8137f2",
+    "7015b75be206936ebf6451cf2e3a9782"
   ]
 }
