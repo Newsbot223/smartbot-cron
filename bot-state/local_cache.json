@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fruehere-vw-manager-wegen-dieselskandal-zu-haft-verurteilt-102.html",
-    "https://www.deutschlandfunk.de/humanitaere-hilfe-fuer-die-ukraine-interview-mit-oliver-mueller-caritas-100.html",
-    "https://www.deutschlandfunk.de/ukraine-meldet-groessten-russischen-drohnenangriff-seit-kriegsbeginn-102.html",
     "https://www.deutschlandfunk.de/lufthansa-und-tochtergesellschaften-setzen-israel-fluege-fuer-weitere-woche-aus-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-bereitet-antrittsbesuch-in-den-usa-vor-100.html",
     "https://www.deutschlandfunk.de/dan-tritt-praesidentenamt-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/feuerwehr-chef-gaffer-sollten-fuehrerschein-verlieren-koennen-102.html",
     "https://www.deutschlandfunk.de/uno-gewalt-gegen-kinder-in-konflikten-erreicht-neuen-hoechststand-102.html",
     "https://www.deutschlandfunk.de/wadephul-fordert-mehr-verlaesslichkeit-vom-iran-100.html",
-    "https://www.deutschlandfunk.de/aetna-ist-ausgebrochen-100.html"
+    "https://www.deutschlandfunk.de/aetna-ist-ausgebrochen-100.html",
+    "https://www.deutschlandfunk.de/usa-entscheidung-ueber-iran-eingreifen-innerhalb-von-zwei-wochen-100.html",
+    "https://www.spiegel.de/wirtschaft/fuer-fairen-wettbewerb-berlin-fordert-zoelle-auf-billigwaren-a-238001c1-4ca5-42b5-a903-72d4fea4b9fb#ref=rss",
+    "https://www.spiegel.de/kultur/musik/roxette-konzert-per-gessle-kommt-mit-neuer-saengerin-nach-deutschland-a-7b70b797-e363-4aee-a6af-6dc427b057fb#ref=rss"
   ],
   "content_hashes": [
-    "128ebf7a0afc5e8452864e7c9d400a95",
-    "ba5dfab9bf578e17565d3e620dca3979",
-    "c677e41e0bb054d985a0e7b2e477367a",
     "da9025b005386e6fc7462f0337243175",
     "22b5c4d3d1fd53f85c4c7cb2f81fe000",
     "115ad0fc9e9314138472ec7954117f40",
@@ -2001,12 +1998,12 @@
     "1ab828cab70cb5adb13710bcf7cc3167",
     "28fe6bbd012985c1919f8a552503f8f1",
     "994b3d4ac9599587565ff0f899839d17",
-    "3853d309193cb89dd3a2fb67f45d8a74"
+    "3853d309193cb89dd3a2fb67f45d8a74",
+    "e4e84d0d3ecf524aefd5d8aef441ec8f",
+    "b879c9fa7b586c8ad7e36e564dc2461f",
+    "79ad91159fc5b85784db8b7e46c43439"
   ],
   "titles": [
-    "Braunschweig - Frühere VW-Manager wegen Dieselskandal zu Haft verurteilt",
-    "Krieg in der Ukraine - Caritas: Psychologische Hilfe ist die größte Herausforderung",
-    "Russischer Angriffskrieg - Ukraine meldet größten russischen Drohnenangriff seit Kriegsbeginn",
     "Krieg im Nahen Osten - Lufthansa und Tochtergesellschaften setzen Israel-Flüge für weitere Woche aus",
     "Washington - Außenminister Wadephul bereitet Antrittsbesuch in den USA vor",
     "Rumänien - Dan tritt Präsidentenamt an",
@@ -3003,12 +3000,12 @@
     "Behinderung von Einsätzen - Feuerwehr-Chef: Gaffer sollten Führerschein verlieren können",
     "Bericht - UNO: Gewalt gegen Kinder in Konflikten erreicht neuen Höchststand",
     "Nahost - Wadephul fordert mehr Verlässlichkeit vom Iran",
-    "Italien - Ätna ist ausgebrochen"
+    "Italien - Ätna ist ausgebrochen",
+    "Israel-Iran-Konflikt - Trump will binnen zwei Wochen über Kriegseintritt entscheiden",
+    "Für fairen Wettbewerb: Berlin fordert Zölle auf Billigwaren",
+    "Roxette-Konzert: Per Gessle kommt mit neuer Sängerin nach Deutschland"
   ],
   "hashes": [
-    "a7e34d9f94a2cd8faa9135524e89d1a2",
-    "7d81d2fbfb2662e07d0e9dfc268f818c",
-    "8f99cabc8efc63bd893b5e740087fda8",
     "09741dfc5a2f4fe38326889f2457a6a1",
     "bb63aa16c4d8339b6e08b657d92906cb",
     "c0ba7b23924246aa1d6aad2e2d214b44",
@@ -4005,6 +4002,9 @@
     "7a558c06fea37ad692e405bcd1328cf2",
     "678e3669cdaa7ea7ae5b17306ff6ffa3",
     "345c623c77577ac051342fc9a8a3355a",
-    "d33fdf6b9329e02ab9e11cdcbbdbde6f"
+    "d33fdf6b9329e02ab9e11cdcbbdbde6f",
+    "fa426c7a409e703a1afd101a0ab9175a",
+    "0bf6911cbbab3d1a3abd4684b0c4c1dc",
+    "c58f63bf932733fb80d430fffa146304"
   ]
 }
