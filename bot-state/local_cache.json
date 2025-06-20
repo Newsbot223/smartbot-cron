@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/chef-der-bundesaerztekammer-warnt-vor-drohenden-versorgungsluecken-100.html",
-    "https://www.deutschlandfunk.de/merz-glaubt-nicht-an-baldige-waffenruhe-in-der-ukraine-100.html",
-    "https://www.deutschlandfunk.de/deutscher-aerztetag-hat-begonnen-gastauftritt-von-gesundheitsministerin-warken-100.html",
     "https://www.deutschlandfunk.de/flix-will-mit-milliardenauftrag-zugmarkt-in-europa-erschliessen-100.html",
     "https://www.deutschlandfunk.de/argentinische-regierung-ratifiziert-who-austritt-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ex-ministerin-angela-dorn-gruene-verabschiedet-sich-aus-der-politik-110502001.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/schwarz-rot-einig-ueber-aufarbeitung-100.html",
     "https://www.deutschlandfunk.de/verwaltungsdirektorin-barbara-massing-zur-neuen-intendantin-gewaehlt-104.html",
     "https://www.deutschlandfunk.de/festival-grand-prix-nova-hoerspiel-preis-in-der-kategorie-drama-fuer-wildly-tender-is-thy-music-lied-102.html",
-    "https://www.faz.net/aktuell/politik/inland/corona-warken-will-masken-bericht-zu-spahn-nun-doch-vorlegen-110548549.html"
+    "https://www.faz.net/aktuell/politik/inland/corona-warken-will-masken-bericht-zu-spahn-nun-doch-vorlegen-110548549.html",
+    "https://www.deutschlandfunk.de/gespraeche-in-genf-haben-begonnen-104.html",
+    "https://www.deutschlandfunk.de/gespraeche-zwischen-eu-und-iran-ueber-nuklearprogramm-in-genf-weitere-angriffe-zwischen-israel-und-i-100.html",
+    "https://www.deutschlandfunk.de/spahn-maskenbericht-soll-doch-an-haushaltsausschuss-gehen-100.html"
   ],
   "content_hashes": [
-    "5f68290400c47119d90fa0756768735c",
-    "dd56acc47e89515a1a1eec92f317e8db",
-    "fe38b55dc62ea11f4a3e7065493fa3cf",
     "fe15884cdbfb3b9b017e4bacf3b8cf6f",
     "eb369aceef9619c54f4afb2ca486981e",
     "4c1ea735996706a88c116d212410b995",
@@ -2001,12 +1998,12 @@
     "ea16b9d0a8738d21959d5f3bb1f2d0f4",
     "a83fed6d52a824968167be8e5659a773",
     "777ad4b4cf7d3f83ddb47c0e4ae1e2ab",
-    "ea6c75471897f7b73fa61db68938d2bf"
+    "ea6c75471897f7b73fa61db68938d2bf",
+    "5aa9d42feae32077f1939acc8dd298ed",
+    "becb50369758bfa2595dd8a4d5390d92",
+    "f0f6453d302412e75e30e89de2520477"
   ],
   "titles": [
-    "Ärztetag - Chef der Bundesärztekammer warnt vor drohenden Versorgungslücken",
-    "Nordischer Gipfel - Merz glaubt nicht an baldige Waffenruhe in der Ukraine",
-    "Leipzig - Deutscher Ärztetag hat begonnen - Gastauftritt von Gesundheitsministerin Warken",
     "Bahnverkehr - Flix will mit Milliardenauftrag Zugmarkt in Europa erschließen",
     "Weltgesundheitsorganisation - Argentinische Regierung ratifiziert WHO-Austritt",
     "Hessischer Landtag: Ex-Ministerin Angela Dorn legt ihr Mandat nieder",
@@ -3003,12 +3000,12 @@
     "Fünf Jahre nach Beginn der Corona-Pandemie - Schwarz-Rot einig über Aufarbeitung",
     "Deutsche Welle - Verwaltungsdirektorin Barbara Massing zur neuen Intendantin gewählt",
     "DLF-Produktion - Festival Grand Prix Nova: Hörspiel-Preis in der Kategorie Drama für \"Wildly tender is thy music – Lieder aus dem Moor\"",
-    "Corona-Pandemie: Warken will Masken-Bericht nun doch vorlegen"
+    "Corona-Pandemie: Warken will Masken-Bericht nun doch vorlegen",
+    "Verhandlungen mit dem Iran - Gespräche in Genf haben begonnen",
+    "Newsblog zur Eskalation in Nahost - Gespräche zwischen EU und Iran über Nuklearprogramm in Genf - Weitere Angriffe zwischen Israel und Iran",
+    "Masken-Affäre um Spahn - Bericht soll doch an Haushaltsausschuss gehen"
   ],
   "hashes": [
-    "49784c53377718ed54a63c827b931b96",
-    "57a32b44f9eff55247220641d53256db",
-    "6adcff45e85aed8a8a0c8be02223e0f3",
     "ba4d5bf52f9b3ab1817af8ee5d64f70d",
     "8bbbe498e939ae33a51571a6f08a5226",
     "9373edc8967b752c61f08fbd9342c04c",
@@ -4005,6 +4002,9 @@
     "885a7404e7cbe813d7112f2544e5c3dd",
     "dddb2f62797077bdf6ced2b5886d9c5b",
     "fe9b2d2706b506628b523cb4eb3a7751",
-    "734db21868028442199c60e1f56ce403"
+    "734db21868028442199c60e1f56ce403",
+    "d372eefdca9f7e068235cf98afd576eb",
+    "87c2897a246f96c732ffc7498412809e",
+    "1c140abe598ed098b03e3f347b83ef5c"
   ]
 }
