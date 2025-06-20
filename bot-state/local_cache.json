@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flix-will-mit-milliardenauftrag-zugmarkt-in-europa-erschliessen-100.html",
-    "https://www.deutschlandfunk.de/argentinische-regierung-ratifiziert-who-austritt-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ex-ministerin-angela-dorn-gruene-verabschiedet-sich-aus-der-politik-110502001.html",
     "https://www.deutschlandfunk.de/deutscher-aerztetag-gesundheitsministerin-warken-will-buerokratieabbau-fuer-praxen-vorantreiben-100.html",
     "https://www.deutschlandfunk.de/hermann-parzinger-nach-17-jahren-im-amt-verabschiedet-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/corona-warken-will-masken-bericht-zu-spahn-nun-doch-vorlegen-110548549.html",
     "https://www.deutschlandfunk.de/gespraeche-in-genf-haben-begonnen-104.html",
     "https://www.deutschlandfunk.de/gespraeche-zwischen-eu-und-iran-ueber-nuklearprogramm-in-genf-weitere-angriffe-zwischen-israel-und-i-100.html",
-    "https://www.deutschlandfunk.de/spahn-maskenbericht-soll-doch-an-haushaltsausschuss-gehen-100.html"
+    "https://www.deutschlandfunk.de/spahn-maskenbericht-soll-doch-an-haushaltsausschuss-gehen-100.html",
+    "https://www.deutschlandfunk.de/putin-will-ruestungsindustrie-weiter-ausbauen-100.html",
+    "https://www.deutschlandfunk.de/thyssenkrupp-chef-l-pez-erhaelt-neuen-vertrag-bis-100.html"
   ],
   "content_hashes": [
-    "fe15884cdbfb3b9b017e4bacf3b8cf6f",
-    "eb369aceef9619c54f4afb2ca486981e",
     "4c1ea735996706a88c116d212410b995",
     "a9bb3552c7c60764b558873b59a56daa",
     "1d3304946602cef9d9d85fbe1b500e2f",
@@ -2001,11 +1999,11 @@
     "ea6c75471897f7b73fa61db68938d2bf",
     "5aa9d42feae32077f1939acc8dd298ed",
     "becb50369758bfa2595dd8a4d5390d92",
-    "f0f6453d302412e75e30e89de2520477"
+    "f0f6453d302412e75e30e89de2520477",
+    "9a2525f1b68bf1bd57b6e5d0e1fd11c6",
+    "d97870febe55de4b081cc536523509da"
   ],
   "titles": [
-    "Bahnverkehr - Flix will mit Milliardenauftrag Zugmarkt in Europa erschließen",
-    "Weltgesundheitsorganisation - Argentinische Regierung ratifiziert WHO-Austritt",
     "Hessischer Landtag: Ex-Ministerin Angela Dorn legt ihr Mandat nieder",
     "Leipzig - Deutscher Ärztetag: Gesundheitsministerin Warken will Bürokratieabbau für Praxen vorantreiben",
     "Stiftung Preußischer Kulturbesitz - Hermann Parzinger nach 17 Jahren im Amt verabschiedet",
@@ -3003,11 +3001,11 @@
     "Corona-Pandemie: Warken will Masken-Bericht nun doch vorlegen",
     "Verhandlungen mit dem Iran - Gespräche in Genf haben begonnen",
     "Newsblog zur Eskalation in Nahost - Gespräche zwischen EU und Iran über Nuklearprogramm in Genf - Weitere Angriffe zwischen Israel und Iran",
-    "Masken-Affäre um Spahn - Bericht soll doch an Haushaltsausschuss gehen"
+    "Masken-Affäre um Spahn - Bericht soll doch an Haushaltsausschuss gehen",
+    "Wirtschaftsforum Sankt Petersburg - Putin will Rüstungsindustrie weiter ausbauen",
+    "Essen - Thyssenkrupp-Chef López erhält neuen Vertrag bis 2031"
   ],
   "hashes": [
-    "ba4d5bf52f9b3ab1817af8ee5d64f70d",
-    "8bbbe498e939ae33a51571a6f08a5226",
     "9373edc8967b752c61f08fbd9342c04c",
     "cb91e24447b6bdd351356a157ffcd70e",
     "a2bb7ab837f86e0d29bf4c210e8707ee",
@@ -4005,6 +4003,8 @@
     "734db21868028442199c60e1f56ce403",
     "d372eefdca9f7e068235cf98afd576eb",
     "87c2897a246f96c732ffc7498412809e",
-    "1c140abe598ed098b03e3f347b83ef5c"
+    "1c140abe598ed098b03e3f347b83ef5c",
+    "3c3854aba775cb5de3b31f8b7fe7fbe7",
+    "491e73cd2980cc5951ecdbba165bfa36"
   ]
 }
