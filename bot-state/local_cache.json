@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/immobilien-krise-zahl-der-sozialwohnungen-sinkt-weiter-a-5bba2899-ae89-4b82-b511-70439623d3f0#ref=rss",
-    "https://www.spiegel.de/ausland/israel-friedrich-merz-kritisiert-militaeroperation-in-gaza-a-3b8e1960-ad92-4baf-9631-5c72052a896d#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/verkehrswende-der-saarlaender-ist-auf-sein-auto-fixiert-110498425.html",
     "https://www.faz.net/aktuell/politik/inland/deutlich-kritik-an-gruene-jugend-chefin-nietzard-wegen-acab-pullis-110500399.html",
     "https://www.spiegel.de/politik/friedrich-merz-kuendigt-aufhebung-der-beschraenkungen-fuer-waffenlieferungen-an-die-ukraine-an-a-9499b34d-35e5-468b-9c56-0afc96ba56e4#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/praesident-selenskyj-ernennt-neuen-kommandeur-fuer-bodentruppen-102.html",
     "https://www.deutschlandfunk.de/forschungsministerin-baer-deutschland-will-in-der-raumfahrt-fuehrungsrolle-einnehmen-und-setzt-auf-p-100.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-wadephul-trifft-iranischen-aussenminister-in-genf-100.html",
-    "https://www.deutschlandfunk.de/bevoelkerung-in-ostdeutschland-geht-zurueck-102.html"
+    "https://www.deutschlandfunk.de/bevoelkerung-in-ostdeutschland-geht-zurueck-102.html",
+    "https://www.deutschlandfunk.de/energielabel-fuer-smartphones-und-tablets-in-der-eu-ab-heute-pflicht-102.html",
+    "https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-deutschlands-einwohnerzahl-leicht-auf-83-6-millionen-menschen-gewachsen-a-dd820ffa-9767-4436-8fb4-2324ad8a6e20#ref=rss"
   ],
   "content_hashes": [
-    "e49880fc7bb9daa27c809665717fc339",
-    "b4753d82e785300625f7af122bd91bfc",
     "14ace6218cc0f084bca43caa0f966c02",
     "a5e15fadad27269cba9aaec56b25a5e8",
     "8b758c31f136a633f7bf4614831a7f8c",
@@ -2001,11 +1999,11 @@
     "f7698b6eccd6becdb4a8ac47607aeace",
     "25b4880315449172408e8de518af36c7",
     "b74aa92d92a755107c003ffa794bdfc2",
-    "99844636d2bb63c0889f123f58a55a50"
+    "99844636d2bb63c0889f123f58a55a50",
+    "9851acd95343ede5cbf1332e3d494442",
+    "fa3cb3bcca446f3683b74fd11d602faa"
   ],
   "titles": [
-    "Immobilien-Krise: Zahl der Sozialwohnungen sinkt weiter",
-    "Israel: Friedrich Merz kritisiert Militäroperation in Gaza",
     "Verkehrswende: „Der Saarländer  ist auf sein Auto fixiert“",
     "„ACAB“-Pullover: Grüne: Junge Grüne soll sich klar entschuldigen",
     "Friedrich Merz kündigt Aufhebung der Beschränkungen für Waffenlieferungen an die Ukraine an",
@@ -3003,11 +3001,11 @@
     "Ukraine - Präsident Selenskyj ernennt neuen Kommandeur für Bodentruppen",
     "Bundesregierung - Forschungsministerin Bär: Deutschland will in der Raumfahrt Führungsrolle einnehmen und setzt auf Partnerschaft mit Japan",
     "Eskalation in Nahost - Wadephul trifft iranischen Außenminister in Genf",
-    "Statistik - Bevölkerung in Ostdeutschland geht zurück"
+    "Statistik - Bevölkerung in Ostdeutschland geht zurück",
+    "Nachhaltigkeit - Energielabel für Smartphones und Tablets in der EU ab heute Pflicht",
+    "Bevölkerung: Deutschlands Einwohnerzahl leicht auf 83,6 Millionen Menschen gewachsen"
   ],
   "hashes": [
-    "8f1afe08738d554500b8fadaa17c3709",
-    "5f88a367524b8fcd9873be5d37f3b8bc",
     "c7fc5306d21e342f1386b2b97fe8d2b8",
     "b9300541c99ee747ab1cffab8fefe2d7",
     "d8813db4fc20d0e3e87182b7987c54b1",
@@ -4005,6 +4003,8 @@
     "3d15dcba4138d1b280308e79431b2c1b",
     "214c4c5f40240026c36bf5f60a6d3635",
     "084e1e985240e33f8d1fa43dfc250ccc",
-    "de5681815d04040278b07bc5959fe0e5"
+    "de5681815d04040278b07bc5959fe0e5",
+    "527eb284b05e9490e5564c53260362c9",
+    "c6e7adafe226c5517b4a865b1768cd3a"
   ]
 }
