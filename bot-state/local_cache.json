@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/17-eu-staaten-fordern-ungarn-zu-ueberarbeitung-von-pride-gesetzen-auf-100.html",
-    "https://www.deutschlandfunk.de/aerzte-sagen-gesundheitsministerin-warken-ihre-unterstuetzung-zu-100.html",
-    "https://www.spiegel.de/panorama/discovereu-eu-kommission-verschenkt-36-000-zugreisen-an-jugendliche-a-91a2985a-1b0c-4a4b-9898-1b3c3b198187#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/aerztetag-wo-warken-den-lauterbach-weg-verlaesst-110502698.html",
     "https://www.deutschlandfunk.de/eu-stellt-150-milliarden-fuer-gemeinsame-ruestungsbeschaffung-bereit-100.html",
     "https://www.deutschlandfunk.de/syrer-soll-an-folterungen-in-damaskus-beteiligt-gewesen-sein-100.html",
     "https://www.deutschlandfunk.de/israels-krieg-in-gaza-kritik-jetzt-auch-vom-kanzler-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/vorsitzender-lehmann-unterstuetzt-forderung-nach-digitalabgabe-102.html",
     "https://www.deutschlandfunk.de/putin-bekraeftigt-anspruch-auf-gesamte-ukraine-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-unsicherheit-muss-schnell-enden-100.html",
-    "https://www.deutschlandfunk.de/armenien-und-tuerkei-wollen-beziehungen-normalisieren-100.html"
+    "https://www.deutschlandfunk.de/armenien-und-tuerkei-wollen-beziehungen-normalisieren-100.html",
+    "https://www.deutschlandfunk.de/betriebsrat-traegt-entscheidung-von-arcelormittal-zur-abkehr-von-gruenem-stahl-mit-100.html",
+    "https://www.deutschlandfunk.de/italiens-rechte-regierung-stellt-existenzberechtigung-der-nato-in-frage-100.html",
+    "https://www.deutschlandfunk.de/erneut-sollten-dutzende-menschen-nahe-gaza-hilfszentren-getoetet-worden-sein-100.html",
+    "https://www.deutschlandfunk.de/altkanzlerin-merkel-israel-muss-sich-gegen-ausloeschungs-drohung-wehren-koennen-100.html"
   ],
   "content_hashes": [
-    "36f10ef01952faf8442f81ba68a86bf7",
-    "ba9be868f5efffc115052724e53b3c1b",
-    "4206258af8639b23792c9e93420722f8",
-    "ef33389bc922867f6ccafe74c7267dec",
     "b9fae8e95b65ff0ec7775f5da04e3932",
     "4dd0632604e0685964b55189caef3a19",
     "ff0a48ff4a301633751240cc368da049",
@@ -2001,13 +1997,13 @@
     "e5325267c47b7ec85898af5429431ae5",
     "fcbd28b1e99aec74b49221ebc4c51f30",
     "922fec5e70778c78682fe3659f056617",
-    "533725a72de6293754c84ce58acae4fc"
+    "533725a72de6293754c84ce58acae4fc",
+    "ece5dc8c27ce91142d3e60cda3c32f16",
+    "b30cf37f0d5a53787bc83db1b6eb1996",
+    "190117fbc26d3c1ca02f0373d262a6c3",
+    "c7bf6430d1bc1fd01e5884ca91726628"
   ],
   "titles": [
-    "Versammlungsfreiheit - 17 EU-Staaten fordern Ungarn zu Überarbeitung von Pride-Gesetzen auf",
-    "129. Ärztetag in Leipzig - Ärzte sagen Gesundheitsministerin Warken ihre Unterstützung zu",
-    "DiscoverEU: EU-Kommission verschenkt 36.000 Zugreisen an Jugendliche",
-    "Ärztetag in Leipzig: Wo Warken den Lauterbach-Weg verlässt",
     "Aufrüstung - EU stellt 150 Milliarden für gemeinsame Rüstungsbeschaffung bereit",
     "Festnahme in Rheinland-Pfalz - Syrer soll an Folterungen in Damaskus beteiligt gewesen sein",
     "Israels Krieg in Gaza - Kritik jetzt auch vom Kanzler",
@@ -3003,13 +2999,13 @@
     "Bundestagskulturausschuss - Vorsitzender Lehmann unterstützt Forderung nach Digitalabgabe",
     "Russland - Putin bekräftigt Anspruch auf gesamte Ukraine",
     "Zollstreit mit USA - Bundeswirtschaftsministerin Reiche: Unsicherheit muss schnell enden",
-    "Jahrzehnte langer Konflikt - Armenien und Türkei wollen Beziehungen normalisieren"
+    "Jahrzehnte langer Konflikt - Armenien und Türkei wollen Beziehungen normalisieren",
+    "Eisenhüttenstadt - Betriebsrat trägt Entscheidung von ArcelorMittal zur Abkehr von \"grünem Stahl\" mit",
+    "Westliches Verteidigungsbündnis - Italiens rechte Regierung stellt Existenzberechtigung der NATO in Frage",
+    "Nahost - Erneut sollten Dutzende Menschen nahe Gaza-Hilfszentren getötet worden sein",
+    "Interview - Altkanzlerin Merkel: Israel muss sich gegen Auslöschungs-Drohung wehren können"
   ],
   "hashes": [
-    "edb39ae72f157356fc6645166c0b7b80",
-    "1ab0f3f317c9da54891578720a6dc6bc",
-    "df17ea144aba65f2dd4d30e122e6cfa7",
-    "89fc2163cb56527908c2995cb4a2e3ae",
     "5e7344e409f0db228190d89e20019524",
     "0256699dce82718a996b5dc8c25510ed",
     "78cff590651f4455c2051901432987d8",
@@ -4005,6 +4001,10 @@
     "ea74e7143cb3e3018d4f95ba9df22beb",
     "a11e8981abb46e0fce232a0f954321ac",
     "29f60c5c3c8e2f8e34e5f4b1f4c86453",
-    "790fb15d944fb718129ef3a5ea774fad"
+    "790fb15d944fb718129ef3a5ea774fad",
+    "206c26cfa1f2105f08d2e98e5ac26b37",
+    "1747c9a422f375faa91aac869465d3af",
+    "81fb2eb50245c5cbac80f0f731c93cce",
+    "a9981a999c2d9497362d5b704ea12589"
   ]
 }
