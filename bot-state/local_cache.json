@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutlich-kritik-an-gruene-jugend-chefin-nietzard-wegen-acab-pullis-110500399.html",
-    "https://www.spiegel.de/politik/friedrich-merz-kuendigt-aufhebung-der-beschraenkungen-fuer-waffenlieferungen-an-die-ukraine-an-a-9499b34d-35e5-468b-9c56-0afc96ba56e4#ref=rss",
-    "https://www.deutschlandfunk.de/wadephul-berlin-setzt-waffenverkaeufe-an-israel-fort-102.html",
-    "https://www.deutschlandfunk.de/israel-warnt-vor-beispiellosem-angriff-102.html",
-    "https://www.deutschlandfunk.de/nato-generalsekretaer-erwartet-einigung-auf-fuenf-prozent-ziel-100.html",
-    "https://www.deutschlandfunk.de/kabinett-will-begrenzung-der-zuwanderung-im-aufenthaltsgesetz-festschreiben-100.html",
     "https://www.deutschlandfunk.de/demonstranten-besetzen-gebaeude-der-frankfurter-allgemeinen-zeitung-102.html",
     "https://www.deutschlandfunk.de/ausweis-fuers-smartphone-kommt-in-anderthalb-jahren-100.html",
     "https://www.deutschlandfunk.de/unionspolitiker-krings-fordert-ueberpruefung-der-menschenrechtskonvention-im-bereich-migration-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/bevoelkerung-in-ostdeutschland-geht-zurueck-102.html",
     "https://www.deutschlandfunk.de/energielabel-fuer-smartphones-und-tablets-in-der-eu-ab-heute-pflicht-102.html",
     "https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-deutschlands-einwohnerzahl-leicht-auf-83-6-millionen-menschen-gewachsen-a-dd820ffa-9767-4436-8fb4-2324ad8a6e20#ref=rss",
-    "https://www.deutschlandfunk.de/iran-schliesst-verhandlungen-mit-den-usa-waehrend-israelischer-angriffe-aus-102.html"
+    "https://www.deutschlandfunk.de/iran-schliesst-verhandlungen-mit-den-usa-waehrend-israelischer-angriffe-aus-102.html",
+    "https://www.deutschlandfunk.de/israel-warnt-hisbollah-vor-eingreifen-102.html",
+    "https://www.deutschlandfunk.de/israels-armee-greift-weitere-iranische-raketensysteme-an-erneut-einschlaege-in-suedisraelischer-stad-104.html",
+    "https://www.deutschlandfunk.de/uno-arbeitet-an-krisenplaenen-fuer-iran-fluechtlinge-102.html",
+    "https://www.deutschlandfunk.de/macron-spricht-von-umfassendem-verhandlungsangebot-irans-aussenminister-daempft-erwartungen-an-treff-102.html",
+    "https://www.deutschlandfunk.de/ein-toter-und-mehrere-verletzte-nach-russischem-luftangriff-auf-odessa-100.html",
+    "https://www.spiegel.de/wirtschaft/arcelormittal-stopp-gruener-stahlproduktion-stoesst-auf-harte-kritik-a-0ea75cc5-0c5b-4713-80a5-94e85ce9fb72#ref=rss"
   ],
   "content_hashes": [
-    "a5e15fadad27269cba9aaec56b25a5e8",
-    "8b758c31f136a633f7bf4614831a7f8c",
-    "aabbc7a80d3af01369789d55f411f096",
-    "f947931ab018aed068849eac0cf410a1",
-    "f276df75f0bedb87c95a6b166b813faa",
-    "df04ad32f3aa4de32c6b11041ecc7939",
     "5ef18832c6c8f4a6f9301aeed96d5604",
     "3be418fda3f96f13b812bc227f9cb04f",
     "88dfc9aff6118f8d4ae6901501d4f0c7",
@@ -2001,15 +1995,15 @@
     "99844636d2bb63c0889f123f58a55a50",
     "9851acd95343ede5cbf1332e3d494442",
     "fa3cb3bcca446f3683b74fd11d602faa",
-    "773e1f94cd00d9edda808d44382bc3dc"
+    "773e1f94cd00d9edda808d44382bc3dc",
+    "3caface3e4c772982b0260ad8425a79d",
+    "c68a093b765290f5b60534f05e0b3de6",
+    "ba0e2d673b1d1a8cdda93068746d2c08",
+    "11dd45b96065eb5d58d5679367cddfc1",
+    "8a1d38ef26460283454f40095a97e931",
+    "3ceda217942330d408bc790103c6419e"
   ],
   "titles": [
-    "„ACAB“-Pullover: Grüne: Junge Grüne soll sich klar entschuldigen",
-    "Friedrich Merz kündigt Aufhebung der Beschränkungen für Waffenlieferungen an die Ukraine an",
-    "Trotz Kritik - Wadephul: Berlin setzt Waffenverkäufe an Israel fort",
-    "Gazastreifen - Israel warnt vor \"beispiellosem Angriff\"",
-    "Verteidigungsausgaben - NATO-Generalsekretär erwartet Einigung auf Fünf-Prozent-Ziel",
-    "Migration - Kabinett will Begrenzung der Zuwanderung im Aufenthaltsgesetz festschreiben",
     "Protest gegen Gaza-Krieg - Demonstranten besetzen Gebäude der \"Frankfurter Allgemeinen Zeitung\"",
     "Digital-Minister Wildberger - Ausweis fürs Smartphone kommt in anderthalb Jahren",
     "Menschenrechtskonvention - Unionspolitiker Krings fordert Überprüfung der Menschenrechtskonvention im Bereich Migration",
@@ -3003,15 +2997,15 @@
     "Statistik - Bevölkerung in Ostdeutschland geht zurück",
     "Nachhaltigkeit - Energielabel für Smartphones und Tablets in der EU ab heute Pflicht",
     "Bevölkerung: Deutschlands Einwohnerzahl leicht auf 83,6 Millionen Menschen gewachsen",
-    "Newsblog zur Eskalation in Nahost - Iran schließt Verhandlungen mit den USA während israelischer Angriffe aus"
+    "Newsblog zur Eskalation in Nahost - Iran schließt Verhandlungen mit den USA während israelischer Angriffe aus",
+    "Nahost-Konflikt - Israel warnt Hisbollah vor Eingreifen",
+    "Nahost - Israels Armee greift weitere iranische Raketensysteme an - erneut Einschläge in südisraelischer Stadt Beerscheba",
+    "Mittlerer Osten - UNO arbeitet an Krisenplänen für Iran-Flüchtlinge",
+    "Verhandlungen in Genf - Macron spricht von \"umfassendem Verhandlungsangebot\" - Irans Außenminister dämpft Erwartungen an Treffen",
+    "Ukraine - Ein Toter und mehrere Verletzte nach russischem Luftangriff auf Odessa",
+    "ArcelorMittal: Stopp grüner Stahlproduktion stößt auf harte Kritik"
   ],
   "hashes": [
-    "b9300541c99ee747ab1cffab8fefe2d7",
-    "d8813db4fc20d0e3e87182b7987c54b1",
-    "6bc65a528959f8aa3ea03308e535a988",
-    "e6de375134668de91c5e9bad40bf7385",
-    "c48544ed73c8748e790d9ff785fc7e4c",
-    "8b45a500477cab908c79d0a94019d4b9",
     "a28476ba0a554de6d61396fb3c2edfaf",
     "7a74530e164e37f252ea70a08ba1d04e",
     "214f528a5a58fbda253c2bd72d27049b",
@@ -4005,6 +3999,12 @@
     "de5681815d04040278b07bc5959fe0e5",
     "527eb284b05e9490e5564c53260362c9",
     "c6e7adafe226c5517b4a865b1768cd3a",
-    "06c143580ef5d21aa57572a14bb6afd0"
+    "06c143580ef5d21aa57572a14bb6afd0",
+    "82c39d55e8c154ed54ed62d02b5ec868",
+    "6cee7dc8957c442192d56339851a46d0",
+    "e6e82f4186ef0bfb73078f27329461e5",
+    "0c99db8f22f95fe3714056f07833dea0",
+    "ae6ff66c976d3a944f463f40c67104db",
+    "4285edea3fc36e459cb41020f39de20f"
   ]
 }
