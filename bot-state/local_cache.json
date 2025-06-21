@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-53-jaehrigen-wegen-versuchten-mordes-offenbar-fahrt-unter-drogeneinfluss-100.html",
-    "https://www.spiegel.de/politik/deutschland/debatte-ueber-exportstopp-wie-viele-waffen-liefert-deutschland-aktuell-an-israel-a-ee6b6759-fd60-42ff-90c9-3fb5baec7b2c#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/holger-neumann-ein-erfahrener-pilot-uebernimmt-das-kommando-bei-der-luftwaffe-110502822.html",
     "https://www.deutschlandfunk.de/fuenf-tote-bei-explosion-in-chemiefabrik-102.html",
     "https://www.deutschlandfunk.de/oeffentlicher-rundfunksender-geht-gegen-trumps-mittelkuerzung-vor-104.html",
     "https://www.deutschlandfunk.de/nationalversammlung-beschliesst-gesetz-fuer-sterbehilfe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/afd-und-linke-kritisieren-personelle-ausstattung-des-scholz-bueros-100.html",
     "https://www.deutschlandfunk.de/kommunen-wollen-mehr-als-60-prozent-des-anteils-fuer-staedte-gemeinden-und-laender-100.html",
     "https://www.deutschlandfunk.de/machalet-spd-kritisiert-umgang-mit-untersuchungsbericht-hat-vertrauen-zerstoert-100.html",
-    "https://www.deutschlandfunk.de/bericht-erneute-israelische-angriffe-auf-iranische-atomanlage-isfahan-100.html"
+    "https://www.deutschlandfunk.de/bericht-erneute-israelische-angriffe-auf-iranische-atomanlage-isfahan-100.html",
+    "https://www.deutschlandfunk.de/israelische-armee-meldet-angriff-auf-hisbollah-standort-im-suedlibanon-102.html",
+    "https://www.deutschlandfunk.de/israelische-armee-bestaetigt-neue-angriffe-auf-iranische-atomanlage-isfahan-100.html",
+    "https://www.deutschlandfunk.de/richter-ordnet-freilassung-von-pro-palaestinensischem-aktivisten-khalil-an-102.html"
   ],
   "content_hashes": [
-    "441acb5c4b1743de33c325af81a45a6c",
-    "0228c5b16ea97da5286da9f1be0a98b1",
-    "07a3fed6d4802afda76f5229cbebc04c",
     "ce7b1000d6553a077371e41212e5e5a3",
     "cd1aff7e1d3423676333fecaa96b0e24",
     "b11a723186224577d51f7918a40e2e5d",
@@ -2001,12 +1998,12 @@
     "7e1bad9e971a101a8e556d1ea0807d6e",
     "bbc73e572f87c65d9f9f7809716258a9",
     "325aff49fd0daf1a6714fcba681d32c4",
-    "92ea0728cb0895780758ab20e0526c13"
+    "92ea0728cb0895780758ab20e0526c13",
+    "d777ca914bfada5b15044505471c1821",
+    "3c01db9bfa01277909fff25fb55c3bb8",
+    "d1617572f86a9e035572968a850c4fc6"
   ],
   "titles": [
-    "Nach Vorfall bei Meisterfeier in Liverpool - Ermittlungen gegen 53-Jährigen wegen versuchten Mordes - offenbar Fahrt unter Drogeneinfluss",
-    "Debatte über Exportstopp: Wie viele Waffen liefert Deutschland aktuell an Israel?",
-    "Holger Neumann: Ein erfahrener Pilot übernimmt das Kommando bei der Luftwaffe",
     "China - Fünf Tote bei Explosion in Chemiefabrik",
     "USA - Öffentlicher Rundfunksender geht gegen Trumps Mittelkürzung vor",
     "Frankreich - Nationalversammlung beschließt Gesetz für Sterbehilfe",
@@ -3003,12 +3000,12 @@
     "Altkanzler - AfD und Linke kritisieren personelle Ausstattung des Scholz-Büros",
     "Sondervermögen - Kommunen wollen mehr als 60 Prozent des Anteils für Städte, Gemeinden und Länder",
     "Maskenbeschaffung - Machalet (SPD) kritisiert Umgang mit Untersuchungsbericht: \"Hat Vertrauen zerstört\"",
-    "Newsblog zur Eskalation in Nahost - Bericht: Erneute israelische Angriffe auf iranische Atomanlage Isfahan"
+    "Newsblog zur Eskalation in Nahost - Bericht: Erneute israelische Angriffe auf iranische Atomanlage Isfahan",
+    "Nahost - Israelische Armee meldet Angriff auf Hisbollah-Standort im Südlibanon",
+    "Newsblog zur Eskalation in Nahost - Israelische Armee bestätigt neue Angriffe auf iranische Atomanlage Isfahan",
+    "USA - Richter ordnet Freilassung von pro-palästinensischem Aktivisten Khalil an"
   ],
   "hashes": [
-    "5e8877ac249c6fa99bb1be361ea432ba",
-    "d5851fded5c3d0935b216b4fc0a095de",
-    "2dd1386fbbb86b4c0f85aec3b75a4e59",
     "bcbeffa2cd3382ccf773069589bef1f3",
     "fab77cbb4450e92661932e0cedc30e1a",
     "a7406f7cbfe9bd909e210425ff5455e5",
@@ -4005,6 +4002,9 @@
     "8c3ad00aee96e27da5b67b218ee2d716",
     "98bc5b4290f1496a6f1edc09a8e035f1",
     "e40a42ba82a5d0a2531c9b019f541f1d",
-    "871d60e257e79be330877c89004896f8"
+    "871d60e257e79be330877c89004896f8",
+    "a03f26fd92ea4aca5ec778aba4aa697a",
+    "716ab6653d61f9db925da05824400ca8",
+    "7429966b98ee2b31dd2a270bea70ee8f"
   ]
 }
