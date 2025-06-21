@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nationalversammlung-beschliesst-gesetz-fuer-sterbehilfe-100.html",
-    "https://www.deutschlandfunk.de/koenig-charles-iii-betont-selbstbestimmungsrecht-kanadas-100.html",
     "https://www.faz.net/aktuell/politik/inland/laender-mahnen-bundesregierung-wer-bestellt-soll-auch-zahlen-110502726.html",
     "https://www.deutschlandfunk.de/wadephul-fordert-schulterschluss-mit-den-usa-gegen-putin-100.html",
     "https://www.faz.net/aktuell/politik/inland/kritik-am-krieg-in-gaza-wende-in-deutscher-israel-politik-110502821.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israelische-armee-bestaetigt-neue-angriffe-auf-iranische-atomanlage-isfahan-100.html",
     "https://www.deutschlandfunk.de/richter-ordnet-freilassung-von-pro-palaestinensischem-aktivisten-khalil-an-102.html",
     "https://www.deutschlandfunk.de/israelisches-weizmann-institut-durch-iranische-rakete-beschaedigt-102.html",
-    "https://www.deutschlandfunk.de/us-behoerden-entlassen-erneut-hunderte-mitarbeiter-von-voice-of-america-100.html"
+    "https://www.deutschlandfunk.de/us-behoerden-entlassen-erneut-hunderte-mitarbeiter-von-voice-of-america-100.html",
+    "https://www.deutschlandfunk.de/personelle-austattung-von-altkanzlern-im-ueberblick-100.html",
+    "https://www.faz.net/aktuell/politik/inland/immer-mehr-rechtsmotivierte-faelle-an-deutschen-schulen-110545886.html"
   ],
   "content_hashes": [
-    "b11a723186224577d51f7918a40e2e5d",
-    "1c6bfd00c5822dfa9ae1ab724dd0b2d9",
     "f883aaf7573591c8230a957122d854d0",
     "86228642fe912d5d5dd61d23bdc15da3",
     "d4d9a1e2aec3bd11dbb8a8b5eec8f9f5",
@@ -2001,11 +1999,11 @@
     "3c01db9bfa01277909fff25fb55c3bb8",
     "d1617572f86a9e035572968a850c4fc6",
     "0d9ece9b65e03991da47f0995fbfb80f",
-    "c201556ed1f227b6e8223840862f80a1"
+    "c201556ed1f227b6e8223840862f80a1",
+    "bd230c213670b0390e559057fe1ac53c",
+    "0c4c71b924690a6aa1a7eecae0f8793e"
   ],
   "titles": [
-    "Frankreich - Nationalversammlung beschließt Gesetz für Sterbehilfe",
-    "Rede im Parlament - König Charles III. betont Selbstbestimmungsrecht Kanadas",
     "Länder mahnen Schwarz-Rot: Wer bestellt, soll auch zahlen",
     "Diplomatie - Wadephul fordert Schulterschluss mit den USA gegen Putin",
     "Kritische Töne von Merz: Ist das die Wende in der deutschen Israel-Politik?",
@@ -3003,11 +3001,11 @@
     "Newsblog zur Eskalation in Nahost - Israelische Armee bestätigt neue Angriffe auf iranische Atomanlage Isfahan",
     "USA - Richter ordnet Freilassung von pro-palästinensischem Aktivisten Khalil an",
     "Renommierte Forschungseinrichtung - Israelisches Weizmann-Institut durch iranische Rakete beschädigt",
-    "Auslandssender - US-Behörden entlassen erneut hunderte Mitarbeiter von Voice of America"
+    "Auslandssender - US-Behörden entlassen erneut hunderte Mitarbeiter von Voice of America",
+    "Kritik an Scholz-Büro - Personelle Austattung von Altkanzlern im Überblick",
+    "Mit Schultasche und Hitlergruß: Rechtsmotivierte Vorfälle an Schulen steigen"
   ],
   "hashes": [
-    "a7406f7cbfe9bd909e210425ff5455e5",
-    "2d4c4a1c0132915c9f4b099f007b126c",
     "37d935e3d406e85bc193d35118529326",
     "aeea74a98e0a0ee428acff707f756fb9",
     "ef7d429f04d979b763542a46d94d429a",
@@ -4005,6 +4003,8 @@
     "716ab6653d61f9db925da05824400ca8",
     "7429966b98ee2b31dd2a270bea70ee8f",
     "3b5349b99a808d354d88e4f023c4b87c",
-    "1bcb0818adee269945a815765d798237"
+    "1bcb0818adee269945a815765d798237",
+    "0956d76f13d33970f5f42e2a37bfd14a",
+    "5bbfb3b6809ac2c5aeb1ba0f7835615c"
   ]
 }
