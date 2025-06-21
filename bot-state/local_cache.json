@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-fordert-schulterschluss-mit-den-usa-gegen-putin-116.html",
-    "https://www.deutschlandfunk.de/sachverstaendigenrat-fuer-integration-und-migration-haelt-abschaffung-der-beschleunigten-einbuergeru-100.html",
     "https://www.deutschlandfunk.de/verbandschef-begruesst-plaene-von-gesundheitsministerin-warken-100.html",
     "https://www.spiegel.de/wirtschaft/soziales/grossbritannien-verbannt-einweg-e-zigaretten-a-f5a0a194-706a-4433-be2b-df02e5a6c6aa#ref=rss",
     "https://www.deutschlandfunk.de/ukraine-aktuell-vor-selenskyjs-besuch-in-berlin-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt-a-effe2e18-0243-4fe6-88df-eff45a0cf9e1#ref=rss",
     "https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss",
     "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-iran-wird-atomprogramm-unter-keinen-umstaenden-aufgeben-neue-israe-100.html",
-    "https://www.deutschlandfunk.de/protest-in-berlin-gegen-israels-vorgehen-in-gaza-und-gegen-fuehrung-des-iran-100.html"
+    "https://www.deutschlandfunk.de/protest-in-berlin-gegen-israels-vorgehen-in-gaza-und-gegen-fuehrung-des-iran-100.html",
+    "https://www.deutschlandfunk.de/medien-tarnkappenbomber-des-typs-b-2-verlassen-us-luftwaffenstuetzpunkt-in-missouri-100.html",
+    "https://www.deutschlandfunk.de/waldbrand-an-kroatiens-adria-touristen-fliehen-neue-feuer-befuerchtet-100.html"
   ],
   "content_hashes": [
-    "aea411ae662d534238231edf7b0bae21",
-    "3c29ff1cd56371eb1fdd2a8930490f44",
     "3f0937a324c8ec2d07bc522a1f980065",
     "c1bb9f4188f0818dae6512b87eceb60c",
     "8c250bb061cf1bc9d19a13c1ff3133e6",
@@ -2001,11 +1999,11 @@
     "5d77c0bac963cee2109791dcb5fd7781",
     "83f88abcbd236a60e159b51c83985392",
     "6f3f2600be298dcb51794422d099a1e6",
-    "eb8cbc6a7c7e9aaf4c103c017a28a6af"
+    "eb8cbc6a7c7e9aaf4c103c017a28a6af",
+    "0871a6739cebc8df3832f2188ccb9c69",
+    "4409d57cd8c8fd6743191b64e2bb8ad5"
   ],
   "titles": [
-    "Antrittsbesuch - Wadephul fordert Schulterschluss mit den USA gegen Putin",
-    "Migrationspolitik - Sachverständigenrat für Integration und Migration hält Abschaffung der beschleunigten Einbürgerung für sinnvoll",
     "Hausarztmodell - Verbandschef begrüßt Pläne von Gesundheitsministerin Warken",
     "Großbritannien verbannt Einweg-E-Zigaretten",
     "Selenskyj in Berlin - Ukraine erwartet, dass Merz seinen Worten Taten folgen lässt",
@@ -3003,11 +3001,11 @@
     "Brandenburg: Dietmar Woidke als SPD-Chef bestätigt",
     "Digitalisierung der Verwaltung: Ausgaben des Bundes für Software deutlich gestiegen",
     "Nahost - Iranischer Präsident Peseschkian: Iran wird Atomprogramm \"unter keinen Umständen\" aufgeben - neue israelische Angriffe auf Teheran",
-    "Nahost - Protest in Berlin gegen Israels Vorgehen in Gaza und gegen Führung des Iran"
+    "Nahost - Protest in Berlin gegen Israels Vorgehen in Gaza und gegen Führung des Iran",
+    "USA - Medien: Tarnkappenbomber des Typs B-2 verlassen US-Luftwaffenstützpunkt in Missouri",
+    "Verdacht auf Brandstiftung - Waldbrand an Kroatiens Adria - Touristen fliehen - Neue Feuer befürchtet"
   ],
   "hashes": [
-    "c127483bea8ab0f7875892166e4d80d5",
-    "0d8011c8bac1f3b668afd74f958b8b11",
     "cffb9b1121db6cd59e16e806fc842bef",
     "f1d5828f02dc66cacb58eecf7d3ba95e",
     "b9bd7fb76436b08c57221db55162d5a0",
@@ -4005,6 +4003,8 @@
     "1ae9700040a81a50b2630eec400e8aa7",
     "d156a777ae8cc54ec6297f532041c967",
     "7683b595c39f2e3eb57151d934a6bf45",
-    "5d76a5a1c810fe62828775452e1df9ac"
+    "5d76a5a1c810fe62828775452e1df9ac",
+    "f738d7ed6848813d95ae702ab5000cee",
+    "3b24c766fe9a7a25e361c97bad63a174"
   ]
 }
