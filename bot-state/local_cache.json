@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mietpreisbremse-bis-ende-2029-verlaengert-104.html",
-    "https://www.spiegel.de/politik/ukraine-merz-verspricht-unterstuetzung-bei-waffenbeschaffung-a-c2fe782c-1696-4411-b715-a689fb9acb11#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/umgang-mit-afd-guenther-nennt-merz-hoch-glaubwuerdig-110504476.html",
     "https://www.deutschlandfunk.de/staatliches-tierhaltungslogo-startet-spaeter-100.html",
     "https://www.deutschlandfunk.de/gremium-tagt-zum-ersten-mal-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-spd-generalsekretaer-gesundheitsbeitraege-fuer-gutverdiener-anheben-110093143.html",
     "https://www.deutschlandfunk.de/fruehere-trump-vertraute-kritisieren-us-angriffe-demokraten-fordern-amtsenthebungsverfahren-100.html",
     "https://www.deutschlandfunk.de/die-usa-nach-dem-angriff-auf-iran-andrew-denison-dir-transatlantic-networks-100.html",
-    "https://www.deutschlandfunk.de/bund-und-laender-beraten-ueber-finanzielle-folgen-des-geplanten-investitions-boosters-100.html"
+    "https://www.deutschlandfunk.de/bund-und-laender-beraten-ueber-finanzielle-folgen-des-geplanten-investitions-boosters-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-fordert-verhandlungsloesung-stegner-und-muetzenich-kritisieren-us-militaerschlag-100.html",
+    "https://www.deutschlandfunk.de/auch-thueringens-innenminister-maier-sieht-die-wichtigsten-rechtlichen-voraussetzungen-fuer-ein-afd--100.html"
   ],
   "content_hashes": [
-    "dd9ab53448d9a2cee4ce0183a629e743",
-    "f8037ce40505f1cd636c215fc8991ed8",
     "4063723c7bdb5723b8b7881a7d5b745f",
     "e03d8334a69e2daca3b8f876e1120d90",
     "a3f43a9f3c45ad839f1deeba7b07612b",
@@ -2001,11 +1999,11 @@
     "3cd4b18ac16771ad2ead4642cdbce308",
     "bd48df5cbfb16ee7f79fea8dc6646000",
     "37ec71a846e5ae9c7e7b854da9892b52",
-    "fe43f7f43308a19faf2d213f1fdc66cf"
+    "fe43f7f43308a19faf2d213f1fdc66cf",
+    "6a6cc231977429955b29b5149e0ca892",
+    "5733e43ced7c990e283a0c5f4231640a"
   ],
   "titles": [
-    "Kabinett - Mietpreisbremse bis Ende 2029 verlängert",
-    "Ukraine: Merz verspricht Unterstützung bei Waffenbeschaffung",
     "Umgang mit AfD: Günther nennt Merz „hoch glaubwürdig“",
     "Fleischkonsum - Staatliches Tierhaltungslogo startet später",
     "Koalitionsausschuss - Gremium tagt zum ersten Mal",
@@ -3003,11 +3001,11 @@
     "Liveblog zur Merz-Regierung: SPD-Generalsekretär: Gesundheitsbeiträge für Gutverdiener anheben",
     "Nahost - Frühere Trump-Vertraute kritisieren US-Angriffe - Demokraten fordern Amtsenthebungsverfahren",
     "US-Angriff auf Iran - Politologe Denison: Netanjahu hat sich durchgesetzt",
-    "Konjunktur - Bund und Länder beraten über finanzielle Folgen des geplanten \"Investitions-Boosters\""
+    "Konjunktur - Bund und Länder beraten über finanzielle Folgen des geplanten \"Investitions-Boosters\"",
+    "Nahost - Bundeskanzler Merz fordert Verhandlungslösung - Stegner und Mützenich kritisieren US-Militärschlag",
+    "Nach Vorstoß von Klingbeil - Auch Thüringens Innenminister Maier sieht die wichtigsten rechtlichen Voraussetzungen für ein AfD-Verbotsverfahren erfüllt"
   ],
   "hashes": [
-    "be90f84feeb496ec35df2fd8bb43ccde",
-    "d8afd709f8072cff62792839999a3b67",
     "0cfa6e742a03beff75060eda62f06dc1",
     "d51b4552268e6e3b8111812b953ed65c",
     "8456bc11898bc700e298d6ea860b5c4c",
@@ -4005,6 +4003,8 @@
     "35ddf4d058c4fdc2ea38320a56362320",
     "d03a40d962654aedd5a2ffe215ed68d9",
     "12092d720d4564beef9963c6d4aa2d6d",
-    "07d4530f7b27ccceb7295ce4c75eb687"
+    "07d4530f7b27ccceb7295ce4c75eb687",
+    "a762e62e57557d2f72992519ef5d8f19",
+    "2d68ee4b1d8999a9ae8f9ed19c9037ce"
   ]
 }
