@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/forderung-nach-milliarden-aus-infrastruktur-sondervermoegen-102.html",
-    "https://www.deutschlandfunk.de/drei-mutmassliche-russland-spione-angeklagt-100.html",
     "https://www.deutschlandfunk.de/urteil-20-jahre-haft-fuer-arzt-wegen-hundertfachen-missbrauchs-102.html",
     "https://www.deutschlandfunk.de/mietpreisbremse-bis-ende-2029-verlaengert-104.html",
     "https://www.spiegel.de/politik/ukraine-merz-verspricht-unterstuetzung-bei-waffenbeschaffung-a-c2fe782c-1696-4411-b715-a689fb9acb11#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-beruft-sicherheitskabinett-ein-stegner-und-muetzenich-kritisieren-us-militaerschl-102.html",
     "https://www.deutschlandfunk.de/initiativen-warnen-eltern-vor-der-veroeffentlichung-privater-fotos-ihrer-kinder-im-netz-100.html",
     "https://www.deutschlandfunk.de/klingbeil-will-fuer-arbeitsplaetze-bei-gruenem-stahl-kaempfen-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-spd-generalsekretaer-gesundheitsbeitraege-fuer-gutverdiener-anheben-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-spd-generalsekretaer-gesundheitsbeitraege-fuer-gutverdiener-anheben-110093143.html",
+    "https://www.deutschlandfunk.de/fruehere-trump-vertraute-kritisieren-us-angriffe-demokraten-fordern-amtsenthebungsverfahren-100.html",
+    "https://www.deutschlandfunk.de/die-usa-nach-dem-angriff-auf-iran-andrew-denison-dir-transatlantic-networks-100.html"
   ],
   "content_hashes": [
-    "2a8633c048eed5c1632e638b073b31f3",
-    "8d64961d3b283e4363a2d550f1d34921",
     "7b9e3157940d8e35a0c0bfbcd810be94",
     "dd9ab53448d9a2cee4ce0183a629e743",
     "f8037ce40505f1cd636c215fc8991ed8",
@@ -2001,11 +1999,11 @@
     "a154111bbe34a7a1094c4537cded0a8a",
     "cf5c1423bc03bb5f946e5627d9038060",
     "c841f22cf5069b22b108466bf9d51903",
-    "3cd4b18ac16771ad2ead4642cdbce308"
+    "3cd4b18ac16771ad2ead4642cdbce308",
+    "bd48df5cbfb16ee7f79fea8dc6646000",
+    "37ec71a846e5ae9c7e7b854da9892b52"
   ],
   "titles": [
-    "Wohlfahrtsverbände - Forderung nach Milliarden aus Infrastruktur-Sondervermögen",
-    "Bundesanwaltschaft - Drei mutmaßliche Russland-Spione angeklagt",
     "Frankreich - Urteil: 20 Jahre Haft für Arzt wegen hundertfachen Missbrauchs",
     "Kabinett - Mietpreisbremse bis Ende 2029 verlängert",
     "Ukraine: Merz verspricht Unterstützung bei Waffenbeschaffung",
@@ -3003,11 +3001,11 @@
     "Nach US-Angriff auf den Iran - Bundeskanzler Merz beruft Sicherheitskabinett ein - Stegner und Mützenich kritisieren US-Militärschlag",
     "Jugendschutz - Initiativen warnen Eltern vor der Veröffentlichung privater Fotos ihrer Kinder im Netz",
     "Wirtschaft - Klingbeil will für Arbeitsplätze bei \"grünem Stahl\" kämpfen",
-    "Liveblog zur Merz-Regierung: SPD-Generalsekretär: Gesundheitsbeiträge für Gutverdiener anheben"
+    "Liveblog zur Merz-Regierung: SPD-Generalsekretär: Gesundheitsbeiträge für Gutverdiener anheben",
+    "Nahost - Frühere Trump-Vertraute kritisieren US-Angriffe - Demokraten fordern Amtsenthebungsverfahren",
+    "US-Angriff auf Iran - Politologe Denison: Netanjahu hat sich durchgesetzt"
   ],
   "hashes": [
-    "1fa34293e88c25c7d6fff693ce7f70c8",
-    "3327de9eb32ce96f324fc4efdb8986d9",
     "9c542d050597af7fcc96a63b5e431eb6",
     "be90f84feeb496ec35df2fd8bb43ccde",
     "d8afd709f8072cff62792839999a3b67",
@@ -4005,6 +4003,8 @@
     "4137ad58292f3bde74e33aec01ac394c",
     "86adc8dea3f4bea979fc2544415ca2dc",
     "04719959dcab217b2092dd437ec52c54",
-    "35ddf4d058c4fdc2ea38320a56362320"
+    "35ddf4d058c4fdc2ea38320a56362320",
+    "d03a40d962654aedd5a2ffe215ed68d9",
+    "12092d720d4564beef9963c6d4aa2d6d"
   ]
 }
