@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-hebt-wirtschaftssanktionen-weitesgehend-auf-neue-strafmassnahmen-gegen-milizen-nach-gewaltwelle-i-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-prioritaet-hat-die-staerkung-der-wirtschaft-100.html",
     "https://www.deutschlandfunk.de/aussenminister-rubio-kuendigt-visabeschraenkungen-fuer-verantwortliche-von-online-zensur-an-102.html",
     "https://www.deutschlandfunk.de/was-das-schwarz-rote-sofortprogramm-fuer-deutschland-beinhaltet-100.html",
     "https://www.deutschlandfunk.de/us-gericht-erklaert-grossteil-von-trumps-strafzoellen-fuer-rechtswidrig-regierung-kuendigt-umgehend--102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/parlament-in-teheran-spricht-sich-fuer-sperrung-der-schifffahrtsstrasse-von-hormus-aus-100.html",
     "https://www.deutschlandfunk.de/erhoehte-waldbrandgefahr-in-teilen-deutschland-getreidefeld-nahe-dem-flughafen-ber-brennt-100.html",
     "https://www.deutschlandfunk.de/mindestens-15-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-100.html",
-    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-100.html"
+    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-krieg-im-nahen-osten-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-spricht-beim-tag-der-industrie-100.html"
   ],
   "content_hashes": [
-    "70ae8c118c88b6b75f8994c6a9ffc714",
-    "f38ce1b316f9a9169f46d5f6ac6345a0",
     "22422647b2a6495cfd9be5c46fc181fe",
     "09181ce0e59ca9150f4113f3d8404fb7",
     "b863588c8333033a7e17edbf4e6bbfb0",
@@ -2001,11 +1999,11 @@
     "e85474d6c8dc331b281994c135031231",
     "8dafca2f10336ad977d6de3acac149cd",
     "0a71b13a432f8224b59c0c6fbead832c",
-    "4bb930ee28aafd403c46543aec923be9"
+    "4bb930ee28aafd403c46543aec923be9",
+    "dd3b18a28b7860499f6dde2ca712044f",
+    "28cdd93df7e20fcba573fb005f06af75"
   ],
   "titles": [
-    "Syrien - EU hebt Wirtschaftssanktionen weitesgehend auf - neue Strafmaßnahmen gegen Milizen nach Gewaltwelle im März",
-    "Koalitionsausschuss - Klingbeil: \"Priorität hat die Stärkung der Wirtschaft\"",
     "USA - Außenminister Rubio kündigt Visabeschränkungen für Verantwortliche von \"Online-\"Zensur\" an",
     "Koalitionsausschuss - Was das schwarz-rote Sofortprogramm für Deutschland beinhaltet",
     "Handels-Konflikt - US-Gericht erklärt Großteil von Trumps Strafzöllen für rechtswidrig - Regierung kündigt umgehend Widerstand an",
@@ -3003,11 +3001,11 @@
     "Nach US-Angriffe auf iranische Atomanlagen - Parlament in Teheran spricht sich für Sperrung der Schifffahrtsstraße von Hormus aus",
     "Trockenheit - Erhöhte Waldbrandgefahr in Teilen Deutschland - Getreidefeld nahe dem Flughafen BER brennt",
     "Syrien - Mindestens 15 Tote bei Selbstmordanschlag auf Kirche in Damaskus",
-    "Syrien - Mindestens neun Tote bei Selbstmordanschlag auf Kirche in Damaskus"
+    "Syrien - Mindestens neun Tote bei Selbstmordanschlag auf Kirche in Damaskus",
+    "Brüssel - EU-Außenminister beraten über Krieg im Nahen Osten",
+    "Berlin - Bundeskanzler Merz spricht beim Tag der Industrie"
   ],
   "hashes": [
-    "495d8d2a44fdd91932a0246ba74ce97e",
-    "a4c2f96e2bea7e4d57f8712c402238ef",
     "7a1e0cf8c8977b03dc44fe2b8486fbb6",
     "c4234b69840b968219a1b9bd525d1d69",
     "0f3d5604fce1e02f865e0442266cae5e",
@@ -4005,6 +4003,8 @@
     "4984e530e1ea4435f22825550287814e",
     "40b32e05f6c1be5288606c4d530942db",
     "86637ab14f5414d472351d3a9d4be8e6",
-    "ce5efa959b8a00846f1b7a5886796512"
+    "ce5efa959b8a00846f1b7a5886796512",
+    "365f96d332e64c9c5a1fe0c8ee6b03c0",
+    "1a5610fe502da91c570fb8fd24ac3822"
   ]
 }
