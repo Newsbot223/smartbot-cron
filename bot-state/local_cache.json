@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/karlspreis-fuer-eu-kommissionschefin-von-der-leyen-merz-starke-vertreterin-eines-starken-europas-100.html",
-    "https://www.deutschlandfunk.de/dgb-chefin-fahimi-warnt-vor-ende-des-acht-stunden-tags-102.html",
     "https://www.deutschlandfunk.de/gruenen-chefin-brantner-fordert-waffenembargo-und-sanktionen-gegen-israelische-minister-100.html",
     "https://www.deutschlandfunk.de/diese-eigenschaften-braucht-es-manchmal-sogar-in-koalitionen-steinmeier-eroeffnet-deutsches-chorfest-102.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/hessen-und-hamburg-auslaenderbehoerden-koennen-keine-aufenthaltstitel-erstellen-110505962.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/einwanderung-sorgt-wieder-fuer-mehr-kinderreiche-familien-102.html",
     "https://www.deutschlandfunk.de/melde-und-informationsstelle-antiziganismus-registriert-rund-1-680-faelle-von-beleidigungen-und-koer-102.html",
     "https://www.deutschlandfunk.de/netanjahu-wollen-keinen-zermuerbungskrieg-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bei-der-wehrpflicht-ist-die-afd-zersplittert-110548031.html"
+    "https://www.faz.net/aktuell/politik/inland/bei-der-wehrpflicht-ist-die-afd-zersplittert-110548031.html",
+    "https://www.deutschlandfunk.de/eu-verurteilt-selbstmordanschlag-auf-kirche-in-damaskus-nach-neuen-angaben-mehr-als-25-tote-100.html",
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-geldstrafe-fuer-den-dfb-100.html"
   ],
   "content_hashes": [
-    "6e3b61c148df67bcf0527dff2c53d8ee",
-    "8fc0e430d5746d752e506dbfaed9a23d",
     "8c700824dab87b5b25979ce3cc16e2de",
     "730a5ff43ed3b07921bb11f59daf73be",
     "062e3e921ea05a6cba4fef058d421664",
@@ -2001,11 +1999,11 @@
     "4ca10b7bc4b913bca6e9fc61f4f58112",
     "36962d7c10f06814c6534d1c2ececf5e",
     "7b2f2f6bbcc7d6304893181e6fce842a",
-    "f26092ce4b14b9db66f900d7b2aa108f"
+    "f26092ce4b14b9db66f900d7b2aa108f",
+    "4010b9951552a733de3e4030402cd29f",
+    "d1a6e4b1a68c2c0c33b2e5d31b9b294e"
   ],
   "titles": [
-    "Aachen - Karlspreis für EU-Kommissionschefin von der Leyen - Merz: \"Starke Vertreterin eines starken Europas\"",
-    "Arbeitszeitdebatte - DGB-Chefin Fahimi warnt vor Ende des Acht-Stunden-Tags",
     "Gaza-Krieg - Grünen-Chefin Brantner fordert Waffenembargo und Sanktionen gegen israelische Minister",
     "Vokalmusik - \"Diese Eigenschaften braucht es manchmal sogar in Koalitionen\": Steinmeier eröffnet \"Deutsches Chorfest\"",
     "Technische Probleme in Ausländerbehörden",
@@ -3003,11 +3001,11 @@
     "Statistik - Einwanderung sorgt wieder für mehr kinderreiche Familien",
     "Jahresbericht - Melde- und Informationsstelle Antiziganismus registriert rund 1.680 Fälle von Beleidigungen und Körperverletzungen",
     "Eskalation im Nahen Osten - Netanjahu: \"Wollen keinen Zermürbungskrieg\"",
-    "Wehrpflichtdebatte: Die lauen Patrioten von der AfD"
+    "Wehrpflichtdebatte: Die lauen Patrioten von der AfD",
+    "Syrien - EU verurteilt Selbstmordanschlag auf Kirche in Damaskus - nach neuen Angaben mehr als 25 Tote",
+    "Sommermärchen-Prozess - Staatsanwaltschaft fordert Geldstrafe für den DFB"
   ],
   "hashes": [
-    "96035935cd1e7b83533224141c627a48",
-    "9a27c543a04865c2ed1d7a76217ce8b3",
     "956e7f05cf65902dd8bb5b1fff1b78fe",
     "5ea435218a761d3fe0a6eab23b284a07",
     "5431159ee813e95c297806a795811920",
@@ -4005,6 +4003,8 @@
     "f2415f34df5c564e7d3750cf1589f896",
     "5aa1125fa9680e823c3034dd0a87b4a8",
     "8e13d282a8889a7af9671bf0aee29921",
-    "29fac8b600aa1cbd05d55e40ebe8d27c"
+    "29fac8b600aa1cbd05d55e40ebe8d27c",
+    "64a3b68a363c29b0664f751897e5e34b",
+    "f7e1e75927a84006d711db65c4101175"
   ]
 }
