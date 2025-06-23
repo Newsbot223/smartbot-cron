@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/notenbankchef-kazimir-wegen-korruption-verurteilt-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/usa-das-hat-aussenminister-wadephul-mit-marco-rubio-besprochen-110505095.html",
-    "https://www.deutschlandfunk.de/dgb-vorsitzende-fahimi-fordert-dauerhaft-hoehere-zuschuesse-aus-steuergeldern-100.html",
     "https://www.deutschlandfunk.de/karlspreis-fuer-eu-kommissionschefin-von-der-leyen-merz-starke-vertreterin-eines-starken-europas-100.html",
     "https://www.deutschlandfunk.de/dgb-chefin-fahimi-warnt-vor-ende-des-acht-stunden-tags-102.html",
     "https://www.deutschlandfunk.de/gruenen-chefin-brantner-fordert-waffenembargo-und-sanktionen-gegen-israelische-minister-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kriegseintritt-der-usa-interview-peter-wittig-ex-botschafter-in-washington-100.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-frei-sieht-erhoehte-gefahr-fuer-us-einrichtungen-102.html",
     "https://www.spiegel.de/wirtschaft/iran-krieg-oekonomen-warnen-vor-oelpreis-schock-bei-hormus-blockade-a-4da056d1-71de-47db-bfbf-962c34dc7033#ref=rss",
-    "https://www.deutschlandfunk.de/einwanderung-sorgt-wieder-fuer-mehr-kinderreiche-familien-102.html"
+    "https://www.deutschlandfunk.de/einwanderung-sorgt-wieder-fuer-mehr-kinderreiche-familien-102.html",
+    "https://www.deutschlandfunk.de/melde-und-informationsstelle-antiziganismus-registriert-rund-1-680-faelle-von-beleidigungen-und-koer-102.html",
+    "https://www.deutschlandfunk.de/netanjahu-wollen-keinen-zermuerbungskrieg-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bei-der-wehrpflicht-ist-die-afd-zersplittert-110548031.html"
   ],
   "content_hashes": [
-    "7015dbb5e6208b472d60fa79942a0ff2",
-    "652b076d1181b674a2a6bd6051d46c22",
-    "6c8a55b619da3c11a454b02a47368d9a",
     "6e3b61c148df67bcf0527dff2c53d8ee",
     "8fc0e430d5746d752e506dbfaed9a23d",
     "8c700824dab87b5b25979ce3cc16e2de",
@@ -2001,12 +1998,12 @@
     "cf484c4a7d7aeb0caf1619afaf8aada8",
     "9a6de8c7a8c9dac17ecc082b180c4d7f",
     "04d2fd6fe6ef63ea6d2bebef8134fae9",
-    "4ca10b7bc4b913bca6e9fc61f4f58112"
+    "4ca10b7bc4b913bca6e9fc61f4f58112",
+    "36962d7c10f06814c6534d1c2ececf5e",
+    "7b2f2f6bbcc7d6304893181e6fce842a",
+    "f26092ce4b14b9db66f900d7b2aa108f"
   ],
   "titles": [
-    "Slowakei - Notenbankchef Kazimir wegen Korruption verurteilt",
-    "Auf großer Reise: Wadephuls heikle Washington-Mission",
-    "Rentenversicherung - DGB-Vorsitzende Fahimi fordert dauerhaft höhere Zuschüsse aus Steuergeldern",
     "Aachen - Karlspreis für EU-Kommissionschefin von der Leyen - Merz: \"Starke Vertreterin eines starken Europas\"",
     "Arbeitszeitdebatte - DGB-Chefin Fahimi warnt vor Ende des Acht-Stunden-Tags",
     "Gaza-Krieg - Grünen-Chefin Brantner fordert Waffenembargo und Sanktionen gegen israelische Minister",
@@ -3003,12 +3000,12 @@
     "Kriegseintritt der USA - Ex-Botschafter hält Angriff auf Iran für hoch riskant",
     "Eskalation im Nahen Osten - Kanzleramtschef Frei sieht erhöhte Gefahr für US-Einrichtungen",
     "Iran-Krieg: Ökonomen warnen vor Ölpreis-Schock bei Hormus-Blockade",
-    "Statistik - Einwanderung sorgt wieder für mehr kinderreiche Familien"
+    "Statistik - Einwanderung sorgt wieder für mehr kinderreiche Familien",
+    "Jahresbericht - Melde- und Informationsstelle Antiziganismus registriert rund 1.680 Fälle von Beleidigungen und Körperverletzungen",
+    "Eskalation im Nahen Osten - Netanjahu: \"Wollen keinen Zermürbungskrieg\"",
+    "Wehrpflichtdebatte: Die lauen Patrioten von der AfD"
   ],
   "hashes": [
-    "cea1204e5e734245640291530f6d6c56",
-    "7047a8b7296a3721811af634ba7998a7",
-    "c460ca3309b22e17d5510057a7718900",
     "96035935cd1e7b83533224141c627a48",
     "9a27c543a04865c2ed1d7a76217ce8b3",
     "956e7f05cf65902dd8bb5b1fff1b78fe",
@@ -4005,6 +4002,9 @@
     "f1d6eb778e7f34457545e1ac1a4b349a",
     "8e4ff8d44d95c2d67b69399973e32ae9",
     "adc5824444df8dad0181a2101001efa4",
-    "f2415f34df5c564e7d3750cf1589f896"
+    "f2415f34df5c564e7d3750cf1589f896",
+    "5aa1125fa9680e823c3034dd0a87b4a8",
+    "8e13d282a8889a7af9671bf0aee29921",
+    "29fac8b600aa1cbd05d55e40ebe8d27c"
   ]
 }
