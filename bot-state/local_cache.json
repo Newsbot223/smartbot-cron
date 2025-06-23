@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruenen-chefin-brantner-fordert-waffenembargo-und-sanktionen-gegen-israelische-minister-100.html",
-    "https://www.deutschlandfunk.de/diese-eigenschaften-braucht-es-manchmal-sogar-in-koalitionen-steinmeier-eroeffnet-deutsches-chorfest-102.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/hessen-und-hamburg-auslaenderbehoerden-koennen-keine-aufenthaltstitel-erstellen-110505962.html",
     "https://www.faz.net/aktuell/politik/ausland/usa-das-besprach-aussenminister-johann-wadephul-mit-marco-rubio-110505095.html",
     "https://www.deutschlandfunk.de/voelkerrechtswidrigen-einsatz-deutscher-waffen-verhindern-gruenen-chefin-brantner-fordert-waffenemba-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/netanjahu-wollen-keinen-zermuerbungskrieg-100.html",
     "https://www.faz.net/aktuell/politik/inland/bei-der-wehrpflicht-ist-die-afd-zersplittert-110548031.html",
     "https://www.deutschlandfunk.de/eu-verurteilt-selbstmordanschlag-auf-kirche-in-damaskus-nach-neuen-angaben-mehr-als-25-tote-100.html",
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-geldstrafe-fuer-den-dfb-100.html"
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-geldstrafe-fuer-den-dfb-100.html",
+    "https://www.deutschlandfunk.de/opferberatungen-fordern-entschiedenes-eintreten-gegen-afd-100.html",
+    "https://www.deutschlandfunk.de/eskalation-im-iran-interview-agnieszka-brugger-stv-fraktionsvorsitzende-gruene-100.html"
   ],
   "content_hashes": [
-    "8c700824dab87b5b25979ce3cc16e2de",
-    "730a5ff43ed3b07921bb11f59daf73be",
     "062e3e921ea05a6cba4fef058d421664",
     "0c0f8b2b415e58d8500c05ad946916ce",
     "ecded0860a7cfaa59242e08024f02aaa",
@@ -2001,11 +1999,11 @@
     "7b2f2f6bbcc7d6304893181e6fce842a",
     "f26092ce4b14b9db66f900d7b2aa108f",
     "4010b9951552a733de3e4030402cd29f",
-    "d1a6e4b1a68c2c0c33b2e5d31b9b294e"
+    "d1a6e4b1a68c2c0c33b2e5d31b9b294e",
+    "1b9a086cd86fb3c3e1b8f8abfb8523f8",
+    "96c56519b4714c24f4bcb81638618467"
   ],
   "titles": [
-    "Gaza-Krieg - Grünen-Chefin Brantner fordert Waffenembargo und Sanktionen gegen israelische Minister",
-    "Vokalmusik - \"Diese Eigenschaften braucht es manchmal sogar in Koalitionen\": Steinmeier eröffnet \"Deutsches Chorfest\"",
     "Technische Probleme in Ausländerbehörden",
     "Antrittsbesuch in den USA: Wadephul versucht es mit zwanghafter Zuversicht",
     "Gaza-Krieg - \"Völkerrechtswidrigen Einsatz deutscher Waffen verhindern\": Grünen-Chefin Brantner fordert Waffenembargo gegen Israel",
@@ -3003,11 +3001,11 @@
     "Eskalation im Nahen Osten - Netanjahu: \"Wollen keinen Zermürbungskrieg\"",
     "Wehrpflichtdebatte: Die lauen Patrioten von der AfD",
     "Syrien - EU verurteilt Selbstmordanschlag auf Kirche in Damaskus - nach neuen Angaben mehr als 25 Tote",
-    "Sommermärchen-Prozess - Staatsanwaltschaft fordert Geldstrafe für den DFB"
+    "Sommermärchen-Prozess - Staatsanwaltschaft fordert Geldstrafe für den DFB",
+    "Thüringen - Opferberatungen fordern entschiedenes Eintreten gegen AfD",
+    "Angriffe im Iran - Agnieszka Brugger: Völkerrechtlich fehlen die Fakten"
   ],
   "hashes": [
-    "956e7f05cf65902dd8bb5b1fff1b78fe",
-    "5ea435218a761d3fe0a6eab23b284a07",
     "5431159ee813e95c297806a795811920",
     "fbb8dacb4105168436aa3972e820f185",
     "4cee3c6d7d75acacb23f324e9d54fa8b",
@@ -4005,6 +4003,8 @@
     "8e13d282a8889a7af9671bf0aee29921",
     "29fac8b600aa1cbd05d55e40ebe8d27c",
     "64a3b68a363c29b0664f751897e5e34b",
-    "f7e1e75927a84006d711db65c4101175"
+    "f7e1e75927a84006d711db65c4101175",
+    "429cac65b6560a7a4fe50f3e6e57e626",
+    "e8532025b0054eddd88b9b34ae4955aa"
   ]
 }
