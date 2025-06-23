@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/hessen-und-hamburg-auslaenderbehoerden-koennen-keine-aufenthaltstitel-erstellen-110505962.html",
-    "https://www.faz.net/aktuell/politik/ausland/usa-das-besprach-aussenminister-johann-wadephul-mit-marco-rubio-110505095.html",
-    "https://www.deutschlandfunk.de/voelkerrechtswidrigen-einsatz-deutscher-waffen-verhindern-gruenen-chefin-brantner-fordert-waffenemba-100.html",
     "https://www.deutschlandfunk.de/vorzeitige-stimmabgabe-fuer-praesidentenwahl-in-suedkorea-schon-am-ersten-tag-20-prozent-wahlbeteili-102.html",
     "https://www.deutschlandfunk.de/regierung-verschaerft-migrationspolitik-102.html",
     "https://www.deutschlandfunk.de/nicht-voelkerrechtswidrig-einsetzen-gruenen-chefin-brantner-fordert-einschraenkungen-bei-waffenliefe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-verurteilt-selbstmordanschlag-auf-kirche-in-damaskus-nach-neuen-angaben-mehr-als-25-tote-100.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-geldstrafe-fuer-den-dfb-100.html",
     "https://www.deutschlandfunk.de/opferberatungen-fordern-entschiedenes-eintreten-gegen-afd-100.html",
-    "https://www.deutschlandfunk.de/eskalation-im-iran-interview-agnieszka-brugger-stv-fraktionsvorsitzende-gruene-100.html"
+    "https://www.deutschlandfunk.de/eskalation-im-iran-interview-agnieszka-brugger-stv-fraktionsvorsitzende-gruene-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-meldet-einigung-auf-bundeshaushalt-100.html",
+    "https://www.deutschlandfunk.de/hoehere-kassenbeitraege-fuer-gutverdiener-cdu-lehnt-spd-vorschlag-ab-100.html",
+    "https://www.deutschlandfunk.de/oberstes-gericht-hebt-freispruch-des-ehemaligen-ministerpraesidenten-babis-erneut-auf-100.html"
   ],
   "content_hashes": [
-    "062e3e921ea05a6cba4fef058d421664",
-    "0c0f8b2b415e58d8500c05ad946916ce",
-    "ecded0860a7cfaa59242e08024f02aaa",
     "699b8056546bba978cbea3aadad35473",
     "c3faaedc13480c3e9bcbadbcb9187bd1",
     "e075e3a3da096ecb8d28f26a5bc6e8be",
@@ -2001,12 +1998,12 @@
     "4010b9951552a733de3e4030402cd29f",
     "d1a6e4b1a68c2c0c33b2e5d31b9b294e",
     "1b9a086cd86fb3c3e1b8f8abfb8523f8",
-    "96c56519b4714c24f4bcb81638618467"
+    "96c56519b4714c24f4bcb81638618467",
+    "99c138d3899f56b102aa76189fc29de1",
+    "4e866e2584c24671985d981a705144c3",
+    "5e02e1eda13d4890a99cbb9364caa49b"
   ],
   "titles": [
-    "Technische Probleme in Ausländerbehörden",
-    "Antrittsbesuch in den USA: Wadephul versucht es mit zwanghafter Zuversicht",
-    "Gaza-Krieg - \"Völkerrechtswidrigen Einsatz deutscher Waffen verhindern\": Grünen-Chefin Brantner fordert Waffenembargo gegen Israel",
     "Staatskrise - Vorzeitige Stimmabgabe für Präsidentenwahl in Südkorea - schon am ersten Tag 20 Prozent Wahlbeteiligung",
     "Argentinien - Regierung verschärft Migrationspolitik",
     "Gaza-Krieg - \"Nicht völkerrechtswidrig einsetzen\": Grünen-Chefin Brantner fordert Einschränkungen bei Waffenlieferungen an Israel",
@@ -3003,12 +3000,12 @@
     "Syrien - EU verurteilt Selbstmordanschlag auf Kirche in Damaskus - nach neuen Angaben mehr als 25 Tote",
     "Sommermärchen-Prozess - Staatsanwaltschaft fordert Geldstrafe für den DFB",
     "Thüringen - Opferberatungen fordern entschiedenes Eintreten gegen AfD",
-    "Angriffe im Iran - Agnieszka Brugger: Völkerrechtlich fehlen die Fakten"
+    "Angriffe im Iran - Agnieszka Brugger: Völkerrechtlich fehlen die Fakten",
+    "Finanzminister - Klingbeil meldet Einigung auf Bundeshaushalt",
+    "Gesundheitspolitik - Höhere Kassenbeiträge für Gutverdiener? CDU lehnt SPD-Vorschlag ab",
+    "Tschechien - Oberstes Gericht hebt Freispruch des ehemaligen Ministerpräsidenten Babis erneut auf"
   ],
   "hashes": [
-    "5431159ee813e95c297806a795811920",
-    "fbb8dacb4105168436aa3972e820f185",
-    "4cee3c6d7d75acacb23f324e9d54fa8b",
     "3c354eca3933ce0cb373e2b9e6a6c9a9",
     "9181522be6f6cfee03b1730b6e7915a6",
     "df26709c8aaee05cf12f20f4b21f3e4b",
@@ -4005,6 +4002,9 @@
     "64a3b68a363c29b0664f751897e5e34b",
     "f7e1e75927a84006d711db65c4101175",
     "429cac65b6560a7a4fe50f3e6e57e626",
-    "e8532025b0054eddd88b9b34ae4955aa"
+    "e8532025b0054eddd88b9b34ae4955aa",
+    "8be82d855669ad5427f65fb0d0ff02d7",
+    "bd054302b3b467b5a5d59dcf03ebb45a",
+    "ca0af1dfad68a6935e1ab3248fbae504"
   ]
 }
