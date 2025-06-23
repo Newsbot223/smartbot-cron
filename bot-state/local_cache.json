@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nicht-voelkerrechtswidrig-einsetzen-gruenen-chefin-brantner-fordert-einschraenkungen-bei-waffenliefe-100.html",
-    "https://www.deutschlandfunk.de/soldaten-aus-thailand-und-kambodscha-liefern-sich-feuergefecht-104.html",
-    "https://www.deutschlandfunk.de/russland-stattet-nordkorea-mit-luftabwehrsystem-aus-102.html",
     "https://www.deutschlandfunk.de/richterin-verlaengert-stopp-harvard-darf-vorerst-weiter-auslaendische-studenten-aufnehmen-102.html",
     "https://www.deutschlandfunk.de/lu-s-montenegro-erneut-zum-ministerpraesidenten-ernannt-104.html",
     "https://www.deutschlandfunk.de/us-berufungsgericht-setzt-importzoelle-von-praesident-trump-wieder-in-kraft-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hoehere-kassenbeitraege-fuer-gutverdiener-cdu-lehnt-spd-vorschlag-ab-100.html",
     "https://www.deutschlandfunk.de/oberstes-gericht-hebt-freispruch-des-ehemaligen-ministerpraesidenten-babis-erneut-auf-100.html",
     "https://www.deutschlandfunk.de/klingbeil-meldet-einigung-auf-bundeshaushalt-170-milliarden-euro-schulden-in-zwei-jahren-100.html",
-    "https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss"
+    "https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss",
+    "https://www.deutschlandfunk.de/bdi-rechnet-nicht-mit-schneller-erholung-der-konjunktur-102.html",
+    "https://www.deutschlandfunk.de/kommission-will-am-freitag-mindestlohn-beschluss-verkuenden-100.html",
+    "https://www.faz.net/aktuell/politik/inland/volker-geyer-zum-vorsitzenden-des-dbb-beamtenbunds-gewaehlt-110553360.html"
   ],
   "content_hashes": [
-    "e075e3a3da096ecb8d28f26a5bc6e8be",
-    "c43d011abe30924140cf248c01547481",
-    "df7947fdc1ff63e0489a3a22f7d8ab13",
     "b7dd903ae16b1e1a229aae06e7ff14f8",
     "5b5c15783aa2327e1537261ae601c81b",
     "75c7244b3e891a60ca88358d475a851f",
@@ -2001,12 +1998,12 @@
     "4e866e2584c24671985d981a705144c3",
     "5e02e1eda13d4890a99cbb9364caa49b",
     "e1663e5a9abcea509b00d65e6b6d3048",
-    "23ca1599800405fcaaf0c7dd8cb2dba1"
+    "23ca1599800405fcaaf0c7dd8cb2dba1",
+    "cfe707ec7c5718a0ca5b7bce8a4097c2",
+    "e2eba3213afa1ad6f5c7899b51224587",
+    "7f55a4d0d9ce08bc647a2b7c10c1a91c"
   ],
   "titles": [
-    "Gaza-Krieg - \"Nicht völkerrechtswidrig einsetzen\": Grünen-Chefin Brantner fordert Einschränkungen bei Waffenlieferungen an Israel",
-    "Umstrittenes Grenzgebiet - Soldaten aus Thailand und Kambodscha liefern sich Feuergefecht",
-    "Bericht - Russland stattet Nordkorea mit Luftabwehrsystem aus",
     "USA - Richterin verlängert Stopp: Harvard darf vorerst weiter ausländische Studenten aufnehmen",
     "Portugal - Luís Montenegro erneut zum Ministerpräsidenten ernannt",
     "Weltwirtschaft - US-Berufungsgericht setzt Importzölle von Präsident Trump wieder in Kraft",
@@ -3003,12 +3000,12 @@
     "Gesundheitspolitik - Höhere Kassenbeiträge für Gutverdiener? CDU lehnt SPD-Vorschlag ab",
     "Tschechien - Oberstes Gericht hebt Freispruch des ehemaligen Ministerpräsidenten Babis erneut auf",
     "Finanzminister - Klingbeil meldet Einigung auf Bundeshaushalt - 170 Milliarden Euro Schulden in zwei Jahren",
-    "Wirtschaft: BDI rechnet mit Konjunkturschwäche durch Zollstreit mit den USA"
+    "Wirtschaft: BDI rechnet mit Konjunkturschwäche durch Zollstreit mit den USA",
+    "Tag der Industrie - BDI rechnet nicht mit schneller Erholung der Konjunktur",
+    "Einkommen - Kommission will am Freitag Mindestlohn-Beschluss verkünden",
+    "Neuer Beamtenbund-Chef: Interessenvertreter der Staatsdiener"
   ],
   "hashes": [
-    "df26709c8aaee05cf12f20f4b21f3e4b",
-    "7f8da5b8a1e6f012b7666240294000da",
-    "1278d74aee076a377ac010dc2bc5764c",
     "0d0f89e07d05504caff52b86a24eb6fb",
     "66d5e75dcf445a206dbcb4a4b962a3f1",
     "7e810e981b67e8369bfb851bec3da21f",
@@ -4005,6 +4002,9 @@
     "bd054302b3b467b5a5d59dcf03ebb45a",
     "ca0af1dfad68a6935e1ab3248fbae504",
     "f31b757f982d562c08b38e6e946a79e7",
-    "7f84546cd2eabc44bce61f78bd2411cf"
+    "7f84546cd2eabc44bce61f78bd2411cf",
+    "e101ab3f7d1dbb77d55cb9eed4405005",
+    "9df02a85d6cbeea19d9a6deefc0041d4",
+    "19aa7ef3833d7ac905a87de424e9b25a"
   ]
 }
