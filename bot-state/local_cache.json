@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/75-jahre-karlspreis-weitsichtig-und-uebermuetig-110502380.html",
-    "https://www.deutschlandfunk.de/israel-kuendigt-den-bau-neuer-siedlungen-im-westjordanland-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-will-in-streit-um-bundesgeschaeftsstelle-in-berlin-mediation-mit-vermieter-110505291.html",
     "https://www.deutschlandfunk.de/cholera-epidemie-breitet-sich-aus-102.html",
     "https://www.deutschlandfunk.de/china-startet-asteroiden-mission-102.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-begruesst-beschluesse-des-koalitionsausschusses-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bdi-praesident-riesensorgen-wegen-krieg-in-nahost-100.html",
     "https://www.deutschlandfunk.de/mindestens-22-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-baetzing-mahnt-schutz-von-christen--106.html",
     "https://www.deutschlandfunk.de/kriegseintritt-der-usa-haltung-berlins-interview-juergen-hardt-cdu-100.html",
-    "https://www.faz.net/aktuell/politik/inland/streitpunkte-im-ueberblick-fuer-die-koalition-wird-es-jetzt-ernst-110551214.html"
+    "https://www.faz.net/aktuell/politik/inland/streitpunkte-im-ueberblick-fuer-die-koalition-wird-es-jetzt-ernst-110551214.html",
+    "https://www.deutschlandfunk.de/wadephul-fordert-iran-zu-direkten-gespraechen-mit-den-usa-auf-kallas-warnt-vor-blockade-der-strasse--100.html",
+    "https://www.deutschlandfunk.de/feuerwehr-kaempft-auf-chios-weiter-gegen-drei-grosse-waldbraende-verdacht-auf-brandstiftung-100.html",
+    "https://www.deutschlandfunk.de/kriegseintritt-der-usa-interview-peter-wittig-ex-botschafter-in-washington-100.html"
   ],
   "content_hashes": [
-    "712e15abe725339bb74122f0a14301e0",
-    "a77fcfe770996b9aa7e47b523a6f5679",
-    "10d25342964ee439df58a8a0530ae7d0",
     "18327438f263aba43b32bade88ea0e6f",
     "bae310882acfb917b51c8cb1ac4e2cb2",
     "7789293557f8c68b387453440b8129c3",
@@ -2001,12 +1998,12 @@
     "d7cb2de7d344d1144a6d7e0c855ba267",
     "aaafbdaa5e75d2f111f893f7d5252ece",
     "4d6b8e24f8ce7dd711f4d27b50c4e1ad",
-    "8c324406e546fa1b6b274e29a6d0e170"
+    "8c324406e546fa1b6b274e29a6d0e170",
+    "08c89e2aaf6be7d7d3c726beabafae63",
+    "37e1cce2d697a24b48f477b6704ab45f",
+    "cf484c4a7d7aeb0caf1619afaf8aada8"
   ],
   "titles": [
-    "75 Jahre Karlspreis: Weitsichtig und übermütig",
-    "Nahost - Israel kündigt den Bau neuer Siedlungen im Westjordanland an",
-    "Bundesgeschäftsstelle: AfD setzt auf Mediation mit Vermieter",
     "Sudan - Cholera-Epidemie breitet sich aus",
     "Raumfahrt - China startet Asteroiden-Mission",
     "\"Wichtiger erster Schritt\" - Deutsche Wirtschaft begrüßt Beschlüsse des Koalitionsausschusses",
@@ -3003,12 +3000,12 @@
     "Tag der Industrie - BDI-Präsident: \"Riesensorgen\" wegen Krieg in Nahost",
     "Syrien - Mindestens 22 Tote bei Selbstmordanschlag auf Kirche in Damaskus - Bätzing mahnt Schutz von Christen an",
     "Iran-Israel-Konflikt - Hardt sieht Chance für Diplomatie nach US-Militärschlag",
-    "Streitpunkte im Überblick: Für die Koalition wird es jetzt ernst"
+    "Streitpunkte im Überblick: Für die Koalition wird es jetzt ernst",
+    "Treffen der EU-Außenminister - Wadephul fordert Iran zu direkten Gesprächen mit den USA auf - Kallas warnt vor Blockade der Straße von Hormus",
+    "Griechenland - Feuerwehr kämpft auf Chios weiter gegen drei große Waldbrände - Verdacht auf Brandstiftung",
+    "Kriegseintritt der USA - Ex-Botschafter hält Angriff auf Iran für hoch riskant"
   ],
   "hashes": [
-    "1f7a208351f994eeabdde6fb9b81f154",
-    "198a49fdbf2aee12e76d015f68b9d195",
-    "d9ffd43d2191b6dfe4f57ac18752fccd",
     "280792dec93f6d15d36c9521177825a7",
     "bd19d40b4c1959fbe366109cb332c586",
     "e2a78193cab73d79066a9009bc2565a2",
@@ -4005,6 +4002,9 @@
     "934941bc9ef4a02005c20fc199c36b09",
     "4d5a7fb296f27d786f8b7e1dfd254d54",
     "1448ce712ed34c693788e01173c30d7b",
-    "44242bbf64e4f82688ba440a240faa08"
+    "44242bbf64e4f82688ba440a240faa08",
+    "3ee99ed810f6625552e8b1fcbbf3d249",
+    "b033f138fb562c612f1f8f3aea336566",
+    "f1d6eb778e7f34457545e1ac1a4b349a"
   ]
 }
