@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-laesst-teilnahme-an-istanbuler-gespraechen-mit-russland-offen-100.html",
-    "https://www.deutschlandfunk.de/handelskommissar-sefcovic-setzt-auf-einigung-102.html",
     "https://www.deutschlandfunk.de/aerztetag-fuer-entschaerfung-von-abtreibungsregeln-100.html",
     "https://www.deutschlandfunk.de/vereinte-nationen-alle-bewohner-im-gazastreifen-von-hungersnot-bedroht-frankreich-droht-israel-mit-s-100.html",
     "https://www.deutschlandfunk.de/arbeitsagentur-befuerchtet-fehlbetrag-von-11-9-milliarden-euro-bis-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/waldbrandgefahr-ist-bereits-gross-100.html",
     "https://www.spiegel.de/panorama/justiz/studie-zum-ladendiebstahl-in-deutschen-geschaeften-wird-immer-mehr-geklaut-a-dcc6d81e-e498-4e9e-a230-dab55c550b7f#ref=rss",
     "https://www.deutschlandfunk.de/trump-waffenruhe-zwischen-israel-und-iran-100.html",
-    "https://www.deutschlandfunk.de/syriens-grossmufti-usama-al-rifai-verurteilt-den-selbstmordanschlag-auf-kirche-in-damaskus-mit-minde-102.html"
+    "https://www.deutschlandfunk.de/syriens-grossmufti-usama-al-rifai-verurteilt-den-selbstmordanschlag-auf-kirche-in-damaskus-mit-minde-102.html",
+    "https://www.deutschlandfunk.de/lies-spd-bund-entlastet-kommunen-vollstaendig-fuer-steuerausfaelle-100.html",
+    "https://www.deutschlandfunk.de/deutschland-ist-e-bike-hochburg-in-europa-sinkende-preise-erwartet-100.html"
   ],
   "content_hashes": [
-    "ea6b6d2ee1ab59a4f6b524619fa2e502",
-    "b2790e42a602bc7061c0f1c5a3b84486",
     "f50827015c84e7dc57ccc02d76083b00",
     "ac3c38064e172925a1e925c599d6b4c4",
     "27a8f39f9a89d1fce7b3baed231178d8",
@@ -2001,11 +1999,11 @@
     "a378a3cb7c1f1d45013251ff68d2f257",
     "2f7793c55b0da94a31f4087c04b8e469",
     "3119ff4ff4d5b5b6932167fa36149021",
-    "bf7deee275618ae4fb7a1b2e409e9a01"
+    "bf7deee275618ae4fb7a1b2e409e9a01",
+    "40dc88daf26b3121505f8f7a43b25416",
+    "6cdfc5e13cbd6e9fc128c5320fbde3ed"
   ],
   "titles": [
-    "Türkischer Außenminister in Kiew - Ukraine lässt Teilnahme an Istanbuler Gesprächen mit Russland offen",
-    "Handelsstreit mit den USA - Handelskommissar Sefcovic setzt auf Einigung",
     "Gesundheit - Ärztetag für Entschärfung von Abtreibungsregeln",
     "Gaza-Krieg - Vereinte Nationen: Alle Bewohner im Gazastreifen von Hungersnot bedroht - Frankreich droht Israel mit Sanktionen",
     "Wirtschaft - Arbeitsagentur befürchtet Fehlbetrag von 11,9 Milliarden Euro bis 2029",
@@ -3003,11 +3001,11 @@
     "Feuerwehrverband - \"Waldbrandgefahr ist bereits groß\"",
     "Studie zum Ladendiebstahl: In deutschen Geschäften wird immer mehr geklaut",
     "Krieg in Nahost - Trump kündigt Waffenruhe zwischen Israel und Iran an",
-    "Terrorismus - Syriens Großmufti Usama al-Rifai verurteilt den Selbstmordanschlag auf Kirche in Damaskus mit mindestens 25 Toten"
+    "Terrorismus - Syriens Großmufti Usama al-Rifai verurteilt den Selbstmordanschlag auf Kirche in Damaskus mit mindestens 25 Toten",
+    "Programm für die Wirtschaft - Lies (SPD): Bund entlastet Kommunen vollständig für Steuerausfälle",
+    "EY-Analyse - Deutschland ist E-Bike-Hochburg in Europa - sinkende Preise erwartet"
   ],
   "hashes": [
-    "c7af84148a70631359e8ae3570e388cb",
-    "2d9e95c46b5864b53306517479bfccde",
     "b8d91eab516c2e4b037568c62cbf1bc0",
     "5a8bd17a0dc73c07b83b803b887006e1",
     "fa691df1266dcaf9df2b7682197e62df",
@@ -4005,6 +4003,8 @@
     "1b6ea616494e6dee2fead0fbdaa7cb43",
     "0c1fbc06aeac2ec6db44654bdec7aef6",
     "3711d1e5e27277b0f8a0239184ccc315",
-    "996e6c6d044b8fa50c1cef57fa458bb6"
+    "996e6c6d044b8fa50c1cef57fa458bb6",
+    "ba3c80a1012f895a2e9369d5241dab82",
+    "852eff8cf5a93c488c96fd64ac78512f"
   ]
 }
