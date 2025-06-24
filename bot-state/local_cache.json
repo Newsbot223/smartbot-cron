@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-verspricht-verdoppelung-der-stahl-zoelle-100.html",
-    "https://www.deutschlandfunk.de/afd-waehlt-ihren-spitzenkandidaten-fuer-die-landtagswahl-102.html",
-    "https://www.deutschlandfunk.de/forderungen-nach-ausweitung-von-rauchverboten-100.html",
-    "https://www.deutschlandfunk.de/trump-verspricht-verdoppelung-der-stahl-und-aluminiumzoelle-100.html",
-    "https://www.deutschlandfunk.de/weiter-russische-luftangriffe-verletzte-auch-in-russland-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-greift-wieder-ziele-in-syrien-an-106.html",
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-frauen-besser-schuetzen-100.html",
     "https://www.deutschlandfunk.de/gedenken-an-vor-einem-jahr-getoeteten-polizisten-102.html",
     "https://www.deutschlandfunk.de/ex-praesident-biden-zeigt-sich-optimistisch-bezueglich-seiner-krebserkrankung-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/bundesregierung-plant-mit-166-milliarden-fuer-infrastruktur-100.html",
     "https://www.deutschlandfunk.de/bund-will-erwartete-steuerausfaelle-der-kommunen-komplett-uebernehmen-laender-werden-teilweise-entla-104.html",
     "https://www.deutschlandfunk.de/betroffenenorganisation-eckiger-tisch-zeigt-kardinal-woelki-wegen-prozessbetrugs-an-100.html",
-    "https://www.deutschlandfunk.de/generalsekretaer-rutte-usa-bekennen-sich-zur-nato-100.html"
+    "https://www.deutschlandfunk.de/generalsekretaer-rutte-usa-bekennen-sich-zur-nato-100.html",
+    "https://www.deutschlandfunk.de/mehrere-tote-bei-russischen-angriffen-102.html",
+    "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-humanitaerer-hilfe-102.html",
+    "https://www.deutschlandfunk.de/konkursverwalter-hat-interessenten-fuer-insolventes-unternehmen-northvolt-100.html",
+    "https://www.deutschlandfunk.de/waldbrandgefahr-in-deutschland-ist-bereits-gross-100.html",
+    "https://www.deutschlandfunk.de/waldbraende-auf-insel-chios-feuerwehr-meldet-erste-erfolge-102.html",
+    "https://www.deutschlandfunk.de/nato-gipfel-im-schatten-der-iran-krise-interview-nico-lange-sich-exp-100.html"
   ],
   "content_hashes": [
-    "8f3fe2f9d580c6872f60c5161b29a945",
-    "67e78e079a1369c959533ed9f45453b2",
-    "7e7886ff54f1ad205c62f24c34a33d1a",
-    "8228d8980dbec56160ce1dd28a3bde6b",
-    "3024032d5acf44e5ba74ae468fbe2b34",
-    "5416b0da5360436d4843d85ae842ab99",
     "83916b13e304a8176037ca9eed9e600c",
     "bcd1479554131a8c95e6d022d93451a4",
     "26c175ae062d30e9591f26758f5cd700",
@@ -2001,15 +1995,15 @@
     "c69752d2145145aa34c598862fe3dfc9",
     "8ced1890bfa0e9105c236a3d7b97a415",
     "ed3423dce10b53a095326a4a08013fd7",
-    "b94b385f7d072e0bd08f7cbf94af7f53"
+    "b94b385f7d072e0bd08f7cbf94af7f53",
+    "2024cc96ec84623e566c74da138b83f4",
+    "cc55b2c9dc0849d4a498edf0d5438874",
+    "8789da4e3c4d9eeb722a8374529f3354",
+    "f769409956472a6309fa02e531547dc8",
+    "9107321843f1190287da282d8678d5c2",
+    "d839fcc35860a46083613f1feccdd97d"
   ],
   "titles": [
-    "USA - Trump verspricht Verdoppelung der Stahl-Zölle",
-    "Baden-Württemberg - AfD wählt ihren Spitzenkandidaten für die Landtagswahl 2026",
-    "Nach französischem Vorbild - Forderungen nach Ausweitung von Rauchverboten",
-    "USA - Trump verspricht Verdoppelung der Stahl- und Aluminiumzölle",
-    "Ukraine-Krieg - Weiter russische Luftangriffe, Verletzte auch in Russland",
-    "Syrien - Israelische Armee greift wieder Ziele in Syrien an",
     "Häusliche Gewalt - Bundesjustizministerin Hubig will Frauen besser schützen",
     "Mannheim - Gedenken an vor einem Jahr getöteten Polizisten",
     "USA - Ex-Präsident Biden zeigt sich optimistisch bezüglich seiner Krebserkrankung",
@@ -3003,15 +2997,15 @@
     "Investitionen - Bundesregierung plant mit 166 Milliarden für Infrastruktur",
     "Investitionspaket - Bund will erwartete Steuerausfälle der Kommunen komplett übernehmen - Länder werden teilweise entlastet",
     "Bistum Köln - Betroffenenorganisation \"Eckiger Tisch\" zeigt Kardinal Woelki wegen Prozessbetrugs an",
-    "Vor NATO-Gipfel - Generalsekretär Rutte: USA bekennen sich zur NATO"
+    "Vor NATO-Gipfel - Generalsekretär Rutte: USA bekennen sich zur NATO",
+    "Ukraine - Mehrere Tote bei russischen Angriffen",
+    "Bundeshaushalt - Kritik an Kürzungen bei humanitärer Hilfe",
+    "Batteriehersteller - Konkursverwalter hat Interessenten für insolventes Unternehmen Northvolt",
+    "Feuerwehrverband - \"Waldbrandgefahr in Deutschland ist bereits groß\"",
+    "Griechenland - Waldbrände auf Insel Chios - Feuerwehr meldet erste Erfolge",
+    "Vor NATO-Gipfel - \"Deutschlands Iran-Politik war nicht richtig\""
   ],
   "hashes": [
-    "5b9388840bbc50085ae29a4bb5ce50de",
-    "b0abe4a97a851a11e6418f804680fe66",
-    "dbbd9244e89db160799840258b6fcc18",
-    "bf215819d260c8934cf622507c24327d",
-    "1da02b42212b2425774b16556339be72",
-    "ce8d052077daf64a871fdfae54a5f8d8",
     "5db9a0feb2fe1c899c825cea4ca5f3f4",
     "9dc8f546fe2bb7aa8e730be322b0d50a",
     "a528d5e93d33c9640214cf8a2cb7a377",
@@ -4005,6 +3999,12 @@
     "4c802fd7e3c30d33ea4e4ea4288c463b",
     "a331382181e80b9287c24f47cba7123e",
     "b2378166cf98e1604d132b8768e77353",
-    "9aa03ea9298069f15251198f04bf4ef3"
+    "9aa03ea9298069f15251198f04bf4ef3",
+    "13bfede07c670726310ec5a7b234c0ae",
+    "82e7cedb026e2e621167ef8b8e6e6704",
+    "86bd3eea2efb3605435a611ee0e28dfc",
+    "ccbbc5c2ff6b0795bcac84bf5ebe8fd0",
+    "26187e55ce6ce33012e061b4b79bda3d",
+    "71447875d6eea97707caede5b368a3f4"
   ]
 }
