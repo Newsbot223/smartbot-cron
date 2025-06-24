@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/frohnmaier-ist-afd-spitzenkandidat-in-baden-wuerttemberg-110509612.html",
     "https://www.deutschlandfunk.de/trump-feuert-die-direktorin-der-national-portrait-gallery-102.html",
     "https://www.deutschlandfunk.de/moderna-erhaelt-in-den-usa-zulassung-fuer-neuen-covid-impfstoff-100.html",
     "https://www.deutschlandfunk.de/afd-baden-wuerttemberg-waehlt-landeschef-frohnmaier-zum-kandidaten-fuer-ministerpraesidenten-amt-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/viele-tote-und-verletzte-nach-raketenangriff-auf-dnipro-100.html",
     "https://www.deutschlandfunk.de/israels-opposition-und-geisel-angehoerige-fordern-ende-des-krieges-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/nato-gipfel-beginnt-mit-empfang-beim-koenig-trump-in-niederlanden-eingetroffen-100.html",
-    "https://www.deutschlandfunk.de/ex-minister-spahn-durch-bericht-ueber-maskenkaeufe-unter-druck-102.html"
+    "https://www.deutschlandfunk.de/ex-minister-spahn-durch-bericht-ueber-maskenkaeufe-unter-druck-102.html",
+    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-100.html"
   ],
   "content_hashes": [
-    "54fbd9928a22ee239b60ad26bd324f81",
     "b7558e991592d0d34f6e07abddb303a9",
     "333866ae074e5ea5463128d32f4001c2",
     "9c532894b3eaf581d56e88f058778c58",
@@ -2001,10 +2000,10 @@
     "e73dcb486a4f3c56a4eb874472afdc76",
     "f0977c1cac1d0c0181ccbb2e12ca1467",
     "ba5b20d7f3d31760f178cd26d2763251",
-    "334de5131248f89d26c42af74b90155b"
+    "334de5131248f89d26c42af74b90155b",
+    "a5df321dc0c7d7881d4858ea268c91d6"
   ],
   "titles": [
-    "Baden-Württemberg: Frohnmaier führt AfD in Landtagswahlkampf",
     "USA - Trump feuert die Direktorin der National Portrait Gallery",
     "US-Biotechkonzern - Moderna erhält in den USA Zulassung für neuen Covid-Impfstoff",
     "Landtagswahl 2026 - AfD Baden-Württemberg wählt Landeschef Frohnmaier zum Kandidaten für Ministerpräsidenten-Amt",
@@ -3003,10 +3002,10 @@
     "Russlands Krieg in der Ukraine - Viele Tote und Verletzte nach Raketenangriff auf Dnipro",
     "Nahost - Israels Opposition und Geisel-Angehörige fordern Ende des Krieges im Gazastreifen",
     "Den Haag - NATO-Gipfel beginnt mit Empfang beim König - Trump in Niederlanden eingetroffen",
-    "Corona - Ex-Minister Spahn durch Bericht über Maskenkäufe unter Druck"
+    "Corona - Ex-Minister Spahn durch Bericht über Maskenkäufe unter Druck",
+    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza"
   ],
   "hashes": [
-    "0cf1979e22f576b82c5ea16fd3df507b",
     "3f702830e8cba5cb60434c3807cf61b1",
     "62fd9cda11b483a79cc9b541e492ce96",
     "5401d35360cc5a609e56feb7feef909a",
@@ -4005,6 +4004,7 @@
     "af4a58f36acb2b5234369cc3b156080a",
     "9fa0f4d4c47b5d1966596d122d63ee36",
     "e3ae422067ee2fd5f2c8e4a3b3351a26",
-    "733220f0e13dacfaad1dfbb0ce4953f5"
+    "733220f0e13dacfaad1dfbb0ce4953f5",
+    "fe3631b9d64145d64e9cfc3470a9cf28"
   ]
 }
