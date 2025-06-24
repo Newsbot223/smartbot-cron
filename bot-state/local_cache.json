@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/leichte-entspannung-durch-wasserabfluss-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-wirft-russland-vor-bedingungen-fuer-waffenruhe-gespraeche-zurueckzuhalten-102.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-verabschiedet-musk-offiziell-als-regierungsberater-100.html",
-    "https://www.deutschlandfunk.de/tausende-studenten-demonstrieren-gegen-vucic-regierung-106.html",
     "https://www.faz.net/aktuell/politik/inland/wegwerfgesellschaft-und-lieferkettengesetz-mode-ist-kein-muell-110480859.html",
     "https://www.deutschlandfunk.de/trump-verspricht-verdoppelung-der-stahl-zoelle-100.html",
     "https://www.deutschlandfunk.de/afd-waehlt-ihren-spitzenkandidaten-fuer-die-landtagswahl-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/palaestinenser-melden-weitere-25-tote-bei-neue-israelischen-angriffen-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/bauernpraesident-rukwied-versorgungssicherheit-so-wichtig-wie-verteidigung-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-merz-muessen-uns-der-neuen-wirklichkeit-stellen-faz-110093143.html",
-    "https://www.faz.net/aktuell/politik/inland/regierung-will-mit-enquetekommission-corona-aufarbeiten-110554809.html"
+    "https://www.faz.net/aktuell/politik/inland/regierung-will-mit-enquetekommission-corona-aufarbeiten-110554809.html",
+    "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-spd-schwarze-null-kein-wert-an-sich-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-plant-mit-166-milliarden-fuer-infrastruktur-100.html",
+    "https://www.deutschlandfunk.de/bund-will-erwartete-steuerausfaelle-der-kommunen-komplett-uebernehmen-laender-werden-teilweise-entla-104.html",
+    "https://www.deutschlandfunk.de/betroffenenorganisation-eckiger-tisch-zeigt-kardinal-woelki-wegen-prozessbetrugs-an-100.html"
   ],
   "content_hashes": [
-    "a4c15e2e020aa9417235db1feeacb3e1",
-    "1a8c5a080ec4b814fa84f1f466ff0d4e",
-    "2396346a8e7c3a7b140ffed19652fc19",
-    "906390b13b969a154bd65d0836978fb5",
     "e19c46ee307c1ed9585e373d0b3938f3",
     "8f3fe2f9d580c6872f60c5161b29a945",
     "67e78e079a1369c959533ed9f45453b2",
@@ -2001,13 +1997,13 @@
     "2def2a4941df433fdc43359bfeebf61b",
     "0926d31c266607ed264324862c8ba780",
     "81bba416c9151905ba6bec934effa455",
-    "50178b6e3b05dbed344da0759be2bdd3"
+    "50178b6e3b05dbed344da0759be2bdd3",
+    "de7325f0ab7325478b476524892476f0",
+    "c69752d2145145aa34c598862fe3dfc9",
+    "8ced1890bfa0e9105c236a3d7b97a415",
+    "ed3423dce10b53a095326a4a08013fd7"
   ],
   "titles": [
-    "Schweizer Lötschental - Leichte Entspannung durch Wasserabfluss",
-    "Krieg in der Ukraine - Selenskyj wirft Russland vor, Bedingungen für Waffenruhe-Gespräche zurückzuhalten",
-    "\"Doge\"-Behörde - US-Präsident Trump verabschiedet Musk offiziell als Regierungsberater",
-    "Serbien - Tausende Studenten demonstrieren gegen Vucic-Regierung",
     "Kommentar: Mode ist kein Müll",
     "USA - Trump verspricht Verdoppelung der Stahl-Zölle",
     "Baden-Württemberg - AfD wählt ihren Spitzenkandidaten für die Landtagswahl 2026",
@@ -3003,13 +2999,13 @@
     "Nahost - Palästinenser melden weitere 25 Tote bei neue israelischen Angriffen im Gazastreifen",
     "Bauerntag - Bauernpräsident Rukwied: Versorgungssicherheit so wichtig wie Verteidigung",
     "Liveblog zur Merz-Regierung: Merz: Müssen uns der neuen Wirklichkeit stellen",
-    "Enquetekommission: Regierung will Corona aufarbeiten"
+    "Enquetekommission: Regierung will Corona aufarbeiten",
+    "Kabinett beschließt Haushaltsentwurf - Bundesfinanzminister Klingbeil (SPD): Schwarze Null kein Wert an sich",
+    "Investitionen - Bundesregierung plant mit 166 Milliarden für Infrastruktur",
+    "Investitionspaket - Bund will erwartete Steuerausfälle der Kommunen komplett übernehmen - Länder werden teilweise entlastet",
+    "Bistum Köln - Betroffenenorganisation \"Eckiger Tisch\" zeigt Kardinal Woelki wegen Prozessbetrugs an"
   ],
   "hashes": [
-    "c5d6d4848837217b2876290595df1e3c",
-    "cadd3e611233b4fb45e88c5e0f90376e",
-    "750add22e7be289c102d8b0d37e9d4cc",
-    "6c2ecf31ef2e5e144bc6580accaa7daa",
     "7a4b259c4be29d1e0a572dc3d7b334df",
     "5b9388840bbc50085ae29a4bb5ce50de",
     "b0abe4a97a851a11e6418f804680fe66",
@@ -4005,6 +4001,10 @@
     "5a30b4d86d76dbf3fcd3557efc114da9",
     "6f63f008faede02a94e155db573763cf",
     "1019ff89f1eacdf1bc2f9d383e9de0e4",
-    "3b3339db7af08c871a6ce2217f31462c"
+    "3b3339db7af08c871a6ce2217f31462c",
+    "2952c716db34ed8567c77bff67bbf55d",
+    "4c802fd7e3c30d33ea4e4ea4288c463b",
+    "a331382181e80b9287c24f47cba7123e",
+    "b2378166cf98e1604d132b8768e77353"
   ]
 }
