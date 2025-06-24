@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-feuert-die-direktorin-der-national-portrait-gallery-102.html",
-    "https://www.deutschlandfunk.de/moderna-erhaelt-in-den-usa-zulassung-fuer-neuen-covid-impfstoff-100.html",
-    "https://www.deutschlandfunk.de/afd-baden-wuerttemberg-waehlt-landeschef-frohnmaier-zum-kandidaten-fuer-ministerpraesidenten-amt-100.html",
     "https://www.deutschlandfunk.de/iaea-bericht-deutlich-mehr-fast-waffentaugliches-uran-im-iran-100.html",
     "https://www.deutschlandfunk.de/nils-dunkel-ist-europameister-am-barren-102.html",
     "https://www.deutschlandfunk.de/tausende-studierende-demonstrieren-gegen-vucic-regierung-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/israels-opposition-und-geisel-angehoerige-fordern-ende-des-krieges-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/nato-gipfel-beginnt-mit-empfang-beim-koenig-trump-in-niederlanden-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/ex-minister-spahn-durch-bericht-ueber-maskenkaeufe-unter-druck-102.html",
-    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-100.html"
+    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-100.html",
+    "https://www.deutschlandfunk.de/ex-minister-spahn-durch-bericht-ueber-maskenkaeufe-unter-druck-106.html",
+    "https://www.deutschlandfunk.de/selenskyj-rede-heute-vor-dem-europarat-100.html",
+    "https://www.deutschlandfunk.de/kulturetat-des-bundes-soll-leicht-steigen-102.html"
   ],
   "content_hashes": [
-    "b7558e991592d0d34f6e07abddb303a9",
-    "333866ae074e5ea5463128d32f4001c2",
-    "9c532894b3eaf581d56e88f058778c58",
     "5c6d5b99f8deeccaaf806851bdeb9057",
     "450f28ecce71925db87b3ac0e15f6b19",
     "6262bea2bbd8c13b1102d0f991ad7656",
@@ -2001,12 +1998,12 @@
     "f0977c1cac1d0c0181ccbb2e12ca1467",
     "ba5b20d7f3d31760f178cd26d2763251",
     "334de5131248f89d26c42af74b90155b",
-    "a5df321dc0c7d7881d4858ea268c91d6"
+    "a5df321dc0c7d7881d4858ea268c91d6",
+    "52d18d4de5bede004cb90afd8b742c3d",
+    "2ecef75cc977514ef676a667d8a84420",
+    "884b80f7e955cbd224a409f43fe71d97"
   ],
   "titles": [
-    "USA - Trump feuert die Direktorin der National Portrait Gallery",
-    "US-Biotechkonzern - Moderna erhält in den USA Zulassung für neuen Covid-Impfstoff",
-    "Landtagswahl 2026 - AfD Baden-Württemberg wählt Landeschef Frohnmaier zum Kandidaten für Ministerpräsidenten-Amt",
     "Internationale Atomenergiebehörde - IAEA-Bericht: Deutlich mehr fast waffentaugliches Uran im Iran",
     "Turnen - Nils Dunkel ist Europameister am Barren",
     "Serbien - Tausende Studierende demonstrieren gegen Vucic-Regierung",
@@ -3003,12 +3000,12 @@
     "Nahost - Israels Opposition und Geisel-Angehörige fordern Ende des Krieges im Gazastreifen",
     "Den Haag - NATO-Gipfel beginnt mit Empfang beim König - Trump in Niederlanden eingetroffen",
     "Corona - Ex-Minister Spahn durch Bericht über Maskenkäufe unter Druck",
-    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza"
+    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza",
+    "Corona-Pandemie - Ex-Minister Spahn durch Bericht über Maskenkäufe unter Druck",
+    "Straßburg - Selenskyj-Rede heute vor dem Europarat",
+    "Kulturetat des Bundes soll leicht steigen"
   ],
   "hashes": [
-    "3f702830e8cba5cb60434c3807cf61b1",
-    "62fd9cda11b483a79cc9b541e492ce96",
-    "5401d35360cc5a609e56feb7feef909a",
     "df1d91ac02b1c7ef4eea080342deb416",
     "4dc2c7888fc4258eb46b8c40b825ea2c",
     "ce7ef1471a63ddb025adc23fbb5f1aa2",
@@ -4005,6 +4002,9 @@
     "9fa0f4d4c47b5d1966596d122d63ee36",
     "e3ae422067ee2fd5f2c8e4a3b3351a26",
     "733220f0e13dacfaad1dfbb0ce4953f5",
-    "fe3631b9d64145d64e9cfc3470a9cf28"
+    "fe3631b9d64145d64e9cfc3470a9cf28",
+    "fe5765305b5a9f8683cdec0e981ae533",
+    "52eebaad90c5c1c175286dbd8e4a147e",
+    "9162aaa79cebc6dbfb4664b08c5c6a1a"
   ]
 }
