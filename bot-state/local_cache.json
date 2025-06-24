@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/fraktur/fraktur-wie-paris-es-putins-propaganda-leicht-machte-110507912.html",
-    "https://www.deutschlandfunk.de/leichte-entspannung-durch-wasserabfluss-gefahr-nach-gletscherabbruch-nicht-vorueber-100.html",
-    "https://www.deutschlandfunk.de/inflationsrate-verharrt-bei-2-1-prozent-106.html",
     "https://www.deutschlandfunk.de/supreme-court-ebnet-weg-fuer-massenabschiebungen-aus-den-usa-100.html",
     "https://www.deutschlandfunk.de/wadephul-deutet-differenzierung-bei-waffenexporten-nach-israel-an-100.html",
     "https://www.deutschlandfunk.de/leuchtturm-mit-botschaft-neues-werk-von-banksy-aufgetaucht-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/drei-tote-bei-russischem-drohnenangriff-in-sumy-100.html",
     "https://www.deutschlandfunk.de/kabinett-beschliesst-bundeshaushalt-102.html",
     "https://www.deutschlandfunk.de/supreme-court-erlaubt-abschiebung-von-migranten-in-drittlaender-102.html",
-    "https://www.faz.net/aktuell/politik/inland/rechtsextremtes-compact-magazin-bundesverwaltungsgericht-verkuendet-urteil-110554418.html"
+    "https://www.faz.net/aktuell/politik/inland/rechtsextremtes-compact-magazin-bundesverwaltungsgericht-verkuendet-urteil-110554418.html",
+    "https://www.deutschlandfunk.de/mehr-menschen-verlassen-deutschland-richtung-anderer-eu-laender-102.html",
+    "https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-2024-weiter-gesunken-a-9185bccb-12a4-445d-bc7e-3ca1a819fa70#ref=rss",
+    "https://www.spiegel.de/wirtschaft/urlaub-17-4-millionen-menschen-in-deutschland-fehlt-geld-fuer-laengere-reisen-a-4f3951cd-1450-4c76-9c58-0058f424829c#ref=rss"
   ],
   "content_hashes": [
-    "1a7429f471ab9073f1721ebc4611cc88",
-    "5a384056ba95119a7f2ca590f4823c9a",
-    "9e1f70638de9dbda6bd3a710b0de9d4d",
     "c21d7266b809c9f016fa5f262423e7b1",
     "0ac9143afffecaf8f3b447d25b86591b",
     "78d2d07f75d619e66b922a2b712d4dfd",
@@ -2001,12 +1998,12 @@
     "c72e7eee5ddd3f4c7fd83af5b6015786",
     "41a24be20486e38bd59602636ff52bbf",
     "ef049588de2354b5db4e36a874238637",
-    "11e073797710f1ad393b78db748fbf3b"
+    "11e073797710f1ad393b78db748fbf3b",
+    "fa9bdaace93cc3c33aeabd26facacef1",
+    "1be6494c6c9ad9df1349968df391c200",
+    "77aa6b278ca265096d4036bf2e2c1183"
   ],
   "titles": [
-    "Fraktur: Schlag auf Schlag",
-    "Schweizer Lötschental - Leichte Entspannung durch Wasserabfluss - Gefahr nach Gletscherabbruch nicht vorüber",
-    "Wirtschaft - Inflationsrate verharrt bei 2,1 Prozent",
     "Mehr als 500.000 Menschen betroffen - Supreme Court ebnet Weg für Massenabschiebungen aus den USA",
     "Nahost - Wadephul deutet Differenzierung bei Waffenexporten nach Israel an",
     "Marseille - Leuchtturm mit Botschaft: Neues Werk von Banksy aufgetaucht",
@@ -3003,12 +3000,12 @@
     "Bericht - Drei Tote bei russischem Drohnenangriff in Sumy",
     "Finanzen - Kabinett beschließt Bundeshaushalt",
     "USA - Supreme Court erlaubt Abschiebung von Migranten in Drittländer",
-    "Bundesverwaltungsgericht: Compact-Verbot wird aufgehoben"
+    "Bundesverwaltungsgericht: Compact-Verbot wird aufgehoben",
+    "Statistik - Mehr Menschen verlassen Deutschland Richtung anderer EU-Länder",
+    "Deutschland: Nettozuwanderung 2024 weiter gesunken",
+    "Urlaub: 17,4 Millionen Menschen in Deutschland fehlt Geld für längere Reisen"
   ],
   "hashes": [
-    "11656305b12894d7625220d7a84b89cb",
-    "e7d5bb41241559ac9af88a5dc4371345",
-    "c214ab4e67ab37d7395eddced10e0285",
     "bd7745eb8870398bf394a77a15f5200d",
     "d49276d40d9efbd4c66b6eb04770b620",
     "08d1be43069e737f3d2e76863815072d",
@@ -4005,6 +4002,9 @@
     "68542fc9b602ad64bc1733f4f2ad67b7",
     "3e824672f5a2e05f395240657f5ac6ed",
     "ab4955185f3d6710d53c3caecfb2c3c7",
-    "e37db21b6ffa4f016928ab7e32529838"
+    "e37db21b6ffa4f016928ab7e32529838",
+    "928ac420171212b33c1ec7b254d6692c",
+    "f761c3429fcc7d8ed2dff895dcd4e485",
+    "0554415a73ae8c8cdfd4ce0f9e70c85c"
   ]
 }
