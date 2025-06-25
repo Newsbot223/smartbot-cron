@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-friedrich-merz-trifft-donald-trump-am-donnerstag-im-weissen-haus-faz-110093143.html",
-    "https://www.deutschlandfunk.de/merz-am-donnerstag-zu-antrittsbesuch-bei-us-praesident-trump-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nachwuchs-fuer-die-bundeswehr-willst-du-wirklich-scharfschuetzin-werden-110493875.html",
     "https://www.deutschlandfunk.de/hamas-verlangt-aenderungen-an-plan-zur-waffenruhe-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/iran-weist-iaea-bericht-zu-fast-waffentauglichem-uran-zurueck-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-kaufanreiz-fuer-elektroautos-setzen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kulturetat-des-bundes-soll-leicht-steigen-102.html",
     "https://www.deutschlandfunk.de/richterin-trump-darf-geld-zur-foerderung-von-ladestationen-nicht-zurueckhalten-100.html",
     "https://www.deutschlandfunk.de/grossbritannien-will-atomare-abschreckung-kuenftig-auch-auf-flugzeuge-stuetzen-kauf-von-jets-aus-den-102.html",
-    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-streifen-scharf-100.html"
+    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-streifen-scharf-100.html",
+    "https://www.deutschlandfunk.de/nato-gipfel-will-heute-zielwerte-fuer-verteidigungsausgaben-festlegen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutsche-lehrer-blicken-mit-sorge-auf-ki-an-schulen-110555691.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-distanziert-sich-von-merz-drecksarbeit-zitat-faz-110093143.html"
   ],
   "content_hashes": [
-    "4ec3b59c5e51ed2e393f1a866415c586",
-    "95481ede586850f244f7b04e960bf2b9",
-    "53ec2c6dff1284b76c7c792e5cb5898b",
     "be6a7dc4c30ce88328790ae6a44d14da",
     "9ba0a175e0f85037dfdace77b7e1b093",
     "dcae18d04f040dbb4cf372ed04480a4c",
@@ -2001,12 +1998,12 @@
     "884b80f7e955cbd224a409f43fe71d97",
     "dd251e120bead012adc9cfde656526ab",
     "26bf4a8538ce8b5ffbeb0a23f7d88fae",
-    "2cd9754af6e13fe12d3320c0c05562e8"
+    "2cd9754af6e13fe12d3320c0c05562e8",
+    "3def04322bd348e4bd82311ee0e06769",
+    "f76aa91b8d6bbcb959bba4968b8f0684",
+    "2d2528c1d0c4de302ca67b46b7ea1c4a"
   ],
   "titles": [
-    "Liveblog zur Merz-Regierung: Merz trifft Trump am Donnerstag im Weißen Haus",
-    "Diplomatie - Merz am Donnerstag zu Antrittsbesuch bei US-Präsident Trump",
-    "Nachwuchs für die Bundeswehr: „Willst du wirklich Scharfschützin werden?“",
     "Krieg im Nahen Osten - Hamas verlangt Änderungen an Plan zur Waffenruhe im Gazastreifen",
     "Teheran - Iran weist IAEA-Bericht zu fast waffentauglichem Uran zurück",
     "Medienbericht - Bundesregierung will Kaufanreiz für Elektroautos setzen",
@@ -3003,12 +3000,12 @@
     "Kulturetat des Bundes soll leicht steigen",
     "USA - Richterin: Trump darf Geld zur Förderung von Ladestationen nicht zurückhalten",
     "Premierminister Starmer - Großbritannien will atomare Abschreckung künftig auch auf Flugzeuge stützen - Kauf von Jets aus den USA",
-    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza-Streifen scharf"
+    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza-Streifen scharf",
+    "Den Haag - NATO-Gipfel will heute Zielwerte für Verteidigungsausgaben festlegen",
+    "Schulbarometer: Deutsche Lehrer blicken mit Sorge auf KI an Schulen",
+    "Liveblog zur Merz-Regierung: Klingbeil distanziert sich von Merz’ „Drecksarbeit“-Zitat"
   ],
   "hashes": [
-    "f1321f96ccdcfe3a12c3a15e30322909",
-    "0bcb7257c12d9cd9ede632630e32b933",
-    "796979a7cd64d193faba89a2525bc3a7",
     "25d65d0c65c39ddb254a8479b2f775e3",
     "a1c40aaa780225667c2f4c269f47aad9",
     "9d90dceebf180d9236f8c9075c0d5707",
@@ -4005,6 +4002,9 @@
     "9162aaa79cebc6dbfb4664b08c5c6a1a",
     "1d40c3e92cfe3d710649a7cb3d845ce6",
     "1de622eece0ce2b8593b25b4a19cc12c",
-    "267600e868ba21fe96d29e7903a6f073"
+    "267600e868ba21fe96d29e7903a6f073",
+    "260cb67d3b31bc637ba8c4bffb1947cb",
+    "831ad379627172d4763334d6a58f75d0",
+    "c50f32343df8d77e946e66a36c4981f7"
   ]
 }
