@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-dringt-bei-netanjahu-auf-mehr-hilfe-fuer-zivilbevoelkerung-im-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/erneut-landesweite-demonstrationen-in-serbien-gegen-praesident-vucic-100.html",
-    "https://www.deutschlandfunk.de/rechtsnationalist-nawrocki-bei-polnischer-praesidentschaftswahl-knapp-vorne-102.html",
     "https://www.deutschlandfunk.de/widerspruechliche-berichte-ueber-zahlreiche-opfer-bei-angriff-in-der-naehe-eines-verteilzentrums-in--124.html",
     "https://www.deutschlandfunk.de/uno-vollversammlung-entscheidet-ueber-neue-praesidentin-100.html",
     "https://www.deutschlandfunk.de/wadephul-erwartet-weitere-sanktionen-von-eu-und-usa-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/beratungen-ueber-aufarbeitungskommission-zur-corona-pandemie-100.html",
     "https://www.deutschlandfunk.de/zahlreiche-soldaten-bei-angriffen-auf-armeestuetzpunkte-getoetet-100.html",
     "https://www.deutschlandfunk.de/erzbischof-unter-putschversuch-festgenommen-100.html",
-    "https://www.deutschlandfunk.de/bosnien-einsatz-der-bundeswehr-verlaengert-100.html"
+    "https://www.deutschlandfunk.de/bosnien-einsatz-der-bundeswehr-verlaengert-100.html",
+    "https://www.deutschlandfunk.de/koalitionaere-unterschiedlicher-auffassung-ueber-vorwuerfe-spahn-sieht-vorwuerfe-entkraeftet-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-bei-landesweiten-protesten-in-kenia-100.html",
+    "https://www.faz.net/aktuell/politik/inland/spahns-maskenaffaere-der-opposition-ist-es-zu-viel-schwarz-auf-weiss-110557689.html"
   ],
   "content_hashes": [
-    "19b422d50e85034677e4a3060ed46198",
-    "a947d0b2c3ecff4c57769606279409fe",
-    "b2d115f12c0a8e044235e12f05ecedc1",
     "3b3b67fc91c9c319b6708cda534a2231",
     "55af3740098b1adaf9f6d0deec51814e",
     "a90e7283b78af29993e26532beb0f6a6",
@@ -2001,12 +1998,12 @@
     "4701ea9b6e7aee595a2ac17b65eef36f",
     "f920ec5ab839dad613ceba925f8604ea",
     "71078d101e8a0ab9e0577f6afd781b8e",
-    "cb69713a209c716773b3421ae126b96a"
+    "cb69713a209c716773b3421ae126b96a",
+    "b66a7162503e9b11443747e86911a742",
+    "5864a81480d6dfd632b2d2d027051ebe",
+    "c5e2e69b65b7737234ddc6cd6133e21e"
   ],
   "titles": [
-    "Krieg im Nahen Osten - Merz dringt bei Netanjahu auf mehr Hilfe für Zivilbevölkerung im Gazastreifen",
-    "Belgrad - Erneut landesweite Demonstrationen in Serbien gegen Präsident Vucic",
-    "Aktualisierte Prognose - Rechtsnationalist Nawrocki bei polnischer Präsidentschaftswahl knapp vorne",
     "Gaza-Krieg - Widersprüchliche Berichte über zahlreiche Opfer bei Angriff in der Nähe eines Verteilzentrums in Rafah",
     "Ex-Außenministerin Baerbock einzige Kandidatin - UNO-Vollversammlung entscheidet über neue Präsidentin",
     "Russlands Angriffskrieg - Wadephul erwartet weitere Sanktionen von EU und USA",
@@ -3003,12 +3000,12 @@
     "Bundestag - Beratungen über Aufarbeitungskommission zur Corona-Pandemie",
     "Nigeria - Zahlreiche Soldaten bei Angriffen auf Armeestützpunkte getötet",
     "Armenien - Erzbischof unter Putschversuch festgenommen",
-    "Bundestag - Bosnien-Einsatz der Bundeswehr verlängert"
+    "Bundestag - Bosnien-Einsatz der Bundeswehr verlängert",
+    "Maskenbeschaffung - Koalitionäre unterschiedlicher Auffassung über Vorwürfe - Spahn sieht Vorwürfe \"entkräftet\"",
+    "Afrika - Tote und Verletzte bei landesweiten Protesten in Kenia",
+    "Der Opposition ist es zu viel Schwarz auf Weiß"
   ],
   "hashes": [
-    "a4a7d6e5f642ab6d1e9887f8ba965062",
-    "3fb5d6c6d4fe40dc75080383d29e561d",
-    "db76d75179a1a4c7d80df5b6f6a9c648",
     "d057ef853a7cd771100df6d44b7b17cd",
     "403de5ea4c2beee549e062de08ce9a26",
     "1b2eb92602d03556d28d64552a87ed81",
@@ -4005,6 +4002,9 @@
     "10fb1e622563a58cf0ac2225c3e2640b",
     "724f38c9b6740d2b74297b1d5f7f2e47",
     "49232ddbdbf151a44f1962bde733469b",
-    "46880524f3348ce631c6cfed09d25047"
+    "46880524f3348ce631c6cfed09d25047",
+    "9688670f24a6347a9f4a0cc0fe6b0c40",
+    "d0bbfd26615bac659c868781722c5b73",
+    "51e5f30d54ed1302a79a36ae7920497e"
   ]
 }
