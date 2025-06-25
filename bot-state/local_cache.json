@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rechtsnationalist-nawrocki-bei-polnischer-praesidentschaftswahl-knapp-vorn-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-klagen-gegen-asylbescheide-erheblich-gestiegen-100.html",
     "https://www.deutschlandfunk.de/rechtsnationalist-nawrocki-bei-praesidentschaftswahl-knapp-vorn-medien-sehen-ihn-bereits-als-sieger-100.html",
     "https://www.deutschlandfunk.de/selenskyj-feiert-angriffe-gegen-russische-militaerflughaefen-100.html",
     "https://www.deutschlandfunk.de/kloeckner-bemaengelt-schwach-besetzte-regierungsbank-bei-sitzungen-des-parlaments-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/koalitionaere-unterschiedlicher-auffassung-spahn-sieht-vorwuerfe-entkraeftet-100.html",
     "https://www.deutschlandfunk.de/bas-will-das-rentenniveau-bei-48-prozent-sichern-100.html",
     "https://www.deutschlandfunk.de/praesident-selenskyj-unterzeichnet-abkommen-zur-einrichtung-eines-sondergerichtshofs-fuer-den-krieg--102.html",
-    "https://www.deutschlandfunk.de/selenskyj-unterzeichnet-abkommen-zur-einrichtung-eines-sondergerichtshofs-fuer-den-krieg-in-der-ukra-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-unterzeichnet-abkommen-zur-einrichtung-eines-sondergerichtshofs-fuer-den-krieg-in-der-ukra-100.html",
+    "https://www.deutschlandfunk.de/abstimmung-ueber-entlastungspaket-fuer-unternehmen-und-mietpreisbremse-100.html",
+    "https://www.deutschlandfunk.de/merz-reist-zu-seinem-ersten-eu-gipfel-100.html"
   ],
   "content_hashes": [
-    "2fc15dc68fe3b0e47ccebcaa3221fdfb",
-    "71216931c86c9fc408bb39843d281bda",
     "04fd6ff358c8273cc1e966e0f403bf34",
     "397fb90dfb92fb76f39f861049987093",
     "a0167f8b31d1282ec91c5b80a5665375",
@@ -2001,11 +1999,11 @@
     "ca65ce6ce62fb674408a7c2b7aed0cca",
     "19d974f000f758b237e7ad085f15d4ef",
     "926cc4aafd796b90d2b9cec82fc8ded7",
-    "aa0ee2ff2abae39fd2ded5db8e82ff45"
+    "aa0ee2ff2abae39fd2ded5db8e82ff45",
+    "9293c855715792a37e0be7d847f5867f",
+    "2f6cdc73107e071e4fa2ee026eed15af"
   ],
   "titles": [
-    "Aktualisierte Prognose - Rechtsnationalist Nawrocki bei polnischer Präsidentschaftswahl knapp vorn",
-    "Zeitungsbericht - Zahl der Klagen gegen Asylbescheide erheblich gestiegen",
     "Polen - Rechtsnationalist Nawrocki bei Präsidentschaftswahl knapp vorn - Medien sehen ihn bereits als Sieger",
     "Flugzeuge zerstört - Selenskyj feiert Angriffe gegen russische Militärflughäfen",
     "Bundestag - Klöckner bemängelt schwach besetzte Regierungsbank bei Sitzungen des Parlaments",
@@ -3003,11 +3001,11 @@
     "Konflikt um Maskenbeschaffung - Koalitionäre unterschiedlicher Auffassung - Spahn sieht Vorwürfe \"entkräftet\"",
     "Gesetzentwurf - Bas will das Rentenniveau bei 48 Prozent sichern",
     "Europarat - Präsident Selenskyj unterzeichnet Abkommen zur Einrichtung eines Sondergerichtshofs für den Krieg in der Ukraine",
-    "Europarat - Selenskyj unterzeichnet Abkommen zur Einrichtung eines Sondergerichtshofs für den Krieg in der Ukraine"
+    "Europarat - Selenskyj unterzeichnet Abkommen zur Einrichtung eines Sondergerichtshofs für den Krieg in der Ukraine",
+    "Bundestag - Abstimmung über Entlastungspaket für Unternehmen und Mietpreisbremse",
+    "Brüssel - Merz reist zu seinem ersten EU-Gipfel"
   ],
   "hashes": [
-    "be2dd5c08afc0354f7e8ae9aebe4de2e",
-    "5bc53ef69801de1f4129c30c4c62e90c",
     "af7695e34793a8ffe884ff0dba40b2b0",
     "f5c5b818a84db4e571397d1a17121688",
     "cc389902f292bca2fd3969cc22c42eb8",
@@ -4005,6 +4003,8 @@
     "c671c33327e5a0d7c467d2aafe29eecd",
     "5de64ef78ba3878fbc26bbcc8fb124d7",
     "132910cd9f0ade606c81b52d70c1461d",
-    "7905b486e41cafa5ed0a7523a83b35d8"
+    "7905b486e41cafa5ed0a7523a83b35d8",
+    "6d86e8098bc83958da2606fb9badff75",
+    "bd9bb198b95a62a935e47091e3d5fef7"
   ]
 }
