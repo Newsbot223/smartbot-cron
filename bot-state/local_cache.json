@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iaea-bericht-deutlich-mehr-fast-waffentaugliches-uran-im-iran-100.html",
-    "https://www.deutschlandfunk.de/nils-dunkel-ist-europameister-am-barren-102.html",
-    "https://www.deutschlandfunk.de/tausende-studierende-demonstrieren-gegen-vucic-regierung-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-friedrich-merz-trifft-donald-trump-am-donnerstag-im-weissen-haus-faz-110093143.html",
     "https://www.deutschlandfunk.de/merz-am-donnerstag-zu-antrittsbesuch-bei-us-praesident-trump-100.html",
     "https://www.faz.net/aktuell/politik/inland/nachwuchs-fuer-die-bundeswehr-willst-du-wirklich-scharfschuetzin-werden-110493875.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-100.html",
     "https://www.deutschlandfunk.de/ex-minister-spahn-durch-bericht-ueber-maskenkaeufe-unter-druck-106.html",
     "https://www.deutschlandfunk.de/selenskyj-rede-heute-vor-dem-europarat-100.html",
-    "https://www.deutschlandfunk.de/kulturetat-des-bundes-soll-leicht-steigen-102.html"
+    "https://www.deutschlandfunk.de/kulturetat-des-bundes-soll-leicht-steigen-102.html",
+    "https://www.deutschlandfunk.de/richterin-trump-darf-geld-zur-foerderung-von-ladestationen-nicht-zurueckhalten-100.html",
+    "https://www.deutschlandfunk.de/grossbritannien-will-atomare-abschreckung-kuenftig-auch-auf-flugzeuge-stuetzen-kauf-von-jets-aus-den-102.html",
+    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-streifen-scharf-100.html"
   ],
   "content_hashes": [
-    "5c6d5b99f8deeccaaf806851bdeb9057",
-    "450f28ecce71925db87b3ac0e15f6b19",
-    "6262bea2bbd8c13b1102d0f991ad7656",
     "4ec3b59c5e51ed2e393f1a866415c586",
     "95481ede586850f244f7b04e960bf2b9",
     "53ec2c6dff1284b76c7c792e5cb5898b",
@@ -2001,12 +1998,12 @@
     "a5df321dc0c7d7881d4858ea268c91d6",
     "52d18d4de5bede004cb90afd8b742c3d",
     "2ecef75cc977514ef676a667d8a84420",
-    "884b80f7e955cbd224a409f43fe71d97"
+    "884b80f7e955cbd224a409f43fe71d97",
+    "dd251e120bead012adc9cfde656526ab",
+    "26bf4a8538ce8b5ffbeb0a23f7d88fae",
+    "2cd9754af6e13fe12d3320c0c05562e8"
   ],
   "titles": [
-    "Internationale Atomenergiebehörde - IAEA-Bericht: Deutlich mehr fast waffentaugliches Uran im Iran",
-    "Turnen - Nils Dunkel ist Europameister am Barren",
-    "Serbien - Tausende Studierende demonstrieren gegen Vucic-Regierung",
     "Liveblog zur Merz-Regierung: Merz trifft Trump am Donnerstag im Weißen Haus",
     "Diplomatie - Merz am Donnerstag zu Antrittsbesuch bei US-Präsident Trump",
     "Nachwuchs für die Bundeswehr: „Willst du wirklich Scharfschützin werden?“",
@@ -3003,12 +3000,12 @@
     "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza",
     "Corona-Pandemie - Ex-Minister Spahn durch Bericht über Maskenkäufe unter Druck",
     "Straßburg - Selenskyj-Rede heute vor dem Europarat",
-    "Kulturetat des Bundes soll leicht steigen"
+    "Kulturetat des Bundes soll leicht steigen",
+    "USA - Richterin: Trump darf Geld zur Förderung von Ladestationen nicht zurückhalten",
+    "Premierminister Starmer - Großbritannien will atomare Abschreckung künftig auch auf Flugzeuge stützen - Kauf von Jets aus den USA",
+    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza-Streifen scharf"
   ],
   "hashes": [
-    "df1d91ac02b1c7ef4eea080342deb416",
-    "4dc2c7888fc4258eb46b8c40b825ea2c",
-    "ce7ef1471a63ddb025adc23fbb5f1aa2",
     "f1321f96ccdcfe3a12c3a15e30322909",
     "0bcb7257c12d9cd9ede632630e32b933",
     "796979a7cd64d193faba89a2525bc3a7",
@@ -4005,6 +4002,9 @@
     "fe3631b9d64145d64e9cfc3470a9cf28",
     "fe5765305b5a9f8683cdec0e981ae533",
     "52eebaad90c5c1c175286dbd8e4a147e",
-    "9162aaa79cebc6dbfb4664b08c5c6a1a"
+    "9162aaa79cebc6dbfb4664b08c5c6a1a",
+    "1d40c3e92cfe3d710649a7cb3d845ce6",
+    "1de622eece0ce2b8593b25b4a19cc12c",
+    "267600e868ba21fe96d29e7903a6f073"
   ]
 }
