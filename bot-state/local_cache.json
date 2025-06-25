@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schwere-kaempfe-vor-neuen-ukraine-friedensgespraechen-100.html",
-    "https://www.deutschlandfunk.de/auszaehlung-der-stichwahl-in-polen-um-neue-praesidentschaft-102.html",
-    "https://www.deutschlandfunk.de/zahlreiche-besucher-beim-festwochenende-auf-der-museumsinsel-102.html",
     "https://www.deutschlandfunk.de/pro-europaeischer-politiker-trzaskowski-bei-polnischer-praesidentschaftswahl-knapp-vorne-100.html",
     "https://www.deutschlandfunk.de/merz-dringt-bei-netanjahu-auf-mehr-hilfe-fuer-zivilbevoelkerung-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/erneut-landesweite-demonstrationen-in-serbien-gegen-praesident-vucic-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/selenskyj-trifft-trump-am-rande-des-nato-gipfels-substanziell-und-angenehm-100.html",
     "https://www.deutschlandfunk.de/koalition-streitet-im-bundestag-ueber-vorwuerfe-gegen-spahn-104.html",
     "https://www.deutschlandfunk.de/iranisches-regime-hebt-internetsperren-auf-100.html",
-    "https://www.deutschlandfunk.de/us-regierung-will-aus-finanzierung-von-impfallianz-gavi-aussteigen-100.html"
+    "https://www.deutschlandfunk.de/us-regierung-will-aus-finanzierung-von-impfallianz-gavi-aussteigen-100.html",
+    "https://www.deutschlandfunk.de/beratungen-ueber-aufarbeitungskommission-zur-corona-pandemie-100.html",
+    "https://www.deutschlandfunk.de/zahlreiche-soldaten-bei-angriffen-auf-armeestuetzpunkte-getoetet-100.html",
+    "https://www.deutschlandfunk.de/erzbischof-unter-putschversuch-festgenommen-100.html"
   ],
   "content_hashes": [
-    "29a814e49666faf7decfb37c6ebd389b",
-    "997c5d7803f3b8d4257b629284e2c67a",
-    "fc40e90e1c77213b5208ac77f4d280a6",
     "e583985e0db4ca42ae24b6cf38b3ac31",
     "19b422d50e85034677e4a3060ed46198",
     "a947d0b2c3ecff4c57769606279409fe",
@@ -2001,12 +1998,12 @@
     "f454389a7dedd23a00e22884d628d4da",
     "88d8661fe489ed93724ae0abc6c9be1a",
     "e1a82960af8f3597f666bd6287877c06",
-    "851fc2bdf757c8752b826c7c97ddc3f5"
+    "851fc2bdf757c8752b826c7c97ddc3f5",
+    "4701ea9b6e7aee595a2ac17b65eef36f",
+    "f920ec5ab839dad613ceba925f8604ea",
+    "71078d101e8a0ab9e0577f6afd781b8e"
   ],
   "titles": [
-    "Ukraine-Krieg - Schwere Kämpfe vor neuen Ukraine-Friedensgesprächen",
-    "Richtungsentscheidung - Auszählung der Stichwahl in Polen um neue Präsidentschaft",
-    "200 Jahre - Zahlreiche Besucher beim Festwochenende auf der Museumsinsel",
     "Prognose - Pro-europäischer Politiker Trzaskowski bei polnischer Präsidentschaftswahl knapp vorne",
     "Krieg im Nahen Osten - Merz dringt bei Netanjahu auf mehr Hilfe für Zivilbevölkerung im Gazastreifen",
     "Belgrad - Erneut landesweite Demonstrationen in Serbien gegen Präsident Vucic",
@@ -3003,12 +3000,12 @@
     "Krieg - Selenskyj trifft Trump am Rande des NATO-Gipfels - \"substanziell und angenehm\"",
     "Maskenbeschaffung - Koalition streitet im Bundestag über Vorwürfe gegen Spahn",
     "Nach Waffenruhe mit Israel - Iranisches Regime hebt Internetsperren auf",
-    "Gesundheitspolitik - US-Regierung will aus Finanzierung von Impfallianz Gavi aussteigen"
+    "Gesundheitspolitik - US-Regierung will aus Finanzierung von Impfallianz Gavi aussteigen",
+    "Bundestag - Beratungen über Aufarbeitungskommission zur Corona-Pandemie",
+    "Nigeria - Zahlreiche Soldaten bei Angriffen auf Armeestützpunkte getötet",
+    "Armenien - Erzbischof unter Putschversuch festgenommen"
   ],
   "hashes": [
-    "0acaf10f4987334398755c6f1cf68773",
-    "7d25604cddfdee1d9f9543c5515a9c9c",
-    "e8f68d5d1697c7775e32149155e03ce4",
     "ad15903c9026d8060b4d7131c9ee6b6a",
     "a4a7d6e5f642ab6d1e9887f8ba965062",
     "3fb5d6c6d4fe40dc75080383d29e561d",
@@ -4005,6 +4002,9 @@
     "023d06f3ea0aa7c7444b4ec9f498c1bf",
     "8dbba2cb96ca89cd2b180769a101263c",
     "514a8405705a05a7ef449d0c9418b5d7",
-    "7acef10df90777bcf4b67f33bc8da577"
+    "7acef10df90777bcf4b67f33bc8da577",
+    "10fb1e622563a58cf0ac2225c3e2640b",
+    "724f38c9b6740d2b74297b1d5f7f2e47",
+    "49232ddbdbf151a44f1962bde733469b"
   ]
 }
