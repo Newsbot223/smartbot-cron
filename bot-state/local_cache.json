@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/piastri-gewinnt-den-grossen-preis-von-spanien-100.html",
-    "https://www.faz.net/aktuell/politik/inland/neue-mutterschutz-regeln-gegen-das-tabu-fehlgeburt-110511108.html",
-    "https://www.deutschlandfunk.de/nach-brand-in-klinik-tatverdaechtiger-festgenommen-100.html",
-    "https://www.deutschlandfunk.de/saudi-arabien-weist-rund-270-000-menschen-zurueck-102.html",
     "https://www.deutschlandfunk.de/schwere-kaempfe-vor-neuen-ukraine-friedensgespraechen-100.html",
     "https://www.deutschlandfunk.de/auszaehlung-der-stichwahl-in-polen-um-neue-praesidentschaft-102.html",
     "https://www.deutschlandfunk.de/zahlreiche-besucher-beim-festwochenende-auf-der-museumsinsel-102.html",
@@ -999,13 +995,13 @@
     "https://www.aljazeera.com/video/counting-the-cost/2025/6/25/why-is-nato-boosting-defence-spending-and-can-europe-afford-it?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/linke-veraergert-spd-die-droht-reichinnek-mit-konsequenzen-110557573.html",
     "https://www.faz.net/einspruch/was-bedeutet-die-aufhebung-des-compact-verbots-110557423.html",
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/abschiebung-der-familie-kapoor-wegen-vorsaetzlicher-straftat-110558067.html"
+    "https://www.faz.net/aktuell/rhein-main/frankfurt/abschiebung-der-familie-kapoor-wegen-vorsaetzlicher-straftat-110558067.html",
+    "https://www.deutschlandfunk.de/selenskyj-trifft-trump-am-rande-des-nato-gipfels-substanziell-und-angenehm-100.html",
+    "https://www.deutschlandfunk.de/koalition-streitet-im-bundestag-ueber-vorwuerfe-gegen-spahn-104.html",
+    "https://www.deutschlandfunk.de/iranisches-regime-hebt-internetsperren-auf-100.html",
+    "https://www.deutschlandfunk.de/us-regierung-will-aus-finanzierung-von-impfallianz-gavi-aussteigen-100.html"
   ],
   "content_hashes": [
-    "c45caacb1675976c57eedc71b028e193",
-    "b44f7a1d9d0f5b9ea1a2a803e6996ae1",
-    "dfca4f958d47d12b6c7b7675108ca2f5",
-    "e2248794632716881c6cae30678b4bb9",
     "29a814e49666faf7decfb37c6ebd389b",
     "997c5d7803f3b8d4257b629284e2c67a",
     "fc40e90e1c77213b5208ac77f4d280a6",
@@ -2001,13 +1997,13 @@
     "bc1aceacb7de0ca4f184ab57c3482bb2",
     "84efced58ef39566d5e8b5fb83b1d170",
     "c3f73732a1ee580ea19be640fc8057a9",
-    "a6ea44054cfc91b8e2e8801061f09d75"
+    "a6ea44054cfc91b8e2e8801061f09d75",
+    "f454389a7dedd23a00e22884d628d4da",
+    "88d8661fe489ed93724ae0abc6c9be1a",
+    "e1a82960af8f3597f666bd6287877c06",
+    "851fc2bdf757c8752b826c7c97ddc3f5"
   ],
   "titles": [
-    "Formel 1 - Piastri gewinnt den Großen Preis von Spanien",
-    "Neue Mutterschutz-Regeln: Gegen das Tabu Fehlgeburt",
-    "Hamburg - Nach Brand in Klinik Tatverdächtiger festgenommen",
-    "Muslimische Pilgerfahrt Hadsch - Saudi-Arabien weist rund 270.000 Menschen zurück",
     "Ukraine-Krieg - Schwere Kämpfe vor neuen Ukraine-Friedensgesprächen",
     "Richtungsentscheidung - Auszählung der Stichwahl in Polen um neue Präsidentschaft",
     "200 Jahre - Zahlreiche Besucher beim Festwochenende auf der Museumsinsel",
@@ -3003,13 +2999,13 @@
     "Why is NATO boosting defence spending and can Europe afford it?",
     "Familiennachzug: Linke verärgert SPD – die droht Reichinnek mit Konsequenzen",
     "Was bedeutet die Aufhebung des „Compact“-Verbots?",
-    "Abschiebung der Familie Kapoor wegen „vorsätzlicher Straftat“"
+    "Abschiebung der Familie Kapoor wegen „vorsätzlicher Straftat“",
+    "Krieg - Selenskyj trifft Trump am Rande des NATO-Gipfels - \"substanziell und angenehm\"",
+    "Maskenbeschaffung - Koalition streitet im Bundestag über Vorwürfe gegen Spahn",
+    "Nach Waffenruhe mit Israel - Iranisches Regime hebt Internetsperren auf",
+    "Gesundheitspolitik - US-Regierung will aus Finanzierung von Impfallianz Gavi aussteigen"
   ],
   "hashes": [
-    "5d1660a4c06481ff2a6bab5edee4f9ed",
-    "e15df91ea07b2ba1561ec341842557db",
-    "10e883babdbc204acbe09524caed6583",
-    "e724e12938974a4323d09475c47dc42c",
     "0acaf10f4987334398755c6f1cf68773",
     "7d25604cddfdee1d9f9543c5515a9c9c",
     "e8f68d5d1697c7775e32149155e03ce4",
@@ -4005,6 +4001,10 @@
     "2f43391c5b6c6e0f41868cb9a0d58d00",
     "a6c75a97349edfbd843ca1369b583634",
     "7252bc382c1ee276ddfcc3aeefc4913c",
-    "2f9fc1e7e55a9879cc12d838033d853e"
+    "2f9fc1e7e55a9879cc12d838033d853e",
+    "023d06f3ea0aa7c7444b4ec9f498c1bf",
+    "8dbba2cb96ca89cd2b180769a101263c",
+    "514a8405705a05a7ef449d0c9418b5d7",
+    "7acef10df90777bcf4b67f33bc8da577"
   ]
 }
