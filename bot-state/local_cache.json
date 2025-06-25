@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hamas-verlangt-aenderungen-an-plan-zur-waffenruhe-im-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/iran-weist-iaea-bericht-zu-fast-waffentauglichem-uran-zurueck-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-kaufanreiz-fuer-elektroautos-setzen-102.html",
-    "https://www.deutschlandfunk.de/protestkundgebungen-in-bulgarien-gegen-einfuehrung-des-euro-102.html",
     "https://www.deutschlandfunk.de/us-vermittler-kritisiert-hamas-antwort-auf-vorschlag-fuer-waffenruhe-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/kauf-von-e-autos-soll-fuer-firmen-steuerlich-attraktiver-werden-100.html",
     "https://www.deutschlandfunk.de/schweizer-solarmodul-hersteller-meyer-burger-stellt-insolvenzantraege-fuer-deutsche-toechter-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-streifen-scharf-100.html",
     "https://www.deutschlandfunk.de/nato-gipfel-will-heute-zielwerte-fuer-verteidigungsausgaben-festlegen-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutsche-lehrer-blicken-mit-sorge-auf-ki-an-schulen-110555691.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-distanziert-sich-von-merz-drecksarbeit-zitat-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-distanziert-sich-von-merz-drecksarbeit-zitat-faz-110093143.html",
+    "https://www.deutschlandfunk.de/sieben-israelische-soldaten-im-gazastreifen-getoetet-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-und-vorgaenger-habeck-in-haushaltsausschuss-geladen-100.html",
+    "https://www.deutschlandfunk.de/prien-fordert-mehr-haushaltsmittel-zur-unterstuetzung-von-missbrauchsopfern-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundesweite-polizeiaktion-gegen-hetze-im-internet-110556417.html"
   ],
   "content_hashes": [
-    "be6a7dc4c30ce88328790ae6a44d14da",
-    "9ba0a175e0f85037dfdace77b7e1b093",
-    "dcae18d04f040dbb4cf372ed04480a4c",
-    "bd6a2138bbfb04f9d8accbe7fdf3f6f1",
     "255e8eb459bbd07855077db64565e98e",
     "6d080ea1f5edc1d67fa8d744291c74f3",
     "68c63fff7b3b7524095e0fad34223d60",
@@ -2001,13 +1997,13 @@
     "2cd9754af6e13fe12d3320c0c05562e8",
     "3def04322bd348e4bd82311ee0e06769",
     "f76aa91b8d6bbcb959bba4968b8f0684",
-    "2d2528c1d0c4de302ca67b46b7ea1c4a"
+    "2d2528c1d0c4de302ca67b46b7ea1c4a",
+    "f9f1a781dbfb340c6ab324d86de71a43",
+    "bab6a8fdf79635ab6f9832d5210ba861",
+    "47cffeb08a26056b3efae243eb9855eb",
+    "7ae7052cc9856767cf85172e74e5b728"
   ],
   "titles": [
-    "Krieg im Nahen Osten - Hamas verlangt Änderungen an Plan zur Waffenruhe im Gazastreifen",
-    "Teheran - Iran weist IAEA-Bericht zu fast waffentauglichem Uran zurück",
-    "Medienbericht - Bundesregierung will Kaufanreiz für Elektroautos setzen",
-    "Sofia - Protestkundgebungen in Bulgarien gegen Einführung des Euro",
     "Krieg im Nahen Osten - US-Vermittler kritisiert Hamas-Antwort auf Vorschlag für Waffenruhe im Gazastreifen",
     "Medienbericht - Kauf von E-Autos soll für Firmen steuerlich attraktiver werden",
     "Sonnenenergie - Schweizer Solarmodul-Hersteller Meyer Burger stellt Insolvenzanträge für deutsche Töchter",
@@ -3003,13 +2999,13 @@
     "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza-Streifen scharf",
     "Den Haag - NATO-Gipfel will heute Zielwerte für Verteidigungsausgaben festlegen",
     "Schulbarometer: Deutsche Lehrer blicken mit Sorge auf KI an Schulen",
-    "Liveblog zur Merz-Regierung: Klingbeil distanziert sich von Merz’ „Drecksarbeit“-Zitat"
+    "Liveblog zur Merz-Regierung: Klingbeil distanziert sich von Merz’ „Drecksarbeit“-Zitat",
+    "Armeeangaben - Sieben israelische Soldaten im Gazastreifen getötet",
+    "Insolvenz von Northvolt - Wirtschaftsministerin Reiche und Vorgänger Habeck in Haushaltsausschuss geladen",
+    "Bundesfamilienministerium - Prien fordert mehr Haushaltsmittel zur Unterstützung von Missbrauchsopfern",
+    "Bundesweite Polizeiaktion gegen Hetze im Internet"
   ],
   "hashes": [
-    "25d65d0c65c39ddb254a8479b2f775e3",
-    "a1c40aaa780225667c2f4c269f47aad9",
-    "9d90dceebf180d9236f8c9075c0d5707",
-    "294a92954257d26b9a5e44fb5057a4ad",
     "d3710577a1c5da0c239bda309b3603b8",
     "83ed87c671d759abf3b021d653d4c1c1",
     "0d766d80b60b3a61bbdcc771599d2211",
@@ -4005,6 +4001,10 @@
     "267600e868ba21fe96d29e7903a6f073",
     "260cb67d3b31bc637ba8c4bffb1947cb",
     "831ad379627172d4763334d6a58f75d0",
-    "c50f32343df8d77e946e66a36c4981f7"
+    "c50f32343df8d77e946e66a36c4981f7",
+    "d9ffb9225426cf8da80c19d1f7e9b7e3",
+    "ad5167d30dd905e7f35e61f5edec3d05",
+    "6e173a5c39262d22b1a2495392303dee",
+    "5aca40bb7897dd23ba8950719a6399c1"
   ]
 }
