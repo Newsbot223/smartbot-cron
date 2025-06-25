@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neue-munitionsfabriken-geplant-100.html",
-    "https://www.deutschlandfunk.de/drei-tote-bei-brand-in-klinik-100.html",
-    "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-spd-bringt-steuersenkungen-fuer-unternehmen-auf-den-weg-100.html",
-    "https://www.deutschlandfunk.de/bundespolizei-zieht-positive-bilanz-der-verschaerften-grenzkontrollen-100.html",
     "https://www.deutschlandfunk.de/diese-milliardenschweren-steuersenkungen-bringt-bundesfinanzminister-klingbeil-fuer-unternehmen-auf--100.html",
     "https://www.deutschlandfunk.de/russische-regionen-brjansk-und-kursk-bruecken-eingestuerzt-und-zuege-entgleist-sieben-tote-100.html",
     "https://www.deutschlandfunk.de/berichte-ueber-dutzende-opfer-bei-angriff-auf-verteilzentrum-in-rafah-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/krieg-in-nahost-die-afd-im-israel-iran-dilemma-110555573.html",
     "https://www.deutschlandfunk.de/ueber-40-tote-bei-drohnenangriff-auf-krankenhaus-100.html",
     "https://www.deutschlandfunk.de/schwere-versorgungsluecke-in-deutschland-fuer-ueberlebende-von-folter-und-gewalt-beklagt-100.html",
-    "https://www.deutschlandfunk.de/heil-ist-neuer-spd-beauftragter-fuer-kirchen-und-religionsgemeinschaften-100.html"
+    "https://www.deutschlandfunk.de/heil-ist-neuer-spd-beauftragter-fuer-kirchen-und-religionsgemeinschaften-100.html",
+    "https://www.deutschlandfunk.de/urteil-im-sommermaerchen-prozess-dfb-muss-zahlen-102.html",
+    "https://www.deutschlandfunk.de/linken-chefin-schwerdtner-verlangt-oeffentliche-entschuldigung-von-ex-gesundheitsminister-spahn-cdu--100.html",
+    "https://www.deutschlandfunk.de/tesla-verkaeufe-in-eu-brechen-auch-im-mai-weiter-ein-100.html",
+    "https://www.deutschlandfunk.de/waldbraende-auf-insel-chios-unter-kontrolle-6-200-hektar-verbrannt-100.html"
   ],
   "content_hashes": [
-    "55d9e8ac5243b6fa86b4f16796a0ddba",
-    "1b0f0344c1b7d63a90d0f4e58493e06f",
-    "588f197549e76352bcfff45ecb50c27a",
-    "1f6f9e902bfc3ab7d2b827db3545a3f3",
     "4b2269027b27809d876b590c3f6114c0",
     "98bc79b50109aa4ed3fcab92817fb25a",
     "8358d34fda1cb5e03e67a13a8670cca5",
@@ -2001,13 +1997,13 @@
     "3e677d7927121ad5e8d582a2ac865fe8",
     "5f6220738359398fbc38a7058492bc1e",
     "cd054008726f097c4d8ce939e629103c",
-    "5c62796b543b269270702ac7e53b66ff"
+    "5c62796b543b269270702ac7e53b66ff",
+    "f40a860b73186ea9159a80ac7f02352f",
+    "6bfb12609456a3108efdf263d2966691",
+    "d83b60ede2e18687ebf46c9a9cd82b00",
+    "d8afa05733897c81c1c7abaabb11f59e"
   ],
   "titles": [
-    "Großbritannien - Neue Munitionsfabriken geplant",
-    "Hamburg - Drei Tote bei Brand in Klinik",
-    "Wirtschaft - Bundesfinanzminister Klingbeil (SPD) bringt Steuersenkungen für Unternehmen auf den Weg",
-    "\"Bild am Sonntag\" - Bundespolizei zieht positive Bilanz der verschärften Grenzkontrollen",
     "Medienberichte - Diese milliardenschweren Steuersenkungen bringt Bundesfinanzminister Klingbeil für Unternehmen auf den Weg",
     "Nahe der Grenze zur Ukraine - Russische Regionen Brjansk und Kursk: Brücken eingestürzt und Züge entgleist - sieben Tote",
     "Gaza-Krieg - Berichte über Dutzende Opfer bei Angriff auf Verteilzentrum in Rafah",
@@ -3003,13 +2999,13 @@
     "Krieg in Nahost: Die AfD im Israel-Iran-Dilemma",
     "Sudan - Über 40 Tote bei Drohnenangriff auf Krankenhaus",
     "Psychosoziale Versorgung - Schwere Versorgungslücke in Deutschland für Überlebende von Folter und Gewalt beklagt",
-    "Bundestag - Heil ist neuer SPD-Beauftragter für Kirchen und Religionsgemeinschaften"
+    "Bundestag - Heil ist neuer SPD-Beauftragter für Kirchen und Religionsgemeinschaften",
+    "Frankfurt - Urteil im Sommermärchen-Prozess: DFB muss zahlen",
+    "Bundestag - Linken-Chefin Schwerdtner verlangt öffentliche Entschuldigung von Ex-Gesundheitsminister Spahn (CDU) in dessen Maskenaffäre",
+    "Acea-Daten - Tesla-Verkäufe in EU brechen auch im Mai weiter ein",
+    "Griechenland - Waldbrände auf Insel Chios unter Kontrolle - 6.200 Hektar verbrannt"
   ],
   "hashes": [
-    "322b5b555841e71c420e447a1da525dc",
-    "b1b18b99acea35f0df00f54fb206f44d",
-    "81bf9b8b4fe8ae367748f0dd5433e610",
-    "66189f09965e5f48e13b41e8aea50bef",
     "96c5a9297bcae31e3e33fde44e708a83",
     "32dab333a73549ac3d6206f032c97c1c",
     "b39fd7037d1fe9d05a57abe4bbf1370f",
@@ -4005,6 +4001,10 @@
     "6206f64b1a39962dcc1fa5299eed54a3",
     "2b6d6cf3f293eb83f2f486124f73bd0b",
     "77363bce8c9c07d00977ff8d1831119d",
-    "365bc5acef40766eeb02e4900198628c"
+    "365bc5acef40766eeb02e4900198628c",
+    "7a7cb3700ea284ab98b9db678288251c",
+    "19fea406c0f6e38a9c202465af79071f",
+    "5c3dd3a9ff066178a4d53d7558db1b4e",
+    "5b91dbbe71279bc9ba2b60be040a1279"
   ]
 }
