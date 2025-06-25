@@ -19,6 +19,7 @@ FEEDS = [
     "https://www.spiegel.de/thema/integration/index.rss",
     "https://www.zeit.de/serie/die-aufdecker/index.xml",
     "https://www.tagesspiegel.de/feed/politik-deutschland.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
     "https://www.faz.net/rss/aktuell/politik/inland"
 ]
 
@@ -40,7 +41,8 @@ KEYWORDS = [
     "regierung", "bundestag", "wirtschaft", "ampel", "haushalt", "migration",
     "bürgergeld", "afd", "spd", "cdu", "grüne", "wahl", "streik",
     "arbeitsmarkt", "deutschland", "eu", "gesetz", "energie", "asyl", "krieg",
-    "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise"
+    "grenze", "grenzen", "grenzschutz", "bundespolizei", "flüchtlinge", "einreise", "Germany",
+    "German", "Berlin", "Munich", "Hamburg", "refugees", "asylum", "migrants", "integration"
 ]
 
 BLOCKED_KEYWORDS = [
