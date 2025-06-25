@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sachsens-ministerpraesident-kretschmer-cdu-fordert-verschiebung-des-klimaziels-auf-100.html",
-    "https://www.deutschlandfunk.de/russland-spricht-von-terrorakt-bruecken-in-brjansk-und-kursk-nach-explosionen-eingestuerzt-und-zuege-100.html",
     "https://www.deutschlandfunk.de/umgang-mit-wissenschaft-steinmeier-kritisiert-populismus-der-us-regierung-100.html",
     "https://www.deutschlandfunk.de/militaerregierung-verlaengert-waffenstillstand-bis-ende-juni-102.html",
     "https://www.deutschlandfunk.de/kiew-und-moskau-verhandeln-am-montag-erneut-ueber-waffenruhe-in-istanbul-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/soziales/studie-deutsche-tarifbeschaeftigte-streiken-zehn-minuten-pro-jahr-a-09909239-89bb-4233-af98-0dac6faedce5#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/nach-hackerangriff-polizei-muss-wieder-auf-funkgeraete-zurueckgreifen-110557319.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/zuerst-zum-hausarzt-statt-zum-facharzt-hessen-als-vorbild-fuer-den-bund-110555764.html",
-    "https://www.faz.net/aktuell/politik/ukraine/zeitenwende-wie-die-ukraine-deutschland-helfen-kann-110555574.html"
+    "https://www.faz.net/aktuell/politik/ukraine/zeitenwende-wie-die-ukraine-deutschland-helfen-kann-110555574.html",
+    "https://www.deutschlandfunk.de/eu-kommission-macht-weg-fuer-industriestrompreis-frei-100.html",
+    "https://www.deutschlandfunk.de/reiche-kritisiert-habeck-fuer-northvolt-foerderung-102.html"
   ],
   "content_hashes": [
-    "04cf3e73230cbcef10987f1da5f275c7",
-    "082ae46d4de36b9eb8fc6b8a12dce99b",
     "39243be2e3b45fc4ba2852cf90c2b363",
     "c97d0d95956c451f6d520e1ed8862693",
     "d042418db790cb96f307af2e32cd915a",
@@ -2001,11 +1999,11 @@
     "a494a6ed074e7685dd0eb509f9719e6e",
     "44b39d06ea8e1dafa6db08f8c3e21c0f",
     "c620981a10e41cc62d291fd8a3392b47",
-    "4072264b039c1b97e7450c2628d184b9"
+    "4072264b039c1b97e7450c2628d184b9",
+    "45465c4bb53323aab0aef60de2d1f583",
+    "c898c93088fd7ec4c102d1d14aa3805d"
   ],
   "titles": [
-    "Zugunsten des Wirtschaftswachstums - Sachsens Ministerpräsident Kretschmer (CDU) fordert Verschiebung des Klimaziels auf 2050",
-    "Nahe der Grenze zur Ukraine - Russland spricht von \"Terrorakt\": Brücken in Brjansk und Kursk nach Explosionen eingestürzt und Züge entgleist",
     "Bundespräsident - Umgang mit Wissenschaft: Steinmeier kritisiert \"Populismus\" der US-Regierung",
     "Myanmar - Militärregierung verlängert Waffenstillstand bis ende Juni",
     "Ukraine-Krieg - Kiew und Moskau verhandeln am Montag erneut über Waffenruhe in Istanbul",
@@ -3003,11 +3001,11 @@
     "Studie: Deutsche Tarifbeschäftigte streiken zehn Minuten pro Jahr",
     "Nach Hackerangriff: Polizei muss wieder auf Funkgeräte zurückgreifen",
     "Primärarzt-Modell: Wo Hausärzte schon Lotsen sind",
-    "Zeitenwende weiterdenken: Wie die Ukraine uns helfen kann"
+    "Zeitenwende weiterdenken: Wie die Ukraine uns helfen kann",
+    "Brüssel - EU-Kommission macht Weg für Industriestrompreis frei",
+    "Steuergeld - Reiche kritisiert Habeck für Northvolt-Förderung"
   ],
   "hashes": [
-    "056319052d18f94ecb79b7303a6550b8",
-    "42e0d644fb28f5ba623a9fb23546f8a4",
     "72e80886b3532b7de5c7d7c55dd80b82",
     "0c12c20a47ea91565a7d82b93acaf89f",
     "baf512d837915aef442e43ae213d1fee",
@@ -4005,6 +4003,8 @@
     "f005f13f779f8c1c288858c880155a74",
     "e7ab9aa5fea6afa491a6a0742b994a46",
     "caece96c3733bdf155ed8c53194345e1",
-    "fb05d8139d6fcec494830f7ce5644de5"
+    "fb05d8139d6fcec494830f7ce5644de5",
+    "5acb464a80d030a2cc1b48af44f61277",
+    "bd5bab2e24615191627c29bda1605628"
   ]
 }
