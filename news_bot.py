@@ -15,6 +15,10 @@ FEEDS = [
     "https://www.deutschlandfunk.de/politikportal-100.rss",
     "https://www.deutschlandfunk.de/wirtschaft-106.rss",
     "https://www.spiegel.de/thema/deutschland/index.rss",
+    "https://www.tagesschau.de/inland/migration-101~rss.xml",
+    "https://www.spiegel.de/thema/integration/index.rss",
+    "https://www.zeit.de/serie/die-aufdecker/index.xml",
+    "https://www.tagesspiegel.de/feed/politik-deutschland.xml",
     "https://www.faz.net/rss/aktuell/politik/inland"
 ]
 
