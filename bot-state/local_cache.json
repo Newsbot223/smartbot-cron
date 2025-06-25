@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umgang-mit-wissenschaft-steinmeier-kritisiert-populismus-der-us-regierung-100.html",
-    "https://www.deutschlandfunk.de/militaerregierung-verlaengert-waffenstillstand-bis-ende-juni-102.html",
     "https://www.deutschlandfunk.de/kiew-und-moskau-verhandeln-am-montag-erneut-ueber-waffenruhe-in-istanbul-102.html",
     "https://www.deutschlandfunk.de/prozess-gegen-ex-regierungschefin-hasina-in-abwesenheit-begonnen-100.html",
     "https://www.deutschlandfunk.de/laura-philipp-laeuft-bei-hamburger-ironman-zum-em-titel-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/rhein-main/frankfurt/zuerst-zum-hausarzt-statt-zum-facharzt-hessen-als-vorbild-fuer-den-bund-110555764.html",
     "https://www.faz.net/aktuell/politik/ukraine/zeitenwende-wie-die-ukraine-deutschland-helfen-kann-110555574.html",
     "https://www.deutschlandfunk.de/eu-kommission-macht-weg-fuer-industriestrompreis-frei-100.html",
-    "https://www.deutschlandfunk.de/reiche-kritisiert-habeck-fuer-northvolt-foerderung-102.html"
+    "https://www.deutschlandfunk.de/reiche-kritisiert-habeck-fuer-northvolt-foerderung-102.html",
+    "https://www.deutschlandfunk.de/auswaertiges-amt-stellt-finanzielle-unterstuetzung-ein-102.html",
+    "https://www.deutschlandfunk.de/uno-organisationen-kritisieren-geplante-kuerzungen-bei-humanitaerer-hilfe-und-entwicklung-100.html"
   ],
   "content_hashes": [
-    "39243be2e3b45fc4ba2852cf90c2b363",
-    "c97d0d95956c451f6d520e1ed8862693",
     "d042418db790cb96f307af2e32cd915a",
     "9888e7d664035befe08124010e14dac7",
     "c0423e5cc43f5bf7d79ba65d7adfb517",
@@ -2001,11 +1999,11 @@
     "c620981a10e41cc62d291fd8a3392b47",
     "4072264b039c1b97e7450c2628d184b9",
     "45465c4bb53323aab0aef60de2d1f583",
-    "c898c93088fd7ec4c102d1d14aa3805d"
+    "c898c93088fd7ec4c102d1d14aa3805d",
+    "d6b99872c7f372c9b98d3fdf94e2a082",
+    "5caf29d370aa753ee02e826cec69c3ce"
   ],
   "titles": [
-    "Bundespräsident - Umgang mit Wissenschaft: Steinmeier kritisiert \"Populismus\" der US-Regierung",
-    "Myanmar - Militärregierung verlängert Waffenstillstand bis ende Juni",
     "Ukraine-Krieg - Kiew und Moskau verhandeln am Montag erneut über Waffenruhe in Istanbul",
     "Bangladesch - Prozess gegen Ex-Regierungschefin Hasina in Abwesenheit begonnen",
     "Mega-Triathlon - Laura Philipp läuft bei Hamburger Ironman zum EM-Titel",
@@ -3003,11 +3001,11 @@
     "Primärarzt-Modell: Wo Hausärzte schon Lotsen sind",
     "Zeitenwende weiterdenken: Wie die Ukraine uns helfen kann",
     "Brüssel - EU-Kommission macht Weg für Industriestrompreis frei",
-    "Steuergeld - Reiche kritisiert Habeck für Northvolt-Förderung"
+    "Steuergeld - Reiche kritisiert Habeck für Northvolt-Förderung",
+    "Zivile Seenotrettung - Auswärtiges Amt stellt finanzielle Unterstützung ein",
+    "\"Lebensrettender Schutz\" - UNO-Organisationen kritisieren geplante Kürzungen bei humanitärer Hilfe und Entwicklung"
   ],
   "hashes": [
-    "72e80886b3532b7de5c7d7c55dd80b82",
-    "0c12c20a47ea91565a7d82b93acaf89f",
     "baf512d837915aef442e43ae213d1fee",
     "b6fe797dd9c665979a0dac0ccfb11f66",
     "df61087908e3b7766e81c6af10afa311",
@@ -4005,6 +4003,8 @@
     "caece96c3733bdf155ed8c53194345e1",
     "fb05d8139d6fcec494830f7ce5644de5",
     "5acb464a80d030a2cc1b48af44f61277",
-    "bd5bab2e24615191627c29bda1605628"
+    "bd5bab2e24615191627c29bda1605628",
+    "f802ca29ecd83b020a30bf0a30e8a786",
+    "85d06f202d95bf1ea6dda754b0318fa2"
   ]
 }
