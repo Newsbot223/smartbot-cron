@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kloeckner-cdu-und-hasselmann-gruene-fuer-frau-als-staatsoberhaupt-104.html",
-    "https://www.deutschlandfunk.de/generalmajor-henne-ohne-pflichtelemente-auf-dauer-nicht-moeglich-100.html",
     "https://www.deutschlandfunk.de/klingbeil-will-schwarzarbeit-staerker-bekaempfen-100.html",
     "https://www.faz.net/aktuell/politik/generalmajor-wehrdienst-ohne-pflichtelemente-auf-dauer-nicht-moeglich-110514098.html",
     "https://www.deutschlandfunk.de/suedkorea-entscheidet-ueber-neuen-praesidenten-wahl-soll-staatskrise-beenden-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verlaengerung-der-mietpreisbremse-beschlossen-100.html",
     "https://www.deutschlandfunk.de/prien-bundesmittel-fuer-digitalpakt-schule-gesichert-102.html",
     "https://www.deutschlandfunk.de/staats-und-regierungschefs-wollen-neues-sanktionspaket-gegen-russland-verabschieden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-auch-cdu-mann-manuel-hagel-die-naehe-zu-boris-palmer-sucht-110559736.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-auch-cdu-mann-manuel-hagel-die-naehe-zu-boris-palmer-sucht-110559736.html",
+    "https://www.deutschlandfunk.de/wadephul-verteidigt-einstellen-der-zahlungen-fuer-zivile-seenotrettung-100.html",
+    "https://www.deutschlandfunk.de/praesidentin-oldenburg-keine-uniformen-handyverbote-an-schulen-100.html"
   ],
   "content_hashes": [
-    "a50f045e661986bef987df8286e63e9d",
-    "032ab47a0fd4a46d5f994f06aeec20de",
     "b002228069c8e38917f2878647686ea8",
     "1a08e8334737a1f9089a4ae97c35993a",
     "a2fbb2fc9bccb7ba22f17acf85d2e025",
@@ -2001,11 +1999,11 @@
     "94202dbc3612dfa51e1ff8ec937e42ff",
     "d2c2ec11f9bae0da5a796b594e9e7c0d",
     "fd2e20f92183a7e85c14669b684eba01",
-    "d535dad49add8081f1472479e6a9452f"
+    "d535dad49add8081f1472479e6a9452f",
+    "6fde7f4a0e4bae359886cdc2dfe8a346",
+    "679561626db3b23b679f92bd2b0e2c92"
   ],
   "titles": [
-    "Nachfolge von Bundespräsident Steinmeier - Klöckner (CDU) und Haßelmann (Grüne) für Frau als Staatsoberhaupt",
-    "Wehrdienst - Generalmajor Henne: \"Ohne Pflichtelemente auf Dauer nicht möglich\"",
     "Staatliche Einnahme-Ausfälle - Klingbeil will Schwarzarbeit stärker bekämpfen",
     "Generalmajor: Wehrdienst ohne Pflichtelemente auf Dauer nicht möglich",
     "Asien - Südkorea entscheidet über neuen Präsidenten - Wahl soll Staatskrise beenden",
@@ -3003,11 +3001,11 @@
     "Bundestag - Verlängerung der Mietpreisbremse beschlossen",
     "Bildung - Prien: Bundesmittel für Digitalpakt Schule gesichert",
     "EU-Gipfel - Staats- und Regierungschefs wollen neues Sanktionspaket gegen Russland verabschieden",
-    "Warum auch der CDU-Kandidat die Nähe zu Boris Palmer sucht"
+    "Warum auch der CDU-Kandidat die Nähe zu Boris Palmer sucht",
+    "Migration - Wadephul verteidigt Einstellen der Zahlungen für zivile Seenotrettung",
+    "Bildungsministerkonferenz - Präsidentin Oldenburg: keine uniformen Handyverbote an Schulen"
   ],
   "hashes": [
-    "6b7873f1d7bba627931e94fd2e552568",
-    "9fdf24ddbf3ddfd3911622760c72367d",
     "f01e0c5bb92c0b69be0c3837e14e682d",
     "b2c7b1bd6609155264309d4500c5c4af",
     "7548c7f44ba71742c73ebc42187bb9e1",
@@ -4005,6 +4003,8 @@
     "9ea63db6ea499033590ed85de5e8dc5b",
     "5f6781fe28ed1021afdfe2359b327ffe",
     "e10581152aeeb8460d0496c162b95f1d",
-    "56c9013062295b39748d5c518340f3f3"
+    "56c9013062295b39748d5c518340f3f3",
+    "86f56089262ae9922fb8fcd85e14537e",
+    "4b9a31b44e1c767fb92916b8d9ef4a81"
   ]
 }
