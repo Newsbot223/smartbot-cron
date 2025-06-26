@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/service/kaufkraft-vergleich-wo-am-meisten-urlaub-fuer-ihr-geld-drin-ist-a-58a4b4ee-1c36-4e6e-9b83-a1646a3bc910#ref=rss",
-    "https://www.deutschlandfunk.de/zoll-stellt-schaden-durch-schwarzarbeit-in-hoehe-von-766-millionen-euro-fest-100.html",
-    "https://www.deutschlandfunk.de/erneute-suche-im-fall-maddie-begonnen-100.html",
     "https://www.deutschlandfunk.de/tote-nach-russischem-beschuss-in-sumy-und-charkiw-100.html",
     "https://www.deutschlandfunk.de/nach-entscheidung-ueber-zurueckweisungen-int-daniel-thym-uni-konstanz-100.html",
     "https://www.deutschlandfunk.de/suedkorea-entscheidet-ueber-neuen-praesidenten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/iran-und-israel-zu-zurueckhaltung-aufgerufen-slowakei-blockiert-russland-sanktionen-100.html",
     "https://www.deutschlandfunk.de/bundestagsentscheidungen-zu-bka-rechten-und-verkauf-von-nadelrevolvern-100.html",
     "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-aussetzung-von-familiennachzug-ab-100.html",
-    "https://www.deutschlandfunk.de/wadephul-europa-vermittelt-zwischen-iran-und-usa-100.html"
+    "https://www.deutschlandfunk.de/wadephul-europa-vermittelt-zwischen-iran-und-usa-100.html",
+    "https://www.deutschlandfunk.de/linke-erwaegt-neue-kandidatur-fuer-platz-im-parlamentarischen-kontrollgremium-100.html",
+    "https://www.deutschlandfunk.de/bundestagsentscheidungen-zu-bka-rechten-verkauf-von-nadelrevolvern-und-tierhaltungslogo-100.html",
+    "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-beraet-mit-laendern-ueber-zukunft-des-angebots-100.html"
   ],
   "content_hashes": [
-    "31b0f0100316605878064d1836eb843f",
-    "45c2292deca83f6da4d97640735acebd",
-    "26afca9efebc2e538f5d2d480e1ee91b",
     "f785f71e107665063364d5efd0ea362e",
     "a9cb3203ccbbf745f7625023081ee3f1",
     "2e768ac0c98bea102410374b15a99689",
@@ -2001,12 +1998,12 @@
     "76c53c752710c0ed21143dc9278cd7fd",
     "352a6c35904c0785915fe2cbcab59a5c",
     "0dc6387b68f9a13d04c0fe22b41b70de",
-    "1adef00797bedf4bfbe617c5c0e53bac"
+    "1adef00797bedf4bfbe617c5c0e53bac",
+    "5cb3bb4766f1fd54bf92208351284a29",
+    "f2d1ae25ece9f1e0b74d2c303b85ea0b",
+    "c87ce74031fc08b160a93403b6b163a2"
   ],
   "titles": [
-    "Kaufkraft-Vergleich: Wo am meisten Urlaub für ihr Geld drin ist",
-    "Jahresbilanz - Zoll stellt Schaden durch Schwarzarbeit in Höhe von 766 Millionen Euro fest",
-    "Portugal - Erneute Suche im Fall Maddie begonnen",
     "Krieg gegen die Ukraine - Tote nach russischem Beschuss in Sumy und Charkiw",
     "Migrationspolitik - Jurist: Zurückweisungen an Grenzen solide begründen",
     "Asien - Südkorea entscheidet über neuen Präsidenten",
@@ -3003,12 +3000,12 @@
     "EU-Gipfel - Iran und Israel zu Zurückhaltung aufgerufen - Slowakei blockiert Russland-Sanktionen",
     "Berlin - Bundestagsentscheidungen zu BKA-Rechten und Verkauf von \"Nadelrevolvern\"",
     "Berlin - Bundestag stimmt über Aussetzung von Familiennachzug ab",
-    "Iranisches Atomprogramm - Wadephul: Europa vermittelt zwischen Iran und USA"
+    "Iranisches Atomprogramm - Wadephul: Europa vermittelt zwischen Iran und USA",
+    "Bundestag - Linke erwägt neue Kandidatur für Platz im Parlamentarischen Kontrollgremium",
+    "Berlin - Bundestagsentscheidungen zu BKA-Rechten, Verkauf von \"Nadelrevolvern\" und Tierhaltungslogo",
+    "Deutschlandticket - Bundesverkehrsminister Schnieder berät mit Ländern über Zukunft des Angebots"
   ],
   "hashes": [
-    "110c4d8d55106193e0f3f7aec4e983e1",
-    "0d3545fdc39336b2298939a587399d10",
-    "73791ad1f5b2f804f2c609a1fe45b580",
     "64410a12c36a420c69de00d47b077a49",
     "0f48ae1b883ffd16a57d3b71a3a0f0b5",
     "b7bc14a4a908efad493fa0612572ba6a",
@@ -4005,6 +4002,9 @@
     "b2dad90173f62ab04499e6dcaf677263",
     "1d61a06c8842e544c37dfbec7802630d",
     "f096987e9213d9a4d88b16da3b288b13",
-    "9e9cfd18eb596b68083e5325524523ae"
+    "9e9cfd18eb596b68083e5325524523ae",
+    "fd0df4c8e4adc6eb99c019108141b376",
+    "2d527ddeed0f106f7dd48ceb2119d07f",
+    "39ef293b60084d520d79d00d9968d780"
   ]
 }
