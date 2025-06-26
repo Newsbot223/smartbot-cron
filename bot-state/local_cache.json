@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/franzoesisches-justizopfer-dreyfus-soll-posthum-befoerdert-werden-100.html",
-    "https://www.spiegel.de/ausland/polen-premier-donald-tusk-will-nach-praesidentenwahl-vertrauensfrage-stellen-a-12852f96-9e92-433f-b942-67bf491140b2#ref=rss",
     "https://www.deutschlandfunk.de/armee-faengt-aus-dem-jemen-abgefeuerte-rakete-ab-102.html",
     "https://www.deutschlandfunk.de/suedkorea-waehlt-einen-neuen-praesidenten-100.html",
     "https://www.deutschlandfunk.de/kloeckner-cdu-und-hasselmann-gruene-fuer-frau-als-staatsoberhaupt-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/seoul-nordkorea-entsendet-tausende-weitere-soldaten-zur-unterstuetzung-russlands-100.html",
     "https://www.deutschlandfunk.de/nach-messerattacke-polizei-erschiesst-afghanischen-asylbewerber-beamter-schwer-mit-messer-verletzt-102.html",
     "https://www.deutschlandfunk.de/erstmals-inder-ungar-und-pole-an-der-iss-angekommen-104.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wer-soll-diese-spd-noch-waehlen-110557969.html"
+    "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wer-soll-diese-spd-noch-waehlen-110557969.html",
+    "https://www.deutschlandfunk.de/verlaengerung-der-mietpreisbremse-beschlossen-100.html",
+    "https://www.deutschlandfunk.de/prien-bundesmittel-fuer-digitalpakt-schule-gesichert-102.html"
   ],
   "content_hashes": [
-    "720c35ceb85fba1397740e7c75d47f74",
-    "9bbe7e61c39b88a0eb0991fd111504b7",
     "b45fac6b88ad8eb958e6f808d2d08ef1",
     "43f80fc840198f49a6af5836d5e39dcd",
     "a50f045e661986bef987df8286e63e9d",
@@ -2001,11 +1999,11 @@
     "8c9c9682bc694a22aee06e1d6ab957a5",
     "690e3d699337a58ecdb1c57e3cb15ba2",
     "f95e9c348f3f26f65c94308c1f9b041a",
-    "be171cbe5dfd08ecb30513ee61bf3e4a"
+    "be171cbe5dfd08ecb30513ee61bf3e4a",
+    "94202dbc3612dfa51e1ff8ec937e42ff",
+    "d2c2ec11f9bae0da5a796b594e9e7c0d"
   ],
   "titles": [
-    "Wiedergutmachung - Französisches Justizopfer Dreyfus soll posthum befördert werden",
-    "Polen: Premier Donald Tusk will nach Präsidentenwahl Vertrauensfrage stellen",
     "Israel - Armee fängt aus dem Jemen abgefeuerte Rakete ab",
     "Nach Staatskrise - Südkorea wählt einen neuen Präsidenten",
     "Nachfolge von Bundespräsident Steinmeier - Klöckner (CDU) und Haßelmann (Grüne) für Frau als Staatsoberhaupt",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Seoul: Nordkorea entsendet tausende weitere Soldaten zur Unterstützung Russlands",
     "Sicherheit - Nach Messerattacke: Polizei erschießt afghanischen Asylbewerber - Beamter schwer mit Messer verletzt",
     "Weltall - Erstmals Inder, Ungar und Pole an der ISS angekommen",
-    "Bundesparteitag in Berlin: Wer wählt noch die SPD?"
+    "Bundesparteitag in Berlin: Wer wählt noch die SPD?",
+    "Bundestag - Verlängerung der Mietpreisbremse beschlossen",
+    "Bildung - Prien: Bundesmittel für Digitalpakt Schule gesichert"
   ],
   "hashes": [
-    "527734f8a44047f5ef94efab0468bb52",
-    "ae62395fbbcc22b102ab4f83f87c8993",
     "08463f7becc3de178927de59efe5b6bf",
     "8e3d26bae28050693060e1e88bf03518",
     "6b7873f1d7bba627931e94fd2e552568",
@@ -4005,6 +4003,8 @@
     "9eddd201016a8148f47b2439b385eb2b",
     "426e6f0de0a094b8df9c4caccbdacb45",
     "3e7ff8e49ce38354333d9e05a708e47a",
-    "3131f3803c41c92132291e53ca8e290e"
+    "3131f3803c41c92132291e53ca8e290e",
+    "9ea63db6ea499033590ed85de5e8dc5b",
+    "5f6781fe28ed1021afdfe2359b327ffe"
   ]
 }
