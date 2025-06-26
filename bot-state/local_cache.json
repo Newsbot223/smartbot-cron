@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneut-zahlreiche-tote-104.html",
-    "https://www.deutschlandfunk.de/sap-mitgruender-plattner-investiert-dreistellige-millionensumme-in-potsdam-102.html",
-    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-plaediert-fuer-deutlich-hoehere-verteidigungsausgaben-100.html",
     "https://www.faz.net/aktuell/politik/inland/gericht-zurueckweisung-von-asylsuchenden-rechtswidrig-110513820.html",
     "https://www.faz.net/aktuell/politik/inland/nach-eilentscheidung-dobrindt-will-an-zurueckweisungen-an-grenze-festhalten-110513820.html",
     "https://www.spiegel.de/politik/deutschland/urteil-zu-migrationspolitik-alexander-dobrindt-haelt-an-zurueckweisung-von-asylsuchenden-fest-a-b0d326d0-357b-487e-958f-0e9596abb5c6#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ein-toter-bei-luftangriff-in-region-cherson-100.html",
     "https://www.deutschlandfunk.de/landwirtschaftsminister-rainer-gegen-preisaufschlaege-fuer-fleisch-100.html",
     "https://www.deutschlandfunk.de/china-sieht-in-moskaunahem-buendnis-stabilitaetsanker-kritik-an-nato-100.html",
-    "https://www.deutschlandfunk.de/dune-regisseur-denis-villeneuve-dreht-neuen-bond-film-102.html"
+    "https://www.deutschlandfunk.de/dune-regisseur-denis-villeneuve-dreht-neuen-bond-film-102.html",
+    "https://www.deutschlandfunk.de/wadephul-fordert-zusammenarbeit-teherans-mit-atomkontrolleuren-102.html",
+    "https://www.deutschlandfunk.de/ig-metall-und-linke-warnen-vor-altersarmut-100.html",
+    "https://www.deutschlandfunk.de/verkehrsminister-schnieder-fuer-festen-preismechanismus-100.html"
   ],
   "content_hashes": [
-    "591b5b3c49bf6bc5fe30986171efffc9",
-    "a754e7df8879b753428214c196412e7f",
-    "c71fbd0598e08d820aa7fe5a6398a8bb",
     "fb1e0f86b0e623884ad91a97f7d80400",
     "d594dddabf23e53f8516f52bc6ee30bc",
     "ee4bf8fbfb98044583e42e255afb9d91",
@@ -2001,12 +1998,12 @@
     "3669284e1c27eef308490f31f7897a02",
     "30231d71c5014e2d81a2d2a601d46216",
     "dc4365692d4f85c74b1565e84fac1647",
-    "39aba371cc3d7be4d195ad4f149388af"
+    "39aba371cc3d7be4d195ad4f149388af",
+    "bcadc03df80c7ca92ff9b81396181a8d",
+    "4bacc6a967edb313479b34ec20778258",
+    "5c10863e2c676fa74468a597014bd412"
   ],
   "titles": [
-    "Gazastreifen - Erneut zahlreiche Tote",
-    "Wissenschaftsförderung - SAP-Mitgründer Plattner investiert dreistellige Millionensumme in Potsdam",
-    "Vilnius - NATO-Generalsekretär Rutte plädiert für deutlich höhere Verteidigungsausgaben",
     "Eilentscheidung: Gericht hält Zurückweisung von Asylsuchenden für rechtswidrig",
     "Nach Eilentscheidung: Dobrindt will an Zurückweisungen an Grenze festhalten",
     "Urteil zu Migrationspolitik: Alexander Dobrindt hält an Zurückweisung von Asylsuchenden fest",
@@ -3003,12 +3000,12 @@
     "Ukraine-Krieg - Ein Toter bei Luftangriff in Region Cherson",
     "Bauerntag - Landwirtschaftsminister Rainer gegen Preisaufschläge für Fleisch",
     "Sicherheitspolitik - China sieht in moskaunahem Bündnis \"Stabilitätsanker\" - Kritik an NATO",
-    "Filmstudio Amazon MGM - \"Dune\"-Regisseur Denis Villeneuve dreht neuen Bond-Film"
+    "Filmstudio Amazon MGM - \"Dune\"-Regisseur Denis Villeneuve dreht neuen Bond-Film",
+    "Iran - Wadephul fordert Zusammenarbeit Teherans mit Atomkontrolleuren",
+    "Rentenpläne von Ministerin Bas - IG Metall und Linke warnen vor Altersarmut",
+    "Deutschlandticket - Verkehrsminister Schnieder für festen Preismechanismus"
   ],
   "hashes": [
-    "deb02b2dd37f06549ef03fd4dc62e011",
-    "8b7e0aff2fd933e6fbffd4db31a45587",
-    "5d59fcdb7a8909061660f565e83413e9",
     "f0e584527aa8a32f5b1f2e5b35307d83",
     "7b03d07d180be8114c6caa2174f1411b",
     "99b73528edb07ea3479c191905ec981c",
@@ -4005,6 +4002,9 @@
     "2d7031e961468b2628d1014a8a0cbd37",
     "1ed5c67c3f74d94a39de0fe3cf547968",
     "627336aedd0002f9db0bea24274fb595",
-    "86c01c1b75b3bdb7ac3014f4134583c0"
+    "86c01c1b75b3bdb7ac3014f4134583c0",
+    "7a72a453f9eafa2ed0e33473ea6a97ff",
+    "535988c41d03ec2f07c591a670dd78db",
+    "e327177aa2aec56738e4bf53d8193913"
   ]
 }
