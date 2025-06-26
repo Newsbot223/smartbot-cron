@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mega-konzert-von-lady-gaga-in-rio-kommt-ins-guinness-buch-der-rekorde-102.html",
-    "https://www.deutschlandfunk.de/thyssenkrupp-steel-strebt-sozialplan-fuer-stellenabbau-an-100.html",
     "https://www.deutschlandfunk.de/gruene-warnen-vor-hohen-kosten-schwarz-roter-entlastungsplaene-fuer-unternehmen-100.html",
     "https://www.deutschlandfunk.de/uno-konferenz-gegen-armut-und-hunger-102.html",
     "https://www.deutschlandfunk.de/nationalkonservativer-nawrocki-gewinnt-praesidentenwahl-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/luftwaffe-fliegt-weitere-deutsche-aus-israel-aus-100.html",
     "https://www.deutschlandfunk.de/iranischer-luftraum-teilweise-wieder-geoeffnet-100.html",
     "https://www.deutschlandfunk.de/reichinnek-ruft-unionsabgeordnete-zu-ihrer-wahl-auf-100.html",
-    "https://www.deutschlandfunk.de/bas-legt-rentenpaket-vor-100.html"
+    "https://www.deutschlandfunk.de/bas-legt-rentenpaket-vor-100.html",
+    "https://www.deutschlandfunk.de/streeck-debatte-ueber-drogen-und-sucht-ist-kein-randthema-100.html",
+    "https://www.deutschlandfunk.de/trump-kritisiert-vorgehen-von-israels-justiz-gegen-netanjahu-100.html"
   ],
   "content_hashes": [
-    "2eb845c6b949ec9ccc77652ef75058fe",
-    "220fb98aa4892097497f092b60d51c28",
     "9bfd5b2a45e62332830d1e66b0e66741",
     "3ca0d109311950a4b4d305d4576b6f48",
     "8a5f748f2c9b9356eb2416c054a27d69",
@@ -2001,11 +1999,11 @@
     "3f02096ca610b80a82220217ed5fb5e1",
     "1d3c0910b9036571524eb70568af3d62",
     "e02d4376a6c4ef41a2fc1a622c4ed33b",
-    "95d489545523ec396df09313e8889cf3"
+    "95d489545523ec396df09313e8889cf3",
+    "c60663ddd8499267fe1b3983d7661cd4",
+    "0b2cda06adef5229ce852a4a316f586e"
   ],
   "titles": [
-    "2,5 Millionen Besucher - Mega-Konzert von Lady Gaga in Rio kommt ins Guinness-Buch der Rekorde",
-    "Medienbericht - Thyssenkrupp Steel strebt Sozialplan für Stellenabbau an",
     "Wirtschaft - Grüne warnen vor hohen Kosten schwarz-roter Entlastungspläne für Unternehmen",
     "Hamburg - UNO-Konferenz gegen Armut und Hunger",
     "Polen - Nawrocki gewinnt Präsidentenwahl",
@@ -3003,11 +3001,11 @@
     "Nahost - Luftwaffe fliegt weitere Deutsche aus Israel aus",
     "Nach Waffenruhe - Iranischer Luftraum teilweise wieder geöffnet",
     "Parlamentarisches Kontrollgremium - Reichinnek ruft Unionsabgeordnete zu ihrer Wahl auf",
-    "Gesetzentwurf - Bas legt Rentenpaket vor"
+    "Gesetzentwurf - Bas legt Rentenpaket vor",
+    "Weltdrogentag - Streeck: Debatte über Drogen und Sucht ist kein Randthema",
+    "Korruptionsverfahren - Trump kritisiert Vorgehen von Israels Justiz gegen Netanjahu"
   ],
   "hashes": [
-    "b25afccdebfc6fe1102e64ea57c46532",
-    "4178b4c586ad18a0fe284575dfaed3a8",
     "3e2c6256099e59031bb0702e1b309b68",
     "02eb4e972528c9c39e6e315d34699a86",
     "acf83be599fd394aa7dd60d32065dc15",
@@ -4005,6 +4003,8 @@
     "a89f815a144a861f306dfaa11d45011c",
     "3435bd54afb3a57fbc6a5ff1434acafc",
     "26fac35a0b677e3d0410969b7b6f9c78",
-    "1d6f5346a45e1707a652472befa21d4e"
+    "1d6f5346a45e1707a652472befa21d4e",
+    "c5546a32719a9a25f029e3accc1cf1d4",
+    "0de0697c996d75d9d5dd044262e1cdf4"
   ]
 }
