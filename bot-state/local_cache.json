@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-reichen-noch-nie-so-hoch-wie-heute-100.html",
-    "https://www.deutschlandfunk.de/merz-reist-nach-washington-plenarsitzung-des-bundestags-100.html",
     "https://www.deutschlandfunk.de/entschaerfung-von-weltkriegs-bomben-weite-teile-der-innenstand-werden-evakuiert-100.html",
     "https://www.deutschlandfunk.de/kabinett-will-steuersenkungen-fuer-firmen-beschliessen-schweitzer-nicht-auf-den-deckel-von-laendern--100.html",
     "https://www.deutschlandfunk.de/entschaerfung-von-weltkriegs-bomben-weite-teile-der-innenstadt-werden-evakuiert-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/moskau-bestellt-deutschen-botschafter-ein-streit-um-medien-102.html",
     "https://www.deutschlandfunk.de/koalition-beschliesst-temporaere-aussetzung-des-familiennachzugs-100.html",
     "https://www.deutschlandfunk.de/in-zwei-schritten-mindestlohn-soll-steigen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/hitlergruss-auf-sylt-mann-akzeptiert-geldstrafe-110562161.html"
+    "https://www.faz.net/aktuell/politik/inland/hitlergruss-auf-sylt-mann-akzeptiert-geldstrafe-110562161.html",
+    "https://www.deutschlandfunk.de/hitlergruss-auf-sylt-zu-l-amour-toujours-2-500-euro-geldstrafe-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-stephan-weil-uns-allen-steckt-das-ergebnis-noch-in-den-knochen-faz-110093143.html"
   ],
   "content_hashes": [
-    "8c5185e9bcff3b55235b06564deb9664",
-    "bbf0a88a71d5c5fa98c9abda1dabee4a",
     "4a21ea683e5b0fe2653cdaea0f0aa565",
     "5e278e017bb3b605dba5eaf39932997c",
     "04378049cfdc93a0580ff7df9b3740af",
@@ -2001,11 +1999,11 @@
     "4a344c83cdd621ebd957a9fd7fb21a04",
     "8e82cf9decda5ffe22de07d5987a6108",
     "f84114ee01533b528865d0239eceed91",
-    "8aa5a8b3cf6f9b6ffede1cc95c233785"
+    "8aa5a8b3cf6f9b6ffede1cc95c233785",
+    "035a92c028ba643b9e64bdfa84a86c84",
+    "9aa83e81a9107a7c80b6ca7239d69716"
   ],
   "titles": [
-    "Bericht - Zahl der Reichen noch nie so hoch wie heute",
-    "Außenpolitik - Merz reist nach Washington - Plenarsitzung des Bundestags",
     "Köln - Entschärfung von Weltkriegs-Bomben - Weite Teile der Innenstand werden evakuiert",
     "Bundesregierung - Kabinett will Steuersenkungen für Firmen beschließen - Schweitzer: \"Nicht auf den Deckel von Ländern und Kommunen\"",
     "Köln - Entschärfung von Weltkriegs-Bomben - Weite Teile der Innenstadt werden evakuiert",
@@ -3003,11 +3001,11 @@
     "Russland - Moskau bestellt deutschen Botschafter ein - Streit um Medien",
     "Migrationspolitik - Bundestag stimmt Aussetzung des Familiennachzugs zu",
     "Schrittweise Erhöhung - Mindestlohn soll auf 14,60 Euro steigen",
-    "Hitlergruß auf Sylt: Mann akzeptiert Geldstrafe"
+    "Hitlergruß auf Sylt: Mann akzeptiert Geldstrafe",
+    "Extremismus - Hitlergruß auf Sylt zu \"L'amour toujours\": 2.500 Euro Geldstrafe",
+    "Liveblog zur Merz-Regierung: „Uns allen steckt das Ergebnis noch in den Knochen“"
   ],
   "hashes": [
-    "d3932873763eabe01fb279324cd00e1a",
-    "d761991b176fc21d4b3d7f1cc3902d4c",
     "075c25e3776e64faf91baafaabc27101",
     "5a9c2f7be7da6e9ec69ed743b5f04566",
     "0066b7ca4631dcad431c63b370d29688",
@@ -4005,6 +4003,8 @@
     "373e9062c638f68986d8ec1b530e66e7",
     "5bec9276824aa33395e303d19f0c431d",
     "fd0af80195a084e3179e0f48bc894d80",
-    "f1e93ab90485014b2caad65b2a178c1e"
+    "f1e93ab90485014b2caad65b2a178c1e",
+    "747288eef992b78d045514c159bdfef2",
+    "ffd49cf9a8a111a382fab2467f9dbf91"
   ]
 }
