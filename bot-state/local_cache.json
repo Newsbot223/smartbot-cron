@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/soziales/world-wealth-report-zahl-der-millionaere-in-deutschland-schrumpft-a-ee110524-626d-4b71-b1cc-8b8738fd0da1#ref=rss",
-    "https://www.deutschlandfunk.de/erneut-drastischer-anstieg-von-antisemitismus-in-deutschland-102.html",
     "https://www.deutschlandfunk.de/evakuierungen-in-koelner-innenstadt-angelaufen-sperrung-von-bahnhoefen-beeintraechtigt-fernverkehr-100.html",
     "https://www.deutschlandfunk.de/diese-massnahmen-in-wirtschaft-und-migration-hat-das-bundeskabinett-beschlossen-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/kabinett-billigt-milliardenschwere-steuerentlastungen-fuer-unternehmen-a-1f3a5250-6348-46b9-b93d-6500a8347b51#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/spd-wohin-bewegt-lars-klingbeil-die-partei-110561672.html",
     "https://www.deutschlandfunk.de/radovan-fordert-von-uno-konferenz-loesungen-zur-finanzierung-von-entwicklungshilfe-100.html",
     "https://www.faz.net/aktuell/politik/ausland/merz-erster-eu-gipfel-dem-kanzler-wird-s-nicht-langweilig-110562401.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-wir-sind-auf-migration-angewiesen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-wir-sind-auf-migration-angewiesen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/weitere-finanzierung-des-deutschlandtickets-bleibt-offen-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/unhcr-chef-grandi-hilfe-als-investment-statt-als-wohltaetigkeit-110562055.html"
   ],
   "content_hashes": [
-    "ab6b20db455800fb37c602a3f55ec9f0",
-    "aba51af1b40ba61848f9be8e20230d3d",
     "611a9b4a58e7f02c4223ef411f997d46",
     "de3a0bbd2f2ab1b398be899158d269fd",
     "c9b1e7bef76b2d78b42e84baa16c9be5",
@@ -2001,11 +1999,11 @@
     "e7c4fda26f22f991471234963efdadf2",
     "de25b339aab867bffe70c146f06b81e0",
     "19686086ddc77f9339882ee341448476",
-    "2d3c0d60bc878ec92801151040b71f48"
+    "2d3c0d60bc878ec92801151040b71f48",
+    "3cb94a1565be48ca4170cec9e86d039d",
+    "629cd298e70d48bd3fed11ca22a3b932"
   ],
   "titles": [
-    "World Wealth Report: Zahl der Millionäre in Deutschland schrumpft",
-    "Rias-Bericht - Erneut drastischer Anstieg von Antisemitismus in Deutschland",
     "Weltkriegsbomben - Evakuierungen in Kölner Innenstadt angelaufen - Sperrung von Bahnhöfen beeinträchtigt Fernverkehr",
     "Berlin - Diese Maßnahmen in Wirtschaft und Migration hat das Bundeskabinett beschlossen",
     "Kabinett billigt milliardenschwere Steuerentlastungen für Unternehmen",
@@ -3003,11 +3001,11 @@
     "Zustand der Sozialdemokratie: Wofür gibt es die SPD eigentlich noch?",
     "Bundesministerin - Radovan fordert von UNO-Konferenz Lösungen zur Finanzierung von Entwicklungshilfe",
     "Merz' erster EU-Gipfel: Dem Kanzler wird’s nicht langweilig",
-    "Liveblog zur Merz-Regierung: Klingbeil: Wir sind auf Migration angewiesen"
+    "Liveblog zur Merz-Regierung: Klingbeil: Wir sind auf Migration angewiesen",
+    "Deutschlandticket - Weitere Finanzierung des Deutschlandtickets bleibt offen",
+    "UNHCR-Chef Grandi: Hilfe als Investment statt als Wohltätigkeit"
   ],
   "hashes": [
-    "f42e993e8ad0b2fd331494199a478b26",
-    "53a968e43c1eb02f44fa18390d36bf9f",
     "e99fea2c6c84322487bba1bd3f6d0d7e",
     "0a443672740dac930b7a7cd79d3aca5a",
     "a5cf72572ef63f94b8bd5c21fefa0d3b",
@@ -4005,6 +4003,8 @@
     "75bdd575a5912b8fb36c7836eff572b0",
     "a498c9d53156f5c87837b5f45613bf83",
     "3db12c0e3e90a11c8201dbe507b0b443",
-    "432e358d8b92ef866bb14cc1144f6ed4"
+    "432e358d8b92ef866bb14cc1144f6ed4",
+    "1a6f8ff51e97ca95ffd91eba600d585b",
+    "ce0681c528e53835dac7b1da38c92a0d"
   ]
 }
