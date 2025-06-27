@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/arbeitslosigkeit-in-der-eu-stagniert-euro-zone-verzeichnet-leichten-rueckgang-100.html",
-    "https://www.deutschlandfunk.de/bewaehrungsstrafe-fuer-cum-ex-kronzeugen-102.html",
     "https://www.deutschlandfunk.de/oppositionsfuehrer-lee-gewinnt-laut-prognose-praesidentschaftswahl-in-suedkorea-100.html",
     "https://www.deutschlandfunk.de/nada-hofft-auf-rechtssicherheit-bei-der-nennung-von-dopingvergehen-102.html",
     "https://www.deutschlandfunk.de/csu-abgeordnete-staffler-ist-neue-pflegebeauftragte-der-bundesregierung-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kein-neues-sanktionspaket-gegen-russland-beschlossen-widerstand-aus-der-slowakei-bleibt-100.html",
     "https://www.deutschlandfunk.de/neue-bewegung-in-den-verhandlungen-zwischen-eu-und-usa-100.html",
     "https://www.deutschlandfunk.de/usa-erwaegen-hilfsangebot-an-iran-fuer-aufbau-eines-zivilen-atomprogramms-100.html",
-    "https://www.deutschlandfunk.de/usa-verschaerften-visa-regeln-wegen-fentanyl-schmuggels-100.html"
+    "https://www.deutschlandfunk.de/usa-verschaerften-visa-regeln-wegen-fentanyl-schmuggels-100.html",
+    "https://www.deutschlandfunk.de/usa-bewilligen-erstmals-finanzielle-mittel-fuer-umstrittene-hilfsorganisation-ghf-100.html",
+    "https://www.deutschlandfunk.de/erste-bundeslaender-starten-in-die-sommerferien-100.html"
   ],
   "content_hashes": [
-    "55fb494b05cf09ef8d0e391d4dfd1858",
-    "2fee3c69c1e2ee110225aa08d28fe36c",
     "c123fe5d2c6e19277ffc6105f35d16b0",
     "84f6ff5c8ec10f3f9bd5c3f05a111f90",
     "381a9c55bebc5faed95332ca5c961e55",
@@ -2001,11 +1999,11 @@
     "68deafdd2c95cd46e2417122b8f7dc98",
     "e94c71798374ebe160253d599f74dc2a",
     "ed066530463edd61301ded2abc1951c8",
-    "70caa27bdfb786ac33ee85cdc38e008c"
+    "70caa27bdfb786ac33ee85cdc38e008c",
+    "8f2e120b1cb432185af1e97744737031",
+    "84774155ead59d4acb3049f7e6d29c4a"
   ],
   "titles": [
-    "Wirtschaft - Arbeitslosigkeit in der EU stagniert - Euro-Zone verzeichnet leichten Rückgang",
-    "Steuerbetrug - Bewährungsstrafe für Cum-Ex-Kronzeugen",
     "Asien - Oppositionsführer Lee gewinnt laut Prognose Präsidentschaftswahl in Südkorea",
     "Doping - NADA hofft auf Rechtssicherheit bei der Nennung von Dopingvergehen",
     "Gesundheitspolitik - CSU-Abgeordnete Staffler ist neue Pflegebeauftragte der Bundesregierung",
@@ -3003,11 +3001,11 @@
     "EU-Gipfel - Kein neues Sanktionspaket gegen Russland beschlossen - Widerstand aus der Slowakei bleibt",
     "Zollstreit - Neue Bewegung in den Verhandlungen zwischen EU und USA",
     "Medienbericht - USA erwägen Hilfsangebot an Iran für Aufbau eines zivilen Atomprogramms",
-    "Drogenkrise - USA verschärften Visa-Regeln wegen Fentanyl-Schmuggels"
+    "Drogenkrise - USA verschärften Visa-Regeln wegen Fentanyl-Schmuggels",
+    "Gazastreifen - USA bewilligen erstmals finanzielle Mittel für umstrittene Hilfsorganisation GHF",
+    "Schulen - Erste Bundesländer starten in die Sommerferien"
   ],
   "hashes": [
-    "57b3c1e00fc608f9dcdf545c4af71f22",
-    "d1498706d9f8126919038e9c699c2b14",
     "f6e96886bf8041ec320303b549fef7d1",
     "ead87a779dfab465fc053ad7208d499d",
     "0466f2b001c2210400ff86fb3783927f",
@@ -4005,6 +4003,8 @@
     "df34181e79d88f690b9c8ba690a8fed4",
     "fa54660ab27c139292d79120ce77b03d",
     "903641cffaf177b8780f6cebfd70ea49",
-    "d3c8786bc03d43aa050cf15ee65dfc20"
+    "d3c8786bc03d43aa050cf15ee65dfc20",
+    "c6e24c7a380eca25cbeda39bd74b68a8",
+    "ed8dc908da5116e06430871a84af9e58"
   ]
 }
