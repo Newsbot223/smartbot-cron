@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hisbollah-anfuehrer-vor-olg-stuttgart-verurteilt-lebenslange-haft-fuer-syrischen-kriegsverbrecher-100.html",
-    "https://www.deutschlandfunk.de/journalisten-von-ard-zdf-dlf-orf-und-srf-mahnen-mehr-schutz-vor-populistischen-und-rechtsextremen-kr-100.html",
-    "https://www.deutschlandfunk.de/oppositionspolitiker-lee-gewinnt-vorgezogene-praesidentenwahl-100.html",
     "https://www.deutschlandfunk.de/weisses-haus-us-praesident-trump-nimmt-am-nato-gipfel-in-den-haag-teil-102.html",
     "https://www.deutschlandfunk.de/vor-entschaerfung-von-weltkriegs-bomben-20-000-menschen-muessen-ihre-wohnungen-verlassen-102.html",
     "https://www.deutschlandfunk.de/ab-mittwoch-dreitaegiger-warnstreik-am-dhl-frachtdrehkreuz-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/was-macht-eigentlich-die-iaea-102.html",
     "https://www.faz.net/aktuell/politik/inland/was-machen-politiker-wenn-sie-amt-oder-mandat-verlieren-110544748.html",
     "https://www.deutschlandfunk.de/ukraine-meldet-massive-russische-luftangriffe-in-der-nacht-russischer-flughafen-zeitweise-gesperrt-102.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-orban-warnt-vor-offiziell-verbotener-pride-parade-mit-legalen-konsequenzen-100.html"
+    "https://www.deutschlandfunk.de/ministerpraesident-orban-warnt-vor-offiziell-verbotener-pride-parade-mit-legalen-konsequenzen-100.html",
+    "https://www.deutschlandfunk.de/familiennachzug-fuer-gefluechtete-mit-eingeschraenktem-schutzstatus-ausgesetzt-100.html",
+    "https://www.spiegel.de/panorama/justiz/taylor-swift-konzert-bundesanwaltschaft-erhebt-anklage-in-zusammenhang-mit-anschlagsplan-a-372809a9-a16d-403f-8553-36fd358f3557#ref=rss",
+    "https://www.spiegel.de/politik/deutschland/migration-bundestag-beschliesst-zweijaehrige-aussetzung-des-familiennachzugs-a-9deda653-ecc4-49b0-9dc3-dda89cbe4c1c#ref=rss"
   ],
   "content_hashes": [
-    "f50902f98e134712e5fa7c1c6d5c9316",
-    "812aa694056fdaa8bf5ea059de8cb2d9",
-    "03df39cbe8982d03a30c9bb89af30b80",
     "f55037013ed2241d1c1d7d582f55a13b",
     "85bc1dd010e33fc28dedb92660d7bce0",
     "8f16bcb33f9e3554d8ea63b0db97a650",
@@ -2001,12 +1998,12 @@
     "9b63bb0d6bc1088b3e994174b3da7753",
     "297cbbbecc5d122227fb9d6f84d9f600",
     "1f0c4fbaf08e9829edc331aeef8e047f",
-    "1f5d858839ceaf8b1f702421d65d2517"
+    "1f5d858839ceaf8b1f702421d65d2517",
+    "80668258011baabc5eac1212b0e6cf75",
+    "e212f9d85ed9e53a8b1177c7274fb7b5",
+    "c575df2b04e7963c9ff1b5faf3adf228"
   ],
   "titles": [
-    "Staatsschutzverfahren - Hisbollah-Anführer vor OLG Stuttgart verurteilt - lebenslange Haft für syrischen Kriegsverbrecher",
-    "Öffentlich-rechtliche Medien - Journalisten von ARD, ZDF, DLF, ORF und SRF mahnen mehr Schutz vor populistischen und rechtsextremen Kräften an",
-    "Südkorea - Oppositionspolitiker Lee gewinnt vorgezogene Präsidentenwahl",
     "Verteidigung - Weißes Haus: US-Präsident Trump nimmt am NATO-Gipfel in Den Haag teil",
     "Evakuierungen in Köln - Vor Entschärfung von Weltkriegs-Bomben. 20.000 Menschen müssen ihre Wohnungen verlassen",
     "Flughafen Leipzig - Ab Mittwoch dreitägiger Warnstreik am DHL-Frachtdrehkreuz",
@@ -3003,12 +3000,12 @@
     "Atomkonflikt - Was macht eigentlich die Internationale Atomenergie-Organisation?",
     "Was machen Politiker, wenn sie Amt oder Mandat verlieren?",
     "Ukraine-Krieg - Ukraine meldet massive russische Luftangriffe in der Nacht - Russischer Flughafen zeitweise gesperrt",
-    "Ungarn - Ministerpräsident Orban warnt vor offiziell verbotener Pride-Parade mit legalen Konsequenzen"
+    "Ungarn - Ministerpräsident Orban warnt vor offiziell verbotener Pride-Parade mit legalen Konsequenzen",
+    "Bundestag - Familiennachzug für Geflüchtete mit eingeschränktem Schutzstatus ausgesetzt",
+    "Taylor-Swift-Konzert: Bundesanwaltschaft erhebt Anklage in Zusammenhang mit Anschlagsplan",
+    "Migration: Bundestag beschließt zweijährige Aussetzung des Familiennachzugs"
   ],
   "hashes": [
-    "18707b894fdc9e40a00737ab3a87b94d",
-    "2d7f5d26dafa13329ffc10b1493e2051",
-    "48bfd67a03a2b637ee506f900f715571",
     "f2e2f95b1f54d9bf98ef896c3c2883b2",
     "3a43a8aa8cf9211ad8c20c3e0f8c756b",
     "eb11644ff4a426c55d37d045309dcba1",
@@ -4005,6 +4002,9 @@
     "3a3e70fa618cc4f124a6bb3691963ef3",
     "f2431f53f94a59cb0e9ac3a3d94a7627",
     "fbb03f3a946965e1e04cf2a717229d1b",
-    "682a9a25b124a423be58e13584c96b48"
+    "682a9a25b124a423be58e13584c96b48",
+    "5853e2a5b005ab629263030631438908",
+    "861e67fed8f150858e79c81a447171e2",
+    "f3be42215e1d23902c212a12bb8dd6e1"
   ]
 }
