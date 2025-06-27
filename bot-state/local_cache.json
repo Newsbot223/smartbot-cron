@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nada-hofft-auf-rechtssicherheit-bei-der-nennung-von-dopingvergehen-102.html",
-    "https://www.deutschlandfunk.de/csu-abgeordnete-staffler-ist-neue-pflegebeauftragte-der-bundesregierung-102.html",
     "https://www.faz.net/aktuell/politik/inland/cyber-attacken-auf-deutschland-dobrindt-will-dreifach-aufruesten-110515073.html",
     "https://www.deutschlandfunk.de/ministerpraesident-schoof-kuendigt-nach-bruch-der-koalition-ruecktritt-an-100.html",
     "https://www.deutschlandfunk.de/geheimdienst-sbu-meldet-angriff-auf-krim-bruecke-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-verschaerften-visa-regeln-wegen-fentanyl-schmuggels-100.html",
     "https://www.deutschlandfunk.de/usa-bewilligen-erstmals-finanzielle-mittel-fuer-umstrittene-hilfsorganisation-ghf-100.html",
     "https://www.deutschlandfunk.de/erste-bundeslaender-starten-in-die-sommerferien-100.html",
-    "https://www.deutschlandfunk.de/freigelassener-belarussischer-oppositoneller-tichanowskij-102.html"
+    "https://www.deutschlandfunk.de/freigelassener-belarussischer-oppositoneller-tichanowskij-102.html",
+    "https://www.deutschlandfunk.de/linke-besteht-auf-platz-im-parlamentarischen-kontrollgremium-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wovon-klingbeil-seine-spd-ueberzeugen-will-110559965.html"
   ],
   "content_hashes": [
-    "84f6ff5c8ec10f3f9bd5c3f05a111f90",
-    "381a9c55bebc5faed95332ca5c961e55",
     "d56f7b95dfddcdaa2a1cd1ca728ae985",
     "9aec1eef231bf397a37df24f0f30a3cd",
     "7c2586b4d96ed95f17534a70cb626656",
@@ -2001,11 +1999,11 @@
     "70caa27bdfb786ac33ee85cdc38e008c",
     "8f2e120b1cb432185af1e97744737031",
     "84774155ead59d4acb3049f7e6d29c4a",
-    "105e980ed7454fe59b7ce81907358a44"
+    "105e980ed7454fe59b7ce81907358a44",
+    "792fb16412ceed6efdea98bd7fb5f985",
+    "18e64b259f4cd08e29f2cdef7578421d"
   ],
   "titles": [
-    "Doping - NADA hofft auf Rechtssicherheit bei der Nennung von Dopingvergehen",
-    "Gesundheitspolitik - CSU-Abgeordnete Staffler ist neue Pflegebeauftragte der Bundesregierung",
     "Cyber-Attacken auf Deutschland: Dobrindt will „dreifach aufrüsten“",
     "Niederlande - Ministerpräsident Schoof kündigt nach Bruch der Koalition Rücktritt an",
     "Ukraine-Krieg - Geheimdienst SBU meldet Angriff auf Krim-Brücke",
@@ -3003,11 +3001,11 @@
     "Drogenkrise - USA verschärften Visa-Regeln wegen Fentanyl-Schmuggels",
     "Gazastreifen - USA bewilligen erstmals finanzielle Mittel für umstrittene Hilfsorganisation GHF",
     "Schulen - Erste Bundesländer starten in die Sommerferien",
-    "Nach Freilassung - Aktivist Tichanowski ruft Belarussen zu Wiederstand auf"
+    "Nach Freilassung - Aktivist Tichanowski ruft Belarussen zu Wiederstand auf",
+    "Bundestag - Linke besteht auf Platz im Parlamentarischen Kontrollgremium",
+    "Bundesparteitag in Berlin: Als Klingbeil in einem Späti eine Idee kam"
   ],
   "hashes": [
-    "ead87a779dfab465fc053ad7208d499d",
-    "0466f2b001c2210400ff86fb3783927f",
     "3668487a931b3a54b11bb78a6819b6be",
     "310265455422b61176c0970c60306d24",
     "daa341cb2a977ad03ddd45ac61278ba6",
@@ -4005,6 +4003,8 @@
     "d3c8786bc03d43aa050cf15ee65dfc20",
     "c6e24c7a380eca25cbeda39bd74b68a8",
     "ed8dc908da5116e06430871a84af9e58",
-    "a5a493004c621a246561f59053cda6e2"
+    "a5a493004c621a246561f59053cda6e2",
+    "4b693305c69da337255c8f24fbda88e0",
+    "2c67a11dd5cee7bd424f55785f1bb49a"
   ]
 }
