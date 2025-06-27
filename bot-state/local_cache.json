@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-praesident-lee-zeigt-sich-offen-fuer-annaeherung-an-nordkorea-102.html",
-    "https://www.deutschlandfunk.de/sperrung-von-koelner-bahnhoefen-beeintraechtigt-fernverkehr-teile-der-innenstadt-evakuiert-100.html",
     "https://www.deutschlandfunk.de/gut-zehn-prozent-der-lehrkraefte-ohne-lehramtspruefung-100.html",
     "https://www.deutschlandfunk.de/hochrangige-ex-militaers-wegen-mordes-an-vier-journalisten-verurteilt-100.html",
     "https://www.deutschlandfunk.de/vietnam-streicht-zwei-kind-regelung-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-stephan-weil-uns-allen-steckt-das-ergebnis-noch-in-den-knochen-faz-110093143.html",
     "https://www.deutschlandfunk.de/bund-und-laender-vertagen-entscheidung-zum-deutschlandticket-100.html",
     "https://www.deutschlandfunk.de/verteidigungsministerium-zerstoerte-bundeswehr-lkw-waren-nicht-fuer-ukraine-vorgesehen-100.html",
-    "https://www.deutschlandfunk.de/ukraine-meldet-wieder-massive-russische-luftangriffe-100.html"
+    "https://www.deutschlandfunk.de/ukraine-meldet-wieder-massive-russische-luftangriffe-100.html",
+    "https://www.deutschlandfunk.de/verteidigungsministerium-zerstoerte-bundeswehr-lkw-waren-nicht-urspruenglich-fuer-ukraine-vorgesehen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-wohin-bewegt-lars-klingbeil-die-partei-110561672.html"
   ],
   "content_hashes": [
-    "df9b7826a9e6a5e87494881bc9bbc54b",
-    "8acf57002e7dd4aafd35358608790609",
     "9a3f18fbfff7e178ff69c38c649a62e6",
     "0afcb91380dcefc36e49774d450df916",
     "ccf65772b0b47fcedc05e65bd8d89bc8",
@@ -2001,11 +1999,11 @@
     "9aa83e81a9107a7c80b6ca7239d69716",
     "77ea60cc77d9703a8f6bd0b37826cc91",
     "f52072195a2bfb02f82c130080406a65",
-    "2d085b02bd67311830bb4f1837da862f"
+    "2d085b02bd67311830bb4f1837da862f",
+    "24bb2ff671885c07ec78e18df93a1e6c",
+    "e7c4fda26f22f991471234963efdadf2"
   ],
   "titles": [
-    "Südkorea - Neuer Präsident Lee zeigt sich offen für Annäherung an Nordkorea",
-    "Weltkriegsbomben - Sperrung von Kölner Bahnhöfen beeinträchtigt Fernverkehr - Teile der Innenstadt evakuiert",
     "Bildung - Gut zehn Prozent der Lehrkräfte ohne Lehramtsprüfung",
     "El Salvador - Hochrangige Ex-Militärs wegen Mordes an vier Journalisten verurteilt",
     "Sinkende Geburtenrate - Vietnam streicht Zwei-Kind-Regelung",
@@ -3003,11 +3001,11 @@
     "Liveblog zur Merz-Regierung: „Uns allen steckt das Ergebnis noch in den Knochen“",
     "Verkehr - Bund und Länder vertagen Entscheidung zum Deutschlandticket",
     "Erfurt - Verteidigungsministerium: Zerstörte Bundeswehr-LKW waren nicht für Ukraine vorgesehen",
-    "Ukraine-Krieg - Ukraine meldet wieder massive russische Luftangriffe"
+    "Ukraine-Krieg - Ukraine meldet wieder massive russische Luftangriffe",
+    "Erfurt - Verteidigungsministerium: Zerstörte Bundeswehr-Lkw waren nicht ursprünglich für Ukraine vorgesehen",
+    "Zustand der Sozialdemokratie: Wofür gibt es die SPD eigentlich noch?"
   ],
   "hashes": [
-    "26f4c5f93c616266b2e868e781c0a48c",
-    "4d294f7f9ce46a4cd0d755eb144368a8",
     "e1ed3bddd42af638b3a35c34b060f7c8",
     "8d387959c0f7c27b9795ecc150d1651b",
     "c06ff5170f39f511308518fdc0cb0cb6",
@@ -4005,6 +4003,8 @@
     "ffd49cf9a8a111a382fab2467f9dbf91",
     "426bb4cdb7ee436244a22fcdf01aecef",
     "3b9195ecc8e727933f9455aa4ecda724",
-    "b2766fea2cfb12c58a224a488a5de9b2"
+    "b2766fea2cfb12c58a224a488a5de9b2",
+    "5ffc1998cd031e350010575a19dd6c1a",
+    "75bdd575a5912b8fb36c7836eff572b0"
   ]
 }
