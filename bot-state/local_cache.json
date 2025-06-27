@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/entschaerfung-von-weltkriegs-bomben-weite-teile-der-innenstand-werden-evakuiert-100.html",
-    "https://www.deutschlandfunk.de/kabinett-will-steuersenkungen-fuer-firmen-beschliessen-schweitzer-nicht-auf-den-deckel-von-laendern--100.html",
     "https://www.deutschlandfunk.de/entschaerfung-von-weltkriegs-bomben-weite-teile-der-innenstadt-werden-evakuiert-100.html",
     "https://www.deutschlandfunk.de/neuer-praesident-lee-zeigt-sich-offen-fuer-annaeherung-an-nordkorea-102.html",
     "https://www.deutschlandfunk.de/sperrung-von-koelner-bahnhoefen-beeintraechtigt-fernverkehr-teile-der-innenstadt-evakuiert-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/in-zwei-schritten-mindestlohn-soll-steigen-100.html",
     "https://www.faz.net/aktuell/politik/inland/hitlergruss-auf-sylt-mann-akzeptiert-geldstrafe-110562161.html",
     "https://www.deutschlandfunk.de/hitlergruss-auf-sylt-zu-l-amour-toujours-2-500-euro-geldstrafe-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-stephan-weil-uns-allen-steckt-das-ergebnis-noch-in-den-knochen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-stephan-weil-uns-allen-steckt-das-ergebnis-noch-in-den-knochen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/bund-und-laender-vertagen-entscheidung-zum-deutschlandticket-100.html",
+    "https://www.deutschlandfunk.de/verteidigungsministerium-zerstoerte-bundeswehr-lkw-waren-nicht-fuer-ukraine-vorgesehen-100.html"
   ],
   "content_hashes": [
-    "4a21ea683e5b0fe2653cdaea0f0aa565",
-    "5e278e017bb3b605dba5eaf39932997c",
     "04378049cfdc93a0580ff7df9b3740af",
     "df9b7826a9e6a5e87494881bc9bbc54b",
     "8acf57002e7dd4aafd35358608790609",
@@ -2001,11 +1999,11 @@
     "f84114ee01533b528865d0239eceed91",
     "8aa5a8b3cf6f9b6ffede1cc95c233785",
     "035a92c028ba643b9e64bdfa84a86c84",
-    "9aa83e81a9107a7c80b6ca7239d69716"
+    "9aa83e81a9107a7c80b6ca7239d69716",
+    "77ea60cc77d9703a8f6bd0b37826cc91",
+    "f52072195a2bfb02f82c130080406a65"
   ],
   "titles": [
-    "Köln - Entschärfung von Weltkriegs-Bomben - Weite Teile der Innenstand werden evakuiert",
-    "Bundesregierung - Kabinett will Steuersenkungen für Firmen beschließen - Schweitzer: \"Nicht auf den Deckel von Ländern und Kommunen\"",
     "Köln - Entschärfung von Weltkriegs-Bomben - Weite Teile der Innenstadt werden evakuiert",
     "Südkorea - Neuer Präsident Lee zeigt sich offen für Annäherung an Nordkorea",
     "Weltkriegsbomben - Sperrung von Kölner Bahnhöfen beeinträchtigt Fernverkehr - Teile der Innenstadt evakuiert",
@@ -3003,11 +3001,11 @@
     "Schrittweise Erhöhung - Mindestlohn soll auf 14,60 Euro steigen",
     "Hitlergruß auf Sylt: Mann akzeptiert Geldstrafe",
     "Extremismus - Hitlergruß auf Sylt zu \"L'amour toujours\": 2.500 Euro Geldstrafe",
-    "Liveblog zur Merz-Regierung: „Uns allen steckt das Ergebnis noch in den Knochen“"
+    "Liveblog zur Merz-Regierung: „Uns allen steckt das Ergebnis noch in den Knochen“",
+    "Verkehr - Bund und Länder vertagen Entscheidung zum Deutschlandticket",
+    "Erfurt - Verteidigungsministerium: Zerstörte Bundeswehr-LKW waren nicht für Ukraine vorgesehen"
   ],
   "hashes": [
-    "075c25e3776e64faf91baafaabc27101",
-    "5a9c2f7be7da6e9ec69ed743b5f04566",
     "0066b7ca4631dcad431c63b370d29688",
     "26f4c5f93c616266b2e868e781c0a48c",
     "4d294f7f9ce46a4cd0d755eb144368a8",
@@ -4005,6 +4003,8 @@
     "fd0af80195a084e3179e0f48bc894d80",
     "f1e93ab90485014b2caad65b2a178c1e",
     "747288eef992b78d045514c159bdfef2",
-    "ffd49cf9a8a111a382fab2467f9dbf91"
+    "ffd49cf9a8a111a382fab2467f9dbf91",
+    "426bb4cdb7ee436244a22fcdf01aecef",
+    "3b9195ecc8e727933f9455aa4ecda724"
   ]
 }
