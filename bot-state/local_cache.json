@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/geheimdienst-sbu-meldet-angriff-auf-krim-bruecke-102.html",
-    "https://www.deutschlandfunk.de/40-000-tonnen-schweres-teilstueck-der-rinsdorf-bruecke-an-der-a45-wird-angehoben-und-verschoben-100.html",
-    "https://www.deutschlandfunk.de/immer-mehr-menschen-in-deutschland-machen-sich-selbststaendig-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-schoof-kuendigt-nach-bruch-der-koalition-neuwahlen-an-100.html",
     "https://www.faz.net/aktuell/rhein-main/hessen-schiebt-drogendealer-ab-110515435.html",
     "https://www.deutschlandfunk.de/fuenf-tote-bei-angriff-auf-hilfkonvoi-der-vereinten-nationen-100.html",
     "https://www.deutschlandfunk.de/hisbollah-anfuehrer-vor-olg-stuttgart-verurteilt-lebenslange-haft-fuer-syrischen-kriegsverbrecher-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/linke-besteht-auf-platz-im-parlamentarischen-kontrollgremium-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wovon-klingbeil-seine-spd-ueberzeugen-will-110559965.html",
     "https://www.deutschlandfunk.de/gipfelwoche-was-haben-die-europaeer-erreicht-interview-mit-m-a-strack-zim-100.html",
-    "https://www.deutschlandfunk.de/kommt-die-erhoehung-auf-15-euro-100.html"
+    "https://www.deutschlandfunk.de/kommt-die-erhoehung-auf-15-euro-100.html",
+    "https://www.deutschlandfunk.de/erhoehung-in-zwei-stufen-auf-14-60-euro-bis-100.html",
+    "https://www.deutschlandfunk.de/forscher-finden-mehr-als-1-000-atommuell-faesser-im-atlantik-104.html",
+    "https://www.deutschlandfunk.de/was-macht-eigentlich-die-iaea-102.html",
+    "https://www.faz.net/aktuell/politik/inland/was-machen-politiker-wenn-sie-amt-oder-mandat-verlieren-110544748.html"
   ],
   "content_hashes": [
-    "7c2586b4d96ed95f17534a70cb626656",
-    "14be97a5fff08fb1ad52103dd8321ec6",
-    "97191193e89faf4f8c87e0217eb53ba2",
-    "894e10aceb6f13dc0f8a6b883ba75c13",
     "d22e89e6f8bb4986d76ec2b54eb9fd41",
     "eea72b249ae47e5f5919a8b2deb72684",
     "f50902f98e134712e5fa7c1c6d5c9316",
@@ -2001,13 +1997,13 @@
     "792fb16412ceed6efdea98bd7fb5f985",
     "18e64b259f4cd08e29f2cdef7578421d",
     "bae9eb56d1c5197cd9edcf9d3560459f",
-    "bfe22358b831085507cb682470e61a3a"
+    "bfe22358b831085507cb682470e61a3a",
+    "635f9f34e319829d9f682633be8bf6bf",
+    "296097d9835ec19a923075424d5ecb19",
+    "9b63bb0d6bc1088b3e994174b3da7753",
+    "297cbbbecc5d122227fb9d6f84d9f600"
   ],
   "titles": [
-    "Ukraine-Krieg - Geheimdienst SBU meldet Angriff auf Krim-Brücke",
-    "Verkehr - 40.000 Tonnen schweres Teilstück der Rinsdorf-Brücke an der A45 wird angehoben und verschoben",
-    "Existenzgründungen - Immer mehr Menschen in Deutschland machen sich selbstständig",
-    "Niederlande - Ministerpräsident Schoof kündigt nach Bruch der Koalition Neuwahlen an",
     "Drogendealer aus Frankfurt abgeschoben",
     "Sudan - Fünf Tote bei Angriff auf Hilfkonvoi der Vereinten Nationen",
     "Staatsschutzverfahren - Hisbollah-Anführer vor OLG Stuttgart verurteilt - lebenslange Haft für syrischen Kriegsverbrecher",
@@ -3003,13 +2999,13 @@
     "Bundestag - Linke besteht auf Platz im Parlamentarischen Kontrollgremium",
     "Bundesparteitag in Berlin: Als Klingbeil in einem Späti eine Idee kam",
     "Uneinigkeit in der EU - Strack-Zimmermann: Es fehlt der Wille, Kompromisse zu schließen",
-    "Mindestlohn - Kommt die Erhöhung auf 15 Euro?"
+    "Mindestlohn - Kommt die Erhöhung auf 15 Euro?",
+    "Mindestlohn - Erhöhung in zwei Stufen auf 14,60 Euro bis 2027",
+    "Meeresverschmutzung - Forscher finden mehr als 1.000 Atommüll-Fässer im Atlantik",
+    "Atomkonflikt - Was macht eigentlich die Internationale Atomenergie-Organisation?",
+    "Was machen Politiker, wenn sie Amt oder Mandat verlieren?"
   ],
   "hashes": [
-    "daa341cb2a977ad03ddd45ac61278ba6",
-    "b32616b71de68bcaa1ed5f39e712b5f6",
-    "a3d7e98bd7ee83c397f8028c2a33d62b",
-    "511eacfc95f847c6743e9a0e62ffafbc",
     "71c446b92103a8e737b728ca664fe1c3",
     "79f66dc4b9059ade611225a2b2e31c52",
     "18707b894fdc9e40a00737ab3a87b94d",
@@ -4005,6 +4001,10 @@
     "4b693305c69da337255c8f24fbda88e0",
     "2c67a11dd5cee7bd424f55785f1bb49a",
     "47fa26ddbae21d8754dbf780e0530511",
-    "c84969cbecd0767e80d5b85afbbc176e"
+    "c84969cbecd0767e80d5b85afbbc176e",
+    "746ba64b2e85d95b691f12effd4f2619",
+    "621d2babcd270d155d00d971e6b3fa33",
+    "3a3e70fa618cc4f124a6bb3691963ef3",
+    "f2431f53f94a59cb0e9ac3a3d94a7627"
   ]
 }
