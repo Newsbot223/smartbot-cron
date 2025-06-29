@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/niedersachsen-plant-nach-messerangriffen-gesetz-zur-besseren-erkennung-psychisch-kranker-potenzielle-100.html",
-    "https://www.faz.net/aktuell/politik/inland/aussenminister-wadephul-und-die-staatsraeson-110517768.html",
     "https://www.deutschlandfunk.de/weitere-schritte-fuer-mehr-abschiebungen-eingeleitet-regierung-will-staaten-kuenftig-eingestaendig-z-100.html",
     "https://www.deutschlandfunk.de/widerstand-in-bayern-gegen-soeders-csu-geplanten-ankauf-von-tschechischem-atomstrom-100.html",
     "https://www.deutschlandfunk.de/trump-telefoniert-mit-putin-und-daempft-hoffnungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-heftiger-streit-in-ampel-koalition-110562799.html",
     "https://www.deutschlandfunk.de/erneut-proteste-gegen-die-regierung-in-belgrad-und-forderungen-nach-neuwahlen-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-gegenwaertige-unpuenktlichkeit-inakzeptabel-100.html",
-    "https://www.deutschlandfunk.de/spd-will-debatte-ueber-afd-verbotsverfahren-vorantreiben-100.html"
+    "https://www.deutschlandfunk.de/spd-will-debatte-ueber-afd-verbotsverfahren-vorantreiben-100.html",
+    "https://www.deutschlandfunk.de/festnahmen-und-verletzte-bei-massenprotest-gegen-serbische-regierung-100.html",
+    "https://www.deutschlandfunk.de/israels-armee-ranghoher-hamas-kommandeur-in-gaza-getoetet-102.html"
   ],
   "content_hashes": [
-    "1412f61387017104e4e7fab169c01a96",
-    "07898e68b4ca573d0ced8b2bc6fb2f6a",
     "f826ba47f20e022258f0ffbac3e76499",
     "69e6d35f2ec609f00f0dc89f35fe99b1",
     "b68a5fb3a2cd9e195ef94b420387bdc4",
@@ -2001,11 +1999,11 @@
     "5298ad67ef1020cffa980c5204d7870a",
     "9d676da00201f51d8e7450bda9c3cd23",
     "71249008c7e49ab1fe20d8a49c5d440d",
-    "a45103dda4159e414d68eb706b627ce9"
+    "a45103dda4159e414d68eb706b627ce9",
+    "79f00a0daad5a55de48a65d12f02f755",
+    "43bdf8c7ed6d1e4685368d69d4f4cffb"
   ],
   "titles": [
-    "Gewalt - Niedersachsen plant nach Messerangriffen Gesetz zur besseren Erkennung psychisch kranker, potenzieller Gefährder",
-    "Umgang mit Israel: Der Außenminister und die Staatsräson",
     "Kabinett - Weitere Schritte für mehr Abschiebungen eingeleitet - Regierung will Staaten künftig eingeständig zu sicheren Herkunftsländern erklären",
     "Energieversorgung - Widerstand in Bayern gegen Söders (CSU) geplanten Ankauf von tschechischem Atomstrom",
     "Krieg in der Ukraine - Trump telefoniert mit Putin und dämpft Hoffnungen",
@@ -3003,11 +3001,11 @@
     "Kritik von allen Seiten: Eine Zerreißprobe für die rheinland-pfälzische Ampel",
     "Serbien - Erneut Proteste gegen die Regierung in Belgrad und Forderungen nach Neuwahlen",
     "Deutsche Bahn - Bundesverkehrsminister: Gegenwärtige Unpünktlichkeit inakzeptabel",
-    "Parteitag in Berlin - SPD will Debatte über AfD-Verbotsverfahren vorantreiben"
+    "Parteitag in Berlin - SPD will Debatte über AfD-Verbotsverfahren vorantreiben",
+    "Belgrad - Festnahmen und Verletzte bei Massenprotest gegen serbische Regierung",
+    "Nahost - Israels Armee: Ranghoher Hamas-Kommandeur in Gaza getötet"
   ],
   "hashes": [
-    "ee14f7b23e7859d98f526d76dd111937",
-    "6a063f4d3e670e23c8ae8fadbfd9783b",
     "3e7724e3974e17ff147810b17c644946",
     "5e3e60f60a70886f5bb776023a9e833d",
     "854b677c4895f002c91635d14b60bc3b",
@@ -4005,6 +4003,8 @@
     "e7ba311478a00c962e946e65a27c0da7",
     "7479d3321d620deb641c0497c0142eb2",
     "91474b0f6b310f8ac622639003fde5c3",
-    "4622b17aa273377b75713a94f831be10"
+    "4622b17aa273377b75713a94f831be10",
+    "7fb89c671a4c8e41bf373893f0ac59a6",
+    "6b53ff9dbb9803ee5cd8e40f34d98275"
   ]
 }
