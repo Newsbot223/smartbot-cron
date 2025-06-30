@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/institut-1-2-millionen-offene-stellen-in-deutschland-ein-viertel-weniger-als-im-vorjahr-100.html",
-    "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-wo-jedes-dorf-seinen-eigenen-buergermeister-hat-110506681.html",
-    "https://www.deutschlandfunk.de/jedes-vierte-unternehmen-erwartet-stellenabbau-durch-einsatz-von-kuenstlicher-intelligenz-102.html",
     "https://www.deutschlandfunk.de/vorerst-keine-mehrheit-fuer-schwaechung-von-fluggastrechten-100.html",
     "https://www.deutschlandfunk.de/forscher-entraetseln-herstellung-der-himmelsscheibe-von-nebra-102.html",
     "https://www.deutschlandfunk.de/realloehne-im-ersten-quartal-um-1-2-prozent-gestiegen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-kuendigt-kaeufer-fuer-us-geschaeft-von-tiktok-an-110.html",
     "https://www.spiegel.de/panorama/norwegen-lotto-anbieter-norsk-tipping-verkuendet-tausenden-menschen-hohe-eurojackpot-gewinne-rechenfehler-a-ab8c4e5a-0879-4cb1-9de3-51327eb8d62e#ref=rss",
     "https://www.deutschlandfunk.de/iran-usa-muessen-weitere-angriffe-ausschliessen-102.html",
-    "https://www.deutschlandfunk.de/netanjahu-kriegsziele-weiter-erreichbar-100.html"
+    "https://www.deutschlandfunk.de/netanjahu-kriegsziele-weiter-erreichbar-100.html",
+    "https://www.deutschlandfunk.de/kanada-zieht-im-handelsstreit-mit-den-usa-digitalsteuer-zurueck-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-jeder-dritte-zug-verspaetet-100.html",
+    "https://www.deutschlandfunk.de/serbischer-praesident-vucic-keine-verhandlungen-mit-terroristen-100.html"
   ],
   "content_hashes": [
-    "1270b402b2bb77fb4748b95c214d661d",
-    "204985b977a4b1363e6d8943072e7d52",
-    "d381d5429479ad2f83452fa67540caf9",
     "8f46f169477ead5ea0f34992f5e4f6ad",
     "080434cd76b2762ef648951d1f4e6a04",
     "48e8714acfb2950a83e9719970fd9e5e",
@@ -2001,12 +1998,12 @@
     "c9e2fe966c83b54970f09674c6670742",
     "3a4a4a27143b3a0aa75ccfc27a117542",
     "34dc953394326280d1e410602a96c55d",
-    "57284daa7b7a789898c28eb4ee252aa2"
+    "57284daa7b7a789898c28eb4ee252aa2",
+    "3223e09038d4e8c65989da8224052768",
+    "994ca6a0feda4a66f457a3e633256a2c",
+    "b5cea77092f45f9e749e8817abb89de1"
   ],
   "titles": [
-    "Arbeitsmarkt - Institut: 1,2 Millionen offene Stellen in Deutschland - ein Viertel weniger als im Vorjahr",
-    "Rheinland-Pfalz: Wo jedes Dorf seinen eigenen Bürgermeister hat",
-    "Wirtschaft - Jedes vierte Unternehmen erwartet Stellenabbau durch Einsatz von Künstlicher Intelligenz",
     "EU-Verkehrsminister - Vorerst keine Mehrheit für Schwächung von Fluggastrechten",
     "Archäologie - Forscher enträtseln Herstellung der Himmelsscheibe von Nebra",
     "Wirtschaft - Reallöhne im ersten Quartal um 1,2 Prozent gestiegen",
@@ -3003,12 +3000,12 @@
     "USA - Trump kündigt Käufer für US-Geschäft von Tiktok an",
     "Norwegen: Lotto-Anbieter Norsk Tipping verkündet Tausenden Menschen hohe Eurojackpot-Gewinne – Rechenfehler",
     "Verhandlungen über Atomprogramm - Iran: \"USA müssen weitere Angriffe ausschließen\"",
-    "Gaza-Krieg - Netanjahu: \"Kriegsziele weiter erreichbar\""
+    "Gaza-Krieg - Netanjahu: \"Kriegsziele weiter erreichbar\"",
+    "Wirtschaft - Kanada zieht im Handelsstreit mit den USA Digitalsteuer zurück",
+    "Deutsche Bahn - Mehr als jeder dritte Zug verspätet",
+    "Nach Protesten in Belgrad - Serbischer Präsident Vucic: Keine Verhandlungen mit Terroristen"
   ],
   "hashes": [
-    "3178b3e2d6f5cb9395416d08df967f4e",
-    "74746e552ebc8e0572134e34dda0e8ba",
-    "b29c58305244e34405993c109d3cd693",
     "9036ae9508633a73f63bed735930ac1e",
     "a29d58239d1aaf1dd62405cc463c74a6",
     "7b2898292671ec4ea681fcbdb8545289",
@@ -4005,6 +4002,9 @@
     "17d34257c09d34db808398fc4bc74be2",
     "2f18437e3318fb8c5f98a0bc31f3363c",
     "f7cdee404acc62db5947d4a9b0a30924",
-    "4b753437bd0c7b54693afead2b02d951"
+    "4b753437bd0c7b54693afead2b02d951",
+    "03c340c25bb9659db6c7cc7eaefcece8",
+    "4eda0dabc04508028a35d02f831ee80e",
+    "c64a0c975429c3b2bd7f36456f94fd3e"
   ]
 }
