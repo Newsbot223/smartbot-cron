@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/helferich-geht-zum-gegenangriff-ueber-110519868.html",
-    "https://www.deutschlandfunk.de/wadephul-fordert-mehr-hilfslieferungen-fuer-gaza-102.html",
     "https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-wirft-regierung-wegen-siedlungspolitik-bruch-des-voelkerrechts-vor-a-b97a9cad-5ab1-4f9a-ad97-3f83c6a77256#ref=rss",
     "https://www.deutschlandfunk.de/schweitzer-rechnet-mit-verstaendigung-zwischen-bund-und-laendern-102.html",
     "https://www.deutschlandfunk.de/seit-dobrindts-weisung-160-asylsuchende-an-den-grenzen-zurueckgewiesen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gerichtsverhandlung-in-der-tuerkei-wird-chp-chef-oezel-abgesetzt-100.html",
     "https://www.deutschlandfunk.de/sicherheits-expertin-babst-sieht-keine-deutsche-fuehrungsrolle-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-europaeischen-atomwaffen-schutzschirm-sicherheits-expertin-babst-haelt-spahns-vorschla-100.html",
-    "https://www.deutschlandfunk.de/el-salvadors-praesident-bukele-wirft-us-modeschoepfer-chavarria-verherrlichung-von-gang-kriminalitae-102.html"
+    "https://www.deutschlandfunk.de/el-salvadors-praesident-bukele-wirft-us-modeschoepfer-chavarria-verherrlichung-von-gang-kriminalitae-102.html",
+    "https://www.deutschlandfunk.de/erneut-drohnenangriffe-auf-die-regionen-donezk-und-charkiw-100.html",
+    "https://www.faz.net/aktuell/politik/inland/sachsen-anhalts-frueherer-ministerpraesident-wolfgang-boehmer-gestorben-110566679.html"
   ],
   "content_hashes": [
-    "3a68d3dfaa040a00281dae498a0c2c78",
-    "d4d3e5e8fa1f130c03f9a38a495d6bdd",
     "c280110acd0588cc6ef36347a977ad5e",
     "5235a63af3f1b18827a317104d731cc3",
     "22b90f26d841dacb70d3f8a49b879db9",
@@ -2001,11 +1999,11 @@
     "1708718fdf90693dd4978db5fe5f8478",
     "3c666396d7a1142158db674764eecae6",
     "6af5bf02319d3c9141cbd98d1a2ce267",
-    "d0e8a620b6f9c2deda409f9837d6dc7a"
+    "d0e8a620b6f9c2deda409f9837d6dc7a",
+    "3b820972f7c514cd0ea6a1639d6bbc43",
+    "01090fa733dda9d40af4fecf3275e540"
   ],
   "titles": [
-    "„Als feindlich markiert“: AfD-Politiker Helferich geht zum Gegenangriff über",
-    "Treffen mit Saar in Berlin - Wadephul fordert mehr Hilfslieferungen für Gaza",
     "Israel: Johann Wadephul wirft Regierung wegen Siedlungspolitik Bruch des Völkerrechts vor",
     "Steuerentlastung - Schweitzer rechnet mit Verständigung zwischen Bund und Ländern",
     "Bundespolizei - Seit Dobrindts Weisung 160 Asylsuchende an den Grenzen zurückgewiesen",
@@ -3003,11 +3001,11 @@
     "Größte Oppositionspartei - Gerichtsverhandlung in der Türkei: Wird CHP-Chef Özel abgesetzt?",
     "Debatte über europäischen Atomwaffen-Schutzschirm - Sicherheits-Expertin Babst sieht keine deutsche Führungsrolle",
     "Debatte über europäischen Atomwaffen-Schutzschirm: Sicherheits-Expertin Babst hält Spahns Vorschlag nicht für hilfreich",
-    "Pariser Fashion Week - El Salvadors Präsident Bukele wirft US-Modeschöpfer Chavarria Verherrlichung von Gang-Kriminalität vor"
+    "Pariser Fashion Week - El Salvadors Präsident Bukele wirft US-Modeschöpfer Chavarria Verherrlichung von Gang-Kriminalität vor",
+    "Russslands Krieg in der Ukraine - Erneut Drohnenangriffe auf die Regionen Donezk und Charkiw",
+    "Sachsen-Anhalts früherer Ministerpräsident Wolfgang Böhmer gestorben"
   ],
   "hashes": [
-    "3f3fb8832d92ba03f5c1faa4c9c1d45e",
-    "2a43820877af20d24963e4fbe48569d5",
     "9b0767d8dcee6347f39c56764e5b3d97",
     "ebbe6812754be8884edc4464147abbe5",
     "e3d3a2a8de81a775b69f805f18abd0a8",
@@ -4005,6 +4003,8 @@
     "6919f65edeea30895e4f0597acb883f2",
     "37a38aae623b69e60a512c3c08cbbaa3",
     "36d0bf208408139f7b1fc6faa86a5e7d",
-    "41a9231058e00cd1fe9fa953916ed1dc"
+    "41a9231058e00cd1fe9fa953916ed1dc",
+    "f0fc85c00fd6b892336ed19b1db35d46",
+    "db4524fe885e50658eeda1e7b229d3c1"
   ]
 }
