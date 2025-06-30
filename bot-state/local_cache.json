@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-gruene-und-linke-reagieren-verwundert-auf-rede-zum-familiennachzug-a-13079bd7-7dcb-497e-bc5b-61a19df0abae#ref=rss",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-treffen-wo-trump-und-merz-zusammenpassen-koennten-110521426.html",
-    "https://www.deutschlandfunk.de/polizei-verhindert-blockade-am-bundestag-und-nimmt-20-aktivisten-in-gewahrsam-100.html",
-    "https://www.spiegel.de/panorama/justiz/norwegen-mann-aus-deutschland-meldet-gold-an-grenze-nicht-an-30-tage-gefaengnis-a-060cceb1-cc9a-4427-adcd-4bd4a9babfce#ref=rss",
     "https://www.deutschlandfunk.de/merz-nicht-mit-geruempfter-nase-ueber-trump-sprechen-100.html",
     "https://www.deutschlandfunk.de/fragdenstaat-erstattet-strafanzeige-gegen-dobrindt-100.html",
     "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-am-29-oktober-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/israel-bestaetigt-ermittlungen-zu-toedlichen-schuessen-nahe-verteilzentren-100.html",
     "https://www.deutschlandfunk.de/usa-und-kanada-nehmen-handelsgespraeche-wieder-auf-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-ukraine-wollen-ruestungskooperation-verstaerken-102.html",
-    "https://www.deutschlandfunk.de/uno-entwicklungskonferenz-bekennt-sich-zu-nachhaltigkeitszielen-100.html"
+    "https://www.deutschlandfunk.de/uno-entwicklungskonferenz-bekennt-sich-zu-nachhaltigkeitszielen-100.html",
+    "https://www.deutschlandfunk.de/frau-stirbt-nach-anschlag-auf-pro-israelische-demonstration-in-boulder-100.html",
+    "https://www.deutschlandfunk.de/ermittlungen-nach-anti-israelischen-parolen-bei-glastonbury-festival-100.html",
+    "https://www.spiegel.de/ausland/ungarn-maja-t-soll-wegen-gesundheitszustand-in-hafthospital-verlegt-werden-a-a1297474-96af-48d6-8b2a-4020005d8a3c#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-union-und-spd-suchen-ihren-arbeitsmodus-110567680.html"
   ],
   "content_hashes": [
-    "949a0ddb3407ffbb3f07857c93f88d82",
-    "f25a7160fcb74bf2ea8a497f76b54598",
-    "688c160d727ddf68155edf4e071658dd",
-    "a133f040f7f7310014d53ba979a5bbde",
     "6e7dd0ff74495536664175c03e2c1bcc",
     "b41473d351e3e49d4792d5f398f96af1",
     "7f09e5f9860545736ff09be020cf8130",
@@ -2001,13 +1997,13 @@
     "77f831a7e3bd5033982a93ac23d312b6",
     "a476ff48ec245a14e5ce25248770301e",
     "f4ec05866c979d3f806d47c0417356f4",
-    "f221538478f2467968dcb80e172eb6d3"
+    "f221538478f2467968dcb80e172eb6d3",
+    "0d293e1342a0bffeb3019795f7d4a25c",
+    "95cb8d9aaaa464791a707e1aa445aaa1",
+    "edbf229401b937da453ecadbb57432a1",
+    "d0e7d9fb3dcd54845d97a77c8e4fd841"
   ],
   "titles": [
-    "Alexander Dobrindt: Grüne und Linke reagieren verwundert auf Rede zum Familiennachzug",
-    "Treffen im Oval Office: Wo Trump und Merz zusammenpassen könnten",
-    "\"Neue Generation\" - Polizei verhindert Blockade am Bundestag und nimmt 20 Aktivisten in Gewahrsam",
-    "Norwegen: Mann aus Deutschland meldet Gold an Grenze nicht an – 30 Tage Gefängnis",
     "Nach Besuch in Washington - Merz: \"Nicht mit gerümpfter Nase über Trump sprechen\"",
     "Zurückweisungen an den Grenzen - \"FragDenStaat\" erstattet Strafanzeige gegen Dobrindt",
     "Niederlande - Vorgezogene Parlamentswahl am 29. Oktober",
@@ -3003,13 +2999,13 @@
     "Gazastreifen - Israel bestätigt Ermittlungen zu tödlichen Schüssen nahe Verteilzentren",
     "Nach Abbruch durch Trump - USA und Kanada nehmen Handelsgespräche wieder auf",
     "Wadephul in Kiew - Deutschland und Ukraine wollen Rüstungskooperation verstärken",
-    "Sevilla - UNO-Entwicklungskonferenz bekennt sich zu Nachhaltigkeitszielen"
+    "Sevilla - UNO-Entwicklungskonferenz bekennt sich zu Nachhaltigkeitszielen",
+    "USA - Frau stirbt nach Anschlag auf pro-israelische Demonstration in Boulder",
+    "Großbritannien - Ermittlungen nach anti-israelischen Parolen bei Glastonbury-Festival",
+    "Ungarn: Maja T. soll wegen Gesundheitszustand in Hafthospital verlegt werden",
+    "Koalition sucht Arbeitsmodus: Wenigstens die Atombombe ist vorerst entschärft"
   ],
   "hashes": [
-    "328d3862d1e72b05361611b7f58dbb09",
-    "74250bca5089e2c6b61aa668aa207ef2",
-    "1c885edbfd63cfb7192da736bab2e233",
-    "d032e93d39453fb137205a17c55acf84",
     "ba6414592b73b8bda245de16d7c7f33f",
     "3c4e710f73946d8466066344b429c333",
     "b1b14e6f23f558927783748ee69f27ce",
@@ -4005,6 +4001,10 @@
     "0d7b602be1a6a16ca9b22fba243fb918",
     "0edd4994646c4a34b12649fd97c01b4c",
     "3b39af9d7fb985f8231bd168fa9040eb",
-    "5d0001a25483ae1533abfa6799a22db9"
+    "5d0001a25483ae1533abfa6799a22db9",
+    "cfdd717a80cc914ed59407579dc9d810",
+    "3f29e1e5d6d6c1a1d83d48a0f73eb067",
+    "95eff3ac1a1d8d50b285df0439626463",
+    "f59526afc8189f33204282be31a7df77"
   ]
 }
