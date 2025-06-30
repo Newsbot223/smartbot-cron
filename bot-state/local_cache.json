@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stimmung-im-wohnungsbau-hellt-sich-auf-100.html",
-    "https://www.deutschlandfunk.de/offener-streit-trump-und-musk-ueberziehen-sich-mit-vorwuerfen-100.html",
     "https://www.deutschlandfunk.de/mondlandung-von-japanischem-unternehmen-gescheitert-100.html",
     "https://www.deutschlandfunk.de/reaktionen-auf-das-treffen-trump-merz-interview-mit-omid-nouripour-gruene-100.html",
     "https://www.faz.net/aktuell/politik/inland/diaeten-erhoeht-verdienen-mitglieder-des-bundestags-zu-viel-geld-110520418.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutsche-umwelthilfe-viele-haendler-verletzen-ruecknahmepflichten-100.html",
     "https://www.deutschlandfunk.de/bleibt-die-klimapolitik-auf-der-strecke-interview-andreas-jung-cdu-mdb-100.html",
     "https://www.spiegel.de/wirtschaft/service/inflationsrate-im-juni-ueberraschend-gesunken-a-ee108e1d-a8bd-48dc-abe0-8f7a216868fe#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/sachsen-wie-sich-cdu-und-linke-auf-einen-haushalt-einigten-110565548.html"
+    "https://www.faz.net/aktuell/politik/inland/sachsen-wie-sich-cdu-und-linke-auf-einen-haushalt-einigten-110565548.html",
+    "https://www.deutschlandfunk.de/langjaehriger-dgb-chef-michael-sommer-gestorben-100.html",
+    "https://www.faz.net/aktuell/politik/inland/merkel-kritisiert-zurueckweisungen-110567197.html"
   ],
   "content_hashes": [
-    "d9a82144ef976b2d4b92301fc87f057c",
-    "88fd60259edeb48d2ab48b051e9b2d22",
     "8e7c9daf642d976dad7e1ab454a59e21",
     "7b5225a13bc46d7a473ee8ad100a6319",
     "c21ead4db9a997ecf186e87203a5359c",
@@ -2001,11 +1999,11 @@
     "88883ad473f958360a9d2c9dacdd8914",
     "9a72409a771bdefac9c91b349cbb1281",
     "ad147f59ce133ac28d6bdc577e22924f",
-    "976559132c8e1e3af1b33789c72c7256"
+    "976559132c8e1e3af1b33789c72c7256",
+    "4d17df673aee60d959294c88cf87c5c3",
+    "03873370d96051f0e9afb9f6fb6c743e"
   ],
   "titles": [
-    "Wirtschaft - Stimmung im Wohnungsbau hellt sich auf",
-    "USA - Offener Streit: Trump und Musk überziehen sich mit Vorwürfen",
     "Raumfahrt - Mondlandung von japanischem Unternehmen gescheitert",
     "Merz in Washington - Nouripour: Fraglich, ob Trump die Zeichen des Kanzlers versteht",
     "Diäten erhöht: Verdienen Mitglieder des Bundestags zu viel Geld?",
@@ -3003,11 +3001,11 @@
     "Elektroschrott - Deutsche Umwelthilfe: Viele Händler verletzen Rücknahmepflichten",
     "CDU-Klimapolitik - Gas als Zwischenlösung zum Wasserstoff",
     "Inflation: Teuerungsrate in Deutschland im Juni überraschend gesunken",
-    "Premiere in Sachsen: Wie CDU und Linke ihren ersten Haushalt beschlossen"
+    "Premiere in Sachsen: Wie CDU und Linke ihren ersten Haushalt beschlossen",
+    "Gewerkschaftsbund - Langjähriger DGB-Chef Michael Sommer gestorben",
+    "Flüchtlingspolitik: Merkel kritisiert Zurückweisungen"
   ],
   "hashes": [
-    "8d52ed24da1eb7551d6f0ffda1c0cd13",
-    "9fa3c1f8dd4c521017a681f51b8b2fb6",
     "9c19d93eb868746ee298febddba5d17e",
     "66ebd44e1313fbf27ab0dd18a612f078",
     "6e6c6aa49ece48891e4f1c6b5e2aeaeb",
@@ -4005,6 +4003,8 @@
     "7117c8d0a62d92b1e5364eff227e1518",
     "9a426bc2d39b83d1a4d2acee30a8ebf0",
     "518c0ba133ebb086a44e7bc050fda704",
-    "5342e42e53003021ef2fe27961a5877e"
+    "5342e42e53003021ef2fe27961a5877e",
+    "5574aea74a5c723f66c5490b6a610031",
+    "898977ddbb67d2b8a31364112a4e4b08"
   ]
 }
