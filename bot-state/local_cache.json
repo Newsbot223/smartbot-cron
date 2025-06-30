@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mondlandung-von-japanischem-unternehmen-gescheitert-100.html",
-    "https://www.deutschlandfunk.de/reaktionen-auf-das-treffen-trump-merz-interview-mit-omid-nouripour-gruene-100.html",
-    "https://www.faz.net/aktuell/politik/inland/diaeten-erhoeht-verdienen-mitglieder-des-bundestags-zu-viel-geld-110520418.html",
     "https://www.deutschlandfunk.de/eine-million-schutzraeume-in-deutschland-geplant-100.html",
     "https://www.deutschlandfunk.de/zollstreit-bremst-deutsche-exporte-im-april-100.html",
     "https://www.deutschlandfunk.de/zollbefreiung-fuer-ukraine-ausgelaufen-eu-strebt-neues-abkommen-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wirtschaft/service/inflationsrate-im-juni-ueberraschend-gesunken-a-ee108e1d-a8bd-48dc-abe0-8f7a216868fe#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/sachsen-wie-sich-cdu-und-linke-auf-einen-haushalt-einigten-110565548.html",
     "https://www.deutschlandfunk.de/langjaehriger-dgb-chef-michael-sommer-gestorben-100.html",
-    "https://www.faz.net/aktuell/politik/inland/merkel-kritisiert-zurueckweisungen-110567197.html"
+    "https://www.faz.net/aktuell/politik/inland/merkel-kritisiert-zurueckweisungen-110567197.html",
+    "https://www.deutschlandfunk.de/zahl-der-schutzsuchenden-in-deutschland-gestiegen-104.html",
+    "https://www.deutschlandfunk.de/zwoelf-tote-bei-explosion-in-pharmaanlage-100.html",
+    "https://www.deutschlandfunk.de/bund-verlaengert-beschaeftigungsgarantie-fuer-pck-raffinerie-schwedt-100.html"
   ],
   "content_hashes": [
-    "8e7c9daf642d976dad7e1ab454a59e21",
-    "7b5225a13bc46d7a473ee8ad100a6319",
-    "c21ead4db9a997ecf186e87203a5359c",
     "447d8665327782fc4c0b39ba52ba98cf",
     "155fc70dea3ca8b97d1c8dc6980dc2fb",
     "47c4a6ad806b6a436f0adf33c8abc42e",
@@ -2001,12 +1998,12 @@
     "ad147f59ce133ac28d6bdc577e22924f",
     "976559132c8e1e3af1b33789c72c7256",
     "4d17df673aee60d959294c88cf87c5c3",
-    "03873370d96051f0e9afb9f6fb6c743e"
+    "03873370d96051f0e9afb9f6fb6c743e",
+    "93bfb12e8af122eda46ca0dc8d31d64b",
+    "b54e559910e5249bb2cea2bc4a041d44",
+    "7a4cd9fec8d71334a413ed05020dba19"
   ],
   "titles": [
-    "Raumfahrt - Mondlandung von japanischem Unternehmen gescheitert",
-    "Merz in Washington - Nouripour: Fraglich, ob Trump die Zeichen des Kanzlers versteht",
-    "Diäten erhöht: Verdienen Mitglieder des Bundestags zu viel Geld?",
     "Sorge vor Angriffskrieg in Europa - Eine Million Schutzräume in Deutschland geplant",
     "Wirtschaft - Zollstreit bremst deutsche Exporte im April",
     "Handelspolitik - Zollbefreiung für Ukraine ausgelaufen - EU strebt neues Abkommen an",
@@ -3003,12 +3000,12 @@
     "Inflation: Teuerungsrate in Deutschland im Juni überraschend gesunken",
     "Premiere in Sachsen: Wie CDU und Linke ihren ersten Haushalt beschlossen",
     "Gewerkschaftsbund - Langjähriger DGB-Chef Michael Sommer gestorben",
-    "Flüchtlingspolitik: Merkel kritisiert Zurückweisungen"
+    "Flüchtlingspolitik: Merkel kritisiert Zurückweisungen",
+    "Statistik - Zahl der Schutzsuchenden in Deutschland gestiegen",
+    "Indien - Zwölf Tote bei Explosion in Pharmaanlage",
+    "Ukraine-Krieg - Bund verlängert Beschäftigungsgarantie für PCK-Raffinerie Schwedt"
   ],
   "hashes": [
-    "9c19d93eb868746ee298febddba5d17e",
-    "66ebd44e1313fbf27ab0dd18a612f078",
-    "6e6c6aa49ece48891e4f1c6b5e2aeaeb",
     "2f176af51b084aaf0d32876f712e5fc0",
     "8c5df6c1ac17217f5688b9ff7d7a7e9c",
     "957e3db94e8a4daf69de2618ec6cb9c5",
@@ -4005,6 +4002,9 @@
     "518c0ba133ebb086a44e7bc050fda704",
     "5342e42e53003021ef2fe27961a5877e",
     "5574aea74a5c723f66c5490b6a610031",
-    "898977ddbb67d2b8a31364112a4e4b08"
+    "898977ddbb67d2b8a31364112a4e4b08",
+    "26f33eb7ebae968a9f2e286652e6dffd",
+    "c12303f8b6326c6bf1a809dd6a063eb9",
+    "348120c82ab62d3fb894357400f8c46b"
   ]
 }
