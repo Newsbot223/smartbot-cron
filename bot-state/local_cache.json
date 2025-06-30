@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/forschungsministerin-baer-will-wissenschaftsstandort-deutschland-attraktiver-machen-100.html",
-    "https://www.spiegel.de/politik/deutschland/dorothee-baer-plant-rundum-sorglos-paket-fuer-auslaendische-forschende-a-0f1d6bbb-073e-4bef-9f18-ebc99ac61eac#ref=rss",
-    "https://www.deutschlandfunk.de/bundestag-debattiert-kontrovers-ueber-mietpreisbremse-102.html",
-    "https://www.deutschlandfunk.de/bayern-baden-wuerttemberg-und-bremen-fordern-mehr-investitionen-in-raumfahrt-100.html",
     "https://www.deutschlandfunk.de/grosse-waldbraende-in-kanada-mehr-als-31-000-menschen-muessen-fliehen-100.html",
     "https://www.deutschlandfunk.de/bundeslaender-fordern-ausgleich-fuer-drohende-steuerausfaelle-100.html",
     "https://www.deutschlandfunk.de/institut-1-2-millionen-offene-stellen-in-deutschland-ein-viertel-weniger-als-im-vorjahr-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/trump-haben-kaeufer-fuer-us-geschaeft-von-tiktok-100.html",
     "https://www.faz.net/aktuell/politik/inland/hamburg-stadtteil-st-georg-im-bann-des-cracks-110562125.html",
     "https://www.deutschlandfunk.de/dobrindt-zurueckhaltend-zu-moeglichem-afd-verbot-100.html",
-    "https://www.deutschlandfunk.de/die-linke-fordert-nominierungsrecht-bei-richterwahl-102.html"
+    "https://www.deutschlandfunk.de/die-linke-fordert-nominierungsrecht-bei-richterwahl-102.html",
+    "https://www.deutschlandfunk.de/kanzleramtschef-frei-cdu-offen-fuer-nachjustieren-schweitzer-spd-verweist-auf-gemeinsame-beschlussla-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-zurueckhaltend-zu-moeglichem-afd-verbot-gruene-draengen-zum-handeln-102.html",
+    "https://www.deutschlandfunk.de/trump-kuendigt-kaeufer-fuer-us-geschaeft-von-tiktok-an-110.html",
+    "https://www.spiegel.de/panorama/norwegen-lotto-anbieter-norsk-tipping-verkuendet-tausenden-menschen-hohe-eurojackpot-gewinne-rechenfehler-a-ab8c4e5a-0879-4cb1-9de3-51327eb8d62e#ref=rss"
   ],
   "content_hashes": [
-    "5d9769d1081e4be7b92a32dcb609ce5c",
-    "82daea039ca21e041bb73c0dc295855f",
-    "11fe8638be0d8a31ce8f9e594c3955b4",
-    "ad6b445afdc823a7c434b7c2f96e9bc4",
     "2be56963a22ae2de6875a5f88302e41c",
     "450f27d47ccd4aadbf29de586f3be008",
     "1270b402b2bb77fb4748b95c214d661d",
@@ -2001,13 +1997,13 @@
     "7545ff37c5d5a71e1aa010a983f560de",
     "ce27ea75c836254f0815e4374d499b04",
     "d36e20e9443ac74deedd8e43ca771955",
-    "4da64ed8595761d02c86b4900c1b073c"
+    "4da64ed8595761d02c86b4900c1b073c",
+    "264023919860691502776022153c61df",
+    "bd6ac4eabb671af517cbb95fe7842e5d",
+    "c9e2fe966c83b54970f09674c6670742",
+    "3a4a4a27143b3a0aa75ccfc27a117542"
   ],
   "titles": [
-    "Universitäten - Forschungsministerin Bär will Wissenschaftsstandort Deutschland attraktiver machen",
-    "Dorothee Bär plant »Rundum-sorglos-Paket« für ausländische Forschende",
-    "Erste Lesung - Bundestag debattiert kontrovers über Mietpreisbremse",
-    "Wissenschaft - Bayern, Baden-Württemberg und Bremen fordern mehr Investitionen in Raumfahrt",
     "Kanada - Große Waldbrände in Kanada: Mehr als 31.000 Menschen müssen fliehen",
     "Entlastung von Unternehmen - Bundesländer fordern Ausgleich für drohende Steuerausfälle",
     "Arbeitsmarkt - Institut: 1,2 Millionen offene Stellen in Deutschland - ein Viertel weniger als im Vorjahr",
@@ -3003,13 +2999,13 @@
     "USA - Trump: Haben Käufer für US-Geschäft von Tiktok",
     "St. Georg in Hamburg: Im Bann des Cracks",
     "Nach Vorstoß der SPD - Dobrindt zurückhaltend zu möglichem AfD-Verbot",
-    "Bundesverfassungsgericht - Die Linke fordert Nominierungsrecht bei Richterwahl"
+    "Bundesverfassungsgericht - Die Linke fordert Nominierungsrecht bei Richterwahl",
+    "Stromsteuer-Debatte - Kanzleramtschef Frei (CDU) offen für Nachjustieren - Schweitzer (SPD) verweist auf gemeinsame Beschlusslage",
+    "Nach Vorstoß der SPD - Dobrindt zurückhaltend zu möglichem AfD-Verbot - Grüne drängen zum Handeln",
+    "USA - Trump kündigt Käufer für US-Geschäft von Tiktok an",
+    "Norwegen: Lotto-Anbieter Norsk Tipping verkündet Tausenden Menschen hohe Eurojackpot-Gewinne – Rechenfehler"
   ],
   "hashes": [
-    "7aaf1caec9b93333edfcdef669bddb6a",
-    "048a26b3fac99e3a634490bd5e1e130d",
-    "d153b63b8075e754a8cab9767463519b",
-    "9c69cfb8c81e06a0209e1282be4d4f28",
     "9dd4bb0d900b74bc4782be6574ede062",
     "5784609ae8587681d2c4ca9c7226f8ca",
     "3178b3e2d6f5cb9395416d08df967f4e",
@@ -4005,6 +4001,10 @@
     "54a656fba0e436d6a0399ec8fa462b5e",
     "8ee1478b72d8ee9acb0f370a79e47d65",
     "5ab2a9ebd58ff3a3cfb7c8f7cb9bd51f",
-    "0986658567242d7fc4ae983f9fd70aa6"
+    "0986658567242d7fc4ae983f9fd70aa6",
+    "b612041dd54e3ead2123e278153698c8",
+    "3c62a0766ba1b9bd70d63bad93c1d38c",
+    "17d34257c09d34db808398fc4bc74be2",
+    "2f18437e3318fb8c5f98a0bc31f3363c"
   ]
 }
