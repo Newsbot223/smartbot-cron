@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eine-million-schutzraeume-in-deutschland-geplant-100.html",
-    "https://www.deutschlandfunk.de/zollstreit-bremst-deutsche-exporte-im-april-100.html",
-    "https://www.deutschlandfunk.de/zollbefreiung-fuer-ukraine-ausgelaufen-eu-strebt-neues-abkommen-an-100.html",
     "https://www.deutschlandfunk.de/neuer-praesident-nawrocki-kuendigt-widerstand-gegen-regierungschef-tusk-an-100.html",
     "https://www.deutschlandfunk.de/stromerzeugung-im-ersten-quartal-mehrheitlich-mit-kohle-und-gas-100.html",
     "https://www.deutschlandfunk.de/forderung-nach-abkehr-vom-verbrenner-aus-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/merkel-kritisiert-zurueckweisungen-110567197.html",
     "https://www.deutschlandfunk.de/zahl-der-schutzsuchenden-in-deutschland-gestiegen-104.html",
     "https://www.deutschlandfunk.de/zwoelf-tote-bei-explosion-in-pharmaanlage-100.html",
-    "https://www.deutschlandfunk.de/bund-verlaengert-beschaeftigungsgarantie-fuer-pck-raffinerie-schwedt-100.html"
+    "https://www.deutschlandfunk.de/bund-verlaengert-beschaeftigungsgarantie-fuer-pck-raffinerie-schwedt-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-schliesst-gespraeche-mit-ukraine-ab-100.html",
+    "https://www.deutschlandfunk.de/87-migranten-nach-bootsunglueck-im-mittelmeer-gerettet-eine-tote-und-vermutlich-zwei-vermisste-100.html",
+    "https://www.deutschlandfunk.de/zivilschutz-meldet-mehr-als-30-tote-durch-israelischen-beschuss-102.html"
   ],
   "content_hashes": [
-    "447d8665327782fc4c0b39ba52ba98cf",
-    "155fc70dea3ca8b97d1c8dc6980dc2fb",
-    "47c4a6ad806b6a436f0adf33c8abc42e",
     "9e3c413a8f6993be368ea95d4e089725",
     "054e20ff2484ec759559bdd8a83f67b2",
     "16737011bbe6041d3e0e9d25810cf9a8",
@@ -2001,12 +1998,12 @@
     "03873370d96051f0e9afb9f6fb6c743e",
     "93bfb12e8af122eda46ca0dc8d31d64b",
     "b54e559910e5249bb2cea2bc4a041d44",
-    "7a4cd9fec8d71334a413ed05020dba19"
+    "7a4cd9fec8d71334a413ed05020dba19",
+    "f530c9ca516c241f8f7e225902dc494c",
+    "d9d9ee63b411bf95266c1802aa40d43f",
+    "b650d06f2cc5a56131c041e42efcb470"
   ],
   "titles": [
-    "Sorge vor Angriffskrieg in Europa - Eine Million Schutzräume in Deutschland geplant",
-    "Wirtschaft - Zollstreit bremst deutsche Exporte im April",
-    "Handelspolitik - Zollbefreiung für Ukraine ausgelaufen - EU strebt neues Abkommen an",
     "Polen - Neuer Präsident Nawrocki kündigt Widerstand gegen Regierungschef Tusk an",
     "Statistisches Bundesamt - Stromerzeugung im ersten Quartal mehrheitlich mit Kohle und Gas",
     "Autoverband VDA - Forderung nach Abkehr vom Verbrenner-Aus",
@@ -3003,12 +3000,12 @@
     "Flüchtlingspolitik: Merkel kritisiert Zurückweisungen",
     "Statistik - Zahl der Schutzsuchenden in Deutschland gestiegen",
     "Indien - Zwölf Tote bei Explosion in Pharmaanlage",
-    "Ukraine-Krieg - Bund verlängert Beschäftigungsgarantie für PCK-Raffinerie Schwedt"
+    "Ukraine-Krieg - Bund verlängert Beschäftigungsgarantie für PCK-Raffinerie Schwedt",
+    "Freihandelsabkommen - EU-Kommission schließt Gespräche mit Ukraine ab",
+    "Vor Lampedusa - 87 Migranten nach Bootsunglück im Mittelmeer gerettet - eine Tote und vermutlich zwei Vermisste",
+    "Gazastreifen - Zivilschutz meldet mehr als 30 Tote durch israelischen Beschuss"
   ],
   "hashes": [
-    "2f176af51b084aaf0d32876f712e5fc0",
-    "8c5df6c1ac17217f5688b9ff7d7a7e9c",
-    "957e3db94e8a4daf69de2618ec6cb9c5",
     "fcf7a8bb31487f9d08fc5fc936b8142b",
     "99582318fd66ef5eee07603ba00df377",
     "bf67f28c7e98e3231bf5df2d19301801",
@@ -4005,6 +4002,9 @@
     "898977ddbb67d2b8a31364112a4e4b08",
     "26f33eb7ebae968a9f2e286652e6dffd",
     "c12303f8b6326c6bf1a809dd6a063eb9",
-    "348120c82ab62d3fb894357400f8c46b"
+    "348120c82ab62d3fb894357400f8c46b",
+    "eebeded41842af4e6930049d7c5aa71c",
+    "49db2ef8e1e7eed1e140e32d32bd4bb2",
+    "c218ce20da1794e3ee921b3914fabd8b"
   ]
 }
