@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/f-a-z-exklusiv-124-abgeordnete-wuerden-fuer-ein-afd-verbotsverfahren-stimmen-110523032.html",
-    "https://www.faz.net/aktuell/politik/inland/angeklagter-staatsanwalt-sprachnachrichten-vom-drogenboss-110522577.html",
     "https://www.deutschlandfunk.de/robert-habeck-im-gespraech-ueber-engagement-an-us-elite-uni-berkely-100.html",
     "https://www.faz.net/aktuell/politik/inland/wegen-is-verbot-ermittlungen-gegen-14-jaehrigen-in-koeln-110522341.html",
     "https://www.deutschlandfunk.de/erinnerung-an-landung-der-alliierten-in-der-normandie-vor-81-jahren-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-und-sein-one-big-beautiful-bill-100.html",
     "https://www.deutschlandfunk.de/zahl-der-todesopfer-bei-explosion-in-indischer-arzneimittelfabrik-steigt-auf-mindestens-100.html",
     "https://www.deutschlandfunk.de/erneut-bombenentschaerfung-in-osnabrueck-einschraenkungen-fuer-bahnverkehr-ab-mittag-100.html",
-    "https://www.deutschlandfunk.de/thailands-ministerpraesidentin-des-amtes-enthoben-100.html"
+    "https://www.deutschlandfunk.de/thailands-ministerpraesidentin-des-amtes-enthoben-100.html",
+    "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-treffen-zwischen-trump-und--100.html",
+    "https://www.deutschlandfunk.de/trump-ohne-subventionen-koennte-musk-dichtmachen-tech-milliardaer-deutet-erneut-parteigruendung-in-d-100.html"
   ],
   "content_hashes": [
-    "79118238afeaf1991d98ad2ec5832752",
-    "9b49d1e44ff90bf1436d8ef4e6ef3826",
     "9eda1b848179117d7fde899215bfc980",
     "b384c51831335632f4825cea0db52de5",
     "a6917f4ed07f2942f52a41f8bbc98ad3",
@@ -2001,11 +1999,11 @@
     "16cd933af9e8ce1f462cc41709e45bd0",
     "5f269387d4557f44dc8d08b89149959e",
     "3390bea8332afe952c3d1c301e215639",
-    "567d36c24020f00c140f4bff5f56e89c"
+    "567d36c24020f00c140f4bff5f56e89c",
+    "cbbc00efe2351c6ab766286d7cf88d9a",
+    "48a86d0c1b5502227689ceaf0e4e0baa"
   ],
   "titles": [
-    "F.A.Z. exklusiv: 124 Abgeordnete würden für ein AfD-Verbotsverfahren stimmen",
-    "Angeklagter Staatsanwalt: Sprachnachrichten vom Drogenboss",
     "Ex-Wirtschaftsminister - Robert Habeck im Gespräch über Engagement an US-Elite-Uni Berkely",
     "Verstoß gegen IS-Verbot: Ermittlungen gegen 14 Jahre alten Jungen in Köln",
     "D-Day-Feierlichkeiten - Erinnerung an Landung der Alliierten in der Normandie vor 81 Jahren",
@@ -3003,11 +3001,11 @@
     "US-Gesetzespaket - \"Big Beautiful Bill\": Steuergeschenke durch Rekordschulden",
     "Hyderabad - Zahl der Todesopfer bei Explosion in indischer Arzneimittelfabrik steigt auf mindestens 36",
     "Niedersachsen - Erneut Bombenentschärfung in Osnabrück - Einschränkungen für Bahnverkehr ab Mittag",
-    "Asien - Thailands Ministerpräsidentin des Amtes enthoben"
+    "Asien - Thailands Ministerpräsidentin des Amtes enthoben",
+    "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - Treffen zwischen Trump und Netanjahu angesetzt",
+    "Streit über \"Big Beautiful Bill\" - Trump: Ohne Subventionen könnte Musk dichtmachen - Tech-Milliardär deutet erneut Parteigründung in den USA an"
   ],
   "hashes": [
-    "f190a9b7d3eb05e5df6df8ab173c36ea",
-    "61c708c6fe8a87a796ec3f5ddd8163fc",
     "1599d9b2dbd0d5fa0ecbc93f61d0de54",
     "623bb3dfded9e6cd4829ab71b7d2cf6b",
     "64183f485b440a74ad4416d2bbc4c15f",
@@ -4005,6 +4003,8 @@
     "4e61bd7f8b03503f2072ad245c2d071f",
     "0369293520d5893d5183e550e2dd9f33",
     "2a04b7734942a19a2f84e1eae0e6a2f0",
-    "06106b9e3efee28fc74b5372ce7eefaa"
+    "06106b9e3efee28fc74b5372ce7eefaa",
+    "35c397396950a6318e71a44e8534dd86",
+    "1f2fe16011a82385fcd37464f0ec60e1"
   ]
 }
