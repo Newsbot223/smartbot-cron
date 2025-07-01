@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/innenminister-dobrindt-europaeischer-gerichtshof-soll-ueber-streit-um-zurueckweisungen-an-deutschen--100.html",
-    "https://www.deutschlandfunk.de/unrechtmaessig-abgeschobener-mann-aus-el-salvador-ist-zurueck-in-den-usa-100.html",
     "https://www.faz.net/aktuell/politik/inland/spd-bringt-hoehere-gesundheitsbeitraege-fuer-gutverdiener-ins-gespraech-110523859.html",
     "https://www.deutschlandfunk.de/vorsitzender-des-verteidigungsausschusses-fordert-allgemeine-dienstpflicht-100.html",
     "https://www.deutschlandfunk.de/zahl-der-arbeitenden-rentner-in-deutschland-so-hoch-wie-nie-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-setzt-alarmstufe-gas-aus-100.html",
     "https://www.deutschlandfunk.de/antidiskriminierungsbeauftragte-ataman-fordert-besseren-schutz-vor-diskriminierung-durch-den-staat-100.html",
     "https://www.deutschlandfunk.de/arbeitslosigkeit-geht-im-juni-nur-leicht-zurueck-100.html",
-    "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html"
+    "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html",
+    "https://www.deutschlandfunk.de/festnahme-wegen-mutmasslicher-spionage-fuer-iran-offenbar-juedische-objekte-und-personen-ausgespaeht-100.html",
+    "https://www.spiegel.de/kultur/musik/scorpions-erhalten-eigene-briefmarken-zum-60-buehnenjubilaeum-a-12fb4ce1-40a7-47c5-8945-79ca20391e3a#ref=rss"
   ],
   "content_hashes": [
-    "bd5cf0da3bf4823964086a2ab5157734",
-    "378e538a5da4522c5c3b22774dab6689",
     "4cd182a098213f49edc728f1308d6007",
     "9d3465abeed752a87376749b30bbc1b9",
     "fea010ea1310dc6e0ca8c88ff21aa2e1",
@@ -2001,11 +1999,11 @@
     "573e55f1585f0eff9e944c47b92c20d7",
     "deb5f129b27005a2e329a5fd6bdbee76",
     "c9220c0410abec14c64230daf6f8e5ed",
-    "b71ab0bcb87b9407ad8159e25cf36709"
+    "b71ab0bcb87b9407ad8159e25cf36709",
+    "30df5252571c7f3e8deab461dda92494",
+    "ce292ffdd1225bfe60c112429e6ef7d0"
   ],
   "titles": [
-    "Asylpolitik - Innenminister Dobrindt: Europäischer Gerichtshof soll über Streit um Zurückweisungen an deutschen Grenzen entscheiden",
-    "Rechtsstreit - Unrechtmäßig abgeschobener Mann aus El Salvador ist zurück in den USA",
     "SPD bringt höhere Gesundheitsbeiträge für Gutverdiener ins Gespräch",
     "Bundeswehr - Vorsitzender des Verteidigungsausschusses fordert allgemeine Dienstpflicht",
     "Bericht - Zahl der arbeitenden Rentner in Deutschland so hoch wie nie",
@@ -3003,11 +3001,11 @@
     "Energieministerin Reiche - Bundesregierung setzt Alarmstufe Gas aus",
     "Umfrage zu Benachteiligung - Antidiskriminierungsbeauftragte Ataman fordert besseren Schutz vor Diskriminierung durch den Staat",
     "Wirtschaft - Arbeitslosigkeit geht im Juni nur leicht zurück",
-    "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts"
+    "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts",
+    "Bundesanwaltschaft - Festnahme wegen mutmaßlicher Spionage für Iran: Offenbar jüdische Objekte und Personen ausgespäht",
+    "Scorpions: Die Scorpions erhalten eigene Briefmarken zum 60. Bühnenjubiläum"
   ],
   "hashes": [
-    "2c414c79fbe242277877bf9f44475a0f",
-    "f67b46efa43531e57cfd900a4fc871b5",
     "119d00356988e80706da5653ebf7f5f0",
     "4b83af0042b6e371bc17ad62f2af6c13",
     "24766ee02f78f46cde05134cd0a4f808",
@@ -4005,6 +4003,8 @@
     "d069c2b99444c570ebf1e9cf30b40447",
     "73dd2d7167696c36ea67b746cf001639",
     "e371b95cac2196a30149c0855b3950e1",
-    "4248cf093d58a13f910fe6505ea3bc56"
+    "4248cf093d58a13f910fe6505ea3bc56",
+    "0861a239b0310cc4d91666988021b324",
+    "0fffd9c0ca37a83af7d749de2328d32c"
   ]
 }
