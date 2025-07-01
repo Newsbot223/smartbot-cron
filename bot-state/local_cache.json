@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spd-bringt-hoehere-gesundheitsbeitraege-fuer-gutverdiener-ins-gespraech-110523859.html",
-    "https://www.deutschlandfunk.de/vorsitzender-des-verteidigungsausschusses-fordert-allgemeine-dienstpflicht-100.html",
     "https://www.deutschlandfunk.de/zahl-der-arbeitenden-rentner-in-deutschland-so-hoch-wie-nie-100.html",
     "https://www.faz.net/aktuell/politik/inland/dobrindt-will-zurueckweisungen-von-europaeischem-gerichtshof-klaeren-lassen-110523857.html",
     "https://www.deutschlandfunk.de/bislang-heftigster-angriff-auf-grossstadt-charkiw-gemeldet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/arbeitslosigkeit-geht-im-juni-nur-leicht-zurueck-100.html",
     "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html",
     "https://www.deutschlandfunk.de/festnahme-wegen-mutmasslicher-spionage-fuer-iran-offenbar-juedische-objekte-und-personen-ausgespaeht-100.html",
-    "https://www.spiegel.de/kultur/musik/scorpions-erhalten-eigene-briefmarken-zum-60-buehnenjubilaeum-a-12fb4ce1-40a7-47c5-8945-79ca20391e3a#ref=rss"
+    "https://www.spiegel.de/kultur/musik/scorpions-erhalten-eigene-briefmarken-zum-60-buehnenjubilaeum-a-12fb4ce1-40a7-47c5-8945-79ca20391e3a#ref=rss",
+    "https://www.spiegel.de/politik/deutschland/iran-aussenminister-johann-wadephul-nennt-iran-nach-festnahme-in-daenemark-weltweite-bedrohung-fuer-juden-a-d94deb75-e6fe-4d82-b12d-5e167fea08ad#ref=rss",
+    "https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-den-grenzen-zu-deutschland-und-litauen-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss"
   ],
   "content_hashes": [
-    "4cd182a098213f49edc728f1308d6007",
-    "9d3465abeed752a87376749b30bbc1b9",
     "fea010ea1310dc6e0ca8c88ff21aa2e1",
     "69f1195b2d966d93b23eb88a5f9fd2f6",
     "4fffc7e818b300528235d6953cc2d9ae",
@@ -2001,11 +1999,11 @@
     "c9220c0410abec14c64230daf6f8e5ed",
     "b71ab0bcb87b9407ad8159e25cf36709",
     "30df5252571c7f3e8deab461dda92494",
-    "ce292ffdd1225bfe60c112429e6ef7d0"
+    "ce292ffdd1225bfe60c112429e6ef7d0",
+    "f699e3bd0cc03e1c7cb503e68100636b",
+    "38ea80956c883d527e5f520d925eaa8b"
   ],
   "titles": [
-    "SPD bringt höhere Gesundheitsbeiträge für Gutverdiener ins Gespräch",
-    "Bundeswehr - Vorsitzender des Verteidigungsausschusses fordert allgemeine Dienstpflicht",
     "Bericht - Zahl der arbeitenden Rentner in Deutschland so hoch wie nie",
     "Dobrindt will Zurückweisungen von Europäischem Gerichtshof klären lassen",
     "Russischer Angriffskrieg - Bislang heftigster Angriff auf Großstadt Charkiw gemeldet",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Arbeitslosigkeit geht im Juni nur leicht zurück",
     "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts",
     "Bundesanwaltschaft - Festnahme wegen mutmaßlicher Spionage für Iran: Offenbar jüdische Objekte und Personen ausgespäht",
-    "Scorpions: Die Scorpions erhalten eigene Briefmarken zum 60. Bühnenjubiläum"
+    "Scorpions: Die Scorpions erhalten eigene Briefmarken zum 60. Bühnenjubiläum",
+    "Iran: Außenminister Johann Wadephul nennt Iran nach Festnahme in Dänemark weltweite Bedrohung für Juden",
+    "Polen führt Kontrollen an den Grenzen zu Deutschland und Litauen ein"
   ],
   "hashes": [
-    "119d00356988e80706da5653ebf7f5f0",
-    "4b83af0042b6e371bc17ad62f2af6c13",
     "24766ee02f78f46cde05134cd0a4f808",
     "91fcef4ae84afdb52b54faf3ccdbf12a",
     "de5b4b16c43d50fd439cb1f4ca236cd0",
@@ -4005,6 +4003,8 @@
     "e371b95cac2196a30149c0855b3950e1",
     "4248cf093d58a13f910fe6505ea3bc56",
     "0861a239b0310cc4d91666988021b324",
-    "0fffd9c0ca37a83af7d749de2328d32c"
+    "0fffd9c0ca37a83af7d749de2328d32c",
+    "f1832ba41584289205ecdd447636fc12",
+    "5770f407d3da23d4cc9782bc74727897"
   ]
 }
