@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/is-propaganda-verbreitet-14-jaehriger-unter-terrorverdacht-110522341.html",
-    "https://www.faz.net/aktuell/politik/inland/jens-ploetner-wer-ist-der-neue-staatssekretaer-fuer-ruestung-110520063.html",
-    "https://www.deutschlandfunk.de/merz-will-eu-richtlinien-nur-noch-wie-vorgesehen-in-deutsches-recht-umsetzen-ohne-zusaetzliche-natio-100.html",
     "https://www.deutschlandfunk.de/zwischenfall-in-dhl-verteilzentrum-verdaechtiges-paket-gefunden-mehrere-verletzte-100.html",
     "https://www.deutschlandfunk.de/mordfall-caruana-galizia-zwei-maenner-in-malta-wegen-sprengstoff-beschaffung-verurteilt-100.html",
     "https://www.spiegel.de/politik/deutschland/jette-nietzard-entschuldigt-sich-fuer-umstrittenes-video-zu-israel-a-42dcbf8c-4e5e-477d-bffa-a890a9af3850#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-meldet-cyber-attacke-100.html",
     "https://www.deutschlandfunk.de/noch-keine-abstimmung-im-senat-ueber-trumps-ausgabengesetz-104.html",
     "https://www.deutschlandfunk.de/militaer-bittet-us-regierung-um-rueckverlegung-von-200-soldaten-102.html",
-    "https://www.deutschlandfunk.de/erste-mercedes-niederlassung-veraeussert-ausverkauf-der-filialen-in-deutschland-hat-begonnen-100.html"
+    "https://www.deutschlandfunk.de/erste-mercedes-niederlassung-veraeussert-ausverkauf-der-filialen-in-deutschland-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-wieder-zahlreiche-todesopfe-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-kegelrobben-im-wattenmeer-steigt-weiter-an-experten-werten-positive-entwicklung-als-sichtba-102.html",
+    "https://www.deutschlandfunk.de/trump-und-sein-one-big-beautiful-bill-100.html"
   ],
   "content_hashes": [
-    "79750a4366f797c1806740a334e896b3",
-    "c1abb11355d06a5ed0dee6b08602ddaa",
-    "e4d26948b9fd440726f0f3dac819a26a",
     "fd4fec3ac25c9ee75f44cfe05d3a148b",
     "4571c6164b5c139f55be01513985e080",
     "193117c7b4e472ba01bcb57e7722c92e",
@@ -2001,12 +1998,12 @@
     "7ef9190e00940416d8cdb5f232a9d4c6",
     "cfd801cc18a1ce9a012105cae7131811",
     "d510536e39f84e78cc7fd1a04243e38d",
-    "c812e68d3de095df615d6bab50ee9e23"
+    "c812e68d3de095df615d6bab50ee9e23",
+    "6e450246cc8a6f37c43f31620703f49f",
+    "70705ec23c63084fa544f1110698fd3c",
+    "16cd933af9e8ce1f462cc41709e45bd0"
   ],
   "titles": [
-    "Anschlagsplanungen in NRW: 14 Jahre alter Junge unter Terrorverdacht",
-    "Jens Plötner: Wer ist der neue Staatssekretär für Rüstung?",
-    "Regulierung - Merz will EU-Richtlinien nur noch wie vorgesehen in deutsches Recht umsetzen - ohne zusätzliche nationale Auflagen",
     "Langenzenn in Bayern - Zwischenfall in DHL-Verteilzentrum: Verdächtiges Paket gefunden - mehrere Verletzte",
     "Ermordete Journalistin - Mordfall Caruana Galizia: Zwei Männer in Malta wegen Sprengstoff-Beschaffung verurteilt",
     "Jette Nietzard entschuldigt sich für umstrittenes Video zu Israel",
@@ -3003,12 +3000,12 @@
     "Den Haag - Internationaler Strafgerichtshof meldet Cyber-Attacke",
     "USA - Noch keine Abstimmung im Senat über Trumps Ausgabengesetz",
     "Nach Protesten in Los Angeles - Militär bittet US-Regierung um Rückverlegung von 200 Soldaten",
-    "Neu-Ulm - Erste Mercedes-Niederlassung veräußert - Ausverkauf der Filialen in Deutschland hat begonnen"
+    "Neu-Ulm - Erste Mercedes-Niederlassung veräußert - Ausverkauf der Filialen in Deutschland hat begonnen",
+    "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - wieder zahlreiche Todesopfer bei Luftangriffen",
+    "Wilhelmshaven - Zahl der Kegelrobben im Wattenmeer steigt weiter an - Experten werten positive Entwicklung als sichtbares Zeichen für guten Schutz",
+    "US-Gesetzespaket - \"Big Beautiful Bill\": Steuergeschenke durch Rekordschulden"
   ],
   "hashes": [
-    "e8a5cb3119f280fd63219512314b9277",
-    "560099a8d452b0979aea4ded0143ae07",
-    "19e7668cb59e99279912de5ae204a488",
     "863ad708c1349150e584a66d3d35b00e",
     "2f527c14cbf25575b32b561dc8561de5",
     "09c76cec1810d0dc9aa408fcc4a22ead",
@@ -4005,6 +4002,9 @@
     "c7596aae6427bdceafd09b064c3ed30b",
     "3838fa4d076a566e5298b00408514cb7",
     "e4a045de545e0c2728af9f03f3512b62",
-    "a21297a145d6ff1856c93d2f8f468c36"
+    "a21297a145d6ff1856c93d2f8f468c36",
+    "821daa63cad0f922f247819269809420",
+    "29a9293a7e194edb96a522a50971c879",
+    "4e61bd7f8b03503f2072ad245c2d071f"
   ]
 }
