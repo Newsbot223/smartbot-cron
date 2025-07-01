@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/rente-in-deutschland-zahl-arbeitender-rentner-hat-sich-seit-2004-vervierfacht-a-cd105f0c-34e7-4643-adff-fbaa56a7ba7d#ref=rss",
-    "https://www.deutschlandfunk.de/alleinerziehende-warum-sie-so-stark-von-armut-betroffen-sind-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-birgt-leiche-von-thailaendischer-geisel-100.html",
-    "https://www.deutschlandfunk.de/ehemaliges-gebaeude-der-staatsoperette-abgebrannt-100.html",
     "https://www.deutschlandfunk.de/queer-beauftragte-koch-will-grundgesetzaenderung-100.html",
     "https://www.faz.net/aktuell/politik/inland/merz-bei-trump-der-kanzler-ist-sichtbar-110522545.html",
     "https://www.deutschlandfunk.de/israels-armee-meldet-vier-tote-soldaten-palaestinenser-22-tote-bei-israelischen-angriffen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/fernsehprediger-jimmy-swaggart-gestorben-pionier-des-christlichen-tv-102.html",
     "https://www.deutschlandfunk.de/raketen-aus-jemen-und-gaza-abgefangen-100.html",
     "https://www.deutschlandfunk.de/demonstration-gegen-imamoglu-verhaftung-vor-100-tagen-104.html",
-    "https://www.spiegel.de/wirtschaft/eu-foerdermittel-verzoegerung-bei-auszahlung-von-milliarden-droht-a-2bcef3d7-79f3-4d6b-85db-e67561f65dc1#ref=rss"
+    "https://www.spiegel.de/wirtschaft/eu-foerdermittel-verzoegerung-bei-auszahlung-von-milliarden-droht-a-2bcef3d7-79f3-4d6b-85db-e67561f65dc1#ref=rss",
+    "https://www.deutschlandfunk.de/oelbohrschiff-im-roten-meer-gekentert-mindestens-vier-tote-104.html",
+    "https://www.deutschlandfunk.de/taxi-gewerbe-protestiert-bundesweit-fuer-mindestpreise-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-legt-klimaziel-fuer-2040-vor-100.html",
+    "https://www.deutschlandfunk.de/ex-finanzstaatssekretaer-thoms-wird-deutscher-botschafter-in-kiew-102.html"
   ],
   "content_hashes": [
-    "d952124217c8e51a83834f1389bb8c5d",
-    "be8ba3c3becb12a3046ec167f2d8e7dc",
-    "eb937137166246089819f1c0ec78cffb",
-    "3eb743a74dcc3a45d3bde56687ad95f9",
     "a9d44e590d731b6babad8113f3e46c1d",
     "6f3fcb688372aaed76b9450f895da76b",
     "26794eabc17323dc285e5fa3a6c8423a",
@@ -2001,13 +1997,13 @@
     "a6241f4e85c08338691f1a7871351169",
     "ad346338616fdf880a576f421a656db9",
     "2093286cf3062ad09ccbbeaf5a53c2d8",
-    "45e6a1be5c354d53a4c34f3dfa86665b"
+    "45e6a1be5c354d53a4c34f3dfa86665b",
+    "258d73632282a5bd58488226d66df4a2",
+    "d3c6591fb72ef24a36af5cc1caf2a5b8",
+    "e7b5fa63af26e86053afd883b10903f0",
+    "8597fcba399d7c5113f8bb320b306a27"
   ],
   "titles": [
-    "Rente in Deutschland: Zahl arbeitender Rentner hat sich seit 2004 vervierfacht",
-    "Alleinerziehende - Vor allem Mütter sind oft von Armut bedroht",
-    "Nahost - Israelische Armee birgt Leiche von thailändischer Geisel",
-    "Dresden - Ehemaliges Gebäude der Staatsoperette abgebrannt",
     "Minderheitsrechte - Queer-Beauftragte Koch will Grundgesetzänderung",
     "Merz bei Trump: Der Kanzler ist sichtbar",
     "Krieg im Gazastreifen - Israels Armee meldet vier tote Soldaten - Palästinenser: 22 Tote bei israelischen Angriffen",
@@ -3003,13 +2999,13 @@
     "USA - Fernsehprediger Jimmy Swaggart gestorben - Pionier des christlichen TV",
     "Israel - Raketen aus Jemen und Gaza abgefangen",
     "Istanbul - Demonstration gegen Imamoglu-Verhaftung vor 100 Tagen",
-    "EU-Fördermittel: Verzögerung bei Auszahlung von Milliarden droht"
+    "EU-Fördermittel: Verzögerung bei Auszahlung von Milliarden droht",
+    "Ägypten - Ölbohrschiff im Roten Meer gekentert - Mindestens vier Tote",
+    "Deutschland - Taxi-Gewerbe protestiert bundesweit für Mindestpreise",
+    "Brüssel - EU-Kommission legt Klimaziel für 2040 vor",
+    "Regierungskreise - Ex-Finanzstaatssekretär Thoms wird deutscher Botschafter in Kiew"
   ],
   "hashes": [
-    "b8e58f8e4e745b8ffccb1869c5c576df",
-    "010584debcd3c483181b0a34d3e54782",
-    "769998641aa1d906a185a963bbde69f8",
-    "5cda35c1b1210d37dbec116aa4d55955",
     "a974fca66b9ec5a11a3af428704980fd",
     "6822387a19cafa4ac7b856d6e8582c85",
     "9f21ddad7e746a9a2c09aa91c3bdc861",
@@ -4005,6 +4001,10 @@
     "bfad3baacdaaf3a2532c42e78ca0f716",
     "37bd80d1b174cb40b86bba57be56ce38",
     "23816cdfc05f2bca208c10b8b92cb50e",
-    "1d5d77094ff7949a792b178757273c8f"
+    "1d5d77094ff7949a792b178757273c8f",
+    "974f7028ac572a2a602590dd21198cde",
+    "af6c18f44117033f56874c096a6e98c3",
+    "f44234e2d12d0f1a5839a68b6b759739",
+    "93868fd69d517e8e669e2ce83d7db027"
   ]
 }
