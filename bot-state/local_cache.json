@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schwesig-spd-und-kloeckner-cdu-kritisieren-gesellschaftliche-nachteile-100.html",
-    "https://www.deutschlandfunk.de/bundesfinanzministerium-will-milliarden-auch-fuer-kommunen-forderungen-nach-echten-investitionen-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-setzte-verdeckt-umweltverbaende-gegen-deutsche-firmen-ein-100.html",
-    "https://www.deutschlandfunk.de/spd-gesundheitsexperte-pantazis-fordert-hoehere-beitraege-fuer-gutverdiener-102.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-europaeischer-gerichtshof-soll-ueber-streit-um-zurueckweisungen-an-deutschen--100.html",
     "https://www.deutschlandfunk.de/unrechtmaessig-abgeschobener-mann-aus-el-salvador-ist-zurueck-in-den-usa-100.html",
     "https://www.faz.net/aktuell/politik/inland/spd-bringt-hoehere-gesundheitsbeitraege-fuer-gutverdiener-ins-gespraech-110523859.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/kommentar-zu-sexuellem-missbrauch-eine-kaltschnaeuzige-kirche-110569105.html",
     "https://www.deutschlandfunk.de/zu-wenig-schutz-vor-diskriminierung-durch-den-staat-100.html",
     "https://www.spiegel.de/ausland/polen-fuehrt-kontrollen-an-der-grenze-zu-deutschland-ein-a-d1059566-3f57-4c1b-9a8a-d6f7707c7594#ref=rss",
-    "https://www.faz.net/aktuell/politik/weidel-und-chrupalla-beanspruchen-6000-euro-mehr-gehalt-110569217.html"
+    "https://www.faz.net/aktuell/politik/weidel-und-chrupalla-beanspruchen-6000-euro-mehr-gehalt-110569217.html",
+    "https://www.deutschlandfunk.de/bundesregierung-setzt-alarmstufe-gas-aus-100.html",
+    "https://www.deutschlandfunk.de/antidiskriminierungsbeauftragte-ataman-fordert-besseren-schutz-vor-diskriminierung-durch-den-staat-100.html",
+    "https://www.deutschlandfunk.de/arbeitslosigkeit-geht-im-juni-nur-leicht-zurueck-100.html",
+    "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html"
   ],
   "content_hashes": [
-    "6458c75ab7380279b169253d319ac6fc",
-    "0cbbc9cf09b058dd2dd11b33d27a15a7",
-    "0410806fc88613dfc216a481076febef",
-    "7c4c126613bb8e6b3bd72dbb30c7c0e3",
     "bd5cf0da3bf4823964086a2ab5157734",
     "378e538a5da4522c5c3b22774dab6689",
     "4cd182a098213f49edc728f1308d6007",
@@ -2001,13 +1997,13 @@
     "ca3825a63b22399259ba87d34d008fd0",
     "582b990c0ca49b79a20d2d9d119ea03c",
     "b579881754fd8cdcb16f787b68fc748a",
-    "ae49399c388b9ab0244fbec1f41fe5a9"
+    "ae49399c388b9ab0244fbec1f41fe5a9",
+    "573e55f1585f0eff9e944c47b92c20d7",
+    "deb5f129b27005a2e329a5fd6bdbee76",
+    "c9220c0410abec14c64230daf6f8e5ed",
+    "b71ab0bcb87b9407ad8159e25cf36709"
   ],
   "titles": [
-    "Frauen in der Politik - Schwesig (SPD) und Klöckner (CDU) kritisieren gesellschaftliche Nachteile",
-    "Schulden-Sondertöpfe - Bundesfinanzministerium will Milliarden auch für Kommunen - Forderungen nach echten Investitionen",
-    "\"Welt am Sonntag\" - EU-Kommission setzte verdeckt Umweltverbände gegen deutsche Firmen ein",
-    "Gesetzliche Krankenversicherung - SPD-Gesundheitsexperte Pantazis fordert höhere Beiträge für Gutverdiener",
     "Asylpolitik - Innenminister Dobrindt: Europäischer Gerichtshof soll über Streit um Zurückweisungen an deutschen Grenzen entscheiden",
     "Rechtsstreit - Unrechtmäßig abgeschobener Mann aus El Salvador ist zurück in den USA",
     "SPD bringt höhere Gesundheitsbeiträge für Gutverdiener ins Gespräch",
@@ -3003,13 +2999,13 @@
     "Kommentar zu sexuellem Missbrauch: Eine kaltschnäuzige Kirche",
     "Antisdiskriminierungsbeauftragte Ataman - Zu wenig Schutz vor Diskriminierung durch den Staat",
     "Polen führt Kontrollen an der Grenze zu Deutschland ein",
-    "Mehr Geld: AfD-Abgeordnete irritiert über Fraktionschefs"
+    "Mehr Geld: AfD-Abgeordnete irritiert über Fraktionschefs",
+    "Energieministerin Reiche - Bundesregierung setzt Alarmstufe Gas aus",
+    "Umfrage zu Benachteiligung - Antidiskriminierungsbeauftragte Ataman fordert besseren Schutz vor Diskriminierung durch den Staat",
+    "Wirtschaft - Arbeitslosigkeit geht im Juni nur leicht zurück",
+    "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts"
   ],
   "hashes": [
-    "fb784ef9bae0a34411b18bad9654f30c",
-    "3519b2db754e20e54fb2d05dfa07ed44",
-    "4e200bce64602428ab604ba201ecf915",
-    "899715cfac279bea844b218e58ac856b",
     "2c414c79fbe242277877bf9f44475a0f",
     "f67b46efa43531e57cfd900a4fc871b5",
     "119d00356988e80706da5653ebf7f5f0",
@@ -4005,6 +4001,10 @@
     "be32a3c815ba13be337ad868a8838545",
     "c41221fd8399516f41344c9d63dc4ccb",
     "5935d699f65bf3a36855a3ee50e17fee",
-    "7831d14410bc5a13f9e8cb84bfe7a205"
+    "7831d14410bc5a13f9e8cb84bfe7a205",
+    "d069c2b99444c570ebf1e9cf30b40447",
+    "73dd2d7167696c36ea67b746cf001639",
+    "e371b95cac2196a30149c0855b3950e1",
+    "4248cf093d58a13f910fe6505ea3bc56"
   ]
 }
