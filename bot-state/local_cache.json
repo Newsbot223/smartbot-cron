@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen-a-5bf80d78-b31e-421a-9f82-b995fb5a3293#ref=rss",
-    "https://www.deutschlandfunk.de/trump-droht-musk-bei-unterstuetzung-der-demokraten-mit-konsequenzen-100.html",
-    "https://www.deutschlandfunk.de/autofahrer-steuert-wagen-in-fussgaengergruppe-106.html",
-    "https://www.deutschlandfunk.de/usa-und-china-kuendigen-gespraeche-an-102.html",
     "https://www.deutschlandfunk.de/polizei-erschiesst-frau-nach-messerattacken-102.html",
     "https://www.deutschlandfunk.de/stoppt-das-massaker-mehrere-hunderttausend-menschen-auf-solidaritaetskundgebung-in-rom-fuer-bevoelke-100.html",
     "https://www.deutschlandfunk.de/zeichen-von-feindseligkeit-iran-kritisiert-us-einreiseverbot-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/arbeit-von-usaid-nun-offiziell-eingestellt-100.html",
     "https://www.deutschlandfunk.de/merz-verteidigt-spahn-in-coronamasken-affaere-und-kritisiert-sonderermittlerin-sudhof-100.html",
     "https://www.deutschlandfunk.de/taxi-gewerbe-will-bundesweit-fuer-schaerfere-regeln-gegen-uber-und-bolt-demonstrieren-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-will-klimaziel-fuer-2040-vorlegen-100.html"
+    "https://www.deutschlandfunk.de/eu-kommission-will-klimaziel-fuer-2040-vorlegen-100.html",
+    "https://www.deutschlandfunk.de/staatsmedien-iran-setzt-zusammenarbeit-mit-iaea-aus-100.html",
+    "https://www.deutschlandfunk.de/deutsche-fischer-haben-mehr-gefangen-aber-weniger-verdient-100.html",
+    "https://www.deutschlandfunk.de/hermann-groehe-soll-amt-uebernehmen-100.html",
+    "https://www.deutschlandfunk.de/fast-300-asylsuchende-seit-anfang-mai-an-deutschen-grenzen-zurueckgewiesen-102.html"
   ],
   "content_hashes": [
-    "942a051da994b0d264c1742651806eea",
-    "94daedce22245cb9bb1830533d99ed0d",
-    "d7b4c83c8bccafc85833f54ee34a7e72",
-    "040159979438038c8c23dd8729dd73ed",
     "340d7cad97ad9f09531bd723694e34a2",
     "395146423130e22d81262014b9101adb",
     "e433ea5b1433a1fb9ca1cd8d1eb46c7b",
@@ -2001,13 +1997,13 @@
     "d969cbd66641ef074106fc2379252220",
     "a1efb17a0c962534dc5cee0130a084cc",
     "78350ce53419275bbcf1e3c50735bbde",
-    "fe7855d8dd5f87deb0a3540fda2369ee"
+    "fe7855d8dd5f87deb0a3540fda2369ee",
+    "c756cecaafc862798b310299476269e6",
+    "df0a4a49cc7c4187aea9cbea5c9a0cb0",
+    "0dd5888b52e497d8f84cff811962de8c",
+    "11deb318422dda2195c7786ccc046c35"
   ],
   "titles": [
-    "Bundesamt will eine Million Plätze in Schutzräumen schaffen",
-    "USA - Trump droht Musk bei Unterstützung der Demokraten mit Konsequenzen",
-    "Passau - Autofahrer steuert Wagen in Fußgängergruppe",
-    "Handelsstreit - USA und China kündigen Gespräche an",
     "München - Polizei erschießt Frau nach Messerattacken",
     "Italien - \"Stoppt das Massaker\": Mehrere hunderttausend Menschen auf Solidaritätskundgebung in Rom für Bevölkerung im Gazastreifen",
     "Islamische Republik - \"Zeichen von Feindseligkeit\": Iran kritisiert US-Einreiseverbot",
@@ -3003,13 +2999,13 @@
     "USA - Arbeit von USAID nun offiziell eingestellt",
     "Covid19-Pandemie - Merz verteidigt Spahn in Coronamasken-Affäre und kritisiert Sonderermittlerin Sudhof",
     "Deutschland - Taxi-Gewerbe will bundesweit für schärfere Regeln gegen Uber und Bolt demonstrieren",
-    "Klimaschutz in der EU - EU-Kommission will Klimaziel für 2040 vorlegen"
+    "Klimaschutz in der EU - EU-Kommission will Klimaziel für 2040 vorlegen",
+    "Bericht aus Teheran - Staatsmedien: Iran setzt Zusammenarbeit mit IAEA aus",
+    "Fischerei - Deutsche Fischer haben mehr gefangen aber weniger verdient",
+    "DRK-Präsident - Hermann Gröhe soll Amt übernehmen",
+    "Bundespolizei - Fast 300 Asylsuchende seit Anfang Mai an deutschen Grenzen zurückgewiesen"
   ],
   "hashes": [
-    "5beef07350fbc5891b576db0aa7215df",
-    "a636b30d8e6a02edec2f3e283d641718",
-    "75ef21df0a2d2a133397b46b1dc8c2d6",
-    "02ebec50a52d3d2bf010b91e07ae8163",
     "e00fe912125e5ee6bb83f31791d37e4d",
     "75aa2a79dd9ec7b49fc3acddf0a578cd",
     "51b6ff116b533a4a1d6c9d0c276c8712",
@@ -4005,6 +4001,10 @@
     "2e8ad5f73cb08d3f13f58d4719509b8e",
     "120905c8cdfc1c26f86aae22355a8543",
     "28813edfb96e1082b26a818393bb3247",
-    "d99ff67c33b1571ec3f2d84c7c75ffcc"
+    "d99ff67c33b1571ec3f2d84c7c75ffcc",
+    "0ef48b9f4eb3ff211e12acfeb942965e",
+    "dec8786536b9cf34e2975cac5dfdb1f8",
+    "f3ed0a6233f72fddfe895e77d9502ca2",
+    "c8b90f34582ef904d9e58d50a447cb0e"
   ]
 }
