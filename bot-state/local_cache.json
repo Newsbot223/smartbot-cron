@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizeibeauftragter-groetsch-fordert-rechtssicherheit-fuer-bundespolizei-bei-zurueckweisung-von-asyl-100.html",
-    "https://www.deutschlandfunk.de/proteste-gegen-razzien-der-einwanderungsbehoerde-ice-us-regierung-entsendet-nationalgarde-nach-los-a-102.html",
     "https://www.deutschlandfunk.de/polizeibeauftragter-groetsch-fordert-rechtssicherheit-fuer-bundespolizei-100.html",
     "https://www.deutschlandfunk.de/200-kuestenorte-weltweit-schliessen-buendnis-um-gefahren-des-klimawandels-zu-begegnen-102.html",
     "https://www.deutschlandfunk.de/proteste-gegen-razzien-der-einwanderungsbehoerde-us-regierung-entsendet-nationalgarde-100.html",
@@ -999,11 +997,11 @@
     "https://www.aljazeera.com/news/2025/7/2/dalai-lama-confirms-he-will-have-a-successor-after-his-death?traffic_source=rss",
     "https://www.deutschlandfunk.de/oelbohrschiff-im-roten-meer-gekentert-mindestens-vier-tote-106.html",
     "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-teilweises-lachgas-verbot-100.html",
-    "https://www.deutschlandfunk.de/bund-will-verwendung-von-laender-milliarden-kontrollieren-100.html"
+    "https://www.deutschlandfunk.de/bund-will-verwendung-von-laender-milliarden-kontrollieren-100.html",
+    "https://www.deutschlandfunk.de/weg-frei-fuer-gasfoerderung-vor-nordseeinsel-borkum-100.html",
+    "https://www.deutschlandfunk.de/160-kilo-crystal-meth-am-frankfurter-flughafen-sichergestellt-100.html"
   ],
   "content_hashes": [
-    "224b5818ced8913f197cb8f00f4788e5",
-    "35d36cb1cdfc5e798ec379408265192f",
     "b2137480f212cab3a015c872652df6f9",
     "fcf9a87acdf1e59afd01ea1c3f260215",
     "4cab3f252c3e5f6017bc42cd56abad2f",
@@ -2001,11 +1999,11 @@
     "1ed7e43d22d12afecf74123cdd35404b",
     "8dc3142f51d434cb5a6f0607202df652",
     "9233a23922483377d3bc9ea2aaf9e639",
-    "bd09431faa145f643b63082e2c3e762e"
+    "bd09431faa145f643b63082e2c3e762e",
+    "6835fe1138708aba6520db13bb75b2b8",
+    "228b8ef7c6f4342bfda76216ad0947c3"
   ],
   "titles": [
-    "Grenzkontrollen - Polizeibeauftragter Grötsch fordert Rechtssicherheit für Bundespolizei bei Zurückweisung von Asylsuchenden",
-    "Kalifornien - Proteste gegen Razzien der Einwanderungsbehörde ICE: US-Regierung entsendet Nationalgarde nach Los Angeles",
     "Zurückweisung von Asylsuchenden - Polizeibeauftragter Grötsch fordert Rechtssicherheit für Bundespolizei",
     "Anstieg des Meeresspiegels - 200 Küstenorte weltweit schließen Bündnis, um Gefahren des Klimawandels zu begegnen",
     "Los Angeles - Proteste gegen Razzien der Einwanderungsbehörde: US-Regierung entsendet Nationalgarde",
@@ -3003,11 +3001,11 @@
     "Dalai Lama confirms he will have a successor after his death",
     "Ägypten - Ölbohrschiff im Roten Meer gekentert - mindestens vier Tote",
     "Schwarz-Rote Koalition - Bundeskabinett beschließt teilweises Lachgas-Verbot",
-    "Kabinett - Bund will Verwendung von Länder-Milliarden kontrollieren"
+    "Kabinett - Bund will Verwendung von Länder-Milliarden kontrollieren",
+    "Bundeskabinett - Weg frei für Gasförderung vor Nordseeinsel Borkum",
+    "Drogenkriminalität - 160 Kilo Crystal Meth am Frankfurter Flughafen sichergestellt"
   ],
   "hashes": [
-    "738a587db3727305604c759bcdb74db6",
-    "18525f667f3550852b81b6ad15da2af8",
     "98408f487175c2de2271707cb461ff9e",
     "26a9cfcb7920997a8d93fc6dc843d319",
     "f7005bc6c6b56279925b03dde7c4382a",
@@ -4005,6 +4003,8 @@
     "cfa63829c591b2ecdda84ff6af2b7848",
     "e1d8ad18a2321c47891101813dfa5892",
     "a6aa5703037e842253a033242082a814",
-    "e9837f3bb9534628092a9cc5a70caea7"
+    "e9837f3bb9534628092a9cc5a70caea7",
+    "8d6633f7155951505cc41c593ecebb06",
+    "86b43fbf8bc7a9c2941f9113a6213594"
   ]
 }
