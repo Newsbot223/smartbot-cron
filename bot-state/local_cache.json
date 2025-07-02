@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hunderttausende-bei-umzug-zum-karneval-der-kulturen-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/erneut-zusammenstoesse-zwischen-demonstranten-und-sicherheitskraeften-in-los-angeles-nationalgarde-b-100.html",
     "https://www.deutschlandfunk.de/bundesschuelerkonferenz-pflichtbesuche-in-kz-gedenkstaetten-sollten-fester-bestandteil-des-unterrich-100.html",
     "https://www.deutschlandfunk.de/zweitaegige-volksabstimmung-ueber-arbeitsrecht-und-einbuergerungen-endet-100.html",
     "https://www.deutschlandfunk.de/niederlande-buerger-kontrollieren-eigenmaechtig-an-deutscher-grenze-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-kritisieren-ende-der-zusammenarbeit-mit-iaea-100.html",
     "https://www.deutschlandfunk.de/usa-kritisieren-ende-der-zusammenarbeit-teherans-mit-iaea-100.html",
     "https://www.deutschlandfunk.de/afd-verbotsverfahren-steinmeier-mahnt-abwaegung-an-100.html",
-    "https://www.faz.net/einspruch/bundesverfassungsgericht-kritik-in-cdu-csu-an-spd-kandidatin-110571541.html"
+    "https://www.faz.net/einspruch/bundesverfassungsgericht-kritik-in-cdu-csu-an-spd-kandidatin-110571541.html",
+    "https://www.deutschlandfunk.de/koalitionsausschuss-noch-ohne-einigung-bei-stromsteuersenkung-102.html",
+    "https://www.deutschlandfunk.de/pentagon-iranisches-atomprogramm-um-bis-zu-zwei-jahre-verzoegert-100.html"
   ],
   "content_hashes": [
-    "f20149c4a768c64ec6f91ff0a3bb530e",
-    "5082ca68225a44a21d51923da730fc40",
     "ad1503c080fe49aa364fa511700ccc55",
     "042e79ead6259a1301d4292ec7e35cd5",
     "7eed795e0a0df54347d2f161fe4c2a6a",
@@ -2001,11 +1999,11 @@
     "4a6461a52052f1a456aab5c6ebdad061",
     "d4eef93c2de1e68bd680a948660c17ac",
     "3d77b00c8de7831174a4d60ddafdec9c",
-    "f35333f7a00e99ee2e7e4270616ee370"
+    "f35333f7a00e99ee2e7e4270616ee370",
+    "74a275a3f26742e007cfdf93926b15e8",
+    "9991094709dafa2320caeaab46662cfb"
   ],
   "titles": [
-    "Vielfalt - Hunderttausende bei Umzug zum Karneval der Kulturen in Berlin",
-    "USA - Erneut Zusammenstöße zwischen Demonstranten und Sicherheitskräften in Los Angeles - Nationalgarde bezieht Stellungen",
     "Bildung - Bundesschülerkonferenz: Pflichtbesuche in KZ-Gedenkstätten sollten fester Bestandteil des Unterrichts sein",
     "Italien - Zweitägige Volksabstimmung über Arbeitsrecht und Einbürgerungen endet",
     "Medienberichte - Niederlande: Bürger kontrollieren eigenmächtig an deutscher Grenze",
@@ -3003,11 +3001,11 @@
     "Teheran - USA kritisieren Ende der Zusammenarbeit mit IAEA",
     "Internationale Atomenergiebehörde - USA kritisieren Ende der Zusammenarbeit Teherans mit IAEA",
     "Nach SPD-Parteitag - AfD-Verbotsverfahren: Steinmeier mahnt Abwägung an",
-    "Verfassungsrichterwahl: Mehrere Unionsabgeordnete halten SPD-Kandidatin für nicht wählbar"
+    "Verfassungsrichterwahl: Mehrere Unionsabgeordnete halten SPD-Kandidatin für nicht wählbar",
+    "Bundesregierung - Koalitionsausschuss noch ohne Einigung bei Stromsteuersenkung",
+    "Nach US-Angriff - Pentagon: Iranisches Atomprogramm um bis zu zwei Jahre verzögert"
   ],
   "hashes": [
-    "7573460897db9f325bdbd1f3920d151a",
-    "4d2f63df3a25ff2ed5d3b0eae107d938",
     "5656f98992bd4b434a446318880fec4b",
     "a3f081462c07cee523c5cefdce221cb7",
     "5d0f9581632bd599ca5515ef24a5b5ea",
@@ -4005,6 +4003,8 @@
     "d00fc8fff721f71763e222441a04d063",
     "94eb59598d799e49c7000acacdfe51eb",
     "188aa8ee90527e51daa5c5857c8dafee",
-    "1bfad35b52d5f5c13df4040a37fffc58"
+    "1bfad35b52d5f5c13df4040a37fffc58",
+    "bc95fbc07a82a13b70c916087f2a2bb0",
+    "2dce812004fec56845313565a43ef8e0"
   ]
 }
