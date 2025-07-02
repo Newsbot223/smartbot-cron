@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/volksabstimmung-ueber-arbeitsrecht-und-einbuergerungen-102.html",
-    "https://www.deutschlandfunk.de/zwingend-notwendig-innenminister-dobrindt-csu-will-bundespolizei-mit-tasern-ausruesten-gewerkschaft--100.html",
     "https://www.deutschlandfunk.de/bundesbankpraesident-nagel-mahnt-reformen-an-100.html",
     "https://www.deutschlandfunk.de/absolute-kunstfreiheit-gefordert-fruehere-kuratorinnen-und-kuratoren-bei-documenta-festakt-in-kassel-102.html",
     "https://www.spiegel.de/wirtschaft/soziales/anzahl-der-rentner-mit-einkommen-unter-1500-euro-sinkt-laut-statistischen-bundesamt-a-67173341-26c4-4337-b31c-db98e7552745#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-kritisiert-massenhafte-festnahmen-nach-demo-in-tuerkei-100.html",
     "https://www.deutschlandfunk.de/richard-vogel-gewinnt-mit-phenyo-zeitspringen-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-kauf-des-modehaendlers-about-you-durch-zalando-100.html",
-    "https://www.deutschlandfunk.de/frueherer-bundesgesundheitsminister-groehe-soll-drk-praesident-werden-100.html"
+    "https://www.deutschlandfunk.de/frueherer-bundesgesundheitsminister-groehe-soll-drk-praesident-werden-100.html",
+    "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-september-dauern-100.html",
+    "https://www.faz.net/aktuell/politik/inland/trotz-hetz-chats-personenschuetzer-von-charlotte-knobloch-weiter-im-dienst-110571495.html"
   ],
   "content_hashes": [
-    "0aca44754647d8bd5559a7c7632c1875",
-    "044d183424eda3379edd4a274afaa121",
     "d3c4b00ebb7b6130c72acda4dfcb9087",
     "fea4b18f2b43386a3b0adee637845da2",
     "84a7cbf2d2d7859633d46aa885ca4632",
@@ -2001,11 +1999,11 @@
     "9f667a4eba7d15de384193c2bc415b6a",
     "ede27b51a8e960c21e6051fcebc7babe",
     "88d56fa8f4339ccfa4c4885e84146293",
-    "ef45e8fa915b9c83c2d03189ee09aa6a"
+    "ef45e8fa915b9c83c2d03189ee09aa6a",
+    "8bd874c9718341a0985e62c4f8c1353b",
+    "52ef05a4739eb5b67d7fa4a942905a41"
   ],
   "titles": [
-    "Italien - Volksabstimmung über Arbeitsrecht und Einbürgerungen",
-    "Reaktion auf gestiegene Bedrohung - \"Zwingend notwendig\": Innenminister Dobrindt (CSU) will Bundespolizei mit Tasern ausrüsten - Gewerkschaft der Polizei begrüßt Pläne",
     "Interview der Woche - Bundesbankpräsident Nagel mahnt Reformen an",
     "70 Jahre Weltkunstausstellung - \"Absolute Kunstfreiheit\" gefordert: Frühere Kuratorinnen und Kuratoren bei documenta-Festakt in Kassel",
     "Anzahl der Rentner mit Einkommen unter 1500 Euro sinkt laut Statistischen Bundesamt",
@@ -3003,11 +3001,11 @@
     "Menschenrechte - Bundesregierung kritisiert massenhafte Festnahmen nach Demo in Türkei",
     "CHIO Turnier Aachen - Richard Vogel gewinnt mit \"Phenyo\" Zeitspringen",
     "Wirtschaft - EU-Kommission genehmigt Kauf des Modehändlers About You durch Zalando",
-    "CDU-Politiker - Früherer Bundesgesundheitsminister Gröhe soll DRK-Präsident werden"
+    "CDU-Politiker - Früherer Bundesgesundheitsminister Gröhe soll DRK-Präsident werden",
+    "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. September dauern",
+    "Trotz Hetz-Chats: Personenschützer von Charlotte Knobloch weiter im Dienst"
   ],
   "hashes": [
-    "8d7fa9fb1b3a1d7f87a3fede06c29313",
-    "228cc10eea33a907721ff80c14632213",
     "4034e95bb798d4d48828819b598cb926",
     "770fe38962f032e735f7ea7488d2cce5",
     "1e7e870509ea41c3aa9a25212e86bf70",
@@ -4005,6 +4003,8 @@
     "572677bc626d928182388308a7ffed4f",
     "52b7849cb9ffd39374609ee6150f7382",
     "4fd573d4189fbbc5f647f29a49252420",
-    "41774c9a0556d8349dbf9c562fb0153b"
+    "41774c9a0556d8349dbf9c562fb0153b",
+    "550497fefcab61cb1a07c26aa90d90d3",
+    "08a5be2ccdb4b9ddd1bc2ebd88ded48d"
   ]
 }
