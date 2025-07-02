@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesbankpraesident-nagel-mahnt-reformen-an-100.html",
-    "https://www.deutschlandfunk.de/absolute-kunstfreiheit-gefordert-fruehere-kuratorinnen-und-kuratoren-bei-documenta-festakt-in-kassel-102.html",
     "https://www.spiegel.de/wirtschaft/soziales/anzahl-der-rentner-mit-einkommen-unter-1500-euro-sinkt-laut-statistischen-bundesamt-a-67173341-26c4-4337-b31c-db98e7552745#ref=rss",
     "https://www.deutschlandfunk.de/diskussion-um-ausruestung-von-bundespolizei-mit-tasern-100.html",
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-bei-online-netzwerken-altersgrenze-fuer-junge-menschen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-kauf-des-modehaendlers-about-you-durch-zalando-100.html",
     "https://www.deutschlandfunk.de/frueherer-bundesgesundheitsminister-groehe-soll-drk-praesident-werden-100.html",
     "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-september-dauern-100.html",
-    "https://www.faz.net/aktuell/politik/inland/trotz-hetz-chats-personenschuetzer-von-charlotte-knobloch-weiter-im-dienst-110571495.html"
+    "https://www.faz.net/aktuell/politik/inland/trotz-hetz-chats-personenschuetzer-von-charlotte-knobloch-weiter-im-dienst-110571495.html",
+    "https://www.deutschlandfunk.de/gewerkschaftschef-warnt-vor-deutlichen-preiserhoehungen-bei-der-deutschen-bahn-100.html",
+    "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-august-dauern-102.html"
   ],
   "content_hashes": [
-    "d3c4b00ebb7b6130c72acda4dfcb9087",
-    "fea4b18f2b43386a3b0adee637845da2",
     "84a7cbf2d2d7859633d46aa885ca4632",
     "a2c9e7e8b872895803c64b69d6b909c6",
     "f2ca2b77ef29d685cf921b468301dd21",
@@ -2001,11 +1999,11 @@
     "88d56fa8f4339ccfa4c4885e84146293",
     "ef45e8fa915b9c83c2d03189ee09aa6a",
     "8bd874c9718341a0985e62c4f8c1353b",
-    "52ef05a4739eb5b67d7fa4a942905a41"
+    "52ef05a4739eb5b67d7fa4a942905a41",
+    "7127db92097dfa8f67acae81f35c8cc9",
+    "f11375506b47547d89d7da12867084c0"
   ],
   "titles": [
-    "Interview der Woche - Bundesbankpräsident Nagel mahnt Reformen an",
-    "70 Jahre Weltkunstausstellung - \"Absolute Kunstfreiheit\" gefordert: Frühere Kuratorinnen und Kuratoren bei documenta-Festakt in Kassel",
     "Anzahl der Rentner mit Einkommen unter 1500 Euro sinkt laut Statistischen Bundesamt",
     "Vorstoß von Innenminister Dobrindt - Diskussion um Ausrüstung von Bundespolizei mit Tasern",
     "Social Media - Bundesjustizministerin Hubig will bei Online-Netzwerken Altersgrenze für junge Menschen",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - EU-Kommission genehmigt Kauf des Modehändlers About You durch Zalando",
     "CDU-Politiker - Früherer Bundesgesundheitsminister Gröhe soll DRK-Präsident werden",
     "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. September dauern",
-    "Trotz Hetz-Chats: Personenschützer von Charlotte Knobloch weiter im Dienst"
+    "Trotz Hetz-Chats: Personenschützer von Charlotte Knobloch weiter im Dienst",
+    "Verkehr - Gewerkschaftschef warnt vor deutlichen Preiserhöhungen bei der Deutschen Bahn",
+    "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. August dauern"
   ],
   "hashes": [
-    "4034e95bb798d4d48828819b598cb926",
-    "770fe38962f032e735f7ea7488d2cce5",
     "1e7e870509ea41c3aa9a25212e86bf70",
     "ba69975d1d14924973f244e4ea4d8a01",
     "c30921c04a9a17b8b1cad7e03b612ee2",
@@ -4005,6 +4003,8 @@
     "4fd573d4189fbbc5f647f29a49252420",
     "41774c9a0556d8349dbf9c562fb0153b",
     "550497fefcab61cb1a07c26aa90d90d3",
-    "08a5be2ccdb4b9ddd1bc2ebd88ded48d"
+    "08a5be2ccdb4b9ddd1bc2ebd88ded48d",
+    "2ea52c20b22183b8b8b8b88048d80b02",
+    "f716bdab844cde3a5ca32821e5e39630"
   ]
 }
