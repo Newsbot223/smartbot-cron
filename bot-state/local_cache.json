@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berichte-ueber-viele-tote-im-gazastreifen-102.html",
-    "https://www.deutschlandfunk.de/passau-autofahrer-steuert-wagen-in-fussgaengergruppe-100.html",
     "https://www.faz.net/aktuell/politik/inland/flaggendebatte-in-ostdeutschland-die-fahne-nicht-der-afd-ueberlassen-110520127.html",
     "https://www.spiegel.de/politik/deutschland/bundesamt-will-eine-million-plaetze-in-schutzraeumen-schaffen-a-5bf80d78-b31e-421a-9f82-b995fb5a3293#ref=rss",
     "https://www.deutschlandfunk.de/trump-droht-musk-bei-unterstuetzung-der-demokraten-mit-konsequenzen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/dwd-hohes-waldbrandrisiko-fuer-weite-teile-deutschlands-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-will-lachgas-verbot-und-ruecknahmepflicht-fuer-e-zigaretten-beschliessen-100.html",
     "https://www.deutschlandfunk.de/grosses-urlaubsgebiet-eroeffnet-russische-touristen-erwartet-100.html",
-    "https://www.deutschlandfunk.de/arbeit-von-usaid-nun-offiziell-eingestellt-100.html"
+    "https://www.deutschlandfunk.de/arbeit-von-usaid-nun-offiziell-eingestellt-100.html",
+    "https://www.deutschlandfunk.de/merz-verteidigt-spahn-in-coronamasken-affaere-und-kritisiert-sonderermittlerin-sudhof-100.html",
+    "https://www.deutschlandfunk.de/taxi-gewerbe-will-bundesweit-fuer-schaerfere-regeln-gegen-uber-und-bolt-demonstrieren-100.html"
   ],
   "content_hashes": [
-    "36f163a714255526a443eb511ee95dc0",
-    "366931f4ea6ae4fdeda484a7df06642f",
     "63d08fa8c5b6b932a025c3cd57fdb315",
     "942a051da994b0d264c1742651806eea",
     "94daedce22245cb9bb1830533d99ed0d",
@@ -2001,11 +1999,11 @@
     "8e3bc556f7f0a4678df5fb4fdba46b6b",
     "c0b4e89ce9c413ec7d52fcc7c31c2ec9",
     "d6f49b2834e644bd9ad26b9c01ac1a66",
-    "d969cbd66641ef074106fc2379252220"
+    "d969cbd66641ef074106fc2379252220",
+    "a1efb17a0c962534dc5cee0130a084cc",
+    "78350ce53419275bbcf1e3c50735bbde"
   ],
   "titles": [
-    "Nahost - Berichte über viele Tote im Gazastreifen",
-    "Bayern - Passau: Autofahrer steuert Wagen in Fußgängergruppe",
     "Flaggendebatte in Ostdeutschland: Die Fahne nicht der AfD überlassen",
     "Bundesamt will eine Million Plätze in Schutzräumen schaffen",
     "USA - Trump droht Musk bei Unterstützung der Demokraten mit Konsequenzen",
@@ -3003,11 +3001,11 @@
     "Extreme Temperaturen - DWD: Hohes Waldbrandrisiko für weite Teile Deutschlands",
     "Schwarz-Rote Koalition - Bundeskabinett will Lachgas-Verbot und Rücknahmepflicht für E-Zigaretten beschließen",
     "Nordkorea - Großes Urlaubsgebiet eröffnet - russische Touristen erwartet",
-    "USA - Arbeit von USAID nun offiziell eingestellt"
+    "USA - Arbeit von USAID nun offiziell eingestellt",
+    "Covid19-Pandemie - Merz verteidigt Spahn in Coronamasken-Affäre und kritisiert Sonderermittlerin Sudhof",
+    "Deutschland - Taxi-Gewerbe will bundesweit für schärfere Regeln gegen Uber und Bolt demonstrieren"
   ],
   "hashes": [
-    "68e7f7d088f137adc84a213781666074",
-    "e7f0fe97ad7c54f6f1f864bc4d724f84",
     "1b10c78b43cd1a96ebd91ea9ff6f583f",
     "5beef07350fbc5891b576db0aa7215df",
     "a636b30d8e6a02edec2f3e283d641718",
@@ -4005,6 +4003,8 @@
     "4551270c695e98fbbf237c9102744ad0",
     "52e4f69d85420c6fcef8dde5091f169a",
     "df356ba9d2f9393c0009caaab0c3b406",
-    "2e8ad5f73cb08d3f13f58d4719509b8e"
+    "2e8ad5f73cb08d3f13f58d4719509b8e",
+    "120905c8cdfc1c26f86aae22355a8543",
+    "28813edfb96e1082b26a818393bb3247"
   ]
 }
