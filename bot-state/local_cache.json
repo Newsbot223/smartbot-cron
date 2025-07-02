@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-bei-online-netzwerken-altersgrenze-fuer-junge-menschen-100.html",
-    "https://www.deutschlandfunk.de/putin-und-die-russische-gesellschaft-manfred-sapper-zeitschrift-osteuropa-100.html",
-    "https://www.faz.net/aktuell/politik/inland/eine-neue-universitaet-fuer-ki-in-heilbronn-110511111.html",
     "https://www.deutschlandfunk.de/interview-der-woche-mit-joachim-nagel-praesident-der-deutschen-bundesbank-102.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/industrie-in-deutschland-100-000-jobs-in-einem-jahr-abgebaut-a-e60643f6-53f6-4abe-a1d0-085678c58803#ref=rss",
     "https://www.deutschlandfunk.de/papst-leo-xiv-ruft-in-pfingstbotschaft-zu-frieden-auf-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gewerkschaftschef-warnt-vor-deutlichen-preiserhoehungen-bei-der-deutschen-bahn-100.html",
     "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-august-dauern-102.html",
     "https://www.deutschlandfunk.de/union-und-spd-suchen-einigung-bei-stromsteuer-126.html",
-    "https://www.deutschlandfunk.de/prozess-wegen-sexualstraftaten-teilfreispruch-fuer-rapper-sean-diddy-combs-100.html"
+    "https://www.deutschlandfunk.de/prozess-wegen-sexualstraftaten-teilfreispruch-fuer-rapper-sean-diddy-combs-100.html",
+    "https://www.deutschlandfunk.de/israel-und-hamas-stecken-positionen-fuer-gespraeche-ueber-waffenruhe-ab-100.html",
+    "https://www.faz.net/aktuell/politik/inland/christan-freuding-der-neue-heereschef-der-bundeswehr-110571309.html",
+    "https://www.faz.net/aktuell/politik/inland/nrw-gerichtsaffaere-die-politisch-gewuenschte-kandidatin-zieht-zurueck-110571546.html"
   ],
   "content_hashes": [
-    "f2ca2b77ef29d685cf921b468301dd21",
-    "d17294263bbca5d310296e0f45463447",
-    "3546eca9c78e3a77bea6d8effba374b8",
     "bd33a7028e38b97a4d8b01281a8d1f61",
     "aad0fd5063bd2765a81b1fa2624e8f68",
     "2b57d194d55fb257e8e59937589fc658",
@@ -2001,12 +1998,12 @@
     "7127db92097dfa8f67acae81f35c8cc9",
     "f11375506b47547d89d7da12867084c0",
     "90795671dcaf976ebe101a2cafb3e5a8",
-    "8c0c72e9be88f168a57ed9192a983b9d"
+    "8c0c72e9be88f168a57ed9192a983b9d",
+    "0481a1340f0d7c134db7a34d367e247d",
+    "74e3e2f1295e496144ec25fb9bfa37c7",
+    "730ed5cda2ead12ad544548969bb744d"
   ],
   "titles": [
-    "Social Media - Bundesjustizministerin Hubig will bei Online-Netzwerken Altersgrenze für junge Menschen",
-    "Krieg in der Ukraine - Putin sichert sich die Unterstützung der russischen Gesellschaft",
-    "Baden-Württemberg: Eine neue Universität für Künstliche Intelligenz?",
     "Bundesbankpräsident Nagel - Zölle kennen eigentlich nur Verlierer",
     "Industrie in Deutschland: 100.000 Jobs in einem Jahr abgebaut",
     "Vatikan - Papst Leo XIV. ruft in Pfingstbotschaft zu Frieden auf",
@@ -3003,12 +3000,12 @@
     "Verkehr - Gewerkschaftschef warnt vor deutlichen Preiserhöhungen bei der Deutschen Bahn",
     "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. August dauern",
     "Koalitionsausschuss - Union und SPD suchen Einigung bei Stromsteuer",
-    "US-Rapper - Prozess wegen Sexualstraftaten - Teilfreispruch für Rapper Sean \"Diddy\" Combs"
+    "US-Rapper - Prozess wegen Sexualstraftaten - Teilfreispruch für Rapper Sean \"Diddy\" Combs",
+    "Gazakrieg - Israel und Hamas stecken Positionen für Gespräche über Waffenruhe ab",
+    "Christian Freuding: Ein Youtube-Star als neuer Heeresinspekteur",
+    "NRW-Gerichtsaffäre: Die politisch gewünschte Kandidatin zieht zurück"
   ],
   "hashes": [
-    "c30921c04a9a17b8b1cad7e03b612ee2",
-    "c322e13f91c05015d6b281974cbd7467",
-    "ad541f979c7eb84326ab922f0a31a72a",
     "41027cfd2c38d507b0e2a75be660051a",
     "8e19fe279173a2f572eaedb6f8fdb30a",
     "863d6aecc5ded09df5634c23be640cad",
@@ -4005,6 +4002,9 @@
     "2ea52c20b22183b8b8b8b88048d80b02",
     "f716bdab844cde3a5ca32821e5e39630",
     "1087600e0a573c01bea0157d9d341a24",
-    "814357e29dcd214dde558dca5b8b2fcf"
+    "814357e29dcd214dde558dca5b8b2fcf",
+    "95277b4c5b1b303ce4309f77c6341334",
+    "37592a10d646f1abb1c92bff723e3cb8",
+    "04ad2ad9d33a0c8f0520ab70af4245ab"
   ]
 }
