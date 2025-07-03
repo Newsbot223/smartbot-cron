@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zweitaegige-volksabstimmung-ueber-arbeitsrecht-und-einbuergerungen-endet-100.html",
-    "https://www.deutschlandfunk.de/niederlande-buerger-kontrollieren-eigenmaechtig-an-deutscher-grenze-100.html",
-    "https://www.deutschlandfunk.de/wegen-trockenheit-im-fruehjahr-wasserentnahme-aus-fluessen-mancherorts-verboten-100.html",
     "https://www.deutschlandfunk.de/ernteausfaelle-bei-kartoffeln-und-anderem-gemuese-durch-pflanzenkrankheit-102.html",
     "https://www.deutschlandfunk.de/national-oper-odessa-tenor-vladyslav-horai-bei-freiwilligeneinsatz-in-sumy-gestorben-104.html",
     "https://www.faz.net/aktuell/politik/inland/museumsstreit-in-nrw-endstation-schaudepot-110521605.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/einspruch/bundesverfassungsgericht-kritik-in-cdu-csu-an-spd-kandidatin-110571541.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-noch-ohne-einigung-bei-stromsteuersenkung-102.html",
     "https://www.deutschlandfunk.de/pentagon-iranisches-atomprogramm-um-bis-zu-zwei-jahre-verzoegert-100.html",
-    "https://www.deutschlandfunk.de/daenemark-laeutet-eu-ratspraesidentschaft-ein-100.html"
+    "https://www.deutschlandfunk.de/daenemark-laeutet-eu-ratspraesidentschaft-ein-100.html",
+    "https://www.deutschlandfunk.de/einwohner-und-touristen-auf-kreta-evakuiert-100.html",
+    "https://www.deutschlandfunk.de/viele-vermisste-nach-faehrunglueck-vor-bali-100.html",
+    "https://www.deutschlandfunk.de/vermisste-nach-explosion-in-feuerwerkskoerper-lagerhalle-100.html"
   ],
   "content_hashes": [
-    "042e79ead6259a1301d4292ec7e35cd5",
-    "7eed795e0a0df54347d2f161fe4c2a6a",
-    "43e399826282d60d1988995cfed1719d",
     "031a2876ec0d5f823eee0e5327721917",
     "73e4ed874c62829cfc7a7eafcd4adf6a",
     "4cc26bdb62d4b7fba0b565894a5d3f44",
@@ -2001,12 +1998,12 @@
     "f35333f7a00e99ee2e7e4270616ee370",
     "74a275a3f26742e007cfdf93926b15e8",
     "9991094709dafa2320caeaab46662cfb",
-    "76d494ead2d76f1b805fb82e5d708a38"
+    "76d494ead2d76f1b805fb82e5d708a38",
+    "27dcd46bc4a0045c1a53e5b22b1ac084",
+    "55cc3aad03e8c8cd536e1419e12b27f7",
+    "26020475fa0dfa2df32b5744fea484b0"
   ],
   "titles": [
-    "Italien - Zweitägige Volksabstimmung über Arbeitsrecht und Einbürgerungen endet",
-    "Medienberichte - Niederlande: Bürger kontrollieren eigenmächtig an deutscher Grenze",
-    "Natur - Wegen Trockenheit im Frühjahr: Wasserentnahme aus Flüssen mancherorts verboten",
     "Landwirtschaft - Ernteausfälle bei Kartoffeln und anderem Gemüse durch Pflanzenkrankheit",
     "Ukraine - National-Oper Odessa: Tenor Vladyslav Horai bei Freiwilligeneinsatz in Sumy gestorben",
     "Museumsstreit in NRW: Endstation Schaudepot",
@@ -3003,12 +3000,12 @@
     "Verfassungsrichterwahl: Mehrere Unionsabgeordnete halten SPD-Kandidatin für nicht wählbar",
     "Bundesregierung - Koalitionsausschuss noch ohne Einigung bei Stromsteuersenkung",
     "Nach US-Angriff - Pentagon: Iranisches Atomprogramm um bis zu zwei Jahre verzögert",
-    "Aarhus - Dänemark läutet EU-Ratspräsidentschaft ein"
+    "Aarhus - Dänemark läutet EU-Ratspräsidentschaft ein",
+    "Waldbrände - Einwohner und Touristen auf Kreta evakuiert",
+    "Indonesien - Viele Vermisste nach Fährunglück vor Bali",
+    "USA - Vermisste nach Explosion in Feuerwerkskörper-Lagerhalle"
   ],
   "hashes": [
-    "a3f081462c07cee523c5cefdce221cb7",
-    "5d0f9581632bd599ca5515ef24a5b5ea",
-    "9cd917cab65fb2924f668bdc27e60083",
     "4558abcc7a69247e34dc3c6bdf4295c4",
     "084d3676f9c3f4f97033a3fb227763b2",
     "00f51ae7894022ccf5573e84e1613014",
@@ -4005,6 +4002,9 @@
     "1bfad35b52d5f5c13df4040a37fffc58",
     "bc95fbc07a82a13b70c916087f2a2bb0",
     "2dce812004fec56845313565a43ef8e0",
-    "7c2c0c4d97cfa0a0182b6ef231445ade"
+    "7c2c0c4d97cfa0a0182b6ef231445ade",
+    "ddf1ac481c527309ab657103e9abcb6b",
+    "aef88f71d7437dfd0f80fc921c6ac4a4",
+    "b39549eac18e52a4e100cbf3fcfcd0f8"
   ]
 }
