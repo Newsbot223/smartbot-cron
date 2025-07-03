@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-taser-debatte-nach-toedlichen-polizeieinsaetzen-110526440.html",
-    "https://www.deutschlandfunk.de/kalifornischer-gouverneur-newsom-will-us-regierung-wegen-entsendung-der-nationalgarde-verklagen-102.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-lobt-polnischen-einsatz-an-eu-aussengrenzen-zusammenarbeit-bei-grenzkontrolle-100.html",
     "https://www.deutschlandfunk.de/bnd-praesident-kahl-russland-darf-nicht-unterschaetzt-werden-102.html",
     "https://www.deutschlandfunk.de/israels-armee-ruft-zu-evakuierung-dreier-haefen-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/argentinien-schraenkt-gaslieferungen-an-industrie-ein-100.html",
     "https://www.deutschlandfunk.de/republikanische-abweichler-verzoegern-abstimmung-ueber-trumps-steuergesetz-im-repraesentantenhaus-102.html",
     "https://www.spiegel.de/panorama/waldbraende-in-deutschland-feuerwehren-kaempfen-gegen-ausbreitung-a-a9eb591c-1819-45b8-9727-1b6137080c8e#ref=rss",
-    "https://www.deutschlandfunk.de/verbaende-fordern-bau-hunderter-neuer-schwimmbaeder-100.html"
+    "https://www.deutschlandfunk.de/verbaende-fordern-bau-hunderter-neuer-schwimmbaeder-100.html",
+    "https://www.deutschlandfunk.de/feuerwehren-kaempfen-im-osten-deutschlands-gegen-mehrere-braende-102.html",
+    "https://www.deutschlandfunk.de/feuer-im-suedosten-von-kreta-breiten-sich-aus-100.html"
   ],
   "content_hashes": [
-    "774c4c974f1b9b6f527ddffefa9c88cc",
-    "3fc1bc6a8319f4c76e5b9b856e2d0a1c",
     "0e05a0b7886f2f7b091febf6390bb91b",
     "2243f558470cc48d6981bb01441eb72a",
     "f0aebfd4e06205d43b535445b90a9d1f",
@@ -2001,11 +1999,11 @@
     "522eb11e1759b3d171bd12456c64ec23",
     "af454518d690dc50ccffa7453e14d457",
     "83961e849179a222f3e4fcb5eea5462d",
-    "dd0d4ab54ea2011636509072dd29adb2"
+    "dd0d4ab54ea2011636509072dd29adb2",
+    "68a2e501bb876c0b54090b15abe83d2b",
+    "297096d41f9c10956f104b6ea2b6b04c"
   ],
   "titles": [
-    "Elektroschocker als Schutz vor Messerangreifern",
-    "Los Angeles - Kalifornischer Gouverneur Newsom will US-Regierung wegen Entsendung der Nationalgarde verklagen",
     "Migrationspolitik - Innenminister Dobrindt lobt polnischen Einsatz an EU-Außengrenzen - Zusammenarbeit bei Grenzkontrollen angekündigt",
     "Auslandsgeheimdienst - BND-Präsident Kahl: Russland darf nicht unterschätzt werden",
     "Jemen - Israels Armee ruft zu Evakuierung dreier Häfen auf",
@@ -3003,11 +3001,11 @@
     "Kältewelle - Argentinien schränkt Gaslieferungen an Industrie ein",
     "USA - Republikanische Abweichler verzögern Abstimmung über Trumps Steuergesetz im Repräsentantenhaus",
     "Waldbrände in Deutschland: Feuerwehren kämpfen gegen Ausbreitung",
-    "Gesellschaft - Verbände fordern Bau hunderter neuer Schwimmbäder"
+    "Gesellschaft - Verbände fordern Bau hunderter neuer Schwimmbäder",
+    "Waldbrände - Feuerwehren kämpfen im Osten Deutschlands gegen mehrere Brände",
+    "Waldbrände - Feuer im Südosten von Kreta breiten sich aus"
   ],
   "hashes": [
-    "ad7fe9a392cc2855ec35943c44383c8f",
-    "e6aeed99510d86f33473fb3034a93d8e",
     "8d1d5c3fb84e9ab71362644ca83f82d4",
     "2158eac214867a4dc6baa66ba17b5dc0",
     "537c8d1e51f3f4e2f71ef2cff40e32ff",
@@ -4005,6 +4003,8 @@
     "ae589bd205a9f0566bedd64f37551c00",
     "e09aaf139941b7b83867f54f8ae523ed",
     "81746cef4fa792a1e42196be0b25d30c",
-    "faa34af19563865d356000d0ee4bd050"
+    "faa34af19563865d356000d0ee4bd050",
+    "e11878a54e585571bb099f8410167b20",
+    "52d888178b1c40bfd59dc51eed2ff418"
   ]
 }
