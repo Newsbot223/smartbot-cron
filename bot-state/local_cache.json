@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-lage-der-ukrainischen-luftverteidigung-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesverwaltungsgericht-verhandelt-ueber-compact-verbot-110526524.html",
-    "https://www.deutschlandfunk.de/spd-fraktionschef-miersch-setzt-weiterhin-auf-freiwilligen-wehrdienst-104.html",
-    "https://www.deutschlandfunk.de/eu-innenkommissar-brunner-sieht-schengen-abkommen-nicht-gefaehrdet-102.html",
     "https://www.deutschlandfunk.de/einbuergerungen-erreichen-2024-hoechststand-100.html",
     "https://www.faz.net/aktuell/politik/inland/so-viele-einbuergerungen-wieder-noch-nie-in-deutschland-110527413.html",
     "https://www.deutschlandfunk.de/umwelthilfe-verklagt-baden-wuerttemberg-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/wirtschaft/starnberg-arbeitnehmer-in-deutschlands-reichstem-landkreis-sind-angeblich-die-gesuendesten-a-ff960f29-f80b-40c4-ac0c-4b8f07e051f8#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/gesamtverteidigung-wie-wehrhaft-ist-deutschland-110572432.html",
     "https://www.deutschlandfunk.de/bund-will-laendern-entgegenkommen-100.html",
-    "https://www.deutschlandfunk.de/misstrauensvotum-gegen-die-eu-kommission-102.html"
+    "https://www.deutschlandfunk.de/misstrauensvotum-gegen-die-eu-kommission-102.html",
+    "https://www.deutschlandfunk.de/betriebsrat-rechnet-mit-weiterem-jobabbau-100.html",
+    "https://www.deutschlandfunk.de/aethiopien-gibt-vollendung-bekannt-100.html",
+    "https://www.spiegel.de/wirtschaft/uniper-verstaatlichter-gaskonzern-streicht-hunderte-stellen-a-8680fcca-c923-49e9-b224-9b8de52a5bfb#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/cdu-csu-und-spd-beim-koalitionsausschuss-als-das-gewitter-losbrach-110572745.html"
   ],
   "content_hashes": [
-    "34356ce3e73310b6147fa0d96a81864c",
-    "3fb5c93ed36b036dc5e63c33bf578436",
-    "aaa16faff00da08c75de9d74d8184d16",
-    "3a1ce512a6141313294422178f82d23b",
     "e144e382a01a8b571cc782056bf8f6e3",
     "5b91d0303ab65e0ef591395e9d4f61df",
     "61fc83ea64c975cff3cae7a83e6fb9bb",
@@ -2001,13 +1997,13 @@
     "6f4169294b51baa20a43c407eae91c37",
     "5569242f65ff1061da7071ca32cb8bcb",
     "0845e9ec4d266158ad2852bba218c1ef",
-    "c466d7afc313d15cf60edd73ca51cf81"
+    "c466d7afc313d15cf60edd73ca51cf81",
+    "50072b6614b5edb743a0039e5d00d7d2",
+    "17568a7c2fad54d48d6fcd7b15ac494a",
+    "7d3a4b2d3c4bc971fa32e9cdabbdf38a",
+    "2faac783dc63606f3218745cee04358f"
   ],
   "titles": [
-    "Krieg in der Ukraine - Massive Luftangriffe auf Kiew und Odessa",
-    "Bundesverwaltungsgericht verhandelt über Compact-Verbot",
-    "Bundeswehr - SPD-Fraktionschef Miersch setzt weiterhin auf freiwilligen Wehrdienst",
-    "Debatte über verschärfte Grenzkontrollen - EU-Innenkommissar Brunner sieht Schengen-Abkommen nicht gefährdet",
     "Statistisches Bundesamt - Einbürgerungen erreichen 2024 Höchststand",
     "So viele Einbürgerungen wieder noch nie in Deutschland",
     "Verfehlte Klimaziele - Umwelthilfe verklagt Baden-Württemberg",
@@ -3003,13 +2999,13 @@
     "Starnberg: Arbeitnehmer in Deutschlands reichstem Landkreis sind angeblich die gesündesten",
     "Deutschland im Kriegsfall: Aktuell nicht durchhaltefähig",
     "Klinikreform - Bund will Ländern entgegenkommen",
-    "EU-Kommission - Von der Leyen muss sich Misstrauensvotum stellen"
+    "EU-Kommission - Von der Leyen muss sich Misstrauensvotum stellen",
+    "Uniper - Betriebsrat rechnet mit weiterem Jobabbau",
+    "Nil-Staudamm - Äthiopien gibt Vollendung bekannt",
+    "Uniper: Verstaatlichter Gaskonzern streicht Hunderte Stellen",
+    "Koalitionsausschuss:  Als im Kanzleramt das Gewitter losbrach"
   ],
   "hashes": [
-    "0afc47d6794268d3a8683b1dab465b0c",
-    "1ac0d43d80979f0d1e72b3305d3331b2",
-    "dcb3a3e3c4ac4e086d0d8e41a6040666",
-    "9fe41e84dabac6c2d0f7d64e73312b0f",
     "7cfed1f2d11ce5f50f0254838830bb49",
     "578ce734e71cc7f19e74a883ebeb2f05",
     "9028422b56be4e0835e81d7735813938",
@@ -4005,6 +4001,10 @@
     "921819fc25160b233834ec1d8018d32c",
     "fc0223a32f2bef46b784f8782e6228fd",
     "d10bb85db42eada22220ecae1c32409c",
-    "bc8e5b408c968de14a21b61225786b22"
+    "bc8e5b408c968de14a21b61225786b22",
+    "4f5cd7934d29f1b7ba2364302f56782f",
+    "4e95890db9d293d87528e61af528aea1",
+    "61af2b3b2953aeef0dd16ed0b4d49b83",
+    "9e1e6161453c08972a8a399b4a928598"
   ]
 }
