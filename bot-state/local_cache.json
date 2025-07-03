@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/gesellschaft/eltern-mehr-als-ein-viertel-der-25-jaehrigen-wohnte-2024-noch-bei-mama-und-papa-a-496ad9c4-0c7b-48a9-9326-a5fe3f57eaed#ref=rss",
-    "https://www.deutschlandfunk.de/umweltminister-schneider-kuendigt-aktion-zur-vernichtung-von-weltkriegsmunition-an-100.html",
     "https://www.spiegel.de/panorama/gesellschaft/deutschland-zahl-der-einbuergerungen-steigt-laut-statistischem-bundesamt-auf-hoechststand-a-2c96420a-0d56-4519-a4c0-2eeddfd5f109#ref=rss",
     "https://www.deutschlandfunk.de/merz-uebernahme-nicht-akzeptabel-100.html",
     "https://www.faz.net/aktuell/politik/inland/in-deutschland-sind-juedische-politiker-kaum-sichtbar-110526279.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kongress-billigt-steuer-und-ausgabengesetz-von-praesident-trump-100.html",
     "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-kiew-102.html",
     "https://www.deutschlandfunk.de/flughaefen-in-teheran-wieder-geoeffnet-100.html",
-    "https://www.deutschlandfunk.de/zweiter-tag-des-fluglotsenstreiks-100.html"
+    "https://www.deutschlandfunk.de/zweiter-tag-des-fluglotsenstreiks-100.html",
+    "https://www.deutschlandfunk.de/prien-cdu-haelt-obergrenzen-an-schulen-fuer-kinder-mit-einem-migrationshintergrund-fuer-moeglich-100.html",
+    "https://www.deutschlandfunk.de/mutmassliche-spritzenattacken-auf-frauen-in-berliner-club-und-bayerischem-buergerfest-100.html"
   ],
   "content_hashes": [
-    "285d8d2401ebe61a84675991a17f6b75",
-    "80e410bb74c6ce7c2fdc44310dec486d",
     "99d11a1175d8d0a8562bbc85463e9a85",
     "7afbd4623944b3c21d60dd6b5e7a4ab6",
     "deefe5d7f357e68001433a715caec03a",
@@ -2001,11 +1999,11 @@
     "093c91a4c3ef104d5d4f7b050a64d135",
     "57c686a3ac41ffa54693d4bdefc44248",
     "9758875c525a3dca72193e8f5550de11",
-    "2d233a889a5e8461c2e4b99d129b362a"
+    "2d233a889a5e8461c2e4b99d129b362a",
+    "9889deffbd5e857dd9a510eb37c2432a",
+    "0c6de77cd8f7a0986d0d8da9d272e6f0"
   ],
   "titles": [
-    "Eltern: Mehr als ein Viertel der 25-Jährigen wohnte 2024 noch bei Mama und Papa",
-    "UNO-Ozeankonferenz - Umweltminister Schneider kündigt Aktion zur Vernichtung von Weltkriegsmunition an",
     "Deutschland: Zahl der Einbürgerungen steigt laut Statistischem Bundesamt auf Höchststand",
     "Commerzbank - Merz: Übernahme nicht akzeptabel",
     "Jüdische Politiker: In der deutschen Politik kaum sichtbar",
@@ -3003,11 +3001,11 @@
     "USA - Kongress billigt Steuer- und Ausgabengesetz von Präsident Trump",
     "Ukraine - Neue russische Angriffe auf Kiew",
     "Iran - Flughäfen in Teheran wieder geöffnet",
-    "Frankreich - Zweiter Tag des Fluglotsenstreiks"
+    "Frankreich - Zweiter Tag des Fluglotsenstreiks",
+    "Bundesbildungsministerin - Prien (CDU) hält Obergrenzen an Schulen für Kinder mit einem Migrationshintergrund für möglich",
+    "Mysteriöse Angriffe - Mutmaßliche Spritzenattacken auf Frauen in Berliner Club und bayerischem Bürgerfest"
   ],
   "hashes": [
-    "4c4c7a00a39650c7d69ac7631d09e65d",
-    "02f471ea47d0f8413abe8b3ffed89a0b",
     "10b0819583a9efd37ff8a1e23d1af7db",
     "bd196c0c1a9d296e5c807ce168a4f099",
     "057d47c2f6a81cf794cb1a0733a8b1bc",
@@ -4005,6 +4003,8 @@
     "0d3edcb3563d2388644ccdea844f3bde",
     "5a92e697bd8c9bed1bcce2d25cb211ab",
     "d771857c6f28f987331d23e20fb3c938",
-    "db1bc953b7a51c63ec54c7717d6446e1"
+    "db1bc953b7a51c63ec54c7717d6446e1",
+    "134a6dffb860eeaf9a42c11bccaf8b45",
+    "63626f3ec45e480ed620e0c6050a5b40"
   ]
 }
