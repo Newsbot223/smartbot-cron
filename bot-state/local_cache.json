@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bnd-praesident-kahl-russland-darf-nicht-unterschaetzt-werden-102.html",
-    "https://www.deutschlandfunk.de/israels-armee-ruft-zu-evakuierung-dreier-haefen-auf-100.html",
-    "https://www.deutschlandfunk.de/trump-rechtfertigt-einsatz-der-nationalgarde-gouverneur-newsom-reicht-klage-ein-100.html",
     "https://www.deutschlandfunk.de/bundesverwaltungsgericht-verhandelt-ueber-das-verbot-des-rechtsextremen-magazins-compact-100.html",
     "https://www.deutschlandfunk.de/pentagon-sendet-700-us-streitkraefte-nach-los-angeles-gouverneur-newsom-kuendigt-klage-an-100.html",
     "https://www.deutschlandfunk.de/bundesverfassungsschutz-legt-jahresbericht-vor-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/verbaende-fordern-bau-hunderter-neuer-schwimmbaeder-100.html",
     "https://www.deutschlandfunk.de/feuerwehren-kaempfen-im-osten-deutschlands-gegen-mehrere-braende-102.html",
     "https://www.deutschlandfunk.de/feuer-im-suedosten-von-kreta-breiten-sich-aus-100.html",
-    "https://www.deutschlandfunk.de/afd-fragt-vornamen-von-buergergeldempfaengern-ab-michael-andreas-und-thomas-100.html"
+    "https://www.deutschlandfunk.de/afd-fragt-vornamen-von-buergergeldempfaengern-ab-michael-andreas-und-thomas-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-russischer-general-getoetet-100.html",
+    "https://www.deutschlandfunk.de/mehrheit-der-deutschen-gegen-begleitetes-trinken-ab-100.html",
+    "https://www.deutschlandfunk.de/gewerkschaft-ruft-zeitungsjournalisten-zum-warnstreik-auf-100.html"
   ],
   "content_hashes": [
-    "2243f558470cc48d6981bb01441eb72a",
-    "f0aebfd4e06205d43b535445b90a9d1f",
-    "4c8bffb97b273bfd67331b549024eeaf",
     "12a7f81eeb37430b2261afd3373d4aa3",
     "31a273a680340a1895f5069f7df51725",
     "f61388c3fc008f67c2949a98915e2fe8",
@@ -2001,12 +1998,12 @@
     "dd0d4ab54ea2011636509072dd29adb2",
     "68a2e501bb876c0b54090b15abe83d2b",
     "297096d41f9c10956f104b6ea2b6b04c",
-    "5f805261eaacba8b727e785945ab6d11"
+    "5f805261eaacba8b727e785945ab6d11",
+    "644a6b961465cb83ceb370c337562873",
+    "f3679631799002b80845851bd800d226",
+    "dc393f2e5bddd0be2e768115384883bd"
   ],
   "titles": [
-    "Auslandsgeheimdienst - BND-Präsident Kahl: Russland darf nicht unterschätzt werden",
-    "Jemen - Israels Armee ruft zu Evakuierung dreier Häfen auf",
-    "Los Angeles - Trump rechtfertigt Einsatz der Nationalgarde - Gouverneur Newsom reicht Klage ein",
     "Leipzig - Bundesverwaltungsgericht verhandelt über das Verbot des rechtsextremen Magazins \"Compact\"",
     "A - Pentagon sendet 700 US-Streitkräfte nach Los Angeles - Gouverneur Newsom kündigt Klage an",
     "Extremismus - Bundesverfassungsschutz legt Jahresbericht vor",
@@ -3003,12 +3000,12 @@
     "Gesellschaft - Verbände fordern Bau hunderter neuer Schwimmbäder",
     "Waldbrände - Feuerwehren kämpfen im Osten Deutschlands gegen mehrere Brände",
     "Waldbrände - Feuer im Südosten von Kreta breiten sich aus",
-    "Sozialleistungen - AfD fragt Vornamen von Bürgergeldempfängern ab: Michael, Andreas und Thomas"
+    "Sozialleistungen - AfD fragt Vornamen von Bürgergeldempfängern ab: Michael, Andreas und Thomas",
+    "Ukraine - Tote und Verletzte nach russischen Angriffen - Russischer General getötet",
+    "KKH-Umfrage - Mehrheit der Deutschen gegen \"begleitetes Trinken\" ab 14",
+    "DJV - Gewerkschaft ruft Zeitungsjournalisten zum Warnstreik auf"
   ],
   "hashes": [
-    "2158eac214867a4dc6baa66ba17b5dc0",
-    "537c8d1e51f3f4e2f71ef2cff40e32ff",
-    "dab74714dbb2b9f8d7eed07fe5eca93d",
     "8a7ff5c9fc7ac98b67915d90c86d7a8a",
     "458aca5bf3baf8280004f091f6731c72",
     "1fdb88ec76d01ee468176a7ac7806d1e",
@@ -4005,6 +4002,9 @@
     "faa34af19563865d356000d0ee4bd050",
     "e11878a54e585571bb099f8410167b20",
     "52d888178b1c40bfd59dc51eed2ff418",
-    "1473f72a652eb454e59a9f7d57ef6dcb"
+    "1473f72a652eb454e59a9f7d57ef6dcb",
+    "b8907c86971c07e992754d3eca3abc66",
+    "c5811e3496083fb24769ec2e2e053927",
+    "6578e9391fdcbc66a697fce4a0336e99"
   ]
 }
