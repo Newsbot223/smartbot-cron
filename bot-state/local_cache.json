@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ernteausfaelle-bei-kartoffeln-und-anderem-gemuese-durch-pflanzenkrankheit-102.html",
     "https://www.deutschlandfunk.de/national-oper-odessa-tenor-vladyslav-horai-bei-freiwilligeneinsatz-in-sumy-gestorben-104.html",
     "https://www.faz.net/aktuell/politik/inland/museumsstreit-in-nrw-endstation-schaudepot-110521605.html",
     "https://www.deutschlandfunk.de/was-macht-die-informationsflut-mit-dem-gehirn-martin-korte-neurobiologe-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/daenemark-laeutet-eu-ratspraesidentschaft-ein-100.html",
     "https://www.deutschlandfunk.de/einwohner-und-touristen-auf-kreta-evakuiert-100.html",
     "https://www.deutschlandfunk.de/viele-vermisste-nach-faehrunglueck-vor-bali-100.html",
-    "https://www.deutschlandfunk.de/vermisste-nach-explosion-in-feuerwerkskoerper-lagerhalle-100.html"
+    "https://www.deutschlandfunk.de/vermisste-nach-explosion-in-feuerwerkskoerper-lagerhalle-100.html",
+    "https://www.deutschlandfunk.de/streik-der-fluglotsen-in-frankreich-100.html"
   ],
   "content_hashes": [
-    "031a2876ec0d5f823eee0e5327721917",
     "73e4ed874c62829cfc7a7eafcd4adf6a",
     "4cc26bdb62d4b7fba0b565894a5d3f44",
     "8867081ced709269e4cc2da964c66a21",
@@ -2001,10 +2000,10 @@
     "76d494ead2d76f1b805fb82e5d708a38",
     "27dcd46bc4a0045c1a53e5b22b1ac084",
     "55cc3aad03e8c8cd536e1419e12b27f7",
-    "26020475fa0dfa2df32b5744fea484b0"
+    "26020475fa0dfa2df32b5744fea484b0",
+    "5b76a210d2501ccf26d36671b048aa5a"
   ],
   "titles": [
-    "Landwirtschaft - Ernteausfälle bei Kartoffeln und anderem Gemüse durch Pflanzenkrankheit",
     "Ukraine - National-Oper Odessa: Tenor Vladyslav Horai bei Freiwilligeneinsatz in Sumy gestorben",
     "Museumsstreit in NRW: Endstation Schaudepot",
     "Smartphone-Nutzung - Jugendliche Gehirne benötigen besonderen Schutz",
@@ -3003,10 +3002,10 @@
     "Aarhus - Dänemark läutet EU-Ratspräsidentschaft ein",
     "Waldbrände - Einwohner und Touristen auf Kreta evakuiert",
     "Indonesien - Viele Vermisste nach Fährunglück vor Bali",
-    "USA - Vermisste nach Explosion in Feuerwerkskörper-Lagerhalle"
+    "USA - Vermisste nach Explosion in Feuerwerkskörper-Lagerhalle",
+    "Behinderungen im Flugverkehr - Streik der Fluglotsen in Frankreich"
   ],
   "hashes": [
-    "4558abcc7a69247e34dc3c6bdf4295c4",
     "084d3676f9c3f4f97033a3fb227763b2",
     "00f51ae7894022ccf5573e84e1613014",
     "ebe62df8d3d8e670ab1298c9c7765d80",
@@ -4005,6 +4004,7 @@
     "7c2c0c4d97cfa0a0182b6ef231445ade",
     "ddf1ac481c527309ab657103e9abcb6b",
     "aef88f71d7437dfd0f80fc921c6ac4a4",
-    "b39549eac18e52a4e100cbf3fcfcd0f8"
+    "b39549eac18e52a4e100cbf3fcfcd0f8",
+    "89d62d43ca22ee3fb77607cd429183c1"
   ]
 }
