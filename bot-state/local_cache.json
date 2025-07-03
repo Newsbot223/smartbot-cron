@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesverwaltungsgericht-verhandelt-ueber-das-verbot-des-rechtsextremen-magazins-compact-100.html",
-    "https://www.deutschlandfunk.de/pentagon-sendet-700-us-streitkraefte-nach-los-angeles-gouverneur-newsom-kuendigt-klage-an-100.html",
     "https://www.deutschlandfunk.de/bundesverfassungsschutz-legt-jahresbericht-vor-100.html",
     "https://www.deutschlandfunk.de/direkte-eurostar-verbindung-nach-london-geplant-100.html",
     "https://www.deutschlandfunk.de/regierung-entsendet-weitere-soldaten-nach-los-angeles-newsom-geht-trump-nur-um-sein-ego-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/afd-fragt-vornamen-von-buergergeldempfaengern-ab-michael-andreas-und-thomas-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-russischer-general-getoetet-100.html",
     "https://www.deutschlandfunk.de/mehrheit-der-deutschen-gegen-begleitetes-trinken-ab-100.html",
-    "https://www.deutschlandfunk.de/gewerkschaft-ruft-zeitungsjournalisten-zum-warnstreik-auf-100.html"
+    "https://www.deutschlandfunk.de/gewerkschaft-ruft-zeitungsjournalisten-zum-warnstreik-auf-100.html",
+    "https://www.deutschlandfunk.de/ukrainische-armee-toetet-vize-chef-der-russischen-marine-100.html",
+    "https://www.spiegel.de/panorama/waldbraende-in-deutschland-feuerwehren-kaempfen-gegen-flammen-in-sachsen-brandenburg-und-thueringen-a-a9eb591c-1819-45b8-9727-1b6137080c8e#ref=rss"
   ],
   "content_hashes": [
-    "12a7f81eeb37430b2261afd3373d4aa3",
-    "31a273a680340a1895f5069f7df51725",
     "f61388c3fc008f67c2949a98915e2fe8",
     "528b4d6c735c34b2c888598f6e2fd137",
     "7f9285f8352e48d84404a3a9b6829492",
@@ -2001,11 +1999,11 @@
     "5f805261eaacba8b727e785945ab6d11",
     "644a6b961465cb83ceb370c337562873",
     "f3679631799002b80845851bd800d226",
-    "dc393f2e5bddd0be2e768115384883bd"
+    "dc393f2e5bddd0be2e768115384883bd",
+    "9fc7f1cba0dabb748f94850bf8ff8cb6",
+    "79567dd8166e989b32820a49a672ea14"
   ],
   "titles": [
-    "Leipzig - Bundesverwaltungsgericht verhandelt über das Verbot des rechtsextremen Magazins \"Compact\"",
-    "A - Pentagon sendet 700 US-Streitkräfte nach Los Angeles - Gouverneur Newsom kündigt Klage an",
     "Extremismus - Bundesverfassungsschutz legt Jahresbericht vor",
     "Zugverkehr - Direkte Eurostar-Verbindung nach London geplant",
     "USA - Regierung entsendet weitere Soldaten nach Los Angeles - Newsom: \"Geht Trump nur um sein Ego\"",
@@ -3003,11 +3001,11 @@
     "Sozialleistungen - AfD fragt Vornamen von Bürgergeldempfängern ab: Michael, Andreas und Thomas",
     "Ukraine - Tote und Verletzte nach russischen Angriffen - Russischer General getötet",
     "KKH-Umfrage - Mehrheit der Deutschen gegen \"begleitetes Trinken\" ab 14",
-    "DJV - Gewerkschaft ruft Zeitungsjournalisten zum Warnstreik auf"
+    "DJV - Gewerkschaft ruft Zeitungsjournalisten zum Warnstreik auf",
+    "Ukraine-Krieg - Ukrainische Armee tötet Vize-Chef der russischen Marine",
+    "Waldbrände in Deutschland: Feuerwehren kämpfen gegen Flammen in Sachsen, Brandenburg und Thüringen"
   ],
   "hashes": [
-    "8a7ff5c9fc7ac98b67915d90c86d7a8a",
-    "458aca5bf3baf8280004f091f6731c72",
     "1fdb88ec76d01ee468176a7ac7806d1e",
     "e005b40553cbde0ef8ffc5282474a4e1",
     "793b2bb51abba36d7dc2835d5f6a859b",
@@ -4005,6 +4003,8 @@
     "1473f72a652eb454e59a9f7d57ef6dcb",
     "b8907c86971c07e992754d3eca3abc66",
     "c5811e3496083fb24769ec2e2e053927",
-    "6578e9391fdcbc66a697fce4a0336e99"
+    "6578e9391fdcbc66a697fce4a0336e99",
+    "5efa731a996f7f0df7b17aa57dcf52bc",
+    "b68d72eecd7889d8d3f89dda46675caf"
   ]
 }
