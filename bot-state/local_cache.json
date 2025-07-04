@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wissenschaft/natur/goldschakal-auf-sylt-werden-sich-weiter-ausbreiten-das-ist-sehr-wahrscheinlich-a-adeb6959-f1e7-47d6-97b9-63e71379ecb1#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/gruene-jugend-kritisiert-gruen-gefuehrte-landesregierung-in-baden-wuerttemberg-a-060a352f-4e89-42ab-b9fc-ee413559ff5d#ref=rss",
     "https://www.deutschlandfunk.de/slowakei-droht-mit-veto-gegen-russland-sanktionen-100.html",
     "https://www.faz.net/aktuell/politik/inland/freie-sachsen-rechtsextremist-gesteht-wahlmanipulation-110529884.html",
     "https://www.deutschlandfunk.de/ein-viertel-der-eingewanderten-in-deutschland-denkt-ueber-auswanderung-nach-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/diskussion-ueber-migranten-quote-im-klassenzimmer-100.html",
     "https://www.deutschlandfunk.de/beruechtigter-bandenchef-aus-schweden-in-tuerkei-festgenommen-100.html",
     "https://www.deutschlandfunk.de/vw-trennt-sich-von-personalchef-kilian-100.html",
-    "https://www.spiegel.de/politik/ukraine-bundesregierung-erwaegt-beschaffung-von-patriot-systemen-in-den-usa-a-145e6822-1325-4f8f-8509-7d26abc58a8e#ref=rss"
+    "https://www.spiegel.de/politik/ukraine-bundesregierung-erwaegt-beschaffung-von-patriot-systemen-in-den-usa-a-145e6822-1325-4f8f-8509-7d26abc58a8e#ref=rss",
+    "https://www.deutschlandfunk.de/merz-telefoniert-mit-trump-zur-flugabwehr-fuer-die-ukraine-gespraech-auch-zwischen-selenskyj-und-dem-100.html",
+    "https://www.deutschlandfunk.de/massiver-stromausfall-in-tschechien-wieder-behoben-keine-hinweise-auf-sabotage-100.html"
   ],
   "content_hashes": [
-    "043442d32fd56b23c27a645e7b7d47f9",
-    "e5a5a122aa06289c1b206fc46c02603b",
     "12ab4f09e8451b2b3a7162d3282303cc",
     "a8cd1ce976f911a8d51c087b1f8721c2",
     "631360cd78171ae0472dbbc88d8bfa0f",
@@ -2001,11 +1999,11 @@
     "00c7feed9350a16ee1a1adecd2b5afa7",
     "c12805cd25b4c5ae08c2f7e651ee0ac5",
     "4e92661cf1df642ca7e049157a3d2ff7",
-    "49be7da2e80fe79bd3bf13ddceab4152"
+    "49be7da2e80fe79bd3bf13ddceab4152",
+    "51f6409ba4bc9e7dbd8ea100f9d6f665",
+    "fa0707a4e992cc5c9d6984956690c18f"
   ],
   "titles": [
-    "Goldschakal auf Sylt: »Werden sich weiter ausbreiten, das ist sehr wahrscheinlich«",
-    "Grüne Jugend kritisiert grün geführte Landesregierung in Baden-Württemberg",
     "Pläne der EU-Kommission - Slowakei droht mit Veto gegen Russland-Sanktionen",
     "Rechtsextremist gesteht Wahlfälschung für „Freie Sachsen“",
     "Migration - Ein Viertel der Eingewanderten in Deutschland denkt über Auswanderung nach",
@@ -3003,11 +3001,11 @@
     "Bildungspolitik - Diskussion über Migranten-Quote im Klassenzimmer",
     "Kriminalität - Berüchtigter Bandenchef aus Schweden in Türkei festgenommen",
     "Volkswagen-Konzern - VW trennt sich von Personalchef Kilian",
-    "Ukraine: Bundesregierung erwägt Beschaffung von Patriot-Systemen in den USA"
+    "Ukraine: Bundesregierung erwägt Beschaffung von Patriot-Systemen in den USA",
+    "\"Spiegel\"-Bericht - Merz telefoniert mit Trump zur Flugabwehr für die Ukraine - Gespräch auch zwischen Selenskyj und dem US-Präsidenten",
+    "Prag und große Teile des Landes - Massiver Stromausfall in Tschechien wieder behoben - keine Hinweise auf Sabotage"
   ],
   "hashes": [
-    "9a099bd62d0e48b23f99b3dae120462e",
-    "7c4c78d269b01976274b6948092f522f",
     "864977ca69e83f44a1977ec1fa4e32c5",
     "828550ff224335eeb851fd64b51b43d3",
     "604e630a453966bc0dad03829f18d275",
@@ -4005,6 +4003,8 @@
     "bf709ce374153213af270de2044508a4",
     "1b513cbf55bfcebcf065c9c600a832d1",
     "2f2cb1bfbcd4f8d46f21bc6153a4daa4",
-    "3b30ba0b124a82f88deaf4fc29faa4af"
+    "3b30ba0b124a82f88deaf4fc29faa4af",
+    "ded6a213500e75551e934758e8749624",
+    "4a10d8f98feb206759f575a17eae276e"
   ]
 }
