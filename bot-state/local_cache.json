@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-sieht-keine-gefahr-durch-privat-organisierte-grenzkontrollen-102.html",
-    "https://www.deutschlandfunk.de/neue-eu-sanktionen-sollen-russlands-energie-und-bankensektor-treffen-100.html",
     "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-ordnet-staatstrauer-an-100.html",
     "https://www.deutschlandfunk.de/mindestens-vier-tote-bei-angriffsserie-auf-staatliche-einrichtungen-100.html",
     "https://www.deutschlandfunk.de/bolsonaro-bestreitet-vor-gericht-versuchten-staatsstreich-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-feiert-sieg-ueber-steuergesetz-mit-anhaengern-kritik-von-demokraten-100.html",
     "https://www.deutschlandfunk.de/waldbrand-in-gohrischheide-weiter-ausser-kontrolle-auch-braende-in-anderen-teilen-europas-100.html",
     "https://www.deutschlandfunk.de/guenther-cdu-kritisiert-beschluesse-des-koalitionsausschusses-102.html",
-    "https://www.deutschlandfunk.de/flixbus-kippt-um-20-menschen-verletzt-100.html"
+    "https://www.deutschlandfunk.de/flixbus-kippt-um-20-menschen-verletzt-100.html",
+    "https://www.deutschlandfunk.de/usa-steuergesetz-im-repraesentantenhaus-100.html",
+    "https://www.spiegel.de/wirtschaft/friedrich-merz-wirtschaftsverbaende-werfen-kanzler-im-streit-ueber-stromsteuer-wortbruch-vor-a-47782567-1a48-4daf-8bca-0f320fff9883#ref=rss"
   ],
   "content_hashes": [
-    "6ce3be1fa6e45a09e4255da3cbe5b0f4",
-    "12e6149cb5bd2ed4fff9aee4605e8722",
     "24ad3386547d0a0728ee376d3f95963b",
     "d907fb04f520ffe363f131d9759c1271",
     "5fd7e6b2b0c71ef151e923b5d5068d37",
@@ -2001,11 +1999,11 @@
     "b3cbccdee150aec2a57744a462e0c86c",
     "084a94dd74f9736284202b95a8555664",
     "6f0754934b91d369980f49b6984b4fc6",
-    "22b47e1bdfff600ee07bbf6f506498c1"
+    "22b47e1bdfff600ee07bbf6f506498c1",
+    "04cdfe13ecf8e22c0553a3618e77a75f",
+    "b5d3cc76ef21a2cc69301d3af5ec1c77"
   ],
   "titles": [
-    "Schoof zu Besuch in Berlin - Merz sieht keine Gefahr durch privat organisierte Grenzkontrollen",
-    "Ukraine-Krieg - Neue EU-Sanktionen sollen Russlands Energie- und Bankensektor treffen",
     "Nach Amoklauf an Schule - Österreichs Kanzler Stocker ordnet Staatstrauer an",
     "Kolumbien - Mindestens vier Tote bei Angriffsserie auf staatliche Einrichtungen",
     "Prozess in Brasilien - Bolsonaro bestreitet vor Gericht versuchten Staatsstreich",
@@ -3003,11 +3001,11 @@
     "USA - Trump feiert Sieg über Steuergesetz mit Anhängern - Kritik von Demokraten",
     "Feuer - Waldbrand in Gohrischheide weiter außer Kontrolle - auch Brände in anderen Teilen Europas",
     "\"Eigenartige Prioritätensetzung\" - Günther (CDU) kritisiert Beschlüsse des Koalitionsausschusses",
-    "Unfall A 19 - Flixbus kippt um - 20 Menschen verletzt"
+    "Unfall A 19 - Flixbus kippt um - 20 Menschen verletzt",
+    "USA - Trumps Steuer- und Ausgabengesetz nimmt letzte Hürde",
+    "Friedrich Merz: Wirtschaftsverbände werfen Kanzler im Streit über Stromsteuer Wortbruch vor"
   ],
   "hashes": [
-    "5b49641bfbc01b34baa48495a205ee68",
-    "2fac58b41d21a4653d8b3e4899ba0d07",
     "610ddd7a3a55352ad3c8b136d493020d",
     "05261fa603ee70f7524aefb769498e2a",
     "7273ab7068743e61da859867e6b800f3",
@@ -4005,6 +4003,8 @@
     "4c96252b7f5e14fb11360d236ade675e",
     "e31775be6521710f9f156beb6461d293",
     "1b48027dd580f7bc70fa7b72ee89fa56",
-    "5b760a607c2453176b551c30efc25e0d"
+    "5b760a607c2453176b551c30efc25e0d",
+    "4a039690983d2c649f551db9ff1ebe7a",
+    "a9dd814f65d361961048e7b85bb9cebc"
   ]
 }
