@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/verhandlung-ueber-compact-verbot-nun-wird-entschieden-110528568.html",
-    "https://www.deutschlandfunk.de/viele-tote-nach-amoktat-an-schule-in-graz-kanzler-ordnet-staatstrauer-an-100.html",
     "https://www.deutschlandfunk.de/merz-sieht-keine-gefahr-durch-privat-organisierte-grenzkontrollen-102.html",
     "https://www.deutschlandfunk.de/neue-eu-sanktionen-sollen-russlands-energie-und-bankensektor-treffen-100.html",
     "https://www.deutschlandfunk.de/oesterreichs-kanzler-stocker-ordnet-staatstrauer-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/offenbar-erneut-fast-100-palaestinenser-bei-israelischen-militaereinsaetzen-im-gazastreifen-getoetet-100.html",
     "https://www.deutschlandfunk.de/mehr-als-eintausend-feuerwehrleute-bekaempfen-mehrere-braende-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/trump-feiert-sieg-ueber-steuergesetz-mit-anhaengern-kritik-von-demokraten-100.html",
-    "https://www.deutschlandfunk.de/waldbrand-in-gohrischheide-weiter-ausser-kontrolle-auch-braende-in-anderen-teilen-europas-100.html"
+    "https://www.deutschlandfunk.de/waldbrand-in-gohrischheide-weiter-ausser-kontrolle-auch-braende-in-anderen-teilen-europas-100.html",
+    "https://www.deutschlandfunk.de/guenther-cdu-kritisiert-beschluesse-des-koalitionsausschusses-102.html",
+    "https://www.deutschlandfunk.de/flixbus-kippt-um-20-menschen-verletzt-100.html"
   ],
   "content_hashes": [
-    "00c4c23c735eb4ab12145429c70061b5",
-    "764571cce3b790a13d6ee1d4dc424d7e",
     "6ce3be1fa6e45a09e4255da3cbe5b0f4",
     "12e6149cb5bd2ed4fff9aee4605e8722",
     "24ad3386547d0a0728ee376d3f95963b",
@@ -2001,11 +1999,11 @@
     "e6be5563f725bb40005968f88bd51cf4",
     "c4b14b0b69b86bfcf3f830a8445e5e69",
     "b3cbccdee150aec2a57744a462e0c86c",
-    "084a94dd74f9736284202b95a8555664"
+    "084a94dd74f9736284202b95a8555664",
+    "6f0754934b91d369980f49b6984b4fc6",
+    "22b47e1bdfff600ee07bbf6f506498c1"
   ],
   "titles": [
-    "„Compact“-Verbot: An den Grenzen der Pressefreiheit",
-    "Österreich - Viele Tote nach Amoktat an Schule in Graz - Kanzler ordnet Staatstrauer an",
     "Schoof zu Besuch in Berlin - Merz sieht keine Gefahr durch privat organisierte Grenzkontrollen",
     "Ukraine-Krieg - Neue EU-Sanktionen sollen Russlands Energie- und Bankensektor treffen",
     "Nach Amoklauf an Schule - Österreichs Kanzler Stocker ordnet Staatstrauer an",
@@ -3003,11 +3001,11 @@
     "Nahostkrieg - Offenbar erneut fast 100 Palästinenser bei israelischen Militäreinsätzen im Gazastreifen getötet",
     "Feuer - Mehr als eintausend Feuerwehrleute bekämpfen mehrere Brände in Deutschland",
     "USA - Trump feiert Sieg über Steuergesetz mit Anhängern - Kritik von Demokraten",
-    "Feuer - Waldbrand in Gohrischheide weiter außer Kontrolle - auch Brände in anderen Teilen Europas"
+    "Feuer - Waldbrand in Gohrischheide weiter außer Kontrolle - auch Brände in anderen Teilen Europas",
+    "\"Eigenartige Prioritätensetzung\" - Günther (CDU) kritisiert Beschlüsse des Koalitionsausschusses",
+    "Unfall A 19 - Flixbus kippt um - 20 Menschen verletzt"
   ],
   "hashes": [
-    "f78998c36c335995300e296e7a942fbe",
-    "aedcfd0e5e408e16db5edb5238cb9866",
     "5b49641bfbc01b34baa48495a205ee68",
     "2fac58b41d21a4653d8b3e4899ba0d07",
     "610ddd7a3a55352ad3c8b136d493020d",
@@ -4005,6 +4003,8 @@
     "e7e7602e9541f7f633e2a7f6dec51391",
     "95087ca2cbc38e07e754be70722588a1",
     "4c96252b7f5e14fb11360d236ade675e",
-    "e31775be6521710f9f156beb6461d293"
+    "e31775be6521710f9f156beb6461d293",
+    "1b48027dd580f7bc70fa7b72ee89fa56",
+    "5b760a607c2453176b551c30efc25e0d"
   ]
 }
