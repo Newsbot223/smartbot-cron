@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/800-polizisten-durchsuchen-stadtviertel-von-anderlecht-100.html",
-    "https://www.deutschlandfunk.de/deutscher-botschafter-in-kiew-soll-neuer-bnd-praesident-werden-100.html",
-    "https://www.deutschlandfunk.de/agrarminister-rainer-waelder-stehen-unter-dauerstress-100.html",
-    "https://www.deutschlandfunk.de/nach-amoklauf-in-graz-polizei-findet-plaene-fuer-sprengstoffanschlag-100.html",
     "https://www.deutschlandfunk.de/grundsaetzliche-einigung-im-handelskonflikt-was-china-und-die-usa-laut-trump-vereinbart-haben-100.html",
     "https://www.deutschlandfunk.de/hoergeraete-kette-kind-wird-von-daenischem-unternehmen-uebernommen-100.html",
     "https://www.deutschlandfunk.de/ministerpraesident-tusk-uebersteht-vertrauensfrage-im-parlament-in-warschau-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/massiver-stromausfall-in-tschechien-wieder-behoben-keine-hinweise-auf-sabotage-100.html",
     "https://www.deutschlandfunk.de/stromsteuer-debatte-mehrere-ministerpraesidenten-fordern-entlastung-fuer-verbraucher-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-cdu-zu-infrastrukturmassnahmen-freue-mich-ueber-jede-baustelle-100.html",
-    "https://www.deutschlandfunk.de/frueherer-labour-chef-corbyn-will-neue-linke-partei-gruenden-100.html"
+    "https://www.deutschlandfunk.de/frueherer-labour-chef-corbyn-will-neue-linke-partei-gruenden-100.html",
+    "https://www.deutschlandfunk.de/von-der-leyen-mit-moldaus-beitritt-zur-eu-werden-alle-sicherer-sein-100.html",
+    "https://www.deutschlandfunk.de/streit-ueber-sitzungssaal-afd-fraktion-klagt-vor-bundesverfassungsgericht-100.html",
+    "https://www.deutschlandfunk.de/deutsche-diplomaten-fordern-ein-ende-der-siedlergewalt-gegen-palaestinenser-100.html",
+    "https://www.deutschlandfunk.de/explosion-an-tankstelle-in-rom-mindestens-45-verletzte-100.html"
   ],
   "content_hashes": [
-    "cf9aba62741305e28d9c2c192fd7415a",
-    "45e4842688aa66ccb8509027bd289962",
-    "23a651d2dd3e9dcff6deb1b7db3b0b98",
-    "2ef0ee46d526000a696614d59faa5bfa",
     "92848d8edcc9206f5f977b01349821d1",
     "ea75f59344d60a916f0f676cb46e3e22",
     "369149380136d16f98af101dc72f7e22",
@@ -2001,13 +1997,13 @@
     "fa0707a4e992cc5c9d6984956690c18f",
     "604efc838a6ca2c9c99ace5f0b2c4655",
     "6fffed929fb75fa4b1a5779cb69bd083",
-    "9af8413e4bc767f3de7df88a74713ed2"
+    "9af8413e4bc767f3de7df88a74713ed2",
+    "d19fbb22ddd85a4cf010af54bc982be2",
+    "0ac145f4ef5669ff6238a66aa9fa67db",
+    "b506fc543b62dcae973ede6680697128",
+    "f064828b908acb2788e2247f6a770486"
   ],
   "titles": [
-    "Kampf gegen Drogenhandel - 800 Polizisten durchsuchen Stadtviertel von Anderlecht",
-    "\"Spiegel\" - Deutscher Botschafter in Kiew soll neuer BND-Präsident werden",
-    "Ökologie - Agrarminister Rainer: Wälder stehen unter Dauerstress",
-    "Österreich - Nach Amoklauf in Graz: Polizei findet Pläne für Sprengstoffanschlag",
     "Abbau von Exportbeschränkungen - Grundsätzliche Einigung im Handelskonflikt: Was China und die USA laut Trump vereinbart haben",
     "Besitzerwechsel - Hörgeräte-Kette Kind wird von dänischem Unternehmen übernommen",
     "Polen - Ministerpräsident Tusk übersteht Vertrauensfrage im Parlament in Warschau",
@@ -3003,13 +2999,13 @@
     "Prag und große Teile des Landes - Massiver Stromausfall in Tschechien wieder behoben - keine Hinweise auf Sabotage",
     "Politik - Stromsteuer-Debatte: Mehrere Ministerpräsidenten fordern Entlastung für Verbraucher",
     "\"Interview der Woche\" - Bundesverkehrsminister Schnieder (CDU) zu Infrastrukturmaßnahmen: \"Freue mich über jede Baustelle\"",
-    "Großbritannien - Früherer Labour-Chef Corbyn will neue linke Partei gründen"
+    "Großbritannien - Früherer Labour-Chef Corbyn will neue linke Partei gründen",
+    "EU-Moldau-Gipfel - Von der Leyen: \"Mit Moldaus Beitritt zur EU werden alle sicherer sein\"",
+    "Bundestag - Streit über Sitzungssaal: AfD-Fraktion klagt vor Bundesverfassungsgericht",
+    "Nahost - Deutsche Diplomaten fordern ein Ende der Siedlergewalt gegen Palästinenser",
+    "Italien - Explosion an Tankstelle in Rom - mindestens 45 Verletzte"
   ],
   "hashes": [
-    "1c99d10cffa4a53a8bea66abeade1313",
-    "171ef8c643024be27e937f81e83f630f",
-    "712cb4a8384f01b1abb7120d2e5161d5",
-    "d5d78e2ccad008016e4fe1e902d14b6c",
     "dfee4a0eb663d207f0e40d787baf81b4",
     "28bc50bdac6baa2e1dd60b4988ae5964",
     "7dc65979446fa55c52b07b677eca49ce",
@@ -4005,6 +4001,10 @@
     "4a10d8f98feb206759f575a17eae276e",
     "9b4aaa91f952d1af27a47a717c8152a3",
     "f30083be926cdd50831ec05946f13ebc",
-    "d775b382ac51fd4375d35b512e317458"
+    "d775b382ac51fd4375d35b512e317458",
+    "cd65ea29c7190dd1419b579c48d58254",
+    "2188a03118129497a57b181a19394e84",
+    "fceb26ee7a98d097d05f2f05d5f4699e",
+    "f8d6dea3eef31ed49493fcbdd956ab47"
   ]
 }
