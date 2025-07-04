@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/das-steht-im-manifest-von-spd-politikern-100.html",
-    "https://www.deutschlandfunk.de/reporter-ohne-grenzen-zahlreiche-angriffe-auf-journalisten-in-los-angeles-100.html",
-    "https://www.deutschlandfunk.de/schweigeminute-nach-amoklauf-in-graz-100.html",
-    "https://www.deutschlandfunk.de/spd-politiker-fordern-andere-aussenpolitik-interview-ralf-stegner-spd-100.html",
     "https://www.spiegel.de/wissenschaft/natur/goldschakal-auf-sylt-werden-sich-weiter-ausbreiten-das-ist-sehr-wahrscheinlich-a-adeb6959-f1e7-47d6-97b9-63e71379ecb1#ref=rss",
     "https://www.spiegel.de/politik/deutschland/gruene-jugend-kritisiert-gruen-gefuehrte-landesregierung-in-baden-wuerttemberg-a-060a352f-4e89-42ab-b9fc-ee413559ff5d#ref=rss",
     "https://www.deutschlandfunk.de/slowakei-droht-mit-veto-gegen-russland-sanktionen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/oesterreichischer-rechtsextremist-martin-sellner-darf-nicht-in-rathaus-chemnitz-auftreten-100.html",
     "https://www.deutschlandfunk.de/explosion-an-tankstelle-in-rom-mehrere-verletzte-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-wirft-russland-verstoss-gegen-chemiewaffen-uebereinkommen-vor-104.html",
-    "https://www.deutschlandfunk.de/der-tibetische-premierminister-penpa-tsering-ueber-die-nachfolge-des-dalai-lama-100.html"
+    "https://www.deutschlandfunk.de/der-tibetische-premierminister-penpa-tsering-ueber-die-nachfolge-des-dalai-lama-100.html",
+    "https://www.deutschlandfunk.de/diskussion-ueber-migranten-quote-im-klassenzimmer-100.html",
+    "https://www.deutschlandfunk.de/beruechtigter-bandenchef-aus-schweden-in-tuerkei-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/vw-trennt-sich-von-personalchef-kilian-100.html",
+    "https://www.spiegel.de/politik/ukraine-bundesregierung-erwaegt-beschaffung-von-patriot-systemen-in-den-usa-a-145e6822-1325-4f8f-8509-7d26abc58a8e#ref=rss"
   ],
   "content_hashes": [
-    "34b8f0ece3bd90277496b068489ae9d5",
-    "2954c305783aaa135e3094ebac973ee6",
-    "1e57ce37593ffac111884ad1920bf891",
-    "9d0f493bcc6612d0b201407f70639bbe",
     "043442d32fd56b23c27a645e7b7d47f9",
     "e5a5a122aa06289c1b206fc46c02603b",
     "12ab4f09e8451b2b3a7162d3282303cc",
@@ -2001,13 +1997,13 @@
     "057c99aa8cdc1e0663d6dcd1a9440eae",
     "70a9da1ceb8d1177449422954dd901e7",
     "6f92ef339176637dde3ba39ec29acba9",
-    "83ee7fcc9166b0e2842f90caf80ed75b"
+    "83ee7fcc9166b0e2842f90caf80ed75b",
+    "00c7feed9350a16ee1a1adecd2b5afa7",
+    "c12805cd25b4c5ae08c2f7e651ee0ac5",
+    "4e92661cf1df642ca7e049157a3d2ff7",
+    "49be7da2e80fe79bd3bf13ddceab4152"
   ],
   "titles": [
-    "Außenpolitische Haltung - Das steht im \"Manifest\" von SPD-Politikern",
-    "Proteste in den USA - Reporter ohne Grenzen: Zahlreiche Angriffe auf Journalisten in Los Angeles",
-    "Österreich - Schweigeminute nach Amoklauf in Graz",
-    "Vor SPD-Parteitag - Sozialdemokraten fordern Debatte über Aufrüstungspolitik",
     "Goldschakal auf Sylt: »Werden sich weiter ausbreiten, das ist sehr wahrscheinlich«",
     "Grüne Jugend kritisiert grün geführte Landesregierung in Baden-Württemberg",
     "Pläne der EU-Kommission - Slowakei droht mit Veto gegen Russland-Sanktionen",
@@ -3003,13 +2999,13 @@
     "Gerichtsurteil - Österreichischer Rechtsextremist Martin Sellner darf nicht in Rathaus Chemnitz auftreten",
     "Italien - Explosion an Tankstelle in Rom - Mehrere Verletzte",
     "Geheimdiensterkenntnisse - Bundesregierung wirft Russland Verstoß gegen Chemiewaffen-Übereinkommen vor",
-    "Nachfolge des Dalai Lama - Tibetische Exilregierung besteht auf Religionsfreiheit"
+    "Nachfolge des Dalai Lama - Tibetische Exilregierung besteht auf Religionsfreiheit",
+    "Bildungspolitik - Diskussion über Migranten-Quote im Klassenzimmer",
+    "Kriminalität - Berüchtigter Bandenchef aus Schweden in Türkei festgenommen",
+    "Volkswagen-Konzern - VW trennt sich von Personalchef Kilian",
+    "Ukraine: Bundesregierung erwägt Beschaffung von Patriot-Systemen in den USA"
   ],
   "hashes": [
-    "e24a0ef10a19cd3b40c159b6402fce58",
-    "6af25d4da270eb1fce1f08ec88958c19",
-    "e21d2fede3a256cf7eafc926ea6f2b4f",
-    "33d101f62f6b0f08ed76e66485769803",
     "9a099bd62d0e48b23f99b3dae120462e",
     "7c4c78d269b01976274b6948092f522f",
     "864977ca69e83f44a1977ec1fa4e32c5",
@@ -4005,6 +4001,10 @@
     "6b7ff25392a6bdf3e94820811b599ac2",
     "1242941a38ecf28f38bb2de3d62acef9",
     "e19ef6d460ca3d04eb24c0c082b93dd7",
-    "68728cb8a48576e0e3c280210b308fd9"
+    "68728cb8a48576e0e3c280210b308fd9",
+    "bf709ce374153213af270de2044508a4",
+    "1b513cbf55bfcebcf065c9c600a832d1",
+    "2f2cb1bfbcd4f8d46f21bc6153a4daa4",
+    "3b30ba0b124a82f88deaf4fc29faa4af"
   ]
 }
