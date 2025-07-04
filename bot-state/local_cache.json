@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bolsonaro-bestreitet-vor-gericht-versuchten-staatsstreich-100.html",
-    "https://www.deutschlandfunk.de/kommentar-zu-israels-patriots-lieferungen-an-die-ukraine-schritt-zum-westen-100.html",
-    "https://www.deutschlandfunk.de/premier-tusk-stellt-sich-in-warschau-einer-vertrauensabstimmung-100.html",
     "https://www.deutschlandfunk.de/bekannter-oppositionspolitiker-und-kritiker-des-ukraine-krieges-festgenommen-100.html",
     "https://www.deutschlandfunk.de/hunderte-us-marines-in-los-angeles-eingetroffen-demokraten-werfen-trump-unruhestiftung-vor-102.html",
     "https://www.deutschlandfunk.de/ein-toter-und-23-verletzte-nach-drohnenangriff-auf-charkiw-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/usa-steuergesetz-im-repraesentantenhaus-100.html",
     "https://www.spiegel.de/wirtschaft/friedrich-merz-wirtschaftsverbaende-werfen-kanzler-im-streit-ueber-stromsteuer-wortbruch-vor-a-47782567-1a48-4daf-8bca-0f320fff9883#ref=rss",
     "https://www.deutschlandfunk.de/trump-feiert-beschluss-des-steuer-und-ausgabengesetzes-mit-anhaengern-kritik-von-demokraten-100.html",
-    "https://www.deutschlandfunk.de/deutsche-industrie-mit-auftragsrueckgang-im-mai-100.html"
+    "https://www.deutschlandfunk.de/deutsche-industrie-mit-auftragsrueckgang-im-mai-100.html",
+    "https://www.deutschlandfunk.de/russland-verstaerkt-einsatz-von-chemiewaffen-in-ukraine-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-besucht-kibbuz-nir-oz-hamas-hatte-fast-ein-viertel-der-400-bewohner-getoetet-oder-verschle-100.html",
+    "https://www.deutschlandfunk.de/anteil-von-photovoltaik-an-der-stromerzeugung-steigt-weiter-100.html"
   ],
   "content_hashes": [
-    "5fd7e6b2b0c71ef151e923b5d5068d37",
-    "55137adc7dc9eae7ecde9fd0a8727a00",
-    "18715efe2018d0203575d53e1dcad8fd",
     "0355c03fd28c90fc99b05e179867177b",
     "cf2eb71e020a55326e0cbe935934e932",
     "cf6dc06bde69a098fcaafef8437356ae",
@@ -2001,12 +1998,12 @@
     "04cdfe13ecf8e22c0553a3618e77a75f",
     "b5d3cc76ef21a2cc69301d3af5ec1c77",
     "b15fb8c426215533b470555a5a976641",
-    "d661dceeaf0cc405da00a6d91c228a54"
+    "d661dceeaf0cc405da00a6d91c228a54",
+    "0f6ad2bfb28bf66baea5a9f732bf8f58",
+    "76d843bf044f5d2be698c85aef56f367",
+    "ccd427ab755a654d787d9ff94d652b89"
   ],
   "titles": [
-    "Prozess in Brasilien - Bolsonaro bestreitet vor Gericht versuchten Staatsstreich",
-    "Kommentar - Israels Patriot-Lieferungen an die Ukraine sind Schritt zum Westen",
-    "Polen - Premier Tusk stellt sich in Warschau einer Vertrauensabstimmung",
     "Russland - Bekannter Oppositionspolitiker und Kritiker des Ukraine-Krieges festgenommen",
     "Proteste gegen Migrationspolitik - Hunderte US-Marines in Los Angeles eingetroffen - Demokraten werfen Trump Unruhestiftung vor",
     "Ukraine - Ein Toter und 23 Verletzte nach Drohnenangriff auf Charkiw",
@@ -3003,12 +3000,12 @@
     "USA - Trumps Steuer- und Ausgabengesetz nimmt letzte Hürde",
     "Friedrich Merz: Wirtschaftsverbände werfen Kanzler im Streit über Stromsteuer Wortbruch vor",
     "USA - Trump feiert Beschluss des Steuer- und Ausgabengesetzes mit Anhängern - Kritik von Demokraten",
-    "Statistik - Deutsche Industrie mit Auftragsrückgang im Mai"
+    "Statistik - Deutsche Industrie mit Auftragsrückgang im Mai",
+    "Geheimdiensterkenntnisse - Russland verstärkt Einsatz von Chemiewaffen in Ukraine",
+    "Israel - Netanjahu besucht Kibbuz Nir Oz - Hamas hatte fast ein Viertel der 400 Bewohner getötet oder verschleppt",
+    "Energie - Anteil von Photovoltaik an der Stromerzeugung steigt weiter"
   ],
   "hashes": [
-    "7273ab7068743e61da859867e6b800f3",
-    "64765213abc35fb832ea2a94079b6b15",
-    "6002650b5febe71116d90c8f907cdc4a",
     "3d648da635506fb4f2059f3d2d950a42",
     "d8d5f5fb424e436d83f2b663dbcfa76b",
     "9750b9dfa6ea0b663882715cee695249",
@@ -4005,6 +4002,9 @@
     "4a039690983d2c649f551db9ff1ebe7a",
     "a9dd814f65d361961048e7b85bb9cebc",
     "0f3f5bae67dc8b52950f32f9fe521281",
-    "23c55a61b399e6fa250c72f5a8308db8"
+    "23c55a61b399e6fa250c72f5a8308db8",
+    "ed362498f58a74fa2c3eb9df97bc5fb1",
+    "7f5be837e49a9150a2f6283e6e0294d4",
+    "cceafb848033c94f8aa3f258bdbd94d4"
   ]
 }
