@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/einwanderung-verjuengt-hessen-statistiker-zeigen-demografischen-wandel-110528715.html",
     "https://www.deutschlandfunk.de/erneut-ausschreitungen-in-ballymena-102.html",
     "https://www.deutschlandfunk.de/weltbank-will-wieder-in-atomkraft-finanzierung-einsteigen-100.html",
     "https://www.deutschlandfunk.de/laut-umfrage-grosser-zuspruch-zur-aktivrente-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/papst-ernennt-neuen-missbrauchs-beauftragten-102.html",
     "https://www.faz.net/aktuell/politik/inland/afd-will-kuenftig-gemaessigter-auftreten-110575236.html",
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-im-ersten-halbjahr-2025-um-fast-die-haelfte-gesunken-112.html",
-    "https://www.deutschlandfunk.de/afd-fraktion-gibt-sich-verhaltenskodex-102.html"
+    "https://www.deutschlandfunk.de/afd-fraktion-gibt-sich-verhaltenskodex-102.html",
+    "https://www.deutschlandfunk.de/spahn-weist-vorwuerfe-erneut-zurueck-und-kritisiert-opposition-102.html"
   ],
   "content_hashes": [
-    "e8cd58146e4e799ab56bf58ac7f233c8",
     "339b12c1fcac2a2402f942b64282e83a",
     "a338aa9b6c0b1ebc539294e8bb80a5bc",
     "c511c541f50152ad39c4eb6b008d076d",
@@ -2001,10 +2000,10 @@
     "6383f9c3685f01ecab84f6a72a5c2a72",
     "686df422762d2943cbd49392026ad20c",
     "e27e6f63864b423bec7a50ec6adafb69",
-    "cbe749aec09e6fb82cfd3d046930fcef"
+    "cbe749aec09e6fb82cfd3d046930fcef",
+    "661b64b15661f3ace227103c908f2376"
   ],
   "titles": [
-    "Mikrozensus: Einwanderung verjüngt Hessen",
     "Nordirland - Erneut Ausschreitungen in Ballymena",
     "Energieversorgung - Weltbank will wieder in Atomkraft-Finanzierung einsteigen",
     "Arbeiten im Alter - Laut Umfrage großer Zuspruch zur \"Aktivrente\"",
@@ -3003,10 +3002,10 @@
     "Vatikan - Papst ernennt neuen Missbrauchs-Beauftragten",
     "Operation Samtpfote: Mäßigt sich die AfD?",
     "Bundesinnenministerium - Zahl der Asylanträge in Deutschland im ersten Halbjahr 2025 um fast die Hälfte gesunken",
-    "Auftreten im Bundestag - AfD-Fraktion gibt sich Verhaltenskodex"
+    "Auftreten im Bundestag - AfD-Fraktion gibt sich Verhaltenskodex",
+    "Masken-Affäre - Spahn weist Vorwürfe erneut zurück und kritisiert Opposition"
   ],
   "hashes": [
-    "f4b370212633265f893f902ad05e9edd",
     "caf585efd5281c535d484452f775f249",
     "4b7f7e50ce1686bc3a4674b390764156",
     "a952bb4811d21ea3c0d938f14d4510b6",
@@ -4005,6 +4004,7 @@
     "a85540a875effb2f432763b5c71cca88",
     "1e71b2c9b0c2130612018b9607a300de",
     "dccf1a002fd8afa58c412ac25edc9eb8",
-    "7df28922fa3268d2828664b95d3eb162"
+    "7df28922fa3268d2828664b95d3eb162",
+    "1ae2cfabe52cb6a3e6448873c7016aea"
   ]
 }
