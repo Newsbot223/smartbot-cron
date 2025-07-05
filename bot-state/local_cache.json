@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/donald-tusk-polen-erwaegt-kontrollen-an-der-grenze-zu-deutschland-a-8cb83139-8fc8-4b48-90ae-9fd9b063145d#ref=rss",
-    "https://www.deutschlandfunk.de/oesterreichs-praesident-van-der-bellen-waffengesetz-wird-zu-pruefen-sein-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-birgt-leichen-von-zwei-weiteren-geiseln-104.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-nimmt-heute-an-internationaler-sicherheitskonferenz-teil-100.html",
     "https://www.deutschlandfunk.de/uno-hilfswerk-legt-heute-weltfluechtlingsbericht-vor-100.html",
     "https://www.deutschlandfunk.de/laut-umfrage-grosser-zuspruch-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mindestens-24-tote-bei-sturzfluten-in-texas-vermisste-kinder-100.html",
     "https://www.deutschlandfunk.de/weitere-evakierungen-in-der-gohrischheide-100.html",
     "https://www.deutschlandfunk.de/sicherheitsexperte-peter-neumann-befuerwortet-normalisierung-diplomatischer-beziehungen-zum-taliban--100.html",
-    "https://www.deutschlandfunk.de/auch-koalitionspartner-spd-kritisiert-aeusserungen-von-bildungsministerin-prien-100.html"
+    "https://www.deutschlandfunk.de/auch-koalitionspartner-spd-kritisiert-aeusserungen-von-bildungsministerin-prien-100.html",
+    "https://www.deutschlandfunk.de/was-sich-hinter-den-geschwaerzten-stellen-verbirgt-und-wie-sie-spahn-unter-druck-setzen-100.html",
+    "https://www.deutschlandfunk.de/mehrere-buergermeister-der-oppositionspartei-chp-verhaftet-100.html",
+    "https://www.deutschlandfunk.de/ukraine-greift-russische-luftwaffenbasis-an-100.html"
   ],
   "content_hashes": [
-    "232f118957af612706773f963a172d65",
-    "271fb40de1b99a7eaadc7e6a0369b5ca",
-    "23440c74571bc054dd752f165764f999",
     "9c09344bde389ec167274116c2874320",
     "ccdb62cc23135ea7ef1dadf1760256f7",
     "54c962dafe75b602bb7fc76edc1793b5",
@@ -2001,12 +1998,12 @@
     "2ce013d1a7732ca3609d52ed811b5f5c",
     "5b24be0aec64b9b870080d09b965851f",
     "959603ac1d66b93ee6d397cf92f44da4",
-    "2a6aeed55cd89de233c887d3ac33c8b0"
+    "2a6aeed55cd89de233c887d3ac33c8b0",
+    "8f3692a741abe20b367b7a6ece42ccb8",
+    "6e1770ed8c181013e26815e284fe3fa0",
+    "4246aa955f74902dee31899e1ca86159"
   ],
   "titles": [
-    "Donald Tusk: Polen erwägt Kontrollen an der Grenze zu Deutschland",
-    "Nach Amoklauf in Graz - Österreichs Präsident Van der Bellen: Waffengesetz \"wird zu prüfen sein\"",
-    "Gaza-Krieg - Israelische Armee birgt Leichen von zwei weiteren Geiseln",
     "Rom - Bundesaußenminister Wadephul nimmt heute an internationaler Sicherheitskonferenz teil",
     "Genf - UNO-Hilfswerk legt heute Weltflüchtlingsbericht vor",
     "Geplante \"Aktivrente\" - Laut Umfrage großer Zuspruch",
@@ -3003,12 +3000,12 @@
     "USA - Mindestens 24 Tote bei Sturzfluten in Texas - vermisste Kinder",
     "Waldbrände - Weitere Evakierungen in der Gohrischheide",
     "Migrationsdebatte - Sicherheitsexperte Peter Neumann befürwortet Normalisierung diplomatischer Beziehungen zum Taliban-Regime in Afghanistan",
-    "Migrationsobergrenze an Schulen? - Auch Koalitionspartner SPD kritisiert Äußerungen von Bildungsministerin Prien"
+    "Migrationsobergrenze an Schulen? - Auch Koalitionspartner SPD kritisiert Äußerungen von Bildungsministerin Prien",
+    "Sudhof-Bericht zur Maskenaffäre - Was sich hinter den geschwärzten Stellen verbirgt - und wie sie Spahn unter Druck setzen",
+    "Türkei - Mehrere Bürgermeister der Oppositionspartei CHP verhaftet",
+    "Ukraine-Krieg - Ukraine greift russische Luftwaffenbasis an"
   ],
   "hashes": [
-    "2a7527785545f1ec89e77fdf20b7553c",
-    "3db5ea1601114779ad6df035cfa87eaa",
-    "8042924b23facee55bbdd33d2506a94e",
     "bbae640d772ca7c4decdfbe1893e1eec",
     "a1bce43d793d807b53253fc570b80077",
     "0712865fef092daa50a8e830a6a630d0",
@@ -4005,6 +4002,9 @@
     "cf25c9dd322d9dd44281e6bd509aacdc",
     "a7966762d04d2fb6ef17b59690874438",
     "445e954d3a2e4b8b31f398a65fc43581",
-    "5e461a8d652ed45ac099b83152c490cf"
+    "5e461a8d652ed45ac099b83152c490cf",
+    "830055fea903105c910b30e1b61acfdb",
+    "bf37386457a3813c889a9c8e65d4f863",
+    "ff44ea073754bb59213270e761bed8a9"
   ]
 }
