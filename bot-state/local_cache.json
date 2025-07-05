@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ausgangssperre-in-los-angeles-verlaengert-100.html",
-    "https://www.faz.net/aktuell/politik/inland/norbert-walter-borjans-im-interview-ueber-das-spd-manifest-110530161.html",
-    "https://www.deutschlandfunk.de/vcd-fordert-fuer-familien-planbare-fahrpreise-kritik-an-abschaffung-der-familienreservierung-100.html",
-    "https://www.deutschlandfunk.de/offenbar-wieder-annaeherung-von-trump-und-musk-100.html",
     "https://www.deutschlandfunk.de/harvey-weinstein-erneut-wegen-sexualverbrechens-schuldig-gesprochen-104.html",
     "https://www.deutschlandfunk.de/proteste-gegen-einwanderungspolitik-weiten-sich-aus-100.html",
     "https://www.deutschlandfunk.de/israelische-armee-birgt-in-gazastreifen-leichen-von-zwei-weiteren-geiseln-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-im-ersten-halbjahr-2025-um-fast-die-haelfte-gesunken-100.html",
     "https://www.faz.net/aktuell/politik/erstes-halbjahr-nur-noch-gut-halb-so-viele-asylantraege-110576333.html",
     "https://www.deutschlandfunk.de/druck-auf-spahn-cdu-steigt-weiter-zahlreiche-medien-veroeffentlichen-inhalte-geschwaerzter-passage-a-100.html",
-    "https://www.deutschlandfunk.de/trump-hat-nach-eigenen-angaben-zollbriefe-an-12-laender-unterzeichnet-100.html"
+    "https://www.deutschlandfunk.de/trump-hat-nach-eigenen-angaben-zollbriefe-an-12-laender-unterzeichnet-100.html",
+    "https://www.deutschlandfunk.de/druck-auf-spahn-cdu-waechst-zahlreiche-medien-veroeffentlichen-inhalte-geschwaerzter-passagen-aus-so-100.html",
+    "https://www.deutschlandfunk.de/hamas-aeussert-zusaetzliche-bedingungen-fuer-waffenruhe-israel-prueft-antwort-100.html",
+    "https://www.deutschlandfunk.de/obergrenze-fuer-kinder-mit-migrationshintergrund-an-schulen-auch-koalitionspartner-spd-kritisiert-pr-100.html",
+    "https://www.deutschlandfunk.de/mindestens-24-tote-bei-sturzfluten-in-texas-vermisste-kinder-100.html"
   ],
   "content_hashes": [
-    "b1fd6a3127c493dd1c9c328fb68c59e5",
-    "0048e573e018d1e67ffcd006294162c5",
-    "eae6e77d57cde19380fe9cac299115b5",
-    "5e0696e848518dd400a21908b88a7399",
     "e8d62f462bb596e0e04bf55028e53868",
     "35d0f8ab72e1b4ea53d52d2e938cc186",
     "d908082f88cceeff37ff56da98b168bb",
@@ -2001,13 +1997,13 @@
     "f9242981c38141721ed466439c89da29",
     "ec15b8819ea5a7f5a8fb22e1b3139808",
     "85ffa37fcb81869118c53fc2b6f1db14",
-    "34c5b19187f85c33a91832d0ac0db24b"
+    "34c5b19187f85c33a91832d0ac0db24b",
+    "0a68ebdf4bb98fbc32537628772d152a",
+    "41b580455ac30c59dce53ac6f1a38218",
+    "aef5d7124b46175c8323762987e43598",
+    "2ce013d1a7732ca3609d52ed811b5f5c"
   ],
   "titles": [
-    "USA - Ausgangssperre in Los Angeles verlängert",
-    "Norbert Walter-Borjans: „Klingbeil gibt die Meinung vieler an der Basis nicht wieder“",
-    "Deutsche Bahn - VCD fordert für Familien planbare Fahrpreise - Kritik an Abschaffung der Familienreservierung",
-    "USA - Offenbar wieder Annäherung von Trump und Musk",
     "Früherer Filmmogul - Harvey Weinstein erneut wegen Sexualverbrechens schuldig gesprochen",
     "USA - Proteste gegen Einwanderungspolitik weiten sich aus",
     "Gaza-Krieg - Israelische Armee birgt in Gazastreifen Leichen von zwei weiteren Geiseln",
@@ -3003,13 +2999,13 @@
     "Zeitungsbericht - Zahl der Asylanträge in Deutschland im ersten Halbjahr 2025 um fast die Hälfte gesunken",
     "Erstes Halbjahr 2025: Nur noch gut halb so viele Asylanträge in Deutschland",
     "AMaskenaffäre - Druck auf Spahn (CDU) steigt weiter - zahlreiche Medien veröffentlichen Inhalte geschwärzter Passage aus Sondergutachten",
-    "Zollstreit - Trump hat nach eigenen Angaben Zollbriefe an 12 Länder unterzeichnet"
+    "Zollstreit - Trump hat nach eigenen Angaben Zollbriefe an 12 Länder unterzeichnet",
+    "Maskenaffäre - Druck auf Spahn (CDU) wächst - zahlreiche Medien veröffentlichen Inhalte geschwärzter Passagen aus Sondergutachten",
+    "Nahost - Hamas äußert zusätzliche Bedingungen für Waffenruhe - Israel prüft Antwort",
+    "Bundesbildungsministerin - Obergrenze für Kinder mit Migrationshintergrund an Schulen? Auch Koalitionspartner SPD kritisiert Priens Äußerungen",
+    "USA - Mindestens 24 Tote bei Sturzfluten in Texas - vermisste Kinder"
   ],
   "hashes": [
-    "c8bd9c9dba0f0720cf896e7ae924ed08",
-    "8023e9fb8676f2445712313b05e4b223",
-    "1e27302224c8039adfbe1ff2b22337b1",
-    "f93009d8643f2fca9af526065174061e",
     "fa8e9c30c0ab78ea4ba71a28897adcfc",
     "2c4110ae1afbfbdfe52b69238912afda",
     "d2a06705a92f0a4ef70b86db86a625a5",
@@ -4005,6 +4001,10 @@
     "7980c53e02767f83e286cf17050ccc30",
     "65a98d620b2ad3aa08f73c3eb9225c6e",
     "70dd6c87f9d63c5e492b27e57684365f",
-    "d080f12d3bdd55ef05e2917b32f65d0f"
+    "d080f12d3bdd55ef05e2917b32f65d0f",
+    "e83fc737ca29410e56508a95e8813983",
+    "dada42642e68785f9b37f9ebca0e4faf",
+    "dde1f4c7c3ccf3e2eedd435377fc3f80",
+    "cf25c9dd322d9dd44281e6bd509aacdc"
   ]
 }
