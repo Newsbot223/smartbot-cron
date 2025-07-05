@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/harvey-weinstein-erneut-wegen-sexualverbrechens-schuldig-gesprochen-104.html",
-    "https://www.deutschlandfunk.de/proteste-gegen-einwanderungspolitik-weiten-sich-aus-100.html",
     "https://www.deutschlandfunk.de/israelische-armee-birgt-in-gazastreifen-leichen-von-zwei-weiteren-geiseln-100.html",
     "https://www.spiegel.de/politik/deutschland/donald-tusk-polen-erwaegt-kontrollen-an-der-grenze-zu-deutschland-a-8cb83139-8fc8-4b48-90ae-9fd9b063145d#ref=rss",
     "https://www.deutschlandfunk.de/oesterreichs-praesident-van-der-bellen-waffengesetz-wird-zu-pruefen-sein-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/druck-auf-spahn-cdu-waechst-zahlreiche-medien-veroeffentlichen-inhalte-geschwaerzter-passagen-aus-so-100.html",
     "https://www.deutschlandfunk.de/hamas-aeussert-zusaetzliche-bedingungen-fuer-waffenruhe-israel-prueft-antwort-100.html",
     "https://www.deutschlandfunk.de/obergrenze-fuer-kinder-mit-migrationshintergrund-an-schulen-auch-koalitionspartner-spd-kritisiert-pr-100.html",
-    "https://www.deutschlandfunk.de/mindestens-24-tote-bei-sturzfluten-in-texas-vermisste-kinder-100.html"
+    "https://www.deutschlandfunk.de/mindestens-24-tote-bei-sturzfluten-in-texas-vermisste-kinder-100.html",
+    "https://www.deutschlandfunk.de/weitere-evakierungen-in-der-gohrischheide-100.html",
+    "https://www.deutschlandfunk.de/sicherheitsexperte-peter-neumann-befuerwortet-normalisierung-diplomatischer-beziehungen-zum-taliban--100.html"
   ],
   "content_hashes": [
-    "e8d62f462bb596e0e04bf55028e53868",
-    "35d0f8ab72e1b4ea53d52d2e938cc186",
     "d908082f88cceeff37ff56da98b168bb",
     "232f118957af612706773f963a172d65",
     "271fb40de1b99a7eaadc7e6a0369b5ca",
@@ -2001,11 +1999,11 @@
     "0a68ebdf4bb98fbc32537628772d152a",
     "41b580455ac30c59dce53ac6f1a38218",
     "aef5d7124b46175c8323762987e43598",
-    "2ce013d1a7732ca3609d52ed811b5f5c"
+    "2ce013d1a7732ca3609d52ed811b5f5c",
+    "5b24be0aec64b9b870080d09b965851f",
+    "959603ac1d66b93ee6d397cf92f44da4"
   ],
   "titles": [
-    "Früherer Filmmogul - Harvey Weinstein erneut wegen Sexualverbrechens schuldig gesprochen",
-    "USA - Proteste gegen Einwanderungspolitik weiten sich aus",
     "Gaza-Krieg - Israelische Armee birgt in Gazastreifen Leichen von zwei weiteren Geiseln",
     "Donald Tusk: Polen erwägt Kontrollen an der Grenze zu Deutschland",
     "Nach Amoklauf in Graz - Österreichs Präsident Van der Bellen: Waffengesetz \"wird zu prüfen sein\"",
@@ -3003,11 +3001,11 @@
     "Maskenaffäre - Druck auf Spahn (CDU) wächst - zahlreiche Medien veröffentlichen Inhalte geschwärzter Passagen aus Sondergutachten",
     "Nahost - Hamas äußert zusätzliche Bedingungen für Waffenruhe - Israel prüft Antwort",
     "Bundesbildungsministerin - Obergrenze für Kinder mit Migrationshintergrund an Schulen? Auch Koalitionspartner SPD kritisiert Priens Äußerungen",
-    "USA - Mindestens 24 Tote bei Sturzfluten in Texas - vermisste Kinder"
+    "USA - Mindestens 24 Tote bei Sturzfluten in Texas - vermisste Kinder",
+    "Waldbrände - Weitere Evakierungen in der Gohrischheide",
+    "Migrationsdebatte - Sicherheitsexperte Peter Neumann befürwortet Normalisierung diplomatischer Beziehungen zum Taliban-Regime in Afghanistan"
   ],
   "hashes": [
-    "fa8e9c30c0ab78ea4ba71a28897adcfc",
-    "2c4110ae1afbfbdfe52b69238912afda",
     "d2a06705a92f0a4ef70b86db86a625a5",
     "2a7527785545f1ec89e77fdf20b7553c",
     "3db5ea1601114779ad6df035cfa87eaa",
@@ -4005,6 +4003,8 @@
     "e83fc737ca29410e56508a95e8813983",
     "dada42642e68785f9b37f9ebca0e4faf",
     "dde1f4c7c3ccf3e2eedd435377fc3f80",
-    "cf25c9dd322d9dd44281e6bd509aacdc"
+    "cf25c9dd322d9dd44281e6bd509aacdc",
+    "a7966762d04d2fb6ef17b59690874438",
+    "445e954d3a2e4b8b31f398a65fc43581"
   ]
 }
