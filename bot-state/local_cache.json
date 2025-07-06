@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/pelmeni-und-putin-propaganda-russischer-abend-oh-wie-schoen-ist-moskau-110521943.html",
-    "https://www.deutschlandfunk.de/drei-polizisten-bei-zusammenstoessen-in-bolivien-getoetet-100.html",
     "https://www.deutschlandfunk.de/gruene-raeumen-fehler-im-fall-gelbhaar-ein-100.html",
     "https://www.deutschlandfunk.de/bildhauerin-hamberg-erhaelt-robert-jacobsen-preis-102.html",
     "https://www.deutschlandfunk.de/cdu-politiker-brand-soll-antiziganismus-beauftragter-werden-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rechnungshof-warnt-vor-milliarden-loch-in-der-pflegeversicherung-100.html",
     "https://www.deutschlandfunk.de/israel-faengt-rakete-aus-dem-jemen-ab-100.html",
     "https://www.deutschlandfunk.de/insgesamt-sechs-klagen-gegen-zurueckweisungen-an-deutscher-grenze-100.html",
-    "https://www.deutschlandfunk.de/china-erweitert-umstrittene-flugroute-nahe-taiwan-100.html"
+    "https://www.deutschlandfunk.de/china-erweitert-umstrittene-flugroute-nahe-taiwan-100.html",
+    "https://www.deutschlandfunk.de/wissenschaftliche-dienste-des-bundestages-erhebliche-zweifel-an-rechtmaessigkeit-der-israelischen-an-100.html",
+    "https://www.deutschlandfunk.de/welche-parteien-es-neben-republikanern-und-demokraten-noch-gibt-und-wie-sie-im-us-wahlrecht-benachte-100.html"
   ],
   "content_hashes": [
-    "2ef7b849696eaa76b745c08f33c5d3ad",
-    "dd3fa59c307f428e9f9089bfaf255b25",
     "4c7737dca45866428000f701214919f8",
     "74af20293f102985565ac2d661129d41",
     "98f385f1ec7077fae14596ed6b062621",
@@ -2001,11 +1999,11 @@
     "75c7e2d2b15326ce9ea253e3a2eaecc3",
     "3c10d40fa060e52ed550fd4a59bd3be1",
     "c2029fa195b4238d79233cccf76b4955",
-    "f0f6029a25eb62e4614527545e94d125"
+    "f0f6029a25eb62e4614527545e94d125",
+    "d0608af283c581d242c27c90ae384af3",
+    "9dd45d95bcb3aca6e20c31ed59cb3bb3"
   ],
   "titles": [
-    "„Russischer Abend“: Pelmeni und Putin-Propaganda",
-    "Proteste von Morales-Anhängern - Drei Polizisten bei Zusammenstößen in Bolivien getötet",
     "Nach Missbrauchsvowürfen - Grüne räumen Fehler im Fall Gelbhaar ein",
     "Auszeichnung - Bildhauerin Hamberg erhält Robert-Jacobsen-Preis",
     "Bundesregierung - CDU-Politiker Brand soll Antiziganismus-Beauftragter werden",
@@ -3003,11 +3001,11 @@
     "Medienbericht - Rechnungshof warnt vor Milliarden-Loch in der Pflegeversicherung",
     "Nahost-Krieg - Israel fängt Rakete aus dem Jemen ab",
     "Verschärfte Asylpolitik - Insgesamt sechs Klagen gegen Zurückweisungen an deutscher Grenze",
-    "Asien - China erweitert umstrittene Flugroute nahe Taiwan"
+    "Asien - China erweitert umstrittene Flugroute nahe Taiwan",
+    "Gutachten - Wissenschaftliche Dienste des Bundestages: \"Erhebliche Zweifel\" an Rechtmäßigkeit der israelischen Angriffe auf den Iran",
+    "USA - Welche Parteien es neben Republikanern und Demokraten noch gibt - und wie sie im US-Wahlrecht benachteiligt werden"
   ],
   "hashes": [
-    "6e58e9d59917de06198bc696a29c4220",
-    "81314fdb59bb76d85d7d73fdf6cb100f",
     "ad190017a6f70953cf0129467e231fed",
     "d4dba51b53db1a9aa22e80236a46d223",
     "d4fc5ac7643ae51925fc903b1caa74dd",
@@ -4005,6 +4003,8 @@
     "37f2c72d245c9204edf3cc7357927609",
     "3045cf75b7c4cb453e68d93494beaca2",
     "7f1d3d7ad3594851e3e5ea08005fa2e9",
-    "5cc29d21cab64e9311b52af3235c28bf"
+    "5cc29d21cab64e9311b52af3235c28bf",
+    "b6bb2d738c947ab227a0c82361d8e9f1",
+    "f1ad36c2f7f4c09a2cf4f1a778bd0c9d"
   ]
 }
