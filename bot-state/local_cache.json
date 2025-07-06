@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-260-tote-bei-flugzeugunglueck-ein-ueberlebender-gefunden-102.html",
-    "https://www.deutschlandfunk.de/bundesrat-befasst-sich-mit-investitions-booster-der-schwarz-roten-regierung-100.html",
-    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-besucht-aegypten-libanon-jordanien-und-israel-100.html",
     "https://www.deutschlandfunk.de/gruene-raeumen-fehler-im-fall-gelbhaar-ein-106.html",
     "https://www.deutschlandfunk.de/2-400-afghanen-harren-weiter-in-pakistan-aus-102.html",
     "https://www.deutschlandfunk.de/mehr-als-260-tote-bei-flugzeugunglueck-offenbar-flugschreiber-gefunden-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nach-skandal-um-generalsekretaer-regierungspartei-verbietet-mitgliedern-bezahlten-sex-100.html",
     "https://www.deutschlandfunk.de/mindestens-33-tote-bei-angriffen-100.html",
     "https://www.deutschlandfunk.de/unterstuetzung-fuer-strengere-regeln-fuer-parken-von-e-scootern-aus-staedte-und-gemeindebund-100.html",
-    "https://www.deutschlandfunk.de/spahn-cdu-wirft-gruenen-afd-methoden-vor-100.html"
+    "https://www.deutschlandfunk.de/spahn-cdu-wirft-gruenen-afd-methoden-vor-100.html",
+    "https://www.deutschlandfunk.de/deutschlands-groesstes-festival-fuer-folk-roots-und-weltmusik-in-rudolstadt-geht-zu-ende-100.html",
+    "https://www.deutschlandfunk.de/berlin-opposition-verschaerft-ton-wegen-masken-100.html",
+    "https://www.deutschlandfunk.de/musk-will-neue-partei-gruenden-interview-mit-prof-thomas-jaeger-universitaet-koeln-100.html"
   ],
   "content_hashes": [
-    "3b00dd3410bff427ce4c79c203b51124",
-    "6cefcca5938fbc7f139c91eeca039431",
-    "5832da56b9cee56d4af4a6a633354be3",
     "713db51a8e770ca4409684ffd1d218dc",
     "a23632ce4da69eb031d0927004affead",
     "50e05e47ba1d2da14adf025bd7a2b9e8",
@@ -2001,12 +1998,12 @@
     "33d4f9ce072f51b75d620962dc0ee767",
     "4e32c6c41378e5b491d54eb5206da172",
     "b5d5019afe4e3ed46946150756787d87",
-    "598a04a923b213dc96df1d6eab3f4056"
+    "598a04a923b213dc96df1d6eab3f4056",
+    "65ed83c2322c4b26f7e459eade41afc4",
+    "5a9f152b2d4a9e558a4eaf2f4039aca2",
+    "26e68a1eefd7af4033c04b2d38c4b28b"
   ],
   "titles": [
-    "Indien - Mehr als 260 Tote bei Flugzeugunglück - ein Überlebender gefunden",
-    "Geringere Steuereinnahmen - Bundesrat befasst sich mit \"Investitions-Booster\" der schwarz-roten Regierung",
-    "Nahostkonflikt - Bundesaußenminister Wadephul besucht Ägypten, Libanon, Jordanien und Israel",
     "Nach Missbrauchsvorwürfen - Grüne räumen Fehler im Fall Gelbhaar ein",
     "Warten trotz Aufnahmezusage - 2.400 Afghanen harren weiter in Pakistan aus",
     "Indien - Mehr als 260 Tote bei Flugzeugunglück - offenbar Flugschreiber gefunden",
@@ -3003,12 +3000,12 @@
     "Spanien - Nach Skandal um Generalsekretär: Regierungspartei verbietet Mitgliedern bezahlten Sex",
     "Gaza-Krieg - Mindestens 33 Tote bei Angriffen",
     "Verkehrspolitik - Unterstützung für strengere Regeln für Parken von E-Scootern aus Städte- und Gemeindebund",
-    "Maskenaffäre - Spahn (CDU) wirft Grünen AfD-Methoden vor"
+    "Maskenaffäre - Spahn (CDU) wirft Grünen AfD-Methoden vor",
+    "Thüringen - Deutschlands größtes Festival für Folk-, Roots- und Weltmusik in Rudolstadt geht zu Ende",
+    "Gesundheitspolitik - Berliner Opposition verschärft in Maskenaffäre den Ton",
+    "USA - Elon Musk will eigene \"America Party\" gründen"
   ],
   "hashes": [
-    "271e1dc85726eeed44aa39b5ea66ef6b",
-    "2382089533341a8667a6c178f7030dd5",
-    "56284248dd53619f3818d9f34eb7fe5a",
     "036c47531c4dad6cb75847028cd97b2d",
     "27517b2ca75544ebf547c378dc419569",
     "477138a29ddedd02facf41f397d1c969",
@@ -4005,6 +4002,9 @@
     "1220dd03aae266f0954cde652d7cfd9e",
     "19d3b0fb4da9fa030cdc00de520b7aa1",
     "b51094aacc593ba2902a770a5b19fc31",
-    "c0b41557b5949db491eaa2eb803f7b4b"
+    "c0b41557b5949db491eaa2eb803f7b4b",
+    "5e5db68264135d98fce59a39a2753413",
+    "f80070715488d0a1f2765acec98a99dd",
+    "7536c7a158807c4d57fb9ec6c654c4d1"
   ]
 }
