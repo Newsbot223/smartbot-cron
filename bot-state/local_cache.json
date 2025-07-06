@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/beschaedigtes-kriegsschiff-nach-reparatur-wieder-im-einsatz-100.html",
-    "https://www.deutschlandfunk.de/oelpreis-steigt-deutlich-102.html",
     "https://www.deutschlandfunk.de/in-der-sache-falsch-und-kommunikatives-desaster-wachsende-kritik-an-bahn-wegen-abschaffung-der-famil-100.html",
     "https://www.deutschlandfunk.de/bericht-starker-anstieg-bei-atomwaffenausgaben-100.html",
     "https://www.deutschlandfunk.de/rentenerhoehung-um-3-74-prozent-gebilligt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/debatte-um-obergrenzen-an-schulen-prien-erntet-widerspruch-110577259.html",
     "https://www.deutschlandfunk.de/lage-bei-waldbraenden-weiter-angespannt-100.html",
     "https://www.deutschlandfunk.de/steinmeier-sagt-litauen-hilfe-zu-eure-sicherheit-ist-unsere-sicherheit-102.html",
-    "https://www.deutschlandfunk.de/hasselmann-macht-auch-warken-vorwuerfe-reichinnek-spahn-handelt-verantwortungslos-100.html"
+    "https://www.deutschlandfunk.de/hasselmann-macht-auch-warken-vorwuerfe-reichinnek-spahn-handelt-verantwortungslos-100.html",
+    "https://www.deutschlandfunk.de/kritik-nach-angriff-auf-deutsche-welle-team-durch-radikale-siedler-100.html",
+    "https://www.deutschlandfunk.de/schiitische-muslime-weltweit-feiern-aschura-fest-100.html"
   ],
   "content_hashes": [
-    "a56eaef94ffc787bd9cf256839308766",
-    "91c6675207c7c2303e916a8d1cd24029",
     "7088bb1c6f5d5bc8256ef5f544958ee7",
     "56e90c54c019f19b7871ea3b9d380b60",
     "e0c1b9289e5b3405a2af41031952aa5f",
@@ -2001,11 +1999,11 @@
     "b1c1f2a37fd158bb64cd87fd55c0d4d0",
     "53bef405883d63b55e8679ebfbe35b72",
     "3d0e636a81d317fc72e84c5c1059b816",
-    "2d6eab72b2322c70614ec0495ffa49aa"
+    "2d6eab72b2322c70614ec0495ffa49aa",
+    "a16105ea6d42a6ac0f8532a2c831fe3a",
+    "4b8555e97e88d9a633450d2bb0367d3b"
   ],
   "titles": [
-    "Nordkorea -  Beschädigtes Kriegsschiff nach Reparatur wieder im Einsatz",
-    "Nach Angriff auf den Iran - Ölpreis steigt deutlich",
     "Union und SPD - \"In der Sache falsch und kommunikatives Desaster\": Wachsende Kritik an Bahn wegen Abschaffung der Familienreservierung",
     "Genf - Bericht: Starker Anstieg bei Atomwaffenausgaben",
     "Bundesrat - Rentenerhöhung um 3,74 Prozent gebilligt",
@@ -3003,11 +3001,11 @@
     "Debatte um Obergrenze: Wenn zu viele Schüler zu wenig Deutsch können",
     "Ostdeutschland - Lage bei Waldbränden weiter angespannt",
     "NATO-Ostflanke - Steinmeier sagt Litauen Hilfe zu - \"Eure Sicherheit ist unsere Sicherheit\"",
-    "Maskenaffäre - Haßelmann macht auch Warken Vorwürfe - Reichinnek: Spahn handelt verantwortungslos"
+    "Maskenaffäre - Haßelmann macht auch Warken Vorwürfe - Reichinnek: Spahn handelt verantwortungslos",
+    "Westjordanland - Kritik nach Angriff auf Deutsche-Welle-Team durch radikale Siedler",
+    "Islam - Schiitische Muslime weltweit feiern Aschura-Fest"
   ],
   "hashes": [
-    "2ed3e287795845db000ac40e9e9f2afe",
-    "09ed3b1b64f6be41ecf6f6cfe6c4f72f",
     "977512ec5d18fd6b6dd5bfbe784164aa",
     "160c5b621e3218935bab60c5dc49767e",
     "46917481fdfeff0611d73d2165246e83",
@@ -4005,6 +4003,8 @@
     "079cd92b7180eb28d202f0f3deabdac7",
     "a2863f66374dc45bbec626969433bd09",
     "3a738b09d49bccf33df4b9f78d11f88b",
-    "aeeb4d1430ffed04dc5b73b186a2fcc5"
+    "aeeb4d1430ffed04dc5b73b186a2fcc5",
+    "7b2085f3961dbf3ed650bd99d2608a8c",
+    "f17862817a91a8de7767a7534607fb2a"
   ]
 }
