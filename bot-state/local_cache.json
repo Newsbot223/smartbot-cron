@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wachsende-kritik-an-bahn-wegen-abschaffung-der-familienreservierung-102.html",
-    "https://www.deutschlandfunk.de/nach-amoklauf-in-graz-gedenken-im-wiener-stephansdom-100.html",
     "https://www.deutschlandfunk.de/us-gericht-einsatz-der-nationalgarde-ist-rechtswidrig-100.html",
     "https://www.deutschlandfunk.de/beschaedigtes-kriegsschiff-nach-reparatur-wieder-im-einsatz-100.html",
     "https://www.deutschlandfunk.de/oelpreis-steigt-deutlich-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/musk-will-neue-partei-gruenden-interview-mit-prof-thomas-jaeger-universitaet-koeln-100.html",
     "https://www.deutschlandfunk.de/csd-demonstration-in-koeln-die-stimmung-ist-dieses-mal-eine-andere-100.html",
     "https://www.deutschlandfunk.de/unesco-beraet-ueber-welterbe-antraege-zu-bayerischen-maerchenschloessern-102.html",
-    "https://www.faz.net/aktuell/politik/inland/debatte-um-obergrenzen-an-schulen-prien-erntet-widerspruch-110577259.html"
+    "https://www.faz.net/aktuell/politik/inland/debatte-um-obergrenzen-an-schulen-prien-erntet-widerspruch-110577259.html",
+    "https://www.deutschlandfunk.de/lage-bei-waldbraenden-weiter-angespannt-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-sagt-litauen-hilfe-zu-eure-sicherheit-ist-unsere-sicherheit-102.html"
   ],
   "content_hashes": [
-    "4e63919f9aef5e8848ad12ed86456a58",
-    "d0e76443b1a868c56a602a7a70ac6f71",
     "57b186610f62fba267106efdb11cc9ba",
     "a56eaef94ffc787bd9cf256839308766",
     "91c6675207c7c2303e916a8d1cd24029",
@@ -2001,11 +1999,11 @@
     "26e68a1eefd7af4033c04b2d38c4b28b",
     "bbcd8bad928c254e81e0cfa6f1429497",
     "197ad65152eb0d23b4752121d4c0c6c8",
-    "b1c1f2a37fd158bb64cd87fd55c0d4d0"
+    "b1c1f2a37fd158bb64cd87fd55c0d4d0",
+    "53bef405883d63b55e8679ebfbe35b72",
+    "3d0e636a81d317fc72e84c5c1059b816"
   ],
   "titles": [
-    "Union und SPD - Wachsende Kritik an Bahn wegen Abschaffung der Familienreservierung",
-    "Österreich - Nach Amoklauf in Graz: Gedenken im Wiener Stephansdom",
     "Proteste in Los Angeles - US-Gericht: Einsatz der Nationalgarde ist rechtswidrig",
     "Nordkorea -  Beschädigtes Kriegsschiff nach Reparatur wieder im Einsatz",
     "Nach Angriff auf den Iran - Ölpreis steigt deutlich",
@@ -3003,11 +3001,11 @@
     "USA - Elon Musk will eigene \"America Party\" gründen",
     "LGBTQ - CSD-Demonstration in Köln: \"Die Stimmung ist dieses Mal eine andere\"",
     "UNO-Kulturorganisation - Unesco berät über Welterbe-Anträge zu bayerischen \"Märchenschlössern\"",
-    "Debatte um Obergrenze: Wenn zu viele Schüler zu wenig Deutsch können"
+    "Debatte um Obergrenze: Wenn zu viele Schüler zu wenig Deutsch können",
+    "Ostdeutschland - Lage bei Waldbränden weiter angespannt",
+    "NATO-Ostflanke - Steinmeier sagt Litauen Hilfe zu - \"Eure Sicherheit ist unsere Sicherheit\""
   ],
   "hashes": [
-    "e5b3c523a515c295dbdf3047da69a305",
-    "00bb5a61a67f2b4e6d76049c5538d223",
     "4ce31e639e9b61caba6c6da3459f907a",
     "2ed3e287795845db000ac40e9e9f2afe",
     "09ed3b1b64f6be41ecf6f6cfe6c4f72f",
@@ -4005,6 +4003,8 @@
     "7536c7a158807c4d57fb9ec6c654c4d1",
     "57b3a5de88c705fda539bbf321ca2652",
     "3962af469383765f213d783a1c0bd12d",
-    "079cd92b7180eb28d202f0f3deabdac7"
+    "079cd92b7180eb28d202f0f3deabdac7",
+    "a2863f66374dc45bbec626969433bd09",
+    "3a738b09d49bccf33df4b9f78d11f88b"
   ]
 }
