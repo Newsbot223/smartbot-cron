@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/start/fachkraeftemangel-cdu-will-auslaendische-medizinstudierende-zum-arbeiten-in-deutschland-verpflichten-a-44868861-e348-4fd8-ad64-782aaa1c36c8#ref=rss",
-    "https://www.deutschlandfunk.de/spd-chef-klingbeil-gegen-kehrtwende-in-der-ukraine-politik-102.html",
-    "https://www.deutschlandfunk.de/oecd-empfiehlt-abschaffung-von-fruehrente-und-ehegattensplitting-100.html",
     "https://www.deutschlandfunk.de/fristverlaengerung-fuer-gesetze-zu-unverheirateten-vaetern-und-zu-befugnissen-des-bka-100.html",
     "https://www.deutschlandfunk.de/klage-von-bootsfluechtlingen-gegen-italien-abgewiesen-100.html",
     "https://www.deutschlandfunk.de/gesundheitsminister-fordern-hoehere-altersgrenze-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/wer-sind-die-neuen-mitglieder-der-linken-in-sachsen-110572701.html",
     "https://www.deutschlandfunk.de/18-festnahmen-bei-anti-israelischer-demonstration-102.html",
     "https://www.deutschlandfunk.de/israel-schickt-delegation-zu-verhandlungen-nach-katar-aenderungsforderungen-der-hamas-aber-inakzepta-100.html",
-    "https://www.deutschlandfunk.de/afd-schiedsgericht-beschliesst-parteiausschluss-helferichs-100.html"
+    "https://www.deutschlandfunk.de/afd-schiedsgericht-beschliesst-parteiausschluss-helferichs-100.html",
+    "https://www.deutschlandfunk.de/wieder-heftige-russische-drohnenangriffe-auf-mehrere-staedte-100.html",
+    "https://www.deutschlandfunk.de/brandanschlag-auf-synagoge-in-melbourne-verdaechtiger-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/1-200-menschen-demonstrieren-gegen-rechtsextremen-aufmarsch-100.html"
   ],
   "content_hashes": [
-    "7dfb36730fc72d6e382d7a776b97a671",
-    "c7a6fa5d12197d86fa583bac71056184",
-    "5b1ad4cd0f962b48b98ffd5588723063",
     "46385cc82f4089299f2554c7d3d0157e",
     "6e3c03dc7c5cfabd0bef03e1a7a9756a",
     "58c3ba6ad06e3c8ee3b9da84329fad95",
@@ -2001,12 +1998,12 @@
     "ee75ebc606a019342a17c758f4f81d55",
     "dd17e7f68fc55fdd61577986003c0c8d",
     "eee473b4f3b987b7f4dbb1fc19a1dfb4",
-    "d6401d44dba584dbb4a5944a579409c8"
+    "d6401d44dba584dbb4a5944a579409c8",
+    "500d626e856fcf48251d0ba0838a338b",
+    "4c0775b39a3dbb30892a79c7f3eccb24",
+    "49596f8d9707d3f0379299813c5393cb"
   ],
   "titles": [
-    "Fachkräftemangel: CDU will ausländische Medizinstudierende zum Arbeiten in Deutschland verpflichten",
-    "Nach Manifest von SPD-Politikern - SPD-Chef Klingbeil gegen Kehrtwende in der Ukraine-Politik",
-    "Wirtschaft - OECD empfiehlt Abschaffung von Frührente und Ehegattensplitting",
     "Bundesverfassungsgericht - Fristverlängerung für Gesetze zu unverheirateten Vätern und zu Befugnissen des BKA",
     "EGMR - Klage von Bootsflüchtlingen gegen Italien abgewiesen",
     "Alkoholkonsum - Gesundheitsminister fordern höhere Altersgrenze",
@@ -3003,12 +3000,12 @@
     "Linke in Sachsen: Die kleinste und die stärkste Partei",
     "Berlin - 18 Festnahmen bei anti-israelischer Demonstration",
     "Gaza-Krieg - Israel schickt Delegation zu Verhandlungen nach Katar - \"Änderungsforderungen der Hamas aber inakzeptabel\"",
-    "Nordrhein-Westfalen - AfD-Schiedsgericht beschließt Parteiausschluss Helferichs"
+    "Nordrhein-Westfalen - AfD-Schiedsgericht beschließt Parteiausschluss Helferichs",
+    "Ukraine-Krieg - Wieder heftige russische Drohnenangriffe auf mehrere Städte",
+    "Australien - Brandanschlag auf Synagoge in Melbourne - Verdächtiger festgenommen",
+    "Münster - 1.200 Menschen demonstrieren gegen rechtsextremen Aufmarsch"
   ],
   "hashes": [
-    "64806622825f411e6faf8955b53d6033",
-    "5f2ade7fb420271f1911e0611d9ddcfb",
-    "7055e85a8c204a2fb41dd999162de8f5",
     "094ca6e579e2eba5021955f17d6e1bec",
     "0abfbb70ec18a4aeb50ad61cfdc63534",
     "7cf043d4a085b9818755a24ebfc071d7",
@@ -4005,6 +4002,9 @@
     "2f41760adca01feb3ffff7f110eaa736",
     "2305f9d864bda9f01e1f7a7a56c3da0c",
     "a4a1a864e9c74ef07d2a2f01a68fc158",
-    "e505a12ceb7524b74ee9921f4cbf0f0e"
+    "e505a12ceb7524b74ee9921f4cbf0f0e",
+    "fd30d1bcd55157c10338b319c04a7036",
+    "ad7d2a24c74e845dadc54487c495815e",
+    "03ce4490d589472811afd3a254ac7730"
   ]
 }
