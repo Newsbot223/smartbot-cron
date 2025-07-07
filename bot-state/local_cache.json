@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/was-israels-angriff-auf-iran-fuer-deutschland-bedeutet-110535189.html",
-    "https://www.deutschlandfunk.de/bundesumweltminister-schneider-fordert-erhalt-der-familienreservierung-100.html",
-    "https://www.deutschlandfunk.de/union-debattiert-weiter-ueber-eine-rueckkehr-zur-wehrpflicht-102.html",
-    "https://www.deutschlandfunk.de/hohe-waldbrandgefahr-in-brandenburg-102.html",
-    "https://www.faz.net/aktuell/politik/inland/schengen-vater-robert-goebbels-europa-ist-etwas-geniales-110532852.html",
     "https://www.deutschlandfunk.de/bund-stockt-mittel-fuer-integrationskurse-auf-100.html",
     "https://www.deutschlandfunk.de/pride-parade-in-kiew-hunderte-menschen-demonstrieren-fuer-gleichberechtigung-100.html",
     "https://www.deutschlandfunk.de/iaea-keine-erhoehte-strahlung-nach-israelischen-angriffen-auf-isfahan-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/polnische-grenzkontrollen-sind-wichtiges-signal-zur-eindaemmung-der-migration-100.html",
     "https://www.deutschlandfunk.de/trump-sieht-vor-treffen-mit-netanjahu-gute-chance-fuer-gaza-waffenruhe-100.html",
     "https://www.deutschlandfunk.de/klimafreundlich-oder-nachhaltig-haertere-auflagen-fuer-werbung-mit-umweltaussagen-angekuendigt-100.html",
-    "https://www.deutschlandfunk.de/us-konzern-dow-schliesst-chemieanlagen-in-sachsen-und-sachsen-anhalt-100.html"
+    "https://www.deutschlandfunk.de/us-konzern-dow-schliesst-chemieanlagen-in-sachsen-und-sachsen-anhalt-100.html",
+    "https://www.deutschlandfunk.de/trump-sieht-vor-treffen-mit-netanjahu-chancen-fuer-gaza-waffenruhe-100.html",
+    "https://www.deutschlandfunk.de/armee-erstmals-dorf-in-ukrainischer-region-dnipropetrowsk-eingenommen-102.html",
+    "https://www.deutschlandfunk.de/restaurierung-nach-31-jahren-beendet-100.html",
+    "https://www.faz.net/aktuell/politik/inland/was-quoten-fuer-migranten-in-daenischen-stadtvierteln-bewirken-110578624.html",
+    "https://www.faz.net/aktuell/politik/ausland/warum-polen-grenzkontrollen-einfuehrt-110578712.html"
   ],
   "content_hashes": [
-    "5b6f7075815544e86ac8d347e82b7a2d",
-    "f8b4550b7f9843f5fb79439b71a92530",
-    "046eeb32aae79a6e8477f285cb10bfa4",
-    "ab86276e0d1f63276df1db44be34803f",
-    "de3eb0c2de4e373e5d2bc8cf1af4dad9",
     "a9bcfba63cde09b15c815cac9fcefbb4",
     "6c04ba57edd7979014160bbc1c4e171f",
     "12f974c4c00fd65e84887f93d43fd157",
@@ -2001,14 +1996,14 @@
     "a21391d61c562fc671ad854d23f3ac09",
     "945fa31a9c44174f63340637f7beb3f1",
     "6b8cf009e33792c9f830c02dc6a5c5d8",
-    "e2933868da260e4b75419d0c211a204d"
+    "e2933868da260e4b75419d0c211a204d",
+    "3087e789df86838eb7ce6dddf58ad4a4",
+    "0240f648d55adb020a892d89cf9b88d5",
+    "ce1ca44cb83445499f68fd959217bf3b",
+    "f1d3603ebed71e50904ebc568f97dbe3",
+    "c62809a7674fff03b026768f63cd28a1"
   ],
   "titles": [
-    "Was Israels Angriff auf Iran für Deutschland bedeutet",
-    "Deutsche Bahn - Bundesumweltminister Schneider fordert Erhalt der Familienreservierung",
-    "Bundeswehr - Union debattiert weiter über eine Rückkehr zur Wehrpflicht",
-    "Trockenheit - Hohe Waldbrandgefahr in Brandenburg",
-    "40 Jahre Schengen: „Jeder lachte, ich auch – aber ich sollte Recht behalten“",
     "Bericht - Bund stockt Mittel für Integrationskurse auf",
     "Ukraine - Pride-Parade in Kiew - Hunderte Menschen demonstrieren für Gleichberechtigung",
     "Naher Osten - IAEA: Keine erhöhte Strahlung nach israelischen Angriffen auf Isfahan",
@@ -3003,14 +2998,14 @@
     "Bundesinnenministerium - Polnische Grenzkontrollen sind wichtiges Signal zur Eindämmung der Migration",
     "Nahost - Trump sieht vor Treffen mit Netanjahu \"gute Chance\" für Gaza-Waffenruhe",
     "Bundesjustizministerium - \"Klimafreundlich\" oder \"nachhaltig\": Härtere Auflagen für Werbung mit Umweltaussagen angekündigt",
-    "Wirtschaft - US-Konzern Dow schließt Chemieanlagen in Sachsen und Sachsen-Anhalt"
+    "Wirtschaft - US-Konzern Dow schließt Chemieanlagen in Sachsen und Sachsen-Anhalt",
+    "Nahost - Trump sieht vor Treffen mit Netanjahu Chancen für Gaza-Waffenruhe",
+    "Russland - Armee: Erstmals Dorf in ukrainischer Region Dnipropetrowsk eingenommen",
+    "Schloss Neuschwanstein - Restaurierung nach 31 Jahren beendet",
+    "Vorbild für Deutschland? In Dänemark funktionieren Quoten für Migranten",
+    "Warum Polen Grenzkontrollen einführt"
   ],
   "hashes": [
-    "87b8da44530ef3b8f14b344cb899f166",
-    "b79b0da037fa84349ebffc598899ce18",
-    "0b342c5b38a147e295c279292297a253",
-    "90ede035d8598e98df7309dc263829d2",
-    "705a9e4c1f74e3a29f7240fe0745b5b6",
     "4b622a84f26d73f268c69ad497e22208",
     "fe1a9760851ce37ba6e5d3ac3d39d755",
     "e9575129f8317d570e9dfc3e75f01618",
@@ -4005,6 +4000,11 @@
     "610200b3a7dc622fa9260bfde151b85c",
     "08a9ce0fbd5e8c1c2dfc937060bdf519",
     "7da3e58515eddac96ea4c70ff986e8b9",
-    "38bd3c00388bdbe8a554572472e7c594"
+    "38bd3c00388bdbe8a554572472e7c594",
+    "8cbda5c1804292bbe5b96bf318ee28fd",
+    "e704ca5b12475b3389042c7fc8b5df02",
+    "206620d8e8eaafaeece2a60560235a5a",
+    "cee1bcb12f43bc8e8fa86b37a76e9078",
+    "7f56bad7d109c1ee8fe47016f3c73e93"
   ]
 }
