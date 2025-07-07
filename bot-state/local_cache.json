@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rotes-kreuz-fordert-18-milliarden-euro-fuer-soziale-infrastruktur-106.html",
-    "https://www.spiegel.de/politik/deutschland/bundeswehr-jens-spahn-fordert-vorbereitung-fuer-die-rueckkehr-der-wehrpflicht-a-c62f694a-9103-4de8-8930-2f4b79bdb16d#ref=rss",
     "https://www.deutschlandfunk.de/wadephul-reist-nach-saudi-arabien-102.html",
     "https://www.deutschlandfunk.de/erste-marineinfanteristen-im-einsatz-100.html",
     "https://www.deutschlandfunk.de/gesundheitsministerin-ruft-juengere-zu-mehr-engagement-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html",
     "https://www.deutschlandfunk.de/polen-beauftragter-abraham-warnt-vor-negativen-folgen-kein-guter-tag-fuer-deutsch-polnisches-verhael-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessengeld-gruene-kritisieren-cdu-wahlgeschenk-110573954.html",
-    "https://www.faz.net/aktuell/politik/inland/polen-kontrolliert-grenze-das-bringt-das-ganze-schengen-system-an-die-grenzen-110578225.html"
+    "https://www.faz.net/aktuell/politik/inland/polen-kontrolliert-grenze-das-bringt-das-ganze-schengen-system-an-die-grenzen-110578225.html",
+    "https://www.deutschlandfunk.de/migrationsforscher-thym-nationale-alleingaenge-auf-dauer-keine-loesung-102.html",
+    "https://www.faz.net/aktuell/politik/inland/haftbefehl-gegen-mutmasslichen-ice-angreifer-erlassen-110578471.html"
   ],
   "content_hashes": [
-    "edf77f4496a5fbee12c4fb7dcb2a75ad",
-    "5f25024f611d12b4a13b6e69fdc9c84b",
     "b0e70697593ce6ec3001a4cf421cf130",
     "c76f86b50cbffb99064037c4d941314b",
     "13fc76fe14b35fc715bcd56b28992eed",
@@ -2001,11 +1999,11 @@
     "5cc8a841f01d4b734317ab348e00471c",
     "b1ef142b73aa230c2d282018490b13fc",
     "0a2db16cdaa42c0a80cf08e6b785d0b2",
-    "6e46345b02144b3bd3f8f51b04b4ff20"
+    "6e46345b02144b3bd3f8f51b04b4ff20",
+    "2b0c472f97d0942430727abc52662af2",
+    "02a222abb7136094b4b6a6fc5838c5b3"
   ],
   "titles": [
-    "Sondervermögen - Rotes Kreuz fordert 18 Milliarden Euro für soziale Infrastruktur",
-    "Bundeswehr: Jens Spahn fordert Vorbereitung für die Rückkehr der Wehrpflicht",
     "Nahostvisite - Wadephul reist nach Saudi-Arabien",
     "Los Angeles - Erste Marineinfanteristen im Einsatz",
     "Weltblutspendetag - Gesundheitsministerin ruft Jüngere zu mehr Engagement auf",
@@ -3003,11 +3001,11 @@
     "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet",
     "Grenzkontrollen - Polen-Beauftragter Abraham warnt vor negativen Folgen: \"Kein guter Tag für deutsch-polnisches Verhältnis\"",
     "Förderung für Häuslebauer: Grüne kritisieren Hessengeld als wirkungsloses Wahlgeschenk",
-    "Polen kontrolliert Grenze: „Das bringt das ganze Schengen-System an die Grenzen“"
+    "Polen kontrolliert Grenze: „Das bringt das ganze Schengen-System an die Grenzen“",
+    "Grenzkontrollen - Migrationsforscher Thym: \"Nationale Alleingänge auf Dauer keine Lösung\"",
+    "Haftbefehl gegen mutmaßlichen Angreifer aus ICE"
   ],
   "hashes": [
-    "082311053a27da0b6907cf532ea18ff5",
-    "fd0a2f17b4acf6cfac0fd52745f31c63",
     "2b909ec211b365d778cbb528c8702d22",
     "ffad255f22e1aa2f96a1fa863854f02d",
     "3c1c2a4001795f9e146a6216b8f4412d",
@@ -4005,6 +4003,8 @@
     "b8d24b614b2d787d7b8bcfc292f405db",
     "21c9fbf40669414df23bfb3c1c2d6d6c",
     "9a3fc4504c6a371e23fa60bcaf3b3426",
-    "cd02299cf26fc00a2065cefc16280a05"
+    "cd02299cf26fc00a2065cefc16280a05",
+    "9a010d5e486326cc5b5148b15c20b82b",
+    "bf522ce5fe0b99c8167d850619dff4f6"
   ]
 }
