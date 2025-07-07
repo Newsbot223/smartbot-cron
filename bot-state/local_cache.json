@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-und-iran-setzen-luftangriffe-fort-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-hoffnungsfroh-dass-israel-und-iran-spirale-der-gewalt-unterbrechen-100.html",
-    "https://www.deutschlandfunk.de/ein-toter-und-zahlreiche-verletzte-beim-absturz-zweier-heissluftballons-102.html",
-    "https://www.deutschlandfunk.de/scheidender-bpb-chef-krueger-wirbt-fuer-mehr-verstaendnis-fuer-ostdeutsche-besonderheiten-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-bundeswehr-als-festen-bestandteil-der-gesellschaft-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-ausweitung-des-konflikts-im-nahen-osten-verhindern-102.html",
     "https://www.faz.net/aktuell/politik/inland/thueringer-linke-ueberrascht-mit-neuer-fuehrung-110538219.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/gruene-in-frankfurt-junge-wilde-moradi-ist-neue-parteisprecherin-110538117.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/us-praesident-trump-hohe-importzoelle-gegen-verschiedene-laender-in-asien-und-afrika-ab-1-august-100.html",
     "https://www.deutschlandfunk.de/klage-gegen-franzoesischen-ex-premier-abgewiesen-100.html",
     "https://www.deutschlandfunk.de/kommentar-zu-poln-grenzkontrollen-verstaendlicher-akt-der-revanche-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-wollen-drohnenporduktion-ausbauen-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-wollen-drohnenporduktion-ausbauen-100.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-entwurf-fuer-haushaltsgesetz-100.html",
+    "https://www.deutschlandfunk.de/parlament-befragt-sonderermittlerin-sudhof-100.html",
+    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-weist-vorwuerfe-aus-misstrauensantrag-zurueck-104.html",
+    "https://www.deutschlandfunk.de/steinmeier-trifft-praesident-rinkevics-und-ministerpraesidentin-silina-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-wahlausschuss-nominiert-richterkandidaten-brosius-gersdorf-benannt-110579785.html"
   ],
   "content_hashes": [
-    "953869a96c3cf6d3939f7a88aa914da8",
-    "c2a5ef407d5b86141cc7429296b62931",
-    "7dbbf875af7688c03719a6ae8b0fe434",
-    "125c990845209bf9ea63567c990d63b3",
-    "7332e31e62c2476bcb85bfa9bf906cab",
     "7731c75348a2e042692b67067fc1a4f7",
     "cf5dbaa21f921a771613ab59c107f2e5",
     "884fa716b2ef34d8b9843d57146ef23d",
@@ -2001,14 +1996,14 @@
     "b62fb9e1bf690b0fae17c30a1cd9986d",
     "c4581411f7cf8e8f4005053a0952f266",
     "2818ddcc8b263d108ce01d70d229adff",
-    "3a4cd49e91fdf700a342cc187f6247d1"
+    "3a4cd49e91fdf700a342cc187f6247d1",
+    "aa0cecf6ec0eb180c26253db4cbc8535",
+    "b10f63fea7a54eed7b411ca26f7f71da",
+    "d7aa85a903a16f26ec307b0508789526",
+    "ae1ee0c2d8f20bd503ab1550683c57b0",
+    "8999dc3f35d59ce07d0f359100a9b32a"
   ],
   "titles": [
-    "Nahost - Israel und Iran setzen Luftangriffe fort",
-    "Nahost - Außenminister Wadephul \"hoffnungsfroh, dass Israel und Iran Spirale der Gewalt unterbrechen\"",
-    "Türkei - Ein Toter und zahlreiche Verletzte beim Absturz zweier Heißluftballons",
-    "Bundeszentrale für politische Bildung - Scheidender bpb-Chef Krüger wirbt für mehr Verständnis für ostdeutsche Besonderheiten",
-    "Nationaler Veteranentag - Bundeskanzler Merz würdigt Bundeswehr als \"festen Bestandteil der Gesellschaft\"",
     "Eskalation zwischen Israel und Iran - Bundeskanzler Merz: \"Ausweitung des Konflikts im Nahen Osten verhindern\"",
     "Vorsitzenden-Wahl: Thüringer Linke überrascht mit neuer Führung",
     "Sieg einer „jungen Wilden“ bei den Vorstandswahlen der Frankfurter Grünen",
@@ -3003,14 +2998,14 @@
     "Handelsstreit - US-Präsident Trump: hohe Importzölle gegen verschiedene Länder in Asien und Afrika ab 1. August",
     "Corona-Pandemie - Klage gegen französischen Ex-Premier abgewiesen",
     "Grenzkontrollen - Kommentar: CDU/CSU haben die Axt ans alte Schengen-Europa gelegt",
-    "Russischer Angriffskrieg - Selenskyj: Wollen Drohnenporduktion ausbauen"
+    "Russischer Angriffskrieg - Selenskyj: Wollen Drohnenporduktion ausbauen",
+    "Bundestag - Debatte über Entwurf für Haushaltsgesetz",
+    "Masken-Affäre - Parlament befragt Sonderermittlerin Sudhof",
+    "Europaparlament - EU-Kommissionspräsidentin von der Leyen weist Vorwürfe aus Misstrauensantrag zurück",
+    "Lettland-Besuch - Steinmeier trifft Präsident Rinkevics und Ministerpräsidentin Silina",
+    "Wahlausschuss nominiert Richterkandidaten – Brosius-Gersdorf benannt"
   ],
   "hashes": [
-    "dd3ad6e80667eee778d6284ca18590a9",
-    "d6c710237421ced445661fa80777c7cf",
-    "e8f5b378215b0fbbbf0083ac6e27bad2",
-    "ba21b17f5378cabc19cadd59ca0c3106",
-    "cd0c8a64a0283ac3e3a8583ddfaa685d",
     "b53c6f93d681c54efb2339ca384bae32",
     "1e6ab376f148c33e0f76b7900abd9046",
     "1f81907ddb4be2d8fdd53932ab3fefc7",
@@ -4005,6 +4000,11 @@
     "4debd1d150a6f03d942fe15d3fdedeb3",
     "3292249a9b267a40607ec55e575662c5",
     "7db9bebbf2086c5458f3f8df8c6db168",
-    "6eecdf308416782d4e389c549b4a94a3"
+    "6eecdf308416782d4e389c549b4a94a3",
+    "f474cb8ac6bd573d766155e5dcfaca04",
+    "ed1ba217284e72d762eb8fd86ad4dc07",
+    "be84f3cf9aca7294529035cedf54001a",
+    "4f798b926680672f7a33bde58762a67d",
+    "8ca936b36bafed30e528c50ad45e0148"
   ]
 }
