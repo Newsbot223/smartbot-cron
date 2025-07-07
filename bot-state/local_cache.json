@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nigeria-begnadigt-aktivist-saro-wiwa-30-jahre-nach-hinrichtung-100.html",
-    "https://www.deutschlandfunk.de/viele-tote-bei-israelischen-angriffen-auf-den-iran-hochrangige-militaers-unter-den-opfern-102.html",
-    "https://www.deutschlandfunk.de/bundesrichterin-stoppt-wahlreform-trumps-vorerst-100.html",
     "https://www.deutschlandfunk.de/russland-steigert-laut-analyse-trotz-sanktionen-exportumsaetze-100.html",
     "https://www.deutschlandfunk.de/flugdatenschreiber-nach-air-india-absturz-mit-265-toten-geborgen-100.html",
     "https://www.deutschlandfunk.de/berufungsgericht-trump-darf-vorerst-kontrolle-ueber-nationalgarde-in-kalifornien-behalten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/csu-landesgruppenchef-hoffmann-spd-kandidatin-fuer-bundesverfassungsgericht-unterstuetzen-100.html",
     "https://www.deutschlandfunk.de/bund-laender-ag-startet-beratungen-fuer-reform-104.html",
     "https://www.deutschlandfunk.de/mehrere-tote-und-verletzte-bei-russischen-luftangriffen-100.html",
-    "https://www.deutschlandfunk.de/weitere-indirekte-verhandlungen-in-katar-erste-runde-ohne-ergebnis-102.html"
+    "https://www.deutschlandfunk.de/weitere-indirekte-verhandlungen-in-katar-erste-runde-ohne-ergebnis-102.html",
+    "https://www.deutschlandfunk.de/so-laeuft-die-wahl-von-verfassungsrichtern-ab-100.html",
+    "https://www.deutschlandfunk.de/vulkan-lewotobi-schleudert-asche-kilometerhoch-100.html",
+    "https://www.spiegel.de/politik/polen-beginnt-mit-kontrollen-an-deutscher-grenze-a-db51bdab-5e10-4ee4-89b5-a4fea2c504a4#ref=rss"
   ],
   "content_hashes": [
-    "69b2e1487f4f0ed556a74d1db0a08670",
-    "bf369f5efdd7f1e16db4c4ee4349ab09",
-    "67158b5aad0bb5d2615668d31dbe1c8c",
     "51746de697b945a451a350cc7c8d98c2",
     "2515432ad5c122076f4f7446cd0918d0",
     "c8286944127c5d9c0f296eb96ea181fc",
@@ -2001,12 +1998,12 @@
     "eba698c38613ca4559957fb2da922572",
     "1fe33590eacf644dfd60bc7296d71b90",
     "1d71d6b1524675652efb6f72175df63f",
-    "256011e210a8ecf7605ee628d5729d47"
+    "256011e210a8ecf7605ee628d5729d47",
+    "c5be0b2967c8d837f0c8c47197bd459e",
+    "95fe655ebeb727695af5402081415939",
+    "788f62c1a386a8a78797a1c57e412dff"
   ],
   "titles": [
-    "Afrika - Nigeria begnadigt Aktivist Saro-Wiwa - 30 Jahre nach Hinrichtung",
-    "Nahost - Viele Tote bei israelischen Angriffen auf den Iran - Hochrangige Militärs unter den Opfern",
-    "USA - Bundesrichterin stoppt Wahlreform Trumps vorerst",
     "Medienbericht - Russland steigert laut Analyse trotz Sanktionen Exportumsätze",
     "Ahmedabad - Flugdatenschreiber nach Air-India-Absturz mit 265 Toten geborgen",
     "USA - Berufungsgericht: Trump darf vorerst Kontrolle über Nationalgarde in Kalifornien behalten",
@@ -3003,12 +3000,12 @@
     "Abstimmung im Bundestag - CSU-Landesgruppenchef Hoffmann: SPD-Kandidatin für Bundesverfassungsgericht unterstützen",
     "Pflegeversicherung - Bund-Länder-AG startet Beratungen für Reform",
     "Ukraine-Krieg - Mehrere Tote und Verletzte bei russischen Luftangriffen",
-    "Gaza-Krieg - Weitere indirekte Verhandlungen in Katar - erste Runde ohne Ergebnis"
+    "Gaza-Krieg - Weitere indirekte Verhandlungen in Katar - erste Runde ohne Ergebnis",
+    "Neubesetzung - So läuft die Wahl von Verfassungsrichtern ab",
+    "Indonesien - Vulkan Lewotobi schleudert Asche kilometerhoch",
+    "Polen beginnt mit Kontrollen an deutscher Grenze"
   ],
   "hashes": [
-    "c4e35b8ca5e8d0fa5cf2efafa2122121",
-    "f270d24840ed7f165ee01ee5c92d33a4",
-    "b46f9fedda02fe8724d2b383d7495123",
     "fcd42f4e5b75dc102d3b472aa5e8b6e3",
     "a4a1f3ef8fb41b400616a335b58c296d",
     "f27b90a841d8701136fe30512c9598b6",
@@ -4005,6 +4002,9 @@
     "fc8ec45dbb8a47ffa3eabe4c1d291d0e",
     "cd79c148424bb1e415818d2e5c4bc1b4",
     "4f7d2b1911f7c0a872f8534d49590729",
-    "c35a25e5f578447808a8fe68acb9a60d"
+    "c35a25e5f578447808a8fe68acb9a60d",
+    "87a8f3351fab7da070ec8d9d6b85ed41",
+    "8a4325cf0b032831f628b2031ff2554c",
+    "11a554a484f5beb64a071628781887ad"
   ]
 }
