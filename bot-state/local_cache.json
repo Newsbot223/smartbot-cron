@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-steigert-laut-analyse-trotz-sanktionen-exportumsaetze-100.html",
-    "https://www.deutschlandfunk.de/flugdatenschreiber-nach-air-india-absturz-mit-265-toten-geborgen-100.html",
     "https://www.deutschlandfunk.de/berufungsgericht-trump-darf-vorerst-kontrolle-ueber-nationalgarde-in-kalifornien-behalten-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/finanzminister-klingbeil-in-frankfurt-offen-fuer-fondsgebundene-altersvorsorge-110536287.html",
     "https://www.deutschlandfunk.de/zwei-briten-wegen-diebstahls-von-goldener-toilette-zu-haftstrafen-verurteilt-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weitere-indirekte-verhandlungen-in-katar-erste-runde-ohne-ergebnis-102.html",
     "https://www.deutschlandfunk.de/so-laeuft-die-wahl-von-verfassungsrichtern-ab-100.html",
     "https://www.deutschlandfunk.de/vulkan-lewotobi-schleudert-asche-kilometerhoch-100.html",
-    "https://www.spiegel.de/politik/polen-beginnt-mit-kontrollen-an-deutscher-grenze-a-db51bdab-5e10-4ee4-89b5-a4fea2c504a4#ref=rss"
+    "https://www.spiegel.de/politik/polen-beginnt-mit-kontrollen-an-deutscher-grenze-a-db51bdab-5e10-4ee4-89b5-a4fea2c504a4#ref=rss",
+    "https://www.deutschlandfunk.de/produktion-im-mai-gestiegen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/polen-beginnt-mit-kontrollen-an-grenze-zu-deutschland-110578225.html"
   ],
   "content_hashes": [
-    "51746de697b945a451a350cc7c8d98c2",
-    "2515432ad5c122076f4f7446cd0918d0",
     "c8286944127c5d9c0f296eb96ea181fc",
     "8d8bd89d70f2ebd1d1714af3971aff7b",
     "8101d551b4f63d472cf81c575365c523",
@@ -2001,11 +1999,11 @@
     "256011e210a8ecf7605ee628d5729d47",
     "c5be0b2967c8d837f0c8c47197bd459e",
     "95fe655ebeb727695af5402081415939",
-    "788f62c1a386a8a78797a1c57e412dff"
+    "788f62c1a386a8a78797a1c57e412dff",
+    "b4eabc3c21aa8918beba47ae627855ac",
+    "93ed3bca1c8c7a7e2b9513854e4abd76"
   ],
   "titles": [
-    "Medienbericht - Russland steigert laut Analyse trotz Sanktionen Exportumsätze",
-    "Ahmedabad - Flugdatenschreiber nach Air-India-Absturz mit 265 Toten geborgen",
     "USA - Berufungsgericht: Trump darf vorerst Kontrolle über Nationalgarde in Kalifornien behalten",
     "Warum Lars Klingbeil von der Börse beeindruckt ist",
     "Kunstraub - Zwei Briten wegen Diebstahls von goldener Toilette zu Haftstrafen verurteilt",
@@ -3003,11 +3001,11 @@
     "Gaza-Krieg - Weitere indirekte Verhandlungen in Katar - erste Runde ohne Ergebnis",
     "Neubesetzung - So läuft die Wahl von Verfassungsrichtern ab",
     "Indonesien - Vulkan Lewotobi schleudert Asche kilometerhoch",
-    "Polen beginnt mit Kontrollen an deutscher Grenze"
+    "Polen beginnt mit Kontrollen an deutscher Grenze",
+    "Wirtschaft - Produktion im Mai gestiegen",
+    "Migration: Polen beginnt mit Kontrollen an Grenze zu Deutschland"
   ],
   "hashes": [
-    "fcd42f4e5b75dc102d3b472aa5e8b6e3",
-    "a4a1f3ef8fb41b400616a335b58c296d",
     "f27b90a841d8701136fe30512c9598b6",
     "db5c0431d052ccbcdf2425e68a043fbc",
     "7c61bc15a87902cd55b06166a1c3ae41",
@@ -4005,6 +4003,8 @@
     "c35a25e5f578447808a8fe68acb9a60d",
     "87a8f3351fab7da070ec8d9d6b85ed41",
     "8a4325cf0b032831f628b2031ff2554c",
-    "11a554a484f5beb64a071628781887ad"
+    "11a554a484f5beb64a071628781887ad",
+    "8e4e9d553e1629543b4dd0318048e111",
+    "90d277a1592a18e566672e5bbf3be2de"
   ]
 }
