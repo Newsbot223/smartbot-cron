@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/40-jahre-schengen-100.html",
-    "https://www.deutschlandfunk.de/klein-sieht-erhoehte-bedrohungslage-fuer-juden-in-deutschland-102.html",
-    "https://www.deutschlandfunk.de/kloeckner-beklagt-wettlauf-von-afd-und-linken-um-ordnungsrufe-102.html",
     "https://www.deutschlandfunk.de/rotes-kreuz-fordert-18-milliarden-euro-fuer-soziale-infrastruktur-106.html",
     "https://www.spiegel.de/politik/deutschland/bundeswehr-jens-spahn-fordert-vorbereitung-fuer-die-rueckkehr-der-wehrpflicht-a-c62f694a-9103-4de8-8930-2f4b79bdb16d#ref=rss",
     "https://www.deutschlandfunk.de/wadephul-reist-nach-saudi-arabien-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/steinmeier-gedenkt-der-ns-opfer-100.html",
     "https://www.deutschlandfunk.de/nordamerika-expertin-gienow-hecht-republikaner-muessen-plaene-ernst-nehmen-100.html",
     "https://www.deutschlandfunk.de/afd-politiker-keuter-bekraeftigt-willen-zur-verhaltensaenderung-seiner-fraktion-102.html",
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html"
+    "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html",
+    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-warnt-vor-negativen-folgen-kein-guter-tag-fuer-deutsch-polnisches-verhael-100.html",
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessengeld-gruene-kritisieren-cdu-wahlgeschenk-110573954.html",
+    "https://www.faz.net/aktuell/politik/inland/polen-kontrolliert-grenze-das-bringt-das-ganze-schengen-system-an-die-grenzen-110578225.html"
   ],
   "content_hashes": [
-    "aeaba0aaa4b9776a0bfc493382b4be11",
-    "f6815116ac3da2e5a8198a28ae17b6eb",
-    "5c6ac92323b3129b3766909affdba620",
     "edf77f4496a5fbee12c4fb7dcb2a75ad",
     "5f25024f611d12b4a13b6e69fdc9c84b",
     "b0e70697593ce6ec3001a4cf421cf130",
@@ -2001,12 +1998,12 @@
     "fe909f474971bc40b847f419a9c51edb",
     "2080bb9014571ee7488819495bab1f8b",
     "0fbabbf94ef38f8ccaf4ff5206faf06c",
-    "5cc8a841f01d4b734317ab348e00471c"
+    "5cc8a841f01d4b734317ab348e00471c",
+    "b1ef142b73aa230c2d282018490b13fc",
+    "0a2db16cdaa42c0a80cf08e6b785d0b2",
+    "6e46345b02144b3bd3f8f51b04b4ff20"
   ],
   "titles": [
-    "Europäische Union - 40 Jahre Schengen",
-    "Nahost-Krise - Klein sieht erhöhte Bedrohungslage für Juden in Deutschland",
-    "Gewachsene Fraktionen - Klöckner beklagt Wettlauf von AfD und Linken um Ordnungsrufe",
     "Sondervermögen - Rotes Kreuz fordert 18 Milliarden Euro für soziale Infrastruktur",
     "Bundeswehr: Jens Spahn fordert Vorbereitung für die Rückkehr der Wehrpflicht",
     "Nahostvisite - Wadephul reist nach Saudi-Arabien",
@@ -3003,12 +3000,12 @@
     "Litauen-Besuch - Steinmeier gedenkt der NS-Opfer",
     "Neue Musk-Partei - Nordamerika-Expertin Gienow-Hecht: Republikaner müssen Pläne ernst nehmen",
     "Bundestag - AfD-Politiker Keuter bekräftigt Willen zur Verhaltensänderung seiner Fraktion",
-    "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet"
+    "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet",
+    "Grenzkontrollen - Polen-Beauftragter Abraham warnt vor negativen Folgen: \"Kein guter Tag für deutsch-polnisches Verhältnis\"",
+    "Förderung für Häuslebauer: Grüne kritisieren Hessengeld als wirkungsloses Wahlgeschenk",
+    "Polen kontrolliert Grenze: „Das bringt das ganze Schengen-System an die Grenzen“"
   ],
   "hashes": [
-    "27ceae0c9902b20ca5039b9c3f022491",
-    "3310a440bd433051209a11755ec97c88",
-    "f464de696e17f0e3375fc134b4dcc966",
     "082311053a27da0b6907cf532ea18ff5",
     "fd0a2f17b4acf6cfac0fd52745f31c63",
     "2b909ec211b365d778cbb528c8702d22",
@@ -4005,6 +4002,9 @@
     "d82915039f0394ae17f9565f05858683",
     "b2f9567c0f4aaa696e4dfd4ee37d8830",
     "9a6d9a0892360c204132a50556bebc40",
-    "b8d24b614b2d787d7b8bcfc292f405db"
+    "b8d24b614b2d787d7b8bcfc292f405db",
+    "21c9fbf40669414df23bfb3c1c2d6d6c",
+    "9a3fc4504c6a371e23fa60bcaf3b3426",
+    "cd02299cf26fc00a2065cefc16280a05"
   ]
 }
