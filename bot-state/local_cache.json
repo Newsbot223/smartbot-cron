@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/vermummte-greifen-kundgebung-gegen-rechts-in-brandenburg-an-110538494.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-wir-haben-ein-alkohol-und-tabakproblem-in-deutschland-102.html",
     "https://www.faz.net/aktuell/politik/inland/veteranentag-ueberfaellige-ehrung-von-soldaten-110538011.html",
     "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-heute-keine-familienreservierungen-bei-der-deutschen-bahn-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/netanjahu-schlaegt-trump-fuer-friedensnobelpreis-vor-trump-kuendigt-erneute-waffenlieferungen-in-die-100.html",
     "https://www.deutschlandfunk.de/zahl-der-rentner-die-grundsicherung-beziehen-ist-gestiegen-100.html",
     "https://www.deutschlandfunk.de/trump-und-netanjahu-sprechen-ueber-umsiedlung-von-palaestinensern-100.html",
-    "https://www.deutschlandfunk.de/usa-verhaengen-hohe-importzoelle-gegen-laender-in-asien-und-afrika-100.html"
+    "https://www.deutschlandfunk.de/usa-verhaengen-hohe-importzoelle-gegen-laender-in-asien-und-afrika-100.html",
+    "https://www.deutschlandfunk.de/israels-premier-netanjahu-bei-us-praesident-trump-100.html"
   ],
   "content_hashes": [
-    "44b16cd102c713492915d8ddd988ac9d",
     "a727161b5fe1ff520570b5be33e11fc2",
     "74dac81c0d2cc79b92e826781135188e",
     "27d4835e7ad42d6fafff65d3df2b1fc6",
@@ -2001,10 +2000,10 @@
     "233540cfbd681c56a0504194bd2dcdbc",
     "0e9f27d41bbd7df656782f0158e4e3e4",
     "7b43b0b021a9ee2dd50d278969f0760b",
-    "4befc0fa0b3c39a4e9ce44cca6f21254"
+    "4befc0fa0b3c39a4e9ce44cca6f21254",
+    "78ac5b3bff5dea185aa35a0e5dbbe9c4"
   ],
   "titles": [
-    "Vermummte greifen Kundgebung gegen rechts in Brandenburg an",
     "Drogenbeauftragter Streeck: \"Wir haben ein Alkohol- und Tabakproblem in Deutschland\"",
     "Nationaler Veteranentag: Überfällige Ehrung von Bundeswehrsoldaten",
     "Verkehr - Trotz empörter Reaktionen - ab heute keine Familienreservierungen bei der Deutschen Bahn",
@@ -3003,10 +3002,10 @@
     "Treffen im Weißen Haus - Netanjahu schlägt Trump für Friedensnobelpreis vor - Trump kündigt erneute Waffenlieferungen in die Ukraine an",
     "Altersarmut - Zahl der Rentner, die Grundsicherung beziehen, ist gestiegen",
     "Treffen im Weißen Haus - Trump und Netanjahu sprechen über Umsiedlung von Palästinensern",
-    "Handelsstreit - USA verhängen hohe Importzölle gegen Länder in Asien und Afrika"
+    "Handelsstreit - USA verhängen hohe Importzölle gegen Länder in Asien und Afrika",
+    "Nahostkonflikt - Trump zuversichtlich in puncto Waffenruhe mit Hamas"
   ],
   "hashes": [
-    "9dc44ccad96055b237b370a1ac8fb085",
     "118a8f6946364e9138fe667435f9fdd8",
     "c12b1fdc35eb07793af08976c4b10042",
     "f97341bb49d52c28b800ed27c55d953f",
@@ -4005,6 +4004,7 @@
     "5bded1ed2f7bf1cc081fe937815398bf",
     "4881a2ec966118e34fe009ad1808bc4e",
     "3607e374f95978fa95479af9844054cb",
-    "e2065881cd71cb0725e4643b92311903"
+    "e2065881cd71cb0725e4643b92311903",
+    "0d4f53031d145d1bbf8f1d4acb61cf38"
   ]
 }
