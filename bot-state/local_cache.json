@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-grossdemonstration-gegen-israel-i-100.html",
-    "https://www.deutschlandfunk.de/palaestinenser-melden-mehr-als-40-tote-nach-israelischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/vermummte-greifen-familienfest-gegen-rechts-an-innenminister-wilke-verurteilt-gewalt-100.html",
-    "https://www.deutschlandfunk.de/macron-und-frederiksen-beschwoeren-groenlands-souveraenitaet-100.html",
     "https://www.deutschlandfunk.de/trotz-empoerter-reaktionen-ab-sofort-keine-familienreservierungen-bei-der-deutschen-bahn-100.html",
     "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistliches-chamenei-ab-102.html",
     "https://www.deutschlandfunk.de/selenskyj-fordert-vor-g7-gipfel-mehr-druck-auf-russland-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/italienische-polizei-hebt-internationale-schleuserbande-aus-100.html",
     "https://www.faz.net/aktuell/politik/inland/auswaertiges-amt-chinesischer-laserangriff-auf-deutsches-flugzeug-110580110.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-bundeswehr-flugzeug-von-china-per-laser-ins-visier-genommen-chinesischer-botschafte-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-102.html"
+    "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-102.html",
+    "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-opposition-wirft-regierung-gebrochene-wahlvers-100.html",
+    "https://www.deutschlandfunk.de/haushaltsausschuss-befragt-masken-ermittlerin-sudhof-gruene-bleiben-bei-forderung-nach-untersuchungs-100.html",
+    "https://www.deutschlandfunk.de/im-fruehjahr-so-viele-firmenpleiten-wie-seit-20-jahren-nicht-mehr-100.html",
+    "https://www.deutschlandfunk.de/prozessbeginn-gegen-fico-attentaeter-102.html"
   ],
   "content_hashes": [
-    "74362b3fcc5209867cb28c3c11e15c19",
-    "8058645513ee40b88cf064ff78770285",
-    "fdb55ea7fc2345e7e2809cee968e9bf2",
-    "65d7ae98ab14fa6b39efb9cd52d8aec4",
     "228bec1637fbe90d67a6bc1fd5ab02c7",
     "a68567df70022447b6ec06267286adf9",
     "694736c46325e5f9e78286c6a1c840f5",
@@ -2001,13 +1997,13 @@
     "ded489792960589c531df1b0f1bd25e8",
     "2e0ba1d967e447c097f93ac418fd5f7a",
     "9654ca59d972fc4f5517564d5100511f",
-    "bc7c23d578ebce3774ab4cc7c0cf1bdb"
+    "bc7c23d578ebce3774ab4cc7c0cf1bdb",
+    "0be293f6e4c0c85decb4d831f471f581",
+    "45f7769376cb335d14ca37698701f593",
+    "1cab7af7c9e4306f7ec474b809dc3df9",
+    "596b0d036d0b64c35863eb730042543f"
   ],
   "titles": [
-    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen - Großdemonstration gegen Israel in Den Haag",
-    "Gazastreifen - Palästinenser melden mehr als 40 Tote nach israelischen Angriffen",
-    "Brandenburg - Vermummte greifen Familienfest gegen Rechts an - Innenminister Wilke verurteilt Gewalt",
-    "Nach US-Vorstoß - Macron und Frederiksen beschwören Grönlands Souveränität",
     "Verkehr - Trotz empörter Reaktionen - ab sofort keine Familienreservierungen bei der Deutschen Bahn",
     "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistliches Chamenei ab",
     "Vor dem Treffen in Kanada - Selenskyj fordert vor G7-Gipfel mehr Druck auf Russland",
@@ -3003,13 +2999,13 @@
     "Kalabrien - Italienische Polizei hebt internationale Schleuserbande aus",
     "Auswärtiges Amt: Chinesischer Laserangriff auf deutsches Flugzeug",
     "EU-Mission Aspides - Auswärtiges Amt: Bundeswehr-Flugzeug von China per Laser ins Visier genommen - chinesischer Botschafter einbestellt",
-    "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung"
+    "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung",
+    "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung - Opposition wirft Regierung gebrochene Wahlversprechen vor",
+    "Bundestag - Haushaltsausschuss befragt Masken-Ermittlerin Sudhof - Grüne bleiben bei Forderung nach Untersuchungsausschuss",
+    "Wirtschaft - Im Frühjahr so viele Firmenpleiten wie seit 20 Jahren nicht mehr",
+    "Slowakei - Prozessbeginn gegen Fico-Attentäter"
   ],
   "hashes": [
-    "002d841fb3f454cb76ff59c841b83083",
-    "ead18164cb574813604f64c61d4865aa",
-    "741f2bcf691c00e4356206d79c4e7ec8",
-    "2844e631a97eebefdfc9d2f2148be13d",
     "eae5d52b52b4109dbf22de004c5911f1",
     "7c2adc6fd2920da4188fde6fb1e199dd",
     "35bf9e020b55e21b52c28636a981e18b",
@@ -4005,6 +4001,10 @@
     "1008328352da73e772893b078af5943b",
     "02d61fa2f35b85ac194219f84d632299",
     "a1c786a0bf9fc5f07d9f4f5edbfb4946",
-    "4a7cf2bf56e1cb32d00dfcdb6f9d7fed"
+    "4a7cf2bf56e1cb32d00dfcdb6f9d7fed",
+    "79b234a66f53a116fb2e306aad66f575",
+    "69bef48de0c185c2af8baaf00f609ed1",
+    "6758d12849004ac3280e5c8f69a6cbca",
+    "596d08936ab289d9e841444a03aa405f"
   ]
 }
