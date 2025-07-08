@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sachsen-anhalts-infrastrukturministerin-hueskens-fordert-klare-finanzierung-fuer-deutschlandticket-100.html",
-    "https://www.deutschlandfunk.de/washington-post-von-hackerangriff-betroffen-100.html",
-    "https://www.deutschlandfunk.de/us-vertreter-trump-lehnte-plan-israels-zur-toetung-von-irans-geistlichem-oberhaupt-chamenei-ab-100.html",
-    "https://www.deutschlandfunk.de/iran-meldet-hinrichtung-eines-israelischen-agenten-100.html",
     "https://www.deutschlandfunk.de/faelle-von-kirchenasyl-haben-laut-medienbericht-zugenommen-100.html",
     "https://www.spiegel.de/wirtschaft/nahost-krieg-bundesbankchef-joachim-nagel-warnt-vor-folgen-fuer-deutsche-wirtschaft-a-b1c0aa6a-bdfb-40c0-ac98-f48d78436f8f#ref=rss",
     "https://www.deutschlandfunk.de/tschechien-bringt-seine-staatsbuerger-aus-israel-in-sicherheit-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/opposition-sieht-nach-sudhof-befragung-offene-fragen-102.html",
     "https://www.aljazeera.com/gallery/2025/7/8/nearly-half-a-million-afghans-return-from-iran-amid-crackdown?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/fluechtlinge-aus-afghanistan-gericht-will-regierung-zur-aufnahme-zwingen-110580312.html",
-    "https://www.deutschlandfunk.de/gruenes-licht-fuer-beitritt-bulgariens-zur-euro-zone-100.html"
+    "https://www.deutschlandfunk.de/gruenes-licht-fuer-beitritt-bulgariens-zur-euro-zone-100.html",
+    "https://www.deutschlandfunk.de/eu-aktiviert-ausnahmen-vom-stabilitaetspakt-fuer-15-laender-100.html",
+    "https://www.deutschlandfunk.de/eu-mission-drei-tote-bei-angriff-auf-frachtschiff-102.html",
+    "https://www.deutschlandfunk.de/steinmeier-fuer-mehr-gemeinsame-ruestungsproduktion-in-europa-102.html",
+    "https://www.deutschlandfunk.de/daimler-truck-will-5-000-stellen-in-deutschland-streichen-102.html"
   ],
   "content_hashes": [
-    "3124ed26825b5714b8ed4e1943ffbd2b",
-    "ca5dd4602d4592727f7fb94a631374a7",
-    "8acc0cb0ff52cb4d3b2f700c6f52f50a",
-    "c266ddce16595f6107df29eec9e6b2d9",
     "1a0507c25eebf63280ce72b8a56fe6e5",
     "ca2ed60ba7d290cc9a167fc4869d8b55",
     "5b900fd4d4c969bad0416850a3f79c48",
@@ -2001,13 +1997,13 @@
     "07c5afbda4ab7afd0d6ffcdcb30066fe",
     "729755d3acf92b1b3fa1a76abdd21e08",
     "99008728818688b72be848315b50b2f3",
-    "9f68d35000b3677a6475a479d40d3de2"
+    "9f68d35000b3677a6475a479d40d3de2",
+    "b4158da5f8ce7ca30e13d90f45dd450a",
+    "4073f49f08fd75ce4c88276fa87907c6",
+    "a917ec82b2208db87cd27f2be8b9ad4e",
+    "18d5b2dd0d7ed0a79ae42a0222263277"
   ],
   "titles": [
-    "FDP-Politikerin - Sachsen-Anhalts Infrastrukturministerin Hüskens fordert klare Finanzierung für Deutschlandticket",
-    "USA - \"Washington Post\" von Hackerangriff betroffen",
-    "Nahost - US-Vertreter: Trump lehnte Plan Israels zur Tötung von Irans geistlichem Oberhaupt Chamenei ab",
-    "Nahost - Iran meldet Hinrichtung eines israelischen Agenten",
     "Migration - Fälle von Kirchenasyl haben laut Medienbericht zugenommen",
     "Nahost-Krieg: Bundesbankchef Joachim Nagel warnt vor Folgen für deutsche Wirtschaft",
     "Eskalation in Nahost - Tschechien bringt seine Staatsbürger aus Israel in Sicherheit",
@@ -3003,13 +2999,13 @@
     "Maskenaffäre - Opposition sieht nach Sudhof-Befragung offene Fragen",
     "Nearly half a million Afghans return from Iran after crackdown",
     "Afghanische Flüchtlinge: Gericht will Bundesregierung zur Aufnahme zwingen",
-    "EU-Finanzministertreffen - Grünes Licht für Beitritt Bulgariens zur Euro-Zone"
+    "EU-Finanzministertreffen - Grünes Licht für Beitritt Bulgariens zur Euro-Zone",
+    "Verteidigungsausgaben - EU aktiviert Ausnahmen vom Stabilitätspakt für 15 Länder",
+    "Rotes Meer - EU-Mission: Drei Tote bei Angriff auf Frachtschiff",
+    "Besuch in Lettland - Steinmeier für mehr gemeinsame Rüstungsproduktion in Europa",
+    "Nutzfahrzeuge - Daimler Truck will 5.000 Stellen in Deutschland streichen"
   ],
   "hashes": [
-    "cef0c4c78a6bb5c5fd7b6c32907a4eee",
-    "d6badc8414b946a5c8789f20045e0b2f",
-    "27f6a296e9963bc9261b199dceb9f3e3",
-    "497ab890d4905a80acce53903df6b455",
     "a575a0205cfdd4fa0bf2cc2dae9af773",
     "7d9a14b78fd585819c09d3fbb50d3b47",
     "0160f0751be6050cc800c12cbfbe260e",
@@ -4005,6 +4001,10 @@
     "33794dee18ce72e889287dabc20f235d",
     "39fb0124e212777f1e0d08e26be8e186",
     "430a54a2db756794cf3087fc09c18348",
-    "6b13c613bc353bd108078a82244e48c6"
+    "6b13c613bc353bd108078a82244e48c6",
+    "d8deb2b7de720ff4dfd15adffc605dec",
+    "298f276576b1e0c66551d0c57b1ee8aa",
+    "d60fcbfa1eabbdd3450bfac9f2ec3c93",
+    "451214e91bfc97300f03ce932b18e675"
   ]
 }
