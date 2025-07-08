@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flugzeugabsturz-in-indien-zweiter-flugschreiber-geborgen-100.html",
-    "https://www.deutschlandfunk.de/stockholmer-friedensforschungsinstitut-sipri-warnt-vor-atomarem-wettruesten-100.html",
-    "https://www.deutschlandfunk.de/tatverdaechtiger-in-minnesota-gefasst-nach-toedlichen-schuessen-auf-demokratische-politikerin-100.html",
     "https://www.deutschlandfunk.de/eu-ratspraesident-costa-mahnt-g7-gipfel-zur-geschlossenheit-100.html",
     "https://www.deutschlandfunk.de/sachsen-anhalts-infrastrukturministerin-hueskens-fordert-klare-finanzierung-fuer-deutschlandticket-100.html",
     "https://www.deutschlandfunk.de/washington-post-von-hackerangriff-betroffen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/prozessbeginn-gegen-fico-attentaeter-102.html",
     "https://www.deutschlandfunk.de/tuerkei-wegen-haft-fuer-oppositionspolitiker-demirtas-verurteilt-100.html",
     "https://www.deutschlandfunk.de/arbeitszeitkonten-gewinnen-an-bedeutung-angesparte-stunden-auf-hoechststand-100.html",
-    "https://www.deutschlandfunk.de/unabhaengige-wahlbeobachter-beenden-arbeit-102.html"
+    "https://www.deutschlandfunk.de/unabhaengige-wahlbeobachter-beenden-arbeit-102.html",
+    "https://www.deutschlandfunk.de/opposition-sieht-nach-sudhof-befragung-offene-fragen-102.html",
+    "https://www.aljazeera.com/gallery/2025/7/8/nearly-half-a-million-afghans-return-from-iran-amid-crackdown?traffic_source=rss",
+    "https://www.faz.net/aktuell/politik/inland/fluechtlinge-aus-afghanistan-gericht-will-regierung-zur-aufnahme-zwingen-110580312.html"
   ],
   "content_hashes": [
-    "5086ff2717362346c1eb5d372af011a7",
-    "f6bdb5e65efc1f7affd901208a684955",
-    "a03416659cf4314b90b200e06b12cb59",
     "0fe43e71b175f66d3f140e4ee68d8886",
     "3124ed26825b5714b8ed4e1943ffbd2b",
     "ca5dd4602d4592727f7fb94a631374a7",
@@ -2001,12 +1998,12 @@
     "596b0d036d0b64c35863eb730042543f",
     "12a9d6d6b7b9ac296dd3e4cebb8a9f9e",
     "62301f8b039ecad5a4782915444c1474",
-    "fe6a809c133c74e631b42a8eb93c8830"
+    "fe6a809c133c74e631b42a8eb93c8830",
+    "07c5afbda4ab7afd0d6ffcdcb30066fe",
+    "729755d3acf92b1b3fa1a76abdd21e08",
+    "99008728818688b72be848315b50b2f3"
   ],
   "titles": [
-    "Air-India-Maschine - Flugzeugabsturz in Indien: zweiter Flugschreiber geborgen",
-    "Neuer Jahresbericht - Stockholmer Friedensforschungsinstitut Sipri warnt vor atomarem Wettrüsten",
-    "USA - Tatverdächtiger in Minnesota gefasst nach tödlichen Schüssen auf demokratische Politikerin",
     "Kananaskis - EU-Ratspräsident Costa mahnt G7-Gipfel zur Geschlossenheit",
     "FDP-Politikerin - Sachsen-Anhalts Infrastrukturministerin Hüskens fordert klare Finanzierung für Deutschlandticket",
     "USA - \"Washington Post\" von Hackerangriff betroffen",
@@ -3003,12 +3000,12 @@
     "Slowakei - Prozessbeginn gegen Fico-Attentäter",
     "Menschenrechtsgerichtshof - Türkei wegen Haft für Oppositionspolitiker Demirtas verurteilt",
     "Wirtschaft - Arbeitszeitkonten gewinnen an Bedeutung - angesparte Stunden auf Höchststand",
-    "Russland - Unabhängige Wahlbeobachter beenden Arbeit"
+    "Russland - Unabhängige Wahlbeobachter beenden Arbeit",
+    "Maskenaffäre - Opposition sieht nach Sudhof-Befragung offene Fragen",
+    "Nearly half a million Afghans return from Iran after crackdown",
+    "Afghanische Flüchtlinge: Gericht will Bundesregierung zur Aufnahme zwingen"
   ],
   "hashes": [
-    "a0cdaa9fbf39c6f1b68acd67654a1e81",
-    "62a83ddb7b0d0f2e5897e20ebb588430",
-    "79950ca06e23a534def3194be4ddec84",
     "26f5cf8f67d57aebdeae032f51e6b2e6",
     "cef0c4c78a6bb5c5fd7b6c32907a4eee",
     "d6badc8414b946a5c8789f20045e0b2f",
@@ -4005,6 +4002,9 @@
     "596d08936ab289d9e841444a03aa405f",
     "101ed22e91bc3717093352f0b0d72a00",
     "a421ede2fe357356e06045193128d2c7",
-    "ec63024a571d5b5f20c156881d488d0b"
+    "ec63024a571d5b5f20c156881d488d0b",
+    "33794dee18ce72e889287dabc20f235d",
+    "39fb0124e212777f1e0d08e26be8e186",
+    "430a54a2db756794cf3087fc09c18348"
   ]
 }
