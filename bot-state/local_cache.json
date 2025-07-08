@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/drei-monate-sendeverbot-fuer-zwei-franzoesische-rundfunkanstalten-100.html",
-    "https://www.faz.net/aktuell/politik/inland/debatte-ueber-wehrpflicht-die-lage-fordert-es-uns-ab-110534819.html",
     "https://www.deutschlandfunk.de/netanjahu-angriffe-haben-iranisches-atomprogramm-weit-zurueckgeworfen-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-die-afd-mit-der-wehrpflicht-hadert-110539823.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-mehrere-tote-bei-verteilzentrum-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ai-slop-die-vermuellung-des-internets-100.html",
     "https://www.deutschlandfunk.de/libyen-bespricht-mit-eu-ministern-plan-zur-eindaemmung-der-migration-nach-europa-100.html",
     "https://www.deutschlandfunk.de/merz-pocht-auf-baldige-reformen-nicht-nur-kommissionen-einsetzen-100.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-will-ukraine-wieder-bei-luftverteidigung-unterstuetzen-100.html"
+    "https://www.deutschlandfunk.de/us-praesident-trump-will-ukraine-wieder-bei-luftverteidigung-unterstuetzen-100.html",
+    "https://www.deutschlandfunk.de/merz-redet-erstmals-als-kanzler-in-einer-generaldebatte-100.html",
+    "https://www.deutschlandfunk.de/feuer-in-marseille-noch-nicht-geloescht-einsatz-wird-gesamte-nacht-andauern-102.html"
   ],
   "content_hashes": [
-    "bf18a56c61aa3d373970512ce2d36eec",
-    "7cd768d06b554ac5a52a3ea384826f9f",
     "33ace9369f0d6219e37010b21844c490",
     "d31a6de936d0e314a56543d34945ffe9",
     "3d3911fab8b1ae356e1580f18dc71b9b",
@@ -2001,11 +1999,11 @@
     "1fc75ec8830caadf803c812e1baef096",
     "eb56e34defaa2794f05030fbb157322a",
     "1e9f61324169cbe7d8ad293f8874e6a0",
-    "923682fd916d7ec302b3bd6949e83d28"
+    "923682fd916d7ec302b3bd6949e83d28",
+    "c748fc0cbd9b20b0af5611652e80fc32",
+    "cb803eb5d00224352ebb2174daf0eba2"
   ],
   "titles": [
-    "Togo - Drei Monate Sendeverbot für zwei französische Rundfunkanstalten",
-    "„Die sicherheitspolitische Lage fordert es uns ab“",
     "Israel - Netanjahu: Angriffe haben iranisches Atomprogramm weit zurückgeworfen",
     "Warum die AfD mit der Wehrpflicht hadert",
     "Gazastreifen - Palästinenser melden mehrere Tote bei Verteilzentrum",
@@ -3003,11 +3001,11 @@
     "AI Slop - Die Vermüllung des Internets",
     "Mittelmeer - Libyen bespricht mit EU-Ministern Plan zur Eindämmung der Migration nach Europa",
     "Sozialversicherungen - Merz pocht auf baldige Reformen - \"nicht nur Kommissionen einsetzen\"",
-    "Russischer Angriffskrieg - US-Präsident Trump will Ukraine wieder bei Luftverteidigung unterstützen"
+    "Russischer Angriffskrieg - US-Präsident Trump will Ukraine wieder bei Luftverteidigung unterstützen",
+    "Bundestag - Merz redet erstmals als Kanzler in einer Generaldebatte",
+    "Frankreich - Feuer in Marseille noch nicht gelöscht - Einsatz wird gesamte Nacht andauern"
   ],
   "hashes": [
-    "1c77265ddf54bfca486027523a51f41d",
-    "89799d372caec47768a6ace6ccef394a",
     "004ac55e4dc6ae5fb966c2ec268ea6bd",
     "bf5987653d4870c7caa0e69016c255e6",
     "d0521619ff249f413267cc169ac0a0b1",
@@ -4005,6 +4003,8 @@
     "0f22c848cb9f8a1a79ee5fb50ce5de58",
     "3766200cf97f00a233169cae39b8d9b4",
     "4abb4cf99ce8b3d30382f0eab0efd982",
-    "555e8e3d78712d78558ea6de2e227834"
+    "555e8e3d78712d78558ea6de2e227834",
+    "cba8bcf91cd14c6fe3326d24c2b4985f",
+    "f7dac76dbecdebe1c8f77d2fa4fda1b8"
   ]
 }
