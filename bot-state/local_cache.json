@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/faelle-von-kirchenasyl-haben-laut-medienbericht-zugenommen-100.html",
-    "https://www.spiegel.de/wirtschaft/nahost-krieg-bundesbankchef-joachim-nagel-warnt-vor-folgen-fuer-deutsche-wirtschaft-a-b1c0aa6a-bdfb-40c0-ac98-f48d78436f8f#ref=rss",
-    "https://www.deutschlandfunk.de/tschechien-bringt-seine-staatsbuerger-aus-israel-in-sicherheit-100.html",
-    "https://www.deutschlandfunk.de/lebenslange-haft-fuer-syrischen-arzt-wegen-verbrechen-gegen-die-menschlichkeit-100.html",
     "https://www.deutschlandfunk.de/flugzeug-muss-wegen-bombendrohung-umkehren-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundeswehr-auf-dem-hessentag-in-bad-vilbel-machtgefuehl-im-panzer-110536354.html",
     "https://www.deutschlandfunk.de/europaeische-hilfe-fuer-die-ukraine-ist-deutlich-gestiegen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-aktiviert-ausnahmen-vom-stabilitaetspakt-fuer-15-laender-100.html",
     "https://www.deutschlandfunk.de/eu-mission-drei-tote-bei-angriff-auf-frachtschiff-102.html",
     "https://www.deutschlandfunk.de/steinmeier-fuer-mehr-gemeinsame-ruestungsproduktion-in-europa-102.html",
-    "https://www.deutschlandfunk.de/daimler-truck-will-5-000-stellen-in-deutschland-streichen-102.html"
+    "https://www.deutschlandfunk.de/daimler-truck-will-5-000-stellen-in-deutschland-streichen-102.html",
+    "https://www.deutschlandfunk.de/waldbrand-erreicht-aussenbezirke-von-marseille-flughafen-voruebergehend-geschlossen-100.html",
+    "https://www.deutschlandfunk.de/eu-parlament-billigt-einfuehrung-100.html",
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-eroeffnet-ermittlungen-gegen-rechtsaussen-parteien-100.html",
+    "https://www.deutschlandfunk.de/weltweit-laut-studie-immer-mehr-faelle-von-magenkrebs-102.html"
   ],
   "content_hashes": [
-    "1a0507c25eebf63280ce72b8a56fe6e5",
-    "ca2ed60ba7d290cc9a167fc4869d8b55",
-    "5b900fd4d4c969bad0416850a3f79c48",
-    "7b8e5559856dfb1d6410932f58274764",
     "156e723fa094ea4ada3500a5070fb67e",
     "dba02d6e31f6e92e42f9ef2cf2d9980e",
     "7f5328810cf6da671c2cf6d7a8331782",
@@ -2001,13 +1997,13 @@
     "b4158da5f8ce7ca30e13d90f45dd450a",
     "4073f49f08fd75ce4c88276fa87907c6",
     "a917ec82b2208db87cd27f2be8b9ad4e",
-    "18d5b2dd0d7ed0a79ae42a0222263277"
+    "18d5b2dd0d7ed0a79ae42a0222263277",
+    "6c8c4b84e17c5283deea3d03568b187f",
+    "afb0b271f48a912669337540c5884163",
+    "0215634fb1cf6196efea639ac54ae4eb",
+    "179fa7c5f14cc24d7220ecee4dac0361"
   ],
   "titles": [
-    "Migration - Fälle von Kirchenasyl haben laut Medienbericht zugenommen",
-    "Nahost-Krieg: Bundesbankchef Joachim Nagel warnt vor Folgen für deutsche Wirtschaft",
-    "Eskalation in Nahost - Tschechien bringt seine Staatsbürger aus Israel in Sicherheit",
-    "Oberlandesgericht Frankfurt/M. - Lebenslange Haft für syrischen Arzt wegen Verbrechen gegen die Menschlichkeit",
     "Lufthansa - Flugzeug muss wegen Bombendrohung umkehren",
     "Hessentag 2025 in Bad Vilbel: Was die Bundeswehr bietet",
     "Institut für Weltwirtschaft - Europäische Hilfe für die Ukraine ist deutlich gestiegen",
@@ -3003,13 +2999,13 @@
     "Verteidigungsausgaben - EU aktiviert Ausnahmen vom Stabilitätspakt für 15 Länder",
     "Rotes Meer - EU-Mission: Drei Tote bei Angriff auf Frachtschiff",
     "Besuch in Lettland - Steinmeier für mehr gemeinsame Rüstungsproduktion in Europa",
-    "Nutzfahrzeuge - Daimler Truck will 5.000 Stellen in Deutschland streichen"
+    "Nutzfahrzeuge - Daimler Truck will 5.000 Stellen in Deutschland streichen",
+    "Frankreich - Waldbrand erreicht Außenbezirke von Marseille - Flughafen vorübergehend geschlossen",
+    "Elektronisches Schengen-Einreisesystem - EU-Parlament billigt Einführung",
+    "EU - Staatsanwaltschaft eröffnet Ermittlungen gegen Rechtsaußen-Parteien",
+    "Fehlende Prävention - Weltweit laut Studie immer mehr Fälle von Magenkrebs"
   ],
   "hashes": [
-    "a575a0205cfdd4fa0bf2cc2dae9af773",
-    "7d9a14b78fd585819c09d3fbb50d3b47",
-    "0160f0751be6050cc800c12cbfbe260e",
-    "afec0aa63d0f10833324f8083569ecb0",
     "226fcf89e8ba54123545597e1a816b13",
     "35e31cd35dc94643f7b7252394b2f40d",
     "bbe7f281b1c6ea42839d642006c2a4c8",
@@ -4005,6 +4001,10 @@
     "d8deb2b7de720ff4dfd15adffc605dec",
     "298f276576b1e0c66551d0c57b1ee8aa",
     "d60fcbfa1eabbdd3450bfac9f2ec3c93",
-    "451214e91bfc97300f03ce932b18e675"
+    "451214e91bfc97300f03ce932b18e675",
+    "bb89ef3478c20e1b9169d49bda367662",
+    "e81813c01271e62301bdf490df056283",
+    "0df278ba299afb27d8f7dd26b402ee3c",
+    "606713bb6ceb1ca8938c3c6f7e36f301"
   ]
 }
