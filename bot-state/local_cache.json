@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundeswehr-auf-dem-hessentag-in-bad-vilbel-machtgefuehl-im-panzer-110536354.html",
-    "https://www.deutschlandfunk.de/europaeische-hilfe-fuer-die-ukraine-ist-deutlich-gestiegen-100.html",
     "https://www.deutschlandfunk.de/deutsch-franzoesische-abgeordnete-wollen-staerker-auf-nationale-parlamente-einwirken-104.html",
     "https://www.deutschlandfunk.de/28-jaehriger-soll-auf-dauer-in-psychiatrie-100.html",
     "https://www.deutschlandfunk.de/israel-iran-krieg-ukraine-russland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-parlament-billigt-einfuehrung-100.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-eroeffnet-ermittlungen-gegen-rechtsaussen-parteien-100.html",
     "https://www.deutschlandfunk.de/weltweit-laut-studie-immer-mehr-faelle-von-magenkrebs-102.html",
-    "https://www.deutschlandfunk.de/feuer-erreichen-stadtrand-von-marseille-100.html"
+    "https://www.deutschlandfunk.de/feuer-erreichen-stadtrand-von-marseille-100.html",
+    "https://www.deutschlandfunk.de/haushaltsberatungen-im-bundestag-110.html",
+    "https://www.faz.net/einspruch/verfassungsgericht-wie-der-wahlausschuss-abgestimmt-hat-110580787.html"
   ],
   "content_hashes": [
-    "dba02d6e31f6e92e42f9ef2cf2d9980e",
-    "7f5328810cf6da671c2cf6d7a8331782",
     "3ab80ab067e33533bf1a0124b1870c77",
     "fa6940a05cd23a911aba631fb7817b09",
     "7ef470ba6ed810fe68c453ceaa8f2adf",
@@ -2001,11 +1999,11 @@
     "afb0b271f48a912669337540c5884163",
     "0215634fb1cf6196efea639ac54ae4eb",
     "179fa7c5f14cc24d7220ecee4dac0361",
-    "ec21ebd1b06ccb84d3b8c664b6af75ec"
+    "ec21ebd1b06ccb84d3b8c664b6af75ec",
+    "fe314e57db133938e69b3b3ddad9a38f",
+    "887cb25a864acfead5361429f0ef5b63"
   ],
   "titles": [
-    "Hessentag 2025 in Bad Vilbel: Was die Bundeswehr bietet",
-    "Institut für Weltwirtschaft - Europäische Hilfe für die Ukraine ist deutlich gestiegen",
     "Vollversammlung - Deutsch-französische Abgeordnete wollen stärker auf nationale Parlamente einwirken",
     "Angriff auf Synagoge in Oldenburg - 28-Jähriger soll auf Dauer in Psychiatrie",
     "Krieg zwischen Israel und Iran - Folgen einer Eskalation",
@@ -3003,11 +3001,11 @@
     "Elektronisches Schengen-Einreisesystem - EU-Parlament billigt Einführung",
     "EU - Staatsanwaltschaft eröffnet Ermittlungen gegen Rechtsaußen-Parteien",
     "Fehlende Prävention - Weltweit laut Studie immer mehr Fälle von Magenkrebs",
-    "Waldbrände - Feuer erreichen Stadtrand von Marseille"
+    "Waldbrände - Feuer erreichen Stadtrand von Marseille",
+    "Haushaltsdebatte - Bundesfinanzminister Klingbeil verteidigt Rekordschulden",
+    "Verfassungsrichterwahl: Kaufhold soll statt Brosius-Gersdorf Vizepräsidentin werden"
   ],
   "hashes": [
-    "35e31cd35dc94643f7b7252394b2f40d",
-    "bbe7f281b1c6ea42839d642006c2a4c8",
     "ef8aada9b0d77082193200281c3bd710",
     "278f957a3b30d606343dd725ba1ff057",
     "61391e72e0cac32fce96f1ea184b364e",
@@ -4005,6 +4003,8 @@
     "e81813c01271e62301bdf490df056283",
     "0df278ba299afb27d8f7dd26b402ee3c",
     "606713bb6ceb1ca8938c3c6f7e36f301",
-    "36f4f56e8445260a5e77d6e2318ca0df"
+    "36f4f56e8445260a5e77d6e2318ca0df",
+    "4c4c89eaf99c6bc7440af7ad39875719",
+    "accbe11bc38461185ee749fc968bac95"
   ]
 }
