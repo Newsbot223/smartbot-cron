@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/gruene-in-frankfurt-junge-wilde-moradi-ist-neue-parteisprecherin-110538117.html",
-    "https://www.faz.net/aktuell/politik/inland/veteranentag-zollt-soldaten-anerkennung-110538285.html",
     "https://www.deutschlandfunk.de/positionspapier-bundesregierung-lehnt-hoehere-zahlungen-an-eu-ab-102.html",
     "https://www.spiegel.de/politik/pistorius-sieht-bundeswehr-in-der-mitte-der-gesellschaft-a-27b6591a-513a-460c-bb2d-3298d5f6cfb1#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/vermummte-greifen-kundgebung-gegen-rechts-in-brandenburg-an-110538494.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/steinmeier-trifft-praesident-rinkevics-und-ministerpraesidentin-silina-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-wahlausschuss-nominiert-richterkandidaten-brosius-gersdorf-benannt-110579785.html",
     "https://www.deutschlandfunk.de/wahlausschuss-nominiert-kandidaten-fuer-richterposten-100.html",
-    "https://www.deutschlandfunk.de/uno-generalversammlung-nimmt-resolution-zu-afghanistan-an-100.html"
+    "https://www.deutschlandfunk.de/uno-generalversammlung-nimmt-resolution-zu-afghanistan-an-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-schlaegt-trump-fuer-friedensnobelpreis-vor-trump-kuendigt-erneute-waffenlieferungen-in-die-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-rentner-die-grundsicherung-beziehen-ist-gestiegen-100.html"
   ],
   "content_hashes": [
-    "884fa716b2ef34d8b9843d57146ef23d",
-    "6030e2e1e36503468396894b1f17edb4",
     "bc8c918eb86397c7746aa20d4f9df08b",
     "bfb7ddeceac2057be2f4c6b10157b46b",
     "44b16cd102c713492915d8ddd988ac9d",
@@ -2001,11 +1999,11 @@
     "ae1ee0c2d8f20bd503ab1550683c57b0",
     "8999dc3f35d59ce07d0f359100a9b32a",
     "b6b7ad1bec2297a6824d3bee5216a915",
-    "60e677b3b22af4dc9769f60f9809da80"
+    "60e677b3b22af4dc9769f60f9809da80",
+    "233540cfbd681c56a0504194bd2dcdbc",
+    "0e9f27d41bbd7df656782f0158e4e3e4"
   ],
   "titles": [
-    "Sieg einer „jungen Wilden“ bei den Vorstandswahlen der Frankfurter Grünen",
-    "Veteranentag: Wie Soldaten Anerkennung gezollt werden soll",
     "EU-Finanzen - Positionspapier: Bundesregierung lehnt höhere Zahlungen an EU ab",
     "Pistorius sieht Bundeswehr »in der Mitte der Gesellschaft«",
     "Vermummte greifen Kundgebung gegen rechts in Brandenburg an",
@@ -3003,11 +3001,11 @@
     "Lettland-Besuch - Steinmeier trifft Präsident Rinkevics und Ministerpräsidentin Silina",
     "Wahlausschuss nominiert Richterkandidaten – Brosius-Gersdorf benannt",
     "Verfassungsgericht - Wahlausschuss nominiert Kandidaten für Richterposten",
-    "Gegen US-Widerstand - UNO-Generalversammlung nimmt Resolution zu Afghanistan an"
+    "Gegen US-Widerstand - UNO-Generalversammlung nimmt Resolution zu Afghanistan an",
+    "Treffen im Weißen Haus - Netanjahu schlägt Trump für Friedensnobelpreis vor - Trump kündigt erneute Waffenlieferungen in die Ukraine an",
+    "Altersarmut - Zahl der Rentner, die Grundsicherung beziehen, ist gestiegen"
   ],
   "hashes": [
-    "1f81907ddb4be2d8fdd53932ab3fefc7",
-    "b0589ba877332daa530ed4b13ee652f9",
     "85cbcb1841ca48f6624ec90f0c25f57b",
     "2444cc8ade2ffee65d25c2b5ea5fda83",
     "9dc44ccad96055b237b370a1ac8fb085",
@@ -4005,6 +4003,8 @@
     "4f798b926680672f7a33bde58762a67d",
     "8ca936b36bafed30e528c50ad45e0148",
     "6274a1c7596715a4d596f9483c5a65ba",
-    "92c46c45cfda386e73c54edb5c49ca27"
+    "92c46c45cfda386e73c54edb5c49ca27",
+    "5bded1ed2f7bf1cc081fe937815398bf",
+    "4881a2ec966118e34fe009ad1808bc4e"
   ]
 }
