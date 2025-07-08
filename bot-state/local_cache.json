@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsch-franzoesische-abgeordnete-wollen-staerker-auf-nationale-parlamente-einwirken-104.html",
-    "https://www.deutschlandfunk.de/28-jaehriger-soll-auf-dauer-in-psychiatrie-100.html",
-    "https://www.deutschlandfunk.de/israel-iran-krieg-ukraine-russland-100.html",
-    "https://www.faz.net/aktuell/politik/inland/syrischer-arzt-verurteilt-die-nebenklaeger-bekommen-was-sie-sich-gewuenscht-haben-110539880.html",
-    "https://www.deutschlandfunk.de/spd-fuer-gemeinsames-bund-laender-vorgehen-102.html",
     "https://www.faz.net/aktuell/politik/inland/syrischer-arzt-verurteilt-kein-folterer-kann-sich-seiner-straflosigkeit-gewiss-sein-110539880.html",
     "https://www.spiegel.de/panorama/israel-iran-konflikt-so-reagieren-die-bundeslaender-auf-die-eskalation-in-nahost-a-ea152713-c9fd-4f13-9b84-478b409264a3#ref=rss",
     "https://www.deutschlandfunk.de/fluechtlingshilfswerk-unhcr-streicht-3-500-stellen-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/weltweit-laut-studie-immer-mehr-faelle-von-magenkrebs-102.html",
     "https://www.deutschlandfunk.de/feuer-erreichen-stadtrand-von-marseille-100.html",
     "https://www.deutschlandfunk.de/haushaltsberatungen-im-bundestag-110.html",
-    "https://www.faz.net/einspruch/verfassungsgericht-wie-der-wahlausschuss-abgestimmt-hat-110580787.html"
+    "https://www.faz.net/einspruch/verfassungsgericht-wie-der-wahlausschuss-abgestimmt-hat-110580787.html",
+    "https://www.deutschlandfunk.de/erneute-angriffe-auf-cherson-ein-todesopfer-100.html",
+    "https://www.deutschlandfunk.de/gedenken-an-die-opfer-zum-30-jahrestag-100.html",
+    "https://www.deutschlandfunk.de/tadej-pogacar-gewinnt-vierte-etappe-von-amiens-nach-rouen-102.html",
+    "https://www.deutschlandfunk.de/tuerkische-justiz-geht-weiter-gegen-chp-vor-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ovg-praesident-nrw-kabinett-beruft-carsten-guenther-110581349.html"
   ],
   "content_hashes": [
-    "3ab80ab067e33533bf1a0124b1870c77",
-    "fa6940a05cd23a911aba631fb7817b09",
-    "7ef470ba6ed810fe68c453ceaa8f2adf",
-    "4398a33fd6c9c6a42b8a5ebed0c7899d",
-    "b01091d014c8d1b0af051cb0ca1fc35e",
     "f502979c9a17208e50c0bf5e6480cc1c",
     "18922c85b26b446f6fd048368b5bd918",
     "ec7f7f074f3014cd253f416d151ce631",
@@ -2001,14 +1996,14 @@
     "179fa7c5f14cc24d7220ecee4dac0361",
     "ec21ebd1b06ccb84d3b8c664b6af75ec",
     "fe314e57db133938e69b3b3ddad9a38f",
-    "887cb25a864acfead5361429f0ef5b63"
+    "887cb25a864acfead5361429f0ef5b63",
+    "9f4039ba42bf65d75319e4a09adeb0cf",
+    "015d8255de96ff28eef33aa9af6bad1e",
+    "358a5cf34f026548071b8bb2c3555666",
+    "e33aac7ab10705cea3c5c17099f3878d",
+    "f4833aa76de98b052eea76d657ca94d8"
   ],
   "titles": [
-    "Vollversammlung - Deutsch-französische Abgeordnete wollen stärker auf nationale Parlamente einwirken",
-    "Angriff auf Synagoge in Oldenburg - 28-Jähriger soll auf Dauer in Psychiatrie",
-    "Krieg zwischen Israel und Iran - Folgen einer Eskalation",
-    "Syrischer Arzt verurteilt: Die Nebenkläger bekommen, was sie sich gewünscht haben",
-    "AfD-Verbotsverfahren - SPD für gemeinsames Bund-Länder-Vorgehen",
     "Syrischer Arzt verurteilt: „Kein Folterer kann sich seiner Straflosigkeit gewiss sein“",
     "Israel-Iran-Konflikt: So reagieren die Bundesländer auf die Eskalation in Nahost",
     "UNO - Flüchtlingshilfswerk UNHCR streicht 3.500 Stellen",
@@ -3003,14 +2998,14 @@
     "Fehlende Prävention - Weltweit laut Studie immer mehr Fälle von Magenkrebs",
     "Waldbrände - Feuer erreichen Stadtrand von Marseille",
     "Haushaltsdebatte - Bundesfinanzminister Klingbeil verteidigt Rekordschulden",
-    "Verfassungsrichterwahl: Kaufhold soll statt Brosius-Gersdorf Vizepräsidentin werden"
+    "Verfassungsrichterwahl: Kaufhold soll statt Brosius-Gersdorf Vizepräsidentin werden",
+    "Ukraine-Krieg - Erneute Angriffe auf Cherson - ein Todesopfer",
+    "Srebrenica-Massaker - Gedenken an die Opfer zum 30. Jahrestag",
+    "Tour de France - Tadej Pogacar gewinnt vierte Etappe von Amiens nach Rouen",
+    "Größte Oppositionspartei - Türkische Justiz geht weiter gegen CHP vor",
+    "Nordrhein-Westfalen: Der Gegenspieler des Justizministers soll oberster Richter werden"
   ],
   "hashes": [
-    "ef8aada9b0d77082193200281c3bd710",
-    "278f957a3b30d606343dd725ba1ff057",
-    "61391e72e0cac32fce96f1ea184b364e",
-    "533fa1171958e309cdc8bd4b7b2a9fc4",
-    "38c1e72255cdb076e50ad411aeb8646e",
     "96c9dfc9d865e8c047d0a94627d6ffb8",
     "42cee36a46cef61e42a20673c6ddb6ba",
     "b5c6023029e9971a7965e9eef8d76092",
@@ -4005,6 +4000,11 @@
     "606713bb6ceb1ca8938c3c6f7e36f301",
     "36f4f56e8445260a5e77d6e2318ca0df",
     "4c4c89eaf99c6bc7440af7ad39875719",
-    "accbe11bc38461185ee749fc968bac95"
+    "accbe11bc38461185ee749fc968bac95",
+    "3f6e9efcaae7e086f8df2ed05558a195",
+    "fe07ff071c8b8815a94f94fa6647fe95",
+    "9c3232469ebc17bef17b0e0595491bcd",
+    "08989b1fd8179de7c0e76ec4bc8b229e",
+    "d255157a2d58b55ec69197ee7ec83751"
   ]
 }
