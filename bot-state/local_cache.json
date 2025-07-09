@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-angriffe-haben-iranisches-atomprogramm-weit-zurueckgeworfen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-die-afd-mit-der-wehrpflicht-hadert-110539823.html",
-    "https://www.deutschlandfunk.de/palaestinenser-melden-mehrere-tote-bei-verteilzentrum-102.html",
-    "https://www.deutschlandfunk.de/iran-sollte-vereinbarung-zu-atomprogramm-unterzeichnen-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-vollausstieg-aus-russischem-gas-umsetzen-100.html",
     "https://www.deutschlandfunk.de/regionale-staaten-fordern-feuerpause-israels-102.html",
     "https://www.deutschlandfunk.de/von-der-leyen-schlaegt-trump-vorgehen-gegen-china-vor-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/merz-pocht-auf-baldige-reformen-nicht-nur-kommissionen-einsetzen-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-will-ukraine-wieder-bei-luftverteidigung-unterstuetzen-100.html",
     "https://www.deutschlandfunk.de/merz-redet-erstmals-als-kanzler-in-einer-generaldebatte-100.html",
-    "https://www.deutschlandfunk.de/feuer-in-marseille-noch-nicht-geloescht-einsatz-wird-gesamte-nacht-andauern-102.html"
+    "https://www.deutschlandfunk.de/feuer-in-marseille-noch-nicht-geloescht-einsatz-wird-gesamte-nacht-andauern-102.html",
+    "https://www.deutschlandfunk.de/selenskyj-gespraeche-mit-usa-ueber-luftverteidigung-werden-intensiviert-trump-erwaegt-laut-wsj-patri-100.html",
+    "https://www.deutschlandfunk.de/trump-zu-zollkonflikt-heute-bekanntgaben-zu-weiteren-staaten-100.html",
+    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-gegen-digitalsteuer-100.html",
+    "https://www.deutschlandfunk.de/nach-chinas-lasereinsatz-gegen-deutsches-flugzeug-aussenminister-wadephul-mehr-als-irritiert-104.html"
   ],
   "content_hashes": [
-    "33ace9369f0d6219e37010b21844c490",
-    "d31a6de936d0e314a56543d34945ffe9",
-    "3d3911fab8b1ae356e1580f18dc71b9b",
-    "21a9ee6ad3b712654783f6a5b503047d",
     "11860721eca89a3cb3e378cba4380f43",
     "8ae65625dce1b805125afb6ad3393049",
     "41f4c2dd133c4fe29b5074d93ec0b764",
@@ -2001,13 +1997,13 @@
     "1e9f61324169cbe7d8ad293f8874e6a0",
     "923682fd916d7ec302b3bd6949e83d28",
     "c748fc0cbd9b20b0af5611652e80fc32",
-    "cb803eb5d00224352ebb2174daf0eba2"
+    "cb803eb5d00224352ebb2174daf0eba2",
+    "2dff572cc6cf89456dc848d3a4146304",
+    "920f54f2bd2e67f6a3bf9bfe0c64fedc",
+    "777c688cdfd7a3a86b4926629f257c52",
+    "8316329c27dbf6be070e21f9ab2c5c21"
   ],
   "titles": [
-    "Israel - Netanjahu: Angriffe haben iranisches Atomprogramm weit zurückgeworfen",
-    "Warum die AfD mit der Wehrpflicht hadert",
-    "Gazastreifen - Palästinenser melden mehrere Tote bei Verteilzentrum",
-    "G7-Gipfel - Iran sollte Vereinbarung zu Atomprogramm unterzeichnen",
     "Gesetzesvorschlag - EU-Kommission will Vollausstieg aus russischem Gas umsetzen",
     "Nahost-Krise - Regionale Staaten fordern Feuerpause Israels",
     "Handelspolitik - Von der Leyen schlägt Trump Vorgehen gegen China vor",
@@ -3003,13 +2999,13 @@
     "Sozialversicherungen - Merz pocht auf baldige Reformen - \"nicht nur Kommissionen einsetzen\"",
     "Russischer Angriffskrieg - US-Präsident Trump will Ukraine wieder bei Luftverteidigung unterstützen",
     "Bundestag - Merz redet erstmals als Kanzler in einer Generaldebatte",
-    "Frankreich - Feuer in Marseille noch nicht gelöscht - Einsatz wird gesamte Nacht andauern"
+    "Frankreich - Feuer in Marseille noch nicht gelöscht - Einsatz wird gesamte Nacht andauern",
+    "Ukraine-Krieg - Selenskyj: Gespräche mit USA über Luftverteidigung werden intensiviert - Trump erwägt laut WSJ Patriot-Lieferung an Kiew",
+    "Handel - Trump zu Zollkonflikt: Heute Bekanntgaben zu weiteren Staaten",
+    "Nach Weimer-Vorschlag - Bundeswirtschaftsministerin Reiche gegen Digitalsteuer",
+    "Vorfall - Nach Chinas Lasereinsatz gegen deutsches Flugzeug: Außenminister Wadephul \"mehr als irritiert\""
   ],
   "hashes": [
-    "004ac55e4dc6ae5fb966c2ec268ea6bd",
-    "bf5987653d4870c7caa0e69016c255e6",
-    "d0521619ff249f413267cc169ac0a0b1",
-    "a3afa270546d454239719d4ab0faaeea",
     "8cc9e7fbdb2844a864eb2a6b45d6fe78",
     "c794625d6477a26588973ee0db376a12",
     "a250fa323265b0b41a1c855c82b472bc",
@@ -4005,6 +4001,10 @@
     "4abb4cf99ce8b3d30382f0eab0efd982",
     "555e8e3d78712d78558ea6de2e227834",
     "cba8bcf91cd14c6fe3326d24c2b4985f",
-    "f7dac76dbecdebe1c8f77d2fa4fda1b8"
+    "f7dac76dbecdebe1c8f77d2fa4fda1b8",
+    "76d3f433ed8a40cb8b79525d6bbdc398",
+    "70a040586d3662a3c80deaaf173cc13d",
+    "fba537216ef34ee034b08159b6dd37f2",
+    "3d12f94a4aff22cf27355d11ca4cbc3c"
   ]
 }
