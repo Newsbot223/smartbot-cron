@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/sed-opferbeauftragte-lobt-umgang-mit-sed-opfern-110541909.html",
-    "https://www.deutschlandfunk.de/nach-angriff-in-bad-freienwalde-brandenburgische-landespolitiker-fordern-besseren-schutz-100.html",
     "https://www.deutschlandfunk.de/investoren-stecken-600-millionen-euro-in-ruestungstechnologie-firma-helsing-eines-der-wertvollsten-s-100.html",
     "https://www.deutschlandfunk.de/deutscher-sachbuchpreis-fuer-comic-geht-an-ulli-lust-100.html",
     "https://www.deutschlandfunk.de/10-000-beschwerden-nach-praesidentschaftswahl-in-polen-afp-ungewoehnlich-hohe-zahl-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/auch-eu-bestellt-chinesischen-botschafter-wegen-vorwurf-des-laserangriffs-gegen-bundeswehr-maschine--102.html",
     "https://www.deutschlandfunk.de/nvidia-als-erstes-unternehmen-mit-mehr-als-4-billionen-dollar-boersenwert-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/7/9/can-brics-challenge-the-us-led-world-order?traffic_source=rss",
-    "https://www.deutschlandfunk.de/terrorverdaechtiger-gefasst-haftbefehl-liegt-vor-106.html"
+    "https://www.deutschlandfunk.de/terrorverdaechtiger-gefasst-haftbefehl-liegt-vor-106.html",
+    "https://www.deutschlandfunk.de/rutte-lobt-anstieg-der-verteidigungsausgaben-auf-fuenf-prozent-und-bescheinigt-merz-eine-fuehrungsro-102.html",
+    "https://www.deutschlandfunk.de/russische-streitkraefte-ruecken-nach-angaben-aus-moskau-weiter-im-osten-vor-102.html"
   ],
   "content_hashes": [
-    "72b74ff08241899bf417bf2c1c219b84",
-    "8bc3dda8d5d54efee6f399b084eb47db",
     "66317ef2c22887fc7c94cd290b323326",
     "34b2636a80f6132ad102cd03d6b19f4b",
     "f5b5a283c8aca82158f1de8b546ec063",
@@ -2001,11 +1999,11 @@
     "734e08c1c93c6ad95c656c4b75ef446c",
     "7f351a8df8d8d947352390026f6f6074",
     "d792fa0c9536e39910fc13ffa9cfd22d",
-    "0c08b04ed29778b100bd27cff1e0dedc"
+    "0c08b04ed29778b100bd27cff1e0dedc",
+    "0c0eaa235088f17e290b9718bd10333a",
+    "88304ac6931d4265bd698773b6bffbc8"
   ],
   "titles": [
-    "SED-Opferbeauftragte: Zupke lobt den „Paradigmenwechsel“ im Umgang mit SED-Opfern",
-    "Veranstaltung für Vielfalt - Nach Angriff in Bad Freienwalde: Brandenburgische Landespolitiker fordern besseren Schutz",
     "Finanzierungsrunde - Investoren stecken 600 Millionen Euro in Rüstungstechnologie-Firma Helsing - eines der wertvollsten Startups Europas",
     "Steinzeit-Frauen - Deutscher Sachbuchpreis für Comic geht an Ulli Lust",
     "Nawrocki-Sieg - 10.000 Beschwerden nach Präsidentschaftswahl in Polen - AFP: ungewöhnlich hohe Zahl",
@@ -3003,11 +3001,11 @@
     "Einsatz im Roten Meer - Auch EU bestellt chinesischen Botschafter wegen Vorwurf des Laserangriffs gegen Bundeswehr-Maschine ein",
     "Rekordwert - Nvidia als erstes Unternehmen mit mehr als 4 Billionen Dollar Börsenwert",
     "Can BRICS challenge the US-led world order?",
-    "Nordrhein-Westfalen - Terrorverdächtiger gefasst - Haftbefehl liegt vor"
+    "Nordrhein-Westfalen - Terrorverdächtiger gefasst - Haftbefehl liegt vor",
+    "\"Meilenstein\" - Rutte lobt Anstieg der Verteidigungsausgaben auf fünf Prozent und bescheinigt Merz eine Führungsrolle",
+    "Ukraine-Krieg - Russische Streitkräfte rücken nach Angaben aus Moskau weiter im Osten vor"
   ],
   "hashes": [
-    "53b76076f06d23e96a99c855786575e4",
-    "30e5415bee5e5084ef5f588cc6f25122",
     "cbecacdcece27b3886a425f64a5228d8",
     "2d07f6bd676f75bf8fdb8989232c3746",
     "552b1f0853da167da963376f4bc6ed14",
@@ -4005,6 +4003,8 @@
     "9329080b08269799e5f42f7c615e5437",
     "d174397d900abaed83d635c28b1a9151",
     "355b2596d41d1def370412f26b0bcb26",
-    "8d41ac04538e2351fcb4a4e7afc8fe2d"
+    "8d41ac04538e2351fcb4a4e7afc8fe2d",
+    "9a6928270e235e77ce2b763cbe4346a0",
+    "c513e3af4bb3a561ba661877a9187eaa"
   ]
 }
