@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-setzt-foerderung-von-ddr-forschung-fort-baer-csu-erwartet-wichtige-erkenntnis-fuer-d-100.html",
-    "https://www.deutschlandfunk.de/berlin-erinnert-an-opfer-von-ddr-volksaufstand-vom-17-juni-102.html",
     "https://www.deutschlandfunk.de/oecd-bericht-grundwasservorkommen-schrumpfen-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-fordert-deeskalation-der-lage-100.html",
     "https://www.deutschlandfunk.de/nordkorea-schickt-tausende-soldaten-fuer-bauarbeiten-nach-russland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/china-weist-vorwuerfe-zu-lasereinsatz-gegen-deutsches-flugzeug-zurueck-100.html",
     "https://www.deutschlandfunk.de/frachter-sinkt-nach-angriff-durch-huthi-rebellen-102.html",
     "https://www.deutschlandfunk.de/regierung-einigt-sich-auf-bundesstaatsanwaltschaft-102.html",
-    "https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss"
+    "https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss",
+    "https://www.deutschlandfunk.de/leibwaechter-geben-versehentlich-durch-trainingsdaten-in-app-standorte-von-schwedischem-premier-kris-100.html",
+    "https://www.deutschlandfunk.de/erhoehung-us-zoelle-verschoben-interview-hildegard-mueller-vda-praesidentin-100.html"
   ],
   "content_hashes": [
-    "3c2717504bde5b2f6c156b6d11d60400",
-    "4299e35e9f5fad40539ca3e7d71cf672",
     "97337c4cf7d06a1d6dfb1a017a168ef8",
     "348c7f5ca2eb3c1b9fd0f5cf7b2634cc",
     "aa80f6ac45ab5ae3277b1c97d83f0a0f",
@@ -2001,11 +1999,11 @@
     "8489b34f319d9eec6fd73f56a9b89df4",
     "059c05a882e56773c2a011199662bdd4",
     "db597d0fe2cd89fd806b14a0ec08ca52",
-    "c6c44d81f7b751ed5e98adc8c199e900"
+    "c6c44d81f7b751ed5e98adc8c199e900",
+    "ea04a322b1a79db077c4963af7d39b5e",
+    "5f83377ab5085f49960291c4442be888"
   ],
   "titles": [
-    "Wissenschaft - Bundesregierung setzt Förderung von DDR-Forschung fort - Bär (CSU) erwartet wichtige Erkenntnis für die Gegenwart",
-    "Gedenkveranstaltung - Berlin erinnert an Opfer von DDR-Volksaufstand vom 17. Juni 1953",
     "Umwelt - OECD-Bericht: Grundwasservorkommen schrumpfen",
     "Krieg zwischen Israel und Iran - EU-Außenbeauftragte Kallas fordert Deeskalation der Lage",
     "Ukraine-Krieg - Nordkorea schickt tausende Soldaten für Bauarbeiten nach Russland",
@@ -3003,11 +3001,11 @@
     "Einsatz im Roten Meer - China weist Vorwürfe zu Lasereinsatz gegen deutsches Flugzeug zurück",
     "Rotes Meer - Frachter sinkt nach Angriff durch Huthi-Rebellen",
     "Österreich - Regierung einigt sich auf Bundesstaatsanwaltschaft",
-    "Rotes Meer: China weist deutsche Darstellung zu Laserangriff zurück"
+    "Rotes Meer: China weist deutsche Darstellung zu Laserangriff zurück",
+    "\"Strava\" - Leibwächter geben versehentlich durch Trainingsdaten in App Standorte von schwedischem Premier Kristersson preis",
+    "US-Handelskonflikt - VDA-Präsidentin: Keine Seite hat die besseren Karten"
   ],
   "hashes": [
-    "0d28a42fa99081e61b66b2bf8a7a692b",
-    "3b2ee80dd0e1b32196f52ba5d95e9363",
     "1faa525c8f6c1619f82a74c93af51d0a",
     "b02663f4bd408df263bce4e4d8275b27",
     "2a433f4f9ff79bcd7255e289a71bf0ae",
@@ -4005,6 +4003,8 @@
     "1612f77dfc3eb80a85d39b132033f8fb",
     "f5f4449c345fb9a094fa5ce226348987",
     "e20c4d51859713ab3514d165ee818633",
-    "2a60aace1ccf2177bb9111b52f8873cf"
+    "2a60aace1ccf2177bb9111b52f8873cf",
+    "ab3c2bdbc3535680674f76a1325b6701",
+    "54c8b90c246e349c79d8b246bd6934d4"
   ]
 }
