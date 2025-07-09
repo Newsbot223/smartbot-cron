@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-fordert-deeskalation-der-lage-100.html",
-    "https://www.deutschlandfunk.de/nordkorea-schickt-tausende-soldaten-fuer-bauarbeiten-nach-russland-100.html",
-    "https://www.deutschlandfunk.de/zupke-wissen-ueber-ddr-diktatur-muss-wachsen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/landkreistag-kommunen-muessen-bei-digitialisierung-mitreden-110539803.html",
-    "https://www.faz.net/aktuell/politik/inland/lagebild-dokumentiert-mehr-antimuslimische-vorfaelle-110541864.html",
-    "https://www.deutschlandfunk.de/krieg-zwischen-israel-und-iran-eu-aussenbeauftragte-kallas-fordert-deeskalation-100.html",
-    "https://www.deutschlandfunk.de/vor-der-ministerpraesidentenkonferenz-wuest-cdu-fordert-erneut-ausgleich-fuer-laender-100.html",
     "https://www.deutschlandfunk.de/umweltminister-schneider-spd-treffen-von-bundeswirtschaftsministerin-reiche-cdu-mit-kernkraft-allian-100.html",
     "https://www.deutschlandfunk.de/wilfried-peters-neuer-leiter-des-verfassungsschutzes-100.html",
     "https://www.deutschlandfunk.de/frankfurt-ist-fahrradfreundlichste-grossstadt-100.html",
@@ -999,16 +992,16 @@
     "https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss",
     "https://www.deutschlandfunk.de/leibwaechter-geben-versehentlich-durch-trainingsdaten-in-app-standorte-von-schwedischem-premier-kris-100.html",
     "https://www.deutschlandfunk.de/erhoehung-us-zoelle-verschoben-interview-hildegard-mueller-vda-praesidentin-100.html",
-    "https://www.faz.net/aktuell/politik/inland/umbenennung-der-berliner-mohrenstrasse-rechtskraeftig-110582161.html"
+    "https://www.faz.net/aktuell/politik/inland/umbenennung-der-berliner-mohrenstrasse-rechtskraeftig-110582161.html",
+    "https://www.deutschlandfunk.de/spd-generalsekretaer-kluessendorf-schliesst-untersuchungsausschuss-in-maskenaffaere-um-spahn-cdu-nic-100.html",
+    "https://www.deutschlandfunk.de/polizeibeauftragter-groetsch-kritisiert-pause-bei-frontex-einsatz-100.html",
+    "https://www.deutschlandfunk.de/hubig-will-einfacheren-widerruf-per-mausklick-100.html",
+    "https://www.deutschlandfunk.de/verdaechtiger-nach-angriff-in-ice-in-bayern-als-psychisch-krank-eingestuft-100.html",
+    "https://www.deutschlandfunk.de/verdacht-auf-illegale-finanzierung-von-wahlkaempfen-durchsuchungen-bei-rassemblement-national-in-par-100.html",
+    "https://www.deutschlandfunk.de/rwe-verlaengert-vertrag-von-konzernchef-krebber-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-kritisiert-italienische-unicredit-fuer-unfreundliches-vorgehen-gegen-commerzbank-100.html"
   ],
   "content_hashes": [
-    "348c7f5ca2eb3c1b9fd0f5cf7b2634cc",
-    "aa80f6ac45ab5ae3277b1c97d83f0a0f",
-    "b5c10cc517fbd9645c5b4c5e396de352",
-    "99be84efb0591b09be750c90209f588b",
-    "3aa05d2cf2d234585501a399cae81144",
-    "304e3698bae7486e55e144324871c48c",
-    "8a7920c06819cffc2b8c0ec9806a8258",
     "c68e20e699133847ecc5e2ad3ae9dc2f",
     "a2ca535297dc9082f36868a4cf59ecc0",
     "e0bcad7377ab0e3f451b3255c2de6171",
@@ -2001,16 +1994,16 @@
     "c6c44d81f7b751ed5e98adc8c199e900",
     "ea04a322b1a79db077c4963af7d39b5e",
     "5f83377ab5085f49960291c4442be888",
-    "2d328d315e8df1c5a0c456e56520c48b"
+    "2d328d315e8df1c5a0c456e56520c48b",
+    "06dc678964c3bf3bb5a38ba09b7708a1",
+    "3e8254020debce672e82be5ce4792067",
+    "30184a1f67f6200c47460fa976633941",
+    "7e513259f991fffdb2959b994eeb8921",
+    "46c3ac248c55eec0f1c7dbb435d16e32",
+    "12e15c31ff450238dff68a65e948e848",
+    "d3d20d0fa1249794ed40c68a1684ead2"
   ],
   "titles": [
-    "Krieg zwischen Israel und Iran - EU-Außenbeauftragte Kallas fordert Deeskalation der Lage",
-    "Ukraine-Krieg - Nordkorea schickt tausende Soldaten für Bauarbeiten nach Russland",
-    "SED-Opferbeauftragte - Zupke: Wissen über DDR-Diktatur muss wachsen",
-    "Digitalisierung: Leidtragende übergriffiger Gesetze müssen mit am Tisch sitzen",
-    "3080 Meldungen: Lagebild dokumentiert mehr antimuslimische Vorfälle",
-    "Nahost - Krieg zwischen Israel und Iran: EU-Außenbeauftragte Kallas fordert Deeskalation",
-    "Investitionsprogramm für die Wirtschaft - Vor der Ministerpräsidentenkonferenz: Wüst (CDU) fordert erneut Ausgleich für Länder",
     "Energiepolitik - Umweltminister Schneider (SPD): Treffen von Bundeswirtschaftsministerin Reiche (CDU) mit Kernkraft-Allianz war Alleingang",
     "Brandenburg - Wilfried Peters neuer Leiter des Verfassungsschutzes",
     "\"Fahrradklima-Test\" - Frankfurt ist fahrradfreundlichste Großstadt",
@@ -3003,16 +2996,16 @@
     "Rotes Meer: China weist deutsche Darstellung zu Laserangriff zurück",
     "\"Strava\" - Leibwächter geben versehentlich durch Trainingsdaten in App Standorte von schwedischem Premier Kristersson preis",
     "US-Handelskonflikt - VDA-Präsidentin: Keine Seite hat die besseren Karten",
-    "Umbenennung der Berliner Mohrenstraße rechtskräftig"
+    "Umbenennung der Berliner Mohrenstraße rechtskräftig",
+    "Corona-Pandemie - SPD-Generalsekretär Klüssendorf schließt Untersuchungsausschuss in Maskenaffäre um Spahn (CDU) nicht aus",
+    "Grenzschutz - Polizeibeauftragter Grötsch kritisiert Pause bei Frontex-Einsatz",
+    "Online-Verträge - Hubig will einfacheren Widerruf per Mausklick",
+    "Polizei - Verdächtiger nach Angriff in ICE in Bayern als psychisch krank eingestuft",
+    "Frankreich - Verdacht auf illegale Finanzierung von Wahlkämpfen: Durchsuchungen bei Rassemblement National in Paris",
+    "Energie - RWE verlängert Vertrag von Konzernchef Krebber",
+    "Berlin - Bundesregierung kritisiert italienische Unicredit für \"unfreundliches Vorgehen\" gegen Commerzbank"
   ],
   "hashes": [
-    "b02663f4bd408df263bce4e4d8275b27",
-    "2a433f4f9ff79bcd7255e289a71bf0ae",
-    "0ace8d0a2025f6a8e5728370e545837b",
-    "3a14f92aa02682e971fab44dabf32df0",
-    "ed54eeb9eb4a468191dd83849722c1bf",
-    "de3d0c2f016998f6ae62694ea613b851",
-    "b32620cfbe9c3ecde7d44f455d8fde74",
     "f1d47d995714b94a37d909c7d8bd4199",
     "74137768eb468ba4c15c5ea5212382b9",
     "03f48b11bc2b6b83b1d04bb946ef215d",
@@ -4005,6 +3998,13 @@
     "2a60aace1ccf2177bb9111b52f8873cf",
     "ab3c2bdbc3535680674f76a1325b6701",
     "54c8b90c246e349c79d8b246bd6934d4",
-    "40e104f2c1c449db581ce22f5fa53d78"
+    "40e104f2c1c449db581ce22f5fa53d78",
+    "e68775cc6e80ed32efc92869dc5b82c7",
+    "8ca45003304ba24b0af50dea351cc62d",
+    "43ea4f8e3952ac82e863abe458cd3653",
+    "748ef5af9aa7241b8ed300ade859e897",
+    "a768e7d20f89e592b96e5ac808ca9f7f",
+    "eaf2cc8530c5f6d134b89131d7b1be62",
+    "6805e2406aed4facd1127a681f010978"
   ]
 }
