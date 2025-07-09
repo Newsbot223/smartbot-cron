@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kopenhagen-loest-wien-als-lebenswerteste-stadt-der-welt-ab-102.html",
-    "https://www.deutschlandfunk.de/raumfahrt-innovation-expo-bundespraesident-reist-nach-japan-100.html",
-    "https://www.spiegel.de/wirtschaft/energie-wasser-personal-freibaeder-verlangen-hoehere-eintrittspreise-a-60a1d9bb-4654-4003-ac64-7a20f2f21ef9#ref=rss",
-    "https://www.deutschlandfunk.de/weitere-evakuierungsfluege-in-europa-angekommen-100.html",
     "https://www.deutschlandfunk.de/bas-will-gesetzesentwurf-zur-reform-des-buergergeldes-zuegig-vorlegen-100.html",
     "https://www.deutschlandfunk.de/studie-menschen-vermeiden-zunehmend-nachrichten-interesse-bleibt-stabil-102.html",
     "https://www.deutschlandfunk.de/sexueller-kindesmissbrauch-und-heimerziehung-betroffene-und-fachleute-werden-oeffentlich-befragt-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/dfb-legt-revision-gegen-urteil-im-sommermaerchen-prozess-ein-104.html",
     "https://www.deutschlandfunk.de/haushalt-2025-vor-der-generaldebatte-100.html",
     "https://www.spiegel.de/politik/deutschland/auswaertiges-amt-minister-johann-wadephul-kritisiert-chinesischen-laserangriff-scharf-a-90b7132b-8059-4214-9d87-ce2ea005915f#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-generaldebatte-im-bundestag-110581807.html"
+    "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-generaldebatte-im-bundestag-110581807.html",
+    "https://www.deutschlandfunk.de/ukraine-meldet-schwerste-russische-luftangriffe-seit-kriegsbeginn-100.html",
+    "https://www.deutschlandfunk.de/pkk-chef-oecalan-kuendigt-rasche-selbstentwaffnung-seiner-kaempfer-an-102.html",
+    "https://www.faz.net/aktuell/politik/inland/anschlaege-geplant-razzien-nach-terrorverdacht-in-nrw-110581893.html",
+    "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-erste-generaldebatte-mit-merz-als-kanzler-im-livestream-110581807.html"
   ],
   "content_hashes": [
-    "cf44da1b1b7284a78130bc4b7ea9edbd",
-    "7b21f7adbe78b148ecddcf581e1812bc",
-    "4f789b4200e4301059a8be12ab46869a",
-    "9b15c8c6b54d457d8ed21e84d4f482ed",
     "aed0696505676593c1c1cd3fde94485c",
     "d531ac3fa98cfff2c554f5ce8caa87eb",
     "a6e29fdbed0302345aa3b44bb69fa7d1",
@@ -2001,13 +1997,13 @@
     "7b411f35e2e430c0958b3f40333cd285",
     "ceec3ceceace9d1ac98f8b821815a050",
     "9a0c51265c61a868515fc572f1c94b25",
-    "87e237b059a1c36f3641cef9d9b3a679"
+    "87e237b059a1c36f3641cef9d9b3a679",
+    "98a742c4e188f4a9d3a831743eafaded",
+    "8bb67a1cc15cba82ed416c5b4b1b439e",
+    "7745167e40b1b6e039155f6a66683008",
+    "50ddee34b2444c062a541ea8cf6fbf38"
   ],
   "titles": [
-    "\"Economist\"-Ranking - Kopenhagen löst Wien als \"lebenswerteste Stadt der Welt\" ab",
-    "Bundespräsident - Steinmeier reist zum vierten Mal nach Japan",
-    "Energie, Wasser, Personal: Freibäder verlangen höhere Eintrittspreise",
-    "Newsblog zur Eskalation in Nahost - Weitere Evakuierungsflüge in Europa angekommen",
     "Bundesregierung - Bas will Gesetzesentwurf zur Reform des Bürgergeldes zügig vorlegen",
     "Medienforschung - Studie: Menschen vermeiden zunehmend Nachrichten - Interesse bleibt stabil",
     "Hearing - Sexueller Kindesmissbrauch und Heimerziehung - Betroffene und Fachleute werden öffentlich befragt",
@@ -3003,13 +2999,13 @@
     "Frankfurt - DFB legt Revision gegen Urteil im Sommermärchen-Prozess ein",
     "Generaldebatte im Bundestag - Milliardenausgaben und Wortbrüche",
     "Auswärtiges Amt: Minister Johann Wadephul kritisiert chinesischen Laserangriff scharf",
-    "Was sagt Alice Weidel zum Haushalt der Bundesregierung?"
+    "Was sagt Alice Weidel zum Haushalt der Bundesregierung?",
+    "Ukraine-Krieg - Ukraine meldet schwerste russische Luftangriffe seit Kriegsbeginn",
+    "Türkei - PKK-Chef Öcalan kündigt \"rasche\" Selbstentwaffnung seiner Kämpfer an",
+    "Anschläge geplant: Razzien nach Terrorverdacht in NRW",
+    "Dröge wirft Merz vor, in Spahns Maskenaffäre „wegzuschauen“"
   ],
   "hashes": [
-    "eabea32c706c43c26117a1fe0d791e39",
-    "178e329211aae68df9b7a7d6e4ac1cad",
-    "93ac79a5569d1441f631eb91de0b14b6",
-    "d8c542c7b269ed5520cf0d5768727a24",
     "f6f84a14032159cdd6dffac2ca68241c",
     "e382ad20ffaec737aaed0ecbae8fe5ce",
     "eaeda42a5649521cde1b367397f34674",
@@ -4005,6 +4001,10 @@
     "af3478d54e96ec8927938a526b12f8a6",
     "d5c09857949f468590550bfb7f4f9286",
     "9e56777b727ff7fd7bbc78bdb11b5298",
-    "cecf9c1ff0a19608ae396fc1b8d73fad"
+    "cecf9c1ff0a19608ae396fc1b8d73fad",
+    "3137d2295b341f276131035e49fd76ce",
+    "826efffcb8f45f3c5b12fab81001171d",
+    "f56832a00372a7cfca16e8c0d1497941",
+    "3d729d2c249c51f5da872af1cc960b04"
   ]
 }
