@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bund-mitbegruender-hubert-weinzierl-ist-tot-100.html",
-    "https://www.spiegel.de/karriere/arbeitszeit-beschaeftigte-wollen-taegliche-hoechstarbeitszeit-beibehalten-a-69185fb7-66dc-4500-b946-558add096f68#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/wadephul-sichert-heimreise-zu-deutsche-sollen-israel-ueber-jordanien-verlassen-110542473.html",
-    "https://www.deutschlandfunk.de/trump-will-echtes-ende-des-konflikts-mit-dem-iran-100.html",
-    "https://www.deutschlandfunk.de/ruestungsinvestitionen-eu-will-buerokratie-abbauen-100.html",
     "https://www.deutschlandfunk.de/spanische-regierung-sieht-mehrere-ursachen-fuer-massiven-stromausfall-im-april-102.html",
     "https://www.faz.net/aktuell/politik/inland/sed-opferbeauftragte-lobt-umgang-mit-sed-opfern-110541909.html",
     "https://www.deutschlandfunk.de/nach-angriff-in-bad-freienwalde-brandenburgische-landespolitiker-fordern-besseren-schutz-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-wegen-verdachts-auf-islamistische-anschlagsplanun-100.html",
     "https://www.faz.net/aktuell/politik/inland/anschlaege-geplant-mann-wegen-terrorverdacht-in-nrw-festgenommen-110581893.html",
     "https://www.faz.net/aktuell/politik/inland/gericht-in-bayern-kruzifix-in-gymnasium-hat-glaubensfreiheit-verletzt-110582428.html",
-    "https://www.spiegel.de/politik/deutschland/uli-groetsch-polizeibeauftragter-des-bundes-kritisiert-zurueckweisung-von-asylsuchenden-a-d0085dac-d250-4869-b6b9-bfbb071c40f6#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/uli-groetsch-polizeibeauftragter-des-bundes-kritisiert-zurueckweisung-von-asylsuchenden-a-d0085dac-d250-4869-b6b9-bfbb071c40f6#ref=rss",
+    "https://www.deutschlandfunk.de/ukraine-meldet-weitere-schwere-russische-luftangriffe-100.html",
+    "https://www.deutschlandfunk.de/merz-haelt-wahl-von-juristin-brosius-gersdorf-zur-richterin-am-bundesverfassungsgericht-fuer-vertret-100.html",
+    "https://www.deutschlandfunk.de/auch-eu-bestellt-chinesischen-botschafter-wegen-vorwurf-des-laserangriffs-gegen-bundeswehr-maschine--102.html",
+    "https://www.deutschlandfunk.de/nvidia-als-erstes-unternehmen-mit-mehr-als-4-billionen-dollar-boersenwert-100.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2025/7/9/can-brics-challenge-the-us-led-world-order?traffic_source=rss"
   ],
   "content_hashes": [
-    "7cfad9c089b8d1011a1a6b8e5ac1627f",
-    "da537751d89c1031d2973c32a35f48e7",
-    "97415c7fd315aab08bafc1920208082b",
-    "af2999b1c82d6155615abd35391df8c5",
-    "7850766f540e17abb675f21572a16d64",
     "f6ab21cef6d3d593f3dc6fd17fadf229",
     "72b74ff08241899bf417bf2c1c219b84",
     "8bc3dda8d5d54efee6f399b084eb47db",
@@ -2001,14 +1996,14 @@
     "d0a1fa01265a44d4b678df84a90f1a06",
     "42ec5a24e6242a665c74c05578ab7637",
     "4abc5716c4e67b3ba04ef110cc7289e6",
-    "9cb57dd6c02ed394ed8faf995f89985c"
+    "9cb57dd6c02ed394ed8faf995f89985c",
+    "3348d76b8952141be2934ce741bd2b78",
+    "f3ab83f795f2bd0e2976f2f8b8397282",
+    "734e08c1c93c6ad95c656c4b75ef446c",
+    "7f351a8df8d8d947352390026f6f6074",
+    "d792fa0c9536e39910fc13ffa9cfd22d"
   ],
   "titles": [
-    "Umweltschutz - BUND-Mitbegründer Hubert Weinzierl ist tot",
-    "Arbeitszeit: Beschäftigte wollen tägliche Höchstarbeitszeit beibehalten",
-    "Krieg gegen Iran: Deutsche sollen Israel über Jordanien verlassen",
-    "Nahost - Trump will \"echtes Ende\" des Konflikts mit dem Iran",
-    "Aufrüstung in Europa - Rüstungsinvestitionen: EU will Bürokratie abbauen",
     "Iberische Halbinsel - Spanische Regierung sieht mehrere Ursachen für massiven Stromausfall im April",
     "SED-Opferbeauftragte: Zupke lobt den „Paradigmenwechsel“ im Umgang mit SED-Opfern",
     "Veranstaltung für Vielfalt - Nach Angriff in Bad Freienwalde: Brandenburgische Landespolitiker fordern besseren Schutz",
@@ -3003,14 +2998,14 @@
     "Terrorismus - Razzia in mehreren Städten in Nordrhein-Westfalen wegen Verdachts auf islamistische Anschlagsplanung",
     "Anschläge geplant: Mann wegen Terrorverdacht in NRW festgenommen",
     "Gericht in Bayern: Kruzifix in Gymnasium hat Glaubensfreiheit verletzt",
-    "Uli Grötsch: Polizeibeauftragter des Bundes kritisiert Zurückweisung von Asylsuchenden"
+    "Uli Grötsch: Polizeibeauftragter des Bundes kritisiert Zurückweisung von Asylsuchenden",
+    "Ukraine-Krieg - Ukraine meldet weitere schwere russische Luftangriffe",
+    "Regierungsbefragung - Merz hält Wahl von Juristin Brosius-Gersdorf zur Richterin am Bundesverfassungsgericht für vertretbar",
+    "Einsatz im Roten Meer - Auch EU bestellt chinesischen Botschafter wegen Vorwurf des Laserangriffs gegen Bundeswehr-Maschine ein",
+    "Rekordwert - Nvidia als erstes Unternehmen mit mehr als 4 Billionen Dollar Börsenwert",
+    "Can BRICS challenge the US-led world order?"
   ],
   "hashes": [
-    "5e31f71ef31a903465e9ce06e39cade5",
-    "4811fea5bdd8f91e7ec0ab3bf32a422f",
-    "3076ec1fcbf9e50e121c2fb295c8ce5d",
-    "47bcc32478ff219423045efe43fa5bff",
-    "6729776b36e7572be6b9b16f6b4561f2",
     "2f1c9d3b8972a0aa9067ce4e572d7423",
     "53b76076f06d23e96a99c855786575e4",
     "30e5415bee5e5084ef5f588cc6f25122",
@@ -4005,6 +4000,11 @@
     "d39171fda802b3736d95777844fe51a2",
     "7be46841a00de1167a3db84a809870e1",
     "31eb9787adb3c4bfdd6eb0729233fb54",
-    "256bec25739a1327ee84dbdebce4d4d4"
+    "256bec25739a1327ee84dbdebce4d4d4",
+    "8382f0fa4a6db25198ada5c68ae46ff2",
+    "9cafa234fc9abdf3bbc3fe165b1704ec",
+    "9329080b08269799e5f42f7c615e5437",
+    "d174397d900abaed83d635c28b1a9151",
+    "355b2596d41d1def370412f26b0bcb26"
   ]
 }
