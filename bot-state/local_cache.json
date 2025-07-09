@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-reist-vorzeitig-ab-dennoch-einigung-auf-erklaerung-zu-iran-und-israel-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-sieht-deutliche-erhoehung-des-verteidigungsbudgets-100.html",
-    "https://www.deutschlandfunk.de/neue-iranische-raketenangriffe-luftalarm-in-israel-100.html",
-    "https://www.deutschlandfunk.de/vorwuerfe-gegen-spahn-warken-will-im-haushaltsausschuss-stellung-zu-masken-bericht-nehmen-100.html",
     "https://www.deutschlandfunk.de/pentagon-vergibt-ki-auftrag-im-wert-von-200-millionen-dollar-an-openai-100.html",
     "https://www.deutschlandfunk.de/gegenseitige-luftangriffe-fortgesetzt-israel-meldet-tod-von-iranischem-kommandanten-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-gast-trump-reist-wegen-internationaler-lage-ab-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-spricht-vor-dem-britischen-parlament-102.html",
     "https://www.deutschlandfunk.de/steinmeier-beendet-reise-durch-litauen-und-lettland-100.html",
     "https://www.spiegel.de/wirtschaft/deutsche-haben-die-meisten-sorgen-um-ihre-finanzielle-zukunft-a-4ea6ef3b-9b6a-4783-8841-4e0d5064844b#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/hinter-den-kulissen-im-bundestag-110575110.html"
+    "https://www.faz.net/aktuell/politik/inland/hinter-den-kulissen-im-bundestag-110575110.html",
+    "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-wegen-verdachts-auf-islamistischer-anschlagsplanu-102.html",
+    "https://www.deutschlandfunk.de/taiwan-startet-grosse-militaeruebung-zur-abwehr-einer-moeglichen-chinesischen-invasion-100.html",
+    "https://www.deutschlandfunk.de/haushaltberatungen-gehen-mit-generaldebatte-weiter-spd-fraktionsvorsitzende-esdar-muessen-land-fit-f-102.html",
+    "https://www.deutschlandfunk.de/bitkom-bedeutung-sozialer-medien-als-verkaufsplattformen-waechst-100.html"
   ],
   "content_hashes": [
-    "0c9d8fe161bc61ea3e918f38b64714b6",
-    "f354671a56ea026c77260913c9a4a175",
-    "54ad8f11f3dd6cf534ad79e3dca1e2a0",
-    "b13ba358aeb32bf0a4c409519c5dcbf5",
     "a98a07a84b3db5b0bfb60c02ad4fd0c2",
     "74fa8bd94437ce0b47cd68407c3d7e52",
     "8736fae3bcfc93907a081e8c023ae7a1",
@@ -2001,13 +1997,13 @@
     "4977b769b3558392fc8fceb29d74874c",
     "2e002ffe1931b655bee99d17afa0f14c",
     "95423edd61bcb8967c1dc494abab8054",
-    "de1460bb7c960faebb3a62f771a8e46b"
+    "de1460bb7c960faebb3a62f771a8e46b",
+    "7a7c39b7b2bf37d006c4c90de5706d37",
+    "246765b7b366cbf76260308ef2a992da",
+    "4dc699f7d2dafa20ea0bebd1c4910488",
+    "51e7bfd24273f07ae6be5fe15951b83a"
   ],
   "titles": [
-    "G7-Gipfel - Trump reist vorzeitig ab - dennoch Einigung auf Erklärung zu Iran und Israel",
-    "Bundehaushalt - Klingbeil sieht deutliche Erhöhung des Verteidigungsbudgets",
-    "Newsblog zur Eskalation in Nahost - Neue iranische Raketenangriffe - Luftalarm in Israel",
-    "Bundestag - Vorwürfe gegen Spahn - Warken will im Haushaltsausschuss Stellung zu Masken-Bericht nehmen",
     "ChatGPT-Entwickler - Pentagon vergibt KI-Auftrag im Wert von 200 Millionen Dollar an OpenAI",
     "Newsblog zur Eskalation in Nahost - Gegenseitige Luftangriffe fortgesetzt - Israel meldet Tod von iranischem Kommandanten",
     "G7-Gipfel in Kanada - Selenskyj zu Gast - Trump reist \"wegen internationaler Lage\" ab",
@@ -3003,13 +2999,13 @@
     "Staatsbesuch - Frankreichs Präsident Macron spricht vor dem britischen Parlament",
     "Besuch im Baltikum - Bundespräsident Steinmeier wirbt für mehr Rüstungsinvestitionen",
     "Deutsche haben die meisten Sorgen um ihre finanzielle Zukunft",
-    "Hinter den Kulissen. Backstage Bundestag"
+    "Hinter den Kulissen. Backstage Bundestag",
+    "Terrorismus - Razzia in mehreren Städten in Nordrhein-Westfalen wegen Verdachts auf islamistischer Anschlagsplanung",
+    "Erstmals mit gesamter Bevölkerung - Taiwan startet große Militärübung zur Abwehr einer möglichen chinesischen Invasion",
+    "Bundestag - Haushaltberatungen gehen mit Generaldebatte weiter - SPD-Fraktionsvorsitzende Esdar: \"Müssen Land fit für Zukunft machen\"",
+    "Online-Handel - Bitkom: Bedeutung Sozialer Medien als Verkaufsplattformen wächst"
   ],
   "hashes": [
-    "c37a77ba2c1d09128709f4d6b595cfd9",
-    "53c1c24e4346350a92238d28d34b8d7b",
-    "4b3b873a66d3374f7ef2a8ca1744185a",
-    "1e30132af8286b2a5e20d33366f458f5",
     "c194b104b9938e3a5860d696195b9f53",
     "87a277e1392f0083a1131e398dd00e2e",
     "a6867d3db89ae251f24a9effc3cc78d0",
@@ -4005,6 +4001,10 @@
     "f6a051c2337b275322662e0d6c9b47f3",
     "21b55853340dc7e7d604776b24fc9a70",
     "a43a6f58c88469be65ea77be9bb23a61",
-    "adb9ca4f9937b7907d63c85cab28c44a"
+    "adb9ca4f9937b7907d63c85cab28c44a",
+    "efd4f9916ebed029e9a8f1ba7dddd103",
+    "8a8ea85a47c47a86a44cf1ef55dee672",
+    "9ef2c4cb0e7e6749ee68f37ef632e0b3",
+    "407e07bf46e53e9bb1868768c9cf23b1"
   ]
 }
