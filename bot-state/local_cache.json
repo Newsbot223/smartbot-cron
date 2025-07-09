@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/proteste-in-los-angeles-buergermeisterin-hebt-ausgangssperre-auf-102.html",
-    "https://www.deutschlandfunk.de/kanada-kuendigt-weitere-unterstuetzung-fuer-ukraine-an-110.html",
-    "https://www.deutschlandfunk.de/ministerpraesidenten-treffen-merz-bund-und-laender-sprechen-ueber-investitionsprogramm-100.html",
     "https://www.deutschlandfunk.de/bau-turbo-bundeskabinett-will-schaffung-neuen-wohnraums-vorantreiben-100.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-der-gefaehrdung-der-freiheit-110.html",
     "https://www.deutschlandfunk.de/usa-verhindern-offenbar-gemeinsame-erklaerung-zur-ukraine-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gedenkfeier-fuer-margot-friedlaender-102.html",
     "https://www.deutschlandfunk.de/gericht-weist-le-pens-antrag-gegen-ausschluss-von-wahlen-ab-102.html",
     "https://www.deutschlandfunk.de/rueckruf-fuer-mineralwasser-wegen-keimbelastung-100.html",
-    "https://www.deutschlandfunk.de/taetigkeitsbericht-polizeibeauftragter-des-bundes-100.html"
+    "https://www.deutschlandfunk.de/taetigkeitsbericht-polizeibeauftragter-des-bundes-100.html",
+    "https://www.deutschlandfunk.de/trump-veroeffentlicht-zoll-briefe-an-sechs-weitere-laender-100.html",
+    "https://www.deutschlandfunk.de/waldbrand-nahe-marseille-breitet-sich-laut-behoerden-nicht-weiter-aus-100.html",
+    "https://www.deutschlandfunk.de/srebrenica-massaker-genozid-100.html"
   ],
   "content_hashes": [
-    "9fa03ce24a18f6faaeb455ed330b3384",
-    "3e2550acdf6b27e44d31c252d5a65d94",
-    "89dbf2fe6ffcd7a277700933bc36b20f",
     "c39d0030570e4f0f02aa3a89db56f467",
     "73fc2538361114bcd99b96c1d4b7d791",
     "2c82a5d2a9d7bac38dafadc0d76bd3ce",
@@ -2001,12 +1998,12 @@
     "7c45e740f1bb5a5923d1ca36517d7f5a",
     "ff12379ecf48937c4c0072203ca09faf",
     "7db9ad2ce325a059ae68b8fc5688281d",
-    "26404b834b65baad1c52e0cf57c4996e"
+    "26404b834b65baad1c52e0cf57c4996e",
+    "0dbb0c130cf1ab4602adf1571ad5083b",
+    "f6fbf59bfe3fef56ea944899dbacaf2b",
+    "1e5651f8c474cc74d73ab0a4cd2270dd"
   ],
   "titles": [
-    "USA - Proteste in Los Angeles: Bürgermeisterin hebt Ausgangssperre auf",
-    "G7-Gipfel - Kanada kündigt weitere Unterstützung für Ukraine an",
-    "Finanzen - Ministerpräsidenten treffen Merz: Bund und Länder sprechen über Investitionsprogramm",
     "Gesetzentwurf - \"Bau-Turbo\": Bundeskabinett will Schaffung neuen Wohnraums vorantreiben",
     "Rede in Berlin - Kulturstaatsminister Weimer warnt vor der Gefährdung der Freiheit",
     "G7-Gipfel - USA verhindern offenbar gemeinsame Erklärung zur Ukraine",
@@ -3003,12 +3000,12 @@
     "Berlin - Gedenkfeier für Margot Friedländer",
     "Frankreich - Gericht weist Le Pens Antrag gegen Ausschluss von Wahlen ab",
     "Lebensmittel - Rückruf für Mineralwasser wegen Keimbelastung",
-    "Polizeibericht - Grenzkontrollen belasten die Bundespolizei"
+    "Polizeibericht - Grenzkontrollen belasten die Bundespolizei",
+    "Wirtschaft - Trump veröffentlicht Zoll-Briefe an sechs weitere Länder",
+    "Südfrankreich - Waldbrand nahe Marseille breitet sich laut Behörden nicht weiter aus",
+    "30 Jahre Srebrenica - Wie sich Muslime und Christen an den Genozid erinnern"
   ],
   "hashes": [
-    "b5040d91f95143db5f94032f2315b67f",
-    "5adf4c423c648064160e8f8e4c5ccc03",
-    "19f50fea2eb7ab18850ef964702f7b8e",
     "9afa05f8605c5196ffbf877dfb824d2e",
     "2e27141fc82956f76913a776d8dc49c5",
     "d291bbac170cf24dbd9bef05f895245a",
@@ -4005,6 +4002,9 @@
     "ca9f2a36066406cb8bcd8387befc7dea",
     "8085bfcb67f1f12263c7ffff64a45c30",
     "c40a549879507ac65a3c1646be19d60f",
-    "b931f2a649e505ae8c24c82f4ca66b04"
+    "b931f2a649e505ae8c24c82f4ca66b04",
+    "3152a5488e75e801a7ecb603a9e93128",
+    "6c5ee8873705250d64e6058ec4c1fd52",
+    "4007a3c69dfe9050cd11beb934c6c421"
   ]
 }
