@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesarbeitsministerin-bas-spd-will-gesetzesentwurf-zur-reform-des-buergergeldes-zuegig-vorlegen-100.html",
-    "https://www.deutschlandfunk.de/vorwuerfe-gegen-spahn-cdu-bundesgesundheitsministerin-warken-will-im-haushaltsausschuss-stellung-zu--100.html",
-    "https://www.faz.net/aktuell/politik/ausland/nargess-eskandari-gruenberg-ueber-iran-mit-verbrechern-kann-man-nicht-verhandeln-110541713.html",
     "https://www.faz.net/aktuell/politik/inland/wer-ist-der-engste-vertraute-von-friedrich-merz-110540324.html",
     "https://www.deutschlandfunk.de/eu-kommission-legt-plan-fuer-verbot-russischer-gasimporte-vor-einfuhren-sollen-schrittweise-verboten-100.html",
     "https://www.deutschlandfunk.de/bund-mitbegruender-hubert-weinzierl-ist-tot-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/schule-muss-kruzifix-auf-wunsch-von-schuelern-abhaengen-klage-zweier-frauen-erfolgreich-100.html",
     "https://www.deutschlandfunk.de/zwei-chinesen-in-ukraine-unter-spionageverdacht-festgenommen-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-gegen-digitalsteuer-fuer-grosse-tech-konzerne-aus-den-usa-100.html",
-    "https://www.faz.net/aktuell/politik/inland/generaldebatte-zum-haushalt-im-bundestag-110582120.html"
+    "https://www.faz.net/aktuell/politik/inland/generaldebatte-zum-haushalt-im-bundestag-110582120.html",
+    "https://www.deutschlandfunk.de/waldbrand-in-der-gohrischheide-landkreis-meissen-hebt-katastrophenalarm-auf-102.html",
+    "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-wegen-verdachts-auf-islamistische-anschlagsplanun-100.html",
+    "https://www.faz.net/aktuell/politik/inland/anschlaege-geplant-mann-wegen-terrorverdacht-in-nrw-festgenommen-110581893.html"
   ],
   "content_hashes": [
-    "b26a7548828bb55d3b93f6c5ef4bd031",
-    "e25d71d5ce88a084dac6d5557003a0c7",
-    "8da6db7a5b6bd8621fa762f639ca895d",
     "0a4a2f756b422996f78e9457f3036baf",
     "6710471da731e03fc390be83ce8c8d18",
     "7cfad9c089b8d1011a1a6b8e5ac1627f",
@@ -2001,12 +1998,12 @@
     "78cfee9e5c131085dcf9619d66418d75",
     "a57dc7b74acb939a505942554c24b5ae",
     "7a30ed1f8132452a50a76379cf70b1d4",
-    "8204f7f420f1c70b6c82e2de8e40b64b"
+    "8204f7f420f1c70b6c82e2de8e40b64b",
+    "2fba4f8e0c6a03d0ecd1ab2d33ef1c1e",
+    "d0a1fa01265a44d4b678df84a90f1a06",
+    "42ec5a24e6242a665c74c05578ab7637"
   ],
   "titles": [
-    "Bundesregierung - Bundesarbeitsministerin Bas (SPD) will Gesetzesentwurf zur Reform des Bürgergeldes zügig vorlegen",
-    "Bundestag - Vorwürfe gegen Spahn (CDU): Bundesgesundheitsministerin Warken will im Haushaltsausschuss Stellung zu Masken-Bericht nehmen",
-    "Nargess Eskandari-Grünberg: „Mit Verbrechern kann man nicht verhandeln“",
     "Alter Ego gesucht: Gibt es einen Vertrauten im Umfeld von Merz?",
     "Energiepolitik - EU-Kommission legt Plan für Verbot russischer Gasimporte vor - Einfuhren sollen schrittweise verboten werden",
     "Umweltschutz - BUND-Mitbegründer Hubert Weinzierl ist tot",
@@ -3003,12 +3000,12 @@
     "Bayern - Schule muss Kruzifix auf Wunsch von Schülern abhängen - Klage zweier Frauen erfolgreich",
     "Vater und Sohn - Zwei Chinesen in Ukraine unter Spionageverdacht festgenommen",
     "Nach Weimer-Vorschlag - Bundeswirtschaftsministerin Reiche gegen Digitalsteuer für große Tech-Konzerne aus den USA",
-    "Generaldebatte: Von übler Nachrede, einem „Hühnerhaufen“ und Verfassungsfeinden"
+    "Generaldebatte: Von übler Nachrede, einem „Hühnerhaufen“ und Verfassungsfeinden",
+    "\"Lage stabil\" - Waldbrand in der Gohrischheide: Landkreis Meißen hebt Katastrophenalarm auf",
+    "Terrorismus - Razzia in mehreren Städten in Nordrhein-Westfalen wegen Verdachts auf islamistische Anschlagsplanung",
+    "Anschläge geplant: Mann wegen Terrorverdacht in NRW festgenommen"
   ],
   "hashes": [
-    "7974ac13d503d5318f60a833ca5bc47a",
-    "ee8ac354eb0f1d4dd3403ca4e03ba911",
-    "29de749beaf8ef5e2be258a0019b39ac",
     "05852f47958c65f20c93d8a8808e6d5a",
     "6837b31f1d93af99d028d5b36de34f42",
     "5e31f71ef31a903465e9ce06e39cade5",
@@ -4005,6 +4002,9 @@
     "c9e0ad6f8a92f71a899e4f06b09348f9",
     "fdc4bc6d092063972fa6463d5db8edc8",
     "1221dfdc84520d4a7dd9ad2ab7f0be0a",
-    "5658f16061e1079e53f79c53f4423d57"
+    "5658f16061e1079e53f79c53f4423d57",
+    "27dd457df44e045e83fb7f96b1af6729",
+    "d39171fda802b3736d95777844fe51a2",
+    "7be46841a00de1167a3db84a809870e1"
   ]
 }
