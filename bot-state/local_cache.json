@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auch-in-der-nacht-gegenseitige-luftangriffe-israels-und-des-iran-108.html",
-    "https://www.deutschlandfunk.de/umsatz-der-fahrradbranche-sinkt-erstmals-seit-corona-boom-100.html",
     "https://www.deutschlandfunk.de/frankreich-geht-an-bahnhoefen-gegen-migranten-ohne-papiere-vor-100.html",
     "https://www.deutschlandfunk.de/2024-deutlich-mehr-pakete-unterwegs-100.html",
     "https://www.spiegel.de/panorama/justiz/vereinten-patrioten-in-sachsen-und-brandenburg-ermittler-durchsuchen-wohnungen-a-b3a806e1-63a9-4e0b-b373-4a7e104c7284#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tunnel-bricht-bei-bauarbeiten-ein-alle-arbeiter-werden-gerettet-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-verlangt-von-israel-eine-bessere-versorgung-der-palaestinenser-100.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-verteidigt-migrationspolitik-102.html",
-    "https://www.deutschlandfunk.de/wiederaufbau-ukraine-interview-reem-alabali-radovan-spd-entwicklungshilfemin-100.html"
+    "https://www.deutschlandfunk.de/wiederaufbau-ukraine-interview-reem-alabali-radovan-spd-entwicklungshilfemin-100.html",
+    "https://www.deutschlandfunk.de/sachsen-anhalt-plant-blockade-des-tierwohl-labels-im-bundesrat-100.html",
+    "https://www.deutschlandfunk.de/regierung-verlegt-fluechtlinge-von-kreta-aufs-festland-100.html"
   ],
   "content_hashes": [
-    "727d024ba40121f1385ea66b56a0f33a",
-    "377a9c1de2c70f0a42343dab6caaa5f3",
     "044ddf4d5d217c208f26c6aeee282caf",
     "da7e637e5362d0f237624cdf87fa8654",
     "12c3d79f694bed01035b2dec82bc381b",
@@ -2001,11 +1999,11 @@
     "ae1c6111c1fb7c6f00d15b9b7a74864d",
     "f024cda59fdf21d8044cf6236987bbf5",
     "5fb5d1d67874e9e5176a91023f226f81",
-    "536e35458930f3c80df2f77c407ba81f"
+    "536e35458930f3c80df2f77c407ba81f",
+    "124a50d7ff7da1c65b27589a7bd16236",
+    "0a2d2a4112566f85826dbcf76781e3b2"
   ],
   "titles": [
-    "Nahost - Auch in der Nacht gegenseitige Luftangriffe Israels und des Iran",
-    "Wirtschaft - Umsatz der Fahrradbranche sinkt erstmals seit Corona-Boom",
     "Zweitägiger Einsatz - Frankreich geht an Bahnhöfen gegen Migranten ohne Papiere vor",
     "Logistik - 2024 deutlich mehr Pakete unterwegs",
     "»Vereinten Patrioten« in Sachsen und Brandenburg: Ermittler durchsuchen Wohnungen",
@@ -3003,11 +3001,11 @@
     "Los Angeles - Tunnel bricht bei Bauarbeiten ein - alle Arbeiter werden gerettet",
     "Gaza-Krieg - Außenminister Wadephul verlangt von Israel eine bessere Versorgung der Palästinenser",
     "Bundestag - Innenminister Dobrindt verteidigt Migrationspolitik",
-    "Ukraine-Wiederaufbaukonferenz - Entwicklungsministerin kündigt europäischen Fonds an"
+    "Ukraine-Wiederaufbaukonferenz - Entwicklungsministerin kündigt europäischen Fonds an",
+    "Forderung nach EU-weiter Lösung - Sachsen-Anhalt plant Blockade des Tierwohl-Labels im Bundesrat",
+    "Griechenland - Regierung verlegt Flüchtlinge von Kreta aufs Festland"
   ],
   "hashes": [
-    "c9f70292d707e212be60b7f1885e4683",
-    "017090ef0f521a7b847fc47c211f5059",
     "9e8f94b5458cc219891c5f122cd8158b",
     "59a142740fc70f78c0ca1c5b7de7f076",
     "79fe2e4b45e277432644223dac986b01",
@@ -4005,6 +4003,8 @@
     "84b07ea18fa42717cd1e637c4a3c8af8",
     "0ac592f1f003fe3aa7b1976bcc1a474a",
     "b1c727560f73f5bd39dc301ef5adadfb",
-    "9c5ece7d37a8c4ff85a79f58dc021080"
+    "9c5ece7d37a8c4ff85a79f58dc021080",
+    "a88010cb8718813468668d36613ec8a8",
+    "d9c24c4ad696f5c21891b01a647943dc"
   ]
 }
