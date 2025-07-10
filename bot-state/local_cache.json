@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/australien-verhaengt-erstmals-sanktionen-gegen-russische-schattenflotte-100.html",
-    "https://www.deutschlandfunk.de/gruenen-politiker-nouripour-fordert-deeskalation-im-iran-konflikt-100.html",
     "https://www.deutschlandfunk.de/bildungsministerin-prien-begruesst-debatte-ueber-smartphone-verbot-100.html",
     "https://www.deutschlandfunk.de/richterin-regierung-muss-wieder-geschlechtsneutrale-reisepaesse-ausstellen-100.html",
     "https://www.deutschlandfunk.de/oesterreich-erhoeht-mindestalter-fuer-waffenkaeufer-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/brasilien-will-sich-gegen-hohe-us-zoelle-wehren-102.html",
     "https://www.faz.net/aktuell/politik/inland/csu-landesgruppenchef-brosius-gersdorf-ist-keine-linksradikale-aktivistin-110583457.html",
     "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-kommission-ab-gruene-fordern-blick-auf-familien-und-kinder-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-faengt-aus-jemen-abgefeuerte-rakete-ab-100.html"
+    "https://www.deutschlandfunk.de/israelische-armee-faengt-aus-jemen-abgefeuerte-rakete-ab-100.html",
+    "https://www.deutschlandfunk.de/ministerin-alabali-radovan-kuendigt-europaeischen-fonds-an-auch-russland-muss-zahlen-100.html",
+    "https://www.deutschlandfunk.de/tunnel-bricht-bei-bauarbeiten-ein-alle-arbeiter-werden-gerettet-100.html"
   ],
   "content_hashes": [
-    "add12586067b0fe2795bb90538b0d4d5",
-    "0af5d1fcc1ec59bd920b681d705de447",
     "1a6d4e802e0546aa24911aa15a3b61ff",
     "414eae2d7f865efebf7c4cb875ac90e2",
     "e4bcd78dc18cd2092458049b063e9d76",
@@ -2001,11 +1999,11 @@
     "d53e0a2b98729d0bd0b6fbf00de7392b",
     "d71e5d22a32001225f9760fd32d6804a",
     "40b212a8a3464399e580e5970b66639d",
-    "b5a31ef8d12f805966ac454bbc3937be"
+    "b5a31ef8d12f805966ac454bbc3937be",
+    "a18a455e9b253cbb1bd040151df444bf",
+    "ae1c6111c1fb7c6f00d15b9b7a74864d"
   ],
   "titles": [
-    "Öltanker - Australien verhängt erstmals Sanktionen gegen russische Schattenflotte",
-    "Nahost - Grünen-Politiker Nouripour fordert Deeskalation im Iran-Konflikt",
     "Digitale Medien - Bildungsministerin Prien begrüßt Debatte über Smartphone-Verbot",
     "USA - Richterin: Regierung muss wieder geschlechtsneutrale Reisepässe ausstellen",
     "Nach Amoklauf in Graz - Österreich erhöht Mindestalter für Waffenkäufer",
@@ -3003,11 +3001,11 @@
     "Handelskonflikt - Brasilien will sich gegen hohe US-Zölle wehren",
     "CSU-Landesgruppenchef: Brosius-Gersdorf ist keine linksradikale Aktivistin",
     "Corona-Aufarbeitung - Bundestag stimmt über Kommission ab - Grüne fordern Blick auf Familien und Kinder",
-    "Nahost - Israelische Armee fängt aus Jemen abgefeuerte Rakete ab"
+    "Nahost - Israelische Armee fängt aus Jemen abgefeuerte Rakete ab",
+    "Ukraine-Wiederaufbaukonferenz in Rom - Ministerin Alabali-Radovan kündigt europäischen Fonds an - \"Auch Russland muss zahlen\"",
+    "Los Angeles - Tunnel bricht bei Bauarbeiten ein - alle Arbeiter werden gerettet"
   ],
   "hashes": [
-    "4d1743cc42ea0027cf2c2d2b796dfda6",
-    "f5849cd850112f858016166a5ff30d13",
     "428b4cf823ef5fc0a808b00f4f19858f",
     "cc2c3643257232a2092ee5e2336bb600",
     "c46d48c8c3ca68288c49e696f334d50e",
@@ -4005,6 +4003,8 @@
     "b8e13af140e573634cd4f37d4b098bda",
     "efda7ec400a9ae7a6f3122ca8167e25b",
     "0beca53c830776b44ca8ca2828f5ee72",
-    "07dfeeb64f1076e54876ac3ef6dbbb3e"
+    "07dfeeb64f1076e54876ac3ef6dbbb3e",
+    "f7c1d078f73bc3e19bb4af42762b7027",
+    "84b07ea18fa42717cd1e637c4a3c8af8"
   ]
 }
