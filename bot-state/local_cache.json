@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mieten-in-grossen-staedten-haben-sich-in-den-vergangenen-10-jahren-fast-verdoppelt-100.html",
-    "https://www.deutschlandfunk.de/usa-verhindern-gemeinsame-erklaerung-zur-ukraine-merz-wertet-gipfel-dennoch-als-erfolg-100.html",
     "https://www.deutschlandfunk.de/iran-und-israel-setzen-gegenseitige-angriffe-fort-bundesregierung-will-deutsche-staatsbuerger-ausfli-100.html",
     "https://www.deutschlandfunk.de/tiktok-erst-ab-16-lehrerverband-gegen-social-media-verbot-fuer-jugendliche-100.html",
     "https://www.deutschlandfunk.de/kanada-und-indien-beenden-ihre-diplomatische-krise-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wirtschaftsweise-werding-warnt-vor-drastischem-anstieg-102.html",
     "https://www.deutschlandfunk.de/dihk-begruesst-verhandlungen-zwischen-usa-und-eu-102.html",
     "https://www.deutschlandfunk.de/russland-greift-erneut-hauptstadt-kiew-an-102.html",
-    "https://www.deutschlandfunk.de/usa-wollen-wieder-granaten-an-die-regierung-in-kiew-liefern-106.html"
+    "https://www.deutschlandfunk.de/usa-wollen-wieder-granaten-an-die-regierung-in-kiew-liefern-106.html",
+    "https://www.deutschlandfunk.de/aussenminister-rubio-und-lawrow-treffen-sich-102.html",
+    "https://www.deutschlandfunk.de/misstrauensantrag-gegen-kommissionspraesidentin-von-der-leyen-100.html"
   ],
   "content_hashes": [
-    "fb0f118fee25d0a2bebc4262850e5f4e",
-    "9f8c1dd9fc23d0fbc479604ab63a17b2",
     "9daa3a9554125ef9e50dfe66e0cc681c",
     "739c8dc2289394d24bfb779fa5e2015f",
     "b3e484f3a0cd4b6050630e1dc1eef378",
@@ -2001,11 +1999,11 @@
     "65a463f92ee10a0d882aea86479b4817",
     "5dc93ab5e4e11d04d94c797436fd6747",
     "7a7906a6a37a6e9beb8f93065056d2ae",
-    "988f6c2fed7e429b8c4f9788c52eebbc"
+    "988f6c2fed7e429b8c4f9788c52eebbc",
+    "bfdff8d41ac7b07565e0c6308340ea31",
+    "bf5dad38579a99fa396dd4ba2eac28c1"
   ],
   "titles": [
-    "Wohnkosten - Mieten in großen Städten haben sich in den vergangenen 10 Jahren fast verdoppelt",
-    "G7-Gipfel - USA verhindern gemeinsame Erklärung zur Ukraine - Merz wertet Gipfel dennoch als Erfolg",
     "Nahost - Iran und Israel setzen gegenseitige Angriffe fort - Bundesregierung will deutsche Staatsbürger ausfliegen",
     "\"Realitätsfern\" - Tiktok erst ab 16? - Lehrerverband gegen Social-Media-Verbot für Jugendliche",
     "Bilaterale Beziehungen - Kanada und Indien beenden ihre diplomatische Krise",
@@ -3003,11 +3001,11 @@
     "Sozialabgaben - Wirtschaftsweise Werding warnt vor drastischem Anstieg",
     "Handelskonflikt - DIHK begrüßt Verhandlungen zwischen USA und EU",
     "Ukraine - Russland greift erneut Hauptstadt Kiew an",
-    "Ukraine - USA wollen wieder Granaten an die Regierung in Kiew liefern"
+    "Ukraine - USA wollen wieder Granaten an die Regierung in Kiew liefern",
+    "Diplomatie - Außenminister Rubio und Lawrow treffen sich",
+    "Europäische Union - Misstrauensantrag gegen Kommissionspräsidentin von der Leyen"
   ],
   "hashes": [
-    "794645cd91f0a12c372f2a64af937863",
-    "59cf261271e731cd1e244c68c567f207",
     "0a835acd5bd8651697c6f1e4c5f5cb8a",
     "bf67dd889a37dab79780281676815ae2",
     "22ebb8bfb992b4d98af9676ca83c0a57",
@@ -4005,6 +4003,8 @@
     "2d201f8e5bd78244354775071ccac6c1",
     "eafcb346ed1662f8e7c0de19c0b36da3",
     "0b7259547ab177e50e63d2e04d020efd",
-    "cc2ce5618db59602ee5ef7a0d368ba1b"
+    "cc2ce5618db59602ee5ef7a0d368ba1b",
+    "be7f41a6ec2f915f7ca7552d47116fc6",
+    "5c1b9f27797b8c23912ad43fd25f8b14"
   ]
 }
