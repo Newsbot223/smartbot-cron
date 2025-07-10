@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lehrerverband-gegen-social-media-verbot-fuer-jugendliche-100.html",
-    "https://www.deutschlandfunk.de/abtreibungen-in-england-und-wales-bald-grundsaetzlich-nicht-strafbar-100.html",
-    "https://www.deutschlandfunk.de/israel-wird-erneut-vom-iran-beschossen-bundesregierung-will-deutsche-staatsbuerger-ausfliegen-100.html",
-    "https://www.deutschlandfunk.de/merz-wertet-g7-gipfel-als-erfolg-100.html",
     "https://www.deutschlandfunk.de/mieten-in-grossen-staedten-haben-sich-in-den-vergangenen-10-jahren-fast-verdoppelt-100.html",
     "https://www.deutschlandfunk.de/usa-verhindern-gemeinsame-erklaerung-zur-ukraine-merz-wertet-gipfel-dennoch-als-erfolg-100.html",
     "https://www.deutschlandfunk.de/iran-und-israel-setzen-gegenseitige-angriffe-fort-bundesregierung-will-deutsche-staatsbuerger-ausfli-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/srebrenica-massaker-genozid-100.html",
     "https://www.faz.net/aktuell/politik/inland/was-bringen-klimaschutzgesetze-in-den-bundeslaendern-110578952.html",
     "https://www.deutschlandfunk.de/ex-praesident-yoon-wegen-gefahr-der-beweisvernichtung-inhaftiert-102.html",
-    "https://www.deutschlandfunk.de/bundestag-soll-kommission-einsetzen-100.html"
+    "https://www.deutschlandfunk.de/bundestag-soll-kommission-einsetzen-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsweise-werding-warnt-vor-drastischem-anstieg-102.html",
+    "https://www.deutschlandfunk.de/dihk-begruesst-verhandlungen-zwischen-usa-und-eu-102.html",
+    "https://www.deutschlandfunk.de/russland-greift-erneut-hauptstadt-kiew-an-102.html",
+    "https://www.deutschlandfunk.de/usa-wollen-wieder-granaten-an-die-regierung-in-kiew-liefern-106.html"
   ],
   "content_hashes": [
-    "b6e48effb61cdba0a6d4243c9fcf74df",
-    "3c951e6c807d47e3d9825b2ec113672c",
-    "7414f5bd47b456a0b24761b49c14c2fe",
-    "a94b635e4dbc9c799c3036be4cdb4737",
     "fb0f118fee25d0a2bebc4262850e5f4e",
     "9f8c1dd9fc23d0fbc479604ab63a17b2",
     "9daa3a9554125ef9e50dfe66e0cc681c",
@@ -2001,13 +1997,13 @@
     "1e5651f8c474cc74d73ab0a4cd2270dd",
     "6c48c860aee65df498b2624ccd3b92d5",
     "b5d3b5aa75bd08eed014ebaffdaade88",
-    "4484dc7144f9cb2d442f9fdfbd1efc92"
+    "4484dc7144f9cb2d442f9fdfbd1efc92",
+    "65a463f92ee10a0d882aea86479b4817",
+    "5dc93ab5e4e11d04d94c797436fd6747",
+    "7a7906a6a37a6e9beb8f93065056d2ae",
+    "988f6c2fed7e429b8c4f9788c52eebbc"
   ],
   "titles": [
-    "Tiktok erst ab 16? - Lehrerverband gegen Social-Media-Verbot für Jugendliche",
-    "Schwangerschaftsabbrüche - Abtreibungen in England und Wales bald grundsätzlich nicht strafbar",
-    "Nahost - Israel wird erneut vom Iran beschossen - Bundesregierung will deutsche Staatsbürger ausfliegen",
-    "Kanada - Merz wertet G7-Gipfel als Erfolg",
     "Wohnkosten - Mieten in großen Städten haben sich in den vergangenen 10 Jahren fast verdoppelt",
     "G7-Gipfel - USA verhindern gemeinsame Erklärung zur Ukraine - Merz wertet Gipfel dennoch als Erfolg",
     "Nahost - Iran und Israel setzen gegenseitige Angriffe fort - Bundesregierung will deutsche Staatsbürger ausfliegen",
@@ -3003,13 +2999,13 @@
     "30 Jahre Srebrenica - Wie sich Muslime und Christen an den Genozid erinnern",
     "Emissionen senken: Was bringen Klimaschutzgesetze in den Bundesländern?",
     "Südkorea - Ex-Präsident Yoon wegen Gefahr der Beweisvernichtung inhaftiert",
-    "Corona-Aufarbeitung - Bundestag soll Kommission einsetzen"
+    "Corona-Aufarbeitung - Bundestag soll Kommission einsetzen",
+    "Sozialabgaben - Wirtschaftsweise Werding warnt vor drastischem Anstieg",
+    "Handelskonflikt - DIHK begrüßt Verhandlungen zwischen USA und EU",
+    "Ukraine - Russland greift erneut Hauptstadt Kiew an",
+    "Ukraine - USA wollen wieder Granaten an die Regierung in Kiew liefern"
   ],
   "hashes": [
-    "3e79575c6e6f5e33b481c93faac74aeb",
-    "a0bce3f88af3a81558377255b00013fb",
-    "89c0ad8c4e4a702d2f494046a7ee45c7",
-    "53a8011a7d7e98c616e2b93a92e031d1",
     "794645cd91f0a12c372f2a64af937863",
     "59cf261271e731cd1e244c68c567f207",
     "0a835acd5bd8651697c6f1e4c5f5cb8a",
@@ -4005,6 +4001,10 @@
     "4007a3c69dfe9050cd11beb934c6c421",
     "ec72f558d32c30cb7c83db5a9cbbef36",
     "38ec9bd6eba0412b524a8e7665b6b5e3",
-    "a9850c5134a6eb93ee773569e35a88dc"
+    "a9850c5134a6eb93ee773569e35a88dc",
+    "2d201f8e5bd78244354775071ccac6c1",
+    "eafcb346ed1662f8e7c0de19c0b36da3",
+    "0b7259547ab177e50e63d2e04d020efd",
+    "cc2ce5618db59602ee5ef7a0d368ba1b"
   ]
 }
