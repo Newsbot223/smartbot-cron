@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-starten-wieder-visa-interviews-fuer-studierende-100.html",
-    "https://www.deutschlandfunk.de/katholiken-in-aller-welt-feiern-fronleichnam-102.html",
-    "https://www.deutschlandfunk.de/roettgen-trump-will-nicht-als-schwach-dastehen-102.html",
     "https://www.deutschlandfunk.de/israels-botschafter-verteidigt-wortwahl-des-kanzlers-100.html",
     "https://www.deutschlandfunk.de/regierung-stellt-besondere-hilfshotline-fuer-lgbtq-jugendliche-ein-102.html",
     "https://www.deutschlandfunk.de/santana-und-clapton-planen-neues-woodstock-fuer-den-frieden-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rubio-und-lawrow-beginnen-treffen-am-rande-des-asean-gipfels-100.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-kritisiert-gruene-und-will-liste-der-sicheren-herkunftsstaaten-ausweiten-100.html",
     "https://www.deutschlandfunk.de/ameos-kliniken-fuehren-it-ausfall-auf-hackerangriff-zurueck-100.html",
-    "https://www.deutschlandfunk.de/enquete-kommission-soll-lehren-aus-der-corona-pandemie-ziehen-100.html"
+    "https://www.deutschlandfunk.de/enquete-kommission-soll-lehren-aus-der-corona-pandemie-ziehen-100.html",
+    "https://www.deutschlandfunk.de/missbrauchsbeauftragte-will-schaerfere-regeln-fuer-sex-mit-jugendlichen-100.html",
+    "https://www.deutschlandfunk.de/schon-mehr-als-100-auslaender-dieses-jahr-in-saudi-arabien-hingerichtet-100.html",
+    "https://www.deutschlandfunk.de/deutsche-bahn-will-generalsanierung-bis-2036-strecken-100.html"
   ],
   "content_hashes": [
-    "a9639ee7420216951eeafb46a609f3c9",
-    "a98cc3ec97b4261334c6aa2fbd99e92c",
-    "8f9083eb73e7387390624471e32227d6",
     "79f6f0376d00995ee63b52f4fc213a24",
     "92dadd722cf0e06dcf8ae5def6e0beac",
     "0d06c6d4bb58cf0d7d30fa580f927b7c",
@@ -2001,12 +1998,12 @@
     "21c54f802b863ec4f5b732cc190acc48",
     "9048f303331fbdfe7d413daae21d5157",
     "71f6970eb1baa6a52f0685a83750e0ee",
-    "047f7432253c7f2b4d96bdbf4451afc9"
+    "047f7432253c7f2b4d96bdbf4451afc9",
+    "7eb6932a9a199bf04207a6a50ae7c1d6",
+    "7ca332be56764cb3f153afcd80d9cee5",
+    "16b2abf315d4c878725b6a63bf4e6a9f"
   ],
   "titles": [
-    "Medienberichte - USA starten wieder Visa-Interviews für Studierende",
-    "Feiertag - Katholiken in aller Welt feiern Fronleichnam",
-    "Nahost - Röttgen: Trump will nicht als schwach dastehen",
     "Kritik an Äußerungen von Merz - Israels Botschafter verteidigt Wortwahl des Kanzlers",
     "USA - Regierung stellt besondere Hilfshotline für LGBTQ-Jugendliche ein",
     "\"Oye cómo va\" - Santana und Clapton planen neues \"Woodstock\" für den Frieden",
@@ -3003,12 +3000,12 @@
     "Diplomatie - Rubio und Lawrow beginnen Treffen am Rande des Asean-Gipfels",
     "Migrationspolitik - Innenminister Dobrindt kritisiert Grüne und will Liste der sicheren Herkunftsstaaten ausweiten",
     "Gesundheitskonzern - Ameos-Kliniken führen IT-Ausfall auf Hackerangriff zurück",
-    "Pandemie-Aufarbeitung - Enquete-Kommission soll Lehren aus der Corona-Pandemie ziehen"
+    "Pandemie-Aufarbeitung - Enquete-Kommission soll Lehren aus der Corona-Pandemie ziehen",
+    "\"Ja heißt Ja\" - Missbrauchsbeauftragte will schärfere Regeln für Sex mit Jugendlichen",
+    "Medienberichte - Schon mehr als 100 Ausländer dieses Jahr in Saudi-Arabien hingerichtet",
+    "Verkehr - Deutsche Bahn will Generalsanierung bis 2036 strecken"
   ],
   "hashes": [
-    "ecde9c112d5f5265143c08ba542eedb4",
-    "f59f7350f8cf8b9527a922afdb53d457",
-    "5ba5ea63d83fe086d74d90def6886802",
     "39ed3ce29f8370d22b2554c0b9430d47",
     "e2cf80b6983db5856e73e5d2da3aa279",
     "be522307c744c8be56dd6b1adfed2471",
@@ -4005,6 +4002,9 @@
     "06e5bbddea68a992cad28dcc8ede94de",
     "f40441ab066dbce6a097581cae86d96b",
     "c3b622327f1f1dffb36a06a1e6b4df39",
-    "38d55982f2d4074e09b6a32d0ba51baf"
+    "38d55982f2d4074e09b6a32d0ba51baf",
+    "1fbffc77adc706e4337f52520681925f",
+    "93954d35f09bf1476470626c23ad349d",
+    "bfa1a6b0d3a49d7d95396487fb910fdc"
   ]
 }
