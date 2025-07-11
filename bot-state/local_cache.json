@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/airbus-erhaelt-bestellungen-fuer-mehr-als-250-maschinen-100.html",
-    "https://www.deutschlandfunk.de/menschenrechtsorganisationen-fordern-aussetzung-des-eu-israel-abkommens-100.html",
-    "https://www.deutschlandfunk.de/auch-finnland-steigt-aus-internationalem-abkommen-aus-102.html",
     "https://www.deutschlandfunk.de/polizei-verbietet-pride-parade-in-budapest-102.html",
     "https://www.faz.net/aktuell/politik/inland/verwaltungsreform-berlin-will-endlich-funktionieren-110545607.html",
     "https://www.deutschlandfunk.de/spanien-lehnt-hoehere-verteidigungsausgaben-ab-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutsch-franzoesischer-tourist-im-iran-festgenommen-102.html",
     "https://www.faz.net/aktuell/politik/inland/bayern-will-begleitetes-trinken-fuer-jugendliche-verbieten-110584865.html",
     "https://www.deutschlandfunk.de/bundesrichter-setzt-einschraenkung-des-geburtsrechts-auf-us-staatsbuergerschaft-erneut-aus-102.html",
-    "https://www.deutschlandfunk.de/voelkermord-von-srebrenica-jaehrt-sich-zum-30-mal-102.html"
+    "https://www.deutschlandfunk.de/voelkermord-von-srebrenica-jaehrt-sich-zum-30-mal-102.html",
+    "https://www.deutschlandfunk.de/netanjahu-hofft-auf-baldige-freilassung-weiterer-geiseln-100.html",
+    "https://www.deutschlandfunk.de/waldbraende-in-der-toskana-und-auf-sardinien-100.html",
+    "https://www.deutschlandfunk.de/staedtetagspraesident-jung-das-kann-uns-die-waermewende-zerschiessen-100.html"
   ],
   "content_hashes": [
-    "0f47c3e937642f99efc5ca729b30a1c6",
-    "8c58b24705a148e9a33fb1101bb1247c",
-    "0b419038ef019998023cd29a8bf6011e",
     "e54c8064997397674978cd6f1c2725bc",
     "56b5680c7b8e97cef60c76d573459a64",
     "a25bc1bf16b5eec001fe2e95fd9de59e",
@@ -2001,12 +1998,12 @@
     "9753630cf8895f0fdab42370aa1c9840",
     "a4683639259c3819ae05b6cacef20aac",
     "1125fe374cf4ed661268c8989d5e5c94",
-    "e78abf414646c24f3b195a6e72ee350f"
+    "e78abf414646c24f3b195a6e72ee350f",
+    "9b4d4d24b653cdbf79e7b2ac5993627a",
+    "9d2fced53d7f80d602d686f26be8cb90",
+    "aab7de6cee380cc40bef4dfd3d6f2521"
   ],
   "titles": [
-    "Luftfahrtmesse - Airbus erhält Bestellungen für mehr als 250 Maschinen",
-    "Gaza-Krieg - Menschenrechtsorganisationen fordern Aussetzung des EU-Israel-Abkommens",
-    "Antipersonenminen - Auch Finnland steigt aus internationalem Abkommen aus",
     "Ungarn - Polizei verbietet \"Pride Parade\" in Budapest",
     "Berliner Verwaltungsreform: Berlin will endlich funktionieren",
     "NATO - Spanien lehnt höhere Verteidigungsausgaben ab",
@@ -3003,12 +3000,12 @@
     "Fahrradreise - Deutsch-französischer Tourist im Iran festgenommen",
     "Bayern will „begleitetes Trinken“ für Jugendliche verbieten",
     "Justiz - Bundesrichter setzt Einschränkung des Geburtsrechts auf US-Staatsbürgerschaft erneut aus",
-    "Internationaler Gedenktag - Völkermord von Srebrenica jährt sich zum 30. Mal"
+    "Internationaler Gedenktag - Völkermord von Srebrenica jährt sich zum 30. Mal",
+    "Gaza-Krieg - Netanjahu hofft auf baldige Freilassung weiterer Geiseln",
+    "Italien - Waldbrände in der Toskana und auf Sardinien",
+    "Stromsteuer - Städtetagspräsident Jung: \"Das kann uns die Wärmewende zerschießen\""
   ],
   "hashes": [
-    "6f421393e8ef272b505dabf5f50befe6",
-    "b963eee274207d3dfa9ff7de8b93d834",
-    "576f8fb42f6970978dc9e576722b6276",
     "f9d24ef9cb8f12bdb2a752041c4b7499",
     "1c98c9630e18b4e4f8b5ecfd925177a4",
     "acf6fc13815fb0ff35134e6be8abf44d",
@@ -4005,6 +4002,9 @@
     "145457ae348848759fb060d5c7bcdb17",
     "943f7962c6b3e6f37c0ae1774bbbabbd",
     "8d22a6e4b7521dd503f71cf342c75c55",
-    "b951323ddd5ee04b3c6647dd860696cd"
+    "b951323ddd5ee04b3c6647dd860696cd",
+    "b7a043fd9596d0c4158db52e638fe158",
+    "95d2db88a58782809c8f89528b58114d",
+    "d4ab6922d160d2158cf42bf4aca0ebe6"
   ]
 }
