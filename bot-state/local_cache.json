@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/forschungsministerin-baer-deutschland-will-in-der-raumfahrt-fuehrungsrolle-einnehmen-und-setzt-auf-p-100.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-wadephul-trifft-iranischen-aussenminister-in-genf-100.html",
     "https://www.deutschlandfunk.de/bevoelkerung-in-ostdeutschland-geht-zurueck-102.html",
     "https://www.deutschlandfunk.de/energielabel-fuer-smartphones-und-tablets-in-der-eu-ab-heute-pflicht-102.html",
     "https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-deutschlands-einwohnerzahl-leicht-auf-83-6-millionen-menschen-gewachsen-a-dd820ffa-9767-4436-8fb4-2324ad8a6e20#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/finanzministerium-kritisiert-autobahn-gmbh-fuer-ausschreibungsstopp-102.html",
     "https://www.deutschlandfunk.de/aussenminister-treffen-china-und-usa-wollen-konstruktiver-zusammenarbeiten-100.html",
     "https://www.deutschlandfunk.de/zwei-afrikanische-orte-neu-auf-der-unesco-welterbe-liste-100.html",
-    "https://www.deutschlandfunk.de/bundesgerichtshof-senkt-haftstrafe-fuer-unternehmerin-andrea-tandler-urteil-rechtskraeftig-100.html"
+    "https://www.deutschlandfunk.de/bundesgerichtshof-senkt-haftstrafe-fuer-unternehmerin-andrea-tandler-urteil-rechtskraeftig-100.html",
+    "https://www.deutschlandfunk.de/griechenland-setzt-asylverfahren-fuer-migranten-aus-nordafrika-aus-100.html",
+    "https://www.deutschlandfunk.de/uno-seit-ende-mai-sind-fast-800-menschen-in-der-naehe-von-verteilzentren-getoetet-worden-100.html"
   ],
   "content_hashes": [
-    "25b4880315449172408e8de518af36c7",
-    "b74aa92d92a755107c003ffa794bdfc2",
     "99844636d2bb63c0889f123f58a55a50",
     "9851acd95343ede5cbf1332e3d494442",
     "fa3cb3bcca446f3683b74fd11d602faa",
@@ -2001,11 +1999,11 @@
     "2a8a6a06cf6850598d2195521c84fd54",
     "4a77e4e0f2f1311be68cc020afbc5121",
     "39bb14ab08ea97998153ad2089537ac6",
-    "e74d9c9ba0037cc843006882f09824c3"
+    "e74d9c9ba0037cc843006882f09824c3",
+    "d37e703e8663b93a37e7a9fbb1733255",
+    "5369053644463ee27a6915a8efe101f4"
   ],
   "titles": [
-    "Bundesregierung - Forschungsministerin Bär: Deutschland will in der Raumfahrt Führungsrolle einnehmen und setzt auf Partnerschaft mit Japan",
-    "Eskalation in Nahost - Wadephul trifft iranischen Außenminister in Genf",
     "Statistik - Bevölkerung in Ostdeutschland geht zurück",
     "Nachhaltigkeit - Energielabel für Smartphones und Tablets in der EU ab heute Pflicht",
     "Bevölkerung: Deutschlands Einwohnerzahl leicht auf 83,6 Millionen Menschen gewachsen",
@@ -3003,11 +3001,11 @@
     "Vorläufige Haushaltsführung - Finanzministerium kritisiert Autobahn GmbH für Ausschreibungsstopp",
     "Kuala Lumpur - Außenminister-Treffen: China und USA wollen \"konstruktiver\" zusammenarbeiten",
     "In Kamerun und Malawi - Zwei afrikanische Orte neu auf der Unesco-Welterbe-Liste",
-    "Masken-Geschäfte - Bundesgerichtshof senkt Haftstrafe für Unternehmerin Andrea Tandler - Urteil rechtskräftig"
+    "Masken-Geschäfte - Bundesgerichtshof senkt Haftstrafe für Unternehmerin Andrea Tandler - Urteil rechtskräftig",
+    "Migration - Griechenland setzt Asylverfahren für Migranten aus Nordafrika aus",
+    "Gazastreifen - UNO: Seit Ende Mai sind fast 800 Menschen in der Nähe von Verteilzentren getötet worden"
   ],
   "hashes": [
-    "214c4c5f40240026c36bf5f60a6d3635",
-    "084e1e985240e33f8d1fa43dfc250ccc",
     "de5681815d04040278b07bc5959fe0e5",
     "527eb284b05e9490e5564c53260362c9",
     "c6e7adafe226c5517b4a865b1768cd3a",
@@ -4005,6 +4003,8 @@
     "5bf405ee51c3d22c2ddee0e1a9ddc2e8",
     "5d47e22cf5e5af4fd6177cd56f1f93c9",
     "217f299f86d85ab9dd0f86743167cf6c",
-    "25bd325722c1f6f1683290a9d7a81715"
+    "25bd325722c1f6f1683290a9d7a81715",
+    "62ada81a50a3b61adac6a2289f564718",
+    "d04bcbccd42ff64c5c953f66c535ebd7"
   ]
 }
