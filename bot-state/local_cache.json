@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-entscheidung-ueber-iran-eingreifen-innerhalb-von-zwei-wochen-100.html",
-    "https://www.spiegel.de/wirtschaft/fuer-fairen-wettbewerb-berlin-fordert-zoelle-auf-billigwaren-a-238001c1-4ca5-42b5-a903-72d4fea4b9fb#ref=rss",
     "https://www.spiegel.de/kultur/musik/roxette-konzert-per-gessle-kommt-mit-neuer-saengerin-nach-deutschland-a-7b70b797-e363-4aee-a6af-6dc427b057fb#ref=rss",
     "https://www.deutschlandfunk.de/linken-parteichef-van-aken-fordert-diplomatische-gespraeche-mit-dem-iran-100.html",
     "https://www.deutschlandfunk.de/steuersparmodelle-des-us-finanzunternehmens-blackrock-bescheren-der-eu-einnahmeverluste-in-millionen-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mietpreisbremse-und-investitionspaket-gebilligt-100.html",
     "https://www.deutschlandfunk.de/wie-es-nach-der-verschobenen-richterwahl-weitergeht-100.html",
     "https://www.deutschlandfunk.de/aussetzung-des-familiennachzugs-und-verlaengerung-der-mietpreisbremse-beschlossen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/union-und-spd-das-lief-anders-als-geplant-110585784.html"
+    "https://www.faz.net/aktuell/politik/inland/union-und-spd-das-lief-anders-als-geplant-110585784.html",
+    "https://www.deutschlandfunk.de/bas-will-jobcentern-mehr-geld-fuer-eingliederung-von-arbeitslosen-zur-verfuegung-stellen-102.html",
+    "https://www.spiegel.de/panorama/zugspitze-bergsteiger-stuerzt-kopfueber-zehn-meter-in-gletscherspalte-und-wird-gerettet-a-288b0a49-8172-4603-b32a-8725545d19b6#ref=rss"
   ],
   "content_hashes": [
-    "e4e84d0d3ecf524aefd5d8aef441ec8f",
-    "b879c9fa7b586c8ad7e36e564dc2461f",
     "79ad91159fc5b85784db8b7e46c43439",
     "4c8348727c8607124daae7ef14ac62ee",
     "3cece81fa9f597ace4fcb944dc242951",
@@ -2001,11 +1999,11 @@
     "4ae6d5ffc99e580f003655af65484bc2",
     "b69f7cbf69c4c544f684c6e67c186ec2",
     "cb2e1ef0c061088185af07160cd7c204",
-    "e0922abb42e20d84127fed87450bf8c5"
+    "e0922abb42e20d84127fed87450bf8c5",
+    "21ead0a835e193e40bfecbf86c7492e5",
+    "510f23346c90f01e0ee5cc0139c2f1f4"
   ],
   "titles": [
-    "Israel-Iran-Konflikt - Trump will binnen zwei Wochen über Kriegseintritt entscheiden",
-    "Für fairen Wettbewerb: Berlin fordert Zölle auf Billigwaren",
     "Roxette-Konzert: Per Gessle kommt mit neuer Sängerin nach Deutschland",
     "Nahost - Linken-Parteichef van Aken fordert diplomatische Gespräche mit dem Iran",
     "Medienberichte - Steuersparmodelle des US-Finanzunternehmens Blackrock bescheren der EU Einnahmeverluste in Millionenhöhe",
@@ -3003,11 +3001,11 @@
     "Bundesrat - Mietpreisbremse und Investitionspaket gebilligt",
     "Bundestag - Wie es nach der verschobenen Richterwahl weitergeht",
     "Bundesrat - Aussetzung des Familiennachzugs und Verlängerung der Mietpreisbremse beschlossen",
-    "Union und SPD: Das lief anders als geplant"
+    "Union und SPD: Das lief anders als geplant",
+    "Haushaltsdebatte - Bas will Jobcentern mehr Geld für Eingliederung von Arbeitslosen zur Verfügung stellen",
+    "Zugspitze: Bergsteiger stürzt kopfüber zehn Meter in Gletscherspalte – und wird gerettet"
   ],
   "hashes": [
-    "fa426c7a409e703a1afd101a0ab9175a",
-    "0bf6911cbbab3d1a3abd4684b0c4c1dc",
     "c58f63bf932733fb80d430fffa146304",
     "9c46942208344faa3289be7be542ecae",
     "180db545df4a22f26c3e04cc717099e1",
@@ -4005,6 +4003,8 @@
     "455901835816b17734426a019d1f5403",
     "e413ea4796fb4834ea3f2d9ebba655bd",
     "b3170a3a040a8f62733a611d7bae99b3",
-    "98b33a6899ec12bfea895f40009ac258"
+    "98b33a6899ec12bfea895f40009ac258",
+    "98368c1f5b6dcefbf84a0dcd10acd759",
+    "af445bcb7f4f5afe525a47aa5ebad8c6"
   ]
 }
