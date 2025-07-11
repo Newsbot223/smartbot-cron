@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bundestagswahlkampf-vier-maenner-nach-attacken-auf-spd-politiker-verurteilt-110546222.html",
-    "https://www.deutschlandfunk.de/rechter-angriff-auf-spd-wahlkaempfer-in-berlin-taeter-teils-zu-haft-verurteilt-100.html",
-    "https://www.spiegel.de/politik/deutschland/bundespraesident-und-das-diplomatische-corps-botschafter-ausflug-ohne-iranischen-vertreter-a-e359e6aa-0d6b-4250-8b28-ff2b3d6e3f5a#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/afd-fluegel-uneins-ueber-beurteilung-israelischer-angriffe-110546439.html",
     "https://www.deutschlandfunk.de/bahnchef-lutz-familienreservierung-wurde-haeufig-von-kleingruppen-zweckentfremdet-100.html",
     "https://www.deutschlandfunk.de/trump-gibt-tiktok-die-naechste-verlaengerung-in-den-usa-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bitcoin-auf-rekordjagd-100.html",
     "https://www.deutschlandfunk.de/union-will-wahl-von-juristin-brosius-gersdorf-zur-verfassungsrichterin-verschieben-100.html",
     "https://www.deutschlandfunk.de/hasselmann-gruene-bundestag-muss-zwei-drittel-mehrheit-ohne-afd-gewaehrleisten-100.html",
-    "https://www.deutschlandfunk.de/entscheidungen-ueber-investitionspaket-und-aus-fuer-familiennachzug-102.html"
+    "https://www.deutschlandfunk.de/entscheidungen-ueber-investitionspaket-und-aus-fuer-familiennachzug-102.html",
+    "https://www.deutschlandfunk.de/union-will-wahl-von-spd-kandidatin-brosius-gersdorf-zur-verfassungsrichterin-verschieben-100.html",
+    "https://www.deutschlandfunk.de/abstimmungen-ueber-wachstumsbooster-mitpreisbremse-und-familiennachzug-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-gegen-entfernung-von-kreuzen-an-schulen-100.html"
   ],
   "content_hashes": [
-    "0ee8efb6e23de08ab6ccc3d8c625308d",
-    "a1b87d6d9813c37d29638ddcd5c6c6b0",
-    "de475c5b65d4db245451f03cd5cfa358",
     "974ad499ebe3854a22b53baa4004c0a7",
     "3987f704eb23a80110d5a5ca8bd80ee5",
     "aa3fd9494ac742d16403d17c80cfcbe9",
@@ -2001,12 +1998,12 @@
     "e00ad9f8e89d2bae5eaf61e59c9dde8d",
     "51ce83cea46e0425273fe2f4e185276a",
     "1d26743a68291acf5086d42eeea4d4a1",
-    "6698dd3e3b630db0508b574654ba68e0"
+    "6698dd3e3b630db0508b574654ba68e0",
+    "0116db341c7df0c2344a8a0db1ebec1e",
+    "008fff32fe445a4a296b594f4d9ce2e4",
+    "a38b5f9848b5a448173f31bb201c3725"
   ],
   "titles": [
-    "Bundestagswahlkampf: Vier Männer nach Attacken auf SPD-Politiker verurteilt",
-    "Berlin - Rechter Angriff auf SPD-Wahlkämpfer in Berlin - Täter teils zu Haft verurteilt",
-    "Frank-Walter Steinmeier und das diplomatische Corps: Botschafter-Ausflug ohne Vertreter Irans",
     "AfD-Flügel uneins über israelische Angriffe",
     "Verkehr - Bahnchef Lutz: Familienreservierung wurde häufig von Kleingruppen zweckentfremdet",
     "US-Politik - Trump gibt Tiktok die nächste Verlängerung in den USA",
@@ -3003,12 +3000,12 @@
     "Kryptowährung - Bitcoin auf Rekordjagd",
     "Bundestag - Union will Wahl von Juristin Brosius-Gersdorf zur Verfassungsrichterin verschieben",
     "Wahl der Verfassungsrichter - Haßelmann (Grüne): Bundestag muss Zwei-Drittel-Mehrheit ohne AfD gewährleisten",
-    "Bundesrat - Entscheidungen über Investitionspaket und Aus für Familiennachzug"
+    "Bundesrat - Entscheidungen über Investitionspaket und Aus für Familiennachzug",
+    "Bundestag - Union will Wahl von SPD-Kandidatin Brosius-Gersdorf zur Verfassungsrichterin verschieben",
+    "Bundesrat - Abstimmungen über Wachstumsbooster, Mitpreisbremse und Familiennachzug",
+    "Kruzifix-Urteil in Bayern - Dobrindt gegen Entfernung von Kreuzen an Schulen"
   ],
   "hashes": [
-    "2dc67576a8146fea7b62140c23c21888",
-    "55aacac3739a6294078163c2790bba7f",
-    "6b0cc81c5b0efe90122397323ee2b830",
     "2ead88a39a7357b151c7b87159b1655d",
     "0e4c8e8a3b3190d27f91f718dc2ae8c2",
     "3448f0a9c08c944021ee3ef1d0b1fb02",
@@ -4005,6 +4002,9 @@
     "bf706d1965fd61b60f9a52fbf5beb330",
     "f5ae1e677230db77efa5887f67642dec",
     "65320bca260b2e13da18049b17e43c8f",
-    "2bcd215b88444bb9fdfb6517218ea79a"
+    "2bcd215b88444bb9fdfb6517218ea79a",
+    "92c8fabfac01d36b9cca82277d0b78a9",
+    "4d44357a3ae61fa5eb886c1c5b108668",
+    "0eeb152b5e4015eb497ad9db85ec1271"
   ]
 }
