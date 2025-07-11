@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spanien-lehnt-hoehere-verteidigungsausgaben-ab-100.html",
-    "https://www.deutschlandfunk.de/eu-parlament-will-illegalen-tierhandel-eindaemmen-100.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerinnen-fordern-kriegsende-102.html",
     "https://www.deutschlandfunk.de/aetna-ausgebrochen-100.html",
     "https://www.deutschlandfunk.de/agora-energiewende-kritisiert-milliardenluecke-beim-klimaschutz-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/waldbraende-in-der-toskana-und-auf-sardinien-100.html",
     "https://www.deutschlandfunk.de/staedtetagspraesident-jung-das-kann-uns-die-waermewende-zerschiessen-100.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-spd-droht-vermietern-mit-bussgeld-100.html",
-    "https://www.deutschlandfunk.de/massaker-von-srebrenica-jaehrt-sich-zum-30-mal-100.html"
+    "https://www.deutschlandfunk.de/massaker-von-srebrenica-jaehrt-sich-zum-30-mal-100.html",
+    "https://www.deutschlandfunk.de/einwanderern-wird-zugang-zu-vorschulprogramm-gestrichen-100.html",
+    "https://www.deutschlandfunk.de/bitcoin-auf-rekordjagd-100.html"
   ],
   "content_hashes": [
-    "a25bc1bf16b5eec001fe2e95fd9de59e",
-    "bbc18253800b89c7c56dcaeceaa75bee",
     "a8d8a92d20842cd134f26903225733e4",
     "8e6037a9b6bdf8a66b4342c69344174a",
     "ef8c7f17b2ac27f17aa1be078eec043f",
@@ -2001,11 +1999,11 @@
     "9d2fced53d7f80d602d686f26be8cb90",
     "aab7de6cee380cc40bef4dfd3d6f2521",
     "2b25eb04243a0355ab1a9826b346e0c9",
-    "907d7fc9e689d8ed8f50073818233705"
+    "907d7fc9e689d8ed8f50073818233705",
+    "175ec65b8e51b08111825c1c07f12bae",
+    "e00ad9f8e89d2bae5eaf61e59c9dde8d"
   ],
   "titles": [
-    "NATO - Spanien lehnt höhere Verteidigungsausgaben ab",
-    "Europa - EU-Parlament will illegalen Tierhandel eindämmen",
     "Israel-Iran-Konflikt - Friedensnobelpreisträgerinnen fordern Kriegsende",
     "Italien - Ätna ausgebrochen",
     "Haushaltsplanungen - \"Agora Energiewende\" kritisiert Milliardenlücke beim Klimaschutz",
@@ -3003,11 +3001,11 @@
     "Italien - Waldbrände in der Toskana und auf Sardinien",
     "Stromsteuer - Städtetagspräsident Jung: \"Das kann uns die Wärmewende zerschießen\"",
     "Mietpreisbremse - Justizministerin Hubig (SPD) droht Vermietern mit Bußgeld",
-    "Internationaler Gedenktag - Massaker von Srebrenica jährt sich zum 30. Mal"
+    "Internationaler Gedenktag - Massaker von Srebrenica jährt sich zum 30. Mal",
+    "US-Regierung - Einwanderern wird Zugang zu Vorschulprogramm gestrichen",
+    "Kryptowährung - Bitcoin auf Rekordjagd"
   ],
   "hashes": [
-    "acf6fc13815fb0ff35134e6be8abf44d",
-    "3de8295826a712412ec9d4a13a185e9b",
     "70f2b778bfa2dc40fe2154f3b4b9e41a",
     "47ddfdcbe4f0c189346d87644785dd08",
     "55c1931056dbf7cc013944ec87b4ebf1",
@@ -4005,6 +4003,8 @@
     "95d2db88a58782809c8f89528b58114d",
     "d4ab6922d160d2158cf42bf4aca0ebe6",
     "4711a1085fbfd9ebbf639dee328623f9",
-    "44d7a3fa1df6d5f20861e3f4f6fb3266"
+    "44d7a3fa1df6d5f20861e3f4f6fb3266",
+    "34d6254735dfca9490880aaa1c3d5777",
+    "bf706d1965fd61b60f9a52fbf5beb330"
   ]
 }
