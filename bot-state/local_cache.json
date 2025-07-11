@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-gewalt-gegen-kinder-in-konflikten-erreicht-neuen-hoechststand-102.html",
-    "https://www.deutschlandfunk.de/wadephul-fordert-mehr-verlaesslichkeit-vom-iran-100.html",
-    "https://www.deutschlandfunk.de/aetna-ist-ausgebrochen-100.html",
     "https://www.deutschlandfunk.de/usa-entscheidung-ueber-iran-eingreifen-innerhalb-von-zwei-wochen-100.html",
     "https://www.spiegel.de/wirtschaft/fuer-fairen-wettbewerb-berlin-fordert-zoelle-auf-billigwaren-a-238001c1-4ca5-42b5-a903-72d4fea4b9fb#ref=rss",
     "https://www.spiegel.de/kultur/musik/roxette-konzert-per-gessle-kommt-mit-neuer-saengerin-nach-deutschland-a-7b70b797-e363-4aee-a6af-6dc427b057fb#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aussetzung-des-familiennachzugs-endgueltig-beschlossen-100.html",
     "https://www.deutschlandfunk.de/bund-elbe-als-wasserstrasse-zunehmend-unbrauchbar-100.html",
     "https://www.deutschlandfunk.de/wahl-bverfg-interview-helge-lindh-spd-rechtsausschuss-100.html",
-    "https://www.deutschlandfunk.de/mietpreisbremse-und-investitionspaket-gebilligt-100.html"
+    "https://www.deutschlandfunk.de/mietpreisbremse-und-investitionspaket-gebilligt-100.html",
+    "https://www.deutschlandfunk.de/wie-es-nach-der-verschobenen-richterwahl-weitergeht-100.html",
+    "https://www.deutschlandfunk.de/aussetzung-des-familiennachzugs-und-verlaengerung-der-mietpreisbremse-beschlossen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/union-und-spd-das-lief-anders-als-geplant-110585784.html"
   ],
   "content_hashes": [
-    "28fe6bbd012985c1919f8a552503f8f1",
-    "994b3d4ac9599587565ff0f899839d17",
-    "3853d309193cb89dd3a2fb67f45d8a74",
     "e4e84d0d3ecf524aefd5d8aef441ec8f",
     "b879c9fa7b586c8ad7e36e564dc2461f",
     "79ad91159fc5b85784db8b7e46c43439",
@@ -2001,12 +1998,12 @@
     "89a8b632d0327527b88614ded5ab5ef8",
     "db3e3afc0b1548cc22262cb0b0c7ec5b",
     "1181228d7d3ecedb353dffaf13128dfc",
-    "4ae6d5ffc99e580f003655af65484bc2"
+    "4ae6d5ffc99e580f003655af65484bc2",
+    "b69f7cbf69c4c544f684c6e67c186ec2",
+    "cb2e1ef0c061088185af07160cd7c204",
+    "e0922abb42e20d84127fed87450bf8c5"
   ],
   "titles": [
-    "Bericht - UNO: Gewalt gegen Kinder in Konflikten erreicht neuen Höchststand",
-    "Nahost - Wadephul fordert mehr Verlässlichkeit vom Iran",
-    "Italien - Ätna ist ausgebrochen",
     "Israel-Iran-Konflikt - Trump will binnen zwei Wochen über Kriegseintritt entscheiden",
     "Für fairen Wettbewerb: Berlin fordert Zölle auf Billigwaren",
     "Roxette-Konzert: Per Gessle kommt mit neuer Sängerin nach Deutschland",
@@ -3003,12 +3000,12 @@
     "Bundesrat - Aussetzung des Familiennachzugs endgültig beschlossen",
     "Binnenschifffahrt - BUND: Elbe als Wasserstraße zunehmend unbrauchbar",
     "Abgesagte Richterwahl - Lindh (SPD) zeigt wenig Verständnis für Verhalten der Union",
-    "Bundesrat - Mietpreisbremse und Investitionspaket gebilligt"
+    "Bundesrat - Mietpreisbremse und Investitionspaket gebilligt",
+    "Bundestag - Wie es nach der verschobenen Richterwahl weitergeht",
+    "Bundesrat - Aussetzung des Familiennachzugs und Verlängerung der Mietpreisbremse beschlossen",
+    "Union und SPD: Das lief anders als geplant"
   ],
   "hashes": [
-    "678e3669cdaa7ea7ae5b17306ff6ffa3",
-    "345c623c77577ac051342fc9a8a3355a",
-    "d33fdf6b9329e02ab9e11cdcbbdbde6f",
     "fa426c7a409e703a1afd101a0ab9175a",
     "0bf6911cbbab3d1a3abd4684b0c4c1dc",
     "c58f63bf932733fb80d430fffa146304",
@@ -4005,6 +4002,9 @@
     "37f25ca9ddf972d1f4a43a665320524f",
     "5f14f7cdfa73c128d252efbd1fef886e",
     "a211e90ffc288d8065a1cb27c16c9b0a",
-    "455901835816b17734426a019d1f5403"
+    "455901835816b17734426a019d1f5403",
+    "e413ea4796fb4834ea3f2d9ebba655bd",
+    "b3170a3a040a8f62733a611d7bae99b3",
+    "98b33a6899ec12bfea895f40009ac258"
   ]
 }
