@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-warnt-hisbollah-vor-eingreifen-102.html",
-    "https://www.deutschlandfunk.de/israels-armee-greift-weitere-iranische-raketensysteme-an-erneut-einschlaege-in-suedisraelischer-stad-104.html",
-    "https://www.deutschlandfunk.de/uno-arbeitet-an-krisenplaenen-fuer-iran-fluechtlinge-102.html",
     "https://www.deutschlandfunk.de/macron-spricht-von-umfassendem-verhandlungsangebot-irans-aussenminister-daempft-erwartungen-an-treff-102.html",
     "https://www.deutschlandfunk.de/ein-toter-und-mehrere-verletzte-nach-russischem-luftangriff-auf-odessa-100.html",
     "https://www.spiegel.de/wirtschaft/arcelormittal-stopp-gruener-stahlproduktion-stoesst-auf-harte-kritik-a-0ea75cc5-0c5b-4713-80a5-94e85ce9fb72#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/wie-julia-kloeckner-mit-der-aufgeheizten-stimmung-im-bundestag-umgeht-110587030.html",
     "https://www.spiegel.de/politik/auswaertiges-amt-will-bessere-haftbedingungen-fuer-maja-t-erreichen-a-2670c154-ef9c-4c6a-b673-3563dd71d318#ref=rss",
     "https://www.deutschlandfunk.de/spd-will-brosius-gersdorf-von-unionsfraktion-befragen-lassen-kanzleramtschef-frei-cdu-erwartet-tragf-100.html",
-    "https://www.deutschlandfunk.de/t-mobile-erhaelt-genehmigung-fuer-milliarden-uebernahmen-100.html"
+    "https://www.deutschlandfunk.de/t-mobile-erhaelt-genehmigung-fuer-milliarden-uebernahmen-100.html",
+    "https://www.deutschlandfunk.de/medien-erneut-russische-luftangriffe-auf-westliche-regionen-102.html",
+    "https://www.deutschlandfunk.de/wadephul-kuendigt-einhaltung-von-zugesagen-an-108.html",
+    "https://www.deutschlandfunk.de/stromnetzbetreiber-tennet-warnt-vor-verzoegerungen-beim-leitungsbau-102.html"
   ],
   "content_hashes": [
-    "3caface3e4c772982b0260ad8425a79d",
-    "c68a093b765290f5b60534f05e0b3de6",
-    "ba0e2d673b1d1a8cdda93068746d2c08",
     "11dd45b96065eb5d58d5679367cddfc1",
     "8a1d38ef26460283454f40095a97e931",
     "3ceda217942330d408bc790103c6419e",
@@ -2001,12 +1998,12 @@
     "815e9bd2c2ef1d2102e3e016bd217522",
     "800dbf4fd8e486c2741844e81e84ab99",
     "bb7171ffbe3d2d499397d71b73f162f6",
-    "ccb315ce6eceee15424173a7abf8d381"
+    "ccb315ce6eceee15424173a7abf8d381",
+    "37cb5a8dc53a8afd58df562f100e89cf",
+    "d00ec7a67f20a6c8530b1f101ba7e857",
+    "6d418f48e4258d807b1f40a1e2b222b6"
   ],
   "titles": [
-    "Nahost-Konflikt - Israel warnt Hisbollah vor Eingreifen",
-    "Nahost - Israels Armee greift weitere iranische Raketensysteme an - erneut Einschläge in südisraelischer Stadt Beerscheba",
-    "Mittlerer Osten - UNO arbeitet an Krisenplänen für Iran-Flüchtlinge",
     "Verhandlungen in Genf - Macron spricht von \"umfassendem Verhandlungsangebot\" - Irans Außenminister dämpft Erwartungen an Treffen",
     "Ukraine - Ein Toter und mehrere Verletzte nach russischem Luftangriff auf Odessa",
     "ArcelorMittal: Stopp grüner Stahlproduktion stößt auf harte Kritik",
@@ -3003,12 +3000,12 @@
     "Aufgeladene Stimmung: Wie bändigt man den Bundestag?",
     "Auswärtiges Amt will bessere Haftbedingungen für Maja T. erreichen",
     "Verfassungsrichterwahl - SPD will Brosius-Gersdorf von Unionsfraktion befragen lassen - Kanzleramtschef Frei (CDU) erwartet \"tragfähige Lösung über den Sommer\"",
-    "US-Wirtschaft - T-Mobile erhält Genehmigung für Milliarden-Übernahmen"
+    "US-Wirtschaft - T-Mobile erhält Genehmigung für Milliarden-Übernahmen",
+    "Ukraine - Medien: Erneut russische Luftangriffe auf westliche Regionen",
+    "Visa für Afghanen - Wadephul kündigt Einhaltung von Zugesagen an",
+    "Erneuerbaren-Ausbau - Stromnetzbetreiber Tennet warnt vor Verzögerungen beim Leitungsbau"
   ],
   "hashes": [
-    "82c39d55e8c154ed54ed62d02b5ec868",
-    "6cee7dc8957c442192d56339851a46d0",
-    "e6e82f4186ef0bfb73078f27329461e5",
     "0c99db8f22f95fe3714056f07833dea0",
     "ae6ff66c976d3a944f463f40c67104db",
     "4285edea3fc36e459cb41020f39de20f",
@@ -4005,6 +4002,9 @@
     "654bc2d858546ee8191ca3f5d2a792ab",
     "e9ea29b65db93757abf9f2d93e9d664f",
     "61bc62c6b1342951b3330472618a8430",
-    "1f22cc99d543eac9c4ae71d276dc0b1c"
+    "1f22cc99d543eac9c4ae71d276dc0b1c",
+    "a33449cb709b94522801aa713e8fa6c1",
+    "3f467b6d645bfa493c18f9579a22f282",
+    "d27ad8e51c3b2b6846051b4498b7d8cf"
   ]
 }
