@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/gesellschaft/bevoelkerung-deutschlands-einwohnerzahl-leicht-auf-83-6-millionen-menschen-gewachsen-a-dd820ffa-9767-4436-8fb4-2324ad8a6e20#ref=rss",
-    "https://www.deutschlandfunk.de/iran-schliesst-verhandlungen-mit-den-usa-waehrend-israelischer-angriffe-aus-102.html",
     "https://www.deutschlandfunk.de/israel-warnt-hisbollah-vor-eingreifen-102.html",
     "https://www.deutschlandfunk.de/israels-armee-greift-weitere-iranische-raketensysteme-an-erneut-einschlaege-in-suedisraelischer-stad-104.html",
     "https://www.deutschlandfunk.de/uno-arbeitet-an-krisenplaenen-fuer-iran-fluechtlinge-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/griechenland-setzt-asylverfahren-fuer-migranten-aus-nordafrika-aus-100.html",
     "https://www.deutschlandfunk.de/uno-seit-ende-mai-sind-fast-800-menschen-in-der-naehe-von-verteilzentren-getoetet-worden-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-julia-kloeckner-mit-der-aufgeheizten-stimmung-im-bundestag-umgeht-110587030.html",
-    "https://www.spiegel.de/politik/auswaertiges-amt-will-bessere-haftbedingungen-fuer-maja-t-erreichen-a-2670c154-ef9c-4c6a-b673-3563dd71d318#ref=rss"
+    "https://www.spiegel.de/politik/auswaertiges-amt-will-bessere-haftbedingungen-fuer-maja-t-erreichen-a-2670c154-ef9c-4c6a-b673-3563dd71d318#ref=rss",
+    "https://www.deutschlandfunk.de/spd-will-brosius-gersdorf-von-unionsfraktion-befragen-lassen-kanzleramtschef-frei-cdu-erwartet-tragf-100.html",
+    "https://www.deutschlandfunk.de/t-mobile-erhaelt-genehmigung-fuer-milliarden-uebernahmen-100.html"
   ],
   "content_hashes": [
-    "fa3cb3bcca446f3683b74fd11d602faa",
-    "773e1f94cd00d9edda808d44382bc3dc",
     "3caface3e4c772982b0260ad8425a79d",
     "c68a093b765290f5b60534f05e0b3de6",
     "ba0e2d673b1d1a8cdda93068746d2c08",
@@ -2001,11 +1999,11 @@
     "d37e703e8663b93a37e7a9fbb1733255",
     "5369053644463ee27a6915a8efe101f4",
     "815e9bd2c2ef1d2102e3e016bd217522",
-    "800dbf4fd8e486c2741844e81e84ab99"
+    "800dbf4fd8e486c2741844e81e84ab99",
+    "bb7171ffbe3d2d499397d71b73f162f6",
+    "ccb315ce6eceee15424173a7abf8d381"
   ],
   "titles": [
-    "Bevölkerung: Deutschlands Einwohnerzahl leicht auf 83,6 Millionen Menschen gewachsen",
-    "Newsblog zur Eskalation in Nahost - Iran schließt Verhandlungen mit den USA während israelischer Angriffe aus",
     "Nahost-Konflikt - Israel warnt Hisbollah vor Eingreifen",
     "Nahost - Israels Armee greift weitere iranische Raketensysteme an - erneut Einschläge in südisraelischer Stadt Beerscheba",
     "Mittlerer Osten - UNO arbeitet an Krisenplänen für Iran-Flüchtlinge",
@@ -3003,11 +3001,11 @@
     "Migration - Griechenland setzt Asylverfahren für Migranten aus Nordafrika aus",
     "Gazastreifen - UNO: Seit Ende Mai sind fast 800 Menschen in der Nähe von Verteilzentren getötet worden",
     "Aufgeladene Stimmung: Wie bändigt man den Bundestag?",
-    "Auswärtiges Amt will bessere Haftbedingungen für Maja T. erreichen"
+    "Auswärtiges Amt will bessere Haftbedingungen für Maja T. erreichen",
+    "Verfassungsrichterwahl - SPD will Brosius-Gersdorf von Unionsfraktion befragen lassen - Kanzleramtschef Frei (CDU) erwartet \"tragfähige Lösung über den Sommer\"",
+    "US-Wirtschaft - T-Mobile erhält Genehmigung für Milliarden-Übernahmen"
   ],
   "hashes": [
-    "c6e7adafe226c5517b4a865b1768cd3a",
-    "06c143580ef5d21aa57572a14bb6afd0",
     "82c39d55e8c154ed54ed62d02b5ec868",
     "6cee7dc8957c442192d56339851a46d0",
     "e6e82f4186ef0bfb73078f27329461e5",
@@ -4005,6 +4003,8 @@
     "62ada81a50a3b61adac6a2289f564718",
     "d04bcbccd42ff64c5c953f66c535ebd7",
     "654bc2d858546ee8191ca3f5d2a792ab",
-    "e9ea29b65db93757abf9f2d93e9d664f"
+    "e9ea29b65db93757abf9f2d93e9d664f",
+    "61bc62c6b1342951b3330472618a8430",
+    "1f22cc99d543eac9c4ae71d276dc0b1c"
   ]
 }
