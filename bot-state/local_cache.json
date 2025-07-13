@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gespraeche-zwischen-eu-und-iran-ueber-nuklearprogramm-in-genf-weitere-angriffe-zwischen-israel-und-i-100.html",
-    "https://www.deutschlandfunk.de/spahn-maskenbericht-soll-doch-an-haushaltsausschuss-gehen-100.html",
-    "https://www.deutschlandfunk.de/putin-will-ruestungsindustrie-weiter-ausbauen-100.html",
     "https://www.deutschlandfunk.de/thyssenkrupp-chef-l-pez-erhaelt-neuen-vertrag-bis-100.html",
     "https://www.deutschlandfunk.de/verletzte-in-israel-nach-iranischen-angriffen-luftalarm-ueber-buschehr-102.html",
     "https://www.deutschlandfunk.de/bas-spd-sanktionen-beim-buergergeld-werden-nicht-zu-einsparungen-fuehren-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/unesco-erhebt-schloss-neuschwanstein-zum-weltkulturerbe-100.html",
     "https://www.deutschlandfunk.de/wuest-stellt-sich-demonstrativ-hinter-unionsfraktionschef-spahn-100.html",
     "https://www.deutschlandfunk.de/spd-bietet-union-gespraech-mit-kandidatin-brosius-gersdorf-an-102.html",
-    "https://www.deutschlandfunk.de/reichinnek-reagiert-reserviert-auf-gespraechsangebot-dobrindts-104.html"
+    "https://www.deutschlandfunk.de/reichinnek-reagiert-reserviert-auf-gespraechsangebot-dobrindts-104.html",
+    "https://www.deutschlandfunk.de/forderungen-nach-haerteren-strafen-fuer-uebergriffe-auf-medizinisches-personal-102.html",
+    "https://www.deutschlandfunk.de/datenschutz-beauftragte-fuer-mindestalter-104.html",
+    "https://www.deutschlandfunk.de/tausende-demonstrieren-erneut-fuer-freilassung-der-geiseln-100.html"
   ],
   "content_hashes": [
-    "becb50369758bfa2595dd8a4d5390d92",
-    "f0f6453d302412e75e30e89de2520477",
-    "9a2525f1b68bf1bd57b6e5d0e1fd11c6",
     "d97870febe55de4b081cc536523509da",
     "cf363b3b8019abc32440a8f127985afb",
     "95c72d6c303a331fcb01947e872d5f79",
@@ -2001,12 +1998,12 @@
     "2d2b865cb723e4ac42181ea87b06af09",
     "c50ea363e613417271e48792beee38df",
     "cef18db2bb06fc3ef7853fb624bc8100",
-    "62a72820e64647ef4bd8f5579e6ca8cf"
+    "62a72820e64647ef4bd8f5579e6ca8cf",
+    "5472039d95666db3f16a4042cdba2ac1",
+    "e3acf456bd288c445961ddc6bfd07dfe",
+    "b3405e65b5d7d0a2fad70b2fc2ca6035"
   ],
   "titles": [
-    "Newsblog zur Eskalation in Nahost - Gespräche zwischen EU und Iran über Nuklearprogramm in Genf - Weitere Angriffe zwischen Israel und Iran",
-    "Masken-Affäre um Spahn - Bericht soll doch an Haushaltsausschuss gehen",
-    "Wirtschaftsforum Sankt Petersburg - Putin will Rüstungsindustrie weiter ausbauen",
     "Essen - Thyssenkrupp-Chef López erhält neuen Vertrag bis 2031",
     "Nahost - Verletzte in Israel nach iranischen Angriffen - Luftalarm über Buschehr",
     "Interview der Woche - Bas (SPD): \"Sanktionen beim Bürgergeld werden nicht zu Einsparungen führen\"",
@@ -3003,12 +3000,12 @@
     "Entscheidung gefallen - UNESCO erhebt Schloss Neuschwanstein zum Weltkulturerbe",
     "Verfassungsrichterwahl - Wüst stellt sich demonstrativ hinter Unionsfraktionschef Spahn",
     "Verschobene Wahl von Verfassungsrichtern - SPD bietet Union Gespräch mit Kandidatin Brosius-Gersdorf an",
-    "Verfassungsrichterwahl - Reichinnek reagiert reserviert auf Gesprächsangebot Dobrindts"
+    "Verfassungsrichterwahl - Reichinnek reagiert reserviert auf Gesprächsangebot Dobrindts",
+    "Kliniken und Praxen - Forderungen nach härteren Strafen für Übergriffe auf medizinisches Personal",
+    "Nutzung von Social Media - Datenschutz-Beauftragte für Mindestalter",
+    "Israel - Tausende demonstrieren erneut für Freilassung der Geiseln"
   ],
   "hashes": [
-    "87c2897a246f96c732ffc7498412809e",
-    "1c140abe598ed098b03e3f347b83ef5c",
-    "3c3854aba775cb5de3b31f8b7fe7fbe7",
     "491e73cd2980cc5951ecdbba165bfa36",
     "392d62afe643ba8e1fba35148793c0e4",
     "ef7679389088d52c264fedb2d585bb46",
@@ -4005,6 +4002,9 @@
     "66d81c687e645a474c33eb76d2b16d5a",
     "d97362556cd0ebce25ad07082878d9a2",
     "64ee4131baf105e7b110e3bbf58155d5",
-    "08db468ef603236160ad03913d441dfb"
+    "08db468ef603236160ad03913d441dfb",
+    "c3ad958ed87419e1841c636e41929fcd",
+    "6dd27761ee27797ebd6dd4ad6cb084e8",
+    "d29e1e4d2c7ad2d356186cc0ebe66e2f"
   ]
 }
