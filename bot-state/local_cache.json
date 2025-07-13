@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneut-sollten-dutzende-menschen-nahe-gaza-hilfszentren-getoetet-worden-sein-100.html",
-    "https://www.deutschlandfunk.de/altkanzlerin-merkel-israel-muss-sich-gegen-ausloeschungs-drohung-wehren-koennen-100.html",
     "https://www.deutschlandfunk.de/afd-und-linke-kritisieren-personelle-ausstattung-des-scholz-bueros-100.html",
     "https://www.deutschlandfunk.de/kommunen-wollen-mehr-als-60-prozent-des-anteils-fuer-staedte-gemeinden-und-laender-100.html",
     "https://www.deutschlandfunk.de/machalet-spd-kritisiert-umgang-mit-untersuchungsbericht-hat-vertrauen-zerstoert-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ministerium-prognostiziert-fuer-2026-27-milliardendefizite-der-gesetzlichen-krankenkassen-100.html",
     "https://www.deutschlandfunk.de/linke-verlangen-von-der-union-klare-abgrenzung-zur-afd-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-geheimdienst-meldet-toetung-russischer-agenten-104.html",
-    "https://www.deutschlandfunk.de/laender-draengen-auf-stromsteuersenkung-fuer-alle-102.html"
+    "https://www.deutschlandfunk.de/laender-draengen-auf-stromsteuersenkung-fuer-alle-102.html",
+    "https://www.deutschlandfunk.de/isrealischer-beschuss-toetet-erneut-viele-zivilisten-im-gazastreifen-100.html",
+    "https://www.deutschlandfunk.de/russische-armee-meldet-weiteren-vorstoss-in-donezk-100.html"
   ],
   "content_hashes": [
-    "190117fbc26d3c1ca02f0373d262a6c3",
-    "c7bf6430d1bc1fd01e5884ca91726628",
     "7e1bad9e971a101a8e556d1ea0807d6e",
     "bbc73e572f87c65d9f9f7809716258a9",
     "325aff49fd0daf1a6714fcba681d32c4",
@@ -2001,11 +1999,11 @@
     "e9fbb074d556609d1e86c1dabb0698b7",
     "84d2c995c6118ce4317b31fe599480ed",
     "8d3dc51c1535448795867e157b28203a",
-    "0c693a8b463812e16a44fae628328e8c"
+    "0c693a8b463812e16a44fae628328e8c",
+    "2f49ee2f489f7bf90089b2a0f5e4070e",
+    "e1bcd66b0bc64a1bf79327c2997f1927"
   ],
   "titles": [
-    "Nahost - Erneut sollten Dutzende Menschen nahe Gaza-Hilfszentren getötet worden sein",
-    "Interview - Altkanzlerin Merkel: Israel muss sich gegen Auslöschungs-Drohung wehren können",
     "Altkanzler - AfD und Linke kritisieren personelle Ausstattung des Scholz-Büros",
     "Sondervermögen - Kommunen wollen mehr als 60 Prozent des Anteils für Städte, Gemeinden und Länder",
     "Maskenbeschaffung - Machalet (SPD) kritisiert Umgang mit Untersuchungsbericht: \"Hat Vertrauen zerstört\"",
@@ -3003,11 +3001,11 @@
     "Medienbericht - Ministerium prognostiziert für 2026/27 Milliardendefizite der gesetzlichen Krankenkassen",
     "Verfassungsrichter-Wahl - Linke verlangen von der Union klare Abgrenzung zur AfD",
     "Russlands Angriffskrieg - Ukrainischer Geheimdienst meldet Tötung russischer Agenten",
-    "Thüringen, Bayern und Rheinland-Pfalz - Länder drängen auf Stromsteuersenkung für alle"
+    "Thüringen, Bayern und Rheinland-Pfalz - Länder drängen auf Stromsteuersenkung für alle",
+    "Gaza-Krieg - Isrealischer Beschuss tötet erneut viele Zivilisten im Gazastreifen",
+    "Ukraine - Russische Armee meldet weiteren Vorstoß in Donezk"
   ],
   "hashes": [
-    "81fb2eb50245c5cbac80f0f731c93cce",
-    "a9981a999c2d9497362d5b704ea12589",
     "8c3ad00aee96e27da5b67b218ee2d716",
     "98bc5b4290f1496a6f1edc09a8e035f1",
     "e40a42ba82a5d0a2531c9b019f541f1d",
@@ -4005,6 +4003,8 @@
     "470115d0623603b10276687701acdd68",
     "caccd81da3cc69a28a4130704d78e7ce",
     "b81b8c32dbd649850ed30197410c8558",
-    "80c13b9e4c1d4548c4c2185a258f455b"
+    "80c13b9e4c1d4548c4c2185a258f455b",
+    "676252dc72983584bca9c907eacef754",
+    "16238c77a69e64f890363c55a9c14a70"
   ]
 }
