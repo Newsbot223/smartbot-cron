@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/thyssenkrupp-chef-l-pez-erhaelt-neuen-vertrag-bis-100.html",
-    "https://www.deutschlandfunk.de/verletzte-in-israel-nach-iranischen-angriffen-luftalarm-ueber-buschehr-102.html",
-    "https://www.deutschlandfunk.de/bas-spd-sanktionen-beim-buergergeld-werden-nicht-zu-einsparungen-fuehren-100.html",
     "https://www.deutschlandfunk.de/britische-abgeordnete-stimmen-fuer-legalisierung-der-sterbehilfe-100.html",
     "https://www.deutschlandfunk.de/gefaehrdete-afghanen-wollen-einreise-nach-deutschland-einklagen-100.html",
     "https://www.deutschlandfunk.de/gespraeche-mit-dem-iran-in-genf-beendet-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/reichinnek-reagiert-reserviert-auf-gespraechsangebot-dobrindts-104.html",
     "https://www.deutschlandfunk.de/forderungen-nach-haerteren-strafen-fuer-uebergriffe-auf-medizinisches-personal-102.html",
     "https://www.deutschlandfunk.de/datenschutz-beauftragte-fuer-mindestalter-104.html",
-    "https://www.deutschlandfunk.de/tausende-demonstrieren-erneut-fuer-freilassung-der-geiseln-100.html"
+    "https://www.deutschlandfunk.de/tausende-demonstrieren-erneut-fuer-freilassung-der-geiseln-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-sucht-in-asylfragen-allianz-mit-anderen-eu-staaten-fuer-gemeinsames-auftreten-in-bruessel-100.html",
+    "https://www.deutschlandfunk.de/dihk-chef-fuer-mehr-vollzeitarbeit-brauchen-gute-kinderbetreuung-100.html",
+    "https://www.spiegel.de/netzwelt/mobilfunk-messwoche-zeigt-wo-das-deutsche-handynetz-die-groessten-loecher-hat-a-c531b081-e26f-4d7c-a995-fbc53e924f9e#ref=rss"
   ],
   "content_hashes": [
-    "d97870febe55de4b081cc536523509da",
-    "cf363b3b8019abc32440a8f127985afb",
-    "95c72d6c303a331fcb01947e872d5f79",
     "f32b28b13ad4aa26735664c3bb4dd51a",
     "49c7bba407ddae1c33fd42745deba3d6",
     "4a04a4d9263e822a759ef908d4f7d309",
@@ -2001,12 +1998,12 @@
     "62a72820e64647ef4bd8f5579e6ca8cf",
     "5472039d95666db3f16a4042cdba2ac1",
     "e3acf456bd288c445961ddc6bfd07dfe",
-    "b3405e65b5d7d0a2fad70b2fc2ca6035"
+    "b3405e65b5d7d0a2fad70b2fc2ca6035",
+    "cf447cc28dea3bc6ab54e89f7a02983e",
+    "77f7203a097721ab5ffba013544f1a1e",
+    "1f8ff030e25019195805f267ab77744b"
   ],
   "titles": [
-    "Essen - Thyssenkrupp-Chef López erhält neuen Vertrag bis 2031",
-    "Nahost - Verletzte in Israel nach iranischen Angriffen - Luftalarm über Buschehr",
-    "Interview der Woche - Bas (SPD): \"Sanktionen beim Bürgergeld werden nicht zu Einsparungen führen\"",
     "England und Wales - Britische Abgeordnete stimmen für Legalisierung der Sterbehilfe",
     "Migration - Gefährdete Afghanen wollen Einreise nach Deutschland einklagen",
     "Verhandlungen mit dem Iran - Gespräche mit dem Iran in Genf beendet",
@@ -3003,12 +3000,12 @@
     "Verfassungsrichterwahl - Reichinnek reagiert reserviert auf Gesprächsangebot Dobrindts",
     "Kliniken und Praxen - Forderungen nach härteren Strafen für Übergriffe auf medizinisches Personal",
     "Nutzung von Social Media - Datenschutz-Beauftragte für Mindestalter",
-    "Israel - Tausende demonstrieren erneut für Freilassung der Geiseln"
+    "Israel - Tausende demonstrieren erneut für Freilassung der Geiseln",
+    "Interview der Woche - Dobrindt sucht in Asylfragen Allianz mit anderen EU-Staaten für gemeinsames Auftreten in Brüssel",
+    "Produktivität - DIHK-Chef für mehr Vollzeitarbeit - \"brauchen gute Kinderbetreuung\"",
+    "Mobilfunk: Messwoche zeigt, wo das deutsche Handynetz die größten Löcher hat"
   ],
   "hashes": [
-    "491e73cd2980cc5951ecdbba165bfa36",
-    "392d62afe643ba8e1fba35148793c0e4",
-    "ef7679389088d52c264fedb2d585bb46",
     "59cc8054d05ffaed4a5cb05f8b8137f2",
     "7015b75be206936ebf6451cf2e3a9782",
     "ce40c06b95a3c0d3a54f93f3f396cea0",
@@ -4005,6 +4002,9 @@
     "08db468ef603236160ad03913d441dfb",
     "c3ad958ed87419e1841c636e41929fcd",
     "6dd27761ee27797ebd6dd4ad6cb084e8",
-    "d29e1e4d2c7ad2d356186cc0ebe66e2f"
+    "d29e1e4d2c7ad2d356186cc0ebe66e2f",
+    "75b691fb3256dfe9ee1c377423166dd0",
+    "1558f4281d240a724549b02a44020347",
+    "e6595c375ceac49cead2fc11674d9938"
   ]
 }
