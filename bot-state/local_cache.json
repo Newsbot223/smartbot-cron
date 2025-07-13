@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/richter-ordnet-freilassung-von-pro-palaestinensischem-aktivisten-khalil-an-102.html",
-    "https://www.deutschlandfunk.de/israelisches-weizmann-institut-durch-iranische-rakete-beschaedigt-102.html",
     "https://www.deutschlandfunk.de/us-behoerden-entlassen-erneut-hunderte-mitarbeiter-von-voice-of-america-100.html",
     "https://www.deutschlandfunk.de/personelle-austattung-von-altkanzlern-im-ueberblick-100.html",
     "https://www.faz.net/aktuell/politik/inland/immer-mehr-rechtsmotivierte-faelle-an-deutschen-schulen-110545886.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tim-merlier-gewinnt-9-etappe-der-tour-de-france-102.html",
     "https://www.deutschlandfunk.de/macron-kuendigt-zusaetzliche-milliardenausgaben-fuer-das-militaer-an-100.html",
     "https://www.deutschlandfunk.de/meloni-warnt-vor-handelskrieg-zwischen-westlichen-laendern-102.html",
-    "https://www.deutschlandfunk.de/eu-und-indonesien-einigen-sich-nach-zehn-jahren-verhandlungen-auf-freihandelsabkommen-104.html"
+    "https://www.deutschlandfunk.de/eu-und-indonesien-einigen-sich-nach-zehn-jahren-verhandlungen-auf-freihandelsabkommen-104.html",
+    "https://www.deutschlandfunk.de/linke-verlangen-klare-abgrenzung-zur-afd-110.html",
+    "https://www.deutschlandfunk.de/steinmeier-fuer-rueckkehr-zu-wehrpflicht-112.html"
   ],
   "content_hashes": [
-    "d1617572f86a9e035572968a850c4fc6",
-    "0d9ece9b65e03991da47f0995fbfb80f",
     "c201556ed1f227b6e8223840862f80a1",
     "bd230c213670b0390e559057fe1ac53c",
     "0c4c71b924690a6aa1a7eecae0f8793e",
@@ -2001,11 +1999,11 @@
     "0172b7ca84dc16365d9b3b1dbf8abbac",
     "e8ea5fd44eab01c3f5246e358e8b6123",
     "8ff0d66ae7427f7dff5d8da4d97b4c96",
-    "4a9cfb6a32264342249348284723b677"
+    "4a9cfb6a32264342249348284723b677",
+    "e5a8ff4813527a73fba3f7022558a183",
+    "884d184e408bea5fad20b4ae5eae7bb9"
   ],
   "titles": [
-    "USA - Richter ordnet Freilassung von pro-palästinensischem Aktivisten Khalil an",
-    "Renommierte Forschungseinrichtung - Israelisches Weizmann-Institut durch iranische Rakete beschädigt",
     "Auslandssender - US-Behörden entlassen erneut hunderte Mitarbeiter von Voice of America",
     "Kritik an Scholz-Büro - Personelle Austattung von Altkanzlern im Überblick",
     "Mit Schultasche und Hitlergruß: Rechtsmotivierte Vorfälle an Schulen steigen",
@@ -3003,11 +3001,11 @@
     "Radsport - Tim Merlier gewinnt 9. Etappe der Tour de France",
     "Frankreich - Macron kündigt zusätzliche Milliardenausgaben für das Militär an",
     "Zollstreit mit den USA - Meloni warnt vor \"Handelskrieg\" zwischen westlichen Ländern",
-    "Handel - EU und Indonesien einigen sich nach zehn Jahren Verhandlungen auf Freihandelsabkommen"
+    "Handel - EU und Indonesien einigen sich nach zehn Jahren Verhandlungen auf Freihandelsabkommen",
+    "Verfassungsrichter - Linke verlangen klare Abgrenzung zur AfD",
+    "ZDF-Sommerinterview - Steinmeier für Rückkehr zu Wehrpflicht"
   ],
   "hashes": [
-    "7429966b98ee2b31dd2a270bea70ee8f",
-    "3b5349b99a808d354d88e4f023c4b87c",
     "1bcb0818adee269945a815765d798237",
     "0956d76f13d33970f5f42e2a37bfd14a",
     "5bbfb3b6809ac2c5aeb1ba0f7835615c",
@@ -4005,6 +4003,8 @@
     "fc65fdac1cc327c67f5fe4f8e61d5fb8",
     "22dd4656f68f5f54904ac9f51d9f99f2",
     "8106360537eb5a0045c3e1daa3ff9d31",
-    "de9ca4758205c1ec507cbd1cc871b00d"
+    "de9ca4758205c1ec507cbd1cc871b00d",
+    "711b4bab21b82d0469c9b18fdb4066ad",
+    "bfad7d24fc1f4a06634a1f9a06d9fb44"
   ]
 }
