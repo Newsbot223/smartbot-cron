@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/armenien-und-tuerkei-wollen-beziehungen-normalisieren-100.html",
-    "https://www.deutschlandfunk.de/betriebsrat-traegt-entscheidung-von-arcelormittal-zur-abkehr-von-gruenem-stahl-mit-100.html",
     "https://www.deutschlandfunk.de/italiens-rechte-regierung-stellt-existenzberechtigung-der-nato-in-frage-100.html",
     "https://www.deutschlandfunk.de/erneut-sollten-dutzende-menschen-nahe-gaza-hilfszentren-getoetet-worden-sein-100.html",
     "https://www.deutschlandfunk.de/altkanzlerin-merkel-israel-muss-sich-gegen-ausloeschungs-drohung-wehren-koennen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/interessenverband-kritisiert-queerfeindlichkeit-in-deutschland-wieder-salonfaehig-100.html",
     "https://www.faz.net/aktuell/politik/inland/kritik-an-prien-wuerde-eine-migrantenquote-an-schulen-helfen-110584027.html",
     "https://www.deutschlandfunk.de/mobilfunkmesswoche-deckt-funkloecher-auf-abdeckung-insgesamt-aber-gut-100.html",
-    "https://www.deutschlandfunk.de/ministerium-prognostiziert-fuer-2026-27-milliardendefizite-der-gesetzlichen-krankenkassen-100.html"
+    "https://www.deutschlandfunk.de/ministerium-prognostiziert-fuer-2026-27-milliardendefizite-der-gesetzlichen-krankenkassen-100.html",
+    "https://www.deutschlandfunk.de/linke-verlangen-von-der-union-klare-abgrenzung-zur-afd-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-geheimdienst-meldet-toetung-russischer-agenten-104.html"
   ],
   "content_hashes": [
-    "533725a72de6293754c84ce58acae4fc",
-    "ece5dc8c27ce91142d3e60cda3c32f16",
     "b30cf37f0d5a53787bc83db1b6eb1996",
     "190117fbc26d3c1ca02f0373d262a6c3",
     "c7bf6430d1bc1fd01e5884ca91726628",
@@ -2001,11 +1999,11 @@
     "fcb0b499416fa672c3ac235cabad67ba",
     "c6756e8a820ae1c72db5282521ef91f4",
     "44867e9184b130a112b0532e054d00cb",
-    "e9fbb074d556609d1e86c1dabb0698b7"
+    "e9fbb074d556609d1e86c1dabb0698b7",
+    "84d2c995c6118ce4317b31fe599480ed",
+    "8d3dc51c1535448795867e157b28203a"
   ],
   "titles": [
-    "Jahrzehnte langer Konflikt - Armenien und Türkei wollen Beziehungen normalisieren",
-    "Eisenhüttenstadt - Betriebsrat trägt Entscheidung von ArcelorMittal zur Abkehr von \"grünem Stahl\" mit",
     "Westliches Verteidigungsbündnis - Italiens rechte Regierung stellt Existenzberechtigung der NATO in Frage",
     "Nahost - Erneut sollten Dutzende Menschen nahe Gaza-Hilfszentren getötet worden sein",
     "Interview - Altkanzlerin Merkel: Israel muss sich gegen Auslöschungs-Drohung wehren können",
@@ -3003,11 +3001,11 @@
     "Menschenrechte - Interessenverband kritisiert: \"Queerfeindlichkeit in Deutschland wieder salonfähig\"",
     "Kritik an Prien: Brauchen wir eine Migrantenquote an Schulen?",
     "Bundesnetzagentur - Mobilfunkmesswoche deckt Funklöcher auf - Abdeckung insgesamt aber gut",
-    "Medienbericht - Ministerium prognostiziert für 2026/27 Milliardendefizite der gesetzlichen Krankenkassen"
+    "Medienbericht - Ministerium prognostiziert für 2026/27 Milliardendefizite der gesetzlichen Krankenkassen",
+    "Verfassungsrichter-Wahl - Linke verlangen von der Union klare Abgrenzung zur AfD",
+    "Russlands Angriffskrieg - Ukrainischer Geheimdienst meldet Tötung russischer Agenten"
   ],
   "hashes": [
-    "790fb15d944fb718129ef3a5ea774fad",
-    "206c26cfa1f2105f08d2e98e5ac26b37",
     "1747c9a422f375faa91aac869465d3af",
     "81fb2eb50245c5cbac80f0f731c93cce",
     "a9981a999c2d9497362d5b704ea12589",
@@ -4005,6 +4003,8 @@
     "b5a7546d651b978b67d59a85b31187a1",
     "a62ba5c58246fa6e54d99349f512c81a",
     "e7466b23cf673632b744c551712d857c",
-    "470115d0623603b10276687701acdd68"
+    "470115d0623603b10276687701acdd68",
+    "caccd81da3cc69a28a4130704d78e7ce",
+    "b81b8c32dbd649850ed30197410c8558"
   ]
 }
