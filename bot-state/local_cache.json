@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staaten-reagieren-besorgt-auf-us-angriff-auf-den-iran-iaea-chef-grossi-beruft-sondersitzung-ein-102.html",
-    "https://www.deutschlandfunk.de/hunderttausende-hoeren-ohne-abschlaege-frueher-auf-zu-arbeiten-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-beruft-sicherheitskabinett-ein-stegner-und-muetzenich-kritisieren-us-militaerschl-102.html",
     "https://www.deutschlandfunk.de/initiativen-warnen-eltern-vor-der-veroeffentlichung-privater-fotos-ihrer-kinder-im-netz-100.html",
     "https://www.deutschlandfunk.de/klingbeil-will-fuer-arbeitsplaetze-bei-gruenem-stahl-kaempfen-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-spd-generalsekretaer-gesundheitsbeitraege-fuer-gutverdiener-anheben-110093143.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutscher-strassenrad-meister-zimmermann-muss-nach-sturz-aufgeben-102.html",
     "https://www.deutschlandfunk.de/jurist-peters-als-neuer-leiter-des-landes-verfassungsschutzes-im-amt-100.html",
     "https://www.faz.net/aktuell/politik/inland/ungediente-wie-die-bundeswehr-ungediente-zivilisten-zu-reservisten-ausbildet-110585843.html",
-    "https://www.faz.net/aktuell/politik/inland/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-110589939.html"
+    "https://www.faz.net/aktuell/politik/inland/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-110589939.html",
+    "https://www.deutschlandfunk.de/regierungssprecher-konflikt-um-richterwahl-entdramatisieren-104.html",
+    "https://www.deutschlandfunk.de/praesident-selenskyj-schlaegt-umbau-der-exekutive-vor-swyrydenko-soll-neue-ministerpraesidentin-werd-102.html",
+    "https://www.deutschlandfunk.de/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-100.html"
   ],
   "content_hashes": [
-    "64f97401e149854f6a4bf2c6cc8c4b07",
-    "6c4222dd6d7a0baa3a4107785b0e439a",
-    "a154111bbe34a7a1094c4537cded0a8a",
     "cf5c1423bc03bb5f946e5627d9038060",
     "c841f22cf5069b22b108466bf9d51903",
     "3cd4b18ac16771ad2ead4642cdbce308",
@@ -2001,12 +1998,12 @@
     "2832cffc55c6c2f311d99dd25e362378",
     "1c664e9524ab3d620201d8bb771c4f55",
     "ac35f9023b32034f5ca74a10541d27bb",
-    "85cfb45a05bfcf86e3133c753040a3f1"
+    "85cfb45a05bfcf86e3133c753040a3f1",
+    "e20dc224182b7de599a047687d4bf988",
+    "7b6245b638cd172042512118855637d6",
+    "4332533e9ae16002d92d5817f31dcb1b"
   ],
   "titles": [
-    "Nahost - Staaten reagieren besorgt auf US-Angriff auf den Iran - IAEA-Chef Grossi beruft Sondersitzung ein",
-    "Rente - Hunderttausende hören ohne Abschläge früher auf zu arbeiten",
-    "Nach US-Angriff auf den Iran - Bundeskanzler Merz beruft Sicherheitskabinett ein - Stegner und Mützenich kritisieren US-Militärschlag",
     "Jugendschutz - Initiativen warnen Eltern vor der Veröffentlichung privater Fotos ihrer Kinder im Netz",
     "Wirtschaft - Klingbeil will für Arbeitsplätze bei \"grünem Stahl\" kämpfen",
     "Liveblog zur Merz-Regierung: SPD-Generalsekretär: Gesundheitsbeiträge für Gutverdiener anheben",
@@ -3003,12 +3000,12 @@
     "Tour de France - Deutscher Straßenrad-Meister Zimmermann muss nach Sturz aufgeben",
     "Brandenburg - Jurist Peters als neuer Leiter des Landes-Verfassungsschutzes im Amt",
     "Staatsbürger in Uniform: Die Ungedienten",
-    "In Ungarn inhaftierte Maja T. beendet Hungerstreik"
+    "In Ungarn inhaftierte Maja T. beendet Hungerstreik",
+    "Bundesverfassungsgericht - Regierungssprecher: \"Konflikt um Richterwahl entdramatisieren\"",
+    "Ukraine - Präsident Selenskyj schlägt Umbau der Exekutive vor - Swyrydenko soll neue Ministerpräsidentin werden",
+    "Budapest - In Ungarn inhaftierte Maja T. beendet Hungerstreik"
   ],
   "hashes": [
-    "ac81a912717425f6cec033bd12700c7f",
-    "87aae80d17ef0f0cf2f53203e69040fb",
-    "4137ad58292f3bde74e33aec01ac394c",
     "86adc8dea3f4bea979fc2544415ca2dc",
     "04719959dcab217b2092dd437ec52c54",
     "35ddf4d058c4fdc2ea38320a56362320",
@@ -4005,6 +4002,9 @@
     "e50e4018e5d8f699bdae08afd3837b6e",
     "f3630c6e60d63d2dcee7bcd69f8f2b1e",
     "5b9d43299f73d34a62e89d6973eca3f2",
-    "cef09fbbde1287a82d406c8901f5ffcd"
+    "cef09fbbde1287a82d406c8901f5ffcd",
+    "e3a8de1a9222a5ebcbfcd1f2b0532908",
+    "8e34e0649f10af4ec3d6bcaf8416d864",
+    "05bd6d10ec3a0dd2fd5b9f379a35e95e"
   ]
 }
