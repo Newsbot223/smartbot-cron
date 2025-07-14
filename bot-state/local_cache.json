@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fas-zahl-rechtsmotivierter-vorfaelle-an-deutschen-schulen-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/iran-startet-angriffswelle-gegen-israel-100.html",
-    "https://www.deutschlandfunk.de/scharfe-kritik-von-demokraten-nach-us-angriff-auf-den-iran-100.html",
     "https://www.deutschlandfunk.de/staaten-reagieren-besorgt-auf-us-angriff-auf-den-iran-iaea-chef-grossi-beruft-sondersitzung-ein-102.html",
     "https://www.deutschlandfunk.de/hunderttausende-hoeren-ohne-abschlaege-frueher-auf-zu-arbeiten-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-beruft-sicherheitskabinett-ein-stegner-und-muetzenich-kritisieren-us-militaerschl-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/pharmaindustrie-sieht-gravierende-auswirkungen-wasserwirtschafts-verband-branche-muss-sich-an-umwelt-102.html",
     "https://www.deutschlandfunk.de/wieder-tote-und-verletzte-nach-russischen-angriffen-104.html",
     "https://www.deutschlandfunk.de/militaerparade-zum-franzoesischen-nationalfeiertag-in-paris-100.html",
-    "https://www.deutschlandfunk.de/deutscher-strassenrad-meister-zimmermann-muss-nach-sturz-aufgeben-102.html"
+    "https://www.deutschlandfunk.de/deutscher-strassenrad-meister-zimmermann-muss-nach-sturz-aufgeben-102.html",
+    "https://www.deutschlandfunk.de/jurist-peters-als-neuer-leiter-des-landes-verfassungsschutzes-im-amt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ungediente-wie-die-bundeswehr-ungediente-zivilisten-zu-reservisten-ausbildet-110585843.html",
+    "https://www.faz.net/aktuell/politik/inland/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-110589939.html"
   ],
   "content_hashes": [
-    "6c955ba3db6ce6f0d6e3db71e722756a",
-    "2141f5e7a221fbca786067fce031e49b",
-    "948cca6ce7bffa7e6ba0ca9b7913adf0",
     "64f97401e149854f6a4bf2c6cc8c4b07",
     "6c4222dd6d7a0baa3a4107785b0e439a",
     "a154111bbe34a7a1094c4537cded0a8a",
@@ -2001,12 +1998,12 @@
     "49d0292a051a1b9420ce8c3154d9833d",
     "a9580fb55163042396eadc2b6eb915b2",
     "98f0ae3e1c3ae811a65dbf9a2bd80fb1",
-    "2832cffc55c6c2f311d99dd25e362378"
+    "2832cffc55c6c2f311d99dd25e362378",
+    "1c664e9524ab3d620201d8bb771c4f55",
+    "ac35f9023b32034f5ca74a10541d27bb",
+    "85cfb45a05bfcf86e3133c753040a3f1"
   ],
   "titles": [
-    "Rechtsextremismus - \"FAS\": Zahl rechtsmotivierter Vorfälle an deutschen Schulen gestiegen",
-    "Nahostkrieg - Iran startet Angriffswelle gegen Israel",
-    "Nahost - Scharfe Kritik von Demokraten nach US-Angriff auf den Iran",
     "Nahost - Staaten reagieren besorgt auf US-Angriff auf den Iran - IAEA-Chef Grossi beruft Sondersitzung ein",
     "Rente - Hunderttausende hören ohne Abschläge früher auf zu arbeiten",
     "Nach US-Angriff auf den Iran - Bundeskanzler Merz beruft Sicherheitskabinett ein - Stegner und Mützenich kritisieren US-Militärschlag",
@@ -3003,12 +3000,12 @@
     "Neue EU-Abwasserrichtlinie - Pharmaindustrie sieht gravierende Auswirkungen - Wasserwirtschafts-Verband: Branche muss sich an Umweltkosten beteiligen",
     "Ukrainekrieg - Wieder Tote und Verletzte nach russischen Angriffen",
     "Frankreich - Militärparade zum französischen Nationalfeiertag in Paris",
-    "Tour de France - Deutscher Straßenrad-Meister Zimmermann muss nach Sturz aufgeben"
+    "Tour de France - Deutscher Straßenrad-Meister Zimmermann muss nach Sturz aufgeben",
+    "Brandenburg - Jurist Peters als neuer Leiter des Landes-Verfassungsschutzes im Amt",
+    "Staatsbürger in Uniform: Die Ungedienten",
+    "In Ungarn inhaftierte Maja T. beendet Hungerstreik"
   ],
   "hashes": [
-    "7423bccfb04e1fb72d3d21554c7da4fe",
-    "03ecc34b4bdd9283d5187921c725076b",
-    "a94ee2d3231910184a3de28c3b23d329",
     "ac81a912717425f6cec033bd12700c7f",
     "87aae80d17ef0f0cf2f53203e69040fb",
     "4137ad58292f3bde74e33aec01ac394c",
@@ -4005,6 +4002,9 @@
     "2f09d762b2fd60a93fe1740d56b0e8cf",
     "290e82d572f3151b6e9152f4d9587559",
     "aca4837c8b253655a67c28f0c44974df",
-    "e50e4018e5d8f699bdae08afd3837b6e"
+    "e50e4018e5d8f699bdae08afd3837b6e",
+    "f3630c6e60d63d2dcee7bcd69f8f2b1e",
+    "5b9d43299f73d34a62e89d6973eca3f2",
+    "cef09fbbde1287a82d406c8901f5ffcd"
   ]
 }
