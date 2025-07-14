@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/medien-tarnkappenbomber-des-typs-b-2-verlassen-us-luftwaffenstuetzpunkt-in-missouri-100.html",
-    "https://www.deutschlandfunk.de/waldbrand-an-kroatiens-adria-touristen-fliehen-neue-feuer-befuerchtet-100.html",
     "https://www.deutschlandfunk.de/auch-bundesjustizministerin-hubig-fuer-pruefung-von-afd-verbotsverfahren-100.html",
     "https://www.deutschlandfunk.de/erneut-deutsche-mit-sonderflug-aus-jordanien-ausgeflogen-100.html",
     "https://www.deutschlandfunk.de/peseschkian-werden-atomprogramm-unter-keinen-umstaenden-einstellen-104.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-kuendigte-neue-patriot-lieferungen-und-eu-strafzoelle-an-100.html",
     "https://www.deutschlandfunk.de/nrw-pocht-auf-neue-schulferien-regelung-bayern-und-baden-wuerttemberg-sollen-nicht-immer-als-letzte--100.html",
-    "https://www.deutschlandfunk.de/bitcoin-ueberspringt-die-120-000-dollar-marke-100.html"
+    "https://www.deutschlandfunk.de/bitcoin-ueberspringt-die-120-000-dollar-marke-100.html",
+    "https://www.deutschlandfunk.de/exporte-steigen-trotz-globaler-handelsstreitigkeiten-102.html",
+    "https://www.deutschlandfunk.de/pflegebevollmaechtigte-der-bundesregierung-fordert-mehr-geld-104.html"
   ],
   "content_hashes": [
-    "0871a6739cebc8df3832f2188ccb9c69",
-    "4409d57cd8c8fd6743191b64e2bb8ad5",
     "3601ee5a5782a9af84cf1ae71d643b48",
     "0690ac562235ea43a435ff5409fd0985",
     "76641acb25053daf579187ee2bde1562",
@@ -2001,11 +1999,11 @@
     "0f99446ecb1f640e494e71a4d9fa4181",
     "0c5ddef6b271e56b26d0b88401f98400",
     "0dcd0a42ee01a738b5c402bc98eac2fc",
-    "4f6b092087ba34670f159a8e65009068"
+    "4f6b092087ba34670f159a8e65009068",
+    "7189c3fa81522ec938ba05f5dcbd7b8f",
+    "15b488b320c91c5f01adb57801282dcb"
   ],
   "titles": [
-    "USA - Medien: Tarnkappenbomber des Typs B-2 verlassen US-Luftwaffenstützpunkt in Missouri",
-    "Verdacht auf Brandstiftung - Waldbrand an Kroatiens Adria - Touristen fliehen - Neue Feuer befürchtet",
     "Nach Vorstoß von Klingbeil - Auch Bundesjustizministerin Hubig für Prüfung von AfD-Verbotsverfahren",
     "Auswärtiges Amt - Erneut Deutsche mit Sonderflug aus Jordanien ausgeflogen",
     "Newsblog zur Eskalation in Nahost - Peseschkian: \"Werden Atomprogramm unter keinen Umständen einstellen\"",
@@ -3003,11 +3001,11 @@
     "SPD beklagt Vertrauensverlust wegen Richterwahl",
     "USA - Trump kündigt Kehrtwende bei Ukraine-Unterstützung an",
     "Urlaub - NRW pocht auf neue Schulferien-Regelung: Bayern und Baden-Württemberg sollen nicht immer als Letzte in die Sommerpause starten",
-    "Kryptowährung - Bitcoin überspringt die 120.000-Dollar-Marke"
+    "Kryptowährung - Bitcoin überspringt die 120.000-Dollar-Marke",
+    "China - Exporte steigen trotz globaler Handelsstreitigkeiten",
+    "Sozialpolitik - Pflegebevollmächtigte der Bundesregierung fordert mehr Geld"
   ],
   "hashes": [
-    "f738d7ed6848813d95ae702ab5000cee",
-    "3b24c766fe9a7a25e361c97bad63a174",
     "20269553ac70044625a47f8382b8f50f",
     "d6a78e5287b7884716f340cc8f9e5f2f",
     "d45c798c7d50757079eb1d6b4b7f2d2a",
@@ -4005,6 +4003,8 @@
     "7392ca09c0383a75a72a503504901471",
     "849041e7285ea1bceaa2b5c249a1aea8",
     "41cb1db8752bdc02833a00dee99199f1",
-    "2653bdbd7e85e3b6eca9e9d90bd950e4"
+    "2653bdbd7e85e3b6eca9e9d90bd950e4",
+    "292752dc0f91dbe0d2a5ba57f3e29c82",
+    "43fbbc476a74392d84be9f7954eb61ab"
   ]
 }
