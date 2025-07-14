@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iran-warnt-die-usa-vor-einem-eintreten-in-den-krieg-100.html",
-    "https://www.deutschlandfunk.de/russland-meldet-gelaendegewinne-im-osten-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-woidke-als-spd-landeschef-bestaetigt-100.html",
-    "https://www.deutschlandfunk.de/gruene-fordern-fortfuehrung-des-kulturpasses-fuer-18-jaehrige-104.html",
-    "https://www.deutschlandfunk.de/us-behoerde-gibt-weitere-hunderte-entlassungen-bekannt-100.html",
     "https://www.spiegel.de/politik/brandenburg-dietmar-woidke-als-spd-chef-bestaetigt-a-effe2e18-0243-4fe6-88df-eff45a0cf9e1#ref=rss",
     "https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss",
     "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-iran-wird-atomprogramm-unter-keinen-umstaenden-aufgeben-neue-israe-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/steinmeier-fuer-rueckkehr-zu-wehrpflicht-112.html",
     "https://www.deutschlandfunk.de/nrw-pocht-auf-neue-schul-ferienregelung-bayern-und-baden-wuerttemberg-sollen-nicht-immer-als-letzte--100.html",
     "https://www.deutschlandfunk.de/aktivist-raul-krauthausen-kritisiert-wohlfahrtsverbaende-fuer-mangelnde-beteiligung-behinderter-mens-100.html",
-    "https://www.deutschlandfunk.de/israelischer-minister-gaza-soll-insel-der-ruinen-bleiben-100.html"
+    "https://www.deutschlandfunk.de/israelischer-minister-gaza-soll-insel-der-ruinen-bleiben-100.html",
+    "https://www.deutschlandfunk.de/trump-kuendigt-lieferung-von-patriot-systemen-an-die-ukraine-an-100.html",
+    "https://www.deutschlandfunk.de/gewerkschaft-fordert-abschaffung-der-steuererklaerung-fuer-arbeitnehmer-100.html",
+    "https://www.deutschlandfunk.de/zahlreiche-todesopfer-bei-kaempfen-zwischen-beduinen-und-drusen-im-sueden-syriens-befuerchtet-100.html",
+    "https://www.deutschlandfunk.de/waldbraende-zerstoeren-historische-lodge-im-grand-canyon-nationalpark-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-chinas-und-russlands-betonen-nach-treffen-enge-allianz-100.html"
   ],
   "content_hashes": [
-    "1d984f11329a232440342e2b5547e707",
-    "d2d42418ad7c56f7062a836910bf7ca0",
-    "3d99e1b4132899ba7bf62929adeaa31b",
-    "808922c49c44dfbdd61e3a53508468e2",
-    "19183527b439848207c28f46e9742ed0",
     "5d77c0bac963cee2109791dcb5fd7781",
     "83f88abcbd236a60e159b51c83985392",
     "6f3f2600be298dcb51794422d099a1e6",
@@ -2001,14 +1996,14 @@
     "884d184e408bea5fad20b4ae5eae7bb9",
     "6dcb2b2e5db1e58c7fe63838c6131997",
     "064113922a36ed57b32ff8a084861274",
-    "56bb70d707ee5ea92eed167695e9dfa6"
+    "56bb70d707ee5ea92eed167695e9dfa6",
+    "8b32a9c72e118210fc147a1596fce337",
+    "0cff76ed462765a14a2328c192c362e2",
+    "6bbdcfa43437f2f5f00b23264446df44",
+    "cc38ee0adc0f5ef39e84267da7b95719",
+    "1ff2c186e72374738f65a5a41d0d962f"
   ],
   "titles": [
-    "Nahost - Iran warnt die USA vor einem Eintreten in den Krieg",
-    "Krieg in der Ukraine - Russland meldet Geländegewinne im Osten",
-    "Brandenburg - Ministerpräsident Woidke als SPD-Landeschef bestätigt",
-    "Grüne fordern Fortführung des Kulturpasses für 18-Jährige",
-    "Auslandssender - US-Behörde gibt weitere hunderte Entlassungen bekannt",
     "Brandenburg: Dietmar Woidke als SPD-Chef bestätigt",
     "Digitalisierung der Verwaltung: Ausgaben des Bundes für Software deutlich gestiegen",
     "Nahost - Iranischer Präsident Peseschkian: Iran wird Atomprogramm \"unter keinen Umständen\" aufgeben - neue israelische Angriffe auf Teheran",
@@ -3003,14 +2998,14 @@
     "ZDF-Sommerinterview - Steinmeier für Rückkehr zu Wehrpflicht",
     "Urlaub - NRW pocht auf neue Schul-Ferienregelung: Bayern und Baden-Württemberg sollen nicht immer als Letzte in die Sommerpause starten",
     "Gesellschaft - Aktivist Raul Krauthausen kritisiert Wohlfahrtsverbände für mangelnde Beteiligung behinderter Menschen in Führungspositionen",
-    "Nahostkrieg - Israelischer Minister: Gaza soll \"Insel der Ruinen\" bleiben"
+    "Nahostkrieg - Israelischer Minister: Gaza soll \"Insel der Ruinen\" bleiben",
+    "USA - Trump kündigt Lieferung von Patriot-Systemen an die Ukraine an",
+    "DSTG - Gewerkschaft fordert Abschaffung der Steuererklärung für Arbeitnehmer",
+    "Suweida - Zahlreiche Todesopfer bei Kämpfen zwischen Beduinen und Drusen im Süden Syriens befürchtet",
+    "USA - Waldbrände zerstören historische Lodge im Grand-Canyon-Nationalpark",
+    "Peking - Außenminister Chinas und Russlands betonen nach Treffen enge Allianz"
   ],
   "hashes": [
-    "855a499a28d82dda93552d969b1ab400",
-    "c4a6707ca93b482edbf7b8ca5dc625fb",
-    "d7ad908b8e1f171dcbb3a1649aafa827",
-    "e013f03ddfb80f667bb1512a9fc31c7a",
-    "a8eeef921b528feb808da823c60120a6",
     "1ae9700040a81a50b2630eec400e8aa7",
     "d156a777ae8cc54ec6297f532041c967",
     "7683b595c39f2e3eb57151d934a6bf45",
@@ -4005,6 +4000,11 @@
     "bfad7d24fc1f4a06634a1f9a06d9fb44",
     "ab20f8a0e9e5a50c35bea424cd9c7584",
     "48ad24ed5c9a9fcbec072eeccb4652ff",
-    "dc31f08f4a2835d032580230da6a8183"
+    "dc31f08f4a2835d032580230da6a8183",
+    "b1ac04d328cc9275dce5b3573dde898c",
+    "f8a90ff0aaf1e5da7d0a4edece8f324a",
+    "f4a56caf516f0130bff82e6f570412a9",
+    "d64b818aae90ebee2678cbd035ee132a",
+    "1704e0d9a1a2975796f20a9211ef1e0e"
   ]
 }
