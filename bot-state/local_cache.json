@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlament-in-teheran-spricht-sich-fuer-sperrung-der-schifffahrtsstrasse-von-hormus-aus-100.html",
-    "https://www.deutschlandfunk.de/erhoehte-waldbrandgefahr-in-teilen-deutschland-getreidefeld-nahe-dem-flughafen-ber-brennt-100.html",
     "https://www.deutschlandfunk.de/mindestens-15-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-100.html",
     "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-selbstmordanschlag-auf-kirche-in-damaskus-100.html",
     "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-krieg-im-nahen-osten-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/apartheidvorwurf-gegen-israel-die-ekd-reagiert-nach-zehn-tagen-110587109.html",
     "https://www.deutschlandfunk.de/trump-droht-russlands-verbuendeten-mit-hohen-strafzoellen-102.html",
     "https://www.deutschlandfunk.de/selenskyj-will-wirtschaftsministerin-zur-regierungschefin-machen-schmyhal-soll-verteidigungsminister-100.html",
-    "https://www.aljazeera.com/video/the-take-2/2025/7/14/aje-onl-aj_tt_afg_deportationofrefugees_video_v4-140725?traffic_source=rss"
+    "https://www.aljazeera.com/video/the-take-2/2025/7/14/aje-onl-aj_tt_afg_deportationofrefugees_video_v4-140725?traffic_source=rss",
+    "https://www.deutschlandfunk.de/oberstes-gericht-erlaubt-entlassung-von-rund-1-400-mitarbeitern-102.html",
+    "https://www.deutschlandfunk.de/eilantrag-bringt-gasfoerderung-ins-stocken-102.html"
   ],
   "content_hashes": [
-    "e85474d6c8dc331b281994c135031231",
-    "8dafca2f10336ad977d6de3acac149cd",
     "0a71b13a432f8224b59c0c6fbead832c",
     "4bb930ee28aafd403c46543aec923be9",
     "dd3b18a28b7860499f6dde2ca712044f",
@@ -2001,11 +1999,11 @@
     "2c9db0b41e647f5c781a94bac0457a33",
     "b2be33fc36d57ed943eb06b7d6e80324",
     "81bd9fcd42323481d2b39fdf9caae293",
-    "0fd97833e2b3d180ef536facdf3f9003"
+    "0fd97833e2b3d180ef536facdf3f9003",
+    "f56a1ecd77065b04e40d562bc6d719ce",
+    "3cc502bc7d365b1f7ca7d070aafb42bf"
   ],
   "titles": [
-    "Nach US-Angriffe auf iranische Atomanlagen - Parlament in Teheran spricht sich für Sperrung der Schifffahrtsstraße von Hormus aus",
-    "Trockenheit - Erhöhte Waldbrandgefahr in Teilen Deutschland - Getreidefeld nahe dem Flughafen BER brennt",
     "Syrien - Mindestens 15 Tote bei Selbstmordanschlag auf Kirche in Damaskus",
     "Syrien - Mindestens neun Tote bei Selbstmordanschlag auf Kirche in Damaskus",
     "Brüssel - EU-Außenminister beraten über Krieg im Nahen Osten",
@@ -3003,11 +3001,11 @@
     "Kein Kompromiss mehr: Weltkirchenrat spricht von „Apartheid“ im Gazastreifen",
     "Krieg in der Ukraine - Trump droht Russlands Verbündeten mit hohen Strafzöllen",
     "Ukraine - Selenskyj will Wirtschaftsministerin zur Regierungschefin machen - Schmyhal soll Verteidigungsminister werden",
-    "Why are Afghan refugees being sent back to Taliban rule?"
+    "Why are Afghan refugees being sent back to Taliban rule?",
+    "US-Bildungsministerium - Oberstes Gericht erlaubt Entlassung von rund 1.400 Mitarbeitern",
+    "Vor Nordseeinsel Borkum - Eilantrag bringt Gasförderung ins Stocken"
   ],
   "hashes": [
-    "4984e530e1ea4435f22825550287814e",
-    "40b32e05f6c1be5288606c4d530942db",
     "86637ab14f5414d472351d3a9d4be8e6",
     "ce5efa959b8a00846f1b7a5886796512",
     "365f96d332e64c9c5a1fe0c8ee6b03c0",
@@ -4005,6 +4003,8 @@
     "a9a98e8f87e9008e1e518a9abc2f614c",
     "50fc3759d0dba3c410731f1064573d58",
     "8ac4176f07048cc14dd6ae8e68e37063",
-    "0461c07623060e76c87c27feb29df8a3"
+    "0461c07623060e76c87c27feb29df8a3",
+    "ece6cf67bc5e815991015f3f55e00d3f",
+    "fceef98d1fd615518f548e5a101b199a"
   ]
 }
