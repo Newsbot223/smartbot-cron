@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-die-bundesregierung-und-der-wohnungsmarkt-zuendet-der-bauturbo-100.html",
-    "https://www.deutschlandfunk.de/luftraum-erneut-geschlossen-zivilschutzregeln-verschaerft-100.html",
     "https://www.deutschlandfunk.de/spd-generalsekretaer-will-hoehere-krankenkassenbeitraege-fuer-gutverdiener-100.html",
     "https://www.deutschlandfunk.de/fas-zahl-rechtsmotivierter-vorfaelle-an-deutschen-schulen-gestiegen-100.html",
     "https://www.deutschlandfunk.de/iran-startet-angriffswelle-gegen-israel-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neuer-mindestlohn-hilft-vor-allem-frauen-und-beschaeftigten-in-ostdeutschland-102.html",
     "https://www.deutschlandfunk.de/wirtschaftsgespraech-neue-eu-abwasserrichtlinie-koennte-medikamente-verknappen-100.html",
     "https://www.deutschlandfunk.de/daenischer-eu-ratsvorsitz-will-lockerungen-vorantreiben-100.html",
-    "https://www.deutschlandfunk.de/pharmaindustrie-sieht-gravierende-auswirkungen-wasserwirtschafts-verband-branche-muss-sich-an-umwelt-102.html"
+    "https://www.deutschlandfunk.de/pharmaindustrie-sieht-gravierende-auswirkungen-wasserwirtschafts-verband-branche-muss-sich-an-umwelt-102.html",
+    "https://www.deutschlandfunk.de/wieder-tote-und-verletzte-nach-russischen-angriffen-104.html",
+    "https://www.deutschlandfunk.de/militaerparade-zum-franzoesischen-nationalfeiertag-in-paris-100.html"
   ],
   "content_hashes": [
-    "b4863b43ad5f1b82c13f42b8e96ef6dc",
-    "3696dc6b4a44191ba5e8cb359b80704c",
     "1a527c114fd808db330decca208d657d",
     "6c955ba3db6ce6f0d6e3db71e722756a",
     "2141f5e7a221fbca786067fce031e49b",
@@ -2001,11 +1999,11 @@
     "d7abe4a9c5f37757061a3e75f8d9d917",
     "147a3e9d885fa9fb594c3beea84a4dc9",
     "3bf6a4d47b901a684e9d88cc1f98fd0e",
-    "49d0292a051a1b9420ce8c3154d9833d"
+    "49d0292a051a1b9420ce8c3154d9833d",
+    "a9580fb55163042396eadc2b6eb915b2",
+    "98f0ae3e1c3ae811a65dbf9a2bd80fb1"
   ],
   "titles": [
-    "Kommentar - Mietpreisbremse lockern statt Bauturbo",
-    "Israel - Luftraum erneut geschlossen - Zivilschutzregeln verschärft",
     "Gesundheitswesen - SPD-Generalsekretär will höhere Krankenkassenbeiträge für Gutverdiener",
     "Rechtsextremismus - \"FAS\": Zahl rechtsmotivierter Vorfälle an deutschen Schulen gestiegen",
     "Nahostkrieg - Iran startet Angriffswelle gegen Israel",
@@ -3003,11 +3001,11 @@
     "Statistisches Bundesamt - Neuer Mindestlohn hilft vor allem Frauen und Beschäftigten in Ostdeutschland",
     "Streit um Abwasser - Neue EU-Richtlinie könnte Medikamente verknappen",
     "Gentechnik - Dänischer EU-Ratsvorsitz will Lockerungen vorantreiben",
-    "Neue EU-Abwasserrichtlinie - Pharmaindustrie sieht gravierende Auswirkungen - Wasserwirtschafts-Verband: Branche muss sich an Umweltkosten beteiligen"
+    "Neue EU-Abwasserrichtlinie - Pharmaindustrie sieht gravierende Auswirkungen - Wasserwirtschafts-Verband: Branche muss sich an Umweltkosten beteiligen",
+    "Ukrainekrieg - Wieder Tote und Verletzte nach russischen Angriffen",
+    "Frankreich - Militärparade zum französischen Nationalfeiertag in Paris"
   ],
   "hashes": [
-    "13afb027eb026802016916fd901c92a8",
-    "7f527d3665c820818dfd103bc2c88fa6",
     "f20d9d97da07921753313be4035dc953",
     "7423bccfb04e1fb72d3d21554c7da4fe",
     "03ecc34b4bdd9283d5187921c725076b",
@@ -4005,6 +4003,8 @@
     "00cd88ffc5eeedeadfbe5d7653eed5a6",
     "bf25dcc3325d663ae7dc1b033252c940",
     "dfab5967e1658aa24c7a81e46632af43",
-    "2f09d762b2fd60a93fe1740d56b0e8cf"
+    "2f09d762b2fd60a93fe1740d56b0e8cf",
+    "290e82d572f3151b6e9152f4d9587559",
+    "aca4837c8b253655a67c28f0c44974df"
   ]
 }
