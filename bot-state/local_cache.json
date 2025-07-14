@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/digitalisierung-der-verwaltung-ausgaben-des-bundes-fuer-software-deutlich-gestiegen-a-fdbd0ccb-e285-4017-885e-104608c6709e#ref=rss",
     "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-iran-wird-atomprogramm-unter-keinen-umstaenden-aufgeben-neue-israe-100.html",
     "https://www.deutschlandfunk.de/protest-in-berlin-gegen-israels-vorgehen-in-gaza-und-gegen-fuehrung-des-iran-100.html",
     "https://www.deutschlandfunk.de/medien-tarnkappenbomber-des-typs-b-2-verlassen-us-luftwaffenstuetzpunkt-in-missouri-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/zahlreiche-todesopfer-bei-kaempfen-zwischen-beduinen-und-drusen-im-sueden-syriens-befuerchtet-100.html",
     "https://www.deutschlandfunk.de/waldbraende-zerstoeren-historische-lodge-im-grand-canyon-nationalpark-100.html",
     "https://www.deutschlandfunk.de/aussenminister-chinas-und-russlands-betonen-nach-treffen-enge-allianz-100.html",
-    "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html"
+    "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html",
+    "https://www.deutschlandfunk.de/us-praesident-trump-kuendigte-neue-patriot-lieferungen-und-eu-strafzoelle-an-100.html"
   ],
   "content_hashes": [
-    "83f88abcbd236a60e159b51c83985392",
     "6f3f2600be298dcb51794422d099a1e6",
     "eb8cbc6a7c7e9aaf4c103c017a28a6af",
     "0871a6739cebc8df3832f2188ccb9c69",
@@ -2001,10 +2000,10 @@
     "6bbdcfa43437f2f5f00b23264446df44",
     "cc38ee0adc0f5ef39e84267da7b95719",
     "1ff2c186e72374738f65a5a41d0d962f",
-    "0f99446ecb1f640e494e71a4d9fa4181"
+    "0f99446ecb1f640e494e71a4d9fa4181",
+    "0c5ddef6b271e56b26d0b88401f98400"
   ],
   "titles": [
-    "Digitalisierung der Verwaltung: Ausgaben des Bundes für Software deutlich gestiegen",
     "Nahost - Iranischer Präsident Peseschkian: Iran wird Atomprogramm \"unter keinen Umständen\" aufgeben - neue israelische Angriffe auf Teheran",
     "Nahost - Protest in Berlin gegen Israels Vorgehen in Gaza und gegen Führung des Iran",
     "USA - Medien: Tarnkappenbomber des Typs B-2 verlassen US-Luftwaffenstützpunkt in Missouri",
@@ -3003,10 +3002,10 @@
     "Suweida - Zahlreiche Todesopfer bei Kämpfen zwischen Beduinen und Drusen im Süden Syriens befürchtet",
     "USA - Waldbrände zerstören historische Lodge im Grand-Canyon-Nationalpark",
     "Peking - Außenminister Chinas und Russlands betonen nach Treffen enge Allianz",
-    "SPD beklagt Vertrauensverlust wegen Richterwahl"
+    "SPD beklagt Vertrauensverlust wegen Richterwahl",
+    "USA - Trump kündigt Kehrtwende bei Ukraine-Unterstützung an"
   ],
   "hashes": [
-    "d156a777ae8cc54ec6297f532041c967",
     "7683b595c39f2e3eb57151d934a6bf45",
     "5d76a5a1c810fe62828775452e1df9ac",
     "f738d7ed6848813d95ae702ab5000cee",
@@ -4005,6 +4004,7 @@
     "f4a56caf516f0130bff82e6f570412a9",
     "d64b818aae90ebee2678cbd035ee132a",
     "1704e0d9a1a2975796f20a9211ef1e0e",
-    "7392ca09c0383a75a72a503504901471"
+    "7392ca09c0383a75a72a503504901471",
+    "849041e7285ea1bceaa2b5c249a1aea8"
   ]
 }
