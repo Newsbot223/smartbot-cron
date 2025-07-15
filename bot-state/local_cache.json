@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-gibt-regierungserklaerung-zu-eu-und-nato-ab-100.html",
-    "https://www.deutschlandfunk.de/bundeskabinett-soll-haushaltsentwurf-von-finanzminister-klingbeil-spd-beschliessen-100.html",
-    "https://www.deutschlandfunk.de/grossbritannien-kuendigt-engere-ruestungs-zusammenarbeit-mit-ukraine-an-102.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-baldige-waffenruhe-zwischen-israel-und-dem-iran-an-104.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-baldige-waffenruhe-zwischen-israel-und-dem-iran-an-zuvor-weitere-gegenseitige-angriff-102.html",
     "https://www.deutschlandfunk.de/agrarminister-rainer-csu-offen-fuer-ausnahmen-fuer-saisonarbeiter-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ausschluss-vom-oeffentlichen-dienst-in-rheinland-pfalz-nur-nach-einzelfallpruefung-100.html",
     "https://www.deutschlandfunk.de/keine-mindestlohn-ausnahmen-fuer-saisonkraefte-100.html",
     "https://www.deutschlandfunk.de/maja-t-isolationshaft-ungarn-anklage-linksextreme-gewalt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-drohnenangriff-ohne-konsequenzen-110592126.html"
+    "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-drohnenangriff-ohne-konsequenzen-110592126.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-schmyhal-tritt-zurueck-beabsichtigte-regierungsumbildung-eingeleitet-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-bayrou-schlaegt-sparmassnahmen-vor-und-kuendigt-harte-einschnitte-an-100.html",
+    "https://www.faz.net/aktuell/politik/inland/zugspitztreffen-dreitausend-meter-ueber-den-berliner-niederungen-110591940.html"
   ],
   "content_hashes": [
-    "f5ad197eb6b75679caad6e34c8d23aee",
-    "f38dff15b65be1d40602009f0d8d190d",
-    "c6a95068a8435c71bc19d201c13e4301",
     "78d360296bca12086db7ea441179f92a",
     "f29e017e2e5fc68e9cade51c07171119",
     "f53c346afeeee764edef7459c5b8a06b",
@@ -2001,12 +1998,12 @@
     "b6c1e11d4ce442e95d1628f5ac526787",
     "769b9836223afb6504077ed76c5b8d6f",
     "7961ef5301270c88f772ad75d784e6f9",
-    "48cf2885e8bfa29cb6db0800eb40bda3"
+    "48cf2885e8bfa29cb6db0800eb40bda3",
+    "e2b7b862dc4006ca993d9a74d3167e7b",
+    "5b2cc956072b89640e4ee9a421e26efe",
+    "d20140c23539a22fab69235e8ec90374"
   ],
   "titles": [
-    "Außen- und Sicherheitspolitik - Bundeskanzler Merz gibt Regierungserklärung zu EU und NATO ab",
-    "Finanzen - Bundeskabinett soll Haushaltsentwurf von Finanzminister Klingbeil (SPD) beschließen",
-    "Vor NATO-Gipfel - Großbritannien kündigt engere Rüstungs-Zusammenarbeit mit Ukraine an",
     "Krieg im Nahen Osten - Trump kündigt baldige Waffenruhe zwischen Israel und dem Iran an",
     "Krieg im Nahen Osten - Trump kündigt baldige Waffenruhe zwischen Israel und dem Iran an - zuvor weitere gegenseitige Angriffe",
     "Mindestlohn-Debatte - Agrarminister Rainer (CSU) offen für Ausnahmen für Saisonarbeiter",
@@ -3003,12 +3000,12 @@
     "Neue Verwaltungsvorschrift - Ausschluss vom öffentlichen Dienst in Rheinland-Pfalz nur nach Einzelfallprüfung",
     "Landwirtschaftsministerium - Keine Mindestlohn-Ausnahmen für Saisonkräfte",
     "Maja T. in Ungarn - Schwere Vorwürfe, Isolationshaft und ein Hungerstreik",
-    "Bundesverfassungsgericht: Ein Drohnenangriff ohne Konsequenzen"
+    "Bundesverfassungsgericht: Ein Drohnenangriff ohne Konsequenzen",
+    "Ukraine - Ministerpräsident Schmyhal tritt zurück - beabsichtigte Regierungsumbildung eingeleitet",
+    "Frankreich - Ministerpräsident Bayrou schlägt Sparmaßnahmen vor und kündigt harte Einschnitte an",
+    "Merz auf der Zugspitze: Weit über den Berliner Niederungen"
   ],
   "hashes": [
-    "ad04be5fe629611f35b4ed0541087b37",
-    "a6a7834abe966c72c5347e6851190ed4",
-    "60360feb1e1cf39582e155f1d38d4717",
     "9132ebb4d70d0664eddfede1c44a7777",
     "79e62e88f64b9270018e0df1faa4f9f4",
     "800df6a9d7b4f1dfd1b8e105ec8f327a",
@@ -4005,6 +4002,9 @@
     "18c0ba7e24b27711e4c6bcac9b79eeb7",
     "24ccf556afa83773bd32feac014ee327",
     "44d579f15ef538dba0b05553fce1d976",
-    "636604055c2de5769ee2f81b58a6ce2d"
+    "636604055c2de5769ee2f81b58a6ce2d",
+    "a91af7416dd10c8fa1ba4bde5d438742",
+    "64492ddc9c767f438c45ffa485aef3e6",
+    "1114dac2a1766a66c222d8db0c63ee1e"
   ]
 }
