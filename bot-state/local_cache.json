@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-krieg-im-nahen-osten-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-spricht-beim-tag-der-industrie-100.html",
     "https://www.deutschlandfunk.de/netanjahu-wollen-keinen-zermuerbungskrieg-erneuter-gegenseitiger-beschuss-100.html",
     "https://www.deutschlandfunk.de/selenskyj-warnt-europa-vor-nicht-naeher-benannten-operationen-russlands-neue-angriffe-auf-kiew-102.html",
     "https://www.deutschlandfunk.de/nur-80-prozent-vom-mindestlohn-fuer-saisonarbeiter-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/oberstes-gericht-erlaubt-entlassung-von-rund-1-400-mitarbeitern-102.html",
     "https://www.deutschlandfunk.de/eilantrag-bringt-gasfoerderung-ins-stocken-102.html",
     "https://www.deutschlandfunk.de/urteil-zu-us-drohneneinsaetzen-aus-air-base-in-ramstein-erwartet-100.html",
-    "https://www.deutschlandfunk.de/warken-plant-schaerfere-regeln-fuer-abgabe-von-medizinischem-cannabis-100.html"
+    "https://www.deutschlandfunk.de/warken-plant-schaerfere-regeln-fuer-abgabe-von-medizinischem-cannabis-100.html",
+    "https://www.deutschlandfunk.de/weltweite-impfquote-bei-saeuglingen-gestiegen-dennoch-warnung-vor-rueckschritten-100.html",
+    "https://www.deutschlandfunk.de/queer-beauftragte-koch-beklagt-zunehmende-feindseligkeiten-gegenueber-lgbtq-menschen-102.html"
   ],
   "content_hashes": [
-    "dd3b18a28b7860499f6dde2ca712044f",
-    "28cdd93df7e20fcba573fb005f06af75",
     "ce8c6e835e9967d22251ff765ce8ec46",
     "ed0e4ff04a4e8ef0653d264b857e3136",
     "dcf6581bae00209a124b93d16127a4e8",
@@ -2001,11 +1999,11 @@
     "f56a1ecd77065b04e40d562bc6d719ce",
     "3cc502bc7d365b1f7ca7d070aafb42bf",
     "d75781b237bc0e58651971e22fea2e9a",
-    "a3062c56c36dc33bb83f826cdc7dfacf"
+    "a3062c56c36dc33bb83f826cdc7dfacf",
+    "aa6b485e6e4264d199085983b89179e1",
+    "80f7feb70ec3e474710ea1e5f8e2fbbb"
   ],
   "titles": [
-    "Brüssel - EU-Außenminister beraten über Krieg im Nahen Osten",
-    "Berlin - Bundeskanzler Merz spricht beim Tag der Industrie",
     "Eskalation im Nahen Osten - Netanjahu: \"Wollen keinen Zermürbungskrieg\" - Erneuter gegenseitiger Beschuss",
     "Ukraine - Selenskyj warnt Europa vor nicht näher benannten Operationen Russlands - neue Angriffe auf Kiew",
     "Bauernpräsident - Nur 80 Prozent vom Mindestlohn für Saisonarbeiter",
@@ -3003,11 +3001,11 @@
     "US-Bildungsministerium - Oberstes Gericht erlaubt Entlassung von rund 1.400 Mitarbeitern",
     "Vor Nordseeinsel Borkum - Eilantrag bringt Gasförderung ins Stocken",
     "Bundesverfassungsgericht - Urteil zu US-Drohneneinsätzen aus Air-Base in Ramstein erwartet",
-    "Gesundheitsministerium - Warken plant schärfere Regeln für Abgabe von medizinischem Cannabis"
+    "Gesundheitsministerium - Warken plant schärfere Regeln für Abgabe von medizinischem Cannabis",
+    "Bericht von WHO und Unicef - Weltweite Impfquote bei Säuglingen gestiegen - dennoch Warnung vor Rückschritten",
+    "SPD-Politikerin - Queer-Beauftragte Koch beklagt zunehmende Feindseligkeiten gegenüber LGBTQ+-Menschen"
   ],
   "hashes": [
-    "365f96d332e64c9c5a1fe0c8ee6b03c0",
-    "1a5610fe502da91c570fb8fd24ac3822",
     "a412f29b26a145c92061265ebd1c7467",
     "f3dc4f093d0bca44a2caf6c6b785561c",
     "638eee80954cb5e31bacf2a93f255c24",
@@ -4005,6 +4003,8 @@
     "ece6cf67bc5e815991015f3f55e00d3f",
     "fceef98d1fd615518f548e5a101b199a",
     "d17163fa8e1ef6f7e2c8e43e99377469",
-    "3ff1256217d1da2158b8181440158257"
+    "3ff1256217d1da2158b8181440158257",
+    "e507a9dd8ca5ed4528688a952c8080ca",
+    "9ebdf217dc9b4ddf045c428343975ad5"
   ]
 }
