@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bdi-rechnet-nicht-mit-schneller-erholung-der-konjunktur-102.html",
-    "https://www.deutschlandfunk.de/kommission-will-am-freitag-mindestlohn-beschluss-verkuenden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/volker-geyer-zum-vorsitzenden-des-dbb-beamtenbunds-gewaehlt-110553360.html",
     "https://www.deutschlandfunk.de/schweden-kauft-deutsche-luftabwehrsysteme-fuer-810-millionen-euro-100.html",
     "https://www.deutschlandfunk.de/luftwaffe-fliegt-weitere-179-deutsche-aus-israel-aus-102.html",
     "https://www.deutschlandfunk.de/thailand-schliesst-im-streit-mit-kambodscha-mehrheit-der-grenzuebergaenge-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wiener-staatsanwaltschaft-leitet-betrugsverfahren-gegen-investor-benko-ein-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-sieht-sich-durch-verfassungsgericht-in-einschaetzung-bestaetigt-102.html",
     "https://www.deutschlandfunk.de/ausnahmen-vom-mindestlohn-fuer-agrarbereich-laut-gutachten-rechtlich-nicht-zulaessig-100.html",
-    "https://www.spiegel.de/ausland/mutmasslicher-iran-spion-ist-nach-deutschland-ueberfuehrt-worden-a-f11836c5-ce78-479e-9121-934a089d1180#ref=rss"
+    "https://www.spiegel.de/ausland/mutmasslicher-iran-spion-ist-nach-deutschland-ueberfuehrt-worden-a-f11836c5-ce78-479e-9121-934a089d1180#ref=rss",
+    "https://www.deutschlandfunk.de/merz-pocht-auf-loesungsfindung-in-ruhe-mit-koalitionspartner-spd-102.html",
+    "https://www.deutschlandfunk.de/russland-verwahrt-sich-gegen-us-praesident-trumps-zollandrohung-gegen-russische-handelspartner-102.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-mitarbeiter-alice-weidels-bedraengen-faz-fotografen-im-bundestag-110591820.html"
   ],
   "content_hashes": [
-    "cfe707ec7c5718a0ca5b7bce8a4097c2",
-    "e2eba3213afa1ad6f5c7899b51224587",
-    "7f55a4d0d9ce08bc647a2b7c10c1a91c",
     "c238ef074774f3dc1dc93a8fe07747d1",
     "f2479b2e10e63e9afae517270e5301e3",
     "df9d5e2d74c90fda307780b921f78169",
@@ -2001,12 +1998,12 @@
     "c6a31649c6b35736ec743d4254e6d70c",
     "6431c67ec3e69039d500f3658693bf8b",
     "6f2c17c7b16921bd675cbf8bd159a755",
-    "7efed52796507cb110276f2f5f19248b"
+    "7efed52796507cb110276f2f5f19248b",
+    "a8fdc1f01c7ff6a0d53ff5152f9089b3",
+    "3055312cc5402bd3f046803aec193ce4",
+    "b32290f562c41b2f19109b5f0f6c964d"
   ],
   "titles": [
-    "Tag der Industrie - BDI rechnet nicht mit schneller Erholung der Konjunktur",
-    "Einkommen - Kommission will am Freitag Mindestlohn-Beschluss verkünden",
-    "Neuer Beamtenbund-Chef: Interessenvertreter der Staatsdiener",
     "Verteidigung - Schweden kauft deutsche Luftabwehrsysteme für 810 Millionen Euro",
     "Nahost - Luftwaffe fliegt weitere 179 Deutsche aus Israel aus",
     "Südostasien - Thailand schließt im Streit mit Kambodscha Mehrheit der Grenzübergänge",
@@ -3003,12 +3000,12 @@
     "Österreich - Wiener Staatsanwaltschaft leitet Betrugsverfahren gegen Investor Benko ein",
     "Ramstein-Entscheidung - Bundesregierung sieht sich durch Verfassungsgericht in Einschätzung bestätigt",
     "Bundeslandwirtschaftsministerium - Ausnahmen vom Mindestlohn für Agrarbereich laut Gutachten rechtlich nicht zulässig",
-    "Dänemark: Mutmaßlicher Iran-Spion nach Deutschland überführt"
+    "Dänemark: Mutmaßlicher Iran-Spion nach Deutschland überführt",
+    "Wahl neuer Verfassungsrichter - Merz pocht auf Lösungsfindung \"in Ruhe\" mit Koalitionspartner SPD",
+    "Krieg gegen die Ukraine - Russland verwahrt sich gegen US-Präsident Trumps Zollandrohung gegen russische Handelspartner",
+    "F.A.Z.-Fotograf bedrängt: Weidel bittet um Entschuldigung"
   ],
   "hashes": [
-    "e101ab3f7d1dbb77d55cb9eed4405005",
-    "9df02a85d6cbeea19d9a6deefc0041d4",
-    "19aa7ef3833d7ac905a87de424e9b25a",
     "0b2424ef985535b615c5796343a25859",
     "709721d3e5aa8e08ba6aac9476cee475",
     "6073ba5f1f9a825d2607130d79c0f3f3",
@@ -4005,6 +4002,9 @@
     "1f796e0f40822cf0f38df635b4998df7",
     "f958393d26b3afa394dc70c17698e8f5",
     "c30423dc26faaa1387c80a57732ca240",
-    "b68f7d8188158196a5d6212e35b303d3"
+    "b68f7d8188158196a5d6212e35b303d3",
+    "ce92bef376eec0ca4651170846db2eff",
+    "ca1af10a0ac8a2a14eab65411977c20a",
+    "f7caae5f3b3e732bc051af7e6528fc4a"
   ]
 }
