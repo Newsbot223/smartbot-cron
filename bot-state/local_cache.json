@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/einwanderung-sorgt-wieder-fuer-mehr-kinderreiche-familien-102.html",
-    "https://www.deutschlandfunk.de/melde-und-informationsstelle-antiziganismus-registriert-rund-1-680-faelle-von-beleidigungen-und-koer-102.html",
     "https://www.deutschlandfunk.de/netanjahu-wollen-keinen-zermuerbungskrieg-100.html",
     "https://www.faz.net/aktuell/politik/inland/bei-der-wehrpflicht-ist-die-afd-zersplittert-110548031.html",
     "https://www.deutschlandfunk.de/eu-verurteilt-selbstmordanschlag-auf-kirche-in-damaskus-nach-neuen-angaben-mehr-als-25-tote-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/linke-lehnen-bundestag-sondersitzung-fuer-richterwahl-noch-in-dieser-woche-ab-100.html",
     "https://www.deutschlandfunk.de/polizeigewerkschaft-fordert-von-dobrindt-kehrtwende-bei-grenzkontrollen-102.html",
     "https://www.deutschlandfunk.de/truppen-der-uebergangsregierung-marschieren-in-suweida-ein-102.html",
-    "https://www.deutschlandfunk.de/medienbericht-bundesgesundheitsministerium-zahlt-fast-90-millionen-euro-fuer-anwaelte-in-gerichtsver-100.html"
+    "https://www.deutschlandfunk.de/medienbericht-bundesgesundheitsministerium-zahlt-fast-90-millionen-euro-fuer-anwaelte-in-gerichtsver-100.html",
+    "https://www.deutschlandfunk.de/volksbund-deutsche-kriegsgraeberfuersorge-weist-auf-schwierige-arbeit-in-russland-hin-100.html",
+    "https://www.spiegel.de/ausland/bundesverfassungsgericht-weist-klage-gegen-drohneneinsaetze-der-usa-via-ramstein-ab-a-c2507fc2-3af7-4419-9b4b-997d11b60b1e#ref=rss"
   ],
   "content_hashes": [
-    "4ca10b7bc4b913bca6e9fc61f4f58112",
-    "36962d7c10f06814c6534d1c2ececf5e",
     "7b2f2f6bbcc7d6304893181e6fce842a",
     "f26092ce4b14b9db66f900d7b2aa108f",
     "4010b9951552a733de3e4030402cd29f",
@@ -2001,11 +1999,11 @@
     "fde3e906cbea7cd521b0ee2776e3754d",
     "067a812d3fca7cadaa8eb210707f872b",
     "75677d29a4469ee6adf8dfb4c15eb4e1",
-    "dc31598f79d0122f96f966ff7360cfa4"
+    "dc31598f79d0122f96f966ff7360cfa4",
+    "01455b322e5912709bde1a39e3ef8965",
+    "83df2c0705e4bc9df3550e5396544aa9"
   ],
   "titles": [
-    "Statistik - Einwanderung sorgt wieder für mehr kinderreiche Familien",
-    "Jahresbericht - Melde- und Informationsstelle Antiziganismus registriert rund 1.680 Fälle von Beleidigungen und Körperverletzungen",
     "Eskalation im Nahen Osten - Netanjahu: \"Wollen keinen Zermürbungskrieg\"",
     "Wehrpflichtdebatte: Die lauen Patrioten von der AfD",
     "Syrien - EU verurteilt Selbstmordanschlag auf Kirche in Damaskus - nach neuen Angaben mehr als 25 Tote",
@@ -3003,11 +3001,11 @@
     "Verfassungsgericht - Linke lehnen Bundestag-Sondersitzung für Richterwahl noch in dieser Woche ab",
     "Migration - Polizeigewerkschaft fordert von Dobrindt Kehrtwende bei Grenzkontrollen",
     "Syrien - Truppen der Übergangsregierung marschieren in Suweida ein",
-    "Wirtschaftsmagazin Capital - Medienbericht: Bundesgesundheitsministerium zahlt fast 90 Millionen Euro für Anwälte in Gerichtsverfahren zu Coronamasken-Käufen"
+    "Wirtschaftsmagazin Capital - Medienbericht: Bundesgesundheitsministerium zahlt fast 90 Millionen Euro für Anwälte in Gerichtsverfahren zu Coronamasken-Käufen",
+    "Gefallene Soldaten - Volksbund Deutsche Kriegsgräberfürsorge weist auf schwierige Arbeit in Russland hin",
+    "Bundesverfassungsgericht weist Klage gegen Drohneneinsätze der USA via Ramstein ab"
   ],
   "hashes": [
-    "f2415f34df5c564e7d3750cf1589f896",
-    "5aa1125fa9680e823c3034dd0a87b4a8",
     "8e13d282a8889a7af9671bf0aee29921",
     "29fac8b600aa1cbd05d55e40ebe8d27c",
     "64a3b68a363c29b0664f751897e5e34b",
@@ -4005,6 +4003,8 @@
     "b78bf78afb433fb26a369a35e710bbad",
     "cb51400ecfad8ee12d0870fedc62d193",
     "1678a07ee3a8b746ae3a19784f3bc1b4",
-    "753451f0ad4a74b01cc7946e99a92564"
+    "753451f0ad4a74b01cc7946e99a92564",
+    "79f1aa8cb173c117aeda78d18d4343db",
+    "3fd987266382d4655a18088368aa285a"
   ]
 }
