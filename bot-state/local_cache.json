@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hoehere-kassenbeitraege-fuer-gutverdiener-cdu-lehnt-spd-vorschlag-ab-100.html",
-    "https://www.deutschlandfunk.de/oberstes-gericht-hebt-freispruch-des-ehemaligen-ministerpraesidenten-babis-erneut-auf-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-meldet-einigung-auf-bundeshaushalt-170-milliarden-euro-schulden-in-zwei-jahren-100.html",
-    "https://www.spiegel.de/wirtschaft/wirtschaft-bdi-rechnet-mit-konjunkturschwaeche-durch-zollstreit-mit-den-usa-a-a4366605-80e1-4adb-8203-5d214725377f#ref=rss",
     "https://www.deutschlandfunk.de/bdi-rechnet-nicht-mit-schneller-erholung-der-konjunktur-102.html",
     "https://www.deutschlandfunk.de/kommission-will-am-freitag-mindestlohn-beschluss-verkuenden-100.html",
     "https://www.faz.net/aktuell/politik/inland/volker-geyer-zum-vorsitzenden-des-dbb-beamtenbunds-gewaehlt-110553360.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/uebergangsregierung-verkuendet-waffenruhe-fuer-suweida-102.html",
     "https://www.deutschlandfunk.de/china-und-russland-verurteilen-trumps-zolldrohung-gegen-russische-handelspartner-100.html",
     "https://www.deutschlandfunk.de/ezb-will-banken-auf-widerstandsfaehigkeit-gegen-geopolitische-risiken-pruefen-100.html",
-    "https://www.aljazeera.com/gallery/2025/7/15/ukraine-war-creates-a-generation-at-risk-of-being-lost?traffic_source=rss"
+    "https://www.aljazeera.com/gallery/2025/7/15/ukraine-war-creates-a-generation-at-risk-of-being-lost?traffic_source=rss",
+    "https://www.deutschlandfunk.de/wiener-staatsanwaltschaft-leitet-betrugsverfahren-gegen-investor-benko-ein-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-sieht-sich-durch-verfassungsgericht-in-einschaetzung-bestaetigt-102.html",
+    "https://www.deutschlandfunk.de/ausnahmen-vom-mindestlohn-fuer-agrarbereich-laut-gutachten-rechtlich-nicht-zulaessig-100.html",
+    "https://www.spiegel.de/ausland/mutmasslicher-iran-spion-ist-nach-deutschland-ueberfuehrt-worden-a-f11836c5-ce78-479e-9121-934a089d1180#ref=rss"
   ],
   "content_hashes": [
-    "4e866e2584c24671985d981a705144c3",
-    "5e02e1eda13d4890a99cbb9364caa49b",
-    "e1663e5a9abcea509b00d65e6b6d3048",
-    "23ca1599800405fcaaf0c7dd8cb2dba1",
     "cfe707ec7c5718a0ca5b7bce8a4097c2",
     "e2eba3213afa1ad6f5c7899b51224587",
     "7f55a4d0d9ce08bc647a2b7c10c1a91c",
@@ -2001,13 +1997,13 @@
     "95be118110667b79049f0b910d55a010",
     "54d355349a76c186d1b81b64bcba799e",
     "44f9c08a88e2c06d501ee41efd8fb9b9",
-    "0d748e1d1dc49c2ac925e0d9576fc13b"
+    "0d748e1d1dc49c2ac925e0d9576fc13b",
+    "c6a31649c6b35736ec743d4254e6d70c",
+    "6431c67ec3e69039d500f3658693bf8b",
+    "6f2c17c7b16921bd675cbf8bd159a755",
+    "7efed52796507cb110276f2f5f19248b"
   ],
   "titles": [
-    "Gesundheitspolitik - Höhere Kassenbeiträge für Gutverdiener? CDU lehnt SPD-Vorschlag ab",
-    "Tschechien - Oberstes Gericht hebt Freispruch des ehemaligen Ministerpräsidenten Babis erneut auf",
-    "Finanzminister - Klingbeil meldet Einigung auf Bundeshaushalt - 170 Milliarden Euro Schulden in zwei Jahren",
-    "Wirtschaft: BDI rechnet mit Konjunkturschwäche durch Zollstreit mit den USA",
     "Tag der Industrie - BDI rechnet nicht mit schneller Erholung der Konjunktur",
     "Einkommen - Kommission will am Freitag Mindestlohn-Beschluss verkünden",
     "Neuer Beamtenbund-Chef: Interessenvertreter der Staatsdiener",
@@ -3003,13 +2999,13 @@
     "Syrien - Übergangsregierung verkündet Waffenruhe für Suweida",
     "Krieg gegen die Ukraine - China und Russland verurteilen Trumps Zolldrohung gegen russische Handelspartner",
     "Stresstest 2026 - EZB will Banken auf Widerstandsfähigkeit gegen geopolitische Risiken prüfen",
-    "Ukraine war creates a generation at risk of being lost"
+    "Ukraine war creates a generation at risk of being lost",
+    "Österreich - Wiener Staatsanwaltschaft leitet Betrugsverfahren gegen Investor Benko ein",
+    "Ramstein-Entscheidung - Bundesregierung sieht sich durch Verfassungsgericht in Einschätzung bestätigt",
+    "Bundeslandwirtschaftsministerium - Ausnahmen vom Mindestlohn für Agrarbereich laut Gutachten rechtlich nicht zulässig",
+    "Dänemark: Mutmaßlicher Iran-Spion nach Deutschland überführt"
   ],
   "hashes": [
-    "bd054302b3b467b5a5d59dcf03ebb45a",
-    "ca0af1dfad68a6935e1ab3248fbae504",
-    "f31b757f982d562c08b38e6e946a79e7",
-    "7f84546cd2eabc44bce61f78bd2411cf",
     "e101ab3f7d1dbb77d55cb9eed4405005",
     "9df02a85d6cbeea19d9a6deefc0041d4",
     "19aa7ef3833d7ac905a87de424e9b25a",
@@ -4005,6 +4001,10 @@
     "545cbd11ea5dd108dbb39964e145f369",
     "9fff870104e6af3520e1f492c7ac18b5",
     "3f31ee93be3cf0645732c80a0e211109",
-    "a82361cee0e3cdab10932c6c2cd36535"
+    "a82361cee0e3cdab10932c6c2cd36535",
+    "1f796e0f40822cf0f38df635b4998df7",
+    "f958393d26b3afa394dc70c17698e8f5",
+    "c30423dc26faaa1387c80a57732ca240",
+    "b68f7d8188158196a5d6212e35b303d3"
   ]
 }
