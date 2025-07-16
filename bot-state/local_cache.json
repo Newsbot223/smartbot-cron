@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bauernpraesident-rukwied-versorgungssicherheit-so-wichtig-wie-verteidigung-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-merz-muessen-uns-der-neuen-wirklichkeit-stellen-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/regierung-will-mit-enquetekommission-corona-aufarbeiten-110554809.html",
     "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-spd-schwarze-null-kein-wert-an-sich-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-plant-mit-166-milliarden-fuer-infrastruktur-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/ausland/iran-westliche-staaten-setzen-offenbar-frist-fuer-atomabkommen-a-1851b606-0445-4c4a-956d-6296ee83abc2#ref=rss",
     "https://www.deutschlandfunk.de/deutscher-bauernverband-ein-schwarzer-tag-fuer-die-branche-100.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-deutschen-gruenen-politiker-buetikofer-aufgehoben-102.html",
-    "https://www.deutschlandfunk.de/neue-struktur-neue-schwerpunkte-eu-haushalt-100.html"
+    "https://www.deutschlandfunk.de/neue-struktur-neue-schwerpunkte-eu-haushalt-100.html",
+    "https://www.deutschlandfunk.de/frueherer-nationaler-sicherheitsberater-bolton-sieht-keinen-wendepunkt-in-us-aussenpolitik-100.html",
+    "https://www.deutschlandfunk.de/deutscher-bauernverband-schwarzer-tag-fuer-die-branche-100.html"
   ],
   "content_hashes": [
-    "0926d31c266607ed264324862c8ba780",
-    "81bba416c9151905ba6bec934effa455",
     "50178b6e3b05dbed344da0759be2bdd3",
     "de7325f0ab7325478b476524892476f0",
     "c69752d2145145aa34c598862fe3dfc9",
@@ -2001,11 +1999,11 @@
     "951f80a49257304d65ead1522700d3fd",
     "1bc2550215ffb270121355d13167e1bd",
     "d4732bf5f21fb31490b63cf453c14fa4",
-    "93c5af2304c5faea42403564f6ef5a40"
+    "93c5af2304c5faea42403564f6ef5a40",
+    "1f16438b8ebb6fd5b2263a26b4154939",
+    "8d24c1f4599bd406813d48bd982e74ec"
   ],
   "titles": [
-    "Bauerntag - Bauernpräsident Rukwied: Versorgungssicherheit so wichtig wie Verteidigung",
-    "Liveblog zur Merz-Regierung: Merz: Müssen uns der neuen Wirklichkeit stellen",
     "Enquetekommission: Regierung will Corona aufarbeiten",
     "Kabinett beschließt Haushaltsentwurf - Bundesfinanzminister Klingbeil (SPD): Schwarze Null kein Wert an sich",
     "Investitionen - Bundesregierung plant mit 166 Milliarden für Infrastruktur",
@@ -3003,11 +3001,11 @@
     "Iran: Westliche Staaten setzen offenbar Frist für Atomabkommen",
     "Keine Mindestlohn-Ausnahme für Saisonarbeiter - Deutscher Bauernverband: \"Ein schwarzer Tag für die Branche\"",
     "China - Sanktionen gegen deutschen Grünen-Politiker Bütikofer aufgehoben",
-    "EU-Haushalt 2028-2034 - Mehr Flexibilität durch neue Struktur und neue Schwerpunkte"
+    "EU-Haushalt 2028-2034 - Mehr Flexibilität durch neue Struktur und neue Schwerpunkte",
+    "Ukraine-Krieg - Früherer Nationaler Sicherheitsberater Bolton sieht keinen Wendepunkt in US-Außenpolitik",
+    "Keine Mindestlohn-Ausnahme für Saisonarbeiter - Deutscher Bauernverband: \"Schwarzer Tag für die Branche\""
   ],
   "hashes": [
-    "6f63f008faede02a94e155db573763cf",
-    "1019ff89f1eacdf1bc2f9d383e9de0e4",
     "3b3339db7af08c871a6ce2217f31462c",
     "2952c716db34ed8567c77bff67bbf55d",
     "4c802fd7e3c30d33ea4e4ea4288c463b",
@@ -4005,6 +4003,8 @@
     "9a04e656c1b82e067467d09ae1620b2c",
     "90f3e1cae24211c7d2d1c6b43bab40ba",
     "e4c7a521f913170e57c0a0566ea988a0",
-    "46b19a31dcd000f1b196fa991621ec4d"
+    "46b19a31dcd000f1b196fa991621ec4d",
+    "477163fc2cd1343af344314ba09cfb25",
+    "aefc783d07587f61ebe41429d8f01885"
   ]
 }
