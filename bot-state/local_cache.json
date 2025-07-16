@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-spd-schwarze-null-kein-wert-an-sich-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-plant-mit-166-milliarden-fuer-infrastruktur-100.html",
-    "https://www.deutschlandfunk.de/bund-will-erwartete-steuerausfaelle-der-kommunen-komplett-uebernehmen-laender-werden-teilweise-entla-104.html",
     "https://www.deutschlandfunk.de/betroffenenorganisation-eckiger-tisch-zeigt-kardinal-woelki-wegen-prozessbetrugs-an-100.html",
     "https://www.deutschlandfunk.de/generalsekretaer-rutte-usa-bekennen-sich-zur-nato-100.html",
     "https://www.deutschlandfunk.de/mehrere-tote-bei-russischen-angriffen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/neue-struktur-neue-schwerpunkte-eu-haushalt-100.html",
     "https://www.deutschlandfunk.de/frueherer-nationaler-sicherheitsberater-bolton-sieht-keinen-wendepunkt-in-us-aussenpolitik-100.html",
     "https://www.deutschlandfunk.de/deutscher-bauernverband-schwarzer-tag-fuer-die-branche-100.html",
-    "https://www.deutschlandfunk.de/ebling-wehrt-sich-gegen-kritik-an-einstellungspraxis-beim-staatsdienst-von-afd-mitgliedern-100.html"
+    "https://www.deutschlandfunk.de/ebling-wehrt-sich-gegen-kritik-an-einstellungspraxis-beim-staatsdienst-von-afd-mitgliedern-100.html",
+    "https://www.deutschlandfunk.de/linke-lehnt-sondersitzung-des-bundestags-ab-102.html",
+    "https://www.deutschlandfunk.de/us-praesident-trump-verkuendet-milliardeninvestitionen-zum-ausbau-von-stromerzeugung-100.html",
+    "https://www.deutschlandfunk.de/polizeinotruf-in-einigen-landesteilen-nicht-erreichbar-100.html"
   ],
   "content_hashes": [
-    "de7325f0ab7325478b476524892476f0",
-    "c69752d2145145aa34c598862fe3dfc9",
-    "8ced1890bfa0e9105c236a3d7b97a415",
     "ed3423dce10b53a095326a4a08013fd7",
     "b94b385f7d072e0bd08f7cbf94af7f53",
     "2024cc96ec84623e566c74da138b83f4",
@@ -2001,12 +1998,12 @@
     "93c5af2304c5faea42403564f6ef5a40",
     "1f16438b8ebb6fd5b2263a26b4154939",
     "8d24c1f4599bd406813d48bd982e74ec",
-    "672d3951ee4ae38c3cf931c98002ec9a"
+    "672d3951ee4ae38c3cf931c98002ec9a",
+    "27ce026071fed6d98612a036b312c76b",
+    "456df57b21c70730f6da69f7e51b380c",
+    "e1b5fbfab365127631ed0d10d404bb7d"
   ],
   "titles": [
-    "Kabinett beschließt Haushaltsentwurf - Bundesfinanzminister Klingbeil (SPD): Schwarze Null kein Wert an sich",
-    "Investitionen - Bundesregierung plant mit 166 Milliarden für Infrastruktur",
-    "Investitionspaket - Bund will erwartete Steuerausfälle der Kommunen komplett übernehmen - Länder werden teilweise entlastet",
     "Bistum Köln - Betroffenenorganisation \"Eckiger Tisch\" zeigt Kardinal Woelki wegen Prozessbetrugs an",
     "Vor NATO-Gipfel - Generalsekretär Rutte: USA bekennen sich zur NATO",
     "Ukraine - Mehrere Tote bei russischen Angriffen",
@@ -3003,12 +3000,12 @@
     "EU-Haushalt 2028-2034 - Mehr Flexibilität durch neue Struktur und neue Schwerpunkte",
     "Ukraine-Krieg - Früherer Nationaler Sicherheitsberater Bolton sieht keinen Wendepunkt in US-Außenpolitik",
     "Keine Mindestlohn-Ausnahme für Saisonarbeiter - Deutscher Bauernverband: \"Schwarzer Tag für die Branche\"",
-    "Innenminister von Rheinland-Pfalz - Ebling wehrt sich gegen Kritik an Einstellungspraxis beim Staatsdienst von AfD-Mitgliedern"
+    "Innenminister von Rheinland-Pfalz - Ebling wehrt sich gegen Kritik an Einstellungspraxis beim Staatsdienst von AfD-Mitgliedern",
+    "Richterwahl - Linke lehnt Sondersitzung des Bundestags ab",
+    "Künstliche Intelligenz - US-Präsident Trump verkündet Milliardeninvestitionen zum Ausbau von Stromerzeugung",
+    "Nordrhein-Westfalen - Polizeinotruf in einigen Landesteilen nicht erreichbar"
   ],
   "hashes": [
-    "2952c716db34ed8567c77bff67bbf55d",
-    "4c802fd7e3c30d33ea4e4ea4288c463b",
-    "a331382181e80b9287c24f47cba7123e",
     "b2378166cf98e1604d132b8768e77353",
     "9aa03ea9298069f15251198f04bf4ef3",
     "13bfede07c670726310ec5a7b234c0ae",
@@ -4005,6 +4002,9 @@
     "46b19a31dcd000f1b196fa991621ec4d",
     "477163fc2cd1343af344314ba09cfb25",
     "aefc783d07587f61ebe41429d8f01885",
-    "66f9b457ccf291c6add6ddb228b4bfdb"
+    "66f9b457ccf291c6add6ddb228b4bfdb",
+    "5863d3594663b3d789b53cb107c1543e",
+    "f1508d2e0c8e3db663e3d0bc63fa89c6",
+    "1dfb7a9d498fefc7facab9af14c8e12d"
   ]
 }
