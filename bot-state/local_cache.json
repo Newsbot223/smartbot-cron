@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/rechtsextremtes-compact-magazin-bundesverwaltungsgericht-verkuendet-urteil-110554418.html",
-    "https://www.deutschlandfunk.de/mehr-menschen-verlassen-deutschland-richtung-anderer-eu-laender-102.html",
-    "https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-2024-weiter-gesunken-a-9185bccb-12a4-445d-bc7e-3ca1a819fa70#ref=rss",
     "https://www.spiegel.de/wirtschaft/urlaub-17-4-millionen-menschen-in-deutschland-fehlt-geld-fuer-laengere-reisen-a-4f3951cd-1450-4c76-9c58-0058f424829c#ref=rss",
     "https://www.deutschlandfunk.de/interview-franziska-brantner-gruenen-vorsitzende-zu-haushaltsentwurf-im-kabin-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-weitere-25-tote-bei-neue-israelischen-angriffen-im-gazastreifen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesbildungsministerin-prien-fordert-einigung-der-laender-ueber-sommerferien-beginn-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-bei-internationalen-finanzunternehmen-fuer-investitionen-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/erneut-naechtliche-luftangriffe-russlands-zwei-tote-in-region-charkiw-100.html",
-    "https://www.deutschlandfunk.de/schulen-in-grossbritannien-behandeln-frauenfeindlichkeit-im-unterricht-100.html"
+    "https://www.deutschlandfunk.de/schulen-in-grossbritannien-behandeln-frauenfeindlichkeit-im-unterricht-100.html",
+    "https://www.deutschlandfunk.de/bundesweit-fehlen-mindestens-3-000-bademeister-100.html",
+    "https://www.deutschlandfunk.de/israel-will-laut-medienbericht-angriffe-auf-syrisches-militaer-beenden-102.html",
+    "https://www.spiegel.de/ausland/iran-westliche-staaten-setzen-offenbar-frist-fuer-atomabkommen-a-1851b606-0445-4c4a-956d-6296ee83abc2#ref=rss"
   ],
   "content_hashes": [
-    "11e073797710f1ad393b78db748fbf3b",
-    "fa9bdaace93cc3c33aeabd26facacef1",
-    "1be6494c6c9ad9df1349968df391c200",
     "77aa6b278ca265096d4036bf2e2c1183",
     "fd617d6c323ca3529ec634ff50bd762c",
     "2def2a4941df433fdc43359bfeebf61b",
@@ -2001,12 +1998,12 @@
     "fa6f121980d1bedc8761809e7f42559f",
     "08ad431eaae60a509724ebf64d83fd8b",
     "d05b32bea76d8e0d79fc953af461aaf2",
-    "dd03a2cfa99afab0a5edf8ede09e1865"
+    "dd03a2cfa99afab0a5edf8ede09e1865",
+    "155deffe2802bc48d567f6e3f27962aa",
+    "3d9080486964dd3308051fa41818f796",
+    "951f80a49257304d65ead1522700d3fd"
   ],
   "titles": [
-    "Bundesverwaltungsgericht: Compact-Verbot wird aufgehoben",
-    "Statistik - Mehr Menschen verlassen Deutschland Richtung anderer EU-Länder",
-    "Deutschland: Nettozuwanderung 2024 weiter gesunken",
     "Urlaub: 17,4 Millionen Menschen in Deutschland fehlt Geld für längere Reisen",
     "Haushaltsentwurf - Grüne werfen Merz und Klingbeil Wortbruch vor",
     "Nahost - Palästinenser melden weitere 25 Tote bei neue israelischen Angriffen im Gazastreifen",
@@ -3003,12 +3000,12 @@
     "Urlaub - Bundesbildungsministerin Prien fordert Einigung der Länder über Sommerferien-Beginn",
     "Treffen im Kanzleramt - Bundeskanzler Merz wirbt bei internationalen Finanzunternehmen für Investitionen in Deutschland",
     "Ukraine-Krieg - Erneut nächtliche Luftangriffe Russlands - zwei Tote in Region Charkiw",
-    "Neue Richtlinie - Schulen in Großbritannien behandeln Frauenfeindlichkeit im Unterricht"
+    "Neue Richtlinie - Schulen in Großbritannien behandeln Frauenfeindlichkeit im Unterricht",
+    "Schwimmbäder - Bundesweit fehlen mindestens 3.000 Bademeister",
+    "Syrien - Israel will laut Medienbericht Angriffe auf syrisches Militär beenden",
+    "Iran: Westliche Staaten setzen offenbar Frist für Atomabkommen"
   ],
   "hashes": [
-    "e37db21b6ffa4f016928ab7e32529838",
-    "928ac420171212b33c1ec7b254d6692c",
-    "f761c3429fcc7d8ed2dff895dcd4e485",
     "0554415a73ae8c8cdfd4ce0f9e70c85c",
     "9e5d1b69308103321e7039a63832a7b3",
     "5a30b4d86d76dbf3fcd3557efc114da9",
@@ -4005,6 +4002,9 @@
     "ddced9108d7f70995e6997fa4cab26c6",
     "42a067024abf2fa26ba84ec81a764d96",
     "2edfcc3b79db0644b6bd8368c6eb66c9",
-    "ad57841f88f1bab8efbade35731e2e11"
+    "ad57841f88f1bab8efbade35731e2e11",
+    "925fa672c23cf76fc205c4dd7a92349e",
+    "1aea325f1c092784bf156cd5f120735f",
+    "9a04e656c1b82e067467d09ae1620b2c"
   ]
 }
