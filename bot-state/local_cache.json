@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unrwa-chef-kritisiert-verteilzentren-fuer-hilfsgueter-in-gaza-streifen-scharf-100.html",
-    "https://www.deutschlandfunk.de/nato-gipfel-will-heute-zielwerte-fuer-verteidigungsausgaben-festlegen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutsche-lehrer-blicken-mit-sorge-auf-ki-an-schulen-110555691.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-distanziert-sich-von-merz-drecksarbeit-zitat-faz-110093143.html",
     "https://www.deutschlandfunk.de/sieben-israelische-soldaten-im-gazastreifen-getoetet-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-und-vorgaenger-habeck-in-haushaltsausschuss-geladen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ermittlungen-gegen-zwei-bsw-minister-in-thueringen-eingestellt-100.html",
     "https://www.deutschlandfunk.de/kritik-an-fixterminen-fuer-sueddeutschland-debatte-ueber-ferientermine-haelt-an-100.html",
     "https://www.spiegel.de/netzwelt/operation-eastwood-fahnder-schalten-weltweites-servernetz-von-prorussischer-hackergruppe-ab-a-5665539f-f15b-42f1-97ec-70ce9dbf4b9a#ref=rss",
-    "https://www.deutschlandfunk.de/kontroverse-debatte-ueber-diw-vorschlag-zu-boomer-soli-als-mittel-gegen-altersarmut-100.html"
+    "https://www.deutschlandfunk.de/kontroverse-debatte-ueber-diw-vorschlag-zu-boomer-soli-als-mittel-gegen-altersarmut-100.html",
+    "https://www.deutschlandfunk.de/deutliche-erhoehung-eu-kommission-schlaegt-fuer-2028-bis-2034-etat-von-zwei-billionen-euro-vor-104.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-mitglieder-wenn-extremisten-dem-staat-dienen-wollen-110593827.html",
+    "https://www.faz.net/aktuell/politik/inland/kontroverse-um-sommerempfang-afd-droht-mit-klage-gegen-landtagspraesidentin-aigner-110593434.html"
   ],
   "content_hashes": [
-    "2cd9754af6e13fe12d3320c0c05562e8",
-    "3def04322bd348e4bd82311ee0e06769",
-    "f76aa91b8d6bbcb959bba4968b8f0684",
     "2d2528c1d0c4de302ca67b46b7ea1c4a",
     "f9f1a781dbfb340c6ab324d86de71a43",
     "bab6a8fdf79635ab6f9832d5210ba861",
@@ -2001,12 +1998,12 @@
     "ac1cd74f1eea1178a3e60f971a35de3d",
     "94b2c29692d67e59590db4fe4109e67a",
     "e8d6eef253a7b04bdbfa8a956ed2902a",
-    "08173cd3f1974dc3d3c52dbe3d749720"
+    "08173cd3f1974dc3d3c52dbe3d749720",
+    "885fb306fe1be892715b299b4800869f",
+    "9b50ccacdfc5349f62f38c5130c0abc7",
+    "eb6dcaee9bba6714c0e1a57c55344646"
   ],
   "titles": [
-    "Krieg - UNRWA-Chef kritisiert Verteilzentren für Hilfsgüter in Gaza-Streifen scharf",
-    "Den Haag - NATO-Gipfel will heute Zielwerte für Verteidigungsausgaben festlegen",
-    "Schulbarometer: Deutsche Lehrer blicken mit Sorge auf KI an Schulen",
     "Liveblog zur Merz-Regierung: Klingbeil distanziert sich von Merz’ „Drecksarbeit“-Zitat",
     "Armeeangaben - Sieben israelische Soldaten im Gazastreifen getötet",
     "Insolvenz von Northvolt - Wirtschaftsministerin Reiche und Vorgänger Habeck in Haushaltsausschuss geladen",
@@ -3003,12 +3000,12 @@
     "Korruptionsverdacht - Ermittlungen gegen zwei BSW-Minister in Thüringen eingestellt",
     "Sommerferien - Die Kritik an Fixterminen für Süddeutschland wächst",
     "Operation »Eastwood«: Fahnder schalten weltweites Servernetz von prorussischer Hackergruppe ab",
-    "Rentenpolitik - Kontroverse Debatte über DIW-Vorschlag zu \"Boomer-Soli\" als Mittel gegen Altersarmut"
+    "Rentenpolitik - Kontroverse Debatte über DIW-Vorschlag zu \"Boomer-Soli\" als Mittel gegen Altersarmut",
+    "Brüssel - Deutliche Erhöhung: EU-Kommission schlägt für 2028 bis 2034 Etat von zwei Billionen Euro vor",
+    "Debatte um AfD-Mitglieder: Wenn Extremisten dem Staat dienen wollen",
+    "Kontroverse um Sommerempfang: AfD droht mit Klage gegen Landtagspräsidentin Aigner"
   ],
   "hashes": [
-    "267600e868ba21fe96d29e7903a6f073",
-    "260cb67d3b31bc637ba8c4bffb1947cb",
-    "831ad379627172d4763334d6a58f75d0",
     "c50f32343df8d77e946e66a36c4981f7",
     "d9ffb9225426cf8da80c19d1f7e9b7e3",
     "ad5167d30dd905e7f35e61f5edec3d05",
@@ -4005,6 +4002,9 @@
     "51906aa35ed952b6f7a7b7c70aa1d925",
     "bcb386e810b011d6ba5a5c8ea3b00cc5",
     "c1130d71717df0b1870b117d5f0c1290",
-    "86f79283d8db4a59d57e76d73e709293"
+    "86f79283d8db4a59d57e76d73e709293",
+    "5c928fe1545df796394dd31fa0b457bc",
+    "af3892c39122b0121d74def6891ca2f0",
+    "136983817f518b1b15622f5225e97ba7"
   ]
 }
