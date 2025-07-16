@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbraende-auf-insel-chios-feuerwehr-meldet-erste-erfolge-102.html",
-    "https://www.deutschlandfunk.de/nato-gipfel-im-schatten-der-iran-krise-interview-nico-lange-sich-exp-100.html",
     "https://www.deutschlandfunk.de/berlin-unrwa-generalkommissar-lazzarini-zur-lage-in-gaza-und-westbank-100.html",
     "https://www.deutschlandfunk.de/afd-kommt-in-bayern-auf-liste-extremistischer-organisationen-100.html",
     "https://www.deutschlandfunk.de/reichinnek-und-pellmann-offiziell-zu-fraktionschefs-gewaehlt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aktuelle-lage-in-den-usa-interview-mit-ex-us-botschafter-john-bolton-100.html",
     "https://www.deutschlandfunk.de/kaempfe-in-suweida-trotz-waffenruhe-erneut-aufgeflammt-104.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/e-autos-rekordhoch-bei-neuzulassungen-a-0c1e6180-6025-47e0-bf2d-166aeeb99bf0#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-110592031.html"
+    "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-110592031.html",
+    "https://www.deutschlandfunk.de/erneuter-vulkanausbruch-in-island-fischerort-grindavik-und-blaue-lagune-evakuiert-100.html",
+    "https://www.deutschlandfunk.de/fonds-zum-schutz-von-nord-und-ostsee-gegruendet-102.html"
   ],
   "content_hashes": [
-    "9107321843f1190287da282d8678d5c2",
-    "d839fcc35860a46083613f1feccdd97d",
     "a54bc79c937c798a73b0acfe4eecd88a",
     "e90d39659456a5bee1a681fccf310b6c",
     "9082f8932f3e555f7edec6fd8039b30c",
@@ -2001,11 +1999,11 @@
     "a1d4d6d39d7214cf277da287e436e47a",
     "e80113fcfc5764067dd7d20b9d1d5f0a",
     "c6b0e4bc77c19848666deeab2450c300",
-    "4a713e0d1f0cd03c88d7fd646347bfc5"
+    "4a713e0d1f0cd03c88d7fd646347bfc5",
+    "670f0a6d8f27202bfd7a282b43329b42",
+    "bfefaf0dab8fbbf9ac9e5a785801dc06"
   ],
   "titles": [
-    "Griechenland - Waldbrände auf Insel Chios - Feuerwehr meldet erste Erfolge",
-    "Vor NATO-Gipfel - \"Deutschlands Iran-Politik war nicht richtig\"",
     "Gaza und Westbank - UNRWA warnt vor Hungersnot und Kollaps des Hilfswerks",
     "Parteien - AfD kommt in Bayern auf Liste extremistischer Organisationen",
     "Linkspartei - Reichinnek und Pellmann offiziell zu Fraktionschefs gewählt",
@@ -3003,11 +3001,11 @@
     "Krieg in der Ukraine - Ex-US-Sicherheitsberater: Kein Wendepunkt in US-Außenpolitik",
     "Syrien - Kämpfe in Suweida trotz Waffenruhe erneut aufgeflammt",
     "E-Autos: Rekordhoch bei Neuzulassungen",
-    "Kommentar zum Fall Brosius-Gersdorf: Zweifel sind angebracht"
+    "Kommentar zum Fall Brosius-Gersdorf: Zweifel sind angebracht",
+    "Reykjanes-Halbinsel - Erneuter Vulkanausbruch in Island - Fischerort Grindavik und Blaue Lagune evakuiert",
+    "Deutsche Bundesstiftung Umwelt - Fonds zum Schutz von Nord- und Ostsee gegründet"
   ],
   "hashes": [
-    "26187e55ce6ce33012e061b4b79bda3d",
-    "71447875d6eea97707caede5b368a3f4",
     "3b765c2d181f37aaef39b2ffacbd3732",
     "f08bd9413410e97df9d89977f303abcb",
     "741868903e07aa63454310acdbb26cb8",
@@ -4005,6 +4003,8 @@
     "93172b28599a5de53b27178831b4683e",
     "e5e3dde8172489f6c2670001c32d5720",
     "b5bacc6ea86b88b08a6d050b5e8c76e9",
-    "a4ce0f5519e53a2358aeec91fc54867d"
+    "a4ce0f5519e53a2358aeec91fc54867d",
+    "ad0bf36372b0e829f23d47f636287406",
+    "a7b1d7f52f01c3cfaa33289ed12214ef"
   ]
 }
