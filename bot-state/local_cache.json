@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-humanitaerer-hilfe-102.html",
-    "https://www.deutschlandfunk.de/konkursverwalter-hat-interessenten-fuer-insolventes-unternehmen-northvolt-100.html",
-    "https://www.deutschlandfunk.de/waldbrandgefahr-in-deutschland-ist-bereits-gross-100.html",
     "https://www.deutschlandfunk.de/waldbraende-auf-insel-chios-feuerwehr-meldet-erste-erfolge-102.html",
     "https://www.deutschlandfunk.de/nato-gipfel-im-schatten-der-iran-krise-interview-nico-lange-sich-exp-100.html",
     "https://www.deutschlandfunk.de/berlin-unrwa-generalkommissar-lazzarini-zur-lage-in-gaza-und-westbank-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/polizeinotruf-in-einigen-landesteilen-nicht-erreichbar-100.html",
     "https://www.deutschlandfunk.de/rund-17-millionen-menschen-in-deutschland-leben-allein-100.html",
     "https://www.deutschlandfunk.de/debatte-um-staatsbedienstete-und-afd-100.html",
-    "https://www.deutschlandfunk.de/aktuelle-lage-in-den-usa-interview-mit-ex-us-botschafter-john-bolton-100.html"
+    "https://www.deutschlandfunk.de/aktuelle-lage-in-den-usa-interview-mit-ex-us-botschafter-john-bolton-100.html",
+    "https://www.deutschlandfunk.de/kaempfe-in-suweida-trotz-waffenruhe-erneut-aufgeflammt-104.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/e-autos-rekordhoch-bei-neuzulassungen-a-0c1e6180-6025-47e0-bf2d-166aeeb99bf0#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-110592031.html"
   ],
   "content_hashes": [
-    "cc55b2c9dc0849d4a498edf0d5438874",
-    "8789da4e3c4d9eeb722a8374529f3354",
-    "f769409956472a6309fa02e531547dc8",
     "9107321843f1190287da282d8678d5c2",
     "d839fcc35860a46083613f1feccdd97d",
     "a54bc79c937c798a73b0acfe4eecd88a",
@@ -2001,12 +1998,12 @@
     "e1b5fbfab365127631ed0d10d404bb7d",
     "cb1d3368ff33806a1b8c2f06c9460cca",
     "a2e9c7fdb4386329bc58afa3ee7840a1",
-    "a1d4d6d39d7214cf277da287e436e47a"
+    "a1d4d6d39d7214cf277da287e436e47a",
+    "e80113fcfc5764067dd7d20b9d1d5f0a",
+    "c6b0e4bc77c19848666deeab2450c300",
+    "4a713e0d1f0cd03c88d7fd646347bfc5"
   ],
   "titles": [
-    "Bundeshaushalt - Kritik an Kürzungen bei humanitärer Hilfe",
-    "Batteriehersteller - Konkursverwalter hat Interessenten für insolventes Unternehmen Northvolt",
-    "Feuerwehrverband - \"Waldbrandgefahr in Deutschland ist bereits groß\"",
     "Griechenland - Waldbrände auf Insel Chios - Feuerwehr meldet erste Erfolge",
     "Vor NATO-Gipfel - \"Deutschlands Iran-Politik war nicht richtig\"",
     "Gaza und Westbank - UNRWA warnt vor Hungersnot und Kollaps des Hilfswerks",
@@ -3003,12 +3000,12 @@
     "Nordrhein-Westfalen - Polizeinotruf in einigen Landesteilen nicht erreichbar",
     "Mikrozensus 2024 - Rund 17 Millionen Menschen in Deutschland leben allein",
     "Umgang mit AfD - Rheinland-Pfalz überdenkt Regelung für Staatsdienst-Bewerber",
-    "Krieg in der Ukraine - Ex-US-Sicherheitsberater: Kein Wendepunkt in US-Außenpolitik"
+    "Krieg in der Ukraine - Ex-US-Sicherheitsberater: Kein Wendepunkt in US-Außenpolitik",
+    "Syrien - Kämpfe in Suweida trotz Waffenruhe erneut aufgeflammt",
+    "E-Autos: Rekordhoch bei Neuzulassungen",
+    "Kommentar zum Fall Brosius-Gersdorf: Zweifel sind angebracht"
   ],
   "hashes": [
-    "82e7cedb026e2e621167ef8b8e6e6704",
-    "86bd3eea2efb3605435a611ee0e28dfc",
-    "ccbbc5c2ff6b0795bcac84bf5ebe8fd0",
     "26187e55ce6ce33012e061b4b79bda3d",
     "71447875d6eea97707caede5b368a3f4",
     "3b765c2d181f37aaef39b2ffacbd3732",
@@ -4005,6 +4002,9 @@
     "1dfb7a9d498fefc7facab9af14c8e12d",
     "2ecba6e88e727984cdf92ad03fada2b6",
     "c223ddaf8c43ce4936e51833d7191db3",
-    "93172b28599a5de53b27178831b4683e"
+    "93172b28599a5de53b27178831b4683e",
+    "e5e3dde8172489f6c2670001c32d5720",
+    "b5bacc6ea86b88b08a6d050b5e8c76e9",
+    "a4ce0f5519e53a2358aeec91fc54867d"
   ]
 }
