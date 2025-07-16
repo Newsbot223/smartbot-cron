@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rechte-jugendgruppen-wachsen-schnell-100.html",
-    "https://www.deutschlandfunk.de/afd-spricht-von-politik-auf-kosten-kuenftiger-generationen-100.html",
-    "https://www.deutschlandfunk.de/grossbritannien-will-atomare-abschreckung-auch-auf-flugzeuge-stuetzen-kauf-von-jets-aus-den-usa-100.html",
     "https://www.faz.net/aktuell/politik/inland/krieg-in-nahost-die-afd-im-israel-iran-dilemma-110555573.html",
     "https://www.deutschlandfunk.de/ueber-40-tote-bei-drohnenangriff-auf-krankenhaus-100.html",
     "https://www.deutschlandfunk.de/schwere-versorgungsluecke-in-deutschland-fuer-ueberlebende-von-folter-und-gewalt-beklagt-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-1440-unbesetzte-lehrerstellen-entdeckt-110594045.html",
     "https://www.deutschlandfunk.de/theaterregisseur-claus-peymann-mit-88-jahren-gestorben-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-gleitbombenangriff-in-der-frontstadt-dobropillja-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-lehnt-deutliche-erhoehung-des-eu-etats-ab-100.html"
+    "https://www.deutschlandfunk.de/bundesregierung-lehnt-deutliche-erhoehung-des-eu-etats-ab-100.html",
+    "https://www.deutschlandfunk.de/treffen-der-g20-finanzminister-und-notenbankchefs-beginnt-102.html",
+    "https://www.deutschlandfunk.de/parlament-stimmt-ueber-neue-regierung-ab-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-grossbritannien-schliessen-einen-freundschaftsvertrag-102.html"
   ],
   "content_hashes": [
-    "42b40fd65aa65a463669fb95cab94f42",
-    "cb9a9a882d6a1d29f0b363c4c2c2c9f3",
-    "e5f07515c5a52d339dc22e74b0427b42",
     "3e677d7927121ad5e8d582a2ac865fe8",
     "5f6220738359398fbc38a7058492bc1e",
     "cd054008726f097c4d8ce939e629103c",
@@ -2001,12 +1998,12 @@
     "f12b054e52d4375b880e5a27abb61c9b",
     "4a93ce5e95e5029821eeee45e7020b4e",
     "0d316625c203d182562869b5184c0e1b",
-    "0b11c09a896b3c1fce6e04b3a0c41d8a"
+    "0b11c09a896b3c1fce6e04b3a0c41d8a",
+    "225439b3ce41f8149f2b3e7a47fb7062",
+    "352253f7cfdb813c498dc32269398c4b",
+    "77f36b5d51fa4567b857d75612d0d3db"
   ],
   "titles": [
-    "Bundeskriminalamt - Rechte Jugendgruppen wachsen schnell",
-    "5-Prozent-Ziel der NATO - AfD spricht von Politik auf Kosten künftiger Generationen",
-    "Premierminister Starmer - Großbritannien will atomare Abschreckung auch auf Flugzeuge stützen - Kauf von Jets aus den USA",
     "Krieg in Nahost: Die AfD im Israel-Iran-Dilemma",
     "Sudan - Über 40 Tote bei Drohnenangriff auf Krankenhaus",
     "Psychosoziale Versorgung - Schwere Versorgungslücke in Deutschland für Überlebende von Folter und Gewalt beklagt",
@@ -3003,12 +3000,12 @@
     "Baden-Württemberg: 1440 unbesetzte Lehrerstellen entdeckt",
     "Trauer - Theaterregisseur Claus Peymann mit 88 Jahren gestorben",
     "Ostukraine - Tote und Verletzte nach Gleitbombenangriff in der Frontstadt Dobropillja",
-    "Nach Vorschlag der Kommission - Bundesregierung lehnt deutliche Erhöhung des EU-Etats ab"
+    "Nach Vorschlag der Kommission - Bundesregierung lehnt deutliche Erhöhung des EU-Etats ab",
+    "Südafrika - Treffen der G20-Finanzminister und Notenbankchefs beginnt",
+    "Ukraine - Parlament stimmt über neue Regierung ab",
+    "Nach dem Brexit - Deutschland und Großbritannien schließen einen Freundschaftsvertrag"
   ],
   "hashes": [
-    "65c47d99bc450a33fb24a076a20d1ff1",
-    "1871cbf005c4e860640219ba853f9cab",
-    "16d5543cad422eee3dab223b31981aac",
     "6206f64b1a39962dcc1fa5299eed54a3",
     "2b6d6cf3f293eb83f2f486124f73bd0b",
     "77363bce8c9c07d00977ff8d1831119d",
@@ -4005,6 +4002,9 @@
     "33a15a553d4cffeb6955fe8d2fd09f1f",
     "d1edf1f101064bd3450f4e99a477c693",
     "bb98023360970a9206e28312a38e3ad0",
-    "494c5d138f506977d33c3825da9c8f49"
+    "494c5d138f506977d33c3825da9c8f49",
+    "b27835b8476e29475512e3fc8b0063eb",
+    "278a7e69560d00f360214a12599b1c26",
+    "427c8c20d991f22bae3d69c477b643f3"
   ]
 }
