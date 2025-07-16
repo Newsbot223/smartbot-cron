@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berlin-unrwa-generalkommissar-lazzarini-zur-lage-in-gaza-und-westbank-100.html",
-    "https://www.deutschlandfunk.de/afd-kommt-in-bayern-auf-liste-extremistischer-organisationen-100.html",
     "https://www.deutschlandfunk.de/reichinnek-und-pellmann-offiziell-zu-fraktionschefs-gewaehlt-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-44-tote-in-der-naehe-von-hilfszentren-im-gazastreifen-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-im-bundestag-lob-der-diplomatie-in-kriegszeiten-110555521.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/unternehmen/e-autos-rekordhoch-bei-neuzulassungen-a-0c1e6180-6025-47e0-bf2d-166aeeb99bf0#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-110592031.html",
     "https://www.deutschlandfunk.de/erneuter-vulkanausbruch-in-island-fischerort-grindavik-und-blaue-lagune-evakuiert-100.html",
-    "https://www.deutschlandfunk.de/fonds-zum-schutz-von-nord-und-ostsee-gegruendet-102.html"
+    "https://www.deutschlandfunk.de/fonds-zum-schutz-von-nord-und-ostsee-gegruendet-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-plant-drei-neue-chip-fabriken-in-deutschland-102.html",
+    "https://www.deutschlandfunk.de/israel-etabliert-neue-route-zur-teilung-von-chan-junis-im-gazastreifen-102.html"
   ],
   "content_hashes": [
-    "a54bc79c937c798a73b0acfe4eecd88a",
-    "e90d39659456a5bee1a681fccf310b6c",
     "9082f8932f3e555f7edec6fd8039b30c",
     "0cdfe096f1606c2242fc050265d25148",
     "e8098931364a33aaa6b7fa4a922949a3",
@@ -2001,11 +1999,11 @@
     "c6b0e4bc77c19848666deeab2450c300",
     "4a713e0d1f0cd03c88d7fd646347bfc5",
     "670f0a6d8f27202bfd7a282b43329b42",
-    "bfefaf0dab8fbbf9ac9e5a785801dc06"
+    "bfefaf0dab8fbbf9ac9e5a785801dc06",
+    "fd4f04a0f2fd72015c1bb181a8cdd88d",
+    "5a8f70509eab0d0a52ea8c160c1dc0e7"
   ],
   "titles": [
-    "Gaza und Westbank - UNRWA warnt vor Hungersnot und Kollaps des Hilfswerks",
-    "Parteien - AfD kommt in Bayern auf Liste extremistischer Organisationen",
     "Linkspartei - Reichinnek und Pellmann offiziell zu Fraktionschefs gewählt",
     "Nahost - Palästinenser melden 44 Tote in der Nähe von Hilfszentren im Gazastreifen",
     "Merz im Bundestag: Lob der Diplomatie in Kriegszeiten",
@@ -3003,11 +3001,11 @@
     "E-Autos: Rekordhoch bei Neuzulassungen",
     "Kommentar zum Fall Brosius-Gersdorf: Zweifel sind angebracht",
     "Reykjanes-Halbinsel - Erneuter Vulkanausbruch in Island - Fischerort Grindavik und Blaue Lagune evakuiert",
-    "Deutsche Bundesstiftung Umwelt - Fonds zum Schutz von Nord- und Ostsee gegründet"
+    "Deutsche Bundesstiftung Umwelt - Fonds zum Schutz von Nord- und Ostsee gegründet",
+    "Medienberichte - Bundesregierung plant drei neue Chip-Fabriken in Deutschland",
+    "Nahost - Israel etabliert neue Route zur Teilung von Chan Junis im Gazastreifen"
   ],
   "hashes": [
-    "3b765c2d181f37aaef39b2ffacbd3732",
-    "f08bd9413410e97df9d89977f303abcb",
     "741868903e07aa63454310acdbb26cb8",
     "1e52d6ffa3be495392de00421a0b195e",
     "e36f3bbeffba026f21772798b1b2396d",
@@ -4005,6 +4003,8 @@
     "b5bacc6ea86b88b08a6d050b5e8c76e9",
     "a4ce0f5519e53a2358aeec91fc54867d",
     "ad0bf36372b0e829f23d47f636287406",
-    "a7b1d7f52f01c3cfaa33289ed12214ef"
+    "a7b1d7f52f01c3cfaa33289ed12214ef",
+    "551545d75c018491370534e07f6a2b5f",
+    "05adddb270856006215026173def265a"
   ]
 }
