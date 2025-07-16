@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeskabinett-soll-haushaltsentwurf-von-finanzminister-klingbeil-spd-beschliessen-gruene-kritisiere-100.html",
-    "https://www.deutschlandfunk.de/drei-tote-bei-russischem-drohnenangriff-in-sumy-100.html",
-    "https://www.deutschlandfunk.de/kabinett-beschliesst-bundeshaushalt-102.html",
-    "https://www.deutschlandfunk.de/supreme-court-erlaubt-abschiebung-von-migranten-in-drittlaender-102.html",
     "https://www.faz.net/aktuell/politik/inland/rechtsextremtes-compact-magazin-bundesverwaltungsgericht-verkuendet-urteil-110554418.html",
     "https://www.deutschlandfunk.de/mehr-menschen-verlassen-deutschland-richtung-anderer-eu-laender-102.html",
     "https://www.spiegel.de/politik/deutschland/deutschland-nettozuwanderung-2024-weiter-gesunken-a-9185bccb-12a4-445d-bc7e-3ca1a819fa70#ref=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/entwurf-fuer-haushalt-ab-2028-wird-vorgestellt-100.html",
     "https://www.deutschlandfunk.de/eu-droht-beitrittskandidat-georgien-mit-sanktionen-102.html",
     "https://www.deutschlandfunk.de/entwurf-fuer-haushalt-ab-2028-wird-heute-vorgestellt-100.html",
-    "https://www.deutschlandfunk.de/pentagon-ordnet-teilabzug-von-nationalgarde-aus-los-angeles-an-100.html"
+    "https://www.deutschlandfunk.de/pentagon-ordnet-teilabzug-von-nationalgarde-aus-los-angeles-an-100.html",
+    "https://www.deutschlandfunk.de/bundesbildungsministerin-prien-fordert-einigung-der-laender-ueber-sommerferien-beginn-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-bei-internationalen-finanzunternehmen-fuer-investitionen-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/erneut-naechtliche-luftangriffe-russlands-zwei-tote-in-region-charkiw-100.html",
+    "https://www.deutschlandfunk.de/schulen-in-grossbritannien-behandeln-frauenfeindlichkeit-im-unterricht-100.html"
   ],
   "content_hashes": [
-    "d4bd7d26de377c44d87a582ab72f5df7",
-    "c72e7eee5ddd3f4c7fd83af5b6015786",
-    "41a24be20486e38bd59602636ff52bbf",
-    "ef049588de2354b5db4e36a874238637",
     "11e073797710f1ad393b78db748fbf3b",
     "fa9bdaace93cc3c33aeabd26facacef1",
     "1be6494c6c9ad9df1349968df391c200",
@@ -2001,13 +1997,13 @@
     "0f20c7b9c96ce781b93f7d3bc3900e34",
     "2ead00b08a2e81832a587a9d7ef71f04",
     "75ca21b49e85bf3fc9f23b1ab5136aa0",
-    "b86a6a064dea03b15bc35665c315e281"
+    "b86a6a064dea03b15bc35665c315e281",
+    "fa6f121980d1bedc8761809e7f42559f",
+    "08ad431eaae60a509724ebf64d83fd8b",
+    "d05b32bea76d8e0d79fc953af461aaf2",
+    "dd03a2cfa99afab0a5edf8ede09e1865"
   ],
   "titles": [
-    "Finanzen - Bundeskabinett soll Haushaltsentwurf von Finanzminister Klingbeil (SPD) beschließen - Grüne kritisieren Schuldenpolitik",
-    "Bericht - Drei Tote bei russischem Drohnenangriff in Sumy",
-    "Finanzen - Kabinett beschließt Bundeshaushalt",
-    "USA - Supreme Court erlaubt Abschiebung von Migranten in Drittländer",
     "Bundesverwaltungsgericht: Compact-Verbot wird aufgehoben",
     "Statistik - Mehr Menschen verlassen Deutschland Richtung anderer EU-Länder",
     "Deutschland: Nettozuwanderung 2024 weiter gesunken",
@@ -3003,13 +2999,13 @@
     "EU-Kommission - Entwurf für Haushalt ab 2028 wird vorgestellt",
     "\"Demokratischer Rückschritt\" - EU droht Beitrittskandidat Georgien mit Sanktionen",
     "EU-Kommission - Entwurf für Haushalt ab 2028 wird heute vorgestellt",
-    "USA - Pentagon ordnet Teilabzug von Nationalgarde aus Los Angeles an"
+    "USA - Pentagon ordnet Teilabzug von Nationalgarde aus Los Angeles an",
+    "Urlaub - Bundesbildungsministerin Prien fordert Einigung der Länder über Sommerferien-Beginn",
+    "Treffen im Kanzleramt - Bundeskanzler Merz wirbt bei internationalen Finanzunternehmen für Investitionen in Deutschland",
+    "Ukraine-Krieg - Erneut nächtliche Luftangriffe Russlands - zwei Tote in Region Charkiw",
+    "Neue Richtlinie - Schulen in Großbritannien behandeln Frauenfeindlichkeit im Unterricht"
   ],
   "hashes": [
-    "78e148a359ff6a74dbe0d634aceed437",
-    "68542fc9b602ad64bc1733f4f2ad67b7",
-    "3e824672f5a2e05f395240657f5ac6ed",
-    "ab4955185f3d6710d53c3caecfb2c3c7",
     "e37db21b6ffa4f016928ab7e32529838",
     "928ac420171212b33c1ec7b254d6692c",
     "f761c3429fcc7d8ed2dff895dcd4e485",
@@ -4005,6 +4001,10 @@
     "0c5ea44be256b58722105f5adc243faf",
     "4feb15ff500a7189d3c93b915cce6d89",
     "11399e63c63db2d26df5aed4cafc7893",
-    "e908970e314b0ce758946d52b7d58ff0"
+    "e908970e314b0ce758946d52b7d58ff0",
+    "ddced9108d7f70995e6997fa4cab26c6",
+    "42a067024abf2fa26ba84ec81a764d96",
+    "2edfcc3b79db0644b6bd8368c6eb66c9",
+    "ad57841f88f1bab8efbade35731e2e11"
   ]
 }
