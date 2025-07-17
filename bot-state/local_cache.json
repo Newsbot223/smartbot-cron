@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bundeswehr-planung-ist-das-gesundheitssystem-auf-den-kriegsfall-vorbereitet-110553289.html",
-    "https://www.deutschlandfunk.de/saarland-verbietet-handys-an-grund-und-foerderschulen-102.html",
-    "https://www.deutschlandfunk.de/reallohnplus-in-der-eurozone-erstmals-seit-2021-wieder-hoeherer-anstieg-bei-tariflichen-zahlungen-al-100.html",
     "https://www.deutschlandfunk.de/diskriminierungen-in-deutschland-nehmen-zu-100.html",
     "https://www.faz.net/aktuell/politik/inland/antifa-stoert-kretschmers-rede-im-landtag-110557123.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/landespolitik-will-hessens-verteidigungsfaehigkeit-staerken-110557143.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zahl-der-geburten-in-deutschland-sinkt-weiter-100.html",
     "https://www.deutschlandfunk.de/das-wirtschaftsgespraech-120.html",
     "https://www.deutschlandfunk.de/bgh-versandapotheke-im-eu-ausland-durfte-praemien-fuer-rezeptpflichtige-medikamente-zahlen-100.html",
-    "https://www.deutschlandfunk.de/mindestens-60-tote-bei-brand-in-einkaufszentrum-100.html"
+    "https://www.deutschlandfunk.de/mindestens-60-tote-bei-brand-in-einkaufszentrum-100.html",
+    "https://www.deutschlandfunk.de/parlament-waehlt-swyrydenko-zur-neuen-ministerpraesidentin-100.html",
+    "https://www.deutschlandfunk.de/moskau-und-kiew-uebergeben-erneut-leichen-von-gefallenen-soldaten-100.html",
+    "https://www.deutschlandfunk.de/bgh-zieht-enge-grenzen-fuer-payback-punkte-bei-medizinprodukten-100.html"
   ],
   "content_hashes": [
-    "1262bb288dc1031e56eea769410a2744",
-    "7dc2806597912bc1aacdc22ff891eb00",
-    "a2ff85ae2e645e7a29c443d7b6ff2d1a",
     "3bbf21c0a2b879e4dc4c9d4a3cbc9a38",
     "29ab879276063b765221a1a9bd526de2",
     "34516a9d7ba89aa1bd6656eea152b098",
@@ -2001,12 +1998,12 @@
     "2749f21a1575763a044a2e8f44948e77",
     "e1bce71bea1499eac3455b5358d7611c",
     "8376efc7b3c9c0f5083641ee8a850723",
-    "f73732b671ac84dbe4e75bfac1d6c93f"
+    "f73732b671ac84dbe4e75bfac1d6c93f",
+    "6b2b56f18937c4b0a86b4540a74dbbd7",
+    "9ed24092aef67ece6ecc180f407f310d",
+    "ff8913091b94f7d0d2457de9c4199192"
   ],
   "titles": [
-    "Ist das Gesundheitssystem auf den Kriegsfall vorbereitet?",
-    "Landtagsbeschluss - Saarland verbietet Handys an Grund- und Förderschulen",
-    "Arbeitsmarkt - Reallohnplus in der Eurozone - erstmals seit 2021 wieder höherer Anstieg bei tariflichen Zahlungen als bei Verbraucherpreisen",
     "Gesellschaft - Diskriminierungen in Deutschland nehmen zu",
     "Kretschmers Rede gestört: Antifa fordert Rückführung von Maja T. aus Ungarn",
     "Landespolitik will Hessens Verteidigungsfähigkeit stärken",
@@ -3003,12 +3000,12 @@
     "Statistisches Bundesamt - Zahl der Geburten in Deutschland sinkt weiter",
     "Zollkonflikt mit USA - Chemieindustrie drängt auf schnelle Einigung",
     "Urteil - BGH: Versandapotheke im EU-Ausland durfte Prämien für rezeptpflichtige Medikamente zahlen",
-    "Irak - Mindestens 60 Tote bei Brand in Einkaufszentrum"
+    "Irak - Mindestens 60 Tote bei Brand in Einkaufszentrum",
+    "Ukraine - Parlament wählt Swyrydenko zur neuen Ministerpräsidentin",
+    "Ukraine-Krieg - Moskau und Kiew übergeben erneut Leichen von gefallenen Soldaten",
+    "Heilmittelwerbegesetz - BGH zieht enge Grenzen für Payback-Punkte bei Medizinprodukten"
   ],
   "hashes": [
-    "b6cc62b7dcb55bffcb52f15dbba4eea9",
-    "f7b29db5b4dff1a5db13b810b6386c90",
-    "e74061f876947815dc10f92e525f721c",
     "b2d83bf34e9d399ec92cc9df7b4d4eaf",
     "1dfaf7977ccdcf6d197854e99a82da7e",
     "d191502c6195f23fee36926707a12ca4",
@@ -4005,6 +4002,9 @@
     "fa304d8c0f077ac866ad14e40e74485e",
     "7c58d9ffbe1b961e230bd46d97bcc1ba",
     "5591c658dd8e132669c34fd787d66134",
-    "42ef82a1c88f8bb65c0c8e60ebdff205"
+    "42ef82a1c88f8bb65c0c8e60ebdff205",
+    "3d9f510df200c5ea20965ac0bf67013b",
+    "02d19b1dbb1d12eb04f778e436769344",
+    "d7e0ff4f4d2fc7ccf106fc736db8b43e"
   ]
 }
