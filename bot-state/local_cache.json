@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/anhaltende-kritik-an-stromsteuersenkung-nur-fuer-die-industrie-und-landwirtschaft-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-protestieren-gegen-polizeigewalt-100.html",
-    "https://www.spiegel.de/wirtschaft/soziales/studie-deutsche-tarifbeschaeftigte-streiken-zehn-minuten-pro-jahr-a-09909239-89bb-4233-af98-0dac6faedce5#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/nach-hackerangriff-polizei-muss-wieder-auf-funkgeraete-zurueckgreifen-110557319.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/zuerst-zum-hausarzt-statt-zum-facharzt-hessen-als-vorbild-fuer-den-bund-110555764.html",
     "https://www.faz.net/aktuell/politik/ukraine/zeitenwende-wie-die-ukraine-deutschland-helfen-kann-110555574.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bgh-zieht-enge-grenzen-fuer-payback-punkte-bei-medizinprodukten-100.html",
     "https://www.faz.net/aktuell/politik/inland/maximilian-krah-wenn-ein-rechtsextremist-fuer-vielfalt-wirbt-110593717.html",
     "https://www.deutschlandfunk.de/datenschuetzer-legen-beschwerde-gegen-tiktok-und-andere-chinesische-unternehmen-ein-100.html",
-    "https://www.faz.net/aktuell/politik/inland/schuster-bezeichnet-wadephuls-aeusserung-ueber-zwangssolidaritaet-als-entgleisung-110593344.html"
+    "https://www.faz.net/aktuell/politik/inland/schuster-bezeichnet-wadephuls-aeusserung-ueber-zwangssolidaritaet-als-entgleisung-110593344.html",
+    "https://www.deutschlandfunk.de/bundeslaender-und-umweltschutzorganisationen-kritisieren-plaene-der-eu-kommission-fuer-agrarsubventi-102.html",
+    "https://www.deutschlandfunk.de/it-panne-in-baden-wuerttemberg-1-440-lehrerstellen-jahrelang-unbesetzt-gewerkschaften-reagieren-empo-100.html",
+    "https://www.deutschlandfunk.de/berichte-israelischer-angriff-trifft-kirche-in-gaza-100.html"
   ],
   "content_hashes": [
-    "df7479f9e22a5a4d07fd578159790204",
-    "9fa838590efab1e1c87d2ae5fd2a7bd8",
-    "a494a6ed074e7685dd0eb509f9719e6e",
     "44b39d06ea8e1dafa6db08f8c3e21c0f",
     "c620981a10e41cc62d291fd8a3392b47",
     "4072264b039c1b97e7450c2628d184b9",
@@ -2001,12 +1998,12 @@
     "ff8913091b94f7d0d2457de9c4199192",
     "f13c6f8fa0ecfa96f415166121dd5ff1",
     "847079b96373b38328948ad7da3bfcf2",
-    "846836f2e1419852847b8b16abf84c64"
+    "846836f2e1419852847b8b16abf84c64",
+    "1e46fe502fe10cf66ee65a2a26348fc4",
+    "1caa4b4287f2b1df898ed9296a2ececb",
+    "d93c4db1970249beeda54823d2b87230"
   ],
   "titles": [
-    "Bundesregierung - Anhaltende Kritik an Stromsteuersenkung nur für die Industrie und Landwirtschaft",
-    "Kenia - Zehntausende protestieren gegen Polizeigewalt",
-    "Studie: Deutsche Tarifbeschäftigte streiken zehn Minuten pro Jahr",
     "Nach Hackerangriff: Polizei muss wieder auf Funkgeräte zurückgreifen",
     "Primärarzt-Modell: Wo Hausärzte schon Lotsen sind",
     "Zeitenwende weiterdenken: Wie die Ukraine uns helfen kann",
@@ -3003,12 +3000,12 @@
     "Heilmittelwerbegesetz - BGH zieht enge Grenzen für Payback-Punkte bei Medizinprodukten",
     "Maximilian Krah: Wirbt ein Rechtsextremist für Vielfalt",
     "NGO Noyb - Datenschützer legen Beschwerde gegen TikTok und andere chinesische Unternehmen ein",
-    "Josef Schuster: „Wadephuls Aussage war eine Entgleisung“"
+    "Josef Schuster: „Wadephuls Aussage war eine Entgleisung“",
+    "Europäische Union - Bundesländer und Umweltschutzorganisationen kritisieren Pläne der EU-Kommission für Agrarsubventionen",
+    "Bildung - IT-Panne in Baden-Württemberg: 1.440 Lehrerstellen jahrelang unbesetzt - Gewerkschaften reagieren empört",
+    "Nahost - Berichte: Israelischer Angriff trifft Kirche in Gaza"
   ],
   "hashes": [
-    "b0c50967c1d03458aab37f24eac0b982",
-    "4995cb9ad177f9845462184630e3de3f",
-    "f005f13f779f8c1c288858c880155a74",
     "e7ab9aa5fea6afa491a6a0742b994a46",
     "caece96c3733bdf155ed8c53194345e1",
     "fb05d8139d6fcec494830f7ce5644de5",
@@ -4005,6 +4002,9 @@
     "d7e0ff4f4d2fc7ccf106fc736db8b43e",
     "6149d01bc6d9645cf7c191404a936df6",
     "9f69fdb575aea91aaeef69f828740358",
-    "6517cf2db9d07c78ef724b24b5899a82"
+    "6517cf2db9d07c78ef724b24b5899a82",
+    "1d08bb63cfeaec408fa5fe5d13721df0",
+    "dba582f7ff1ee1970debff7e6837ca5e",
+    "18e6698c7f19ff08c4f49b62c83ce9cc"
   ]
 }
