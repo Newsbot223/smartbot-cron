@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/zuerst-zum-hausarzt-statt-zum-facharzt-hessen-als-vorbild-fuer-den-bund-110555764.html",
-    "https://www.faz.net/aktuell/politik/ukraine/zeitenwende-wie-die-ukraine-deutschland-helfen-kann-110555574.html",
     "https://www.deutschlandfunk.de/eu-kommission-macht-weg-fuer-industriestrompreis-frei-100.html",
     "https://www.deutschlandfunk.de/reiche-kritisiert-habeck-fuer-northvolt-foerderung-102.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-stellt-finanzielle-unterstuetzung-ein-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeslaender-und-umweltschutzorganisationen-kritisieren-plaene-der-eu-kommission-fuer-agrarsubventi-102.html",
     "https://www.deutschlandfunk.de/it-panne-in-baden-wuerttemberg-1-440-lehrerstellen-jahrelang-unbesetzt-gewerkschaften-reagieren-empo-100.html",
     "https://www.deutschlandfunk.de/berichte-israelischer-angriff-trifft-kirche-in-gaza-100.html",
-    "https://www.deutschlandfunk.de/senat-stimmt-fuer-kuerzungen-beim-nicht-kommerziellen-rundfunk-102.html"
+    "https://www.deutschlandfunk.de/senat-stimmt-fuer-kuerzungen-beim-nicht-kommerziellen-rundfunk-102.html",
+    "https://www.deutschlandfunk.de/frankreich-uebergibt-letzte-militaerstuetzpunkte-an-senegal-100.html",
+    "https://www.deutschlandfunk.de/katholische-kirche-in-gaza-von-israelischer-granate-getroffen-papst-tief-traurig-ueber-tote-und-verl-102.html"
   ],
   "content_hashes": [
-    "c620981a10e41cc62d291fd8a3392b47",
-    "4072264b039c1b97e7450c2628d184b9",
     "45465c4bb53323aab0aef60de2d1f583",
     "c898c93088fd7ec4c102d1d14aa3805d",
     "d6b99872c7f372c9b98d3fdf94e2a082",
@@ -2001,11 +1999,11 @@
     "1e46fe502fe10cf66ee65a2a26348fc4",
     "1caa4b4287f2b1df898ed9296a2ececb",
     "d93c4db1970249beeda54823d2b87230",
-    "25359cd7092f74b07bd9db4fe7a203b9"
+    "25359cd7092f74b07bd9db4fe7a203b9",
+    "4e878a0f760eb0fe1710974143659cd3",
+    "2b680faa4670f0199de8c532cde864ab"
   ],
   "titles": [
-    "Primärarzt-Modell: Wo Hausärzte schon Lotsen sind",
-    "Zeitenwende weiterdenken: Wie die Ukraine uns helfen kann",
     "Brüssel - EU-Kommission macht Weg für Industriestrompreis frei",
     "Steuergeld - Reiche kritisiert Habeck für Northvolt-Förderung",
     "Zivile Seenotrettung - Auswärtiges Amt stellt finanzielle Unterstützung ein",
@@ -3003,11 +3001,11 @@
     "Europäische Union - Bundesländer und Umweltschutzorganisationen kritisieren Pläne der EU-Kommission für Agrarsubventionen",
     "Bildung - IT-Panne in Baden-Württemberg: 1.440 Lehrerstellen jahrelang unbesetzt - Gewerkschaften reagieren empört",
     "Nahost - Berichte: Israelischer Angriff trifft Kirche in Gaza",
-    "USA - Senat stimmt für Kürzungen beim nicht-kommerziellen Rundfunk"
+    "USA - Senat stimmt für Kürzungen beim nicht-kommerziellen Rundfunk",
+    "Afrika - Frankreich übergibt letzte Militärstützpunkte an Senegal",
+    "Nahost - Katholische Kirche in Gaza von israelischer Granate getroffen -Papst \"tief traurig\" über Tote und Verletzte"
   ],
   "hashes": [
-    "caece96c3733bdf155ed8c53194345e1",
-    "fb05d8139d6fcec494830f7ce5644de5",
     "5acb464a80d030a2cc1b48af44f61277",
     "bd5bab2e24615191627c29bda1605628",
     "f802ca29ecd83b020a30bf0a30e8a786",
@@ -4005,6 +4003,8 @@
     "1d08bb63cfeaec408fa5fe5d13721df0",
     "dba582f7ff1ee1970debff7e6837ca5e",
     "18e6698c7f19ff08c4f49b62c83ce9cc",
-    "1d16ae347cb1015e0fddec446dca019d"
+    "1d16ae347cb1015e0fddec446dca019d",
+    "b35833a1ba312b46daa832aefa1aa867",
+    "a7566d2518a96b77bbca4cc1c4b49d76"
   ]
 }
