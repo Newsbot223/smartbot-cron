@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-regierung-will-aus-finanzierung-von-impfallianz-gavi-aussteigen-100.html",
-    "https://www.deutschlandfunk.de/beratungen-ueber-aufarbeitungskommission-zur-corona-pandemie-100.html",
-    "https://www.deutschlandfunk.de/zahlreiche-soldaten-bei-angriffen-auf-armeestuetzpunkte-getoetet-100.html",
     "https://www.deutschlandfunk.de/erzbischof-unter-putschversuch-festgenommen-100.html",
     "https://www.deutschlandfunk.de/bosnien-einsatz-der-bundeswehr-verlaengert-100.html",
     "https://www.deutschlandfunk.de/koalitionaere-unterschiedlicher-auffassung-ueber-vorwuerfe-spahn-sieht-vorwuerfe-entkraeftet-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/beduinen-starten-trotz-waffenruhe-offensive-gegen-drusen-102.html",
     "https://www.deutschlandfunk.de/slowenien-verhaengt-sanktionen-gegen-zwei-israelische-politiker-102.html",
     "https://www.deutschlandfunk.de/rechtsextremer-politiker-udo-voigt-ist-tot-100.html",
-    "https://www.deutschlandfunk.de/slowakei-kuendigt-zustimmung-zu-neuen-russland-sanktionen-an-100.html"
+    "https://www.deutschlandfunk.de/slowakei-kuendigt-zustimmung-zu-neuen-russland-sanktionen-an-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-will-mit-amtskollegen-ueber-migration-beraten-100.html",
+    "https://www.deutschlandfunk.de/us-regierung-verurteilt-gewalt-im-sueden-syriens-102.html",
+    "https://www.deutschlandfunk.de/pogacar-dominiert-12-etappe-und-uebernimmt-wieder-gelb-114.html"
   ],
   "content_hashes": [
-    "851fc2bdf757c8752b826c7c97ddc3f5",
-    "4701ea9b6e7aee595a2ac17b65eef36f",
-    "f920ec5ab839dad613ceba925f8604ea",
     "71078d101e8a0ab9e0577f6afd781b8e",
     "cb69713a209c716773b3421ae126b96a",
     "b66a7162503e9b11443747e86911a742",
@@ -2001,12 +1998,12 @@
     "4cbeb3160f822ed3c79c23543558cbb3",
     "c56941e7ae6d6f9c851756a48064fcd0",
     "43f0bfcac007215ebb66bd13b50e31ee",
-    "e2ca20af41554b8fd9dadb098ca47b8b"
+    "e2ca20af41554b8fd9dadb098ca47b8b",
+    "c630d9b88bb97209df50e5c3164affb0",
+    "eabd2c6285eef787f83589ed3b13fb08",
+    "e5f1a9ffb0a7342e4255de1e75795a83"
   ],
   "titles": [
-    "Gesundheitspolitik - US-Regierung will aus Finanzierung von Impfallianz Gavi aussteigen",
-    "Bundestag - Beratungen über Aufarbeitungskommission zur Corona-Pandemie",
-    "Nigeria - Zahlreiche Soldaten bei Angriffen auf Armeestützpunkte getötet",
     "Armenien - Erzbischof unter Putschversuch festgenommen",
     "Bundestag - Bosnien-Einsatz der Bundeswehr verlängert",
     "Maskenbeschaffung - Koalitionäre unterschiedlicher Auffassung über Vorwürfe - Spahn sieht Vorwürfe \"entkräftet\"",
@@ -3003,12 +3000,12 @@
     "Syrien - Beduinen starten trotz Waffenruhe Offensive gegen Drusen",
     "Nahost - Slowenien verhängt Sanktionen gegen zwei israelische Politiker",
     "Früherer NPD-Chef - Rechtsextremer Politiker Udo Voigt ist tot",
-    "Nach Veto - Slowakei kündigt Zustimmung zu neuen Russland-Sanktionen an"
+    "Nach Veto - Slowakei kündigt Zustimmung zu neuen Russland-Sanktionen an",
+    "Treffen auf der Zugspitze - Dobrindt will mit Amtskollegen über Migration beraten",
+    "Syrien - US-Regierung verurteilt Gewalt im Süden Syriens",
+    "Tour de France - Pogacar dominiert 12. Etappe und übernimmt wieder Gelb"
   ],
   "hashes": [
-    "7acef10df90777bcf4b67f33bc8da577",
-    "10fb1e622563a58cf0ac2225c3e2640b",
-    "724f38c9b6740d2b74297b1d5f7f2e47",
     "49232ddbdbf151a44f1962bde733469b",
     "46880524f3348ce631c6cfed09d25047",
     "9688670f24a6347a9f4a0cc0fe6b0c40",
@@ -4005,6 +4002,9 @@
     "ff794e69b6655f13a0915652eb737f39",
     "d3797f7cffe8bc6a351861cec17f17b7",
     "977832ec3a00c5bf0549bc464ef2976a",
-    "58b235b1b805d40820b47f5fdd6ef779"
+    "58b235b1b805d40820b47f5fdd6ef779",
+    "090561b6fd58e22f0f722a4a4e17fb51",
+    "94ffffea31347dff284ee4fe5d6408ce",
+    "25f1576660d79d44748322fb905a0ff5"
   ]
 }
