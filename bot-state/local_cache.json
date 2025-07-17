@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-organisationen-kritisieren-geplante-kuerzungen-bei-humanitaerer-hilfe-und-entwicklung-100.html",
-    "https://www.spiegel.de/wissenschaft/medizin/masern-kinderlaehmung-tetanus-forschende-warnen-vor-dem-verpassen-des-who-impfziels-a-f9364925-d66d-4e97-a64d-2b7d56c16753#ref=rss",
     "https://www.aljazeera.com/video/counting-the-cost/2025/6/25/why-is-nato-boosting-defence-spending-and-can-europe-afford-it?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/linke-veraergert-spd-die-droht-reichinnek-mit-konsequenzen-110557573.html",
     "https://www.faz.net/einspruch/was-bedeutet-die-aufhebung-des-compact-verbots-110557423.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/katholische-kirche-in-gaza-von-israelischer-granate-getroffen-papst-tief-traurig-ueber-tote-und-verl-102.html",
     "https://www.deutschlandfunk.de/tiktok-beschaeftigte-protestieren-gegen-drohende-kuendigungen-im-bereich-content-moderation-102.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-abgeordnete-winkelmeier-becker-brosius-gersdorf-hat-anderes-menschenbild-110594737.html",
-    "https://www.deutschlandfunk.de/union-und-spd-gegen-bundestags-sondersitzung-waehrend-der-sommerpause-100.html"
+    "https://www.deutschlandfunk.de/union-und-spd-gegen-bundestags-sondersitzung-waehrend-der-sommerpause-100.html",
+    "https://www.deutschlandfunk.de/nach-brand-tomorrowland-trotz-zerstoerter-haupttribuene-eroeffnet-102.html",
+    "https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss"
   ],
   "content_hashes": [
-    "5caf29d370aa753ee02e826cec69c3ce",
-    "b140872ea1308f76fafdb4b7bb7eaa86",
     "bc1aceacb7de0ca4f184ab57c3482bb2",
     "84efced58ef39566d5e8b5fb83b1d170",
     "c3f73732a1ee580ea19be640fc8057a9",
@@ -2001,11 +1999,11 @@
     "2b680faa4670f0199de8c532cde864ab",
     "c929005fbcb81a066700f2514a7588a3",
     "909893b82d7e9c7f31575f2991c747b4",
-    "12fd84028c06ce349f4b20f1410cfaa8"
+    "12fd84028c06ce349f4b20f1410cfaa8",
+    "47a6f13af8588626580602becc4b7dec",
+    "d1f463f7439648aac4f79d495875d25c"
   ],
   "titles": [
-    "\"Lebensrettender Schutz\" - UNO-Organisationen kritisieren geplante Kürzungen bei humanitärer Hilfe und Entwicklung",
-    "Masern, Kinderlähmung, Tetanus: Forschende warnen vor dem Verpassen des WHO-Impfziels",
     "Why is NATO boosting defence spending and can Europe afford it?",
     "Familiennachzug: Linke verärgert SPD – die droht Reichinnek mit Konsequenzen",
     "Was bedeutet die Aufhebung des „Compact“-Verbots?",
@@ -3003,11 +3001,11 @@
     "Nahost - Katholische Kirche in Gaza von israelischer Granate getroffen -Papst \"tief traurig\" über Tote und Verletzte",
     "Berlin - Tiktok-Beschäftigte protestieren gegen drohende Kündigungen im Bereich Content-Moderation",
     "Winkelmeier-Becker (CDU): Brosius-Gersdorf teilt nicht unser Weltbild",
-    "Nach gescheiterter Richterwahl - Union und SPD gegen Bundestags-Sondersitzung während der Sommerpause"
+    "Nach gescheiterter Richterwahl - Union und SPD gegen Bundestags-Sondersitzung während der Sommerpause",
+    "Musikfestival - Nach Brand: Tomorrowland trotz zerstörter Haupttribüne eröffnet",
+    "Früherer Trigema-Chef: Wolfgang Grupp macht Suizidversuch öffentlich"
   ],
   "hashes": [
-    "85d06f202d95bf1ea6dda754b0318fa2",
-    "71ffd56b947d0a50f51a827b21d79e2a",
     "2f43391c5b6c6e0f41868cb9a0d58d00",
     "a6c75a97349edfbd843ca1369b583634",
     "7252bc382c1ee276ddfcc3aeefc4913c",
@@ -4005,6 +4003,8 @@
     "a7566d2518a96b77bbca4cc1c4b49d76",
     "005e1538ca9ccfa3b7b3ab8a45673313",
     "20188344ac94c1334c3f08f9ed6e0ec2",
-    "ab92ea4095cb5e1f4fcdb44f636cb3f7"
+    "ab92ea4095cb5e1f4fcdb44f636cb3f7",
+    "28bc534115a7919d6e68d2ece37616df",
+    "7be9cf701a55cdfb174d557ac46a41e0"
   ]
 }
