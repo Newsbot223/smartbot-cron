@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundestag-beschliesst-steuerliche-entlastungen-fuer-unternehmen-100.html",
-    "https://www.deutschlandfunk.de/merz-fordert-mehr-tempo-der-europaeischen-kommission-in-zollverhandlungen-mit-trump-102.html",
-    "https://www.deutschlandfunk.de/ein-toter-bei-luftangriff-in-region-cherson-100.html",
     "https://www.deutschlandfunk.de/landwirtschaftsminister-rainer-gegen-preisaufschlaege-fuer-fleisch-100.html",
     "https://www.deutschlandfunk.de/china-sieht-in-moskaunahem-buendnis-stabilitaetsanker-kritik-an-nato-100.html",
     "https://www.deutschlandfunk.de/dune-regisseur-denis-villeneuve-dreht-neuen-bond-film-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/abschiebeflug-aus-deutschland-nach-afghanistan-gestartet-kritik-von-menschenrechtsorganisationen-100.html",
     "https://www.deutschlandfunk.de/china-meldet-schmuggel-seltener-erden-durch-auslaendische-geheimdienste-100.html",
     "https://www.deutschlandfunk.de/erdbeben-in-neapel-menschen-fluechten-ins-freie-100.html",
-    "https://www.deutschlandfunk.de/extrem-schlechte-erdbeer-und-spargelernten-102.html"
+    "https://www.deutschlandfunk.de/extrem-schlechte-erdbeer-und-spargelernten-102.html",
+    "https://www.deutschlandfunk.de/dobrindt-beraet-mit-innenministern-mehrerer-eu-staaten-ueber-migration-100.html",
+    "https://www.deutschlandfunk.de/hohe-zoelle-export-deutscher-autos-in-die-usa-im-april-und-mai-eingebrochen-100.html",
+    "https://www.faz.net/aktuell/livestream-bundeskanzler-merz-im-sommer-interview-110596575.html"
   ],
   "content_hashes": [
-    "20777db98d3abd052ec852a7a1d85884",
-    "ae1d99d68d6f201a526c3eade3ca78b8",
-    "3669284e1c27eef308490f31f7897a02",
     "30231d71c5014e2d81a2d2a601d46216",
     "dc4365692d4f85c74b1565e84fac1647",
     "39aba371cc3d7be4d195ad4f149388af",
@@ -2001,12 +1998,12 @@
     "474dcd5d9423ec47487f720ecc827bc0",
     "cf95bdf969b2ba82fcc67ebfa275da24",
     "80dd049d60a893019209e392c618e069",
-    "55a8c93bce569cd631914f87335c9230"
+    "55a8c93bce569cd631914f87335c9230",
+    "b1fd590940d47fbaa89146f1f45d0662",
+    "839f3d779e38619b2c0b09c65e233c9c",
+    "add4c49cbef0344d0e3ca6ae5c684602"
   ],
   "titles": [
-    "\"Investitionsbooster\" - Bundestag beschließt steuerliche Entlastungen für Unternehmen",
-    "EU-Gipfel - Merz fordert mehr Tempo der Europäischen Kommission in Zollverhandlungen mit Trump",
-    "Ukraine-Krieg - Ein Toter bei Luftangriff in Region Cherson",
     "Bauerntag - Landwirtschaftsminister Rainer gegen Preisaufschläge für Fleisch",
     "Sicherheitspolitik - China sieht in moskaunahem Bündnis \"Stabilitätsanker\" - Kritik an NATO",
     "Filmstudio Amazon MGM - \"Dune\"-Regisseur Denis Villeneuve dreht neuen Bond-Film",
@@ -3003,12 +3000,12 @@
     "Flughafen Leipzig/Halle - Abschiebeflug aus Deutschland nach Afghanistan gestartet - Kritik von Menschenrechtsorganisationen",
     "Wirtschaft - China meldet Schmuggel seltener Erden durch ausländische Geheimdienste",
     "Italien - Erdbeben in Neapel - Menschen flüchten ins Freie",
-    "Statistisches Bundesamt - Extrem schlechte Erdbeer- und Spargelernten"
+    "Statistisches Bundesamt - Extrem schlechte Erdbeer- und Spargelernten",
+    "Treffen auf der Zugspitze - Dobrindt berät mit Innenministern mehrerer EU-Staaten über Migration",
+    "Statistisches Bundesamt - Hohe Zölle: Export deutscher Autos in die USA im April und Mai eingebrochen",
+    "Livestream: Bundeskanzler Merz bei der Sommerpressekonferenz"
   ],
   "hashes": [
-    "91019d7865646a1fb040b02cbd58c8d6",
-    "0795990cf010f62874882327ac4c89fe",
-    "2d7031e961468b2628d1014a8a0cbd37",
     "1ed5c67c3f74d94a39de0fe3cf547968",
     "627336aedd0002f9db0bea24274fb595",
     "86c01c1b75b3bdb7ac3014f4134583c0",
@@ -4005,6 +4002,9 @@
     "8789822e793a0bf3990f8c51e22cf33a",
     "9e3d460c8a6232e047035c150aa9bea7",
     "eb77be6cdd23b95805bf7ddee1877140",
-    "1cbca146ceb5de80ce4873bbabe9d671"
+    "1cbca146ceb5de80ce4873bbabe9d671",
+    "418b35e8b752c8b53aba3ea6d289004e",
+    "f2a6ecb852535a2e0d9dc7fa42ac00ab",
+    "0f7abcd2ef5bb8f9976c06124074bcbf"
   ]
 }
