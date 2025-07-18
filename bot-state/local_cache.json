@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-fordert-zusammenarbeit-teherans-mit-atomkontrolleuren-102.html",
-    "https://www.deutschlandfunk.de/ig-metall-und-linke-warnen-vor-altersarmut-100.html",
     "https://www.deutschlandfunk.de/verkehrsminister-schnieder-fuer-festen-preismechanismus-100.html",
     "https://www.deutschlandfunk.de/seoul-nordkorea-entsendet-tausende-weitere-soldaten-zur-unterstuetzung-russlands-100.html",
     "https://www.deutschlandfunk.de/nach-messerattacke-polizei-erschiesst-afghanischen-asylbewerber-beamter-schwer-mit-messer-verletzt-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/livestream-bundeskanzler-merz-im-sommer-interview-110596575.html",
     "https://www.deutschlandfunk.de/mutmasslicher-libyscher-kriegsverbrecher-festgenommen-100.html",
     "https://www.deutschlandfunk.de/regierungstruppen-beziehen-wieder-stellungen-nahe-suwaida-weitere-kaempfe-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/aussenminister-david-lammy-ueber-den-freundschaftsvertrag-mit-deutschland-110596286.html"
+    "https://www.faz.net/aktuell/politik/ausland/aussenminister-david-lammy-ueber-den-freundschaftsvertrag-mit-deutschland-110596286.html",
+    "https://www.deutschlandfunk.de/selenskyj-lobt-18-paket-100.html",
+    "https://www.deutschlandfunk.de/gasspeicher-koennen-flexibler-gefuellt-werden-100.html"
   ],
   "content_hashes": [
-    "bcadc03df80c7ca92ff9b81396181a8d",
-    "4bacc6a967edb313479b34ec20778258",
     "5c10863e2c676fa74468a597014bd412",
     "8c9c9682bc694a22aee06e1d6ab957a5",
     "690e3d699337a58ecdb1c57e3cb15ba2",
@@ -2001,11 +1999,11 @@
     "add4c49cbef0344d0e3ca6ae5c684602",
     "40781a8410e5863af0a0868860e5b3f6",
     "e64984453f5d49c47d24cb2260b3d66f",
-    "769a6cbdab196f0dd01c9aea8468b06b"
+    "769a6cbdab196f0dd01c9aea8468b06b",
+    "5f7edb5bf598410a5bbcecbd04d0011d",
+    "de3d7cfb7e08bf35d2af86bca539255c"
   ],
   "titles": [
-    "Iran - Wadephul fordert Zusammenarbeit Teherans mit Atomkontrolleuren",
-    "Rentenpläne von Ministerin Bas - IG Metall und Linke warnen vor Altersarmut",
     "Deutschlandticket - Verkehrsminister Schnieder für festen Preismechanismus",
     "Ukraine-Krieg - Seoul: Nordkorea entsendet tausende weitere Soldaten zur Unterstützung Russlands",
     "Sicherheit - Nach Messerattacke: Polizei erschießt afghanischen Asylbewerber - Beamter schwer mit Messer verletzt",
@@ -3003,11 +3001,11 @@
     "Livestream: Bundeskanzler Merz bei der Sommerpressekonferenz",
     "Brandenburg - Mutmaßlicher libyscher Kriegsverbrecher festgenommen",
     "Syrien - Regierungstruppen beziehen wieder Stellungen nahe Suwaida - weitere Kämpfe",
-    "David Lammy im Interview: „Thatcher und Kohl haben Wohlstand für unsere Völker geschaffen“"
+    "David Lammy im Interview: „Thatcher und Kohl haben Wohlstand für unsere Völker geschaffen“",
+    "Neue EU-Sanktionen - Selenskyj lobt 18. Paket",
+    "EU-Beschluss - Gasspeicher können flexibler gefüllt werden"
   ],
   "hashes": [
-    "7a72a453f9eafa2ed0e33473ea6a97ff",
-    "535988c41d03ec2f07c591a670dd78db",
     "e327177aa2aec56738e4bf53d8193913",
     "9eddd201016a8148f47b2439b385eb2b",
     "426e6f0de0a094b8df9c4caccbdacb45",
@@ -4005,6 +4003,8 @@
     "0f7abcd2ef5bb8f9976c06124074bcbf",
     "3279492d04e063e44674b048a8b80c83",
     "d37e6d799229f995c60678dba101d2c2",
-    "4ae9ca18623a32152f324d46b8dfdc6b"
+    "4ae9ca18623a32152f324d46b8dfdc6b",
+    "fabc901e5d670cf622b341d410bc923a",
+    "852d37344ba6fdb51bc2ce12e7d12821"
   ]
 }
