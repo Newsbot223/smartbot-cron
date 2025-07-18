@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-kritisiert-vorgehen-von-israels-justiz-gegen-netanjahu-100.html",
-    "https://www.deutschlandfunk.de/dlrg-verzeichnet-15-tote-bei-sommerlichen-badeunfaellen-100.html",
-    "https://www.deutschlandfunk.de/siedler-greifen-stadt-im-westjordanland-an-soldaten-toeten-drei-palaestinenser-102.html",
     "https://www.deutschlandfunk.de/siedler-greifen-dorf-im-westjordanland-an-soldaten-toeten-drei-palaestinenser-102.html",
     "https://www.deutschlandfunk.de/mehrheit-der-deutschen-hat-noch-keine-erfahrungen-mit-ki-102.html",
     "https://www.deutschlandfunk.de/selenskyj-unterzeichnet-abkommen-zur-einrichtung-eines-sondergerichtshofs-zum-krieg-in-der-ukraine-a-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nach-wachsender-kritik-trump-will-nun-doch-einige-epstein-unterlagen-veroeffentlichen-100.html",
     "https://www.deutschlandfunk.de/vor-dem-eu-innenminster-treffen-auf-der-zugspitze-100.html",
     "https://www.spiegel.de/wirtschaft/kulturstaatsminister-weimer-warnt-vor-monopolen-in-der-deutschen-medienbranche-a-4b122086-b6a3-4e3c-8a9f-3abc321cf0ae#ref=rss",
-    "https://www.spiegel.de/wirtschaft/spd-generalsekretaer-will-ueber-erbschaftsteuer-und-buergergeld-streiten-a-dae157f6-fd83-4db3-99ce-cde1f7d07411#ref=rss"
+    "https://www.spiegel.de/wirtschaft/spd-generalsekretaer-will-ueber-erbschaftsteuer-und-buergergeld-streiten-a-dae157f6-fd83-4db3-99ce-cde1f7d07411#ref=rss",
+    "https://www.deutschlandfunk.de/israelische-armee-einschlag-in-katholische-kirche-war-versehen-100.html",
+    "https://www.deutschlandfunk.de/russland-meldet-abwehr-von-massivem-ukrainischen-drohnenangriff-auch-moskau-betroffen-100.html",
+    "https://www.spiegel.de/wirtschaft/zigaretten-koennten-sehr-viel-teurer-werden-a-03bcdb0f-2ff1-4ab3-9e7a-8e6e9cc56b92#ref=rss"
   ],
   "content_hashes": [
-    "0b2cda06adef5229ce852a4a316f586e",
-    "46ed086789a7a4ef27d497373b8bf6cb",
-    "cdc777304fd2cc79cd696fbb4e6f0880",
     "bbfb09252e0d80315c8b649479b63241",
     "58de73bd7737ee107b338e698581c8fd",
     "6f0de39ade38cc2076c09ff43a55429a",
@@ -2001,12 +1998,12 @@
     "194b67d8d5ae88d03f3e562b3f023bf8",
     "440d1ba352d126a62c30c6660a8326da",
     "9d3f837e1e4753da46caed117ffbffc6",
-    "08aa3e573b7ddd756efb996ad665f6da"
+    "08aa3e573b7ddd756efb996ad665f6da",
+    "c860ea4b5879a95c9db61ab390733740",
+    "905284d82c4018224827933172259c0d",
+    "bad10f18bf0132801b48c8f3896f0f16"
   ],
   "titles": [
-    "Korruptionsverfahren - Trump kritisiert Vorgehen von Israels Justiz gegen Netanjahu",
-    "Bilanz des Wochenendes - DLRG verzeichnet 15 Tote bei sommerlichen Badeunfällen",
-    "Gewalt - Siedler greifen Stadt im Westjordanland an - Soldaten töten drei Palästinenser",
     "Gewalt - Siedler greifen Dorf im Westjordanland an - Soldaten töten drei Palästinenser",
     "\"TechnikRadar\" - Mehrheit der Deutschen hat noch keine Erfahrungen mit KI",
     "Europarat - Selenskyj unterzeichnet Abkommen zur Einrichtung eines Sondergerichtshofs zum Krieg in der Ukraine - \"Aggression muss bestraft werden\"",
@@ -3003,12 +3000,12 @@
     "USA - Nach wachsender Kritik: Trump will nun doch einige Epstein-Unterlagen veröffentlichen",
     "Migrationsgipfel - Dobrindt lädt zu Beratungen über Asylpolitik auf die Zugspitze",
     "Kulturstaatsminister Weimer warnt vor Monopolen in der deutschen Medienbranche",
-    "SPD-Generalsekretär will über Erbschaftsteuer und Bürgergeld streiten"
+    "SPD-Generalsekretär will über Erbschaftsteuer und Bürgergeld streiten",
+    "Gazastreifen - Israelische Armee: Einschlag in katholische Kirche war Versehen",
+    "Ukraine-Krieg - Russland meldet Abwehr von massivem ukrainischen Drohnenangriff - auch Moskau betroffen",
+    "Zigaretten könnten sehr viel teurer werden"
   ],
   "hashes": [
-    "0de0697c996d75d9d5dd044262e1cdf4",
-    "f13e9f5be7e04ff332894c8512a98a16",
-    "d2a8d35d3662870972c6c3306a1e96d5",
     "ac805ffbbf1e3bb65dc177b2363dadd3",
     "ee443f7643fc3768dd5ea4c9fe6170b9",
     "89c1fc7caf8d681da72643d96cc527aa",
@@ -4005,6 +4002,9 @@
     "b28c97489d735ac2a93a7a005762f030",
     "1183b3e10ebb130cdab857ecdb9b1f56",
     "18fbf84ad4e4bce6726be4fd11a93148",
-    "2d9e6935d076f08af3c4dfcecaa5c30c"
+    "2d9e6935d076f08af3c4dfcecaa5c30c",
+    "e8854d5f8c942651a890468fadc09f0c",
+    "77503747c005b23fcb52a9097f48c8af",
+    "b6214e36fa8d9cedc565602a1bf4f37c"
   ]
 }
