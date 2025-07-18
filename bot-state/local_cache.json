@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-verteidigt-einstellen-der-zahlungen-fuer-zivile-seenotrettung-100.html",
-    "https://www.deutschlandfunk.de/praesidentin-oldenburg-keine-uniformen-handyverbote-an-schulen-100.html",
-    "https://www.deutschlandfunk.de/abgeordnete-waehlen-geheimdienst-kontrolleure-reichinnek-verfehlt-mehrheit-100.html",
-    "https://www.deutschlandfunk.de/nach-palaestinensischen-angaben-mindestens-45-tote-bei-israelischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/amnesty-international-berichtet-von-mindestens-16-toten-100.html",
     "https://www.faz.net/aktuell/politik/ausland/grenzkontrollen-wie-frankreichs-innenminister-alexander-dobrindt-umgarnt-110560182.html",
     "https://www.faz.net/aktuell/politik/inland/heidi-reichinnek-scheitert-bei-wahl-ins-parlamentarische-kontrollgremium-110560115.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-handelskommissar-sefcovic-fuehrt-intensive-gespraeche-in-washington-100.html",
     "https://www.deutschlandfunk.de/israel-kuendigt-hilfslieferung-nach-suwaida-an-100.html",
     "https://www.deutschlandfunk.de/iran-nennt-sanktionsdrohung-europaeischer-laender-verantwortungslos-102.html",
-    "https://www.faz.net/einspruch/flughafen-mutmasslicher-libyscher-kriegsverbrecher-festgenommen-110597215.html"
+    "https://www.faz.net/einspruch/flughafen-mutmasslicher-libyscher-kriegsverbrecher-festgenommen-110597215.html",
+    "https://www.deutschlandfunk.de/unhcr-einsparungen-bei-entwicklungshilfe-haben-dramatische-folgen-102.html",
+    "https://www.deutschlandfunk.de/wieder-kaempfe-in-der-provinz-suwaida-100.html",
+    "https://www.deutschlandfunk.de/sanktionen-gegen-russische-offiziere-wegen-angriff-auf-theater-in-mariupol-100.html",
+    "https://www.deutschlandfunk.de/wie-faellt-die-merz-bilanz-aus-interview-mit-uwe-jun-politikwissenschaftler-102.html"
   ],
   "content_hashes": [
-    "6fde7f4a0e4bae359886cdc2dfe8a346",
-    "679561626db3b23b679f92bd2b0e2c92",
-    "9ea226a516ecc5b3734a454ea50fa935",
-    "a5b5f8b434e8e4acdc6e0238b8fdd8f6",
     "8c89514211eae8f0e96e0cf4309741d0",
     "024a7289caa404458bc95449f7603008",
     "08f83ebafaaf22900301252172d4c963",
@@ -2001,13 +1997,13 @@
     "0b0c3475598c4614bb56c88517c38df2",
     "237aa968976016f28baa83c18d32716d",
     "1732a1dc51502ce683e79add1c962ef6",
-    "c680802e34d456ba85d68bcab773baa7"
+    "c680802e34d456ba85d68bcab773baa7",
+    "3bf0021f6d988b459beb17a091758cdf",
+    "ae5b5170e978151a44c54fc5b018b7f9",
+    "2cf37597aa71935f7094dd0f34d90788",
+    "de5930f0d8dc2ee3fbd9d914ab77adfc"
   ],
   "titles": [
-    "Migration - Wadephul verteidigt Einstellen der Zahlungen für zivile Seenotrettung",
-    "Bildungsministerkonferenz - Präsidentin Oldenburg: keine uniformen Handyverbote an Schulen",
-    "Bundestag - Abgeordnete wählen Geheimdienst-Kontrolleure - Reichinnek verfehlt Mehrheit",
-    "Gazastreifen - Nach palästinensischen Angaben mindestens 45 Tote bei israelischen Angriffen",
     "Proteste gegen Polizeigewalt in Kenia - Amnesty International berichtet von mindestens 16 Toten",
     "Grenzkontrollen: Wie Frankreichs Innenminister Alexander Dobrindt umgarnt",
     "Nicht im Kontrollgremium: Reichinneks Appelle an die Union fruchteten nicht",
@@ -3003,13 +2999,13 @@
     "US-Zollpolitik - EU-Handelskommissar Sefcovic führt \"intensive\" Gespräche in Washington",
     "Syrien - Israel kündigt Hilfslieferung nach Suwaida an",
     "Atomkonflikt - Iran nennt Sanktionsdrohung europäischer Länder \"verantwortungslos\"",
-    "Bundespolizei nimmt Libyer am Flughafen BER fest"
+    "Bundespolizei nimmt Libyer am Flughafen BER fest",
+    "Flüchtlinge - UNHCR: Einsparungen bei Entwicklungshilfe haben dramatische Folgen",
+    "Syrien - Wieder Kämpfe in der Provinz Suwaida",
+    "Großbritannien - Sanktionen gegen russische Offiziere wegen Angriff auf Theater in Mariupol",
+    "Vor Sommerpause - Politologe Jun: Merz' Bilanz ist gemischt"
   ],
   "hashes": [
-    "86f56089262ae9922fb8fcd85e14537e",
-    "4b9a31b44e1c767fb92916b8d9ef4a81",
-    "01b474be5db278a7cfaf746eb25e3dd9",
-    "8d1e73ff83294aa440309a4a8e88d1b1",
     "222a567dae667d22d4ee7fa68bda6c17",
     "0a7c3c7f8e290df6a49b648803581510",
     "689f5c31a6d85a879f896359ee26e8fe",
@@ -4005,6 +4001,10 @@
     "fd75d4676a74503041044bb2bdc679b4",
     "2b2a9fb96bf0603912f54a34b7e2b774",
     "b5aa8301edf8fb556fc114c72b961906",
-    "bea9a9d5ccce4ce4b3147a204434d662"
+    "bea9a9d5ccce4ce4b3147a204434d662",
+    "658547a11819a3a1251b4048e458cdda",
+    "0b13f581f947b3536c64999080c4acc0",
+    "6396140e022d55137d2655a5e5973456",
+    "f4ca207905bc5030209d7c0effedab4d"
   ]
 }
