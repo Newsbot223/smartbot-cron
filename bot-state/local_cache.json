@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wer-soll-diese-spd-noch-waehlen-110557969.html",
-    "https://www.deutschlandfunk.de/verlaengerung-der-mietpreisbremse-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/prien-bundesmittel-fuer-digitalpakt-schule-gesichert-102.html",
-    "https://www.deutschlandfunk.de/staats-und-regierungschefs-wollen-neues-sanktionspaket-gegen-russland-verabschieden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-auch-cdu-mann-manuel-hagel-die-naehe-zu-boris-palmer-sucht-110559736.html",
     "https://www.deutschlandfunk.de/wadephul-verteidigt-einstellen-der-zahlungen-fuer-zivile-seenotrettung-100.html",
     "https://www.deutschlandfunk.de/praesidentin-oldenburg-keine-uniformen-handyverbote-an-schulen-100.html",
     "https://www.deutschlandfunk.de/abgeordnete-waehlen-geheimdienst-kontrolleure-reichinnek-verfehlt-mehrheit-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/miersch-kritisiert-unions-forderungen-nach-rueckzug-von-brosius-gersdorf-102.html",
     "https://www.deutschlandfunk.de/uno-appelliert-an-ende-der-kaempfe-in-suwaida-102.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russichen-angriffen-in-der-ukraine-102.html",
-    "https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-100.html"
+    "https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-100.html",
+    "https://www.deutschlandfunk.de/uno-menschenrechtsbuero-kritisiert-abschiebungen-nach-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/eu-handelskommissar-sefcovic-fuehrt-intensive-gespraeche-in-washington-100.html",
+    "https://www.deutschlandfunk.de/israel-kuendigt-hilfslieferung-nach-suwaida-an-100.html",
+    "https://www.deutschlandfunk.de/iran-nennt-sanktionsdrohung-europaeischer-laender-verantwortungslos-102.html",
+    "https://www.faz.net/einspruch/flughafen-mutmasslicher-libyscher-kriegsverbrecher-festgenommen-110597215.html"
   ],
   "content_hashes": [
-    "be171cbe5dfd08ecb30513ee61bf3e4a",
-    "94202dbc3612dfa51e1ff8ec937e42ff",
-    "d2c2ec11f9bae0da5a796b594e9e7c0d",
-    "fd2e20f92183a7e85c14669b684eba01",
-    "d535dad49add8081f1472479e6a9452f",
     "6fde7f4a0e4bae359886cdc2dfe8a346",
     "679561626db3b23b679f92bd2b0e2c92",
     "9ea226a516ecc5b3734a454ea50fa935",
@@ -2001,14 +1996,14 @@
     "83e1e4ad6a79e08d7678c34faa6d8e7f",
     "78a17268df45b778577ce110ca12586a",
     "34b03e73c0cd22ee82f0299d3dbd755e",
-    "78a1659804b382db33abe99f508b421d"
+    "78a1659804b382db33abe99f508b421d",
+    "379d4879b17f9f4b601ab07064d92510",
+    "0b0c3475598c4614bb56c88517c38df2",
+    "237aa968976016f28baa83c18d32716d",
+    "1732a1dc51502ce683e79add1c962ef6",
+    "c680802e34d456ba85d68bcab773baa7"
   ],
   "titles": [
-    "Bundesparteitag in Berlin: Wer wählt noch die SPD?",
-    "Bundestag - Verlängerung der Mietpreisbremse beschlossen",
-    "Bildung - Prien: Bundesmittel für Digitalpakt Schule gesichert",
-    "EU-Gipfel - Staats- und Regierungschefs wollen neues Sanktionspaket gegen Russland verabschieden",
-    "Warum auch der CDU-Kandidat die Nähe zu Boris Palmer sucht",
     "Migration - Wadephul verteidigt Einstellen der Zahlungen für zivile Seenotrettung",
     "Bildungsministerkonferenz - Präsidentin Oldenburg: keine uniformen Handyverbote an Schulen",
     "Bundestag - Abgeordnete wählen Geheimdienst-Kontrolleure - Reichinnek verfehlt Mehrheit",
@@ -3003,14 +2998,14 @@
     "Streit um Richterwahl - Miersch kritisiert Unions-Forderungen nach Rückzug von Brosius-Gersdorf",
     "Syrien - UNO appelliert an Ende der Kämpfe in Suwaida",
     "Drohnen und Gleitbomben - Tote und Verletzte nach russichen Angriffen in der Ukraine",
-    "Wegen Trockenheit - Waldbrände in Frankreich und Spanien"
+    "Wegen Trockenheit - Waldbrände in Frankreich und Spanien",
+    "Nach zweitem Abschiebeflug - UNO-Menschenrechtsbüro kritisiert Abschiebungen nach Afghanistan",
+    "US-Zollpolitik - EU-Handelskommissar Sefcovic führt \"intensive\" Gespräche in Washington",
+    "Syrien - Israel kündigt Hilfslieferung nach Suwaida an",
+    "Atomkonflikt - Iran nennt Sanktionsdrohung europäischer Länder \"verantwortungslos\"",
+    "Bundespolizei nimmt Libyer am Flughafen BER fest"
   ],
   "hashes": [
-    "3131f3803c41c92132291e53ca8e290e",
-    "9ea63db6ea499033590ed85de5e8dc5b",
-    "5f6781fe28ed1021afdfe2359b327ffe",
-    "e10581152aeeb8460d0496c162b95f1d",
-    "56c9013062295b39748d5c518340f3f3",
     "86f56089262ae9922fb8fcd85e14537e",
     "4b9a31b44e1c767fb92916b8d9ef4a81",
     "01b474be5db278a7cfaf746eb25e3dd9",
@@ -4005,6 +4000,11 @@
     "0aa491c96e7377a5df73569fb10f3ffc",
     "336db5fde0dda2086adae676b2acd1a1",
     "85e80c0497719593b70b2a1eea62d3f1",
-    "82be18414087a73fb44ebc56cc846305"
+    "82be18414087a73fb44ebc56cc846305",
+    "74695b5829249246eb83b0baf8d20fe1",
+    "fd75d4676a74503041044bb2bdc679b4",
+    "2b2a9fb96bf0603912f54a34b7e2b774",
+    "b5aa8301edf8fb556fc114c72b961906",
+    "bea9a9d5ccce4ce4b3147a204434d662"
   ]
 }
