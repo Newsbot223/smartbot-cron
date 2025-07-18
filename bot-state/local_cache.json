@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/siedler-greifen-dorf-im-westjordanland-an-soldaten-toeten-drei-palaestinenser-102.html",
-    "https://www.deutschlandfunk.de/mehrheit-der-deutschen-hat-noch-keine-erfahrungen-mit-ki-102.html",
     "https://www.deutschlandfunk.de/selenskyj-unterzeichnet-abkommen-zur-einrichtung-eines-sondergerichtshofs-zum-krieg-in-der-ukraine-a-100.html",
     "https://www.deutschlandfunk.de/bundestag-befasst-sich-abschliessend-mit-der-mietpreisbremse-100.html",
     "https://www.spiegel.de/wirtschaft/soziales/wuest-und-woidke-warnen-vor-bruch-des-koalitionsvertrags-a-f8af7412-d608-4139-84ee-171b09e7363d#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/spd-generalsekretaer-will-ueber-erbschaftsteuer-und-buergergeld-streiten-a-dae157f6-fd83-4db3-99ce-cde1f7d07411#ref=rss",
     "https://www.deutschlandfunk.de/israelische-armee-einschlag-in-katholische-kirche-war-versehen-100.html",
     "https://www.deutschlandfunk.de/russland-meldet-abwehr-von-massivem-ukrainischen-drohnenangriff-auch-moskau-betroffen-100.html",
-    "https://www.spiegel.de/wirtschaft/zigaretten-koennten-sehr-viel-teurer-werden-a-03bcdb0f-2ff1-4ab3-9e7a-8e6e9cc56b92#ref=rss"
+    "https://www.spiegel.de/wirtschaft/zigaretten-koennten-sehr-viel-teurer-werden-a-03bcdb0f-2ff1-4ab3-9e7a-8e6e9cc56b92#ref=rss",
+    "https://www.deutschlandfunk.de/eu-beschliesst-nach-slowakischer-zustimmung-18-sanktionspaket-gegen-russland-102.html",
+    "https://www.deutschlandfunk.de/ueberstunden-der-bundespolizei-steigen-wegen-grenzkontrollen-100.html"
   ],
   "content_hashes": [
-    "bbfb09252e0d80315c8b649479b63241",
-    "58de73bd7737ee107b338e698581c8fd",
     "6f0de39ade38cc2076c09ff43a55429a",
     "ad0a2b0cd911e7f990671f013397d5b7",
     "14a18871219c87c1a3afd7ea4f79050a",
@@ -2001,11 +1999,11 @@
     "08aa3e573b7ddd756efb996ad665f6da",
     "c860ea4b5879a95c9db61ab390733740",
     "905284d82c4018224827933172259c0d",
-    "bad10f18bf0132801b48c8f3896f0f16"
+    "bad10f18bf0132801b48c8f3896f0f16",
+    "a93c5dad28fc7f3254e5bda2dbbeaca6",
+    "3d5dd0894d96c7e171c38c14aabdc4b1"
   ],
   "titles": [
-    "Gewalt - Siedler greifen Dorf im Westjordanland an - Soldaten töten drei Palästinenser",
-    "\"TechnikRadar\" - Mehrheit der Deutschen hat noch keine Erfahrungen mit KI",
     "Europarat - Selenskyj unterzeichnet Abkommen zur Einrichtung eines Sondergerichtshofs zum Krieg in der Ukraine - \"Aggression muss bestraft werden\"",
     "Bezahlbarer Wohnraum - Geplante Verlängerung der Mietpreisbremse stößt auf Kritik",
     "Stromsteuer: Hendrik Wüst und Dietmar Woidke verlangen niedrigere Strompreise für alle",
@@ -3003,11 +3001,11 @@
     "SPD-Generalsekretär will über Erbschaftsteuer und Bürgergeld streiten",
     "Gazastreifen - Israelische Armee: Einschlag in katholische Kirche war Versehen",
     "Ukraine-Krieg - Russland meldet Abwehr von massivem ukrainischen Drohnenangriff - auch Moskau betroffen",
-    "Zigaretten könnten sehr viel teurer werden"
+    "Zigaretten könnten sehr viel teurer werden",
+    "Brüssel - EU beschließt nach slowakischer Zustimmung 18. Sanktionspaket gegen Russland",
+    "Anfrage der Linken - Überstunden der Bundespolizei steigen wegen Grenzkontrollen"
   ],
   "hashes": [
-    "ac805ffbbf1e3bb65dc177b2363dadd3",
-    "ee443f7643fc3768dd5ea4c9fe6170b9",
     "89c1fc7caf8d681da72643d96cc527aa",
     "d34624e94972fcb66cb4d78d27768f84",
     "cc27ba76e724a47fd30cad4ca496b1da",
@@ -4005,6 +4003,8 @@
     "2d9e6935d076f08af3c4dfcecaa5c30c",
     "e8854d5f8c942651a890468fadc09f0c",
     "77503747c005b23fcb52a9097f48c8af",
-    "b6214e36fa8d9cedc565602a1bf4f37c"
+    "b6214e36fa8d9cedc565602a1bf4f37c",
+    "465384df3ccef762a6c42c150fa028e5",
+    "899f279d11a0cc1685b64642c3713c02"
   ]
 }
