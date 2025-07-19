@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gipfelwoche-was-haben-die-europaeer-erreicht-interview-mit-m-a-strack-zim-100.html",
-    "https://www.deutschlandfunk.de/kommt-die-erhoehung-auf-15-euro-100.html",
     "https://www.deutschlandfunk.de/erhoehung-in-zwei-stufen-auf-14-60-euro-bis-100.html",
     "https://www.deutschlandfunk.de/forscher-finden-mehr-als-1-000-atommuell-faesser-im-atlantik-104.html",
     "https://www.deutschlandfunk.de/was-macht-eigentlich-die-iaea-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/meldungen-ueber-erneute-russische-angriffe-mit-drohnen-und-raketen-ein-todesopfer-in-odessa-104.html",
     "https://www.deutschlandfunk.de/florian-wellbrock-holt-dritte-goldmedaille-im-freiwasserschwimmen-100.html",
     "https://www.deutschlandfunk.de/us-gesandter-israel-und-syrien-einigen-sich-auf-waffenruhe-110.html",
-    "https://www.deutschlandfunk.de/spd-politiker-demir-kritisiert-dobrindts-aenderungsvorschlaege-104.html"
+    "https://www.deutschlandfunk.de/spd-politiker-demir-kritisiert-dobrindts-aenderungsvorschlaege-104.html",
+    "https://www.deutschlandfunk.de/erneute-russische-angriffe-mit-drohnen-und-raketen-102.html",
+    "https://www.deutschlandfunk.de/gkv-chef-kritisiert-debatte-ueber-leistungskuerzungen-bei-krankenkassen-100.html"
   ],
   "content_hashes": [
-    "bae9eb56d1c5197cd9edcf9d3560459f",
-    "bfe22358b831085507cb682470e61a3a",
     "635f9f34e319829d9f682633be8bf6bf",
     "296097d9835ec19a923075424d5ecb19",
     "9b63bb0d6bc1088b3e994174b3da7753",
@@ -2001,11 +1999,11 @@
     "35a3845d66ef39e6f8bf80323ee48af9",
     "ef62c23d7b62a7cb91a0cff4ba329a59",
     "f6b7b91928968a04dc8d9553aab87c55",
-    "a1abb1fcf991620bee2fbb5ef0f4383a"
+    "a1abb1fcf991620bee2fbb5ef0f4383a",
+    "e9d608e400a05c5163048191970986e4",
+    "c6a2220bb1519433ae09c3f3e19d0ec6"
   ],
   "titles": [
-    "Uneinigkeit in der EU - Strack-Zimmermann: Es fehlt der Wille, Kompromisse zu schließen",
-    "Mindestlohn - Kommt die Erhöhung auf 15 Euro?",
     "Mindestlohn - Erhöhung in zwei Stufen auf 14,60 Euro bis 2027",
     "Meeresverschmutzung - Forscher finden mehr als 1.000 Atommüll-Fässer im Atlantik",
     "Atomkonflikt - Was macht eigentlich die Internationale Atomenergie-Organisation?",
@@ -3003,11 +3001,11 @@
     "Krieg gegen die Ukraine - Meldungen über erneute russische Angriffe mit Drohnen und Raketen - ein Todesopfer in Odessa",
     "WM in Singapur - Florian Wellbrock holt dritte Goldmedaille im Freiwasserschwimmen",
     "Nahost - US-Gesandter: Israel und Syrien einigen sich auf Waffenruhe",
-    "Nach dem Migrationsgipfel - SPD-Politiker Demir kritisiert Dobrindts Änderungsvorschläge"
+    "Nach dem Migrationsgipfel - SPD-Politiker Demir kritisiert Dobrindts Änderungsvorschläge",
+    "Krieg gegen die Ukraine - Erneute russische Angriffe mit Drohnen und Raketen",
+    "Interview der Woche - GKV-Chef kritisiert Debatte über Leistungskürzungen bei Krankenkassen"
   ],
   "hashes": [
-    "47fa26ddbae21d8754dbf780e0530511",
-    "c84969cbecd0767e80d5b85afbbc176e",
     "746ba64b2e85d95b691f12effd4f2619",
     "621d2babcd270d155d00d971e6b3fa33",
     "3a3e70fa618cc4f124a6bb3691963ef3",
@@ -4005,6 +4003,8 @@
     "d5fa2138f623e163305fea35d41efe6e",
     "737b29c51b7949aa10b7b63d6524f01f",
     "495df1ff595f1347e3086c82559e1cc9",
-    "503d737cc14c0fce2bec309a893a1209"
+    "503d737cc14c0fce2bec309a893a1209",
+    "e909c30e93ca8a439d2a528f998e3d0c",
+    "5d8bf53868547115d134320d0d17e076"
   ]
 }
