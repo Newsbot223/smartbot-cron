@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-verschaerften-visa-regeln-wegen-fentanyl-schmuggels-100.html",
-    "https://www.deutschlandfunk.de/usa-bewilligen-erstmals-finanzielle-mittel-fuer-umstrittene-hilfsorganisation-ghf-100.html",
-    "https://www.deutschlandfunk.de/erste-bundeslaender-starten-in-die-sommerferien-100.html",
-    "https://www.deutschlandfunk.de/freigelassener-belarussischer-oppositoneller-tichanowskij-102.html",
     "https://www.deutschlandfunk.de/linke-besteht-auf-platz-im-parlamentarischen-kontrollgremium-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesparteitag-wovon-klingbeil-seine-spd-ueberzeugen-will-110559965.html",
     "https://www.deutschlandfunk.de/gipfelwoche-was-haben-die-europaeer-erreicht-interview-mit-m-a-strack-zim-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/wellbrock-greift-nach-dritter-goldmedaille-102.html",
     "https://www.deutschlandfunk.de/umweltbehoerde-epa-baut-fast-ein-viertel-der-stellen-ab-102.html",
     "https://www.deutschlandfunk.de/usa-ziehen-deutschland-bei-patriot-lieferungen-vor-108.html",
-    "https://www.deutschlandfunk.de/19-menschen-durch-feuerwerkskoerper-verletzt-108.html"
+    "https://www.deutschlandfunk.de/19-menschen-durch-feuerwerkskoerper-verletzt-108.html",
+    "https://www.deutschlandfunk.de/19-menschen-durch-feuerwerkskoerper-verletzt-umgestuerzte-strartrampe-als-ursache-vermutet-100.html",
+    "https://www.deutschlandfunk.de/australien-liefert-fast-50-abrams-kampfpanzer-an-die-ukrainische-armee-100.html",
+    "https://www.deutschlandfunk.de/meldungen-ueber-erneute-russische-angriffe-mit-drohnen-und-raketen-ein-todesopfer-in-odessa-104.html",
+    "https://www.deutschlandfunk.de/florian-wellbrock-holt-dritte-goldmedaille-im-freiwasserschwimmen-100.html"
   ],
   "content_hashes": [
-    "70caa27bdfb786ac33ee85cdc38e008c",
-    "8f2e120b1cb432185af1e97744737031",
-    "84774155ead59d4acb3049f7e6d29c4a",
-    "105e980ed7454fe59b7ce81907358a44",
     "792fb16412ceed6efdea98bd7fb5f985",
     "18e64b259f4cd08e29f2cdef7578421d",
     "bae9eb56d1c5197cd9edcf9d3560459f",
@@ -2001,13 +1997,13 @@
     "a540825a6818e6c8b8a19a9b912eb0ad",
     "a94f680ad3e51aed72fd6db1f4251a75",
     "4eb3ee1260ee8c2d839ffe170224fcb1",
-    "9142d448e1cb95424e039a599ae3e042"
+    "9142d448e1cb95424e039a599ae3e042",
+    "fe19bba4c1dd5eda3c387461dc84ab2d",
+    "349c3d3944a411fee24ac396e46a10bf",
+    "35a3845d66ef39e6f8bf80323ee48af9",
+    "ef62c23d7b62a7cb91a0cff4ba329a59"
   ],
   "titles": [
-    "Drogenkrise - USA verschärften Visa-Regeln wegen Fentanyl-Schmuggels",
-    "Gazastreifen - USA bewilligen erstmals finanzielle Mittel für umstrittene Hilfsorganisation GHF",
-    "Schulen - Erste Bundesländer starten in die Sommerferien",
-    "Nach Freilassung - Aktivist Tichanowski ruft Belarussen zu Wiederstand auf",
     "Bundestag - Linke besteht auf Platz im Parlamentarischen Kontrollgremium",
     "Bundesparteitag in Berlin: Als Klingbeil in einem Späti eine Idee kam",
     "Uneinigkeit in der EU - Strack-Zimmermann: Es fehlt der Wille, Kompromisse zu schließen",
@@ -3003,13 +2999,13 @@
     "Schwimm-WM - Wellbrock greift nach dritter Goldmedaille",
     "USA - Umweltbehörde EPA baut fast ein Viertel der Stellen ab",
     "Raketenabwehrsystem - USA ziehen Deutschland bei Patriot-Lieferungen vor",
-    "Düsseldorf - 19 Menschen durch Feuerwerkskörper verletzt"
+    "Düsseldorf - 19 Menschen durch Feuerwerkskörper verletzt",
+    "Düsseldorf - 19 Menschen durch Feuerwerkskörper verletzt - umgestürzte Strartrampe als Ursache vermutet",
+    "Ukraine-Krieg - Australien liefert fast 50 Abrams-Kampfpanzer an die ukrainische Armee",
+    "Krieg gegen die Ukraine - Meldungen über erneute russische Angriffe mit Drohnen und Raketen - ein Todesopfer in Odessa",
+    "WM in Singapur - Florian Wellbrock holt dritte Goldmedaille im Freiwasserschwimmen"
   ],
   "hashes": [
-    "d3c8786bc03d43aa050cf15ee65dfc20",
-    "c6e24c7a380eca25cbeda39bd74b68a8",
-    "ed8dc908da5116e06430871a84af9e58",
-    "a5a493004c621a246561f59053cda6e2",
     "4b693305c69da337255c8f24fbda88e0",
     "2c67a11dd5cee7bd424f55785f1bb49a",
     "47fa26ddbae21d8754dbf780e0530511",
@@ -4005,6 +4001,10 @@
     "5a882f443295e10198a0921c17d86236",
     "3894330537fa9b3de05778ad50888786",
     "3d6e180c659ea2d3ee48333189648cb1",
-    "bab946dde0b1859e67bcbf7620eede62"
+    "bab946dde0b1859e67bcbf7620eede62",
+    "c2554a5cce42deabd18277c0e656994f",
+    "6ed051935c6cfa95e841aa9bf52fcb01",
+    "d5fa2138f623e163305fea35d41efe6e",
+    "737b29c51b7949aa10b7b63d6524f01f"
   ]
 }
