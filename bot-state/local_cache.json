@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bund-und-laender-vertagen-entscheidung-zum-deutschlandticket-100.html",
-    "https://www.deutschlandfunk.de/verteidigungsministerium-zerstoerte-bundeswehr-lkw-waren-nicht-fuer-ukraine-vorgesehen-100.html",
     "https://www.deutschlandfunk.de/ukraine-meldet-wieder-massive-russische-luftangriffe-100.html",
     "https://www.deutschlandfunk.de/verteidigungsministerium-zerstoerte-bundeswehr-lkw-waren-nicht-urspruenglich-fuer-ukraine-vorgesehen-100.html",
     "https://www.faz.net/aktuell/politik/inland/spd-wohin-bewegt-lars-klingbeil-die-partei-110561672.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tausende-bei-demonstrationen-gegen-migration-102.html",
     "https://www.deutschlandfunk.de/sechs-festnahmen-nach-feuer-in-einkaufszentrum-mit-mehr-als-60-toten-102.html",
     "https://www.deutschlandfunk.de/selenskyj-schlaegt-neue-gespraeche-mit-russland-vor-102.html",
-    "https://www.deutschlandfunk.de/bewaffnete-angreifer-attackieren-in-limoges-autos-und-polizisten-100.html"
+    "https://www.deutschlandfunk.de/bewaffnete-angreifer-attackieren-in-limoges-autos-und-polizisten-100.html",
+    "https://www.deutschlandfunk.de/erste-fluechtlinge-nach-asyl-verschaerfung-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/polizei-nimmt-menschenrechtsaktivist-boniface-mwangi-fest-100.html"
   ],
   "content_hashes": [
-    "77ea60cc77d9703a8f6bd0b37826cc91",
-    "f52072195a2bfb02f82c130080406a65",
     "2d085b02bd67311830bb4f1837da862f",
     "24bb2ff671885c07ec78e18df93a1e6c",
     "e7c4fda26f22f991471234963efdadf2",
@@ -2001,11 +1999,11 @@
     "70c3f6a7653347458388258913ec8f3c",
     "e4695c228bec2c3ab7c7d203dc761528",
     "a6092be89b58368972c7c6fffbb1c773",
-    "98ff693818f3ba33ffcff643d9aba4fc"
+    "98ff693818f3ba33ffcff643d9aba4fc",
+    "2f5fe6cb3b5e4c7ce34e4c4a86ff82e4",
+    "b1f7ed1e6315a96bb2abbd86c9c84fe0"
   ],
   "titles": [
-    "Verkehr - Bund und Länder vertagen Entscheidung zum Deutschlandticket",
-    "Erfurt - Verteidigungsministerium: Zerstörte Bundeswehr-LKW waren nicht für Ukraine vorgesehen",
     "Ukraine-Krieg - Ukraine meldet wieder massive russische Luftangriffe",
     "Erfurt - Verteidigungsministerium: Zerstörte Bundeswehr-Lkw waren nicht ursprünglich für Ukraine vorgesehen",
     "Zustand der Sozialdemokratie: Wofür gibt es die SPD eigentlich noch?",
@@ -3003,11 +3001,11 @@
     "Polen - Tausende bei Demonstrationen gegen Migration",
     "Irak - Sechs Festnahmen nach Feuer in Einkaufszentrum mit mehr als 60 Toten",
     "Krieg in der Ukraine - Selenskyj schlägt neue Gespräche mit Russland vor",
-    "Frankreich - Bewaffnete Angreifer attackieren in Limoges Autos und Polizisten"
+    "Frankreich - Bewaffnete Angreifer attackieren in Limoges Autos und Polizisten",
+    "Griechenland - Erste Flüchtlinge nach Asyl-Verschärfung festgenommen",
+    "Kenia - Polizei nimmt Menschenrechtsaktivist Boniface Mwangi fest"
   ],
   "hashes": [
-    "426bb4cdb7ee436244a22fcdf01aecef",
-    "3b9195ecc8e727933f9455aa4ecda724",
     "b2766fea2cfb12c58a224a488a5de9b2",
     "5ffc1998cd031e350010575a19dd6c1a",
     "75bdd575a5912b8fb36c7836eff572b0",
@@ -4005,6 +4003,8 @@
     "65533c8ee1f0eaf36494bba9dc4722bd",
     "bb940fc99f4364aa227eec2364b4bda7",
     "f08dd68cf0f1b55b54b0dc029d00765f",
-    "b79202ea5bec81c050d2cee5016f7782"
+    "b79202ea5bec81c050d2cee5016f7782",
+    "eeb3ca5c2c41e13fea2b1bf2bc0c457c",
+    "1374109dde7bf77e0e0c7b43cdfcb8b1"
   ]
 }
