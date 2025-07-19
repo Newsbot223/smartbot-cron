@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wahl-der-pkgr-mitglieder-interview-mit-heidi-reichinnek-linke-vorsitzende-100.html",
-    "https://www.faz.net/aktuell/politik/inland/russische-desinformation-zu-abgebrannten-lkw-der-bundeswehr-in-erfurt-110561767.html",
     "https://www.faz.net/aktuell/politik/inland/reichinnek-abgelehnt-nur-noch-ein-oppositionspolitiker-kontrolliert-die-geheimdienste-110561765.html",
     "https://www.spiegel.de/ausland/moskau-bestellt-deutschen-botschafter-ein-a-c3c90dde-88b2-44c3-894c-c2127ed9d6b1#ref=rss",
     "https://www.deutschlandfunk.de/chinas-aussenminister-wang-trifft-eu-aussenbeauftragte-kallas-sowie-bundesaussenminister-wadephul-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-an-der-grenze-koennten-noch-lange-dauern-110597352.html",
     "https://www.deutschlandfunk.de/kosten-fuer-stromnetze-in-zehn-jahren-verdoppelt-100.html",
     "https://www.deutschlandfunk.de/us-regierung-entzieht-brasilianischem-richter-einreisevisum-102.html",
-    "https://www.deutschlandfunk.de/bezahlkarte-fuer-fluechtlinge-immer-noch-nicht-flaechendeckend-im-einsatz-100.html"
+    "https://www.deutschlandfunk.de/bezahlkarte-fuer-fluechtlinge-immer-noch-nicht-flaechendeckend-im-einsatz-100.html",
+    "https://www.deutschlandfunk.de/uebergangsregierung-verkuendet-neue-waffenruhe-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/northvolt-mehrere-interessenten-fuer-schwedischen-batteriehersteller-a-b165022a-de82-46a4-9016-e6e020c823c4#ref=rss"
   ],
   "content_hashes": [
-    "9436e588c5eb553af7f895e30ce15816",
-    "96a17d03f6e0b6c4e8a8b4a965c65e1c",
     "31df6cfbd6fd9b5cc61ddc993618985c",
     "940f270235c1db810d4c155298940106",
     "a1be0d453969cfeb0754c961829bded4",
@@ -2001,11 +1999,11 @@
     "dc53cbb367258be0ea6d3bcd441bc1c4",
     "d828b92189428e292a7c35e242f36bc4",
     "494274df10729a82b59ebe0a0976defc",
-    "2e9575c9c7ba13670944fb0d639e07ce"
+    "2e9575c9c7ba13670944fb0d639e07ce",
+    "a05f18e945847e820adde5f241fa275d",
+    "5f5b54b37d1f92197eb9a47d3880ec6f"
   ],
   "titles": [
-    "Kein Platz im PKGr - Reichinnek (Die Linke) wirft Unions-Fraktion Willkür vor",
-    "Russische Desinformation zu abgebrannten LKW der Bundeswehr in Erfurt",
     "Nur noch ein Oppositionspolitiker kontrolliert die Geheimdienste",
     "Moskau bestellt deutschen Botschafter ein",
     "Europareise - Chinas Außenminister Wang trifft EU-Außenbeauftragte Kallas sowie Bundesaußenminister Wadephul",
@@ -3003,11 +3001,11 @@
     "Grenzkontrollen: 34.285 Euro je Zurückweisung",
     "Bundesnetzagentur - Kosten für Stromnetze in zehn Jahren verdoppelt",
     "Nach Entscheidung zu Bolsonaro - US-Regierung entzieht brasilianischem Richter Einreisevisum",
-    "Umfrage - Bezahlkarte für Flüchtlinge immer noch nicht flächendeckend im Einsatz"
+    "Umfrage - Bezahlkarte für Flüchtlinge immer noch nicht flächendeckend im Einsatz",
+    "Kämpfe in Südsyrien - Übergangsregierung verkündet neue Waffenruhe",
+    "Northvolt: Mehrere Interessenten für schwedischen Batteriehersteller"
   ],
   "hashes": [
-    "8be9db88e1d5bd51c158fedb54bb71f7",
-    "2e989af9c6e8842e3056372fb4422a40",
     "6fa3371064580f1d9100d63f6993bdb7",
     "89cf2b98c2453cd0c4817b4d8fc52883",
     "89cbf2556af8c005a8a4e550da9d99b4",
@@ -4005,6 +4003,8 @@
     "0784526309f0f493b5814144bcb5fefb",
     "692827589f2ccfc18336aa8c3311b08f",
     "97216c47c8557c88c9244afcad209f65",
-    "9421de7e4a7910c0ee23cfcf225d72aa"
+    "9421de7e4a7910c0ee23cfcf225d72aa",
+    "464c1bdf1470da0313b9b3467f2fd175",
+    "78d30be61c8686b9d1832a7227cf3a03"
   ]
 }
