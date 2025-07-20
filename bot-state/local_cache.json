@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/praesident-des-bundesverwaltungsgerichts-zweifelt-an-zurueckweisungen-an-grenze-110564488.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-nach-israel-gereist-100.html",
     "https://www.deutschlandfunk.de/ein-toter-bei-israelischem-angriff-im-suedlibanon-100.html",
     "https://www.deutschlandfunk.de/csd-parade-durch-muenchen-gezogen-250-000-teilnehmer-100.html",
     "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-heftiger-streit-in-ampel-koalition-110562799.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zahl-der-vermissten-nach-sturzfluten-in-texas-auf-drei-gesunken-100.html",
     "https://www.deutschlandfunk.de/evonik-chef-kullmann-us-drohungen-fuehren-an-rand-einer-weltwirtschaftskrise-102.html",
     "https://www.deutschlandfunk.de/koelner-erzbischof-woelki-missbrauchsbetroffene-wenden-sich-direkt-an-den-vatikan-100.html",
-    "https://www.deutschlandfunk.de/dutzende-russische-angriffe-kaempfe-in-ostukraine-dauern-an-100.html"
+    "https://www.deutschlandfunk.de/dutzende-russische-angriffe-kaempfe-in-ostukraine-dauern-an-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-empfaengt-manager-zu-sogenanntem-investitionsgipfel-100.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-besucht-grenze-zu-belarus-102.html"
   ],
   "content_hashes": [
-    "d30fd05457f25197b8677090287cc42c",
-    "c50ee36512c173212b95335dc9f19980",
     "1155b68f5622b42fe803a78fc92c5e35",
     "e1b274c9aa654b7dc4cfe63fb5e2d6b9",
     "5298ad67ef1020cffa980c5204d7870a",
@@ -2001,11 +1999,11 @@
     "49041ab1fc8a4fb7d62ffb606482742c",
     "387d384fec84b7ec6c2fe4e44a997748",
     "99556e0980efea354ae210e36dcbe806",
-    "c47d5907750ad081ef3dec6482cc4931"
+    "c47d5907750ad081ef3dec6482cc4931",
+    "cea37dda78f27a1dfd2144b3a4553347",
+    "3933b72ac95a4b775fcc689fe966a949"
   ],
   "titles": [
-    "Präsident des Bundesverwaltungsgerichts zweifelt an Zurückweisungen an Grenze",
-    "Nahost - Bundesinnenminister Dobrindt nach Israel gereist",
     "Nahost - Ein Toter bei israelischem Angriff im Südlibanon",
     "Bayern - CSD-Parade durch München gezogen - 250.000 Teilnehmer",
     "Kritik von allen Seiten: Eine Zerreißprobe für die rheinland-pfälzische Ampel",
@@ -3003,11 +3001,11 @@
     "Unwetter - Zahl der Vermissten nach Sturzfluten in Texas auf drei gesunken",
     "Zölle im Außenhandel - Evonik-Chef Kullmann: US-Drohungen führen an Rand einer Weltwirtschaftskrise",
     "Katholische Kirche - Kölner Erzbischof Woelki: Missbrauchsbetroffene wenden sich direkt an den Vatikan",
-    "Krieg gegen die Ukraine - Dutzende russische Angriffe - Kämpfe in Ostukraine dauern an"
+    "Krieg gegen die Ukraine - Dutzende russische Angriffe - Kämpfe in Ostukraine dauern an",
+    "Standort Deutschland - Bundeskanzler Merz empfängt Manager zu sogenanntem Investitionsgipfel",
+    "Polen - Bundesinnenminister Dobrindt besucht Grenze zu Belarus"
   ],
   "hashes": [
-    "55b08c59f27ba583960f831269b21934",
-    "9b7ea7d6a4e280cbe7db741106f72dfc",
     "455963da658f3ab357563e1bb171467e",
     "49bba664eefd326f7e813ed63451e85a",
     "e7ba311478a00c962e946e65a27c0da7",
@@ -4005,6 +4003,8 @@
     "1578cb19d9250d1195ed900f959f5b65",
     "586bf7b9064783578138b12df9656854",
     "b450291b3143821016bc911ccd8e5c6c",
-    "63af5c989debb227e71696fac0bca13e"
+    "63af5c989debb227e71696fac0bca13e",
+    "60745e14972e6e547a83de8b3d135388",
+    "737f6d0651ef28b467dda277bd03def8"
   ]
 }
