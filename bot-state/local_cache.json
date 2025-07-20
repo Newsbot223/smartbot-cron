@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/unhcr-chef-grandi-hilfe-als-investment-statt-als-wohltaetigkeit-110562055.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-plaediert-fuer-multilateralismus-100.html",
-    "https://www.deutschlandfunk.de/gleichstellungsministerinnen-fordern-mehr-massnahmen-gegen-digitale-gewalt-102.html",
     "https://www.deutschlandfunk.de/pro-asyl-will-juristisch-gegen-aussetzung-von-familiennachzug-vorgehen-100.html",
     "https://www.deutschlandfunk.de/russischer-luftangriff-auf-odessa-100.html",
     "https://www.deutschlandfunk.de/uno-hochkommissar-kritisiert-aussetzung-des-familiennachzugs-so-faellt-integration-schwer-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-nehmen-afghanen-mit-aufnahmezusage-prinzipiell-auf-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-plant-verbrenner-verbot-fuer-mietwagenanbieter-und-firmenflotten-100.html",
     "https://www.deutschlandfunk.de/vermisste-und-mindestens-38-tote-nach-bootsunglueck-100.html",
-    "https://www.deutschlandfunk.de/regierungskoalition-koennte-bei-der-oberhauswahl-ihre-mehrheit-auch-in-dieser-kammer-verlieren-100.html"
+    "https://www.deutschlandfunk.de/regierungskoalition-koennte-bei-der-oberhauswahl-ihre-mehrheit-auch-in-dieser-kammer-verlieren-100.html",
+    "https://www.deutschlandfunk.de/schwere-erdbeben-im-osten-russlands-100.html",
+    "https://www.deutschlandfunk.de/drusen-erobern-offenbar-suwaida-zurueck-lage-beruhigt-sich-100.html",
+    "https://www.spiegel.de/wirtschaft/soziales/energiewende-bundesrechnungshof-sieht-finanzklemme-beim-klimafonds-a-cd8b3fc1-fac6-4eb7-adc0-51ab70e9af34#ref=rss"
   ],
   "content_hashes": [
-    "629cd298e70d48bd3fed11ca22a3b932",
-    "6f5b5c61d193c0a6e206274f6db07295",
-    "57c0ef0b18c2cd7e2d1951461139cb7c",
     "85f4ae8cb0666768510142614c7f32d1",
     "2252572f2361ac339cddf9aaac3dbff6",
     "0a57a8ac5995f33ba3ec5a546ff3a341",
@@ -2001,12 +1998,12 @@
     "06e03fbf43545c4d2851e2441d5d9a41",
     "83245a11b291f796afe26276e389d692",
     "45cbb65e43fe84a81fa45c570f72b7f7",
-    "ebda4c399be4fd190802fd233dbb377d"
+    "ebda4c399be4fd190802fd233dbb377d",
+    "b2c7cc10b0ff2e2b4e9b956f5cfe9967",
+    "0fbafbe7b0a4895029cc9a568926eae0",
+    "743e22295d4f1c8c9101cea7ede4f1cd"
   ],
   "titles": [
-    "UNHCR-Chef Grandi: Hilfe als Investment statt als Wohltätigkeit",
-    "Interview der Woche - Bundespräsident Steinmeier plädiert für Multilateralismus",
-    "Konferenz in Essen - Gleichstellungsministerinnen fordern mehr Maßnahmen gegen digitale Gewalt",
     "Nach Bundestags-Entscheidung - Pro Asyl will juristisch gegen Aussetzung von Familiennachzug vorgehen",
     "Ukraine - Russischer Luftangriff auf Odessa",
     "Bundestag - UNO-Hochkommissar kritisiert Aussetzung des Familiennachzugs: \"So fällt Integration schwer\"",
@@ -3003,12 +3000,12 @@
     "Migration - Bundesaußenminister Wadephul: Nehmen Afghanen mit Aufnahmezusage prinzipiell auf",
     "\"Bild am Sonntag\" - EU-Kommission plant Verbrenner-Verbot für Mietwagenanbieter und Firmenflotten",
     "Vietnam - Vermisste und mindestens 38 Tote nach Bootsunglück",
-    "Japan - Regierungskoalition könnte bei der Oberhauswahl ihre Mehrheit auch in dieser Kammer verlieren"
+    "Japan - Regierungskoalition könnte bei der Oberhauswahl ihre Mehrheit auch in dieser Kammer verlieren",
+    "Tsunami-Warnung - Schwere Erdbeben im Osten Russlands",
+    "Syrien - Drusen erobern offenbar Suwaida zurück - Lage beruhigt sich",
+    "Energiewende: Bundesrechnungshof sieht Finanzklemme beim Klimafonds"
   ],
   "hashes": [
-    "ce0681c528e53835dac7b1da38c92a0d",
-    "9bf7b83589498c22b7366c0a10f62145",
-    "64c5a6f76c1fb3e5a14f9c6e20af35f8",
     "ffd6607d31c7ef0159a7f1b0cb9e1242",
     "14bff00846dcf6af2d666463a7ac19d8",
     "a927d8d6b109708f196b91906d8d512c",
@@ -4005,6 +4002,9 @@
     "9cbd5e43414ae5bee447718cf91f9aa2",
     "29b382112e7d7e0084bdaa67a7568067",
     "8b397ee3dd36f5591b42fa555c928044",
-    "ded24d55a43ff7ac63bb138f84b52608"
+    "ded24d55a43ff7ac63bb138f84b52608",
+    "583df27a58c84b29b9081993260fe1ed",
+    "d4ba05409894b98866a0d308d1c196b0",
+    "2e7b4949402452cded68f30a897230e9"
   ]
 }
