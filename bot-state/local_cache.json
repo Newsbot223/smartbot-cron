@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/radovan-fordert-von-uno-konferenz-loesungen-zur-finanzierung-von-entwicklungshilfe-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/merz-erster-eu-gipfel-dem-kanzler-wird-s-nicht-langweilig-110562401.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-wir-sind-auf-migration-angewiesen-faz-110093143.html",
     "https://www.deutschlandfunk.de/weitere-finanzierung-des-deutschlandtickets-bleibt-offen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/unhcr-chef-grandi-hilfe-als-investment-statt-als-wohltaetigkeit-110562055.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polizei-nimmt-menschenrechtsaktivist-boniface-mwangi-fest-100.html",
     "https://www.deutschlandfunk.de/drusen-erobern-offenbar-suwaida-vollstaendig-zurueck-100.html",
     "https://www.deutschlandfunk.de/suwaida-wieder-unter-kontrolle-der-drusen-100.html",
-    "https://www.deutschlandfunk.de/gkv-chef-kritisiert-debatte-ueber-leistungskuerzungen-bei-krankenkassen-102.html"
+    "https://www.deutschlandfunk.de/gkv-chef-kritisiert-debatte-ueber-leistungskuerzungen-bei-krankenkassen-102.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-nehmen-afghanen-mit-aufnahmezusage-prinzipiell-auf-102.html",
+    "https://www.deutschlandfunk.de/eu-kommission-plant-verbrenner-verbot-fuer-mietwagenanbieter-und-firmenflotten-100.html"
   ],
   "content_hashes": [
-    "de25b339aab867bffe70c146f06b81e0",
-    "19686086ddc77f9339882ee341448476",
     "2d3c0d60bc878ec92801151040b71f48",
     "3cb94a1565be48ca4170cec9e86d039d",
     "629cd298e70d48bd3fed11ca22a3b932",
@@ -2001,11 +1999,11 @@
     "b1f7ed1e6315a96bb2abbd86c9c84fe0",
     "e6d69e4e8ca0bd74b6beb80ee6d3d18f",
     "ca845c5cb5075a5061f0ce16c37697df",
-    "6cd004918fd43770cd65a78fc85964b6"
+    "6cd004918fd43770cd65a78fc85964b6",
+    "06e03fbf43545c4d2851e2441d5d9a41",
+    "83245a11b291f796afe26276e389d692"
   ],
   "titles": [
-    "Bundesministerin - Radovan fordert von UNO-Konferenz Lösungen zur Finanzierung von Entwicklungshilfe",
-    "Merz' erster EU-Gipfel: Dem Kanzler wird’s nicht langweilig",
     "Liveblog zur Merz-Regierung: Klingbeil: Wir sind auf Migration angewiesen",
     "Deutschlandticket - Weitere Finanzierung des Deutschlandtickets bleibt offen",
     "UNHCR-Chef Grandi: Hilfe als Investment statt als Wohltätigkeit",
@@ -3003,11 +3001,11 @@
     "Kenia - Polizei nimmt Menschenrechtsaktivist Boniface Mwangi fest",
     "Syrien - Drusen erobern offenbar Suwaida vollständig zurück",
     "Syrien - Suwaida wieder unter Kontrolle der Drusen",
-    "\"Interview der Woche\" - GKV-Chef kritisiert Debatte über Leistungskürzungen bei Krankenkassen"
+    "\"Interview der Woche\" - GKV-Chef kritisiert Debatte über Leistungskürzungen bei Krankenkassen",
+    "Migration - Bundesaußenminister Wadephul: Nehmen Afghanen mit Aufnahmezusage prinzipiell auf",
+    "\"Bild am Sonntag\" - EU-Kommission plant Verbrenner-Verbot für Mietwagenanbieter und Firmenflotten"
   ],
   "hashes": [
-    "a498c9d53156f5c87837b5f45613bf83",
-    "3db12c0e3e90a11c8201dbe507b0b443",
     "432e358d8b92ef866bb14cc1144f6ed4",
     "1a6f8ff51e97ca95ffd91eba600d585b",
     "ce0681c528e53835dac7b1da38c92a0d",
@@ -4005,6 +4003,8 @@
     "1374109dde7bf77e0e0c7b43cdfcb8b1",
     "49cb25a0239072e87dba0a5dc9ccdaa3",
     "e6be640721411fb8510e074ced84f298",
-    "a370a9f5cf3955cd1fc2c9e30be9a994"
+    "a370a9f5cf3955cd1fc2c9e30be9a994",
+    "9cbd5e43414ae5bee447718cf91f9aa2",
+    "29b382112e7d7e0084bdaa67a7568067"
   ]
 }
