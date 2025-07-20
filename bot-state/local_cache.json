@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeswehr-uebt-ueberquerung-von-fluessen-100.html",
     "https://www.deutschlandfunk.de/alt-kanzler-scholz-ruft-spd-dazu-auf-an-gesellschaftspolitischen-reformen-festzuhalten-100.html",
     "https://www.deutschlandfunk.de/der-praesident-der-university-of-virginia-tritt-zurueck-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-wurde-lars-klingbeil-so-abgestraft-und-was-heisst-das-fuer-die-koalition-110563991.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/spd-chef-klingbeil-haelt-an-nominierung-von-brosius-gersdorf-fest-100.html",
     "https://www.deutschlandfunk.de/interview-blatt-oliver-vorstandsvorsitzender-gkv-spitzenverband-100.html",
     "https://www.deutschlandfunk.de/schweres-erdbeben-im-osten-russlands-tsunami-warnung-aufgehoben-100.html",
-    "https://www.deutschlandfunk.de/iran-zu-neuen-gespraechen-mit-deutschland-frankreich-und-grossbritannien-bereit-100.html"
+    "https://www.deutschlandfunk.de/iran-zu-neuen-gespraechen-mit-deutschland-frankreich-und-grossbritannien-bereit-100.html",
+    "https://www.deutschlandfunk.de/regierungskoalition-vor-verlust-der-mehrheit-bei-oberhauswahl-102.html"
   ],
   "content_hashes": [
-    "c1be3bc3183eced82bfe648bf6864349",
     "2c08b319fb8b2a94646e29867552b36f",
     "01926b9c9c6e5d5ddbe2fd4ecb99783f",
     "e86ff9a51b012c36e04b150e5a7d545e",
@@ -2001,10 +2000,10 @@
     "0e23f4636bfdc6476d8c1e662c75640d",
     "9b9e7215c13561e56dd4bbd07e1e17db",
     "4381db6ab2d814266a57cdb224edf986",
-    "674052e39710f0cea2dd2aeed983295a"
+    "674052e39710f0cea2dd2aeed983295a",
+    "c76b95eef1507c1303fd416533c036c0"
   ],
   "titles": [
-    "Rhein und Weser - Bundeswehr übt Überquerung von Flüssen",
     "Bundesparteitag - Alt-Kanzler Scholz ruft SPD dazu auf, an gesellschaftspolitischen Reformen festzuhalten",
     "Auf Druck der US-Regierung - Der Präsident der University of Virginia tritt zurück",
     "Warum wurde Lars Klingbeil so abgestraft – und was heißt das für die Koalition?",
@@ -3003,10 +3002,10 @@
     "Bundesverfassungsgericht - SPD-Chef Klingbeil hält an Nominierung von Brosius-Gersdorf fest",
     "Krankenkassen - GKV-Vorstand: Leistungskürzungen sollten nicht das Ziel sein",
     "Stärke 7,4 - Schweres Erdbeben im Osten Russlands - Tsunami-Warnung aufgehoben",
-    "Atomkonflikt - Iran zu neuen Gesprächen mit Deutschland, Frankreich und Großbritannien bereit"
+    "Atomkonflikt - Iran zu neuen Gesprächen mit Deutschland, Frankreich und Großbritannien bereit",
+    "Japan - Regierungskoalition vor Verlust der Mehrheit bei Oberhauswahl"
   ],
   "hashes": [
-    "188538a68d6e1c3850f957c5320c61af",
     "0f3aaa4c36e58f256a0551cb5c68b356",
     "3dc7e530548c3b4764db162dfca957aa",
     "93ca8d4f154ce6e89d52391f61eb0555",
@@ -4005,6 +4004,7 @@
     "55e48814adb808cbedf1280da7d70893",
     "3a3f6673c77ef5e4989ef3fab999aaca",
     "7afb20793017a50f03f99bf1f023c32f",
-    "678b44279909f15f5537f80345ceff06"
+    "678b44279909f15f5537f80345ceff06",
+    "48b1dda3ddd2a60e088c22cf7ea28ea2"
   ]
 }
