@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-zur-merz-regierung-klingbeil-wir-sind-auf-migration-angewiesen-faz-110093143.html",
     "https://www.deutschlandfunk.de/weitere-finanzierung-des-deutschlandtickets-bleibt-offen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/unhcr-chef-grandi-hilfe-als-investment-statt-als-wohltaetigkeit-110562055.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-plaediert-fuer-multilateralismus-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/suwaida-wieder-unter-kontrolle-der-drusen-100.html",
     "https://www.deutschlandfunk.de/gkv-chef-kritisiert-debatte-ueber-leistungskuerzungen-bei-krankenkassen-102.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-nehmen-afghanen-mit-aufnahmezusage-prinzipiell-auf-102.html",
-    "https://www.deutschlandfunk.de/eu-kommission-plant-verbrenner-verbot-fuer-mietwagenanbieter-und-firmenflotten-100.html"
+    "https://www.deutschlandfunk.de/eu-kommission-plant-verbrenner-verbot-fuer-mietwagenanbieter-und-firmenflotten-100.html",
+    "https://www.deutschlandfunk.de/vermisste-und-mindestens-38-tote-nach-bootsunglueck-100.html"
   ],
   "content_hashes": [
-    "2d3c0d60bc878ec92801151040b71f48",
     "3cb94a1565be48ca4170cec9e86d039d",
     "629cd298e70d48bd3fed11ca22a3b932",
     "6f5b5c61d193c0a6e206274f6db07295",
@@ -2001,10 +2000,10 @@
     "ca845c5cb5075a5061f0ce16c37697df",
     "6cd004918fd43770cd65a78fc85964b6",
     "06e03fbf43545c4d2851e2441d5d9a41",
-    "83245a11b291f796afe26276e389d692"
+    "83245a11b291f796afe26276e389d692",
+    "45cbb65e43fe84a81fa45c570f72b7f7"
   ],
   "titles": [
-    "Liveblog zur Merz-Regierung: Klingbeil: Wir sind auf Migration angewiesen",
     "Deutschlandticket - Weitere Finanzierung des Deutschlandtickets bleibt offen",
     "UNHCR-Chef Grandi: Hilfe als Investment statt als Wohltätigkeit",
     "Interview der Woche - Bundespräsident Steinmeier plädiert für Multilateralismus",
@@ -3003,10 +3002,10 @@
     "Syrien - Suwaida wieder unter Kontrolle der Drusen",
     "\"Interview der Woche\" - GKV-Chef kritisiert Debatte über Leistungskürzungen bei Krankenkassen",
     "Migration - Bundesaußenminister Wadephul: Nehmen Afghanen mit Aufnahmezusage prinzipiell auf",
-    "\"Bild am Sonntag\" - EU-Kommission plant Verbrenner-Verbot für Mietwagenanbieter und Firmenflotten"
+    "\"Bild am Sonntag\" - EU-Kommission plant Verbrenner-Verbot für Mietwagenanbieter und Firmenflotten",
+    "Vietnam - Vermisste und mindestens 38 Tote nach Bootsunglück"
   ],
   "hashes": [
-    "432e358d8b92ef866bb14cc1144f6ed4",
     "1a6f8ff51e97ca95ffd91eba600d585b",
     "ce0681c528e53835dac7b1da38c92a0d",
     "9bf7b83589498c22b7366c0a10f62145",
@@ -4005,6 +4004,7 @@
     "e6be640721411fb8510e074ced84f298",
     "a370a9f5cf3955cd1fc2c9e30be9a994",
     "9cbd5e43414ae5bee447718cf91f9aa2",
-    "29b382112e7d7e0084bdaa67a7568067"
+    "29b382112e7d7e0084bdaa67a7568067",
+    "8b397ee3dd36f5591b42fa555c928044"
   ]
 }
