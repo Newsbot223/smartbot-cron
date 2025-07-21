@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanada-zieht-im-handelsstreit-mit-den-usa-digitalsteuer-zurueck-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-jeder-dritte-zug-verspaetet-100.html",
     "https://www.deutschlandfunk.de/serbischer-praesident-vucic-keine-verhandlungen-mit-terroristen-100.html",
     "https://www.deutschlandfunk.de/bundeswehrverband-kritisiert-spd-beschluss-zu-freiwilligkeit-bei-wehrdienst-102.html",
     "https://www.deutschlandfunk.de/deutsche-bahn-mehr-als-jeder-dritte-fernzug-verspaetet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/25-staaten-fordern-ende-des-gazakrieges-100.html",
     "https://www.deutschlandfunk.de/gruenen-politikerin-brugger-wirft-berlin-de-facto-anerkennung-des-taliban-regimes-vor-100.html",
     "https://www.deutschlandfunk.de/taliban-nehmen-laut-uno-frauen-und-maedchen-wegen-hidschab-verstoessen-fest-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-draengt-auf-verhandlungen-ueber-kriegsende-aber-nur-auf-praesidentenebene-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-draengt-auf-verhandlungen-ueber-kriegsende-aber-nur-auf-praesidentenebene-100.html",
+    "https://www.deutschlandfunk.de/militaerjet-stuerzt-auf-schule-mindestens-20-tote-und-mehr-als-170-verletzte-102.html",
+    "https://www.deutschlandfunk.de/feuerwerk-unfall-auf-rheinkirmes-offenbar-durch-fehlzuendung-verursacht-100.html"
   ],
   "content_hashes": [
-    "3223e09038d4e8c65989da8224052768",
-    "994ca6a0feda4a66f457a3e633256a2c",
     "b5cea77092f45f9e749e8817abb89de1",
     "aecdfb3b7c014aa24eb904aa103e2dc9",
     "6adf345c4ccbf5363b33c391bd7f8438",
@@ -2001,11 +1999,11 @@
     "da6a0dd20a713f4e651c2dd430b4109c",
     "7dca5a471853dbcc30c426c7949e9cc8",
     "cb6f92974d619d23fa3bcb5f37594806",
-    "59767e86f9b386576a4db51037431d9f"
+    "59767e86f9b386576a4db51037431d9f",
+    "d563952c9712140c6e95b912c65859a4",
+    "2d2cc88eaf82fc9e99c79cd360e7b3ca"
   ],
   "titles": [
-    "Wirtschaft - Kanada zieht im Handelsstreit mit den USA Digitalsteuer zurück",
-    "Deutsche Bahn - Mehr als jeder dritte Zug verspätet",
     "Nach Protesten in Belgrad - Serbischer Präsident Vucic: Keine Verhandlungen mit Terroristen",
     "Nach Parteitag - Bundeswehrverband kritisiert SPD-Beschluss zu Freiwilligkeit bei Wehrdienst",
     "Mobilität - Deutsche Bahn: Mehr als jeder dritte Fernzug verspätet",
@@ -3003,11 +3001,11 @@
     "Gazastreifen - 25 Staaten fordern Ende des Gazakrieges",
     "Afghanische Konsularbeamte - Grünen-Politikerin Brugger wirft Berlin de facto Anerkennung des Taliban-Regimes vor",
     "Afghanistan - Taliban nehmen laut UNO Frauen und Mädchen wegen Hidschab-Verstößen fest",
-    "Krieg - Selenskyj drängt auf Verhandlungen über Kriegsende - aber nur auf Präsidentenebene"
+    "Krieg - Selenskyj drängt auf Verhandlungen über Kriegsende - aber nur auf Präsidentenebene",
+    "Bangladesch - Militärjet stürzt auf Schule, mindestens 20 Tote und mehr als 170 Verletzte",
+    "Düsseldorf - Feuerwerk-Unfall auf Rheinkirmes offenbar durch Fehlzündung verursacht"
   ],
   "hashes": [
-    "03c340c25bb9659db6c7cc7eaefcece8",
-    "4eda0dabc04508028a35d02f831ee80e",
     "c64a0c975429c3b2bd7f36456f94fd3e",
     "3b75745b031a1aceb174cb257b182841",
     "aa1717f6299090014de8ea1b41f77877",
@@ -4005,6 +4003,8 @@
     "b4d4ffa65b065159662321e384c3c55c",
     "254249563f31b5d1f7f7b928175c7cca",
     "1ade39826293d01348418409828488f4",
-    "a9402c36bd0c4803545dc23eeb4c127c"
+    "a9402c36bd0c4803545dc23eeb4c127c",
+    "d7af58b1947f96f5c1ac449fa1fc7553",
+    "59e63526d522955122fe37a93d59ec1b"
   ]
 }
