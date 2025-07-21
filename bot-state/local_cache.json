@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bsw-kritisiert-groesste-aufruestung-in-geschichte-der-bundesrepublik-104.html",
     "https://www.deutschlandfunk.de/cannes-erlaubt-nur-noch-ein-kreuzfahrtschiff-pro-tag-102.html",
     "https://www.aljazeera.com/video/the-bottom-line/2025/6/29/will-iran-double-down-on-its-nuclear-programme-after-the-war?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/parteitag-der-spd-vorwaerts-nimmer-rueckwaerts-immer-110564977.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/haelfte-aller-bewohner-von-tuvalu-hat-bereits-einwanderung-nach-australien-beantragt-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommentar-zur-koalition-die-quadratur-der-cdu-kreise-110599526.html",
     "https://www.deutschlandfunk.de/regierung-evakuiert-beduinenfamilien-aus-suweida-100.html",
-    "https://www.deutschlandfunk.de/afd-fordert-wiederholung-von-gestoertem-weidel-interview-linnemann-kritisiert-aktivisten-100.html"
+    "https://www.deutschlandfunk.de/afd-fordert-wiederholung-von-gestoertem-weidel-interview-linnemann-kritisiert-aktivisten-100.html",
+    "https://www.deutschlandfunk.de/israel-greift-erneut-stellungen-der-huthi-an-100.html"
   ],
   "content_hashes": [
-    "f7e5e2b1742d8f9d5da750d7f0baed41",
     "f39c94bca2f2ad25aedc3ce95d5321c5",
     "157531d0452dc86c51cbb7bb4b0e09f0",
     "8bf3b2a6320fa597d9d1344b95b15b88",
@@ -2001,10 +2000,10 @@
     "481292a5cf7284dd0c838d6612fa6bc7",
     "75d08871ad8dec2c19cbab7ea6f8899b",
     "e9c6acdb74f2149efcc1b042ad02c2c4",
-    "4911dc0021be58831525c9044165fbeb"
+    "4911dc0021be58831525c9044165fbeb",
+    "dc59c0c88138b883f6fe2953d004ded5"
   ],
   "titles": [
-    "Tagung in Berlin - BSW kritisiert \"größte Aufrüstung in Geschichte der Bundesrepublik\"",
     "Südfrankreich - Cannes erlaubt nur noch ein Kreuzfahrtschiff pro Tag",
     "Will Iran double down on its nuclear programme after the war?",
     "SPD-Parteitag: Vorwärts nimmer, rückwärts immer!",
@@ -3003,10 +3002,10 @@
     "Klimawandel - Hälfte aller Bewohner von Tuvalu hat bereits Einwanderung nach Australien beantragt",
     "Kommentar zur Koalition: Die Quadratur der CDU-Kreise",
     "Syrien - Regierung evakuiert Beduinenfamilien aus Suweida",
-    "\"Sommerinterview\" - AfD fordert Wiederholung von gestörtem Weidel-Interview - Linnemann kritisiert Aktivisten"
+    "\"Sommerinterview\" - AfD fordert Wiederholung von gestörtem Weidel-Interview - Linnemann kritisiert Aktivisten",
+    "Jemen - Israel greift erneut Stellungen der Huthi an"
   ],
   "hashes": [
-    "36208f09883bf82b0a66665a50d554ce",
     "9e23c3ad0b7466a499bf4e373c5a76e1",
     "8e4079f3d7a1374a76b3b679bdcb4529",
     "02bfc5fa747fa2947cd7ccec786ee0b5",
@@ -4005,6 +4004,7 @@
     "5a036d95ac816a3c837458ec49771635",
     "35dab0e118ba385d1b060894ab37b7e8",
     "8c1659342f1e5bf2500ec0a33f882f7e",
-    "123c513ed596f35a50b543eed3120e1d"
+    "123c513ed596f35a50b543eed3120e1d",
+    "39a8122083337050af67677933e331b3"
   ]
 }
