@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-heftiger-streit-in-ampel-koalition-110562799.html",
-    "https://www.deutschlandfunk.de/erneut-proteste-gegen-die-regierung-in-belgrad-und-forderungen-nach-neuwahlen-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-gegenwaertige-unpuenktlichkeit-inakzeptabel-100.html",
     "https://www.deutschlandfunk.de/spd-will-debatte-ueber-afd-verbotsverfahren-vorantreiben-100.html",
     "https://www.deutschlandfunk.de/festnahmen-und-verletzte-bei-massenprotest-gegen-serbische-regierung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-empfaengt-manager-zu-sogenanntem-investitionsgipfel-100.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-besucht-grenze-zu-belarus-102.html",
     "https://www.deutschlandfunk.de/neue-vorsitzende-karliczek-cdu-will-wegen-protesten-gegen-urlauber-als-brueckenbauerin-wirken-100.html",
-    "https://www.deutschlandfunk.de/uno-buero-raeumungsbefehl-fuer-weite-teile-von-gaza-stadt-ist-verheerend-fuer-hilfsversorgung-100.html"
+    "https://www.deutschlandfunk.de/uno-buero-raeumungsbefehl-fuer-weite-teile-von-gaza-stadt-ist-verheerend-fuer-hilfsversorgung-100.html",
+    "https://www.deutschlandfunk.de/uno-nothilfebuero-kritisiert-neuen-raeumungsbefehl-der-israelischen-armee-verheerend-fuer-hilfsverso-100.html",
+    "https://www.deutschlandfunk.de/regierung-von-ministerpraesident-ishiba-verliert-mehrheit-auch-im-oberhaus-rechtsaussen-partei-gewin-100.html"
   ],
   "content_hashes": [
-    "5298ad67ef1020cffa980c5204d7870a",
-    "9d676da00201f51d8e7450bda9c3cd23",
     "71249008c7e49ab1fe20d8a49c5d440d",
     "a45103dda4159e414d68eb706b627ce9",
     "79f00a0daad5a55de48a65d12f02f755",
@@ -2001,11 +1999,11 @@
     "cea37dda78f27a1dfd2144b3a4553347",
     "3933b72ac95a4b775fcc689fe966a949",
     "f0a11358be5ee209cc589e7dfaa53eb5",
-    "8b62d8fb7c94ab43d1c01371771c75b9"
+    "8b62d8fb7c94ab43d1c01371771c75b9",
+    "aca73bdf5cbd038883636f607e1dc57c",
+    "15f8940d03ed2177b07940f5574e9f5f"
   ],
   "titles": [
-    "Kritik von allen Seiten: Eine Zerreißprobe für die rheinland-pfälzische Ampel",
-    "Serbien - Erneut Proteste gegen die Regierung in Belgrad und Forderungen nach Neuwahlen",
     "Deutsche Bahn - Bundesverkehrsminister: Gegenwärtige Unpünktlichkeit inakzeptabel",
     "Parteitag in Berlin - SPD will Debatte über AfD-Verbotsverfahren vorantreiben",
     "Belgrad - Festnahmen und Verletzte bei Massenprotest gegen serbische Regierung",
@@ -3003,11 +3001,11 @@
     "Standort Deutschland - Bundeskanzler Merz empfängt Manager zu sogenanntem Investitionsgipfel",
     "Polen - Bundesinnenminister Dobrindt besucht Grenze zu Belarus",
     "Tourismusausschuss - Neue Vorsitzende Karliczek (CDU) will wegen Protesten gegen Urlauber als \"Brückenbauerin\" wirken",
-    "Gazastreifen - UNO-Büro: Räumungsbefehl für weite Teile von Gaza-Stadt ist \"verheerend\" für Hilfsversorgung"
+    "Gazastreifen - UNO-Büro: Räumungsbefehl für weite Teile von Gaza-Stadt ist \"verheerend\" für Hilfsversorgung",
+    "Gazastreifen - UNO-Nothilfebüro kritisiert neuen Räumungsbefehl der israelischen Armee - \"verheerend für Hilfsversorgung\"",
+    "Japan - Regierung von Ministerpräsident Ishiba verliert Mehrheit auch im Oberhaus - Rechtsaußen-Partei gewinnt dazu"
   ],
   "hashes": [
-    "e7ba311478a00c962e946e65a27c0da7",
-    "7479d3321d620deb641c0497c0142eb2",
     "91474b0f6b310f8ac622639003fde5c3",
     "4622b17aa273377b75713a94f831be10",
     "7fb89c671a4c8e41bf373893f0ac59a6",
@@ -4005,6 +4003,8 @@
     "60745e14972e6e547a83de8b3d135388",
     "737f6d0651ef28b467dda277bd03def8",
     "cfae0e639fa2b42ca0d22c27670c150c",
-    "ebcb18e8b365b453c3a02b7f358c2dc5"
+    "ebcb18e8b365b453c3a02b7f358c2dc5",
+    "d9bc3025c7162fa2f3065f1d89cd9ec5",
+    "de3e5b547d148331f8e4f9778a853163"
   ]
 }
