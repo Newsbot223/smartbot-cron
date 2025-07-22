@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/union-auch-nach-spd-parteitagsbeschluss-zurueckhaltend-beim-thema-afd-verbotsantrag-104.html",
-    "https://www.deutschlandfunk.de/iran-will-nach-krieg-atomprogramm-fortsetzen-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-weist-spahns-vorstoss-zur-atompolitik-zurueck-100.html",
     "https://www.deutschlandfunk.de/kriegfuehrende-indianer-t-shirt-von-us-saengerin-beyonc-loest-welle-der-kritik-aus-102.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-in-kiew-100.html",
     "https://www.deutschlandfunk.de/grossbritannien-darf-kampfjet-bauteile-nach-israel-exportieren-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-fuer-bessere-verstaendigung-mit-laendern-und-kommunen-100.html",
     "https://www.deutschlandfunk.de/arbeitsministerin-bas-bringt-tariftreuegesetz-auf-den-weg-104.html",
     "https://www.deutschlandfunk.de/mehr-als-160-zwangsprostituierte-in-spanien-befreit-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kommunale-finanzen-karlsruhe-fehlt-das-geld-110600990.html"
+    "https://www.faz.net/aktuell/politik/inland/kommunale-finanzen-karlsruhe-fehlt-das-geld-110600990.html",
+    "https://www.deutschlandfunk.de/welternaehrungsprogramm-der-uno-es-herrscht-reines-chaos-100.html",
+    "https://www.deutschlandfunk.de/abschiebeflug-in-den-irak-gestartet-100.html",
+    "https://www.spiegel.de/panorama/justiz/zwiesel-37-jaehriger-soll-drei-menschen-getoetet-haben-a-d4eb6338-8f43-44fa-a010-eb8bc027789a#ref=rss"
   ],
   "content_hashes": [
-    "159796cd7e9e1fec2c644fd136a85b30",
-    "a81e0d90ab1b0fc33e80ccfaac88699d",
-    "0e062f8729112a3b276808eaeca5f922",
     "96055f9e00a7740f552cad351583371d",
     "8badb6e8eb8c78a107295e6deda54e33",
     "947f6eef9f7f9a5452e76598a56aa68e",
@@ -2001,12 +1998,12 @@
     "d7f4ef10a4fcb629cfed0e17049d3c2a",
     "0642f4b8424dd7fbeec4dd57dca42ce1",
     "f9ce928e2ec48c38ecc2ae87076b038c",
-    "8e3b49271a62c3b8de9c57f867447773"
+    "8e3b49271a62c3b8de9c57f867447773",
+    "5413ced3853b4b43ab3fb4efa01fae7e",
+    "48c9f40cb500181d8ec52a8357a8e612",
+    "162637383455df7a663393983d6db718"
   ],
   "titles": [
-    "Rechtsextremismus - Union auch nach SPD-Parteitagsbeschluss zurückhaltend beim Thema AfD-Verbotsantrag",
-    "Teheran - Iran will nach Krieg Atomprogramm fortsetzen",
-    "Deutsch-Europäischer Schutzschirm - Bundesregierung weist Spahns Vorstoß zur Atompolitik zurück",
     "Konzert in Paris - \"Kriegführende Indianer\": T-Shirt von US-Sängerin Beyoncé löst Welle der Kritik aus",
     "Wadephul in der Ukraine - Besuch im Sinne einer Wirtschaftsdiplomatie",
     "Gericht weist Klage ab - Großbritannien darf Kampfjet-Bauteile nach Israel exportieren",
@@ -3003,12 +3000,12 @@
     "Föderalismus - Bundeskanzler Merz wirbt für bessere Verständigung mit Ländern und Kommunen",
     "Öffentliche Aufträge - Arbeitsministerin Bas bringt Tariftreuegesetz auf den Weg",
     "Razzien - Mehr als 160 Zwangsprostituierte in Spanien befreit",
-    "Kommunale Finanzen: Düstere Aussichten"
+    "Kommunale Finanzen: Düstere Aussichten",
+    "Krieg im Gazastreifen - Welternährungsprogramm der UNO: \"Es herrscht reines Chaos\"",
+    "Flughafen Leipzig/Halle - Abschiebeflug in den Irak gestartet",
+    "Zwiesel: 37-Jähriger soll drei Menschen getötet haben"
   ],
   "hashes": [
-    "dddc01e85e92261bb6acc845030d5868",
-    "601965e72f0ed83cdb124e97ab3159bd",
-    "93199fa33469b1faca90818b0586d39c",
     "95371ecc573f711aac446dbd39815db0",
     "1e59bad72bccd185b5a68347d085a1d5",
     "0d0700cf1f8e3d283f0be5973b822920",
@@ -4005,6 +4002,9 @@
     "1a93ba94ac523b94ddf9b06e78f44e3b",
     "f385a710dc5b484a1d0c694dd6a3946d",
     "783ccee8778f2a4033f504059f0f9ae9",
-    "ab2424287ff7f6586559fef12bafc996"
+    "ab2424287ff7f6586559fef12bafc996",
+    "bc371301d65b251d6cf2cd5ac8f6e422",
+    "23c603823888bf6cb290bdd07ee9ae52",
+    "9e86883b1a90f128e2447d57c8738603"
   ]
 }
