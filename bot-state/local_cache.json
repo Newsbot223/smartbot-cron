@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/merkel-kritisiert-zurueckweisungen-110567197.html",
-    "https://www.deutschlandfunk.de/zahl-der-schutzsuchenden-in-deutschland-gestiegen-104.html",
     "https://www.deutschlandfunk.de/zwoelf-tote-bei-explosion-in-pharmaanlage-100.html",
     "https://www.deutschlandfunk.de/bund-verlaengert-beschaeftigungsgarantie-fuer-pck-raffinerie-schwedt-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-schliesst-gespraeche-mit-ukraine-ab-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bosch-kuendigt-streichnung-von-bis-zu-1-100-stellen-in-reutlingen-an-100.html",
     "https://www.deutschlandfunk.de/bund-foerdert-lithium-projekte-in-deutschland-104.html",
     "https://www.deutschlandfunk.de/entwurf-von-arbeitsministerin-bas-fuer-sogenanntes-tariftreuegesetz-stoesst-auf-ein-geteiltes-echo-100.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-sich-der-streit-um-palantir-in-baden-wuerttemberg-zuspitzt-110602731.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-sich-der-streit-um-palantir-in-baden-wuerttemberg-zuspitzt-110602731.html",
+    "https://www.deutschlandfunk.de/bosch-kuendigt-streichung-von-bis-zu-1-560-stellen-an-100.html",
+    "https://www.deutschlandfunk.de/bundesverwaltungsgericht-weist-afd-beschwerden-zur-einstufung-als-rechtsextremistischer-verdachtsfal-100.html"
   ],
   "content_hashes": [
-    "03873370d96051f0e9afb9f6fb6c743e",
-    "93bfb12e8af122eda46ca0dc8d31d64b",
     "b54e559910e5249bb2cea2bc4a041d44",
     "7a4cd9fec8d71334a413ed05020dba19",
     "f530c9ca516c241f8f7e225902dc494c",
@@ -2001,11 +1999,11 @@
     "75766a07c93f50752b1275cd09d274c2",
     "563478ff09dea59357404aed85797a75",
     "6f3c6d1bdc853d698036a16232a72bbc",
-    "509f05ec76564df32ae0f9b1b5e3759d"
+    "509f05ec76564df32ae0f9b1b5e3759d",
+    "6868ecd7e0983b10063674286f43aeb1",
+    "2d8711fec7809c82312973384df52580"
   ],
   "titles": [
-    "Flüchtlingspolitik: Merkel kritisiert Zurückweisungen",
-    "Statistik - Zahl der Schutzsuchenden in Deutschland gestiegen",
     "Indien - Zwölf Tote bei Explosion in Pharmaanlage",
     "Ukraine-Krieg - Bund verlängert Beschäftigungsgarantie für PCK-Raffinerie Schwedt",
     "Freihandelsabkommen - EU-Kommission schließt Gespräche mit Ukraine ab",
@@ -3003,11 +3001,11 @@
     "Unternehmen - Bosch kündigt Streichnung von bis zu 1.100 Stellen in Reutlingen an",
     "Wirtschaft - Bund fördert Lithium-Projekte in Deutschland",
     "Öffentliche Aufträge - Entwurf von Arbeitsministerin Bas für sogenanntes Tariftreuegesetz stößt auf ein geteiltes Echo",
-    "Palantir bei der Polizei: Besser fahnden mit der Software von Peter Thiel?"
+    "Palantir bei der Polizei: Besser fahnden mit der Software von Peter Thiel?",
+    "Unternehmen - Bosch kündigt Streichung von bis zu 1.560 Stellen an",
+    "Leipzig - Bundesverwaltungsgericht weist AfD-Beschwerden zur Einstufung als rechtsextremistischer Verdachtsfall zurück"
   ],
   "hashes": [
-    "898977ddbb67d2b8a31364112a4e4b08",
-    "26f33eb7ebae968a9f2e286652e6dffd",
     "c12303f8b6326c6bf1a809dd6a063eb9",
     "348120c82ab62d3fb894357400f8c46b",
     "eebeded41842af4e6930049d7c5aa71c",
@@ -4005,6 +4003,8 @@
     "99a396e9839c0b4f564a8638d42bf5ca",
     "ab93dd57c8490ff1aa53fc63c8a17ba3",
     "e2894079c845cdd9ba906bae1dd35af5",
-    "90e5bf59360c581b388a04ff6b46f926"
+    "90e5bf59360c581b388a04ff6b46f926",
+    "ee32064bd61b2e65db213df58bb03332",
+    "53d744c1f94d40d77eb21f910448364a"
   ]
 }
