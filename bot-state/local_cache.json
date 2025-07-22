@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/warum-reiner-haseloff-seine-bildungsministerin-eva-feussner-entlassen-hat-110566687.html",
-    "https://www.deutschlandfunk.de/inflation-im-juni-auf-2-0-prozent-gesunken-100.html",
     "https://www.deutschlandfunk.de/union-auch-nach-spd-parteitagsbeschluss-zurueckhaltend-beim-thema-afd-verbotsantrag-104.html",
     "https://www.deutschlandfunk.de/iran-will-nach-krieg-atomprogramm-fortsetzen-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-weist-spahns-vorstoss-zur-atompolitik-zurueck-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/naechster-abschiebeflug-gestartet-diesmal-in-den-irak-100.html",
     "https://www.deutschlandfunk.de/huthi-miliz-greift-flughafen-ben-gurion-bei-tel-aviv-an-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-fuer-bessere-verstaendigung-mit-laendern-und-kommunen-100.html",
-    "https://www.deutschlandfunk.de/arbeitsministerin-bas-bringt-tariftreuegesetz-auf-den-weg-104.html"
+    "https://www.deutschlandfunk.de/arbeitsministerin-bas-bringt-tariftreuegesetz-auf-den-weg-104.html",
+    "https://www.deutschlandfunk.de/mehr-als-160-zwangsprostituierte-in-spanien-befreit-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kommunale-finanzen-karlsruhe-fehlt-das-geld-110600990.html"
   ],
   "content_hashes": [
-    "43ed69146fbed65d0e533ab33db5433d",
-    "ae4a6b849118229ccb8cdd19a17a32bf",
     "159796cd7e9e1fec2c644fd136a85b30",
     "a81e0d90ab1b0fc33e80ccfaac88699d",
     "0e062f8729112a3b276808eaeca5f922",
@@ -2001,11 +1999,11 @@
     "4798a20c8f03a0b330d29245f8b3102d",
     "e8c7c988642b45ff3f76a197da560463",
     "d7f4ef10a4fcb629cfed0e17049d3c2a",
-    "0642f4b8424dd7fbeec4dd57dca42ce1"
+    "0642f4b8424dd7fbeec4dd57dca42ce1",
+    "f9ce928e2ec48c38ecc2ae87076b038c",
+    "8e3b49271a62c3b8de9c57f867447773"
   ],
   "titles": [
-    "Warum Reiner Haseloff seine Bildungsministerin Eva Feußner entlassen hat",
-    "Wirtschaft - Inflation im Juni auf 2,0 Prozent gesunken",
     "Rechtsextremismus - Union auch nach SPD-Parteitagsbeschluss zurückhaltend beim Thema AfD-Verbotsantrag",
     "Teheran - Iran will nach Krieg Atomprogramm fortsetzen",
     "Deutsch-Europäischer Schutzschirm - Bundesregierung weist Spahns Vorstoß zur Atompolitik zurück",
@@ -3003,11 +3001,11 @@
     "Flughafen Leipzig/Halle - Nächster Abschiebeflug gestartet - diesmal in den Irak",
     "Israel - Huthi-Miliz greift Flughafen Ben Gurion bei Tel Aviv an",
     "Föderalismus - Bundeskanzler Merz wirbt für bessere Verständigung mit Ländern und Kommunen",
-    "Öffentliche Aufträge - Arbeitsministerin Bas bringt Tariftreuegesetz auf den Weg"
+    "Öffentliche Aufträge - Arbeitsministerin Bas bringt Tariftreuegesetz auf den Weg",
+    "Razzien - Mehr als 160 Zwangsprostituierte in Spanien befreit",
+    "Kommunale Finanzen: Düstere Aussichten"
   ],
   "hashes": [
-    "dc61234891db0b792b6e5b8b5ab6e9b0",
-    "aaad56e30aaf771222f69cf9efabfcd5",
     "dddc01e85e92261bb6acc845030d5868",
     "601965e72f0ed83cdb124e97ab3159bd",
     "93199fa33469b1faca90818b0586d39c",
@@ -4005,6 +4003,8 @@
     "c01fec7df7de9b351262e419d858b329",
     "95069871ea85327b742948733e028c4b",
     "1a93ba94ac523b94ddf9b06e78f44e3b",
-    "f385a710dc5b484a1d0c694dd6a3946d"
+    "f385a710dc5b484a1d0c694dd6a3946d",
+    "783ccee8778f2a4033f504059f0f9ae9",
+    "ab2424287ff7f6586559fef12bafc996"
   ]
 }
