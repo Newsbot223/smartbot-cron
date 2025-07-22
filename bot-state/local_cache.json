@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jung-cdu-betont-bedeutung-der-klimapolitik-fuer-die-bundesregierung-100.html",
-    "https://www.deutschlandfunk.de/projekt-der-universitaet-duisburg-essen-online-plattform-dokumentiert-angriffe-auf-juedische-friedho-102.html",
     "https://www.deutschlandfunk.de/wird-chp-chef-oezel-abgesetzt-richter-vertagt-anhoerung-zu-angeblichem-betrug-bei-chp-parteitag-100.html",
     "https://www.spiegel.de/wirtschaft/stromsteuer-senkung-fuer-verbraucher-wuerde-laut-finanzministerium-5-4-milliarden-euro-zusaetzlich-kosten-a-260e6309-3928-4ef9-a98b-e1863782af1c#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/warum-reiner-haseloff-seine-bildungsministerin-eva-feussner-entlassen-hat-110566687.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/bjoern-boehning-soll-mit-klingbeil-spd-wieder-aufbauen-110584560.html",
     "https://www.deutschlandfunk.de/us-satiriker-colbert-sagt-trump-den-kampf-an-102.html",
     "https://www.deutschlandfunk.de/zahl-von-habilitationen-in-deutschland-leicht-gesunken-102.html",
-    "https://www.deutschlandfunk.de/schlesinger-wird-fuehrungskraefte-beraterin-bei-berliner-unternehmen-102.html"
+    "https://www.deutschlandfunk.de/schlesinger-wird-fuehrungskraefte-beraterin-bei-berliner-unternehmen-102.html",
+    "https://www.deutschlandfunk.de/naechster-abschiebeflug-gestartet-diesmal-in-den-irak-100.html",
+    "https://www.deutschlandfunk.de/huthi-miliz-greift-flughafen-ben-gurion-bei-tel-aviv-an-100.html"
   ],
   "content_hashes": [
-    "0fb15252d6ecf07e8a0d9cb99ccfdbec",
-    "807f106e33ef0bf58359fe32399e495b",
     "7c746c9e6a293ecf509ac6eb210d6283",
     "7ea446a8e792e0ccb5ade59bca6d3900",
     "43ed69146fbed65d0e533ab33db5433d",
@@ -2001,11 +1999,11 @@
     "d7b31466e699d59523e6973da21d9c1a",
     "1ab890cb63154c8f3c8b656d65b89f1f",
     "992df66e5ed3f91556e2006626f6e742",
-    "7b0c6fd0494241f6bb7bf53cb7b36e40"
+    "7b0c6fd0494241f6bb7bf53cb7b36e40",
+    "4798a20c8f03a0b330d29245f8b3102d",
+    "e8c7c988642b45ff3f76a197da560463"
   ],
   "titles": [
-    "Klimaschutz - Jung (CDU) betont Bedeutung der Klimapolitik für die Bundesregierung",
-    "Antisemitismus - Projekt der Universität Duisburg-Essen: Online-Plattform dokumentiert Angriffe auf jüdische Friedhöfe",
     "Größte Oppositionspartei - Wird CHP-Chef Özel abgesetzt? Richter vertagt Anhörung zu angeblichem Betrug bei CHP-Parteitag",
     "Stromsteuer: Senkung für Verbraucher würde laut Finanzministerium 5,4 Milliarden Euro zusätzlich kosten",
     "Warum Reiner Haseloff seine Bildungsministerin Eva Feußner entlassen hat",
@@ -3003,11 +3001,11 @@
     "Björn Böhning: Der Mann hinter Lars Klingbeil",
     "Nach Aus für die \"Late Night Show\" - US-Satiriker Colbert sagt Trump den Kampf an",
     "Statistisches Bundesamt - Zahl von Habilitationen in Deutschland leicht gesunken",
-    "Frühere RBB-Intendantin - Schlesinger wird Führungskräfte-Beraterin bei Berliner Unternehmen"
+    "Frühere RBB-Intendantin - Schlesinger wird Führungskräfte-Beraterin bei Berliner Unternehmen",
+    "Flughafen Leipzig/Halle - Nächster Abschiebeflug gestartet - diesmal in den Irak",
+    "Israel - Huthi-Miliz greift Flughafen Ben Gurion bei Tel Aviv an"
   ],
   "hashes": [
-    "866c93ef5bd04982000f89d21c0822aa",
-    "c730cd1f38b46fafbe56157eda600ae8",
     "915972f92cc9a6b0ad19b11fba76e9ab",
     "7e0d1aaf2c10c9c9759f76d7f79840ab",
     "dc61234891db0b792b6e5b8b5ab6e9b0",
@@ -4005,6 +4003,8 @@
     "468470648b77e0da0c965a890ab7e818",
     "e7b5fa3b5e3245ddad171680fdb20062",
     "3a91c880b928d3ab04361d747c0f7fb2",
-    "9b2cdc6fda690aabe167b01d82b06b39"
+    "9b2cdc6fda690aabe167b01d82b06b39",
+    "c01fec7df7de9b351262e419d858b329",
+    "95069871ea85327b742948733e028c4b"
   ]
 }
