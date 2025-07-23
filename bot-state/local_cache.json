@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/ungarn-maja-t-soll-wegen-gesundheitszustand-in-hafthospital-verlegt-werden-a-a1297474-96af-48d6-8b2a-4020005d8a3c#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-union-und-spd-suchen-ihren-arbeitsmodus-110567680.html",
     "https://www.deutschlandfunk.de/bundeskartellamt-genehmigt-verkauf-mehrerer-regionalzeitungen-in-baden-wuerttemberg-100.html",
     "https://www.deutschlandfunk.de/treffen-zwischen-netanjahu-und-trump-104.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-hebt-sanktionen-auf-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/japanischer-regierungschef-ishiba-will-laut-medienberichten-in-kommenden-wochen-ruecktritt-bekannt-g-100.html",
     "https://www.deutschlandfunk.de/technischer-defekt-selenskyj-meldet-verlust-von-mirage-kampfjet-100.html",
     "https://www.deutschlandfunk.de/bundespolizei-soll-flaechendeckend-taser-einsetzen-duerfen-100.html",
-    "https://www.deutschlandfunk.de/kanzleramtschef-frei-warnt-vor-zu-hohen-erwartungen-an-pflegeversicherung-100.html"
+    "https://www.deutschlandfunk.de/kanzleramtschef-frei-warnt-vor-zu-hohen-erwartungen-an-pflegeversicherung-100.html",
+    "https://www.deutschlandfunk.de/bundessicherheitsrat-billigt-offenbar-lieferung-von-eurofightern-an-tuerkei-102.html",
+    "https://www.deutschlandfunk.de/republikanischer-speaker-johnson-will-mit-frueherer-sommerpause-abstimmung-zu-epstein-akten-verhinde-100.html"
   ],
   "content_hashes": [
-    "edbf229401b937da453ecadbb57432a1",
-    "d0e7d9fb3dcd54845d97a77c8e4fd841",
     "7eddd6b55c94f93bd480274485245f01",
     "ee4b5b00db6647c988afe5d7663c5ba2",
     "839ac96298c0d0493c6923ec4589575c",
@@ -2001,11 +1999,11 @@
     "479e641cdb05fee3233dbfab9895be95",
     "e2fbbdbde467b01120e4c5abc3fb45d7",
     "8232fcd0548de2f84ff41d77eb8e861d",
-    "3df3dde72f45119baf6632aaf4ab52b8"
+    "3df3dde72f45119baf6632aaf4ab52b8",
+    "0f1c88a92c82a901b697fe9b9ef5d278",
+    "c681e1af9bc88adda464d068d746764a"
   ],
   "titles": [
-    "Ungarn: Maja T. soll wegen Gesundheitszustand in Hafthospital verlegt werden",
-    "Koalition sucht Arbeitsmodus: Wenigstens die Atombombe ist vorerst entschärft",
     "Medien - Bundeskartellamt genehmigt Verkauf mehrerer Regionalzeitungen in Baden-Württemberg",
     "Nahost - Treffen zwischen Netanjahu und Trump",
     "Syrien - US-Präsident Trump hebt Sanktionen auf",
@@ -3003,11 +3001,11 @@
     "Nach Wahlniederlagen - Japanischer Regierungschef Ishiba will laut Medienberichten in kommenden Wochen Rücktritt bekannt geben",
     "Ukraine - Technischer Defekt: Selenskyj meldet Verlust von Mirage-Kampfjet",
     "Gesetz - Bundespolizei soll flächendeckend Taser einsetzen dürfen",
-    "Pflegekosten - Kanzleramtschef Frei warnt vor zu hohen Erwartungen an Pflegeversicherung"
+    "Pflegekosten - Kanzleramtschef Frei warnt vor zu hohen Erwartungen an Pflegeversicherung",
+    "\"Spiegel\"-Bericht - Bundessicherheitsrat billigt offenbar Lieferung von Eurofightern an Türkei",
+    "US-Repräsentantenhaus - Republikanischer Speaker Johnson will mit früherer Sommerpause Abstimmung zu Epstein-Akten verhindern"
   ],
   "hashes": [
-    "95eff3ac1a1d8d50b285df0439626463",
-    "f59526afc8189f33204282be31a7df77",
     "c8933a06c39387e8e975aa2da8eb2042",
     "4643368368b715cb333104880c57dbd8",
     "71c894de757cf6d2fafeacade838c47e",
@@ -4005,6 +4003,8 @@
     "d9ac6f5ed76464de984a40e6045e0932",
     "2b42f14677ae47e171c4a5f16a47b811",
     "4daff32fd1a3119356ba4bbdd63b1199",
-    "589f1f57fdc07b9269d374da613aa3db"
+    "589f1f57fdc07b9269d374da613aa3db",
+    "da4ae617be0a44a901caf215bd6ab07d",
+    "72dba1de0b1f8786d16e99286c310348"
   ]
 }
