@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mann-greift-mitarbeiter-in-bayerischer-firma-an-ein-todesopfer-100.html",
-    "https://www.faz.net/aktuell/politik/sachsen-anhalt-ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-110569125.html",
-    "https://www.faz.net/aktuell/politik/inland/festnahme-wegen-spionageverdachts-fuer-iran-in-deutschland-110569151.html",
     "https://www.deutschlandfunk.de/polen-fuehrt-kontrollen-an-grenze-zu-deutschland-und-litauen-ein-100.html",
     "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-100.html",
     "https://www.deutschlandfunk.de/urteil-gegen-franzoesisch-algerischen-schriftstellers-boualem-sansal-bestaetigt-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-und-japan-wollen-wirtschaftliche-zusammenarbeit-vertiefen-102.html",
     "https://www.spiegel.de/wirtschaft/tiktok-beschaeftigte-in-berlin-treten-in-warnstreik-a-0967c04a-6ffb-4d31-a2d3-4c81a96f2f82#ref=rss",
     "https://www.deutschlandfunk.de/auch-saarland-und-bremen-profitieren-kuenftig-von-ausnahmen-von-schuldenbremse-100.html",
-    "https://www.deutschlandfunk.de/wadephul-kritisiert-beschraenkungen-fuer-antikorruptionsbehoerden-in-der-ukraine-100.html"
+    "https://www.deutschlandfunk.de/wadephul-kritisiert-beschraenkungen-fuer-antikorruptionsbehoerden-in-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/israels-botschafter-wirft-spd-verrat-an-den-geiseln-vor-100.html",
+    "https://www.deutschlandfunk.de/auch-jesidische-familie-mit-kindern-in-den-irak-gebracht-100.html",
+    "https://www.faz.net/aktuell/politik/inland/in-sachsens-schulen-gendern-mit-sonderzeichen-bleibt-verboten-110603979.html"
   ],
   "content_hashes": [
-    "fe4a0b73ec0224dd059915b2918f54c3",
-    "efab33f27daf0f27759c902c641a1778",
-    "bb84b020266da63027f3a14fded42ff1",
     "339317fd2cea8b4ad77ac822202b755e",
     "6e83c89e48eac0d25bdbd4bab5ec178c",
     "f557991fcbdce19453a5b7213b11d6f6",
@@ -2001,12 +1998,12 @@
     "51c3d022fc575497d8fecdd7cf53fdca",
     "a26ff397e382dcf88e43cfd1cf928179",
     "035f2dc01dc60addae374c7768cc28ea",
-    "da824e7e393e9272a40b6248bb6223f0"
+    "da824e7e393e9272a40b6248bb6223f0",
+    "914a955c0396294f0abfb9665f1064ea",
+    "7f6dffc5bf8d393a2621de8686134390",
+    "71da9f8433e38c16d52b1c91a793ec45"
   ],
   "titles": [
-    "Mellrichstadt in Unterfranken - Mann greift Mitarbeiter in bayerischer Firma an - ein Todesopfer",
-    "Sachsen-Anhalt: Ermittler durchsuchen Büros von CDU, SPD und AfD im Landtag",
-    "Festnahme in Dänemark wegen Verdachts der Spionage für Iran in Deutschland",
     "Ankündigung in Warschau - Polen führt Kontrollen an Grenze zu Deutschland und Litauen ein",
     "Magdeburg - Ermittler durchsuchen Büros von CDU, SPD und AfD im Landtag von Sachsen-Anhalt",
     "Berufungsverfahren in Algier - Urteil gegen französisch-algerischen Schriftstellers Boualem Sansal bestätigt",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - EU und Japan wollen wirtschaftliche Zusammenarbeit vertiefen",
     "TikTok: Beschäftigte in Berlin treten in Warnstreik",
     "Kabinettsbeschluss - Auch Saarland und Bremen profitieren künftig von Ausnahmen von Schuldenbremse",
-    "Bundesaußenminister - Wadephul kritisiert Beschränkungen für Antikorruptionsbehörden in der Ukraine"
+    "Bundesaußenminister - Wadephul kritisiert Beschränkungen für Antikorruptionsbehörden in der Ukraine",
+    "Gaza-Krieg - Israels Botschafter wirft SPD \"Verrat an den Geiseln\" vor",
+    "Abschiebeflug nach Bagdad - Auch jesidische Familie mit Kindern in den Irak gebracht",
+    "In Sachsens Schulen: Gendern mit Sonderzeichen bleibt verboten"
   ],
   "hashes": [
-    "c723c43de83057d5155388630c80b8aa",
-    "ca2c84678328125aacba6a18a7275999",
-    "22787e068e0c7a853742b424d8554625",
     "236c99184487d1a164670ecdfedaddb5",
     "2cc1cd91f242f9ddad3b768aaa5a1dff",
     "8f3f6102a689258980a542f37a209317",
@@ -4005,6 +4002,9 @@
     "9b0ae60c279861086bf1de1ed27cd887",
     "0f7b47b53834d9a4f814869bd1e92637",
     "904767037fd908ab4a2ee76c4d7879d9",
-    "2abe372b48d090cb5d6735540da40258"
+    "2abe372b48d090cb5d6735540da40258",
+    "656775e17c766495d50e556f892b6d0a",
+    "7632e3d0dfcc3e1530e0549637f3d07d",
+    "1103df458f68179a9c9ec245d66ba1c3"
   ]
 }
