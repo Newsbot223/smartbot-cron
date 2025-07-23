@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frau-stirbt-nach-anschlag-auf-pro-israelische-demonstration-in-boulder-100.html",
-    "https://www.deutschlandfunk.de/ermittlungen-nach-anti-israelischen-parolen-bei-glastonbury-festival-100.html",
     "https://www.spiegel.de/ausland/ungarn-maja-t-soll-wegen-gesundheitszustand-in-hafthospital-verlegt-werden-a-a1297474-96af-48d6-8b2a-4020005d8a3c#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-union-und-spd-suchen-ihren-arbeitsmodus-110567680.html",
     "https://www.deutschlandfunk.de/bundeskartellamt-genehmigt-verkauf-mehrerer-regionalzeitungen-in-baden-wuerttemberg-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/columbia-university-bestraft-80-studenten-fuer-beteiligung-an-antiisraelischen-protesten-100.html",
     "https://www.deutschlandfunk.de/anklage-nach-fahrt-in-menge-in-la-hohe-strafe-gefordert-100.html",
     "https://www.deutschlandfunk.de/japanischer-regierungschef-ishiba-will-laut-medienberichten-in-kommenden-wochen-ruecktritt-bekannt-g-100.html",
-    "https://www.deutschlandfunk.de/technischer-defekt-selenskyj-meldet-verlust-von-mirage-kampfjet-100.html"
+    "https://www.deutschlandfunk.de/technischer-defekt-selenskyj-meldet-verlust-von-mirage-kampfjet-100.html",
+    "https://www.deutschlandfunk.de/bundespolizei-soll-flaechendeckend-taser-einsetzen-duerfen-100.html",
+    "https://www.deutschlandfunk.de/kanzleramtschef-frei-warnt-vor-zu-hohen-erwartungen-an-pflegeversicherung-100.html"
   ],
   "content_hashes": [
-    "0d293e1342a0bffeb3019795f7d4a25c",
-    "95cb8d9aaaa464791a707e1aa445aaa1",
     "edbf229401b937da453ecadbb57432a1",
     "d0e7d9fb3dcd54845d97a77c8e4fd841",
     "7eddd6b55c94f93bd480274485245f01",
@@ -2001,11 +1999,11 @@
     "2eb80e35425cabbe0342e2a3c0c66c86",
     "44e5e70a07227f7782d08c9b003ffa3b",
     "479e641cdb05fee3233dbfab9895be95",
-    "e2fbbdbde467b01120e4c5abc3fb45d7"
+    "e2fbbdbde467b01120e4c5abc3fb45d7",
+    "8232fcd0548de2f84ff41d77eb8e861d",
+    "3df3dde72f45119baf6632aaf4ab52b8"
   ],
   "titles": [
-    "USA - Frau stirbt nach Anschlag auf pro-israelische Demonstration in Boulder",
-    "Großbritannien - Ermittlungen nach anti-israelischen Parolen bei Glastonbury-Festival",
     "Ungarn: Maja T. soll wegen Gesundheitszustand in Hafthospital verlegt werden",
     "Koalition sucht Arbeitsmodus: Wenigstens die Atombombe ist vorerst entschärft",
     "Medien - Bundeskartellamt genehmigt Verkauf mehrerer Regionalzeitungen in Baden-Württemberg",
@@ -3003,11 +3001,11 @@
     "USA - Columbia University bestraft 80 Studenten für Beteiligung an antiisraelischen Protesten",
     "USA - Anklage nach Fahrt in Menge in LA - hohe Strafe gefordert",
     "Nach Wahlniederlagen - Japanischer Regierungschef Ishiba will laut Medienberichten in kommenden Wochen Rücktritt bekannt geben",
-    "Ukraine - Technischer Defekt: Selenskyj meldet Verlust von Mirage-Kampfjet"
+    "Ukraine - Technischer Defekt: Selenskyj meldet Verlust von Mirage-Kampfjet",
+    "Gesetz - Bundespolizei soll flächendeckend Taser einsetzen dürfen",
+    "Pflegekosten - Kanzleramtschef Frei warnt vor zu hohen Erwartungen an Pflegeversicherung"
   ],
   "hashes": [
-    "cfdd717a80cc914ed59407579dc9d810",
-    "3f29e1e5d6d6c1a1d83d48a0f73eb067",
     "95eff3ac1a1d8d50b285df0439626463",
     "f59526afc8189f33204282be31a7df77",
     "c8933a06c39387e8e975aa2da8eb2042",
@@ -4005,6 +4003,8 @@
     "90cdab3d5818ebc11b725317b16af3a5",
     "1ea7c565a2e95362f7c1f9be6dda46c3",
     "d9ac6f5ed76464de984a40e6045e0932",
-    "2b42f14677ae47e171c4a5f16a47b811"
+    "2b42f14677ae47e171c4a5f16a47b811",
+    "4daff32fd1a3119356ba4bbdd63b1199",
+    "589f1f57fdc07b9269d374da613aa3db"
   ]
 }
