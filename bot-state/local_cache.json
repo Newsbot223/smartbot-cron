@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html",
     "https://www.deutschlandfunk.de/festnahme-wegen-mutmasslicher-spionage-fuer-iran-offenbar-juedische-objekte-und-personen-ausgespaeht-100.html",
     "https://www.spiegel.de/kultur/musik/scorpions-erhalten-eigene-briefmarken-zum-60-buehnenjubilaeum-a-12fb4ce1-40a7-47c5-8945-79ca20391e3a#ref=rss",
     "https://www.spiegel.de/politik/deutschland/iran-aussenminister-johann-wadephul-nennt-iran-nach-festnahme-in-daenemark-weltweite-bedrohung-fuer-juden-a-d94deb75-e6fe-4d82-b12d-5e167fea08ad#ref=rss",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/nach-protesten-selenskyj-kuendigt-neues-gesetz-zu-antikorruptionsbehoerden-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/export-von-eurofightern-bundesregierung-ermoeglicht-tuerkische-ruestungsoffensive-110604265.html",
     "https://www.deutschlandfunk.de/gericht-in-florida-lehnt-antrag-der-regierung-trump-auf-offenlegung-von-epstein-unterlagen-ab-100.html",
-    "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-weiteren-gefangenenaustausch-104.html"
+    "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-weiteren-gefangenenaustausch-104.html",
+    "https://www.deutschlandfunk.de/us-regierung-stellt-ki-aktionsplan-vor-100.html"
   ],
   "content_hashes": [
-    "b71ab0bcb87b9407ad8159e25cf36709",
     "30df5252571c7f3e8deab461dda92494",
     "ce292ffdd1225bfe60c112429e6ef7d0",
     "f699e3bd0cc03e1c7cb503e68100636b",
@@ -2001,10 +2000,10 @@
     "21d65ff3bbb828c10be8dc06c7d2e992",
     "9c0802952b38bb78d36abbb16a7f5061",
     "e28b93e80e3d196b99bd5a525fa7107f",
-    "4e2a561321f5a863a44154fd9a26469d"
+    "4e2a561321f5a863a44154fd9a26469d",
+    "1bb89810de384304cdc36b677ed9d824"
   ],
   "titles": [
-    "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts",
     "Bundesanwaltschaft - Festnahme wegen mutmaßlicher Spionage für Iran: Offenbar jüdische Objekte und Personen ausgespäht",
     "Scorpions: Die Scorpions erhalten eigene Briefmarken zum 60. Bühnenjubiläum",
     "Iran: Außenminister Johann Wadephul nennt Iran nach Festnahme in Dänemark weltweite Bedrohung für Juden",
@@ -3003,10 +3002,10 @@
     "Ukraine - Nach Protesten: Selenskyj kündigt neues Gesetz zu Antikorruptionsbehörden an",
     "Export von Eurofightern: Bundesregierung ermöglicht türkische Rüstungsoffensive",
     "USA - Gericht in Florida lehnt Antrag der Regierung Trump auf Offenlegung von Epstein-Unterlagen ab",
-    "Istanbul - Russland und die Ukraine vereinbaren weiteren Gefangenenaustausch"
+    "Istanbul - Russland und die Ukraine vereinbaren weiteren Gefangenenaustausch",
+    "Künstliche Intelligenz - US-Regierung stellt KI-Aktionsplan vor"
   ],
   "hashes": [
-    "4248cf093d58a13f910fe6505ea3bc56",
     "0861a239b0310cc4d91666988021b324",
     "0fffd9c0ca37a83af7d749de2328d32c",
     "f1832ba41584289205ecdd447636fc12",
@@ -4005,6 +4004,7 @@
     "b42f08b8533452803f0b8009e7fdd9eb",
     "522ba3c91e6dc80e5de4bee7a09660d0",
     "368682a2dc8d16ea57ab718297062b74",
-    "367f0e8237e6b047893fad90953b19c5"
+    "367f0e8237e6b047893fad90953b19c5",
+    "ec279ca6dcaee93aa79c0934e33300e9"
   ]
 }
