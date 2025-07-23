@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/weidel-und-chrupalla-beanspruchen-6000-euro-mehr-gehalt-110569217.html",
-    "https://www.deutschlandfunk.de/bundesregierung-setzt-alarmstufe-gas-aus-100.html",
     "https://www.deutschlandfunk.de/antidiskriminierungsbeauftragte-ataman-fordert-besseren-schutz-vor-diskriminierung-durch-den-staat-100.html",
     "https://www.deutschlandfunk.de/arbeitslosigkeit-geht-im-juni-nur-leicht-zurueck-100.html",
     "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/milan-gewinnt-17-etappe-100.html",
     "https://www.deutschlandfunk.de/praesident-selenskyj-kuendigt-neues-gesetz-zu-antikorruptionsbehoerden-an-100.html",
     "https://www.deutschlandfunk.de/russisch-ukrainische-verhandlungen-nach-einer-stunde-beendet-102.html",
-    "https://www.deutschlandfunk.de/flughafen-muenchen-plant-abschiebe-terminal-100.html"
+    "https://www.deutschlandfunk.de/flughafen-muenchen-plant-abschiebe-terminal-100.html",
+    "https://www.deutschlandfunk.de/nach-protesten-selenskyj-kuendigt-neues-gesetz-zu-antikorruptionsbehoerden-an-100.html",
+    "https://www.faz.net/aktuell/politik/inland/export-von-eurofightern-bundesregierung-ermoeglicht-tuerkische-ruestungsoffensive-110604265.html"
   ],
   "content_hashes": [
-    "ae49399c388b9ab0244fbec1f41fe5a9",
-    "573e55f1585f0eff9e944c47b92c20d7",
     "deb5f129b27005a2e329a5fd6bdbee76",
     "c9220c0410abec14c64230daf6f8e5ed",
     "b71ab0bcb87b9407ad8159e25cf36709",
@@ -2001,11 +1999,11 @@
     "407bd445ef18e20159a12ee75d42c83b",
     "c19428802ffc1bb65f490fa05362f81b",
     "46302c5d8b4fb4f47270716755db9bda",
-    "36ee225143be994a4e91b24f37d6369d"
+    "36ee225143be994a4e91b24f37d6369d",
+    "21d65ff3bbb828c10be8dc06c7d2e992",
+    "9c0802952b38bb78d36abbb16a7f5061"
   ],
   "titles": [
-    "Mehr Geld: AfD-Abgeordnete irritiert über Fraktionschefs",
-    "Energieministerin Reiche - Bundesregierung setzt Alarmstufe Gas aus",
     "Umfrage zu Benachteiligung - Antidiskriminierungsbeauftragte Ataman fordert besseren Schutz vor Diskriminierung durch den Staat",
     "Wirtschaft - Arbeitslosigkeit geht im Juni nur leicht zurück",
     "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts",
@@ -3003,11 +3001,11 @@
     "Tour de France - Milan gewinnt 17. Etappe",
     "Ukraine - Präsident Selenskyj kündigt neues Gesetz zu Antikorruptionsbehörden an",
     "Istanbul - Russisch-ukrainische Verhandlungen nach einer Stunde beendet",
-    "Gebäude für die Bundespolizei - Flughafen München plant Abschiebe-Terminal"
+    "Gebäude für die Bundespolizei - Flughafen München plant Abschiebe-Terminal",
+    "Ukraine - Nach Protesten: Selenskyj kündigt neues Gesetz zu Antikorruptionsbehörden an",
+    "Export von Eurofightern: Bundesregierung ermöglicht türkische Rüstungsoffensive"
   ],
   "hashes": [
-    "7831d14410bc5a13f9e8cb84bfe7a205",
-    "d069c2b99444c570ebf1e9cf30b40447",
     "73dd2d7167696c36ea67b746cf001639",
     "e371b95cac2196a30149c0855b3950e1",
     "4248cf093d58a13f910fe6505ea3bc56",
@@ -4005,6 +4003,8 @@
     "03ca90926a32d20aec0bae2ef31326e1",
     "daa66062cbdea65da6f11ffdc2dd244d",
     "267ad57ee3094c19fb9d6a3ee9b98b85",
-    "fdd5fe2a96200edf64e495ab857690dc"
+    "fdd5fe2a96200edf64e495ab857690dc",
+    "b42f08b8533452803f0b8009e7fdd9eb",
+    "522ba3c91e6dc80e5de4bee7a09660d0"
   ]
 }
