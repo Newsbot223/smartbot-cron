@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneut-bombenentschaerfung-in-osnabrueck-einschraenkungen-fuer-bahnverkehr-ab-mittag-100.html",
-    "https://www.deutschlandfunk.de/thailands-ministerpraesidentin-des-amtes-enthoben-100.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-treffen-zwischen-trump-und--100.html",
     "https://www.deutschlandfunk.de/trump-ohne-subventionen-koennte-musk-dichtmachen-tech-milliardaer-deutet-erneut-parteigruendung-in-d-100.html",
     "https://www.deutschlandfunk.de/tuerkei-120-festnahmen-bei-einsatz-gegen-stadtverwaltung-von-izmir-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eine-tote-und-mehrere-verletzte-bei-naechtlichen-angriffen-russlands-auf-die-ukraine-102.html",
     "https://www.deutschlandfunk.de/schiffe-kollidieren-in-cuxhaven-oel-laeuft-ins-hafenbecken-102.html",
     "https://www.deutschlandfunk.de/merz-empfaengt-heute-macron-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-tusk-baut-seine-regierung-um-100.html"
+    "https://www.deutschlandfunk.de/ministerpraesident-tusk-baut-seine-regierung-um-100.html",
+    "https://www.deutschlandfunk.de/praesident-selenskyj-sichert-plan-zur-korruptionsbekaempfung-zu-102.html",
+    "https://www.aljazeera.com/video/quotable/2025/7/23/israel-targets-women-in-gaza-deliberately-to-halt-reproduction?traffic_source=rss"
   ],
   "content_hashes": [
-    "3390bea8332afe952c3d1c301e215639",
-    "567d36c24020f00c140f4bff5f56e89c",
     "cbbc00efe2351c6ab766286d7cf88d9a",
     "48a86d0c1b5502227689ceaf0e4e0baa",
     "98d45441622b0026949b2fe3a0b583c2",
@@ -2001,11 +1999,11 @@
     "c1cfc3e1acf5b6cb2a214cf55423f43b",
     "80f7f09ff3f0db43a33bbd010f401dbe",
     "4e7a17e9616ccb24b0505d90fb221016",
-    "6d0fdab01cd3b24138aa3fb8761867ee"
+    "6d0fdab01cd3b24138aa3fb8761867ee",
+    "9e522d2a609c9d6f32546953cad60c62",
+    "ddcb49ecc340b50e834bff15a0937001"
   ],
   "titles": [
-    "Niedersachsen - Erneut Bombenentschärfung in Osnabrück - Einschränkungen für Bahnverkehr ab Mittag",
-    "Asien - Thailands Ministerpräsidentin des Amtes enthoben",
     "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - Treffen zwischen Trump und Netanjahu angesetzt",
     "Streit über \"Big Beautiful Bill\" - Trump: Ohne Subventionen könnte Musk dichtmachen - Tech-Milliardär deutet erneut Parteigründung in den USA an",
     "Oppositionspartei CHP - Türkei: 120 Festnahmen bei Einsatz gegen Stadtverwaltung von Izmir",
@@ -3003,11 +3001,11 @@
     "Krieg - Eine Tote und mehrere Verletzte bei nächtlichen Angriffen Russlands auf die Ukraine",
     "Havarie - Schiffe kollidieren in Cuxhaven - Öl läuft ins Hafenbecken",
     "Berlin - Merz empfängt heute Macron",
-    "Polen - Ministerpräsident Tusk baut seine Regierung um"
+    "Polen - Ministerpräsident Tusk baut seine Regierung um",
+    "Ukraine - Präsident Selenskyj sichert Plan zur Korruptionsbekämpfung zu",
+    "Israel targets women in Gaza “deliberately” to halt reproduction"
   ],
   "hashes": [
-    "2a04b7734942a19a2f84e1eae0e6a2f0",
-    "06106b9e3efee28fc74b5372ce7eefaa",
     "35c397396950a6318e71a44e8534dd86",
     "1f2fe16011a82385fcd37464f0ec60e1",
     "fba355c2a45762d2a2f588b11c57ef38",
@@ -4005,6 +4003,8 @@
     "624ab02499d7f5565f64203f99fd9e58",
     "fd3907b480f368efd1ab1006a9c24dc3",
     "7cf4149c12593f99443f489df0547bd8",
-    "bf844b22e14b40ad3e2bfa91e4ba1040"
+    "bf844b22e14b40ad3e2bfa91e4ba1040",
+    "9683a1164f20ab8afa996710bf498352",
+    "e872a11cfff86ce4a21b1d9dd5c96039"
   ]
 }
