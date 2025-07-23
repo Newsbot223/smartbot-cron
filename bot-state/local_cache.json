@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-wieder-zahlreiche-todesopfe-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-kegelrobben-im-wattenmeer-steigt-weiter-an-experten-werten-positive-entwicklung-als-sichtba-102.html",
-    "https://www.deutschlandfunk.de/trump-und-sein-one-big-beautiful-bill-100.html",
     "https://www.deutschlandfunk.de/zahl-der-todesopfer-bei-explosion-in-indischer-arzneimittelfabrik-steigt-auf-mindestens-100.html",
     "https://www.deutschlandfunk.de/erneut-bombenentschaerfung-in-osnabrueck-einschraenkungen-fuer-bahnverkehr-ab-mittag-100.html",
     "https://www.deutschlandfunk.de/thailands-ministerpraesidentin-des-amtes-enthoben-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/warnung-vor-hungersnot-mehr-als-100-hilfsorganisationen-fordern-freien-zugang-zu-lebensmitteln-100.html",
     "https://www.faz.net/aktuell/politik/inland/nach-strategiewechsel-afd-politiker-krah-ist-immer-noch-gegen-eine-mischkultur-110602338.html",
     "https://www.deutschlandfunk.de/polizei-durchsucht-wohnungen-von-neonazis-in-berlin-102.html",
-    "https://www.deutschlandfunk.de/krankenkasse-kkh-verzeichnet-rekordschaden-durch-betrug-und-korruption-102.html"
+    "https://www.deutschlandfunk.de/krankenkasse-kkh-verzeichnet-rekordschaden-durch-betrug-und-korruption-102.html",
+    "https://www.deutschlandfunk.de/eine-tote-und-mehrere-verletzte-bei-naechtlichen-angriffen-russlands-auf-die-ukraine-102.html",
+    "https://www.deutschlandfunk.de/schiffe-kollidieren-in-cuxhaven-oel-laeuft-ins-hafenbecken-102.html",
+    "https://www.deutschlandfunk.de/merz-empfaengt-heute-macron-100.html"
   ],
   "content_hashes": [
-    "6e450246cc8a6f37c43f31620703f49f",
-    "70705ec23c63084fa544f1110698fd3c",
-    "16cd933af9e8ce1f462cc41709e45bd0",
     "5f269387d4557f44dc8d08b89149959e",
     "3390bea8332afe952c3d1c301e215639",
     "567d36c24020f00c140f4bff5f56e89c",
@@ -2001,12 +1998,12 @@
     "f05f1c504de4d99c29c331fc1cd68eb8",
     "5eda5e3215f2e8899d2169e0f4650cf5",
     "6fba461e263f8581f28fb3aa011c7a84",
-    "1824e582b9f28dccb486c6905b581f60"
+    "1824e582b9f28dccb486c6905b581f60",
+    "c1cfc3e1acf5b6cb2a214cf55423f43b",
+    "80f7f09ff3f0db43a33bbd010f401dbe",
+    "4e7a17e9616ccb24b0505d90fb221016"
   ],
   "titles": [
-    "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - wieder zahlreiche Todesopfer bei Luftangriffen",
-    "Wilhelmshaven - Zahl der Kegelrobben im Wattenmeer steigt weiter an - Experten werten positive Entwicklung als sichtbares Zeichen für guten Schutz",
-    "US-Gesetzespaket - \"Big Beautiful Bill\": Steuergeschenke durch Rekordschulden",
     "Hyderabad - Zahl der Todesopfer bei Explosion in indischer Arzneimittelfabrik steigt auf mindestens 36",
     "Niedersachsen - Erneut Bombenentschärfung in Osnabrück - Einschränkungen für Bahnverkehr ab Mittag",
     "Asien - Thailands Ministerpräsidentin des Amtes enthoben",
@@ -3003,12 +3000,12 @@
     "Krieg im Gazastreifen - Warnung vor Hungersnot: Mehr als 100 Hilfsorganisationen fordern freien Zugang zu Lebensmitteln",
     "Nach Strategiewechsel: AfD-Politiker Krah ist immer noch gegen eine „Mischkultur“",
     "Rechtsextremismus - Polizei durchsucht Wohnungen von Neonazis in Berlin",
-    "Bericht - Krankenkasse KKH verzeichnet Rekordschaden durch Betrug und Korruption"
+    "Bericht - Krankenkasse KKH verzeichnet Rekordschaden durch Betrug und Korruption",
+    "Krieg - Eine Tote und mehrere Verletzte bei nächtlichen Angriffen Russlands auf die Ukraine",
+    "Havarie - Schiffe kollidieren in Cuxhaven - Öl läuft ins Hafenbecken",
+    "Berlin - Merz empfängt heute Macron"
   ],
   "hashes": [
-    "821daa63cad0f922f247819269809420",
-    "29a9293a7e194edb96a522a50971c879",
-    "4e61bd7f8b03503f2072ad245c2d071f",
     "0369293520d5893d5183e550e2dd9f33",
     "2a04b7734942a19a2f84e1eae0e6a2f0",
     "06106b9e3efee28fc74b5372ce7eefaa",
@@ -4005,6 +4002,9 @@
     "e465d70f686d8bf6f943fc8e760cca6d",
     "2ef623e6abe6a506826ccf1e2a8b7d02",
     "cfd3f224c15355d806511f1c1de0dfa6",
-    "500bc673ed955b478ec5af4991698791"
+    "500bc673ed955b478ec5af4991698791",
+    "624ab02499d7f5565f64203f99fd9e58",
+    "fd3907b480f368efd1ab1006a9c24dc3",
+    "7cf4149c12593f99443f489df0547bd8"
   ]
 }
