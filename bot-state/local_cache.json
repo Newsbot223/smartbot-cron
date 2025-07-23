@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afd-bundestagsfraktion-hebt-bezuege-ihres-vorstands-deutlich-an-rund-24-000-euro-fuer-weidel-und-chr-100.html",
-    "https://www.deutschlandfunk.de/innenminister-poseck-cdu-fordert-harte-konsequenzen-nach-mutmasslichen-uebergriffen-auf-maedchen-im--100.html",
-    "https://www.deutschlandfunk.de/nachrichtenagentur-reuters-deckt-nach-eigenen-angaben-massaker-an-alawitischer-minderheit-in-syrien--100.html",
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-meldet-cyber-attacke-100.html",
     "https://www.deutschlandfunk.de/noch-keine-abstimmung-im-senat-ueber-trumps-ausgabengesetz-104.html",
     "https://www.deutschlandfunk.de/militaer-bittet-us-regierung-um-rueckverlegung-von-200-soldaten-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dritte-verhandlungsrunde-zwischen-ukraine-und-russland-in-istanbul-100.html",
     "https://www.deutschlandfunk.de/kanzler-merz-verteidigt-nichtbeteiligung-deutschlands-an-appell-zu-gaza-krieg-csu-politiker-mayer-de-100.html",
     "https://www.deutschlandfunk.de/deutsche-steuer-gewerkschaft-will-steuererklaerung-fuer-arbeitnehmer-abschaffen-100.html",
-    "https://www.deutschlandfunk.de/keine-steuererklaerung-fuer-arbeitnehmer-interview-florian-koebler-dstg-100.html"
+    "https://www.deutschlandfunk.de/keine-steuererklaerung-fuer-arbeitnehmer-interview-florian-koebler-dstg-100.html",
+    "https://www.deutschlandfunk.de/japanischer-regierungschef-ishiba-dementiert-medienberichte-ueber-bevorstehenden-ruecktritt-100.html",
+    "https://www.deutschlandfunk.de/syrische-uebergangsregierung-leitet-untersuchen-zu-gewalttaten-ein-100.html",
+    "https://www.spiegel.de/politik/deutschland/gefluechtete-aus-syrien-muessen-mehr-als-ein-jahr-auf-asylentscheide-warten-a-82212845-623d-416b-abbe-d7f58a7c2981#ref=rss"
   ],
   "content_hashes": [
-    "8f1b7fbfc5d26810b1d37e6f4f7c878d",
-    "b9d9a3479cbf977f9c7d6e3f8a0e668b",
-    "46e15452c688931496239728ca0b8eb8",
     "7ef9190e00940416d8cdb5f232a9d4c6",
     "cfd801cc18a1ce9a012105cae7131811",
     "d510536e39f84e78cc7fd1a04243e38d",
@@ -2001,12 +1998,12 @@
     "9605e6b28e24d071b21d4c03a35c8d74",
     "0c018653823e0745b46a93563d1a7542",
     "13e61880d11b620fd01217b7f0d474bd",
-    "d61066508ded8cbe82143f2557669d57"
+    "d61066508ded8cbe82143f2557669d57",
+    "c5c68ce7b9746da58f87d6a98958090d",
+    "42252104ab3baa5f75e185fa16b0cd27",
+    "cf26eceea207b7832e02689540b0c707"
   ],
   "titles": [
-    "Funktionszulage - AfD-Bundestagsfraktion hebt Bezüge ihres Vorstands deutlich an - rund 24.000 Euro für Weidel und Chrupalla",
-    "Hessen - Innenminister Poseck (CDU) fordert harte Konsequenzen nach mutmaßlichen Übergriffen auf Mädchen im Schwimmbad Gelnhausen",
-    "Nach Assad-Sturz - Nachrichtenagentur Reuters deckt nach eigenen Angaben Massaker an alawitischer Minderheit in Syrien auf",
     "Den Haag - Internationaler Strafgerichtshof meldet Cyber-Attacke",
     "USA - Noch keine Abstimmung im Senat über Trumps Ausgabengesetz",
     "Nach Protesten in Los Angeles - Militär bittet US-Regierung um Rückverlegung von 200 Soldaten",
@@ -3003,12 +3000,12 @@
     "Krieg in der Ukraine - Dritte Verhandlungsrunde zwischen Ukraine und Russland in Istanbul",
     "Nahost - Kanzler Merz verteidigt Nichtbeteiligung Deutschlands an Appell zu Gaza-Krieg - CSU-Politiker Mayer: \"Derartige Aufrufe bringen nichts\"",
     "Reform - Deutsche Steuer-Gewerkschaft will Steuererklärung für Arbeitnehmer abschaffen",
-    "Finanzämter - Steuergewerkschaft will radikale Wende bei der Steuererklärung"
+    "Finanzämter - Steuergewerkschaft will radikale Wende bei der Steuererklärung",
+    "Nach Wahlniederlagen - Japanischer Regierungschef Ishiba dementiert Medienberichte über bevorstehenden Rücktritt",
+    "Suweida - Syrische Übergangsregierung leitet Untersuchen zu Gewalttaten ein",
+    "Geflüchtete aus Syrien müssen mehr als ein Jahr auf Asylentscheide warten"
   ],
   "hashes": [
-    "5ed125c5bf87ee30c71c5ddb019e559e",
-    "4621d708d55399679b0e0662787899a8",
-    "0a11d0de7fc5c9192effc94b0ce4a255",
     "c7596aae6427bdceafd09b064c3ed30b",
     "3838fa4d076a566e5298b00408514cb7",
     "e4a045de545e0c2728af9f03f3512b62",
@@ -4005,6 +4002,9 @@
     "4632afc22e086a91ed41c81b7866ab1b",
     "3b4ab3b590b991a3f8eeaf82abb775cb",
     "bca19f142654129b6a6a0392985ee3f5",
-    "a7e7e545f7c3649630a0166c8fbfc77b"
+    "a7e7e545f7c3649630a0166c8fbfc77b",
+    "881ffa5bcf5e42c6fa6e55ad4928f083",
+    "d1bd4efab1c266dcfe80164ae5e2a1b5",
+    "6bfeae47ee9709cd81684809d8d850dd"
   ]
 }
