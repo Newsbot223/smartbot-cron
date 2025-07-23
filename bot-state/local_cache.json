@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-meldet-cyber-attacke-100.html",
-    "https://www.deutschlandfunk.de/noch-keine-abstimmung-im-senat-ueber-trumps-ausgabengesetz-104.html",
     "https://www.deutschlandfunk.de/militaer-bittet-us-regierung-um-rueckverlegung-von-200-soldaten-102.html",
     "https://www.deutschlandfunk.de/erste-mercedes-niederlassung-veraeussert-ausverkauf-der-filialen-in-deutschland-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-wieder-zahlreiche-todesopfe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/keine-steuererklaerung-fuer-arbeitnehmer-interview-florian-koebler-dstg-100.html",
     "https://www.deutschlandfunk.de/japanischer-regierungschef-ishiba-dementiert-medienberichte-ueber-bevorstehenden-ruecktritt-100.html",
     "https://www.deutschlandfunk.de/syrische-uebergangsregierung-leitet-untersuchen-zu-gewalttaten-ein-100.html",
-    "https://www.spiegel.de/politik/deutschland/gefluechtete-aus-syrien-muessen-mehr-als-ein-jahr-auf-asylentscheide-warten-a-82212845-623d-416b-abbe-d7f58a7c2981#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/gefluechtete-aus-syrien-muessen-mehr-als-ein-jahr-auf-asylentscheide-warten-a-82212845-623d-416b-abbe-d7f58a7c2981#ref=rss",
+    "https://www.deutschlandfunk.de/warnung-vor-hungersnot-mehr-als-100-hilfsorganisationen-fordern-freien-zugang-zu-lebensmitteln-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nach-strategiewechsel-afd-politiker-krah-ist-immer-noch-gegen-eine-mischkultur-110602338.html"
   ],
   "content_hashes": [
-    "7ef9190e00940416d8cdb5f232a9d4c6",
-    "cfd801cc18a1ce9a012105cae7131811",
     "d510536e39f84e78cc7fd1a04243e38d",
     "c812e68d3de095df615d6bab50ee9e23",
     "6e450246cc8a6f37c43f31620703f49f",
@@ -2001,11 +1999,11 @@
     "d61066508ded8cbe82143f2557669d57",
     "c5c68ce7b9746da58f87d6a98958090d",
     "42252104ab3baa5f75e185fa16b0cd27",
-    "cf26eceea207b7832e02689540b0c707"
+    "cf26eceea207b7832e02689540b0c707",
+    "f05f1c504de4d99c29c331fc1cd68eb8",
+    "5eda5e3215f2e8899d2169e0f4650cf5"
   ],
   "titles": [
-    "Den Haag - Internationaler Strafgerichtshof meldet Cyber-Attacke",
-    "USA - Noch keine Abstimmung im Senat über Trumps Ausgabengesetz",
     "Nach Protesten in Los Angeles - Militär bittet US-Regierung um Rückverlegung von 200 Soldaten",
     "Neu-Ulm - Erste Mercedes-Niederlassung veräußert - Ausverkauf der Filialen in Deutschland hat begonnen",
     "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - wieder zahlreiche Todesopfer bei Luftangriffen",
@@ -3003,11 +3001,11 @@
     "Finanzämter - Steuergewerkschaft will radikale Wende bei der Steuererklärung",
     "Nach Wahlniederlagen - Japanischer Regierungschef Ishiba dementiert Medienberichte über bevorstehenden Rücktritt",
     "Suweida - Syrische Übergangsregierung leitet Untersuchen zu Gewalttaten ein",
-    "Geflüchtete aus Syrien müssen mehr als ein Jahr auf Asylentscheide warten"
+    "Geflüchtete aus Syrien müssen mehr als ein Jahr auf Asylentscheide warten",
+    "Krieg im Gazastreifen - Warnung vor Hungersnot: Mehr als 100 Hilfsorganisationen fordern freien Zugang zu Lebensmitteln",
+    "Nach Strategiewechsel: AfD-Politiker Krah ist immer noch gegen eine „Mischkultur“"
   ],
   "hashes": [
-    "c7596aae6427bdceafd09b064c3ed30b",
-    "3838fa4d076a566e5298b00408514cb7",
     "e4a045de545e0c2728af9f03f3512b62",
     "a21297a145d6ff1856c93d2f8f468c36",
     "821daa63cad0f922f247819269809420",
@@ -4005,6 +4003,8 @@
     "a7e7e545f7c3649630a0166c8fbfc77b",
     "881ffa5bcf5e42c6fa6e55ad4928f083",
     "d1bd4efab1c266dcfe80164ae5e2a1b5",
-    "6bfeae47ee9709cd81684809d8d850dd"
+    "6bfeae47ee9709cd81684809d8d850dd",
+    "e465d70f686d8bf6f943fc8e760cca6d",
+    "2ef623e6abe6a506826ccf1e2a8b7d02"
   ]
 }
