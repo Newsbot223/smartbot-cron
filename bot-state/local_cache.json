@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/militaer-bittet-us-regierung-um-rueckverlegung-von-200-soldaten-102.html",
-    "https://www.deutschlandfunk.de/erste-mercedes-niederlassung-veraeussert-ausverkauf-der-filialen-in-deutschland-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-rechnet-mit-nahem-ende-des-gazakriegs-wieder-zahlreiche-todesopfe-100.html",
     "https://www.deutschlandfunk.de/zahl-der-kegelrobben-im-wattenmeer-steigt-weiter-an-experten-werten-positive-entwicklung-als-sichtba-102.html",
     "https://www.deutschlandfunk.de/trump-und-sein-one-big-beautiful-bill-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/syrische-uebergangsregierung-leitet-untersuchen-zu-gewalttaten-ein-100.html",
     "https://www.spiegel.de/politik/deutschland/gefluechtete-aus-syrien-muessen-mehr-als-ein-jahr-auf-asylentscheide-warten-a-82212845-623d-416b-abbe-d7f58a7c2981#ref=rss",
     "https://www.deutschlandfunk.de/warnung-vor-hungersnot-mehr-als-100-hilfsorganisationen-fordern-freien-zugang-zu-lebensmitteln-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nach-strategiewechsel-afd-politiker-krah-ist-immer-noch-gegen-eine-mischkultur-110602338.html"
+    "https://www.faz.net/aktuell/politik/inland/nach-strategiewechsel-afd-politiker-krah-ist-immer-noch-gegen-eine-mischkultur-110602338.html",
+    "https://www.deutschlandfunk.de/polizei-durchsucht-wohnungen-von-neonazis-in-berlin-102.html",
+    "https://www.deutschlandfunk.de/krankenkasse-kkh-verzeichnet-rekordschaden-durch-betrug-und-korruption-102.html"
   ],
   "content_hashes": [
-    "d510536e39f84e78cc7fd1a04243e38d",
-    "c812e68d3de095df615d6bab50ee9e23",
     "6e450246cc8a6f37c43f31620703f49f",
     "70705ec23c63084fa544f1110698fd3c",
     "16cd933af9e8ce1f462cc41709e45bd0",
@@ -2001,11 +1999,11 @@
     "42252104ab3baa5f75e185fa16b0cd27",
     "cf26eceea207b7832e02689540b0c707",
     "f05f1c504de4d99c29c331fc1cd68eb8",
-    "5eda5e3215f2e8899d2169e0f4650cf5"
+    "5eda5e3215f2e8899d2169e0f4650cf5",
+    "6fba461e263f8581f28fb3aa011c7a84",
+    "1824e582b9f28dccb486c6905b581f60"
   ],
   "titles": [
-    "Nach Protesten in Los Angeles - Militär bittet US-Regierung um Rückverlegung von 200 Soldaten",
-    "Neu-Ulm - Erste Mercedes-Niederlassung veräußert - Ausverkauf der Filialen in Deutschland hat begonnen",
     "Naher Osten - Israels Verteidigungsminister Katz rechnet mit nahem Ende des Gazakriegs - wieder zahlreiche Todesopfer bei Luftangriffen",
     "Wilhelmshaven - Zahl der Kegelrobben im Wattenmeer steigt weiter an - Experten werten positive Entwicklung als sichtbares Zeichen für guten Schutz",
     "US-Gesetzespaket - \"Big Beautiful Bill\": Steuergeschenke durch Rekordschulden",
@@ -3003,11 +3001,11 @@
     "Suweida - Syrische Übergangsregierung leitet Untersuchen zu Gewalttaten ein",
     "Geflüchtete aus Syrien müssen mehr als ein Jahr auf Asylentscheide warten",
     "Krieg im Gazastreifen - Warnung vor Hungersnot: Mehr als 100 Hilfsorganisationen fordern freien Zugang zu Lebensmitteln",
-    "Nach Strategiewechsel: AfD-Politiker Krah ist immer noch gegen eine „Mischkultur“"
+    "Nach Strategiewechsel: AfD-Politiker Krah ist immer noch gegen eine „Mischkultur“",
+    "Rechtsextremismus - Polizei durchsucht Wohnungen von Neonazis in Berlin",
+    "Bericht - Krankenkasse KKH verzeichnet Rekordschaden durch Betrug und Korruption"
   ],
   "hashes": [
-    "e4a045de545e0c2728af9f03f3512b62",
-    "a21297a145d6ff1856c93d2f8f468c36",
     "821daa63cad0f922f247819269809420",
     "29a9293a7e194edb96a522a50971c879",
     "4e61bd7f8b03503f2072ad245c2d071f",
@@ -4005,6 +4003,8 @@
     "d1bd4efab1c266dcfe80164ae5e2a1b5",
     "6bfeae47ee9709cd81684809d8d850dd",
     "e465d70f686d8bf6f943fc8e760cca6d",
-    "2ef623e6abe6a506826ccf1e2a8b7d02"
+    "2ef623e6abe6a506826ccf1e2a8b7d02",
+    "cfd3f224c15355d806511f1c1de0dfa6",
+    "500bc673ed955b478ec5af4991698791"
   ]
 }
