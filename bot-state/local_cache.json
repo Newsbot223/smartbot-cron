@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-cdu-spd-und-afd-im-landtag-von-sachsen-anhalt-100.html",
-    "https://www.deutschlandfunk.de/urteil-gegen-franzoesisch-algerischen-schriftstellers-boualem-sansal-bestaetigt-102.html",
     "https://www.deutschlandfunk.de/erzbistum-koeln-muss-kein-schmerzensgeld-zahlen-100.html",
     "https://www.deutschlandfunk.de/erzbistum-koeln-muss-kein-schmerzensgeld-zahlen-kritik-von-betroffeneninitiative-eckiger-tisch-100.html",
     "https://www.faz.net/aktuell/politik/kommentar-zu-sexuellem-missbrauch-eine-kaltschnaeuzige-kirche-110569105.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israels-botschafter-wirft-spd-verrat-an-den-geiseln-vor-100.html",
     "https://www.deutschlandfunk.de/auch-jesidische-familie-mit-kindern-in-den-irak-gebracht-100.html",
     "https://www.faz.net/aktuell/politik/inland/in-sachsens-schulen-gendern-mit-sonderzeichen-bleibt-verboten-110603979.html",
-    "https://www.faz.net/einspruch/schwarz-rote-bilanz-vor-der-sommerpause-110603756.html"
+    "https://www.faz.net/einspruch/schwarz-rote-bilanz-vor-der-sommerpause-110603756.html",
+    "https://www.deutschlandfunk.de/fluechtlingsrat-kritisiert-abschiebung-von-jesiden-mit-kindern-in-den-irak-familie-hatte-zuvor-erfol-100.html",
+    "https://www.deutschlandfunk.de/proteste-und-beschimpfungen-gegen-buergermeisterin-von-spremberg-nach-brandbrief-gegen-rechtsextremi-100.html"
   ],
   "content_hashes": [
-    "6e83c89e48eac0d25bdbd4bab5ec178c",
-    "f557991fcbdce19453a5b7213b11d6f6",
     "ade88d23913bdd923369d4a1e7ddd348",
     "f94ab4d20c4a68aa0a9baa2bb41becf4",
     "ca3825a63b22399259ba87d34d008fd0",
@@ -2001,11 +1999,11 @@
     "914a955c0396294f0abfb9665f1064ea",
     "7f6dffc5bf8d393a2621de8686134390",
     "71da9f8433e38c16d52b1c91a793ec45",
-    "2c744609868f0a1846d33bf030e4f54d"
+    "2c744609868f0a1846d33bf030e4f54d",
+    "64546c3ff66aba858c1466dcf1d7dcbe",
+    "0b2536f7e4e37199a6ccfccc2b41e1b7"
   ],
   "titles": [
-    "Magdeburg - Ermittler durchsuchen Büros von CDU, SPD und AfD im Landtag von Sachsen-Anhalt",
-    "Berufungsverfahren in Algier - Urteil gegen französisch-algerischen Schriftstellers Boualem Sansal bestätigt",
     "Missbrauch durch Priester - Erzbistum Köln muss kein Schmerzensgeld zahlen",
     "Missbrauch durch Priester - Erzbistum Köln muss kein Schmerzensgeld zahlen - Kritik von Betroffeneninitiative Eckiger Tisch",
     "Kommentar zu sexuellem Missbrauch: Eine kaltschnäuzige Kirche",
@@ -3003,11 +3001,11 @@
     "Gaza-Krieg - Israels Botschafter wirft SPD \"Verrat an den Geiseln\" vor",
     "Abschiebeflug nach Bagdad - Auch jesidische Familie mit Kindern in den Irak gebracht",
     "In Sachsens Schulen: Gendern mit Sonderzeichen bleibt verboten",
-    "Schwarz-rote Bilanz vor der Sommerpause"
+    "Schwarz-rote Bilanz vor der Sommerpause",
+    "Brandenburg - Flüchtlingsrat kritisiert Abschiebung von Jesiden mit Kindern in den Irak - Familie hatte zuvor erfolgreich dagegen geklagt",
+    "Brandenburg - Proteste und Beschimpfungen gegen Bürgermeisterin von Spremberg nach Brandbrief gegen Rechtsextremismus"
   ],
   "hashes": [
-    "2cc1cd91f242f9ddad3b768aaa5a1dff",
-    "8f3f6102a689258980a542f37a209317",
     "f6ac592c0e0460df43cd90fff90883aa",
     "0e70510c9df9bf6dad3e7a76c4fba5de",
     "be32a3c815ba13be337ad868a8838545",
@@ -4005,6 +4003,8 @@
     "656775e17c766495d50e556f892b6d0a",
     "7632e3d0dfcc3e1530e0549637f3d07d",
     "1103df458f68179a9c9ec245d66ba1c3",
-    "c805c7df567968704c27fac132231771"
+    "c805c7df567968704c27fac132231771",
+    "a4f65874c0e88cf0cebb258a0b91c181",
+    "f023c88b52644e349f990fb0bc5146dc"
   ]
 }
