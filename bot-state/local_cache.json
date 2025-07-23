@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/antidiskriminierungsbeauftragte-ataman-fordert-besseren-schutz-vor-diskriminierung-durch-den-staat-100.html",
-    "https://www.deutschlandfunk.de/arbeitslosigkeit-geht-im-juni-nur-leicht-zurueck-100.html",
     "https://www.deutschlandfunk.de/verkauf-von-regionalzeitungen-in-baden-wuerttemberg-djv-fordert-reform-des-kartellrechts-100.html",
     "https://www.deutschlandfunk.de/festnahme-wegen-mutmasslicher-spionage-fuer-iran-offenbar-juedische-objekte-und-personen-ausgespaeht-100.html",
     "https://www.spiegel.de/kultur/musik/scorpions-erhalten-eigene-briefmarken-zum-60-buehnenjubilaeum-a-12fb4ce1-40a7-47c5-8945-79ca20391e3a#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/russisch-ukrainische-verhandlungen-nach-einer-stunde-beendet-102.html",
     "https://www.deutschlandfunk.de/flughafen-muenchen-plant-abschiebe-terminal-100.html",
     "https://www.deutschlandfunk.de/nach-protesten-selenskyj-kuendigt-neues-gesetz-zu-antikorruptionsbehoerden-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/export-von-eurofightern-bundesregierung-ermoeglicht-tuerkische-ruestungsoffensive-110604265.html"
+    "https://www.faz.net/aktuell/politik/inland/export-von-eurofightern-bundesregierung-ermoeglicht-tuerkische-ruestungsoffensive-110604265.html",
+    "https://www.deutschlandfunk.de/gericht-in-florida-lehnt-antrag-der-regierung-trump-auf-offenlegung-von-epstein-unterlagen-ab-100.html",
+    "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-weiteren-gefangenenaustausch-104.html"
   ],
   "content_hashes": [
-    "deb5f129b27005a2e329a5fd6bdbee76",
-    "c9220c0410abec14c64230daf6f8e5ed",
     "b71ab0bcb87b9407ad8159e25cf36709",
     "30df5252571c7f3e8deab461dda92494",
     "ce292ffdd1225bfe60c112429e6ef7d0",
@@ -2001,11 +1999,11 @@
     "46302c5d8b4fb4f47270716755db9bda",
     "36ee225143be994a4e91b24f37d6369d",
     "21d65ff3bbb828c10be8dc06c7d2e992",
-    "9c0802952b38bb78d36abbb16a7f5061"
+    "9c0802952b38bb78d36abbb16a7f5061",
+    "e28b93e80e3d196b99bd5a525fa7107f",
+    "4e2a561321f5a863a44154fd9a26469d"
   ],
   "titles": [
-    "Umfrage zu Benachteiligung - Antidiskriminierungsbeauftragte Ataman fordert besseren Schutz vor Diskriminierung durch den Staat",
-    "Wirtschaft - Arbeitslosigkeit geht im Juni nur leicht zurück",
     "Südwestdeutsche Medienholding - Verkauf von Regionalzeitungen in Baden-Württemberg: DJV fordert Reform des Kartellrechts",
     "Bundesanwaltschaft - Festnahme wegen mutmaßlicher Spionage für Iran: Offenbar jüdische Objekte und Personen ausgespäht",
     "Scorpions: Die Scorpions erhalten eigene Briefmarken zum 60. Bühnenjubiläum",
@@ -3003,11 +3001,11 @@
     "Istanbul - Russisch-ukrainische Verhandlungen nach einer Stunde beendet",
     "Gebäude für die Bundespolizei - Flughafen München plant Abschiebe-Terminal",
     "Ukraine - Nach Protesten: Selenskyj kündigt neues Gesetz zu Antikorruptionsbehörden an",
-    "Export von Eurofightern: Bundesregierung ermöglicht türkische Rüstungsoffensive"
+    "Export von Eurofightern: Bundesregierung ermöglicht türkische Rüstungsoffensive",
+    "USA - Gericht in Florida lehnt Antrag der Regierung Trump auf Offenlegung von Epstein-Unterlagen ab",
+    "Istanbul - Russland und die Ukraine vereinbaren weiteren Gefangenenaustausch"
   ],
   "hashes": [
-    "73dd2d7167696c36ea67b746cf001639",
-    "e371b95cac2196a30149c0855b3950e1",
     "4248cf093d58a13f910fe6505ea3bc56",
     "0861a239b0310cc4d91666988021b324",
     "0fffd9c0ca37a83af7d749de2328d32c",
@@ -4005,6 +4003,8 @@
     "267ad57ee3094c19fb9d6a3ee9b98b85",
     "fdd5fe2a96200edf64e495ab857690dc",
     "b42f08b8533452803f0b8009e7fdd9eb",
-    "522ba3c91e6dc80e5de4bee7a09660d0"
+    "522ba3c91e6dc80e5de4bee7a09660d0",
+    "368682a2dc8d16ea57ab718297062b74",
+    "367f0e8237e6b047893fad90953b19c5"
   ]
 }
