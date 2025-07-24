@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/taxi-gewerbe-protestiert-bundesweit-fuer-mindestpreise-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-legt-klimaziel-fuer-2040-vor-100.html",
     "https://www.deutschlandfunk.de/ex-finanzstaatssekretaer-thoms-wird-deutscher-botschafter-in-kiew-102.html",
     "https://www.deutschlandfunk.de/gewerkschaft-evg-rechnet-mit-hoeheren-preisen-bei-der-bahn-noch-in-diesem-jahr-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/gfk-konsumstimmung-sinkt-erneut-verbraucher-sparen-immer-mehr-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-personalie-brosius-gersdorf-csu-will-neues-personalpaket-fuer-richterwahl-100.html",
     "https://www.deutschlandfunk.de/gedenkveranstaltung-zum-loveparade-unglueck-102.html",
-    "https://www.deutschlandfunk.de/proteste-in-der-ukraine-empoerung-ueber-vorgehen-gegen-antikorruptions-behoerden-100.html"
+    "https://www.deutschlandfunk.de/proteste-in-der-ukraine-empoerung-ueber-vorgehen-gegen-antikorruptions-behoerden-100.html",
+    "https://www.deutschlandfunk.de/tausende-in-griechenland-anerkannte-fluechtlinge-nach-deutschland-weitergereist-100.html"
   ],
   "content_hashes": [
-    "d3c6591fb72ef24a36af5cc1caf2a5b8",
     "e7b5fa63af26e86053afd883b10903f0",
     "8597fcba399d7c5113f8bb320b306a27",
     "3246609acdbdd65ffc7788c50b40f7a3",
@@ -2001,10 +2000,10 @@
     "24779f8f8161f092057805b10c97071a",
     "40f2f4d74a0aafccc43f488d04394a3d",
     "1f5769d0394d992a0b2c9ac6d7ce0ab5",
-    "cc531167d98bede4cf2cd3ebbb70c7d1"
+    "cc531167d98bede4cf2cd3ebbb70c7d1",
+    "5a52a0cd0d6274461674c6c1cb677330"
   ],
   "titles": [
-    "Deutschland - Taxi-Gewerbe protestiert bundesweit für Mindestpreise",
     "Brüssel - EU-Kommission legt Klimaziel für 2040 vor",
     "Regierungskreise - Ex-Finanzstaatssekretär Thoms wird deutscher Botschafter in Kiew",
     "Bericht - Gewerkschaft EVG rechnet mit höheren Preisen bei der Bahn noch in diesem Jahr",
@@ -3003,10 +3002,10 @@
     "Wirtschaft - GfK: Konsumstimmung sinkt erneut - Verbraucher sparen immer mehr",
     "Bundesverfassungsgericht - Debatte über Personalie Brosius-Gersdorf: CSU will neues Personalpaket für Richterwahl",
     "Duisburg - Gedenkveranstaltung zum Loveparade-Unglück 2010",
-    "Korruptionsgesetz - Der Schaden für Selenskyj ist massiv"
+    "Korruptionsgesetz - Der Schaden für Selenskyj ist massiv",
+    "Medienbericht - Tausende in Griechenland anerkannte Flüchtlinge nach Deutschland weitergereist"
   ],
   "hashes": [
-    "af6c18f44117033f56874c096a6e98c3",
     "f44234e2d12d0f1a5839a68b6b759739",
     "93868fd69d517e8e669e2ce83d7db027",
     "73eb350f4b4ab070b283ee6a5a585456",
@@ -4005,6 +4004,7 @@
     "0d7cf282a32af61326fc8fe82e22a44b",
     "fd831796607c0130a23d62916b9052ea",
     "a9f616934bede5f03c0fd57d9d21befd",
-    "2fc3f6ab562758acc6f73fb68746d84b"
+    "2fc3f6ab562758acc6f73fb68746d84b",
+    "f2d4abf540d95bbc16a3484d066a9a80"
   ]
 }
