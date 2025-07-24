@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/etwa-ein-drittel-der-erwachsenen-fuehlt-sich-psychisch-nicht-wohl-102.html",
     "https://www.faz.net/aktuell/politik/inland/spd-bezweifelt-einsparungen-beim-buergergeld-110571056.html",
     "https://www.deutschlandfunk.de/bundesregierung-kritisiert-massenhafte-festnahmen-nach-demo-in-tuerkei-100.html",
     "https://www.deutschlandfunk.de/richard-vogel-gewinnt-mit-phenyo-zeitspringen-102.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/was-bringt-eine-meldepflicht-fuer-psychisch-kranke-wie-hessen-sie-einfuehren-will-110596131.html",
     "https://www.deutschlandfunk.de/macron-frankreich-wird-palaestinensischen-staat-im-september-anerkennen-104.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-110606572.html",
-    "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html"
+    "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/intel-chipkonzern-sagt-plaene-fuer-fabrik-in-deutschland-ab-a-5dfcdccf-44b3-45eb-a916-5433a6085498#ref=rss"
   ],
   "content_hashes": [
-    "eba1c0cd7eefa6c460654ab1fa3a5ee1",
     "01038aadcc0db1fea1c39dccd3b4f410",
     "9f667a4eba7d15de384193c2bc415b6a",
     "ede27b51a8e960c21e6051fcebc7babe",
@@ -2001,10 +2000,10 @@
     "9dfd04d3e46e7d50530c9b42d4bb2cf9",
     "4a4c307e657c28dc4c1d90decab5397a",
     "6eb2498ac15116a5eaebc1ad6350c99e",
-    "77d8861a35bce9c208208e39bf55b469"
+    "77d8861a35bce9c208208e39bf55b469",
+    "29a645fe156677773f36875d0e13268e"
   ],
   "titles": [
-    "Gesundheit - Etwa ein Drittel der Erwachsenen fühlt sich psychisch nicht wohl",
     "Eigene Leute zweifeln Klingbeils Bürgergeld-Sparplan an",
     "Menschenrechte - Bundesregierung kritisiert massenhafte Festnahmen nach Demo in Türkei",
     "CHIO Turnier Aachen - Richard Vogel gewinnt mit \"Phenyo\" Zeitspringen",
@@ -3003,10 +3002,10 @@
     "Debatte über Meldepflicht: Polizeibekannt, psychisch krank",
     "Nahost - Macron: \"Frankreich wird palästinensischen Staat im September anerkennen\"",
     "Baden-Württemberg: Ermittlungen nach Hakenkreuz auf Stimmzettel",
-    "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf"
+    "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf",
+    "Intel: Chipkonzern sagt Pläne für Fabrik in Deutschland ab"
   ],
   "hashes": [
-    "01484d64d0b9476171715a45c8a8b0ee",
     "036913ea9b9ccd819bc4d8ddb3174fd7",
     "572677bc626d928182388308a7ffed4f",
     "52b7849cb9ffd39374609ee6150f7382",
@@ -4005,6 +4004,7 @@
     "0a72aeece31e85aeafc34402108f56c3",
     "f1d113ab437687fdaf99a1c62f979683",
     "1dc7237845cc24a12db98fd98515d822",
-    "f41bc07d6a414921ae0fa62fd57e8faa"
+    "f41bc07d6a414921ae0fa62fd57e8faa",
+    "39f4c948ce94567a46e07f104db6d744"
   ]
 }
