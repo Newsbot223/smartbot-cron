@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-kritisiert-massenhafte-festnahmen-nach-demo-in-tuerkei-100.html",
-    "https://www.deutschlandfunk.de/richard-vogel-gewinnt-mit-phenyo-zeitspringen-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-kauf-des-modehaendlers-about-you-durch-zalando-100.html",
     "https://www.deutschlandfunk.de/frueherer-bundesgesundheitsminister-groehe-soll-drk-praesident-werden-100.html",
     "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-september-dauern-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-110606572.html",
     "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/intel-chipkonzern-sagt-plaene-fuer-fabrik-in-deutschland-ab-a-5dfcdccf-44b3-45eb-a916-5433a6085498#ref=rss",
-    "https://www.deutschlandfunk.de/ben-o-connor-gewinnt-alpenetappe-am-col-de-la-loze-108.html"
+    "https://www.deutschlandfunk.de/ben-o-connor-gewinnt-alpenetappe-am-col-de-la-loze-108.html",
+    "https://www.deutschlandfunk.de/immer-mehr-senioren-sind-auf-sozialhilfe-angewiesen-100.html",
+    "https://www.deutschlandfunk.de/vorsichtige-entspannungssignale-aus-union-im-richterstreit-100.html"
   ],
   "content_hashes": [
-    "9f667a4eba7d15de384193c2bc415b6a",
-    "ede27b51a8e960c21e6051fcebc7babe",
     "88d56fa8f4339ccfa4c4885e84146293",
     "ef45e8fa915b9c83c2d03189ee09aa6a",
     "8bd874c9718341a0985e62c4f8c1353b",
@@ -2001,11 +1999,11 @@
     "6eb2498ac15116a5eaebc1ad6350c99e",
     "77d8861a35bce9c208208e39bf55b469",
     "29a645fe156677773f36875d0e13268e",
-    "f765d37d8fc4365e19cf6397580bb455"
+    "f765d37d8fc4365e19cf6397580bb455",
+    "cf0ed1524bf2c4ec682d857ce87e2d9f",
+    "5ce0d6407787df54a4638699dd3e3582"
   ],
   "titles": [
-    "Menschenrechte - Bundesregierung kritisiert massenhafte Festnahmen nach Demo in Türkei",
-    "CHIO Turnier Aachen - Richard Vogel gewinnt mit \"Phenyo\" Zeitspringen",
     "Wirtschaft - EU-Kommission genehmigt Kauf des Modehändlers About You durch Zalando",
     "CDU-Politiker - Früherer Bundesgesundheitsminister Gröhe soll DRK-Präsident werden",
     "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. September dauern",
@@ -3003,11 +3001,11 @@
     "Baden-Württemberg: Ermittlungen nach Hakenkreuz auf Stimmzettel",
     "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf",
     "Intel: Chipkonzern sagt Pläne für Fabrik in Deutschland ab",
-    "Tour de France - Ben O'Connor gewinnt Alpenetappe am Col de la Loze"
+    "Tour de France - Ben O'Connor gewinnt Alpenetappe am Col de la Loze",
+    "Altersarmut - Immer mehr Senioren sind auf Sozialhilfe angewiesen",
+    "Berlin - Vorsichtige Entspannungssignale aus Union im Richterstreit"
   ],
   "hashes": [
-    "572677bc626d928182388308a7ffed4f",
-    "52b7849cb9ffd39374609ee6150f7382",
     "4fd573d4189fbbc5f647f29a49252420",
     "41774c9a0556d8349dbf9c562fb0153b",
     "550497fefcab61cb1a07c26aa90d90d3",
@@ -4005,6 +4003,8 @@
     "1dc7237845cc24a12db98fd98515d822",
     "f41bc07d6a414921ae0fa62fd57e8faa",
     "39f4c948ce94567a46e07f104db6d744",
-    "610a777152506172504a789fe56eb97a"
+    "610a777152506172504a789fe56eb97a",
+    "606c5cd68c822c6bb05763bea9c4b0c0",
+    "844021be605ea4e28e9e53a822c4b2c2"
   ]
 }
