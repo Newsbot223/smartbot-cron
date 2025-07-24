@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hermann-groehe-soll-amt-uebernehmen-100.html",
-    "https://www.deutschlandfunk.de/fast-300-asylsuchende-seit-anfang-mai-an-deutschen-grenzen-zurueckgewiesen-102.html",
-    "https://www.aljazeera.com/news/2025/7/2/dalai-lama-confirms-he-will-have-a-successor-after-his-death?traffic_source=rss",
-    "https://www.deutschlandfunk.de/oelbohrschiff-im-roten-meer-gekentert-mindestens-vier-tote-106.html",
     "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-teilweises-lachgas-verbot-100.html",
     "https://www.deutschlandfunk.de/bund-will-verwendung-von-laender-milliarden-kontrollieren-100.html",
     "https://www.deutschlandfunk.de/weg-frei-fuer-gasfoerderung-vor-nordseeinsel-borkum-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/viele-verletzte-nach-russischen-angriffen-auf-charkiw-100.html",
     "https://www.deutschlandfunk.de/nach-braenden-in-los-angeles-stromversorger-kuendigt-entschaedigungszahlungen-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-in-nrw-wie-rot-bleibt-das-ruhrgebiet-110590176.html",
-    "https://www.faz.net/aktuell/politik/inland/sachsen-verbietet-weiterhin-genderzeichen-in-schulen-gut-so-110604070.html"
+    "https://www.faz.net/aktuell/politik/inland/sachsen-verbietet-weiterhin-genderzeichen-in-schulen-gut-so-110604070.html",
+    "https://www.deutschlandfunk.de/verschuldung-und-finanzluecken-des-bundes-wachsen-offenbar-weiter-100.html",
+    "https://www.deutschlandfunk.de/leitzinsen-im-euroraum-bleiben-unveraendert-einlagenzins-bei-zwei-prozent-102.html",
+    "https://www.deutschlandfunk.de/gruene-nennen-csu-vorschlag-im-streit-um-richter-gipfel-der-respektlosigkeit-100.html",
+    "https://www.deutschlandfunk.de/krankenhausessen-laut-studie-von-minderer-qualitaet-und-klimaschaedlich-104.html"
   ],
   "content_hashes": [
-    "0dd5888b52e497d8f84cff811962de8c",
-    "11deb318422dda2195c7786ccc046c35",
-    "1ed7e43d22d12afecf74123cdd35404b",
-    "8dc3142f51d434cb5a6f0607202df652",
     "9233a23922483377d3bc9ea2aaf9e639",
     "bd09431faa145f643b63082e2c3e762e",
     "6835fe1138708aba6520db13bb75b2b8",
@@ -2001,13 +1997,13 @@
     "2976abd6fafa3b7549a059d1f2753e77",
     "1c1c70d5ebec96ecdd49d417a7cc8f4d",
     "158b803620099d16a126772fe319d978",
-    "5f71fa9046c0bc353d72ab55c829eabf"
+    "5f71fa9046c0bc353d72ab55c829eabf",
+    "e239168ce2858aa872ffc1fe5d9e9d85",
+    "4c6ed51812f7f966e47e0affcb3c98a9",
+    "8918ee3a6175abc1241e436b16b8a823",
+    "aa88ce3a713e6e1bf61b360673a45006"
   ],
   "titles": [
-    "DRK-Präsident - Hermann Gröhe soll Amt übernehmen",
-    "Bundespolizei - Fast 300 Asylsuchende seit Anfang Mai an deutschen Grenzen zurückgewiesen",
-    "Dalai Lama confirms he will have a successor after his death",
-    "Ägypten - Ölbohrschiff im Roten Meer gekentert - mindestens vier Tote",
     "Schwarz-Rote Koalition - Bundeskabinett beschließt teilweises Lachgas-Verbot",
     "Kabinett - Bund will Verwendung von Länder-Milliarden kontrollieren",
     "Bundeskabinett - Weg frei für Gasförderung vor Nordseeinsel Borkum",
@@ -3003,13 +2999,13 @@
     "Ukraine-Krieg - Viele Verletzte nach russischen Angriffen auf Charkiw",
     "USA - Nach Bränden in Los Angeles: Stromversorger kündigt Entschädigungszahlungen an",
     "Kommunalwahlen in NRW: Wie rot bleibt das Ruhrgebiet?",
-    "Genderzeichen an Schulen: Warum nicht überall so wie in Sachsen?"
+    "Genderzeichen an Schulen: Warum nicht überall so wie in Sachsen?",
+    "Bericht - Verschuldung und Finanzlücken des Bundes wachsen offenbar weiter",
+    "Europäische Zentralbank - Leitzinsen im Euroraum bleiben unverändert - Einlagenzins bei zwei Prozent",
+    "Bundesverfassungsgericht - Grüne nennen CSU-Vorschlag im Streit um Richter \"Gipfel der Respektlosigkeit\"",
+    "Gesundheit - Krankenhausessen laut Studie von minderer Qualität und klimaschädlich"
   ],
   "hashes": [
-    "f3ed0a6233f72fddfe895e77d9502ca2",
-    "c8b90f34582ef904d9e58d50a447cb0e",
-    "cfa63829c591b2ecdda84ff6af2b7848",
-    "e1d8ad18a2321c47891101813dfa5892",
     "a6aa5703037e842253a033242082a814",
     "e9837f3bb9534628092a9cc5a70caea7",
     "8d6633f7155951505cc41c593ecebb06",
@@ -4005,6 +4001,10 @@
     "7b3198b0c0be49fbfd360ae1ce8112da",
     "1231745243fc4e9d1952d88c112df998",
     "dec5f0821480cea68c16b55888871f28",
-    "31639a90dc8177cd5421e6a9416ecc74"
+    "31639a90dc8177cd5421e6a9416ecc74",
+    "e3364cd124842687af54fa740b58693d",
+    "854068f54bb40aa9f4ab10f515a12f89",
+    "72adc33d26277405b7839a1fe02c695c",
+    "f6de1952e74191f9bb979d71a164ddac"
   ]
 }
