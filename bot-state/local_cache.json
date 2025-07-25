@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-genehmigt-kauf-des-modehaendlers-about-you-durch-zalando-100.html",
-    "https://www.deutschlandfunk.de/frueherer-bundesgesundheitsminister-groehe-soll-drk-praesident-werden-100.html",
     "https://www.deutschlandfunk.de/polnische-kontrollen-an-grenze-zu-deutschland-sollen-bis-5-september-dauern-100.html",
     "https://www.faz.net/aktuell/politik/inland/trotz-hetz-chats-personenschuetzer-von-charlotte-knobloch-weiter-im-dienst-110571495.html",
     "https://www.deutschlandfunk.de/gewerkschaftschef-warnt-vor-deutlichen-preiserhoehungen-bei-der-deutschen-bahn-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/unternehmen/intel-chipkonzern-sagt-plaene-fuer-fabrik-in-deutschland-ab-a-5dfcdccf-44b3-45eb-a916-5433a6085498#ref=rss",
     "https://www.deutschlandfunk.de/ben-o-connor-gewinnt-alpenetappe-am-col-de-la-loze-108.html",
     "https://www.deutschlandfunk.de/immer-mehr-senioren-sind-auf-sozialhilfe-angewiesen-100.html",
-    "https://www.deutschlandfunk.de/vorsichtige-entspannungssignale-aus-union-im-richterstreit-100.html"
+    "https://www.deutschlandfunk.de/vorsichtige-entspannungssignale-aus-union-im-richterstreit-100.html",
+    "https://www.deutschlandfunk.de/mindestens-14-tote-bei-gefechten-zwischen-thailand-und-kambodscha-100.html",
+    "https://www.deutschlandfunk.de/trump-nimmt-kuerzungen-bei-oeffentlichem-rundfunk-und-auslandshilfen-vor-100.html"
   ],
   "content_hashes": [
-    "88d56fa8f4339ccfa4c4885e84146293",
-    "ef45e8fa915b9c83c2d03189ee09aa6a",
     "8bd874c9718341a0985e62c4f8c1353b",
     "52ef05a4739eb5b67d7fa4a942905a41",
     "7127db92097dfa8f67acae81f35c8cc9",
@@ -2001,11 +1999,11 @@
     "29a645fe156677773f36875d0e13268e",
     "f765d37d8fc4365e19cf6397580bb455",
     "cf0ed1524bf2c4ec682d857ce87e2d9f",
-    "5ce0d6407787df54a4638699dd3e3582"
+    "5ce0d6407787df54a4638699dd3e3582",
+    "a6bfdb66ff304467f199ba3e83d7b2fd",
+    "ba73e2a8ecdf55a91df2d4b618d71745"
   ],
   "titles": [
-    "Wirtschaft - EU-Kommission genehmigt Kauf des Modehändlers About You durch Zalando",
-    "CDU-Politiker - Früherer Bundesgesundheitsminister Gröhe soll DRK-Präsident werden",
     "Anordnung - Polnische Kontrollen an Grenze zu Deutschland sollen bis 5. September dauern",
     "Trotz Hetz-Chats: Personenschützer von Charlotte Knobloch weiter im Dienst",
     "Verkehr - Gewerkschaftschef warnt vor deutlichen Preiserhöhungen bei der Deutschen Bahn",
@@ -3003,11 +3001,11 @@
     "Intel: Chipkonzern sagt Pläne für Fabrik in Deutschland ab",
     "Tour de France - Ben O'Connor gewinnt Alpenetappe am Col de la Loze",
     "Altersarmut - Immer mehr Senioren sind auf Sozialhilfe angewiesen",
-    "Berlin - Vorsichtige Entspannungssignale aus Union im Richterstreit"
+    "Berlin - Vorsichtige Entspannungssignale aus Union im Richterstreit",
+    "Südostasien - Mindestens 14 Tote bei Gefechten zwischen Thailand und Kambodscha",
+    "USA - Trump nimmt Kürzungen bei öffentlichem Rundfunk und Auslandshilfen vor"
   ],
   "hashes": [
-    "4fd573d4189fbbc5f647f29a49252420",
-    "41774c9a0556d8349dbf9c562fb0153b",
     "550497fefcab61cb1a07c26aa90d90d3",
     "08a5be2ccdb4b9ddd1bc2ebd88ded48d",
     "2ea52c20b22183b8b8b8b88048d80b02",
@@ -4005,6 +4003,8 @@
     "39f4c948ce94567a46e07f104db6d744",
     "610a777152506172504a789fe56eb97a",
     "606c5cd68c822c6bb05763bea9c4b0c0",
-    "844021be605ea4e28e9e53a822c4b2c2"
+    "844021be605ea4e28e9e53a822c4b2c2",
+    "7bcde1aa313d0602b7e9ec28468a468f",
+    "eb0e0576914548c1a41ec7853d2f837b"
   ]
 }
