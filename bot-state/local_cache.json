@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/viele-vermisste-nach-faehrunglueck-vor-bali-100.html",
-    "https://www.deutschlandfunk.de/vermisste-nach-explosion-in-feuerwerkskoerper-lagerhalle-100.html",
-    "https://www.deutschlandfunk.de/streik-der-fluglotsen-in-frankreich-100.html",
     "https://www.deutschlandfunk.de/asyl-stopp-an-der-grenze-ist-rechtswidrig-100.html",
     "https://www.deutschlandfunk.de/klimaaktivistin-neubauer-kritisiert-geplante-foerderung-von-erdgas-vor-borkum-102.html",
     "https://www.deutschlandfunk.de/feuerwehr-kaempft-gegen-waldbraende-126.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/oberstes-gericht-der-philippinen-blockiert-amtsenthebungsverfahren-von-vizepraesidentin-duterte-100.html",
     "https://www.deutschlandfunk.de/anbieter-von-porno-seiten-in-grossbritannien-muessen-alterspruefung-einfuehren-100.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-ruecktritt-von-landtagsvize-110607784.html",
-    "https://www.faz.net/aktuell/politik/inland/spremberg-debatte-zu-vorgehen-gegen-rechtsextremismus-entbrannt-110607606.html"
+    "https://www.faz.net/aktuell/politik/inland/spremberg-debatte-zu-vorgehen-gegen-rechtsextremismus-entbrannt-110607606.html",
+    "https://www.deutschlandfunk.de/thailand-verhaengt-kriegsrecht-uno-sicherheitsrat-setzt-dringlichkeitssitzung-an-102.html",
+    "https://www.deutschlandfunk.de/jeder-zweite-eu-buerger-hortet-sein-altes-smartphone-lieber-als-es-loszuwerden-104.html",
+    "https://www.deutschlandfunk.de/ema-empfiehlt-zulassung-von-weiterem-medikament-102.html"
   ],
   "content_hashes": [
-    "55cc3aad03e8c8cd536e1419e12b27f7",
-    "26020475fa0dfa2df32b5744fea484b0",
-    "5b76a210d2501ccf26d36671b048aa5a",
     "e3b06e007be9fbd7d9b0b6a71d0cdcf8",
     "74132579bd45de870898eac9bab6d832",
     "4a1e44a8e8d282f283b76783a77498ed",
@@ -2001,12 +1998,12 @@
     "d002d9dd72ed6b86ae960c8373eb03da",
     "c8d9c08d30cf333f9fa6463d0bbb3ead",
     "dc361947e7815d51fb7610abcfbc3274",
-    "0434946fb1798f2d94f3ada7b63bc58a"
+    "0434946fb1798f2d94f3ada7b63bc58a",
+    "da3bfafc208ab91c6a80b3b5490eb081",
+    "cc2d0844497793e548ce02e12ad1808f",
+    "5f01e203c9368217b511f2bcf54d9bae"
   ],
   "titles": [
-    "Indonesien - Viele Vermisste nach Fährunglück vor Bali",
-    "USA - Vermisste nach Explosion in Feuerwerkskörper-Lagerhalle",
-    "Behinderungen im Flugverkehr - Streik der Fluglotsen in Frankreich",
     "US-Gericht -  Asyl-Stopp an der Grenze ist rechtswidrig",
     "Deutsch-niederländisches Projekt - Klimaaktivistin Neubauer kritisiert geplante Förderung von Erdgas vor Borkum",
     "Ostdeutschland - Feuerwehr kämpft gegen Waldbrände",
@@ -3003,12 +3000,12 @@
     "Asien - Oberstes Gericht der Philippinen blockiert Amtsenthebungsverfahren von Vizepräsidentin Duterte",
     "Jugendschutz - Anbieter von Porno-Seiten in Großbritannien müssen Altersprüfung einführen",
     "Baden-Württemberg: Landtagsvizepräsident der SPD tritt nach Hakenkreuz-Skandal zurück",
-    "Spremberg: Debatte zu Vorgehen gegen Rechtsextremismus entbrannt"
+    "Spremberg: Debatte zu Vorgehen gegen Rechtsextremismus entbrannt",
+    "Grenzkonflikt - Thailand verhängt Kriegsrecht - UNO-Sicherheitsrat setzt Dringlichkeitssitzung an",
+    "Statistik - Jeder zweite EU-Bürger hortet sein altes Smartphone lieber als es loszuwerden",
+    "Alzheimer - EMA empfiehlt Zulassung von weiterem Medikament"
   ],
   "hashes": [
-    "aef88f71d7437dfd0f80fc921c6ac4a4",
-    "b39549eac18e52a4e100cbf3fcfcd0f8",
-    "89d62d43ca22ee3fb77607cd429183c1",
     "3ff3eb5b89b701811cf5363fd29c95f7",
     "5d0ea9c36ee91fe60bad29cb0a41faa5",
     "f6f0637039f1dff9bb95e3e6e7cd0301",
@@ -4005,6 +4002,9 @@
     "1d673f41eceddb8178c528d21f111eec",
     "4ff9b5a44a75c3a466600b9a86da788d",
     "166e639cdc08e11541a8d7bb2d7e8524",
-    "beacc2d3d55c317a17a973f0261476eb"
+    "beacc2d3d55c317a17a973f0261476eb",
+    "8269aa6a5598f7f5130a747ece2a5ebc",
+    "c77659019eac6feeac1b1373a675755c",
+    "1b829750c8316f78c1818db5ea28a57a"
   ]
 }
