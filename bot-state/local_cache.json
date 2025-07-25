@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukrainische-armee-toetet-vize-chef-der-russischen-marine-100.html",
-    "https://www.spiegel.de/panorama/waldbraende-in-deutschland-feuerwehren-kaempfen-gegen-flammen-in-sachsen-brandenburg-und-thueringen-a-a9eb591c-1819-45b8-9727-1b6137080c8e#ref=rss",
     "https://www.deutschlandfunk.de/krankenstand-auch-2024-auf-rekordniveau-100.html",
     "https://www.deutschlandfunk.de/eu-katastrophenschutz-schickt-einsatzkraefte-in-14-laender-102.html",
     "https://www.deutschlandfunk.de/regierungschefin-frederiksen-alles-fuer-eu-beitritt-der-ukraine-unternehmen-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/was-das-aus-der-intelfabrik-fuer-sachsen-anhalt-bedeutet-110608155.html",
     "https://www.faz.net/aktuell/politik/inland/palantir-alternativen-zur-umstrittenen-polizei-software-110608279.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-einzelfoerderungen-kuenftig-besser-pruefen-100.html",
-    "https://www.spiegel.de/ausland/iran-deutschland-frankreich-und-grossbritannien-fuehren-neue-atomgespraeche-a-b4f5849f-90d7-4360-9d8a-6a7ee3c8c2a5#ref=rss"
+    "https://www.spiegel.de/ausland/iran-deutschland-frankreich-und-grossbritannien-fuehren-neue-atomgespraeche-a-b4f5849f-90d7-4360-9d8a-6a7ee3c8c2a5#ref=rss",
+    "https://www.deutschlandfunk.de/kretschmann-sieht-bei-seiner-partei-offene-flanke-in-der-migrationsfrage-100.html",
+    "https://www.deutschlandfunk.de/usa-kommandeur-der-is-terrormiliz-getoetet-102.html"
   ],
   "content_hashes": [
-    "9fc7f1cba0dabb748f94850bf8ff8cb6",
-    "79567dd8166e989b32820a49a672ea14",
     "58436d0025a2a83b0b66ccde388bcd7e",
     "81f378fb86a2bd7d13231aa1eec522a4",
     "bad5ad91c949b3939346633f5cda8516",
@@ -2001,11 +1999,11 @@
     "84f75d787f0a1e5bf5eaf909d4d468a9",
     "27a6ba61944b8fd95ed2b3133f53d5b2",
     "c82557ddd443afdf3a203fe58b78213e",
-    "3fcd69cc9a05ed0765e87148044a9be4"
+    "3fcd69cc9a05ed0765e87148044a9be4",
+    "1c96ddd884e8c962b81e27e663de3823",
+    "4ff015fed157e9dcca6b0e0dde2ccec3"
   ],
   "titles": [
-    "Ukraine-Krieg - Ukrainische Armee tötet Vize-Chef der russischen Marine",
-    "Waldbrände in Deutschland: Feuerwehren kämpfen gegen Flammen in Sachsen, Brandenburg und Thüringen",
     "BKK-Daten - Krankenstand auch 2024 auf Rekordniveau",
     "Waldbrände - EU-Katastrophenschutz schickt Einsatzkräfte in 14 Länder",
     "Dänemark - Regierungschefin Frederiksen: Alles für EU-Beitritt der Ukraine unternehmen",
@@ -3003,11 +3001,11 @@
     "Sachsen-Anhalt: Was das Aus der Intelfabrik bedeutet",
     "Streit in Stuttgart: Hätte es Alternativen zu Palantir gegeben?",
     "Staatliche Milliarden-Subventionen - Bundeswirtschaftsministerin Reiche: \"Einzelförderungen künftig besser prüfen\"",
-    "Iran: Deutschland, Frankreich und Großbritannien führen neue Atomgespräche"
+    "Iran: Deutschland, Frankreich und Großbritannien führen neue Atomgespräche",
+    "Grüne - Kretschmann sieht bei seiner Partei \"offene Flanke\" in der Migrationsfrage",
+    "Syrien - USA: Kommandeur der IS-Terrormiliz getötet"
   ],
   "hashes": [
-    "5efa731a996f7f0df7b17aa57dcf52bc",
-    "b68d72eecd7889d8d3f89dda46675caf",
     "a708c651cd2ad1d415703fea96ae5aaf",
     "f2c1877e3c4e9f6c7836f47068caf921",
     "e5e0709d6cc5dbb1cc783a0b0889c276",
@@ -4005,6 +4003,8 @@
     "b915ae01a91d020a5ed08ad31a83c2d1",
     "cc1e270433bb9ef4f2539d86c5ab4b91",
     "fd268856f6697c7f6fc0caee00b4514f",
-    "0dab04d7a650035e67101005f6c34991"
+    "0dab04d7a650035e67101005f6c34991",
+    "6d0da5086c8e677ad527a836dfd79485",
+    "e9d3ac2d44789edd15a19264ada563cc"
   ]
 }
