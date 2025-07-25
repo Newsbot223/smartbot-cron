@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verbaende-fordern-bau-hunderter-neuer-schwimmbaeder-100.html",
-    "https://www.deutschlandfunk.de/feuerwehren-kaempfen-im-osten-deutschlands-gegen-mehrere-braende-102.html",
-    "https://www.deutschlandfunk.de/feuer-im-suedosten-von-kreta-breiten-sich-aus-100.html",
-    "https://www.deutschlandfunk.de/afd-fragt-vornamen-von-buergergeldempfaengern-ab-michael-andreas-und-thomas-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-russischer-general-getoetet-100.html",
     "https://www.deutschlandfunk.de/mehrheit-der-deutschen-gegen-begleitetes-trinken-ab-100.html",
     "https://www.deutschlandfunk.de/gewerkschaft-ruft-zeitungsjournalisten-zum-warnstreik-auf-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/thymen-arensman-gewinnt-alpenetappe-in-la-plagne-lipowitz-verteidigt-dritten-gesamtplatz-102.html",
     "https://www.deutschlandfunk.de/nach-absturz-von-passagiermaschine-im-osten-flugschreiber-geborgen-100.html",
     "https://www.faz.net/aktuell/politik/inland/paragraph-218-passt-laut-unions-gutachten-zum-koalitionsvertrag-110608583.html",
-    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-kuendigt-treffen-mit-us-praesident-trump-an-102.html"
+    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-kuendigt-treffen-mit-us-praesident-trump-an-102.html",
+    "https://www.deutschlandfunk.de/alabali-radovan-bei-g20-treffen-kfw-bank-vergibt-millionen-kredit-an-suedafrika-fuer-energiewende-100.html",
+    "https://www.spiegel.de/politik/deutschland/gaza-friedrich-merz-emmanuel-macron-und-keir-starmer-fordern-stopp-der-beschraenkungen-fuer-hilfslieferungen-a-11073155-f543-4cd8-8f7c-e2d6e24252fa#ref=rss",
+    "https://www.aljazeera.com/gallery/2025/7/25/us-military-expands-enforcement-role-at-mexican-border-under-donald-trump?traffic_source=rss",
+    "https://www.faz.net/aktuell/politik/inland/was-das-aus-der-intelfabrik-fuer-sachsen-anhalt-bedeutet-110608155.html"
   ],
   "content_hashes": [
-    "dd0d4ab54ea2011636509072dd29adb2",
-    "68a2e501bb876c0b54090b15abe83d2b",
-    "297096d41f9c10956f104b6ea2b6b04c",
-    "5f805261eaacba8b727e785945ab6d11",
     "644a6b961465cb83ceb370c337562873",
     "f3679631799002b80845851bd800d226",
     "dc393f2e5bddd0be2e768115384883bd",
@@ -2001,13 +1997,13 @@
     "c60105bdcd8b4f0647667ce2002bbbdb",
     "e3bf2c2f3ce1fdae4918b08a68cdbdcf",
     "9879677c6094a3853b0c82c48e2b67e3",
-    "d1ec1cc3c7951ec256f8749431f0e964"
+    "d1ec1cc3c7951ec256f8749431f0e964",
+    "3cb4c7b92a183f3eb3f5bfa33583e956",
+    "aa0639bfa30fed14049d1bc6d5254cca",
+    "420f530e88c6eecb18c1000a186e855d",
+    "84f75d787f0a1e5bf5eaf909d4d468a9"
   ],
   "titles": [
-    "Gesellschaft - Verbände fordern Bau hunderter neuer Schwimmbäder",
-    "Waldbrände - Feuerwehren kämpfen im Osten Deutschlands gegen mehrere Brände",
-    "Waldbrände - Feuer im Südosten von Kreta breiten sich aus",
-    "Sozialleistungen - AfD fragt Vornamen von Bürgergeldempfängern ab: Michael, Andreas und Thomas",
     "Ukraine - Tote und Verletzte nach russischen Angriffen - Russischer General getötet",
     "KKH-Umfrage - Mehrheit der Deutschen gegen \"begleitetes Trinken\" ab 14",
     "DJV - Gewerkschaft ruft Zeitungsjournalisten zum Warnstreik auf",
@@ -3003,13 +2999,13 @@
     "Tour de France - Thymen Arensman gewinnt Alpenetappe in La Plagne - Lipowitz verteidigt dritten Gesamtplatz",
     "Russland - Nach Absturz von Passagiermaschine im Osten: Flugschreiber geborgen",
     "Streit um Abtreibungen: Paragraph 218 passt laut Unions-Gutachten zum Koalitionsvertrag",
-    "Handelskonflikt - EU-Kommissionspräsidentin von der Leyen kündigt Treffen mit US-Präsident Trump an"
+    "Handelskonflikt - EU-Kommissionspräsidentin von der Leyen kündigt Treffen mit US-Präsident Trump an",
+    "Entwicklungshilfe - Alabali Radovan bei G20-Treffen: KfW-Bank vergibt Millionen-Kredit an Südafrika für Energiewende",
+    "Gaza: Friedrich Merz, Emmanuel Macron und Keir Starmer fordern Stopp der Beschränkungen für Hilfslieferungen",
+    "US military expands enforcement role at Mexican border under Donald Trump",
+    "Sachsen-Anhalt: Was das Aus der Intelfabrik bedeutet"
   ],
   "hashes": [
-    "faa34af19563865d356000d0ee4bd050",
-    "e11878a54e585571bb099f8410167b20",
-    "52d888178b1c40bfd59dc51eed2ff418",
-    "1473f72a652eb454e59a9f7d57ef6dcb",
     "b8907c86971c07e992754d3eca3abc66",
     "c5811e3496083fb24769ec2e2e053927",
     "6578e9391fdcbc66a697fce4a0336e99",
@@ -4005,6 +4001,10 @@
     "cfa754ff8014e304461e4db6e3df7125",
     "a99d7edfb86a59fe914682d8e178c4d1",
     "552aa53870feb2269500a6bc683121ee",
-    "68ef6ae9dd785d384a19ac91145d5d79"
+    "68ef6ae9dd785d384a19ac91145d5d79",
+    "80466061680c0d85a385db35b9d9d2af",
+    "32799b2dad8861a47da5cd5d8847f19f",
+    "331960f3c17b1973d0b9420202dd695c",
+    "b915ae01a91d020a5ed08ad31a83c2d1"
   ]
 }
