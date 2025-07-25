@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/feuerwehr-kaempft-gegen-waldbraende-126.html",
-    "https://www.deutschlandfunk.de/argentinien-schraenkt-gaslieferungen-an-industrie-ein-100.html",
-    "https://www.deutschlandfunk.de/republikanische-abweichler-verzoegern-abstimmung-ueber-trumps-steuergesetz-im-repraesentantenhaus-102.html",
     "https://www.spiegel.de/panorama/waldbraende-in-deutschland-feuerwehren-kaempfen-gegen-ausbreitung-a-a9eb591c-1819-45b8-9727-1b6137080c8e#ref=rss",
     "https://www.deutschlandfunk.de/verbaende-fordern-bau-hunderter-neuer-schwimmbaeder-100.html",
     "https://www.deutschlandfunk.de/feuerwehren-kaempfen-im-osten-deutschlands-gegen-mehrere-braende-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/jeder-zweite-eu-buerger-hortet-sein-altes-smartphone-lieber-als-es-loszuwerden-104.html",
     "https://www.deutschlandfunk.de/ema-empfiehlt-zulassung-von-weiterem-medikament-102.html",
     "https://www.deutschlandfunk.de/spatenstich-fuer-stromtrasse-suedlink-in-bayern-100.html",
-    "https://www.deutschlandfunk.de/brandenburg-will-jesidische-familie-aus-dem-irak-zurueckholen-100.html"
+    "https://www.deutschlandfunk.de/brandenburg-will-jesidische-familie-aus-dem-irak-zurueckholen-100.html",
+    "https://www.deutschlandfunk.de/thymen-arensman-gewinnt-alpenetappe-in-la-plagne-lipowitz-verteidigt-dritten-gesamtplatz-102.html",
+    "https://www.deutschlandfunk.de/nach-absturz-von-passagiermaschine-im-osten-flugschreiber-geborgen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/paragraph-218-passt-laut-unions-gutachten-zum-koalitionsvertrag-110608583.html"
   ],
   "content_hashes": [
-    "4a1e44a8e8d282f283b76783a77498ed",
-    "522eb11e1759b3d171bd12456c64ec23",
-    "af454518d690dc50ccffa7453e14d457",
     "83961e849179a222f3e4fcb5eea5462d",
     "dd0d4ab54ea2011636509072dd29adb2",
     "68a2e501bb876c0b54090b15abe83d2b",
@@ -2001,12 +1998,12 @@
     "cc2d0844497793e548ce02e12ad1808f",
     "5f01e203c9368217b511f2bcf54d9bae",
     "f8e7dbf5efe310d0d02a5272e34be606",
-    "436f102d806fbd7246e2591b5dddb570"
+    "436f102d806fbd7246e2591b5dddb570",
+    "c60105bdcd8b4f0647667ce2002bbbdb",
+    "e3bf2c2f3ce1fdae4918b08a68cdbdcf",
+    "9879677c6094a3853b0c82c48e2b67e3"
   ],
   "titles": [
-    "Ostdeutschland - Feuerwehr kämpft gegen Waldbrände",
-    "Kältewelle - Argentinien schränkt Gaslieferungen an Industrie ein",
-    "USA - Republikanische Abweichler verzögern Abstimmung über Trumps Steuergesetz im Repräsentantenhaus",
     "Waldbrände in Deutschland: Feuerwehren kämpfen gegen Ausbreitung",
     "Gesellschaft - Verbände fordern Bau hunderter neuer Schwimmbäder",
     "Waldbrände - Feuerwehren kämpfen im Osten Deutschlands gegen mehrere Brände",
@@ -3003,12 +3000,12 @@
     "Statistik - Jeder zweite EU-Bürger hortet sein altes Smartphone lieber als es loszuwerden",
     "Alzheimer - EMA empfiehlt Zulassung von weiterem Medikament",
     "Energiewende - Spatenstich für Stromtrasse Suedlink in Bayern",
-    "Nach Abschiebung - Brandenburg will jesidische Familie aus dem Irak zurückholen"
+    "Nach Abschiebung - Brandenburg will jesidische Familie aus dem Irak zurückholen",
+    "Tour de France - Thymen Arensman gewinnt Alpenetappe in La Plagne - Lipowitz verteidigt dritten Gesamtplatz",
+    "Russland - Nach Absturz von Passagiermaschine im Osten: Flugschreiber geborgen",
+    "Streit um Abtreibungen: Paragraph 218 passt laut Unions-Gutachten zum Koalitionsvertrag"
   ],
   "hashes": [
-    "f6f0637039f1dff9bb95e3e6e7cd0301",
-    "ae589bd205a9f0566bedd64f37551c00",
-    "e09aaf139941b7b83867f54f8ae523ed",
     "81746cef4fa792a1e42196be0b25d30c",
     "faa34af19563865d356000d0ee4bd050",
     "e11878a54e585571bb099f8410167b20",
@@ -4005,6 +4002,9 @@
     "c77659019eac6feeac1b1373a675755c",
     "1b829750c8316f78c1818db5ea28a57a",
     "8cc1244a509bac3c93b942bffda30e17",
-    "2ee19d261ed9d025b5bc235348f30b7b"
+    "2ee19d261ed9d025b5bc235348f30b7b",
+    "cfa754ff8014e304461e4db6e3df7125",
+    "a99d7edfb86a59fe914682d8e178c4d1",
+    "552aa53870feb2269500a6bc683121ee"
   ]
 }
