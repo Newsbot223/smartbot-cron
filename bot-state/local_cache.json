@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-kritisieren-ende-der-zusammenarbeit-mit-iaea-100.html",
-    "https://www.deutschlandfunk.de/usa-kritisieren-ende-der-zusammenarbeit-teherans-mit-iaea-100.html",
     "https://www.deutschlandfunk.de/afd-verbotsverfahren-steinmeier-mahnt-abwaegung-an-100.html",
     "https://www.faz.net/einspruch/bundesverfassungsgericht-kritik-in-cdu-csu-an-spd-kandidatin-110571541.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-noch-ohne-einigung-bei-stromsteuersenkung-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wirtschaftsgespraech-intel-aus-fuer-magdeburg-100.html",
     "https://www.faz.net/aktuell/politik/kommentar-zum-fall-brosius-gersdorf-suche-nach-einer-gesichtswahrenden-loesung-110606118.html",
     "https://www.deutschlandfunk.de/ministerpraesident-haseloff-intel-absage-fuer-magdeburg-schmerzlicher-tag-fuer-sachsen-anhalt-100.html",
-    "https://www.deutschlandfunk.de/kreditvergabe-in-euro-laendern-mit-kraeftigstem-wachstum-seit-zwei-jahren-102.html"
+    "https://www.deutschlandfunk.de/kreditvergabe-in-euro-laendern-mit-kraeftigstem-wachstum-seit-zwei-jahren-102.html",
+    "https://www.deutschlandfunk.de/im-ersten-halbjahr-mehr-falschgeld-in-deutschland-entdeckt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/csd-in-ostdeutschland-in-seitenstrassen-ist-jeder-auf-sich-gestellt-110600659.html"
   ],
   "content_hashes": [
-    "4a6461a52052f1a456aab5c6ebdad061",
-    "d4eef93c2de1e68bd680a948660c17ac",
     "3d77b00c8de7831174a4d60ddafdec9c",
     "f35333f7a00e99ee2e7e4270616ee370",
     "74a275a3f26742e007cfdf93926b15e8",
@@ -2001,11 +1999,11 @@
     "9f52c64e78f4eb97cd18f32b3ea08e68",
     "024d2f092a8742f351c7170ca042ae05",
     "4a1628b4c631f63deedc8e46c8cf47cf",
-    "be82035785181fafc9f67b1a82ab6faf"
+    "be82035785181fafc9f67b1a82ab6faf",
+    "7fb64245661fdb77ecf9b13a17605229",
+    "e0953b1351ce093d0e48bee5efd5f39a"
   ],
   "titles": [
-    "Teheran - USA kritisieren Ende der Zusammenarbeit mit IAEA",
-    "Internationale Atomenergiebehörde - USA kritisieren Ende der Zusammenarbeit Teherans mit IAEA",
     "Nach SPD-Parteitag - AfD-Verbotsverfahren: Steinmeier mahnt Abwägung an",
     "Verfassungsrichterwahl: Mehrere Unionsabgeordnete halten SPD-Kandidatin für nicht wählbar",
     "Bundesregierung - Koalitionsausschuss noch ohne Einigung bei Stromsteuersenkung",
@@ -3003,11 +3001,11 @@
     "Sachsen-Anhalt - Intel gibt Pläne für Magdeburger Chip-Fabriken komplett auf",
     "Der Fall Brosius-Gersdorf: Suche nach einer gesichtswahrenden Lösung",
     "Chiphersteller - Ministerpräsident Haseloff: Intel-Absage für Magdeburg schmerzlicher Tag für Sachsen-Anhalt",
-    "EZB-Bericht - Kreditvergabe in Euro-Ländern mit kräftigstem Wachstum seit zwei Jahren"
+    "EZB-Bericht - Kreditvergabe in Euro-Ländern mit kräftigstem Wachstum seit zwei Jahren",
+    "Bundesbank - Im ersten Halbjahr mehr Falschgeld in Deutschland entdeckt",
+    "CSD in Ostdeutschland: In Seitenstraßen ist jeder auf sich allein gestellt"
   ],
   "hashes": [
-    "d00fc8fff721f71763e222441a04d063",
-    "94eb59598d799e49c7000acacdfe51eb",
     "188aa8ee90527e51daa5c5857c8dafee",
     "1bfad35b52d5f5c13df4040a37fffc58",
     "bc95fbc07a82a13b70c916087f2a2bb0",
@@ -4005,6 +4003,8 @@
     "c4f203177644101863dd27962171dfd3",
     "a21fb4f259893b2271fab8f6eca4e97d",
     "571df6ff0016c4ad37afc493cd1722fb",
-    "1140d3835e6360c3f83ddd8559c39296"
+    "1140d3835e6360c3f83ddd8559c39296",
+    "1c5ce0459a598ba747d43b69919edd8b",
+    "9774f29092facc5f9fda5e5b23769cd6"
   ]
 }
