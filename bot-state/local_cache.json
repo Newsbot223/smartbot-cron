@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/betriebsrat-rechnet-mit-weiterem-jobabbau-100.html",
-    "https://www.deutschlandfunk.de/aethiopien-gibt-vollendung-bekannt-100.html",
     "https://www.spiegel.de/wirtschaft/uniper-verstaatlichter-gaskonzern-streicht-hunderte-stellen-a-8680fcca-c923-49e9-b224-9b8de52a5bfb#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/cdu-csu-und-spd-beim-koalitionsausschuss-als-das-gewitter-losbrach-110572745.html",
     "https://www.aljazeera.com/news/2025/7/3/deputy-head-of-russian-navy-killed-by-ukraine-in-kursk-moscow-says?traffic_source=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erneut-opfer-bei-russischen-angriffen-auf-charkiw-und-dnipro-100.html",
     "https://www.deutschlandfunk.de/china-untermauert-fuehrungsanspruch-104.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-fuer-pruefung-aller-optionen-108.html",
-    "https://www.deutschlandfunk.de/kuenstliche-intelligenz-china-untermauert-fuehrungsanspruch-100.html"
+    "https://www.deutschlandfunk.de/kuenstliche-intelligenz-china-untermauert-fuehrungsanspruch-100.html",
+    "https://www.deutschlandfunk.de/aenderung-der-schuldenbremse-kanzleramtsminister-frei-gegen-lockerungen-100.html",
+    "https://www.deutschlandfunk.de/gefechte-zwischen-kambodscha-und-thailand-dauern-an-neue-front-im-grenzgebiet-100.html"
   ],
   "content_hashes": [
-    "50072b6614b5edb743a0039e5d00d7d2",
-    "17568a7c2fad54d48d6fcd7b15ac494a",
     "7d3a4b2d3c4bc971fa32e9cdabbdf38a",
     "2faac783dc63606f3218745cee04358f",
     "3bacf35bc1d08a2337c55e99731ab5e8",
@@ -2001,11 +1999,11 @@
     "b68ce32d144da56b1a8c0716cebc6efa",
     "e005f2d4489dcdb9e684e1639a9fdd17",
     "bf4dbd32c165a52be3d784a944f067b0",
-    "4f1b24572a0c189807e44b0088208e24"
+    "4f1b24572a0c189807e44b0088208e24",
+    "88bb60ce1a714549adaffccff5df9a7d",
+    "2093392528da0ba0f4a0b8b3e6f60016"
   ],
   "titles": [
-    "Uniper - Betriebsrat rechnet mit weiterem Jobabbau",
-    "Nil-Staudamm - Äthiopien gibt Vollendung bekannt",
     "Uniper: Verstaatlichter Gaskonzern streicht Hunderte Stellen",
     "Koalitionsausschuss:  Als im Kanzleramt das Gewitter losbrach",
     "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Erneut Opfer bei russischen Angriffen auf Charkiw und Dnipro",
     "Künstliche Intelligenz - China untermauert Führungsanspruch",
     "Bundesverfassungsgericht - Kanzleramtschef für Prüfung aller Optionen",
-    "Welt-KI-Konferenz in Shanghai - Künstliche Intelligenz: China untermauert Führungsanspruch"
+    "Welt-KI-Konferenz in Shanghai - Künstliche Intelligenz: China untermauert Führungsanspruch",
+    "Änderung der Schuldenbremse: Kanzleramtsminister Frei gegen Lockerungen",
+    "Grenzkonflikt - Gefechte zwischen Kambodscha und Thailand dauern an - neue Front im Grenzgebiet"
   ],
   "hashes": [
-    "4f5cd7934d29f1b7ba2364302f56782f",
-    "4e95890db9d293d87528e61af528aea1",
     "61af2b3b2953aeef0dd16ed0b4d49b83",
     "9e1e6161453c08972a8a399b4a928598",
     "c178462475a68903dca9021adc508ea6",
@@ -4005,6 +4003,8 @@
     "8008295ccb56175a4cb46e996b127810",
     "591e307f5bec7366373e5d4445ce8569",
     "d653aae1972705f5fbb7a47c69131d3f",
-    "cb9364dd29a6502c30cbd1af27bf5acd"
+    "cb9364dd29a6502c30cbd1af27bf5acd",
+    "6af5c43726bf1b5a5ce302240ba5961d",
+    "38d1f28197114cc4904e18cbcbb5ba6a"
   ]
 }
