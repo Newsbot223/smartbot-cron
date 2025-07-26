@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/7/3/deputy-head-of-russian-navy-killed-by-ukraine-in-kursk-moscow-says?traffic_source=rss",
-    "https://www.deutschlandfunk.de/angriff-in-ice-vier-verletzte-100.html",
     "https://www.deutschlandfunk.de/wegen-streik-der-fluglotsen-mehr-als-900-ausfaelle-102.html",
     "https://www.spiegel.de/politik/deutschland/afghanistan-alexander-dobrindt-will-direkt-mit-taliban-ueber-abschiebungen-verhandeln-a-62719efc-af14-445d-b709-f8f8ed99132a#ref=rss",
     "https://www.deutschlandfunk.de/bayerns-innenminister-herrmann-angreifer-in-ice-hatte-axt-und-hammer-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aenderung-der-schuldenbremse-kanzleramtsminister-frei-gegen-lockerungen-100.html",
     "https://www.deutschlandfunk.de/gefechte-zwischen-kambodscha-und-thailand-dauern-an-neue-front-im-grenzgebiet-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/korruption-in-der-ukraine-selenskyj-unter-beobachtung-110608215.html",
-    "https://www.deutschlandfunk.de/e-automarkt-waechst-wieder-schneller-europa-verliert-weiter-an-bedeutung-100.html"
+    "https://www.deutschlandfunk.de/e-automarkt-waechst-wieder-schneller-europa-verliert-weiter-an-bedeutung-100.html",
+    "https://www.deutschlandfunk.de/truger-trump-erweist-usa-baerendienst-interesse-an-investitionen-in-europa-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/esa-rakete-bringt-satelliten-ins-all-102.html"
   ],
   "content_hashes": [
-    "3bacf35bc1d08a2337c55e99731ab5e8",
-    "011a731e957e5cd34c6c837981601ffe",
     "2587b3ef092f59e9d4e2c001b3454fb4",
     "885dbaec535a6ef07fb70c6b85943cee",
     "01bc1adfe9c09a2f36c8e1ca9cd7fc94",
@@ -2001,11 +1999,11 @@
     "88bb60ce1a714549adaffccff5df9a7d",
     "2093392528da0ba0f4a0b8b3e6f60016",
     "f7a729f723ebe4535dab8d0abd16ffbe",
-    "e03f5e77be90ce9be2f052cba59cc26a"
+    "e03f5e77be90ce9be2f052cba59cc26a",
+    "b0026da3eeb6528f3b56bac4164d8f9e",
+    "7d57b5c17a8e18a4297e8e7f48fa035d"
   ],
   "titles": [
-    "Deputy head of Russian navy killed by Ukraine in Kursk, Moscow says",
-    "Kriminalität - Angriff in ICE - Vier Verletzte",
     "Frankreich - Wegen Streik der Fluglotsen: Mehr als 900 Ausfälle",
     "Afghanistan: Alexander Dobrindt will direkt mit Taliban über Abschiebungen verhandeln",
     "Kriminalität - Bayerns Innenminister Herrmann: Angreifer in ICE hatte Axt und Hammer",
@@ -3003,11 +3001,11 @@
     "Änderung der Schuldenbremse: Kanzleramtsminister Frei gegen Lockerungen",
     "Grenzkonflikt - Gefechte zwischen Kambodscha und Thailand dauern an - neue Front im Grenzgebiet",
     "Korruption in der Ukraine: Selenskyj unter Beobachtung",
-    "Verkehr - E-Automarkt wächst wieder schneller - Europa verliert weiter an Bedeutung"
+    "Verkehr - E-Automarkt wächst wieder schneller - Europa verliert weiter an Bedeutung",
+    "Wirtschaftsweiser - Truger: Trump erweist USA Bärendienst - Interesse an Investitionen in Europa gestiegen",
+    "Raumfahrt - ESA-Rakete bringt Satelliten ins All"
   ],
   "hashes": [
-    "c178462475a68903dca9021adc508ea6",
-    "fb1415197d8924f9eb3871307cb44c29",
     "9ca4686df501852d3777590fe579f8bf",
     "592dff566994d5233c655670c519b3a7",
     "01168a89b2439d4498a4f76abac8ef7c",
@@ -4005,6 +4003,8 @@
     "6af5c43726bf1b5a5ce302240ba5961d",
     "38d1f28197114cc4904e18cbcbb5ba6a",
     "ba602c7a78a54fc4bf07ae2ea1133dfa",
-    "3bd10a17a4ba53a6a064e1311058d670"
+    "3bd10a17a4ba53a6a064e1311058d670",
+    "32a01800e4334ddef043139bebe0fac7",
+    "5f6b2e1edd33506408e42370066243b3"
   ]
 }
