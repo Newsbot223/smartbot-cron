@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/guenther-cdu-kritisiert-beschluesse-des-koalitionsausschusses-102.html",
-    "https://www.deutschlandfunk.de/flixbus-kippt-um-20-menschen-verletzt-100.html",
-    "https://www.deutschlandfunk.de/usa-steuergesetz-im-repraesentantenhaus-100.html",
     "https://www.spiegel.de/wirtschaft/friedrich-merz-wirtschaftsverbaende-werfen-kanzler-im-streit-ueber-stromsteuer-wortbruch-vor-a-47782567-1a48-4daf-8bca-0f320fff9883#ref=rss",
     "https://www.deutschlandfunk.de/trump-feiert-beschluss-des-steuer-und-ausgabengesetzes-mit-anhaengern-kritik-von-demokraten-100.html",
     "https://www.deutschlandfunk.de/deutsche-industrie-mit-auftragsrueckgang-im-mai-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/griechenland-bittet-eu-wegen-waldbraenden-um-hilfe-feuer-auch-nahe-athen-100.html",
     "https://www.deutschlandfunk.de/kambodscha-und-thailand-zu-gespraechen-ueber-waffenruhe-bereit-dennoch-erneute-kaempfe-100.html",
     "https://www.deutschlandfunk.de/rnd-bericht-gefaengnisse-in-mehreren-bundeslaendern-nahe-der-belastungsgrenze-100.html",
-    "https://www.deutschlandfunk.de/wagenknecht-fordert-kostendeckel-eigenanteile-grenzen-an-enteignung-der-aelteren-generation-100.html"
+    "https://www.deutschlandfunk.de/wagenknecht-fordert-kostendeckel-eigenanteile-grenzen-an-enteignung-der-aelteren-generation-100.html",
+    "https://www.deutschlandfunk.de/polizei-loest-nach-gewalt-gegen-einsatzkraefte-internationalistische-demonstration-auf-57-festnahmen-100.html",
+    "https://www.deutschlandfunk.de/ice-in-tunnel-bei-wien-stehen-geblieben-rund-400-passagiere-steckten-stundenlang-fest-100.html",
+    "https://www.deutschlandfunk.de/schiffswrack-der-versenkten-hms-nottingham-in-der-nordsee-entdeckt-102.html"
   ],
   "content_hashes": [
-    "6f0754934b91d369980f49b6984b4fc6",
-    "22b47e1bdfff600ee07bbf6f506498c1",
-    "04cdfe13ecf8e22c0553a3618e77a75f",
     "b5d3cc76ef21a2cc69301d3af5ec1c77",
     "b15fb8c426215533b470555a5a976641",
     "d661dceeaf0cc405da00a6d91c228a54",
@@ -2001,12 +1998,12 @@
     "7216d055055bf2a789af1fed5c447756",
     "ea7529bd414a97de0f3db40c9eb0af16",
     "1b876a9b79baa140bd484588c636558e",
-    "f90e442f7852737822cc07197cacc3dc"
+    "f90e442f7852737822cc07197cacc3dc",
+    "9fc9fc8816df4b82cb5485df759132da",
+    "509fd2533c8b8f299bab200f8b1974fc",
+    "fac203aeafa5bedd12736139edcbc690"
   ],
   "titles": [
-    "\"Eigenartige Prioritätensetzung\" - Günther (CDU) kritisiert Beschlüsse des Koalitionsausschusses",
-    "Unfall A 19 - Flixbus kippt um - 20 Menschen verletzt",
-    "USA - Trumps Steuer- und Ausgabengesetz nimmt letzte Hürde",
     "Friedrich Merz: Wirtschaftsverbände werfen Kanzler im Streit über Stromsteuer Wortbruch vor",
     "USA - Trump feiert Beschluss des Steuer- und Ausgabengesetzes mit Anhängern - Kritik von Demokraten",
     "Statistik - Deutsche Industrie mit Auftragsrückgang im Mai",
@@ -3003,12 +3000,12 @@
     "Flammen außer Kontrolle - Griechenland bittet EU wegen Waldbränden um Hilfe - Feuer auch nahe Athen",
     "Nach Trump-Vermittlung - Kambodscha und Thailand zu Gesprächen über Waffenruhe bereit - dennoch erneute Kämpfe",
     "Umfrage bei Landesjustizministerien - RND-Bericht: Gefängnisse in mehreren Bundesländern nahe der Belastungsgrenze",
-    "Pflegekosten - Wagenknecht fordert Kostendeckel - Eigenanteile grenzen an \"Enteignung der älteren Generation\""
+    "Pflegekosten - Wagenknecht fordert Kostendeckel - Eigenanteile grenzen an \"Enteignung der älteren Generation\"",
+    "Berlin - Polizei löst nach Gewalt gegen Einsatzkräfte internationalistische Demonstration auf - 57 Festnahmen",
+    "Technische Störung - ICE in Tunnel bei Wien stehen geblieben - rund 400 Passagiere steckten stundenlang fest",
+    "Erster Weltkrieg - Schiffswrack der versenkten HMS Nottingham in der Nordsee entdeckt"
   ],
   "hashes": [
-    "1b48027dd580f7bc70fa7b72ee89fa56",
-    "5b760a607c2453176b551c30efc25e0d",
-    "4a039690983d2c649f551db9ff1ebe7a",
     "a9dd814f65d361961048e7b85bb9cebc",
     "0f3f5bae67dc8b52950f32f9fe521281",
     "23c55a61b399e6fa250c72f5a8308db8",
@@ -4005,6 +4002,9 @@
     "2fcfb1bbe1bd86102ddb82e26607b08a",
     "6d06ca594c75ef4e9854c286c7a88ea8",
     "d2b8d921bb98ced9a8136e125d8b063d",
-    "db568bbe5432392d669d9d6d36aa81d8"
+    "db568bbe5432392d669d9d6d36aa81d8",
+    "3ad88e165b6a9492ffe36d8a8c77595f",
+    "5bdaf816cf705c8fd8f4a2a4bb73ddef",
+    "261e31dedd4e1a80495d5f37c466868d"
   ]
 }
