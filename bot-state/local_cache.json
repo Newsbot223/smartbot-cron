@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-diplomaten-fordern-ein-ende-der-siedlergewalt-gegen-palaestinenser-100.html",
-    "https://www.deutschlandfunk.de/explosion-an-tankstelle-in-rom-mindestens-45-verletzte-100.html",
     "https://www.spiegel.de/panorama/justiz/linksextremismus-anklage-gegen-sechs-mutmassliche-gewalttaeter-a-e7c6eafe-fa7d-4b10-ae1a-7f7dc6f4a7c3#ref=rss",
     "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-kampfdrohnen-an-100.html",
     "https://www.deutschlandfunk.de/hamas-aeussert-zusaetzliche-bedingungen-fuer-waffenruhe-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/die-afd-ist-die-vierte-grosse-pruefung-der-bundesrepublik-110608397.html",
     "https://www.deutschlandfunk.de/kritik-in-der-eu-an-unausgewogener-einigung-mit-den-usa-100.html",
     "https://www.deutschlandfunk.de/podium-wie-aus-berlin-eine-suppenkueche-fuer-gaza-organsiert-wird-100.html",
-    "https://www.deutschlandfunk.de/interview-sven-ambrosy-landrat-friesland-spd-auswege-fuer-klamme-kommunen-100.html"
+    "https://www.deutschlandfunk.de/interview-sven-ambrosy-landrat-friesland-spd-auswege-fuer-klamme-kommunen-100.html",
+    "https://www.deutschlandfunk.de/interview-jens-suedekum-oekonom-die-folgen-der-zoelle-fuer-die-volkswirtschaften-100.html",
+    "https://www.faz.net/aktuell/politik/inland/berufung-aufs-c-wie-die-csu-zu-brosius-gersdorf-steht-110610055.html"
   ],
   "content_hashes": [
-    "b506fc543b62dcae973ede6680697128",
-    "f064828b908acb2788e2247f6a770486",
     "9c6de087686df3887c398b4f19d75f0f",
     "592375ce1d7c44b34dcd7ea123eb25d7",
     "0385d7d5afa0e5907a396c3f4b3e07eb",
@@ -2001,11 +1999,11 @@
     "e6886e17879892a947759127b44d9046",
     "0ca42a3fe1b5f36c51e0071595cc05c6",
     "f9be2b1139ecb419961f445d679b23fb",
-    "ff5f486968e1bfab585f302e0035ece9"
+    "ff5f486968e1bfab585f302e0035ece9",
+    "37822c301e9f29af151da2f21f3df4d3",
+    "6acee2571f233730b724ac6809d1c382"
   ],
   "titles": [
-    "Nahost - Deutsche Diplomaten fordern ein Ende der Siedlergewalt gegen Palästinenser",
-    "Italien - Explosion an Tankstelle in Rom - mindestens 45 Verletzte",
     "Linksextremismus: Anklage gegen sechs mutmaßliche Gewalttäter",
     "Ukraine - Russland greift Kiew erneut mit Kampfdrohnen an",
     "Nahost - Hamas äußert zusätzliche Bedingungen für Waffenruhe",
@@ -3003,11 +3001,11 @@
     "Wie umgehen mit der AfD?: Die vierte große Prüfung der Bundesrepublik",
     "Zollkonflikt - Kritik in der EU an \"unausgewogener\" Einigung mit den USA",
     "Hungerkrise - Wie eine Berlinerin Menschen in Gaza mit Essen versorgt",
-    "Klamme Kommunen - Das Sondervermögen allein hilft Städten und Gemeinden nicht"
+    "Klamme Kommunen - Das Sondervermögen allein hilft Städten und Gemeinden nicht",
+    "Einigung im Zollstreit - Ökonom Südekum: Europa muss in eigene Stärke investieren",
+    "Streit um Brosius-Gersdorf: Die Richterwahl wurde auch von der CSU vergeigt"
   ],
   "hashes": [
-    "fceb26ee7a98d097d05f2f05d5f4699e",
-    "f8d6dea3eef31ed49493fcbdd956ab47",
     "bd5249555f8143b71d707a5dcb31c88a",
     "a7389d142847cb6dc51ecd50334e8835",
     "c3b38a82a3487919a5290529aeb6bfd4",
@@ -4005,6 +4003,8 @@
     "5098f2d28970f62f243220bf763e5a60",
     "2e7f6e6d536ea5c8a699c675d1378e4f",
     "891a78052b4d93fd1817732dc6f8eef2",
-    "55dab2d20f3ba72285053abc2717d7f9"
+    "55dab2d20f3ba72285053abc2717d7f9",
+    "8d97e415094fca571b90fd82483351b8",
+    "ecad3aee08b401d13212950afaaf026b"
   ]
 }
