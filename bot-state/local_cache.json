@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-greift-kiew-erneut-mit-kampfdrohnen-an-100.html",
-    "https://www.deutschlandfunk.de/hamas-aeussert-zusaetzliche-bedingungen-fuer-waffenruhe-100.html",
-    "https://www.deutschlandfunk.de/bsw-parteichefin-mohamed-ali-es-gibt-keine-zusammenarbeit-mit-der-afd-102.html",
     "https://www.deutschlandfunk.de/haftbefehl-gegen-bosnischen-serbenfuehrer-dodik-aufgehoben-100.html",
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-im-ersten-halbjahr-2025-um-fast-die-haelfte-gesunken-100.html",
     "https://www.faz.net/aktuell/politik/erstes-halbjahr-nur-noch-gut-halb-so-viele-asylantraege-110576333.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/interview-sven-ambrosy-landrat-friesland-spd-auswege-fuer-klamme-kommunen-100.html",
     "https://www.deutschlandfunk.de/interview-jens-suedekum-oekonom-die-folgen-der-zoelle-fuer-die-volkswirtschaften-100.html",
     "https://www.faz.net/aktuell/politik/inland/berufung-aufs-c-wie-die-csu-zu-brosius-gersdorf-steht-110610055.html",
-    "https://www.deutschlandfunk.de/kambodscha-und-thailand-stimmen-waffenruhe-zu-100.html"
+    "https://www.deutschlandfunk.de/kambodscha-und-thailand-stimmen-waffenruhe-zu-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-plant-kein-hoeheres-renteneintrittsalter-102.html",
+    "https://www.deutschlandfunk.de/von-armut-oder-sozialer-ausgrenzung-bedrohte-menschen-erleben-haeufiger-diskriminierung-100.html",
+    "https://www.deutschlandfunk.de/online-plattform-temu-droht-eu-strafe-102.html"
   ],
   "content_hashes": [
-    "592375ce1d7c44b34dcd7ea123eb25d7",
-    "0385d7d5afa0e5907a396c3f4b3e07eb",
-    "8facd7660e587c355478976c8271a9e0",
     "18977165030fbb62b1679ab55dedfceb",
     "f9242981c38141721ed466439c89da29",
     "ec15b8819ea5a7f5a8fb22e1b3139808",
@@ -2001,12 +1998,12 @@
     "ff5f486968e1bfab585f302e0035ece9",
     "37822c301e9f29af151da2f21f3df4d3",
     "6acee2571f233730b724ac6809d1c382",
-    "d71fea76e86eba82981f57b7ecca2d9a"
+    "d71fea76e86eba82981f57b7ecca2d9a",
+    "592ddaed0e4881fe13842963534ba786",
+    "211f62c4b6f534618130c10197ca0fe4",
+    "b6c866186f570a9944509d3281103e33"
   ],
   "titles": [
-    "Ukraine - Russland greift Kiew erneut mit Kampfdrohnen an",
-    "Nahost - Hamas äußert zusätzliche Bedingungen für Waffenruhe",
-    "Parteien - BSW-Parteichefin Mohamed Ali: Es gibt keine Zusammenarbeit mit der AfD",
     "Bosnien-Herzegowina - Haftbefehl gegen bosnischen Serbenführer Dodik aufgehoben",
     "Zeitungsbericht - Zahl der Asylanträge in Deutschland im ersten Halbjahr 2025 um fast die Hälfte gesunken",
     "Erstes Halbjahr 2025: Nur noch gut halb so viele Asylanträge in Deutschland",
@@ -3003,12 +3000,12 @@
     "Klamme Kommunen - Das Sondervermögen allein hilft Städten und Gemeinden nicht",
     "Einigung im Zollstreit - Ökonom Südekum: Europa muss in eigene Stärke investieren",
     "Streit um Brosius-Gersdorf: Die Richterwahl wurde auch von der CSU vergeigt",
-    "Grenzkonflikt - Kambodscha und Thailand stimmen Waffenruhe zu"
+    "Grenzkonflikt - Kambodscha und Thailand stimmen Waffenruhe zu",
+    "Koalitionsvertrag - Bundesregierung plant kein höheres Renteneintrittsalter",
+    "EU-Statistik - Von Armut oder sozialer Ausgrenzung bedrohte Menschen erleben häufiger Diskriminierung",
+    "Illegale Produkte - Online-Plattform Temu droht EU-Strafe"
   ],
   "hashes": [
-    "a7389d142847cb6dc51ecd50334e8835",
-    "c3b38a82a3487919a5290529aeb6bfd4",
-    "89520f9878c631270e8669db27cff476",
     "6562abd86d75a04dbbc279a6614ae09d",
     "7980c53e02767f83e286cf17050ccc30",
     "65a98d620b2ad3aa08f73c3eb9225c6e",
@@ -4005,6 +4002,9 @@
     "55dab2d20f3ba72285053abc2717d7f9",
     "8d97e415094fca571b90fd82483351b8",
     "ecad3aee08b401d13212950afaaf026b",
-    "bafb0164b6c023df7283c6964677ce32"
+    "bafb0164b6c023df7283c6964677ce32",
+    "0d1268c8f9db826c7e19cd21e5130143",
+    "ad677f7c67ec0f39900d33e1a25c8db2",
+    "47816def8f367b837c24e24538756465"
   ]
 }
