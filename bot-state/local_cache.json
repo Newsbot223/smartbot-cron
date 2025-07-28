@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/massiver-stromausfall-legt-grosse-teile-tschechiens-sowie-prag-lahm-100.html",
-    "https://www.deutschlandfunk.de/uno-dokumentiert-613-todesfaelle-bei-ausgabe-von-hilfsguetern-100.html",
-    "https://www.deutschlandfunk.de/weitere-1-000-fluege-gestrichen-102.html",
-    "https://www.deutschlandfunk.de/fuehrende-politiker-halten-diskussion-fuer-nicht-beendet-106.html",
-    "https://www.deutschlandfunk.de/oesterreichischer-rechtsextremist-martin-sellner-darf-nicht-in-rathaus-chemnitz-auftreten-100.html",
     "https://www.deutschlandfunk.de/explosion-an-tankstelle-in-rom-mehrere-verletzte-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-wirft-russland-verstoss-gegen-chemiewaffen-uebereinkommen-vor-104.html",
     "https://www.deutschlandfunk.de/der-tibetische-premierminister-penpa-tsering-ueber-die-nachfolge-des-dalai-lama-100.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/ausland/anti-israelische-aktivisten-militant-statt-zivil-110610052.html",
     "https://www.deutschlandfunk.de/im-september-sollen-in-syrien-parlamentswahlen-stattfinden-100.html",
     "https://www.deutschlandfunk.de/kambodscha-und-thailand-treffen-sich-nach-erneuten-kaempfen-zu-gespraechen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutlich-mehr-faelle-von-bandenmaessigem-missbrauch-beim-buergergeld-registriert-110610542.html"
+    "https://www.faz.net/aktuell/politik/inland/deutlich-mehr-faelle-von-bandenmaessigem-missbrauch-beim-buergergeld-registriert-110610542.html",
+    "https://www.deutschlandfunk.de/heute-gespraeche-der-regierungschefs-kambodschas-und-thailands-ueber-waffenruhe-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-weiteren-russischen-luftangriffen-100.html",
+    "https://www.deutschlandfunk.de/pakt-fuer-den-rechtsstaat-wird-verdoppelt-auf-eine-halbe-milliarde-euro-mehr-stellen-fuer-die-justiz-100.html",
+    "https://www.spiegel.de/panorama/bildung-in-deutschland-pisa-chef-andreas-schleicher-beklagt-nachteile-fuer-schueler-mit-migrationshintergrund-a-fe848c14-f508-4281-86ad-2eaab639df19#ref=rss",
+    "https://www.spiegel.de/wirtschaft/eu-und-usa-einigen-sich-im-zoll-streit-reaktionen-von-bdi-friedrich-merz-donald-trump-und-co-a-a34c9e93-36d4-4c58-a2c3-062e33802841#ref=rss"
   ],
   "content_hashes": [
-    "f5c8da478dbc0f187c85508d2603e0f8",
-    "fac2eea61afcc79bd7ac01a248c562a6",
-    "bf30ec79a39f1f52466d356610f72132",
-    "3ffc6f4f841a549755383750029757dc",
-    "057c99aa8cdc1e0663d6dcd1a9440eae",
     "70a9da1ceb8d1177449422954dd901e7",
     "6f92ef339176637dde3ba39ec29acba9",
     "83ee7fcc9166b0e2842f90caf80ed75b",
@@ -2001,14 +1996,14 @@
     "48a4a78067ec8b1384bb85c2d82163c7",
     "c3853c142947222b2e047f904ebdfdc0",
     "163d51c35727d7d73a0d88467f8ad398",
-    "06d285bd2f602e6e9bcc5b4cd4a67d69"
+    "06d285bd2f602e6e9bcc5b4cd4a67d69",
+    "5c75fae7b0cb7f2db5d2157b22f2bb8a",
+    "5a10c1ff00cf8d79e3fb80dd47a6f10b",
+    "ad7f869890367a5c37c99ba8c067246d",
+    "2aac659c4cd3fc746418d0aceaf1e7c6",
+    "5908efc6b750e23fe82bedef44ae2dd6"
   ],
   "titles": [
-    "Tschechien - Massiver Stromausfall legt große Teile Tschechiens sowie Prag lahm",
-    "Gazastreifen - UNO dokumentiert 613 Todesfälle bei Ausgabe von Hilfsgütern",
-    "Fluglotsenstreik in Frankreich - Weitere 1.000 Flüge gestrichen",
-    "Stromsteuer - Führende Politiker halten Diskussion für nicht beendet",
-    "Gerichtsurteil - Österreichischer Rechtsextremist Martin Sellner darf nicht in Rathaus Chemnitz auftreten",
     "Italien - Explosion an Tankstelle in Rom - Mehrere Verletzte",
     "Geheimdiensterkenntnisse - Bundesregierung wirft Russland Verstoß gegen Chemiewaffen-Übereinkommen vor",
     "Nachfolge des Dalai Lama - Tibetische Exilregierung besteht auf Religionsfreiheit",
@@ -3003,14 +2998,14 @@
     "Demos gegen Israel: Die Aussagen der Aktivisten sind militant",
     "Damaskus - Im September sollen in Syrien Parlamentswahlen stattfinden",
     "Malaysia - Kambodscha und Thailand treffen sich nach erneuten Kämpfen zu Gesprächen",
-    "Sozialleistungen: Deutlich mehr Fälle von bandenmäßigem Missbrauch beim Bürgergeld registriert"
+    "Sozialleistungen: Deutlich mehr Fälle von bandenmäßigem Missbrauch beim Bürgergeld registriert",
+    "Malaysia - Heute Gespräche der Regierungschefs Kambodschas und Thailands über Waffenruhe",
+    "Ukraine-Krieg - Tote und Verletzte nach weiteren russischen Luftangriffen",
+    "Bundesregierung - \"Pakt für den Rechtsstaat\" wird verdoppelt auf eine halbe Milliarde Euro - mehr Stellen für die Justiz",
+    "Bildung in Deutschland: Pisa-Chef Andreas Schleicher beklagt Nachteile für Schüler mit Migrationshintergrund",
+    "EU und USA einigen sich im Zoll-Streit: Reaktionen von BDI, Friedrich Merz, Donald Trump und Co."
   ],
   "hashes": [
-    "cd67898cd3c753f49041529e04f4ff38",
-    "7e2b1988be12cdc494d9c6fe65b5fb53",
-    "b7a3aee8afdc15356511c8a5c6412abe",
-    "a1e0a3b1b5a8a1f46927ca9874eaaf72",
-    "6b7ff25392a6bdf3e94820811b599ac2",
     "1242941a38ecf28f38bb2de3d62acef9",
     "e19ef6d460ca3d04eb24c0c082b93dd7",
     "68728cb8a48576e0e3c280210b308fd9",
@@ -4005,6 +4000,11 @@
     "e409a68a288c0324cc32fa30ca54ddf0",
     "ee1905ca665118739782eaff5498cd80",
     "77914d156c2b10736c11a73c49b024bc",
-    "a431b4cecd3a1cf61de5de94aba8ddca"
+    "a431b4cecd3a1cf61de5de94aba8ddca",
+    "95383dea72f2f0cd724753146b85a58c",
+    "23a09bb765796a8614994f772458566e",
+    "74e41fde1c3af831f77c288864293a42",
+    "97493397e3d97fa32d2869cc9b73a225",
+    "c03c37add3e4bdac302d9f98b2b2b488"
   ]
 }
