@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/ukraine-bundesregierung-erwaegt-beschaffung-von-patriot-systemen-in-den-usa-a-145e6822-1325-4f8f-8509-7d26abc58a8e#ref=rss",
-    "https://www.deutschlandfunk.de/merz-telefoniert-mit-trump-zur-flugabwehr-fuer-die-ukraine-gespraech-auch-zwischen-selenskyj-und-dem-100.html",
-    "https://www.deutschlandfunk.de/massiver-stromausfall-in-tschechien-wieder-behoben-keine-hinweise-auf-sabotage-100.html",
     "https://www.deutschlandfunk.de/stromsteuer-debatte-mehrere-ministerpraesidenten-fordern-entlastung-fuer-verbraucher-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-cdu-zu-infrastrukturmassnahmen-freue-mich-ueber-jede-baustelle-100.html",
     "https://www.deutschlandfunk.de/frueherer-labour-chef-corbyn-will-neue-linke-partei-gruenden-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/drei-tote-und-mehr-als-50-verletzte-bei-zugunglueck-100.html",
     "https://www.deutschlandfunk.de/mehr-als-40-tote-bei-angriff-von-islamisten-auf-kirche-100.html",
     "https://www.faz.net/aktuell/politik/inland/plastikdeckel-soeders-polemik-schadet-der-europaeischen-union-110607801.html",
-    "https://www.deutschlandfunk.de/landkreistagsvize-ambrosy-bekraeftigt-forderung-finanzierung-der-kommunen-zu-reformieren-100.html"
+    "https://www.deutschlandfunk.de/landkreistagsvize-ambrosy-bekraeftigt-forderung-finanzierung-der-kommunen-zu-reformieren-100.html",
+    "https://www.deutschlandfunk.de/waldbrandgefahr-in-griechenland-bleibt-trotz-geloeschter-feuer-hoch-102.html",
+    "https://www.deutschlandfunk.de/sicherheitsberater-heusgen-in-den-bemuehungen-um-eine-zwei-staaten-loesung-nicht-nachlassen-102.html",
+    "https://www.deutschlandfunk.de/oecd-bildungsdirektor-fordert-verpflichtende-sprachtests-in-deutschen-kitas-100.html"
   ],
   "content_hashes": [
-    "49be7da2e80fe79bd3bf13ddceab4152",
-    "51f6409ba4bc9e7dbd8ea100f9d6f665",
-    "fa0707a4e992cc5c9d6984956690c18f",
     "604efc838a6ca2c9c99ace5f0b2c4655",
     "6fffed929fb75fa4b1a5779cb69bd083",
     "9af8413e4bc767f3de7df88a74713ed2",
@@ -2001,12 +1998,12 @@
     "4fdc5b6602f2bbdf6fc8ab4b84088e7b",
     "37bfe472530033e99be94d35031618c2",
     "3ae2e48e5c52c22d3cd1f129c23d1db6",
-    "d3a1fb4810ec7a1442fd24e373caaa91"
+    "d3a1fb4810ec7a1442fd24e373caaa91",
+    "d00a4c6aa35a15058f2ca615a20642fe",
+    "a01227fc92db472a2bcb01be122a59a8",
+    "eedf7bdec72351e578dd18ec9de233da"
   ],
   "titles": [
-    "Ukraine: Bundesregierung erwägt Beschaffung von Patriot-Systemen in den USA",
-    "\"Spiegel\"-Bericht - Merz telefoniert mit Trump zur Flugabwehr für die Ukraine - Gespräch auch zwischen Selenskyj und dem US-Präsidenten",
-    "Prag und große Teile des Landes - Massiver Stromausfall in Tschechien wieder behoben - keine Hinweise auf Sabotage",
     "Politik - Stromsteuer-Debatte: Mehrere Ministerpräsidenten fordern Entlastung für Verbraucher",
     "\"Interview der Woche\" - Bundesverkehrsminister Schnieder (CDU) zu Infrastrukturmaßnahmen: \"Freue mich über jede Baustelle\"",
     "Großbritannien - Früherer Labour-Chef Corbyn will neue linke Partei gründen",
@@ -3003,12 +3000,12 @@
     "Baden-Württemberg - Drei Tote und mehr als 50 Verletzte bei Zugunglück",
     "Demokratische Republik Kongo - Mehr als 40 Tote bei Angriff von Islamisten auf Kirche",
     "Plastikdeckelverordnung: Söders Polemik schadet der Europäischen Union",
-    "\"Druck wird immer größer\" - Landkreistagsvize Ambrosy bekräftigt Forderung, Finanzierung der Kommunen zu reformieren"
+    "\"Druck wird immer größer\" - Landkreistagsvize Ambrosy bekräftigt Forderung, Finanzierung der Kommunen zu reformieren",
+    "Trockenheit - Waldbrandgefahr in Griechenland bleibt trotz gelöschter Feuer hoch",
+    "Nahost-Konferenz in New York - Sicherheitsberater Heusgen: \"In den Bemühungen um eine Zwei-Staaten-Lösung nicht nachlassen\"",
+    "Bildung - OECD-Bildungsdirektor fordert verpflichtende Sprachtests in deutschen Kitas"
   ],
   "hashes": [
-    "3b30ba0b124a82f88deaf4fc29faa4af",
-    "ded6a213500e75551e934758e8749624",
-    "4a10d8f98feb206759f575a17eae276e",
     "9b4aaa91f952d1af27a47a717c8152a3",
     "f30083be926cdd50831ec05946f13ebc",
     "d775b382ac51fd4375d35b512e317458",
@@ -4005,6 +4002,9 @@
     "2c40bb5c1ebc5ac1e16cf2e6f49c15eb",
     "1dc1e1e0757b775e40b5dcd15491c660",
     "02dc7f46bc0c35e2beea7c383aa422c9",
-    "32bbdc4d7e3f54cd5d00dd8700fd035c"
+    "32bbdc4d7e3f54cd5d00dd8700fd035c",
+    "b63d03e8b78cf48c81b66c11d1e49ead",
+    "38100c5bfd272e71bb8fb118b4057c40",
+    "4e79b48448b28b698452af8452173833"
   ]
 }
