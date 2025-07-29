@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spahn-weist-vorwuerfe-erneut-zurueck-und-kritisiert-opposition-102.html",
-    "https://www.deutschlandfunk.de/bericht-israel-schickt-delegation-zu-verhandlungen-nach-katar-100.html",
-    "https://www.deutschlandfunk.de/grossbritannien-nimmt-diplomatische-beziehungen-zu-damaskus-auf-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wer-sind-die-neuen-mitglieder-der-linken-in-sachsen-110572701.html",
     "https://www.deutschlandfunk.de/18-festnahmen-bei-anti-israelischer-demonstration-102.html",
     "https://www.deutschlandfunk.de/israel-schickt-delegation-zu-verhandlungen-nach-katar-aenderungsforderungen-der-hamas-aber-inakzepta-100.html",
     "https://www.deutschlandfunk.de/afd-schiedsgericht-beschliesst-parteiausschluss-helferichs-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/menschenrechtsbeauftragter-castellucci-fordert-mehr-anstrengungen-in-der-fluechtlingspolitik-100.html",
     "https://www.spiegel.de/wirtschaft/stellenabbau-in-deutschland-verlangsamt-sich-a-a7e64aaf-cdd9-4917-a7f8-0abd06f61537#ref=rss",
     "https://www.deutschlandfunk.de/co-chefin-nietzard-will-nicht-mehr-fuer-den-bundesvorstand-kandidieren-102.html",
-    "https://www.deutschlandfunk.de/deutsche-bahn-verbucht-verlust-von-760-millionen-euro-102.html"
+    "https://www.deutschlandfunk.de/deutsche-bahn-verbucht-verlust-von-760-millionen-euro-102.html",
+    "https://www.deutschlandfunk.de/vier-maenner-erhalten-lange-haftstrafen-nach-diebstahl-von-keltischem-goldschatz-aus-museum-in-manch-100.html",
+    "https://www.deutschlandfunk.de/niederlande-verbieten-israelischen-ministern-smotrich-und-ben-gvir-die-einreise-100.html",
+    "https://www.deutschlandfunk.de/koalition-plagt-sich-mit-neuem-haushaltsloch-100.html",
+    "https://www.faz.net/aktuell/politik/inland/klage-gegen-rainer-maria-kardinal-woelki-beim-vatikan-erfolg-unwahrscheinlich-110607802.html"
   ],
   "content_hashes": [
-    "661b64b15661f3ace227103c908f2376",
-    "ce516814ecf4a19ba789cacb1fb16cdf",
-    "adb4d1bd788a6441a98b9430722f673c",
-    "ee75ebc606a019342a17c758f4f81d55",
     "dd17e7f68fc55fdd61577986003c0c8d",
     "eee473b4f3b987b7f4dbb1fc19a1dfb4",
     "d6401d44dba584dbb4a5944a579409c8",
@@ -2001,13 +1997,13 @@
     "33aba56e5257106f02f86367a056fc49",
     "4a105aa90d4c44c2fbc91fac6b9efb9f",
     "d2c5b63a2a335d6cdb3bbf394ec12f8d",
-    "81e329595b5123acf11238269a994a2e"
+    "81e329595b5123acf11238269a994a2e",
+    "ae8bf62266eb4c69062963918315e759",
+    "792f813d0e502134f8a40c52bad2a9b5",
+    "c1e6c9637a0b08d2c48602c4c7a63e70",
+    "832858eee86c5c2a3919ba29f2fcd7f1"
   ],
   "titles": [
-    "Masken-Affäre - Spahn weist Vorwürfe erneut zurück und kritisiert Opposition",
-    "Gaza-Krieg - Bericht: Israel schickt Delegation zu Verhandlungen nach Katar",
-    "Syrien - Großbritannien nimmt diplomatische Beziehungen zu Damaskus auf",
-    "Linke in Sachsen: Die kleinste und die stärkste Partei",
     "Berlin - 18 Festnahmen bei anti-israelischer Demonstration",
     "Gaza-Krieg - Israel schickt Delegation zu Verhandlungen nach Katar - \"Änderungsforderungen der Hamas aber inakzeptabel\"",
     "Nordrhein-Westfalen - AfD-Schiedsgericht beschließt Parteiausschluss Helferichs",
@@ -3003,13 +2999,13 @@
     "Fluchtroute Mittelmeer - Menschenrechtsbeauftragter Castellucci fordert mehr Anstrengungen in der Flüchtlingspolitik",
     "Stellenabbau in Deutschland verlangsamt sich",
     "Grüne Jugend - Co-Chefin Nietzard will nicht mehr für den Bundesvorstand kandidieren",
-    "Halbjahresbilanz - Deutsche Bahn verbucht Verlust von 760 Millionen Euro"
+    "Halbjahresbilanz - Deutsche Bahn verbucht Verlust von 760 Millionen Euro",
+    "Landgericht Ingolstadt - Vier Männer erhalten lange Haftstrafen nach Diebstahl von keltischem Goldschatz aus Museum in Manching",
+    "Wegen Krieg im Gazastreifen - Niederlande verbieten israelischen Ministern Smotrich und Ben-Gvir die Einreise",
+    "Finanzpolitik - Haushaltsloch der Bundesregierung größer als angenommen",
+    "Kölner Kardinal: Zu retten ist bei Woelki nichts mehr"
   ],
   "hashes": [
-    "1ae2cfabe52cb6a3e6448873c7016aea",
-    "4d495e424d3f46496bec65cd7e8a7de2",
-    "29b7aa45995be1ecbdb2d527e0675cfb",
-    "2f41760adca01feb3ffff7f110eaa736",
     "2305f9d864bda9f01e1f7a7a56c3da0c",
     "a4a1a864e9c74ef07d2a2f01a68fc158",
     "e505a12ceb7524b74ee9921f4cbf0f0e",
@@ -4005,6 +4001,10 @@
     "d1d0f7d118f17989641e26a856954a86",
     "abaeb123d8afd8a1f0c9fc596e3c6c6e",
     "ab3f5804646878dde8e364e33763aeb0",
-    "caca9b0b374b38ee7ff36b099b6c5796"
+    "caca9b0b374b38ee7ff36b099b6c5796",
+    "d03cfa55fb6ed816d97837db6a6ae24f",
+    "45a30f7a82eeb33964ae334e43989b1e",
+    "45afa8ca2bd734b7941ec60be6b46e6c",
+    "96d65739c859281353bce0a6989c4860"
   ]
 }
