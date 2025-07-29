@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/polen-will-kontrollen-an-grenzen-zu-deutschland-auf-bestimmte-fahrzeuge-konzentrieren-a-1c9a722f-3be5-481c-92be-6de585aff62f#ref=rss",
-    "https://www.deutschlandfunk.de/einfuhr-von-medizinprodukten-china-verhaengt-gegensanktionen-102.html",
     "https://www.deutschlandfunk.de/nach-skandal-um-generalsekretaer-regierungspartei-verbietet-mitgliedern-bezahlten-sex-100.html",
     "https://www.deutschlandfunk.de/mindestens-33-tote-bei-angriffen-100.html",
     "https://www.deutschlandfunk.de/unterstuetzung-fuer-strengere-regeln-fuer-parken-von-e-scootern-aus-staedte-und-gemeindebund-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/starmer-ruft-kabinett-wegen-gazakrieg-aus-der-sommerpause-zurueck-102.html",
     "https://www.deutschlandfunk.de/co-chefin-nietzard-kandidiert-nicht-erneut-blasel-kritisiert-eigene-partei-100.html",
     "https://www.deutschlandfunk.de/19-millionen-euro-fuer-betroffene-sexualisierter-gewalt-102.html",
-    "https://www.deutschlandfunk.de/erneut-proteste-gegen-israelische-touristen-102.html"
+    "https://www.deutschlandfunk.de/erneut-proteste-gegen-israelische-touristen-102.html",
+    "https://www.deutschlandfunk.de/gericht-asylantrag-von-abgeschobener-jesidischer-familie-war-unbegruendet-100.html",
+    "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-strenge-kontrolle-bei-palantir-einsatz-2026-110613104.html"
   ],
   "content_hashes": [
-    "eab29d99fa66c31f853dbe5e29f6f8b2",
-    "7440a1aef81841a3e9bc1285985a6b3e",
     "33d4f9ce072f51b75d620962dc0ee767",
     "4e32c6c41378e5b491d54eb5206da172",
     "b5d5019afe4e3ed46946150756787d87",
@@ -2001,11 +1999,11 @@
     "9e8fe2a2153915c01d376ade6456aff8",
     "de1efde4bd00998cc8941f0103bba406",
     "bebb987ab0c1b7721f873509747632aa",
-    "3ee2b3c82352c52f596f4f4778cecbdd"
+    "3ee2b3c82352c52f596f4f4778cecbdd",
+    "83057f688a0d1d951c7168ca44b941dd",
+    "bd6989e8b4c12f9b808ebbe4d89464a1"
   ],
   "titles": [
-    "Polen will Kontrollen an Grenzen zu Deutschland auf bestimmte Fahrzeuge konzentrieren",
-    "Reaktion auf EU-Kommission - Einfuhr von Medizinprodukten: China verhängt Gegensanktionen",
     "Spanien - Nach Skandal um Generalsekretär: Regierungspartei verbietet Mitgliedern bezahlten Sex",
     "Gaza-Krieg - Mindestens 33 Tote bei Angriffen",
     "Verkehrspolitik - Unterstützung für strengere Regeln für Parken von E-Scootern aus Städte- und Gemeindebund",
@@ -3003,11 +3001,11 @@
     "Großbritannien - Starmer ruft Kabinett wegen Gazakrieg aus der Sommerpause zurück",
     "Grüne Jugend - Co-Chefin Nietzard kandidiert nicht erneut - Blasel kritisiert eigene Partei",
     "Katholische Kirche - 19 Millionen Euro für Betroffene sexualisierter Gewalt",
-    "Griechenland - Erneut Proteste gegen israelische Touristen"
+    "Griechenland - Erneut Proteste gegen israelische Touristen",
+    "Brandenburg - Gericht: Asylantrag von abgeschobener jesidischer Familie war \"unbegründet\"",
+    "Baden-Württemberg: Palantir kommt ab 2026"
   ],
   "hashes": [
-    "d678dc63deaabca06e99c07f32cabbb3",
-    "cc6edc0bb01afa373e3b6ec1836c4d1b",
     "1220dd03aae266f0954cde652d7cfd9e",
     "19d3b0fb4da9fa030cdc00de520b7aa1",
     "b51094aacc593ba2902a770a5b19fc31",
@@ -4005,6 +4003,8 @@
     "4954ac63e86a52342dd6aeb0e3a11100",
     "d51ed00a02c8d3d0c648a6cf9b42c75e",
     "90f072287ef979d515bd41ce9378250b",
-    "b03b11c33aa90821d319db4e9c4a760d"
+    "b03b11c33aa90821d319db4e9c4a760d",
+    "eb41ffa8e52c919c9b97f6b2a4c20aeb",
+    "1eb9bbe387e224a15d3953dd50340a86"
   ]
 }
