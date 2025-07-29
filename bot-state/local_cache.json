@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/aussenminister-wadephul-war-er-gut-genug-vorbereitet-110575424.html",
-    "https://www.deutschlandfunk.de/papst-ernennt-neuen-missbrauchs-beauftragten-102.html",
     "https://www.faz.net/aktuell/politik/inland/afd-will-kuenftig-gemaessigter-auftreten-110575236.html",
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-deutschland-im-ersten-halbjahr-2025-um-fast-die-haelfte-gesunken-112.html",
     "https://www.deutschlandfunk.de/afd-fraktion-gibt-sich-verhaltenskodex-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/16-tote-bei-russischem-angriff-auf-ukrainisches-gefaengnis-102.html",
     "https://www.deutschlandfunk.de/aiwanger-trumps-deal-schadet-beiden-seiten-102.html",
     "https://www.deutschlandfunk.de/kritik-an-luftbruecken-zur-versorgung-der-notleidenden-bevoelkerung-haelt-an-100.html",
-    "https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss"
+    "https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss",
+    "https://www.deutschlandfunk.de/pro-kopf-verschuldung-steigt-in-deutschland-erstmals-ueber-30-000-euro-102.html",
+    "https://www.deutschlandfunk.de/menschenrechtsbeauftragter-castellucci-fordert-mehr-anstrengungen-in-der-fluechtlingspolitik-100.html"
   ],
   "content_hashes": [
-    "9973c9507377da0c5e679a1879ca7309",
-    "6383f9c3685f01ecab84f6a72a5c2a72",
     "686df422762d2943cbd49392026ad20c",
     "e27e6f63864b423bec7a50ec6adafb69",
     "cbe749aec09e6fb82cfd3d046930fcef",
@@ -2001,11 +1999,11 @@
     "c19d6c66274906459fb1412acfde2cf6",
     "bffc3d0da8a818105c929f65d85d153d",
     "b923179316403f53f8a64bcf3aa76b6b",
-    "f615615bbb468e699d8800f7dde7e93e"
+    "f615615bbb468e699d8800f7dde7e93e",
+    "213663e4613a3f405f8da8ddcc361c14",
+    "33aba56e5257106f02f86367a056fc49"
   ],
   "titles": [
-    "Außenminister Wadephul: War er gut genug vorbereitet?",
-    "Vatikan - Papst ernennt neuen Missbrauchs-Beauftragten",
     "Operation Samtpfote: Mäßigt sich die AfD?",
     "Bundesinnenministerium - Zahl der Asylanträge in Deutschland im ersten Halbjahr 2025 um fast die Hälfte gesunken",
     "Auftreten im Bundestag - AfD-Fraktion gibt sich Verhaltenskodex",
@@ -3003,11 +3001,11 @@
     "Saporischschja - 16 Tote bei russischem Angriff auf ukrainisches Gefängnis",
     "Handelsabkommen mit USA - Aiwanger: Trumps Deal schadet beiden Seiten",
     "Gazastreifen - Kritik an Luftbrücken zur Versorgung der notleidenden Bevölkerung hält an.",
-    "Niedersächsische Ermittler stoppen Erpresser-Software nach fast 200 Geschädigten"
+    "Niedersächsische Ermittler stoppen Erpresser-Software nach fast 200 Geschädigten",
+    "Statistisches Bundesamt - Pro-Kopf-Verschuldung steigt in Deutschland erstmals über 30.000 Euro",
+    "Fluchtroute Mittelmeer - Menschenrechtsbeauftragter Castellucci fordert mehr Anstrengungen in der Flüchtlingspolitik"
   ],
   "hashes": [
-    "cb02d76926e48bbea73d51048b25839e",
-    "a85540a875effb2f432763b5c71cca88",
     "1e71b2c9b0c2130612018b9607a300de",
     "dccf1a002fd8afa58c412ac25edc9eb8",
     "7df28922fa3268d2828664b95d3eb162",
@@ -4005,6 +4003,8 @@
     "7971a6faf18172f581670f4576a69a2f",
     "ad53fbbfdccff6997312d996fa8af51c",
     "a3ea480c7ea22ae4fcc668312d9bcc5c",
-    "222342414adfbb9694be4ace04642b15"
+    "222342414adfbb9694be4ace04642b15",
+    "f5455c53b36f8aa32506f0dba21d4a2d",
+    "d1d0f7d118f17989641e26a856954a86"
   ]
 }
