@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lage-in-der-gohrischheide-stabil-risiko-fuer-neue-braende-bleibt-100.html",
-    "https://www.deutschlandfunk.de/stern-stirbt-nach-zwei-detonationen-102.html",
-    "https://www.deutschlandfunk.de/israel-prueft-hamas-antwort-auf-vorgeschlagene-waffenruhe-ueber-60-tage-100.html",
-    "https://www.deutschlandfunk.de/israelische-siedler-greifen-kamerateam-der-deutschen-welle-an-102.html",
     "https://www.faz.net/aktuell/politik/inland/aussenminister-wadephul-war-er-gut-genug-vorbereitet-110575424.html",
     "https://www.deutschlandfunk.de/papst-ernennt-neuen-missbrauchs-beauftragten-102.html",
     "https://www.faz.net/aktuell/politik/inland/afd-will-kuenftig-gemaessigter-auftreten-110575236.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-kommission-schlaegt-aussetzung-eines-kooperations-programms-mit-israel-vor-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-uribe-wegen-zeugenbeeinflussung-verurteilt-100.html",
     "https://www.deutschlandfunk.de/schuesse-in-manhattan-fuenf-todesopfer-auch-schuetze-tot-100.html",
-    "https://www.deutschlandfunk.de/17-hilfsorganisationen-kritisieren-geplante-haushaltskuerzungen-100.html"
+    "https://www.deutschlandfunk.de/17-hilfsorganisationen-kritisieren-geplante-haushaltskuerzungen-100.html",
+    "https://www.deutschlandfunk.de/16-tote-bei-russischem-angriff-auf-ukrainisches-gefaengnis-102.html",
+    "https://www.deutschlandfunk.de/aiwanger-trumps-deal-schadet-beiden-seiten-102.html",
+    "https://www.deutschlandfunk.de/kritik-an-luftbruecken-zur-versorgung-der-notleidenden-bevoelkerung-haelt-an-100.html",
+    "https://www.spiegel.de/netzwelt/niedersaechsische-ermittler-stoppen-erpresser-software-nach-fast-200-geschaedigten-a-577a1528-2261-4cce-9b06-d71093ee787e#ref=rss"
   ],
   "content_hashes": [
-    "730209c36bf2b55c7392069a670f3dad",
-    "9be422edacf8cb93fe6352ef1e5eff6a",
-    "3e8aebcf5a4a06696ad8d3a48dfe2efe",
-    "23e7a2f0fb9cfa886c2a05065420fad3",
     "9973c9507377da0c5e679a1879ca7309",
     "6383f9c3685f01ecab84f6a72a5c2a72",
     "686df422762d2943cbd49392026ad20c",
@@ -2001,13 +1997,13 @@
     "aa579704a96d0c59461f128738b5b489",
     "3a1d4fa211873923a220bf33da94b788",
     "a22423ec81e30393a57740c6b2413390",
-    "9c300b4257a394924617c12c51425f6f"
+    "9c300b4257a394924617c12c51425f6f",
+    "c19d6c66274906459fb1412acfde2cf6",
+    "bffc3d0da8a818105c929f65d85d153d",
+    "b923179316403f53f8a64bcf3aa76b6b",
+    "f615615bbb468e699d8800f7dde7e93e"
   ],
   "titles": [
-    "Waldbrand - Lage in der Gohrischheide stabil - Risiko für neue Brände bleibt",
-    "Weltraum - Stern stirbt nach zwei Detonationen",
-    "Gaza - Israel prüft Hamas-Antwort auf vorgeschlagene Waffenruhe über 60 Tage",
-    "Westjordanland - Israelische Siedler greifen Kamerateam der Deutschen Welle an",
     "Außenminister Wadephul: War er gut genug vorbereitet?",
     "Vatikan - Papst ernennt neuen Missbrauchs-Beauftragten",
     "Operation Samtpfote: Mäßigt sich die AfD?",
@@ -3003,13 +2999,13 @@
     "Gaza-Krieg - EU-Kommission schlägt Aussetzung eines Kooperations-Programms mit Israel vor",
     "Kolumbien - Ex-Präsident Uribe wegen Zeugenbeeinflussung verurteilt",
     "New York - Schüsse in Manhattan - fünf Todesopfer - auch Schütze tot",
-    "Entwicklungszusammenarbeit - 17 Hilfsorganisationen kritisieren geplante Haushaltskürzungen"
+    "Entwicklungszusammenarbeit - 17 Hilfsorganisationen kritisieren geplante Haushaltskürzungen",
+    "Saporischschja - 16 Tote bei russischem Angriff auf ukrainisches Gefängnis",
+    "Handelsabkommen mit USA - Aiwanger: Trumps Deal schadet beiden Seiten",
+    "Gazastreifen - Kritik an Luftbrücken zur Versorgung der notleidenden Bevölkerung hält an.",
+    "Niedersächsische Ermittler stoppen Erpresser-Software nach fast 200 Geschädigten"
   ],
   "hashes": [
-    "2e392eacafd001cd23db308b95ae6b9c",
-    "a415991420e0472f1d8e70cfb34781bd",
-    "662ad6a9f994cf85a5c94e7f04cc81b8",
-    "4f084d053e968f4af3ee473eccea5403",
     "cb02d76926e48bbea73d51048b25839e",
     "a85540a875effb2f432763b5c71cca88",
     "1e71b2c9b0c2130612018b9607a300de",
@@ -4005,6 +4001,10 @@
     "9f9489a2729f37c28f18e9cc0c26ff86",
     "b652d826de854bf0b9e56fb8ddca32f6",
     "73561dd0b58f7c86fab2166a6dd5dfaa",
-    "a7ed926d5277aaacbff22fa384411d0c"
+    "a7ed926d5277aaacbff22fa384411d0c",
+    "7971a6faf18172f581670f4576a69a2f",
+    "ad53fbbfdccff6997312d996fa8af51c",
+    "a3ea480c7ea22ae4fcc668312d9bcc5c",
+    "222342414adfbb9694be4ace04642b15"
   ]
 }
