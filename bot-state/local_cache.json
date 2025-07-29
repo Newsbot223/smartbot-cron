@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-buergermeister-der-oppositionspartei-chp-verhaftet-100.html",
-    "https://www.deutschlandfunk.de/ukraine-greift-russische-luftwaffenbasis-an-100.html",
     "https://www.deutschlandfunk.de/verletzte-nach-feueralarm-in-passagierjet-100.html",
     "https://www.spiegel.de/panorama/zahl-der-asylantraege-offenbar-deutlich-gesunken-a-a938bfd2-a16e-44af-99a7-290454e3df5d#ref=rss",
     "https://www.deutschlandfunk.de/hoffnung-am-horizont-die-kanaren-insel-el-hierro-und-die-bootsfluechtlinge-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/waldbrandgefahr-in-suedosteuropa-und-der-tuerkei-weiter-hoch-100.html",
     "https://www.deutschlandfunk.de/noch-keine-einigung-zwischen-usa-und-china-100.html",
     "https://www.deutschlandfunk.de/selenskyj-dankt-trump-fuer-ultimatum-an-moskau-100.html",
-    "https://www.deutschlandfunk.de/bildungsgewerkschaft-fuer-bundesweiten-islamischen-religionsunterricht-102.html"
+    "https://www.deutschlandfunk.de/bildungsgewerkschaft-fuer-bundesweiten-islamischen-religionsunterricht-102.html",
+    "https://www.deutschlandfunk.de/waffenruhe-zwischen-kambodscha-und-thailand-begonnen-110.html",
+    "https://www.deutschlandfunk.de/eu-kommission-schlaegt-aussetzung-eines-kooperations-programms-mit-israel-vor-100.html"
   ],
   "content_hashes": [
-    "6e1770ed8c181013e26815e284fe3fa0",
-    "4246aa955f74902dee31899e1ca86159",
     "d34a682f460e43ed1758a75355c43a82",
     "2487a15d4668fa233956cce1fded0b41",
     "18887650cf9c9507d8fd182595d246c7",
@@ -2001,11 +1999,11 @@
     "9d347546f1160b2948616d45e12cd389",
     "745a12d7ab20c2a815889a4d0366af08",
     "433c96b2d19eba5fa9ac386f159745eb",
-    "078f7e0fe85107f30b1d923cdbe4beab"
+    "078f7e0fe85107f30b1d923cdbe4beab",
+    "31fbbad090e9059b866caef644f93396",
+    "aa579704a96d0c59461f128738b5b489"
   ],
   "titles": [
-    "Türkei - Mehrere Bürgermeister der Oppositionspartei CHP verhaftet",
-    "Ukraine-Krieg - Ukraine greift russische Luftwaffenbasis an",
     "Mallorca - Verletzte nach Feueralarm in Passagierjet",
     "Zahl der Asylanträge offenbar deutlich gesunken",
     "Flucht nach Europa - Hoffnung am Horizont - El Hierro und die Bootsflüchtlinge",
@@ -3003,11 +3001,11 @@
     "Trockenheit - Waldbrandgefahr in Südosteuropa und der Türkei weiter hoch",
     "Zollkonflikt - Noch keine Einigung zwischen USA und China",
     "Ukraine-Krieg - Selenskyj dankt Trump für Ultimatum an Moskau",
-    "Schulpolitik - Bildungsgewerkschaft für bundesweiten islamischen Religionsunterricht"
+    "Schulpolitik - Bildungsgewerkschaft für bundesweiten islamischen Religionsunterricht",
+    "Grenzkonflikt - Waffenruhe zwischen Kambodscha und Thailand begonnen",
+    "Gaza-Krieg - EU-Kommission schlägt Aussetzung eines Kooperations-Programms mit Israel vor"
   ],
   "hashes": [
-    "bf37386457a3813c889a9c8e65d4f863",
-    "ff44ea073754bb59213270e761bed8a9",
     "d8af109c639c4d31a148f60716f55c4d",
     "61a14f33c7242ff4ad347dcdb11c633c",
     "eb24e80aeca5c3e44ffaea8a3ef74ee8",
@@ -4005,6 +4003,8 @@
     "b66a410f372fe7faf17db0295b90d788",
     "299108d69f8df5a6731e441b6531b07b",
     "af870a9002bdc1569d6fd286617ca86d",
-    "f4b303a52a802da832fc792298762664"
+    "f4b303a52a802da832fc792298762664",
+    "6bdcd006c33e25b04eb402c8aa22e054",
+    "9f9489a2729f37c28f18e9cc0c26ff86"
   ]
 }
