@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/laura-siegemund-erreicht-das-viertefinale-in-wimbledon-102.html",
-    "https://www.deutschlandfunk.de/medienbericht-interner-bericht-entlastet-minister-spahn-100.html",
-    "https://www.deutschlandfunk.de/bundeswirtschaftsministerium-rechnet-laut-bericht-mit-vier-milliarden-euro-entlastung-fuer-firmen-100.html",
-    "https://www.deutschlandfunk.de/spahn-sieht-sich-durch-internes-papier-entlastet-100.html",
     "https://www.deutschlandfunk.de/verspaetungen-auf-ice-strecke-zwischen-berlin-und-muenchen-100.html",
     "https://www.deutschlandfunk.de/gohrischheide-fast-komplett-abgebrannt-entwarnung-auf-der-saalfelder-hoehe-100.html",
     "https://www.deutschlandfunk.de/polen-startet-mit-kontrollen-an-grenze-zu-deutschland-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/ukraine/trumps-verkuerzte-frist-fuer-putin-richtiger-schritt-110613125.html",
     "https://www.deutschlandfunk.de/gruenen-chef-banaszak-koalition-verdraengt-oder-verschiebt-zentrale-probleme-100.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-bundeshaushalt-ist-heute-ein-thema-im-kabinett-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wie-kam-es-zur-migrationswende-von-innenminister-dobrindt-110613008.html"
+    "https://www.faz.net/aktuell/politik/inland/wie-kam-es-zur-migrationswende-von-innenminister-dobrindt-110613008.html",
+    "https://www.deutschlandfunk.de/russischer-angriff-auf-ausbildungseinheit-des-ukrainischen-militaers-100.html",
+    "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-sowie-japan-warnungen-fuer-pazifikraum-102.html",
+    "https://www.deutschlandfunk.de/deutsche-wirtschaft-ist-im-fruehsommer-leicht-geschrumpft-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesidenten-voigt-cdu-und-woidke-spd-widersprechen-bundeswirtschaftsministerin-reiche-cdu-102.html"
   ],
   "content_hashes": [
-    "fbfdf9c72eb1700ca7eaf4588910ee98",
-    "5007b749c01f953048c368b7a35ae77e",
-    "c1c0fbfd3c6a3fb27311abf760550b53",
-    "01884440bed5660a1c4e9e1530726fa0",
     "f9f8de6fd7188d55e5efbdff53dbaf41",
     "921bc4e84e832b6cd3d85a05d0a03f78",
     "332401dbe28b00c68505c540602ce93a",
@@ -2001,13 +1997,13 @@
     "b2dd9f5287c7380569adbf36f5417607",
     "5659157b95ac9695d580760c9ccf7c90",
     "90774155736b13372021d880b552be9b",
-    "5b03d893ab08e003e280d9d156ae464f"
+    "5b03d893ab08e003e280d9d156ae464f",
+    "2211e9ca086ad884e0da2617c91fd23a",
+    "fe5d223f0c3c1ed5a00441de79333531",
+    "6e69682523c03db7dd0ad07bab2e9ded",
+    "c1f58df8546e8c7aee11df7a313901f0"
   ],
   "titles": [
-    "Tennis - Laura Siegemund erreicht das Viertefinale in Wimbledon",
-    "Maskenaffäre - Medienbericht: Interner Bericht entlastet Minister Spahn",
-    "Industriestrompreis - Bundeswirtschaftsministerium rechnet laut Bericht mit vier Milliarden Euro Entlastung für Firmen",
-    "Maskenaffäre - Spahn sieht sich durch internes Papier entlastet",
     "Nach Feuer in Unterführung - Verspätungen auf ICE-Strecke zwischen Berlin und München",
     "Waldbrände - Gohrischheide fast komplett abgebrannt - Entwarnung auf der Saalfelder Höhe",
     "Seit Mitternacht - Polen startet mit Kontrollen an Grenze zu Deutschland",
@@ -3003,13 +2999,13 @@
     "Trumps Frist an Putin: Die späte Erkenntnis des US-Präsidenten",
     "Bundeshaushalt 2026 - Grünen-Chef Banaszak: \"Koalition verdrängt oder verschiebt zentrale Probleme\"",
     "Bundeshaushalt 2026 - Ausgaben und Schulden sollen weiter steigen",
-    "Innenminister Dobrindt: Wie es zur Migrationswende kam – und was schief lief"
+    "Innenminister Dobrindt: Wie es zur Migrationswende kam – und was schief lief",
+    "Ukraine-Krieg - Russischer Angriff auf Ausbildungseinheit des ukrainischen Militärs",
+    "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel sowie Japan - Warnungen für Pazifikraum",
+    "Statistisches Bundesamt - Deutsche Wirtschaft ist im Frühsommer leicht geschrumpft",
+    "Höheres Renteneinstiegsalter - Ministerpräsidenten Voigt (CDU) und Woidke (SPD) widersprechen Bundeswirtschaftsministerin Reiche (CDU)"
   ],
   "hashes": [
-    "01347d6987938e2b86b6c4dcb94bb55f",
-    "14a6e586857080f9ec01c6bb4c18fc63",
-    "f7bf77c9d56455da5866b6ffdcfead80",
-    "451ce2ad0d3be3b145b605dda1488839",
     "c82fe7b591ec0af763b33e44f333d128",
     "10e7bea8e6513f73a36dd7e748615484",
     "a0e8ca5cf7bf531898defe7846f1b288",
@@ -4005,6 +4001,10 @@
     "d591bbd66336f763ae8a82b133eb8842",
     "04393ceb2bc0e29df67347c63158d1d0",
     "213ab29fa61fcb802ad0a5f71712b7f0",
-    "263147f393fd59ed0fd39d3947b3e4c7"
+    "263147f393fd59ed0fd39d3947b3e4c7",
+    "cdab4c8b75fb5bbb07e66d03c863276c",
+    "4d15164b51c5cecd1b802c7d8fe92bad",
+    "3ca9b5d937466beb00d8a1091d307f74",
+    "bebe472a8bcf3570d373a54928f08b7d"
   ]
 }
