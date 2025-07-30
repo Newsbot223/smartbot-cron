@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/polen-beginnt-mit-kontrollen-an-grenze-zu-deutschland-110578225.html",
-    "https://www.deutschlandfunk.de/steinmeier-gedenkt-der-ns-opfer-100.html",
     "https://www.deutschlandfunk.de/nordamerika-expertin-gienow-hecht-republikaner-muessen-plaene-ernst-nehmen-100.html",
     "https://www.deutschlandfunk.de/afd-politiker-keuter-bekraeftigt-willen-zur-verhaltensaenderung-seiner-fraktion-102.html",
     "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/auto/stau-prognose-vom-adac-wo-es-am-wochenende-voll-auf-den-strassen-wird-a-85301103-b4ba-473e-aece-4076d143dca9#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/handelsregister-darf-beim-generischen-maskulinum-bleiben-110614183.html",
     "https://www.faz.net/aktuell/politik/inland/defizite-im-rettungsdienst-es-stirbt-sich-besser-auf-dem-land-110613060.html",
-    "https://www.deutschlandfunk.de/anklage-wegen-parole-from-the-river-to-the-sea-propalaestinensische-aktivistin-teilweise-freigesproc-100.html"
+    "https://www.deutschlandfunk.de/anklage-wegen-parole-from-the-river-to-the-sea-propalaestinensische-aktivistin-teilweise-freigesproc-100.html",
+    "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-der-entwicklungshilfe-sparkurs-auf-dem-ruecken-der-aermsten-100.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2025/7/30/the-eu-and-us-agree-to-a-trade-deal-but-who-won-the-negotiations?traffic_source=rss"
   ],
   "content_hashes": [
-    "93ed3bca1c8c7a7e2b9513854e4abd76",
-    "fe909f474971bc40b847f419a9c51edb",
     "2080bb9014571ee7488819495bab1f8b",
     "0fbabbf94ef38f8ccaf4ff5206faf06c",
     "5cc8a841f01d4b734317ab348e00471c",
@@ -2001,11 +1999,11 @@
     "1026550ad2433c6e70dd1c751c408a82",
     "22caae310cc07eaa99abad140bb169f3",
     "f9fcf49ad98671763ee6b5c7d4b8f35c",
-    "2675534680affea49261fe8ff4029baa"
+    "2675534680affea49261fe8ff4029baa",
+    "def6ee034d634bb179b6dfee566e3e93",
+    "5f681c48f3c283c12ac30c8e224fad90"
   ],
   "titles": [
-    "Migration: Polen beginnt mit Kontrollen an Grenze zu Deutschland",
-    "Litauen-Besuch - Steinmeier gedenkt der NS-Opfer",
     "Neue Musk-Partei - Nordamerika-Expertin Gienow-Hecht: Republikaner müssen Pläne ernst nehmen",
     "Bundestag - AfD-Politiker Keuter bekräftigt Willen zur Verhaltensänderung seiner Fraktion",
     "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet",
@@ -3003,11 +3001,11 @@
     "Stau-Prognose vom ADAC: Wo es am Wochenende voll auf den Straßen wird",
     "Gericht entscheidet: Handelsregister darf beim generischen Maskulinum bleiben",
     "Defizite im Rettungsdienst: „Es stirbt sich besser auf dem Land“",
-    "Berlin - Anklage wegen Parole \"From the River to the Sea\" - propalästinensische Aktivistin teilweise freigesprochen"
+    "Berlin - Anklage wegen Parole \"From the River to the Sea\" - propalästinensische Aktivistin teilweise freigesprochen",
+    "Bundeshaushalt - Kritik an Kürzungen bei der Entwicklungshilfe: \"Sparkurs auf dem Rücken der Ärmsten\"",
+    "The EU and US agree to a trade deal, but who won the negotiations?"
   ],
   "hashes": [
-    "90d277a1592a18e566672e5bbf3be2de",
-    "d82915039f0394ae17f9565f05858683",
     "b2f9567c0f4aaa696e4dfd4ee37d8830",
     "9a6d9a0892360c204132a50556bebc40",
     "b8d24b614b2d787d7b8bcfc292f405db",
@@ -4005,6 +4003,8 @@
     "f733052cb38bd3555c5968a4a562e652",
     "8bb76b34a1a08aab98f3e16d444137fc",
     "a15629da4ea13d25c0c8a4ff82804f6d",
-    "9d620d1c6a6b0857c3a08110e5bc56f5"
+    "9d620d1c6a6b0857c3a08110e5bc56f5",
+    "766de5f02950fad03f187a11e9b466df",
+    "57d8f68b58dd08ace8442991884d42da"
   ]
 }
