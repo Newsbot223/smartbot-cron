@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weiter-kritik-an-vorgehen-von-spahn-und-warken-100.html",
-    "https://www.deutschlandfunk.de/1-4-millionen-rentnerinnen-und-rentner-arbeiten-immer-noch-100.html",
-    "https://www.deutschlandfunk.de/china-schraenkt-einfuhr-von-medizintechnik-aus-der-eu-ein-100.html",
     "https://www.deutschlandfunk.de/laura-siegemund-erreicht-das-viertefinale-in-wimbledon-102.html",
     "https://www.deutschlandfunk.de/medienbericht-interner-bericht-entlastet-minister-spahn-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerium-rechnet-laut-bericht-mit-vier-milliarden-euro-entlastung-fuer-firmen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/haager-gericht-lehnt-vorzeitige-haftentlassung-von-kriegsverbrecher-mladic-ab-100.html",
     "https://www.deutschlandfunk.de/studie-sieht-historisches-finanzdefizit-bei-staedten-und-gemeinden-100.html",
     "https://www.deutschlandfunk.de/gewinn-bei-mercedes-benz-bricht-um-mehr-als-die-haelfte-ein-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/trumps-verkuerzte-frist-fuer-putin-richtiger-schritt-110613125.html"
+    "https://www.faz.net/aktuell/politik/ukraine/trumps-verkuerzte-frist-fuer-putin-richtiger-schritt-110613125.html",
+    "https://www.deutschlandfunk.de/gruenen-chef-banaszak-koalition-verdraengt-oder-verschiebt-zentrale-probleme-100.html",
+    "https://www.deutschlandfunk.de/berliner-gespraech-bundeshaushalt-ist-heute-ein-thema-im-kabinett-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-kam-es-zur-migrationswende-von-innenminister-dobrindt-110613008.html"
   ],
   "content_hashes": [
-    "03db63312b4d022b90bc2842de885b5d",
-    "64a500b76edf38172f193b6200ab69e3",
-    "2eaca0c396a8d1f21a200020858feb6e",
     "fbfdf9c72eb1700ca7eaf4588910ee98",
     "5007b749c01f953048c368b7a35ae77e",
     "c1c0fbfd3c6a3fb27311abf760550b53",
@@ -2001,12 +1998,12 @@
     "a16a8461174fd7c754348471e660951b",
     "c27c70612965800c3ece2085dfa1943c",
     "dd9e0264ad25e8776c8ffd06d4a35a9e",
-    "b2dd9f5287c7380569adbf36f5417607"
+    "b2dd9f5287c7380569adbf36f5417607",
+    "5659157b95ac9695d580760c9ccf7c90",
+    "90774155736b13372021d880b552be9b",
+    "5b03d893ab08e003e280d9d156ae464f"
   ],
   "titles": [
-    "Maskenaffäre - Weiter Kritik an Vorgehen von Spahn und Warken",
-    "Ruhestand - 1,4 Millionen Rentnerinnen und Rentner arbeiten immer noch",
-    "Handelskonflikt - China schränkt Einfuhr von Medizintechnik aus der EU ein",
     "Tennis - Laura Siegemund erreicht das Viertefinale in Wimbledon",
     "Maskenaffäre - Medienbericht: Interner Bericht entlastet Minister Spahn",
     "Industriestrompreis - Bundeswirtschaftsministerium rechnet laut Bericht mit vier Milliarden Euro Entlastung für Firmen",
@@ -3003,12 +3000,12 @@
     "Bosnien-Krieg - Haager Gericht lehnt vorzeitige Haftentlassung von Kriegsverbrecher Mladic ab",
     "Bertelsmann-Stiftung - Studie sieht historisches Finanzdefizit bei Städten und Gemeinden",
     "Automobilbranche - Gewinn bei Mercedes-Benz bricht um mehr als die Hälfte ein",
-    "Trumps Frist an Putin: Die späte Erkenntnis des US-Präsidenten"
+    "Trumps Frist an Putin: Die späte Erkenntnis des US-Präsidenten",
+    "Bundeshaushalt 2026 - Grünen-Chef Banaszak: \"Koalition verdrängt oder verschiebt zentrale Probleme\"",
+    "Bundeshaushalt 2026 - Ausgaben und Schulden sollen weiter steigen",
+    "Innenminister Dobrindt: Wie es zur Migrationswende kam – und was schief lief"
   ],
   "hashes": [
-    "3caa43da893705ce857641a6331d63eb",
-    "853dc2c647c9ee1472439a07c1a4e82c",
-    "09e69e6e62104b3daeeeb64d65287f08",
     "01347d6987938e2b86b6c4dcb94bb55f",
     "14a6e586857080f9ec01c6bb4c18fc63",
     "f7bf77c9d56455da5866b6ffdcfead80",
@@ -4005,6 +4002,9 @@
     "1d195f55237e0fcbddd5c28f00a3c2c0",
     "7edbcf8fe4935bf70c90fa1bdb3e92ec",
     "2b4156203b069ff2ed1aacc0b2493e9b",
-    "d591bbd66336f763ae8a82b133eb8842"
+    "d591bbd66336f763ae8a82b133eb8842",
+    "04393ceb2bc0e29df67347c63158d1d0",
+    "213ab29fa61fcb802ad0a5f71712b7f0",
+    "263147f393fd59ed0fd39d3947b3e4c7"
   ]
 }
