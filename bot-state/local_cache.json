@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nordamerika-expertin-gienow-hecht-republikaner-muessen-plaene-ernst-nehmen-100.html",
-    "https://www.deutschlandfunk.de/afd-politiker-keuter-bekraeftigt-willen-zur-verhaltensaenderung-seiner-fraktion-102.html",
     "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html",
     "https://www.deutschlandfunk.de/polen-beauftragter-abraham-warnt-vor-negativen-folgen-kein-guter-tag-fuer-deutsch-polnisches-verhael-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessengeld-gruene-kritisieren-cdu-wahlgeschenk-110573954.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/defizite-im-rettungsdienst-es-stirbt-sich-besser-auf-dem-land-110613060.html",
     "https://www.deutschlandfunk.de/anklage-wegen-parole-from-the-river-to-the-sea-propalaestinensische-aktivistin-teilweise-freigesproc-100.html",
     "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-der-entwicklungshilfe-sparkurs-auf-dem-ruecken-der-aermsten-100.html",
-    "https://www.aljazeera.com/video/counting-the-cost/2025/7/30/the-eu-and-us-agree-to-a-trade-deal-but-who-won-the-negotiations?traffic_source=rss"
+    "https://www.aljazeera.com/video/counting-the-cost/2025/7/30/the-eu-and-us-agree-to-a-trade-deal-but-who-won-the-negotiations?traffic_source=rss",
+    "https://www.deutschlandfunk.de/us-praesident-trump-kuendigt-25-prozent-zoelle-fuer-indien-an-und-kritisiert-russland-geschaefte-100.html",
+    "https://www.deutschlandfunk.de/hoechststrafe-fuer-vierfachen-feuermord-von-solingen-100.html"
   ],
   "content_hashes": [
-    "2080bb9014571ee7488819495bab1f8b",
-    "0fbabbf94ef38f8ccaf4ff5206faf06c",
     "5cc8a841f01d4b734317ab348e00471c",
     "b1ef142b73aa230c2d282018490b13fc",
     "0a2db16cdaa42c0a80cf08e6b785d0b2",
@@ -2001,11 +1999,11 @@
     "f9fcf49ad98671763ee6b5c7d4b8f35c",
     "2675534680affea49261fe8ff4029baa",
     "def6ee034d634bb179b6dfee566e3e93",
-    "5f681c48f3c283c12ac30c8e224fad90"
+    "5f681c48f3c283c12ac30c8e224fad90",
+    "827303da5640af50b64da6f749694e87",
+    "3476e1c187a95c00dcd9ac2c9bdbc02d"
   ],
   "titles": [
-    "Neue Musk-Partei - Nordamerika-Expertin Gienow-Hecht: Republikaner müssen Pläne ernst nehmen",
-    "Bundestag - AfD-Politiker Keuter bekräftigt Willen zur Verhaltensänderung seiner Fraktion",
     "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet",
     "Grenzkontrollen - Polen-Beauftragter Abraham warnt vor negativen Folgen: \"Kein guter Tag für deutsch-polnisches Verhältnis\"",
     "Förderung für Häuslebauer: Grüne kritisieren Hessengeld als wirkungsloses Wahlgeschenk",
@@ -3003,11 +3001,11 @@
     "Defizite im Rettungsdienst: „Es stirbt sich besser auf dem Land“",
     "Berlin - Anklage wegen Parole \"From the River to the Sea\" - propalästinensische Aktivistin teilweise freigesprochen",
     "Bundeshaushalt - Kritik an Kürzungen bei der Entwicklungshilfe: \"Sparkurs auf dem Rücken der Ärmsten\"",
-    "The EU and US agree to a trade deal, but who won the negotiations?"
+    "The EU and US agree to a trade deal, but who won the negotiations?",
+    "Handelsstreit - US-Präsident Trump kündigt 25-Prozent-Zölle für Indien an und kritisiert Russland-Geschäfte",
+    "Gerichtsurteil - Höchststrafe für vierfachen Feuermord von Solingen"
   ],
   "hashes": [
-    "b2f9567c0f4aaa696e4dfd4ee37d8830",
-    "9a6d9a0892360c204132a50556bebc40",
     "b8d24b614b2d787d7b8bcfc292f405db",
     "21c9fbf40669414df23bfb3c1c2d6d6c",
     "9a3fc4504c6a371e23fa60bcaf3b3426",
@@ -4005,6 +4003,8 @@
     "a15629da4ea13d25c0c8a4ff82804f6d",
     "9d620d1c6a6b0857c3a08110e5bc56f5",
     "766de5f02950fad03f187a11e9b466df",
-    "57d8f68b58dd08ace8442991884d42da"
+    "57d8f68b58dd08ace8442991884d42da",
+    "203dbe47af8f3eaee7b92fe538bfd999",
+    "7ae37019d4f601344e74265b3f66984e"
   ]
 }
