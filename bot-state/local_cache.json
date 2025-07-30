@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verspaetungen-auf-ice-strecke-zwischen-berlin-und-muenchen-100.html",
-    "https://www.deutschlandfunk.de/gohrischheide-fast-komplett-abgebrannt-entwarnung-auf-der-saalfelder-hoehe-100.html",
-    "https://www.deutschlandfunk.de/polen-startet-mit-kontrollen-an-grenze-zu-deutschland-100.html",
     "https://www.deutschlandfunk.de/steinmeier-setzt-litauen-visite-fort-102.html",
     "https://www.deutschlandfunk.de/israels-luftwaffe-greift-erneut-einrichtungen-der-huthi-miliz-im-jemen-an-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-hoehere-einfuhrzoelle-ab-dem-1-august-wenn-es-nicht-zu-einer-einigung-kommt-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russischer-angriff-auf-ausbildungseinheit-des-ukrainischen-militaers-100.html",
     "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-sowie-japan-warnungen-fuer-pazifikraum-102.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-ist-im-fruehsommer-leicht-geschrumpft-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesidenten-voigt-cdu-und-woidke-spd-widersprechen-bundeswirtschaftsministerin-reiche-cdu-102.html"
+    "https://www.deutschlandfunk.de/ministerpraesidenten-voigt-cdu-und-woidke-spd-widersprechen-bundeswirtschaftsministerin-reiche-cdu-102.html",
+    "https://www.deutschlandfunk.de/kabinett-verabschiedet-etatentwurf-ausgaben-von-gut-520-milliarden-euro-geplant-100.html",
+    "https://www.deutschlandfunk.de/hilfsorganisation-31-fluechtlinge-aus-dem-mittelmeer-gerettet-102.html",
+    "https://www.faz.net/aktuell/politik/inland/stuttgart-zwischen-gotham-und-orwell-110612989.html"
   ],
   "content_hashes": [
-    "f9f8de6fd7188d55e5efbdff53dbaf41",
-    "921bc4e84e832b6cd3d85a05d0a03f78",
-    "332401dbe28b00c68505c540602ce93a",
     "97654b22e529cb26d54b4ff57a8e15b7",
     "c8a05b38014ad07a6760ebff1c332b6b",
     "5775976d599000899bd15c97a0e6144f",
@@ -2001,12 +1998,12 @@
     "2211e9ca086ad884e0da2617c91fd23a",
     "fe5d223f0c3c1ed5a00441de79333531",
     "6e69682523c03db7dd0ad07bab2e9ded",
-    "c1f58df8546e8c7aee11df7a313901f0"
+    "c1f58df8546e8c7aee11df7a313901f0",
+    "b468c9653f3110d59c53a1ae19c24513",
+    "8b6572a6df8aeb539ee0e0a9ab251818",
+    "caafaf2a213069eb242b60016e885fda"
   ],
   "titles": [
-    "Nach Feuer in Unterführung - Verspätungen auf ICE-Strecke zwischen Berlin und München",
-    "Waldbrände - Gohrischheide fast komplett abgebrannt - Entwarnung auf der Saalfelder Höhe",
-    "Seit Mitternacht - Polen startet mit Kontrollen an Grenze zu Deutschland",
     "NATO-Ostflanke - Steinmeier setzt Litauen-Visite fort",
     "Naost - Israels Luftwaffe greift erneut Einrichtungen der Huthi-Miliz im Jemen an",
     "Handel - US-Präsident Trump: Höhere Einfuhrzölle ab dem 1. August, wenn es nicht zu einer Einigung kommt",
@@ -3003,12 +3000,12 @@
     "Ukraine-Krieg - Russischer Angriff auf Ausbildungseinheit des ukrainischen Militärs",
     "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel sowie Japan - Warnungen für Pazifikraum",
     "Statistisches Bundesamt - Deutsche Wirtschaft ist im Frühsommer leicht geschrumpft",
-    "Höheres Renteneinstiegsalter - Ministerpräsidenten Voigt (CDU) und Woidke (SPD) widersprechen Bundeswirtschaftsministerin Reiche (CDU)"
+    "Höheres Renteneinstiegsalter - Ministerpräsidenten Voigt (CDU) und Woidke (SPD) widersprechen Bundeswirtschaftsministerin Reiche (CDU)",
+    "Bundeshaushalt 2026 - Kabinett verabschiedet Etatentwurf - Ausgaben von gut 520 Milliarden Euro geplant",
+    "Sea-Eye - Hilfsorganisation: 31 Flüchtlinge aus dem Mittelmeer gerettet",
+    "Streit um Palantir: Stuttgart zwischen Gotham und Orwell"
   ],
   "hashes": [
-    "c82fe7b591ec0af763b33e44f333d128",
-    "10e7bea8e6513f73a36dd7e748615484",
-    "a0e8ca5cf7bf531898defe7846f1b288",
     "3b506b25546f9dc1b34f16352517f025",
     "4cf2c1aa6bcb3c2837537d389e6b9b17",
     "5e95245a78b3d31a81c8f3175c68ad78",
@@ -4005,6 +4002,9 @@
     "cdab4c8b75fb5bbb07e66d03c863276c",
     "4d15164b51c5cecd1b802c7d8fe92bad",
     "3ca9b5d937466beb00d8a1091d307f74",
-    "bebe472a8bcf3570d373a54928f08b7d"
+    "bebe472a8bcf3570d373a54928f08b7d",
+    "ae885d3d56ea121989ceb3dd9d25822e",
+    "bbc27c0a8cd2809a30d26736547ed435",
+    "3a5692d7e323fbd2f3bfbbd54150d345"
   ]
 }
