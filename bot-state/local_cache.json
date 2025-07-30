@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haftbefehl-gegen-syrer-erlassen-102.html",
-    "https://www.deutschlandfunk.de/bahn-faehrt-ab-mai-2026-ohne-umstieg-von-prag-nach-kopenhagen-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-studienkredite-in-deutschland-auf-tiefststand-102.html",
     "https://www.deutschlandfunk.de/invasive-muschelart-forscher-suchen-nach-loesungen-102.html",
     "https://www.faz.net/aktuell/politik/inland/gerhard-schroeder-und-die-klimastiftung-der-zeuge-will-sich-nicht-stressen-lassen-110577246.html",
     "https://www.deutschlandfunk.de/schuldspruch-nach-toedlichem-familienessen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/22-tote-bei-protesten-gegen-hoehere-spritpreise-in-angola-100.html",
     "https://www.deutschlandfunk.de/no-other-land-protagonist-erschossen-uno-prangert-siedlergewalt-an-102.html",
     "https://www.deutschlandfunk.de/der-erste-iron-maiden-saenger-paul-mario-day-ist-tot-102.html",
-    "https://www.faz.net/aktuell/politik/inland/wegen-israel-unterstuetzung-anzeigewelle-gegen-merz-110614631.html"
+    "https://www.faz.net/aktuell/politik/inland/wegen-israel-unterstuetzung-anzeigewelle-gegen-merz-110614631.html",
+    "https://www.deutschlandfunk.de/zwei-kinder-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
+    "https://www.deutschlandfunk.de/flugverkehr-am-nachmittag-zeitweise-massiv-gestoert-102.html",
+    "https://www.faz.net/aktuell/politik/inland/attentaeter-von-magdeburg-schreibt-briefe-und-setzt-opfer-in-angst-110614509.html"
   ],
   "content_hashes": [
-    "0eede14f25eddb5f621b56752bbe9fa7",
-    "30bf145bdc49ad4498610aa330f88aaa",
-    "349a180347b00a7a7cfb6e32aa0d5689",
     "4bd3e331d98cad887fbe7ad14854dbea",
     "8c2b551c80e7b97b26feba69187555a8",
     "da19aa1aa938365155f4c93f1905b7d2",
@@ -2001,12 +1998,12 @@
     "bc3df519cd7d050345a6477f378bba99",
     "a54516d0d2a30f0506b467556e10f664",
     "f95a585b97f746387ef01b5735fb3119",
-    "bb0be28184d5b2c2cbcbd453b84b3947"
+    "bb0be28184d5b2c2cbcbd453b84b3947",
+    "b035b0c6fe6df1d25e2ee3dc1973c6cc",
+    "687b53a4722ae911fb2705c859736f88",
+    "8b1699f450ff445e97a0d8fd00fdcfd9"
   ],
   "titles": [
-    "Angriff im ICE - Haftbefehl gegen Syrer erlassen",
-    "Verkehr - Bahn fährt ab Mai 2026 ohne Umstieg von Prag nach Kopenhagen",
-    "Studie - Zahl der Studienkredite in Deutschland auf Tiefststand",
     "Bodensee - Invasive Muschelart: Forscher suchen nach Lösungen",
     "Klimastiftung: Zeuge Schröder will sich nicht stressen lassen",
     "Australien - Schuldspruch nach tödlichem Familienessen",
@@ -3003,12 +3000,12 @@
     "Luanda - 22 Tote bei Protesten gegen höhere Spritpreise in Angola",
     "Westjordanland - \"No Other Land\"-Protagonist erschossen - UNO prangert Siedlergewalt an",
     "Gründungsmitglied - Der erste Iron Maiden-Sänger Paul Mario Day ist tot",
-    "Zwei Kampagnen: Anzeigenwelle gegen Merz wegen Unterstützung Israels"
+    "Zwei Kampagnen: Anzeigenwelle gegen Merz wegen Unterstützung Israels",
+    "Libyen und Tunesien - Zwei Kinder sterben bei Bootsunglück im Mittelmeer",
+    "London - Flugverkehr am Nachmittag zeitweise massiv gestört",
+    "Magdeburg-Attentäter: Wie Taleb Al A. Briefe an seine Opfer schreiben konnte"
   ],
   "hashes": [
-    "273b51d29594652e07a8683fae898343",
-    "213901b6b4439f98e0d44f1649b567f2",
-    "e3b051a5a9c42a0ede65f94da17e65e8",
     "bd325e8924f739f6b187efc2075d17f2",
     "22cf45d9df420b1fba89ab427278b6c6",
     "eee938fea3cb68c76560da0dde9d9f17",
@@ -4005,6 +4002,9 @@
     "9874299c60c5bef64213c943aa338574",
     "d76a1fc339bf16fd1e988fe16a93a1b3",
     "e054ba1093ba25527829da965915a4ca",
-    "4b7fb9168bdfc7d2875f59cb53cc8d96"
+    "4b7fb9168bdfc7d2875f59cb53cc8d96",
+    "56140783f2b842b0bb4d86ce832e7b17",
+    "e330d1626ae95075e3537e6571e7fa28",
+    "52fb081cbb39c898512d8d6706ab2427"
   ]
 }
