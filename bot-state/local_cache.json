@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-oppositionschef-oezel-eingeleitet-102.html",
-    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-warnt-vor-negativen-folgen-kein-guter-tag-fuer-deutsch-polnisches-verhael-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessengeld-gruene-kritisieren-cdu-wahlgeschenk-110573954.html",
     "https://www.faz.net/aktuell/politik/inland/polen-kontrolliert-grenze-das-bringt-das-ganze-schengen-system-an-die-grenzen-110578225.html",
     "https://www.deutschlandfunk.de/migrationsforscher-thym-nationale-alleingaenge-auf-dauer-keine-loesung-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-der-entwicklungshilfe-sparkurs-auf-dem-ruecken-der-aermsten-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/7/30/the-eu-and-us-agree-to-a-trade-deal-but-who-won-the-negotiations?traffic_source=rss",
     "https://www.deutschlandfunk.de/us-praesident-trump-kuendigt-25-prozent-zoelle-fuer-indien-an-und-kritisiert-russland-geschaefte-100.html",
-    "https://www.deutschlandfunk.de/hoechststrafe-fuer-vierfachen-feuermord-von-solingen-100.html"
+    "https://www.deutschlandfunk.de/hoechststrafe-fuer-vierfachen-feuermord-von-solingen-100.html",
+    "https://www.deutschlandfunk.de/frankreichs-praesident-macron-eu-wird-nicht-genug-gefuerchtet-100.html",
+    "https://www.deutschlandfunk.de/nach-erdbeben-lava-tritt-aus-vulkan-kljutschewskaja-sopka-aus-100.html"
   ],
   "content_hashes": [
-    "5cc8a841f01d4b734317ab348e00471c",
-    "b1ef142b73aa230c2d282018490b13fc",
     "0a2db16cdaa42c0a80cf08e6b785d0b2",
     "6e46345b02144b3bd3f8f51b04b4ff20",
     "2b0c472f97d0942430727abc52662af2",
@@ -2001,11 +1999,11 @@
     "def6ee034d634bb179b6dfee566e3e93",
     "5f681c48f3c283c12ac30c8e224fad90",
     "827303da5640af50b64da6f749694e87",
-    "3476e1c187a95c00dcd9ac2c9bdbc02d"
+    "3476e1c187a95c00dcd9ac2c9bdbc02d",
+    "c6fa842f27ea74575106dcb1b959ad0f",
+    "da1e2d24e14f4739aecea5d73c79b4d3"
   ],
   "titles": [
-    "Türkei - Ermittlungen gegen Oppositionschef Özel eingeleitet",
-    "Grenzkontrollen - Polen-Beauftragter Abraham warnt vor negativen Folgen: \"Kein guter Tag für deutsch-polnisches Verhältnis\"",
     "Förderung für Häuslebauer: Grüne kritisieren Hessengeld als wirkungsloses Wahlgeschenk",
     "Polen kontrolliert Grenze: „Das bringt das ganze Schengen-System an die Grenzen“",
     "Grenzkontrollen - Migrationsforscher Thym: \"Nationale Alleingänge auf Dauer keine Lösung\"",
@@ -3003,11 +3001,11 @@
     "Bundeshaushalt - Kritik an Kürzungen bei der Entwicklungshilfe: \"Sparkurs auf dem Rücken der Ärmsten\"",
     "The EU and US agree to a trade deal, but who won the negotiations?",
     "Handelsstreit - US-Präsident Trump kündigt 25-Prozent-Zölle für Indien an und kritisiert Russland-Geschäfte",
-    "Gerichtsurteil - Höchststrafe für vierfachen Feuermord von Solingen"
+    "Gerichtsurteil - Höchststrafe für vierfachen Feuermord von Solingen",
+    "Zollstreit mit den USA - Frankreichs Präsident Macron: \"EU wird nicht genug gefürchtet\"",
+    "Vor der Ostküste Russlands - Nach Erdbeben: Lava tritt aus Vulkan Kljutschewskaja Sopka aus"
   ],
   "hashes": [
-    "b8d24b614b2d787d7b8bcfc292f405db",
-    "21c9fbf40669414df23bfb3c1c2d6d6c",
     "9a3fc4504c6a371e23fa60bcaf3b3426",
     "cd02299cf26fc00a2065cefc16280a05",
     "9a010d5e486326cc5b5148b15c20b82b",
@@ -4005,6 +4003,8 @@
     "766de5f02950fad03f187a11e9b466df",
     "57d8f68b58dd08ace8442991884d42da",
     "203dbe47af8f3eaee7b92fe538bfd999",
-    "7ae37019d4f601344e74265b3f66984e"
+    "7ae37019d4f601344e74265b3f66984e",
+    "c54d8eac87ac7cee1c5532f6d8d45f60",
+    "fd3a6662eea08003f57f2c0abbe76200"
   ]
 }
