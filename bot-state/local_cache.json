@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/csu-landesgruppenchef-hoffmann-spd-kandidatin-fuer-bundesverfassungsgericht-unterstuetzen-100.html",
-    "https://www.deutschlandfunk.de/bund-laender-ag-startet-beratungen-fuer-reform-104.html",
     "https://www.deutschlandfunk.de/mehrere-tote-und-verletzte-bei-russischen-luftangriffen-100.html",
     "https://www.deutschlandfunk.de/weitere-indirekte-verhandlungen-in-katar-erste-runde-ohne-ergebnis-102.html",
     "https://www.deutschlandfunk.de/so-laeuft-die-wahl-von-verfassungsrichtern-ab-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-und-japan-keine-groesseren-schaeden-100.html",
     "https://www.deutschlandfunk.de/britische-regierung-weist-kritik-zurueck-102.html",
     "https://www.deutschlandfunk.de/weitere-airbnb-angebote-als-illegal-eingestuft-100.html",
-    "https://www.faz.net/aktuell/politik/anerkennung-palaestinas-als-strafe-fuer-israel-starmers-absurdes-manoever-110614066.html"
+    "https://www.faz.net/aktuell/politik/anerkennung-palaestinas-als-strafe-fuer-israel-starmers-absurdes-manoever-110614066.html",
+    "https://www.deutschlandfunk.de/regierung-will-altersgrenze-von-16-jahren-fuer-youtube-104.html",
+    "https://www.deutschlandfunk.de/bundesinnenministerium-prueft-einsatz-von-palantir-kritik-von-spd-und-gruenen-100.html"
   ],
   "content_hashes": [
-    "eba698c38613ca4559957fb2da922572",
-    "1fe33590eacf644dfd60bc7296d71b90",
     "1d71d6b1524675652efb6f72175df63f",
     "256011e210a8ecf7605ee628d5729d47",
     "c5be0b2967c8d837f0c8c47197bd459e",
@@ -2001,11 +1999,11 @@
     "713e0ce23388cc761f4270d19dd088fc",
     "d1e14ad5bee89b0806fa53dcb12431d9",
     "0d977bcd4b7072429d661d38ce308d6d",
-    "f253ca210ef62d9ad18743edc739adf0"
+    "f253ca210ef62d9ad18743edc739adf0",
+    "306f57bf1f9af74f2c9e180c4d91831b",
+    "7d399d3c2852aed2e04571cc17985262"
   ],
   "titles": [
-    "Abstimmung im Bundestag - CSU-Landesgruppenchef Hoffmann: SPD-Kandidatin für Bundesverfassungsgericht unterstützen",
-    "Pflegeversicherung - Bund-Länder-AG startet Beratungen für Reform",
     "Ukraine-Krieg - Mehrere Tote und Verletzte bei russischen Luftangriffen",
     "Gaza-Krieg - Weitere indirekte Verhandlungen in Katar - erste Runde ohne Ergebnis",
     "Neubesetzung - So läuft die Wahl von Verfassungsrichtern ab",
@@ -3003,11 +3001,11 @@
     "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel und Japan - keine größeren Schäden",
     "Anerkennung von Palästina - Britische Regierung weist Kritik zurück",
     "Spanien - Weitere Airbnb-Angebote als illegal eingestuft",
-    "Ultimatum an Israel: Starmers absurdes Palästina-Manöver"
+    "Ultimatum an Israel: Starmers absurdes Palästina-Manöver",
+    "Australien - Regierung will Altersgrenze von 16 Jahren für Youtube",
+    "Umstrittene US-Analyse-Software - Bundesinnenministerium prüft Einsatz von Palantir - Kritik von SPD und Grünen"
   ],
   "hashes": [
-    "fc8ec45dbb8a47ffa3eabe4c1d291d0e",
-    "cd79c148424bb1e415818d2e5c4bc1b4",
     "4f7d2b1911f7c0a872f8534d49590729",
     "c35a25e5f578447808a8fe68acb9a60d",
     "87a8f3351fab7da070ec8d9d6b85ed41",
@@ -4005,6 +4003,8 @@
     "59ab4b5f67b3896c09bb22e28443b786",
     "62270872a2c2929d74fd127be62e4d6a",
     "a1763fd171bd6fd99569b5c7e4ba6f34",
-    "836ae1b28728dbe56ac38f25142d0e55"
+    "836ae1b28728dbe56ac38f25142d0e55",
+    "231f0dff4623a519d5575904bd65e548",
+    "437032af94407db622e0eee16ce257a1"
   ]
 }
