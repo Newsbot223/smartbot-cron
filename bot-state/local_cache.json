@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weitere-indirekte-verhandlungen-in-katar-erste-runde-ohne-ergebnis-102.html",
-    "https://www.deutschlandfunk.de/so-laeuft-die-wahl-von-verfassungsrichtern-ab-100.html",
-    "https://www.deutschlandfunk.de/vulkan-lewotobi-schleudert-asche-kilometerhoch-100.html",
-    "https://www.spiegel.de/politik/polen-beginnt-mit-kontrollen-an-deutscher-grenze-a-db51bdab-5e10-4ee4-89b5-a4fea2c504a4#ref=rss",
     "https://www.deutschlandfunk.de/produktion-im-mai-gestiegen-100.html",
     "https://www.faz.net/aktuell/politik/inland/polen-beginnt-mit-kontrollen-an-grenze-zu-deutschland-110578225.html",
     "https://www.deutschlandfunk.de/steinmeier-gedenkt-der-ns-opfer-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/anerkennung-palaestinas-als-strafe-fuer-israel-starmers-absurdes-manoever-110614066.html",
     "https://www.deutschlandfunk.de/regierung-will-altersgrenze-von-16-jahren-fuer-youtube-104.html",
     "https://www.deutschlandfunk.de/bundesinnenministerium-prueft-einsatz-von-palantir-kritik-von-spd-und-gruenen-100.html",
-    "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-und-japan-weitgehend-entwarnung-100.html"
+    "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-und-japan-weitgehend-entwarnung-100.html",
+    "https://www.deutschlandfunk.de/italien-eroeffnet-untersuchung-wegen-vorinstallierter-ki-anwendung-102.html",
+    "https://www.spiegel.de/auto/stau-prognose-vom-adac-wo-es-am-wochenende-voll-auf-den-strassen-wird-a-85301103-b4ba-473e-aece-4076d143dca9#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/handelsregister-darf-beim-generischen-maskulinum-bleiben-110614183.html",
+    "https://www.faz.net/aktuell/politik/inland/defizite-im-rettungsdienst-es-stirbt-sich-besser-auf-dem-land-110613060.html"
   ],
   "content_hashes": [
-    "256011e210a8ecf7605ee628d5729d47",
-    "c5be0b2967c8d837f0c8c47197bd459e",
-    "95fe655ebeb727695af5402081415939",
-    "788f62c1a386a8a78797a1c57e412dff",
     "b4eabc3c21aa8918beba47ae627855ac",
     "93ed3bca1c8c7a7e2b9513854e4abd76",
     "fe909f474971bc40b847f419a9c51edb",
@@ -2001,13 +1997,13 @@
     "f253ca210ef62d9ad18743edc739adf0",
     "306f57bf1f9af74f2c9e180c4d91831b",
     "7d399d3c2852aed2e04571cc17985262",
-    "918af98a4e31969287a01c39b549f9f6"
+    "918af98a4e31969287a01c39b549f9f6",
+    "56cbf8925002e94394e5c05f7ba662a2",
+    "1026550ad2433c6e70dd1c751c408a82",
+    "22caae310cc07eaa99abad140bb169f3",
+    "f9fcf49ad98671763ee6b5c7d4b8f35c"
   ],
   "titles": [
-    "Gaza-Krieg - Weitere indirekte Verhandlungen in Katar - erste Runde ohne Ergebnis",
-    "Neubesetzung - So läuft die Wahl von Verfassungsrichtern ab",
-    "Indonesien - Vulkan Lewotobi schleudert Asche kilometerhoch",
-    "Polen beginnt mit Kontrollen an deutscher Grenze",
     "Wirtschaft - Produktion im Mai gestiegen",
     "Migration: Polen beginnt mit Kontrollen an Grenze zu Deutschland",
     "Litauen-Besuch - Steinmeier gedenkt der NS-Opfer",
@@ -3003,13 +2999,13 @@
     "Ultimatum an Israel: Starmers absurdes Palästina-Manöver",
     "Australien - Regierung will Altersgrenze von 16 Jahren für Youtube",
     "Umstrittene US-Analyse-Software - Bundesinnenministerium prüft Einsatz von Palantir - Kritik von SPD und Grünen",
-    "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel und Japan - weitgehend Entwarnung"
+    "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel und Japan - weitgehend Entwarnung",
+    "Whatsapp - Italien eröffnet Untersuchung wegen vorinstallierter KI-Anwendung",
+    "Stau-Prognose vom ADAC: Wo es am Wochenende voll auf den Straßen wird",
+    "Gericht entscheidet: Handelsregister darf beim generischen Maskulinum bleiben",
+    "Defizite im Rettungsdienst: „Es stirbt sich besser auf dem Land“"
   ],
   "hashes": [
-    "c35a25e5f578447808a8fe68acb9a60d",
-    "87a8f3351fab7da070ec8d9d6b85ed41",
-    "8a4325cf0b032831f628b2031ff2554c",
-    "11a554a484f5beb64a071628781887ad",
     "8e4e9d553e1629543b4dd0318048e111",
     "90d277a1592a18e566672e5bbf3be2de",
     "d82915039f0394ae17f9565f05858683",
@@ -4005,6 +4001,10 @@
     "836ae1b28728dbe56ac38f25142d0e55",
     "231f0dff4623a519d5575904bd65e548",
     "437032af94407db622e0eee16ce257a1",
-    "ccbde1c3ae76aabc9e06b2c1674c6f4e"
+    "ccbde1c3ae76aabc9e06b2c1674c6f4e",
+    "e7368359d9ed5ecd20af928c99140856",
+    "f733052cb38bd3555c5968a4a562e652",
+    "8bb76b34a1a08aab98f3e16d444137fc",
+    "a15629da4ea13d25c0c8a4ff82804f6d"
   ]
 }
