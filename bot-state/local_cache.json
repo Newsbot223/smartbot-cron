@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessengeld-gruene-kritisieren-cdu-wahlgeschenk-110573954.html",
-    "https://www.faz.net/aktuell/politik/inland/polen-kontrolliert-grenze-das-bringt-das-ganze-schengen-system-an-die-grenzen-110578225.html",
-    "https://www.deutschlandfunk.de/migrationsforscher-thym-nationale-alleingaenge-auf-dauer-keine-loesung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/haftbefehl-gegen-mutmasslichen-ice-angreifer-erlassen-110578471.html",
     "https://www.deutschlandfunk.de/haftbefehl-gegen-syrer-erlassen-102.html",
     "https://www.deutschlandfunk.de/bahn-faehrt-ab-mai-2026-ohne-umstieg-von-prag-nach-kopenhagen-100.html",
     "https://www.deutschlandfunk.de/zahl-der-studienkredite-in-deutschland-auf-tiefststand-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/us-praesident-trump-kuendigt-25-prozent-zoelle-fuer-indien-an-und-kritisiert-russland-geschaefte-100.html",
     "https://www.deutschlandfunk.de/hoechststrafe-fuer-vierfachen-feuermord-von-solingen-100.html",
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-eu-wird-nicht-genug-gefuerchtet-100.html",
-    "https://www.deutschlandfunk.de/nach-erdbeben-lava-tritt-aus-vulkan-kljutschewskaja-sopka-aus-100.html"
+    "https://www.deutschlandfunk.de/nach-erdbeben-lava-tritt-aus-vulkan-kljutschewskaja-sopka-aus-100.html",
+    "https://www.deutschlandfunk.de/22-tote-bei-protesten-gegen-hoehere-spritpreise-in-angola-100.html",
+    "https://www.deutschlandfunk.de/no-other-land-protagonist-erschossen-uno-prangert-siedlergewalt-an-102.html",
+    "https://www.deutschlandfunk.de/der-erste-iron-maiden-saenger-paul-mario-day-ist-tot-102.html",
+    "https://www.faz.net/aktuell/politik/inland/wegen-israel-unterstuetzung-anzeigewelle-gegen-merz-110614631.html"
   ],
   "content_hashes": [
-    "0a2db16cdaa42c0a80cf08e6b785d0b2",
-    "6e46345b02144b3bd3f8f51b04b4ff20",
-    "2b0c472f97d0942430727abc52662af2",
-    "02a222abb7136094b4b6a6fc5838c5b3",
     "0eede14f25eddb5f621b56752bbe9fa7",
     "30bf145bdc49ad4498610aa330f88aaa",
     "349a180347b00a7a7cfb6e32aa0d5689",
@@ -2001,13 +1997,13 @@
     "827303da5640af50b64da6f749694e87",
     "3476e1c187a95c00dcd9ac2c9bdbc02d",
     "c6fa842f27ea74575106dcb1b959ad0f",
-    "da1e2d24e14f4739aecea5d73c79b4d3"
+    "da1e2d24e14f4739aecea5d73c79b4d3",
+    "bc3df519cd7d050345a6477f378bba99",
+    "a54516d0d2a30f0506b467556e10f664",
+    "f95a585b97f746387ef01b5735fb3119",
+    "bb0be28184d5b2c2cbcbd453b84b3947"
   ],
   "titles": [
-    "Förderung für Häuslebauer: Grüne kritisieren Hessengeld als wirkungsloses Wahlgeschenk",
-    "Polen kontrolliert Grenze: „Das bringt das ganze Schengen-System an die Grenzen“",
-    "Grenzkontrollen - Migrationsforscher Thym: \"Nationale Alleingänge auf Dauer keine Lösung\"",
-    "Haftbefehl gegen mutmaßlichen Angreifer aus ICE",
     "Angriff im ICE - Haftbefehl gegen Syrer erlassen",
     "Verkehr - Bahn fährt ab Mai 2026 ohne Umstieg von Prag nach Kopenhagen",
     "Studie - Zahl der Studienkredite in Deutschland auf Tiefststand",
@@ -3003,13 +2999,13 @@
     "Handelsstreit - US-Präsident Trump kündigt 25-Prozent-Zölle für Indien an und kritisiert Russland-Geschäfte",
     "Gerichtsurteil - Höchststrafe für vierfachen Feuermord von Solingen",
     "Zollstreit mit den USA - Frankreichs Präsident Macron: \"EU wird nicht genug gefürchtet\"",
-    "Vor der Ostküste Russlands - Nach Erdbeben: Lava tritt aus Vulkan Kljutschewskaja Sopka aus"
+    "Vor der Ostküste Russlands - Nach Erdbeben: Lava tritt aus Vulkan Kljutschewskaja Sopka aus",
+    "Luanda - 22 Tote bei Protesten gegen höhere Spritpreise in Angola",
+    "Westjordanland - \"No Other Land\"-Protagonist erschossen - UNO prangert Siedlergewalt an",
+    "Gründungsmitglied - Der erste Iron Maiden-Sänger Paul Mario Day ist tot",
+    "Zwei Kampagnen: Anzeigenwelle gegen Merz wegen Unterstützung Israels"
   ],
   "hashes": [
-    "9a3fc4504c6a371e23fa60bcaf3b3426",
-    "cd02299cf26fc00a2065cefc16280a05",
-    "9a010d5e486326cc5b5148b15c20b82b",
-    "bf522ce5fe0b99c8167d850619dff4f6",
     "273b51d29594652e07a8683fae898343",
     "213901b6b4439f98e0d44f1649b567f2",
     "e3b051a5a9c42a0ede65f94da17e65e8",
@@ -4005,6 +4001,10 @@
     "203dbe47af8f3eaee7b92fe538bfd999",
     "7ae37019d4f601344e74265b3f66984e",
     "c54d8eac87ac7cee1c5532f6d8d45f60",
-    "fd3a6662eea08003f57f2c0abbe76200"
+    "fd3a6662eea08003f57f2c0abbe76200",
+    "9874299c60c5bef64213c943aa338574",
+    "d76a1fc339bf16fd1e988fe16a93a1b3",
+    "e054ba1093ba25527829da965915a4ca",
+    "4b7fb9168bdfc7d2875f59cb53cc8d96"
   ]
 }
