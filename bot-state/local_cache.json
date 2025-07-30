@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/gerhard-schroeder-und-die-klimastiftung-der-zeuge-will-sich-nicht-stressen-lassen-110577246.html",
-    "https://www.deutschlandfunk.de/schuldspruch-nach-toedlichem-familienessen-100.html",
     "https://www.deutschlandfunk.de/polnische-grenzkontrollen-sind-wichtiges-signal-zur-eindaemmung-der-migration-100.html",
     "https://www.deutschlandfunk.de/trump-sieht-vor-treffen-mit-netanjahu-gute-chance-fuer-gaza-waffenruhe-100.html",
     "https://www.deutschlandfunk.de/klimafreundlich-oder-nachhaltig-haertere-auflagen-fuer-werbung-mit-umweltaussagen-angekuendigt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zwei-kinder-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
     "https://www.deutschlandfunk.de/flugverkehr-am-nachmittag-zeitweise-massiv-gestoert-102.html",
     "https://www.faz.net/aktuell/politik/inland/attentaeter-von-magdeburg-schreibt-briefe-und-setzt-opfer-in-angst-110614509.html",
-    "https://www.deutschlandfunk.de/mehr-geld-fuer-personal-und-digitalisierung-bundesregierung-will-justiz-staerken-100.html"
+    "https://www.deutschlandfunk.de/mehr-geld-fuer-personal-und-digitalisierung-bundesregierung-will-justiz-staerken-100.html",
+    "https://www.deutschlandfunk.de/entgegen-den-forderungen-von-praesident-trump-us-notenbank-haelt-leitzins-stabil-100.html",
+    "https://www.deutschlandfunk.de/feuerwehren-in-spanien-und-portugal-kaempfen-gegen-waldbraende-100.html"
   ],
   "content_hashes": [
-    "8c2b551c80e7b97b26feba69187555a8",
-    "da19aa1aa938365155f4c93f1905b7d2",
     "a21391d61c562fc671ad854d23f3ac09",
     "945fa31a9c44174f63340637f7beb3f1",
     "6b8cf009e33792c9f830c02dc6a5c5d8",
@@ -2001,11 +1999,11 @@
     "b035b0c6fe6df1d25e2ee3dc1973c6cc",
     "687b53a4722ae911fb2705c859736f88",
     "8b1699f450ff445e97a0d8fd00fdcfd9",
-    "57d46773a7fefca50db3b6d85c024caf"
+    "57d46773a7fefca50db3b6d85c024caf",
+    "0117b9d631bdd34e206885d8137bdb55",
+    "100d71b84d91d3ea9b282b2bf04c2e6e"
   ],
   "titles": [
-    "Klimastiftung: Zeuge Schröder will sich nicht stressen lassen",
-    "Australien - Schuldspruch nach tödlichem Familienessen",
     "Bundesinnenministerium - Polnische Grenzkontrollen sind wichtiges Signal zur Eindämmung der Migration",
     "Nahost - Trump sieht vor Treffen mit Netanjahu \"gute Chance\" für Gaza-Waffenruhe",
     "Bundesjustizministerium - \"Klimafreundlich\" oder \"nachhaltig\": Härtere Auflagen für Werbung mit Umweltaussagen angekündigt",
@@ -3003,11 +3001,11 @@
     "Libyen und Tunesien - Zwei Kinder sterben bei Bootsunglück im Mittelmeer",
     "London - Flugverkehr am Nachmittag zeitweise massiv gestört",
     "Magdeburg-Attentäter: Wie Taleb Al A. Briefe an seine Opfer schreiben konnte",
-    "Kabinett - Mehr Geld für Personal und Digitalisierung - Bundesregierung will Justiz stärken"
+    "Kabinett - Mehr Geld für Personal und Digitalisierung - Bundesregierung will Justiz stärken",
+    "Washington - Entgegen den Forderungen von Präsident Trump - US-Notenbank hält Leitzins stabil",
+    "Iberische Halbinsel - Feuerwehren in Spanien und Portugal kämpfen gegen Waldbrände"
   ],
   "hashes": [
-    "22cf45d9df420b1fba89ab427278b6c6",
-    "eee938fea3cb68c76560da0dde9d9f17",
     "610200b3a7dc622fa9260bfde151b85c",
     "08a9ce0fbd5e8c1c2dfc937060bdf519",
     "7da3e58515eddac96ea4c70ff986e8b9",
@@ -4005,6 +4003,8 @@
     "56140783f2b842b0bb4d86ce832e7b17",
     "e330d1626ae95075e3537e6571e7fa28",
     "52fb081cbb39c898512d8d6706ab2427",
-    "98ff6cdb06b867148d3b6e56708dfdba"
+    "98ff6cdb06b867148d3b6e56708dfdba",
+    "f055841b1ab6372a9b2c87d791088587",
+    "a279354bad8db4001ce5829673cce652"
   ]
 }
