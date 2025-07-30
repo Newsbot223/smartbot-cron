@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-sagt-litauen-hilfe-zu-eure-sicherheit-ist-unsere-sicherheit-102.html",
-    "https://www.deutschlandfunk.de/hasselmann-macht-auch-warken-vorwuerfe-reichinnek-spahn-handelt-verantwortungslos-100.html",
     "https://www.deutschlandfunk.de/kritik-nach-angriff-auf-deutsche-welle-team-durch-radikale-siedler-100.html",
     "https://www.deutschlandfunk.de/schiitische-muslime-weltweit-feiern-aschura-fest-100.html",
     "https://www.deutschlandfunk.de/niederlaender-van-der-poel-siegt-auf-der-zweiten-etappe-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss",
     "https://www.deutschlandfunk.de/gericht-lehnt-vorzeitige-haftentlassung-von-kriegsverbrecher-mladic-ab-100.html",
     "https://www.deutschlandfunk.de/arabische-staaten-fordern-ende-der-hamas-herrschaft-100.html",
-    "https://www.deutschlandfunk.de/bundeskabinett-will-haushalt-2026-beschliessen-100.html"
+    "https://www.deutschlandfunk.de/bundeskabinett-will-haushalt-2026-beschliessen-100.html",
+    "https://www.deutschlandfunk.de/bundesinnenministerium-prueft-einsatz-von-umstrittener-analyse-software-kritik-von-spd-und-gruenen-100.html",
+    "https://www.deutschlandfunk.de/haager-gericht-lehnt-vorzeitige-haftentlassung-von-kriegsverbrecher-mladic-ab-100.html"
   ],
   "content_hashes": [
-    "3d0e636a81d317fc72e84c5c1059b816",
-    "2d6eab72b2322c70614ec0495ffa49aa",
     "a16105ea6d42a6ac0f8532a2c831fe3a",
     "4b8555e97e88d9a633450d2bb0367d3b",
     "0c403c708456ba9a8f403a3af4b7c989",
@@ -2001,11 +1999,11 @@
     "7757fc0baa55f43c4f281d4ce22922ca",
     "a51b6ec801ec6ab49ad31c25bc7cd71d",
     "6470737b8b4f4bb636c56d2e162ed9a2",
-    "3fab87d100db4bca873a58f01515ab9f"
+    "3fab87d100db4bca873a58f01515ab9f",
+    "365344df33215f3dfd3951553b08fcf2",
+    "a16a8461174fd7c754348471e660951b"
   ],
   "titles": [
-    "NATO-Ostflanke - Steinmeier sagt Litauen Hilfe zu - \"Eure Sicherheit ist unsere Sicherheit\"",
-    "Maskenaffäre - Haßelmann macht auch Warken Vorwürfe - Reichinnek: Spahn handelt verantwortungslos",
     "Westjordanland - Kritik nach Angriff auf Deutsche-Welle-Team durch radikale Siedler",
     "Islam - Schiitische Muslime weltweit feiern Aschura-Fest",
     "Tour de France - Niederländer van der Poel siegt auf der zweiten Etappe",
@@ -3003,11 +3001,11 @@
     "Reiche fordert schnelleren Ausbau der Infrastruktur",
     "Bosnien-Krieg - Gericht lehnt vorzeitige Haftentlassung von Kriegsverbrecher Mladic ab",
     "Gaza-Konferenz - Arabische Staaten fordern Ende der Hamas-Herrschaft",
-    "Finanzplanung - Bundeskabinett will Haushalt 2026 beschließen"
+    "Finanzplanung - Bundeskabinett will Haushalt 2026 beschließen",
+    "US-Unternehmen Palantir - Bundesinnenministerium prüft Einsatz von umstrittener Analyse-Software - Kritik von SPD und Grünen",
+    "Bosnien-Krieg - Haager Gericht lehnt vorzeitige Haftentlassung von Kriegsverbrecher Mladic ab"
   ],
   "hashes": [
-    "3a738b09d49bccf33df4b9f78d11f88b",
-    "aeeb4d1430ffed04dc5b73b186a2fcc5",
     "7b2085f3961dbf3ed650bd99d2608a8c",
     "f17862817a91a8de7767a7534607fb2a",
     "62e8922e6b08b868743ab1a1e9a827a6",
@@ -4005,6 +4003,8 @@
     "ec61b606dd9a3808d583623178f976af",
     "5145c03815340701b93de11877516a2e",
     "b021d6afed179008957dffaab07fd1e3",
-    "bedb71402d136792820dc767d064ae61"
+    "bedb71402d136792820dc767d064ae61",
+    "ba0c0038855973409b4ca3b342b3136c",
+    "1d195f55237e0fcbddd5c28f00a3c2c0"
   ]
 }
