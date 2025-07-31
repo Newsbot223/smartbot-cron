@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-zu-poln-grenzkontrollen-verstaendlicher-akt-der-revanche-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-wollen-drohnenporduktion-ausbauen-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-entwurf-fuer-haushaltsgesetz-100.html",
     "https://www.deutschlandfunk.de/parlament-befragt-sonderermittlerin-sudhof-100.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-weist-vorwuerfe-aus-misstrauensantrag-zurueck-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/haushaltsentwurf-und-wirtschaftslage-interview-mit-martin-beznoska-iw-koeln-104.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-zu-gespraechen-in-israel-gruenen-chefin-brantner-fordert-zustimmung-zu-102.html",
     "https://www.deutschlandfunk.de/hilfsorganisationen-fordern-krisengipfel-im-kanzleramt-100.html",
-    "https://www.deutschlandfunk.de/mehr-verletzte-und-tote-bei-unfaellen-mit-e-scootern-102.html"
+    "https://www.deutschlandfunk.de/mehr-verletzte-und-tote-bei-unfaellen-mit-e-scootern-102.html",
+    "https://www.deutschlandfunk.de/deutsche-arbeitslosenzahl-steigt-im-juli-auf-2-979-millionen-100.html",
+    "https://www.deutschlandfunk.de/bgh-keine-vorher-nachher-werbung-fuer-hyaluron-spritzung-102.html"
   ],
   "content_hashes": [
-    "2818ddcc8b263d108ce01d70d229adff",
-    "3a4cd49e91fdf700a342cc187f6247d1",
     "aa0cecf6ec0eb180c26253db4cbc8535",
     "b10f63fea7a54eed7b411ca26f7f71da",
     "d7aa85a903a16f26ec307b0508789526",
@@ -2001,11 +1999,11 @@
     "81fc014774811860d3809e42f83c9187",
     "02e3dbdd42b8f04ded6661d1184fec52",
     "98f7d6c81dd23434a1b3e857eea2d98c",
-    "d1e7e5e8155f971776a1f2546dc2dd8e"
+    "d1e7e5e8155f971776a1f2546dc2dd8e",
+    "58f96dfbfc209ab4fc82343f9dfd1d78",
+    "e59c98befecd7c5afe1eaa88409b28ab"
   ],
   "titles": [
-    "Grenzkontrollen - Kommentar: CDU/CSU haben die Axt ans alte Schengen-Europa gelegt",
-    "Russischer Angriffskrieg - Selenskyj: Wollen Drohnenporduktion ausbauen",
     "Bundestag - Debatte über Entwurf für Haushaltsgesetz",
     "Masken-Affäre - Parlament befragt Sonderermittlerin Sudhof",
     "Europaparlament - EU-Kommissionspräsidentin von der Leyen weist Vorwürfe aus Misstrauensantrag zurück",
@@ -3003,11 +3001,11 @@
     "Bundeshaushalt 2026 - Ökonom mahnt Sparkurs bei Subventionen und Sozialausgaben an",
     "Auftakt zu Nahostreise - Bundesaußenminister Wadephul zu Gesprächen in Israel - Grünen-Chefin Brantner fordert Zustimmung zu EU-weiten Sanktionen",
     "Lage in Gaza - Hilfsorganisationen fordern Krisengipfel im Kanzleramt",
-    "Verkehr - Mehr Verletzte und Tote bei Unfällen mit E-Scootern"
+    "Verkehr - Mehr Verletzte und Tote bei Unfällen mit E-Scootern",
+    "Wirtschaft - Deutsche Arbeitslosenzahl steigt im Juli auf 2,979 Millionen",
+    "Schönheitsbehandlungen - BGH: Keine Vorher-Nachher-Werbung für Hyaluron-Spritzung"
   ],
   "hashes": [
-    "7db9bebbf2086c5458f3f8df8c6db168",
-    "6eecdf308416782d4e389c549b4a94a3",
     "f474cb8ac6bd573d766155e5dcfaca04",
     "ed1ba217284e72d762eb8fd86ad4dc07",
     "be84f3cf9aca7294529035cedf54001a",
@@ -4005,6 +4003,8 @@
     "a524d64fe4ceb3879d24e02319e5dbb4",
     "70d44e4cb2507a75a2c20a0a704c1776",
     "6d334b07e7e50ab9ce6d69d4b490c331",
-    "8b3586fdd1de4a134be4465696a8a71f"
+    "8b3586fdd1de4a134be4465696a8a71f",
+    "b14a62aae5163277d102de6ada52653d",
+    "44323375634a42e7de95c92ea8103cda"
   ]
 }
