@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/auswaertiges-amt-chinesischer-laserangriff-auf-deutsches-flugzeug-110580110.html",
-    "https://www.deutschlandfunk.de/auswaertiges-amt-bundeswehr-flugzeug-von-china-per-laser-ins-visier-genommen-chinesischer-botschafte-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-102.html",
     "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-opposition-wirft-regierung-gebrochene-wahlvers-100.html",
     "https://www.deutschlandfunk.de/haushaltsausschuss-befragt-masken-ermittlerin-sudhof-gruene-bleiben-bei-forderung-nach-untersuchungs-100.html",
     "https://www.deutschlandfunk.de/im-fruehjahr-so-viele-firmenpleiten-wie-seit-20-jahren-nicht-mehr-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/verluste-bei-der-bahn-interview-dirk-flege-allianz-pro-schiene-100.html",
     "https://www.deutschlandfunk.de/aerzte-dringen-auf-hoehere-impfquoten-100.html",
     "https://www.deutschlandfunk.de/verbraucherpreise-bleiben-stabil-bei-2-0-prozent-100.html",
-    "https://www.faz.net/aktuell/politik/inland/duesseldorf-nach-duisburg-staatsschutz-ermittelt-nach-brand-an-bahnstrecke-110616209.html"
+    "https://www.faz.net/aktuell/politik/inland/duesseldorf-nach-duisburg-staatsschutz-ermittelt-nach-brand-an-bahnstrecke-110616209.html",
+    "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-gesperrt-polizei-vermutet-sabotage-100.html",
+    "https://www.deutschlandfunk.de/studie-menschen-atmen-zehntausende-mikroplastikteile-ein-102.html",
+    "https://www.faz.net/aktuell/politik/inland/aus-psychiatrie-abgeschoben-war-das-rechtens-110616273.html"
   ],
   "content_hashes": [
-    "2e0ba1d967e447c097f93ac418fd5f7a",
-    "9654ca59d972fc4f5517564d5100511f",
-    "bc7c23d578ebce3774ab4cc7c0cf1bdb",
     "0be293f6e4c0c85decb4d831f471f581",
     "45f7769376cb335d14ca37698701f593",
     "1cab7af7c9e4306f7ec474b809dc3df9",
@@ -2001,12 +1998,12 @@
     "0c3e59381346e977c4d61960b8711698",
     "bca0730de08c1ed4db1b07d0a7d4e6df",
     "323b2f157310b2bce2891e6468926c51",
-    "52567815db517161e38e0b689b5bbff9"
+    "52567815db517161e38e0b689b5bbff9",
+    "45b56931d158f686f1bbb48aa70bac76",
+    "c3388938bed667eeca55c703d04bb714",
+    "389dabf6ce2958394dbe673a29f0162e"
   ],
   "titles": [
-    "Auswärtiges Amt: Chinesischer Laserangriff auf deutsches Flugzeug",
-    "EU-Mission Aspides - Auswärtiges Amt: Bundeswehr-Flugzeug von China per Laser ins Visier genommen - chinesischer Botschafter einbestellt",
-    "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung",
     "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung - Opposition wirft Regierung gebrochene Wahlversprechen vor",
     "Bundestag - Haushaltsausschuss befragt Masken-Ermittlerin Sudhof - Grüne bleiben bei Forderung nach Untersuchungsausschuss",
     "Wirtschaft - Im Frühjahr so viele Firmenpleiten wie seit 20 Jahren nicht mehr",
@@ -3003,12 +3000,12 @@
     "DB-Bilanz - Unpünktliche Züge, gutes Personal",
     "Gesundheit - Ärzte dringen auf höhere Impfquoten",
     "Inflation - Verbraucherpreise bleiben stabil bei 2,0 Prozent",
-    "Düsseldorf – Duisburg: Staatsschutz ermittelt nach Brand an Bahnstrecke in NRW"
+    "Düsseldorf – Duisburg: Staatsschutz ermittelt nach Brand an Bahnstrecke in NRW",
+    "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal gesperrt - Polizei vermutet Sabotage",
+    "Frankreich - Studie: Menschen atmen Zehntausende Mikroplastikteile ein",
+    "Aus Psychiatrie geholt: Bayern verteidigt Abschiebungen von Straftätern"
   ],
   "hashes": [
-    "02d61fa2f35b85ac194219f84d632299",
-    "a1c786a0bf9fc5f07d9f4f5edbfb4946",
-    "4a7cf2bf56e1cb32d00dfcdb6f9d7fed",
     "79b234a66f53a116fb2e306aad66f575",
     "69bef48de0c185c2af8baaf00f609ed1",
     "6758d12849004ac3280e5c8f69a6cbca",
@@ -4005,6 +4002,9 @@
     "c17a308ec89c776b50f6aad8056c7909",
     "1492dde077acc9eedbb2894db17369ed",
     "ba985d93c27e71396cba16e6f1aea2a7",
-    "6ab486b482651491d978a4ec2fbc7c17"
+    "6ab486b482651491d978a4ec2fbc7c17",
+    "40127fd83eb5e7d9a0f4e7affa72797b",
+    "8518fae31de8ddc2756b27ab165c29c3",
+    "7067744554f6ca561bef5d90f14c3548"
   ]
 }
