@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tuerkei-wegen-haft-fuer-oppositionspolitiker-demirtas-verurteilt-100.html",
-    "https://www.deutschlandfunk.de/arbeitszeitkonten-gewinnen-an-bedeutung-angesparte-stunden-auf-hoechststand-100.html",
-    "https://www.deutschlandfunk.de/unabhaengige-wahlbeobachter-beenden-arbeit-102.html",
-    "https://www.deutschlandfunk.de/opposition-sieht-nach-sudhof-befragung-offene-fragen-102.html",
     "https://www.aljazeera.com/gallery/2025/7/8/nearly-half-a-million-afghans-return-from-iran-amid-crackdown?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/fluechtlinge-aus-afghanistan-gericht-will-regierung-zur-aufnahme-zwingen-110580312.html",
     "https://www.deutschlandfunk.de/gruenes-licht-fuer-beitritt-bulgariens-zur-euro-zone-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/swr-staatsanwaltschaft-stuttgart-ermittelt-nach-instagram-post-von-afd-chefin-weidel-100.html",
     "https://www.deutschlandfunk.de/berenberg-chefvolkswirt-schmieding-trumps-politik-wird-der-us-wirtschaft-schaden-100.html",
     "https://www.faz.net/aktuell/politik/inland/intel-aus-in-magdeburg-die-naechste-subventionspleite-110614804.html",
-    "https://www.deutschlandfunk.de/franzoesin-maeva-squiban-gewinnt-sechste-etappe-102.html"
+    "https://www.deutschlandfunk.de/franzoesin-maeva-squiban-gewinnt-sechste-etappe-102.html",
+    "https://www.deutschlandfunk.de/israel-greift-hisbollah-einrichtungen-aus-der-luft-an-100.html",
+    "https://www.deutschlandfunk.de/tausende-helfer-im-einsatz-gegen-waldbraende-102.html",
+    "https://www.deutschlandfunk.de/trump-gewaehrt-mexiko-einen-90-tage-aufschub-102.html",
+    "https://www.deutschlandfunk.de/mindestens-12-tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-102.html"
   ],
   "content_hashes": [
-    "12a9d6d6b7b9ac296dd3e4cebb8a9f9e",
-    "62301f8b039ecad5a4782915444c1474",
-    "fe6a809c133c74e631b42a8eb93c8830",
-    "07c5afbda4ab7afd0d6ffcdcb30066fe",
     "729755d3acf92b1b3fa1a76abdd21e08",
     "99008728818688b72be848315b50b2f3",
     "9f68d35000b3677a6475a479d40d3de2",
@@ -2001,13 +1997,13 @@
     "e5bd5606e7756e214434f6a3e3c1890d",
     "a82db3a7f2e8a90c1d4973b845d71314",
     "1301fb67bcbc7d04a3495ac440b7df31",
-    "0a4419036b4b79e5ec94f7afac27ac71"
+    "0a4419036b4b79e5ec94f7afac27ac71",
+    "5b9ac915d47a975f21d11f1d42a0a9a4",
+    "2a9376937a16163d6a8c44ce6ef93708",
+    "b021320cf5dcd0e5be03b149fa23a68f",
+    "90f81e58441d267b4ef1d2e380b5168d"
   ],
   "titles": [
-    "Menschenrechtsgerichtshof - Türkei wegen Haft für Oppositionspolitiker Demirtas verurteilt",
-    "Wirtschaft - Arbeitszeitkonten gewinnen an Bedeutung - angesparte Stunden auf Höchststand",
-    "Russland - Unabhängige Wahlbeobachter beenden Arbeit",
-    "Maskenaffäre - Opposition sieht nach Sudhof-Befragung offene Fragen",
     "Nearly half a million Afghans return from Iran after crackdown",
     "Afghanische Flüchtlinge: Gericht will Bundesregierung zur Aufnahme zwingen",
     "EU-Finanzministertreffen - Grünes Licht für Beitritt Bulgariens zur Euro-Zone",
@@ -3003,13 +2999,13 @@
     "Hasskommentare - SWR: Staatsanwaltschaft Stuttgart ermittelt nach Instagram-Post von AfD-Chefin Weidel",
     "Zollpolitik - Berenberg-Chefvolkswirt Schmieding: Trumps Politik wird der US-Wirtschaft schaden",
     "Intel-Aus in Magdeburg: Die nächste Subventionspleite",
-    "Tour de France Femmes - Französin Maeva Squiban gewinnt sechste Etappe"
+    "Tour de France Femmes - Französin Maeva Squiban gewinnt sechste Etappe",
+    "Libanon - Israel greift Hisbollah-Einrichtungen aus der Luft an",
+    "Iberische Halbinsel - Tausende Helfer im Einsatz gegen Waldbrände",
+    "Zollkonflikt - Trump gewährt Mexiko einen 90 Tage-Aufschub",
+    "Ukraine-Krieg - Mindestens 12 Tote und viele Verletzte bei russischen Luftangriffen auf Kiew"
   ],
   "hashes": [
-    "101ed22e91bc3717093352f0b0d72a00",
-    "a421ede2fe357356e06045193128d2c7",
-    "ec63024a571d5b5f20c156881d488d0b",
-    "33794dee18ce72e889287dabc20f235d",
     "39fb0124e212777f1e0d08e26be8e186",
     "430a54a2db756794cf3087fc09c18348",
     "6b13c613bc353bd108078a82244e48c6",
@@ -4005,6 +4001,10 @@
     "f924c96b34d33c2ac68bdd5d22cc273a",
     "97583b03ff6d8bb3d8ec81276e592220",
     "c86d994a8087d6204218c0626076cb44",
-    "dfa2c9cf0e4289033f1a3618a72d5d3e"
+    "dfa2c9cf0e4289033f1a3618a72d5d3e",
+    "5d9ce53a019f215130a047ccf46fc1cc",
+    "37b010c3b856d236ad5082e30c0b63e5",
+    "804172182091844f4d4340c60dbb13d0",
+    "4c1f9e164e297008d7b9a9c36af7b494"
   ]
 }
