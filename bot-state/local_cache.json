@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-exporte-in-die-usa-deutlich-gesunken-auch-china-geschaeft-schwaechelt-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-stellt-haushalt-fuer-2025-vor-104.html",
     "https://www.deutschlandfunk.de/gericht-bundesregierung-muss-afghanen-visa-erteilen-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-18-tote-bei-israelischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/italienische-polizei-hebt-internationale-schleuserbande-aus-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schaden-in-deutschland-auf-2-76-milliarden-euro-gestiegen-100.html",
     "https://www.deutschlandfunk.de/parlament-in-kiew-beschliesst-neues-anti-korruptionsgesetz-100.html",
     "https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss",
-    "https://www.aljazeera.com/video/head-to-head/2025/7/31/trump-epstein-and-immigration-raids-mehdi-hasan-and-mick-mulvaney?traffic_source=rss"
+    "https://www.aljazeera.com/video/head-to-head/2025/7/31/trump-epstein-and-immigration-raids-mehdi-hasan-and-mick-mulvaney?traffic_source=rss",
+    "https://www.deutschlandfunk.de/tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-110.html",
+    "https://www.deutschlandfunk.de/verluste-bei-der-bahn-interview-dirk-flege-allianz-pro-schiene-100.html"
   ],
   "content_hashes": [
-    "3738e06bce4ca41176a71512e795a841",
-    "22bdc2bb0b34045a614dd03e1a9808cc",
     "d5007333dbfc3f95c1cb9385200dac8c",
     "0b72ee30f66b08dfa75c8ba8f0371552",
     "ded489792960589c531df1b0f1bd25e8",
@@ -2001,11 +1999,11 @@
     "ca1d9f5ee2f14e0f8204e517eef06c2d",
     "29123232acba1191b74ad4c0355a8441",
     "a9676b948dabc7e3501c0f641e797350",
-    "bd943eba0c88352df1eef4993daf534a"
+    "bd943eba0c88352df1eef4993daf534a",
+    "aced517529fea015c8b0b42eba9c1ada",
+    "0c3e59381346e977c4d61960b8711698"
   ],
   "titles": [
-    "Statistisches Bundesamt - Deutsche Exporte in die USA deutlich gesunken - auch China-Geschäft schwächelt",
-    "Bundestag - Klingbeil stellt Haushalt für 2025 vor",
     "Aufnahmeprogramm - Gericht: Bundesregierung muss Afghanen Visa erteilen",
     "Nahost - Palästinenser melden 18 Tote bei israelischen Angriffen",
     "Kalabrien - Italienische Polizei hebt internationale Schleuserbande aus",
@@ -3003,11 +3001,11 @@
     "Wirtschaftskriminalität - Schaden in Deutschland auf 2,76 Milliarden Euro gestiegen",
     "Ukraine - Parlament in Kiew beschließt neues Anti-Korruptionsgesetz",
     "Israel: Johann Wadephul verlangt für Hilfsorganisationen sicheren Zugang nach Gaza",
-    "Trump, Epstein and immigration raids: Mehdi Hasan and Mick Mulvaney"
+    "Trump, Epstein and immigration raids: Mehdi Hasan and Mick Mulvaney",
+    "Ukraine-Krieg - Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
+    "DB-Bilanz - Unpünktliche Züge, gutes Personal"
   ],
   "hashes": [
-    "42953d03c3a7a0557672a6b7eda348dc",
-    "33cec1e33e245b90576c2237f998e3bf",
     "742a8ed203843852b29494a8f527f081",
     "52a91eaaa4bd44a6f8ea99a6501237c4",
     "1008328352da73e772893b078af5943b",
@@ -4005,6 +4003,8 @@
     "5bbf85b62f4c4c7ce68527750f5631b3",
     "bc02f6e1df6fd9c0debd63873dcc9e76",
     "5b324703d5040c84ebc48f2cfb8e2722",
-    "325361fd4b348540a27426c6cefcdae8"
+    "325361fd4b348540a27426c6cefcdae8",
+    "d3a28ce2c63bb77d86f40eca29bddc7d",
+    "c17a308ec89c776b50f6aad8056c7909"
   ]
 }
