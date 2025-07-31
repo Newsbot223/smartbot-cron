@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fluechtlinge-aus-afghanistan-gericht-will-regierung-zur-aufnahme-zwingen-110580312.html",
-    "https://www.deutschlandfunk.de/gruenes-licht-fuer-beitritt-bulgariens-zur-euro-zone-100.html",
     "https://www.deutschlandfunk.de/eu-aktiviert-ausnahmen-vom-stabilitaetspakt-fuer-15-laender-100.html",
     "https://www.deutschlandfunk.de/eu-mission-drei-tote-bei-angriff-auf-frachtschiff-102.html",
     "https://www.deutschlandfunk.de/steinmeier-fuer-mehr-gemeinsame-ruestungsproduktion-in-europa-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tausende-helfer-im-einsatz-gegen-waldbraende-102.html",
     "https://www.deutschlandfunk.de/trump-gewaehrt-mexiko-einen-90-tage-aufschub-102.html",
     "https://www.deutschlandfunk.de/mindestens-12-tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-102.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-neue-ermittlungen-gegen-syrische-grossfamilie-110610101.html"
+    "https://www.faz.net/aktuell/politik/inland/stuttgart-neue-ermittlungen-gegen-syrische-grossfamilie-110610101.html",
+    "https://www.deutschlandfunk.de/wadephul-ruft-israel-zu-absage-an-kurs-von-vertreibung-und-annexion-auf-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bekennerschreiben-nach-brand-von-bahn-kabeln-in-nrw-110617364.html"
   ],
   "content_hashes": [
-    "99008728818688b72be848315b50b2f3",
-    "9f68d35000b3677a6475a479d40d3de2",
     "b4158da5f8ce7ca30e13d90f45dd450a",
     "4073f49f08fd75ce4c88276fa87907c6",
     "a917ec82b2208db87cd27f2be8b9ad4e",
@@ -2001,11 +1999,11 @@
     "2a9376937a16163d6a8c44ce6ef93708",
     "b021320cf5dcd0e5be03b149fa23a68f",
     "90f81e58441d267b4ef1d2e380b5168d",
-    "96ec154db00171861222de711d42cc8e"
+    "96ec154db00171861222de711d42cc8e",
+    "027f3ebb47aecb28316165467aa79ffc",
+    "746186964b388b17e98ae012421c7de8"
   ],
   "titles": [
-    "Afghanische Flüchtlinge: Gericht will Bundesregierung zur Aufnahme zwingen",
-    "EU-Finanzministertreffen - Grünes Licht für Beitritt Bulgariens zur Euro-Zone",
     "Verteidigungsausgaben - EU aktiviert Ausnahmen vom Stabilitätspakt für 15 Länder",
     "Rotes Meer - EU-Mission: Drei Tote bei Angriff auf Frachtschiff",
     "Besuch in Lettland - Steinmeier für mehr gemeinsame Rüstungsproduktion in Europa",
@@ -3003,11 +3001,11 @@
     "Iberische Halbinsel - Tausende Helfer im Einsatz gegen Waldbrände",
     "Zollkonflikt - Trump gewährt Mexiko einen 90 Tage-Aufschub",
     "Ukraine-Krieg - Mindestens 12 Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
-    "Kriminelle syrische Familie: Die nächsten Straftaten der Großfamilie H."
+    "Kriminelle syrische Familie: Die nächsten Straftaten der Großfamilie H.",
+    "Nahostreise - Wadephul ruft Israel zu Absage an Kurs von Vertreibung und Annexion auf",
+    "Mutmaßliche Sabotage: Bekennerschreiben nach Brand von Bahn-Kabeln in NRW"
   ],
   "hashes": [
-    "430a54a2db756794cf3087fc09c18348",
-    "6b13c613bc353bd108078a82244e48c6",
     "d8deb2b7de720ff4dfd15adffc605dec",
     "298f276576b1e0c66551d0c57b1ee8aa",
     "d60fcbfa1eabbdd3450bfac9f2ec3c93",
@@ -4005,6 +4003,8 @@
     "37b010c3b856d236ad5082e30c0b63e5",
     "804172182091844f4d4340c60dbb13d0",
     "4c1f9e164e297008d7b9a9c36af7b494",
-    "d013e3b20cb0eda10c7ae98c70972da8"
+    "d013e3b20cb0eda10c7ae98c70972da8",
+    "86db07963324a2311fb84be6565455a8",
+    "28d71aaf06d0b818b05a1c98e50adc30"
   ]
 }
