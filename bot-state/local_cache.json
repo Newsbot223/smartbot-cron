@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-praesident-trump-25-prozent-zoelle-fuer-japan-und-suedkorea-ab-1-august-100.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-hohe-importzoelle-gegen-verschiedene-laender-in-asien-und-afrika-ab-1-august-100.html",
-    "https://www.deutschlandfunk.de/klage-gegen-franzoesischen-ex-premier-abgewiesen-100.html",
     "https://www.deutschlandfunk.de/kommentar-zu-poln-grenzkontrollen-verstaendlicher-akt-der-revanche-100.html",
     "https://www.deutschlandfunk.de/selenskyj-wollen-drohnenporduktion-ausbauen-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-entwurf-fuer-haushaltsgesetz-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/frueherer-israelischer-botschafter-stein-netanjahus-politik-ist-gescheitert-militaereinsatz-im-gazas-102.html",
     "https://www.deutschlandfunk.de/rehlinger-brauchen-zusaetzliches-abkommen-fuer-stahl-und-aluminium-zwischen-eu-und-usa-102.html",
     "https://www.deutschlandfunk.de/gewinneinbruch-bei-bmw-102.html",
-    "https://www.deutschlandfunk.de/haushaltsentwurf-und-wirtschaftslage-interview-mit-martin-beznoska-iw-koeln-104.html"
+    "https://www.deutschlandfunk.de/haushaltsentwurf-und-wirtschaftslage-interview-mit-martin-beznoska-iw-koeln-104.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-zu-gespraechen-in-israel-gruenen-chefin-brantner-fordert-zustimmung-zu-102.html",
+    "https://www.deutschlandfunk.de/hilfsorganisationen-fordern-krisengipfel-im-kanzleramt-100.html",
+    "https://www.deutschlandfunk.de/mehr-verletzte-und-tote-bei-unfaellen-mit-e-scootern-102.html"
   ],
   "content_hashes": [
-    "f250e9654d1bc785423446cf37cac928",
-    "b62fb9e1bf690b0fae17c30a1cd9986d",
-    "c4581411f7cf8e8f4005053a0952f266",
     "2818ddcc8b263d108ce01d70d229adff",
     "3a4cd49e91fdf700a342cc187f6247d1",
     "aa0cecf6ec0eb180c26253db4cbc8535",
@@ -2001,12 +1998,12 @@
     "4a02159ddcc5c0f09c5188370cf46c58",
     "27ce22b8fbc56d97ed51514c659225e0",
     "4799bb376c098b4c9b1d31c5d8429713",
-    "81fc014774811860d3809e42f83c9187"
+    "81fc014774811860d3809e42f83c9187",
+    "02e3dbdd42b8f04ded6661d1184fec52",
+    "98f7d6c81dd23434a1b3e857eea2d98c",
+    "d1e7e5e8155f971776a1f2546dc2dd8e"
   ],
   "titles": [
-    "Handelsstreit - US-Präsident Trump: 25 Prozent Zölle für Japan und Südkorea ab 1. August",
-    "Handelsstreit - US-Präsident Trump: hohe Importzölle gegen verschiedene Länder in Asien und Afrika ab 1. August",
-    "Corona-Pandemie - Klage gegen französischen Ex-Premier abgewiesen",
     "Grenzkontrollen - Kommentar: CDU/CSU haben die Axt ans alte Schengen-Europa gelegt",
     "Russischer Angriffskrieg - Selenskyj: Wollen Drohnenporduktion ausbauen",
     "Bundestag - Debatte über Entwurf für Haushaltsgesetz",
@@ -3003,12 +3000,12 @@
     "Nahost - Früherer israelischer Botschafter Stein: \"Netanjahus Politik ist gescheitert\" - Militäreinsatz im Gazastreifen \"ohne Strategie\"",
     "Handel - Rehlinger: \"Brauchen zusätzliches Abkommen für Stahl und Aluminium zwischen EU und USA\"",
     "Autobranche - Gewinneinbruch bei BMW",
-    "Bundeshaushalt 2026 - Ökonom mahnt Sparkurs bei Subventionen und Sozialausgaben an"
+    "Bundeshaushalt 2026 - Ökonom mahnt Sparkurs bei Subventionen und Sozialausgaben an",
+    "Auftakt zu Nahostreise - Bundesaußenminister Wadephul zu Gesprächen in Israel - Grünen-Chefin Brantner fordert Zustimmung zu EU-weiten Sanktionen",
+    "Lage in Gaza - Hilfsorganisationen fordern Krisengipfel im Kanzleramt",
+    "Verkehr - Mehr Verletzte und Tote bei Unfällen mit E-Scootern"
   ],
   "hashes": [
-    "344a27b1a5ceab8fc627a1ff6753498f",
-    "4debd1d150a6f03d942fe15d3fdedeb3",
-    "3292249a9b267a40607ec55e575662c5",
     "7db9bebbf2086c5458f3f8df8c6db168",
     "6eecdf308416782d4e389c549b4a94a3",
     "f474cb8ac6bd573d766155e5dcfaca04",
@@ -4005,6 +4002,9 @@
     "77431eb5baf42eef02cf4276b7fa087d",
     "ad72ea9bcaf59f4e9dd02f26fcb00a31",
     "cd84bfbee1f96b47cec609334e623a1f",
-    "a524d64fe4ceb3879d24e02319e5dbb4"
+    "a524d64fe4ceb3879d24e02319e5dbb4",
+    "70d44e4cb2507a75a2c20a0a704c1776",
+    "6d334b07e7e50ab9ce6d69d4b490c331",
+    "8b3586fdd1de4a134be4465696a8a71f"
   ]
 }
