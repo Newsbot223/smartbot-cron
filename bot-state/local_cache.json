@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wissenschaft-im-brennpunkt-empfiehlt-podcast-dark-agent-100.html",
-    "https://www.faz.net/aktuell/politik/inland/neue-strategie-der-afd-ganz-die-alten-aber-anders-110578743.html",
     "https://www.deutschlandfunk.de/vorsitzender-donohoe-fuer-dritte-amtszeit-bestaetigt-100.html",
     "https://www.faz.net/aktuell/politik/inland/aussenpolitischer-kanzler-merz-muss-auch-im-innern-fuehren-110574958.html",
     "https://www.deutschlandfunk.de/tim-merlier-belgien-gewinnt-dritte-etappe-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/media-markt-und-saturn-bekommen-chinesischen-eigentuemer-102.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-nach-israel-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-waere-es-in-der-csu-mit-nachdenken-statt-bierzelt-110613296.html",
-    "https://www.faz.net/aktuell/politik/inland/der-hauptgeschaeftsfuehrer-des-landkreistag-hans-guenter-henneke-zur-finanznot-der-kommunen-110614485.html"
+    "https://www.faz.net/aktuell/politik/inland/der-hauptgeschaeftsfuehrer-des-landkreistag-hans-guenter-henneke-zur-finanznot-der-kommunen-110614485.html",
+    "https://www.deutschlandfunk.de/brief-aus-kulturbranche-an-merz-lassen-sie-gaza-nicht-sterben-100.html",
+    "https://www.deutschlandfunk.de/neue-us-sanktionen-gegen-irans-oelgeschaefte-100.html"
   ],
   "content_hashes": [
-    "ae9769405f24cdb56a1a934ae21079d9",
-    "f8ed10eb57b7cd2d48857d2a0471ab96",
     "9aac4c6af87f3e15f2ea2d3bf53cf63e",
     "5e45c04145fb3595535a21daf25533ad",
     "14a30864b48bae03cb13980dc63a5e1f",
@@ -2001,11 +1999,11 @@
     "83972e5091e0f7fd1cb30f9406b5251f",
     "da50fa2c7f68a19f0d61fa6bdc59640b",
     "5419fbd5cf4e8a6183eca893453ae8de",
-    "7000bc864cbbd79942f5448df9032081"
+    "7000bc864cbbd79942f5448df9032081",
+    "94d8cc8428e750e921b9bea43cee4914",
+    "bfea3b47759a73060865e000cead4e2c"
   ],
   "titles": [
-    "„Wissenschaft im Brennpunkt“ empfiehlt - Podcast Dark Agent: Folge 1 - Hackergrüße nach Moskau",
-    "Neue Strategie der AfD: Ganz die Alten, aber anders",
     "Eurogruppe - Vorsitzender Donohoe für dritte Amtszeit bestätigt",
     "„Außenpolitischer Kanzler“: Die Linien des Friedrich Merz",
     "Tour de France - Tim Merlier (Belgien) gewinnt dritte Etappe",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Media-Markt und Saturn bekommen chinesischen Eigentümer",
     "Gaza-Krieg - Außenminister Wadephul reist nach Israel",
     "Bayerische Politik: Die Klischees der CSU",
-    "Notlage der Kommunen: „Es geht ungehemmt weiter bergab“"
+    "Notlage der Kommunen: „Es geht ungehemmt weiter bergab“",
+    "Nahost - Brief aus Kulturbranche an Merz: \"Lassen Sie Gaza nicht sterben\"",
+    "Nahost - Neue US-Sanktionen gegen Irans Ölgeschäfte"
   ],
   "hashes": [
-    "4a35fb9b864fca0597c1505652bc7d24",
-    "b0322647ca87d97f123afa3707a1adf7",
     "e64ca49c316c2ed11e54691428f40ae5",
     "69ebc9793e429c3489c458372afd5cc9",
     "7bd63792e86c54509ea4f82859741bb8",
@@ -4005,6 +4003,8 @@
     "e5bb280797327a18732ad81163750e26",
     "83f1394dbabbc62ee5adeb7172f66616",
     "1c97d2273590e430b822e9349795e387",
-    "e7feafa0333abe13c8a187ce070a1f41"
+    "e7feafa0333abe13c8a187ce070a1f41",
+    "9ae0dfa4e8ef69a23f7fa97aa30aef9e",
+    "034ba7700137a2db3250b48c8141ad28"
   ]
 }
