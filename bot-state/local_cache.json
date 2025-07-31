@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/debatte-ueber-entwurf-fuer-haushaltsgesetz-100.html",
-    "https://www.deutschlandfunk.de/parlament-befragt-sonderermittlerin-sudhof-100.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-weist-vorwuerfe-aus-misstrauensantrag-zurueck-104.html",
     "https://www.deutschlandfunk.de/steinmeier-trifft-praesident-rinkevics-und-ministerpraesidentin-silina-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-wahlausschuss-nominiert-richterkandidaten-brosius-gersdorf-benannt-110579785.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hilfsorganisationen-fordern-krisengipfel-im-kanzleramt-100.html",
     "https://www.deutschlandfunk.de/mehr-verletzte-und-tote-bei-unfaellen-mit-e-scootern-102.html",
     "https://www.deutschlandfunk.de/deutsche-arbeitslosenzahl-steigt-im-juli-auf-2-979-millionen-100.html",
-    "https://www.deutschlandfunk.de/bgh-keine-vorher-nachher-werbung-fuer-hyaluron-spritzung-102.html"
+    "https://www.deutschlandfunk.de/bgh-keine-vorher-nachher-werbung-fuer-hyaluron-spritzung-102.html",
+    "https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei-a-c7be5416-a4f5-499a-b51f-703eab5121b8#ref=rss",
+    "https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss"
   ],
   "content_hashes": [
-    "aa0cecf6ec0eb180c26253db4cbc8535",
-    "b10f63fea7a54eed7b411ca26f7f71da",
     "d7aa85a903a16f26ec307b0508789526",
     "ae1ee0c2d8f20bd503ab1550683c57b0",
     "8999dc3f35d59ce07d0f359100a9b32a",
@@ -2001,11 +1999,11 @@
     "98f7d6c81dd23434a1b3e857eea2d98c",
     "d1e7e5e8155f971776a1f2546dc2dd8e",
     "58f96dfbfc209ab4fc82343f9dfd1d78",
-    "e59c98befecd7c5afe1eaa88409b28ab"
+    "e59c98befecd7c5afe1eaa88409b28ab",
+    "d872b7820be739bf3b0c919e180d5300",
+    "18919d8e1ec36441a504c17db2e0fd44"
   ],
   "titles": [
-    "Bundestag - Debatte über Entwurf für Haushaltsgesetz",
-    "Masken-Affäre - Parlament befragt Sonderermittlerin Sudhof",
     "Europaparlament - EU-Kommissionspräsidentin von der Leyen weist Vorwürfe aus Misstrauensantrag zurück",
     "Lettland-Besuch - Steinmeier trifft Präsident Rinkevics und Ministerpräsidentin Silina",
     "Wahlausschuss nominiert Richterkandidaten – Brosius-Gersdorf benannt",
@@ -3003,11 +3001,11 @@
     "Lage in Gaza - Hilfsorganisationen fordern Krisengipfel im Kanzleramt",
     "Verkehr - Mehr Verletzte und Tote bei Unfällen mit E-Scootern",
     "Wirtschaft - Deutsche Arbeitslosenzahl steigt im Juli auf 2,979 Millionen",
-    "Schönheitsbehandlungen - BGH: Keine Vorher-Nachher-Werbung für Hyaluron-Spritzung"
+    "Schönheitsbehandlungen - BGH: Keine Vorher-Nachher-Werbung für Hyaluron-Spritzung",
+    "Autobahn: Haushaltsausschuss gibt eine Milliarde Euro für Sanierungen frei",
+    "Sommerferien-Debatte: Kultusminister kritisiert späten Start in Bayern und Baden-Württemberg"
   ],
   "hashes": [
-    "f474cb8ac6bd573d766155e5dcfaca04",
-    "ed1ba217284e72d762eb8fd86ad4dc07",
     "be84f3cf9aca7294529035cedf54001a",
     "4f798b926680672f7a33bde58762a67d",
     "8ca936b36bafed30e528c50ad45e0148",
@@ -4005,6 +4003,8 @@
     "6d334b07e7e50ab9ce6d69d4b490c331",
     "8b3586fdd1de4a134be4465696a8a71f",
     "b14a62aae5163277d102de6ada52653d",
-    "44323375634a42e7de95c92ea8103cda"
+    "44323375634a42e7de95c92ea8103cda",
+    "e4d8bf32989403d71c623dfdabee36ca",
+    "2604411225358192fc5181e3d753fe29"
   ]
 }
