@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vorsitzender-donohoe-fuer-dritte-amtszeit-bestaetigt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/aussenpolitischer-kanzler-merz-muss-auch-im-innern-fuehren-110574958.html",
-    "https://www.deutschlandfunk.de/tim-merlier-belgien-gewinnt-dritte-etappe-104.html",
-    "https://www.deutschlandfunk.de/eu-kommission-bemaengelt-schlechten-zustand-von-deutschlands-oekosystemen-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-25-prozent-zoelle-fuer-japan-und-suedkorea-ab-1-august-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-hohe-importzoelle-gegen-verschiedene-laender-in-asien-und-afrika-ab-1-august-100.html",
     "https://www.deutschlandfunk.de/klage-gegen-franzoesischen-ex-premier-abgewiesen-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/wie-waere-es-in-der-csu-mit-nachdenken-statt-bierzelt-110613296.html",
     "https://www.faz.net/aktuell/politik/inland/der-hauptgeschaeftsfuehrer-des-landkreistag-hans-guenter-henneke-zur-finanznot-der-kommunen-110614485.html",
     "https://www.deutschlandfunk.de/brief-aus-kulturbranche-an-merz-lassen-sie-gaza-nicht-sterben-100.html",
-    "https://www.deutschlandfunk.de/neue-us-sanktionen-gegen-irans-oelgeschaefte-100.html"
+    "https://www.deutschlandfunk.de/neue-us-sanktionen-gegen-irans-oelgeschaefte-100.html",
+    "https://www.deutschlandfunk.de/frueherer-israelischer-botschafter-stein-netanjahus-politik-ist-gescheitert-militaereinsatz-im-gazas-102.html",
+    "https://www.deutschlandfunk.de/rehlinger-brauchen-zusaetzliches-abkommen-fuer-stahl-und-aluminium-zwischen-eu-und-usa-102.html",
+    "https://www.deutschlandfunk.de/gewinneinbruch-bei-bmw-102.html",
+    "https://www.deutschlandfunk.de/haushaltsentwurf-und-wirtschaftslage-interview-mit-martin-beznoska-iw-koeln-104.html"
   ],
   "content_hashes": [
-    "9aac4c6af87f3e15f2ea2d3bf53cf63e",
-    "5e45c04145fb3595535a21daf25533ad",
-    "14a30864b48bae03cb13980dc63a5e1f",
-    "bee945dd386c4f06d6861e883166f4b6",
     "f250e9654d1bc785423446cf37cac928",
     "b62fb9e1bf690b0fae17c30a1cd9986d",
     "c4581411f7cf8e8f4005053a0952f266",
@@ -2001,13 +1997,13 @@
     "5419fbd5cf4e8a6183eca893453ae8de",
     "7000bc864cbbd79942f5448df9032081",
     "94d8cc8428e750e921b9bea43cee4914",
-    "bfea3b47759a73060865e000cead4e2c"
+    "bfea3b47759a73060865e000cead4e2c",
+    "4a02159ddcc5c0f09c5188370cf46c58",
+    "27ce22b8fbc56d97ed51514c659225e0",
+    "4799bb376c098b4c9b1d31c5d8429713",
+    "81fc014774811860d3809e42f83c9187"
   ],
   "titles": [
-    "Eurogruppe - Vorsitzender Donohoe für dritte Amtszeit bestätigt",
-    "„Außenpolitischer Kanzler“: Die Linien des Friedrich Merz",
-    "Tour de France - Tim Merlier (Belgien) gewinnt dritte Etappe",
-    "Umweltpolitik - EU-Kommission bemängelt schlechten Zustand von Deutschlands Ökosystemen",
     "Handelsstreit - US-Präsident Trump: 25 Prozent Zölle für Japan und Südkorea ab 1. August",
     "Handelsstreit - US-Präsident Trump: hohe Importzölle gegen verschiedene Länder in Asien und Afrika ab 1. August",
     "Corona-Pandemie - Klage gegen französischen Ex-Premier abgewiesen",
@@ -3003,13 +2999,13 @@
     "Bayerische Politik: Die Klischees der CSU",
     "Notlage der Kommunen: „Es geht ungehemmt weiter bergab“",
     "Nahost - Brief aus Kulturbranche an Merz: \"Lassen Sie Gaza nicht sterben\"",
-    "Nahost - Neue US-Sanktionen gegen Irans Ölgeschäfte"
+    "Nahost - Neue US-Sanktionen gegen Irans Ölgeschäfte",
+    "Nahost - Früherer israelischer Botschafter Stein: \"Netanjahus Politik ist gescheitert\" - Militäreinsatz im Gazastreifen \"ohne Strategie\"",
+    "Handel - Rehlinger: \"Brauchen zusätzliches Abkommen für Stahl und Aluminium zwischen EU und USA\"",
+    "Autobranche - Gewinneinbruch bei BMW",
+    "Bundeshaushalt 2026 - Ökonom mahnt Sparkurs bei Subventionen und Sozialausgaben an"
   ],
   "hashes": [
-    "e64ca49c316c2ed11e54691428f40ae5",
-    "69ebc9793e429c3489c458372afd5cc9",
-    "7bd63792e86c54509ea4f82859741bb8",
-    "083c662afa06bf0ffe568e6880297a2a",
     "344a27b1a5ceab8fc627a1ff6753498f",
     "4debd1d150a6f03d942fe15d3fdedeb3",
     "3292249a9b267a40607ec55e575662c5",
@@ -4005,6 +4001,10 @@
     "1c97d2273590e430b822e9349795e387",
     "e7feafa0333abe13c8a187ce070a1f41",
     "9ae0dfa4e8ef69a23f7fa97aa30aef9e",
-    "034ba7700137a2db3250b48c8141ad28"
+    "034ba7700137a2db3250b48c8141ad28",
+    "77431eb5baf42eef02cf4276b7fa087d",
+    "ad72ea9bcaf59f4e9dd02f26fcb00a31",
+    "cd84bfbee1f96b47cec609334e623a1f",
+    "a524d64fe4ceb3879d24e02319e5dbb4"
   ]
 }
