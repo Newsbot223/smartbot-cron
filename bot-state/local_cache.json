@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gericht-bundesregierung-muss-afghanen-visa-erteilen-100.html",
-    "https://www.deutschlandfunk.de/palaestinenser-melden-18-tote-bei-israelischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/italienische-polizei-hebt-internationale-schleuserbande-aus-100.html",
     "https://www.faz.net/aktuell/politik/inland/auswaertiges-amt-chinesischer-laserangriff-auf-deutsches-flugzeug-110580110.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-bundeswehr-flugzeug-von-china-per-laser-ins-visier-genommen-chinesischer-botschafte-100.html",
     "https://www.deutschlandfunk.de/klingbeil-sieht-zeichen-fuer-wirtschaftliche-erholung-102.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss",
     "https://www.aljazeera.com/video/head-to-head/2025/7/31/trump-epstein-and-immigration-raids-mehdi-hasan-and-mick-mulvaney?traffic_source=rss",
     "https://www.deutschlandfunk.de/tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-110.html",
-    "https://www.deutschlandfunk.de/verluste-bei-der-bahn-interview-dirk-flege-allianz-pro-schiene-100.html"
+    "https://www.deutschlandfunk.de/verluste-bei-der-bahn-interview-dirk-flege-allianz-pro-schiene-100.html",
+    "https://www.deutschlandfunk.de/aerzte-dringen-auf-hoehere-impfquoten-100.html",
+    "https://www.deutschlandfunk.de/verbraucherpreise-bleiben-stabil-bei-2-0-prozent-100.html",
+    "https://www.faz.net/aktuell/politik/inland/duesseldorf-nach-duisburg-staatsschutz-ermittelt-nach-brand-an-bahnstrecke-110616209.html"
   ],
   "content_hashes": [
-    "d5007333dbfc3f95c1cb9385200dac8c",
-    "0b72ee30f66b08dfa75c8ba8f0371552",
-    "ded489792960589c531df1b0f1bd25e8",
     "2e0ba1d967e447c097f93ac418fd5f7a",
     "9654ca59d972fc4f5517564d5100511f",
     "bc7c23d578ebce3774ab4cc7c0cf1bdb",
@@ -2001,12 +1998,12 @@
     "a9676b948dabc7e3501c0f641e797350",
     "bd943eba0c88352df1eef4993daf534a",
     "aced517529fea015c8b0b42eba9c1ada",
-    "0c3e59381346e977c4d61960b8711698"
+    "0c3e59381346e977c4d61960b8711698",
+    "bca0730de08c1ed4db1b07d0a7d4e6df",
+    "323b2f157310b2bce2891e6468926c51",
+    "52567815db517161e38e0b689b5bbff9"
   ],
   "titles": [
-    "Aufnahmeprogramm - Gericht: Bundesregierung muss Afghanen Visa erteilen",
-    "Nahost - Palästinenser melden 18 Tote bei israelischen Angriffen",
-    "Kalabrien - Italienische Polizei hebt internationale Schleuserbande aus",
     "Auswärtiges Amt: Chinesischer Laserangriff auf deutsches Flugzeug",
     "EU-Mission Aspides - Auswärtiges Amt: Bundeswehr-Flugzeug von China per Laser ins Visier genommen - chinesischer Botschafter einbestellt",
     "Haushaltsdebatte - Klingbeil sieht Zeichen für wirtschaftliche Erholung",
@@ -3003,12 +3000,12 @@
     "Israel: Johann Wadephul verlangt für Hilfsorganisationen sicheren Zugang nach Gaza",
     "Trump, Epstein and immigration raids: Mehdi Hasan and Mick Mulvaney",
     "Ukraine-Krieg - Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
-    "DB-Bilanz - Unpünktliche Züge, gutes Personal"
+    "DB-Bilanz - Unpünktliche Züge, gutes Personal",
+    "Gesundheit - Ärzte dringen auf höhere Impfquoten",
+    "Inflation - Verbraucherpreise bleiben stabil bei 2,0 Prozent",
+    "Düsseldorf – Duisburg: Staatsschutz ermittelt nach Brand an Bahnstrecke in NRW"
   ],
   "hashes": [
-    "742a8ed203843852b29494a8f527f081",
-    "52a91eaaa4bd44a6f8ea99a6501237c4",
-    "1008328352da73e772893b078af5943b",
     "02d61fa2f35b85ac194219f84d632299",
     "a1c786a0bf9fc5f07d9f4f5edbfb4946",
     "4a7cf2bf56e1cb32d00dfcdb6f9d7fed",
@@ -4005,6 +4002,9 @@
     "5b324703d5040c84ebc48f2cfb8e2722",
     "325361fd4b348540a27426c6cefcdae8",
     "d3a28ce2c63bb77d86f40eca29bddc7d",
-    "c17a308ec89c776b50f6aad8056c7909"
+    "c17a308ec89c776b50f6aad8056c7909",
+    "1492dde077acc9eedbb2894db17369ed",
+    "ba985d93c27e71396cba16e6f1aea2a7",
+    "6ab486b482651491d978a4ec2fbc7c17"
   ]
 }
