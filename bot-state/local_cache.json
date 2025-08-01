@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/hinter-den-kulissen-im-bundestag-110575110.html",
-    "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-wegen-verdachts-auf-islamistischer-anschlagsplanu-102.html",
-    "https://www.deutschlandfunk.de/taiwan-startet-grosse-militaeruebung-zur-abwehr-einer-moeglichen-chinesischen-invasion-100.html",
     "https://www.deutschlandfunk.de/haushaltberatungen-gehen-mit-generaldebatte-weiter-spd-fraktionsvorsitzende-esdar-muessen-land-fit-f-102.html",
     "https://www.deutschlandfunk.de/bitkom-bedeutung-sozialer-medien-als-verkaufsplattformen-waechst-100.html",
     "https://www.deutschlandfunk.de/vda-praesidentin-mueller-hofft-auf-zuegige-und-pragmatische-loesung-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/palantir-fuer-die-polizei-wunderwaffe-oder-totale-ueberwachung-110619071.html",
     "https://www.faz.net/aktuell/politik/ausland/eugh-urteil-zum-asylrecht-ein-ordnungsruf-gegen-meloni-110618723.html",
     "https://www.deutschlandfunk.de/innenministerium-will-vermerk-fuer-einstufung-der-afd-als-gesichert-rechtsextrem-veroeffentlichen-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-wegen-aeusserst-provokanten-aeusserungen-verlegung-von-atom-u-booten-an-100.html"
+    "https://www.deutschlandfunk.de/trump-kuendigt-wegen-aeusserst-provokanten-aeusserungen-verlegung-von-atom-u-booten-an-100.html",
+    "https://www.deutschlandfunk.de/ex-minister-und-weitere-beschuldigte-wegen-einsturz-des-bahnhofsvordachs-in-novi-sad-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/maeva-squiban-gewinnt-auch-zweite-etappe-102.html",
+    "https://www.deutschlandfunk.de/arbeiter-stossen-bei-strassenbau-auf-mehr-als-1-000-jahre-alte-mumie-102.html"
   ],
   "content_hashes": [
-    "de1460bb7c960faebb3a62f771a8e46b",
-    "7a7c39b7b2bf37d006c4c90de5706d37",
-    "246765b7b366cbf76260308ef2a992da",
     "4dc699f7d2dafa20ea0bebd1c4910488",
     "51e7bfd24273f07ae6be5fe15951b83a",
     "df7c5933a939f3a5d5db315b24a0dd4d",
@@ -2001,12 +1998,12 @@
     "fff7f052ddf82286ce0b9e721292f535",
     "662e0e3271740600c62648082864c478",
     "5916d2e8cd1fa61646436d11256774ed",
-    "6e38997fe799518a0612b1ed021bff32"
+    "6e38997fe799518a0612b1ed021bff32",
+    "f44a4574c645b313a73687c3245bf8eb",
+    "87b05165179365a73f59e25e5b4eb2b9",
+    "84798aa5327ebe984a559be40da2219c"
   ],
   "titles": [
-    "Hinter den Kulissen. Backstage Bundestag",
-    "Terrorismus - Razzia in mehreren Städten in Nordrhein-Westfalen wegen Verdachts auf islamistischer Anschlagsplanung",
-    "Erstmals mit gesamter Bevölkerung - Taiwan startet große Militärübung zur Abwehr einer möglichen chinesischen Invasion",
     "Bundestag - Haushaltberatungen gehen mit Generaldebatte weiter - SPD-Fraktionsvorsitzende Esdar: \"Müssen Land fit für Zukunft machen\"",
     "Online-Handel - Bitkom: Bedeutung Sozialer Medien als Verkaufsplattformen wächst",
     "Zollstreit mit den USA - VDA-Präsidentin Müller hofft auf zügige und pragmatische Lösung",
@@ -3003,12 +3000,12 @@
     "F.A.Z. Podcast für Deutschland: Palantir für die Polizei: „Wunderwaffe\" oder totale Überwachung?",
     "EuGH-Urteil zum Asylrecht: Ein Ordnungsruf gegen Meloni",
     "Brandenburg - Innenministerium will Vermerk für Einstufung der AfD als gesichert rechtsextrem veröffentlichen",
-    "Nach Streit mit Medwedew - Trump kündigt wegen \"äußerst provokanten\" Äußerungen Verlegung von Atom-U-Booten an"
+    "Nach Streit mit Medwedew - Trump kündigt wegen \"äußerst provokanten\" Äußerungen Verlegung von Atom-U-Booten an",
+    "Serbien - Ex-Minister und weitere Beschuldigte wegen Einsturz des Bahnhofsvordachs in Novi Sad festgenommen",
+    "Tour de France Femmes - Maeva Squiban gewinnt auch zweite Etappe",
+    "Peru - Arbeiter stoßen bei Straßenbau auf mehr als 1.000 Jahre alte Mumie"
   ],
   "hashes": [
-    "adb9ca4f9937b7907d63c85cab28c44a",
-    "efd4f9916ebed029e9a8f1ba7dddd103",
-    "8a8ea85a47c47a86a44cf1ef55dee672",
     "9ef2c4cb0e7e6749ee68f37ef632e0b3",
     "407e07bf46e53e9bb1868768c9cf23b1",
     "a3e51d8c5436bc36db9889371224487b",
@@ -4005,6 +4002,9 @@
     "095f3aff62ee1919787c97df3637fd81",
     "1d548ece0c7ac036cc4614da05401b01",
     "a95d5481f43a353bb8762a9131dc8f3f",
-    "b04e8b557f63f99d14702b931cc2d9b5"
+    "b04e8b557f63f99d14702b931cc2d9b5",
+    "90bf8ba7f27512c83700186a137530b7",
+    "8af4b7da6a88c14f45580b7060c35210",
+    "93a8f8f2c02b54a1b553a1805383a720"
   ]
 }
