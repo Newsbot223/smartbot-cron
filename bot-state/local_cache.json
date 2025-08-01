@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haushalt-2025-vor-der-generaldebatte-100.html",
-    "https://www.spiegel.de/politik/deutschland/auswaertiges-amt-minister-johann-wadephul-kritisiert-chinesischen-laserangriff-scharf-a-90b7132b-8059-4214-9d87-ce2ea005915f#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-generaldebatte-im-bundestag-110581807.html",
     "https://www.deutschlandfunk.de/ukraine-meldet-schwerste-russische-luftangriffe-seit-kriegsbeginn-100.html",
     "https://www.deutschlandfunk.de/pkk-chef-oecalan-kuendigt-rasche-selbstentwaffnung-seiner-kaempfer-an-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-bis-30-april-gesperrt-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-fordert-verbesserung-der-humanitaeren-lage-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/von-heute-an-wieder-planmaessiger-verkehr-nach-brandanschlag-auf-bahnstrecke-duesseldorf-duisburg-102.html",
-    "https://www.deutschlandfunk.de/ex-praesident-uribe-zu-zwoelf-jahren-hausarrest-verurteilt-102.html"
+    "https://www.deutschlandfunk.de/ex-praesident-uribe-zu-zwoelf-jahren-hausarrest-verurteilt-102.html",
+    "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-skeptisch-102.html",
+    "https://www.deutschlandfunk.de/schwache-arbeitsmarktzahlen-trump-laesst-statistikchefin-feuern-100.html"
   ],
   "content_hashes": [
-    "ceec3ceceace9d1ac98f8b821815a050",
-    "9a0c51265c61a868515fc572f1c94b25",
     "87e237b059a1c36f3641cef9d9b3a679",
     "98a742c4e188f4a9d3a831743eafaded",
     "8bb67a1cc15cba82ed416c5b4b1b439e",
@@ -2001,11 +1999,11 @@
     "7477bf0bd8502d9b31998a83c28a23c3",
     "d447698fdde0dffb240f1d417d9e1b41",
     "2a8a803eef89306f2343a4d34dbacce8",
-    "967b1a7a92f987f31e3660bb23a355b4"
+    "967b1a7a92f987f31e3660bb23a355b4",
+    "8ec57c4ae723ca670dd9f989035a38f5",
+    "812e58798799f71f9b8d1ecb18bf8271"
   ],
   "titles": [
-    "Generaldebatte im Bundestag - Milliardenausgaben und Wortbrüche",
-    "Auswärtiges Amt: Minister Johann Wadephul kritisiert chinesischen Laserangriff scharf",
     "Was sagt Alice Weidel zum Haushalt der Bundesregierung?",
     "Ukraine-Krieg - Ukraine meldet schwerste russische Luftangriffe seit Kriegsbeginn",
     "Türkei - PKK-Chef Öcalan kündigt \"rasche\" Selbstentwaffnung seiner Kämpfer an",
@@ -3003,11 +3001,11 @@
     "Bahn - Strecke zwischen Hamburg und Berlin bis 30. April gesperrt",
     "Nach Nahost-Besuch - Bundesaußenminister Wadephul fordert Verbesserung der humanitären Lage im Gazastreifen",
     "Nordrhein-Westfalen - Von heute an wieder planmäßiger Verkehr nach Brandanschlag auf Bahnstrecke Düsseldorf-Duisburg",
-    "Kolumbien - Ex-Präsident Uribe zu zwölf Jahren Hausarrest verurteilt"
+    "Kolumbien - Ex-Präsident Uribe zu zwölf Jahren Hausarrest verurteilt",
+    "Analyse-Software von Palantir - Justizministerin Hubig sieht Einsatz skeptisch",
+    "USA - Schwache Arbeitsmarktzahlen: Trump lässt Statistikchefin feuern"
   ],
   "hashes": [
-    "d5c09857949f468590550bfb7f4f9286",
-    "9e56777b727ff7fd7bbc78bdb11b5298",
     "cecf9c1ff0a19608ae396fc1b8d73fad",
     "3137d2295b341f276131035e49fd76ce",
     "826efffcb8f45f3c5b12fab81001171d",
@@ -4005,6 +4003,8 @@
     "a31977d3bf4c7ec3f18d090d1445282b",
     "84a63f107da0c244cde3fc86a67f407f",
     "6e8ed449b0e6f1aa23a97c0cbc311d24",
-    "733ad73434d2956e53e4f61ccf41099b"
+    "733ad73434d2956e53e4f61ccf41099b",
+    "e70ca960f6e5bc218f14a1a55c74645d",
+    "dd544168e2b84f65eca2a6a241b5e895"
   ]
 }
