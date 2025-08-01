@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-gespraeche-mit-usa-ueber-luftverteidigung-werden-intensiviert-trump-erwaegt-laut-wsj-patri-100.html",
-    "https://www.deutschlandfunk.de/trump-zu-zollkonflikt-heute-bekanntgaben-zu-weiteren-staaten-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-gegen-digitalsteuer-100.html",
     "https://www.deutschlandfunk.de/nach-chinas-lasereinsatz-gegen-deutsches-flugzeug-aussenminister-wadephul-mehr-als-irritiert-104.html",
     "https://www.deutschlandfunk.de/russische-angriffe-auch-im-westen-der-ukraine-polen-loest-alarmstart-von-flugzeugen-zur-sicherung-de-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-digitale-als-gedruckte-bibeln-verbreitet-100.html",
     "https://www.spiegel.de/ausland/ukraine-patriot-systeme-deutschland-liefert-zwei-weitere-patriot-systeme-an-die-ukraine-a-73738f42-9c3a-4ae9-b740-1763d0b0db74#ref=rss",
     "https://www.deutschlandfunk.de/vizepraesident-faber-gegen-anerkennung-von-palaestinenserstaat-100.html",
-    "https://www.deutschlandfunk.de/massenhaftes-beichten-im-roemischen-circus-maximus-102.html"
+    "https://www.deutschlandfunk.de/massenhaftes-beichten-im-roemischen-circus-maximus-102.html",
+    "https://www.deutschlandfunk.de/inflation-im-euroraum-im-juli-stabil-bei-2-prozent-102.html",
+    "https://www.spiegel.de/politik/deutschland/erhebung-zur-lage-ungewollt-schwangerer-gruene-und-linke-draengen-auf-studien-veroeffentlichung-a-adff614c-a706-4635-9403-687eb4e1b361#ref=rss"
   ],
   "content_hashes": [
-    "2dff572cc6cf89456dc848d3a4146304",
-    "920f54f2bd2e67f6a3bf9bfe0c64fedc",
     "777c688cdfd7a3a86b4926629f257c52",
     "8316329c27dbf6be070e21f9ab2c5c21",
     "89feccdbb9d8e05fa2ca08ea9a0a9357",
@@ -2001,11 +1999,11 @@
     "dc70479dd8bcd4b5d314d753d7f006a8",
     "0257962628d08c7a138775d05e0baa8a",
     "d1bc5ec3f93f162c453323384ca06b3d",
-    "0d8d0f2f5e2aa4b4b14da4aeb3478b53"
+    "0d8d0f2f5e2aa4b4b14da4aeb3478b53",
+    "48b06e526e66283f052cad60cb900c12",
+    "b01c153d28802c4f026931237cdb734d"
   ],
   "titles": [
-    "Ukraine-Krieg - Selenskyj: Gespräche mit USA über Luftverteidigung werden intensiviert - Trump erwägt laut WSJ Patriot-Lieferung an Kiew",
-    "Handel - Trump zu Zollkonflikt: Heute Bekanntgaben zu weiteren Staaten",
     "Nach Weimer-Vorschlag - Bundeswirtschaftsministerin Reiche gegen Digitalsteuer",
     "Vorfall - Nach Chinas Lasereinsatz gegen deutsches Flugzeug: Außenminister Wadephul \"mehr als irritiert\"",
     "Raketen und Drohnen - Russische Angriffe auch im Westen der Ukraine - Polen löst Alarmstart von Flugzeugen zur Sicherung des Luftraums aus",
@@ -3003,11 +3001,11 @@
     "Religion - Weltweit erstmals mehr digitale als gedruckte Bibeln verbreitet",
     "Ukraine: Patriot-Systeme - Deutschland liefert zwei weitere Patriot-Systeme an die Ukraine",
     "Deutsch-israelische Gesellschaft - Vizepräsident Faber gegen Anerkennung von Palästinenserstaat",
-    "Katholisches Weltjugendtreffen - Massenhaftes Beichten im römischen Circus Maximus"
+    "Katholisches Weltjugendtreffen - Massenhaftes Beichten im römischen Circus Maximus",
+    "Teuerungsrate - Inflation im Euroraum im Juli stabil bei 2 Prozent",
+    "Erhebung zur Lage ungewollt Schwangerer: Grüne und Linke drängen auf Studien-Veröffentlichung"
   ],
   "hashes": [
-    "76d3f433ed8a40cb8b79525d6bbdc398",
-    "70a040586d3662a3c80deaaf173cc13d",
     "fba537216ef34ee034b08159b6dd37f2",
     "3d12f94a4aff22cf27355d11ca4cbc3c",
     "c8503116343ee59f1eff6c4be818185f",
@@ -4005,6 +4003,8 @@
     "3d3fa8761d166691dc4851dce2178e91",
     "d18503db64d1649ce4e84b4c23e8e6e1",
     "0a45511707332b4b5839a14e0b7e0036",
-    "1d91522b5775cb52be7636fac6faa1e3"
+    "1d91522b5775cb52be7636fac6faa1e3",
+    "0a669bc3bc06426c9c5e5f17278d6294",
+    "083f83a201f1cc0c0db224edcf8150c9"
   ]
 }
