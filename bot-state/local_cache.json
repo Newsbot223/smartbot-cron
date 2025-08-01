@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oberstes-us-gericht-macht-weg-fuer-massenentlassungen-bei-behoerden-frei-100.html",
-    "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/terrorverdacht-beschuldigter-kommt-vor-ermittlungsrichter-110581734.html",
-    "https://www.deutschlandfunk.de/frankreichs-praesident-macron-spricht-vor-dem-britischen-parlament-102.html",
     "https://www.deutschlandfunk.de/steinmeier-beendet-reise-durch-litauen-und-lettland-100.html",
     "https://www.spiegel.de/wirtschaft/deutsche-haben-die-meisten-sorgen-um-ihre-finanzielle-zukunft-a-4ea6ef3b-9b6a-4783-8841-4e0d5064844b#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/hinter-den-kulissen-im-bundestag-110575110.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/analyse-der-fdp-wir-haben-die-erwartungen-vieler-buerger-enttaeuscht-110617938.html",
     "https://www.deutschlandfunk.de/laut-uno-mehr-als-1-300-menschen-beim-warten-auf-hilfe-getoetet-102.html",
     "https://www.deutschlandfunk.de/millionenstrafe-gegen-armani-unternehmen-100.html",
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/palantir-fuer-die-die-polizei-wunderwaffe-oder-totale-ueberwachung-110619071.html"
+    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/palantir-fuer-die-die-polizei-wunderwaffe-oder-totale-ueberwachung-110619071.html",
+    "https://www.deutschlandfunk.de/italien-will-kranke-kinder-aus-gazastreifen-evakuieren-100.html",
+    "https://www.deutschlandfunk.de/brandanschlag-auf-bahnstrecke-duesseldorf-duisburg-ab-morgen-wieder-planmaessiger-verkehr-100.html",
+    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/palantir-fuer-die-polizei-wunderwaffe-oder-totale-ueberwachung-110619071.html",
+    "https://www.faz.net/aktuell/politik/ausland/eugh-urteil-zum-asylrecht-ein-ordnungsruf-gegen-meloni-110618723.html"
   ],
   "content_hashes": [
-    "7cf56bc1c00c8259186e27474f788660",
-    "cf54390659445f3d9f254c0819e7321e",
-    "881b558a14999cdbac710bb6f3cff681",
-    "4977b769b3558392fc8fceb29d74874c",
     "2e002ffe1931b655bee99d17afa0f14c",
     "95423edd61bcb8967c1dc494abab8054",
     "de1460bb7c960faebb3a62f771a8e46b",
@@ -2001,13 +1997,13 @@
     "97f1021d17d84fbc9d12f482147f09f8",
     "9c0552e48a4e410dc0d24de8c0562bf2",
     "dbb94b18d637f637cd1d3baf903c43a7",
-    "b173635b459a873346e00852893fc3dd"
+    "b173635b459a873346e00852893fc3dd",
+    "afc90ca8b813305852560fe6d2112d57",
+    "e5218ecf33691bfcc639b3ac1e240359",
+    "fff7f052ddf82286ce0b9e721292f535",
+    "662e0e3271740600c62648082864c478"
   ],
   "titles": [
-    "USA - Oberstes US-Gericht macht Weg für Massenentlassungen bei Behörden frei",
-    "Terrorismusverdacht - Razzia in mehreren Städten in Nordrhein-Westfalen",
-    "Terrorverdacht: Beschuldigter kommt vor Ermittlungsrichter",
-    "Staatsbesuch - Frankreichs Präsident Macron spricht vor dem britischen Parlament",
     "Besuch im Baltikum - Bundespräsident Steinmeier wirbt für mehr Rüstungsinvestitionen",
     "Deutsche haben die meisten Sorgen um ihre finanzielle Zukunft",
     "Hinter den Kulissen. Backstage Bundestag",
@@ -3003,13 +2999,13 @@
     "Analyse der FDP: „Wir haben die Erwartungen vieler Bürger enttäuscht“",
     "Gazastreifen - Laut UNO mehr als 1.300 Menschen beim Warten auf Hilfe getötet",
     "Italien - Millionenstrafe gegen Armani-Unternehmen",
-    "F.A.Z. Podcast für Deutschland: Palantir für die die Polizei: „Wunderwaffe\" oder totale Überwachung?"
+    "F.A.Z. Podcast für Deutschland: Palantir für die die Polizei: „Wunderwaffe\" oder totale Überwachung?",
+    "Krieg im Nahen Osten - Italien will kranke Kinder aus Gazastreifen evakuieren",
+    "Nordrhein-Westfalen - Brandanschlag auf Bahnstrecke Düsseldorf-Duisburg: Ab morgen wieder planmäßiger Verkehr",
+    "F.A.Z. Podcast für Deutschland: Palantir für die Polizei: „Wunderwaffe\" oder totale Überwachung?",
+    "EuGH-Urteil zum Asylrecht: Ein Ordnungsruf gegen Meloni"
   ],
   "hashes": [
-    "32a6d2fd2a9d9635058e95f29a87d9f7",
-    "7cb36146eb0c362afd04bdca82eb6de7",
-    "68d86826ea1cd699e3765ba9d2595049",
-    "f6a051c2337b275322662e0d6c9b47f3",
     "21b55853340dc7e7d604776b24fc9a70",
     "a43a6f58c88469be65ea77be9bb23a61",
     "adb9ca4f9937b7907d63c85cab28c44a",
@@ -4005,6 +4001,10 @@
     "9cd2cae69b6f336ac563e0ccb14322d7",
     "4b6b0c49f2f878b31232274adea58227",
     "5c290d2e1ba5d6cc7ab5bdb067478dae",
-    "550763b7ac373409a9ca469e71650f56"
+    "550763b7ac373409a9ca469e71650f56",
+    "6d7682aa3908bba8dc63e9c37f885590",
+    "520a6ec1973b24dc78519f9d2d8eb3b4",
+    "095f3aff62ee1919787c97df3637fd81",
+    "1d548ece0c7ac036cc4614da05401b01"
   ]
 }
