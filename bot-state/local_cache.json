@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bitkom-bedeutung-sozialer-medien-als-verkaufsplattformen-waechst-100.html",
-    "https://www.deutschlandfunk.de/vda-praesidentin-mueller-hofft-auf-zuegige-und-pragmatische-loesung-102.html",
-    "https://www.deutschlandfunk.de/dfb-legt-revision-gegen-urteil-im-sommermaerchen-prozess-ein-104.html",
     "https://www.deutschlandfunk.de/haushalt-2025-vor-der-generaldebatte-100.html",
     "https://www.spiegel.de/politik/deutschland/auswaertiges-amt-minister-johann-wadephul-kritisiert-chinesischen-laserangriff-scharf-a-90b7132b-8059-4214-9d87-ce2ea005915f#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-generaldebatte-im-bundestag-110581807.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ex-minister-und-weitere-beschuldigte-wegen-einsturz-des-bahnhofsvordachs-in-novi-sad-festgenommen-100.html",
     "https://www.deutschlandfunk.de/maeva-squiban-gewinnt-auch-zweite-etappe-102.html",
     "https://www.deutschlandfunk.de/arbeiter-stossen-bei-strassenbau-auf-mehr-als-1-000-jahre-alte-mumie-102.html",
-    "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-bis-30-april-gesperrt-100.html"
+    "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-bis-30-april-gesperrt-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-fordert-verbesserung-der-humanitaeren-lage-im-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/von-heute-an-wieder-planmaessiger-verkehr-nach-brandanschlag-auf-bahnstrecke-duesseldorf-duisburg-102.html",
+    "https://www.deutschlandfunk.de/ex-praesident-uribe-zu-zwoelf-jahren-hausarrest-verurteilt-102.html"
   ],
   "content_hashes": [
-    "51e7bfd24273f07ae6be5fe15951b83a",
-    "df7c5933a939f3a5d5db315b24a0dd4d",
-    "7b411f35e2e430c0958b3f40333cd285",
     "ceec3ceceace9d1ac98f8b821815a050",
     "9a0c51265c61a868515fc572f1c94b25",
     "87e237b059a1c36f3641cef9d9b3a679",
@@ -2001,12 +1998,12 @@
     "f44a4574c645b313a73687c3245bf8eb",
     "87b05165179365a73f59e25e5b4eb2b9",
     "84798aa5327ebe984a559be40da2219c",
-    "7477bf0bd8502d9b31998a83c28a23c3"
+    "7477bf0bd8502d9b31998a83c28a23c3",
+    "d447698fdde0dffb240f1d417d9e1b41",
+    "2a8a803eef89306f2343a4d34dbacce8",
+    "967b1a7a92f987f31e3660bb23a355b4"
   ],
   "titles": [
-    "Online-Handel - Bitkom: Bedeutung Sozialer Medien als Verkaufsplattformen wächst",
-    "Zollstreit mit den USA - VDA-Präsidentin Müller hofft auf zügige und pragmatische Lösung",
-    "Frankfurt - DFB legt Revision gegen Urteil im Sommermärchen-Prozess ein",
     "Generaldebatte im Bundestag - Milliardenausgaben und Wortbrüche",
     "Auswärtiges Amt: Minister Johann Wadephul kritisiert chinesischen Laserangriff scharf",
     "Was sagt Alice Weidel zum Haushalt der Bundesregierung?",
@@ -3003,12 +3000,12 @@
     "Serbien - Ex-Minister und weitere Beschuldigte wegen Einsturz des Bahnhofsvordachs in Novi Sad festgenommen",
     "Tour de France Femmes - Maeva Squiban gewinnt auch zweite Etappe",
     "Peru - Arbeiter stoßen bei Straßenbau auf mehr als 1.000 Jahre alte Mumie",
-    "Bahn - Strecke zwischen Hamburg und Berlin bis 30. April gesperrt"
+    "Bahn - Strecke zwischen Hamburg und Berlin bis 30. April gesperrt",
+    "Nach Nahost-Besuch - Bundesaußenminister Wadephul fordert Verbesserung der humanitären Lage im Gazastreifen",
+    "Nordrhein-Westfalen - Von heute an wieder planmäßiger Verkehr nach Brandanschlag auf Bahnstrecke Düsseldorf-Duisburg",
+    "Kolumbien - Ex-Präsident Uribe zu zwölf Jahren Hausarrest verurteilt"
   ],
   "hashes": [
-    "407e07bf46e53e9bb1868768c9cf23b1",
-    "a3e51d8c5436bc36db9889371224487b",
-    "af3478d54e96ec8927938a526b12f8a6",
     "d5c09857949f468590550bfb7f4f9286",
     "9e56777b727ff7fd7bbc78bdb11b5298",
     "cecf9c1ff0a19608ae396fc1b8d73fad",
@@ -4005,6 +4002,9 @@
     "90bf8ba7f27512c83700186a137530b7",
     "8af4b7da6a88c14f45580b7060c35210",
     "93a8f8f2c02b54a1b553a1805383a720",
-    "a31977d3bf4c7ec3f18d090d1445282b"
+    "a31977d3bf4c7ec3f18d090d1445282b",
+    "84a63f107da0c244cde3fc86a67f407f",
+    "6e8ed449b0e6f1aa23a97c0cbc311d24",
+    "733ad73434d2956e53e4f61ccf41099b"
   ]
 }
