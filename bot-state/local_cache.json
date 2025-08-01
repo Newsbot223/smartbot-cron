@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-eroeffnet-ermittlungen-gegen-rechtsaussen-parteien-100.html",
     "https://www.deutschlandfunk.de/weltweit-laut-studie-immer-mehr-faelle-von-magenkrebs-102.html",
     "https://www.deutschlandfunk.de/feuer-erreichen-stadtrand-von-marseille-100.html",
     "https://www.deutschlandfunk.de/haushaltsberatungen-im-bundestag-110.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/slowenien-untersagt-jeglichen-waffenhandel-mit-israel-102.html",
     "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-wird-bis-30-april-generalsaniert-100.html",
     "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-bis-mindestens-freitagmittag-gesperrt-polizei--108.html",
-    "https://www.deutschlandfunk.de/trump-verschaerft-wortwahl-gegenueber-putin-104.html"
+    "https://www.deutschlandfunk.de/trump-verschaerft-wortwahl-gegenueber-putin-104.html",
+    "https://www.deutschlandfunk.de/wadephul-warnt-israel-vor-isolierung-100.html"
   ],
   "content_hashes": [
-    "0215634fb1cf6196efea639ac54ae4eb",
     "179fa7c5f14cc24d7220ecee4dac0361",
     "ec21ebd1b06ccb84d3b8c664b6af75ec",
     "fe314e57db133938e69b3b3ddad9a38f",
@@ -2001,10 +2000,10 @@
     "d14c8584d5f5837847c5737ec990e487",
     "d26ec8567b7695fb164574b7598a2484",
     "613025c2c0537e0e56825ee432918320",
-    "6e51dda5a1c786fec1ff17f8b7736e9f"
+    "6e51dda5a1c786fec1ff17f8b7736e9f",
+    "304e961266242dffe36ed7bec07c670e"
   ],
   "titles": [
-    "EU - Staatsanwaltschaft eröffnet Ermittlungen gegen Rechtsaußen-Parteien",
     "Fehlende Prävention - Weltweit laut Studie immer mehr Fälle von Magenkrebs",
     "Waldbrände - Feuer erreichen Stadtrand von Marseille",
     "Haushaltsdebatte - Bundesfinanzminister Klingbeil verteidigt Rekordschulden",
@@ -3003,10 +3002,10 @@
     "Gazakrieg - Slowenien untersagt jeglichen Waffenhandel mit Israel",
     "Bahn - Strecke zwischen Hamburg und Berlin wird bis 30. April generalsaniert",
     "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal bis mindestens Freitagmittag gesperrt - Polizei vermutet Sabotage",
-    "Nach russischen Angriffen auf Kiew - Trump verschärft Wortwahl gegenüber Putin"
+    "Nach russischen Angriffen auf Kiew - Trump verschärft Wortwahl gegenüber Putin",
+    "Nahostreise - Wadephul warnt Israel vor Isolierung"
   ],
   "hashes": [
-    "0df278ba299afb27d8f7dd26b402ee3c",
     "606713bb6ceb1ca8938c3c6f7e36f301",
     "36f4f56e8445260a5e77d6e2318ca0df",
     "4c4c89eaf99c6bc7440af7ad39875719",
@@ -4005,6 +4004,7 @@
     "bcc24976472cbea376767aa5147189db",
     "f1be7b39698ffeda77b54b5770eb825a",
     "9e559501c04c06e5464eed861b7a1d93",
-    "15d726686c70800e574583681e9140f2"
+    "15d726686c70800e574583681e9140f2",
+    "75c758e21cab8aa313d3d6f26b47932f"
   ]
 }
