@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneute-angriffe-auf-cherson-ein-todesopfer-100.html",
-    "https://www.deutschlandfunk.de/gedenken-an-die-opfer-zum-30-jahrestag-100.html",
-    "https://www.deutschlandfunk.de/tadej-pogacar-gewinnt-vierte-etappe-von-amiens-nach-rouen-102.html",
-    "https://www.deutschlandfunk.de/tuerkische-justiz-geht-weiter-gegen-chp-vor-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ovg-praesident-nrw-kabinett-beruft-carsten-guenther-110581349.html",
     "https://www.faz.net/aktuell/politik/inland/corona-masken-was-wird-spahn-vorgeworfen-und-wie-verteidigt-er-sich-110581015.html",
     "https://www.deutschlandfunk.de/kommentar-maskendeal-spahn-untersuchungsausschuss-100.html",
     "https://www.deutschlandfunk.de/israel-greift-im-norden-des-libanons-an-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-bis-mindestens-freitagmittag-gesperrt-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-in-israel-100.html",
     "https://www.deutschlandfunk.de/zahl-der-toten-nach-angriff-in-kiew-auf-26-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/berenberg-chefvolkswirt-trumps-politik-wird-der-us-wirtschaft-schaden-100.html"
+    "https://www.deutschlandfunk.de/berenberg-chefvolkswirt-trumps-politik-wird-der-us-wirtschaft-schaden-100.html",
+    "https://www.deutschlandfunk.de/linken-politiker-bartsch-deutschland-darf-israels-vorgehen-nicht-laenger-ignorieren-102.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-in-kiew-nach-russischem-angriff-steigt-auf-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-warnt-israel-vor-isolierung-100.html",
+    "https://www.deutschlandfunk.de/drei-maennern-wegen-diebstahls-die-haende-amputiert-100.html",
+    "https://www.deutschlandfunk.de/waldbraende-werden-immer-schlimmer-und-befoerdern-die-klimakrise-100.html"
   ],
   "content_hashes": [
-    "9f4039ba42bf65d75319e4a09adeb0cf",
-    "015d8255de96ff28eef33aa9af6bad1e",
-    "358a5cf34f026548071b8bb2c3555666",
-    "e33aac7ab10705cea3c5c17099f3878d",
-    "f4833aa76de98b052eea76d657ca94d8",
     "4b3be0e2e14b096eab6e71e9a3648161",
     "5c05d73cc12385875dbb0accde817f95",
     "a8d3b51fecd49361dbc84f835f92d654",
@@ -2001,14 +1996,14 @@
     "5c6dfea1a22c269039e41a27b22f8aff",
     "546a449f909631792ec29bce44490c4a",
     "607eaffc980b9477797a6513658939f6",
-    "439dbb1e54409a84958debc6c3fcd9cf"
+    "439dbb1e54409a84958debc6c3fcd9cf",
+    "c5ed9d21b30de468713add6b7baa5ac6",
+    "d6ed3e1629a7852d49ebacd4b2d8e618",
+    "bbb1d72acce1c6f278b6b3ba6fd93931",
+    "be0fe2f0a973c08c7102e6ccbdc0b36d",
+    "918a3c9558bb1dc1eb8bc8e8c36020e3"
   ],
   "titles": [
-    "Ukraine-Krieg - Erneute Angriffe auf Cherson - ein Todesopfer",
-    "Srebrenica-Massaker - Gedenken an die Opfer zum 30. Jahrestag",
-    "Tour de France - Tadej Pogacar gewinnt vierte Etappe von Amiens nach Rouen",
-    "Größte Oppositionspartei - Türkische Justiz geht weiter gegen CHP vor",
-    "Nordrhein-Westfalen: Der Gegenspieler des Justizministers soll oberster Richter werden",
     "Corona-Masken: Was wird Spahn vorgeworfen – und wie verteidigt er sich?",
     "Kommentar zur Maskenaffäre - Schutz für Spahn anstelle politischer Verantwortung",
     "Nahost - Israel greift im Norden des Libanons an",
@@ -3003,14 +2998,14 @@
     "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal bis mindestens Freitagmittag gesperrt",
     "Krieg in Gaza - Außenminister Wadephul warnt Israel vor Isolierung",
     "Ukraine - Zahl der Toten nach Angriff in Kiew auf 26 gestiegen",
-    "Zollpolitik - Berenberg-Chefvolkswirt: Trumps Politik wird der US-Wirtschaft schaden"
+    "Zollpolitik - Berenberg-Chefvolkswirt: Trumps Politik wird der US-Wirtschaft schaden",
+    "Krieg im Gazastreifen - Linken-Politiker Bartsch: \"Deutschland darf Israels Vorgehen nicht länger ignorieren\"",
+    "Ukraine - Zahl der Toten in Kiew nach russischem Angriff steigt auf 26",
+    "Nahostreise - Bundesaußenminister Wadephul warnt Israel vor Isolierung",
+    "Iran - Drei Männern wegen Diebstahls die Hände amputiert",
+    "WWF-Studie - Waldbrände werden immer schlimmer und befördern die Klimakrise"
   ],
   "hashes": [
-    "3f6e9efcaae7e086f8df2ed05558a195",
-    "fe07ff071c8b8815a94f94fa6647fe95",
-    "9c3232469ebc17bef17b0e0595491bcd",
-    "08989b1fd8179de7c0e76ec4bc8b229e",
-    "d255157a2d58b55ec69197ee7ec83751",
     "f7a1895e7c8d1b1638bc661c6acba2f6",
     "948fec9516f3a8363e48558ef8f0535b",
     "c7692bdcd229fa613b563469b81baead",
@@ -4005,6 +4000,11 @@
     "61c1295741fad9468a8f3053f72fda0e",
     "9d893ba61657b07a862fbc38009cbf36",
     "eba170e8bbccec5b3c1c1f90cc4dae22",
-    "7f785e89ec38ead4dec8082fc08f39c2"
+    "7f785e89ec38ead4dec8082fc08f39c2",
+    "da8ef2768b4f71591b9a44b43259a6f6",
+    "45f35280eff968c4d37095996a2eff66",
+    "7ca332720d0e7e3ea0a615e9a4e2ff6f",
+    "eaed292b973d48a429c4d48f7d73c7a0",
+    "0867124811cd44412d63e00a0bb06019"
   ]
 }
