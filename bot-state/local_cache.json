@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haushaltsberatungen-im-bundestag-110.html",
-    "https://www.faz.net/einspruch/verfassungsgericht-wie-der-wahlausschuss-abgestimmt-hat-110580787.html",
     "https://www.deutschlandfunk.de/erneute-angriffe-auf-cherson-ein-todesopfer-100.html",
     "https://www.deutschlandfunk.de/gedenken-an-die-opfer-zum-30-jahrestag-100.html",
     "https://www.deutschlandfunk.de/tadej-pogacar-gewinnt-vierte-etappe-von-amiens-nach-rouen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-verschaerft-wortwahl-gegenueber-putin-104.html",
     "https://www.deutschlandfunk.de/wadephul-warnt-israel-vor-isolierung-100.html",
     "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-bis-mindestens-freitagmittag-gesperrt-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-in-israel-100.html"
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-in-israel-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-nach-angriff-in-kiew-auf-26-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/berenberg-chefvolkswirt-trumps-politik-wird-der-us-wirtschaft-schaden-100.html"
   ],
   "content_hashes": [
-    "fe314e57db133938e69b3b3ddad9a38f",
-    "887cb25a864acfead5361429f0ef5b63",
     "9f4039ba42bf65d75319e4a09adeb0cf",
     "015d8255de96ff28eef33aa9af6bad1e",
     "358a5cf34f026548071b8bb2c3555666",
@@ -2001,11 +1999,11 @@
     "6e51dda5a1c786fec1ff17f8b7736e9f",
     "304e961266242dffe36ed7bec07c670e",
     "5c6dfea1a22c269039e41a27b22f8aff",
-    "546a449f909631792ec29bce44490c4a"
+    "546a449f909631792ec29bce44490c4a",
+    "607eaffc980b9477797a6513658939f6",
+    "439dbb1e54409a84958debc6c3fcd9cf"
   ],
   "titles": [
-    "Haushaltsdebatte - Bundesfinanzminister Klingbeil verteidigt Rekordschulden",
-    "Verfassungsrichterwahl: Kaufhold soll statt Brosius-Gersdorf Vizepräsidentin werden",
     "Ukraine-Krieg - Erneute Angriffe auf Cherson - ein Todesopfer",
     "Srebrenica-Massaker - Gedenken an die Opfer zum 30. Jahrestag",
     "Tour de France - Tadej Pogacar gewinnt vierte Etappe von Amiens nach Rouen",
@@ -3003,11 +3001,11 @@
     "Nach russischen Angriffen auf Kiew - Trump verschärft Wortwahl gegenüber Putin",
     "Nahostreise - Wadephul warnt Israel vor Isolierung",
     "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal bis mindestens Freitagmittag gesperrt",
-    "Krieg in Gaza - Außenminister Wadephul warnt Israel vor Isolierung"
+    "Krieg in Gaza - Außenminister Wadephul warnt Israel vor Isolierung",
+    "Ukraine - Zahl der Toten nach Angriff in Kiew auf 26 gestiegen",
+    "Zollpolitik - Berenberg-Chefvolkswirt: Trumps Politik wird der US-Wirtschaft schaden"
   ],
   "hashes": [
-    "4c4c89eaf99c6bc7440af7ad39875719",
-    "accbe11bc38461185ee749fc968bac95",
     "3f6e9efcaae7e086f8df2ed05558a195",
     "fe07ff071c8b8815a94f94fa6647fe95",
     "9c3232469ebc17bef17b0e0595491bcd",
@@ -4005,6 +4003,8 @@
     "15d726686c70800e574583681e9140f2",
     "75c758e21cab8aa313d3d6f26b47932f",
     "61c1295741fad9468a8f3053f72fda0e",
-    "9d893ba61657b07a862fbc38009cbf36"
+    "9d893ba61657b07a862fbc38009cbf36",
+    "eba170e8bbccec5b3c1c1f90cc4dae22",
+    "7f785e89ec38ead4dec8082fc08f39c2"
   ]
 }
