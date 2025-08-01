@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/corona-masken-was-wird-spahn-vorgeworfen-und-wie-verteidigt-er-sich-110581015.html",
-    "https://www.deutschlandfunk.de/kommentar-maskendeal-spahn-untersuchungsausschuss-100.html",
     "https://www.deutschlandfunk.de/israel-greift-im-norden-des-libanons-an-100.html",
     "https://www.deutschlandfunk.de/ai-slop-die-vermuellung-des-internets-100.html",
     "https://www.deutschlandfunk.de/libyen-bespricht-mit-eu-ministern-plan-zur-eindaemmung-der-migration-nach-europa-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zahl-der-toten-in-kiew-nach-russischem-angriff-steigt-auf-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-warnt-israel-vor-isolierung-100.html",
     "https://www.deutschlandfunk.de/drei-maennern-wegen-diebstahls-die-haende-amputiert-100.html",
-    "https://www.deutschlandfunk.de/waldbraende-werden-immer-schlimmer-und-befoerdern-die-klimakrise-100.html"
+    "https://www.deutschlandfunk.de/waldbraende-werden-immer-schlimmer-und-befoerdern-die-klimakrise-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-bafoeg-empfaenger-auf-niedrigstem-stand-seit-25-jahren-104.html",
+    "https://www.deutschlandfunk.de/bahnstrecke-duesseldorf-duisburg-bis-mindestens-zum-abend-gesperrt-zweite-schadstelle-entdeckt-100.html"
   ],
   "content_hashes": [
-    "4b3be0e2e14b096eab6e71e9a3648161",
-    "5c05d73cc12385875dbb0accde817f95",
     "a8d3b51fecd49361dbc84f835f92d654",
     "1fc75ec8830caadf803c812e1baef096",
     "eb56e34defaa2794f05030fbb157322a",
@@ -2001,11 +1999,11 @@
     "d6ed3e1629a7852d49ebacd4b2d8e618",
     "bbb1d72acce1c6f278b6b3ba6fd93931",
     "be0fe2f0a973c08c7102e6ccbdc0b36d",
-    "918a3c9558bb1dc1eb8bc8e8c36020e3"
+    "918a3c9558bb1dc1eb8bc8e8c36020e3",
+    "102973217744cc0be2898e228a942e14",
+    "f7f31abb738bf2f3d614a87416e4057d"
   ],
   "titles": [
-    "Corona-Masken: Was wird Spahn vorgeworfen – und wie verteidigt er sich?",
-    "Kommentar zur Maskenaffäre - Schutz für Spahn anstelle politischer Verantwortung",
     "Nahost - Israel greift im Norden des Libanons an",
     "AI Slop - Die Vermüllung des Internets",
     "Mittelmeer - Libyen bespricht mit EU-Ministern Plan zur Eindämmung der Migration nach Europa",
@@ -3003,11 +3001,11 @@
     "Ukraine - Zahl der Toten in Kiew nach russischem Angriff steigt auf 26",
     "Nahostreise - Bundesaußenminister Wadephul warnt Israel vor Isolierung",
     "Iran - Drei Männern wegen Diebstahls die Hände amputiert",
-    "WWF-Studie - Waldbrände werden immer schlimmer und befördern die Klimakrise"
+    "WWF-Studie - Waldbrände werden immer schlimmer und befördern die Klimakrise",
+    "Statistik - Zahl der Bafög-Empfänger auf niedrigstem Stand seit 25 Jahren",
+    "Brandanschlag - Bahnstrecke Düsseldorf-Duisburg bis mindestens zum Abend gesperrt - zweite Schadstelle entdeckt"
   ],
   "hashes": [
-    "f7a1895e7c8d1b1638bc661c6acba2f6",
-    "948fec9516f3a8363e48558ef8f0535b",
     "c7692bdcd229fa613b563469b81baead",
     "0f22c848cb9f8a1a79ee5fb50ce5de58",
     "3766200cf97f00a233169cae39b8d9b4",
@@ -4005,6 +4003,8 @@
     "45f35280eff968c4d37095996a2eff66",
     "7ca332720d0e7e3ea0a615e9a4e2ff6f",
     "eaed292b973d48a429c4d48f7d73c7a0",
-    "0867124811cd44412d63e00a0bb06019"
+    "0867124811cd44412d63e00a0bb06019",
+    "cdfde91956154de613d959e3d0ad99b7",
+    "2aec4c3b7f5785871a5c5c6afca6a36e"
   ]
 }
