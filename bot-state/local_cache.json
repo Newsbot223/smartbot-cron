@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierung-einigt-sich-auf-bundesstaatsanwaltschaft-102.html",
-    "https://www.spiegel.de/ausland/rotes-meer-china-weist-deutsche-darstellung-zu-laserangriff-zurueck-a-da09ca68-b61c-475a-b6e2-369b21b7c283#ref=rss",
-    "https://www.deutschlandfunk.de/leibwaechter-geben-versehentlich-durch-trainingsdaten-in-app-standorte-von-schwedischem-premier-kris-100.html",
     "https://www.deutschlandfunk.de/erhoehung-us-zoelle-verschoben-interview-hildegard-mueller-vda-praesidentin-100.html",
     "https://www.faz.net/aktuell/politik/inland/umbenennung-der-berliner-mohrenstrasse-rechtskraeftig-110582161.html",
     "https://www.deutschlandfunk.de/spd-generalsekretaer-kluessendorf-schliesst-untersuchungsausschuss-in-maskenaffaere-um-spahn-cdu-nic-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/transparenz-von-ki-modell-anbietern-100.html",
     "https://www.deutschlandfunk.de/gewerkschaftschef-gegen-reform-der-arbeitszeit-100.html",
     "https://www.deutschlandfunk.de/mehr-haeusliche-gewalt-in-deutschland-statistisch-wird-alle-zwei-minuten-ein-mensch-opfer-100.html",
-    "https://www.spiegel.de/politik/deutschland/gewerkschaftschef-michael-vassiliadis-lehnt-reform-der-arbeitszeit-ab-a-5e992d94-63d1-4072-81a0-5bfe0f5f624a#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/gewerkschaftschef-michael-vassiliadis-lehnt-reform-der-arbeitszeit-ab-a-5e992d94-63d1-4072-81a0-5bfe0f5f624a#ref=rss",
+    "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-von-palantir-skeptisch-gdp-bayern-datenschutz-sollte-nicht-imme-100.html",
+    "https://www.deutschlandfunk.de/verbraucherschuetzer-verklagen-fluggesellschaften-wegen-handgepaeck-gebuehren-100.html",
+    "https://www.deutschlandfunk.de/nach-drastischen-kuerzungen-us-behoerde-fuer-oeffentlichen-rundfunk-muss-schliessen-100.html"
   ],
   "content_hashes": [
-    "db597d0fe2cd89fd806b14a0ec08ca52",
-    "c6c44d81f7b751ed5e98adc8c199e900",
-    "ea04a322b1a79db077c4963af7d39b5e",
     "5f83377ab5085f49960291c4442be888",
     "2d328d315e8df1c5a0c456e56520c48b",
     "06dc678964c3bf3bb5a38ba09b7708a1",
@@ -2001,12 +1998,12 @@
     "bb5973a72dda63378f139fda68cb408b",
     "9b77d3192cd3f0b1ec3ba7d8f2acba0b",
     "6a74ae660cc8af609bd45b963be63fe3",
-    "5a2f80e058cf556f8d102a56dde0540c"
+    "5a2f80e058cf556f8d102a56dde0540c",
+    "270a804cf1d225751e46e47bca3ccaa5",
+    "b94eecaa836f4348ca4a1656204a8223",
+    "d59d65afb569d1e28616d947663a59fa"
   ],
   "titles": [
-    "Österreich - Regierung einigt sich auf Bundesstaatsanwaltschaft",
-    "Rotes Meer: China weist deutsche Darstellung zu Laserangriff zurück",
-    "\"Strava\" - Leibwächter geben versehentlich durch Trainingsdaten in App Standorte von schwedischem Premier Kristersson preis",
     "US-Handelskonflikt - VDA-Präsidentin: Keine Seite hat die besseren Karten",
     "Umbenennung der Berliner Mohrenstraße rechtskräftig",
     "Corona-Pandemie - SPD-Generalsekretär Klüssendorf schließt Untersuchungsausschuss in Maskenaffäre um Spahn (CDU) nicht aus",
@@ -3003,12 +3000,12 @@
     "Neue EU-Regeln - Transparenz von KI-Modell-Anbietern",
     "Wochenobergrenze - Gewerkschaftschef gegen Reform der Arbeitszeit",
     "Bericht - Mehr häusliche Gewalt in Deutschland - statistisch wird alle zwei Minuten ein Mensch Opfer",
-    "Gewerkschaftschef Michael Vassiliadis lehnt Reform der Arbeitszeit ab"
+    "Gewerkschaftschef Michael Vassiliadis lehnt Reform der Arbeitszeit ab",
+    "Umstrittene US-Software - Justizministerin Hubig sieht Einsatz von Palantir skeptisch - GdP Bayern: Datenschutz sollte nicht immer vorgeschoben werden",
+    "Luftverkehr - Verbraucherschützer verklagen Fluggesellschaften wegen Handgepäck-Gebühren",
+    "Medien in den USA - Nach drastischen Kürzungen: US-Behörde für öffentlichen Rundfunk muss schließen"
   ],
   "hashes": [
-    "e20c4d51859713ab3514d165ee818633",
-    "2a60aace1ccf2177bb9111b52f8873cf",
-    "ab3c2bdbc3535680674f76a1325b6701",
     "54c8b90c246e349c79d8b246bd6934d4",
     "40e104f2c1c449db581ce22f5fa53d78",
     "e68775cc6e80ed32efc92869dc5b82c7",
@@ -4005,6 +4002,9 @@
     "a1b05361d81926716566d61a1b296907",
     "10d119823d228bcc5541b670d62909eb",
     "5f7880d5009e648b135c40dbdde2fc01",
-    "4db6665d3b49a1abec1eec23242a336d"
+    "4db6665d3b49a1abec1eec23242a336d",
+    "51028072bff5c380360a15e12f223926",
+    "eae763d30e0f17aa8e87a8e69c211542",
+    "d46de80bdc5f6cd71353a7390bf1e85d"
   ]
 }
