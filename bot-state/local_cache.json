@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbrand-in-der-gohrischheide-landkreis-meissen-hebt-katastrophenalarm-auf-102.html",
-    "https://www.deutschlandfunk.de/razzia-in-mehreren-staedten-in-nordrhein-westfalen-wegen-verdachts-auf-islamistische-anschlagsplanun-100.html",
-    "https://www.faz.net/aktuell/politik/inland/anschlaege-geplant-mann-wegen-terrorverdacht-in-nrw-festgenommen-110581893.html",
     "https://www.faz.net/aktuell/politik/inland/gericht-in-bayern-kruzifix-in-gymnasium-hat-glaubensfreiheit-verletzt-110582428.html",
     "https://www.spiegel.de/politik/deutschland/uli-groetsch-polizeibeauftragter-des-bundes-kritisiert-zurueckweisung-von-asylsuchenden-a-d0085dac-d250-4869-b6b9-bfbb071c40f6#ref=rss",
     "https://www.deutschlandfunk.de/ukraine-meldet-weitere-schwere-russische-luftangriffe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kommentar-zu-wadephuls-israel-reise-merz-sollte-palaestina-jetzt-anerkennen-100.html",
     "https://www.deutschlandfunk.de/vorzeitiger-ruecktritt-einer-fed-vorstaendin-spielt-trump-in-die-karten-100.html",
     "https://www.faz.net/aktuell/politik/inland/erzbischof-woelkis-plaene-verstossen-gegen-das-konkordat-110618100.html",
-    "https://www.faz.net/aktuell/politik/ausland/zoll-deal-eine-weitere-demuetigung-europas-110618061.html"
+    "https://www.faz.net/aktuell/politik/ausland/zoll-deal-eine-weitere-demuetigung-europas-110618061.html",
+    "https://www.deutschlandfunk.de/rekord-260-000-menschen-bei-csd-umzug-in-hamburg-100.html",
+    "https://www.deutschlandfunk.de/anschlag-auch-auf-bahnstrecke-in-sachsen-anhalt-106.html",
+    "https://www.deutschlandfunk.de/kiew-meldet-erfolgreiche-angriffe-auf-russische-industrieanlagen-100.html"
   ],
   "content_hashes": [
-    "2fba4f8e0c6a03d0ecd1ab2d33ef1c1e",
-    "d0a1fa01265a44d4b678df84a90f1a06",
-    "42ec5a24e6242a665c74c05578ab7637",
     "4abc5716c4e67b3ba04ef110cc7289e6",
     "9cb57dd6c02ed394ed8faf995f89985c",
     "3348d76b8952141be2934ce741bd2b78",
@@ -2001,12 +1998,12 @@
     "f2d7bb0aa6b8edb5fa4737dd6e01fb4e",
     "ce393f91b512760a13b1c99511a18986",
     "133840ee90671edacef0470bb3d1d192",
-    "2fe4ab33e05a7e9c70a173d2826c8a87"
+    "2fe4ab33e05a7e9c70a173d2826c8a87",
+    "3766cc38dd26401fad0a438e0e6b386a",
+    "98f35370d8c837fa0c6b03099c779b6b",
+    "3eacd915b1f78169fe9ec9c379ea6041"
   ],
   "titles": [
-    "\"Lage stabil\" - Waldbrand in der Gohrischheide: Landkreis Meißen hebt Katastrophenalarm auf",
-    "Terrorismus - Razzia in mehreren Städten in Nordrhein-Westfalen wegen Verdachts auf islamistische Anschlagsplanung",
-    "Anschläge geplant: Mann wegen Terrorverdacht in NRW festgenommen",
     "Gericht in Bayern: Kruzifix in Gymnasium hat Glaubensfreiheit verletzt",
     "Uli Grötsch: Polizeibeauftragter des Bundes kritisiert Zurückweisung von Asylsuchenden",
     "Ukraine-Krieg - Ukraine meldet weitere schwere russische Luftangriffe",
@@ -3003,12 +3000,12 @@
     "Naher Osten - Kommentar: Merz sollte Palästina jetzt anerkennen!",
     "Federal Reserve - Vorzeitiger Rücktritt einer Fed-Vorständin spielt Trump in die Karten",
     "Erzbistum Köln: Woelkis Pläne verstoßen gegen das Konkordat",
-    "Zoll-Deal: Eine weitere Demütigung Europas"
+    "Zoll-Deal: Eine weitere Demütigung Europas",
+    "Großdemonstration - Rekord: 260.000 Menschen bei CSD-Umzug in Hamburg",
+    "Staatschutz ermittelt - Anschlag auch auf Bahnstrecke in Sachsen-Anhalt",
+    "Ukraine-Krieg - Kiew meldet erfolgreiche Angriffe auf russische Industrieanlagen"
   ],
   "hashes": [
-    "27dd457df44e045e83fb7f96b1af6729",
-    "d39171fda802b3736d95777844fe51a2",
-    "7be46841a00de1167a3db84a809870e1",
     "31eb9787adb3c4bfdd6eb0729233fb54",
     "256bec25739a1327ee84dbdebce4d4d4",
     "8382f0fa4a6db25198ada5c68ae46ff2",
@@ -4005,6 +4002,9 @@
     "d1107f09bc494f13a199c2fb1fd78f2f",
     "69b5a5f0b20bfb94d681335e05f1a793",
     "6b3283984d489dd9ac9b01672ac85818",
-    "3627f8a316187dc022587499d22c9a1b"
+    "3627f8a316187dc022587499d22c9a1b",
+    "43ae9d4c2010384260bad3b66271d3e3",
+    "158bed900c23ae83e4e9e9761ccfd72b",
+    "04cc84808bcb7ef2e21cae5cdaf9807b"
   ]
 }
