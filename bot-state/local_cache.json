@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/gericht-in-bayern-kruzifix-in-gymnasium-hat-glaubensfreiheit-verletzt-110582428.html",
-    "https://www.spiegel.de/politik/deutschland/uli-groetsch-polizeibeauftragter-des-bundes-kritisiert-zurueckweisung-von-asylsuchenden-a-d0085dac-d250-4869-b6b9-bfbb071c40f6#ref=rss",
-    "https://www.deutschlandfunk.de/ukraine-meldet-weitere-schwere-russische-luftangriffe-100.html",
     "https://www.deutschlandfunk.de/merz-haelt-wahl-von-juristin-brosius-gersdorf-zur-richterin-am-bundesverfassungsgericht-fuer-vertret-100.html",
     "https://www.deutschlandfunk.de/auch-eu-bestellt-chinesischen-botschafter-wegen-vorwurf-des-laserangriffs-gegen-bundeswehr-maschine--102.html",
     "https://www.deutschlandfunk.de/nvidia-als-erstes-unternehmen-mit-mehr-als-4-billionen-dollar-boersenwert-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ausland/zoll-deal-eine-weitere-demuetigung-europas-110618061.html",
     "https://www.deutschlandfunk.de/rekord-260-000-menschen-bei-csd-umzug-in-hamburg-100.html",
     "https://www.deutschlandfunk.de/anschlag-auch-auf-bahnstrecke-in-sachsen-anhalt-106.html",
-    "https://www.deutschlandfunk.de/kiew-meldet-erfolgreiche-angriffe-auf-russische-industrieanlagen-100.html"
+    "https://www.deutschlandfunk.de/kiew-meldet-erfolgreiche-angriffe-auf-russische-industrieanlagen-100.html",
+    "https://www.deutschlandfunk.de/video-von-ausgehungerter-geisel-sorgt-in-israel-fuer-entsetzen-100.html",
+    "https://www.deutschlandfunk.de/serbiens-praesident-vucic-erkennt-hafturteil-gegen-bosnischen-serbenfuehrer-dodik-nicht-an-100.html",
+    "https://www.deutschlandfunk.de/lueckenkemper-und-ansah-weiter-deutschlands-schnellste-sprinter-104.html"
   ],
   "content_hashes": [
-    "4abc5716c4e67b3ba04ef110cc7289e6",
-    "9cb57dd6c02ed394ed8faf995f89985c",
-    "3348d76b8952141be2934ce741bd2b78",
     "f3ab83f795f2bd0e2976f2f8b8397282",
     "734e08c1c93c6ad95c656c4b75ef446c",
     "7f351a8df8d8d947352390026f6f6074",
@@ -2001,12 +1998,12 @@
     "2fe4ab33e05a7e9c70a173d2826c8a87",
     "3766cc38dd26401fad0a438e0e6b386a",
     "98f35370d8c837fa0c6b03099c779b6b",
-    "3eacd915b1f78169fe9ec9c379ea6041"
+    "3eacd915b1f78169fe9ec9c379ea6041",
+    "dcb0abe7f1b35e2759144675c73ad450",
+    "025ad5d49d12d7f0befdfaf808a98371",
+    "e33efddfb659711071d5b16b3fc804b6"
   ],
   "titles": [
-    "Gericht in Bayern: Kruzifix in Gymnasium hat Glaubensfreiheit verletzt",
-    "Uli Grötsch: Polizeibeauftragter des Bundes kritisiert Zurückweisung von Asylsuchenden",
-    "Ukraine-Krieg - Ukraine meldet weitere schwere russische Luftangriffe",
     "Regierungsbefragung - Merz hält Wahl von Juristin Brosius-Gersdorf zur Richterin am Bundesverfassungsgericht für vertretbar",
     "Einsatz im Roten Meer - Auch EU bestellt chinesischen Botschafter wegen Vorwurf des Laserangriffs gegen Bundeswehr-Maschine ein",
     "Rekordwert - Nvidia als erstes Unternehmen mit mehr als 4 Billionen Dollar Börsenwert",
@@ -3003,12 +3000,12 @@
     "Zoll-Deal: Eine weitere Demütigung Europas",
     "Großdemonstration - Rekord: 260.000 Menschen bei CSD-Umzug in Hamburg",
     "Staatschutz ermittelt - Anschlag auch auf Bahnstrecke in Sachsen-Anhalt",
-    "Ukraine-Krieg - Kiew meldet erfolgreiche Angriffe auf russische Industrieanlagen"
+    "Ukraine-Krieg - Kiew meldet erfolgreiche Angriffe auf russische Industrieanlagen",
+    "Gazastreifen - Video von ausgehungerter Geisel sorgt in Israel für Entsetzen",
+    "Balkan-Region - Serbiens Präsident Vucic erkennt Hafturteil gegen bosnischen Serbenführer Dodik nicht an",
+    "Deutsche Meisterschaften - Lückenkemper und Ansah weiter Deutschlands schnellste Sprinter"
   ],
   "hashes": [
-    "31eb9787adb3c4bfdd6eb0729233fb54",
-    "256bec25739a1327ee84dbdebce4d4d4",
-    "8382f0fa4a6db25198ada5c68ae46ff2",
     "9cafa234fc9abdf3bbc3fe165b1704ec",
     "9329080b08269799e5f42f7c615e5437",
     "d174397d900abaed83d635c28b1a9151",
@@ -4005,6 +4002,9 @@
     "3627f8a316187dc022587499d22c9a1b",
     "43ae9d4c2010384260bad3b66271d3e3",
     "158bed900c23ae83e4e9e9761ccfd72b",
-    "04cc84808bcb7ef2e21cae5cdaf9807b"
+    "04cc84808bcb7ef2e21cae5cdaf9807b",
+    "f3cb65c56e9ca20825c0fd3ba43ff5e6",
+    "87db9128bb508f594f079b00b8c6b55d",
+    "c52fa74d4b40352b6ab92404c62b5857"
   ]
 }
