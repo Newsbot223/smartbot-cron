@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/verfolgen-sie-die-erste-generaldebatte-mit-merz-als-kanzler-im-livestream-110581807.html",
-    "https://www.deutschlandfunk.de/grok-empfiehlt-hitler-gegen-angeblichen-hass-von-juden-auf-weisse-musk-konzern-kuendigt-konsequenzen-100.html",
     "https://www.deutschlandfunk.de/carola-rackete-gibt-mandat-im-europaeischen-parlament-auf-102.html",
     "https://www.deutschlandfunk.de/china-weist-vorwuerfe-zu-lasereinsatz-gegen-deutsches-flugzeug-zurueck-100.html",
     "https://www.deutschlandfunk.de/frachter-sinkt-nach-angriff-durch-huthi-rebellen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/spd-chefin-bas-fordert-besseres-konfliktmanagement-102.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-erinnert-an-den-genozid-an-sinti-und-roma-102.html",
     "https://www.deutschlandfunk.de/hafturteil-gegen-bosnischen-serbenfuehrer-dodik-will-richterspruch-nicht-anerkennen-102.html",
-    "https://www.aljazeera.com/news/2025/8/2/russia-ukraine-war-list-of-key-events-day-1255?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/8/2/russia-ukraine-war-list-of-key-events-day-1255?traffic_source=rss",
+    "https://www.deutschlandfunk.de/usa-und-nato-entwickeln-modell-fuer-us-waffenlieferungen-100.html",
+    "https://www.deutschlandfunk.de/transparenz-von-ki-modell-anbietern-100.html"
   ],
   "content_hashes": [
-    "50ddee34b2444c062a541ea8cf6fbf38",
-    "14b2935a757fd9389981b7e53ed71de1",
     "59ba9452687ac7c3114ff089b555b239",
     "8489b34f319d9eec6fd73f56a9b89df4",
     "059c05a882e56773c2a011199662bdd4",
@@ -2001,11 +1999,11 @@
     "b1ccfc5c30091a1532e89770e24826ed",
     "0c796cbefdca5c1aa0c31dfe80385089",
     "82c41802099f5430f709ae24e44a87a0",
-    "fea85cece6f9f3d92b05e8f840a79f12"
+    "fea85cece6f9f3d92b05e8f840a79f12",
+    "0897aee5d237b96a429024d25be68de0",
+    "bb5973a72dda63378f139fda68cb408b"
   ],
   "titles": [
-    "Dröge wirft Merz vor, in Spahns Maskenaffäre „wegzuschauen“",
-    "Antisemitismus durch KI-Chatbot - \"Grok\" empfiehlt Hitler gegen angeblichen Hass von Juden auf Weiße - Musk-Konzern kündigt Konsequenzen an",
     "Parteilose Abgeordnete - Carola Rackete gibt Mandat im Europäischen Parlament auf",
     "Einsatz im Roten Meer - China weist Vorwürfe zu Lasereinsatz gegen deutsches Flugzeug zurück",
     "Rotes Meer - Frachter sinkt nach Angriff durch Huthi-Rebellen",
@@ -3003,11 +3001,11 @@
     "Koalitions-Verstimmungen - SPD-Chefin Bas fordert besseres Konfliktmanagement",
     "Nationalsozialismus - Kulturstaatsminister Weimer erinnert an den Genozid an Sinti und Roma",
     "Bosnien-Herzegowina - Hafturteil gegen bosnischen Serbenführer: Dodik will Richterspruch nicht anerkennen",
-    "Russia-Ukraine war: List of key events, day 1,255"
+    "Russia-Ukraine war: List of key events, day 1,255",
+    "Ukraine-Unterstützung - USA und NATO entwickeln Modell für US-Waffenlieferungen",
+    "Neue EU-Regeln - Transparenz von KI-Modell-Anbietern"
   ],
   "hashes": [
-    "3d729d2c249c51f5da872af1cc960b04",
-    "a81adf04f686b9c561d0edd8092e4f3e",
     "20ca453e6c2fcf1e3b0c499fe0a627d2",
     "1612f77dfc3eb80a85d39b132033f8fb",
     "f5f4449c345fb9a094fa5ce226348987",
@@ -4005,6 +4003,8 @@
     "7a9151d9748041f590eaba7c7d7b3f28",
     "0be71f1d3f92a4b4729776e865ac6090",
     "97c5fdff6f0d7ec825f83884a14b52f6",
-    "1f5f2d6f27ab845941065857bf505d21"
+    "1f5f2d6f27ab845941065857bf505d21",
+    "28e522dc0dc0e1475d547ad113d7f1f3",
+    "a1b05361d81926716566d61a1b296907"
   ]
 }
