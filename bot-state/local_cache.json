@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizeibeauftragter-groetsch-kritisiert-pause-bei-frontex-einsatz-100.html",
-    "https://www.deutschlandfunk.de/hubig-will-einfacheren-widerruf-per-mausklick-100.html",
     "https://www.deutschlandfunk.de/verdaechtiger-nach-angriff-in-ice-in-bayern-als-psychisch-krank-eingestuft-100.html",
     "https://www.deutschlandfunk.de/verdacht-auf-illegale-finanzierung-von-wahlkaempfen-durchsuchungen-bei-rassemblement-national-in-par-100.html",
     "https://www.deutschlandfunk.de/rwe-verlaengert-vertrag-von-konzernchef-krebber-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-drastischen-kuerzungen-us-behoerde-fuer-oeffentlichen-rundfunk-muss-schliessen-100.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-von-palantir-software-skeptisch-gdp-bayern-datenschutz-sollte-n-100.html",
     "https://www.deutschlandfunk.de/schriftliches-israel-bekenntnis-bei-einbuergerung-duerfte-ausnahme-bleiben-100.html",
-    "https://www.deutschlandfunk.de/russland-meldet-drei-tote-bei-ukrainischen-drohnenangriffen-flugverkehr-im-russischen-samara-zeitwei-100.html"
+    "https://www.deutschlandfunk.de/russland-meldet-drei-tote-bei-ukrainischen-drohnenangriffen-flugverkehr-im-russischen-samara-zeitwei-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-informiert-kanzler-merz-ueber-die-lage-im-gazastreifen-102.html",
+    "https://www.spiegel.de/panorama/haeusliche-gewalt-immer-mehr-menschen-in-deutschland-sind-laut-bericht-von-haeuslicher-gewalt-betroffen-a-52e0e588-1ade-4373-80c7-7e0eb92a0a7b#ref=rss"
   ],
   "content_hashes": [
-    "3e8254020debce672e82be5ce4792067",
-    "30184a1f67f6200c47460fa976633941",
     "7e513259f991fffdb2959b994eeb8921",
     "46c3ac248c55eec0f1c7dbb435d16e32",
     "12e15c31ff450238dff68a65e948e848",
@@ -2001,11 +1999,11 @@
     "d59d65afb569d1e28616d947663a59fa",
     "43b72d5f2b56fdf42055c990a05259f9",
     "ced3e743f2dd543fe81be37838848a10",
-    "caebcbeef2880ab4c97cff5832719e8f"
+    "caebcbeef2880ab4c97cff5832719e8f",
+    "5d0304f1a56efd29c5c9a7e3b472184f",
+    "b199d123f4e5ad1fbe07a295e5e432bd"
   ],
   "titles": [
-    "Grenzschutz - Polizeibeauftragter Grötsch kritisiert Pause bei Frontex-Einsatz",
-    "Online-Verträge - Hubig will einfacheren Widerruf per Mausklick",
     "Polizei - Verdächtiger nach Angriff in ICE in Bayern als psychisch krank eingestuft",
     "Frankreich - Verdacht auf illegale Finanzierung von Wahlkämpfen: Durchsuchungen bei Rassemblement National in Paris",
     "Energie - RWE verlängert Vertrag von Konzernchef Krebber",
@@ -3003,11 +3001,11 @@
     "Medien in den USA - Nach drastischen Kürzungen: US-Behörde für öffentlichen Rundfunk muss schließen",
     "Sicherheitspolitik - Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch - GdP Bayern: Datenschutz sollte nicht immer vorgeschoben werden",
     "Deutschland - Schriftliches Israel-Bekenntnis bei Einbürgerung dürfte Ausnahme bleiben",
-    "Ukraine-Krieg - Russland meldet drei Tote bei ukrainischen Drohnenangriffen - Flugverkehr im russischen Samara zeitweise eingeschränkt"
+    "Ukraine-Krieg - Russland meldet drei Tote bei ukrainischen Drohnenangriffen - Flugverkehr im russischen Samara zeitweise eingeschränkt",
+    "Nach Nahost-Besuch - Bundesaußenminister Wadephul informiert Kanzler Merz über die Lage im Gazastreifen",
+    "Häusliche Gewalt: Immer mehr Menschen in Deutschland sind laut Bericht von häuslicher Gewalt betroffen"
   ],
   "hashes": [
-    "8ca45003304ba24b0af50dea351cc62d",
-    "43ea4f8e3952ac82e863abe458cd3653",
     "748ef5af9aa7241b8ed300ade859e897",
     "a768e7d20f89e592b96e5ac808ca9f7f",
     "eaf2cc8530c5f6d134b89131d7b1be62",
@@ -4005,6 +4003,8 @@
     "d46de80bdc5f6cd71353a7390bf1e85d",
     "2c674e1cfb26747ab70fce60a96b0579",
     "4589f20b1090b272ca06019630ffc1a0",
-    "f4c91dc51a0767b7566417bef3bb7b35"
+    "f4c91dc51a0767b7566417bef3bb7b35",
+    "1b8a59db07c24098c28ae271dacf23ca",
+    "9d2480ec60859b86dda21323c468fc75"
   ]
 }
