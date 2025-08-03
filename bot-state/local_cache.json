@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/taetigkeitsbericht-polizeibeauftragter-des-bundes-100.html",
-    "https://www.deutschlandfunk.de/trump-veroeffentlicht-zoll-briefe-an-sechs-weitere-laender-100.html",
     "https://www.deutschlandfunk.de/waldbrand-nahe-marseille-breitet-sich-laut-behoerden-nicht-weiter-aus-100.html",
     "https://www.deutschlandfunk.de/srebrenica-massaker-genozid-100.html",
     "https://www.faz.net/aktuell/politik/inland/was-bringen-klimaschutzgesetze-in-den-bundeslaendern-110578952.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hde-chef-genth-fordert-vorgehen-gegen-billigplattformen-wie-temu-100.html",
     "https://www.spiegel.de/wirtschaft/service/ladendiebstaehle-in-deutschen-innenstaedten-nehmen-deutlich-zu-a-3dbe2008-853f-4230-a648-ecdb8c0f399c#ref=rss",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-es-braucht-eine-fundamentale-aenderung-der-israelischen-politik-100.html",
-    "https://www.deutschlandfunk.de/china-und-russland-beginnen-gemeinsame-marineuebungen-100.html"
+    "https://www.deutschlandfunk.de/china-und-russland-beginnen-gemeinsame-marineuebungen-100.html",
+    "https://www.deutschlandfunk.de/ukrainische-armee-greift-oeldepot-in-sotschi-an-mehrere-opfer-nach-russischen-luftangriffen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nach-habeck-wie-die-gruenen-ihre-neue-rolle-suchen-110618464.html"
   ],
   "content_hashes": [
-    "26404b834b65baad1c52e0cf57c4996e",
-    "0dbb0c130cf1ab4602adf1571ad5083b",
     "f6fbf59bfe3fef56ea944899dbacaf2b",
     "1e5651f8c474cc74d73ab0a4cd2270dd",
     "6c48c860aee65df498b2624ccd3b92d5",
@@ -2001,11 +1999,11 @@
     "0f0844a9292ecb74ba6c8e060570335d",
     "2b2d4fa7557e0a6a1cfb428423ac79c3",
     "a6221db7cc050e7fb49ff84669455849",
-    "4b904d0a8e8ffb612c9641f6f0b62241"
+    "4b904d0a8e8ffb612c9641f6f0b62241",
+    "005a44cf3bc717c2c8d7a54bc814dfad",
+    "3ff9662e59d90d1fe447063334d06e41"
   ],
   "titles": [
-    "Polizeibericht - Grenzkontrollen belasten die Bundespolizei",
-    "Wirtschaft - Trump veröffentlicht Zoll-Briefe an sechs weitere Länder",
     "Südfrankreich - Waldbrand nahe Marseille breitet sich laut Behörden nicht weiter aus",
     "30 Jahre Srebrenica - Wie sich Muslime und Christen an den Genozid erinnern",
     "Emissionen senken: Was bringen Klimaschutzgesetze in den Bundesländern?",
@@ -3003,11 +3001,11 @@
     "Einzelhandel - HDE-Chef Genth fordert Vorgehen gegen Billigplattformen wie Temu",
     "Ladendiebstähle in deutschen Innenstädten nehmen deutlich zu",
     "Interview der Woche - Außenminister Wadephul: Es braucht eine fundamentale Änderung der israelischen Politik",
-    "Vor russischer Ostküste - China und Russland beginnen gemeinsame Marineübungen"
+    "Vor russischer Ostküste - China und Russland beginnen gemeinsame Marineübungen",
+    "Ukraine-Krieg - Ukrainische Armee greift Öldepot in Sotschi an - mehrere Opfer nach russischen Luftangriffen",
+    "Nach Habeck und Baerbock: Die Grünen unter der kalten Dusche"
   ],
   "hashes": [
-    "b931f2a649e505ae8c24c82f4ca66b04",
-    "3152a5488e75e801a7ecb603a9e93128",
     "6c5ee8873705250d64e6058ec4c1fd52",
     "4007a3c69dfe9050cd11beb934c6c421",
     "ec72f558d32c30cb7c83db5a9cbbef36",
@@ -4005,6 +4003,8 @@
     "7aa274661b47f1f3fc74afef446227f6",
     "892f7f907a2c6b44ace0c625288edec3",
     "2c02a545f054b63be5d1dd0aab70b2a1",
-    "3f9ec4e9dbb34633c28976bd447b93b7"
+    "3f9ec4e9dbb34633c28976bd447b93b7",
+    "530c31f40e69473d6c8c6037571b1586",
+    "933f51ce47277c074ac5da29e7d30d37"
   ]
 }
