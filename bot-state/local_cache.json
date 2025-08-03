@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/counting-the-cost/2025/7/9/can-brics-challenge-the-us-led-world-order?traffic_source=rss",
-    "https://www.deutschlandfunk.de/terrorverdaechtiger-gefasst-haftbefehl-liegt-vor-106.html",
-    "https://www.deutschlandfunk.de/rutte-lobt-anstieg-der-verteidigungsausgaben-auf-fuenf-prozent-und-bescheinigt-merz-eine-fuehrungsro-102.html",
     "https://www.deutschlandfunk.de/russische-streitkraefte-ruecken-nach-angaben-aus-moskau-weiter-im-osten-vor-102.html",
     "https://www.deutschlandfunk.de/rutte-lobt-anstieg-der-ausgaben-fuer-verteidigung-und-bescheinigt-merz-eine-fuehrungsrolle-100.html",
     "https://www.deutschlandfunk.de/gedenkfeier-fuer-margot-friedlaender-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/lueckenkemper-und-ansah-weiter-deutschlands-schnellste-sprinter-104.html",
     "https://www.deutschlandfunk.de/festnahmen-wegen-korruption-bei-drohnen-kauf-100.html",
     "https://www.deutschlandfunk.de/us-berufungsgericht-untersagt-willkuerliche-festnahmen-von-einwanderern-100.html",
-    "https://www.deutschlandfunk.de/800-000-junge-katholiken-halten-gebetsstunde-mit-papst-leo-unter-freiem-himmel-ab-108.html"
+    "https://www.deutschlandfunk.de/800-000-junge-katholiken-halten-gebetsstunde-mit-papst-leo-unter-freiem-himmel-ab-108.html",
+    "https://www.deutschlandfunk.de/hamas-lehnt-entwaffnung-ohne-palaestinensischen-staat-ab-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-asyl-erstantraege-in-deutschland-sinkt-deutlich-100.html",
+    "https://www.deutschlandfunk.de/drk-praesidentin-hasselfeldt-pflege-wird-zur-armutsfalle-100.html"
   ],
   "content_hashes": [
-    "d792fa0c9536e39910fc13ffa9cfd22d",
-    "0c08b04ed29778b100bd27cff1e0dedc",
-    "0c0eaa235088f17e290b9718bd10333a",
     "88304ac6931d4265bd698773b6bffbc8",
     "6918c18ae5aa79cda42a81a8c6e73575",
     "7c45e740f1bb5a5923d1ca36517d7f5a",
@@ -2001,12 +1998,12 @@
     "e33efddfb659711071d5b16b3fc804b6",
     "94518e555d2e459f09f7cd17951b137f",
     "b969e54d1f9c4029331ff69c957cea05",
-    "bb41338a7a1a12c1bec2563ac4dc700b"
+    "bb41338a7a1a12c1bec2563ac4dc700b",
+    "000afe3b5a4a026928a892aa526b0cc4",
+    "a9210041e06dbabdaab1890497897524",
+    "d6a28a2f87d47dad9cd2ba4ca65ff234"
   ],
   "titles": [
-    "Can BRICS challenge the US-led world order?",
-    "Nordrhein-Westfalen - Terrorverdächtiger gefasst - Haftbefehl liegt vor",
-    "\"Meilenstein\" - Rutte lobt Anstieg der Verteidigungsausgaben auf fünf Prozent und bescheinigt Merz eine Führungsrolle",
     "Ukraine-Krieg - Russische Streitkräfte rücken nach Angaben aus Moskau weiter im Osten vor",
     "\"Meilenstein\" - Rutte lobt Anstieg der Ausgaben für Verteidigung und bescheinigt Merz eine Führungsrolle",
     "Berlin - Gedenkfeier für Margot Friedländer",
@@ -3003,12 +3000,12 @@
     "Deutsche Meisterschaften - Lückenkemper und Ansah weiter Deutschlands schnellste Sprinter",
     "Ukraine - Festnahmen wegen Korruption bei Drohnen-Kauf",
     "Trumps Migrationspolitik - US-Berufungsgericht untersagt willkürliche Festnahmen von Einwanderern",
-    "Rom - 800.000 junge Katholiken halten Gebetsstunde mit Papst Leo unter freiem Himmel ab"
+    "Rom - 800.000 junge Katholiken halten Gebetsstunde mit Papst Leo unter freiem Himmel ab",
+    "Nahost - Hamas lehnt Entwaffnung ohne palästinensischen Staat ab",
+    "Migration - Zahl der Asyl-Erstanträge in Deutschland sinkt deutlich",
+    "Soziales - DRK-Präsidentin Hasselfeldt: Pflege wird zur Armutsfalle"
   ],
   "hashes": [
-    "355b2596d41d1def370412f26b0bcb26",
-    "8d41ac04538e2351fcb4a4e7afc8fe2d",
-    "9a6928270e235e77ce2b763cbe4346a0",
     "c513e3af4bb3a561ba661877a9187eaa",
     "a012c0768febd3e833af4328734f7d9c",
     "ca9f2a36066406cb8bcd8387befc7dea",
@@ -4005,6 +4002,9 @@
     "c52fa74d4b40352b6ab92404c62b5857",
     "153421a26580da98f52beb2305f10218",
     "10dd850304b1cab6b17e8f7a793fd725",
-    "fc873cf952027332ccaf4500d4a844b5"
+    "fc873cf952027332ccaf4500d4a844b5",
+    "91fa96a2c2ac2be75c3edd8818db9623",
+    "ba32edb9e5aeaa119e3fae12fc2fe23b",
+    "7ac922d111aeadd38cc21f6eac20e89c"
   ]
 }
