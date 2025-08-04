@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/franziska-hoppermann-soll-enquete-kommission-zu-corona-leiten-110584697.html",
-    "https://www.deutschlandfunk.de/menschen-in-der-lebensmitte-fuehlen-sich-haeufiger-einsam-102.html",
-    "https://www.deutschlandfunk.de/merz-kuendigt-weitere-militaerhilfen-fuer-kiew-an-deutschlands-zukunft-eng-mit-der-ukraine-verbunden-102.html",
     "https://www.deutschlandfunk.de/mehr-als-50-tote-bei-neuen-israelischen-angriffen-102.html",
     "https://www.deutschlandfunk.de/bitcoin-erstmals-ueber-der-marke-von-112-000-us-dollar-100.html",
     "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-spricht-mit-afghanischem-ex-praesident-karsai-ueber-abschiebungen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spd-befuerwortet-anhebung-der-altersgrenze-fuer-bier-und-wein-auf-18-jahre-union-zurueckhaltend-100.html",
     "https://www.deutschlandfunk.de/spd-droht-israels-regierung-wegen-humanitaerer-lage-in-gaza-mit-diplomatischen-konsequenzen-100.html",
     "https://www.deutschlandfunk.de/vor-antrittsbesuch-in-den-usa-int-lars-klingbeil-spd-bundesfinanzminister-100.html",
-    "https://www.deutschlandfunk.de/regierungschef-paluckas-wie-angekuendigt-zurueckgetreten-100.html"
+    "https://www.deutschlandfunk.de/regierungschef-paluckas-wie-angekuendigt-zurueckgetreten-100.html",
+    "https://www.deutschlandfunk.de/angehoerige-von-geiseln-kritisieren-netanjahu-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kommentar-zum-umgang-mit-der-afd-die-union-laesst-sich-jagen-110618198.html",
+    "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html"
   ],
   "content_hashes": [
-    "3e91e5fce9930e80e09ae6b7b2272158",
-    "a5cd7aeeef74f15dbb4a4b39ed86daf0",
-    "f12a7db4b917847e78744169992f1cdd",
     "6a70e43da5761d2edd3ecb1ce2311181",
     "e57e8d4f59589e1667a20d97cc47b0f2",
     "b0955d324d8a486153047f955a60434d",
@@ -2001,12 +1998,12 @@
     "573df674e15a59b3ace4c7f17a69e0e5",
     "81359b950b2923fd08edcce2bf0a2882",
     "72621fbdc7528e0f3ea49ae254e2f05e",
-    "4579a71d22f1407f9053c4d4420f59d8"
+    "4579a71d22f1407f9053c4d4420f59d8",
+    "e018020745c83c28b10cd1be79b01240",
+    "772429e541e0c5ea48ceaa45138b60e1",
+    "cf556c4a1b657be4e54da6fda2d29e45"
   ],
   "titles": [
-    "Franziska Hoppermann: Sie soll die Pandemie aufarbeiten",
-    "Studie - Menschen in der \"Lebensmitte\" fühlen sich häufiger einsam",
-    "Ukraine-Krieg - Merz kündigt weitere Militärhilfen für Kiew an - \"Deutschlands Zukunft eng mit der Ukraine verbunden\"",
     "Gaza-Krieg - Mehr als 50 Tote bei neuen israelischen Angriffen",
     "Krypto-Asset - Bitcoin erstmals über der Marke von 112.000 US-Dollar",
     "Treffen in Berlin - Ex-BND-Chef Hanning spricht mit afghanischem Ex-Präsident Karsai über Abschiebungen",
@@ -3003,12 +3000,12 @@
     "Gesundheitspolitik - SPD befürwortet Anhebung der Altersgrenze für Bier und Wein auf 18 Jahre - Union zurückhaltend",
     "Nahostkrieg - SPD droht Israels Regierung wegen humanitärer Lage in Gaza mit diplomatischen Konsequenzen",
     "Vor USA-Besuch - Lars Klingbeil (SPD): Europa als Kontinent muss stärker werden",
-    "Litauen - Regierungschef Paluckas wie angekündigt zurückgetreten"
+    "Litauen - Regierungschef Paluckas wie angekündigt zurückgetreten",
+    "Gaza-Krieg - Angehörige von Geiseln kritisieren Netanjahu",
+    "Umgang mit der AfD: Die Union lässt sich jagen",
+    "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen"
   ],
   "hashes": [
-    "277310ea19a15ea5e922c2b8e65ede35",
-    "31a2e660b97d57e511837e54ed8c4002",
-    "8b538ee38704afe337d0fcb6a4f26688",
     "a7f300ff5917dc0104c562f327fd6de9",
     "b8861d71962c64a7e34fa8f0e956c4b2",
     "3a1bef9e847746daa89bfe37767b65ca",
@@ -4005,6 +4002,9 @@
     "63e9112e3d6d56be0a05afaacfd373a9",
     "029103227d51a225557ffd4b933686d8",
     "2f711d9b1d2f1be865903fd63dc8739b",
-    "bf1b39adb12205d33c90a60024e37ab9"
+    "bf1b39adb12205d33c90a60024e37ab9",
+    "d48b8a3bf60ce27abf9ca8dcc95dcab2",
+    "9a5e9c2efe3fcd516d7cc3ce0e785240",
+    "0ae2bd859b7aec00bffcb61495f9448d"
   ]
 }
