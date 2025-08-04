@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/massaker-von-srebrenica-jaehrt-sich-zum-30-mal-100.html",
-    "https://www.deutschlandfunk.de/einwanderern-wird-zugang-zu-vorschulprogramm-gestrichen-100.html",
     "https://www.deutschlandfunk.de/bitcoin-auf-rekordjagd-100.html",
     "https://www.deutschlandfunk.de/union-will-wahl-von-juristin-brosius-gersdorf-zur-verfassungsrichterin-verschieben-100.html",
     "https://www.deutschlandfunk.de/hasselmann-gruene-bundestag-muss-zwei-drittel-mehrheit-ohne-afd-gewaehrleisten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/netanjahu-plant-offenbar-ausweitung-des-gaza-krieges-102.html",
     "https://www.deutschlandfunk.de/gedenken-an-explosion-im-hafen-von-beirut-vor-fuenf-jahren-100.html",
     "https://www.deutschlandfunk.de/zivilisten-bei-fluchtversuch-aus-belagerter-stadt-getoetet-102.html",
-    "https://www.deutschlandfunk.de/greenpeace-verlangt-verbindliche-ziele-im-kampf-gegen-plastikmuell-100.html"
+    "https://www.deutschlandfunk.de/greenpeace-verlangt-verbindliche-ziele-im-kampf-gegen-plastikmuell-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-kuendigt-entscheidungen-an-medien-berichten-von-geplanter-ausweitung-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-soeldner-aus-china-und-afrika-kaempfen-fuer-russland-102.html"
   ],
   "content_hashes": [
-    "907d7fc9e689d8ed8f50073818233705",
-    "175ec65b8e51b08111825c1c07f12bae",
     "e00ad9f8e89d2bae5eaf61e59c9dde8d",
     "51ce83cea46e0425273fe2f4e185276a",
     "1d26743a68291acf5086d42eeea4d4a1",
@@ -2001,11 +1999,11 @@
     "d0d98445d8e4df377ba2ab096069c2fd",
     "dacb1ee0340706c0b6cf9c5f2b0a34b3",
     "e4977907c25f5fa220ff7d8672736f31",
-    "da36fd028862dc90bcfaddd4dd13a764"
+    "da36fd028862dc90bcfaddd4dd13a764",
+    "68ca1edbc445831a2ec5eff149b10d25",
+    "1ede31ea908fb1dcd2165e5ffafc87ed"
   ],
   "titles": [
-    "Internationaler Gedenktag - Massaker von Srebrenica jährt sich zum 30. Mal",
-    "US-Regierung - Einwanderern wird Zugang zu Vorschulprogramm gestrichen",
     "Kryptowährung - Bitcoin auf Rekordjagd",
     "Bundestag - Union will Wahl von Juristin Brosius-Gersdorf zur Verfassungsrichterin verschieben",
     "Wahl der Verfassungsrichter - Haßelmann (Grüne): Bundestag muss Zwei-Drittel-Mehrheit ohne AfD gewährleisten",
@@ -3003,11 +3001,11 @@
     "Nahost - Netanjahu plant offenbar Ausweitung des Gaza-Krieges",
     "Libanon - Gedenken an Explosion im Hafen von Beirut vor fünf Jahren",
     "Bürgerkrieg im Sudan - Zivilisten bei Fluchtversuch aus belagerter Stadt getötet",
-    "Vor UNO-Verhandlungen - Greenpeace verlangt verbindliche Ziele im Kampf gegen Plastikmüll"
+    "Vor UNO-Verhandlungen - Greenpeace verlangt verbindliche Ziele im Kampf gegen Plastikmüll",
+    "Gaza-Krieg - Netanjahu kündigt Entscheidungen an - Medien berichten von geplanter Ausweitung",
+    "Ukraine-Krieg - Selenskyj: \"Söldner aus China und Afrika kämpfen für Russland\""
   ],
   "hashes": [
-    "44d7a3fa1df6d5f20861e3f4f6fb3266",
-    "34d6254735dfca9490880aaa1c3d5777",
     "bf706d1965fd61b60f9a52fbf5beb330",
     "f5ae1e677230db77efa5887f67642dec",
     "65320bca260b2e13da18049b17e43c8f",
@@ -4005,6 +4003,8 @@
     "9b2c4bc420dd92e9b1149e492a435ec8",
     "54aea8397e76a205a2d5b7c7f2c3fd1f",
     "91b852c5d22ed3c82a58c81f6dcad747",
-    "fa2ea55cc05ab199c1d17ea0ae2a7c5f"
+    "fa2ea55cc05ab199c1d17ea0ae2a7c5f",
+    "0f85ec75ab30bd2bbad2fba4651f7443",
+    "ca67a5f7ad15e8b5ab97aa53e1d800ec"
   ]
 }
