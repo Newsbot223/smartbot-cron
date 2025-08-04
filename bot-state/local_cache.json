@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/union-will-wahl-von-spd-kandidatin-brosius-gersdorf-zur-verfassungsrichterin-verschieben-100.html",
-    "https://www.deutschlandfunk.de/abstimmungen-ueber-wachstumsbooster-mitpreisbremse-und-familiennachzug-100.html",
     "https://www.deutschlandfunk.de/dobrindt-gegen-entfernung-von-kreuzen-an-schulen-100.html",
     "https://www.deutschlandfunk.de/bundestags-sitzung-kurz-vor-abstimmung-ueber-verfassungsrichter-unterbrochen-100.html",
     "https://www.deutschlandfunk.de/antrittsrede-von-bundeskanzler-merz-deutschland-muss-schneller-einfacher-und-digitaler-werden-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/soeder-vorstoss-loest-diskussionen-aus-kanzleramtschef-frei-gespraechsbereit-spd-kritisiert-102.html",
     "https://www.deutschlandfunk.de/ministerin-reiche-sagt-lausitz-bau-von-gaskraftwerken-zu-104.html",
     "https://www.deutschlandfunk.de/kari-scheidet-aus-amt-aus-zukunft-des-postens-unklar-100.html",
-    "https://www.deutschlandfunk.de/schweizer-regierung-will-hohe-us-zoelle-noch-abwenden-100.html"
+    "https://www.deutschlandfunk.de/schweizer-regierung-will-hohe-us-zoelle-noch-abwenden-100.html",
+    "https://www.deutschlandfunk.de/medienbericht-netanjahu-erwaegt-einnahme-des-gesamten-gazastreifens-100.html",
+    "https://www.faz.net/aktuell/feuilleton/debatten/usa-liberale-juden-distanzieren-sich-von-israels-gaza-politik-110621730.html"
   ],
   "content_hashes": [
-    "0116db341c7df0c2344a8a0db1ebec1e",
-    "008fff32fe445a4a296b594f4d9ce2e4",
     "a38b5f9848b5a448173f31bb201c3725",
     "e21be663dbcb3efed7fc0bca3a314f9b",
     "1631a6dcda580eb6fd9f5565f2a1a3d8",
@@ -2001,11 +1999,11 @@
     "fa4f9f420a6b35e10a27d6b0d21b90f1",
     "5f9effce769f634d75b6e775e93a99a7",
     "78d64dde83c28c11fdbb39f09be85e35",
-    "875d64cbb74056669ffbb26d4dce7d12"
+    "875d64cbb74056669ffbb26d4dce7d12",
+    "77bfbfc787bd14c841aa2b3142006512",
+    "613794c8fe91421890fc95c693157250"
   ],
   "titles": [
-    "Bundestag - Union will Wahl von SPD-Kandidatin Brosius-Gersdorf zur Verfassungsrichterin verschieben",
-    "Bundesrat - Abstimmungen über Wachstumsbooster, Mitpreisbremse und Familiennachzug",
     "Kruzifix-Urteil in Bayern - Dobrindt gegen Entfernung von Kreuzen an Schulen",
     "Streit über von SPD-nominierte Kandidatin - Bundestags-Sitzung kurz vor Abstimmung über Verfassungsrichter unterbrochen",
     "Bundesrat - Antrittsrede von Bundeskanzler Merz: Deutschland muss schneller, einfacher und digitaler werden",
@@ -3003,11 +3001,11 @@
     "Bürgergeld - Söder-Vorstoß löst Diskussionen aus - Kanzleramtschef Frei gesprächsbereit - SPD kritisiert",
     "Ostdeutschland - Ministerin Reiche sagt Lausitz Bau von Gaskraftwerken zu",
     "Bundestierschutzbeauftragte - Kari scheidet aus Amt aus - Zukunft des Postens unklar",
-    "Zollstreit - Schweizer Regierung will hohe US-Zölle noch abwenden"
+    "Zollstreit - Schweizer Regierung will hohe US-Zölle noch abwenden",
+    "Nahost-Krieg - Medienbericht: \"Netanjahu erwägt Einnahme des gesamten Gazastreifens\"",
+    "Debatte um Israel: Amerikas liberale Juden wenden sich von Israel ab"
   ],
   "hashes": [
-    "92c8fabfac01d36b9cca82277d0b78a9",
-    "4d44357a3ae61fa5eb886c1c5b108668",
     "0eeb152b5e4015eb497ad9db85ec1271",
     "7ca52a129d847e2dc70a34b57d17f8d3",
     "6968a84df1d84de6b90491e77ef8495d",
@@ -4005,6 +4003,8 @@
     "887c3a81c9a792ed217cf5f4f509d6e2",
     "d65b403f90048c1c23fc15891660e9b0",
     "35556b8e219db7246cf37aec3ceb3937",
-    "c351af31264316b876012067cf591839"
+    "c351af31264316b876012067cf591839",
+    "02bc05276cb58661acc28ef6f5ae0b16",
+    "c6bdf07f68710a0485b94502d561b2cf"
   ]
 }
