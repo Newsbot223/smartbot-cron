@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/experten-raten-frauen-zu-frueherer-mammografie-als-bislang-empfohlen-102.html",
-    "https://www.deutschlandfunk.de/bundes-und-landespolitiker-empoert-ueber-auslaender-und-deutschfeindliche-parolen-gegen-urlauber-auf-100.html",
     "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-will-afd-mitgliedern-zugang-zum-staatsdienst-verwehren-110584033.html",
     "https://www.deutschlandfunk.de/auch-gesundheitsausschuss-befragt-sudhof-zur-maskenaffaere-um-jens-spahn-100.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-spd-mahnt-respekt-fuer-richter-und-deren-entscheidungen-an-seitenhieb-auf-inn-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israelischer-botschafter-dringlichkeitssitzung-zu-geiseln-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-konzerthalle-mit-149-todesopfern-beginnt-100.html",
     "https://www.faz.net/aktuell/politik/inland/buergergeld-union-und-spd-fordern-mehr-haerte-gegen-arbeitsverweigerer-110621067.html",
-    "https://www.deutschlandfunk.de/soeder-csu-kein-buergergeld-mehr-fuer-ukrainische-kriegsfluechtlinge-100.html"
+    "https://www.deutschlandfunk.de/soeder-csu-kein-buergergeld-mehr-fuer-ukrainische-kriegsfluechtlinge-100.html",
+    "https://www.deutschlandfunk.de/brandenburgs-ministerpraesident-woidke-extremismus-bedroht-zukunft-von-heimat-wohlstand-und-freiheit-100.html",
+    "https://www.deutschlandfunk.de/ab-heute-verstaerkte-geschwindigkeitskontrollen-in-mehreren-bundeslaendern-und-eu-staaten-100.html"
   ],
   "content_hashes": [
-    "0c0da44aaded994c880afbbf3ccdef90",
-    "752eb25a3166f50dbb48e70aa823ec94",
     "3cd96eb559e8bc6ba29c49ab3e9a2f61",
     "544558290c286399a80df992c993bd7e",
     "e147b3f9e5b9520977aa2ef2c9b0e7a5",
@@ -2001,11 +1999,11 @@
     "98c457035360ecf0bb297f6a19327ec8",
     "e9becd0e30dd84114575da3be70fbe93",
     "466486cfee44d8b8891ae0d6210eefdc",
-    "0695bcfd910df3afd3fef0af75df4e55"
+    "0695bcfd910df3afd3fef0af75df4e55",
+    "c8def72b49392aaed353d1cb7e61508a",
+    "ca206f1ae31a4fb6a9afcc8f2c7aeef4"
   ],
   "titles": [
-    "Brustkrebs - Experten raten Frauen zu früherer Mammografie als bislang empfohlen",
-    "Massentourismus - Bundes- und Landespolitiker empört über \"ausländer- und deutschfeindliche Parolen gegen Urlauber auf Mallorca\"",
     "Rheinland-Pfalz will AfD-Mitgliedern Zugang zum Staatsdienst verwehren",
     "Bundestag - Auch Gesundheitsausschuss befragt Sudhof zur Maskenaffäre um Jens Spahn",
     "Bundestag - Justizministerin Hubig (SPD) mahnt Respekt für Richter und deren Entscheidungen an - Seitenhieb auf Innenminister Dobrindt (CSU) vermutet",
@@ -3003,11 +3001,11 @@
     "UNO-Sicherheitsrat - Israelischer Botschafter: Dringlichkeitssitzung zu Geiseln im Gazastreifen",
     "Moskau - Prozess um Anschlag auf Konzerthalle mit 149 Todesopfern beginnt",
     "Bürgergeld: Koalition fordert mehr Härte gegen Arbeitsverweigerer",
-    "ZDF-Interview - Söder (CSU): Kein Bürgergeld mehr für ukrainische Kriegsflüchtlinge"
+    "ZDF-Interview - Söder (CSU): Kein Bürgergeld mehr für ukrainische Kriegsflüchtlinge",
+    "\"Größer als Spremberg\" - Brandenburgs Ministerpräsident Woidke: \"Extremismus bedroht Zukunft von Heimat, Wohlstand und Freiheit\"",
+    "Aktionswoche - Ab heute verstärkte Geschwindigkeitskontrollen in mehreren Bundesländern und EU-Staaten"
   ],
   "hashes": [
-    "38a5675a20658a10b8f3eb9139e2656c",
-    "9d82fb30a86081fed90aace82e8c547f",
     "24777c7480cbcdd83ec7a30d457f9a94",
     "3334b98f39ac3f824c5ddc503d82513d",
     "595637a3545b47c8cf5dd198485629da",
@@ -4005,6 +4003,8 @@
     "c1a4f05937dd3a55ac1f0212a0f57cfc",
     "dc9da9ba57524e3a536445557d404265",
     "2cc31ed03d1664ca54f89a889094a4a0",
-    "da28a3a66932fe663888284dc238a89f"
+    "da28a3a66932fe663888284dc238a89f",
+    "13f47f98991290f5b2950bd860e1a56d",
+    "3bb3ded2a9e1160ecf0ea1de6610ed3d"
   ]
 }
