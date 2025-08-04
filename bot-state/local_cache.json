@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsch-franzoesischer-tourist-im-iran-festgenommen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/bayern-will-begleitetes-trinken-fuer-jugendliche-verbieten-110584865.html",
-    "https://www.deutschlandfunk.de/bundesrichter-setzt-einschraenkung-des-geburtsrechts-auf-us-staatsbuergerschaft-erneut-aus-102.html",
     "https://www.deutschlandfunk.de/voelkermord-von-srebrenica-jaehrt-sich-zum-30-mal-102.html",
     "https://www.deutschlandfunk.de/netanjahu-hofft-auf-baldige-freilassung-weiterer-geiseln-100.html",
     "https://www.deutschlandfunk.de/waldbraende-in-der-toskana-und-auf-sardinien-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html",
     "https://www.deutschlandfunk.de/kloeckner-dringt-auf-erneute-reform-des-bundestagswahlrechts-104.html",
     "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-konzerthalle-mit-mehr-als-140-toten-hat-begonnen-102.html",
-    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-sieht-in-europa-aufholbedarf-bei-halbleiter-herstellung-100.html"
+    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-sieht-in-europa-aufholbedarf-bei-halbleiter-herstellung-100.html",
+    "https://www.deutschlandfunk.de/israel-will-mehr-aufmerksamkeit-fuer-geiseln-im-gazastreifen-sondersitzung-des-sicherheitsrats-100.html",
+    "https://www.deutschlandfunk.de/bundeswehr-ordert-militaer-lkw-bei-rheinmetall-102.html",
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/beschleunigte-asylverfahren-fuehren-zu-klagewelle-bei-den-gerichten-110621371.html"
   ],
   "content_hashes": [
-    "9753630cf8895f0fdab42370aa1c9840",
-    "a4683639259c3819ae05b6cacef20aac",
-    "1125fe374cf4ed661268c8989d5e5c94",
     "e78abf414646c24f3b195a6e72ee350f",
     "9b4d4d24b653cdbf79e7b2ac5993627a",
     "9d2fced53d7f80d602d686f26be8cb90",
@@ -2001,12 +1998,12 @@
     "cf556c4a1b657be4e54da6fda2d29e45",
     "33f71697af2fc1ff4c3a04e4e92e9961",
     "533f91b25dfbeec4f7be2d8b207387e7",
-    "fabc6c7614a024f2dd34363bb0a175a2"
+    "fabc6c7614a024f2dd34363bb0a175a2",
+    "e04f434434a3ab50ed9e3ee22d620164",
+    "730969c63586e41604d85f20b80bd0f3",
+    "4660d3ce7f1a7e6edfe8cb8ab5df5417"
   ],
   "titles": [
-    "Fahrradreise - Deutsch-französischer Tourist im Iran festgenommen",
-    "Bayern will „begleitetes Trinken“ für Jugendliche verbieten",
-    "Justiz - Bundesrichter setzt Einschränkung des Geburtsrechts auf US-Staatsbürgerschaft erneut aus",
     "Internationaler Gedenktag - Völkermord von Srebrenica jährt sich zum 30. Mal",
     "Gaza-Krieg - Netanjahu hofft auf baldige Freilassung weiterer Geiseln",
     "Italien - Waldbrände in der Toskana und auf Sardinien",
@@ -3003,12 +3000,12 @@
     "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen",
     "Bundesregierung - Klöckner dringt auf erneute Reform des Bundestagswahlrechts",
     "Moskau - Prozess um Anschlag auf Konzerthalle mit mehr als 140 Toten hat begonnen",
-    "Besuch in Dresden - Wirtschaftsministerin Reiche sieht in Europa Aufholbedarf bei Halbleiter-Herstellung"
+    "Besuch in Dresden - Wirtschaftsministerin Reiche sieht in Europa Aufholbedarf bei Halbleiter-Herstellung",
+    "Nahost - Israel will mehr Aufmerksamkeit für Geiseln im Gazastreifen - Sondersitzung des Sicherheitsrats",
+    "Wirtschaft - Bundeswehr ordert Militär-Lkw bei Rheinmetall",
+    "Nicht nur in Hessen: Zahl der Asyl-Verfahren bei Gerichten fast verdoppelt"
   ],
   "hashes": [
-    "145457ae348848759fb060d5c7bcdb17",
-    "943f7962c6b3e6f37c0ae1774bbbabbd",
-    "8d22a6e4b7521dd503f71cf342c75c55",
     "b951323ddd5ee04b3c6647dd860696cd",
     "b7a043fd9596d0c4158db52e638fe158",
     "95d2db88a58782809c8f89528b58114d",
@@ -4005,6 +4002,9 @@
     "0ae2bd859b7aec00bffcb61495f9448d",
     "4279af96af659318178c147457b8ff7c",
     "4ad734e14eec160e773de1c0f3053122",
-    "7a1bcd9629f2a33cce06d30bc8851e71"
+    "7a1bcd9629f2a33cce06d30bc8851e71",
+    "70ecb69994d13695ccc3bd6fc3ae6180",
+    "2fddaf341c01898af7820ac4ec6f4949",
+    "59a6f8560f64321a5284fb4d6c3b32c3"
   ]
 }
