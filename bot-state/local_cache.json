@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-hofft-auf-baldige-freilassung-weiterer-geiseln-100.html",
-    "https://www.deutschlandfunk.de/waldbraende-in-der-toskana-und-auf-sardinien-100.html",
-    "https://www.deutschlandfunk.de/staedtetagspraesident-jung-das-kann-uns-die-waermewende-zerschiessen-100.html",
-    "https://www.deutschlandfunk.de/justizministerin-hubig-spd-droht-vermietern-mit-bussgeld-100.html",
     "https://www.deutschlandfunk.de/massaker-von-srebrenica-jaehrt-sich-zum-30-mal-100.html",
     "https://www.deutschlandfunk.de/einwanderern-wird-zugang-zu-vorschulprogramm-gestrichen-100.html",
     "https://www.deutschlandfunk.de/bitcoin-auf-rekordjagd-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/israel-will-mehr-aufmerksamkeit-fuer-geiseln-im-gazastreifen-sondersitzung-des-sicherheitsrats-100.html",
     "https://www.deutschlandfunk.de/bundeswehr-ordert-militaer-lkw-bei-rheinmetall-102.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/beschleunigte-asylverfahren-fuehren-zu-klagewelle-bei-den-gerichten-110621371.html",
-    "https://www.deutschlandfunk.de/finanzminister-sadzius-soll-voruebergehend-regierungsgeschaefte-fuehren-100.html"
+    "https://www.deutschlandfunk.de/finanzminister-sadzius-soll-voruebergehend-regierungsgeschaefte-fuehren-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-plant-offenbar-ausweitung-des-gaza-krieges-102.html",
+    "https://www.deutschlandfunk.de/gedenken-an-explosion-im-hafen-von-beirut-vor-fuenf-jahren-100.html",
+    "https://www.deutschlandfunk.de/zivilisten-bei-fluchtversuch-aus-belagerter-stadt-getoetet-102.html",
+    "https://www.deutschlandfunk.de/greenpeace-verlangt-verbindliche-ziele-im-kampf-gegen-plastikmuell-100.html"
   ],
   "content_hashes": [
-    "9b4d4d24b653cdbf79e7b2ac5993627a",
-    "9d2fced53d7f80d602d686f26be8cb90",
-    "aab7de6cee380cc40bef4dfd3d6f2521",
-    "2b25eb04243a0355ab1a9826b346e0c9",
     "907d7fc9e689d8ed8f50073818233705",
     "175ec65b8e51b08111825c1c07f12bae",
     "e00ad9f8e89d2bae5eaf61e59c9dde8d",
@@ -2001,13 +1997,13 @@
     "e04f434434a3ab50ed9e3ee22d620164",
     "730969c63586e41604d85f20b80bd0f3",
     "4660d3ce7f1a7e6edfe8cb8ab5df5417",
-    "cb30f3589890dfaa454cb0bab6e8f553"
+    "cb30f3589890dfaa454cb0bab6e8f553",
+    "d0d98445d8e4df377ba2ab096069c2fd",
+    "dacb1ee0340706c0b6cf9c5f2b0a34b3",
+    "e4977907c25f5fa220ff7d8672736f31",
+    "da36fd028862dc90bcfaddd4dd13a764"
   ],
   "titles": [
-    "Gaza-Krieg - Netanjahu hofft auf baldige Freilassung weiterer Geiseln",
-    "Italien - Waldbrände in der Toskana und auf Sardinien",
-    "Stromsteuer - Städtetagspräsident Jung: \"Das kann uns die Wärmewende zerschießen\"",
-    "Mietpreisbremse - Justizministerin Hubig (SPD) droht Vermietern mit Bußgeld",
     "Internationaler Gedenktag - Massaker von Srebrenica jährt sich zum 30. Mal",
     "US-Regierung - Einwanderern wird Zugang zu Vorschulprogramm gestrichen",
     "Kryptowährung - Bitcoin auf Rekordjagd",
@@ -3003,13 +2999,13 @@
     "Nahost - Israel will mehr Aufmerksamkeit für Geiseln im Gazastreifen - Sondersitzung des Sicherheitsrats",
     "Wirtschaft - Bundeswehr ordert Militär-Lkw bei Rheinmetall",
     "Nicht nur in Hessen: Zahl der Asyl-Verfahren bei Gerichten fast verdoppelt",
-    "Litauen - Finanzminister Sadzius soll vorübergehend Regierungsgeschäfte führen"
+    "Litauen - Finanzminister Sadzius soll vorübergehend Regierungsgeschäfte führen",
+    "Nahost - Netanjahu plant offenbar Ausweitung des Gaza-Krieges",
+    "Libanon - Gedenken an Explosion im Hafen von Beirut vor fünf Jahren",
+    "Bürgerkrieg im Sudan - Zivilisten bei Fluchtversuch aus belagerter Stadt getötet",
+    "Vor UNO-Verhandlungen - Greenpeace verlangt verbindliche Ziele im Kampf gegen Plastikmüll"
   ],
   "hashes": [
-    "b7a043fd9596d0c4158db52e638fe158",
-    "95d2db88a58782809c8f89528b58114d",
-    "d4ab6922d160d2158cf42bf4aca0ebe6",
-    "4711a1085fbfd9ebbf639dee328623f9",
     "44d7a3fa1df6d5f20861e3f4f6fb3266",
     "34d6254735dfca9490880aaa1c3d5777",
     "bf706d1965fd61b60f9a52fbf5beb330",
@@ -4005,6 +4001,10 @@
     "70ecb69994d13695ccc3bd6fc3ae6180",
     "2fddaf341c01898af7820ac4ec6f4949",
     "59a6f8560f64321a5284fb4d6c3b32c3",
-    "225ef2ccef3946924a9f4febc78f1d0e"
+    "225ef2ccef3946924a9f4febc78f1d0e",
+    "9b2c4bc420dd92e9b1149e492a435ec8",
+    "54aea8397e76a205a2d5b7c7f2c3fd1f",
+    "91b852c5d22ed3c82a58c81f6dcad747",
+    "fa2ea55cc05ab199c1d17ea0ae2a7c5f"
   ]
 }
