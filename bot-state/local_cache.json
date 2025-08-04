@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-50-tote-bei-neuen-israelischen-angriffen-102.html",
-    "https://www.deutschlandfunk.de/bitcoin-erstmals-ueber-der-marke-von-112-000-us-dollar-100.html",
     "https://www.deutschlandfunk.de/ex-bnd-chef-hanning-spricht-mit-afghanischem-ex-praesident-karsai-ueber-abschiebungen-100.html",
     "https://www.deutschlandfunk.de/deutsch-franzoesischer-tourist-im-iran-festgenommen-102.html",
     "https://www.faz.net/aktuell/politik/inland/bayern-will-begleitetes-trinken-fuer-jugendliche-verbieten-110584865.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierungschef-paluckas-wie-angekuendigt-zurueckgetreten-100.html",
     "https://www.deutschlandfunk.de/angehoerige-von-geiseln-kritisieren-netanjahu-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommentar-zum-umgang-mit-der-afd-die-union-laesst-sich-jagen-110618198.html",
-    "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html"
+    "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html",
+    "https://www.deutschlandfunk.de/kloeckner-dringt-auf-erneute-reform-des-bundestagswahlrechts-104.html",
+    "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-konzerthalle-mit-mehr-als-140-toten-hat-begonnen-102.html"
   ],
   "content_hashes": [
-    "6a70e43da5761d2edd3ecb1ce2311181",
-    "e57e8d4f59589e1667a20d97cc47b0f2",
     "b0955d324d8a486153047f955a60434d",
     "9753630cf8895f0fdab42370aa1c9840",
     "a4683639259c3819ae05b6cacef20aac",
@@ -2001,11 +1999,11 @@
     "4579a71d22f1407f9053c4d4420f59d8",
     "e018020745c83c28b10cd1be79b01240",
     "772429e541e0c5ea48ceaa45138b60e1",
-    "cf556c4a1b657be4e54da6fda2d29e45"
+    "cf556c4a1b657be4e54da6fda2d29e45",
+    "33f71697af2fc1ff4c3a04e4e92e9961",
+    "533f91b25dfbeec4f7be2d8b207387e7"
   ],
   "titles": [
-    "Gaza-Krieg - Mehr als 50 Tote bei neuen israelischen Angriffen",
-    "Krypto-Asset - Bitcoin erstmals über der Marke von 112.000 US-Dollar",
     "Treffen in Berlin - Ex-BND-Chef Hanning spricht mit afghanischem Ex-Präsident Karsai über Abschiebungen",
     "Fahrradreise - Deutsch-französischer Tourist im Iran festgenommen",
     "Bayern will „begleitetes Trinken“ für Jugendliche verbieten",
@@ -3003,11 +3001,11 @@
     "Litauen - Regierungschef Paluckas wie angekündigt zurückgetreten",
     "Gaza-Krieg - Angehörige von Geiseln kritisieren Netanjahu",
     "Umgang mit der AfD: Die Union lässt sich jagen",
-    "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen"
+    "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen",
+    "Bundesregierung - Klöckner dringt auf erneute Reform des Bundestagswahlrechts",
+    "Moskau - Prozess um Anschlag auf Konzerthalle mit mehr als 140 Toten hat begonnen"
   ],
   "hashes": [
-    "a7f300ff5917dc0104c562f327fd6de9",
-    "b8861d71962c64a7e34fa8f0e956c4b2",
     "3a1bef9e847746daa89bfe37767b65ca",
     "145457ae348848759fb060d5c7bcdb17",
     "943f7962c6b3e6f37c0ae1774bbbabbd",
@@ -4005,6 +4003,8 @@
     "bf1b39adb12205d33c90a60024e37ab9",
     "d48b8a3bf60ce27abf9ca8dcc95dcab2",
     "9a5e9c2efe3fcd516d7cc3ce0e785240",
-    "0ae2bd859b7aec00bffcb61495f9448d"
+    "0ae2bd859b7aec00bffcb61495f9448d",
+    "4279af96af659318178c147457b8ff7c",
+    "4ad734e14eec160e773de1c0f3053122"
   ]
 }
