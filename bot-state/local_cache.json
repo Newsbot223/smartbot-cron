@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russische-luftangriffe-zielen-in-der-nacht-vor-allem-auf-den-westen-des-landes-102.html",
-    "https://www.deutschlandfunk.de/drogenboss-fito-stimmt-auslieferung-in-die-usa-zu-100.html",
     "https://www.deutschlandfunk.de/russische-luftangriffe-zielen-in-der-nacht-vor-allem-auf-den-westen-des-landes-selenskyj-spricht-von-102.html",
     "https://www.deutschlandfunk.de/offenbar-abkommen-ueber-zukunft-des-franzoesischen-ueberseegebiets-erzielt-100.html",
     "https://www.deutschlandfunk.de/thyssenkrupp-steel-und-ig-metall-einigen-sich-auf-sanierungstarifvertrag-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/windkraft-deutschland-plant-weniger-abhaengigkeit-von-china-bis-2035-a-305b82b3-219e-49d6-a842-071081b9bd8e#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/sicherheitsbehoerden-deutschland-ist-abhaengig-von-palantir-110622091.html",
     "https://www.deutschlandfunk.de/trump-bezeichnet-zugesagte-eu-investitionen-als-geschenk-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/trumps-zolldrohungen-indien-kann-sich-widerstand-leisten-110623640.html"
+    "https://www.faz.net/aktuell/politik/ukraine/trumps-zolldrohungen-indien-kann-sich-widerstand-leisten-110623640.html",
+    "https://www.deutschlandfunk.de/trump-nennt-zugesagte-eu-investitionen-als-geschenk-und-droht-100.html",
+    "https://www.deutschlandfunk.de/rotes-kreuz-mahnt-zur-abschaffung-von-atomwaffen-102.html"
   ],
   "content_hashes": [
-    "199500335b45619661fe98ef6ead22e0",
-    "232ce9f0dff61fdea3cf6f1eef7970af",
     "03d18a41eb66f302774250dd78336132",
     "477cb55ef6cdf0ba7a7e9f8f5e25d725",
     "ef59560f429a88aec893c839c5276ef8",
@@ -2001,11 +1999,11 @@
     "8cfa5afb072595cccb6016d0522c5eda",
     "d6925badf880d01a73e75ff3bac8d952",
     "f97b7445b8e472af677658cda4d72a16",
-    "b2d254fb4615eb5c1982d05232db131b"
+    "b2d254fb4615eb5c1982d05232db131b",
+    "b3dee7dad569c5e7386cdc2f851fb1de",
+    "061ed0563943f3a74b2c31480d623cec"
   ],
   "titles": [
-    "Ukraine - Russische Luftangriffe zielen in der Nacht vor allem auf den Westen des Landes",
-    "Ecuador - Drogenboss \"Fito\" stimmt Auslieferung in die USA zu",
     "Ukraine - Russische Luftangriffe zielen in der Nacht vor allem auf den Westen des Landes - Selenskyj spricht von mehr als 590 Drohnen",
     "Neukaledonien - Offenbar Abkommen über Zukunft des französischen Überseegebiets erzielt",
     "Stahlindustrie - Thyssenkrupp Steel und IG Metall einigen sich auf Sanierungstarifvertrag",
@@ -3003,11 +3001,11 @@
     "Windkraft: Deutschland plant weniger Abhängigkeit von China bis 2035",
     "Diskussion über Software: Deutschland ist abhängig von Palantir",
     "Handelsabkommen - Trump bezeichnet zugesagte EU-Investitionen als \"Geschenk\"",
-    "Trumps Zolldrohungen: Indien kann sich Widerstand leisten"
+    "Trumps Zolldrohungen: Indien kann sich Widerstand leisten",
+    "Handelsabkommen - Trump nennt zugesagte EU-Investitionen als \"Geschenk\" - und droht",
+    "80 Jahre nach Hiroshima - Rotes Kreuz mahnt zur Abschaffung von Atomwaffen"
   ],
   "hashes": [
-    "2ba0572763d1e66e5ee7a0cd3442d21d",
-    "629a0d05b1705fc9277ebbd1ec3114f9",
     "6883619378d207f85d175a088d9c9d75",
     "16369939fa71f092b7f1f76143ec1066",
     "17f9bdd38331f899c6b9b918af7f5889",
@@ -4005,6 +4003,8 @@
     "de67e9aba711e5bd1937aa222a262ab9",
     "efc3c513bcefc727c6da04f7e9c7b91a",
     "5a23434f9b0e01b49ff31d18fc2b7352",
-    "7f0e32b1f88ae15f322c88175c2dbb51"
+    "7f0e32b1f88ae15f322c88175c2dbb51",
+    "5b39775a4b7007ce2a232f71d4f38637",
+    "41622628b72bcce4be5b7eb62f629a3a"
   ]
 }
