@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wuest-stellt-sich-demonstrativ-hinter-unionsfraktionschef-spahn-100.html",
-    "https://www.deutschlandfunk.de/spd-bietet-union-gespraech-mit-kandidatin-brosius-gersdorf-an-102.html",
     "https://www.deutschlandfunk.de/reichinnek-reagiert-reserviert-auf-gespraechsangebot-dobrindts-104.html",
     "https://www.deutschlandfunk.de/forderungen-nach-haerteren-strafen-fuer-uebergriffe-auf-medizinisches-personal-102.html",
     "https://www.deutschlandfunk.de/datenschutz-beauftragte-fuer-mindestalter-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hisbollah-chef-lehnt-entwaffnung-der-miliz-ab-100.html",
     "https://www.deutschlandfunk.de/machtwechsel-im-nationalen-sicherheitsrat-100.html",
     "https://www.deutschlandfunk.de/israels-aussenminister-fordert-bei-uno-sitzung-sofortige-freilassung-der-hamas-geiseln-oppositionsfu-100.html",
-    "https://www.deutschlandfunk.de/stabilisierung-des-rentenniveaus-und-deutschlandticket-100.html"
+    "https://www.deutschlandfunk.de/stabilisierung-des-rentenniveaus-und-deutschlandticket-100.html",
+    "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-mehr-kompetenzen-fuer-pflegekraefte-und-stabilisierung-des-rentenniveau-100.html",
+    "https://www.deutschlandfunk.de/evakuierungen-in-frankreich-und-spanien-102.html"
   ],
   "content_hashes": [
-    "c50ea363e613417271e48792beee38df",
-    "cef18db2bb06fc3ef7853fb624bc8100",
     "62a72820e64647ef4bd8f5579e6ca8cf",
     "5472039d95666db3f16a4042cdba2ac1",
     "e3acf456bd288c445961ddc6bfd07dfe",
@@ -2001,11 +1999,11 @@
     "453d105171b5b71fa6d37dcf316b39b9",
     "ec4c4f3a94fd0148ebf4ef8e0237d81b",
     "c057e05499b589400d41bf2a661e76cd",
-    "c208247c0155cf435a10c7842062ded3"
+    "c208247c0155cf435a10c7842062ded3",
+    "4fb339baadd56d47eabae743a1df1609",
+    "e81525bab9deaf4efcf69c05e6a76749"
   ],
   "titles": [
-    "Verfassungsrichterwahl - Wüst stellt sich demonstrativ hinter Unionsfraktionschef Spahn",
-    "Verschobene Wahl von Verfassungsrichtern - SPD bietet Union Gespräch mit Kandidatin Brosius-Gersdorf an",
     "Verfassungsrichterwahl - Reichinnek reagiert reserviert auf Gesprächsangebot Dobrindts",
     "Kliniken und Praxen - Forderungen nach härteren Strafen für Übergriffe auf medizinisches Personal",
     "Nutzung von Social Media - Datenschutz-Beauftragte für Mindestalter",
@@ -3003,11 +3001,11 @@
     "Libanon - Hisbollah-Chef lehnt Entwaffnung der Miliz ab",
     "Iran - Machtwechsel im Nationalen Sicherheitsrat",
     "Naher Osten - Israels Außenminister fordert bei UNO-Sitzung sofortige Freilassung der Hamas-Geiseln - Oppositionsführer Lapid warnt vor Ausweitung des Gaza-Kriegs",
-    "Bundeskabinett - Stabilisierung des Rentenniveaus und Deutschlandticket"
+    "Bundeskabinett - Stabilisierung des Rentenniveaus und Deutschlandticket",
+    "Bundeskabinett - Entlastung bei den Gaskosten, mehr Kompetenzen für Pflegekräfte und Stabilisierung des Rentenniveaus",
+    "Waldbrände - Evakuierungen in Frankreich und Spanien"
   ],
   "hashes": [
-    "d97362556cd0ebce25ad07082878d9a2",
-    "64ee4131baf105e7b110e3bbf58155d5",
     "08db468ef603236160ad03913d441dfb",
     "c3ad958ed87419e1841c636e41929fcd",
     "6dd27761ee27797ebd6dd4ad6cb084e8",
@@ -4005,6 +4003,8 @@
     "0456ffe53852eca97309ea7eb77d7e53",
     "49595b034960ec4b14c830d4a37a8c71",
     "ec8e1989b56ad680f2f9939c21a45a25",
-    "ec5fa2fa4b20df587f140fed23fe8d5b"
+    "ec5fa2fa4b20df587f140fed23fe8d5b",
+    "f704e6440b001860edb4eb3d57764f64",
+    "3c71c92391d36943ed2eeb75d82bcd25"
   ]
 }
