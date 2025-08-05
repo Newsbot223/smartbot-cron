@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russische-luftangriffe-zielen-in-der-nacht-vor-allem-auf-den-westen-des-landes-selenskyj-spricht-von-102.html",
-    "https://www.deutschlandfunk.de/offenbar-abkommen-ueber-zukunft-des-franzoesischen-ueberseegebiets-erzielt-100.html",
-    "https://www.deutschlandfunk.de/thyssenkrupp-steel-und-ig-metall-einigen-sich-auf-sanierungstarifvertrag-102.html",
     "https://www.faz.net/aktuell/politik/inland/debattieren-im-schatten-der-rechten-110586666.html",
     "https://www.deutschlandfunk.de/slowakei-erwartet-einigung-mit-uebrigen-eu-staaten-zu-neuen-russland-sanktionen-102.html",
     "https://www.deutschlandfunk.de/linken-fraktionschefin-reichinnek-reagiert-reserviert-auf-gespraechsangebot-dobrindts-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-bezeichnet-zugesagte-eu-investitionen-als-geschenk-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/trumps-zolldrohungen-indien-kann-sich-widerstand-leisten-110623640.html",
     "https://www.deutschlandfunk.de/trump-nennt-zugesagte-eu-investitionen-als-geschenk-und-droht-100.html",
-    "https://www.deutschlandfunk.de/rotes-kreuz-mahnt-zur-abschaffung-von-atomwaffen-102.html"
+    "https://www.deutschlandfunk.de/rotes-kreuz-mahnt-zur-abschaffung-von-atomwaffen-102.html",
+    "https://www.deutschlandfunk.de/sicherheitskabinett-tagt-am-donnerstag-moegliche-ausweitung-des-gaza-krieges-hauptthema-100.html",
+    "https://www.deutschlandfunk.de/bericht-sieht-schwere-sicherheitsversaeumnisse-100.html",
+    "https://www.spiegel.de/panorama/ludwigshafen-afd-kandidat-joachim-paul-darf-bei-ob-wahl-nicht-antreten-a-3a81d34f-db1d-47b6-8d4a-62520c1c4b6c#ref=rss"
   ],
   "content_hashes": [
-    "03d18a41eb66f302774250dd78336132",
-    "477cb55ef6cdf0ba7a7e9f8f5e25d725",
-    "ef59560f429a88aec893c839c5276ef8",
     "273c3e414f7df6825064b6ab0746b26d",
     "61a51f1637d428632c2b9126cd778c2a",
     "8f06967bb7c7d51722e136916eeebc96",
@@ -2001,12 +1998,12 @@
     "f97b7445b8e472af677658cda4d72a16",
     "b2d254fb4615eb5c1982d05232db131b",
     "b3dee7dad569c5e7386cdc2f851fb1de",
-    "061ed0563943f3a74b2c31480d623cec"
+    "061ed0563943f3a74b2c31480d623cec",
+    "d1947876c9d73e787da3255ec216c7c3",
+    "621f67c3a847530b787c5cdb26f506f3",
+    "b1aaa56dbde29d7e62caec084107a999"
   ],
   "titles": [
-    "Ukraine - Russische Luftangriffe zielen in der Nacht vor allem auf den Westen des Landes - Selenskyj spricht von mehr als 590 Drohnen",
-    "Neukaledonien - Offenbar Abkommen über Zukunft des französischen Überseegebiets erzielt",
-    "Stahlindustrie - Thyssenkrupp Steel und IG Metall einigen sich auf Sanierungstarifvertrag",
     "Bundestag: Debattieren im Schatten der Rechten",
     "Krieg gegen die Ukraine - Slowakei erwartet Einigung mit übrigen EU-Staaten zu neuen Russland-Sanktionen",
     "Verfassungsrichterwahl - Linken-Fraktionschefin Reichinnek reagiert reserviert auf Gesprächsangebot Dobrindts",
@@ -3003,12 +3000,12 @@
     "Handelsabkommen - Trump bezeichnet zugesagte EU-Investitionen als \"Geschenk\"",
     "Trumps Zolldrohungen: Indien kann sich Widerstand leisten",
     "Handelsabkommen - Trump nennt zugesagte EU-Investitionen als \"Geschenk\" - und droht",
-    "80 Jahre nach Hiroshima - Rotes Kreuz mahnt zur Abschaffung von Atomwaffen"
+    "80 Jahre nach Hiroshima - Rotes Kreuz mahnt zur Abschaffung von Atomwaffen",
+    "Nahost - Sicherheitskabinett tagt am Donnerstag - mögliche Ausweitung des Gaza-Krieges Hauptthema",
+    "\"Titan\"-Unglück - Bericht sieht schwere Sicherheitsversäumnisse",
+    "Ludwigshafen: AfD-Kandidat Joachim Paul darf bei OB-Wahl nicht antreten"
   ],
   "hashes": [
-    "6883619378d207f85d175a088d9c9d75",
-    "16369939fa71f092b7f1f76143ec1066",
-    "17f9bdd38331f899c6b9b918af7f5889",
     "33dd21407d7703c4186776de01c5864e",
     "3913cbed24e77d4f9a824ca9bde612e7",
     "b432975c5fe9d2e2c54196356c8e413e",
@@ -4005,6 +4002,9 @@
     "5a23434f9b0e01b49ff31d18fc2b7352",
     "7f0e32b1f88ae15f322c88175c2dbb51",
     "5b39775a4b7007ce2a232f71d4f38637",
-    "41622628b72bcce4be5b7eb62f629a3a"
+    "41622628b72bcce4be5b7eb62f629a3a",
+    "9fd637d6a2d7447ceb56e054c1b99be5",
+    "b13ebab6409c754582df2337852ac174",
+    "26cc93b7aac38eb73cd06d41f8a9db8e"
   ]
 }
