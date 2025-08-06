@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-kuendigte-neue-patriot-lieferungen-und-eu-strafzoelle-an-100.html",
     "https://www.deutschlandfunk.de/nrw-pocht-auf-neue-schulferien-regelung-bayern-und-baden-wuerttemberg-sollen-nicht-immer-als-letzte--100.html",
     "https://www.deutschlandfunk.de/bitcoin-ueberspringt-die-120-000-dollar-marke-100.html",
     "https://www.deutschlandfunk.de/exporte-steigen-trotz-globaler-handelsstreitigkeiten-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/finanzbranche-soll-belege-wieder-zehn-jahre-aufbewahren-102.html",
     "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-ruegt-armeechef-fuer-kritik-100.html",
-    "https://www.deutschlandfunk.de/frau-kommt-bei-waldbrand-in-suedfrankreich-ums-leben-102.html"
+    "https://www.deutschlandfunk.de/frau-kommt-bei-waldbrand-in-suedfrankreich-ums-leben-102.html",
+    "https://www.deutschlandfunk.de/trump-verhaengt-25-prozent-zusatzzoll-gegen-indien-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-prueft-aufnahme-verletzter-kinder-aus-dem-gazastreifen-102.html"
   ],
   "content_hashes": [
-    "0f99446ecb1f640e494e71a4d9fa4181",
-    "0c5ddef6b271e56b26d0b88401f98400",
     "0dcd0a42ee01a738b5c402bc98eac2fc",
     "4f6b092087ba34670f159a8e65009068",
     "7189c3fa81522ec938ba05f5dcbd7b8f",
@@ -2001,11 +1999,11 @@
     "872f907240a2704b8a0b1183dc060923",
     "b51fce432e94e38c3de50d2f95c6f1b1",
     "4915747f2e6f1445f7d351bbef71c4a0",
-    "16892dbc05ef613f6f7a1e19c8d0d149"
+    "16892dbc05ef613f6f7a1e19c8d0d149",
+    "3c523abdb7e2119f89f79a2047acda70",
+    "78f810afabc1c6b3797a0373433d0f9c"
   ],
   "titles": [
-    "SPD beklagt Vertrauensverlust wegen Richterwahl",
-    "USA - Trump kündigt Kehrtwende bei Ukraine-Unterstützung an",
     "Urlaub - NRW pocht auf neue Schulferien-Regelung: Bayern und Baden-Württemberg sollen nicht immer als Letzte in die Sommerpause starten",
     "Kryptowährung - Bitcoin überspringt die 120.000-Dollar-Marke",
     "China - Exporte steigen trotz globaler Handelsstreitigkeiten",
@@ -3003,11 +3001,11 @@
     "Kampf gegen Steuerhinterziehung - Finanzbranche soll Belege wieder zehn Jahre aufbewahren",
     "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft",
     "Öffentliche Auseinandersetzung - Israels Verteidigungsminister rügt Armeechef für Kritik",
-    "Feuer in Europa - Frau kommt bei Waldbrand in Südfrankreich ums Leben"
+    "Feuer in Europa - Frau kommt bei Waldbrand in Südfrankreich ums Leben",
+    "Kauf von russischem Öl - Trump verhängt 25 Prozent Zusatzzoll gegen Indien",
+    "Nahost-Krieg - Bundesregierung prüft Aufnahme verletzter Kinder aus dem Gazastreifen"
   ],
   "hashes": [
-    "7392ca09c0383a75a72a503504901471",
-    "849041e7285ea1bceaa2b5c249a1aea8",
     "41cb1db8752bdc02833a00dee99199f1",
     "2653bdbd7e85e3b6eca9e9d90bd950e4",
     "292752dc0f91dbe0d2a5ba57f3e29c82",
@@ -4005,6 +4003,8 @@
     "2c1caa46d7b49d447cd6aaa5499571ac",
     "c8af8134eb15a5cda787580c830a5b55",
     "e3c4cffb4b70961821af1227500ca846",
-    "f739a5f909000baa81c6b1e87442c2e2"
+    "f739a5f909000baa81c6b1e87442c2e2",
+    "636f2d23152dd24537aec0a05f9bb950",
+    "d59fec3710eb643f3a40ce42951eea4e"
   ]
 }
