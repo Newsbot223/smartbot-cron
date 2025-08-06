@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interessenverband-kritisiert-queerfeindlichkeit-in-deutschland-wieder-salonfaehig-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kritik-an-prien-wuerde-eine-migrantenquote-an-schulen-helfen-110584027.html",
     "https://www.deutschlandfunk.de/mobilfunkmesswoche-deckt-funkloecher-auf-abdeckung-insgesamt-aber-gut-100.html",
     "https://www.deutschlandfunk.de/ministerium-prognostiziert-fuer-2026-27-milliardendefizite-der-gesetzlichen-krankenkassen-100.html",
     "https://www.deutschlandfunk.de/linke-verlangen-von-der-union-klare-abgrenzung-zur-afd-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-verurteilt-behandlung-israelischer-geiseln-in-gaza-102.html",
     "https://www.deutschlandfunk.de/us-zoelle-von-50-prozent-gegen-brasilien-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-geplant-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/amtseinfuehrung-in-polen-karol-nawrocki-ist-ein-unberechenbarer-praesident-110623536.html"
+    "https://www.faz.net/aktuell/politik/ausland/amtseinfuehrung-in-polen-karol-nawrocki-ist-ein-unberechenbarer-praesident-110623536.html",
+    "https://www.deutschlandfunk.de/israels-sicherheitskabinett-tagt-morgen-experte-haelt-militaerische-uebernahme-des-gazastreifens-fue-100.html",
+    "https://www.deutschlandfunk.de/konfrontationskurs-mit-tusk-vereidigung-von-k-nawrocki-als-polens-praesident-100.html"
   ],
   "content_hashes": [
-    "fcb0b499416fa672c3ac235cabad67ba",
-    "c6756e8a820ae1c72db5282521ef91f4",
     "44867e9184b130a112b0532e054d00cb",
     "e9fbb074d556609d1e86c1dabb0698b7",
     "84d2c995c6118ce4317b31fe599480ed",
@@ -2001,11 +1999,11 @@
     "ede4deaa0491edc5fc58034c1ca70543",
     "e6ed95e0782f81d70b776b5f841952f4",
     "89f0b7f254e7253232e2805bbedd2917",
-    "6ca90aee95e9f1c5dd0ea269b7ea93ec"
+    "6ca90aee95e9f1c5dd0ea269b7ea93ec",
+    "c519a81ef5f0810670d6027248291503",
+    "ee4add7dc1de5bfca9b2d699066fd072"
   ],
   "titles": [
-    "Menschenrechte - Interessenverband kritisiert: \"Queerfeindlichkeit in Deutschland wieder salonfähig\"",
-    "Kritik an Prien: Brauchen wir eine Migrantenquote an Schulen?",
     "Bundesnetzagentur - Mobilfunkmesswoche deckt Funklöcher auf - Abdeckung insgesamt aber gut",
     "Medienbericht - Ministerium prognostiziert für 2026/27 Milliardendefizite der gesetzlichen Krankenkassen",
     "Verfassungsrichter-Wahl - Linke verlangen von der Union klare Abgrenzung zur AfD",
@@ -3003,11 +3001,11 @@
     "Nahost - UNO-Sicherheitsrat verurteilt Behandlung israelischer Geiseln in Gaza",
     "Wirtschaft - US-Zölle von 50 Prozent gegen Brasilien in Kraft getreten",
     "Bundeskabinett - Entlastung bei den Gaskosten geplant",
-    "Amtswechsel in Polen: Karol Nawrocki, der unberechenbare Präsident"
+    "Amtswechsel in Polen: Karol Nawrocki, der unberechenbare Präsident",
+    "Nahost - Israels Sicherheitskabinett tagt morgen - Experte hält militärische Übernahme des Gazastreifens für kaum möglich",
+    "Polens Präsident - Nawrocki auf Konfrontationskurs mit Tusk"
   ],
   "hashes": [
-    "b5a7546d651b978b67d59a85b31187a1",
-    "a62ba5c58246fa6e54d99349f512c81a",
     "e7466b23cf673632b744c551712d857c",
     "470115d0623603b10276687701acdd68",
     "caccd81da3cc69a28a4130704d78e7ce",
@@ -4005,6 +4003,8 @@
     "5b461f13dc34d8520c5aea788072a770",
     "da5ad932eef1b58c4e974ce113c26bbe",
     "046e2405943737cb3e6b0929e251f2c1",
-    "bdc7e50761c8751b082d3978b9badd20"
+    "bdc7e50761c8751b082d3978b9badd20",
+    "ceb886417ad6009b44e81f5d798e02c6",
+    "5dc0469b4ab4e463872025b5746b420d"
   ]
 }
