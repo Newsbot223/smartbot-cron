@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aktivist-raul-krauthausen-kritisiert-wohlfahrtsverbaende-fuer-mangelnde-beteiligung-behinderter-mens-100.html",
-    "https://www.deutschlandfunk.de/israelischer-minister-gaza-soll-insel-der-ruinen-bleiben-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-lieferung-von-patriot-systemen-an-die-ukraine-an-100.html",
-    "https://www.deutschlandfunk.de/gewerkschaft-fordert-abschaffung-der-steuererklaerung-fuer-arbeitnehmer-100.html",
-    "https://www.deutschlandfunk.de/zahlreiche-todesopfer-bei-kaempfen-zwischen-beduinen-und-drusen-im-sueden-syriens-befuerchtet-100.html",
     "https://www.deutschlandfunk.de/waldbraende-zerstoeren-historische-lodge-im-grand-canyon-nationalpark-100.html",
     "https://www.deutschlandfunk.de/aussenminister-chinas-und-russlands-betonen-nach-treffen-enge-allianz-100.html",
     "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/zwei-weitere-deutsche-koennen-gazastreifen-verlassen-100.html",
     "https://www.deutschlandfunk.de/bosnische-wahlbehoerde-enthebt-serbenfuehrer-dodik-des-amtes-100.html",
     "https://www.deutschlandfunk.de/prosiebensat-1-spitze-fuer-annahme-von-berlusconi-angebot-100.html",
-    "https://www.faz.net/aktuell/politik/inland/klimaschutz-nicht-mehr-prioritaet-der-waehler-110621764.html"
+    "https://www.faz.net/aktuell/politik/inland/klimaschutz-nicht-mehr-prioritaet-der-waehler-110621764.html",
+    "https://www.deutschlandfunk.de/mehrere-eu-fraktionen-werfen-israel-genozid-vor-100.html",
+    "https://www.deutschlandfunk.de/tote-bei-russischem-luftangriff-auf-ferienlager-102.html",
+    "https://www.deutschlandfunk.de/hilbollah-will-entwaffnungsbeschluss-der-regierung-ignorieren-102.html",
+    "https://www.deutschlandfunk.de/finanzbranche-soll-belege-wieder-zehn-jahre-aufbewahren-102.html",
+    "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html"
   ],
   "content_hashes": [
-    "064113922a36ed57b32ff8a084861274",
-    "56bb70d707ee5ea92eed167695e9dfa6",
-    "8b32a9c72e118210fc147a1596fce337",
-    "0cff76ed462765a14a2328c192c362e2",
-    "6bbdcfa43437f2f5f00b23264446df44",
     "cc38ee0adc0f5ef39e84267da7b95719",
     "1ff2c186e72374738f65a5a41d0d962f",
     "0f99446ecb1f640e494e71a4d9fa4181",
@@ -2001,14 +1996,14 @@
     "3359803280f8f6daa2ce33b23ec1487c",
     "c27f9a533fa86c189d1e849a69bbda68",
     "58d4c0635b6ca8da6a64dc764b9f5923",
-    "d9a25d0cd95741abf753eb8257b3272f"
+    "d9a25d0cd95741abf753eb8257b3272f",
+    "de80842d9fcef8b8823dd4581753c29e",
+    "66716daecbfb14648d47ec2bc884650b",
+    "78f0f290e76ba22b7b27300a326c822a",
+    "872f907240a2704b8a0b1183dc060923",
+    "b51fce432e94e38c3de50d2f95c6f1b1"
   ],
   "titles": [
-    "Gesellschaft - Aktivist Raul Krauthausen kritisiert Wohlfahrtsverbände für mangelnde Beteiligung behinderter Menschen in Führungspositionen",
-    "Nahostkrieg - Israelischer Minister: Gaza soll \"Insel der Ruinen\" bleiben",
-    "USA - Trump kündigt Lieferung von Patriot-Systemen an die Ukraine an",
-    "DSTG - Gewerkschaft fordert Abschaffung der Steuererklärung für Arbeitnehmer",
-    "Suweida - Zahlreiche Todesopfer bei Kämpfen zwischen Beduinen und Drusen im Süden Syriens befürchtet",
     "USA - Waldbrände zerstören historische Lodge im Grand-Canyon-Nationalpark",
     "Peking - Außenminister Chinas und Russlands betonen nach Treffen enge Allianz",
     "SPD beklagt Vertrauensverlust wegen Richterwahl",
@@ -3003,14 +2998,14 @@
     "Nahost-Krieg - Zwei weitere Deutsche können Gazastreifen verlassen",
     "Bosnien-Herzigowina - Bosnische Wahlbehörde enthebt Serbenführer Dodik des Amtes",
     "MFE - ProSiebenSat.1-Spitze für Annahme von Berlusconi-Angebot",
-    "Meinungsumfragen: Wie wichtig das Klima den Wählern noch ist"
+    "Meinungsumfragen: Wie wichtig das Klima den Wählern noch ist",
+    "Gaza-Krieg - Mehrere EU-Fraktionen werfen Israel Genozid vor",
+    "Ukraine-Krieg - Tote bei russischem Luftangriff auf Ferienlager",
+    "Libanon - Hilbollah will Entwaffnungsbeschluss der Regierung ignorieren",
+    "Kampf gegen Steuerhinterziehung - Finanzbranche soll Belege wieder zehn Jahre aufbewahren",
+    "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft"
   ],
   "hashes": [
-    "48ad24ed5c9a9fcbec072eeccb4652ff",
-    "dc31f08f4a2835d032580230da6a8183",
-    "b1ac04d328cc9275dce5b3573dde898c",
-    "f8a90ff0aaf1e5da7d0a4edece8f324a",
-    "f4a56caf516f0130bff82e6f570412a9",
     "d64b818aae90ebee2678cbd035ee132a",
     "1704e0d9a1a2975796f20a9211ef1e0e",
     "7392ca09c0383a75a72a503504901471",
@@ -4005,6 +4000,11 @@
     "f648541eee0902931d452434424d90e4",
     "2b9022f4b202b3b4fcd12b85b0bb444a",
     "66b28a80b2e96f345ac65133240ee22e",
-    "f4cf2ed37b8034e63bb7188944bbe1c6"
+    "f4cf2ed37b8034e63bb7188944bbe1c6",
+    "d04152d168a7d2b5b18453c4a78f8264",
+    "91d9484acf60738d158d9e7409460043",
+    "31666a0a421114e97a4e03562277a0cb",
+    "2c1caa46d7b49d447cd6aaa5499571ac",
+    "c8af8134eb15a5cda787580c830a5b55"
   ]
 }
