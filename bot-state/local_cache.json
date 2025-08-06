@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbraende-zerstoeren-historische-lodge-im-grand-canyon-nationalpark-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-chinas-und-russlands-betonen-nach-treffen-enge-allianz-100.html",
     "https://www.faz.net/aktuell/politik/inland/spd-beklagt-vertrauensverlust-wegen-richterwahl-110589381.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-kuendigte-neue-patriot-lieferungen-und-eu-strafzoelle-an-100.html",
     "https://www.deutschlandfunk.de/nrw-pocht-auf-neue-schulferien-regelung-bayern-und-baden-wuerttemberg-sollen-nicht-immer-als-letzte--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tote-bei-russischem-luftangriff-auf-ferienlager-102.html",
     "https://www.deutschlandfunk.de/hilbollah-will-entwaffnungsbeschluss-der-regierung-ignorieren-102.html",
     "https://www.deutschlandfunk.de/finanzbranche-soll-belege-wieder-zehn-jahre-aufbewahren-102.html",
-    "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html"
+    "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html",
+    "https://www.deutschlandfunk.de/israels-verteidigungsminister-ruegt-armeechef-fuer-kritik-100.html",
+    "https://www.deutschlandfunk.de/frau-kommt-bei-waldbrand-in-suedfrankreich-ums-leben-102.html"
   ],
   "content_hashes": [
-    "cc38ee0adc0f5ef39e84267da7b95719",
-    "1ff2c186e72374738f65a5a41d0d962f",
     "0f99446ecb1f640e494e71a4d9fa4181",
     "0c5ddef6b271e56b26d0b88401f98400",
     "0dcd0a42ee01a738b5c402bc98eac2fc",
@@ -2001,11 +1999,11 @@
     "66716daecbfb14648d47ec2bc884650b",
     "78f0f290e76ba22b7b27300a326c822a",
     "872f907240a2704b8a0b1183dc060923",
-    "b51fce432e94e38c3de50d2f95c6f1b1"
+    "b51fce432e94e38c3de50d2f95c6f1b1",
+    "4915747f2e6f1445f7d351bbef71c4a0",
+    "16892dbc05ef613f6f7a1e19c8d0d149"
   ],
   "titles": [
-    "USA - Waldbrände zerstören historische Lodge im Grand-Canyon-Nationalpark",
-    "Peking - Außenminister Chinas und Russlands betonen nach Treffen enge Allianz",
     "SPD beklagt Vertrauensverlust wegen Richterwahl",
     "USA - Trump kündigt Kehrtwende bei Ukraine-Unterstützung an",
     "Urlaub - NRW pocht auf neue Schulferien-Regelung: Bayern und Baden-Württemberg sollen nicht immer als Letzte in die Sommerpause starten",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Tote bei russischem Luftangriff auf Ferienlager",
     "Libanon - Hilbollah will Entwaffnungsbeschluss der Regierung ignorieren",
     "Kampf gegen Steuerhinterziehung - Finanzbranche soll Belege wieder zehn Jahre aufbewahren",
-    "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft"
+    "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft",
+    "Öffentliche Auseinandersetzung - Israels Verteidigungsminister rügt Armeechef für Kritik",
+    "Feuer in Europa - Frau kommt bei Waldbrand in Südfrankreich ums Leben"
   ],
   "hashes": [
-    "d64b818aae90ebee2678cbd035ee132a",
-    "1704e0d9a1a2975796f20a9211ef1e0e",
     "7392ca09c0383a75a72a503504901471",
     "849041e7285ea1bceaa2b5c249a1aea8",
     "41cb1db8752bdc02833a00dee99199f1",
@@ -4005,6 +4003,8 @@
     "91d9484acf60738d158d9e7409460043",
     "31666a0a421114e97a4e03562277a0cb",
     "2c1caa46d7b49d447cd6aaa5499571ac",
-    "c8af8134eb15a5cda787580c830a5b55"
+    "c8af8134eb15a5cda787580c830a5b55",
+    "e3c4cffb4b70961821af1227500ca846",
+    "f739a5f909000baa81c6b1e87442c2e2"
   ]
 }
