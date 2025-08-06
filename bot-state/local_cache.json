@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/exporte-steigen-trotz-globaler-handelsstreitigkeiten-102.html",
-    "https://www.deutschlandfunk.de/pflegebevollmaechtigte-der-bundesregierung-fordert-mehr-geld-104.html",
     "https://www.deutschlandfunk.de/miersch-spd-nennt-kritik-der-katholischen-kirche-an-verfassungsgerichtskandidatin-brosius-gersdorf-u-100.html",
     "https://www.deutschlandfunk.de/neuer-mindestlohn-hilft-vor-allem-frauen-und-beschaeftigten-in-ostdeutschland-102.html",
     "https://www.deutschlandfunk.de/wirtschaftsgespraech-neue-eu-abwasserrichtlinie-koennte-medikamente-verknappen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-verhaengt-25-prozent-zusatzzoll-gegen-indien-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-prueft-aufnahme-verletzter-kinder-aus-dem-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/razzien-wegen-einschleusens-chinesischer-prostituierter-in-mehreren-bundeslaendern-100.html",
-    "https://www.deutschlandfunk.de/trump-verhaengt-25-prozent-zusatzzoll-gegen-indien-brasilien-will-wto-einschalten-100.html"
+    "https://www.deutschlandfunk.de/trump-verhaengt-25-prozent-zusatzzoll-gegen-indien-brasilien-will-wto-einschalten-100.html",
+    "https://www.deutschlandfunk.de/nationaler-sicherheitsrat-formt-sich-ende-august-102.html",
+    "https://www.deutschlandfunk.de/sozialministerin-soll-neue-ministerpraesidentin-in-litauen-werden-102.html"
   ],
   "content_hashes": [
-    "7189c3fa81522ec938ba05f5dcbd7b8f",
-    "15b488b320c91c5f01adb57801282dcb",
     "126911a450fc72bc5bfc310dec2dee21",
     "d7abe4a9c5f37757061a3e75f8d9d917",
     "147a3e9d885fa9fb594c3beea84a4dc9",
@@ -2001,11 +1999,11 @@
     "3c523abdb7e2119f89f79a2047acda70",
     "78f810afabc1c6b3797a0373433d0f9c",
     "b66b567f243253243557f8f8681a1d1f",
-    "88881f061b1d71033356760f2aaf3d0c"
+    "88881f061b1d71033356760f2aaf3d0c",
+    "31c3bc3d3d3eb480814d7d53cc6a6a57",
+    "708392a92e99bee8c4c40c6245076b09"
   ],
   "titles": [
-    "China - Exporte steigen trotz globaler Handelsstreitigkeiten",
-    "Sozialpolitik - Pflegebevollmächtigte der Bundesregierung fordert mehr Geld",
     "Bundestag - Miersch (SPD) nennt Kritik der katholischen Kirche an Verfassungsgerichtskandidatin Brosius-Gersdorf \"unchristlich\"",
     "Statistisches Bundesamt - Neuer Mindestlohn hilft vor allem Frauen und Beschäftigten in Ostdeutschland",
     "Streit um Abwasser - Neue EU-Richtlinie könnte Medikamente verknappen",
@@ -3003,11 +3001,11 @@
     "Kauf von russischem Öl - Trump verhängt 25 Prozent Zusatzzoll gegen Indien",
     "Nahost-Krieg - Bundesregierung prüft Aufnahme verletzter Kinder aus dem Gazastreifen",
     "Schleuserkriminalität - Razzien wegen Einschleusens chinesischer Prostituierter in mehreren Bundesländern",
-    "Kauf von russischem Öl - Trump verhängt 25 Prozent Zusatzzoll gegen Indien - Brasilien will WTO einschalten"
+    "Kauf von russischem Öl - Trump verhängt 25 Prozent Zusatzzoll gegen Indien - Brasilien will WTO einschalten",
+    "Koalitionsvorhaben - Nationaler Sicherheitsrat formt sich Ende August",
+    "Nach Rücktritt von Regierungschef - Sozialministerin soll neue Ministerpräsidentin in Litauen werden"
   ],
   "hashes": [
-    "292752dc0f91dbe0d2a5ba57f3e29c82",
-    "43fbbc476a74392d84be9f7954eb61ab",
     "6ec2bf602d874df9c9668aeeb5d93396",
     "00cd88ffc5eeedeadfbe5d7653eed5a6",
     "bf25dcc3325d663ae7dc1b033252c940",
@@ -4005,6 +4003,8 @@
     "636f2d23152dd24537aec0a05f9bb950",
     "d59fec3710eb643f3a40ce42951eea4e",
     "b091b158f041eaad3f0429cc2ca8a277",
-    "5d725458a7aa4e930261bc53ead5bf57"
+    "5d725458a7aa4e930261bc53ead5bf57",
+    "990ecab5780f0530825cee498ba4b500",
+    "fd32e1b9a850a13432d890955919a2c6"
   ]
 }
