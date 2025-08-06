@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ministerium-prognostiziert-fuer-2026-27-milliardendefizite-der-gesetzlichen-krankenkassen-100.html",
-    "https://www.deutschlandfunk.de/linke-verlangen-von-der-union-klare-abgrenzung-zur-afd-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-geheimdienst-meldet-toetung-russischer-agenten-104.html",
     "https://www.deutschlandfunk.de/laender-draengen-auf-stromsteuersenkung-fuer-alle-102.html",
     "https://www.deutschlandfunk.de/isrealischer-beschuss-toetet-erneut-viele-zivilisten-im-gazastreifen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/amtseinfuehrung-in-polen-karol-nawrocki-ist-ein-unberechenbarer-praesident-110623536.html",
     "https://www.deutschlandfunk.de/israels-sicherheitskabinett-tagt-morgen-experte-haelt-militaerische-uebernahme-des-gazastreifens-fue-100.html",
     "https://www.deutschlandfunk.de/konfrontationskurs-mit-tusk-vereidigung-von-k-nawrocki-als-polens-praesident-100.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-kabinett-zu-rente-und-tariftreue-100.html"
+    "https://www.deutschlandfunk.de/berliner-gespraech-kabinett-zu-rente-und-tariftreue-100.html",
+    "https://www.deutschlandfunk.de/spd-politiker-stegner-fordert-union-wegen-treffens-der-cdu-politikerin-ludwig-mit-afd-chefin-weidel--100.html",
+    "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-geplant-tariftreuegesetz-in-der-kritik-100.html"
   ],
   "content_hashes": [
-    "e9fbb074d556609d1e86c1dabb0698b7",
-    "84d2c995c6118ce4317b31fe599480ed",
     "8d3dc51c1535448795867e157b28203a",
     "0c693a8b463812e16a44fae628328e8c",
     "2f49ee2f489f7bf90089b2a0f5e4070e",
@@ -2001,11 +1999,11 @@
     "6ca90aee95e9f1c5dd0ea269b7ea93ec",
     "c519a81ef5f0810670d6027248291503",
     "ee4add7dc1de5bfca9b2d699066fd072",
-    "34f465e709ae77d2b9ba85e8a4a7c7cb"
+    "34f465e709ae77d2b9ba85e8a4a7c7cb",
+    "df4eda1622b5f57a878fd0dfd75869c1",
+    "a27c9f652fde1b8e642744fc327f4a4c"
   ],
   "titles": [
-    "Medienbericht - Ministerium prognostiziert für 2026/27 Milliardendefizite der gesetzlichen Krankenkassen",
-    "Verfassungsrichter-Wahl - Linke verlangen von der Union klare Abgrenzung zur AfD",
     "Russlands Angriffskrieg - Ukrainischer Geheimdienst meldet Tötung russischer Agenten",
     "Thüringen, Bayern und Rheinland-Pfalz - Länder drängen auf Stromsteuersenkung für alle",
     "Gaza-Krieg - Isrealischer Beschuss tötet erneut viele Zivilisten im Gazastreifen",
@@ -3003,11 +3001,11 @@
     "Amtswechsel in Polen: Karol Nawrocki, der unberechenbare Präsident",
     "Nahost - Israels Sicherheitskabinett tagt morgen - Experte hält militärische Übernahme des Gazastreifens für kaum möglich",
     "Polens Präsident - Nawrocki auf Konfrontationskurs mit Tusk",
-    "Bundeskabinett - Koalition uneins über Weichenstellungen zur Rente"
+    "Bundeskabinett - Koalition uneins über Weichenstellungen zur Rente",
+    "Brandmauer - SPD-Politiker Stegner fordert Union wegen Treffens der CDU-Politikerin Ludwig mit AfD-Chefin Weidel zum Handeln auf",
+    "Bundeskabinett - Entlastung bei den Gaskosten geplant - Tariftreuegesetz in der Kritik"
   ],
   "hashes": [
-    "470115d0623603b10276687701acdd68",
-    "caccd81da3cc69a28a4130704d78e7ce",
     "b81b8c32dbd649850ed30197410c8558",
     "80c13b9e4c1d4548c4c2185a258f455b",
     "676252dc72983584bca9c907eacef754",
@@ -4005,6 +4003,8 @@
     "bdc7e50761c8751b082d3978b9badd20",
     "ceb886417ad6009b44e81f5d798e02c6",
     "5dc0469b4ab4e463872025b5746b420d",
-    "b1b5badef0e41ba9c99f2472478c7472"
+    "b1b5badef0e41ba9c99f2472478c7472",
+    "3aa53c12f0bdb333cdd3c796b0a95694",
+    "ddf8711895ab305e8bc7926b678a9e36"
   ]
 }
