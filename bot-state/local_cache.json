@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-droht-russlands-verbuendeten-mit-hohen-strafzoellen-102.html",
     "https://www.deutschlandfunk.de/selenskyj-will-wirtschaftsministerin-zur-regierungschefin-machen-schmyhal-soll-verteidigungsminister-100.html",
     "https://www.aljazeera.com/video/the-take-2/2025/7/14/aje-onl-aj_tt_afg_deportationofrefugees_video_v4-140725?traffic_source=rss",
     "https://www.deutschlandfunk.de/oberstes-gericht-erlaubt-entlassung-von-rund-1-400-mitarbeitern-102.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/jens-spahn-und-die-unionsfraktion-was-laeuft-dort-falsch-110625305.html",
     "https://www.faz.net/aktuell/politik/reichsbuergernetzwerk-um-prinz-reuss-drei-weitere-festnahmen-110626160.html",
     "https://www.deutschlandfunk.de/diskussion-ueber-die-zukunft-der-rente-100.html",
-    "https://www.deutschlandfunk.de/bislang-nur-rund-4-000-syrer-aus-deutschland-zurueckgekehrt-102.html"
+    "https://www.deutschlandfunk.de/bislang-nur-rund-4-000-syrer-aus-deutschland-zurueckgekehrt-102.html",
+    "https://www.deutschlandfunk.de/ngo-warnt-vor-gefaehrlichen-ratschlaegen-von-chatgpt-102.html"
   ],
   "content_hashes": [
-    "b2be33fc36d57ed943eb06b7d6e80324",
     "81bd9fcd42323481d2b39fdf9caae293",
     "0fd97833e2b3d180ef536facdf3f9003",
     "f56a1ecd77065b04e40d562bc6d719ce",
@@ -2001,10 +2000,10 @@
     "30750a11baaf34f7205dc7c51f894491",
     "ded1bd2cd656b67cd05376f7cfa4a30c",
     "a4d5e92adb7a3f38db3adb508d1ed19d",
-    "6e23f164b7b56a47dc318b12b83475fa"
+    "6e23f164b7b56a47dc318b12b83475fa",
+    "b815b6c5631704a4400740a14f0310bf"
   ],
   "titles": [
-    "Krieg in der Ukraine - Trump droht Russlands Verbündeten mit hohen Strafzöllen",
     "Ukraine - Selenskyj will Wirtschaftsministerin zur Regierungschefin machen - Schmyhal soll Verteidigungsminister werden",
     "Why are Afghan refugees being sent back to Taliban rule?",
     "US-Bildungsministerium - Oberstes Gericht erlaubt Entlassung von rund 1.400 Mitarbeitern",
@@ -3003,10 +3002,10 @@
     "Spahn und seine Fraktion: Lemminge wollen sie nicht sein",
     "Bayern: Drei Festnahmen im Umfeld der „Reichsbürger“-Gruppe Prinz Reuß",
     "Rentenpaket der Bundesregierung - Diskussion über die Zukunft der Rente",
-    "Nach Sturz des Assad-Regimes - Bislang nur rund 4.000 Syrer aus Deutschland zurückgekehrt"
+    "Nach Sturz des Assad-Regimes - Bislang nur rund 4.000 Syrer aus Deutschland zurückgekehrt",
+    "Künstliche Intelligenz - NGO warnt vor gefährlichen Ratschlägen von ChatGPT"
   ],
   "hashes": [
-    "50fc3759d0dba3c410731f1064573d58",
     "8ac4176f07048cc14dd6ae8e68e37063",
     "0461c07623060e76c87c27feb29df8a3",
     "ece6cf67bc5e815991015f3f55e00d3f",
@@ -4005,6 +4004,7 @@
     "318e01286c1d5283b9067e7ea65a719a",
     "4ac30b5434e6bc295a9b0f20fa422a3c",
     "214c8b1eed35ec468d434c7474b6f6ae",
-    "ad120f6819a24381ca571e96e54e34ab"
+    "ad120f6819a24381ca571e96e54e34ab",
+    "8e29d3d2226140076c394d48bcda34a2"
   ]
 }
