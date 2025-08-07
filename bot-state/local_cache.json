@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/warken-plant-schaerfere-regeln-fuer-abgabe-von-medizinischem-cannabis-100.html",
-    "https://www.deutschlandfunk.de/weltweite-impfquote-bei-saeuglingen-gestiegen-dennoch-warnung-vor-rueckschritten-100.html",
     "https://www.deutschlandfunk.de/queer-beauftragte-koch-beklagt-zunehmende-feindseligkeiten-gegenueber-lgbtq-menschen-102.html",
     "https://www.faz.net/aktuell/politik/inland/ist-deutschland-verantwortlich-fuer-us-angriffe-110590901.html",
     "https://www.deutschlandfunk.de/beduinen-und-drusen-verhandeln-offenbar-ueber-waffenruhe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polizei-stellt-waffen-und-sprengstoff-sicher-verdaechtiger-soll-ein-afd-kommunalpolitiker-sein-102.html",
     "https://www.deutschlandfunk.de/gewerkschafter-begruessen-haerteres-vorgehen-gegen-barbershops-und-nagelstudios-102.html",
     "https://www.deutschlandfunk.de/ministerpraesident-haseloff-macht-weg-fuer-nachfolger-frei-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ministerpraesident-haseloff-tritt-in-sachsen-anhalt-nicht-wieder-an-110626174.html"
+    "https://www.faz.net/aktuell/politik/inland/ministerpraesident-haseloff-tritt-in-sachsen-anhalt-nicht-wieder-an-110626174.html",
+    "https://www.deutschlandfunk.de/juedische-gemeinden-kritisieren-auswaertiges-amt-fuer-ablehnung-der-hilfsinitiative-deutscher-staedt-100.html",
+    "https://www.deutschlandfunk.de/seit-monaten-gesuchter-mutmasslicher-dreifachmoerder-von-weitefeld-ist-tot-100.html"
   ],
   "content_hashes": [
-    "a3062c56c36dc33bb83f826cdc7dfacf",
-    "aa6b485e6e4264d199085983b89179e1",
     "80f7feb70ec3e474710ea1e5f8e2fbbb",
     "e6d4ba6f8aad95d3a22d04b3ad623e5c",
     "bf5166acf6ee2de9a824c99ab1d1aba8",
@@ -2001,11 +1999,11 @@
     "2f2785f3fdb8e5e6297d9d8770b6889c",
     "3bfc01b9cd8a027c10dedd2639315aee",
     "f528021040e3c8ad68c0c8081f4031b2",
-    "fa66b7bf436a26d633fdc7e228b428c1"
+    "fa66b7bf436a26d633fdc7e228b428c1",
+    "fdbf7fff8d2e98bcf449f6b0781bb1ed",
+    "9d8c5990bd0e806baa051743ff7bbbaa"
   ],
   "titles": [
-    "Gesundheitsministerium - Warken plant schärfere Regeln für Abgabe von medizinischem Cannabis",
-    "Bericht von WHO und Unicef - Weltweite Impfquote bei Säuglingen gestiegen - dennoch Warnung vor Rückschritten",
     "SPD-Politikerin - Queer-Beauftragte Koch beklagt zunehmende Feindseligkeiten gegenüber LGBTQ+-Menschen",
     "Verfassungsgericht: Ist Deutschland verantwortlich für US-Angriffe?",
     "Provinz Suweida - Beduinen und Drusen verhandeln offenbar über Waffenruhe",
@@ -3003,11 +3001,11 @@
     "Mecklenburg-Vorpommern - Polizei stellt Waffen und Sprengstoff sicher - Verdächtiger soll ein AfD-Kommunalpolitiker sein",
     "Bekämpfung der Schwarzarbeit - Gewerkschafter begrüßen härteres Vorgehen gegen Barbershops und Nagelstudios",
     "Sachsen-Anhalt - Ministerpräsident Haseloff macht Weg für Nachfolger frei",
-    "Landtagswahl: Ministerpräsident Haseloff tritt in Sachsen-Anhalt nicht wieder an"
+    "Landtagswahl: Ministerpräsident Haseloff tritt in Sachsen-Anhalt nicht wieder an",
+    "Nahostkrieg - Jüdische Gemeinden kritisieren Auswärtiges Amt für Ablehnung der Hilfsinitiative deutscher Städte für Kinder aus Gaza",
+    "Westerwald - Seit Monaten gesuchter mutmaßlicher Dreifachmörder von Weitefeld ist tot"
   ],
   "hashes": [
-    "3ff1256217d1da2158b8181440158257",
-    "e507a9dd8ca5ed4528688a952c8080ca",
     "9ebdf217dc9b4ddf045c428343975ad5",
     "84d240755ea26887ca819345d2fb33a0",
     "d21ad692607ccb80c74f6d3b6fafab74",
@@ -4005,6 +4003,8 @@
     "d06125cec4618c0b7c3d435dfb1fb672",
     "0eeaa05bbf53b47c51bc6d5ad717b8d9",
     "f9bc2635a19a17440fa59b47ec6a63d4",
-    "e236c7dd23bf895ec97f133d5e823d7b"
+    "e236c7dd23bf895ec97f133d5e823d7b",
+    "3d8bf39f3032ae31c679271212c8df56",
+    "c022be66d736ad4f7115c16dd8b26a2b"
   ]
 }
