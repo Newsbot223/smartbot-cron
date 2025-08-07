@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-110589939.html",
-    "https://www.deutschlandfunk.de/regierungssprecher-konflikt-um-richterwahl-entdramatisieren-104.html",
-    "https://www.deutschlandfunk.de/praesident-selenskyj-schlaegt-umbau-der-exekutive-vor-swyrydenko-soll-neue-ministerpraesidentin-werd-102.html",
     "https://www.deutschlandfunk.de/in-ungarn-inhaftierte-maja-t-beendet-hungerstreik-100.html",
     "https://www.deutschlandfunk.de/virchow-preis-fuer-forschung-zur-gesundheit-von-muettern-und-kindern-und-hiv-praevention-102.html",
     "https://www.deutschlandfunk.de/schulferien-diskussion-soeder-erteilt-nrw-absage-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-lobt-fortschritte-bei-gespraechen-mit-putin-weisses-haus-offen-fuer-baldiges-treffen-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/8/6/could-trumps-trade-strategy-forge-new-alliances-against-him?traffic_source=rss",
     "https://www.deutschlandfunk.de/neue-us-importzoelle-fuer-produkte-aus-der-eu-treten-in-kraft-100.html",
-    "https://www.deutschlandfunk.de/israel-greift-ziele-der-hisbollah-an-106.html"
+    "https://www.deutschlandfunk.de/israel-greift-ziele-der-hisbollah-an-106.html",
+    "https://www.deutschlandfunk.de/dobrindt-kuendigt-verlaengerung-von-grenzkontrollen-an-102.html",
+    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-zieht-gemischte-bilanz-100.html",
+    "https://www.deutschlandfunk.de/feuer-nahe-urlaubsort-tarifa-unter-kontrolle-evakuierung-aufgehoben-100.html"
   ],
   "content_hashes": [
-    "85cfb45a05bfcf86e3133c753040a3f1",
-    "e20dc224182b7de599a047687d4bf988",
-    "7b6245b638cd172042512118855637d6",
     "4332533e9ae16002d92d5817f31dcb1b",
     "0131ad18e4368c30792af24ceb8950c0",
     "2391ee9d283befe7ea9c8bce0634641e",
@@ -2001,12 +1998,12 @@
     "869567eefc43f7434041b45d08b67b33",
     "52be0e4eb928718c09104df200f286b0",
     "b4e486b54fb377770f58ea245aaed09c",
-    "0d5abcaba227034f0ed7b87bd43b822d"
+    "0d5abcaba227034f0ed7b87bd43b822d",
+    "a02394c152c2cf4f3c5e552981601a32",
+    "94408079b0140c2f769f1aecc2099e6e",
+    "6d18b1741c077bf692ecd9ffd935d5e5"
   ],
   "titles": [
-    "In Ungarn inhaftierte Maja T. beendet Hungerstreik",
-    "Bundesverfassungsgericht - Regierungssprecher: \"Konflikt um Richterwahl entdramatisieren\"",
-    "Ukraine - Präsident Selenskyj schlägt Umbau der Exekutive vor - Swyrydenko soll neue Ministerpräsidentin werden",
     "Budapest - In Ungarn inhaftierte Maja T. beendet Hungerstreik",
     "Medizin - Virchow-Preis für Forschung zur Gesundheit von Müttern und Kindern und HIV-Prävention",
     "Kritik an Bayern und Baden-Württemberg - Schulferien-Diskussion: Söder erteilt NRW Absage",
@@ -3003,12 +3000,12 @@
     "Ukraine-Krieg - Trump lobt Fortschritte bei Gesprächen mit Putin - Weißes Haus: \"Offen für baldiges Treffen\"",
     "Could Trump’s trade strategy forge new alliances against him?",
     "15 Prozent - Neue US-Importzölle für Produkte aus der EU treten in Kraft",
-    "Libanon - Israel greift Ziele der Hisbollah an"
+    "Libanon - Israel greift Ziele der Hisbollah an",
+    "Migration - Dobrindt kündigt Verlängerung von Grenzkontrollen an",
+    "100 Tage Merz-Regierung - Vizekanzler Klingbeil zieht gemischte Bilanz",
+    "Spanien - Feuer nahe Urlaubsort Tarifa unter Kontrolle - Evakuierung aufgehoben"
   ],
   "hashes": [
-    "cef09fbbde1287a82d406c8901f5ffcd",
-    "e3a8de1a9222a5ebcbfcd1f2b0532908",
-    "8e34e0649f10af4ec3d6bcaf8416d864",
     "05bd6d10ec3a0dd2fd5b9f379a35e95e",
     "910cc42dcbf02448d059760b1335d71e",
     "67848674366dde281d0f834eac8f407b",
@@ -4005,6 +4002,9 @@
     "199082d5442160f3ceb16aaab945b87a",
     "07944669813918eb38ba92b7b126c4d0",
     "92d5b9c71c117b2fe074a2d29a0f7da4",
-    "3b860afea56ab53c4f9ff06a288cc4a2"
+    "3b860afea56ab53c4f9ff06a288cc4a2",
+    "7aa5f2cd8af0a2f82c75d02af4f2d123",
+    "460a0e6ae268d70b5551a5bcc2024cdc",
+    "53ef91a1262fa0ab9b21c5e3e38f9cb6"
   ]
 }
