@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizeigewerkschaft-fordert-von-dobrindt-kehrtwende-bei-grenzkontrollen-102.html",
-    "https://www.deutschlandfunk.de/truppen-der-uebergangsregierung-marschieren-in-suweida-ein-102.html",
     "https://www.deutschlandfunk.de/medienbericht-bundesgesundheitsministerium-zahlt-fast-90-millionen-euro-fuer-anwaelte-in-gerichtsver-100.html",
     "https://www.deutschlandfunk.de/volksbund-deutsche-kriegsgraeberfuersorge-weist-auf-schwierige-arbeit-in-russland-hin-100.html",
     "https://www.spiegel.de/ausland/bundesverfassungsgericht-weist-klage-gegen-drohneneinsaetze-der-usa-via-ramstein-ab-a-c2507fc2-3af7-4419-9b4b-997d11b60b1e#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-verzichtet-auf-kandidatur-als-verfassungsrichterin-110626505.html",
     "https://www.faz.net/aktuell/politik/inland/richterstreit-die-spd-ist-immer-noch-wuetend-auf-die-union-110627215.html",
     "https://www.deutschlandfunk.de/us-unternehmen-will-northvolt-uebernehmen-hoffnung-fuer-fabrik-in-schleswig-holstein-100.html",
-    "https://www.deutschlandfunk.de/mehr-afghanische-frauen-beantragen-asyl-in-deutschland-100.html"
+    "https://www.deutschlandfunk.de/mehr-afghanische-frauen-beantragen-asyl-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-will-vollstaendige-kontrolle-ueber-gazastreifen-100.html",
+    "https://www.deutschlandfunk.de/bundesanwaltschaft-fordert-lebenslange-haft-nach-toedlichem-messerangriff-in-mannheim-100.html"
   ],
   "content_hashes": [
-    "067a812d3fca7cadaa8eb210707f872b",
-    "75677d29a4469ee6adf8dfb4c15eb4e1",
     "dc31598f79d0122f96f966ff7360cfa4",
     "01455b322e5912709bde1a39e3ef8965",
     "83df2c0705e4bc9df3550e5396544aa9",
@@ -2001,11 +1999,11 @@
     "365e5cb39c7ecb451d53932f7ca84d67",
     "48c7fbab6f042973e3ecca65138b1676",
     "f9600cfef8a5623850423bcd4f8e1828",
-    "0af71b7d89038e0de3ffe974e27cff54"
+    "0af71b7d89038e0de3ffe974e27cff54",
+    "d2476a329df10337106273d79c9a30de",
+    "ef8cbff663011324f3f813d4b4d85bff"
   ],
   "titles": [
-    "Migration - Polizeigewerkschaft fordert von Dobrindt Kehrtwende bei Grenzkontrollen",
-    "Syrien - Truppen der Übergangsregierung marschieren in Suweida ein",
     "Wirtschaftsmagazin Capital - Medienbericht: Bundesgesundheitsministerium zahlt fast 90 Millionen Euro für Anwälte in Gerichtsverfahren zu Coronamasken-Käufen",
     "Gefallene Soldaten - Volksbund Deutsche Kriegsgräberfürsorge weist auf schwierige Arbeit in Russland hin",
     "Bundesverfassungsgericht weist Klage gegen Drohneneinsätze der USA via Ramstein ab",
@@ -3003,11 +3001,11 @@
     "Verzicht auf Kandidatur: Brosius-Gersdorf sieht keine „reelle Wahlchance“ mehr",
     "Richterstreit: Die SPD ist immer noch wütend auf die Union",
     "Batteriehersteller - US-Unternehmen will Northvolt übernehmen - Hoffnung für Fabrik in Schleswig-Holstein",
-    "BAMF - Mehr afghanische Frauen beantragen Asyl in Deutschland"
+    "BAMF - Mehr afghanische Frauen beantragen Asyl in Deutschland",
+    "Krieg im Nahen Osten - Netanjahu will vollständige Kontrolle über Gazastreifen",
+    "OLG Stuttgart - Bundesanwaltschaft fordert lebenslange Haft nach tödlichem Messerangriff in Mannheim"
   ],
   "hashes": [
-    "cb51400ecfad8ee12d0870fedc62d193",
-    "1678a07ee3a8b746ae3a19784f3bc1b4",
     "753451f0ad4a74b01cc7946e99a92564",
     "79f1aa8cb173c117aeda78d18d4343db",
     "3fd987266382d4655a18088368aa285a",
@@ -4005,6 +4003,8 @@
     "36f238ae6a27488233ff90254c428ddb",
     "df8103df8ecd936650418923020b90ff",
     "af4211cd0f4e586ffec33ed39aeb3771",
-    "eca46790174ac480ed7f1431a13d7a0a"
+    "eca46790174ac480ed7f1431a13d7a0a",
+    "66196b335e2d50545f1afb7ecdc55464",
+    "ff2cd0ad86158d0aa4c8dbc1dcea9fc1"
   ]
 }
