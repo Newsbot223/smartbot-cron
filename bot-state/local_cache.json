@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spahn-raeumt-mitverantwortung-bei-gescheiterter-richterwahl-ein-brosius-gersdorf-haelt-an-kandidatur-102.html",
-    "https://www.faz.net/aktuell/politik/inland/apartheidvorwurf-gegen-israel-die-ekd-reagiert-nach-zehn-tagen-110587109.html",
     "https://www.deutschlandfunk.de/trump-droht-russlands-verbuendeten-mit-hohen-strafzoellen-102.html",
     "https://www.deutschlandfunk.de/selenskyj-will-wirtschaftsministerin-zur-regierungschefin-machen-schmyhal-soll-verteidigungsminister-100.html",
     "https://www.aljazeera.com/video/the-take-2/2025/7/14/aje-onl-aj_tt_afg_deportationofrefugees_video_v4-140725?traffic_source=rss",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss",
     "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-grenzkontrollen-erneut-verlaengern-a-8b71b35e-de59-4dd6-8b3f-8a0663474152#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/jens-spahn-und-die-unionsfraktion-was-laeuft-dort-falsch-110625305.html",
-    "https://www.faz.net/aktuell/politik/reichsbuergernetzwerk-um-prinz-reuss-drei-weitere-festnahmen-110626160.html"
+    "https://www.faz.net/aktuell/politik/reichsbuergernetzwerk-um-prinz-reuss-drei-weitere-festnahmen-110626160.html",
+    "https://www.deutschlandfunk.de/diskussion-ueber-die-zukunft-der-rente-100.html",
+    "https://www.deutschlandfunk.de/bislang-nur-rund-4-000-syrer-aus-deutschland-zurueckgekehrt-102.html"
   ],
   "content_hashes": [
-    "d7258393435b273081f5778debb3a9fb",
-    "2c9db0b41e647f5c781a94bac0457a33",
     "b2be33fc36d57ed943eb06b7d6e80324",
     "81bd9fcd42323481d2b39fdf9caae293",
     "0fd97833e2b3d180ef536facdf3f9003",
@@ -2001,11 +1999,11 @@
     "a0ff94e9f1008e22ea33aad04cc73824",
     "c6b7ce6605be998780441537c3574937",
     "30750a11baaf34f7205dc7c51f894491",
-    "ded1bd2cd656b67cd05376f7cfa4a30c"
+    "ded1bd2cd656b67cd05376f7cfa4a30c",
+    "a4d5e92adb7a3f38db3adb508d1ed19d",
+    "6e23f164b7b56a47dc318b12b83475fa"
   ],
   "titles": [
-    "Bundesverfassungsgericht - Spahn räumt Mitverantwortung bei gescheiterter Richterwahl ein - Brosius-Gersdorf hält an Kandidatur fest",
-    "Kein Kompromiss mehr: Weltkirchenrat spricht von „Apartheid“ im Gazastreifen",
     "Krieg in der Ukraine - Trump droht Russlands Verbündeten mit hohen Strafzöllen",
     "Ukraine - Selenskyj will Wirtschaftsministerin zur Regierungschefin machen - Schmyhal soll Verteidigungsminister werden",
     "Why are Afghan refugees being sent back to Taliban rule?",
@@ -3003,11 +3001,11 @@
     "Gazastreifen: Vater von deutsch-israelischer Geisel drängt Merz zum Handeln",
     "Alexander Dobrindt will Grenzkontrollen erneut verlängern",
     "Spahn und seine Fraktion: Lemminge wollen sie nicht sein",
-    "Bayern: Drei Festnahmen im Umfeld der „Reichsbürger“-Gruppe Prinz Reuß"
+    "Bayern: Drei Festnahmen im Umfeld der „Reichsbürger“-Gruppe Prinz Reuß",
+    "Rentenpaket der Bundesregierung - Diskussion über die Zukunft der Rente",
+    "Nach Sturz des Assad-Regimes - Bislang nur rund 4.000 Syrer aus Deutschland zurückgekehrt"
   ],
   "hashes": [
-    "18759712ea97ab8e0697916a4b5a57d1",
-    "a9a98e8f87e9008e1e518a9abc2f614c",
     "50fc3759d0dba3c410731f1064573d58",
     "8ac4176f07048cc14dd6ae8e68e37063",
     "0461c07623060e76c87c27feb29df8a3",
@@ -4005,6 +4003,8 @@
     "db6b735f24103ee63825a2108e8be402",
     "664e74bba8c58ab1204af9c8d1382838",
     "318e01286c1d5283b9067e7ea65a719a",
-    "4ac30b5434e6bc295a9b0f20fa422a3c"
+    "4ac30b5434e6bc295a9b0f20fa422a3c",
+    "214c8b1eed35ec468d434c7474b6f6ae",
+    "ad120f6819a24381ca571e96e54e34ab"
   ]
 }
