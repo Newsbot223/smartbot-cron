@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/afd-mitarbeiter-alice-weidels-bedraengen-faz-fotografen-im-bundestag-110591820.html",
-    "https://www.deutschlandfunk.de/ausschluss-vom-oeffentlichen-dienst-in-rheinland-pfalz-nur-nach-einzelfallpruefung-100.html",
     "https://www.deutschlandfunk.de/keine-mindestlohn-ausnahmen-fuer-saisonkraefte-100.html",
     "https://www.deutschlandfunk.de/maja-t-isolationshaft-ungarn-anklage-linksextreme-gewalt-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-drohnenangriff-ohne-konsequenzen-110592126.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kirchliche-vorgaben-gegen-weltliches-arbeitsrecht-arzt-klagt-gegen-abtreibungsverbot-an-klinik-100.html",
     "https://www.deutschlandfunk.de/trump-ultimatum-an-russland-ende-heute-100.html",
     "https://www.deutschlandfunk.de/serienstar-gina-carano-einigt-sich-mit-disney-tochter-lucasfilm-102.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-afd-kandidat-paul-nicht-zur-ob-wahl-in-ludwigshafen-zugelassen-wurde-110627170.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-afd-kandidat-paul-nicht-zur-ob-wahl-in-ludwigshafen-zugelassen-wurde-110627170.html",
+    "https://www.deutschlandfunk.de/rheinmetall-chef-pappberger-sieht-ruestungsbranche-als-jobmaschine-100.html",
+    "https://www.deutschlandfunk.de/rueckzug-von-brosius-gersdorf-interview-mit-spd-rechtspolitiker-helge-lindh-102.html"
   ],
   "content_hashes": [
-    "b32290f562c41b2f19109b5f0f6c964d",
-    "b6c1e11d4ce442e95d1628f5ac526787",
     "769b9836223afb6504077ed76c5b8d6f",
     "7961ef5301270c88f772ad75d784e6f9",
     "48cf2885e8bfa29cb6db0800eb40bda3",
@@ -2001,11 +1999,11 @@
     "674f09852f798d3d6e38aad4a9af0e45",
     "9e8f17fc654df96c777b09921ed1711a",
     "94724440b82099ad5cfd209f63f6e8e7",
-    "c73230006c4ad76f354591c579face45"
+    "c73230006c4ad76f354591c579face45",
+    "035112f9024988809c4d51e449c294fc",
+    "e6844f857017f9e308e7016f70f5cd37"
   ],
   "titles": [
-    "F.A.Z.-Fotograf bedrängt: Weidel bittet um Entschuldigung",
-    "Neue Verwaltungsvorschrift - Ausschluss vom öffentlichen Dienst in Rheinland-Pfalz nur nach Einzelfallprüfung",
     "Landwirtschaftsministerium - Keine Mindestlohn-Ausnahmen für Saisonkräfte",
     "Maja T. in Ungarn - Schwere Vorwürfe, Isolationshaft und ein Hungerstreik",
     "Bundesverfassungsgericht: Ein Drohnenangriff ohne Konsequenzen",
@@ -3003,11 +3001,11 @@
     "Lippstadt - Kirchliche Vorgaben gegen weltliches Arbeitsrecht: Arzt klagt gegen Abtreibungsverbot an Klinik",
     "Ukraine-Krieg - Trump-Ultimatum an Russland ende heute",
     "Ausschluss nach Holocaust-Verharmlosung - Serienstar Gina Carano einigt sich mit Disney-Tochter Lucasfilm",
-    "OB-Wahl in Ludwigshafen: Warum der AfD-Kandidat nicht zugelassen wurde"
+    "OB-Wahl in Ludwigshafen: Warum der AfD-Kandidat nicht zugelassen wurde",
+    "Milliardeninvestitionen - Rheinmetall-Chef Pappberger sieht Rüstungsbranche als Jobmaschine",
+    "Fall Brosius-Gersdorf - SPD-Politiker Lindh: Ein Mann wäre nicht so behandelt worden"
   ],
   "hashes": [
-    "f7caae5f3b3e732bc051af7e6528fc4a",
-    "18c0ba7e24b27711e4c6bcac9b79eeb7",
     "24ccf556afa83773bd32feac014ee327",
     "44d579f15ef538dba0b05553fce1d976",
     "636604055c2de5769ee2f81b58a6ce2d",
@@ -4005,6 +4003,8 @@
     "2d3d766c55bd48e388be2a1b6393d2f7",
     "74e098c5397e8dce49546369987fdae1",
     "fa6449eb244597b518c653a4db6f8689",
-    "3d2c57a885d8fd11d1f57b2fc75a64ae"
+    "3d2c57a885d8fd11d1f57b2fc75a64ae",
+    "ef9e1c93bda2de52cedc44bb6b42b1ce",
+    "f246d910cda1bea45a2873e45854a42f"
   ]
 }
