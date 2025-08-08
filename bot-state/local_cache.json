@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-praesident-trump-verkuendet-milliardeninvestitionen-zum-ausbau-von-stromerzeugung-100.html",
-    "https://www.deutschlandfunk.de/polizeinotruf-in-einigen-landesteilen-nicht-erreichbar-100.html",
     "https://www.deutschlandfunk.de/rund-17-millionen-menschen-in-deutschland-leben-allein-100.html",
     "https://www.deutschlandfunk.de/debatte-um-staatsbedienstete-und-afd-100.html",
     "https://www.deutschlandfunk.de/aktuelle-lage-in-den-usa-interview-mit-ex-us-botschafter-john-bolton-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/weniger-waffen-fuer-israel-von-staatsraeson-sollte-man-nicht-mehr-reden-110629359.html",
     "https://www.deutschlandfunk.de/klingbeil-berater-warnen-vor-lockerung-der-schuldenbremse-102.html",
     "https://www.deutschlandfunk.de/saudi-arabien-wirft-israel-ethnische-saeuberungen-vor-100.html",
-    "https://www.deutschlandfunk.de/schwarzes-loch-mit-rekord-masse-entdeckt-102.html"
+    "https://www.deutschlandfunk.de/schwarzes-loch-mit-rekord-masse-entdeckt-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-verhaengt-teilweisen-exportstopp-bei-ruestungsguetern-gegen-israel-100.html",
+    "https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss"
   ],
   "content_hashes": [
-    "456df57b21c70730f6da69f7e51b380c",
-    "e1b5fbfab365127631ed0d10d404bb7d",
     "cb1d3368ff33806a1b8c2f06c9460cca",
     "a2e9c7fdb4386329bc58afa3ee7840a1",
     "a1d4d6d39d7214cf277da287e436e47a",
@@ -2001,11 +1999,11 @@
     "484309f645b897e1a4ceaf8134c891dc",
     "32c6516e2070d61ca6891e9993841fc0",
     "7b92551ae96f405296e23120bfa01b09",
-    "2ce704dde352d17d31ef11554c31a87b"
+    "2ce704dde352d17d31ef11554c31a87b",
+    "388afc859b57f14ac45e65d1fc3ff5ab",
+    "3c41b2cd97c7a562fb78657c5d549fdc"
   ],
   "titles": [
-    "Künstliche Intelligenz - US-Präsident Trump verkündet Milliardeninvestitionen zum Ausbau von Stromerzeugung",
-    "Nordrhein-Westfalen - Polizeinotruf in einigen Landesteilen nicht erreichbar",
     "Mikrozensus 2024 - Rund 17 Millionen Menschen in Deutschland leben allein",
     "Umgang mit AfD - Rheinland-Pfalz überdenkt Regelung für Staatsdienst-Bewerber",
     "Krieg in der Ukraine - Ex-US-Sicherheitsberater: Kein Wendepunkt in US-Außenpolitik",
@@ -3003,11 +3001,11 @@
     "Weniger Waffen für Israel: Von Staatsräson sollte man nicht mehr reden",
     "Klingbeil-Berater warnen vor Lockerung der Schuldenbremse",
     "Gazastreifen - Saudi-Arabien wirft Israel ethnische Säuberungen vor",
-    "Weltall - Schwarzes Loch mit Rekord-Masse entdeckt"
+    "Weltall - Schwarzes Loch mit Rekord-Masse entdeckt",
+    "Rüstungsgüter - Bundesregierung verhängt teilweisen Exportstopp nach Israel",
+    "Gaza: Wie Merz' Lieferstopp für Israel CDU und CSU spaltet"
   ],
   "hashes": [
-    "f1508d2e0c8e3db663e3d0bc63fa89c6",
-    "1dfb7a9d498fefc7facab9af14c8e12d",
     "2ecba6e88e727984cdf92ad03fada2b6",
     "c223ddaf8c43ce4936e51833d7191db3",
     "93172b28599a5de53b27178831b4683e",
@@ -4005,6 +4003,8 @@
     "81f7938b59b63bd0c134c4c721709449",
     "ec73c39057b7b958b74b1b3abec22e20",
     "8ecca038394f85828be9d1319ec56441",
-    "eadb5160059b90bca2772880f627555b"
+    "eadb5160059b90bca2772880f627555b",
+    "6d4feb90d70eac14ff4e699c86da04d1",
+    "12e799c652e2715ffb468a8c7a1e7814"
   ]
 }
