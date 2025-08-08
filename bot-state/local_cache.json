@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutscher-bauernverband-schwarzer-tag-fuer-die-branche-100.html",
-    "https://www.deutschlandfunk.de/ebling-wehrt-sich-gegen-kritik-an-einstellungspraxis-beim-staatsdienst-von-afd-mitgliedern-100.html",
-    "https://www.deutschlandfunk.de/linke-lehnt-sondersitzung-des-bundestags-ab-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-verkuendet-milliardeninvestitionen-zum-ausbau-von-stromerzeugung-100.html",
     "https://www.deutschlandfunk.de/polizeinotruf-in-einigen-landesteilen-nicht-erreichbar-100.html",
     "https://www.deutschlandfunk.de/rund-17-millionen-menschen-in-deutschland-leben-allein-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/thyssenkrupp-aktionaere-stimmen-fuer-abspaltung-von-marinegeschaeft-100.html",
     "https://www.deutschlandfunk.de/franzoesischer-verfassungsrat-kippt-wiedereinfuehrung-von-insektengift-100.html",
     "https://www.faz.net/aktuell/politik/inland/umgang-mit-israel-schwarz-rot-gibt-dem-druck-nach-110629328.html",
-    "https://www.faz.net/aktuell/politik/ausland/weniger-waffen-fuer-israel-von-staatsraeson-sollte-man-nicht-mehr-reden-110629359.html"
+    "https://www.faz.net/aktuell/politik/ausland/weniger-waffen-fuer-israel-von-staatsraeson-sollte-man-nicht-mehr-reden-110629359.html",
+    "https://www.deutschlandfunk.de/klingbeil-berater-warnen-vor-lockerung-der-schuldenbremse-102.html",
+    "https://www.deutschlandfunk.de/saudi-arabien-wirft-israel-ethnische-saeuberungen-vor-100.html",
+    "https://www.deutschlandfunk.de/schwarzes-loch-mit-rekord-masse-entdeckt-102.html"
   ],
   "content_hashes": [
-    "8d24c1f4599bd406813d48bd982e74ec",
-    "672d3951ee4ae38c3cf931c98002ec9a",
-    "27ce026071fed6d98612a036b312c76b",
     "456df57b21c70730f6da69f7e51b380c",
     "e1b5fbfab365127631ed0d10d404bb7d",
     "cb1d3368ff33806a1b8c2f06c9460cca",
@@ -2001,12 +1998,12 @@
     "d3c3a8c3022250aa1b818b46c046dc0e",
     "7ec1c9f1ed33f70a5c920c9b18841f2e",
     "f395ea47c4aa81d76d52c0950d7902af",
-    "484309f645b897e1a4ceaf8134c891dc"
+    "484309f645b897e1a4ceaf8134c891dc",
+    "32c6516e2070d61ca6891e9993841fc0",
+    "7b92551ae96f405296e23120bfa01b09",
+    "2ce704dde352d17d31ef11554c31a87b"
   ],
   "titles": [
-    "Keine Mindestlohn-Ausnahme für Saisonarbeiter - Deutscher Bauernverband: \"Schwarzer Tag für die Branche\"",
-    "Innenminister von Rheinland-Pfalz - Ebling wehrt sich gegen Kritik an Einstellungspraxis beim Staatsdienst von AfD-Mitgliedern",
-    "Richterwahl - Linke lehnt Sondersitzung des Bundestags ab",
     "Künstliche Intelligenz - US-Präsident Trump verkündet Milliardeninvestitionen zum Ausbau von Stromerzeugung",
     "Nordrhein-Westfalen - Polizeinotruf in einigen Landesteilen nicht erreichbar",
     "Mikrozensus 2024 - Rund 17 Millionen Menschen in Deutschland leben allein",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Thyssenkrupp-Aktionäre stimmen für Abspaltung von Marinegeschäft",
     "\"Bienen-Killer\" Acetamiprid - Französischer Verfassungsrat kippt Wiedereinführung von Insektengift",
     "Umgang mit Israel: Schwarz-Rot gibt dem Druck nach",
-    "Weniger Waffen für Israel: Von Staatsräson sollte man nicht mehr reden"
+    "Weniger Waffen für Israel: Von Staatsräson sollte man nicht mehr reden",
+    "Klingbeil-Berater warnen vor Lockerung der Schuldenbremse",
+    "Gazastreifen - Saudi-Arabien wirft Israel ethnische Säuberungen vor",
+    "Weltall - Schwarzes Loch mit Rekord-Masse entdeckt"
   ],
   "hashes": [
-    "aefc783d07587f61ebe41429d8f01885",
-    "66f9b457ccf291c6add6ddb228b4bfdb",
-    "5863d3594663b3d789b53cb107c1543e",
     "f1508d2e0c8e3db663e3d0bc63fa89c6",
     "1dfb7a9d498fefc7facab9af14c8e12d",
     "2ecba6e88e727984cdf92ad03fada2b6",
@@ -4005,6 +4002,9 @@
     "f51397ef95bb9e74f87d30d056cca23b",
     "331b6ce6186de68c95bf9f8014dca2be",
     "6939fa215f4ed9016670d0d2b990fea4",
-    "81f7938b59b63bd0c134c4c721709449"
+    "81f7938b59b63bd0c134c4c721709449",
+    "ec73c39057b7b958b74b1b3abec22e20",
+    "8ecca038394f85828be9d1319ec56441",
+    "eadb5160059b90bca2772880f627555b"
   ]
 }
