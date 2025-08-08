@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesweit-fehlen-mindestens-3-000-bademeister-100.html",
-    "https://www.deutschlandfunk.de/israel-will-laut-medienbericht-angriffe-auf-syrisches-militaer-beenden-102.html",
-    "https://www.spiegel.de/ausland/iran-westliche-staaten-setzen-offenbar-frist-fuer-atomabkommen-a-1851b606-0445-4c4a-956d-6296ee83abc2#ref=rss",
     "https://www.deutschlandfunk.de/deutscher-bauernverband-ein-schwarzer-tag-fuer-die-branche-100.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-deutschen-gruenen-politiker-buetikofer-aufgehoben-102.html",
     "https://www.deutschlandfunk.de/neue-struktur-neue-schwerpunkte-eu-haushalt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kein-schadenersatz-bei-grob-fahrlaessigem-umgang-mit-phishing-nachrichten-100.html",
     "https://www.faz.net/aktuell/politik/inland/brosius-gersdorf-der-linke-kulturkampf-ist-gescheitert-110628427.html",
     "https://www.deutschlandfunk.de/experte-nico-lange-begruesst-geplante-bildung-eines-nationalen-sicherheitsrates-handels-und-sicherhe-102.html",
-    "https://www.deutschlandfunk.de/weimer-wer-oeffentliches-geld-erhaelt-soll-nicht-gendern-100.html"
+    "https://www.deutschlandfunk.de/weimer-wer-oeffentliches-geld-erhaelt-soll-nicht-gendern-100.html",
+    "https://www.deutschlandfunk.de/deutsch-israelische-gesellschaft-und-zentralrat-der-juden-halten-sanktionsentscheidung-der-bundesreg-100.html",
+    "https://www.deutschlandfunk.de/pestel-institut-schlaegt-vor-beamte-sollten-fuenfeinhalb-jahre-laenger-arbeiten-100.html",
+    "https://www.deutschlandfunk.de/indien-legt-waffen-und-flugzeugkaeufe-aus-den-usa-wegen-strafzoellen-auf-eis-104.html"
   ],
   "content_hashes": [
-    "155deffe2802bc48d567f6e3f27962aa",
-    "3d9080486964dd3308051fa41818f796",
-    "951f80a49257304d65ead1522700d3fd",
     "1bc2550215ffb270121355d13167e1bd",
     "d4732bf5f21fb31490b63cf453c14fa4",
     "93c5af2304c5faea42403564f6ef5a40",
@@ -2001,12 +1998,12 @@
     "b331049bbf34018d016c9605d862993c",
     "57609d3716db90c41fdfe08c54c44601",
     "8d53ee1de6d84ad3bed489a13342f489",
-    "2309d6012624a76118c487120dbca1d2"
+    "2309d6012624a76118c487120dbca1d2",
+    "e9973a30fdf7ca160c0d5dfc49d4c790",
+    "e19d27dc5d3298844a0c1941930e6222",
+    "738135dac7aa07483c3e4fbbf8e2d538"
   ],
   "titles": [
-    "Schwimmbäder - Bundesweit fehlen mindestens 3.000 Bademeister",
-    "Syrien - Israel will laut Medienbericht Angriffe auf syrisches Militär beenden",
-    "Iran: Westliche Staaten setzen offenbar Frist für Atomabkommen",
     "Keine Mindestlohn-Ausnahme für Saisonarbeiter - Deutscher Bauernverband: \"Ein schwarzer Tag für die Branche\"",
     "China - Sanktionen gegen deutschen Grünen-Politiker Bütikofer aufgehoben",
     "EU-Haushalt 2028-2034 - Mehr Flexibilität durch neue Struktur und neue Schwerpunkte",
@@ -3003,12 +3000,12 @@
     "Gericht - Kein Schadenersatz bei grob fahrlässigem Umgang mit Phishing-Nachrichten",
     "Brosius-Gersdorf: Der linke Kulturkampf ist gescheitert",
     "Koalitionsvorhaben - Experte Nico Lange begrüßt geplante Bildung eines Nationalen Sicherheitsrates - \"Handels- und Sicherheitspolitik bisher oft nicht aufeinander abgestimmt\"",
-    "Kulturstaatsminister - Weimer: Wer öffentliches Geld erhält, soll nicht gendern"
+    "Kulturstaatsminister - Weimer: Wer öffentliches Geld erhält, soll nicht gendern",
+    "Rüstungslieferungen - Deutsch-Israelische Gesellschaft und Zentralrat der Juden halten Sanktionsentscheidung der Bundesregierung für falsch",
+    "Rente - Pestel-Institut schlägt vor: Beamte sollten fünfeinhalb Jahre länger arbeiten",
+    "Medienberichte - Indien legt Waffen- und Flugzeugkäufe aus den USA wegen Strafzöllen auf Eis"
   ],
   "hashes": [
-    "925fa672c23cf76fc205c4dd7a92349e",
-    "1aea325f1c092784bf156cd5f120735f",
-    "9a04e656c1b82e067467d09ae1620b2c",
     "90f3e1cae24211c7d2d1c6b43bab40ba",
     "e4c7a521f913170e57c0a0566ea988a0",
     "46b19a31dcd000f1b196fa991621ec4d",
@@ -4005,6 +4002,9 @@
     "93ad5c6f3714f0f440b7c4025107d179",
     "843733a9eceb6532f128f75e0cde664b",
     "2dba8091542cebf1baa8f1b9ea926b97",
-    "aee4c905ec713a420d76850b8fafef19"
+    "aee4c905ec713a420d76850b8fafef19",
+    "a272680a278af6e48fa9a428a4ab11d0",
+    "e25daf2f719e384f3e244d4e963de387",
+    "35c2771bfcb020677c7d66f539bad45c"
   ]
 }
