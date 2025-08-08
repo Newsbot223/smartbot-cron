@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pentagon-ordnet-teilabzug-von-nationalgarde-aus-los-angeles-an-100.html",
-    "https://www.deutschlandfunk.de/bundesbildungsministerin-prien-fordert-einigung-der-laender-ueber-sommerferien-beginn-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-bei-internationalen-finanzunternehmen-fuer-investitionen-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/erneut-naechtliche-luftangriffe-russlands-zwei-tote-in-region-charkiw-100.html",
     "https://www.deutschlandfunk.de/schulen-in-grossbritannien-behandeln-frauenfeindlichkeit-im-unterricht-100.html",
     "https://www.deutschlandfunk.de/bundesweit-fehlen-mindestens-3-000-bademeister-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/arzt-klagt-gegen-abtreibungsverbot-an-klinik-demos-von-unterstuetzern-100.html",
     "https://www.deutschlandfunk.de/neuer-wehrdienst-entwurf-staerkt-parlamentsrecht-100.html",
     "https://www.deutschlandfunk.de/indien-legt-waffen-und-flugzeugkaufe-aus-den-usa-wegen-strafzoellen-auf-eis-102.html",
-    "https://www.deutschlandfunk.de/gericht-christliche-klinik-darf-abtreibungen-einschraenken-100.html"
+    "https://www.deutschlandfunk.de/gericht-christliche-klinik-darf-abtreibungen-einschraenken-100.html",
+    "https://www.deutschlandfunk.de/christliche-klinik-darf-abtreibungen-einschraenken-100.html",
+    "https://www.deutschlandfunk.de/kein-schadenersatz-bei-grob-fahrlaessigem-umgang-mit-phishing-nachrichten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/brosius-gersdorf-der-linke-kulturkampf-ist-gescheitert-110628427.html"
   ],
   "content_hashes": [
-    "b86a6a064dea03b15bc35665c315e281",
-    "fa6f121980d1bedc8761809e7f42559f",
-    "08ad431eaae60a509724ebf64d83fd8b",
     "d05b32bea76d8e0d79fc953af461aaf2",
     "dd03a2cfa99afab0a5edf8ede09e1865",
     "155deffe2802bc48d567f6e3f27962aa",
@@ -2001,12 +1998,12 @@
     "0873a463c17b0a99e437640755e21f77",
     "ab0e29bdbd9d18eae70aa7155181d0fd",
     "7d5fb633242602447c4468a624eec19f",
-    "11d7ee34724896254b1892384a2d5635"
+    "11d7ee34724896254b1892384a2d5635",
+    "1dd906c67c845346b4fedd4cd8cc8b96",
+    "b331049bbf34018d016c9605d862993c",
+    "57609d3716db90c41fdfe08c54c44601"
   ],
   "titles": [
-    "USA - Pentagon ordnet Teilabzug von Nationalgarde aus Los Angeles an",
-    "Urlaub - Bundesbildungsministerin Prien fordert Einigung der Länder über Sommerferien-Beginn",
-    "Treffen im Kanzleramt - Bundeskanzler Merz wirbt bei internationalen Finanzunternehmen für Investitionen in Deutschland",
     "Ukraine-Krieg - Erneut nächtliche Luftangriffe Russlands - zwei Tote in Region Charkiw",
     "Neue Richtlinie - Schulen in Großbritannien behandeln Frauenfeindlichkeit im Unterricht",
     "Schwimmbäder - Bundesweit fehlen mindestens 3.000 Bademeister",
@@ -3003,12 +3000,12 @@
     "Lippstadt - Arzt klagt gegen Abtreibungsverbot an Klinik - Demos von Unterstützern",
     "Verteidigung - Neuer Wehrdienst-Entwurf stärkt Parlamentsrecht",
     "Medienberichte - Indien legt Waffen- und Flugzeugkaufe aus den USA wegen Strafzöllen auf Eis",
-    "Gericht: Christliche Klinik darf Abtreibungen einschränken"
+    "Gericht: Christliche Klinik darf Abtreibungen einschränken",
+    "Urteil - Christliche Klinik darf Abtreibungen einschränken",
+    "Gericht - Kein Schadenersatz bei grob fahrlässigem Umgang mit Phishing-Nachrichten",
+    "Brosius-Gersdorf: Der linke Kulturkampf ist gescheitert"
   ],
   "hashes": [
-    "e908970e314b0ce758946d52b7d58ff0",
-    "ddced9108d7f70995e6997fa4cab26c6",
-    "42a067024abf2fa26ba84ec81a764d96",
     "2edfcc3b79db0644b6bd8368c6eb66c9",
     "ad57841f88f1bab8efbade35731e2e11",
     "925fa672c23cf76fc205c4dd7a92349e",
@@ -4005,6 +4002,9 @@
     "7c373aa1ec12f160c0ac6f9ca71b6254",
     "28bbf4d0d2d0fe0b2965408abd4f83f2",
     "df58976239185eb81b76d636598c1293",
-    "69e8f69176e5a1829457394383c02449"
+    "69e8f69176e5a1829457394383c02449",
+    "96105f4d60d6c927707c040503962c72",
+    "93ad5c6f3714f0f440b7c4025107d179",
+    "843733a9eceb6532f128f75e0cde664b"
   ]
 }
