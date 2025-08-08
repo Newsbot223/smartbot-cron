@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kaempfe-in-suweida-trotz-waffenruhe-erneut-aufgeflammt-104.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/e-autos-rekordhoch-bei-neuzulassungen-a-0c1e6180-6025-47e0-bf2d-166aeeb99bf0#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/frauke-brosius-gersdorf-110592031.html",
     "https://www.deutschlandfunk.de/erneuter-vulkanausbruch-in-island-fischerort-grindavik-und-blaue-lagune-evakuiert-100.html",
@@ -999,10 +998,10 @@
     "https://www.spiegel.de/politik/gaza-wie-merz-lieferstopp-fuer-israel-cdu-und-csu-spaltet-a-c5476211-d606-4583-99d9-1ebd150ed6a7#ref=rss",
     "https://www.deutschlandfunk.de/indien-und-russland-wollen-enger-zusammenarbeiten-delhi-legt-waffenkaeufe-in-den-usa-wegen-strafzoel-102.html",
     "https://www.deutschlandfunk.de/deutliche-kritik-an-israelischer-ausweitung-des-militaereinsatzes-im-gazastreifen-sitzung-des-uno-si-100.html",
-    "https://www.deutschlandfunk.de/us-astronaut-james-lovell-im-alter-von-97-jahren-gestorben-mitglied-der-aufsehenerregenden-mission-a-106.html"
+    "https://www.deutschlandfunk.de/us-astronaut-james-lovell-im-alter-von-97-jahren-gestorben-mitglied-der-aufsehenerregenden-mission-a-106.html",
+    "https://www.deutschlandfunk.de/feuer-in-der-kathedrale-von-c-rdoba-ausgebrochen-102.html"
   ],
   "content_hashes": [
-    "e80113fcfc5764067dd7d20b9d1d5f0a",
     "c6b0e4bc77c19848666deeab2450c300",
     "4a713e0d1f0cd03c88d7fd646347bfc5",
     "670f0a6d8f27202bfd7a282b43329b42",
@@ -2001,10 +2000,10 @@
     "3c41b2cd97c7a562fb78657c5d549fdc",
     "18157e0e8d646123a8e21def302ad241",
     "63b8170747849de4c1838a4dbf0d0f7e",
-    "65d8e97547df4703f35dc19f215dc795"
+    "65d8e97547df4703f35dc19f215dc795",
+    "ebd104b80a6035366e4fae45852d9069"
   ],
   "titles": [
-    "Syrien - Kämpfe in Suweida trotz Waffenruhe erneut aufgeflammt",
     "E-Autos: Rekordhoch bei Neuzulassungen",
     "Kommentar zum Fall Brosius-Gersdorf: Zweifel sind angebracht",
     "Reykjanes-Halbinsel - Erneuter Vulkanausbruch in Island - Fischerort Grindavik und Blaue Lagune evakuiert",
@@ -3003,10 +3002,10 @@
     "Gaza: Wie Merz' Lieferstopp für Israel CDU und CSU spaltet",
     "Diplomatie - Indien und Russland wollen enger zusammenarbeiten - Delhi legt Waffenkäufe in den USA wegen Strafzöllen auf Eis",
     "Nahost - Deutliche Kritik an israelischer Ausweitung des Militäreinsatzes im Gazastreifen - Sitzung des UNO-Sicherheitsrats",
-    "Raumfahrt - US-Astronaut James Lovell im Alter von 97 Jahren gestorben - Mitglied der aufsehenerregenden Mission Apollo 13 im Jahr 1970"
+    "Raumfahrt - US-Astronaut James Lovell im Alter von 97 Jahren gestorben - Mitglied der aufsehenerregenden Mission Apollo 13 im Jahr 1970",
+    "Spanien - Feuer in der Kathedrale von Córdoba ausgebrochen"
   ],
   "hashes": [
-    "e5e3dde8172489f6c2670001c32d5720",
     "b5bacc6ea86b88b08a6d050b5e8c76e9",
     "a4ce0f5519e53a2358aeec91fc54867d",
     "ad0bf36372b0e829f23d47f636287406",
@@ -4005,6 +4004,7 @@
     "12e799c652e2715ffb468a8c7a1e7814",
     "ab7507df6faaffbf03ec0c55eda4e1a4",
     "38c2bd6162f29966cf7a3c7495a0b941",
-    "00ff5b32190160f8e24d43484dca2df6"
+    "00ff5b32190160f8e24d43484dca2df6",
+    "23b25e957447d7827408163a87f2f52d"
   ]
 }
