@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-droht-beitrittskandidat-georgien-mit-sanktionen-102.html",
-    "https://www.deutschlandfunk.de/entwurf-fuer-haushalt-ab-2028-wird-heute-vorgestellt-100.html",
     "https://www.deutschlandfunk.de/pentagon-ordnet-teilabzug-von-nationalgarde-aus-los-angeles-an-100.html",
     "https://www.deutschlandfunk.de/bundesbildungsministerin-prien-fordert-einigung-der-laender-ueber-sommerferien-beginn-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wirbt-bei-internationalen-finanzunternehmen-fuer-investitionen-in-deutschland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/murdoch-will-neue-boulevardzeitung-fuer-kalifornien-starten-102.html",
     "https://www.spiegel.de/auto/preise-fuer-elektroautos-und-verbrenner-abstand-schrumpft-deutlich-a-6cffeb92-dd60-48ea-9be4-c814b86a2d55#ref=rss",
     "https://www.deutschlandfunk.de/arzt-klagt-gegen-abtreibungsverbot-an-klinik-demos-von-unterstuetzern-100.html",
-    "https://www.deutschlandfunk.de/neuer-wehrdienst-entwurf-staerkt-parlamentsrecht-100.html"
+    "https://www.deutschlandfunk.de/neuer-wehrdienst-entwurf-staerkt-parlamentsrecht-100.html",
+    "https://www.deutschlandfunk.de/indien-legt-waffen-und-flugzeugkaufe-aus-den-usa-wegen-strafzoellen-auf-eis-102.html",
+    "https://www.deutschlandfunk.de/gericht-christliche-klinik-darf-abtreibungen-einschraenken-100.html"
   ],
   "content_hashes": [
-    "2ead00b08a2e81832a587a9d7ef71f04",
-    "75ca21b49e85bf3fc9f23b1ab5136aa0",
     "b86a6a064dea03b15bc35665c315e281",
     "fa6f121980d1bedc8761809e7f42559f",
     "08ad431eaae60a509724ebf64d83fd8b",
@@ -2001,11 +1999,11 @@
     "ccf34595c954ecac5e1845cb6ef64b72",
     "1a6e777057f8941a78fb8ae49d2804e7",
     "0873a463c17b0a99e437640755e21f77",
-    "ab0e29bdbd9d18eae70aa7155181d0fd"
+    "ab0e29bdbd9d18eae70aa7155181d0fd",
+    "7d5fb633242602447c4468a624eec19f",
+    "11d7ee34724896254b1892384a2d5635"
   ],
   "titles": [
-    "\"Demokratischer Rückschritt\" - EU droht Beitrittskandidat Georgien mit Sanktionen",
-    "EU-Kommission - Entwurf für Haushalt ab 2028 wird heute vorgestellt",
     "USA - Pentagon ordnet Teilabzug von Nationalgarde aus Los Angeles an",
     "Urlaub - Bundesbildungsministerin Prien fordert Einigung der Länder über Sommerferien-Beginn",
     "Treffen im Kanzleramt - Bundeskanzler Merz wirbt bei internationalen Finanzunternehmen für Investitionen in Deutschland",
@@ -3003,11 +3001,11 @@
     "Zeitungsmarkt - Murdoch will neue Boulevardzeitung für Kalifornien starten",
     "Preise für Elektroautos und Verbrenner: Abstand schrumpft deutlich",
     "Lippstadt - Arzt klagt gegen Abtreibungsverbot an Klinik - Demos von Unterstützern",
-    "Verteidigung - Neuer Wehrdienst-Entwurf stärkt Parlamentsrecht"
+    "Verteidigung - Neuer Wehrdienst-Entwurf stärkt Parlamentsrecht",
+    "Medienberichte - Indien legt Waffen- und Flugzeugkaufe aus den USA wegen Strafzöllen auf Eis",
+    "Gericht: Christliche Klinik darf Abtreibungen einschränken"
   ],
   "hashes": [
-    "4feb15ff500a7189d3c93b915cce6d89",
-    "11399e63c63db2d26df5aed4cafc7893",
     "e908970e314b0ce758946d52b7d58ff0",
     "ddced9108d7f70995e6997fa4cab26c6",
     "42a067024abf2fa26ba84ec81a764d96",
@@ -4005,6 +4003,8 @@
     "004b94db2fc4b7822b22dee4575f7420",
     "be73b0b52a4aecf05d2ac81fc4e72ebc",
     "7c373aa1ec12f160c0ac6f9ca71b6254",
-    "28bbf4d0d2d0fe0b2965408abd4f83f2"
+    "28bbf4d0d2d0fe0b2965408abd4f83f2",
+    "df58976239185eb81b76d636598c1293",
+    "69e8f69176e5a1829457394383c02449"
   ]
 }
