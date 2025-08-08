@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/maja-t-isolationshaft-ungarn-anklage-linksextreme-gewalt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-drohnenangriff-ohne-konsequenzen-110592126.html",
     "https://www.deutschlandfunk.de/ministerpraesident-schmyhal-tritt-zurueck-beabsichtigte-regierungsumbildung-eingeleitet-100.html",
     "https://www.deutschlandfunk.de/ministerpraesident-bayrou-schlaegt-sparmassnahmen-vor-und-kuendigt-harte-einschnitte-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/zugspitztreffen-dreitausend-meter-ueber-den-berliner-niederungen-110591940.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/warum-afd-kandidat-paul-nicht-zur-ob-wahl-in-ludwigshafen-zugelassen-wurde-110627170.html",
     "https://www.deutschlandfunk.de/rheinmetall-chef-pappberger-sieht-ruestungsbranche-als-jobmaschine-100.html",
     "https://www.deutschlandfunk.de/rueckzug-von-brosius-gersdorf-interview-mit-spd-rechtspolitiker-helge-lindh-102.html",
-    "https://www.deutschlandfunk.de/papperger-ruestungsbranche-ist-jobmaschine-100.html"
+    "https://www.deutschlandfunk.de/papperger-ruestungsbranche-ist-jobmaschine-100.html",
+    "https://www.deutschlandfunk.de/australien-warnt-israel-vor-einnahme-des-gazastreifens-100.html",
+    "https://www.deutschlandfunk.de/digitalminister-wildberger-weist-kritik-von-siemens-und-sap-zurueck-100.html"
   ],
   "content_hashes": [
-    "7961ef5301270c88f772ad75d784e6f9",
-    "48cf2885e8bfa29cb6db0800eb40bda3",
     "e2b7b862dc4006ca993d9a74d3167e7b",
     "5b2cc956072b89640e4ee9a421e26efe",
     "d20140c23539a22fab69235e8ec90374",
@@ -2001,11 +1999,11 @@
     "c73230006c4ad76f354591c579face45",
     "035112f9024988809c4d51e449c294fc",
     "e6844f857017f9e308e7016f70f5cd37",
-    "19823a008acd58d40667838bd9e46b62"
+    "19823a008acd58d40667838bd9e46b62",
+    "f30837c56ab9aec2f7392a7b8f044fd9",
+    "53131a3a5181d113fedee6cbe5c0e7c7"
   ],
   "titles": [
-    "Maja T. in Ungarn - Schwere Vorwürfe, Isolationshaft und ein Hungerstreik",
-    "Bundesverfassungsgericht: Ein Drohnenangriff ohne Konsequenzen",
     "Ukraine - Ministerpräsident Schmyhal tritt zurück - beabsichtigte Regierungsumbildung eingeleitet",
     "Frankreich - Ministerpräsident Bayrou schlägt Sparmaßnahmen vor und kündigt harte Einschnitte an",
     "Merz auf der Zugspitze: Weit über den Berliner Niederungen",
@@ -3003,11 +3001,11 @@
     "OB-Wahl in Ludwigshafen: Warum der AfD-Kandidat nicht zugelassen wurde",
     "Milliardeninvestitionen - Rheinmetall-Chef Pappberger sieht Rüstungsbranche als Jobmaschine",
     "Fall Brosius-Gersdorf - SPD-Politiker Lindh: Ein Mann wäre nicht so behandelt worden",
-    "Rheinmetall-Chef - Papperger: \"Rüstungsbranche ist Jobmaschine\""
+    "Rheinmetall-Chef - Papperger: \"Rüstungsbranche ist Jobmaschine\"",
+    "Nahost - Australien warnt Israel vor Einnahme des Gazastreifens",
+    "KI-Pläne in der EU - Digitalminister Wildberger weist Kritik von Siemens und SAP zurück"
   ],
   "hashes": [
-    "44d579f15ef538dba0b05553fce1d976",
-    "636604055c2de5769ee2f81b58a6ce2d",
     "a91af7416dd10c8fa1ba4bde5d438742",
     "64492ddc9c767f438c45ffa485aef3e6",
     "1114dac2a1766a66c222d8db0c63ee1e",
@@ -4005,6 +4003,8 @@
     "3d2c57a885d8fd11d1f57b2fc75a64ae",
     "ef9e1c93bda2de52cedc44bb6b42b1ce",
     "f246d910cda1bea45a2873e45854a42f",
-    "eda909125af410a688f3a6a32a53c544"
+    "eda909125af410a688f3a6a32a53c544",
+    "1e554703b408b530dc12bb2af1fb24fb",
+    "86439cc719d5ad15d63985b1d66c2742"
   ]
 }
