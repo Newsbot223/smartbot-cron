@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kontroverse-debatte-ueber-diw-vorschlag-zu-boomer-soli-als-mittel-gegen-altersarmut-100.html",
-    "https://www.deutschlandfunk.de/deutliche-erhoehung-eu-kommission-schlaegt-fuer-2028-bis-2034-etat-von-zwei-billionen-euro-vor-104.html",
     "https://www.faz.net/aktuell/politik/inland/afd-mitglieder-wenn-extremisten-dem-staat-dienen-wollen-110593827.html",
     "https://www.faz.net/aktuell/politik/inland/kontroverse-um-sommerempfang-afd-droht-mit-klage-gegen-landtagspraesidentin-aigner-110593434.html",
     "https://www.deutschlandfunk.de/anklage-gegen-fuenf-maenner-aus-syrien-wegen-kriegsverbrechen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trend-zur-partydroge-debatte-um-strengere-regulierung-102.html",
     "https://www.deutschlandfunk.de/kulturelle-aneignung-adidas-nach-vorwuerfen-aus-mexiko-gespraechsbereit-100.html",
     "https://www.deutschlandfunk.de/kommentar-zum-treffen-trump-putin-risiko-fuer-die-ukraine-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-stellt-foerderung-fuer-private-solaranlagen-infrage-100.html"
+    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-stellt-foerderung-fuer-private-solaranlagen-infrage-100.html",
+    "https://www.deutschlandfunk.de/westliche-ukraine-verbuendete-beraten-in-grossbritannien-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/trump-putin-und-die-ukraine-wie-deutschland-helfen-kann-110628505.html"
   ],
   "content_hashes": [
-    "08173cd3f1974dc3d3c52dbe3d749720",
-    "885fb306fe1be892715b299b4800869f",
     "9b50ccacdfc5349f62f38c5130c0abc7",
     "eb6dcaee9bba6714c0e1a57c55344646",
     "d334d743436fc9f4979ea7710d009c85",
@@ -2001,11 +1999,11 @@
     "50f5d32c27745d932145fe8330c67426",
     "ba225dcf2d48af09253382bf8223920a",
     "bad34352ada5a0c95a933f6e3d378baf",
-    "de04bd47ff88b07ed0ab5cf93219a529"
+    "de04bd47ff88b07ed0ab5cf93219a529",
+    "c5f3e12ab722d2341b32f62a02f2f32b",
+    "91e9b68ff28ecaf10a15a248e6f55039"
   ],
   "titles": [
-    "Rentenpolitik - Kontroverse Debatte über DIW-Vorschlag zu \"Boomer-Soli\" als Mittel gegen Altersarmut",
-    "Brüssel - Deutliche Erhöhung: EU-Kommission schlägt für 2028 bis 2034 Etat von zwei Billionen Euro vor",
     "Debatte um AfD-Mitglieder: Wenn Extremisten dem Staat dienen wollen",
     "Kontroverse um Sommerempfang: AfD droht mit Klage gegen Landtagspräsidentin Aigner",
     "Bundesanwaltschaft - Anklage gegen fünf Männer aus Syrien wegen Kriegsverbrechen",
@@ -3003,11 +3001,11 @@
     "Ketamin - Trend zur Partydroge: Debatte um strengere Regulierung",
     "Sandalendesign - Kulturelle Aneignung: Adidas nach Vorwürfen aus Mexiko gesprächsbereit",
     "Trump trifft Putin - Kommentar: Der Ukraine steht eine schicksalhafte Woche bevor",
-    "Einspeisevergütung - Wirtschaftsministerin Reiche stellt Förderung für private Solaranlagen infrage"
+    "Einspeisevergütung - Wirtschaftsministerin Reiche stellt Förderung für private Solaranlagen infrage",
+    "Vor Trump-Putin-Gipfel - Westliche Ukraine-Verbündete beraten in Großbritannien",
+    "Trump will Putin treffen: Deutschland und Europa müssen zahlen"
   ],
   "hashes": [
-    "86f79283d8db4a59d57e76d73e709293",
-    "5c928fe1545df796394dd31fa0b457bc",
     "af3892c39122b0121d74def6891ca2f0",
     "136983817f518b1b15622f5225e97ba7",
     "fc680e4e3bdd46760bb8fe134f4561fc",
@@ -4005,6 +4003,8 @@
     "996de26da0240ed8dd67f9afe304ca29",
     "ed64a93c2f6d80f5820db3b0b217b3ac",
     "e17709debad18165919c8f4c6ae31f3b",
-    "7d32a470a507c98720f8d6629ca9af82"
+    "7d32a470a507c98720f8d6629ca9af82",
+    "553b5f40c757419547e5ed39bc8e7cdd",
+    "2471f8b9b02cf8e37988ef9e9cadf6ee"
   ]
 }
