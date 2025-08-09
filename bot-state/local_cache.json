@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/abrahamsen-gewinnt-elfte-etappe-in-toulouse-healy-bleibt-in-gelb-102.html",
     "https://www.faz.net/einspruch/was-der-kanzleramtsminister-zur-richterwahl-sagt-110593907.html",
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-1440-unbesetzte-lehrerstellen-entdeckt-110594045.html",
     "https://www.deutschlandfunk.de/theaterregisseur-claus-peymann-mit-88-jahren-gestorben-100.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/ukraine/trump-putin-und-die-ukraine-wie-deutschland-helfen-kann-110628505.html",
     "https://www.deutschlandfunk.de/debatte-um-alkoholverbot-fuer-jugendliche-cdu-politikerin-borchardt-fuehrt-nicht-automatisch-zu-weni-100.html",
     "https://www.deutschlandfunk.de/munch-ausstellung-in-chemnitz-mit-festakt-eroeffnet-102.html",
-    "https://www.deutschlandfunk.de/trump-reicht-milliardenklage-gegen-universitaet-von-kalifornien-ein-100.html"
+    "https://www.deutschlandfunk.de/trump-reicht-milliardenklage-gegen-universitaet-von-kalifornien-ein-100.html",
+    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-von-propalaestinensischer-aktivistengruppe-100.html"
   ],
   "content_hashes": [
-    "b27f64fd1559a478417e7506a4c33518",
     "b738ab41e490aaf40ba6a761d8ff2f05",
     "f12b054e52d4375b880e5a27abb61c9b",
     "4a93ce5e95e5029821eeee45e7020b4e",
@@ -2001,10 +2000,10 @@
     "91e9b68ff28ecaf10a15a248e6f55039",
     "32ca7dbd227d7736702e6b30529c0838",
     "5c6498b308fc5c7c4339e1b71bf74cc5",
-    "5c96e2c9156c1f0e83b2ecbc6359b3bc"
+    "5c96e2c9156c1f0e83b2ecbc6359b3bc",
+    "8cc88f3850a9e6930045733cf0d28159"
   ],
   "titles": [
-    "Tour de France - Abrahamsen gewinnt elfte Etappe in Toulouse - Healy bleibt in Gelb",
     "Was der Kanzleramtsminister zur Richterwahl sagt",
     "Baden-Württemberg: 1440 unbesetzte Lehrerstellen entdeckt",
     "Trauer - Theaterregisseur Claus Peymann mit 88 Jahren gestorben",
@@ -3003,10 +3002,10 @@
     "Trump will Putin treffen: Deutschland und Europa müssen zahlen",
     "Gesundheit - Debatte um Alkoholverbot für Jugendliche - CDU-Politikerin Borchardt: \"Führt nicht automatisch zu weniger Konsum\"",
     "Kulturhauptstadt - Munch-Ausstellung in Chemnitz mit Festakt eröffnet",
-    "USA - Trump reicht Milliardenklage gegen Universität von Kalifornien ein"
+    "USA - Trump reicht Milliardenklage gegen Universität von Kalifornien ein",
+    "London - Hunderte Festnahmen bei Protest gegen Verbot von propalästinensischer Aktivistengruppe"
   ],
   "hashes": [
-    "b5dbd3b880d1af50411f0d3235fbbfa8",
     "f53d3aa65f47b9b0731efc0b85d336ca",
     "33a15a553d4cffeb6955fe8d2fd09f1f",
     "d1edf1f101064bd3450f4e99a477c693",
@@ -4005,6 +4004,7 @@
     "2471f8b9b02cf8e37988ef9e9cadf6ee",
     "98cf1cb892a2862f8969a9fd73afd3fa",
     "b81e97975bc7cbc985595630e99922ae",
-    "ac7390e4acc1e41071338ceaf34d45a4"
+    "ac7390e4acc1e41071338ceaf34d45a4",
+    "2ee4d600adaee375a0c372ee8ea79fd2"
   ]
 }
