@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/krankenkasse-mehr-psychische-stoerungen-seit-teillegalisierung-von-cannabis-104.html",
-    "https://www.faz.net/aktuell/politik/inland/schroeder-stellt-bedingungen-altkanzler-fordert-nicht-oeffentliche-videoschalte-110593218.html",
     "https://www.deutschlandfunk.de/fruehere-intendantin-schlesinger-erzielt-teilerfolg-gegen-rbb-sender-muss-ruhegeld-zahlen-100.html",
     "https://www.spiegel.de/wissenschaft/technik/umweltbundesamt-wertet-handel-mit-co-verschmutzungsrechten-als-erfolg-a-cd6cea11-9505-4e23-b2cb-8ab66c0bed26#ref=rss",
     "https://www.deutschlandfunk.de/weltweites-servernetz-einer-pro-russischen-hackergruppe-abgeschaltet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zweifel-an-unabhaengigkeit-der-designierten-bundestierschutzbeauftragten-breher-cdu-100.html",
     "https://www.deutschlandfunk.de/spd-aussenpolitikerin-moeller-verteidigt-deutsche-exportbeschraenkung-von-waffen-nach-israel-100.html",
     "https://www.deutschlandfunk.de/brand-in-weltberuehmter-moschee-kathedrale-von-c-rdoba-geloescht-100.html",
-    "https://www.deutschlandfunk.de/bringt-trump-den-frieden-interview-mit-george-weinberg-republicans-overseas-100.html"
+    "https://www.deutschlandfunk.de/bringt-trump-den-frieden-interview-mit-george-weinberg-republicans-overseas-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftswissenschaftler-fordert-handeln-von-der-bundesregierung-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-steuerpruefungen-in-unternehmen-seit-2015-um-60-prozent-gesunken-100.html"
   ],
   "content_hashes": [
-    "512e12c69df623258672042d8a660de4",
-    "a0f2815b2c4a61607303220cfbc42e02",
     "6a831def3888a0940ab5a1658a78d5d2",
     "a41d85453511c708b54292b3ae7ad8fd",
     "9b096559d2920cda507502f7da12febe",
@@ -2001,11 +1999,11 @@
     "1b00392d505a9fa743c593a619dcd9f7",
     "e2fa943d8e3fe645b8014463e73b7e75",
     "e39ba5141f5d77108202490b3314aef5",
-    "138d15f460536ed913d5db3a628607c5"
+    "138d15f460536ed913d5db3a628607c5",
+    "f32102be8e26c68b8884cdf61bc72b36",
+    "c7589f29bd20869b3535dd0a026390b0"
   ],
   "titles": [
-    "Bericht - Krankenkasse: Mehr psychische Störungen seit Teillegalisierung von Cannabis",
-    "Schröder stellt Bedingungen: Altkanzler fordert nicht-öffentliche Videoschalte",
     "Landgericht Berlin - Frühere Intendantin Schlesinger erzielt Teilerfolg gegen RBB - Sender muss Ruhegeld zahlen",
     "Umweltbundesamt wertet Handel mit CO₂-Verschmutzungsrechten als Erfolg",
     "Bundeskriminalamt - Weltweites Servernetz einer pro-russischen Hackergruppe abgeschaltet",
@@ -3003,11 +3001,11 @@
     "Staatssekretärin im Landwirtschaftsministerium - Zweifel an Unabhängigkeit der designierten Bundestierschutzbeauftragten Breher (CDU)",
     "Nahost-Krieg - SPD-Außenpolitikerin Möller verteidigt deutsche Exportbeschränkung von Waffen nach Israel",
     "Spanien - Brand in weltberühmter Moschee-Kathedrale von Córdoba gelöscht",
-    "Gipfel in Alaska - \"Ein Kompromiss wird für die Ukraine schmerzhaft sein\""
+    "Gipfel in Alaska - \"Ein Kompromiss wird für die Ukraine schmerzhaft sein\"",
+    "Milliardenkredite - Wirtschaftswissenschaftler fordert Handeln von der Bundesregierung",
+    "Medienbericht - Zahl der Steuerprüfungen in Unternehmen seit 2015 um 60 Prozent gesunken"
   ],
   "hashes": [
-    "1269dead1f46519443c883d75015bb22",
-    "f4d5b88f68e001a2ab854810961bccec",
     "cf729ad337cea84f9cce9db8194165aa",
     "09827a544a5dfe1148c1e6830103cc4e",
     "df8362de7e2b22f926aa78b4295df704",
@@ -4005,6 +4003,8 @@
     "67d72951a4d031dea53f46c5b3d229b6",
     "9e0315b747f8cef3e558206a7e9e0de0",
     "54191ce885018da1ba89ec40117be0a7",
-    "e32991744971fc3d43d915201b4ad2cc"
+    "e32991744971fc3d43d915201b4ad2cc",
+    "256f6b1ffdcce70ebbde3012f02c5b3c",
+    "36aeb4cbfe3f6807bf57024c4445ae43"
   ]
 }
