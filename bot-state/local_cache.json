@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/theaterregisseur-claus-peymann-mit-88-jahren-gestorben-100.html",
-    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-gleitbombenangriff-in-der-frontstadt-dobropillja-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-lehnt-deutliche-erhoehung-des-eu-etats-ab-100.html",
     "https://www.deutschlandfunk.de/treffen-der-g20-finanzminister-und-notenbankchefs-beginnt-102.html",
     "https://www.deutschlandfunk.de/parlament-stimmt-ueber-neue-regierung-ab-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-grossbritannien-schliessen-einen-freundschaftsvertrag-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-reicht-milliardenklage-gegen-universitaet-von-kalifornien-ein-100.html",
     "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-von-propalaestinensischer-aktivistengruppe-100.html",
     "https://www.deutschlandfunk.de/hunderte-anhaenger-der-exil-opposition-von-belarus-demonstrieren-gegen-diktator-lukaschenko-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wie-rechtsextreme-csds-in-ostdeutschland-stoeren-110628685.html"
+    "https://www.faz.net/aktuell/politik/inland/wie-rechtsextreme-csds-in-ostdeutschland-stoeren-110628685.html",
+    "https://www.deutschlandfunk.de/klitschko-jeder-ist-kriegsmuede-102.html",
+    "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-werden-leistungen-kuerzen-muessen-102.html",
+    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-von-als-terrororganisation-eingestufter-pro-palaestinen-104.html"
   ],
   "content_hashes": [
-    "4a93ce5e95e5029821eeee45e7020b4e",
-    "0d316625c203d182562869b5184c0e1b",
-    "0b11c09a896b3c1fce6e04b3a0c41d8a",
     "225439b3ce41f8149f2b3e7a47fb7062",
     "352253f7cfdb813c498dc32269398c4b",
     "77f36b5d51fa4567b857d75612d0d3db",
@@ -2001,12 +1998,12 @@
     "5c96e2c9156c1f0e83b2ecbc6359b3bc",
     "8cc88f3850a9e6930045733cf0d28159",
     "475712b6c3bc4d6be5fe73454814cdc6",
-    "9360e412f324eaf620c99cfb910c4da1"
+    "9360e412f324eaf620c99cfb910c4da1",
+    "c82201a98958942f4a7fde30065e3fad",
+    "3dd7918914d9cd852e1cbbeae5655155",
+    "120b7a4c7323e3e7d352d162fd84728a"
   ],
   "titles": [
-    "Trauer - Theaterregisseur Claus Peymann mit 88 Jahren gestorben",
-    "Ostukraine - Tote und Verletzte nach Gleitbombenangriff in der Frontstadt Dobropillja",
-    "Nach Vorschlag der Kommission - Bundesregierung lehnt deutliche Erhöhung des EU-Etats ab",
     "Südafrika - Treffen der G20-Finanzminister und Notenbankchefs beginnt",
     "Ukraine - Parlament stimmt über neue Regierung ab",
     "Nach dem Brexit - Deutschland und Großbritannien schließen einen Freundschaftsvertrag",
@@ -3003,12 +3000,12 @@
     "USA - Trump reicht Milliardenklage gegen Universität von Kalifornien ein",
     "London - Hunderte Festnahmen bei Protest gegen Verbot von propalästinensischer Aktivistengruppe",
     "Warschau - Hunderte Anhänger der Exil-Opposition von Belarus demonstrieren gegen Diktator Lukaschenko",
-    "Neonazis gegen queere Menschen: Was ist hier normal?"
+    "Neonazis gegen queere Menschen: Was ist hier normal?",
+    "Abwehrkampf der Ukraine - Klitschko: \"Jeder ist kriegsmüde\"",
+    "Gesetzliche Sozialversicherungen - Wirtschaftsweise Grimm: \"Werden Leistungen kürzen müssen\"",
+    "London - Hunderte Festnahmen bei Protest gegen Verbot von als Terrororganisation eingestufter pro-palästinensischer Gruppierung"
   ],
   "hashes": [
-    "d1edf1f101064bd3450f4e99a477c693",
-    "bb98023360970a9206e28312a38e3ad0",
-    "494c5d138f506977d33c3825da9c8f49",
     "b27835b8476e29475512e3fc8b0063eb",
     "278a7e69560d00f360214a12599b1c26",
     "427c8c20d991f22bae3d69c477b643f3",
@@ -4005,6 +4002,9 @@
     "ac7390e4acc1e41071338ceaf34d45a4",
     "2ee4d600adaee375a0c372ee8ea79fd2",
     "00bfdda3bc71a30154b4b2f61d1f0c83",
-    "8feca649f9da77853e4af07e60c0a011"
+    "8feca649f9da77853e4af07e60c0a011",
+    "b4a780a6b74a85e5f26b05123b7b2967",
+    "3698b600951b958e94cd75a6f4710c66",
+    "197d59edc5d0d47360ebc156370808d4"
   ]
 }
