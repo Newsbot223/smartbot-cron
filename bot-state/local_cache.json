@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-geburten-in-deutschland-sinkt-weiter-100.html",
-    "https://www.deutschlandfunk.de/das-wirtschaftsgespraech-120.html",
     "https://www.deutschlandfunk.de/bgh-versandapotheke-im-eu-ausland-durfte-praemien-fuer-rezeptpflichtige-medikamente-zahlen-100.html",
     "https://www.deutschlandfunk.de/mindestens-60-tote-bei-brand-in-einkaufszentrum-100.html",
     "https://www.deutschlandfunk.de/parlament-waehlt-swyrydenko-zur-neuen-ministerpraesidentin-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-dankt-europaeern-fuer-solidaritaet-mit-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/zur-lage-in-nahost-nach-der-kehrtwende-der-bundesregierung-politologe-jan-busse-100.html",
     "https://www.deutschlandfunk.de/chrupalla-afd-unterstuetzt-merz-teilweisen-waffenlieferstopp-an-israel-100.html",
-    "https://www.deutschlandfunk.de/regierung-in-kolumbien-fuehrt-gespraeche-mit-maechtigstem-drogenkartell-des-landes-102.html"
+    "https://www.deutschlandfunk.de/regierung-in-kolumbien-fuehrt-gespraeche-mit-maechtigstem-drogenkartell-des-landes-102.html",
+    "https://www.deutschlandfunk.de/verhandlungen-ueber-internationales-abkommen-ueber-plastikmuell-treten-auf-der-stelle-110.html",
+    "https://www.faz.net/aktuell/politik/inland/stirbt-der-friedhof-110621858.html"
   ],
   "content_hashes": [
-    "2749f21a1575763a044a2e8f44948e77",
-    "e1bce71bea1499eac3455b5358d7611c",
     "8376efc7b3c9c0f5083641ee8a850723",
     "f73732b671ac84dbe4e75bfac1d6c93f",
     "6b2b56f18937c4b0a86b4540a74dbbd7",
@@ -2001,11 +1999,11 @@
     "3e868a8338cb5e4beddb6fa84332f8cf",
     "09c5abb43a4d5508cf14883c17f4b0b8",
     "2185d324a606a12cf41de85a693b168c",
-    "da56f76687488cf68d795a791f83f0d0"
+    "da56f76687488cf68d795a791f83f0d0",
+    "ee29b2bc0a142902a6978619995d4794",
+    "ea7e289635f6c61208eda5a72c37a5fc"
   ],
   "titles": [
-    "Statistisches Bundesamt - Zahl der Geburten in Deutschland sinkt weiter",
-    "Zollkonflikt mit USA - Chemieindustrie drängt auf schnelle Einigung",
     "Urteil - BGH: Versandapotheke im EU-Ausland durfte Prämien für rezeptpflichtige Medikamente zahlen",
     "Irak - Mindestens 60 Tote bei Brand in Einkaufszentrum",
     "Ukraine - Parlament wählt Swyrydenko zur neuen Ministerpräsidentin",
@@ -3003,11 +3001,11 @@
     "Vor Trump-Putin-Gipfel - Selenskyj dankt Europäern für Solidarität mit der Ukraine",
     "Rüstung nach Israel - Politologe: Kehrtwende der Bundesregierung war ihre Pflicht",
     "ZDF-Sommerinterview - Chrupalla: AfD unterstützt Merz' teilweisen Waffenlieferstopp an Israel",
-    "Clan del Golfo - Regierung in Kolumbien führt Gespräche mit mächtigstem Drogenkartell des Landes"
+    "Clan del Golfo - Regierung in Kolumbien führt Gespräche mit mächtigstem Drogenkartell des Landes",
+    "Genf - Verhandlungen über internationales Abkommen über Plastikmüll treten auf der Stelle",
+    "Reform in Rheinland-Pfalz: Stirbt der Friedhof?"
   ],
   "hashes": [
-    "fa304d8c0f077ac866ad14e40e74485e",
-    "7c58d9ffbe1b961e230bd46d97bcc1ba",
     "5591c658dd8e132669c34fd787d66134",
     "42ef82a1c88f8bb65c0c8e60ebdff205",
     "3d9f510df200c5ea20965ac0bf67013b",
@@ -4005,6 +4003,8 @@
     "14c7ae95d69a85ba95864f99ea4a2ff8",
     "97372691737996437db5892139aa8c28",
     "dcb738fe7cde70f786191faa67ead538",
-    "9006cf46589e1588c6017ba6d3ca7a62"
+    "9006cf46589e1588c6017ba6d3ca7a62",
+    "064d402c0a868244202152b396da60a6",
+    "08673bbd9d4d77e5ec817d427e1421eb"
   ]
 }
