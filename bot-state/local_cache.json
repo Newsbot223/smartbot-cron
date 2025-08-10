@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bgh-versandapotheke-im-eu-ausland-durfte-praemien-fuer-rezeptpflichtige-medikamente-zahlen-100.html",
-    "https://www.deutschlandfunk.de/mindestens-60-tote-bei-brand-in-einkaufszentrum-100.html",
     "https://www.deutschlandfunk.de/parlament-waehlt-swyrydenko-zur-neuen-ministerpraesidentin-100.html",
     "https://www.deutschlandfunk.de/moskau-und-kiew-uebergeben-erneut-leichen-von-gefallenen-soldaten-100.html",
     "https://www.deutschlandfunk.de/bgh-zieht-enge-grenzen-fuer-payback-punkte-bei-medizinprodukten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/chrupalla-afd-unterstuetzt-merz-teilweisen-waffenlieferstopp-an-israel-100.html",
     "https://www.deutschlandfunk.de/regierung-in-kolumbien-fuehrt-gespraeche-mit-maechtigstem-drogenkartell-des-landes-102.html",
     "https://www.deutschlandfunk.de/verhandlungen-ueber-internationales-abkommen-ueber-plastikmuell-treten-auf-der-stelle-110.html",
-    "https://www.faz.net/aktuell/politik/inland/stirbt-der-friedhof-110621858.html"
+    "https://www.faz.net/aktuell/politik/inland/stirbt-der-friedhof-110621858.html",
+    "https://www.deutschlandfunk.de/sicherheitsrat-beraet-ueber-israels-gaza-plaene-100.html",
+    "https://www.deutschlandfunk.de/forschungsministerien-baer-deutschland-ist-gute-alternative-fuer-forscher-aus-den-usa-102.html"
   ],
   "content_hashes": [
-    "8376efc7b3c9c0f5083641ee8a850723",
-    "f73732b671ac84dbe4e75bfac1d6c93f",
     "6b2b56f18937c4b0a86b4540a74dbbd7",
     "9ed24092aef67ece6ecc180f407f310d",
     "ff8913091b94f7d0d2457de9c4199192",
@@ -2001,11 +1999,11 @@
     "2185d324a606a12cf41de85a693b168c",
     "da56f76687488cf68d795a791f83f0d0",
     "ee29b2bc0a142902a6978619995d4794",
-    "ea7e289635f6c61208eda5a72c37a5fc"
+    "ea7e289635f6c61208eda5a72c37a5fc",
+    "639345601dfa60a2f27da6a077ecc10d",
+    "9797927b52a0404ed5998e9ba1a67ecd"
   ],
   "titles": [
-    "Urteil - BGH: Versandapotheke im EU-Ausland durfte Prämien für rezeptpflichtige Medikamente zahlen",
-    "Irak - Mindestens 60 Tote bei Brand in Einkaufszentrum",
     "Ukraine - Parlament wählt Swyrydenko zur neuen Ministerpräsidentin",
     "Ukraine-Krieg - Moskau und Kiew übergeben erneut Leichen von gefallenen Soldaten",
     "Heilmittelwerbegesetz - BGH zieht enge Grenzen für Payback-Punkte bei Medizinprodukten",
@@ -3003,11 +3001,11 @@
     "ZDF-Sommerinterview - Chrupalla: AfD unterstützt Merz' teilweisen Waffenlieferstopp an Israel",
     "Clan del Golfo - Regierung in Kolumbien führt Gespräche mit mächtigstem Drogenkartell des Landes",
     "Genf - Verhandlungen über internationales Abkommen über Plastikmüll treten auf der Stelle",
-    "Reform in Rheinland-Pfalz: Stirbt der Friedhof?"
+    "Reform in Rheinland-Pfalz: Stirbt der Friedhof?",
+    "UNO - Sicherheitsrat berät über Israels Gaza-Pläne",
+    "Wissenschaftsfeindliches Klima unter Trump - Forschungsministerien Bär: Deutschland ist gute Alternative für Forscher aus den USA"
   ],
   "hashes": [
-    "5591c658dd8e132669c34fd787d66134",
-    "42ef82a1c88f8bb65c0c8e60ebdff205",
     "3d9f510df200c5ea20965ac0bf67013b",
     "02d19b1dbb1d12eb04f778e436769344",
     "d7e0ff4f4d2fc7ccf106fc736db8b43e",
@@ -4005,6 +4003,8 @@
     "dcb738fe7cde70f786191faa67ead538",
     "9006cf46589e1588c6017ba6d3ca7a62",
     "064d402c0a868244202152b396da60a6",
-    "08673bbd9d4d77e5ec817d427e1421eb"
+    "08673bbd9d4d77e5ec817d427e1421eb",
+    "b503440ec5fe4e0d564d72a87c71b0b7",
+    "7d831b4198a9793e2f45467fda716e8e"
   ]
 }
