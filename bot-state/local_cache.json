@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tiktok-beschaeftigte-protestieren-gegen-drohende-kuendigungen-im-bereich-content-moderation-102.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-abgeordnete-winkelmeier-becker-brosius-gersdorf-hat-anderes-menschenbild-110594737.html",
     "https://www.deutschlandfunk.de/union-und-spd-gegen-bundestags-sondersitzung-waehrend-der-sommerpause-100.html",
     "https://www.deutschlandfunk.de/nach-brand-tomorrowland-trotz-zerstoerter-haupttribuene-eroeffnet-102.html",
     "https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/merz-waffenembargo-gegen-israel-entfacht-cdu-krise-110631022.html",
     "https://www.deutschlandfunk.de/breite-kritik-an-netanjahus-gaza-plaenen-usa-verteidigen-israel-100.html",
     "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/achtzig-jahre-hiroshima-das-atomzeitalter-ist-nicht-vorbei-110631131.html"
+    "https://www.faz.net/aktuell/politik/ausland/achtzig-jahre-hiroshima-das-atomzeitalter-ist-nicht-vorbei-110631131.html",
+    "https://www.deutschlandfunk.de/laut-krankenhausangaben-mindestens-sieben-tote-nach-israelischen-angriffen-israel-bestaetigt-toetung-100.html",
+    "https://www.deutschlandfunk.de/neue-gespraeche-zwischen-iaea-und-iranischer-fuehrung-104.html"
   ],
   "content_hashes": [
-    "c929005fbcb81a066700f2514a7588a3",
-    "909893b82d7e9c7f31575f2991c747b4",
     "12fd84028c06ce349f4b20f1410cfaa8",
     "47a6f13af8588626580602becc4b7dec",
     "d1f463f7439648aac4f79d495875d25c",
@@ -2001,11 +1999,11 @@
     "bd000a6ec16defa1a19a7497dbb04e7b",
     "4eb22e1053e2df3488e63cf3373c67dc",
     "0fe057de1a89f64ff6967d883a7325fa",
-    "346164cd9f4310ad32db64cae9eccec8"
+    "346164cd9f4310ad32db64cae9eccec8",
+    "c923c2e757320f420c35bf97d9b2572c",
+    "2bf2a9e050bb36d6d180dcdbb087f1b3"
   ],
   "titles": [
-    "Berlin - Tiktok-Beschäftigte protestieren gegen drohende Kündigungen im Bereich Content-Moderation",
-    "Winkelmeier-Becker (CDU): Brosius-Gersdorf teilt nicht unser Weltbild",
     "Nach gescheiterter Richterwahl - Union und SPD gegen Bundestags-Sondersitzung während der Sommerpause",
     "Musikfestival - Nach Brand: Tomorrowland trotz zerstörter Haupttribüne eröffnet",
     "Früherer Trigema-Chef: Wolfgang Grupp macht Suizidversuch öffentlich",
@@ -3003,11 +3001,11 @@
     "Waffenstopp für Israel: Für die Union wird Merz zum Rätsel",
     "UNO-Sicherheitsrat - Breite Kritik an Netanjahus Gaza-Plänen - USA verteidigen Israel",
     "Ukraine - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja",
-    "Achtzig Jahre nach Hiroshima: Das Atomzeitalter ist nicht vorbei"
+    "Achtzig Jahre nach Hiroshima: Das Atomzeitalter ist nicht vorbei",
+    "Gazastreifen - Laut Krankenhausangaben mindestens sieben Tote nach israelischen Angriffen - Israel bestätigt Tötung eines Al-Dschasira-Mitarbeiters",
+    "Teheran - Neue Gespräche zwischen IAEA und iranischer Führung"
   ],
   "hashes": [
-    "005e1538ca9ccfa3b7b3ab8a45673313",
-    "20188344ac94c1334c3f08f9ed6e0ec2",
     "ab92ea4095cb5e1f4fcdb44f636cb3f7",
     "28bc534115a7919d6e68d2ece37616df",
     "7be9cf701a55cdfb174d557ac46a41e0",
@@ -4005,6 +4003,8 @@
     "5804bd610d258e3a06d0391799d64762",
     "b12939ca3e9766a750bb26beee12247c",
     "23b3053e925ece6d2f63d3b4e577d70e",
-    "b003e48fe79cad55a70454bfcc803862"
+    "b003e48fe79cad55a70454bfcc803862",
+    "2b47459c706dfd99b350b65a670770fc",
+    "356f241813a1a92096f49a5f0d364398"
   ]
 }
