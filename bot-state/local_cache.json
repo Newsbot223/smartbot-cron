@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/union-und-spd-gegen-bundestags-sondersitzung-waehrend-der-sommerpause-100.html",
-    "https://www.deutschlandfunk.de/nach-brand-tomorrowland-trotz-zerstoerter-haupttribuene-eroeffnet-102.html",
     "https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/bayern-regierung-will-klimabericht-abschaffen-110595523.html",
     "https://www.deutschlandfunk.de/steinmeier-verantwortungsbewusster-journalismus-gibt-orientierung-in-krisenzeiten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-100.html",
     "https://www.faz.net/aktuell/politik/ausland/achtzig-jahre-hiroshima-das-atomzeitalter-ist-nicht-vorbei-110631131.html",
     "https://www.deutschlandfunk.de/laut-krankenhausangaben-mindestens-sieben-tote-nach-israelischen-angriffen-israel-bestaetigt-toetung-100.html",
-    "https://www.deutschlandfunk.de/neue-gespraeche-zwischen-iaea-und-iranischer-fuehrung-104.html"
+    "https://www.deutschlandfunk.de/neue-gespraeche-zwischen-iaea-und-iranischer-fuehrung-104.html",
+    "https://www.deutschlandfunk.de/al-dschasira-vier-mitarbeiter-bei-israelischem-angriff-getoetet-100.html",
+    "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-zwei-tote-in-russischer-region-102.html"
   ],
   "content_hashes": [
-    "12fd84028c06ce349f4b20f1410cfaa8",
-    "47a6f13af8588626580602becc4b7dec",
     "d1f463f7439648aac4f79d495875d25c",
     "77347c3a7ae67b101fefce1600cdba5c",
     "274919fc76334d370c7db74e38602d91",
@@ -2001,11 +1999,11 @@
     "0fe057de1a89f64ff6967d883a7325fa",
     "346164cd9f4310ad32db64cae9eccec8",
     "c923c2e757320f420c35bf97d9b2572c",
-    "2bf2a9e050bb36d6d180dcdbb087f1b3"
+    "2bf2a9e050bb36d6d180dcdbb087f1b3",
+    "49115018c65ae7d60a938bee1dc8e3f6",
+    "733cb708ea53436390d0a2e8dfa94c03"
   ],
   "titles": [
-    "Nach gescheiterter Richterwahl - Union und SPD gegen Bundestags-Sondersitzung während der Sommerpause",
-    "Musikfestival - Nach Brand: Tomorrowland trotz zerstörter Haupttribüne eröffnet",
     "Früherer Trigema-Chef: Wolfgang Grupp macht Suizidversuch öffentlich",
     "Bürokratieabbau: Bayern will Klimabericht abschaffen",
     "80 Jahre \"Süddeutsche Zeitung\" - Steinmeier: Verantwortungsbewusster Journalismus gibt Orientierung in Krisenzeiten",
@@ -3003,11 +3001,11 @@
     "Ukraine - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja",
     "Achtzig Jahre nach Hiroshima: Das Atomzeitalter ist nicht vorbei",
     "Gazastreifen - Laut Krankenhausangaben mindestens sieben Tote nach israelischen Angriffen - Israel bestätigt Tötung eines Al-Dschasira-Mitarbeiters",
-    "Teheran - Neue Gespräche zwischen IAEA und iranischer Führung"
+    "Teheran - Neue Gespräche zwischen IAEA und iranischer Führung",
+    "Gaza-Krieg - Al-Dschasira: \"Vier Mitarbeiter bei israelischem Angriff getötet\"",
+    "Ukraine-Krieg - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja - zwei Tote in russischer Region Tula"
   ],
   "hashes": [
-    "ab92ea4095cb5e1f4fcdb44f636cb3f7",
-    "28bc534115a7919d6e68d2ece37616df",
     "7be9cf701a55cdfb174d557ac46a41e0",
     "7d78ffd6f9dadb1db70d0e0a2b34a7c6",
     "30249d3c09f49f48a279949395664aee",
@@ -4005,6 +4003,8 @@
     "23b3053e925ece6d2f63d3b4e577d70e",
     "b003e48fe79cad55a70454bfcc803862",
     "2b47459c706dfd99b350b65a670770fc",
-    "356f241813a1a92096f49a5f0d364398"
+    "356f241813a1a92096f49a5f0d364398",
+    "4c0f681ad124f6c86f8dede9758376fa",
+    "a274eb3cfc008174f563e43d9f51bc19"
   ]
 }
