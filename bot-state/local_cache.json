@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlament-stimmt-ueber-neue-regierung-ab-100.html",
-    "https://www.deutschlandfunk.de/deutschland-und-grossbritannien-schliessen-einen-freundschaftsvertrag-102.html",
-    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-angriffen-in-dobropillja-und-belgorod-100.html",
     "https://www.deutschlandfunk.de/trump-attestiert-eu-bereitschaft-fuer-ein-abkommen-100.html",
     "https://www.deutschlandfunk.de/tourismus-koordinator-fordert-laengeren-zeitkorridor-fuer-sommerferien-102.html",
     "https://www.deutschlandfunk.de/tsunami-warnung-nach-erdbeben-wieder-aufgehoben-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/klitschko-jeder-ist-kriegsmuede-102.html",
     "https://www.deutschlandfunk.de/wirtschaftsweise-grimm-werden-leistungen-kuerzen-muessen-102.html",
     "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-von-als-terrororganisation-eingestufter-pro-palaestinen-104.html",
-    "https://www.deutschlandfunk.de/adidas-designer-drueckt-plagiatsvorwuerfen-aus-mexiko-bedauern-aus-102.html"
+    "https://www.deutschlandfunk.de/adidas-designer-drueckt-plagiatsvorwuerfen-aus-mexiko-bedauern-aus-102.html",
+    "https://www.deutschlandfunk.de/russen-berichten-ueber-ukrainischen-drohnenangriff-ein-toter-und-verletzte-in-saratow-100.html",
+    "https://www.deutschlandfunk.de/praesidentschaftskandidat-schwebt-nach-anschlag-im-juni-in-lebensgefahr-106.html",
+    "https://www.spiegel.de/politik/israel-gaza-krieg-mehrheit-der-deutschen-laut-umfrage-fuer-anerkennung-palaestinas-als-staat-a-b44b7850-e81b-4452-9339-5c500690d809#ref=rss"
   ],
   "content_hashes": [
-    "352253f7cfdb813c498dc32269398c4b",
-    "77f36b5d51fa4567b857d75612d0d3db",
-    "e9c08fa59210fad8eaa0b1897b3d5ce4",
     "1d3fb63aec82129d88782624c55f16a0",
     "4f5dd1ef7d967fcba60057ce02c63c56",
     "da2ba7f575c664ca62c5d63437fd03d2",
@@ -2001,12 +1998,12 @@
     "c82201a98958942f4a7fde30065e3fad",
     "3dd7918914d9cd852e1cbbeae5655155",
     "120b7a4c7323e3e7d352d162fd84728a",
-    "4adca661b5f882e1139434db897c2c8b"
+    "4adca661b5f882e1139434db897c2c8b",
+    "8250dc6c87fc48efead029ad234c579d",
+    "e9cc7af2bbf1544e6ef7afad04ac81d4",
+    "6cb1d83afe95805255e26c4737f2d889"
   ],
   "titles": [
-    "Ukraine - Parlament stimmt über neue Regierung ab",
-    "Nach dem Brexit - Deutschland und Großbritannien schließen einen Freundschaftsvertrag",
-    "Ukraine und Russland - Tote und Verletzte nach Angriffen in Dobropillja und Belgorod",
     "Zoll-Konflikt - Trump attestiert EU Bereitschaft für ein Abkommen",
     "Bundesländer-Debatte - Tourismus-Koordinator fordert längeren Zeitkorridor für Sommerferien",
     "Alaska - Tsunami-Warnung nach Erdbeben wieder aufgehoben",
@@ -3003,12 +3000,12 @@
     "Abwehrkampf der Ukraine - Klitschko: \"Jeder ist kriegsmüde\"",
     "Gesetzliche Sozialversicherungen - Wirtschaftsweise Grimm: \"Werden Leistungen kürzen müssen\"",
     "London - Hunderte Festnahmen bei Protest gegen Verbot von als Terrororganisation eingestufter pro-palästinensischer Gruppierung",
-    "Sandalendesign - Adidas-Designer drückt Plagiatsvorwürfen aus Mexiko Bedauern aus"
+    "Sandalendesign - Adidas-Designer drückt Plagiatsvorwürfen aus Mexiko Bedauern aus",
+    "Ukraine - Russen berichten über ukrainischen Drohnenangriff - Ein Toter und Verletzte in Saratow",
+    "Kolumbien - Präsidentschaftskandidat schwebt nach Anschlag im Juni in Lebensgefahr",
+    "Israel-Gaza-Krieg: Mehrheit der Deutschen laut Umfrage für Anerkennung Palästinas als Staat"
   ],
   "hashes": [
-    "278a7e69560d00f360214a12599b1c26",
-    "427c8c20d991f22bae3d69c477b643f3",
-    "2b4ef0006e38b7beb4314474dae1ce96",
     "580257b8e7bf9a5cb7dcb90e96f14924",
     "5ee7d0c1111d3bda9c42420a191b3582",
     "4a0e68b115459537b6ff0144e0a4028a",
@@ -4005,6 +4002,9 @@
     "b4a780a6b74a85e5f26b05123b7b2967",
     "3698b600951b958e94cd75a6f4710c66",
     "197d59edc5d0d47360ebc156370808d4",
-    "b6d49a879fb47ee4f546a8dae5cb05c7"
+    "b6d49a879fb47ee4f546a8dae5cb05c7",
+    "f6827189210b0fbfb829cb66c83e1fcb",
+    "d7e80993188a9371cea22d03494e004f",
+    "e728627f66fbb7659d76c63eaa01083e"
   ]
 }
