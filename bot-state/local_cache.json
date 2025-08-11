@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/gesellschaft/wolfgang-grupp-macht-suizidversuch-oeffentlich-a-8752f7d6-88da-410f-9f0e-a8605ed313df#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/bayern-regierung-will-klimabericht-abschaffen-110595523.html",
-    "https://www.deutschlandfunk.de/steinmeier-verantwortungsbewusster-journalismus-gibt-orientierung-in-krisenzeiten-100.html",
-    "https://www.spiegel.de/panorama/justiz/hamburg-gemeindegruender-wegen-sexueller-uebergriffe-zu-haftstrafe-verurteilt-a-cb812216-09f1-4b5f-946f-a71b74f942d2#ref=rss",
     "https://www.deutschlandfunk.de/beduinen-starten-trotz-waffenruhe-offensive-gegen-drusen-102.html",
     "https://www.deutschlandfunk.de/slowenien-verhaengt-sanktionen-gegen-zwei-israelische-politiker-102.html",
     "https://www.deutschlandfunk.de/rechtsextremer-politiker-udo-voigt-ist-tot-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/laut-krankenhausangaben-mindestens-sieben-tote-nach-israelischen-angriffen-israel-bestaetigt-toetung-100.html",
     "https://www.deutschlandfunk.de/neue-gespraeche-zwischen-iaea-und-iranischer-fuehrung-104.html",
     "https://www.deutschlandfunk.de/al-dschasira-vier-mitarbeiter-bei-israelischem-angriff-getoetet-100.html",
-    "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-zwei-tote-in-russischer-region-102.html"
+    "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-zwei-tote-in-russischer-region-102.html",
+    "https://www.deutschlandfunk.de/israels-botschafter-nennt-plan-fuer-hisbollah-entwaffnung-historische-chance-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-und-merz-fordern-erneut-einbindung-in-gespraeche-102.html",
+    "https://www.deutschlandfunk.de/mehr-als-jeder-zehnte-ist-minderjaehrig-102.html",
+    "https://www.deutschlandfunk.de/militaerjunta-von-mali-laesst-zahlreiche-soldaten-wegen-angeblichem-putschversuch-festnehmen-106.html"
   ],
   "content_hashes": [
-    "d1f463f7439648aac4f79d495875d25c",
-    "77347c3a7ae67b101fefce1600cdba5c",
-    "274919fc76334d370c7db74e38602d91",
-    "ca2aace282025108a0b682ea1e188ed5",
     "4cbeb3160f822ed3c79c23543558cbb3",
     "c56941e7ae6d6f9c851756a48064fcd0",
     "43f0bfcac007215ebb66bd13b50e31ee",
@@ -2001,13 +1997,13 @@
     "c923c2e757320f420c35bf97d9b2572c",
     "2bf2a9e050bb36d6d180dcdbb087f1b3",
     "49115018c65ae7d60a938bee1dc8e3f6",
-    "733cb708ea53436390d0a2e8dfa94c03"
+    "733cb708ea53436390d0a2e8dfa94c03",
+    "872b46b490c07b89336b3b99f0f8eb86",
+    "04c4ca490c9a58987433a25301cc7b66",
+    "7223404d1c9c0fcfc2bd24369ebd4a0a",
+    "3912a40634a936bf2642817ff99b91e2"
   ],
   "titles": [
-    "Früherer Trigema-Chef: Wolfgang Grupp macht Suizidversuch öffentlich",
-    "Bürokratieabbau: Bayern will Klimabericht abschaffen",
-    "80 Jahre \"Süddeutsche Zeitung\" - Steinmeier: Verantwortungsbewusster Journalismus gibt Orientierung in Krisenzeiten",
-    "Hamburg: Gemeindegründer wegen sexueller Übergriffe zu Haftstrafe verurteilt",
     "Syrien - Beduinen starten trotz Waffenruhe Offensive gegen Drusen",
     "Nahost - Slowenien verhängt Sanktionen gegen zwei israelische Politiker",
     "Früherer NPD-Chef - Rechtsextremer Politiker Udo Voigt ist tot",
@@ -3003,13 +2999,13 @@
     "Gazastreifen - Laut Krankenhausangaben mindestens sieben Tote nach israelischen Angriffen - Israel bestätigt Tötung eines Al-Dschasira-Mitarbeiters",
     "Teheran - Neue Gespräche zwischen IAEA und iranischer Führung",
     "Gaza-Krieg - Al-Dschasira: \"Vier Mitarbeiter bei israelischem Angriff getötet\"",
-    "Ukraine-Krieg - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja - zwei Tote in russischer Region Tula"
+    "Ukraine-Krieg - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja - zwei Tote in russischer Region Tula",
+    "Militante Islamisten - Israels Botschafter nennt Plan für Hisbollah-Entwaffnung \"historische Chance\"",
+    "Vor Trump-Putin-Gipfel - Selenskyj und Merz fordern erneut Einbindung in Gespräche",
+    "Abschiebungen - Mehr als jeder Zehnte ist minderjährig",
+    "Westafrika - Militärjunta von Mali lässt zahlreiche Soldaten wegen angeblichem Putschversuch festnehmen"
   ],
   "hashes": [
-    "7be9cf701a55cdfb174d557ac46a41e0",
-    "7d78ffd6f9dadb1db70d0e0a2b34a7c6",
-    "30249d3c09f49f48a279949395664aee",
-    "94a1f38140a24354355e25b34931a80e",
     "ff794e69b6655f13a0915652eb737f39",
     "d3797f7cffe8bc6a351861cec17f17b7",
     "977832ec3a00c5bf0549bc464ef2976a",
@@ -4005,6 +4001,10 @@
     "2b47459c706dfd99b350b65a670770fc",
     "356f241813a1a92096f49a5f0d364398",
     "4c0f681ad124f6c86f8dede9758376fa",
-    "a274eb3cfc008174f563e43d9f51bc19"
+    "a274eb3cfc008174f563e43d9f51bc19",
+    "c04992a6c407ab91730b98e0ad483ad9",
+    "4883722fc3d5d3cbc138b299a2304dde",
+    "dd91fddbd3de4c0914a56c1872e13640",
+    "81199a57b2d65dc62391ad7340b345b7"
   ]
 }
