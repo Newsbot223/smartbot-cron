@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/spd-generalsekretaer-will-ueber-erbschaftsteuer-und-buergergeld-streiten-a-dae157f6-fd83-4db3-99ce-cde1f7d07411#ref=rss",
-    "https://www.deutschlandfunk.de/israelische-armee-einschlag-in-katholische-kirche-war-versehen-100.html",
-    "https://www.deutschlandfunk.de/russland-meldet-abwehr-von-massivem-ukrainischen-drohnenangriff-auch-moskau-betroffen-100.html",
-    "https://www.spiegel.de/wirtschaft/zigaretten-koennten-sehr-viel-teurer-werden-a-03bcdb0f-2ff1-4ab3-9e7a-8e6e9cc56b92#ref=rss",
     "https://www.deutschlandfunk.de/eu-beschliesst-nach-slowakischer-zustimmung-18-sanktionspaket-gegen-russland-102.html",
     "https://www.deutschlandfunk.de/ueberstunden-der-bundespolizei-steigen-wegen-grenzkontrollen-100.html",
     "https://www.deutschlandfunk.de/abschiebeflug-aus-deutschland-nach-afghanistan-gestartet-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/djv-fordert-aufklaerung-von-tod-mehrerer-journalisten-nach-israelischem-angriff-100.html",
     "https://www.deutschlandfunk.de/berlins-schulsenatorin-guenther-wuensch-hat-bauchschmerzen-bei-abschaffung-des-kopftuch-verbots-100.html",
     "https://www.deutschlandfunk.de/rechtliche-huerden-fuer-videoueberwachung-in-oesterreich-abgesenkt-102.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-verbotsverfahren-beantwortet-nicht-gretchenfrage-der-spd-110631100.html"
+    "https://www.faz.net/aktuell/politik/inland/afd-verbotsverfahren-beantwortet-nicht-gretchenfrage-der-spd-110631100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-und-djv-fordern-aufklaerung-zum-tod-mehrerer-al-dschasira-journalisten-nach-israelis-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-1-000-euro-strafe-fuer-zigarettenkippe-aus-dem-auto-100.html",
+    "https://www.deutschlandfunk.de/neues-schuljahr-hat-fuer-die-ersten-bundeslaender-wieder-begonnen-100.html",
+    "https://www.deutschlandfunk.de/die-aktuelle-lage-im-nahen-osten-live-104.html"
   ],
   "content_hashes": [
-    "08aa3e573b7ddd756efb996ad665f6da",
-    "c860ea4b5879a95c9db61ab390733740",
-    "905284d82c4018224827933172259c0d",
-    "bad10f18bf0132801b48c8f3896f0f16",
     "a93c5dad28fc7f3254e5bda2dbbeaca6",
     "3d5dd0894d96c7e171c38c14aabdc4b1",
     "9684fef6b68ca32583ad95800566962e",
@@ -2001,13 +1997,13 @@
     "d7058ddfc14718bf3d851b38cc1ca305",
     "de6999e7e7e06c03da5760fa0c4f6d23",
     "383ef10d913bf34d5636490b02516b40",
-    "a4f6bd6153130237025090b3610e5578"
+    "a4f6bd6153130237025090b3610e5578",
+    "59926574bd88b18de28d1ca782a81c42",
+    "6a9ce72b29bdf94598b2edefceff6523",
+    "9ab45642e6b3859cf8e5010fbd490df6",
+    "16aa1e101e40bfb7b04639f611744277"
   ],
   "titles": [
-    "SPD-Generalsekretär will über Erbschaftsteuer und Bürgergeld streiten",
-    "Gazastreifen - Israelische Armee: Einschlag in katholische Kirche war Versehen",
-    "Ukraine-Krieg - Russland meldet Abwehr von massivem ukrainischen Drohnenangriff - auch Moskau betroffen",
-    "Zigaretten könnten sehr viel teurer werden",
     "Brüssel - EU beschließt nach slowakischer Zustimmung 18. Sanktionspaket gegen Russland",
     "Anfrage der Linken - Überstunden der Bundespolizei steigen wegen Grenzkontrollen",
     "Flughafen Leipzig - Abschiebeflug aus Deutschland nach Afghanistan gestartet",
@@ -3003,13 +2999,13 @@
     "Gazastreifen - DJV fordert Aufklärung von Tod mehrerer Journalisten nach israelischem Angriff",
     "Neutralitätsgesetz - Berlins Schulsenatorin Günther-Wünsch hat \"Bauchschmerzen\" bei Abschaffung des Kopftuch-Verbots",
     "Sicherheit - Rechtliche Hürden für Videoüberwachung in Österreich abgesenkt",
-    "Die Arbeiter und die SPD: Die Gretchenfrage der Sozialdemokraten"
+    "Die Arbeiter und die SPD: Die Gretchenfrage der Sozialdemokraten",
+    "Gazastreifen - Bundesregierung und DJV fordern Aufklärung zum Tod mehrerer Al-Dschasira-Journalisten nach israelischem Angriff",
+    "Neue Verordnung in Italien - Mehr als 1.000 Euro Strafe für Zigarettenkippe aus dem Auto",
+    "Sommerferien - Neues Schuljahr hat für die ersten Bundesländer wieder begonnen",
+    "Waffenlieferstopp - Wie Merz' Entscheidung in Israel ankommt"
   ],
   "hashes": [
-    "2d9e6935d076f08af3c4dfcecaa5c30c",
-    "e8854d5f8c942651a890468fadc09f0c",
-    "77503747c005b23fcb52a9097f48c8af",
-    "b6214e36fa8d9cedc565602a1bf4f37c",
     "465384df3ccef762a6c42c150fa028e5",
     "899f279d11a0cc1685b64642c3713c02",
     "034d2f478d17565be59d61fe55b47a1d",
@@ -4005,6 +4001,10 @@
     "041d1680706e7dd271eeda982191583a",
     "8525969c3bbb67154a58b5272438e9f6",
     "f1b655d15af8ac67e44257fef8354fc5",
-    "463478825403836a7753c0f6d3bbb05b"
+    "463478825403836a7753c0f6d3bbb05b",
+    "e2ee29fdd161e523eaefa539e34d96e7",
+    "a67e1730ed65560ea5ea2b484fa90270",
+    "e25e4770d0047b932b6b11401ae3ef80",
+    "24c5cc3b9bdfd0e8398bd7da184aa1b4"
   ]
 }
