@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wellbrock-holt-zweites-wm-gold-in-singapur-102.html",
-    "https://www.deutschlandfunk.de/island-strebt-sicherheitspartnerschaft-mit-eu-an-100.html",
     "https://www.deutschlandfunk.de/dobrindt-legt-brosius-gersdorf-indirekt-verzicht-auf-kandidatur-nahe-100.html",
     "https://www.deutschlandfunk.de/repraesentantenhaus-beschliesst-milliardenkuerzungen-beim-nicht-kommerziellen-rundfunk-100.html",
     "https://www.deutschlandfunk.de/nach-wachsender-kritik-trump-will-nun-doch-einige-epstein-unterlagen-veroeffentlichen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundestag-will-kuenftig-auf-tiktok-praesent-sein-102.html",
     "https://www.deutschlandfunk.de/interview-ruediger-von-fritsch-diplomat-treffen-von-trump-und-putin-100.html",
     "https://www.deutschlandfunk.de/deutsche-ukraine-exporte-wachsen-um-ersten-halbjahr-um-30-prozent-102.html",
-    "https://www.deutschlandfunk.de/deutlich-mehr-junge-frauen-wegen-essstoerung-im-krankenhaus-100.html"
+    "https://www.deutschlandfunk.de/deutlich-mehr-junge-frauen-wegen-essstoerung-im-krankenhaus-100.html",
+    "https://www.deutschlandfunk.de/trump-verlangt-verdraengung-von-obdachlosen-aus-washington-einsatz-der-natonialgarde-erwogen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/fruehkindliche-bildung-deutschland-tut-nicht-genug-110620375.html"
   ],
   "content_hashes": [
-    "8d152bc15c29966f0bb2644d2b54a8ce",
-    "a3edf21b14c16c57ab2c2597ca35ba01",
     "de27a3a395bb1931b1ac4c4f1eea06d6",
     "1ea326a52d3a75c5a76c8d22b6677e64",
     "194b67d8d5ae88d03f3e562b3f023bf8",
@@ -2001,11 +1999,11 @@
     "60777bacd0fc7ba55c680b2f167b751a",
     "6e95641c2b9a2ee557689a0b10d53db0",
     "923c7ccaff78f86f89aa71d8e32cd8ca",
-    "f293e6aa22a78917e502f85335239762"
+    "f293e6aa22a78917e502f85335239762",
+    "6b6e3f7bef56353522c2d4efed85eb37",
+    "d44639eb48213ae47f65fe6195963372"
   ],
   "titles": [
-    "Schwimm-WM - Wellbrock holt zweites WM-Gold in Singapur",
-    "Besuch von der Leyens - Island strebt Sicherheitspartnerschaft mit EU an",
     "Streit um Richterwahl - Dobrindt legt Brosius-Gersdorf indirekt Verzicht auf Kandidatur nahe",
     "USA - Repräsentantenhaus beschließt Milliardenkürzungen beim nicht-kommerziellen Rundfunk",
     "USA - Nach wachsender Kritik: Trump will nun doch einige Epstein-Unterlagen veröffentlichen",
@@ -3003,11 +3001,11 @@
     "Social Media - Bundestag will künftig auf Tiktok präsent sein",
     "Trump trifft Putin - Ex-Botschafter: Keine Hoffnung auf gutes Ergebnis",
     "Wirtschaft - Deutsche Ukraine-Exporte wachsen um ersten Halbjahr um 30 Prozent",
-    "Magersucht und Bulimie - Deutlich mehr junge Frauen wegen Essstörung im Krankenhaus"
+    "Magersucht und Bulimie - Deutlich mehr junge Frauen wegen Essstörung im Krankenhaus",
+    "USA - Trump verlangt Verdrängung von Obdachlosen aus Washington - Einsatz der Natonialgarde erwogen",
+    "Frühkindliche Bildung: Deutschland hinkt bei der Sprachförderung hinterher"
   ],
   "hashes": [
-    "160091f601c862c433b9ea25921c4d6e",
-    "429e98fa63279f4948f690b4dd266016",
     "d1994b0f41133686e44fe43438d559c5",
     "75dd5aadab987385604f39db72c97afa",
     "b28c97489d735ac2a93a7a005762f030",
@@ -4005,6 +4003,8 @@
     "54ce579c9c46763c7bb8b028bdb45fa9",
     "705bfd92e50a12da307edc44ca83ef2e",
     "fa380774a94a5b5dda5c0fd4433ccf1c",
-    "4bd2aed501ac4831f76064fd0a607923"
+    "4bd2aed501ac4831f76064fd0a607923",
+    "a6ae5bf4800347f329025bb2163ac13c",
+    "199a292a36432f294eef4d1ffe446322"
   ]
 }
