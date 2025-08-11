@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pogacar-dominiert-12-etappe-und-uebernimmt-wieder-gelb-114.html",
-    "https://www.deutschlandfunk.de/slowakei-kuendigt-zustimmung-fuer-neue-russland-sanktionen-an-108.html",
-    "https://www.spiegel.de/ausland/atomstreit-mit-iran-europa-droht-teheran-mit-harten-sanktionen-a-4f6b412e-60a2-445b-a92a-64b18a312293#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/kulturstaatsminister-weimer-in-deutschland-entstehen-us-medienmonopole-110596399.html",
     "https://www.deutschlandfunk.de/gewalt-im-sueden-wieder-aufgeflammt-unuebersichtliche-lage-und-schuldzuweisungen-104.html",
     "https://www.deutschlandfunk.de/europa-droht-dem-iran-mit-neuauflage-von-sanktionen-106.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/netzwelt/julia-kloeckner-bundestag-will-jetzt-auch-tiktok-nutzen-a-f7a1221a-8098-4f8c-82ca-54a6ce2ff0fc#ref=rss",
     "https://www.faz.net/aktuell/politik/bundestag-will-kuenftig-auch-tiktok-nutzen-110631575.html",
     "https://www.deutschlandfunk.de/aerztekammer-praesident-warnt-vor-medikamentenverschwendung-100.html",
-    "https://www.deutschlandfunk.de/nach-vorstoss-von-kulturstaatsminister-weimer-kein-anderes-ministerium-plant-gender-verbot-100.html"
+    "https://www.deutschlandfunk.de/nach-vorstoss-von-kulturstaatsminister-weimer-kein-anderes-ministerium-plant-gender-verbot-100.html",
+    "https://www.deutschlandfunk.de/csu-aussenpolitiker-mayer-warnt-die-bundesregierung-vor-einer-taeter-opfer-umkehr-100.html",
+    "https://www.deutschlandfunk.de/auch-thueringen-fuehrt-verfassungsviertelstunde-ein-100.html",
+    "https://www.faz.net/aktuell/politik/inland/interview-mit-beamtenbund-chef-volker-geyer-die-leute-koennen-nicht-mehr-110630696.html"
   ],
   "content_hashes": [
-    "e5f1a9ffb0a7342e4255de1e75795a83",
-    "2a38445a27e36e663446d7e766a8c492",
-    "8975efb1ed3c6f73e401d0f6cd742e41",
     "303f3ed6093459079c5b655cdc89a57e",
     "a9e7aa0ccf84b68652afa9fb00088649",
     "c3e88bc0045dee72a8751fc2c6105abc",
@@ -2001,12 +1998,12 @@
     "69cc75e97144bc35128a3b087f115c1d",
     "85fdb294e8827ea7ca23a62bac2ab9f3",
     "aaa230c89f7194a5ad1acbc5ebf24373",
-    "c18bc66216fef06ee6b5297a126336d0"
+    "c18bc66216fef06ee6b5297a126336d0",
+    "d3ec142bd965a2bd8d47012301d8db3a",
+    "35a40ecc744520175370e9abf77dc3cf",
+    "15864ae9ab4004b77eb9cdac3b059e88"
   ],
   "titles": [
-    "Tour de France - Pogacar dominiert 12. Etappe und übernimmt wieder Gelb",
-    "Nach Veto - Slowakei kündigt Zustimmung für neue Russland-Sanktionen an",
-    "Atomstreit mit Iran: Europa droht Teheran mit harten Sanktionen",
     "Kulturstaatsminister Weimer: In Deutschland entstehen US-Medienmonopole",
     "Syrien - Gewalt im Süden wieder aufgeflammt - unübersichtliche Lage und Schuldzuweisungen",
     "Atomkonflikt - Europa droht dem Iran mit Neuauflage von Sanktionen",
@@ -3003,12 +3000,12 @@
     "Julia Klöckner: Bundestag will jetzt auch TikTok nutzen",
     "„Digitale Theke“: Bundestag will künftig auch Tiktok nutzen",
     "Arzneimittel - Ärztekammer-Präsident warnt vor Medikamentenverschwendung",
-    "Deutsche Sprache - Nach Vorstoß von Kulturstaatsminister Weimer: Kein anderes Ministerium plant Gender-Verbot"
+    "Deutsche Sprache - Nach Vorstoß von Kulturstaatsminister Weimer: Kein anderes Ministerium plant Gender-Verbot",
+    "Einschränkung von Waffenlieferungen an Israel - CSU-Außenpolitiker Mayer warnt die Bundesregierung vor einer \"Täter-Opfer-Umkehr\"",
+    "Schule - Auch Thüringen führt \"Verfassungsviertelstunde\" ein",
+    "Beamtenbund-Chef Geyer: „Die Leute können nicht mehr“"
   ],
   "hashes": [
-    "25f1576660d79d44748322fb905a0ff5",
-    "4db5770a56ba3a5c61366ae4edfcd64e",
-    "b8293139bb28a51765b90b57508ff926",
     "647a0ed2a728d8e0f9397a8336f1d899",
     "a15aab6d42f7adec4514b66c92e5ca39",
     "9a443df7881981566ecdd041b3890a25",
@@ -4005,6 +4002,9 @@
     "20119c135a605ea1ae911965968a88c5",
     "c02d220c6c10d90ae0148730870d2438",
     "cb958c32317468ebf3de108f3a58a90a",
-    "06ec88c16061034783864ddc9c299355"
+    "06ec88c16061034783864ddc9c299355",
+    "7795350e8b9125525466b4017b712db1",
+    "3f76c8cfa8b6c61d3630f20dec485e52",
+    "84a5bb2e4a4cbaa703d12e08b7eb690a"
   ]
 }
