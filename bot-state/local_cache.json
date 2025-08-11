@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kulturstaatsminister-weimer-in-deutschland-entstehen-us-medienmonopole-110596399.html",
-    "https://www.deutschlandfunk.de/gewalt-im-sueden-wieder-aufgeflammt-unuebersichtliche-lage-und-schuldzuweisungen-104.html",
-    "https://www.deutschlandfunk.de/europa-droht-dem-iran-mit-neuauflage-von-sanktionen-106.html",
-    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-us-monopolen-102.html",
     "https://www.deutschlandfunk.de/russland-meldet-abwehr-von-drohnenangriffen-auch-moskau-betroffen-100.html",
     "https://www.deutschlandfunk.de/merz-stellt-sich-in-seiner-ersten-sommerpressekonferenz-fragen-der-medien-102.html",
     "https://www.deutschlandfunk.de/wellbrock-holt-zweites-wm-gold-in-singapur-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/nach-vorstoss-von-kulturstaatsminister-weimer-kein-anderes-ministerium-plant-gender-verbot-100.html",
     "https://www.deutschlandfunk.de/csu-aussenpolitiker-mayer-warnt-die-bundesregierung-vor-einer-taeter-opfer-umkehr-100.html",
     "https://www.deutschlandfunk.de/auch-thueringen-fuehrt-verfassungsviertelstunde-ein-100.html",
-    "https://www.faz.net/aktuell/politik/inland/interview-mit-beamtenbund-chef-volker-geyer-die-leute-koennen-nicht-mehr-110630696.html"
+    "https://www.faz.net/aktuell/politik/inland/interview-mit-beamtenbund-chef-volker-geyer-die-leute-koennen-nicht-mehr-110630696.html",
+    "https://www.deutschlandfunk.de/al-dschasira-fuenf-mitarbeiter-bei-israelischem-angriff-getoetet-100.html",
+    "https://www.deutschlandfunk.de/krebsforscher-halama-erste-behandlungen-von-krebs-in-zwei-bis-drei-jahren-102.html",
+    "https://www.deutschlandfunk.de/bundestag-will-kuenftig-auf-tiktok-praesent-sein-102.html",
+    "https://www.deutschlandfunk.de/interview-ruediger-von-fritsch-diplomat-treffen-von-trump-und-putin-100.html"
   ],
   "content_hashes": [
-    "303f3ed6093459079c5b655cdc89a57e",
-    "a9e7aa0ccf84b68652afa9fb00088649",
-    "c3e88bc0045dee72a8751fc2c6105abc",
-    "0a32b460f4a4a2755955773966ff2c7b",
     "fbe188e426837b33e05cb6c58cf1d769",
     "74f01feb04d37f2ec83ef6baa0e4c302",
     "8d152bc15c29966f0bb2644d2b54a8ce",
@@ -2001,13 +1997,13 @@
     "c18bc66216fef06ee6b5297a126336d0",
     "d3ec142bd965a2bd8d47012301d8db3a",
     "35a40ecc744520175370e9abf77dc3cf",
-    "15864ae9ab4004b77eb9cdac3b059e88"
+    "15864ae9ab4004b77eb9cdac3b059e88",
+    "2d7602ac004026dcefcba088b6c9a0cd",
+    "cd9678acb82ce0fd499b614515e55cbd",
+    "60777bacd0fc7ba55c680b2f167b751a",
+    "6e95641c2b9a2ee557689a0b10d53db0"
   ],
   "titles": [
-    "Kulturstaatsminister Weimer: In Deutschland entstehen US-Medienmonopole",
-    "Syrien - Gewalt im Süden wieder aufgeflammt - unübersichtliche Lage und Schuldzuweisungen",
-    "Atomkonflikt - Europa droht dem Iran mit Neuauflage von Sanktionen",
-    "Medienlandschaft - Kulturstaatsminister Weimer warnt vor US-Monopolen",
     "Krieg gegen die Ukraine - Russland meldet Abwehr von Drohnenangriffen - auch Moskau betroffen",
     "Hauptstadt-Tradition - Merz stellt sich in seiner ersten Sommerpressekonferenz Fragen der Medien",
     "Schwimm-WM - Wellbrock holt zweites WM-Gold in Singapur",
@@ -3003,13 +2999,13 @@
     "Deutsche Sprache - Nach Vorstoß von Kulturstaatsminister Weimer: Kein anderes Ministerium plant Gender-Verbot",
     "Einschränkung von Waffenlieferungen an Israel - CSU-Außenpolitiker Mayer warnt die Bundesregierung vor einer \"Täter-Opfer-Umkehr\"",
     "Schule - Auch Thüringen führt \"Verfassungsviertelstunde\" ein",
-    "Beamtenbund-Chef Geyer: „Die Leute können nicht mehr“"
+    "Beamtenbund-Chef Geyer: „Die Leute können nicht mehr“",
+    "Gaza-Krieg - Al-Dschasira: \"Fünf Mitarbeiter bei israelischem Angriff getötet\"",
+    "mRNA-Technologie - Krebsforscher Halama: \"Erste Behandlungen von Krebs in zwei bis drei Jahren\"",
+    "Social Media - Bundestag will künftig auf Tiktok präsent sein",
+    "Trump trifft Putin - Ex-Botschafter: Keine Hoffnung auf gutes Ergebnis"
   ],
   "hashes": [
-    "647a0ed2a728d8e0f9397a8336f1d899",
-    "a15aab6d42f7adec4514b66c92e5ca39",
-    "9a443df7881981566ecdd041b3890a25",
-    "4a93e4166653a664cf9ce73bbd897956",
     "eff82442a49b77c68931f9dc686996c5",
     "297ccc3370254fd69ec82f362b256de6",
     "160091f601c862c433b9ea25921c4d6e",
@@ -4005,6 +4001,10 @@
     "06ec88c16061034783864ddc9c299355",
     "7795350e8b9125525466b4017b712db1",
     "3f76c8cfa8b6c61d3630f20dec485e52",
-    "84a5bb2e4a4cbaa703d12e08b7eb690a"
+    "84a5bb2e4a4cbaa703d12e08b7eb690a",
+    "1a413214743fc23957146b1cdbb6c57e",
+    "be216e5f2b412a73c4df2b77680f7620",
+    "54ce579c9c46763c7bb8b028bdb45fa9",
+    "705bfd92e50a12da307edc44ca83ef2e"
   ]
 }
