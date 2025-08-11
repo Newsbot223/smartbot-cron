@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dobrindt-beraet-mit-innenministern-mehrerer-eu-staaten-ueber-migration-100.html",
-    "https://www.deutschlandfunk.de/hohe-zoelle-export-deutscher-autos-in-die-usa-im-april-und-mai-eingebrochen-100.html",
     "https://www.faz.net/aktuell/livestream-bundeskanzler-merz-im-sommer-interview-110596575.html",
     "https://www.deutschlandfunk.de/mutmasslicher-libyscher-kriegsverbrecher-festgenommen-100.html",
     "https://www.deutschlandfunk.de/regierungstruppen-beziehen-wieder-stellungen-nahe-suwaida-weitere-kaempfe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-verlangt-verdraengung-von-obdachlosen-aus-washington-einsatz-der-nationalgarde-erwogen-100.html",
     "https://www.deutschlandfunk.de/mehr-als-1-000-euro-strafe-fuer-wegwerfen-der-zigarettenkippe-aus-dem-auto-100.html",
     "https://www.deutschlandfunk.de/abstimmung-ueber-das-jahresthema-2026-hat-begonnen-102.html",
-    "https://www.spiegel.de/wissenschaft/deutsche-bahn-erster-stufenloser-ice-erhaelt-zulassung-bahn-kuendigt-einsatz-ab-mitte-dezember-an-a-53f8ee06-221e-4f76-bf7b-77cae0dea1fd#ref=rss"
+    "https://www.spiegel.de/wissenschaft/deutsche-bahn-erster-stufenloser-ice-erhaelt-zulassung-bahn-kuendigt-einsatz-ab-mitte-dezember-an-a-53f8ee06-221e-4f76-bf7b-77cae0dea1fd#ref=rss",
+    "https://www.deutschlandfunk.de/berlins-schulsenatorin-guenther-wuensch-cdu-hat-bauchschmerzen-bei-abschaffung-des-kopftuch-verbots-100.html",
+    "https://www.deutschlandfunk.de/hunderte-feuerwehrleute-und-soldaten-kaempfen-gegen-waldbraende-100.html"
   ],
   "content_hashes": [
-    "b1fd590940d47fbaa89146f1f45d0662",
-    "839f3d779e38619b2c0b09c65e233c9c",
     "add4c49cbef0344d0e3ca6ae5c684602",
     "40781a8410e5863af0a0868860e5b3f6",
     "e64984453f5d49c47d24cb2260b3d66f",
@@ -2001,11 +1999,11 @@
     "948796ede6a9506bf256ac63ce14fdc7",
     "3df984816b3554a25801d55b21c5d232",
     "2993319048584cfa086e6b20643418cc",
-    "29577937a3bb1abf819f332e0eb8ddce"
+    "29577937a3bb1abf819f332e0eb8ddce",
+    "4d4e2f463cc20a9050fb06b520585021",
+    "7923f41a327479fe91945e8c722207c1"
   ],
   "titles": [
-    "Treffen auf der Zugspitze - Dobrindt berät mit Innenministern mehrerer EU-Staaten über Migration",
-    "Statistisches Bundesamt - Hohe Zölle: Export deutscher Autos in die USA im April und Mai eingebrochen",
     "Livestream: Bundeskanzler Merz bei der Sommerpressekonferenz",
     "Brandenburg - Mutmaßlicher libyscher Kriegsverbrecher festgenommen",
     "Syrien - Regierungstruppen beziehen wieder Stellungen nahe Suwaida - weitere Kämpfe",
@@ -3003,11 +3001,11 @@
     "USA - Trump verlangt Verdrängung von Obdachlosen aus Washington - Einsatz der Nationalgarde erwogen",
     "Neue Verordnung in Italien - Mehr als 1.000 Euro Strafe für Wegwerfen der Zigarettenkippe aus dem Auto",
     "Deutschlandradio-Denkfabrik - Abstimmung über das Jahresthema 2026 hat begonnen",
-    "Deutsche Bahn: Erster stufenloser ICE erhält Zulassung: Bahn kündigt Einsatz ab Mitte Dezember an"
+    "Deutsche Bahn: Erster stufenloser ICE erhält Zulassung: Bahn kündigt Einsatz ab Mitte Dezember an",
+    "Neutralitätsgesetz - Berlins Schulsenatorin Günther-Wünsch (CDU) hat \"Bauchschmerzen\" bei Abschaffung des Kopftuch-Verbots",
+    "Albanien - Hunderte Feuerwehrleute und Soldaten kämpfen gegen Waldbrände"
   ],
   "hashes": [
-    "418b35e8b752c8b53aba3ea6d289004e",
-    "f2a6ecb852535a2e0d9dc7fa42ac00ab",
     "0f7abcd2ef5bb8f9976c06124074bcbf",
     "3279492d04e063e44674b048a8b80c83",
     "d37e6d799229f995c60678dba101d2c2",
@@ -4005,6 +4003,8 @@
     "b97286ad34b53b5378d65e659f856f8b",
     "cc697f206174fd480457a879dc37f6e8",
     "2eb2a9022237960dbf46734a9820d56f",
-    "dfb531c3c160f7c1e4d11ffb27001990"
+    "dfb531c3c160f7c1e4d11ffb27001990",
+    "fd86c783c83d4af6b7f4e346fc045fcc",
+    "c770b5211ebc3b176ce99ff509b186d8"
   ]
 }
