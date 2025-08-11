@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/aussenminister-david-lammy-ueber-den-freundschaftsvertrag-mit-deutschland-110596286.html",
-    "https://www.deutschlandfunk.de/selenskyj-lobt-18-paket-100.html",
-    "https://www.deutschlandfunk.de/gasspeicher-koennen-flexibler-gefuellt-werden-100.html",
     "https://www.deutschlandfunk.de/miersch-kritisiert-unions-forderungen-nach-rueckzug-von-brosius-gersdorf-102.html",
     "https://www.deutschlandfunk.de/uno-appelliert-an-ende-der-kaempfe-in-suwaida-102.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russichen-angriffen-in-der-ukraine-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hunderte-feuerwehrleute-und-soldaten-kaempfen-gegen-waldbraende-100.html",
     "https://www.deutschlandfunk.de/ueberlegungen-von-bundeswirtschaftsministerin-reiche-ueber-ende-fuer-foerderung-privater-solaranlage-100.html",
     "https://www.deutschlandfunk.de/trump-aktiviert-nationalgarde-fuer-washington-d-c-einsatz-gegen-kriminalitaet-und-obdachlose-102.html",
-    "https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedich-merz-gegen-kritik-am-waffenexport-teilstopp-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/israel-jens-spahn-verteidigt-friedich-merz-gegen-kritik-am-waffenexport-teilstopp-a-506422dd-ddd6-43d3-a046-2219edb8c4ed#ref=rss",
+    "https://www.deutschlandfunk.de/gestoerte-nachtruhe-und-rueckzugsorte-bund-deko-leuchten-bedrohen-arten-vielfalt-102.html",
+    "https://www.faz.net/aktuell/politik/inland/gegenwind-aus-der-union-zur-beschraenkung-des-ruestungsexports-nach-israel-110632554.html",
+    "https://www.faz.net/aktuell/politik/ausland/kritik-an-friedrich-merz-wegen-israel-entscheidung-manche-machen-es-sich-zu-leicht-110632572.html"
   ],
   "content_hashes": [
-    "769a6cbdab196f0dd01c9aea8468b06b",
-    "5f7edb5bf598410a5bbcecbd04d0011d",
-    "de3d7cfb7e08bf35d2af86bca539255c",
     "83e1e4ad6a79e08d7678c34faa6d8e7f",
     "78a17268df45b778577ce110ca12586a",
     "34b03e73c0cd22ee82f0299d3dbd755e",
@@ -2001,12 +1998,12 @@
     "7923f41a327479fe91945e8c722207c1",
     "4d6955bf32c33c79baf079145aef64a6",
     "c127dd81cf437592136fedd54b7302fc",
-    "9ebc90f9107e909b75df0e8f21966a21"
+    "9ebc90f9107e909b75df0e8f21966a21",
+    "b04769d83c92a923b48230bf6ed8f70e",
+    "dd82727116036fd7ca9e4a902b40f1aa",
+    "0b9f232432bd758d0e60e00e19f6be14"
   ],
   "titles": [
-    "David Lammy im Interview: „Thatcher und Kohl haben Wohlstand für unsere Völker geschaffen“",
-    "Neue EU-Sanktionen - Selenskyj lobt 18. Paket",
-    "EU-Beschluss - Gasspeicher können flexibler gefüllt werden",
     "Streit um Richterwahl - Miersch kritisiert Unions-Forderungen nach Rückzug von Brosius-Gersdorf",
     "Syrien - UNO appelliert an Ende der Kämpfe in Suwaida",
     "Drohnen und Gleitbomben - Tote und Verletzte nach russichen Angriffen in der Ukraine",
@@ -3003,12 +3000,12 @@
     "Albanien - Hunderte Feuerwehrleute und Soldaten kämpfen gegen Waldbrände",
     "Einspeisevergütung - Überlegungen von Bundeswirtschaftsministerin Reiche über Ende für Förderung privater Solaranlagen stößt auf Kritik",
     "USA - Trump aktiviert Nationalgarde für Washington D.C. - Einsatz \"gegen Kriminalität und Obdachlose\"",
-    "Israel: Jens Spahn verteidigt Friedich Merz gegen Kritik am Waffenexport-Teilstopp"
+    "Israel: Jens Spahn verteidigt Friedich Merz gegen Kritik am Waffenexport-Teilstopp",
+    "Naturschutz - Gestörte Nachtruhe und Rückzugsorte - BUND: Deko-Leuchten bedrohen Arten-Vielfalt",
+    "Waffenexport nach Israel: Warum Merz Gegenwind bekommt",
+    "Weiter Kritik an Merz: Die „Staatsräson“ ist kein Freibrief"
   ],
   "hashes": [
-    "4ae9ca18623a32152f324d46b8dfdc6b",
-    "fabc901e5d670cf622b341d410bc923a",
-    "852d37344ba6fdb51bc2ce12e7d12821",
     "0aa491c96e7377a5df73569fb10f3ffc",
     "336db5fde0dda2086adae676b2acd1a1",
     "85e80c0497719593b70b2a1eea62d3f1",
@@ -4005,6 +4002,9 @@
     "c770b5211ebc3b176ce99ff509b186d8",
     "ab0f92e6155afc6bcd0398e0acb43804",
     "b0627899ca437b1e2c13ecc29462e263",
-    "a11b90309ea7a4101ebf314500ae5737"
+    "a11b90309ea7a4101ebf314500ae5737",
+    "f806a5beb93e66db0135e41c711a6fe8",
+    "b7f41f684dfbcba156c755f9679abff4",
+    "a7e58b7dc2845b94ecb268a09842f7a7"
   ]
 }
