@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/meldungen-ueber-erneute-russische-angriffe-mit-drohnen-und-raketen-ein-todesopfer-in-odessa-104.html",
-    "https://www.deutschlandfunk.de/florian-wellbrock-holt-dritte-goldmedaille-im-freiwasserschwimmen-100.html",
     "https://www.deutschlandfunk.de/us-gesandter-israel-und-syrien-einigen-sich-auf-waffenruhe-110.html",
     "https://www.deutschlandfunk.de/spd-politiker-demir-kritisiert-dobrindts-aenderungsvorschlaege-104.html",
     "https://www.deutschlandfunk.de/erneute-russische-angriffe-mit-drohnen-und-raketen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/union-debattiert-ueber-merz-entscheidung-zu-waffenexporten-nach-israel-100.html",
     "https://www.faz.net/aktuell/politik/inland/thueringen-plant-milliarden-investition-fuer-kommunale-infrastruktur-110633709.html",
     "https://www.deutschlandfunk.de/israelischer-botschafter-prosor-haelt-beziehungen-fuer-belastet-102.html",
-    "https://www.faz.net/aktuell/politik/inland/marine-innovationszentrum-in-schleswig-holstein-das-zentrum-des-wandels-110632385.html"
+    "https://www.faz.net/aktuell/politik/inland/marine-innovationszentrum-in-schleswig-holstein-das-zentrum-des-wandels-110632385.html",
+    "https://www.deutschlandfunk.de/warnung-vor-waffenverkaeufen-an-israel-102.html",
+    "https://www.deutschlandfunk.de/int-donata-vogtschmidt-linke-deutsche-behoerden-digital-rueckstaendig-100.html"
   ],
   "content_hashes": [
-    "35a3845d66ef39e6f8bf80323ee48af9",
-    "ef62c23d7b62a7cb91a0cff4ba329a59",
     "f6b7b91928968a04dc8d9553aab87c55",
     "a1abb1fcf991620bee2fbb5ef0f4383a",
     "e9d608e400a05c5163048191970986e4",
@@ -2001,11 +1999,11 @@
     "f017ca54887eabf30948dd0fdf49034b",
     "602316d82a8d7de40a3300cda71f9e13",
     "2ece59046a7459133cdf58c89d994ca3",
-    "4004bc15aac320f0401087e681f8fc38"
+    "4004bc15aac320f0401087e681f8fc38",
+    "94fed722a2d8b49a1f9f3c540719f41e",
+    "7414a053b0b92f086d4f415144892455"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Meldungen über erneute russische Angriffe mit Drohnen und Raketen - ein Todesopfer in Odessa",
-    "WM in Singapur - Florian Wellbrock holt dritte Goldmedaille im Freiwasserschwimmen",
     "Nahost - US-Gesandter: Israel und Syrien einigen sich auf Waffenruhe",
     "Nach dem Migrationsgipfel - SPD-Politiker Demir kritisiert Dobrindts Änderungsvorschläge",
     "Krieg gegen die Ukraine - Erneute russische Angriffe mit Drohnen und Raketen",
@@ -3003,11 +3001,11 @@
     "Nahost-Politik - Union streitet über Merz' Schwenk beim Waffenexport nach Israel",
     "Eine Milliarde Euro: Die Kommunen machen Schulden, das Land zahlt",
     "Nach Teilstopp von Rüstungsexporten - Israelischer Botschafter Prosor hält Beziehungen für belastet",
-    "Schleswig-Holstein: Das Zentrum des Wandels der deutschen Marine"
+    "Schleswig-Holstein: Das Zentrum des Wandels der deutschen Marine",
+    "Europarat - Warnung vor Waffenverkäufen an Israel",
+    "Datenschutz - Deutsche Behörden sind digital rückständig und von USA abhängig"
   ],
   "hashes": [
-    "d5fa2138f623e163305fea35d41efe6e",
-    "737b29c51b7949aa10b7b63d6524f01f",
     "495df1ff595f1347e3086c82559e1cc9",
     "503d737cc14c0fce2bec309a893a1209",
     "e909c30e93ca8a439d2a528f998e3d0c",
@@ -4005,6 +4003,8 @@
     "cdf7008080a4c280422cd44e065a4711",
     "a63f1eadfe940acb321cf52272e0f111",
     "212dfeb783df3d45c8de56871b5a776e",
-    "9d8c0b010a9313477059135dfd73d029"
+    "9d8c0b010a9313477059135dfd73d029",
+    "8dd0b831146b3e7e8eaba1bafd9b8ddc",
+    "7fd37a517f976b60ca0ca40378f81979"
   ]
 }
