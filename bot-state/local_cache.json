@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iran-nennt-sanktionsdrohung-europaeischer-laender-verantwortungslos-102.html",
-    "https://www.faz.net/einspruch/flughafen-mutmasslicher-libyscher-kriegsverbrecher-festgenommen-110597215.html",
-    "https://www.deutschlandfunk.de/unhcr-einsparungen-bei-entwicklungshilfe-haben-dramatische-folgen-102.html",
-    "https://www.deutschlandfunk.de/wieder-kaempfe-in-der-provinz-suwaida-100.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-russische-offiziere-wegen-angriff-auf-theater-in-mariupol-100.html",
     "https://www.deutschlandfunk.de/wie-faellt-die-merz-bilanz-aus-interview-mit-uwe-jun-politikwissenschaftler-102.html",
     "https://www.deutschlandfunk.de/drei-aerzte-in-polen-wegen-tod-von-schwangerer-frau-verurteilt-102.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/ausland/australien-erkennt-palaestina-an-abnabelung-von-den-usa-110632353.html",
     "https://www.deutschlandfunk.de/waldbraende-in-etlichen-mittelmeerlaendern-100.html",
     "https://www.deutschlandfunk.de/trump-strebt-kein-abkommen-mit-putin-zur-ukraine-beim-treffen-in-alaska-an-104.html",
-    "https://www.deutschlandfunk.de/trump-strebt-kein-abkommen-mit-putin-zur-ukraine-beim-treffen-in-alaska-an-102.html"
+    "https://www.deutschlandfunk.de/trump-strebt-kein-abkommen-mit-putin-zur-ukraine-beim-treffen-in-alaska-an-102.html",
+    "https://www.deutschlandfunk.de/staat-zahlt-3-2-milliarden-euro-unterhaltsvorschuss-100.html",
+    "https://www.deutschlandfunk.de/jugendpsychiater-fordern-regeln-fuer-konsum-von-online-netzwerken-von-politik-100.html",
+    "https://www.spiegel.de/ausland/johann-wadephul-cdu-aussenminister-verteidigt-israel-entscheidung-von-friedrich-merz-a-57c69ca0-2391-4373-a68a-8032055ccab5#ref=rss",
+    "https://www.spiegel.de/panorama/polizeigewerkschaft-gdp-klagt-ueber-marode-dienststellen-schimmel-ungeziefer-kaputte-heizungen-a-fcb0c0f7-1d22-4325-a8a5-ea2a1430bfd9#ref=rss"
   ],
   "content_hashes": [
-    "1732a1dc51502ce683e79add1c962ef6",
-    "c680802e34d456ba85d68bcab773baa7",
-    "3bf0021f6d988b459beb17a091758cdf",
-    "ae5b5170e978151a44c54fc5b018b7f9",
     "2cf37597aa71935f7094dd0f34d90788",
     "de5930f0d8dc2ee3fbd9d914ab77adfc",
     "c438069e72d7cd30f2cd62d34b6d944c",
@@ -2001,13 +1997,13 @@
     "d542f9d644ba11edcf73a3bc67f0737f",
     "dd9f9da227efef1b1a81b1cd122f75fd",
     "ba625da2169aea74d0c2274b02723c34",
-    "7e8847a1792c6532ee5191701e26633b"
+    "7e8847a1792c6532ee5191701e26633b",
+    "218a3c9dd0515a835646937976d046b1",
+    "0d7340ce8bc7d17e079603a279cffc27",
+    "f06e3b17bb0b65e1b20df15bafe9e073",
+    "79b064f5088cd3055f1e70db791b886f"
   ],
   "titles": [
-    "Atomkonflikt - Iran nennt Sanktionsdrohung europäischer Länder \"verantwortungslos\"",
-    "Bundespolizei nimmt Libyer am Flughafen BER fest",
-    "Flüchtlinge - UNHCR: Einsparungen bei Entwicklungshilfe haben dramatische Folgen",
-    "Syrien - Wieder Kämpfe in der Provinz Suwaida",
     "Großbritannien - Sanktionen gegen russische Offiziere wegen Angriff auf Theater in Mariupol",
     "Vor Sommerpause - Politologe Jun: Merz' Bilanz ist gemischt",
     "Strenges Abtreibungsrecht - Drei Ärzte in Polen wegen Tod von schwangerer Frau verurteilt",
@@ -3003,13 +2999,13 @@
     "Anerkennung von Palästina: Der „Hilfssheriff“ entfernt sich von Washington",
     "Trockenheit - Waldbrände in etlichen Mittelmeerländern",
     "Verhandlungen - Trump strebt kein Abkommen mit Putin zur Ukraine beim Treffen in Alaska an",
-    "Russischer Angriffskrieg - Trump strebt kein Abkommen mit Putin zur Ukraine beim Treffen in Alaska an"
+    "Russischer Angriffskrieg - Trump strebt kein Abkommen mit Putin zur Ukraine beim Treffen in Alaska an",
+    "Soziales - Staat zahlt 3,2 Milliarden Euro Unterhaltsvorschuss",
+    "Essstörungen - Jugendpsychiater fordern Regeln für Konsum von Online-Netzwerken von Politik",
+    "Johann Wadephul (CDU): Außenminister verteidigt Israel-Entscheidung von Friedrich Merz",
+    "Polizeigewerkschaft (GdP) klagt über marode Dienststellen – Schimmel, Ungeziefer, kaputte Heizungen"
   ],
   "hashes": [
-    "b5aa8301edf8fb556fc114c72b961906",
-    "bea9a9d5ccce4ce4b3147a204434d662",
-    "658547a11819a3a1251b4048e458cdda",
-    "0b13f581f947b3536c64999080c4acc0",
     "6396140e022d55137d2655a5e5973456",
     "f4ca207905bc5030209d7c0effedab4d",
     "b508223c075cbefd299fd032dd1652a8",
@@ -4005,6 +4001,10 @@
     "897d1bf32fe2c3dfc901a49d4ed27bac",
     "ab2d2dba6eb373372fdfd970900da451",
     "25d91b180ea28527745fb760b168fb29",
-    "b76eca6454fb8888778919ef0e583d10"
+    "b76eca6454fb8888778919ef0e583d10",
+    "6623b06929baf08433241bdb008af81d",
+    "d774a40c5e01d279fe1b86738b6222fe",
+    "49dc01b742ad6f59c01ce2a90b6a9d70",
+    "cb1aeb7198603df660232177b438bb3f"
   ]
 }
