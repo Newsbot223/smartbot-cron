@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/drei-aerzte-in-polen-wegen-tod-von-schwangerer-frau-verurteilt-102.html",
-    "https://www.deutschlandfunk.de/deutschland-und-nachbarstaaten-wollen-asyl-regeln-weiter-verschaerfen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-21-ende-2026-sollen-erste-zuege-fahren-110597605.html",
     "https://www.faz.net/aktuell/politik/inland/migration-innenminister-wollen-haerteren-asylkurs-und-schnellere-verfahren-110597936.html",
     "https://www.faz.net/aktuell/politik/sommerpressekonferenz-merz-mit-einer-prise-merkel-110597719.html",
     "https://www.deutschlandfunk.de/tadej-pogacar-siegt-bei-einzelzeitfahren-in-den-pyrenaeen-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/ausland/johann-wadephul-cdu-aussenminister-verteidigt-israel-entscheidung-von-friedrich-merz-a-57c69ca0-2391-4373-a68a-8032055ccab5#ref=rss",
     "https://www.spiegel.de/panorama/polizeigewerkschaft-gdp-klagt-ueber-marode-dienststellen-schimmel-ungeziefer-kaputte-heizungen-a-fcb0c0f7-1d22-4325-a8a5-ea2a1430bfd9#ref=rss",
     "https://www.deutschlandfunk.de/bsi-digitale-souveraenitaet-deutschlands-ist-nicht-in-sicht-100.html",
-    "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-zehn-millionen-us-buerger-verlieren-nach-schaetzung-durch-trumps-steue-100.html"
+    "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-zehn-millionen-us-buerger-verlieren-nach-schaetzung-durch-trumps-steue-100.html",
+    "https://www.deutschlandfunk.de/gruene-kritisieren-staatsminister-weimer-als-kulturkaempfer-100.html",
+    "https://www.deutschlandfunk.de/madonna-richtet-dramatischen-appell-an-papst-leo-bitte-gehen-sie-nach-gaza-100.html",
+    "https://www.deutschlandfunk.de/kiew-meldet-rueckeroberung-von-zwei-doerfern-an-der-front-100.html"
   ],
   "content_hashes": [
-    "c438069e72d7cd30f2cd62d34b6d944c",
-    "cd2c3c12ea4d2b29d98f6d7292d9e155",
-    "adb50f23f06d5a10aa37db495d5924a7",
     "80312d90f73b6f8ce928bbe478ee5382",
     "f7f41f37dc3d8f77c1f3e84b5f506e95",
     "9b1568e755d9ef26696acbb6ae60f590",
@@ -2001,12 +1998,12 @@
     "f06e3b17bb0b65e1b20df15bafe9e073",
     "79b064f5088cd3055f1e70db791b886f",
     "f482d0b5c671037274fe4e0b0b59e470",
-    "aed4c1f3276346c400ca09888120d828"
+    "aed4c1f3276346c400ca09888120d828",
+    "31e11c5ed991a16fd738676c05521808",
+    "d9cd717950c55202fd425c8e423c4e72",
+    "c852b18493b63ca331c7e11d11479cda"
   ],
   "titles": [
-    "Strenges Abtreibungsrecht - Drei Ärzte in Polen wegen Tod von schwangerer Frau verurteilt",
-    "Migration - Deutschland und Nachbarstaaten wollen Asyl-Regeln weiter verschärfen",
-    "Stuttgart 21: Ende 2026 sollen erste Züge fahren",
     "Migration: Innenminister wollen härteren Asylkurs und schnellere Verfahren",
     "Sommerpressekonferenz: Merz mit einer Prise Merkel",
     "Tour de France - Tadej Pogacar siegt bei Einzelzeitfahren in den Pyrenäen",
@@ -3003,12 +3000,12 @@
     "Johann Wadephul (CDU): Außenminister verteidigt Israel-Entscheidung von Friedrich Merz",
     "Polizeigewerkschaft (GdP) klagt über marode Dienststellen – Schimmel, Ungeziefer, kaputte Heizungen",
     "Technologie - BSI: Digitale Souveränität Deutschlands ist nicht in Sicht",
-    "USA - Haushaltsbüro des Kongresses: Zehn Millionen US-Bürger verlieren nach Schätzung durch Trumps Steuergesetz ihre Krankenversicherung"
+    "USA - Haushaltsbüro des Kongresses: Zehn Millionen US-Bürger verlieren nach Schätzung durch Trumps Steuergesetz ihre Krankenversicherung",
+    "Bundestag - Grüne kritisieren Staatsminister Weimer als \"Kulturkämpfer\"",
+    "Nahost-Krieg - Madonna richtet dramatischen Appell an Papst Leo: \"Bitte gehen Sie nach Gaza!\"",
+    "Ukraine-Krieg - Kiew meldet Rückeroberung von zwei Dörfern an der Front"
   ],
   "hashes": [
-    "b508223c075cbefd299fd032dd1652a8",
-    "6261605d0fe4e0b0a09216b800788106",
-    "7fdd5230a71881054c35a432fd052d29",
     "4ca4ca8f89e26d761b9c9cfd8aa1d961",
     "c87c0cfb9943c6e8c61a610f30384519",
     "488cc701e6c5e2df27b6387bf8185c6c",
@@ -4005,6 +4002,9 @@
     "49dc01b742ad6f59c01ce2a90b6a9d70",
     "cb1aeb7198603df660232177b438bb3f",
     "5af1e8a552acaa966b83bfb858347c1f",
-    "538bbba2489c6aceb9e0409edc4b9ccb"
+    "538bbba2489c6aceb9e0409edc4b9ccb",
+    "15166fd2fc02ccba8cd639f79d2a17dc",
+    "b0ea3f2805af93a5702a7c742d0988f1",
+    "542b6af4b2ccfed0e461e1ee4a416974"
   ]
 }
