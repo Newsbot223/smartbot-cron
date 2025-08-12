@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wellbrock-greift-nach-dritter-goldmedaille-102.html",
-    "https://www.deutschlandfunk.de/umweltbehoerde-epa-baut-fast-ein-viertel-der-stellen-ab-102.html",
-    "https://www.deutschlandfunk.de/usa-ziehen-deutschland-bei-patriot-lieferungen-vor-108.html",
-    "https://www.deutschlandfunk.de/19-menschen-durch-feuerwerkskoerper-verletzt-108.html",
     "https://www.deutschlandfunk.de/19-menschen-durch-feuerwerkskoerper-verletzt-umgestuerzte-strartrampe-als-ursache-vermutet-100.html",
     "https://www.deutschlandfunk.de/australien-liefert-fast-50-abrams-kampfpanzer-an-die-ukrainische-armee-100.html",
     "https://www.deutschlandfunk.de/meldungen-ueber-erneute-russische-angriffe-mit-drohnen-und-raketen-ein-todesopfer-in-odessa-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/berlins-regierender-buergermeister-erinnert-an-mauertote-100.html",
     "https://www.deutschlandfunk.de/oppositionspolitiker-lapid-schliesst-sich-aufruf-von-geisel-familien-zu-generalstreik-an-100.html",
     "https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss",
-    "https://www.deutschlandfunk.de/japan-gedenkt-der-opfer-des-weltweit-schlimmsten-flugzeugabsturzes-vor-40-jahren-100.html"
+    "https://www.deutschlandfunk.de/japan-gedenkt-der-opfer-des-weltweit-schlimmsten-flugzeugabsturzes-vor-40-jahren-100.html",
+    "https://www.deutschlandfunk.de/kinderschuetzer-kritisieren-verbotsdebatten-zur-handy-nutzung-102.html",
+    "https://www.deutschlandfunk.de/rbb-will-gegen-schlesinger-in-berufung-gehen-102.html",
+    "https://www.deutschlandfunk.de/union-debattiert-ueber-merz-entscheidung-zu-waffenexporten-nach-israel-100.html",
+    "https://www.faz.net/aktuell/politik/inland/thueringen-plant-milliarden-investition-fuer-kommunale-infrastruktur-110633709.html"
   ],
   "content_hashes": [
-    "a540825a6818e6c8b8a19a9b912eb0ad",
-    "a94f680ad3e51aed72fd6db1f4251a75",
-    "4eb3ee1260ee8c2d839ffe170224fcb1",
-    "9142d448e1cb95424e039a599ae3e042",
     "fe19bba4c1dd5eda3c387461dc84ab2d",
     "349c3d3944a411fee24ac396e46a10bf",
     "35a3845d66ef39e6f8bf80323ee48af9",
@@ -2001,13 +1997,13 @@
     "4cff67454c87a189b4d603ce13221f2d",
     "1e8c211932f974ca96809d8496095a99",
     "6cfecb4fc1e634a21c6533a67dd203a5",
-    "838830b4770881779bc48a3ceb975f0a"
+    "838830b4770881779bc48a3ceb975f0a",
+    "a5e079190002fb9aa598852849e0edae",
+    "87ca2fe7f90ad8f2c31d63c91b2846b4",
+    "f017ca54887eabf30948dd0fdf49034b",
+    "602316d82a8d7de40a3300cda71f9e13"
   ],
   "titles": [
-    "Schwimm-WM - Wellbrock greift nach dritter Goldmedaille",
-    "USA - Umweltbehörde EPA baut fast ein Viertel der Stellen ab",
-    "Raketenabwehrsystem - USA ziehen Deutschland bei Patriot-Lieferungen vor",
-    "Düsseldorf - 19 Menschen durch Feuerwerkskörper verletzt",
     "Düsseldorf - 19 Menschen durch Feuerwerkskörper verletzt - umgestürzte Strartrampe als Ursache vermutet",
     "Ukraine-Krieg - Australien liefert fast 50 Abrams-Kampfpanzer an die ukrainische Armee",
     "Krieg gegen die Ukraine - Meldungen über erneute russische Angriffe mit Drohnen und Raketen - ein Todesopfer in Odessa",
@@ -3003,13 +2999,13 @@
     "Gedenken - Berlins Regierender Bürgermeister erinnert an Mauertote",
     "Israel - Oppositionspolitiker Lapid schließt sich Aufruf von Geisel-Familien zu Generalstreik an",
     "Deutschland: Klimaanlagen gefragt wie nie – Produktion steigt um 92 Prozent",
-    "Luftfahrt - Japan gedenkt der Opfer des weltweit schlimmsten Flugzeugabsturzes vor 40 Jahren"
+    "Luftfahrt - Japan gedenkt der Opfer des weltweit schlimmsten Flugzeugabsturzes vor 40 Jahren",
+    "Verbote an Schulen - Kinderschützer kritisieren Verbotsdebatten zur Handy-Nutzung",
+    "Rechtsstreit mit Ex-Intendantin - RBB will gegen Schlesinger in Berufung gehen",
+    "Nahost-Politik - Union streitet über Merz' Schwenk beim Waffenexport nach Israel",
+    "Eine Milliarde Euro: Die Kommunen machen Schulden, das Land zahlt"
   ],
   "hashes": [
-    "5a882f443295e10198a0921c17d86236",
-    "3894330537fa9b3de05778ad50888786",
-    "3d6e180c659ea2d3ee48333189648cb1",
-    "bab946dde0b1859e67bcbf7620eede62",
     "c2554a5cce42deabd18277c0e656994f",
     "6ed051935c6cfa95e841aa9bf52fcb01",
     "d5fa2138f623e163305fea35d41efe6e",
@@ -4005,6 +4001,10 @@
     "c2c9aa3eb5a49f17282702ba6190dec8",
     "b096ed5fe222656083dd7708e65f91e3",
     "a293bf7a5ac92ff44b72da5746f63742",
-    "0413d652df5f0728cc990fca9c88b70e"
+    "0413d652df5f0728cc990fca9c88b70e",
+    "db43df9181a3e486392c900ab19622c3",
+    "c1c024d0009853810cba044bb16ae79c",
+    "cdf7008080a4c280422cd44e065a4711",
+    "a63f1eadfe940acb321cf52272e0f111"
   ]
 }
