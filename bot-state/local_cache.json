@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-mehrheit-lehnt-afd-verbot-ab-110597565.html",
-    "https://www.deutschlandfunk.de/uebergangsregierung-verkuendet-waffenruhe-100.html",
-    "https://www.deutschlandfunk.de/merz-wuerdigt-zentralrat-der-juden-100.html",
     "https://www.deutschlandfunk.de/beschaeftigte-bei-tageszeitungen-bekommen-durchschnittlich-10-5-prozent-mehr-geld-100.html",
     "https://www.deutschlandfunk.de/kontaminierte-fukushima-erde-zu-sitz-von-regierungschef-in-tokio-geschafft-102.html",
     "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-an-der-grenze-koennten-noch-lange-dauern-110597352.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-staaten-rechte-der-ukraine-muessen-gewahrt-werden-108.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-in-wiesbaden-will-sich-vor-verfassungsfeinden-schuetzen-110633771.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/asyl-in-italien-praemie-fuer-ein-moerderisches-system-110634125.html"
+    "https://www.faz.net/aktuell/politik/ausland/asyl-in-italien-praemie-fuer-ein-moerderisches-system-110634125.html",
+    "https://www.deutschlandfunk.de/erste-nationalgardisten-auf-anforderung-von-praesident-trump-in-der-hauptstadt-eingetroffen-102.html",
+    "https://www.deutschlandfunk.de/griechenland-bittet-eu-um-hilfe-130.html",
+    "https://www.faz.net/aktuell/politik/ausland/treffen-mit-putin-in-alaska-trump-kann-nicht-aus-seiner-haut-110634249.html"
   ],
   "content_hashes": [
-    "bf5da3e661e6c5a83ed11357c013dff3",
-    "b91985cfbfa8113423a251640412c687",
-    "5e300faa2cd1a0a1b6a52d453f237056",
     "438357a5ded5de129253831739d85e2a",
     "54d3f9f20b58a31c427a71c029ab51f0",
     "dc53cbb367258be0ea6d3bcd441bc1c4",
@@ -2001,12 +1998,12 @@
     "2d6b71697b78330227af7c889d2f34ad",
     "aefa99167bfdf0116bf197d14c9d6fb7",
     "504d84e244b0d083f17da27fe7ca0d52",
-    "69f1a918391c2cb726394e8ea0fd12db"
+    "69f1a918391c2cb726394e8ea0fd12db",
+    "108a572f1247c5f5ac2d6fa97b3514b7",
+    "4414afffbdcd23f44050dcc470d8019c",
+    "28d442754abb50502ac9e3eee2da9512"
   ],
   "titles": [
-    "Allensbach-Umfrage: Mehrheit lehnt AfD-Verbot ab",
-    "Kämpfe in Südsyrien - Übergangsregierung verkündet Waffenruhe",
-    "75-jähriges Bestehen - Merz würdigt Zentralrat der Juden",
     "Tarifeinigung - Beschäftigte bei Tageszeitungen bekommen durchschnittlich 10,5 Prozent mehr Geld",
     "Japan - Kontaminierte Fukushima-Erde zu Sitz von Regierungschef in Tokio geschafft",
     "Grenzkontrollen: 34.285 Euro je Zurückweisung",
@@ -3003,12 +3000,12 @@
     "Vor Treffen von Trump und Putin - EU-Staaten: Rechte der Ukraine müssen gewahrt werden",
     "„Juristisches Neuland“: Hessischer Landtag will sich vor Verfassungsfeinden schützen",
     "Friedrich Merz: Israel-Botschafter Ron Prosor nennt Beschränkung der Waffenlieferungen »ein Fest für Hamas«",
-    "Italienisches Gericht: Prämie für ein mörderisches System"
+    "Italienisches Gericht: Prämie für ein mörderisches System",
+    "Washington D.C. - Erste Nationalgardisten auf Anforderung von Präsident Trump in der Hauptstadt eingetroffen",
+    "Waldbrände - Griechenland bittet EU um Hilfe",
+    "Treffen mit Putin: Trump kann nicht aus seiner Haut"
   ],
   "hashes": [
-    "d061b79dc9cd66e08bfa96ae2ed2c74c",
-    "b6536bf115bfb1299dfd0cd94c771e4a",
-    "522e47ebf2f8412f214eb3dd5857207e",
     "35664a0fde0616e3c3beedbde132eff0",
     "dabef332ee0092ab271cfa8d5a066fd0",
     "0784526309f0f493b5814144bcb5fefb",
@@ -4005,6 +4002,9 @@
     "ac2eeaa1779a7e847d727816fff768e4",
     "f803147a70e18144f953992fa1c771a0",
     "6faf1ea06e9b6b5a0b783b49b8a55ca1",
-    "125c1c38b9f6195a1c018aa0911a3cae"
+    "125c1c38b9f6195a1c018aa0911a3cae",
+    "86c168977c69862d4a27cd3b9f914a60",
+    "6259260df81ab691b2058ac87ae98c01",
+    "f7a837875a640fbe1f70e991f3031fc6"
   ]
 }
