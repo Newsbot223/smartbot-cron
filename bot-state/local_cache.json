@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/migration-innenminister-wollen-haerteren-asylkurs-und-schnellere-verfahren-110597936.html",
-    "https://www.faz.net/aktuell/politik/sommerpressekonferenz-merz-mit-einer-prise-merkel-110597719.html",
-    "https://www.deutschlandfunk.de/tadej-pogacar-siegt-bei-einzelzeitfahren-in-den-pyrenaeen-100.html",
-    "https://www.deutschlandfunk.de/abschiebeflug-aus-deutschland-in-kabul-gelandet-kritik-von-uno-menschenrechtsbuero-100.html",
     "https://www.deutschlandfunk.de/uno-geht-von-fast-80-000-fluechtlingen-durch-kaempfe-in-suweida-aus-100.html",
     "https://www.faz.net/aktuell/politik/tuebingen-ob-boris-palmer-will-sich-diskussion-mit-afd-politikern-stellen-110598144.html",
     "https://www.faz.net/aktuell/politik/ausland/fluege-nach-moskau-platzeck-pofalla-stegner-und-die-russische-gasdiplomatie-110597007.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-zehn-millionen-us-buerger-verlieren-nach-schaetzung-durch-trumps-steue-100.html",
     "https://www.deutschlandfunk.de/gruene-kritisieren-staatsminister-weimer-als-kulturkaempfer-100.html",
     "https://www.deutschlandfunk.de/madonna-richtet-dramatischen-appell-an-papst-leo-bitte-gehen-sie-nach-gaza-100.html",
-    "https://www.deutschlandfunk.de/kiew-meldet-rueckeroberung-von-zwei-doerfern-an-der-front-100.html"
+    "https://www.deutschlandfunk.de/kiew-meldet-rueckeroberung-von-zwei-doerfern-an-der-front-100.html",
+    "https://www.deutschlandfunk.de/unions-fraktionsvize-roettgen-weniger-kritik-am-waffenstopp-fuer-israel-bei-cdu-und-csu-als-es-oeffe-100.html",
+    "https://www.deutschlandfunk.de/schwesig-spd-lehnt-laengere-lebensarbeitszeit-ab-102.html",
+    "https://www.deutschlandfunk.de/praesident-trump-ernennt-neuen-chef-des-amts-fuer-arbeitsmarkt-statistik-100.html",
+    "https://www.faz.net/aktuell/politik/inland/streit-um-plakate-dortmund-klagt-gegen-afd-110633314.html"
   ],
   "content_hashes": [
-    "80312d90f73b6f8ce928bbe478ee5382",
-    "f7f41f37dc3d8f77c1f3e84b5f506e95",
-    "9b1568e755d9ef26696acbb6ae60f590",
-    "e2dc1f8992d8a3ce87c855e92f15a04e",
     "11aa0f8a957cc92b82b6905f915d7a26",
     "7ce9d89bdcbadcd7dcccee2533e64508",
     "74f70f9d0ccf7155f8725ded5d6bb94d",
@@ -2001,13 +1997,13 @@
     "aed4c1f3276346c400ca09888120d828",
     "31e11c5ed991a16fd738676c05521808",
     "d9cd717950c55202fd425c8e423c4e72",
-    "c852b18493b63ca331c7e11d11479cda"
+    "c852b18493b63ca331c7e11d11479cda",
+    "8fa1a5091657225c61f90b9ceef04100",
+    "31f5906d12b043a0fae8dc1f2a1c5705",
+    "d6cd632f5902ea047ed946111d320337",
+    "14dd95e1740f2c77995d2091d592e891"
   ],
   "titles": [
-    "Migration: Innenminister wollen härteren Asylkurs und schnellere Verfahren",
-    "Sommerpressekonferenz: Merz mit einer Prise Merkel",
-    "Tour de France - Tadej Pogacar siegt bei Einzelzeitfahren in den Pyrenäen",
-    "Afghanistan - Abschiebeflug aus Deutschland in Kabul gelandet - Kritik von UNO-Menschenrechtsbüro",
     "Syrien - UNO geht von fast 80.000 Flüchtlingen durch Kämpfe in Suweida aus",
     "Tübingen: OB Boris Palmer will sich Diskussion mit AfD-Abgeordneten stellen",
     "Geheime Flüge nach Moskau: Platzeck und die Netze der russischen Gasdiplomatie",
@@ -3003,13 +2999,13 @@
     "USA - Haushaltsbüro des Kongresses: Zehn Millionen US-Bürger verlieren nach Schätzung durch Trumps Steuergesetz ihre Krankenversicherung",
     "Bundestag - Grüne kritisieren Staatsminister Weimer als \"Kulturkämpfer\"",
     "Nahost-Krieg - Madonna richtet dramatischen Appell an Papst Leo: \"Bitte gehen Sie nach Gaza!\"",
-    "Ukraine-Krieg - Kiew meldet Rückeroberung von zwei Dörfern an der Front"
+    "Ukraine-Krieg - Kiew meldet Rückeroberung von zwei Dörfern an der Front",
+    "Nahost - Unions-Fraktionsvize Röttgen: Weniger Kritik am Waffenstopp für Israel bei CDU und CSU als es öffentlich erscheint",
+    "Rentendebatte - Schwesig (SPD) lehnt längere Lebensarbeitszeit ab",
+    "USA - Präsident Trump ernennt neuen Chef des Amts für Arbeitsmarkt-Statistik",
+    "Streit um Plakate: Dortmund klagt gegen die AfD"
   ],
   "hashes": [
-    "4ca4ca8f89e26d761b9c9cfd8aa1d961",
-    "c87c0cfb9943c6e8c61a610f30384519",
-    "488cc701e6c5e2df27b6387bf8185c6c",
-    "5773fd8fa6f9fa2051d7ad05297717ca",
     "1c684bcd835f8c5c50eb24af5a09e79a",
     "739ec69b4f908e2a3f60e112b6dd5a20",
     "1a1b86a4aa9e8c8870f927c181ce5d72",
@@ -4005,6 +4001,10 @@
     "538bbba2489c6aceb9e0409edc4b9ccb",
     "15166fd2fc02ccba8cd639f79d2a17dc",
     "b0ea3f2805af93a5702a7c742d0988f1",
-    "542b6af4b2ccfed0e461e1ee4a416974"
+    "542b6af4b2ccfed0e461e1ee4a416974",
+    "d72a80f008527af8785135f0fc747757",
+    "6098092d3c1ba934c33c5954445aeca5",
+    "b7d46b71ef85f5d204d7542a094188ed",
+    "5a7d55c3a591880f4e47b13c468c68b4"
   ]
 }
