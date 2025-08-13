@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/suwaida-wieder-unter-kontrolle-der-drusen-100.html",
-    "https://www.deutschlandfunk.de/gkv-chef-kritisiert-debatte-ueber-leistungskuerzungen-bei-krankenkassen-102.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-nehmen-afghanen-mit-aufnahmezusage-prinzipiell-auf-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-plant-verbrenner-verbot-fuer-mietwagenanbieter-und-firmenflotten-100.html",
     "https://www.deutschlandfunk.de/vermisste-und-mindestens-38-tote-nach-bootsunglueck-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/carl-schmitt-erledigen-wie-langweilig-was-der-denker-uns-heute-noch-zu-sagen-hat-110616072.html",
     "https://www.faz.net/aktuell/politik/inland/forscher-sehen-bei-kindern-suchtarige-smartphone-nutzung-110634900.html",
     "https://www.deutschlandfunk.de/suedchinesisches-meer-china-draengt-us-kriegsschiff-ab-100.html",
-    "https://www.deutschlandfunk.de/eine-zwischenbilanz-nach-100-tagen-schwarz-rot-100.html"
+    "https://www.deutschlandfunk.de/eine-zwischenbilanz-nach-100-tagen-schwarz-rot-100.html",
+    "https://www.deutschlandfunk.de/gaza-und-das-verhaeltnis-israel-deutschland-interview-grisha-alroi-arloser-100.html",
+    "https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss"
   ],
   "content_hashes": [
-    "ca845c5cb5075a5061f0ce16c37697df",
-    "6cd004918fd43770cd65a78fc85964b6",
     "06e03fbf43545c4d2851e2441d5d9a41",
     "83245a11b291f796afe26276e389d692",
     "45cbb65e43fe84a81fa45c570f72b7f7",
@@ -2001,11 +1999,11 @@
     "a7d11c28b9b4525566d1d71543ba506c",
     "b6ff0217600e63edb30263c25d55188a",
     "5e554433c9e05ee21fd43324f42f4e16",
-    "b0d2209f2785129c841f37d118f05443"
+    "b0d2209f2785129c841f37d118f05443",
+    "fa3df884309668c4189f59ab85e6ac4a",
+    "7ea6d9533ae4941dac8ef83edf60b900"
   ],
   "titles": [
-    "Syrien - Suwaida wieder unter Kontrolle der Drusen",
-    "\"Interview der Woche\" - GKV-Chef kritisiert Debatte über Leistungskürzungen bei Krankenkassen",
     "Migration - Bundesaußenminister Wadephul: Nehmen Afghanen mit Aufnahmezusage prinzipiell auf",
     "\"Bild am Sonntag\" - EU-Kommission plant Verbrenner-Verbot für Mietwagenanbieter und Firmenflotten",
     "Vietnam - Vermisste und mindestens 38 Tote nach Bootsunglück",
@@ -3003,11 +3001,11 @@
     "Renaissance des Philosophen: „Carl Schmitt lehrt, genuin politisch zu denken“",
     "Neues Diskussionspapier: Forscher sehen bei Kindern suchtarige Smartphone-Nutzung",
     "Scarborough-Riff - Südchinesisches Meer: China drängt US-Kriegsschiff ab",
-    "100 Tage Schwarz-Rot - Tatendrang mit Kommunikationsfehlern"
+    "100 Tage Schwarz-Rot - Tatendrang mit Kommunikationsfehlern",
+    "Teilstopp von Waffenlieferungen - \"Merz hat sich vor den Karren der Hamas spannen lassen\"",
+    "Schule als Arbeitsplatz: Teilzeitquote bei Lehrkräften steigt auf 43 Prozent"
   ],
   "hashes": [
-    "e6be640721411fb8510e074ced84f298",
-    "a370a9f5cf3955cd1fc2c9e30be9a994",
     "9cbd5e43414ae5bee447718cf91f9aa2",
     "29b382112e7d7e0084bdaa67a7568067",
     "8b397ee3dd36f5591b42fa555c928044",
@@ -4005,6 +4003,8 @@
     "ac211f9d437e78065411c7296d27a71e",
     "57ab715594650c45f78354fa1a27d988",
     "e68bca0e995c65699bb3358b1330d0c0",
-    "58a3668807a5ee21f88a806c970dc4ed"
+    "58a3668807a5ee21f88a806c970dc4ed",
+    "b287369b3fc3d78a724e516b3b5cfc1e",
+    "023e8f2c31e28149bb5ac90f55fdbe4d"
   ]
 }
