@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-regierung-entzieht-brasilianischem-richter-einreisevisum-102.html",
-    "https://www.deutschlandfunk.de/bezahlkarte-fuer-fluechtlinge-immer-noch-nicht-flaechendeckend-im-einsatz-100.html",
-    "https://www.deutschlandfunk.de/uebergangsregierung-verkuendet-neue-waffenruhe-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/northvolt-mehrere-interessenten-fuer-schwedischen-batteriehersteller-a-b165022a-de82-46a4-9016-e6e020c823c4#ref=rss",
     "https://www.deutschlandfunk.de/syriens-uebergangsregierung-verkuendet-waffenruhe-fuer-suweida-trotzdem-offenbar-weiter-gefechte-102.html",
     "https://www.deutschlandfunk.de/deutliche-gehaltssteigerung-fuer-beschaeftigte-von-tageszeitungen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kommentar-zum-einsatz-der-nationalgarde-in-washington-trumps-wahre-motive-100.html",
     "https://www.deutschlandfunk.de/thueringens-ministerpraesident-voigt-fordert-smartphone-verbot-an-schulen-100.html",
     "https://www.deutschlandfunk.de/berlin-erinnert-an-den-beginn-des-mauerbaus-vor-64-jahren-100.html",
-    "https://www.spiegel.de/ausland/usa-bericht-der-regierung-sieht-meinungsfreiheit-in-deutschland-in-gefahr-a-317b96f7-2510-4b1b-af36-dc75584a6135#ref=rss"
+    "https://www.spiegel.de/ausland/usa-bericht-der-regierung-sieht-meinungsfreiheit-in-deutschland-in-gefahr-a-317b96f7-2510-4b1b-af36-dc75584a6135#ref=rss",
+    "https://www.deutschlandfunk.de/uno-wirft-israelischen-sicherheitskraeften-sexuelle-gewalt-gegen-palaestinenische-gefangene-vor-100.html",
+    "https://www.spiegel.de/politik/100-tage-schwarz-rot-jens-spahn-attestiert-der-regierung-beim-thema-zusammenarbeit-noch-luft-nach-oben-a-fa898997-d726-4435-9ae6-9f345f84042d#ref=rss",
+    "https://www.spiegel.de/politik/wolfram-weimer-kulturstaatsminister-nennt-afd-und-linke-gleichermassen-schlecht-fuer-deutschland-a-11d90c05-de23-4d51-8c39-5fd0b385471f#ref=rss"
   ],
   "content_hashes": [
-    "494274df10729a82b59ebe0a0976defc",
-    "2e9575c9c7ba13670944fb0d639e07ce",
-    "a05f18e945847e820adde5f241fa275d",
     "5f5b54b37d1f92197eb9a47d3880ec6f",
     "ff1e7e716c5ec4892e0e8ebd494dfb8e",
     "67b7a6feec573da1231ada29385fdeba",
@@ -2001,12 +1998,12 @@
     "68f42852a0f977f316626e504368ea0b",
     "3fb02115d6c3644df683ce29d68ff91c",
     "57b16d4c97c36ca74e27c51b8c6bdb90",
-    "4c1a664b1497826d403ee62845581d2b"
+    "4c1a664b1497826d403ee62845581d2b",
+    "90524018fa86cbe20891dc45b83d89b1",
+    "683614e9ca5fedef2163f7cd499b7f6a",
+    "5a20ffab84ac95a486a64fcee4a7a5e1"
   ],
   "titles": [
-    "Nach Entscheidung zu Bolsonaro - US-Regierung entzieht brasilianischem Richter Einreisevisum",
-    "Umfrage - Bezahlkarte für Flüchtlinge immer noch nicht flächendeckend im Einsatz",
-    "Kämpfe in Südsyrien - Übergangsregierung verkündet neue Waffenruhe",
     "Northvolt: Mehrere Interessenten für schwedischen Batteriehersteller",
     "Nahost - Syriens Übergangsregierung verkündet Waffenruhe für Suweida - trotzdem offenbar weiter Gefechte",
     "Tarifkonflikt - Deutliche Gehaltssteigerung für Beschäftigte von Tageszeitungen",
@@ -3003,12 +3000,12 @@
     "Washington, D.C. - Trumps wahre Motive für den Einsatz der Nationalgarde",
     "Mediennutzung - Thüringens Ministerpräsident Voigt fordert Smartphone-Verbot an Schulen",
     "Gedenken - Berlin erinnert an den Beginn des Mauerbaus vor 64 Jahren",
-    "USA: Bericht der Regierung sieht Meinungsfreiheit in Deutschland in Gefahr"
+    "USA: Bericht der Regierung sieht Meinungsfreiheit in Deutschland in Gefahr",
+    "Bericht - UNO wirft israelischen Sicherheitskräften sexuelle Gewalt gegen palästinenische Gefangene vor",
+    "100 Tage Schwarz-Rot: Jens Spahn attestiert der Regierung beim Thema Zusammenarbeit noch Luft nach oben",
+    "Wolfram Weimer: Kulturstaatsminister nennt AfD und Linke »gleichermaßen schlecht für Deutschland«"
   ],
   "hashes": [
-    "97216c47c8557c88c9244afcad209f65",
-    "9421de7e4a7910c0ee23cfcf225d72aa",
-    "464c1bdf1470da0313b9b3467f2fd175",
     "78d30be61c8686b9d1832a7227cf3a03",
     "3d37e7f73213163fda6608a98e2e0f1c",
     "1abd2c91799bae940fa07b2018a07f8e",
@@ -4005,6 +4002,9 @@
     "879fae1575f6d11ea3c91c1c13e6fd51",
     "65683eca4c7d25e1173a6390b8d61eea",
     "bd6ceeebff9cf2f1a120066780fcc362",
-    "9f28ba43fcea01f84d0e12a6e4058b32"
+    "9f28ba43fcea01f84d0e12a6e4058b32",
+    "ed8687cac0d40b2f792e05a1e1aa57e2",
+    "cb1ab246cdf4e2a42b843535007b9393",
+    "8cfffdafff74876aab9c0bdaa5ed1e7b"
   ]
 }
