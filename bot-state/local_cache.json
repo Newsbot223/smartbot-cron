@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-buero-raeumungsbefehl-fuer-weite-teile-von-gaza-stadt-ist-verheerend-fuer-hilfsversorgung-100.html",
-    "https://www.deutschlandfunk.de/uno-nothilfebuero-kritisiert-neuen-raeumungsbefehl-der-israelischen-armee-verheerend-fuer-hilfsverso-100.html",
-    "https://www.deutschlandfunk.de/regierung-von-ministerpraesident-ishiba-verliert-mehrheit-auch-im-oberhaus-rechtsaussen-partei-gewin-100.html",
     "https://www.deutschlandfunk.de/iran-kuendigt-neue-gespraeche-mit-deutschland-frankreich-und-grossbritannien-fuer-diese-woche-an-100.html",
     "https://www.deutschlandfunk.de/weidel-sieht-fuer-afd-keine-veranlassung-zur-maessigung-104.html",
     "https://www.faz.net/aktuell/politik/inland/linkenchef-jan-van-aken-zu-richterwahl-warum-sollte-ich-die-union-anrufen-110599434.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/europaeer-formulieren-erwartungen-an-treffen-von-trump-und-putin-100.html",
     "https://www.deutschlandfunk.de/deutschland-beteiligt-sich-mit-500-millionen-us-dollar-am-nato-militaerhilfepaket-100.html",
     "https://www.deutschlandfunk.de/israelischer-armeechef-billigt-ausweitung-von-militaereinsatz-gegen-hamas-meldungen-ueber-20-tote-100.html",
-    "https://www.deutschlandfunk.de/spd-gegen-kuerzungen-bei-solarfoerderung-102.html"
+    "https://www.deutschlandfunk.de/spd-gegen-kuerzungen-bei-solarfoerderung-102.html",
+    "https://www.deutschlandfunk.de/taifun-podul-verursacht-schwere-schaeden-in-taiwan-102.html",
+    "https://www.deutschlandfunk.de/uno-meldet-mindestens-26-tote-bei-schiffsunglueck-vor-lampedusa-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/us-menschenrechtsbericht-trumps-blick-auf-deutschland-110635667.html"
   ],
   "content_hashes": [
-    "8b62d8fb7c94ab43d1c01371771c75b9",
-    "aca73bdf5cbd038883636f607e1dc57c",
-    "15f8940d03ed2177b07940f5574e9f5f",
     "4366151387648509c9a5edd92b88a1d5",
     "96566abcd7e4c314aaf6623d06254899",
     "fe88b81db9fdd132d72dc7b2f5d3a869",
@@ -2001,12 +1998,12 @@
     "8c94263512d226572b15c07504689764",
     "28392ff0de5af02e7d2753c7294b5976",
     "ec7fcb357da80f8600887320ad973782",
-    "01b78b3f6ecec64488c9072f7620def6"
+    "01b78b3f6ecec64488c9072f7620def6",
+    "ec365ca49476eac57490e5130c913b12",
+    "a7a0d405629899a50e3a22335e00d224",
+    "86d5e16d47614e6096cba89757e68be6"
   ],
   "titles": [
-    "Gazastreifen - UNO-Büro: Räumungsbefehl für weite Teile von Gaza-Stadt ist \"verheerend\" für Hilfsversorgung",
-    "Gazastreifen - UNO-Nothilfebüro kritisiert neuen Räumungsbefehl der israelischen Armee - \"verheerend für Hilfsversorgung\"",
-    "Japan - Regierung von Ministerpräsident Ishiba verliert Mehrheit auch im Oberhaus - Rechtsaußen-Partei gewinnt dazu",
     "Atomprogramm - Iran kündigt neue Gespräche mit Deutschland, Frankreich und Großbritannien für diese Woche an",
     "ARD-Sommerinterview - Weidel sieht für AfD keine Veranlassung zur Mäßigung",
     "Linkenchef van Aken zur Richterwahl: Ich will die Nummer von Spahn nicht",
@@ -3003,12 +3000,12 @@
     "Videokonferenz - Europäer formulieren Erwartungen an Treffen von Trump und Putin",
     "Ukraine-Krieg - Deutschland beteiligt sich mit 500 Millionen US-Dollar am Nato-Militärhilfepaket",
     "Gaza-Krieg - Israelischer Armeechef billigt Ausweitung von Militäreinsatz gegen Hamas - Meldungen über 20 Tote",
-    "Solaranlagen - SPD gegen Kürzungen bei Solarförderung"
+    "Solaranlagen - SPD gegen Kürzungen bei Solarförderung",
+    "Tropensturm - Taifun \"Podul\" verursacht schwere Schäden in Taiwan",
+    "Migration - UNO meldet mindestens 26 Tote bei Schiffsunglück vor Lampedusa",
+    "Bericht über Menschenrechte: Trumps Blick auf Deutschland"
   ],
   "hashes": [
-    "ebcb18e8b365b453c3a02b7f358c2dc5",
-    "d9bc3025c7162fa2f3065f1d89cd9ec5",
-    "de3e5b547d148331f8e4f9778a853163",
     "ef61af388aa4cf1bcda51d621086542c",
     "4c21d730dbf3583b8c794085ab762109",
     "ba72364c9c9f131ff576f1d75e3fa995",
@@ -4005,6 +4002,9 @@
     "6b7896ebf90a145c38b3460dc71cc1d0",
     "cf84c4f121ba5b9ef0258356004016d0",
     "96a715d8f7faa00368289470f290db9a",
-    "8ede40f449c40745f4ec9f52bbb2417a"
+    "8ede40f449c40745f4ec9f52bbb2417a",
+    "1f6a0c46c0c4d7e197d7b89cb2d3c15f",
+    "019fb66d7f6585c3f1ac55ad37749e95",
+    "3597c11601ab5b130023e1326ea8ee47"
   ]
 }
