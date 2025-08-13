@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-schlaegt-neue-gespraeche-mit-russland-vor-102.html",
-    "https://www.deutschlandfunk.de/bewaffnete-angreifer-attackieren-in-limoges-autos-und-polizisten-100.html",
-    "https://www.deutschlandfunk.de/erste-fluechtlinge-nach-asyl-verschaerfung-festgenommen-100.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-menschenrechtsaktivist-boniface-mwangi-fest-100.html",
     "https://www.deutschlandfunk.de/drusen-erobern-offenbar-suwaida-vollstaendig-zurueck-100.html",
     "https://www.deutschlandfunk.de/suwaida-wieder-unter-kontrolle-der-drusen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/strack-zimmermann-fdp-fordert-staerke-europas-100.html",
     "https://www.deutschlandfunk.de/deutschland-frankreich-und-grossbritannien-bereit-zu-erneuten-iran-sanktionen-100.html",
     "https://www.faz.net/aktuell/politik/inland/renaissance-des-philosophen-carl-schmitt-erledigen-wie-langweilig-110616072.html",
-    "https://www.deutschlandfunk.de/unionsfraktionschef-spahn-sieht-verbesserungsbedarf-in-zusammenarbeit-mit-spd-linke-spricht-von-chao-100.html"
+    "https://www.deutschlandfunk.de/unionsfraktionschef-spahn-sieht-verbesserungsbedarf-in-zusammenarbeit-mit-spd-linke-spricht-von-chao-100.html",
+    "https://www.spiegel.de/politik/iran-deutschland-frankreich-und-grossbritannien-drohen-mit-sanktionen-bei-atomgespraechen-a-0f7dedab-7b3c-4db3-be68-7eac874723bc#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/carl-schmitt-erledigen-wie-langweilig-was-der-denker-uns-heute-noch-zu-sagen-hat-110616072.html",
+    "https://www.faz.net/aktuell/politik/inland/forscher-sehen-bei-kindern-suchtarige-smartphone-nutzung-110634900.html"
   ],
   "content_hashes": [
-    "a6092be89b58368972c7c6fffbb1c773",
-    "98ff693818f3ba33ffcff643d9aba4fc",
-    "2f5fe6cb3b5e4c7ce34e4c4a86ff82e4",
     "b1f7ed1e6315a96bb2abbd86c9c84fe0",
     "e6d69e4e8ca0bd74b6beb80ee6d3d18f",
     "ca845c5cb5075a5061f0ce16c37697df",
@@ -2001,12 +1998,12 @@
     "eae23e7520582f6114a3144d0a9e2e18",
     "1cffe0a43880e0a66b273a9668768b19",
     "968f848ccc0b3f58ead73d96aaef4c26",
-    "4be14a52b843a3aa42429a7d343c8594"
+    "4be14a52b843a3aa42429a7d343c8594",
+    "47f4a8f2c4c59c5f719dee7b6706f295",
+    "a7d11c28b9b4525566d1d71543ba506c",
+    "b6ff0217600e63edb30263c25d55188a"
   ],
   "titles": [
-    "Krieg in der Ukraine - Selenskyj schlägt neue Gespräche mit Russland vor",
-    "Frankreich - Bewaffnete Angreifer attackieren in Limoges Autos und Polizisten",
-    "Griechenland - Erste Flüchtlinge nach Asyl-Verschärfung festgenommen",
     "Kenia - Polizei nimmt Menschenrechtsaktivist Boniface Mwangi fest",
     "Syrien - Drusen erobern offenbar Suwaida vollständig zurück",
     "Syrien - Suwaida wieder unter Kontrolle der Drusen",
@@ -3003,12 +3000,12 @@
     "Virtueller Gipfel - Strack-Zimmermann (FDP) fordert Stärke Europas",
     "Bei Scheitern von Atom-Verhandlungen - Deutschland, Frankreich und Großbritannien bereit zu erneuten Iran-Sanktionen",
     "Renaissance des Philosophen: „Carl Schmitt erledigen? Wie langweilig“",
-    "100 Tage schwarz-rote Koalition - Unionsfraktionschef Spahn sieht Verbesserungsbedarf in Zusammenarbeit mit SPD - Linke spricht von \"Chaos\""
+    "100 Tage schwarz-rote Koalition - Unionsfraktionschef Spahn sieht Verbesserungsbedarf in Zusammenarbeit mit SPD - Linke spricht von \"Chaos\"",
+    "Iran: Deutschland, Frankreich und Großbritannien drohen mit Sanktionen bei Atomgesprächen",
+    "Renaissance des Philosophen: „Carl Schmitt lehrt, genuin politisch zu denken“",
+    "Neues Diskussionspapier: Forscher sehen bei Kindern suchtarige Smartphone-Nutzung"
   ],
   "hashes": [
-    "f08dd68cf0f1b55b54b0dc029d00765f",
-    "b79202ea5bec81c050d2cee5016f7782",
-    "eeb3ca5c2c41e13fea2b1bf2bc0c457c",
     "1374109dde7bf77e0e0c7b43cdfcb8b1",
     "49cb25a0239072e87dba0a5dc9ccdaa3",
     "e6be640721411fb8510e074ced84f298",
@@ -4005,6 +4002,9 @@
     "cfbd10ac5c514a9f408c21646e9b65c5",
     "19c4901483c973d3fcf9915dd98e2593",
     "d621f66256c588bf9e48e4b891407bfb",
-    "c0bc4b8e618337856df491b3c9db0bf4"
+    "c0bc4b8e618337856df491b3c9db0bf4",
+    "a5f4d4e143ec534f7af162ca7646522d",
+    "ac211f9d437e78065411c7296d27a71e",
+    "57ab715594650c45f78354fa1a27d988"
   ]
 }
