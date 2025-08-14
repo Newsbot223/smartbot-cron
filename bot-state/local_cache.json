@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haelfte-aller-bewohner-von-tuvalu-hat-bereits-einwanderung-nach-australien-beantragt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kommentar-zur-koalition-die-quadratur-der-cdu-kreise-110599526.html",
-    "https://www.deutschlandfunk.de/regierung-evakuiert-beduinenfamilien-aus-suweida-100.html",
-    "https://www.deutschlandfunk.de/afd-fordert-wiederholung-von-gestoertem-weidel-interview-linnemann-kritisiert-aktivisten-100.html",
     "https://www.deutschlandfunk.de/israel-greift-erneut-stellungen-der-huthi-an-100.html",
     "https://www.deutschlandfunk.de/unternehmen-kuendigen-milliarden-investitionen-am-standort-deutschland-an-100.html",
     "https://www.deutschlandfunk.de/immer-mehr-unternehmenschefs-finden-keinen-nachfolger-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/trump-warnt-putin-vor-konsequenzen-bei-fortlaufenden-angriffen-102.html",
     "https://www.deutschlandfunk.de/sicherheitsexpertin-babst-kritisiert-europaeische-haltung-debatte-ueber-gebietsabtretungen-ist-hoech-100.html",
     "https://www.deutschlandfunk.de/israels-armeechef-billigt-ausweitung-von-militaereinsatz-im-gazastreifen-102.html",
-    "https://www.deutschlandfunk.de/polen-in-videokonferenz-mit-trump-durch-praesident-nawrocki-repraesentiert-anstatt-durch-ministerpra-100.html"
+    "https://www.deutschlandfunk.de/polen-in-videokonferenz-mit-trump-durch-praesident-nawrocki-repraesentiert-anstatt-durch-ministerpra-100.html",
+    "https://www.deutschlandfunk.de/gaza-hilfe-mehr-als-100-organisationen-protestieren-gegen-huerden-100.html",
+    "https://www.deutschlandfunk.de/roewekamp-cdu-haben-europaeische-interessen-gegenueber-trump-verdeutlicht-102.html",
+    "https://www.deutschlandfunk.de/aus-dem-jemen-abgefeuerte-rakete-abgefangen-100.html",
+    "https://www.deutschlandfunk.de/reaktionen-nach-treffen-selenskyj-merz-und-videokonferenzen-mit-trump-100.html"
   ],
   "content_hashes": [
-    "481292a5cf7284dd0c838d6612fa6bc7",
-    "75d08871ad8dec2c19cbab7ea6f8899b",
-    "e9c6acdb74f2149efcc1b042ad02c2c4",
-    "4911dc0021be58831525c9044165fbeb",
     "dc59c0c88138b883f6fe2953d004ded5",
     "9c258f913677ebd7803d52ef7c989112",
     "1ca9e2e250c7a7e95225ee3fe32991aa",
@@ -2001,13 +1997,13 @@
     "8c4a92df889ae7f8ed392b66c8efae02",
     "149d14f3745d57335a6a50f39558148a",
     "bd79fb2da17606fee5423956df5eee29",
-    "f058b824af5042e09c4b6e903520b051"
+    "f058b824af5042e09c4b6e903520b051",
+    "ed5a5d9e47be5abf8ca0d0104e9ef0d8",
+    "51d55cdd536bc0cb4b384358ce7e6785",
+    "67758cef43cb4719828d3e27ea80fb19",
+    "04e7a8fc70ff9a94a9b014c852169af4"
   ],
   "titles": [
-    "Klimawandel - Hälfte aller Bewohner von Tuvalu hat bereits Einwanderung nach Australien beantragt",
-    "Kommentar zur Koalition: Die Quadratur der CDU-Kreise",
-    "Syrien - Regierung evakuiert Beduinenfamilien aus Suweida",
-    "\"Sommerinterview\" - AfD fordert Wiederholung von gestörtem Weidel-Interview - Linnemann kritisiert Aktivisten",
     "Jemen - Israel greift erneut Stellungen der Huthi an",
     "Gipfel im Kanzleramt - Unternehmen kündigen Milliarden-Investitionen am Standort Deutschland an",
     "DIHK - Immer mehr Unternehmenschefs finden keinen Nachfolger",
@@ -3003,13 +2999,13 @@
     "Ukraine-Gespräche - Trump warnt Putin vor Konsequenzen bei fortlaufenden Angriffen",
     "Ukraine-Gespräche - Sicherheitsexpertin Babst kritisiert europäische Haltung - \"Debatte über Gebietsabtretungen ist höchstproblematisch\"",
     "Gaza-Krieg - Israels Armeechef billigt Ausweitung von Militäreinsatz im Gazastreifen",
-    "Ukraine-Krieg - Polen in Videokonferenz mit Trump durch Präsident Nawrocki repräsentiert anstatt durch Ministerpräsident Tusk"
+    "Ukraine-Krieg - Polen in Videokonferenz mit Trump durch Präsident Nawrocki repräsentiert anstatt durch Ministerpräsident Tusk",
+    "Nahost - Gaza-Hilfe: Mehr als 100 Organisationen protestieren gegen Hürden",
+    "Ukraine-Gespräche - Röwekamp (CDU): \"Haben europäische Interessen gegenüber Trump verdeutlicht\"",
+    "Israelische Armee - Aus dem Jemen abgefeuerte Rakete abgefangen",
+    "Ukraine-Konferenz - Europäer verschaffen sich Gehör bei Trump"
   ],
   "hashes": [
-    "5a036d95ac816a3c837458ec49771635",
-    "35dab0e118ba385d1b060894ab37b7e8",
-    "8c1659342f1e5bf2500ec0a33f882f7e",
-    "123c513ed596f35a50b543eed3120e1d",
     "39a8122083337050af67677933e331b3",
     "20ac9be5dc5b8fb32c476a19a4752122",
     "863177d309a0ad1b7d8d2378c828feb2",
@@ -4005,6 +4001,10 @@
     "edd70e57579885470acf079c995e673e",
     "81653e4dd4cf9503a6af23a171c3181b",
     "5988bf4e07f5645871f8752289aa6f29",
-    "dcb744834957edd6416e82babfff912d"
+    "dcb744834957edd6416e82babfff912d",
+    "4f6a7b457e53b73a5ad6c58ad65aed18",
+    "537c4c1bb39bb7f530d15a3673fbe6f4",
+    "56fb9d8bc76307884d2e994e2ab3e170",
+    "d6d819fe7d9a91b56c418b19b70aa54d"
   ]
 }
