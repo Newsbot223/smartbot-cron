@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rom-nimmt-kuenftig-zwei-euro-eintritt-fuer-trevi-brunnen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/nrw-kommunalwahl-koelsche-ernuechterung-110599272.html",
-    "https://www.deutschlandfunk.de/afd-fordert-wiederholung-von-gestoertem-weidel-interview-100.html",
-    "https://www.deutschlandfunk.de/opel-mutter-stellantis-verzeichnet-wegen-us-zoellen-milliardenverlust-102.html",
     "https://www.deutschlandfunk.de/haelfte-aller-bewohner-von-tuvalu-hat-bereits-einwanderung-nach-australien-beantragt-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommentar-zur-koalition-die-quadratur-der-cdu-kreise-110599526.html",
     "https://www.deutschlandfunk.de/regierung-evakuiert-beduinenfamilien-aus-suweida-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html",
     "https://www.faz.net/aktuell/politik/inland/linksextremismus-anschlaege-auf-die-bahn-fuer-klimaschutz-110634124.html",
     "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html",
-    "https://www.deutschlandfunk.de/brasilien-plant-milliardenhilfen-fuer-unternehmen-102.html"
+    "https://www.deutschlandfunk.de/brasilien-plant-milliardenhilfen-fuer-unternehmen-102.html",
+    "https://www.deutschlandfunk.de/trump-warnt-putin-vor-konsequenzen-bei-fortlaufenden-angriffen-102.html",
+    "https://www.deutschlandfunk.de/sicherheitsexpertin-babst-kritisiert-europaeische-haltung-debatte-ueber-gebietsabtretungen-ist-hoech-100.html",
+    "https://www.deutschlandfunk.de/israels-armeechef-billigt-ausweitung-von-militaereinsatz-im-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/polen-in-videokonferenz-mit-trump-durch-praesident-nawrocki-repraesentiert-anstatt-durch-ministerpra-100.html"
   ],
   "content_hashes": [
-    "d12e2931691f25bb29581db38d00318f",
-    "fb3a2761eb7a53fce9406c08c3a67736",
-    "d0245b5ac0ed2b26c23465b5015f5b59",
-    "2ebcb6d7f561b14833bcdcbad8976e14",
     "481292a5cf7284dd0c838d6612fa6bc7",
     "75d08871ad8dec2c19cbab7ea6f8899b",
     "e9c6acdb74f2149efcc1b042ad02c2c4",
@@ -2001,13 +1997,13 @@
     "25b9714fa5f7d2edc73ce575dd96d0d2",
     "2cacf122018be9733145862a6f7d319c",
     "4db7b7b28e33df8624f97e32239c3a5d",
-    "d2c23e1c5125fb90d34aef061e6a3c8a"
+    "d2c23e1c5125fb90d34aef061e6a3c8a",
+    "8c4a92df889ae7f8ed392b66c8efae02",
+    "149d14f3745d57335a6a50f39558148a",
+    "bd79fb2da17606fee5423956df5eee29",
+    "f058b824af5042e09c4b6e903520b051"
   ],
   "titles": [
-    "Medienbericht - Rom nimmt künftig zwei Euro Eintritt für Trevi-Brunnen",
-    "NRW-Kommunalwahl: Kölsche Ernüchterung",
-    "\"Sommerinterview\" - AfD fordert Wiederholung von gestörtem Weidel-Interview",
-    "Vorläufige Bilanz - Opel-Mutter Stellantis verzeichnet wegen US-Zöllen Milliardenverlust",
     "Klimawandel - Hälfte aller Bewohner von Tuvalu hat bereits Einwanderung nach Australien beantragt",
     "Kommentar zur Koalition: Die Quadratur der CDU-Kreise",
     "Syrien - Regierung evakuiert Beduinenfamilien aus Suweida",
@@ -3003,13 +2999,13 @@
     "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen",
     "Linksextremismus: Klassen-Klimakampf gegen die Bahn",
     "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet",
-    "US-Zölle - Brasilien plant Milliardenhilfen für Unternehmen"
+    "US-Zölle - Brasilien plant Milliardenhilfen für Unternehmen",
+    "Ukraine-Gespräche - Trump warnt Putin vor Konsequenzen bei fortlaufenden Angriffen",
+    "Ukraine-Gespräche - Sicherheitsexpertin Babst kritisiert europäische Haltung - \"Debatte über Gebietsabtretungen ist höchstproblematisch\"",
+    "Gaza-Krieg - Israels Armeechef billigt Ausweitung von Militäreinsatz im Gazastreifen",
+    "Ukraine-Krieg - Polen in Videokonferenz mit Trump durch Präsident Nawrocki repräsentiert anstatt durch Ministerpräsident Tusk"
   ],
   "hashes": [
-    "228182e6503e0e6347118a77afbb32b6",
-    "2f1cbf9c9b9b893762b70ab7596dab92",
-    "218b2c1d0df2061f6170de03b6fa8aef",
-    "926acf5c258dff2e29379ae44c823706",
     "5a036d95ac816a3c837458ec49771635",
     "35dab0e118ba385d1b060894ab37b7e8",
     "8c1659342f1e5bf2500ec0a33f882f7e",
@@ -4005,6 +4001,10 @@
     "df6dbb4f7d006f81f358da5fbb54182f",
     "6f0afba8945aa2402a5dd5744b45d73f",
     "994559c255eadd348a48982b7900a6dc",
-    "29db4e149a54da101bd69d793279a2bc"
+    "29db4e149a54da101bd69d793279a2bc",
+    "edd70e57579885470acf079c995e673e",
+    "81653e4dd4cf9503a6af23a171c3181b",
+    "5988bf4e07f5645871f8752289aa6f29",
+    "dcb744834957edd6416e82babfff912d"
   ]
 }
