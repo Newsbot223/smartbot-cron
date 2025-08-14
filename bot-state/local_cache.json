@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/londoner-boerse-erwaegt-einfuehrung-von-24-stunden-handel-100.html",
     "https://www.deutschlandfunk.de/rom-nimmt-kuenftig-zwei-euro-eintritt-fuer-trevi-brunnen-102.html",
     "https://www.faz.net/aktuell/politik/inland/nrw-kommunalwahl-koelsche-ernuechterung-110599272.html",
     "https://www.deutschlandfunk.de/afd-fordert-wiederholung-von-gestoertem-weidel-interview-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/bitcoin-erstmals-ueber-der-marke-von-124-000-us-dollar-100.html",
     "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html",
     "https://www.faz.net/aktuell/politik/inland/linksextremismus-anschlaege-auf-die-bahn-fuer-klimaschutz-110634124.html",
-    "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html"
+    "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html",
+    "https://www.deutschlandfunk.de/brasilien-plant-milliardenhilfen-fuer-unternehmen-102.html"
   ],
   "content_hashes": [
-    "8f0e6a79b1d27705ea7e0028ea571e7f",
     "d12e2931691f25bb29581db38d00318f",
     "fb3a2761eb7a53fce9406c08c3a67736",
     "d0245b5ac0ed2b26c23465b5015f5b59",
@@ -2001,10 +2000,10 @@
     "6e9f60ddd817da6a472bc7af6ad1e3ad",
     "25b9714fa5f7d2edc73ce575dd96d0d2",
     "2cacf122018be9733145862a6f7d319c",
-    "4db7b7b28e33df8624f97e32239c3a5d"
+    "4db7b7b28e33df8624f97e32239c3a5d",
+    "d2c23e1c5125fb90d34aef061e6a3c8a"
   ],
   "titles": [
-    "Medienbericht - Londoner Börse erwägt Einführung von 24-Stunden-Handel",
     "Medienbericht - Rom nimmt künftig zwei Euro Eintritt für Trevi-Brunnen",
     "NRW-Kommunalwahl: Kölsche Ernüchterung",
     "\"Sommerinterview\" - AfD fordert Wiederholung von gestörtem Weidel-Interview",
@@ -3003,10 +3002,10 @@
     "Kryptogeld - Bitcoin erstmals über der Marke von 124.000 US-Dollar",
     "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen",
     "Linksextremismus: Klassen-Klimakampf gegen die Bahn",
-    "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet"
+    "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet",
+    "US-Zölle - Brasilien plant Milliardenhilfen für Unternehmen"
   ],
   "hashes": [
-    "bd459128a4d9286dbecefa9d394318a9",
     "228182e6503e0e6347118a77afbb32b6",
     "2f1cbf9c9b9b893762b70ab7596dab92",
     "218b2c1d0df2061f6170de03b6fa8aef",
@@ -4005,6 +4004,7 @@
     "fc2a92c509f37706ca8163c0a7f5b2c3",
     "df6dbb4f7d006f81f358da5fbb54182f",
     "6f0afba8945aa2402a5dd5744b45d73f",
-    "994559c255eadd348a48982b7900a6dc"
+    "994559c255eadd348a48982b7900a6dc",
+    "29db4e149a54da101bd69d793279a2bc"
   ]
 }
