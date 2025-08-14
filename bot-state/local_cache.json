@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/taliban-nehmen-laut-uno-frauen-und-maedchen-wegen-hidschab-verstoessen-fest-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-draengt-auf-verhandlungen-ueber-kriegsende-aber-nur-auf-praesidentenebene-100.html",
     "https://www.deutschlandfunk.de/militaerjet-stuerzt-auf-schule-mindestens-20-tote-und-mehr-als-170-verletzte-102.html",
     "https://www.deutschlandfunk.de/feuerwerk-unfall-auf-rheinkirmes-offenbar-durch-fehlzuendung-verursacht-100.html",
     "https://www.deutschlandfunk.de/selenskyj-kuendigte-neue-gespraeche-mit-russland-fuer-mittwoch-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/netzwelt/gadgets/telekom-bringt-ki-phone-heraus-ohne-sichtbare-apps-a-207efce3-a156-4bf7-a732-2e13c3e39ffc#ref=rss",
     "https://www.deutschlandfunk.de/konjunktur-in-der-euro-zone-schwaechelt-100.html",
     "https://www.deutschlandfunk.de/innenministerium-veroeffentlicht-gutachten-ueber-afd-erwiesen-rechtsextremistisch-100.html",
-    "https://www.deutschlandfunk.de/begruendung-zur-einstufung-des-afd-landesverbands-als-gesichert-rechtsextrem-veroeffentlicht-auf-kur-102.html"
+    "https://www.deutschlandfunk.de/begruendung-zur-einstufung-des-afd-landesverbands-als-gesichert-rechtsextrem-veroeffentlicht-auf-kur-102.html",
+    "https://www.deutschlandfunk.de/fahrplan-fuer-gespraeche-zwischen-trump-und-putin-steht-102.html",
+    "https://www.deutschlandfunk.de/wwf-warnt-vor-steigender-waldbrandgefahr-in-deutschland-durch-klimawandel-neue-waldpolitik-gefordert-102.html"
   ],
   "content_hashes": [
-    "cb6f92974d619d23fa3bcb5f37594806",
-    "59767e86f9b386576a4db51037431d9f",
     "d563952c9712140c6e95b912c65859a4",
     "2d2cc88eaf82fc9e99c79cd360e7b3ca",
     "f4f7b882c01da4484e6e6022b44198ac",
@@ -2001,11 +1999,11 @@
     "a06e331527b10546bf44ded342ea05db",
     "d1d58ace19fd2aa9b93b9328b5c46f69",
     "bf6b3db382fb8c58303324898d4afcda",
-    "5220c815406965bcbef45274c0164fa4"
+    "5220c815406965bcbef45274c0164fa4",
+    "f21d12d074a7179fe4132ea01ff55244",
+    "c700670c534d8ae8e3405c11fd1942ca"
   ],
   "titles": [
-    "Afghanistan - Taliban nehmen laut UNO Frauen und Mädchen wegen Hidschab-Verstößen fest",
-    "Krieg - Selenskyj drängt auf Verhandlungen über Kriegsende - aber nur auf Präsidentenebene",
     "Bangladesch - Militärjet stürzt auf Schule, mindestens 20 Tote und mehr als 170 Verletzte",
     "Düsseldorf - Feuerwerk-Unfall auf Rheinkirmes offenbar durch Fehlzündung verursacht",
     "Krieg - Selenskyj kündigte neue Gespräche mit Russland für Mittwoch an",
@@ -3003,11 +3001,11 @@
     "Telekom bringt KI-Phone heraus - ohne sichtbare Apps",
     "Wirtschaft - Konjunktur in der Euro-Zone schwächelt",
     "Brandenburg - Innenministerium veröffentlicht Gutachten über AfD - \"erwiesen rechtsextremistisch\"",
-    "Brandenburg - Begründung zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem veröffentlicht - \"Auf Kurs, den demokratischen Staat zerstören zu wollen\""
+    "Brandenburg - Begründung zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem veröffentlicht - \"Auf Kurs, den demokratischen Staat zerstören zu wollen\"",
+    "Treffen in Alaska - Fahrplan für Gespräche zwischen Trump und Putin steht",
+    "\"Feuerkompass\" - WWF warnt vor steigender Waldbrandgefahr in Deutschland durch Klimawandel - neue Waldpolitik gefordert"
   ],
   "hashes": [
-    "1ade39826293d01348418409828488f4",
-    "a9402c36bd0c4803545dc23eeb4c127c",
     "d7af58b1947f96f5c1ac449fa1fc7553",
     "59e63526d522955122fe37a93d59ec1b",
     "fea4872605e4de4c6919098192774b47",
@@ -4005,6 +4003,8 @@
     "05b4e2a9ab8f553e08d86033f5c6be8b",
     "2d233d5801926ceb08e32a9dc0ee51f6",
     "40f059b26afc0fa992a030e7ee801081",
-    "9cdafd8cad07b77cf456102e9de8d543"
+    "9cdafd8cad07b77cf456102e9de8d543",
+    "e13ec60f48381fd55ea0682ba9663fd7",
+    "a99c1799d13ebe946e33e0ecbd1cda49"
   ]
 }
