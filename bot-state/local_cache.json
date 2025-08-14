@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/4-6-millionen-menschen-verdienen-unter-2-750-euro-brutto-100.html",
-    "https://www.deutschlandfunk.de/regierung-von-ministerpraesident-ishiba-verliert-bei-wahl-mehrheit-auch-im-oberhaus-rechtsaussen-par-100.html",
     "https://www.deutschlandfunk.de/londoner-boerse-erwaegt-einfuehrung-von-24-stunden-handel-100.html",
     "https://www.deutschlandfunk.de/rom-nimmt-kuenftig-zwei-euro-eintritt-fuer-trevi-brunnen-102.html",
     "https://www.faz.net/aktuell/politik/inland/nrw-kommunalwahl-koelsche-ernuechterung-110599272.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bericht-ueber-zweistellige-millionen-kosten-100.html",
     "https://www.deutschlandfunk.de/zusammenstoesse-bei-erneuten-proteste-gegen-regierung-vucic-102.html",
     "https://www.deutschlandfunk.de/bitcoin-erstmals-ueber-der-marke-von-124-000-us-dollar-100.html",
-    "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html"
+    "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html",
+    "https://www.faz.net/aktuell/politik/inland/linksextremismus-anschlaege-auf-die-bahn-fuer-klimaschutz-110634124.html",
+    "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html"
   ],
   "content_hashes": [
-    "220db3bc6c63d7f03439759378630176",
-    "829a98ed0125c991f965408e937d979d",
     "8f0e6a79b1d27705ea7e0028ea571e7f",
     "d12e2931691f25bb29581db38d00318f",
     "fb3a2761eb7a53fce9406c08c3a67736",
@@ -2001,11 +1999,11 @@
     "667ef29e2ca044eb5e26b1abd3b402eb",
     "383cd3b468e00483cea0b0fbbf5d20d2",
     "6e9f60ddd817da6a472bc7af6ad1e3ad",
-    "25b9714fa5f7d2edc73ce575dd96d0d2"
+    "25b9714fa5f7d2edc73ce575dd96d0d2",
+    "2cacf122018be9733145862a6f7d319c",
+    "4db7b7b28e33df8624f97e32239c3a5d"
   ],
   "titles": [
-    "Bundesregierung - 4,6 Millionen Menschen verdienen unter 2.750 Euro brutto",
-    "Japan - Regierung von Ministerpräsident Ishiba verliert bei Wahl Mehrheit auch im Oberhaus - Rechtsaußen-Partei gewinnt dazu",
     "Medienbericht - Londoner Börse erwägt Einführung von 24-Stunden-Handel",
     "Medienbericht - Rom nimmt künftig zwei Euro Eintritt für Trevi-Brunnen",
     "NRW-Kommunalwahl: Kölsche Ernüchterung",
@@ -3003,11 +3001,11 @@
     "Verschärfte Grenzkontrollen - Bericht über zweistellige Millionen-Kosten",
     "Serbien - Zusammenstöße bei erneuten Proteste gegen Regierung Vucic",
     "Kryptogeld - Bitcoin erstmals über der Marke von 124.000 US-Dollar",
-    "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen"
+    "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen",
+    "Linksextremismus: Klassen-Klimakampf gegen die Bahn",
+    "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet"
   ],
   "hashes": [
-    "2b8ab6f732c7675106841381f9532149",
-    "96e84bfb19c624b89def0d6f3f8c824b",
     "bd459128a4d9286dbecefa9d394318a9",
     "228182e6503e0e6347118a77afbb32b6",
     "2f1cbf9c9b9b893762b70ab7596dab92",
@@ -4005,6 +4003,8 @@
     "c089743392725a3939c13e574073c9f5",
     "ec4de83cf6fc3e3375c7dba533bb2cff",
     "fc2a92c509f37706ca8163c0a7f5b2c3",
-    "df6dbb4f7d006f81f358da5fbb54182f"
+    "df6dbb4f7d006f81f358da5fbb54182f",
+    "6f0afba8945aa2402a5dd5744b45d73f",
+    "994559c255eadd348a48982b7900a6dc"
   ]
 }
