@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/who-warnt-vor-risiko-einer-weltweiten-chikungunya-epidemie-uebertragung-durch-stechmuecken-114.html",
-    "https://www.deutschlandfunk.de/uno-wirft-israels-armee-toetung-von-mehr-als-1-000-hilfesuchenden-seit-ende-mai-vor-102.html",
     "https://www.deutschlandfunk.de/merz-empfaengt-macron-100.html",
     "https://www.deutschlandfunk.de/selenskyj-unterzeichnet-gesetz-zur-einschraenkung-der-unabhaengigkeit-von-korruptionsermittlern-102.html",
     "https://www.deutschlandfunk.de/columbia-university-bestraft-80-studenten-fuer-beteiligung-an-antiisraelischen-protesten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kaliforniens-gouverneur-newsom-kuendigt-als-reaktion-auf-texas-abstimmung-ueber-wahlkreisneuzuschnit-100.html",
     "https://www.faz.net/aktuell/politik/inland/steuerzahlerbund-fordert-weniger-verbeamtungen-110638445.html",
     "https://www.deutschlandfunk.de/begruendung-zur-einstufung-des-afd-landesverbands-als-gesichert-rechtsextrem-veroeffentlicht-110.html",
-    "https://www.deutschlandfunk.de/gebiete-abgeben-gegen-waffenruhe-kiews-blick-auf-alaskagespraech-100.html"
+    "https://www.deutschlandfunk.de/gebiete-abgeben-gegen-waffenruhe-kiews-blick-auf-alaskagespraech-100.html",
+    "https://www.deutschlandfunk.de/kaum-noch-zusaetzliche-arbeitsplaetze-in-deutschland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kosten-der-grenzkontrollen-wo-die-extreme-liegen-110637792.html"
   ],
   "content_hashes": [
-    "09dc6681d2b31b99b2b853fa09a09ffe",
-    "b9dbf777abfecdd5266df2e911482daf",
     "5256b57bdcc8f401cba51c5cc0d43519",
     "3085c2fdb1517d0e19e790705112a6b3",
     "2eb80e35425cabbe0342e2a3c0c66c86",
@@ -2001,11 +1999,11 @@
     "90107f192f7a06768d46a13b23299fa6",
     "fbd7eba98ca6015cf6d26a20c9e9a1ad",
     "34b62a198a79b70e34e49caec9edb7c0",
-    "1d4dab3878e763b4510eb20797e6fc62"
+    "1d4dab3878e763b4510eb20797e6fc62",
+    "a28f2e687aaf3cf7a1ecabd16e656eaf",
+    "4bb1f06d79dd10fd7656bd1710243fbb"
   ],
   "titles": [
-    "Viruserkrankung - WHO warnt vor Risiko einer weltweiten Chikungunya-Epidemie - Übertragung durch Stechmücken",
-    "Gazastreifen - UNO wirft Israels Armee Tötung von mehr als 1.000 Hilfesuchenden seit Ende Mai vor",
     "Berlin - Merz empfängt Macron",
     "Ukraine - Selenskyj unterzeichnet Gesetz zur Einschränkung der Unabhängigkeit von Korruptionsermittlern",
     "USA - Columbia University bestraft 80 Studenten für Beteiligung an antiisraelischen Protesten",
@@ -3003,11 +3001,11 @@
     "Vor den Midterms in den USA - Kaliforniens Gouverneur Newsom kündigt als Reaktion auf Texas Abstimmung über Wahlkreisneuzuschnitt an",
     "Belastung für Steuerzahler: Steuerzahlerbund fordert weniger Verbeamtungen",
     "Brandenburg - Begründung zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem veröffentlicht",
-    "Gespräche in Alaska - Kiews Blick auf das Treffen von Trump und Putin"
+    "Gespräche in Alaska - Kiews Blick auf das Treffen von Trump und Putin",
+    "Wirtschaft - Kaum noch zusätzliche Arbeitsplätze in Deutschland",
+    "Kosten der Grenzkontrollen: Wo die Extreme im Land liegen"
   ],
   "hashes": [
-    "d9d45c048967b439afd1206516111fa1",
-    "da1ba5901959e9d6ef2c53b2d0909eb4",
     "cce26b89ea3db12e223ecb0a39dea82c",
     "b6e5e45d4e9ce1a5e3017c22b31de6e5",
     "90cdab3d5818ebc11b725317b16af3a5",
@@ -4005,6 +4003,8 @@
     "45348e51b2b275efe137b8b2ae685f04",
     "9bdbd6fdf92cf6482c928b304921f6c0",
     "d89a550e2c473285348438ecfaf55dcf",
-    "0edb86ac62b3076e568eb2affac5d3d5"
+    "0edb86ac62b3076e568eb2affac5d3d5",
+    "adb473631424a2197118822be88d53ee",
+    "53298acd5973653da13d82565079e480"
   ]
 }
