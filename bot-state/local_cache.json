@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizei-durchsucht-wohnungen-von-neonazis-in-berlin-102.html",
-    "https://www.deutschlandfunk.de/krankenkasse-kkh-verzeichnet-rekordschaden-durch-betrug-und-korruption-102.html",
     "https://www.deutschlandfunk.de/eine-tote-und-mehrere-verletzte-bei-naechtlichen-angriffen-russlands-auf-die-ukraine-102.html",
     "https://www.deutschlandfunk.de/schiffe-kollidieren-in-cuxhaven-oel-laeuft-ins-hafenbecken-102.html",
     "https://www.deutschlandfunk.de/merz-empfaengt-heute-macron-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/duell-oder-duett-in-alaska-was-will-trump-was-will-putin-110639456.html",
     "https://www.faz.net/aktuell/politik/ausland/abschiebungen-aus-aufnahmeprogramm-fuer-afghanen-schaebig-und-zynisch-110639716.html",
     "https://www.faz.net/einspruch/streit-um-beamtenstatus-lehrer-als-angestellte-110639812.html",
-    "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-104.html"
+    "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-104.html",
+    "https://www.deutschlandfunk.de/bundespolizei-soll-mehr-rechte-bei-abschiebungen-und-zur-drohnen-abwehr-bekommen-100.html",
+    "https://www.deutschlandfunk.de/washington-verklagt-trump-wegen-uebernahme-der-hauptstadtpolizei-100.html"
   ],
   "content_hashes": [
-    "6fba461e263f8581f28fb3aa011c7a84",
-    "1824e582b9f28dccb486c6905b581f60",
     "c1cfc3e1acf5b6cb2a214cf55423f43b",
     "80f7f09ff3f0db43a33bbd010f401dbe",
     "4e7a17e9616ccb24b0505d90fb221016",
@@ -2001,11 +1999,11 @@
     "17aa4ef7ec532def8ce35d53b974ec5f",
     "9caf0e843f2d0c92390850b5b948ca7b",
     "5edf387536ebabb16dae938e62b7aae6",
-    "05fa8b9b8d54aeba4c58ffb3a44d7d3e"
+    "05fa8b9b8d54aeba4c58ffb3a44d7d3e",
+    "846fe6925cddffda06b5f888aec8df02",
+    "d7222cf786ae1c7a34ec2e4ad6470cb8"
   ],
   "titles": [
-    "Rechtsextremismus - Polizei durchsucht Wohnungen von Neonazis in Berlin",
-    "Bericht - Krankenkasse KKH verzeichnet Rekordschaden durch Betrug und Korruption",
     "Krieg - Eine Tote und mehrere Verletzte bei nächtlichen Angriffen Russlands auf die Ukraine",
     "Havarie - Schiffe kollidieren in Cuxhaven - Öl läuft ins Hafenbecken",
     "Berlin - Merz empfängt heute Macron",
@@ -3003,11 +3001,11 @@
     "F.A.Z. Podcast für Deutschland: Duell oder Duett in Alaska: Was will Trump? Was will Putin?",
     "Abschiebungen nach Afghanistan: Schäbig und zynisch",
     "Streit um Beamtenstatus: „Verbeamtung der Lehrer stellt sicher, dass Schulen streikfrei bleiben“",
-    "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden"
+    "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden",
+    "Gesetzentwurf - Bundespolizei soll mehr Rechte bei Abschiebungen und zur Drohnen-Abwehr bekommen",
+    "USA - Washington verklagt Trump wegen Übernahme der Hauptstadtpolizei"
   ],
   "hashes": [
-    "cfd3f224c15355d806511f1c1de0dfa6",
-    "500bc673ed955b478ec5af4991698791",
     "624ab02499d7f5565f64203f99fd9e58",
     "fd3907b480f368efd1ab1006a9c24dc3",
     "7cf4149c12593f99443f489df0547bd8",
@@ -4005,6 +4003,8 @@
     "b75c4e5a9d6f6594bbd9acef2fb44223",
     "e0504aa5347de782cad8fa3010472f14",
     "7d516630616764e129e055bfcf17d38e",
-    "005e21300230c04ba83cced1061a001f"
+    "005e21300230c04ba83cced1061a001f",
+    "66759e7454e9f359357ec3ee368292a6",
+    "62c708e2f128b8b764a8a9e735988897"
   ]
 }
