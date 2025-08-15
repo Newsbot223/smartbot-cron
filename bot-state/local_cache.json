@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eine-tote-und-mehrere-verletzte-bei-naechtlichen-angriffen-russlands-auf-die-ukraine-102.html",
-    "https://www.deutschlandfunk.de/schiffe-kollidieren-in-cuxhaven-oel-laeuft-ins-hafenbecken-102.html",
     "https://www.deutschlandfunk.de/merz-empfaengt-heute-macron-100.html",
     "https://www.deutschlandfunk.de/ministerpraesident-tusk-baut-seine-regierung-um-100.html",
     "https://www.deutschlandfunk.de/praesident-selenskyj-sichert-plan-zur-korruptionsbekaempfung-zu-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/einspruch/streit-um-beamtenstatus-lehrer-als-angestellte-110639812.html",
     "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-104.html",
     "https://www.deutschlandfunk.de/bundespolizei-soll-mehr-rechte-bei-abschiebungen-und-zur-drohnen-abwehr-bekommen-100.html",
-    "https://www.deutschlandfunk.de/washington-verklagt-trump-wegen-uebernahme-der-hauptstadtpolizei-100.html"
+    "https://www.deutschlandfunk.de/washington-verklagt-trump-wegen-uebernahme-der-hauptstadtpolizei-100.html",
+    "https://www.deutschlandfunk.de/libanons-ministerpraesident-weist-buergerkriegs-drohungen-von-hisbollah-chef-zurueck-100.html",
+    "https://www.faz.net/aktuell/politik/kommentar-zum-israelischen-siedlerprojekt-e1-keil-ins-westjordanland-110639843.html"
   ],
   "content_hashes": [
-    "c1cfc3e1acf5b6cb2a214cf55423f43b",
-    "80f7f09ff3f0db43a33bbd010f401dbe",
     "4e7a17e9616ccb24b0505d90fb221016",
     "6d0fdab01cd3b24138aa3fb8761867ee",
     "9e522d2a609c9d6f32546953cad60c62",
@@ -2001,11 +1999,11 @@
     "5edf387536ebabb16dae938e62b7aae6",
     "05fa8b9b8d54aeba4c58ffb3a44d7d3e",
     "846fe6925cddffda06b5f888aec8df02",
-    "d7222cf786ae1c7a34ec2e4ad6470cb8"
+    "d7222cf786ae1c7a34ec2e4ad6470cb8",
+    "107a4cac175bd385ae825e398f5b0e1e",
+    "93b1c6b4c190af2e73f6eec0787d6b3a"
   ],
   "titles": [
-    "Krieg - Eine Tote und mehrere Verletzte bei nächtlichen Angriffen Russlands auf die Ukraine",
-    "Havarie - Schiffe kollidieren in Cuxhaven - Öl läuft ins Hafenbecken",
     "Berlin - Merz empfängt heute Macron",
     "Polen - Ministerpräsident Tusk baut seine Regierung um",
     "Ukraine - Präsident Selenskyj sichert Plan zur Korruptionsbekämpfung zu",
@@ -3003,11 +3001,11 @@
     "Streit um Beamtenstatus: „Verbeamtung der Lehrer stellt sicher, dass Schulen streikfrei bleiben“",
     "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden",
     "Gesetzentwurf - Bundespolizei soll mehr Rechte bei Abschiebungen und zur Drohnen-Abwehr bekommen",
-    "USA - Washington verklagt Trump wegen Übernahme der Hauptstadtpolizei"
+    "USA - Washington verklagt Trump wegen Übernahme der Hauptstadtpolizei",
+    "Geplante Entwaffnung der pro-iranischen Miliz - Libanons Ministerpräsident weist Bürgerkriegs-Drohungen von Hisbollah-Chef zurück",
+    "Kritik an Israel: Den Palästinenserstaat begraben"
   ],
   "hashes": [
-    "624ab02499d7f5565f64203f99fd9e58",
-    "fd3907b480f368efd1ab1006a9c24dc3",
     "7cf4149c12593f99443f489df0547bd8",
     "bf844b22e14b40ad3e2bfa91e4ba1040",
     "9683a1164f20ab8afa996710bf498352",
@@ -4005,6 +4003,8 @@
     "7d516630616764e129e055bfcf17d38e",
     "005e21300230c04ba83cced1061a001f",
     "66759e7454e9f359357ec3ee368292a6",
-    "62c708e2f128b8b764a8a9e735988897"
+    "62c708e2f128b8b764a8a9e735988897",
+    "c7b42bf5c61ce99ae40d02fd9bcbd107",
+    "186b45975daa8c7622e10bf808dedbfd"
   ]
 }
