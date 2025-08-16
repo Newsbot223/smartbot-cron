@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/export-von-eurofightern-bundesregierung-ermoeglicht-tuerkische-ruestungsoffensive-110604265.html",
-    "https://www.deutschlandfunk.de/gericht-in-florida-lehnt-antrag-der-regierung-trump-auf-offenlegung-von-epstein-unterlagen-ab-100.html",
     "https://www.deutschlandfunk.de/russland-und-die-ukraine-vereinbaren-weiteren-gefangenenaustausch-104.html",
     "https://www.deutschlandfunk.de/us-regierung-stellt-ki-aktionsplan-vor-100.html",
     "https://www.deutschlandfunk.de/eu-und-china-beraten-in-peking-ueber-handelsfragen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kein-deal-und-viele-offene-fragen-nach-trump-putin-gipfel-in-alaska-104.html",
     "https://www.deutschlandfunk.de/hunderte-tote-in-pakistan-102.html",
     "https://www.deutschlandfunk.de/amnesty-international-deutschland-rhetorik-und-handeln-der-bundesregierung-stehen-in-eklatantem-wide-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/kommentar-zum-gipfel-in-alaska-zehn-punkte-fuer-putin-110640609.html"
+    "https://www.faz.net/aktuell/politik/ukraine/kommentar-zum-gipfel-in-alaska-zehn-punkte-fuer-putin-110640609.html",
+    "https://www.deutschlandfunk.de/selenskyj-reist-am-montag-nach-washington-trump-informiert-nato-und-europaeische-staaten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/unruhe-in-der-union-kanzler-merz-allein-im-kanzleramt-110639174.html"
   ],
   "content_hashes": [
-    "9c0802952b38bb78d36abbb16a7f5061",
-    "e28b93e80e3d196b99bd5a525fa7107f",
     "4e2a561321f5a863a44154fd9a26469d",
     "1bb89810de384304cdc36b677ed9d824",
     "9fbc9b3289d262d4c7bdaaee0b3fdd2b",
@@ -2001,11 +1999,11 @@
     "5f81d201971064aa5358eb32f4e83024",
     "3e61d209452a1b4626d2b5f882cc709c",
     "f376802a92b30cb4a2f34df0dc94e502",
-    "161c9c073b6b9966a5b5b10aa5440988"
+    "161c9c073b6b9966a5b5b10aa5440988",
+    "ab78ec0b764716a533bea47258379925",
+    "09d11feedcf198bc8a742d8dbb70c02c"
   ],
   "titles": [
-    "Export von Eurofightern: Bundesregierung ermöglicht türkische Rüstungsoffensive",
-    "USA - Gericht in Florida lehnt Antrag der Regierung Trump auf Offenlegung von Epstein-Unterlagen ab",
     "Istanbul - Russland und die Ukraine vereinbaren weiteren Gefangenenaustausch",
     "Künstliche Intelligenz - US-Regierung stellt KI-Aktionsplan vor",
     "Gipfeltreffen - EU und China beraten in Peking über Handelsfragen",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Kein \"Deal\" und viele offene Fragen nach Trump-Putin-Gipfel in Alaska",
     "Asien - Hunderte Tote in Pakistan",
     "Umgang mit Afghanen in Pakistan - Amnesty International Deutschland: Rhetorik und Handeln der Bundesregierung stehen in \"eklatantem Widerspruch\"",
-    "Putins Triumph in Alaska: Ein unbezahlbares Geschenk für Putin"
+    "Putins Triumph in Alaska: Ein unbezahlbares Geschenk für Putin",
+    "Nach Gipfel mit Putin - Selenskyj reist am Montag nach Washington - Trump informiert NATO und europäische Staaten",
+    "Unruhe in der Union: Der Kanzler allein im Kanzleramt"
   ],
   "hashes": [
-    "522ba3c91e6dc80e5de4bee7a09660d0",
-    "368682a2dc8d16ea57ab718297062b74",
     "367f0e8237e6b047893fad90953b19c5",
     "ec279ca6dcaee93aa79c0934e33300e9",
     "b17447ab364b82f2dd8a1f681a981584",
@@ -4005,6 +4003,8 @@
     "a385e3497f9ec5525a0b879ca78d7ce9",
     "1cdc32712ee73e9dc57edfe76bb8b2a6",
     "962360f9de487aff75ef9197b822582c",
-    "c5beae10f27414dc91de0d3e94329a8d"
+    "c5beae10f27414dc91de0d3e94329a8d",
+    "c3a7d7edb40898602ed2b859fd5f670f",
+    "e2ff3b1a08df4bc654567ef67289f281"
   ]
 }
