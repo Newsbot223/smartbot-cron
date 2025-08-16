@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israels-botschafter-wirft-spd-verrat-an-den-geiseln-vor-100.html",
-    "https://www.deutschlandfunk.de/auch-jesidische-familie-mit-kindern-in-den-irak-gebracht-100.html",
-    "https://www.faz.net/aktuell/politik/inland/in-sachsens-schulen-gendern-mit-sonderzeichen-bleibt-verboten-110603979.html",
     "https://www.faz.net/einspruch/schwarz-rote-bilanz-vor-der-sommerpause-110603756.html",
     "https://www.deutschlandfunk.de/fluechtlingsrat-kritisiert-abschiebung-von-jesiden-mit-kindern-in-den-irak-familie-hatte-zuvor-erfol-100.html",
     "https://www.deutschlandfunk.de/proteste-und-beschimpfungen-gegen-buergermeisterin-von-spremberg-nach-brandbrief-gegen-rechtsextremi-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesligist-bremen-unterliegt-dem-zweitligisten-bielefeld-106.html",
     "https://www.deutschlandfunk.de/erste-gespraechsrunde-von-trump-und-putin-beendet-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-verletzte-nach-zugunglueck-100.html",
-    "https://www.deutschlandfunk.de/trump-und-putin-sprechen-von-produktivem-treffen-nennen-aber-keine-konkreten-ergebnisse-100.html"
+    "https://www.deutschlandfunk.de/trump-und-putin-sprechen-von-produktivem-treffen-nennen-aber-keine-konkreten-ergebnisse-100.html",
+    "https://www.deutschlandfunk.de/dihk-praesident-fordert-leistungskuerzungen-bei-pflege-und-spaetere-rente-100.html",
+    "https://www.deutschlandfunk.de/lehrerverband-verteidigt-beamtenstatus-von-lehrkraeften-100.html",
+    "https://www.deutschlandfunk.de/erneut-zusammenstoesse-mit-polizei-bei-anti-korruptions-protesten-102.html"
   ],
   "content_hashes": [
-    "914a955c0396294f0abfb9665f1064ea",
-    "7f6dffc5bf8d393a2621de8686134390",
-    "71da9f8433e38c16d52b1c91a793ec45",
     "2c744609868f0a1846d33bf030e4f54d",
     "64546c3ff66aba858c1466dcf1d7dcbe",
     "0b2536f7e4e37199a6ccfccc2b41e1b7",
@@ -2001,12 +1998,12 @@
     "ecb4434425efcabba267de0e40fef509",
     "95d900fb6043d3604b4f7157d2708319",
     "0b993bfd73c1113ad8901fbec1d12d4b",
-    "bb4ef20fa76791312ef718250d5bbe95"
+    "bb4ef20fa76791312ef718250d5bbe95",
+    "214b2cd10df5bfdd15906f56847b1f78",
+    "6c0e9bf95ab11dab8c83606c52d5176a",
+    "bd3e74837bfe4045f94a8498efa5f6f1"
   ],
   "titles": [
-    "Gaza-Krieg - Israels Botschafter wirft SPD \"Verrat an den Geiseln\" vor",
-    "Abschiebeflug nach Bagdad - Auch jesidische Familie mit Kindern in den Irak gebracht",
-    "In Sachsens Schulen: Gendern mit Sonderzeichen bleibt verboten",
     "Schwarz-rote Bilanz vor der Sommerpause",
     "Brandenburg - Flüchtlingsrat kritisiert Abschiebung von Jesiden mit Kindern in den Irak - Familie hatte zuvor erfolgreich dagegen geklagt",
     "Brandenburg - Proteste und Beschimpfungen gegen Bürgermeisterin von Spremberg nach Brandbrief gegen Rechtsextremismus",
@@ -3003,12 +3000,12 @@
     "DFB-Pokal - Bundesligist Bremen unterliegt dem Zweitligisten Bielefeld",
     "Gespräche USA/Russland - Erste Gesprächsrunde von Trump und Putin beendet",
     "Dänemark - Ein Toter und Verletzte nach Zugunglück",
-    "Alaska - Trump und Putin sprechen von produktivem Treffen, nennen aber keine konkreten Ergebnisse"
+    "Alaska - Trump und Putin sprechen von produktivem Treffen, nennen aber keine konkreten Ergebnisse",
+    "Steigende Sozialbeiträge - DIHK-Präsident fordert Leistungskürzungen bei Pflege und spätere Rente",
+    "Steuerzahlerbund - Lehrerverband verteidigt Beamtenstatus von Lehrkräften",
+    "Serbien - Erneut Zusammenstöße mit Polizei bei Anti-Korruptions-Protesten"
   ],
   "hashes": [
-    "656775e17c766495d50e556f892b6d0a",
-    "7632e3d0dfcc3e1530e0549637f3d07d",
-    "1103df458f68179a9c9ec245d66ba1c3",
     "c805c7df567968704c27fac132231771",
     "a4f65874c0e88cf0cebb258a0b91c181",
     "f023c88b52644e349f990fb0bc5146dc",
@@ -4005,6 +4002,9 @@
     "e349fbd9f60362cb45f2b71ee7451554",
     "29beabce22255967b47dae2f1e05557a",
     "28f656cd9bbeb7d3580a6c1be0006f2d",
-    "a52e6270e6b7fb0d1f4434e4bce65776"
+    "a52e6270e6b7fb0d1f4434e4bce65776",
+    "da26a7dff54e4cf0562cead979bf52a8",
+    "7262bd51b704417efb66598876ff1edf",
+    "53c3b63a637e81e346ddb9ef355747c4"
   ]
 }
