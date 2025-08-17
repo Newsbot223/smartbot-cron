@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/proteste-in-der-ukraine-empoerung-ueber-vorgehen-gegen-antikorruptions-behoerden-100.html",
-    "https://www.deutschlandfunk.de/tausende-in-griechenland-anerkannte-fluechtlinge-nach-deutschland-weitergereist-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/7/24/china-v-eu-the-fight-for-europes-electric-vehicle-market?traffic_source=rss",
     "https://www.deutschlandfunk.de/welthungerhilfe-mehr-als-730-millionen-menschen-von-hunger-betroffen-100.html",
     "https://www.deutschlandfunk.de/eu-china-gipfel-bruessel-und-peking-sprechen-ueber-handel-und-ukraine-krieg-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erneut-zusammenstoesse-bei-protesten-gegen-die-regierung-von-praesident-vucic-100.html",
     "https://www.deutschlandfunk.de/oberbuergermeister-von-heidenheim-oft-nur-noch-die-wahl-gebuehren-anzuheben-oder-einrichtungen-zu-sc-102.html",
     "https://www.deutschlandfunk.de/landesweite-proteste-gegen-republikanische-wahlkreis-plaene-fuer-texas-100.html",
-    "https://www.aljazeera.com/news/2025/8/17/russia-ukraine-war-list-of-key-events-day-1270?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/8/17/russia-ukraine-war-list-of-key-events-day-1270?traffic_source=rss",
+    "https://www.deutschlandfunk.de/deutsche-bahn-fahrgastverband-schlaegt-nachfolgerin-fuer-lutz-vor-100.html",
+    "https://www.deutschlandfunk.de/streik-bei-air-canada-kanadische-regierung-leitet-schlichtungsverfahren-ein-100.html"
   ],
   "content_hashes": [
-    "cc531167d98bede4cf2cd3ebbb70c7d1",
-    "5a52a0cd0d6274461674c6c1cb677330",
     "69cad68ca8978498acbd568bef0ca272",
     "ec06fee8209ca33100233abf6f2ce3c3",
     "d5b3e643402acf43a92eaf70c6490090",
@@ -2001,11 +1999,11 @@
     "f0260ebe6cfe2425de0f3a83af94f89f",
     "754a49131b27d4834af13bc10cfbf34c",
     "745362a4ddae2c3ceba7034381274d64",
-    "573f3042756803534c261cee03561ee9"
+    "573f3042756803534c261cee03561ee9",
+    "849c5e59554abf9055e1cc6377461060",
+    "264474c1d1856a60e7ee97298174684c"
   ],
   "titles": [
-    "Korruptionsgesetz - Der Schaden für Selenskyj ist massiv",
-    "Medienbericht - Tausende in Griechenland anerkannte Flüchtlinge nach Deutschland weitergereist",
     "China v EU: The fight for Europe’s electric vehicle market",
     "Kritik an Entwicklungshilfe-Kürzungen - Welthungerhilfe: mehr als 730 Millionen Menschen von Hunger betroffen",
     "50 Jahre diplomatische Beziehungen - EU-China-Gipfel: Brüssel und Peking sprechen über Handel und Ukraine-Krieg",
@@ -3003,11 +3001,11 @@
     "Serbien - Erneut Zusammenstöße bei Protesten gegen die Regierung von Präsident Vucic",
     "Interview der Woche - Oberbürgermeister von Heidenheim: Oft nur noch die Wahl, Gebühren anzuheben oder Einrichtungen zu schließen",
     "USA - Landesweite Proteste gegen republikanische Wahlkreis-Pläne für Texas",
-    "Russia-Ukraine war: List of key events, day 1,270"
+    "Russia-Ukraine war: List of key events, day 1,270",
+    "Staatskonzern - Deutsche Bahn: Fahrgastverband schlägt Nachfolgerin für Lutz vor",
+    "Tarifkonflikt - Streik bei Air Canada: Kanadische Regierung leitet Schlichtungsverfahren ein"
   ],
   "hashes": [
-    "2fc3f6ab562758acc6f73fb68746d84b",
-    "f2d4abf540d95bbc16a3484d066a9a80",
     "4628cf19078474c506b61966d1da217c",
     "3a272f8f99a019d7c538a00ecfb5a9a2",
     "ba52bc0492bf6ce6fc8b6f10f4b8e74c",
@@ -4005,6 +4003,8 @@
     "4ce6e4761f5bf15450d0c28a10cebe62",
     "e35795ea22eb9fe7060aac25addd6c93",
     "15315ff569ab4f301c1549a8094e2449",
-    "faa61087328b59ce65de2c8acc5f8b50"
+    "faa61087328b59ce65de2c8acc5f8b50",
+    "a6170ddfc4497ee863c76237d487daa4",
+    "341a192f995510a37b90d784fed28c6e"
   ]
 }
