@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/counting-the-cost/2025/7/24/china-v-eu-the-fight-for-europes-electric-vehicle-market?traffic_source=rss",
-    "https://www.deutschlandfunk.de/welthungerhilfe-mehr-als-730-millionen-menschen-von-hunger-betroffen-100.html",
-    "https://www.deutschlandfunk.de/eu-china-gipfel-bruessel-und-peking-sprechen-ueber-handel-und-ukraine-krieg-100.html",
     "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-industrie-leidet-unter-verschobenen-us-investitionen-a-1619865b-2851-46fb-b7b9-92889f326c3e#ref=rss",
     "https://www.deutschlandfunk.de/grenzkonflikt-zwischen-thailand-und-kambodscha-eskaliert-mehrere-tote-102.html",
     "https://www.deutschlandfunk.de/afd-in-brandenburg-zieht-eilantrag-gegen-einstufung-als-gesichert-rechtsextrem-zurueck-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/landesweite-proteste-gegen-republikanische-wahlkreis-plaene-fuer-texas-100.html",
     "https://www.aljazeera.com/news/2025/8/17/russia-ukraine-war-list-of-key-events-day-1270?traffic_source=rss",
     "https://www.deutschlandfunk.de/deutsche-bahn-fahrgastverband-schlaegt-nachfolgerin-fuer-lutz-vor-100.html",
-    "https://www.deutschlandfunk.de/streik-bei-air-canada-kanadische-regierung-leitet-schlichtungsverfahren-ein-100.html"
+    "https://www.deutschlandfunk.de/streik-bei-air-canada-kanadische-regierung-leitet-schlichtungsverfahren-ein-100.html",
+    "https://www.deutschlandfunk.de/auf-bitten-von-trump-mehrere-republikanisch-gefuehrte-bundesstaaten-entsenden-nationalgardisten-in-d-100.html",
+    "https://www.deutschlandfunk.de/warum-es-in-den-usa-landesweite-proteste-gegen-geplante-wahlkreis-neuzuschnitte-in-texas-gibt-100.html",
+    "https://www.deutschlandfunk.de/nabu-sieht-zunehmende-private-haltung-von-honigbienen-kritisch-102.html"
   ],
   "content_hashes": [
-    "69cad68ca8978498acbd568bef0ca272",
-    "ec06fee8209ca33100233abf6f2ce3c3",
-    "d5b3e643402acf43a92eaf70c6490090",
     "32d6b3952122d549c4ac0806735d6b1f",
     "527ffb3238e2e0b4ab2886eadd7b8df8",
     "0649b8509523f1138b73928ec033bc40",
@@ -2001,12 +1998,12 @@
     "745362a4ddae2c3ceba7034381274d64",
     "573f3042756803534c261cee03561ee9",
     "849c5e59554abf9055e1cc6377461060",
-    "264474c1d1856a60e7ee97298174684c"
+    "264474c1d1856a60e7ee97298174684c",
+    "2e87fa758180f139a5954778f986d247",
+    "dd06a78a14f55c9725ddc39b435f33f4",
+    "58aee95dfd842bcdbae75f36daf7ec12"
   ],
   "titles": [
-    "China v EU: The fight for Europe’s electric vehicle market",
-    "Kritik an Entwicklungshilfe-Kürzungen - Welthungerhilfe: mehr als 730 Millionen Menschen von Hunger betroffen",
-    "50 Jahre diplomatische Beziehungen - EU-China-Gipfel: Brüssel und Peking sprechen über Handel und Ukraine-Krieg",
     "Wirtschaft in Deutschland: Industrie leidet unter verschobenen US-Investitionen",
     "Südostasien - Grenzkonflikt zwischen Thailand und Kambodscha eskaliert - mehrere Tote",
     "Verfassungsschutz - AfD in Brandenburg zieht Eilantrag gegen Einstufung als gesichert rechtsextrem zurück",
@@ -3003,12 +3000,12 @@
     "USA - Landesweite Proteste gegen republikanische Wahlkreis-Pläne für Texas",
     "Russia-Ukraine war: List of key events, day 1,270",
     "Staatskonzern - Deutsche Bahn: Fahrgastverband schlägt Nachfolgerin für Lutz vor",
-    "Tarifkonflikt - Streik bei Air Canada: Kanadische Regierung leitet Schlichtungsverfahren ein"
+    "Tarifkonflikt - Streik bei Air Canada: Kanadische Regierung leitet Schlichtungsverfahren ein",
+    "USA - Auf Bitten von Trump: Mehrere republikanisch geführte Bundesstaaten entsenden Nationalgardisten in die Hauptstadt Washington",
+    "Gerrymandering - Warum es in den USA landesweite Proteste gegen geplante Wahlkreis-Neuzuschnitte in Texas gibt",
+    "Naturschutzbund Deutschland - Nabu sieht zunehmende private Haltung von Honigbienen kritisch"
   ],
   "hashes": [
-    "4628cf19078474c506b61966d1da217c",
-    "3a272f8f99a019d7c538a00ecfb5a9a2",
-    "ba52bc0492bf6ce6fc8b6f10f4b8e74c",
     "abc26b48231b51bbcfead931440aff25",
     "c9c1e982d1f71cfe7a2194310738446f",
     "8a6dff4253b56f11c55ed1837967daeb",
@@ -4005,6 +4002,9 @@
     "15315ff569ab4f301c1549a8094e2449",
     "faa61087328b59ce65de2c8acc5f8b50",
     "a6170ddfc4497ee863c76237d487daa4",
-    "341a192f995510a37b90d784fed28c6e"
+    "341a192f995510a37b90d784fed28c6e",
+    "66ab96c8613156c85243067623af405a",
+    "d4c14eaf8979f910ff27aaedc17e0027",
+    "f148e9bd998364fc71db37537574861b"
   ]
 }
