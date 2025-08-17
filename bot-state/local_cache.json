@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afd-in-brandenburg-zieht-eilantrag-gegen-einstufung-als-gesichert-rechtsextrem-zurueck-100.html",
-    "https://www.deutschlandfunk.de/verdienstgrenze-in-minijobs-steigt-durch-hoeheren-mindestlohn-102.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-und-gaza-diplomaten-sind-keine-politiker-110605178.html",
     "https://www.deutschlandfunk.de/slowenien-erlaubt-assistierten-suizid-fuer-schwerkranke-100.html",
     "https://www.deutschlandfunk.de/appell-von-nachrichtenagenturen-und-bbc-auch-journalisten-im-gazastreifen-leiden-unter-nahrungsmitte-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/warum-es-in-den-usa-landesweite-proteste-gegen-geplante-wahlkreis-neuzuschnitte-in-texas-gibt-100.html",
     "https://www.deutschlandfunk.de/nabu-sieht-zunehmende-private-haltung-von-honigbienen-kritisch-102.html",
     "https://www.deutschlandfunk.de/israel-bereitet-evakuierung-von-palaestinensern-vor-100.html",
-    "https://www.deutschlandfunk.de/israelisches-militaer-greift-energieanlage-im-jemen-an-100.html"
+    "https://www.deutschlandfunk.de/israelisches-militaer-greift-energieanlage-im-jemen-an-100.html",
+    "https://www.deutschlandfunk.de/jurist-kai-ambos-trump-und-putin-haben-mit-voelkerrecht-nichts-am-hut-102.html",
+    "https://www.deutschlandfunk.de/sozialverband-vdk-schulstart-belastet-einkommensschwache-familien-gefahr-fuer-gleiche-bildungschance-100.html"
   ],
   "content_hashes": [
-    "0649b8509523f1138b73928ec033bc40",
-    "bcc573233c043a5900f0c0d294c120f8",
     "b9d5550b8cf97d12eda992c1e6ca03f5",
     "473bc0502ab01e1fec8a5e38ec745ff8",
     "b42826776ff17e4bb0e1f992d149bf8f",
@@ -2001,11 +1999,11 @@
     "dd06a78a14f55c9725ddc39b435f33f4",
     "58aee95dfd842bcdbae75f36daf7ec12",
     "d10ceea2205057b824c497f4da2c7d99",
-    "a6ef854531da77f0b2056e9f4820095d"
+    "a6ef854531da77f0b2056e9f4820095d",
+    "0521e920840f8a20435bc4c26dd18029",
+    "94c006eb5347daea1070c5cfb13c66fc"
   ],
   "titles": [
-    "Verfassungsschutz - AfD in Brandenburg zieht Eilantrag gegen Einstufung als gesichert rechtsextrem zurück",
-    "Geringfügige Beschäftigungen - Verdienstgrenze in Minijobs steigt durch höheren Mindestlohn",
     "Deutschland und Gaza: Diplomaten sind keine Politiker",
     "Parlamentsbeschluss - Slowenien erlaubt assistierten Suizid für Schwerkranke",
     "Krieg in Nahost - Appell von Nachrichtenagenturen und BBC: Auch Journalisten im Gazastreifen leiden unter Nahrungsmittelmangel",
@@ -3003,11 +3001,11 @@
     "Gerrymandering - Warum es in den USA landesweite Proteste gegen geplante Wahlkreis-Neuzuschnitte in Texas gibt",
     "Naturschutzbund Deutschland - Nabu sieht zunehmende private Haltung von Honigbienen kritisch",
     "Gaza-Kriegspläne - Israel bereitet Evakuierung von Palästinensern vor",
-    "Nahost - Israelisches Militär greift Energieanlage im Jemen an"
+    "Nahost - Israelisches Militär greift Energieanlage im Jemen an",
+    "Alaska-Gipfel - Jurist Kai Ambos: Trump und Putin haben mit Völkerrecht nichts am Hut",
+    "Sozialverband VdK: Schulstart belastet einkommensschwache Familien - Gefahr für gleiche Bildungschancen"
   ],
   "hashes": [
-    "8a6dff4253b56f11c55ed1837967daeb",
-    "ec8b9c1ff0c3f645f1c7f18a25bf1f6b",
     "c4f1b39fc8a8cf832ad7c76b51eec327",
     "2e1071694de2b8277f4796c4641697a7",
     "ff8c634847965a4acada286f0b081192",
@@ -4005,6 +4003,8 @@
     "d4c14eaf8979f910ff27aaedc17e0027",
     "f148e9bd998364fc71db37537574861b",
     "cfbd7796277a638ba082925b4acb50d2",
-    "d45b543322ecc7ebdfea422bf03001ca"
+    "d45b543322ecc7ebdfea422bf03001ca",
+    "3411aa59a0faec0680da2092fb63134e",
+    "c43f45bf6a771d3d1177f8deed980c00"
   ]
 }
