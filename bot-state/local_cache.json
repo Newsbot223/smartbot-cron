@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-ruecktritt-von-landtagsvize-110607784.html",
-    "https://www.faz.net/aktuell/politik/inland/spremberg-debatte-zu-vorgehen-gegen-rechtsextremismus-entbrannt-110607606.html",
-    "https://www.deutschlandfunk.de/thailand-verhaengt-kriegsrecht-uno-sicherheitsrat-setzt-dringlichkeitssitzung-an-102.html",
     "https://www.deutschlandfunk.de/jeder-zweite-eu-buerger-hortet-sein-altes-smartphone-lieber-als-es-loszuwerden-104.html",
     "https://www.deutschlandfunk.de/ema-empfiehlt-zulassung-von-weiterem-medikament-102.html",
     "https://www.deutschlandfunk.de/spatenstich-fuer-stromtrasse-suedlink-in-bayern-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nach-klingbeil-aeusserungen-union-lehnt-steuererhoehungen-ab-bilger-cdu-der-falsche-weg-102.html",
     "https://www.deutschlandfunk.de/sohn-von-kronprinzessin-wegen-vierfacher-vergewaltigung-angeklagt-102.html",
     "https://www.faz.net/aktuell/politik/inland/antisemitismus-in-europa-juden-fuehlen-sich-bedroht-110642849.html",
-    "https://www.deutschlandfunk.de/ukraine-greift-pumpstation-in-russland-an-lieferung-durch-druschba-pipeline-unterbrochen-ungarn-besc-100.html"
+    "https://www.deutschlandfunk.de/ukraine-greift-pumpstation-in-russland-an-lieferung-durch-druschba-pipeline-unterbrochen-ungarn-besc-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-eu-im-mai-um-30-prozent-niedriger-gegenueber-dem-vorjahr-102.html",
+    "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-sie-hat-angst-gehasst-zu-werden-weil-sie-juedin-ist-110639221.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html"
   ],
   "content_hashes": [
-    "dc361947e7815d51fb7610abcfbc3274",
-    "0434946fb1798f2d94f3ada7b63bc58a",
-    "da3bfafc208ab91c6a80b3b5490eb081",
     "cc2d0844497793e548ce02e12ad1808f",
     "5f01e203c9368217b511f2bcf54d9bae",
     "f8e7dbf5efe310d0d02a5272e34be606",
@@ -2001,12 +1998,12 @@
     "6bdb5744dffc70bb767a87e570f3c4d8",
     "2ea014598633c56640b7cf548de1b337",
     "061c4e611dcaf62924bf13a334f479da",
-    "66d6c491ccb9af33682499f6458a5c4e"
+    "66d6c491ccb9af33682499f6458a5c4e",
+    "3a3493875492707cae2084550816973f",
+    "bb4cb40a42b71cc53a11d87d283a93b3",
+    "5eed8b2b2a555209a75a45f6da754e74"
   ],
   "titles": [
-    "Baden-Württemberg: Landtagsvizepräsident der SPD tritt nach Hakenkreuz-Skandal zurück",
-    "Spremberg: Debatte zu Vorgehen gegen Rechtsextremismus entbrannt",
-    "Grenzkonflikt - Thailand verhängt Kriegsrecht - UNO-Sicherheitsrat setzt Dringlichkeitssitzung an",
     "Statistik - Jeder zweite EU-Bürger hortet sein altes Smartphone lieber als es loszuwerden",
     "Alzheimer - EMA empfiehlt Zulassung von weiterem Medikament",
     "Energiewende - Spatenstich für Stromtrasse Suedlink in Bayern",
@@ -3003,12 +3000,12 @@
     "Staatsfinanzen - Nach Klingbeil-Äußerungen: Union lehnt Steuererhöhungen ab - Bilger (CDU): \"Der falsche Weg\"",
     "Norwegen - Sohn von Kronprinzessin wegen vierfacher Vergewaltigung angeklagt",
     "Antisemitismus: Die Juden sind allein in Europa",
-    "Erklärung des Generalstabs - Ukraine greift Pumpstation in Russland an - Lieferung durch Druschba-Pipeline unterbrochen - Ungarn beschwert sich"
+    "Erklärung des Generalstabs - Ukraine greift Pumpstation in Russland an - Lieferung durch Druschba-Pipeline unterbrochen - Ungarn beschwert sich",
+    "Eurostat-Zahlen - Zahl der Asylanträge in EU im Mai um 30 Prozent niedriger gegenüber dem Vorjahr",
+    "Jüdisches Leben: „Angst, dass ich gehasst werde, weil ich Jüdin bin“",
+    "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos"
   ],
   "hashes": [
-    "166e639cdc08e11541a8d7bb2d7e8524",
-    "beacc2d3d55c317a17a973f0261476eb",
-    "8269aa6a5598f7f5130a747ece2a5ebc",
     "c77659019eac6feeac1b1373a675755c",
     "1b829750c8316f78c1818db5ea28a57a",
     "8cc1244a509bac3c93b942bffda30e17",
@@ -4005,6 +4002,9 @@
     "5033c8f39c912f609f72fb6d0a91b2c3",
     "064e81c113104200e819e9b409772e21",
     "9e972ccefa5a0dc3e9a5fa8fc45d46fc",
-    "49ac63f9658c157bac6c4489b9caed60"
+    "49ac63f9658c157bac6c4489b9caed60",
+    "d225a25f135a49667b78bd7a35230083",
+    "28c3e58ad55e9febe651f8c32789df33",
+    "6f54b8601977211f5ba73bfa0f099bfa"
   ]
 }
