@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/gaza-friedrich-merz-emmanuel-macron-und-keir-starmer-fordern-stopp-der-beschraenkungen-fuer-hilfslieferungen-a-11073155-f543-4cd8-8f7c-e2d6e24252fa#ref=rss",
-    "https://www.aljazeera.com/gallery/2025/7/25/us-military-expands-enforcement-role-at-mexican-border-under-donald-trump?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/was-das-aus-der-intelfabrik-fuer-sachsen-anhalt-bedeutet-110608155.html",
     "https://www.faz.net/aktuell/politik/inland/palantir-alternativen-zur-umstrittenen-polizei-software-110608279.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-einzelfoerderungen-kuenftig-besser-pruefen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hamas-erklaert-zustimmung-fuer-neuen-waffenruhe-vorschlag-100.html",
     "https://www.deutschlandfunk.de/trump-beraet-mit-selenskyj-und-europaeischen-spitzenpolitikern-ueber-ukraine-krieg-100.html",
     "https://www.faz.net/aktuell/politik/inland/maedchen-greift-in-paderborn-betreuerin-mit-messer-an-110642987.html",
-    "https://www.deutschlandfunk.de/beratungen-im-weissen-haus-ueber-ukraine-krieg-trump-unterbricht-gespraeche-zwischenzeitlich-fuer-te-100.html"
+    "https://www.deutschlandfunk.de/beratungen-im-weissen-haus-ueber-ukraine-krieg-trump-unterbricht-gespraeche-zwischenzeitlich-fuer-te-100.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-friedenssicherung-mit-deutschen-soldaten-in-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/behoerden-oeffnen-massengrab-mit-opfern-des-is-100.html"
   ],
   "content_hashes": [
-    "aa0639bfa30fed14049d1bc6d5254cca",
-    "420f530e88c6eecb18c1000a186e855d",
     "84f75d787f0a1e5bf5eaf909d4d468a9",
     "27a6ba61944b8fd95ed2b3133f53d5b2",
     "c82557ddd443afdf3a203fe58b78213e",
@@ -2001,11 +1999,11 @@
     "74f1f47caa238411368f72b8fb9d07c1",
     "095fca666457aeae6809cd72f5f987f0",
     "82c6293259a39b1efd800e445503ad63",
-    "e2237030c6161dbb45f750be0ba64b28"
+    "e2237030c6161dbb45f750be0ba64b28",
+    "32436b0f32a3ce5f57e748a1c8a2fd21",
+    "2c330af701fb490e83fc930f41d4cfff"
   ],
   "titles": [
-    "Gaza: Friedrich Merz, Emmanuel Macron und Keir Starmer fordern Stopp der Beschränkungen für Hilfslieferungen",
-    "US military expands enforcement role at Mexican border under Donald Trump",
     "Sachsen-Anhalt: Was das Aus der Intelfabrik bedeutet",
     "Streit in Stuttgart: Hätte es Alternativen zu Palantir gegeben?",
     "Staatliche Milliarden-Subventionen - Bundeswirtschaftsministerin Reiche: \"Einzelförderungen künftig besser prüfen\"",
@@ -3003,11 +3001,11 @@
     "Krieg im Gazastreifen - Hamas erklärt Zustimmung für neuen Waffenruhe-Vorschlag",
     "Washington - Trump berät mit Selenskyj und europäischen Spitzenpolitikern über Ukraine-Krieg",
     "In psychiatrischer Klinik: Mädchen greift Betreuerin mit Küchenmesser an",
-    "Washington - Beratungen im Weißen Haus über Ukraine-Krieg - Trump unterbricht Gespräche zwischenzeitlich für Telefonat mit Putin"
+    "Washington - Beratungen im Weißen Haus über Ukraine-Krieg - Trump unterbricht Gespräche zwischenzeitlich für Telefonat mit Putin",
+    "Sicherheitsgarantien - Debatte über Friedenssicherung mit deutschen Soldaten in der Ukraine",
+    "Irak - Behörden öffnen Massengrab mit Opfern des IS"
   ],
   "hashes": [
-    "32799b2dad8861a47da5cd5d8847f19f",
-    "331960f3c17b1973d0b9420202dd695c",
     "b915ae01a91d020a5ed08ad31a83c2d1",
     "cc1e270433bb9ef4f2539d86c5ab4b91",
     "fd268856f6697c7f6fc0caee00b4514f",
@@ -4005,6 +4003,8 @@
     "bd9182b1bd6d811456fbb6c856bffaef",
     "2abd328c2d501a44d4a71f12373fc3db",
     "133386f221b56b316cb0b5d203ed185d",
-    "20adb6c8a62913060b241306e36b70fa"
+    "20adb6c8a62913060b241306e36b70fa",
+    "701b54f259e221d972502193e058543b",
+    "febd367d6fffc4adf8fcb543d3d52dd5"
   ]
 }
