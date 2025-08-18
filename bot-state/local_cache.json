@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-abschiebungen-im-ersten-halbjahr-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/mindestens-15-tote-bei-gefechten-zwischen-thailand-und-kambodscha-100.html",
     "https://www.spiegel.de/politik/joachim-gauck-haelt-israels-kriegsfuehrung-im-gazastreifen-fuer-unverantwortlich-a-8df936af-fdac-4e3c-8edf-15ea5a078175#ref=rss",
     "https://www.deutschlandfunk.de/trump-unterzeichnet-gesetz-fuer-kuerzungen-bei-oeffentlichem-rundfunk-und-auslandshilfen-100.html",
     "https://www.deutschlandfunk.de/offener-dissens-bei-treffen-zwischen-trump-und-notenbankchef-powell-vor-laufenden-kameras-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-reist-nach-washington-was-sich-ukraine-erhofft-100.html",
     "https://www.faz.net/aktuell/politik/ausland/drohungen-der-hizbullah-libanons-dilemma-110641601.html",
     "https://www.deutschlandfunk.de/welthungerhilfe-kritisiert-zunehmende-angriffe-auf-helfer-100.html",
-    "https://www.deutschlandfunk.de/gew-vorsitzende-finnern-verbeamtung-macht-lehrerberuf-attraktiv-100.html"
+    "https://www.deutschlandfunk.de/gew-vorsitzende-finnern-verbeamtung-macht-lehrerberuf-attraktiv-100.html",
+    "https://www.deutschlandfunk.de/spanien-schickt-500-weitere-soldaten-in-besonders-betroffene-gebiete-erneut-feuerwehrmann-gestorben-102.html",
+    "https://www.spiegel.de/ausland/johann-wadephul-aussenminister-kritisiert-chinas-unterstuetzung-der-russischen-kriegsmaschinerie-a-9cd490e8-f3b4-49c4-b67e-d8da897b38f3#ref=rss"
   ],
   "content_hashes": [
-    "c2584c0b755f8d4c710b11a8ef2b1e95",
-    "d0c08500104cde9d07bb1001ab89db5b",
     "f3908ee10abc98b213570b9caa9f1848",
     "b6fdda538656b25467d3336e235cf3ee",
     "ed5cd80206bb774bd14a1c409ceeb1ac",
@@ -2001,11 +1999,11 @@
     "962ba6dc195e0cf1ec5e961ea25608ac",
     "e9aecdcbcba5ddccabe4a50e4e007061",
     "d3058526350817b85b75359d14f9ef04",
-    "adc83036260a0ec387d251ce3e9778d1"
+    "adc83036260a0ec387d251ce3e9778d1",
+    "208ab1c46a0a76f2e66328fee076c00b",
+    "b22b3d28832c10db6952f94a15be66c4"
   ],
   "titles": [
-    "Migration - Zahl der Abschiebungen im ersten Halbjahr gestiegen",
-    "Südostasien - Mindestens 15 Tote bei Gefechten zwischen Thailand und Kambodscha",
     "Joachim Gauck hält Israels Kriegsführung im Gazastreifen für unverantwortlich",
     "USA - Trump unterzeichnet Gesetz für Kürzungen bei öffentlichem Rundfunk und Auslandshilfen",
     "USA - Offener Dissens bei Treffen zwischen Trump und Notenbankchef Powell vor laufenden Kameras",
@@ -3003,11 +3001,11 @@
     "Treffen im Weißen Haus - Selenskyj fordert Sicherheitsgarantien für sein Land",
     "Drohungen der Hizbullah: Libanons Dilemma",
     "Welttag der humanitären Hilfe - Welthungerhilfe kritisiert zunehmende Angriffe auf Helfer",
-    "Bildung - GEW-Vorsitzende Finnern: \"Verbeamtung macht Lehrerberuf attraktiv\""
+    "Bildung - GEW-Vorsitzende Finnern: \"Verbeamtung macht Lehrerberuf attraktiv\"",
+    "Waldbrände - Spanien schickt 500 weitere Soldaten in besonders betroffene Gebiete - erneut Feuerwehrmann gestorben",
+    "Johann Wadephul: Außenminister kritisiert Chinas Unterstützung der russischen Kriegsmaschinerie"
   ],
   "hashes": [
-    "fb3aa76a21a4545205fc8bc7467d96ce",
-    "47d1f82086d94b31cef8b05e0f54c38b",
     "4f5243a1718fcb6a6712e2b9585ffedf",
     "43667e1d0e81b897a4818c97fa567ad5",
     "80f9f7bb15a281c61fc54320235f56a0",
@@ -4005,6 +4003,8 @@
     "14c674cc7e0670e7ab26c034f5312ac7",
     "2d81509726484360979c33270f090255",
     "10090851b51a5f8310ed1eb631125bbf",
-    "43d4b74ebc6c42163bf9b12f474f1388"
+    "43d4b74ebc6c42163bf9b12f474f1388",
+    "21ec28c7e177fe0df97ebfbd2b390f1f",
+    "1ddd745862cf11fca0c877844dee93a9"
   ]
 }
