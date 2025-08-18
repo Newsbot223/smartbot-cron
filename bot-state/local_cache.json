@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/paragraph-218-passt-laut-unions-gutachten-zum-koalitionsvertrag-110608583.html",
-    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-kuendigt-treffen-mit-us-praesident-trump-an-102.html",
     "https://www.deutschlandfunk.de/alabali-radovan-bei-g20-treffen-kfw-bank-vergibt-millionen-kredit-an-suedafrika-fuer-energiewende-100.html",
     "https://www.spiegel.de/politik/deutschland/gaza-friedrich-merz-emmanuel-macron-und-keir-starmer-fordern-stopp-der-beschraenkungen-fuer-hilfslieferungen-a-11073155-f543-4cd8-8f7c-e2d6e24252fa#ref=rss",
     "https://www.aljazeera.com/gallery/2025/7/25/us-military-expands-enforcement-role-at-mexican-border-under-donald-trump?traffic_source=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schlimmste-waldbraende-in-spanien-seit-20-jahren-100.html",
     "https://www.deutschlandfunk.de/treffen-zwischen-trump-und-selenskyj-ueber-ukraine-krieg-begonnen-100.html",
     "https://www.deutschlandfunk.de/treffen-zwischen-trump-und-selenskyj-ueber-ukraine-krieg-trump-weicht-fragen-zu-sicherheitsgarantien-100.html",
-    "https://www.deutschlandfunk.de/hamas-erklaert-zustimmung-fuer-neuen-waffenruhe-vorschlag-100.html"
+    "https://www.deutschlandfunk.de/hamas-erklaert-zustimmung-fuer-neuen-waffenruhe-vorschlag-100.html",
+    "https://www.deutschlandfunk.de/trump-beraet-mit-selenskyj-und-europaeischen-spitzenpolitikern-ueber-ukraine-krieg-100.html",
+    "https://www.faz.net/aktuell/politik/inland/maedchen-greift-in-paderborn-betreuerin-mit-messer-an-110642987.html"
   ],
   "content_hashes": [
-    "9879677c6094a3853b0c82c48e2b67e3",
-    "d1ec1cc3c7951ec256f8749431f0e964",
     "3cb4c7b92a183f3eb3f5bfa33583e956",
     "aa0639bfa30fed14049d1bc6d5254cca",
     "420f530e88c6eecb18c1000a186e855d",
@@ -2001,11 +1999,11 @@
     "b1271d5d6cb5204f4f783fc275c9ffd8",
     "437bc882f42c12cb88b2125f22251063",
     "21f42b767a590626b37c373de3495e0a",
-    "74f1f47caa238411368f72b8fb9d07c1"
+    "74f1f47caa238411368f72b8fb9d07c1",
+    "095fca666457aeae6809cd72f5f987f0",
+    "82c6293259a39b1efd800e445503ad63"
   ],
   "titles": [
-    "Streit um Abtreibungen: Paragraph 218 passt laut Unions-Gutachten zum Koalitionsvertrag",
-    "Handelskonflikt - EU-Kommissionspräsidentin von der Leyen kündigt Treffen mit US-Präsident Trump an",
     "Entwicklungshilfe - Alabali Radovan bei G20-Treffen: KfW-Bank vergibt Millionen-Kredit an Südafrika für Energiewende",
     "Gaza: Friedrich Merz, Emmanuel Macron und Keir Starmer fordern Stopp der Beschränkungen für Hilfslieferungen",
     "US military expands enforcement role at Mexican border under Donald Trump",
@@ -3003,11 +3001,11 @@
     "Waldbrände - Schlimmste Waldbrände in Spanien seit 20 Jahren",
     "Washington - Treffen zwischen Trump und Selenskyj über Ukraine-Krieg begonnen",
     "Washington - Treffen zwischen Trump und Selenskyj über Ukraine-Krieg - Trump weicht Fragen zu Sicherheitsgarantien aus",
-    "Krieg im Gazastreifen - Hamas erklärt Zustimmung für neuen Waffenruhe-Vorschlag"
+    "Krieg im Gazastreifen - Hamas erklärt Zustimmung für neuen Waffenruhe-Vorschlag",
+    "Washington - Trump berät mit Selenskyj und europäischen Spitzenpolitikern über Ukraine-Krieg",
+    "In psychiatrischer Klinik: Mädchen greift Betreuerin mit Küchenmesser an"
   ],
   "hashes": [
-    "552aa53870feb2269500a6bc683121ee",
-    "68ef6ae9dd785d384a19ac91145d5d79",
     "80466061680c0d85a385db35b9d9d2af",
     "32799b2dad8861a47da5cd5d8847f19f",
     "331960f3c17b1973d0b9420202dd695c",
@@ -4005,6 +4003,8 @@
     "8b7d8eb466edefebd81497cd3f9966c7",
     "216fc92d7466bcbb0efc09f59e185e96",
     "ed0c51941fd64b3d9e0aba44d5afc25c",
-    "bd9182b1bd6d811456fbb6c856bffaef"
+    "bd9182b1bd6d811456fbb6c856bffaef",
+    "2abd328c2d501a44d4a71f12373fc3db",
+    "133386f221b56b316cb0b5d203ed185d"
   ]
 }
