@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/macron-frankreich-wird-palaestinensischen-staat-im-september-anerkennen-104.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-110606572.html",
     "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/intel-chipkonzern-sagt-plaene-fuer-fabrik-in-deutschland-ab-a-5dfcdccf-44b3-45eb-a916-5433a6085498#ref=rss",
     "https://www.deutschlandfunk.de/ben-o-connor-gewinnt-alpenetappe-am-col-de-la-loze-108.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-hartes-vorgehen-gegen-regierungskritiker-an-102.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-russischen-angriffen-aus-der-luft-102.html",
     "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-haerteres-vorgehen-gegen-regierungskritische-demonstranten-an-100.html",
-    "https://www.deutschlandfunk.de/hochrechnungen-sehen-christdemokraten-paz-vorne-stichwahl-wahrscheinlich-100.html"
+    "https://www.deutschlandfunk.de/hochrechnungen-sehen-christdemokraten-paz-vorne-stichwahl-wahrscheinlich-100.html",
+    "https://www.deutschlandfunk.de/mehrere-verletzte-bei-erneuten-russischen-angriffen-100.html",
+    "https://www.deutschlandfunk.de/christdemokrat-paz-ueberraschend-vorne-linke-regierungspartei-abgestraft-102.html"
   ],
   "content_hashes": [
-    "4a4c307e657c28dc4c1d90decab5397a",
-    "6eb2498ac15116a5eaebc1ad6350c99e",
     "77d8861a35bce9c208208e39bf55b469",
     "29a645fe156677773f36875d0e13268e",
     "f765d37d8fc4365e19cf6397580bb455",
@@ -2001,11 +1999,11 @@
     "44e1f8131a1f3f9192547ea8bd2cda21",
     "cdc6ec3dae02c63c8abaa3e7c54df2dd",
     "b52e375e56dc0ddcea243e92d5763e5c",
-    "30e8554f611cd58ec4a147db185556f2"
+    "30e8554f611cd58ec4a147db185556f2",
+    "ec870ea6acf683839d5767a9240fcf2b",
+    "cf8090171853b23c09fa3416cfdb7c23"
   ],
   "titles": [
-    "Nahost - Macron: \"Frankreich wird palästinensischen Staat im September anerkennen\"",
-    "Baden-Württemberg: Ermittlungen nach Hakenkreuz auf Stimmzettel",
     "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf",
     "Intel: Chipkonzern sagt Pläne für Fabrik in Deutschland ab",
     "Tour de France - Ben O'Connor gewinnt Alpenetappe am Col de la Loze",
@@ -3003,11 +3001,11 @@
     "Serbien - Präsident Vucic kündigt hartes Vorgehen gegen Regierungskritiker an",
     "Ukraine Krieg - Mehrere Verletzte bei russischen Angriffen aus der Luft",
     "Serbien - Präsident Vucic kündigt härteres Vorgehen gegen regierungskritische Demonstranten an",
-    "Präsidentschaftswahl in Bolivien - Hochrechnungen sehen Christdemokraten Paz vorne - Stichwahl wahrscheinlich"
+    "Präsidentschaftswahl in Bolivien - Hochrechnungen sehen Christdemokraten Paz vorne - Stichwahl wahrscheinlich",
+    "Ukraine Krieg - Mehrere Verletzte bei erneuten russischen Angriffen",
+    "Präsidentschaftswahl in Bolivien - Christdemokrat Paz überraschend vorne - Linke Regierungspartei abgestraft"
   ],
   "hashes": [
-    "f1d113ab437687fdaf99a1c62f979683",
-    "1dc7237845cc24a12db98fd98515d822",
     "f41bc07d6a414921ae0fa62fd57e8faa",
     "39f4c948ce94567a46e07f104db6d744",
     "610a777152506172504a789fe56eb97a",
@@ -4005,6 +4003,8 @@
     "2c52f1e3dd60643588b8e89d37d7d757",
     "9c493912bf616e91c3f19baef4248b3b",
     "9c8e5c4268370062167b04132214d926",
-    "41f87be1a7166c6f501c870c1af2db1b"
+    "41f87be1a7166c6f501c870c1af2db1b",
+    "3e10d6beff4866427b6c3a265a558ca8",
+    "5bd2349afc6e11334ddbdbedcf4273ce"
   ]
 }
