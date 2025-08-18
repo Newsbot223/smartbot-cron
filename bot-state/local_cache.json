@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/was-das-aus-der-intelfabrik-fuer-sachsen-anhalt-bedeutet-110608155.html",
     "https://www.faz.net/aktuell/politik/inland/palantir-alternativen-zur-umstrittenen-polizei-software-110608279.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-einzelfoerderungen-kuenftig-besser-pruefen-100.html",
     "https://www.spiegel.de/ausland/iran-deutschland-frankreich-und-grossbritannien-fuehren-neue-atomgespraeche-a-b4f5849f-90d7-4360-9d8a-6a7ee3c8c2a5#ref=rss",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/maedchen-greift-in-paderborn-betreuerin-mit-messer-an-110642987.html",
     "https://www.deutschlandfunk.de/beratungen-im-weissen-haus-ueber-ukraine-krieg-trump-unterbricht-gespraeche-zwischenzeitlich-fuer-te-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-friedenssicherung-mit-deutschen-soldaten-in-der-ukraine-100.html",
-    "https://www.deutschlandfunk.de/behoerden-oeffnen-massengrab-mit-opfern-des-is-100.html"
+    "https://www.deutschlandfunk.de/behoerden-oeffnen-massengrab-mit-opfern-des-is-100.html",
+    "https://www.deutschlandfunk.de/hamas-erklaert-zustimmung-fuer-neuen-waffenruhe-vorschlag-netanjahu-zurueckhaltend-100.html"
   ],
   "content_hashes": [
-    "84f75d787f0a1e5bf5eaf909d4d468a9",
     "27a6ba61944b8fd95ed2b3133f53d5b2",
     "c82557ddd443afdf3a203fe58b78213e",
     "3fcd69cc9a05ed0765e87148044a9be4",
@@ -2001,10 +2000,10 @@
     "82c6293259a39b1efd800e445503ad63",
     "e2237030c6161dbb45f750be0ba64b28",
     "32436b0f32a3ce5f57e748a1c8a2fd21",
-    "2c330af701fb490e83fc930f41d4cfff"
+    "2c330af701fb490e83fc930f41d4cfff",
+    "773d542d9350ff7ab583cd253a7b6f4e"
   ],
   "titles": [
-    "Sachsen-Anhalt: Was das Aus der Intelfabrik bedeutet",
     "Streit in Stuttgart: Hätte es Alternativen zu Palantir gegeben?",
     "Staatliche Milliarden-Subventionen - Bundeswirtschaftsministerin Reiche: \"Einzelförderungen künftig besser prüfen\"",
     "Iran: Deutschland, Frankreich und Großbritannien führen neue Atomgespräche",
@@ -3003,10 +3002,10 @@
     "In psychiatrischer Klinik: Mädchen greift Betreuerin mit Küchenmesser an",
     "Washington - Beratungen im Weißen Haus über Ukraine-Krieg - Trump unterbricht Gespräche zwischenzeitlich für Telefonat mit Putin",
     "Sicherheitsgarantien - Debatte über Friedenssicherung mit deutschen Soldaten in der Ukraine",
-    "Irak - Behörden öffnen Massengrab mit Opfern des IS"
+    "Irak - Behörden öffnen Massengrab mit Opfern des IS",
+    "Krieg im Gazastreifen - Hamas erklärt Zustimmung für neuen Waffenruhe-Vorschlag - Netanjahu zurückhaltend"
   ],
   "hashes": [
-    "b915ae01a91d020a5ed08ad31a83c2d1",
     "cc1e270433bb9ef4f2539d86c5ab4b91",
     "fd268856f6697c7f6fc0caee00b4514f",
     "0dab04d7a650035e67101005f6c34991",
@@ -4005,6 +4004,7 @@
     "133386f221b56b316cb0b5d203ed185d",
     "20adb6c8a62913060b241306e36b70fa",
     "701b54f259e221d972502193e058543b",
-    "febd367d6fffc4adf8fcb543d3d52dd5"
+    "febd367d6fffc4adf8fcb543d3d52dd5",
+    "5516541c39a3f94288fae2ca963f6508"
   ]
 }
