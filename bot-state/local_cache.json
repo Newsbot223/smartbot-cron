@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-ziehen-delegation-von-vermittlungen-in-katar-ab-und-werfen-hamas-fehlenden-einigungswillen-vor-100.html",
-    "https://www.spiegel.de/ausland/ukraine-wolodymyr-selenskyj-legt-neues-anti-korruptionsgesetz-vor-a-483636ae-0415-43a0-813c-947473c22ead#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/was-bringt-eine-meldepflicht-fuer-psychisch-kranke-wie-hessen-sie-einfuehren-will-110596131.html",
     "https://www.deutschlandfunk.de/macron-frankreich-wird-palaestinensischen-staat-im-september-anerkennen-104.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgarter-landtag-hakenkreuz-auf-stimmzettel-geschmiert-110606572.html",
     "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wahllokale-bei-praesidentschafts-und-parlamentswahl-in-bolivien-geschlossen-100.html",
     "https://www.faz.net/aktuell/politik/inland/heidelberg-mannheim-groesstes-deutsches-forschungszentrum-entsteht-110632406.html",
     "https://www.deutschlandfunk.de/wadephul-beginnt-mehrtaegigen-besuch-in-japan-und-indonesien-102.html",
-    "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-hartes-vorgehen-gegen-regierungskritiker-an-102.html"
+    "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-hartes-vorgehen-gegen-regierungskritiker-an-102.html",
+    "https://www.deutschlandfunk.de/mehrere-verletzte-bei-russischen-angriffen-aus-der-luft-102.html",
+    "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-haerteres-vorgehen-gegen-regierungskritische-demonstranten-an-100.html",
+    "https://www.deutschlandfunk.de/hochrechnungen-sehen-christdemokraten-paz-vorne-stichwahl-wahrscheinlich-100.html"
   ],
   "content_hashes": [
-    "1be7e1ff2e867781d025c78a74ae98a2",
-    "9e6eec8b4cb45991fdbf13695cc175d3",
-    "9dfd04d3e46e7d50530c9b42d4bb2cf9",
     "4a4c307e657c28dc4c1d90decab5397a",
     "6eb2498ac15116a5eaebc1ad6350c99e",
     "77d8861a35bce9c208208e39bf55b469",
@@ -2001,12 +1998,12 @@
     "2e82560d1b89a30c87c53bd7497e113c",
     "9d69df22d8ffce0ecc68e8ac0a3a1c15",
     "396d9773e79504bb9accf98a467e2903",
-    "44e1f8131a1f3f9192547ea8bd2cda21"
+    "44e1f8131a1f3f9192547ea8bd2cda21",
+    "cdc6ec3dae02c63c8abaa3e7c54df2dd",
+    "b52e375e56dc0ddcea243e92d5763e5c",
+    "30e8554f611cd58ec4a147db185556f2"
   ],
   "titles": [
-    "Gazastreifen - USA ziehen Delegation von Vermittlungen in Katar ab und werfen Hamas fehlenden Einigungswillen vor",
-    "Ukraine: Wolodymyr Selenskyj legt neues Anti-Korruptionsgesetz vor",
-    "Debatte über Meldepflicht: Polizeibekannt, psychisch krank",
     "Nahost - Macron: \"Frankreich wird palästinensischen Staat im September anerkennen\"",
     "Baden-Württemberg: Ermittlungen nach Hakenkreuz auf Stimmzettel",
     "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf",
@@ -3003,12 +3000,12 @@
     "Südamerika - Wahllokale bei Präsidentschafts- und Parlamentswahl in Bolivien geschlossen",
     "Klinikverbund: Heidelberg und Mannheim schließen sich zusammen",
     "Bundesaußenminister - Wadephul beginnt mehrtägigen Besuch in Japan und Indonesien",
-    "Serbien - Präsident Vucic kündigt hartes Vorgehen gegen Regierungskritiker an"
+    "Serbien - Präsident Vucic kündigt hartes Vorgehen gegen Regierungskritiker an",
+    "Ukraine Krieg - Mehrere Verletzte bei russischen Angriffen aus der Luft",
+    "Serbien - Präsident Vucic kündigt härteres Vorgehen gegen regierungskritische Demonstranten an",
+    "Präsidentschaftswahl in Bolivien - Hochrechnungen sehen Christdemokraten Paz vorne - Stichwahl wahrscheinlich"
   ],
   "hashes": [
-    "59566800275b140bad9259796ac062c5",
-    "1b21296c8858c0c5548a338e7f3f92ec",
-    "0a72aeece31e85aeafc34402108f56c3",
     "f1d113ab437687fdaf99a1c62f979683",
     "1dc7237845cc24a12db98fd98515d822",
     "f41bc07d6a414921ae0fa62fd57e8faa",
@@ -4005,6 +4002,9 @@
     "9a0345e984a494a9244ccd1b97861b3d",
     "d26d77445412286b6caad1052ec38022",
     "5b0ab6d67075d2416a7e0694896899b5",
-    "2c52f1e3dd60643588b8e89d37d7d757"
+    "2c52f1e3dd60643588b8e89d37d7d757",
+    "9c493912bf616e91c3f19baef4248b3b",
+    "9c8e5c4268370062167b04132214d926",
+    "41f87be1a7166c6f501c870c1af2db1b"
   ]
 }
