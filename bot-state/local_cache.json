@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jeder-zweite-eu-buerger-hortet-sein-altes-smartphone-lieber-als-es-loszuwerden-104.html",
-    "https://www.deutschlandfunk.de/ema-empfiehlt-zulassung-von-weiterem-medikament-102.html",
-    "https://www.deutschlandfunk.de/spatenstich-fuer-stromtrasse-suedlink-in-bayern-100.html",
     "https://www.deutschlandfunk.de/brandenburg-will-jesidische-familie-aus-dem-irak-zurueckholen-100.html",
     "https://www.deutschlandfunk.de/thymen-arensman-gewinnt-alpenetappe-in-la-plagne-lipowitz-verteidigt-dritten-gesamtplatz-102.html",
     "https://www.deutschlandfunk.de/nach-absturz-von-passagiermaschine-im-osten-flugschreiber-geborgen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ukraine-greift-pumpstation-in-russland-an-lieferung-durch-druschba-pipeline-unterbrochen-ungarn-besc-100.html",
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-eu-im-mai-um-30-prozent-niedriger-gegenueber-dem-vorjahr-102.html",
     "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-sie-hat-angst-gehasst-zu-werden-weil-sie-juedin-ist-110639221.html",
-    "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html"
+    "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html",
+    "https://www.deutschlandfunk.de/selenskyj-zu-gespraechen-mit-trump-ueber-ukraine-krieg-eingetroffen-100.html",
+    "https://www.deutschlandfunk.de/hamas-akzeptiert-offenbar-neuen-vorschlag-fuer-waffenruhe-102.html",
+    "https://www.deutschlandfunk.de/schlimmste-waldbraende-in-spanien-seit-20-jahren-100.html"
   ],
   "content_hashes": [
-    "cc2d0844497793e548ce02e12ad1808f",
-    "5f01e203c9368217b511f2bcf54d9bae",
-    "f8e7dbf5efe310d0d02a5272e34be606",
     "436f102d806fbd7246e2591b5dddb570",
     "c60105bdcd8b4f0647667ce2002bbbdb",
     "e3bf2c2f3ce1fdae4918b08a68cdbdcf",
@@ -2001,12 +1998,12 @@
     "66d6c491ccb9af33682499f6458a5c4e",
     "3a3493875492707cae2084550816973f",
     "bb4cb40a42b71cc53a11d87d283a93b3",
-    "5eed8b2b2a555209a75a45f6da754e74"
+    "5eed8b2b2a555209a75a45f6da754e74",
+    "9272f275a08d13b588d5b1f7b619df65",
+    "bd190e6d99fe5f6580444ee405dfb21e",
+    "b1271d5d6cb5204f4f783fc275c9ffd8"
   ],
   "titles": [
-    "Statistik - Jeder zweite EU-Bürger hortet sein altes Smartphone lieber als es loszuwerden",
-    "Alzheimer - EMA empfiehlt Zulassung von weiterem Medikament",
-    "Energiewende - Spatenstich für Stromtrasse Suedlink in Bayern",
     "Nach Abschiebung - Brandenburg will jesidische Familie aus dem Irak zurückholen",
     "Tour de France - Thymen Arensman gewinnt Alpenetappe in La Plagne - Lipowitz verteidigt dritten Gesamtplatz",
     "Russland - Nach Absturz von Passagiermaschine im Osten: Flugschreiber geborgen",
@@ -3003,12 +3000,12 @@
     "Erklärung des Generalstabs - Ukraine greift Pumpstation in Russland an - Lieferung durch Druschba-Pipeline unterbrochen - Ungarn beschwert sich",
     "Eurostat-Zahlen - Zahl der Asylanträge in EU im Mai um 30 Prozent niedriger gegenüber dem Vorjahr",
     "Jüdisches Leben: „Angst, dass ich gehasst werde, weil ich Jüdin bin“",
-    "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos"
+    "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos",
+    "Treffen im Weißen Haus - Selenskyj zu Gesprächen mit Trump über Ukraine-Krieg eingetroffen",
+    "Krieg im Gazastreifen - Hamas akzeptiert offenbar neuen Vorschlag für Waffenruhe",
+    "Waldbrände - Schlimmste Waldbrände in Spanien seit 20 Jahren"
   ],
   "hashes": [
-    "c77659019eac6feeac1b1373a675755c",
-    "1b829750c8316f78c1818db5ea28a57a",
-    "8cc1244a509bac3c93b942bffda30e17",
     "2ee19d261ed9d025b5bc235348f30b7b",
     "cfa754ff8014e304461e4db6e3df7125",
     "a99d7edfb86a59fe914682d8e178c4d1",
@@ -4005,6 +4002,9 @@
     "49ac63f9658c157bac6c4489b9caed60",
     "d225a25f135a49667b78bd7a35230083",
     "28c3e58ad55e9febe651f8c32789df33",
-    "6f54b8601977211f5ba73bfa0f099bfa"
+    "6f54b8601977211f5ba73bfa0f099bfa",
+    "247de96730a59e830ee739251e58935e",
+    "f5eb9d0d4f0d28e63a7aae46ca4878b4",
+    "8b7d8eb466edefebd81497cd3f9966c7"
   ]
 }
