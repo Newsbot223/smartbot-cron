@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mindestens-15-tote-bei-gefechten-thailand-lehnt-vermittlung-im-konflikt-mit-kambodscha-ab-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsgespraech-intel-aus-fuer-magdeburg-100.html",
     "https://www.faz.net/aktuell/politik/kommentar-zum-fall-brosius-gersdorf-suche-nach-einer-gesichtswahrenden-loesung-110606118.html",
     "https://www.deutschlandfunk.de/ministerpraesident-haseloff-intel-absage-fuer-magdeburg-schmerzlicher-tag-fuer-sachsen-anhalt-100.html",
     "https://www.deutschlandfunk.de/kreditvergabe-in-euro-laendern-mit-kraeftigstem-wachstum-seit-zwei-jahren-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wadephul-japan-ist-premiumpartner-deutschlands-in-asien-102.html",
     "https://www.deutschlandfunk.de/totenzahl-auf-20-gestiegen-100.html",
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-auf-cdu-sommerfest-bei-nius-gruender-gotthardt-100.html",
-    "https://www.deutschlandfunk.de/eu-importiert-im-1-halbjahr-mehr-fluessig-erdgas-aus-russland-100.html"
+    "https://www.deutschlandfunk.de/eu-importiert-im-1-halbjahr-mehr-fluessig-erdgas-aus-russland-100.html",
+    "https://www.deutschlandfunk.de/ukrainische-behoerden-tote-und-zahlreiche-verletzte-bei-russischen-angriffen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-die-stimmung-an-niedersachsens-schulen-so-schlecht-ist-110641654.html"
   ],
   "content_hashes": [
-    "7fa3c7774d7b29966aa66567bfb9d4d8",
-    "9f52c64e78f4eb97cd18f32b3ea08e68",
     "024d2f092a8742f351c7170ca042ae05",
     "4a1628b4c631f63deedc8e46c8cf47cf",
     "be82035785181fafc9f67b1a82ab6faf",
@@ -2001,11 +1999,11 @@
     "d446709dd7adc5fccc97e31ced6b2cb6",
     "9e84549246d119191384124cab401f89",
     "63d04097d776cbfb73f3fccd1233ed78",
-    "116fcfa7b441a2667eb573423f13c388"
+    "116fcfa7b441a2667eb573423f13c388",
+    "c8b2ed41712078cec808dea6b39e7d8b",
+    "2240dcc6391da9c6b3ce8734917de198"
   ],
   "titles": [
-    "Südostasien - Mindestens 15 Tote bei Gefechten - Thailand lehnt Vermittlung im Konflikt mit Kambodscha ab",
-    "Sachsen-Anhalt - Intel gibt Pläne für Magdeburger Chip-Fabriken komplett auf",
     "Der Fall Brosius-Gersdorf: Suche nach einer gesichtswahrenden Lösung",
     "Chiphersteller - Ministerpräsident Haseloff: Intel-Absage für Magdeburg schmerzlicher Tag für Sachsen-Anhalt",
     "EZB-Bericht - Kreditvergabe in Euro-Ländern mit kräftigstem Wachstum seit zwei Jahren",
@@ -3003,11 +3001,11 @@
     "Bundesaußenminister in Tokio - Wadephul: Japan ist Premiumpartner Deutschlands in Asien",
     "Nach Explosion in russischer Fabrik - Totenzahl auf 20 gestiegen",
     "Koblenz - Klöckner spricht auf CDU-Fest bei \"Nius\"-Finanzier Gotthardt",
-    "LNG - EU importiert im 1. Halbjahr mehr Flüssig-Erdgas aus Russland"
+    "LNG - EU importiert im 1. Halbjahr mehr Flüssig-Erdgas aus Russland",
+    "Charkiw und Saporischschja - Ukrainische Behörden: Tote und zahlreiche Verletzte bei russischen Angriffen",
+    "Niedersachsen: Warum die Stimmung an den Schulen so schlecht ist"
   ],
   "hashes": [
-    "ffcd0df42f08ce392b201fb05040ee2c",
-    "c4f203177644101863dd27962171dfd3",
     "a21fb4f259893b2271fab8f6eca4e97d",
     "571df6ff0016c4ad37afc493cd1722fb",
     "1140d3835e6360c3f83ddd8559c39296",
@@ -4005,6 +4003,8 @@
     "b0fccb9ff0cdc551b4bd0e0a3051f38e",
     "c07d954705369485e5cb99eeb071ba32",
     "7ef854f3cd5bd6198e26836ddf00a9a8",
-    "eaf45bbbb96efd2ae30247c13f0c099d"
+    "eaf45bbbb96efd2ae30247c13f0c099d",
+    "9298909a2d1a2bf0b1f1bfae3969c4b8",
+    "f538cc9b6fb0803c1213f0fcf99c7f04"
   ]
 }
