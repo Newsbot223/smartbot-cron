@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/chip-hersteller-intel-gibt-plaene-fuer-fabrik-in-magdeburg-auf-102.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/intel-chipkonzern-sagt-plaene-fuer-fabrik-in-deutschland-ab-a-5dfcdccf-44b3-45eb-a916-5433a6085498#ref=rss",
-    "https://www.deutschlandfunk.de/ben-o-connor-gewinnt-alpenetappe-am-col-de-la-loze-108.html",
-    "https://www.deutschlandfunk.de/immer-mehr-senioren-sind-auf-sozialhilfe-angewiesen-100.html",
-    "https://www.deutschlandfunk.de/vorsichtige-entspannungssignale-aus-union-im-richterstreit-100.html",
     "https://www.deutschlandfunk.de/mindestens-14-tote-bei-gefechten-zwischen-thailand-und-kambodscha-100.html",
     "https://www.deutschlandfunk.de/trump-nimmt-kuerzungen-bei-oeffentlichem-rundfunk-und-auslandshilfen-vor-100.html",
     "https://www.deutschlandfunk.de/zahl-der-abschiebungen-im-ersten-halbjahr-gestiegen-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-haerteres-vorgehen-gegen-regierungskritische-demonstranten-an-100.html",
     "https://www.deutschlandfunk.de/hochrechnungen-sehen-christdemokraten-paz-vorne-stichwahl-wahrscheinlich-100.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-erneuten-russischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/christdemokrat-paz-ueberraschend-vorne-linke-regierungspartei-abgestraft-102.html"
+    "https://www.deutschlandfunk.de/christdemokrat-paz-ueberraschend-vorne-linke-regierungspartei-abgestraft-102.html",
+    "https://www.deutschlandfunk.de/erneut-russische-angriffe-aus-der-luft-102.html",
+    "https://www.deutschlandfunk.de/hunderttausende-bei-streiks-und-protesten-in-israel-gegen-gazakrieg-112.html",
+    "https://www.deutschlandfunk.de/pflegebevollmaechtigte-angehoerige-muessen-entlastet-werden-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-reist-nach-washington-was-sich-ukraine-erhofft-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/drohungen-der-hizbullah-libanons-dilemma-110641601.html"
   ],
   "content_hashes": [
-    "77d8861a35bce9c208208e39bf55b469",
-    "29a645fe156677773f36875d0e13268e",
-    "f765d37d8fc4365e19cf6397580bb455",
-    "cf0ed1524bf2c4ec682d857ce87e2d9f",
-    "5ce0d6407787df54a4638699dd3e3582",
     "a6bfdb66ff304467f199ba3e83d7b2fd",
     "ba73e2a8ecdf55a91df2d4b618d71745",
     "c2584c0b755f8d4c710b11a8ef2b1e95",
@@ -2001,14 +1996,14 @@
     "b52e375e56dc0ddcea243e92d5763e5c",
     "30e8554f611cd58ec4a147db185556f2",
     "ec870ea6acf683839d5767a9240fcf2b",
-    "cf8090171853b23c09fa3416cfdb7c23"
+    "cf8090171853b23c09fa3416cfdb7c23",
+    "c5e0f3222dec113c0b0f1aee4b1c28bc",
+    "d3f99fe4c729ca1330d17b4fb05a2ecc",
+    "d5b280d562ff86fa1d8876604f2ddba9",
+    "962ba6dc195e0cf1ec5e961ea25608ac",
+    "e9aecdcbcba5ddccabe4a50e4e007061"
   ],
   "titles": [
-    "Erneute Milliardenverluste - Chip-Hersteller Intel gibt Pläne für Fabrik in Magdeburg auf",
-    "Intel: Chipkonzern sagt Pläne für Fabrik in Deutschland ab",
-    "Tour de France - Ben O'Connor gewinnt Alpenetappe am Col de la Loze",
-    "Altersarmut - Immer mehr Senioren sind auf Sozialhilfe angewiesen",
-    "Berlin - Vorsichtige Entspannungssignale aus Union im Richterstreit",
     "Südostasien - Mindestens 14 Tote bei Gefechten zwischen Thailand und Kambodscha",
     "USA - Trump nimmt Kürzungen bei öffentlichem Rundfunk und Auslandshilfen vor",
     "Migration - Zahl der Abschiebungen im ersten Halbjahr gestiegen",
@@ -3003,14 +2998,14 @@
     "Serbien - Präsident Vucic kündigt härteres Vorgehen gegen regierungskritische Demonstranten an",
     "Präsidentschaftswahl in Bolivien - Hochrechnungen sehen Christdemokraten Paz vorne - Stichwahl wahrscheinlich",
     "Ukraine Krieg - Mehrere Verletzte bei erneuten russischen Angriffen",
-    "Präsidentschaftswahl in Bolivien - Christdemokrat Paz überraschend vorne - Linke Regierungspartei abgestraft"
+    "Präsidentschaftswahl in Bolivien - Christdemokrat Paz überraschend vorne - Linke Regierungspartei abgestraft",
+    "Ukraine-Krieg - Erneut russische Angriffe aus der Luft",
+    "Blockade von Straßen - Hunderttausende bei Streiks und Protesten in Israel gegen Gazakrieg",
+    "Kurzzeitpflege und Co. - Pflegebevollmächtigte: Angehörige müssen entlastet werden",
+    "Treffen im Weißen Haus - Selenskyj fordert Sicherheitsgarantien für sein Land",
+    "Drohungen der Hizbullah: Libanons Dilemma"
   ],
   "hashes": [
-    "f41bc07d6a414921ae0fa62fd57e8faa",
-    "39f4c948ce94567a46e07f104db6d744",
-    "610a777152506172504a789fe56eb97a",
-    "606c5cd68c822c6bb05763bea9c4b0c0",
-    "844021be605ea4e28e9e53a822c4b2c2",
     "7bcde1aa313d0602b7e9ec28468a468f",
     "eb0e0576914548c1a41ec7853d2f837b",
     "fb3aa76a21a4545205fc8bc7467d96ce",
@@ -4005,6 +4000,11 @@
     "9c8e5c4268370062167b04132214d926",
     "41f87be1a7166c6f501c870c1af2db1b",
     "3e10d6beff4866427b6c3a265a558ca8",
-    "5bd2349afc6e11334ddbdbedcf4273ce"
+    "5bd2349afc6e11334ddbdbedcf4273ce",
+    "f102a7495b8aded6a9ad14d9c179571c",
+    "c6b15546d3ecd00f73b2bea9cbb1a26d",
+    "141780498924f1a88df022927dae7c10",
+    "14c674cc7e0670e7ab26c034f5312ac7",
+    "2d81509726484360979c33270f090255"
   ]
 }
