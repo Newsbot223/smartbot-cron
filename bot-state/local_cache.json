@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/brandenburg-will-jesidische-familie-aus-dem-irak-zurueckholen-100.html",
     "https://www.deutschlandfunk.de/thymen-arensman-gewinnt-alpenetappe-in-la-plagne-lipowitz-verteidigt-dritten-gesamtplatz-102.html",
     "https://www.deutschlandfunk.de/nach-absturz-von-passagiermaschine-im-osten-flugschreiber-geborgen-100.html",
     "https://www.faz.net/aktuell/politik/inland/paragraph-218-passt-laut-unions-gutachten-zum-koalitionsvertrag-110608583.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-gespraechen-mit-trump-ueber-ukraine-krieg-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/hamas-akzeptiert-offenbar-neuen-vorschlag-fuer-waffenruhe-102.html",
-    "https://www.deutschlandfunk.de/schlimmste-waldbraende-in-spanien-seit-20-jahren-100.html"
+    "https://www.deutschlandfunk.de/schlimmste-waldbraende-in-spanien-seit-20-jahren-100.html",
+    "https://www.deutschlandfunk.de/treffen-zwischen-trump-und-selenskyj-ueber-ukraine-krieg-begonnen-100.html"
   ],
   "content_hashes": [
-    "436f102d806fbd7246e2591b5dddb570",
     "c60105bdcd8b4f0647667ce2002bbbdb",
     "e3bf2c2f3ce1fdae4918b08a68cdbdcf",
     "9879677c6094a3853b0c82c48e2b67e3",
@@ -2001,10 +2000,10 @@
     "5eed8b2b2a555209a75a45f6da754e74",
     "9272f275a08d13b588d5b1f7b619df65",
     "bd190e6d99fe5f6580444ee405dfb21e",
-    "b1271d5d6cb5204f4f783fc275c9ffd8"
+    "b1271d5d6cb5204f4f783fc275c9ffd8",
+    "437bc882f42c12cb88b2125f22251063"
   ],
   "titles": [
-    "Nach Abschiebung - Brandenburg will jesidische Familie aus dem Irak zurückholen",
     "Tour de France - Thymen Arensman gewinnt Alpenetappe in La Plagne - Lipowitz verteidigt dritten Gesamtplatz",
     "Russland - Nach Absturz von Passagiermaschine im Osten: Flugschreiber geborgen",
     "Streit um Abtreibungen: Paragraph 218 passt laut Unions-Gutachten zum Koalitionsvertrag",
@@ -3003,10 +3002,10 @@
     "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos",
     "Treffen im Weißen Haus - Selenskyj zu Gesprächen mit Trump über Ukraine-Krieg eingetroffen",
     "Krieg im Gazastreifen - Hamas akzeptiert offenbar neuen Vorschlag für Waffenruhe",
-    "Waldbrände - Schlimmste Waldbrände in Spanien seit 20 Jahren"
+    "Waldbrände - Schlimmste Waldbrände in Spanien seit 20 Jahren",
+    "Washington - Treffen zwischen Trump und Selenskyj über Ukraine-Krieg begonnen"
   ],
   "hashes": [
-    "2ee19d261ed9d025b5bc235348f30b7b",
     "cfa754ff8014e304461e4db6e3df7125",
     "a99d7edfb86a59fe914682d8e178c4d1",
     "552aa53870feb2269500a6bc683121ee",
@@ -4005,6 +4004,7 @@
     "6f54b8601977211f5ba73bfa0f099bfa",
     "247de96730a59e830ee739251e58935e",
     "f5eb9d0d4f0d28e63a7aae46ca4878b4",
-    "8b7d8eb466edefebd81497cd3f9966c7"
+    "8b7d8eb466edefebd81497cd3f9966c7",
+    "216fc92d7466bcbb0efc09f59e185e96"
   ]
 }
