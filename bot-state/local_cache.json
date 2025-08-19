@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schiffswrack-der-versenkten-hms-nottingham-in-der-nordsee-entdeckt-102.html",
-    "https://www.deutschlandfunk.de/frankreichs-aussenminister-schaltet-sich-ein-100.html",
     "https://www.deutschlandfunk.de/mindestens-sechs-tote-nach-massenpanik-an-hindu-tempel-100.html",
     "https://www.deutschlandfunk.de/uno-nothilfekoordinator-begruesst-begrenzte-feuerpausen-fuer-hilfslieferungen-100.html",
     "https://www.deutschlandfunk.de/erste-direkte-flugverbindung-von-moskau-nach-pjoengjang-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/razzia-im-rockermilieu-in-bayern-sachsen-und-thueringen-100.html",
     "https://www.deutschlandfunk.de/russland-uebergibt-leichen-von-1-000-ukrainischen-soldaten-an-kiew-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/vorfall-bei-vueling-linksjugend-loescht-antisemitischen-post-110644335.html",
-    "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-keine-unangekuendigten-tests-mehr-fuer-schueler-110644835.html"
+    "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-keine-unangekuendigten-tests-mehr-fuer-schueler-110644835.html",
+    "https://www.deutschlandfunk.de/krankenhaeuser-28-palaestinenser-bei-israelischen-angriffen-getoetet-100.html",
+    "https://www.deutschlandfunk.de/premierminister-modi-indien-und-china-naehern-sich-an-100.html"
   ],
   "content_hashes": [
-    "fac203aeafa5bedd12736139edcbc690",
-    "b134a88692333e979090e3efcf0c3b2b",
     "6c9b758ea75b0fe946ffb4097fa8d773",
     "a64bfe666058e9c02ceaceffe59b9df0",
     "05d662e501b02ab2c77fa97cdf33ac1f",
@@ -2001,11 +1999,11 @@
     "57372093b94530676fa74a3cc84467cc",
     "786140755f8f2ef562d4b14e29cbe291",
     "069507cfdca8fffe6b243de77bc66a0f",
-    "70bd3897d09e53b49b11f960519828c4"
+    "70bd3897d09e53b49b11f960519828c4",
+    "58bba6f315f5d743ee583db1f2396b96",
+    "03d5b1cc6e1b1f703b37068b28ee16c0"
   ],
   "titles": [
-    "Erster Weltkrieg - Schiffswrack der versenkten HMS Nottingham in der Nordsee entdeckt",
-    "Vorfall mit jüdischer Jugendgruppe - Frankreichs Außenminister schaltet sich ein",
     "Indien - Mindestens sechs Tote nach Massenpanik an Hindu-Tempel",
     "Nahost - UNO-Nothilfekoordinator begrüßt begrenzte Feuerpausen für Hilfslieferungen",
     "Russland und Nordkorea - Erste direkte Flugverbindung von Moskau nach Pjöngjang",
@@ -3003,11 +3001,11 @@
     "Polizei - Razzia im Rockermilieu in Bayern, Sachsen und Thüringen",
     "Ukraine-Krieg - Russland übergibt Leichen von 1.000 ukrainischen Soldaten an Kiew",
     "Vorfall bei Fluglinie Vueling: Frankfurter Linksjugend löscht antisemitischen Post",
-    "Rheinland-Pfalz: Keine unangekündigten Tests mehr für Schüler"
+    "Rheinland-Pfalz: Keine unangekündigten Tests mehr für Schüler",
+    "Gaza-Krieg - Krankenhäuser: 28 Palästinenser bei israelischen Angriffen getötet",
+    "Neu Delhi - Premierminister Modi: Indien und China nähern sich an"
   ],
   "hashes": [
-    "261e31dedd4e1a80495d5f37c466868d",
-    "9b07938303201ee7e4b5d7fc6f5b32c9",
     "247cb2c6cfbd4571e4138f417d4096e7",
     "a27019d7f9f2f985ac5406bcede4fb66",
     "7d8fcb7e6ca8ff50ef182dc2b625bad2",
@@ -4005,6 +4003,8 @@
     "e466c4a62acb662590424d04ef5b3d1e",
     "a848733cc589468ccf1c8e803541a379",
     "1a733cf3162d2d3bb71265d63681a07a",
-    "4fc3230cd149da0fed7cb38360f7b4ec"
+    "4fc3230cd149da0fed7cb38360f7b4ec",
+    "fbf283c60a3610bb68ba598de15897ae",
+    "524f0d3d4da9894d5b041c23cd11ec62"
   ]
 }
