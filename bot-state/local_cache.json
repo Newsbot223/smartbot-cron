@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/im-september-sollen-in-syrien-parlamentswahlen-stattfinden-100.html",
-    "https://www.deutschlandfunk.de/kambodscha-und-thailand-treffen-sich-nach-erneuten-kaempfen-zu-gespraechen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutlich-mehr-faelle-von-bandenmaessigem-missbrauch-beim-buergergeld-registriert-110610542.html",
-    "https://www.deutschlandfunk.de/heute-gespraeche-der-regierungschefs-kambodschas-und-thailands-ueber-waffenruhe-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-weiteren-russischen-luftangriffen-100.html",
     "https://www.deutschlandfunk.de/pakt-fuer-den-rechtsstaat-wird-verdoppelt-auf-eine-halbe-milliarde-euro-mehr-stellen-fuer-die-justiz-100.html",
     "https://www.spiegel.de/panorama/bildung-in-deutschland-pisa-chef-andreas-schleicher-beklagt-nachteile-fuer-schueler-mit-migrationshintergrund-a-fe848c14-f508-4281-86ad-2eaab639df19#ref=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/fast-190-menschen-bei-pro-palaestina-protest-festgenommen-100.html",
     "https://www.deutschlandfunk.de/budapest-moskau-und-genf-als-moegliche-treffpunkte-fuer-putin-und-selenskyj-im-gespraech-100.html",
     "https://www.deutschlandfunk.de/razzien-im-rockermilieu-in-bayern-sachsen-und-thueringen-102.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/muslimfeindlichkeit-ist-ein-alltaegliches-phaenomen-110645086.html"
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/muslimfeindlichkeit-ist-ein-alltaegliches-phaenomen-110645086.html",
+    "https://www.deutschlandfunk.de/frau-in-nikopol-durch-russischen-artilleriebeschuss-getoetet-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-in-westafghanischer-provinz-herat-100.html",
+    "https://www.deutschlandfunk.de/kritik-an-kloeckner-nach-gleichsetzung-von-taz-und-nius-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/kommentar-zum-gazakrieg-die-hoffnung-haengt-am-seidenen-faden-110644921.html"
   ],
   "content_hashes": [
-    "c3853c142947222b2e047f904ebdfdc0",
-    "163d51c35727d7d73a0d88467f8ad398",
-    "06d285bd2f602e6e9bcc5b4cd4a67d69",
-    "5c75fae7b0cb7f2db5d2157b22f2bb8a",
     "5a10c1ff00cf8d79e3fb80dd47a6f10b",
     "ad7f869890367a5c37c99ba8c067246d",
     "2aac659c4cd3fc746418d0aceaf1e7c6",
@@ -2001,13 +1997,13 @@
     "a51a7a8fa5c2927b54990b5a165d107d",
     "7994bf3ac8bc48717985f34d64518441",
     "e9af2ae9b1dd59a95888be91e947755d",
-    "33964724dbcdcaaffe33087f4815e28d"
+    "33964724dbcdcaaffe33087f4815e28d",
+    "ab5e5d7d6f689c8810937e3634a1b3df",
+    "a2063a74a88824fde09b50f144afe2b0",
+    "20a0a5b7ab17063b871416ed17bbe0f3",
+    "b6091ede2c9ffb1c5292ebafcb184791"
   ],
   "titles": [
-    "Damaskus - Im September sollen in Syrien Parlamentswahlen stattfinden",
-    "Malaysia - Kambodscha und Thailand treffen sich nach erneuten Kämpfen zu Gesprächen",
-    "Sozialleistungen: Deutlich mehr Fälle von bandenmäßigem Missbrauch beim Bürgergeld registriert",
-    "Malaysia - Heute Gespräche der Regierungschefs Kambodschas und Thailands über Waffenruhe",
     "Ukraine-Krieg - Tote und Verletzte nach weiteren russischen Luftangriffen",
     "Bundesregierung - \"Pakt für den Rechtsstaat\" wird verdoppelt auf eine halbe Milliarde Euro - mehr Stellen für die Justiz",
     "Bildung in Deutschland: Pisa-Chef Andreas Schleicher beklagt Nachteile für Schüler mit Migrationshintergrund",
@@ -3003,13 +2999,13 @@
     "Berlin - Fast 190 Menschen bei Pro-Palästina-Protest festgenommen",
     "Ukraine-Krieg - Budapest, Moskau und Genf als mögliche Treffpunkte für Putin und Selenskyj im Gespräch",
     "Polizei - Razzien im Rockermilieu in Bayern, Sachsen und Thüringen",
-    "Antimuslimische Straftaten: Muslimfeindlichkeit ist ein alltägliches Phänomen"
+    "Antimuslimische Straftaten: Muslimfeindlichkeit ist ein alltägliches Phänomen",
+    "Ukraine-Krieg - Frau in Nikopol durch russischen Artilleriebeschuss getötet",
+    "Afghanistan - Mehr als 70 Tote bei Bus-Unglück in westafghanischer Provinz Herat",
+    "Medien - Kritik an Klöckner nach Gleichsetzung von \"Taz\" und \"Nius\"",
+    "Gazakrieg: Die Hoffnung hängt am seidenen Faden"
   ],
   "hashes": [
-    "ee1905ca665118739782eaff5498cd80",
-    "77914d156c2b10736c11a73c49b024bc",
-    "a431b4cecd3a1cf61de5de94aba8ddca",
-    "95383dea72f2f0cd724753146b85a58c",
     "23a09bb765796a8614994f772458566e",
     "74e41fde1c3af831f77c288864293a42",
     "97493397e3d97fa32d2869cc9b73a225",
@@ -4005,6 +4001,10 @@
     "cd7c86c907095d3ccdcbaeb148980392",
     "535af5aa19b63941b4d087b9166a4d87",
     "7a5b4b50ae7179830c11b6caa76e49fb",
-    "12dface0cac2232e95ebc4c636b1ace3"
+    "12dface0cac2232e95ebc4c636b1ace3",
+    "754822aceca9b0aad69236696489f687",
+    "0235b734d7e5741f891efd137f04c863",
+    "09d2e6064a3a8f77a8490db52522e7ab",
+    "a6797ca455d371a5e040b0fd2e142325"
   ]
 }
