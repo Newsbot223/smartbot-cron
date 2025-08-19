@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanzleramtschef-fuer-pruefung-aller-optionen-108.html",
-    "https://www.deutschlandfunk.de/kuenstliche-intelligenz-china-untermauert-fuehrungsanspruch-100.html",
-    "https://www.deutschlandfunk.de/aenderung-der-schuldenbremse-kanzleramtsminister-frei-gegen-lockerungen-100.html",
     "https://www.deutschlandfunk.de/gefechte-zwischen-kambodscha-und-thailand-dauern-an-neue-front-im-grenzgebiet-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/korruption-in-der-ukraine-selenskyj-unter-beobachtung-110608215.html",
     "https://www.deutschlandfunk.de/e-automarkt-waechst-wieder-schneller-europa-verliert-weiter-an-bedeutung-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/lob-und-optimismus-nach-beratungen-in-washington-102.html",
     "https://www.deutschlandfunk.de/wieder-gewalt-bei-protesten-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/bsw-sucht-neuen-namen-102.html",
-    "https://www.deutschlandfunk.de/2024-wurden-mehr-als-380-helfer-getoetet-102.html"
+    "https://www.deutschlandfunk.de/2024-wurden-mehr-als-380-helfer-getoetet-102.html",
+    "https://www.deutschlandfunk.de/merz-ukraine-keine-gebietsabtretungen-aufzwingen-100.html",
+    "https://www.deutschlandfunk.de/wadephul-kritik-an-china-und-nordkorea-wegen-indopazifik-100.html",
+    "https://www.aljazeera.com/news/2025/8/19/russia-ukraine-war-list-of-key-events-day-1272?traffic_source=rss"
   ],
   "content_hashes": [
-    "bf4dbd32c165a52be3d784a944f067b0",
-    "4f1b24572a0c189807e44b0088208e24",
-    "88bb60ce1a714549adaffccff5df9a7d",
     "2093392528da0ba0f4a0b8b3e6f60016",
     "f7a729f723ebe4535dab8d0abd16ffbe",
     "e03f5e77be90ce9be2f052cba59cc26a",
@@ -2001,12 +1998,12 @@
     "24cf3cf3b6da4d30c8d51e8800603e7d",
     "61fecde71ecd0025cdb4d62f8093ea8d",
     "260f0f7d2d4a40fd672f0f6e0f054241",
-    "777e9640c54e3eb3d2b3f821264b64d7"
+    "777e9640c54e3eb3d2b3f821264b64d7",
+    "7f552ebe3f803b97ee0b04b8eefbf506",
+    "080618caaca8e1fe247d838932ce4e9a",
+    "d41258828abd0d449ea60e5c6fdd5922"
   ],
   "titles": [
-    "Bundesverfassungsgericht - Kanzleramtschef für Prüfung aller Optionen",
-    "Welt-KI-Konferenz in Shanghai - Künstliche Intelligenz: China untermauert Führungsanspruch",
-    "Änderung der Schuldenbremse: Kanzleramtsminister Frei gegen Lockerungen",
     "Grenzkonflikt - Gefechte zwischen Kambodscha und Thailand dauern an - neue Front im Grenzgebiet",
     "Korruption in der Ukraine: Selenskyj unter Beobachtung",
     "Verkehr - E-Automarkt wächst wieder schneller - Europa verliert weiter an Bedeutung",
@@ -3003,12 +3000,12 @@
     "NATO und EU - Lob und Optimismus nach Beratungen in Washington",
     "Serbien - Wieder Gewalt bei Protesten gegen die Regierung",
     "\"Bündnis Sahra Wagenknecht\" - BSW sucht neuen Namen",
-    "Welttag der humanitären Hilfe - 2024 wurden mehr als 380 Helfer getötet"
+    "Welttag der humanitären Hilfe - 2024 wurden mehr als 380 Helfer getötet",
+    "Nach Treffen in Washington - Merz: \"Ukraine keine Gebietsabtretungen aufzwingen\"",
+    "Japan-Reise - Wadephul-Kritik an China und Nordkorea wegen Indopazifik",
+    "Russia-Ukraine war: List of key events, day 1,272"
   ],
   "hashes": [
-    "d653aae1972705f5fbb7a47c69131d3f",
-    "cb9364dd29a6502c30cbd1af27bf5acd",
-    "6af5c43726bf1b5a5ce302240ba5961d",
     "38d1f28197114cc4904e18cbcbb5ba6a",
     "ba602c7a78a54fc4bf07ae2ea1133dfa",
     "3bd10a17a4ba53a6a064e1311058d670",
@@ -4005,6 +4002,9 @@
     "938e1cf333c927bc5e9fdcfc1437c891",
     "d00af5569a751385ba9530428ee07604",
     "e97cf8a733773655f85c87e825110f16",
-    "3c1034e3f72a8e5e4d0d630ac0db58fa"
+    "3c1034e3f72a8e5e4d0d630ac0db58fa",
+    "dd41e11f8ca58bccc9b87230b02c5067",
+    "2df754892fb6fd56fb1965a86a2b5471",
+    "1820bc3fcc2ed3de7dc769565e486082"
   ]
 }
