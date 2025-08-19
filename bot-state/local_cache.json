@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/australier-groves-gewinnt-vorletzte-etappe-lipowitz-verteidigt-platz-drei-in-der-gesamtwertung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/sonntagsfrage-afd-und-linkspartei-im-aufwind-110608295.html",
     "https://www.deutschlandfunk.de/gefechte-zwischen-kambodscha-und-thailand-gehen-weiter-trump-versucht-vermittlung-102.html",
     "https://www.deutschlandfunk.de/ice-in-tunnel-bei-wien-stehen-geblieben-rund-400-passagiere-muessen-zug-wechseln-102.html",
     "https://www.deutschlandfunk.de/polizei-loest-nach-gewalt-gegen-einsatzkraefte-internationalistische-demonstration-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verheerendste-feuer-in-spanien-seit-20-jahren-106.html",
     "https://www.faz.net/aktuell/politik/inland/gericht-bestaetigt-wahlausschluss-von-afd-kandidaten-paul-110644172.html",
     "https://www.deutschlandfunk.de/kritik-an-kloeckner-nach-gleichsetzung-von-taz-und-nius-reichinnek-linke-legt-bundestagspraesidentin-100.html",
-    "https://www.deutschlandfunk.de/getreideernte-deutlich-besser-als-im-vorjahr-100.html"
+    "https://www.deutschlandfunk.de/getreideernte-deutlich-besser-als-im-vorjahr-100.html",
+    "https://www.deutschlandfunk.de/notfallmediziner-regt-flaechendeckende-einfuehrung-von-erste-hilfe-kursen-an-schulen-in-deutschland--100.html",
+    "https://www.deutschlandfunk.de/beifuss-ambrosie-belastet-allergiker-experten-fordern-gesetzliche-melde-und-bekaempfungspflicht-100.html"
   ],
   "content_hashes": [
-    "0cba45e1ad3ccc89994e032839b624e8",
-    "5f42abf0bbda38a0396ac41aa48ccd86",
     "fe1537d40ce2b3f3f38d870878031cfc",
     "8447eb8d27e24996c3f5749c1a0f853c",
     "f2597174534ef59fb261806cfdcd837a",
@@ -2001,11 +1999,11 @@
     "513806de5b3a1744b2aa55d6ab64617a",
     "cfb60628d18792323bb653a909dbd543",
     "91687f7e5f717b49181a22eecf51ac19",
-    "ea1bacce75a6bf872bf75d50ba0417a9"
+    "ea1bacce75a6bf872bf75d50ba0417a9",
+    "2b6bf3d4142f64632048a0205a91bd0d",
+    "f1dfd572353e58a7a3444fd287ab018f"
   ],
   "titles": [
-    "Tour de France - Australier Groves gewinnt vorletzte Etappe - Lipowitz verteidigt Platz drei in der Gesamtwertung",
-    "Sonntagsfrage: Zug ins Extreme",
     "Grenzstreit - Gefechte zwischen Kambodscha und Thailand gehen weiter - Trump versucht Vermittlung",
     "Technische Störung - ICE in Tunnel bei Wien stehen geblieben - rund 400 Passagiere müssen Zug wechseln",
     "Berlin - Polizei löst nach Gewalt gegen Einsatzkräfte internationalistische Demonstration auf",
@@ -3003,11 +3001,11 @@
     "Waldbrände - Verheerendste Feuer in Spanien seit 20 Jahren",
     "Ludwigshafen: Gericht bestätigt Wahlausschluss von AfD-Kandidaten Paul",
     "Medien - Kritik an Klöckner nach Gleichsetzung von \"Taz\" und \"Nius\": Reichinnek (Linke) legt Bundestagspräsidentin Rückzug nahe",
-    "Landwirtschaft - Getreideernte deutlich besser als im Vorjahr"
+    "Landwirtschaft - Getreideernte deutlich besser als im Vorjahr",
+    "Deutsches Rotes Kreuz - Notfallmediziner regt flächendeckende Einführung von Erste-Hilfe-Kursen an Schulen in Deutschland an",
+    "Eingeschleppte Pflanze - Beifuß-Ambrosie belastet Allergiker - Experten fordern gesetzliche Melde- und Bekämpfungspflicht"
   ],
   "hashes": [
-    "ba968859fd3e5adfd02a375a2d8230fd",
-    "2248957d93b7a4e9f5e6e04e4f3c86c8",
     "dc024b203bc841037acc07d9cde4d5f7",
     "d36df641fe678519795332690b6e1ec6",
     "eeb7a09fb93e0d850ee4bf166a476585",
@@ -4005,6 +4003,8 @@
     "2f5c808945c030a14fd041a2a3513fa7",
     "a34d37e21e7a5a0f213ed3f99d3198bb",
     "14f81f33d535374e9505644f923e90df",
-    "22d7c3fcdfbd327d4b409079e512fef1"
+    "22d7c3fcdfbd327d4b409079e512fef1",
+    "0cf9707ebb2a8325ba12bce142a4d584",
+    "10b60b019aa61b6c371bc9079ff4d798"
   ]
 }
