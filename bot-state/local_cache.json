@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/drei-tote-und-mehr-als-50-verletzte-bei-zugunglueck-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-40-tote-bei-angriff-von-islamisten-auf-kirche-100.html",
-    "https://www.faz.net/aktuell/politik/inland/plastikdeckel-soeders-polemik-schadet-der-europaeischen-union-110607801.html",
-    "https://www.deutschlandfunk.de/landkreistagsvize-ambrosy-bekraeftigt-forderung-finanzierung-der-kommunen-zu-reformieren-100.html",
     "https://www.deutschlandfunk.de/waldbrandgefahr-in-griechenland-bleibt-trotz-geloeschter-feuer-hoch-102.html",
     "https://www.deutschlandfunk.de/sicherheitsberater-heusgen-in-den-bemuehungen-um-eine-zwei-staaten-loesung-nicht-nachlassen-102.html",
     "https://www.deutschlandfunk.de/oecd-bildungsdirektor-fordert-verpflichtende-sprachtests-in-deutschen-kitas-100.html",
@@ -999,13 +995,13 @@
     "https://www.aljazeera.com/news/2025/8/20/russia-ukraine-war-list-of-key-events-day-1273?traffic_source=rss",
     "https://www.deutschlandfunk.de/angriffe-auf-nikopol-und-saporischschja-102.html",
     "https://www.deutschlandfunk.de/ex-praesident-uribe-vorlaeufig-aus-hausarrest-entlassen-102.html",
-    "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-provinz-herat-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-provinz-herat-100.html",
+    "https://www.deutschlandfunk.de/anhaltender-konflikt-zwischen-union-und-spd-um-steuererhoehungen-112.html",
+    "https://www.deutschlandfunk.de/rund-80-rabbiner-fordern-ein-ende-der-hungersnot-in-gaza-100.html",
+    "https://www.spiegel.de/politik/treffen-zwischen-putin-und-selenskyj-in-budapest-moeglich-a-13d27734-5e8e-49ab-a7fc-d3dc404a17a5#ref=rss",
+    "https://www.faz.net/einspruch/afd-kandidat-ausgeschlossen-wider-die-freiheit-110644821.html"
   ],
   "content_hashes": [
-    "4fdc5b6602f2bbdf6fc8ab4b84088e7b",
-    "37bfe472530033e99be94d35031618c2",
-    "3ae2e48e5c52c22d3cd1f129c23d1db6",
-    "d3a1fb4810ec7a1442fd24e373caaa91",
     "d00a4c6aa35a15058f2ca615a20642fe",
     "a01227fc92db472a2bcb01be122a59a8",
     "eedf7bdec72351e578dd18ec9de233da",
@@ -2001,13 +1997,13 @@
     "e227009b3a398335c9172350b629240d",
     "57b091f2ef5a343af2b565a244cba57f",
     "9bec0f4a0796e48e3d13be69362b87e6",
-    "2f606c1051f5ccd11eabca2e7fb176e5"
+    "2f606c1051f5ccd11eabca2e7fb176e5",
+    "8fdaac82c6c357f14e4c98752b574ef6",
+    "37a65840a7a34de5e708ae884a3ac2fe",
+    "56acc74b177721a22dc54751e1869848",
+    "899bc3cc982b667825d53ad1ffe6c095"
   ],
   "titles": [
-    "Baden-Württemberg - Drei Tote und mehr als 50 Verletzte bei Zugunglück",
-    "Demokratische Republik Kongo - Mehr als 40 Tote bei Angriff von Islamisten auf Kirche",
-    "Plastikdeckelverordnung: Söders Polemik schadet der Europäischen Union",
-    "\"Druck wird immer größer\" - Landkreistagsvize Ambrosy bekräftigt Forderung, Finanzierung der Kommunen zu reformieren",
     "Trockenheit - Waldbrandgefahr in Griechenland bleibt trotz gelöschter Feuer hoch",
     "Nahost-Konferenz in New York - Sicherheitsberater Heusgen: \"In den Bemühungen um eine Zwei-Staaten-Lösung nicht nachlassen\"",
     "Bildung - OECD-Bildungsdirektor fordert verpflichtende Sprachtests in deutschen Kitas",
@@ -3003,13 +2999,13 @@
     "Russia-Ukraine war: List of key events, day 1,273",
     "Ukraine-Krieg - Angriffe auf Nikopol und Saporischschja",
     "Kolumbien - Ex-Präsident Uribe vorläufig aus Hausarrest entlassen",
-    "Aus Iran abgeschobene Afghanen - Mehr als 70 Tote bei Bus-Unglück Provinz Herat"
+    "Aus Iran abgeschobene Afghanen - Mehr als 70 Tote bei Bus-Unglück Provinz Herat",
+    "Vorstoß von Finanzminister Klingbeil - Anhaltender Konflikt zwischen Union und SPD um Steuererhöhungen",
+    "Appell - Rund 80 Rabbiner fordern ein Ende der Hungersnot in Gaza",
+    "Treffen zwischen Putin und Selenskyj in Budapest möglich",
+    "Ohne AfD-Kandidat?: Wider die Freiheit"
   ],
   "hashes": [
-    "2c40bb5c1ebc5ac1e16cf2e6f49c15eb",
-    "1dc1e1e0757b775e40b5dcd15491c660",
-    "02dc7f46bc0c35e2beea7c383aa422c9",
-    "32bbdc4d7e3f54cd5d00dd8700fd035c",
     "b63d03e8b78cf48c81b66c11d1e49ead",
     "38100c5bfd272e71bb8fb118b4057c40",
     "4e79b48448b28b698452af8452173833",
@@ -4005,6 +4001,10 @@
     "b195d601ed2ca4bd68bed68f6518b30f",
     "ab4cbb9a07d15c9e62f926317813dff4",
     "801213f2644d633fe0ca7564dbcb9bcb",
-    "dd173780e61a2a0b027a47f0cfd6c667"
+    "dd173780e61a2a0b027a47f0cfd6c667",
+    "0a72a4dc4a1b7b9e45863df452bac73b",
+    "9401531d49c8920ee3c81e6cb2aab842",
+    "a2a209236130a865509bcf0a69b064b1",
+    "b6a31372a5c475ae8f8de7aae9ea73f0"
   ]
 }
