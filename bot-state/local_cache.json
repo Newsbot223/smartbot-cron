@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbrandgefahr-in-suedosteuropa-und-der-tuerkei-weiter-hoch-100.html",
-    "https://www.deutschlandfunk.de/noch-keine-einigung-zwischen-usa-und-china-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-dankt-trump-fuer-ultimatum-an-moskau-100.html",
     "https://www.deutschlandfunk.de/bildungsgewerkschaft-fuer-bundesweiten-islamischen-religionsunterricht-102.html",
     "https://www.deutschlandfunk.de/waffenruhe-zwischen-kambodscha-und-thailand-begonnen-110.html",
     "https://www.deutschlandfunk.de/eu-kommission-schlaegt-aussetzung-eines-kooperations-programms-mit-israel-vor-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/drohne-stuerzt-im-osten-polens-in-maisfeld-offenbar-militaerisches-flugobjekt-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lawrow-beklagt-plumpe-versuche-der-beeinflussung-trumps-faz-110172806.html",
     "https://www.deutschlandfunk.de/putin-und-erdogan-telefonieren-miteinander-102.html",
-    "https://www.deutschlandfunk.de/interview-mit-bente-scheller-boell-stiftung-zu-siedlungsprojekt-in-der-westbank-100.html"
+    "https://www.deutschlandfunk.de/interview-mit-bente-scheller-boell-stiftung-zu-siedlungsprojekt-in-der-westbank-100.html",
+    "https://www.deutschlandfunk.de/autonomiebehoerde-fordert-von-booking-com-airbnb-und-anderen-keine-ferienwohnungen-mehr-in-besetzen--100.html",
+    "https://www.deutschlandfunk.de/regierung-plant-abschaffung-der-mehrwertsteuer-auf-buecher-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-spahn-haelt-debatte-ueber-deutsche-friedenssoldaten-fuer-verfrueht-faz-110172806.html"
   ],
   "content_hashes": [
-    "9d347546f1160b2948616d45e12cd389",
-    "745a12d7ab20c2a815889a4d0366af08",
-    "433c96b2d19eba5fa9ac386f159745eb",
     "078f7e0fe85107f30b1d923cdbe4beab",
     "31fbbad090e9059b866caef644f93396",
     "aa579704a96d0c59461f128738b5b489",
@@ -2001,12 +1998,12 @@
     "4cc2dcc5eed576f5bba941e7597120ea",
     "ddc24098bf8cdee8082b54c20c8400c2",
     "d82dd7da059ce4a61e27634fb0b3bfe8",
-    "5ce99fb8f0efd1e007fe7e9110cce6b2"
+    "5ce99fb8f0efd1e007fe7e9110cce6b2",
+    "1f084cdff5828fdc04fc007e3b69313c",
+    "f4f270cca8d763b287c366a066936c90",
+    "114576c8289d7117f0b75d3cb266ba0a"
   ],
   "titles": [
-    "Trockenheit - Waldbrandgefahr in Südosteuropa und der Türkei weiter hoch",
-    "Zollkonflikt - Noch keine Einigung zwischen USA und China",
-    "Ukraine-Krieg - Selenskyj dankt Trump für Ultimatum an Moskau",
     "Schulpolitik - Bildungsgewerkschaft für bundesweiten islamischen Religionsunterricht",
     "Grenzkonflikt - Waffenruhe zwischen Kambodscha und Thailand begonnen",
     "Gaza-Krieg - EU-Kommission schlägt Aussetzung eines Kooperations-Programms mit Israel vor",
@@ -3003,12 +3000,12 @@
     "Osiny - Drohne stürzt im Osten Polens in Maisfeld - offenbar militärisches Flugobjekt",
     "Krieg in der Ukraine: Lawrow beklagt „plumpe Versuche“ der Beeinflussung Trumps",
     "Ukraine-Krieg - Putin und Erdogan telefonieren miteinander",
-    "Neues Siedlungsprojekt - Israel will im Westjordanland Fakten schaffen"
+    "Neues Siedlungsprojekt - Israel will im Westjordanland Fakten schaffen",
+    "Israelische Siedlungen - Autonomiebehörde fordert von booking.com, AirBnB und anderen: Keine Ferienwohnungen mehr in besetzen Gebieten",
+    "Dänemark - Regierung plant Abschaffung der Mehrwertsteuer auf Bücher",
+    "Krieg in der Ukraine: Spahn hält Debatte über deutsche Friedenssoldaten für verfrüht"
   ],
   "hashes": [
-    "b66a410f372fe7faf17db0295b90d788",
-    "299108d69f8df5a6731e441b6531b07b",
-    "af870a9002bdc1569d6fd286617ca86d",
     "f4b303a52a802da832fc792298762664",
     "6bdcd006c33e25b04eb402c8aa22e054",
     "9f9489a2729f37c28f18e9cc0c26ff86",
@@ -4005,6 +4002,9 @@
     "9d0b9d708bc6e0625ba5b42f2e0f5993",
     "270ecc126ef686a7338d966885e52f8f",
     "6a1ea596defb6ebdc2b42e695d76685d",
-    "4a514afdecd74c1a22dbbefe37c88121"
+    "4a514afdecd74c1a22dbbefe37c88121",
+    "7afa92cc7ac195e0cc7117963d444dea",
+    "3b289251b7bb20ba8cae6fa15b7d0551",
+    "acf2c4b8ae4b11fa4e6a7fbe60b11d5e"
   ]
 }
