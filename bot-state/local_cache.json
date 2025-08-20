@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-schlaegt-sanktionierung-israels-vor-100.html",
-    "https://www.deutschlandfunk.de/medwedew-beantwortet-trumps-ultimatum-mit-kriegsdrohung-100.html",
     "https://www.deutschlandfunk.de/waldbrandgefahr-in-suedosteuropa-und-der-tuerkei-weiter-hoch-100.html",
     "https://www.deutschlandfunk.de/noch-keine-einigung-zwischen-usa-und-china-100.html",
     "https://www.deutschlandfunk.de/selenskyj-dankt-trump-fuer-ultimatum-an-moskau-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hamas-grossangriff-auf-israelischen-militaerposten-in-gaza-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/8/20/why-is-europe-leading-the-us-in-military-aid-to-ukraine?traffic_source=rss",
     "https://www.deutschlandfunk.de/drohne-stuerzt-im-osten-polens-in-maisfeld-offenbar-militaerisches-flugobjekt-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lawrow-beklagt-plumpe-versuche-der-beeinflussung-trumps-faz-110172806.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lawrow-beklagt-plumpe-versuche-der-beeinflussung-trumps-faz-110172806.html",
+    "https://www.deutschlandfunk.de/putin-und-erdogan-telefonieren-miteinander-102.html",
+    "https://www.deutschlandfunk.de/interview-mit-bente-scheller-boell-stiftung-zu-siedlungsprojekt-in-der-westbank-100.html"
   ],
   "content_hashes": [
-    "cf94ec6f63e7cbd3272d58f39bd2bd8d",
-    "0399126f96ce24d55cd7457a94f6d4f4",
     "9d347546f1160b2948616d45e12cd389",
     "745a12d7ab20c2a815889a4d0366af08",
     "433c96b2d19eba5fa9ac386f159745eb",
@@ -2001,11 +1999,11 @@
     "810bb8fbf2f433a607a23b9d94a371db",
     "19b32da1d499f6997f2f87c7f72711b1",
     "4cc2dcc5eed576f5bba941e7597120ea",
-    "ddc24098bf8cdee8082b54c20c8400c2"
+    "ddc24098bf8cdee8082b54c20c8400c2",
+    "d82dd7da059ce4a61e27634fb0b3bfe8",
+    "5ce99fb8f0efd1e007fe7e9110cce6b2"
   ],
   "titles": [
-    "Gaza-Krieg - EU-Kommission schlägt Sanktionierung Israels vor",
-    "Moskau - Medwedew beantwortet Trumps Ultimatum mit Kriegsdrohung",
     "Trockenheit - Waldbrandgefahr in Südosteuropa und der Türkei weiter hoch",
     "Zollkonflikt - Noch keine Einigung zwischen USA und China",
     "Ukraine-Krieg - Selenskyj dankt Trump für Ultimatum an Moskau",
@@ -3003,11 +3001,11 @@
     "Nahost - Hamas-Großangriff auf israelischen Militärposten in Gaza",
     "Why is Europe leading the US in military aid to Ukraine?",
     "Osiny - Drohne stürzt im Osten Polens in Maisfeld - offenbar militärisches Flugobjekt",
-    "Krieg in der Ukraine: Lawrow beklagt „plumpe Versuche“ der Beeinflussung Trumps"
+    "Krieg in der Ukraine: Lawrow beklagt „plumpe Versuche“ der Beeinflussung Trumps",
+    "Ukraine-Krieg - Putin und Erdogan telefonieren miteinander",
+    "Neues Siedlungsprojekt - Israel will im Westjordanland Fakten schaffen"
   ],
   "hashes": [
-    "1021803fdeea9f7152e5cf3c5eb6f84c",
-    "144deee3eee6cacd945717e8a8b57662",
     "b66a410f372fe7faf17db0295b90d788",
     "299108d69f8df5a6731e441b6531b07b",
     "af870a9002bdc1569d6fd286617ca86d",
@@ -4005,6 +4003,8 @@
     "9a1d7ef492683eceeb78a1bf0f6d0788",
     "f9b213ea22f8a43dbab59c1ede0e6e2f",
     "9d0b9d708bc6e0625ba5b42f2e0f5993",
-    "270ecc126ef686a7338d966885e52f8f"
+    "270ecc126ef686a7338d966885e52f8f",
+    "6a1ea596defb6ebdc2b42e695d76685d",
+    "4a514afdecd74c1a22dbbefe37c88121"
   ]
 }
