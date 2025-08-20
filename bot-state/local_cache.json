@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/antikorruptionsbehoerde-europa-muss-druck-auf-kiew-machen-110610160.html",
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/hessen-kritisiert-rekordumverteilung-im-finanzausgleich-110611627.html",
     "https://www.spiegel.de/wirtschaft/bundeskanzler-friedrich-merz-us-zoelle-werden-deutscher-wirtschaft-erheblich-schaden-a-136e86d6-fb35-47ca-a13e-352c34147a84#ref=rss",
     "https://www.deutschlandfunk.de/marianne-vos-wieder-im-gelben-trikot-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-schlaegt-sanktionierung-israels-vor-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/musk-legt-plaene-fuer-gruendung-eigener-partei-offenbar-auf-eis-102.html",
     "https://www.deutschlandfunk.de/portugal-drittes-todesopfer-durch-waldbraende-100.html",
     "https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-is-unterstuetzer-soll-anschlag-auf-israelische-botschaft-geplant-haben-anklage-erhoben-a-f8f1ae89-76d0-453a-a0db-28763c8b1d51#ref=rss",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kinder-bei-russischem-angriff-auf-zivilisten-verletzt-faz-110172806.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kinder-bei-russischem-angriff-auf-zivilisten-verletzt-faz-110172806.html",
+    "https://www.deutschlandfunk.de/hamas-grossangriff-auf-israelischen-militaerposten-in-gaza-100.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2025/8/20/why-is-europe-leading-the-us-in-military-aid-to-ukraine?traffic_source=rss"
   ],
   "content_hashes": [
-    "0560bba63b9088f4b789606f166fb838",
-    "2120163c8aee2437246bb21467977485",
     "da4269dc829a9e22d3ef3d89ca952976",
     "98a4d2f1e44a9e6d036cea3ce7efc381",
     "cf94ec6f63e7cbd3272d58f39bd2bd8d",
@@ -2001,11 +1999,11 @@
     "feb4a9068e639ea837ed9a7aa9dd1560",
     "0aed6139969b21df5494669f249fb41c",
     "2196fd71fae51bc1fe1a47604b85083d",
-    "59cc8fa3394c671c595d356494727317"
+    "59cc8fa3394c671c595d356494727317",
+    "810bb8fbf2f433a607a23b9d94a371db",
+    "19b32da1d499f6997f2f87c7f72711b1"
   ],
   "titles": [
-    "Kampf gegen Korruption: Europa sollte Kiew weiter die Grenzen aufzeigen",
-    "Länderfinanzausgleich: Hessen klagt über Rekordbeitrag",
     "Bundeskanzler Friedrich Merz: US-Zölle werden deutscher Wirtschaft erheblich schaden",
     "Tour de France Femmes - Marianne Vos wieder im Gelben Trikot",
     "Gaza-Krieg - EU-Kommission schlägt Sanktionierung Israels vor",
@@ -3003,11 +3001,11 @@
     "USA - Musk legt Pläne für Gründung eigener Partei offenbar auf Eis",
     "Zivilschutzbehörde - Portugal: Drittes Todesopfer durch Waldbrände",
     "Berlin: Mutmaßlicher IS-Unterstützer soll Anschlag auf israelische Botschaft geplant haben – Anklage erhoben",
-    "Krieg in der Ukraine: Kinder bei russischem Angriff auf Zivilisten verletzt"
+    "Krieg in der Ukraine: Kinder bei russischem Angriff auf Zivilisten verletzt",
+    "Nahost - Hamas-Großangriff auf israelischen Militärposten in Gaza",
+    "Why is Europe leading the US in military aid to Ukraine?"
   ],
   "hashes": [
-    "7cbff2d9afcf5454fdcda1f3bcc4313a",
-    "3a0eddc0960c9b8563be352c0ef806db",
     "bf538e32e33cf8fd202acb6234180ed9",
     "f394766ec7a128cd724b6e1ea1158ced",
     "1021803fdeea9f7152e5cf3c5eb6f84c",
@@ -4005,6 +4003,8 @@
     "881739275243795506357b75da25b8e9",
     "265e42e394c75ab2617333962c5d29c6",
     "f222a95b9ec0dc7913a93b1001a4c1b5",
-    "65bb30eec6019edf99ab5105eb91f103"
+    "65bb30eec6019edf99ab5105eb91f103",
+    "9a1d7ef492683eceeb78a1bf0f6d0788",
+    "f9b213ea22f8a43dbab59c1ede0e6e2f"
   ]
 }
