@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bildungsgewerkschaft-fuer-bundesweiten-islamischen-religionsunterricht-102.html",
-    "https://www.deutschlandfunk.de/waffenruhe-zwischen-kambodscha-und-thailand-begonnen-110.html",
-    "https://www.deutschlandfunk.de/eu-kommission-schlaegt-aussetzung-eines-kooperations-programms-mit-israel-vor-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-uribe-wegen-zeugenbeeinflussung-verurteilt-100.html",
     "https://www.deutschlandfunk.de/schuesse-in-manhattan-fuenf-todesopfer-auch-schuetze-tot-100.html",
     "https://www.deutschlandfunk.de/17-hilfsorganisationen-kritisieren-geplante-haushaltskuerzungen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/interview-mit-bente-scheller-boell-stiftung-zu-siedlungsprojekt-in-der-westbank-100.html",
     "https://www.deutschlandfunk.de/autonomiebehoerde-fordert-von-booking-com-airbnb-und-anderen-keine-ferienwohnungen-mehr-in-besetzen--100.html",
     "https://www.deutschlandfunk.de/regierung-plant-abschaffung-der-mehrwertsteuer-auf-buecher-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-spahn-haelt-debatte-ueber-deutsche-friedenssoldaten-fuer-verfrueht-faz-110172806.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-spahn-haelt-debatte-ueber-deutsche-friedenssoldaten-fuer-verfrueht-faz-110172806.html",
+    "https://www.deutschlandfunk.de/macron-warnt-wegen-gaza-offensive-vor-dauerkrieg-in-region-102.html",
+    "https://www.deutschlandfunk.de/in-polen-abgestuerzte-drohne-stammt-laut-warschau-aus-russland-verteidigungsminister-spricht-von-rus-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-polen-meldet-absturz-russischer-drohne-auf-maisfeld-faz-110172806.html"
   ],
   "content_hashes": [
-    "078f7e0fe85107f30b1d923cdbe4beab",
-    "31fbbad090e9059b866caef644f93396",
-    "aa579704a96d0c59461f128738b5b489",
     "3a1d4fa211873923a220bf33da94b788",
     "a22423ec81e30393a57740c6b2413390",
     "9c300b4257a394924617c12c51425f6f",
@@ -2001,12 +1998,12 @@
     "5ce99fb8f0efd1e007fe7e9110cce6b2",
     "1f084cdff5828fdc04fc007e3b69313c",
     "f4f270cca8d763b287c366a066936c90",
-    "114576c8289d7117f0b75d3cb266ba0a"
+    "114576c8289d7117f0b75d3cb266ba0a",
+    "dd687558ca97b22592f89dceff4d3de9",
+    "c77f7b9322def0a62a04bc8b62eb5457",
+    "36f8d8e5abfabc35a095ec2605d02ce9"
   ],
   "titles": [
-    "Schulpolitik - Bildungsgewerkschaft für bundesweiten islamischen Religionsunterricht",
-    "Grenzkonflikt - Waffenruhe zwischen Kambodscha und Thailand begonnen",
-    "Gaza-Krieg - EU-Kommission schlägt Aussetzung eines Kooperations-Programms mit Israel vor",
     "Kolumbien - Ex-Präsident Uribe wegen Zeugenbeeinflussung verurteilt",
     "New York - Schüsse in Manhattan - fünf Todesopfer - auch Schütze tot",
     "Entwicklungszusammenarbeit - 17 Hilfsorganisationen kritisieren geplante Haushaltskürzungen",
@@ -3003,12 +3000,12 @@
     "Neues Siedlungsprojekt - Israel will im Westjordanland Fakten schaffen",
     "Israelische Siedlungen - Autonomiebehörde fordert von booking.com, AirBnB und anderen: Keine Ferienwohnungen mehr in besetzen Gebieten",
     "Dänemark - Regierung plant Abschaffung der Mehrwertsteuer auf Bücher",
-    "Krieg in der Ukraine: Spahn hält Debatte über deutsche Friedenssoldaten für verfrüht"
+    "Krieg in der Ukraine: Spahn hält Debatte über deutsche Friedenssoldaten für verfrüht",
+    "Nahost - Macron warnt wegen Gaza-Offensive vor \"Dauerkrieg\" in Region",
+    "Osiny - In Polen abgestürzte Drohne stammt laut Warschau aus Russland - Verteidigungsminister spricht von \"russischer Provokation\"",
+    "Krieg in der Ukraine: Polen meldet Absturz russischer Drohne auf Maisfeld"
   ],
   "hashes": [
-    "f4b303a52a802da832fc792298762664",
-    "6bdcd006c33e25b04eb402c8aa22e054",
-    "9f9489a2729f37c28f18e9cc0c26ff86",
     "b652d826de854bf0b9e56fb8ddca32f6",
     "73561dd0b58f7c86fab2166a6dd5dfaa",
     "a7ed926d5277aaacbff22fa384411d0c",
@@ -4005,6 +4002,9 @@
     "4a514afdecd74c1a22dbbefe37c88121",
     "7afa92cc7ac195e0cc7117963d444dea",
     "3b289251b7bb20ba8cae6fa15b7d0551",
-    "acf2c4b8ae4b11fa4e6a7fbe60b11d5e"
+    "acf2c4b8ae4b11fa4e6a7fbe60b11d5e",
+    "620238ca14b1c248667efacebfc3d3c2",
+    "504144dcf49f869fc7701f2bcdf00bd2",
+    "6f5f7c5592d5c06d170edbf0d2e565aa"
   ]
 }
