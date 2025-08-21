@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verteidigungslinie-der-ukraine-interview-mit-nico-lange-senior-fellow-msc-100.html",
-    "https://www.aljazeera.com/video/pinch-point/2025/7/29/poland-at-a-crossroads-of-ideologies?traffic_source=rss",
-    "https://www.deutschlandfunk.de/hubschrauber-nahe-der-stadt-grimma-in-fluss-gestuerzt-100.html",
     "https://www.deutschlandfunk.de/bergung-der-verunglueckten-regionalbahn-ist-schwieriger-als-angenommen-100.html",
     "https://www.deutschlandfunk.de/verivox-datenvolumen-in-mobilfunkvertraegen-uebersteigt-tatsaechlichen-verbrauch-oftmals-deutlich-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-friedrich-merz-von-seinen-auftritten-auf-social-media-profitiert-110610033.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nach-teils-toedlichen-zwischenfaellen-sollen-jetzt-die-baeren-gezaehlt-werden-100.html",
     "https://www.deutschlandfunk.de/palaestinensische-autonomiebehoerde-fordert-von-booking-com-airbnb-und-anderen-keine-ferienwohnungen-100.html",
     "https://www.deutschlandfunk.de/kommunen-sehen-entlastung-100.html",
-    "https://www.deutschlandfunk.de/explosionen-in-kiew-und-lwiw-100.html"
+    "https://www.deutschlandfunk.de/explosionen-in-kiew-und-lwiw-100.html",
+    "https://www.deutschlandfunk.de/gruene-prangern-politische-attacken-auf-justiz-an-scharfe-vorwuerfe-gegen-csu-100.html",
+    "https://www.deutschlandfunk.de/steuereinnahmen-von-bund-und-laendern-im-juli-weiter-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/trotz-berliner-zusagen-afghanischen-ortskraeften-in-pakistan-droht-abschiebung-100.html"
   ],
   "content_hashes": [
-    "d08b8878d193420165b65c7958d12a8f",
-    "5bcbb24e2abc054f32c796ddc86829d9",
-    "61bf8ec1ce0a6cc37d7f558630c67942",
     "80a2e6cbd497a3cc4f7a84880797ddc7",
     "b868acc2252fd6c858191351d7164714",
     "6ee0a02243c8b4b67fed1ec578c5a3e0",
@@ -2001,12 +1998,12 @@
     "88e7f961323cb038183a7dbae762a2a5",
     "895a65c218ccbd347d43496a84e31106",
     "45c277892bf49d835d782d6e36198c6e",
-    "84a98560e61f2cfde56e8d8d16e3dd5a"
+    "84a98560e61f2cfde56e8d8d16e3dd5a",
+    "e9624eef2ed588a07080523d8c53bcba",
+    "e0bb60cc88ff6b09a2fd98986931c5d0",
+    "896e5f04f98b0871851d88a35d61e979"
   ],
   "titles": [
-    "Krieg in der Ukraine - Donald Trumps Drohung beeindruckt Kremlführung wenig",
-    "Poland – At a crossroads of ideologies",
-    "Sachsen - Hubschrauber nahe der Stadt Grimma in Fluss gestürzt",
     "Zugunglück - Bergung der verunglückten Regionalbahn ist schwieriger als angenommen",
     "Vergleichsportal - Verivox: Datenvolumen in Mobilfunkverträgen übersteigt tatsächlichen Verbrauch oftmals deutlich",
     "Merz auf Social Media: Können Sie mal Ihre Frisur erklären?",
@@ -3003,12 +3000,12 @@
     "Slowakei - Nach teils tödlichen Zwischenfällen sollen jetzt die Bären gezählt werden",
     "Israelische Siedlungen - Palästinensische Autonomiebehörde fordert von booking.com, AirBnB und anderen: Keine Ferienwohnungen mehr in besetzen Gebieten",
     "Asylzahlen - Kommunen sehen Entlastung",
-    "Russischer Luftangriff - Explosionen in Kiew und Lwiw"
+    "Russischer Luftangriff - Explosionen in Kiew und Lwiw",
+    "Causa Scheuer - Grüne prangern politische Attacken auf Justiz an – scharfe Vorwürfe gegen CSU",
+    "Bundesfinanzministerium - Steuereinnahmen von Bund und Ländern im Juli weiter gestiegen",
+    "Trotz Zusagen - Erste Ortskräfte nach Afghanistan abgeschoben"
   ],
   "hashes": [
-    "e59adc2dfbc7148f4d3f350fbf7feebe",
-    "047f3fe19a8ba64ef989a807a991e5f1",
-    "f48508680b8ff12c1c6035b823757763",
     "316cf0f788925d92fb66a6df0f248cca",
     "f7d8a004cfe12da02f75d42be613af56",
     "6beebf9913176bd369b27d3df8c1298f",
@@ -4005,6 +4002,9 @@
     "e799d038bc6469edd1da645f17ab3d17",
     "60e43fcce1106ced0dd0405a698451ad",
     "5d7a613c296d01d30f5fac8111a6b64b",
-    "ebbe640e45d91201ee34c33302305d2e"
+    "ebbe640e45d91201ee34c33302305d2e",
+    "0a40716dc7983f01d2e7eb706421883b",
+    "389a293d27526159748fe936fab99176",
+    "000f10cd0c69c33aefe19f1550627c79"
   ]
 }
