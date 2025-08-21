@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wie-kam-es-zur-migrationswende-von-innenminister-dobrindt-110613008.html",
-    "https://www.deutschlandfunk.de/russischer-angriff-auf-ausbildungseinheit-des-ukrainischen-militaers-100.html",
-    "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-sowie-japan-warnungen-fuer-pazifikraum-102.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-ist-im-fruehsommer-leicht-geschrumpft-100.html",
     "https://www.deutschlandfunk.de/ministerpraesidenten-voigt-cdu-und-woidke-spd-widersprechen-bundeswirtschaftsministerin-reiche-cdu-102.html",
     "https://www.deutschlandfunk.de/kabinett-verabschiedet-etatentwurf-ausgaben-von-gut-520-milliarden-euro-geplant-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/afd-zieht-wegen-verdachtsfall-einstufung-vor-bundesverfassungsgericht-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-ukraine-vereinbaren-kulturfreundschaft-102.html",
     "https://www.deutschlandfunk.de/brite-brennan-gewinnt-erste-etappe-der-deutschland-tour-102.html",
-    "https://www.faz.net/aktuell/politik/inland/grossen-landwirtschaftlichen-betrieben-drohen-kuerzungen-von-eu-mitteln-110642973.html"
+    "https://www.faz.net/aktuell/politik/inland/grossen-landwirtschaftlichen-betrieben-drohen-kuerzungen-von-eu-mitteln-110642973.html",
+    "https://www.deutschlandfunk.de/israelische-armee-ordnet-evakuierung-von-krankenhaeusern-im-noerdlichen-gazastreifen-an-102.html",
+    "https://www.deutschlandfunk.de/iran-beginnt-grosses-marinemanoever-am-golf-von-oman-100.html",
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/vertrauliches-strategiepapier-hessische-gruenen-wollen-wieder-juniorpartner-der-cdu-sein-110647601.html"
   ],
   "content_hashes": [
-    "5b03d893ab08e003e280d9d156ae464f",
-    "2211e9ca086ad884e0da2617c91fd23a",
-    "fe5d223f0c3c1ed5a00441de79333531",
     "6e69682523c03db7dd0ad07bab2e9ded",
     "c1f58df8546e8c7aee11df7a313901f0",
     "b468c9653f3110d59c53a1ae19c24513",
@@ -2001,12 +1998,12 @@
     "9493b82e8d7869dde594a4070a118194",
     "fe8c1e6d192138ebf38b40a51380cc75",
     "afa5348e10b8ffb5c246dafe32a6c38c",
-    "2e1e5b718d68481c8b4ffcccaecfd874"
+    "2e1e5b718d68481c8b4ffcccaecfd874",
+    "6777e5db9bd8b28114250a40d855e27b",
+    "fa538f149c579e6eeec7e4d539f65d25",
+    "1d264f4d4d8ef8d286a80b7b88a1a501"
   ],
   "titles": [
-    "Innenminister Dobrindt: Wie es zur Migrationswende kam – und was schief lief",
-    "Ukraine-Krieg - Russischer Angriff auf Ausbildungseinheit des ukrainischen Militärs",
-    "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel sowie Japan - Warnungen für Pazifikraum",
     "Statistisches Bundesamt - Deutsche Wirtschaft ist im Frühsommer leicht geschrumpft",
     "Höheres Renteneinstiegsalter - Ministerpräsidenten Voigt (CDU) und Woidke (SPD) widersprechen Bundeswirtschaftsministerin Reiche (CDU)",
     "Bundeshaushalt 2026 - Kabinett verabschiedet Etatentwurf - Ausgaben von gut 520 Milliarden Euro geplant",
@@ -3003,12 +3000,12 @@
     "Rechtsstreit - AfD zieht wegen Verdachtsfall-Einstufung vor Bundesverfassungsgericht",
     "Kooperation - Deutschland und Ukraine vereinbaren \"Kulturfreundschaft\"",
     "Radsport - Brite Brennan gewinnt erste Etappe der Deutschland Tour",
-    "Subventionen für Bauern: Wenn Brüssel die Sense ansetzt"
+    "Subventionen für Bauern: Wenn Brüssel die Sense ansetzt",
+    "Gaza - Israelische Armee ordnet Evakuierung von Krankenhäusern im nördlichen Gazastreifen an",
+    "Naher Osten - Iran beginnt großes Marinemanöver am Golf von Oman",
+    "Vertrauliches Strategiepapier: Hessische Grünen wollen wieder Juniorpartner der CDU sein"
   ],
   "hashes": [
-    "263147f393fd59ed0fd39d3947b3e4c7",
-    "cdab4c8b75fb5bbb07e66d03c863276c",
-    "4d15164b51c5cecd1b802c7d8fe92bad",
     "3ca9b5d937466beb00d8a1091d307f74",
     "bebe472a8bcf3570d373a54928f08b7d",
     "ae885d3d56ea121989ceb3dd9d25822e",
@@ -4005,6 +4002,9 @@
     "be947631e76f2d46bbe213f105f96754",
     "ff06ee2468a6e5580b8cac030bf95886",
     "a63f1b0be948d83447ecedf64e921d35",
-    "86f95e09dae4ca904a2cfbb86aa31413"
+    "86f95e09dae4ca904a2cfbb86aa31413",
+    "e450a3488d70759cf0ab1f1552740b5e",
+    "85ecccd297ebba048280accd7c582d1b",
+    "a81651bb163e6bfecf1840dcdf0df1c9"
   ]
 }
