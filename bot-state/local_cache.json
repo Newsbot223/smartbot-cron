@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/co-chefin-nietzard-kandidiert-nicht-erneut-blasel-kritisiert-eigene-partei-100.html",
-    "https://www.deutschlandfunk.de/19-millionen-euro-fuer-betroffene-sexualisierter-gewalt-102.html",
     "https://www.deutschlandfunk.de/erneut-proteste-gegen-israelische-touristen-102.html",
     "https://www.deutschlandfunk.de/gericht-asylantrag-von-abgeschobener-jesidischer-familie-war-unbegruendet-100.html",
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-strenge-kontrolle-bei-palantir-einsatz-2026-110613104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/innenminister-beraet-nach-spremberger-brandbrief-mit-lausitz-kommunen-ueber-rechtsextremismus-100.html",
     "https://www.deutschlandfunk.de/verwaltungsgericht-duesseldorf-zu-ausweisung-von-frueherem-is-deutschland-chef-abu-walaa-urteil-ist--100.html",
     "https://www.deutschlandfunk.de/spd-politiker-ahmetovic-nennt-diskussion-ueber-deutsche-bodentruppe-hoersaaldebatte-100.html",
-    "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-was-die-deutschen-von-reformen-halten-110646130.html"
+    "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-was-die-deutschen-von-reformen-halten-110646130.html",
+    "https://www.deutschlandfunk.de/bda-lehnt-geplante-novelle-ab-100.html",
+    "https://www.deutschlandfunk.de/1-000-verwaltungsmitarbeiter-in-sachsen-mit-zuarbeit-zu-corona-untersuchungsausschuss-befasst-100.html"
   ],
   "content_hashes": [
-    "de1efde4bd00998cc8941f0103bba406",
-    "bebb987ab0c1b7721f873509747632aa",
     "3ee2b3c82352c52f596f4f4778cecbdd",
     "83057f688a0d1d951c7168ca44b941dd",
     "bd6989e8b4c12f9b808ebbe4d89464a1",
@@ -2001,11 +1999,11 @@
     "a3e4c833552b364a0eb64d022f560473",
     "56b6dfd3593583b4435c4c707540493e",
     "71f5a7c3f53d8174e0720fd9c1f3d1e3",
-    "9c0bfa2346fc412e6c0d7c4e4e821735"
+    "9c0bfa2346fc412e6c0d7c4e4e821735",
+    "c3c0815706e39b7592089897f9f76c1a",
+    "38fdd0b2dd39eb2abb4fce888fa31b13"
   ],
   "titles": [
-    "Grüne Jugend - Co-Chefin Nietzard kandidiert nicht erneut - Blasel kritisiert eigene Partei",
-    "Katholische Kirche - 19 Millionen Euro für Betroffene sexualisierter Gewalt",
     "Griechenland - Erneut Proteste gegen israelische Touristen",
     "Brandenburg - Gericht: Asylantrag von abgeschobener jesidischer Familie war \"unbegründet\"",
     "Baden-Württemberg: Palantir kommt ab 2026",
@@ -3003,11 +3001,11 @@
     "Brandenburg - Innenminister berät nach Spremberger Brandbrief mit Lausitz-Kommunen über Rechtsextremismus",
     "Salafismus - Verwaltungsgericht Düsseldorf zu Ausweisung von früherem IS-Deutschland-Chef Abu Walaa: Urteil ist rechtskräftig",
     "Ukraine - SPD-Politiker Ahmetovic nennt Diskussion über deutsche Bodentruppe \"Hörsaaldebatte\"",
-    "Allensbach-Umfrage: Deutsche sind kaum bereit für schmerzhafte Reformen"
+    "Allensbach-Umfrage: Deutsche sind kaum bereit für schmerzhafte Reformen",
+    "Tariftreuegesetz - BDA lehnt geplante Novelle ab",
+    "Covid-19 - 1.000 Verwaltungsmitarbeiter in Sachsen mit Zuarbeit zu Corona-Untersuchungsausschuss befasst"
   ],
   "hashes": [
-    "d51ed00a02c8d3d0c648a6cf9b42c75e",
-    "90f072287ef979d515bd41ce9378250b",
     "b03b11c33aa90821d319db4e9c4a760d",
     "eb41ffa8e52c919c9b97f6b2a4c20aeb",
     "1eb9bbe387e224a15d3953dd50340a86",
@@ -4005,6 +4003,8 @@
     "ed35792345a82dc20efbd74eeb9ce037",
     "5378ab8cad83dbc450a341af9a5c8d97",
     "3783f0bd5cc9a910bb871f1c499d7733",
-    "b7ac5b463cc9e97f7a6fd86ec29dd86a"
+    "b7ac5b463cc9e97f7a6fd86ec29dd86a",
+    "4e3339e7c0f1330afb44839f30bf837b",
+    "0b41af0ee39f8a5f6033a168d71c0900"
   ]
 }
