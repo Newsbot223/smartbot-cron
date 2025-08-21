@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss",
-    "https://www.deutschlandfunk.de/lorena-wiebes-gewinnt-4-etappe-in-poitiers-102.html",
     "https://www.deutschlandfunk.de/armeen-thailands-und-kambodschas-wollen-grenzkonflikt-weiter-deeskalieren-waffenruhe-haelt-100.html",
     "https://www.deutschlandfunk.de/klingbeil-besucht-deutsche-soldaten-102.html",
     "https://www.deutschlandfunk.de/mehr-menschen-beginnen-eine-berufsausbildung-zur-pflegefachkraft-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/1-000-verwaltungsmitarbeiter-in-sachsen-mit-zuarbeit-zu-corona-untersuchungsausschuss-befasst-100.html",
     "https://www.faz.net/aktuell/politik/inland/bedrohungslage-durch-china-wird-taiwan-die-naechste-ukraine-110646194.html",
     "https://www.deutschlandfunk.de/verbindungen-zwischen-kloeckner-und-nius-gruender-gotthardt-offenbar-enger-als-gedacht-100.html",
-    "https://www.spiegel.de/panorama/asyl-teilweise-entlastung-durch-sinkende-zahl-von-gefluechteten-a-1ac53fe7-3b7c-4d10-b702-913e6962e078#ref=rss"
+    "https://www.spiegel.de/panorama/asyl-teilweise-entlastung-durch-sinkende-zahl-von-gefluechteten-a-1ac53fe7-3b7c-4d10-b702-913e6962e078#ref=rss",
+    "https://www.deutschlandfunk.de/ueber-16-000-faelle-von-sexuellem-kindesmissbrauch-dobrindt-csu-spricht-von-erschuetternden-zahlen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/hessens-innenminister-roman-poseck-im-portraet-110632384.html"
   ],
   "content_hashes": [
-    "5f4788a44d1c6730a38e61de72210a3e",
-    "10dba25a3f92e0212414e6a3cdf35357",
     "de51d4fee26e123922a696725f61dcc1",
     "2306a0c2cc0efbd5a1d2c67e494553d8",
     "f79d869e4ff0f82775b931d055e3c636",
@@ -2001,11 +1999,11 @@
     "38fdd0b2dd39eb2abb4fce888fa31b13",
     "a4df7ad7eb9305af16e43d3c5743f373",
     "8a0d1d95bad2eb436f1c9fcf4c87e256",
-    "9a791f16bf7c14b02166f0f5d7503e41"
+    "9a791f16bf7c14b02166f0f5d7503e41",
+    "0c4891f5a94cef7bae37eb52e597353d",
+    "30bd816510dc681e5b989a0abd955a24"
   ],
   "titles": [
-    "IWF rechnet 2025 mit Miniwachstum in Deutschland",
-    "Tour de France Femmes - Lorena Wiebes gewinnt 4. Etappe in Poitiers",
     "Grenzkonflikt - Armeen Thailands und Kambodschas wollen Grenzkonflikt weiter deeskalieren - Waffenruhe hält",
     "Litauen - Klingbeil besucht deutsche Soldaten",
     "Arbeitsmarkt - Mehr Menschen beginnen eine Berufsausbildung zur Pflegefachkraft",
@@ -3003,11 +3001,11 @@
     "Covid-19 - 1.000 Verwaltungsmitarbeiter in Sachsen mit Zuarbeit zu Corona-Untersuchungsausschuss befasst",
     "Chinas Drohgebärden: Taiwan – die nächste Ukraine?",
     "Kritik an Bundestagspräsidentin - Verbindungen zwischen Klöckner und NIUS-Gründer Gotthardt offenbar enger als gedacht",
-    "Asyl: Teilweise Entlastung durch sinkende Zahl von Geflüchteten"
+    "Asyl: Teilweise Entlastung durch sinkende Zahl von Geflüchteten",
+    "Bundeslagebild - Über 16.000 Fälle von sexuellem Kindesmissbrauch - Dobrindt (CSU) spricht von erschütternden Zahlen",
+    "Roman Poseck: Der schwarze Sheriff"
   ],
   "hashes": [
-    "7832661bf41a9ebd6bced9e615421b23",
-    "7734b520e00c32c4cf435d784f75c4e5",
     "7d1a9961011cfea6d804afe5c335ff87",
     "63c3cc7949cb1bbc3dce16998fbdc020",
     "ea6545883917b910a75e21de252e8e60",
@@ -4005,6 +4003,8 @@
     "0b41af0ee39f8a5f6033a168d71c0900",
     "27ddadd284b98ced9b3deab4b7439aeb",
     "f65bcc3a317d15a74788ce1ec70a0edc",
-    "f63b1e36895a39f7a79aa23825070597"
+    "f63b1e36895a39f7a79aa23825070597",
+    "852b78157ca78c7d18f39460758e0e26",
+    "2cc7bd80817e80dabc6f1403330139c1"
   ]
 }
