@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gericht-asylantrag-von-abgeschobener-jesidischer-familie-war-unbegruendet-100.html",
-    "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-strenge-kontrolle-bei-palantir-einsatz-2026-110613104.html",
     "https://www.spiegel.de/wirtschaft/iwf-rechnet-2025-mit-mini-wachstum-in-deutschland-a-73a9b069-30e7-41b6-8db8-3e8dd10a9f06#ref=rss",
     "https://www.deutschlandfunk.de/lorena-wiebes-gewinnt-4-etappe-in-poitiers-102.html",
     "https://www.deutschlandfunk.de/armeen-thailands-und-kambodschas-wollen-grenzkonflikt-weiter-deeskalieren-waffenruhe-haelt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-was-die-deutschen-von-reformen-halten-110646130.html",
     "https://www.deutschlandfunk.de/bda-lehnt-geplante-novelle-ab-100.html",
     "https://www.deutschlandfunk.de/1-000-verwaltungsmitarbeiter-in-sachsen-mit-zuarbeit-zu-corona-untersuchungsausschuss-befasst-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bedrohungslage-durch-china-wird-taiwan-die-naechste-ukraine-110646194.html"
+    "https://www.faz.net/aktuell/politik/inland/bedrohungslage-durch-china-wird-taiwan-die-naechste-ukraine-110646194.html",
+    "https://www.deutschlandfunk.de/verbindungen-zwischen-kloeckner-und-nius-gruender-gotthardt-offenbar-enger-als-gedacht-100.html",
+    "https://www.spiegel.de/panorama/asyl-teilweise-entlastung-durch-sinkende-zahl-von-gefluechteten-a-1ac53fe7-3b7c-4d10-b702-913e6962e078#ref=rss"
   ],
   "content_hashes": [
-    "83057f688a0d1d951c7168ca44b941dd",
-    "bd6989e8b4c12f9b808ebbe4d89464a1",
     "5f4788a44d1c6730a38e61de72210a3e",
     "10dba25a3f92e0212414e6a3cdf35357",
     "de51d4fee26e123922a696725f61dcc1",
@@ -2001,11 +1999,11 @@
     "9c0bfa2346fc412e6c0d7c4e4e821735",
     "c3c0815706e39b7592089897f9f76c1a",
     "38fdd0b2dd39eb2abb4fce888fa31b13",
-    "a4df7ad7eb9305af16e43d3c5743f373"
+    "a4df7ad7eb9305af16e43d3c5743f373",
+    "8a0d1d95bad2eb436f1c9fcf4c87e256",
+    "9a791f16bf7c14b02166f0f5d7503e41"
   ],
   "titles": [
-    "Brandenburg - Gericht: Asylantrag von abgeschobener jesidischer Familie war \"unbegründet\"",
-    "Baden-Württemberg: Palantir kommt ab 2026",
     "IWF rechnet 2025 mit Miniwachstum in Deutschland",
     "Tour de France Femmes - Lorena Wiebes gewinnt 4. Etappe in Poitiers",
     "Grenzkonflikt - Armeen Thailands und Kambodschas wollen Grenzkonflikt weiter deeskalieren - Waffenruhe hält",
@@ -3003,11 +3001,11 @@
     "Allensbach-Umfrage: Deutsche sind kaum bereit für schmerzhafte Reformen",
     "Tariftreuegesetz - BDA lehnt geplante Novelle ab",
     "Covid-19 - 1.000 Verwaltungsmitarbeiter in Sachsen mit Zuarbeit zu Corona-Untersuchungsausschuss befasst",
-    "Chinas Drohgebärden: Taiwan – die nächste Ukraine?"
+    "Chinas Drohgebärden: Taiwan – die nächste Ukraine?",
+    "Kritik an Bundestagspräsidentin - Verbindungen zwischen Klöckner und NIUS-Gründer Gotthardt offenbar enger als gedacht",
+    "Asyl: Teilweise Entlastung durch sinkende Zahl von Geflüchteten"
   ],
   "hashes": [
-    "eb41ffa8e52c919c9b97f6b2a4c20aeb",
-    "1eb9bbe387e224a15d3953dd50340a86",
     "7832661bf41a9ebd6bced9e615421b23",
     "7734b520e00c32c4cf435d784f75c4e5",
     "7d1a9961011cfea6d804afe5c335ff87",
@@ -4005,6 +4003,8 @@
     "b7ac5b463cc9e97f7a6fd86ec29dd86a",
     "4e3339e7c0f1330afb44839f30bf837b",
     "0b41af0ee39f8a5f6033a168d71c0900",
-    "27ddadd284b98ced9b3deab4b7439aeb"
+    "27ddadd284b98ced9b3deab4b7439aeb",
+    "f65bcc3a317d15a74788ce1ec70a0edc",
+    "f63b1e36895a39f7a79aa23825070597"
   ]
 }
