@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gewinn-bei-mercedes-benz-bricht-um-mehr-als-die-haelfte-ein-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/trumps-verkuerzte-frist-fuer-putin-richtiger-schritt-110613125.html",
-    "https://www.deutschlandfunk.de/gruenen-chef-banaszak-koalition-verdraengt-oder-verschiebt-zentrale-probleme-100.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-bundeshaushalt-ist-heute-ein-thema-im-kabinett-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-kam-es-zur-migrationswende-von-innenminister-dobrindt-110613008.html",
     "https://www.deutschlandfunk.de/russischer-angriff-auf-ausbildungseinheit-des-ukrainischen-militaers-100.html",
     "https://www.deutschlandfunk.de/tsunami-wellen-treffen-kamtschatka-halbinsel-sowie-japan-warnungen-fuer-pazifikraum-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/mascha-schilinski-soll-oscar-fuer-deutschland-holen-102.html",
     "https://www.faz.net/aktuell/politik/inland/wie-der-fruehere-neonazi-liebich-beim-selbstbestimmungsgesetz-provoziert-110647770.html",
     "https://www.spiegel.de/wirtschaft/soziales/lohnfortzahlung-krankheitskosten-in-betrieben-steigen-auf-82-milliarden-euro-iw-forscher-fuer-einschnitte-a-fae76aec-6c83-4628-97d0-8a72e845661d#ref=rss",
-    "https://www.deutschlandfunk.de/vier-verschiedene-giraffenarten-offiziell-anerkannt-102.html"
+    "https://www.deutschlandfunk.de/vier-verschiedene-giraffenarten-offiziell-anerkannt-102.html",
+    "https://www.deutschlandfunk.de/afd-zieht-wegen-verdachtsfall-einstufung-vor-bundesverfassungsgericht-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-ukraine-vereinbaren-kulturfreundschaft-102.html",
+    "https://www.deutschlandfunk.de/brite-brennan-gewinnt-erste-etappe-der-deutschland-tour-102.html",
+    "https://www.faz.net/aktuell/politik/inland/grossen-landwirtschaftlichen-betrieben-drohen-kuerzungen-von-eu-mitteln-110642973.html"
   ],
   "content_hashes": [
-    "dd9e0264ad25e8776c8ffd06d4a35a9e",
-    "b2dd9f5287c7380569adbf36f5417607",
-    "5659157b95ac9695d580760c9ccf7c90",
-    "90774155736b13372021d880b552be9b",
     "5b03d893ab08e003e280d9d156ae464f",
     "2211e9ca086ad884e0da2617c91fd23a",
     "fe5d223f0c3c1ed5a00441de79333531",
@@ -2001,13 +1997,13 @@
     "fa1824d068921724cd89dfa65a4960c3",
     "3f33b72e557f046f511c5535aa999ffa",
     "74b2828afaad6e851ad56446971dfc22",
-    "4040edd87a744349a702c2d108f3ca83"
+    "4040edd87a744349a702c2d108f3ca83",
+    "9493b82e8d7869dde594a4070a118194",
+    "fe8c1e6d192138ebf38b40a51380cc75",
+    "afa5348e10b8ffb5c246dafe32a6c38c",
+    "2e1e5b718d68481c8b4ffcccaecfd874"
   ],
   "titles": [
-    "Automobilbranche - Gewinn bei Mercedes-Benz bricht um mehr als die Hälfte ein",
-    "Trumps Frist an Putin: Die späte Erkenntnis des US-Präsidenten",
-    "Bundeshaushalt 2026 - Grünen-Chef Banaszak: \"Koalition verdrängt oder verschiebt zentrale Probleme\"",
-    "Bundeshaushalt 2026 - Ausgaben und Schulden sollen weiter steigen",
     "Innenminister Dobrindt: Wie es zur Migrationswende kam – und was schief lief",
     "Ukraine-Krieg - Russischer Angriff auf Ausbildungseinheit des ukrainischen Militärs",
     "Nach Seebeben - Tsunami-Wellen treffen Kamtschatka-Halbinsel sowie Japan - Warnungen für Pazifikraum",
@@ -3003,13 +2999,13 @@
     "\"In die Sonne schauen\" - Mascha Schilinski soll Oscar für Deutschland holen",
     "Neuer Geschlechtseintrag: Kommt ein Neonazi ins Frauengefängnis",
     "Lohnfortzahlung: Krankheitskosten in Betrieben steigen auf 82 Milliarden Euro – IW-Forscher für Einschnitte",
-    "Nach langer Forschung - Vier verschiedene Giraffenarten offiziell anerkannt"
+    "Nach langer Forschung - Vier verschiedene Giraffenarten offiziell anerkannt",
+    "Rechtsstreit - AfD zieht wegen Verdachtsfall-Einstufung vor Bundesverfassungsgericht",
+    "Kooperation - Deutschland und Ukraine vereinbaren \"Kulturfreundschaft\"",
+    "Radsport - Brite Brennan gewinnt erste Etappe der Deutschland Tour",
+    "Subventionen für Bauern: Wenn Brüssel die Sense ansetzt"
   ],
   "hashes": [
-    "2b4156203b069ff2ed1aacc0b2493e9b",
-    "d591bbd66336f763ae8a82b133eb8842",
-    "04393ceb2bc0e29df67347c63158d1d0",
-    "213ab29fa61fcb802ad0a5f71712b7f0",
     "263147f393fd59ed0fd39d3947b3e4c7",
     "cdab4c8b75fb5bbb07e66d03c863276c",
     "4d15164b51c5cecd1b802c7d8fe92bad",
@@ -4005,6 +4001,10 @@
     "b9b309416e76ea2cf86716deb46b26cf",
     "171ece4a02713951bb000c76f2051f24",
     "29578fc45b5338968e703eeb781fa187",
-    "8b7fab41b63760ea21499182c099b60c"
+    "8b7fab41b63760ea21499182c099b60c",
+    "be947631e76f2d46bbe213f105f96754",
+    "ff06ee2468a6e5580b8cac030bf95886",
+    "a63f1b0be948d83447ecedf64e921d35",
+    "86f95e09dae4ca904a2cfbb86aa31413"
   ]
 }
