@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/sachsen-hubschrauber-der-bundeswehr-stuerzt-in-fluss-110612711.html",
-    "https://www.faz.net/aktuell/politik/inland/gruene-jugend-chefin-warum-jette-nietzard-nicht-mehr-antritt-110612906.html",
-    "https://www.deutschlandfunk.de/starmer-ruft-kabinett-wegen-gazakrieg-aus-der-sommerpause-zurueck-102.html",
     "https://www.deutschlandfunk.de/co-chefin-nietzard-kandidiert-nicht-erneut-blasel-kritisiert-eigene-partei-100.html",
     "https://www.deutschlandfunk.de/19-millionen-euro-fuer-betroffene-sexualisierter-gewalt-102.html",
     "https://www.deutschlandfunk.de/erneut-proteste-gegen-israelische-touristen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trotz-berliner-zusagen-afghanischen-ortskraeften-in-pakistan-droht-abschiebung-100.html",
     "https://www.deutschlandfunk.de/kommunen-sehen-entlastung-durch-rueckgang-der-asylantraege-100.html",
     "https://www.deutschlandfunk.de/verband-warnt-vor-wachsender-verarmung-100.html",
-    "https://www.deutschlandfunk.de/innenminister-beraet-nach-spremberger-brandbrief-mit-lausitz-kommunen-ueber-rechtsextremismus-100.html"
+    "https://www.deutschlandfunk.de/innenminister-beraet-nach-spremberger-brandbrief-mit-lausitz-kommunen-ueber-rechtsextremismus-100.html",
+    "https://www.deutschlandfunk.de/verwaltungsgericht-duesseldorf-zu-ausweisung-von-frueherem-is-deutschland-chef-abu-walaa-urteil-ist--100.html",
+    "https://www.deutschlandfunk.de/spd-politiker-ahmetovic-nennt-diskussion-ueber-deutsche-bodentruppe-hoersaaldebatte-100.html",
+    "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-was-die-deutschen-von-reformen-halten-110646130.html"
   ],
   "content_hashes": [
-    "4fd5e357482d9423e8499fa6f5269ee3",
-    "c4dbb0c3c4ced33081db92e159300092",
-    "9e8fe2a2153915c01d376ade6456aff8",
     "de1efde4bd00998cc8941f0103bba406",
     "bebb987ab0c1b7721f873509747632aa",
     "3ee2b3c82352c52f596f4f4778cecbdd",
@@ -2001,12 +1998,12 @@
     "896e5f04f98b0871851d88a35d61e979",
     "2139e7c031cd456770031317109d4ddd",
     "378bbe4aafea78c6ac188f563b31b31a",
-    "a3e4c833552b364a0eb64d022f560473"
+    "a3e4c833552b364a0eb64d022f560473",
+    "56b6dfd3593583b4435c4c707540493e",
+    "71f5a7c3f53d8174e0720fd9c1f3d1e3",
+    "9c0bfa2346fc412e6c0d7c4e4e821735"
   ],
   "titles": [
-    "Sachsen: Hubschrauber der Bundeswehr stürzt in Fluss",
-    "Grüne-Jugend-Chefin: Warum Jette Nietzard nicht mehr antritt",
-    "Großbritannien - Starmer ruft Kabinett wegen Gazakrieg aus der Sommerpause zurück",
     "Grüne Jugend - Co-Chefin Nietzard kandidiert nicht erneut - Blasel kritisiert eigene Partei",
     "Katholische Kirche - 19 Millionen Euro für Betroffene sexualisierter Gewalt",
     "Griechenland - Erneut Proteste gegen israelische Touristen",
@@ -3003,12 +3000,12 @@
     "Trotz Zusagen - Erste Ortskräfte nach Afghanistan abgeschoben",
     "Migration - Kommunen sehen Entlastung durch Rückgang der Asylanträge",
     "Wohnungsnot - Verband warnt vor wachsender Verarmung",
-    "Brandenburg - Innenminister berät nach Spremberger Brandbrief mit Lausitz-Kommunen über Rechtsextremismus"
+    "Brandenburg - Innenminister berät nach Spremberger Brandbrief mit Lausitz-Kommunen über Rechtsextremismus",
+    "Salafismus - Verwaltungsgericht Düsseldorf zu Ausweisung von früherem IS-Deutschland-Chef Abu Walaa: Urteil ist rechtskräftig",
+    "Ukraine - SPD-Politiker Ahmetovic nennt Diskussion über deutsche Bodentruppe \"Hörsaaldebatte\"",
+    "Allensbach-Umfrage: Deutsche sind kaum bereit für schmerzhafte Reformen"
   ],
   "hashes": [
-    "1f3b550ed99a5470acdb1d4ed71dcf3a",
-    "d9a3de8a40a51656ebfc8eabdc30f683",
-    "4954ac63e86a52342dd6aeb0e3a11100",
     "d51ed00a02c8d3d0c648a6cf9b42c75e",
     "90f072287ef979d515bd41ce9378250b",
     "b03b11c33aa90821d319db4e9c4a760d",
@@ -4005,6 +4002,9 @@
     "000f10cd0c69c33aefe19f1550627c79",
     "55fd22522e996c949c56989c636ea76f",
     "e8e5f9056aeb9b99ecfd513098ad51c8",
-    "ed35792345a82dc20efbd74eeb9ce037"
+    "ed35792345a82dc20efbd74eeb9ce037",
+    "5378ab8cad83dbc450a341af9a5c8d97",
+    "3783f0bd5cc9a910bb871f1c499d7733",
+    "b7ac5b463cc9e97f7a6fd86ec29dd86a"
   ]
 }
