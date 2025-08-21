@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-menschen-beginnen-eine-berufsausbildung-zur-pflegefachkraft-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundeswehr-hubschrauber-stuerzt-in-sachsen-in-einen-fluss-110612711.html",
     "https://www.deutschlandfunk.de/kein-durchbruch-bei-chinesisch-amerikanischen-handelsgespraechen-100.html",
     "https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss",
     "https://www.deutschlandfunk.de/gericht-lehnt-vorzeitige-haftentlassung-von-kriegsverbrecher-mladic-ab-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ueber-16-000-faelle-von-sexuellem-kindesmissbrauch-dobrindt-csu-spricht-von-erschuetternden-zahlen-100.html",
     "https://www.faz.net/aktuell/politik/inland/hessens-innenminister-roman-poseck-im-portraet-110632384.html",
     "https://www.deutschlandfunk.de/pkw-dichte-in-deutschland-abermals-gestiegen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesinnenminister-dobrindt-ip-adressenspeicherung-kommt-bald-110647490.html"
+    "https://www.faz.net/aktuell/politik/inland/bundesinnenminister-dobrindt-ip-adressenspeicherung-kommt-bald-110647490.html",
+    "https://www.deutschlandfunk.de/ukrainer-wegen-mutmasslicher-sabotage-an-nord-stream-pipelines-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/dgb-ausbildungsreport-azubis-zum-grossen-teil-zufrieden-100.html"
   ],
   "content_hashes": [
-    "f79d869e4ff0f82775b931d055e3c636",
-    "366c1d41f103f589c8e8896de171a6b5",
     "0a3ca196d505ad2c756059d20ac7a05f",
     "7757fc0baa55f43c4f281d4ce22922ca",
     "a51b6ec801ec6ab49ad31c25bc7cd71d",
@@ -2001,11 +1999,11 @@
     "0c4891f5a94cef7bae37eb52e597353d",
     "30bd816510dc681e5b989a0abd955a24",
     "cad46577f70827da761027d67534a4f8",
-    "f49a7e08d35deb37ce19b031858b0c07"
+    "f49a7e08d35deb37ce19b031858b0c07",
+    "261482a8d80c1997c65548b97fa018f7",
+    "71880e960215274bcaa434658dd7fbdb"
   ],
   "titles": [
-    "Arbeitsmarkt - Mehr Menschen beginnen eine Berufsausbildung zur Pflegefachkraft",
-    "Sachsen: Helikopter auf Bundeswehr-Flug abgestürzt",
     "Anhaltender Zollfrieden - Kein Durchbruch bei chinesisch-amerikanischen Handelsgesprächen",
     "Reiche fordert schnelleren Ausbau der Infrastruktur",
     "Bosnien-Krieg - Gericht lehnt vorzeitige Haftentlassung von Kriegsverbrecher Mladic ab",
@@ -3003,11 +3001,11 @@
     "Bundeslagebild - Über 16.000 Fälle von sexuellem Kindesmissbrauch - Dobrindt (CSU) spricht von erschütternden Zahlen",
     "Roman Poseck: Der schwarze Sheriff",
     "Statistisches Bundesamt - PKW-Dichte in Deutschland abermals gestiegen",
-    "Dreimonatige Speicherpflicht: Dobrindt: IP-Adressenspeicherung kommt bald"
+    "Dreimonatige Speicherpflicht: Dobrindt: IP-Adressenspeicherung kommt bald",
+    "Italien - Ukrainer wegen mutmaßlicher Sabotage an Nord-Stream-Pipelines festgenommen",
+    "DGB-Ausbildungsreport: Azubis zum großen Teil zufrieden"
   ],
   "hashes": [
-    "ea6545883917b910a75e21de252e8e60",
-    "7ee4a33f6c9fc6316c64128b73019393",
     "185f5a094eea6aec4074437beddfbfc3",
     "ec61b606dd9a3808d583623178f976af",
     "5145c03815340701b93de11877516a2e",
@@ -4005,6 +4003,8 @@
     "852b78157ca78c7d18f39460758e0e26",
     "2cc7bd80817e80dabc6f1403330139c1",
     "f42ce528bb56fc1dbf55c076baa6b862",
-    "be148cbc0afc3c225fe4e379154600d3"
+    "be148cbc0afc3c225fe4e379154600d3",
+    "aa7d2c2a16863daee388ebf129ada7c9",
+    "4e9d1e3c7b83de442f3d4147ad1b68e7"
   ]
 }
