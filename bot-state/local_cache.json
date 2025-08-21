@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/niederlande-verbieten-israelischen-ministern-smotrich-und-ben-gvir-die-einreise-100.html",
-    "https://www.deutschlandfunk.de/koalition-plagt-sich-mit-neuem-haushaltsloch-100.html",
     "https://www.faz.net/aktuell/politik/inland/klage-gegen-rainer-maria-kardinal-woelki-beim-vatikan-erfolg-unwahrscheinlich-110607802.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-gruene-jugend-chefin-nietzard-tritt-nicht-wieder-an-faz-110093143.html",
     "https://www.deutschlandfunk.de/co-chefin-nietzard-kandidiert-nicht-mehr-fuer-den-bundesvorstand-blasel-kritisiert-eigene-partei-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/klingbeil-fordert-alle-minister-zum-sparen-auf-100.html",
     "https://www.deutschlandfunk.de/richter-verbietet-veroeffentlichung-von-akten-zum-fall-epstein-102.html",
     "https://www.deutschlandfunk.de/wadephul-setzt-heute-indonesien-besuch-mit-gespraechen-in-jakarta-fort-100.html",
-    "https://www.deutschlandfunk.de/parlament-beschliesst-von-trump-geforderte-neuordnung-der-wahlkreise-100.html"
+    "https://www.deutschlandfunk.de/parlament-beschliesst-von-trump-geforderte-neuordnung-der-wahlkreise-100.html",
+    "https://www.deutschlandfunk.de/bericht-bolsonaro-soll-flucht-nach-argentinien-geplant-haben-102.html",
+    "https://www.deutschlandfunk.de/israelischer-armeesprecher-erste-phasen-der-offensive-auf-gaza-stadt-haben-begonnen-100.html"
   ],
   "content_hashes": [
-    "792f813d0e502134f8a40c52bad2a9b5",
-    "c1e6c9637a0b08d2c48602c4c7a63e70",
     "832858eee86c5c2a3919ba29f2fcd7f1",
     "f614c3a521b32413f5c8b60244f8ea63",
     "46d9f99763e4e54f0e04120883f5df80",
@@ -2001,11 +1999,11 @@
     "772f6ddf8c14cd65b248c5ca4f91e748",
     "ac08fe23ab8b44f1ee9d6f07bc8716af",
     "f671479226fd169811fc827c281054f6",
-    "731f27755a20a641276c9df19ef226d4"
+    "731f27755a20a641276c9df19ef226d4",
+    "aa534461b656c48d4a7862fb7757edbf",
+    "7c4b94a252393300e225937a65284889"
   ],
   "titles": [
-    "Wegen Krieg im Gazastreifen - Niederlande verbieten israelischen Ministern Smotrich und Ben-Gvir die Einreise",
-    "Finanzpolitik - Haushaltsloch der Bundesregierung größer als angenommen",
     "Kölner Kardinal: Zu retten ist bei Woelki nichts mehr",
     "Liveblog Bundespolitik: Grüne-Jugend-Chefin tritt nicht wieder an",
     "Grüne Jugend - Co-Chefin Nietzard kandidiert nicht mehr für den Bundesvorstand - Blasel kritisiert eigene Partei",
@@ -3003,11 +3001,11 @@
     "Haushaltsdisziplin - Klingbeil fordert alle Minister zum Sparen auf",
     "USA - Richter verbietet Veröffentlichung von Akten zum Fall Epstein",
     "Asienreise - Wadephul setzt heute Indonesien-Besuch mit Gesprächen in Jakarta fort",
-    "Texas - Parlament beschließt von Trump geforderte Neuordnung der Wahlkreise"
+    "Texas - Parlament beschließt von Trump geforderte Neuordnung der Wahlkreise",
+    "Brasilien - Bericht: Bolsonaro soll Flucht nach Argentinien geplant haben",
+    "Gaza-Krieg - Israelischer Armeesprecher: Erste Phasen der Offensive auf Gaza-Stadt haben begonnen"
   ],
   "hashes": [
-    "45a30f7a82eeb33964ae334e43989b1e",
-    "45afa8ca2bd734b7941ec60be6b46e6c",
     "96d65739c859281353bce0a6989c4860",
     "eefe07d2eec27378839905d714006712",
     "94a2870b6fdff827ef6985186e2f4f1c",
@@ -4005,6 +4003,8 @@
     "30fc06cabd0614158213f66a7ac4cd6a",
     "611f75066a1ebb993072193307ddff67",
     "077fb7620fdae1e2ef2e5e0e41c925a7",
-    "c4779cb881c19860ab77d05cd7e03044"
+    "c4779cb881c19860ab77d05cd7e03044",
+    "72163cd9b013cad9a107012062fad7ba",
+    "13dd613c361ac50a2ef8700e2a34d487"
   ]
 }
