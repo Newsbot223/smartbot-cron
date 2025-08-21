@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kein-durchbruch-bei-chinesisch-amerikanischen-handelsgespraechen-100.html",
-    "https://www.spiegel.de/wirtschaft/reiche-fordert-schnelleren-ausbau-der-infrastruktur-a-db1cdc2b-65b8-4139-a2b1-add9d9d699c1#ref=rss",
     "https://www.deutschlandfunk.de/gericht-lehnt-vorzeitige-haftentlassung-von-kriegsverbrecher-mladic-ab-100.html",
     "https://www.deutschlandfunk.de/arabische-staaten-fordern-ende-der-hamas-herrschaft-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-will-haushalt-2026-beschliessen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/pkw-dichte-in-deutschland-abermals-gestiegen-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundesinnenminister-dobrindt-ip-adressenspeicherung-kommt-bald-110647490.html",
     "https://www.deutschlandfunk.de/ukrainer-wegen-mutmasslicher-sabotage-an-nord-stream-pipelines-festgenommen-100.html",
-    "https://www.deutschlandfunk.de/dgb-ausbildungsreport-azubis-zum-grossen-teil-zufrieden-100.html"
+    "https://www.deutschlandfunk.de/dgb-ausbildungsreport-azubis-zum-grossen-teil-zufrieden-100.html",
+    "https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-kuendigt-streichung-von-hilfsprojekten-an-104.html",
+    "https://www.spiegel.de/politik/deutschland/pakistan-innenminister-dobrindt-daempft-erwartung-an-baldige-aufnahme-aller-ortskraefte-aus-afghanistan-a-8562d978-b52d-457b-8337-c8e5226485a5#ref=rss"
   ],
   "content_hashes": [
-    "0a3ca196d505ad2c756059d20ac7a05f",
-    "7757fc0baa55f43c4f281d4ce22922ca",
     "a51b6ec801ec6ab49ad31c25bc7cd71d",
     "6470737b8b4f4bb636c56d2e162ed9a2",
     "3fab87d100db4bca873a58f01515ab9f",
@@ -2001,11 +1999,11 @@
     "cad46577f70827da761027d67534a4f8",
     "f49a7e08d35deb37ce19b031858b0c07",
     "261482a8d80c1997c65548b97fa018f7",
-    "71880e960215274bcaa434658dd7fbdb"
+    "71880e960215274bcaa434658dd7fbdb",
+    "112de545d699330c2640cef510eb5aae",
+    "51f1c34a8a7bbe64ccc3ccff275bbf53"
   ],
   "titles": [
-    "Anhaltender Zollfrieden - Kein Durchbruch bei chinesisch-amerikanischen Handelsgesprächen",
-    "Reiche fordert schnelleren Ausbau der Infrastruktur",
     "Bosnien-Krieg - Gericht lehnt vorzeitige Haftentlassung von Kriegsverbrecher Mladic ab",
     "Gaza-Konferenz - Arabische Staaten fordern Ende der Hamas-Herrschaft",
     "Finanzplanung - Bundeskabinett will Haushalt 2026 beschließen",
@@ -3003,11 +3001,11 @@
     "Statistisches Bundesamt - PKW-Dichte in Deutschland abermals gestiegen",
     "Dreimonatige Speicherpflicht: Dobrindt: IP-Adressenspeicherung kommt bald",
     "Italien - Ukrainer wegen mutmaßlicher Sabotage an Nord-Stream-Pipelines festgenommen",
-    "DGB-Ausbildungsreport: Azubis zum großen Teil zufrieden"
+    "DGB-Ausbildungsreport: Azubis zum großen Teil zufrieden",
+    "Bundeshaushalt - Entwicklungsministerin Alabali Radovan kündigt Streichung von Hilfsprojekten an",
+    "Pakistan: Innenminister Dobrindt dämpft Erwartung an baldige Aufnahme aller Ortskräfte aus Afghanistan"
   ],
   "hashes": [
-    "185f5a094eea6aec4074437beddfbfc3",
-    "ec61b606dd9a3808d583623178f976af",
     "5145c03815340701b93de11877516a2e",
     "b021d6afed179008957dffaab07fd1e3",
     "bedb71402d136792820dc767d064ae61",
@@ -4005,6 +4003,8 @@
     "f42ce528bb56fc1dbf55c076baa6b862",
     "be148cbc0afc3c225fe4e379154600d3",
     "aa7d2c2a16863daee388ebf129ada7c9",
-    "4e9d1e3c7b83de442f3d4147ad1b68e7"
+    "4e9d1e3c7b83de442f3d4147ad1b68e7",
+    "995cca72f3b3a4fae723e409f0a4e29b",
+    "56ff0aaf995f20b52d38e7537c898c42"
   ]
 }
