@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kritik-an-kuerzungen-bei-der-entwicklungshilfe-sparkurs-auf-dem-ruecken-der-aermsten-100.html",
-    "https://www.aljazeera.com/video/counting-the-cost/2025/7/30/the-eu-and-us-agree-to-a-trade-deal-but-who-won-the-negotiations?traffic_source=rss",
-    "https://www.deutschlandfunk.de/us-praesident-trump-kuendigt-25-prozent-zoelle-fuer-indien-an-und-kritisiert-russland-geschaefte-100.html",
     "https://www.deutschlandfunk.de/hoechststrafe-fuer-vierfachen-feuermord-von-solingen-100.html",
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-eu-wird-nicht-genug-gefuerchtet-100.html",
     "https://www.deutschlandfunk.de/nach-erdbeben-lava-tritt-aus-vulkan-kljutschewskaja-sopka-aus-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/cdu-europaabgeordneter-gahler-serbische-gesellschaft-muss-sich-entscheiden-in-welche-richtung-sie-wi-100.html",
     "https://www.deutschlandfunk.de/verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html",
     "https://www.deutschlandfunk.de/selenskyj-will-militaerischen-druck-auf-russland-erhoehen-100.html",
-    "https://www.deutschlandfunk.de/schrankenlose-parkplaetze-verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html"
+    "https://www.deutschlandfunk.de/schrankenlose-parkplaetze-verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html",
+    "https://www.deutschlandfunk.de/bip-staerker-geschrumpft-als-erwartet-0-3-prozent-im-zweiten-quartal-100.html",
+    "https://www.deutschlandfunk.de/aegypten-birgt-antike-statuen-aus-dem-mittelmeer-102.html",
+    "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-nrw-ist-kein-bollwerk-gegen-die-afd-mehr-110648121.html"
   ],
   "content_hashes": [
-    "def6ee034d634bb179b6dfee566e3e93",
-    "5f681c48f3c283c12ac30c8e224fad90",
-    "827303da5640af50b64da6f749694e87",
     "3476e1c187a95c00dcd9ac2c9bdbc02d",
     "c6fa842f27ea74575106dcb1b959ad0f",
     "da1e2d24e14f4739aecea5d73c79b4d3",
@@ -2001,12 +1998,12 @@
     "39023f818ea1aff4a6a3a3e9f54e44f2",
     "d7390315bbd8fc3d02703a6c2db15860",
     "75810c5dda7ac1c2af37b12df801ef09",
-    "ace2aa3e8c6643db90dacc1943c7e512"
+    "ace2aa3e8c6643db90dacc1943c7e512",
+    "5a2dde4964b6bff77bc9ed4b2b2fc84c",
+    "ceda644f1c4259c9d9b43d41034ecc45",
+    "009ca39526a68d669ffad012f4328ba1"
   ],
   "titles": [
-    "Bundeshaushalt - Kritik an Kürzungen bei der Entwicklungshilfe: \"Sparkurs auf dem Rücken der Ärmsten\"",
-    "The EU and US agree to a trade deal, but who won the negotiations?",
-    "Handelsstreit - US-Präsident Trump kündigt 25-Prozent-Zölle für Indien an und kritisiert Russland-Geschäfte",
     "Gerichtsurteil - Höchststrafe für vierfachen Feuermord von Solingen",
     "Zollstreit mit den USA - Frankreichs Präsident Macron: \"EU wird nicht genug gefürchtet\"",
     "Vor der Ostküste Russlands - Nach Erdbeben: Lava tritt aus Vulkan Kljutschewskaja Sopka aus",
@@ -3003,12 +3000,12 @@
     "Proteste in Serbien - CDU-Europaabgeordneter Gahler: \"Serbische Gesellschaft muss sich entscheiden, in welche Richtung sie will\"",
     "Schrankenlose Parkplätze - Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen",
     "Ukraine-Krieg - Selenskyj will militärischen Druck auf Russland erhöhen",
-    "Verkehr - Schrankenlose Parkplätze: Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen"
+    "Verkehr - Schrankenlose Parkplätze: Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen",
+    "Statistisches Bundesamt - BIP stärker geschrumpft als erwartet: 0,3 Prozent im zweiten Quartal",
+    "Alexandria - Ägypten birgt antike Statuen aus dem Mittelmeer",
+    "Kommunalwahlen: NRW ist kein Bollwerk gegen die AfD mehr"
   ],
   "hashes": [
-    "766de5f02950fad03f187a11e9b466df",
-    "57d8f68b58dd08ace8442991884d42da",
-    "203dbe47af8f3eaee7b92fe538bfd999",
     "7ae37019d4f601344e74265b3f66984e",
     "c54d8eac87ac7cee1c5532f6d8d45f60",
     "fd3a6662eea08003f57f2c0abbe76200",
@@ -4005,6 +4002,9 @@
     "dd75132bdfdf324ef454c52881edb031",
     "d2a4451eac1f56827cf946dcb7f67cd5",
     "a0d0d6911fa99575dca01823685448f2",
-    "cae0abd47cf2c78fbe260f9b9dd5984c"
+    "cae0abd47cf2c78fbe260f9b9dd5984c",
+    "4ede1483bce1cc4e3059e9a98af33ee3",
+    "1191a25b4acc26c884cbabffa3225114",
+    "29bac76af58957dc2184f6a9ed1bd8f7"
   ]
 }
