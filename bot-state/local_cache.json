@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/der-hauptgeschaeftsfuehrer-des-landkreistag-hans-guenter-henneke-zur-finanznot-der-kommunen-110614485.html",
-    "https://www.deutschlandfunk.de/brief-aus-kulturbranche-an-merz-lassen-sie-gaza-nicht-sterben-100.html",
     "https://www.deutschlandfunk.de/neue-us-sanktionen-gegen-irans-oelgeschaefte-100.html",
     "https://www.deutschlandfunk.de/frueherer-israelischer-botschafter-stein-netanjahus-politik-ist-gescheitert-militaereinsatz-im-gazas-102.html",
     "https://www.deutschlandfunk.de/rehlinger-brauchen-zusaetzliches-abkommen-fuer-stahl-und-aluminium-zwischen-eu-und-usa-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wie-der-aussenkanzler-seine-rolle-ausfuellt-110648189.html",
     "https://www.deutschlandfunk.de/haftbefehl-nach-toedlichen-schuessen-auf-polizisten-erlassen-100.html",
     "https://www.deutschlandfunk.de/thyssenkrupp-stahlchef-schlaegt-wegen-billigimporten-alarm-100.html",
-    "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sparappell-so-will-klingbeil-die-milliardenluecke-im-haushalt-angehen-110650301.html"
+    "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sparappell-so-will-klingbeil-die-milliardenluecke-im-haushalt-angehen-110650301.html",
+    "https://www.deutschlandfunk.de/russischer-aussenminister-lawrow-noch-keine-plaene-fuer-putin-selenskyj-gipfel-100.html",
+    "https://www.deutschlandfunk.de/kulturpass-steht-vor-dem-aus-staatsminister-weimer-werden-in-andere-projekte-investieren-102.html"
   ],
   "content_hashes": [
-    "7000bc864cbbd79942f5448df9032081",
-    "94d8cc8428e750e921b9bea43cee4914",
     "bfea3b47759a73060865e000cead4e2c",
     "4a02159ddcc5c0f09c5188370cf46c58",
     "27ce22b8fbc56d97ed51514c659225e0",
@@ -2001,11 +1999,11 @@
     "84a76ef7e5ee8d75c8d99e8f1c7645ff",
     "5cc939a09cad04d402ecb7feee7f841b",
     "033c1841e2ed09640e7ddeb580d85883",
-    "6ab4b91f991312c4122db378e4c4c027"
+    "6ab4b91f991312c4122db378e4c4c027",
+    "275c0f43e7e5aaf301eed829af29fba8",
+    "cde69d5b0a1b7a2c8c2c791c29a629f1"
   ],
   "titles": [
-    "Notlage der Kommunen: „Es geht ungehemmt weiter bergab“",
-    "Nahost - Brief aus Kulturbranche an Merz: \"Lassen Sie Gaza nicht sterben\"",
     "Nahost - Neue US-Sanktionen gegen Irans Ölgeschäfte",
     "Nahost - Früherer israelischer Botschafter Stein: \"Netanjahus Politik ist gescheitert\" - Militäreinsatz im Gazastreifen \"ohne Strategie\"",
     "Handel - Rehlinger: \"Brauchen zusätzliches Abkommen für Stahl und Aluminium zwischen EU und USA\"",
@@ -3003,11 +3001,11 @@
     "Außenpolitik: Merz hat seine Rolle gefunden",
     "Völklingen - Haftbefehl nach tödlichen Schüssen auf Polizisten erlassen",
     "Außenhandel - Thyssenkrupp-Stahlchef schlägt wegen Billigimporten Alarm",
-    "Hohe Renten- und Zinsausgaben: Wie Klingbeil die 172-Milliarden-Lücke schließen will"
+    "Hohe Renten- und Zinsausgaben: Wie Klingbeil die 172-Milliarden-Lücke schließen will",
+    "Ukrainekrieg - Russischer Außenminister Lawrow: Noch keine Pläne für Putin-Selenskyj-Gipfel",
+    "Förderung des Bundes - Kulturpass steht vor dem Aus - Staatsminister Weimer: \"Werden in andere Projekte investieren\""
   ],
   "hashes": [
-    "e7feafa0333abe13c8a187ce070a1f41",
-    "9ae0dfa4e8ef69a23f7fa97aa30aef9e",
     "034ba7700137a2db3250b48c8141ad28",
     "77431eb5baf42eef02cf4276b7fa087d",
     "ad72ea9bcaf59f4e9dd02f26fcb00a31",
@@ -4005,6 +4003,8 @@
     "90a3fce2ac4559fa460f0a539fc4b2ce",
     "db22bdd29fcf92764cf6fe8639975031",
     "bbd83f63f94496bf09d44be5ebbcc036",
-    "1ddae43997160fc38363b37c0f73ed2e"
+    "1ddae43997160fc38363b37c0f73ed2e",
+    "fd328927d94c28c932869dbc1c75868f",
+    "3588010576adc279bedc0212c0c7a419"
   ]
 }
