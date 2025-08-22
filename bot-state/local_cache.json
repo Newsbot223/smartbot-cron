@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wegen-israel-unterstuetzung-anzeigewelle-gegen-merz-110614631.html",
-    "https://www.deutschlandfunk.de/zwei-kinder-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
     "https://www.deutschlandfunk.de/flugverkehr-am-nachmittag-zeitweise-massiv-gestoert-102.html",
     "https://www.faz.net/aktuell/politik/inland/attentaeter-von-magdeburg-schreibt-briefe-und-setzt-opfer-in-angst-110614509.html",
     "https://www.deutschlandfunk.de/mehr-geld-fuer-personal-und-digitalisierung-bundesregierung-will-justiz-staerken-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-vorerst-gestoppt-100.html",
     "https://www.deutschlandfunk.de/bundeswehrverband-chef-sicherheitsgarantien-muessen-in-aller-konsequenz-durchdacht-werden-100.html",
     "https://www.deutschlandfunk.de/debatte-um-sicherheitsgarantien-fuer-die-ukraine-100.html",
-    "https://www.spiegel.de/politik/deutschland/christoph-heusgen-merkels-ex-sicherheitsberater-draengt-auf-anerkennung-eines-palaestinenserstaates-a-1d64d909-845a-4e78-be71-c53157e8f53b#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/christoph-heusgen-merkels-ex-sicherheitsberater-draengt-auf-anerkennung-eines-palaestinenserstaates-a-1d64d909-845a-4e78-be71-c53157e8f53b#ref=rss",
+    "https://www.deutschlandfunk.de/organisation-ipc-sieht-hungersnot-in-teilen-des-gazastreifens-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ccs-wer-kohlendioxid-speichert-der-schuetzt-das-klima-110646502.html"
   ],
   "content_hashes": [
-    "bb0be28184d5b2c2cbcbd453b84b3947",
-    "b035b0c6fe6df1d25e2ee3dc1973c6cc",
     "687b53a4722ae911fb2705c859736f88",
     "8b1699f450ff445e97a0d8fd00fdcfd9",
     "57d46773a7fefca50db3b6d85c024caf",
@@ -2001,11 +1999,11 @@
     "96448c5166b92be4522d226ab857b73f",
     "cc0345f014417db4ef248644b1f6c041",
     "dc2f255da7cc7f3dec6b4c1623b63000",
-    "f0ee6fb091ca254c3cf15c74d971388d"
+    "f0ee6fb091ca254c3cf15c74d971388d",
+    "9e16cfbc59f85ea4279b1dd65052ec9e",
+    "9f1e3a489333afd7512f81d3aef56ce6"
   ],
   "titles": [
-    "Zwei Kampagnen: Anzeigenwelle gegen Merz wegen Unterstützung Israels",
-    "Libyen und Tunesien - Zwei Kinder sterben bei Bootsunglück im Mittelmeer",
     "London - Flugverkehr am Nachmittag zeitweise massiv gestört",
     "Magdeburg-Attentäter: Wie Taleb Al A. Briefe an seine Opfer schreiben konnte",
     "Kabinett - Mehr Geld für Personal und Digitalisierung - Bundesregierung will Justiz stärken",
@@ -3003,11 +3001,11 @@
     "Berlin - Umbenennung der Mohrenstraße vorerst gestoppt",
     "Ukraine - Bundeswehrverband-Chef: Sicherheitsgarantien müssen in aller Konsequenz durchdacht werden",
     "Krieg in der Ukraine - Deutschland debattiert über Sicherheitsgarantien",
-    "Christoph Heusgen: Merkels Ex-Sicherheitsberater drängt auf Anerkennung eines Palästinenserstaates"
+    "Christoph Heusgen: Merkels Ex-Sicherheitsberater drängt auf Anerkennung eines Palästinenserstaates",
+    "Nahost - Organisation IPC sieht Hungersnot in Teilen des Gazastreifens",
+    "Debatte über CCS-Technologie: Wer CO2 speichert, schützt das Klima"
   ],
   "hashes": [
-    "4b7fb9168bdfc7d2875f59cb53cc8d96",
-    "56140783f2b842b0bb4d86ce832e7b17",
     "e330d1626ae95075e3537e6571e7fa28",
     "52fb081cbb39c898512d8d6706ab2427",
     "98ff6cdb06b867148d3b6e56708dfdba",
@@ -4005,6 +4003,8 @@
     "09c33c2a338b89a1d9821822abfa61cb",
     "65cd838f08c4d764b01d7acb7062d6d6",
     "2f3df3af4ed2a9d5b6418be57e747e1a",
-    "c44840a846aaa41a9159033e65c63a23"
+    "c44840a846aaa41a9159033e65c63a23",
+    "d95a5614a3a040f5aad171c44236add6",
+    "b223e082a167dc0273fce5d6176d9b3a"
   ]
 }
