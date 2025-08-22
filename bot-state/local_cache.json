@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flugverkehr-am-nachmittag-zeitweise-massiv-gestoert-102.html",
-    "https://www.faz.net/aktuell/politik/inland/attentaeter-von-magdeburg-schreibt-briefe-und-setzt-opfer-in-angst-110614509.html",
     "https://www.deutschlandfunk.de/mehr-geld-fuer-personal-und-digitalisierung-bundesregierung-will-justiz-staerken-100.html",
     "https://www.deutschlandfunk.de/entgegen-den-forderungen-von-praesident-trump-us-notenbank-haelt-leitzins-stabil-100.html",
     "https://www.deutschlandfunk.de/feuerwehren-in-spanien-und-portugal-kaempfen-gegen-waldbraende-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/debatte-um-sicherheitsgarantien-fuer-die-ukraine-100.html",
     "https://www.spiegel.de/politik/deutschland/christoph-heusgen-merkels-ex-sicherheitsberater-draengt-auf-anerkennung-eines-palaestinenserstaates-a-1d64d909-845a-4e78-be71-c53157e8f53b#ref=rss",
     "https://www.deutschlandfunk.de/organisation-ipc-sieht-hungersnot-in-teilen-des-gazastreifens-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ccs-wer-kohlendioxid-speichert-der-schuetzt-das-klima-110646502.html"
+    "https://www.faz.net/aktuell/politik/inland/ccs-wer-kohlendioxid-speichert-der-schuetzt-das-klima-110646502.html",
+    "https://www.deutschlandfunk.de/buergerrechtsorganisation-geht-gegen-inhaftierung-eines-journalisten-vor-100.html",
+    "https://www.faz.net/aktuell/politik/berlin-gericht-stoppt-umbenennung-der-mohrenstrasse-vorerst-110649865.html"
   ],
   "content_hashes": [
-    "687b53a4722ae911fb2705c859736f88",
-    "8b1699f450ff445e97a0d8fd00fdcfd9",
     "57d46773a7fefca50db3b6d85c024caf",
     "0117b9d631bdd34e206885d8137bdb55",
     "100d71b84d91d3ea9b282b2bf04c2e6e",
@@ -2001,11 +1999,11 @@
     "dc2f255da7cc7f3dec6b4c1623b63000",
     "f0ee6fb091ca254c3cf15c74d971388d",
     "9e16cfbc59f85ea4279b1dd65052ec9e",
-    "9f1e3a489333afd7512f81d3aef56ce6"
+    "9f1e3a489333afd7512f81d3aef56ce6",
+    "d2dc4427537309459e4188850c119e7f",
+    "ad35d4bc8a7f2804b60e39777d3db9f1"
   ],
   "titles": [
-    "London - Flugverkehr am Nachmittag zeitweise massiv gestört",
-    "Magdeburg-Attentäter: Wie Taleb Al A. Briefe an seine Opfer schreiben konnte",
     "Kabinett - Mehr Geld für Personal und Digitalisierung - Bundesregierung will Justiz stärken",
     "Washington - Entgegen den Forderungen von Präsident Trump - US-Notenbank hält Leitzins stabil",
     "Iberische Halbinsel - Feuerwehren in Spanien und Portugal kämpfen gegen Waldbrände",
@@ -3003,11 +3001,11 @@
     "Krieg in der Ukraine - Deutschland debattiert über Sicherheitsgarantien",
     "Christoph Heusgen: Merkels Ex-Sicherheitsberater drängt auf Anerkennung eines Palästinenserstaates",
     "Nahost - Organisation IPC sieht Hungersnot in Teilen des Gazastreifens",
-    "Debatte über CCS-Technologie: Wer CO2 speichert, schützt das Klima"
+    "Debatte über CCS-Technologie: Wer CO2 speichert, schützt das Klima",
+    "USA - Bürgerrechtsorganisation geht gegen Inhaftierung eines Journalisten vor",
+    "Berlin: Gericht stoppt Umbenennung der Mohrenstraße vorerst"
   ],
   "hashes": [
-    "e330d1626ae95075e3537e6571e7fa28",
-    "52fb081cbb39c898512d8d6706ab2427",
     "98ff6cdb06b867148d3b6e56708dfdba",
     "f055841b1ab6372a9b2c87d791088587",
     "a279354bad8db4001ce5829673cce652",
@@ -4005,6 +4003,8 @@
     "2f3df3af4ed2a9d5b6418be57e747e1a",
     "c44840a846aaa41a9159033e65c63a23",
     "d95a5614a3a040f5aad171c44236add6",
-    "b223e082a167dc0273fce5d6176d9b3a"
+    "b223e082a167dc0273fce5d6176d9b3a",
+    "ece27cca87327a89b226012b71b7ab9b",
+    "e3668fb5a636f73f3de49dcd9f5f0236"
   ]
 }
