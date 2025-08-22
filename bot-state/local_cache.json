@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-verletzte-und-tote-bei-unfaellen-mit-e-scootern-102.html",
-    "https://www.deutschlandfunk.de/deutsche-arbeitslosenzahl-steigt-im-juli-auf-2-979-millionen-100.html",
     "https://www.deutschlandfunk.de/bgh-keine-vorher-nachher-werbung-fuer-hyaluron-spritzung-102.html",
     "https://www.spiegel.de/politik/autobahn-haushaltsausschuss-gibt-eine-milliarde-euro-fuer-sanierungen-frei-a-c7be5416-a4f5-499a-b51f-703eab5121b8#ref=rss",
     "https://www.spiegel.de/panorama/bildung/sommerferien-debatte-kultusminister-kritisiert-spaeten-start-in-bayern-und-baden-wuerttemberg-a-64dfc1a3-1992-417c-9a3e-fbca364828b2#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ukraine/trumps-kriegstipps-fuer-die-ukraine-woran-selenskyj-trump-erinnern-koennte-110650594.html",
     "https://www.deutschlandfunk.de/aussenminister-veldkamp-tritt-in-streit-um-israel-sanktionen-zurueck-102.html",
     "https://www.faz.net/aktuell/politik/inland/rezession-in-deutschland-ein-abbild-der-jammereikultur-110650504.html",
-    "https://www.deutschlandfunk.de/union-fuer-reform-des-selbstbestimmungsgesetzes-102.html"
+    "https://www.deutschlandfunk.de/union-fuer-reform-des-selbstbestimmungsgesetzes-102.html",
+    "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-per-eilentscheid-erlaubt-104.html",
+    "https://www.aljazeera.com/news/2025/8/22/wrongfully-deported-kilmar-abrego-garcia-released-from-tennessee-jail?traffic_source=rss"
   ],
   "content_hashes": [
-    "d1e7e5e8155f971776a1f2546dc2dd8e",
-    "58f96dfbfc209ab4fc82343f9dfd1d78",
     "e59c98befecd7c5afe1eaa88409b28ab",
     "d872b7820be739bf3b0c919e180d5300",
     "18919d8e1ec36441a504c17db2e0fd44",
@@ -2001,11 +1999,11 @@
     "3ade512bee2907e84c343471e9ecc067",
     "5312401081660a5d635f22acd059bdcb",
     "ff77304a87e190a2ddd621f7d4547a36",
-    "b35c04c9150509fb9956d24a196b1bc6"
+    "b35c04c9150509fb9956d24a196b1bc6",
+    "f0db0e27b87f0c1c52a67a6379b03479",
+    "35e44a3c159b19f7c248829edf66d810"
   ],
   "titles": [
-    "Verkehr - Mehr Verletzte und Tote bei Unfällen mit E-Scootern",
-    "Wirtschaft - Deutsche Arbeitslosenzahl steigt im Juli auf 2,979 Millionen",
     "Schönheitsbehandlungen - BGH: Keine Vorher-Nachher-Werbung für Hyaluron-Spritzung",
     "Autobahn: Haushaltsausschuss gibt eine Milliarde Euro für Sanierungen frei",
     "Sommerferien-Debatte: Kultusminister kritisiert späten Start in Bayern und Baden-Württemberg",
@@ -3003,11 +3001,11 @@
     "Trumps Kriegstipps: Woran Selenskyj Trump erinnern könnte",
     "Niederlande - Außenminister Veldkamp tritt in Streit um Israel-Sanktionen zurück",
     "Deutschlands Rezession: Ein Abbild der Jammereikultur",
-    "Fall Liebich - Union für Reform des Selbstbestimmungsgesetzes"
+    "Fall Liebich - Union für Reform des Selbstbestimmungsgesetzes",
+    "Berlin - Umbenennung der Mohrenstraße per Eilentscheid erlaubt",
+    "Wrongfully deported Kilmar Abrego Garcia released from Tennessee jail"
   ],
   "hashes": [
-    "8b3586fdd1de4a134be4465696a8a71f",
-    "b14a62aae5163277d102de6ada52653d",
     "44323375634a42e7de95c92ea8103cda",
     "e4d8bf32989403d71c623dfdabee36ca",
     "2604411225358192fc5181e3d753fe29",
@@ -4005,6 +4003,8 @@
     "5b6b081be85d6c3480eaf77f46db08b5",
     "7a7a44669761b603430ca7a03b9b6759",
     "9a8178cbe0c962c71344279a74fe1b72",
-    "0f836397e0afe90a6e579d27bf0f202d"
+    "0f836397e0afe90a6e579d27bf0f202d",
+    "4a23d5f3d41a5e6429483fefbb1d91fd",
+    "875aedf594420b1f509381c8953c5811"
   ]
 }
