@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/johann-wadephul-fordert-von-israel-absage-an-politik-der-vertreibung-und-annexion-a-a199b178-dbb8-4674-acb3-93138e7bc068#ref=rss",
-    "https://www.deutschlandfunk.de/slowenien-untersagt-jeglichen-waffenhandel-mit-israel-102.html",
     "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-wird-bis-30-april-generalsaniert-100.html",
     "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-bis-mindestens-freitagmittag-gesperrt-polizei--108.html",
     "https://www.deutschlandfunk.de/trump-verschaerft-wortwahl-gegenueber-putin-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erstmals-oeffentliche-abstimmung-zum-tier-des-jahres-gestartet-102.html",
     "https://www.deutschlandfunk.de/gedenken-an-drei-todesopfer-in-solingen-102.html",
     "https://www.deutschlandfunk.de/gesetzentwurf-zum-schutz-der-opfer-durch-elektronische-fussfessel-fuer-taeter-100.html",
-    "https://www.deutschlandfunk.de/zivilschutz-ende-der-waldbraende-in-sicht-102.html"
+    "https://www.deutschlandfunk.de/zivilschutz-ende-der-waldbraende-in-sicht-102.html",
+    "https://www.deutschlandfunk.de/merz-kuendigt-harte-auseinandersetzung-mit-spd-ueber-sozialpolitik-an-102.html",
+    "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-abgeschlossen-102.html"
   ],
   "content_hashes": [
-    "0ab0dc6dcbb59db140e2940d024237fc",
-    "d14c8584d5f5837847c5737ec990e487",
     "d26ec8567b7695fb164574b7598a2484",
     "613025c2c0537e0e56825ee432918320",
     "6e51dda5a1c786fec1ff17f8b7736e9f",
@@ -2001,11 +1999,11 @@
     "9a29614196867a02c69b4d6a7f5789b1",
     "7ab1a6a4d53c3954ed769b1aee4e86bd",
     "914521c78cbcab7c90c6f998724cfb41",
-    "fdebed01019f4a60dd320f87ab9d9c5d"
+    "fdebed01019f4a60dd320f87ab9d9c5d",
+    "d42af7e9fd51e03423ed7d2af651c43d",
+    "44607314a1d9d1047c19133347b13b1a"
   ],
   "titles": [
-    "Johann Wadephul fordert von Israel Absage an »Politik der Vertreibung und Annexion«",
-    "Gazakrieg - Slowenien untersagt jeglichen Waffenhandel mit Israel",
     "Bahn - Strecke zwischen Hamburg und Berlin wird bis 30. April generalsaniert",
     "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal bis mindestens Freitagmittag gesperrt - Polizei vermutet Sabotage",
     "Nach russischen Angriffen auf Kiew - Trump verschärft Wortwahl gegenüber Putin",
@@ -3003,11 +3001,11 @@
     "Goldschakal, Rothirsch oder Hermelin - Erstmals öffentliche Abstimmung zum \"Tier des Jahres\" gestartet",
     "Ein Jahr nach Anschlag - Gedenken an drei Todesopfer in Solingen",
     "Häusliche Gewalt - Gesetzentwurf zum Schutz der Opfer durch elektronische Fußfessel für Täter",
-    "Spanien - Zivilschutz: Ende der Waldbrände in Sicht"
+    "Spanien - Zivilschutz: Ende der Waldbrände in Sicht",
+    "Regierungskoalition - Merz kündigt harte Auseinandersetzung mit SPD über Sozialpolitik an",
+    "Berlin - Umbenennung der Mohrenstraße abgeschlossen"
   ],
   "hashes": [
-    "c07b7b494ebd8dd61a6a46f2afb86810",
-    "bcc24976472cbea376767aa5147189db",
     "f1be7b39698ffeda77b54b5770eb825a",
     "9e559501c04c06e5464eed861b7a1d93",
     "15d726686c70800e574583681e9140f2",
@@ -4005,6 +4003,8 @@
     "489dd7c72fc33f3c537ef7ab5addb319",
     "0c240c973839a044b503da74a2181c27",
     "c2796f9b94f6522cca5524fea3af57d3",
-    "fe0dc2a49c7cfcc08833829ef17500e2"
+    "fe0dc2a49c7cfcc08833829ef17500e2",
+    "564016a3591eb45bd314f6e0201efa5d",
+    "a1710d6cf4f45838f6a60596830e1d3c"
   ]
 }
