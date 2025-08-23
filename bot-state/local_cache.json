@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schaden-in-deutschland-auf-2-76-milliarden-euro-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/parlament-in-kiew-beschliesst-neues-anti-korruptionsgesetz-100.html",
     "https://www.spiegel.de/politik/deutschland/israel-johann-wadephul-verlangt-fuer-hilfsorganisationen-sicheren-zugang-nach-gaza-a-cc17b621-e915-4bb4-b1d2-e689e9251845#ref=rss",
     "https://www.aljazeera.com/video/head-to-head/2025/7/31/trump-epstein-and-immigration-raids-mehdi-hasan-and-mick-mulvaney?traffic_source=rss",
     "https://www.deutschlandfunk.de/tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-110.html",
@@ -999,11 +997,11 @@
     "https://www.aljazeera.com/news/2025/8/23/russia-ukraine-war-list-of-key-events-day-1276?traffic_source=rss",
     "https://www.deutschlandfunk.de/dichter-eugen-gomringer-im-alter-von-100-jahren-gestorben-102.html",
     "https://www.deutschlandfunk.de/ein-jahr-nach-terroranschlag-gedenkveranstaltungen-fuer-opfer-100.html",
-    "https://www.deutschlandfunk.de/gruene-signalisieren-gespraechsbereitschaft-fuer-eine-erneute-wahlrechtsreform-100.html"
+    "https://www.deutschlandfunk.de/gruene-signalisieren-gespraechsbereitschaft-fuer-eine-erneute-wahlrechtsreform-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-bekraeftigt-bereitschaft-zu-afd-verbotsverfahren-und-kritisiert-bundestagspraesidentin-klo-100.html",
+    "https://www.deutschlandfunk.de/trump-droht-nun-auch-chicago-100.html"
   ],
   "content_hashes": [
-    "ca1d9f5ee2f14e0f8204e517eef06c2d",
-    "29123232acba1191b74ad4c0355a8441",
     "a9676b948dabc7e3501c0f641e797350",
     "bd943eba0c88352df1eef4993daf534a",
     "aced517529fea015c8b0b42eba9c1ada",
@@ -2001,11 +1999,11 @@
     "dfb107002bc0d3f0b7a14a1b61dd1e83",
     "62dccf6d4e1eea54f32b4ef04cb105cb",
     "a3ee15a4072cb96172fe49bc3644dd1a",
-    "256cb7d6359cec95d0284fc33a6320a0"
+    "256cb7d6359cec95d0284fc33a6320a0",
+    "4afe86da71a7d3cbacd4eb1ed88967d8",
+    "e6bc3a99ab2b00c5ba1ba814a40479db"
   ],
   "titles": [
-    "Wirtschaftskriminalität - Schaden in Deutschland auf 2,76 Milliarden Euro gestiegen",
-    "Ukraine - Parlament in Kiew beschließt neues Anti-Korruptionsgesetz",
     "Israel: Johann Wadephul verlangt für Hilfsorganisationen sicheren Zugang nach Gaza",
     "Trump, Epstein and immigration raids: Mehdi Hasan and Mick Mulvaney",
     "Ukraine-Krieg - Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
@@ -3003,11 +3001,11 @@
     "Russia-Ukraine war: List of key events, day 1,276",
     "Lyrik - Dichter Eugen Gomringer im Alter von 100 Jahren gestorben",
     "Solingen - Ein Jahr nach Terroranschlag: Gedenkveranstaltungen für Opfer",
-    "Bundestag - Grüne signalisieren Gesprächsbereitschaft für eine erneute Wahlrechtsreform"
+    "Bundestag - Grüne signalisieren Gesprächsbereitschaft für eine erneute Wahlrechtsreform",
+    "Vizekanzler - Klingbeil bekräftigt Bereitschaft zu AfD-Verbotsverfahren und kritisiert Bundestagspräsidentin Klöckner",
+    "USA - Trump droht nun auch Chicago"
   ],
   "hashes": [
-    "5bbf85b62f4c4c7ce68527750f5631b3",
-    "bc02f6e1df6fd9c0debd63873dcc9e76",
     "5b324703d5040c84ebc48f2cfb8e2722",
     "325361fd4b348540a27426c6cefcdae8",
     "d3a28ce2c63bb77d86f40eca29bddc7d",
@@ -4005,6 +4003,8 @@
     "c4bc82705fed472524f5a200082d8ac4",
     "d34aad9c6aa7e59486699af078712a7d",
     "8c3749e7143210eb68bc15e64974b678",
-    "df71fd17889ce685d08701c4d620f321"
+    "df71fd17889ce685d08701c4d620f321",
+    "a6cb8b25850ca19773effca4a2470739",
+    "d9f328ca9ef8144d414c2f1f70b41b35"
   ]
 }
