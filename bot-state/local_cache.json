@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bekennerschreiben-nach-brand-von-bahn-kabeln-in-nrw-110617364.html",
-    "https://www.deutschlandfunk.de/usa-und-russland-lassen-die-iss-bis-2028-in-betrieb-104.html",
     "https://www.spiegel.de/politik/johann-wadephul-fordert-von-israel-absage-an-politik-der-vertreibung-und-annexion-a-a199b178-dbb8-4674-acb3-93138e7bc068#ref=rss",
     "https://www.deutschlandfunk.de/slowenien-untersagt-jeglichen-waffenhandel-mit-israel-102.html",
     "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-wird-bis-30-april-generalsaniert-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/brand-in-wuppertal-ermittler-gehen-von-anschlag-auf-gleis-aus-110651456.html",
     "https://www.faz.net/aktuell/politik/inland/umstrittenes-ampel-wahlrecht-auch-gruenen-politiker-offen-fuer-reform-110650372.html",
     "https://www.deutschlandfunk.de/erstmals-oeffentliche-abstimmung-zum-tier-des-jahres-gestartet-102.html",
-    "https://www.deutschlandfunk.de/gedenken-an-drei-todesopfer-in-solingen-102.html"
+    "https://www.deutschlandfunk.de/gedenken-an-drei-todesopfer-in-solingen-102.html",
+    "https://www.deutschlandfunk.de/gesetzentwurf-zum-schutz-der-opfer-durch-elektronische-fussfessel-fuer-taeter-100.html",
+    "https://www.deutschlandfunk.de/zivilschutz-ende-der-waldbraende-in-sicht-102.html"
   ],
   "content_hashes": [
-    "746186964b388b17e98ae012421c7de8",
-    "ad4740bd044a2a8001dca2a29f38c9fd",
     "0ab0dc6dcbb59db140e2940d024237fc",
     "d14c8584d5f5837847c5737ec990e487",
     "d26ec8567b7695fb164574b7598a2484",
@@ -2001,11 +1999,11 @@
     "be4a619c46fb90689358691cb03a0614",
     "4a1ffd6b63428200ab161857dd3260ce",
     "9a29614196867a02c69b4d6a7f5789b1",
-    "7ab1a6a4d53c3954ed769b1aee4e86bd"
+    "7ab1a6a4d53c3954ed769b1aee4e86bd",
+    "914521c78cbcab7c90c6f998724cfb41",
+    "fdebed01019f4a60dd320f87ab9d9c5d"
   ],
   "titles": [
-    "Mutmaßliche Sabotage: Bekennerschreiben nach Brand von Bahn-Kabeln in NRW",
-    "Kooperation im Weltraum - USA und Russland lassen die ISS bis 2028 in Betrieb",
     "Johann Wadephul fordert von Israel Absage an »Politik der Vertreibung und Annexion«",
     "Gazakrieg - Slowenien untersagt jeglichen Waffenhandel mit Israel",
     "Bahn - Strecke zwischen Hamburg und Berlin wird bis 30. April generalsaniert",
@@ -3003,11 +3001,11 @@
     "Brand in Wuppertal: Ermittler gehen von Anschlag auf Gleis aus",
     "Neue Debatte über Wahlrecht: „Es muss gelten, dass die Mehrheit wieder zählt“",
     "Goldschakal, Rothirsch oder Hermelin - Erstmals öffentliche Abstimmung zum \"Tier des Jahres\" gestartet",
-    "Ein Jahr nach Anschlag - Gedenken an drei Todesopfer in Solingen"
+    "Ein Jahr nach Anschlag - Gedenken an drei Todesopfer in Solingen",
+    "Häusliche Gewalt - Gesetzentwurf zum Schutz der Opfer durch elektronische Fußfessel für Täter",
+    "Spanien - Zivilschutz: Ende der Waldbrände in Sicht"
   ],
   "hashes": [
-    "28d71aaf06d0b818b05a1c98e50adc30",
-    "73f07701e8a5974985eeaf6f4a1cd436",
     "c07b7b494ebd8dd61a6a46f2afb86810",
     "bcc24976472cbea376767aa5147189db",
     "f1be7b39698ffeda77b54b5770eb825a",
@@ -4005,6 +4003,8 @@
     "c40f0e7331a6f9d624ce83b12014be35",
     "873c87d8f9bc6190195c261c04a7e76a",
     "489dd7c72fc33f3c537ef7ab5addb319",
-    "0c240c973839a044b503da74a2181c27"
+    "0c240c973839a044b503da74a2181c27",
+    "c2796f9b94f6522cca5524fea3af57d3",
+    "fe0dc2a49c7cfcc08833829ef17500e2"
   ]
 }
