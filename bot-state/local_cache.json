@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-verschaerft-wortwahl-gegenueber-putin-104.html",
-    "https://www.deutschlandfunk.de/wadephul-warnt-israel-vor-isolierung-100.html",
-    "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-bis-mindestens-freitagmittag-gesperrt-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-in-israel-100.html",
     "https://www.deutschlandfunk.de/zahl-der-toten-nach-angriff-in-kiew-auf-26-gestiegen-100.html",
     "https://www.deutschlandfunk.de/berenberg-chefvolkswirt-trumps-politik-wird-der-us-wirtschaft-schaden-100.html",
     "https://www.deutschlandfunk.de/linken-politiker-bartsch-deutschland-darf-israels-vorgehen-nicht-laenger-ignorieren-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/merz-kuendigt-harte-auseinandersetzung-mit-spd-ueber-sozialpolitik-an-102.html",
     "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-abgeschlossen-102.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-es-der-spd-bewusst-nicht-leicht-machen-a-2cbe03d8-04f6-4211-9656-b7da77f1ec14#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/spd-in-rheinland-pfalz-gregory-scholz-wird-generalsekretaer-110651716.html"
+    "https://www.faz.net/aktuell/politik/inland/spd-in-rheinland-pfalz-gregory-scholz-wird-generalsekretaer-110651716.html",
+    "https://www.deutschlandfunk.de/merz-sozialstaat-von-heute-nicht-mehr-finanzierbar-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-verteidigt-kurs-bei-aufnahme-von-afghanen-100.html",
+    "https://www.deutschlandfunk.de/kommentar-zu-asien-pazifik-auch-fuer-die-deutsche-aussenpolitik-endlich-relevant-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/trump-und-die-ukraine-europa-muss-seine-chance-jetzt-nutzen-110648098.html"
   ],
   "content_hashes": [
-    "6e51dda5a1c786fec1ff17f8b7736e9f",
-    "304e961266242dffe36ed7bec07c670e",
-    "5c6dfea1a22c269039e41a27b22f8aff",
-    "546a449f909631792ec29bce44490c4a",
     "607eaffc980b9477797a6513658939f6",
     "439dbb1e54409a84958debc6c3fcd9cf",
     "c5ed9d21b30de468713add6b7baa5ac6",
@@ -2001,13 +1997,13 @@
     "d42af7e9fd51e03423ed7d2af651c43d",
     "44607314a1d9d1047c19133347b13b1a",
     "37c9eb195c56558dbb4b257928f9ed11",
-    "1d932c8b360a84afdaa50f28454be24b"
+    "1d932c8b360a84afdaa50f28454be24b",
+    "e23fc1fffc4cf73033e4b18ec1f8d092",
+    "003c0a6d31c3efa336fe660a605c86d6",
+    "c8a2c17fe3b9cc093428d902d3873530",
+    "e915b5ead747bdd17bf5422efc1091b8"
   ],
   "titles": [
-    "Nach russischen Angriffen auf Kiew - Trump verschärft Wortwahl gegenüber Putin",
-    "Nahostreise - Wadephul warnt Israel vor Isolierung",
-    "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal bis mindestens Freitagmittag gesperrt",
-    "Krieg in Gaza - Außenminister Wadephul warnt Israel vor Isolierung",
     "Ukraine - Zahl der Toten nach Angriff in Kiew auf 26 gestiegen",
     "Zollpolitik - Berenberg-Chefvolkswirt: Trumps Politik wird der US-Wirtschaft schaden",
     "Krieg im Gazastreifen - Linken-Politiker Bartsch: \"Deutschland darf Israels Vorgehen nicht länger ignorieren\"",
@@ -3003,13 +2999,13 @@
     "Regierungskoalition - Merz kündigt harte Auseinandersetzung mit SPD über Sozialpolitik an",
     "Berlin - Umbenennung der Mohrenstraße abgeschlossen",
     "Friedrich Merz will es der SPD »bewusst nicht leicht« machen",
-    "SPD in Rheinland-Pfalz: Mit neuem Generalsekretär in die Landtagswahl"
+    "SPD in Rheinland-Pfalz: Mit neuem Generalsekretär in die Landtagswahl",
+    "Regierungskoalition - Merz: \"Sozialstaat von heute nicht mehr finanzierbar\"",
+    "Berlin - Dobrindt verteidigt Kurs bei Aufnahme von Afghanen",
+    "Wadephuls Asienreise - Kommentar: Asien ist endlich relevant für Deutschland",
+    "Ukraine-Krieg: Europa muss seine Chance jetzt nutzen"
   ],
   "hashes": [
-    "15d726686c70800e574583681e9140f2",
-    "75c758e21cab8aa313d3d6f26b47932f",
-    "61c1295741fad9468a8f3053f72fda0e",
-    "9d893ba61657b07a862fbc38009cbf36",
     "eba170e8bbccec5b3c1c1f90cc4dae22",
     "7f785e89ec38ead4dec8082fc08f39c2",
     "da8ef2768b4f71591b9a44b43259a6f6",
@@ -4005,6 +4001,10 @@
     "564016a3591eb45bd314f6e0201efa5d",
     "a1710d6cf4f45838f6a60596830e1d3c",
     "e742cb52dd06148d5e03963ccc57ba42",
-    "c5c95556d2496f5b46fd690ab40d7294"
+    "c5c95556d2496f5b46fd690ab40d7294",
+    "536103fae529f246a0d2bd766d9d2c58",
+    "183488c5e2ae3899bbc56f99b969d755",
+    "c4e3406337f560ead5038c984f1e9f26",
+    "751410a4be04b9ddd04c8b636d735285"
   ]
 }
