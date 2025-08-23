@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tausende-helfer-im-einsatz-gegen-waldbraende-102.html",
-    "https://www.deutschlandfunk.de/trump-gewaehrt-mexiko-einen-90-tage-aufschub-102.html",
-    "https://www.deutschlandfunk.de/mindestens-12-tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-102.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgart-neue-ermittlungen-gegen-syrische-grossfamilie-110610101.html",
     "https://www.deutschlandfunk.de/wadephul-ruft-israel-zu-absage-an-kurs-von-vertreibung-und-annexion-auf-100.html",
     "https://www.faz.net/aktuell/politik/inland/bekennerschreiben-nach-brand-von-bahn-kabeln-in-nrw-110617364.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/was-friedrich-merz-von-helmut-kohl-und-angela-merkel-lernen-kann-110649640.html",
     "https://www.deutschlandfunk.de/ukraine-meldet-erneut-russische-luftangriffe-102.html",
     "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-per-eilentscheid-nun-doch-erlaubt-100.html",
-    "https://www.deutschlandfunk.de/boersenverein-fordert-kulturpass-fuer-junge-erwachsene-beizubehalten-102.html"
+    "https://www.deutschlandfunk.de/boersenverein-fordert-kulturpass-fuer-junge-erwachsene-beizubehalten-102.html",
+    "https://www.deutschlandfunk.de/staatsschutz-ermittelt-nach-gleisbrand-bei-wuppertal-100.html",
+    "https://www.faz.net/aktuell/politik/inland/brand-in-wuppertal-ermittler-gehen-von-anschlag-auf-gleis-aus-110651456.html",
+    "https://www.faz.net/aktuell/politik/inland/umstrittenes-ampel-wahlrecht-auch-gruenen-politiker-offen-fuer-reform-110650372.html"
   ],
   "content_hashes": [
-    "2a9376937a16163d6a8c44ce6ef93708",
-    "b021320cf5dcd0e5be03b149fa23a68f",
-    "90f81e58441d267b4ef1d2e380b5168d",
     "96ec154db00171861222de711d42cc8e",
     "027f3ebb47aecb28316165467aa79ffc",
     "746186964b388b17e98ae012421c7de8",
@@ -2001,12 +1998,12 @@
     "397d3794ff58b30b17719183b465287d",
     "5180e041e3dbd11552d02756b2054086",
     "6f6da74e222aab2d105c8ecb908001bb",
-    "cd4e2f226c3b29def617536cf0910bcd"
+    "cd4e2f226c3b29def617536cf0910bcd",
+    "b2b47eeee73db983a98634b650bbe7bd",
+    "be4a619c46fb90689358691cb03a0614",
+    "4a1ffd6b63428200ab161857dd3260ce"
   ],
   "titles": [
-    "Iberische Halbinsel - Tausende Helfer im Einsatz gegen Waldbrände",
-    "Zollkonflikt - Trump gewährt Mexiko einen 90 Tage-Aufschub",
-    "Ukraine-Krieg - Mindestens 12 Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
     "Kriminelle syrische Familie: Die nächsten Straftaten der Großfamilie H.",
     "Nahostreise - Wadephul ruft Israel zu Absage an Kurs von Vertreibung und Annexion auf",
     "Mutmaßliche Sabotage: Bekennerschreiben nach Brand von Bahn-Kabeln in NRW",
@@ -3003,12 +3000,12 @@
     "Der Kanzler und seine Partei: Was Merz von Merkel und Kohl lernen kann",
     "Ukraine-Krieg - Ukraine meldet erneut russische Luftangriffe",
     "Berlin - Umbenennung der Mohrenstraße per Eilentscheid nun doch erlaubt",
-    "Geplante Abschaffung - Börsenverein fordert, Kulturpass für junge Erwachsene beizubehalten"
+    "Geplante Abschaffung - Börsenverein fordert, Kulturpass für junge Erwachsene beizubehalten",
+    "Bahnverkehr - Staatsschutz ermittelt nach Gleisbrand bei Wuppertal",
+    "Brand in Wuppertal: Ermittler gehen von Anschlag auf Gleis aus",
+    "Neue Debatte über Wahlrecht: „Es muss gelten, dass die Mehrheit wieder zählt“"
   ],
   "hashes": [
-    "37b010c3b856d236ad5082e30c0b63e5",
-    "804172182091844f4d4340c60dbb13d0",
-    "4c1f9e164e297008d7b9a9c36af7b494",
     "d013e3b20cb0eda10c7ae98c70972da8",
     "86db07963324a2311fb84be6565455a8",
     "28d71aaf06d0b818b05a1c98e50adc30",
@@ -4005,6 +4002,9 @@
     "77ca48f967ddd55b84f3684a85d12a80",
     "cd2a104452f16c5468c1ad4296eaeea6",
     "6e857d3d36d4cda027a6ceba6703a03f",
-    "b470a08a15fad0c314f43462219b7877"
+    "b470a08a15fad0c314f43462219b7877",
+    "b364bdc200ef6f0cb942eb3a69581f2e",
+    "c40f0e7331a6f9d624ce83b12014be35",
+    "873c87d8f9bc6190195c261c04a7e76a"
   ]
 }
