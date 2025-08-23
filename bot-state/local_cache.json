@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/intel-aus-in-magdeburg-die-naechste-subventionspleite-110614804.html",
-    "https://www.deutschlandfunk.de/franzoesin-maeva-squiban-gewinnt-sechste-etappe-102.html",
-    "https://www.deutschlandfunk.de/israel-greift-hisbollah-einrichtungen-aus-der-luft-an-100.html",
     "https://www.deutschlandfunk.de/tausende-helfer-im-einsatz-gegen-waldbraende-102.html",
     "https://www.deutschlandfunk.de/trump-gewaehrt-mexiko-einen-90-tage-aufschub-102.html",
     "https://www.deutschlandfunk.de/mindestens-12-tote-und-viele-verletzte-bei-russischen-luftangriffen-auf-kiew-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutsch-israelische-gesellschaft-hamas-fuer-hungersnot-verantwortlich-uno-vorsatz-israels-100.html",
     "https://www.deutschlandfunk.de/nach-repraesentantenhaus-stimmt-auch-senat-fuer-neuzuschnitt-von-wahlkreisen-102.html",
     "https://www.deutschlandfunk.de/hungersnot-in-gaza-interview-marcus-faber-fdp-vize-dt-israel-gesellschaft-100.html",
-    "https://www.faz.net/aktuell/politik/inland/was-friedrich-merz-von-helmut-kohl-und-angela-merkel-lernen-kann-110649640.html"
+    "https://www.faz.net/aktuell/politik/inland/was-friedrich-merz-von-helmut-kohl-und-angela-merkel-lernen-kann-110649640.html",
+    "https://www.deutschlandfunk.de/ukraine-meldet-erneut-russische-luftangriffe-102.html",
+    "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-per-eilentscheid-nun-doch-erlaubt-100.html",
+    "https://www.deutschlandfunk.de/boersenverein-fordert-kulturpass-fuer-junge-erwachsene-beizubehalten-102.html"
   ],
   "content_hashes": [
-    "1301fb67bcbc7d04a3495ac440b7df31",
-    "0a4419036b4b79e5ec94f7afac27ac71",
-    "5b9ac915d47a975f21d11f1d42a0a9a4",
     "2a9376937a16163d6a8c44ce6ef93708",
     "b021320cf5dcd0e5be03b149fa23a68f",
     "90f81e58441d267b4ef1d2e380b5168d",
@@ -2001,12 +1998,12 @@
     "7eb0d3335a89a531c41682ae319ecb7a",
     "a1c244b8991d516cce5a6de39e34b769",
     "60580586dbfec543d328f1535a634ad1",
-    "397d3794ff58b30b17719183b465287d"
+    "397d3794ff58b30b17719183b465287d",
+    "5180e041e3dbd11552d02756b2054086",
+    "6f6da74e222aab2d105c8ecb908001bb",
+    "cd4e2f226c3b29def617536cf0910bcd"
   ],
   "titles": [
-    "Intel-Aus in Magdeburg: Die nächste Subventionspleite",
-    "Tour de France Femmes - Französin Maeva Squiban gewinnt sechste Etappe",
-    "Libanon - Israel greift Hisbollah-Einrichtungen aus der Luft an",
     "Iberische Halbinsel - Tausende Helfer im Einsatz gegen Waldbrände",
     "Zollkonflikt - Trump gewährt Mexiko einen 90 Tage-Aufschub",
     "Ukraine-Krieg - Mindestens 12 Tote und viele Verletzte bei russischen Luftangriffen auf Kiew",
@@ -3003,12 +3000,12 @@
     "Gazastreifen - Deutsch-israelische Gesellschaft: Hamas für Hungersnot verantwortlich - UNO: Vorsatz Israels",
     "Texas - Nach Repräsentantenhaus stimmt auch Senat für Neuzuschnitt von Wahlkreisen",
     "Hungersnot in Gaza - Deutsch-Israelische Gesellschaft betont Verantwortung der Hamas",
-    "Der Kanzler und seine Partei: Was Merz von Merkel und Kohl lernen kann"
+    "Der Kanzler und seine Partei: Was Merz von Merkel und Kohl lernen kann",
+    "Ukraine-Krieg - Ukraine meldet erneut russische Luftangriffe",
+    "Berlin - Umbenennung der Mohrenstraße per Eilentscheid nun doch erlaubt",
+    "Geplante Abschaffung - Börsenverein fordert, Kulturpass für junge Erwachsene beizubehalten"
   ],
   "hashes": [
-    "c86d994a8087d6204218c0626076cb44",
-    "dfa2c9cf0e4289033f1a3618a72d5d3e",
-    "5d9ce53a019f215130a047ccf46fc1cc",
     "37b010c3b856d236ad5082e30c0b63e5",
     "804172182091844f4d4340c60dbb13d0",
     "4c1f9e164e297008d7b9a9c36af7b494",
@@ -4005,6 +4002,9 @@
     "a7d2cbeba8725612e810b1c123d7d331",
     "e3794e80a5b699de183e7bbb01d423f5",
     "cf9f005d1b6c28681a7bee8ffa610d2f",
-    "77ca48f967ddd55b84f3684a85d12a80"
+    "77ca48f967ddd55b84f3684a85d12a80",
+    "cd2a104452f16c5468c1ad4296eaeea6",
+    "6e857d3d36d4cda027a6ceba6703a03f",
+    "b470a08a15fad0c314f43462219b7877"
   ]
 }
