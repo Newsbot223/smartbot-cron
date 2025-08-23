@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/duesseldorf-nach-duisburg-staatsschutz-ermittelt-nach-brand-an-bahnstrecke-110616209.html",
-    "https://www.deutschlandfunk.de/strecke-duesseldorf-duisburg-nach-brand-in-kabelkanal-gesperrt-polizei-vermutet-sabotage-100.html",
     "https://www.deutschlandfunk.de/studie-menschen-atmen-zehntausende-mikroplastikteile-ein-102.html",
     "https://www.faz.net/aktuell/politik/inland/aus-psychiatrie-abgeschoben-war-das-rechtens-110616273.html",
     "https://www.deutschlandfunk.de/swr-staatsanwaltschaft-stuttgart-ermittelt-nach-instagram-post-von-afd-chefin-weidel-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-angriffen-mit-19-toten-startet-die-regierung-eine-militaeroffensive-gegen-farc-splittergruppen-100.html",
     "https://www.deutschlandfunk.de/griechenland-mehr-als-300-brandstifter-festgenommen-106.html",
     "https://www.deutschlandfunk.de/an-deutschen-schulen-wird-spanisch-als-fremdsprache-beliebter-franzoesisch-faellt-weiter-zurueck-102.html",
-    "https://www.faz.net/aktuell/politik/inland/nach-haseloff-wie-sven-schulze-sachsen-anhalt-vor-der-afd-retten-will-110649964.html"
+    "https://www.faz.net/aktuell/politik/inland/nach-haseloff-wie-sven-schulze-sachsen-anhalt-vor-der-afd-retten-will-110649964.html",
+    "https://www.deutschlandfunk.de/mitglied-des-untersuchungsausschusses-schrumpf-sicherheitsbehoerden-waren-ueberfordert-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/energiepolitik-taiwan-stimmt-ueber-atomkraft-wiedereinstieg-ab-110649950.html"
   ],
   "content_hashes": [
-    "52567815db517161e38e0b689b5bbff9",
-    "45b56931d158f686f1bbb48aa70bac76",
     "c3388938bed667eeca55c703d04bb714",
     "389dabf6ce2958394dbe673a29f0162e",
     "e5bd5606e7756e214434f6a3e3c1890d",
@@ -2001,11 +1999,11 @@
     "9a909464e44fddf867090b07ffb4c150",
     "a38f6da0d9c1bcdbdb2fdfc1db678aae",
     "74a68795ee040c1245fa2f7ee00e3194",
-    "530d9293078f5732a2f4ccc1bb6ac511"
+    "530d9293078f5732a2f4ccc1bb6ac511",
+    "a7f3b08e900d3d617401ab3a460af0fd",
+    "c0e3d283a7e905041923c1ed8e1993e4"
   ],
   "titles": [
-    "Düsseldorf – Duisburg: Staatsschutz ermittelt nach Brand an Bahnstrecke in NRW",
-    "Deutsche Bahn - Strecke Düsseldorf-Duisburg nach Brand in Kabelkanal gesperrt - Polizei vermutet Sabotage",
     "Frankreich - Studie: Menschen atmen Zehntausende Mikroplastikteile ein",
     "Aus Psychiatrie geholt: Bayern verteidigt Abschiebungen von Straftätern",
     "Hasskommentare - SWR: Staatsanwaltschaft Stuttgart ermittelt nach Instagram-Post von AfD-Chefin Weidel",
@@ -3003,11 +3001,11 @@
     "Kolumbien - Nach Angriffen mit 19 Toten startet die Regierung eine Militäroffensive gegen Farc-Splittergruppen",
     "Waldbrände - Griechenland: Mehr als 300 Brandstifter festgenommen",
     "Statistisches Bundesamt - An deutschen Schulen wird Spanisch als Fremdsprache beliebter, Französisch fällt weiter zurück",
-    "Schulzes Pläne nach Haseloff: „Jeder weiß, worum es hier geht“"
+    "Schulzes Pläne nach Haseloff: „Jeder weiß, worum es hier geht“",
+    "Ein Jahr nach Anschlag in Solingen - Mitglied des Untersuchungsausschusses Schrumpf: Sicherheitsbehörden waren überfordert",
+    "Energiepolitik in Taiwan: Atomkraft, ja doch?"
   ],
   "hashes": [
-    "6ab486b482651491d978a4ec2fbc7c17",
-    "40127fd83eb5e7d9a0f4e7affa72797b",
     "8518fae31de8ddc2756b27ab165c29c3",
     "7067744554f6ca561bef5d90f14c3548",
     "f924c96b34d33c2ac68bdd5d22cc273a",
@@ -4005,6 +4003,8 @@
     "f622c382539256c52fb0329bcfe79169",
     "262db4ad49ca31ec340c6fd71046e2db",
     "2e598d1cf1177be6c77888000ff2de4e",
-    "fc8663546e87da9d2f22c87aae886036"
+    "fc8663546e87da9d2f22c87aae886036",
+    "7759806062a90d2ff707a52327134a0a",
+    "35731b1e9c02c7eaf0de51bd2095c736"
   ]
 }
