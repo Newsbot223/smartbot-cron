@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bahnstrecke-duesseldorf-duisburg-bis-mindestens-zum-abend-gesperrt-zweite-schadstelle-entdeckt-100.html",
-    "https://www.deutschlandfunk.de/das-wirtschaftsgespraech-trump-verschiebt-zoelle-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeshaushalt-gute-arbeit-mit-weniger-personal-110616747.html",
     "https://www.deutschlandfunk.de/eu-ebnet-weg-fuer-ende-der-fluessigkeitbegrenzung-im-flugzeug-handgepaeck-100.html",
     "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-digitale-als-gedruckte-bibeln-verbreitet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schleswig-holsteins-ministerpraesident-guenther-debatte-ueber-bundeswehreinsatz-in-der-ukraine-ist-v-100.html",
     "https://www.deutschlandfunk.de/bundesamt-nutzer-vor-einflussmoeglichkeiten-von-herstellern-digitaler-produkte-schuetzen-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-unabhaengigkeitstag-kanadischer-premierminister-carney-in-kiew-102.html",
-    "https://www.deutschlandfunk.de/streit-um-musikfestival-jamel-rockt-den-foerster-cdu-landrat-laesst-aeusserungen-von-campino-und-ver-100.html"
+    "https://www.deutschlandfunk.de/streit-um-musikfestival-jamel-rockt-den-foerster-cdu-landrat-laesst-aeusserungen-von-campino-und-ver-100.html",
+    "https://www.deutschlandfunk.de/institut-der-deutschen-wirtschaft-deutlich-weniger-patentanmeldungen-durch-privatleute-100.html",
+    "https://www.deutschlandfunk.de/syriens-regierung-verschiebt-auswahl-prozess-fuer-uebergangsparlament-in-drusen-und-kurdengebieten-100.html"
   ],
   "content_hashes": [
-    "f7f31abb738bf2f3d614a87416e4057d",
-    "54d4d0c65bdfd0f767c64aec3912b88e",
     "cd55cab6f9d83f982067e5d01ad96448",
     "dedb55580b3ea9d34ce3788bab9481f6",
     "dc70479dd8bcd4b5d314d753d7f006a8",
@@ -2001,11 +1999,11 @@
     "6c8ed1b88aae94b0e58b712e879608ef",
     "6fd93bfd4ae205f95dd642db2266aca0",
     "14347a1567a1a93cd009619827bfe255",
-    "2af6f116c1d7e8cb9caa769a5e9937f3"
+    "2af6f116c1d7e8cb9caa769a5e9937f3",
+    "74a49ce56017e3b55e64ace2ca52eee1",
+    "58f0c8a7d1e8c0ecf5fc8bf907245cb1"
   ],
   "titles": [
-    "Brandanschlag - Bahnstrecke Düsseldorf-Duisburg bis mindestens zum Abend gesperrt - zweite Schadstelle entdeckt",
-    "Handelskonflikt - Trump verschiebt neue Zollregeln",
     "Bundeshaushalt: Stimmt so!",
     "Reisen - EU ebnet Weg für Ende der Flüssigkeitbegrenzung im Flugzeug-Handgepäck",
     "Religion - Weltweit erstmals mehr digitale als gedruckte Bibeln verbreitet",
@@ -3003,11 +3001,11 @@
     "Interview der Woche - Schleswig-Holsteins Ministerpräsident Günther: Debatte über Bundeswehreinsatz in der Ukraine ist verfrüht",
     "Digitale Souveränität - Bundesamt: Nutzer vor Einflussmöglichkeiten von Herstellern digitaler Produkte schützen",
     "Ukraine-Krieg - Ukrainischer Unabhängigkeitstag - Kanadischer Premierminister Carney in Kiew",
-    "Mecklenburg-Vorpommern - Streit um Musikfestival \"Jamel rockt den Förster\": CDU-Landrat lässt Äußerungen von Campino und Veranstalterin prüfen"
+    "Mecklenburg-Vorpommern - Streit um Musikfestival \"Jamel rockt den Förster\": CDU-Landrat lässt Äußerungen von Campino und Veranstalterin prüfen",
+    "Medienbericht - Institut der deutschen Wirtschaft: deutlich weniger Patentanmeldungen durch Privatleute",
+    "Wahlkommission - Syriens Regierung verschiebt Auswahl-Prozess für Übergangsparlament in Drusen- und Kurdengebieten"
   ],
   "hashes": [
-    "2aec4c3b7f5785871a5c5c6afca6a36e",
-    "f7e52e8e89e54cde83d2533aca919f66",
     "e8c248deb70f0714d5902dddd67fedb5",
     "58d41fabf59f94aec96b52c61a05a201",
     "3d3fa8761d166691dc4851dce2178e91",
@@ -4005,6 +4003,8 @@
     "d279878aeea8a54ddc05d1b49387711f",
     "cd603b1086f63a56d4e7f625f46430f8",
     "458cfa60479a7690964ef28bbf236c34",
-    "01650e6f251c3c555b083980cc619031"
+    "01650e6f251c3c555b083980cc619031",
+    "eb2269c87c90c6f1cd998129bb8ee618",
+    "8db65db6bd1e5948dc90a586346f4138"
   ]
 }
