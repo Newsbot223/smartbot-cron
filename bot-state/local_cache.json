@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/palantir-fuer-die-polizei-wunderwaffe-oder-totale-ueberwachung-110619071.html",
-    "https://www.faz.net/aktuell/politik/ausland/eugh-urteil-zum-asylrecht-ein-ordnungsruf-gegen-meloni-110618723.html",
     "https://www.deutschlandfunk.de/innenministerium-will-vermerk-fuer-einstufung-der-afd-als-gesichert-rechtsextrem-veroeffentlichen-100.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-wegen-aeusserst-provokanten-aeusserungen-verlegung-von-atom-u-booten-an-100.html",
     "https://www.deutschlandfunk.de/ex-minister-und-weitere-beschuldigte-wegen-einsturz-des-bahnhofsvordachs-in-novi-sad-festgenommen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/luftwaffe-in-nigeria-toetet-dschihadisten-und-befreit-geiseln-102.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgart-21-menetekel-mit-ansage-110639764.html",
     "https://www.faz.net/aktuell/politik/inland/lechner-kritisiert-lies-und-lobt-merz-als-friedenskanzler-110652653.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-klingbeil-die-lage-der-koalition-luft-nach-oben-110652675.html"
+    "https://www.faz.net/aktuell/politik/inland/merz-klingbeil-die-lage-der-koalition-luft-nach-oben-110652675.html",
+    "https://www.deutschlandfunk.de/pentagon-plant-nationalgarde-einsatz-in-chicago-offenbar-schon-fuer-september-kritik-der-demokraten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/frauen-vor-gewalttaetern-schuetzen-fussfesseln-sind-nur-ein-baustein-110652633.html"
   ],
   "content_hashes": [
-    "fff7f052ddf82286ce0b9e721292f535",
-    "662e0e3271740600c62648082864c478",
     "5916d2e8cd1fa61646436d11256774ed",
     "6e38997fe799518a0612b1ed021bff32",
     "f44a4574c645b313a73687c3245bf8eb",
@@ -2001,11 +1999,11 @@
     "1d67182e359c59c76bde4e1c01cb951b",
     "47eb131f782550f326260f4d575908c9",
     "75033f9e8ba59912d81f2e9c8e5d54d5",
-    "a129127eb709069b502cdf6d96c56389"
+    "a129127eb709069b502cdf6d96c56389",
+    "79a760b7c4be6ece09c0c635058f75b3",
+    "937d3033af2af7c0e699798ba0904374"
   ],
   "titles": [
-    "F.A.Z. Podcast für Deutschland: Palantir für die Polizei: „Wunderwaffe\" oder totale Überwachung?",
-    "EuGH-Urteil zum Asylrecht: Ein Ordnungsruf gegen Meloni",
     "Brandenburg - Innenministerium will Vermerk für Einstufung der AfD als gesichert rechtsextrem veröffentlichen",
     "Nach Streit mit Medwedew - Trump kündigt wegen \"äußerst provokanten\" Äußerungen Verlegung von Atom-U-Booten an",
     "Serbien - Ex-Minister und weitere Beschuldigte wegen Einsturz des Bahnhofsvordachs in Novi Sad festgenommen",
@@ -3003,11 +3001,11 @@
     "Kampf gegen Terrorgruppen - Luftwaffe in Nigeria tötet Dschihadisten und befreit Geiseln",
     "Stuttgart 21: Was die Protestbewegung schon damals hätte verraten können",
     "Niedersachsen-CDU: Lechner attackiert Lies und lobt Merz als Friedenskanzler",
-    "Lage der Koalition: Luft nach oben"
+    "Lage der Koalition: Luft nach oben",
+    "USA - Pentagon plant Nationalgarde-Einsatz in Chicago offenbar schon für September - Kritik der Demokraten",
+    "Hubigs Gesetzentwurf: Fußfesseln können nur ein Baustein sein"
   ],
   "hashes": [
-    "095f3aff62ee1919787c97df3637fd81",
-    "1d548ece0c7ac036cc4614da05401b01",
     "a95d5481f43a353bb8762a9131dc8f3f",
     "b04e8b557f63f99d14702b931cc2d9b5",
     "90bf8ba7f27512c83700186a137530b7",
@@ -4005,6 +4003,8 @@
     "e4337392d881740f1d1397ff2ea5a0ae",
     "cb6f427a3e3b9dcc47f6123ed64fe30b",
     "df473a52d5bd1dfa1e36387373a1b17e",
-    "3f90a5aa3d7558ccbfd5555802e6e537"
+    "3f90a5aa3d7558ccbfd5555802e6e537",
+    "58017f2b6bdd9a422020d2630feb361e",
+    "384fd739b4f85ff03c1b1e5d6889d20f"
   ]
 }
