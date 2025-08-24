@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbraende-werden-immer-schlimmer-und-befoerdern-die-klimakrise-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-bafoeg-empfaenger-auf-niedrigstem-stand-seit-25-jahren-104.html",
     "https://www.deutschlandfunk.de/bahnstrecke-duesseldorf-duisburg-bis-mindestens-zum-abend-gesperrt-zweite-schadstelle-entdeckt-100.html",
     "https://www.deutschlandfunk.de/das-wirtschaftsgespraech-trump-verschiebt-zoelle-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeshaushalt-gute-arbeit-mit-weniger-personal-110616747.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/referendum-ueber-zukunft-von-bosnischem-serbenfuehrer-dodik-fuer-oktober-angesetzt-100.html",
     "https://www.deutschlandfunk.de/sozialstaat-ist-zu-analog-und-zu-altmodisch-ministerpraesident-schweitzer-spd-klagt-ueber-zu-viele-a-100.html",
     "https://www.deutschlandfunk.de/schleswig-holsteins-ministerpraesident-guenther-debatte-ueber-bundeswehreinsatz-in-der-ukraine-ist-v-100.html",
-    "https://www.deutschlandfunk.de/bundesamt-nutzer-vor-einflussmoeglichkeiten-von-herstellern-digitaler-produkte-schuetzen-100.html"
+    "https://www.deutschlandfunk.de/bundesamt-nutzer-vor-einflussmoeglichkeiten-von-herstellern-digitaler-produkte-schuetzen-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-unabhaengigkeitstag-kanadischer-premierminister-carney-in-kiew-102.html",
+    "https://www.deutschlandfunk.de/streit-um-musikfestival-jamel-rockt-den-foerster-cdu-landrat-laesst-aeusserungen-von-campino-und-ver-100.html"
   ],
   "content_hashes": [
-    "918a3c9558bb1dc1eb8bc8e8c36020e3",
-    "102973217744cc0be2898e228a942e14",
     "f7f31abb738bf2f3d614a87416e4057d",
     "54d4d0c65bdfd0f767c64aec3912b88e",
     "cd55cab6f9d83f982067e5d01ad96448",
@@ -2001,11 +1999,11 @@
     "599149272d3ea24ba27801a28ebb7f42",
     "0abf61f524d04682266a8e9a82ed6149",
     "6c8ed1b88aae94b0e58b712e879608ef",
-    "6fd93bfd4ae205f95dd642db2266aca0"
+    "6fd93bfd4ae205f95dd642db2266aca0",
+    "14347a1567a1a93cd009619827bfe255",
+    "2af6f116c1d7e8cb9caa769a5e9937f3"
   ],
   "titles": [
-    "WWF-Studie - Waldbrände werden immer schlimmer und befördern die Klimakrise",
-    "Statistik - Zahl der Bafög-Empfänger auf niedrigstem Stand seit 25 Jahren",
     "Brandanschlag - Bahnstrecke Düsseldorf-Duisburg bis mindestens zum Abend gesperrt - zweite Schadstelle entdeckt",
     "Handelskonflikt - Trump verschiebt neue Zollregeln",
     "Bundeshaushalt: Stimmt so!",
@@ -3003,11 +3001,11 @@
     "Bosnien und Herzegowina - Referendum über Zukunft von bosnischem Serbenführer Dodik für Oktober angesetzt",
     "Regierungskoalition - \"Sozialstaat ist zu analog und zu altmodisch\" – Ministerpräsident Schweitzer (SPD) klagt über zu viele Akteure",
     "Interview der Woche - Schleswig-Holsteins Ministerpräsident Günther: Debatte über Bundeswehreinsatz in der Ukraine ist verfrüht",
-    "Digitale Souveränität - Bundesamt: Nutzer vor Einflussmöglichkeiten von Herstellern digitaler Produkte schützen"
+    "Digitale Souveränität - Bundesamt: Nutzer vor Einflussmöglichkeiten von Herstellern digitaler Produkte schützen",
+    "Ukraine-Krieg - Ukrainischer Unabhängigkeitstag - Kanadischer Premierminister Carney in Kiew",
+    "Mecklenburg-Vorpommern - Streit um Musikfestival \"Jamel rockt den Förster\": CDU-Landrat lässt Äußerungen von Campino und Veranstalterin prüfen"
   ],
   "hashes": [
-    "0867124811cd44412d63e00a0bb06019",
-    "cdfde91956154de613d959e3d0ad99b7",
     "2aec4c3b7f5785871a5c5c6afca6a36e",
     "f7e52e8e89e54cde83d2533aca919f66",
     "e8c248deb70f0714d5902dddd67fedb5",
@@ -4005,6 +4003,8 @@
     "d5f37ef3079f1fb46cf68b7be8163710",
     "30c1e649643bccfc44a7a538cabf2ec4",
     "d279878aeea8a54ddc05d1b49387711f",
-    "cd603b1086f63a56d4e7f625f46430f8"
+    "cd603b1086f63a56d4e7f625f46430f8",
+    "458cfa60479a7690964ef28bbf236c34",
+    "01650e6f251c3c555b083980cc619031"
   ]
 }
