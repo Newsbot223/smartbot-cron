@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/erhebung-zur-lage-ungewollt-schwangerer-gruene-und-linke-draengen-auf-studien-veroeffentlichung-a-adff614c-a706-4635-9403-687eb4e1b361#ref=rss",
-    "https://www.deutschlandfunk.de/gedenken-an-warschauer-aufstand-100.html",
     "https://www.faz.net/aktuell/politik/inland/analyse-der-fdp-wir-haben-die-erwartungen-vieler-buerger-enttaeuscht-110617938.html",
     "https://www.deutschlandfunk.de/laut-uno-mehr-als-1-300-menschen-beim-warten-auf-hilfe-getoetet-102.html",
     "https://www.deutschlandfunk.de/millionenstrafe-gegen-armani-unternehmen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-gratuliert-landsleuten-zum-tag-der-unabhaengigkeit-von-der-sowjetunion-us-sondergesandter--100.html",
     "https://www.deutschlandfunk.de/us-regierung-will-irrtuemlich-abgeschobenen-migranten-nun-nach-uganda-bringen-100.html",
     "https://www.faz.net/aktuell/politik/inland/so-isst-politik-investigativ-jagd-nach-dem-weisswurst-kochbuch-110650271.html",
-    "https://www.faz.net/aktuell/politik/karoline-preisler-bei-pro-palaestina-demo-in-berlin-verletzt-110652328.html"
+    "https://www.faz.net/aktuell/politik/karoline-preisler-bei-pro-palaestina-demo-in-berlin-verletzt-110652328.html",
+    "https://www.deutschlandfunk.de/cdu-politiker-frei-verteidigt-kanzleramts-ausbau-100.html",
+    "https://www.deutschlandfunk.de/deutsche-feuerwehrleute-jetzt-in-nordspanien-im-einsatz-100.html"
   ],
   "content_hashes": [
-    "b01c153d28802c4f026931237cdb734d",
-    "e6107efa5dd98014f8cdd25310368e70",
     "97f1021d17d84fbc9d12f482147f09f8",
     "9c0552e48a4e410dc0d24de8c0562bf2",
     "dbb94b18d637f637cd1d3baf903c43a7",
@@ -2001,11 +1999,11 @@
     "8c71ad50369bb0d2d01075bc1ac27244",
     "71b67ecb13d2d6c8cf6073cf01288d1c",
     "f10f8b19f8cf97c615264e58d69adf32",
-    "07e49697dd2d8630fe1cc1f5a972ec6c"
+    "07e49697dd2d8630fe1cc1f5a972ec6c",
+    "576bf17668791358cc223a1ff1e533f8",
+    "0e4f3e1e4760340ea489023ecc3cc2d7"
   ],
   "titles": [
-    "Erhebung zur Lage ungewollt Schwangerer: Grüne und Linke drängen auf Studien-Veröffentlichung",
-    "Polen - Gedenken an Warschauer Aufstand",
     "Analyse der FDP: „Wir haben die Erwartungen vieler Bürger enttäuscht“",
     "Gazastreifen - Laut UNO mehr als 1.300 Menschen beim Warten auf Hilfe getötet",
     "Italien - Millionenstrafe gegen Armani-Unternehmen",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Selenskyj gratuliert Landsleuten zum Tag der Unabhängigkeit von der Sowjetunion - US-Sondergesandter Kellog in Kiew",
     "Migrationspolitik - US-Regierung will irrtümlich abgeschobenen Migranten nun nach Uganda bringen",
     "So isst Politik – investigativ: Auf der Jagd nach dem Weißwurst-Kochbuch",
-    "FDP-Politikerin: Karoline Preisler bei Pro-Palästina-Demo in Berlin verletzt"
+    "FDP-Politikerin: Karoline Preisler bei Pro-Palästina-Demo in Berlin verletzt",
+    "Regierungssitz - CDU-Politiker Frei verteidigt Kanzleramts-Ausbau",
+    "Waldbrände - Deutsche Feuerwehrleute jetzt in Nordspanien im Einsatz"
   ],
   "hashes": [
-    "083f83a201f1cc0c0db224edcf8150c9",
-    "46ccf46ee8b304013e149e87be0344c8",
     "9cd2cae69b6f336ac563e0ccb14322d7",
     "4b6b0c49f2f878b31232274adea58227",
     "5c290d2e1ba5d6cc7ab5bdb067478dae",
@@ -4005,6 +4003,8 @@
     "bd9140aeae05e31799de6ac7c8036b5c",
     "5ce18328d124e4e1318dc1f314e312ff",
     "5e2048457b1abe766c6065068141a0ba",
-    "a917e3408f5cb2745a016eb90172223b"
+    "a917e3408f5cb2745a016eb90172223b",
+    "4ebd420eb505ff973bf089ad22a7b3b0",
+    "f9dabfaf4f0ad52baa88687aec279e5b"
   ]
 }
