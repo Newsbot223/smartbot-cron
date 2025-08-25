@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/haeusliche-gewalt-immer-mehr-menschen-in-deutschland-sind-laut-bericht-von-haeuslicher-gewalt-betroffen-a-52e0e588-1ade-4373-80c7-7e0eb92a0a7b#ref=rss",
-    "https://www.deutschlandfunk.de/mehr-als-1-000-illegale-bergleute-in-stillgelegter-mine-festgenommen-100.html",
-    "https://www.spiegel.de/politik/deutschland/arbeitszeit-gewerkschaftschef-michael-vassiliadis-lehnt-reform-ab-a-5e992d94-63d1-4072-81a0-5bfe0f5f624a#ref=rss",
     "https://www.deutschlandfunk.de/zugstrecke-zwischen-hamburg-und-berlin-fuer-neun-monate-gesperrt-ersatzverkehr-laeuft-laut-bahn-plan-100.html",
     "https://www.deutschlandfunk.de/thailand-fehlen-zehntausende-kambodschanische-arbeiter-102.html",
     "https://www.deutschlandfunk.de/kommentar-zu-wadephuls-israel-reise-merz-sollte-palaestina-jetzt-anerkennen-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/bundesanwaltschaft-erhebt-anklage-gegen-mutmasslichen-chinesischen-spion-110653452.html",
     "https://www.deutschlandfunk.de/unicredit-stockt-anteile-an-commerzbank-weiter-auf-uebernahmeangebot-naht-100.html",
     "https://www.deutschlandfunk.de/tote-bei-israelischem-beschuss-von-gaza-klinik-nachrichtenagenturen-ap-und-reuters-erschuettert-uebe-100.html",
-    "https://www.aljazeera.com/gallery/2025/8/25/israel-bombs-nasser-hospital-southern-gazas-main-medical-facility?traffic_source=rss"
+    "https://www.aljazeera.com/gallery/2025/8/25/israel-bombs-nasser-hospital-southern-gazas-main-medical-facility?traffic_source=rss",
+    "https://www.deutschlandfunk.de/gruenen-spitzenpolitiker-habeck-zieht-sich-zum-1-september-aus-dem-bundestag-zurueck-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-kroatien-ist-unverzichtbar-fuer-eu-beitrittsverhandlungen-mit-anderen-balkan-100.html",
+    "https://www.faz.net/aktuell/politik/inland/merkel-zu-migration-bis-jetzt-haben-wir-viel-geschafft-110653563.html"
   ],
   "content_hashes": [
-    "b199d123f4e5ad1fbe07a295e5e432bd",
-    "855d62561f0dbe7ff710bf999c90aeae",
-    "0d53a56e0bef412b96ec9006d4025c55",
     "e4ffa8554dcf40ad1ef49836b1c7ce55",
     "9fa98bcb3afc9447a197556539749f6c",
     "f2d7bb0aa6b8edb5fa4737dd6e01fb4e",
@@ -2001,12 +1998,12 @@
     "634e2ec923c080aa0e29abb9bfdc0c7e",
     "961c760416072d729b6ec1753a6655cb",
     "b00b53a69b7ed9362a03e91a3130fb3b",
-    "075979d92476141a42d4c90db1c7d114"
+    "075979d92476141a42d4c90db1c7d114",
+    "23cf0b86dbe3d2ffba34946ecfd43d5b",
+    "e5d600c495546470d6b186ce63a36f71",
+    "0a3150d0511b83b61401eb8fc302f30f"
   ],
   "titles": [
-    "Häusliche Gewalt: Immer mehr Menschen in Deutschland sind laut Bericht von häuslicher Gewalt betroffen",
-    "Südafrika - Mehr als 1.000 illegale Bergleute in stillgelegter Mine festgenommen",
-    "Arbeitszeit: Gewerkschaftschef Michael Vassiliadis lehnt Reform ab",
     "Generalsanierung - Zugstrecke zwischen Hamburg und Berlin für neun Monate gesperrt - Ersatzverkehr läuft laut Bahn planmäßig an",
     "Nach Grenzkonflikt - Thailand fehlen zehntausende kambodschanische Arbeiter",
     "Naher Osten - Kommentar: Merz sollte Palästina jetzt anerkennen!",
@@ -3003,12 +3000,12 @@
     "Für China gearbeitet?: Bundesanwaltschaft erhebt Anklage gegen mutmaßlichen Spion",
     "Mailand - Unicredit stockt Anteile an Commerzbank weiter auf - Übernahmeangebot naht",
     "Krieg in Nahost - Tote bei israelischem Beschuss von Gaza-Klinik - Nachrichtenagenturen AP und Reuters erschüttert über Tod von Mitarbeitern",
-    "Israel bombs Nasser Hospital – southern Gaza’s main medical facility"
+    "Israel bombs Nasser Hospital – southern Gaza’s main medical facility",
+    "Ex-Vizekanzler - Grünen-Spitzenpolitiker Habeck zieht sich zum 1. September aus dem Bundestag zurück",
+    "Besuch in Zagreb - Außenminister Wadephul: Kroatien ist unverzichtbar für EU-Beitrittsverhandlungen mit anderen Balkan-Ländern",
+    "Merkel zu Migration: „Bis jetzt haben wir viel geschafft“"
   ],
   "hashes": [
-    "9d2480ec60859b86dda21323c468fc75",
-    "b85fff228b5152337c87102ad0125582",
-    "9c005da4abd2073e6eadd08f628ee656",
     "1d3929f72f7dd014ef0c685df8a9590b",
     "c0db4b34bea2b4f40d135649598d0ac2",
     "d1107f09bc494f13a199c2fb1fd78f2f",
@@ -4005,6 +4002,9 @@
     "00e297a54c59527f84c9b8df419baa56",
     "a7b041a73496a0e448557bc2260454c1",
     "49f29c7c1674c39e36b0295464f1f1e7",
-    "182cbe642bdee43be1cdc53c62ea96d6"
+    "182cbe642bdee43be1cdc53c62ea96d6",
+    "d7510f4ce2740bcd97b938f5397de6b3",
+    "5746bc8328da1b1dd784944fdd02a629",
+    "f683910aca0fec968cba3221b644ffee"
   ]
 }
