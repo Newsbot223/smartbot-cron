@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/festnahmen-wegen-korruption-bei-drohnen-kauf-100.html",
-    "https://www.deutschlandfunk.de/us-berufungsgericht-untersagt-willkuerliche-festnahmen-von-einwanderern-100.html",
     "https://www.deutschlandfunk.de/800-000-junge-katholiken-halten-gebetsstunde-mit-papst-leo-unter-freiem-himmel-ab-108.html",
     "https://www.deutschlandfunk.de/hamas-lehnt-entwaffnung-ohne-palaestinensischen-staat-ab-100.html",
     "https://www.deutschlandfunk.de/zahl-der-asyl-erstantraege-in-deutschland-sinkt-deutlich-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-regierung-nimmt-unrechtmaessig-abgeschobenen-migranten-abrego-garcia-erneut-fest-100.html",
     "https://www.deutschlandfunk.de/porsche-bestaetigt-ende-von-geplanter-batterie-produktion-100.html",
     "https://www.faz.net/aktuell/politik/inland/robert-habeck-zieht-sich-aus-der-politik-zurueck-fast-ohne-groll-110654064.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-kasernen-besser-vor-drohnen-schuetzen-100.html"
+    "https://www.deutschlandfunk.de/bundesregierung-will-kasernen-besser-vor-drohnen-schuetzen-100.html",
+    "https://www.deutschlandfunk.de/trump-droht-kritischen-sendern-mit-lizenzentzug-100.html",
+    "https://www.deutschlandfunk.de/gruenen-spitzenpolitiker-habeck-zieht-sich-aus-bundestag-zurueck-nachfolgerin-steht-fest-100.html"
   ],
   "content_hashes": [
-    "94518e555d2e459f09f7cd17951b137f",
-    "b969e54d1f9c4029331ff69c957cea05",
     "bb41338a7a1a12c1bec2563ac4dc700b",
     "000afe3b5a4a026928a892aa526b0cc4",
     "a9210041e06dbabdaab1890497897524",
@@ -2001,11 +1999,11 @@
     "6f83a5c4cc811a26d90055942d4b3cb6",
     "aef772f15ceaa22aa73e414b6503702d",
     "844faa02e494bc94456778bb800463f6",
-    "7d1676fa594b4e83bd0ddf1be3debe7a"
+    "7d1676fa594b4e83bd0ddf1be3debe7a",
+    "81f3d4cb486d712ae521531eeae51a16",
+    "75dcfbcb266b85fd2e6103c3c681dd05"
   ],
   "titles": [
-    "Ukraine - Festnahmen wegen Korruption bei Drohnen-Kauf",
-    "Trumps Migrationspolitik - US-Berufungsgericht untersagt willkürliche Festnahmen von Einwanderern",
     "Rom - 800.000 junge Katholiken halten Gebetsstunde mit Papst Leo unter freiem Himmel ab",
     "Nahost - Hamas lehnt Entwaffnung ohne palästinensischen Staat ab",
     "Migration - Zahl der Asyl-Erstanträge in Deutschland sinkt deutlich",
@@ -3003,11 +3001,11 @@
     "Migrationspolitik - US-Regierung nimmt unrechtmäßig abgeschobenen Migranten Abrego Garcia erneut fest",
     "E-Autos - Porsche bestätigt Ende von geplanter Batterie-Produktion",
     "Rückzug aus dem Bundestag: Habecks Abrechnung mit den eigenen Illusionen",
-    "Sicherheit - Bundesregierung will Kasernen besser vor Drohnen schützen"
+    "Sicherheit - Bundesregierung will Kasernen besser vor Drohnen schützen",
+    "Pressefreiheit in den USA - Trump droht kritischen Sendern mit Lizenzentzug",
+    "Ex-Vizekanzler - Grünen-Spitzenpolitiker Habeck zieht sich aus Bundestag zurück - Nachfolgerin steht fest"
   ],
   "hashes": [
-    "153421a26580da98f52beb2305f10218",
-    "10dd850304b1cab6b17e8f7a793fd725",
     "fc873cf952027332ccaf4500d4a844b5",
     "91fa96a2c2ac2be75c3edd8818db9623",
     "ba32edb9e5aeaa119e3fae12fc2fe23b",
@@ -4005,6 +4003,8 @@
     "cd50c2c2495be07607f67aae112242d4",
     "5298a0d39ad1e80eb082a1b13205cf2a",
     "c4cbd1206321095541df510c61f2e57f",
-    "c6902fae85b171397d31810aa53830ec"
+    "c6902fae85b171397d31810aa53830ec",
+    "7856eabaf7676892aef67927383aa1bd",
+    "ed8093259298e5c8094a8a429c467a07"
   ]
 }
