@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/buergergeld-zahlungen-steigen-2024-auf-knapp-47-milliarden-euro-100.html",
-    "https://www.deutschlandfunk.de/hde-chef-genth-fordert-vorgehen-gegen-billigplattformen-wie-temu-100.html",
     "https://www.spiegel.de/wirtschaft/service/ladendiebstaehle-in-deutschen-innenstaedten-nehmen-deutlich-zu-a-3dbe2008-853f-4230-a648-ecdb8c0f399c#ref=rss",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-es-braucht-eine-fundamentale-aenderung-der-israelischen-politik-100.html",
     "https://www.deutschlandfunk.de/china-und-russland-beginnen-gemeinsame-marineuebungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-sorgt-fuer-explosionen-und-truemmerteile-auf-a-102.html",
     "https://www.deutschlandfunk.de/journalistenverband-protest-darf-nicht-zu-einschraenkung-freier-berichterstattung-fuehren-102.html",
     "https://www.deutschlandfunk.de/zahl-der-wegen-rechtsextremistischer-vorfaelle-entlassenen-bundeswehrsoldaten-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/e3-europaeer-und-iran-treffen-sich-in-genf-100.html"
+    "https://www.deutschlandfunk.de/e3-europaeer-und-iran-treffen-sich-in-genf-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-entlassenen-soldaten-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/europaeer-und-iran-sprechen-ueber-atomstreit-in-genf-102.html"
   ],
   "content_hashes": [
-    "2a81f27e380eb4096d90dba34331ddb0",
-    "0f0844a9292ecb74ba6c8e060570335d",
     "2b2d4fa7557e0a6a1cfb428423ac79c3",
     "a6221db7cc050e7fb49ff84669455849",
     "4b904d0a8e8ffb612c9641f6f0b62241",
@@ -2001,11 +1999,11 @@
     "6ffd0bd152aa8cc840467c3d647bee41",
     "fa7d599430991a43cbc2e3f3f47d6d35",
     "bda4509bee96a3dedb988a73c3538de5",
-    "8ef5fbf0261ed2d1ac213f90b9fbab0b"
+    "8ef5fbf0261ed2d1ac213f90b9fbab0b",
+    "84b7a4f26180697fd6f068732b870bb7",
+    "d0bbac7f2e3cfa106b4b25091da82a0b"
   ],
   "titles": [
-    "Soziales - Bürgergeld-Zahlungen steigen 2024 auf knapp 47 Milliarden Euro",
-    "Einzelhandel - HDE-Chef Genth fordert Vorgehen gegen Billigplattformen wie Temu",
     "Ladendiebstähle in deutschen Innenstädten nehmen deutlich zu",
     "Interview der Woche - Außenminister Wadephul: Es braucht eine fundamentale Änderung der israelischen Politik",
     "Vor russischer Ostküste - China und Russland beginnen gemeinsame Marineübungen",
@@ -3003,11 +3001,11 @@
     "Großbrand - Feuer im Hamburger Hafen sorgt für Explosionen und Trümmerteile auf A1",
     "Störversuche bei Sommerinterviews - Journalistenverband: \"Protest darf nicht zu Einschränkung freier Berichterstattung führen\"",
     "Regierungsangaben - Zahl der wegen rechtsextremistischer Vorfälle entlassenen Bundeswehrsoldaten gestiegen",
-    "Konflikt um Atomprogramm - \"E3\"-Europäer und Iran treffen sich in Genf"
+    "Konflikt um Atomprogramm - \"E3\"-Europäer und Iran treffen sich in Genf",
+    "Rechtsextremismus - Zahl der entlassenen Soldaten gestiegen",
+    "Sanktionsdrohung - Europäer und Iran sprechen über Atomstreit in Genf"
   ],
   "hashes": [
-    "991143e157180d449ecb479638a0e902",
-    "7aa274661b47f1f3fc74afef446227f6",
     "892f7f907a2c6b44ace0c625288edec3",
     "2c02a545f054b63be5d1dd0aab70b2a1",
     "3f9ec4e9dbb34633c28976bd447b93b7",
@@ -4005,6 +4003,8 @@
     "f30fcec4d8405e430cc8a246ef76d204",
     "8939ac052a45e1269b56e21d7fd46821",
     "cbd5a471de8842639259c1c38b658aab",
-    "7f3299a59d5f134daa1e82cc2d110e0b"
+    "7f3299a59d5f134daa1e82cc2d110e0b",
+    "d99cee2a6e02a9197535e3de23ff5a5c",
+    "1da208e8c11665ed8ddbfa7f7fe654c2"
   ]
 }
