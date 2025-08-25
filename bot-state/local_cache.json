@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/strecke-zwischen-hamburg-und-berlin-bis-30-april-gesperrt-100.html",
-    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-fordert-verbesserung-der-humanitaeren-lage-im-gazastreifen-102.html",
-    "https://www.deutschlandfunk.de/von-heute-an-wieder-planmaessiger-verkehr-nach-brandanschlag-auf-bahnstrecke-duesseldorf-duisburg-102.html",
     "https://www.deutschlandfunk.de/ex-praesident-uribe-zu-zwoelf-jahren-hausarrest-verurteilt-102.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-skeptisch-102.html",
     "https://www.deutschlandfunk.de/schwache-arbeitsmarktzahlen-trump-laesst-statistikchefin-feuern-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-nach-kroatien-100.html",
     "https://www.deutschlandfunk.de/linnemann-zieht-kritische-bilanz-100.html",
     "https://www.deutschlandfunk.de/handwerksverband-sieht-bei-vielen-mitgliedern-wut-ueber-regierung-102.html",
-    "https://www.deutschlandfunk.de/unionsspitze-beraet-ueber-herbst-der-reformen-100.html"
+    "https://www.deutschlandfunk.de/unionsspitze-beraet-ueber-herbst-der-reformen-100.html",
+    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-in-kiew-eingetroffen-auch-gespraeche-ueber-sicherheitsgarantien-geplant-100.html",
+    "https://www.deutschlandfunk.de/unionsspitze-kommt-zu-beratungen-zusammen-100.html",
+    "https://www.deutschlandfunk.de/demokraten-sprechen-trump-befugnis-fuer-truppeneinsatz-in-chicago-ab-102.html"
   ],
   "content_hashes": [
-    "7477bf0bd8502d9b31998a83c28a23c3",
-    "d447698fdde0dffb240f1d417d9e1b41",
-    "2a8a803eef89306f2343a4d34dbacce8",
     "967b1a7a92f987f31e3660bb23a355b4",
     "8ec57c4ae723ca670dd9f989035a38f5",
     "812e58798799f71f9b8d1ecb18bf8271",
@@ -2001,12 +1998,12 @@
     "282afbda7ce5f6cb55d0d542fd44b676",
     "ea491182f951e70626a34ba13f476620",
     "aceabd8d6e72883e1f24e359ffb3c5f3",
-    "aab60ae02209495888660ecc24b6d2b1"
+    "aab60ae02209495888660ecc24b6d2b1",
+    "49c1c3e856342730d36db7bc5cc52ae6",
+    "30133b50d368bbca981a26d7540ddc63",
+    "a7308c79ed78f4f6acefe0d64d633b9c"
   ],
   "titles": [
-    "Bahn - Strecke zwischen Hamburg und Berlin bis 30. April gesperrt",
-    "Nach Nahost-Besuch - Bundesaußenminister Wadephul fordert Verbesserung der humanitären Lage im Gazastreifen",
-    "Nordrhein-Westfalen - Von heute an wieder planmäßiger Verkehr nach Brandanschlag auf Bahnstrecke Düsseldorf-Duisburg",
     "Kolumbien - Ex-Präsident Uribe zu zwölf Jahren Hausarrest verurteilt",
     "Analyse-Software von Palantir - Justizministerin Hubig sieht Einsatz skeptisch",
     "USA - Schwache Arbeitsmarktzahlen: Trump lässt Statistikchefin feuern",
@@ -3003,12 +3000,12 @@
     "Antrittsbesuch - Außenminister Wadephul reist nach Kroatien",
     "Zehn Jahre nach \"Wir schaffen das\" - Linnemann zieht kritische Bilanz",
     "Wirtschaft - Handwerksverband sieht bei vielen Mitgliedern \"Wut\" über Regierung",
-    "Bundesregierung - Unionsspitze berät über \"Herbst der Reformen\""
+    "Bundesregierung - Unionsspitze berät über \"Herbst der Reformen\"",
+    "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) in Kiew eingetroffen - auch Gespräche über Sicherheitsgarantien geplant",
+    "\"Herbst der Reformen\" - Unionsspitze kommt zu Beratungen zusammen",
+    "USA - Demokraten sprechen Trump Befugnis für Truppeneinsatz in Chicago ab"
   ],
   "hashes": [
-    "a31977d3bf4c7ec3f18d090d1445282b",
-    "84a63f107da0c244cde3fc86a67f407f",
-    "6e8ed449b0e6f1aa23a97c0cbc311d24",
     "733ad73434d2956e53e4f61ccf41099b",
     "e70ca960f6e5bc218f14a1a55c74645d",
     "dd544168e2b84f65eca2a6a241b5e895",
@@ -4005,6 +4002,9 @@
     "a3629a1e001768cb9792edf00ef02069",
     "b5e70f49525dfad89ac4887aca3357d1",
     "1790a83568761842e9d8e1563ea8c052",
-    "7a6cae1612e06946718a54705e509073"
+    "7a6cae1612e06946718a54705e509073",
+    "8fc9c99d6e97932b622633bf9259d113",
+    "b8c82abc6c7984083e23480869dfd71f",
+    "ebb62864d7e6a7ac046523f2d6a43201"
   ]
 }
