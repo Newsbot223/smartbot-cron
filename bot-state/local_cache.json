@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-von-palantir-skeptisch-gdp-bayern-datenschutz-sollte-nicht-imme-100.html",
-    "https://www.deutschlandfunk.de/verbraucherschuetzer-verklagen-fluggesellschaften-wegen-handgepaeck-gebuehren-100.html",
-    "https://www.deutschlandfunk.de/nach-drastischen-kuerzungen-us-behoerde-fuer-oeffentlichen-rundfunk-muss-schliessen-100.html",
-    "https://www.deutschlandfunk.de/justizministerin-hubig-sieht-einsatz-von-palantir-software-skeptisch-gdp-bayern-datenschutz-sollte-n-100.html",
     "https://www.deutschlandfunk.de/schriftliches-israel-bekenntnis-bei-einbuergerung-duerfte-ausnahme-bleiben-100.html",
     "https://www.deutschlandfunk.de/russland-meldet-drei-tote-bei-ukrainischen-drohnenangriffen-flugverkehr-im-russischen-samara-zeitwei-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-informiert-kanzler-merz-ueber-die-lage-im-gazastreifen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/aussenminister-wadephul-putin-will-zeit-schinden-europaeische-unterstuetzung-der-ukraine-bleibt-102.html",
     "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-und-norwegens-regierungschef-st-re-zu-gespraechen-in-kiew-100.html",
     "https://www.deutschlandfunk.de/toter-und-verletzte-nach-russischen-drohnenangriffen-auf-grenzregion-sumy-102.html",
-    "https://www.deutschlandfunk.de/sozialverband-deutschland-fordert-schulfach-medienkompetenz-102.html"
+    "https://www.deutschlandfunk.de/sozialverband-deutschland-fordert-schulfach-medienkompetenz-102.html",
+    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-sagt-ukraine-in-kiew-weitere-unterstuetzung-zu-100.html",
+    "https://www.deutschlandfunk.de/bundesanwaltschaft-klagt-us-amerikaner-an-100.html",
+    "https://www.deutschlandfunk.de/digitale-brieftasche-mit-fuehrerschein-ausweisen-und-krankenkassenkarten-soll-bis-ende-2026-kommen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundesanwaltschaft-erhebt-anklage-gegen-mutmasslichen-chinesischen-spion-110653452.html"
   ],
   "content_hashes": [
-    "270a804cf1d225751e46e47bca3ccaa5",
-    "b94eecaa836f4348ca4a1656204a8223",
-    "d59d65afb569d1e28616d947663a59fa",
-    "43b72d5f2b56fdf42055c990a05259f9",
     "ced3e743f2dd543fe81be37838848a10",
     "caebcbeef2880ab4c97cff5832719e8f",
     "5d0304f1a56efd29c5c9a7e3b472184f",
@@ -2001,13 +1997,13 @@
     "5c0341d85267d486ec82abe0c8df3183",
     "40a824ba448f67173bed93b6c72316ac",
     "3693a7530c3e5403c7dda58943151a20",
-    "0472a4c62ce7806571d2fd810840ea79"
+    "0472a4c62ce7806571d2fd810840ea79",
+    "8d6890c080483003c46ae2741c6667d2",
+    "60eb1e05ac85740066ec0a0b111f39df",
+    "0f2dc163188db4aa60fe9a7bfb4cf0ec",
+    "634e2ec923c080aa0e29abb9bfdc0c7e"
   ],
   "titles": [
-    "Umstrittene US-Software - Justizministerin Hubig sieht Einsatz von Palantir skeptisch - GdP Bayern: Datenschutz sollte nicht immer vorgeschoben werden",
-    "Luftverkehr - Verbraucherschützer verklagen Fluggesellschaften wegen Handgepäck-Gebühren",
-    "Medien in den USA - Nach drastischen Kürzungen: US-Behörde für öffentlichen Rundfunk muss schließen",
-    "Sicherheitspolitik - Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch - GdP Bayern: Datenschutz sollte nicht immer vorgeschoben werden",
     "Deutschland - Schriftliches Israel-Bekenntnis bei Einbürgerung dürfte Ausnahme bleiben",
     "Ukraine-Krieg - Russland meldet drei Tote bei ukrainischen Drohnenangriffen - Flugverkehr im russischen Samara zeitweise eingeschränkt",
     "Nach Nahost-Besuch - Bundesaußenminister Wadephul informiert Kanzler Merz über die Lage im Gazastreifen",
@@ -3003,13 +2999,13 @@
     "Besuch in Kroatien - Außenminister Wadephul: Putin will Zeit schinden - europäische Unterstützung der Ukraine bleibt",
     "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) und Norwegens Regierungschef Støre zu Gesprächen in Kiew",
     "Ukraine-Krieg - Toter und Verletzte nach russischen Drohnenangriffen auf Grenzregion Sumy",
-    "Bildung - Sozialverband Deutschland fordert Schulfach \"Medienkompetenz\""
+    "Bildung - Sozialverband Deutschland fordert Schulfach \"Medienkompetenz\"",
+    "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) sagt Ukraine in Kiew weitere Unterstützung zu",
+    "Spionage für China? - Bundesanwaltschaft klagt US-Amerikaner an",
+    "Bundestag - Digitale Brieftasche mit Führerschein, Ausweisen und Krankenkassenkarten soll bis Ende 2026 kommen",
+    "Für China gearbeitet?: Bundesanwaltschaft erhebt Anklage gegen mutmaßlichen Spion"
   ],
   "hashes": [
-    "51028072bff5c380360a15e12f223926",
-    "eae763d30e0f17aa8e87a8e69c211542",
-    "d46de80bdc5f6cd71353a7390bf1e85d",
-    "2c674e1cfb26747ab70fce60a96b0579",
     "4589f20b1090b272ca06019630ffc1a0",
     "f4c91dc51a0767b7566417bef3bb7b35",
     "1b8a59db07c24098c28ae271dacf23ca",
@@ -4005,6 +4001,10 @@
     "6a91d63dbf3a706de74da6c5caa5f2f3",
     "6e9e0c8d44cc8c57623f09ca1dd53205",
     "60d509efe2912d98ad5734b8ff8c90e8",
-    "8aa9020a00a2f6c8a49184708a4afc6f"
+    "8aa9020a00a2f6c8a49184708a4afc6f",
+    "b8aa6b32c7406b4e9a7d375bf5ede827",
+    "58d709688dbc9573aa0c047789c872fc",
+    "75d087cec573ec6b04833ca09875496b",
+    "00e297a54c59527f84c9b8df419baa56"
   ]
 }
