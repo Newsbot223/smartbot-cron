@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gedenken-an-explosion-im-hafen-von-beirut-vor-fuenf-jahren-100.html",
-    "https://www.deutschlandfunk.de/zivilisten-bei-fluchtversuch-aus-belagerter-stadt-getoetet-102.html",
-    "https://www.deutschlandfunk.de/greenpeace-verlangt-verbindliche-ziele-im-kampf-gegen-plastikmuell-100.html",
     "https://www.deutschlandfunk.de/netanjahu-kuendigt-entscheidungen-an-medien-berichten-von-geplanter-ausweitung-100.html",
     "https://www.deutschlandfunk.de/selenskyj-soeldner-aus-china-und-afrika-kaempfen-fuer-russland-102.html",
     "https://www.deutschlandfunk.de/soeder-vorstoss-loest-diskussionen-aus-kanzleramtschef-frei-gespraechsbereit-spd-kritisiert-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/israelische-armee-beschuss-von-krankenhaus-galt-hamas-kamera-100.html",
     "https://www.deutschlandfunk.de/kiew-laesst-ukrainer-bis-zum-alter-von-22-jahren-ausreisen-100.html",
     "https://www.deutschlandfunk.de/iran-und-europaeische-staaten-verhandeln-ueber-umstrittenes-atomprogramm-102.html",
-    "https://www.deutschlandfunk.de/fed-abberufung-nur-aus-wichtigem-grund-moeglich-100.html"
+    "https://www.deutschlandfunk.de/fed-abberufung-nur-aus-wichtigem-grund-moeglich-100.html",
+    "https://www.deutschlandfunk.de/gesetzesvorlagen-zielen-auf-staerkung-der-verteidigungsfaehigkeit-100.html",
+    "https://www.deutschlandfunk.de/gemeinsamer-besuch-von-merz-macron-und-tusk-100.html",
+    "https://www.deutschlandfunk.de/aegypten-verstaerkt-truppen-entlang-der-grenze-zum-gazastreifen-104.html"
   ],
   "content_hashes": [
-    "dacb1ee0340706c0b6cf9c5f2b0a34b3",
-    "e4977907c25f5fa220ff7d8672736f31",
-    "da36fd028862dc90bcfaddd4dd13a764",
     "68ca1edbc445831a2ec5eff149b10d25",
     "1ede31ea908fb1dcd2165e5ffafc87ed",
     "fa4f9f420a6b35e10a27d6b0d21b90f1",
@@ -2001,12 +1998,12 @@
     "b4c920c08797fb9ed6e39cf5e09c772c",
     "f1492207afbe503c0eba847f2f0922c4",
     "716f9b43acd91014a11b9c9156e26eb8",
-    "c8435c3effc9688e0a485d5de9dd82ea"
+    "c8435c3effc9688e0a485d5de9dd82ea",
+    "947b47ad08d0813af6bef99d38dc331c",
+    "3df55d1353b788dd3c63f572412fc00e",
+    "864f814a67fc8dfca1494bdc465e65bc"
   ],
   "titles": [
-    "Libanon - Gedenken an Explosion im Hafen von Beirut vor fünf Jahren",
-    "Bürgerkrieg im Sudan - Zivilisten bei Fluchtversuch aus belagerter Stadt getötet",
-    "Vor UNO-Verhandlungen - Greenpeace verlangt verbindliche Ziele im Kampf gegen Plastikmüll",
     "Gaza-Krieg - Netanjahu kündigt Entscheidungen an - Medien berichten von geplanter Ausweitung",
     "Ukraine-Krieg - Selenskyj: \"Söldner aus China und Afrika kämpfen für Russland\"",
     "Bürgergeld - Söder-Vorstoß löst Diskussionen aus - Kanzleramtschef Frei gesprächsbereit - SPD kritisiert",
@@ -3003,12 +3000,12 @@
     "Gazastreifen - Israelische Armee: Beschuss von Krankenhaus galt Hamas-Kamera",
     "Krieg - Kiew lässt Ukrainer bis zum Alter von 22 Jahren ausreisen",
     "Genf - Iran und europäische Staaten verhandeln über umstrittenes Atomprogramm",
-    "Nach Entlassung von US-Notenbank-Gouverneurin - Fed: Abberufung nur aus wichtigem Grund möglich"
+    "Nach Entlassung von US-Notenbank-Gouverneurin - Fed: Abberufung nur aus wichtigem Grund möglich",
+    "Kabinett - Gesetzesvorlagen zielen auf Stärkung der Verteidigungsfähigkeit",
+    "Moldau - Gemeinsamer Besuch von Merz, Macron und Tusk",
+    "Nahost - Ägypten verstärkt Truppen entlang der Grenze zum Gazastreifen"
   ],
   "hashes": [
-    "54aea8397e76a205a2d5b7c7f2c3fd1f",
-    "91b852c5d22ed3c82a58c81f6dcad747",
-    "fa2ea55cc05ab199c1d17ea0ae2a7c5f",
     "0f85ec75ab30bd2bbad2fba4651f7443",
     "ca67a5f7ad15e8b5ab97aa53e1d800ec",
     "887c3a81c9a792ed217cf5f4f509d6e2",
@@ -4005,6 +4002,9 @@
     "818ddff010bdac6950635a29010d46d6",
     "517ccfa6832324f42d4e20477cd35e4e",
     "5084d9a73da5dfb040c12921a64b707d",
-    "2dac50f785c3cf136cf909b0bfdb4bcb"
+    "2dac50f785c3cf136cf909b0bfdb4bcb",
+    "e084e8ed72487e2a2bc7036b3b54e91d",
+    "f139c78ecb34f4215773e0b78fd5556d",
+    "4c514bb65636f7099c920b02e7a0f979"
   ]
 }
