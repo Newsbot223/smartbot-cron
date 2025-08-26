@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html",
-    "https://www.deutschlandfunk.de/kloeckner-dringt-auf-erneute-reform-des-bundestagswahlrechts-104.html",
-    "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-konzerthalle-mit-mehr-als-140-toten-hat-begonnen-102.html",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-sieht-in-europa-aufholbedarf-bei-halbleiter-herstellung-100.html",
     "https://www.deutschlandfunk.de/israel-will-mehr-aufmerksamkeit-fuer-geiseln-im-gazastreifen-sondersitzung-des-sicherheitsrats-100.html",
     "https://www.deutschlandfunk.de/bundeswehr-ordert-militaer-lkw-bei-rheinmetall-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ausland/terrorplaene-bei-swift-konzert-bewaehrungsstrafe-fuer-helfer-110655683.html",
     "https://www.deutschlandfunk.de/bundesregierung-laesst-wieder-aufnahmen-von-ehemaligen-afghanischen-ortskraeften-pruefen-100.html",
     "https://www.deutschlandfunk.de/nicht-akzeptabel-merz-kritisiert-israelischen-angriff-auf-krankenhaus-in-gaza-100.html",
-    "https://www.spiegel.de/wissenschaft/deutschland-warum-essensreste-feuchtes-klopapier-tampons-nicht-in-die-toilette-gehoeren-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss"
+    "https://www.spiegel.de/wissenschaft/deutschland-warum-essensreste-feuchtes-klopapier-tampons-nicht-in-die-toilette-gehoeren-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss",
+    "https://www.deutschlandfunk.de/debatte-ueber-steuervorschlag-von-cdu-politiker-mattfeldt-102.html",
+    "https://www.deutschlandfunk.de/russisches-aufklaerungsflugzeug-nato-alarmiert-deutsche-eurofighter-ueber-der-ostsee-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundesregierung-die-angst-vor-einem-herbst-der-enttaeuschungen-110655431.html"
   ],
   "content_hashes": [
-    "cf556c4a1b657be4e54da6fda2d29e45",
-    "33f71697af2fc1ff4c3a04e4e92e9961",
-    "533f91b25dfbeec4f7be2d8b207387e7",
     "fabc6c7614a024f2dd34363bb0a175a2",
     "e04f434434a3ab50ed9e3ee22d620164",
     "730969c63586e41604d85f20b80bd0f3",
@@ -2001,12 +1998,12 @@
     "5cc5ab559c8b8785b9f24abc6aa3b105",
     "1ec9ac94d9e09671488ba24e505a3e29",
     "b2005be48fd96e8360cc9b9f0ad837d6",
-    "3ce40feb03d0abda44db0a428155d0ca"
+    "3ce40feb03d0abda44db0a428155d0ca",
+    "4a92fa55a6f723173d57d2fc24f908c0",
+    "aa3e664c615e8d950a4156c55755ec15",
+    "b6144daa73d8de840b8de9c630fd30e9"
   ],
   "titles": [
-    "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen",
-    "Bundesregierung - Klöckner dringt auf erneute Reform des Bundestagswahlrechts",
-    "Moskau - Prozess um Anschlag auf Konzerthalle mit mehr als 140 Toten hat begonnen",
     "Besuch in Dresden - Wirtschaftsministerin Reiche sieht in Europa Aufholbedarf bei Halbleiter-Herstellung",
     "Nahost - Israel will mehr Aufmerksamkeit für Geiseln im Gazastreifen - Sondersitzung des Sicherheitsrats",
     "Wirtschaft - Bundeswehr ordert Militär-Lkw bei Rheinmetall",
@@ -3003,12 +3000,12 @@
     "Abgesagte Konzerte in Wien: Bewährungsstrafe für Komplizen wegen Terrorplänen bei Swift-Konzert",
     "Auswärtiges Amt - Bundesregierung lässt wieder Aufnahmen von ehemaligen afghanischen Ortskräften prüfen",
     "Nahost - \"Nicht akzeptabel\": Merz kritisiert israelischen Angriff auf Krankenhaus in Gaza",
-    "Deutschland: Warum Essensreste, feuchtes Klopapier, Tampons nicht in die Toilette gehören"
+    "Deutschland: Warum Essensreste, feuchtes Klopapier, Tampons nicht in die Toilette gehören",
+    "Regierungskoalition - Debatte über Steuervorschlag von CDU-Politiker Mattfeldt",
+    "Fliegerhorst Rostock-Laage - Russisches Aufklärungsflugzeug: NATO alarmiert deutsche Eurofighter über der Ostsee",
+    "Stimmung in der Koalition: Die Angst vor einem Herbst der Enttäuschungen"
   ],
   "hashes": [
-    "0ae2bd859b7aec00bffcb61495f9448d",
-    "4279af96af659318178c147457b8ff7c",
-    "4ad734e14eec160e773de1c0f3053122",
     "7a1bcd9629f2a33cce06d30bc8851e71",
     "70ecb69994d13695ccc3bd6fc3ae6180",
     "2fddaf341c01898af7820ac4ec6f4949",
@@ -4005,6 +4002,9 @@
     "05c17b47446a91b906c29f1ccf44048c",
     "2982c03661723868d7c91993b01889ff",
     "b250ab897b982831700ac63c6d34ed0b",
-    "16fd677061df5c0989bf5a500451dd65"
+    "16fd677061df5c0989bf5a500451dd65",
+    "73dffb9a0433ec0c5b0079d945e47f63",
+    "4ff9f0d6373a9ab3147d910f08d23b5b",
+    "e6dad2dcf506c3c90f8aaf1a360d5908"
   ]
 }
