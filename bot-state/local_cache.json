@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bolsonaro-anhaenger-in-brasilien-fordern-freilassung-des-ex-praesidenten-102.html",
-    "https://www.spiegel.de/politik/markus-soeder-versus-dennis-radtke-debatte-in-der-union-wegen-buergergeld-fuer-ukraine-fluechtlinge-a-1c108b74-ac64-4d3a-a3e9-503aabd10626#ref=rss",
-    "https://www.deutschlandfunk.de/drei-tote-nach-russischem-beschuss-in-der-region-saporischschja-100.html",
     "https://www.deutschlandfunk.de/3200-mitarbeiter-der-kampflugzeug-sparte-von-boeing-streiken-100.html",
     "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-trifft-heute-in-washington-seinen-us-kollegen-bessent-100.html",
     "https://www.faz.net/aktuell/politik/inland/nur-jeder-sechste-wuerde-auf-jeden-fall-fuer-deutschland-kaempfen-110621028.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/koepping-spd-will-eigenanteil-in-pflegeheimen-auf-1-000-euro-begrenzen-100.html",
     "https://www.deutschlandfunk.de/trump-telefoniert-erneut-mit-putin-100.html",
     "https://www.deutschlandfunk.de/gewerkschaft-putzen-und-streichen-an-schulen-ist-keine-aufgabe-von-lehrern-und-eltern-100.html",
-    "https://www.deutschlandfunk.de/brasilien-reagiert-mit-aufkauf-heimischer-produkte-auf-us-zoelle-100.html"
+    "https://www.deutschlandfunk.de/brasilien-reagiert-mit-aufkauf-heimischer-produkte-auf-us-zoelle-100.html",
+    "https://www.deutschlandfunk.de/us-zentralbank-gouverneurin-lehnt-von-trump-angeordneten-ruecktritt-ab-100.html",
+    "https://www.deutschlandfunk.de/richterin-ordnet-neuordnung-der-wahlkreise-an-100.html",
+    "https://www.deutschlandfunk.de/historiker-wuerdigt-karl-heinrich-ulrichs-verdienste-als-frueher-vorkaempfer-fuer-die-rechte-homosex-102.html"
   ],
   "content_hashes": [
-    "e6efffffdad748d457fc6ff66c923273",
-    "7a23fb019c6800812d4850e1d9964994",
-    "69365d66bb5cb03a1fc8d3345059b66e",
     "d3375189dde5fb42ef7981f831fab07e",
     "7316e08271e12fd4ff65c758adb7992d",
     "2496e0f6993f92ebfb06cfc06c5b7157",
@@ -2001,12 +1998,12 @@
     "cb0fc625725b5d580815b6e854ceafd7",
     "212f5cc94585a572320224fbf877b37f",
     "4d798926c8c7a8f1855505381cf01ba6",
-    "40f0eea171e94f1db402d679bea25d29"
+    "40f0eea171e94f1db402d679bea25d29",
+    "ca5faac735c6c15788ceb39c744f39aa",
+    "941c7e080ffe2fe8d40e655da3b472fd",
+    "a1729880a9f36c48bcb353e0f553f696"
   ],
   "titles": [
-    "Kundgebungen - Bolsonaro-Anhänger in Brasilien fordern Freilassung des Ex-Präsidenten",
-    "Markus Söder versus Dennis Radtke: Debatte in der Union wegen Bürgergeld für Ukraine-Flüchtlinge",
-    "Ukraine-Krieg - Drei Tote nach russischem Beschuss in der Region Saporischschja",
     "USA - 3200 Mitarbeiter der Kampflugzeug-Sparte von Boeing streiken",
     "USA - Bundesfinanzminister Klingbeil trifft heute in Washington seinen US-Kollegen Bessent",
     "Im Verteidigungsfall: Nur jeder Sechste würde auf jeden Fall für Deutschland kämpfen",
@@ -3003,12 +3000,12 @@
     "Sachsen - Köpping (SPD) will Eigenanteil in Pflegeheimen auf 1.000 Euro begrenzen",
     "Ukraine-Krieg - Trump telefoniert erneut mit Putin",
     "Sanierungsstau - Gewerkschaft: Putzen und Streichen an Schulen ist keine Aufgabe von Lehrern und Eltern",
-    "Globaler Handel - Brasilien reagiert mit Aufkauf heimischer Produkte auf US-Zölle"
+    "Globaler Handel - Brasilien reagiert mit Aufkauf heimischer Produkte auf US-Zölle",
+    "Machtkampf - US-Zentralbank-Gouverneurin lehnt von Trump angeordneten Rücktritt ab",
+    "US-Bundesstaat Utah - Richterin ordnet Neuordnung der Wahlkreise an",
+    "200. Geburtstag - Historiker würdigt Karl Heinrich Ulrichs Verdienste als früher Vorkämpfer für die Rechte Homosexueller im 19. Jahrhundert"
   ],
   "hashes": [
-    "c1154a0a48b04c3bced9438d765b54a5",
-    "67c04dc376cbf265b82d559c2fc6a684",
-    "e08f5853a4c1cdcad537a4918706067f",
     "e499f7ec48531b0639e5973fa440b0c4",
     "610ce3e7acf0a0b228b751b72857e400",
     "9b98163af9ae1b8efdd4000b7503afc2",
@@ -4005,6 +4002,9 @@
     "0ff5b4cb7a24dbe3f714f595f4e2408f",
     "2d736fdb179f04efa65851cb0c1d2f6f",
     "b76333aec4757351cdbaf7dd37b6d710",
-    "73ee15c5bd834c678d5a508269113f5b"
+    "73ee15c5bd834c678d5a508269113f5b",
+    "e05a49a27cde7137fa6f7dad22e054b5",
+    "f0bc280645dc1be8ae12e1ed266edbcd",
+    "288146c225b9cc74ed07fb644e2a4203"
   ]
 }
