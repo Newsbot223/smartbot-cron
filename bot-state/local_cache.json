@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nach-habeck-wie-die-gruenen-ihre-neue-rolle-suchen-110618464.html",
-    "https://www.deutschlandfunk.de/netanjahu-aeussert-nach-veroeffentlichung-von-videos-ausgehungerter-geiseln-tiefe-bestuerzung-100.html",
     "https://www.deutschlandfunk.de/polen-verlaengert-grenzkontrollen-bis-anfang-oktober-100.html",
     "https://www.spiegel.de/politik/polen-verlaengert-grenzkontrollen-bis-oktober-a-530b5eb2-2e86-430c-95c9-2b95f752f050#ref=rss",
     "https://www.deutschlandfunk.de/vorzeitiger-ruecktritt-einer-fed-vorstaendin-spielt-trump-in-die-karten-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/vulkan-aetna-erneut-ausgebrochen-hoechste-warnstufe-fuer-flugverkehr-100.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kann-die-aufregung-darueber-nicht-nachvollziehen-100.html",
     "https://www.deutschlandfunk.de/kinderschutzbund-warnt-vor-altersgrenze-fuer-online-netzwerke-100.html",
-    "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-noch-nicht-geloescht-102.html"
+    "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-noch-nicht-geloescht-102.html",
+    "https://www.deutschlandfunk.de/australien-wirft-iran-antisemitische-anschlaege-in-sydney-und-melbourne-vor-botschafter-ausgewiesen-100.html",
+    "https://www.deutschlandfunk.de/us-praesident-trump-entlaesst-notenbank-vorstandsmitglied-cook-102.html"
   ],
   "content_hashes": [
-    "3ff9662e59d90d1fe447063334d06e41",
-    "979852be198b06961bf5c1b45de07b4f",
     "85ccff1a78eb0af13f58823ed76ec79f",
     "f539ef9a748057c37c12b66e9fbb936c",
     "28e17c5a362c201435858f04cc2d7719",
@@ -2001,11 +1999,11 @@
     "9328be750c9bd3f55191ea5763271578",
     "e43c0ba9becbf9a0dde5205889243123",
     "7d9e4e3fdfbc061c3006ad0b140e5ee8",
-    "388529c861b55f08623c3d8f7c04956f"
+    "388529c861b55f08623c3d8f7c04956f",
+    "4e4e28de019b0ccaec7584f1649f40d6",
+    "16fcefce0e06a491f6b123436a02a207"
   ],
   "titles": [
-    "Nach Habeck und Baerbock: Die Grünen unter der kalten Dusche",
-    "Nahost - Netanjahu äußert nach Veröffentlichung von Videos ausgehungerter Geiseln \"tiefe Bestürzung\"",
     "Migration - Polen verlängert Grenzkontrollen bis Anfang Oktober",
     "Polen verlängert Grenzkontrollen bis Oktober",
     "US-Notenbank - Vorzeitiger Rücktritt einer Fed-Vorständin spielt Trump in die Karten",
@@ -3003,11 +3001,11 @@
     "Sizilien - Vulkan Ätna erneut ausgebrochen, höchste Warnstufe für Flugverkehr",
     "Umstrittene Palantir-Software - Bundesinnenminister Dobrindt: Kann die Aufregung darüber nicht nachvollziehen",
     "Internet - Kinderschutzbund warnt vor Altersgrenze für Online-Netzwerke",
-    "Großbrand - Feuer im Hamburger Hafen noch nicht gelöscht"
+    "Großbrand - Feuer im Hamburger Hafen noch nicht gelöscht",
+    "Brandanschläge - Australien wirft Iran antisemitische Anschläge in Sydney und Melbourne vor - Botschafter ausgewiesen",
+    "Federal Reserve - US-Präsident Trump entlässt Notenbank-Vorstandsmitglied Cook"
   ],
   "hashes": [
-    "933f51ce47277c074ac5da29e7d30d37",
-    "eafce9b756b81e9bda3a6e14831db1b6",
     "cd88bfb2c809e217548ccab585ea6eb5",
     "e4f16b34b733e99013209ff0a6ce3303",
     "0fc2dff175140524a818a468cbd86dd8",
@@ -4005,6 +4003,8 @@
     "ecf5f9e81966eaab986ab7291006ef0a",
     "bc15f837c09d49b43b0668ae045fa05f",
     "79e2098133e5b27cb71483c59b529d10",
-    "a439fc16eab53cd88e414e85d8f48677"
+    "a439fc16eab53cd88e414e85d8f48677",
+    "b7d60d2359c3338c090b6d8554cf86d7",
+    "972af021170a832fa2eaae4499ec5974"
   ]
 }
