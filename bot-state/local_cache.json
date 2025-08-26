@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/brandenburgs-ministerpraesident-woidke-extremismus-bedroht-zukunft-von-heimat-wohlstand-und-freiheit-100.html",
-    "https://www.deutschlandfunk.de/ab-heute-verstaerkte-geschwindigkeitskontrollen-in-mehreren-bundeslaendern-und-eu-staaten-100.html",
-    "https://www.deutschlandfunk.de/uno-sicherheitsrat-soll-sich-mit-der-lage-der-geiseln-im-gazastreifen-befassen-100.html",
     "https://www.deutschlandfunk.de/trump-regierung-legt-die-axt-an-den-klimaschutz-102.html",
     "https://www.spiegel.de/panorama/wetter-ruhr-mann-loest-mit-missglueckten-arsen-experimenten-grosseinsatz-aus-a-218f56f0-3e7b-468e-a40a-788216b25afd#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/ruecksicht-in-der-koalition-merz-angst-vor-der-rente-110620451.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/schaeffler-schliesst-werk-in-steinhagen-100.html",
     "https://www.spiegel.de/wissenschaft/deutschland-darum-gehoeren-speisereste-feuchtes-klopapier-tampons-nicht-in-die-toilette-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss",
     "https://www.deutschlandfunk.de/cdu-haushaelter-offen-fuer-anhebung-der-reichensteuer-102.html",
-    "https://www.deutschlandfunk.de/expertengremium-warnt-vor-sammelsurium-von-subventionen-fuer-deutsche-unternehmen-102.html"
+    "https://www.deutschlandfunk.de/expertengremium-warnt-vor-sammelsurium-von-subventionen-fuer-deutsche-unternehmen-102.html",
+    "https://www.deutschlandfunk.de/deutsche-spender-helfen-bei-neuem-prothesenzentrum-in-kiew-104.html",
+    "https://www.deutschlandfunk.de/aegypten-verstaerkt-truppen-entlang-der-grenze-zum-gazastreifen-massenflucht-von-palaestinensern-bef-100.html",
+    "https://www.deutschlandfunk.de/ein-toter-bei-israelischem-angriff-im-sueden-syriens-zusammenstoesse-zwischen-israelischen-soldaten--100.html"
   ],
   "content_hashes": [
-    "c8def72b49392aaed353d1cb7e61508a",
-    "ca206f1ae31a4fb6a9afcc8f2c7aeef4",
-    "f0ba0737b32b0726db3cceee61915593",
     "1c109f0521073ab6a937be75d92d48d8",
     "cf30cb9ed4682a7b7ebd2dfa7ea3ada9",
     "05561456165b883222044bdbbfb1af07",
@@ -2001,12 +1998,12 @@
     "91a85849797200db405aa9757f462dee",
     "003ef369cdd60ec504edac1c704c105a",
     "6e93af05952d6b2ea88381ffaa8806d2",
-    "434987c2bc918c94d2c780730b381bcf"
+    "434987c2bc918c94d2c780730b381bcf",
+    "a884f8fae02b11133a19f7cd2cc355c0",
+    "cd214ab045d7823f5e7c0561eaf2343d",
+    "e57829e454696e045168178971baa0a5"
   ],
   "titles": [
-    "\"Größer als Spremberg\" - Brandenburgs Ministerpräsident Woidke: \"Extremismus bedroht Zukunft von Heimat, Wohlstand und Freiheit\"",
-    "Aktionswoche - Ab heute verstärkte Geschwindigkeitskontrollen in mehreren Bundesländern und EU-Staaten",
-    "New York - UNO-Sicherheitsrat soll sich mit der Lage der Geiseln im Gazastreifen befassen",
     "USA - Trump-Regierung legt die Axt an den Klimaschutz",
     "Wetter (Ruhr): Mann löst mit missglückten Arsen-Experimenten Großeinsatz aus",
     "Schwarz-Rot: Merz’ Angst vor der Rente",
@@ -3003,12 +3000,12 @@
     "Autozulieferer - Schaeffler schließt Werk in Steinhagen",
     "Deutschland: Darum gehören Speisereste, feuchtes Klopapier, Tampons nicht in die Toilette",
     "Koalition - CDU-Haushälter offen für Anhebung der Reichensteuer",
-    "Wirtschaft - Expertengremium warnt vor \"Sammelsurium von Subventionen\" für deutsche Unternehmen"
+    "Wirtschaft - Expertengremium warnt vor \"Sammelsurium von Subventionen\" für deutsche Unternehmen",
+    "Ukraine-Krieg - Deutsche Spender helfen bei neuem Prothesenzentrum in Kiew",
+    "Nahost - Ägypten verstärkt Truppen entlang der Grenze zum Gazastreifen - Massenflucht von Palästinensern befürchtet",
+    "Nahost - Ein Toter bei israelischem Angriff im Süden Syriens - Zusammenstöße zwischen israelischen Soldaten und Einwohnern in Ramallah"
   ],
   "hashes": [
-    "13f47f98991290f5b2950bd860e1a56d",
-    "3bb3ded2a9e1160ecf0ea1de6610ed3d",
-    "940da2a40dd08fdd410c1cc16cd67761",
     "42a201c212c60dca9ee5cdcfa81890d2",
     "fd4cfba297d34766e048edf0480ce2e9",
     "58f2a0a961b5bc0911db3272469a139c",
@@ -4005,6 +4002,9 @@
     "f56d7115c9d33c8bd571b943bda14fbf",
     "67cba99660f07f26586c0d900ee4a1a9",
     "962d1f3376f483296ce7da5adb210519",
-    "3bd72dc598ea7c6d0d801a2d493c635f"
+    "3bd72dc598ea7c6d0d801a2d493c635f",
+    "38f36b530e2e6dfafc6a8dad980caa2a",
+    "c1ded20ec2576735fe650b35e51a2b4d",
+    "7b977fb6430bb9c8a2743d55583c9d93"
   ]
 }
