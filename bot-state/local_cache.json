@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/buergergeld-union-und-spd-fordern-mehr-haerte-gegen-arbeitsverweigerer-110621067.html",
-    "https://www.deutschlandfunk.de/soeder-csu-kein-buergergeld-mehr-fuer-ukrainische-kriegsfluechtlinge-100.html",
     "https://www.deutschlandfunk.de/brandenburgs-ministerpraesident-woidke-extremismus-bedroht-zukunft-von-heimat-wohlstand-und-freiheit-100.html",
     "https://www.deutschlandfunk.de/ab-heute-verstaerkte-geschwindigkeitskontrollen-in-mehreren-bundeslaendern-und-eu-staaten-100.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-soll-sich-mit-der-lage-der-geiseln-im-gazastreifen-befassen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/thyssenkrupp-in-der-engeren-auswahl-merz-wirbt-bei-carney-fuer-allianz-100.html",
     "https://www.deutschlandfunk.de/grossbrand-weitgehend-geloescht-100.html",
     "https://www.deutschlandfunk.de/schaeffler-schliesst-werk-in-steinhagen-100.html",
-    "https://www.spiegel.de/wissenschaft/deutschland-darum-gehoeren-speisereste-feuchtes-klopapier-tampons-nicht-in-die-toilette-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss"
+    "https://www.spiegel.de/wissenschaft/deutschland-darum-gehoeren-speisereste-feuchtes-klopapier-tampons-nicht-in-die-toilette-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss",
+    "https://www.deutschlandfunk.de/cdu-haushaelter-offen-fuer-anhebung-der-reichensteuer-102.html",
+    "https://www.deutschlandfunk.de/expertengremium-warnt-vor-sammelsurium-von-subventionen-fuer-deutsche-unternehmen-102.html"
   ],
   "content_hashes": [
-    "466486cfee44d8b8891ae0d6210eefdc",
-    "0695bcfd910df3afd3fef0af75df4e55",
     "c8def72b49392aaed353d1cb7e61508a",
     "ca206f1ae31a4fb6a9afcc8f2c7aeef4",
     "f0ba0737b32b0726db3cceee61915593",
@@ -2001,11 +1999,11 @@
     "54fb16e78a0517a766ce57491bfc6ffe",
     "d13f48ebffaa4d2b2939096c5128d977",
     "91a85849797200db405aa9757f462dee",
-    "003ef369cdd60ec504edac1c704c105a"
+    "003ef369cdd60ec504edac1c704c105a",
+    "6e93af05952d6b2ea88381ffaa8806d2",
+    "434987c2bc918c94d2c780730b381bcf"
   ],
   "titles": [
-    "Bürgergeld: Koalition fordert mehr Härte gegen Arbeitsverweigerer",
-    "ZDF-Interview - Söder (CSU): Kein Bürgergeld mehr für ukrainische Kriegsflüchtlinge",
     "\"Größer als Spremberg\" - Brandenburgs Ministerpräsident Woidke: \"Extremismus bedroht Zukunft von Heimat, Wohlstand und Freiheit\"",
     "Aktionswoche - Ab heute verstärkte Geschwindigkeitskontrollen in mehreren Bundesländern und EU-Staaten",
     "New York - UNO-Sicherheitsrat soll sich mit der Lage der Geiseln im Gazastreifen befassen",
@@ -3003,11 +3001,11 @@
     "U-Boote für Kanada - Thyssenkrupp in der engeren Auswahl - Merz wirbt bei Carney für Allianz",
     "Hamburger Hafen - Großbrand weitgehend gelöscht",
     "Autozulieferer - Schaeffler schließt Werk in Steinhagen",
-    "Deutschland: Darum gehören Speisereste, feuchtes Klopapier, Tampons nicht in die Toilette"
+    "Deutschland: Darum gehören Speisereste, feuchtes Klopapier, Tampons nicht in die Toilette",
+    "Koalition - CDU-Haushälter offen für Anhebung der Reichensteuer",
+    "Wirtschaft - Expertengremium warnt vor \"Sammelsurium von Subventionen\" für deutsche Unternehmen"
   ],
   "hashes": [
-    "2cc31ed03d1664ca54f89a889094a4a0",
-    "da28a3a66932fe663888284dc238a89f",
     "13f47f98991290f5b2950bd860e1a56d",
     "3bb3ded2a9e1160ecf0ea1de6610ed3d",
     "940da2a40dd08fdd410c1cc16cd67761",
@@ -4005,6 +4003,8 @@
     "f37adf8c6c8fd28d6f5b949d394704ff",
     "93bb66d90c4fb99ae135843c91295a9c",
     "f56d7115c9d33c8bd571b943bda14fbf",
-    "67cba99660f07f26586c0d900ee4a1a9"
+    "67cba99660f07f26586c0d900ee4a1a9",
+    "962d1f3376f483296ce7da5adb210519",
+    "3bd72dc598ea7c6d0d801a2d493c635f"
   ]
 }
