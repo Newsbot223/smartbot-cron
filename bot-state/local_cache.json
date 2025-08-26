@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/streit-ueber-abtreibungen-inkonsistenzen-die-befrieden-sollen-110616931.html",
-    "https://www.deutschlandfunk.de/deutschland-wirft-erneut-hilfsgueter-ueber-gazastreifen-ab-100.html",
-    "https://www.deutschlandfunk.de/franzoesin-pauline-ferrand-prevot-gewinnt-tour-de-france-femmes-102.html",
-    "https://www.deutschlandfunk.de/wie-die-hamas-geiseln-fuer-propagandavideos-missbraucht-100.html",
-    "https://www.spiegel.de/politik/deutschland/bildung-in-deutschland-jede-20-schule-ohne-richtige-schulleitung-a-da531381-1628-4a3a-a160-80e4971b2fd0#ref=rss",
     "https://www.deutschlandfunk.de/opec-hebt-erneut-oelfoerdermenge-an-102.html",
     "https://www.deutschlandfunk.de/bolsonaro-anhaenger-in-brasilien-fordern-freilassung-des-ex-praesidenten-102.html",
     "https://www.spiegel.de/politik/markus-soeder-versus-dennis-radtke-debatte-in-der-union-wegen-buergergeld-fuer-ukraine-fluechtlinge-a-1c108b74-ac64-4d3a-a3e9-503aabd10626#ref=rss",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/heil-spd-verteidigt-rolle-der-kirche-in-politischen-debatten-nicht-nur-gefaellige-meinungen-von-den--100.html",
     "https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-waffenstillstand-dringend-notwendig-100.html",
     "https://www.deutschlandfunk.de/berlin-laesst-afghanen-aus-pakistan-nun-doch-einreisen-100.html",
-    "https://www.deutschlandfunk.de/feuer-zerstoert-parlament-der-marshallinseln-100.html"
+    "https://www.deutschlandfunk.de/feuer-zerstoert-parlament-der-marshallinseln-100.html",
+    "https://www.deutschlandfunk.de/10-000-zurueckweisungen-an-deutschen-grenzen-seit-mai-102.html",
+    "https://www.deutschlandfunk.de/weibliche-azubis-verdienen-im-schnitt-mehr-als-maennliche-100.html",
+    "https://www.deutschlandfunk.de/koepping-spd-will-eigenanteil-in-pflegeheimen-auf-1-000-euro-begrenzen-100.html",
+    "https://www.deutschlandfunk.de/trump-telefoniert-erneut-mit-putin-100.html",
+    "https://www.deutschlandfunk.de/gewerkschaft-putzen-und-streichen-an-schulen-ist-keine-aufgabe-von-lehrern-und-eltern-100.html"
   ],
   "content_hashes": [
-    "c84ca8aae30f3617c5a3ffc7f4331c3d",
-    "17a7e5146cff16720fd3372c543d51db",
-    "a9ad7f0cf498d00b2bba1647f7049588",
-    "3848d2d819cdd0a470ffac71606ffa37",
-    "231f69351f4a11359fad583025456e1a",
     "d63dc357b484c13b5c377a6d79228790",
     "e6efffffdad748d457fc6ff66c923273",
     "7a23fb019c6800812d4850e1d9964994",
@@ -2001,14 +1996,14 @@
     "d3276cab4700d57cea0b46b907f7d15b",
     "7c042897eecde10dc25ba4d5c9f85aa0",
     "8ce673aa2ba7f4a6db60274141793ac2",
-    "70593c6928fd794c10ff630d2d907dd7"
+    "70593c6928fd794c10ff630d2d907dd7",
+    "57a4fc8b035939b1150e776137cf5304",
+    "3112c838420ed50515a9080c549694e9",
+    "cb0fc625725b5d580815b6e854ceafd7",
+    "212f5cc94585a572320224fbf877b37f",
+    "4d798926c8c7a8f1855505381cf01ba6"
   ],
   "titles": [
-    "Streit über Abtreibungen: Inkonsistenzen, die befrieden sollen",
-    "Krieg in Nahost - Deutschland wirft erneut Hilfsgüter über Gazastreifen ab",
-    "Radsport - Französin Pauline Ferrand-Prevot gewinnt Tour de France Femmes",
-    "Gaza-Krieg - Wie die Hamas Geiseln für Propagandavideos missbraucht",
-    "Bildung in Deutschland: Jede 20. Schule ohne richtige Schulleitung",
     "Kartell-Entscheidung - OPEC+ hebt erneut Ölfördermenge an",
     "Kundgebungen - Bolsonaro-Anhänger in Brasilien fordern Freilassung des Ex-Präsidenten",
     "Markus Söder versus Dennis Radtke: Debatte in der Union wegen Bürgergeld für Ukraine-Flüchtlinge",
@@ -3003,14 +2998,14 @@
     "Religion - Heil (SPD) verteidigt Rolle der Kirche in politischen Debatten: \"Nicht nur gefällige Meinungen von den Kirchen erwarten\"",
     "Nahost - Entwicklungsministerin Alabali-Radovan: Waffenstillstand dringend notwendig",
     "Medienbericht - Berlin lässt Afghanen aus Pakistan nun doch einreisen",
-    "Pazifikstaat - Feuer zerstört Parlament der Marshallinseln"
+    "Pazifikstaat - Feuer zerstört Parlament der Marshallinseln",
+    "Migration - 10.000 Zurückweisungen an deutschen Grenzen seit Mai",
+    "Statistisches Bundesamt - Weibliche Azubis verdienen im Schnitt mehr als männliche",
+    "Sachsen - Köpping (SPD) will Eigenanteil in Pflegeheimen auf 1.000 Euro begrenzen",
+    "Ukraine-Krieg - Trump telefoniert erneut mit Putin",
+    "Sanierungsstau - Gewerkschaft: Putzen und Streichen an Schulen ist keine Aufgabe von Lehrern und Eltern"
   ],
   "hashes": [
-    "4abfd7856f4e1c716faba9d7dd15183b",
-    "5ed153c2d733d60bd23060ee06c9b888",
-    "1524dd6464b84463c0dad5827052aea3",
-    "1789d02efb4568c80ebe2f59e07cb0c0",
-    "10ebb38c7d9fe838b5c873db14f2d5c7",
     "19397f7ea8afe5ee9a4a968225860d51",
     "c1154a0a48b04c3bced9438d765b54a5",
     "67c04dc376cbf265b82d559c2fc6a684",
@@ -4005,6 +4000,11 @@
     "dbe5c329d07174045de59e9396f49f56",
     "854bc859b8d60d01375ef49bd55af049",
     "58490a5f6ccd9c7a0d53ff1ff0df44a8",
-    "e38de648c581ab09650f3b4ba0ed7ed8"
+    "e38de648c581ab09650f3b4ba0ed7ed8",
+    "da24d70d6dda3c6173eac821acca935e",
+    "24b711f248fd33f985b3898974012b1f",
+    "0ff5b4cb7a24dbe3f714f595f4e2408f",
+    "2d736fdb179f04efa65851cb0c1d2f6f",
+    "b76333aec4757351cdbaf7dd37b6d710"
   ]
 }
