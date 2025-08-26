@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierungschef-paluckas-wie-angekuendigt-zurueckgetreten-100.html",
     "https://www.deutschlandfunk.de/angehoerige-von-geiseln-kritisieren-netanjahu-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommentar-zum-umgang-mit-der-afd-die-union-laesst-sich-jagen-110618198.html",
     "https://www.faz.net/aktuell/politik/ausland/wie-andere-eu-laender-mit-parteiverboten-umgehen-110614601.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/brasilien-reagiert-auf-us-zoelle-mit-aufkauf-heimischer-produkte-100.html",
     "https://www.deutschlandfunk.de/deutsche-essen-weniger-fisch-100.html",
     "https://www.deutschlandfunk.de/wie-stark-de-stabilisiert-trump-den-finanzsektor-hans-peter-burghof-uni-hoh-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/terrorplaene-bei-swift-konzert-bewaehrungsstrafe-fuer-helfer-110655683.html"
+    "https://www.faz.net/aktuell/politik/ausland/terrorplaene-bei-swift-konzert-bewaehrungsstrafe-fuer-helfer-110655683.html",
+    "https://www.deutschlandfunk.de/bundesregierung-laesst-wieder-aufnahmen-von-ehemaligen-afghanischen-ortskraeften-pruefen-100.html"
   ],
   "content_hashes": [
-    "4579a71d22f1407f9053c4d4420f59d8",
     "e018020745c83c28b10cd1be79b01240",
     "772429e541e0c5ea48ceaa45138b60e1",
     "cf556c4a1b657be4e54da6fda2d29e45",
@@ -2001,10 +2000,10 @@
     "6ac3bb02616966289052affb1fec0f33",
     "971b81680d57e0163fa32b757ae3547d",
     "3822ad570f2f77e740441a4fac21b46e",
-    "5cc5ab559c8b8785b9f24abc6aa3b105"
+    "5cc5ab559c8b8785b9f24abc6aa3b105",
+    "1ec9ac94d9e09671488ba24e505a3e29"
   ],
   "titles": [
-    "Litauen - Regierungschef Paluckas wie angekündigt zurückgetreten",
     "Gaza-Krieg - Angehörige von Geiseln kritisieren Netanjahu",
     "Umgang mit der AfD: Die Union lässt sich jagen",
     "Übersicht zu Parteiverboten: Wie andere EU-Länder mit Verfassungsfeinden umgehen",
@@ -3003,10 +3002,10 @@
     "Globaler Handel - Brasilien reagiert auf US-Zölle mit Aufkauf heimischer Produkte",
     "Ernährung - Deutsche essen weniger Fisch",
     "Trump vs. Fed - Bankexperte: Es geht in erster Linie um Zinsen",
-    "Abgesagte Konzerte in Wien: Bewährungsstrafe für Komplizen wegen Terrorplänen bei Swift-Konzert"
+    "Abgesagte Konzerte in Wien: Bewährungsstrafe für Komplizen wegen Terrorplänen bei Swift-Konzert",
+    "Auswärtiges Amt - Bundesregierung lässt wieder Aufnahmen von ehemaligen afghanischen Ortskräften prüfen"
   ],
   "hashes": [
-    "bf1b39adb12205d33c90a60024e37ab9",
     "d48b8a3bf60ce27abf9ca8dcc95dcab2",
     "9a5e9c2efe3fcd516d7cc3ce0e785240",
     "0ae2bd859b7aec00bffcb61495f9448d",
@@ -4005,6 +4004,7 @@
     "470331c3218c3462b5de90b994a41720",
     "37b3bbe256dbcc2ca594450d686d5297",
     "785f2c262778c1fff3d92f8a217de203",
-    "05c17b47446a91b906c29f1ccf44048c"
+    "05c17b47446a91b906c29f1ccf44048c",
+    "2982c03661723868d7c91993b01889ff"
   ]
 }
