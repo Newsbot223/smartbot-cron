@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierung-entlaesst-generalstaatsanwaeltin-oberstes-gericht-stoppt-entlassung-102.html",
-    "https://www.deutschlandfunk.de/rot-kreuz-chefin-fordert-gleiche-absicherung-fuer-alle-102.html",
     "https://www.deutschlandfunk.de/tauziehen-um-neuen-zuschnitt-von-wahlkreisen-zwischen-demokraten-und-republikanern-104.html",
     "https://www.deutschlandfunk.de/praesident-milei-stoppt-rentenerhoehung-100.html",
     "https://www.deutschlandfunk.de/bentele-vdk-private-und-gesetzliche-leistungen-muessen-zusammengelegt-werden-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/farages-plaene-es-waere-die-abschaffung-des-asylrechts-110655818.html",
     "https://www.deutschlandfunk.de/kabinett-will-heute-neues-wehrdienstgesetz-auf-den-weg-bringen-100.html",
     "https://www.deutschlandfunk.de/bundesweite-schweigeminute-fuer-getoeteten-polizisten-100.html",
-    "https://www.deutschlandfunk.de/volkswagen-chef-blume-will-porsche-spitzenposten-abgeben-100.html"
+    "https://www.deutschlandfunk.de/volkswagen-chef-blume-will-porsche-spitzenposten-abgeben-100.html",
+    "https://www.deutschlandfunk.de/um-diese-vorhaben-geht-es-bei-der-kabinettssitzung-100.html",
+    "https://www.deutschlandfunk.de/studierende-und-azubis-ueberdurchschnittlich-belastet-102.html"
   ],
   "content_hashes": [
-    "db7558d81c7ea08d8e9c307828b16cc5",
-    "227d145b2b80c6fe2df78a9feed4b196",
     "7e4e2b99ae6cd5071a455e85d784c5db",
     "1e58e62b63b4f1811b2e1d8e05bdc283",
     "6352d8bf88d75e2f624f6dbfcba7be5f",
@@ -2001,11 +1999,11 @@
     "e56ac0db122afbcaae90ae1a1fafa044",
     "832604a44631886aa471b8d97d6d4f38",
     "2eba2a29c6b6f478ee33decd258cf36e",
-    "7b38768028e233ef91fb56ddd97a2bbe"
+    "7b38768028e233ef91fb56ddd97a2bbe",
+    "1ac257c02ff0aba00078108868a5a16b",
+    "ce593cb82906e5d71944c711a396c54b"
   ],
   "titles": [
-    "Israel - Regierung entlässt Generalstaatsanwältin - Oberstes Gericht stoppt Entlassung",
-    "Ehrenamtliche Helfer - Rot-Kreuz-Chefin fordert gleiche Absicherung für alle",
     "USA - Tauziehen um neuen Zuschnitt von Wahlkreisen zwischen Demokraten und Republikanern",
     "Argentinien - Präsident Milei stoppt Rentenerhöhung",
     "Pflege - Bentele, VdK: \"Private und gesetzliche Leistungen müssen zusammengelegt werden\"",
@@ -3003,11 +3001,11 @@
     "Nigel Farages Pläne: Es wäre die Abschaffung des Asylrechts",
     "Verteidigungsministerium - Kabinett will heute neues Wehrdienstgesetz auf den Weg bringen",
     "Völklingen - Bundesweite Schweigeminute für getöteten Polizisten",
-    "Medienbericht - Volkswagen-Chef Blume will Porsche-Spitzenposten abgeben"
+    "Medienbericht - Volkswagen-Chef Blume will Porsche-Spitzenposten abgeben",
+    "Bundeswehr - Um diese Vorhaben geht es bei der Kabinettssitzung",
+    "Wohnkosten - Studierende und Azubis überdurchschnittlich belastet"
   ],
   "hashes": [
-    "5cbacc034daaba6288a41e967463da8b",
-    "369c8ff4e4f833119f000249928848bb",
     "6cd07cdb094d7412deabe742eab5b910",
     "f58a3cade9c3d02bc0b65eb631615e61",
     "8b7e982f73ba9bfcdd1be763f5bc8092",
@@ -4005,6 +4003,8 @@
     "39f935efb02af4f3c44fe47ce2251516",
     "1a5d09552717344e2e16668aa898e704",
     "ba1da47b177fbf72abc832635f3ba6ad",
-    "d2131b234e3eaa7a29fe07fdef5587c2"
+    "d2131b234e3eaa7a29fe07fdef5587c2",
+    "6073e990ae968b68961b180dfc32e16d",
+    "50d998f8c60e2260d0f69fb922e011ec"
   ]
 }
