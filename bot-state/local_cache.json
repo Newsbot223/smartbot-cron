@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/sicherheitsbehoerden-deutschland-ist-abhaengig-von-palantir-110622091.html",
     "https://www.deutschlandfunk.de/trump-bezeichnet-zugesagte-eu-investitionen-als-geschenk-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/trumps-zolldrohungen-indien-kann-sich-widerstand-leisten-110623640.html",
     "https://www.deutschlandfunk.de/trump-nennt-zugesagte-eu-investitionen-als-geschenk-und-droht-100.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/bundestagspraesidentin-julia-kloeckner-antwortet-auf-die-kritik-an-ihr-110657440.html",
     "https://www.deutschlandfunk.de/russische-angriffe-auf-viele-ziele-in-der-ukraine-102.html",
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-weist-vorwurf-der-parteilichkeit-zurueck-102.html",
-    "https://www.deutschlandfunk.de/kritik-an-israel-wegen-hungersnot-im-gazastreifen-102.html"
+    "https://www.deutschlandfunk.de/kritik-an-israel-wegen-hungersnot-im-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/schusswaffenangriff-an-katholischer-schule-in-minneapolis-mit-drei-toten-und-17-verletzten-106.html"
   ],
   "content_hashes": [
-    "d6925badf880d01a73e75ff3bac8d952",
     "f97b7445b8e472af677658cda4d72a16",
     "b2d254fb4615eb5c1982d05232db131b",
     "b3dee7dad569c5e7386cdc2f851fb1de",
@@ -2001,10 +2000,10 @@
     "e30f528f946a26f2dc006ecbf4feb9df",
     "277ca90809fff5c369c08ca6d96cf648",
     "99f9ccb02ebdb5301c4210f38430f6f4",
-    "2daf14163a7a552b281a69221b8d28e2"
+    "2daf14163a7a552b281a69221b8d28e2",
+    "87b009282b06a318c93e1f0dc0a5f223"
   ],
   "titles": [
-    "Diskussion über Software: Deutschland ist abhängig von Palantir",
     "Handelsabkommen - Trump bezeichnet zugesagte EU-Investitionen als \"Geschenk\"",
     "Trumps Zolldrohungen: Indien kann sich Widerstand leisten",
     "Handelsabkommen - Trump nennt zugesagte EU-Investitionen als \"Geschenk\" - und droht",
@@ -3003,10 +3002,10 @@
     "Julia Klöckner: Die Präsidentin bezieht Position",
     "Krieg - Russische Angriffe auf viele Ziele in der Ukraine",
     "Interview - Bundestagspräsidentin Klöckner weist Vorwurf der Parteilichkeit zurück",
-    "UNO-Sicherheitsrat - Kritik an Israel wegen Hungersnot im Gazastreifen"
+    "UNO-Sicherheitsrat - Kritik an Israel wegen Hungersnot im Gazastreifen",
+    "USA - Schusswaffenangriff an katholischer Schule in Minneapolis mit drei Toten und 17 Verletzten"
   ],
   "hashes": [
-    "efc3c513bcefc727c6da04f7e9c7b91a",
     "5a23434f9b0e01b49ff31d18fc2b7352",
     "7f0e32b1f88ae15f322c88175c2dbb51",
     "5b39775a4b7007ce2a232f71d4f38637",
@@ -4005,6 +4004,7 @@
     "e38647458e82c99d6d05ac09af5f14bc",
     "e08531137ea4491aebacf2b9f4c34b53",
     "0efd22fb826c59d4629781cb4b8f8e07",
-    "8f06af82f0627ccfba0426b51bd498ee"
+    "8f06af82f0627ccfba0426b51bd498ee",
+    "a265bbe58c66b22e1e7e445f61917b4f"
   ]
 }
