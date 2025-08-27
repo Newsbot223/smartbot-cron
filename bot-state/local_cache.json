@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-kuendigt-entscheidungen-an-medien-berichten-von-geplanter-ausweitung-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-soeldner-aus-china-und-afrika-kaempfen-fuer-russland-102.html",
-    "https://www.deutschlandfunk.de/soeder-vorstoss-loest-diskussionen-aus-kanzleramtschef-frei-gespraechsbereit-spd-kritisiert-102.html",
-    "https://www.deutschlandfunk.de/ministerin-reiche-sagt-lausitz-bau-von-gaskraftwerken-zu-104.html",
-    "https://www.deutschlandfunk.de/kari-scheidet-aus-amt-aus-zukunft-des-postens-unklar-100.html",
     "https://www.deutschlandfunk.de/schweizer-regierung-will-hohe-us-zoelle-noch-abwenden-100.html",
     "https://www.deutschlandfunk.de/medienbericht-netanjahu-erwaegt-einnahme-des-gesamten-gazastreifens-100.html",
     "https://www.faz.net/aktuell/feuilleton/debatten/usa-liberale-juden-distanzieren-sich-von-israels-gaza-politik-110621730.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/fed-abberufung-nur-aus-wichtigem-grund-moeglich-100.html",
     "https://www.deutschlandfunk.de/gesetzesvorlagen-zielen-auf-staerkung-der-verteidigungsfaehigkeit-100.html",
     "https://www.deutschlandfunk.de/gemeinsamer-besuch-von-merz-macron-und-tusk-100.html",
-    "https://www.deutschlandfunk.de/aegypten-verstaerkt-truppen-entlang-der-grenze-zum-gazastreifen-104.html"
+    "https://www.deutschlandfunk.de/aegypten-verstaerkt-truppen-entlang-der-grenze-zum-gazastreifen-104.html",
+    "https://www.deutschlandfunk.de/rekord-bei-deutschen-ruestungsgueter-exporten-in-100.html",
+    "https://www.deutschlandfunk.de/fluchtgefahr-richter-ordnet-lueckenlose-ueberwachung-von-ex-praesident-bolsonaros-an-100.html",
+    "https://www.deutschlandfunk.de/regierung-trump-verlangt-von-oberstem-gericht-stopp-von-auslandshilfen-100.html",
+    "https://www.deutschlandfunk.de/neue-ukrainische-drohnenattacke-auf-russisches-gebiet-100.html",
+    "https://www.deutschlandfunk.de/atomkraftwerk-emsland-soll-mitte-2030er-jahre-abgebaut-sein-100.html"
   ],
   "content_hashes": [
-    "68ca1edbc445831a2ec5eff149b10d25",
-    "1ede31ea908fb1dcd2165e5ffafc87ed",
-    "fa4f9f420a6b35e10a27d6b0d21b90f1",
-    "5f9effce769f634d75b6e775e93a99a7",
-    "78d64dde83c28c11fdbb39f09be85e35",
     "875d64cbb74056669ffbb26d4dce7d12",
     "77bfbfc787bd14c841aa2b3142006512",
     "613794c8fe91421890fc95c693157250",
@@ -2001,14 +1996,14 @@
     "c8435c3effc9688e0a485d5de9dd82ea",
     "947b47ad08d0813af6bef99d38dc331c",
     "3df55d1353b788dd3c63f572412fc00e",
-    "864f814a67fc8dfca1494bdc465e65bc"
+    "864f814a67fc8dfca1494bdc465e65bc",
+    "ce1c05e3cc5fc6568750c188ff2634e2",
+    "fb20fe168dffadd668f47b0b2c31d735",
+    "1f568af1515dc3c9b4992cb7dbfad429",
+    "ab7c7ce420163259383b4d6824c72b44",
+    "5f13670472009dd626b46210adfe3b31"
   ],
   "titles": [
-    "Gaza-Krieg - Netanjahu kündigt Entscheidungen an - Medien berichten von geplanter Ausweitung",
-    "Ukraine-Krieg - Selenskyj: \"Söldner aus China und Afrika kämpfen für Russland\"",
-    "Bürgergeld - Söder-Vorstoß löst Diskussionen aus - Kanzleramtschef Frei gesprächsbereit - SPD kritisiert",
-    "Ostdeutschland - Ministerin Reiche sagt Lausitz Bau von Gaskraftwerken zu",
-    "Bundestierschutzbeauftragte - Kari scheidet aus Amt aus - Zukunft des Postens unklar",
     "Zollstreit - Schweizer Regierung will hohe US-Zölle noch abwenden",
     "Nahost-Krieg - Medienbericht: \"Netanjahu erwägt Einnahme des gesamten Gazastreifens\"",
     "Debatte um Israel: Amerikas liberale Juden wenden sich von Israel ab",
@@ -3003,14 +2998,14 @@
     "Nach Entlassung von US-Notenbank-Gouverneurin - Fed: Abberufung nur aus wichtigem Grund möglich",
     "Kabinett - Gesetzesvorlagen zielen auf Stärkung der Verteidigungsfähigkeit",
     "Moldau - Gemeinsamer Besuch von Merz, Macron und Tusk",
-    "Nahost - Ägypten verstärkt Truppen entlang der Grenze zum Gazastreifen"
+    "Nahost - Ägypten verstärkt Truppen entlang der Grenze zum Gazastreifen",
+    "Medienbericht - Rekord bei deutschen Rüstungsgüter-Exporten in 2024",
+    "Brasilien - \"Fluchtgefahr\": Richter ordnet lückenlose Überwachung von Ex-Präsident Bolsonaros an",
+    "USA - Regierung Trump verlangt von Oberstem Gericht Stopp von Auslandshilfen",
+    "Russischer Angriffskrieg - Neue ukrainische Drohnenattacke auf russisches Gebiet",
+    "RWE-Konzern - Atomkraftwerk Emsland soll Mitte 2030er Jahre abgebaut sein"
   ],
   "hashes": [
-    "0f85ec75ab30bd2bbad2fba4651f7443",
-    "ca67a5f7ad15e8b5ab97aa53e1d800ec",
-    "887c3a81c9a792ed217cf5f4f509d6e2",
-    "d65b403f90048c1c23fc15891660e9b0",
-    "35556b8e219db7246cf37aec3ceb3937",
     "c351af31264316b876012067cf591839",
     "02bc05276cb58661acc28ef6f5ae0b16",
     "c6bdf07f68710a0485b94502d561b2cf",
@@ -4005,6 +4000,11 @@
     "2dac50f785c3cf136cf909b0bfdb4bcb",
     "e084e8ed72487e2a2bc7036b3b54e91d",
     "f139c78ecb34f4215773e0b78fd5556d",
-    "4c514bb65636f7099c920b02e7a0f979"
+    "4c514bb65636f7099c920b02e7a0f979",
+    "86e1da8e72f3087eb0a0c09004eb9aa8",
+    "a8f0bed0c48af0e6e85bf4d0a2ba4dbb",
+    "e5bc9dc04ab68a14ee261fdb7d4d036c",
+    "7ded9ececa79f8c26c8d394acdab10d3",
+    "f4f010deedc201a5969c631c38b5157d"
   ]
 }
