@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vor-treffen-mit-bessent-klingbeil-kritisiert-us-zoelle-102.html",
-    "https://www.deutschlandfunk.de/zwei-tote-in-region-charkiw-selenskyj-soeldner-aus-china-und-afrika-kaempfen-fuer-russland-100.html",
     "https://www.deutschlandfunk.de/regierung-entlaesst-generalstaatsanwaeltin-oberstes-gericht-stoppt-entlassung-102.html",
     "https://www.deutschlandfunk.de/rot-kreuz-chefin-fordert-gleiche-absicherung-fuer-alle-102.html",
     "https://www.deutschlandfunk.de/tauziehen-um-neuen-zuschnitt-von-wahlkreisen-zwischen-demokraten-und-republikanern-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/heute-beratungen-in-weissem-haus-ueber-nachkriegsplan-fuer-gaza-102.html",
     "https://www.deutschlandfunk.de/fluchtgefahr-richter-ordnet-lueckenlose-ueberwachung-von-ex-praesident-bolsonaro-an-100.html",
     "https://www.faz.net/aktuell/politik/ausland/farages-plaene-es-waere-die-abschaffung-des-asylrechts-110655818.html",
-    "https://www.deutschlandfunk.de/kabinett-will-heute-neues-wehrdienstgesetz-auf-den-weg-bringen-100.html"
+    "https://www.deutschlandfunk.de/kabinett-will-heute-neues-wehrdienstgesetz-auf-den-weg-bringen-100.html",
+    "https://www.deutschlandfunk.de/bundesweite-schweigeminute-fuer-getoeteten-polizisten-100.html",
+    "https://www.deutschlandfunk.de/volkswagen-chef-blume-will-porsche-spitzenposten-abgeben-100.html"
   ],
   "content_hashes": [
-    "ee1ba2fd9668168a33065236a4eea32a",
-    "bfff8862fe1f236f134058bd13d80bdd",
     "db7558d81c7ea08d8e9c307828b16cc5",
     "227d145b2b80c6fe2df78a9feed4b196",
     "7e4e2b99ae6cd5071a455e85d784c5db",
@@ -2001,11 +1999,11 @@
     "a3779caf4a9372acae5ba958db205325",
     "75cde6281308d13ec08147e6d356929d",
     "e56ac0db122afbcaae90ae1a1fafa044",
-    "832604a44631886aa471b8d97d6d4f38"
+    "832604a44631886aa471b8d97d6d4f38",
+    "2eba2a29c6b6f478ee33decd258cf36e",
+    "7b38768028e233ef91fb56ddd97a2bbe"
   ],
   "titles": [
-    "Handelspolitik - Vor Treffen mit Bessent: Klingbeil kritisiert US-Zölle",
-    "Ukraine-Krieg - Zwei Tote in Region Charkiw - Selenskyj: Söldner aus China und Afrika kämpfen für Russland",
     "Israel - Regierung entlässt Generalstaatsanwältin - Oberstes Gericht stoppt Entlassung",
     "Ehrenamtliche Helfer - Rot-Kreuz-Chefin fordert gleiche Absicherung für alle",
     "USA - Tauziehen um neuen Zuschnitt von Wahlkreisen zwischen Demokraten und Republikanern",
@@ -3003,11 +3001,11 @@
     "USA - Heute Beratungen in Weißem Haus über Nachkriegsplan für Gaza",
     "Brasilien - \"Fluchtgefahr\": Richter ordnet lückenlose Überwachung von Ex-Präsident Bolsonaro an",
     "Nigel Farages Pläne: Es wäre die Abschaffung des Asylrechts",
-    "Verteidigungsministerium - Kabinett will heute neues Wehrdienstgesetz auf den Weg bringen"
+    "Verteidigungsministerium - Kabinett will heute neues Wehrdienstgesetz auf den Weg bringen",
+    "Völklingen - Bundesweite Schweigeminute für getöteten Polizisten",
+    "Medienbericht - Volkswagen-Chef Blume will Porsche-Spitzenposten abgeben"
   ],
   "hashes": [
-    "a69e75cf233cafb5ae2c88cdac259d74",
-    "55e44b64ee699d415619148399029ab0",
     "5cbacc034daaba6288a41e967463da8b",
     "369c8ff4e4f833119f000249928848bb",
     "6cd07cdb094d7412deabe742eab5b910",
@@ -4005,6 +4003,8 @@
     "f71816ca143cda8d8c18f9f65e68b214",
     "d393bad7e1d0808210d29913e10e865a",
     "39f935efb02af4f3c44fe47ce2251516",
-    "1a5d09552717344e2e16668aa898e704"
+    "1a5d09552717344e2e16668aa898e704",
+    "ba1da47b177fbf72abc832635f3ba6ad",
+    "d2131b234e3eaa7a29fe07fdef5587c2"
   ]
 }
