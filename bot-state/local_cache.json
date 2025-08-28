@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/klimaschutz-nicht-mehr-prioritaet-der-waehler-110621764.html",
-    "https://www.deutschlandfunk.de/mehrere-eu-fraktionen-werfen-israel-genozid-vor-100.html",
-    "https://www.deutschlandfunk.de/tote-bei-russischem-luftangriff-auf-ferienlager-102.html",
     "https://www.deutschlandfunk.de/hilbollah-will-entwaffnungsbeschluss-der-regierung-ignorieren-102.html",
     "https://www.deutschlandfunk.de/finanzbranche-soll-belege-wieder-zehn-jahre-aufbewahren-102.html",
     "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kein-visum-ohne-sicherheitscheck-fuer-afghanische-familien-100.html",
     "https://www.deutschlandfunk.de/hilfsorganisationen-bundesregierung-soll-von-den-usa-angeordnete-vernichtung-von-verhuetungsmitteln--100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/corona-hilfen-in-hessen-rueckforderungen-bleiben-strittig-110658965.html",
-    "https://www.faz.net/aktuell/politik/inland/fraktionsklausur-in-wuerzburg-spd-und-union-demonstrieren-einigkeit-110659524.html"
+    "https://www.faz.net/aktuell/politik/inland/fraktionsklausur-in-wuerzburg-spd-und-union-demonstrieren-einigkeit-110659524.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-fordert-verhandlungsbereitschaft-des-iran-102.html",
+    "https://www.deutschlandfunk.de/israel-fliegt-erneut-luftangriff-gegen-mutmassliches-ziel-der-huthi-miliz-in-sanaa-102.html",
+    "https://www.deutschlandfunk.de/uno-sicherheitsrat-beendet-mandat-der-friedenstruppe-im-libanon-102.html"
   ],
   "content_hashes": [
-    "d9a25d0cd95741abf753eb8257b3272f",
-    "de80842d9fcef8b8823dd4581753c29e",
-    "66716daecbfb14648d47ec2bc884650b",
     "78f0f290e76ba22b7b27300a326c822a",
     "872f907240a2704b8a0b1183dc060923",
     "b51fce432e94e38c3de50d2f95c6f1b1",
@@ -2001,12 +1998,12 @@
     "7ea1e4267a5e4b41a75caca3034adb2f",
     "c5f3cfab205f2818ff343f0f5051fbb3",
     "136cd0e13bc973c153876a9fbda0e8f1",
-    "7d96c8b7c522b7083f5f234638831128"
+    "7d96c8b7c522b7083f5f234638831128",
+    "932e195c36ee54b30b0d4b3773f561c2",
+    "bf16acc6db36c1bcd84e8eb00c0b6d6d",
+    "d65547fabe420584228ed341436116cc"
   ],
   "titles": [
-    "Meinungsumfragen: Wie wichtig das Klima den Wählern noch ist",
-    "Gaza-Krieg - Mehrere EU-Fraktionen werfen Israel Genozid vor",
-    "Ukraine-Krieg - Tote bei russischem Luftangriff auf Ferienlager",
     "Libanon - Hilbollah will Entwaffnungsbeschluss der Regierung ignorieren",
     "Kampf gegen Steuerhinterziehung - Finanzbranche soll Belege wieder zehn Jahre aufbewahren",
     "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft",
@@ -3003,12 +3000,12 @@
     "Gerichtsurteil - Kein Visum ohne Sicherheitscheck für afghanische Familien",
     "Offener Brief - Hilfsorganisationen: Bundesregierung soll von den USA angeordnete Vernichtung von Verhütungsmitteln in Europa stoppen",
     "Umstrittens Verfahren: Rätselhafte Verzögerung bei Rückforderung von Corona-Soforthilfen",
-    "Fraktionsklausur: „Wir müssen das hinkriegen“"
+    "Fraktionsklausur: „Wir müssen das hinkriegen“",
+    "Atomabkommen mit Iran - Bundesaußenminister Wadephul fordert Verhandlungsbereitschaft des Iran",
+    "Jemen - Israel fliegt erneut Luftangriff gegen mutmaßliches Ziel der Huthi-Miliz in Sanaa",
+    "New York - UNO-Sicherheitsrat beendet Mandat der Friedenstruppe im Libanon"
   ],
   "hashes": [
-    "f4cf2ed37b8034e63bb7188944bbe1c6",
-    "d04152d168a7d2b5b18453c4a78f8264",
-    "91d9484acf60738d158d9e7409460043",
     "31666a0a421114e97a4e03562277a0cb",
     "2c1caa46d7b49d447cd6aaa5499571ac",
     "c8af8134eb15a5cda787580c830a5b55",
@@ -4005,6 +4002,9 @@
     "e697d0c1f3234081b660c912b4d7bb5c",
     "0c522513bf58bfea4881003e3fd55ed5",
     "25f9374327642d4425d091d885445c4b",
-    "06af2c9e8d8701ddb11ecdeed2829faf"
+    "06af2c9e8d8701ddb11ecdeed2829faf",
+    "ab84432d810cf17b51a1167157f6e139",
+    "483f8e2f851586c500d576644902eea3",
+    "c5e744995c699342194caaac326da3bf"
   ]
 }
