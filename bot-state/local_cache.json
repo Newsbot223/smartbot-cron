@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hilbollah-will-entwaffnungsbeschluss-der-regierung-ignorieren-102.html",
-    "https://www.deutschlandfunk.de/finanzbranche-soll-belege-wieder-zehn-jahre-aufbewahren-102.html",
     "https://www.deutschlandfunk.de/weltkriegsbombe-in-dresden-entschaerft-102.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-ruegt-armeechef-fuer-kritik-100.html",
     "https://www.deutschlandfunk.de/frau-kommt-bei-waldbrand-in-suedfrankreich-ums-leben-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/fraktionsklausur-in-wuerzburg-spd-und-union-demonstrieren-einigkeit-110659524.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-fordert-verhandlungsbereitschaft-des-iran-102.html",
     "https://www.deutschlandfunk.de/israel-fliegt-erneut-luftangriff-gegen-mutmassliches-ziel-der-huthi-miliz-in-sanaa-102.html",
-    "https://www.deutschlandfunk.de/uno-sicherheitsrat-beendet-mandat-der-friedenstruppe-im-libanon-102.html"
+    "https://www.deutschlandfunk.de/uno-sicherheitsrat-beendet-mandat-der-friedenstruppe-im-libanon-102.html",
+    "https://www.deutschlandfunk.de/merz-glaubt-nicht-an-treffen-zwischen-putin-und-selenskyj-100.html",
+    "https://www.deutschlandfunk.de/frueherer-verkehrsminister-wissing-geht-in-die-wirtschaft-100.html"
   ],
   "content_hashes": [
-    "78f0f290e76ba22b7b27300a326c822a",
-    "872f907240a2704b8a0b1183dc060923",
     "b51fce432e94e38c3de50d2f95c6f1b1",
     "4915747f2e6f1445f7d351bbef71c4a0",
     "16892dbc05ef613f6f7a1e19c8d0d149",
@@ -2001,11 +1999,11 @@
     "7d96c8b7c522b7083f5f234638831128",
     "932e195c36ee54b30b0d4b3773f561c2",
     "bf16acc6db36c1bcd84e8eb00c0b6d6d",
-    "d65547fabe420584228ed341436116cc"
+    "d65547fabe420584228ed341436116cc",
+    "af77207652a4b117a3cb7358c769a1df",
+    "54d393b583b13b7e0ad780b7c2ffdeaa"
   ],
   "titles": [
-    "Libanon - Hilbollah will Entwaffnungsbeschluss der Regierung ignorieren",
-    "Kampf gegen Steuerhinterziehung - Finanzbranche soll Belege wieder zehn Jahre aufbewahren",
     "Nach Evakuierung - Weltkriegsbombe in Dresden entschärft",
     "Öffentliche Auseinandersetzung - Israels Verteidigungsminister rügt Armeechef für Kritik",
     "Feuer in Europa - Frau kommt bei Waldbrand in Südfrankreich ums Leben",
@@ -3003,11 +3001,11 @@
     "Fraktionsklausur: „Wir müssen das hinkriegen“",
     "Atomabkommen mit Iran - Bundesaußenminister Wadephul fordert Verhandlungsbereitschaft des Iran",
     "Jemen - Israel fliegt erneut Luftangriff gegen mutmaßliches Ziel der Huthi-Miliz in Sanaa",
-    "New York - UNO-Sicherheitsrat beendet Mandat der Friedenstruppe im Libanon"
+    "New York - UNO-Sicherheitsrat beendet Mandat der Friedenstruppe im Libanon",
+    "Ukraine-Krieg - Merz glaubt nicht an Treffen zwischen Putin und Selenskyj",
+    "Nach Politik-Karriere - Früherer Verkehrsminister Wissing geht in die Wirtschaft"
   ],
   "hashes": [
-    "31666a0a421114e97a4e03562277a0cb",
-    "2c1caa46d7b49d447cd6aaa5499571ac",
     "c8af8134eb15a5cda787580c830a5b55",
     "e3c4cffb4b70961821af1227500ca846",
     "f739a5f909000baa81c6b1e87442c2e2",
@@ -4005,6 +4003,8 @@
     "06af2c9e8d8701ddb11ecdeed2829faf",
     "ab84432d810cf17b51a1167157f6e139",
     "483f8e2f851586c500d576644902eea3",
-    "c5e744995c699342194caaac326da3bf"
+    "c5e744995c699342194caaac326da3bf",
+    "d8696d23ec73e37915a2169dbb372095",
+    "af86d809076407c5b04609fd15579b71"
   ]
 }
