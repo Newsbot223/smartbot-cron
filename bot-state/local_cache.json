@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-geplant-tariftreuegesetz-in-der-kritik-100.html",
-    "https://www.deutschlandfunk.de/arbeitsministerin-bas-spd-laengere-lebensarbeitszeit-waere-reine-rentenkuerzung-middelberg-cdu-forde-100.html",
-    "https://www.deutschlandfunk.de/evakuierung-wegen-weltkriegsbombe-102.html",
-    "https://www.deutschlandfunk.de/regierung-fuer-hisbollah-entwaffnung-bis-jahresende-100.html",
     "https://www.deutschlandfunk.de/ganzes-dorf-ausgeloescht-suche-nach-sturzflut-vermissten-in-indien-haelt-an-102.html",
     "https://www.deutschlandfunk.de/junge-schimpansen-lernen-kommunikation-von-der-mutter-102.html",
     "https://www.faz.net/aktuell/politik/inland/ausschluss-von-oberbuergermeister-wahl-in-ludwigshafen-afd-kandidat-klagt-110624718.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/nationaler-sicherheitsrat-es-fehlt-an-strategischem-denken-110657453.html",
     "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-14-tote-102.html",
     "https://www.deutschlandfunk.de/wadephul-reist-zu-antrittsbesuchen-nach-estland-und-daenemark-102.html",
-    "https://www.deutschlandfunk.de/erste-abgelehnte-asylbewerber-aus-usa-in-ruanda-gelandet-100.html"
+    "https://www.deutschlandfunk.de/erste-abgelehnte-asylbewerber-aus-usa-in-ruanda-gelandet-100.html",
+    "https://www.deutschlandfunk.de/fuehrende-europaeische-politiker-verurteilen-massive-russische-angriffe-102.html",
+    "https://www.deutschlandfunk.de/bundesentwicklungsministerin-alabali-radovan-warnt-israel-vor-moeglichen-weiteren-deutschen-konseque-100.html",
+    "https://www.deutschlandfunk.de/israelischer-bodeneinsatz-auf-militaergelaende-nahe-damaskus-100.html",
+    "https://www.deutschlandfunk.de/queerbeauftragter-der-spd-lehnt-aenderungen-am-selbstbestimmungsgesetz-ab-kein-strukturelles-problem-102.html"
   ],
   "content_hashes": [
-    "a27c9f652fde1b8e642744fc327f4a4c",
-    "268a28113cf2903086622c1bf3fa58d5",
-    "ede54e587cf8bfc454ff58677b714d0a",
-    "84890373a9e37f221fce3b48dc032763",
     "df21c0e49c4bf8cc54a2368c0a126b14",
     "1ece0359f8d3e4962e7a2c3ab054cb0c",
     "437c9d25b9ae9c211ac653621aeca0c8",
@@ -2001,13 +1997,13 @@
     "b83b03a4e36eafa9ed9fe90491be2f90",
     "3410bba61cc5918f0ece4e1a95d954f9",
     "61b45cdf3854943087b10797c0bcecb2",
-    "11756165d7136d4e6e45a33db999b8b4"
+    "11756165d7136d4e6e45a33db999b8b4",
+    "4d6018a5ef4b738d87775bf3ec57645f",
+    "3ca8c9e4fb32fb9a64e84b0a34ea8fa2",
+    "d81f84450ede952b7e9f08753866c3cf",
+    "4d2e29726d210e0f0364b8534ec02d2a"
   ],
   "titles": [
-    "Bundeskabinett - Entlastung bei den Gaskosten geplant - Tariftreuegesetz in der Kritik",
-    "Rente - Arbeitsministerin Bas (SPD): Längere Lebensarbeitszeit wäre \"reine Rentenkürzung\" - Middelberg (CDU) fordert \"schmerzhafte Reformen\"",
-    "Dresden - Evakuierung wegen Weltkriegsbombe",
-    "Libanon - Regierung für Hisbollah-Entwaffnung bis Jahresende",
     "Dharali - Ganzes Dorf \"ausgelöscht\": Suche nach Sturzflut-Vermissten in Indien hält an",
     "Beobachtungen in Uganda - Junge Schimpansen lernen Kommunikation von der Mutter",
     "Ludwigshafen: AfD-Kandidat Paul will gegen Ausschluss von Wahl zum Oberbürgermeister klagen",
@@ -3003,13 +2999,13 @@
     "Nationaler Sicherheitsrat: Es fehlt an strategischem Denken",
     "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens 14 Tote",
     "Sicherheitspolitik - Wadephul reist zu Antrittsbesuchen nach Estland und Dänemark",
-    "Migrationsabkommen - Erste abgelehnte Asylbewerber aus USA in Ruanda gelandet"
+    "Migrationsabkommen - Erste abgelehnte Asylbewerber aus USA in Ruanda gelandet",
+    "Krieg in der Ukraine - Führende europäische Politiker verurteilen massive russische Angriffe",
+    "Gaza-Krieg - Bundesentwicklungsministerin Alabali Radovan warnt Israel vor möglichen weiteren deutschen Konsequenzen",
+    "Syrien - Israelischer Bodeneinsatz auf Militärgelände nahe Damaskus",
+    "Fall Liebich - Queerbeauftragter der SPD lehnt Änderungen am Selbstbestimmungsgesetz ab - \"Kein strukturelles Problem\""
   ],
   "hashes": [
-    "ddf8711895ab305e8bc7926b678a9e36",
-    "7ee71f07ba2bf00952910b8c5ac0894b",
-    "5bd8c4b313543e971c2ec33359616b17",
-    "b1e4b981a7ad7b6d8985b43ee0031a9c",
     "bda627e8a989ef202a5bd593335f1ca4",
     "58c1d83869db88cee6cb7144b72ee654",
     "a9ea835f6f6b4dfa839fd95ba8127432",
@@ -4005,6 +4001,10 @@
     "28ac8d591dae7ff6f77bbca51645d404",
     "9b26fe12702ebb28e70ca209f0c8d4e7",
     "c8f88cdf3df1e65a951efcd5b8620727",
-    "83197f8f0eb13e75b8ed5f3399da76f7"
+    "83197f8f0eb13e75b8ed5f3399da76f7",
+    "029b51e78b47c9111806bb0cdf5d93e9",
+    "65b096486965b27c429846f1fc6d8fe9",
+    "916e124d67851ce4cd452e9eda127b4b",
+    "5d754f8a2eaa4566edadfce7bcfabcac"
   ]
 }
