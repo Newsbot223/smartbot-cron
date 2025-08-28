@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/litauen-fordert-nato-hilfe-bei-luftverteidigung-102.html",
-    "https://www.deutschlandfunk.de/oppositionsfuehrer-in-israel-kritisiert-plaene-zur-ausweitung-des-gaza-krieges-102.html",
-    "https://www.deutschlandfunk.de/hisbollah-chef-lehnt-entwaffnung-der-miliz-ab-100.html",
-    "https://www.deutschlandfunk.de/machtwechsel-im-nationalen-sicherheitsrat-100.html",
-    "https://www.deutschlandfunk.de/israels-aussenminister-fordert-bei-uno-sitzung-sofortige-freilassung-der-hamas-geiseln-oppositionsfu-100.html",
-    "https://www.deutschlandfunk.de/stabilisierung-des-rentenniveaus-und-deutschlandticket-100.html",
     "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-mehr-kompetenzen-fuer-pflegekraefte-und-stabilisierung-des-rentenniveau-100.html",
     "https://www.deutschlandfunk.de/evakuierungen-in-frankreich-und-spanien-102.html",
     "https://www.deutschlandfunk.de/bundeskabinett-will-umstrittenes-tariftreuegesetz-auf-den-weg-bringen-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/praesident-milei-bei-wahlkampfauftritt-nach-eigenen-angaben-mit-steinen-beworfen-102.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-zum-antrittsbesuch-bei-der-deutschen-marine-100.html",
     "https://www.deutschlandfunk.de/wadephul-reist-zu-antrittsbesuchen-100.html",
-    "https://www.deutschlandfunk.de/nato-alle-mitgliedslaender-erreichen-2025-zwei-prozent-ziel-bei-verteidigungsausgaben-100.html"
+    "https://www.deutschlandfunk.de/nato-alle-mitgliedslaender-erreichen-2025-zwei-prozent-ziel-bei-verteidigungsausgaben-100.html",
+    "https://www.deutschlandfunk.de/explosionen-in-kiew-nach-russischem-raketenangriff-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-von-usa-und-israel-sprechen-ueber-gaza-krieg-100.html",
+    "https://www.deutschlandfunk.de/us-behoerden-chinesische-telekom-hacker-in-80-laendern-aktiv-100.html",
+    "https://www.deutschlandfunk.de/wegen-kaufs-von-russischem-oel-usa-verdoppeln-zoelle-auf-waren-aus-indien-100.html",
+    "https://www.deutschlandfunk.de/zweitaegige-klausurtagung-von-union-und-spd-wiese-spd-mahnt-bessere-zusammenarbeit-an-100.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2025/8/27/is-trump-taking-control-of-corporate-america?traffic_source=rss"
   ],
   "content_hashes": [
-    "6aaf7ce5aca7f324f1f10a6c87fcce2a",
-    "df2a874df43565dfb787045ca61e2d12",
-    "453d105171b5b71fa6d37dcf316b39b9",
-    "ec4c4f3a94fd0148ebf4ef8e0237d81b",
-    "c057e05499b589400d41bf2a661e76cd",
-    "c208247c0155cf435a10c7842062ded3",
     "4fb339baadd56d47eabae743a1df1609",
     "e81525bab9deaf4efcf69c05e6a76749",
     "ce18b93c9e086de4bb804cab62e38825",
@@ -2001,15 +1995,15 @@
     "3126c0ef3772127ff01cd36b8a816eef",
     "046a660f86145f1614ea2167c7ac8975",
     "c1acb9e390df7de3c982600b4b568b2a",
-    "7fd46bf7ce3abae31e4dc3692917777c"
+    "7fd46bf7ce3abae31e4dc3692917777c",
+    "c3097bc0af59b2e99ea4a67e52abc4c7",
+    "16d739fac1d9d89f94d7160cbe7e2d53",
+    "40dd6806823b01ea765dc121f43920d1",
+    "ef54a3a2aafd5b8bda23851598f68f80",
+    "49c54fd0ffa1332751666c1a23848492",
+    "6ccf90f539a63195dedd63ac36d63243"
   ],
   "titles": [
-    "Nach Fund russischer Drohne - Litauen fordert NATO-Hilfe bei Luftverteidigung",
-    "Nahost - Oppositionsführer in Israel kritisiert Pläne zur Ausweitung des Gaza-Krieges",
-    "Libanon - Hisbollah-Chef lehnt Entwaffnung der Miliz ab",
-    "Iran - Machtwechsel im Nationalen Sicherheitsrat",
-    "Naher Osten - Israels Außenminister fordert bei UNO-Sitzung sofortige Freilassung der Hamas-Geiseln - Oppositionsführer Lapid warnt vor Ausweitung des Gaza-Kriegs",
-    "Bundeskabinett - Stabilisierung des Rentenniveaus und Deutschlandticket",
     "Bundeskabinett - Entlastung bei den Gaskosten, mehr Kompetenzen für Pflegekräfte und Stabilisierung des Rentenniveaus",
     "Waldbrände - Evakuierungen in Frankreich und Spanien",
     "Entwurf von Arbeitsministerin Bas - Bundeskabinett will umstrittenes Tariftreuegesetz auf den Weg bringen",
@@ -3003,15 +2997,15 @@
     "Provinz Buenos Aires - Präsident Milei bei Wahlkampfauftritt nach eigenen Angaben mit Steinen beworfen",
     "Rostock - Bundeskanzler Merz zum Antrittsbesuch bei der Deutschen Marine",
     "Estland und Dänemark - Wadephul reist zu Antrittsbesuchen",
-    "Sicherheitspolitik - NATO: Alle Mitgliedsländer erreichen 2025 Zwei-Prozent-Ziel bei Verteidigungsausgaben"
+    "Sicherheitspolitik - NATO: Alle Mitgliedsländer erreichen 2025 Zwei-Prozent-Ziel bei Verteidigungsausgaben",
+    "Ukraine - Explosionen in Kiew nach russischem Raketenangriff",
+    "Washington - Außenminister von USA und Israel sprechen über Gaza-Krieg",
+    "\"Salt Typhoon\" - US-Behörden: Chinesische Telekom-Hacker in 80 Ländern aktiv",
+    "Handel - Wegen Kaufs von russischem Öl: USA verdoppeln Zölle auf Waren aus Indien",
+    "Würzburg - Zweitägige Klausurtagung von Union und SPD - Wiese (SPD) mahnt bessere Zusammenarbeit an",
+    "Is Trump taking control of Corporate America?"
   ],
   "hashes": [
-    "a41d8c9d134c316c940c8c61aba28a3c",
-    "7cac57b99c9d4fd866686179705a9a24",
-    "0456ffe53852eca97309ea7eb77d7e53",
-    "49595b034960ec4b14c830d4a37a8c71",
-    "ec8e1989b56ad680f2f9939c21a45a25",
-    "ec5fa2fa4b20df587f140fed23fe8d5b",
     "f704e6440b001860edb4eb3d57764f64",
     "3c71c92391d36943ed2eeb75d82bcd25",
     "649916ba8e27e5d5950ae5bb43854ee4",
@@ -4005,6 +3999,12 @@
     "9bf2d2d5b745adfb1d3f4dc6c01ddc23",
     "79df598bb24382be3125d6231af9d00b",
     "eb101abd2db13ed496c6802592432e0f",
-    "783def2418cd21107ea0ac5fc9d74d09"
+    "783def2418cd21107ea0ac5fc9d74d09",
+    "23e39ca8c0ded6bc64082566eee06285",
+    "6d37df1e91097ed1d1261330b0c948e9",
+    "8856ba53f7644c0444ffec8e5a2c98d3",
+    "b938a4b7f6b9222c8f620813b47555f4",
+    "3993f1ba457499081a27f240b1bba32f",
+    "41c944174003ec60de98b052776b7d5f"
   ]
 }
