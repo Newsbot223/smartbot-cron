@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-sicherheitsrat-verurteilt-behandlung-israelischer-geiseln-in-gaza-102.html",
-    "https://www.deutschlandfunk.de/us-zoelle-von-50-prozent-gegen-brasilien-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/entlastung-bei-den-gaskosten-geplant-100.html",
     "https://www.faz.net/aktuell/politik/ausland/amtseinfuehrung-in-polen-karol-nawrocki-ist-ein-unberechenbarer-praesident-110623536.html",
     "https://www.deutschlandfunk.de/israels-sicherheitskabinett-tagt-morgen-experte-haelt-militaerische-uebernahme-des-gazastreifens-fue-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/putin-und-kim-als-gaeste-bei-militaerparade-in-peking-100.html",
     "https://www.deutschlandfunk.de/trauerbeflaggung-nach-schusswaffenangriff-an-schule-mit-drei-toten-in-minneapolis-100.html",
     "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-zehn-tote-100.html",
-    "https://www.deutschlandfunk.de/im-jahr-2024-knapp-2-400-neue-vermisstenfaelle-fuer-rotkreuz-suchdienst-100.html"
+    "https://www.deutschlandfunk.de/im-jahr-2024-knapp-2-400-neue-vermisstenfaelle-fuer-rotkreuz-suchdienst-100.html",
+    "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-zwoelf-tote-100.html",
+    "https://www.deutschlandfunk.de/weniger-neue-ausbildungsvertraege-trotz-mehr-auslaendischer-azubis-100.html"
   ],
   "content_hashes": [
-    "ede4deaa0491edc5fc58034c1ca70543",
-    "e6ed95e0782f81d70b776b5f841952f4",
     "89f0b7f254e7253232e2805bbedd2917",
     "6ca90aee95e9f1c5dd0ea269b7ea93ec",
     "c519a81ef5f0810670d6027248291503",
@@ -2001,11 +1999,11 @@
     "98b43110adb8d555b5ca064f2d814b8f",
     "0290236e0cbfcc53e0f6adf7b26b4ec0",
     "1c5c505a1c0131101738d35835a9406e",
-    "78b66d4c6933439c8dd72b3e7782cd84"
+    "78b66d4c6933439c8dd72b3e7782cd84",
+    "eab7fc7f0e33e8ad3a874e23aa5e49b0",
+    "f6cbac01ae8d39e69e284aef0a7ba2e8"
   ],
   "titles": [
-    "Nahost - UNO-Sicherheitsrat verurteilt Behandlung israelischer Geiseln in Gaza",
-    "Wirtschaft - US-Zölle von 50 Prozent gegen Brasilien in Kraft getreten",
     "Bundeskabinett - Entlastung bei den Gaskosten geplant",
     "Amtswechsel in Polen: Karol Nawrocki, der unberechenbare Präsident",
     "Nahost - Israels Sicherheitskabinett tagt morgen - Experte hält militärische Übernahme des Gazastreifens für kaum möglich",
@@ -3003,11 +3001,11 @@
     "China - Putin und Kim als Gäste bei Militärparade in Peking",
     "USA - Trauerbeflaggung nach Schusswaffenangriff an Schule mit drei Toten in Minneapolis",
     "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens zehn Tote",
-    "Vor allem Konfliktregionen wie Afghanistan und Ukraine - Im Jahr 2024 knapp 2.400 neue Vermisstenfälle für Rotkreuz-Suchdienst"
+    "Vor allem Konfliktregionen wie Afghanistan und Ukraine - Im Jahr 2024 knapp 2.400 neue Vermisstenfälle für Rotkreuz-Suchdienst",
+    "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens zwölf Tote",
+    "Berufsbildung 2024 - Weniger neue Ausbildungsverträge trotz mehr ausländischer Azubis"
   ],
   "hashes": [
-    "5b461f13dc34d8520c5aea788072a770",
-    "da5ad932eef1b58c4e974ce113c26bbe",
     "046e2405943737cb3e6b0929e251f2c1",
     "bdc7e50761c8751b082d3978b9badd20",
     "ceb886417ad6009b44e81f5d798e02c6",
@@ -4005,6 +4003,8 @@
     "854592961446c39caac74d650e20be67",
     "1e50be064fd2ae3d5cde9a926d6fe210",
     "324ba68fe643c689095422d21a00b775",
-    "740c6bddc0bbdaeb745b11430f5d17e7"
+    "740c6bddc0bbdaeb745b11430f5d17e7",
+    "997f48ca23439874b06b0867fe95967a",
+    "ddc7c917d5889767ccaea733dd1c44bf"
   ]
 }
