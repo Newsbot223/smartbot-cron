@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/evakuierungen-in-frankreich-und-spanien-102.html",
-    "https://www.deutschlandfunk.de/bundeskabinett-will-umstrittenes-tariftreuegesetz-auf-den-weg-bringen-100.html",
     "https://www.deutschlandfunk.de/gesetzentwurf-gegen-schwarzarbeit-strengere-regeln-fuer-barbershops-und-nagelstudios-100.html",
     "https://www.deutschlandfunk.de/graue-woelfe-politiker-und-experten-warnen-erneut-vor-gesellschaftlicher-unterwanderung-durch-tuerki-100.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-lehnt-die-initiative-deutscher-staedte-zur-aufnahme-von-kindern-aus-gaza-ab-108.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wegen-kaufs-von-russischem-oel-usa-verdoppeln-zoelle-auf-waren-aus-indien-100.html",
     "https://www.deutschlandfunk.de/zweitaegige-klausurtagung-von-union-und-spd-wiese-spd-mahnt-bessere-zusammenarbeit-an-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/8/27/is-trump-taking-control-of-corporate-america?traffic_source=rss",
-    "https://www.deutschlandfunk.de/russland-fliegt-naechtliche-luftangriffe-auf-die-ukraine-explosionen-in-kiew-100.html"
+    "https://www.deutschlandfunk.de/russland-fliegt-naechtliche-luftangriffe-auf-die-ukraine-explosionen-in-kiew-100.html",
+    "https://www.deutschlandfunk.de/trump-regierung-entlaesst-chefin-der-nationalen-gesundheitsbehoerde-100.html",
+    "https://www.deutschlandfunk.de/praesident-milei-bei-wahlkampfauftritt-mit-steinen-beworfen-100.html"
   ],
   "content_hashes": [
-    "e81525bab9deaf4efcf69c05e6a76749",
-    "ce18b93c9e086de4bb804cab62e38825",
     "b056354b6e76c62d07ac9ad3466fdb85",
     "dbbf09d8af67b55143de02e5c847a7c9",
     "8774cbd2d988742feda1682e6391b8aa",
@@ -2001,11 +1999,11 @@
     "ef54a3a2aafd5b8bda23851598f68f80",
     "49c54fd0ffa1332751666c1a23848492",
     "6ccf90f539a63195dedd63ac36d63243",
-    "7a47c7ffe898f2791bb6577b0e406596"
+    "7a47c7ffe898f2791bb6577b0e406596",
+    "cc6da5c351e85df69e1a1cf5b3afdb9c",
+    "e3b83c3f9f8bf6c419fafd41c7636ef4"
   ],
   "titles": [
-    "Waldbrände - Evakuierungen in Frankreich und Spanien",
-    "Entwurf von Arbeitsministerin Bas - Bundeskabinett will umstrittenes Tariftreuegesetz auf den Weg bringen",
     "Finanzminister Klingbeil (SPD) - Gesetzentwurf gegen Schwarzarbeit: Strengere Regeln für Barbershops und Nagelstudios",
     "ARD-Recherche - \"Graue Wölfe\" - Politiker und Experten warnen erneut vor gesellschaftlicher Unterwanderung durch türkische Rechtsextremisten",
     "Krieg in Nahost - Auswärtiges Amt lehnt die Initiative deutscher Städte zur Aufnahme von Kindern aus Gaza ab",
@@ -3003,11 +3001,11 @@
     "Handel - Wegen Kaufs von russischem Öl: USA verdoppeln Zölle auf Waren aus Indien",
     "Würzburg - Zweitägige Klausurtagung von Union und SPD - Wiese (SPD) mahnt bessere Zusammenarbeit an",
     "Is Trump taking control of Corporate America?",
-    "Krieg - Russland fliegt nächtliche Luftangriffe auf die Ukraine - Explosionen in Kiew"
+    "Krieg - Russland fliegt nächtliche Luftangriffe auf die Ukraine - Explosionen in Kiew",
+    "USA - Trump-Regierung entlässt Chefin der nationalen Gesundheitsbehörde",
+    "Provinz Buenos Aires - Präsident Milei bei Wahlkampfauftritt mit Steinen beworfen"
   ],
   "hashes": [
-    "3c71c92391d36943ed2eeb75d82bcd25",
-    "649916ba8e27e5d5950ae5bb43854ee4",
     "69568dba9a884015f7ae57166a83f77a",
     "6a548fa4ed0e7c0f0e015cad9a5c059a",
     "5bb37e8ef6b14d6b8f186301aeaaa95f",
@@ -4005,6 +4003,8 @@
     "b938a4b7f6b9222c8f620813b47555f4",
     "3993f1ba457499081a27f240b1bba32f",
     "41c944174003ec60de98b052776b7d5f",
-    "7de99a1b68f6594d3c06d24440c31d8c"
+    "7de99a1b68f6594d3c06d24440c31d8c",
+    "3ff5031b4d68628f4fd89abd5fd71551",
+    "f46c4008db76847e92578c3af96f760a"
   ]
 }
