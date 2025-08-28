@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/anfuehrer-der-bosnischen-serben-dodik-ist-seines-amtes-enthoben-100.html",
-    "https://www.deutschlandfunk.de/zwei-weitere-deutsche-koennen-gazastreifen-verlassen-100.html",
     "https://www.deutschlandfunk.de/bosnische-wahlbehoerde-enthebt-serbenfuehrer-dodik-des-amtes-100.html",
     "https://www.deutschlandfunk.de/prosiebensat-1-spitze-fuer-annahme-von-berlusconi-angebot-100.html",
     "https://www.faz.net/aktuell/politik/inland/klimaschutz-nicht-mehr-prioritaet-der-waehler-110621764.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/renteneintrittsalter-steigt-in-deutschland-auf-64-102.html",
     "https://www.faz.net/aktuell/politik/ausland/merz-bei-macron-deutschland-und-frankreich-sind-zusammengerueckt-110657481.html",
     "https://www.deutschlandfunk.de/israel-kuendigt-zwei-neue-hilfszentren-an-welternaehrungsprogramm-lebensmittel-reichen-laengst-nicht-102.html",
-    "https://www.aljazeera.com/news/2025/8/28/e3-announces-plans-to-reimpose-snapback-sanctions-on-iran?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/8/28/e3-announces-plans-to-reimpose-snapback-sanctions-on-iran?traffic_source=rss",
+    "https://www.deutschlandfunk.de/kein-visum-ohne-sicherheitscheck-fuer-afghanische-familien-100.html",
+    "https://www.deutschlandfunk.de/hilfsorganisationen-bundesregierung-soll-von-den-usa-angeordnete-vernichtung-von-verhuetungsmitteln--100.html"
   ],
   "content_hashes": [
-    "3b32a79eebb5831e0e314dc12ae85046",
-    "3359803280f8f6daa2ce33b23ec1487c",
     "c27f9a533fa86c189d1e849a69bbda68",
     "58d4c0635b6ca8da6a64dc764b9f5923",
     "d9a25d0cd95741abf753eb8257b3272f",
@@ -2001,11 +1999,11 @@
     "9e815dc43d75a2cd9dea1ea72a516fab",
     "2e68a0c7e94ca181b8611fa14d00f186",
     "650213e38e51e009afed620d3b1c43c2",
-    "20eeca9991eb0c1b9b6efb75d3c81dbd"
+    "20eeca9991eb0c1b9b6efb75d3c81dbd",
+    "7ea1e4267a5e4b41a75caca3034adb2f",
+    "c5f3cfab205f2818ff343f0f5051fbb3"
   ],
   "titles": [
-    "Bosnien-Herzigowina - Anführer der bosnischen Serben, Dodik, ist seines Amtes enthoben",
-    "Nahost-Krieg - Zwei weitere Deutsche können Gazastreifen verlassen",
     "Bosnien-Herzigowina - Bosnische Wahlbehörde enthebt Serbenführer Dodik des Amtes",
     "MFE - ProSiebenSat.1-Spitze für Annahme von Berlusconi-Angebot",
     "Meinungsumfragen: Wie wichtig das Klima den Wählern noch ist",
@@ -3003,11 +3001,11 @@
     "Jahresbericht - Renteneintrittsalter steigt in Deutschland auf 64,7",
     "Merz bei Macron: Eine seltene Ehre für den Kanzler",
     "Gazastreifen - Israel kündigt zwei neue Hilfszentren an - Welternährungsprogramm: Lebensmittel reichen längst nicht",
-    "Germany, France, UK trigger process to reimpose sanctions on Iran"
+    "Germany, France, UK trigger process to reimpose sanctions on Iran",
+    "Gerichtsurteil - Kein Visum ohne Sicherheitscheck für afghanische Familien",
+    "Offener Brief - Hilfsorganisationen: Bundesregierung soll von den USA angeordnete Vernichtung von Verhütungsmitteln in Europa stoppen"
   ],
   "hashes": [
-    "c33d97d44166f647e5af71b426232fda",
-    "f648541eee0902931d452434424d90e4",
     "2b9022f4b202b3b4fcd12b85b0bb444a",
     "66b28a80b2e96f345ac65133240ee22e",
     "f4cf2ed37b8034e63bb7188944bbe1c6",
@@ -4005,6 +4003,8 @@
     "df0eb6e84d44144b776ddf82a9355d95",
     "cf74bc96edf514d0efb8a9377ecb50a5",
     "5b1fd767b4947f290614e43f23223cbc",
-    "ed9c931f67c029373275b248a564c60c"
+    "ed9c931f67c029373275b248a564c60c",
+    "e697d0c1f3234081b660c912b4d7bb5c",
+    "0c522513bf58bfea4881003e3fd55ed5"
   ]
 }
