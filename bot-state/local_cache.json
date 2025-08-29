@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/jens-spahn-und-die-unionsfraktion-was-laeuft-dort-falsch-110625305.html",
-    "https://www.faz.net/aktuell/politik/reichsbuergernetzwerk-um-prinz-reuss-drei-weitere-festnahmen-110626160.html",
-    "https://www.deutschlandfunk.de/diskussion-ueber-die-zukunft-der-rente-100.html",
-    "https://www.deutschlandfunk.de/bislang-nur-rund-4-000-syrer-aus-deutschland-zurueckgekehrt-102.html",
-    "https://www.deutschlandfunk.de/ngo-warnt-vor-gefaehrlichen-ratschlaegen-von-chatgpt-102.html",
     "https://www.deutschlandfunk.de/politiker-in-mexiko-werfen-adidas-kulturelle-aneignung-vor-102.html",
     "https://www.deutschlandfunk.de/polizei-stellt-waffen-und-sprengstoff-sicher-verdaechtiger-soll-ein-afd-kommunalpolitiker-sein-102.html",
     "https://www.deutschlandfunk.de/gewerkschafter-begruessen-haerteres-vorgehen-gegen-barbershops-und-nagelstudios-102.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/huthi-regierungschef-offenbar-bei-angriff-israels-getoetet-102.html",
     "https://www.deutschlandfunk.de/realloehne-im-zweiten-quartal-erneut-gestiegen-102.html",
     "https://www.spiegel.de/wirtschaft/wuerzburg-union-und-spd-sprechen-ueber-reaktion-auf-steigende-arbeitslosenzahlen-a-736f5de3-829e-4505-a8d2-fe38b8f88187#ref=rss",
-    "https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss"
+    "https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss",
+    "https://www.deutschlandfunk.de/zwei-tote-geiseln-geborgen-100.html",
+    "https://www.deutschlandfunk.de/urteil-rechtskraeftig-salafistischer-prediger-aus-bremen-darf-ausgewiesen-werden-100.html",
+    "https://www.deutschlandfunk.de/anhaltende-massenproteste-gegen-zulagen-fuer-politiker-100.html",
+    "https://www.deutschlandfunk.de/kamerateam-der-deutschen-welle-von-israelischen-soldaten-bedroht-102.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-deutsche-behoerden-gegen-russische-wegwerf-agenten-vorgehen-accg-110660912.html"
   ],
   "content_hashes": [
-    "30750a11baaf34f7205dc7c51f894491",
-    "ded1bd2cd656b67cd05376f7cfa4a30c",
-    "a4d5e92adb7a3f38db3adb508d1ed19d",
-    "6e23f164b7b56a47dc318b12b83475fa",
-    "b815b6c5631704a4400740a14f0310bf",
     "84654f843fcd77f55e41a79c73645563",
     "2f2785f3fdb8e5e6297d9d8770b6889c",
     "3bfc01b9cd8a027c10dedd2639315aee",
@@ -2001,14 +1996,14 @@
     "b832307ea5113f1b14c4cd42e8138470",
     "302bbc1dd7cd4a6b55c27cfd1eb1c053",
     "a32f4e483b82551e17dfd4823deec1cd",
-    "cb9fca9c9b311af34691ac03c1aa813d"
+    "cb9fca9c9b311af34691ac03c1aa813d",
+    "e03137f214e5b2a9d61216a0ba7d027d",
+    "c7d0f1b09503fb6edf8d6b4bc2648487",
+    "10071431e6d22a9edde90d967bf2f3bd",
+    "64a1b0e362898997ddcabfd2d4604a77",
+    "1bad72ad3e2808e179bf3d1f66f69cf7"
   ],
   "titles": [
-    "Spahn und seine Fraktion: Lemminge wollen sie nicht sein",
-    "Bayern: Drei Festnahmen im Umfeld der „Reichsbürger“-Gruppe Prinz Reuß",
-    "Rentenpaket der Bundesregierung - Diskussion über die Zukunft der Rente",
-    "Nach Sturz des Assad-Regimes - Bislang nur rund 4.000 Syrer aus Deutschland zurückgekehrt",
-    "Künstliche Intelligenz - NGO warnt vor gefährlichen Ratschlägen von ChatGPT",
     "Neue Sandalen - Politiker in Mexiko werfen Adidas kulturelle Aneignung vor",
     "Mecklenburg-Vorpommern - Polizei stellt Waffen und Sprengstoff sicher - Verdächtiger soll ein AfD-Kommunalpolitiker sein",
     "Bekämpfung der Schwarzarbeit - Gewerkschafter begrüßen härteres Vorgehen gegen Barbershops und Nagelstudios",
@@ -3003,14 +2998,14 @@
     "Jemen - Huthi-Regierungschef offenbar bei Angriff Israels getötet",
     "Statistik - Reallöhne im zweiten Quartal erneut gestiegen",
     "Würzburg: Union und SPD sprechen über Reaktion auf steigende Arbeitslosenzahlen",
-    "Iran: Parlament plant Austritt aus Atomwaffensperrvertrag"
+    "Iran: Parlament plant Austritt aus Atomwaffensperrvertrag",
+    "Gaza-Krieg - Zwei tote Geiseln geborgen",
+    "Innere Sicherheit - Urteil rechtskräftig: Salafistischer Prediger aus Bremen darf ausgewiesen werden",
+    "Indonesien - Anhaltende Massenproteste gegen Zulagen für Politiker",
+    "Westjordanland - Kamerateam der Deutschen Welle von israelischen Soldaten bedroht",
+    "Hybrider Krieg: Wie deutsche Behörden gegen russische Wegwerf-Agenten vorgehen"
   ],
   "hashes": [
-    "318e01286c1d5283b9067e7ea65a719a",
-    "4ac30b5434e6bc295a9b0f20fa422a3c",
-    "214c8b1eed35ec468d434c7474b6f6ae",
-    "ad120f6819a24381ca571e96e54e34ab",
-    "8e29d3d2226140076c394d48bcda34a2",
     "2902e5c6e427b58c00c308dbd58e56de",
     "d06125cec4618c0b7c3d435dfb1fb672",
     "0eeaa05bbf53b47c51bc6d5ad717b8d9",
@@ -4005,6 +4000,11 @@
     "da1ff0a29a39c46d37f7852ef62be543",
     "e72d819fade7d85350b71cca3dd4f2ac",
     "f4953761bdac30557925361c865bef0f",
-    "8a1aaab75897ffe7307529f78bf06c20"
+    "8a1aaab75897ffe7307529f78bf06c20",
+    "ba99080c910a43d4ac1cffefb1d66d81",
+    "501efda9a1ff3ecdb9653d87434b2da8",
+    "0aec5ce81707e509e31cec1338a618fd",
+    "0bc612b56609cb7138143ce9f98f63f4",
+    "75702462dc5e308aa3402cdf8ffab869"
   ]
 }
