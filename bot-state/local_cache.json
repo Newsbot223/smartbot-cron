@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-zieht-gemischte-bilanz-100.html",
-    "https://www.deutschlandfunk.de/feuer-nahe-urlaubsort-tarifa-unter-kontrolle-evakuierung-aufgehoben-100.html",
-    "https://www.deutschlandfunk.de/brasilien-will-internationalen-widerstand-gegen-trumps-zollpolitik-organisieren-100.html",
     "https://www.deutschlandfunk.de/neue-us-importzoelle-fuer-produkte-aus-der-eu-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/israels-fuehrung-will-am-abend-ueber-ausweitung-des-gaza-einsatzes-entscheiden-100.html",
     "https://www.deutschlandfunk.de/bovenschulte-wirtschaftliche-entwicklung-ist-grundlage-fuer-stabiles-rentensystem-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wie-funktioniert-der-snapback-mechanismus-100.html",
     "https://www.deutschlandfunk.de/wie-angeschlagen-ist-russland-wirklich-interview-mit-andrej-gurkov-russlandexp-100.html",
     "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-auf-ueber-drei-millionen-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/staedtetagspraesident-jung-bemaengelt-unzureichende-integration-102.html"
+    "https://www.deutschlandfunk.de/staedtetagspraesident-jung-bemaengelt-unzureichende-integration-102.html",
+    "https://www.deutschlandfunk.de/fraktionsspitzen-von-union-und-spd-in-klausur-102.html",
+    "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-aeussert-sich-ablehnend-100.html",
+    "https://www.deutschlandfunk.de/zwei-tote-in-dnipropetrowsk-nach-russischem-drohnenangriff-104.html"
   ],
   "content_hashes": [
-    "94408079b0140c2f769f1aecc2099e6e",
-    "6d18b1741c077bf692ecd9ffd935d5e5",
-    "33246c6a619d27171c6160925e029d47",
     "bd6264d9c01eb02be1b2adaf9ac3fea7",
     "dc00d529586bb8f0d1b2353aa7607ad6",
     "c787f5a8825236a91a07db7353836a74",
@@ -2001,12 +1998,12 @@
     "48f9f4acea3dca6c8e49ef87abfc9ba4",
     "aab8e0495338e3949168949e5f51314d",
     "1dd50a8ed93f7faf8c6405b658ddf6c1",
-    "464056942e883052ffdb21d68b9f7655"
+    "464056942e883052ffdb21d68b9f7655",
+    "63e147784b05e4ef5e928948a73af366",
+    "8a8028020468aa848ca1268d045e07b5",
+    "47e71d31c7beb574db85075b662ca7d3"
   ],
   "titles": [
-    "100 Tage Merz-Regierung - Vizekanzler Klingbeil zieht gemischte Bilanz",
-    "Spanien - Feuer nahe Urlaubsort Tarifa unter Kontrolle - Evakuierung aufgehoben",
-    "BRICS-Gruppe - Brasilien will internationalen Widerstand gegen Trumps Zollpolitik organisieren",
     "15 Prozent - Neue US-Importzölle für Produkte aus der EU in Kraft getreten",
     "Nahost-Krieg - Israels Führung will am Abend über Ausweitung des Gaza-Einsatzes entscheiden",
     "Rente - Bovenschulte: Wirtschaftliche Entwicklung ist Grundlage für stabiles Rentensystem",
@@ -3003,12 +3000,12 @@
     "Sanktionen gegen den Iran - Wie funktioniert der \"Snapback\"-Mechanismus?",
     "Ukraine-Krieg - Russlandexperte hält europäische Sanktionen für wirksam",
     "Bundesagentur für Arbeit - Zahl der Arbeitslosen auf über drei Millionen gestiegen",
-    "10 Jahre \"Wir schaffen das!\" - Städtetagspräsident Jung bemängelt unzureichende Integration"
+    "10 Jahre \"Wir schaffen das!\" - Städtetagspräsident Jung bemängelt unzureichende Integration",
+    "Würzburg - Fraktionsspitzen von Union und SPD in Klausur",
+    "Soziales Pflichtjahr für Rentner - Bundesfamilienministerin Prien äußert sich ablehnend",
+    "Ukraine - Zwei Tote in Dnipropetrowsk nach russischem Drohnenangriff"
   ],
   "hashes": [
-    "460a0e6ae268d70b5551a5bcc2024cdc",
-    "53ef91a1262fa0ab9b21c5e3e38f9cb6",
-    "44a5d4467ed09acd3bc45a16c4e578aa",
     "342e406b63cdba66992429e6cd544fe5",
     "5f3d552de2f6432e5cc052f47ba6d2ff",
     "d5e237afc3a6e1170251095020f26b99",
@@ -4005,6 +4002,9 @@
     "8dcc3450dbd6afffe6f609ee9e73d6b5",
     "71e5cf8776fccd7cd4a0b953624c22d4",
     "5075612a91712249836f36a0ff263827",
-    "4474d00bf5966a2cf64323a7f656a521"
+    "4474d00bf5966a2cf64323a7f656a521",
+    "109c36552bb8428dacd8f300ed5ebb9b",
+    "ec76e1ac0d5ccb634c7aef69fda4797b",
+    "92cf1bcfd3ef1f1ac8a4778f27a25790"
   ]
 }
