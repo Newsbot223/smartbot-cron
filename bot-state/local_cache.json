@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/gazastreifen-vater-von-deutsch-israelischer-geisel-draengt-merz-zum-handeln-a-a5a79aa3-6ef3-4ef3-9a82-f2c48e69f072#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-will-grenzkontrollen-erneut-verlaengern-a-8b71b35e-de59-4dd6-8b3f-8a0663474152#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/jens-spahn-und-die-unionsfraktion-was-laeuft-dort-falsch-110625305.html",
     "https://www.faz.net/aktuell/politik/reichsbuergernetzwerk-um-prinz-reuss-drei-weitere-festnahmen-110626160.html",
     "https://www.deutschlandfunk.de/diskussion-ueber-die-zukunft-der-rente-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verfassungsgericht-setzt-regierungschefin-ab-102.html",
     "https://www.deutschlandfunk.de/zweideutige-signale-aus-dem-iran-zu-atomverhandlungen-auswaertiges-amt-fordert-deutsche-zu-ausreise--100.html",
     "https://www.deutschlandfunk.de/huthi-regierungschef-offenbar-bei-angriff-israels-getoetet-102.html",
-    "https://www.deutschlandfunk.de/realloehne-im-zweiten-quartal-erneut-gestiegen-102.html"
+    "https://www.deutschlandfunk.de/realloehne-im-zweiten-quartal-erneut-gestiegen-102.html",
+    "https://www.spiegel.de/wirtschaft/wuerzburg-union-und-spd-sprechen-ueber-reaktion-auf-steigende-arbeitslosenzahlen-a-736f5de3-829e-4505-a8d2-fe38b8f88187#ref=rss",
+    "https://www.spiegel.de/politik/iran-parlament-plant-austritt-aus-atomwaffensperrvertrag-a-2beb0318-e495-4d96-a8fa-940b58de0024#ref=rss"
   ],
   "content_hashes": [
-    "a0ff94e9f1008e22ea33aad04cc73824",
-    "c6b7ce6605be998780441537c3574937",
     "30750a11baaf34f7205dc7c51f894491",
     "ded1bd2cd656b67cd05376f7cfa4a30c",
     "a4d5e92adb7a3f38db3adb508d1ed19d",
@@ -2001,11 +1999,11 @@
     "5529de9c21a0e9f5888708c8f2cfff43",
     "9070d686d5cd9bc3580ef54a8f83f9fd",
     "b832307ea5113f1b14c4cd42e8138470",
-    "302bbc1dd7cd4a6b55c27cfd1eb1c053"
+    "302bbc1dd7cd4a6b55c27cfd1eb1c053",
+    "a32f4e483b82551e17dfd4823deec1cd",
+    "cb9fca9c9b311af34691ac03c1aa813d"
   ],
   "titles": [
-    "Gazastreifen: Vater von deutsch-israelischer Geisel drängt Merz zum Handeln",
-    "Alexander Dobrindt will Grenzkontrollen erneut verlängern",
     "Spahn und seine Fraktion: Lemminge wollen sie nicht sein",
     "Bayern: Drei Festnahmen im Umfeld der „Reichsbürger“-Gruppe Prinz Reuß",
     "Rentenpaket der Bundesregierung - Diskussion über die Zukunft der Rente",
@@ -3003,11 +3001,11 @@
     "Thailand - Verfassungsgericht setzt Regierungschefin ab",
     "Sanktionsdrohungen - Zweideutige Signale aus dem Iran zu Atomverhandlungen - Auswärtiges Amt fordert Deutsche zu Ausreise auf",
     "Jemen - Huthi-Regierungschef offenbar bei Angriff Israels getötet",
-    "Statistik - Reallöhne im zweiten Quartal erneut gestiegen"
+    "Statistik - Reallöhne im zweiten Quartal erneut gestiegen",
+    "Würzburg: Union und SPD sprechen über Reaktion auf steigende Arbeitslosenzahlen",
+    "Iran: Parlament plant Austritt aus Atomwaffensperrvertrag"
   ],
   "hashes": [
-    "db6b735f24103ee63825a2108e8be402",
-    "664e74bba8c58ab1204af9c8d1382838",
     "318e01286c1d5283b9067e7ea65a719a",
     "4ac30b5434e6bc295a9b0f20fa422a3c",
     "214c8b1eed35ec468d434c7474b6f6ae",
@@ -4005,6 +4003,8 @@
     "1f6b8742ec706ed1666a491e32548531",
     "15ff3717c1d54881bacb7bd1e9b0128a",
     "da1ff0a29a39c46d37f7852ef62be543",
-    "e72d819fade7d85350b71cca3dd4f2ac"
+    "e72d819fade7d85350b71cca3dd4f2ac",
+    "f4953761bdac30557925361c865bef0f",
+    "8a1aaab75897ffe7307529f78bf06c20"
   ]
 }
