@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ministerpraesident-haseloff-macht-weg-fuer-nachfolger-frei-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ministerpraesident-haseloff-tritt-in-sachsen-anhalt-nicht-wieder-an-110626174.html",
     "https://www.deutschlandfunk.de/juedische-gemeinden-kritisieren-auswaertiges-amt-fuer-ablehnung-der-hilfsinitiative-deutscher-staedt-100.html",
     "https://www.deutschlandfunk.de/seit-monaten-gesuchter-mutmasslicher-dreifachmoerder-von-weitefeld-ist-tot-100.html",
     "https://www.deutschlandfunk.de/ministerpraesident-haseloff-tritt-nicht-mehr-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/wie-deutsche-behoerden-gegen-russische-wegwerf-agenten-vorgehen-accg-110660912.html",
     "https://www.deutschlandfunk.de/fraktionsspitzen-von-union-und-spd-schliessen-klausurtagung-in-wuerzburg-ab-100.html",
     "https://www.spiegel.de/wirtschaft/service/paypal-panne-zahlungsdienstleister-verspricht-haendlern-rasche-auszahlung-nach-gestoppten-transaktionen-a-8c14da3e-cfc2-4680-96a6-fa9ed0b79468#ref=rss",
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-beschaeftigte-von-x-wegen-strafvereitelung-herausgabe-von-accountdaten-verweigert-100.html"
+    "https://www.deutschlandfunk.de/ermittlungen-gegen-beschaeftigte-von-x-wegen-strafvereitelung-herausgabe-von-accountdaten-verweigert-100.html",
+    "https://www.deutschlandfunk.de/trump-stoppt-verlaengerten-secret-service-schutz-von-harris-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/ministerrat-in-toulon-die-wichtigste-leistung-von-merz-110661598.html"
   ],
   "content_hashes": [
-    "f528021040e3c8ad68c0c8081f4031b2",
-    "fa66b7bf436a26d633fdc7e228b428c1",
     "fdbf7fff8d2e98bcf449f6b0781bb1ed",
     "9d8c5990bd0e806baa051743ff7bbbaa",
     "47a7e231c72ea58d28e8793e16c5904b",
@@ -2001,11 +1999,11 @@
     "1bad72ad3e2808e179bf3d1f66f69cf7",
     "c85066dbdd5f64a256512a8d7d20d503",
     "20909662b11b30936028d1544700f0c1",
-    "dc9b9144d49b9f8d403f201846bf388e"
+    "dc9b9144d49b9f8d403f201846bf388e",
+    "87ea65eebae784912f1877382eb981d0",
+    "63042d704b9194fb3591f3970f91b0e7"
   ],
   "titles": [
-    "Sachsen-Anhalt - Ministerpräsident Haseloff macht Weg für Nachfolger frei",
-    "Landtagswahl: Ministerpräsident Haseloff tritt in Sachsen-Anhalt nicht wieder an",
     "Nahostkrieg - Jüdische Gemeinden kritisieren Auswärtiges Amt für Ablehnung der Hilfsinitiative deutscher Städte für Kinder aus Gaza",
     "Westerwald - Seit Monaten gesuchter mutmaßlicher Dreifachmörder von Weitefeld ist tot",
     "Sachsen-Anhalt - Ministerpräsident Haseloff tritt nicht mehr an",
@@ -3003,11 +3001,11 @@
     "Hybrider Krieg: Wie deutsche Behörden gegen russische Wegwerf-Agenten vorgehen",
     "Koalition - Fraktionsspitzen von Union und SPD schließen Klausurtagung in Würzburg ab",
     "PayPal-Panne: Zahlungsdienstleister verspricht Händlern rasche Auszahlung nach gestoppten Transaktionen",
-    "Hasskriminalität - Ermittlungen gegen Beschäftigte von X wegen Strafvereitelung - Herausgabe von Accountdaten verweigert"
+    "Hasskriminalität - Ermittlungen gegen Beschäftigte von X wegen Strafvereitelung - Herausgabe von Accountdaten verweigert",
+    "Medienberichte - Trump stoppt verlängerten Secret-Service-Schutz von Harris",
+    "Ministerrat in Frankreich: Die wichtigste Leistung von Merz"
   ],
   "hashes": [
-    "f9bc2635a19a17440fa59b47ec6a63d4",
-    "e236c7dd23bf895ec97f133d5e823d7b",
     "3d8bf39f3032ae31c679271212c8df56",
     "c022be66d736ad4f7115c16dd8b26a2b",
     "8ba70ec09d8f2004ac6d8043ce915a39",
@@ -4005,6 +4003,8 @@
     "75702462dc5e308aa3402cdf8ffab869",
     "64745673b6a19c249a3dd6f51001e9db",
     "01cf267946ef0e05d21be1004e929ad5",
-    "4c87285019f0897006c967460b52760a"
+    "4c87285019f0897006c967460b52760a",
+    "13830f4dd8b6c4edf2f09d8c7e192eb7",
+    "7dc83255abb0abc6b86b155adccdc2f1"
   ]
 }
