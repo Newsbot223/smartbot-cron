@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/ausbleibende-reformen-linnemanns-dreifaches-dilemma-110625367.html",
-    "https://www.deutschlandfunk.de/trump-lobt-fortschritte-bei-gespraechen-mit-putin-bericht-ueber-moegliches-zeitnahes-treffen-100.html",
-    "https://www.deutschlandfunk.de/gruenes-licht-fuer-bruecke-zwischen-sizilien-und-dem-festland-102.html",
     "https://www.deutschlandfunk.de/trump-lobt-fortschritte-bei-gespraechen-mit-putin-weisses-haus-offen-fuer-baldiges-treffen-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/8/6/could-trumps-trade-strategy-forge-new-alliances-against-him?traffic_source=rss",
     "https://www.deutschlandfunk.de/neue-us-importzoelle-fuer-produkte-aus-der-eu-treten-in-kraft-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutsche-politikerinnen-fordern-europaeische-alternativen-zu-zahlungsdienstleister-paypal-100.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-frei-erwartet-zusammenhalt-von-union-und-spd-beim-neuen-wehrdienst-102.html",
     "https://www.deutschlandfunk.de/iran-will-faire-verhandlungen-ueber-atomprogramm-auswaertiges-amt-fordert-deutsche-zu-ausreise-auf-100.html",
-    "https://www.deutschlandfunk.de/gysi-schlaegt-neues-debattenformat-vor-100.html"
+    "https://www.deutschlandfunk.de/gysi-schlaegt-neues-debattenformat-vor-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-fordert-von-konkrete-sicherheitsgarantien-von-europaeern-102.html",
+    "https://www.deutschlandfunk.de/alabali-radovan-in-nahost-ringen-um-die-anerkennung-palaestinas-100.html",
+    "https://www.faz.net/einspruch/ueberfaellige-reform-kein-geschlechtswechsel-ohne-gutachten-110659393.html"
   ],
   "content_hashes": [
-    "0e3ebf67705a64f4a020574e76f0b794",
-    "297b2474b6528d6a1cc022fbd8902e84",
-    "411be5b2cba11910385a6c55b8bbc3a9",
     "869567eefc43f7434041b45d08b67b33",
     "52be0e4eb928718c09104df200f286b0",
     "b4e486b54fb377770f58ea245aaed09c",
@@ -2001,12 +1998,12 @@
     "54dc1ba0d839778186011d2041731345",
     "533ebbddb03101cccc23565905224faf",
     "b216f7451ab3b36a23f47800e4606277",
-    "e07c3dc445b92f027d4b13f2f43a8c34"
+    "e07c3dc445b92f027d4b13f2f43a8c34",
+    "05d03bd77b41f4b3ccb25f24334dc8f6",
+    "385dc3474e7a09f1b378850f0c786a56",
+    "94e15455d771edec9ce075742232cde3"
   ],
   "titles": [
-    "Ausbleibende Reformen: Linnemanns dreifaches Dilemma",
-    "Ukraine-Krieg - Trump lobt Fortschritte bei Gesprächen mit Putin - Bericht über mögliches zeitnahes Treffen",
-    "Italien - Grünes Licht für Brücke zwischen Sizilien und dem Festland",
     "Ukraine-Krieg - Trump lobt Fortschritte bei Gesprächen mit Putin - Weißes Haus: \"Offen für baldiges Treffen\"",
     "Could Trump’s trade strategy forge new alliances against him?",
     "15 Prozent - Neue US-Importzölle für Produkte aus der EU treten in Kraft",
@@ -3003,12 +3000,12 @@
     "Nach mutmaßlichem Sicherheitsausfall - Deutsche Politikerinnen fordern europäische Alternativen zu Zahlungsdienstleister Paypal",
     "Koalition - Kanzleramtschef Frei erwartet Zusammenhalt von Union und SPD beim neuen Wehrdienst",
     "Sanktionsdrohungen - Iran will \"faire Verhandlungen\" über Atomprogramm - Auswärtiges Amt fordert Deutsche zu Ausreise auf",
-    "Bundestag - Gysi schlägt neues Debattenformat vor"
+    "Bundestag - Gysi schlägt neues Debattenformat vor",
+    "Ukraine - Selenskyj fordert von konkrete Sicherheitsgarantien von Europäern",
+    "Nahost-Reise - Entwicklungsministerin fürchtet eine neue Destabilisierung",
+    "Überfällige Reform: Kein Geschlechtswechsel ohne Gutachten"
   ],
   "hashes": [
-    "5f0d0517be918328a4d218682afe3fbc",
-    "9f4a69e717385cae9ad41180a488d4dd",
-    "e301f5eaf58f49c44f92e5e5f2e440ab",
     "199082d5442160f3ceb16aaab945b87a",
     "07944669813918eb38ba92b7b126c4d0",
     "92d5b9c71c117b2fe074a2d29a0f7da4",
@@ -4005,6 +4002,9 @@
     "65212cfaa8b101e9a5d0b040a910143e",
     "61347c92e8573fff328ad8ff51208ae2",
     "b9f553ac5869b2c9ae7131ea6a655f69",
-    "67c168120b7450fee323eaa7ec506c49"
+    "67c168120b7450fee323eaa7ec506c49",
+    "d783ea3f5b55f55e99639c53835360ab",
+    "7d439236b22257bc35bf5a044e8c9adb",
+    "1e2e9754135e306359ba54057cd9b82b"
   ]
 }
