@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/richterstreit-die-spd-ist-immer-noch-wuetend-auf-die-union-110627215.html",
-    "https://www.deutschlandfunk.de/us-unternehmen-will-northvolt-uebernehmen-hoffnung-fuer-fabrik-in-schleswig-holstein-100.html",
-    "https://www.deutschlandfunk.de/mehr-afghanische-frauen-beantragen-asyl-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/netanjahu-will-vollstaendige-kontrolle-ueber-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/bundesanwaltschaft-fordert-lebenslange-haft-nach-toedlichem-messerangriff-in-mannheim-100.html",
     "https://www.faz.net/aktuell/politik/inland/neues-gremium-im-kanzleramt-wie-wird-der-nationale-sicherheitsrat-arbeiten-110627083.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bananen-konzern-chiquita-kehrt-nach-panama-zurueck-100.html",
     "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-cdu-der-schluessel-ist-medienkompetenz-100.html",
     "https://www.deutschlandfunk.de/16-jaehrige-vor-fahrenden-gueterzug-gestossen-taeter-kommt-in-psychiatrie-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-warnt-vor-russischer-grossoffensive-bei-pokrowsk-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-warnt-vor-russischer-grossoffensive-bei-pokrowsk-100.html",
+    "https://www.deutschlandfunk.de/merz-zu-gast-bei-cdu-parteitag-wuest-kandidiert-erneut-als-landeschef-100.html",
+    "https://www.deutschlandfunk.de/behoerden-fahnden-nach-liebich-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-eine-million-hektar-land-zerstoert-102.html"
   ],
   "content_hashes": [
-    "48c7fbab6f042973e3ecca65138b1676",
-    "f9600cfef8a5623850423bcd4f8e1828",
-    "0af71b7d89038e0de3ffe974e27cff54",
     "d2476a329df10337106273d79c9a30de",
     "ef8cbff663011324f3f813d4b4d85bff",
     "878197774d0c38a06399a1eec33add3d",
@@ -2001,12 +1998,12 @@
     "fe758b16b9c662b9c61a85e47165345d",
     "9753e2a3bb1732b834cd08fe0bef491e",
     "8fc4031e4e7ca185e138c8661164ca29",
-    "0d6be0fadc1751a02d9da74eaab0a4e3"
+    "0d6be0fadc1751a02d9da74eaab0a4e3",
+    "dfeec20d80ef5cfa6283ee1901ec5bcd",
+    "f3d5c1eb3272f6fa1cb9fc1dbfc06a12",
+    "c2f058c333448bc5502aceab8b315906"
   ],
   "titles": [
-    "Richterstreit: Die SPD ist immer noch wütend auf die Union",
-    "Batteriehersteller - US-Unternehmen will Northvolt übernehmen - Hoffnung für Fabrik in Schleswig-Holstein",
-    "BAMF - Mehr afghanische Frauen beantragen Asyl in Deutschland",
     "Krieg im Nahen Osten - Netanjahu will vollständige Kontrolle über Gazastreifen",
     "OLG Stuttgart - Bundesanwaltschaft fordert lebenslange Haft nach tödlichem Messerangriff in Mannheim",
     "Neues Gremium im Kanzleramt: Kann der neue Sicherheitsrat den Unterschied machen?",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Bananen-Konzern Chiquita kehrt nach Panama zurück",
     "Kinder in der digitalen Welt - Bundesfamilienministerin Prien (CDU): \"Der Schlüssel ist Medienkompetenz\"",
     "Friedland - 16-Jährige vor fahrenden Güterzug gestoßen - Täter kommt in Psychiatrie",
-    "Ukraine-Krieg - Selenskyj warnt vor russischer Großoffensive bei Pokrowsk"
+    "Ukraine-Krieg - Selenskyj warnt vor russischer Großoffensive bei Pokrowsk",
+    "Nordrhein-Westfalen - Merz zu Gast bei CDU-Parteitag - Wüst kandidiert erneut als Landeschef",
+    "Nicht zur Haft angetreten - Behörden fahnden nach Liebich",
+    "Waldbrand-Saison - Mehr als eine Million Hektar Land zerstört"
   ],
   "hashes": [
-    "df8103df8ecd936650418923020b90ff",
-    "af4211cd0f4e586ffec33ed39aeb3771",
-    "eca46790174ac480ed7f1431a13d7a0a",
     "66196b335e2d50545f1afb7ecdc55464",
     "ff2cd0ad86158d0aa4c8dbc1dcea9fc1",
     "c04d22dfdf58e095fea80d721fea6a9b",
@@ -4005,6 +4002,9 @@
     "28539f743453ecaf4f8d1b9afb0e5319",
     "2ea37da0b9e379ecd9406db7f3dd14b2",
     "095c6fd0348fb46f95d6576815629dda",
-    "91099dd70ae457a64754c94d27e8f135"
+    "91099dd70ae457a64754c94d27e8f135",
+    "b92a987bf89215af81179acc1f5b0ffc",
+    "bcbec673e03f13fba06159c4362f89e0",
+    "37a44ff9fdbfbc1aee7c4e7b38e46e29"
   ]
 }
