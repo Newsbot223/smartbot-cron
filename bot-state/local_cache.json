@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-armenien-und-aserbaidschan-werden-friedensabkommen-im-weissen-haus-unterzeichnen-102.html",
-    "https://www.deutschlandfunk.de/kontrolle-von-gaza-stadt-geplant-israels-sicherheitskabinett-stimmt-fuer-ausweitung-des-militaereins-100.html",
     "https://www.deutschlandfunk.de/proteste-in-israel-gegen-ausweitung-des-militaereinsatzes-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/marinesparte-von-thyssenkrupp-soll-selbststaendig-werden-100.html",
     "https://www.deutschlandfunk.de/kirchliche-vorgaben-gegen-weltliches-arbeitsrecht-arzt-klagt-gegen-abtreibungsverbot-an-klinik-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/linnemann-kritisiert-habeck-ich-wuerde-nicht-nachtreten-accg-110662408.html",
     "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-und-nahost-108.html",
     "https://www.deutschlandfunk.de/reul-will-fluechtlinge-besser-integrieren-gleichzeitig-aber-zuzug-nach-deutschland-begrenzen-102.html",
-    "https://www.deutschlandfunk.de/mehr-als-haelfte-der-strafgelder-im-bundestag-entfallen-auf-afd-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-haelfte-der-strafgelder-im-bundestag-entfallen-auf-afd-100.html",
+    "https://www.deutschlandfunk.de/kallas-freigabe-russischer-vermoegenswerte-nur-bei-reparationszahlungen-an-die-ukraine-moeglich-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-warnt-vor-grossoffensive-bei-pokrowsk-erneut-russische-luftangriffe-gemeldet-102.html"
   ],
   "content_hashes": [
-    "391845eccc1e324d961972ade3a0bf83",
-    "ca128dae7e99297d93fc303f03bd7a46",
     "754edb0e2c43d6328635dd825745d126",
     "5bf8c556ee95583396dc34ddeed6137e",
     "674f09852f798d3d6e38aad4a9af0e45",
@@ -2001,11 +1999,11 @@
     "7d4ffc77c6298eef0ca89ec389010786",
     "7ce92ad30c2190d2325605259ea29d1f",
     "23c772022c591b2360264caad5ecad5a",
-    "0639234dcd5722debe69bfc6ba42b033"
+    "0639234dcd5722debe69bfc6ba42b033",
+    "d9310886c7e7b5c22c4bc4258f894789",
+    "5ac5e3fd99768b0667e6799bef7d6842"
   ],
   "titles": [
-    "USA - Trump: Armenien und Aserbaidschan werden Friedensabkommen im Weißen Haus unterzeichnen",
-    "Krieg in Nahost - Kontrolle von Gaza-Stadt geplant: Israels Sicherheitskabinett stimmt für Ausweitung des Militäreinsatzes im Gazastreifen",
     "Jerusalem und Tel Aviv - Proteste in Israel gegen Ausweitung des Militäreinsatzes im Gazastreifen",
     "Außerordentliche Hauptversammlung - Marinesparte von Thyssenkrupp soll selbstständig werden",
     "Lippstadt - Kirchliche Vorgaben gegen weltliches Arbeitsrecht: Arzt klagt gegen Abtreibungsverbot an Klinik",
@@ -3003,11 +3001,11 @@
     "Streit um Julia Klöckner: Linnemann kritisiert Habeck: „Ich würde nicht nachtreten“",
     "Kopenhagen - EU-Außenminister beraten über Ukraine und Nahost",
     "NRW-Innenminister zu Migration - Reul will Flüchtlinge besser integrieren - gleichzeitig aber Zuzug nach Deutschland begrenzen",
-    "Verstöße gegen Parteiengesetz - Mehr als Hälfte der Strafgelder im Bundestag entfallen auf AfD"
+    "Verstöße gegen Parteiengesetz - Mehr als Hälfte der Strafgelder im Bundestag entfallen auf AfD",
+    "Ukraine-Krieg - Kallas: Freigabe russischer Vermögenswerte nur bei Reparationszahlungen an die Ukraine möglich",
+    "Ukraine - Selenskyj warnt vor Großoffensive bei Pokrowsk - Erneut russische Luftangriffe gemeldet"
   ],
   "hashes": [
-    "944387940e3380beb87df8450ef95d93",
-    "e490ce3c4f67862e824ea1f8c9e9ddcb",
     "9a958c5b641b285766a85903f6c483b2",
     "929ccf66fa6493d0580cd66f0c57850d",
     "2d3d766c55bd48e388be2a1b6393d2f7",
@@ -4005,6 +4003,8 @@
     "10d1e9118a0701ecdbd428aa4878dd4b",
     "9070f0b8f7ba49f61810ed48143b7d96",
     "7b40538f320c9a447866669277e4bba5",
-    "5bb87464030c0e01c962869a2ef6dedc"
+    "5bb87464030c0e01c962869a2ef6dedc",
+    "a69bb3b749cb0f6d5fc9704f5e31ea10",
+    "f4cb760430bb0b89e3be2dcd34a9d8a1"
   ]
 }
