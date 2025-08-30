@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/geld-und-netzwerke-der-ehrgeiz-der-afd-110625384.html",
-    "https://www.deutschlandfunk.de/agrar-staatssekretaerin-breher-soll-neue-tierschutzbeauftragte-werden-102.html",
-    "https://www.deutschlandfunk.de/usa-setzen-50-millionen-dollar-fuer-festnahme-von-maduro-aus-102.html",
-    "https://www.deutschlandfunk.de/trump-ultimatum-an-russland-endet-heute-102.html",
     "https://www.deutschlandfunk.de/murdoch-will-neue-boulevardzeitung-fuer-kalifornien-starten-102.html",
     "https://www.spiegel.de/auto/preise-fuer-elektroautos-und-verbrenner-abstand-schrumpft-deutlich-a-6cffeb92-dd60-48ea-9be4-c814b86a2d55#ref=rss",
     "https://www.deutschlandfunk.de/arzt-klagt-gegen-abtreibungsverbot-an-klinik-demos-von-unterstuetzern-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/panorama/bildung/nordrhein-westfalen-nele-mcelvany-spricht-sich-fuer-deutsch-als-zweitsprache-als-regulaeres-schulfach-aus-a-58916ff3-025e-42f0-875d-2ea87d81eaeb#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/bundeskanzler-merz-beim-nrw-parteitag-kein-satz-ueber-die-afd-accg-110662668.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-verstoesse-gegen-parteiengesetz-afd-musste-1-1-millionen-euro-zahlen-110093143.html",
-    "https://www.faz.net/aktuell/politik/inland/rueckzug-aus-der-politik-habeck-nervt-aber-er-wird-fehlen-110661053.html"
+    "https://www.faz.net/aktuell/politik/inland/rueckzug-aus-der-politik-habeck-nervt-aber-er-wird-fehlen-110661053.html",
+    "https://www.deutschlandfunk.de/familie-freunde-und-kollegen-nehmen-abschied-von-getoetetem-polizisten-102.html",
+    "https://www.deutschlandfunk.de/merz-kuendigt-einschnitte-beim-sozialen-an-100.html",
+    "https://www.deutschlandfunk.de/frueherer-praesident-des-ukrainischen-parlaments-parubij-erschossen-100.html",
+    "https://www.deutschlandfunk.de/meta-will-ki-regeln-fuer-jugendliche-verschaerfen-102.html"
   ],
   "content_hashes": [
-    "94af0d51081e53c668aa8184b4bdf2e1",
-    "f89eb5a187077b0b66c69a1b42a0470d",
-    "ea8405778376e57b976fc6ac627921cf",
-    "a697193f4ba12b35916b4956b64dfa1c",
     "ccf34595c954ecac5e1845cb6ef64b72",
     "1a6e777057f8941a78fb8ae49d2804e7",
     "0873a463c17b0a99e437640755e21f77",
@@ -2001,13 +1997,13 @@
     "27ae89b6fbb779742496e43bfc2fca79",
     "5dc1f9ca75e52aedb921438b33dd96f1",
     "053578b701abf82956eadd4408104482",
-    "7dc6f1b1466827e04fd52753362165da"
+    "7dc6f1b1466827e04fd52753362165da",
+    "1c36bf4cb0852df54cf29d6c8cf78782",
+    "a1e48f29877b6ea3bd379e8679356491",
+    "d49cc8e000e56d7cdb055990af0058d2",
+    "fa8fd0331f60b27f0f95974b99600e65"
   ],
   "titles": [
-    "Geld und Netzwerke: Der Ehrgeiz der AfD",
-    "Landwirtschaftsministerium - Agrar-Staatssekretärin Breher soll neue Tierschutzbeauftragte werden",
-    "Venezolanischer Präsident - USA setzen 50 Millionen Dollar für Festnahme von Maduro aus",
-    "Ukraine-Krieg - Trump-Ultimatum an Russland endet heute",
     "Zeitungsmarkt - Murdoch will neue Boulevardzeitung für Kalifornien starten",
     "Preise für Elektroautos und Verbrenner: Abstand schrumpft deutlich",
     "Lippstadt - Arzt klagt gegen Abtreibungsverbot an Klinik - Demos von Unterstützern",
@@ -3003,13 +2999,13 @@
     "Nordrhein-Westfalen: Nele McElvany spricht sich für Deutsch als Zweitsprache als reguläres Schulfach aus",
     "Merz beim NRW-Parteitag: Uneinig mit der SPD? „Wird auch in den nächsten Monaten so sein“",
     "Liveblog Bundespolitik: Verstöße gegen Parteiengesetz: AfD musste 1,1 Millionen Euro zahlen",
-    "Robert Habecks Rückzug: Ein Abgang, der ins Muster passt"
+    "Robert Habecks Rückzug: Ein Abgang, der ins Muster passt",
+    "Trauerfeier in Saarlouis - Familie, Freunde und Kollegen nehmen Abschied von getötetem Polizisten",
+    "Landesparteitag der nordrhein-westfälischen CDU - Merz kündigt Einschnitte beim Sozialen an",
+    "Anschlag in Lwiw - Früherer Präsident des ukrainischen Parlaments Parubij erschossen",
+    "Schutzmaßnahmen - Meta will KI-Regeln für Jugendliche verschärfen"
   ],
   "hashes": [
-    "5f880a4dbffa206cf2676eec794625ff",
-    "dbfba57f71d917fe443a46ac9977a52b",
-    "8bc09b2c7256dd2902c0305ebb54ddd3",
-    "e7fb4ba05fa70fb92b4881e28d1bf415",
     "004b94db2fc4b7822b22dee4575f7420",
     "be73b0b52a4aecf05d2ac81fc4e72ebc",
     "7c373aa1ec12f160c0ac6f9ca71b6254",
@@ -4005,6 +4001,10 @@
     "10502556855dc71b16c89a5cae5fa232",
     "48400a274e0e0be77ad0362aa6e8cf6f",
     "300e70f50d0a546090c16b3f19d934e5",
-    "44697b8c98c45016fa74219fec3ef84a"
+    "44697b8c98c45016fa74219fec3ef84a",
+    "61ffa91a296136608da01484431bd6a6",
+    "5be1d4f1d99a82712c1678fe6238ef47",
+    "3503df4fae8d1031fbc51596933f34e4",
+    "36357f374af9a0417e731e0bf5a6e14c"
   ]
 }
