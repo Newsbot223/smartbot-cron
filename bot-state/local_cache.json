@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/deutschlandtrend-zufriedenheit-mit-bundesregierung-auf-tiefstwert-a-53abedc1-7f24-48db-ae38-385237d7cfab#ref=rss",
-    "https://www.deutschlandfunk.de/proteste-gegen-ausweitung-des-militaereinsatzes-im-gazastreifen-sicherheitskabinett-beraet-100.html",
-    "https://www.deutschlandfunk.de/netanjahu-wollen-vollstaendige-kontrolle-ueber-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/trump-nominiert-seinen-wirtschaftsberater-als-vorlaeufiges-fed-vorstandsmitglied-100.html",
     "https://www.deutschlandfunk.de/trump-putin-selenskyj-treffen-keine-vorbedingung-fuer-zusammenkunft-mit-kremlchef-106.html",
     "https://www.deutschlandfunk.de/sachsen-anhalts-cdu-landeschef-schulze-schliesst-zusammenarbeit-mit-afd-aus-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/putin-sucht-den-schulterschluss-mit-peking-102.html",
     "https://www.deutschlandfunk.de/berufungsgericht-erklaert-trumps-zoelle-fuer-illegal-106.html",
     "https://www.deutschlandfunk.de/aktivrente-kommt-bericht-zufolge-zum-1-januar-104.html",
-    "https://www.deutschlandfunk.de/linnemann-verteidigt-kloeckner-gegen-kritik-102.html"
+    "https://www.deutschlandfunk.de/linnemann-verteidigt-kloeckner-gegen-kritik-102.html",
+    "https://www.deutschlandfunk.de/wirtschaftswissenschaftler-weber-fordert-trendwende-in-der-wirtschaftspolitik-100.html",
+    "https://www.deutschlandfunk.de/russland-greift-unter-anderem-zentralukrainische-region-dnipropetrowsk-an-100.html",
+    "https://www.faz.net/aktuell/politik/inland/linnemann-kritisiert-habeck-ich-wuerde-nicht-nachtreten-accg-110662408.html"
   ],
   "content_hashes": [
-    "228d55c652f09d47b7cfe00b1aa653ae",
-    "2e8eda3deeca054c6f9dcd6c9f9d33da",
-    "ff178e674025477038d329b4c46c8373",
     "1e3209a2a7dba333e4c6f60d4554e385",
     "e3f8079b4dc4f1c720d7c586dc7e7ae3",
     "f6cefdb5c3fee5163dd6ad6f158b6ad9",
@@ -2001,12 +1998,12 @@
     "58e56798b3986c4d3eacf5bbc6bc9f23",
     "5c4b011b43316a16b7dacc74cede18e6",
     "3e583654aa1a606b523c91e488b00fe2",
-    "90c30d8c9d5b16fc61658aace0b3839c"
+    "90c30d8c9d5b16fc61658aace0b3839c",
+    "4f536ff31d47121450b9c7d4c344bdb6",
+    "87db391dd464ba62fd2c5111554050dd",
+    "7d4ffc77c6298eef0ca89ec389010786"
   ],
   "titles": [
-    "Deutschlandtrend: Zufriedenheit mit Bundesregierung auf Tiefstwert",
-    "Israel - Proteste gegen Ausweitung des Militäreinsatzes im Gazastreifen - Sicherheitskabinett berät",
-    "Krieg im Nahen Osten - Netanjahu: \"Wollen vollständige Kontrolle über Gazastreifen\"",
     "US-Notenbank - Trump nominiert seinen Wirtschaftsberater als vorläufiges Fed-Vorstandsmitglied",
     "Ukraine-Krieg - Trump: Putin-Selenskyj-Treffen keine Vorbedingung für Zusammenkunft mit Kremlchef",
     "Nach Haseloffs angekündigtem Rückzug - Sachsen-Anhalts CDU-Landeschef Schulze schließt Zusammenarbeit mit AfD aus",
@@ -3003,12 +3000,12 @@
     "Russland und China - Putin sucht den Schulterschluss mit Peking",
     "US-Zollpolitik - Berufungsgericht erklärt Trumps Zölle für illegal",
     "Koalition - \"Aktivrente\" kommt Bericht zufolge zum 1. Januar 2026",
-    "Bundestagspräsidentin - Linnemann verteidigt Klöckner gegen Kritik"
+    "Bundestagspräsidentin - Linnemann verteidigt Klöckner gegen Kritik",
+    "Drei Millionen Arbeitslose - Wirtschaftswissenschaftler Weber fordert Trendwende in der Wirtschaftspolitik",
+    "Ukraine - Russland greift unter anderem zentralukrainische Region Dnipropetrowsk an",
+    "Streit um Julia Klöckner: Linnemann kritisiert Habeck: „Ich würde nicht nachtreten“"
   ],
   "hashes": [
-    "5dd52276710f20d7803f44b9dd2eb010",
-    "f64dedf3054a7f199150a2de92fa621e",
-    "56592862f2843c5f469bc2d668ed927e",
     "11a97cbb77396810ed0c0945a6a6596e",
     "6039542d22574e180985d81bd8161ea9",
     "ba520f686d55e5c166d19a6be2acea08",
@@ -4005,6 +4002,9 @@
     "9091b80fde76ae7b50161675082fc206",
     "6a711cc124ddf75775d95c42f76a365a",
     "13e1f79c7507eeee5a243c7d20e4194f",
-    "d4c0e253abe85e3c56598a02be3ffee5"
+    "d4c0e253abe85e3c56598a02be3ffee5",
+    "665990438ea2ea4b71df983a9c3273bf",
+    "78c6ebd6e74efbcce61b9b5f7ab17067",
+    "10d1e9118a0701ecdbd428aa4878dd4b"
   ]
 }
