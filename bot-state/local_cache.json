@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kritik-aus-der-union-an-kanzler-merz-wegen-einschraenkung-der-waffenexporte-an-israel-102.html",
-    "https://www.deutschlandfunk.de/harter-alltag-auf-see-wie-sich-die-deutsche-marine-gegen-putin-wappnet-100.html",
-    "https://www.deutschlandfunk.de/trend-zur-partydroge-debatte-um-strengere-regulierung-102.html",
     "https://www.deutschlandfunk.de/kulturelle-aneignung-adidas-nach-vorwuerfen-aus-mexiko-gespraechsbereit-100.html",
     "https://www.deutschlandfunk.de/kommentar-zum-treffen-trump-putin-risiko-fuer-die-ukraine-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-stellt-foerderung-fuer-private-solaranlagen-infrage-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/linke-gegen-wehrpflicht-auch-fuer-frauen-104.html",
     "https://www.deutschlandfunk.de/von-der-leyen-spricht-ueber-praezise-plaene-fuer-europaeische-ukraine-truppe-mit-us-unterstuetzung-100.html",
     "https://www.deutschlandfunk.de/klingbeil-unterstuetzt-buergergeld-verschaerfungen-100.html",
-    "https://www.deutschlandfunk.de/frankreichs-regierungschef-bayrou-wirbt-fuer-sparprogramm-100.html"
+    "https://www.deutschlandfunk.de/frankreichs-regierungschef-bayrou-wirbt-fuer-sparprogramm-100.html",
+    "https://www.deutschlandfunk.de/knapp-50-menschen-aus-afghanistan-in-deutschland-erwartet-100.html",
+    "https://www.deutschlandfunk.de/abschlusserklaerung-auf-konferenz-der-soz-staaten-erwartet-100.html",
+    "https://www.deutschlandfunk.de/informationsfreiheitsgesetz-tritt-in-oesterreich-in-kraft-100.html"
   ],
   "content_hashes": [
-    "688d42a977e7bdf2d84177d37fccfd40",
-    "2efd2a35b713ba3ba7a27f14812d8c17",
-    "50f5d32c27745d932145fe8330c67426",
     "ba225dcf2d48af09253382bf8223920a",
     "bad34352ada5a0c95a933f6e3d378baf",
     "de04bd47ff88b07ed0ab5cf93219a529",
@@ -2001,12 +1998,12 @@
     "2ab1206ceeef2c12762824c2b7d9d07b",
     "9a26e40176cd05b988e055203c500d36",
     "8be19b6cd5fc10eccb302ff74ff5a8fc",
-    "b7a39f91e34faee80386032409167469"
+    "b7a39f91e34faee80386032409167469",
+    "f11726bae1c1647153771819423f0ac4",
+    "3870233eee74d78901cdba57a5fb9e9a",
+    "ad17d84b3cf161389298b0fd6a6fa177"
   ],
   "titles": [
-    "Nahost-Krieg - Kritik aus der Union an Kanzler Merz wegen Einschränkung der Waffenexporte an Israel",
-    "Verteidigung - Wie sich die deutsche Marine gegen Putin wappnet",
-    "Ketamin - Trend zur Partydroge: Debatte um strengere Regulierung",
     "Sandalendesign - Kulturelle Aneignung: Adidas nach Vorwürfen aus Mexiko gesprächsbereit",
     "Trump trifft Putin - Kommentar: Der Ukraine steht eine schicksalhafte Woche bevor",
     "Einspeisevergütung - Wirtschaftsministerin Reiche stellt Förderung für private Solaranlagen infrage",
@@ -3003,12 +3000,12 @@
     "Verteidigung - Linke gegen Wehrpflicht auch für Frauen",
     "Financial-Times-Interview - Von der Leyen spricht über \"präzise Pläne\" für europäische Ukraine-Truppe mit US-Unterstützung",
     "Soziales - Klingbeil unterstützt Bürgergeld-Verschärfungen",
-    "Eine Woche vor Vertrauensfrage - Frankreichs Regierungschef Bayrou wirbt für Sparprogramm"
+    "Eine Woche vor Vertrauensfrage - Frankreichs Regierungschef Bayrou wirbt für Sparprogramm",
+    "Nach Aufnahmezusage - Knapp 50 Menschen aus Afghanistan in Deutschland erwartet",
+    "Gipfel in Tianjin - Abschlusserklärung auf Konferenz der SOZ-Staaten erwartet",
+    "Kein Amtsgeheimnis mehr - Informationsfreiheitsgesetz tritt in Österreich in Kraft"
   ],
   "hashes": [
-    "afc7e674e49ee151a85cd859c70faedb",
-    "fafb98b3a707753fa815ad6d8d4d1ea8",
-    "996de26da0240ed8dd67f9afe304ca29",
     "ed64a93c2f6d80f5820db3b0b217b3ac",
     "e17709debad18165919c8f4c6ae31f3b",
     "7d32a470a507c98720f8d6629ca9af82",
@@ -4005,6 +4002,9 @@
     "7a84aa3d5a268683335a44cacd802371",
     "8fe6b70f87052bcab853c7cf5e766612",
     "cce8afecf036f4df0077267ae628be2e",
-    "e4dfbef1cecbf23892d2c5888904b064"
+    "e4dfbef1cecbf23892d2c5888904b064",
+    "c85670e50daf17f05ac41af5aa3b2b01",
+    "dc6b823a70787bb617e095e620a1297b",
+    "3e19297ebcae5ee3a74a0f132fd5aecc"
   ]
 }
