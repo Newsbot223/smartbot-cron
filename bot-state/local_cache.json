@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/umgang-mit-israel-schwarz-rot-gibt-dem-druck-nach-110629328.html",
-    "https://www.faz.net/aktuell/politik/ausland/weniger-waffen-fuer-israel-von-staatsraeson-sollte-man-nicht-mehr-reden-110629359.html",
-    "https://www.deutschlandfunk.de/klingbeil-berater-warnen-vor-lockerung-der-schuldenbremse-102.html",
     "https://www.deutschlandfunk.de/saudi-arabien-wirft-israel-ethnische-saeuberungen-vor-100.html",
     "https://www.deutschlandfunk.de/schwarzes-loch-mit-rekord-masse-entdeckt-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-verhaengt-teilweisen-exportstopp-bei-ruestungsguetern-gegen-israel-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aufruf-fuer-mehr-gegenseitiger-toleranz-104.html",
     "https://www.deutschlandfunk.de/richterbund-beklagt-ueberlastung-der-justiz-106.html",
     "https://www.deutschlandfunk.de/sorge-vor-schlechterer-behandlung-von-schmerzpatienten-102.html",
-    "https://www.deutschlandfunk.de/bericht-bas-plant-erneute-nullrunde-beim-buergergeld-112.html"
+    "https://www.deutschlandfunk.de/bericht-bas-plant-erneute-nullrunde-beim-buergergeld-112.html",
+    "https://www.deutschlandfunk.de/putin-zu-gespraechen-in-tianjin-eingetroffen-102.html",
+    "https://www.deutschlandfunk.de/zusammenstoesse-bei-antikriegs-marsch-in-koeln-mehrere-verletzte-102.html",
+    "https://www.deutschlandfunk.de/bericht-bundesarbeitsministerin-bas-plant-erneute-nullrunde-beim-buergergeld-100.html"
   ],
   "content_hashes": [
-    "f395ea47c4aa81d76d52c0950d7902af",
-    "484309f645b897e1a4ceaf8134c891dc",
-    "32c6516e2070d61ca6891e9993841fc0",
     "7b92551ae96f405296e23120bfa01b09",
     "2ce704dde352d17d31ef11554c31a87b",
     "388afc859b57f14ac45e65d1fc3ff5ab",
@@ -2001,12 +1998,12 @@
     "2e108d4449a48f14a358f969856d62c9",
     "8a22b64979a6a115faf4c5e4add0102d",
     "2623be4c0fd380f37e832155f692be46",
-    "aeac8f0b3ad9633afbd646f10072db5b"
+    "aeac8f0b3ad9633afbd646f10072db5b",
+    "8d9f1f8d8892e6527e81add4f20d5b38",
+    "03c737f0ddfff09dc138509b345e6f65",
+    "2c7bb1634d6e7f4e511fa303c25f80de"
   ],
   "titles": [
-    "Umgang mit Israel: Schwarz-Rot gibt dem Druck nach",
-    "Weniger Waffen für Israel: Von Staatsräson sollte man nicht mehr reden",
-    "Klingbeil-Berater warnen vor Lockerung der Schuldenbremse",
     "Gazastreifen - Saudi-Arabien wirft Israel ethnische Säuberungen vor",
     "Weltall - Schwarzes Loch mit Rekord-Masse entdeckt",
     "Rüstungsgüter - Bundesregierung verhängt teilweisen Exportstopp nach Israel",
@@ -3003,12 +3000,12 @@
     "Demokratie - Aufruf für mehr gegenseitiger Toleranz",
     "Strafverfolgung - Richterbund beklagt Überlastung der Justiz",
     "Krankenhaus-Reform - Sorge vor schlechterer Behandlung von Schmerzpatienten",
-    "Soziales - Bericht: Bas plant erneute Nullrunde beim Bürgergeld"
+    "Soziales - Bericht: Bas plant erneute Nullrunde beim Bürgergeld",
+    "Gipfel in China - Putin zu Gesprächen in Tianjin eingetroffen",
+    "NRW - Zusammenstöße bei Antikriegs-Marsch in Köln - mehrere Verletzte",
+    "Soziales - Bericht: Bundesarbeitsministerin Bas plant erneute Nullrunde beim Bürgergeld"
   ],
   "hashes": [
-    "6939fa215f4ed9016670d0d2b990fea4",
-    "81f7938b59b63bd0c134c4c721709449",
-    "ec73c39057b7b958b74b1b3abec22e20",
     "8ecca038394f85828be9d1319ec56441",
     "eadb5160059b90bca2772880f627555b",
     "6d4feb90d70eac14ff4e699c86da04d1",
@@ -4005,6 +4002,9 @@
     "04b62ca676402f4cdf0b5c93e1157a33",
     "ea3bd0a92538b4c69ca0612f7e2666dd",
     "cdb3cf85d044cbafcea11c25dfa9eebd",
-    "dd51e7ab879bf891d2d54c917b0a6a05"
+    "dd51e7ab879bf891d2d54c917b0a6a05",
+    "544c1482ab14ccc1eb10946dc5aa8ec3",
+    "512f21d821cd606473f55248be3deacc",
+    "0b5246a49099d4b6b5808199f98c1d30"
   ]
 }
