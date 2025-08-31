@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/feuer-in-der-kathedrale-von-c-rdoba-ausgebrochen-102.html",
-    "https://www.deutschlandfunk.de/trump-treffen-mit-putin-am-15-august-in-alaska-100.html",
-    "https://www.deutschlandfunk.de/brand-in-weltberuehmter-moschee-kathedrale-von-c-rdoba-unter-kontrolle-102.html",
-    "https://www.deutschlandfunk.de/vier-astronauten-von-der-iss-abgedockt-100.html",
     "https://www.deutschlandfunk.de/middelberg-cdu-muessen-uns-bei-den-sozialdemokraten-entschuldigen-102.html",
     "https://www.deutschlandfunk.de/dahmen-gruene-ausfaelle-bei-e-rezept-sprechen-fuer-ueberlastung-und-fehlende-wartung-mehr-massnahmen-102.html",
     "https://www.deutschlandfunk.de/gedenken-an-opfer-des-atombombenabwurfs-in-nagasaki-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/interview-kaack-jan-christian-vizeadmiral-inspekteur-der-marine-100.html",
     "https://www.deutschlandfunk.de/ukrainische-armee-meldet-erfolgreiche-verteidigung-gegen-russische-vorstoesse-104.html",
     "https://www.faz.net/aktuell/politik/inland/vor-kommunalwahlen-in-nrw-an-der-basis-geht-es-ums-ganze-110652557.html",
-    "https://www.deutschlandfunk.de/bas-kuendigt-nullrunde-beim-buergergeld-und-haertere-sanktionen-an-100.html"
+    "https://www.deutschlandfunk.de/bas-kuendigt-nullrunde-beim-buergergeld-und-haertere-sanktionen-an-100.html",
+    "https://www.deutschlandfunk.de/merz-und-soeder-schliessen-steuererhoehungen-aus-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-will-fuer-richterwahl-stimmen-von-linken-oder-afd-100.html",
+    "https://www.deutschlandfunk.de/kreml-wirft-europaeern-vor-trumps-friedensbemuehungen-zu-stoeren-100.html",
+    "https://www.deutschlandfunk.de/werth-gewinnt-zweite-bronzemedaille-100.html"
   ],
   "content_hashes": [
-    "ebd104b80a6035366e4fae45852d9069",
-    "a8159bc9c61c575a8e1730f00ea621c3",
-    "10d77dfbae41b81c32002d4f35fe5579",
-    "96efe8c7d1bcbbae9a23a1466330b7a5",
     "6aae4efd144bb16a002033af984ae83e",
     "81981099022c358b41cb8b48aa6ae308",
     "1ed6babda6cc4b27011f56f87f17c160",
@@ -2001,13 +1997,13 @@
     "19aa6733dbc04f45dddf0c08fa64646e",
     "c5f49ff280ad5ee73f410458e6353b59",
     "6123275c467ee7a47e1aa0173b27ad1b",
-    "ad5335f72804c713909b6d351ce43e52"
+    "ad5335f72804c713909b6d351ce43e52",
+    "fef8309c90d71831db3198f23ecce0c9",
+    "49c9f6d2ca6c9f536f8fe51c560fce48",
+    "e70bb500a5f3880778edd01a39e6164b",
+    "7f21fbea9d9fd324ad38ff13d413239c"
   ],
   "titles": [
-    "Spanien - Feuer in der Kathedrale von Córdoba ausgebrochen",
-    "Ukraine-Krieg - Trump: Treffen mit Putin am 15. August in Alaska",
-    "Spanien - Brand in weltberühmter Moschee-Kathedrale von Córdoba unter Kontrolle",
-    "Raumfahrt - Vier Astronauten von der ISS abgedockt",
     "Nach Rückzug von Brosius-Gersdorf - Middelberg (CDU): Müssen uns bei den Sozialdemokraten entschuldigen",
     "Gesundheit - Dahmen (Grüne): Ausfälle bei E-Rezept sprechen für Überlastung und fehlende Wartung - mehr Maßnahmen gefordert",
     "Japan - Gedenken an Opfer des Atombombenabwurfs in Nagasaki",
@@ -3003,13 +2999,13 @@
     "Ostsee-Verteidigung - Marine-Inspekteur: Eine zufällige Eskalation verhindern",
     "Ukraine-Krieg - Ukrainische Armee meldet erfolgreiche Verteidigung gegen russische Vorstöße",
     "Kommunalwahlen in NRW: An der Basis geht es ums Ganze",
-    "Sozialleistungen - Bas kündigt Nullrunde beim Bürgergeld und härtere Sanktionen an"
+    "Sozialleistungen - Bas kündigt Nullrunde beim Bürgergeld und härtere Sanktionen an",
+    "Staatsfinanzierung - Merz und Söder schließen Steuererhöhungen aus",
+    "Verfassungsgericht - Bundeskanzler will für Richterwahl Stimmen von Linken oder AfD",
+    "Ukraine-Krieg - Kreml wirft Europäern vor, Trumps Friedensbemühungen zu stören",
+    "Dressur EM - Werth gewinnt zweite Bronzemedaille"
   ],
   "hashes": [
-    "23b25e957447d7827408163a87f2f52d",
-    "1f3f6a716008c78197cff3d943b04f1f",
-    "0197e425ef5ce7d9c1e781199bc1ae7f",
-    "ecb5f68d26be2a1d41b98bfc5b5ccd86",
     "9b1ce42b14a60f230bffbbf94294fae1",
     "ed636b060588c59270ed7aad5f67bf7d",
     "a76257807b2676befd1223887e179a6c",
@@ -4005,6 +4001,10 @@
     "a28c69ddf625604c4486946740cbe723",
     "bd11816a270b3037af86c869ac0af3b4",
     "cdcc1cf6b610e6552b7f58a829f3bd6a",
-    "35cdbc112dbaad88e744bad2a2290997"
+    "35cdbc112dbaad88e744bad2a2290997",
+    "19fe69ec7c9a317a8f0040868a308f34",
+    "cfd5683364a6491bd2ddbc7363162bc8",
+    "cc67966b8158292cbb579ff9a304698a",
+    "808c0c5a9ec6b1878ade6afe434dee27"
   ]
 }
