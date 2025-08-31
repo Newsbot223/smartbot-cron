@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wirtschaftswissenschaftler-fordert-handeln-von-der-bundesregierung-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-steuerpruefungen-in-unternehmen-seit-2015-um-60-prozent-gesunken-100.html",
     "https://www.deutschlandfunk.de/brand-in-weltberuehmter-moschee-kathedrale-von-c-rdoba-geloescht-bauwerk-wieder-geoeffnet-100.html",
     "https://www.deutschlandfunk.de/nordkorea-baut-propaganda-lautsprecher-an-der-grenze-zu-suedkorea-ab-102.html",
     "https://www.deutschlandfunk.de/kritik-aus-der-union-an-kanzler-merz-wegen-einschraenkung-der-waffenexporte-an-israel-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/wehpflicht-frauen-an-die-waffe-110663625.html",
     "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-nicht-europa-sondern-putin-legt-trump-steine-in-den-weg-110663767.html",
     "https://www.deutschlandfunk.de/merz-lehnt-steuererhoehungen-erneut-ab-klingbeil-alle-muessen-einen-beitrag-leisten-100.html",
-    "https://www.deutschlandfunk.de/huthi-miliz-im-jemen-nimmt-mitarbeiter-von-uno-organisationen-fest-100.html"
+    "https://www.deutschlandfunk.de/huthi-miliz-im-jemen-nimmt-mitarbeiter-von-uno-organisationen-fest-100.html",
+    "https://www.deutschlandfunk.de/linke-gegen-wehrpflicht-auch-fuer-frauen-104.html",
+    "https://www.deutschlandfunk.de/von-der-leyen-spricht-ueber-praezise-plaene-fuer-europaeische-ukraine-truppe-mit-us-unterstuetzung-100.html"
   ],
   "content_hashes": [
-    "f32102be8e26c68b8884cdf61bc72b36",
-    "c7589f29bd20869b3535dd0a026390b0",
     "b60a4c65713e05f2e5d56fff6520046f",
     "265e39542bf4f16a143d6ead6563b19a",
     "688d42a977e7bdf2d84177d37fccfd40",
@@ -2001,11 +1999,11 @@
     "2a2344b9b3cfcaf4e82f654a5d4a070d",
     "6381d724eec84dc71c971d3ba00a284f",
     "8e9be3fc3527fc30a405440a3c1b859b",
-    "523d3be49884e067dd8ea732f41f7c52"
+    "523d3be49884e067dd8ea732f41f7c52",
+    "2ab1206ceeef2c12762824c2b7d9d07b",
+    "9a26e40176cd05b988e055203c500d36"
   ],
   "titles": [
-    "Milliardenkredite - Wirtschaftswissenschaftler fordert Handeln von der Bundesregierung",
-    "Medienbericht - Zahl der Steuerprüfungen in Unternehmen seit 2015 um 60 Prozent gesunken",
     "Spanien - Brand in weltberühmter Moschee-Kathedrale von Córdoba gelöscht - Bauwerk wieder geöffnet",
     "Zeichen der Entspannung - Nordkorea baut Propaganda-Lautsprecher an der Grenze zu Südkorea ab",
     "Nahost-Krieg - Kritik aus der Union an Kanzler Merz wegen Einschränkung der Waffenexporte an Israel",
@@ -3003,11 +3001,11 @@
     "Wehrpflicht: Frauen an die Waffe!",
     "Krieg in der Ukraine: Es ist nicht Europas Schuld",
     "Koalition - Merz lehnt Steuererhöhungen erneut ab - Klingbeil: \"Alle müssen einen Beitrag leisten\"",
-    "Sanaa - Huthi-Miliz im Jemen nimmt Mitarbeiter von UNO-Organisationen fest"
+    "Sanaa - Huthi-Miliz im Jemen nimmt Mitarbeiter von UNO-Organisationen fest",
+    "Verteidigung - Linke gegen Wehrpflicht auch für Frauen",
+    "Financial-Times-Interview - Von der Leyen spricht über \"präzise Pläne\" für europäische Ukraine-Truppe mit US-Unterstützung"
   ],
   "hashes": [
-    "256f6b1ffdcce70ebbde3012f02c5b3c",
-    "36aeb4cbfe3f6807bf57024c4445ae43",
     "3a3503fc08ec3c8b1181990aef8bb53c",
     "cf682767c5288ae165a18cf701ea090d",
     "afc7e674e49ee151a85cd859c70faedb",
@@ -4005,6 +4003,8 @@
     "9e98028b9c6a4877e50b72d55a8275b0",
     "55fadb578c75e564b987aa83071b8332",
     "7ff27e4295e025fb5bff9af8d6f734f1",
-    "92fe065594bc43a244b0a5c7dda8a341"
+    "92fe065594bc43a244b0a5c7dda8a341",
+    "7a84aa3d5a268683335a44cacd802371",
+    "8fe6b70f87052bcab853c7cf5e766612"
   ]
 }
