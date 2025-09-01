@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/hakenkreuz-skandal-borns-ruecktritt-und-demokratiekrise-110630785.html",
-    "https://www.deutschlandfunk.de/kritik-an-netanjahus-gaza-plaenen-usa-verteidigen-israel-100.html",
     "https://www.faz.net/aktuell/politik/inland/merz-waffenembargo-gegen-israel-entfacht-cdu-krise-110631022.html",
     "https://www.deutschlandfunk.de/breite-kritik-an-netanjahus-gaza-plaenen-usa-verteidigen-israel-100.html",
     "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zersaegtes-cranach-bild-wieder-zusammengefuehrt-102.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-deutsche-verantwortung-fuer-verbrechen-verjaehrt-nicht-100.html",
     "https://www.faz.net/aktuell/politik/inland/frankfurt-protestcamp-in-grueneburgpark-sorgt-fuer-streit-110665245.html",
-    "https://www.faz.net/aktuell/politik/inland/steffen-krach-als-spitzenkandidat-der-spd-in-berlin-vorgestellt-110665081.html"
+    "https://www.faz.net/aktuell/politik/inland/steffen-krach-als-spitzenkandidat-der-spd-in-berlin-vorgestellt-110665081.html",
+    "https://www.deutschlandfunk.de/macron-ruft-ukraine-unterstuetzer-fuer-donnerstag-in-den-lys-e-palast-100.html",
+    "https://www.deutschlandfunk.de/kommentar-afghanistan-zusage-reaktivierung-aufnahmeprogramm-100.html"
   ],
   "content_hashes": [
-    "81fe0e63fc6180dac3ba4eede570cf91",
-    "f786a0a4c115f349a45041f40de8dcc8",
     "bd000a6ec16defa1a19a7497dbb04e7b",
     "4eb22e1053e2df3488e63cf3373c67dc",
     "0fe057de1a89f64ff6967d883a7325fa",
@@ -2001,11 +1999,11 @@
     "4ceaf71e8a2ed0d54d1e55e5d62381ab",
     "b33b2f6db81f38ff2cbca0ac90e5c939",
     "f449b46b22ca60aa530a2800e15efb70",
-    "271b08d210ba82f46a6a3c4a16469999"
+    "271b08d210ba82f46a6a3c4a16469999",
+    "cfd90fbada99e22a2d5dad5a153f21e9",
+    "94e5b8472de5d4f42326193c2bc2f919"
   ],
   "titles": [
-    "Hakenkreuz-Eklat: Verfassung steht über Empörung",
-    "UNO-Sicherheitsrat - Kritik an Netanjahus Gaza-Plänen - USA verteidigen Israel",
     "Waffenstopp für Israel: Für die Union wird Merz zum Rätsel",
     "UNO-Sicherheitsrat - Breite Kritik an Netanjahus Gaza-Plänen - USA verteidigen Israel",
     "Ukraine - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja",
@@ -3003,11 +3001,11 @@
     "Herzogliches Museum Gotha - Zersägtes Cranach-Bild wieder zusammengeführt",
     "Gedenktag Überfall Polen - Kulturstaatsminister Weimer: Deutsche Verantwortung für Verbrechen verjährt nicht",
     "Protestcamp in Frankfurt: Ein Stadtpark wird besetzt",
-    "SPD in Berlin: „Richtig Bock“ auf den Kampf um Platz eins"
+    "SPD in Berlin: „Richtig Bock“ auf den Kampf um Platz eins",
+    "Koalition der Willigen - Macron ruft Ukraine-Unterstützer für Donnerstag in den Élysée-Palast",
+    "Kommentar zur Aufnahmezusage - Zu spät, aber richtig"
   ],
   "hashes": [
-    "afba466f6893166b86684fb6071d7ba8",
-    "4d353f6654e5f012343645a7844cec7a",
     "5804bd610d258e3a06d0391799d64762",
     "b12939ca3e9766a750bb26beee12247c",
     "23b3053e925ece6d2f63d3b4e577d70e",
@@ -4005,6 +4003,8 @@
     "ebba4545ee6b6e0348cf2026e02688e4",
     "a1d07065ea5fe6f9c85c6c1b20278e45",
     "d5a78a022ea3b1371863b1f6d4983dd3",
-    "223f861fbb94f7375dd98a9fb0bccc04"
+    "223f861fbb94f7375dd98a9fb0bccc04",
+    "be518ff8a47ce8373959be0b5759c7d8",
+    "e80e9a611230553eff39e8d3b901f46a"
   ]
 }
