@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/laut-krankenhausangaben-mindestens-sieben-tote-nach-israelischen-angriffen-israel-bestaetigt-toetung-100.html",
-    "https://www.deutschlandfunk.de/neue-gespraeche-zwischen-iaea-und-iranischer-fuehrung-104.html",
     "https://www.deutschlandfunk.de/al-dschasira-vier-mitarbeiter-bei-israelischem-angriff-getoetet-100.html",
     "https://www.deutschlandfunk.de/mindestens-19-verletzte-bei-russischem-luftangriff-auf-saporischschja-zwei-tote-in-russischer-region-102.html",
     "https://www.deutschlandfunk.de/israels-botschafter-nennt-plan-fuer-hisbollah-entwaffnung-historische-chance-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/proteste-halten-trotz-verschaerfter-sicherheitsvorkehrungen-an-100.html",
     "https://www.deutschlandfunk.de/proteste-halten-trotz-verschaerfter-sicherheitsmassnahmen-an-100.html",
     "https://www.deutschlandfunk.de/auszeichnung-an-iranische-studenten-und-deutsches-ehepaar-verliehen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bullshit-vorwurf-baerbel-bas-provoziert-mit-attacke-gegen-merz-110665043.html"
+    "https://www.faz.net/aktuell/politik/inland/bullshit-vorwurf-baerbel-bas-provoziert-mit-attacke-gegen-merz-110665043.html",
+    "https://www.deutschlandfunk.de/klingbeil-setzt-beirat-ein-104.html",
+    "https://www.deutschlandfunk.de/syrien-und-libanon-wollen-streitfragen-gemeinsam-klaeren-100.html"
   ],
   "content_hashes": [
-    "c923c2e757320f420c35bf97d9b2572c",
-    "2bf2a9e050bb36d6d180dcdbb087f1b3",
     "49115018c65ae7d60a938bee1dc8e3f6",
     "733cb708ea53436390d0a2e8dfa94c03",
     "872b46b490c07b89336b3b99f0f8eb86",
@@ -2001,11 +1999,11 @@
     "b39772c1d15de57216405f2456fc81fe",
     "7ea08c951f414e72f905a151db72ce61",
     "fb15f8741e8e1c1e8868e6057af6d292",
-    "2ae1df8e3d2f4189aca62960a6bc2506"
+    "2ae1df8e3d2f4189aca62960a6bc2506",
+    "01c97c0fe94a7bf1a8e3ad9d69e11910",
+    "a990b7d5f880438ea65287d976122e1c"
   ],
   "titles": [
-    "Gazastreifen - Laut Krankenhausangaben mindestens sieben Tote nach israelischen Angriffen - Israel bestätigt Tötung eines Al-Dschasira-Mitarbeiters",
-    "Teheran - Neue Gespräche zwischen IAEA und iranischer Führung",
     "Gaza-Krieg - Al-Dschasira: \"Vier Mitarbeiter bei israelischem Angriff getötet\"",
     "Ukraine-Krieg - Mindestens 19 Verletzte bei russischem Luftangriff auf Saporischschja - zwei Tote in russischer Region Tula",
     "Militante Islamisten - Israels Botschafter nennt Plan für Hisbollah-Entwaffnung \"historische Chance\"",
@@ -3003,11 +3001,11 @@
     "Indonesien - Proteste halten trotz verschärfter Sicherheitsvorkehrungen an",
     "Indonesien - Proteste halten trotz verschärfter Sicherheitsmaßnahmen an",
     "Aachener Friedenspreis - Auszeichnung an iranische Studenten und deutsches Ehepaar verliehen",
-    "„Bullshit“-Attacke: Bas trübt Bild der Koalitionsharmonie"
+    "„Bullshit“-Attacke: Bas trübt Bild der Koalitionsharmonie",
+    "Sondervermögen Infrastruktur - Klingbeil setzt Beirat ein",
+    "Ausschüsse zu Häftlingen und Vermissten - Syrien und Libanon wollen Streitfragen gemeinsam klären"
   ],
   "hashes": [
-    "2b47459c706dfd99b350b65a670770fc",
-    "356f241813a1a92096f49a5f0d364398",
     "4c0f681ad124f6c86f8dede9758376fa",
     "a274eb3cfc008174f563e43d9f51bc19",
     "c04992a6c407ab91730b98e0ad483ad9",
@@ -4005,6 +4003,8 @@
     "5ddf20c13e98154aaa29a05c723bcdca",
     "810085e097027391fde0bd654416ebd5",
     "97c15b5452924dd9a332bf9864393ae8",
-    "ebe6ddca5517cddc22bac9d83fb9b2d6"
+    "ebe6ddca5517cddc22bac9d83fb9b2d6",
+    "685c38767246a18530be463f252719a4",
+    "f63ece1bdb4ded9bad9dbfbb7c9deb76"
   ]
 }
