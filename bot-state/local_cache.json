@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/debatte-um-alkoholverbot-fuer-jugendliche-cdu-politikerin-borchardt-fuehrt-nicht-automatisch-zu-weni-100.html",
-    "https://www.deutschlandfunk.de/munch-ausstellung-in-chemnitz-mit-festakt-eroeffnet-102.html",
-    "https://www.deutschlandfunk.de/trump-reicht-milliardenklage-gegen-universitaet-von-kalifornien-ein-100.html",
-    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-von-propalaestinensischer-aktivistengruppe-100.html",
     "https://www.deutschlandfunk.de/hunderte-anhaenger-der-exil-opposition-von-belarus-demonstrieren-gegen-diktator-lukaschenko-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-rechtsextreme-csds-in-ostdeutschland-stoeren-110628685.html",
     "https://www.deutschlandfunk.de/klitschko-jeder-ist-kriegsmuede-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/sozialstaatskommission-nimmt-arbeit-auf-100.html",
     "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-erdbeben-in-afghanistan-100.html",
     "https://www.deutschlandfunk.de/usa-setzen-visa-vergabe-fuer-palaestinenser-fast-vollstaendig-aus-100.html",
-    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-erdbeben-104.html"
+    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-erdbeben-104.html",
+    "https://www.deutschlandfunk.de/sed-opferbeauftragte-lenin-denkmaeler-verletzen-betroffene-100.html",
+    "https://www.deutschlandfunk.de/staatsagentur-rund-250-tote-bei-erdbeben-100.html",
+    "https://www.deutschlandfunk.de/verbraucherschuetzer-ziehen-wegen-kleinerer-schokoladentafeln-vor-gericht-100.html",
+    "https://www.deutschlandfunk.de/chinas-staatschef-xi-kritisiert-in-rede-aktuelle-weltordnung-putin-trifft-modi-100.html"
   ],
   "content_hashes": [
-    "32ca7dbd227d7736702e6b30529c0838",
-    "5c6498b308fc5c7c4339e1b71bf74cc5",
-    "5c96e2c9156c1f0e83b2ecbc6359b3bc",
-    "8cc88f3850a9e6930045733cf0d28159",
     "475712b6c3bc4d6be5fe73454814cdc6",
     "9360e412f324eaf620c99cfb910c4da1",
     "c82201a98958942f4a7fde30065e3fad",
@@ -2001,13 +1997,13 @@
     "419aad430f9956af738208e894e274a9",
     "abdf7cfa4feb3afa60a6a1cb4e216c91",
     "470b2cba6cc1e1ed50f9d4fde7759aa2",
-    "1e8090bc0ef77b5442f1f07c65854280"
+    "1e8090bc0ef77b5442f1f07c65854280",
+    "55a1da373e90edfb535cdc84cf464e94",
+    "772bfbe87048135733a1622574f1e71f",
+    "041400af1fdec218a6e727bad4d0b009",
+    "62c83a4b16546c9d3f87609a2af23c69"
   ],
   "titles": [
-    "Gesundheit - Debatte um Alkoholverbot für Jugendliche - CDU-Politikerin Borchardt: \"Führt nicht automatisch zu weniger Konsum\"",
-    "Kulturhauptstadt - Munch-Ausstellung in Chemnitz mit Festakt eröffnet",
-    "USA - Trump reicht Milliardenklage gegen Universität von Kalifornien ein",
-    "London - Hunderte Festnahmen bei Protest gegen Verbot von propalästinensischer Aktivistengruppe",
     "Warschau - Hunderte Anhänger der Exil-Opposition von Belarus demonstrieren gegen Diktator Lukaschenko",
     "Neonazis gegen queere Menschen: Was ist hier normal?",
     "Abwehrkampf der Ukraine - Klitschko: \"Jeder ist kriegsmüde\"",
@@ -3003,13 +2999,13 @@
     "Reformen - Sozialstaatskommission nimmt Arbeit auf",
     "Afghanistan - Mindestens neun Tote bei Erdbeben in Afghanistan",
     "\"New York Times\" - USA setzen Visa-Vergabe für Palästinenser fast vollständig aus",
-    "Afghanistan - Mindestens neun Tote bei Erdbeben"
+    "Afghanistan - Mindestens neun Tote bei Erdbeben",
+    "Geschichte - SED-Opferbeauftragte: Lenin-Denkmäler verletzen Betroffene",
+    "Afghanistan - Staatsagentur: Rund 250 Tote bei Erdbeben",
+    "Milka - Verbraucherschützer ziehen wegen kleinerer Schokoladentafeln vor Gericht",
+    "SOZ-Gipfel in Tianjin - Chinas Staatschef Xi kritisiert in Rede aktuelle Weltordnung - Putin trifft Modi"
   ],
   "hashes": [
-    "98cf1cb892a2862f8969a9fd73afd3fa",
-    "b81e97975bc7cbc985595630e99922ae",
-    "ac7390e4acc1e41071338ceaf34d45a4",
-    "2ee4d600adaee375a0c372ee8ea79fd2",
     "00bfdda3bc71a30154b4b2f61d1f0c83",
     "8feca649f9da77853e4af07e60c0a011",
     "b4a780a6b74a85e5f26b05123b7b2967",
@@ -4005,6 +4001,10 @@
     "d43debfcb76febd3bfb2d88eacf5235c",
     "a0ad55f3e751084e78d3bd6daa864373",
     "d3b923f4502ae256213f90fc651b8a85",
-    "7f85f83228b50441afe4bf025a2085db"
+    "7f85f83228b50441afe4bf025a2085db",
+    "4e43f7ac69cba394977e18492c4cfc45",
+    "3b729ea1294eb7a0e5a98c5a12251f29",
+    "fca24cf844f320df4cee243b99646788",
+    "ed9f24d7a500b9301d191c3fee614897"
   ]
 }
