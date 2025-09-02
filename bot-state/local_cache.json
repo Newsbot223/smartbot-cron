@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-verlangt-verdraengung-von-obdachlosen-aus-washington-einsatz-der-natonialgarde-erwogen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/fruehkindliche-bildung-deutschland-tut-nicht-genug-110620375.html",
     "https://www.deutschlandfunk.de/weitere-diskussionen-in-der-unionsfraktion-102.html",
     "https://www.deutschlandfunk.de/djv-fordert-aufklaerung-von-tod-mehrerer-journalisten-nach-israelischem-angriff-100.html",
     "https://www.deutschlandfunk.de/berlins-schulsenatorin-guenther-wuensch-hat-bauchschmerzen-bei-abschaffung-des-kopftuch-verbots-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/panorama/gesellschaft/deutschland-3-8-millionen-menschen-mehr-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-wirbt-in-bengaluru-um-indische-fachkraefte-100.html",
     "https://www.deutschlandfunk.de/manipulierte-bilddateien-sicherheitsluecke-bei-whatsapp-auf-apple-geraeten-102.html",
-    "https://www.deutschlandfunk.de/fall-liebich-missbrauchtes-selbstbestimmungsgesetz-interv-m-valentin-hacken-100.html"
+    "https://www.deutschlandfunk.de/fall-liebich-missbrauchtes-selbstbestimmungsgesetz-interv-m-valentin-hacken-100.html",
+    "https://www.deutschlandfunk.de/inflation-im-euroraum-steigt-auf-2-1-prozent-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-eine-milliarde-menschen-leiden-unter-psychischen-stoerungen-zunahme-bei-jungen-menschen-102.html"
   ],
   "content_hashes": [
-    "6b6e3f7bef56353522c2d4efed85eb37",
-    "d44639eb48213ae47f65fe6195963372",
     "009684cf47fb84cbba39b2709df7b4bf",
     "d7058ddfc14718bf3d851b38cc1ca305",
     "de6999e7e7e06c03da5760fa0c4f6d23",
@@ -2001,11 +1999,11 @@
     "c6250530db76f851f685ec269aa6e86e",
     "bdc24438055f3332db1e3ce557f58118",
     "f85dc2fd21f85b98ffa8855f5bd6ea5d",
-    "da1783b6b59ef4be5d6c82ba713b7384"
+    "da1783b6b59ef4be5d6c82ba713b7384",
+    "d5be6c7ea25bc551889610d987bd24da",
+    "4e5d468faf9bb1afd42d727a35cbcf9b"
   ],
   "titles": [
-    "USA - Trump verlangt Verdrängung von Obdachlosen aus Washington - Einsatz der Natonialgarde erwogen",
-    "Frühkindliche Bildung: Deutschland hinkt bei der Sprachförderung hinterher",
     "Einschränkung von Waffenlieferungen an Israel - Weitere Diskussionen in der Unionsfraktion",
     "Gazastreifen - DJV fordert Aufklärung von Tod mehrerer Journalisten nach israelischem Angriff",
     "Neutralitätsgesetz - Berlins Schulsenatorin Günther-Wünsch hat \"Bauchschmerzen\" bei Abschaffung des Kopftuch-Verbots",
@@ -3003,11 +3001,11 @@
     "Deutschland: 3,8 Millionen Menschen mehr als 1990",
     "Antrittsbesuch in Indien - Außenminister Wadephul wirbt in Bengaluru um indische Fachkräfte",
     "Meta - Manipulierte Bilddateien: Sicherheitslücke bei WhatsApp auf Apple-Geräten",
-    "Rechtsextremismus - Fall Marla-Svenja Liebich: Journalist sieht Vollzugsdefizit"
+    "Rechtsextremismus - Fall Marla-Svenja Liebich: Journalist sieht Vollzugsdefizit",
+    "Eurostat - Inflation im Euroraum steigt auf 2,1 Prozent",
+    "WHO-Bericht - Mehr als eine Milliarde Menschen leiden unter psychischen Störungen - Zunahme bei jungen Menschen"
   ],
   "hashes": [
-    "a6ae5bf4800347f329025bb2163ac13c",
-    "199a292a36432f294eef4d1ffe446322",
     "8e6ceaba4d606194694fcdc2bf8432f4",
     "041d1680706e7dd271eeda982191583a",
     "8525969c3bbb67154a58b5272438e9f6",
@@ -4005,6 +4003,8 @@
     "50b476284fe9dff4d6eb36287e8bb86d",
     "59d9a314b56f0303f8347328a18db0cc",
     "d06d7e9d31e6dc069a52ad7cc72291c1",
-    "fdad267ac740df5f7fcbe5c5e6f43d95"
+    "fdad267ac740df5f7fcbe5c5e6f43d95",
+    "98e3cb7171104343832b813e073fe080",
+    "b08b85b2fa553ea98971c3823ff29548"
   ]
 }
