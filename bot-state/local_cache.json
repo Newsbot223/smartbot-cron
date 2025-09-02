@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-und-djv-fordern-aufklaerung-zum-tod-mehrerer-al-dschasira-journalisten-nach-israelis-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-1-000-euro-strafe-fuer-zigarettenkippe-aus-dem-auto-100.html",
-    "https://www.deutschlandfunk.de/neues-schuljahr-hat-fuer-die-ersten-bundeslaender-wieder-begonnen-100.html",
     "https://www.deutschlandfunk.de/die-aktuelle-lage-im-nahen-osten-live-104.html",
     "https://www.faz.net/aktuell/politik/inland/spd-diskutiert-bei-interner-veranstaltung-ueber-afd-verbotsverfahren-110630731.html",
     "https://www.deutschlandfunk.de/finnische-staatsanwaltschaft-klagt-drei-besatzungsmitglieder-des-tankers-eagle-s-wegen-sabotage-verd-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nordkoreas-machthaber-kim-jong-un-in-china-eingetroffen-102.html",
     "https://www.deutschlandfunk.de/streaming-ueberholt-klassisches-fernsehen-102.html",
     "https://www.deutschlandfunk.de/belgien-plant-anerkennung-von-palaestinenser-staat-102.html",
-    "https://www.deutschlandfunk.de/strategiesuche-der-gruenen-interview-mit-albrecht-von-lucke-politologe-100.html"
+    "https://www.deutschlandfunk.de/strategiesuche-der-gruenen-interview-mit-albrecht-von-lucke-politologe-100.html",
+    "https://www.deutschlandfunk.de/merz-schlaegt-genf-als-ort-fuer-treffen-von-selenskyj-und-putin-vor-100.html",
+    "https://www.deutschlandfunk.de/asylzahlen-gehen-im-august-im-jahresvergleich-deutlich-zurueck-102.html",
+    "https://www.deutschlandfunk.de/niederlande-muss-afghanische-ortskraefte-aufnehmen-100.html"
   ],
   "content_hashes": [
-    "59926574bd88b18de28d1ca782a81c42",
-    "6a9ce72b29bdf94598b2edefceff6523",
-    "9ab45642e6b3859cf8e5010fbd490df6",
     "16aa1e101e40bfb7b04639f611744277",
     "35a34a1112de716c67b7f92fa0a364b7",
     "55a9cab2f2eaf57b03a8baf2bd4458b4",
@@ -2001,12 +1998,12 @@
     "979b2d5006afad118e0dfe1931492c78",
     "f6ebddfaa0e451533d252f4b584eca55",
     "2a76ca024f7f0adf1c8a9ebb51d71422",
-    "c5e9d1028b8f8a71cd3c9c268dbfd0ba"
+    "c5e9d1028b8f8a71cd3c9c268dbfd0ba",
+    "30caa0d99cba20ac49f66ad15a3f4319",
+    "6bf1e91c97e629607fe99fe5345001ae",
+    "f1e326a2db27e2ed15a8b629d598d625"
   ],
   "titles": [
-    "Gazastreifen - Bundesregierung und DJV fordern Aufklärung zum Tod mehrerer Al-Dschasira-Journalisten nach israelischem Angriff",
-    "Neue Verordnung in Italien - Mehr als 1.000 Euro Strafe für Zigarettenkippe aus dem Auto",
-    "Sommerferien - Neues Schuljahr hat für die ersten Bundesländer wieder begonnen",
     "Waffenlieferstopp - Wie Merz' Entscheidung in Israel ankommt",
     "Fragen der Basis: Wie SPD-Mitglieder intern über ein AfD-Verbot diskutieren",
     "Schäden an Ostsee-Kabeln - Finnische Staatsanwaltschaft klagt drei Besatzungsmitglieder des Tankers \"Eagle S\" wegen Sabotage-Verdachts an",
@@ -3003,12 +3000,12 @@
     "Vor Parade in Peking - Nordkoreas Machthaber Kim Jong-un in China eingetroffen",
     "Bitkom-Umfrage - Streaming überholt klassisches Fernsehen",
     "Nahost - Belgien plant Anerkennung von Palästinenser-Staat",
-    "Zukunft der Partei - Politologe: \"Die Grünen müssen sich neu profilieren\""
+    "Zukunft der Partei - Politologe: \"Die Grünen müssen sich neu profilieren\"",
+    "Ukrainekrieg - Merz schlägt Genf als Ort für Treffen von Selenskyj und Putin vor",
+    "Migration - Asylzahlen gehen im August im Jahresvergleich deutlich zurück",
+    "Gerichtsurteil - Niederlande muss afghanische Ortskräfte aufnehmen"
   ],
   "hashes": [
-    "e2ee29fdd161e523eaefa539e34d96e7",
-    "a67e1730ed65560ea5ea2b484fa90270",
-    "e25e4770d0047b932b6b11401ae3ef80",
     "24c5cc3b9bdfd0e8398bd7da184aa1b4",
     "1c676e68a978b6e6ba1489728cb3466f",
     "56fb530d1b60c97e5f963461ab1a9277",
@@ -4005,6 +4002,9 @@
     "37f68cdff0044617c2c096eb4cd320fa",
     "c1af20cfad3a8fc81f54bc2a64a44399",
     "4d13bbf868a34e29a6c86b42e8438ad1",
-    "31b4d97aa1d775193ebd648938f9229e"
+    "31b4d97aa1d775193ebd648938f9229e",
+    "8b4420465ecc8ee9d56ac8fc2156a67d",
+    "aef1a7ad8c98702a1b0b737b859a380e",
+    "e64eb2c058a562b5972dc4b83a5ef79b"
   ]
 }
