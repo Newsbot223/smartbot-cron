@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/finnische-staatsanwaltschaft-klagt-drei-besatzungsmitglieder-des-tankers-eagle-s-wegen-sabotage-verd-100.html",
-    "https://www.deutschlandfunk.de/merz-konkretisiert-gruende-fuer-ruestungsentscheidung-102.html",
     "https://www.deutschlandfunk.de/internationale-kritik-am-tod-von-al-dschasira-journalisten-nach-israelischem-angriff-bundesregierung-100.html",
     "https://www.deutschlandfunk.de/ice-mit-stufenlosem-einstieg-erhaelt-zulassung-100.html",
     "https://www.deutschlandfunk.de/trump-verlangt-verdraengung-von-obdachlosen-aus-washington-einsatz-der-nationalgarde-erwogen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/asylzahlen-gehen-im-august-im-jahresvergleich-deutlich-zurueck-102.html",
     "https://www.deutschlandfunk.de/niederlande-muss-afghanische-ortskraefte-aufnehmen-100.html",
     "https://www.deutschlandfunk.de/in-brasilien-hat-die-urteilsfindung-gegen-ex-praesident-bolsonaro-begonnen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/vor-haft-gefluechtet-waren-die-behoerden-auf-liebichs-flucht-gefasst-110666777.html"
+    "https://www.faz.net/aktuell/politik/inland/vor-haft-gefluechtet-waren-die-behoerden-auf-liebichs-flucht-gefasst-110666777.html",
+    "https://www.deutschlandfunk.de/einsatz-von-nationalgarde-in-los-angeles-war-illegal-100.html",
+    "https://www.deutschlandfunk.de/erneut-afghanen-aus-deutschen-aufnahmeprogrammen-festgenommen-100.html"
   ],
   "content_hashes": [
-    "55a9cab2f2eaf57b03a8baf2bd4458b4",
-    "266f28ba5330d49a063a8163e79d5792",
     "a4c44bc44d406cc1ad0011e4d4ef259f",
     "bb8aae998afeb29f71038f16b3da7292",
     "948796ede6a9506bf256ac63ce14fdc7",
@@ -2001,11 +1999,11 @@
     "6bf1e91c97e629607fe99fe5345001ae",
     "f1e326a2db27e2ed15a8b629d598d625",
     "9d4111e532c5b81feb4a523d07bc3276",
-    "8e395401ac82c1d2baf31e6dbb559c0d"
+    "8e395401ac82c1d2baf31e6dbb559c0d",
+    "a4e3c05d6029c28f2899187ee290ca40",
+    "71eeaf270a055824f0ec58f72b0150b5"
   ],
   "titles": [
-    "Schäden an Ostsee-Kabeln - Finnische Staatsanwaltschaft klagt drei Besatzungsmitglieder des Tankers \"Eagle S\" wegen Sabotage-Verdachts an",
-    "Nahost-Krieg - Merz konkretisiert Gründe für Rüstungsentscheidung",
     "Gazastreifen - Internationale Kritik am Tod von Al-Dschasira-Journalisten nach israelischem Angriff - Bundesregierung fordert Aufklärung",
     "Deutsche Bahn - ICE mit stufenlosem Einstieg erhält Zulassung",
     "USA - Trump verlangt Verdrängung von Obdachlosen aus Washington - Einsatz der Nationalgarde erwogen",
@@ -3003,11 +3001,11 @@
     "Migration - Asylzahlen gehen im August im Jahresvergleich deutlich zurück",
     "Gerichtsurteil - Niederlande muss afghanische Ortskräfte aufnehmen",
     "Historischer Prozess - In Brasilien hat die Urteilsfindung gegen Ex-Präsident Bolsonaro begonnen",
-    "Vor Haft geflüchtet: Waren die Behörden auf Liebichs Flucht gefasst?"
+    "Vor Haft geflüchtet: Waren die Behörden auf Liebichs Flucht gefasst?",
+    "US-Gericht - Einsatz von Nationalgarde in Los Angeles war illegal",
+    "Pakistan - Erneut Afghanen aus deutschen Aufnahmeprogrammen festgenommen"
   ],
   "hashes": [
-    "56fb530d1b60c97e5f963461ab1a9277",
-    "95a4c5aaa18c33f14dbf86d7695c02b5",
     "dca987c86576dfc348e27435e2d73b6a",
     "04084d92a1be71ed99ddc688aac2e312",
     "b97286ad34b53b5378d65e659f856f8b",
@@ -4005,6 +4003,8 @@
     "aef1a7ad8c98702a1b0b737b859a380e",
     "e64eb2c058a562b5972dc4b83a5ef79b",
     "3ac7fe0e21cb3dcf9974aa0c37631b2f",
-    "1cb22d2e81a986fe4af4432e019e461e"
+    "1cb22d2e81a986fe4af4432e019e461e",
+    "e5acab287ea5a5f6d5a6b367a4905a1e",
+    "94786ae310c018f5d7b78579f6050ab9"
   ]
 }
