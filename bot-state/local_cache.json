@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aerztekammer-praesident-warnt-vor-medikamentenverschwendung-100.html",
-    "https://www.deutschlandfunk.de/nach-vorstoss-von-kulturstaatsminister-weimer-kein-anderes-ministerium-plant-gender-verbot-100.html",
     "https://www.deutschlandfunk.de/csu-aussenpolitiker-mayer-warnt-die-bundesregierung-vor-einer-taeter-opfer-umkehr-100.html",
     "https://www.deutschlandfunk.de/auch-thueringen-fuehrt-verfassungsviertelstunde-ein-100.html",
     "https://www.faz.net/aktuell/politik/inland/interview-mit-beamtenbund-chef-volker-geyer-die-leute-koennen-nicht-mehr-110630696.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/auch-belgien-will-palaestinenserstaat-anerkennen-102.html",
     "https://www.faz.net/aktuell/politik/nouripour-wahlen-zusammenlegen-bundesstaat-in-gefahr-110665085.html",
     "https://www.deutschlandfunk.de/parlament-verabschiedet-gesetz-zum-verbot-von-homosexualitaet-100.html",
-    "https://www.deutschlandfunk.de/wadephul-ausbau-von-partnerschaft-mit-indien-hat-viel-potenzial-100.html"
+    "https://www.deutschlandfunk.de/wadephul-ausbau-von-partnerschaft-mit-indien-hat-viel-potenzial-100.html",
+    "https://www.deutschlandfunk.de/afghanen-machen-in-brief-an-bundeskanzler-merz-auf-prekaere-lage-aufmerksam-104.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-natalie-pawlik-community-basierte-beratungsstellen-foerdert-accg-110665120.html"
   ],
   "content_hashes": [
-    "aaa230c89f7194a5ad1acbc5ebf24373",
-    "c18bc66216fef06ee6b5297a126336d0",
     "d3ec142bd965a2bd8d47012301d8db3a",
     "35a40ecc744520175370e9abf77dc3cf",
     "15864ae9ab4004b77eb9cdac3b059e88",
@@ -2001,11 +1999,11 @@
     "8843c7a9559750c3e1ffbbd3be843c21",
     "5c92e600585647bb83d08bab254e629d",
     "ff54a29b70a9cd78b7ba6b9025e86265",
-    "d721a44b75c8ed575fc3723389f66525"
+    "d721a44b75c8ed575fc3723389f66525",
+    "cb7ac9dd66e278a4fcedb9bef27c6600",
+    "d08c06f3dd7f5c6e71b8548053845feb"
   ],
   "titles": [
-    "Arzneimittel - Ärztekammer-Präsident warnt vor Medikamentenverschwendung",
-    "Deutsche Sprache - Nach Vorstoß von Kulturstaatsminister Weimer: Kein anderes Ministerium plant Gender-Verbot",
     "Einschränkung von Waffenlieferungen an Israel - CSU-Außenpolitiker Mayer warnt die Bundesregierung vor einer \"Täter-Opfer-Umkehr\"",
     "Schule - Auch Thüringen führt \"Verfassungsviertelstunde\" ein",
     "Beamtenbund-Chef Geyer: „Die Leute können nicht mehr“",
@@ -3003,11 +3001,11 @@
     "Bei UNO-Vollversammlung - Auch Belgien will Palästinenserstaat anerkennen",
     "Wahlen zusammenlegen?: Der Bundesstaat kommt unter die Räder",
     "Burkina Faso - Parlament verabschiedet Gesetz zum Verbot von Homosexualität",
-    "Antrittsbesuch - Wadephul: Ausbau von Partnerschaft mit Indien hat viel Potenzial"
+    "Antrittsbesuch - Wadephul: Ausbau von Partnerschaft mit Indien hat viel Potenzial",
+    "\"Spiegel\"-Bericht - Afghanen machen in Brief an Bundeskanzler Merz auf prekäre Lage aufmerksam",
+    "Beratungsstellen: Sie wollen Rassismus etwas entgegensetzen"
   ],
   "hashes": [
-    "cb958c32317468ebf3de108f3a58a90a",
-    "06ec88c16061034783864ddc9c299355",
     "7795350e8b9125525466b4017b712db1",
     "3f76c8cfa8b6c61d3630f20dec485e52",
     "84a5bb2e4a4cbaa703d12e08b7eb690a",
@@ -4005,6 +4003,8 @@
     "c57a55baba7922283daf5d206dff0ac2",
     "583f43d0410c90a27909f7912d83b911",
     "42eefe7fd0c4694d035270fc89fe72f7",
-    "a96752a9c4dbbd3cc3c8405ad3b826a2"
+    "a96752a9c4dbbd3cc3c8405ad3b826a2",
+    "1f1067e62f548d431b7594562a96f9b3",
+    "98d2c0ca3549be8dd4793d0b953ad555"
   ]
 }
