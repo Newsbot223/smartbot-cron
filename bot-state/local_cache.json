@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interview-ruediger-von-fritsch-diplomat-treffen-von-trump-und-putin-100.html",
-    "https://www.deutschlandfunk.de/deutsche-ukraine-exporte-wachsen-um-ersten-halbjahr-um-30-prozent-102.html",
     "https://www.deutschlandfunk.de/deutlich-mehr-junge-frauen-wegen-essstoerung-im-krankenhaus-100.html",
     "https://www.deutschlandfunk.de/trump-verlangt-verdraengung-von-obdachlosen-aus-washington-einsatz-der-natonialgarde-erwogen-100.html",
     "https://www.faz.net/aktuell/politik/inland/fruehkindliche-bildung-deutschland-tut-nicht-genug-110620375.html",
@@ -999,11 +997,11 @@
     "https://www.aljazeera.com/gallery/2025/9/2/search-for-survivors-after-deadly-afghanistan-earthquake?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/todesfaelle-von-afd-kandidaten-laut-polizei-keine-verdaechtigen-umstaende-accg-110666109.html",
     "https://www.deutschlandfunk.de/internationale-luftbruecke-zur-versorgung-der-menschen-im-gazastreifen-ausgesetzt-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/deutschland-3-8-millionen-menschen-mehr-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss"
+    "https://www.spiegel.de/panorama/gesellschaft/deutschland-3-8-millionen-menschen-mehr-als-1990-a-e12c0b7b-4448-4ef1-a754-11d6af054b22#ref=rss",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-wirbt-in-bengaluru-um-indische-fachkraefte-100.html",
+    "https://www.deutschlandfunk.de/manipulierte-bilddateien-sicherheitsluecke-bei-whatsapp-auf-apple-geraeten-102.html"
   ],
   "content_hashes": [
-    "6e95641c2b9a2ee557689a0b10d53db0",
-    "923c7ccaff78f86f89aa71d8e32cd8ca",
     "f293e6aa22a78917e502f85335239762",
     "6b6e3f7bef56353522c2d4efed85eb37",
     "d44639eb48213ae47f65fe6195963372",
@@ -2001,11 +1999,11 @@
     "85f6bdc344fafa15e037a302736e4ad0",
     "da85aab684cad47b033c917cec29e953",
     "a4f58f7c6caf1becc2ca36dab1fc8c85",
-    "c6250530db76f851f685ec269aa6e86e"
+    "c6250530db76f851f685ec269aa6e86e",
+    "bdc24438055f3332db1e3ce557f58118",
+    "f85dc2fd21f85b98ffa8855f5bd6ea5d"
   ],
   "titles": [
-    "Trump trifft Putin - Ex-Botschafter: Keine Hoffnung auf gutes Ergebnis",
-    "Wirtschaft - Deutsche Ukraine-Exporte wachsen um ersten Halbjahr um 30 Prozent",
     "Magersucht und Bulimie - Deutlich mehr junge Frauen wegen Essstörung im Krankenhaus",
     "USA - Trump verlangt Verdrängung von Obdachlosen aus Washington - Einsatz der Natonialgarde erwogen",
     "Frühkindliche Bildung: Deutschland hinkt bei der Sprachförderung hinterher",
@@ -3003,11 +3001,11 @@
     "Search for survivors after deadly Afghanistan earthquake",
     "Gerüchte um die AfD: Eine Großwahl und vier Todesfälle",
     "Medienberichte - Internationale Luftbrücke zur Versorgung der Menschen im Gazastreifen ausgesetzt",
-    "Deutschland: 3,8 Millionen Menschen mehr als 1990"
+    "Deutschland: 3,8 Millionen Menschen mehr als 1990",
+    "Antrittsbesuch in Indien - Außenminister Wadephul wirbt in Bengaluru um indische Fachkräfte",
+    "Meta - Manipulierte Bilddateien: Sicherheitslücke bei WhatsApp auf Apple-Geräten"
   ],
   "hashes": [
-    "705bfd92e50a12da307edc44ca83ef2e",
-    "fa380774a94a5b5dda5c0fd4433ccf1c",
     "4bd2aed501ac4831f76064fd0a607923",
     "a6ae5bf4800347f329025bb2163ac13c",
     "199a292a36432f294eef4d1ffe446322",
@@ -4005,6 +4003,8 @@
     "360533c9c7c0b1af4223a91a8b1b30df",
     "9dee4f258f65809ed12a9498cccd61a5",
     "92a408a7f213929dada5396a5814c82f",
-    "50b476284fe9dff4d6eb36287e8bb86d"
+    "50b476284fe9dff4d6eb36287e8bb86d",
+    "59d9a314b56f0303f8347328a18db0cc",
+    "d06d7e9d31e6dc069a52ad7cc72291c1"
   ]
 }
