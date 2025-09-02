@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aol-stellt-einwahlzugang-per-modem-in-den-usa-ein-100.html",
-    "https://www.deutschlandfunk.de/stromkabel-fuer-gasfoerderung-vor-borkum-zulaessig-102.html",
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/kanzler-attacken-aus-der-union-merz-mutet-seiner-partei-viel-zu-110632080.html",
     "https://www.faz.net/aktuell/politik/ausland/australien-erkennt-palaestina-an-abnabelung-von-den-usa-110632353.html",
     "https://www.deutschlandfunk.de/waldbraende-in-etlichen-mittelmeerlaendern-100.html",
     "https://www.deutschlandfunk.de/trump-strebt-kein-abkommen-mit-putin-zur-ukraine-beim-treffen-in-alaska-an-104.html",
@@ -999,12 +996,12 @@
     "https://www.aljazeera.com/video/the-take-2/2025/9/2/aje-onl-ban_rohingyaconf_av_v2-020925?traffic_source=rss",
     "https://www.deutschlandfunk.de/pro-europaeische-demonstranten-in-georgien-zu-haftstrafen-verurteilt-102.html",
     "https://www.deutschlandfunk.de/praesident-trump-verlegt-hauptquartier-fuer-weltraum-verteidigung-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-erneuert-warnung-vor-russischer-truppenkonzentration-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-erneuert-warnung-vor-russischer-truppenkonzentration-100.html",
+    "https://www.deutschlandfunk.de/trump-kuendigt-eilantrag-vor-hoechstem-gericht-an-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-stehen-vor-entscheidender-phase-des-krieges-100.html",
+    "https://www.aljazeera.com/news/2025/9/2/deadly-blast-hits-rally-in-pakistani-city-of-quetta-officials-say?traffic_source=rss"
   ],
   "content_hashes": [
-    "c7c132de59d9bcec0a4254ffc978158e",
-    "33a4f7132c280f92b05a01fa1e3c9b97",
-    "bf079c6e8b1d5064692f550a93beaebe",
     "d542f9d644ba11edcf73a3bc67f0737f",
     "dd9f9da227efef1b1a81b1cd122f75fd",
     "ba625da2169aea74d0c2274b02723c34",
@@ -2001,12 +1998,12 @@
     "41476d4e076ab1e26aa76494f6bcf5f3",
     "5d0b974f7be7611743e00e80ad295f16",
     "fdcbbd8faa16d0a0c27a0733bf054e52",
-    "b3565659c9c540ef043912303eb63347"
+    "b3565659c9c540ef043912303eb63347",
+    "2475240ad048c5c6d6af5585c7d557fd",
+    "d910460b9f4cc1eaa9e1a7b9665f2e8b",
+    "33ba3805439ab39b1dc6704e1e3d6447"
   ],
   "titles": [
-    "Internet - AOL stellt Einwahlzugang per Modem in den USA ein",
-    "Oberverwaltungsgericht - Stromkabel für Gasförderung vor Borkum zulässig",
-    "F.A.Z. Podcast für Deutschland: Kanzler-Attacken aus der Union: „Merz mutet seiner Partei viel zu“",
     "Anerkennung von Palästina: Der „Hilfssheriff“ entfernt sich von Washington",
     "Trockenheit - Waldbrände in etlichen Mittelmeerländern",
     "Verhandlungen - Trump strebt kein Abkommen mit Putin zur Ukraine beim Treffen in Alaska an",
@@ -3003,12 +3000,12 @@
     "Why is Bangladesh saying it can no longer host Rohingya?",
     "Tiflis - Pro-europäische Demonstranten in Georgien zu Haftstrafen verurteilt",
     "USA - Präsident Trump verlegt Hauptquartier für Weltraum-Verteidigung",
-    "Krieg in der Ukraine - Selenskyj erneuert Warnung vor russischer Truppenkonzentration"
+    "Krieg in der Ukraine - Selenskyj erneuert Warnung vor russischer Truppenkonzentration",
+    "US-Zollpolitik - Trump kündigt Eilantrag vor höchstem Gericht an",
+    "Gazakrieg - Netanjahu: Stehen vor entscheidender Phase des Krieges",
+    "Deadly blast hits rally in Pakistani city of Quetta, officials say"
   ],
   "hashes": [
-    "b8b3b8959d6d771c8b7d390de910aa79",
-    "b4f317fea0b72a67a38f222f82ab7ada",
-    "21054164d1a00c5e583ca6716e51b586",
     "897d1bf32fe2c3dfc901a49d4ed27bac",
     "ab2d2dba6eb373372fdfd970900da451",
     "25d91b180ea28527745fb760b168fb29",
@@ -4005,6 +4002,9 @@
     "f384aa8364d3054285c2ed9b1d021c87",
     "09e36b3dc30c309595a2c1f6c312718f",
     "4d777fb445cda71818c34d9fda5fd74c",
-    "8c947a03b9c479e34f4b3f7390a36b04"
+    "8c947a03b9c479e34f4b3f7390a36b04",
+    "c923d58a20c19d5fa4438659fd2bbf45",
+    "832b86bb29d14ea9973607369adf3416",
+    "d954db8c1308bb3300145dea4e21732b"
   ]
 }
