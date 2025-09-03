@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jugendpsychiater-fordern-regeln-fuer-konsum-von-online-netzwerken-von-politik-100.html",
-    "https://www.spiegel.de/ausland/johann-wadephul-cdu-aussenminister-verteidigt-israel-entscheidung-von-friedrich-merz-a-57c69ca0-2391-4373-a68a-8032055ccab5#ref=rss",
     "https://www.spiegel.de/panorama/polizeigewerkschaft-gdp-klagt-ueber-marode-dienststellen-schimmel-ungeziefer-kaputte-heizungen-a-fcb0c0f7-1d22-4325-a8a5-ea2a1430bfd9#ref=rss",
     "https://www.deutschlandfunk.de/bsi-digitale-souveraenitaet-deutschlands-ist-nicht-in-sicht-100.html",
     "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-zehn-millionen-us-buerger-verlieren-nach-schaetzung-durch-trumps-steue-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/putin-will-zum-abschluss-seines-besuchs-an-militaerparade-in-peking-teilnehmen-100.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-will-mindestens-zehn-prozent-bei-buergergeld-einsparen-a-c265b0f0-41da-4e05-bed5-b5cc75fe026f#ref=rss",
     "https://www.deutschlandfunk.de/us-gericht-google-wird-nicht-zerschlagen-muss-aber-einige-daten-mit-konkurrenz-teilen-100.html",
-    "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-menschen-antrag-auf-kriegsdienstverweigerung-100.html"
+    "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-menschen-antrag-auf-kriegsdienstverweigerung-100.html",
+    "https://www.deutschlandfunk.de/xi-empfaengt-putin-und-kim-bei-militaerparade-in-peking-100.html",
+    "https://www.spiegel.de/politik/wehrdienst-berater-fuer-kriegsdienstverweigerung-melden-massiven-zulauf-a-729e478e-88e0-481e-8a88-fb445119c8f4#ref=rss"
   ],
   "content_hashes": [
-    "0d7340ce8bc7d17e079603a279cffc27",
-    "f06e3b17bb0b65e1b20df15bafe9e073",
     "79b064f5088cd3055f1e70db791b886f",
     "f482d0b5c671037274fe4e0b0b59e470",
     "aed4c1f3276346c400ca09888120d828",
@@ -2001,11 +1999,11 @@
     "f58eabd79d8fd3052c60b38c18020827",
     "6e25508bfafea013eea591a4a6708a0b",
     "d5f68648b84d4fd4ec235c35714d2148",
-    "7444f9e64d0e5f9e437443bde45c399f"
+    "7444f9e64d0e5f9e437443bde45c399f",
+    "de874bcc4451d3071f93023924d6de7f",
+    "d88a296aa377919c18bb21579324e6d5"
   ],
   "titles": [
-    "Essstörungen - Jugendpsychiater fordern Regeln für Konsum von Online-Netzwerken von Politik",
-    "Johann Wadephul (CDU): Außenminister verteidigt Israel-Entscheidung von Friedrich Merz",
     "Polizeigewerkschaft (GdP) klagt über marode Dienststellen – Schimmel, Ungeziefer, kaputte Heizungen",
     "Technologie - BSI: Digitale Souveränität Deutschlands ist nicht in Sicht",
     "USA - Haushaltsbüro des Kongresses: Zehn Millionen US-Bürger verlieren nach Schätzung durch Trumps Steuergesetz ihre Krankenversicherung",
@@ -3003,11 +3001,11 @@
     "China - Putin will zum Abschluss seines Besuchs an Militärparade in Peking teilnehmen",
     "Friedrich Merz: Kanzler will mindestens zehn Prozent bei Bürgergeld einsparen",
     "Chrome und Android - US-Gericht: Google wird nicht zerschlagen, muss aber einige Daten mit Konkurrenz teilen",
-    "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Menschen Antrag auf Kriegsdienstverweigerung"
+    "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Menschen Antrag auf Kriegsdienstverweigerung",
+    "China - Xi empfängt Putin und Kim bei Militärparade in Peking",
+    "Wehrdienst: Berater für Kriegsdienstverweigerung melden massiven Zulauf"
   ],
   "hashes": [
-    "d774a40c5e01d279fe1b86738b6222fe",
-    "49dc01b742ad6f59c01ce2a90b6a9d70",
     "cb1aeb7198603df660232177b438bb3f",
     "5af1e8a552acaa966b83bfb858347c1f",
     "538bbba2489c6aceb9e0409edc4b9ccb",
@@ -4005,6 +4003,8 @@
     "a5387e7bd236e5bc23aa8745070fa4a0",
     "50e6c312fc04085f4fc002d773a531ba",
     "57a3f2038dc46b6e3cf7b750a5001aac",
-    "ea1597ea040f4f93913781e6fd9badf6"
+    "ea1597ea040f4f93913781e6fd9badf6",
+    "b26c3138ff85e60a3f7981b59017bcc4",
+    "29d1b54dbbb4ba6014244812f08f244a"
   ]
 }
