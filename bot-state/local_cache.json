@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/polizeigewerkschaft-gdp-klagt-ueber-marode-dienststellen-schimmel-ungeziefer-kaputte-heizungen-a-fcb0c0f7-1d22-4325-a8a5-ea2a1430bfd9#ref=rss",
-    "https://www.deutschlandfunk.de/bsi-digitale-souveraenitaet-deutschlands-ist-nicht-in-sicht-100.html",
-    "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-zehn-millionen-us-buerger-verlieren-nach-schaetzung-durch-trumps-steue-100.html",
     "https://www.deutschlandfunk.de/gruene-kritisieren-staatsminister-weimer-als-kulturkaempfer-100.html",
     "https://www.deutschlandfunk.de/madonna-richtet-dramatischen-appell-an-papst-leo-bitte-gehen-sie-nach-gaza-100.html",
     "https://www.deutschlandfunk.de/kiew-meldet-rueckeroberung-von-zwei-doerfern-an-der-front-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/us-gericht-google-wird-nicht-zerschlagen-muss-aber-einige-daten-mit-konkurrenz-teilen-100.html",
     "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-menschen-antrag-auf-kriegsdienstverweigerung-100.html",
     "https://www.deutschlandfunk.de/xi-empfaengt-putin-und-kim-bei-militaerparade-in-peking-100.html",
-    "https://www.spiegel.de/politik/wehrdienst-berater-fuer-kriegsdienstverweigerung-melden-massiven-zulauf-a-729e478e-88e0-481e-8a88-fb445119c8f4#ref=rss"
+    "https://www.spiegel.de/politik/wehrdienst-berater-fuer-kriegsdienstverweigerung-melden-massiven-zulauf-a-729e478e-88e0-481e-8a88-fb445119c8f4#ref=rss",
+    "https://www.deutschlandfunk.de/trump-elf-tote-bei-angriff-von-us-militaer-auf-schiff-von-drogenschmugglern-aus-venezuela-102.html",
+    "https://www.deutschlandfunk.de/spitzen-der-koalition-legen-kurs-fuer-die-kommenden-monate-fest-102.html",
+    "https://www.deutschlandfunk.de/bundesvereinigung-der-notaerzte-beklagt-zeitverluste-bei-rettungseinsaetzen-102.html"
   ],
   "content_hashes": [
-    "79b064f5088cd3055f1e70db791b886f",
-    "f482d0b5c671037274fe4e0b0b59e470",
-    "aed4c1f3276346c400ca09888120d828",
     "31e11c5ed991a16fd738676c05521808",
     "d9cd717950c55202fd425c8e423c4e72",
     "c852b18493b63ca331c7e11d11479cda",
@@ -2001,12 +1998,12 @@
     "d5f68648b84d4fd4ec235c35714d2148",
     "7444f9e64d0e5f9e437443bde45c399f",
     "de874bcc4451d3071f93023924d6de7f",
-    "d88a296aa377919c18bb21579324e6d5"
+    "d88a296aa377919c18bb21579324e6d5",
+    "45a58cfb6a1bd616ac4b6b2e9ab435c3",
+    "c2807f30c8bc11be0670110b302346fb",
+    "d9bf988d7cb8d952833ad831172949cd"
   ],
   "titles": [
-    "Polizeigewerkschaft (GdP) klagt über marode Dienststellen – Schimmel, Ungeziefer, kaputte Heizungen",
-    "Technologie - BSI: Digitale Souveränität Deutschlands ist nicht in Sicht",
-    "USA - Haushaltsbüro des Kongresses: Zehn Millionen US-Bürger verlieren nach Schätzung durch Trumps Steuergesetz ihre Krankenversicherung",
     "Bundestag - Grüne kritisieren Staatsminister Weimer als \"Kulturkämpfer\"",
     "Nahost-Krieg - Madonna richtet dramatischen Appell an Papst Leo: \"Bitte gehen Sie nach Gaza!\"",
     "Ukraine-Krieg - Kiew meldet Rückeroberung von zwei Dörfern an der Front",
@@ -3003,12 +3000,12 @@
     "Chrome und Android - US-Gericht: Google wird nicht zerschlagen, muss aber einige Daten mit Konkurrenz teilen",
     "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Menschen Antrag auf Kriegsdienstverweigerung",
     "China - Xi empfängt Putin und Kim bei Militärparade in Peking",
-    "Wehrdienst: Berater für Kriegsdienstverweigerung melden massiven Zulauf"
+    "Wehrdienst: Berater für Kriegsdienstverweigerung melden massiven Zulauf",
+    "Südkaribik - Trump: Elf Tote bei Angriff von US-Militär auf Schiff von Drogenschmugglern aus Venezuela",
+    "Berlin - Spitzen der Koalition legen Kurs für die kommenden Monate fest",
+    "Gesundheit - Bundesvereinigung der Notärzte beklagt Zeitverluste bei Rettungseinsätzen"
   ],
   "hashes": [
-    "cb1aeb7198603df660232177b438bb3f",
-    "5af1e8a552acaa966b83bfb858347c1f",
-    "538bbba2489c6aceb9e0409edc4b9ccb",
     "15166fd2fc02ccba8cd639f79d2a17dc",
     "b0ea3f2805af93a5702a7c742d0988f1",
     "542b6af4b2ccfed0e461e1ee4a416974",
@@ -4005,6 +4002,9 @@
     "57a3f2038dc46b6e3cf7b750a5001aac",
     "ea1597ea040f4f93913781e6fd9badf6",
     "b26c3138ff85e60a3f7981b59017bcc4",
-    "29d1b54dbbb4ba6014244812f08f244a"
+    "29d1b54dbbb4ba6014244812f08f244a",
+    "5cdde4c2dc05d1a9c7a62e92991f0f3a",
+    "726afaf4110f4ebfa29befb00aa5ddec",
+    "c28460e21008a3c4ff3a36526c215edd"
   ]
 }
