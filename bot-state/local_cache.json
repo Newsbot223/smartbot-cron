@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/japan-gedenkt-der-opfer-des-weltweit-schlimmsten-flugzeugabsturzes-vor-40-jahren-100.html",
-    "https://www.deutschlandfunk.de/kinderschuetzer-kritisieren-verbotsdebatten-zur-handy-nutzung-102.html",
     "https://www.deutschlandfunk.de/rbb-will-gegen-schlesinger-in-berufung-gehen-102.html",
     "https://www.deutschlandfunk.de/union-debattiert-ueber-merz-entscheidung-zu-waffenexporten-nach-israel-100.html",
     "https://www.faz.net/aktuell/politik/inland/thueringen-plant-milliarden-investition-fuer-kommunale-infrastruktur-110633709.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/panorama/hessen-lkw-fahrer-faehrt-fast-nonstop-von-spanien-bis-deutschland-a-00304194-1553-4f3c-8765-e26050ce3ec2#ref=rss",
     "https://www.deutschlandfunk.de/braende-nach-russischen-luftangriffen-102.html",
     "https://www.deutschlandfunk.de/behoerden-warnen-vor-gratis-saatgut-im-briefkasten-102.html",
-    "https://www.spiegel.de/panorama/justiz/zoll-stoppt-frau-mit-400-luxus-zigarren-im-ice-a-638a548e-cd7f-4331-b101-dd5ba0e9ac1e#ref=rss"
+    "https://www.spiegel.de/panorama/justiz/zoll-stoppt-frau-mit-400-luxus-zigarren-im-ice-a-638a548e-cd7f-4331-b101-dd5ba0e9ac1e#ref=rss",
+    "https://www.deutschlandfunk.de/rekordeinnahmen-bei-erbschafts-und-schenkungssteuer-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/wehrpflicht-fuer-frauen-was-deutschland-von-norwegen-lernen-kann-accg-110666915.html"
   ],
   "content_hashes": [
-    "838830b4770881779bc48a3ceb975f0a",
-    "a5e079190002fb9aa598852849e0edae",
     "87ca2fe7f90ad8f2c31d63c91b2846b4",
     "f017ca54887eabf30948dd0fdf49034b",
     "602316d82a8d7de40a3300cda71f9e13",
@@ -2001,11 +1999,11 @@
     "c8d463b272fc1e304a0475d0fdfb5ca7",
     "95918d9171ff05ba7a04f03914a1e048",
     "81dcafc53595dff95656a39ad882f59b",
-    "a9543c34a4c0149a37877897ad046dd1"
+    "a9543c34a4c0149a37877897ad046dd1",
+    "bc1e30b7b76c7dd266ce2a20d60b90f1",
+    "3df973ee9efc41f551c1c227fea8f829"
   ],
   "titles": [
-    "Luftfahrt - Japan gedenkt der Opfer des weltweit schlimmsten Flugzeugabsturzes vor 40 Jahren",
-    "Verbote an Schulen - Kinderschützer kritisieren Verbotsdebatten zur Handy-Nutzung",
     "Rechtsstreit mit Ex-Intendantin - RBB will gegen Schlesinger in Berufung gehen",
     "Nahost-Politik - Union streitet über Merz' Schwenk beim Waffenexport nach Israel",
     "Eine Milliarde Euro: Die Kommunen machen Schulden, das Land zahlt",
@@ -3003,11 +3001,11 @@
     "Hessen: Lkw-Fahrer fährt fast nonstop von Spanien bis Deutschland",
     "Ukraine - Brände nach russischen Luftangriffen",
     "Gefährliche Geschenke - Behörden warnen vor Gratis-Saatgut im Briefkasten",
-    "Zoll stoppt Frau mit 400 Luxus-Zigarren im ICE"
+    "Zoll stoppt Frau mit 400 Luxus-Zigarren im ICE",
+    "Statistisches Bundesamt - Rekordeinnahmen bei Erbschafts- und Schenkungssteuer",
+    "Wehrpflicht für Frauen: Was Deutschland von Norwegen lernen kann"
   ],
   "hashes": [
-    "0413d652df5f0728cc990fca9c88b70e",
-    "db43df9181a3e486392c900ab19622c3",
     "c1c024d0009853810cba044bb16ae79c",
     "cdf7008080a4c280422cd44e065a4711",
     "a63f1eadfe940acb321cf52272e0f111",
@@ -4005,6 +4003,8 @@
     "51f367c1ad722d653fc21731196bfdee",
     "56b8157ed82b4ea58f0af7e13e7ac52f",
     "c31f21a86a1ec647e9ca6d35e1ce179b",
-    "e5bd537c424ffe8fbf6bd9ed00e12788"
+    "e5bd537c424ffe8fbf6bd9ed00e12788",
+    "5e66f78b8fcb047a4a2af0fad4c1247a",
+    "56695e6b26184f5bed1317f623227aa6"
   ]
 }
