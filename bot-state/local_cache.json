@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/forscher-sehen-bei-kindern-suchtarige-smartphone-nutzung-110634900.html",
-    "https://www.deutschlandfunk.de/suedchinesisches-meer-china-draengt-us-kriegsschiff-ab-100.html",
     "https://www.deutschlandfunk.de/eine-zwischenbilanz-nach-100-tagen-schwarz-rot-100.html",
     "https://www.deutschlandfunk.de/gaza-und-das-verhaeltnis-israel-deutschland-interview-grisha-alroi-arloser-100.html",
     "https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/einspruch/trotz-spd-beschluss-hubig-ist-skeptisch-bei-afd-verbot-110668744.html",
     "https://www.deutschlandfunk.de/russland-ueberzieht-ukraine-mit-neuen-angriffen-mindestens-neun-tote-100.html",
     "https://www.deutschlandfunk.de/tesla-will-europaeisches-entwicklungszentrum-in-alter-fabrik-in-berlin-koepenick-einrichten-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-will-finanzielle-unterstuetzung-fuer-groenland-verdoppeln-100.html"
+    "https://www.deutschlandfunk.de/eu-kommission-will-finanzielle-unterstuetzung-fuer-groenland-verdoppeln-100.html",
+    "https://www.deutschlandfunk.de/bootsungluecke-im-mittelmeer-vor-spanien-und-italien-mit-mehreren-toten-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/wadephuls-besuch-in-indien-trumps-vakuum-sollte-man-nutzen-110668627.html"
   ],
   "content_hashes": [
-    "b6ff0217600e63edb30263c25d55188a",
-    "5e554433c9e05ee21fd43324f42f4e16",
     "b0d2209f2785129c841f37d118f05443",
     "fa3df884309668c4189f59ab85e6ac4a",
     "7ea6d9533ae4941dac8ef83edf60b900",
@@ -2001,11 +1999,11 @@
     "27d7c5b7f70ca2a2ee9a77cdb0de3631",
     "93f9512239c4b287b896986da1926fa7",
     "e2cfced95341597c39fff4c16f3432f0",
-    "fbc657c28fe8e47e9e7ffb17f9741c40"
+    "fbc657c28fe8e47e9e7ffb17f9741c40",
+    "9c97d9017fbc51204cd073a83ffc8afa",
+    "0ef47a1f2e5c144b86049989f6b23708"
   ],
   "titles": [
-    "Neues Diskussionspapier: Forscher sehen bei Kindern suchtarige Smartphone-Nutzung",
-    "Scarborough-Riff - Südchinesisches Meer: China drängt US-Kriegsschiff ab",
     "100 Tage Schwarz-Rot - Tatendrang mit Kommunikationsfehlern",
     "Teilstopp von Waffenlieferungen - \"Merz hat sich vor den Karren der Hamas spannen lassen\"",
     "Schule als Arbeitsplatz: Teilzeitquote bei Lehrkräften steigt auf 43 Prozent",
@@ -3003,11 +3001,11 @@
     "Trotz SPD-Beschluss: Hubig sieht AfD-Verbot skeptisch",
     "Vor Treffen der \"Koalition der Willigen\" - Russland überzieht Ukraine mit neuen Angriffen - mindestens neun Tote",
     "Wirtschaft - Tesla will europäisches Entwicklungszentrum in alter Fabrik in Berlin-Köpenick einrichten",
-    "Partnerschaft - EU-Kommission will finanzielle Unterstützung für Grönland verdoppeln"
+    "Partnerschaft - EU-Kommission will finanzielle Unterstützung für Grönland verdoppeln",
+    "Migration - Bootsunglücke im Mittelmeer vor Spanien und Italien mit mehreren Toten",
+    "Wadephul in Neu Delhi: Trumps Vakuum sollte man nutzen"
   ],
   "hashes": [
-    "57ab715594650c45f78354fa1a27d988",
-    "e68bca0e995c65699bb3358b1330d0c0",
     "58a3668807a5ee21f88a806c970dc4ed",
     "b287369b3fc3d78a724e516b3b5cfc1e",
     "023e8f2c31e28149bb5ac90f55fdbe4d",
@@ -4005,6 +4003,8 @@
     "9c279bee15c8b0178b62f52c14c3cf8c",
     "8ddc7bbff1492a368305c27f26213173",
     "d0d4f60186641ce4554e38cf2217037c",
-    "bcc92f03234ef6ab2b3f4f071b170c44"
+    "bcc92f03234ef6ab2b3f4f071b170c44",
+    "08c367053de962702df3cbe3788be080",
+    "1e9d979796cde24d97b29e8e984078e7"
   ]
 }
