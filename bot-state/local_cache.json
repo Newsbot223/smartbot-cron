@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/union-debattiert-ueber-merz-entscheidung-zu-waffenexporten-nach-israel-100.html",
-    "https://www.faz.net/aktuell/politik/inland/thueringen-plant-milliarden-investition-fuer-kommunale-infrastruktur-110633709.html",
-    "https://www.deutschlandfunk.de/israelischer-botschafter-prosor-haelt-beziehungen-fuer-belastet-102.html",
-    "https://www.faz.net/aktuell/politik/inland/marine-innovationszentrum-in-schleswig-holstein-das-zentrum-des-wandels-110632385.html",
-    "https://www.deutschlandfunk.de/warnung-vor-waffenverkaeufen-an-israel-102.html",
     "https://www.deutschlandfunk.de/int-donata-vogtschmidt-linke-deutsche-behoerden-digital-rueckstaendig-100.html",
     "https://www.deutschlandfunk.de/eu-staaten-rechte-der-ukraine-muessen-gewahrt-werden-108.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-in-wiesbaden-will-sich-vor-verfassungsfeinden-schuetzen-110633771.html",
@@ -999,14 +994,14 @@
     "https://www.spiegel.de/panorama/justiz/zoll-stoppt-frau-mit-400-luxus-zigarren-im-ice-a-638a548e-cd7f-4331-b101-dd5ba0e9ac1e#ref=rss",
     "https://www.deutschlandfunk.de/rekordeinnahmen-bei-erbschafts-und-schenkungssteuer-100.html",
     "https://www.faz.net/aktuell/politik/ausland/wehrpflicht-fuer-frauen-was-deutschland-von-norwegen-lernen-kann-accg-110666915.html",
-    "https://www.deutschlandfunk.de/stromausfaelle-nach-russischen-luftangriffen-102.html"
+    "https://www.deutschlandfunk.de/stromausfaelle-nach-russischen-luftangriffen-102.html",
+    "https://www.deutschlandfunk.de/putin-betont-enge-partnerschaft-mit-nordkorea-100.html",
+    "https://www.deutschlandfunk.de/neue-repressionen-gegen-zivilgesellschaft-im-iran-100.html",
+    "https://www.faz.net/aktuell/politik/inland/handys-von-polizisten-wegen-rassistischer-chatgruppe-beschlagnahmt-accg-110667957.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/us-aussenpolitik-unter-trump-immer-nur-mit-halber-kraft-110666694.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-roland-koch-appelliert-an-afd-waehler-faz-110093143.html"
   ],
   "content_hashes": [
-    "f017ca54887eabf30948dd0fdf49034b",
-    "602316d82a8d7de40a3300cda71f9e13",
-    "2ece59046a7459133cdf58c89d994ca3",
-    "4004bc15aac320f0401087e681f8fc38",
-    "94fed722a2d8b49a1f9f3c540719f41e",
     "7414a053b0b92f086d4f415144892455",
     "2d6b71697b78330227af7c889d2f34ad",
     "aefa99167bfdf0116bf197d14c9d6fb7",
@@ -2001,14 +1996,14 @@
     "a9543c34a4c0149a37877897ad046dd1",
     "bc1e30b7b76c7dd266ce2a20d60b90f1",
     "3df973ee9efc41f551c1c227fea8f829",
-    "cfe430b7408c68a25dacb2822c7a0064"
+    "cfe430b7408c68a25dacb2822c7a0064",
+    "7a1f487e15a2e2442a4735759b058b87",
+    "6ac630c667f3509993da70ee1b658c90",
+    "7cd26d5ca3c5ddc3867489fea9952d4a",
+    "c23c5ada126e6f44aa615f3a335469d2",
+    "ac68b0c7780a921b587b345619adf409"
   ],
   "titles": [
-    "Nahost-Politik - Union streitet über Merz' Schwenk beim Waffenexport nach Israel",
-    "Eine Milliarde Euro: Die Kommunen machen Schulden, das Land zahlt",
-    "Nach Teilstopp von Rüstungsexporten - Israelischer Botschafter Prosor hält Beziehungen für belastet",
-    "Schleswig-Holstein: Das Zentrum des Wandels der deutschen Marine",
-    "Europarat - Warnung vor Waffenverkäufen an Israel",
     "Datenschutz - Deutsche Behörden sind digital rückständig und von USA abhängig",
     "Vor Treffen von Trump und Putin - EU-Staaten: Rechte der Ukraine müssen gewahrt werden",
     "„Juristisches Neuland“: Hessischer Landtag will sich vor Verfassungsfeinden schützen",
@@ -3003,14 +2998,14 @@
     "Zoll stoppt Frau mit 400 Luxus-Zigarren im ICE",
     "Statistisches Bundesamt - Rekordeinnahmen bei Erbschafts- und Schenkungssteuer",
     "Wehrpflicht für Frauen: Was Deutschland von Norwegen lernen kann",
-    "Ukraine - Stromausfälle nach russischen Luftangriffen"
+    "Ukraine - Stromausfälle nach russischen Luftangriffen",
+    "Treffen in Peking - Putin betont enge Partnerschaft mit Nordkorea",
+    "Menschenrechtsorganisationen - Neue Repressionen gegen Zivilgesellschaft im Iran",
+    "Niedersachsen: Handys von Polizisten wegen rassistischer Chatgruppe beschlagnahmt",
+    "Amerikanische Außenpolitik: Immer nur mit halber Kraft",
+    "Liveblog Bundespolitik: Roland Koch: „Wenn sie AfD wählen, wird die Republik linker“"
   ],
   "hashes": [
-    "cdf7008080a4c280422cd44e065a4711",
-    "a63f1eadfe940acb321cf52272e0f111",
-    "212dfeb783df3d45c8de56871b5a776e",
-    "9d8c0b010a9313477059135dfd73d029",
-    "8dd0b831146b3e7e8eaba1bafd9b8ddc",
     "7fd37a517f976b60ca0ca40378f81979",
     "ac2eeaa1779a7e847d727816fff768e4",
     "f803147a70e18144f953992fa1c771a0",
@@ -4005,6 +4000,11 @@
     "e5bd537c424ffe8fbf6bd9ed00e12788",
     "5e66f78b8fcb047a4a2af0fad4c1247a",
     "56695e6b26184f5bed1317f623227aa6",
-    "07642fbd956d1dfdc7339b5763cfc5cd"
+    "07642fbd956d1dfdc7339b5763cfc5cd",
+    "beae431e8dde8c27196e922354a575bb",
+    "55f9404d79edde8af7731655157156ff",
+    "c16fb8a4c6af1ffa44c8ea058003edbb",
+    "ee365439245f1ce7aa1fbf2fc36fa652",
+    "1e4450dd7e81a0671b02db540d7313db"
   ]
 }
