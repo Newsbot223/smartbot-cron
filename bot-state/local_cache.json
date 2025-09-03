@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haushaltsbuero-des-kongresses-laut-schaetzungen-verlieren-zehn-millionen-us-buerger-durch-trumps-ste-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-treffen-abkommen-darf-den-aggressor-nicht-belohnen-110632593.html",
     "https://www.deutschlandfunk.de/berlins-regierender-buergermeister-erinnert-an-mauertote-100.html",
     "https://www.deutschlandfunk.de/oppositionspolitiker-lapid-schliesst-sich-aufruf-von-geisel-familien-zu-generalstreik-an-100.html",
     "https://www.spiegel.de/wirtschaft/service/deutschland-klimaanlagen-gefragt-wie-nie-produktion-steigt-um-92-prozent-a-e60a421c-617f-4211-bb3c-cef4b91d3c14#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/richter-ex-praesident-bolsonaro-wollte-eine-diktatur-errichten-100.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-interview-andreas-bovenschulte-spd-buergermeister-bremen-100.html",
     "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss",
-    "https://www.deutschlandfunk.de/riesiger-eisberg-verschwindet-wegen-erderwaermung-in-wenigen-wochen-102.html"
+    "https://www.deutschlandfunk.de/riesiger-eisberg-verschwindet-wegen-erderwaermung-in-wenigen-wochen-102.html",
+    "https://www.deutschlandfunk.de/chemie-industrie-mit-umsatzrueckgang-102.html",
+    "https://www.spiegel.de/panorama/hessen-lkw-fahrer-faehrt-fast-nonstop-von-spanien-bis-deutschland-a-00304194-1553-4f3c-8765-e26050ce3ec2#ref=rss"
   ],
   "content_hashes": [
-    "f9b8a1c4269bd1ddece5f9b858f69dee",
-    "ec8a83de299c17758339da7508eca0bf",
     "4cff67454c87a189b4d603ce13221f2d",
     "1e8c211932f974ca96809d8496095a99",
     "6cfecb4fc1e634a21c6533a67dd203a5",
@@ -2001,11 +1999,11 @@
     "7c7c440ec986db2376e865d2d4d07ba8",
     "ec24a09ef3ed1fe2ba1328f501555ce8",
     "40a0222edfbdf31ebaeeb765619bfb3d",
-    "b069ca7dec3ca96048d9285e47139327"
+    "b069ca7dec3ca96048d9285e47139327",
+    "b7e2815d44d0884f9f6ebce32f29b5f3",
+    "c8d463b272fc1e304a0475d0fdfb5ca7"
   ],
   "titles": [
-    "USA - Haushaltsbüro des Kongresses: Laut Schätzungen verlieren zehn Millionen US-Bürger durch Trumps Steuergesetz ihre Krankenversicherung",
-    "Ukrainische Gebiete: Ein Abkommen darf den Aggressor nicht belohnen",
     "Gedenken - Berlins Regierender Bürgermeister erinnert an Mauertote",
     "Israel - Oppositionspolitiker Lapid schließt sich Aufruf von Geisel-Familien zu Generalstreik an",
     "Deutschland: Klimaanlagen gefragt wie nie – Produktion steigt um 92 Prozent",
@@ -3003,11 +3001,11 @@
     "Urteilsfindung in Brasilien - Richter: Ex-Präsident Bolsonaro wollte eine \"Diktatur\" errichten",
     "Sozialstaatsreform - Bovenschulte (SPD): Pläne von Merz \"absolut unrealistisch\"",
     "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-    "Klimawandel - Riesiger Eisberg verschwindet wegen Erderwärmung \"in wenigen Wochen\""
+    "Klimawandel - Riesiger Eisberg verschwindet wegen Erderwärmung \"in wenigen Wochen\"",
+    "Auftragsmangel - Chemie-Industrie mit Umsatzrückgang",
+    "Hessen: Lkw-Fahrer fährt fast nonstop von Spanien bis Deutschland"
   ],
   "hashes": [
-    "54a478651a960288fef580ef1f01b70b",
-    "c5cea9cbf2a4903d33a5fc98156c2d7b",
     "c2c9aa3eb5a49f17282702ba6190dec8",
     "b096ed5fe222656083dd7708e65f91e3",
     "a293bf7a5ac92ff44b72da5746f63742",
@@ -4005,6 +4003,8 @@
     "db882e6a02d5d5ed668a05f5438a19c8",
     "e7ffdf6ffebc0f5bbb324b52a8113109",
     "a1304bb2b1265dbfe0c2b4ae84f4cce9",
-    "1997a39a08eeb28c0f558155652f3d45"
+    "1997a39a08eeb28c0f558155652f3d45",
+    "b1fe780ed24739c4917ace6ba1e6dcee",
+    "51f367c1ad722d653fc21731196bfdee"
   ]
 }
