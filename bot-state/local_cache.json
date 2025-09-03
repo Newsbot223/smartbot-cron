@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/100-tage-schwarz-rot-jens-spahn-attestiert-der-regierung-beim-thema-zusammenarbeit-noch-luft-nach-oben-a-fa898997-d726-4435-9ae6-9f345f84042d#ref=rss",
-    "https://www.spiegel.de/politik/wolfram-weimer-kulturstaatsminister-nennt-afd-und-linke-gleichermassen-schlecht-fuer-deutschland-a-11d90c05-de23-4d51-8c39-5fd0b385471f#ref=rss",
-    "https://www.deutschlandfunk.de/uno-wirft-israelischen-sicherheitskraeften-sexuelle-gewalt-gegen-palaestinensische-gefangene-vor-100.html",
-    "https://www.deutschlandfunk.de/eu-vertreter-und-26-westliche-aussenminister-fordern-waffenstillstand-und-ungehinderte-hilfslieferun-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-russland-bereitet-neue-offensive-vor-116.html",
     "https://www.deutschlandfunk.de/russland-bereitet-offenbar-neue-offensive-vor-ex-nato-general-domroese-vermutet-strategiewechsel-100.html",
     "https://www.deutschlandfunk.de/teilzeitquote-bei-lehrkaeften-auf-neuem-hoechststand-100.html",
     "https://www.deutschlandfunk.de/strack-zimmermann-fdp-fordert-staerke-europas-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/vorlage-zu-schuldnerberatung-auf-den-weg-gebracht-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-internationale-weltordnung-gemeinsam-gegen-china-verteidigen-106.html",
     "https://www.faz.net/aktuell/politik/inland/schroeder-wird-oeffentlich-durch-u-ausschuss-zu-nordstream-befragt-accg-110668265.html",
-    "https://www.deutschlandfunk.de/sozialstaat-quo-vadis-interview-mit-cansin-koektuerk-mdb-die-linke-100.html"
+    "https://www.deutschlandfunk.de/sozialstaat-quo-vadis-interview-mit-cansin-koektuerk-mdb-die-linke-100.html",
+    "https://www.deutschlandfunk.de/weitere-festnahmen-von-afghanen-aus-aufnahmeprogrammen-102.html",
+    "https://www.deutschlandfunk.de/betruegerische-e-mails-mit-verweis-auf-deutschlandradio-im-umlauf-100.html",
+    "https://www.deutschlandfunk.de/frueherer-tour-de-france-sieger-froome-bei-trainingsunfall-am-herz-verletzt-102.html",
+    "https://www.faz.net/einspruch/hubig-zu-verfassungsrichterwahl-afd-verbot-und-richternote-110668495.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-lobt-schroeders-mut-bei-agenda-2010-faz-110093143.html"
   ],
   "content_hashes": [
-    "683614e9ca5fedef2163f7cd499b7f6a",
-    "5a20ffab84ac95a486a64fcee4a7a5e1",
-    "952e3d17aa659fd646835a867e0e277e",
-    "1bb7d88c715e6ceb50852ef6814c81e4",
-    "a7f376b38f66fe1d2f6b8028fe270e7e",
     "89eff6de91089933ca5badc7e0ff5a54",
     "e7a556b5f5cbc0cc68e014008ca8f26e",
     "eae23e7520582f6114a3144d0a9e2e18",
@@ -2001,14 +1996,14 @@
     "8098e58637892ab48c6351720ce77510",
     "81c6f726dc091714c7f4ad6a87738b77",
     "2fcdc02024d7139f480d539072edb370",
-    "d6abb0ac61e6767fb7498c883f17e588"
+    "d6abb0ac61e6767fb7498c883f17e588",
+    "77f9a2ac7d5eb9b6ba2f9243983ea8de",
+    "b059d7e70d99a7b3d7aac8f4e16d7932",
+    "a3e29e2316c4cb9e0fbed2194449e7f6",
+    "e2375899d4310db219748a3ef1888584",
+    "ee88288e97e79b91e2f382bd379c1408"
   ],
   "titles": [
-    "100 Tage Schwarz-Rot: Jens Spahn attestiert der Regierung beim Thema Zusammenarbeit noch Luft nach oben",
-    "Wolfram Weimer: Kulturstaatsminister nennt AfD und Linke »gleichermaßen schlecht für Deutschland«",
-    "Bericht - UNO wirft israelischen Sicherheitskräften sexuelle Gewalt gegen palästinensische Gefangene vor",
-    "Gemeinsame Erklärung - EU-Vertreter und 26 westliche Außenminister fordern Waffenstillstand und ungehinderte Hilfslieferungen nach Gaza",
-    "Vor Trump-Putin-Gipfel - Selenskyj: Russland bereitet neue Offensive vor",
     "Region Donezk - Russland bereitet offenbar neue Offensive vor - Ex-NATO-General Domröse vermutet Strategiewechsel",
     "Statistisches Bundesamt - Teilzeitquote bei Lehrkäften auf neuem Höchststand",
     "Virtueller Gipfel - Strack-Zimmermann (FDP) fordert Stärke Europas",
@@ -3003,14 +2998,14 @@
     "Bundeskabinett - Vorlage zu Schuldnerberatung auf den Weg gebracht",
     "Antrittsbesuch in Indien - Außenminister Wadephul: \"Internationale Weltordnung gemeinsam gegen China verteidigen\"",
     "Nord Stream: Untersuchungsausschuss befragt Schröder öffentlich",
-    "Bundeshaushalt - Linken-Politikerin Köktürk lehnt Einsparungen beim Sozialstaat ab"
+    "Bundeshaushalt - Linken-Politikerin Köktürk lehnt Einsparungen beim Sozialstaat ab",
+    "Pakistan - Weitere Festnahmen von Afghanen aus Aufnahmeprogrammen",
+    "In eigener Sache - Betrügerische E-Mails mit Verweis auf Deutschlandradio im Umlauf",
+    "Radsport - Früherer Tour de France-Sieger Froome bei Trainingsunfall am Herz verletzt",
+    "F.A.Z. Einspruch Podcast: Hubig zu Verfassungsrichterwahl, AfD-Verbot und Richternote",
+    "Liveblog Bundespolitik: Klingbeil lobt Schröders Mut bei Agenda 2010"
   ],
   "hashes": [
-    "cb1ab246cdf4e2a42b843535007b9393",
-    "8cfffdafff74876aab9c0bdaa5ed1e7b",
-    "b29f6e5ee0dd0b558eee44311a3812a9",
-    "0236952e0df7627ea768fced72af2f5d",
-    "27c598ac21861554c0ab7cbe92ef6e8b",
     "8ec8f2f9ee4c46dd0a9f370c67b2663e",
     "3d3b902c6253028709b75e3abd7b5950",
     "cfbd10ac5c514a9f408c21646e9b65c5",
@@ -4005,6 +4000,11 @@
     "759750e54d31d31bf5a48d56488e7670",
     "c66cb29f167e01f36698c99830415534",
     "9090703b264ca0065d1a2e86bd47c6a6",
-    "c7b0039ab015f312e387c0480f54235b"
+    "c7b0039ab015f312e387c0480f54235b",
+    "4abe18da08605aaa1fdae07442b3532a",
+    "7542805a938753ada80d1952f01f417b",
+    "358ab7b60094151656928dad1a5d32a2",
+    "a1fcc87b8a68797ef5c803f1fdaf9c6a",
+    "7949c7ee4c9fe706ce651d01592518cd"
   ]
 }
