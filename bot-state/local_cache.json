@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-staaten-rechte-der-ukraine-muessen-gewahrt-werden-108.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-in-wiesbaden-will-sich-vor-verfassungsfeinden-schuetzen-110633771.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-israel-botschafter-ron-prosor-nennt-beschraenkung-der-waffenlieferungen-ein-fest-fuer-hamas-a-83e26838-c837-4d08-b79f-b904adad092c#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/asyl-in-italien-praemie-fuer-ein-moerderisches-system-110634125.html",
     "https://www.deutschlandfunk.de/erste-nationalgardisten-auf-anforderung-von-praesident-trump-in-der-hauptstadt-eingetroffen-102.html",
     "https://www.deutschlandfunk.de/griechenland-bittet-eu-um-hilfe-130.html",
     "https://www.faz.net/aktuell/politik/ausland/treffen-mit-putin-in-alaska-trump-kann-nicht-aus-seiner-haut-110634249.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/handys-von-polizisten-wegen-rassistischer-chatgruppe-beschlagnahmt-accg-110667957.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/us-aussenpolitik-unter-trump-immer-nur-mit-halber-kraft-110666694.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-roland-koch-appelliert-an-afd-waehler-faz-110093143.html",
-    "https://www.deutschlandfunk.de/umsetzungsgesetz-fuer-europaeisches-asylsystem-geas-beschlossen-100.html"
+    "https://www.deutschlandfunk.de/umsetzungsgesetz-fuer-europaeisches-asylsystem-geas-beschlossen-100.html",
+    "https://www.deutschlandfunk.de/finanzminister-klingbeil-verweist-auf-schroeders-agenda-102.html",
+    "https://www.deutschlandfunk.de/afd-politiker-krah-hat-als-zeuge-ausgesagt-102.html",
+    "https://www.deutschlandfunk.de/parlament-beschliesst-haertere-migrationspolitik-100.html",
+    "https://www.deutschlandfunk.de/oxfam-kritisiert-aenderung-des-lieferkettengesetzes-100.html"
   ],
   "content_hashes": [
-    "2d6b71697b78330227af7c889d2f34ad",
-    "aefa99167bfdf0116bf197d14c9d6fb7",
-    "504d84e244b0d083f17da27fe7ca0d52",
-    "69f1a918391c2cb726394e8ea0fd12db",
     "108a572f1247c5f5ac2d6fa97b3514b7",
     "4414afffbdcd23f44050dcc470d8019c",
     "28d442754abb50502ac9e3eee2da9512",
@@ -2001,13 +1997,13 @@
     "7cd26d5ca3c5ddc3867489fea9952d4a",
     "c23c5ada126e6f44aa615f3a335469d2",
     "ac68b0c7780a921b587b345619adf409",
-    "79d109fdd12c5ab6eb91406fe86f90f8"
+    "79d109fdd12c5ab6eb91406fe86f90f8",
+    "34e558bc954f29846e8279c53bac945f",
+    "c6378c4f5064f6cb33623a7b1d84103a",
+    "f9486eacd74af9dd1e5af0ecff2fe020",
+    "1f1fb98884f72d06a9fb1d0201c2332e"
   ],
   "titles": [
-    "Vor Treffen von Trump und Putin - EU-Staaten: Rechte der Ukraine müssen gewahrt werden",
-    "„Juristisches Neuland“: Hessischer Landtag will sich vor Verfassungsfeinden schützen",
-    "Friedrich Merz: Israel-Botschafter Ron Prosor nennt Beschränkung der Waffenlieferungen »ein Fest für Hamas«",
-    "Italienisches Gericht: Prämie für ein mörderisches System",
     "Washington D.C. - Erste Nationalgardisten auf Anforderung von Präsident Trump in der Hauptstadt eingetroffen",
     "Waldbrände - Griechenland bittet EU um Hilfe",
     "Treffen mit Putin: Trump kann nicht aus seiner Haut",
@@ -3003,13 +2999,13 @@
     "Niedersachsen: Handys von Polizisten wegen rassistischer Chatgruppe beschlagnahmt",
     "Amerikanische Außenpolitik: Immer nur mit halber Kraft",
     "Liveblog Bundespolitik: Roland Koch: „Wenn sie AfD wählen, wird die Republik linker“",
-    "Bundeskabinett - Umsetzungsgesetz für Europäisches Asylsystem GEAS beschlossen"
+    "Bundeskabinett - Umsetzungsgesetz für Europäisches Asylsystem GEAS beschlossen",
+    "Sozialstaatsreformen - Finanzminister Klingbeil verweist auf Schröders Agenda 2010",
+    "Spionage-Prozess - AfD-Politiker Krah hat als Zeuge ausgesagt",
+    "Griechenland - Parlament beschließt härtere Migrationspolitik",
+    "\"Dramatische Entkernung\" - Oxfam kritisiert Änderung des Lieferkettengesetzes"
   ],
   "hashes": [
-    "ac2eeaa1779a7e847d727816fff768e4",
-    "f803147a70e18144f953992fa1c771a0",
-    "6faf1ea06e9b6b5a0b783b49b8a55ca1",
-    "125c1c38b9f6195a1c018aa0911a3cae",
     "86c168977c69862d4a27cd3b9f914a60",
     "6259260df81ab691b2058ac87ae98c01",
     "f7a837875a640fbe1f70e991f3031fc6",
@@ -4005,6 +4001,10 @@
     "c16fb8a4c6af1ffa44c8ea058003edbb",
     "ee365439245f1ce7aa1fbf2fc36fa652",
     "1e4450dd7e81a0671b02db540d7313db",
-    "b1f51068bf070672fbaff9b844d7d9bb"
+    "b1f51068bf070672fbaff9b844d7d9bb",
+    "8b51d2442e188cb9ba5ab7ae6d21ff21",
+    "5ef0727743de4c1bd43b2c9b0137e3ff",
+    "479de0647fb762751079ba442de5d182",
+    "966e0f7473cae0d1ba5633831b883074"
   ]
 }
