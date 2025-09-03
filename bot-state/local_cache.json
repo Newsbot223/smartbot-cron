@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-strebt-kein-abkommen-mit-putin-zur-ukraine-beim-treffen-in-alaska-an-102.html",
-    "https://www.deutschlandfunk.de/staat-zahlt-3-2-milliarden-euro-unterhaltsvorschuss-100.html",
     "https://www.deutschlandfunk.de/jugendpsychiater-fordern-regeln-fuer-konsum-von-online-netzwerken-von-politik-100.html",
     "https://www.spiegel.de/ausland/johann-wadephul-cdu-aussenminister-verteidigt-israel-entscheidung-von-friedrich-merz-a-57c69ca0-2391-4373-a68a-8032055ccab5#ref=rss",
     "https://www.spiegel.de/panorama/polizeigewerkschaft-gdp-klagt-ueber-marode-dienststellen-schimmel-ungeziefer-kaputte-heizungen-a-fcb0c0f7-1d22-4325-a8a5-ea2a1430bfd9#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.aljazeera.com/news/2025/9/2/deadly-blast-hits-rally-in-pakistani-city-of-quetta-officials-say?traffic_source=rss",
     "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-vorhaben-der-kommenden-monate-100.html",
     "https://www.deutschlandfunk.de/putin-will-zum-abschluss-seines-besuchs-an-militaerparade-in-peking-teilnehmen-100.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-will-mindestens-zehn-prozent-bei-buergergeld-einsparen-a-c265b0f0-41da-4e05-bed5-b5cc75fe026f#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-will-mindestens-zehn-prozent-bei-buergergeld-einsparen-a-c265b0f0-41da-4e05-bed5-b5cc75fe026f#ref=rss",
+    "https://www.deutschlandfunk.de/us-gericht-google-wird-nicht-zerschlagen-muss-aber-einige-daten-mit-konkurrenz-teilen-100.html",
+    "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-menschen-antrag-auf-kriegsdienstverweigerung-100.html"
   ],
   "content_hashes": [
-    "7e8847a1792c6532ee5191701e26633b",
-    "218a3c9dd0515a835646937976d046b1",
     "0d7340ce8bc7d17e079603a279cffc27",
     "f06e3b17bb0b65e1b20df15bafe9e073",
     "79b064f5088cd3055f1e70db791b886f",
@@ -2001,11 +1999,11 @@
     "33ba3805439ab39b1dc6704e1e3d6447",
     "b477c92a99fc3fbf83bae1cd0e412e66",
     "f58eabd79d8fd3052c60b38c18020827",
-    "6e25508bfafea013eea591a4a6708a0b"
+    "6e25508bfafea013eea591a4a6708a0b",
+    "d5f68648b84d4fd4ec235c35714d2148",
+    "7444f9e64d0e5f9e437443bde45c399f"
   ],
   "titles": [
-    "Russischer Angriffskrieg - Trump strebt kein Abkommen mit Putin zur Ukraine beim Treffen in Alaska an",
-    "Soziales - Staat zahlt 3,2 Milliarden Euro Unterhaltsvorschuss",
     "Essstörungen - Jugendpsychiater fordern Regeln für Konsum von Online-Netzwerken von Politik",
     "Johann Wadephul (CDU): Außenminister verteidigt Israel-Entscheidung von Friedrich Merz",
     "Polizeigewerkschaft (GdP) klagt über marode Dienststellen – Schimmel, Ungeziefer, kaputte Heizungen",
@@ -3003,11 +3001,11 @@
     "Deadly blast hits rally in Pakistani city of Quetta, officials say",
     "Kanzleramt - Koalitionsausschuss berät über Vorhaben der kommenden Monate",
     "China - Putin will zum Abschluss seines Besuchs an Militärparade in Peking teilnehmen",
-    "Friedrich Merz: Kanzler will mindestens zehn Prozent bei Bürgergeld einsparen"
+    "Friedrich Merz: Kanzler will mindestens zehn Prozent bei Bürgergeld einsparen",
+    "Chrome und Android - US-Gericht: Google wird nicht zerschlagen, muss aber einige Daten mit Konkurrenz teilen",
+    "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Menschen Antrag auf Kriegsdienstverweigerung"
   ],
   "hashes": [
-    "b76eca6454fb8888778919ef0e583d10",
-    "6623b06929baf08433241bdb008af81d",
     "d774a40c5e01d279fe1b86738b6222fe",
     "49dc01b742ad6f59c01ce2a90b6a9d70",
     "cb1aeb7198603df660232177b438bb3f",
@@ -4005,6 +4003,8 @@
     "d954db8c1308bb3300145dea4e21732b",
     "75f8437f1b3ba23cc8905f6f56e9709e",
     "a5387e7bd236e5bc23aa8745070fa4a0",
-    "50e6c312fc04085f4fc002d773a531ba"
+    "50e6c312fc04085f4fc002d773a531ba",
+    "57a3f2038dc46b6e3cf7b750a5001aac",
+    "ea1597ea040f4f93913781e6fd9badf6"
   ]
 }
