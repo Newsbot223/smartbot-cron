@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eine-zwischenbilanz-nach-100-tagen-schwarz-rot-100.html",
-    "https://www.deutschlandfunk.de/gaza-und-das-verhaeltnis-israel-deutschland-interview-grisha-alroi-arloser-100.html",
-    "https://www.spiegel.de/panorama/bildung/schule-als-arbeitsplatz-teilzeitquote-bei-lehrkraeften-steigt-auf-43-prozent-a-f8d00a6b-2dda-435b-b2e5-54a9bd798f6c#ref=rss",
     "https://www.deutschlandfunk.de/geldstrafe-statt-haft-bosnischer-serbenfuehrer-dodik-muss-doch-nicht-ins-gefaengnis-100.html",
     "https://www.deutschlandfunk.de/vor-ukraine-videogipfel-interview-marie-agnes-strack-zimmermann-fdp-mdep-100.html",
     "https://www.faz.net/aktuell/politik/inland/forscher-sehen-bei-kindern-suchtartige-smartphone-nutzung-110634900.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/tesla-will-europaeisches-entwicklungszentrum-in-alter-fabrik-in-berlin-koepenick-einrichten-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-finanzielle-unterstuetzung-fuer-groenland-verdoppeln-100.html",
     "https://www.deutschlandfunk.de/bootsungluecke-im-mittelmeer-vor-spanien-und-italien-mit-mehreren-toten-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/wadephuls-besuch-in-indien-trumps-vakuum-sollte-man-nutzen-110668627.html"
+    "https://www.faz.net/aktuell/politik/ausland/wadephuls-besuch-in-indien-trumps-vakuum-sollte-man-nutzen-110668627.html",
+    "https://www.deutschlandfunk.de/merz-will-stahl-und-autoindustrie-in-deutschland-mit-gipfeltreffen-staerken-102.html",
+    "https://www.faz.net/aktuell/politik/inland/klingbeil-lobt-agenda-2010-der-weg-zu-einer-starken-spd-110668332.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-mehrheit-der-deutschen-befuerwortet-steuererhoehungen-fuer-spitzenverdiener-faz-110093143.html"
   ],
   "content_hashes": [
-    "b0d2209f2785129c841f37d118f05443",
-    "fa3df884309668c4189f59ab85e6ac4a",
-    "7ea6d9533ae4941dac8ef83edf60b900",
     "5daec7ed95bd7f87db396c94aa38d5c0",
     "6462978506ccec04139024470f3f2729",
     "e69bf67584d8a344ee4fc69ea1da15f3",
@@ -2001,12 +1998,12 @@
     "e2cfced95341597c39fff4c16f3432f0",
     "fbc657c28fe8e47e9e7ffb17f9741c40",
     "9c97d9017fbc51204cd073a83ffc8afa",
-    "0ef47a1f2e5c144b86049989f6b23708"
+    "0ef47a1f2e5c144b86049989f6b23708",
+    "1fdaed0fe497ba49cf0afba7729a0ac3",
+    "cf24fce2931edd2a5b6dcd9521a1fde7",
+    "cf9225550ffab167e28d7c13bff7cb75"
   ],
   "titles": [
-    "100 Tage Schwarz-Rot - Tatendrang mit Kommunikationsfehlern",
-    "Teilstopp von Waffenlieferungen - \"Merz hat sich vor den Karren der Hamas spannen lassen\"",
-    "Schule als Arbeitsplatz: Teilzeitquote bei Lehrkräften steigt auf 43 Prozent",
     "Republika Srpska - Geldstrafe statt Haft: Bosnischer Serbenführer Dodik muss doch nicht ins Gefängnis",
     "Trump/Putin-Treffen - Strack-Zimmermann: EU muss Stärke zeigen",
     "Neues Diskussionspapier: Forscher sehen bei Kindern suchtartige Smartphone-Nutzung",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Tesla will europäisches Entwicklungszentrum in alter Fabrik in Berlin-Köpenick einrichten",
     "Partnerschaft - EU-Kommission will finanzielle Unterstützung für Grönland verdoppeln",
     "Migration - Bootsunglücke im Mittelmeer vor Spanien und Italien mit mehreren Toten",
-    "Wadephul in Neu Delhi: Trumps Vakuum sollte man nutzen"
+    "Wadephul in Neu Delhi: Trumps Vakuum sollte man nutzen",
+    "Koalitionsgipfel - Merz will Stahl- und Autoindustrie in Deutschland mit Gipfeltreffen stärken",
+    "Klingbeil lobt Agenda 2010: Der Weg zu einer starken SPD",
+    "Liveblog Bundespolitik: Mehrheit der Deutschen befürwortet Steuererhöhungen für Spitzenverdiener"
   ],
   "hashes": [
-    "58a3668807a5ee21f88a806c970dc4ed",
-    "b287369b3fc3d78a724e516b3b5cfc1e",
-    "023e8f2c31e28149bb5ac90f55fdbe4d",
     "0b95d70abc50c85347fd69d464a62405",
     "bdaaa55ee88dcff5434edf1975a83cc1",
     "ca8a58acf540d05490f9ea4ab2a2f23c",
@@ -4005,6 +4002,9 @@
     "d0d4f60186641ce4554e38cf2217037c",
     "bcc92f03234ef6ab2b3f4f071b170c44",
     "08c367053de962702df3cbe3788be080",
-    "1e9d979796cde24d97b29e8e984078e7"
+    "1e9d979796cde24d97b29e8e984078e7",
+    "6564ce85154a9a1700984bcd95696ef3",
+    "c41b898189938e5a8dc0e47053c49a15",
+    "ac79e09f9ebd556d27147eb7d116cce8"
   ]
 }
