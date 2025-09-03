@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-kritisieren-staatsminister-weimer-als-kulturkaempfer-100.html",
-    "https://www.deutschlandfunk.de/madonna-richtet-dramatischen-appell-an-papst-leo-bitte-gehen-sie-nach-gaza-100.html",
     "https://www.deutschlandfunk.de/kiew-meldet-rueckeroberung-von-zwei-doerfern-an-der-front-100.html",
     "https://www.deutschlandfunk.de/unions-fraktionsvize-roettgen-weniger-kritik-am-waffenstopp-fuer-israel-bei-cdu-und-csu-als-es-oeffe-100.html",
     "https://www.deutschlandfunk.de/schwesig-spd-lehnt-laengere-lebensarbeitszeit-ab-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/wehrdienst-berater-fuer-kriegsdienstverweigerung-melden-massiven-zulauf-a-729e478e-88e0-481e-8a88-fb445119c8f4#ref=rss",
     "https://www.deutschlandfunk.de/trump-elf-tote-bei-angriff-von-us-militaer-auf-schiff-von-drogenschmugglern-aus-venezuela-102.html",
     "https://www.deutschlandfunk.de/spitzen-der-koalition-legen-kurs-fuer-die-kommenden-monate-fest-102.html",
-    "https://www.deutschlandfunk.de/bundesvereinigung-der-notaerzte-beklagt-zeitverluste-bei-rettungseinsaetzen-102.html"
+    "https://www.deutschlandfunk.de/bundesvereinigung-der-notaerzte-beklagt-zeitverluste-bei-rettungseinsaetzen-102.html",
+    "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-maennern-antrag-auf-kriegsdienstverweigerung-102.html",
+    "https://www.deutschlandfunk.de/windkraftausbau-in-europa-hinter-erwartungen-deutschland-vorn-100.html"
   ],
   "content_hashes": [
-    "31e11c5ed991a16fd738676c05521808",
-    "d9cd717950c55202fd425c8e423c4e72",
     "c852b18493b63ca331c7e11d11479cda",
     "8fa1a5091657225c61f90b9ceef04100",
     "31f5906d12b043a0fae8dc1f2a1c5705",
@@ -2001,11 +1999,11 @@
     "d88a296aa377919c18bb21579324e6d5",
     "45a58cfb6a1bd616ac4b6b2e9ab435c3",
     "c2807f30c8bc11be0670110b302346fb",
-    "d9bf988d7cb8d952833ad831172949cd"
+    "d9bf988d7cb8d952833ad831172949cd",
+    "20382c4447fa16a35cd84b3c1b54ec20",
+    "791413362bf70d99614c7ff54d93cf39"
   ],
   "titles": [
-    "Bundestag - Grüne kritisieren Staatsminister Weimer als \"Kulturkämpfer\"",
-    "Nahost-Krieg - Madonna richtet dramatischen Appell an Papst Leo: \"Bitte gehen Sie nach Gaza!\"",
     "Ukraine-Krieg - Kiew meldet Rückeroberung von zwei Dörfern an der Front",
     "Nahost - Unions-Fraktionsvize Röttgen: Weniger Kritik am Waffenstopp für Israel bei CDU und CSU als es öffentlich erscheint",
     "Rentendebatte - Schwesig (SPD) lehnt längere Lebensarbeitszeit ab",
@@ -3003,11 +3001,11 @@
     "Wehrdienst: Berater für Kriegsdienstverweigerung melden massiven Zulauf",
     "Südkaribik - Trump: Elf Tote bei Angriff von US-Militär auf Schiff von Drogenschmugglern aus Venezuela",
     "Berlin - Spitzen der Koalition legen Kurs für die kommenden Monate fest",
-    "Gesundheit - Bundesvereinigung der Notärzte beklagt Zeitverluste bei Rettungseinsätzen"
+    "Gesundheit - Bundesvereinigung der Notärzte beklagt Zeitverluste bei Rettungseinsätzen",
+    "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Männern Antrag auf Kriegsdienstverweigerung",
+    "Erneuerbare Energien - Windkraftausbau in Europa hinter Erwartungen - Deutschland vorn"
   ],
   "hashes": [
-    "15166fd2fc02ccba8cd639f79d2a17dc",
-    "b0ea3f2805af93a5702a7c742d0988f1",
     "542b6af4b2ccfed0e461e1ee4a416974",
     "d72a80f008527af8785135f0fc747757",
     "6098092d3c1ba934c33c5954445aeca5",
@@ -4005,6 +4003,8 @@
     "29d1b54dbbb4ba6014244812f08f244a",
     "5cdde4c2dc05d1a9c7a62e92991f0f3a",
     "726afaf4110f4ebfa29befb00aa5ddec",
-    "c28460e21008a3c4ff3a36526c215edd"
+    "c28460e21008a3c4ff3a36526c215edd",
+    "116727bbca72013261e73dc579b98ce9",
+    "01f073102fe12c1918cc9bf7d5f35664"
   ]
 }
