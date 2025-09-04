@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gedenken-an-den-mauerbau-vor-64-jahren-100.html",
-    "https://www.deutschlandfunk.de/duesseldorf-fuehrt-badeverbot-im-rhein-ein-102.html",
     "https://www.deutschlandfunk.de/landkreis-rosenheim-verbietet-durchgangsverkehr-waehrend-autobahn-staus-100.html",
     "https://www.spiegel.de/politik/deutschland/deutschland-bundesregierung-reagiert-auf-bericht-des-us-aussenministeriums-ueber-eingeschraenkte-meinungsfreiheit-a-ed6156ac-c26d-45a1-93aa-d12fe00fa4c4#ref=rss",
     "https://www.spiegel.de/netzwelt/netzpolitik/aerzte-und-forscher-sollen-unabhaengiger-von-us-datenbanken-werden-a-99323a7f-bc3f-4653-a718-3e74b14f3aad#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-venezolanisches-drogenboot-war-gefahr-fuer-die-usa-104.html",
     "https://www.deutschlandfunk.de/hamas-betont-bereitschaft-fuer-waffenrufe-israel-spricht-von-leeren-worten-100.html",
     "https://www.deutschlandfunk.de/israel-faengt-zwei-raketen-ab-huthi-bekennen-sich-zu-angriff-100.html",
-    "https://www.deutschlandfunk.de/regierung-will-streit-ueber-vom-supreme-court-klaeren-lassen-100.html"
+    "https://www.deutschlandfunk.de/regierung-will-streit-ueber-vom-supreme-court-klaeren-lassen-100.html",
+    "https://www.deutschlandfunk.de/moskau-spricht-sich-erneut-gegen-sicherheitsgarantien-fuer-die-ukraine-aus-106.html",
+    "https://www.deutschlandfunk.de/bruessel-reaktionen-auf-mercosur-abkommen-100.html"
   ],
   "content_hashes": [
-    "ab07cd78a4e1e48e423b919c931d6f53",
-    "f6b2b8045d63433bda393d2f23682ae0",
     "466095c64764a3f568386e4b9e847755",
     "a2a283283f9c42eca5a8f115c24b4252",
     "708f3a7a441d37e7efecd14b8bc079f0",
@@ -2001,11 +1999,11 @@
     "c077a278a006bafc1455c0bbeff0c377",
     "a6ec438b04852e4c3f02bb20ba8527e4",
     "49d2596af750c1c721d6ecf855e03685",
-    "e2214610eb2a2d2f680ce0bdc2fe03ab"
+    "e2214610eb2a2d2f680ce0bdc2fe03ab",
+    "8baf6192763985a742b51736b3f13e5a",
+    "c2e0e1bf59242c8d4fb0f3dff7242895"
   ],
   "titles": [
-    "13. August 1961 - Gedenken an den Mauerbau vor 64 Jahren",
-    "Tödliche Unfälle - Düsseldorf führt Badeverbot im Rhein ein",
     "Vorbild Tirol - Landkreis Rosenheim verbietet Durchgangsverkehr während Autobahn-Staus",
     "Deutschland: Bundesregierung reagiert auf Bericht des US-Außenministeriums über eingeschränkte Meinungsfreiheit",
     "Europas Ärzte und Forscher sollen unabhängiger von US-Datenbanken werden",
@@ -3003,11 +3001,11 @@
     "Südkaribik - US-Außenminister Rubio: Venezolanisches Drogenboot war Gefahr für die USA",
     "Krieg im Gazastreifen - Hamas betont Bereitschaft für Waffenrufe, Israel spricht von \"leeren Worten\"",
     "Jemen - Israel fängt zwei Raketen ab - Huthi bekennen sich zu Angriff",
-    "USA - Regierung will Streit über vom Supreme Court klären lassen"
+    "USA - Regierung will Streit über vom Supreme Court klären lassen",
+    "Treffen der \"Koalition der Willigen\" in Paris - Moskau spricht sich erneut gegen Sicherheitsgarantien für die Ukraine aus",
+    "Freihandel - EU-Staaten stimmen über Mercosur-Abkommen ab"
   ],
   "hashes": [
-    "49b47bd8ed6ae02e72f81867b607f1e0",
-    "a5d8669441aada5ba129486943a0750d",
     "5b46d181c3537c88200b6836824759e4",
     "e6dbc0ceef7694749a27c1692dca3187",
     "b9a5f72c73b2407935152a74c5f79499",
@@ -4005,6 +4003,8 @@
     "09d01b21e2773548e757e66aeac40cfe",
     "0d9eeb920cf4a470c946630a74cf4337",
     "1266f64340649a626f8c143cad9c5c99",
-    "4750f8d17530b2f5dd4d6f4fa47c4127"
+    "4750f8d17530b2f5dd4d6f4fa47c4127",
+    "c8f21bcc5cbf623c358b0b99471399e6",
+    "24526f8cbf009a4170903c972f2e8fdb"
   ]
 }
