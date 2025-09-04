@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bericht-ueber-zweistellige-millionen-kosten-100.html",
-    "https://www.deutschlandfunk.de/zusammenstoesse-bei-erneuten-proteste-gegen-regierung-vucic-102.html",
-    "https://www.deutschlandfunk.de/bitcoin-erstmals-ueber-der-marke-von-124-000-us-dollar-100.html",
     "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html",
     "https://www.faz.net/aktuell/politik/inland/linksextremismus-anschlaege-auf-die-bahn-fuer-klimaschutz-110634124.html",
     "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss",
     "https://www.faz.net/aktuell/politik/ukraine/koalition-der-willigen-was-die-ukraine-braucht-110670459.html",
     "https://www.deutschlandfunk.de/bildungsforscher-wer-soziale-kompetenzen-nicht-lernt-leidet-sein-leben-lang-darunter-102.html",
-    "https://www.deutschlandfunk.de/gastronomie-und-pendler-sollen-entlastet-werden-102.html"
+    "https://www.deutschlandfunk.de/gastronomie-und-pendler-sollen-entlastet-werden-102.html",
+    "https://www.deutschlandfunk.de/macron-26-laender-wollen-sich-an-sicherungstruppe-beteiligen-104.html",
+    "https://www.deutschlandfunk.de/ifo-institut-senkt-wachstums-erwartungen-fuest-zu-wenig-private-investitionen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-union-und-spd-in-den-herbst-der-reformen-gehen-110670746.html"
   ],
   "content_hashes": [
-    "667ef29e2ca044eb5e26b1abd3b402eb",
-    "383cd3b468e00483cea0b0fbbf5d20d2",
-    "6e9f60ddd817da6a472bc7af6ad1e3ad",
     "25b9714fa5f7d2edc73ce575dd96d0d2",
     "2cacf122018be9733145862a6f7d319c",
     "4db7b7b28e33df8624f97e32239c3a5d",
@@ -2001,12 +1998,12 @@
     "989b043d13d54bd5deaf89f95192ecf7",
     "2b0f6b7a21201c116a6193596bf03808",
     "71ac0e09267ccb92d91b9e768e23aead",
-    "446272ae14307849449588c581f9d96e"
+    "446272ae14307849449588c581f9d96e",
+    "4c23f58fa16f33475ebbdce766875366",
+    "d28e821873aa13805463f13a639102d5",
+    "61fd9bc82c33eb687108c9bf196694f8"
   ],
   "titles": [
-    "Verschärfte Grenzkontrollen - Bericht über zweistellige Millionen-Kosten",
-    "Serbien - Zusammenstöße bei erneuten Proteste gegen Regierung Vucic",
-    "Kryptogeld - Bitcoin erstmals über der Marke von 124.000 US-Dollar",
     "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen",
     "Linksextremismus: Klassen-Klimakampf gegen die Bahn",
     "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet",
@@ -3003,12 +3000,12 @@
     "Asiatische Hornisse: Meldeaktion des Nabu zeigt Verbreitung in Westdeutschland",
     "Koalition der Willigen: Was jetzt wirklich wichtig ist",
     "Fehlende Schulprogramme - Bildungsforscher: \"Wer soziale Kompetenzen nicht lernt, leidet sein Leben lang darunter\"",
-    "Bundesfinanzministerium - Gastronomie und Pendler sollen entlastet werden"
+    "Bundesfinanzministerium - Gastronomie und Pendler sollen entlastet werden",
+    "Ukraine-Beratungen - Macron: 26 Länder wollen sich an Sicherungstruppe beteiligen",
+    "Herbstprognose - Ifo-Institut senkt Wachstums-Erwartungen - Fuest: \"Zu wenig private Investitionen\"",
+    "„Herbst der Reformen“: Duzen und Bier sollen helfen"
   ],
   "hashes": [
-    "c089743392725a3939c13e574073c9f5",
-    "ec4de83cf6fc3e3375c7dba533bb2cff",
-    "fc2a92c509f37706ca8163c0a7f5b2c3",
     "df6dbb4f7d006f81f358da5fbb54182f",
     "6f0afba8945aa2402a5dd5744b45d73f",
     "994559c255eadd348a48982b7900a6dc",
@@ -4005,6 +4002,9 @@
     "b95c03bf0210b81f05f2dc04859c4854",
     "bb524459b21e5563fba16be1e92d0396",
     "b98a3576f6c2c58611f14b0c15cbaa86",
-    "4b1ccfedae32142606c7b71e76be45e5"
+    "4b1ccfedae32142606c7b71e76be45e5",
+    "c8dda1dc0fe9f44fcae691c84f990062",
+    "a4efa87d53c5fc8dcb93520122c15414",
+    "cb1d924ee65b60267eb28917cd2bdee6"
   ]
 }
