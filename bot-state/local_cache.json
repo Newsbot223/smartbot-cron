@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/100-tage-bundesregierung-unter-merz-koalition-ohne-zauber-110634248.html",
-    "https://www.deutschlandfunk.de/bundeswehr-hat-bisher-192-tonnen-hilfsgueter-fuer-die-bevoelkerung-abgeworfen-100.html",
     "https://www.deutschlandfunk.de/hackergruppe-stiehlt-ausweisdaten-zehntausender-italien-urlauber-100.html",
     "https://www.deutschlandfunk.de/gedenken-an-den-mauerbau-vor-64-jahren-100.html",
     "https://www.deutschlandfunk.de/duesseldorf-fuehrt-badeverbot-im-rhein-ein-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nur-elf-prozent-der-menschen-in-ostdeutschland-mit-bundesregierung-zufrieden-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-sichert-polen-dauerhafte-militaerpraesenz-zu-100.html",
     "https://www.deutschlandfunk.de/entscheidende-beratungen-im-haushaltsausschuss-100.html",
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-venezolanisches-drogenboot-war-gefahr-fuer-die-usa-104.html"
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-venezolanisches-drogenboot-war-gefahr-fuer-die-usa-104.html",
+    "https://www.deutschlandfunk.de/hamas-betont-bereitschaft-fuer-waffenrufe-israel-spricht-von-leeren-worten-100.html",
+    "https://www.deutschlandfunk.de/israel-faengt-zwei-raketen-ab-huthi-bekennen-sich-zu-angriff-100.html"
   ],
   "content_hashes": [
-    "aa75284c864c9c63934aaf30d877cf1a",
-    "6ca001814fb5d485c05431a89a5c865b",
     "a04faed3c1afac1e390d09f05ff769d0",
     "ab07cd78a4e1e48e423b919c931d6f53",
     "f6b2b8045d63433bda393d2f23682ae0",
@@ -2001,11 +1999,11 @@
     "1ec9ae2c246e0b3c6b1583e178f9ea12",
     "7beb766e5312aa855149cea139d59de2",
     "fe61c7e1ac8bb58bdf7a239b3966d666",
-    "c077a278a006bafc1455c0bbeff0c377"
+    "c077a278a006bafc1455c0bbeff0c377",
+    "a6ec438b04852e4c3f02bb20ba8527e4",
+    "49d2596af750c1c721d6ecf855e03685"
   ],
   "titles": [
-    "Hundert Tage Merz: Das große schwarz-rote Missverständnis",
-    "Gazastreifen - Bundeswehr hat bisher 192 Tonnen Hilfsgüter für die Bevölkerung abgeworfen",
     "Verkauf im Internet - Hackergruppe stiehlt Ausweisdaten zehntausender Italien-Urlauber",
     "13. August 1961 - Gedenken an den Mauerbau vor 64 Jahren",
     "Tödliche Unfälle - Düsseldorf führt Badeverbot im Rhein ein",
@@ -3003,11 +3001,11 @@
     "ARD-Umfrage - Nur elf Prozent der Menschen in Ostdeutschland mit Bundesregierung zufrieden",
     "Washington - US-Präsident Trump sichert Polen dauerhafte Militärpräsenz zu",
     "Bundesetat 2025 - Entscheidende Beratungen im Haushaltsausschuss",
-    "Südkaribik - US-Außenminister Rubio: Venezolanisches Drogenboot war Gefahr für die USA"
+    "Südkaribik - US-Außenminister Rubio: Venezolanisches Drogenboot war Gefahr für die USA",
+    "Krieg im Gazastreifen - Hamas betont Bereitschaft für Waffenrufe, Israel spricht von \"leeren Worten\"",
+    "Jemen - Israel fängt zwei Raketen ab - Huthi bekennen sich zu Angriff"
   ],
   "hashes": [
-    "791af913d4a1acbd49915ca0b54c1920",
-    "dc3d3308aaf0e0f38006130f0e923082",
     "54f50d42541ad07f02a458eaee8550da",
     "49b47bd8ed6ae02e72f81867b607f1e0",
     "a5d8669441aada5ba129486943a0750d",
@@ -4005,6 +4003,8 @@
     "60b28f2ede088f47d86c097cb611ebe3",
     "f7ec3608dd5de798c45807cc48b8c583",
     "3fd03033b0611471d404c5d9ba3010d6",
-    "09d01b21e2773548e757e66aeac40cfe"
+    "09d01b21e2773548e757e66aeac40cfe",
+    "0d9eeb920cf4a470c946630a74cf4337",
+    "1266f64340649a626f8c143cad9c5c99"
   ]
 }
