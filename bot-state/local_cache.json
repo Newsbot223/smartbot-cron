@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/extremwetter-in-europa-deutschland-leidet-unter-hitzewelle-in-suedeuropa-wueten-waldbraende-a-25b91204-cccf-48ad-9ae1-199ff2f3020d#ref=rss",
-    "https://www.deutschlandfunk.de/vor-dem-abschlusstag-ist-kein-uno-abkommen-gegen-plastikmuell-in-sicht-102.html",
     "https://www.deutschlandfunk.de/praesidentin-boluarte-unterzeichnet-umstrittenes-amnestiegesetz-fuer-buergerkriegs-verbrechen-100.html",
     "https://www.deutschlandfunk.de/leistungen-an-asylbewerber-als-darlehen-102.html",
     "https://www.deutschlandfunk.de/trump-will-auch-dreiertreffen-mit-putin-und-selenskyj-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierung-will-mehrwertsteuer-auf-lebensmittel-halbieren-100.html",
     "https://www.deutschlandfunk.de/google-soll-in-frankreich-und-in-usa-hunderte-millionen-euro-zahlen-100.html",
     "https://www.deutschlandfunk.de/landeswahlleiterin-nicht-signifikant-mehr-todesfaelle-vor-nrw-kommunalwahlen-104.html",
-    "https://www.deutschlandfunk.de/ifo-institut-senkt-erwartungen-an-wirtschaftswachstum-102.html"
+    "https://www.deutschlandfunk.de/ifo-institut-senkt-erwartungen-an-wirtschaftswachstum-102.html",
+    "https://www.deutschlandfunk.de/koalition-der-willigen-eroertert-sicherheitsgarantien-fuer-die-ukraine-100.html",
+    "https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss"
   ],
   "content_hashes": [
-    "9830e8b37e76c4c8bdb2b4d6be307361",
-    "61f1776fbde3943b7e4f9b894932f47e",
     "2de1d5869018fc831c4daca98c79cfac",
     "aec5033ebf75dee49592cedf9e8a4f58",
     "cfcdfe5f2dcab2939af08d47cc39fe44",
@@ -2001,11 +1999,11 @@
     "f5c1d3ab21e9ca62b8d9f739adcd7a3e",
     "892e431f9b02aaabc5537d62ae812eb2",
     "add620720e7b21e053794bc338672030",
-    "8cb8b8720c0e8af54e1a3a79b44fe236"
+    "8cb8b8720c0e8af54e1a3a79b44fe236",
+    "66f48eda02452556535c9fa60a7dd885",
+    "989b043d13d54bd5deaf89f95192ecf7"
   ],
   "titles": [
-    "Extremwetter in Europa: Deutschland leidet unter Hitzewelle, in Südeuropa wüten Waldbrände",
-    "Genf - Vor dem Abschlusstag ist kein UNO-Abkommen gegen Plastikmüll in Sicht",
     "Peru - Präsidentin Boluarte unterzeichnet umstrittenes Amnestiegesetz für Bürgerkriegs-Verbrechen",
     "Thüringer SPD-Landräte - \"Leistungen an Asylbewerber als Darlehen\"",
     "Nach Videokonferenz mit Europäern - Trump will auch Dreiertreffen mit Putin und Selenskyj",
@@ -3003,11 +3001,11 @@
     "Schweden - Regierung will Mehrwertsteuer auf Lebensmittel halbieren",
     "Datenschutzverstöße - Google soll in Frankreich und in USA hunderte Millionen Euro zahlen",
     "Verstorbene AfD-Kandidaten - Landeswahlleiterin: Nicht signifikant mehr Todesfälle vor NRW-Kommunalwahlen",
-    "Herbstprognose - Ifo-Institut senkt Erwartungen an Wirtschaftswachstum"
+    "Herbstprognose - Ifo-Institut senkt Erwartungen an Wirtschaftswachstum",
+    "Paris - Koalition der Willigen erörtert Sicherheitsgarantien für die Ukraine",
+    "Asiatische Hornisse: Meldeaktion des Nabu zeigt Verbreitung in Westdeutschland"
   ],
   "hashes": [
-    "8d71922f99bf00f99cecb4ecee534708",
-    "c3281e08fef4ba80339d1ab0842971e6",
     "1a6edae1a34531e1d7883625505b35eb",
     "9c1ead79928eef86d2ceb1839d504408",
     "835337c77cdbb0f89f487d004bd3e1fc",
@@ -4005,6 +4003,8 @@
     "91e195bc4a3107f34b75ecc149cd5ea7",
     "69615b4aec3d2381bcd99fafc5931e3d",
     "8fb85e1a2f12efaf91a112d456e4c48f",
-    "99107f556395f422891f5485a724ec75"
+    "99107f556395f422891f5485a724ec75",
+    "672427a0238a21ffedf8db95b2787b0a",
+    "b95c03bf0210b81f05f2dc04859c4854"
   ]
 }
