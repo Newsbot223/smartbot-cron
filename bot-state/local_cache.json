@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/laender-fordern-vom-bund-sondervermoegen-fuer-marode-polizeidienststellen-110636376.html",
-    "https://www.faz.net/aktuell/politik/inland/linksextremismus-anschlaege-auf-die-bahn-fuer-klimaschutz-110634124.html",
     "https://www.faz.net/aktuell/politik/inland/grenzkontrollen-haben-schon-mehr-als-80-millionen-euro-gekostet-110636453.html",
     "https://www.deutschlandfunk.de/brasilien-plant-milliardenhilfen-fuer-unternehmen-102.html",
     "https://www.deutschlandfunk.de/trump-warnt-putin-vor-konsequenzen-bei-fortlaufenden-angriffen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gastronomie-und-pendler-sollen-entlastet-werden-102.html",
     "https://www.deutschlandfunk.de/macron-26-laender-wollen-sich-an-sicherungstruppe-beteiligen-104.html",
     "https://www.deutschlandfunk.de/ifo-institut-senkt-wachstums-erwartungen-fuest-zu-wenig-private-investitionen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wie-union-und-spd-in-den-herbst-der-reformen-gehen-110670746.html"
+    "https://www.faz.net/aktuell/politik/inland/wie-union-und-spd-in-den-herbst-der-reformen-gehen-110670746.html",
+    "https://www.deutschlandfunk.de/washington-klagt-gegen-einsatz-der-nationalgarde-in-der-hauptstadt-102.html",
+    "https://www.deutschlandfunk.de/bauhaus-feiert-100-jaehriges-bestehen-102.html"
   ],
   "content_hashes": [
-    "25b9714fa5f7d2edc73ce575dd96d0d2",
-    "2cacf122018be9733145862a6f7d319c",
     "4db7b7b28e33df8624f97e32239c3a5d",
     "d2c23e1c5125fb90d34aef061e6a3c8a",
     "8c4a92df889ae7f8ed392b66c8efae02",
@@ -2001,11 +1999,11 @@
     "446272ae14307849449588c581f9d96e",
     "4c23f58fa16f33475ebbdce766875366",
     "d28e821873aa13805463f13a639102d5",
-    "61fd9bc82c33eb687108c9bf196694f8"
+    "61fd9bc82c33eb687108c9bf196694f8",
+    "32b4343b1227bc355874475fee266ca0",
+    "219103a005e4fe6ada1aac4640d5bbd7"
   ],
   "titles": [
-    "Ungeziefer und Schimmel: Länder fordern vom Bund Sondervermögen für marode Polizeidienststellen",
-    "Linksextremismus: Klassen-Klimakampf gegen die Bahn",
     "Kostenaufstellung: Grenzkontrollen haben schon mehr als 80 Millionen Euro gekostet",
     "US-Zölle - Brasilien plant Milliardenhilfen für Unternehmen",
     "Ukraine-Gespräche - Trump warnt Putin vor Konsequenzen bei fortlaufenden Angriffen",
@@ -3003,11 +3001,11 @@
     "Bundesfinanzministerium - Gastronomie und Pendler sollen entlastet werden",
     "Ukraine-Beratungen - Macron: 26 Länder wollen sich an Sicherungstruppe beteiligen",
     "Herbstprognose - Ifo-Institut senkt Wachstums-Erwartungen - Fuest: \"Zu wenig private Investitionen\"",
-    "„Herbst der Reformen“: Duzen und Bier sollen helfen"
+    "„Herbst der Reformen“: Duzen und Bier sollen helfen",
+    "USA - Washington klagt gegen Einsatz der Nationalgarde in der Hauptstadt",
+    "Dessau - Bauhaus feiert 100-jähriges Bestehen"
   ],
   "hashes": [
-    "df6dbb4f7d006f81f358da5fbb54182f",
-    "6f0afba8945aa2402a5dd5744b45d73f",
     "994559c255eadd348a48982b7900a6dc",
     "29db4e149a54da101bd69d793279a2bc",
     "edd70e57579885470acf079c995e673e",
@@ -4005,6 +4003,8 @@
     "4b1ccfedae32142606c7b71e76be45e5",
     "c8dda1dc0fe9f44fcae691c84f990062",
     "a4efa87d53c5fc8dcb93520122c15414",
-    "cb1d924ee65b60267eb28917cd2bdee6"
+    "cb1d924ee65b60267eb28917cd2bdee6",
+    "6dab21c897b3d874d678f8b183620a0f",
+    "7164b10e7caa4fffbbfe9665b378e91a"
   ]
 }
