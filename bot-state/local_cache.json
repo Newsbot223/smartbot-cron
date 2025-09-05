@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/roewekamp-cdu-haben-europaeische-interessen-gegenueber-trump-verdeutlicht-102.html",
-    "https://www.deutschlandfunk.de/aus-dem-jemen-abgefeuerte-rakete-abgefangen-100.html",
     "https://www.deutschlandfunk.de/reaktionen-nach-treffen-selenskyj-merz-und-videokonferenzen-mit-trump-100.html",
     "https://www.deutschlandfunk.de/hilfsgueter-fuer-gaza-mehr-als-100-organisationen-protestieren-gegen-huerden-seitens-israel-100.html",
     "https://www.deutschlandfunk.de/innenministerium-und-verfassungsschutz-aeussern-sich-zur-einstufung-des-afd-landesverbands-als-gesic-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ausschuss-einigt-sich-auf-etat-fuer-102.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-kommunalwahlkampf-in-nrw-wuest-und-soeder-treten-in-bocholt-auf-110671357.html",
     "https://www.deutschlandfunk.de/auch-in-koeln-badeverbot-fuer-den-rhein-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/gruenen-chef-kritisiert-gasbohrungen-vor-borkum-als-kapitulationserklaerung-beim-klimaschutz-100.html"
+    "https://www.deutschlandfunk.de/gruenen-chef-kritisiert-gasbohrungen-vor-borkum-als-kapitulationserklaerung-beim-klimaschutz-100.html",
+    "https://www.deutschlandfunk.de/trump-will-verteidigungsministerium-in-kriegsministerium-umbenennen-zustimmung-des-kongresses-erford-100.html",
+    "https://www.deutschlandfunk.de/militaerverwaltung-charkiw-drei-tote-und-zwei-verletzte-bei-russischem-angriff-100.html"
   ],
   "content_hashes": [
-    "51d55cdd536bc0cb4b384358ce7e6785",
-    "67758cef43cb4719828d3e27ea80fb19",
     "04e7a8fc70ff9a94a9b014c852169af4",
     "fac4b1d2716cb4b7a3f45e1efd3ede31",
     "2b3fa0d030b4b1d6f38da0a5d9c98675",
@@ -2001,11 +1999,11 @@
     "a360ef177be7f3c175c2e8c5f062a64b",
     "11d735861a3b34a692951a7573a1f1d4",
     "4fafd5201b367e99cf4f002755ef8dd6",
-    "fdf4ebb2d19ea810132cbc21552d1f7f"
+    "fdf4ebb2d19ea810132cbc21552d1f7f",
+    "d4258784eb63e05bd8cf58a4fe0aa33d",
+    "f56f6af8dcca2ca295643c890455373d"
   ],
   "titles": [
-    "Ukraine-Gespräche - Röwekamp (CDU): \"Haben europäische Interessen gegenüber Trump verdeutlicht\"",
-    "Israelische Armee - Aus dem Jemen abgefeuerte Rakete abgefangen",
     "Ukraine-Konferenz - Europäer verschaffen sich Gehör bei Trump",
     "Nahost - Hilfsgüter für Gaza: Mehr als 100 Organisationen protestieren gegen Hürden seitens Israel",
     "Brandenburg - Innenministerium und Verfassungsschutz äußern sich zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem",
@@ -3003,11 +3001,11 @@
     "Bundeshaushalt - Ausschuss einigt sich auf Etat für 2025",
     "Kommunalwahlkampf in NRW: „Wir machen nichts Böses, wir machen nur was Gutes“",
     "Sitzung des Stadtrates - Auch in Köln Badeverbot für den Rhein beschlossen",
-    "Nach Genehmigung durch Behörde - Grünen-Chef kritisiert Gasbohrungen vor Borkum als \"Kapitulationserklärung\" beim Klimaschutz"
+    "Nach Genehmigung durch Behörde - Grünen-Chef kritisiert Gasbohrungen vor Borkum als \"Kapitulationserklärung\" beim Klimaschutz",
+    "USA - Trump will Verteidigungsministerium in \"Kriegsministerium\" umbenennen - Zustimmung des Kongresses erforderlich",
+    "Ukraine - Militärverwaltung Charkiw: Drei Tote und zwei Verletzte bei russischem Angriff"
   ],
   "hashes": [
-    "537c4c1bb39bb7f530d15a3673fbe6f4",
-    "56fb9d8bc76307884d2e994e2ab3e170",
     "d6d819fe7d9a91b56c418b19b70aa54d",
     "cb00846b7dcbd1e73339dfa522274fbd",
     "ad58d2cf86a1aa78c0efaeb929a9e629",
@@ -4005,6 +4003,8 @@
     "e09470d348ee43d5b9d052dcc88f7c30",
     "27360ac400533866aee2208aa846142f",
     "2c2f654e7bd23f3c5e14f516ad193fca",
-    "fc2257dbe4d3943b42724a8f67d70963"
+    "fc2257dbe4d3943b42724a8f67d70963",
+    "71a8eec10642ba6236dbd948a017fc83",
+    "69f1dff2b4160d1f9fa016ab00c82300"
   ]
 }
