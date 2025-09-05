@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/armutsquote-kritik-an-berechnungsmethode-des-statistischen-bundesamt-102.html",
-    "https://www.deutschlandfunk.de/rund-70-verletzte-bei-neuen-protesten-gegen-die-regierung-von-praesident-vucic-102.html",
-    "https://www.deutschlandfunk.de/grenzkontrollen-kosteten-bisher-80-5-millionen-euro-104.html",
     "https://www.deutschlandfunk.de/die-idee-eines-palaestinensischen-staates-begraben-israels-finanzminister-smotrich-will-siedlungsbau-100.html",
     "https://www.deutschlandfunk.de/thueringer-spd-landraete-leistungen-an-asylbewerber-als-darlehen-100.html",
     "https://www.deutschlandfunk.de/situation-bei-pokrowsk-stabilisiert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/washington-d-c-klagt-gegen-einsatz-der-nationalgarde-in-der-hauptstadt-100.html",
     "https://www.deutschlandfunk.de/rueckschlag-fuer-argentiniens-praesident-milei-kongress-ueberstimmt-erstmals-veto-100.html",
     "https://www.deutschlandfunk.de/der-weg-zum-bundeshaushalt-100.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-nach-bereinigungssitzung-des-haushaltsausschusses-100.html"
+    "https://www.deutschlandfunk.de/berliner-gespraech-nach-bereinigungssitzung-des-haushaltsausschusses-100.html",
+    "https://www.deutschlandfunk.de/berichte-ueber-verletzte-nach-siedler-angriff-im-westjordanland-102.html",
+    "https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juli-deutlich-weniger-auftraege-102.html",
+    "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html"
   ],
   "content_hashes": [
-    "c67776b316aa2b82f4a5ff83c7975c06",
-    "c634503b72c04f338a625aa5f6d3e3cc",
-    "84a6c57ae0c7a651fe0e88c19a8a87b7",
     "ba7352ad2b77aa6a5d0d5a9f2a0b5c68",
     "8934781670baa62635dd8b945a63c584",
     "d5a7fc66bf30be24a5c283fff7242a4f",
@@ -2001,12 +1998,12 @@
     "f04a0b74ad29ade24fd0c19055024f5b",
     "646a4854b3f0819c683c3e0aa32ac91a",
     "46882322287622684fe43aec18616a5d",
-    "a2eba0488284a930704e155b528914fc"
+    "a2eba0488284a930704e155b528914fc",
+    "4f39399d591bc04fbab7466f995972fd",
+    "e08724dde0a5ab67995868d09f44770e",
+    "bb2531cc492096b73202a37b94bd09d3"
   ],
   "titles": [
-    "Protestbrief - Armutsquote: Kritik an Berechnungsmethode des Statistischen Bundesamt",
-    "Serbien - Rund 70 Verletzte bei neuen Protesten gegen die Regierung von Präsident Vucic",
-    "Bundesinnenministerium - Grenzkontrollen kosteten bisher 80,5 Millionen Euro",
     "Westjordanland - \"Die Idee eines palästinensischen Staates begraben\": Israels Finanzminister Smotrich will Siedlungsbau vorantreiben",
     "Sozialleistungen - Thüringer SPD-Landräte: \"Leistungen an Asylbewerber als Darlehen\"",
     "Ukrainischer Generalstab - Situation bei Pokrowsk stabilisiert",
@@ -3003,12 +3000,12 @@
     "USA - Washington D.C. klagt gegen Einsatz der Nationalgarde in der Hauptstadt",
     "Sozialpolitik - Rückschlag für Argentiniens Präsident Milei - Kongress überstimmt erstmals Veto",
     "Haushaltswoche - Der Weg zum Bundeshaushalt",
-    "Bereinigungssitzung - Haushaltsausschuss einigt sich auf Bundeshaushalt 2025"
+    "Bereinigungssitzung - Haushaltsausschuss einigt sich auf Bundeshaushalt 2025",
+    "Nahost - Berichte über Verletzte nach Siedler-Angriff im Westjordanland",
+    "Wirtschaft - Deutsche Industrie verzeichnet im Juli deutlich weniger Aufträge",
+    "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris"
   ],
   "hashes": [
-    "17f46dcddb160f11b6d5303543b88028",
-    "2d596d0bb8464cac59989d65a538a1b9",
-    "3781c70b18508a95cb2fcc2863a39438",
     "18b78bc554871c6a83510a1b9d9bb696",
     "752ded30848177d736b5593aa4a10488",
     "763603d705049ca35e3ea70a0f3f6ff4",
@@ -4005,6 +4002,9 @@
     "40a0d25b1b020c85c635ea642f2bb4da",
     "4f79f6af55fa939ee36e2b19dc8da7ff",
     "391ca629e386313408a5937e766c891f",
-    "efb044d0392ff7ee1eb06922d0d438d6"
+    "efb044d0392ff7ee1eb06922d0d438d6",
+    "8e19913e0ec8cba1bee55baeaebbb854",
+    "b3e78efd188b059aace2a1ca2a956906",
+    "120cd35e8e73b3708c31c2cfe3dcc76e"
   ]
 }
