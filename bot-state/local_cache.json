@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-wie-findet-die-spd-eine-neue-richterkandidatin-110635799.html",
-    "https://www.deutschlandfunk.de/waldbraende-auch-spanien-fordert-hilfe-der-eu-an-100.html",
     "https://www.deutschlandfunk.de/armutsquote-kritik-an-berechnungsmethode-des-statistischen-bundesamt-102.html",
     "https://www.deutschlandfunk.de/rund-70-verletzte-bei-neuen-protesten-gegen-die-regierung-von-praesident-vucic-102.html",
     "https://www.deutschlandfunk.de/grenzkontrollen-kosteten-bisher-80-5-millionen-euro-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/merz-und-wuest-bei-einweihung-von-europas-schnellstem-supercomputer-jupiter-102.html",
     "https://www.deutschlandfunk.de/russland-lehnt-internationale-truppen-als-sicherheitsgarantie-fuer-die-ukraine-ab-102.html",
     "https://www.deutschlandfunk.de/washington-d-c-klagt-gegen-einsatz-der-nationalgarde-in-der-hauptstadt-100.html",
-    "https://www.deutschlandfunk.de/rueckschlag-fuer-argentiniens-praesident-milei-kongress-ueberstimmt-erstmals-veto-100.html"
+    "https://www.deutschlandfunk.de/rueckschlag-fuer-argentiniens-praesident-milei-kongress-ueberstimmt-erstmals-veto-100.html",
+    "https://www.deutschlandfunk.de/der-weg-zum-bundeshaushalt-100.html",
+    "https://www.deutschlandfunk.de/berliner-gespraech-nach-bereinigungssitzung-des-haushaltsausschusses-100.html"
   ],
   "content_hashes": [
-    "c02013c80e4da853fa9b35c3489882ff",
-    "f1ff36f1c37416e77877f9155cb3c735",
     "c67776b316aa2b82f4a5ff83c7975c06",
     "c634503b72c04f338a625aa5f6d3e3cc",
     "84a6c57ae0c7a651fe0e88c19a8a87b7",
@@ -2001,11 +1999,11 @@
     "7376774e3ca6d59f6fff24bf4a3661dd",
     "8b37a56f89d39194f2f88a2f20a91d3f",
     "f04a0b74ad29ade24fd0c19055024f5b",
-    "646a4854b3f0819c683c3e0aa32ac91a"
+    "646a4854b3f0819c683c3e0aa32ac91a",
+    "46882322287622684fe43aec18616a5d",
+    "a2eba0488284a930704e155b528914fc"
   ],
   "titles": [
-    "Nach Brosius-Gersdorf: Wie findet die SPD eine neue Richterkandidatin?",
-    "Süden Europas - Waldbrände: Auch Spanien fordert Hilfe der EU an",
     "Protestbrief - Armutsquote: Kritik an Berechnungsmethode des Statistischen Bundesamt",
     "Serbien - Rund 70 Verletzte bei neuen Protesten gegen die Regierung von Präsident Vucic",
     "Bundesinnenministerium - Grenzkontrollen kosteten bisher 80,5 Millionen Euro",
@@ -3003,11 +3001,11 @@
     "Forschungszentrum Jülich - Merz und Wüst bei Einweihung von Europas schnellstem Supercomputer \"Jupiter\"",
     "Ukrainekrieg - Russland lehnt internationale Truppen als Sicherheitsgarantie für die Ukraine ab",
     "USA - Washington D.C. klagt gegen Einsatz der Nationalgarde in der Hauptstadt",
-    "Sozialpolitik - Rückschlag für Argentiniens Präsident Milei - Kongress überstimmt erstmals Veto"
+    "Sozialpolitik - Rückschlag für Argentiniens Präsident Milei - Kongress überstimmt erstmals Veto",
+    "Haushaltswoche - Der Weg zum Bundeshaushalt",
+    "Bereinigungssitzung - Haushaltsausschuss einigt sich auf Bundeshaushalt 2025"
   ],
   "hashes": [
-    "d55ba406837166b95679de03608e748e",
-    "976220eb9c3e56ec61663aadc6e3d500",
     "17f46dcddb160f11b6d5303543b88028",
     "2d596d0bb8464cac59989d65a538a1b9",
     "3781c70b18508a95cb2fcc2863a39438",
@@ -4005,6 +4003,8 @@
     "494fb8ed42c56a3f911694ce8c637e3b",
     "ee2a017deceb51d8cff4dd17b8d518ca",
     "40a0d25b1b020c85c635ea642f2bb4da",
-    "4f79f6af55fa939ee36e2b19dc8da7ff"
+    "4f79f6af55fa939ee36e2b19dc8da7ff",
+    "391ca629e386313408a5937e766c891f",
+    "efb044d0392ff7ee1eb06922d0d438d6"
   ]
 }
