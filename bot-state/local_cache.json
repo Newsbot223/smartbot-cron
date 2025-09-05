@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-idee-eines-palaestinensischen-staates-begraben-israels-finanzminister-smotrich-will-siedlungsbau-100.html",
-    "https://www.deutschlandfunk.de/thueringer-spd-landraete-leistungen-an-asylbewerber-als-darlehen-100.html",
-    "https://www.deutschlandfunk.de/situation-bei-pokrowsk-stabilisiert-100.html",
     "https://www.spiegel.de/netzwelt/gadgets/telekom-bringt-ki-phone-heraus-ohne-sichtbare-apps-a-207efce3-a156-4bf7-a732-2e13c3e39ffc#ref=rss",
     "https://www.deutschlandfunk.de/konjunktur-in-der-euro-zone-schwaechelt-100.html",
     "https://www.deutschlandfunk.de/innenministerium-veroeffentlicht-gutachten-ueber-afd-erwiesen-rechtsextremistisch-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/berliner-gespraech-nach-bereinigungssitzung-des-haushaltsausschusses-100.html",
     "https://www.deutschlandfunk.de/berichte-ueber-verletzte-nach-siedler-angriff-im-westjordanland-102.html",
     "https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juli-deutlich-weniger-auftraege-102.html",
-    "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html"
+    "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html",
+    "https://www.deutschlandfunk.de/messerangriff-lehrkraft-in-essener-schule-verletzt-100.html",
+    "https://www.deutschlandfunk.de/am-sonntagabend-gibt-es-eine-totale-mondfinsternis-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/erfolge-von-trump-oder-afd-wir-erleben-eine-revolution-110670810.html"
   ],
   "content_hashes": [
-    "ba7352ad2b77aa6a5d0d5a9f2a0b5c68",
-    "8934781670baa62635dd8b945a63c584",
-    "d5a7fc66bf30be24a5c283fff7242a4f",
     "a06e331527b10546bf44ded342ea05db",
     "d1d58ace19fd2aa9b93b9328b5c46f69",
     "bf6b3db382fb8c58303324898d4afcda",
@@ -2001,12 +1998,12 @@
     "a2eba0488284a930704e155b528914fc",
     "4f39399d591bc04fbab7466f995972fd",
     "e08724dde0a5ab67995868d09f44770e",
-    "bb2531cc492096b73202a37b94bd09d3"
+    "bb2531cc492096b73202a37b94bd09d3",
+    "487d65e9434f098a85e52db4a3508ae2",
+    "d0653c70ad1ce9e435079f970e56c2fa",
+    "5a99a249798cb46f3b6fccbb13bfa2df"
   ],
   "titles": [
-    "Westjordanland - \"Die Idee eines palästinensischen Staates begraben\": Israels Finanzminister Smotrich will Siedlungsbau vorantreiben",
-    "Sozialleistungen - Thüringer SPD-Landräte: \"Leistungen an Asylbewerber als Darlehen\"",
-    "Ukrainischer Generalstab - Situation bei Pokrowsk stabilisiert",
     "Telekom bringt KI-Phone heraus - ohne sichtbare Apps",
     "Wirtschaft - Konjunktur in der Euro-Zone schwächelt",
     "Brandenburg - Innenministerium veröffentlicht Gutachten über AfD - \"erwiesen rechtsextremistisch\"",
@@ -3003,12 +3000,12 @@
     "Bereinigungssitzung - Haushaltsausschuss einigt sich auf Bundeshaushalt 2025",
     "Nahost - Berichte über Verletzte nach Siedler-Angriff im Westjordanland",
     "Wirtschaft - Deutsche Industrie verzeichnet im Juli deutlich weniger Aufträge",
-    "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris"
+    "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris",
+    "Großeinsatz der Polizei - Messerangriff: Lehrkraft in Essener Schule verletzt",
+    "Blutroter Mond - Am Sonntagabend gibt es eine totale Mondfinsternis",
+    "Rechtspopulismus: Wir erleben eine Revolution"
   ],
   "hashes": [
-    "18b78bc554871c6a83510a1b9d9bb696",
-    "752ded30848177d736b5593aa4a10488",
-    "763603d705049ca35e3ea70a0f3f6ff4",
     "05b4e2a9ab8f553e08d86033f5c6be8b",
     "2d233d5801926ceb08e32a9dc0ee51f6",
     "40f059b26afc0fa992a030e7ee801081",
@@ -4005,6 +4002,9 @@
     "efb044d0392ff7ee1eb06922d0d438d6",
     "8e19913e0ec8cba1bee55baeaebbb854",
     "b3e78efd188b059aace2a1ca2a956906",
-    "120cd35e8e73b3708c31c2cfe3dcc76e"
+    "120cd35e8e73b3708c31c2cfe3dcc76e",
+    "3e6087274e7b5c9bd29db6902b44e42c",
+    "d4fe6889396524a51393dcdc52adaa0e",
+    "7d9857fd900829e9ba97f4ea9d7e99ff"
   ]
 }
