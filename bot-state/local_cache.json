@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/netzwelt/gadgets/telekom-bringt-ki-phone-heraus-ohne-sichtbare-apps-a-207efce3-a156-4bf7-a732-2e13c3e39ffc#ref=rss",
-    "https://www.deutschlandfunk.de/konjunktur-in-der-euro-zone-schwaechelt-100.html",
     "https://www.deutschlandfunk.de/innenministerium-veroeffentlicht-gutachten-ueber-afd-erwiesen-rechtsextremistisch-100.html",
     "https://www.deutschlandfunk.de/begruendung-zur-einstufung-des-afd-landesverbands-als-gesichert-rechtsextrem-veroeffentlicht-auf-kur-102.html",
     "https://www.deutschlandfunk.de/fahrplan-fuer-gespraeche-zwischen-trump-und-putin-steht-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html",
     "https://www.deutschlandfunk.de/messerangriff-lehrkraft-in-essener-schule-verletzt-100.html",
     "https://www.deutschlandfunk.de/am-sonntagabend-gibt-es-eine-totale-mondfinsternis-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/erfolge-von-trump-oder-afd-wir-erleben-eine-revolution-110670810.html"
+    "https://www.faz.net/aktuell/politik/ausland/erfolge-von-trump-oder-afd-wir-erleben-eine-revolution-110670810.html",
+    "https://www.deutschlandfunk.de/parlament-waehlt-konservativ-populistischen-politiker-anutin-charnvirakul-als-neuen-ministerpraeside-100.html",
+    "https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben-a-8ee637ae-95bb-4dff-b4fa-a2550e37d77b#ref=rss"
   ],
   "content_hashes": [
-    "a06e331527b10546bf44ded342ea05db",
-    "d1d58ace19fd2aa9b93b9328b5c46f69",
     "bf6b3db382fb8c58303324898d4afcda",
     "5220c815406965bcbef45274c0164fa4",
     "f21d12d074a7179fe4132ea01ff55244",
@@ -2001,11 +1999,11 @@
     "bb2531cc492096b73202a37b94bd09d3",
     "487d65e9434f098a85e52db4a3508ae2",
     "d0653c70ad1ce9e435079f970e56c2fa",
-    "5a99a249798cb46f3b6fccbb13bfa2df"
+    "5a99a249798cb46f3b6fccbb13bfa2df",
+    "cb923545ef82028f1b1af8054d9d3675",
+    "44f6cacb5ba4f9d32b522606941e8774"
   ],
   "titles": [
-    "Telekom bringt KI-Phone heraus - ohne sichtbare Apps",
-    "Wirtschaft - Konjunktur in der Euro-Zone schwächelt",
     "Brandenburg - Innenministerium veröffentlicht Gutachten über AfD - \"erwiesen rechtsextremistisch\"",
     "Brandenburg - Begründung zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem veröffentlicht - \"Auf Kurs, den demokratischen Staat zerstören zu wollen\"",
     "Treffen in Alaska - Fahrplan für Gespräche zwischen Trump und Putin steht",
@@ -3003,11 +3001,11 @@
     "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris",
     "Großeinsatz der Polizei - Messerangriff: Lehrkraft in Essener Schule verletzt",
     "Blutroter Mond - Am Sonntagabend gibt es eine totale Mondfinsternis",
-    "Rechtspopulismus: Wir erleben eine Revolution"
+    "Rechtspopulismus: Wir erleben eine Revolution",
+    "Thailand - Parlament wählt konservativ-populistischen Politiker Anutin Charnvirakul als neuen Ministerpräsident",
+    "DIW-Prognose: Deutschland wird ab 2026 wirtschaftlichen Aufschwung erleben"
   ],
   "hashes": [
-    "05b4e2a9ab8f553e08d86033f5c6be8b",
-    "2d233d5801926ceb08e32a9dc0ee51f6",
     "40f059b26afc0fa992a030e7ee801081",
     "9cdafd8cad07b77cf456102e9de8d543",
     "e13ec60f48381fd55ea0682ba9663fd7",
@@ -4005,6 +4003,8 @@
     "120cd35e8e73b3708c31c2cfe3dcc76e",
     "3e6087274e7b5c9bd29db6902b44e42c",
     "d4fe6889396524a51393dcdc52adaa0e",
-    "7d9857fd900829e9ba97f4ea9d7e99ff"
+    "7d9857fd900829e9ba97f4ea9d7e99ff",
+    "863cbfce907bf300fb4e903457641396",
+    "6efd3de9fd80742aa3f615dbf10c3e00"
   ]
 }
