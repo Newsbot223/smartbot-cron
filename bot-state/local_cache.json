@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hilfsgueter-fuer-gaza-mehr-als-100-organisationen-protestieren-gegen-huerden-seitens-israel-100.html",
-    "https://www.deutschlandfunk.de/innenministerium-und-verfassungsschutz-aeussern-sich-zur-einstufung-des-afd-landesverbands-als-gesic-100.html",
     "https://www.deutschlandfunk.de/israels-finanzminister-smotrich-will-siedlungsbau-vorantreiben-102.html",
     "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-wie-findet-die-spd-eine-neue-richterkandidatin-110635799.html",
     "https://www.deutschlandfunk.de/waldbraende-auch-spanien-fordert-hilfe-der-eu-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gruenen-chef-kritisiert-gasbohrungen-vor-borkum-als-kapitulationserklaerung-beim-klimaschutz-100.html",
     "https://www.deutschlandfunk.de/trump-will-verteidigungsministerium-in-kriegsministerium-umbenennen-zustimmung-des-kongresses-erford-100.html",
     "https://www.deutschlandfunk.de/militaerverwaltung-charkiw-drei-tote-und-zwei-verletzte-bei-russischem-angriff-100.html",
-    "https://www.deutschlandfunk.de/merz-und-wuest-bei-einweihung-von-europas-schnellstem-supercomputer-jupiter-102.html"
+    "https://www.deutschlandfunk.de/merz-und-wuest-bei-einweihung-von-europas-schnellstem-supercomputer-jupiter-102.html",
+    "https://www.deutschlandfunk.de/russland-lehnt-internationale-truppen-als-sicherheitsgarantie-fuer-die-ukraine-ab-102.html",
+    "https://www.deutschlandfunk.de/washington-d-c-klagt-gegen-einsatz-der-nationalgarde-in-der-hauptstadt-100.html"
   ],
   "content_hashes": [
-    "fac4b1d2716cb4b7a3f45e1efd3ede31",
-    "2b3fa0d030b4b1d6f38da0a5d9c98675",
     "b538e0ce15d6742c737bb282c50cb82f",
     "c02013c80e4da853fa9b35c3489882ff",
     "f1ff36f1c37416e77877f9155cb3c735",
@@ -2001,11 +1999,11 @@
     "fdf4ebb2d19ea810132cbc21552d1f7f",
     "d4258784eb63e05bd8cf58a4fe0aa33d",
     "f56f6af8dcca2ca295643c890455373d",
-    "7376774e3ca6d59f6fff24bf4a3661dd"
+    "7376774e3ca6d59f6fff24bf4a3661dd",
+    "8b37a56f89d39194f2f88a2f20a91d3f",
+    "f04a0b74ad29ade24fd0c19055024f5b"
   ],
   "titles": [
-    "Nahost - Hilfsgüter für Gaza: Mehr als 100 Organisationen protestieren gegen Hürden seitens Israel",
-    "Brandenburg - Innenministerium und Verfassungsschutz äußern sich zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem",
     "Westjordanland - Israels Finanzminister Smotrich will Siedlungsbau vorantreiben",
     "Nach Brosius-Gersdorf: Wie findet die SPD eine neue Richterkandidatin?",
     "Süden Europas - Waldbrände: Auch Spanien fordert Hilfe der EU an",
@@ -3003,11 +3001,11 @@
     "Nach Genehmigung durch Behörde - Grünen-Chef kritisiert Gasbohrungen vor Borkum als \"Kapitulationserklärung\" beim Klimaschutz",
     "USA - Trump will Verteidigungsministerium in \"Kriegsministerium\" umbenennen - Zustimmung des Kongresses erforderlich",
     "Ukraine - Militärverwaltung Charkiw: Drei Tote und zwei Verletzte bei russischem Angriff",
-    "Forschungszentrum Jülich - Merz und Wüst bei Einweihung von Europas schnellstem Supercomputer \"Jupiter\""
+    "Forschungszentrum Jülich - Merz und Wüst bei Einweihung von Europas schnellstem Supercomputer \"Jupiter\"",
+    "Ukrainekrieg - Russland lehnt internationale Truppen als Sicherheitsgarantie für die Ukraine ab",
+    "USA - Washington D.C. klagt gegen Einsatz der Nationalgarde in der Hauptstadt"
   ],
   "hashes": [
-    "cb00846b7dcbd1e73339dfa522274fbd",
-    "ad58d2cf86a1aa78c0efaeb929a9e629",
     "8d4391ecf050d35abb91edb46378964b",
     "d55ba406837166b95679de03608e748e",
     "976220eb9c3e56ec61663aadc6e3d500",
@@ -4005,6 +4003,8 @@
     "fc2257dbe4d3943b42724a8f67d70963",
     "71a8eec10642ba6236dbd948a017fc83",
     "69f1dff2b4160d1f9fa016ab00c82300",
-    "494fb8ed42c56a3f911694ce8c637e3b"
+    "494fb8ed42c56a3f911694ce8c637e3b",
+    "ee2a017deceb51d8cff4dd17b8d518ca",
+    "40a0d25b1b020c85c635ea642f2bb4da"
   ]
 }
