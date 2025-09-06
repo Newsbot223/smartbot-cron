@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kaliforniens-gouverneur-newsom-kuendigt-als-reaktion-auf-texas-abstimmung-ueber-wahlkreisneuzuschnit-100.html",
-    "https://www.faz.net/aktuell/politik/inland/steuerzahlerbund-fordert-weniger-verbeamtungen-110638445.html",
     "https://www.deutschlandfunk.de/begruendung-zur-einstufung-des-afd-landesverbands-als-gesichert-rechtsextrem-veroeffentlicht-110.html",
     "https://www.deutschlandfunk.de/gebiete-abgeben-gegen-waffenruhe-kiews-blick-auf-alaskagespraech-100.html",
     "https://www.deutschlandfunk.de/kaum-noch-zusaetzliche-arbeitsplaetze-in-deutschland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/stoerungen-und-proteste-rund-um-streitgespraech-von-oberbuergermeister-palmer-mit-afd-landeschef-fro-106.html",
     "https://www.deutschlandfunk.de/ob-palmer-diskutiert-mit-afd-landeschef-frohnmaier-102.html",
     "https://www.deutschlandfunk.de/spd-stellt-sich-fuer-landtagswahl-2026-auf-klingbeil-kein-spalten-und-polarisieren-100.html",
-    "https://www.deutschlandfunk.de/bundesschuelerkonferenz-fuehlt-sich-in-debatte-ueber-social-media-begrenzungen-uebergangen-100.html"
+    "https://www.deutschlandfunk.de/bundesschuelerkonferenz-fuehlt-sich-in-debatte-ueber-social-media-begrenzungen-uebergangen-100.html",
+    "https://www.deutschlandfunk.de/erneut-gewalt-bei-protesten-mehr-als-40-festnahmen-in-novi-sad-100.html",
+    "https://www.faz.net/aktuell/politik/mehr-als-15-jahre-krankgeschrieben-disziplinarverfahren-gegen-lehrerin-aus-nrw-eingeleitet-accg-110673812.html"
   ],
   "content_hashes": [
-    "90107f192f7a06768d46a13b23299fa6",
-    "fbd7eba98ca6015cf6d26a20c9e9a1ad",
     "34b62a198a79b70e34e49caec9edb7c0",
     "1d4dab3878e763b4510eb20797e6fc62",
     "a28f2e687aaf3cf7a1ecabd16e656eaf",
@@ -2001,11 +1999,11 @@
     "fea6d6e33881dc5bf28d5250addf714c",
     "7ef9b98afb603f10d72a0421a38bd821",
     "c573189fa3b26e66f9e67ebb4091c031",
-    "aa278e289fbe5693014f78b99acb6e67"
+    "aa278e289fbe5693014f78b99acb6e67",
+    "ad6d0bf63610699ae814670550467841",
+    "28ececc06b60e7e8766a27e770314f84"
   ],
   "titles": [
-    "Vor den Midterms in den USA - Kaliforniens Gouverneur Newsom kündigt als Reaktion auf Texas Abstimmung über Wahlkreisneuzuschnitt an",
-    "Belastung für Steuerzahler: Steuerzahlerbund fordert weniger Verbeamtungen",
     "Brandenburg - Begründung zur Einstufung des AfD-Landesverbands als gesichert rechtsextrem veröffentlicht",
     "Gespräche in Alaska - Kiews Blick auf das Treffen von Trump und Putin",
     "Wirtschaft - Kaum noch zusätzliche Arbeitsplätze in Deutschland",
@@ -3003,11 +3001,11 @@
     "Tübingen - Störungen und Proteste rund um Streitgespräch von Oberbürgermeister Palmer mit AfD-Landeschef Frohnmaier",
     "Tübingen - OB Palmer diskutiert mit AfD-Landeschef Frohnmaier",
     "Sachsen-Anhalt - SPD stellt sich für Landtagswahl 2026 auf - Klingbeil: Kein Spalten und Polarisieren",
-    "Tiktok & Co - Bundesschülerkonferenz fühlt sich in Debatte über Social-Media-Begrenzungen übergangen"
+    "Tiktok & Co - Bundesschülerkonferenz fühlt sich in Debatte über Social-Media-Begrenzungen übergangen",
+    "Serbien - Erneut Gewalt bei Protesten - mehr als 40 Festnahmen in Novi Sad",
+    "Nach Gerichtsentscheid: Disziplinarverfahren gegen dauerkranke Lehrerin"
   ],
   "hashes": [
-    "45348e51b2b275efe137b8b2ae685f04",
-    "9bdbd6fdf92cf6482c928b304921f6c0",
     "d89a550e2c473285348438ecfaf55dcf",
     "0edb86ac62b3076e568eb2affac5d3d5",
     "adb473631424a2197118822be88d53ee",
@@ -4005,6 +4003,8 @@
     "cb4063b6e1e4fb43a6c552a462c5bcfa",
     "b86341857008b2883790110bb9098852",
     "6353fbc19faf2ec63827e2de7ef1805b",
-    "ddea030df13d4523ba422c9a8a1188c3"
+    "ddea030df13d4523ba422c9a8a1188c3",
+    "7e7444b8bf9fa921189cf3aef77c4be0",
+    "d774c5de1e9d570ff9d77e5ace0f4451"
   ]
 }
