@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-stuft-reporter-ohne-grenzen-als-unerwuenscht-ein-100.html",
-    "https://www.deutschlandfunk.de/trump-europaeer-koennten-bei-zweitem-treffen-mit-putin-dabei-sein-100.html",
     "https://www.deutschlandfunk.de/uno-verlangt-von-israel-stopp-des-siedlungsbaus-102.html",
     "https://www.deutschlandfunk.de/die-ersten-100-tage-in-der-klimapolitik-verstolpert-greenpeace-kritisiert-bundeskanzler-merz-100.html",
     "https://www.deutschlandfunk.de/uno-und-eu-verlangen-von-israel-stopp-des-siedlungsbaus-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/chefs-der-jugendorganisationen-von-spd-und-cdu-fordern-staerkere-profilierung-100.html",
     "https://www.deutschlandfunk.de/gruenen-chefin-brantner-fordert-social-media-verbot-bis-16-jahre-100.html",
     "https://www.spiegel.de/politik/deutschland/spd-und-union-jusos-und-ju-fordern-klare-kante-gegenueber-koalitionspartner-a-5af936bc-e086-4894-b268-af6648d2ed26#ref=rss",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-jusos-und-ju-mehr-kante-gegenueber-koalitionspartner-zeigen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-jusos-und-ju-mehr-kante-gegenueber-koalitionspartner-zeigen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/trump-droht-mit-zoellen-nach-eu-strafe-fuer-google-102.html",
+    "https://www.spiegel.de/politik/deutschland/verteidigungsausgaben-dietmar-bartsch-kritisiert-etat-als-vorteil-fuer-ruestungsindustrie-a-de6ad9ef-b2eb-4d93-90dc-5f1fe115ab80#ref=rss"
   ],
   "content_hashes": [
-    "edcd1a95a121d0c573bbdc2f3b69c4f5",
-    "923a2c5a2b07d57caf346d2222a89865",
     "c1591a27693fb1f1ccfbda389fab0d2e",
     "f187723a8b59e291c1f78e13885dba1b",
     "0637b92ca0d07924c74945095c68f2bf",
@@ -2001,11 +1999,11 @@
     "a1f963ad726105bef969e357f135dee7",
     "1a5c62ff8e769cea6c4f4a8db8738872",
     "fd0b21ea90d92a466179b2363ce6b6d7",
-    "273a345be5207b67c42b5261c822da6e"
+    "273a345be5207b67c42b5261c822da6e",
+    "68606ce1ab2c2ba8ab9dc1d19de0550a",
+    "38b038aca8bfb3e1e29d2260bb2612ca"
   ],
   "titles": [
-    "NGO - Russland stuft Reporter ohne Grenzen als \"unerwünscht\" ein",
-    "Krieg in der Ukraine - Trump: Europäer könnten bei zweitem Treffen mit Putin dabei sein",
     "Westjordanland - UNO verlangt von Israel Stopp des Siedlungsbaus",
     "Dlf-Interview - Die ersten 100 Tage in der Klimapolitik \"verstolpert\": Greenpeace kritisiert Bundeskanzler Merz",
     "Westjordanland - UNO und EU verlangen von Israel Stopp des Siedlungsbaus",
@@ -3003,11 +3001,11 @@
     "Koalition - Chefs der Jugendorganisationen von SPD und CDU fordern stärkere Profilierung",
     "Tiktok & Co - Grünen-Chefin Brantner fordert Social-Media-Verbot bis 16 Jahre",
     "SPD und Union: Jusos und JU fordern klare Kante gegenüber Koalitionspartner",
-    "Liveblog Bundespolitik: Mehr Debatte, weniger Pöbelei"
+    "Liveblog Bundespolitik: Mehr Debatte, weniger Pöbelei",
+    "Wirtschaft - Trump droht mit Zöllen nach EU-Strafe für Google",
+    "Verteidigungsausgaben: Dietmar Bartsch kritisiert Etat als Vorteil für Rüstungsindustrie"
   ],
   "hashes": [
-    "c5deb28311fad535f19a5739a758dd54",
-    "20602f8e3e5cbfec393836a619327dd4",
     "63458a0bfc52f50f8f08071de0bec2a4",
     "888bc13967606eaab6e90a963afb1454",
     "2f153332713cd8707622b13dc8efa4ee",
@@ -4005,6 +4003,8 @@
     "5692e7a21cfd8bfd0e77e6ce17b4891d",
     "eab6fb93da38c10797959e88ce131f57",
     "b99054c642755df4e1ce2ae7463fcff6",
-    "4b13c2b580e6a3c4f5f32adb76ca1dc0"
+    "4b13c2b580e6a3c4f5f32adb76ca1dc0",
+    "5cc87708b3b5b288cc03267e006e748d",
+    "15a24620ffe4b25c3ec864c7dac4f32a"
   ]
 }
