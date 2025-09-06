@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneut-istanbuler-bezirksbuergermeister-festgenommen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsgespraech-kritik-an-armutsberechnung-100.html",
     "https://www.deutschlandfunk.de/djv-protestiert-gegen-de-facto-verbot-von-reporter-ohne-grenzen-in-russland-100.html",
     "https://www.deutschlandfunk.de/traumatherapeutin-winzely-kriegserlebnisse-dramatisch-fuer-entwicklung-junger-menschen-102.html",
     "https://www.spiegel.de/panorama/justiz/europa-park-rust-maedchen-aus-freizeitbad-gelockt-und-missbraucht-internationale-fahndung-a-1376fc39-2a91-4aff-a95b-3f11fa9446fe#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bas-plant-hoehere-sozialbeitraege-fuer-gutverdiener-auch-mindesteinkommen-fuer-private-krankenversic-100.html",
     "https://www.spiegel.de/reise/europa/europaeischer-bahnhofsindex-2025-deutschland-hat-die-miesesten-bahnhoefe-und-einen-guten-a-b2ed7a34-75a0-449c-a04d-915377e3d03f#ref=rss",
     "https://www.spiegel.de/wirtschaft/trumps-zoelle-postsendungen-in-die-usa-brechen-um-80-prozent-ein-a-7c277e27-cdda-4d43-940b-8ef4ff16ce9f#ref=rss",
-    "https://www.deutschlandfunk.de/kanzleramtschef-frei-hoehere-reichensteuer-wuerde-vor-allem-mittelstand-treffen-100.html"
+    "https://www.deutschlandfunk.de/kanzleramtschef-frei-hoehere-reichensteuer-wuerde-vor-allem-mittelstand-treffen-100.html",
+    "https://www.deutschlandfunk.de/polizei-verhaftet-dutzende-demonstranten-wegen-unterstuetzung-der-verbotenen-gruppe-palestine-action-100.html",
+    "https://www.deutschlandfunk.de/kommentar-zur-erbschaftssteuer-debatte-mehr-gerechtigkeit-noetig-100.html"
   ],
   "content_hashes": [
-    "a5bd62ca8b7ed33feaf7836dd54df7bd",
-    "cdf3d188b44a7211ec750086d7d4cf85",
     "87d8143d7d899eeee6bc5504fb9d0d7c",
     "2cef46cf680bff31cdf018a724d3cc18",
     "f84f302d34f63ae89db9af6b961a0dff",
@@ -2001,11 +1999,11 @@
     "cb7401dc7d1808efb422c2e6d7567b61",
     "8541edaab2e353833c84a0b88d6a24bc",
     "b2369add8faa1568e8f8d921595dbb7b",
-    "e41ed7fb01ef7d0a9fc81771e8fce320"
+    "e41ed7fb01ef7d0a9fc81771e8fce320",
+    "ae41ceda5c496082e94b64a41f49948d",
+    "1cf764a94ae8b332c0f0441e67ebf8fd"
   ],
   "titles": [
-    "Türkei - Erneut Istanbuler Bezirksbürgermeister festgenommen",
-    "Kritik an Statistik - Armut wird in Deutschland kleingerechnet",
     "Einstufung als unerwünschte Organisation - DJV protestiert gegen De-facto-Verbot von \"Reporter ohne Grenzen\" in Russland",
     "Interview im Deutschlandfunk - Traumatherapeutin Winzely: \"Kriegserlebnisse dramatisch für Entwicklung junger Menschen\"",
     "Europa-Park Rust: Mädchen aus Freizeitbad gelockt und missbraucht – internationale Fahndung",
@@ -3003,11 +3001,11 @@
     "Arbeitsministerium - Bas plant höhere Sozialbeiträge für Gutverdiener - auch Mindesteinkommen für private Krankenversicherung soll steigen",
     "Europäischer Bahnhofsindex 2025: Deutschland hat die miesesten Bahnhöfe (und einen guten)",
     "Trumps Zölle: Postsendungen in die USA brechen um 80 Prozent ein",
-    "Debatte um Steuererhöhungen - Kanzleramtschef Frei: Höhere Reichensteuer würde vor allem Mittelstand treffen"
+    "Debatte um Steuererhöhungen - Kanzleramtschef Frei: Höhere Reichensteuer würde vor allem Mittelstand treffen",
+    "London - Polizei verhaftet Dutzende Demonstranten wegen Unterstützung der verbotenen Gruppe \"Palestine Action\"",
+    "Kommentar - Reform der Erbschaftssteuer ist notwendig - für Gerechtigkeit"
   ],
   "hashes": [
-    "567c925e5584fcfe3fb1dc3643836305",
-    "85bc3e12524c20bfeb32529774b9d6b5",
     "a945189602b8671c41eeb06b44e5c5dc",
     "85f5464749006d87ed0c64d4e367131b",
     "8b3adf6630995a98f7688686567c170d",
@@ -4005,6 +4003,8 @@
     "2650e63c2cc20b77bda595d63fe4cf2b",
     "d1df2c748340ec0961987b04799a11ae",
     "639635d5f1e98a8e48a5628acb12a62a",
-    "9dbf5edff7bdf4c53e8e22645b933d53"
+    "9dbf5edff7bdf4c53e8e22645b933d53",
+    "ab671f77a57b190deaf45987e529db38",
+    "a57e6676ba89c58ec7ec42c26b81808a"
   ]
 }
