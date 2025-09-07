@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-104.html",
-    "https://www.deutschlandfunk.de/bundespolizei-soll-mehr-rechte-bei-abschiebungen-und-zur-drohnen-abwehr-bekommen-100.html",
     "https://www.deutschlandfunk.de/washington-verklagt-trump-wegen-uebernahme-der-hauptstadtpolizei-100.html",
     "https://www.deutschlandfunk.de/libanons-ministerpraesident-weist-buergerkriegs-drohungen-von-hisbollah-chef-zurueck-100.html",
     "https://www.faz.net/aktuell/politik/kommentar-zum-israelischen-siedlerprojekt-e1-keil-ins-westjordanland-110639843.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-will-reformen-wie-bei-kanzler-schroeder-100.html",
     "https://www.deutschlandfunk.de/raketenangriff-auf-israel-aus-dem-gaza-streifen-102.html",
     "https://www.deutschlandfunk.de/premierminister-ishiba-kuendigt-ruecktritt-an-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/heiligsprechung-von-carlo-acutis-wozu-braucht-man-heute-noch-heilige-110672958.html"
+    "https://www.faz.net/aktuell/politik/ausland/heiligsprechung-von-carlo-acutis-wozu-braucht-man-heute-noch-heilige-110672958.html",
+    "https://www.deutschlandfunk.de/aus-psychiatrie-geflohener-straftaeter-in-kolumbien-gefasst-102.html",
+    "https://www.deutschlandfunk.de/uno-experte-not-in-afghanistan-so-gross-wie-noch-nie-102.html"
   ],
   "content_hashes": [
-    "05fa8b9b8d54aeba4c58ffb3a44d7d3e",
-    "846fe6925cddffda06b5f888aec8df02",
     "d7222cf786ae1c7a34ec2e4ad6470cb8",
     "107a4cac175bd385ae825e398f5b0e1e",
     "93b1c6b4c190af2e73f6eec0787d6b3a",
@@ -2001,11 +1999,11 @@
     "a0677a816d96a6e0e38c550957ed95f7",
     "b9d81fdca733ee262281b238d1d62038",
     "6685d316ce8b6c3edbe9faa7829a950a",
-    "0b39626ac5c76d88e036db70db203d03"
+    "0b39626ac5c76d88e036db70db203d03",
+    "43f0b33b2ace8887f489e549aacd3f9e",
+    "ec27d4e4888a88e08892743630cc3f6e"
   ],
   "titles": [
-    "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden",
-    "Gesetzentwurf - Bundespolizei soll mehr Rechte bei Abschiebungen und zur Drohnen-Abwehr bekommen",
     "USA - Washington verklagt Trump wegen Übernahme der Hauptstadtpolizei",
     "Geplante Entwaffnung der pro-iranischen Miliz - Libanons Ministerpräsident weist Bürgerkriegs-Drohungen von Hisbollah-Chef zurück",
     "Kritik an Israel: Den Palästinenserstaat begraben",
@@ -3003,11 +3001,11 @@
     "Koalition - CDU-Generalsekretär Linnemann will Reformen wie bei Kanzler Schröder",
     "Nahost - Raketenangriff auf Israel aus dem Gaza-Streifen",
     "Japan - Premierminister Ishiba kündigt Rücktritt an",
-    "Heiligsprechung von Millennial: Wozu braucht man heute noch Heilige?"
+    "Heiligsprechung von Millennial: Wozu braucht man heute noch Heilige?",
+    "Kriminalität - Aus Psychiatrie geflohener Straftäter in Kolumbien gefasst",
+    "Nach den Erdbeben - UNO-Experte: Not in Afghanistan so groß wie noch nie"
   ],
   "hashes": [
-    "005e21300230c04ba83cced1061a001f",
-    "66759e7454e9f359357ec3ee368292a6",
     "62c708e2f128b8b764a8a9e735988897",
     "c7b42bf5c61ce99ae40d02fd9bcbd107",
     "186b45975daa8c7622e10bf808dedbfd",
@@ -4005,6 +4003,8 @@
     "752fba5ec29f08827d740330d6c89827",
     "f9dc9449cb14c4ac1e1ac5f64526ec73",
     "8c10d0ae0b72bfb58145344998987286",
-    "4e78dd31247984d78d991cde355722e0"
+    "4e78dd31247984d78d991cde355722e0",
+    "e92b7d1e0f2bdff82c16d6edf1bf00fc",
+    "4397c74e3f84a59ee0c5c492b06e593e"
   ]
 }
