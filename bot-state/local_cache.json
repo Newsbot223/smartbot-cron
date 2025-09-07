@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/netzwelt/apps/spotify-schraubt-abopreise-hoch-und-fuehrt-neuen-basic-tarif-ein-a-f02ba63d-eedd-4dd8-9c17-bac06968c835#ref=rss",
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/duell-oder-duett-in-alaska-was-will-trump-was-will-putin-110639456.html",
-    "https://www.faz.net/aktuell/politik/ausland/abschiebungen-aus-aufnahmeprogramm-fuer-afghanen-schaebig-und-zynisch-110639716.html",
     "https://www.faz.net/einspruch/streit-um-beamtenstatus-lehrer-als-angestellte-110639812.html",
     "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-104.html",
     "https://www.deutschlandfunk.de/bundespolizei-soll-mehr-rechte-bei-abschiebungen-und-zur-drohnen-abwehr-bekommen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/erneut-waldbraende-in-portugal-und-spanien-102.html",
     "https://www.deutschlandfunk.de/russische-drohnenangriffe-auf-kiew-sumy-und-saporischschja-russland-meldet-drei-tote-in-belgorod-100.html",
     "https://www.deutschlandfunk.de/regierungsgebaeude-in-kiew-nach-russischen-angriffen-in-flammen-102.html",
-    "https://www.deutschlandfunk.de/afd-strebt-alleinregierung-an-100.html"
+    "https://www.deutschlandfunk.de/afd-strebt-alleinregierung-an-100.html",
+    "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-will-reformen-wie-bei-kanzler-schroeder-100.html",
+    "https://www.deutschlandfunk.de/raketenangriff-auf-israel-aus-dem-gaza-streifen-102.html",
+    "https://www.deutschlandfunk.de/premierminister-ishiba-kuendigt-ruecktritt-an-102.html"
   ],
   "content_hashes": [
-    "c135e2068d7d066e37cda1e8d54eac7c",
-    "17aa4ef7ec532def8ce35d53b974ec5f",
-    "9caf0e843f2d0c92390850b5b948ca7b",
     "5edf387536ebabb16dae938e62b7aae6",
     "05fa8b9b8d54aeba4c58ffb3a44d7d3e",
     "846fe6925cddffda06b5f888aec8df02",
@@ -2001,12 +1998,12 @@
     "37b10568170ca75dd69fbb42d1a02044",
     "92021321ddb0843bd82e599a7deabf6b",
     "e3cdb5537970af4e2d195cd1ce371918",
-    "f92d84d0c2bd8de42f64ad5e2472daba"
+    "f92d84d0c2bd8de42f64ad5e2472daba",
+    "a0677a816d96a6e0e38c550957ed95f7",
+    "b9d81fdca733ee262281b238d1d62038",
+    "6685d316ce8b6c3edbe9faa7829a950a"
   ],
   "titles": [
-    "Spotify schraubt Abopreise hoch und führt neuen Basic-Tarif ein",
-    "F.A.Z. Podcast für Deutschland: Duell oder Duett in Alaska: Was will Trump? Was will Putin?",
-    "Abschiebungen nach Afghanistan: Schäbig und zynisch",
     "Streit um Beamtenstatus: „Verbeamtung der Lehrer stellt sicher, dass Schulen streikfrei bleiben“",
     "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden",
     "Gesetzentwurf - Bundespolizei soll mehr Rechte bei Abschiebungen und zur Drohnen-Abwehr bekommen",
@@ -3003,12 +3000,12 @@
     "Iberische Halbinsel - Erneut Waldbrände in Portugal und Spanien",
     "Ukraine-Krieg - Russische Drohnenangriffe auf Kiew, Sumy und Saporischschja - Russland meldet drei Tote in Belgorod",
     "Ukraine - Regierungsgebäude in Kiew nach russischen Angriffen in Flammen",
-    "Sachsen-Anhalt - AfD strebt Alleinregierung an"
+    "Sachsen-Anhalt - AfD strebt Alleinregierung an",
+    "Koalition - CDU-Generalsekretär Linnemann will Reformen wie bei Kanzler Schröder",
+    "Nahost - Raketenangriff auf Israel aus dem Gaza-Streifen",
+    "Japan - Premierminister Ishiba kündigt Rücktritt an"
   ],
   "hashes": [
-    "a8f407176d12bb98e057dcffd2dba6c1",
-    "b75c4e5a9d6f6594bbd9acef2fb44223",
-    "e0504aa5347de782cad8fa3010472f14",
     "7d516630616764e129e055bfcf17d38e",
     "005e21300230c04ba83cced1061a001f",
     "66759e7454e9f359357ec3ee368292a6",
@@ -4005,6 +4002,9 @@
     "6b47decf63233f6c0922aac3ec0b93b7",
     "0715b905d6af0e9f59458fc9710beb72",
     "143de97233fb2a52506de17ffcb110af",
-    "11e4b14f5c651d5c2592d08777ca51fa"
+    "11e4b14f5c651d5c2592d08777ca51fa",
+    "752fba5ec29f08827d740330d6c89827",
+    "f9dc9449cb14c4ac1e1ac5f64526ec73",
+    "8c10d0ae0b72bfb58145344998987286"
   ]
 }
