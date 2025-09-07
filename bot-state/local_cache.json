@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/taliban-feiern-vierten-jahrestag-ihrer-machtuebernahme-100.html",
-    "https://www.deutschlandfunk.de/trump-vor-gipfel-mit-putin-kiew-wird-selbst-entscheiden-ukraine-dringt-auf-dreier-treffen-100.html",
-    "https://www.deutschlandfunk.de/leverkusen-magdeburg-und-union-berlin-in-naechster-runde-100.html",
-    "https://www.faz.net/aktuell/politik/inland/innenminister-auf-sommerreise-der-neue-dobrindt-sound-110639856.html",
-    "https://www.deutschlandfunk.de/finanz-verbraucherschutzbehoerde-kann-weitgehend-aufgeloest-werden-102.html",
     "https://www.deutschlandfunk.de/trump-hat-putin-in-alaska-empfangen-100.html",
     "https://www.deutschlandfunk.de/bundesligist-bremen-unterliegt-dem-zweitligisten-bielefeld-106.html",
     "https://www.deutschlandfunk.de/erste-gespraechsrunde-von-trump-und-putin-beendet-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/uno-experte-not-in-afghanistan-so-gross-wie-noch-nie-102.html",
     "https://www.deutschlandfunk.de/italienischer-teenager-carlo-acutis-heilig-gesprochen-102.html",
     "https://www.faz.net/aktuell/politik/inland/auslaenderkriminalitaet-reul-will-auch-doppelstaatler-erfassen-110672502.html",
-    "https://www.deutschlandfunk.de/koalition-diskutiert-ueber-hoehere-beitragsbemessungsgrenzen-100.html"
+    "https://www.deutschlandfunk.de/koalition-diskutiert-ueber-hoehere-beitragsbemessungsgrenzen-100.html",
+    "https://www.deutschlandfunk.de/weitere-untersuchungen-zum-standseilbahn-unglueck-angekuendigt-erster-bericht-vorgelegt-102.html",
+    "https://www.deutschlandfunk.de/israelisches-militaer-meldet-luftangriffe-aus-jemen-und-dem-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/suedkorea-gibt-einigung-ueber-in-den-usa-festgenommene-arbeiter-bekannt-100.html",
+    "https://www.deutschlandfunk.de/vor-der-iaa-soeder-will-autoindustrie-retten-debatte-ber-verbrennerverbot-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/zensur-und-strafe-wie-russland-das-internet-kontrolliert-110672451.html"
   ],
   "content_hashes": [
-    "c67dca25feb619676f807dcc629ac4a3",
-    "fe8b9c6db27d57d0fe91c5046e181ddd",
-    "b838fdb7afccc7756b1af5106fb2e4b7",
-    "4d18ff8ac5ce4ccbeae9cea762b25d4c",
-    "6f93ccb2830501ade6794c5183243d9f",
     "896f2b847a4a53ba561437b4ebbca5ac",
     "ecb4434425efcabba267de0e40fef509",
     "95d900fb6043d3604b4f7157d2708319",
@@ -2001,14 +1996,14 @@
     "ec27d4e4888a88e08892743630cc3f6e",
     "fb093331639ce9d60bdceba1bc4a26ff",
     "a878497b1a7d971a4d975afc0cc704d6",
-    "cad569c128b773d1ba26d15da3427f5f"
+    "cad569c128b773d1ba26d15da3427f5f",
+    "a02b089cec488f5050c48b0b9489b610",
+    "1c45d2f8b2d487e2a92ce6957b138809",
+    "888d2d8411eaac511e3c6c66f0d80db1",
+    "be7bf45ab43339f5a50b48a827602c88",
+    "e69661fd26c3f0e641eaf8a7c19f3ff3"
   ],
   "titles": [
-    "Afghanistan - Taliban feiern vierten Jahrestag ihrer Machtübernahme",
-    "USA - Trump vor Gipfel mit Putin: Kiew wird selbst entscheiden - Ukraine dringt auf Dreier-Treffen",
-    "DFB-Pokal - Leverkusen, Magdeburg und Union Berlin in nächster Runde",
-    "Innenminister auf Sommerreise: Der neue Dobrindt-Sound",
-    "US-Berufungsgericht - Finanz-Verbraucherschutzbehörde kann weitgehend aufgelöst werden",
     "Gespräche USA/Russland - Trump hat Putin in Alaska empfangen",
     "DFB-Pokal - Bundesligist Bremen unterliegt dem Zweitligisten Bielefeld",
     "Gespräche USA/Russland - Erste Gesprächsrunde von Trump und Putin beendet",
@@ -3003,14 +2998,14 @@
     "Nach den Erdbeben - UNO-Experte: Not in Afghanistan so groß wie noch nie",
     "Vatikan - Italienischer Teenager Carlo Acutis heilig gesprochen",
     "Ausländerkriminalität: Hinsehen ist kein Rassismus",
-    "Soziales - Koalition diskutiert über höhere Beitragsbemessungsgrenzen"
+    "Soziales - Koalition diskutiert über höhere Beitragsbemessungsgrenzen",
+    "Lissabon - Weitere Untersuchungen zum Standseilbahn-Unglück angekündigt - erster Bericht vorgelegt",
+    "Nahost - Israelisches Militär meldet Luftangriffe aus Jemen und dem Gazastreifen",
+    "Razzia in Hyundai-Werk - Südkorea gibt Einigung über in den USA festgenommene Arbeiter bekannt",
+    "Vor der IAA - Söder will Autobranche stärker unterstützen",
+    "Russische Internetzensur: Der Extremist heißt Putin"
   ],
   "hashes": [
-    "6d99b80e4e1abe95e1e5f785be10b407",
-    "3ca7296edcb3ee39972e1f8be77bc686",
-    "db9c059947719e26e14dba6af03dea75",
-    "9919e7e6a2a3e620d5e5656f8b1b3a4a",
-    "1a9e194e699a177776701364383c7ec2",
     "0b678319c6899b1ed5e0179cd6f1cc10",
     "e349fbd9f60362cb45f2b71ee7451554",
     "29beabce22255967b47dae2f1e05557a",
@@ -4005,6 +4000,11 @@
     "4397c74e3f84a59ee0c5c492b06e593e",
     "8badd68a4cda377942dac9b036046c76",
     "07a7f5e870753b680c303767dd2a1523",
-    "0451993175a67134daa0b4a16fe14a4c"
+    "0451993175a67134daa0b4a16fe14a4c",
+    "73d65a173dba4ccac1e2d6c9e8ada8db",
+    "0e1443e25027642fb89466db37e524d5",
+    "992808f16218dec893659157387ab6b3",
+    "ae329c2f8a8a162a8699036b2484ea28",
+    "6ada23150175740bf6997b36a16994f7"
   ]
 }
