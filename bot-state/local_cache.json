@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-hat-putin-in-alaska-empfangen-100.html",
-    "https://www.deutschlandfunk.de/bundesligist-bremen-unterliegt-dem-zweitligisten-bielefeld-106.html",
-    "https://www.deutschlandfunk.de/erste-gespraechsrunde-von-trump-und-putin-beendet-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-verletzte-nach-zugunglueck-100.html",
     "https://www.deutschlandfunk.de/trump-und-putin-sprechen-von-produktivem-treffen-nennen-aber-keine-konkreten-ergebnisse-100.html",
     "https://www.deutschlandfunk.de/dihk-praesident-fordert-leistungskuerzungen-bei-pflege-und-spaetere-rente-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/israelisches-militaer-meldet-luftangriffe-aus-jemen-und-dem-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/suedkorea-gibt-einigung-ueber-in-den-usa-festgenommene-arbeiter-bekannt-100.html",
     "https://www.deutschlandfunk.de/vor-der-iaa-soeder-will-autoindustrie-retten-debatte-ber-verbrennerverbot-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/zensur-und-strafe-wie-russland-das-internet-kontrolliert-110672451.html"
+    "https://www.faz.net/aktuell/politik/ausland/zensur-und-strafe-wie-russland-das-internet-kontrolliert-110672451.html",
+    "https://www.deutschlandfunk.de/spd-parteivorstand-beginnt-klausur-programm-der-zukunft-im-mittelpunkt-102.html",
+    "https://www.deutschlandfunk.de/gruene-kritisieren-linnemann-fuer-forderung-nach-agenda-politik-wie-bei-kanzler-schroeder-100.html",
+    "https://www.deutschlandfunk.de/polizei-nimmt-rund-900-menschen-wegen-unterstuetzung-der-verbotenen-gruppe-palestine-action-fest-100.html"
   ],
   "content_hashes": [
-    "896f2b847a4a53ba561437b4ebbca5ac",
-    "ecb4434425efcabba267de0e40fef509",
-    "95d900fb6043d3604b4f7157d2708319",
     "0b993bfd73c1113ad8901fbec1d12d4b",
     "bb4ef20fa76791312ef718250d5bbe95",
     "214b2cd10df5bfdd15906f56847b1f78",
@@ -2001,12 +1998,12 @@
     "1c45d2f8b2d487e2a92ce6957b138809",
     "888d2d8411eaac511e3c6c66f0d80db1",
     "be7bf45ab43339f5a50b48a827602c88",
-    "e69661fd26c3f0e641eaf8a7c19f3ff3"
+    "e69661fd26c3f0e641eaf8a7c19f3ff3",
+    "c3d8dcf322373698113a79059010d1f7",
+    "4b5d6db43f71bb8e387b0b1f8bc57b79",
+    "1016aad8c1d9bfaba64bcfeb8d901383"
   ],
   "titles": [
-    "Gespräche USA/Russland - Trump hat Putin in Alaska empfangen",
-    "DFB-Pokal - Bundesligist Bremen unterliegt dem Zweitligisten Bielefeld",
-    "Gespräche USA/Russland - Erste Gesprächsrunde von Trump und Putin beendet",
     "Dänemark - Ein Toter und Verletzte nach Zugunglück",
     "Alaska - Trump und Putin sprechen von produktivem Treffen, nennen aber keine konkreten Ergebnisse",
     "Steigende Sozialbeiträge - DIHK-Präsident fordert Leistungskürzungen bei Pflege und spätere Rente",
@@ -3003,12 +3000,12 @@
     "Nahost - Israelisches Militär meldet Luftangriffe aus Jemen und dem Gazastreifen",
     "Razzia in Hyundai-Werk - Südkorea gibt Einigung über in den USA festgenommene Arbeiter bekannt",
     "Vor der IAA - Söder will Autobranche stärker unterstützen",
-    "Russische Internetzensur: Der Extremist heißt Putin"
+    "Russische Internetzensur: Der Extremist heißt Putin",
+    "Berlin - SPD-Parteivorstand beginnt Klausur - Programm der Zukunft im Mittelpunkt",
+    "Reformdebatte - Grüne kritisieren Linnemann für Forderung nach \"Agenda\"-Politik wie bei Kanzler Schröder",
+    "London - Polizei nimmt rund 900 Menschen wegen Unterstützung der verbotenen Gruppe \"Palestine Action\" fest"
   ],
   "hashes": [
-    "0b678319c6899b1ed5e0179cd6f1cc10",
-    "e349fbd9f60362cb45f2b71ee7451554",
-    "29beabce22255967b47dae2f1e05557a",
     "28f656cd9bbeb7d3580a6c1be0006f2d",
     "a52e6270e6b7fb0d1f4434e4bce65776",
     "da26a7dff54e4cf0562cead979bf52a8",
@@ -4005,6 +4002,9 @@
     "0e1443e25027642fb89466db37e524d5",
     "992808f16218dec893659157387ab6b3",
     "ae329c2f8a8a162a8699036b2484ea28",
-    "6ada23150175740bf6997b36a16994f7"
+    "6ada23150175740bf6997b36a16994f7",
+    "c7190118a4a9ffd6f3d87e3cd35645a8",
+    "cc2a415b444dd32953962c0e1e412dc4",
+    "bf9866e419f2bc498d19b086626ea4dc"
   ]
 }
