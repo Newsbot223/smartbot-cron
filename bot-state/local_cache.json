@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sicherheitsexperte-lange-gespraech-mit-trump-wird-putin-nicht-die-tore-in-alle-welt-oeffnen-100.html",
-    "https://www.deutschlandfunk.de/us-regierung-und-washington-erzielen-einigung-102.html",
     "https://www.aljazeera.com/news/2025/8/16/feeding-a-narcissist-ukraine-reflects-on-trump-putin-summit?traffic_source=rss",
     "https://www.deutschlandfunk.de/streik-der-flugbegleiter-bei-air-canada-100.html",
     "https://www.deutschlandfunk.de/todeskandidat-in-singapur-bleibt-hinrichtung-erspart-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gesundheitsministerin-warken-will-klinik-atlas-ihres-vorgaengers-lauterbach-einstellen-100.html",
     "https://www.deutschlandfunk.de/premierminister-bayrou-stellt-vertrauensfrage-im-streit-um-haushalt-sturz-der-regierung-erwartet-100.html",
     "https://www.spiegel.de/panorama/leute/dirigent-christoph-von-dohnanyi-gestorben-a-c045f562-b71b-42f2-a5e2-5c4b2d64df6f#ref=rss",
-    "https://www.deutschlandfunk.de/irans-aussenminister-araghtschi-zu-zugestaendnissen-beim-atomprogramm-bereit-100.html"
+    "https://www.deutschlandfunk.de/irans-aussenminister-araghtschi-zu-zugestaendnissen-beim-atomprogramm-bereit-100.html",
+    "https://www.deutschlandfunk.de/erste-sitzung-der-corona-kommission-des-bundestags-100.html",
+    "https://www.deutschlandfunk.de/proteste-vor-urteil-gegen-ex-praesident-bolsonaro-100.html"
   ],
   "content_hashes": [
-    "30865f050635060633add0c8d5dc5e92",
-    "b5c15bb9bc86053f0ecad1f0dde0e3c0",
     "d696ed3555c6b056cc6317c46e1a98d8",
     "80e1ebf365eae85009d049fdba2daa8d",
     "27a8c6236daadebd3347176fd2cf8045",
@@ -2001,11 +1999,11 @@
     "ef9de0c866a5c86d9d7cba1bfb68e271",
     "b9ed94ca538dbe12f26ccaaf725a9676",
     "51901e70a4d6cc441cc311d77583060f",
-    "4b906efcc7fe0108ccc7283b2373563e"
+    "4b906efcc7fe0108ccc7283b2373563e",
+    "dd0dfa4b29fbefbc12d92d509922001e",
+    "f70feb341e26c10b57f00dd12444ddba"
   ],
   "titles": [
-    "Gipfel in Alaska - Sicherheitsexperte Lange: Gespräch mit Trump \"wird Putin nicht die Tore in alle Welt öffnen\"",
-    "Polizei-Debatte - US-Regierung und Washington erzielen Einigung",
     "‘Feeding a narcissist:’ Ukraine reflects on Trump-Putin summit",
     "Luftverkehr - Streik der Flugbegleiter bei Air Canada",
     "Erstmals seit 30 Jahren - Todeskandidat in Singapur bleibt Hinrichtung erspart",
@@ -3003,11 +3001,11 @@
     "Medienbericht - Gesundheitsministerin Warken will Klinik-Atlas ihres Vorgängers Lauterbach einstellen",
     "Regierungskrise in Frankreich - Premierminister Bayrou stellt Vertrauensfrage im Streit um Haushalt - Sturz der Regierung erwartet",
     "Dirigent Christoph von Dohnányi gestorben",
-    "Gastbeitrag im \"Guardian\" - Irans Außenminister Araghtschi zu Zugeständnissen beim Atomprogramm bereit"
+    "Gastbeitrag im \"Guardian\" - Irans Außenminister Araghtschi zu Zugeständnissen beim Atomprogramm bereit",
+    "Berlin - Erste Sitzung der Corona-Kommission des Bundestags",
+    "Brasilien - Proteste vor Urteil gegen Ex-Präsident Bolsonaro"
   ],
   "hashes": [
-    "938e0e46c49c0e4a9d763f9ebdea39a1",
-    "da1f57255da488dcbcb7de23d0f74736",
     "c5b3c0290e807536d2938e58da28c4b8",
     "a586bd2989aa203b676c0c978f839758",
     "5118d7b5732545a1d63de1983f1b24a6",
@@ -4005,6 +4003,8 @@
     "744fc6e40a8650574015a86e41fd3c6d",
     "d718d234b0adac846c0e1370a6d2d49f",
     "03adb3ed592c6006282c05d60a01d57c",
-    "795cb5e5cd190ebbcb253d674757dbc1"
+    "795cb5e5cd190ebbcb253d674757dbc1",
+    "ee9646cfa01589fe1c72738e22970937",
+    "52796af5f1c841bcc063bf2fb2e1968b"
   ]
 }
