@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jurist-kai-ambos-trump-und-putin-haben-mit-voelkerrecht-nichts-am-hut-102.html",
-    "https://www.deutschlandfunk.de/sozialverband-vdk-schulstart-belastet-einkommensschwache-familien-gefahr-fuer-gleiche-bildungschance-100.html",
     "https://www.deutschlandfunk.de/bolivien-parlaments-und-praesidentschaftswahlen-inmitten-einer-tiefen-wirtschaftskrise-100.html",
     "https://www.deutschlandfunk.de/von-der-leyen-und-merz-begleiten-selenskyj-zu-trump-treffen-100.html",
     "https://www.deutschlandfunk.de/air-canada-nimmt-betrieb-am-abend-wieder-auf-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tote-bei-schusswaffenangriff-in-jerusalem-102.html",
     "https://www.deutschlandfunk.de/asylantraege-in-der-eu-im-ersten-halbjahr-um-23-prozent-gesunken-100.html",
     "https://www.deutschlandfunk.de/union-will-zahl-freiwilliger-syrien-rueckkehrer-erhoehen-100.html",
-    "https://www.deutschlandfunk.de/spd-chefin-bas-moechte-gespraechsangebot-der-gruenen-zu-afd-verbot-annehmen-100.html"
+    "https://www.deutschlandfunk.de/spd-chefin-bas-moechte-gespraechsangebot-der-gruenen-zu-afd-verbot-annehmen-100.html",
+    "https://www.deutschlandfunk.de/spanien-verhaengt-waffenembargo-gegen-israel-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-asylklagen-erneut-gestiegen-100.html"
   ],
   "content_hashes": [
-    "0521e920840f8a20435bc4c26dd18029",
-    "94c006eb5347daea1070c5cfb13c66fc",
     "666f72866ec6951860aa5e7cb565ec17",
     "819da077834fc1978012ffbab0dcd04b",
     "7acd06a14dbc6704c0a222a40ee0e140",
@@ -2001,11 +1999,11 @@
     "fbd46b08a6b1f9874d497f57551b3a39",
     "8b5c38ad1feeca43ec88480e09555805",
     "0fc67629059149192279d6e3dceeb47f",
-    "c32fa380ae4ee0213b6b6b2397d4df1a"
+    "c32fa380ae4ee0213b6b6b2397d4df1a",
+    "8957e91d710b004059dbb2c70b6acade",
+    "d1b4059861a9ca595f285ffab771f37b"
   ],
   "titles": [
-    "Alaska-Gipfel - Jurist Kai Ambos: Trump und Putin haben mit Völkerrecht nichts am Hut",
-    "Sozialverband VdK: Schulstart belastet einkommensschwache Familien - Gefahr für gleiche Bildungschancen",
     "Südamerika - Bolivien: Parlaments- und Präsidentschaftswahlen inmitten einer tiefen Wirtschaftskrise",
     "Weißes Haus - Von der Leyen und Merz begleiten Selenskyj zu Trump-Treffen",
     "Streik der Flugbegleiter - Air Canada nimmt Betrieb am Abend wieder auf",
@@ -3003,11 +3001,11 @@
     "Israel - Tote bei Schusswaffenangriff in Jerusalem",
     "Migration - Asylanträge in der EU im ersten Halbjahr um 23 Prozent gesunken",
     "Migration - Union will Zahl freiwilliger Syrien-Rückkehrer erhöhen",
-    "Rechtsextremismus - SPD-Chefin Bas möchte Gesprächsangebot der Grünen zu AfD-Verbot annehmen"
+    "Rechtsextremismus - SPD-Chefin Bas möchte Gesprächsangebot der Grünen zu AfD-Verbot annehmen",
+    "Gaza-Krieg - Spanien verhängt Waffenembargo gegen Israel",
+    "Medienbericht - Zahl der Asylklagen erneut gestiegen"
   ],
   "hashes": [
-    "3411aa59a0faec0680da2092fb63134e",
-    "c43f45bf6a771d3d1177f8deed980c00",
     "fa41442369ab868113abe14318eefb82",
     "c952ca916ab94ee6a2fc4f05dedc8b8c",
     "23b5ccb1073d591d139bfd9a3a6043ba",
@@ -4005,6 +4003,8 @@
     "20c744105e6d56d412054c93d9a7aede",
     "b8a01196eccf89e02413e9ce6169f15e",
     "edf99ab35a744aadb43521aff4df9dd1",
-    "24fa43ddc9dd7e43c243e7a889db22dc"
+    "24fa43ddc9dd7e43c243e7a889db22dc",
+    "0d25f67e9dda2199726663803cbbacf3",
+    "fc363a97845344363d3245710c27f2ef"
   ]
 }
