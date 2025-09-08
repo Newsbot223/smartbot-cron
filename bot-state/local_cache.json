@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/warum-es-in-den-usa-landesweite-proteste-gegen-geplante-wahlkreis-neuzuschnitte-in-texas-gibt-100.html",
-    "https://www.deutschlandfunk.de/nabu-sieht-zunehmende-private-haltung-von-honigbienen-kritisch-102.html",
-    "https://www.deutschlandfunk.de/israel-bereitet-evakuierung-von-palaestinensern-vor-100.html",
     "https://www.deutschlandfunk.de/israelisches-militaer-greift-energieanlage-im-jemen-an-100.html",
     "https://www.deutschlandfunk.de/jurist-kai-ambos-trump-und-putin-haben-mit-voelkerrecht-nichts-am-hut-102.html",
     "https://www.deutschlandfunk.de/sozialverband-vdk-schulstart-belastet-einkommensschwache-familien-gefahr-fuer-gleiche-bildungschance-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ministerin-warken-cdu-klinikschliessungen-trotz-anpassung-der-krankenhausreform-100.html",
     "https://www.deutschlandfunk.de/putin-will-aus-europaeischer-antifolterkonvention-austreten-100.html",
     "https://www.deutschlandfunk.de/erneut-soldatengruppe-in-kolumbien-entfuehrt-100.html",
-    "https://www.faz.net/aktuell/politik/herbst-der-reformen-das-notwendige-schnell-erledigen-110672536.html"
+    "https://www.faz.net/aktuell/politik/herbst-der-reformen-das-notwendige-schnell-erledigen-110672536.html",
+    "https://www.deutschlandfunk.de/tote-bei-schusswaffenangriff-in-jerusalem-102.html",
+    "https://www.deutschlandfunk.de/asylantraege-in-der-eu-im-ersten-halbjahr-um-23-prozent-gesunken-100.html",
+    "https://www.deutschlandfunk.de/union-will-zahl-freiwilliger-syrien-rueckkehrer-erhoehen-100.html"
   ],
   "content_hashes": [
-    "dd06a78a14f55c9725ddc39b435f33f4",
-    "58aee95dfd842bcdbae75f36daf7ec12",
-    "d10ceea2205057b824c497f4da2c7d99",
     "a6ef854531da77f0b2056e9f4820095d",
     "0521e920840f8a20435bc4c26dd18029",
     "94c006eb5347daea1070c5cfb13c66fc",
@@ -2001,12 +1998,12 @@
     "099845e4aee34e0b1efcc76673685db6",
     "7f2567cf572ed2aa2e719d0fe6bd2dac",
     "45dd6381f4c2ade7665dd714d1493e50",
-    "491ece9194feb7b84f2f2dbda7bac207"
+    "491ece9194feb7b84f2f2dbda7bac207",
+    "fbd46b08a6b1f9874d497f57551b3a39",
+    "8b5c38ad1feeca43ec88480e09555805",
+    "0fc67629059149192279d6e3dceeb47f"
   ],
   "titles": [
-    "Gerrymandering - Warum es in den USA landesweite Proteste gegen geplante Wahlkreis-Neuzuschnitte in Texas gibt",
-    "Naturschutzbund Deutschland - Nabu sieht zunehmende private Haltung von Honigbienen kritisch",
-    "Gaza-Kriegspläne - Israel bereitet Evakuierung von Palästinensern vor",
     "Nahost - Israelisches Militär greift Energieanlage im Jemen an",
     "Alaska-Gipfel - Jurist Kai Ambos: Trump und Putin haben mit Völkerrecht nichts am Hut",
     "Sozialverband VdK: Schulstart belastet einkommensschwache Familien - Gefahr für gleiche Bildungschancen",
@@ -3003,12 +3000,12 @@
     "Neuer Gesetzentwurf - Ministerin Warken (CDU): Klinikschließungen trotz Anpassung der Krankenhausreform",
     "Europarat - Putin will aus europäischer Antifolterkonvention austreten",
     "Guerrilla-Kämpfer - Erneut Soldatengruppe in Kolumbien entführt",
-    "Deutschland unter Druck: Der „Herbst der Reformen“ darf nicht kläglich enden"
+    "Deutschland unter Druck: Der „Herbst der Reformen“ darf nicht kläglich enden",
+    "Israel - Tote bei Schusswaffenangriff in Jerusalem",
+    "Migration - Asylanträge in der EU im ersten Halbjahr um 23 Prozent gesunken",
+    "Migration - Union will Zahl freiwilliger Syrien-Rückkehrer erhöhen"
   ],
   "hashes": [
-    "d4c14eaf8979f910ff27aaedc17e0027",
-    "f148e9bd998364fc71db37537574861b",
-    "cfbd7796277a638ba082925b4acb50d2",
     "d45b543322ecc7ebdfea422bf03001ca",
     "3411aa59a0faec0680da2092fb63134e",
     "c43f45bf6a771d3d1177f8deed980c00",
@@ -4005,6 +4002,9 @@
     "aa733fd6402845d01f3d1ffa618c0e29",
     "7931784d1bcf3b167958cdba74e2feef",
     "1cc941c8846762551a148191d99ae9c2",
-    "1125b4fb99530c734f0001e85ec41853"
+    "1125b4fb99530c734f0001e85ec41853",
+    "20c744105e6d56d412054c93d9a7aede",
+    "b8a01196eccf89e02413e9ce6169f15e",
+    "edf99ab35a744aadb43521aff4df9dd1"
   ]
 }
