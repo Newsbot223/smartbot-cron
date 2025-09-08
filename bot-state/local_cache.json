@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlaments-und-praesidentschaftswahlen-inmitten-einer-tiefen-wirtschaftskrise-100.html",
-    "https://www.deutschlandfunk.de/erneut-zusammenstoesse-bei-protesten-gegen-die-regierung-von-praesident-vucic-100.html",
-    "https://www.deutschlandfunk.de/oberbuergermeister-von-heidenheim-oft-nur-noch-die-wahl-gebuehren-anzuheben-oder-einrichtungen-zu-sc-102.html",
     "https://www.deutschlandfunk.de/landesweite-proteste-gegen-republikanische-wahlkreis-plaene-fuer-texas-100.html",
     "https://www.aljazeera.com/news/2025/8/17/russia-ukraine-war-list-of-key-events-day-1270?traffic_source=rss",
     "https://www.deutschlandfunk.de/deutsche-bahn-fahrgastverband-schlaegt-nachfolgerin-fuer-lutz-vor-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/erste-sitzung-der-corona-kommission-des-bundestags-hoppermann-cdu-fuer-kuenftige-krisen-lernen-100.html",
     "https://www.deutschlandfunk.de/mercedes-droht-als-einziger-europaeischer-autohersteller-emissionsziele-zu-verfehlen-100.html",
     "https://www.faz.net/aktuell/rhein-main/wiesbaden-totalverweigerer-mit-buergergeld-selten-accg-110673131.html",
-    "https://www.faz.net/aktuell/politik/inland/asylzahlen-brechen-ein-besonders-in-deutschland-accg-110675109.html"
+    "https://www.faz.net/aktuell/politik/inland/asylzahlen-brechen-ein-besonders-in-deutschland-accg-110675109.html",
+    "https://www.deutschlandfunk.de/feuerwehrverband-fordert-anreize-fuer-ehrenamt-100.html",
+    "https://www.deutschlandfunk.de/rehlinger-warnt-vor-folgen-von-politischer-krise-in-frankreich-100.html",
+    "https://www.deutschlandfunk.de/merz-und-wadephul-eroeffnen-botschafterkonferenz-in-berlin-100.html"
   ],
   "content_hashes": [
-    "9339ffdb02173225145a67f86e603caa",
-    "f0260ebe6cfe2425de0f3a83af94f89f",
-    "754a49131b27d4834af13bc10cfbf34c",
     "745362a4ddae2c3ceba7034381274d64",
     "573f3042756803534c261cee03561ee9",
     "849c5e59554abf9055e1cc6377461060",
@@ -2001,12 +1998,12 @@
     "e2f22cb016743ace6a6ed0e9f18477ad",
     "4bfacceebe08b06d14f9df77f73ac3d8",
     "480a8a8b76972d708d6a47f73fd1f3d9",
-    "20bca1bf09019782d81c4ba8bddfb9b8"
+    "20bca1bf09019782d81c4ba8bddfb9b8",
+    "f272e62d3d74dfea7309ec4588392974",
+    "22e70162664e6562c162ba47137954ea",
+    "7c2a14b8ba9fd9b21d637f90a09e620c"
   ],
   "titles": [
-    "Bolivien - Parlaments- und Präsidentschaftswahlen inmitten einer tiefen Wirtschaftskrise",
-    "Serbien - Erneut Zusammenstöße bei Protesten gegen die Regierung von Präsident Vucic",
-    "Interview der Woche - Oberbürgermeister von Heidenheim: Oft nur noch die Wahl, Gebühren anzuheben oder Einrichtungen zu schließen",
     "USA - Landesweite Proteste gegen republikanische Wahlkreis-Pläne für Texas",
     "Russia-Ukraine war: List of key events, day 1,270",
     "Staatskonzern - Deutsche Bahn: Fahrgastverband schlägt Nachfolgerin für Lutz vor",
@@ -3003,12 +3000,12 @@
     "Pandemie - Erste Sitzung der Corona-Kommission des Bundestags - Hoppermann (CDU): Für künftige Krisen lernen",
     "T&E-Berechnung - Mercedes droht als einziger europäischer Autohersteller Emissionsziele zu verfehlen",
     "Bürgergeld: Totalverweigerer sind die Ausnahme",
-    "EU-Statistik für 2025: Zahl der Asylanträge geht stark zurück"
+    "EU-Statistik für 2025: Zahl der Asylanträge geht stark zurück",
+    "Drohender Personalmangel - Feuerwehrverband fordert Anreize für Ehrenamt",
+    "Vertrauensfrage in Paris - Rehlinger warnt vor Folgen von politischer Krise in Frankreich",
+    "Auswärtiges Amt - Merz und Wadephul eröffnen Botschafterkonferenz in Berlin"
   ],
   "hashes": [
-    "f4c37dcf4c7f58bdddbe158862b89cfe",
-    "4ce6e4761f5bf15450d0c28a10cebe62",
-    "e35795ea22eb9fe7060aac25addd6c93",
     "15315ff569ab4f301c1549a8094e2449",
     "faa61087328b59ce65de2c8acc5f8b50",
     "a6170ddfc4497ee863c76237d487daa4",
@@ -4005,6 +4002,9 @@
     "fa01dd9c3eb70394561eba500e615061",
     "00b1d8efdbfa2748fa6eaf2f132534d4",
     "9bb96b37e760d7b0b865402958970a16",
-    "6e7a46d68a9a09674b5a59f713693a0f"
+    "6e7a46d68a9a09674b5a59f713693a0f",
+    "97207554c209cfef2122f20781d1c44a",
+    "97d3a19ccb763f76dd7cfe9ca7b9199e",
+    "6eb0bd297a1ae1843c2f67923c0c48c3"
   ]
 }
