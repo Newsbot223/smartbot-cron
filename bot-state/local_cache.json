@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-verletzte-bei-erneuten-russischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/christdemokrat-paz-ueberraschend-vorne-linke-regierungspartei-abgestraft-102.html",
-    "https://www.deutschlandfunk.de/erneut-russische-angriffe-aus-der-luft-102.html",
     "https://www.deutschlandfunk.de/hunderttausende-bei-streiks-und-protesten-in-israel-gegen-gazakrieg-112.html",
     "https://www.deutschlandfunk.de/pflegebevollmaechtigte-angehoerige-muessen-entlastet-werden-100.html",
     "https://www.deutschlandfunk.de/selenskyj-reist-nach-washington-was-sich-ukraine-erhofft-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/sechs-tote-bei-anschlag-in-jerusalem-zwei-taeter-erschossen-100.html",
     "https://www.deutschlandfunk.de/mindestens-16-tote-bei-protesten-gegen-social-media-blockade-102.html",
     "https://www.deutschlandfunk.de/parlament-entzieht-premier-bayrou-das-vertrauen-100.html",
-    "https://www.deutschlandfunk.de/wie-geht-es-nun-weiter-in-frankreich-100.html"
+    "https://www.deutschlandfunk.de/wie-geht-es-nun-weiter-in-frankreich-100.html",
+    "https://www.deutschlandfunk.de/mindestens-17-tote-bei-protesten-gegen-social-media-blockade-102.html",
+    "https://www.deutschlandfunk.de/banksy-enthuellt-wandbild-an-londoner-gerichtsgebaeude-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/wahlen-in-argentinien-milei-hat-ein-ernstes-problem-110676417.html"
   ],
   "content_hashes": [
-    "ec870ea6acf683839d5767a9240fcf2b",
-    "cf8090171853b23c09fa3416cfdb7c23",
-    "c5e0f3222dec113c0b0f1aee4b1c28bc",
     "d3f99fe4c729ca1330d17b4fb05a2ecc",
     "d5b280d562ff86fa1d8876604f2ddba9",
     "962ba6dc195e0cf1ec5e961ea25608ac",
@@ -2001,12 +1998,12 @@
     "330eb3518769bda17c6fb18f906c3d3a",
     "414d6f6b10b3d4ef9ba723d860448bba",
     "b697be3ab3668fc2201ab593683454f7",
-    "9dba5ab0a3d2e00c3805dec0d7eeb95d"
+    "9dba5ab0a3d2e00c3805dec0d7eeb95d",
+    "ebc0d369e6cee92a1daa65afb59ec068",
+    "be844afc82d848781d80d64642837c6a",
+    "cbe8d0eb03e3d831831a322003781672"
   ],
   "titles": [
-    "Ukraine Krieg - Mehrere Verletzte bei erneuten russischen Angriffen",
-    "Präsidentschaftswahl in Bolivien - Christdemokrat Paz überraschend vorne - Linke Regierungspartei abgestraft",
-    "Ukraine-Krieg - Erneut russische Angriffe aus der Luft",
     "Blockade von Straßen - Hunderttausende bei Streiks und Protesten in Israel gegen Gazakrieg",
     "Kurzzeitpflege und Co. - Pflegebevollmächtigte: Angehörige müssen entlastet werden",
     "Treffen im Weißen Haus - Selenskyj fordert Sicherheitsgarantien für sein Land",
@@ -3003,12 +3000,12 @@
     "Israel - Sechs Tote bei Anschlag in Jerusalem - zwei Täter erschossen",
     "Nepal - Mindestens 16 Tote bei Protesten gegen Social-Media-Blockade",
     "Frankreich - Parlament entzieht Premier Bayrou das Vertrauen",
-    "Nach verlorener Vertrauensfrage - Wie geht es nun weiter in Frankreich?"
+    "Nach verlorener Vertrauensfrage - Wie geht es nun weiter in Frankreich?",
+    "Nepal - Mindestens 17 Tote bei Protesten gegen Social-Media-Blockade",
+    "Streetart - Banksy enthüllt Wandbild an Londoner Gerichtsgebäude",
+    "Wahlen in Buenos Aires: Milei hat ein ernstes Problem"
   ],
   "hashes": [
-    "3e10d6beff4866427b6c3a265a558ca8",
-    "5bd2349afc6e11334ddbdbedcf4273ce",
-    "f102a7495b8aded6a9ad14d9c179571c",
     "c6b15546d3ecd00f73b2bea9cbb1a26d",
     "141780498924f1a88df022927dae7c10",
     "14c674cc7e0670e7ab26c034f5312ac7",
@@ -4005,6 +4002,9 @@
     "8b6a2412585b94e1b7a92be50e24d69c",
     "9d3a55ada059cd59e40a96b16f8d3708",
     "37f9651ca8018b6b9c1fa8fede1e6ee9",
-    "f45eaad268dd5b27d12ddce93d99e8b8"
+    "f45eaad268dd5b27d12ddce93d99e8b8",
+    "c3b2ccd58389da7d925729c9ceb9bdf9",
+    "290537d273779f2da21b0d3403745bc4",
+    "8242721314933c1f714e57cdc27130ac"
   ]
 }
