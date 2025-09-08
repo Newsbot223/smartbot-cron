@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-haerteres-vorgehen-gegen-regierungskritische-demonstranten-an-100.html",
-    "https://www.deutschlandfunk.de/hochrechnungen-sehen-christdemokraten-paz-vorne-stichwahl-wahrscheinlich-100.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-erneuten-russischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/christdemokrat-paz-ueberraschend-vorne-linke-regierungspartei-abgestraft-102.html",
     "https://www.deutschlandfunk.de/erneut-russische-angriffe-aus-der-luft-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aussenminister-wadephul-und-frankreichs-praesident-macron-verurteilen-anschlag-in-jerusalem-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-und-wadephul-werben-fuer-dreiklang-in-der-aussenpolitik-110676361.html",
     "https://www.deutschlandfunk.de/sechs-tote-bei-anschlag-in-jerusalem-zwei-taeter-erschossen-100.html",
-    "https://www.deutschlandfunk.de/mindestens-16-tote-bei-protesten-gegen-social-media-blockade-102.html"
+    "https://www.deutschlandfunk.de/mindestens-16-tote-bei-protesten-gegen-social-media-blockade-102.html",
+    "https://www.deutschlandfunk.de/parlament-entzieht-premier-bayrou-das-vertrauen-100.html",
+    "https://www.deutschlandfunk.de/wie-geht-es-nun-weiter-in-frankreich-100.html"
   ],
   "content_hashes": [
-    "b52e375e56dc0ddcea243e92d5763e5c",
-    "30e8554f611cd58ec4a147db185556f2",
     "ec870ea6acf683839d5767a9240fcf2b",
     "cf8090171853b23c09fa3416cfdb7c23",
     "c5e0f3222dec113c0b0f1aee4b1c28bc",
@@ -2001,11 +1999,11 @@
     "266091acdcc6cce386e3cda59e39866f",
     "2e0d360815ab7d7df3142a874eac3dff",
     "330eb3518769bda17c6fb18f906c3d3a",
-    "414d6f6b10b3d4ef9ba723d860448bba"
+    "414d6f6b10b3d4ef9ba723d860448bba",
+    "b697be3ab3668fc2201ab593683454f7",
+    "9dba5ab0a3d2e00c3805dec0d7eeb95d"
   ],
   "titles": [
-    "Serbien - Präsident Vucic kündigt härteres Vorgehen gegen regierungskritische Demonstranten an",
-    "Präsidentschaftswahl in Bolivien - Hochrechnungen sehen Christdemokraten Paz vorne - Stichwahl wahrscheinlich",
     "Ukraine Krieg - Mehrere Verletzte bei erneuten russischen Angriffen",
     "Präsidentschaftswahl in Bolivien - Christdemokrat Paz überraschend vorne - Linke Regierungspartei abgestraft",
     "Ukraine-Krieg - Erneut russische Angriffe aus der Luft",
@@ -3003,11 +3001,11 @@
     "Israel - Außenminister Wadephul und Frankreichs Präsident Macron verurteilen Anschlag in Jerusalem",
     "Botschafterkonferenz: Ein neuer Dreiklang statt Baerbock-Kurs",
     "Israel - Sechs Tote bei Anschlag in Jerusalem - zwei Täter erschossen",
-    "Nepal - Mindestens 16 Tote bei Protesten gegen Social-Media-Blockade"
+    "Nepal - Mindestens 16 Tote bei Protesten gegen Social-Media-Blockade",
+    "Frankreich - Parlament entzieht Premier Bayrou das Vertrauen",
+    "Nach verlorener Vertrauensfrage - Wie geht es nun weiter in Frankreich?"
   ],
   "hashes": [
-    "9c8e5c4268370062167b04132214d926",
-    "41f87be1a7166c6f501c870c1af2db1b",
     "3e10d6beff4866427b6c3a265a558ca8",
     "5bd2349afc6e11334ddbdbedcf4273ce",
     "f102a7495b8aded6a9ad14d9c179571c",
@@ -4005,6 +4003,8 @@
     "b5fadae810d5aba128a1f6b91935f5e8",
     "0ff302b28a01ec9a14a9ef136d33beca",
     "8b6a2412585b94e1b7a92be50e24d69c",
-    "9d3a55ada059cd59e40a96b16f8d3708"
+    "9d3a55ada059cd59e40a96b16f8d3708",
+    "37f9651ca8018b6b9c1fa8fede1e6ee9",
+    "f45eaad268dd5b27d12ddce93d99e8b8"
   ]
 }
