@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weltkriegsdenkmaeler-in-der-tuerkei-bedroht-weiter-feuer-in-portugal-und-spanien-100.html",
-    "https://www.deutschlandfunk.de/wahllokale-bei-praesidentschafts-und-parlamentswahl-in-bolivien-geschlossen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/heidelberg-mannheim-groesstes-deutsches-forschungszentrum-entsteht-110632406.html",
     "https://www.deutschlandfunk.de/wadephul-beginnt-mehrtaegigen-besuch-in-japan-und-indonesien-102.html",
     "https://www.deutschlandfunk.de/praesident-vucic-kuendigt-hartes-vorgehen-gegen-regierungskritiker-an-102.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-russischen-angriffen-aus-der-luft-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/staatsschutz-ermittelt-nach-farbanschlag-auf-ruestungsfirma-in-ulm-accg-110675787.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-und-frankreichs-praesident-macron-verurteilen-anschlag-in-jerusalem-100.html",
     "https://www.deutschlandfunk.de/ausschreitungen-bei-demonstration-vor-parlament-mindestens-14-tote-100.html",
-    "https://www.deutschlandfunk.de/soeder-warnt-vor-regierungsuebernahme-durch-die-afd-100.html"
+    "https://www.deutschlandfunk.de/soeder-warnt-vor-regierungsuebernahme-durch-die-afd-100.html",
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-begruesst-arbeitsbeginn-der-corona-enquete-kommission-102.html",
+    "https://www.deutschlandfunk.de/aufarbeitungsbeauftragte-nooke-warnt-vor-verharmlosung-der-ddr-geschichte-102.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-und-frankreichs-praesident-macron-verurteilen-anschlag-in-jerusalem-102.html"
   ],
   "content_hashes": [
-    "5b51b1334aab61169709e8165659ea0b",
-    "2e82560d1b89a30c87c53bd7497e113c",
-    "9d69df22d8ffce0ecc68e8ac0a3a1c15",
     "396d9773e79504bb9accf98a467e2903",
     "44e1f8131a1f3f9192547ea8bd2cda21",
     "cdc6ec3dae02c63c8abaa3e7c54df2dd",
@@ -2001,12 +1998,12 @@
     "5ad381a9eb0267c6b81b53bfa9e1c290",
     "2f005bc7fa874ce19e7bf5fd5e9354e2",
     "930b7d94208f8b98d831db9295981b1e",
-    "44f28d8d007ceb12581a13d134bea50f"
+    "44f28d8d007ceb12581a13d134bea50f",
+    "a46687f8ae89f221d5e7ad94de5148ce",
+    "623e1bf89c8550e5367e9d6f819b3864",
+    "266091acdcc6cce386e3cda59e39866f"
   ],
   "titles": [
-    "Waldbrände - Weltkriegsdenkmäler in der Türkei bedroht - weiter Feuer in Portugal und Spanien",
-    "Südamerika - Wahllokale bei Präsidentschafts- und Parlamentswahl in Bolivien geschlossen",
-    "Klinikverbund: Heidelberg und Mannheim schließen sich zusammen",
     "Bundesaußenminister - Wadephul beginnt mehrtägigen Besuch in Japan und Indonesien",
     "Serbien - Präsident Vucic kündigt hartes Vorgehen gegen Regierungskritiker an",
     "Ukraine Krieg - Mehrere Verletzte bei russischen Angriffen aus der Luft",
@@ -3003,12 +3000,12 @@
     "Ulm: Staatsschutz ermittelt nach Farbanschlag auf Rüstungsfirma",
     "Mindestens sechs Tote - Außenminister Wadephul und Frankreichs Präsident Macron verurteilen Anschlag in Jerusalem",
     "Nepal - Ausschreitungen bei Demonstration vor Parlament - mindestens 14 Tote",
-    "Gillamoos-Volksfest - Söder warnt vor Regierungsübernahme durch die AfD"
+    "Gillamoos-Volksfest - Söder warnt vor Regierungsübernahme durch die AfD",
+    "Pandemie-Aufarbeitung - Bundestagspräsidentin Klöckner begrüßt Arbeitsbeginn der Corona-Enquete-Kommission",
+    "Brandenburg - Aufarbeitungsbeauftragte Nooke warnt vor Verharmlosung der DDR-Geschichte",
+    "Israel - Außenminister Wadephul und Frankreichs Präsident Macron verurteilen Anschlag in Jerusalem"
   ],
   "hashes": [
-    "0fca5849a2e5a6e2e0064483238b58d0",
-    "9a0345e984a494a9244ccd1b97861b3d",
-    "d26d77445412286b6caad1052ec38022",
     "5b0ab6d67075d2416a7e0694896899b5",
     "2c52f1e3dd60643588b8e89d37d7d757",
     "9c493912bf616e91c3f19baef4248b3b",
@@ -4005,6 +4002,9 @@
     "4d4471377dad0a682615b93f1c1096a3",
     "c5134fd6e87034dd0de605dbe98bd5ab",
     "8f05f8a828044b59cfe616461cb00a55",
-    "f5255dbdc2d738a99d2b4af8d159a273"
+    "f5255dbdc2d738a99d2b4af8d159a273",
+    "076677e195fd1ca761aca57cc6d626d8",
+    "9bcfe7b3cb449819d7bc51224921a139",
+    "b5fadae810d5aba128a1f6b91935f5e8"
   ]
 }
