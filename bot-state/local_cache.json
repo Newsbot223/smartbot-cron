@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schlimmste-waldbraende-in-spanien-seit-20-jahren-100.html",
-    "https://www.deutschlandfunk.de/treffen-zwischen-trump-und-selenskyj-ueber-ukraine-krieg-begonnen-100.html",
-    "https://www.deutschlandfunk.de/treffen-zwischen-trump-und-selenskyj-ueber-ukraine-krieg-trump-weicht-fragen-zu-sicherheitsgarantien-100.html",
     "https://www.deutschlandfunk.de/hamas-erklaert-zustimmung-fuer-neuen-waffenruhe-vorschlag-100.html",
     "https://www.deutschlandfunk.de/trump-beraet-mit-selenskyj-und-europaeischen-spitzenpolitikern-ueber-ukraine-krieg-100.html",
     "https://www.faz.net/aktuell/politik/inland/maedchen-greift-in-paderborn-betreuerin-mit-messer-an-110642987.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/deutliche-mehrheit-der-erwachsenen-will-mindestalter-in-sozialen-medien-und-mehr-schutz-accg-110677350.html",
     "https://www.deutschlandfunk.de/israel-stimmt-nach-angaben-von-aussenminister-saar-us-vorschlag-fuer-waffenruhe-zu-100.html",
     "https://www.deutschlandfunk.de/merz-fordert-mehr-flexibilitaet-von-der-eu-100.html",
-    "https://www.deutschlandfunk.de/bahn-soll-alle-hauptrouten-bis-2036-saniert-haben-100.html"
+    "https://www.deutschlandfunk.de/bahn-soll-alle-hauptrouten-bis-2036-saniert-haben-100.html",
+    "https://www.deutschlandfunk.de/nuernberg-gedenkt-des-ersten-nsu-opfers-enver-im-ek-100.html",
+    "https://www.deutschlandfunk.de/bundesrechnungshof-zweifelt-an-wirkung-von-sondervermoegen-fuer-laender-100.html",
+    "https://www.deutschlandfunk.de/demonstranten-in-nepal-setzen-parlamentsgebaeude-in-brand-102.html"
   ],
   "content_hashes": [
-    "b1271d5d6cb5204f4f783fc275c9ffd8",
-    "437bc882f42c12cb88b2125f22251063",
-    "21f42b767a590626b37c373de3495e0a",
     "74f1f47caa238411368f72b8fb9d07c1",
     "095fca666457aeae6809cd72f5f987f0",
     "82c6293259a39b1efd800e445503ad63",
@@ -2001,12 +1998,12 @@
     "ba119f5704e7a6f975b3f45945728874",
     "89258214c0d66ea0e80c712e0b3f7346",
     "619caceef3627f5aee84d85028a68816",
-    "2e549756e2e1c011108e92ae7a7fd370"
+    "2e549756e2e1c011108e92ae7a7fd370",
+    "93b62f0844ca25c56b984ee6bc38b288",
+    "4f8c5f6990770c16e4e0f1cf34bfed7f",
+    "936fcd5d4d957087356475b502514d0a"
   ],
   "titles": [
-    "Waldbrände - Schlimmste Waldbrände in Spanien seit 20 Jahren",
-    "Washington - Treffen zwischen Trump und Selenskyj über Ukraine-Krieg begonnen",
-    "Washington - Treffen zwischen Trump und Selenskyj über Ukraine-Krieg - Trump weicht Fragen zu Sicherheitsgarantien aus",
     "Krieg im Gazastreifen - Hamas erklärt Zustimmung für neuen Waffenruhe-Vorschlag",
     "Washington - Trump berät mit Selenskyj und europäischen Spitzenpolitikern über Ukraine-Krieg",
     "In psychiatrischer Klinik: Mädchen greift Betreuerin mit Küchenmesser an",
@@ -3003,12 +3000,12 @@
     "Ifo-Bildungsbarometer: Deutliche Mehrheit der Erwachsenen für Mindestalter in sozialen Medien",
     "Gaza-Krieg - Israel stimmt nach Angaben von Außenminister Saar US-Vorschlag für Waffenruhe zu",
     "Diskussion über Verbrennerverbot - Merz fordert mehr Flexibilität von der EU",
-    "Zugverkehr - Bahn soll alle Hauptrouten bis 2036 saniert haben"
+    "Zugverkehr - Bahn soll alle Hauptrouten bis 2036 saniert haben",
+    "Terrorismus - Nürnberg gedenkt des ersten NSU-Opfers Enver Şimşek",
+    "Bericht im Haushaltsausschuss - Bundesrechnungshof zweifelt an Wirkung von Sondervermögen für Länder",
+    "Unruhen - Demonstranten in Nepal setzen Parlamentsgebäude in Brand"
   ],
   "hashes": [
-    "8b7d8eb466edefebd81497cd3f9966c7",
-    "216fc92d7466bcbb0efc09f59e185e96",
-    "ed0c51941fd64b3d9e0aba44d5afc25c",
     "bd9182b1bd6d811456fbb6c856bffaef",
     "2abd328c2d501a44d4a71f12373fc3db",
     "133386f221b56b316cb0b5d203ed185d",
@@ -4005,6 +4002,9 @@
     "04fc7c3accdf0cf2eb4d016684a1c38c",
     "6aebfc1a946c4d484a5123929f988f07",
     "db273640dae9dfe8d61a2239c9876850",
-    "03c4a19f4f1bd83e6098760627fb0ee4"
+    "03c4a19f4f1bd83e6098760627fb0ee4",
+    "e5ebf49ef25cd947b95715a318f8d3e4",
+    "9767f6916e04c0ab10338fa9aa666394",
+    "369b4ded034787deca5b8d4abc0b8278"
   ]
 }
