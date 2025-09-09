@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/in-spanien-und-portugal-kommen-weitere-feuerwehrleute-ums-leben-100.html",
-    "https://www.deutschlandfunk.de/militaerjunta-in-myanmar-kuendigt-wahlen-fuer-dezember-an-100.html",
-    "https://www.deutschlandfunk.de/ausgaben-fuer-sozialhilfe-um-14-8-prozent-gestiegen-102.html",
     "https://www.spiegel.de/wirtschaft/soziales/sozialhilfe-deutschland-hat-2024-deutlich-mehr-geld-fuer-sozialhilfe-ausgegeben-a-ec16df3b-3035-4c89-bc90-46177285e2a3#ref=rss",
     "https://www.spiegel.de/politik/cdu-sozialfluegel-lob-fuer-aussenpolitik-kritik-an-innenpolitischen-ergebnissen-a-418fe72f-c3e4-4f58-a6bb-245af928148a#ref=rss",
     "https://www.deutschlandfunk.de/wadephul-japan-ist-premiumpartner-deutschlands-in-asien-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/sozialdemokratische-arbeiterpartei-gewinnt-parlamentswahl-100.html",
     "https://www.deutschlandfunk.de/im-norden-aethiopiens-geht-der-groesste-staudamm-afrikas-in-betrieb-102.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-eroeffnet-automesse-iaa-mobility-100.html",
-    "https://www.deutschlandfunk.de/groesster-staudamm-afrikas-wird-in-betrieb-genommen-100.html"
+    "https://www.deutschlandfunk.de/groesster-staudamm-afrikas-wird-in-betrieb-genommen-100.html",
+    "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-ice-razzien-auf-basis-ethnischer-merkmale-100.html",
+    "https://www.deutschlandfunk.de/erneut-israelische-luftangriffe-auf-militaerziele-in-syrien-100.html",
+    "https://www.deutschlandfunk.de/sozialdemokraten-gewinnen-parlamentswahl-rechtspopulisten-legen-deutlich-zu-100.html"
   ],
   "content_hashes": [
-    "70c52cb45cf4e91f63b09f488f37f058",
-    "98dcb1d41f2b3de00b47855643f52c60",
-    "0b6d4a985781beec13ca512a2afd817c",
     "36205071b4643783345a78d61193f6b2",
     "cf130a6dd4b66b1ac272425db98058f7",
     "d446709dd7adc5fccc97e31ced6b2cb6",
@@ -2001,12 +1998,12 @@
     "f7d9e3e1656650138ece1edbcc4439f8",
     "a59368e96dc30e8c78aed821682952e5",
     "5d78f2957e71e5089eb0aeb37dc1e98d",
-    "3f9e2a38006d7f8c9398fae0897bc393"
+    "3f9e2a38006d7f8c9398fae0897bc393",
+    "a6b7617c8c28953882f78896adc5fac8",
+    "a4f9a36a234b6ec5202642cc9033759f",
+    "8d04b7d6f3a2e691ef06de187729f98d"
   ],
   "titles": [
-    "Waldbrände - In Spanien und Portugal kommen weitere Feuerwehrleute ums Leben",
-    "Südostasien - Militärjunta in Myanmar kündigt Wahlen für Dezember an",
-    "Statistik - Ausgaben für Sozialhilfe um 14,8 Prozent gestiegen",
     "Sozialhilfe: Deutschland hat 2024 deutlich mehr Geld für Sozialhilfe ausgegeben",
     "CDU-Sozialflügel: Lob für Außenpolitik, Kritik an innenpolitischen Ergebnissen",
     "Bundesaußenminister in Tokio - Wadephul: Japan ist Premiumpartner Deutschlands in Asien",
@@ -3003,12 +3000,12 @@
     "Norwegen - Sozialdemokratische Arbeiterpartei gewinnt Parlamentswahl",
     "Wasserkraftwerk - Im Norden Äthiopiens geht der größte Staudamm Afrikas in Betrieb",
     "München - Bundeskanzler Merz eröffnet Automesse IAA Mobility",
-    "Äthiopien - Größter Staudamm Afrikas wird in Betrieb genommen"
+    "Äthiopien - Größter Staudamm Afrikas wird in Betrieb genommen",
+    "USA - Oberster Gerichtshof erlaubt ICE-Razzien auf Basis ethnischer Merkmale",
+    "Nahost - Erneut israelische Luftangriffe auf Militärziele in Syrien",
+    "Norwegen - Sozialdemokraten gewinnen Parlamentswahl, Rechtspopulisten legen deutlich zu"
   ],
   "hashes": [
-    "1ef8d6953cf8edfcea83a23c09f7b5f2",
-    "9a378075bfcc61d6440496d75267a11c",
-    "762d0a7a9b2b47974d31ae4381d6f605",
     "7b4e9a7e5202aff7ac22b119f41d6eb2",
     "1ba766998a9fceaec85611f76030eef7",
     "b0fccb9ff0cdc551b4bd0e0a3051f38e",
@@ -4005,6 +4002,9 @@
     "4ade42fcdeeb26efcff014a15b22a6aa",
     "cf1e19be0a6b795890eb9a8b63fecd01",
     "f4788d472569cba73e2874e8e5cd88b9",
-    "b68f2f99d5ebbe907b77ef49ecaf7f86"
+    "b68f2f99d5ebbe907b77ef49ecaf7f86",
+    "6ccd246a7e9947896caad06a50a76b68",
+    "9fd7441810e38f8cc4df6c45122ea2e2",
+    "2a09d0999b39623323ff28386ffb847d"
   ]
 }
