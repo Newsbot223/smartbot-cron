@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/antisemitismus-in-europa-juden-fuehlen-sich-bedroht-110642849.html",
-    "https://www.deutschlandfunk.de/ukraine-greift-pumpstation-in-russland-an-lieferung-durch-druschba-pipeline-unterbrochen-ungarn-besc-100.html",
     "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-eu-im-mai-um-30-prozent-niedriger-gegenueber-dem-vorjahr-102.html",
     "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-sie-hat-angst-gehasst-zu-werden-weil-sie-juedin-ist-110639221.html",
     "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/50-000-menschen-sind-ohne-strom-polizei-geht-von-brandstiftung-aus-100.html",
     "https://www.deutschlandfunk.de/sachsens-innenminister-schuster-kritisiert-aussteigerprogramm-fuer-rechtsterroristin-zschaepe-100.html",
     "https://www.deutschlandfunk.de/israels-armee-kuendigt-intensivierung-der-kaempfe-in-gaza-stadt-an-alle-einwohner-zur-flucht-aufgeru-102.html",
-    "https://www.deutschlandfunk.de/immer-mehr-menschen-mit-hochschulabschluss-in-deutschland-102.html"
+    "https://www.deutschlandfunk.de/immer-mehr-menschen-mit-hochschulabschluss-in-deutschland-102.html",
+    "https://www.deutschlandfunk.de/nach-unruhen-mit-19-toten-regierungschef-oli-tritt-zurueck-100.html",
+    "https://www.deutschlandfunk.de/merz-deutschland-soll-fuehrende-automobilindustrie-bleiben-100.html"
   ],
   "content_hashes": [
-    "061c4e611dcaf62924bf13a334f479da",
-    "66d6c491ccb9af33682499f6458a5c4e",
     "3a3493875492707cae2084550816973f",
     "bb4cb40a42b71cc53a11d87d283a93b3",
     "5eed8b2b2a555209a75a45f6da754e74",
@@ -2001,11 +1999,11 @@
     "5bf22583706d9cf61d6fac89398b085e",
     "f912fc731ad53ac4bc7282d5bc7032e7",
     "6f6f5abf89d914398dc22a9b00b3c689",
-    "ed3101aa323da2c822307dd73581794d"
+    "ed3101aa323da2c822307dd73581794d",
+    "b7463af28141da2e3cf447e4f69432f5",
+    "8058189d0685499a3c0770d406c9389f"
   ],
   "titles": [
-    "Antisemitismus: Die Juden sind allein in Europa",
-    "Erklärung des Generalstabs - Ukraine greift Pumpstation in Russland an - Lieferung durch Druschba-Pipeline unterbrochen - Ungarn beschwert sich",
     "Eurostat-Zahlen - Zahl der Asylanträge in EU im Mai um 30 Prozent niedriger gegenüber dem Vorjahr",
     "Jüdisches Leben: „Angst, dass ich gehasst werde, weil ich Jüdin bin“",
     "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos",
@@ -3003,11 +3001,11 @@
     "Stromausfall in Berlin - 50.000 Menschen sind ohne Strom - Polizei geht von Brandstiftung aus",
     "NSU-Morde - Sachsens Innenminister Schuster kritisiert Aussteigerprogramm für Rechtsterroristin Zschäpe",
     "Nahost - Israels Armee kündigt Intensivierung der Kämpfe in Gaza-Stadt an - alle Einwohner zur Flucht aufgerufen",
-    "OECD-Bericht - Immer mehr Menschen mit Hochschulabschluss in Deutschland"
+    "OECD-Bericht - Immer mehr Menschen mit Hochschulabschluss in Deutschland",
+    "Nepal - Nach Unruhen mit 19 Toten - Regierungschef Oli tritt zurück",
+    "IAA - Merz: Deutschland soll führende Automobilindustrie bleiben"
   ],
   "hashes": [
-    "9e972ccefa5a0dc3e9a5fa8fc45d46fc",
-    "49ac63f9658c157bac6c4489b9caed60",
     "d225a25f135a49667b78bd7a35230083",
     "28c3e58ad55e9febe651f8c32789df33",
     "6f54b8601977211f5ba73bfa0f099bfa",
@@ -4005,6 +4003,8 @@
     "3b3366a0d7c4077f785b22e9990fa7b0",
     "018f11145762f3d42fdc700b4eca9d57",
     "4367ddd8a9d1e5e619f0e1ebeee65f75",
-    "911f2e68dd00d7c8d2cd48dbd8f195e1"
+    "911f2e68dd00d7c8d2cd48dbd8f195e1",
+    "65b0cbc7791b992ff805973632e38288",
+    "d1e7b3b95e7ca5de78b6df8c0c3b8790"
   ]
 }
