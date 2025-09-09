@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/peking-hilft-putin-china-kritisiert-wadephul-110642960.html",
-    "https://www.deutschlandfunk.de/ergebnisse-und-knackpunkte-so-liefen-die-ukraine-gespraeche-zwischen-trump-selenskyj-und-den-europae-100.html",
-    "https://www.deutschlandfunk.de/lob-und-optimismus-nach-beratungen-in-washington-102.html",
-    "https://www.deutschlandfunk.de/wieder-gewalt-bei-protesten-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/bsw-sucht-neuen-namen-102.html",
     "https://www.deutschlandfunk.de/2024-wurden-mehr-als-380-helfer-getoetet-102.html",
     "https://www.deutschlandfunk.de/merz-ukraine-keine-gebietsabtretungen-aufzwingen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/praesidentin-sandu-moldau-vor-wichtigster-wahl-seiner-geschichte-100.html",
     "https://www.deutschlandfunk.de/verbrenner-aus-elektromobilitaet-industrielle-mobilitaet-100.html",
     "https://www.deutschlandfunk.de/macron-ernennt-verteidigungsminister-lecornu-zum-neuen-premier-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-20-rentner-bei-russischem-luftangriff-getoetet-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-20-rentner-bei-russischem-luftangriff-getoetet-100.html",
+    "https://www.deutschlandfunk.de/trump-warnung-an-katar-erfolgte-zu-spaet-internationale-kritik-an-israelischem-luftschlag-gegen-hama-100.html",
+    "https://www.deutschlandfunk.de/zehntausende-haushalte-im-suedosten-berlins-weiterhin-ohne-strom-104.html",
+    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-haelt-eine-rede-zur-lage-der-europaeischen-union-100.html",
+    "https://www.deutschlandfunk.de/urteilsverkuendung-zum-messeranschlag-von-solingen-102.html"
   ],
   "content_hashes": [
-    "fa4585666f77892a897f402852c0717f",
-    "1e0beb1a0157bd8b9ccecfc91717aa21",
-    "24cf3cf3b6da4d30c8d51e8800603e7d",
-    "61fecde71ecd0025cdb4d62f8093ea8d",
     "260f0f7d2d4a40fd672f0f6e0f054241",
     "777e9640c54e3eb3d2b3f821264b64d7",
     "7f552ebe3f803b97ee0b04b8eefbf506",
@@ -2001,13 +1997,13 @@
     "532dce3204722a261702c0be0b31b8a8",
     "e75d10a0fdc1d2359b998155aee6dae8",
     "b9ff45ad72adfe1e993e36f4ee697d9a",
-    "847271f5a4829bef12c3b7e0e416863e"
+    "847271f5a4829bef12c3b7e0e416863e",
+    "bc4dff3fd169888a184ab4043a43a620",
+    "7a942013afd499c899f487b1bec77569",
+    "84a7682a7c096bfc71d5ac166d548362",
+    "03e109b086f0478fb3d8688280c3dc43"
   ],
   "titles": [
-    "China kritisiert Wadephul: Für die Konfrontation sorgt Peking schon selbst",
-    "Washington - Ergebnisse und Knackpunkte: So liefen die Ukraine-Gespräche zwischen Trump, Selenskyj und den europäischen Verbündeten ab",
-    "NATO und EU - Lob und Optimismus nach Beratungen in Washington",
-    "Serbien - Wieder Gewalt bei Protesten gegen die Regierung",
     "\"Bündnis Sahra Wagenknecht\" - BSW sucht neuen Namen",
     "Welttag der humanitären Hilfe - 2024 wurden mehr als 380 Helfer getötet",
     "Nach Treffen in Washington - Merz: \"Ukraine keine Gebietsabtretungen aufzwingen\"",
@@ -3003,13 +2999,13 @@
     "Rede vor dem EU-Parlament - Präsidentin Sandu: Moldau vor \"wichtigster Wahl seiner Geschichte\"",
     "Kommentar - Keine Rolle rückwärts beim Verbrenner-Aus",
     "Frankreich - Macron ernennt Verteidigungsminister Lecornu zum neuen Premier",
-    "Krieg in der Ukraine - Mehr als 20 Rentner bei russischem Luftangriff getötet"
+    "Krieg in der Ukraine - Mehr als 20 Rentner bei russischem Luftangriff getötet",
+    "Nahostkonflikt - Trump: Warnung an Katar erfolgte zu spät - internationale Kritik an israelischem Luftschlag gegen Hamas-Führung in Doha",
+    "Brandanschlag auf Starkstromkabel - Zehntausende Haushalte im Südosten Berlins weiterhin ohne Strom",
+    "Straßburg - EU-Kommissionspräsidentin hält eine Rede zur Lage der Europäischen Union",
+    "Oberlandesgericht Düsseldorf - Urteilsverkündung zum Messeranschlag von Solingen"
   ],
   "hashes": [
-    "17ca4b870492744cac575d2e6f9f92ac",
-    "b871df19cc9a794a725ed60ca66f6f46",
-    "938e1cf333c927bc5e9fdcfc1437c891",
-    "d00af5569a751385ba9530428ee07604",
     "e97cf8a733773655f85c87e825110f16",
     "3c1034e3f72a8e5e4d0d630ac0db58fa",
     "dd41e11f8ca58bccc9b87230b02c5067",
@@ -4005,6 +4001,10 @@
     "0c4e9e96538fece21d4f60dd1c5ae075",
     "3a616c02062db8237d7e32ab33c76dbd",
     "a22421161688a4d3454f1dcd846b9850",
-    "53bc095c489761f67dfb1e865f5e3d7d"
+    "53bc095c489761f67dfb1e865f5e3d7d",
+    "61d4e82a19b9a2a1e3fe6036e4824718",
+    "b1e83b8cb29125a009ffc6bb43b20c59",
+    "2e823d8e488a85f4945b6ec31d6e14de",
+    "c15aca45d0dbce618e91be442975654e"
   ]
 }
