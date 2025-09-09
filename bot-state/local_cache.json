@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-asylantraege-in-eu-im-mai-um-30-prozent-niedriger-gegenueber-dem-vorjahr-102.html",
-    "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-sie-hat-angst-gehasst-zu-werden-weil-sie-juedin-ist-110639221.html",
     "https://www.faz.net/aktuell/politik/inland/spd-provoziert-union-mit-vermoegensteuer-lars-klingbeil-der-sisyphos-110642911.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-gespraechen-mit-trump-ueber-ukraine-krieg-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/hamas-akzeptiert-offenbar-neuen-vorschlag-fuer-waffenruhe-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israels-armee-kuendigt-intensivierung-der-kaempfe-in-gaza-stadt-an-alle-einwohner-zur-flucht-aufgeru-102.html",
     "https://www.deutschlandfunk.de/immer-mehr-menschen-mit-hochschulabschluss-in-deutschland-102.html",
     "https://www.deutschlandfunk.de/nach-unruhen-mit-19-toten-regierungschef-oli-tritt-zurueck-100.html",
-    "https://www.deutschlandfunk.de/merz-deutschland-soll-fuehrende-automobilindustrie-bleiben-100.html"
+    "https://www.deutschlandfunk.de/merz-deutschland-soll-fuehrende-automobilindustrie-bleiben-100.html",
+    "https://www.deutschlandfunk.de/erste-haushalte-im-suedosten-berlins-wieder-mit-strom-versorgt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutliche-mehrheit-der-erwachsenen-will-mindestalter-in-sozialen-medien-und-mehr-schutz-accg-110677350.html"
   ],
   "content_hashes": [
-    "3a3493875492707cae2084550816973f",
-    "bb4cb40a42b71cc53a11d87d283a93b3",
     "5eed8b2b2a555209a75a45f6da754e74",
     "9272f275a08d13b588d5b1f7b619df65",
     "bd190e6d99fe5f6580444ee405dfb21e",
@@ -2001,11 +1999,11 @@
     "6f6f5abf89d914398dc22a9b00b3c689",
     "ed3101aa323da2c822307dd73581794d",
     "b7463af28141da2e3cf447e4f69432f5",
-    "8058189d0685499a3c0770d406c9389f"
+    "8058189d0685499a3c0770d406c9389f",
+    "5e247efefbdcf12c57b7de488954b853",
+    "ba119f5704e7a6f975b3f45945728874"
   ],
   "titles": [
-    "Eurostat-Zahlen - Zahl der Asylanträge in EU im Mai um 30 Prozent niedriger gegenüber dem Vorjahr",
-    "Jüdisches Leben: „Angst, dass ich gehasst werde, weil ich Jüdin bin“",
     "SPD für höhere Steuern: Lars Klingbeil, der Sisyphos",
     "Treffen im Weißen Haus - Selenskyj zu Gesprächen mit Trump über Ukraine-Krieg eingetroffen",
     "Krieg im Gazastreifen - Hamas akzeptiert offenbar neuen Vorschlag für Waffenruhe",
@@ -3003,11 +3001,11 @@
     "Nahost - Israels Armee kündigt Intensivierung der Kämpfe in Gaza-Stadt an - alle Einwohner zur Flucht aufgerufen",
     "OECD-Bericht - Immer mehr Menschen mit Hochschulabschluss in Deutschland",
     "Nepal - Nach Unruhen mit 19 Toten - Regierungschef Oli tritt zurück",
-    "IAA - Merz: Deutschland soll führende Automobilindustrie bleiben"
+    "IAA - Merz: Deutschland soll führende Automobilindustrie bleiben",
+    "Nach mutmaßlichem Brandanschlag - Erste Haushalte im Südosten Berlins wieder mit Strom versorgt",
+    "Ifo-Bildungsbarometer: Deutliche Mehrheit der Erwachsenen für Mindestalter in sozialen Medien"
   ],
   "hashes": [
-    "d225a25f135a49667b78bd7a35230083",
-    "28c3e58ad55e9febe651f8c32789df33",
     "6f54b8601977211f5ba73bfa0f099bfa",
     "247de96730a59e830ee739251e58935e",
     "f5eb9d0d4f0d28e63a7aae46ca4878b4",
@@ -4005,6 +4003,8 @@
     "4367ddd8a9d1e5e619f0e1ebeee65f75",
     "911f2e68dd00d7c8d2cd48dbd8f195e1",
     "65b0cbc7791b992ff805973632e38288",
-    "d1e7b3b95e7ca5de78b6df8c0c3b8790"
+    "d1e7b3b95e7ca5de78b6df8c0c3b8790",
+    "5020c0fb9429952aedbffcff75ecb8bb",
+    "04fc7c3accdf0cf2eb4d016684a1c38c"
   ]
 }
