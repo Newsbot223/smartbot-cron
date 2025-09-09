@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mutmasslicher-boss-im-koelner-drogenkrieg-angeklagt-102.html",
-    "https://www.spiegel.de/politik/deutschland/immobilien-linke-fordern-sondersteuer-auf-luxusvillen-ab-vier-millionen-euro-a-ade33317-68ef-4cd5-90d5-3c5fbc35f7e8#ref=rss",
     "https://www.deutschlandfunk.de/nach-klingbeil-aeusserungen-union-lehnt-steuererhoehungen-ab-bilger-cdu-der-falsche-weg-102.html",
     "https://www.deutschlandfunk.de/sohn-von-kronprinzessin-wegen-vierfacher-vergewaltigung-angeklagt-102.html",
     "https://www.faz.net/aktuell/politik/inland/antisemitismus-in-europa-juden-fuehlen-sich-bedroht-110642849.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-sturz-der-mitte-rechts-regierung-praesident-macron-will-bald-neuen-premierminister-ernennen-100.html",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-ordnet-haftstrafe-fuer-ex-regierungschef-thaksin-shinawatra-an-102.html",
     "https://www.deutschlandfunk.de/spd-gesundheitspolitiker-pantazis-klinik-atlas-weiter-entwickeln-nicht-abwickeln-100.html",
-    "https://www.deutschlandfunk.de/vda-produktionsstandort-deutschland-immer-weniger-wettbewerbsfaehig-100.html"
+    "https://www.deutschlandfunk.de/vda-produktionsstandort-deutschland-immer-weniger-wettbewerbsfaehig-100.html",
+    "https://www.deutschlandfunk.de/50-000-menschen-sind-ohne-strom-polizei-geht-von-brandstiftung-aus-100.html",
+    "https://www.deutschlandfunk.de/sachsens-innenminister-schuster-kritisiert-aussteigerprogramm-fuer-rechtsterroristin-zschaepe-100.html"
   ],
   "content_hashes": [
-    "fcedd146bb5275dc6182c1e2f16f3c01",
-    "15a2fae546bc6fb945e90d8e891bb52c",
     "6bdb5744dffc70bb767a87e570f3c4d8",
     "2ea014598633c56640b7cf548de1b337",
     "061c4e611dcaf62924bf13a334f479da",
@@ -2001,11 +1999,11 @@
     "948a60e53db6b2946c39b93b756e7636",
     "9e7e94f50e1a0e376e3c55959841276b",
     "2c1e9bf58c177ed30cd69eec9e33ee5f",
-    "6f38beaab526a080e02639a277669129"
+    "6f38beaab526a080e02639a277669129",
+    "5bf22583706d9cf61d6fac89398b085e",
+    "f912fc731ad53ac4bc7282d5bc7032e7"
   ],
   "titles": [
-    "Bandenkriminalität - Mutmaßlicher Boss im \"Kölner Drogenkrieg\" angeklagt",
-    "Immobilien: Linke fordern Sondersteuer auf Luxusvillen ab vier Millionen Euro",
     "Staatsfinanzen - Nach Klingbeil-Äußerungen: Union lehnt Steuererhöhungen ab - Bilger (CDU): \"Der falsche Weg\"",
     "Norwegen - Sohn von Kronprinzessin wegen vierfacher Vergewaltigung angeklagt",
     "Antisemitismus: Die Juden sind allein in Europa",
@@ -3003,11 +3001,11 @@
     "Frankreich - Nach Sturz der Mitte-Rechts-Regierung: Präsident Macron will bald neuen Premierminister ernennen",
     "Thailand - Oberster Gerichtshof ordnet Haftstrafe für Ex-Regierungschef Thaksin Shinawatra an",
     "Online-Informationsangebot - SPD-Gesundheitspolitiker Pantazis: \"Klinik-Atlas weiter entwickeln, nicht abwickeln\"",
-    "Autoindustrie - VDA: Produktionsstandort Deutschland \"immer weniger\" wettbewerbsfähig"
+    "Autoindustrie - VDA: Produktionsstandort Deutschland \"immer weniger\" wettbewerbsfähig",
+    "Stromausfall in Berlin - 50.000 Menschen sind ohne Strom - Polizei geht von Brandstiftung aus",
+    "NSU-Morde - Sachsens Innenminister Schuster kritisiert Aussteigerprogramm für Rechtsterroristin Zschäpe"
   ],
   "hashes": [
-    "fa1573f7a309cc207e0bac99b8bc2ce2",
-    "118f36981803a7bf0cd88f390ff91635",
     "5033c8f39c912f609f72fb6d0a91b2c3",
     "064e81c113104200e819e9b409772e21",
     "9e972ccefa5a0dc3e9a5fa8fc45d46fc",
@@ -4005,6 +4003,8 @@
     "f4e7a9cdb82768bf17d79d39674d1942",
     "745653421b98e7db6d2573a3f85b2626",
     "8365b1a9e4413f8f92e3435e553aa138",
-    "94cc6c5fa0e32283aa35d0acc2fef560"
+    "94cc6c5fa0e32283aa35d0acc2fef560",
+    "3b3366a0d7c4077f785b22e9990fa7b0",
+    "018f11145762f3d42fdc700b4eca9d57"
   ]
 }
