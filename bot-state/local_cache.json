@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/techniker-krankenkasse-so-viele-verschriebene-medikamente-wie-noch-nie-100.html",
-    "https://www.spiegel.de/panorama/oesterreich-29-jaehriger-verunglueckt-am-grossglockner-toedlich-a-8a2bae94-7751-4a21-9d98-0bda7778f070#ref=rss",
     "https://www.deutschlandfunk.de/trump-aeussert-sich-unsicher-ueber-putins-absichten-100.html",
     "https://www.deutschlandfunk.de/razzia-im-rockermilieu-in-bayern-sachsen-und-thueringen-100.html",
     "https://www.deutschlandfunk.de/russland-uebergibt-leichen-von-1-000-ukrainischen-soldaten-an-kiew-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polen-meldet-abschuss-von-drohnen-100.html",
     "https://www.deutschlandfunk.de/fast-200-festnahmen-bei-blockadeaktionen-in-frankreich-102.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-fordert-ende-der-einstimmigkeitsregel-100.html",
-    "https://www.deutschlandfunk.de/richterin-blockiert-trumps-entlassung-von-gouverneurin-der-notenbank-fed-100.html"
+    "https://www.deutschlandfunk.de/richterin-blockiert-trumps-entlassung-von-gouverneurin-der-notenbank-fed-100.html",
+    "https://www.deutschlandfunk.de/was-artikel-4-und-artikel-5-im-nato-vertrag-bedeuten-100.html",
+    "https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss"
   ],
   "content_hashes": [
-    "94d5e36c06f26c820f9fcd7524f70b91",
-    "1d08a9fe774ba525422463d04c07ec52",
     "8de12064cd6349d5ac30dc49fe3a73ea",
     "57372093b94530676fa74a3cc84467cc",
     "786140755f8f2ef562d4b14e29cbe291",
@@ -2001,11 +1999,11 @@
     "1181e58c80329b41af78bb00d7dd2fc3",
     "e18a0c002c8b7f343d923b4b261a3bc3",
     "63cf23aa136f202b8fdf1eb1987fef5b",
-    "7fa072b1522bf69aea97098ec72a0ea6"
+    "7fa072b1522bf69aea97098ec72a0ea6",
+    "b438cd94942aac64b1e3c52425aac35a",
+    "4e04b214738bf0f64e68884bfa3f5c85"
   ],
   "titles": [
-    "Gesundheit - Techniker Krankenkasse: So viele verschriebene Medikamente wie noch nie",
-    "Österreich: 29-Jähriger verunglückt am Großglockner tödlich",
     "Ukraine-Krieg - Trump äußert sich unsicher über Putins Absichten",
     "Polizei - Razzia im Rockermilieu in Bayern, Sachsen und Thüringen",
     "Ukraine-Krieg - Russland übergibt Leichen von 1.000 ukrainischen Soldaten an Kiew",
@@ -3003,11 +3001,11 @@
     "Krieg in der Ukraine - Polen schießt Drohnen in eigenem Luftraum ab",
     "Innenministerium - Fast 200 Festnahmen bei Blockadeaktionen in Frankreich",
     "Straßburg - EU-Kommissionspräsidentin von der Leyen fordert Ende der Einstimmigkeitsregel",
-    "USA - Richterin blockiert Trumps Entlassung von Gouverneurin der Notenbank Fed"
+    "USA - Richterin blockiert Trumps Entlassung von Gouverneurin der Notenbank Fed",
+    "Hintergrund - Was Artikel 4 und Artikel 5 im NATO-Vertrag bedeuten",
+    "Asyl: Zahl der Empfänger von staatlichen Leistungen geht zurück"
   ],
   "hashes": [
-    "9fe530dfb741852d895f0dbaecec2cec",
-    "1839c779a6e7cb1cc5524cff534e19d4",
     "e194afcc5c0953600c3d850c9139efd5",
     "e466c4a62acb662590424d04ef5b3d1e",
     "a848733cc589468ccf1c8e803541a379",
@@ -4005,6 +4003,8 @@
     "a9f90005d3b2cf1f06e147c316d48ceb",
     "45119469828f5864aa52361109025e97",
     "5366ef27ed9ef47c1008c88508d92e6b",
-    "0a05037b608bc9e5ff553ac351e3c862"
+    "0a05037b608bc9e5ff553ac351e3c862",
+    "1ba38c8a71a432eaf28d2845a3f3ca59",
+    "6b6085041a767ab0f04cd2ab000c078b"
   ]
 }
