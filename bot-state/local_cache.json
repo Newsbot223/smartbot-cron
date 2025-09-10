@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/premierminister-modi-indien-und-china-naehern-sich-an-100.html",
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-nach-gipfeltreffen-traurig-dass-putins-kgb-psychotricks-bei-trump-funktionieren-110644047.html",
-    "https://www.deutschlandfunk.de/regierung-will-bei-chipkonzern-intel-einsteigen-100.html",
-    "https://www.deutschlandfunk.de/streit-zwischen-union-und-spd-um-steuererhoehungen-geht-weiter-100.html",
     "https://www.deutschlandfunk.de/air-canada-kann-nach-beigelegtem-streik-wieder-abheben-102.html",
     "https://www.deutschlandfunk.de/trump-aeussert-zweifel-an-putins-absichten-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nur-die-spitze-des-eisbergs-110645086.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundesregierung-sieht-eindringen-von-drohnen-in-polen-als-sehr-ernsten-vorfall-100.html",
     "https://www.deutschlandfunk.de/polen-beantragt-nato-konsultationen-nach-artikel-4-moskau-bestreitet-gezielten-abschuss-100.html",
     "https://www.deutschlandfunk.de/von-der-leyen-eu-kommission-setzt-zahlungen-an-israel-aus-wahdephul-und-dobrindt-reagieren-skeptisch-102.html",
-    "https://www.faz.net/aktuell/politik/inland/fall-friedland-rot-gruen-zeigt-sich-geschlossen-110679340.html"
+    "https://www.faz.net/aktuell/politik/inland/fall-friedland-rot-gruen-zeigt-sich-geschlossen-110679340.html",
+    "https://www.deutschlandfunk.de/20-000-haushalte-bleiben-bis-donnerstag-ohne-strom-100.html",
+    "https://www.deutschlandfunk.de/markt-fuer-streaming-dienste-und-pay-tv-in-deutschland-waechst-102.html",
+    "https://www.deutschlandfunk.de/offene-stellen-im-handwerk-bleiben-lange-unbesetzt-100.html",
+    "https://www.aljazeera.com/news/2025/9/10/israel-attacks-yemen-capital-report?traffic_source=rss"
   ],
   "content_hashes": [
-    "03d5b1cc6e1b1f703b37068b28ee16c0",
-    "8c6730246c8b12e515741d77006eb3d9",
-    "f68f307ef4a8baedc9d23e6075367df5",
-    "2af2c5108f6516c9cb23fa336d3f328a",
     "5ade92c4165090e7e42868306037ce65",
     "f52e5c1c8dbd8cf17274b0965a94b3bf",
     "dae8e5ee78d57dd6cfa31dff98b4f995",
@@ -2001,13 +1997,13 @@
     "2c1649ab70d641c5299dc09c02348eab",
     "6328cf801f987a3d3b765758c549d41d",
     "be7d8cf8b662f71a839fe0dc9438c245",
-    "5ce9dc0c37a71a3d96d5df971994eae4"
+    "5ce9dc0c37a71a3d96d5df971994eae4",
+    "5def7722eaef362f41ef3a1202373c0e",
+    "7f302876748440379dfc80f7400e3fbb",
+    "14e2c3c7b74e27b3290c3c140ea0fdcc",
+    "247c00c92c21da057ee6e69887770f29"
   ],
   "titles": [
-    "Neu Delhi - Premierminister Modi: Indien und China nähern sich an",
-    "F.A.Z. Podcast für Deutschland: Militärexperte Lange nach Gipfeltreffen: „Traurig, dass Putins KGB-Psychotricks bei Trump funktionieren“",
-    "USA - Regierung will bei Chipkonzern Intel einsteigen",
-    "Vorstoß von Finanzminister Klingbeil - Streit zwischen Union und SPD um Steuererhöhungen geht weiter",
     "Nordamerika - Air Canada kann nach beigelegtem Streik wieder abheben",
     "Ukraine-Krieg - Trump äußert Zweifel an Putins Absichten",
     "Antimuslimische Straftaten: Nur die Spitze des Eisbergs",
@@ -3003,13 +2999,13 @@
     "Berlin - Bundesregierung sieht Eindringen von Drohnen in Polen als \"sehr ernsten Vorfall\"",
     "Nach Abschuss von russischen Drohnen - Polen beantragt NATO-Konsultationen nach Artikel 4 - Moskau bestreitet gezielten Abschuss",
     "Gaza-Krieg - Von der Leyen: EU-Kommission setzt Zahlungen an Israel aus - Wahdephul und Dobrindt reagieren skeptisch",
-    "Niedersachsen: Für Rot-Grün geht es beim „Fall Friedland“ nicht um das Ausländerrecht"
+    "Niedersachsen: Für Rot-Grün geht es beim „Fall Friedland“ nicht um das Ausländerrecht",
+    "Berlin - 20.000 Haushalte bleiben bis Donnerstag ohne Strom",
+    "Bilanz - Markt für Streaming-Dienste und Pay-TV in Deutschland wächst",
+    "Deutschland - Offene Stellen im Handwerk bleiben lange unbesetzt",
+    "Israel attacks Yemen’s capital Sanaa a day after bombing Qatar’s Doha"
   ],
   "hashes": [
-    "524f0d3d4da9894d5b041c23cd11ec62",
-    "e0533a839684e9290f91a579bd99d82a",
-    "6778f7ffb5d15f2aff5fb5e8c36b9c59",
-    "ee32e367f4b772e608f7f9c583311228",
     "de14fce6de7d4fa6d01d1321fdb87a2d",
     "974691b346e5b9552355e186e0a22e88",
     "afca0acc6a41dc77394dd2423306f1e5",
@@ -4005,6 +4001,10 @@
     "a44d0edff261db0f1c0dfb523d8a0093",
     "18db3b68ea7b38818d9b48b9dee5bb8a",
     "37fb7da52db06dd617bdad51683dcdab",
-    "0d3eb09088c8d296bc58c6515d7f74bd"
+    "0d3eb09088c8d296bc58c6515d7f74bd",
+    "f3c519743bb6ad454b7851585f5ecd41",
+    "c20b32d01f84ba5566813e4f76e02b96",
+    "ff17250890531c07f8cfac6586a505c8",
+    "66f39f465541726457531e9f32cceb4f"
   ]
 }
