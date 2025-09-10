@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unionspolitiker-lehnen-steuererhoehungen-fuer-spitzenverdiener-ab-100.html",
-    "https://www.deutschlandfunk.de/verheerendste-feuer-in-spanien-seit-20-jahren-106.html",
     "https://www.faz.net/aktuell/politik/inland/gericht-bestaetigt-wahlausschluss-von-afd-kandidaten-paul-110644172.html",
     "https://www.deutschlandfunk.de/kritik-an-kloeckner-nach-gleichsetzung-von-taz-und-nius-reichinnek-linke-legt-bundestagspraesidentin-100.html",
     "https://www.deutschlandfunk.de/getreideernte-deutlich-besser-als-im-vorjahr-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutsche-industrie-unzufrieden-mit-eu-alternative-zu-chinas-seidenstrassen-projekt-100.html",
     "https://www.deutschlandfunk.de/kabinett-befasst-sich-mit-pendlerpauschale-und-gastro-steuer-102.html",
     "https://www.aljazeera.com/news/2025/9/10/russia-ukraine-war-list-of-key-events-day-1294?traffic_source=rss",
-    "https://www.deutschlandfunk.de/polen-schiesst-erstmals-russische-drohnen-ueber-eigenem-staatsgebiet-ab-100.html"
+    "https://www.deutschlandfunk.de/polen-schiesst-erstmals-russische-drohnen-ueber-eigenem-staatsgebiet-ab-100.html",
+    "https://www.deutschlandfunk.de/klage-oesterreichs-gegen-einstufung-von-gas-und-atomkraft-als-nachhaltig-abgewiesen-100.html",
+    "https://www.deutschlandfunk.de/ministerin-warken-noch-keine-einigung-in-der-regierung-ueber-krankenhausreform-100.html"
   ],
   "content_hashes": [
-    "60bba501c0f745dcb061e65cf16ba2de",
-    "513806de5b3a1744b2aa55d6ab64617a",
     "cfb60628d18792323bb653a909dbd543",
     "91687f7e5f717b49181a22eecf51ac19",
     "ea1bacce75a6bf872bf75d50ba0417a9",
@@ -2001,11 +1999,11 @@
     "167674d010bbfc9b05cacb3b602e5754",
     "bb6ebba1fe8de0188e04c2a15fa082a7",
     "d0b51689a49257be6070e5e19569ef23",
-    "03c66d32ea5ee630e262018a21e1a3b4"
+    "03c66d32ea5ee630e262018a21e1a3b4",
+    "cceab4ae0a87ff838ab3c139d4264497",
+    "c66401aaed0ed8aeb710a743e5806ca5"
   ],
   "titles": [
-    "Nach Klingbeil-Äußerungen - Unionspolitiker lehnen Steuererhöhungen für Spitzenverdiener ab",
-    "Waldbrände - Verheerendste Feuer in Spanien seit 20 Jahren",
     "Ludwigshafen: Gericht bestätigt Wahlausschluss von AfD-Kandidaten Paul",
     "Medien - Kritik an Klöckner nach Gleichsetzung von \"Taz\" und \"Nius\": Reichinnek (Linke) legt Bundestagspräsidentin Rückzug nahe",
     "Landwirtschaft - Getreideernte deutlich besser als im Vorjahr",
@@ -3003,11 +3001,11 @@
     "\"Golbal Gateway\" - Deutsche Industrie unzufrieden mit EU-Alternative zu Chinas Seidenstraßen-Projekt",
     "Berlin - Kabinett befasst sich mit Pendlerpauschale und Gastro-Steuer",
     "Russia-Ukraine war: List of key events, day 1,294",
-    "Ukraine-Krieg - Polen schießt erstmals russische Drohnen über eigenem Staatsgebiet ab"
+    "Ukraine-Krieg - Polen schießt erstmals russische Drohnen über eigenem Staatsgebiet ab",
+    "EU-Gericht - Klage Österreichs gegen Einstufung von Gas und Atomkraft als nachhaltig abgewiesen",
+    "Gesundheit - Ministerin Warken: Noch keine Einigung in der Regierung über Krankenhausreform"
   ],
   "hashes": [
-    "7a6a9d3b7e06c86e6f0a098a13a4eb57",
-    "2f5c808945c030a14fd041a2a3513fa7",
     "a34d37e21e7a5a0f213ed3f99d3198bb",
     "14f81f33d535374e9505644f923e90df",
     "22d7c3fcdfbd327d4b409079e512fef1",
@@ -4005,6 +4003,8 @@
     "90240baaf573472a8faeba87abcf0a6c",
     "b43048094ceb25b485a7e5e70a405f88",
     "032e6474ed4fdc1a88222692accb7805",
-    "7756a8155e4c3fb411c8522d2656f8d7"
+    "7756a8155e4c3fb411c8522d2656f8d7",
+    "578aa1c35f09fb823fd9aa1ff63a5f36",
+    "95d98d94084c830dbd554d97795483c3"
   ]
 }
