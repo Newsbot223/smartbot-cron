@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/vorfall-bei-vueling-linksjugend-loescht-antisemitischen-post-110644335.html",
-    "https://www.faz.net/aktuell/politik/inland/rheinland-pfalz-keine-unangekuendigten-tests-mehr-fuer-schueler-110644835.html",
-    "https://www.deutschlandfunk.de/krankenhaeuser-28-palaestinenser-bei-israelischen-angriffen-getoetet-100.html",
     "https://www.deutschlandfunk.de/premierminister-modi-indien-und-china-naehern-sich-an-100.html",
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-nach-gipfeltreffen-traurig-dass-putins-kgb-psychotricks-bei-trump-funktionieren-110644047.html",
     "https://www.deutschlandfunk.de/regierung-will-bei-chipkonzern-intel-einsteigen-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/politik/deutschland/asyl-zahl-der-empfaenger-von-staatlichen-leistungen-geht-zurueck-a-60c01b11-8e4a-432d-bccd-efcbf93469c1#ref=rss",
     "https://www.deutschlandfunk.de/drei-migranten-bei-bootsunglueck-ums-leben-gekommen-drei-weitere-vermisst-100.html",
     "https://www.deutschlandfunk.de/polen-beantragt-nach-abschuss-von-russischen-drohnen-nato-konsultationen-nach-artikel-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-sieht-eindringen-von-drohnen-in-polen-als-sehr-ernsten-vorfall-100.html"
+    "https://www.deutschlandfunk.de/bundesregierung-sieht-eindringen-von-drohnen-in-polen-als-sehr-ernsten-vorfall-100.html",
+    "https://www.deutschlandfunk.de/polen-beantragt-nato-konsultationen-nach-artikel-4-moskau-bestreitet-gezielten-abschuss-100.html",
+    "https://www.deutschlandfunk.de/von-der-leyen-eu-kommission-setzt-zahlungen-an-israel-aus-wahdephul-und-dobrindt-reagieren-skeptisch-102.html",
+    "https://www.faz.net/aktuell/politik/inland/fall-friedland-rot-gruen-zeigt-sich-geschlossen-110679340.html"
   ],
   "content_hashes": [
-    "069507cfdca8fffe6b243de77bc66a0f",
-    "70bd3897d09e53b49b11f960519828c4",
-    "58bba6f315f5d743ee583db1f2396b96",
     "03d5b1cc6e1b1f703b37068b28ee16c0",
     "8c6730246c8b12e515741d77006eb3d9",
     "f68f307ef4a8baedc9d23e6075367df5",
@@ -2001,12 +1998,12 @@
     "4e04b214738bf0f64e68884bfa3f5c85",
     "6275bbbc4efb78a88c21beeeec914970",
     "dc6f4d64753f7721ad635c25daa36a97",
-    "2c1649ab70d641c5299dc09c02348eab"
+    "2c1649ab70d641c5299dc09c02348eab",
+    "6328cf801f987a3d3b765758c549d41d",
+    "be7d8cf8b662f71a839fe0dc9438c245",
+    "5ce9dc0c37a71a3d96d5df971994eae4"
   ],
   "titles": [
-    "Vorfall bei Fluglinie Vueling: Frankfurter Linksjugend löscht antisemitischen Post",
-    "Rheinland-Pfalz: Keine unangekündigten Tests mehr für Schüler",
-    "Gaza-Krieg - Krankenhäuser: 28 Palästinenser bei israelischen Angriffen getötet",
     "Neu Delhi - Premierminister Modi: Indien und China nähern sich an",
     "F.A.Z. Podcast für Deutschland: Militärexperte Lange nach Gipfeltreffen: „Traurig, dass Putins KGB-Psychotricks bei Trump funktionieren“",
     "USA - Regierung will bei Chipkonzern Intel einsteigen",
@@ -3003,12 +3000,12 @@
     "Asyl: Zahl der Empfänger von staatlichen Leistungen geht zurück",
     "Ärmelkanal - Drei Migranten bei Bootsunglück ums Leben gekommen, drei weitere vermisst",
     "Ukraine-Krieg - Polen beantragt nach Abschuss von russischen Drohnen NATO-Konsultationen nach Artikel 4",
-    "Berlin - Bundesregierung sieht Eindringen von Drohnen in Polen als \"sehr ernsten Vorfall\""
+    "Berlin - Bundesregierung sieht Eindringen von Drohnen in Polen als \"sehr ernsten Vorfall\"",
+    "Nach Abschuss von russischen Drohnen - Polen beantragt NATO-Konsultationen nach Artikel 4 - Moskau bestreitet gezielten Abschuss",
+    "Gaza-Krieg - Von der Leyen: EU-Kommission setzt Zahlungen an Israel aus - Wahdephul und Dobrindt reagieren skeptisch",
+    "Niedersachsen: Für Rot-Grün geht es beim „Fall Friedland“ nicht um das Ausländerrecht"
   ],
   "hashes": [
-    "1a733cf3162d2d3bb71265d63681a07a",
-    "4fc3230cd149da0fed7cb38360f7b4ec",
-    "fbf283c60a3610bb68ba598de15897ae",
     "524f0d3d4da9894d5b041c23cd11ec62",
     "e0533a839684e9290f91a579bd99d82a",
     "6778f7ffb5d15f2aff5fb5e8c36b9c59",
@@ -4005,6 +4002,9 @@
     "6b6085041a767ab0f04cd2ab000c078b",
     "ca5f02c92153e37bb7a9a4f9dd2c3af7",
     "088f7f73b88f9508acd3eabea92b47f0",
-    "a44d0edff261db0f1c0dfb523d8a0093"
+    "a44d0edff261db0f1c0dfb523d8a0093",
+    "18db3b68ea7b38818d9b48b9dee5bb8a",
+    "37fb7da52db06dd617bdad51683dcdab",
+    "0d3eb09088c8d296bc58c6515d7f74bd"
   ]
 }
