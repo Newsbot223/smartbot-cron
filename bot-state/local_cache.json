@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/generalstaatsanwaltschaft-erhebt-anklage-gegen-todesfahrer-vom-magdeburger-weihnachtsmarkt-100.html",
-    "https://www.deutschlandfunk.de/offenbar-vier-bundeswehrautos-in-brand-gesteckt-staatsschutz-in-kassel-ermittelt-102.html",
     "https://www.deutschlandfunk.de/sachsen-eroeffnet-in-chile-verbindungsbuero-zur-akquise-von-studenten-und-fachkraeften-102.html",
     "https://www.deutschlandfunk.de/techniker-krankenkasse-so-viele-verschriebene-medikamente-wie-noch-nie-100.html",
     "https://www.spiegel.de/panorama/oesterreich-29-jaehriger-verunglueckt-am-grossglockner-toedlich-a-8a2bae94-7751-4a21-9d98-0bda7778f070#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/novo-nordisk-kuendigt-streichung-von-9-000-stellen-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-mehr-syrer-aus-der-tuerkei-heimkehren-als-aus-deutschland-accg-110677776.html",
     "https://www.deutschlandfunk.de/messeranschlag-von-solingen-hoechststrafe-fuer-attentaeter-100.html",
-    "https://www.deutschlandfunk.de/polen-meldet-abschuss-von-drohnen-100.html"
+    "https://www.deutschlandfunk.de/polen-meldet-abschuss-von-drohnen-100.html",
+    "https://www.deutschlandfunk.de/fast-200-festnahmen-bei-blockadeaktionen-in-frankreich-102.html",
+    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-fordert-ende-der-einstimmigkeitsregel-100.html"
   ],
   "content_hashes": [
-    "d2fdb8e41b61a768e9c14b45c9132e27",
-    "b31cff4f5cee93b11aa2fa0f569b1716",
     "4548d3b4ceee6a8c39bdba18a21cfb7e",
     "94d5e36c06f26c820f9fcd7524f70b91",
     "1d08a9fe774ba525422463d04c07ec52",
@@ -2001,11 +1999,11 @@
     "66fd78da3de0a7e0effac01496e8c66e",
     "5435d6c5f9bc297d273a12a0538e0195",
     "091b7fd9be4cb1126458f494a35ee673",
-    "1181e58c80329b41af78bb00d7dd2fc3"
+    "1181e58c80329b41af78bb00d7dd2fc3",
+    "e18a0c002c8b7f343d923b4b261a3bc3",
+    "63cf23aa136f202b8fdf1eb1987fef5b"
   ],
   "titles": [
-    "Sachsen-Anhalt - Generalstaatsanwaltschaft erhebt Anklage gegen Todesfahrer vom Magdeburger Weihnachtsmarkt",
-    "Hessen - Offenbar vier Bundeswehrautos in Brand gesteckt - Staatsschutz in Kassel ermittelt",
     "TU Chemnitz - Sachsen eröffnet in Chile Verbindungsbüro zur Akquise von Studenten und Fachkräften",
     "Gesundheit - Techniker Krankenkasse: So viele verschriebene Medikamente wie noch nie",
     "Österreich: 29-Jähriger verunglückt am Großglockner tödlich",
@@ -3003,11 +3001,11 @@
     "Pharma-Industrie - Novo Nordisk kündigt Streichung von 9.000 Stellen an",
     "Asyldebatte: Warum mehr Syrer aus der Türkei heimkehren als aus Deutschland",
     "Oberlandesgericht Düsseldorf - Messeranschlag von Solingen: Höchststrafe für Attentäter",
-    "Krieg in der Ukraine - Polen schießt Drohnen in eigenem Luftraum ab"
+    "Krieg in der Ukraine - Polen schießt Drohnen in eigenem Luftraum ab",
+    "Innenministerium - Fast 200 Festnahmen bei Blockadeaktionen in Frankreich",
+    "Straßburg - EU-Kommissionspräsidentin von der Leyen fordert Ende der Einstimmigkeitsregel"
   ],
   "hashes": [
-    "692fb6d2b60d883b8cad16b00454375f",
-    "d34ac97a543d6c2db25915cf666002fb",
     "f1354569cb56b698c45f5659850e9476",
     "9fe530dfb741852d895f0dbaecec2cec",
     "1839c779a6e7cb1cc5524cff534e19d4",
@@ -4005,6 +4003,8 @@
     "f9352091ec262256b9ec81f49a1081c9",
     "a1b791d940219b94aed8420e5c3dccfa",
     "0d3682bff5bc58c35c3b0e8b85866f9a",
-    "a9f90005d3b2cf1f06e147c316d48ceb"
+    "a9f90005d3b2cf1f06e147c316d48ceb",
+    "45119469828f5864aa52361109025e97",
+    "5366ef27ed9ef47c1008c88508d92e6b"
   ]
 }
