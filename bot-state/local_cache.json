@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/20-titel-longlist-zum-deutschen-buchpreis-veroeffentlicht-102.html",
-    "https://www.deutschlandfunk.de/vereinte-nationen-2024-wurden-mehr-als-380-helfer-getoetet-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-6-000-studentenvisa-widerrufen-100.html",
     "https://www.deutschlandfunk.de/chp-anhaenger-protestieren-gegen-zur-akp-uebergelaufene-buergermeisterin-100.html",
     "https://www.deutschlandfunk.de/unionspolitiker-lehnen-steuererhoehungen-fuer-spitzenverdiener-ab-100.html",
     "https://www.deutschlandfunk.de/verheerendste-feuer-in-spanien-seit-20-jahren-106.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/polen-meldet-verletzung-des-eigenen-luftraums-waehrend-russischer-drohnenangriffe-in-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/polen-schiesst-mutmasslich-russische-drohnen-ueber-eigenem-staatsgebiet-ab-100.html",
     "https://www.deutschlandfunk.de/gruenen-chefin-brantner-fuer-staatshilfen-fuer-deutsche-automobilbranche-100.html",
-    "https://www.deutschlandfunk.de/deutscher-staedtetag-fordert-mehr-mittel-fuer-kliniken-100.html"
+    "https://www.deutschlandfunk.de/deutscher-staedtetag-fordert-mehr-mittel-fuer-kliniken-100.html",
+    "https://www.deutschlandfunk.de/deutsche-industrie-unzufrieden-mit-eu-alternative-zu-chinas-seidenstrassen-projekt-100.html",
+    "https://www.deutschlandfunk.de/kabinett-befasst-sich-mit-pendlerpauschale-und-gastro-steuer-102.html",
+    "https://www.aljazeera.com/news/2025/9/10/russia-ukraine-war-list-of-key-events-day-1294?traffic_source=rss"
   ],
   "content_hashes": [
-    "a2ba69b7ecf98079f6cf78611141ea2d",
-    "f672d237005e311e419f9716af0f43c7",
-    "3b0489f4e97f18c6e0de9e425ef4df5f",
     "22e67c8cafacd60cc12ce3659c1a72be",
     "60bba501c0f745dcb061e65cf16ba2de",
     "513806de5b3a1744b2aa55d6ab64617a",
@@ -2001,12 +1998,12 @@
     "95b8f308a2b92f33fb36b3d836749ce5",
     "b8633edcdefef5b64db7e3ec20a09ab9",
     "8b77b1fe4b4e01dd1dc13cbfba3dbcff",
-    "d2e6446bccd265fe864f2c2db4e6cb2e"
+    "d2e6446bccd265fe864f2c2db4e6cb2e",
+    "167674d010bbfc9b05cacb3b602e5754",
+    "bb6ebba1fe8de0188e04c2a15fa082a7",
+    "d0b51689a49257be6070e5e19569ef23"
   ],
   "titles": [
-    "Literatur - 20 Titel: Longlist zum Deutschen Buchpreis veröffentlicht",
-    "Welttag der humanitären Hilfe - Vereinte Nationen: 2024 wurden mehr als 380 Helfer getötet",
-    "USA - Mehr als 6.000 Studentenvisa widerrufen",
     "Westtürkei - CHP-Anhänger protestieren gegen zur AKP übergelaufene Bürgermeisterin",
     "Nach Klingbeil-Äußerungen - Unionspolitiker lehnen Steuererhöhungen für Spitzenverdiener ab",
     "Waldbrände - Verheerendste Feuer in Spanien seit 20 Jahren",
@@ -3003,12 +3000,12 @@
     "Ukraine-Krieg - Polen meldet Verletzung des eigenen Luftraums während russischer Drohnenangriffe in der Ukraine",
     "Ukraine-Krieg - Polen schießt mutmaßlich russische Drohnen über eigenem Staatsgebiet ab",
     "Wettbewerb mit China - Grünen-Chefin Brantner für Staatshilfen für deutsche Automobilbranche",
-    "Krankenhausreform - Deutscher Städtetag fordert mehr Mittel für Kliniken"
+    "Krankenhausreform - Deutscher Städtetag fordert mehr Mittel für Kliniken",
+    "\"Golbal Gateway\" - Deutsche Industrie unzufrieden mit EU-Alternative zu Chinas Seidenstraßen-Projekt",
+    "Berlin - Kabinett befasst sich mit Pendlerpauschale und Gastro-Steuer",
+    "Russia-Ukraine war: List of key events, day 1,294"
   ],
   "hashes": [
-    "c37da145377017e883bcaa1141b89d53",
-    "a7f8ffc098fe84a397ddee76342cd123",
-    "e0c3644d39fad47fac65760f5ba50a45",
     "e164c31a07a5c198a7f248fc12bb5ce7",
     "7a6a9d3b7e06c86e6f0a098a13a4eb57",
     "2f5c808945c030a14fd041a2a3513fa7",
@@ -4005,6 +4002,9 @@
     "159070c1f5f3b00f4eb2404f9d0b8377",
     "5d938f344f9f74456e27160e3d6bc8a0",
     "85cdef8eaee425fb78e9e11866e5e19f",
-    "dfebdb2de129ac735c941d0a69d5447f"
+    "dfebdb2de129ac735c941d0a69d5447f",
+    "90240baaf573472a8faeba87abcf0a6c",
+    "b43048094ceb25b485a7e5e70a405f88",
+    "032e6474ed4fdc1a88222692accb7805"
   ]
 }
