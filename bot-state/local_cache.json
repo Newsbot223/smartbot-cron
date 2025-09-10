@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-setzt-asienreise-in-indonesien-fort-100.html",
-    "https://www.deutschlandfunk.de/amnesty-wirft-kriegsparteien-im-kongo-schwere-verbrechen-vor-102.html",
-    "https://www.aljazeera.com/news/2025/8/20/russia-ukraine-war-list-of-key-events-day-1273?traffic_source=rss",
-    "https://www.deutschlandfunk.de/angriffe-auf-nikopol-und-saporischschja-102.html",
     "https://www.deutschlandfunk.de/ex-praesident-uribe-vorlaeufig-aus-hausarrest-entlassen-102.html",
     "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-provinz-herat-100.html",
     "https://www.deutschlandfunk.de/anhaltender-konflikt-zwischen-union-und-spd-um-steuererhoehungen-112.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/ausland/israels-angriff-auf-qatar-wer-frieden-will-handelt-anders-110679491.html",
     "https://www.deutschlandfunk.de/trump-verbuendeter-kirk-angeschossen-100.html",
     "https://www.deutschlandfunk.de/mehr-als-ein-dutzend-drohnentruemmer-in-polen-entdeckt-102.html",
-    "https://www.faz.net/aktuell/wirtschaft/offenbar-nummern-von-kabinettsmitgliedern-im-internet-veroeffentlicht-110680131.html"
+    "https://www.faz.net/aktuell/wirtschaft/offenbar-nummern-von-kabinettsmitgliedern-im-internet-veroeffentlicht-110680131.html",
+    "https://www.deutschlandfunk.de/polens-praesident-spricht-mit-trump-102.html",
+    "https://www.deutschlandfunk.de/20-000-haushalte-bleiben-eine-weitere-nacht-ohne-strom-102.html",
+    "https://www.deutschlandfunk.de/zahlreiche-menschen-sterben-bei-israelischem-angriff-im-jemen-106.html",
+    "https://www.deutschlandfunk.de/nabu-weist-auf-bedeutung-von-streuobstwiesen-hin-104.html"
   ],
   "content_hashes": [
-    "924019e31a58b492317477f848bfaf37",
-    "f40a1b2a103186c826976268a62817df",
-    "e227009b3a398335c9172350b629240d",
-    "57b091f2ef5a343af2b565a244cba57f",
     "9bec0f4a0796e48e3d13be69362b87e6",
     "2f606c1051f5ccd11eabca2e7fb176e5",
     "8fdaac82c6c357f14e4c98752b574ef6",
@@ -2001,13 +1997,13 @@
     "fc7abaf429f7642dcbec88ffd04905e3",
     "94a9ce04649d1f58980f345d9d94cbdd",
     "587ada09857e5010c46b6a2753987ee1",
-    "701ea42f3431c34cf002d4acf9d003e1"
+    "701ea42f3431c34cf002d4acf9d003e1",
+    "1037653fb058df56ffd002963f31c8c1",
+    "c76ca572ac3769f2e0d90ee347c385ee",
+    "4f62130a32621e05c239d71efe57a978",
+    "68733e0c26e695fe919020325539f2f9"
   ],
   "titles": [
-    "Jakarta - Wadephul setzt Asienreise in Indonesien fort",
-    "Ostkongo - Amnesty wirft Kriegsparteien im Kongo schwere Verbrechen vor",
-    "Russia-Ukraine war: List of key events, day 1,273",
-    "Ukraine-Krieg - Angriffe auf Nikopol und Saporischschja",
     "Kolumbien - Ex-Präsident Uribe vorläufig aus Hausarrest entlassen",
     "Aus Iran abgeschobene Afghanen - Mehr als 70 Tote bei Bus-Unglück Provinz Herat",
     "Vorstoß von Finanzminister Klingbeil - Anhaltender Konflikt zwischen Union und SPD um Steuererhöhungen",
@@ -3003,13 +2999,13 @@
     "Israels Angriff in Qatar: Wer Frieden will, handelt anders",
     "USA - Trump-Verbündeter Kirk angeschossen",
     "Luftraumverletzung - Mehr als ein Dutzend Drohnentrümmer in Polen entdeckt",
-    "Laut Medienbericht: Nummer von Kanzler Merz offenbar im Internet veröffentlicht"
+    "Laut Medienbericht: Nummer von Kanzler Merz offenbar im Internet veröffentlicht",
+    "Nach Drohnen-Vorfall - Polens Präsident spricht mit Trump",
+    "Berlin - 20.000 Haushalte bleiben eine weitere Nacht ohne Strom",
+    "Schlag gegen die Huthis - Zahlreiche Menschen sterben bei israelischem Angriff im Jemen",
+    "Kulturlandschaft - Nabu weist auf Bedeutung von Streuobstwiesen hin"
   ],
   "hashes": [
-    "c550f3f59650fe941e5dd45e48b4c27c",
-    "56d23430d5d5ca81b482f41149316282",
-    "b195d601ed2ca4bd68bed68f6518b30f",
-    "ab4cbb9a07d15c9e62f926317813dff4",
     "801213f2644d633fe0ca7564dbcb9bcb",
     "dd173780e61a2a0b027a47f0cfd6c667",
     "0a72a4dc4a1b7b9e45863df452bac73b",
@@ -4005,6 +4001,10 @@
     "f2f8c2c6e90bd950b5de27b3b601f0a7",
     "307f005b49bf316926e1e2dc60a1d145",
     "2dd5f17779b32cd21bf02fac04bcca82",
-    "69571ed314a25598c53e02828b4938af"
+    "69571ed314a25598c53e02828b4938af",
+    "f18951fd662cd545422784484bab7a5f",
+    "5f83934eadebafe0f6615e22ac092375",
+    "d557778cbbef4d5311dadd8e74816c41",
+    "a1abeb678d1075529d6f96aff812e3f4"
   ]
 }
