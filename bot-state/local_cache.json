@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-in-westafghanischer-provinz-herat-100.html",
-    "https://www.deutschlandfunk.de/kritik-an-kloeckner-nach-gleichsetzung-von-taz-und-nius-100.html",
     "https://www.faz.net/aktuell/politik/ausland/kommentar-zum-gazakrieg-die-hoffnung-haengt-am-seidenen-faden-110644921.html",
     "https://www.deutschlandfunk.de/wadephul-setzt-asienreise-in-indonesien-fort-100.html",
     "https://www.deutschlandfunk.de/amnesty-wirft-kriegsparteien-im-kongo-schwere-verbrechen-vor-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/drohnen-gegen-polen-die-nato-hat-putins-test-nur-bedingt-bestanden-110679579.html",
     "https://www.deutschlandfunk.de/israel-politik-von-der-leyens-stoesst-in-berlin-auf-zurueckhaltung-100.html",
     "https://www.faz.net/aktuell/politik/inland/missbrauch-in-nrw-psychopharmaka-sorgten-fuer-ruhe-in-den-heimen-110679562.html",
-    "https://www.faz.net/aktuell/politik/ausland/israels-angriff-auf-qatar-wer-frieden-will-handelt-anders-110679491.html"
+    "https://www.faz.net/aktuell/politik/ausland/israels-angriff-auf-qatar-wer-frieden-will-handelt-anders-110679491.html",
+    "https://www.deutschlandfunk.de/trump-verbuendeter-kirk-angeschossen-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-ein-dutzend-drohnentruemmer-in-polen-entdeckt-102.html"
   ],
   "content_hashes": [
-    "a2063a74a88824fde09b50f144afe2b0",
-    "20a0a5b7ab17063b871416ed17bbe0f3",
     "b6091ede2c9ffb1c5292ebafcb184791",
     "924019e31a58b492317477f848bfaf37",
     "f40a1b2a103186c826976268a62817df",
@@ -2001,11 +1999,11 @@
     "bc1c672c5863676f1e1bb059ee60ddfa",
     "5f1c647b79d8dd8c3a7366cd341ef4db",
     "cde142a006fff45cf6bd3f1826b8c000",
-    "fc7abaf429f7642dcbec88ffd04905e3"
+    "fc7abaf429f7642dcbec88ffd04905e3",
+    "94a9ce04649d1f58980f345d9d94cbdd",
+    "587ada09857e5010c46b6a2753987ee1"
   ],
   "titles": [
-    "Afghanistan - Mehr als 70 Tote bei Bus-Unglück in westafghanischer Provinz Herat",
-    "Medien - Kritik an Klöckner nach Gleichsetzung von \"Taz\" und \"Nius\"",
     "Gazakrieg: Die Hoffnung hängt am seidenen Faden",
     "Jakarta - Wadephul setzt Asienreise in Indonesien fort",
     "Ostkongo - Amnesty wirft Kriegsparteien im Kongo schwere Verbrechen vor",
@@ -3003,11 +3001,11 @@
     "Drohnenattacke auf Polen: Die NATO hat Putins Test nur bedingt bestanden",
     "Gaza-Krieg - Israel-Politik von der Leyens stößt in Berlin auf Zurückhaltung",
     "Missbrauch in NRW: Psychopharmaka sorgten für Ruhe in den Heimen",
-    "Israels Angriff in Qatar: Wer Frieden will, handelt anders"
+    "Israels Angriff in Qatar: Wer Frieden will, handelt anders",
+    "USA - Trump-Verbündeter Kirk angeschossen",
+    "Luftraumverletzung - Mehr als ein Dutzend Drohnentrümmer in Polen entdeckt"
   ],
   "hashes": [
-    "0235b734d7e5741f891efd137f04c863",
-    "09d2e6064a3a8f77a8490db52522e7ab",
     "a6797ca455d371a5e040b0fd2e142325",
     "c550f3f59650fe941e5dd45e48b4c27c",
     "56d23430d5d5ca81b482f41149316282",
@@ -4005,6 +4003,8 @@
     "94a9d339798f97b9ddd53480d101c937",
     "4fdff814ba8271c3175fa7710db881e5",
     "c2b9d039b8bab5860d968ca9c4caf723",
-    "f2f8c2c6e90bd950b5de27b3b601f0a7"
+    "f2f8c2c6e90bd950b5de27b3b601f0a7",
+    "307f005b49bf316926e1e2dc60a1d145",
+    "2dd5f17779b32cd21bf02fac04bcca82"
   ]
 }
