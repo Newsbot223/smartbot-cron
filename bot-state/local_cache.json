@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/portugal-drittes-todesopfer-durch-waldbraende-100.html",
-    "https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-is-unterstuetzer-soll-anschlag-auf-israelische-botschaft-geplant-haben-anklage-erhoben-a-f8f1ae89-76d0-453a-a0db-28763c8b1d51#ref=rss",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kinder-bei-russischem-angriff-auf-zivilisten-verletzt-faz-110172806.html",
-    "https://www.deutschlandfunk.de/hamas-grossangriff-auf-israelischen-militaerposten-in-gaza-100.html",
     "https://www.aljazeera.com/video/counting-the-cost/2025/8/20/why-is-europe-leading-the-us-in-military-aid-to-ukraine?traffic_source=rss",
     "https://www.deutschlandfunk.de/drohne-stuerzt-im-osten-polens-in-maisfeld-offenbar-militaerisches-flugobjekt-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lawrow-beklagt-plumpe-versuche-der-beeinflussung-trumps-faz-110172806.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/krankenkassen-pruefen-10-milliarden-euro-klage-gegen-bund-wegen-systematischer-unterfinfanzierung-100.html",
     "https://www.deutschlandfunk.de/ein-viertel-der-bevoelkerung-nutzt-ki-zur-selbstdiagnose-bei-krankheiten-geteilte-meinung-zu-chancen-100.html",
     "https://www.deutschlandfunk.de/tag-der-wohnungslosen-menschen-informationen-und-interview-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stromausfall-in-berlin-noch-knapp-14-000-haushalte-ohne-strom-accg-110680454.html"
+    "https://www.faz.net/aktuell/politik/inland/stromausfall-in-berlin-noch-knapp-14-000-haushalte-ohne-strom-accg-110680454.html",
+    "https://www.deutschlandfunk.de/bundestag-genehmigt-durchsuchungen-bei-afd-abgeordnetem-krah-100.html",
+    "https://www.deutschlandfunk.de/europaeischer-gerichtshof-firmen-muessen-eltern-mit-schwerbehinderten-kindern-bei-arbeitszeiten-grun-100.html",
+    "https://www.deutschlandfunk.de/abgeordnete-debattieren-ueber-mehr-befugnisse-von-pflegekraeften-100.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-bundestag-genehmigt-durchsuchung-bei-maximilian-krah-accg-110680570.html"
   ],
   "content_hashes": [
-    "0aed6139969b21df5494669f249fb41c",
-    "2196fd71fae51bc1fe1a47604b85083d",
-    "59cc8fa3394c671c595d356494727317",
-    "810bb8fbf2f433a607a23b9d94a371db",
     "19b32da1d499f6997f2f87c7f72711b1",
     "4cc2dcc5eed576f5bba941e7597120ea",
     "ddc24098bf8cdee8082b54c20c8400c2",
@@ -2001,13 +1997,13 @@
     "52eb4e9841d849cddf976f2f19e58b8f",
     "272a3a81a52139373a36410e50083169",
     "0e64218e1ed60466681c85b0af2ecc22",
-    "eb33c9eaed431f1da0cc3b4d277b5c51"
+    "eb33c9eaed431f1da0cc3b4d277b5c51",
+    "4730a30c3cc631366674ca4ff29e3392",
+    "b4b915dfd32a201e7071e17dd5faf3df",
+    "e96e218bd8e53ee2030ef051ba3709b0",
+    "164e0353cee1da47797a346a668fbae4"
   ],
   "titles": [
-    "Zivilschutzbehörde - Portugal: Drittes Todesopfer durch Waldbrände",
-    "Berlin: Mutmaßlicher IS-Unterstützer soll Anschlag auf israelische Botschaft geplant haben – Anklage erhoben",
-    "Krieg in der Ukraine: Kinder bei russischem Angriff auf Zivilisten verletzt",
-    "Nahost - Hamas-Großangriff auf israelischen Militärposten in Gaza",
     "Why is Europe leading the US in military aid to Ukraine?",
     "Osiny - Drohne stürzt im Osten Polens in Maisfeld - offenbar militärisches Flugobjekt",
     "Krieg in der Ukraine: Lawrow beklagt „plumpe Versuche“ der Beeinflussung Trumps",
@@ -3003,13 +2999,13 @@
     "GKV-Spitzenverband - Krankenkassen prüfen 10-Milliarden-Euro-Klage gegen Bund wegen \"systematischer Unterfinfanzierung\"",
     "Künstliche Intelligenz - Ein Viertel der Bevölkerung nutzt KI zur Selbstdiagnose bei Krankheiten - geteilte Meinung zu Chancen und Risiken",
     "Obdachlosigkeit - Mehr Wohnungslose und immer weniger bezahlbarer Wohnraum",
-    "Berlin: Nach Brandanschlag noch Tausende Haushalte ohne Strom"
+    "Berlin: Nach Brandanschlag noch Tausende Haushalte ohne Strom",
+    "Immunität aufgehoben - Bundestag genehmigt Durchsuchungen bei AfD-Abgeordnetem Krah",
+    "EU - Europäischer Gerichtshof: Firmen müssen Eltern mit schwerbehinderten Kindern bei Arbeitszeiten grundsätzlich entgegenkommen",
+    "Bundestag - Abgeordnete debattieren über mehr Befugnisse von Pflegekräften",
+    "Immunität aufgehoben: Bundestag genehmigt Durchsuchungen bei Maximilian Krah"
   ],
   "hashes": [
-    "265e42e394c75ab2617333962c5d29c6",
-    "f222a95b9ec0dc7913a93b1001a4c1b5",
-    "65bb30eec6019edf99ab5105eb91f103",
-    "9a1d7ef492683eceeb78a1bf0f6d0788",
     "f9b213ea22f8a43dbab59c1ede0e6e2f",
     "9d0b9d708bc6e0625ba5b42f2e0f5993",
     "270ecc126ef686a7338d966885e52f8f",
@@ -4005,6 +4001,10 @@
     "641d61f2ca627017ae5cbf6adada10fe",
     "5888fed6a9ce8481cd2e7e3f2b36ff1e",
     "e90b725db5c3ac6a2d30bb0f85aa876d",
-    "470cad0927491353d2344ec2ba6ac10e"
+    "470cad0927491353d2344ec2ba6ac10e",
+    "0a627c94674497d6b19b8313d4b22ec8",
+    "85f5c2127ac304ef3ea538892968445f",
+    "98343c0344578e4d09fd455196e20a8c",
+    "4219577379befc8c6e788fa228461ef9"
   ]
 }
