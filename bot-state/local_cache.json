@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wien-richtet-den-eurovision-song-conetest-2026-aus-102.html",
-    "https://www.deutschlandfunk.de/tuev-verband-stellt-viele-betrugsversuche-bei-fuehrerscheinpruefung-fest-102.html",
-    "https://www.deutschlandfunk.de/zu-wenig-medizinstudienplaetze-gegen-aerztemangel-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/migration-bundesregierung-setzt-aufnahmestopp-fuer-belarussen-und-russen-um-110644676.html",
     "https://www.faz.net/aktuell/politik/inland/bundesregierung-deutsche-im-ausland-als-politischer-hebel-110644342.html",
     "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-billigt-plan-fuer-einnahme-von-gaza-stadt-einberufung-von-60-000--104.html",
     "https://www.deutschlandfunk.de/wadephul-hofft-auf-verabschiedung-von-eu-freihandelsabkommen-mit-indonesien-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/panorama/gesellschaft/bundesweiter-warntag-am-11-september-2025-wenn-die-sirenen-schrillen-a-61fe47e3-f5cc-48de-8015-79eaf0aac8fc#ref=rss",
     "https://www.deutschlandfunk.de/innenministerium-raeumt-versaeumnisse-bei-anti-kriegs-demo-in-koeln-ein-100.html",
     "https://www.deutschlandfunk.de/polen-beantragt-sitzung-des-uno-sicherheitsrates-102.html",
-    "https://www.deutschlandfunk.de/abgeordnete-beraten-ueber-gesetze-zu-pflege-und-kohlendioxid-speicherung-100.html"
+    "https://www.deutschlandfunk.de/abgeordnete-beraten-ueber-gesetze-zu-pflege-und-kohlendioxid-speicherung-100.html",
+    "https://www.deutschlandfunk.de/bundesweit-werden-die-warnsysteme-getestet-das-sind-die-hintergruende-100.html",
+    "https://www.deutschlandfunk.de/in-den-usa-festgenommene-arbeiter-freigelassen-100.html",
+    "https://www.deutschlandfunk.de/katars-premier-al-thani-israels-regierung-zerstoert-hoffnung-fuer-geiseln-106.html",
+    "https://www.faz.net/aktuell/politik/inland/adenauer-in-moskau-diplomatie-mit-der-weinflasche-accg-110677836.html"
   ],
   "content_hashes": [
-    "6d2edc90a4f158dbfc888907ca6a70e4",
-    "8b35b8c2381d9979048aaa6cb7f781b3",
-    "73828eba2f4305df1966576452c1cd03",
-    "e6071e0a93ec179003c58508d7fe920b",
     "4faf63a5e4c04e125570ad9eff0a0fdc",
     "00ce73f9dc88edd4f0fe45f752b540f6",
     "3b0c140c9d441298039ef9666d4ff8d2",
@@ -2001,13 +1997,13 @@
     "8226e44e7dd3dc6f99461c3af993b742",
     "e40f95ec6faa5598ed65de84efc627ae",
     "d4136add4decb62b5bb3c6a68d50be96",
-    "5afe4b7d1c7c7fa53cb0e1a0daf3dac8"
+    "5afe4b7d1c7c7fa53cb0e1a0daf3dac8",
+    "7e314fe98d883835596ae07d18a775ef",
+    "ebcd6d7adb134187c5c070a495105f94",
+    "54436dd60a8bedb6b53d6021c27f8e1a",
+    "458b624628642c4096f11241a9f9ff73"
   ],
   "titles": [
-    "Österreich - Wien richtet den Eurovision Song Conetest 2026 aus",
-    "Tausende Fälle - TÜV-Verband stellt viele Betrugsversuche bei Führerscheinprüfung fest",
-    "Centrum für Hochschulentwicklung - Zu wenig Medizinstudienplätze gegen Ärztemangel",
-    "Humanitäre Visa: Aufnahmestopp für Regimegegner aus Russland und Belarus",
     "Bundesregierung: Deutsche im Ausland als politischer Hebel?",
     "Nahost - Israels Verteidigungsminister Katz billigt Plan für Einnahme von Gaza-Stadt - Einberufung von 60.000 Reservisten",
     "Besuch in Jakarta - Wadephul hofft auf Verabschiedung von EU-Freihandelsabkommen mit Indonesien",
@@ -3003,13 +2999,13 @@
     "Bundesweiter Warntag am 11. September 2025: Wenn die Sirenen schrillen",
     "NRW - Innenministerium räumt Versäumnisse bei Anti-Kriegs-Demo in Köln ein",
     "Nach Drohnen-Vorfall - Polen beantragt Sitzung des UNO-Sicherheitsrates",
-    "Bundestag - Abgeordnete beraten über Gesetze zu Pflege und Kohlendioxid-Speicherung"
+    "Bundestag - Abgeordnete beraten über Gesetze zu Pflege und Kohlendioxid-Speicherung",
+    "Warntag - Bundesweit werden die Warnsysteme getestet - das sind die Hintergründe",
+    "Nach Razzia in Hyundai-Werk - In den USA festgenommene Arbeiter freigelassen",
+    "Nach Angriff in Doha - Katars Premier Al Thani: Israels Regierung zerstört Hoffnung für Geiseln",
+    "Besuch in Russland: Adenauers Diplomatie mit der Weinflasche"
   ],
   "hashes": [
-    "5e1abbc3d80091e38f32cc7b3dede790",
-    "cf2682c73645aa7a59c402f1af889f25",
-    "51636711b4fe1b2a6618552748bec643",
-    "4cdcf2df899d8f658b60f4f1ccdd99f0",
     "eb7336e8f266ee6c2d986c9214cfb7b7",
     "189f556de74fdbd39d299e33f67de7ea",
     "1479e00edcdc1c301369179b8e0d3b73",
@@ -4005,6 +4001,10 @@
     "823ede1bc23dc7a17cc3dda13da89fb9",
     "d82fd5b60c021e5362e1dc93cb51de83",
     "a7c882fc0df58efb49bcc92830372996",
-    "8f78a4355a0c196ef92e5fd219c8adf2"
+    "8f78a4355a0c196ef92e5fd219c8adf2",
+    "bb5d5f8a8417d6ba7f17d0a0b7e225c5",
+    "7593aeaf1ac7e7f46633229fceebcd39",
+    "ea03e8327749f2fd721c7a1e868df0cb",
+    "d6ac59f665bed66507dde6689c76dcb3"
   ]
 }
