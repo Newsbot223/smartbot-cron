@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pkw-dichte-in-deutschland-abermals-gestiegen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesinnenminister-dobrindt-ip-adressenspeicherung-kommt-bald-110647490.html",
-    "https://www.deutschlandfunk.de/ukrainer-wegen-mutmasslicher-sabotage-an-nord-stream-pipelines-festgenommen-100.html",
     "https://www.deutschlandfunk.de/dgb-ausbildungsreport-azubis-zum-grossen-teil-zufrieden-100.html",
     "https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-kuendigt-streichung-von-hilfsprojekten-an-104.html",
     "https://www.spiegel.de/politik/deutschland/pakistan-innenminister-dobrindt-daempft-erwartung-an-baldige-aufnahme-aller-ortskraefte-aus-afghanistan-a-8562d978-b52d-457b-8337-c8e5226485a5#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/neuer-bnd-chef-was-friedrich-merz-von-martin-jaeger-erwartet-110681459.html",
     "https://www.deutschlandfunk.de/medien-bundesregierung-unterstuetzt-erklaerung-fuer-zwei-staaten-loesung-100.html",
     "https://www.deutschlandfunk.de/proteste-gegen-ficos-treffen-mit-putin-100.html",
-    "https://www.deutschlandfunk.de/richter-stimmen-fuer-verurteilung-von-ex-praesident-bolsonaro-104.html"
+    "https://www.deutschlandfunk.de/richter-stimmen-fuer-verurteilung-von-ex-praesident-bolsonaro-104.html",
+    "https://www.deutschlandfunk.de/uno-sicherheitsrat-befasst-sich-mit-russlands-drohnen-in-polen-100.html",
+    "https://www.deutschlandfunk.de/belarus-und-russland-halten-militaermanoever-ab-100.html",
+    "https://www.deutschlandfunk.de/strafmass-fuer-ex-praesident-bolsonaro-erwartet-100.html"
   ],
   "content_hashes": [
-    "cad46577f70827da761027d67534a4f8",
-    "f49a7e08d35deb37ce19b031858b0c07",
-    "261482a8d80c1997c65548b97fa018f7",
     "71880e960215274bcaa434658dd7fbdb",
     "112de545d699330c2640cef510eb5aae",
     "51f1c34a8a7bbe64ccc3ccff275bbf53",
@@ -2001,12 +1998,12 @@
     "013dcc439d7434da84a091ef6d86dcc4",
     "b8efa32d0af5afe237af0e15831ee71a",
     "7a58bf5e512ac29a506f73adb261cc66",
-    "d01b73f2d02ae5e19f8252f7b294194e"
+    "d01b73f2d02ae5e19f8252f7b294194e",
+    "7891f08736d9799b917ef0c354108bf0",
+    "334870e1114da201a6086ec3e7f668cc",
+    "a92d7903bf19305dd32ad3921d36d19f"
   ],
   "titles": [
-    "Statistisches Bundesamt - PKW-Dichte in Deutschland abermals gestiegen",
-    "Dreimonatige Speicherpflicht: Dobrindt: IP-Adressenspeicherung kommt bald",
-    "Italien - Ukrainer wegen mutmaßlicher Sabotage an Nord-Stream-Pipelines festgenommen",
     "DGB-Ausbildungsreport: Azubis zum großen Teil zufrieden",
     "Bundeshaushalt - Entwicklungsministerin Alabali Radovan kündigt Streichung von Hilfsprojekten an",
     "Pakistan: Innenminister Dobrindt dämpft Erwartung an baldige Aufnahme aller Ortskräfte aus Afghanistan",
@@ -3003,12 +3000,12 @@
     "Neuer BND-Chef Jäger: „Werden unsere Gegner konfrontieren, wo immer dies nötig ist“",
     "Nahost-Konflikt - Medien: Bundesregierung unterstützt Erklärung für Zwei-Staaten-Lösung",
     "Slowakei - Proteste gegen Ficos Treffen mit Putin",
-    "Brasilien - Richter stimmen für Verurteilung von Ex-Präsident Bolsonaro"
+    "Brasilien - Richter stimmen für Verurteilung von Ex-Präsident Bolsonaro",
+    "Verletzung des Luftraums - UNO-Sicherheitsrat befasst sich mit Russlands Drohnen in Polen",
+    "In Nähe zu EU und NATO - Belarus und Russland halten Militärmanöver ab",
+    "Brasilien - Strafmaß für Ex-Präsident Bolsonaro erwartet"
   ],
   "hashes": [
-    "f42ce528bb56fc1dbf55c076baa6b862",
-    "be148cbc0afc3c225fe4e379154600d3",
-    "aa7d2c2a16863daee388ebf129ada7c9",
     "4e9d1e3c7b83de442f3d4147ad1b68e7",
     "995cca72f3b3a4fae723e409f0a4e29b",
     "56ff0aaf995f20b52d38e7537c898c42",
@@ -4005,6 +4002,9 @@
     "9e0dbec21b34e083e627ed3f30be3c69",
     "ae6a6553b2560e38a4d2fd327a983076",
     "f16892fbe780004ad080a6868d4c49ac",
-    "11b985ccb0361073911603459cc2a51b"
+    "11b985ccb0361073911603459cc2a51b",
+    "269b0cf3c7f5cefbd46a9890114d36c5",
+    "5ec197a987c26dd69500b2af8ec1a2cb",
+    "aa194ceacee798b64e8f1fbdee0f250c"
   ]
 }
