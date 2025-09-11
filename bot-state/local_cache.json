@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/einspruch/afd-kandidat-ausgeschlossen-wider-die-freiheit-110644821.html",
-    "https://www.deutschlandfunk.de/debatte-ueber-deutsche-soldaten-fuer-die-ukraine-100.html",
-    "https://www.deutschlandfunk.de/druschba-pipeline-repariert-russland-beliefert-ungarn-und-slowakei-wieder-mit-oel-102.html",
     "https://www.deutschlandfunk.de/wien-richtet-den-eurovision-song-conetest-2026-aus-102.html",
     "https://www.deutschlandfunk.de/tuev-verband-stellt-viele-betrugsversuche-bei-fuehrerscheinpruefung-fest-102.html",
     "https://www.deutschlandfunk.de/zu-wenig-medizinstudienplaetze-gegen-aerztemangel-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/polens-premierminister-tusk-verbuendete-bieten-hilfe-bei-luftverteidigung-an-102.html",
     "https://www.deutschlandfunk.de/diplomat-jaeger-wird-neuer-praesident-des-bundesnachrichtendienstes-102.html",
     "https://www.deutschlandfunk.de/stromnetz-auf-kuba-bricht-erneut-zusammen-versorgung-wird-langsam-wiederhergestellt-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/bundesweiter-warntag-am-11-september-2025-wenn-die-sirenen-schrillen-a-61fe47e3-f5cc-48de-8015-79eaf0aac8fc#ref=rss"
+    "https://www.spiegel.de/panorama/gesellschaft/bundesweiter-warntag-am-11-september-2025-wenn-die-sirenen-schrillen-a-61fe47e3-f5cc-48de-8015-79eaf0aac8fc#ref=rss",
+    "https://www.deutschlandfunk.de/innenministerium-raeumt-versaeumnisse-bei-anti-kriegs-demo-in-koeln-ein-100.html",
+    "https://www.deutschlandfunk.de/polen-beantragt-sitzung-des-uno-sicherheitsrates-102.html",
+    "https://www.deutschlandfunk.de/abgeordnete-beraten-ueber-gesetze-zu-pflege-und-kohlendioxid-speicherung-100.html"
   ],
   "content_hashes": [
-    "899bc3cc982b667825d53ad1ffe6c095",
-    "2589784bb4e3cd30f064a57d522b7168",
-    "8a5a542bec428bdcef1881c661280291",
     "6d2edc90a4f158dbfc888907ca6a70e4",
     "8b35b8c2381d9979048aaa6cb7f781b3",
     "73828eba2f4305df1966576452c1cd03",
@@ -2001,12 +1998,12 @@
     "5cbd4aaea3a07553833321bd05039061",
     "d3a2fcb6389a8c6a6720b7d43aca1bdc",
     "c91dd79e0befd9e2fe0435a9188fd852",
-    "8226e44e7dd3dc6f99461c3af993b742"
+    "8226e44e7dd3dc6f99461c3af993b742",
+    "e40f95ec6faa5598ed65de84efc627ae",
+    "d4136add4decb62b5bb3c6a68d50be96",
+    "5afe4b7d1c7c7fa53cb0e1a0daf3dac8"
   ],
   "titles": [
-    "Ohne AfD-Kandidat?: Wider die Freiheit",
-    "Sicherheitsgarantien - Debatte über deutsche Soldaten für die Ukraine",
-    "Ukrainischer Drohnenangriff - Druschba-Pipeline repariert: Russland beliefert Ungarn und Slowakei wieder mit Öl",
     "Österreich - Wien richtet den Eurovision Song Conetest 2026 aus",
     "Tausende Fälle - TÜV-Verband stellt viele Betrugsversuche bei Führerscheinprüfung fest",
     "Centrum für Hochschulentwicklung - Zu wenig Medizinstudienplätze gegen Ärztemangel",
@@ -3003,12 +3000,12 @@
     "Nach Drohnen-Vorfall - Polens Premierminister Tusk: Verbündete bieten Hilfe bei Luftverteidigung an",
     "Auslandsgeheimdienst - Diplomat Jäger wird neuer Präsident des Bundesnachrichtendienstes",
     "Karibikinsel - Stromnetz auf Kuba bricht erneut zusammen - Versorgung wird langsam wiederhergestellt",
-    "Bundesweiter Warntag am 11. September 2025: Wenn die Sirenen schrillen"
+    "Bundesweiter Warntag am 11. September 2025: Wenn die Sirenen schrillen",
+    "NRW - Innenministerium räumt Versäumnisse bei Anti-Kriegs-Demo in Köln ein",
+    "Nach Drohnen-Vorfall - Polen beantragt Sitzung des UNO-Sicherheitsrates",
+    "Bundestag - Abgeordnete beraten über Gesetze zu Pflege und Kohlendioxid-Speicherung"
   ],
   "hashes": [
-    "b6a31372a5c475ae8f8de7aae9ea73f0",
-    "0ce9e845acd3af38a3c43619cc66abec",
-    "9f4f5d8fb481bc0ae70544ee7ca811b5",
     "5e1abbc3d80091e38f32cc7b3dede790",
     "cf2682c73645aa7a59c402f1af889f25",
     "51636711b4fe1b2a6618552748bec643",
@@ -4005,6 +4002,9 @@
     "3de4b71547015ecff6d9daf6cca71125",
     "b8840c053bb5bb161c625f4a483b9560",
     "4e56d2825a022b5c22902d60fe572b59",
-    "823ede1bc23dc7a17cc3dda13da89fb9"
+    "823ede1bc23dc7a17cc3dda13da89fb9",
+    "d82fd5b60c021e5362e1dc93cb51de83",
+    "a7c882fc0df58efb49bcc92830372996",
+    "8f78a4355a0c196ef92e5fd219c8adf2"
   ]
 }
