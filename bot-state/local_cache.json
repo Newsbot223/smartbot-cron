@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-prangern-politische-attacken-auf-justiz-an-scharfe-vorwuerfe-gegen-csu-100.html",
-    "https://www.deutschlandfunk.de/steuereinnahmen-von-bund-und-laendern-im-juli-weiter-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/trotz-berliner-zusagen-afghanischen-ortskraeften-in-pakistan-droht-abschiebung-100.html",
     "https://www.deutschlandfunk.de/kommunen-sehen-entlastung-durch-rueckgang-der-asylantraege-100.html",
     "https://www.deutschlandfunk.de/verband-warnt-vor-wachsender-verarmung-100.html",
     "https://www.deutschlandfunk.de/innenminister-beraet-nach-spremberger-brandbrief-mit-lausitz-kommunen-ueber-rechtsextremismus-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-unveraendert-sorgen-um-frankreich-100.html",
     "https://www.deutschlandfunk.de/belarus-laesst-52-gefangene-frei-100.html",
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-unveraendert-100.html",
-    "https://www.deutschlandfunk.de/internationale-medien-fordern-von-trump-regierung-verzicht-auf-begrenzung-von-journalisten-visa-100.html"
+    "https://www.deutschlandfunk.de/internationale-medien-fordern-von-trump-regierung-verzicht-auf-begrenzung-von-journalisten-visa-100.html",
+    "https://www.deutschlandfunk.de/messerangriff-auf-lehrerin-moeglicherweise-mit-islamistischem-hintergrund-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-im-suedosten-berlins-behoben-100.html",
+    "https://www.deutschlandfunk.de/irland-und-spanien-fordert-erneut-ausschluss-israels-vom-esc-102.html"
   ],
   "content_hashes": [
-    "e9624eef2ed588a07080523d8c53bcba",
-    "e0bb60cc88ff6b09a2fd98986931c5d0",
-    "896e5f04f98b0871851d88a35d61e979",
     "2139e7c031cd456770031317109d4ddd",
     "378bbe4aafea78c6ac188f563b31b31a",
     "a3e4c833552b364a0eb64d022f560473",
@@ -2001,12 +1998,12 @@
     "547a90a81122ae148872f4d36778c6fe",
     "9d84ae102574095234992e313975cc24",
     "fa457dc1f24357597abcaf31b6243a3d",
-    "ac6d9afbde2f9749dcdda29230a68814"
+    "ac6d9afbde2f9749dcdda29230a68814",
+    "a56b3ed1ff3650c9acee882120a0b752",
+    "5db64a15bebc1f2ce047988119c4789f",
+    "73272dbd8c71c489c3b1aa65b3dd3256"
   ],
   "titles": [
-    "Causa Scheuer - Grüne prangern politische Attacken auf Justiz an – scharfe Vorwürfe gegen CSU",
-    "Bundesfinanzministerium - Steuereinnahmen von Bund und Ländern im Juli weiter gestiegen",
-    "Trotz Zusagen - Erste Ortskräfte nach Afghanistan abgeschoben",
     "Migration - Kommunen sehen Entlastung durch Rückgang der Asylanträge",
     "Wohnungsnot - Verband warnt vor wachsender Verarmung",
     "Brandenburg - Innenminister berät nach Spremberger Brandbrief mit Lausitz-Kommunen über Rechtsextremismus",
@@ -3003,12 +3000,12 @@
     "Zinsentscheidung - EZB lässt Leitzinsen unverändert - Sorgen um Frankreich",
     "Gespräche mit US-Gesandten - Belarus lässt 52 Gefangene frei",
     "Zinsentscheidung - EZB lässt Leitzinsen unverändert",
-    "USA - Internationale Medien fordern von Trump-Regierung Verzicht auf Begrenzung von Journalisten-Visa"
+    "USA - Internationale Medien fordern von Trump-Regierung Verzicht auf Begrenzung von Journalisten-Visa",
+    "Essen - Messerangriff auf Lehrerin möglicherweise mit islamistischem Hintergrund",
+    "Energie - Stromausfall im Südosten Berlins behoben",
+    "Eurovision Song Contest - Irland und Spanien fordert erneut Ausschluss Israels vom ESC"
   ],
   "hashes": [
-    "0a40716dc7983f01d2e7eb706421883b",
-    "389a293d27526159748fe936fab99176",
-    "000f10cd0c69c33aefe19f1550627c79",
     "55fd22522e996c949c56989c636ea76f",
     "e8e5f9056aeb9b99ecfd513098ad51c8",
     "ed35792345a82dc20efbd74eeb9ce037",
@@ -4005,6 +4002,9 @@
     "f42a7fe295f6d10f18500df838da34b8",
     "9352030b875518e6e54d1a2e7fb7cb29",
     "19c1e78becbed1fa6a3b68e1aa839ec9",
-    "dce5631324c1386ccd2f5896e696881e"
+    "dce5631324c1386ccd2f5896e696881e",
+    "3962a8bdd2a654e69ea263ecad9ea811",
+    "ddb634085d767139a0bf09af3c2bb426",
+    "8fbe356fc0daec4bd2c7c02bfaa83f6d"
   ]
 }
