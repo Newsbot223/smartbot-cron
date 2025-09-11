@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/1-000-verwaltungsmitarbeiter-in-sachsen-mit-zuarbeit-zu-corona-untersuchungsausschuss-befasst-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bedrohungslage-durch-china-wird-taiwan-die-naechste-ukraine-110646194.html",
     "https://www.deutschlandfunk.de/verbindungen-zwischen-kloeckner-und-nius-gruender-gotthardt-offenbar-enger-als-gedacht-100.html",
     "https://www.spiegel.de/panorama/asyl-teilweise-entlastung-durch-sinkende-zahl-von-gefluechteten-a-1ac53fe7-3b7c-4d10-b702-913e6962e078#ref=rss",
     "https://www.deutschlandfunk.de/ueber-16-000-faelle-von-sexuellem-kindesmissbrauch-dobrindt-csu-spricht-von-erschuetternden-zahlen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/ddr-moped-wie-die-simson-den-kulturkampf-in-thueringen-praegt-110681358.html",
     "https://www.deutschlandfunk.de/muenchner-philharmoniker-mit-israelischem-dirigenten-ausgeladen-weimer-spricht-von-schande-fuer-euro-100.html",
     "https://www.deutschlandfunk.de/britischer-botschafter-in-den-usa-wegen-kontakt-zu-sexualstraftaeter-epstein-abberufen-100.html",
-    "https://www.aljazeera.com/news/2025/9/11/south-sudan-charges-vp-machar-with-treason-murder-over-military-attack?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/9/11/south-sudan-charges-vp-machar-with-treason-murder-over-military-attack?traffic_source=rss",
+    "https://www.deutschlandfunk.de/suedsudans-vizepraesident-des-hochverrats-angeklagt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischen-hintergrund-fuer-moeglich-110681117.html"
   ],
   "content_hashes": [
-    "38fdd0b2dd39eb2abb4fce888fa31b13",
-    "a4df7ad7eb9305af16e43d3c5743f373",
     "8a0d1d95bad2eb436f1c9fcf4c87e256",
     "9a791f16bf7c14b02166f0f5d7503e41",
     "0c4891f5a94cef7bae37eb52e597353d",
@@ -2001,11 +1999,11 @@
     "f8c396a404000a60489f1d017e423d77",
     "98a7e256d1868d7912cef27922ed7d60",
     "5f8e9e7298d3cf771980c78a2cb495cb",
-    "449760c9e81c05cee01141f2e243e62d"
+    "449760c9e81c05cee01141f2e243e62d",
+    "ee03a9fce9a39d73f687181c1b490345",
+    "7a974f4244603164b2fa192b5ca0f485"
   ],
   "titles": [
-    "Covid-19 - 1.000 Verwaltungsmitarbeiter in Sachsen mit Zuarbeit zu Corona-Untersuchungsausschuss befasst",
-    "Chinas Drohgebärden: Taiwan – die nächste Ukraine?",
     "Kritik an Bundestagspräsidentin - Verbindungen zwischen Klöckner und NIUS-Gründer Gotthardt offenbar enger als gedacht",
     "Asyl: Teilweise Entlastung durch sinkende Zahl von Geflüchteten",
     "Bundeslagebild - Über 16.000 Fälle von sexuellem Kindesmissbrauch - Dobrindt (CSU) spricht von erschütternden Zahlen",
@@ -3003,11 +3001,11 @@
     "„Freiheit auf Rädern“: Wie ein DDR-Moped den Kulturkampf in Thüringen prägt",
     "Kultur - Münchner Philharmoniker mit israelischem Dirigenten ausgeladen - Weimer spricht von \"Schande für Europa\"",
     "Diplomatie - Britischer Botschafter in den USA wegen Kontakt zu Sexualstraftäter Epstein abberufen",
-    "South Sudan charges VP Machar with treason, murder over military attack"
+    "South Sudan charges VP Machar with treason, murder over military attack",
+    "Ostafrika - Südsudans Vizepräsident des Hochverrats angeklagt",
+    "Messerangriff in Essen: Reul hält islamistischen Hintergrund für möglich"
   ],
   "hashes": [
-    "0b41af0ee39f8a5f6033a168d71c0900",
-    "27ddadd284b98ced9b3deab4b7439aeb",
     "f65bcc3a317d15a74788ce1ec70a0edc",
     "f63b1e36895a39f7a79aa23825070597",
     "852b78157ca78c7d18f39460758e0e26",
@@ -4005,6 +4003,8 @@
     "65381eedda51579f5364a997d90b356e",
     "b2e115f1aac958858841c528e6d3ef32",
     "b8ef63dc18d03f5a7b427ea61a9e808c",
-    "7f34712f1553e1d4dc283f8e873731b5"
+    "7f34712f1553e1d4dc283f8e873731b5",
+    "c82108715e5310b285d9475237505361",
+    "1cf4c5f4a9f18ebea9c49db503bb9a0a"
   ]
 }
