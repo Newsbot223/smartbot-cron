@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-70-tote-bei-bus-unglueck-provinz-herat-100.html",
-    "https://www.deutschlandfunk.de/anhaltender-konflikt-zwischen-union-und-spd-um-steuererhoehungen-112.html",
     "https://www.deutschlandfunk.de/rund-80-rabbiner-fordern-ein-ende-der-hungersnot-in-gaza-100.html",
     "https://www.spiegel.de/politik/treffen-zwischen-putin-und-selenskyj-in-budapest-moeglich-a-13d27734-5e8e-49ab-a7fc-d3dc404a17a5#ref=rss",
     "https://www.faz.net/einspruch/afd-kandidat-ausgeschlossen-wider-die-freiheit-110644821.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/20-000-haushalte-bleiben-eine-weitere-nacht-ohne-strom-102.html",
     "https://www.deutschlandfunk.de/zahlreiche-menschen-sterben-bei-israelischem-angriff-im-jemen-106.html",
     "https://www.deutschlandfunk.de/nabu-weist-auf-bedeutung-von-streuobstwiesen-hin-104.html",
-    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-zum-teil-gewalttaetigem-massenprotest-in-frankreich-neuer-premier-lecornu-ve-100.html"
+    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-zum-teil-gewalttaetigem-massenprotest-in-frankreich-neuer-premier-lecornu-ve-100.html",
+    "https://www.deutschlandfunk.de/polens-premierminister-tusk-verbuendete-bieten-hilfe-bei-luftverteidigung-an-102.html",
+    "https://www.deutschlandfunk.de/diplomat-jaeger-wird-neuer-praesident-des-bundesnachrichtendienstes-102.html"
   ],
   "content_hashes": [
-    "2f606c1051f5ccd11eabca2e7fb176e5",
-    "8fdaac82c6c357f14e4c98752b574ef6",
     "37a65840a7a34de5e708ae884a3ac2fe",
     "56acc74b177721a22dc54751e1869848",
     "899bc3cc982b667825d53ad1ffe6c095",
@@ -2001,11 +1999,11 @@
     "c76ca572ac3769f2e0d90ee347c385ee",
     "4f62130a32621e05c239d71efe57a978",
     "68733e0c26e695fe919020325539f2f9",
-    "278767f143168a9c250c912e6bc29b69"
+    "278767f143168a9c250c912e6bc29b69",
+    "5cbd4aaea3a07553833321bd05039061",
+    "d3a2fcb6389a8c6a6720b7d43aca1bdc"
   ],
   "titles": [
-    "Aus Iran abgeschobene Afghanen - Mehr als 70 Tote bei Bus-Unglück Provinz Herat",
-    "Vorstoß von Finanzminister Klingbeil - Anhaltender Konflikt zwischen Union und SPD um Steuererhöhungen",
     "Appell - Rund 80 Rabbiner fordern ein Ende der Hungersnot in Gaza",
     "Treffen zwischen Putin und Selenskyj in Budapest möglich",
     "Ohne AfD-Kandidat?: Wider die Freiheit",
@@ -3003,11 +3001,11 @@
     "Berlin - 20.000 Haushalte bleiben eine weitere Nacht ohne Strom",
     "Schlag gegen die Huthis - Zahlreiche Menschen sterben bei israelischem Angriff im Jemen",
     "Kulturlandschaft - Nabu weist auf Bedeutung von Streuobstwiesen hin",
-    "Demonstrationen gegen Sparpläne - Hunderte Festnahmen bei zum Teil gewalttätigem Massenprotest in Frankreich - Neuer Premier Lecornu verlangt Veränderung"
+    "Demonstrationen gegen Sparpläne - Hunderte Festnahmen bei zum Teil gewalttätigem Massenprotest in Frankreich - Neuer Premier Lecornu verlangt Veränderung",
+    "Nach Drohnen-Vorfall - Polens Premierminister Tusk: Verbündete bieten Hilfe bei Luftverteidigung an",
+    "Auslandsgeheimdienst - Diplomat Jäger wird neuer Präsident des Bundesnachrichtendienstes"
   ],
   "hashes": [
-    "dd173780e61a2a0b027a47f0cfd6c667",
-    "0a72a4dc4a1b7b9e45863df452bac73b",
     "9401531d49c8920ee3c81e6cb2aab842",
     "a2a209236130a865509bcf0a69b064b1",
     "b6a31372a5c475ae8f8de7aae9ea73f0",
@@ -4005,6 +4003,8 @@
     "5f83934eadebafe0f6615e22ac092375",
     "d557778cbbef4d5311dadd8e74816c41",
     "a1abeb678d1075529d6f96aff812e3f4",
-    "1fbfa38670ebe4202d8656d81a121d28"
+    "1fbfa38670ebe4202d8656d81a121d28",
+    "3de4b71547015ecff6d9daf6cca71125",
+    "b8840c053bb5bb161c625f4a483b9560"
   ]
 }
