@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israels-verteidigungsminister-katz-billigt-plan-fuer-einnahme-von-gaza-stadt-einberufung-von-60-000--104.html",
-    "https://www.deutschlandfunk.de/wadephul-hofft-auf-verabschiedung-von-eu-freihandelsabkommen-mit-indonesien-100.html",
-    "https://www.deutschlandfunk.de/wien-richtet-den-eurovision-song-contest-2026-aus-100.html",
     "https://www.deutschlandfunk.de/bundesanwaltschaft-erhebt-anklage-gegen-mutmasslichen-is-anhaenger-100.html",
     "https://www.faz.net/aktuell/politik/inland/ovg-gedenkstaette-buchenwald-darf-zutritt-mit-kufiya-verweigern-110645881.html",
     "https://www.faz.net/aktuell/politik/inland/union-und-spd-zur-rentenreform-warum-einige-beamte-laenger-arbeiten-sollten-110642842.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/in-den-usa-festgenommene-arbeiter-freigelassen-100.html",
     "https://www.deutschlandfunk.de/katars-premier-al-thani-israels-regierung-zerstoert-hoffnung-fuer-geiseln-106.html",
     "https://www.faz.net/aktuell/politik/inland/adenauer-in-moskau-diplomatie-mit-der-weinflasche-accg-110677836.html",
-    "https://www.deutschlandfunk.de/paritaetischer-wohlfahrtsverband-fordert-sofortprogramm-gegen-wohnungslosigkeit-in-deutschland-100.html"
+    "https://www.deutschlandfunk.de/paritaetischer-wohlfahrtsverband-fordert-sofortprogramm-gegen-wohnungslosigkeit-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/deutsche-bahn-wird-zentrales-versprechen-bei-grossen-baustellen-offenbar-nicht-einhalten-koennen-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-in-deutschland-im-juni-auf-zehn-jahres-hoch-100.html",
+    "https://www.deutschlandfunk.de/polen-schraenkt-flugverkehr-an-seiner-ostgrenze-ein-100.html"
   ],
   "content_hashes": [
-    "00ce73f9dc88edd4f0fe45f752b540f6",
-    "3b0c140c9d441298039ef9666d4ff8d2",
-    "9414745de35e69e24cec1d02f5680a79",
     "ae3751814b0164f1512dabb0fbc99171",
     "84b9a167fcde75ae4b60df059ffb1b75",
     "10c8bded2afdb553457afae27ca9ffae",
@@ -2001,12 +1998,12 @@
     "ebcd6d7adb134187c5c070a495105f94",
     "54436dd60a8bedb6b53d6021c27f8e1a",
     "458b624628642c4096f11241a9f9ff73",
-    "ea4cc283b174370f9ba477a72bb88862"
+    "ea4cc283b174370f9ba477a72bb88862",
+    "9610a3d6875c82b64d5fe3148d007962",
+    "db048da85fd2961d594fc4cc15b2613d",
+    "9ed854cd02855ff786f744ed09569173"
   ],
   "titles": [
-    "Nahost - Israels Verteidigungsminister Katz billigt Plan für Einnahme von Gaza-Stadt - Einberufung von 60.000 Reservisten",
-    "Besuch in Jakarta - Wadephul hofft auf Verabschiedung von EU-Freihandelsabkommen mit Indonesien",
-    "Österreich - Wien richtet den Eurovision Song Contest 2026 aus",
     "Terrorverdacht - Bundesanwaltschaft erhebt Anklage gegen mutmaßlichen IS-Anhänger",
     "Kufiya als Israel-Protest: OVG: Gedenkstätte Buchenwald darf Zutritt mit Palästinensertuch verweigern",
     "Teure Pensionen: Warum einige Beamte länger arbeiten sollten",
@@ -3003,12 +3000,12 @@
     "Nach Razzia in Hyundai-Werk - In den USA festgenommene Arbeiter freigelassen",
     "Nach Angriff in Doha - Katars Premier Al Thani: Israels Regierung zerstört Hoffnung für Geiseln",
     "Besuch in Russland: Adenauers Diplomatie mit der Weinflasche",
-    "Tag der Wohnungslosen Menschen - Paritätischer Wohlfahrtsverband fordert Sofortprogramm gegen Wohnungslosigkeit in Deutschland"
+    "Tag der Wohnungslosen Menschen - Paritätischer Wohlfahrtsverband fordert Sofortprogramm gegen Wohnungslosigkeit in Deutschland",
+    "Medienbericht - Deutsche Bahn wird zentrales Versprechen bei großen Baustellen offenbar nicht einhalten können",
+    "Wirtschaft - Zahl der Firmenpleiten in Deutschland im Juni auf Zehn-Jahres-Hoch",
+    "Nach Drohnen-Vorfall - Polen schränkt Flugverkehr an seiner Ostgrenze ein"
   ],
   "hashes": [
-    "189f556de74fdbd39d299e33f67de7ea",
-    "1479e00edcdc1c301369179b8e0d3b73",
-    "b9ebb1d6af61c2de808ab83a16699071",
     "11425232aa798fa4a57df6cf9802d9ce",
     "f2ff4fab511d57e249a5754ed145301d",
     "f2e1eb9bad181378300eed1979719237",
@@ -4005,6 +4002,9 @@
     "7593aeaf1ac7e7f46633229fceebcd39",
     "ea03e8327749f2fd721c7a1e868df0cb",
     "d6ac59f665bed66507dde6689c76dcb3",
-    "96f9d5d2bdeed1e402897d1d9cc45f72"
+    "96f9d5d2bdeed1e402897d1d9cc45f72",
+    "fd33cffff41b60fa069a895627092853",
+    "0d9dd39fd7f6563913a30048fe7cedf8",
+    "1f15c8d42c2e7198c377ff3dcda8d26e"
   ]
 }
