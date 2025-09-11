@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesanwaltschaft-erhebt-anklage-gegen-mutmasslichen-is-anhaenger-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ovg-gedenkstaette-buchenwald-darf-zutritt-mit-kufiya-verweigern-110645881.html",
-    "https://www.faz.net/aktuell/politik/inland/union-und-spd-zur-rentenreform-warum-einige-beamte-laenger-arbeiten-sollten-110642842.html",
-    "https://www.deutschlandfunk.de/musk-legt-plaene-fuer-gruendung-eigener-partei-offenbar-auf-eis-102.html",
     "https://www.deutschlandfunk.de/portugal-drittes-todesopfer-durch-waldbraende-100.html",
     "https://www.spiegel.de/panorama/justiz/berlin-mutmasslicher-is-unterstuetzer-soll-anschlag-auf-israelische-botschaft-geplant-haben-anklage-erhoben-a-f8f1ae89-76d0-453a-a0db-28763c8b1d51#ref=rss",
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kinder-bei-russischem-angriff-auf-zivilisten-verletzt-faz-110172806.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/paritaetischer-wohlfahrtsverband-fordert-sofortprogramm-gegen-wohnungslosigkeit-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/deutsche-bahn-wird-zentrales-versprechen-bei-grossen-baustellen-offenbar-nicht-einhalten-koennen-100.html",
     "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-in-deutschland-im-juni-auf-zehn-jahres-hoch-100.html",
-    "https://www.deutschlandfunk.de/polen-schraenkt-flugverkehr-an-seiner-ostgrenze-ein-100.html"
+    "https://www.deutschlandfunk.de/polen-schraenkt-flugverkehr-an-seiner-ostgrenze-ein-100.html",
+    "https://www.deutschlandfunk.de/krankenkassen-pruefen-10-milliarden-euro-klage-gegen-bund-wegen-systematischer-unterfinfanzierung-100.html",
+    "https://www.deutschlandfunk.de/ein-viertel-der-bevoelkerung-nutzt-ki-zur-selbstdiagnose-bei-krankheiten-geteilte-meinung-zu-chancen-100.html",
+    "https://www.deutschlandfunk.de/tag-der-wohnungslosen-menschen-informationen-und-interview-100.html",
+    "https://www.faz.net/aktuell/politik/inland/stromausfall-in-berlin-noch-knapp-14-000-haushalte-ohne-strom-accg-110680454.html"
   ],
   "content_hashes": [
-    "ae3751814b0164f1512dabb0fbc99171",
-    "84b9a167fcde75ae4b60df059ffb1b75",
-    "10c8bded2afdb553457afae27ca9ffae",
-    "feb4a9068e639ea837ed9a7aa9dd1560",
     "0aed6139969b21df5494669f249fb41c",
     "2196fd71fae51bc1fe1a47604b85083d",
     "59cc8fa3394c671c595d356494727317",
@@ -2001,13 +1997,13 @@
     "ea4cc283b174370f9ba477a72bb88862",
     "9610a3d6875c82b64d5fe3148d007962",
     "db048da85fd2961d594fc4cc15b2613d",
-    "9ed854cd02855ff786f744ed09569173"
+    "9ed854cd02855ff786f744ed09569173",
+    "52eb4e9841d849cddf976f2f19e58b8f",
+    "272a3a81a52139373a36410e50083169",
+    "0e64218e1ed60466681c85b0af2ecc22",
+    "eb33c9eaed431f1da0cc3b4d277b5c51"
   ],
   "titles": [
-    "Terrorverdacht - Bundesanwaltschaft erhebt Anklage gegen mutmaßlichen IS-Anhänger",
-    "Kufiya als Israel-Protest: OVG: Gedenkstätte Buchenwald darf Zutritt mit Palästinensertuch verweigern",
-    "Teure Pensionen: Warum einige Beamte länger arbeiten sollten",
-    "USA - Musk legt Pläne für Gründung eigener Partei offenbar auf Eis",
     "Zivilschutzbehörde - Portugal: Drittes Todesopfer durch Waldbrände",
     "Berlin: Mutmaßlicher IS-Unterstützer soll Anschlag auf israelische Botschaft geplant haben – Anklage erhoben",
     "Krieg in der Ukraine: Kinder bei russischem Angriff auf Zivilisten verletzt",
@@ -3003,13 +2999,13 @@
     "Tag der Wohnungslosen Menschen - Paritätischer Wohlfahrtsverband fordert Sofortprogramm gegen Wohnungslosigkeit in Deutschland",
     "Medienbericht - Deutsche Bahn wird zentrales Versprechen bei großen Baustellen offenbar nicht einhalten können",
     "Wirtschaft - Zahl der Firmenpleiten in Deutschland im Juni auf Zehn-Jahres-Hoch",
-    "Nach Drohnen-Vorfall - Polen schränkt Flugverkehr an seiner Ostgrenze ein"
+    "Nach Drohnen-Vorfall - Polen schränkt Flugverkehr an seiner Ostgrenze ein",
+    "GKV-Spitzenverband - Krankenkassen prüfen 10-Milliarden-Euro-Klage gegen Bund wegen \"systematischer Unterfinfanzierung\"",
+    "Künstliche Intelligenz - Ein Viertel der Bevölkerung nutzt KI zur Selbstdiagnose bei Krankheiten - geteilte Meinung zu Chancen und Risiken",
+    "Obdachlosigkeit - Mehr Wohnungslose und immer weniger bezahlbarer Wohnraum",
+    "Berlin: Nach Brandanschlag noch Tausende Haushalte ohne Strom"
   ],
   "hashes": [
-    "11425232aa798fa4a57df6cf9802d9ce",
-    "f2ff4fab511d57e249a5754ed145301d",
-    "f2e1eb9bad181378300eed1979719237",
-    "881739275243795506357b75da25b8e9",
     "265e42e394c75ab2617333962c5d29c6",
     "f222a95b9ec0dc7913a93b1001a4c1b5",
     "65bb30eec6019edf99ab5105eb91f103",
@@ -4005,6 +4001,10 @@
     "96f9d5d2bdeed1e402897d1d9cc45f72",
     "fd33cffff41b60fa069a895627092853",
     "0d9dd39fd7f6563913a30048fe7cedf8",
-    "1f15c8d42c2e7198c377ff3dcda8d26e"
+    "1f15c8d42c2e7198c377ff3dcda8d26e",
+    "641d61f2ca627017ae5cbf6adada10fe",
+    "5888fed6a9ce8481cd2e7e3f2b36ff1e",
+    "e90b725db5c3ac6a2d30bb0f85aa876d",
+    "470cad0927491353d2344ec2ba6ac10e"
   ]
 }
