@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-teils-toedlichen-zwischenfaellen-sollen-jetzt-die-baeren-gezaehlt-werden-100.html",
-    "https://www.deutschlandfunk.de/palaestinensische-autonomiebehoerde-fordert-von-booking-com-airbnb-und-anderen-keine-ferienwohnungen-100.html",
     "https://www.deutschlandfunk.de/kommunen-sehen-entlastung-100.html",
     "https://www.deutschlandfunk.de/explosionen-in-kiew-und-lwiw-100.html",
     "https://www.deutschlandfunk.de/gruene-prangern-politische-attacken-auf-justiz-an-scharfe-vorwuerfe-gegen-csu-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/martin-jaeger-als-praesident-des-bnd-eingefuehrt-100.html",
     "https://www.spiegel.de/wissenschaft/co-speicherung-umweltverbaende-kritisieren-plaene-fuer-deutschland-a-b670429f-ffe8-42b0-85a8-b3201f30a763#ref=rss",
     "https://www.aljazeera.com/video/featured-documentaries/2025/9/11/germanys-israel-obsession?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischer-hintergrund-fuer-moeglich-110681117.html"
+    "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischer-hintergrund-fuer-moeglich-110681117.html",
+    "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-unveraendert-sorgen-um-frankreich-100.html",
+    "https://www.deutschlandfunk.de/belarus-laesst-52-gefangene-frei-100.html"
   ],
   "content_hashes": [
-    "88e7f961323cb038183a7dbae762a2a5",
-    "895a65c218ccbd347d43496a84e31106",
     "45c277892bf49d835d782d6e36198c6e",
     "84a98560e61f2cfde56e8d8d16e3dd5a",
     "e9624eef2ed588a07080523d8c53bcba",
@@ -2001,11 +1999,11 @@
     "68f02b7247d4e4bd5d9a29d9e7b99860",
     "a06905d471f89957e8bd40e048a6ef3b",
     "c134d5b968b7446f5f5eeda6b4a8c60a",
-    "0faf241796889667ab47acb919e12bcc"
+    "0faf241796889667ab47acb919e12bcc",
+    "547a90a81122ae148872f4d36778c6fe",
+    "9d84ae102574095234992e313975cc24"
   ],
   "titles": [
-    "Slowakei - Nach teils tödlichen Zwischenfällen sollen jetzt die Bären gezählt werden",
-    "Israelische Siedlungen - Palästinensische Autonomiebehörde fordert von booking.com, AirBnB und anderen: Keine Ferienwohnungen mehr in besetzen Gebieten",
     "Asylzahlen - Kommunen sehen Entlastung",
     "Russischer Luftangriff - Explosionen in Kiew und Lwiw",
     "Causa Scheuer - Grüne prangern politische Attacken auf Justiz an – scharfe Vorwürfe gegen CSU",
@@ -3003,11 +3001,11 @@
     "Auslandsgeheimdienst - Martin Jäger als Präsident des BND eingeführt",
     "CO₂-Speicherung: Umweltverbände kritisieren Pläne für Deutschland",
     "Germany’s Israel Obsession",
-    "Messerangriff in Essen: Reul hält islamistischer Hintergrund für möglich"
+    "Messerangriff in Essen: Reul hält islamistischer Hintergrund für möglich",
+    "Zinsentscheidung - EZB lässt Leitzinsen unverändert - Sorgen um Frankreich",
+    "Gespräche mit US-Gesandten - Belarus lässt 52 Gefangene frei"
   ],
   "hashes": [
-    "e799d038bc6469edd1da645f17ab3d17",
-    "60e43fcce1106ced0dd0405a698451ad",
     "5d7a613c296d01d30f5fac8111a6b64b",
     "ebbe640e45d91201ee34c33302305d2e",
     "0a40716dc7983f01d2e7eb706421883b",
@@ -4005,6 +4003,8 @@
     "ac01de96d7a9f20d8b3d31ba8d42138c",
     "2d5d7f74bfed9eae1bdb3f272ff9ad4a",
     "f4c9fcb729547cdf42a1845b7a23153a",
-    "173943870f2792da5227718aeab34cbd"
+    "173943870f2792da5227718aeab34cbd",
+    "f42a7fe295f6d10f18500df838da34b8",
+    "9352030b875518e6e54d1a2e7fb7cb29"
   ]
 }
