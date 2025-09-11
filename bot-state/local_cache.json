@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierung-plant-abschaffung-der-mehrwertsteuer-auf-buecher-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-spahn-haelt-debatte-ueber-deutsche-friedenssoldaten-fuer-verfrueht-faz-110172806.html",
-    "https://www.deutschlandfunk.de/macron-warnt-wegen-gaza-offensive-vor-dauerkrieg-in-region-102.html",
-    "https://www.deutschlandfunk.de/in-polen-abgestuerzte-drohne-stammt-laut-warschau-aus-russland-verteidigungsminister-spricht-von-rus-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-polen-meldet-absturz-russischer-drohne-auf-maisfeld-faz-110172806.html",
     "https://www.deutschlandfunk.de/trump-fordert-ruecktritt-einer-fed-gouverneurin-100.html",
     "https://www.deutschlandfunk.de/fast-80-tote-bei-busunfall-100.html",
     "https://www.deutschlandfunk.de/mindestens-50-tote-bei-angriff-auf-moschee-und-doerfer-100.html",
@@ -999,14 +994,14 @@
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-deutet-langsameres-tempo-beim-ausbau-erneuerbarer-energien-an-a-1066165e-91fc-4004-881c-e10e3241afd7#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/kloeckner-mahnt-strenge-regeln-fuer-smartphones-und-sticker-an-accg-110680545.html",
     "https://www.faz.net/aktuell/politik/inland/urteile-gegen-bjoern-hoecke-wegen-ns-parole-rechtskraeftig-accg-110680610.html",
-    "https://www.faz.net/aktuell/politik/sigrid-emmenegger-fuer-karlsruhe-gute-wahl-110680609.html"
+    "https://www.faz.net/aktuell/politik/sigrid-emmenegger-fuer-karlsruhe-gute-wahl-110680609.html",
+    "https://www.deutschlandfunk.de/zwei-urteile-gegen-den-afd-politiker-hoecke-wegen-verwendung-von-verbotener-ns-parole-sind-rechtskra-102.html",
+    "https://www.deutschlandfunk.de/britischer-botschafter-in-den-usa-wegen-epstein-kontakt-abberufen-102.html",
+    "https://www.deutschlandfunk.de/zahl-der-streiks-2024-zurueckgegangen-102.html",
+    "https://www.deutschlandfunk.de/idea-institut-lage-der-pressefreiheit-weltweit-so-schlecht-wie-seit-50-jahren-nicht-mehr-102.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-charlie-kirk-stammeskrieg-in-usa-fordert-naechstes-opfer-110680517.html"
   ],
   "content_hashes": [
-    "f4f270cca8d763b287c366a066936c90",
-    "114576c8289d7117f0b75d3cb266ba0a",
-    "dd687558ca97b22592f89dceff4d3de9",
-    "c77f7b9322def0a62a04bc8b62eb5457",
-    "36f8d8e5abfabc35a095ec2605d02ce9",
     "11d1b878e1b5111448c808fb58b9c5d7",
     "6a5f67d8d7adb46669025ba15114d57e",
     "c7dd6efbcd27bf4464d0c21d7e7dacaf",
@@ -2001,14 +1996,14 @@
     "4a0b3a9792c0cbf8971817002c10f27d",
     "7c61d0add53217590daf33e2b6220ee4",
     "9bf00ce4dcfc165dfcbf4e5ebc598c3e",
-    "9e0fc76a80f51978d95649009040c154"
+    "9e0fc76a80f51978d95649009040c154",
+    "fac0f190ce6f097c4792256e5c592740",
+    "adcd71aeb88e609d2dda7303627d6683",
+    "5d8e4f38507967c07bacaaa75f2c69f7",
+    "1ad3c427d58ce05cdf23d68d0e5ce659",
+    "d8b66a81bd980304706497a48061bff8"
   ],
   "titles": [
-    "Dänemark - Regierung plant Abschaffung der Mehrwertsteuer auf Bücher",
-    "Krieg in der Ukraine: Spahn hält Debatte über deutsche Friedenssoldaten für verfrüht",
-    "Nahost - Macron warnt wegen Gaza-Offensive vor \"Dauerkrieg\" in Region",
-    "Osiny - In Polen abgestürzte Drohne stammt laut Warschau aus Russland - Verteidigungsminister spricht von \"russischer Provokation\"",
-    "Krieg in der Ukraine: Polen meldet Absturz russischer Drohne auf Maisfeld",
     "US-Notenbank - Trump fordert Rücktritt einer Fed-Gouverneurin",
     "Afghanistan - Fast 80 Tote bei Busunfall",
     "Nigeria - Mindestens 50 Tote bei Angriff auf Moschee und Dörfer",
@@ -3003,14 +2998,14 @@
     "Friedrich Merz deutet langsameres Tempo beim Ausbau erneuerbarer Energien an",
     "Verhalten im Bundestag: Klöckner mahnt „Zurückhaltung“ bei Smartphone- und Tabletnutzung an",
     "AfD-Politiker: Urteile gegen Höcke wegen NS-Parole rechtskräftig",
-    "Vorschlag für Karlsruhe: Eine gute Wahl"
+    "Vorschlag für Karlsruhe: Eine gute Wahl",
+    "Bundesgerichtshof - Zwei Urteile gegen den AfD-Politiker Höcke wegen Verwendung von verbotener NS-Parole sind rechtskräftig",
+    "Diplomatie - Britischer Botschafter in den USA wegen Epstein-Kontakt abberufen",
+    "Studie - Zahl der Streiks 2024 zurückgegangen",
+    "Untersuchung - Idea-Institut: Lage der Pressefreiheit weltweit so schlecht wie seit 50 Jahren nicht mehr",
+    "Politische Kultur in USA: Das nächste Opfer im Stammeskrieg"
   ],
   "hashes": [
-    "3b289251b7bb20ba8cae6fa15b7d0551",
-    "acf2c4b8ae4b11fa4e6a7fbe60b11d5e",
-    "620238ca14b1c248667efacebfc3d3c2",
-    "504144dcf49f869fc7701f2bcdf00bd2",
-    "6f5f7c5592d5c06d170edbf0d2e565aa",
     "55a17ef468e227cbbd4491789ff17458",
     "882568b0c1e2f25b5c5349559b98e723",
     "f3f08467ae68e25d18f5a17d56d77a0b",
@@ -4005,6 +4000,11 @@
     "31fb0912e62e79c96d67d890f207f8eb",
     "8a29db0aa69ab9ab040e3ac13869dc82",
     "d8bd061e65a6eb7d3938019c00eed21e",
-    "292c635cfec4194b9806c78155824b32"
+    "292c635cfec4194b9806c78155824b32",
+    "db64b141d6e3f89bc894e86ae964eeac",
+    "06b7359474fa600dde2eb6ef1209240d",
+    "66203df81e6a035e52579aca173133c3",
+    "aac430e34dd3df410309401b2035a6e5",
+    "11a5ffeaa97855bb8d3de5aa125776db"
   ]
 }
