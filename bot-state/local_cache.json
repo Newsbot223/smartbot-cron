@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommunen-sehen-entlastung-durch-rueckgang-der-asylantraege-100.html",
-    "https://www.deutschlandfunk.de/verband-warnt-vor-wachsender-verarmung-100.html",
-    "https://www.deutschlandfunk.de/innenminister-beraet-nach-spremberger-brandbrief-mit-lausitz-kommunen-ueber-rechtsextremismus-100.html",
     "https://www.deutschlandfunk.de/verwaltungsgericht-duesseldorf-zu-ausweisung-von-frueherem-is-deutschland-chef-abu-walaa-urteil-ist--100.html",
     "https://www.deutschlandfunk.de/spd-politiker-ahmetovic-nennt-diskussion-ueber-deutsche-bodentruppe-hoersaaldebatte-100.html",
     "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-was-die-deutschen-von-reformen-halten-110646130.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/internationale-medien-fordern-von-trump-regierung-verzicht-auf-begrenzung-von-journalisten-visa-100.html",
     "https://www.deutschlandfunk.de/messerangriff-auf-lehrerin-moeglicherweise-mit-islamistischem-hintergrund-100.html",
     "https://www.deutschlandfunk.de/stromausfall-im-suedosten-berlins-behoben-100.html",
-    "https://www.deutschlandfunk.de/irland-und-spanien-fordert-erneut-ausschluss-israels-vom-esc-102.html"
+    "https://www.deutschlandfunk.de/irland-und-spanien-fordert-erneut-ausschluss-israels-vom-esc-102.html",
+    "https://www.deutschlandfunk.de/eu-parlament-will-sanktionen-gegen-israelische-minister-102.html",
+    "https://www.deutschlandfunk.de/gedenken-an-die-opfer-vom-11-september-2001-in-den-usa-100.html",
+    "https://www.faz.net/aktuell/politik/inland/teilnehmer-von-potsdamer-treffen-bestaetigt-remigrationsplaene-110681458.html"
   ],
   "content_hashes": [
-    "2139e7c031cd456770031317109d4ddd",
-    "378bbe4aafea78c6ac188f563b31b31a",
-    "a3e4c833552b364a0eb64d022f560473",
     "56b6dfd3593583b4435c4c707540493e",
     "71f5a7c3f53d8174e0720fd9c1f3d1e3",
     "9c0bfa2346fc412e6c0d7c4e4e821735",
@@ -2001,12 +1998,12 @@
     "ac6d9afbde2f9749dcdda29230a68814",
     "a56b3ed1ff3650c9acee882120a0b752",
     "5db64a15bebc1f2ce047988119c4789f",
-    "73272dbd8c71c489c3b1aa65b3dd3256"
+    "73272dbd8c71c489c3b1aa65b3dd3256",
+    "361fd287252b2802b90a794e9f0c0c48",
+    "bd6cb429784a19eca1fd01485e86f70e",
+    "f65462e3b20c77bd5025d9c47abe0c5b"
   ],
   "titles": [
-    "Migration - Kommunen sehen Entlastung durch Rückgang der Asylanträge",
-    "Wohnungsnot - Verband warnt vor wachsender Verarmung",
-    "Brandenburg - Innenminister berät nach Spremberger Brandbrief mit Lausitz-Kommunen über Rechtsextremismus",
     "Salafismus - Verwaltungsgericht Düsseldorf zu Ausweisung von früherem IS-Deutschland-Chef Abu Walaa: Urteil ist rechtskräftig",
     "Ukraine - SPD-Politiker Ahmetovic nennt Diskussion über deutsche Bodentruppe \"Hörsaaldebatte\"",
     "Allensbach-Umfrage: Deutsche sind kaum bereit für schmerzhafte Reformen",
@@ -3003,12 +3000,12 @@
     "USA - Internationale Medien fordern von Trump-Regierung Verzicht auf Begrenzung von Journalisten-Visa",
     "Essen - Messerangriff auf Lehrerin möglicherweise mit islamistischem Hintergrund",
     "Energie - Stromausfall im Südosten Berlins behoben",
-    "Eurovision Song Contest - Irland und Spanien fordert erneut Ausschluss Israels vom ESC"
+    "Eurovision Song Contest - Irland und Spanien fordert erneut Ausschluss Israels vom ESC",
+    "Krise im Gazastreifen - EU-Parlament will Sanktionen gegen israelische Minister",
+    "Terroranschlag - Gedenken an die Opfer vom 11. September 2001 in den USA",
+    "Remigrationspläne: Kritik an sachsen-anhaltischem AfD-Spitzenkandidat Siegmund"
   ],
   "hashes": [
-    "55fd22522e996c949c56989c636ea76f",
-    "e8e5f9056aeb9b99ecfd513098ad51c8",
-    "ed35792345a82dc20efbd74eeb9ce037",
     "5378ab8cad83dbc450a341af9a5c8d97",
     "3783f0bd5cc9a910bb871f1c499d7733",
     "b7ac5b463cc9e97f7a6fd86ec29dd86a",
@@ -4005,6 +4002,9 @@
     "dce5631324c1386ccd2f5896e696881e",
     "3962a8bdd2a654e69ea263ecad9ea811",
     "ddb634085d767139a0bf09af3c2bb426",
-    "8fbe356fc0daec4bd2c7c02bfaa83f6d"
+    "8fbe356fc0daec4bd2c7c02bfaa83f6d",
+    "3be0e6dc59ab76fc24eb494db58aef28",
+    "1c54d90ab560ce494f6612196720f3d7",
+    "35b373638d078e4972dcb68728b92822"
   ]
 }
