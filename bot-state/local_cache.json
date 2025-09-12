@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frueherer-ministerpraesident-thaksin-shinawatra-freigesprochen-100.html",
-    "https://www.deutschlandfunk.de/gasspeicher-in-deutschland-deutlich-weniger-befuellt-als-in-vorjahren-100.html",
     "https://www.deutschlandfunk.de/cdu-europaabgeordneter-gahler-serbische-gesellschaft-muss-sich-entscheiden-in-welche-richtung-sie-wi-100.html",
     "https://www.deutschlandfunk.de/verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html",
     "https://www.deutschlandfunk.de/selenskyj-will-militaerischen-druck-auf-russland-erhoehen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-atombomben-aeusserung-israels-premier-netanjahu-wirft-spaniens-regierungschef-sanchez-voelkermo-100.html",
     "https://www.deutschlandfunk.de/suedafrikas-staatsanwaltschaft-rollt-ermittlungen-zum-tod-von-apartheid-gegner-biko-neu-auf-100.html",
     "https://www.deutschlandfunk.de/suedsudans-vizepraesident-machar-des-hochverrats-angeklagt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/berliner-spd-krach-kann-nicht-versprechen-dass-mieten-sinken-accg-110681168.html"
+    "https://www.faz.net/aktuell/politik/inland/berliner-spd-krach-kann-nicht-versprechen-dass-mieten-sinken-accg-110681168.html",
+    "https://www.deutschlandfunk.de/microsoft-einigt-sich-mit-eu-kommission-in-kartellstreit-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/trump-und-die-nato-europa-ist-im-zweifel-alleine-110681410.html"
   ],
   "content_hashes": [
-    "0fb6a563e3a5dc07545099dac41de8a0",
-    "6daf3040f849bdb19d3ff86e835b49be",
     "39023f818ea1aff4a6a3a3e9f54e44f2",
     "d7390315bbd8fc3d02703a6c2db15860",
     "75810c5dda7ac1c2af37b12df801ef09",
@@ -2001,11 +1999,11 @@
     "299b8f9c498e043eabb1f946ae95fd19",
     "11d837d5ec9808107b885f4d0dcde245",
     "89ecd48cc22e3e246ddf3f6a5c72775e",
-    "d7ce25ddc86b36e2ed4bbbe445fabc1f"
+    "d7ce25ddc86b36e2ed4bbbe445fabc1f",
+    "104f482f998469178f0d0af598c99fda",
+    "2c07b3d6e12fd40a0ffe8bf08a953431"
   ],
   "titles": [
-    "Thailand - Früherer Ministerpräsident Thaksin Shinawatra freigesprochen",
-    "Energie - Gasspeicher in Deutschland deutlich weniger befüllt als in Vorjahren",
     "Proteste in Serbien - CDU-Europaabgeordneter Gahler: \"Serbische Gesellschaft muss sich entscheiden, in welche Richtung sie will\"",
     "Schrankenlose Parkplätze - Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen",
     "Ukraine-Krieg - Selenskyj will militärischen Druck auf Russland erhöhen",
@@ -3003,11 +3001,11 @@
     "Diplomatische Eskalation - Nach \"Atombomben\"-Äußerung: Israels Premier Netanjahu wirft Spaniens Regierungschef Sanchez \"Völkermord-Drohung\" vor",
     "Nach 48 Jahren - Südafrikas Staatsanwaltschaft rollt Ermittlungen zum Tod von Apartheid-Gegner Biko neu auf",
     "Ostafrika - Südsudans Vizepräsident Machar des Hochverrats angeklagt",
-    "Berliner SPD-Spitzenkandidat: „Ich kann nicht versprechen, dass die Mieten sinken“"
+    "Berliner SPD-Spitzenkandidat: „Ich kann nicht versprechen, dass die Mieten sinken“",
+    "US-Technologie-Konzern - Microsoft einigt sich mit EU-Kommission in Kartellstreit",
+    "Polnischer Luftraum: Europa ist im Zweifel alleine"
   ],
   "hashes": [
-    "a611cac3d9f2bbc91356d18eb42bae60",
-    "32df1bffba9eefc70b0e41a011906e6b",
     "dd75132bdfdf324ef454c52881edb031",
     "d2a4451eac1f56827cf946dcb7f67cd5",
     "a0d0d6911fa99575dca01823685448f2",
@@ -4005,6 +4003,8 @@
     "ae83bab286c104ccff789e40602acd2b",
     "e42b09430528bccaf79821bcce76e61c",
     "f2713a1f2c8db3b0a0618637b39b1e54",
-    "5171ef0b3842610e2ea2763a30589485"
+    "5171ef0b3842610e2ea2763a30589485",
+    "4ef8a4c97adfbfddd99d17c7b12a2d13",
+    "4942f4fe68d5670d1dddfaa5ab10acdf"
   ]
 }
