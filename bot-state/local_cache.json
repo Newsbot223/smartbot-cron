@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/thyssenkrupp-stahlchef-schlaegt-wegen-billigimporten-alarm-100.html",
     "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sparappell-so-will-klingbeil-die-milliardenluecke-im-haushalt-angehen-110650301.html",
     "https://www.deutschlandfunk.de/russischer-aussenminister-lawrow-noch-keine-plaene-fuer-putin-selenskyj-gipfel-100.html",
     "https://www.deutschlandfunk.de/kulturpass-steht-vor-dem-aus-staatsminister-weimer-werden-in-andere-projekte-investieren-102.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html",
     "https://www.deutschlandfunk.de/fruehere-oberste-richterin-ist-neue-regierungschefin-102.html",
     "https://www.faz.net/aktuell/politik/ukraine/drohnenangriff-auf-polen-die-nato-muesste-putin-dankbar-sein-110683707.html",
-    "https://www.deutschlandfunk.de/uno-vollversammlung-stimmt-fuer-zweistaatenloesung-zwischen-israel-und-palaestinensern-an-100.html"
+    "https://www.deutschlandfunk.de/uno-vollversammlung-stimmt-fuer-zweistaatenloesung-zwischen-israel-und-palaestinensern-an-100.html",
+    "https://www.deutschlandfunk.de/mutmasslicher-attentaeter-in-untersuchungshaft-100.html"
   ],
   "content_hashes": [
-    "033c1841e2ed09640e7ddeb580d85883",
     "6ab4b91f991312c4122db378e4c4c027",
     "275c0f43e7e5aaf301eed829af29fba8",
     "cde69d5b0a1b7a2c8c2c791c29a629f1",
@@ -2001,10 +2000,10 @@
     "cc249f12b257f7eaa18b04158264a214",
     "74537916375006369435701618ca9818",
     "7d7f3aec0dfec9cb37b0e41152e1c388",
-    "906d9f7c793b066d6e3dc11aa9c3b7c8"
+    "906d9f7c793b066d6e3dc11aa9c3b7c8",
+    "40fbf698164e9c6b13891a38817afff3"
   ],
   "titles": [
-    "Außenhandel - Thyssenkrupp-Stahlchef schlägt wegen Billigimporten Alarm",
     "Hohe Renten- und Zinsausgaben: Wie Klingbeil die 172-Milliarden-Lücke schließen will",
     "Ukrainekrieg - Russischer Außenminister Lawrow: Noch keine Pläne für Putin-Selenskyj-Gipfel",
     "Förderung des Bundes - Kulturpass steht vor dem Aus - Staatsminister Weimer: \"Werden in andere Projekte investieren\"",
@@ -3003,10 +3002,10 @@
     "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln",
     "Nepal - Frühere Oberste Richterin ist neue Regierungschefin",
     "Russlands Drohnenkrieg: Die NATO müsste Putin dankbar sein",
-    "New York - UNO-Vollversammlung stimmt für Zweistaatenlösung zwischen Israel und Palästinensern an"
+    "New York - UNO-Vollversammlung stimmt für Zweistaatenlösung zwischen Israel und Palästinensern an",
+    "Fall Charlie Kirk - Mutmaßlicher Attentäter in Untersuchungshaft"
   ],
   "hashes": [
-    "bbd83f63f94496bf09d44be5ebbcc036",
     "1ddae43997160fc38363b37c0f73ed2e",
     "fd328927d94c28c932869dbc1c75868f",
     "3588010576adc279bedc0212c0c7a419",
@@ -4005,6 +4004,7 @@
     "7bb22379bdfa7602278e4a512d91d6c5",
     "c708f423e40417b11e622528fdb99e23",
     "77824125652aa43da6aef7028f7ab679",
-    "6641c0efb82031de11ec4aa447352074"
+    "6641c0efb82031de11ec4aa447352074",
+    "242b815e996ee483f7607b23aaf29158"
   ]
 }
