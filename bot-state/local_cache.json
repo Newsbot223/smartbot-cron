@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/grossen-landwirtschaftlichen-betrieben-drohen-kuerzungen-von-eu-mitteln-110642973.html",
-    "https://www.deutschlandfunk.de/israelische-armee-ordnet-evakuierung-von-krankenhaeusern-im-noerdlichen-gazastreifen-an-102.html",
     "https://www.deutschlandfunk.de/iran-beginnt-grosses-marinemanoever-am-golf-von-oman-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/vertrauliches-strategiepapier-hessische-gruenen-wollen-wieder-juniorpartner-der-cdu-sein-110647601.html",
     "https://www.deutschlandfunk.de/internationale-kritik-an-israels-genehmigung-von-bauplaenen-im-westjordanland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-klimaforscherin-und-zink-pioniere-100.html",
     "https://www.deutschlandfunk.de/bericht-mehr-als-600-afghanen-in-pakistan-festgenommen-und-teilweise-abgeschoben-100.html",
     "https://www.deutschlandfunk.de/verletzungen-des-polnischen-luftraums-cdu-politiker-roewekamp-fordert-ausbau-der-nato-luftabwehr-100.html",
-    "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-klimaforscherin-und-rostschutzunternehmen-104.html"
+    "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-klimaforscherin-und-rostschutzunternehmen-104.html",
+    "https://www.deutschlandfunk.de/sapad-2025-belarus-und-russland-halten-militaermanoever-ab-100.html",
+    "https://www.deutschlandfunk.de/ausladung-von-muenchner-philharmonikern-cdu-europapolitikerin-bentele-sieht-eine-ganz-besorgniserreg-102.html"
   ],
   "content_hashes": [
-    "2e1e5b718d68481c8b4ffcccaecfd874",
-    "6777e5db9bd8b28114250a40d855e27b",
     "fa538f149c579e6eeec7e4d539f65d25",
     "1d264f4d4d8ef8d286a80b7b88a1a501",
     "fd50490cf83e1cd9b6fcaf51d4593fa7",
@@ -2001,11 +1999,11 @@
     "fc3fbf2a7ea407c6e27a751b7fc16907",
     "158748773af04ac5a7c39ed457c4e732",
     "85f78ab8e853de264dc1f4b2a21b1bc3",
-    "ef3d30ac9656e65abc34a7ab1b4ca427"
+    "ef3d30ac9656e65abc34a7ab1b4ca427",
+    "19fa2867edb31c0405f71cb7ced97c88",
+    "b29415c5c34f654cdc0bd9b2804ea3b4"
   ],
   "titles": [
-    "Subventionen für Bauern: Wenn Brüssel die Sense ansetzt",
-    "Gaza - Israelische Armee ordnet Evakuierung von Krankenhäusern im nördlichen Gazastreifen an",
     "Naher Osten - Iran beginnt großes Marinemanöver am Golf von Oman",
     "Vertrauliches Strategiepapier: Hessische Grünen wollen wieder Juniorpartner der CDU sein",
     "Siedlungspolitik - Internationale Kritik an Israels Genehmigung von Bauplänen im Westjordanland",
@@ -3003,11 +3001,11 @@
     "Auszeichnung - Deutscher Umweltpreis für Klimaforscherin und Zink-Pioniere",
     "Debatte um ehemalige Ortskräfte - Bericht: Mehr als 600 Afghanen in Pakistan festgenommen und teilweise abgeschoben",
     "Nach Drohnenvorfall - Verletzungen des polnischen Luftraums: CDU-Politiker Röwekamp fordert Ausbau der NATO-Luftabwehr",
-    "Auszeichnung - Deutscher Umweltpreis für Klimaforscherin und Rostschutzunternehmen"
+    "Auszeichnung - Deutscher Umweltpreis für Klimaforscherin und Rostschutzunternehmen",
+    "In der Nähe zu EU und NATO - Sapad 2025: Belarus und Russland halten Militärmanöver ab",
+    "Ghent - Ausladung von Münchner Philharmonikern: CDU-Europapolitikerin Bentele sieht \"eine ganz besorgniserregende Tendenz\""
   ],
   "hashes": [
-    "86f95e09dae4ca904a2cfbb86aa31413",
-    "e450a3488d70759cf0ab1f1552740b5e",
     "85ecccd297ebba048280accd7c582d1b",
     "a81651bb163e6bfecf1840dcdf0df1c9",
     "0d2ac70a1ae149c2ef36ec00ee57c4f4",
@@ -4005,6 +4003,8 @@
     "0413cd953620afec5db00943526cbcb1",
     "1cd6a0a0321d566e38e6ad7719692f94",
     "aff94a72a73c7eadac241ee9feb0bcbc",
-    "39c8b62583c42cc83c3b57f4756bb86d"
+    "39c8b62583c42cc83c3b57f4756bb86d",
+    "97b8f93fe657aaa85370b4f4822728a9",
+    "7ac8dd464bbe748a08de31acf2d3308b"
   ]
 }
