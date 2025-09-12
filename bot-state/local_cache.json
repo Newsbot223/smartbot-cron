@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-will-militaerischen-druck-auf-russland-erhoehen-100.html",
-    "https://www.deutschlandfunk.de/schrankenlose-parkplaetze-verbraucherzentralen-verzeichnen-beschwerden-ueber-betreiber-unternehmen-100.html",
-    "https://www.deutschlandfunk.de/bip-staerker-geschrumpft-als-erwartet-0-3-prozent-im-zweiten-quartal-100.html",
-    "https://www.deutschlandfunk.de/aegypten-birgt-antike-statuen-aus-dem-mittelmeer-102.html",
     "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-nrw-ist-kein-bollwerk-gegen-die-afd-mehr-110648121.html",
     "https://www.spiegel.de/kultur/russische-staatsmedien-werden-trotz-verbots-in-deutschland-stark-genutzt-a-948b1012-0c88-40d0-805b-8a4c2ce28d13#ref=rss",
     "https://www.deutschlandfunk.de/diw-praesident-fratzscher-schlaegt-verpflichtendes-soziales-jahr-fuer-rentnerinnen-und-rentner-vor-100.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/inland/berliner-spd-krach-kann-nicht-versprechen-dass-mieten-sinken-accg-110681168.html",
     "https://www.deutschlandfunk.de/microsoft-einigt-sich-mit-eu-kommission-in-kartellstreit-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/trump-und-die-nato-europa-ist-im-zweifel-alleine-110681410.html",
-    "https://www.faz.net/aktuell/politik/inland/brandanschlag-in-berlin-auf-dem-weg-zum-linksterrorismus-110679253.html"
+    "https://www.faz.net/aktuell/politik/inland/brandanschlag-in-berlin-auf-dem-weg-zum-linksterrorismus-110679253.html",
+    "https://www.deutschlandfunk.de/sicherheitsexperte-bartels-belarus-wird-immer-weniger-selbststaendig-102.html",
+    "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-mahnt-handeln-bei-nikotinbeuteln-an-wir-muessen-alarmiert-sein-100.html",
+    "https://www.deutschlandfunk.de/kein-eigenes-fach-fuer-medienbildung-bundeslaender-setzen-zumeist-weiter-auf-faecheruebergreifende-a-102.html",
+    "https://www.deutschlandfunk.de/spice-statt-nikotin-experten-warnen-vor-illegalen-vapes-mit-synthetischem-cannabis-102.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-in-berlin-krach-kritisiert-buergermeister-wegner-accg-110681168.html"
   ],
   "content_hashes": [
-    "d7390315bbd8fc3d02703a6c2db15860",
-    "75810c5dda7ac1c2af37b12df801ef09",
-    "ace2aa3e8c6643db90dacc1943c7e512",
-    "5a2dde4964b6bff77bc9ed4b2b2fc84c",
-    "ceda644f1c4259c9d9b43d41034ecc45",
     "009ca39526a68d669ffad012f4328ba1",
     "edb147e591af3b8ccd0677828e224c81",
     "835db42f2f29af11e18dbd9d108ea8c6",
@@ -2001,14 +1996,14 @@
     "d7ce25ddc86b36e2ed4bbbe445fabc1f",
     "104f482f998469178f0d0af598c99fda",
     "2c07b3d6e12fd40a0ffe8bf08a953431",
-    "7d4412bb1b0391799473a8a16103f25a"
+    "7d4412bb1b0391799473a8a16103f25a",
+    "2e7b8f923ee321786387683c6ae5baf3",
+    "7af45271fb8bd08265f8fb1fd131afee",
+    "255eae541100f4bd50d3c6494eb91272",
+    "741c48c173c2493742341be5c225be4b",
+    "2d44cba6da456c4a5bc848948a880fca"
   ],
   "titles": [
-    "Schrankenlose Parkplätze - Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen",
-    "Ukraine-Krieg - Selenskyj will militärischen Druck auf Russland erhöhen",
-    "Verkehr - Schrankenlose Parkplätze: Verbraucherzentralen verzeichnen Beschwerden über Betreiber-Unternehmen",
-    "Statistisches Bundesamt - BIP stärker geschrumpft als erwartet: 0,3 Prozent im zweiten Quartal",
-    "Alexandria - Ägypten birgt antike Statuen aus dem Mittelmeer",
     "Kommunalwahlen: NRW ist kein Bollwerk gegen die AfD mehr",
     "Russische Staatsmedien werden trotz Verbots in Deutschland stark genutzt",
     "Generationengerechtigkeit - DIW-Präsident Fratzscher schlägt verpflichtendes soziales Jahr für Rentnerinnen und Rentner vor",
@@ -3003,14 +2998,14 @@
     "Berliner SPD-Spitzenkandidat: „Ich kann nicht versprechen, dass die Mieten sinken“",
     "US-Technologie-Konzern - Microsoft einigt sich mit EU-Kommission in Kartellstreit",
     "Polnischer Luftraum: Europa ist im Zweifel alleine",
-    "Linksextremismus: Brandsätze gegen das System"
+    "Linksextremismus: Brandsätze gegen das System",
+    "Militärmanöver \"Sapad 2025\" - Sicherheitsexperte Bartels: \"Belarus wird immer weniger selbstständig\"",
+    "Nach Verbot in Frankreich - Drogenbeauftragter Streeck mahnt Handeln bei Nikotinbeuteln an: \"Wir müssen alarmiert sein\"",
+    "Schulen - Kein eigenes Fach für Medienbildung: Bundesländer setzen zumeist weiter auf fächerübergreifende Ansätze",
+    "Niederlande - \"Spice\" statt Nikotin: Experten warnen vor illegalen Vapes mit synthetischem Cannabis",
+    "Berliner SPD-Spitzenkandidat: „Vergesellschaftungen sind kein Sozialismus“"
   ],
   "hashes": [
-    "d2a4451eac1f56827cf946dcb7f67cd5",
-    "a0d0d6911fa99575dca01823685448f2",
-    "cae0abd47cf2c78fbe260f9b9dd5984c",
-    "4ede1483bce1cc4e3059e9a98af33ee3",
-    "1191a25b4acc26c884cbabffa3225114",
     "29bac76af58957dc2184f6a9ed1bd8f7",
     "5438789c7cec5e2aded0c74f4acd3fec",
     "32efba316d8f12831840c08fda7f2448",
@@ -4005,6 +4000,11 @@
     "5171ef0b3842610e2ea2763a30589485",
     "4ef8a4c97adfbfddd99d17c7b12a2d13",
     "4942f4fe68d5670d1dddfaa5ab10acdf",
-    "24ba00ca02aefe98c1ffbf48ebd5b901"
+    "24ba00ca02aefe98c1ffbf48ebd5b901",
+    "59b6768d59f5bab39258ccb8b58c96e6",
+    "033e8899f71610f318a5aa3e94a55f4f",
+    "d44096a26b69a025c06501a2fcf33e26",
+    "5ccd04f22cb93635082ec9e9653a918c",
+    "82d8cafd27082ef17752383ee03c3af7"
   ]
 }
