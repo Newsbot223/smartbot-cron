@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-kuendigt-streichung-von-hilfsprojekten-an-104.html",
-    "https://www.spiegel.de/politik/deutschland/pakistan-innenminister-dobrindt-daempft-erwartung-an-baldige-aufnahme-aller-ortskraefte-aus-afghanistan-a-8562d978-b52d-457b-8337-c8e5226485a5#ref=rss",
     "https://www.deutschlandfunk.de/ifo-institut-fachkraeftemangel-nimmt-weiter-zu-100.html",
     "https://www.deutschlandfunk.de/russlands-aussenminister-lawrow-auslaendische-truppen-in-der-ukraine-inakzeptabel-100.html",
     "https://www.deutschlandfunk.de/mascha-schilinski-soll-oscar-fuer-deutschland-holen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-befasst-sich-mit-russlands-drohnen-in-polen-100.html",
     "https://www.deutschlandfunk.de/belarus-und-russland-halten-militaermanoever-ab-100.html",
     "https://www.deutschlandfunk.de/strafmass-fuer-ex-praesident-bolsonaro-erwartet-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-27-jahre-haft-fuer-ex-praesident-bolsonaro-102.html"
+    "https://www.deutschlandfunk.de/mehr-als-27-jahre-haft-fuer-ex-praesident-bolsonaro-102.html",
+    "https://www.deutschlandfunk.de/russische-luftabwehr-zerstoert-drohnen-im-anflug-auf-staedte-104.html",
+    "https://www.deutschlandfunk.de/rueckschlag-fuer-planned-parenthood-im-rechtsstreit-mit-regierung-100.html"
   ],
   "content_hashes": [
-    "112de545d699330c2640cef510eb5aae",
-    "51f1c34a8a7bbe64ccc3ccff275bbf53",
     "106bc937a7c419e15999f94deb8de02e",
     "1400ad1420169d96fb358cb430cb2280",
     "fa1824d068921724cd89dfa65a4960c3",
@@ -2001,11 +1999,11 @@
     "7891f08736d9799b917ef0c354108bf0",
     "334870e1114da201a6086ec3e7f668cc",
     "a92d7903bf19305dd32ad3921d36d19f",
-    "7db6ffb67bed2107e2b1c84c9bcc32ce"
+    "7db6ffb67bed2107e2b1c84c9bcc32ce",
+    "3db3050647d1f5e30b17065f64ce7333",
+    "a5cf3afab270ae69b5dd121b880d6de7"
   ],
   "titles": [
-    "Bundeshaushalt - Entwicklungsministerin Alabali Radovan kündigt Streichung von Hilfsprojekten an",
-    "Pakistan: Innenminister Dobrindt dämpft Erwartung an baldige Aufnahme aller Ortskräfte aus Afghanistan",
     "Arbeitsmarkt - Ifo-Institut: Fachkräftemangel nimmt weiter zu",
     "Debatte um Sicherheitsgarantien - Russlands Außenminister Lawrow: Ausländische Truppen in der Ukraine inakzeptabel",
     "\"In die Sonne schauen\" - Mascha Schilinski soll Oscar für Deutschland holen",
@@ -3003,11 +3001,11 @@
     "Verletzung des Luftraums - UNO-Sicherheitsrat befasst sich mit Russlands Drohnen in Polen",
     "In Nähe zu EU und NATO - Belarus und Russland halten Militärmanöver ab",
     "Brasilien - Strafmaß für Ex-Präsident Bolsonaro erwartet",
-    "Brasilien - Mehr als 27 Jahre Haft für Ex-Präsident Bolsonaro"
+    "Brasilien - Mehr als 27 Jahre Haft für Ex-Präsident Bolsonaro",
+    "Ukraine - Russische Luftabwehr zerstört Drohnen im Anflug auf Städte",
+    "USA - Rückschlag für Planned Parenthood im Rechtsstreit mit Regierung"
   ],
   "hashes": [
-    "995cca72f3b3a4fae723e409f0a4e29b",
-    "56ff0aaf995f20b52d38e7537c898c42",
     "4623c8df01451bc91739668c48bf402f",
     "16522c5da79b5a889445dc75ac558614",
     "b9b309416e76ea2cf86716deb46b26cf",
@@ -4005,6 +4003,8 @@
     "269b0cf3c7f5cefbd46a9890114d36c5",
     "5ec197a987c26dd69500b2af8ec1a2cb",
     "aa194ceacee798b64e8f1fbdee0f250c",
-    "e4a38cda202e3beddcf50265cc800d4c"
+    "e4a38cda202e3beddcf50265cc800d4c",
+    "6c3052093011080a0d205496e270ae71",
+    "e995aca617d2e3f77438da6f4c20e0bd"
   ]
 }
