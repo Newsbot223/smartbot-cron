@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/was-die-deutsche-wirtschaft-zum-wachstum-braucht-100.html",
-    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-trifft-ukrainischen-praesidenten-selenskyj-in-kiew-102.html",
     "https://www.deutschlandfunk.de/fbi-durchsucht-haus-von-trumps-ex-sicherheitsberater-bolton-102.html",
     "https://www.deutschlandfunk.de/klingbeil-fordert-ministerien-zu-substanziellen-sparvorschlaegen-auf-100.html",
     "https://www.spiegel.de/panorama/justiz/europa-park-mutmasslicher-missbrauch-eines-kindes-verdaechtiger-nach-deutschland-ausgeliefert-a-87799f5d-6f49-4bec-8173-a25c85f6b206#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-kuendigt-einsatz-der-nationalgarde-in-memphis-an-100.html",
     "https://www.faz.net/aktuell/politik/ausland/urteil-gegen-bolsonaro-welch-ein-kontrast-zu-den-usa-110683470.html",
     "https://www.deutschlandfunk.de/gouverneur-cox-kirk-attentat-war-angriff-auf-uns-alle-100.html",
-    "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html"
+    "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html",
+    "https://www.deutschlandfunk.de/nato-reagiert-mit-militaeroperation-auf-russische-drohnen-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-kuendigt-neue-initiative-zum-schutz-der-ostflanke-an-faz-110683325.html"
   ],
   "content_hashes": [
-    "e406ddbd9a81051e6b1b20b3cb6f2a6a",
-    "6b62b042747df015c731f4e00005b618",
     "58542eb149b00103ff97b36ef91086ba",
     "5e5712c8f8731067abaa4141172be270",
     "e19e138acda500e33936ce7f00c2892d",
@@ -2001,11 +1999,11 @@
     "496562e530a5a9a17c11a6f06c5657cd",
     "bd547a6b6f1fdf80bf19e7ee7029f28f",
     "2c92a0a370d0081c26a41ca7d853a258",
-    "2c6b243d7a29cc35681d3ad130289f7b"
+    "2c6b243d7a29cc35681d3ad130289f7b",
+    "e2656b774af8c25c65f8d7397443d75d",
+    "e9b1533d0c6e0ebd19b1c16febdcb809"
   ],
   "titles": [
-    "Lage der Wirtschaft - Hüther: \"Zehn anstrengende Jahre\" liegen vor Deutschland",
-    "Ukraine-Krieg - NATO-Generalsekretär Rutte trifft ukrainischen Präsidenten Selenskyj in Kiew",
     "Maryland - FBI durchsucht Haus von Trumps Ex-Sicherheitsberater Bolton",
     "Haushaltslücke - Klingbeil fordert Ministerien zu \"substanziellen\" Sparvorschlägen auf",
     "Europa-Park: Mutmaßlicher Missbrauch eines Kindes – Verdächtiger nach Deutschland ausgeliefert",
@@ -3003,11 +3001,11 @@
     "USA - Trump kündigt Einsatz der Nationalgarde in Memphis an",
     "Justiz in Brasilien: Welch ein Kontrast zu den USA",
     "Utah - Gouverneur Cox: Kirk-Attentat war \"Angriff auf uns alle\"",
-    "Abgewiesene Asylbewerber: Das Innenministerium zieht zurück"
+    "Abgewiesene Asylbewerber: Das Innenministerium zieht zurück",
+    "Verteidigung - NATO reagiert mit Militäroperation auf russische Drohnen",
+    "Krieg in der Ukraine: NATO kündigt neue Initiative zum Schutz der Ostflanke an"
   ],
   "hashes": [
-    "f02841f8a124fe438405ffcdf759afc2",
-    "5f34b7081596c2f6f7a945f1bad1ce94",
     "1e2ea1828baf8e1c9f17b103d10831d6",
     "df5fe20db0bfe47abda0612239e94eff",
     "f1a23a9d40d8f2f671908563de18046a",
@@ -4005,6 +4003,8 @@
     "f289537589b53178c5aa6448214dc2da",
     "4e3fc3820c1c24402be643cd984ddc6e",
     "81d2a17bbae22f70817d1841f327dc45",
-    "55837aacfc9b7b6a91465598928ebff3"
+    "55837aacfc9b7b6a91465598928ebff3",
+    "03a33c463846a743834e644a3dcabeb0",
+    "8bc761f7e3f981b0de82b638d30ddb27"
   ]
 }
