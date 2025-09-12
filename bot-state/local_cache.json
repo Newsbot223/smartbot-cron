@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ifo-institut-fachkraeftemangel-nimmt-weiter-zu-100.html",
-    "https://www.deutschlandfunk.de/russlands-aussenminister-lawrow-auslaendische-truppen-in-der-ukraine-inakzeptabel-100.html",
     "https://www.deutschlandfunk.de/mascha-schilinski-soll-oscar-fuer-deutschland-holen-102.html",
     "https://www.faz.net/aktuell/politik/inland/wie-der-fruehere-neonazi-liebich-beim-selbstbestimmungsgesetz-provoziert-110647770.html",
     "https://www.spiegel.de/wirtschaft/soziales/lohnfortzahlung-krankheitskosten-in-betrieben-steigen-auf-82-milliarden-euro-iw-forscher-fuer-einschnitte-a-fae76aec-6c83-4628-97d0-8a72e845661d#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/strafmass-fuer-ex-praesident-bolsonaro-erwartet-100.html",
     "https://www.deutschlandfunk.de/mehr-als-27-jahre-haft-fuer-ex-praesident-bolsonaro-102.html",
     "https://www.deutschlandfunk.de/russische-luftabwehr-zerstoert-drohnen-im-anflug-auf-staedte-104.html",
-    "https://www.deutschlandfunk.de/rueckschlag-fuer-planned-parenthood-im-rechtsstreit-mit-regierung-100.html"
+    "https://www.deutschlandfunk.de/rueckschlag-fuer-planned-parenthood-im-rechtsstreit-mit-regierung-100.html",
+    "https://www.deutschlandfunk.de/trump-will-keine-gewaltsamen-reaktionen-102.html",
+    "https://www.deutschlandfunk.de/schwesig-will-als-ministerpraesidentin-weitermachen-102.html"
   ],
   "content_hashes": [
-    "106bc937a7c419e15999f94deb8de02e",
-    "1400ad1420169d96fb358cb430cb2280",
     "fa1824d068921724cd89dfa65a4960c3",
     "3f33b72e557f046f511c5535aa999ffa",
     "74b2828afaad6e851ad56446971dfc22",
@@ -2001,11 +1999,11 @@
     "a92d7903bf19305dd32ad3921d36d19f",
     "7db6ffb67bed2107e2b1c84c9bcc32ce",
     "3db3050647d1f5e30b17065f64ce7333",
-    "a5cf3afab270ae69b5dd121b880d6de7"
+    "a5cf3afab270ae69b5dd121b880d6de7",
+    "095dffd149cfe444e8d2263ddf222edc",
+    "e590c75c801d988e3f5b153c39805200"
   ],
   "titles": [
-    "Arbeitsmarkt - Ifo-Institut: Fachkräftemangel nimmt weiter zu",
-    "Debatte um Sicherheitsgarantien - Russlands Außenminister Lawrow: Ausländische Truppen in der Ukraine inakzeptabel",
     "\"In die Sonne schauen\" - Mascha Schilinski soll Oscar für Deutschland holen",
     "Neuer Geschlechtseintrag: Kommt ein Neonazi ins Frauengefängnis",
     "Lohnfortzahlung: Krankheitskosten in Betrieben steigen auf 82 Milliarden Euro – IW-Forscher für Einschnitte",
@@ -3003,11 +3001,11 @@
     "Brasilien - Strafmaß für Ex-Präsident Bolsonaro erwartet",
     "Brasilien - Mehr als 27 Jahre Haft für Ex-Präsident Bolsonaro",
     "Ukraine - Russische Luftabwehr zerstört Drohnen im Anflug auf Städte",
-    "USA - Rückschlag für Planned Parenthood im Rechtsstreit mit Regierung"
+    "USA - Rückschlag für Planned Parenthood im Rechtsstreit mit Regierung",
+    "Nach Attentat auf Charlie Kirk - Trump will keine gewaltsamen Reaktionen",
+    "Mecklenburg-Vorpommern - Schwesig will als Ministerpräsidentin weitermachen"
   ],
   "hashes": [
-    "4623c8df01451bc91739668c48bf402f",
-    "16522c5da79b5a889445dc75ac558614",
     "b9b309416e76ea2cf86716deb46b26cf",
     "171ece4a02713951bb000c76f2051f24",
     "29578fc45b5338968e703eeb781fa187",
@@ -4005,6 +4003,8 @@
     "aa194ceacee798b64e8f1fbdee0f250c",
     "e4a38cda202e3beddcf50265cc800d4c",
     "6c3052093011080a0d205496e270ae71",
-    "e995aca617d2e3f77438da6f4c20e0bd"
+    "e995aca617d2e3f77438da6f4c20e0bd",
+    "fb5bc486695f1f34d24d5c621954ad41",
+    "d9b072d787367bffbd041ee945ce32d1"
   ]
 }
