@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-knuepft-waffenruhe-verhandlungen-an-freilassung-aller-geiseln-israelische-armee-rueckt-auf-102.html",
-    "https://www.deutschlandfunk.de/regisseurin-mascha-schilinski-geht-fuer-deutschland-ins-oscar-rennen-100.html",
     "https://www.deutschlandfunk.de/auch-kalifornien-schneidet-wahlkreise-neu-zu-reaktion-auf-texas-100.html",
     "https://www.deutschlandfunk.de/netanjahu-sofortige-aufnahme-von-verhandlungen-ueber-geiseln-und-ende-des-gaza-kriegs-102.html",
     "https://www.deutschlandfunk.de/regenbogen-zebrastreifen-zum-gedenken-an-anschlagsopfer-uebermalt-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/audi-chef-doellner-debatte-um-verbrenner-aus-kontraproduktiv-100.html",
     "https://www.aljazeera.com/news/2025/9/12/russia-ukraine-war-list-of-key-events-day-1296?traffic_source=rss",
     "https://www.deutschlandfunk.de/thueringens-fdp-landeschef-kemmerich-tritt-aus-der-partei-aus-haben-uns-auseinanderentwickelt-100.html",
-    "https://www.faz.net/agenturmeldungen/dpa/thomas-kemmerich-tritt-aus-fdp-aus-accg-110682390.html"
+    "https://www.faz.net/agenturmeldungen/dpa/thomas-kemmerich-tritt-aus-fdp-aus-accg-110682390.html",
+    "https://www.deutschlandfunk.de/finanzminister-klingbeil-verteidigt-sondervermoegen-fuer-laender-und-kommunen-102.html",
+    "https://www.deutschlandfunk.de/steinmeier-bekraeftigt-vorschlag-eines-sozialen-pflichtdienstes-100.html"
   ],
   "content_hashes": [
-    "c4e70063c48b474c4d82f30c15626b35",
-    "a6e4b9414560b13b167e8a2beafabfcf",
     "6c3eeb1ef27a6e3c3b40865de0fe352c",
     "4289ce5ced20dddf29b964cb308d4648",
     "fc091cbc512106f26192b5afb5759ddd",
@@ -2001,11 +1999,11 @@
     "a47d7dae6d981d44325a76c229ffdad7",
     "1a62fbb5716cf5d96943b741474e4c45",
     "fe7239c57ea56cbe6209200d97d99a82",
-    "80a3d677a947907a3fa166a336f3fa89"
+    "80a3d677a947907a3fa166a336f3fa89",
+    "ef66d7fa7f45497b3ee0f3d7b6af5688",
+    "c0ad1948d8231779ae614a6251a0804b"
   ],
   "titles": [
-    "Gaza-Krieg - Netanjahu knüpft Waffenruhe-Verhandlungen an Freilassung aller Geiseln - Israelische Armee rückt auf Gaza-Stadt vor",
-    "\"In die Sonne schauen\" - Regisseurin Mascha Schilinski geht für Deutschland ins Oscar-Rennen",
     "USA - Auch Kalifornien schneidet Wahlkreise neu zu - Reaktion auf Texas",
     "Israel - Netanjahu: Sofortige Aufnahme von Verhandlungen über Geiseln und Ende des Gaza-Kriegs",
     "US-Bundesstaat Florida - Regenbogen-Zebrastreifen zum Gedenken an Anschlagsopfer übermalt",
@@ -3003,11 +3001,11 @@
     "Autoindustrie - Audi-Chef Döllner: Debatte um Verbrenner-Aus \"kontraproduktiv\"",
     "Russia-Ukraine war: List of key events, day 1,296",
     "Liberale - Thüringens FDP-Landeschef Kemmerich tritt aus der Partei aus: \"Haben uns auseinanderentwickelt\"",
-    "Früherer Ministerpräsident: Thomas Kemmerich tritt aus FDP aus"
+    "Früherer Ministerpräsident: Thomas Kemmerich tritt aus FDP aus",
+    "Infrastruktur - Finanzminister Klingbeil verteidigt Sondervermögen für Länder und Kommunen",
+    "Gesellschaftliches Engagement - Steinmeier bekräftigt Vorschlag eines sozialen Pflichtdienstes"
   ],
   "hashes": [
-    "b3c187ac8098621f5dd336a61f055e48",
-    "42b592b5df61688fcb92a015edf5c6a0",
     "9a315d692ae60a481574d08222b0e39b",
     "60df014e0cf5352544aa102df21341cf",
     "a9ad79d526b0d0bad7131c1409060964",
@@ -4005,6 +4003,8 @@
     "9408805c20ae09ab4647f159a5afbb98",
     "6edcfb546eb307f47d4dfb4cd1fa9d6d",
     "083b4f0966fa5f1dcc6f0973ca49b7d6",
-    "b46283e9afa91d6a3069f0858a018602"
+    "b46283e9afa91d6a3069f0858a018602",
+    "e07a25598b843d45cba6ff76d99599ae",
+    "e276d4a8f87b913555eabae5a2f2891c"
   ]
 }
