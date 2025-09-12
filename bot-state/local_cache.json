@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fbi-durchsucht-haus-von-trumps-ex-sicherheitsberater-bolton-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-fordert-ministerien-zu-substanziellen-sparvorschlaegen-auf-100.html",
-    "https://www.spiegel.de/panorama/justiz/europa-park-mutmasslicher-missbrauch-eines-kindes-verdaechtiger-nach-deutschland-ausgeliefert-a-87799f5d-6f49-4bec-8173-a25c85f6b206#ref=rss",
-    "https://www.deutschlandfunk.de/naechste-woche-treffen-zwischen-iran-und-europaeischen-laendern-geplant-102.html",
     "https://www.deutschlandfunk.de/ex-verteidigungsminister-blaszczak-wegen-veroeffentlichung-geheimer-verteidigungsplaene-angeklagt-100.html",
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wie-der-aussenkanzler-seine-rolle-ausfuellt-110648189.html",
     "https://www.deutschlandfunk.de/haftbefehl-nach-toedlichen-schuessen-auf-polizisten-erlassen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/gouverneur-cox-kirk-attentat-war-angriff-auf-uns-alle-100.html",
     "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html",
     "https://www.deutschlandfunk.de/nato-reagiert-mit-militaeroperation-auf-russische-drohnen-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-kuendigt-neue-initiative-zum-schutz-der-ostflanke-an-faz-110683325.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-kuendigt-neue-initiative-zum-schutz-der-ostflanke-an-faz-110683325.html",
+    "https://www.deutschlandfunk.de/nato-kuendigt-staerkung-der-ostflanke-an-100.html",
+    "https://www.deutschlandfunk.de/generalbundesanwalt-rommel-unterstuetzt-forderung-nach-vorratsdatenspeicherung-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/oestliche-wache-nato-militaeroperation-beginnt-in-den-naechsten-tagen-110684016.html",
+    "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html"
   ],
   "content_hashes": [
-    "58542eb149b00103ff97b36ef91086ba",
-    "5e5712c8f8731067abaa4141172be270",
-    "e19e138acda500e33936ce7f00c2892d",
-    "9fd3b3e81e2485b34feef315ed6b5f63",
     "3bacd8493eb6cc4bae1d60a00509a2e4",
     "84a76ef7e5ee8d75c8d99e8f1c7645ff",
     "5cc939a09cad04d402ecb7feee7f841b",
@@ -2001,13 +1997,13 @@
     "2c92a0a370d0081c26a41ca7d853a258",
     "2c6b243d7a29cc35681d3ad130289f7b",
     "e2656b774af8c25c65f8d7397443d75d",
-    "e9b1533d0c6e0ebd19b1c16febdcb809"
+    "e9b1533d0c6e0ebd19b1c16febdcb809",
+    "62f096bac0d9a1d6fb6ed1f52c6d4f3f",
+    "c2c39256c4cf822f139a44e56ee80f12",
+    "e25f9c6fca761bbc59beaae3bd3c6105",
+    "cc249f12b257f7eaa18b04158264a214"
   ],
   "titles": [
-    "Maryland - FBI durchsucht Haus von Trumps Ex-Sicherheitsberater Bolton",
-    "Haushaltslücke - Klingbeil fordert Ministerien zu \"substanziellen\" Sparvorschlägen auf",
-    "Europa-Park: Mutmaßlicher Missbrauch eines Kindes – Verdächtiger nach Deutschland ausgeliefert",
-    "Atomstreit - Nächste Woche Treffen zwischen Iran und europäischen Ländern geplant",
     "Polen - Ex-Verteidigungsminister Blaszczak wegen Veröffentlichung geheimer Verteidigungspläne angeklagt",
     "Außenpolitik: Merz hat seine Rolle gefunden",
     "Völklingen - Haftbefehl nach tödlichen Schüssen auf Polizisten erlassen",
@@ -3003,13 +2999,13 @@
     "Utah - Gouverneur Cox: Kirk-Attentat war \"Angriff auf uns alle\"",
     "Abgewiesene Asylbewerber: Das Innenministerium zieht zurück",
     "Verteidigung - NATO reagiert mit Militäroperation auf russische Drohnen",
-    "Krieg in der Ukraine: NATO kündigt neue Initiative zum Schutz der Ostflanke an"
+    "Krieg in der Ukraine: NATO kündigt neue Initiative zum Schutz der Ostflanke an",
+    "Nach Drohnen-Vorfall - NATO kündigt Stärkung der Ostflanke an",
+    "Interview der Woche - Generalbundesanwalt Rommel unterstützt Forderung nach Vorratsdatenspeicherung",
+    "„Eastern Sentry“: Wie die NATO Lücken in der Überwachung ihres Luftraums schließen will",
+    "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln"
   ],
   "hashes": [
-    "1e2ea1828baf8e1c9f17b103d10831d6",
-    "df5fe20db0bfe47abda0612239e94eff",
-    "f1a23a9d40d8f2f671908563de18046a",
-    "a045ea3066ba52b931c8699f4e9475fe",
     "9fc97dbee4838d7dd7962de2f573dd06",
     "90a3fce2ac4559fa460f0a539fc4b2ce",
     "db22bdd29fcf92764cf6fe8639975031",
@@ -4005,6 +4001,10 @@
     "81d2a17bbae22f70817d1841f327dc45",
     "55837aacfc9b7b6a91465598928ebff3",
     "03a33c463846a743834e644a3dcabeb0",
-    "8bc761f7e3f981b0de82b638d30ddb27"
+    "8bc761f7e3f981b0de82b638d30ddb27",
+    "5dfb6a4963c20340f294c5f1bc4bda5d",
+    "57dd9a358cb3242bbeabeeb313ec9c48",
+    "e4ca8eabacefc87c231e2ec5fc7fff43",
+    "7bb22379bdfa7602278e4a512d91d6c5"
   ]
 }
