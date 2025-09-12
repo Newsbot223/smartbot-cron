@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wie-der-fruehere-neonazi-liebich-beim-selbstbestimmungsgesetz-provoziert-110647770.html",
-    "https://www.spiegel.de/wirtschaft/soziales/lohnfortzahlung-krankheitskosten-in-betrieben-steigen-auf-82-milliarden-euro-iw-forscher-fuer-einschnitte-a-fae76aec-6c83-4628-97d0-8a72e845661d#ref=rss",
     "https://www.deutschlandfunk.de/vier-verschiedene-giraffenarten-offiziell-anerkannt-102.html",
     "https://www.deutschlandfunk.de/afd-zieht-wegen-verdachtsfall-einstufung-vor-bundesverfassungsgericht-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-ukraine-vereinbaren-kulturfreundschaft-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rueckschlag-fuer-planned-parenthood-im-rechtsstreit-mit-regierung-100.html",
     "https://www.deutschlandfunk.de/trump-will-keine-gewaltsamen-reaktionen-102.html",
     "https://www.deutschlandfunk.de/schwesig-will-als-ministerpraesidentin-weitermachen-102.html",
-    "https://www.deutschlandfunk.de/weiterer-prozess-gegen-oppositionspolitiker-imamoglu-100.html"
+    "https://www.deutschlandfunk.de/weiterer-prozess-gegen-oppositionspolitiker-imamoglu-100.html",
+    "https://www.deutschlandfunk.de/bundestag-beraet-ueber-nutzung-des-sondervermoegens-102.html",
+    "https://www.deutschlandfunk.de/uno-sicherheitsrat-verurteilt-israelische-angriffe-auf-hamas-anfuehrer-in-katar-110.html"
   ],
   "content_hashes": [
-    "3f33b72e557f046f511c5535aa999ffa",
-    "74b2828afaad6e851ad56446971dfc22",
     "4040edd87a744349a702c2d108f3ca83",
     "9493b82e8d7869dde594a4070a118194",
     "fe8c1e6d192138ebf38b40a51380cc75",
@@ -2001,11 +1999,11 @@
     "a5cf3afab270ae69b5dd121b880d6de7",
     "095dffd149cfe444e8d2263ddf222edc",
     "e590c75c801d988e3f5b153c39805200",
-    "d7cfee5f8c81f8338a52a771e8dfc67f"
+    "d7cfee5f8c81f8338a52a771e8dfc67f",
+    "024e288c52b8ae8416a7a8c7d0c07d2a",
+    "15dd1100a669a8f6fadbb043c210f31b"
   ],
   "titles": [
-    "Neuer Geschlechtseintrag: Kommt ein Neonazi ins Frauengefängnis",
-    "Lohnfortzahlung: Krankheitskosten in Betrieben steigen auf 82 Milliarden Euro – IW-Forscher für Einschnitte",
     "Nach langer Forschung - Vier verschiedene Giraffenarten offiziell anerkannt",
     "Rechtsstreit - AfD zieht wegen Verdachtsfall-Einstufung vor Bundesverfassungsgericht",
     "Kooperation - Deutschland und Ukraine vereinbaren \"Kulturfreundschaft\"",
@@ -3003,11 +3001,11 @@
     "USA - Rückschlag für Planned Parenthood im Rechtsstreit mit Regierung",
     "Nach Attentat auf Charlie Kirk - Trump will keine gewaltsamen Reaktionen",
     "Mecklenburg-Vorpommern - Schwesig will als Ministerpräsidentin weitermachen",
-    "Türkei - Weiterer Prozess gegen Oppositionspolitiker Imamoglu."
+    "Türkei - Weiterer Prozess gegen Oppositionspolitiker Imamoglu.",
+    "Infrastruktur - Bundestag berät über Nutzung des Sondervermögens",
+    "Sitzung in New York - UNO-Sicherheitsrat verurteilt israelische Angriffe auf Hamas-Anführer in Katar"
   ],
   "hashes": [
-    "171ece4a02713951bb000c76f2051f24",
-    "29578fc45b5338968e703eeb781fa187",
     "8b7fab41b63760ea21499182c099b60c",
     "be947631e76f2d46bbe213f105f96754",
     "ff06ee2468a6e5580b8cac030bf95886",
@@ -4005,6 +4003,8 @@
     "e995aca617d2e3f77438da6f4c20e0bd",
     "fb5bc486695f1f34d24d5c621954ad41",
     "d9b072d787367bffbd041ee945ce32d1",
-    "222df0127f334c11602afa70d67fbe54"
+    "222df0127f334c11602afa70d67fbe54",
+    "7fb843eaed4235bd831178c6fd932755",
+    "d8fcb4b601fd90d3b855b47863dc4f42"
   ]
 }
