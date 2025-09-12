@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-meldet-eroberung-von-drei-doerfern-in-der-ostukraine-ukraine-attackiert-pumpstation-der-dru-100.html",
-    "https://www.deutschlandfunk.de/ex-praesident-wickremesinghe-wegen-veruntreuung-verhaftet-100.html",
     "https://www.deutschlandfunk.de/was-die-deutsche-wirtschaft-zum-wachstum-braucht-100.html",
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-trifft-ukrainischen-praesidenten-selenskyj-in-kiew-102.html",
     "https://www.deutschlandfunk.de/fbi-durchsucht-haus-von-trumps-ex-sicherheitsberater-bolton-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/streit-ueber-teilnahme-israelischer-kuenstler-an-grossveranstaltungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeswehr-ermittelt-gegen-panzergrenadiere-wegen-aufnahmeritual-110683290.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-einsatz-der-nationalgarde-in-memphis-an-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/urteil-gegen-bolsonaro-welch-ein-kontrast-zu-den-usa-110683470.html"
+    "https://www.faz.net/aktuell/politik/ausland/urteil-gegen-bolsonaro-welch-ein-kontrast-zu-den-usa-110683470.html",
+    "https://www.deutschlandfunk.de/gouverneur-cox-kirk-attentat-war-angriff-auf-uns-alle-100.html",
+    "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html"
   ],
   "content_hashes": [
-    "4ec015e51355edebdd45089aa3fa6236",
-    "0fba04d6395bc825c13e26d54546e340",
     "e406ddbd9a81051e6b1b20b3cb6f2a6a",
     "6b62b042747df015c731f4e00005b618",
     "58542eb149b00103ff97b36ef91086ba",
@@ -2001,11 +1999,11 @@
     "df804a44b47aefcc5211eaffafa45ccf",
     "82210ea5409585b892862ca08d3d87c4",
     "496562e530a5a9a17c11a6f06c5657cd",
-    "bd547a6b6f1fdf80bf19e7ee7029f28f"
+    "bd547a6b6f1fdf80bf19e7ee7029f28f",
+    "2c92a0a370d0081c26a41ca7d853a258",
+    "2c6b243d7a29cc35681d3ad130289f7b"
   ],
   "titles": [
-    "Ukrainekrieg - Russland meldet Eroberung von drei Dörfern in der Ostukraine - Ukraine attackiert Pumpstation der Druschba-Pipeline",
-    "Sri-Lanka - Ex-Präsident Wickremesinghe wegen Veruntreuung verhaftet",
     "Lage der Wirtschaft - Hüther: \"Zehn anstrengende Jahre\" liegen vor Deutschland",
     "Ukraine-Krieg - NATO-Generalsekretär Rutte trifft ukrainischen Präsidenten Selenskyj in Kiew",
     "Maryland - FBI durchsucht Haus von Trumps Ex-Sicherheitsberater Bolton",
@@ -3003,11 +3001,11 @@
     "Kultur - Streit über Teilnahme israelischer Künstler an Großveranstaltungen",
     "Wegen Aufnahmeritual: Bundeswehr ermittelt gegen Panzergrenadiere",
     "USA - Trump kündigt Einsatz der Nationalgarde in Memphis an",
-    "Justiz in Brasilien: Welch ein Kontrast zu den USA"
+    "Justiz in Brasilien: Welch ein Kontrast zu den USA",
+    "Utah - Gouverneur Cox: Kirk-Attentat war \"Angriff auf uns alle\"",
+    "Abgewiesene Asylbewerber: Das Innenministerium zieht zurück"
   ],
   "hashes": [
-    "7aef93c06499d6f596ca909ec0852c9f",
-    "0d30b776a4f1fdf8347f7f92a3a8b2c5",
     "f02841f8a124fe438405ffcdf759afc2",
     "5f34b7081596c2f6f7a945f1bad1ce94",
     "1e2ea1828baf8e1c9f17b103d10831d6",
@@ -4005,6 +4003,8 @@
     "da26c27be224512b9b6eea994a52dac4",
     "356054a4d961e47c1d60c17eb39048ad",
     "f289537589b53178c5aa6448214dc2da",
-    "4e3fc3820c1c24402be643cd984ddc6e"
+    "4e3fc3820c1c24402be643cd984ddc6e",
+    "81d2a17bbae22f70817d1841f327dc45",
+    "55837aacfc9b7b6a91465598928ebff3"
   ]
 }
