@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ex-verteidigungsminister-blaszczak-wegen-veroeffentlichung-geheimer-verteidigungsplaene-angeklagt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wie-der-aussenkanzler-seine-rolle-ausfuellt-110648189.html",
     "https://www.deutschlandfunk.de/haftbefehl-nach-toedlichen-schuessen-auf-polizisten-erlassen-100.html",
     "https://www.deutschlandfunk.de/thyssenkrupp-stahlchef-schlaegt-wegen-billigimporten-alarm-100.html",
     "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sparappell-so-will-klingbeil-die-milliardenluecke-im-haushalt-angehen-110650301.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nato-kuendigt-staerkung-der-ostflanke-an-100.html",
     "https://www.deutschlandfunk.de/generalbundesanwalt-rommel-unterstuetzt-forderung-nach-vorratsdatenspeicherung-100.html",
     "https://www.faz.net/aktuell/politik/ausland/oestliche-wache-nato-militaeroperation-beginnt-in-den-naechsten-tagen-110684016.html",
-    "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html"
+    "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html",
+    "https://www.deutschlandfunk.de/fruehere-oberste-richterin-ist-neue-regierungschefin-102.html",
+    "https://www.faz.net/aktuell/politik/ukraine/drohnenangriff-auf-polen-die-nato-muesste-putin-dankbar-sein-110683707.html"
   ],
   "content_hashes": [
-    "3bacd8493eb6cc4bae1d60a00509a2e4",
-    "84a76ef7e5ee8d75c8d99e8f1c7645ff",
     "5cc939a09cad04d402ecb7feee7f841b",
     "033c1841e2ed09640e7ddeb580d85883",
     "6ab4b91f991312c4122db378e4c4c027",
@@ -2001,11 +1999,11 @@
     "62f096bac0d9a1d6fb6ed1f52c6d4f3f",
     "c2c39256c4cf822f139a44e56ee80f12",
     "e25f9c6fca761bbc59beaae3bd3c6105",
-    "cc249f12b257f7eaa18b04158264a214"
+    "cc249f12b257f7eaa18b04158264a214",
+    "74537916375006369435701618ca9818",
+    "7d7f3aec0dfec9cb37b0e41152e1c388"
   ],
   "titles": [
-    "Polen - Ex-Verteidigungsminister Blaszczak wegen Veröffentlichung geheimer Verteidigungspläne angeklagt",
-    "Außenpolitik: Merz hat seine Rolle gefunden",
     "Völklingen - Haftbefehl nach tödlichen Schüssen auf Polizisten erlassen",
     "Außenhandel - Thyssenkrupp-Stahlchef schlägt wegen Billigimporten Alarm",
     "Hohe Renten- und Zinsausgaben: Wie Klingbeil die 172-Milliarden-Lücke schließen will",
@@ -3003,11 +3001,11 @@
     "Nach Drohnen-Vorfall - NATO kündigt Stärkung der Ostflanke an",
     "Interview der Woche - Generalbundesanwalt Rommel unterstützt Forderung nach Vorratsdatenspeicherung",
     "„Eastern Sentry“: Wie die NATO Lücken in der Überwachung ihres Luftraums schließen will",
-    "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln"
+    "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln",
+    "Nepal - Frühere Oberste Richterin ist neue Regierungschefin",
+    "Russlands Drohnenkrieg: Die NATO müsste Putin dankbar sein"
   ],
   "hashes": [
-    "9fc97dbee4838d7dd7962de2f573dd06",
-    "90a3fce2ac4559fa460f0a539fc4b2ce",
     "db22bdd29fcf92764cf6fe8639975031",
     "bbd83f63f94496bf09d44be5ebbcc036",
     "1ddae43997160fc38363b37c0f73ed2e",
@@ -4005,6 +4003,8 @@
     "5dfb6a4963c20340f294c5f1bc4bda5d",
     "57dd9a358cb3242bbeabeeb313ec9c48",
     "e4ca8eabacefc87c231e2ec5fc7fff43",
-    "7bb22379bdfa7602278e4a512d91d6c5"
+    "7bb22379bdfa7602278e4a512d91d6c5",
+    "c708f423e40417b11e622528fdb99e23",
+    "77824125652aa43da6aef7028f7ab679"
   ]
 }
