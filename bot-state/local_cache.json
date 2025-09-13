@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/an-deutschen-schulen-wird-spanisch-als-fremdsprache-beliebter-franzoesisch-faellt-weiter-zurueck-102.html",
-    "https://www.faz.net/aktuell/politik/inland/nach-haseloff-wie-sven-schulze-sachsen-anhalt-vor-der-afd-retten-will-110649964.html",
     "https://www.deutschlandfunk.de/mitglied-des-untersuchungsausschusses-schrumpf-sicherheitsbehoerden-waren-ueberfordert-100.html",
     "https://www.faz.net/aktuell/politik/ausland/energiepolitik-taiwan-stimmt-ueber-atomkraft-wiedereinstieg-ab-110649950.html",
     "https://www.deutschlandfunk.de/deutsch-israelische-gesellschaft-hamas-fuer-hungersnot-verantwortlich-uno-vorsatz-israels-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/frankreichs-bonitaet-herabgestuft-kritik-von-ex-premier-bayrou-100.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-fuer-russland-sanktionen-wenn-uebrige-nato-staaten-mitziehen-100.html",
     "https://www.deutschlandfunk.de/zehntausende-bei-demonstration-gegen-einwanderung-in-london-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-100-000-bei-demonstration-gegen-einwanderung-in-london-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-100-000-bei-demonstration-gegen-einwanderung-in-london-100.html",
+    "https://www.deutschlandfunk.de/brand-in-stellwerk-verspaetungen-auf-der-bahnstrecke-hannover-berlin-100.html",
+    "https://www.deutschlandfunk.de/attentat-auf-charlie-kirk-mutmasslicher-taeter-in-untersuchungshaft-witwe-will-bewegung-fortfuehren-100.html"
   ],
   "content_hashes": [
-    "74a68795ee040c1245fa2f7ee00e3194",
-    "530d9293078f5732a2f4ccc1bb6ac511",
     "a7f3b08e900d3d617401ab3a460af0fd",
     "c0e3d283a7e905041923c1ed8e1993e4",
     "7eb0d3335a89a531c41682ae319ecb7a",
@@ -2001,11 +1999,11 @@
     "2f3264a3e4494e0cbf2807d7a72c03f8",
     "c409eefb6de92126fd4986776e3fac00",
     "c18e06d7e0a2c32f2d50c703ea43a2b6",
-    "af943f257550eb13eeafe288ae7bf11a"
+    "af943f257550eb13eeafe288ae7bf11a",
+    "c3aed674ef3da2dafe83a72400ed46a6",
+    "972c97e149c0136a8c695a37fe4e809c"
   ],
   "titles": [
-    "Statistisches Bundesamt - An deutschen Schulen wird Spanisch als Fremdsprache beliebter, Französisch fällt weiter zurück",
-    "Schulzes Pläne nach Haseloff: „Jeder weiß, worum es hier geht“",
     "Ein Jahr nach Anschlag in Solingen - Mitglied des Untersuchungsausschusses Schrumpf: Sicherheitsbehörden waren überfordert",
     "Energiepolitik in Taiwan: Atomkraft, ja doch?",
     "Gazastreifen - Deutsch-israelische Gesellschaft: Hamas für Hungersnot verantwortlich - UNO: Vorsatz Israels",
@@ -3003,11 +3001,11 @@
     "Kreditwürdigkeit - Frankreichs Bonität herabgestuft: Kritik von Ex-Premier Bayrou",
     "Ukraine-Krieg - US-Präsident Trump für Russland-Sanktionen, wenn übrige NATO-Staaten mitziehen",
     "Großbritannien - Zehntausende bei Demonstration gegen Einwanderung in London",
-    "Großbritannien - Mehr als 100.000 bei Demonstration gegen Einwanderung in London"
+    "Großbritannien - Mehr als 100.000 bei Demonstration gegen Einwanderung in London",
+    "Zugverkehr - Brand in Stellwerk: Verspätungen auf der Bahnstrecke Hannover-Berlin",
+    "USA - Attentat auf Charlie Kirk: Mutmaßlicher Täter in Untersuchungshaft - Witwe will Bewegung fortführen"
   ],
   "hashes": [
-    "2e598d1cf1177be6c77888000ff2de4e",
-    "fc8663546e87da9d2f22c87aae886036",
     "7759806062a90d2ff707a52327134a0a",
     "35731b1e9c02c7eaf0de51bd2095c736",
     "a7d2cbeba8725612e810b1c123d7d331",
@@ -4005,6 +4003,8 @@
     "fa0ab6ce4fbd546c36ac352fa6bb76f9",
     "9e3de431a24428e3dbe5be8a082d0620",
     "da9d1324004597c019817f461f4b3322",
-    "a61f9dde044918368f45c962da84ce54"
+    "a61f9dde044918368f45c962da84ce54",
+    "5e1cbdc0395e1195ca32bfa5b8bf75eb",
+    "bb46b94a44d95de4a8e7029650df7d56"
   ]
 }
