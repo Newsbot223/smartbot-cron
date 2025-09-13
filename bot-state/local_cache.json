@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/was-friedrich-merz-von-helmut-kohl-und-angela-merkel-lernen-kann-110649640.html",
-    "https://www.deutschlandfunk.de/ukraine-meldet-erneut-russische-luftangriffe-102.html",
     "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-per-eilentscheid-nun-doch-erlaubt-100.html",
     "https://www.deutschlandfunk.de/boersenverein-fordert-kulturpass-fuer-junge-erwachsene-beizubehalten-102.html",
     "https://www.deutschlandfunk.de/staatsschutz-ermittelt-nach-gleisbrand-bei-wuppertal-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/tausende-nehmen-an-demo-gegen-gazakrieg-in-berlin-teil-accg-110684415.html",
     "https://www.deutschlandfunk.de/israelische-armee-hunderttausende-menschen-haben-stadt-gaza-verlassen-100.html",
     "https://www.deutschlandfunk.de/ueber-100-000-bei-demonstration-gegen-einwanderung-in-london-100.html",
-    "https://www.deutschlandfunk.de/ukraine-greift-eine-der-groessten-russischen-erdoelraffinerien-an-polen-und-rumaenien-in-alarmbereit-100.html"
+    "https://www.deutschlandfunk.de/ukraine-greift-eine-der-groessten-russischen-erdoelraffinerien-an-polen-und-rumaenien-in-alarmbereit-100.html",
+    "https://www.deutschlandfunk.de/venezuela-wirft-us-marine-vor-grundlos-ein-fischerboot-aufgebracht-zu-haben-100.html",
+    "https://www.deutschlandfunk.de/25-verletzte-bei-explosion-in-wohn-und-geschaeftshaus-in-madrid-100.html"
   ],
   "content_hashes": [
-    "397d3794ff58b30b17719183b465287d",
-    "5180e041e3dbd11552d02756b2054086",
     "6f6da74e222aab2d105c8ecb908001bb",
     "cd4e2f226c3b29def617536cf0910bcd",
     "b2b47eeee73db983a98634b650bbe7bd",
@@ -2001,11 +1999,11 @@
     "3ee035c7624770ed4a1c155d8c26a593",
     "fd0fb8ce9445570e4a32873b9d387231",
     "2fed142a2657ef797979b3dfac57868f",
-    "7dbb63100766a7e38191121118cf0c92"
+    "7dbb63100766a7e38191121118cf0c92",
+    "b730e5b6b17d131bf3b6b2fae8ffdb4f",
+    "80f9749f6d3c65abf241dbdba143e054"
   ],
   "titles": [
-    "Der Kanzler und seine Partei: Was Merz von Merkel und Kohl lernen kann",
-    "Ukraine-Krieg - Ukraine meldet erneut russische Luftangriffe",
     "Berlin - Umbenennung der Mohrenstraße per Eilentscheid nun doch erlaubt",
     "Geplante Abschaffung - Börsenverein fordert, Kulturpass für junge Erwachsene beizubehalten",
     "Bahnverkehr - Staatsschutz ermittelt nach Gleisbrand bei Wuppertal",
@@ -3003,11 +3001,11 @@
     "Kundgebung gegen den Gazakrieg: „Denen da oben“ die rote Karte zeigen",
     "Nahost - Israelische Armee: Hunderttausende Menschen haben Stadt Gaza verlassen",
     "Großbritannien - Über 100.000 bei Demonstration gegen Einwanderung in London",
-    "Krieg - Ukraine greift eine der größten russischen Erdölraffinerien an - Polen und Rumänien in Alarmbereitschaft wegen Drohnen"
+    "Krieg - Ukraine greift eine der größten russischen Erdölraffinerien an - Polen und Rumänien in Alarmbereitschaft wegen Drohnen",
+    "Karibik - Venezuela wirft US-Marine vor, grundlos ein Fischerboot aufgebracht zu haben",
+    "Spanien - 25 Verletzte bei Explosion in Wohn- und Geschäftshaus in Madrid"
   ],
   "hashes": [
-    "77ca48f967ddd55b84f3684a85d12a80",
-    "cd2a104452f16c5468c1ad4296eaeea6",
     "6e857d3d36d4cda027a6ceba6703a03f",
     "b470a08a15fad0c314f43462219b7877",
     "b364bdc200ef6f0cb942eb3a69581f2e",
@@ -4005,6 +4003,8 @@
     "6b7bc65a4539b6736a0744692c290900",
     "2d14435dd37de5243517b0836ff94197",
     "49c903855bf8c25699cb198614712af2",
-    "f902ca6374f19eca871e1aa0d82a04bd"
+    "f902ca6374f19eca871e1aa0d82a04bd",
+    "7c743305f77d14b9a18f88fbb3a3d9db",
+    "99d2bbc9636c566bb34bcd5ab58ecfa5"
   ]
 }
