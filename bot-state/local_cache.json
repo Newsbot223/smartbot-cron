@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-signalisieren-gespraechsbereitschaft-fuer-eine-erneute-wahlrechtsreform-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-bekraeftigt-bereitschaft-zu-afd-verbotsverfahren-und-kritisiert-bundestagspraesidentin-klo-100.html",
     "https://www.deutschlandfunk.de/trump-droht-nun-auch-chicago-100.html",
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-bei-selenskyj-in-kiew-robuste-sicherheitsgarantien-notwendig-100.html",
     "https://www.deutschlandfunk.de/mitglied-des-untersuchungsausschusses-schrumpf-cdu-sicherheitsbehoerden-waren-ueberfordert-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erneut-oppositionspolitiker-festgenommen-darunter-istanbuler-bezirksbuergermeister-von-der-chp-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/europa-muss-sich-auf-russlands-raketen-vorbereiten-110683311.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-haetten-ukraine-frueher-und-mehr-unterstuetzen-muessen-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-mehr-als-250-000-menschen-haben-stadt-gaza-verlassen-100.html"
+    "https://www.deutschlandfunk.de/israelische-armee-mehr-als-250-000-menschen-haben-stadt-gaza-verlassen-100.html",
+    "https://www.deutschlandfunk.de/kritik-von-frankreichs-ex-premier-bayrou-100.html",
+    "https://www.deutschlandfunk.de/ist-schreibschrift-noch-sinnvoll-102.html"
   ],
   "content_hashes": [
-    "256cb7d6359cec95d0284fc33a6320a0",
-    "4afe86da71a7d3cbacd4eb1ed88967d8",
     "e6bc3a99ab2b00c5ba1ba814a40479db",
     "6beba00dee703578dc8435bd6c33d740",
     "2bb31f2789e353f773cd6e86e0d319f1",
@@ -2001,11 +1999,11 @@
     "202df9b58abfd559a78de107a9b9ef2f",
     "ce518dc0e84a4146c620dd7e4a88c5fe",
     "665a7b7da2fdb9ea23cdb82828b3b370",
-    "d9f833a361d7c9f00672a378a8e4c999"
+    "d9f833a361d7c9f00672a378a8e4c999",
+    "1ef528f644f00a38c893cd9e11a5eac7",
+    "b6c24d84ac982623c4107bc94e7c662f"
   ],
   "titles": [
-    "Bundestag - Grüne signalisieren Gesprächsbereitschaft für eine erneute Wahlrechtsreform",
-    "Vizekanzler - Klingbeil bekräftigt Bereitschaft zu AfD-Verbotsverfahren und kritisiert Bundestagspräsidentin Klöckner",
     "USA - Trump droht nun auch Chicago",
     "Ukraine-Krieg - NATO-Generalsekretär Rutte bei Selenskyj in Kiew: Robuste Sicherheitsgarantien notwendig",
     "Ein Jahr nach Terroranschlag in Solingen - Mitglied des Untersuchungsausschusses, Schrumpf (CDU): Sicherheitsbehörden waren überfordert",
@@ -3003,11 +3001,11 @@
     "Türkei - Erneut Oppositionspolitiker festgenommen, darunter Istanbuler Bezirksbürgermeister von der CHP",
     "Bedrohung durch Drohnen: Bevor Putin auf das Kanzleramt zielt",
     "Russischer Angriffskrieg - EU-Außenbeauftragte Kallas: Hätten Ukraine früher und mehr unterstützen müssen",
-    "Nahost - Israelische Armee: Mehr als 250.000 Menschen haben Stadt Gaza verlassen"
+    "Nahost - Israelische Armee: Mehr als 250.000 Menschen haben Stadt Gaza verlassen",
+    "Bonität herabgestuft - Kritik von Frankreichs Ex-Premier Bayrou",
+    "Test an Grundschulen - Ist Schreibschrift noch sinnvoll?"
   ],
   "hashes": [
-    "df71fd17889ce685d08701c4d620f321",
-    "a6cb8b25850ca19773effca4a2470739",
     "d9f328ca9ef8144d414c2f1f70b41b35",
     "4d6bf77f880ab63d96eb46344106e8b8",
     "a75b6e89655d40848f8a20619ec2755c",
@@ -4005,6 +4003,8 @@
     "3457f205bb15e48a67b426f0df07cacd",
     "00bd5b5f6b62e6b6d26c730709408d15",
     "5e86b876db69b775adfb1291a440ccfd",
-    "4bc3f40586effe4d53a2043ef93736df"
+    "4bc3f40586effe4d53a2043ef93736df",
+    "289ec38d6134ca7c3d2abe220e30f1d1",
+    "d1c6189b56052b1d9b7963fa256de5fb"
   ]
 }
