@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/the-take-2/2025/8/22/why-are-sudanese-refugees-returning-home-despite-the-civil-war?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/andreas-kuehne-wer-ist-der-neue-ksk-kommandeur-110650147.html",
-    "https://www.faz.net/aktuell/politik/ukraine/trumps-kriegstipps-fuer-die-ukraine-woran-selenskyj-trump-erinnern-koennte-110650594.html",
     "https://www.deutschlandfunk.de/aussenminister-veldkamp-tritt-in-streit-um-israel-sanktionen-zurueck-102.html",
     "https://www.faz.net/aktuell/politik/inland/rezession-in-deutschland-ein-abbild-der-jammereikultur-110650504.html",
     "https://www.deutschlandfunk.de/union-fuer-reform-des-selbstbestimmungsgesetzes-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wahl-der-drei-neuen-verfassungsrichter-am-25-september-100.html",
     "https://www.deutschlandfunk.de/uno-vollversammlung-befuerwortet-zweistaatenloesung-zwischen-israel-und-palaestinensern-100.html",
     "https://www.deutschlandfunk.de/ratingagentur-fitch-stuft-frankreichs-kreditwuerdigkeit-auf-a-herab-100.html",
-    "https://www.deutschlandfunk.de/alarmierende-verletzung-des-luftraums-usa-bekennen-sich-im-uno-sicherheitsrat-zur-nato-russland-weis-100.html"
+    "https://www.deutschlandfunk.de/alarmierende-verletzung-des-luftraums-usa-bekennen-sich-im-uno-sicherheitsrat-zur-nato-russland-weis-100.html",
+    "https://www.deutschlandfunk.de/evp-chef-weber-stellt-abkehr-von-verbrenner-verbot-in-der-eu-in-aussicht-102.html",
+    "https://www.deutschlandfunk.de/leichtathletik-wm-hat-begonnen-102.html",
+    "https://www.faz.net/aktuell/politik/inland/evp-chef-weber-verspricht-abkehr-von-verbrenner-aus-accg-110684114.html"
   ],
   "content_hashes": [
-    "6d7b34826d9af380bc4a1e5f417b5cde",
-    "1d38ae768d588d48a0be221ef3d70e5e",
-    "3ade512bee2907e84c343471e9ecc067",
     "5312401081660a5d635f22acd059bdcb",
     "ff77304a87e190a2ddd621f7d4547a36",
     "b35c04c9150509fb9956d24a196b1bc6",
@@ -2001,12 +1998,12 @@
     "65b840947d2243e1e62bbbd04fd66186",
     "0daff2ae383af57f0b9f048f2a5a2ce4",
     "472b2467c796f115dd3a9e150fb71345",
-    "dd1d3149bd036a4f50c2116711b3e03d"
+    "dd1d3149bd036a4f50c2116711b3e03d",
+    "532ff29bdd80f3e36417f6b080662993",
+    "67ff5160dddbdcd24d15aa20f27af573",
+    "010001a23b1c48ce4dc484bd5ed5cc50"
   ],
   "titles": [
-    "Why are Sudanese refugees returning home despite the civil war?",
-    "Neuer KSK-Kommandeur: Robuster Offizier mit Auslandserfahrung",
-    "Trumps Kriegstipps: Woran Selenskyj Trump erinnern könnte",
     "Niederlande - Außenminister Veldkamp tritt in Streit um Israel-Sanktionen zurück",
     "Deutschlands Rezession: Ein Abbild der Jammereikultur",
     "Fall Liebich - Union für Reform des Selbstbestimmungsgesetzes",
@@ -3003,12 +3000,12 @@
     "Bundestag - Wahl der drei neuen Verfassungsrichter am 25. September",
     "New York - UNO-Vollversammlung befürwortet Zweistaatenlösung zwischen Israel und Palästinensern",
     "Bonität - Ratingagentur Fitch stuft Frankreichs Kreditwürdigkeit auf \"A+\" herab",
-    "Drohnenvorfall in Polen - \"Alarmierende Verletzung des Luftraums\" - USA bekennen sich im UNO-Sicherheitsrat zur NATO, Russland weist Vorwürfe erneut zurück"
+    "Drohnenvorfall in Polen - \"Alarmierende Verletzung des Luftraums\" - USA bekennen sich im UNO-Sicherheitsrat zur NATO, Russland weist Vorwürfe erneut zurück",
+    "\"Dafür kämpfen wir schon lange\" - EVP-Chef Weber stellt Abkehr von Verbrenner-Verbot in der EU in Aussicht",
+    "Tokio - Leichtathletik-WM hat begonnen",
+    "Automobil: EVP-Chef Weber verspricht die Abkehr von Verbrenner-Aus"
   ],
   "hashes": [
-    "5a7661eea58d79b53238ebb6f4b4ef8c",
-    "934c30c5520f47c5547e4cb887ebd56f",
-    "5b6b081be85d6c3480eaf77f46db08b5",
     "7a7a44669761b603430ca7a03b9b6759",
     "9a8178cbe0c962c71344279a74fe1b72",
     "0f836397e0afe90a6e579d27bf0f202d",
@@ -4005,6 +4002,9 @@
     "8f325b5dd99b4dfa82d010368e589255",
     "ffc3aae5417f7f24c67a9c49ee006617",
     "a07d6c5b59a4bf8ddea0f989c824ec98",
-    "d18973417d8a2f696cec0739f1729efb"
+    "d18973417d8a2f696cec0739f1729efb",
+    "185f1d243d351181f9308195cc43d4a5",
+    "05ee5cf6b13734ff0b85d2371d45913d",
+    "024e7d02f7a1e917606a9c863dec31b4"
   ]
 }
