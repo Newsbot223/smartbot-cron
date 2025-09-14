@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/institut-der-deutschen-wirtschaft-deutlich-weniger-patentanmeldungen-durch-privatleute-100.html",
-    "https://www.deutschlandfunk.de/syriens-regierung-verschiebt-auswahl-prozess-fuer-uebergangsparlament-in-drusen-und-kurdengebieten-100.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-will-selbstbestimmungsgesetz-wegen-rechtsextremistin-liebich-anpassen-100.html",
-    "https://www.deutschlandfunk.de/linke-fordert-flaechendeckende-lernmittelfreiheit-100.html",
     "https://www.deutschlandfunk.de/israels-armee-beschiesst-wieder-vororte-von-gaza-stadt-100.html",
     "https://www.deutschlandfunk.de/selenskyj-gratuliert-landsleuten-zum-tag-der-unabhaengigkeit-von-der-sowjetunion-us-sondergesandter--100.html",
     "https://www.deutschlandfunk.de/us-regierung-will-irrtuemlich-abgeschobenen-migranten-nun-nach-uganda-bringen-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/wirtschaft/arbeitsmarkt-in-deutschland-leiharbeiter-erhalten-ab-januar-mehr-lohn-a-f868b05c-6c9e-4f51-a654-c50fb720ae8f#ref=rss",
     "https://www.deutschlandfunk.de/weitspringerin-malaika-mihambo-gewinnt-silber-100.html",
     "https://www.deutschlandfunk.de/roettgen-fordert-nato-beschaffungsprogramm-fuer-abwehrdrohnen-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-patrone-110682812.html"
+    "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-patrone-110682812.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-bestaetigt-gespraeche-mit-taliban-ueber-abschiebungen-nach-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/veranstalter-automesse-iaa-endet-mit-besucherzuwachs-100.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/reaktionen-auf-kirks-ermordung-nie-zu-rechtfertigen-110685091.html",
+    "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-chance-110682812.html"
   ],
   "content_hashes": [
-    "74a49ce56017e3b55e64ace2ca52eee1",
-    "58f0c8a7d1e8c0ecf5fc8bf907245cb1",
-    "06a2e68c30134fdea15ff0ec570e69d4",
-    "f9cd442b39a8d4a9998f41158384c3fe",
     "c49eaf25908a62111d03b64d6f08eb5c",
     "8c71ad50369bb0d2d01075bc1ac27244",
     "71b67ecb13d2d6c8cf6073cf01288d1c",
@@ -2001,13 +1997,13 @@
     "066d06773bb3d0ce33661835cbb3e320",
     "dc9bfa6a8a62d8a1aac65520d0c49a25",
     "7b4443004a6f01b3514c192ba4cd23d0",
-    "33753789a5d69f074ad3c9019894cd4a"
+    "33753789a5d69f074ad3c9019894cd4a",
+    "5f09491cd73d72ccdeb370d1ccba47c6",
+    "33f7621c1405b0882b378823beb9b8f7",
+    "e516c12f1f275a1f09e520437f7331e0",
+    "5c479557e7457df800091742e4c9ce6b"
   ],
   "titles": [
-    "Medienbericht - Institut der deutschen Wirtschaft: deutlich weniger Patentanmeldungen durch Privatleute",
-    "Wahlkommission - Syriens Regierung verschiebt Auswahl-Prozess für Übergangsparlament in Drusen- und Kurdengebieten",
-    "Geschlechtswechsel - Bundesinnenminister Dobrindt will Selbstbestimmungsgesetz wegen Rechtsextremistin Liebich anpassen",
-    "Kostenlose Schulbücher - Linke fordert flächendeckende Lernmittelfreiheit",
     "Nahost-Krieg - Israels Armee beschießt wieder Vororte von Gaza-Stadt",
     "Ukraine-Krieg - Selenskyj gratuliert Landsleuten zum Tag der Unabhängigkeit von der Sowjetunion - US-Sondergesandter Kellog in Kiew",
     "Migrationspolitik - US-Regierung will irrtümlich abgeschobenen Migranten nun nach Uganda bringen",
@@ -3003,13 +2999,13 @@
     "Arbeitsmarkt in Deutschland: Leiharbeiter erhalten ab Januar mehr Lohn",
     "Leichtathletik-WM - Weitspringerin Malaika Mihambo gewinnt Silber",
     "Konflikt mit Russland - Röttgen fordert NATO-Beschaffungsprogramm für Abwehrdrohnen",
-    "Frankreichs neuer Premier: Macrons letzte Patrone"
+    "Frankreichs neuer Premier: Macrons letzte Patrone",
+    "Nach Medienbericht - Bundesinnenminister Dobrindt bestätigt Gespräche mit Taliban über Abschiebungen nach Afghanistan",
+    "München - Veranstalter: Automesse IAA endet mit Besucherzuwachs",
+    "Reaktionen auf Kirks Tod: Wer Gewalt relativiert, richtet sich selbst",
+    "Frankreichs neuer Premier: Macrons letzte Chance"
   ],
   "hashes": [
-    "eb2269c87c90c6f1cd998129bb8ee618",
-    "8db65db6bd1e5948dc90a586346f4138",
-    "0879e441aee08f791482435447144a0a",
-    "509c56aba6191431448286b4a180f4f4",
     "bf44acbe733e1a7985ca3a4245f95390",
     "bd9140aeae05e31799de6ac7c8036b5c",
     "5ce18328d124e4e1318dc1f314e312ff",
@@ -4005,6 +4001,10 @@
     "ddf7a43afad11cd38d52d0823fad9299",
     "a90310aabcacf1622a2a60e03cf3e125",
     "a47807e473f31600aa1522f9d5388769",
-    "041dd9b338036ff00cafeff95e28f869"
+    "041dd9b338036ff00cafeff95e28f869",
+    "37d9a4b89344deef5bcef5eaf46ab197",
+    "82544515cb5ea2ffcd1cdfa690e5f2a9",
+    "8afcd7baa3520b716ef5fc25d4aada17",
+    "36e4044c59b3f38bac22be05d44202c4"
   ]
 }
