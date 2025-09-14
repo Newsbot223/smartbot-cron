@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umbenennung-der-mohrenstrasse-abgeschlossen-102.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-es-der-spd-bewusst-nicht-leicht-machen-a-2cbe03d8-04f6-4211-9656-b7da77f1ec14#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/spd-in-rheinland-pfalz-gregory-scholz-wird-generalsekretaer-110651716.html",
     "https://www.deutschlandfunk.de/merz-sozialstaat-von-heute-nicht-mehr-finanzierbar-100.html",
     "https://www.deutschlandfunk.de/dobrindt-verteidigt-kurs-bei-aufnahme-von-afghanen-100.html",
     "https://www.deutschlandfunk.de/kommentar-zu-asien-pazifik-auch-fuer-die-deutsche-aussenpolitik-endlich-relevant-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-reist-nach-israel-100.html",
     "https://www.deutschlandfunk.de/russland-provoziert-erneut-mit-drohnen-alarm-in-polen-und-rumaenien-102.html",
     "https://www.deutschlandfunk.de/weiter-verspaetungen-auf-bahnstrecke-hannover-berlin-102.html",
-    "https://www.deutschlandfunk.de/mehrere-tausend-beschaeftige-seit-mehr-als-sechs-wochen-im-streik-bei-groesstem-aluminium-konzern-im-100.html"
+    "https://www.deutschlandfunk.de/mehrere-tausend-beschaeftige-seit-mehr-als-sechs-wochen-im-streik-bei-groesstem-aluminium-konzern-im-100.html",
+    "https://www.deutschlandfunk.de/rund-13-7-millionen-menschen-zu-kommunalwahl-in-nordrhein-westfalen-aufgerufen-100.html",
+    "https://www.deutschlandfunk.de/6-000-historische-orte-fuer-besucher-geoeffnet-102.html",
+    "https://www.faz.net/aktuell/politik/inland/so-werden-buergermeisterkandidaten-der-afd-gestrichen-accg-110682422.html"
   ],
   "content_hashes": [
-    "44607314a1d9d1047c19133347b13b1a",
-    "37c9eb195c56558dbb4b257928f9ed11",
-    "1d932c8b360a84afdaa50f28454be24b",
     "e23fc1fffc4cf73033e4b18ec1f8d092",
     "003c0a6d31c3efa336fe660a605c86d6",
     "c8a2c17fe3b9cc093428d902d3873530",
@@ -2001,12 +1998,12 @@
     "63bb7df14d18560229e853a23f5b1802",
     "93b27fa7aa6d763171dbb8a14dd580c2",
     "2b621e68d1058ed6135c949283222b71",
-    "83869c568e3389ffa5c698a859f02f5d"
+    "83869c568e3389ffa5c698a859f02f5d",
+    "02762a3740b9798a6a4b4462444a961e",
+    "fabe0b1b519a8c90c982f51490b1dcbd",
+    "654fe2c437b41841fe1199fbba72d3f1"
   ],
   "titles": [
-    "Berlin - Umbenennung der Mohrenstraße abgeschlossen",
-    "Friedrich Merz will es der SPD »bewusst nicht leicht« machen",
-    "SPD in Rheinland-Pfalz: Mit neuem Generalsekretär in die Landtagswahl",
     "Regierungskoalition - Merz: \"Sozialstaat von heute nicht mehr finanzierbar\"",
     "Berlin - Dobrindt verteidigt Kurs bei Aufnahme von Afghanen",
     "Wadephuls Asienreise - Kommentar: Asien ist endlich relevant für Deutschland",
@@ -3003,12 +3000,12 @@
     "Nahostkonflikt - US-Außenminister Rubio reist nach Israel",
     "Luftraumverletzungen - Russland provoziert erneut mit Drohnen - Alarm in Polen und Rumänien",
     "Deutsche Bahn - Weiter Verspätungen auf Bahnstrecke Hannover-Berlin",
-    "Fabrik in Arak - Mehrere tausend Beschäftige seit mehr als sechs Wochen im Streik bei größtem Aluminium-Konzern im Iran"
+    "Fabrik in Arak - Mehrere tausend Beschäftige seit mehr als sechs Wochen im Streik bei größtem Aluminium-Konzern im Iran",
+    "Bundespolitische Bedeutung - Rund 13,7 Millionen Menschen zu Kommunalwahl in Nordrhein-Westfalen aufgerufen",
+    "Tag des offenen Denkmals - 6.000 historische Orte für Besucher geöffnet",
+    "Bürgermeisterwahlen in NRW: So werden AfD-Kandidaten ausgeschlossen – oder auch nicht"
   ],
   "hashes": [
-    "a1710d6cf4f45838f6a60596830e1d3c",
-    "e742cb52dd06148d5e03963ccc57ba42",
-    "c5c95556d2496f5b46fd690ab40d7294",
     "536103fae529f246a0d2bd766d9d2c58",
     "183488c5e2ae3899bbc56f99b969d755",
     "c4e3406337f560ead5038c984f1e9f26",
@@ -4005,6 +4002,9 @@
     "6eebdcb7c322004384ae6e4314b40b8c",
     "4189357a79b36c008acf3a05b2a43edb",
     "d939a0ebd9fc1970a9a390066d44f917",
-    "8f4252fcbabb81d9d79be785e3ed037c"
+    "8f4252fcbabb81d9d79be785e3ed037c",
+    "4b606f698412d6e27b207965030a089e",
+    "e3f275a0019b0a65cbc5e93f1c730231",
+    "6585ee6265d5919482f85cf4029d3ef8"
   ]
 }
