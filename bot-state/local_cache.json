@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-21-menetekel-mit-ansage-110639764.html",
-    "https://www.faz.net/aktuell/politik/inland/lechner-kritisiert-lies-und-lobt-merz-als-friedenskanzler-110652653.html",
     "https://www.faz.net/aktuell/politik/inland/merz-klingbeil-die-lage-der-koalition-luft-nach-oben-110652675.html",
     "https://www.deutschlandfunk.de/pentagon-plant-nationalgarde-einsatz-in-chicago-offenbar-schon-fuer-september-kritik-der-demokraten-100.html",
     "https://www.faz.net/aktuell/politik/inland/frauen-vor-gewalttaetern-schuetzen-fussfesseln-sind-nur-ein-baustein-110652633.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-bietet-nato-unterstuetzung-bei-der-abwehr-russischer-drohnen-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/die-afd-auch-im-westen-der-stichwahl-schreck-110685456.html",
     "https://www.deutschlandfunk.de/medienberichte-sinan-selen-wird-neuer-verfassungsschutzpraesident-100.html",
-    "https://www.deutschlandfunk.de/sondergipfel-zur-lage-in-israel-beginnt-in-doha-102.html"
+    "https://www.deutschlandfunk.de/sondergipfel-zur-lage-in-israel-beginnt-in-doha-102.html",
+    "https://www.deutschlandfunk.de/cdu-und-spd-wollen-sich-in-stichwahlen-gegen-afd-kandidaten-gegenseitig-helfen-100.html",
+    "https://www.deutschlandfunk.de/parteispitzen-analysieren-kommunalwahl-ergebnisse-aus-nordrhein-westfalen-100.html"
   ],
   "content_hashes": [
-    "47eb131f782550f326260f4d575908c9",
-    "75033f9e8ba59912d81f2e9c8e5d54d5",
     "a129127eb709069b502cdf6d96c56389",
     "79a760b7c4be6ece09c0c635058f75b3",
     "937d3033af2af7c0e699798ba0904374",
@@ -2001,11 +1999,11 @@
     "6ba992f6c8b9c156217031ca74673741",
     "2dd458af59148907f1c80a2379f450b3",
     "25113b046342f7332902f2f3a80b9158",
-    "2d1f63154287feac6e02440b0e8a6109"
+    "2d1f63154287feac6e02440b0e8a6109",
+    "2578a248318f4168d30b76a0daadf73f",
+    "989c9fdd5e76b2bc7cabd5d5be9bc4d5"
   ],
   "titles": [
-    "Stuttgart 21: Was die Protestbewegung schon damals hätte verraten können",
-    "Niedersachsen-CDU: Lechner attackiert Lies und lobt Merz als Friedenskanzler",
     "Lage der Koalition: Luft nach oben",
     "USA - Pentagon plant Nationalgarde-Einsatz in Chicago offenbar schon für September - Kritik der Demokraten",
     "Hubigs Gesetzentwurf: Fußfesseln können nur ein Baustein sein",
@@ -3003,11 +3001,11 @@
     "Ukraine - Selenskyj bietet NATO Unterstützung bei der Abwehr russischer Drohnen an",
     "Kommunalwahl in NRW: Parteien im Herbst der Demokratie",
     "Personalie - Medienberichte: Sinan Selen wird neuer Verfassungsschutzpräsident",
-    "Nahost - Sondergipfel zur Lage in Israel beginnt in Doha"
+    "Nahost - Sondergipfel zur Lage in Israel beginnt in Doha",
+    "Kommunalwahlen in NRW - CDU und SPD wollen sich in Stichwahlen gegen AfD-Kandidaten gegenseitig helfen",
+    "NRW - Parteispitzen analysieren Kommunalwahl-Ergebnisse aus Nordrhein-Westfalen"
   ],
   "hashes": [
-    "cb6f427a3e3b9dcc47f6123ed64fe30b",
-    "df473a52d5bd1dfa1e36387373a1b17e",
     "3f90a5aa3d7558ccbfd5555802e6e537",
     "58017f2b6bdd9a422020d2630feb361e",
     "384fd739b4f85ff03c1b1e5d6889d20f",
@@ -4005,6 +4003,8 @@
     "bb601f837c1929b5f8021cf690a56245",
     "3624575e8c71610ca4cb54364e0de0cf",
     "9c0ebd1cb42fc977c0ff037765cca818",
-    "deb57b8f23c3ad62f87683a1bdeba04c"
+    "deb57b8f23c3ad62f87683a1bdeba04c",
+    "3b577e33e6c3678b2a7c0afe448156b0",
+    "c983e71799f9643b472913ae6c1a58a4"
   ]
 }
