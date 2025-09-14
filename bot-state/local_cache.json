@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/boersenverein-fordert-kulturpass-fuer-junge-erwachsene-beizubehalten-102.html",
-    "https://www.deutschlandfunk.de/staatsschutz-ermittelt-nach-gleisbrand-bei-wuppertal-100.html",
-    "https://www.faz.net/aktuell/politik/inland/brand-in-wuppertal-ermittler-gehen-von-anschlag-auf-gleis-aus-110651456.html",
     "https://www.faz.net/aktuell/politik/inland/umstrittenes-ampel-wahlrecht-auch-gruenen-politiker-offen-fuer-reform-110650372.html",
     "https://www.deutschlandfunk.de/erstmals-oeffentliche-abstimmung-zum-tier-des-jahres-gestartet-102.html",
     "https://www.deutschlandfunk.de/gedenken-an-drei-todesopfer-in-solingen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ukraine-greift-eine-der-groessten-russischen-erdoelraffinerien-an-polen-und-rumaenien-in-alarmbereit-100.html",
     "https://www.deutschlandfunk.de/venezuela-wirft-us-marine-vor-grundlos-ein-fischerboot-aufgebracht-zu-haben-100.html",
     "https://www.deutschlandfunk.de/25-verletzte-bei-explosion-in-wohn-und-geschaeftshaus-in-madrid-100.html",
-    "https://www.deutschlandfunk.de/rund-13-7-millionen-menschen-zu-kommunalwahl-in-nordrhein-westfalen-aufgerufen-abschneiden-der-afd-i-100.html"
+    "https://www.deutschlandfunk.de/rund-13-7-millionen-menschen-zu-kommunalwahl-in-nordrhein-westfalen-aufgerufen-abschneiden-der-afd-i-100.html",
+    "https://www.deutschlandfunk.de/ukraine-benoetigt-mindestens-120-milliarden-euro-fuer-verteidigung-102.html",
+    "https://www.deutschlandfunk.de/rund-6-000-historische-bauwerke-stehen-besuchern-heute-offen-102.html",
+    "https://www.deutschlandfunk.de/us-richterin-wirft-trump-regierung-gesetzesbruch-bei-abschiebungen-vor-102.html"
   ],
   "content_hashes": [
-    "cd4e2f226c3b29def617536cf0910bcd",
-    "b2b47eeee73db983a98634b650bbe7bd",
-    "be4a619c46fb90689358691cb03a0614",
     "4a1ffd6b63428200ab161857dd3260ce",
     "9a29614196867a02c69b4d6a7f5789b1",
     "7ab1a6a4d53c3954ed769b1aee4e86bd",
@@ -2001,12 +1998,12 @@
     "7dbb63100766a7e38191121118cf0c92",
     "b730e5b6b17d131bf3b6b2fae8ffdb4f",
     "80f9749f6d3c65abf241dbdba143e054",
-    "62428d691866e39b7aa9ba854c04b444"
+    "62428d691866e39b7aa9ba854c04b444",
+    "db473bc322f66d1f6fca2bd57aee3654",
+    "417a9fccfe09c0d8a402e34c0afdb745",
+    "ba482bda71a53effa7fd258ebca4068b"
   ],
   "titles": [
-    "Geplante Abschaffung - Börsenverein fordert, Kulturpass für junge Erwachsene beizubehalten",
-    "Bahnverkehr - Staatsschutz ermittelt nach Gleisbrand bei Wuppertal",
-    "Brand in Wuppertal: Ermittler gehen von Anschlag auf Gleis aus",
     "Neue Debatte über Wahlrecht: „Es muss gelten, dass die Mehrheit wieder zählt“",
     "Goldschakal, Rothirsch oder Hermelin - Erstmals öffentliche Abstimmung zum \"Tier des Jahres\" gestartet",
     "Ein Jahr nach Anschlag - Gedenken an drei Todesopfer in Solingen",
@@ -3003,12 +3000,12 @@
     "Krieg - Ukraine greift eine der größten russischen Erdölraffinerien an - Polen und Rumänien in Alarmbereitschaft wegen Drohnen",
     "Karibik - Venezuela wirft US-Marine vor, grundlos ein Fischerboot aufgebracht zu haben",
     "Spanien - 25 Verletzte bei Explosion in Wohn- und Geschäftshaus in Madrid",
-    "Bundespolitische Bedeutung - Rund 13,7 Millionen Menschen zu Kommunalwahl in Nordrhein-Westfalen aufgerufen - Abschneiden der AfD im Ruhrgebiet im Fokus"
+    "Bundespolitische Bedeutung - Rund 13,7 Millionen Menschen zu Kommunalwahl in Nordrhein-Westfalen aufgerufen - Abschneiden der AfD im Ruhrgebiet im Fokus",
+    "Russischer Angriffskrieg - Ukraine benötigt mindestens 120 Milliarden Euro für Verteidigung",
+    "Tag des Denkmals - Rund 6.000 historische Bauwerke stehen Besuchern heute offen",
+    "Migrationspolitik - US-Richterin wirft Trump-Regierung Gesetzesbruch bei Abschiebungen vor"
   ],
   "hashes": [
-    "b470a08a15fad0c314f43462219b7877",
-    "b364bdc200ef6f0cb942eb3a69581f2e",
-    "c40f0e7331a6f9d624ce83b12014be35",
     "873c87d8f9bc6190195c261c04a7e76a",
     "489dd7c72fc33f3c537ef7ab5addb319",
     "0c240c973839a044b503da74a2181c27",
@@ -4005,6 +4002,9 @@
     "f902ca6374f19eca871e1aa0d82a04bd",
     "7c743305f77d14b9a18f88fbb3a3d9db",
     "99d2bbc9636c566bb34bcd5ab58ecfa5",
-    "1eb77df15873eb17abc6bacba875acfe"
+    "1eb77df15873eb17abc6bacba875acfe",
+    "9ad94a2c3aed71efe7118fc4db0a16da",
+    "e3d8ad5fb5f81d9fb45f687f2b307c6b",
+    "418642f93050ff72139f4333e225a786"
   ]
 }
