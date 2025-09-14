@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/luftwaffe-in-nigeria-toetet-dschihadisten-und-befreit-geiseln-102.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgart-21-menetekel-mit-ansage-110639764.html",
     "https://www.faz.net/aktuell/politik/inland/lechner-kritisiert-lies-und-lobt-merz-als-friedenskanzler-110652653.html",
     "https://www.faz.net/aktuell/politik/inland/merz-klingbeil-die-lage-der-koalition-luft-nach-oben-110652675.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/abschiebung-von-straftaetern-gespraeche-zu-regelmaessigen-rueckfuehrungen-nach-afghanistan-accg-110685417.html",
     "https://www.deutschlandfunk.de/selenskyj-bietet-nato-unterstuetzung-bei-der-abwehr-russischer-drohnen-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/die-afd-auch-im-westen-der-stichwahl-schreck-110685456.html",
-    "https://www.deutschlandfunk.de/medienberichte-sinan-selen-wird-neuer-verfassungsschutzpraesident-100.html"
+    "https://www.deutschlandfunk.de/medienberichte-sinan-selen-wird-neuer-verfassungsschutzpraesident-100.html",
+    "https://www.deutschlandfunk.de/sondergipfel-zur-lage-in-israel-beginnt-in-doha-102.html"
   ],
   "content_hashes": [
-    "1d67182e359c59c76bde4e1c01cb951b",
     "47eb131f782550f326260f4d575908c9",
     "75033f9e8ba59912d81f2e9c8e5d54d5",
     "a129127eb709069b502cdf6d96c56389",
@@ -2001,10 +2000,10 @@
     "1027d82741009ae7d27294d0bdcdc4e8",
     "6ba992f6c8b9c156217031ca74673741",
     "2dd458af59148907f1c80a2379f450b3",
-    "25113b046342f7332902f2f3a80b9158"
+    "25113b046342f7332902f2f3a80b9158",
+    "2d1f63154287feac6e02440b0e8a6109"
   ],
   "titles": [
-    "Kampf gegen Terrorgruppen - Luftwaffe in Nigeria tötet Dschihadisten und befreit Geiseln",
     "Stuttgart 21: Was die Protestbewegung schon damals hätte verraten können",
     "Niedersachsen-CDU: Lechner attackiert Lies und lobt Merz als Friedenskanzler",
     "Lage der Koalition: Luft nach oben",
@@ -3003,10 +3002,10 @@
     "Abschiebung von Straftätern: Gespräche zu regelmäßigen Rückführungen nach Afghanistan",
     "Ukraine - Selenskyj bietet NATO Unterstützung bei der Abwehr russischer Drohnen an",
     "Kommunalwahl in NRW: Parteien im Herbst der Demokratie",
-    "Personalie - Medienberichte: Sinan Selen wird neuer Verfassungsschutzpräsident"
+    "Personalie - Medienberichte: Sinan Selen wird neuer Verfassungsschutzpräsident",
+    "Nahost - Sondergipfel zur Lage in Israel beginnt in Doha"
   ],
   "hashes": [
-    "e4337392d881740f1d1397ff2ea5a0ae",
     "cb6f427a3e3b9dcc47f6123ed64fe30b",
     "df473a52d5bd1dfa1e36387373a1b17e",
     "3f90a5aa3d7558ccbfd5555802e6e537",
@@ -4005,6 +4004,7 @@
     "68b75b4b326a5997566a8633e80a4ebd",
     "bb601f837c1929b5f8021cf690a56245",
     "3624575e8c71610ca4cb54364e0de0cf",
-    "9c0ebd1cb42fc977c0ff037765cca818"
+    "9c0ebd1cb42fc977c0ff037765cca818",
+    "deb57b8f23c3ad62f87683a1bdeba04c"
   ]
 }
