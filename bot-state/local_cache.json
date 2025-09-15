@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unionsspitze-beraet-ueber-herbst-der-reformen-100.html",
-    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-in-kiew-eingetroffen-auch-gespraeche-ueber-sicherheitsgarantien-geplant-100.html",
     "https://www.deutschlandfunk.de/unionsspitze-kommt-zu-beratungen-zusammen-100.html",
     "https://www.deutschlandfunk.de/demokraten-sprechen-trump-befugnis-fuer-truppeneinsatz-in-chicago-ab-102.html",
     "https://www.deutschlandfunk.de/zentralrat-der-juden-spricht-von-bedrohlicher-stimmung-gegenueber-israel-verteidigern-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sondergipfel-beginnt-in-doha-aufruf-zu-haerterem-vorgehen-gegen-israel-102.html",
     "https://www.deutschlandfunk.de/the-studio-bricht-mit-13-emmy-auszeichnung-rekord-102.html",
     "https://www.deutschlandfunk.de/sondergipfel-in-doha-aufruf-zu-haerterem-vorgehen-gegen-israel-100.html",
-    "https://www.spiegel.de/ausland/polen-fordert-reparationszahlungen-und-deutschland-bietet-sicherheitsgarantien-a-d306b6f9-d69c-4211-a2c2-b28a0a1137dd#ref=rss"
+    "https://www.spiegel.de/ausland/polen-fordert-reparationszahlungen-und-deutschland-bietet-sicherheitsgarantien-a-d306b6f9-d69c-4211-a2c2-b28a0a1137dd#ref=rss",
+    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-cdu-schlaegt-sicherheitsgarantien-statt-reparationen-vor-102.html",
+    "https://www.deutschlandfunk.de/selenskyj-truppen-ruecken-in-region-sumy-vor-102.html"
   ],
   "content_hashes": [
-    "aab60ae02209495888660ecc24b6d2b1",
-    "49c1c3e856342730d36db7bc5cc52ae6",
     "30133b50d368bbca981a26d7540ddc63",
     "a7308c79ed78f4f6acefe0d64d633b9c",
     "1663fd937f2a135f767b2523b63a827a",
@@ -2001,11 +1999,11 @@
     "07e4ad90c1292c5d9fb15de0fe24ed2a",
     "c31e0052dc7c183475c464a28996d536",
     "5e1b4ef1cf70622285e6e46c4122c7bf",
-    "7bf892c6fefceb2dcf9b7cc7cf725baa"
+    "7bf892c6fefceb2dcf9b7cc7cf725baa",
+    "593a6f38e69fc7ae4aa9a798751aa0e3",
+    "707a64c835cee6459663d61860c53772"
   ],
   "titles": [
-    "Bundesregierung - Unionsspitze berät über \"Herbst der Reformen\"",
-    "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) in Kiew eingetroffen - auch Gespräche über Sicherheitsgarantien geplant",
     "\"Herbst der Reformen\" - Unionsspitze kommt zu Beratungen zusammen",
     "USA - Demokraten sprechen Trump Befugnis für Truppeneinsatz in Chicago ab",
     "Antisemitismus - Zentralrat der Juden spricht von bedrohlicher Stimmung gegenüber Israel-Verteidigern",
@@ -3003,11 +3001,11 @@
     "Nach Angriff in Katar - Sondergipfel beginnt in Doha - Aufruf zu härterem Vorgehen gegen Israel",
     "Preisverleihung in Los Angeles - \"The Studio\" bricht mit 13. Emmy-Auszeichnung Rekord",
     "Nach Angriff in Katar - Sondergipfel in Doha - Aufruf zu härterem Vorgehen gegen Israel",
-    "Polen fordert Reparationszahlungen – und Deutschland bietet Sicherheitsgarantien"
+    "Polen fordert Reparationszahlungen – und Deutschland bietet Sicherheitsgarantien",
+    "Bundesregierung - Polen-Beauftragter Abraham (CDU) schlägt Sicherheitsgarantien statt Reparationen vor",
+    "Krieg in der Ukraine - Selenskyj: Truppen rücken in Region Sumy vor"
   ],
   "hashes": [
-    "7a6cae1612e06946718a54705e509073",
-    "8fc9c99d6e97932b622633bf9259d113",
     "b8c82abc6c7984083e23480869dfd71f",
     "ebb62864d7e6a7ac046523f2d6a43201",
     "c4380845e691265c0eec40cf6b0dd102",
@@ -4005,6 +4003,8 @@
     "a2a18f12f8629abd171703ae30f91553",
     "6341049a0af2ae71d3fd993fc78dc0cd",
     "a5935ace3fdbc17d92c6ddfb0d5a636c",
-    "521e006b7214c513d8ab68f2c009b20b"
+    "521e006b7214c513d8ab68f2c009b20b",
+    "7f786088e3cda224d9da3adfe8d853ea",
+    "8e0d2e945f4104ab5044fb8e4f9951b7"
   ]
 }
