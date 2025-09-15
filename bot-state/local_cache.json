@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/frauen-vor-gewalttaetern-schuetzen-fussfesseln-sind-nur-ein-baustein-110652633.html",
-    "https://www.deutschlandfunk.de/pentagon-plant-nationalgarde-einsatz-in-chicago-offenbar-schon-fuer-september-demokraten-beklagen-ko-106.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-nach-kroatien-100.html",
     "https://www.deutschlandfunk.de/linnemann-zieht-kritische-bilanz-100.html",
     "https://www.deutschlandfunk.de/handwerksverband-sieht-bei-vielen-mitgliedern-wut-ueber-regierung-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-und-spd-wollen-sich-in-stichwahlen-gegen-afd-kandidaten-gegenseitig-helfen-100.html",
     "https://www.deutschlandfunk.de/parteispitzen-analysieren-kommunalwahl-ergebnisse-aus-nordrhein-westfalen-100.html",
     "https://www.deutschlandfunk.de/noch-bis-zum-nachmittag-stoerungen-im-bahnverkehr-zwischen-hannover-und-berlin-100.html",
-    "https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-amanal-petros-holt-sensationell-silber-im-marathon-a-d9cef032-09ec-47ba-aaeb-4585d88fe6a1#ref=rss"
+    "https://www.spiegel.de/sport/leichtathletik-wm-in-tokio-amanal-petros-holt-sensationell-silber-im-marathon-a-d9cef032-09ec-47ba-aaeb-4585d88fe6a1#ref=rss",
+    "https://www.deutschlandfunk.de/parteispitzen-analysieren-wahlergebnisse-aus-nordrhein-westfalen-104.html",
+    "https://www.deutschlandfunk.de/sondergipfel-beginnt-in-doha-aufruf-zu-haerterem-vorgehen-gegen-israel-102.html"
   ],
   "content_hashes": [
-    "937d3033af2af7c0e699798ba0904374",
-    "5ee1665e865cc2d2d30c04853aea4cef",
     "282afbda7ce5f6cb55d0d542fd44b676",
     "ea491182f951e70626a34ba13f476620",
     "aceabd8d6e72883e1f24e359ffb3c5f3",
@@ -2001,11 +1999,11 @@
     "2578a248318f4168d30b76a0daadf73f",
     "989c9fdd5e76b2bc7cabd5d5be9bc4d5",
     "c5fd7feec73a478ecb1f3c8741c1cdb8",
-    "975271530a93cc2086c22a5d4c794b87"
+    "975271530a93cc2086c22a5d4c794b87",
+    "2858bfbbb0ab011547f3e075922b9667",
+    "07e4ad90c1292c5d9fb15de0fe24ed2a"
   ],
   "titles": [
-    "Hubigs Gesetzentwurf: Fußfesseln können nur ein Baustein sein",
-    "USA - Pentagon plant Nationalgarde-Einsatz in Chicago offenbar schon für September - Demokraten beklagen Kompetenzüberschreitung",
     "Antrittsbesuch - Außenminister Wadephul reist nach Kroatien",
     "Zehn Jahre nach \"Wir schaffen das\" - Linnemann zieht kritische Bilanz",
     "Wirtschaft - Handwerksverband sieht bei vielen Mitgliedern \"Wut\" über Regierung",
@@ -3003,11 +3001,11 @@
     "Kommunalwahlen in NRW - CDU und SPD wollen sich in Stichwahlen gegen AfD-Kandidaten gegenseitig helfen",
     "NRW - Parteispitzen analysieren Kommunalwahl-Ergebnisse aus Nordrhein-Westfalen",
     "Brand an Stellwerk - Noch bis zum Nachmittag Störungen im Bahnverkehr zwischen Hannover und Berlin",
-    "Leichtathletik-WM in Tokio: Amanal Petros holt sensationell Silber im Marathon"
+    "Leichtathletik-WM in Tokio: Amanal Petros holt sensationell Silber im Marathon",
+    "Kommunalwahl - Parteispitzen analysieren Wahlergebnisse aus Nordrhein-Westfalen",
+    "Nach Angriff in Katar - Sondergipfel beginnt in Doha - Aufruf zu härterem Vorgehen gegen Israel"
   ],
   "hashes": [
-    "384fd739b4f85ff03c1b1e5d6889d20f",
-    "25ba89dfda0968bdda70f759c079bc4b",
     "a3629a1e001768cb9792edf00ef02069",
     "b5e70f49525dfad89ac4887aca3357d1",
     "1790a83568761842e9d8e1563ea8c052",
@@ -4005,6 +4003,8 @@
     "3b577e33e6c3678b2a7c0afe448156b0",
     "c983e71799f9643b472913ae6c1a58a4",
     "9ac3fb6e43ad7804742552b27ebb3d89",
-    "6d73295f3118aa21a6aacff25616086e"
+    "6d73295f3118aa21a6aacff25616086e",
+    "6d7f5d9eb7609d74e8fab442c863e723",
+    "a2a18f12f8629abd171703ae30f91553"
   ]
 }
