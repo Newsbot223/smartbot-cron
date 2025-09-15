@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/urteil-afd-kandidat-paul-bleibt-von-oberbuergermeisterwahl-in-ludwigshafen-ausgeschlossen-100.html",
-    "https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerium-plant-fussfesseln-gegen-haeusliche-gewalt-a-b0b9006c-f355-4f5b-b87d-ea02398e75d4#ref=rss",
-    "https://www.deutschlandfunk.de/us-regierung-nimmt-unrechtmaessig-abgeschobenen-migranten-abrego-garcia-erneut-fest-100.html",
     "https://www.deutschlandfunk.de/porsche-bestaetigt-ende-von-geplanter-batterie-produktion-100.html",
     "https://www.faz.net/aktuell/politik/inland/robert-habeck-zieht-sich-aus-der-politik-zurueck-fast-ohne-groll-110654064.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-kasernen-besser-vor-drohnen-schuetzen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/vizepraesident-sinan-selen-rueckt-an-spitze-des-verfassungsschutzes-100.html",
     "https://www.deutschlandfunk.de/ex-bnd-chef-kahl-tritt-amt-als-deutscher-botschafter-bei-papst-leo-xiv-an-100.html",
     "https://www.deutschlandfunk.de/wir-sind-athen-und-sparta-israels-premier-netanjahu-bereitet-sein-land-auf-eine-zunehmende-internati-100.html",
-    "https://www.deutschlandfunk.de/us-armee-greift-erneut-angebliches-schmugglerboot-in-karibik-an-100.html"
+    "https://www.deutschlandfunk.de/us-armee-greift-erneut-angebliches-schmugglerboot-in-karibik-an-100.html",
+    "https://www.deutschlandfunk.de/bundestag-beginnt-heute-abschlussberatungen-ueber-etat-fuer-laufendes-jahr-100.html",
+    "https://www.deutschlandfunk.de/polens-praesident-nawrocki-reist-heute-zu-antrittsbesuch-nach-berlin-100.html",
+    "https://www.deutschlandfunk.de/innenminister-dobrindt-bestaetigt-spitzenbeamten-sinan-selen-als-kuenftigen-chef-des-bundesverfassun-100.html"
   ],
   "content_hashes": [
-    "704c71af78b04298192f4456ad2d4d5b",
-    "53aba9e0d8296778fbce73219c284723",
-    "6f83a5c4cc811a26d90055942d4b3cb6",
     "aef772f15ceaa22aa73e414b6503702d",
     "844faa02e494bc94456778bb800463f6",
     "7d1676fa594b4e83bd0ddf1be3debe7a",
@@ -2001,12 +1998,12 @@
     "7391085d6f3ca78d5a050b69db8488c7",
     "e41d009c58908e56fa15abbc4ca62058",
     "347c7ceb9d3e76c4314c4f7707f69e48",
-    "7d77c69461e52225e6c0613c7a8e12c4"
+    "7d77c69461e52225e6c0613c7a8e12c4",
+    "1975b817c5110ab23f9c99326c4ef768",
+    "0a49291d0e2bcc6d1b4f0966265e5ff4",
+    "22f41ec0c3a11745a5b093aa911d48b3"
   ],
   "titles": [
-    "Rheinland-Pfalz - Urteil: AfD-Kandidat Paul bleibt von Oberbürgermeisterwahl in Ludwigshafen ausgeschlossen",
-    "Gewalt gegen Frauen: Bundesjustizministerium plant Fußfesseln gegen häusliche Gewalt",
-    "Migrationspolitik - US-Regierung nimmt unrechtmäßig abgeschobenen Migranten Abrego Garcia erneut fest",
     "E-Autos - Porsche bestätigt Ende von geplanter Batterie-Produktion",
     "Rückzug aus dem Bundestag: Habecks Abrechnung mit den eigenen Illusionen",
     "Sicherheit - Bundesregierung will Kasernen besser vor Drohnen schützen",
@@ -3003,12 +3000,12 @@
     "Geheimdienst - Vizepräsident Sinan Selen rückt an Spitze des Verfassungsschutzes",
     "Vatikan - Ex-BND-Chef Kahl tritt Amt als deutscher Botschafter bei Papst Leo XIV. an",
     "Gazakrieg - \"Wir sind Athen und Sparta\" - Israels Premier Netanjahu bereitet sein Land auf eine zunehmende internationale Isolation vor",
-    "Drogen - US-Armee greift erneut angebliches Schmugglerboot in Karibik an"
+    "Drogen - US-Armee greift erneut angebliches Schmugglerboot in Karibik an",
+    "Finanzpolitik - Bundestag beginnt heute Abschlussberatungen über Etat für laufendes Jahr",
+    "Diplomatie - Polens Präsident Nawrocki reist heute zu Antrittsbesuch nach Berlin",
+    "Geheimdienst - Innenminister Dobrindt bestätigt Spitzenbeamten Sinan Selen als künftigen Chef des Bundesverfassungsschutzes"
   ],
   "hashes": [
-    "40f881feb7854e88986f5003d2bd5300",
-    "447583b130868018a42be5076de83206",
-    "cd50c2c2495be07607f67aae112242d4",
     "5298a0d39ad1e80eb082a1b13205cf2a",
     "c4cbd1206321095541df510c61f2e57f",
     "c6902fae85b171397d31810aa53830ec",
@@ -4005,6 +4002,9 @@
     "ad74f8a6d0ac2a370a62487d29a1139b",
     "3686c0fce78910fef4a6af275b177adb",
     "3e8b125fb16702e64b95ab3940f92a21",
-    "ca1554ca11a26850fd775f1a84029c64"
+    "ca1554ca11a26850fd775f1a84029c64",
+    "2133b285dc6484af33b622891caeb366",
+    "cc8ca5ba37aaff542f6996aae3b2e374",
+    "c114fbbc86d7d80f8b5053f304f1409f"
   ]
 }
