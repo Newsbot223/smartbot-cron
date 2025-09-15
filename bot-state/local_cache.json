@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zentralrat-der-juden-spricht-von-bedrohlicher-stimmung-gegenueber-israel-verteidigern-100.html",
-    "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-zu-gespraechen-ueber-sicherheitsgarantien-in-kiew-100.html",
     "https://www.deutschlandfunk.de/ehemalige-bundeskanzlerin-merkel-steht-zur-wir-schaffen-das-aussage-100.html",
     "https://www.deutschlandfunk.de/zehn-jahre-nach-wir-schaffen-das-linnemann-zieht-kritische-bilanz-100.html",
     "https://www.spiegel.de/politik/deutschland/angela-merkel-sieht-grossteil-ihres-wir-schaffen-das-zitats-erfuellt-a-d2816790-2bf6-42e2-95cb-22138cbf52af#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polen-beauftragter-abraham-cdu-schlaegt-sicherheitsgarantien-statt-reparationen-vor-102.html",
     "https://www.deutschlandfunk.de/selenskyj-truppen-ruecken-in-region-sumy-vor-102.html",
     "https://www.deutschlandfunk.de/usa-suedkorea-und-japan-starten-gemeinsame-militaeruebung-100.html",
-    "https://www.deutschlandfunk.de/interview-mit-robin-brooks-brookings-institution-sanktionen-gegen-russland-100.html"
+    "https://www.deutschlandfunk.de/interview-mit-robin-brooks-brookings-institution-sanktionen-gegen-russland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/verfassungsschutzbericht-mehr-rechtsextremisten-in-thueringen-accg-110686344.html",
+    "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-in-nrw-diese-zahlen-spiegeln-den-afd-erfolg-accg-110681383.html"
   ],
   "content_hashes": [
-    "1663fd937f2a135f767b2523b63a827a",
-    "9776b7153babfe1267203a4a61c80854",
     "07b842b09e1a4d9f63271fd952ba222b",
     "7baf95fc3bc787eccbe579833b2fbb74",
     "13d7a78acae110d05ba96c7dab496938",
@@ -2001,11 +1999,11 @@
     "593a6f38e69fc7ae4aa9a798751aa0e3",
     "707a64c835cee6459663d61860c53772",
     "a74c0f82c0954b86f4195e249f00315d",
-    "a24d881a83a953f9fa144c5cd5f6f82e"
+    "a24d881a83a953f9fa144c5cd5f6f82e",
+    "5db98d3702aa3cbb5d71684f54d424e4",
+    "237d7016194eb4d9c03e78bfd91d8870"
   ],
   "titles": [
-    "Antisemitismus - Zentralrat der Juden spricht von bedrohlicher Stimmung gegenüber Israel-Verteidigern",
-    "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) zu Gesprächen über Sicherheitsgarantien in Kiew",
     "Migrationspolitik - Ehemalige Bundeskanzlerin Merkel steht zur \"Wir schaffen das\"-Aussage",
     "Merkels Flüchtlingspolitik - Zehn Jahre nach \"Wir schaffen das\": Linnemann zieht kritische Bilanz",
     "Angela Merkel sieht Großteil ihres »Wir schaffen das«-Zitats erfüllt",
@@ -3003,11 +3001,11 @@
     "Bundesregierung - Polen-Beauftragter Abraham (CDU) schlägt Sicherheitsgarantien statt Reparationen vor",
     "Krieg in der Ukraine - Selenskyj: Truppen rücken in Region Sumy vor",
     "\"Freedom Edge\" - USA, Südkorea und Japan starten gemeinsame Militärübung",
-    "Ökonom zu Sanktionen - Wie Russland wirklich geschwächt werden könnte"
+    "Ökonom zu Sanktionen - Wie Russland wirklich geschwächt werden könnte",
+    "Neuer Verfassungsschutzbericht: Immer mehr Rechtsextremisten in Thüringen",
+    "Kommunalwahlen-Analyse: Diese Zahlen spiegeln den Erfolg der AfD"
   ],
   "hashes": [
-    "c4380845e691265c0eec40cf6b0dd102",
-    "9adb5677d90ebc3345d693502d6b9bcf",
     "f988765bc9e01e94f8ffc165151f82da",
     "56551fd628d9c5c8ceedd4727e6ded4e",
     "6f8c00fbe511486e00b178397ee4651d",
@@ -4005,6 +4003,8 @@
     "7f786088e3cda224d9da3adfe8d853ea",
     "8e0d2e945f4104ab5044fb8e4f9951b7",
     "7306b89ad5125a3bece4892ecacdd7fb",
-    "9a18596cf7940015f2203c9592a714eb"
+    "9a18596cf7940015f2203c9592a714eb",
+    "f4afec2444ca07d63faf59b36b8284bf",
+    "75118e728913776adb386141ac996cd4"
   ]
 }
