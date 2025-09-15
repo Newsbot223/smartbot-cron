@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/studie-2015-nach-deutschland-geflohene-menschen-gut-auf-dem-arbeitsmarkt-integriert-102.html",
-    "https://www.deutschlandfunk.de/berlin-mitte-auch-u-bahnstation-mohrenstrasse-bekommt-neuen-namen-nach-afrikanischem-philosophen-ant-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-putin-will-zeit-schinden-europaeische-unterstuetzung-der-ukraine-bleibt-102.html",
     "https://www.deutschlandfunk.de/vizekanzler-klingbeil-spd-und-norwegens-regierungschef-st-re-zu-gespraechen-in-kiew-100.html",
     "https://www.deutschlandfunk.de/toter-und-verletzte-nach-russischen-drohnenangriffen-auf-grenzregion-sumy-102.html",
     "https://www.deutschlandfunk.de/sozialverband-deutschland-fordert-schulfach-medienkompetenz-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/uno-menschenrechtsrat-kuendigt-sondersitzung-zu-israelischen-angriffen-in-katar-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/sinan-selen-das-ist-der-neue-chef-des-verfassungsschutzes-accg-110686382.html",
     "https://www.deutschlandfunk.de/nach-brand-an-einem-stellwerk-staatsschutz-ermittelt-102.html",
-    "https://www.deutschlandfunk.de/ueber-160-organisationen-gegen-abschiebevorschlag-der-eu-104.html"
+    "https://www.deutschlandfunk.de/ueber-160-organisationen-gegen-abschiebevorschlag-der-eu-104.html",
+    "https://www.deutschlandfunk.de/bundesregierung-verteidigt-gespraeche-mit-taliban-ueber-abschiebungen-102.html",
+    "https://www.deutschlandfunk.de/prozessbeginn-gegen-drei-mutmassliche-islamisten-104.html",
+    "https://www.deutschlandfunk.de/festnahme-von-arbeitern-in-den-usa-suedkorea-prueft-moegliche-menschenrechtsverletzungen-100.html"
   ],
   "content_hashes": [
-    "50cb21af003de8e392ed308bf1636deb",
-    "2b3179d3abe420bcaf09ae1584095a9f",
-    "5c0341d85267d486ec82abe0c8df3183",
     "40a824ba448f67173bed93b6c72316ac",
     "3693a7530c3e5403c7dda58943151a20",
     "0472a4c62ce7806571d2fd810840ea79",
@@ -2001,12 +1998,12 @@
     "d0bc305dc13cea6520375d3680f23682",
     "ee6dbd12c40179ed069b9d0df018bafa",
     "660ba86ee4011d01ce5ac1d74aaf1e48",
-    "fc64b8180215401651ed97398d5a564d"
+    "fc64b8180215401651ed97398d5a564d",
+    "583448bd52b2ce73c766132b28f15ca4",
+    "058a7efb69443135a36acfb1cca87e9d",
+    "484b492e0f1e8d11505b23ac605da694"
   ],
   "titles": [
-    "Migration - Studie: 2015 nach Deutschland geflohene Menschen gut auf dem Arbeitsmarkt integriert",
-    "Im Dezember - Berlin-Mitte: Auch U-Bahnstation \"Mohrenstraße\" bekommt neuen Namen - nach afrikanischem Philosophen Anton Wilhelm Amo benannt",
-    "Besuch in Kroatien - Außenminister Wadephul: Putin will Zeit schinden - europäische Unterstützung der Ukraine bleibt",
     "Ukraine-Krieg - Vizekanzler Klingbeil (SPD) und Norwegens Regierungschef Støre zu Gesprächen in Kiew",
     "Ukraine-Krieg - Toter und Verletzte nach russischen Drohnenangriffen auf Grenzregion Sumy",
     "Bildung - Sozialverband Deutschland fordert Schulfach \"Medienkompetenz\"",
@@ -3003,12 +3000,12 @@
     "Nahost - UNO-Menschenrechtsrat kündigt Sondersitzung zu israelischen Angriffen in Katar an",
     "Sinan Selen: Das ist der neue Chef des Verfassungsschutzes",
     "Deutsche Bahn - Nach Brand an einem Stellwerk - Staatsschutz ermittelt",
-    "Migrationspolitik - Über 160 Organisationen gegen Abschiebevorschlag der EU"
+    "Migrationspolitik - Über 160 Organisationen gegen Abschiebevorschlag der EU",
+    "Berlin - Bundesregierung verteidigt Gespräche mit Taliban über Abschiebungen",
+    "Mannheim - Prozessbeginn gegen drei mutmaßliche Islamisten",
+    "Seoul - Festnahme von Arbeitern in den USA: Südkorea prüft mögliche Menschenrechtsverletzungen"
   ],
   "hashes": [
-    "8c22f241f13042879a956162eab2af22",
-    "9f1f1675878fe69797587b43f73f7e82",
-    "6a91d63dbf3a706de74da6c5caa5f2f3",
     "6e9e0c8d44cc8c57623f09ca1dd53205",
     "60d509efe2912d98ad5734b8ff8c90e8",
     "8aa9020a00a2f6c8a49184708a4afc6f",
@@ -4005,6 +4002,9 @@
     "a897d2bed2d32f85e3e3a0ed68859c40",
     "5d0bbc4d3d658a017de72b939547e9dd",
     "825e88a5a4f1f7bcea61a8786327f1ed",
-    "047df7c005aa1de2a373d1adb51c7b49"
+    "047df7c005aa1de2a373d1adb51c7b49",
+    "a101c95ec1ab31ccb41d248b9b795507",
+    "1a3769f956f44ff68510d2cc4f175fe1",
+    "78f8d9d9262d9bcfd3a0c019a7348ef9"
   ]
 }
