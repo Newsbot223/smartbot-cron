@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vulkan-aetna-erneut-ausgebrochen-hoechste-warnstufe-fuer-flugverkehr-100.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kann-die-aufregung-darueber-nicht-nachvollziehen-100.html",
     "https://www.deutschlandfunk.de/kinderschutzbund-warnt-vor-altersgrenze-fuer-online-netzwerke-100.html",
     "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-noch-nicht-geloescht-102.html",
     "https://www.deutschlandfunk.de/australien-wirft-iran-antisemitische-anschlaege-in-sydney-und-melbourne-vor-botschafter-ausgewiesen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/urteil-in-prozess-um-toedlichen-messerangriff-erwartet-104.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-fordert-bundesregierung-zu-umfassenden-sozialreformen-auf-100.html",
     "https://www.deutschlandfunk.de/usa-setzen-weiter-auf-katar-als-vermittler-im-gazakrieg-100.html",
-    "https://www.deutschlandfunk.de/mehr-unfalltote-an-bahnuebergaengen-100.html"
+    "https://www.deutschlandfunk.de/mehr-unfalltote-an-bahnuebergaengen-100.html",
+    "https://www.deutschlandfunk.de/uno-menschenrechtsrat-wirft-israel-genozid-im-gazastreifen-vor-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-empfaengt-polens-praesidenten-nawrocki-100.html"
   ],
   "content_hashes": [
-    "9328be750c9bd3f55191ea5763271578",
-    "e43c0ba9becbf9a0dde5205889243123",
     "7d9e4e3fdfbc061c3006ad0b140e5ee8",
     "388529c861b55f08623c3d8f7c04956f",
     "4e4e28de019b0ccaec7584f1649f40d6",
@@ -2001,11 +1999,11 @@
     "1d34120fe0b05b837e3089c370f61c79",
     "acdbbd5e0b32a84f0b1dc9b01d16b6dd",
     "301360515ab4215cc99a1d71c491f034",
-    "ad19414702569ea884827a4d34f98411"
+    "ad19414702569ea884827a4d34f98411",
+    "b11470b224037ecd319da2f2c64b14ee",
+    "f6b3725716466153c9ed512e91d37bc7"
   ],
   "titles": [
-    "Sizilien - Vulkan Ätna erneut ausgebrochen, höchste Warnstufe für Flugverkehr",
-    "Umstrittene Palantir-Software - Bundesinnenminister Dobrindt: Kann die Aufregung darüber nicht nachvollziehen",
     "Internet - Kinderschutzbund warnt vor Altersgrenze für Online-Netzwerke",
     "Großbrand - Feuer im Hamburger Hafen noch nicht gelöscht",
     "Brandanschläge - Australien wirft Iran antisemitische Anschläge in Sydney und Melbourne vor - Botschafter ausgewiesen",
@@ -3003,11 +3001,11 @@
     "Mannheim - Urteil in Prozess um tödlichen Messerangriff erwartet",
     "Fürsorgetag in Erfurt - Bundespräsident Steinmeier fordert Bundesregierung zu umfassenden Sozialreformen auf",
     "Nahost - USA setzen weiter auf Katar als Vermittler im Gazakrieg",
-    "Verkehr - Mehr Unfalltote an Bahnübergängen"
+    "Verkehr - Mehr Unfalltote an Bahnübergängen",
+    "Genf - UNO-Menschenrechtsrat wirft Israel Genozid im Gazastreifen vor",
+    "Antrittsbesuch in Berlin - Steinmeier empfängt Polens Präsidenten Nawrocki"
   ],
   "hashes": [
-    "ecf5f9e81966eaab986ab7291006ef0a",
-    "bc15f837c09d49b43b0668ae045fa05f",
     "79e2098133e5b27cb71483c59b529d10",
     "a439fc16eab53cd88e414e85d8f48677",
     "b7d60d2359c3338c090b6d8554cf86d7",
@@ -4005,6 +4003,8 @@
     "061edc0348b3de568d7104bd59029098",
     "24ec319fc87e92c021c8316c9a8b9824",
     "9c4f587cee3f44341bc07c05b867bef8",
-    "006152fe36b892d8c8426d286f978432"
+    "006152fe36b892d8c8426d286f978432",
+    "68f717c035f0d80d8f0f0475a5b98ee6",
+    "a7c1a21cabbed62a8f00a3b9611abfa8"
   ]
 }
