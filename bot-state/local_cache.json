@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unionsfraktionschef-spahn-kommunikation-in-der-koalition-ist-ausbaufaehig-100.html",
-    "https://www.deutschlandfunk.de/tabakwirtschaft-fordert-schaerfere-staatliche-massnahmen-gegen-illegale-vapes-100.html",
     "https://www.deutschlandfunk.de/deutsche-autobranche-streicht-ueber-50-000-jobs-in-einem-jahr-100.html",
     "https://www.deutschlandfunk.de/heil-spd-verteidigt-rolle-der-kirche-in-politischen-debatten-nicht-nur-gefaellige-meinungen-von-den--100.html",
     "https://www.deutschlandfunk.de/entwicklungsministerin-alabali-radovan-waffenstillstand-dringend-notwendig-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/merz-empfaengt-karol-nawrocki-polens-praesident-will-reparationen-100.html",
     "https://www.deutschlandfunk.de/razzien-gegen-mutmasslich-rechtsradikale-gruppe-100.html",
     "https://www.deutschlandfunk.de/nord-stream-sabotage-ukrainer-kann-nach-deutschland-ausgeliefert-werden-102.html",
-    "https://www.deutschlandfunk.de/eu-kommission-billigt-deutschlands-haushaltsplaene-100.html"
+    "https://www.deutschlandfunk.de/eu-kommission-billigt-deutschlands-haushaltsplaene-100.html",
+    "https://www.deutschlandfunk.de/kommunen-fordern-entlastung-bei-102.html",
+    "https://www.deutschlandfunk.de/antrittsbesuch-vom-karol-nawrocki-in-berlin-interv-mit-piotr-buras-100.html"
   ],
   "content_hashes": [
-    "bce50c84b8989a144c5b5a052f15faa0",
-    "70517869c0ca3afce5b2e2be3d9b019d",
     "5b97098f2bb49f4d90267f8072c6b2b0",
     "d3276cab4700d57cea0b46b907f7d15b",
     "7c042897eecde10dc25ba4d5c9f85aa0",
@@ -2001,11 +1999,11 @@
     "d9d5563c4d6abc6f8f4253a81c6e7e58",
     "e03234bc160ec0ac6c7c36b39b005707",
     "a1ea38a3719c72d3cd47efdfc7d559d2",
-    "0d620c79595cd92d57740d23464989b8"
+    "0d620c79595cd92d57740d23464989b8",
+    "b0b53d3758f9f62378e02faa32a8ff8c",
+    "80dd282bba32fe5ed0168e09f6f60db0"
   ],
   "titles": [
-    "Bundesregierung - Unionsfraktionschef Spahn: \"Kommunikation in der Koalition ist ausbaufähig\"",
-    "Einweg-E-Zigaretten - Tabakwirtschaft fordert schärfere staatliche Maßnahmen gegen illegale Vapes",
     "Arbeitsmarkt - Deutsche Autobranche streicht über 50.000 Jobs in einem Jahr",
     "Religion - Heil (SPD) verteidigt Rolle der Kirche in politischen Debatten: \"Nicht nur gefällige Meinungen von den Kirchen erwarten\"",
     "Nahost - Entwicklungsministerin Alabali-Radovan: Waffenstillstand dringend notwendig",
@@ -3003,11 +3001,11 @@
     "Empfang bei Merz - Polens Präsident Karol Nawrocki will Reparationen",
     "Mehrere Bundesländer - Razzien gegen mutmaßlich rechtsradikale Gruppe",
     "Gerichtsurteil in Italien - Nord-Stream-Sabotage: Ukrainer kann nach Deutschland ausgeliefert werden",
-    "Milliarden-Schulden - EU-Kommission billigt Deutschlands Haushaltspläne"
+    "Milliarden-Schulden - EU-Kommission billigt Deutschlands Haushaltspläne",
+    "Sozial- und Pflegekosten - Kommunen fordern Entlastung bei",
+    "Deutschland und Polen - Präsident Karol Nawrocki fordert in Berlin Reparationen"
   ],
   "hashes": [
-    "abfcdc50d3f66de923a8982b76bdcaa1",
-    "519dfaf6f177aeaddd7f2b5691c75517",
     "1583221a86c118ba31fc3d8e3f461c7b",
     "dbe5c329d07174045de59e9396f49f56",
     "854bc859b8d60d01375ef49bd55af049",
@@ -4005,6 +4003,8 @@
     "9fa5f4d8c0aef0e377e9e3117ffd4b50",
     "9b88264284bc9fe48f39ad78b55066c0",
     "8b139ffcb7cb93cc19cce2c1fd0d308e",
-    "86f01d0f89b3721a1a12e0ffad69e704"
+    "86f01d0f89b3721a1a12e0ffad69e704",
+    "437ddb6de63dc3f8d6ee2d3b34c4c1d5",
+    "c367346ef727ae7489df877fe9390222"
   ]
 }
