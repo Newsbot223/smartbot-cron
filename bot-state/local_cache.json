@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-wegen-rechtsextremistischer-vorfaelle-entlassenen-bundeswehrsoldaten-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/e3-europaeer-und-iran-treffen-sich-in-genf-100.html",
     "https://www.deutschlandfunk.de/zahl-der-entlassenen-soldaten-gestiegen-100.html",
     "https://www.deutschlandfunk.de/europaeer-und-iran-sprechen-ueber-atomstreit-in-genf-102.html",
     "https://www.deutschlandfunk.de/vulkan-aetna-erneut-ausgebrochen-hoechste-warnstufe-fuer-flugverkehr-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-experte-streeck-plaediert-fuer-selbstbeteiligung-von-patienten-100.html",
     "https://www.deutschlandfunk.de/augenzeugen-heftige-angriffe-auf-stadt-gaza-medienbericht-ueber-beginn-von-israelischer-bodenoffensi-100.html",
     "https://www.deutschlandfunk.de/berufungsgericht-bestaetigt-notenbank-vorstaendin-cook-bleibt-im-amt-100.html",
-    "https://www.deutschlandfunk.de/kulturausschuss-laedt-israelischen-dirigenten-lahav-shani-nach-ausladung-in-belgien-zu-gespraech-ein-100.html"
+    "https://www.deutschlandfunk.de/kulturausschuss-laedt-israelischen-dirigenten-lahav-shani-nach-ausladung-in-belgien-zu-gespraech-ein-100.html",
+    "https://www.deutschlandfunk.de/urteil-in-prozess-um-toedlichen-messerangriff-erwartet-104.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-fordert-bundesregierung-zu-umfassenden-sozialreformen-auf-100.html"
   ],
   "content_hashes": [
-    "bda4509bee96a3dedb988a73c3538de5",
-    "8ef5fbf0261ed2d1ac213f90b9fbab0b",
     "84b7a4f26180697fd6f068732b870bb7",
     "d0bbac7f2e3cfa106b4b25091da82a0b",
     "9328be750c9bd3f55191ea5763271578",
@@ -2001,11 +1999,11 @@
     "3396bdc97aa1adb4db14f54be5d85b41",
     "25256c72d6e889b36f9f2bb1e77baa4e",
     "bfc263397f7e97de22004ebe09b72418",
-    "65372a1aecd3c52fcdeaae1d966de38b"
+    "65372a1aecd3c52fcdeaae1d966de38b",
+    "1d34120fe0b05b837e3089c370f61c79",
+    "acdbbd5e0b32a84f0b1dc9b01d16b6dd"
   ],
   "titles": [
-    "Regierungsangaben - Zahl der wegen rechtsextremistischer Vorfälle entlassenen Bundeswehrsoldaten gestiegen",
-    "Konflikt um Atomprogramm - \"E3\"-Europäer und Iran treffen sich in Genf",
     "Rechtsextremismus - Zahl der entlassenen Soldaten gestiegen",
     "Sanktionsdrohung - Europäer und Iran sprechen über Atomstreit in Genf",
     "Sizilien - Vulkan Ätna erneut ausgebrochen, höchste Warnstufe für Flugverkehr",
@@ -3003,11 +3001,11 @@
     "Gesundheitspolitik - CDU-Experte Streeck plädiert für Selbstbeteiligung von Patienten",
     "Nahost-Krieg - Augenzeugen: Heftige Angriffe auf Stadt Gaza - Medienbericht über Beginn von israelischer Bodenoffensive",
     "USA - Berufungsgericht bestätigt: Notenbank-Vorständin Cook bleibt im Amt",
-    "Deutscher Bundestag - Kulturausschuss lädt israelischen Dirigenten Lahav Shani nach Ausladung in Belgien zu Gespräch ein"
+    "Deutscher Bundestag - Kulturausschuss lädt israelischen Dirigenten Lahav Shani nach Ausladung in Belgien zu Gespräch ein",
+    "Mannheim - Urteil in Prozess um tödlichen Messerangriff erwartet",
+    "Fürsorgetag in Erfurt - Bundespräsident Steinmeier fordert Bundesregierung zu umfassenden Sozialreformen auf"
   ],
   "hashes": [
-    "cbd5a471de8842639259c1c38b658aab",
-    "7f3299a59d5f134daa1e82cc2d110e0b",
     "d99cee2a6e02a9197535e3de23ff5a5c",
     "1da208e8c11665ed8ddbfa7f7fe654c2",
     "ecf5f9e81966eaab986ab7291006ef0a",
@@ -4005,6 +4003,8 @@
     "4df823ced776bb46f0dee572f4f6449b",
     "e4a135044847456e51d434c2e62afa10",
     "3525dd40575d2d7dfd75bdf52340c736",
-    "e957a2d3a0c209b72421ee373b03cb24"
+    "e957a2d3a0c209b72421ee373b03cb24",
+    "061edc0348b3de568d7104bd59029098",
+    "24ec319fc87e92c021c8316c9a8b9824"
   ]
 }
