@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kinderschutzbund-warnt-vor-altersgrenze-fuer-online-netzwerke-100.html",
-    "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-noch-nicht-geloescht-102.html",
-    "https://www.deutschlandfunk.de/australien-wirft-iran-antisemitische-anschlaege-in-sydney-und-melbourne-vor-botschafter-ausgewiesen-100.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-entlaesst-notenbank-vorstandsmitglied-cook-102.html",
     "https://www.deutschlandfunk.de/wegen-kuerzungen-der-us-entwicklungshilfe-krankenhaeuser-ohne-medikamente-regierung-ruft-notstand-au-100.html",
     "https://www.deutschlandfunk.de/merz-empfaengt-regierungschefs-von-kanada-und-belgien-in-berlin-100.html",
     "https://www.deutschlandfunk.de/piratenangriffe-auf-fischer-kriminologen-beklagen-brutale-realitaet-fernab-der-schlagzeilen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/usa-setzen-weiter-auf-katar-als-vermittler-im-gazakrieg-100.html",
     "https://www.deutschlandfunk.de/mehr-unfalltote-an-bahnuebergaengen-100.html",
     "https://www.deutschlandfunk.de/uno-menschenrechtsrat-wirft-israel-genozid-im-gazastreifen-vor-100.html",
-    "https://www.deutschlandfunk.de/steinmeier-empfaengt-polens-praesidenten-nawrocki-100.html"
+    "https://www.deutschlandfunk.de/steinmeier-empfaengt-polens-praesidenten-nawrocki-100.html",
+    "https://www.deutschlandfunk.de/israelisches-militaer-bodenoffensive-in-gaza-stadt-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/bundestag-abschlussberatungen-ueber-etat-fuer-laufendes-jahr-100.html",
+    "https://www.deutschlandfunk.de/antrittsbesuch-des-polnischen-praesidenten-nawrocki-100.html",
+    "https://www.faz.net/aktuell/politik/inland/razzia-bei-rechtsextremer-gruppe-in-niedersachsen-accg-110688096.html"
   ],
   "content_hashes": [
-    "7d9e4e3fdfbc061c3006ad0b140e5ee8",
-    "388529c861b55f08623c3d8f7c04956f",
-    "4e4e28de019b0ccaec7584f1649f40d6",
-    "16fcefce0e06a491f6b123436a02a207",
     "c367c3b2649f9cf8ed827945256ecc6f",
     "16a8c8e98a0f1edd14e3defafee16a72",
     "6f8e261096a31745ecc4e8a0990e2d40",
@@ -2001,13 +1997,13 @@
     "301360515ab4215cc99a1d71c491f034",
     "ad19414702569ea884827a4d34f98411",
     "b11470b224037ecd319da2f2c64b14ee",
-    "f6b3725716466153c9ed512e91d37bc7"
+    "f6b3725716466153c9ed512e91d37bc7",
+    "66c420787319c94ba441e77029c0aca5",
+    "fe7360f635a9239f63e291529fd988e7",
+    "874cb58751a26abe9d676690e7e23554",
+    "5e7294c95c8b83ba626f98cf694e05d7"
   ],
   "titles": [
-    "Internet - Kinderschutzbund warnt vor Altersgrenze für Online-Netzwerke",
-    "Großbrand - Feuer im Hamburger Hafen noch nicht gelöscht",
-    "Brandanschläge - Australien wirft Iran antisemitische Anschläge in Sydney und Melbourne vor - Botschafter ausgewiesen",
-    "Federal Reserve - US-Präsident Trump entlässt Notenbank-Vorstandsmitglied Cook",
     "Botswana - Wegen Kürzungen der US-Entwicklungshilfe: Krankenhäuser ohne Medikamente; Regierung ruft Notstand aus",
     "Merz empfängt Regierungschefs von Kanada und Belgien in Berlin",
     "Vergessene Krisenherde - Piratenangriffe auf Fischer: Kriminologen beklagen brutale Realität fernab der Schlagzeilen",
@@ -3003,13 +2999,13 @@
     "Nahost - USA setzen weiter auf Katar als Vermittler im Gazakrieg",
     "Verkehr - Mehr Unfalltote an Bahnübergängen",
     "Genf - UNO-Menschenrechtsrat wirft Israel Genozid im Gazastreifen vor",
-    "Antrittsbesuch in Berlin - Steinmeier empfängt Polens Präsidenten Nawrocki"
+    "Antrittsbesuch in Berlin - Steinmeier empfängt Polens Präsidenten Nawrocki",
+    "Nahost - Israelisches Militär: Bodenoffensive in Gaza-Stadt hat begonnen",
+    "Finanzpolitik - Bundestag: Abschlussberatungen über Etat für laufendes Jahr",
+    "Antrittsbesuch - Polnischer Präsidenten Nawrocki fordert Reparationen",
+    "Razzia in Niedersachsen: Polizei sucht Kriegswaffen bei mutmaßlichen Rechtsextremisten"
   ],
   "hashes": [
-    "79e2098133e5b27cb71483c59b529d10",
-    "a439fc16eab53cd88e414e85d8f48677",
-    "b7d60d2359c3338c090b6d8554cf86d7",
-    "972af021170a832fa2eaae4499ec5974",
     "b1b1d9b2fc7b228f655b10623d83c0f3",
     "5aa9bceb6c167853eec05e9b493f3212",
     "be512b16f778e4f8930890ebfadb12b0",
@@ -4005,6 +4001,10 @@
     "9c4f587cee3f44341bc07c05b867bef8",
     "006152fe36b892d8c8426d286f978432",
     "68f717c035f0d80d8f0f0475a5b98ee6",
-    "a7c1a21cabbed62a8f00a3b9611abfa8"
+    "a7c1a21cabbed62a8f00a3b9611abfa8",
+    "c7540a580dd7f694e917dcc729a9245e",
+    "e3290ea294db2712d874c7ee0419bfba",
+    "1ffdf19d72eb16a66b771e7dd2a30e1c",
+    "b4fae347209d9c6f8dfd0528bd5e3f1c"
   ]
 }
