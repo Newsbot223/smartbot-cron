@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weibliche-azubis-verdienen-im-schnitt-mehr-als-maennliche-100.html",
-    "https://www.deutschlandfunk.de/koepping-spd-will-eigenanteil-in-pflegeheimen-auf-1-000-euro-begrenzen-100.html",
-    "https://www.deutschlandfunk.de/trump-telefoniert-erneut-mit-putin-100.html",
-    "https://www.deutschlandfunk.de/gewerkschaft-putzen-und-streichen-an-schulen-ist-keine-aufgabe-von-lehrern-und-eltern-100.html",
     "https://www.deutschlandfunk.de/brasilien-reagiert-mit-aufkauf-heimischer-produkte-auf-us-zoelle-100.html",
     "https://www.deutschlandfunk.de/us-zentralbank-gouverneurin-lehnt-von-trump-angeordneten-ruecktritt-ab-100.html",
     "https://www.deutschlandfunk.de/richterin-ordnet-neuordnung-der-wahlkreise-an-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/ausland/konrad-adenauer-stiftung-in-serbien-vucic-als-partner-110683264.html",
     "https://www.deutschlandfunk.de/journalisten-spueren-fluechtigen-wirecard-manager-marsalek-in-moskau-auf-100.html",
     "https://www.deutschlandfunk.de/niedersachsen-will-digitale-bildung-bei-jung-bis-alt-foerdern-landesweites-konzept-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/nikotinbeutel-experten-fuer-lungenheilkunde-warnen-vor-massiven-luecken-im-jugendschutz-100.html"
+    "https://www.deutschlandfunk.de/nikotinbeutel-experten-fuer-lungenheilkunde-warnen-vor-massiven-luecken-im-jugendschutz-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-plaediert-fuer-reform-des-sozialstaats-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-muss-sich-erneut-misstrauensantraegen-stellen-100.html",
+    "https://www.deutschlandfunk.de/apotheken-sollen-mehr-leistungen-anbieten-koennen-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-ehec-faelle-im-nordosten-drastisch-gestiegen-102.html"
   ],
   "content_hashes": [
-    "3112c838420ed50515a9080c549694e9",
-    "cb0fc625725b5d580815b6e854ceafd7",
-    "212f5cc94585a572320224fbf877b37f",
-    "4d798926c8c7a8f1855505381cf01ba6",
     "40f0eea171e94f1db402d679bea25d29",
     "ca5faac735c6c15788ceb39c744f39aa",
     "941c7e080ffe2fe8d40e655da3b472fd",
@@ -2001,13 +1997,13 @@
     "79137a10d075457264bc13faf9ef9373",
     "a736743ad416c06427dc756a213d21d3",
     "6a3b1c346e36fddbc146a558e8526b72",
-    "422bdfa993e3014ed89606d81c96ee4b"
+    "422bdfa993e3014ed89606d81c96ee4b",
+    "cd5dce24721e50a8997f4da3ccbd2632",
+    "a535ff3f139d702fc3bcd66bfec7fab2",
+    "69c8f1315ddd35a2152ab838d2c25775",
+    "e086c737d3163606810a8c523a23863c"
   ],
   "titles": [
-    "Statistisches Bundesamt - Weibliche Azubis verdienen im Schnitt mehr als männliche",
-    "Sachsen - Köpping (SPD) will Eigenanteil in Pflegeheimen auf 1.000 Euro begrenzen",
-    "Ukraine-Krieg - Trump telefoniert erneut mit Putin",
-    "Sanierungsstau - Gewerkschaft: Putzen und Streichen an Schulen ist keine Aufgabe von Lehrern und Eltern",
     "Globaler Handel - Brasilien reagiert mit Aufkauf heimischer Produkte auf US-Zölle",
     "Machtkampf - US-Zentralbank-Gouverneurin lehnt von Trump angeordneten Rücktritt ab",
     "US-Bundesstaat Utah - Richterin ordnet Neuordnung der Wahlkreise an",
@@ -3003,13 +2999,13 @@
     "Konrad-Adenauer-Stiftung: Mein Freund, der Autokrat",
     "Medienberichte - Journalisten spüren flüchtigen Wirecard-Manager Marsalek in Moskau auf",
     "Medien - Niedersachsen will digitale Bildung bei jung bis alt fördern - landesweites Konzept beschlossen",
-    "Deutsche Gesellschaft für Pneumologie - Nikotinbeutel - Experten für Lungenheilkunde warnen vor massiven Lücken im Jugendschutz"
+    "Deutsche Gesellschaft für Pneumologie - Nikotinbeutel - Experten für Lungenheilkunde warnen vor massiven Lücken im Jugendschutz",
+    "Gemeinwesen - Bundespräsident Steinmeier plädiert für Reform des Sozialstaats",
+    "EU-Parlament - EU-Kommission muss sich erneut Misstrauensanträgen stellen",
+    "Gesundheitsministerium - Apotheken sollen mehr Leistungen anbieten können",
+    "Neuinfektion - Zahl der Ehec-Fälle im Nordosten drastisch gestiegen"
   ],
   "hashes": [
-    "24b711f248fd33f985b3898974012b1f",
-    "0ff5b4cb7a24dbe3f714f595f4e2408f",
-    "2d736fdb179f04efa65851cb0c1d2f6f",
-    "b76333aec4757351cdbaf7dd37b6d710",
     "73ee15c5bd834c678d5a508269113f5b",
     "e05a49a27cde7137fa6f7dad22e054b5",
     "f0bc280645dc1be8ae12e1ed266edbcd",
@@ -4005,6 +4001,10 @@
     "88ffe2ca7106f84a5965c2f1bcbced32",
     "cde6ce33cc0307c999ebb5ce7162a566",
     "baf8539a8d2634cc25cef86ba3ecd699",
-    "9a3a6a2207a517b036f9538ed0be24d2"
+    "9a3a6a2207a517b036f9538ed0be24d2",
+    "e8945074137abfc5123fbedc1827cf40",
+    "7c397e63cf3e07a2ee8633b717b492fa",
+    "dc3ceab4fcf237f23127275636e886e3",
+    "27279fcebffcf3091c9427fce9b9611d"
   ]
 }
