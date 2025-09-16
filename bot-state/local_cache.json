@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wegen-kuerzungen-der-us-entwicklungshilfe-krankenhaeuser-ohne-medikamente-regierung-ruft-notstand-au-100.html",
-    "https://www.deutschlandfunk.de/merz-empfaengt-regierungschefs-von-kanada-und-belgien-in-berlin-100.html",
     "https://www.deutschlandfunk.de/piratenangriffe-auf-fischer-kriminologen-beklagen-brutale-realitaet-fernab-der-schlagzeilen-100.html",
     "https://www.faz.net/aktuell/politik/magdeburg-taleb-a-soll-2023-anschlag-geplant-haben-110654738.html",
     "https://www.deutschlandfunk.de/vierte-stadt-verhaengt-strenges-badeverbot-fuer-den-rhein-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israelisches-militaer-bodenoffensive-in-gaza-stadt-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/bundestag-abschlussberatungen-ueber-etat-fuer-laufendes-jahr-100.html",
     "https://www.deutschlandfunk.de/antrittsbesuch-des-polnischen-praesidenten-nawrocki-100.html",
-    "https://www.faz.net/aktuell/politik/inland/razzia-bei-rechtsextremer-gruppe-in-niedersachsen-accg-110688096.html"
+    "https://www.faz.net/aktuell/politik/inland/razzia-bei-rechtsextremer-gruppe-in-niedersachsen-accg-110688096.html",
+    "https://www.deutschlandfunk.de/ford-streicht-bis-zu-weitere-1-000-stellen-in-koeln-102.html",
+    "https://www.deutschlandfunk.de/merz-empfaengt-karol-nawrocki-polens-praesident-will-reparationen-100.html"
   ],
   "content_hashes": [
-    "c367c3b2649f9cf8ed827945256ecc6f",
-    "16a8c8e98a0f1edd14e3defafee16a72",
     "6f8e261096a31745ecc4e8a0990e2d40",
     "2a56b7810fe8bd894ea951a24d5cd3ba",
     "0657df5aef629102689e3eda9abb512d",
@@ -2001,11 +1999,11 @@
     "66c420787319c94ba441e77029c0aca5",
     "fe7360f635a9239f63e291529fd988e7",
     "874cb58751a26abe9d676690e7e23554",
-    "5e7294c95c8b83ba626f98cf694e05d7"
+    "5e7294c95c8b83ba626f98cf694e05d7",
+    "90c37fa385c5c08c42b178d0ae215b5c",
+    "d9d5563c4d6abc6f8f4253a81c6e7e58"
   ],
   "titles": [
-    "Botswana - Wegen Kürzungen der US-Entwicklungshilfe: Krankenhäuser ohne Medikamente; Regierung ruft Notstand aus",
-    "Merz empfängt Regierungschefs von Kanada und Belgien in Berlin",
     "Vergessene Krisenherde - Piratenangriffe auf Fischer: Kriminologen beklagen brutale Realität fernab der Schlagzeilen",
     "Magdeburg: Taleb A. soll schon 2023 anderen Anschlag geplant haben",
     "Krefeld - Vierte Stadt verhängt strenges Badeverbot für den Rhein",
@@ -3003,11 +3001,11 @@
     "Nahost - Israelisches Militär: Bodenoffensive in Gaza-Stadt hat begonnen",
     "Finanzpolitik - Bundestag: Abschlussberatungen über Etat für laufendes Jahr",
     "Antrittsbesuch - Polnischer Präsidenten Nawrocki fordert Reparationen",
-    "Razzia in Niedersachsen: Polizei sucht Kriegswaffen bei mutmaßlichen Rechtsextremisten"
+    "Razzia in Niedersachsen: Polizei sucht Kriegswaffen bei mutmaßlichen Rechtsextremisten",
+    "Wirtschaft - Ford streicht bis zu weitere 1.000 Stellen in Köln",
+    "Empfang bei Merz - Polens Präsident Karol Nawrocki will Reparationen"
   ],
   "hashes": [
-    "b1b1d9b2fc7b228f655b10623d83c0f3",
-    "5aa9bceb6c167853eec05e9b493f3212",
     "be512b16f778e4f8930890ebfadb12b0",
     "1336ee0bf2c22bd22abfbcbcadb83094",
     "f6d45aa1db472e46918cc9815667736c",
@@ -4005,6 +4003,8 @@
     "c7540a580dd7f694e917dcc729a9245e",
     "e3290ea294db2712d874c7ee0419bfba",
     "1ffdf19d72eb16a66b771e7dd2a30e1c",
-    "b4fae347209d9c6f8dfd0528bd5e3f1c"
+    "b4fae347209d9c6f8dfd0528bd5e3f1c",
+    "40e86e93b6a4abdf811373b0172e2b6e",
+    "9fa5f4d8c0aef0e377e9e3117ffd4b50"
   ]
 }
