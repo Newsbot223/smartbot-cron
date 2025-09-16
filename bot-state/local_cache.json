@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schaeffler-schliesst-werk-in-steinhagen-100.html",
-    "https://www.spiegel.de/wissenschaft/deutschland-darum-gehoeren-speisereste-feuchtes-klopapier-tampons-nicht-in-die-toilette-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss",
     "https://www.deutschlandfunk.de/cdu-haushaelter-offen-fuer-anhebung-der-reichensteuer-102.html",
     "https://www.deutschlandfunk.de/expertengremium-warnt-vor-sammelsurium-von-subventionen-fuer-deutsche-unternehmen-102.html",
     "https://www.deutschlandfunk.de/deutsche-spender-helfen-bei-neuem-prothesenzentrum-in-kiew-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verdaechtiger-in-mordfall-kirk-wegen-mordes-angeklagt-100.html",
     "https://www.deutschlandfunk.de/jaguar-land-rover-kaempft-weiter-mit-folgen-von-cyberattacke-produktion-seit-ueber-zwei-wochen-lahmg-102.html",
     "https://www.faz.net/aktuell/politik/ausland/der-sabotageakt-gegen-nord-stream-muss-aufgeklaert-werden-110688857.html",
-    "https://www.aljazeera.com/video/inside-story/2025/9/16/what-makes-this-years-un-general-assembly-so-significant?traffic_source=rss"
+    "https://www.aljazeera.com/video/inside-story/2025/9/16/what-makes-this-years-un-general-assembly-so-significant?traffic_source=rss",
+    "https://www.deutschlandfunk.de/mittelstand-wirft-bundesregierung-versaeumnisse-vor-100.html",
+    "https://www.deutschlandfunk.de/treibstoffblockade-islamisten-in-mali-zerstoeren-offenbar-bis-zu-100-tanklastwagen-102.html"
   ],
   "content_hashes": [
-    "91a85849797200db405aa9757f462dee",
-    "003ef369cdd60ec504edac1c704c105a",
     "6e93af05952d6b2ea88381ffaa8806d2",
     "434987c2bc918c94d2c780730b381bcf",
     "a884f8fae02b11133a19f7cd2cc355c0",
@@ -2001,11 +1999,11 @@
     "aed786e7b37c76c5ad453e707f528f7f",
     "e0fe73176177527869aedccc4c3a024d",
     "076528811e41edba3dca189efa2ef420",
-    "3764ccaed0db0dbe7b6c9b3b91a0a56b"
+    "3764ccaed0db0dbe7b6c9b3b91a0a56b",
+    "ffbfe11b5e20b260de06fcb9adcfc63c",
+    "8b871b4dcdbe8ee5212bb69bb78ff114"
   ],
   "titles": [
-    "Autozulieferer - Schaeffler schließt Werk in Steinhagen",
-    "Deutschland: Darum gehören Speisereste, feuchtes Klopapier, Tampons nicht in die Toilette",
     "Koalition - CDU-Haushälter offen für Anhebung der Reichensteuer",
     "Wirtschaft - Expertengremium warnt vor \"Sammelsurium von Subventionen\" für deutsche Unternehmen",
     "Ukraine-Krieg - Deutsche Spender helfen bei neuem Prothesenzentrum in Kiew",
@@ -3003,11 +3001,11 @@
     "Attentat - Verdächtiger in Mordfall Kirk wegen Mordes angeklagt",
     "Tata-Konzern - \"Jaguar Land Rover\" kämpft weiter mit Folgen von Cyberattacke - Produktion seit über zwei Wochen lahmgelegt",
     "Nord Stream: Der Sabotageakt muss aufgeklärt werden",
-    "What makes this year’s UN General Assembly so significant?"
+    "What makes this year’s UN General Assembly so significant?",
+    "Wirtschaft - Mittelstand wirft Bundesregierung Versäumnisse vor",
+    "Westafrika - Treibstoffblockade: Islamisten in Mali zerstören offenbar bis zu 100 Tanklastwagen"
   ],
   "hashes": [
-    "f56d7115c9d33c8bd571b943bda14fbf",
-    "67cba99660f07f26586c0d900ee4a1a9",
     "962d1f3376f483296ce7da5adb210519",
     "3bd72dc598ea7c6d0d801a2d493c635f",
     "38f36b530e2e6dfafc6a8dad980caa2a",
@@ -4005,6 +4003,8 @@
     "5c94c494c44fcfc497b026a267a7b2b9",
     "d2ea2f2398c3b042f9f26828790af357",
     "66a40ca3fa150d19d2378caa6833fc72",
-    "14b8877b611073d5186777d2e8a921e4"
+    "14b8877b611073d5186777d2e8a921e4",
+    "8a77de009b9638e99b4769ef461cdec5",
+    "71dc71c43a61e55b1f2c8ba086ffae72"
   ]
 }
