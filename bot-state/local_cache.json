@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/robert-habeck-zieht-sich-aus-der-politik-zurueck-fast-ohne-groll-110654064.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-kasernen-besser-vor-drohnen-schuetzen-100.html",
-    "https://www.deutschlandfunk.de/trump-droht-kritischen-sendern-mit-lizenzentzug-100.html",
     "https://www.deutschlandfunk.de/gruenen-spitzenpolitiker-habeck-zieht-sich-aus-bundestag-zurueck-nachfolgerin-steht-fest-100.html",
     "https://www.deutschlandfunk.de/feuer-im-hamburger-hafen-sorgt-fuer-explosionen-und-truemmerteile-auf-a-102.html",
     "https://www.deutschlandfunk.de/journalistenverband-protest-darf-nicht-zu-einschraenkung-freier-berichterstattung-fuehren-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundestag-beginnt-heute-abschlussberatungen-ueber-etat-fuer-laufendes-jahr-100.html",
     "https://www.deutschlandfunk.de/polens-praesident-nawrocki-reist-heute-zu-antrittsbesuch-nach-berlin-100.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-bestaetigt-spitzenbeamten-sinan-selen-als-kuenftigen-chef-des-bundesverfassun-100.html",
-    "https://www.deutschlandfunk.de/kritik-in-grossbritannien-an-aeusserungen-von-elon-musk-bei-gewaltsamen-anti-einwanderungs-protesten-100.html"
+    "https://www.deutschlandfunk.de/kritik-in-grossbritannien-an-aeusserungen-von-elon-musk-bei-gewaltsamen-anti-einwanderungs-protesten-100.html",
+    "https://www.deutschlandfunk.de/praesident-trump-unterzeichnet-dekret-zur-entsendung-der-nationalgarde-auch-nach-memphis-100.html",
+    "https://www.deutschlandfunk.de/zwei-belarussen-nach-drohnenflug-ueber-regierungsgebaeude-in-warschau-festgenommen-102.html",
+    "https://www.deutschlandfunk.de/cdu-experte-streeck-plaediert-fuer-selbstbeteiligung-von-patienten-100.html"
   ],
   "content_hashes": [
-    "844faa02e494bc94456778bb800463f6",
-    "7d1676fa594b4e83bd0ddf1be3debe7a",
-    "81f3d4cb486d712ae521531eeae51a16",
     "75dcfbcb266b85fd2e6103c3c681dd05",
     "6ffd0bd152aa8cc840467c3d647bee41",
     "fa7d599430991a43cbc2e3f3f47d6d35",
@@ -2001,12 +1998,12 @@
     "1975b817c5110ab23f9c99326c4ef768",
     "0a49291d0e2bcc6d1b4f0966265e5ff4",
     "22f41ec0c3a11745a5b093aa911d48b3",
-    "51db8f94255d579709680759395c27e3"
+    "51db8f94255d579709680759395c27e3",
+    "90c111ccf0983981715b642f4efac17e",
+    "78be072f3868b7801e3784b447e3f012",
+    "3396bdc97aa1adb4db14f54be5d85b41"
   ],
   "titles": [
-    "Rückzug aus dem Bundestag: Habecks Abrechnung mit den eigenen Illusionen",
-    "Sicherheit - Bundesregierung will Kasernen besser vor Drohnen schützen",
-    "Pressefreiheit in den USA - Trump droht kritischen Sendern mit Lizenzentzug",
     "Ex-Vizekanzler - Grünen-Spitzenpolitiker Habeck zieht sich aus Bundestag zurück - Nachfolgerin steht fest",
     "Großbrand - Feuer im Hamburger Hafen sorgt für Explosionen und Trümmerteile auf A1",
     "Störversuche bei Sommerinterviews - Journalistenverband: \"Protest darf nicht zu Einschränkung freier Berichterstattung führen\"",
@@ -3003,12 +3000,12 @@
     "Finanzpolitik - Bundestag beginnt heute Abschlussberatungen über Etat für laufendes Jahr",
     "Diplomatie - Polens Präsident Nawrocki reist heute zu Antrittsbesuch nach Berlin",
     "Geheimdienst - Innenminister Dobrindt bestätigt Spitzenbeamten Sinan Selen als künftigen Chef des Bundesverfassungsschutzes",
-    "Großbritannien - Kritik in Großbritannien an Äußerungen von Elon Musk bei gewaltsamen Anti-Einwanderungs-Protesten"
+    "Großbritannien - Kritik in Großbritannien an Äußerungen von Elon Musk bei gewaltsamen Anti-Einwanderungs-Protesten",
+    "USA - Präsident Trump unterzeichnet Dekret zur Entsendung der Nationalgarde auch nach Memphis",
+    "Polen - Zwei Belarussen nach Drohnenflug über Regierungsgebäude in Warschau festgenommen",
+    "Gesundheitspolitik - CDU-Experte Streeck plädiert für Selbstbeteiligung von Patienten"
   ],
   "hashes": [
-    "c4cbd1206321095541df510c61f2e57f",
-    "c6902fae85b171397d31810aa53830ec",
-    "7856eabaf7676892aef67927383aa1bd",
     "ed8093259298e5c8094a8a429c467a07",
     "f30fcec4d8405e430cc8a246ef76d204",
     "8939ac052a45e1269b56e21d7fd46821",
@@ -4005,6 +4002,9 @@
     "2133b285dc6484af33b622891caeb366",
     "cc8ca5ba37aaff542f6996aae3b2e374",
     "c114fbbc86d7d80f8b5053f304f1409f",
-    "10b2cb54fc0decb46aec94872374366b"
+    "10b2cb54fc0decb46aec94872374366b",
+    "90e466c8136bfc2e270558baa4de18b1",
+    "61db4e44709606fc35fb4a18cd3b0c5d",
+    "4df823ced776bb46f0dee572f4f6449b"
   ]
 }
