@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russisches-aufklaerungsflugzeug-nato-alarmiert-deutsche-eurofighter-ueber-der-ostsee-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesregierung-die-angst-vor-einem-herbst-der-enttaeuschungen-110655431.html",
     "https://www.deutschlandfunk.de/mordanklage-wegen-anschlags-auf-demo-in-muenchen-erhoben-100.html",
     "https://www.faz.net/einspruch/migrationspolitik-schieben-wir-die-falschen-ab-110655788.html",
     "https://www.deutschlandfunk.de/israelische-armee-beschuss-von-krankenhaus-galt-hamas-kamera-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verdaechtiger-im-fall-maddie-aus-haft-entlassen-102.html",
     "https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss",
     "https://www.deutschlandfunk.de/spd-abgeordnete-prien-aussage-zu-extremismus-irritiert-uns-extrem-100.html",
-    "https://www.faz.net/aktuell/politik/inland/studie-nachrichten-in-leichter-sprache-zentral-fuer-teilhabe-accg-110689816.html"
+    "https://www.faz.net/aktuell/politik/inland/studie-nachrichten-in-leichter-sprache-zentral-fuer-teilhabe-accg-110689816.html",
+    "https://www.deutschlandfunk.de/ukraine-drohnenangst-und-manoeverende-im-nachbarland-100.html",
+    "https://www.faz.net/aktuell/politik/kommunalwahlen-in-nrw-noch-ist-die-spd-nicht-verloren-110689071.html"
   ],
   "content_hashes": [
-    "aa3e664c615e8d950a4156c55755ec15",
-    "b6144daa73d8de840b8de9c630fd30e9",
     "361bc70f4155d6c8d21176acff638f53",
     "a06d281cd31920fb945f58b6e6bd197f",
     "b4c920c08797fb9ed6e39cf5e09c772c",
@@ -2001,11 +1999,11 @@
     "98e4a607a7f4cbd1751d5bf03be989ce",
     "58c9a7af06ca52df113f27b5d052237e",
     "2711aa98f05aed060f499a7519e6938d",
-    "d862b6250f5a903382e9659e1580596d"
+    "d862b6250f5a903382e9659e1580596d",
+    "0aa9911eef74bfb3e0d84ddf9a9a4f42",
+    "b8a9f69eebc940f0f5aa56dd49ed6a02"
   ],
   "titles": [
-    "Fliegerhorst Rostock-Laage - Russisches Aufklärungsflugzeug: NATO alarmiert deutsche Eurofighter über der Ostsee",
-    "Stimmung in der Koalition: Die Angst vor einem Herbst der Enttäuschungen",
     "Justiz - Mordanklage wegen Anschlags auf Demo in München erhoben",
     "Migrationspolitik: Deutschland darf sein Schicksal nicht aus der Hand geben",
     "Gazastreifen - Israelische Armee: Beschuss von Krankenhaus galt Hamas-Kamera",
@@ -3003,11 +3001,11 @@
     "Kriminalität - Verdächtiger im Fall Maddie aus Haft entlassen",
     "Generaldebatte im Bundestag: Friedrich Merz stellt Bürger auf tiefgreifende Veränderungen ein",
     "Innenpolitik - SPD-Abgeordnete: Prien-Aussage zu Extremismus \"irritiert uns extrem\"",
-    "Inklusion und Integration: Studie: Nachrichten in leichter Sprache zentral für Teilhabe"
+    "Inklusion und Integration: Studie: Nachrichten in leichter Sprache zentral für Teilhabe",
+    "Sapad 2025 - Russland und Belarus senden mit Militärmanöver Signal an NATO",
+    "Nach NRW-Kommunalwahlen: Noch ist die SPD nicht verloren"
   ],
   "hashes": [
-    "4ff9f0d6373a9ab3147d910f08d23b5b",
-    "e6dad2dcf506c3c90f8aaf1a360d5908",
     "34c1ac569ec6ea9b11ea491a58f52fac",
     "52656b506c8742e4a0e23015f7d81145",
     "818ddff010bdac6950635a29010d46d6",
@@ -4005,6 +4003,8 @@
     "961a3e45ec5ea7e491d0181fc7d7743d",
     "048131db41425dd3e705f9aa62ab809d",
     "e4c1e40b69bf26fa64a760a9f6e9b4f4",
-    "6743e63f7f2a4495f0d31a2c8908bde3"
+    "6743e63f7f2a4495f0d31a2c8908bde3",
+    "759113552438b59f3f7640990ca56f7d",
+    "395cbaf3375f7afc47dedb8aba92daed"
   ]
 }
