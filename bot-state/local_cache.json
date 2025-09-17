@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mordanklage-wegen-anschlags-auf-demo-in-muenchen-erhoben-100.html",
-    "https://www.faz.net/einspruch/migrationspolitik-schieben-wir-die-falschen-ab-110655788.html",
-    "https://www.deutschlandfunk.de/israelische-armee-beschuss-von-krankenhaus-galt-hamas-kamera-100.html",
     "https://www.deutschlandfunk.de/kiew-laesst-ukrainer-bis-zum-alter-von-22-jahren-ausreisen-100.html",
     "https://www.deutschlandfunk.de/iran-und-europaeische-staaten-verhandeln-ueber-umstrittenes-atomprogramm-102.html",
     "https://www.deutschlandfunk.de/fed-abberufung-nur-aus-wichtigem-grund-moeglich-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spd-abgeordnete-prien-aussage-zu-extremismus-irritiert-uns-extrem-100.html",
     "https://www.faz.net/aktuell/politik/inland/studie-nachrichten-in-leichter-sprache-zentral-fuer-teilhabe-accg-110689816.html",
     "https://www.deutschlandfunk.de/ukraine-drohnenangst-und-manoeverende-im-nachbarland-100.html",
-    "https://www.faz.net/aktuell/politik/kommunalwahlen-in-nrw-noch-ist-die-spd-nicht-verloren-110689071.html"
+    "https://www.faz.net/aktuell/politik/kommunalwahlen-in-nrw-noch-ist-die-spd-nicht-verloren-110689071.html",
+    "https://www.deutschlandfunk.de/reichinnek-kritisiert-haushaltsentwurf-fuer-2025-herbst-der-sozialen-grausamkeiten-100.html",
+    "https://www.deutschlandfunk.de/erste-kleinwuechsige-abgeordnete-fischer-wirbt-fuer-mehr-diversitaet-im-bundestag-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-spahn-wirft-afd-verrat-am-vaterland-vor-faz-110093143.html"
   ],
   "content_hashes": [
-    "361bc70f4155d6c8d21176acff638f53",
-    "a06d281cd31920fb945f58b6e6bd197f",
-    "b4c920c08797fb9ed6e39cf5e09c772c",
     "f1492207afbe503c0eba847f2f0922c4",
     "716f9b43acd91014a11b9c9156e26eb8",
     "c8435c3effc9688e0a485d5de9dd82ea",
@@ -2001,12 +1998,12 @@
     "2711aa98f05aed060f499a7519e6938d",
     "d862b6250f5a903382e9659e1580596d",
     "0aa9911eef74bfb3e0d84ddf9a9a4f42",
-    "b8a9f69eebc940f0f5aa56dd49ed6a02"
+    "b8a9f69eebc940f0f5aa56dd49ed6a02",
+    "fbfad167485cbc8ebf4b5957b4b40124",
+    "eaf1319f6be6b7df329a22ba13b7c8a9",
+    "f06012b8349c5fafb194171386913958"
   ],
   "titles": [
-    "Justiz - Mordanklage wegen Anschlags auf Demo in München erhoben",
-    "Migrationspolitik: Deutschland darf sein Schicksal nicht aus der Hand geben",
-    "Gazastreifen - Israelische Armee: Beschuss von Krankenhaus galt Hamas-Kamera",
     "Krieg - Kiew lässt Ukrainer bis zum Alter von 22 Jahren ausreisen",
     "Genf - Iran und europäische Staaten verhandeln über umstrittenes Atomprogramm",
     "Nach Entlassung von US-Notenbank-Gouverneurin - Fed: Abberufung nur aus wichtigem Grund möglich",
@@ -3003,12 +3000,12 @@
     "Innenpolitik - SPD-Abgeordnete: Prien-Aussage zu Extremismus \"irritiert uns extrem\"",
     "Inklusion und Integration: Studie: Nachrichten in leichter Sprache zentral für Teilhabe",
     "Sapad 2025 - Russland und Belarus senden mit Militärmanöver Signal an NATO",
-    "Nach NRW-Kommunalwahlen: Noch ist die SPD nicht verloren"
+    "Nach NRW-Kommunalwahlen: Noch ist die SPD nicht verloren",
+    "Bundestag - Reichinnek kritisiert Haushaltsentwurf für 2025 - \"Herbst der sozialen Grausamkeiten\"",
+    "Grünen-Fraktion - Erste kleinwüchsige Abgeordnete Fischer wirbt für mehr Diversität im Bundestag",
+    "Liveblog Bundespolitik: Spahn wirft AfD „Verrat am Vaterland“ vor"
   ],
   "hashes": [
-    "34c1ac569ec6ea9b11ea491a58f52fac",
-    "52656b506c8742e4a0e23015f7d81145",
-    "818ddff010bdac6950635a29010d46d6",
     "517ccfa6832324f42d4e20477cd35e4e",
     "5084d9a73da5dfb040c12921a64b707d",
     "2dac50f785c3cf136cf909b0bfdb4bcb",
@@ -4005,6 +4002,9 @@
     "e4c1e40b69bf26fa64a760a9f6e9b4f4",
     "6743e63f7f2a4495f0d31a2c8908bde3",
     "759113552438b59f3f7640990ca56f7d",
-    "395cbaf3375f7afc47dedb8aba92daed"
+    "395cbaf3375f7afc47dedb8aba92daed",
+    "8a542f850eb367b7256b9612ebf1b9d2",
+    "7fa0bc0644b06bad2ab85528c589fdce",
+    "fe170f5e7438f9efd103e492793307f3"
   ]
 }
