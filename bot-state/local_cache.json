@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bewaehrungsstrafe-fuer-16-jaehrigen-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/mordanklage-wegen-anschlag-auf-demo-in-muenchen-erhoben-102.html",
     "https://www.deutschlandfunk.de/deutschland-prueft-wieder-aufnahmen-von-afghanen-aus-pakistan-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-uebergangsunterkuenfte-fuer-gazastreifen-bereitstellen-100.html",
     "https://www.deutschlandfunk.de/rheinmetall-will-in-bulgarien-munitionsfabrik-errichten-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/haushaltsdebatte-bundesfinanzminister-klingbeil-verteidigt-etat-106.html",
     "https://www.deutschlandfunk.de/zentralrat-der-juden-in-deutschland-begeht-75-jubilaeum-mit-neujahrsempfang-100.html",
     "https://www.deutschlandfunk.de/vorwuerfe-gegen-israel-uno-kommission-sieht-vier-von-fuenf-kriterien-fuer-genozid-im-gazastreifen-er-104.html",
-    "https://www.deutschlandfunk.de/lukaschenko-begnadigt-25-politische-gefangene-102.html"
+    "https://www.deutschlandfunk.de/lukaschenko-begnadigt-25-politische-gefangene-102.html",
+    "https://www.deutschlandfunk.de/tausende-protestieren-gegen-fico-regierung-102.html",
+    "https://www.deutschlandfunk.de/generaldebatte-zur-politik-der-bundesregierung-100.html"
   ],
   "content_hashes": [
-    "08210478c79242327ffda72b56dfb406",
-    "b6294f53d71a7930c3463089666d3957",
     "33f118bb1eb9e3478e82a1c1a6060367",
     "1040c0d57ff65d37ccb7df1707043391",
     "87c4d557eae742a6075434e1b31343c8",
@@ -2001,11 +1999,11 @@
     "da6da115be48f1ef6f3324a7c5663a81",
     "1fc13bbda234b1e10425ddab2c871aea",
     "904b19a38b54e33ae382275d6d70743a",
-    "348f687bc2fdf50e220cc6866467cea1"
+    "348f687bc2fdf50e220cc6866467cea1",
+    "6802d92a46caf49286abe5fdeb05ac0f",
+    "336dffcf4da50b84bd2a43b6538b8c61"
   ],
   "titles": [
-    "Anschlagsplan für Taylor-Swift-Konzert in Wien - Bewährungsstrafe für 16-Jährigen in Berlin",
-    "Justiz - Mordanklage wegen Anschlag auf Demo in München erhoben",
     "Auswärtiges Amt - Deutschland prüft wieder Aufnahmen von Afghanen aus Pakistan",
     "Nahost - Bundesregierung will Übergangsunterkünfte für Gazastreifen bereitstellen",
     "Rüstung - Rheinmetall will in Bulgarien Munitionsfabrik errichten",
@@ -3003,11 +3001,11 @@
     "Bundestag - Haushaltsdebatte: Bundesfinanzminister Klingbeil verteidigt Etat 2025",
     "Religion - Zentralrat der Juden in Deutschland begeht 75. Jubiläum mit Neujahrsempfang",
     "Gazakrieg - Vorwürfe gegen Israel - UNO-Kommission sieht vier von fünf Kriterien für Genozid im Gazastreifen erfüllt",
-    "Belarus - Lukaschenko begnadigt 25 politische Gefangene"
+    "Belarus - Lukaschenko begnadigt 25 politische Gefangene",
+    "Slowakei - Tausende protestieren gegen Fico-Regierung",
+    "Bundestag - Generaldebatte zur Politik der Bundesregierung"
   ],
   "hashes": [
-    "fa4b90a05b9653e05f7eaea00c6cabd1",
-    "86bc43394238bd3b76f7a5de03742e54",
     "47c4fc3c24c84bf362939d090ee65ff4",
     "53ac2cbe68686bb89c44976370870421",
     "d3cb6c13cf2c3341faea99e1b09635e8",
@@ -4005,6 +4003,8 @@
     "868d74a3d044033946ed8c7851d9cc30",
     "823561c2ede92cba9c22e9945b951eda",
     "91367c125ea31a47d6f70824b9f00e26",
-    "d95703b91492dd2b3909ceea86237308"
+    "d95703b91492dd2b3909ceea86237308",
+    "69bc38b24b113291f28849981bfddab1",
+    "5d652a76bafaea42f2b56bc17fa8b2a1"
   ]
 }
