@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verlaengerung-der-stadtautobahn-a100-offiziell-eroeffnet-kritiker-monieren-hohe-baukosten-100.html",
-    "https://www.deutschlandfunk.de/papst-leo-warnt-vor-kollektiver-bestrafung-in-gaza-100.html",
     "https://www.deutschlandfunk.de/80-jahre-evangelische-kirche-in-deutschland-katholiken-gratulieren-100.html",
     "https://www.spiegel.de/netzwelt/netzpolitik/china-westliche-sicherheitsbehoerden-warnen-vor-chinesischen-staatshackern-a-3e848323-381e-4690-be6b-20a04efe687a#ref=rss",
     "https://www.spiegel.de/panorama/bahnunternehmen-akn-bei-hamburg-bildet-lokfuehrer-aus-malaysia-und-indien-aus-a-175646c6-7f25-4600-ac47-bf2994415ba4#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/waehlt-frankfurt-an-der-oder-den-ersten-afd-oberbuergermeister-110688672.html",
     "https://www.faz.net/aktuell/politik/inland/haushaltsdebatte-die-ungelegten-eier-der-koalition-110690778.html",
     "https://www.deutschlandfunk.de/patientenschuetzer-fordern-haertefallfonds-fuer-opfer-von-behandlungsfehlern-100.html",
-    "https://www.deutschlandfunk.de/ministerin-alabali-radovan-bedauert-kuerzungen-entwicklungshilfe-ist-lebensnotwendig-100.html"
+    "https://www.deutschlandfunk.de/ministerin-alabali-radovan-bedauert-kuerzungen-entwicklungshilfe-ist-lebensnotwendig-100.html",
+    "https://www.deutschlandfunk.de/merz-unterstuetzung-fuer-israel-ist-nicht-verhandelbar-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/die-eu-und-israel-sanktionen-bringen-nicht-viel-110690604.html"
   ],
   "content_hashes": [
-    "da370a9f2cbe6045f194281b4c627b40",
-    "c3aebc5565266e1aedc28b3fd6a8dc02",
     "481a2b1f10c8a1b02960efd2bf5532a5",
     "d5733ff3e45bc990afa7f7b38f2d1de0",
     "6068c1083c8c70cbfe619c0fe397407a",
@@ -2001,11 +1999,11 @@
     "99b5c3b238622b30bbd696863df56562",
     "e33af502e4fcdffb40e868ffd4340c1a",
     "3058325657281fec579296ec1bd774a8",
-    "fbfb21a053e2ae640b35d0e4317dc7f2"
+    "fbfb21a053e2ae640b35d0e4317dc7f2",
+    "e5c471a1de34ed738ac1016aec42e4ba",
+    "b1f8102dd10282c667788bcae47134b6"
   ],
   "titles": [
-    "Berlin - Verlängerung der Stadtautobahn A100 offiziell eröffnet - Kritiker monieren hohe Baukosten",
-    "Papst Leo warnt vor \"kollektiver Bestrafung\" in Gaza",
     "Religion - 80 Jahre Evangelische Kirche in Deutschland - Katholiken gratulieren",
     "China: Westliche Sicherheitsbehörden warnen vor chinesischen Staatshackern",
     "Fachkräftemangel: Bahnunternehmen AKN bei Hamburg bildet Lokführer aus Malaysia und Indien aus",
@@ -3003,11 +3001,11 @@
     "Frankfurt an der Oder: „Ich wähle nur noch AfD“, hören sie am SPD-Stand",
     "Haushaltsdebatte: Die ungelegten Eier der Koalition",
     "Medizinische Versorgung - Patientenschützer fordern Härtefallfonds für Opfer von Behandlungsfehlern",
-    "Generaldebatte - Ministerin Alabali Radovan bedauert Kürzungen: \"Entwicklungshilfe ist lebensnotwendig\""
+    "Generaldebatte - Ministerin Alabali Radovan bedauert Kürzungen: \"Entwicklungshilfe ist lebensnotwendig\"",
+    "Zentralrat der Juden - Merz: Unterstützung für Israel ist nicht verhandelbar",
+    "Angriff auf Gaza-Stadt: Sanktionen bringen nicht viel"
   ],
   "hashes": [
-    "56f5841507b56b336277d3079ea59a5a",
-    "51ed50e701bdecaa87d5b093e0382370",
     "b3cf046249f78529a21a70fe4a121849",
     "7ef448a2c726e5b1b0437b5089140ce3",
     "f44d79e3012ebfc2b1b7fb68bd393e7d",
@@ -4005,6 +4003,8 @@
     "781173afecfb8d0dec699de91a5ad7fa",
     "38af45d669cb642698a8e9a2208c90c9",
     "2d530f1f876601beb19a973f92b091f8",
-    "c36d271e52cc40dfd5b5017b73cd555b"
+    "c36d271e52cc40dfd5b5017b73cd555b",
+    "970ff11e97f75264d4ae8ece032e86c1",
+    "0d49efc0205ee6c58a6eeb22919e8233"
   ]
 }
