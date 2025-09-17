@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/weingut-schloss-proschwitz-wehrt-sich-gegen-afd-wahlwerbung-accg-110656666.html",
-    "https://www.deutschlandfunk.de/sueddeutsche-zeitung-deutsche-banken-blockieren-voruebergehend-paypal-zahlungen-100.html",
-    "https://www.deutschlandfunk.de/nrw-beginnt-zum-schulstart-mit-handysverboten-100.html",
     "https://www.deutschlandfunk.de/bildungsorganisationen-warnen-handy-verbote-schaffen-keine-medienkompetenz-100.html",
     "https://www.deutschlandfunk.de/linke-sorge-von-menschen-mit-migrationshintergrund-vor-kommunal-und-integrationsratswahlen-berechtig-100.html",
     "https://www.deutschlandfunk.de/absolut-widerlich-frueherer-generalmajor-der-us-nationalgarde-fuehlt-sich-durch-trumps-vorgehen-an-d-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mehrere-mitarbeiter-von-abgeordneten-erhalten-keine-hausausweise-106.html",
     "https://www.spiegel.de/politik/deutschland/polen-praesident-karol-nawrocki-verknuepft-reparationsforderung-mit-staerkung-der-nato-ost-flanke-a-b534cc85-66ff-4b52-8e96-fde317851b47#ref=rss",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-warnt-indien-vor-zusammenarbeit-mit-russland-100.html",
-    "https://www.deutschlandfunk.de/verbindungsbuero-des-europaeischen-parlaments-in-kiew-eroeffnet-100.html"
+    "https://www.deutschlandfunk.de/verbindungsbuero-des-europaeischen-parlaments-in-kiew-eroeffnet-100.html",
+    "https://www.deutschlandfunk.de/europaeischer-rechnungshof-mahnt-mehr-kooperation-wegen-arzneimittel-engpaessen-an-100.html",
+    "https://www.deutschlandfunk.de/durchsuchung-im-innenministerium-von-mecklenburg-vorpommern-wegen-untreueverdacht-100.html",
+    "https://www.deutschlandfunk.de/weimer-wuerdigt-zentralrat-der-juden-in-deutschland-zu-dessen-75-jaehrigem-bestehen-100.html"
   ],
   "content_hashes": [
-    "f65fa45d7013395d18521b1000785e9e",
-    "1f48f396b02fa8bf31eaeee285795707",
-    "d29ef61b0b5dd1cefd586e1d3c35d4a3",
     "d5291557dac3eeed17cd5b57ef652673",
     "2ef14f1ea92f005bc98bd9c9f8eea692",
     "606c5ec3fff420a572eb67a474d330d7",
@@ -2001,12 +1998,12 @@
     "9c49549787dc878f2503e063fd8a78e3",
     "24bd7ca38ed1735cdca08956df88311a",
     "d3979546a1c7305aeb70690e26969733",
-    "97c9b21d3c4e8fa57a989f8f4803d723"
+    "97c9b21d3c4e8fa57a989f8f4803d723",
+    "5fd34182ea19016cc3413095c1182fc6",
+    "104ace22c11e63b45e2228440b3b5abd",
+    "ed595f4bf8db46d9449371a60bdf4e88"
   ],
   "titles": [
-    "Offenbar heimlich gedreht: „Ausbeutung unseres guten Rufs“: Schloss Proschwitz wehrt sich gegen AfD-Wahlwerbung",
-    "Finanzen - Süddeutsche Zeitung: Deutsche Banken blockieren vorübergehend Paypal-Zahlungen",
-    "Bildung - NRW beginnt zum Schulstart mit Handysverboten",
     "Bundeselternrat, Kinderhilfswerk & Co - Bildungsorganisationen warnen: Handy-Verbote schaffen keine Medienkompetenz",
     "\"Remigrations\"-Debatten und Wahldaten - Linke: Sorge von Menschen mit Migrationshintergrund vor Kommunal- und Integrationsratswahlen berechtigt",
     "USA - \"Absolut widerlich\" - früherer Generalmajor der US-Nationalgarde fühlt sich durch Trumps Vorgehen an Deutschland der 1930er Jahre erinnert",
@@ -3003,12 +3000,12 @@
     "Bundestag - Mehrere Mitarbeiter von Abgeordneten erhalten keine Hausausweise",
     "Polen: Präsident Karol Nawrocki verknüpft Reparationsforderung mit Stärkung der Nato-Ost-Flanke",
     "Handelsstreit - EU-Außenbeauftragte Kallas warnt Indien vor Zusammenarbeit mit Russland",
-    "Ukraine - Verbindungsbüro des Europäischen Parlaments in Kiew eröffnet"
+    "Ukraine - Verbindungsbüro des Europäischen Parlaments in Kiew eröffnet",
+    "Medikamente - Europäischer Rechnungshof mahnt mehr Kooperation wegen Arzneimittel-Engpässen an",
+    "Schwerin - Durchsuchung im Innenministerium von Mecklenburg-Vorpommern wegen Untreueverdacht",
+    "Religion - Weimer würdigt Zentralrat der Juden in Deutschland zu dessen 75-jährigem Bestehen"
   ],
   "hashes": [
-    "acc4413083a8fd19cc3c6491b80e1e2e",
-    "25165c3f4a31bcc1c0f51b1f05534fbe",
-    "8970134930a1d3d05d3614c225fe9e8a",
     "fb30daac4d1c64ea1665f178647fa8f0",
     "b8134501da738c570e298db902759881",
     "ffa235145b4a9949746f56206a953909",
@@ -4005,6 +4002,9 @@
     "dea2439f884bce1385c7cfda18a48f5e",
     "97d78468497c235cabf2ffe930751a0c",
     "9ffb9943f971311e6ed8edb3c709ae90",
-    "e6daf27c01e2137a0dbe9fd4f7a6d2db"
+    "e6daf27c01e2137a0dbe9fd4f7a6d2db",
+    "569250e7e0ada6569b1d6b6ae5493f36",
+    "711b2923402288d114df18231363d87f",
+    "3bcae221ad2c359a0b76ab74df725171"
   ]
 }
