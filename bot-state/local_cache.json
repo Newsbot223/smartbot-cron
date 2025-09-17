@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-essen-weniger-fisch-100.html",
-    "https://www.deutschlandfunk.de/wie-stark-de-stabilisiert-trump-den-finanzsektor-hans-peter-burghof-uni-hoh-100.html",
     "https://www.faz.net/aktuell/politik/ausland/terrorplaene-bei-swift-konzert-bewaehrungsstrafe-fuer-helfer-110655683.html",
     "https://www.deutschlandfunk.de/bundesregierung-laesst-wieder-aufnahmen-von-ehemaligen-afghanischen-ortskraeften-pruefen-100.html",
     "https://www.deutschlandfunk.de/nicht-akzeptabel-merz-kritisiert-israelischen-angriff-auf-krankenhaus-in-gaza-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wieder-diskussionen-ueber-das-deutschlandticket-104.html",
     "https://www.deutschlandfunk.de/us-staatsanwaltschaft-erhebt-anklage-wegen-mordes-gegen-22-jaehrigen-100.html",
     "https://www.deutschlandfunk.de/israelische-armee-setzt-trotz-heftiger-kritik-angriffe-auf-gaza-stadt-fort-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss"
+    "https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss",
+    "https://www.deutschlandfunk.de/papageien-und-schildkroeten-bei-razzien-gegen-tierhandel-gerettet-100.html",
+    "https://www.deutschlandfunk.de/trend-zu-groesseren-wohnungen-haelt-an-102.html"
   ],
   "content_hashes": [
-    "971b81680d57e0163fa32b757ae3547d",
-    "3822ad570f2f77e740441a4fac21b46e",
     "5cc5ab559c8b8785b9f24abc6aa3b105",
     "1ec9ac94d9e09671488ba24e505a3e29",
     "b2005be48fd96e8360cc9b9f0ad837d6",
@@ -2001,11 +1999,11 @@
     "55187fd14bc3512e4b83a1b2e2a7aab3",
     "719a585ac904343cde8852640ec91cc3",
     "ff406f59638341254e54c257683ceb36",
-    "775bccc9d77023f6a6b0bd1f826a5b34"
+    "775bccc9d77023f6a6b0bd1f826a5b34",
+    "91c4514113b670b48b5497e8c333e61a",
+    "a2bca6651cbf29d331d0d9693afbbb20"
   ],
   "titles": [
-    "Ernährung - Deutsche essen weniger Fisch",
-    "Trump vs. Fed - Bankexperte: Es geht in erster Linie um Zinsen",
     "Abgesagte Konzerte in Wien: Bewährungsstrafe für Komplizen wegen Terrorplänen bei Swift-Konzert",
     "Auswärtiges Amt - Bundesregierung lässt wieder Aufnahmen von ehemaligen afghanischen Ortskräften prüfen",
     "Nahost - \"Nicht akzeptabel\": Merz kritisiert israelischen Angriff auf Krankenhaus in Gaza",
@@ -3003,11 +3001,11 @@
     "Verkehr - Wieder Diskussionen über das Deutschlandticket",
     "Attentat auf Charlie Kirk - US-Staatsanwaltschaft erhebt Anklage wegen Mordes gegen 22-Jährigen",
     "Offensive auf Gaza - Menschen können nur langsam fliehen",
-    "Meyer Burger: 600 Beschäftigte in Deutschland gekündigt"
+    "Meyer Burger: 600 Beschäftigte in Deutschland gekündigt",
+    "Brasilien - Papageien und Schildkröten bei Razzien gegen Tierhandel gerettet",
+    "Statistik - Trend zu größeren Wohnungen hält an"
   ],
   "hashes": [
-    "37b3bbe256dbcc2ca594450d686d5297",
-    "785f2c262778c1fff3d92f8a217de203",
     "05c17b47446a91b906c29f1ccf44048c",
     "2982c03661723868d7c91993b01889ff",
     "b250ab897b982831700ac63c6d34ed0b",
@@ -4005,6 +4003,8 @@
     "db92875aa04e69bf44a587d5f7f345db",
     "2b6fffcf1a946caa2a83f1cac2532cb1",
     "18905f26b3fdf432084a5dda62d99e20",
-    "e655bcd000a2eba543a0c0ef2751e236"
+    "e655bcd000a2eba543a0c0ef2751e236",
+    "b203d32b71a3fa72f751e373f17163cc",
+    "6e7963c2b5f0d440024414ff5fb7f7dd"
   ]
 }
