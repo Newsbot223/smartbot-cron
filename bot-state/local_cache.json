@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-laesst-wieder-aufnahmen-von-ehemaligen-afghanischen-ortskraeften-pruefen-100.html",
-    "https://www.deutschlandfunk.de/nicht-akzeptabel-merz-kritisiert-israelischen-angriff-auf-krankenhaus-in-gaza-100.html",
     "https://www.spiegel.de/wissenschaft/deutschland-warum-essensreste-feuchtes-klopapier-tampons-nicht-in-die-toilette-gehoeren-a-fab72ccf-8290-42a0-ac7b-05a3368ea1e0#ref=rss",
     "https://www.deutschlandfunk.de/debatte-ueber-steuervorschlag-von-cdu-politiker-mattfeldt-102.html",
     "https://www.deutschlandfunk.de/russisches-aufklaerungsflugzeug-nato-alarmiert-deutsche-eurofighter-ueber-der-ostsee-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss",
     "https://www.deutschlandfunk.de/papageien-und-schildkroeten-bei-razzien-gegen-tierhandel-gerettet-100.html",
     "https://www.deutschlandfunk.de/trend-zu-groesseren-wohnungen-haelt-an-102.html",
-    "https://www.deutschlandfunk.de/mutmasslicher-spion-hingerichtet-102.html"
+    "https://www.deutschlandfunk.de/mutmasslicher-spion-hingerichtet-102.html",
+    "https://www.deutschlandfunk.de/verdaechtiger-im-fall-maddie-aus-haft-entlassen-102.html",
+    "https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss"
   ],
   "content_hashes": [
-    "1ec9ac94d9e09671488ba24e505a3e29",
-    "b2005be48fd96e8360cc9b9f0ad837d6",
     "3ce40feb03d0abda44db0a428155d0ca",
     "4a92fa55a6f723173d57d2fc24f908c0",
     "aa3e664c615e8d950a4156c55755ec15",
@@ -2001,11 +1999,11 @@
     "775bccc9d77023f6a6b0bd1f826a5b34",
     "91c4514113b670b48b5497e8c333e61a",
     "a2bca6651cbf29d331d0d9693afbbb20",
-    "179a14b5b155ab0e034468f1bac0a167"
+    "179a14b5b155ab0e034468f1bac0a167",
+    "98e4a607a7f4cbd1751d5bf03be989ce",
+    "58c9a7af06ca52df113f27b5d052237e"
   ],
   "titles": [
-    "Auswärtiges Amt - Bundesregierung lässt wieder Aufnahmen von ehemaligen afghanischen Ortskräften prüfen",
-    "Nahost - \"Nicht akzeptabel\": Merz kritisiert israelischen Angriff auf Krankenhaus in Gaza",
     "Deutschland: Warum Essensreste, feuchtes Klopapier, Tampons nicht in die Toilette gehören",
     "Regierungskoalition - Debatte über Steuervorschlag von CDU-Politiker Mattfeldt",
     "Fliegerhorst Rostock-Laage - Russisches Aufklärungsflugzeug: NATO alarmiert deutsche Eurofighter über der Ostsee",
@@ -3003,11 +3001,11 @@
     "Meyer Burger: 600 Beschäftigte in Deutschland gekündigt",
     "Brasilien - Papageien und Schildkröten bei Razzien gegen Tierhandel gerettet",
     "Statistik - Trend zu größeren Wohnungen hält an",
-    "Iran - Mutmaßlicher Spion hingerichtet"
+    "Iran - Mutmaßlicher Spion hingerichtet",
+    "Kriminalität - Verdächtiger im Fall Maddie aus Haft entlassen",
+    "Generaldebatte im Bundestag: Friedrich Merz stellt Bürger auf tiefgreifende Veränderungen ein"
   ],
   "hashes": [
-    "2982c03661723868d7c91993b01889ff",
-    "b250ab897b982831700ac63c6d34ed0b",
     "16fd677061df5c0989bf5a500451dd65",
     "73dffb9a0433ec0c5b0079d945e47f63",
     "4ff9f0d6373a9ab3147d910f08d23b5b",
@@ -4005,6 +4003,8 @@
     "e655bcd000a2eba543a0c0ef2751e236",
     "b203d32b71a3fa72f751e373f17163cc",
     "6e7963c2b5f0d440024414ff5fb7f7dd",
-    "5171c135b65cebf19389599564994e65"
+    "5171c135b65cebf19389599564994e65",
+    "961a3e45ec5ea7e491d0181fc7d7743d",
+    "048131db41425dd3e705f9aa62ab809d"
   ]
 }
