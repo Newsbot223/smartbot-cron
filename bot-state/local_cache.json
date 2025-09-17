@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iran-und-europaeische-staaten-verhandeln-ueber-umstrittenes-atomprogramm-102.html",
-    "https://www.deutschlandfunk.de/fed-abberufung-nur-aus-wichtigem-grund-moeglich-100.html",
-    "https://www.deutschlandfunk.de/gesetzesvorlagen-zielen-auf-staerkung-der-verteidigungsfaehigkeit-100.html",
-    "https://www.deutschlandfunk.de/gemeinsamer-besuch-von-merz-macron-und-tusk-100.html",
     "https://www.deutschlandfunk.de/aegypten-verstaerkt-truppen-entlang-der-grenze-zum-gazastreifen-104.html",
     "https://www.deutschlandfunk.de/rekord-bei-deutschen-ruestungsgueter-exporten-in-100.html",
     "https://www.deutschlandfunk.de/fluchtgefahr-richter-ordnet-lueckenlose-ueberwachung-von-ex-praesident-bolsonaros-an-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/reichinnek-kritisiert-haushaltsentwurf-fuer-2025-herbst-der-sozialen-grausamkeiten-100.html",
     "https://www.deutschlandfunk.de/erste-kleinwuechsige-abgeordnete-fischer-wirbt-fuer-mehr-diversitaet-im-bundestag-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-spahn-wirft-afd-verrat-am-vaterland-vor-faz-110093143.html",
-    "https://www.deutschlandfunk.de/badeverbot-fuer-den-rhein-in-koeln-in-kraft-getreten-100.html"
+    "https://www.deutschlandfunk.de/badeverbot-fuer-den-rhein-in-koeln-in-kraft-getreten-100.html",
+    "https://www.deutschlandfunk.de/saarland-bringt-aenderung-der-landesverfassung-102.html",
+    "https://www.deutschlandfunk.de/juedische-studenten-aeussern-aengste-und-sorgen-an-deutschen-universitaeten-102.html",
+    "https://www.deutschlandfunk.de/kanzler-verkuendet-einigung-bei-aktivrente-steuerfreiheit-auf-ueberstunden-102.html",
+    "https://www.deutschlandfunk.de/weidel-wirft-merz-vor-all-sein-wahlversprechen-gebrochen-zu-haben-102.html"
   ],
   "content_hashes": [
-    "716f9b43acd91014a11b9c9156e26eb8",
-    "c8435c3effc9688e0a485d5de9dd82ea",
-    "947b47ad08d0813af6bef99d38dc331c",
-    "3df55d1353b788dd3c63f572412fc00e",
     "864f814a67fc8dfca1494bdc465e65bc",
     "ce1c05e3cc5fc6568750c188ff2634e2",
     "fb20fe168dffadd668f47b0b2c31d735",
@@ -2001,13 +1997,13 @@
     "fbfad167485cbc8ebf4b5957b4b40124",
     "eaf1319f6be6b7df329a22ba13b7c8a9",
     "f06012b8349c5fafb194171386913958",
-    "06956d4f97ec180daa62e430d725e0b3"
+    "06956d4f97ec180daa62e430d725e0b3",
+    "6b424968e1a18c3291bc2318f9e83b37",
+    "d2ecdc56b85c75f2d110117203bde1c2",
+    "d05964cc1749cd8ece778eb43e0ba4ee",
+    "68fae46fc256c9170e6ffb3325600e92"
   ],
   "titles": [
-    "Genf - Iran und europäische Staaten verhandeln über umstrittenes Atomprogramm",
-    "Nach Entlassung von US-Notenbank-Gouverneurin - Fed: Abberufung nur aus wichtigem Grund möglich",
-    "Kabinett - Gesetzesvorlagen zielen auf Stärkung der Verteidigungsfähigkeit",
-    "Moldau - Gemeinsamer Besuch von Merz, Macron und Tusk",
     "Nahost - Ägypten verstärkt Truppen entlang der Grenze zum Gazastreifen",
     "Medienbericht - Rekord bei deutschen Rüstungsgüter-Exporten in 2024",
     "Brasilien - \"Fluchtgefahr\": Richter ordnet lückenlose Überwachung von Ex-Präsident Bolsonaros an",
@@ -3003,13 +2999,13 @@
     "Bundestag - Reichinnek kritisiert Haushaltsentwurf für 2025 - \"Herbst der sozialen Grausamkeiten\"",
     "Grünen-Fraktion - Erste kleinwüchsige Abgeordnete Fischer wirbt für mehr Diversität im Bundestag",
     "Liveblog Bundespolitik: Spahn wirft AfD „Verrat am Vaterland“ vor",
-    "Gefährlicher Fluss - Badeverbot für den Rhein in Köln in Kraft getreten"
+    "Gefährlicher Fluss - Badeverbot für den Rhein in Köln in Kraft getreten",
+    "Staatsrecht - Saarland bringt Änderung der Landesverfassung",
+    "Gazakrieg - Jüdische Studenten äußern Ängste und Sorgen an deutschen Universitäten",
+    "Wirtschaft - Kanzler verkündet Einigung bei Aktivrente - Steuerfreiheit auf Überstunden",
+    "Bundestag - Weidel wirft Merz vor, all sein Wahlversprechen gebrochen zu haben"
   ],
   "hashes": [
-    "5084d9a73da5dfb040c12921a64b707d",
-    "2dac50f785c3cf136cf909b0bfdb4bcb",
-    "e084e8ed72487e2a2bc7036b3b54e91d",
-    "f139c78ecb34f4215773e0b78fd5556d",
     "4c514bb65636f7099c920b02e7a0f979",
     "86e1da8e72f3087eb0a0c09004eb9aa8",
     "a8f0bed0c48af0e6e85bf4d0a2ba4dbb",
@@ -4005,6 +4001,10 @@
     "8a542f850eb367b7256b9612ebf1b9d2",
     "7fa0bc0644b06bad2ab85528c589fdce",
     "fe170f5e7438f9efd103e492793307f3",
-    "01cf1389886997efb4ca1b0c36f06864"
+    "01cf1389886997efb4ca1b0c36f06864",
+    "b7b25ab40c5fc53dcf1a656f51f07939",
+    "764c7fa7e0802557b5c3ce1f5ec507aa",
+    "49a857f9ad6f587617f02bf9133f63bb",
+    "4b586a082c1956705fa6f9cdd6602cb4"
   ]
 }
