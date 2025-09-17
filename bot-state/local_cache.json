@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/linke-sorge-von-menschen-mit-migrationshintergrund-vor-kommunal-und-integrationsratswahlen-berechtig-100.html",
-    "https://www.deutschlandfunk.de/absolut-widerlich-frueherer-generalmajor-der-us-nationalgarde-fuehlt-sich-durch-trumps-vorgehen-an-d-100.html",
-    "https://www.deutschlandfunk.de/cdu-politikerin-breher-ist-neue-tierschutzbeauftragte-100.html",
-    "https://www.spiegel.de/wirtschaft/service/deutsche-konsumenten-halten-ihr-geld-staerker-zusammen-a-8714d31f-2340-42ab-b49d-6bd97904a110#ref=rss",
     "https://www.deutschlandfunk.de/regierung-entschuldigt-sich-bei-groenlaenderinnen-fuer-zwangsverhuetung-100.html",
     "https://www.deutschlandfunk.de/sechs-tote-syrien-verurteilt-anhaltende-angriffe-israels-100.html",
     "https://www.deutschlandfunk.de/verlaengerung-der-stadtautobahn-a100-offiziell-eroeffnet-kritiker-monieren-hohe-baukosten-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/europaeischer-rechnungshof-mahnt-mehr-kooperation-wegen-arzneimittel-engpaessen-an-100.html",
     "https://www.deutschlandfunk.de/durchsuchung-im-innenministerium-von-mecklenburg-vorpommern-wegen-untreueverdacht-100.html",
     "https://www.deutschlandfunk.de/weimer-wuerdigt-zentralrat-der-juden-in-deutschland-zu-dessen-75-jaehrigem-bestehen-100.html",
-    "https://www.deutschlandfunk.de/neue-verhandlungen-zum-deutschlandticket-anhebung-auf-62-euro-im-gespraech-100.html"
+    "https://www.deutschlandfunk.de/neue-verhandlungen-zum-deutschlandticket-anhebung-auf-62-euro-im-gespraech-100.html",
+    "https://www.deutschlandfunk.de/rechnungshof-kritisiert-geplante-neuverschuldung-100.html",
+    "https://www.deutschlandfunk.de/geldstrafe-fuer-ex-praesident-bolsonaro-wegen-rassistischer-aeusserungen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/waehlt-frankfurt-an-der-oder-den-ersten-afd-oberbuergermeister-110688672.html",
+    "https://www.faz.net/aktuell/politik/inland/haushaltsdebatte-die-ungelegten-eier-der-koalition-110690778.html"
   ],
   "content_hashes": [
-    "2ef14f1ea92f005bc98bd9c9f8eea692",
-    "606c5ec3fff420a572eb67a474d330d7",
-    "b57ff638cbc5a27a41133968e0c9c0d6",
-    "f718efbff0e88b92eaa89283fc103951",
     "ff67b39cab9958d58caea37772a121e9",
     "4b72aec320b561c1ac0a31f93c49cf54",
     "da370a9f2cbe6045f194281b4c627b40",
@@ -2001,13 +1997,13 @@
     "5fd34182ea19016cc3413095c1182fc6",
     "104ace22c11e63b45e2228440b3b5abd",
     "ed595f4bf8db46d9449371a60bdf4e88",
-    "d1ad34558b122182d4019ea4c69cafd9"
+    "d1ad34558b122182d4019ea4c69cafd9",
+    "a655d72af652f0225bd1c6fd27c7370c",
+    "d46cc4154b8b8fc23c83ac9bd86c7068",
+    "99b5c3b238622b30bbd696863df56562",
+    "e33af502e4fcdffb40e868ffd4340c1a"
   ],
   "titles": [
-    "\"Remigrations\"-Debatten und Wahldaten - Linke: Sorge von Menschen mit Migrationshintergrund vor Kommunal- und Integrationsratswahlen berechtigt",
-    "USA - \"Absolut widerlich\" - früherer Generalmajor der US-Nationalgarde fühlt sich durch Trumps Vorgehen an Deutschland der 1930er Jahre erinnert",
-    "Regierung - CDU-Politikerin Breher ist neue Tierschutzbeauftragte",
-    "Deutsche Konsumenten halten ihr Geld stärker zusammen",
     "Dänemark - Regierung entschuldigt sich bei Grönländerinnen für Zwangsverhütung",
     "Damaskus - Sechs Tote - Syrien verurteilt anhaltende Angriffe Israels",
     "Berlin - Verlängerung der Stadtautobahn A100 offiziell eröffnet - Kritiker monieren hohe Baukosten",
@@ -3003,13 +2999,13 @@
     "Medikamente - Europäischer Rechnungshof mahnt mehr Kooperation wegen Arzneimittel-Engpässen an",
     "Schwerin - Durchsuchung im Innenministerium von Mecklenburg-Vorpommern wegen Untreueverdacht",
     "Religion - Weimer würdigt Zentralrat der Juden in Deutschland zu dessen 75-jährigem Bestehen",
-    "Mobilität - Neue Verhandlungen zum Deutschlandticket - Anhebung auf 62 Euro im Gespräch"
+    "Mobilität - Neue Verhandlungen zum Deutschlandticket - Anhebung auf 62 Euro im Gespräch",
+    "Bundeshaushalt - Rechnungshof kritisiert geplante Neuverschuldung",
+    "Brasilien - Geldstrafe für Ex-Präsident Bolsonaro wegen rassistischer Äußerungen",
+    "Frankfurt an der Oder: „Ich wähle nur noch AfD“, hören sie am SPD-Stand",
+    "Haushaltsdebatte: Die ungelegten Eier der Koalition"
   ],
   "hashes": [
-    "b8134501da738c570e298db902759881",
-    "ffa235145b4a9949746f56206a953909",
-    "cb125692906d706bfe57cacb13340cce",
-    "5011871b0aec80824ee6eeaf76e16764",
     "3f301b8cecb4df1783dcd3920a1d5d58",
     "7129d73a0005bd2080ac4ba0680c441f",
     "56f5841507b56b336277d3079ea59a5a",
@@ -4005,6 +4001,10 @@
     "569250e7e0ada6569b1d6b6ae5493f36",
     "711b2923402288d114df18231363d87f",
     "3bcae221ad2c359a0b76ab74df725171",
-    "1010c68ac4e9c0fbe019019e20494688"
+    "1010c68ac4e9c0fbe019019e20494688",
+    "e6f69ae4e5365bf3412385b162a86c68",
+    "dbb6724390a0e7b1a2685ebaa85421b0",
+    "781173afecfb8d0dec699de91a5ad7fa",
+    "38af45d669cb642698a8e9a2208c90c9"
   ]
 }
