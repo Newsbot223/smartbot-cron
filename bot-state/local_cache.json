@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nationaler-sicherheitsrat-es-fehlt-an-strategischem-denken-110657453.html",
-    "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-14-tote-102.html",
     "https://www.deutschlandfunk.de/wadephul-reist-zu-antrittsbesuchen-nach-estland-und-daenemark-102.html",
     "https://www.deutschlandfunk.de/erste-abgelehnte-asylbewerber-aus-usa-in-ruanda-gelandet-100.html",
     "https://www.deutschlandfunk.de/fuehrende-europaeische-politiker-verurteilen-massive-russische-angriffe-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hausaerzteverband-dringt-auf-umfassende-reformen-100.html",
     "https://www.deutschlandfunk.de/premierminister-starmer-empfaengt-trump-100.html",
     "https://www.deutschlandfunk.de/urteil-sechs-und-sieben-jahre-haft-fuer-is-terroristen-100.html",
-    "https://www.faz.net/aktuell/feuilleton/debatten/deutsche-kampfdrohnen-helsing-und-stark-defence-fuehrend-accg-110676865.html"
+    "https://www.faz.net/aktuell/feuilleton/debatten/deutsche-kampfdrohnen-helsing-und-stark-defence-fuehrend-accg-110676865.html",
+    "https://www.deutschlandfunk.de/buendnis-stellt-konkrete-fordungen-fuer-den-kampf-gegen-den-antisemitismus-100.html",
+    "https://www.deutschlandfunk.de/militaer-greift-raffinerien-in-russland-mit-drohnen-an-102.html"
   ],
   "content_hashes": [
-    "b83b03a4e36eafa9ed9fe90491be2f90",
-    "3410bba61cc5918f0ece4e1a95d954f9",
     "61b45cdf3854943087b10797c0bcecb2",
     "11756165d7136d4e6e45a33db999b8b4",
     "4d6018a5ef4b738d87775bf3ec57645f",
@@ -2001,11 +1999,11 @@
     "bacb09adc04ee28b24afd41b5b01ca91",
     "fa8e28cf53235902e2cd0cd3aa780998",
     "23a111efe5b7ff64609286b0d05fc03a",
-    "20c3975c8f2969a209b3034f5156f022"
+    "20c3975c8f2969a209b3034f5156f022",
+    "c99f7462b0ca24b9332fb09fbe7da9be",
+    "c30441710dfa23008c6984eeb417c5bf"
   ],
   "titles": [
-    "Nationaler Sicherheitsrat: Es fehlt an strategischem Denken",
-    "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens 14 Tote",
     "Sicherheitspolitik - Wadephul reist zu Antrittsbesuchen nach Estland und Dänemark",
     "Migrationsabkommen - Erste abgelehnte Asylbewerber aus USA in Ruanda gelandet",
     "Krieg in der Ukraine - Führende europäische Politiker verurteilen massive russische Angriffe",
@@ -3003,11 +3001,11 @@
     "Gesundheit - Hausärzteverband dringt auf umfassende Reformen",
     "Großbritannien - Premierminister Starmer empfängt Trump",
     "Düsseldorf - Urteil: Sechs und sieben Jahre Haft für IS-Terroristen",
-    "Helsing und Stark Defence: Wer will deutsche Kampfdrohnen?"
+    "Helsing und Stark Defence: Wer will deutsche Kampfdrohnen?",
+    "Jüdisches Leben - Bündnis stellt konkrete Fordungen für den Kampf gegen den Antisemitismus",
+    "Ukraine - Militär greift Raffinerien in Russland mit Drohnen an"
   ],
   "hashes": [
-    "28ac8d591dae7ff6f77bbca51645d404",
-    "9b26fe12702ebb28e70ca209f0c8d4e7",
     "c8f88cdf3df1e65a951efcd5b8620727",
     "83197f8f0eb13e75b8ed5f3399da76f7",
     "029b51e78b47c9111806bb0cdf5d93e9",
@@ -4005,6 +4003,8 @@
     "16a9c066b9c8ecd97020c74d5ad14c1a",
     "0cd5667004b2f550fa4c79dc9fc459a2",
     "e3f126ae91a703f78005a614c7042fee",
-    "68ae9ec450ddbea5ce935bf90c81519d"
+    "68ae9ec450ddbea5ce935bf90c81519d",
+    "19f4acc368bdb64e1d12b3115f6ba766",
+    "cc7c9d40adfa56759e8f93b88cb39fd0"
   ]
 }
