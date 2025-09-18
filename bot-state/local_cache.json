@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bundestagspraesidentin-julia-kloeckner-antwortet-auf-die-kritik-an-ihr-110657440.html",
-    "https://www.deutschlandfunk.de/russische-angriffe-auf-viele-ziele-in-der-ukraine-102.html",
-    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-weist-vorwurf-der-parteilichkeit-zurueck-102.html",
     "https://www.deutschlandfunk.de/kritik-an-israel-wegen-hungersnot-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/schusswaffenangriff-an-katholischer-schule-in-minneapolis-mit-drei-toten-und-17-verletzten-106.html",
     "https://www.deutschlandfunk.de/zweitaegige-klausurtagung-von-union-und-spd-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/staatsbankett-zu-ehren-trumps-auf-schloss-windsor-proteste-in-london-100.html",
     "https://www.deutschlandfunk.de/merz-reist-zu-antrittsbesuch-nach-madrid-100.html",
     "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-haushalt-2025-ab-100.html",
-    "https://www.deutschlandfunk.de/litauen-nimmt-verdaechtige-mit-verbindungen-zu-russischem-geheimdienst-fest-102.html"
+    "https://www.deutschlandfunk.de/litauen-nimmt-verdaechtige-mit-verbindungen-zu-russischem-geheimdienst-fest-102.html",
+    "https://www.deutschlandfunk.de/autobahnprojekte-verzoegern-sich-offenbar-wegen-milliarden-finanzluecke-100.html",
+    "https://www.deutschlandfunk.de/daenemark-kauft-erstmals-langstrecken-praezisionswaffen-100.html",
+    "https://www.deutschlandfunk.de/hunderttausende-zu-landesweiten-streiks-in-frankreich-erwartet-100.html"
   ],
   "content_hashes": [
-    "e30f528f946a26f2dc006ecbf4feb9df",
-    "277ca90809fff5c369c08ca6d96cf648",
-    "99f9ccb02ebdb5301c4210f38430f6f4",
     "2daf14163a7a552b281a69221b8d28e2",
     "87b009282b06a318c93e1f0dc0a5f223",
     "1fe207560d19e5f26d06cf58f4e5a15d",
@@ -2001,12 +1998,12 @@
     "5ccd545415a8164bb6e531fa63f8590a",
     "f1612d08e756d510108480e9980ed42d",
     "d3679bfe65c5dea4699083c4fd2d7ab2",
-    "621e993b5143ae6ac2b9d80e2330487d"
+    "621e993b5143ae6ac2b9d80e2330487d",
+    "65aa06d6bd81146b75a1a99827001273",
+    "3aa12d4b0eb10e1be0f4541762b4c703",
+    "1c9fe556f0ad20f3fb41ece4e772eb36"
   ],
   "titles": [
-    "Julia Klöckner: Die Präsidentin bezieht Position",
-    "Krieg - Russische Angriffe auf viele Ziele in der Ukraine",
-    "Interview - Bundestagspräsidentin Klöckner weist Vorwurf der Parteilichkeit zurück",
     "UNO-Sicherheitsrat - Kritik an Israel wegen Hungersnot im Gazastreifen",
     "USA - Schusswaffenangriff an katholischer Schule in Minneapolis mit drei Toten und 17 Verletzten",
     "Würzburg - Zweitägige Klausurtagung von Union und SPD",
@@ -3003,12 +3000,12 @@
     "Großbritannien - Staatsbankett zu Ehren Trumps auf Schloss Windsor - Proteste in London",
     "Spanien - Merz reist zu Antrittsbesuch nach Madrid",
     "Nach Generaldebatte - Bundestag stimmt über Haushalt 2025 ab",
-    "Nach Serie von Brandsätzen in Paketen - Litauen nimmt Verdächtige mit Verbindungen zu russischem Geheimdienst fest"
+    "Nach Serie von Brandsätzen in Paketen - Litauen nimmt Verdächtige mit Verbindungen zu russischem Geheimdienst fest",
+    "Keine neuen Freigaben - Autobahnprojekte verzögern sich offenbar wegen Milliarden-Finanzlücke",
+    "Bedrohung durch Russland - Dänemark kauft erstmals Langstrecken-Präzisionswaffen",
+    "Protest gegen Sparhaushalt - Hunderttausende zu landesweiten Streiks in Frankreich erwartet"
   ],
   "hashes": [
-    "e38647458e82c99d6d05ac09af5f14bc",
-    "e08531137ea4491aebacf2b9f4c34b53",
-    "0efd22fb826c59d4629781cb4b8f8e07",
     "8f06af82f0627ccfba0426b51bd498ee",
     "a265bbe58c66b22e1e7e445f61917b4f",
     "a228fa173976d916597eadf17e7810ca",
@@ -4005,6 +4002,9 @@
     "5aa4e7b27877c8b08c85a27804944e0f",
     "1d483cfe5a424524f70346bbd17a6c97",
     "6d905fb1cdf36c67226774265706c013",
-    "8626f29051a1f733c7b426afb83572ca"
+    "8626f29051a1f733c7b426afb83572ca",
+    "fe4fe3c3908135af60d6c47f1f763ec0",
+    "93444423f9049b11c13b30bd6debbc90",
+    "8ad6db7c79efbf69cc18188d6a87576f"
   ]
 }
