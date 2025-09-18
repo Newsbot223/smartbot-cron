@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-reist-zu-antrittsbesuchen-nach-estland-und-daenemark-102.html",
-    "https://www.deutschlandfunk.de/erste-abgelehnte-asylbewerber-aus-usa-in-ruanda-gelandet-100.html",
-    "https://www.deutschlandfunk.de/fuehrende-europaeische-politiker-verurteilen-massive-russische-angriffe-102.html",
-    "https://www.deutschlandfunk.de/bundesentwicklungsministerin-alabali-radovan-warnt-israel-vor-moeglichen-weiteren-deutschen-konseque-100.html",
     "https://www.deutschlandfunk.de/israelischer-bodeneinsatz-auf-militaergelaende-nahe-damaskus-100.html",
     "https://www.deutschlandfunk.de/queerbeauftragter-der-spd-lehnt-aenderungen-am-selbstbestimmungsgesetz-ab-kein-strukturelles-problem-102.html",
     "https://www.deutschlandfunk.de/deutsche-kinos-verkaufen-erneut-weniger-tickets-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/urteil-sechs-und-sieben-jahre-haft-fuer-is-terroristen-100.html",
     "https://www.faz.net/aktuell/feuilleton/debatten/deutsche-kampfdrohnen-helsing-und-stark-defence-fuehrend-accg-110676865.html",
     "https://www.deutschlandfunk.de/buendnis-stellt-konkrete-fordungen-fuer-den-kampf-gegen-den-antisemitismus-100.html",
-    "https://www.deutschlandfunk.de/militaer-greift-raffinerien-in-russland-mit-drohnen-an-102.html"
+    "https://www.deutschlandfunk.de/militaer-greift-raffinerien-in-russland-mit-drohnen-an-102.html",
+    "https://www.deutschlandfunk.de/preis-soll-von-derzeit-58-euro-auf-63-euro-steigen-100.html",
+    "https://www.deutschlandfunk.de/buendnis-stellt-konkrete-forderungen-fuer-den-kampf-gegen-den-antisemitismus-100.html",
+    "https://www.deutschlandfunk.de/langjaehriger-putin-vertrauter-verlaesst-den-kreml-100.html",
+    "https://www.deutschlandfunk.de/schaeden-von-gut-289-milliarden-euro-fuer-die-deutsche-wirtschaft-100.html"
   ],
   "content_hashes": [
-    "61b45cdf3854943087b10797c0bcecb2",
-    "11756165d7136d4e6e45a33db999b8b4",
-    "4d6018a5ef4b738d87775bf3ec57645f",
-    "3ca8c9e4fb32fb9a64e84b0a34ea8fa2",
     "d81f84450ede952b7e9f08753866c3cf",
     "4d2e29726d210e0f0364b8534ec02d2a",
     "e3d29d3916a0c367894643027b102a26",
@@ -2001,13 +1997,13 @@
     "23a111efe5b7ff64609286b0d05fc03a",
     "20c3975c8f2969a209b3034f5156f022",
     "c99f7462b0ca24b9332fb09fbe7da9be",
-    "c30441710dfa23008c6984eeb417c5bf"
+    "c30441710dfa23008c6984eeb417c5bf",
+    "fd7d7f63efb797c41b36ee6a3cdcb491",
+    "ddfa40d1bf87da14a99e441477851c75",
+    "576538d364cfc5815e008fbe16f6a3d7",
+    "ec8615b9ba767eb78a1626c527b31826"
   ],
   "titles": [
-    "Sicherheitspolitik - Wadephul reist zu Antrittsbesuchen nach Estland und Dänemark",
-    "Migrationsabkommen - Erste abgelehnte Asylbewerber aus USA in Ruanda gelandet",
-    "Krieg in der Ukraine - Führende europäische Politiker verurteilen massive russische Angriffe",
-    "Gaza-Krieg - Bundesentwicklungsministerin Alabali Radovan warnt Israel vor möglichen weiteren deutschen Konsequenzen",
     "Syrien - Israelischer Bodeneinsatz auf Militärgelände nahe Damaskus",
     "Fall Liebich - Queerbeauftragter der SPD lehnt Änderungen am Selbstbestimmungsgesetz ab - \"Kein strukturelles Problem\"",
     "Erstes Halbjahr - Deutsche Kinos verkaufen erneut weniger Tickets",
@@ -3003,13 +2999,13 @@
     "Düsseldorf - Urteil: Sechs und sieben Jahre Haft für IS-Terroristen",
     "Helsing und Stark Defence: Wer will deutsche Kampfdrohnen?",
     "Jüdisches Leben - Bündnis stellt konkrete Fordungen für den Kampf gegen den Antisemitismus",
-    "Ukraine - Militär greift Raffinerien in Russland mit Drohnen an"
+    "Ukraine - Militär greift Raffinerien in Russland mit Drohnen an",
+    "Deutschlandticket - Preis soll von derzeit 58 Euro auf 63 Euro steigen",
+    "Jüdisches Leben - Bündnis stellt konkrete Forderungen für den Kampf gegen den Antisemitismus",
+    "Moskau - Langjähriger Putin-Vertrauter verlässt den Kreml",
+    "Spionage, Sabotage, Datendiebstahl - Schäden von gut 289 Milliarden Euro für die deutsche Wirtschaft"
   ],
   "hashes": [
-    "c8f88cdf3df1e65a951efcd5b8620727",
-    "83197f8f0eb13e75b8ed5f3399da76f7",
-    "029b51e78b47c9111806bb0cdf5d93e9",
-    "65b096486965b27c429846f1fc6d8fe9",
     "916e124d67851ce4cd452e9eda127b4b",
     "5d754f8a2eaa4566edadfce7bcfabcac",
     "dd8fde9494343b7eac7a10a737a94b96",
@@ -4005,6 +4001,10 @@
     "e3f126ae91a703f78005a614c7042fee",
     "68ae9ec450ddbea5ce935bf90c81519d",
     "19f4acc368bdb64e1d12b3115f6ba766",
-    "cc7c9d40adfa56759e8f93b88cb39fd0"
+    "cc7c9d40adfa56759e8f93b88cb39fd0",
+    "1d63f94c117716becfe409e694f04426",
+    "591e073a205407167767df48eaaae0a0",
+    "e57eda34ba5702538afb37c53a76cc30",
+    "52d8d545b9b72ae5aaa83932574ddcc3"
   ]
 }
