@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trauerbeflaggung-nach-schusswaffenangriff-an-schule-mit-drei-toten-in-minneapolis-100.html",
-    "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-zehn-tote-100.html",
-    "https://www.deutschlandfunk.de/im-jahr-2024-knapp-2-400-neue-vermisstenfaelle-fuer-rotkreuz-suchdienst-100.html",
     "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-zwoelf-tote-100.html",
     "https://www.deutschlandfunk.de/weniger-neue-ausbildungsvertraege-trotz-mehr-auslaendischer-azubis-100.html",
     "https://www.deutschlandfunk.de/dgb-chefin-fahimi-gegen-kuerzen-von-sozialleistungen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundeskartellamt-billigt-uebernahme-von-mediamarkt-saturn-durch-jd-com-100.html",
     "https://www.deutschlandfunk.de/ministerin-warken-cdu-wirbt-fuer-gemeinschaftspraxen-zur-sicherstellung-medizinischer-versorgung-auf-100.html",
     "https://www.deutschlandfunk.de/abgeordnete-fordern-schnellere-digitalisierung-der-justiz-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kloeckner-stoppt-afd-mitarbeiter-sicherheitsrisiko-im-bundestag-110690564.html"
+    "https://www.faz.net/aktuell/politik/inland/kloeckner-stoppt-afd-mitarbeiter-sicherheitsrisiko-im-bundestag-110690564.html",
+    "https://www.deutschlandfunk.de/taliban-sperren-internet-in-mehreren-provinzen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ludwigshafen-wahlkampf-mit-armut-und-angst-und-ohne-afd-accg-110690669.html",
+    "https://www.faz.net/aktuell/politik/inland/wehrdienst-fuer-frauen-verteidigung-ist-nicht-nur-maennersache-110690369.html"
   ],
   "content_hashes": [
-    "0290236e0cbfcc53e0f6adf7b26b4ec0",
-    "1c5c505a1c0131101738d35835a9406e",
-    "78b66d4c6933439c8dd72b3e7782cd84",
     "eab7fc7f0e33e8ad3a874e23aa5e49b0",
     "f6cbac01ae8d39e69e284aef0a7ba2e8",
     "288d1d23bfffa0475e3faf3ea50a808d",
@@ -2001,12 +1998,12 @@
     "11c814f91ebf5c6d53fc31582bc8d0bb",
     "b3bd281753038f911bbb8ca28953c6dd",
     "c7d0458dad9d116e8a2b96edf4f9bfc8",
-    "13e4cb192e3f127734ffbe2dfe42c596"
+    "13e4cb192e3f127734ffbe2dfe42c596",
+    "882ea8c248cadafa77580bb0113af67f",
+    "9a243ef3ae7fbfdb3315e74a56db7d38",
+    "79409616a2cce89430fd93b0a53492c0"
   ],
   "titles": [
-    "USA - Trauerbeflaggung nach Schusswaffenangriff an Schule mit drei Toten in Minneapolis",
-    "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens zehn Tote",
-    "Vor allem Konfliktregionen wie Afghanistan und Ukraine - Im Jahr 2024 knapp 2.400 neue Vermisstenfälle für Rotkreuz-Suchdienst",
     "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens zwölf Tote",
     "Berufsbildung 2024 - Weniger neue Ausbildungsverträge trotz mehr ausländischer Azubis",
     "Umbau des Sozialstaats - DGB-Chefin Fahimi gegen Kürzen von Sozialleistungen",
@@ -3003,12 +3000,12 @@
     "China - Bundeskartellamt billigt Übernahme von MediaMarkt/Saturn durch JD.com",
     "Gesundheitspolitik - Ministerin Warken (CDU) wirbt für Gemeinschaftspraxen zur Sicherstellung medizinischer Versorgung auf dem Land",
     "Haushaltsberatungen - Abgeordnete fordern schnellere Digitalisierung der Justiz",
-    "Sicherheitsrisiko AfD: Der Bundestag zeigt sich wehrhaft"
+    "Sicherheitsrisiko AfD: Der Bundestag zeigt sich wehrhaft",
+    "Afghanistan - Taliban sperren Internet in mehreren Provinzen",
+    "Ludwigshafen: Wahlkampf mit Armut und Angst",
+    "Wehrdienst: Verteidigung ist nicht nur Männersache"
   ],
   "hashes": [
-    "1e50be064fd2ae3d5cde9a926d6fe210",
-    "324ba68fe643c689095422d21a00b775",
-    "740c6bddc0bbdaeb745b11430f5d17e7",
     "997f48ca23439874b06b0867fe95967a",
     "ddc7c917d5889767ccaea733dd1c44bf",
     "7bdf43880cba7df0f501b8edd50f0e69",
@@ -4005,6 +4002,9 @@
     "4f29dd87ffa03c2baa95407b3ae80630",
     "76dd12ea00eda412f362d4f55ae202e5",
     "921211e648a5fe86a240ce008ff7936d",
-    "aa1535a8b119caa4bb7116ac031dfa2d"
+    "aa1535a8b119caa4bb7116ac031dfa2d",
+    "9b4e51bd55274db0324cd03482d383f0",
+    "ce79e36e178cbe61a54c30c4ef759df7",
+    "8639f40489850626451ba49fd67fde01"
   ]
 }
