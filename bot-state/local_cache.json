@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/grossflaechige-russische-luftangriffe-mindestens-zwoelf-tote-100.html",
     "https://www.deutschlandfunk.de/weniger-neue-ausbildungsvertraege-trotz-mehr-auslaendischer-azubis-100.html",
     "https://www.deutschlandfunk.de/dgb-chefin-fahimi-gegen-kuerzen-von-sozialleistungen-100.html",
     "https://www.deutschlandfunk.de/trump-regierung-will-visa-fuer-auslaendische-studierende-und-journalisten-verkuerzen-100.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/kloeckner-stoppt-afd-mitarbeiter-sicherheitsrisiko-im-bundestag-110690564.html",
     "https://www.deutschlandfunk.de/taliban-sperren-internet-in-mehreren-provinzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/ludwigshafen-wahlkampf-mit-armut-und-angst-und-ohne-afd-accg-110690669.html",
-    "https://www.faz.net/aktuell/politik/inland/wehrdienst-fuer-frauen-verteidigung-ist-nicht-nur-maennersache-110690369.html"
+    "https://www.faz.net/aktuell/politik/inland/wehrdienst-fuer-frauen-verteidigung-ist-nicht-nur-maennersache-110690369.html",
+    "https://www.deutschlandfunk.de/hausaerzteverband-dringt-auf-umfassende-reformen-100.html"
   ],
   "content_hashes": [
-    "eab7fc7f0e33e8ad3a874e23aa5e49b0",
     "f6cbac01ae8d39e69e284aef0a7ba2e8",
     "288d1d23bfffa0475e3faf3ea50a808d",
     "ff175b8b1ac41b48720272eba9c48f2f",
@@ -2001,10 +2000,10 @@
     "13e4cb192e3f127734ffbe2dfe42c596",
     "882ea8c248cadafa77580bb0113af67f",
     "9a243ef3ae7fbfdb3315e74a56db7d38",
-    "79409616a2cce89430fd93b0a53492c0"
+    "79409616a2cce89430fd93b0a53492c0",
+    "bacb09adc04ee28b24afd41b5b01ca91"
   ],
   "titles": [
-    "Krieg in der Ukraine - Großflächige russische Luftangriffe - mindestens zwölf Tote",
     "Berufsbildung 2024 - Weniger neue Ausbildungsverträge trotz mehr ausländischer Azubis",
     "Umbau des Sozialstaats - DGB-Chefin Fahimi gegen Kürzen von Sozialleistungen",
     "USA - Trump-Regierung will Visa für ausländische Studierende und Journalisten verkürzen",
@@ -3003,10 +3002,10 @@
     "Sicherheitsrisiko AfD: Der Bundestag zeigt sich wehrhaft",
     "Afghanistan - Taliban sperren Internet in mehreren Provinzen",
     "Ludwigshafen: Wahlkampf mit Armut und Angst",
-    "Wehrdienst: Verteidigung ist nicht nur Männersache"
+    "Wehrdienst: Verteidigung ist nicht nur Männersache",
+    "Gesundheit - Hausärzteverband dringt auf umfassende Reformen"
   ],
   "hashes": [
-    "997f48ca23439874b06b0867fe95967a",
     "ddc7c917d5889767ccaea733dd1c44bf",
     "7bdf43880cba7df0f501b8edd50f0e69",
     "05b526957ca287cbde7f32a3cc726b06",
@@ -4005,6 +4004,7 @@
     "aa1535a8b119caa4bb7116ac031dfa2d",
     "9b4e51bd55274db0324cd03482d383f0",
     "ce79e36e178cbe61a54c30c4ef759df7",
-    "8639f40489850626451ba49fd67fde01"
+    "8639f40489850626451ba49fd67fde01",
+    "16a9c066b9c8ecd97020c74d5ad14c1a"
   ]
 }
