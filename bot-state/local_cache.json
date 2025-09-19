@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-auf-ueber-drei-millionen-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/staedtetagspraesident-jung-bemaengelt-unzureichende-integration-102.html",
-    "https://www.deutschlandfunk.de/fraktionsspitzen-von-union-und-spd-in-klausur-102.html",
     "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-aeussert-sich-ablehnend-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-in-dnipropetrowsk-nach-russischem-drohnenangriff-104.html",
     "https://www.deutschlandfunk.de/verfassungsgericht-setzt-regierungschefin-ab-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/diskussionen-in-eu-um-eingefrorene-russische-gelder-und-schaerfere-sanktionen-102.html",
     "https://www.deutschlandfunk.de/raeumungsklage-gegen-afd-partei-aeussert-vor-prozessauftakt-kompromissbereitschaft-100.html",
     "https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss",
-    "https://www.deutschlandfunk.de/monika-schnitzer-als-vorsitzende-des-sachverstaendigenrats-wiedergewaehlt-102.html"
+    "https://www.deutschlandfunk.de/monika-schnitzer-als-vorsitzende-des-sachverstaendigenrats-wiedergewaehlt-102.html",
+    "https://www.deutschlandfunk.de/eu-kommission-schlaegt-19-sanktionspaket-gegen-russland-vor-102.html",
+    "https://www.deutschlandfunk.de/bemuehungen-um-vergleich-gescheitert-102.html",
+    "https://www.spiegel.de/politik/afd-und-cdu-csu-in-zdf-umfrage-erstmals-gleichauf-laut-forschungsgruppe-wahlen-a-14155d58-8bd8-4d47-9195-768f104751c4#ref=rss"
   ],
   "content_hashes": [
-    "1dd50a8ed93f7faf8c6405b658ddf6c1",
-    "464056942e883052ffdb21d68b9f7655",
-    "63e147784b05e4ef5e928948a73af366",
     "8a8028020468aa848ca1268d045e07b5",
     "47e71d31c7beb574db85075b662ca7d3",
     "5529de9c21a0e9f5888708c8f2cfff43",
@@ -2001,12 +1998,12 @@
     "ab913c692a02f31259c490734aba1b99",
     "03c28b574820e6df4b3976888319980c",
     "bdd4f6c0348e61ca227a2447f7d64751",
-    "886d763dd5018af27ec041283ec71757"
+    "886d763dd5018af27ec041283ec71757",
+    "e740ae830e6d56707bca51709374be48",
+    "15f67dff45fe63c54c60e1442fd20b69",
+    "de32f0a348a353bf0141675594797706"
   ],
   "titles": [
-    "Bundesagentur für Arbeit - Zahl der Arbeitslosen auf über drei Millionen gestiegen",
-    "10 Jahre \"Wir schaffen das!\" - Städtetagspräsident Jung bemängelt unzureichende Integration",
-    "Würzburg - Fraktionsspitzen von Union und SPD in Klausur",
     "Soziales Pflichtjahr für Rentner - Bundesfamilienministerin Prien äußert sich ablehnend",
     "Ukraine - Zwei Tote in Dnipropetrowsk nach russischem Drohnenangriff",
     "Thailand - Verfassungsgericht setzt Regierungschefin ab",
@@ -3003,12 +3000,12 @@
     "Krieg gegen Ukraine - Diskussionen in EU um eingefrorene russische Gelder und schärfere Sanktionen",
     "Berlin - Räumungsklage gegen AfD - Partei äußert vor Prozessauftakt Kompromissbereitschaft",
     "Yad Vashem: Holocaust-Gedenkstätte soll Außenstelle in Deutschland bekommen",
-    "Wirtschaftsweisen - Monika Schnitzer als Vorsitzende des Sachverständigenrats wiedergewählt"
+    "Wirtschaftsweisen - Monika Schnitzer als Vorsitzende des Sachverständigenrats wiedergewählt",
+    "Krieg gegen Ukraine - EU-Kommission schlägt 19. Sanktionspaket gegen Russland vor",
+    "Räumungsklage gegen AfD - Bemühungen um Vergleich gescheitert",
+    "AfD und CDU/CSU in ZDF-Umfrage erstmals gleichauf laut Forschungsgruppe Wahlen"
   ],
   "hashes": [
-    "5075612a91712249836f36a0ff263827",
-    "4474d00bf5966a2cf64323a7f656a521",
-    "109c36552bb8428dacd8f300ed5ebb9b",
     "ec76e1ac0d5ccb634c7aef69fda4797b",
     "92cf1bcfd3ef1f1ac8a4778f27a25790",
     "1f6b8742ec706ed1666a491e32548531",
@@ -4005,6 +4002,9 @@
     "c59ce62b3e3f03fa641549abe392ee61",
     "a1047f55b0e1e49025cca72cba499ed5",
     "45b49e37bb84dd9f91d012a0a58c9191",
-    "e82e154b5b4b118ef0eab927efc3bfec"
+    "e82e154b5b4b118ef0eab927efc3bfec",
+    "69aab58c6fa67e9d13f21a0c54e0c350",
+    "8b5813a98715f38db30a4e70e57fadee",
+    "5905df673802edf73287f2d98f682dfe"
   ]
 }
