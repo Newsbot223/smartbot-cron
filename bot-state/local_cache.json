@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/einspruch/ueberfaellige-reform-kein-geschlechtswechsel-ohne-gutachten-110659393.html",
-    "https://www.deutschlandfunk.de/selenskyj-fordert-konkrete-sicherheitsgarantien-von-europaeern-102.html",
     "https://www.deutschlandfunk.de/wie-funktioniert-der-snapback-mechanismus-100.html",
     "https://www.deutschlandfunk.de/wie-angeschlagen-ist-russland-wirklich-interview-mit-andrej-gurkov-russlandexp-100.html",
     "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-auf-ueber-drei-millionen-gestiegen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/heusgen-fuer-schaerfere-sanktionen-gegen-russland-102.html",
     "https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss",
     "https://www.deutschlandfunk.de/massen-streiks-in-frankreich-100.html",
-    "https://www.deutschlandfunk.de/aktivistin-jani-silva-das-leben-von-umweltschuetzern-in-kolumbien-ist-wertlos-100.html"
+    "https://www.deutschlandfunk.de/aktivistin-jani-silva-das-leben-von-umweltschuetzern-in-kolumbien-ist-wertlos-100.html",
+    "https://www.deutschlandfunk.de/diskussionen-in-eu-um-eingefrorene-russische-gelder-und-schaerfere-sanktionen-102.html",
+    "https://www.deutschlandfunk.de/raeumungsklage-gegen-afd-partei-aeussert-vor-prozessauftakt-kompromissbereitschaft-100.html"
   ],
   "content_hashes": [
-    "94e15455d771edec9ce075742232cde3",
-    "c67cae68756c0c0e4d7960d53e8732ee",
     "48f9f4acea3dca6c8e49ef87abfc9ba4",
     "aab8e0495338e3949168949e5f51314d",
     "1dd50a8ed93f7faf8c6405b658ddf6c1",
@@ -2001,11 +1999,11 @@
     "831e913da01a908face449a261e5aeaa",
     "97e44556f5be2ab822eb48e9425c2324",
     "6a06c2fb0012ad1b99be88505c97b05e",
-    "a51e5ad254bf7e051bdef1012d8456fc"
+    "a51e5ad254bf7e051bdef1012d8456fc",
+    "ab913c692a02f31259c490734aba1b99",
+    "03c28b574820e6df4b3976888319980c"
   ],
   "titles": [
-    "Überfällige Reform: Kein Geschlechtswechsel ohne Gutachten",
-    "Ukraine - Selenskyj fordert konkrete Sicherheitsgarantien von Europäern",
     "Sanktionen gegen den Iran - Wie funktioniert der \"Snapback\"-Mechanismus?",
     "Ukraine-Krieg - Russlandexperte hält europäische Sanktionen für wirksam",
     "Bundesagentur für Arbeit - Zahl der Arbeitslosen auf über drei Millionen gestiegen",
@@ -3003,11 +3001,11 @@
     "Krieg gegen Ukraine - Heusgen für schärfere Sanktionen gegen Russland",
     "Migration: Erstmals weniger Geflüchtete in Deutschland seit 2011",
     "Frankreich - Massenproteste gegen Sparpläne der Regierung",
-    "Südamerika - Aktivistin Jani Silva: \"Das Leben von Umweltschützern in Kolumbien ist wertlos\""
+    "Südamerika - Aktivistin Jani Silva: \"Das Leben von Umweltschützern in Kolumbien ist wertlos\"",
+    "Krieg gegen Ukraine - Diskussionen in EU um eingefrorene russische Gelder und schärfere Sanktionen",
+    "Berlin - Räumungsklage gegen AfD - Partei äußert vor Prozessauftakt Kompromissbereitschaft"
   ],
   "hashes": [
-    "1e2e9754135e306359ba54057cd9b82b",
-    "7f952b542cd1b2a62ac98505929b2fe5",
     "8dcc3450dbd6afffe6f609ee9e73d6b5",
     "71e5cf8776fccd7cd4a0b953624c22d4",
     "5075612a91712249836f36a0ff263827",
@@ -4005,6 +4003,8 @@
     "702569545bed4f6da103ed901ea923a4",
     "6dbc34ba13ca6bc7aa558959526ae672",
     "8c98ff7583b2e8ad3f0e6fb443c43a9b",
-    "37c3452d2b5f92dcf2fcf32efe186781"
+    "37c3452d2b5f92dcf2fcf32efe186781",
+    "c59ce62b3e3f03fa641549abe392ee61",
+    "a1047f55b0e1e49025cca72cba499ed5"
   ]
 }
