@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesamt-fuer-migration-und-fluechtlinge-afghanische-frauen-und-maedchen-koennen-mit-hoher-wahrsche-100.html",
-    "https://www.deutschlandfunk.de/deutsche-politikerinnen-fordern-europaeische-alternativen-zu-zahlungsdienstleister-paypal-100.html",
-    "https://www.deutschlandfunk.de/kanzleramtschef-frei-erwartet-zusammenhalt-von-union-und-spd-beim-neuen-wehrdienst-102.html",
     "https://www.deutschlandfunk.de/iran-will-faire-verhandlungen-ueber-atomprogramm-auswaertiges-amt-fordert-deutsche-zu-ausreise-auf-100.html",
     "https://www.deutschlandfunk.de/gysi-schlaegt-neues-debattenformat-vor-100.html",
     "https://www.deutschlandfunk.de/selenskyj-fordert-von-konkrete-sicherheitsgarantien-von-europaeern-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/merz-und-sanchez-betonen-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
     "https://www.deutschlandfunk.de/viele-wissen-gar-nicht-dass-sie-eine-elektronische-patientenakte-haben-100.html",
     "https://www.deutschlandfunk.de/fast-jede-zweite-kommune-ohne-ladestationen-102.html",
-    "https://www.deutschlandfunk.de/journalistenverbaende-fordern-freilassung-von-investigativ-journalist-zamora-102.html"
+    "https://www.deutschlandfunk.de/journalistenverbaende-fordern-freilassung-von-investigativ-journalist-zamora-102.html",
+    "https://www.deutschlandfunk.de/schleswig-holsteins-verkehrsminister-haelt-preiserhoehung-fuer-notwendig-100.html",
+    "https://www.deutschlandfunk.de/ministerin-warken-cdu-arzneiversorgung-im-herbst-gewaehrleistet-europaeischer-rechnungshof-warnt-vor-102.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-kulturfoerderung-bei-antisemitismus-faellen-entziehen-102.html"
   ],
   "content_hashes": [
-    "ad4343a42f8584396b1e33e15b0ef049",
-    "54dc1ba0d839778186011d2041731345",
-    "533ebbddb03101cccc23565905224faf",
     "b216f7451ab3b36a23f47800e4606277",
     "e07c3dc445b92f027d4b13f2f43a8c34",
     "05d03bd77b41f4b3ccb25f24334dc8f6",
@@ -2001,12 +1998,12 @@
     "fa92e5078d06aee8c9c9e12bb94a4b07",
     "f051cf0da1dcdc586dd71d3af9d5d6cc",
     "ff7d1ac42598edd6e6250704264d4d26",
-    "a452b532ead3c63a887938a03182dff3"
+    "a452b532ead3c63a887938a03182dff3",
+    "33c530a78787f89646d0f9f2b44310f9",
+    "45206049fb93b977d26875da87282a44",
+    "f8f14c677146edc3b6545754f2fdae1f"
   ],
   "titles": [
-    "Bericht - Bundesamt für Migration und Flüchtlinge: Afghanische Frauen und Mädchen können mit hoher Wahrscheinlichkeit Asyl erhalten",
-    "Nach mutmaßlichem Sicherheitsausfall - Deutsche Politikerinnen fordern europäische Alternativen zu Zahlungsdienstleister Paypal",
-    "Koalition - Kanzleramtschef Frei erwartet Zusammenhalt von Union und SPD beim neuen Wehrdienst",
     "Sanktionsdrohungen - Iran will \"faire Verhandlungen\" über Atomprogramm - Auswärtiges Amt fordert Deutsche zu Ausreise auf",
     "Bundestag - Gysi schlägt neues Debattenformat vor",
     "Ukraine - Selenskyj fordert von konkrete Sicherheitsgarantien von Europäern",
@@ -3003,12 +3000,12 @@
     "Madrid - Merz und Sanchez betonen Meinungsverschiedenheiten über den Gazakrieg",
     "Umfrage - Viele wissen gar nicht, dass sie eine Elektronische Patientenakte haben",
     "Elektroautos - Fast jede zweite Kommune ohne Ladestationen",
-    "Guatemala - Journalistenverbände fordern Freilassung von Investigativ-Journalist Zamora"
+    "Guatemala - Journalistenverbände fordern Freilassung von Investigativ-Journalist Zamora",
+    "Verkehr - Schleswig-Holsteins Verkehrsminister hält Preiserhöhung für notwendig",
+    "Gesundheitspolitik - Ministerin Warken (CDU): Arzneiversorgung im Herbst gewährleistet - Europäischer Rechnungshof warnt vor Engpässen",
+    "Plan - Kulturstaatsminister Weimer will Kulturförderung bei Antisemitismus-Fällen entziehen"
   ],
   "hashes": [
-    "78d71bec363810c2e71950967f3f548e",
-    "65212cfaa8b101e9a5d0b040a910143e",
-    "61347c92e8573fff328ad8ff51208ae2",
     "b9f553ac5869b2c9ae7131ea6a655f69",
     "67c168120b7450fee323eaa7ec506c49",
     "d783ea3f5b55f55e99639c53835360ab",
@@ -4005,6 +4002,9 @@
     "2c891121fb08511013bcb8262e3a1bcd",
     "88b6180ed26c97e6f0a3b5184fdc2d71",
     "27196f9dd3e813e469b3a42958104393",
-    "8f9d10c4c17b0173757b71ee34a8a426"
+    "8f9d10c4c17b0173757b71ee34a8a426",
+    "ff490041118fb5010a94774669cbb532",
+    "03b74e37f35a861ae4d96b31b9387a61",
+    "b002415a361ca8941cb9fffcc8f36ef3"
   ]
 }
