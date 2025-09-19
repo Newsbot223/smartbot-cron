@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-stoppt-verlaengerten-secret-service-schutz-von-harris-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/ministerrat-in-toulon-die-wichtigste-leistung-von-merz-110661598.html",
-    "https://www.deutschlandfunk.de/mindestens-49-menschen-vor-mauretaniens-kueste-ums-leben-gekommen-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-frankreich-wollen-arte-auf-ganz-europa-ausweiten-um-kampf-gegen-desinformationen-zu--100.html",
     "https://www.deutschlandfunk.de/gysi-schlaegt-neues-debattenformat-fuer-den-bundestag-vor-100.html",
     "https://www.deutschlandfunk.de/eu-verteidigungsminister-fuer-mehr-druck-auf-russland-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wissenschaft/mensch/deutschlandticket-warum-es-besser-ist-als-sein-ruf-a-18337d65-4e33-4907-86ac-f75de693e8d1#ref=rss",
     "https://www.deutschlandfunk.de/empoerung-ueber-antisemitisches-plakat-100.html",
     "https://www.faz.net/aktuell/politik/inland/linke-ueberrascht-mitgliederrekord-und-erfolg-bei-jungen-waehlern-110694716.html",
-    "https://www.faz.net/aktuell/politik/sondervermoegen-fuer-infrastruktur-selbst-im-fuellhorn-ist-zu-wenig-geld-110694286.html"
+    "https://www.faz.net/aktuell/politik/sondervermoegen-fuer-infrastruktur-selbst-im-fuellhorn-ist-zu-wenig-geld-110694286.html",
+    "https://www.deutschlandfunk.de/netzagentur-will-flexible-stromspeichernutzung-ermoeglichen-100.html",
+    "https://www.deutschlandfunk.de/bischof-von-speyer-fordert-debatte-ueber-ehelosigkeit-von-priestern-100.html",
+    "https://www.faz.net/aktuell/politik/inland/hamburg-baut-seine-zentrale-synagoge-wieder-auf-110694597.html"
   ],
   "content_hashes": [
-    "87ea65eebae784912f1877382eb981d0",
-    "63042d704b9194fb3591f3970f91b0e7",
-    "48ae50926fc573698c52de1a2c6e79a7",
     "a2b266f8b13b720ca07b7852ad72bd15",
     "490398d37057d5c90994400aa963578f",
     "7896fea41bef22ce40420478cfbceee7",
@@ -2001,12 +1998,12 @@
     "df46e3770df2d56d8ceab27787e3050b",
     "d4a29eeae30875aace05a35863d8927d",
     "7688c8ae101941eac682c777f5d3520b",
-    "29fd0e6d20a2fbeec182c4ddbcadd20c"
+    "29fd0e6d20a2fbeec182c4ddbcadd20c",
+    "89fb4be3ac3193061a3bbb7b34826ea2",
+    "3bf47b37619d51db1686e603a92f8065",
+    "fc648ff0fc5d75dc657708ec3fa465ed"
   ],
   "titles": [
-    "Medienberichte - Trump stoppt verlängerten Secret-Service-Schutz von Harris",
-    "Ministerrat in Frankreich: Die wichtigste Leistung von Merz",
-    "Migration - Mindestens 49 Menschen vor Mauretaniens Küste ums Leben gekommen",
     "Medien - Deutschland und Frankreich wollen Arte auf ganz Europa ausweiten, um Kampf gegen Desinformationen zu stärken",
     "Parlament - Gysi schlägt neues Debattenformat für den Bundestag vor",
     "Kopenhagen - EU-Verteidigungsminister für mehr Druck auf Russland",
@@ -3003,12 +3000,12 @@
     "Deutschlandticket: Warum es besser ist als sein Ruf",
     "Hausverbot in Flensburger Geschäft - Empörung über antisemitisches Plakat",
     "Linke im Aufwind: Auferstanden aus Ruinen",
-    "Sondervermögen für Infrastruktur: Selbst im Füllhorn ist zu wenig Geld"
+    "Sondervermögen für Infrastruktur: Selbst im Füllhorn ist zu wenig Geld",
+    "Energiewende - Netzagentur will flexible Stromspeichernutzung ermöglichen",
+    "Katholische Kirche - Bischof von Speyer fordert Debatte über Ehelosigkeit von Priestern",
+    "1939 abgerissen: Wie Hamburg seine zentrale Synagoge wieder aufbaut"
   ],
   "hashes": [
-    "13830f4dd8b6c4edf2f09d8c7e192eb7",
-    "7dc83255abb0abc6b86b155adccdc2f1",
-    "b3676022777b877552eccd57fcfb9a78",
     "a7c7f1258c93331db7621dc2b20a1e50",
     "0f6b43bf08c855f52480ae5a989c41ee",
     "2b36b8ece8257516a33e638e23a0fd6f",
@@ -4005,6 +4002,9 @@
     "37c1666fef00324c770c24312220d928",
     "f13874a0664ff27afa358222d9a0bf20",
     "d7297ce5ed65c56bb90361be6350c38b",
-    "b1dfa0739256e3683be487937a4b0155"
+    "b1dfa0739256e3683be487937a4b0155",
+    "f090f64be58df8413bf5ce7fe145e084",
+    "f003bcf8ab575c723faf9a68bc10ea14",
+    "059723ee8f116ebd08968efbb11e61de"
   ]
 }
