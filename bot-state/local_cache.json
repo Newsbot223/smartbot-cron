@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fraktionsspitzen-von-union-und-spd-schliessen-klausurtagung-in-wuerzburg-ab-100.html",
-    "https://www.spiegel.de/wirtschaft/service/paypal-panne-zahlungsdienstleister-verspricht-haendlern-rasche-auszahlung-nach-gestoppten-transaktionen-a-8c14da3e-cfc2-4680-96a6-fa9ed0b79468#ref=rss",
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-beschaeftigte-von-x-wegen-strafvereitelung-herausgabe-von-accountdaten-verweigert-100.html",
     "https://www.deutschlandfunk.de/trump-stoppt-verlaengerten-secret-service-schutz-von-harris-102.html",
     "https://www.faz.net/aktuell/politik/ausland/ministerrat-in-toulon-die-wichtigste-leistung-von-merz-110661598.html",
     "https://www.deutschlandfunk.de/mindestens-49-menschen-vor-mauretaniens-kueste-ums-leben-gekommen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russische-kampfjets-in-luftraum-estlands-eingedrungen-102.html",
     "https://www.spiegel.de/auto/muenchen-berlin-deutsche-bahn-verbessert-strecke-a-7820a609-78bd-443c-abe6-675cb4710023#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/spd-ist-marc-herter-der-sozialdemokrat-der-zukunft-accg-110694160.html",
-    "https://www.spiegel.de/wissenschaft/mensch/deutschlandticket-warum-es-besser-ist-als-sein-ruf-a-18337d65-4e33-4907-86ac-f75de693e8d1#ref=rss"
+    "https://www.spiegel.de/wissenschaft/mensch/deutschlandticket-warum-es-besser-ist-als-sein-ruf-a-18337d65-4e33-4907-86ac-f75de693e8d1#ref=rss",
+    "https://www.deutschlandfunk.de/empoerung-ueber-antisemitisches-plakat-100.html",
+    "https://www.faz.net/aktuell/politik/inland/linke-ueberrascht-mitgliederrekord-und-erfolg-bei-jungen-waehlern-110694716.html",
+    "https://www.faz.net/aktuell/politik/sondervermoegen-fuer-infrastruktur-selbst-im-fuellhorn-ist-zu-wenig-geld-110694286.html"
   ],
   "content_hashes": [
-    "c85066dbdd5f64a256512a8d7d20d503",
-    "20909662b11b30936028d1544700f0c1",
-    "dc9b9144d49b9f8d403f201846bf388e",
     "87ea65eebae784912f1877382eb981d0",
     "63042d704b9194fb3591f3970f91b0e7",
     "48ae50926fc573698c52de1a2c6e79a7",
@@ -2001,12 +1998,12 @@
     "e57dbe2e8356759dfffeb26b9cb417ce",
     "0ec2d147399d2dc81d1b587003c49f2a",
     "31080610bdfd30dae60d783c7adf7933",
-    "df46e3770df2d56d8ceab27787e3050b"
+    "df46e3770df2d56d8ceab27787e3050b",
+    "d4a29eeae30875aace05a35863d8927d",
+    "7688c8ae101941eac682c777f5d3520b",
+    "29fd0e6d20a2fbeec182c4ddbcadd20c"
   ],
   "titles": [
-    "Koalition - Fraktionsspitzen von Union und SPD schließen Klausurtagung in Würzburg ab",
-    "PayPal-Panne: Zahlungsdienstleister verspricht Händlern rasche Auszahlung nach gestoppten Transaktionen",
-    "Hasskriminalität - Ermittlungen gegen Beschäftigte von X wegen Strafvereitelung - Herausgabe von Accountdaten verweigert",
     "Medienberichte - Trump stoppt verlängerten Secret-Service-Schutz von Harris",
     "Ministerrat in Frankreich: Die wichtigste Leistung von Merz",
     "Migration - Mindestens 49 Menschen vor Mauretaniens Küste ums Leben gekommen",
@@ -3003,12 +3000,12 @@
     "Zwischenfall - Russische Kampfjets in Luftraum Estlands eingedrungen",
     "München-Berlin: Deutsche Bahn verbessert Strecke",
     "Wahlsieg gegen den Trend: Ist Marc Herter der Sozialdemokrat der Zukunft?",
-    "Deutschlandticket: Warum es besser ist als sein Ruf"
+    "Deutschlandticket: Warum es besser ist als sein Ruf",
+    "Hausverbot in Flensburger Geschäft - Empörung über antisemitisches Plakat",
+    "Linke im Aufwind: Auferstanden aus Ruinen",
+    "Sondervermögen für Infrastruktur: Selbst im Füllhorn ist zu wenig Geld"
   ],
   "hashes": [
-    "64745673b6a19c249a3dd6f51001e9db",
-    "01cf267946ef0e05d21be1004e929ad5",
-    "4c87285019f0897006c967460b52760a",
     "13830f4dd8b6c4edf2f09d8c7e192eb7",
     "7dc83255abb0abc6b86b155adccdc2f1",
     "b3676022777b877552eccd57fcfb9a78",
@@ -4005,6 +4002,9 @@
     "d1dcfe621f0c998bf2b35af3463adfdd",
     "2f70545bd03515bf01b3f06e242e9e8c",
     "4d1c9874a08f1c76c0ed97eb59c57dd0",
-    "37c1666fef00324c770c24312220d928"
+    "37c1666fef00324c770c24312220d928",
+    "f13874a0664ff27afa358222d9a0bf20",
+    "d7297ce5ed65c56bb90361be6350c38b",
+    "b1dfa0739256e3683be487937a4b0155"
   ]
 }
