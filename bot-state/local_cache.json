@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iran-will-faire-verhandlungen-ueber-atomprogramm-auswaertiges-amt-fordert-deutsche-zu-ausreise-auf-100.html",
-    "https://www.deutschlandfunk.de/gysi-schlaegt-neues-debattenformat-vor-100.html",
     "https://www.deutschlandfunk.de/selenskyj-fordert-von-konkrete-sicherheitsgarantien-von-europaeern-102.html",
     "https://www.deutschlandfunk.de/alabali-radovan-in-nahost-ringen-um-die-anerkennung-palaestinas-100.html",
     "https://www.faz.net/einspruch/ueberfaellige-reform-kein-geschlechtswechsel-ohne-gutachten-110659393.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/journalistenverbaende-fordern-freilassung-von-investigativ-journalist-zamora-102.html",
     "https://www.deutschlandfunk.de/schleswig-holsteins-verkehrsminister-haelt-preiserhoehung-fuer-notwendig-100.html",
     "https://www.deutschlandfunk.de/ministerin-warken-cdu-arzneiversorgung-im-herbst-gewaehrleistet-europaeischer-rechnungshof-warnt-vor-102.html",
-    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-kulturfoerderung-bei-antisemitismus-faellen-entziehen-102.html"
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-will-kulturfoerderung-bei-antisemitismus-faellen-entziehen-102.html",
+    "https://www.deutschlandfunk.de/heusgen-fuer-schaerfere-sanktionen-gegen-russland-102.html",
+    "https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss"
   ],
   "content_hashes": [
-    "b216f7451ab3b36a23f47800e4606277",
-    "e07c3dc445b92f027d4b13f2f43a8c34",
     "05d03bd77b41f4b3ccb25f24334dc8f6",
     "385dc3474e7a09f1b378850f0c786a56",
     "94e15455d771edec9ce075742232cde3",
@@ -2001,11 +1999,11 @@
     "a452b532ead3c63a887938a03182dff3",
     "33c530a78787f89646d0f9f2b44310f9",
     "45206049fb93b977d26875da87282a44",
-    "f8f14c677146edc3b6545754f2fdae1f"
+    "f8f14c677146edc3b6545754f2fdae1f",
+    "831e913da01a908face449a261e5aeaa",
+    "97e44556f5be2ab822eb48e9425c2324"
   ],
   "titles": [
-    "Sanktionsdrohungen - Iran will \"faire Verhandlungen\" über Atomprogramm - Auswärtiges Amt fordert Deutsche zu Ausreise auf",
-    "Bundestag - Gysi schlägt neues Debattenformat vor",
     "Ukraine - Selenskyj fordert von konkrete Sicherheitsgarantien von Europäern",
     "Nahost-Reise - Entwicklungsministerin fürchtet eine neue Destabilisierung",
     "Überfällige Reform: Kein Geschlechtswechsel ohne Gutachten",
@@ -3003,11 +3001,11 @@
     "Guatemala - Journalistenverbände fordern Freilassung von Investigativ-Journalist Zamora",
     "Verkehr - Schleswig-Holsteins Verkehrsminister hält Preiserhöhung für notwendig",
     "Gesundheitspolitik - Ministerin Warken (CDU): Arzneiversorgung im Herbst gewährleistet - Europäischer Rechnungshof warnt vor Engpässen",
-    "Plan - Kulturstaatsminister Weimer will Kulturförderung bei Antisemitismus-Fällen entziehen"
+    "Plan - Kulturstaatsminister Weimer will Kulturförderung bei Antisemitismus-Fällen entziehen",
+    "Krieg gegen Ukraine - Heusgen für schärfere Sanktionen gegen Russland",
+    "Migration: Erstmals weniger Geflüchtete in Deutschland seit 2011"
   ],
   "hashes": [
-    "b9f553ac5869b2c9ae7131ea6a655f69",
-    "67c168120b7450fee323eaa7ec506c49",
     "d783ea3f5b55f55e99639c53835360ab",
     "7d439236b22257bc35bf5a044e8c9adb",
     "1e2e9754135e306359ba54057cd9b82b",
@@ -4005,6 +4003,8 @@
     "8f9d10c4c17b0173757b71ee34a8a426",
     "ff490041118fb5010a94774669cbb532",
     "03b74e37f35a861ae4d96b31b9387a61",
-    "b002415a361ca8941cb9fffcc8f36ef3"
+    "b002415a361ca8941cb9fffcc8f36ef3",
+    "702569545bed4f6da103ed901ea923a4",
+    "6dbc34ba13ca6bc7aa558959526ae672"
   ]
 }
