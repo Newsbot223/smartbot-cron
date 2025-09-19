@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wie-der-rechtsstaat-sich-vor-verfassungsfeinden-schuetzen-muss-110654065.html",
-    "https://www.faz.net/aktuell/politik/ausland/russischer-angriff-auf-kiew-putin-waehlt-bomben-110659378.html",
     "https://www.deutschlandfunk.de/deutschland-ruft-bundesbuerger-zum-verlassen-des-iran-auf-104.html",
     "https://www.deutschlandfunk.de/fraktionsspitzen-von-union-und-spd-setzen-beratungen-fort-100.html",
     "https://www.deutschlandfunk.de/gemeinsame-beratungen-ueber-wirtschaft-und-sicherheit-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/studie-der-adenauer-stiftung-warum-die-cdu-nicht-mit-der-afd-zusammenarbeiten-sollte-110692187.html",
     "https://www.faz.net/aktuell/politik/inland/fdp-brachte-das-deutschlandticket-entlastung-trotz-preisanstieg-110692373.html",
     "https://www.deutschlandfunk.de/holocaust-gedenkstaette-yad-vashem-plant-zentrum-in-deutschland-110.html",
-    "https://www.deutschlandfunk.de/merz-und-sanchez-betonten-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html"
+    "https://www.deutschlandfunk.de/merz-und-sanchez-betonten-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
+    "https://www.deutschlandfunk.de/gesamtzahl-der-in-deutschland-lebenden-fluechtlinge-erstmals-seit-2011-gesunken-100.html",
+    "https://www.deutschlandfunk.de/zwoelf-militaers-in-kolumbien-fuer-morde-an-zivilisten-verurteilt-100.html"
   ],
   "content_hashes": [
-    "46fe9c69ed01a0b258fabd830d680440",
-    "bc353fe4589bd5c0814be583895a8d06",
     "2880da5d487853ec2f6ad70c32be0fe0",
     "096cef9693bcc93a8f132979f083088c",
     "f45503290ca95f1fd59872bac0922a9e",
@@ -2001,11 +1999,11 @@
     "a4fd85f7fb87a27d82dbdb0c707534e7",
     "e4d389eee7a5d242e7b23eec6876961a",
     "666e01af7f7928fed054b2e5afea1c22",
-    "0847d926c8a8fb73e610b9a1efb2c142"
+    "0847d926c8a8fb73e610b9a1efb2c142",
+    "35944db4cb8e82e54b7c77576bf11192",
+    "0269fab8d6b086eeed478097dd44fb8b"
   ],
   "titles": [
-    "Rechtsextremismus: Wie Verfassungsfeinde ins Referendariat gelangen",
-    "EU-Vertretung beschädigt: Putin wählt Bomben",
     "Atomstreit und Sanktionsdrohungen - Deutschland ruft Bundesbürger zum Verlassen des Iran auf",
     "Würzburg - Fraktionsspitzen von Union und SPD setzen Beratungen fort",
     "Deutsch-französischer Ministerrat - Gemeinsame Beratungen über Wirtschaft und Sicherheit",
@@ -3003,11 +3001,11 @@
     "Studie der Adenauer-Stiftung: Warum die CDU nicht mit der AfD zusammenarbeiten sollte",
     "Deutschlandticket: Liberales Geschenk an die Bürger",
     "Bildung - Holocaust-Gedenkstätte Yad Vashem plant Zentrum in Deutschland",
-    "Madrid - Merz und Sanchez betonten Meinungsverschiedenheiten über den Gazakrieg"
+    "Madrid - Merz und Sanchez betonten Meinungsverschiedenheiten über den Gazakrieg",
+    "Anfrage der Linken - Gesamtzahl der in Deutschland lebenden Flüchtlinge erstmals seit 2011 gesunken",
+    "Sondertribunal - Zwölf Militärs in Kolumbien für Morde an Zivilisten verurteilt"
   ],
   "hashes": [
-    "8963926d76650f76ae4c09142cc451a3",
-    "7dcbbe64f8e8ae61eb4e49bf5947d84a",
     "621b8c7f8ba41921b43994595e38320e",
     "2d82b887dd9f7e08a98ef64da5f71237",
     "50caecb5797beb96be5ee897812eb2d6",
@@ -4005,6 +4003,8 @@
     "4bd0324a9a5c690e98f759dd8920af51",
     "2a6d737a0cc4d0561ecc276ee0057413",
     "4cdcb29251c43f2fc10f3d0591497068",
-    "2b0d12e36864d97d84ee5ccab90320cf"
+    "2b0d12e36864d97d84ee5ccab90320cf",
+    "8c085934111d59efb9b4fa3596c90998",
+    "1b5d538db9b1f69f4c1d9302acfb61d9"
   ]
 }
