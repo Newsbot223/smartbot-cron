@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesfamilienministerin-prien-cdu-der-schluessel-ist-medienkompetenz-100.html",
-    "https://www.deutschlandfunk.de/16-jaehrige-vor-fahrenden-gueterzug-gestossen-taeter-kommt-in-psychiatrie-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-warnt-vor-russischer-grossoffensive-bei-pokrowsk-100.html",
     "https://www.deutschlandfunk.de/merz-zu-gast-bei-cdu-parteitag-wuest-kandidiert-erneut-als-landeschef-100.html",
     "https://www.deutschlandfunk.de/behoerden-fahnden-nach-liebich-100.html",
     "https://www.deutschlandfunk.de/mehr-als-eine-million-hektar-land-zerstoert-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-spricht-nach-telefonat-mit-xi-von-annaeherung-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/milliardenluecke-hessische-strassenbauprojekte-gefaehrdet-110694125.html",
     "https://www.faz.net/aktuell/politik/ukraine/19-sanktionspaket-der-eu-gegen-russland-das-ist-nicht-genug-110694717.html",
-    "https://www.deutschlandfunk.de/cdu-sozialfluegel-warnt-vor-kettensaege-100.html"
+    "https://www.deutschlandfunk.de/cdu-sozialfluegel-warnt-vor-kettensaege-100.html",
+    "https://www.deutschlandfunk.de/drei-tote-bei-militaerschlag-gegen-mutmassliches-drogenschiff-100.html",
+    "https://www.deutschlandfunk.de/us-praesident-trump-verfuegt-gebuehr-von-100-000-dollar-fuer-eine-kategorie-von-arbeitsvisa-100.html",
+    "https://www.aljazeera.com/news/2025/9/20/russia-ukraine-war-list-of-key-events-day-1304?traffic_source=rss"
   ],
   "content_hashes": [
-    "9753e2a3bb1732b834cd08fe0bef491e",
-    "8fc4031e4e7ca185e138c8661164ca29",
-    "0d6be0fadc1751a02d9da74eaab0a4e3",
     "dfeec20d80ef5cfa6283ee1901ec5bcd",
     "f3d5c1eb3272f6fa1cb9fc1dbfc06a12",
     "c2f058c333448bc5502aceab8b315906",
@@ -2001,12 +1998,12 @@
     "367fb0e47a839e848cb2150a79d8f312",
     "0533ce793853451c5bef3dd7e313df52",
     "7eb0d651131dbca3923cdf17ded24bac",
-    "e74cf671701fbcbe8d0b3ff35ccbff89"
+    "e74cf671701fbcbe8d0b3ff35ccbff89",
+    "0dad825d7ac441d8addae9204d4558fc",
+    "b4a7cbc723fbb76296f4f8fd6f97199f",
+    "d343195c028ff5da8920f773873cc215"
   ],
   "titles": [
-    "Kinder in der digitalen Welt - Bundesfamilienministerin Prien (CDU): \"Der Schlüssel ist Medienkompetenz\"",
-    "Friedland - 16-Jährige vor fahrenden Güterzug gestoßen - Täter kommt in Psychiatrie",
-    "Ukraine-Krieg - Selenskyj warnt vor russischer Großoffensive bei Pokrowsk",
     "Nordrhein-Westfalen - Merz zu Gast bei CDU-Parteitag - Wüst kandidiert erneut als Landeschef",
     "Nicht zur Haft angetreten - Behörden fahnden nach Liebich",
     "Waldbrand-Saison - Mehr als eine Million Hektar Land zerstört",
@@ -3003,12 +3000,12 @@
     "Handelskonflikt - Trump spricht nach Telefonat mit Xi von \"Annäherung\"",
     "Milliardenlücke: Hessische Straßenbauprojekte gefährdet",
     "Sanktionen gegen Russland: Das ist nicht genug",
-    "Debatte über Sozialleistungen - CDU-Sozialflügel warnt vor \"Kettensäge\""
+    "Debatte über Sozialleistungen - CDU-Sozialflügel warnt vor \"Kettensäge\"",
+    "US-Südkommando - Drei Tote bei Militärschlag gegen mutmaßliches Drogenschiff",
+    "Technologie-Unternehmen betroffen - US-Präsident Trump verfügt Gebühr von 100.000 Dollar für eine Kategorie von Arbeitsvisa",
+    "Russia-Ukraine war: List of key events, day 1,304"
   ],
   "hashes": [
-    "2ea37da0b9e379ecd9406db7f3dd14b2",
-    "095c6fd0348fb46f95d6576815629dda",
-    "91099dd70ae457a64754c94d27e8f135",
     "b92a987bf89215af81179acc1f5b0ffc",
     "bcbec673e03f13fba06159c4362f89e0",
     "37a44ff9fdbfbc1aee7c4e7b38e46e29",
@@ -4005,6 +4002,9 @@
     "d1db3c19243473f348b402124f6d1a90",
     "647168fdbb2bb8d237789a1e86275a00",
     "e6b6e666a7cf617fc6f7e2b55ebc13d5",
-    "374f1b599ca63f1e228f484be46ddcb5"
+    "374f1b599ca63f1e228f484be46ddcb5",
+    "993bef917a9d894b1ead927823d4970e",
+    "85bd322893584e9e19bacb6eeec49e16",
+    "911c2163de0b455b95918b5327071b6c"
   ]
 }
