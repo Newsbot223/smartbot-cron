@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aktivrente-kommt-bericht-zufolge-zum-1-januar-104.html",
-    "https://www.deutschlandfunk.de/linnemann-verteidigt-kloeckner-gegen-kritik-102.html",
     "https://www.deutschlandfunk.de/wirtschaftswissenschaftler-weber-fordert-trendwende-in-der-wirtschaftspolitik-100.html",
     "https://www.deutschlandfunk.de/russland-greift-unter-anderem-zentralukrainische-region-dnipropetrowsk-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/linnemann-kritisiert-habeck-ich-wuerde-nicht-nachtreten-accg-110662408.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/generalinspekteur-breuer-gestiegenes-interesse-an-wehrdienst-100.html",
     "https://www.deutschlandfunk.de/verwehrte-hausausweise-fuer-afd-mitarbeiter-von-notz-gruene-will-staerkere-bundestagspolizei-100.html",
     "https://www.deutschlandfunk.de/adac-fordert-mehr-geld-fuer-autobahnen-102.html",
-    "https://www.deutschlandfunk.de/us-navy-attackiert-erneut-angebliches-drogenschmugglerschiff-drei-tote-100.html"
+    "https://www.deutschlandfunk.de/us-navy-attackiert-erneut-angebliches-drogenschmugglerschiff-drei-tote-100.html",
+    "https://www.deutschlandfunk.de/cyberangriff-auf-flughafen-dienstleiter-auch-ber-betroffen-100.html",
+    "https://www.deutschlandfunk.de/cdu-gesundheitspolitikerin-bochardt-offen-fuer-einschraenkungen-bei-online-apotheken-100.html"
   ],
   "content_hashes": [
-    "3e583654aa1a606b523c91e488b00fe2",
-    "90c30d8c9d5b16fc61658aace0b3839c",
     "4f536ff31d47121450b9c7d4c344bdb6",
     "87db391dd464ba62fd2c5111554050dd",
     "7d4ffc77c6298eef0ca89ec389010786",
@@ -2001,11 +1999,11 @@
     "8796cb3c5ae066adb1048ca303bbdaa3",
     "ec5c545a3ca3bd4cbc4e08328343aff7",
     "ed18a5370db500ac7b0b8569e49e8d1a",
-    "984e8cecc92280c85df5dfcc1d7363dc"
+    "984e8cecc92280c85df5dfcc1d7363dc",
+    "3060c562ec7a2dd26693bd4ff93e607c",
+    "53cb210b91a0c940e1f889bd93023251"
   ],
   "titles": [
-    "Koalition - \"Aktivrente\" kommt Bericht zufolge zum 1. Januar 2026",
-    "Bundestagspräsidentin - Linnemann verteidigt Klöckner gegen Kritik",
     "Drei Millionen Arbeitslose - Wirtschaftswissenschaftler Weber fordert Trendwende in der Wirtschaftspolitik",
     "Ukraine - Russland greift unter anderem zentralukrainische Region Dnipropetrowsk an",
     "Streit um Julia Klöckner: Linnemann kritisiert Habeck: „Ich würde nicht nachtreten“",
@@ -3003,11 +3001,11 @@
     "Bundeswehr - Generalinspekteur Breuer: Gestiegenes Interesse an Wehrdienst",
     "Berlin - Verwehrte Hausausweise für AfD-Mitarbeiter: Von Notz (Grüne) will stärkere Bundestagspolizei",
     "Finanzierungslücke - ADAC fordert mehr Geld für Autobahnen",
-    "Küste vor Venezuela - US Navy attackiert erneut angebliches Drogenschmugglerschiff - drei Tote"
+    "Küste vor Venezuela - US Navy attackiert erneut angebliches Drogenschmugglerschiff - drei Tote",
+    "Europäischer Luftverkehr - Cyberangriff auf Flughafen-Dienstleiter - auch BER betroffen",
+    "Gesundheitspolitik - CDU-Gesundheitspolitikerin Bochardt offen für Einschränkungen bei Online-Apotheken"
   ],
   "hashes": [
-    "13e1f79c7507eeee5a243c7d20e4194f",
-    "d4c0e253abe85e3c56598a02be3ffee5",
     "665990438ea2ea4b71df983a9c3273bf",
     "78c6ebd6e74efbcce61b9b5f7ab17067",
     "10d1e9118a0701ecdbd428aa4878dd4b",
@@ -4005,6 +4003,8 @@
     "b2b81c6aa8d8dd164d6d31ab50ac5220",
     "5c42922c28f29e14e5b14b24adbbf364",
     "03dc9635620b28dbc8e4f0683d7eae71",
-    "473b9515fc59af16a25de6b2ecdc9e4f"
+    "473b9515fc59af16a25de6b2ecdc9e4f",
+    "b48f01e48c07b63ecbab3375496ff46f",
+    "07d7d0b4e513b54d816168e27458c3fd"
   ]
 }
