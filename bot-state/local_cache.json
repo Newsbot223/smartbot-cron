@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-greift-unter-anderem-zentralukrainische-region-dnipropetrowsk-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/linnemann-kritisiert-habeck-ich-wuerde-nicht-nachtreten-accg-110662408.html",
     "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-und-nahost-108.html",
     "https://www.deutschlandfunk.de/reul-will-fluechtlinge-besser-integrieren-gleichzeitig-aber-zuzug-nach-deutschland-begrenzen-102.html",
     "https://www.deutschlandfunk.de/mehr-als-haelfte-der-strafgelder-im-bundestag-entfallen-auf-afd-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-navy-attackiert-erneut-angebliches-drogenschmugglerschiff-drei-tote-100.html",
     "https://www.deutschlandfunk.de/cyberangriff-auf-flughafen-dienstleiter-auch-ber-betroffen-100.html",
     "https://www.deutschlandfunk.de/cdu-gesundheitspolitikerin-bochardt-offen-fuer-einschraenkungen-bei-online-apotheken-100.html",
-    "https://www.deutschlandfunk.de/neue-russische-luftangriffe-mit-mindestens-drei-toten-100.html"
+    "https://www.deutschlandfunk.de/neue-russische-luftangriffe-mit-mindestens-drei-toten-100.html",
+    "https://www.deutschlandfunk.de/80-jahre-un-interview-annalena-baerbock-praesidentin-der-un-vollversammlung-100.html",
+    "https://www.faz.net/aktuell/politik/inland/eliten-wir-brauchen-mehr-ostdeutsche-in-den-fuehrungsetagen-110694489.html"
   ],
   "content_hashes": [
-    "87db391dd464ba62fd2c5111554050dd",
-    "7d4ffc77c6298eef0ca89ec389010786",
     "7ce92ad30c2190d2325605259ea29d1f",
     "23c772022c591b2360264caad5ecad5a",
     "0639234dcd5722debe69bfc6ba42b033",
@@ -2001,11 +1999,11 @@
     "984e8cecc92280c85df5dfcc1d7363dc",
     "3060c562ec7a2dd26693bd4ff93e607c",
     "53cb210b91a0c940e1f889bd93023251",
-    "ea1b525244bf14a1567466e3929a1393"
+    "ea1b525244bf14a1567466e3929a1393",
+    "9d7a2977d11167aed636ba82993c9546",
+    "390d29de7473322ef1552963b1004c3b"
   ],
   "titles": [
-    "Ukraine - Russland greift unter anderem zentralukrainische Region Dnipropetrowsk an",
-    "Streit um Julia Klöckner: Linnemann kritisiert Habeck: „Ich würde nicht nachtreten“",
     "Kopenhagen - EU-Außenminister beraten über Ukraine und Nahost",
     "NRW-Innenminister zu Migration - Reul will Flüchtlinge besser integrieren - gleichzeitig aber Zuzug nach Deutschland begrenzen",
     "Verstöße gegen Parteiengesetz - Mehr als Hälfte der Strafgelder im Bundestag entfallen auf AfD",
@@ -3003,11 +3001,11 @@
     "Küste vor Venezuela - US Navy attackiert erneut angebliches Drogenschmugglerschiff - drei Tote",
     "Europäischer Luftverkehr - Cyberangriff auf Flughafen-Dienstleiter - auch BER betroffen",
     "Gesundheitspolitik - CDU-Gesundheitspolitikerin Bochardt offen für Einschränkungen bei Online-Apotheken",
-    "Ukraine-Krieg - Neue russische Luftangriffe mit mindestens drei Toten"
+    "Ukraine-Krieg - Neue russische Luftangriffe mit mindestens drei Toten",
+    "UN und Nahost - Baerbocks Linie ist die Zwei-Staaten-Lösung",
+    "Elitenlücke: Wir brauchen mehr Ostdeutsche in den Führungsetagen"
   ],
   "hashes": [
-    "78c6ebd6e74efbcce61b9b5f7ab17067",
-    "10d1e9118a0701ecdbd428aa4878dd4b",
     "9070f0b8f7ba49f61810ed48143b7d96",
     "7b40538f320c9a447866669277e4bba5",
     "5bb87464030c0e01c962869a2ef6dedc",
@@ -4005,6 +4003,8 @@
     "473b9515fc59af16a25de6b2ecdc9e4f",
     "b48f01e48c07b63ecbab3375496ff46f",
     "07d7d0b4e513b54d816168e27458c3fd",
-    "eeda384db74545bdcedb86633e7e7568"
+    "eeda384db74545bdcedb86633e7e7568",
+    "dd47c827bd4b3000701721037e5f05f2",
+    "e8c41bc3058aecf229e728a3050a9268"
   ]
 }
