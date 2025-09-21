@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interview-kaack-jan-christian-vizeadmiral-inspekteur-der-marine-100.html",
-    "https://www.deutschlandfunk.de/ukrainische-armee-meldet-erfolgreiche-verteidigung-gegen-russische-vorstoesse-104.html",
-    "https://www.faz.net/aktuell/politik/inland/vor-kommunalwahlen-in-nrw-an-der-basis-geht-es-ums-ganze-110652557.html",
-    "https://www.deutschlandfunk.de/bas-kuendigt-nullrunde-beim-buergergeld-und-haertere-sanktionen-an-100.html",
     "https://www.deutschlandfunk.de/merz-und-soeder-schliessen-steuererhoehungen-aus-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-will-fuer-richterwahl-stimmen-von-linken-oder-afd-100.html",
     "https://www.deutschlandfunk.de/kreml-wirft-europaeern-vor-trumps-friedensbemuehungen-zu-stoeren-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/cdu-politiker-hardt-russische-kampfflugzeuge-notfalls-abschiessen-100.html",
     "https://www.deutschlandfunk.de/stichwahlen-in-frankfurt-oder-potsdam-und-ludwigshafen-102.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/kirk-attentat-haeme-statt-mitgefuehl-auch-in-deutschland-110693975.html",
-    "https://www.deutschlandfunk.de/britische-regierung-genehmigt-zweite-startbahn-fuer-flughafen-london-gatwick-100.html"
+    "https://www.deutschlandfunk.de/britische-regierung-genehmigt-zweite-startbahn-fuer-flughafen-london-gatwick-100.html",
+    "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-stellt-bahn-strategie-vor-palla-soll-neue-konzernchefin-werden-100.html",
+    "https://www.deutschlandfunk.de/verfassungsrichterwahl-ausschuss-beraet-ueber-spd-vorschlag-102.html",
+    "https://www.deutschlandfunk.de/bischoefe-kommen-in-fulda-zur-vollversammlung-zusammen-102.html",
+    "https://www.deutschlandfunk.de/ungerechtigkeiten-im-generationenverhaeltnis-sozialverbaende-kritisieren-aktiv-rente-102.html"
   ],
   "content_hashes": [
-    "19aa6733dbc04f45dddf0c08fa64646e",
-    "c5f49ff280ad5ee73f410458e6353b59",
-    "6123275c467ee7a47e1aa0173b27ad1b",
-    "ad5335f72804c713909b6d351ce43e52",
     "fef8309c90d71831db3198f23ecce0c9",
     "49c9f6d2ca6c9f536f8fe51c560fce48",
     "e70bb500a5f3880778edd01a39e6164b",
@@ -2001,13 +1997,13 @@
     "5c4e1506b2aa01ee871d363d4a3b0675",
     "c609b16c6f6a68499ff0b358de067e2b",
     "1812327d4e48f1a0817c05d0953b3fb4",
-    "803a442aa168c963c19453d65a36f9e0"
+    "803a442aa168c963c19453d65a36f9e0",
+    "39c588d15c23eb6b3ba6495dbc793aad",
+    "425c598aed9056505345991ad6416c5a",
+    "df1a8c5a508d465541f9157d69e03bf0",
+    "cf77fa18a3ed3c7400ded7f8b158da57"
   ],
   "titles": [
-    "Ostsee-Verteidigung - Marine-Inspekteur: Eine zufällige Eskalation verhindern",
-    "Ukraine-Krieg - Ukrainische Armee meldet erfolgreiche Verteidigung gegen russische Vorstöße",
-    "Kommunalwahlen in NRW: An der Basis geht es ums Ganze",
-    "Sozialleistungen - Bas kündigt Nullrunde beim Bürgergeld und härtere Sanktionen an",
     "Staatsfinanzierung - Merz und Söder schließen Steuererhöhungen aus",
     "Verfassungsgericht - Bundeskanzler will für Richterwahl Stimmen von Linken oder AfD",
     "Ukraine-Krieg - Kreml wirft Europäern vor, Trumps Friedensbemühungen zu stören",
@@ -3003,13 +2999,13 @@
     "Luftraumverletzungen - CDU-Politiker Hardt: Russische Kampfflugzeuge notfalls abschießen",
     "Oberbürgermeisterwahlen - Stichwahlen in Frankfurt (Oder), Potsdam und Ludwigshafen",
     "Nach dem Kirk-Attentat: Auch in Deutschland sind die Sitten schon verroht",
-    "Luftverkehr - Britische Regierung genehmigt zweite Startbahn für Flughafen London-Gatwick"
+    "Luftverkehr - Britische Regierung genehmigt zweite Startbahn für Flughafen London-Gatwick",
+    "Staatskonzern - Bundesverkehrsminister Schnieder stellt Bahn-Strategie vor - Palla soll neue Konzernchefin werden",
+    "Bundestag - Verfassungsrichterwahl: Ausschuss berät über SPD-Vorschlag",
+    "Katholische Kirche - Bischöfe kommen in Fulda zur Vollversammlung zusammen",
+    "Steuerpolitik - \"Ungerechtigkeiten im Generationenverhältnis\": Sozialverbände kritisieren Aktiv-Rente"
   ],
   "hashes": [
-    "a28c69ddf625604c4486946740cbe723",
-    "bd11816a270b3037af86c869ac0af3b4",
-    "cdcc1cf6b610e6552b7f58a829f3bd6a",
-    "35cdbc112dbaad88e744bad2a2290997",
     "19fe69ec7c9a317a8f0040868a308f34",
     "cfd5683364a6491bd2ddbc7363162bc8",
     "cc67966b8158292cbb579ff9a304698a",
@@ -4005,6 +4001,10 @@
     "958877a0a75692bb50ba14c23c419c11",
     "829e6308e0311ab0c104fb2777033680",
     "dc991faaeca154472c52fb4c55bb6588",
-    "83b21d92159282d7978f5e364e918546"
+    "83b21d92159282d7978f5e364e918546",
+    "ac9c6e63819f96ca0c20a4587f7f14b7",
+    "61de8025df66f07bf65a2a2b6a206145",
+    "80dba24b63b75276aa20f33dab8e7f1e",
+    "e5b6ad28906a21ce5bbe3854c023db71"
   ]
 }
