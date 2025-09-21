@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-fordert-neue-wege-im-umgang-mit-eingefrorenen-russischen-vermoegen-100.html",
-    "https://www.deutschlandfunk.de/bericht-arbeitsministerin-bas-spd-plant-erneute-nullrunde-beim-buergergeld-100.html",
     "https://www.deutschlandfunk.de/selenskyj-fordert-druck-auf-putin-100.html",
     "https://www.deutschlandfunk.de/huthi-miliz-kuendigt-vergeltung-fuer-tod-ihres-anfuehrers-an-100.html",
     "https://www.deutschlandfunk.de/putin-zu-gipfelgespraechen-im-chinesischen-tianjin-eingetroffen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-weist-spd-forderungen-nach-hoeherer-erbschaftsteuer-erneut-zuruec-100.html",
     "https://www.deutschlandfunk.de/von-der-leyen-fordert-groessere-unabhaengigkeit-der-eu-in-sicherheitsfragen-104.html",
     "https://www.deutschlandfunk.de/von-der-leyen-eigenstaendigkeit-europas-in-sicherheitsfragen-staerken-100.html",
-    "https://www.deutschlandfunk.de/london-will-palaestina-als-staat-anerkennen-entscheidung-von-starmer-fuer-heute-erwartet-104.html"
+    "https://www.deutschlandfunk.de/london-will-palaestina-als-staat-anerkennen-entscheidung-von-starmer-fuer-heute-erwartet-104.html",
+    "https://www.deutschlandfunk.de/cdu-politiker-hardt-fordert-klare-botschaft-an-moskau-104.html",
+    "https://www.deutschlandfunk.de/kenianer-sawe-gewinnt-marathon-104.html"
   ],
   "content_hashes": [
-    "42525071cfa0ebd163b3b5b12a9167bf",
-    "78d302fcadf3a5b287536275f0a02db3",
     "4b70c29c2f1c44542786cd176bc3df89",
     "dd0011e732706d863f34caeb83b7be5b",
     "c05fe62d1e0571266b99f1a3f9736698",
@@ -2001,11 +1999,11 @@
     "3aa14c2786616efd1a2149ebc8faf87f",
     "6f8f333a4bdaebfb12b0a49e1d87cc4f",
     "f6efd9810a643aebb41ada36fa38c923",
-    "1e487ccfe9a6ee7f47f34a8705f10116"
+    "1e487ccfe9a6ee7f47f34a8705f10116",
+    "e5df63cd8b22aa5483f8e35cbb43f91b",
+    "0f5573777f37ed0644271f72553056b3"
   ],
   "titles": [
-    "Treffen in Kopenhagen - EU-Außenbeauftragte fordert neue Wege im Umgang mit eingefrorenen russischen Vermögen",
-    "Soziales - Bericht: Arbeitsministerin Bas (SPD) plant erneute Nullrunde beim Bürgergeld",
     "Vor Gipfeltreffen in China - Selenskyj fordert Druck auf Putin",
     "Nach israelischem Angriff - Huthi-Miliz kündigt Vergeltung für Tod ihres Anführers an",
     "Diplomatie - Putin zu Gipfelgesprächen im chinesischen Tianjin eingetroffen",
@@ -3003,11 +3001,11 @@
     "CDU - Bundeswirtschaftsministerin Reiche weist SPD-Forderungen nach höherer Erbschaftsteuer erneut zurück und wirbt Einkommensteuer-Senkung",
     "Luftraumverletzungen - Von der Leyen fordert größere Unabhängigkeit der EU in Sicherheitsfragen",
     "Russische Luftraumverletzungen - Von der Leyen: Eigenständigkeit Europas in Sicherheitsfragen stärken",
-    "Gazakrieg - London will Palästina als Staat anerkennen - Entscheidung von Starmer für heute erwartet"
+    "Gazakrieg - London will Palästina als Staat anerkennen - Entscheidung von Starmer für heute erwartet",
+    "Russische Luftraumverletzungen - CDU-Politiker Hardt fordert klare Botschaft an Moskau",
+    "Berlin - Kenianer Sawe gewinnt Marathon"
   ],
   "hashes": [
-    "44c2cf6a73cb368d73d2ec21f8d31f4e",
-    "3687ab496a8a6761f8116f2f23cd397c",
     "05593e0acbfcbb6b8fb71b36ea62f045",
     "a14e8cc07201b975a0ec9c6591ca1ea4",
     "5590acd691cdc858225dcaf61b05692c",
@@ -4005,6 +4003,8 @@
     "f32929f8c48f007d728893836f0fd63a",
     "652b956da506caf821b402542192deea",
     "e9de85b96827e7bfd8cd41168ef4f71e",
-    "881599829a18f9ed243e43133ccaaa8f"
+    "881599829a18f9ed243e43133ccaaa8f",
+    "b6ddac810c5b2d14b7ab5ba369683539",
+    "bcd631fdf4674bc99cfb2e619ed46c17"
   ]
 }
