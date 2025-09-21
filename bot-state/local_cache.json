@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frueherer-praesident-des-ukrainischen-parlaments-parubij-erschossen-100.html",
-    "https://www.deutschlandfunk.de/meta-will-ki-regeln-fuer-jugendliche-verschaerfen-102.html",
     "https://www.faz.net/aktuell/politik/inland/langzeitarbeitslose-niemand-will-sie-einstellen-accg-110660518.html",
     "https://www.deutschlandfunk.de/huthi-miliz-im-jemen-bestaetigt-tod-von-regierungsspitze-102.html",
     "https://www.deutschlandfunk.de/nordrhein-westfalens-regierungschef-wuest-als-cdu-landesvorsitzender-im-amt-bestaetigt-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verfassungsreferendum-in-guinea-4-jahre-nach-dem-putsch-100.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-uebergewinnsteuer-fuer-ruestungskonzerne-100.html",
     "https://www.deutschlandfunk.de/tausende-beim-marsch-fuer-das-leben-und-bei-gegenprotesten-in-berlin-und-koeln-100.html",
-    "https://www.deutschlandfunk.de/offenbar-frauen-und-kinder-bei-bombenangriffen-der-syrischen-armee-auf-kurdische-kaempfer-getoetet-100.html"
+    "https://www.deutschlandfunk.de/offenbar-frauen-und-kinder-bei-bombenangriffen-der-syrischen-armee-auf-kurdische-kaempfer-getoetet-100.html",
+    "https://www.deutschlandfunk.de/alzheimer-experte-aeussert-sich-vorsichtig-optimistisch-zu-kuenftigen-therapiemoeglichkeiten-100.html",
+    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-weist-spd-forderungen-nach-hoeherer-erbschaftsteuer-erneut-zuruec-100.html"
   ],
   "content_hashes": [
-    "d49cc8e000e56d7cdb055990af0058d2",
-    "fa8fd0331f60b27f0f95974b99600e65",
     "bb636269021e319123d167db7d789b5a",
     "4eb80d0c534d73978fcc1f10ec947491",
     "516f218879164d929ffb0060a7e05879",
@@ -2001,11 +1999,11 @@
     "ef1ee6eebdc70abf19de9ea75441cc72",
     "18b96161c538aaec13ac6ff7a3e0a578",
     "6798bf09dbed2423d20c178054fc711b",
-    "06004f43844e2edd739d8e7f07ccd1e8"
+    "06004f43844e2edd739d8e7f07ccd1e8",
+    "36c8733a9a7470be7a3aba88512dda3f",
+    "3aa14c2786616efd1a2149ebc8faf87f"
   ],
   "titles": [
-    "Anschlag in Lwiw - Früherer Präsident des ukrainischen Parlaments Parubij erschossen",
-    "Schutzmaßnahmen - Meta will KI-Regeln für Jugendliche verschärfen",
     "Langzeitarbeitslose: „Wer will die schon haben?“",
     "Nach israelischen Luftangriffen - Huthi-Miliz im Jemen bestätigt Tod von Regierungsspitze",
     "Bonn - Nordrhein-Westfalens Regierungschef Wüst als CDU-Landesvorsitzender im Amt bestätigt",
@@ -3003,11 +3001,11 @@
     "Westafrika - Verfassungsreferendum in Guinea 4 Jahre nach dem Putsch",
     "Kriege und Krisen - IG Metall fordert Übergewinnsteuer für Rüstungskonzerne",
     "Abtreibungen - Tausende beim \"Marsch für das Leben\" und bei Gegenprotesten in Berlin und Köln",
-    "Provinz Aleppo - Offenbar Frauen und Kinder bei Bombenangriffen der syrischen Armee auf kurdische Kämpfer getötet"
+    "Provinz Aleppo - Offenbar Frauen und Kinder bei Bombenangriffen der syrischen Armee auf kurdische Kämpfer getötet",
+    "Demenz-Erkrankungen - Alzheimer-Experte äußert sich \"vorsichtig optimistisch\" zu künftigen Therapiemöglichkeiten",
+    "CDU - Bundeswirtschaftsministerin Reiche weist SPD-Forderungen nach höherer Erbschaftsteuer erneut zurück und wirbt Einkommensteuer-Senkung"
   ],
   "hashes": [
-    "3503df4fae8d1031fbc51596933f34e4",
-    "36357f374af9a0417e731e0bf5a6e14c",
     "964b46f94b26cf5c31849ed7585d433a",
     "6c64acb577f564416c5b4fac9e283598",
     "0b48c2446221067a583b58c3292cca5e",
@@ -4005,6 +4003,8 @@
     "58bbe070340e8b5432e34983e02e22cc",
     "a3305c6359a208221da33d14ef4636a8",
     "90d985f05aa8a915e057af8cb85bf1a2",
-    "bb880b490eea770bfcd32007a0ceeff5"
+    "bb880b490eea770bfcd32007a0ceeff5",
+    "feac7026a40fb8549afbca27182fb21f",
+    "f32929f8c48f007d728893836f0fd63a"
   ]
 }
