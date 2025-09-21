@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/familie-freunde-und-kollegen-nehmen-abschied-von-getoetetem-polizisten-102.html",
-    "https://www.deutschlandfunk.de/merz-kuendigt-einschnitte-beim-sozialen-an-100.html",
     "https://www.deutschlandfunk.de/frueherer-praesident-des-ukrainischen-parlaments-parubij-erschossen-100.html",
     "https://www.deutschlandfunk.de/meta-will-ki-regeln-fuer-jugendliche-verschaerfen-102.html",
     "https://www.faz.net/aktuell/politik/inland/langzeitarbeitslose-niemand-will-sie-einstellen-accg-110660518.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weisses-haus-praezisiert-einzelheiten-zu-100-000-dollar-forderung-100.html",
     "https://www.deutschlandfunk.de/randalierer-in-innenstadt-von-den-haag-104.html",
     "https://www.deutschlandfunk.de/verfassungsreferendum-in-guinea-4-jahre-nach-dem-putsch-100.html",
-    "https://www.deutschlandfunk.de/ig-metall-fordert-uebergewinnsteuer-fuer-ruestungskonzerne-100.html"
+    "https://www.deutschlandfunk.de/ig-metall-fordert-uebergewinnsteuer-fuer-ruestungskonzerne-100.html",
+    "https://www.deutschlandfunk.de/tausende-beim-marsch-fuer-das-leben-und-bei-gegenprotesten-in-berlin-und-koeln-100.html",
+    "https://www.deutschlandfunk.de/offenbar-frauen-und-kinder-bei-bombenangriffen-der-syrischen-armee-auf-kurdische-kaempfer-getoetet-100.html"
   ],
   "content_hashes": [
-    "1c36bf4cb0852df54cf29d6c8cf78782",
-    "a1e48f29877b6ea3bd379e8679356491",
     "d49cc8e000e56d7cdb055990af0058d2",
     "fa8fd0331f60b27f0f95974b99600e65",
     "bb636269021e319123d167db7d789b5a",
@@ -2001,11 +1999,11 @@
     "ccf9a8898fbee44354171d5343b8190c",
     "0c10c08d041664857c6d888d9b7be9b4",
     "ef1ee6eebdc70abf19de9ea75441cc72",
-    "18b96161c538aaec13ac6ff7a3e0a578"
+    "18b96161c538aaec13ac6ff7a3e0a578",
+    "6798bf09dbed2423d20c178054fc711b",
+    "06004f43844e2edd739d8e7f07ccd1e8"
   ],
   "titles": [
-    "Trauerfeier in Saarlouis - Familie, Freunde und Kollegen nehmen Abschied von getötetem Polizisten",
-    "Landesparteitag der nordrhein-westfälischen CDU - Merz kündigt Einschnitte beim Sozialen an",
     "Anschlag in Lwiw - Früherer Präsident des ukrainischen Parlaments Parubij erschossen",
     "Schutzmaßnahmen - Meta will KI-Regeln für Jugendliche verschärfen",
     "Langzeitarbeitslose: „Wer will die schon haben?“",
@@ -3003,11 +3001,11 @@
     "Höhere Visa-Gebühren - Weißes Haus präzisiert Einzelheiten zu 100.000-Dollar-Forderung",
     "Nach Anti-Immigrations-Demonstration - Randalierer in Innenstadt von Den Haag",
     "Westafrika - Verfassungsreferendum in Guinea 4 Jahre nach dem Putsch",
-    "Kriege und Krisen - IG Metall fordert Übergewinnsteuer für Rüstungskonzerne"
+    "Kriege und Krisen - IG Metall fordert Übergewinnsteuer für Rüstungskonzerne",
+    "Abtreibungen - Tausende beim \"Marsch für das Leben\" und bei Gegenprotesten in Berlin und Köln",
+    "Provinz Aleppo - Offenbar Frauen und Kinder bei Bombenangriffen der syrischen Armee auf kurdische Kämpfer getötet"
   ],
   "hashes": [
-    "61ffa91a296136608da01484431bd6a6",
-    "5be1d4f1d99a82712c1678fe6238ef47",
     "3503df4fae8d1031fbc51596933f34e4",
     "36357f374af9a0417e731e0bf5a6e14c",
     "964b46f94b26cf5c31849ed7585d433a",
@@ -4005,6 +4003,8 @@
     "ebb6b633f70c6fe1a148174e4370f8bc",
     "e5c70c107577ae93e72012e8ac0cb1e9",
     "58bbe070340e8b5432e34983e02e22cc",
-    "a3305c6359a208221da33d14ef4636a8"
+    "a3305c6359a208221da33d14ef4636a8",
+    "90d985f05aa8a915e057af8cb85bf1a2",
+    "bb880b490eea770bfcd32007a0ceeff5"
   ]
 }
