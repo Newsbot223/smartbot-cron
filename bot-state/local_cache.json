@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/putin-zu-gipfelgespraechen-im-chinesischen-tianjin-eingetroffen-102.html",
-    "https://www.deutschlandfunk.de/israel-gibt-details-zu-leichen-von-geiseln-bekannt-102.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-weitgehendes-verbot-der-briefwahl-an-102.html",
     "https://www.deutschlandfunk.de/buergermeister-von-chicago-unterzeichnet-anordnung-gegen-zusammenarbeit-mit-nationalgarde-106.html",
     "https://www.deutschlandfunk.de/linnemann-will-ein-ende-der-debatte-ueber-steuererhoehungen-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-politiker-hardt-fordert-klare-botschaft-an-moskau-104.html",
     "https://www.deutschlandfunk.de/kenianer-sawe-gewinnt-marathon-104.html",
     "https://www.deutschlandfunk.de/russland-meldet-zwei-tote-nach-ukrainischen-angriffen-100.html",
-    "https://www.deutschlandfunk.de/cdu-politiker-hardt-haelt-abschuss-von-russischen-kampfjets-fuer-eine-moeglichkeit-100.html"
+    "https://www.deutschlandfunk.de/cdu-politiker-hardt-haelt-abschuss-von-russischen-kampfjets-fuer-eine-moeglichkeit-100.html",
+    "https://www.deutschlandfunk.de/caritas-und-vdk-kritisieren-aktivrente-102.html",
+    "https://www.deutschlandfunk.de/corona-journalistin-erneut-zu-haftstrafe-verurteilt-102.html"
   ],
   "content_hashes": [
-    "c05fe62d1e0571266b99f1a3f9736698",
-    "feb51b149a0d23ca945ece02596109a4",
     "73bc5f8a1abf36975416c3f95dca8812",
     "344b2ba5cbd422dee65d10d87664ec76",
     "c6470e550640380b74a6f5a47473945a",
@@ -2001,11 +1999,11 @@
     "e5df63cd8b22aa5483f8e35cbb43f91b",
     "0f5573777f37ed0644271f72553056b3",
     "e5b711ddf6f382c6672c9f8b60ed6c35",
-    "0ecc6684e9310d192f81adfccea4a933"
+    "0ecc6684e9310d192f81adfccea4a933",
+    "bbe217ce81d72ce51e1bf1077a0e5e98",
+    "85ab7aa286fe2990fa32db2935ed8347"
   ],
   "titles": [
-    "Diplomatie - Putin zu Gipfelgesprächen im chinesischen Tianjin eingetroffen",
-    "Nahost - Israel gibt Details zu Leichen von Geiseln bekannt",
     "US-Wahlrecht - Trump kündigt weitgehendes Verbot der Briefwahl an",
     "USA - Bürgermeister von Chicago unterzeichnet Anordnung gegen Zusammenarbeit mit Nationalgarde",
     "Koalition - Linnemann will ein Ende der Debatte über Steuererhöhungen",
@@ -3003,11 +3001,11 @@
     "Russische Luftraumverletzungen - CDU-Politiker Hardt fordert klare Botschaft an Moskau",
     "Berlin - Kenianer Sawe gewinnt Marathon",
     "Ukraine-Krieg - Russland meldet zwei Tote nach ukrainischen Angriffen",
-    "Luftraumverletzungen - CDU-Politiker Hardt hält Abschuss von russischen Kampfjets für eine Möglichkeit"
+    "Luftraumverletzungen - CDU-Politiker Hardt hält Abschuss von russischen Kampfjets für eine Möglichkeit",
+    "Steuerpolitik - Caritas und VdK kritisieren Aktivrente",
+    "China - Corona-Journalistin erneut zu Haftstrafe verurteilt"
   ],
   "hashes": [
-    "5590acd691cdc858225dcaf61b05692c",
-    "7f35056651e8b2d6ff297618af94b95c",
     "9aaa00524df196cbb7a3bb6ca0064927",
     "3fad1f57dff9079c8a2b7615234531e8",
     "16d62fb6e5277e515021a9ec061fae6b",
@@ -4005,6 +4003,8 @@
     "b6ddac810c5b2d14b7ab5ba369683539",
     "bcd631fdf4674bc99cfb2e619ed46c17",
     "efccce37d9f1914675897872617c9498",
-    "684330f3ff86afa5937ebfffbb78064f"
+    "684330f3ff86afa5937ebfffbb78064f",
+    "7537785586c3a38c85c6708d317b100c",
+    "0c03eca84ca1bea77415699dc84844fb"
   ]
 }
