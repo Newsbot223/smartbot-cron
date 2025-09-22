@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frankreichs-regierungschef-bayrou-wirbt-fuer-sparprogramm-100.html",
-    "https://www.deutschlandfunk.de/knapp-50-menschen-aus-afghanistan-in-deutschland-erwartet-100.html",
     "https://www.deutschlandfunk.de/abschlusserklaerung-auf-konferenz-der-soz-staaten-erwartet-100.html",
     "https://www.deutschlandfunk.de/informationsfreiheitsgesetz-tritt-in-oesterreich-in-kraft-100.html",
     "https://www.deutschlandfunk.de/bundestagsvizepraesident-nouripour-schlaegt-gebuendelte-termine-und-einheitliche-legislaturperioden--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-protesten-gegen-regierung-polizei-soll-scharf-geschossen-haben-100.html",
     "https://www.deutschlandfunk.de/frankreich-will-palaestinenserstaat-heute-anerkennen-106.html",
     "https://www.deutschlandfunk.de/am-ber-und-anderen-flughaefen-in-europa-auch-am-morgen-noch-verspaetungen-und-warteschlangen-100.html",
-    "https://www.deutschlandfunk.de/kabel-durchtrennt-vandalismus-legt-pendler-strecke-koeln-duesseldorf-lahm-oberleitungsstoerung-in-no-100.html"
+    "https://www.deutschlandfunk.de/kabel-durchtrennt-vandalismus-legt-pendler-strecke-koeln-duesseldorf-lahm-oberleitungsstoerung-in-no-100.html",
+    "https://www.deutschlandfunk.de/schnieder-bestaetigt-db-regio-chefin-palla-rueckt-an-die-spitze-der-deutschen-bahn-100.html",
+    "https://www.deutschlandfunk.de/mehr-fahrgaeste-in-bus-und-bahn-im-ersten-halbjahr-100.html"
   ],
   "content_hashes": [
-    "b7a39f91e34faee80386032409167469",
-    "f11726bae1c1647153771819423f0ac4",
     "3870233eee74d78901cdba57a5fb9e9a",
     "ad17d84b3cf161389298b0fd6a6fa177",
     "eb0443231a34cb0836d7ac2b29c9e9e6",
@@ -2001,11 +1999,11 @@
     "0b0f91163b78b6b25040080b4ad0b46a",
     "476d480ed5cedde80ce6d4f2afeece6e",
     "0493be7bf180aa557df942aaa287bb75",
-    "30702895db47188e6523436e83988006"
+    "30702895db47188e6523436e83988006",
+    "ee3ea1b87de8a78df31d526ef5af6df9",
+    "b8ac3778d954fb65bc6b59e1f76e07f0"
   ],
   "titles": [
-    "Eine Woche vor Vertrauensfrage - Frankreichs Regierungschef Bayrou wirbt für Sparprogramm",
-    "Nach Aufnahmezusage - Knapp 50 Menschen aus Afghanistan in Deutschland erwartet",
     "Gipfel in Tianjin - Abschlusserklärung auf Konferenz der SOZ-Staaten erwartet",
     "Kein Amtsgeheimnis mehr - Informationsfreiheitsgesetz tritt in Österreich in Kraft",
     "Wahlen in Deutschland - Bundestagsvizepräsident Nouripour schlägt gebündelte Termine und einheitliche Legislaturperioden vor",
@@ -3003,11 +3001,11 @@
     "Peru - Zahlreiche Verletzte bei Protesten gegen Regierung - Polizei soll scharf geschossen haben",
     "Nahost - Frankreich will Palästinenserstaat heute anerkennen",
     "Nach Cyberangriff - Am BER und anderen Flughäfen in Europa auch am Morgen noch Verspätungen und Warteschlangen",
-    "Bahnverkehr - Kabel durchtrennt: Vandalismus legt Pendler-Strecke Köln-Düsseldorf lahm - Oberleitungsstörung in Norddeutschland"
+    "Bahnverkehr - Kabel durchtrennt: Vandalismus legt Pendler-Strecke Köln-Düsseldorf lahm - Oberleitungsstörung in Norddeutschland",
+    "Bahn-Strategie - Schnieder bestätigt: DB-Regio-Chefin Palla rückt an die Spitze der Deutschen Bahn",
+    "Nahverkehr - Mehr Fahrgäste in Bus und Bahn im ersten Halbjahr"
   ],
   "hashes": [
-    "e4dfbef1cecbf23892d2c5888904b064",
-    "c85670e50daf17f05ac41af5aa3b2b01",
     "dc6b823a70787bb617e095e620a1297b",
     "3e19297ebcae5ee3a74a0f132fd5aecc",
     "11ecd9ec003a3534d1ad937cbc3a6fdc",
@@ -4005,6 +4003,8 @@
     "7506358cc2b2b7eb1cf0006c3d694352",
     "283ed70ff6510dcee8d519214db4098d",
     "1fc70ac1aa8434316c5c967ab9335c6b",
-    "738c391cd25780a93b5cf204c18aa924"
+    "738c391cd25780a93b5cf204c18aa924",
+    "f485fa86c7c839d376514cdb0e2681f3",
+    "7d72009494812d08cdeccf9d44560acd"
   ]
 }
