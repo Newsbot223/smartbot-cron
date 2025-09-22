@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/arbeitslosigkeit-in-der-eu-geht-im-juli-leicht-zurueck-102.html",
-    "https://www.deutschlandfunk.de/erdgasbohrungen-vor-borkum-duerfen-beginnen-102.html",
     "https://www.deutschlandfunk.de/flugzeug-von-kommissionspraesidentin-von-der-leyen-ziel-von-gps-stoerung-102.html",
     "https://www.deutschlandfunk.de/spd-will-dass-verbale-belaestigung-strafbar-wird-104.html",
     "https://www.deutschlandfunk.de/mehr-als-150-medienunternehmen-fordern-schutz-fuer-journalisten-in-gaza-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/richterwahlausschuss-schlaegt-mit-zweidrittelmehrheit-emmenegger-fuer-verfassungsgericht-vor-102.html",
     "https://www.deutschlandfunk.de/abgesetzte-late-night-show-von-jimmy-kimmel-geht-wieder-auf-sendung-104.html",
     "https://www.deutschlandfunk.de/macron-verkuendet-anerkennung-von-staat-palaestina-100.html",
-    "https://www.deutschlandfunk.de/flugverkehr-am-flughafen-kopenhagen-wegen-drohnen-eingestellt-102.html"
+    "https://www.deutschlandfunk.de/flugverkehr-am-flughafen-kopenhagen-wegen-drohnen-eingestellt-102.html",
+    "https://www.deutschlandfunk.de/klingbeil-bringt-haushalt-2026-ins-parlament-ein-100.html",
+    "https://www.deutschlandfunk.de/bahn-aufsichtsrat-tagt-zu-umstrittenem-wechsel-an-konzernspitze-100.html"
   ],
   "content_hashes": [
-    "27b226a811505f73fd1b44172b72541b",
-    "1de3bd77f55254908370e683d1ab6388",
     "001299e6d8db062586e0eb459b77923c",
     "336c13224633bdb9e049994395b11f96",
     "4f0b6d66a349f1711d80bb7cfa731d9e",
@@ -2001,11 +1999,11 @@
     "c39412bc1d98b4ce44396e74a961ab47",
     "6e2ebde8155eb12bd0bee59c136a82ce",
     "3380eb4151833ab6a57c190482f2c249",
-    "b870f722959f12bb546b4a29bfee9202"
+    "b870f722959f12bb546b4a29bfee9202",
+    "b6e59bf54dce5285c8ac7ce171efadf0",
+    "b1fc30f065d86de12fb0ea84bd7be01e"
   ],
   "titles": [
-    "Eurostat - Arbeitslosigkeit in der EU geht im Juli leicht zurück",
-    "Landesbehörde - Erdgasbohrungen vor Borkum dürfen beginnen",
     "Bulgarien - Flugzeug von Kommissionspräsidentin von der Leyen Ziel von GPS-Störung",
     "\"Catcalling\" - SPD will, dass verbale Belästigung strafbar wird",
     "Weltweite Kampagne - Mehr als 150 Medienunternehmen fordern Schutz für Journalisten in Gaza",
@@ -3003,11 +3001,11 @@
     "Berlin - Richterwahlausschuss schlägt mit Zweidrittelmehrheit Emmenegger für Verfassungsgericht vor",
     "USA - Abgesetzte Late-Night-Show von Jimmy Kimmel geht wieder auf Sendung",
     "Vereinte Nationen - Macron verkündet Anerkennung von \"Staat Palästina\"",
-    "Dänemark - Flugverkehr am Flughafen Kopenhagen wegen Drohnen eingestellt"
+    "Dänemark - Flugverkehr am Flughafen Kopenhagen wegen Drohnen eingestellt",
+    "Berlin - Klingbeil bringt Haushalt 2026 ins Parlament ein",
+    "Berlin - Bahn-Aufsichtsrat tagt zu umstrittenem Wechsel an Konzernspitze"
   ],
   "hashes": [
-    "9e9f06e09ced721f01c974a9ce61d85e",
-    "ef07d2aa0ed324d03a60c43391ff53c7",
     "19f8f12981458046ab87a090c14fba17",
     "89b2ee20dc82280eb3bcedcecfa048a6",
     "511b51a236d2b72b361527144274c085",
@@ -4005,6 +4003,8 @@
     "84c72086ee39492a92a76a2ed042b0bc",
     "e6611e5953c9de7b1971c8dd0350c131",
     "ec1a30ee360aadde6b92c5d628473c2b",
-    "a67fb3ac57a6fe6f21c3ee1e8f86dd7f"
+    "a67fb3ac57a6fe6f21c3ee1e8f86dd7f",
+    "58b56502c841efebf47cbdefad2818d3",
+    "2f0427a8d293a8db45a4a9e96b910331"
   ]
 }
