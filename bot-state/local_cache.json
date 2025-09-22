@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wehpflicht-frauen-an-die-waffe-110663625.html",
-    "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-nicht-europa-sondern-putin-legt-trump-steine-in-den-weg-110663767.html",
-    "https://www.deutschlandfunk.de/merz-lehnt-steuererhoehungen-erneut-ab-klingbeil-alle-muessen-einen-beitrag-leisten-100.html",
-    "https://www.deutschlandfunk.de/huthi-miliz-im-jemen-nimmt-mitarbeiter-von-uno-organisationen-fest-100.html",
     "https://www.deutschlandfunk.de/linke-gegen-wehrpflicht-auch-fuer-frauen-104.html",
     "https://www.deutschlandfunk.de/von-der-leyen-spricht-ueber-praezise-plaene-fuer-europaeische-ukraine-truppe-mit-us-unterstuetzung-100.html",
     "https://www.deutschlandfunk.de/klingbeil-unterstuetzt-buergergeld-verschaerfungen-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/spd-warnt-cdu-gesundheitsministerin-vor-leistungskuerzungen-accg-110697109.html",
     "https://www.deutschlandfunk.de/trump-regierung-will-berichterstattung-ueber-militaer-kontrollieren-102.html",
     "https://www.deutschlandfunk.de/bischoefe-kommen-in-fulda-zur-vollversammlung-zusammen-praesident-steinmeier-trifft-papst-in-rom-100.html",
-    "https://www.deutschlandfunk.de/am-ber-nach-cyberangriff-auch-heute-noch-verspaetungen-und-warteschlangen-100.html"
+    "https://www.deutschlandfunk.de/am-ber-nach-cyberangriff-auch-heute-noch-verspaetungen-und-warteschlangen-100.html",
+    "https://www.deutschlandfunk.de/strack-zimmermann-diskussion-ueber-abschuss-ist-bizarr-100.html",
+    "https://www.deutschlandfunk.de/wadephul-prozess-fuer-zweistaatenloesung-muss-jetzt-beginnen-anerkennung-von-palaestinenserstaat-ers-100.html",
+    "https://www.deutschlandfunk.de/verfassungsreferendum-in-guinea-vier-jahre-nach-dem-putsch-104.html",
+    "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-protesten-gegen-regierung-polizei-soll-scharf-geschossen-haben-100.html"
   ],
   "content_hashes": [
-    "2a2344b9b3cfcaf4e82f654a5d4a070d",
-    "6381d724eec84dc71c971d3ba00a284f",
-    "8e9be3fc3527fc30a405440a3c1b859b",
-    "523d3be49884e067dd8ea732f41f7c52",
     "2ab1206ceeef2c12762824c2b7d9d07b",
     "9a26e40176cd05b988e055203c500d36",
     "8be19b6cd5fc10eccb302ff74ff5a8fc",
@@ -2001,13 +1997,13 @@
     "feb77532f096bb34d43fc10130454eac",
     "ee82e3d9c1a63f48deb09f91704d969f",
     "655f288ad6bf94a505877f21dd9460b6",
-    "c765723d229766fce193caf3639edd9d"
+    "c765723d229766fce193caf3639edd9d",
+    "df1650bb445a2f3120df029df791255b",
+    "cce48c7e5cdfe32df1f6fd60aba2046d",
+    "cd37b9d928b9b8d90dda5a53c4bde752",
+    "0b0f91163b78b6b25040080b4ad0b46a"
   ],
   "titles": [
-    "Wehrpflicht: Frauen an die Waffe!",
-    "Krieg in der Ukraine: Es ist nicht Europas Schuld",
-    "Koalition - Merz lehnt Steuererhöhungen erneut ab - Klingbeil: \"Alle müssen einen Beitrag leisten\"",
-    "Sanaa - Huthi-Miliz im Jemen nimmt Mitarbeiter von UNO-Organisationen fest",
     "Verteidigung - Linke gegen Wehrpflicht auch für Frauen",
     "Financial-Times-Interview - Von der Leyen spricht über \"präzise Pläne\" für europäische Ukraine-Truppe mit US-Unterstützung",
     "Soziales - Klingbeil unterstützt Bürgergeld-Verschärfungen",
@@ -3003,13 +2999,13 @@
     "Krankenkassen: SPD warnt CDU-Gesundheitsministerin vor Leistungskürzungen",
     "USA - Trump-Regierung will Berichterstattung über Militär kontrollieren",
     "Katholische Kirche - Bischöfe kommen in Fulda zur Vollversammlung zusammen - Präsident Steinmeier trifft Papst in Rom",
-    "Europa - Am BER nach Cyberangriff auch heute noch Verspätungen und Warteschlangen"
+    "Europa - Am BER nach Cyberangriff auch heute noch Verspätungen und Warteschlangen",
+    "Reaktion auf russische Lufraumverletzung - Strack-Zimmermann: Diskussion über Abschuss ist \"bizarr\"",
+    "Nahost - Wadephul: Prozess für Zweistaatenlösung muss jetzt beginnen - Anerkennung von Palästinenserstaat erst am Schluss",
+    "Westafrika - Verfassungsreferendum in Guinea vier Jahre nach dem Putsch",
+    "Peru - Zahlreiche Verletzte bei Protesten gegen Regierung - Polizei soll scharf geschossen haben"
   ],
   "hashes": [
-    "9e98028b9c6a4877e50b72d55a8275b0",
-    "55fadb578c75e564b987aa83071b8332",
-    "7ff27e4295e025fb5bff9af8d6f734f1",
-    "92fe065594bc43a244b0a5c7dda8a341",
     "7a84aa3d5a268683335a44cacd802371",
     "8fe6b70f87052bcab853c7cf5e766612",
     "cce8afecf036f4df0077267ae628be2e",
@@ -4005,6 +4001,10 @@
     "53839824caad5593ad661928c3b99ece",
     "05bb6a2432fb76739a84b4a88b797d5c",
     "0fd2c0008a7f44544bf91b1dd8f19fb6",
-    "4b3735857b4bc2da0037f359acca0dab"
+    "4b3735857b4bc2da0037f359acca0dab",
+    "89afe717c2c7d1fc471f43236ecb046a",
+    "2950218faa0ae5fc4348c4f302392aac",
+    "24fa7c6753e9ab4676bd7c7beef9bea6",
+    "7506358cc2b2b7eb1cf0006c3d694352"
   ]
 }
