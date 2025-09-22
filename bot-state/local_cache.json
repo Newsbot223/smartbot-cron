@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/chinas-staatschef-xi-kritisiert-in-rede-aktuelle-weltordnung-putin-trifft-modi-100.html",
-    "https://www.deutschlandfunk.de/hunderte-tote-bei-erdbeben-in-provinz-kunar-100.html",
-    "https://www.deutschlandfunk.de/spahn-und-miersch-zu-besuch-in-kiew-102.html",
     "https://www.deutschlandfunk.de/selenskyj-nach-mord-an-ukrainischem-ex-parlamentspraesidenten-verdaechtiger-gefasst-100.html",
     "https://www.deutschlandfunk.de/sozialstaatskommission-nimmt-arbeit-auf-de-maizi-re-zu-viele-behoerden-bei-auszahlung-von-leistungen-102.html",
     "https://www.faz.net/aktuell/politik/inland/muerrische-deutsche-ekel-alfred-lebt-im-paradies-110663543.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundespraesident-ermutigt-papst-zu-vermittlerrolle-in-konflikten-102.html",
     "https://www.deutschlandfunk.de/durchtrennte-signalkabel-zwischen-koeln-und-duesseldorf-polizei-geht-von-sabotage-aus-zugverkehr-auc-100.html",
     "https://www.faz.net/aktuell/politik/inland/sabotage-legt-pendler-strecke-koeln-duesseldorf-lahm-110698327.html",
-    "https://www.deutschlandfunk.de/aegyptens-praesident-al-sisi-begnadigt-prominenten-politischen-gefangenen-abdel-fattah-100.html"
+    "https://www.deutschlandfunk.de/aegyptens-praesident-al-sisi-begnadigt-prominenten-politischen-gefangenen-abdel-fattah-100.html",
+    "https://www.deutschlandfunk.de/daenische-regierung-will-opfer-von-zwangsverhuetung-in-groenland-entschaedigen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ob-wahl-ludwigshafen-wenn-nur-noch-ein-drittel-waehlt-110698012.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-auf-trauerfeier-fuer-charlie-kirk-er-plaediert-fuer-hass-110698122.html"
   ],
   "content_hashes": [
-    "62c83a4b16546c9d3f87609a2af23c69",
-    "89026279d4b9c779b07f8b8ba2639dbf",
-    "da9ba9a95d0c4ab943a513d04ff18bed",
     "4a0fb947d137c7dc35908f0dfd7c52be",
     "89d282dabbf6b1212f4ad9f02d8b394a",
     "b810e7cea541485d9fc9999aa7c07222",
@@ -2001,12 +1998,12 @@
     "55cb611610a6f5fd2498b1746bb94ddb",
     "80db0340b04118710618f373752b7fcb",
     "234a88bdb598eacdd5f039677fdc39b9",
-    "7bd554439c3cd3e205952fc402cd0804"
+    "7bd554439c3cd3e205952fc402cd0804",
+    "7804c6779f126d7605310c03d992e88d",
+    "96c5e988c7d76e46fe7494b11f7f05da",
+    "8e669e0cfc165c50453cfb7f84994631"
   ],
   "titles": [
-    "SOZ-Gipfel in Tianjin - Chinas Staatschef Xi kritisiert in Rede aktuelle Weltordnung - Putin trifft Modi",
-    "Afghanistan - Hunderte Tote bei Erdbeben in Provinz Kunar",
-    "Ukraine - Spahn und Miersch zu Besuch in Kiew",
     "Ukraine - Selenskyj: Nach Mord an ukrainischem Ex-Parlamentspräsidenten Verdächtiger gefasst",
     "Reformen - Sozialstaatskommission nimmt Arbeit auf - de Maizière: \"Zu viele Behörden bei Auszahlung von Leistungen involviert",
     "Mürrische Deutsche: Ekel Alfred lebt im Paradies",
@@ -3003,12 +3000,12 @@
     "Audienz in Rom - Bundespräsident ermutigt Papst zu Vermittlerrolle in Konflikten",
     "Bahn - Durchtrennte Signalkabel zwischen Köln und Düsseldorf: Polizei geht von Sabotage aus - Zugverkehr auch im Norden stark eingeschränkt",
     "Nordrhein-Westfalen: Sabotage legt Pendler-Strecke lahm",
-    "Kairo - Ägyptens Präsident al-Sisi begnadigt prominenten politischen Gefangenen Abdel Fattah"
+    "Kairo - Ägyptens Präsident al-Sisi begnadigt prominenten politischen Gefangenen Abdel Fattah",
+    "Grönland - Dänische Regierung will Opfer von Zwangsverhütung in Grönland entschädigen",
+    "OB-Wahl Ludwigshafen: Ein Drittel ist für die Demokratie zu wenig",
+    "Im Namen Charlie Kirks: Trumps Hassrede"
   ],
   "hashes": [
-    "ed9f24d7a500b9301d191c3fee614897",
-    "2aa26f83a98d0fa516eef77bad07e650",
-    "72bd6ff1ed83e3f8aaa3deba86a3f55f",
     "b578db99db1af08e54f183b476167c0a",
     "73e622a40ccbe911a02a0545df37e925",
     "bb2810bbbbb19383d1d8f6cda4a054f6",
@@ -4005,6 +4002,9 @@
     "39e06e5c2264805ddd867ae17629e9f5",
     "6dad943d3675b3e6ae4cb34a2d1ddcef",
     "c9a81c72d7f22c221e40e811b9f15ca0",
-    "0ce097b2cc3d09d41c7f3172d3724b7a"
+    "0ce097b2cc3d09d41c7f3172d3724b7a",
+    "461f26903567242dc1e3211a139b380a",
+    "4f03f609792a3254e33bc4ad69641d45",
+    "5902942a722f68e4dc1f6f1be897673d"
   ]
 }
