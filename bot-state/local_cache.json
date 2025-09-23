@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flugzeug-von-kommissionspraesidentin-von-der-leyen-ziel-von-gps-stoerung-102.html",
-    "https://www.deutschlandfunk.de/spd-will-dass-verbale-belaestigung-strafbar-wird-104.html",
-    "https://www.deutschlandfunk.de/mehr-als-150-medienunternehmen-fordern-schutz-fuer-journalisten-in-gaza-102.html",
     "https://www.faz.net/aktuell/politik/inland/transparenz-in-der-politik-ohne-heimlichkeit-geht-es-nicht-accg-110661111.html",
     "https://www.deutschlandfunk.de/flugzeug-mit-von-der-leyen-ziel-von-gps-stoerung-bulgarien-macht-russland-verantwortlich-102.html",
     "https://www.deutschlandfunk.de/knapp-50-schutzbeduerftige-afghanen-in-deutschland-eingetroffen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/macron-verkuendet-anerkennung-von-staat-palaestina-100.html",
     "https://www.deutschlandfunk.de/flugverkehr-am-flughafen-kopenhagen-wegen-drohnen-eingestellt-102.html",
     "https://www.deutschlandfunk.de/klingbeil-bringt-haushalt-2026-ins-parlament-ein-100.html",
-    "https://www.deutschlandfunk.de/bahn-aufsichtsrat-tagt-zu-umstrittenem-wechsel-an-konzernspitze-100.html"
+    "https://www.deutschlandfunk.de/bahn-aufsichtsrat-tagt-zu-umstrittenem-wechsel-an-konzernspitze-100.html",
+    "https://www.deutschlandfunk.de/auch-csu-fordert-von-eu-kommission-reform-der-freizuegigkeitsregeln-102.html",
+    "https://www.deutschlandfunk.de/mali-burkina-faso-und-niger-boykottieren-weltstrafgericht-104.html",
+    "https://www.deutschlandfunk.de/flugverkehr-am-flughafen-kopenhagen-wieder-aufgenommen-100.html"
   ],
   "content_hashes": [
-    "001299e6d8db062586e0eb459b77923c",
-    "336c13224633bdb9e049994395b11f96",
-    "4f0b6d66a349f1711d80bb7cfa731d9e",
     "9f89382953f24f4c7c324c14cfffe6ed",
     "85360342b953400fd6ba08e51dfda072",
     "ff8f9df4d5dcfe3c98876e6792c68cab",
@@ -2001,12 +1998,12 @@
     "3380eb4151833ab6a57c190482f2c249",
     "b870f722959f12bb546b4a29bfee9202",
     "b6e59bf54dce5285c8ac7ce171efadf0",
-    "b1fc30f065d86de12fb0ea84bd7be01e"
+    "b1fc30f065d86de12fb0ea84bd7be01e",
+    "1ac7a085cdf68db4cd21d65eec8a2678",
+    "ec19accfea708846bd1e3e5141ef8a17",
+    "e71389a0e9de8543ae178e94b3fbe2ec"
   ],
   "titles": [
-    "Bulgarien - Flugzeug von Kommissionspräsidentin von der Leyen Ziel von GPS-Störung",
-    "\"Catcalling\" - SPD will, dass verbale Belästigung strafbar wird",
-    "Weltweite Kampagne - Mehr als 150 Medienunternehmen fordern Schutz für Journalisten in Gaza",
     "Transparenz in der Politik: Ohne Heimlichkeit geht es nicht",
     "Vorfall - Flugzeug mit von der Leyen Ziel von GPS-Störung - Bulgarien macht Russland verantwortlich",
     "Nach Aufnahmezusage - Knapp 50 schutzbedürftige Afghanen in Deutschland eingetroffen",
@@ -3003,12 +3000,12 @@
     "Vereinte Nationen - Macron verkündet Anerkennung von \"Staat Palästina\"",
     "Dänemark - Flugverkehr am Flughafen Kopenhagen wegen Drohnen eingestellt",
     "Berlin - Klingbeil bringt Haushalt 2026 ins Parlament ein",
-    "Berlin - Bahn-Aufsichtsrat tagt zu umstrittenem Wechsel an Konzernspitze"
+    "Berlin - Bahn-Aufsichtsrat tagt zu umstrittenem Wechsel an Konzernspitze",
+    "Debatte um Sozialbetrug - Auch CSU fordert von EU-Kommission Reform der Freizügigkeitsregeln",
+    "Austritt angekündigt - Mali, Burkina Faso und Niger boykottieren Weltstrafgericht",
+    "Unbekannte Drohnen - Flugverkehr am Flughafen Kopenhagen wieder aufgenommen"
   ],
   "hashes": [
-    "19f8f12981458046ab87a090c14fba17",
-    "89b2ee20dc82280eb3bcedcecfa048a6",
-    "511b51a236d2b72b361527144274c085",
     "a20848d58e04384ee7bf60d862bc889d",
     "f80e791455bc5e545a55b76e2702a96d",
     "e024da5f442e73ecb8388e8b9a7c8326",
@@ -4005,6 +4002,9 @@
     "ec1a30ee360aadde6b92c5d628473c2b",
     "a67fb3ac57a6fe6f21c3ee1e8f86dd7f",
     "58b56502c841efebf47cbdefad2818d3",
-    "2f0427a8d293a8db45a4a9e96b910331"
+    "2f0427a8d293a8db45a4a9e96b910331",
+    "b66c58789e4ddf557bfbe0ac9af0cc06",
+    "387e059ce8838a69b2e3e4f1f25d59c0",
+    "f0b5a18647fdad63fd004f7cf9a83d90"
   ]
 }
