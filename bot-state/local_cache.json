@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/caritas-ansprueche-aelterer-generation-nicht-gegen-junge-durchsetzen-102.html",
-    "https://www.deutschlandfunk.de/erneute-russische-angriffe-ein-toter-in-kiew-100.html",
     "https://www.deutschlandfunk.de/auch-belgien-will-palaestinenserstaat-anerkennen-102.html",
     "https://www.faz.net/aktuell/politik/nouripour-wahlen-zusammenlegen-bundesstaat-in-gefahr-110665085.html",
     "https://www.deutschlandfunk.de/parlament-verabschiedet-gesetz-zum-verbot-von-homosexualitaet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/60-wehrmachtssoldaten-in-lietzen-eingebettet-100.html",
     "https://www.deutschlandfunk.de/trump-warnt-vor-impfungen-und-paracetamol-who-und-eu-arzneimittelbehoerde-weisen-darstellung-zurueck-102.html",
     "https://www.deutschlandfunk.de/flughafen-hongkong-streicht-hunderte-fluege-wegen-taifun-ragasa-100.html",
-    "https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-kritisiert-ausladung-von-michel-friedman-100.html"
+    "https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-kritisiert-ausladung-von-michel-friedman-100.html",
+    "https://www.deutschlandfunk.de/spanisches-waffenembargo-gegen-israel-tritt-in-kraft-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-verlangt-auskunft-von-tech-unternehmen-zu-betrug-auf-plattformen-100.html"
   ],
   "content_hashes": [
-    "937e659bacd00e40e2ce322d35f5fd8b",
-    "27b3517c445ba3189c45b2cb88a38a8b",
     "8843c7a9559750c3e1ffbbd3be843c21",
     "5c92e600585647bb83d08bab254e629d",
     "ff54a29b70a9cd78b7ba6b9025e86265",
@@ -2001,11 +1999,11 @@
     "71d5a8f64b52a074e99adeeb3e5390ff",
     "2581c270662669d30c3d1021e9d33fc0",
     "de576770fac236c722ae9c347fd7aeed",
-    "de00f369955f184abcc63a68b84767e3"
+    "de00f369955f184abcc63a68b84767e3",
+    "0a3190d3d77d480793c934357294f7e7",
+    "f940a54669ce5fb075915b2e2a043389"
   ],
   "titles": [
-    "Debatte über Sozialsystem - Caritas: Ansprüche älterer Generation nicht gegen Junge durchsetzen",
-    "Ukraine-Krieg - Erneute russische Angriffe - ein Toter in Kiew",
     "Bei UNO-Vollversammlung - Auch Belgien will Palästinenserstaat anerkennen",
     "Wahlen zusammenlegen?: Der Bundesstaat kommt unter die Räder",
     "Burkina Faso - Parlament verabschiedet Gesetz zum Verbot von Homosexualität",
@@ -3003,11 +3001,11 @@
     "Brandenburg - 60 Wehrmachtssoldaten in Lietzen eingebettet",
     "Autismus - Trump warnt vor Impfungen und Paracetamol – WHO und EU-Arzneimittelbehörde weisen Darstellung zurück",
     "Asien - Flughafen Hongkong streicht Hunderte Flüge wegen Taifun \"Ragasa\"",
-    "Mecklenburg-Vorpommern - Antisemitismusbeauftragter Klein kritisiert Ausladung von Michel Friedman"
+    "Mecklenburg-Vorpommern - Antisemitismusbeauftragter Klein kritisiert Ausladung von Michel Friedman",
+    "Gaza-Konflikt - Spanisches Waffenembargo gegen Israel tritt in Kraft",
+    "Apple, Google, Microsoft, booking.com - EU-Kommission verlangt Auskunft von Tech-Unternehmen zu Betrug auf Plattformen"
   ],
   "hashes": [
-    "78cbcd1afc6cfe418af8571eb729b1ee",
-    "807efdf66009f34aa1a92b7a242ba892",
     "c57a55baba7922283daf5d206dff0ac2",
     "583f43d0410c90a27909f7912d83b911",
     "42eefe7fd0c4694d035270fc89fe72f7",
@@ -4005,6 +4003,8 @@
     "29eb28cb0528bdd5701b8a38e090d48d",
     "3e89c0e3e815ac00a220f3ca888455c7",
     "ab2e9561dc2ece3866bf32cb7d0f18fc",
-    "50d926ac445532dc6cf0a48993201b9a"
+    "50d926ac445532dc6cf0a48993201b9a",
+    "ef19cb807668a2460c62ac7989496666",
+    "0c98b38b920ef1dc4a9e996f11800e27"
   ]
 }
