@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/klingbeil-setzt-beirat-ein-104.html",
-    "https://www.deutschlandfunk.de/syrien-und-libanon-wollen-streitfragen-gemeinsam-klaeren-100.html",
-    "https://www.deutschlandfunk.de/wadephul-will-beziehungen-zu-indien-ausbauen-104.html",
     "https://www.deutschlandfunk.de/in-brasilien-beginnt-die-urteilsfindung-gegen-ex-praesident-bolsonaro-100.html",
     "https://www.deutschlandfunk.de/bundesarbeitsministerin-bas-verteidigt-bullshit-aeusserung-100.html",
     "https://www.deutschlandfunk.de/machthaber-maduro-sieht-groesste-bedrohung-seit-100-jahren-durch-usa-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kulturpass-fuer-jugendliche-wird-eingestellt-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-gesetz-gegen-abholzung-erneut-verschieben-100.html",
     "https://www.deutschlandfunk.de/flughafen-streicht-hunderte-fluege-wegen-taifun-ragasa-102.html",
-    "https://www.spiegel.de/wirtschaft/deutschland-lars-klingbeil-kuendigt-rekordinvestitionen-an-a-bd81e0c9-2fe5-4dcb-92ea-ce52e0322572#ref=rss"
+    "https://www.spiegel.de/wirtschaft/deutschland-lars-klingbeil-kuendigt-rekordinvestitionen-an-a-bd81e0c9-2fe5-4dcb-92ea-ce52e0322572#ref=rss",
+    "https://www.deutschlandfunk.de/iran-human-rights-mindestens-1-000-hinrichtungen-im-iran-seit-jahresbeginn-100.html",
+    "https://www.deutschlandfunk.de/antisemitismusbeauftrager-klein-kritisiert-ausladung-von-michel-friedman-100.html",
+    "https://www.deutschlandfunk.de/60-wehrmachtssoldaten-in-lietzen-eingebettet-100.html"
   ],
   "content_hashes": [
-    "01c97c0fe94a7bf1a8e3ad9d69e11910",
-    "a990b7d5f880438ea65287d976122e1c",
-    "c72e0d7852eb1c51f9b1e472828d2096",
     "df96dba89114294d7ed6727d0d7f04ee",
     "2a805e7ca1a10023465ed1afb9b9c12f",
     "1639879e6902324758bae59d7751f384",
@@ -2001,12 +1998,12 @@
     "1fe727d0e0667f45a350e4f2252c21c1",
     "8edec71484486b501a6165f9488311a2",
     "e36436ebd6b1594007459369f7a6c69c",
-    "5fc9126938e4a75498aea97bd38de9ad"
+    "5fc9126938e4a75498aea97bd38de9ad",
+    "876a941e2d830ebf2367ec9f45ff05bd",
+    "0ae6f50d3091a3ca15d4ac3ffbaf0add",
+    "71d5a8f64b52a074e99adeeb3e5390ff"
   ],
   "titles": [
-    "Sondervermögen Infrastruktur - Klingbeil setzt Beirat ein",
-    "Ausschüsse zu Häftlingen und Vermissten - Syrien und Libanon wollen Streitfragen gemeinsam klären",
-    "Antrittsbesuch - Wadephul will Beziehungen zu Indien ausbauen",
     "Historischer Prozess - In Brasilien beginnt die Urteilsfindung gegen Ex-Präsident Bolsonaro",
     "Debatte über Sozialsystem - Bundesarbeitsministerin Bas verteidigt \"Bullshit\"-Äußerung",
     "US-Kriegsschiffe vor der Küste Venezuelas - Machthaber Maduro sieht \"größte Bedrohung\" seit 100 Jahren durch USA",
@@ -3003,12 +3000,12 @@
     "Förderung des Bundes - Kulturpass für Jugendliche wird eingestellt",
     "Entwaldungsfreie Lieferketten - EU-Kommission will Gesetz gegen Abholzung erneut verschieben",
     "Hongkong - Flughafen streicht Hunderte Flüge wegen Taifun \"Ragasa\"",
-    "Deutschland: Lars Klingbeil kündigt Rekordinvestitionen an"
+    "Deutschland: Lars Klingbeil kündigt Rekordinvestitionen an",
+    "NGO - \"Iran Human Rights\": Mindestens 1.000 Hinrichtungen im Iran seit Jahresbeginn",
+    "Mecklenburg-Vorpommern - Antisemitismusbeauftrager Klein kritisiert Ausladung von Michel Friedman",
+    "Brandenburg - 60 Wehrmachtssoldaten in Lietzen eingebettet"
   ],
   "hashes": [
-    "685c38767246a18530be463f252719a4",
-    "f63ece1bdb4ded9bad9dbfbb7c9deb76",
-    "248472c43d55634812b162238723bb97",
     "1bb6ee772bf64b05f0a209da8f89da40",
     "2ca10df359dc9a4fb60a936a09a14d09",
     "26e82b678948dbe1a8732acf79e0ff04",
@@ -4005,6 +4002,9 @@
     "a8fee837cb5cda3cefe61783c1f0ad39",
     "c6f1c5fc1a9b7adb6e9e9c32f82566ec",
     "818e748cbc02d5ec41c242c66a22a54c",
-    "c473f87597d7608b8805ec72552726c7"
+    "c473f87597d7608b8805ec72552726c7",
+    "1e1f42617c19e9a152edab040b8e59ac",
+    "7101bc93fadc6c32a13cef156b9f9e74",
+    "29eb28cb0528bdd5701b8a38e090d48d"
   ]
 }
