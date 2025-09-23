@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-afghanistan-zusage-reaktivierung-aufnahmeprogramm-100.html",
-    "https://www.deutschlandfunk.de/proteste-halten-trotz-verschaerfter-sicherheitsvorkehrungen-an-100.html",
     "https://www.deutschlandfunk.de/proteste-halten-trotz-verschaerfter-sicherheitsmassnahmen-an-100.html",
     "https://www.deutschlandfunk.de/auszeichnung-an-iranische-studenten-und-deutsches-ehepaar-verliehen-100.html",
     "https://www.faz.net/aktuell/politik/inland/bullshit-vorwurf-baerbel-bas-provoziert-mit-attacke-gegen-merz-110665043.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/pistorius-mahnt-zur-besonnenheit-nato-rat-beraet-ueber-russische-luftraumverletzung-102.html",
     "https://www.deutschlandfunk.de/daenemarks-ministerpraesidentin-spricht-vom-bislang-schwersten-anschlag-auf-kritische-infrastruktur-100.html",
     "https://www.deutschlandfunk.de/gesetzliche-altersgrenze-fuer-anwaltsnotare-ist-grundgesetzwidrig-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-bringt-entwurf-fuer-bundeshaushalt-2026-ins-parlament-ein-100.html"
+    "https://www.deutschlandfunk.de/klingbeil-bringt-entwurf-fuer-bundeshaushalt-2026-ins-parlament-ein-100.html",
+    "https://www.deutschlandfunk.de/aufsichtsrat-beruft-palla-zur-konzern-chefin-100.html",
+    "https://www.deutschlandfunk.de/kulturpass-fuer-jugendliche-wird-eingestellt-102.html"
   ],
   "content_hashes": [
-    "94e5b8472de5d4f42326193c2bc2f919",
-    "b39772c1d15de57216405f2456fc81fe",
     "7ea08c951f414e72f905a151db72ce61",
     "fb15f8741e8e1c1e8868e6057af6d292",
     "2ae1df8e3d2f4189aca62960a6bc2506",
@@ -2001,11 +1999,11 @@
     "6fc38c8d6ea0d7b7dba7555d8de4e131",
     "b7ec198f6c83af2924861d2a47d6ff5f",
     "641f5f0b55d4fb4f35b2918c04437b3c",
-    "09fe71c7f97200ce686940459a827632"
+    "09fe71c7f97200ce686940459a827632",
+    "5ba9e9208cfb7fda96b7469da419086a",
+    "1fe727d0e0667f45a350e4f2252c21c1"
   ],
   "titles": [
-    "Kommentar zur Aufnahmezusage - Zu spät, aber richtig",
-    "Indonesien - Proteste halten trotz verschärfter Sicherheitsvorkehrungen an",
     "Indonesien - Proteste halten trotz verschärfter Sicherheitsmaßnahmen an",
     "Aachener Friedenspreis - Auszeichnung an iranische Studenten und deutsches Ehepaar verliehen",
     "„Bullshit“-Attacke: Bas trübt Bild der Koalitionsharmonie",
@@ -3003,11 +3001,11 @@
     "Brüssel - Pistorius mahnt zur Besonnenheit - NATO-Rat berät über russische Luftraumverletzung",
     "Nach Drohnensichtungen - Dänemarks Ministerpräsidentin spricht vom \"bislang schwersten Anschlag auf kritische Infrastruktur\"",
     "Bundesverfassungsgericht - Gesetzliche Altersgrenze für Anwaltsnotare ist grundgesetzwidrig",
-    "Berlin - Klingbeil bringt Entwurf für Bundeshaushalt 2026 ins Parlament ein"
+    "Berlin - Klingbeil bringt Entwurf für Bundeshaushalt 2026 ins Parlament ein",
+    "Deutsche Bahn - Aufsichtsrat beruft Palla zur Konzern-Chefin",
+    "Förderung des Bundes - Kulturpass für Jugendliche wird eingestellt"
   ],
   "hashes": [
-    "e80e9a611230553eff39e8d3b901f46a",
-    "5ddf20c13e98154aaa29a05c723bcdca",
     "810085e097027391fde0bd654416ebd5",
     "97c15b5452924dd9a332bf9864393ae8",
     "ebe6ddca5517cddc22bac9d83fb9b2d6",
@@ -4005,6 +4003,8 @@
     "b522170a67cda115804ed56ef9533702",
     "83fa3540d443c75e58e4652bd0a04c3b",
     "ad345acebd5ef5c38e6f820795afecc4",
-    "355e8e6da95e3d5d4a6892a7c7123e6e"
+    "355e8e6da95e3d5d4a6892a7c7123e6e",
+    "77866904a55bf7d790179252f88c341c",
+    "a8fee837cb5cda3cefe61783c1f0ad39"
   ]
 }
