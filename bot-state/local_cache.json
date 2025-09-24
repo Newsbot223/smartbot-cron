@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/chemie-industrie-mit-umsatzrueckgang-102.html",
-    "https://www.spiegel.de/panorama/hessen-lkw-fahrer-faehrt-fast-nonstop-von-spanien-bis-deutschland-a-00304194-1553-4f3c-8765-e26050ce3ec2#ref=rss",
-    "https://www.deutschlandfunk.de/braende-nach-russischen-luftangriffen-102.html",
-    "https://www.deutschlandfunk.de/behoerden-warnen-vor-gratis-saatgut-im-briefkasten-102.html",
     "https://www.spiegel.de/panorama/justiz/zoll-stoppt-frau-mit-400-luxus-zigarren-im-ice-a-638a548e-cd7f-4331-b101-dd5ba0e9ac1e#ref=rss",
     "https://www.deutschlandfunk.de/rekordeinnahmen-bei-erbschafts-und-schenkungssteuer-100.html",
     "https://www.faz.net/aktuell/politik/ausland/wehrpflicht-fuer-frauen-was-deutschland-von-norwegen-lernen-kann-accg-110666915.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/al-scharaa-spricht-als-erster-syrischer-praesident-seit-60-jahren-bei-der-uno-generaldebatte-100.html",
     "https://www.deutschlandfunk.de/mindestens-20-verletzte-nach-huthi-angriff-auf-die-stadt-eilat-100.html",
     "https://www.deutschlandfunk.de/china-will-treibhausgas-emissionen-bis-2035-um-bis-zu-zehn-prozent-senken-102.html",
-    "https://www.deutschlandfunk.de/chakwera-abgewaehlt-vorgaenger-mutharika-wird-wieder-staatschef-102.html"
+    "https://www.deutschlandfunk.de/chakwera-abgewaehlt-vorgaenger-mutharika-wird-wieder-staatschef-102.html",
+    "https://www.deutschlandfunk.de/trump-empfaengt-erdogan-102.html",
+    "https://www.deutschlandfunk.de/uno-fordert-untersuchung-eines-moeglichen-angriffs-auf-die-gaza-hilfsflotte-102.html",
+    "https://www.deutschlandfunk.de/urteil-im-prozess-gegen-ex-praesident-sarkozy-102.html",
+    "https://www.deutschlandfunk.de/stadt-loewen-wird-kulturhauptstadt-europas-102.html"
   ],
   "content_hashes": [
-    "b7e2815d44d0884f9f6ebce32f29b5f3",
-    "c8d463b272fc1e304a0475d0fdfb5ca7",
-    "95918d9171ff05ba7a04f03914a1e048",
-    "81dcafc53595dff95656a39ad882f59b",
     "a9543c34a4c0149a37877897ad046dd1",
     "bc1e30b7b76c7dd266ce2a20d60b90f1",
     "3df973ee9efc41f551c1c227fea8f829",
@@ -2001,13 +1997,13 @@
     "b07ffcf92f278f478f63350fd70dad2c",
     "39390e84af54969acaf95832072c62e0",
     "3b547b70d1cbcee93c189229be96612d",
-    "d309d8f5af6bac999f422cfa2d29154c"
+    "d309d8f5af6bac999f422cfa2d29154c",
+    "4463784666382342f926365706519a26",
+    "251ed5946f671d845930778847613d1c",
+    "d1c5da677c421c74266e68b3d8ad8538",
+    "b4688111374a81a99990f2d2976d54b9"
   ],
   "titles": [
-    "Auftragsmangel - Chemie-Industrie mit Umsatzrückgang",
-    "Hessen: Lkw-Fahrer fährt fast nonstop von Spanien bis Deutschland",
-    "Ukraine - Brände nach russischen Luftangriffen",
-    "Gefährliche Geschenke - Behörden warnen vor Gratis-Saatgut im Briefkasten",
     "Zoll stoppt Frau mit 400 Luxus-Zigarren im ICE",
     "Statistisches Bundesamt - Rekordeinnahmen bei Erbschafts- und Schenkungssteuer",
     "Wehrpflicht für Frauen: Was Deutschland von Norwegen lernen kann",
@@ -3003,13 +2999,13 @@
     "New York - Al-Scharaa spricht als erster syrischer Präsident seit 60 Jahren bei der UNO-Generaldebatte",
     "Israel - Mindestens 20 Verletzte nach Huthi-Angriff auf die Stadt Eilat",
     "Klima - China will Treibhausgas-Emissionen bis 2035 um bis zu zehn Prozent senken",
-    "Präsidentenwahl in Malawi - Chakwera abgewählt - Vorgänger Mutharika wird wieder Staatschef"
+    "Präsidentenwahl in Malawi - Chakwera abgewählt - Vorgänger Mutharika wird wieder Staatschef",
+    "Diplomatie - Trump empfängt Erdogan",
+    "Mittelmeer - UNO fordert Untersuchung eines möglichen Angriffs auf die Gaza-Hilfsflotte",
+    "Frankreich - Urteil im Prozess gegen Ex-Präsident Sarkozy",
+    "Belgien - Stadt Löwen wird Kulturhauptstadt Europas 2030"
   ],
   "hashes": [
-    "b1fe780ed24739c4917ace6ba1e6dcee",
-    "51f367c1ad722d653fc21731196bfdee",
-    "56b8157ed82b4ea58f0af7e13e7ac52f",
-    "c31f21a86a1ec647e9ca6d35e1ce179b",
     "e5bd537c424ffe8fbf6bd9ed00e12788",
     "5e66f78b8fcb047a4a2af0fad4c1247a",
     "56695e6b26184f5bed1317f623227aa6",
@@ -4005,6 +4001,10 @@
     "e74f72561e954b1e3295d647f38c377d",
     "3e0b8c1814f299779f8bd7159c9a1d13",
     "d32b31406b7f210e468acb16e55939bd",
-    "eadb167a45caa800b1353e2013de462c"
+    "eadb167a45caa800b1353e2013de462c",
+    "8ef609cff4578a573e03f90195d9e0d9",
+    "b877aa7d7d266b60378a9bffa7009485",
+    "59687c4761729b540197cc21791744d6",
+    "0eba4010e15c0aa8732ae853b4b84380"
   ]
 }
