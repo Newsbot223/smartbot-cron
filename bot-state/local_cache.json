@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/justiz/zoll-stoppt-frau-mit-400-luxus-zigarren-im-ice-a-638a548e-cd7f-4331-b101-dd5ba0e9ac1e#ref=rss",
-    "https://www.deutschlandfunk.de/rekordeinnahmen-bei-erbschafts-und-schenkungssteuer-100.html",
     "https://www.faz.net/aktuell/politik/ausland/wehrpflicht-fuer-frauen-was-deutschland-von-norwegen-lernen-kann-accg-110666915.html",
     "https://www.deutschlandfunk.de/stromausfaelle-nach-russischen-luftangriffen-102.html",
     "https://www.deutschlandfunk.de/putin-betont-enge-partnerschaft-mit-nordkorea-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-empfaengt-erdogan-102.html",
     "https://www.deutschlandfunk.de/uno-fordert-untersuchung-eines-moeglichen-angriffs-auf-die-gaza-hilfsflotte-102.html",
     "https://www.deutschlandfunk.de/urteil-im-prozess-gegen-ex-praesident-sarkozy-102.html",
-    "https://www.deutschlandfunk.de/stadt-loewen-wird-kulturhauptstadt-europas-102.html"
+    "https://www.deutschlandfunk.de/stadt-loewen-wird-kulturhauptstadt-europas-102.html",
+    "https://www.deutschlandfunk.de/sperrung-des-flughafens-aalborg-nacgh-drohnen-alarm-102.html",
+    "https://www.deutschlandfunk.de/arianespace-bringt-satelliten-fuer-die-bundeswehr-ins-all-100.html"
   ],
   "content_hashes": [
-    "a9543c34a4c0149a37877897ad046dd1",
-    "bc1e30b7b76c7dd266ce2a20d60b90f1",
     "3df973ee9efc41f551c1c227fea8f829",
     "cfe430b7408c68a25dacb2822c7a0064",
     "7a1f487e15a2e2442a4735759b058b87",
@@ -2001,11 +1999,11 @@
     "4463784666382342f926365706519a26",
     "251ed5946f671d845930778847613d1c",
     "d1c5da677c421c74266e68b3d8ad8538",
-    "b4688111374a81a99990f2d2976d54b9"
+    "b4688111374a81a99990f2d2976d54b9",
+    "0154a9c2ae2770c4ad213263c796d2ba",
+    "7fda9111d1d70a54c74eee5c1eb547df"
   ],
   "titles": [
-    "Zoll stoppt Frau mit 400 Luxus-Zigarren im ICE",
-    "Statistisches Bundesamt - Rekordeinnahmen bei Erbschafts- und Schenkungssteuer",
     "Wehrpflicht für Frauen: Was Deutschland von Norwegen lernen kann",
     "Ukraine - Stromausfälle nach russischen Luftangriffen",
     "Treffen in Peking - Putin betont enge Partnerschaft mit Nordkorea",
@@ -3003,11 +3001,11 @@
     "Diplomatie - Trump empfängt Erdogan",
     "Mittelmeer - UNO fordert Untersuchung eines möglichen Angriffs auf die Gaza-Hilfsflotte",
     "Frankreich - Urteil im Prozess gegen Ex-Präsident Sarkozy",
-    "Belgien - Stadt Löwen wird Kulturhauptstadt Europas 2030"
+    "Belgien - Stadt Löwen wird Kulturhauptstadt Europas 2030",
+    "Dänemark - Sperrung des Flughafens Aalborg nacgh Drohnen-Alarm",
+    "Verteidigung - Arianespace bringt Satelliten für die Bundeswehr ins All"
   ],
   "hashes": [
-    "e5bd537c424ffe8fbf6bd9ed00e12788",
-    "5e66f78b8fcb047a4a2af0fad4c1247a",
     "56695e6b26184f5bed1317f623227aa6",
     "07642fbd956d1dfdc7339b5763cfc5cd",
     "beae431e8dde8c27196e922354a575bb",
@@ -4005,6 +4003,8 @@
     "8ef609cff4578a573e03f90195d9e0d9",
     "b877aa7d7d266b60378a9bffa7009485",
     "59687c4761729b540197cc21791744d6",
-    "0eba4010e15c0aa8732ae853b4b84380"
+    "0eba4010e15c0aa8732ae853b4b84380",
+    "0ebc7ba669db0f4a84b81c1cd14f9a6d",
+    "ffe9e255349bcdbfa1ef162f79744862"
   ]
 }
