@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-werfen-bundesregierung-klimapolitische-geisterfahrt-vor-102.html",
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/junge-union-vergleicht-baerbel-bas-mit-donald-trump-die-wut-waechst-110666146.html",
     "https://www.deutschlandfunk.de/festgenommener-gesteht-mord-an-ehemaligem-parlamentspraesidenten-parubij-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundestag-wie-union-und-spd-die-geschaeftsordnung-aendern-wollen-110667014.html",
     "https://www.faz.net/aktuell/politik/inland/ermittlungsverfahren-gegen-berliner-polizisten-nach-schlag-ins-gesicht-eingeleitet-110667416.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schutz-kritischer-infrastruktur-interview-mit-konstantin-von-notz-b-90-gruene-102.html",
     "https://www.faz.net/aktuell/politik/ausland/krise-der-sozialdemokraten-was-die-spd-im-norden-lernen-koennte-110699689.html",
     "https://www.deutschlandfunk.de/auch-japan-will-palaestinenserstaat-anerkennen-100.html",
-    "https://www.deutschlandfunk.de/papst-leo-lobt-arbeit-der-exorzisten-sieg-ueber-satan-100.html"
+    "https://www.deutschlandfunk.de/papst-leo-lobt-arbeit-der-exorzisten-sieg-ueber-satan-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-verspricht-wirtschaftswachstum-und-kontert-schulden-vorwuerfe-von-afd-chef-chrupa-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bundeslaender-wollen-neuen-anlauf-zur-reform-der-organspende-accg-110700562.html"
   ],
   "content_hashes": [
-    "8f853d7f8f5abab3f18a61a1ef17583f",
-    "a7fe4b399e21a8bae3b76d90c084f2aa",
     "c75ebcb3ea591a4e3054d8ae3ad142c5",
     "a0fd80ad8d2f0ae18b5cf6b0da4714b4",
     "0e6bf3d80624ae0af8a52cfb2f9dd8c6",
@@ -2001,11 +1999,11 @@
     "919a2f54a8aad8be7992c6e088e315fe",
     "84a20390615a487c591379d772cf7de0",
     "a72cb6886bdbc196e659bc333e0e2a7e",
-    "6baac37f9fd3842c17162d7ebf7b1b61"
+    "6baac37f9fd3842c17162d7ebf7b1b61",
+    "35254756a1a8422d9d4ab3aa7cd37142",
+    "fb44969f27dd0e0c7fd15f0b83d00cd1"
   ],
   "titles": [
-    "Klausurtagung - Grüne werfen Bundesregierung \"klimapolitische Geisterfahrt\" vor",
-    "F.A.Z. Podcast für Deutschland: Die Wut wächst: Junge Union vergleicht Bärbel Bas mit Trump",
     "Ukraine-Krieg - Festgenommener gesteht Mord an ehemaligem Parlamentspräsidenten Parubij",
     "Bundestags-Geschäftsordnung: Schwarz-Rot will störende Abgeordnete härter bestrafen",
     "Propalästinensische Demo: Ermittlungsverfahren gegen Polizisten nach Faustschlag eingeleitet",
@@ -3003,11 +3001,11 @@
     "Kritische Infrastruktur - Von Notz (Grüne) fordert Schutz vor hybriden Angriffen",
     "Krise der Sozialdemokraten: Von wem die SPD etwas lernen könnte",
     "Nahost - Auch Japan will Palästinenserstaat anerkennen",
-    "Grußbotschaft - Papst Leo lobt Arbeit der Exorzisten: \"Sieg über Satan\""
+    "Grußbotschaft - Papst Leo lobt Arbeit der Exorzisten: \"Sieg über Satan\"",
+    "Generaldebatte im Bundestag - Bundeskanzler Merz verspricht Wirtschaftswachstum und kontert Schulden-Vorwürfe von AfD-Chef Chrupalla",
+    "Für Widerspruchslösung: Bundesländer unternehmen neuen Anlauf für Reform der Organspende"
   ],
   "hashes": [
-    "b698f6637e9a8c4ae4cf0406f2b17abc",
-    "9c3f0b5fcbc392974f4f72eebcd2248c",
     "133c7b8fdd61f93379ffbc7a2e673e3d",
     "1ae71dd62aab313e0ea813f8aab964fb",
     "68c75ff2ac09bf9020c13762b4745550",
@@ -4005,6 +4003,8 @@
     "020bd451a2b8db56b5a34d36d2967b20",
     "b6be845458feb343af6518131d8cfdac",
     "32c6c1d27534f00e46422bda4d373aad",
-    "7c9253f5afb0b3786e4e6bb4f458a174"
+    "7c9253f5afb0b3786e4e6bb4f458a174",
+    "2ed25f76eea9617a7bf4617234cf787f",
+    "779a9e345920ea81cdf8d72cc6f0d2fe"
   ]
 }
