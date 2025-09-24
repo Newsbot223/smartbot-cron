@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesident-trump-verlegt-hauptquartier-fuer-weltraum-verteidigung-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-erneuert-warnung-vor-russischer-truppenkonzentration-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-eilantrag-vor-hoechstem-gericht-an-100.html",
     "https://www.deutschlandfunk.de/netanjahu-stehen-vor-entscheidender-phase-des-krieges-100.html",
     "https://www.aljazeera.com/news/2025/9/2/deadly-blast-hits-rally-in-pakistani-city-of-quetta-officials-say?traffic_source=rss",
     "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-vorhaben-der-kommenden-monate-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russland-will-zur-kriegsfinanzierung-steuer-erhoehen-100.html",
     "https://www.deutschlandfunk.de/luftfahrtindustrie-kritisiert-unklare-zustaendigkeiten-bei-drohnenabwehr-100.html",
     "https://www.deutschlandfunk.de/bundeslaender-wollen-organspende-regeln-reformieren-102.html",
-    "https://www.deutschlandfunk.de/eu-will-gewaesser-besser-vor-ewigkeitschemikalien-schuetzen-102.html"
+    "https://www.deutschlandfunk.de/eu-will-gewaesser-besser-vor-ewigkeitschemikalien-schuetzen-102.html",
+    "https://www.deutschlandfunk.de/britische-polizei-meldet-festnahme-im-zusammenhang-mit-hacker-angriff-102.html",
+    "https://www.deutschlandfunk.de/weimer-hofft-auf-milliardeninvestionen-von-us-streaminganbietern-100.html",
+    "https://www.deutschlandfunk.de/autokonzern-stellantis-unterbricht-produktion-in-europaeischen-werken-laut-medienbericht-auch-eisena-108.html"
   ],
   "content_hashes": [
-    "fdcbbd8faa16d0a0c27a0733bf054e52",
-    "b3565659c9c540ef043912303eb63347",
-    "2475240ad048c5c6d6af5585c7d557fd",
     "d910460b9f4cc1eaa9e1a7b9665f2e8b",
     "33ba3805439ab39b1dc6704e1e3d6447",
     "b477c92a99fc3fbf83bae1cd0e412e66",
@@ -2001,12 +1998,12 @@
     "6e0c31aba4e5d561b1baad1a3803ee6b",
     "d5f7b0b8c7c9fd39343bfbd0fce82a53",
     "2b3575560434d95156674c2384a8c307",
-    "e2f9f6c83efcf3dd4a49be4854852bc4"
+    "e2f9f6c83efcf3dd4a49be4854852bc4",
+    "b70fae6608d36e8ced7bf3e867701b05",
+    "2cc8ba531a4c43834cbc93a88115027f",
+    "073c201c678a61548a95dd07a50cf9f8"
   ],
   "titles": [
-    "USA - Präsident Trump verlegt Hauptquartier für Weltraum-Verteidigung",
-    "Krieg in der Ukraine - Selenskyj erneuert Warnung vor russischer Truppenkonzentration",
-    "US-Zollpolitik - Trump kündigt Eilantrag vor höchstem Gericht an",
     "Gazakrieg - Netanjahu: Stehen vor entscheidender Phase des Krieges",
     "Deadly blast hits rally in Pakistani city of Quetta, officials say",
     "Kanzleramt - Koalitionsausschuss berät über Vorhaben der kommenden Monate",
@@ -3003,12 +3000,12 @@
     "Krieg gegen die Ukraine - Russland will zur Kriegsfinanzierung Steuer erhöhen",
     "Nach Drohnensichtungen - Luftfahrtindustrie kritisiert unklare Zuständigkeiten bei Drohnenabwehr",
     "Neue Initiative für Widerspruchslösung - Bundesländer wollen Organspende-Regeln reformieren",
-    "Kontrolle von PFAS - EU will Gewässer besser vor \"Ewigkeitschemikalien\" schützen"
+    "Kontrolle von PFAS - EU will Gewässer besser vor \"Ewigkeitschemikalien\" schützen",
+    "Störungen an Flughäfen - Britische Polizei meldet Festnahme im Zusammenhang mit Hacker-Angriff",
+    "Kultur - Weimer hofft auf Milliardeninvestionen von US-Streaminganbietern",
+    "Rückläufige Verkaufszahlen - Autokonzern Stellantis unterbricht Produktion in europäischen Werken - laut Medienbericht auch Eisenach betroffen"
   ],
   "hashes": [
-    "4d777fb445cda71818c34d9fda5fd74c",
-    "8c947a03b9c479e34f4b3f7390a36b04",
-    "c923d58a20c19d5fa4438659fd2bbf45",
     "832b86bb29d14ea9973607369adf3416",
     "d954db8c1308bb3300145dea4e21732b",
     "75f8437f1b3ba23cc8905f6f56e9709e",
@@ -4005,6 +4002,9 @@
     "3b0e35d5d8823103ea40493ede167c76",
     "e45aeffb48dfd4adfa20a7956735b3da",
     "d1998a6c8f71807d5d4a72dcda8b3780",
-    "bf98b1289097f6a09fd79b4c67b052dc"
+    "bf98b1289097f6a09fd79b4c67b052dc",
+    "58c771606c2c188087ba867b8d1096fb",
+    "c78a43dc72dc545e39fe9d29dc8f657f",
+    "8bc958cc741ba0395dcfaae754addade"
   ]
 }
