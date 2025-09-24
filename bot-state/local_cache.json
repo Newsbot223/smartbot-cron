@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/putin-will-zum-abschluss-seines-besuchs-an-militaerparade-in-peking-teilnehmen-100.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-kanzler-will-mindestens-zehn-prozent-bei-buergergeld-einsparen-a-c265b0f0-41da-4e05-bed5-b5cc75fe026f#ref=rss",
     "https://www.deutschlandfunk.de/us-gericht-google-wird-nicht-zerschlagen-muss-aber-einige-daten-mit-konkurrenz-teilen-100.html",
     "https://www.deutschlandfunk.de/beratungsstellen-empfehlen-jungen-menschen-antrag-auf-kriegsdienstverweigerung-100.html",
     "https://www.deutschlandfunk.de/xi-empfaengt-putin-und-kim-bei-militaerparade-in-peking-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/autokonzern-stellantis-unterbricht-produktion-in-europaeischen-werken-laut-medienbericht-auch-eisena-108.html",
     "https://www.deutschlandfunk.de/28-afghanen-nach-erfolgreicher-klage-in-deutschland-angekommen-102.html",
     "https://www.faz.net/aktuell/politik/inland/grevesmuehlen-jugendliche-nach-angriff-auf-ghanaische-maedchen-verurteilt-110701191.html",
-    "https://www.deutschlandfunk.de/kreml-sieht-ergebnis-nahe-null-bei-annaeherung-an-die-usa-100.html"
+    "https://www.deutschlandfunk.de/kreml-sieht-ergebnis-nahe-null-bei-annaeherung-an-die-usa-100.html",
+    "https://www.deutschlandfunk.de/belgische-stadt-loewen-wird-kulturhauptstadt-europas-102.html",
+    "https://www.faz.net/aktuell/politik/inland/klage-gegen-kohl-stiftung-110701165.html"
   ],
   "content_hashes": [
-    "f58eabd79d8fd3052c60b38c18020827",
-    "6e25508bfafea013eea591a4a6708a0b",
     "d5f68648b84d4fd4ec235c35714d2148",
     "7444f9e64d0e5f9e437443bde45c399f",
     "de874bcc4451d3071f93023924d6de7f",
@@ -2001,11 +1999,11 @@
     "073c201c678a61548a95dd07a50cf9f8",
     "df9ff6fdeeecea598ad26c84028c4364",
     "c1cead4a12f7ceb3cc2906389fbd5326",
-    "4692b90ae6c09239a4caa492c1400ffc"
+    "4692b90ae6c09239a4caa492c1400ffc",
+    "fdd65a9adf0615948d66fa80d5f8f746",
+    "3b92741b754da929148611cd9d114eb9"
   ],
   "titles": [
-    "China - Putin will zum Abschluss seines Besuchs an Militärparade in Peking teilnehmen",
-    "Friedrich Merz: Kanzler will mindestens zehn Prozent bei Bürgergeld einsparen",
     "Chrome und Android - US-Gericht: Google wird nicht zerschlagen, muss aber einige Daten mit Konkurrenz teilen",
     "Neues Wehrdienst-Modell - Beratungsstellen empfehlen jungen Menschen Antrag auf Kriegsdienstverweigerung",
     "China - Xi empfängt Putin und Kim bei Militärparade in Peking",
@@ -3003,11 +3001,11 @@
     "Rückläufige Verkaufszahlen - Autokonzern Stellantis unterbricht Produktion in europäischen Werken - laut Medienbericht auch Eisenach betroffen",
     "Gefährdete Personen - 28 Afghanen nach erfolgreicher Klage in Deutschland angekommen",
     "Mecklenburg-Vorpommern: Jugendliche nach Angriff auf ghanaische Mädchen verurteilt",
-    "Nach Trump-Kritik an Russland - Kreml sieht \"Ergebnis nahe null\" bei Annäherung an die USA"
+    "Nach Trump-Kritik an Russland - Kreml sieht \"Ergebnis nahe null\" bei Annäherung an die USA",
+    "2030 - Belgische Stadt Löwen wird Kulturhauptstadt Europas",
+    "Streit um das Kanzlergrab: Ein Denkmal für Helmut Kohl – und eine Klage"
   ],
   "hashes": [
-    "a5387e7bd236e5bc23aa8745070fa4a0",
-    "50e6c312fc04085f4fc002d773a531ba",
     "57a3f2038dc46b6e3cf7b750a5001aac",
     "ea1597ea040f4f93913781e6fd9badf6",
     "b26c3138ff85e60a3f7981b59017bcc4",
@@ -4005,6 +4003,8 @@
     "8bc958cc741ba0395dcfaae754addade",
     "05c950a89dc3553d2f64fe6266223c82",
     "376dfb6eae448bd4299ceb8b5a9da446",
-    "0397236a5310021909d786e9bd112d48"
+    "0397236a5310021909d786e9bd112d48",
+    "94ede711db0add37c59ff2d433b68c19",
+    "3cd930397e2811e6420baf1865b79871"
   ]
 }
