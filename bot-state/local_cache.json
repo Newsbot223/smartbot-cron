@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/niederlande-muss-afghanische-ortskraefte-aufnehmen-100.html",
-    "https://www.deutschlandfunk.de/in-brasilien-hat-die-urteilsfindung-gegen-ex-praesident-bolsonaro-begonnen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/vor-haft-gefluechtet-waren-die-behoerden-auf-liebichs-flucht-gefasst-110666777.html",
-    "https://www.deutschlandfunk.de/einsatz-von-nationalgarde-in-los-angeles-war-illegal-100.html",
     "https://www.deutschlandfunk.de/erneut-afghanen-aus-deutschen-aufnahmeprogrammen-festgenommen-100.html",
     "https://www.deutschlandfunk.de/merz-stellt-aufnahme-von-afghanen-in-aussicht-nach-sicherheitsueberpruefungen-102.html",
     "https://www.deutschlandfunk.de/vereinigung-cockpit-erklaert-gespraeche-mit-lufthansa-fuer-gescheitert-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/wirtschaft/airbus-gegen-dassault-europaeisches-kampfjet-projekt-droht-zu-scheitern-a-22770768-97b3-40c7-959a-0c5898c59e3d#ref=rss",
     "https://www.deutschlandfunk.de/linken-abgeordneter-bartsch-kritisiert-geplante-ausgaben-fuer-verteidigung-102.html",
     "https://www.deutschlandfunk.de/gruenen-politiker-von-notz-fordert-einheitliche-richtlinien-fuer-unternehmen-100.html",
-    "https://www.deutschlandfunk.de/trump-droht-abc-wegen-kimmel-rueckkehr-100.html"
+    "https://www.deutschlandfunk.de/trump-droht-abc-wegen-kimmel-rueckkehr-100.html",
+    "https://www.deutschlandfunk.de/russland-meldet-massiven-ukrainischen-drohnenangriff-110.html",
+    "https://www.deutschlandfunk.de/normalbetrieb-am-flughafen-ber-noch-nicht-absehbar-100.html",
+    "https://www.deutschlandfunk.de/vorlaeufiges-ergebnis-mehrheit-in-guinea-stimmt-fuer-neue-verfassung-100.html",
+    "https://www.deutschlandfunk.de/schutz-kritischer-infrastruktur-interview-mit-konstantin-von-notz-b-90-gruene-102.html"
   ],
   "content_hashes": [
-    "f1e326a2db27e2ed15a8b629d598d625",
-    "9d4111e532c5b81feb4a523d07bc3276",
-    "8e395401ac82c1d2baf31e6dbb559c0d",
-    "a4e3c05d6029c28f2899187ee290ca40",
     "71eeaf270a055824f0ec58f72b0150b5",
     "fda8da44bb902c2b10695efad0c27bac",
     "9dba4194b3ec26710d8732db0e4637b0",
@@ -2001,13 +1997,13 @@
     "80ee0e05976bff275493d1d470a422eb",
     "0d1835b1999ac61fcd724ade4b77dcb6",
     "426ab48cc432ced9a2b7e4b61ac83366",
-    "28f61b219a93e7649ada650a3bd7b5e5"
+    "28f61b219a93e7649ada650a3bd7b5e5",
+    "65d2d798c7270703f829a2705129ad15",
+    "9437580142681a5f66b2a233bcaf57b7",
+    "bba2c319425a5976c52131882571bb1e",
+    "919a2f54a8aad8be7992c6e088e315fe"
   ],
   "titles": [
-    "Gerichtsurteil - Niederlande muss afghanische Ortskräfte aufnehmen",
-    "Historischer Prozess - In Brasilien hat die Urteilsfindung gegen Ex-Präsident Bolsonaro begonnen",
-    "Vor Haft geflüchtet: Waren die Behörden auf Liebichs Flucht gefasst?",
-    "US-Gericht - Einsatz von Nationalgarde in Los Angeles war illegal",
     "Pakistan - Erneut Afghanen aus deutschen Aufnahmeprogrammen festgenommen",
     "Schreiben von Afghanen - Merz stellt Aufnahme von Afghanen in Aussicht - nach Sicherheitsüberprüfungen",
     "Betriebliche Altersvorsorge - Vereinigung Cockpit erklärt Gespräche mit Lufthansa für gescheitert",
@@ -3003,13 +2999,13 @@
     "Airbus gegen Dassault: Europäisches Kampfjet-Projekt droht zu scheitern",
     "Haushalt - Linken-Abgeordneter Bartsch kritisiert geplante Ausgaben für Verteidigung",
     "Schutz vor Cyberattacken - Grünen-Politiker von Notz fordert einheitliche Richtlinien für Unternehmen",
-    "Kontroverse um Late-Night-Show - Trump droht ABC wegen Kimmel-Rückkehr"
+    "Kontroverse um Late-Night-Show - Trump droht ABC wegen Kimmel-Rückkehr",
+    "Ukraine-Krieg - Russland meldet massiven ukrainischen Drohnenangriff",
+    "Nach Hackerangriff - Normalbetrieb am Flughafen BER noch nicht absehbar",
+    "Referendum - Vorläufiges Ergebnis: Mehrheit in Guinea stimmt für neue Verfassung",
+    "Kritische Infrastruktur - Von Notz (Grüne) fordert Schutz vor hybriden Angriffen"
   ],
   "hashes": [
-    "e64eb2c058a562b5972dc4b83a5ef79b",
-    "3ac7fe0e21cb3dcf9974aa0c37631b2f",
-    "1cb22d2e81a986fe4af4432e019e461e",
-    "e5acab287ea5a5f6d5a6b367a4905a1e",
     "94786ae310c018f5d7b78579f6050ab9",
     "3276696ac26668a9c529bccd5c8988ef",
     "83a6993d18afedda8c3f4f9c1fe37eab",
@@ -4005,6 +4001,10 @@
     "1c0ecc63d062f995185710c283514dc5",
     "03b0bcc9ffa014ce889d0c77ac21c552",
     "f97b963165537b5162a789a34c853f38",
-    "255636dc69d04462fab37a2c82ae3a94"
+    "255636dc69d04462fab37a2c82ae3a94",
+    "0f900a4ef0540bcc247b797e15247151",
+    "b46052e9fe8c3c539da55840792c94bd",
+    "af6391dcae76f13c74feee192dd4e355",
+    "020bd451a2b8db56b5a34d36d2967b20"
   ]
 }
