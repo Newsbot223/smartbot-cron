@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss",
-    "https://www.deutschlandfunk.de/riesiger-eisberg-verschwindet-wegen-erderwaermung-in-wenigen-wochen-102.html",
     "https://www.deutschlandfunk.de/chemie-industrie-mit-umsatzrueckgang-102.html",
     "https://www.spiegel.de/panorama/hessen-lkw-fahrer-faehrt-fast-nonstop-von-spanien-bis-deutschland-a-00304194-1553-4f3c-8765-e26050ce3ec2#ref=rss",
     "https://www.deutschlandfunk.de/braende-nach-russischen-luftangriffen-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/kriegsgraeberbund-zehn-jahre-warten-auf-ein-kreuz-110685141.html",
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-iran-bleiben-nur-noch-wenige-stunden-um-sanktionen-zu-verhindern-102.html",
     "https://www.deutschlandfunk.de/al-scharaa-spricht-als-erster-syrischer-praesident-seit-60-jahren-bei-der-uno-generaldebatte-100.html",
-    "https://www.deutschlandfunk.de/mindestens-20-verletzte-nach-huthi-angriff-auf-die-stadt-eilat-100.html"
+    "https://www.deutschlandfunk.de/mindestens-20-verletzte-nach-huthi-angriff-auf-die-stadt-eilat-100.html",
+    "https://www.deutschlandfunk.de/china-will-treibhausgas-emissionen-bis-2035-um-bis-zu-zehn-prozent-senken-102.html",
+    "https://www.deutschlandfunk.de/chakwera-abgewaehlt-vorgaenger-mutharika-wird-wieder-staatschef-102.html"
   ],
   "content_hashes": [
-    "40a0222edfbdf31ebaeeb765619bfb3d",
-    "b069ca7dec3ca96048d9285e47139327",
     "b7e2815d44d0884f9f6ebce32f29b5f3",
     "c8d463b272fc1e304a0475d0fdfb5ca7",
     "95918d9171ff05ba7a04f03914a1e048",
@@ -2001,11 +1999,11 @@
     "b0ec54405cbf6b0462b4b7981d0c7509",
     "b426607106130f8f8b617b913b15d9d2",
     "b07ffcf92f278f478f63350fd70dad2c",
-    "39390e84af54969acaf95832072c62e0"
+    "39390e84af54969acaf95832072c62e0",
+    "3b547b70d1cbcee93c189229be96612d",
+    "d309d8f5af6bac999f422cfa2d29154c"
   ],
   "titles": [
-    "LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks",
-    "Klimawandel - Riesiger Eisberg verschwindet wegen Erderwärmung \"in wenigen Wochen\"",
     "Auftragsmangel - Chemie-Industrie mit Umsatzrückgang",
     "Hessen: Lkw-Fahrer fährt fast nonstop von Spanien bis Deutschland",
     "Ukraine - Brände nach russischen Luftangriffen",
@@ -3003,11 +3001,11 @@
     "Kriegsgräberbund: Zehn Jahre Warten auf ein Kreuz oder eine Stele",
     "Atomstreit mit dem Iran - Frankreichs Präsident Macron: Iran bleiben nur noch wenige Stunden, um Sanktionen zu verhindern",
     "New York - Al-Scharaa spricht als erster syrischer Präsident seit 60 Jahren bei der UNO-Generaldebatte",
-    "Israel - Mindestens 20 Verletzte nach Huthi-Angriff auf die Stadt Eilat"
+    "Israel - Mindestens 20 Verletzte nach Huthi-Angriff auf die Stadt Eilat",
+    "Klima - China will Treibhausgas-Emissionen bis 2035 um bis zu zehn Prozent senken",
+    "Präsidentenwahl in Malawi - Chakwera abgewählt - Vorgänger Mutharika wird wieder Staatschef"
   ],
   "hashes": [
-    "a1304bb2b1265dbfe0c2b4ae84f4cce9",
-    "1997a39a08eeb28c0f558155652f3d45",
     "b1fe780ed24739c4917ace6ba1e6dcee",
     "51f367c1ad722d653fc21731196bfdee",
     "56b8157ed82b4ea58f0af7e13e7ac52f",
@@ -4005,6 +4003,8 @@
     "78921a646ef5d69d8a8b7cfaa85761fa",
     "d52bb9dba75f29c82c9d70a1282d60f3",
     "e74f72561e954b1e3295d647f38c377d",
-    "3e0b8c1814f299779f8bd7159c9a1d13"
+    "3e0b8c1814f299779f8bd7159c9a1d13",
+    "d32b31406b7f210e468acb16e55939bd",
+    "eadb167a45caa800b1353e2013de462c"
   ]
 }
