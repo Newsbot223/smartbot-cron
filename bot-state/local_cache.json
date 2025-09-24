@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/inflation-im-euroraum-steigt-auf-2-1-prozent-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-eine-milliarde-menschen-leiden-unter-psychischen-stoerungen-zunahme-bei-jungen-menschen-102.html",
-    "https://www.deutschlandfunk.de/erstmals-ueber-10-millionen-kredite-starkes-wachstum-bei-kleineren-betraegen-102.html",
     "https://www.deutschlandfunk.de/nordkoreas-machthaber-kim-jong-un-in-china-eingetroffen-102.html",
     "https://www.deutschlandfunk.de/streaming-ueberholt-klassisches-fernsehen-102.html",
     "https://www.deutschlandfunk.de/belgien-plant-anerkennung-von-palaestinenser-staat-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/deutsch-franzoesisches-kampfflugzeug-kommt-nicht-voran-110699782.html",
     "https://www.deutschlandfunk.de/haushalt-2026-zweite-generaldebatte-innerhalb-von-nur-einer-woche-100.html",
     "https://www.deutschlandfunk.de/spd-chef-klingbeil-plaediert-fuer-gerechtigkeit-bei-sparmassnahmen-102.html",
-    "https://www.deutschlandfunk.de/belgisches-abgeordnetenhaus-gibt-gemaelde-von-friedrich-nerly-nach-berlin-zurueck-106.html"
+    "https://www.deutschlandfunk.de/belgisches-abgeordnetenhaus-gibt-gemaelde-von-friedrich-nerly-nach-berlin-zurueck-106.html",
+    "https://www.deutschlandfunk.de/berlin-paris-und-london-fordern-rasches-einlenken-von-iran-frist-fuer-wiedereinfuehrung-von-uno-sank-100.html",
+    "https://www.deutschlandfunk.de/14-todesopfer-und-ueber-120-vermisste-in-taiwan-102.html",
+    "https://www.deutschlandfunk.de/zweite-generaldebatte-innerhalb-einer-woche-102.html"
   ],
   "content_hashes": [
-    "d5be6c7ea25bc551889610d987bd24da",
-    "4e5d468faf9bb1afd42d727a35cbcf9b",
-    "20fd5d10742afc7f16a8e52aef708814",
     "979b2d5006afad118e0dfe1931492c78",
     "f6ebddfaa0e451533d252f4b584eca55",
     "2a76ca024f7f0adf1c8a9ebb51d71422",
@@ -2001,12 +1998,12 @@
     "c0a6fc5fecee59f1284ee6a214570251",
     "29fc754d402b8a8689d719350c3ba9ec",
     "99107bf4220a1c7d20a443e176e9aca5",
-    "9ac313cebaead096aaea4e651129cfa7"
+    "9ac313cebaead096aaea4e651129cfa7",
+    "4c18deca18a5f7b7773e16f1d278f9b4",
+    "4fedb9af26ac2a63f29a6f0c2a1e52d5",
+    "e10c515775a26a16df472faeb6a34adf"
   ],
   "titles": [
-    "Eurostat - Inflation im Euroraum steigt auf 2,1 Prozent",
-    "WHO-Bericht - Mehr als eine Milliarde Menschen leiden unter psychischen Störungen - Zunahme bei jungen Menschen",
-    "Schufa warnt vor Überschuldungsrisiko - Erstmals über 10 Millionen Kredite - starkes Wachstum bei kleineren Beträgen",
     "Vor Parade in Peking - Nordkoreas Machthaber Kim Jong-un in China eingetroffen",
     "Bitkom-Umfrage - Streaming überholt klassisches Fernsehen",
     "Nahost - Belgien plant Anerkennung von Palästinenser-Staat",
@@ -3003,12 +3000,12 @@
     "Rüstungszusammenarbeit: Deutsch-französisches Kampfflugzeug kommt nicht voran",
     "Bundestag - Haushalt 2026: Zweite Generaldebatte innerhalb von nur einer Woche",
     "Berlin - SPD-Chef Klingbeil plädiert für Gerechtigkeit bei Sparmaßnahmen",
-    "Stiftung Preußischer Kulturbesitz - Belgisches Abgeordnetenhaus gibt Gemälde von Friedrich Nerly nach Berlin zurück"
+    "Stiftung Preußischer Kulturbesitz - Belgisches Abgeordnetenhaus gibt Gemälde von Friedrich Nerly nach Berlin zurück",
+    "Atom-Konflikt - Berlin, Paris und London fordern rasches Einlenken von Iran - Frist für Wiedereinführung von UNO-Sanktionen läuft bald ab",
+    "Taifun \"Ragasa\" - 14 Todesopfer und über 120 Vermisste in Taiwan",
+    "Bundestag - Zweite Generaldebatte innerhalb einer Woche"
   ],
   "hashes": [
-    "98e3cb7171104343832b813e073fe080",
-    "b08b85b2fa553ea98971c3823ff29548",
-    "5e2059b975f6792e81837eed348e4284",
     "37f68cdff0044617c2c096eb4cd320fa",
     "c1af20cfad3a8fc81f54bc2a64a44399",
     "4d13bbf868a34e29a6c86b42e8438ad1",
@@ -4005,6 +4002,9 @@
     "a31034e2333b7abdbce9f3c7f36587bb",
     "6ae1255d28f4c140a6b26d9703bddc69",
     "afb8faf9f87345eb34e85351c7864741",
-    "be327da076aab52f213973f9f0541a4a"
+    "be327da076aab52f213973f9f0541a4a",
+    "1bf965e2b7cd45ad954029b27a10f19a",
+    "a985be330c5d4638dd83e4ecd7cb0b23",
+    "9cd506478a4c0a102f2b24924f506dfa"
   ]
 }
