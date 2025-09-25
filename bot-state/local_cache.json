@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stromausfaelle-nach-russischen-luftangriffen-102.html",
-    "https://www.deutschlandfunk.de/putin-betont-enge-partnerschaft-mit-nordkorea-100.html",
-    "https://www.deutschlandfunk.de/neue-repressionen-gegen-zivilgesellschaft-im-iran-100.html",
     "https://www.faz.net/aktuell/politik/inland/handys-von-polizisten-wegen-rassistischer-chatgruppe-beschlagnahmt-accg-110667957.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/us-aussenpolitik-unter-trump-immer-nur-mit-halber-kraft-110666694.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-roland-koch-appelliert-an-afd-waehler-faz-110093143.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stadt-loewen-wird-kulturhauptstadt-europas-102.html",
     "https://www.deutschlandfunk.de/sperrung-des-flughafens-aalborg-nacgh-drohnen-alarm-102.html",
     "https://www.deutschlandfunk.de/arianespace-bringt-satelliten-fuer-die-bundeswehr-ins-all-100.html",
-    "https://www.deutschlandfunk.de/talkmaster-jimmy-kimmel-erzielt-rekordquote-102.html"
+    "https://www.deutschlandfunk.de/talkmaster-jimmy-kimmel-erzielt-rekordquote-102.html",
+    "https://www.deutschlandfunk.de/flughafen-aalborg-nach-drohnen-alarm-gesperrt-104.html",
+    "https://www.deutschlandfunk.de/haseloff-dringt-auf-modifizierung-des-verbrennerverbots-102.html",
+    "https://www.deutschlandfunk.de/merkel-bemaengelt-kuerzungen-bei-der-entwicklungshilfe-102.html"
   ],
   "content_hashes": [
-    "cfe430b7408c68a25dacb2822c7a0064",
-    "7a1f487e15a2e2442a4735759b058b87",
-    "6ac630c667f3509993da70ee1b658c90",
     "7cd26d5ca3c5ddc3867489fea9952d4a",
     "c23c5ada126e6f44aa615f3a335469d2",
     "ac68b0c7780a921b587b345619adf409",
@@ -2001,12 +1998,12 @@
     "b4688111374a81a99990f2d2976d54b9",
     "0154a9c2ae2770c4ad213263c796d2ba",
     "7fda9111d1d70a54c74eee5c1eb547df",
-    "093db913bada6271c259bd3bc08d9b5c"
+    "093db913bada6271c259bd3bc08d9b5c",
+    "6aecaa4fc4ad26875fb4cbb85f6070a5",
+    "580d9adf44d744755b054ce89e72a0ce",
+    "bf1b518fd15c35ba9bc5d474b4607217"
   ],
   "titles": [
-    "Ukraine - Stromausfälle nach russischen Luftangriffen",
-    "Treffen in Peking - Putin betont enge Partnerschaft mit Nordkorea",
-    "Menschenrechtsorganisationen - Neue Repressionen gegen Zivilgesellschaft im Iran",
     "Niedersachsen: Handys von Polizisten wegen rassistischer Chatgruppe beschlagnahmt",
     "Amerikanische Außenpolitik: Immer nur mit halber Kraft",
     "Liveblog Bundespolitik: Roland Koch: „Wenn sie AfD wählen, wird die Republik linker“",
@@ -3003,12 +3000,12 @@
     "Belgien - Stadt Löwen wird Kulturhauptstadt Europas 2030",
     "Dänemark - Sperrung des Flughafens Aalborg nacgh Drohnen-Alarm",
     "Verteidigung - Arianespace bringt Satelliten für die Bundeswehr ins All",
-    "USA - Talkmaster Jimmy Kimmel erzielt Rekordquote"
+    "USA - Talkmaster Jimmy Kimmel erzielt Rekordquote",
+    "Dänemark - Flughafen Aalborg nach Drohnen-Alarm gesperrt",
+    "Ostdeutschland - Haseloff dringt auf Modifizierung des Verbrennerverbots",
+    "Bundeshaushalt - Merkel bemängelt Kürzungen bei der Entwicklungshilfe"
   ],
   "hashes": [
-    "07642fbd956d1dfdc7339b5763cfc5cd",
-    "beae431e8dde8c27196e922354a575bb",
-    "55f9404d79edde8af7731655157156ff",
     "c16fb8a4c6af1ffa44c8ea058003edbb",
     "ee365439245f1ce7aa1fbf2fc36fa652",
     "1e4450dd7e81a0671b02db540d7313db",
@@ -4005,6 +4002,9 @@
     "0eba4010e15c0aa8732ae853b4b84380",
     "0ebc7ba669db0f4a84b81c1cd14f9a6d",
     "ffe9e255349bcdbfa1ef162f79744862",
-    "7ec298d599a14ace04ebeba9ae59b152"
+    "7ec298d599a14ace04ebeba9ae59b152",
+    "d7ba62cd25dbb5bdbc6ec3d01dedc44c",
+    "750d7155178e0887c1f975d3ab3c6a14",
+    "063c284e401ea596663512c2335672f3"
   ]
 }
