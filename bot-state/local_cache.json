@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ministerpraesidentin-rehlinger-schwangerschaftsabbruch-aus-dem-strafrecht-nehmen-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/ifo-und-ifw-fuehrende-wirtschaftsforscher-senken-wachstumsprognosen-a-770c9d51-501f-4639-a66d-a3a0fd090e83#ref=rss",
-    "https://www.deutschlandfunk.de/holger-blask-soll-neuer-generalsekretaer-des-dfb-werden-102.html",
-    "https://www.deutschlandfunk.de/berlin-debatte-um-wehrdienst-und-zivildienst-100.html",
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-warnt-vor-aufruestung-russlands-und-chinas-100.html",
     "https://www.deutschlandfunk.de/helfer-bergen-weitere-todesopfer-100.html",
     "https://www.deutschlandfunk.de/regierung-will-mehrwertsteuer-auf-lebensmittel-halbieren-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/kommentar-zu-wirtschaftsprognose-deutsche-wirtschaft-braucht-eine-echte-rosskur-100.html",
     "https://www.deutschlandfunk.de/us-aussenministerium-genehmigt-verkauf-an-waffen-und-ausruestung-fuer-kuenftige-f-35-kampfjets-der-b-100.html",
     "https://www.deutschlandfunk.de/eu-bereitet-offenbar-zoelle-auf-stahl-aus-china-vor-102.html",
-    "https://www.deutschlandfunk.de/syrische-sicherheitskraefte-an-massakern-beteiligt-102.html"
+    "https://www.deutschlandfunk.de/syrische-sicherheitskraefte-an-massakern-beteiligt-102.html",
+    "https://www.deutschlandfunk.de/uno-generaldebatte-wird-mit-rede-von-netanjahu-fortgesetzt-100.html",
+    "https://www.deutschlandfunk.de/beratungen-des-etats-fuer-2026-werden-fortgesetzt-102.html",
+    "https://www.deutschlandfunk.de/israel-oeffnet-grenzuebergang-zu-jordanien-wieder-100.html",
+    "https://www.spiegel.de/ausland/f-35-usa-erlauben-raketenlieferung-fuer-deutsche-kampfjets-a-ab00ef5e-6f17-4bcc-adc0-313939189296#ref=rss"
   ],
   "content_hashes": [
-    "3c25c7cbb3b1f29c8183bb6907cc068e",
-    "684accfa15027a480820e08c1517f6a5",
-    "9330528fea5d266edee0d0018dff6775",
-    "1298b617eddf8af3629fe5339886a8c6",
     "bffe6a7883693bcb45b57aa4c6d6a0a6",
     "646e51866f2fe923e331d09c95543dc4",
     "f5c1d3ab21e9ca62b8d9f739adcd7a3e",
@@ -2001,13 +1997,13 @@
     "54fa53980e906f7825348989e8b5b09c",
     "65bfcdcecc8913313e3f648cb47fa74e",
     "17840de6f1e70990760a5d3bdffe0e9a",
-    "4e4a087299bb0a5950b95bd5a03e4dbc"
+    "4e4a087299bb0a5950b95bd5a03e4dbc",
+    "abb541d3e111c5cd4945207ebcb1c450",
+    "18f790d1b7d41ee2d5fea05b69096bd0",
+    "53483b98b26e58f24227b5fba46a101c",
+    "0ce03d6fc505eed3325a9fe86162009f"
   ],
   "titles": [
-    "Paragraf 218 - Ministerpräsidentin Rehlinger: Schwangerschaftsabbruch aus dem Strafrecht nehmen",
-    "Ifo und IfW: Führende Wirtschaftsforscher senken Wachstumsprognosen",
-    "Wahl im November - Holger Blask soll neuer Generalsekretär des DFB werden",
-    "Verteidigung - Was sich mit dem Neuen Wehrdienst-Gesetz ändert",
     "Sicherheitskonferenz in Prag - NATO-Generalsekretär Rutte warnt vor Aufrüstung Russlands und Chinas",
     "Nach Erdbeben in Afghanistan - Helfer bergen weitere Todesopfer",
     "Schweden - Regierung will Mehrwertsteuer auf Lebensmittel halbieren",
@@ -3003,13 +2999,13 @@
     "Kommentar - Die deutsche Wirtschaft braucht eine echte Rosskur",
     "Rüstung - US-Außenministerium genehmigt Verkauf an Waffen und Ausrüstung für künftige F-35 Kampfjets der Bundeswehr",
     "Medienbericht - EU bereitet offenbar Zölle auf Stahl aus China vor",
-    "Gutachten - Syrische Sicherheitskräfte an Massakern beteiligt"
+    "Gutachten - Syrische Sicherheitskräfte an Massakern beteiligt",
+    "New York - UNO-Generaldebatte wird mit Rede von Netanjahu fortgesetzt",
+    "Bundestag - Beratungen des Etats für 2026 werden fortgesetzt",
+    "Westjordanland - Israel öffnet Grenzübergang zu Jordanien wieder",
+    "F-35: USA erlauben Raketenlieferung für deutsche Kampfjets"
   ],
   "hashes": [
-    "cf737a236a730e5d36cd82bb819832ee",
-    "c1b0867ad4fbb87e874e93448f4fa76e",
-    "ad804d13e39c62c4e9dbe0e4208dfee6",
-    "b30dc9e960a6ceb1e6d50f44e1a1a211",
     "1340d2f8150d4b6f9dc4c8175e09cac7",
     "ded819fa44b9c5d50d38db7542dc7d48",
     "91e195bc4a3107f34b75ecc149cd5ea7",
@@ -4005,6 +4001,10 @@
     "e353f384de0671046f844c7fb228b6d2",
     "60aec3154b10ccc8e1ddea7506df5a38",
     "011ff77abb8e2daafbb8c1d12a64fbfd",
-    "cfff15a2b206b84b1caf2c55e41aab39"
+    "cfff15a2b206b84b1caf2c55e41aab39",
+    "02a3310e1d59d5a0c0d537809abbc947",
+    "d5b638fd3d89916a4817caedc1a5d720",
+    "c944a7115b7f94c5f237f96639bae994",
+    "6ee21572eec8972b6c04698252601b0f"
   ]
 }
