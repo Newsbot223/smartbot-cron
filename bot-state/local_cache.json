@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/paar-gibt-raubkunst-gemaelde-zurueck-104.html",
-    "https://www.deutschlandfunk.de/ukraine-blick-auf-das-treffen-koalition-der-willigen-100.html",
-    "https://www.deutschlandfunk.de/kein-drill-baby-drill-in-deutschen-meeresschutzgebieten-102.html",
-    "https://www.spiegel.de/wirtschaft/soziales/sozialausgaben-sind-gemessen-an-der-wirtschaftsleistung-nicht-teurer-als-2015-a-463c9b6c-e62c-402b-b94c-a59e9ec8618d#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/umfrage-in-sachsen-anhalt-afd-klar-vor-cdu-accg-110669506.html",
     "https://www.deutschlandfunk.de/gruene-fordern-mehr-tempo-bei-reformen-102.html",
     "https://www.deutschlandfunk.de/gruene-fordern-mehr-tempo-bei-reformen-linke-werfen-regierung-planlosigkeit-vor-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/neue-richter-fuer-verfassungsgericht-bekommen-noetige-mehrheit-100.html",
     "https://www.deutschlandfunk.de/trump-fordert-erdogan-zu-verzicht-auf-russisches-oel-auf-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-zu-fuenf-jahren-haft-verurteilt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/frank-walter-steinmeier-ueber-hugo-preuss-ein-demokratisches-vorbild-110702940.html"
+    "https://www.faz.net/aktuell/politik/inland/frank-walter-steinmeier-ueber-hugo-preuss-ein-demokratisches-vorbild-110702940.html",
+    "https://www.deutschlandfunk.de/bundestag-bestaetigt-drei-richter-kandidaten-fuer-bundesverfassungsgericht-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-wuerdigt-militaerische-zusammenarbeit-deutschlands-und-der-niederlande-100.html",
+    "https://www.faz.net/aktuell/politik/inland/richterwahl-ein-nachmittag-mit-mitmachspirit-110703993.html",
+    "https://www.faz.net/aktuell/politik/inland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-110703654.html"
   ],
   "content_hashes": [
-    "49b272ed4c6d71b8ab09d9a866f2536b",
-    "86cc533e198df90b6f3e34c3127fc3f7",
-    "67ffd512cebd35a0700f8dc64c1627c9",
-    "61b13d018943b09cbf980728570484c8",
     "270cd481b8595403e6db10aa4cd94b54",
     "df9299669fd0176d258555ea3b91bf36",
     "3fd0a107b462fa255713a87958bb2909",
@@ -2001,13 +1997,13 @@
     "102132989647ffaf9e1a7105a724c2a2",
     "590e50f65069ffb83f1aee6919b90afb",
     "f91fe733a1f218ae9e49d139c8a993d3",
-    "9edda6ed8ac868c0862cc24d4f45bb2b"
+    "9edda6ed8ac868c0862cc24d4f45bb2b",
+    "1e7b5d9378050d0ac8955da8a82047e0",
+    "b8177878aca35d04226c8c35ef794f86",
+    "5420b728dc74a0291f7a35a8bb60f1f1",
+    "b8f446dd4b77b5204d53681af082f0b6"
   ],
   "titles": [
-    "Argentinien - Paar gibt Raubkunst-Gemälde zurück",
-    "Ukraine-Krieg - „Koalition der Willigen“ bespricht Sicherheitsgarantien",
-    "Gasbohrungen - Klimaaktivisten wollen auf Borkum protestieren",
-    "Sozialausgaben sind gemessen an der Wirtschaftsleistung nicht teurer als 2015",
     "Umfrage: AfD in Sachsen-Anhalt deutlich vor der CDU",
     "Schwarz-rote Bundesregierung - Grüne fordern mehr Tempo bei Reformen",
     "Koalitionsausschuss - Grüne fordern mehr Tempo bei Reformen, Linke werfen Regierung Planlosigkeit vor",
@@ -3003,13 +2999,13 @@
     "Bundestag - Neue Richter für Verfassungsgericht bekommen nötige Mehrheit",
     "Weißes Haus - Trump fordert Erdogan zu Verzicht auf russisches Öl auf",
     "Frankreich - Ex-Präsident Sarkozy zu fünf Jahren Haft verurteilt",
-    "Steinmeier über Hugo Preuß: Gegen Schlappheit und Servilität"
+    "Steinmeier über Hugo Preuß: Gegen Schlappheit und Servilität",
+    "Im zweiten Anlauf - Bundestag bestätigt drei Richter-Kandidaten für Bundesverfassungsgericht",
+    "Besuch in Münster - Steinmeier würdigt militärische Zusammenarbeit Deutschlands und der Niederlande",
+    "Richterwahl: Ein Nachmittag mit Mitmachspirit",
+    "Nach Streit im Sommer: Bundestag wählt drei neue Verfassungsrichter"
   ],
   "hashes": [
-    "fc32cbc83e277aa8a3ee9b81577cbccf",
-    "5024c17ad9cd262dbe21fb5d071d335c",
-    "14751047a7d4cb87dff08e5e0dfac2c1",
-    "ac819c732d57e0c1308f925ee4a20698",
     "f7eea46aef8d01b1103544e3e753b0d5",
     "1ff90a0068d76259de4239e79ce7ed9b",
     "635baa52dad6bae51ca65c3c01bb3994",
@@ -4005,6 +4001,10 @@
     "348f374b01a504144e9eee0e53c73360",
     "5f6a9b02f457f1751ecbdc08b8ff756c",
     "b615a03da97702db9a2bb6fdf951a9f8",
-    "cbf763eb8dda8677343ed94e1599c690"
+    "cbf763eb8dda8677343ed94e1599c690",
+    "7e7d31253134d4713162ac2e5ce60ba5",
+    "f5a7c93c8a9ff64a3226340eee1ff939",
+    "f1c26d8d1aa83d0abd13d268caa9b40c",
+    "b55ba7567e236d600de0dac3b84b2ed1"
   ]
 }
