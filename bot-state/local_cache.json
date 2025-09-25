@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/betruegerische-e-mails-mit-verweis-auf-deutschlandradio-im-umlauf-100.html",
-    "https://www.deutschlandfunk.de/frueherer-tour-de-france-sieger-froome-bei-trainingsunfall-am-herz-verletzt-102.html",
-    "https://www.faz.net/einspruch/hubig-zu-verfassungsrichterwahl-afd-verbot-und-richternote-110668495.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-lobt-schroeders-mut-bei-agenda-2010-faz-110093143.html",
     "https://www.deutschlandfunk.de/uno-mindestens-21-000-kinder-haben-behinderungen-davongetragen-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-bringt-umsetzung-von-eu-asylreform-auf-den-weg-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/sieben-buddhistische-moenche-bei-seilbahn-unglueck-ums-leben-gekommen-100.html",
     "https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsinstitute-rechnen-mit-schwachem-wachstum-in-2025-a-3bd505ce-7c2f-4ee4-bb22-09c84c7e653a#ref=rss",
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-der-mitgliedschaft-in-krimineller-vereinigung-schuldig-gesprochen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsforscher-erwarten-leichtes-wachstum-fuer-das-kommenden-jahr-102.html"
+    "https://www.deutschlandfunk.de/wirtschaftsforscher-erwarten-leichtes-wachstum-fuer-das-kommenden-jahr-102.html",
+    "https://www.deutschlandfunk.de/positive-entwicklung-im-zweiten-halbjahr-100.html",
+    "https://www.deutschlandfunk.de/bbc-und-nachrichtenagenturen-fordern-zugang-zum-gazastreifen-100.html",
+    "https://www.deutschlandfunk.de/bdi-dringt-auf-aufholjagd-bei-raumfahrt-100.html"
   ],
   "content_hashes": [
-    "b059d7e70d99a7b3d7aac8f4e16d7932",
-    "a3e29e2316c4cb9e0fbed2194449e7f6",
-    "e2375899d4310db219748a3ef1888584",
     "ee88288e97e79b91e2f382bd379c1408",
     "a35362208bf63205da0ec6579d51d0c1",
     "3fddcb71d819e03af6aa0c3ab0ff07e8",
@@ -2001,12 +1998,12 @@
     "773123babbd25024bbc47f6e21b9d8c4",
     "1e5be9806615e8b6cea0af0de0679869",
     "d855fc5e26ab4bb4389c84ab5dd1fd38",
-    "b1c58ef3b00dabc43bde0f5861da11d2"
+    "b1c58ef3b00dabc43bde0f5861da11d2",
+    "59b2afe36950360f8cb81cc994a97f4f",
+    "caf6d409ec74cdca4be381143f3d2422",
+    "30feeec3eff3c534fdab6b4e3bc53c0a"
   ],
   "titles": [
-    "In eigener Sache - Betrügerische E-Mails mit Verweis auf Deutschlandradio im Umlauf",
-    "Radsport - Früherer Tour de France-Sieger Froome bei Trainingsunfall am Herz verletzt",
-    "F.A.Z. Einspruch Podcast: Hubig zu Verfassungsrichterwahl, AfD-Verbot und Richternote",
     "Liveblog Bundespolitik: Klingbeil lobt Schröders Mut bei Agenda 2010",
     "Gaza-Krieg - UNO: Mindestens 21.000 Kinder haben Behinderungen davongetragen",
     "Bundeskabinett - Bundesregierung bringt Umsetzung von EU-Asylreform auf den Weg",
@@ -3003,12 +3000,12 @@
     "Sri Lanka - Sieben buddhistische Mönche bei Seilbahn-Unglück ums Leben gekommen",
     "Konjunktur: Wirtschaftsinstitute rechnen mit schwachem Wachstum in 2025",
     "Frankreich - Ex-Präsident Sarkozy der Mitgliedschaft in krimineller Vereinigung schuldig gesprochen",
-    "Ökonomie - Wirtschaftsforscher erwarten leichtes Wachstum für das kommenden Jahr"
+    "Ökonomie - Wirtschaftsforscher erwarten leichtes Wachstum für das kommenden Jahr",
+    "Bauwirtschaft - Positive Entwicklung im zweiten Halbjahr 2025",
+    "Appell an Israel - BBC und Nachrichtenagenturen fordern Zugang zum Gazastreifen",
+    "Satelliten im All - BDI dringt auf Aufholjagd bei Raumfahrt"
   ],
   "hashes": [
-    "7542805a938753ada80d1952f01f417b",
-    "358ab7b60094151656928dad1a5d32a2",
-    "a1fcc87b8a68797ef5c803f1fdaf9c6a",
     "7949c7ee4c9fe706ce651d01592518cd",
     "35e193ea7462e694293d79e9951b389a",
     "07a08f5a29bdf0fb6b6dec06ad963ea4",
@@ -4005,6 +4002,9 @@
     "172b2616e931b57f19ebdb46065773cb",
     "ac6acade24527d5096104381101ead82",
     "aaf5d65d2886363a9fdb7e97033bd418",
-    "857dd883b2c7d8187a88f076d3c14b14"
+    "857dd883b2c7d8187a88f076d3c14b14",
+    "c3f4ef06901776dbfffce236c12d84b9",
+    "59c8250ed9d047604da9ada122fd12f8",
+    "45faa92917a5acb9a2e04d104327497c"
   ]
 }
