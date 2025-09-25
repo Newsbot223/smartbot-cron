@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/umfrage-in-sachsen-anhalt-afd-klar-vor-cdu-accg-110669506.html",
-    "https://www.deutschlandfunk.de/gruene-fordern-mehr-tempo-bei-reformen-102.html",
     "https://www.deutschlandfunk.de/gruene-fordern-mehr-tempo-bei-reformen-linke-werfen-regierung-planlosigkeit-vor-100.html",
     "https://www.deutschlandfunk.de/china-dankt-slowakei-fuer-ihren-einsatz-innerhalb-der-eu-100.html",
     "https://www.deutschlandfunk.de/kinderhilfswerk-kritisiert-spaeten-schulstart-bei-gefluechteten-kindern-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundestag-bestaetigt-drei-richter-kandidaten-fuer-bundesverfassungsgericht-100.html",
     "https://www.deutschlandfunk.de/steinmeier-wuerdigt-militaerische-zusammenarbeit-deutschlands-und-der-niederlande-100.html",
     "https://www.faz.net/aktuell/politik/inland/richterwahl-ein-nachmittag-mit-mitmachspirit-110703993.html",
-    "https://www.faz.net/aktuell/politik/inland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-110703654.html"
+    "https://www.faz.net/aktuell/politik/inland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-110703654.html",
+    "https://www.deutschlandfunk.de/unbekannte-kurzgeschichte-von-raymond-chandler-veroeffentlicht-104.html",
+    "https://www.deutschlandfunk.de/kommentar-zu-wirtschaftsprognose-deutsche-wirtschaft-braucht-eine-echte-rosskur-100.html"
   ],
   "content_hashes": [
-    "270cd481b8595403e6db10aa4cd94b54",
-    "df9299669fd0176d258555ea3b91bf36",
     "3fd0a107b462fa255713a87958bb2909",
     "c06f4c21928739ccaa415daaf9487271",
     "559569a8768b328dd7a684964fd5af51",
@@ -2001,11 +1999,11 @@
     "1e7b5d9378050d0ac8955da8a82047e0",
     "b8177878aca35d04226c8c35ef794f86",
     "5420b728dc74a0291f7a35a8bb60f1f1",
-    "b8f446dd4b77b5204d53681af082f0b6"
+    "b8f446dd4b77b5204d53681af082f0b6",
+    "a86ef0f8d99ad95278ea34ddcac19716",
+    "54fa53980e906f7825348989e8b5b09c"
   ],
   "titles": [
-    "Umfrage: AfD in Sachsen-Anhalt deutlich vor der CDU",
-    "Schwarz-rote Bundesregierung - Grüne fordern mehr Tempo bei Reformen",
     "Koalitionsausschuss - Grüne fordern mehr Tempo bei Reformen, Linke werfen Regierung Planlosigkeit vor",
     "Treffen in Peking - China dankt Slowakei für ihren Einsatz innerhalb der EU",
     "Bildung - Kinderhilfswerk kritisiert späten Schulstart bei geflüchteten Kindern",
@@ -3003,11 +3001,11 @@
     "Im zweiten Anlauf - Bundestag bestätigt drei Richter-Kandidaten für Bundesverfassungsgericht",
     "Besuch in Münster - Steinmeier würdigt militärische Zusammenarbeit Deutschlands und der Niederlande",
     "Richterwahl: Ein Nachmittag mit Mitmachspirit",
-    "Nach Streit im Sommer: Bundestag wählt drei neue Verfassungsrichter"
+    "Nach Streit im Sommer: Bundestag wählt drei neue Verfassungsrichter",
+    "\"Strand Magazine\" - Unbekannte Kurzgeschichte von Raymond Chandler veröffentlicht",
+    "Kommentar - Die deutsche Wirtschaft braucht eine echte Rosskur"
   ],
   "hashes": [
-    "f7eea46aef8d01b1103544e3e753b0d5",
-    "1ff90a0068d76259de4239e79ce7ed9b",
     "635baa52dad6bae51ca65c3c01bb3994",
     "75e49ee459ffce19bc7b2bf6583d8cbb",
     "ffc574e5cac692c090d248d1957a4a39",
@@ -4005,6 +4003,8 @@
     "7e7d31253134d4713162ac2e5ce60ba5",
     "f5a7c93c8a9ff64a3226340eee1ff939",
     "f1c26d8d1aa83d0abd13d268caa9b40c",
-    "b55ba7567e236d600de0dac3b84b2ed1"
+    "b55ba7567e236d600de0dac3b84b2ed1",
+    "e3fadcfdb55b12f96aa3581639b8ca1c",
+    "e353f384de0671046f844c7fb228b6d2"
   ]
 }
