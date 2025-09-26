@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/erfolge-von-trump-oder-afd-wir-erleben-eine-revolution-110670810.html",
-    "https://www.deutschlandfunk.de/parlament-waehlt-konservativ-populistischen-politiker-anutin-charnvirakul-als-neuen-ministerpraeside-100.html",
-    "https://www.spiegel.de/wirtschaft/diw-prognose-deutschland-wird-ab-2026-wirtschaftlichen-aufschwung-erleben-a-8ee637ae-95bb-4dff-b4fa-a2550e37d77b#ref=rss",
     "https://www.deutschlandfunk.de/ministerin-prien-wehrpflicht-fuer-frauen-eine-gleichstellungsfrage-102.html",
     "https://www.deutschlandfunk.de/stichwaffen-angriff-lehrkraft-in-essener-schule-verletzt-tatverdaechtiger-gefasst-100.html",
     "https://www.deutschlandfunk.de/eu-kommissions-vizepraesidentin-spricht-von-genozid-in-gaza-kritik-aus-israel-und-der-csu-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/netanjahu-spricht-vor-den-vereinten-nationen-dutzende-delegierte-verlassen-den-saal-100.html",
     "https://www.deutschlandfunk.de/landgericht-berlin-afd-muss-geschaeftsstelle-2026-raeumen-100.html",
     "https://www.faz.net/aktuell/politik/manoever-in-hamburg-teile-der-militaeruebung-sind-inzwischen-realitaet-110705730.html",
-    "https://www.deutschlandfunk.de/netanjahu-verteidigt-krieg-und-verurteilt-kritiker-dutzende-delegierte-verlassen-den-saal-100.html"
+    "https://www.deutschlandfunk.de/netanjahu-verteidigt-krieg-und-verurteilt-kritiker-dutzende-delegierte-verlassen-den-saal-100.html",
+    "https://www.deutschlandfunk.de/inhaftierter-istanbuler-oberbuergermeister-imamoglu-regierung-geht-aus-angst-gegen-opposition-vor-100.html",
+    "https://www.deutschlandfunk.de/polens-parlamentschef-holownia-schlaegt-bei-kloeckner-besuch-gemeinsamen-verteidigungsfonds-vor-100.html",
+    "https://www.deutschlandfunk.de/bund-und-laender-dringen-auf-besseres-wolfsmanagement-100.html"
   ],
   "content_hashes": [
-    "5a99a249798cb46f3b6fccbb13bfa2df",
-    "cb923545ef82028f1b1af8054d9d3675",
-    "44f6cacb5ba4f9d32b522606941e8774",
     "8b6c77d1e2401aa1d57ed76331e176f0",
     "a4290196fc6783a537c6fd1906a01978",
     "073cffef16e895b9b7ff0398926adb0b",
@@ -2001,12 +1998,12 @@
     "af789c76c7cc11f78b7b8bc46e30c2be",
     "a948a56be45bf8b89b88c2ad469aacac",
     "dd08d2a6cc5d53af144f7ef5e1de4bc3",
-    "fe18f86128e5d93dedc80adc2fedd1a0"
+    "fe18f86128e5d93dedc80adc2fedd1a0",
+    "99c1ba18251a80d61d8f0005504c97bc",
+    "96907cb0f6f25d4aee7dda895f5df1e3",
+    "9cc055267d7770da528648c3317c5f59"
   ],
   "titles": [
-    "Rechtspopulismus: Wir erleben eine Revolution",
-    "Thailand - Parlament wählt konservativ-populistischen Politiker Anutin Charnvirakul als neuen Ministerpräsident",
-    "DIW-Prognose: Deutschland wird ab 2026 wirtschaftlichen Aufschwung erleben",
     "Zukunft der Bundeswehr - Ministerin Prien: Wehrpflicht für Frauen eine \"Gleichstellungsfrage\"",
     "Großeinsatz der Polizei - Stichwaffen-Angriff: Lehrkraft in Essener Schule verletzt - Tatverdächtiger gefasst",
     "Teresa Ribera - EU-Kommissions-Vizepräsidentin spricht von \"Genozid\" in Gaza - Kritik aus Israel und der CSU",
@@ -3003,12 +3000,12 @@
     "New York - Netanjahu spricht vor den Vereinten Nationen - Dutzende Delegierte verlassen den Saal",
     "Kündigung nach Party - AfD muss 2026 mit ihrer Geschäftsstelle umziehen",
     "Manöver in Hamburg: Teile der Militärübung sind inzwischen Realität",
-    "Vereinte Nationen - Netanjahu verteidigt Krieg und verurteilt Kritiker - Dutzende Delegierte verlassen den Saal"
+    "Vereinte Nationen - Netanjahu verteidigt Krieg und verurteilt Kritiker - Dutzende Delegierte verlassen den Saal",
+    "Türkei - Inhaftierter Istanbuler Oberbürgermeister Imamoglu: \"Regierung geht aus Angst gegen Opposition vor\"",
+    "Warschau - Polens Parlamentschef Holownia schlägt bei Klöckner-Besuch gemeinsamen Verteidigungsfonds vor",
+    "Agrarministerkonferenz - Bund und Länder dringen auf besseres Wolfsmanagement"
   ],
   "hashes": [
-    "7d9857fd900829e9ba97f4ea9d7e99ff",
-    "863cbfce907bf300fb4e903457641396",
-    "6efd3de9fd80742aa3f615dbf10c3e00",
     "c326cce4f024d67bfb96a3f1193c466d",
     "09b137767ecad6bc826abc08083be1b3",
     "4bde98e22646076dc5a0ba3085e61d90",
@@ -4005,6 +4002,9 @@
     "028172901f86061bfd81fa4d30e0eee9",
     "4c45e019f18af916f12604076d8446f4",
     "a3dcfea79d46e08208827d4a9542a37e",
-    "b1ae2c0a3e67e15c63c4432cd6cb5de8"
+    "b1ae2c0a3e67e15c63c4432cd6cb5de8",
+    "b3d07be78349ce19fe8efd3ada237a49",
+    "0fe17cb8958393fca2dca229317516d3",
+    "809ba6ab475361c9baaca063404e601e"
   ]
 }
