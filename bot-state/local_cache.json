@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/der-weg-zum-bundeshaushalt-100.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-nach-bereinigungssitzung-des-haushaltsausschusses-100.html",
     "https://www.deutschlandfunk.de/berichte-ueber-verletzte-nach-siedler-angriff-im-westjordanland-102.html",
     "https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juli-deutlich-weniger-auftraege-102.html",
     "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/fuenf-jahre-haft-fuer-hanna-s-wegen-angriffen-auf-rechtsextreme-100.html",
     "https://www.deutschlandfunk.de/indien-deutschland-wirbt-nach-drastischer-erhoehung-von-visagebuehren-in-den-usa-verstaerkt-um-arbei-100.html",
     "https://www.deutschlandfunk.de/frankreichs-bauern-protestieren-gegen-geplantes-mercosur-abkommen-100.html",
-    "https://www.faz.net/aktuell/politik/russisches-geld-zur-verteidigung-gegen-russland-merz-macht-mobil-110705449.html"
+    "https://www.faz.net/aktuell/politik/russisches-geld-zur-verteidigung-gegen-russland-merz-macht-mobil-110705449.html",
+    "https://www.deutschlandfunk.de/kontrollen-gegen-schrottimmobilien-und-sozialbetrug-100.html",
+    "https://www.deutschlandfunk.de/feuergefahr-bmw-ruft-weltweit-hunderttausende-autos-zurueck-100.html"
   ],
   "content_hashes": [
-    "46882322287622684fe43aec18616a5d",
-    "a2eba0488284a930704e155b528914fc",
     "4f39399d591bc04fbab7466f995972fd",
     "e08724dde0a5ab67995868d09f44770e",
     "bb2531cc492096b73202a37b94bd09d3",
@@ -2001,11 +1999,11 @@
     "0e1a25060641a49a78cc501dd14c66fe",
     "fe565e3d9b1fbf10043a93cf9cbe3aba",
     "40c34ec81d42a3945bf6b0db20cc2f6b",
-    "15a70866201230df15a856e9ca38d43a"
+    "15a70866201230df15a856e9ca38d43a",
+    "9158868d1e164307ce851ea21c5b6a80",
+    "e5855cf9ada04df8a651973fc7e315e9"
   ],
   "titles": [
-    "Haushaltswoche - Der Weg zum Bundeshaushalt",
-    "Bereinigungssitzung - Haushaltsausschuss einigt sich auf Bundeshaushalt 2025",
     "Nahost - Berichte über Verletzte nach Siedler-Angriff im Westjordanland",
     "Wirtschaft - Deutsche Industrie verzeichnet im Juli deutlich weniger Aufträge",
     "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris",
@@ -3003,11 +3001,11 @@
     "München - Fünf Jahre Haft für Hanna S. wegen Angriffen auf Rechtsextreme",
     "Einwanderungspolitik - Indien: Deutschland wirbt nach drastischer Erhöhung von Visagebühren in den USA verstärkt um Arbeitskräfte",
     "Freihandel - Frankreichs Bauern protestieren gegen geplantes Mercosur-Abkommen",
-    "Die russischen Milliarden: Merz' Mobilmachung gegen Putin"
+    "Die russischen Milliarden: Merz' Mobilmachung gegen Putin",
+    "Nordrhein-Westfalen - Kontrollen gegen Schrottimmobilien und Sozialbetrug",
+    "Automobilbranche - Feuergefahr: BMW ruft weltweit hunderttausende Autos zurück"
   ],
   "hashes": [
-    "391ca629e386313408a5937e766c891f",
-    "efb044d0392ff7ee1eb06922d0d438d6",
     "8e19913e0ec8cba1bee55baeaebbb854",
     "b3e78efd188b059aace2a1ca2a956906",
     "120cd35e8e73b3708c31c2cfe3dcc76e",
@@ -4005,6 +4003,8 @@
     "ecac7ab427c17316c5bd70db64f68e01",
     "f4c5edca2c1574eecbfd24e16dd9e816",
     "877ee70dd94499497c944dfa2c2caf8c",
-    "5ae524ef087501210cee25eb43e874bf"
+    "5ae524ef087501210cee25eb43e874bf",
+    "6a8a42199ca0a10ea46081557ff4f2d9",
+    "cfe617acc7186915a2f3852ac840c5df"
   ]
 }
