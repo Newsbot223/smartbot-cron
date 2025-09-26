@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/herbst-der-reformen-kanzler-merz-gibt-klein-bei-110670450.html",
-    "https://www.deutschlandfunk.de/israelisches-militaer-kontrollieren-40-prozent-von-gaza-stadt-100.html",
     "https://www.deutschlandfunk.de/ausschuss-einigt-sich-auf-etat-fuer-102.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-kommunalwahlkampf-in-nrw-wuest-und-soeder-treten-in-bocholt-auf-110671357.html",
     "https://www.deutschlandfunk.de/auch-in-koeln-badeverbot-fuer-den-rhein-beschlossen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/junge-menschen-werden-haeufiger-rechtsextremer-straftaten-verdaechtigt-102.html",
     "https://www.deutschlandfunk.de/debatte-ueber-haushalt-fuer-2026-fortgesetzt-102.html",
     "https://www.deutschlandfunk.de/schiff-vor-sylt-gesunken-besatzung-gerettet-100.html",
-    "https://www.deutschlandfunk.de/17-tote-bei-kaempfen-in-ecuadorianischem-gefaengnis-100.html"
+    "https://www.deutschlandfunk.de/17-tote-bei-kaempfen-in-ecuadorianischem-gefaengnis-100.html",
+    "https://www.deutschlandfunk.de/vw-streicht-an-mehreren-standorten-schichten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-die-afd-vom-thema-armutsmigration-bei-ob-wahlen-in-nrw-profitiert-accg-110701185.html"
   ],
   "content_hashes": [
-    "1f142204f829ea7553c5050b1aef58cd",
-    "fbd4aaea1989ed1e743b367d8c827000",
     "a360ef177be7f3c175c2e8c5f062a64b",
     "11d735861a3b34a692951a7573a1f1d4",
     "4fafd5201b367e99cf4f002755ef8dd6",
@@ -2001,11 +1999,11 @@
     "6149318de6d1e45f2f583d3707d54f59",
     "6f6e4a5ba3b685acb00652a6f648c8b3",
     "46af5b203e3dde98e4a0a8d3a16ac59b",
-    "2c504265ae6fb4ec4bd4b74d0c24f88a"
+    "2c504265ae6fb4ec4bd4b74d0c24f88a",
+    "72a0b8eba6942a3157248d7ad1085f55",
+    "674ec5f59bcdf3e9fad84dfb8f582485"
   ],
   "titles": [
-    "Koalition und Sozialstaat: Der Kanzler gibt klein bei",
-    "Gazastreifen - Israelisches Militär: \"Kontrollieren 40 Prozent von Gaza-Stadt\"",
     "Bundeshaushalt - Ausschuss einigt sich auf Etat für 2025",
     "Kommunalwahlkampf in NRW: „Wir machen nichts Böses, wir machen nur was Gutes“",
     "Sitzung des Stadtrates - Auch in Köln Badeverbot für den Rhein beschlossen",
@@ -3003,11 +3001,11 @@
     "Umfrage - Junge Menschen werden häufiger rechtsextremer Straftaten verdächtigt",
     "Bundestag - Debatte über Haushalt für 2026 fortgesetzt",
     "Nordsee - Schiff vor Sylt gesunken - Besatzung gerettet",
-    "Rivalisierende Drogenbanden - 17 Tote bei Kämpfen in ecuadorianischem Gefängnis"
+    "Rivalisierende Drogenbanden - 17 Tote bei Kämpfen in ecuadorianischem Gefängnis",
+    "Schwache Nachfrage - VW streicht an mehreren Standorten Schichten",
+    "OB-Stichwahlen in NRW: Wie die AfD vom Thema Armutsmigration profitiert"
   ],
   "hashes": [
-    "0d7a9b920f7533639dadf5c3462bb6ca",
-    "4584a1ac803bc46d6b2de972f180af15",
     "e09470d348ee43d5b9d052dcc88f7c30",
     "27360ac400533866aee2208aa846142f",
     "2c2f654e7bd23f3c5e14f516ad193fca",
@@ -4005,6 +4003,8 @@
     "39a7bcd74dae3f352baca1439f6f1d44",
     "4abbc89fb01d6b796d87c8805072c9a9",
     "db64de9b6b90aaf0bb4ec0eed3349f1f",
-    "c4e52183dbf6ebc93af90e2db3379755"
+    "c4e52183dbf6ebc93af90e2db3379755",
+    "3d091a209814a6ba08d0cad4122cf246",
+    "bfd5f174e40012e7596c9c8ceb01186a"
   ]
 }
