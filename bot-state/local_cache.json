@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ifo-institut-senkt-erwartungen-an-wirtschaftswachstum-102.html",
-    "https://www.deutschlandfunk.de/koalition-der-willigen-eroertert-sicherheitsgarantien-fuer-die-ukraine-100.html",
-    "https://www.spiegel.de/wissenschaft/natur/asiatische-hornisse-meldeaktion-des-nabu-zeigt-verbreitung-in-westdeutschland-a-f7cce673-0886-4247-81f9-5f4441dccd9e#ref=rss",
     "https://www.faz.net/aktuell/politik/ukraine/koalition-der-willigen-was-die-ukraine-braucht-110670459.html",
     "https://www.deutschlandfunk.de/bildungsforscher-wer-soziale-kompetenzen-nicht-lernt-leidet-sein-leben-lang-darunter-102.html",
     "https://www.deutschlandfunk.de/gastronomie-und-pendler-sollen-entlastet-werden-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/usa-genehmigen-verkauf-von-raketen-fuer-kuenftige-f-35-kampfjets-der-bundeswehr-100.html",
     "https://www.deutschlandfunk.de/deutschland-hat-nachholbedarf-bei-drohnen-enteckung-und-abwehr-100.html",
     "https://www.deutschlandfunk.de/netanjahu-ernennt-david-zini-zu-neuem-geheimdienst-chef-100.html",
-    "https://www.deutschlandfunk.de/taifun-bualoi-trifft-auf-philippinen-tausende-evakuiert-100.html"
+    "https://www.deutschlandfunk.de/taifun-bualoi-trifft-auf-philippinen-tausende-evakuiert-100.html",
+    "https://www.deutschlandfunk.de/zwei-todesurteile-vollstreckt-zahl-der-hinrichtungen-steigt-100.html",
+    "https://www.deutschlandfunk.de/deutschland-hat-nachholbedarf-bei-drohnen-entdeckung-und-abwehr-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nord-stream-anschlaege-was-man-heute-weiss-und-was-nicht-accg-110696539.html"
   ],
   "content_hashes": [
-    "8cb8b8720c0e8af54e1a3a79b44fe236",
-    "66f48eda02452556535c9fa60a7dd885",
-    "989b043d13d54bd5deaf89f95192ecf7",
     "2b0f6b7a21201c116a6193596bf03808",
     "71ac0e09267ccb92d91b9e768e23aead",
     "446272ae14307849449588c581f9d96e",
@@ -2001,12 +1998,12 @@
     "36b29a756c6d84b4a123c795ce4863e5",
     "be014ae7a7225693de82f0e654ec4bcf",
     "e571092404cfe545e8456573306c2562",
-    "f4cd28a59ab21be95dd8237b6771a90b"
+    "f4cd28a59ab21be95dd8237b6771a90b",
+    "7b3c67064e67272ddb106a72e4b68e3f",
+    "bc0798609add06c3ff8a3832b60049a6",
+    "a7241dd8934a9caf39d5a1b647de2cd1"
   ],
   "titles": [
-    "Herbstprognose - Ifo-Institut senkt Erwartungen an Wirtschaftswachstum",
-    "Paris - Koalition der Willigen erörtert Sicherheitsgarantien für die Ukraine",
-    "Asiatische Hornisse: Meldeaktion des Nabu zeigt Verbreitung in Westdeutschland",
     "Koalition der Willigen: Was jetzt wirklich wichtig ist",
     "Fehlende Schulprogramme - Bildungsforscher: \"Wer soziale Kompetenzen nicht lernt, leidet sein Leben lang darunter\"",
     "Bundesfinanzministerium - Gastronomie und Pendler sollen entlastet werden",
@@ -3003,12 +3000,12 @@
     "Rüstung - USA genehmigen Verkauf von Raketen für künftige F-35 Kampfjets der Bundeswehr",
     "CDU-Sicherheitsexperte - \"Deutschland hat Nachholbedarf bei Drohnen-Enteckung und -Abwehr\"",
     "Israel - Netanjahu ernennt David Zini zu neuem Geheimdienst-Chef",
-    "Neuer Tropensturm - Taifun \"Bualoi\" trifft auf Philippinen - Tausende evakuiert"
+    "Neuer Tropensturm - Taifun \"Bualoi\" trifft auf Philippinen - Tausende evakuiert",
+    "USA - Zwei Todesurteile vollstreckt - Zahl der Hinrichtungen steigt",
+    "CDU-Sicherheitsexperte - \"Deutschland hat Nachholbedarf bei Drohnen-Entdeckung und -Abwehr\"",
+    "Vor möglichem Prozess: Was man heute über die Nord-Stream-Anschläge weiß – und was nicht"
   ],
   "hashes": [
-    "99107f556395f422891f5485a724ec75",
-    "672427a0238a21ffedf8db95b2787b0a",
-    "b95c03bf0210b81f05f2dc04859c4854",
     "bb524459b21e5563fba16be1e92d0396",
     "b98a3576f6c2c58611f14b0c15cbaa86",
     "4b1ccfedae32142606c7b71e76be45e5",
@@ -4005,6 +4002,9 @@
     "2c0f9c1807c27831a808a4045f83318c",
     "f0e442119022527efb4ea900787aac66",
     "e9570e4fec9ba609ec719b1902227e2d",
-    "a39767843eef01fc902e336f3d7a5e6d"
+    "a39767843eef01fc902e336f3d7a5e6d",
+    "68f8168ca0c65b7ddcb5cf85c8ebbbaf",
+    "de3941c36c0a3436e14db0c2c2d880d4",
+    "be3fd86d710eb01b90a5b7908ac71e19"
   ]
 }
