@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/koalition-der-willigen-was-die-ukraine-braucht-110670459.html",
-    "https://www.deutschlandfunk.de/bildungsforscher-wer-soziale-kompetenzen-nicht-lernt-leidet-sein-leben-lang-darunter-102.html",
-    "https://www.deutschlandfunk.de/gastronomie-und-pendler-sollen-entlastet-werden-102.html",
     "https://www.deutschlandfunk.de/macron-26-laender-wollen-sich-an-sicherungstruppe-beteiligen-104.html",
     "https://www.deutschlandfunk.de/ifo-institut-senkt-wachstums-erwartungen-fuest-zu-wenig-private-investitionen-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-union-und-spd-in-den-herbst-der-reformen-gehen-110670746.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/taifun-bualoi-trifft-auf-philippinen-tausende-evakuiert-100.html",
     "https://www.deutschlandfunk.de/zwei-todesurteile-vollstreckt-zahl-der-hinrichtungen-steigt-100.html",
     "https://www.deutschlandfunk.de/deutschland-hat-nachholbedarf-bei-drohnen-entdeckung-und-abwehr-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nord-stream-anschlaege-was-man-heute-weiss-und-was-nicht-accg-110696539.html"
+    "https://www.faz.net/aktuell/politik/inland/nord-stream-anschlaege-was-man-heute-weiss-und-was-nicht-accg-110696539.html",
+    "https://www.deutschlandfunk.de/trump-verhaengt-zoelle-auf-arzneimittel-moebel-und-lastwagen-100.html",
+    "https://www.deutschlandfunk.de/bverfg-kandidaten-interview-mit-verfassungsrechtler-alexander-thiele-102.html",
+    "https://www.faz.net/aktuell/politik/brantner-und-neubaur-innovation-statt-regulierung-accg-110702943.html"
   ],
   "content_hashes": [
-    "2b0f6b7a21201c116a6193596bf03808",
-    "71ac0e09267ccb92d91b9e768e23aead",
-    "446272ae14307849449588c581f9d96e",
     "4c23f58fa16f33475ebbdce766875366",
     "d28e821873aa13805463f13a639102d5",
     "61fd9bc82c33eb687108c9bf196694f8",
@@ -2001,12 +1998,12 @@
     "f4cd28a59ab21be95dd8237b6771a90b",
     "7b3c67064e67272ddb106a72e4b68e3f",
     "bc0798609add06c3ff8a3832b60049a6",
-    "a7241dd8934a9caf39d5a1b647de2cd1"
+    "a7241dd8934a9caf39d5a1b647de2cd1",
+    "a32d7a67562597f99ee318a90adff435",
+    "dee1bb35ed92b6cdea52100930265680",
+    "6dacbfb714d73219d4784043a1c90f22"
   ],
   "titles": [
-    "Koalition der Willigen: Was jetzt wirklich wichtig ist",
-    "Fehlende Schulprogramme - Bildungsforscher: \"Wer soziale Kompetenzen nicht lernt, leidet sein Leben lang darunter\"",
-    "Bundesfinanzministerium - Gastronomie und Pendler sollen entlastet werden",
     "Ukraine-Beratungen - Macron: 26 Länder wollen sich an Sicherungstruppe beteiligen",
     "Herbstprognose - Ifo-Institut senkt Wachstums-Erwartungen - Fuest: \"Zu wenig private Investitionen\"",
     "„Herbst der Reformen“: Duzen und Bier sollen helfen",
@@ -3003,12 +3000,12 @@
     "Neuer Tropensturm - Taifun \"Bualoi\" trifft auf Philippinen - Tausende evakuiert",
     "USA - Zwei Todesurteile vollstreckt - Zahl der Hinrichtungen steigt",
     "CDU-Sicherheitsexperte - \"Deutschland hat Nachholbedarf bei Drohnen-Entdeckung und -Abwehr\"",
-    "Vor möglichem Prozess: Was man heute über die Nord-Stream-Anschläge weiß – und was nicht"
+    "Vor möglichem Prozess: Was man heute über die Nord-Stream-Anschläge weiß – und was nicht",
+    "Handelsstreit - Trump verhängt Zölle auf Arzneimittel, Möbel und Lastwagen",
+    "Richterwahl - Jurist Thiele sieht in wackliger Mehrheit ein politisches Versagen",
+    "Wirtschaftsstandort: Innovation statt noch mehr Regulierung"
   ],
   "hashes": [
-    "bb524459b21e5563fba16be1e92d0396",
-    "b98a3576f6c2c58611f14b0c15cbaa86",
-    "4b1ccfedae32142606c7b71e76be45e5",
     "c8dda1dc0fe9f44fcae691c84f990062",
     "a4efa87d53c5fc8dcb93520122c15414",
     "cb1d924ee65b60267eb28917cd2bdee6",
@@ -4005,6 +4002,9 @@
     "a39767843eef01fc902e336f3d7a5e6d",
     "68f8168ca0c65b7ddcb5cf85c8ebbbaf",
     "de3941c36c0a3436e14db0c2c2d880d4",
-    "be3fd86d710eb01b90a5b7908ac71e19"
+    "be3fd86d710eb01b90a5b7908ac71e19",
+    "51facdb1ccce49d8cf4bc47b662c9a9e",
+    "4fd2a0143d3155cbcdb7a0bfe7fc9a41",
+    "69034e5a65d15bb8163479e9cb92b209"
   ]
 }
