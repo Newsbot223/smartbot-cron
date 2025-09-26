@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/washington-klagt-gegen-einsatz-der-nationalgarde-in-der-hauptstadt-102.html",
-    "https://www.deutschlandfunk.de/bauhaus-feiert-100-jaehriges-bestehen-102.html",
-    "https://www.deutschlandfunk.de/macron-in-israel-vorerst-unerwuenscht-100.html",
     "https://www.faz.net/aktuell/politik/herbst-der-reformen-kanzler-merz-gibt-klein-bei-110670450.html",
     "https://www.deutschlandfunk.de/israelisches-militaer-kontrollieren-40-prozent-von-gaza-stadt-100.html",
     "https://www.deutschlandfunk.de/ausschuss-einigt-sich-auf-etat-fuer-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/brantner-und-neubaur-innovation-statt-regulierung-accg-110702943.html",
     "https://www.deutschlandfunk.de/vermutlich-noch-tagelang-probleme-am-ber-100.html",
     "https://www.deutschlandfunk.de/ukraine-greift-erneut-raffinerie-in-suedrussland-an-100.html",
-    "https://www.deutschlandfunk.de/junge-menschen-werden-haeufiger-rechtsextremer-straftaten-verdaechtigt-102.html"
+    "https://www.deutschlandfunk.de/junge-menschen-werden-haeufiger-rechtsextremer-straftaten-verdaechtigt-102.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-haushalt-fuer-2026-fortgesetzt-102.html",
+    "https://www.deutschlandfunk.de/schiff-vor-sylt-gesunken-besatzung-gerettet-100.html",
+    "https://www.deutschlandfunk.de/17-tote-bei-kaempfen-in-ecuadorianischem-gefaengnis-100.html"
   ],
   "content_hashes": [
-    "32b4343b1227bc355874475fee266ca0",
-    "219103a005e4fe6ada1aac4640d5bbd7",
-    "0d2ffbea103c779c08154b8246e17eff",
     "1f142204f829ea7553c5050b1aef58cd",
     "fbd4aaea1989ed1e743b367d8c827000",
     "a360ef177be7f3c175c2e8c5f062a64b",
@@ -2001,12 +1998,12 @@
     "6dacbfb714d73219d4784043a1c90f22",
     "74a3b59f9ca76c5d962d1271b38aee72",
     "fe59b1aa4f54a64ecaed74c64cc522ae",
-    "6149318de6d1e45f2f583d3707d54f59"
+    "6149318de6d1e45f2f583d3707d54f59",
+    "6f6e4a5ba3b685acb00652a6f648c8b3",
+    "46af5b203e3dde98e4a0a8d3a16ac59b",
+    "2c504265ae6fb4ec4bd4b74d0c24f88a"
   ],
   "titles": [
-    "USA - Washington klagt gegen Einsatz der Nationalgarde in der Hauptstadt",
-    "Dessau - Bauhaus feiert 100-jähriges Bestehen",
-    "Streit über Palästina-Anerkennung - Macron in Israel vorerst unerwünscht",
     "Koalition und Sozialstaat: Der Kanzler gibt klein bei",
     "Gazastreifen - Israelisches Militär: \"Kontrollieren 40 Prozent von Gaza-Stadt\"",
     "Bundeshaushalt - Ausschuss einigt sich auf Etat für 2025",
@@ -3003,12 +3000,12 @@
     "Wirtschaftsstandort: Innovation statt noch mehr Regulierung",
     "Nach Cyberangriff - Vermutlich noch tagelang Probleme am BER",
     "Krieg - Ukraine greift erneut Raffinerie in Südrussland an",
-    "Umfrage - Junge Menschen werden häufiger rechtsextremer Straftaten verdächtigt"
+    "Umfrage - Junge Menschen werden häufiger rechtsextremer Straftaten verdächtigt",
+    "Bundestag - Debatte über Haushalt für 2026 fortgesetzt",
+    "Nordsee - Schiff vor Sylt gesunken - Besatzung gerettet",
+    "Rivalisierende Drogenbanden - 17 Tote bei Kämpfen in ecuadorianischem Gefängnis"
   ],
   "hashes": [
-    "6dab21c897b3d874d678f8b183620a0f",
-    "7164b10e7caa4fffbbfe9665b378e91a",
-    "4868f2992758089d47d051f414c41551",
     "0d7a9b920f7533639dadf5c3462bb6ca",
     "4584a1ac803bc46d6b2de972f180af15",
     "e09470d348ee43d5b9d052dcc88f7c30",
@@ -4005,6 +4002,9 @@
     "69034e5a65d15bb8163479e9cb92b209",
     "17112275c73a03b988cd03d820380af5",
     "0eac5f439e1e3db5b485fc154464a398",
-    "39a7bcd74dae3f352baca1439f6f1d44"
+    "39a7bcd74dae3f352baca1439f6f1d44",
+    "4abbc89fb01d6b796d87c8805072c9a9",
+    "db64de9b6b90aaf0bb4ec0eed3349f1f",
+    "c4e52183dbf6ebc93af90e2db3379755"
   ]
 }
