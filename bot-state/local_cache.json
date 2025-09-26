@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auch-in-koeln-badeverbot-fuer-den-rhein-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/gruenen-chef-kritisiert-gasbohrungen-vor-borkum-als-kapitulationserklaerung-beim-klimaschutz-100.html",
     "https://www.deutschlandfunk.de/trump-will-verteidigungsministerium-in-kriegsministerium-umbenennen-zustimmung-des-kongresses-erford-100.html",
     "https://www.deutschlandfunk.de/militaerverwaltung-charkiw-drei-tote-und-zwei-verletzte-bei-russischem-angriff-100.html",
     "https://www.deutschlandfunk.de/merz-und-wuest-bei-einweihung-von-europas-schnellstem-supercomputer-jupiter-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/vw-streicht-an-mehreren-standorten-schichten-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-die-afd-vom-thema-armutsmigration-bei-ob-wahlen-in-nrw-profitiert-accg-110701185.html",
     "https://www.deutschlandfunk.de/initiative-deutsche-wohnen-co-enteignen-legt-vorschlag-fuer-gesetzentwurf-vor-100.html",
-    "https://www.deutschlandfunk.de/sachsens-kultusminister-clemens-cdu-sieht-rechtsextremismus-als-groesste-gesellschaftliche-herausfor-100.html"
+    "https://www.deutschlandfunk.de/sachsens-kultusminister-clemens-cdu-sieht-rechtsextremismus-als-groesste-gesellschaftliche-herausfor-100.html",
+    "https://www.deutschlandfunk.de/deutschland-wirbt-nach-drastischer-erhoehung-von-visagebuehren-in-den-usa-verstaerkt-um-arbeitskraef-100.html",
+    "https://www.faz.net/aktuell/politik/inland/neue-verfassungsrichter-karlsruhe-braucht-rueckgrat-110704394.html"
   ],
   "content_hashes": [
-    "4fafd5201b367e99cf4f002755ef8dd6",
-    "fdf4ebb2d19ea810132cbc21552d1f7f",
     "d4258784eb63e05bd8cf58a4fe0aa33d",
     "f56f6af8dcca2ca295643c890455373d",
     "7376774e3ca6d59f6fff24bf4a3661dd",
@@ -2001,11 +1999,11 @@
     "72a0b8eba6942a3157248d7ad1085f55",
     "674ec5f59bcdf3e9fad84dfb8f582485",
     "146b5799415a417d5b0840625deda370",
-    "e3dbd689bb7b277f856560756cf35b6d"
+    "e3dbd689bb7b277f856560756cf35b6d",
+    "eff72e871bd489a4f17d19acaed49f1a",
+    "a58d6ffb4fe9491defba1ebc78889945"
   ],
   "titles": [
-    "Sitzung des Stadtrates - Auch in Köln Badeverbot für den Rhein beschlossen",
-    "Nach Genehmigung durch Behörde - Grünen-Chef kritisiert Gasbohrungen vor Borkum als \"Kapitulationserklärung\" beim Klimaschutz",
     "USA - Trump will Verteidigungsministerium in \"Kriegsministerium\" umbenennen - Zustimmung des Kongresses erforderlich",
     "Ukraine - Militärverwaltung Charkiw: Drei Tote und zwei Verletzte bei russischem Angriff",
     "Forschungszentrum Jülich - Merz und Wüst bei Einweihung von Europas schnellstem Supercomputer \"Jupiter\"",
@@ -3003,11 +3001,11 @@
     "Schwache Nachfrage - VW streicht an mehreren Standorten Schichten",
     "OB-Stichwahlen in NRW: Wie die AfD vom Thema Armutsmigration profitiert",
     "Berlin - Initiative \"Deutsche Wohnen & Co. enteignen\" legt Vorschlag für Gesetzentwurf vor",
-    "Bildung - Sachsens Kultusminister Clemens (CDU) sieht Rechtsextremismus als größte gesellschaftliche Herausforderung an den Schulen"
+    "Bildung - Sachsens Kultusminister Clemens (CDU) sieht Rechtsextremismus als größte gesellschaftliche Herausforderung an den Schulen",
+    "Indien - Deutschland wirbt nach drastischer Erhöhung von Visagebühren in den USA verstärkt um Arbeitskräfte",
+    "Neue Verfassungsrichter: Karlsruhe braucht Rückgrat"
   ],
   "hashes": [
-    "2c2f654e7bd23f3c5e14f516ad193fca",
-    "fc2257dbe4d3943b42724a8f67d70963",
     "71a8eec10642ba6236dbd948a017fc83",
     "69f1dff2b4160d1f9fa016ab00c82300",
     "494fb8ed42c56a3f911694ce8c637e3b",
@@ -4005,6 +4003,8 @@
     "3d091a209814a6ba08d0cad4122cf246",
     "bfd5f174e40012e7596c9c8ceb01186a",
     "e2d8a70851bb6cf047a654c0271883b6",
-    "1fd70eae677c0d3230008c169602de54"
+    "1fd70eae677c0d3230008c169602de54",
+    "e087b42b1f1f95f12ef54fc945950ca5",
+    "765c39320d40860d789649ee0e2f61e8"
   ]
 }
