@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-industrie-verzeichnet-im-juli-deutlich-weniger-auftraege-102.html",
-    "https://www.deutschlandfunk.de/hoffnung-in-der-ukraine-nach-treffen-der-koalition-der-willigen-100.html",
     "https://www.deutschlandfunk.de/messerangriff-lehrkraft-in-essener-schule-verletzt-100.html",
     "https://www.deutschlandfunk.de/am-sonntagabend-gibt-es-eine-totale-mondfinsternis-102.html",
     "https://www.faz.net/aktuell/politik/ausland/erfolge-von-trump-oder-afd-wir-erleben-eine-revolution-110670810.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/russisches-geld-zur-verteidigung-gegen-russland-merz-macht-mobil-110705449.html",
     "https://www.deutschlandfunk.de/kontrollen-gegen-schrottimmobilien-und-sozialbetrug-100.html",
     "https://www.deutschlandfunk.de/feuergefahr-bmw-ruft-weltweit-hunderttausende-autos-zurueck-100.html",
-    "https://www.faz.net/aktuell/politik/inland/prozess-gegen-hanna-s-fuenf-jahre-haft-fuer-linksextremistin-110704559.html"
+    "https://www.faz.net/aktuell/politik/inland/prozess-gegen-hanna-s-fuenf-jahre-haft-fuer-linksextremistin-110704559.html",
+    "https://www.deutschlandfunk.de/netanjahu-spricht-vor-den-vereinten-nationen-dutzende-delegierte-verlassen-den-saal-100.html",
+    "https://www.deutschlandfunk.de/landgericht-berlin-afd-muss-geschaeftsstelle-2026-raeumen-100.html"
   ],
   "content_hashes": [
-    "e08724dde0a5ab67995868d09f44770e",
-    "bb2531cc492096b73202a37b94bd09d3",
     "487d65e9434f098a85e52db4a3508ae2",
     "d0653c70ad1ce9e435079f970e56c2fa",
     "5a99a249798cb46f3b6fccbb13bfa2df",
@@ -2001,11 +1999,11 @@
     "15a70866201230df15a856e9ca38d43a",
     "9158868d1e164307ce851ea21c5b6a80",
     "e5855cf9ada04df8a651973fc7e315e9",
-    "a96d71a65885279e3cf2eb555018162d"
+    "a96d71a65885279e3cf2eb555018162d",
+    "af789c76c7cc11f78b7b8bc46e30c2be",
+    "a948a56be45bf8b89b88c2ad469aacac"
   ],
   "titles": [
-    "Wirtschaft - Deutsche Industrie verzeichnet im Juli deutlich weniger Aufträge",
-    "Krieg in der Ukraine - Hoffnung nach Treffen der \"Koalition der Willigen\" in Paris",
     "Großeinsatz der Polizei - Messerangriff: Lehrkraft in Essener Schule verletzt",
     "Blutroter Mond - Am Sonntagabend gibt es eine totale Mondfinsternis",
     "Rechtspopulismus: Wir erleben eine Revolution",
@@ -3003,11 +3001,11 @@
     "Die russischen Milliarden: Merz' Mobilmachung gegen Putin",
     "Nordrhein-Westfalen - Kontrollen gegen Schrottimmobilien und Sozialbetrug",
     "Automobilbranche - Feuergefahr: BMW ruft weltweit hunderttausende Autos zurück",
-    "Oberlandesgericht München: Fünf Jahre Haft für Linksextremistin Hanna S."
+    "Oberlandesgericht München: Fünf Jahre Haft für Linksextremistin Hanna S.",
+    "New York - Netanjahu spricht vor den Vereinten Nationen - Dutzende Delegierte verlassen den Saal",
+    "Kündigung nach Party - AfD muss 2026 mit ihrer Geschäftsstelle umziehen"
   ],
   "hashes": [
-    "b3e78efd188b059aace2a1ca2a956906",
-    "120cd35e8e73b3708c31c2cfe3dcc76e",
     "3e6087274e7b5c9bd29db6902b44e42c",
     "d4fe6889396524a51393dcdc52adaa0e",
     "7d9857fd900829e9ba97f4ea9d7e99ff",
@@ -4005,6 +4003,8 @@
     "5ae524ef087501210cee25eb43e874bf",
     "6a8a42199ca0a10ea46081557ff4f2d9",
     "cfe617acc7186915a2f3852ac840c5df",
-    "c168468a3cfb4ef06167089296322695"
+    "c168468a3cfb4ef06167089296322695",
+    "028172901f86061bfd81fa4d30e0eee9",
+    "4c45e019f18af916f12604076d8446f4"
   ]
 }
