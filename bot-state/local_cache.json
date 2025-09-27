@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/jens-spahn-ueber-corona-und-afd-bis-heute-rufen-mir-diese-leute-hinterher-moerder-accg-110672522.html",
-    "https://www.spiegel.de/ausland/global-retirement-index-norwegen-top-deutschland-faellt-zurueck-a-fbbb3282-8c4a-4dae-89bb-6ebce9c265e4#ref=rss",
-    "https://www.deutschlandfunk.de/weiter-debatte-zwischen-spitzen-von-union-und-spd-100.html",
-    "https://www.deutschlandfunk.de/stoerungen-und-proteste-rund-um-streitgespraech-von-oberbuergermeister-palmer-mit-afd-landeschef-fro-106.html",
     "https://www.deutschlandfunk.de/ob-palmer-diskutiert-mit-afd-landeschef-frohnmaier-102.html",
     "https://www.deutschlandfunk.de/spd-stellt-sich-fuer-landtagswahl-2026-auf-klingbeil-kein-spalten-und-polarisieren-100.html",
     "https://www.deutschlandfunk.de/bundesschuelerkonferenz-fuehlt-sich-in-debatte-ueber-social-media-begrenzungen-uebergangen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-wegen-israels-militaeroffensive-vorerst-aus-100.html",
     "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-drogenproblematik-und-wirtsc-100.html",
     "https://www.faz.net/aktuell/politik/ausland/moskaus-drohnen-luftkaempfe-ueber-nato-gebiet-sind-keine-loesung-110704880.html",
-    "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-enormen-druck-aus-moskau-100.html"
+    "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-enormen-druck-aus-moskau-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-treibt-plaene-fuer-aktivrente-voran-kritik-von-der-caritas-100.html",
+    "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-100.html",
+    "https://www.deutschlandfunk.de/iran-sanktionen-kommen-zurueck-interview-mit-nahost-experte-michael-lueders-100.html",
+    "https://www.spiegel.de/ausland/daenemark-neue-drohnen-sichtungen-dieses-mal-ueber-militaerstuetzpunkt-karup-air-base-a-ffbb78f9-2ffe-48c5-aac6-a2927dc9d0d2#ref=rss"
   ],
   "content_hashes": [
-    "a207ab6cb409807fe9bcc9d7f544e623",
-    "441f9be4ba05cb2339b1a32314d41bd3",
-    "a0c5ccc7ff4408b318518168c7c94927",
-    "fea6d6e33881dc5bf28d5250addf714c",
     "7ef9b98afb603f10d72a0421a38bd821",
     "c573189fa3b26e66f9e67ebb4091c031",
     "aa278e289fbe5693014f78b99acb6e67",
@@ -2001,13 +1997,13 @@
     "2b51c1d1d1401ebc957d3e009f4145ed",
     "82e07a518d163951d51b68783671dd17",
     "3ef9c5b6453915f3442cd587a1e6075a",
-    "72659df7d5d6c1a9532512f6ac65ae5b"
+    "72659df7d5d6c1a9532512f6ac65ae5b",
+    "3aaa7800ca040c76a5ef85a827d6c3a0",
+    "4b820eda8f92022e3812c97e9ffc3643",
+    "eff4ebf2be9a1916ee837110669335ac",
+    "e0bf137ebfcc6413e3642de9129879fd"
   ],
   "titles": [
-    "Jens Spahn über die AfD: „Bis heute rufen mir diese Leute hinterher: Mörder! Mörder!“",
-    "Global Retirement Index: Norwegen top, Deutschland fällt zurück",
-    "Koalition - Weiter Debatte zwischen Spitzen von Union und SPD",
-    "Tübingen - Störungen und Proteste rund um Streitgespräch von Oberbürgermeister Palmer mit AfD-Landeschef Frohnmaier",
     "Tübingen - OB Palmer diskutiert mit AfD-Landeschef Frohnmaier",
     "Sachsen-Anhalt - SPD stellt sich für Landtagswahl 2026 auf - Klingbeil: Kein Spalten und Polarisieren",
     "Tiktok & Co - Bundesschülerkonferenz fühlt sich in Debatte über Social-Media-Begrenzungen übergangen",
@@ -3003,13 +2999,13 @@
     "Nahost - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt wegen Israels Militäroffensive vorerst aus",
     "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden - Drogenproblematik und Wirtschaft im Fokus der Kandidaten",
     "Russische Provokationen: Luftkämpfe über NATO-Gebiet sind keine Lösung",
-    "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt \"enormen Druck aus Moskau\""
+    "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt \"enormen Druck aus Moskau\"",
+    "Medienbericht - Bundesregierung treibt Pläne für Aktivrente voran - Kritik von der Caritas",
+    "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden",
+    "Sanktionen gegen Iran - Politologe Lüders: \"Es gibt kein Vertrauen mehr, auf beiden Seiten\"",
+    "Dänemark: Neue Drohnen-Sichtungen – dieses Mal über Militärstützpunkt Karup Air Base"
   ],
   "hashes": [
-    "36e8474de06e64e37e05bafee57323ee",
-    "c3e9719f3d38d3bdf7ffdab7c7cee066",
-    "7f1be93dcb4d31015fff775d29d91d4a",
-    "cb4063b6e1e4fb43a6c552a462c5bcfa",
     "b86341857008b2883790110bb9098852",
     "6353fbc19faf2ec63827e2de7ef1805b",
     "ddea030df13d4523ba422c9a8a1188c3",
@@ -4005,6 +4001,10 @@
     "6afee8a5891acb20687d74336c79727b",
     "1d7a695e4d7cd5ba8dfe8437ccc144c3",
     "5c54c3422515c175f9d92f58a921a4be",
-    "894da62f41879b6e0e4cb47d0b01925d"
+    "894da62f41879b6e0e4cb47d0b01925d",
+    "a42d86f083547b890307a0b85d217166",
+    "f1ad6be77b97ee6fdb45bc33618aa363",
+    "d2fcf2252a8b48623ea990e3fa5f27d7",
+    "d3db054c028e0a1acdad9248eac2e8dd"
   ]
 }
