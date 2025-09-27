@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gedenkfeier-der-saarlaendischen-landesregierung-fuer-getoeteten-polizisten-100.html",
-    "https://www.faz.net/aktuell/politik/inland/haseloffs-rueckzug-afd-vor-machtuebernahme-in-sachsen-anhalt-110670558.html",
     "https://www.deutschlandfunk.de/belegschaft-stimmt-fuer-kompromiss-100.html",
     "https://www.deutschlandfunk.de/hamas-veroeffentlicht-neues-geisel-video-124.html",
     "https://www.deutschlandfunk.de/ruecktritt-von-britischer-vize-premierministerin-starmer-bildet-kabinett-um-100.html",
@@ -999,11 +997,11 @@
     "https://www.aljazeera.com/video/the-bottom-line/2025/9/26/recognising-palestine-vs-holding-israel-accountable?traffic_source=rss",
     "https://www.deutschlandfunk.de/ehemaliger-israelischer-geheimdienstchef-fordert-anerkennung-eines-staates-palaestina-durch-deutschl-102.html",
     "https://www.deutschlandfunk.de/muentefering-fordert-von-spd-mehr-mut-102.html",
-    "https://www.deutschlandfunk.de/grosskundgebung-und-demonstration-in-berlin-gegen-krieg-in-gaza-erwartet-100.html"
+    "https://www.deutschlandfunk.de/grosskundgebung-und-demonstration-in-berlin-gegen-krieg-in-gaza-erwartet-100.html",
+    "https://www.deutschlandfunk.de/spahn-pocht-auf-komplette-streichung-fuer-arbeits-verweigerer-102.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-wirft-ungarn-drohnenfluege-ueber-ukraine-vor-faz-110683325.html"
   ],
   "content_hashes": [
-    "c2850c3ce01925f367c1677e90751b2f",
-    "16af01669a5f606d8519a832ec655107",
     "f9a41e85a6b49bc5bf6594198067dd8b",
     "fa23a3a76279fb950f744a595d4279e7",
     "7b462701cf7f8397deea57f764c95dac",
@@ -2001,11 +1999,11 @@
     "8ce4733092a592b8bf44e0cd444c001e",
     "a8ab937360437453b3b96484e8e91ac6",
     "a0c566778b244ff937d45cac47ec4f93",
-    "a485953cd550bd6fb23e67363cef9cf6"
+    "a485953cd550bd6fb23e67363cef9cf6",
+    "ff14f927aacd2bc3d2f8ea8c8b340383",
+    "f29d64887c45ae3d083c02e17948961a"
   ],
   "titles": [
-    "Saarbrücken - Gedenkfeier der saarländischen Landesregierung für getöteten Polizisten",
-    "AfD-Rekord in Umfrage: Die CDU hat ihr Zugpferd verloren",
     "Sparkurs bei Ford - Belegschaft stimmt für Kompromiss",
     "Nahost - Hamas veröffentlicht neues Geisel-Video",
     "London - Rücktritt von britischer Vize-Premierministerin: Starmer bildet Kabinett um",
@@ -3003,11 +3001,11 @@
     "Recognising Palestine vs holding Israel accountable?",
     "\"Interview der Woche\" - Ehemaliger israelischer Geheimdienstchef fordert Anerkennung eines Staates Palästina durch Deutschland",
     "Sozialreformen - Müntefering fordert von SPD mehr Mut",
-    "\"All Eyes on Gaza\" - Großkundgebung und Demonstration in Berlin gegen Krieg in Gaza erwartet"
+    "\"All Eyes on Gaza\" - Großkundgebung und Demonstration in Berlin gegen Krieg in Gaza erwartet",
+    "Bürgergeld-Debatte - Spahn pocht auf komplette Streichung für Arbeits-Verweigerer",
+    "Krieg in der Ukraine: Selenskyj wirft Ungarn Drohnenflüge über Ukraine vor"
   ],
   "hashes": [
-    "3fe1c4ac30edb04edd320b1871491a8e",
-    "e9d1204f4cbd448a6a66e48cfff7a48d",
     "faf800a9e60fbc82694d7598dd08067d",
     "1b3603eccdbecc5c61606a69d96f17da",
     "0efe9878198e7da6fb7fcaab2f7cadb9",
@@ -4005,6 +4003,8 @@
     "c2b8135556066482b1955bc032013fda",
     "ce80838d5e98978508095a7de4f17c39",
     "66cebb580174239734b668577c392164",
-    "9bf37200b5fa01b9ded38189e8c93ed7"
+    "9bf37200b5fa01b9ded38189e8c93ed7",
+    "98f29f65963c0c569715b9c46203a2d2",
+    "9575c22d18d9964ddf376b6548c87154"
   ]
 }
