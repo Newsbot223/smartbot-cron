@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/papst-spricht-heute-italienischen-teenager-carlo-acutis-heilig-100.html",
-    "https://www.deutschlandfunk.de/gruenen-politiker-hofreiter-fuer-mehr-haerte-im-kampf-gegen-korruption-100.html",
-    "https://www.deutschlandfunk.de/erneut-waldbraende-in-portugal-und-spanien-102.html",
-    "https://www.deutschlandfunk.de/russische-drohnenangriffe-auf-kiew-sumy-und-saporischschja-russland-meldet-drei-tote-in-belgorod-100.html",
-    "https://www.deutschlandfunk.de/regierungsgebaeude-in-kiew-nach-russischen-angriffen-in-flammen-102.html",
     "https://www.deutschlandfunk.de/afd-strebt-alleinregierung-an-100.html",
     "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-will-reformen-wie-bei-kanzler-schroeder-100.html",
     "https://www.deutschlandfunk.de/raketenangriff-auf-israel-aus-dem-gaza-streifen-102.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/ausland/berlin-und-duesseldorf-zehntausende-bei-gaza-demo-110706827.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-es-geht-donald-trump-nur-um-sein-ego-110704879.html",
     "https://www.deutschlandfunk.de/nato-verstaerkt-praesenz-in-der-ostsee-120.html",
-    "https://www.spiegel.de/politik/deutschland/in-berlin-wird-klar-dass-der-krieg-in-gaza-deutschland-geteilt-hat-a-63757b70-1f0d-4b85-8b18-3a2a8edda4fd#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/in-berlin-wird-klar-dass-der-krieg-in-gaza-deutschland-geteilt-hat-a-63757b70-1f0d-4b85-8b18-3a2a8edda4fd#ref=rss",
+    "https://www.deutschlandfunk.de/zehntausende-in-berlin-bei-demonstration-und-kundgebung-gegen-krieg-im-gazastreifen-108.html",
+    "https://www.deutschlandfunk.de/parlamentswahl-in-moldau-100.html",
+    "https://www.deutschlandfunk.de/britische-labourpartei-versammelt-sich-zu-parteitag-100.html",
+    "https://www.deutschlandfunk.de/stichwahlen-um-oberbuergermeister-aemter-in-nordrhein-westfalen-100.html",
+    "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html"
   ],
   "content_hashes": [
-    "eaffa4e07396fbb5c479fdbbe38e81c3",
-    "fcade0b338f91689dc2ad77cfc9dbf19",
-    "37b10568170ca75dd69fbb42d1a02044",
-    "92021321ddb0843bd82e599a7deabf6b",
-    "e3cdb5537970af4e2d195cd1ce371918",
     "f92d84d0c2bd8de42f64ad5e2472daba",
     "a0677a816d96a6e0e38c550957ed95f7",
     "b9d81fdca733ee262281b238d1d62038",
@@ -2001,14 +1996,14 @@
     "6b3ca4484a12eddfbf595d26e24873c7",
     "fba3a6ebac51bd95c6ea82c7bf1046e2",
     "7695cb4fe7140bf1ff2acf8a1bd620f3",
-    "77506e5331e523bba6c34ac12b7ad348"
+    "77506e5331e523bba6c34ac12b7ad348",
+    "dba3cedf4e06aab1a4e5885f49e61e7e",
+    "8831b34a36ee2f12a8cdbd339ca64c03",
+    "9652034a11d33fd3375888d212c13985",
+    "9f6ac95c75be52f848f5e098dc15d29c",
+    "4c1183ab7d38c39b2bdf2153df48b908"
   ],
   "titles": [
-    "Vatikan - Papst spricht heute italienischen Teenager Carlo Acutis heilig",
-    "Ukraine - Grünen-Politiker Hofreiter für mehr Härte im Kampf gegen Korruption",
-    "Iberische Halbinsel - Erneut Waldbrände in Portugal und Spanien",
-    "Ukraine-Krieg - Russische Drohnenangriffe auf Kiew, Sumy und Saporischschja - Russland meldet drei Tote in Belgorod",
-    "Ukraine - Regierungsgebäude in Kiew nach russischen Angriffen in Flammen",
     "Sachsen-Anhalt - AfD strebt Alleinregierung an",
     "Koalition - CDU-Generalsekretär Linnemann will Reformen wie bei Kanzler Schröder",
     "Nahost - Raketenangriff auf Israel aus dem Gaza-Streifen",
@@ -3003,14 +2998,14 @@
     "Kundgebung in Berlin: Zehntausende demonstrieren für Gaza",
     "Ego des US-Präsidenten: Kann man Trump noch ernst nehmen?",
     "Luftraumverletzungen - NATO verstärkt Präsenz in der Ostsee",
-    "Palästina-Demo: In Berlin wird klar, dass der Krieg in Gaza Deutschland geteilt hat"
+    "Palästina-Demo: In Berlin wird klar, dass der Krieg in Gaza Deutschland geteilt hat",
+    "\"All Eyes on Gaza\" - Zehntausende in Berlin bei Demonstration und Kundgebung gegen Krieg im Gazastreifen",
+    "Ex-Sowjetrepublik - Parlamentswahl in Moldau",
+    "Liverpool - Britische Labourpartei versammelt sich zu Parteitag",
+    "Zwei Wochen nach Kommunalwahlen - Stichwahlen um Oberbürgermeister-Ämter in Nordrhein-Westfalen",
+    "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus"
   ],
   "hashes": [
-    "0d629a351ac598b3878c7ca3e64a0025",
-    "06fbf73afd1e85a441b0f33e62eaf338",
-    "6b47decf63233f6c0922aac3ec0b93b7",
-    "0715b905d6af0e9f59458fc9710beb72",
-    "143de97233fb2a52506de17ffcb110af",
     "11e4b14f5c651d5c2592d08777ca51fa",
     "752fba5ec29f08827d740330d6c89827",
     "f9dc9449cb14c4ac1e1ac5f64526ec73",
@@ -4005,6 +4000,11 @@
     "df38082ab9e8460663306dcad40402ed",
     "6a06f6e527882f1831df00943e1f998e",
     "84f60841b69f9a50a7e90fe8e78f789e",
-    "f1cbf339b90abe2109e3992719d4012e"
+    "f1cbf339b90abe2109e3992719d4012e",
+    "b328fb632eef01f1596ba741dc037cea",
+    "a3d196126dd99bc244bf04e77a0bcb1f",
+    "ee1db3dab3db75f125772cfda08be4b6",
+    "756f72f1a67ae0adb382cff8809d9614",
+    "436971f86ac8b65364c11dc347c1db6d"
   ]
 }
