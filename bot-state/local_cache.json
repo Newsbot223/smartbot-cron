@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afd-strebt-alleinregierung-an-100.html",
-    "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-will-reformen-wie-bei-kanzler-schroeder-100.html",
-    "https://www.deutschlandfunk.de/raketenangriff-auf-israel-aus-dem-gaza-streifen-102.html",
     "https://www.deutschlandfunk.de/premierminister-ishiba-kuendigt-ruecktritt-an-102.html",
     "https://www.faz.net/aktuell/politik/ausland/heiligsprechung-von-carlo-acutis-wozu-braucht-man-heute-noch-heilige-110672958.html",
     "https://www.deutschlandfunk.de/aus-psychiatrie-geflohener-straftaeter-in-kolumbien-gefasst-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/parlamentswahl-in-moldau-100.html",
     "https://www.deutschlandfunk.de/britische-labourpartei-versammelt-sich-zu-parteitag-100.html",
     "https://www.deutschlandfunk.de/stichwahlen-um-oberbuergermeister-aemter-in-nordrhein-westfalen-100.html",
-    "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html"
+    "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html",
+    "https://www.deutschlandfunk.de/bundeswehr-sichert-eu-gipfel-in-kopenhagen-ab-nato-verstaerkt-praesenz-in-der-ostsee-102.html",
+    "https://www.deutschlandfunk.de/sanktionen-gegen-den-iran-sind-wieder-in-kraft-102.html",
+    "https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss"
   ],
   "content_hashes": [
-    "f92d84d0c2bd8de42f64ad5e2472daba",
-    "a0677a816d96a6e0e38c550957ed95f7",
-    "b9d81fdca733ee262281b238d1d62038",
     "6685d316ce8b6c3edbe9faa7829a950a",
     "0b39626ac5c76d88e036db70db203d03",
     "43f0b33b2ace8887f489e549aacd3f9e",
@@ -2001,12 +1998,12 @@
     "8831b34a36ee2f12a8cdbd339ca64c03",
     "9652034a11d33fd3375888d212c13985",
     "9f6ac95c75be52f848f5e098dc15d29c",
-    "4c1183ab7d38c39b2bdf2153df48b908"
+    "4c1183ab7d38c39b2bdf2153df48b908",
+    "fdb29a0ec3215bd959dd298e08947f0b",
+    "ca4bdbef28d13207b66abc54999113ba",
+    "c25d5dbdd03860c924cf1db9f2a91199"
   ],
   "titles": [
-    "Sachsen-Anhalt - AfD strebt Alleinregierung an",
-    "Koalition - CDU-Generalsekretär Linnemann will Reformen wie bei Kanzler Schröder",
-    "Nahost - Raketenangriff auf Israel aus dem Gaza-Streifen",
     "Japan - Premierminister Ishiba kündigt Rücktritt an",
     "Heiligsprechung von Millennial: Wozu braucht man heute noch Heilige?",
     "Kriminalität - Aus Psychiatrie geflohener Straftäter in Kolumbien gefasst",
@@ -3003,12 +3000,12 @@
     "Ex-Sowjetrepublik - Parlamentswahl in Moldau",
     "Liverpool - Britische Labourpartei versammelt sich zu Parteitag",
     "Zwei Wochen nach Kommunalwahlen - Stichwahlen um Oberbürgermeister-Ämter in Nordrhein-Westfalen",
-    "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus"
+    "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus",
+    "Luftraumüberwachung - Bundeswehr sichert EU-Gipfel in Kopenhagen ab - NATO verstärkt Präsenz in der Ostsee",
+    "Atomprogramm - Sanktionen gegen den Iran sind wieder in Kraft",
+    "Russia-Ukraine war: List of key events, day 1,312"
   ],
   "hashes": [
-    "11e4b14f5c651d5c2592d08777ca51fa",
-    "752fba5ec29f08827d740330d6c89827",
-    "f9dc9449cb14c4ac1e1ac5f64526ec73",
     "8c10d0ae0b72bfb58145344998987286",
     "4e78dd31247984d78d991cde355722e0",
     "e92b7d1e0f2bdff82c16d6edf1bf00fc",
@@ -4005,6 +4002,9 @@
     "a3d196126dd99bc244bf04e77a0bcb1f",
     "ee1db3dab3db75f125772cfda08be4b6",
     "756f72f1a67ae0adb382cff8809d9614",
-    "436971f86ac8b65364c11dc347c1db6d"
+    "436971f86ac8b65364c11dc347c1db6d",
+    "168fd2bfdf30edb2f7863f605a049784",
+    "3222c58f23e58420272df6856451b19d",
+    "1640f3972b600a0f501cb4e4e01e99db"
   ]
 }
