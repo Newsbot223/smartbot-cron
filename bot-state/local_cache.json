@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/palmers-streitexperiment-mit-der-afd-110674730.html",
-    "https://www.deutschlandfunk.de/foerderlaender-drehen-oelhahn-noch-weiter-auf-100.html",
-    "https://www.deutschlandfunk.de/israel-meldet-luftangriffe-aus-jemen-und-dem-gazastreifen-schaeden-an-flughafen-im-sueden-gemeldet-106.html",
     "https://www.deutschlandfunk.de/israelische-armee-greift-weiteres-hochhaus-an-100.html",
     "https://www.deutschlandfunk.de/guyanas-praesident-ali-sichert-sich-wiederwahl-100.html",
     "https://www.faz.net/aktuell/politik/ausland/ministerpraesident-ishiba-tritt-zurueck-nun-auch-in-japan-110674729.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/britischer-premier-starmer-schwoert-labour-auf-auseinandersetzung-mit-rechtspopulisten-ein-100.html",
     "https://www.deutschlandfunk.de/tote-fische-an-ostsee-straenden-in-rostock-angeschwemmt-stadt-richtet-krisenstab-ein-100.html",
     "https://www.deutschlandfunk.de/spd-gegen-abschaffung-des-pflegegrads-100.html",
-    "https://www.deutschlandfunk.de/daenemark-sperrt-luftraum-fuer-drohnenfluege-100.html"
+    "https://www.deutschlandfunk.de/daenemark-sperrt-luftraum-fuer-drohnenfluege-100.html",
+    "https://www.deutschlandfunk.de/elektronischer-identitaetsnachweis-wird-eingefuehrt-102.html",
+    "https://www.deutschlandfunk.de/kirchenvertreter-aus-besetzten-palaestinensergebieten-werfen-netanjahu-luegen-ueber-die-lage-der-chr-102.html",
+    "https://www.spiegel.de/politik/alexander-dobrindt-peilt-einigung-mit-syrien-ueber-abschiebungen-noch-2025-an-a-dbd6c6de-4f64-4390-9fcd-6c3582b187d4#ref=rss"
   ],
   "content_hashes": [
-    "f54f590afd1036d26239fc4aeff8ce38",
-    "080af4832e08f7c3baf273c175bcb697",
-    "2fc63bc720eae754eae63e8ec3d4486f",
     "23040fcfbfcee0a28ff3ff217cb30551",
     "1012cd8c00650fcb709b34d6286b89fa",
     "841721aba17bf76b61b696ce0e49deb1",
@@ -2001,12 +1998,12 @@
     "c2c537058e725f5082e0a3e0692b3376",
     "39d7527cabb6e1aa98aefa70377f0460",
     "a623faf9f26e71ac9cb616b39ee4b3ee",
-    "d441b4c7f1db8486e780258fefc3f0d8"
+    "d441b4c7f1db8486e780258fefc3f0d8",
+    "f8981f3cff1ae934b653f4eb479dad02",
+    "38ad73036cb3ec381925a6d4b979943d",
+    "7c1dcadc62369debdd730d338e724f29"
   ],
   "titles": [
-    "Umgang mit Rechtsextremen: Palmers Streitexperiment mit der AfD",
-    "Wirtschaft - Förderländer drehen Ölhahn noch weiter auf",
-    "Nahost - Israel meldet Luftangriffe aus Jemen und dem Gazastreifen - Schäden an Flughafen im Süden gemeldet",
     "Gaza-Stadt - Israelische Armee greift weiteres Hochhaus an",
     "Südamerika - Guyanas Präsident Ali sichert sich Wiederwahl",
     "Ishibas Rücktritt: Nun auch in Japan",
@@ -3003,12 +3000,12 @@
     "Parteitag in Liverpool - Britischer Premier Starmer schwört Labour auf Auseinandersetzung mit Rechtspopulisten ein",
     "Sauerstoffmangel im Meer? - Tote Fische an Ostsee-Stränden in Rostock angeschwemmt - Stadt richtet Krisenstab ein",
     "Sozialstaat - SPD gegen Abschaffung des Pflegegrads 1",
-    "Vor EU-Gipfel - Dänemark sperrt Luftraum für Drohnenflüge"
+    "Vor EU-Gipfel - Dänemark sperrt Luftraum für Drohnenflüge",
+    "Schweiz - Elektronischer Identitätsnachweis wird eingeführt",
+    "Israel - Kirchenvertreter aus besetzten Palästinensergebieten werfen Netanjahu Lügen über die Lage der Christen in der Region vor",
+    "Alexander Dobrindt peilt Einigung mit Syrien über Abschiebungen noch 2025 an"
   ],
   "hashes": [
-    "8121c00115c9d9a26170fe6ff05cf154",
-    "07858bf41de64f3bbcae77640999816c",
-    "ed34f983199e3710c4b8a88d1b91fe6d",
     "83e7d1a9b6b450197b96fcea57b4d750",
     "0a13d25100936b34943e8095ea1fa5c5",
     "4a2a4ff853d749f33406bfd728ced242",
@@ -4005,6 +4002,9 @@
     "ab2229fcba2a2fa303a0abb71b62b94f",
     "be9c33c127461d785b7b22dc3d3b48bb",
     "0b80bf0c305d71b407a942cbc5c6e08e",
-    "301ed99765c15fd061346c0ec0bd6b7f"
+    "301ed99765c15fd061346c0ec0bd6b7f",
+    "3e98c18e4bbf5860d88bb1287829349c",
+    "c2d7bc32a64883ab16573f819de21c72",
+    "63146d92d4a7489968e45c67b00bac96"
   ]
 }
