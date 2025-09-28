@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zweiter-afrikanischer-klimagipfel-will-suche-nach-globalen-loesungen-beschleunigen-100.html",
-    "https://www.deutschlandfunk.de/totale-mondfinsternis-am-abend-104.html",
-    "https://www.deutschlandfunk.de/mehr-als-30-000-bootsmigranten-am-aermelkanal-in-diesem-jahr-neue-innenministerin-kuendigt-massnahme-100.html",
     "https://www.deutschlandfunk.de/gesundheitsministerin-warken-will-klinik-atlas-ihres-vorgaengers-lauterbach-einstellen-100.html",
     "https://www.deutschlandfunk.de/premierminister-bayrou-stellt-vertrauensfrage-im-streit-um-haushalt-sturz-der-regierung-erwartet-100.html",
     "https://www.spiegel.de/panorama/leute/dirigent-christoph-von-dohnanyi-gestorben-a-c045f562-b71b-42f2-a5e2-5c4b2d64df6f#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/9/28/dutch-pm-schoof-on-gaza-israel-and-a-collapsed-coalition?traffic_source=rss",
     "https://www.deutschlandfunk.de/pro-europaeische-partei-liegt-in-fuehrung-100.html",
     "https://www.faz.net/aktuell/politik/inland/meilensteine-helfen-nicht-gegen-putins-drohnen-110707676.html",
-    "https://www.deutschlandfunk.de/taliban-geben-freilassung-von-us-staatsbuerger-bekannt-100.html"
+    "https://www.deutschlandfunk.de/taliban-geben-freilassung-von-us-staatsbuerger-bekannt-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-reist-zu-gespraechen-nach-polen-102.html",
+    "https://www.deutschlandfunk.de/spd-fordert-mehr-massnahmen-gegen-lebensmittel-verschwendung-102.html",
+    "https://www.deutschlandfunk.de/erster-zwischenbericht-zu-den-auswirkungen-100.html"
   ],
   "content_hashes": [
-    "e93c965db81da76e5792cbfeb1241cfc",
-    "552792d2e722d06ce8105d958adce1ce",
-    "c971bded0965ba543251363c101b60ef",
     "ef9de0c866a5c86d9d7cba1bfb68e271",
     "b9ed94ca538dbe12f26ccaaf725a9676",
     "51901e70a4d6cc441cc311d77583060f",
@@ -2001,12 +1998,12 @@
     "de5c981e5921ce02ac8a82b3830ea308",
     "1bc33c68fc64d16feb08f475b6e0bece",
     "e55ff4bdac0e7ebdf7a51ea351d4c9ee",
-    "c734027ee29a623546dc80a9ea20b069"
+    "c734027ee29a623546dc80a9ea20b069",
+    "16580d19da2a567e2d9c6619d75839dd",
+    "a2f824685e853c539d7b11fdbdfd9fef",
+    "c7b233045e40e6cb4598bff476be1c46"
   ],
   "titles": [
-    "Äthiopien - Zweiter Afrikanischer Klimagipfel will Suche nach globalen Lösungen beschleunigen",
-    "Blutroter Mond - Totale Mondfinsternis am Abend",
-    "Großbritannien - Mehr als 30.000 Bootsmigranten am Ärmelkanal in diesem Jahr - neue Innenministerin kündigt Maßnahmen an",
     "Medienbericht - Gesundheitsministerin Warken will Klinik-Atlas ihres Vorgängers Lauterbach einstellen",
     "Regierungskrise in Frankreich - Premierminister Bayrou stellt Vertrauensfrage im Streit um Haushalt - Sturz der Regierung erwartet",
     "Dirigent Christoph von Dohnányi gestorben",
@@ -3003,12 +3000,12 @@
     "Dutch PM Schoof: On Gaza, Israel and a collapsed coalition",
     "Parlamentswahl in Moldau - Pro-europäische Partei liegt in Führung",
     "Luftsicherheitsgesetz: Meilensteine helfen nicht gegen Putins Drohnen",
-    "Afghanistan - Taliban geben Freilassung von US-Staatsbürger bekannt"
+    "Afghanistan - Taliban geben Freilassung von US-Staatsbürger bekannt",
+    "Weimarer Dreieck-Format - Bundesaußenminister Wadephul reist zu Gesprächen nach Polen",
+    "Aktionswoche \"Zu Gut für die Tonne\" - SPD fordert mehr Maßnahmen gegen Lebensmittel-Verschwendung",
+    "Cannabis-Teillegalisieirung - Erster Zwischenbericht zu den Auswirkungen"
   ],
   "hashes": [
-    "b37f0302b7a5774fc6470944abe2980a",
-    "52ed7ee6a8caf815be24c1cf169f949e",
-    "a43a94ba29a4c5345aa53528762677f5",
     "744fc6e40a8650574015a86e41fd3c6d",
     "d718d234b0adac846c0e1370a6d2d49f",
     "03adb3ed592c6006282c05d60a01d57c",
@@ -4005,6 +4002,9 @@
     "d217d8fd220a058ed12777619a7f50d9",
     "dfb0282dee59ef00fe3ff513b037e315",
     "6414ee8a6a05326873d5cd02c72e6e01",
-    "2bb7b9915c1d4277fe80665357aa1646"
+    "2bb7b9915c1d4277fe80665357aa1646",
+    "93bab86bb6acda42f2dad8a2192fb342",
+    "e97e02e1e24097c11422c7a158a39f4a",
+    "80e6cb8fb9cc12d0caec0f3617999b72"
   ]
 }
