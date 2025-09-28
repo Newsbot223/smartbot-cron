@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/premierminister-ishiba-kuendigt-ruecktritt-an-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/heiligsprechung-von-carlo-acutis-wozu-braucht-man-heute-noch-heilige-110672958.html",
     "https://www.deutschlandfunk.de/aus-psychiatrie-geflohener-straftaeter-in-kolumbien-gefasst-102.html",
     "https://www.deutschlandfunk.de/uno-experte-not-in-afghanistan-so-gross-wie-noch-nie-102.html",
     "https://www.deutschlandfunk.de/italienischer-teenager-carlo-acutis-heilig-gesprochen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html",
     "https://www.deutschlandfunk.de/bundeswehr-sichert-eu-gipfel-in-kopenhagen-ab-nato-verstaerkt-praesenz-in-der-ostsee-102.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-den-iran-sind-wieder-in-kraft-102.html",
-    "https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss",
+    "https://www.deutschlandfunk.de/gouverneurin-spricht-von-machtmissbrauch-praesident-von-angeblicher-belagerung-durch-antifa-102.html",
+    "https://www.spiegel.de/ausland/atom-verhandlungen-gescheitert-uno-sanktionen-gegen-iran-sind-wieder-in-kraft-a-85c9c115-0bfc-4a85-a8b2-fc19bac70e86#ref=rss"
   ],
   "content_hashes": [
-    "6685d316ce8b6c3edbe9faa7829a950a",
-    "0b39626ac5c76d88e036db70db203d03",
     "43f0b33b2ace8887f489e549aacd3f9e",
     "ec27d4e4888a88e08892743630cc3f6e",
     "fb093331639ce9d60bdceba1bc4a26ff",
@@ -2001,11 +1999,11 @@
     "4c1183ab7d38c39b2bdf2153df48b908",
     "fdb29a0ec3215bd959dd298e08947f0b",
     "ca4bdbef28d13207b66abc54999113ba",
-    "c25d5dbdd03860c924cf1db9f2a91199"
+    "c25d5dbdd03860c924cf1db9f2a91199",
+    "0f6ff231d62cf3e615efc546d1b2a9cf",
+    "3da700be14fe06e98394db5ad7fa43cd"
   ],
   "titles": [
-    "Japan - Premierminister Ishiba kündigt Rücktritt an",
-    "Heiligsprechung von Millennial: Wozu braucht man heute noch Heilige?",
     "Kriminalität - Aus Psychiatrie geflohener Straftäter in Kolumbien gefasst",
     "Nach den Erdbeben - UNO-Experte: Not in Afghanistan so groß wie noch nie",
     "Vatikan - Italienischer Teenager Carlo Acutis heilig gesprochen",
@@ -3003,11 +3001,11 @@
     "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus",
     "Luftraumüberwachung - Bundeswehr sichert EU-Gipfel in Kopenhagen ab - NATO verstärkt Präsenz in der Ostsee",
     "Atomprogramm - Sanktionen gegen den Iran sind wieder in Kraft",
-    "Russia-Ukraine war: List of key events, day 1,312"
+    "Russia-Ukraine war: List of key events, day 1,312",
+    "Militär in Portland - Gouverneurin spricht von Machtmissbrauch, Präsident von angeblicher Belagerung durch \"Antifa\"",
+    "Atom-Verhandlungen gescheitert: Uno-Sanktionen gegen Iran sind wieder in Kraft"
   ],
   "hashes": [
-    "8c10d0ae0b72bfb58145344998987286",
-    "4e78dd31247984d78d991cde355722e0",
     "e92b7d1e0f2bdff82c16d6edf1bf00fc",
     "4397c74e3f84a59ee0c5c492b06e593e",
     "8badd68a4cda377942dac9b036046c76",
@@ -4005,6 +4003,8 @@
     "436971f86ac8b65364c11dc347c1db6d",
     "168fd2bfdf30edb2f7863f605a049784",
     "3222c58f23e58420272df6856451b19d",
-    "1640f3972b600a0f501cb4e4e01e99db"
+    "1640f3972b600a0f501cb4e4e01e99db",
+    "64c85119b62d721cece58c0da87cd07e",
+    "5c69ffa6a06a8d6ec39818060cd65ba3"
   ]
 }
