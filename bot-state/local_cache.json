@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/zensur-und-strafe-wie-russland-das-internet-kontrolliert-110672451.html",
-    "https://www.deutschlandfunk.de/spd-parteivorstand-beginnt-klausur-programm-der-zukunft-im-mittelpunkt-102.html",
     "https://www.deutschlandfunk.de/gruene-kritisieren-linnemann-fuer-forderung-nach-agenda-politik-wie-bei-kanzler-schroeder-100.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-rund-900-menschen-wegen-unterstuetzung-der-verbotenen-gruppe-palestine-action-fest-100.html",
     "https://www.faz.net/aktuell/politik/inland/palmers-streitexperiment-mit-der-afd-110674730.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-prueft-offenbar-abschaffung-des-pflegegrads-100.html",
     "https://www.deutschlandfunk.de/gabun-hat-zwei-jahre-nach-putsch-parlaments-und-kommunalwahlen-abgehalten-100.html",
     "https://www.deutschlandfunk.de/verband-der-automobilindustrie-fordert-verlaengerung-der-kfz-steuerbefreiung-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/berlin-weitere-proteste-gegen-gaza-krieg-nach-grossdemo-geplant-a-08c05553-ee6a-435f-a098-2c946a97f4de#ref=rss"
+    "https://www.spiegel.de/panorama/gesellschaft/berlin-weitere-proteste-gegen-gaza-krieg-nach-grossdemo-geplant-a-08c05553-ee6a-435f-a098-2c946a97f4de#ref=rss",
+    "https://www.deutschlandfunk.de/britischer-premier-starmer-schwoert-labour-auf-auseinandersetzung-mit-rechtspopulisten-ein-100.html",
+    "https://www.deutschlandfunk.de/tote-fische-an-ostsee-straenden-in-rostock-angeschwemmt-stadt-richtet-krisenstab-ein-100.html"
   ],
   "content_hashes": [
-    "e69661fd26c3f0e641eaf8a7c19f3ff3",
-    "c3d8dcf322373698113a79059010d1f7",
     "4b5d6db43f71bb8e387b0b1f8bc57b79",
     "1016aad8c1d9bfaba64bcfeb8d901383",
     "f54f590afd1036d26239fc4aeff8ce38",
@@ -2001,11 +1999,11 @@
     "86f627c6147c9ab5808cc8c78518c9a6",
     "f3da2b2b3449e0c8d85d0421a146fc58",
     "3e6c30124eae002090ebb537d143b784",
-    "704a05ff919624b690c900ebbc44d1cb"
+    "704a05ff919624b690c900ebbc44d1cb",
+    "c2c537058e725f5082e0a3e0692b3376",
+    "39d7527cabb6e1aa98aefa70377f0460"
   ],
   "titles": [
-    "Russische Internetzensur: Der Extremist heißt Putin",
-    "Berlin - SPD-Parteivorstand beginnt Klausur - Programm der Zukunft im Mittelpunkt",
     "Reformdebatte - Grüne kritisieren Linnemann für Forderung nach \"Agenda\"-Politik wie bei Kanzler Schröder",
     "London - Polizei nimmt rund 900 Menschen wegen Unterstützung der verbotenen Gruppe \"Palestine Action\" fest",
     "Umgang mit Rechtsextremen: Palmers Streitexperiment mit der AfD",
@@ -3003,11 +3001,11 @@
     "Sozialstaat - Bundesregierung prüft offenbar Abschaffung des Pflegegrads 1",
     "Zentralafrika - Gabun hat zwei Jahre nach Putsch Parlaments- und Kommunalwahlen abgehalten",
     "Elektroautos - Verband der Automobilindustrie fordert Verlängerung der Kfz-Steuerbefreiung",
-    "Berlin: Weitere Proteste gegen Gaza-Krieg nach Großdemo geplant"
+    "Berlin: Weitere Proteste gegen Gaza-Krieg nach Großdemo geplant",
+    "Parteitag in Liverpool - Britischer Premier Starmer schwört Labour auf Auseinandersetzung mit Rechtspopulisten ein",
+    "Sauerstoffmangel im Meer? - Tote Fische an Ostsee-Stränden in Rostock angeschwemmt - Stadt richtet Krisenstab ein"
   ],
   "hashes": [
-    "6ada23150175740bf6997b36a16994f7",
-    "c7190118a4a9ffd6f3d87e3cd35645a8",
     "cc2a415b444dd32953962c0e1e412dc4",
     "bf9866e419f2bc498d19b086626ea4dc",
     "8121c00115c9d9a26170fe6ff05cf154",
@@ -4005,6 +4003,8 @@
     "5d390cca3b05367dda8706f3bd70aaf5",
     "c5d0a6692204f859816507e0c5058dc2",
     "a9ec96bd3403b66e3d3ee691ec1a6e7c",
-    "530a3c14a1346bf648adc502cc7dc540"
+    "530a3c14a1346bf648adc502cc7dc540",
+    "ab2229fcba2a2fa303a0abb71b62b94f",
+    "be9c33c127461d785b7b22dc3d3b48bb"
   ]
 }
