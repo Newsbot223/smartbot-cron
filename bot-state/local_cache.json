@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/merz-und-wadephul-werben-fuer-dreiklang-in-der-aussenpolitik-110676361.html",
-    "https://www.deutschlandfunk.de/sechs-tote-bei-anschlag-in-jerusalem-zwei-taeter-erschossen-100.html",
     "https://www.deutschlandfunk.de/mindestens-16-tote-bei-protesten-gegen-social-media-blockade-102.html",
     "https://www.deutschlandfunk.de/parlament-entzieht-premier-bayrou-das-vertrauen-100.html",
     "https://www.deutschlandfunk.de/wie-geht-es-nun-weiter-in-frankreich-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierungspartei-will-proeuropaeischen-kurs-fortsetzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/autokrise-praegt-wahlkampf-in-baden-wuerttemberg-110709151.html",
     "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
-    "https://www.deutschlandfunk.de/russland-zieht-sich-aus-europaeischer-antifolter-konvention-zurueck-104.html"
+    "https://www.deutschlandfunk.de/russland-zieht-sich-aus-europaeischer-antifolter-konvention-zurueck-104.html",
+    "https://www.deutschlandfunk.de/mindestens-22-tote-bei-gewalttaetigen-protesten-102.html",
+    "https://www.deutschlandfunk.de/trump-regierung-treibt-plaene-zur-wiederbelebung-des-kohleabbaus-voran-102.html"
   ],
   "content_hashes": [
-    "2e0d360815ab7d7df3142a874eac3dff",
-    "330eb3518769bda17c6fb18f906c3d3a",
     "414d6f6b10b3d4ef9ba723d860448bba",
     "b697be3ab3668fc2201ab593683454f7",
     "9dba5ab0a3d2e00c3805dec0d7eeb95d",
@@ -2001,11 +1999,11 @@
     "5bd7fe3c2ecd1f7196cdc65dc69460ac",
     "b13238fb8647f63702ea09dadf2dc11c",
     "6334780347b5a9f80ee6dfc576d672cc",
-    "6c693f82f37a288daf545746ce268bf3"
+    "6c693f82f37a288daf545746ce268bf3",
+    "8108ff0d247dc3b1512c891eb660704b",
+    "287dd1e2b15374360181faf7ce15bb30"
   ],
   "titles": [
-    "Botschafterkonferenz: Ein neuer Dreiklang statt Baerbock-Kurs",
-    "Israel - Sechs Tote bei Anschlag in Jerusalem - zwei Täter erschossen",
     "Nepal - Mindestens 16 Tote bei Protesten gegen Social-Media-Blockade",
     "Frankreich - Parlament entzieht Premier Bayrou das Vertrauen",
     "Nach verlorener Vertrauensfrage - Wie geht es nun weiter in Frankreich?",
@@ -3003,11 +3001,11 @@
     "Parlamentswahl in Moldau - Regierungspartei will proeuropäischen Kurs fortsetzen",
     "Baden-Württemberg: Autoland ist abgebrannt",
     "WDR-Bericht - Wahl-Panne in Mülheim: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
-    "Neues Gesetz - Russland zieht sich aus europäischer Antifolter-Konvention zurück"
+    "Neues Gesetz - Russland zieht sich aus europäischer Antifolter-Konvention zurück",
+    "Madagaskar - Mindestens 22 Tote bei gewalttätigen Protesten",
+    "USA - Trump-Regierung treibt Pläne zur Wiederbelebung des Kohleabbaus voran"
   ],
   "hashes": [
-    "0ff302b28a01ec9a14a9ef136d33beca",
-    "8b6a2412585b94e1b7a92be50e24d69c",
     "9d3a55ada059cd59e40a96b16f8d3708",
     "37f9651ca8018b6b9c1fa8fede1e6ee9",
     "f45eaad268dd5b27d12ddce93d99e8b8",
@@ -4005,6 +4003,8 @@
     "653bea21d8c1fffc9ff90b198330e455",
     "d55072d44220a25b6cdbf82827521acd",
     "212c2b25706025805c01cef83fb20d60",
-    "2912962d4df7ed834e0dbcbb5aaf08dc"
+    "2912962d4df7ed834e0dbcbb5aaf08dc",
+    "c2a2c9d1b60e73eef0768c0bce050089",
+    "ae20e50c19176741b5a248ab80f6a693"
   ]
 }
