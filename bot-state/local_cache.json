@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ministerin-warken-cdu-klinikschliessungen-trotz-anpassung-der-krankenhausreform-100.html",
-    "https://www.deutschlandfunk.de/putin-will-aus-europaeischer-antifolterkonvention-austreten-100.html",
     "https://www.deutschlandfunk.de/erneut-soldatengruppe-in-kolumbien-entfuehrt-100.html",
     "https://www.faz.net/aktuell/politik/herbst-der-reformen-das-notwendige-schnell-erledigen-110672536.html",
     "https://www.deutschlandfunk.de/tote-bei-schusswaffenangriff-in-jerusalem-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mindestens-ein-toter-bei-protesten-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/demografischer-wandel-immer-mehr-deutsche-werden-sehr-alt-102.html",
     "https://www.deutschlandfunk.de/nach-den-nrw-stichwahlen-100.html",
-    "https://www.faz.net/aktuell/politik/kryptodienst-anom-fbi-operation-beruht-auf-fragwuerdigem-beschluss-accg-110707726.html"
+    "https://www.faz.net/aktuell/politik/kryptodienst-anom-fbi-operation-beruht-auf-fragwuerdigem-beschluss-accg-110707726.html",
+    "https://www.deutschlandfunk.de/mehrere-verletzte-bei-schwerem-busunglueck-100.html",
+    "https://www.deutschlandfunk.de/todesopfer-nach-massenschlaegerei-in-gelsenkirchen-100.html"
   ],
   "content_hashes": [
-    "099845e4aee34e0b1efcc76673685db6",
-    "7f2567cf572ed2aa2e719d0fe6bd2dac",
     "45dd6381f4c2ade7665dd714d1493e50",
     "491ece9194feb7b84f2f2dbda7bac207",
     "fbd46b08a6b1f9874d497f57551b3a39",
@@ -2001,11 +1999,11 @@
     "332c352f1e6affbcaace4f60a609367c",
     "a9b26b57393898ad3f9ebfcbd655b33f",
     "4adee784ebb117bc08205a2e6eb76a39",
-    "d3c634bc3c0d50f10686833f896ba8a5"
+    "d3c634bc3c0d50f10686833f896ba8a5",
+    "80cd055569be5ddecfa643a230abeb33",
+    "4018a949d5f8187f885e7e86844f9de5"
   ],
   "titles": [
-    "Neuer Gesetzentwurf - Ministerin Warken (CDU): Klinikschließungen trotz Anpassung der Krankenhausreform",
-    "Europarat - Putin will aus europäischer Antifolterkonvention austreten",
     "Guerrilla-Kämpfer - Erneut Soldatengruppe in Kolumbien entführt",
     "Deutschland unter Druck: Der „Herbst der Reformen“ darf nicht kläglich enden",
     "Israel - Tote bei Schusswaffenangriff in Jerusalem",
@@ -3003,11 +3001,11 @@
     "Ecuador - Mindestens ein Toter bei Protesten gegen die Regierung",
     "Demografischer Wandel Immer mehr Deutsche werden sehr alt",
     "Nordrhein-Westfalen - AfD-Kandidaten unterliegen bei Kommunal-Stichwahl",
-    "Weltweite FBI-Operation: Wie Ermittler Tausende Kriminelle täuschten – und eine Richterin"
+    "Weltweite FBI-Operation: Wie Ermittler Tausende Kriminelle täuschten – und eine Richterin",
+    "Hamburg - Mehrere Verletzte bei schwerem Busunglück",
+    "Großeinsatz - Todesopfer nach Massenschlägerei in Gelsenkirchen"
   ],
   "hashes": [
-    "aa733fd6402845d01f3d1ffa618c0e29",
-    "7931784d1bcf3b167958cdba74e2feef",
     "1cc941c8846762551a148191d99ae9c2",
     "1125b4fb99530c734f0001e85ec41853",
     "20c744105e6d56d412054c93d9a7aede",
@@ -4005,6 +4003,8 @@
     "0df22db7a8b8916d545b9fbe4844748b",
     "8921bde8c7a6f1529eecde59526986f6",
     "e1fc3ecc650901ddbf1d7151df7706c0",
-    "d23a2584ab8e2ca690b5c883e6716907"
+    "d23a2584ab8e2ca690b5c883e6716907",
+    "98a6c34221c6f5a475e6a3b4c940e9a0",
+    "3196cdf1b22f18fc1dfd2ba7b29d19fe"
   ]
 }
