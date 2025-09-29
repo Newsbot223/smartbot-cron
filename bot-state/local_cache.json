@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/wahlen-in-argentinien-milei-hat-ein-ernstes-problem-110676417.html",
-    "https://www.deutschlandfunk.de/belarusischer-diplomat-aus-tschechien-verwiesen-102.html",
     "https://www.deutschlandfunk.de/parlament-entzieht-premier-bayrou-das-vertrauen-macron-ernennt-neuen-regierungschef-in-naechsten-tag-100.html",
     "https://www.deutschlandfunk.de/arbeiterpartei-von-ministerpraesident-st-re-liegt-vorn-100.html",
     "https://www.faz.net/aktuell/politik/inland/kiel-frachter-wegen-spionageverdacht-durchsucht-110676932.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kommentar-moldau-waehlt-europaeisch-nur-ein-kurzer-erfolgsmoment-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschlands-ungewoehnlichste-gerichtsgebaeude-millionen-fuer-prozesse-110703316.html",
     "https://www.faz.net/aktuell/politik/inland/uns-eint-der-auftrag-zwei-generale-zur-armee-der-einheit-110707717.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-staatmodernisierung-auf-den-weg-bringen-100.html"
+    "https://www.deutschlandfunk.de/bundesregierung-will-staatmodernisierung-auf-den-weg-bringen-100.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-elektronische-patientenakte-epa-haelt-auch-kurz-vor-der-nutzungspflicht-fuer-aerzte-an-100.html",
+    "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html"
   ],
   "content_hashes": [
-    "cbe8d0eb03e3d831831a322003781672",
-    "3f0afc37e5d0669094664b417cfe57b7",
     "b5b2e1025f1b29d1dc125e64cea55f7c",
     "80854155fc4fce39b15530b6a988fb5a",
     "e318d7c52b15838ea78f744aec026e88",
@@ -2001,11 +1999,11 @@
     "84fae3ac320d26d075fe80b1ee151baf",
     "a39761a2bf8d4b600671b81ac56fc67a",
     "33612fc079ade1fc1064fea137a36dea",
-    "0088f0a16f7e7ce4713f3db446bb5bbe"
+    "0088f0a16f7e7ce4713f3db446bb5bbe",
+    "fc6b6767c69f454ef2868ba3680a9a26",
+    "e49126a756d2c802c8e305dca682378b"
   ],
   "titles": [
-    "Wahlen in Buenos Aires: Milei hat ein ernstes Problem",
-    "Spionagevorwürfe - Belarusischer Diplomat aus Tschechien verwiesen",
     "Frankreich - Parlament entzieht Premier Bayrou das Vertrauen - Macron ernennt neuen Regierungschef in nächsten Tagen",
     "Wahl in Norwegen - Arbeiterpartei von Ministerpräsident Støre liegt vorn",
     "Festgesetzt in Kiel: Frachter wegen Spionageverdacht durchsucht",
@@ -3003,11 +3001,11 @@
     "Kommentar - Moldau trotzt dem Kreml - jetzt ist die EU am Zug",
     "Temporäre Gerichtssäle: Wenn jeder den Angeklagten sehen will",
     "Armee der Einheit: „Uns eint der Auftrag“",
-    "Kabinettsklausur - Bundesregierung will Staatmodernisierung auf den Weg bringen"
+    "Kabinettsklausur - Bundesregierung will Staatmodernisierung auf den Weg bringen",
+    "Gesundheitspolitik - Debatte über elektronische Patientenakte (ePA) hält auch kurz vor der Nutzungspflicht für Ärzte an",
+    "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht"
   ],
   "hashes": [
-    "8242721314933c1f714e57cdc27130ac",
-    "3b9ecb42573871c942eec64299a201ca",
     "d069cba9781e1837c5891e9058bdfa1c",
     "e1b99a2bd7a56fe12661b61f0c6537ba",
     "c438e06c748e1c0ae607c5037b60106e",
@@ -4005,6 +4003,8 @@
     "5b32df9768ea407f66abea6f0836075c",
     "bca4fa724ad693b54244ff044f6bb9fe",
     "f6ab0055a7b6aaeb1287ef33f764acca",
-    "1398f33139ad516421aae5113a354c30"
+    "1398f33139ad516421aae5113a354c30",
+    "ffbfcaa1a598f755e867f74ffd2d77f8",
+    "8b17fbff13bf30fa0e50a4a75b6c8e9d"
   ]
 }
