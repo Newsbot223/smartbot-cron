@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aufarbeitungsbeauftragte-nooke-warnt-vor-verharmlosung-der-ddr-geschichte-102.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-und-frankreichs-praesident-macron-verurteilen-anschlag-in-jerusalem-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-und-wadephul-werben-fuer-dreiklang-in-der-aussenpolitik-110676361.html",
     "https://www.deutschlandfunk.de/sechs-tote-bei-anschlag-in-jerusalem-zwei-taeter-erschossen-100.html",
     "https://www.deutschlandfunk.de/mindestens-16-tote-bei-protesten-gegen-social-media-blockade-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/putin-laesst-135-000-soldaten-zum-wehrdienst-einziehen-102.html",
     "https://www.deutschlandfunk.de/umweltminister-schneider-will-moore-fuer-klimaschutz-nutzen-100.html",
     "https://www.deutschlandfunk.de/regierungspartei-will-proeuropaeischen-kurs-fortsetzen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/autokrise-praegt-wahlkampf-in-baden-wuerttemberg-110709151.html"
+    "https://www.faz.net/aktuell/politik/inland/autokrise-praegt-wahlkampf-in-baden-wuerttemberg-110709151.html",
+    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
+    "https://www.deutschlandfunk.de/russland-zieht-sich-aus-europaeischer-antifolter-konvention-zurueck-104.html"
   ],
   "content_hashes": [
-    "623e1bf89c8550e5367e9d6f819b3864",
-    "266091acdcc6cce386e3cda59e39866f",
     "2e0d360815ab7d7df3142a874eac3dff",
     "330eb3518769bda17c6fb18f906c3d3a",
     "414d6f6b10b3d4ef9ba723d860448bba",
@@ -2001,11 +1999,11 @@
     "9f51a9896546ddc331975998506bcd36",
     "bd49f2c9c035923f7faa24dedc49881e",
     "5bd7fe3c2ecd1f7196cdc65dc69460ac",
-    "b13238fb8647f63702ea09dadf2dc11c"
+    "b13238fb8647f63702ea09dadf2dc11c",
+    "6334780347b5a9f80ee6dfc576d672cc",
+    "6c693f82f37a288daf545746ce268bf3"
   ],
   "titles": [
-    "Brandenburg - Aufarbeitungsbeauftragte Nooke warnt vor Verharmlosung der DDR-Geschichte",
-    "Israel - Außenminister Wadephul und Frankreichs Präsident Macron verurteilen Anschlag in Jerusalem",
     "Botschafterkonferenz: Ein neuer Dreiklang statt Baerbock-Kurs",
     "Israel - Sechs Tote bei Anschlag in Jerusalem - zwei Täter erschossen",
     "Nepal - Mindestens 16 Tote bei Protesten gegen Social-Media-Blockade",
@@ -3003,11 +3001,11 @@
     "Russland - Putin lässt 135.000 Soldaten zum Wehrdienst einziehen",
     "Klimaschutz - Umweltminister Schneider will Moore für Klimaschutz nutzen",
     "Parlamentswahl in Moldau - Regierungspartei will proeuropäischen Kurs fortsetzen",
-    "Baden-Württemberg: Autoland ist abgebrannt"
+    "Baden-Württemberg: Autoland ist abgebrannt",
+    "WDR-Bericht - Wahl-Panne in Mülheim: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
+    "Neues Gesetz - Russland zieht sich aus europäischer Antifolter-Konvention zurück"
   ],
   "hashes": [
-    "9bcfe7b3cb449819d7bc51224921a139",
-    "b5fadae810d5aba128a1f6b91935f5e8",
     "0ff302b28a01ec9a14a9ef136d33beca",
     "8b6a2412585b94e1b7a92be50e24d69c",
     "9d3a55ada059cd59e40a96b16f8d3708",
@@ -4005,6 +4003,8 @@
     "a8a2873b8537b3884b13dabe5157ca16",
     "126b916d499973ca557f3a1d94bac48e",
     "653bea21d8c1fffc9ff90b198330e455",
-    "d55072d44220a25b6cdbf82827521acd"
+    "d55072d44220a25b6cdbf82827521acd",
+    "212c2b25706025805c01cef83fb20d60",
+    "2912962d4df7ed834e0dbcbb5aaf08dc"
   ]
 }
