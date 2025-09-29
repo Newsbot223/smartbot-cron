@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erste-sitzung-der-corona-kommission-des-bundestags-100.html",
-    "https://www.deutschlandfunk.de/proteste-vor-urteil-gegen-ex-praesident-bolsonaro-100.html",
-    "https://www.deutschlandfunk.de/polizei-riegelt-zentrale-der-groessten-oppositionspartei-chp-ab-100.html",
     "https://www.deutschlandfunk.de/niederlage-fuer-partei-von-praesident-milei-bei-wichtiger-regionalwahl-102.html",
     "https://www.deutschlandfunk.de/renner-schlaegt-umstrittenen-afd-kandidaten-bei-oberbuergermeisterwahl-in-meissen-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-ex-botschafter-melnyk-bittet-deutsche-um-verzeihung-fuer-seine-damals-teils-scharfen-ae-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stadt-portland-und-bundesstaat-oregon-verklagen-trump-wegen-geplantem-einsatz-von-nationalgarde-100.html",
     "https://www.deutschlandfunk.de/erneut-drohnen-in-norwegen-gesichtet-fluege-umgeleitet-100.html",
     "https://www.deutschlandfunk.de/mindestens-vier-todesopfer-bei-schusswaffenangriff-auf-mormonen-kirche-auch-taeter-tot-100.html",
-    "https://www.deutschlandfunk.de/pro-europaeische-partei-gewinnt-parlamentswahl-100.html"
+    "https://www.deutschlandfunk.de/pro-europaeische-partei-gewinnt-parlamentswahl-100.html",
+    "https://www.deutschlandfunk.de/pro-europaeische-partei-pas-gewinnt-parlamentswahl-ex-praesident-kuendigt-protest-an-100.html",
+    "https://www.deutschlandfunk.de/erneut-drohnen-in-norwegen-gesichtet-daenemark-sperrt-luftraum-fuer-zivile-drohnen-100.html",
+    "https://www.deutschlandfunk.de/spd-will-containern-entkriminalisieren-100.html"
   ],
   "content_hashes": [
-    "dd0dfa4b29fbefbc12d92d509922001e",
-    "f70feb341e26c10b57f00dd12444ddba",
-    "91cc954a65fde0dd81ab4c7200b49e68",
     "169946fd3220c1984ab40e67c8aa0b2c",
     "1d4bf0e228b78f2dc304ed3a4ea90d33",
     "74529d730d14f885650e27f9a7a1b1e0",
@@ -2001,12 +1998,12 @@
     "e8fd9031c7299f09763cb9595d20c09a",
     "e60a0f6c0d0fa19eb2eccb5183f3a51c",
     "76aaa3b467eac94b9c48ce201ecd5636",
-    "e167a481ad9b2945b57071fee2ebf4cb"
+    "e167a481ad9b2945b57071fee2ebf4cb",
+    "fdabeb6ca52c016dc252aa8a5ab26ba7",
+    "6a6eee63c483ab12651d04b84c371e59",
+    "6e94975211c6fcbb0412cd6699320001"
   ],
   "titles": [
-    "Berlin - Erste Sitzung der Corona-Kommission des Bundestags",
-    "Brasilien - Proteste vor Urteil gegen Ex-Präsident Bolsonaro",
-    "Türkei - Polizei riegelt Zentrale der größten Oppositionspartei CHP ab",
     "Argentinien - Niederlage für Partei von Präsident Milei bei wichtiger Regionalwahl",
     "Sachsen - Renner schlägt umstrittenen AfD-Kandidaten bei Oberbürgermeisterwahl in Meißen",
     "Russlands Angriffskrieg - Ukrainischer Ex-Botschafter Melnyk bittet Deutsche um Verzeihung für seine damals teils scharfen Äußerungen",
@@ -3003,12 +3000,12 @@
     "USA - Stadt Portland und Bundesstaat Oregon verklagen Trump wegen geplantem Einsatz von Nationalgarde",
     "Luftraumverletzungen - Erneut Drohnen in Norwegen gesichtet - Flüge umgeleitet",
     "USA - Mindestens vier Todesopfer bei Schusswaffenangriff auf Mormonen-Kirche - auch Täter tot",
-    "Moldau - Pro-europäische Partei gewinnt Parlamentswahl"
+    "Moldau - Pro-europäische Partei gewinnt Parlamentswahl",
+    "Moldau - Pro-europäische Partei PAS gewinnt Parlamentswahl - Ex-Präsident kündigt Protest an",
+    "Luftraumverletzungen - Erneut Drohnen in Norwegen gesichtet - Dänemark sperrt Luftraum für zivile Drohnen",
+    "Aktionswoche gegen Lebensmittelverschwendung - SPD will \"Containern\" entkriminalisieren"
   ],
   "hashes": [
-    "ee9646cfa01589fe1c72738e22970937",
-    "52796af5f1c841bcc063bf2fb2e1968b",
-    "9e176c2c25d0f84bb8d2eac23d770091",
     "d6d835d3e2b9c58956ede68ccceb7021",
     "314010b99fe0000760778619e3aedc65",
     "cdff1d47d17d648af943cdcac4e1f137",
@@ -4005,6 +4002,9 @@
     "c15beb6c1af0eabd3fb612b3ed496874",
     "b5ef8bcb39450a92fb3b4ee32fea63ab",
     "458c3ed8b81aace52bb6898f6b7e50f0",
-    "b3458fda4ded2c6f479f3a3b9faf8215"
+    "b3458fda4ded2c6f479f3a3b9faf8215",
+    "ef95d4177ca3b2877579ab9e6881262a",
+    "a76a483047b9c0d5f548b578c8f372d7",
+    "58d81c1894b8e7f3899365fa92f6ac97"
   ]
 }
