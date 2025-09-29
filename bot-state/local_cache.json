@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tote-bei-schusswaffenangriff-in-jerusalem-102.html",
-    "https://www.deutschlandfunk.de/asylantraege-in-der-eu-im-ersten-halbjahr-um-23-prozent-gesunken-100.html",
     "https://www.deutschlandfunk.de/union-will-zahl-freiwilliger-syrien-rueckkehrer-erhoehen-100.html",
     "https://www.deutschlandfunk.de/spd-chefin-bas-moechte-gespraechsangebot-der-gruenen-zu-afd-verbot-annehmen-100.html",
     "https://www.deutschlandfunk.de/spanien-verhaengt-waffenembargo-gegen-israel-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-schwerem-busunglueck-100.html",
     "https://www.deutschlandfunk.de/todesopfer-nach-massenschlaegerei-in-gelsenkirchen-100.html",
     "https://www.spiegel.de/panorama/deutschland-alter-zahl-der-hundertjaehrigen-stark-gestiegen-a-2643bc82-c4d7-4c0f-aa19-4daaf045b0df#ref=rss",
-    "https://www.deutschlandfunk.de/lufthansa-will-4-000-stellen-streichen-verdi-kuendigt-widerstand-an-100.html"
+    "https://www.deutschlandfunk.de/lufthansa-will-4-000-stellen-streichen-verdi-kuendigt-widerstand-an-100.html",
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-afd-darf-als-verdachtsfall-eingestuft-werden-accg-110708613.html",
+    "https://www.faz.net/aktuell/politik/inland/cdu-wahlsieger-kalouti-in-dortmund-es-ist-ein-gefuehl-der-ueberwaeltigung-accg-110708503.html"
   ],
   "content_hashes": [
-    "fbd46b08a6b1f9874d497f57551b3a39",
-    "8b5c38ad1feeca43ec88480e09555805",
     "0fc67629059149192279d6e3dceeb47f",
     "c32fa380ae4ee0213b6b6b2397d4df1a",
     "8957e91d710b004059dbb2c70b6acade",
@@ -2001,11 +1999,11 @@
     "80cd055569be5ddecfa643a230abeb33",
     "4018a949d5f8187f885e7e86844f9de5",
     "7629df80230aea836f3af0a318ef1016",
-    "ebaaeb72aa4e4161a79888bed0240c46"
+    "ebaaeb72aa4e4161a79888bed0240c46",
+    "1251f10e90161e0be81243a41606afc9",
+    "eb20ffafec9fa592e66a77ede4d653ec"
   ],
   "titles": [
-    "Israel - Tote bei Schusswaffenangriff in Jerusalem",
-    "Migration - Asylanträge in der EU im ersten Halbjahr um 23 Prozent gesunken",
     "Migration - Union will Zahl freiwilliger Syrien-Rückkehrer erhöhen",
     "Rechtsextremismus - SPD-Chefin Bas möchte Gesprächsangebot der Grünen zu AfD-Verbot annehmen",
     "Gaza-Krieg - Spanien verhängt Waffenembargo gegen Israel",
@@ -3003,11 +3001,11 @@
     "Hamburg - Mehrere Verletzte bei schwerem Busunglück",
     "Großeinsatz - Todesopfer nach Massenschlägerei in Gelsenkirchen",
     "Deutschland / Alter: Zahl der Hundertjährigen stark gestiegen",
-    "Höheres Renditeziel - Lufthansa will 4.000 Stellen streichen - Verdi kündigt Widerstand an"
+    "Höheres Renditeziel - Lufthansa will 4.000 Stellen streichen - Verdi kündigt Widerstand an",
+    "Verfassungsschutz in Hessen: AfD darf als Verdachtsfall eingestuft werden",
+    "Wahlsieger in Dortmund: „Es ist ein Gefühl der Überwältigung“"
   ],
   "hashes": [
-    "20c744105e6d56d412054c93d9a7aede",
-    "b8a01196eccf89e02413e9ce6169f15e",
     "edf99ab35a744aadb43521aff4df9dd1",
     "24fa43ddc9dd7e43c243e7a889db22dc",
     "0d25f67e9dda2199726663803cbbacf3",
@@ -4005,6 +4003,8 @@
     "98a6c34221c6f5a475e6a3b4c940e9a0",
     "3196cdf1b22f18fc1dfd2ba7b29d19fe",
     "5696c12aa8b5a58c97124d706d3fd2aa",
-    "71895b68ee03b26e79998675df5794b3"
+    "71895b68ee03b26e79998675df5794b3",
+    "7d8acbaccb4fea76b8e907db595bbb43",
+    "af0600124dcbe84b2891221d70b83da2"
   ]
 }
