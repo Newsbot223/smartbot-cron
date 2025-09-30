@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kiel-frachter-wegen-spionageverdacht-durchsucht-110676932.html",
-    "https://www.deutschlandfunk.de/sozialdemokratische-arbeiterpartei-gewinnt-parlamentswahl-100.html",
     "https://www.deutschlandfunk.de/im-norden-aethiopiens-geht-der-groesste-staudamm-afrikas-in-betrieb-102.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-eroeffnet-automesse-iaa-mobility-100.html",
     "https://www.deutschlandfunk.de/groesster-staudamm-afrikas-wird-in-betrieb-genommen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/debatte-ueber-elektronische-patientenakte-epa-haelt-auch-kurz-vor-der-nutzungspflicht-fuer-aerzte-an-100.html",
     "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html",
     "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
-    "https://www.deutschlandfunk.de/taliban-extremisten-blockieren-zugang-zu-internet-und-mobilfunk-in-afghanistan-100.html"
+    "https://www.deutschlandfunk.de/taliban-extremisten-blockieren-zugang-zu-internet-und-mobilfunk-in-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/netanjahu-bittet-waehrend-treffen-mit-trump-katar-um-entschuldigung-fuer-angriff-auf-hamas-funktiona-100.html",
+    "https://www.deutschlandfunk.de/praesident-entlaesst-regierung-nach-gewalttaetigen-protesten-108.html"
   ],
   "content_hashes": [
-    "e318d7c52b15838ea78f744aec026e88",
-    "f7d9e3e1656650138ece1edbcc4439f8",
     "a59368e96dc30e8c78aed821682952e5",
     "5d78f2957e71e5089eb0aeb37dc1e98d",
     "3f9e2a38006d7f8c9398fae0897bc393",
@@ -2001,11 +1999,11 @@
     "fc6b6767c69f454ef2868ba3680a9a26",
     "e49126a756d2c802c8e305dca682378b",
     "8e73d549fa8cc2e10eab6ab79b39203d",
-    "c51ed7e6ad2416182678ac3d37e32290"
+    "c51ed7e6ad2416182678ac3d37e32290",
+    "24cdd1051c66a33724e2b2c388d990bf",
+    "b7dc37ec916d4ac0def6b54e2e71ac1c"
   ],
   "titles": [
-    "Festgesetzt in Kiel: Frachter wegen Spionageverdacht durchsucht",
-    "Norwegen - Sozialdemokratische Arbeiterpartei gewinnt Parlamentswahl",
     "Wasserkraftwerk - Im Norden Äthiopiens geht der größte Staudamm Afrikas in Betrieb",
     "München - Bundeskanzler Merz eröffnet Automesse IAA Mobility",
     "Äthiopien - Größter Staudamm Afrikas wird in Betrieb genommen",
@@ -3003,11 +3001,11 @@
     "Gesundheitspolitik - Debatte über elektronische Patientenakte (ePA) hält auch kurz vor der Nutzungspflicht für Ärzte an",
     "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht",
     "WDR-Bericht - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
-    "Berichte - Taliban-Extremisten blockieren Zugang zu Internet und Mobilfunk in Afghanistan"
+    "Berichte - Taliban-Extremisten blockieren Zugang zu Internet und Mobilfunk in Afghanistan",
+    "Washington - Netanjahu bittet während Treffen mit Trump Katar um Entschuldigung für Angriff auf Hamas-Funktionäre in Doha",
+    "Madagaskar - Präsident entlässt Regierung nach gewalttätigen Protesten"
   ],
   "hashes": [
-    "c438e06c748e1c0ae607c5037b60106e",
-    "4ade42fcdeeb26efcff014a15b22a6aa",
     "cf1e19be0a6b795890eb9a8b63fecd01",
     "f4788d472569cba73e2874e8e5cd88b9",
     "b68f2f99d5ebbe907b77ef49ecaf7f86",
@@ -4005,6 +4003,8 @@
     "ffbfcaa1a598f755e867f74ffd2d77f8",
     "8b17fbff13bf30fa0e50a4a75b6c8e9d",
     "fc81644cf04ae25ede8d5a51dc918d20",
-    "51e5419617b88721ea2c427ef299890a"
+    "51e5419617b88721ea2c427ef299890a",
+    "04c1f81c46ba93f8856261d03cb3de21",
+    "e8569d22bce8382d755759dbe836480c"
   ]
 }
