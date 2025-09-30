@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-sturz-der-mitte-rechts-regierung-praesident-macron-will-bald-neuen-premierminister-ernennen-100.html",
-    "https://www.deutschlandfunk.de/oberster-gerichtshof-ordnet-haftstrafe-fuer-ex-regierungschef-thaksin-shinawatra-an-102.html",
-    "https://www.deutschlandfunk.de/spd-gesundheitspolitiker-pantazis-klinik-atlas-weiter-entwickeln-nicht-abwickeln-100.html",
-    "https://www.deutschlandfunk.de/vda-produktionsstandort-deutschland-immer-weniger-wettbewerbsfaehig-100.html",
     "https://www.deutschlandfunk.de/50-000-menschen-sind-ohne-strom-polizei-geht-von-brandstiftung-aus-100.html",
     "https://www.deutschlandfunk.de/sachsens-innenminister-schuster-kritisiert-aussteigerprogramm-fuer-rechtsterroristin-zschaepe-100.html",
     "https://www.deutschlandfunk.de/israels-armee-kuendigt-intensivierung-der-kaempfe-in-gaza-stadt-an-alle-einwohner-zur-flucht-aufgeru-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/ehemaliger-mitarbeiter-von-afd-politiker-krah-wegen-spionage-fuer-china-verurteilt-100.html",
     "https://www.faz.net/aktuell/politik/inland/ehemaliger-krah-mitarbeiter-jian-g-wegen-spionage-verurteilt-accg-110709960.html",
     "https://www.deutschlandfunk.de/merz-staatliche-leistungen-muessen-effizienter-werden-100.html",
-    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-fordert-neuauszaehlung-der-stimmen-104.html"
+    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-fordert-neuauszaehlung-der-stimmen-104.html",
+    "https://www.deutschlandfunk.de/razzia-gegen-junge-rechtsextreme-nach-angriff-auf-journalisten-100.html",
+    "https://www.deutschlandfunk.de/juedische-menschen-fuehlen-sich-seit-dem-7-oktober-2023-zunehmend-ausgegrenzt-100.html",
+    "https://www.deutschlandfunk.de/mutmasslicher-syrischer-milizenfuehrer-festgenommen-102.html",
+    "https://www.faz.net/aktuell/politik/inland/kabinettsklausur-merz-will-deutschland-wettbewerbsfaehig-machen-accg-110710235.html"
   ],
   "content_hashes": [
-    "948a60e53db6b2946c39b93b756e7636",
-    "9e7e94f50e1a0e376e3c55959841276b",
-    "2c1e9bf58c177ed30cd69eec9e33ee5f",
-    "6f38beaab526a080e02639a277669129",
     "5bf22583706d9cf61d6fac89398b085e",
     "f912fc731ad53ac4bc7282d5bc7032e7",
     "6f6f5abf89d914398dc22a9b00b3c689",
@@ -2001,13 +1997,13 @@
     "35bf371fcb466e309fcb1f00085c1f69",
     "9e76c81fea045af4003292959f06a338",
     "d780e209a11fa81faffb9e3b66655320",
-    "9938d76a776127d699ba78f5fa3723e7"
+    "9938d76a776127d699ba78f5fa3723e7",
+    "d56a9afdb68812f58d82e4b9f791b240",
+    "8481594a41c3d128f893b3e9ab8183cd",
+    "4b608502ed621efc0e01c6fe3db72581",
+    "03d2a267581a4d7f70e0c613557d8e2b"
   ],
   "titles": [
-    "Frankreich - Nach Sturz der Mitte-Rechts-Regierung: Präsident Macron will bald neuen Premierminister ernennen",
-    "Thailand - Oberster Gerichtshof ordnet Haftstrafe für Ex-Regierungschef Thaksin Shinawatra an",
-    "Online-Informationsangebot - SPD-Gesundheitspolitiker Pantazis: \"Klinik-Atlas weiter entwickeln, nicht abwickeln\"",
-    "Autoindustrie - VDA: Produktionsstandort Deutschland \"immer weniger\" wettbewerbsfähig",
     "Stromausfall in Berlin - 50.000 Menschen sind ohne Strom - Polizei geht von Brandstiftung aus",
     "NSU-Morde - Sachsens Innenminister Schuster kritisiert Aussteigerprogramm für Rechtsterroristin Zschäpe",
     "Nahost - Israels Armee kündigt Intensivierung der Kämpfe in Gaza-Stadt an - alle Einwohner zur Flucht aufgerufen",
@@ -3003,13 +2999,13 @@
     "EU-Parlament - Ehemaliger Mitarbeiter von AfD-Politiker Krah wegen Spionage für China verurteilt",
     "Lange Haftstrafe für Jian G.: Fast fünf Jahre Haft für ehemaligen Mitarbeiter von Maximilian Krah",
     "Klausurtagung - Merz: Staatliche Leistungen müssen effizienter werden",
-    "Kommunalwahlen in NRW - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin fordert Neuauszählung der Stimmen"
+    "Kommunalwahlen in NRW - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin fordert Neuauszählung der Stimmen",
+    "Berlin - Razzia gegen junge Rechtsextreme nach Angriff auf Journalisten",
+    "Studie - Jüdische Menschen fühlen sich seit dem 7. Oktober 2023 zunehmend ausgegrenzt",
+    "Berlin - Mutmaßlicher syrischer Milizenführer festgenommen",
+    "Kabinettsklausur: Sie wollen das Land entknoten"
   ],
   "hashes": [
-    "f4e7a9cdb82768bf17d79d39674d1942",
-    "745653421b98e7db6d2573a3f85b2626",
-    "8365b1a9e4413f8f92e3435e553aa138",
-    "94cc6c5fa0e32283aa35d0acc2fef560",
     "3b3366a0d7c4077f785b22e9990fa7b0",
     "018f11145762f3d42fdc700b4eca9d57",
     "4367ddd8a9d1e5e619f0e1ebeee65f75",
@@ -4005,6 +4001,10 @@
     "49f385233ddd05f29373abdfc9f84369",
     "765afb363b4f793bc43fb066c199dbb6",
     "40a7534a9e68939a21898ff660cc8176",
-    "c5e4a29d3d6ec946bf8fa07cdd6cba1f"
+    "c5e4a29d3d6ec946bf8fa07cdd6cba1f",
+    "81fee5a57455dcbbf4aa898bc4d205f4",
+    "3b287d8b897e391f84c146096d9ae9aa",
+    "8a3cac0e3adf69a438b0ba58b4f9b9c4",
+    "ba684c46aecf28777f0dd3593a906ad2"
   ]
 }
