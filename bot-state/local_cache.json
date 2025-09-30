@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zehntausende-haushalte-im-suedosten-berlins-weiterhin-ohne-strom-104.html",
-    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-haelt-eine-rede-zur-lage-der-europaeischen-union-100.html",
-    "https://www.deutschlandfunk.de/urteilsverkuendung-zum-messeranschlag-von-solingen-102.html",
-    "https://www.deutschlandfunk.de/viele-haushalte-im-suedosten-berlins-bleiben-auch-heute-ohne-strom-linksextremistisches-bekennerschr-100.html",
     "https://www.deutschlandfunk.de/katar-stellt-waffenstillstands-gespraeche-zwischen-israel-und-hamas-infrage-100.html",
     "https://www.deutschlandfunk.de/unicef-erstmals-mehr-kinder-und-jugendliche-uebergewichtig-als-unternaehrt-100.html",
     "https://www.deutschlandfunk.de/ig-bau-sieht-kontrolldefizit-im-kampf-gegen-mindestlohn-betrug-in-deutschland-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/tausende-menschen-protestieren-gegen-stromausfaelle-und-armut-100.html",
     "https://www.deutschlandfunk.de/katar-sieht-noch-klaerungsbedarf-102.html",
     "https://www.deutschlandfunk.de/praesidentenpartei-gewinnt-erste-runde-der-parlamentswahl-in-gabun-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/trumps-plan-fuer-gaza-ist-vernuenftig-110711115.html"
+    "https://www.faz.net/aktuell/politik/ausland/trumps-plan-fuer-gaza-ist-vernuenftig-110711115.html",
+    "https://www.deutschlandfunk.de/eu-spitzentreffen-in-kopenhagen-unter-verstaerkten-sicherheitsvorkehrungen-100.html",
+    "https://www.deutschlandfunk.de/bundesanwaltschaft-bestaetigt-weitere-festnahme-in-zusammenhang-mit-nord-stream-sabotage-110.html",
+    "https://www.deutschlandfunk.de/bundeskabinett-beendet-zweitaegige-klausurtagung-100.html",
+    "https://www.deutschlandfunk.de/elektronische-patientenakte-epa-ab-heute-verpflichtend-fuer-aerzte-krankenhaeuser-und-apotheken-100.html"
   ],
   "content_hashes": [
-    "7a942013afd499c899f487b1bec77569",
-    "84a7682a7c096bfc71d5ac166d548362",
-    "03e109b086f0478fb3d8688280c3dc43",
-    "7e1af9f1fe3a8ae529d0c597dbda07b1",
     "e1a9dba3319e635ecf043f20685d4478",
     "fc71dcc7669471dc8b544b4abe4eff53",
     "0182654d1f7dfb4becdd28f821b21d9b",
@@ -2001,13 +1997,13 @@
     "de5021d401481d12eafffcb29fc76d82",
     "12a9feb946745c0bfc13992f8d94d2fb",
     "063dc456b24086c69436a672f3ffa45f",
-    "525018c42415bde1b498290c5ca990e5"
+    "525018c42415bde1b498290c5ca990e5",
+    "3b63e870a7d35df089e72e64c4b85f27",
+    "d3ab3fecf134b07fbc07de3dfcbd817f",
+    "a5c79e65457afa4311c2c88320f859ee",
+    "98e6a9f59a5cacf203275585529654b5"
   ],
   "titles": [
-    "Brandanschlag auf Starkstromkabel - Zehntausende Haushalte im Südosten Berlins weiterhin ohne Strom",
-    "Straßburg - EU-Kommissionspräsidentin hält eine Rede zur Lage der Europäischen Union",
-    "Oberlandesgericht Düsseldorf - Urteilsverkündung zum Messeranschlag von Solingen",
-    "Brandanschlag auf Strommasten - Viele Haushalte im Südosten Berlins bleiben auch heute ohne Strom - linksextremistisches Bekennerschreiben wird geprüft",
     "Nach israelischem Angriff - Katar stellt Waffenstillstands-Gespräche zwischen Israel und Hamas infrage",
     "Ernährung - Unicef: Erstmals mehr Kinder und Jugendliche übergewichtig als unternährt",
     "Arbeit - IG Bau sieht Kontrolldefizit im Kampf gegen Mindestlohn-Betrug in Deutschland",
@@ -3003,13 +2999,13 @@
     "Madagaskar - Tausende Menschen protestieren gegen Stromausfälle und Armut",
     "Friedensplan für Gaza - Katar sieht noch Klärungsbedarf",
     "Zwei Jahre nach Putsch - Präsidentenpartei gewinnt erste Runde der Parlamentswahl in Gabun",
-    "Trumps 20 Punkte: Ein vernünftiger Plan für Gaza"
+    "Trumps 20 Punkte: Ein vernünftiger Plan für Gaza",
+    "Nach Drohnenvorfällen - EU-Spitzentreffen in Kopenhagen unter verstärkten Sicherheitsvorkehrungen",
+    "Sprengstoffexplosion - Bundesanwaltschaft bestätigt weitere Festnahme in Zusammenhang mit Nord-Stream-Sabotage",
+    "Berlin - Bundeskabinett beendet zweitägige Klausurtagung",
+    "Gesundheitspolitik - Elektronische Patientenakte (ePA) ab heute verpflichtend für Ärzte, Krankenhäuser und Apotheken"
   ],
   "hashes": [
-    "b1e83b8cb29125a009ffc6bb43b20c59",
-    "2e823d8e488a85f4945b6ec31d6e14de",
-    "c15aca45d0dbce618e91be442975654e",
-    "60eb730ed2dcde6fa6021889cf5da94a",
     "fe4a1c0e28d6741f4cd698b296bafc1e",
     "6f8fad18a27626bf19963f87cbbaf54b",
     "21c35c0e6bc744dec4d188710110573f",
@@ -4005,6 +4001,10 @@
     "a9e2deddfb6f20e1df7f28afcbfedbfe",
     "999136c2814383a3a9b3592ab8d9c179",
     "e889193ff0b634fd45dc4007917fff1b",
-    "bf91e592b6e8e59b682a8c67006c1a93"
+    "bf91e592b6e8e59b682a8c67006c1a93",
+    "9ae1ac9684afbadfc87a7c6ad50941fd",
+    "6debce66a17f2b5342863be6dac3032f",
+    "408b01731dba5e7d15b79046df6bb0c6",
+    "076ac019ad257b1deb69c11670f77953"
   ]
 }
