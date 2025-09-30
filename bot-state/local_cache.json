@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-ice-razzien-auf-basis-ethnischer-merkmale-100.html",
-    "https://www.deutschlandfunk.de/erneut-israelische-luftangriffe-auf-militaerziele-in-syrien-100.html",
     "https://www.deutschlandfunk.de/sozialdemokraten-gewinnen-parlamentswahl-rechtspopulisten-legen-deutlich-zu-100.html",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-ice-razzien-auf-basis-ethnischer-merkmale-einsatz-gegen-migranten-auch--100.html",
     "https://www.deutschlandfunk.de/regierung-hebt-nach-unruhen-blockade-von-social-media-plattformen-wieder-auf-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/praesident-entlaesst-regierung-nach-gewalttaetigen-protesten-108.html",
     "https://www.deutschlandfunk.de/nrw-gesundheitsminister-laumann-cdu-offen-fuer-reform-der-pflegegrade-100.html",
     "https://www.deutschlandfunk.de/schule-eingestuerzt-mindestens-65-schueler-verschuettet-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wahl-studie-der-kas-afd-punktet-auch-in-migrantischen-milieus-accg-110709233.html"
+    "https://www.faz.net/aktuell/politik/inland/wahl-studie-der-kas-afd-punktet-auch-in-migrantischen-milieus-accg-110709233.html",
+    "https://www.deutschlandfunk.de/us-plan-zu-beendigung-des-gaza-krieges-stoesst-international-auf-zustimmung-100.html",
+    "https://www.deutschlandfunk.de/vor-der-kabinettsklausur-100.html"
   ],
   "content_hashes": [
-    "a6b7617c8c28953882f78896adc5fac8",
-    "a4f9a36a234b6ec5202642cc9033759f",
     "8d04b7d6f3a2e691ef06de187729f98d",
     "d19a22a1aacf6b56e890ef1f8d456a7d",
     "11cce47f73cade700dbde1d1990b0b36",
@@ -2001,11 +1999,11 @@
     "b7dc37ec916d4ac0def6b54e2e71ac1c",
     "8d45f07e8c586426dcd82876268202f4",
     "b6b69cf2a043dfd9c459d89787732d51",
-    "2490762c8431d88da799ee574ff70103"
+    "2490762c8431d88da799ee574ff70103",
+    "c18c6423a75f84024df1dcf3147321d7",
+    "e88a20a7ddf2466b3af2d2f8454e7194"
   ],
   "titles": [
-    "USA - Oberster Gerichtshof erlaubt ICE-Razzien auf Basis ethnischer Merkmale",
-    "Nahost - Erneut israelische Luftangriffe auf Militärziele in Syrien",
     "Norwegen - Sozialdemokraten gewinnen Parlamentswahl, Rechtspopulisten legen deutlich zu",
     "USA - Oberster Gerichtshof erlaubt ICE-Razzien auf Basis ethnischer Merkmale - Einsatz gegen Migranten auch in Chicago",
     "Nepal - Regierung hebt nach Unruhen Blockade von Social-Media-Plattformen wieder auf",
@@ -3003,11 +3001,11 @@
     "Madagaskar - Präsident entlässt Regierung nach gewalttätigen Protesten",
     "Pflegeversicherung - NRW-Gesundheitsminister Laumann (CDU) offen für Reform der Pflegegrade",
     "Indonesien - Schule eingestürzt: Mindestens 65 Schüler verschüttet",
-    "Neue Wahl-Studie: AfD punktet auch in migrantischen Milieus"
+    "Neue Wahl-Studie: AfD punktet auch in migrantischen Milieus",
+    "Nahost - US-Plan zu Beendigung des Gaza-Krieges stößt international auf Zustimmung",
+    "Kabinettsklausur - Das plant die Bundesregierung"
   ],
   "hashes": [
-    "6ccd246a7e9947896caad06a50a76b68",
-    "9fd7441810e38f8cc4df6c45122ea2e2",
     "2a09d0999b39623323ff28386ffb847d",
     "f5c69cb56d1b684df0b138c2e7624ee3",
     "41a3b69fcf34ed9aeb6c26c604e3a8c3",
@@ -4005,6 +4003,8 @@
     "e8569d22bce8382d755759dbe836480c",
     "76f12b388948af7a05043c9a478d38a9",
     "28d24e8f38d250bd6f22779a87c285d6",
-    "32259642c9172b6537cdfc6ef65ba60d"
+    "32259642c9172b6537cdfc6ef65ba60d",
+    "a4379a62d1d1c8050a8a850e7c5e5d56",
+    "7fa7c4947e98e4f426206bdddac66951"
   ]
 }
