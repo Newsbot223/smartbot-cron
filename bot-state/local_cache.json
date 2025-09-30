@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israels-botschafter-prosor-nennt-angriff-in-ulm-terroristischen-akt-100.html",
-    "https://www.deutschlandfunk.de/linke-wirft-soeder-gruseliges-frauenbild-vor-gruene-sprechen-von-sexismus-100.html",
-    "https://www.deutschlandfunk.de/entscheidung-ueber-auslieferung-von-ukrainer-vertagt-100.html",
     "https://www.spiegel.de/wirtschaft/wirtschaftsministerin-katherina-reiche-bekraeftigt-forderung-nach-hoeherem-rentenalter-a-5f4d80e0-12d2-43df-9ccc-5230eab46c8c#ref=rss",
     "https://www.faz.net/aktuell/politik/ausland/angriff-in-doha-netanjahu-setzt-nur-noch-auf-gewalt-110678059.html",
     "https://www.deutschlandfunk.de/rheinland-pfalz-will-medienkompetenz-durch-reform-des-landesmediengesetzes-staerken-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hegseth-und-trump-verordnen-us-armee-ideologische-kehrtwende-100.html",
     "https://www.deutschlandfunk.de/krankheit-bleibt-haeufigster-grund-fuer-ueberschuldung-100.html",
     "https://www.deutschlandfunk.de/politologin-ulrike-gu-rot-scheitert-auch-in-zweiter-instanz-vor-gericht-100.html",
-    "https://www.deutschlandfunk.de/bundesanwaltschaft-bestaetigt-weitere-festnahme-in-zusammenhang-mit-nord-stream-sabotage-100.html"
+    "https://www.deutschlandfunk.de/bundesanwaltschaft-bestaetigt-weitere-festnahme-in-zusammenhang-mit-nord-stream-sabotage-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-beraet-ueber-massnahmen-zur-staerkung-der-deutschen-wirtschaft-100.html",
+    "https://www.deutschlandfunk.de/neues-einwanderungsrecht-soll-den-nachzug-von-angehoerigen-erschweren-100.html",
+    "https://www.deutschlandfunk.de/presserat-ruegt-diskriminierung-und-rassismus-in-medien-102.html"
   ],
   "content_hashes": [
-    "9161d1c68abf7af0b41b0eaefca0f0b5",
-    "6c1a687fbfcc170f6e8a19eb107efd8b",
-    "c7f11ae3d744cb1ee48e328fea34e569",
     "13ab85c46914881152a1b662959ee61c",
     "4d47da04d612ca9c5c67d1bdd5f023a3",
     "dcc93d96d5db376b006eac014426ec51",
@@ -2001,12 +1998,12 @@
     "c5dfd3d8b2fbbd69f3637e6237c667f6",
     "c27684454f1ec89cbe5f20aa8f8b066e",
     "7e443ab030f67c39ee5b2f57f3e78ce3",
-    "2ca330fbb3c19ae02872532dde0a764e"
+    "2ca330fbb3c19ae02872532dde0a764e",
+    "8c2fac77298b4a6089884abe680b7896",
+    "7c79baae0767f23e8fc962f12dfeffdf",
+    "40001644d561acd82eb2cfaa2b61e6df"
   ],
   "titles": [
-    "Gazakrieg - Israels Botschafter Prosor nennt Angriff in Ulm terroristischen Akt",
-    "Unterleib-Äußerung - Linke wirft Söder \"gruseliges Frauenbild\" vor - Grüne sprechen von Sexismus",
-    "Sabotage an Nordstream - Entscheidung über Auslieferung von Ukrainer vertagt",
     "Wirtschaftsministerin Katherina Reiche bekräftigt Forderung nach höherem Rentenalter",
     "Angriff in Doha: Netanjahu setzt nur noch auf Gewalt",
     "Bildung - Rheinland-Pfalz will Medienkompetenz durch Reform des Landesmediengesetzes stärken",
@@ -3003,12 +3000,12 @@
     "USA - Hegseth und Trump verordnen US-Armee ideologische Kehrtwende",
     "Studie - Krankheit bleibt häufigster Grund für Überschuldung",
     "Kündigungsstreit mit Universität Bonn - Politologin Ulrike Guérot scheitert auch in zweiter Instanz vor Gericht",
-    "Polen - Bundesanwaltschaft bestätigt weitere Festnahme in Zusammenhang mit Nord-Stream-Sabotage"
+    "Polen - Bundesanwaltschaft bestätigt weitere Festnahme in Zusammenhang mit Nord-Stream-Sabotage",
+    "Villa Borsig - Bundesregierung berät über Maßnahmen zur Stärkung der deutschen Wirtschaft",
+    "Portugal - Neues Einwanderungsrecht soll den Nachzug von Angehörigen erschweren",
+    "Verstöße gegen Pressekodex - Presserat rügt Diskriminierung und Rassismus in Medien"
   ],
   "hashes": [
-    "3996960b095e2dee873f4c8ad0663144",
-    "0c1b84749e97e106514f9f0f8de92248",
-    "26f26efd9fbc13de15627acfa92d1641",
     "cd8687cb6ef967d6630b622494b74c82",
     "89f527aa0d51449c497410f58469562d",
     "81a883287b1c14e6dc5d4a6e1a1d957a",
@@ -4005,6 +4002,9 @@
     "0b49b13d6109435f42a2698223928491",
     "755a44fedc6643bd370f896a329d2b97",
     "ee554d7a5fedfc8c1be407a2a5a54d15",
-    "38dc2a9b49d4f8ebe93c5fee0c0f14a0"
+    "38dc2a9b49d4f8ebe93c5fee0c0f14a0",
+    "91ba54dca1489279df7082f6d0197197",
+    "dd5d10e1d943b18df45290b68f67aa62",
+    "aafc528c7ee837905985de5d18dcf375"
   ]
 }
