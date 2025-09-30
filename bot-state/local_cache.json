@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrechnungshof-zweifelt-an-wirkung-von-sondervermoegen-fuer-laender-100.html",
-    "https://www.deutschlandfunk.de/demonstranten-in-nepal-setzen-parlamentsgebaeude-in-brand-102.html",
-    "https://www.deutschlandfunk.de/bundestagsabgeordnete-haben-neue-deutsch-internationale-parlamentariergruppen-gebildet-100.html",
     "https://www.deutschlandfunk.de/israel-greift-mitglieder-der-hamas-fuehrung-in-katar-an-100.html",
     "https://www.deutschlandfunk.de/israels-botschafter-prosor-nennt-angriff-in-ulm-terroristischen-akt-100.html",
     "https://www.deutschlandfunk.de/linke-wirft-soeder-gruseliges-frauenbild-vor-gruene-sprechen-von-sexismus-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/studie-manche-bevoelkerungsgruppen-mit-migrationshintergrund-praeferieren-afd-100.html",
     "https://www.deutschlandfunk.de/inflationsrate-in-deutschland-steigt-im-september-auf-2-4-prozent-100.html",
     "https://www.deutschlandfunk.de/urteil-im-prozess-gegen-mitarbeiter-maximilian-krah-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nadia-khalaf-dann-bin-ich-wohl-oberbuergermeisterin-der-herzen-accg-110710486.html"
+    "https://www.faz.net/aktuell/politik/inland/nadia-khalaf-dann-bin-ich-wohl-oberbuergermeisterin-der-herzen-accg-110710486.html",
+    "https://www.deutschlandfunk.de/hegseth-und-trump-verordnen-us-armee-ideologische-kehrtwende-100.html",
+    "https://www.deutschlandfunk.de/krankheit-bleibt-haeufigster-grund-fuer-ueberschuldung-100.html",
+    "https://www.deutschlandfunk.de/politologin-ulrike-gu-rot-scheitert-auch-in-zweiter-instanz-vor-gericht-100.html"
   ],
   "content_hashes": [
-    "4f8c5f6990770c16e4e0f1cf34bfed7f",
-    "936fcd5d4d957087356475b502514d0a",
-    "9f3b302ed929a673b290c513cd90625a",
     "b0488c6d49fbf7d06af8752811271c7b",
     "9161d1c68abf7af0b41b0eaefca0f0b5",
     "6c1a687fbfcc170f6e8a19eb107efd8b",
@@ -2001,12 +1998,12 @@
     "a039cc973f6a497237fb98ab6fe45cf8",
     "3f9c04806f128a6cf2186a2d7a8a8f68",
     "0d2c24541920dbe8409c714a93efb00f",
-    "12efe434da4a7ce1cd66830d15175f8b"
+    "12efe434da4a7ce1cd66830d15175f8b",
+    "c5dfd3d8b2fbbd69f3637e6237c667f6",
+    "c27684454f1ec89cbe5f20aa8f8b066e",
+    "7e443ab030f67c39ee5b2f57f3e78ce3"
   ],
   "titles": [
-    "Bericht im Haushaltsausschuss - Bundesrechnungshof zweifelt an Wirkung von Sondervermögen für Länder",
-    "Unruhen - Demonstranten in Nepal setzen Parlamentsgebäude in Brand",
-    "Berlin - Bundestagsabgeordnete haben neue deutsch-internationale Parlamentariergruppen gebildet",
     "Nahostkonflikt - Israel greift Mitglieder der Hamas-Führung in Katar an",
     "Gazakrieg - Israels Botschafter Prosor nennt Angriff in Ulm terroristischen Akt",
     "Unterleib-Äußerung - Linke wirft Söder \"gruseliges Frauenbild\" vor - Grüne sprechen von Sexismus",
@@ -3003,12 +3000,12 @@
     "Migration - Studie: Manche Bevölkerungsgruppen mit Migrationshintergrund präferieren AfD",
     "Statistisches Bundesamt - Inflationsrate in Deutschland steigt im September auf 2,4 Prozent",
     "Spionage-Prozess - Fast fünf Jahre Haft für Ex-Mitarbeiter von Maximilian Krah",
-    "Nadia Khalaf: „Dann bin ich wohl Oberbürgermeisterin der Herzen“"
+    "Nadia Khalaf: „Dann bin ich wohl Oberbürgermeisterin der Herzen“",
+    "USA - Hegseth und Trump verordnen US-Armee ideologische Kehrtwende",
+    "Studie - Krankheit bleibt häufigster Grund für Überschuldung",
+    "Kündigungsstreit mit Universität Bonn - Politologin Ulrike Guérot scheitert auch in zweiter Instanz vor Gericht"
   ],
   "hashes": [
-    "9767f6916e04c0ab10338fa9aa666394",
-    "369b4ded034787deca5b8d4abc0b8278",
-    "8c133a380f74210604a0df8fca28fb85",
     "fe1400e76968c0472edcc8431168614f",
     "3996960b095e2dee873f4c8ad0663144",
     "0c1b84749e97e106514f9f0f8de92248",
@@ -4005,6 +4002,9 @@
     "d0f2d7a2722335271468aaae6aa09fec",
     "969be7f93db5ca68a2da8fe4d81d17c2",
     "76ccfd77487e35c1cfef8ce50850e884",
-    "4b262cb6ca80936513814e60eed42e91"
+    "4b262cb6ca80936513814e60eed42e91",
+    "0b49b13d6109435f42a2698223928491",
+    "755a44fedc6643bd370f896a329d2b97",
+    "ee554d7a5fedfc8c1be407a2a5a54d15"
   ]
 }
