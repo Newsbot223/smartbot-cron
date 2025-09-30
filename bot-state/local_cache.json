@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/enquete-kommission-zur-corona-aufarbeitung-das-naechste-virus-110676315.html",
-    "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-razzien-der-einwanderungsbehoerde-auf-basis-ethnischer-merkmale-einsatz-102.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-spd-will-bestrafung-verbaler-sexueller-belaestigung-pruefen-100.html",
     "https://www.deutschlandfunk.de/mutmasslicher-saboteur-der-nord-stream-pipelines-italienisches-gericht-entscheidet-ueber-die-auslief-100.html",
     "https://www.deutschlandfunk.de/nach-sturz-der-mitte-rechts-regierung-praesident-macron-will-bald-neuen-premierminister-ernennen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierung-will-staatmodernisierung-auf-den-weg-bringen-bdi-fordert-befreiungsschlag-bei-buerokratie-102.html",
     "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-sinkt-wieder-auf-unter-3-millionen-102.html",
     "https://www.deutschlandfunk.de/wie-umgehen-mit-russlands-nadelstichen-interview-mit-ulrich-kuehn-ifsh-104.html",
-    "https://www.faz.net/aktuell/politik/inland/panne-bei-auszaehlung-in-muelheim-liegt-doch-cdu-mann-vorne-accg-110709991.html"
+    "https://www.faz.net/aktuell/politik/inland/panne-bei-auszaehlung-in-muelheim-liegt-doch-cdu-mann-vorne-accg-110709991.html",
+    "https://www.deutschlandfunk.de/ehemaliger-mitarbeiter-von-afd-politiker-krah-wegen-spionage-fuer-china-verurteilt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ehemaliger-krah-mitarbeiter-jian-g-wegen-spionage-verurteilt-accg-110709960.html"
   ],
   "content_hashes": [
-    "ba8d50d5f438a57b62b2c59a2e3a5852",
-    "8fe50310d4c02eec6627e3c2d0467c20",
     "2e44842d05c9897c40125ec658b87d1a",
     "bb19cd7a6253a594ae81cf224d63f94c",
     "948a60e53db6b2946c39b93b756e7636",
@@ -2001,11 +1999,11 @@
     "d8bc0b4935c8cc6c9bd12df907ad7af8",
     "f0d42c407271be2ca766f983e13d1255",
     "ccf23ff82ca97951c9b66f543ddfe9e0",
-    "b9103b518e37568d1ec6649fe83cb860"
+    "b9103b518e37568d1ec6649fe83cb860",
+    "35bf371fcb466e309fcb1f00085c1f69",
+    "9e76c81fea045af4003292959f06a338"
   ],
   "titles": [
-    "Corona-Aufarbeitung: Das nächste Virus",
-    "USA - Oberster Gerichtshof erlaubt Razzien der Einwanderungsbehörde auf Basis ethnischer Merkmale - Einsatz gegen Migranten auch in Chicago",
     "\"Catcalling\" - Justizministerin Hubig (SPD) will Bestrafung verbaler sexueller Belästigung prüfen",
     "Sprengstoffexplosion - Mutmaßlicher Saboteur der Nord-Stream-Pipelines: Italienisches Gericht entscheidet über die Auslieferung an Deutschland",
     "Frankreich - Nach Sturz der Mitte-Rechts-Regierung: Präsident Macron will bald neuen Premierminister ernennen",
@@ -3003,11 +3001,11 @@
     "Kabinettsklausur - Regierung will Staatmodernisierung auf den Weg bringen - BDI fordert Befreiungsschlag bei Bürokratie",
     "Bundesagentur für Arbeit - Zahl der Arbeitslosen sinkt wieder auf unter 3 Millionen",
     "Umgang mit Russland - Sicherheitsexperte: \"NATO muss Einigkeit demonstrieren\"",
-    "Panne bei Auszählung: In Mülheim liegt doch CDU-Mann vorne"
+    "Panne bei Auszählung: In Mülheim liegt doch CDU-Mann vorne",
+    "EU-Parlament - Ehemaliger Mitarbeiter von AfD-Politiker Krah wegen Spionage für China verurteilt",
+    "Lange Haftstrafe für Jian G.: Fast fünf Jahre Haft für ehemaligen Mitarbeiter von Maximilian Krah"
   ],
   "hashes": [
-    "ee3508e96f7791373a926d2128e39acc",
-    "98df588b19bf44e26ab9e8c87a37acea",
     "bb3d6daea53bae28b8547404e33379cc",
     "ff0eaa9e0082d426568108bc885d0757",
     "f4e7a9cdb82768bf17d79d39674d1942",
@@ -4005,6 +4003,8 @@
     "b2ef617a77794b4c2b778ddd6d7523d4",
     "a73bbe1f5fbc4ef1843a40b9ebfc050a",
     "6579d6d9394f907587393de09dbfa843",
-    "b51dcff265e2f50a60e15a32be600ba1"
+    "b51dcff265e2f50a60e15a32be600ba1",
+    "49f385233ddd05f29373abdfc9f84369",
+    "765afb363b4f793bc43fb066c199dbb6"
   ]
 }
