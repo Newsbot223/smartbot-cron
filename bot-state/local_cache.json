@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutliche-mehrheit-der-erwachsenen-will-mindestalter-in-sozialen-medien-und-mehr-schutz-accg-110677350.html",
-    "https://www.deutschlandfunk.de/israel-stimmt-nach-angaben-von-aussenminister-saar-us-vorschlag-fuer-waffenruhe-zu-100.html",
-    "https://www.deutschlandfunk.de/merz-fordert-mehr-flexibilitaet-von-der-eu-100.html",
-    "https://www.deutschlandfunk.de/bahn-soll-alle-hauptrouten-bis-2036-saniert-haben-100.html",
-    "https://www.deutschlandfunk.de/nuernberg-gedenkt-des-ersten-nsu-opfers-enver-im-ek-100.html",
     "https://www.deutschlandfunk.de/bundesrechnungshof-zweifelt-an-wirkung-von-sondervermoegen-fuer-laender-100.html",
     "https://www.deutschlandfunk.de/demonstranten-in-nepal-setzen-parlamentsgebaeude-in-brand-102.html",
     "https://www.deutschlandfunk.de/bundestagsabgeordnete-haben-neue-deutsch-internationale-parlamentariergruppen-gebildet-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/plan-fuer-gaza-interview-nazih-musharbash-dt-palaest-gesellschaft-100.html",
     "https://www.deutschlandfunk.de/deutscher-kabarettpreis-geht-an-satiriker-christian-ehring-100.html",
     "https://www.spiegel.de/wirtschaft/service/verbraucherpreise-inflation-in-deutschland-zieht-wieder-an-a-46b4a8ad-1db7-437e-a687-37f9772d8155#ref=rss",
-    "https://www.faz.net/aktuell/politik/wahlverhalten-in-nrw-die-afd-hat-fuer-jeden-etwas-110708958.html"
+    "https://www.faz.net/aktuell/politik/wahlverhalten-in-nrw-die-afd-hat-fuer-jeden-etwas-110708958.html",
+    "https://www.deutschlandfunk.de/ukraine-entsendet-anti-drohnen-team-nach-daenemark-100.html",
+    "https://www.deutschlandfunk.de/studie-manche-bevoelkerungsgruppen-mit-migrationshintergrund-praeferieren-afd-100.html",
+    "https://www.deutschlandfunk.de/inflationsrate-in-deutschland-steigt-im-september-auf-2-4-prozent-100.html",
+    "https://www.deutschlandfunk.de/urteil-im-prozess-gegen-mitarbeiter-maximilian-krah-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nadia-khalaf-dann-bin-ich-wohl-oberbuergermeisterin-der-herzen-accg-110710486.html"
   ],
   "content_hashes": [
-    "ba119f5704e7a6f975b3f45945728874",
-    "89258214c0d66ea0e80c712e0b3f7346",
-    "619caceef3627f5aee84d85028a68816",
-    "2e549756e2e1c011108e92ae7a7fd370",
-    "93b62f0844ca25c56b984ee6bc38b288",
     "4f8c5f6990770c16e4e0f1cf34bfed7f",
     "936fcd5d4d957087356475b502514d0a",
     "9f3b302ed929a673b290c513cd90625a",
@@ -2001,14 +1996,14 @@
     "1b95b04799719c9a72d88afeda71ee51",
     "63e05a7b2d65d57a4073430809c481a6",
     "7618634d96ea381f61b18ea1fbcad739",
-    "567125310c0d0dca52afaf19744590de"
+    "567125310c0d0dca52afaf19744590de",
+    "1ed83dd2a56281c4031f0421bf7a77de",
+    "a039cc973f6a497237fb98ab6fe45cf8",
+    "3f9c04806f128a6cf2186a2d7a8a8f68",
+    "0d2c24541920dbe8409c714a93efb00f",
+    "12efe434da4a7ce1cd66830d15175f8b"
   ],
   "titles": [
-    "Ifo-Bildungsbarometer: Deutliche Mehrheit der Erwachsenen für Mindestalter in sozialen Medien",
-    "Gaza-Krieg - Israel stimmt nach Angaben von Außenminister Saar US-Vorschlag für Waffenruhe zu",
-    "Diskussion über Verbrennerverbot - Merz fordert mehr Flexibilität von der EU",
-    "Zugverkehr - Bahn soll alle Hauptrouten bis 2036 saniert haben",
-    "Terrorismus - Nürnberg gedenkt des ersten NSU-Opfers Enver Şimşek",
     "Bericht im Haushaltsausschuss - Bundesrechnungshof zweifelt an Wirkung von Sondervermögen für Länder",
     "Unruhen - Demonstranten in Nepal setzen Parlamentsgebäude in Brand",
     "Berlin - Bundestagsabgeordnete haben neue deutsch-internationale Parlamentariergruppen gebildet",
@@ -3003,14 +2998,14 @@
     "Trumps Plan für Gaza - Musharbash: \"Beide Seiten müssen auf Radikale Einfluss nehmen\"",
     "Auszeichnung - Deutscher Kabarettpreis geht an Satiriker Christian Ehring",
     "Verbraucherpreise: Inflation in Deutschland zieht wieder an",
-    "Wahlverhalten: Die AfD hat für jeden etwas"
+    "Wahlverhalten: Die AfD hat für jeden etwas",
+    "Sicherheit - Ukraine entsendet Anti-Drohnen-Team nach Dänemark",
+    "Migration - Studie: Manche Bevölkerungsgruppen mit Migrationshintergrund präferieren AfD",
+    "Statistisches Bundesamt - Inflationsrate in Deutschland steigt im September auf 2,4 Prozent",
+    "Spionage-Prozess - Fast fünf Jahre Haft für Ex-Mitarbeiter von Maximilian Krah",
+    "Nadia Khalaf: „Dann bin ich wohl Oberbürgermeisterin der Herzen“"
   ],
   "hashes": [
-    "04fc7c3accdf0cf2eb4d016684a1c38c",
-    "6aebfc1a946c4d484a5123929f988f07",
-    "db273640dae9dfe8d61a2239c9876850",
-    "03c4a19f4f1bd83e6098760627fb0ee4",
-    "e5ebf49ef25cd947b95715a318f8d3e4",
     "9767f6916e04c0ab10338fa9aa666394",
     "369b4ded034787deca5b8d4abc0b8278",
     "8c133a380f74210604a0df8fca28fb85",
@@ -4005,6 +4000,11 @@
     "168ac118b5e1703cda926705b2d0d6db",
     "c80245eba8b3c3f1fcb50caf77b51542",
     "b2866f82f9558738b4b0b2e0ce2fbb72",
-    "5221da1232e3c7e2f14f3e23701060d2"
+    "5221da1232e3c7e2f14f3e23701060d2",
+    "0870e58df5ad541eec6f0f825a8ab491",
+    "d0f2d7a2722335271468aaae6aa09fec",
+    "969be7f93db5ca68a2da8fe4d81d17c2",
+    "76ccfd77487e35c1cfef8ce50850e884",
+    "4b262cb6ca80936513814e60eed42e91"
   ]
 }
