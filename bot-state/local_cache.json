@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlament-entzieht-premier-bayrou-das-vertrauen-macron-ernennt-neuen-regierungschef-in-naechsten-tag-100.html",
-    "https://www.deutschlandfunk.de/arbeiterpartei-von-ministerpraesident-st-re-liegt-vorn-100.html",
     "https://www.faz.net/aktuell/politik/inland/kiel-frachter-wegen-spionageverdacht-durchsucht-110676932.html",
     "https://www.deutschlandfunk.de/sozialdemokratische-arbeiterpartei-gewinnt-parlamentswahl-100.html",
     "https://www.deutschlandfunk.de/im-norden-aethiopiens-geht-der-groesste-staudamm-afrikas-in-betrieb-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/uns-eint-der-auftrag-zwei-generale-zur-armee-der-einheit-110707717.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-staatmodernisierung-auf-den-weg-bringen-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-elektronische-patientenakte-epa-haelt-auch-kurz-vor-der-nutzungspflicht-fuer-aerzte-an-100.html",
-    "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html"
+    "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html",
+    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
+    "https://www.deutschlandfunk.de/taliban-extremisten-blockieren-zugang-zu-internet-und-mobilfunk-in-afghanistan-100.html"
   ],
   "content_hashes": [
-    "b5b2e1025f1b29d1dc125e64cea55f7c",
-    "80854155fc4fce39b15530b6a988fb5a",
     "e318d7c52b15838ea78f744aec026e88",
     "f7d9e3e1656650138ece1edbcc4439f8",
     "a59368e96dc30e8c78aed821682952e5",
@@ -2001,11 +1999,11 @@
     "33612fc079ade1fc1064fea137a36dea",
     "0088f0a16f7e7ce4713f3db446bb5bbe",
     "fc6b6767c69f454ef2868ba3680a9a26",
-    "e49126a756d2c802c8e305dca682378b"
+    "e49126a756d2c802c8e305dca682378b",
+    "8e73d549fa8cc2e10eab6ab79b39203d",
+    "c51ed7e6ad2416182678ac3d37e32290"
   ],
   "titles": [
-    "Frankreich - Parlament entzieht Premier Bayrou das Vertrauen - Macron ernennt neuen Regierungschef in nächsten Tagen",
-    "Wahl in Norwegen - Arbeiterpartei von Ministerpräsident Støre liegt vorn",
     "Festgesetzt in Kiel: Frachter wegen Spionageverdacht durchsucht",
     "Norwegen - Sozialdemokratische Arbeiterpartei gewinnt Parlamentswahl",
     "Wasserkraftwerk - Im Norden Äthiopiens geht der größte Staudamm Afrikas in Betrieb",
@@ -3003,11 +3001,11 @@
     "Armee der Einheit: „Uns eint der Auftrag“",
     "Kabinettsklausur - Bundesregierung will Staatmodernisierung auf den Weg bringen",
     "Gesundheitspolitik - Debatte über elektronische Patientenakte (ePA) hält auch kurz vor der Nutzungspflicht für Ärzte an",
-    "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht"
+    "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht",
+    "WDR-Bericht - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
+    "Berichte - Taliban-Extremisten blockieren Zugang zu Internet und Mobilfunk in Afghanistan"
   ],
   "hashes": [
-    "d069cba9781e1837c5891e9058bdfa1c",
-    "e1b99a2bd7a56fe12661b61f0c6537ba",
     "c438e06c748e1c0ae607c5037b60106e",
     "4ade42fcdeeb26efcff014a15b22a6aa",
     "cf1e19be0a6b795890eb9a8b63fecd01",
@@ -4005,6 +4003,8 @@
     "f6ab0055a7b6aaeb1287ef33f764acca",
     "1398f33139ad516421aae5113a354c30",
     "ffbfcaa1a598f755e867f74ffd2d77f8",
-    "8b17fbff13bf30fa0e50a4a75b6c8e9d"
+    "8b17fbff13bf30fa0e50a4a75b6c8e9d",
+    "fc81644cf04ae25ede8d5a51dc918d20",
+    "51e5419617b88721ea2c427ef299890a"
   ]
 }
