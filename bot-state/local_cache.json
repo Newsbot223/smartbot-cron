@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-ice-razzien-auf-basis-ethnischer-merkmale-einsatz-gegen-migranten-auch--100.html",
-    "https://www.deutschlandfunk.de/regierung-hebt-nach-unruhen-blockade-von-social-media-plattformen-wieder-auf-102.html",
-    "https://www.aljazeera.com/news/2025/9/9/russia-ukraine-war-list-of-key-events-day-1293?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/enquete-kommission-zur-corona-aufarbeitung-das-naechste-virus-110676315.html",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-erlaubt-razzien-der-einwanderungsbehoerde-auf-basis-ethnischer-merkmale-einsatz-102.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-spd-will-bestrafung-verbaler-sexueller-belaestigung-pruefen-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/wahl-studie-der-kas-afd-punktet-auch-in-migrantischen-milieus-accg-110709233.html",
     "https://www.deutschlandfunk.de/us-plan-zu-beendigung-des-gaza-krieges-stoesst-international-auf-zustimmung-100.html",
     "https://www.deutschlandfunk.de/vor-der-kabinettsklausur-100.html",
-    "https://www.deutschlandfunk.de/regierung-will-staatmodernisierung-auf-den-weg-bringen-bdi-fordert-befreiungsschlag-bei-buerokratie-102.html"
+    "https://www.deutschlandfunk.de/regierung-will-staatmodernisierung-auf-den-weg-bringen-bdi-fordert-befreiungsschlag-bei-buerokratie-102.html",
+    "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-sinkt-wieder-auf-unter-3-millionen-102.html",
+    "https://www.deutschlandfunk.de/wie-umgehen-mit-russlands-nadelstichen-interview-mit-ulrich-kuehn-ifsh-104.html",
+    "https://www.faz.net/aktuell/politik/inland/panne-bei-auszaehlung-in-muelheim-liegt-doch-cdu-mann-vorne-accg-110709991.html"
   ],
   "content_hashes": [
-    "d19a22a1aacf6b56e890ef1f8d456a7d",
-    "11cce47f73cade700dbde1d1990b0b36",
-    "a22ab020489947f5e8b07c1426247568",
     "ba8d50d5f438a57b62b2c59a2e3a5852",
     "8fe50310d4c02eec6627e3c2d0467c20",
     "2e44842d05c9897c40125ec658b87d1a",
@@ -2001,12 +1998,12 @@
     "2490762c8431d88da799ee574ff70103",
     "c18c6423a75f84024df1dcf3147321d7",
     "e88a20a7ddf2466b3af2d2f8454e7194",
-    "d8bc0b4935c8cc6c9bd12df907ad7af8"
+    "d8bc0b4935c8cc6c9bd12df907ad7af8",
+    "f0d42c407271be2ca766f983e13d1255",
+    "ccf23ff82ca97951c9b66f543ddfe9e0",
+    "b9103b518e37568d1ec6649fe83cb860"
   ],
   "titles": [
-    "USA - Oberster Gerichtshof erlaubt ICE-Razzien auf Basis ethnischer Merkmale - Einsatz gegen Migranten auch in Chicago",
-    "Nepal - Regierung hebt nach Unruhen Blockade von Social-Media-Plattformen wieder auf",
-    "Russia-Ukraine war: List of key events, day 1,293",
     "Corona-Aufarbeitung: Das nächste Virus",
     "USA - Oberster Gerichtshof erlaubt Razzien der Einwanderungsbehörde auf Basis ethnischer Merkmale - Einsatz gegen Migranten auch in Chicago",
     "\"Catcalling\" - Justizministerin Hubig (SPD) will Bestrafung verbaler sexueller Belästigung prüfen",
@@ -3003,12 +3000,12 @@
     "Neue Wahl-Studie: AfD punktet auch in migrantischen Milieus",
     "Nahost - US-Plan zu Beendigung des Gaza-Krieges stößt international auf Zustimmung",
     "Kabinettsklausur - Das plant die Bundesregierung",
-    "Kabinettsklausur - Regierung will Staatmodernisierung auf den Weg bringen - BDI fordert Befreiungsschlag bei Bürokratie"
+    "Kabinettsklausur - Regierung will Staatmodernisierung auf den Weg bringen - BDI fordert Befreiungsschlag bei Bürokratie",
+    "Bundesagentur für Arbeit - Zahl der Arbeitslosen sinkt wieder auf unter 3 Millionen",
+    "Umgang mit Russland - Sicherheitsexperte: \"NATO muss Einigkeit demonstrieren\"",
+    "Panne bei Auszählung: In Mülheim liegt doch CDU-Mann vorne"
   ],
   "hashes": [
-    "f5c69cb56d1b684df0b138c2e7624ee3",
-    "41a3b69fcf34ed9aeb6c26c604e3a8c3",
-    "485b65b1b6d9a4bf8c559dca614ae2fd",
     "ee3508e96f7791373a926d2128e39acc",
     "98df588b19bf44e26ab9e8c87a37acea",
     "bb3d6daea53bae28b8547404e33379cc",
@@ -4005,6 +4002,9 @@
     "32259642c9172b6537cdfc6ef65ba60d",
     "a4379a62d1d1c8050a8a850e7c5e5d56",
     "7fa7c4947e98e4f426206bdddac66951",
-    "b2ef617a77794b4c2b778ddd6d7523d4"
+    "b2ef617a77794b4c2b778ddd6d7523d4",
+    "a73bbe1f5fbc4ef1843a40b9ebfc050a",
+    "6579d6d9394f907587393de09dbfa843",
+    "b51dcff265e2f50a60e15a32be600ba1"
   ]
 }
