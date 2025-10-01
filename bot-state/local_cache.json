@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutscher-staedtetag-fordert-mehr-mittel-fuer-kliniken-100.html",
-    "https://www.deutschlandfunk.de/deutsche-industrie-unzufrieden-mit-eu-alternative-zu-chinas-seidenstrassen-projekt-100.html",
-    "https://www.deutschlandfunk.de/kabinett-befasst-sich-mit-pendlerpauschale-und-gastro-steuer-102.html",
     "https://www.aljazeera.com/news/2025/9/10/russia-ukraine-war-list-of-key-events-day-1294?traffic_source=rss",
     "https://www.deutschlandfunk.de/polen-schiesst-erstmals-russische-drohnen-ueber-eigenem-staatsgebiet-ab-100.html",
     "https://www.deutschlandfunk.de/klage-oesterreichs-gegen-einstufung-von-gas-und-atomkraft-als-nachhaltig-abgewiesen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/elektronische-patientenakte-ab-heute-verpflichtend-fuer-aerzte-krankenhaeuser-und-apotheken-102.html",
     "https://www.deutschlandfunk.de/ruestungsexporte-fuer-knapp-2-5-millionen-euro-keine-kriegswaffen-100.html",
     "https://www.deutschlandfunk.de/haseloff-mahnt-zu-geschlossenheit-der-mitte-es-geht-ums-ganze-100.html",
-    "https://www.deutschlandfunk.de/mindestens-22-tote-bei-schwerem-erdbeben-auf-den-philippinen-100.html"
+    "https://www.deutschlandfunk.de/mindestens-22-tote-bei-schwerem-erdbeben-auf-den-philippinen-100.html",
+    "https://www.deutschlandfunk.de/keine-einigung-im-us-kongress-behoerden-im-shutdown-100.html",
+    "https://www.deutschlandfunk.de/abstimmung-im-senat-zur-abwendung-eines-shutdowns-gescheitert-102.html",
+    "https://www.deutschlandfunk.de/mindestens-60-tote-bei-schwerem-erdbeben-100.html"
   ],
   "content_hashes": [
-    "d2e6446bccd265fe864f2c2db4e6cb2e",
-    "167674d010bbfc9b05cacb3b602e5754",
-    "bb6ebba1fe8de0188e04c2a15fa082a7",
     "d0b51689a49257be6070e5e19569ef23",
     "03c66d32ea5ee630e262018a21e1a3b4",
     "cceab4ae0a87ff838ab3c139d4264497",
@@ -2001,12 +1998,12 @@
     "01e8140acf91b22b120735eb4d88264f",
     "ac5b21554589cfb4871ddfc96dce5fdc",
     "56b9763fdd464874703dbacee6370232",
-    "16d7667299efe6bfe57106d3fd16483b"
+    "16d7667299efe6bfe57106d3fd16483b",
+    "41483be36aefae8afa841128f00e4bca",
+    "83bb739a030c799033018e737cb0c6d8",
+    "506d073e3fde3c9c4690ac89cdf73935"
   ],
   "titles": [
-    "Krankenhausreform - Deutscher Städtetag fordert mehr Mittel für Kliniken",
-    "\"Golbal Gateway\" - Deutsche Industrie unzufrieden mit EU-Alternative zu Chinas Seidenstraßen-Projekt",
-    "Berlin - Kabinett befasst sich mit Pendlerpauschale und Gastro-Steuer",
     "Russia-Ukraine war: List of key events, day 1,294",
     "Ukraine-Krieg - Polen schießt erstmals russische Drohnen über eigenem Staatsgebiet ab",
     "EU-Gericht - Klage Österreichs gegen Einstufung von Gas und Atomkraft als nachhaltig abgewiesen",
@@ -3003,12 +3000,12 @@
     "Gesundheitspolitik - Elektronische Patientenakte ab heute verpflichtend für Ärzte, Krankenhäuser und Apotheken",
     "Israel - Rüstungsexporte für knapp 2,5 Millionen Euro - \"keine Kriegswaffen\"",
     "AfD-Umfragehoch - Haseloff mahnt zu Geschlossenheit der Mitte -\"Es geht ums Ganze\"",
-    "Mindestens 22 Tote bei schwerem Erdbeben auf den Philippinen"
+    "Mindestens 22 Tote bei schwerem Erdbeben auf den Philippinen",
+    "Haushaltssperre in Kraft - Keine Einigung im US-Kongress: Behörden im Shutdown",
+    "USA - Abstimmung im Senat zur Abwendung eines \"Shutdowns\" gescheitert",
+    "Philippinen - Mindestens 60 Tote bei schwerem Erdbeben"
   ],
   "hashes": [
-    "dfebdb2de129ac735c941d0a69d5447f",
-    "90240baaf573472a8faeba87abcf0a6c",
-    "b43048094ceb25b485a7e5e70a405f88",
     "032e6474ed4fdc1a88222692accb7805",
     "7756a8155e4c3fb411c8522d2656f8d7",
     "578aa1c35f09fb823fd9aa1ff63a5f36",
@@ -4005,6 +4002,9 @@
     "967d539866e91cbe7a7aa3d395e93c16",
     "19f51aa79877ecb98b4610c25c6f6bdb",
     "7124ea94fccd2ee95bcaa5353dbcc88b",
-    "28de1aab1f2101a3d8fac9aab82ab084"
+    "28de1aab1f2101a3d8fac9aab82ab084",
+    "52c26d219d6de488c0496babdce10ebb",
+    "5e79aa898e7a8bdb998c3b73dbc89649",
+    "99624094c337113e1d9da575d3c91ccf"
   ]
 }
