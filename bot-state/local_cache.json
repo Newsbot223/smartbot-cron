@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/20-000-haushalte-bleiben-bis-donnerstag-ohne-strom-100.html",
-    "https://www.deutschlandfunk.de/markt-fuer-streaming-dienste-und-pay-tv-in-deutschland-waechst-102.html",
-    "https://www.deutschlandfunk.de/offene-stellen-im-handwerk-bleiben-lange-unbesetzt-100.html",
-    "https://www.aljazeera.com/news/2025/9/10/israel-attacks-yemen-capital-report?traffic_source=rss",
-    "https://www.deutschlandfunk.de/kubas-stromnetz-bricht-erneut-zusammen-100.html",
-    "https://www.deutschlandfunk.de/von-der-leyen-will-altersgrenze-fuer-soziale-medien-100.html",
     "https://www.deutschlandfunk.de/regierung-will-wegen-bandengewalt-strafmuendigkeit-ab-13-jahren-einfuehren-100.html",
     "https://www.deutschlandfunk.de/neun-menschen-sterben-bei-israelischem-angriff-im-jemen-102.html",
     "https://www.faz.net/aktuell/politik/ausland/drohnen-gegen-polen-die-nato-hat-putins-test-nur-bedingt-bestanden-110679579.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/internationales-komitee-vom-roten-kreuz-setzt-hilfe-in-gaza-stadt-aus-100.html",
     "https://www.deutschlandfunk.de/oktoberfest-in-muenchen-oeffnet-am-nachmittag-wieder-102.html",
     "https://www.deutschlandfunk.de/weniger-menschen-stellen-asylantrag-in-deutschland-102.html",
-    "https://www.faz.net/aktuell/politik/inland/drohnen-sichtungen-in-norddeutschland-staatsanwaltschaft-ermittelt-110712574.html"
+    "https://www.faz.net/aktuell/politik/inland/drohnen-sichtungen-in-norddeutschland-staatsanwaltschaft-ermittelt-110712574.html",
+    "https://www.deutschlandfunk.de/drei-mutmassliche-hamas-mitglieder-im-zusammenhang-mit-anschlagsplaenen-in-berlin-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/wieder-internet-in-afghanistan-102.html",
+    "https://www.deutschlandfunk.de/neue-beratungen-im-us-senat-ueber-den-haushalt-zur-beendigung-des-shutdown-102.html",
+    "https://www.deutschlandfunk.de/mehr-als-30-tote-nach-einsturz-von-baugeruest-an-kirche-100.html",
+    "https://www.faz.net/einspruch/was-doris-koenig-in-karlsruhe-ueberrascht-hat-110712563.html",
+    "https://www.faz.net/aktuell/politik/inland/drei-mutmassliche-hamas-mitglieder-in-berlin-festgenommen-110713096.html"
   ],
   "content_hashes": [
-    "5def7722eaef362f41ef3a1202373c0e",
-    "7f302876748440379dfc80f7400e3fbb",
-    "14e2c3c7b74e27b3290c3c140ea0fdcc",
-    "247c00c92c21da057ee6e69887770f29",
-    "3a13e353dbd652216a51e9097e157225",
-    "5c5b9340871cc2a40756d13dffe0b7e7",
     "d2c90ec182398c43f120d1e8437c4e00",
     "02ccafc71ad0fb9e4921a062c31f1f28",
     "bc1c672c5863676f1e1bb059ee60ddfa",
@@ -2001,15 +1995,15 @@
     "17a74602bcfd8252b4feafa774ad408d",
     "fd95f67da92530bb42d87bed3c5faad6",
     "ccf6450e2fc80be6fa8f7a8682f15549",
-    "1ef3a3377be0132468c81d00c1a4ada1"
+    "1ef3a3377be0132468c81d00c1a4ada1",
+    "103436142e84010c0a5db31f7cf1643c",
+    "81aa8be39bc6f8229ce4c10f4c1d0557",
+    "c3e42ab604a47c0d2a4416e40fa16fd2",
+    "c360938dc8bdcad5d871cbf494b76cb5",
+    "b693894e9d8d5a3e87e7598c14f5fcf3",
+    "3a23d81fc9f5fde4152092ff62349b0a"
   ],
   "titles": [
-    "Berlin - 20.000 Haushalte bleiben bis Donnerstag ohne Strom",
-    "Bilanz - Markt für Streaming-Dienste und Pay-TV in Deutschland wächst",
-    "Deutschland - Offene Stellen im Handwerk bleiben lange unbesetzt",
-    "Israel attacks Yemen’s capital Sanaa a day after bombing Qatar’s Doha",
-    "Kubas Stromnetz bricht erneut zusammen",
-    "Europa - Von der Leyen will Altersgrenze für soziale Medien",
     "Schweden - Regierung will wegen Bandengewalt Strafmündigkeit ab 13 Jahren einführen",
     "Schlag gegen die Huthis - Neun Menschen sterben bei israelischem Angriff im Jemen",
     "Drohnenattacke auf Polen: Die NATO hat Putins Test nur bedingt bestanden",
@@ -3003,15 +2997,15 @@
     "Israelische Offensive - Internationales Komitee vom Roten Kreuz setzt Hilfe in Gaza-Stadt aus",
     "Nach Sprengstoffdrohung - Oktoberfest in München öffnet am Nachmittag wieder",
     "Flucht - Weniger Menschen stellen Asylantrag in Deutschland",
-    "Norddeutschland: Drohnen überflogen auch kritische Infrastruktur"
+    "Norddeutschland: Drohnen überflogen auch kritische Infrastruktur",
+    "Bundesanwaltschaft - Drei mutmaßliche Hamas-Mitglieder im Zusammenhang mit Anschlagsplänen in Berlin festgenommen",
+    "Kommunikation - Wieder Internet in Afghanistan",
+    "Washington - Neue Beratungen im US-Senat über den Haushalt zur Beendigung des \"Shutdown\"",
+    "Äthiopien - Mehr als 30 Tote nach Einsturz von Baugerüst an Kirche",
+    "F.A.Z. Einspruch Podcast: Was Doris König in Karlsruhe überrascht hat",
+    "Waffen beschafft: Drei mutmaßliche Hamas-Mitglieder in Berlin festgenommen"
   ],
   "hashes": [
-    "f3c519743bb6ad454b7851585f5ecd41",
-    "c20b32d01f84ba5566813e4f76e02b96",
-    "ff17250890531c07f8cfac6586a505c8",
-    "66f39f465541726457531e9f32cceb4f",
-    "1bed932292b2e7641b774ab6dec60076",
-    "abcd9ef6e32ecdd74704e615c312ffa1",
     "e9f63d5bcc417d6c2dff1f40df5c276e",
     "1e269f7bd24321069062b3f120e7fd20",
     "94a9d339798f97b9ddd53480d101c937",
@@ -4005,6 +3999,12 @@
     "fa9784efa68cfd15f7c26cef181d8f15",
     "56186e36f0d090c5c040c77d12e83eb5",
     "38b7dd4607a746d9cb6917eb687af2af",
-    "f5917c4a170140667e3a99d42927b717"
+    "f5917c4a170140667e3a99d42927b717",
+    "69be8a0e9563cfddb2d8c7568863c21a",
+    "190c8329d47c0adfeb2a0bb8dafc2b38",
+    "c2a22eb6eb311e59250155fa126e3c7f",
+    "fb2482ff9839f4823c0f1670c4c2091b",
+    "165a488c45f0f24f948279c4314cde77",
+    "250d79fc73504f85c0735b4c2f5a1a81"
   ]
 }
