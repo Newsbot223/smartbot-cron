@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/novo-nordisk-kuendigt-streichung-von-9-000-stellen-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-mehr-syrer-aus-der-tuerkei-heimkehren-als-aus-deutschland-accg-110677776.html",
     "https://www.deutschlandfunk.de/messeranschlag-von-solingen-hoechststrafe-fuer-attentaeter-100.html",
     "https://www.deutschlandfunk.de/polen-meldet-abschuss-von-drohnen-100.html",
     "https://www.deutschlandfunk.de/fast-200-festnahmen-bei-blockadeaktionen-in-frankreich-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kabinettstreffen-mit-grosser-themenpalette-100.html",
     "https://www.faz.net/aktuell/politik/ausland/kretschmer-in-taiwan-jede-asienreise-zeigt-wie-wir-an-boden-verlieren-accg-110711853.html",
     "https://www.deutschlandfunk.de/us-abschiebepolitik-gegen-gaza-unterstuetzer-verfassungswidrig-100.html",
-    "https://www.deutschlandfunk.de/verdaechtige-drohnen-ueber-schleswig-holstein-spaehten-wichtige-infrastruktur-aus-100.html"
+    "https://www.deutschlandfunk.de/verdaechtige-drohnen-ueber-schleswig-holstein-spaehten-wichtige-infrastruktur-aus-100.html",
+    "https://www.deutschlandfunk.de/oktoberfest-wegen-bombendrohung-geschlossen-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-angriff-auf-russisches-kraftwerk-102.html"
   ],
   "content_hashes": [
-    "66fd78da3de0a7e0effac01496e8c66e",
-    "5435d6c5f9bc297d273a12a0538e0195",
     "091b7fd9be4cb1126458f494a35ee673",
     "1181e58c80329b41af78bb00d7dd2fc3",
     "e18a0c002c8b7f343d923b4b261a3bc3",
@@ -2001,11 +1999,11 @@
     "dc20aac17eb890a6e7d467d5ec79e1af",
     "3d4221e656a2e2f77c5022b1adb9f279",
     "17866e84785406e632c3172a7edf9c7f",
-    "a5cbfa19806f4a09324f1ab6bd2e3f18"
+    "a5cbfa19806f4a09324f1ab6bd2e3f18",
+    "038410cab14de9a85540a93fd3971a6f",
+    "969ebb78ecd2be15c83e888b0766aa21"
   ],
   "titles": [
-    "Pharma-Industrie - Novo Nordisk kündigt Streichung von 9.000 Stellen an",
-    "Asyldebatte: Warum mehr Syrer aus der Türkei heimkehren als aus Deutschland",
     "Oberlandesgericht Düsseldorf - Messeranschlag von Solingen: Höchststrafe für Attentäter",
     "Krieg in der Ukraine - Polen schießt Drohnen in eigenem Luftraum ab",
     "Innenministerium - Fast 200 Festnahmen bei Blockadeaktionen in Frankreich",
@@ -3003,11 +3001,11 @@
     "Kabinettsklausur - Modernisierungsagenda soll Deutschland zukunftsfähig machen",
     "Kretschmer in Taiwan: „Jede Asienreise zeigt, wie wir an Boden verlieren“",
     "Gerichtsentscheidung -  US-Abschiebepolitik gegen Gaza-Unterstützer verfassungswidrig",
-    "Medienbericht - Verdächtige Drohnen über Schleswig-Holstein spähten wichtige Infrastruktur aus"
+    "Medienbericht - Verdächtige Drohnen über Schleswig-Holstein spähten wichtige Infrastruktur aus",
+    "München - Oktoberfest wegen Bombendrohung geschlossen",
+    "Putins Angriffskrieg - Ukraine sorgt im russischen Belgorod für Stromausfall"
   ],
   "hashes": [
-    "f9352091ec262256b9ec81f49a1081c9",
-    "a1b791d940219b94aed8420e5c3dccfa",
     "0d3682bff5bc58c35c3b0e8b85866f9a",
     "a9f90005d3b2cf1f06e147c316d48ceb",
     "45119469828f5864aa52361109025e97",
@@ -4005,6 +4003,8 @@
     "d16008a8b1274a3e885c8529fdaa11e4",
     "017019ea7b33b61bfbd8b611d04aa6c6",
     "59c955e4e8a38997b2169ea4f7edb3f1",
-    "130a938e2b47084c251d4bd23c6dfa4c"
+    "130a938e2b47084c251d4bd23c6dfa4c",
+    "4ee9a065efc4f1f4e090c7d51344d897",
+    "87cfb4a7955f70340661a85813db3219"
   ]
 }
