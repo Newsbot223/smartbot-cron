@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/von-der-leyen-eu-kommission-setzt-zahlungen-an-israel-aus-100.html",
-    "https://www.deutschlandfunk.de/soldaten-uebernehmen-kontrolle-in-hauptstadt-kathmandu-100.html",
     "https://www.deutschlandfunk.de/novo-nordisk-kuendigt-streichung-von-9-000-stellen-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-mehr-syrer-aus-der-tuerkei-heimkehren-als-aus-deutschland-accg-110677776.html",
     "https://www.deutschlandfunk.de/messeranschlag-von-solingen-hoechststrafe-fuer-attentaeter-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/frueherer-praesident-kabila-zu-tode-verurteilt-100.html",
     "https://www.faz.net/aktuell/politik/inland/merz-und-russische-bedrohungen-deutschland-muss-handeln-110711070.html",
     "https://www.deutschlandfunk.de/kabinettstreffen-mit-grosser-themenpalette-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/kretschmer-in-taiwan-jede-asienreise-zeigt-wie-wir-an-boden-verlieren-accg-110711853.html"
+    "https://www.faz.net/aktuell/politik/ausland/kretschmer-in-taiwan-jede-asienreise-zeigt-wie-wir-an-boden-verlieren-accg-110711853.html",
+    "https://www.deutschlandfunk.de/us-abschiebepolitik-gegen-gaza-unterstuetzer-verfassungswidrig-100.html",
+    "https://www.deutschlandfunk.de/verdaechtige-drohnen-ueber-schleswig-holstein-spaehten-wichtige-infrastruktur-aus-100.html"
   ],
   "content_hashes": [
-    "6b7a61737317a19e21b80a5080b052bc",
-    "995202f97b53f8027689752a6a90f1b0",
     "66fd78da3de0a7e0effac01496e8c66e",
     "5435d6c5f9bc297d273a12a0538e0195",
     "091b7fd9be4cb1126458f494a35ee673",
@@ -2001,11 +1999,11 @@
     "772935c484da0ddf559c3199a870e893",
     "cb0a47da07233446b9fdcafcdeb73358",
     "dc20aac17eb890a6e7d467d5ec79e1af",
-    "3d4221e656a2e2f77c5022b1adb9f279"
+    "3d4221e656a2e2f77c5022b1adb9f279",
+    "17866e84785406e632c3172a7edf9c7f",
+    "a5cbfa19806f4a09324f1ab6bd2e3f18"
   ],
   "titles": [
-    "Gaza-Krieg - Von der Leyen: EU-Kommission setzt Zahlungen an Israel aus",
-    "Unruhen in Nepal - Soldaten übernehmen Kontrolle in Hauptstadt Kathmandu",
     "Pharma-Industrie - Novo Nordisk kündigt Streichung von 9.000 Stellen an",
     "Asyldebatte: Warum mehr Syrer aus der Türkei heimkehren als aus Deutschland",
     "Oberlandesgericht Düsseldorf - Messeranschlag von Solingen: Höchststrafe für Attentäter",
@@ -3003,11 +3001,11 @@
     "Kongo - Früherer Präsident Kabila zu Tode verurteilt",
     "Russische Bedrohungen: Deutschland muss jetzt handeln",
     "Kabinettsklausur - Modernisierungsagenda soll Deutschland zukunftsfähig machen",
-    "Kretschmer in Taiwan: „Jede Asienreise zeigt, wie wir an Boden verlieren“"
+    "Kretschmer in Taiwan: „Jede Asienreise zeigt, wie wir an Boden verlieren“",
+    "Gerichtsentscheidung -  US-Abschiebepolitik gegen Gaza-Unterstützer verfassungswidrig",
+    "Medienbericht - Verdächtige Drohnen über Schleswig-Holstein spähten wichtige Infrastruktur aus"
   ],
   "hashes": [
-    "d63427d7f88870ec2d7b934a4b2a30a9",
-    "fd658e837b5494efb12c139c136ec973",
     "f9352091ec262256b9ec81f49a1081c9",
     "a1b791d940219b94aed8420e5c3dccfa",
     "0d3682bff5bc58c35c3b0e8b85866f9a",
@@ -4005,6 +4003,8 @@
     "4937482aa3ee8f4a0aaac0d5862b7217",
     "2562f7a0132276823d68fc5ea9c133c9",
     "d16008a8b1274a3e885c8529fdaa11e4",
-    "017019ea7b33b61bfbd8b611d04aa6c6"
+    "017019ea7b33b61bfbd8b611d04aa6c6",
+    "59c955e4e8a38997b2169ea4f7edb3f1",
+    "130a938e2b47084c251d4bd23c6dfa4c"
   ]
 }
