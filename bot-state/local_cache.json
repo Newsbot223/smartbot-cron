@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polen-meldet-abschuss-von-drohnen-100.html",
-    "https://www.deutschlandfunk.de/fast-200-festnahmen-bei-blockadeaktionen-in-frankreich-102.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-fordert-ende-der-einstimmigkeitsregel-100.html",
     "https://www.deutschlandfunk.de/richterin-blockiert-trumps-entlassung-von-gouverneurin-der-notenbank-fed-100.html",
     "https://www.deutschlandfunk.de/was-artikel-4-und-artikel-5-im-nato-vertrag-bedeuten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verdaechtige-drohnen-ueber-schleswig-holstein-spaehten-wichtige-infrastruktur-aus-100.html",
     "https://www.deutschlandfunk.de/oktoberfest-wegen-bombendrohung-geschlossen-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-angriff-auf-russisches-kraftwerk-102.html",
-    "https://www.deutschlandfunk.de/haushaltsloch-der-kommunen-steigt-100.html"
+    "https://www.deutschlandfunk.de/haushaltsloch-der-kommunen-steigt-100.html",
+    "https://www.deutschlandfunk.de/us-forscher-nutzen-erstmals-dna-aus-menschlichen-hautzellen-um-embryo-herzustellen-102.html",
+    "https://www.faz.net/aktuell/politik/inland/deutsche-mediziner-befuerchten-kompetenzverlust-accg-110708897.html"
   ],
   "content_hashes": [
-    "1181e58c80329b41af78bb00d7dd2fc3",
-    "e18a0c002c8b7f343d923b4b261a3bc3",
     "63cf23aa136f202b8fdf1eb1987fef5b",
     "7fa072b1522bf69aea97098ec72a0ea6",
     "b438cd94942aac64b1e3c52425aac35a",
@@ -2001,11 +1999,11 @@
     "a5cbfa19806f4a09324f1ab6bd2e3f18",
     "038410cab14de9a85540a93fd3971a6f",
     "969ebb78ecd2be15c83e888b0766aa21",
-    "0149d1e2f33b2ee4e54160356236fc76"
+    "0149d1e2f33b2ee4e54160356236fc76",
+    "ae5a5288d287385dd98981a04cdac934",
+    "87803623ff9d5b1e13580338bf5659bd"
   ],
   "titles": [
-    "Krieg in der Ukraine - Polen schießt Drohnen in eigenem Luftraum ab",
-    "Innenministerium - Fast 200 Festnahmen bei Blockadeaktionen in Frankreich",
     "Straßburg - EU-Kommissionspräsidentin von der Leyen fordert Ende der Einstimmigkeitsregel",
     "USA - Richterin blockiert Trumps Entlassung von Gouverneurin der Notenbank Fed",
     "Hintergrund - Was Artikel 4 und Artikel 5 im NATO-Vertrag bedeuten",
@@ -3003,11 +3001,11 @@
     "Medienbericht - Verdächtige Drohnen über Schleswig-Holstein spähten wichtige Infrastruktur aus",
     "München - Oktoberfest wegen Bombendrohung geschlossen",
     "Putins Angriffskrieg - Ukraine sorgt im russischen Belgorod für Stromausfall",
-    "Finanzen - Haushaltsloch der Kommunen steigt"
+    "Finanzen - Haushaltsloch der Kommunen steigt",
+    "Fortschritt für Reproduktionsmedizin - US-Forscher nutzen erstmals DNA aus menschlichen Hautzellen, um Embryo herzustellen",
+    "Wegen Trumps Kürzungen: Deutsche Mediziner befürchten Kompetenzverlust"
   ],
   "hashes": [
-    "a9f90005d3b2cf1f06e147c316d48ceb",
-    "45119469828f5864aa52361109025e97",
     "5366ef27ed9ef47c1008c88508d92e6b",
     "0a05037b608bc9e5ff553ac351e3c862",
     "1ba38c8a71a432eaf28d2845a3f3ca59",
@@ -4005,6 +4003,8 @@
     "130a938e2b47084c251d4bd23c6dfa4c",
     "4ee9a065efc4f1f4e090c7d51344d897",
     "87cfb4a7955f70340661a85813db3219",
-    "afa9dd01f8389ed58232c12f05e5aea6"
+    "afa9dd01f8389ed58232c12f05e5aea6",
+    "9b3e6bca198404406d9ccb3233b17f24",
+    "0ec03edec9a7b9feb56d9bd641b7402c"
   ]
 }
