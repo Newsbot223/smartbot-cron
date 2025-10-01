@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neun-menschen-sterben-bei-israelischem-angriff-im-jemen-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/drohnen-gegen-polen-die-nato-hat-putins-test-nur-bedingt-bestanden-110679579.html",
     "https://www.deutschlandfunk.de/israel-politik-von-der-leyens-stoesst-in-berlin-auf-zurueckhaltung-100.html",
     "https://www.faz.net/aktuell/politik/inland/missbrauch-in-nrw-psychopharmaka-sorgten-fuer-ruhe-in-den-heimen-110679562.html",
     "https://www.faz.net/aktuell/politik/ausland/israels-angriff-auf-qatar-wer-frieden-will-handelt-anders-110679491.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mehr-als-30-tote-nach-einsturz-von-baugeruest-an-kirche-100.html",
     "https://www.faz.net/einspruch/was-doris-koenig-in-karlsruhe-ueberrascht-hat-110712563.html",
     "https://www.faz.net/aktuell/politik/inland/drei-mutmassliche-hamas-mitglieder-in-berlin-festgenommen-110713096.html",
-    "https://www.deutschlandfunk.de/oktoberfest-in-muenchen-wieder-geoeffnet-100.html"
+    "https://www.deutschlandfunk.de/oktoberfest-in-muenchen-wieder-geoeffnet-100.html",
+    "https://www.deutschlandfunk.de/oberstes-us-gericht-stoppt-vorerst-entlassung-von-fed-vorstaendin-cook-durch-praesident-trump-102.html",
+    "https://www.deutschlandfunk.de/eu-staats-und-regierungschef-uneins-ueber-nutzung-von-eingefrorenem-russischen-vermoegen-fuer-die-uk-102.html"
   ],
   "content_hashes": [
-    "02ccafc71ad0fb9e4921a062c31f1f28",
-    "bc1c672c5863676f1e1bb059ee60ddfa",
     "5f1c647b79d8dd8c3a7366cd341ef4db",
     "cde142a006fff45cf6bd3f1826b8c000",
     "fc7abaf429f7642dcbec88ffd04905e3",
@@ -2001,11 +1999,11 @@
     "c360938dc8bdcad5d871cbf494b76cb5",
     "b693894e9d8d5a3e87e7598c14f5fcf3",
     "3a23d81fc9f5fde4152092ff62349b0a",
-    "653fefa03219ef8871ddc1fffdbbd01d"
+    "653fefa03219ef8871ddc1fffdbbd01d",
+    "6016a60ca9de4488431dffbf9b869162",
+    "fea665c3b9cb2e491a9e93564dcefb83"
   ],
   "titles": [
-    "Schlag gegen die Huthis - Neun Menschen sterben bei israelischem Angriff im Jemen",
-    "Drohnenattacke auf Polen: Die NATO hat Putins Test nur bedingt bestanden",
     "Gaza-Krieg - Israel-Politik von der Leyens stößt in Berlin auf Zurückhaltung",
     "Missbrauch in NRW: Psychopharmaka sorgten für Ruhe in den Heimen",
     "Israels Angriff in Qatar: Wer Frieden will, handelt anders",
@@ -3003,11 +3001,11 @@
     "Äthiopien - Mehr als 30 Tote nach Einsturz von Baugerüst an Kirche",
     "F.A.Z. Einspruch Podcast: Was Doris König in Karlsruhe überrascht hat",
     "Waffen beschafft: Drei mutmaßliche Hamas-Mitglieder in Berlin festgenommen",
-    "Nach Sprengstoffdrohung - Oktoberfest in München wieder geöffnet"
+    "Nach Sprengstoffdrohung - Oktoberfest in München wieder geöffnet",
+    "Supreme Court - Oberstes US-Gericht stoppt vorerst Entlassung von Fed-Vorständin Cook durch Präsident Trump",
+    "Gipfel in Kopenhagen - EU-Staats- und Regierungschef uneins über Nutzung von eingefrorenem russischen Vermögen für die Ukraine"
   ],
   "hashes": [
-    "1e269f7bd24321069062b3f120e7fd20",
-    "94a9d339798f97b9ddd53480d101c937",
     "4fdff814ba8271c3175fa7710db881e5",
     "c2b9d039b8bab5860d968ca9c4caf723",
     "f2f8c2c6e90bd950b5de27b3b601f0a7",
@@ -4005,6 +4003,8 @@
     "fb2482ff9839f4823c0f1670c4c2091b",
     "165a488c45f0f24f948279c4314cde77",
     "250d79fc73504f85c0735b4c2f5a1a81",
-    "39d2a1989a3a68177ec1a21593856cd3"
+    "39d2a1989a3a68177ec1a21593856cd3",
+    "a99fe1edde6afe6a40770d7b56010804",
+    "5ebf674029984ded0d82075f646b8aae"
   ]
 }
