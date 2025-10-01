@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/wirtschaft/offenbar-nummern-von-kabinettsmitgliedern-im-internet-veroeffentlicht-110680131.html",
     "https://www.deutschlandfunk.de/polens-praesident-spricht-mit-trump-102.html",
     "https://www.deutschlandfunk.de/20-000-haushalte-bleiben-eine-weitere-nacht-ohne-strom-102.html",
     "https://www.deutschlandfunk.de/zahlreiche-menschen-sterben-bei-israelischem-angriff-im-jemen-106.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/nach-urabstimmung-erste-gespraeche-zwischen-vereinigung-cockpit-und-management-ohne-ergebnis-102.html",
     "https://www.deutschlandfunk.de/dobrindt-bedrohungslage-war-konkret-100.html",
     "https://www.deutschlandfunk.de/neue-beratungen-im-us-senat-ueber-den-haushalt-zur-beendigung-des-shutdown-gescheitert-100.html",
-    "https://www.deutschlandfunk.de/franzoesisches-militaer-bringt-verdaechtigen-tanker-der-russischen-schattenflotte-auf-100.html"
+    "https://www.deutschlandfunk.de/franzoesisches-militaer-bringt-verdaechtigen-tanker-der-russischen-schattenflotte-auf-100.html",
+    "https://www.deutschlandfunk.de/von-der-leyen-fordert-luftabwehr-gegen-drohnen-fuer-alle-eu-staaten-102.html"
   ],
   "content_hashes": [
-    "701ea42f3431c34cf002d4acf9d003e1",
     "1037653fb058df56ffd002963f31c8c1",
     "c76ca572ac3769f2e0d90ee347c385ee",
     "4f62130a32621e05c239d71efe57a978",
@@ -2001,10 +2000,10 @@
     "587ae549dab5d69efc27f47afd50b466",
     "af4aa70f264ceaa48d3873b46984db96",
     "9b376123e88b698cd70f77aa575d5f0d",
-    "716b0e1a3075e1f7320ff9cfe231a121"
+    "716b0e1a3075e1f7320ff9cfe231a121",
+    "10fe730cd74f27ffe0a4281e440573b6"
   ],
   "titles": [
-    "Laut Medienbericht: Nummer von Kanzler Merz offenbar im Internet veröffentlicht",
     "Nach Drohnen-Vorfall - Polens Präsident spricht mit Trump",
     "Berlin - 20.000 Haushalte bleiben eine weitere Nacht ohne Strom",
     "Schlag gegen die Huthis - Zahlreiche Menschen sterben bei israelischem Angriff im Jemen",
@@ -3003,10 +3002,10 @@
     "Lufthansa - Nach Urabstimmung: Erste Gespräche zwischen Vereinigung Cockpit und Management ohne Ergebnis",
     "Nach Festnahmen in Berlin - Dobrindt: Bedrohungslage war konkret",
     "Washington - Neue Beratungen im US-Senat über den Haushalt zur Beendigung des \"Shutdown\" gescheitert",
-    "Sicherheit - Französisches Militär bringt verdächtigen Tanker der russischen Schattenflotte auf"
+    "Sicherheit - Französisches Militär bringt verdächtigen Tanker der russischen Schattenflotte auf",
+    "EU-Gipfel in Kopenhagen - Von der Leyen fordert Luftabwehr gegen Drohnen für alle EU-Staaten"
   ],
   "hashes": [
-    "69571ed314a25598c53e02828b4938af",
     "f18951fd662cd545422784484bab7a5f",
     "5f83934eadebafe0f6615e22ac092375",
     "d557778cbbef4d5311dadd8e74816c41",
@@ -4005,6 +4004,7 @@
     "a4f744ef7d88dab4ff14ad1f6ca595fe",
     "534333a54e17a3cbf955829a8d9ff200",
     "b31e4560bf74991e52590c3f73b4fd9c",
-    "6b372507bf0eb11fcc8d90760b0086a3"
+    "6b372507bf0eb11fcc8d90760b0086a3",
+    "e37e5aaf7ac4d0b8d20bf1f7c07c6fce"
   ]
 }
