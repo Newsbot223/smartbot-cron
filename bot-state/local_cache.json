@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/krankenkassen-pruefen-10-milliarden-euro-klage-gegen-bund-wegen-systematischer-unterfinanzierung-100.html",
-    "https://www.deutschlandfunk.de/lehrerin-seit-16-jahren-krankgeschrieben-nrw-schulministerin-feller-spricht-von-einzelfall-und-macht-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kandidatin-fuer-das-bundesverfassungsgericht-emmenegger-sigrid-wer-accg-110680900.html",
     "https://www.faz.net/aktuell/politik/inland/bundestag-hebt-immunitaet-von-afd-politiker-maximilian-krah-auf-accg-110680570.html",
     "https://www.faz.net/aktuell/politik/inland/martin-jaeger-ist-neuer-bnd-chef-er-soll-den-bundesnachrichtendienst-neu-aufstellen-110533030.html",
     "https://www.deutschlandfunk.de/bundesamt-fuer-bevoelkerungsschutz-bundesweiter-warntag-war-ein-erfolg-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zwei-tote-und-verletzte-nach-angriff-vor-synagoge-in-manchester-100.html",
     "https://www.deutschlandfunk.de/zehntausende-protestieren-gegen-sparplaene-der-regierung-100.html",
     "https://www.deutschlandfunk.de/arme-menschen-beklagen-sozialen-ausschluss-100.html",
-    "https://www.deutschlandfunk.de/wie-gross-ist-die-terrorgefahr-interv-sicherheitsexperte-hans-jakob-schindler-100.html"
+    "https://www.deutschlandfunk.de/wie-gross-ist-die-terrorgefahr-interv-sicherheitsexperte-hans-jakob-schindler-100.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-unterstellt-ard-zdf-und-deutschlandradio-politisch-links-geneigt-zu-sein-100.html",
+    "https://www.deutschlandfunk.de/rwe-zieht-sich-aus-wasserstoff-projekt-in-namibia-zurueck-100.html",
+    "https://www.deutschlandfunk.de/china-schraenkt-offenbar-den-einsatz-von-nokia-und-ericsson-in-telekommunikationsnetzen-ein-100.html"
   ],
   "content_hashes": [
-    "d0536bcf5f9ab13a504d00a037b93dc3",
-    "4ee1c93ec744d30c01fd6d3858610ae1",
-    "ee37bdb3f330f48b7cb082ccd29539e9",
     "e302cec6d2627de80073e794822f3d5c",
     "345eace4716c15347cdc72c7cb5951bb",
     "205c3e463420fa655efe7cc8385d48ca",
@@ -2001,12 +1998,12 @@
     "ae9833dcd4da05db4786488e187a7312",
     "7e37fa9cc8e1994b1a3f9fb3d5700ae1",
     "3156d96574d682aad646e67613bed779",
-    "e361f44a1a18437a8c4af4b7e60bb2a8"
+    "e361f44a1a18437a8c4af4b7e60bb2a8",
+    "495b99c5501efdd7245e678d2825016d",
+    "6fee14b6046d7a76c0b284b33f70b37f",
+    "3878923f7629f9433d442cc09925a5a8"
   ],
   "titles": [
-    "GKV-Spitzenverband - Krankenkassen prüfen 10-Milliarden-Euro-Klage gegen Bund wegen \"systematischer Unterfinanzierung\"",
-    "Bildung - Lehrerin seit 16 Jahren krankgeschrieben - NRW-Schulministerin Feller spricht von Einzelfall und macht im Landtag der Pädagogin schwere Vorwürfe",
-    "Kandidatin Emmenegger: Sigrid, wer?",
     "AfD-Politiker: Bundestag genehmigt Durchsuchung bei Maximilian Krah",
     "Martin Jäger: Der neue Mann an der Spitze des BND",
     "Probealarm - Bundesamt für Bevölkerungsschutz: Bundesweiter Warntag war ein Erfolg",
@@ -3003,12 +3000,12 @@
     "Großbritannien - Zwei Tote und Verletzte nach Angriff vor Synagoge in Manchester",
     "Frankreich - Zehntausende protestieren gegen Sparpläne der Regierung",
     "Regierungsbericht - Arme Menschen beklagen sozialen Ausschluss",
-    "Terrorabwehr - Sicherheitsexperte: Behörden bei Überwachung stark eingeschränkt"
+    "Terrorabwehr - Sicherheitsexperte: Behörden bei Überwachung stark eingeschränkt",
+    "Öffentlich-Rechtliche Sender - Kulturstaatsminister Weimer unterstellt ARD, ZDF und Deutschlandradio \"politisch links geneigt\" zu sein - scharfe Kritik vom DJV",
+    "Energiewende - RWE zieht sich aus Wasserstoff-Projekt in Namibia zurück",
+    "Zensur - China schränkt offenbar den Einsatz von Nokia und Ericsson in Telekommunikationsnetzen ein"
   ],
   "hashes": [
-    "a86981395e672e5d9adf685307ce5f98",
-    "f7b4ef30d7109eae5e7ec642782380a0",
-    "87ee5e1f13b196fc359ff922755d3dde",
     "e47338284f66b1583f0ff0a8add481b9",
     "c209953654a600511639a7576b9d3434",
     "31e3796c2ebace9b0be87008b4641202",
@@ -4005,6 +4002,9 @@
     "824a9f8f79d840a284a07dcdcfc18280",
     "6ff5e8cbb00a5e8e1ba494db849f2304",
     "38296b31af849347ed7b4b4dd31a4f7e",
-    "76c4ade2e0084ff46353d6c3a9c539e8"
+    "76c4ade2e0084ff46353d6c3a9c539e8",
+    "27ffbee4d6fd4da32f42a272c5d34cf3",
+    "344a43e064a284a40b9ffee9bac85edc",
+    "dc9f20f401884bea05dad5814f60e185"
   ]
 }
