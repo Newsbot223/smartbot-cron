@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-streiks-2024-zurueckgegangen-102.html",
-    "https://www.deutschlandfunk.de/idea-institut-lage-der-pressefreiheit-weltweit-so-schlecht-wie-seit-50-jahren-nicht-mehr-102.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-charlie-kirk-stammeskrieg-in-usa-fordert-naechstes-opfer-110680517.html",
-    "https://www.deutschlandfunk.de/zivilgesellschaftliches-engagement-in-ostdeutschland-mehr-als-200-projekte-ausgezeichnet-100.html",
     "https://www.deutschlandfunk.de/internationale-medien-darunter-das-deutschlandradio-fordern-von-trump-regierung-verzicht-auf-begrenz-100.html",
     "https://www.deutschlandfunk.de/verurteilter-solingen-attentaeter-legt-revision-ein-100.html",
     "https://www.deutschlandfunk.de/muenchner-philharmoniker-mit-ihrem-israelischen-dirigenten-ausgeladen-weimer-spricht-von-schande-fue-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/weisses-haus-weist-kritik-des-papstes-an-migrationspolitik-zurueck-102.html",
     "https://www.deutschlandfunk.de/kapitaen-eines-schiffs-der-russischen-schattenflotte-bleibt-in-gewahrsam-macron-mahnt-zur-vorsicht-w-100.html",
     "https://www.deutschlandfunk.de/anschlagsvorbereitungen-mutmasslicher-hamas-mitglieder-erster-haftbefehl-in-kraft-100.html",
-    "https://www.deutschlandfunk.de/muelheimer-wahlausschuss-beschliesst-neuauszaehlung-100.html"
+    "https://www.deutschlandfunk.de/muelheimer-wahlausschuss-beschliesst-neuauszaehlung-100.html",
+    "https://www.deutschlandfunk.de/spd-rechtspolitiker-wollen-afd-verbotsverfahren-pruefen-100.html",
+    "https://www.deutschlandfunk.de/bauindustrie-warnt-vor-vernachlaessigung-von-wasserstrassen-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-weiht-deutsch-deutsches-museum-in-moedlareuth-ein-100.html",
+    "https://www.deutschlandfunk.de/verdacht-von-auslaender-raus-rufen-an-polizeischule-100.html"
   ],
   "content_hashes": [
-    "5d8e4f38507967c07bacaaa75f2c69f7",
-    "1ad3c427d58ce05cdf23d68d0e5ce659",
-    "d8b66a81bd980304706497a48061bff8",
-    "d6e3d03e0ea20c44885242b3c51c0a33",
     "e4f585065a712527a3e3ad7e1f2d1082",
     "c155887d077630e9f76c196d42c61d71",
     "0b56dd59d67505e7f6f7f05d9848d4c2",
@@ -2001,13 +1997,13 @@
     "14be6fcf3193bd71dd647f5080357514",
     "d86a0ce94d9c098c07ba24619fca4f6d",
     "4af871e56308976f3193975bb297d5ef",
-    "b4e9e68484b8734dcb2c202b2c0ac98f"
+    "b4e9e68484b8734dcb2c202b2c0ac98f",
+    "2b45d4c43196bd809781d47f53f66464",
+    "ec7a195bb695841b70842506436625ba",
+    "9e98e5c3a310960fca3545b32e2e4f59",
+    "2f2b7085b0336886ca43e1325e6cc00b"
   ],
   "titles": [
-    "Studie - Zahl der Streiks 2024 zurückgegangen",
-    "Untersuchung - Idea-Institut: Lage der Pressefreiheit weltweit so schlecht wie seit 50 Jahren nicht mehr",
-    "Politische Kultur in USA: Das nächste Opfer im Stammeskrieg",
-    "\"Machen\" - Zivilgesellschaftliches Engagement in Ostdeutschland - mehr als 200 Projekte ausgezeichnet",
     "USA - Internationale Medien darunter das Deutschlandradio fordern von Trump-Regierung Verzicht auf Begrenzung von Journalisten-Visa",
     "Nach Höchststrafe - Verurteilter Solingen-Attentäter legt Revision ein",
     "Kultur - Münchner Philharmoniker mit ihrem israelischen Dirigenten ausgeladen - Weimer spricht von \"Schande für Europa\"",
@@ -3003,13 +2999,13 @@
     "USA - Weißes Haus weist Kritik des Papstes an Migrationspolitik zurück",
     "Sicherheit - Kapitän eines Schiffs der russischen Schattenflotte bleibt in Gewahrsam - Macron mahnt zur Vorsicht wegen Drohnen-Spekulationen",
     "Bundesanwaltschaft - Anschlagsvorbereitungen mutmaßlicher Hamas-Mitglieder: Erster Haftbefehl in Kraft",
-    "Nach Panne bei Kommunalwahl - Mülheimer Wahlausschuss beschließt Neuauszählung"
+    "Nach Panne bei Kommunalwahl - Mülheimer Wahlausschuss beschließt Neuauszählung",
+    "Parteiverbot - SPD-Rechtspolitiker wollen AfD-Verbotsverfahren prüfen",
+    "Infrastruktur - Bauindustrie warnt vor Vernachlässigung von Wasserstraßen",
+    "Tag der Deutschen Einheit - Steinmeier weiht Deutsch-Deutsches Museum in Mödlareuth ein",
+    "Sachsen-Anhalt - Verdacht von Ausländer-raus-Rufen an Polizeischule"
   ],
   "hashes": [
-    "66203df81e6a035e52579aca173133c3",
-    "aac430e34dd3df410309401b2035a6e5",
-    "11a5ffeaa97855bb8d3de5aa125776db",
-    "fa55f1c9abe98b64eb804cc0b4f04bd8",
     "208bc086611677728338586af5c7e009",
     "d297b846ddedf99f57198df448faf626",
     "c52bd73036b214306d9e3aa6e28f5a1e",
@@ -4005,6 +4001,10 @@
     "34f2af18f4eaf3d7157bcd47bdaa250d",
     "4895e3f76966a781949f7fe5c954453f",
     "d24ec97d2350cf5ccba744a500839a23",
-    "e74890b9296df61381b4413641971381"
+    "e74890b9296df61381b4413641971381",
+    "7bfad63253f1e63908952ba01502bdee",
+    "45b7b7a5e94991a23dfbd8fe3ba09cd7",
+    "433e06bc4646ac1bb121b41724ea8161",
+    "9a3a57ed48000c211cc31f62b1113c6c"
   ]
 }
