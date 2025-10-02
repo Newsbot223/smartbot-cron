@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wissenschaft/co-speicherung-umweltverbaende-kritisieren-plaene-fuer-deutschland-a-b670429f-ffe8-42b0-85a8-b3201f30a763#ref=rss",
-    "https://www.aljazeera.com/video/featured-documentaries/2025/9/11/germanys-israel-obsession?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischer-hintergrund-fuer-moeglich-110681117.html",
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-unveraendert-sorgen-um-frankreich-100.html",
     "https://www.deutschlandfunk.de/belarus-laesst-52-gefangene-frei-100.html",
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-unveraendert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/haftbefehl-gegen-drei-mutmassliche-hamas-mitglieder-wegen-anschlagsplanungen-in-kraft-gesetzt-100.html",
     "https://www.deutschlandfunk.de/polizei-stuft-anschlag-nahe-synagoge-als-terrorismus-ein-100.html",
     "https://www.deutschlandfunk.de/steinmeier-weiht-deutsch-deutsches-museum-in-moedlareuth-ein-zentrale-feier-in-saarbruecken-100.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aktionsbuendnis-widersetzen-gruendungstreffen-der-afd-jugend-verhindern-110714694.html"
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aktionsbuendnis-widersetzen-gruendungstreffen-der-afd-jugend-verhindern-110714694.html",
+    "https://www.deutschlandfunk.de/im-september-nur-55-3-prozent-der-fernzuege-puenktlich-100.html",
+    "https://www.faz.net/aktuell/rhein-main/frankfurt/stadt-frankfurt-verbietet-pro-palaestina-demonstration-110714625.html",
+    "https://www.faz.net/aktuell/politik/inland/vermoegensverteilung-steuerflucht-ist-fahnenflucht-110707380.html"
   ],
   "content_hashes": [
-    "a06905d471f89957e8bd40e048a6ef3b",
-    "c134d5b968b7446f5f5eeda6b4a8c60a",
-    "0faf241796889667ab47acb919e12bcc",
     "547a90a81122ae148872f4d36778c6fe",
     "9d84ae102574095234992e313975cc24",
     "fa457dc1f24357597abcaf31b6243a3d",
@@ -2001,12 +1998,12 @@
     "cb22d36818ca47e22a1e669f3f244d58",
     "d814715658d1a89fef9d8a924f1de2de",
     "e63b3d40886f17dbf4909fba33bc1e12",
-    "1eb526c55d98d97a526ccc00975d1c55"
+    "1eb526c55d98d97a526ccc00975d1c55",
+    "af6bf486a117fd703b9a4fe676b2984e",
+    "d48e23eede454d1c41ebb345f489c334",
+    "2d3f9f5878daaa17b2169f920c2de702"
   ],
   "titles": [
-    "CO₂-Speicherung: Umweltverbände kritisieren Pläne für Deutschland",
-    "Germany’s Israel Obsession",
-    "Messerangriff in Essen: Reul hält islamistischer Hintergrund für möglich",
     "Zinsentscheidung - EZB lässt Leitzinsen unverändert - Sorgen um Frankreich",
     "Gespräche mit US-Gesandten - Belarus lässt 52 Gefangene frei",
     "Zinsentscheidung - EZB lässt Leitzinsen unverändert",
@@ -3003,12 +3000,12 @@
     "Bundesanwaltschaft - Haftbefehl gegen drei mutmaßliche Hamas-Mitglieder wegen Anschlagsplanungen in Kraft gesetzt",
     "Großbritannien - Polizei stuft Anschlag nahe Synagoge als Terrorismus ein",
     "Tag der Deutschen Einheit - Steinmeier weiht Deutsch-Deutsches Museum in Mödlareuth ein - zentrale Feier in Saarbrücken",
-    "Aktionsbündnis Widersetzen: „Werden Gründungstreffen der AfD-Jugend verhindern“"
+    "Aktionsbündnis Widersetzen: „Werden Gründungstreffen der AfD-Jugend verhindern“",
+    "Deutsche Bahn - Im September nur 55,3 Prozent der Fernzüge pünktlich",
+    "7. Oktober: Stadt Frankfurt verbietet Pro-Palästina-Demonstration",
+    "Vermögensverteilung: Steuerflucht ist Fahnenflucht"
   ],
   "hashes": [
-    "2d5d7f74bfed9eae1bdb3f272ff9ad4a",
-    "f4c9fcb729547cdf42a1845b7a23153a",
-    "173943870f2792da5227718aeab34cbd",
     "f42a7fe295f6d10f18500df838da34b8",
     "9352030b875518e6e54d1a2e7fb7cb29",
     "19c1e78becbed1fa6a3b68e1aa839ec9",
@@ -4005,6 +4002,9 @@
     "4ebbd93cd180f00954b9d3b88a8f28e6",
     "58e0b782321673bb7f8377590d184c22",
     "c64f35954dd138bb9e4927bc3201fe48",
-    "228f5168d573ea2487e92e12c70c20d8"
+    "228f5168d573ea2487e92e12c70c20d8",
+    "6bb2b5799dbb9fb4d087dd8c233328b7",
+    "93a761caa7a239d90ab15db4a0c24f32",
+    "69d59120fc474938805ae0f62c2718dc"
   ]
 }
