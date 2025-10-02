@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stromnetz-auf-kuba-bricht-erneut-zusammen-versorgung-wird-langsam-wiederhergestellt-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/bundesweiter-warntag-am-11-september-2025-wenn-die-sirenen-schrillen-a-61fe47e3-f5cc-48de-8015-79eaf0aac8fc#ref=rss",
     "https://www.deutschlandfunk.de/innenministerium-raeumt-versaeumnisse-bei-anti-kriegs-demo-in-koeln-ein-100.html",
     "https://www.deutschlandfunk.de/polen-beantragt-sitzung-des-uno-sicherheitsrates-102.html",
     "https://www.deutschlandfunk.de/abgeordnete-beraten-ueber-gesetze-zu-pflege-und-kohlendioxid-speicherung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/betrieb-nach-kabelbrand-voruebergehend-unterbrochen-100.html",
     "https://www.deutschlandfunk.de/oezdemir-fordert-republikanisches-jahr-100.html",
     "https://www.deutschlandfunk.de/bahnhof-iserlohn-wegen-giftiger-chemikalie-stundenlang-gesperrt-100.html",
-    "https://www.deutschlandfunk.de/72-tote-nach-erdbeben-fast-300-verletzte-102.html"
+    "https://www.deutschlandfunk.de/72-tote-nach-erdbeben-fast-300-verletzte-102.html",
+    "https://www.deutschlandfunk.de/ruf-nach-passentzug-fuer-doppelstaatler-100.html",
+    "https://www.deutschlandfunk.de/neuer-anlauf-im-us-senat-zur-beendigung-des-shutdown-gescheitert-102.html"
   ],
   "content_hashes": [
-    "c91dd79e0befd9e2fe0435a9188fd852",
-    "8226e44e7dd3dc6f99461c3af993b742",
     "e40f95ec6faa5598ed65de84efc627ae",
     "d4136add4decb62b5bb3c6a68d50be96",
     "5afe4b7d1c7c7fa53cb0e1a0daf3dac8",
@@ -2001,11 +1999,11 @@
     "4262393140fe3057f7af9bccfb0a01e9",
     "af6e04cfb5fb358edc6559a30cc7a4e7",
     "956c963c57907174eeae7a9fb4ffefeb",
-    "4b36541d3236ff60c91360773365fd55"
+    "4b36541d3236ff60c91360773365fd55",
+    "aef66a08be7af6ffb9a56e9e8dcdd631",
+    "2072937fcd1947ddf3bff23636768f8e"
   ],
   "titles": [
-    "Karibikinsel - Stromnetz auf Kuba bricht erneut zusammen - Versorgung wird langsam wiederhergestellt",
-    "Bundesweiter Warntag am 11. September 2025: Wenn die Sirenen schrillen",
     "NRW - Innenministerium räumt Versäumnisse bei Anti-Kriegs-Demo in Köln ein",
     "Nach Drohnen-Vorfall - Polen beantragt Sitzung des UNO-Sicherheitsrates",
     "Bundestag - Abgeordnete beraten über Gesetze zu Pflege und Kohlendioxid-Speicherung",
@@ -3003,11 +3001,11 @@
     "Flughafen Stuttgart - Betrieb nach Kabelbrand vorübergehend unterbrochen",
     "Özdemir fordert \"republikanisches Jahr\"",
     "Feuerwehreinsatz - Bahnhof Iserlohn wegen giftiger Chemikalie stundenlang gesperrt",
-    "Philippinen - 72 Tote nach Erdbeben - fast 300 Verletzte"
+    "Philippinen - 72 Tote nach Erdbeben - fast 300 Verletzte",
+    "Nach Hamas-Festnahmen - Ruf nach Passentzug für Doppelstaatler",
+    "Washington - Neuer Anlauf im US-Senat zur Beendigung des \"Shutdown\" gescheitert"
   ],
   "hashes": [
-    "4e56d2825a022b5c22902d60fe572b59",
-    "823ede1bc23dc7a17cc3dda13da89fb9",
     "d82fd5b60c021e5362e1dc93cb51de83",
     "a7c882fc0df58efb49bcc92830372996",
     "8f78a4355a0c196ef92e5fd219c8adf2",
@@ -4005,6 +4003,8 @@
     "17ff880361a1bbb25b15532f333c9530",
     "a0685d0ac00faa0fa8e70edac39c9bf2",
     "7cbdaa21392e73dbb57ffe476adf5d9e",
-    "396e25cfeaaf38f5ad241dd8f0948051"
+    "396e25cfeaaf38f5ad241dd8f0948051",
+    "c3d4b065c04a4046e62590d62e5a0bd4",
+    "229799f5b8fa79f16df8c9e72f34f713"
   ]
 }
