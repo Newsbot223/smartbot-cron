@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tag-der-wohnungslosen-menschen-informationen-und-interview-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stromausfall-in-berlin-noch-knapp-14-000-haushalte-ohne-strom-accg-110680454.html",
-    "https://www.deutschlandfunk.de/bundestag-genehmigt-durchsuchungen-bei-afd-abgeordnetem-krah-100.html",
-    "https://www.deutschlandfunk.de/europaeischer-gerichtshof-firmen-muessen-eltern-mit-schwerbehinderten-kindern-bei-arbeitszeiten-grun-100.html",
     "https://www.deutschlandfunk.de/abgeordnete-debattieren-ueber-mehr-befugnisse-von-pflegekraeften-100.html",
     "https://www.faz.net/aktuell/politik/inland/afd-bundestag-genehmigt-durchsuchung-bei-maximilian-krah-accg-110680570.html",
     "https://www.deutschlandfunk.de/fernbleiben-von-bundestagssitzungen-soll-fuer-abgeordnete-teurer-werden-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/global-sumud-flotilla-israel-stoppt-schiffe-pro-palaestinensischer-aktivisten-internationale-kritik-102.html",
     "https://www.deutschlandfunk.de/krieg-in-nahost-israel-stoppt-gaza-hilfsflotte-100.html",
     "https://www.faz.net/aktuell/politik/inland/greg-schneider-von-claims-conference-ueber-holocaust-leugnung-accg-110709234.html",
-    "https://www.deutschlandfunk.de/die-peanuts-feiern-75-geburtstag-102.html"
+    "https://www.deutschlandfunk.de/die-peanuts-feiern-75-geburtstag-102.html",
+    "https://www.deutschlandfunk.de/jeder-fuenfte-mensch-in-rente-hat-maximal-1-400-euro-im-monat-zur-verfuegung-100.html",
+    "https://www.deutschlandfunk.de/buerokratiekosten-in-deutschland-sinken-bleiben-aber-auf-hohem-niveau-102.html",
+    "https://www.deutschlandfunk.de/fischsterben-in-der-neretva-forscher-sehen-artenvielfalt-bedroht-102.html",
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-gedenkt-der-hamas-opfer-accg-110713937.html"
   ],
   "content_hashes": [
-    "0e64218e1ed60466681c85b0af2ecc22",
-    "eb33c9eaed431f1da0cc3b4d277b5c51",
-    "4730a30c3cc631366674ca4ff29e3392",
-    "b4b915dfd32a201e7071e17dd5faf3df",
     "e96e218bd8e53ee2030ef051ba3709b0",
     "164e0353cee1da47797a346a668fbae4",
     "e557c3a202c1fb851f74d5396770907a",
@@ -2001,13 +1997,13 @@
     "63221ee36f2657f4b23c1d16e7838d03",
     "e1357e4a7be65ea9a9904fa7385ab03f",
     "e55e0645aadc9ad747274d0b2a63d95b",
-    "1818590b8d4fe9c3ecffac1256b95090"
+    "1818590b8d4fe9c3ecffac1256b95090",
+    "afec2504cd228b297724b26929e8d0bd",
+    "2979177e5d74810b31353cb44d12a104",
+    "185ae8a9d09851597024b3af93e70311",
+    "43d7019c501cdb610c9dd90f87e7871d"
   ],
   "titles": [
-    "Obdachlosigkeit - Mehr Wohnungslose und immer weniger bezahlbarer Wohnraum",
-    "Berlin: Nach Brandanschlag noch Tausende Haushalte ohne Strom",
-    "Immunität aufgehoben - Bundestag genehmigt Durchsuchungen bei AfD-Abgeordnetem Krah",
-    "EU - Europäischer Gerichtshof: Firmen müssen Eltern mit schwerbehinderten Kindern bei Arbeitszeiten grundsätzlich entgegenkommen",
     "Bundestag - Abgeordnete debattieren über mehr Befugnisse von Pflegekräften",
     "Immunität aufgehoben: Bundestag genehmigt Durchsuchungen bei Maximilian Krah",
     "Parlament - Fernbleiben von Bundestagssitzungen soll für Abgeordnete teurer werden",
@@ -3003,13 +2999,13 @@
     "Nahost - \"Global Sumud Flotilla\": Israel stoppt Schiffe pro-palästinensischer Aktivisten - internationale Kritik",
     "Krieg in Nahost - Israel stoppt Boote mit Hilfsgütern für Gaza",
     "Greg Schneider: „Es muss weltweit Holocaust-Bildung an Schulen geben“",
-    "Comics - Die \"Peanuts\" feiern 75. Geburtstag"
+    "Comics - Die \"Peanuts\" feiern 75. Geburtstag",
+    "Statistisches Bundesamt - Jeder fünfte Mensch in Rente hat maximal 1.400 Euro im Monat zur Verfügung",
+    "Jahresbericht des Normenkontrollrats - Bürokratiekosten in Deutschland sinken - bleiben aber auf hohem Niveau",
+    "Bosnien - Fischsterben in der Neretva - Forscher sehen Artenvielfalt bedroht",
+    "Hessischer Landtag: Gedenken an Hamas-Opfer"
   ],
   "hashes": [
-    "e90b725db5c3ac6a2d30bb0f85aa876d",
-    "470cad0927491353d2344ec2ba6ac10e",
-    "0a627c94674497d6b19b8313d4b22ec8",
-    "85f5c2127ac304ef3ea538892968445f",
     "98343c0344578e4d09fd455196e20a8c",
     "4219577379befc8c6e788fa228461ef9",
     "2797131f76cd3f717142e74297b01a77",
@@ -4005,6 +4001,10 @@
     "08101e6012eeeccda00e5c4babd407a4",
     "251f1899a4735eda50d3a199851d117b",
     "397753da77dc933748c73cf7d1969d73",
-    "b2736e2298dc001ef72af762165e56c3"
+    "b2736e2298dc001ef72af762165e56c3",
+    "e131a56d637332ab17daa3b30986249c",
+    "af89d300d155ff9715acba32149517f4",
+    "118a7578e5da77eea21c536efbb0a218",
+    "dbffc71646919f558f63d8f7261962d8"
   ]
 }
