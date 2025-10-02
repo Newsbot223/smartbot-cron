@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kloeckner-mahnt-strenge-regeln-fuer-smartphones-und-sticker-an-accg-110680545.html",
-    "https://www.faz.net/aktuell/politik/inland/urteile-gegen-bjoern-hoecke-wegen-ns-parole-rechtskraeftig-accg-110680610.html",
-    "https://www.faz.net/aktuell/politik/sigrid-emmenegger-fuer-karlsruhe-gute-wahl-110680609.html",
-    "https://www.deutschlandfunk.de/zwei-urteile-gegen-den-afd-politiker-hoecke-wegen-verwendung-von-verbotener-ns-parole-sind-rechtskra-102.html",
-    "https://www.deutschlandfunk.de/britischer-botschafter-in-den-usa-wegen-epstein-kontakt-abberufen-102.html",
     "https://www.deutschlandfunk.de/zahl-der-streiks-2024-zurueckgegangen-102.html",
     "https://www.deutschlandfunk.de/idea-institut-lage-der-pressefreiheit-weltweit-so-schlecht-wie-seit-50-jahren-nicht-mehr-102.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-charlie-kirk-stammeskrieg-in-usa-fordert-naechstes-opfer-110680517.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/einweihung-deutsch-deutsches-museum-in-moedlareuth-mit-bundespraesident-steinmeier-100.html",
     "https://www.deutschlandfunk.de/jeder-fuenfte-mensch-in-rente-hat-mehr-als-2-800-euro-im-monat-zur-verfuegung-100.html",
     "https://www.deutschlandfunk.de/anti-apartheid-aktivistin-ursula-trautwein-gestorben-100.html",
-    "https://www.deutschlandfunk.de/goldene-woche-in-china-beginnt-mit-rekord-reisewelle-100.html"
+    "https://www.deutschlandfunk.de/goldene-woche-in-china-beginnt-mit-rekord-reisewelle-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-angriff-vor-synagoge-in-manchester-100.html",
+    "https://www.deutschlandfunk.de/weisses-haus-weist-kritik-des-papstes-an-migrationspolitik-zurueck-102.html",
+    "https://www.deutschlandfunk.de/kapitaen-eines-schiffs-der-russischen-schattenflotte-bleibt-in-gewahrsam-macron-mahnt-zur-vorsicht-w-100.html",
+    "https://www.deutschlandfunk.de/anschlagsvorbereitungen-mutmasslicher-hamas-mitglieder-erster-haftbefehl-in-kraft-100.html",
+    "https://www.deutschlandfunk.de/muelheimer-wahlausschuss-beschliesst-neuauszaehlung-100.html"
   ],
   "content_hashes": [
-    "7c61d0add53217590daf33e2b6220ee4",
-    "9bf00ce4dcfc165dfcbf4e5ebc598c3e",
-    "9e0fc76a80f51978d95649009040c154",
-    "fac0f190ce6f097c4792256e5c592740",
-    "adcd71aeb88e609d2dda7303627d6683",
     "5d8e4f38507967c07bacaaa75f2c69f7",
     "1ad3c427d58ce05cdf23d68d0e5ce659",
     "d8b66a81bd980304706497a48061bff8",
@@ -2001,14 +1996,14 @@
     "09b6bab54bf9bf2a0ea4ab678059509b",
     "04199285509dd3a1777d0b58521d551c",
     "dca6fe573cc5e6e6f26ff6b018c5e8dc",
-    "848ac49a3f5cd0001417fa4bf4d9b921"
+    "848ac49a3f5cd0001417fa4bf4d9b921",
+    "8abd5930f78087db1983bd80681c7b7b",
+    "14be6fcf3193bd71dd647f5080357514",
+    "d86a0ce94d9c098c07ba24619fca4f6d",
+    "4af871e56308976f3193975bb297d5ef",
+    "b4e9e68484b8734dcb2c202b2c0ac98f"
   ],
   "titles": [
-    "Verhalten im Bundestag: Klöckner mahnt „Zurückhaltung“ bei Smartphone- und Tabletnutzung an",
-    "AfD-Politiker: Urteile gegen Höcke wegen NS-Parole rechtskräftig",
-    "Vorschlag für Karlsruhe: Eine gute Wahl",
-    "Bundesgerichtshof - Zwei Urteile gegen den AfD-Politiker Höcke wegen Verwendung von verbotener NS-Parole sind rechtskräftig",
-    "Diplomatie - Britischer Botschafter in den USA wegen Epstein-Kontakt abberufen",
     "Studie - Zahl der Streiks 2024 zurückgegangen",
     "Untersuchung - Idea-Institut: Lage der Pressefreiheit weltweit so schlecht wie seit 50 Jahren nicht mehr",
     "Politische Kultur in USA: Das nächste Opfer im Stammeskrieg",
@@ -3003,14 +2998,14 @@
     "Tag der Deutschen Einheit - Einweihung Deutsch-Deutsches Museum in Mödlareuth – mit Bundespräsident Steinmeier",
     "Statistisches Bundesamt - Jeder fünfte Mensch in Rente hat mehr als 2.800 Euro im Monat zur Verfügung",
     "Aktivismus - Anti-Apartheid-Aktivistin Ursula Trautwein gestorben",
-    "Internationales - Goldene Woche in China beginnt mit Rekord-Reisewelle"
+    "Internationales - Goldene Woche in China beginnt mit Rekord-Reisewelle",
+    "Großbritannien - Tote und Verletzte nach Angriff vor Synagoge in Manchester",
+    "USA - Weißes Haus weist Kritik des Papstes an Migrationspolitik zurück",
+    "Sicherheit - Kapitän eines Schiffs der russischen Schattenflotte bleibt in Gewahrsam - Macron mahnt zur Vorsicht wegen Drohnen-Spekulationen",
+    "Bundesanwaltschaft - Anschlagsvorbereitungen mutmaßlicher Hamas-Mitglieder: Erster Haftbefehl in Kraft",
+    "Nach Panne bei Kommunalwahl - Mülheimer Wahlausschuss beschließt Neuauszählung"
   ],
   "hashes": [
-    "8a29db0aa69ab9ab040e3ac13869dc82",
-    "d8bd061e65a6eb7d3938019c00eed21e",
-    "292c635cfec4194b9806c78155824b32",
-    "db64b141d6e3f89bc894e86ae964eeac",
-    "06b7359474fa600dde2eb6ef1209240d",
     "66203df81e6a035e52579aca173133c3",
     "aac430e34dd3df410309401b2035a6e5",
     "11a5ffeaa97855bb8d3de5aa125776db",
@@ -4005,6 +4000,11 @@
     "3368fbca0d6c9775f0a8f5408c3391ec",
     "98e128e890072e6b16f6231b5db87caa",
     "108e8bdfc4a30e93b1c29445f5bfab4e",
-    "61ae94d4cccc76896b079a591f1a1117"
+    "61ae94d4cccc76896b079a591f1a1117",
+    "e5ce25dfe7326fc2f171db4f15d08cf8",
+    "34f2af18f4eaf3d7157bcd47bdaa250d",
+    "4895e3f76966a781949f7fe5c954453f",
+    "d24ec97d2350cf5ccba744a500839a23",
+    "e74890b9296df61381b4413641971381"
   ]
 }
