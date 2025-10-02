@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-bahn-wird-zentrales-versprechen-bei-grossen-baustellen-offenbar-nicht-einhalten-koennen-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-in-deutschland-im-juni-auf-zehn-jahres-hoch-100.html",
-    "https://www.deutschlandfunk.de/polen-schraenkt-flugverkehr-an-seiner-ostgrenze-ein-100.html",
-    "https://www.deutschlandfunk.de/krankenkassen-pruefen-10-milliarden-euro-klage-gegen-bund-wegen-systematischer-unterfinfanzierung-100.html",
     "https://www.deutschlandfunk.de/ein-viertel-der-bevoelkerung-nutzt-ki-zur-selbstdiagnose-bei-krankheiten-geteilte-meinung-zu-chancen-100.html",
     "https://www.deutschlandfunk.de/tag-der-wohnungslosen-menschen-informationen-und-interview-100.html",
     "https://www.faz.net/aktuell/politik/inland/stromausfall-in-berlin-noch-knapp-14-000-haushalte-ohne-strom-accg-110680454.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bis-2040-fehlen-tausende-hausaerzte-vor-allem-auf-dem-land-100.html",
     "https://www.deutschlandfunk.de/weiterhin-grosses-interesse-an-persoenlicher-einsicht-100.html",
     "https://www.deutschlandfunk.de/suedkoreas-praesident-lee-bittet-um-entschuldigung-fuer-jahrzehntelange-missstaende-bei-auslandsadop-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-menschen-nach-erdbeben-vor-einem-monat-dringend-auf-hilfe-und-angemessene-unterkuenfte--100.html"
+    "https://www.deutschlandfunk.de/zehntausende-menschen-nach-erdbeben-vor-einem-monat-dringend-auf-hilfe-und-angemessene-unterkuenfte--100.html",
+    "https://www.deutschlandfunk.de/wert-von-us-unternehmen-openai-steigt-auf-500-milliarden-dollar-100.html",
+    "https://www.deutschlandfunk.de/global-sumud-flotilla-israel-stoppt-schiffe-pro-palaestinensischer-aktivisten-internationale-kritik-102.html",
+    "https://www.deutschlandfunk.de/krieg-in-nahost-israel-stoppt-gaza-hilfsflotte-100.html",
+    "https://www.faz.net/aktuell/politik/inland/greg-schneider-von-claims-conference-ueber-holocaust-leugnung-accg-110709234.html"
   ],
   "content_hashes": [
-    "9610a3d6875c82b64d5fe3148d007962",
-    "db048da85fd2961d594fc4cc15b2613d",
-    "9ed854cd02855ff786f744ed09569173",
-    "52eb4e9841d849cddf976f2f19e58b8f",
     "272a3a81a52139373a36410e50083169",
     "0e64218e1ed60466681c85b0af2ecc22",
     "eb33c9eaed431f1da0cc3b4d277b5c51",
@@ -2001,13 +1997,13 @@
     "73a2572ee1c12ecebb950b58818f05c8",
     "a4b14037b609cee2916551990016d2f3",
     "c6200fdd03c6c4617349fbb55f37c9da",
-    "f64e2770ebaf8237c2c0b76999323696"
+    "f64e2770ebaf8237c2c0b76999323696",
+    "7c0625adce6a10f78ec9c970435c4f24",
+    "63221ee36f2657f4b23c1d16e7838d03",
+    "e1357e4a7be65ea9a9904fa7385ab03f",
+    "e55e0645aadc9ad747274d0b2a63d95b"
   ],
   "titles": [
-    "Medienbericht - Deutsche Bahn wird zentrales Versprechen bei großen Baustellen offenbar nicht einhalten können",
-    "Wirtschaft - Zahl der Firmenpleiten in Deutschland im Juni auf Zehn-Jahres-Hoch",
-    "Nach Drohnen-Vorfall - Polen schränkt Flugverkehr an seiner Ostgrenze ein",
-    "GKV-Spitzenverband - Krankenkassen prüfen 10-Milliarden-Euro-Klage gegen Bund wegen \"systematischer Unterfinfanzierung\"",
     "Künstliche Intelligenz - Ein Viertel der Bevölkerung nutzt KI zur Selbstdiagnose bei Krankheiten - geteilte Meinung zu Chancen und Risiken",
     "Obdachlosigkeit - Mehr Wohnungslose und immer weniger bezahlbarer Wohnraum",
     "Berlin: Nach Brandanschlag noch Tausende Haushalte ohne Strom",
@@ -3003,13 +2999,13 @@
     "Studie - Bis 2040 fehlen Tausende Hausärzte - vor allem auf dem Land",
     "Stasi-Akten - Weiterhin großes Interesse an persönlicher Einsicht",
     "Asien - Südkoreas Präsident Lee bittet um Entschuldigung für jahrzehntelange Missstände bei Auslandsadoptionen",
-    "Afghanistan - Zehntausende Menschen nach Erdbeben vor einem Monat dringend auf Hilfe und angemessene Unterkünfte angewiesen"
+    "Afghanistan - Zehntausende Menschen nach Erdbeben vor einem Monat dringend auf Hilfe und angemessene Unterkünfte angewiesen",
+    "Künstliche Intelligenz - Wert von US-Unternehmen OpenAI steigt auf 500 Milliarden Dollar",
+    "Nahost - \"Global Sumud Flotilla\": Israel stoppt Schiffe pro-palästinensischer Aktivisten - internationale Kritik",
+    "Krieg in Nahost - Israel stoppt Boote mit Hilfsgütern für Gaza",
+    "Greg Schneider: „Es muss weltweit Holocaust-Bildung an Schulen geben“"
   ],
   "hashes": [
-    "fd33cffff41b60fa069a895627092853",
-    "0d9dd39fd7f6563913a30048fe7cedf8",
-    "1f15c8d42c2e7198c377ff3dcda8d26e",
-    "641d61f2ca627017ae5cbf6adada10fe",
     "5888fed6a9ce8481cd2e7e3f2b36ff1e",
     "e90b725db5c3ac6a2d30bb0f85aa876d",
     "470cad0927491353d2344ec2ba6ac10e",
@@ -4005,6 +4001,10 @@
     "1059e32eec5df60302178c4b4017171a",
     "f8d484f4d3b38c8629782ce04710886d",
     "7215545e3dd70c65674e989827315bfe",
-    "d29a688cc9675f000ef2ea164957c481"
+    "d29a688cc9675f000ef2ea164957c481",
+    "1e30ba614f015daa66cce1c6415e32eb",
+    "08101e6012eeeccda00e5c4babd407a4",
+    "251f1899a4735eda50d3a199851d117b",
+    "397753da77dc933748c73cf7d1969d73"
   ]
 }
