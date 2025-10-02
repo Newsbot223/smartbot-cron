@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/internationale-medien-darunter-das-deutschlandradio-fordern-von-trump-regierung-verzicht-auf-begrenz-100.html",
-    "https://www.deutschlandfunk.de/verurteilter-solingen-attentaeter-legt-revision-ein-100.html",
-    "https://www.deutschlandfunk.de/muenchner-philharmoniker-mit-ihrem-israelischen-dirigenten-ausgeladen-weimer-spricht-von-schande-fue-100.html",
-    "https://www.deutschlandfunk.de/neue-misstrauensantraege-gegen-eu-kommission-102.html",
     "https://www.deutschlandfunk.de/krankenkassen-pruefen-10-milliarden-euro-klage-gegen-bund-wegen-systematischer-unterfinanzierung-100.html",
     "https://www.deutschlandfunk.de/lehrerin-seit-16-jahren-krankgeschrieben-nrw-schulministerin-feller-spricht-von-einzelfall-und-macht-100.html",
     "https://www.faz.net/aktuell/politik/inland/kandidatin-fuer-das-bundesverfassungsgericht-emmenegger-sigrid-wer-accg-110680900.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/spd-rechtspolitiker-wollen-afd-verbotsverfahren-pruefen-100.html",
     "https://www.deutschlandfunk.de/bauindustrie-warnt-vor-vernachlaessigung-von-wasserstrassen-100.html",
     "https://www.deutschlandfunk.de/steinmeier-weiht-deutsch-deutsches-museum-in-moedlareuth-ein-100.html",
-    "https://www.deutschlandfunk.de/verdacht-von-auslaender-raus-rufen-an-polizeischule-100.html"
+    "https://www.deutschlandfunk.de/verdacht-von-auslaender-raus-rufen-an-polizeischule-100.html",
+    "https://www.deutschlandfunk.de/zwei-tote-und-verletzte-nach-angriff-vor-synagoge-in-manchester-100.html",
+    "https://www.deutschlandfunk.de/zehntausende-protestieren-gegen-sparplaene-der-regierung-100.html",
+    "https://www.deutschlandfunk.de/arme-menschen-beklagen-sozialen-ausschluss-100.html",
+    "https://www.deutschlandfunk.de/wie-gross-ist-die-terrorgefahr-interv-sicherheitsexperte-hans-jakob-schindler-100.html"
   ],
   "content_hashes": [
-    "e4f585065a712527a3e3ad7e1f2d1082",
-    "c155887d077630e9f76c196d42c61d71",
-    "0b56dd59d67505e7f6f7f05d9848d4c2",
-    "81487599064a367cd60ed26230da0aa2",
     "d0536bcf5f9ab13a504d00a037b93dc3",
     "4ee1c93ec744d30c01fd6d3858610ae1",
     "ee37bdb3f330f48b7cb082ccd29539e9",
@@ -2001,13 +1997,13 @@
     "2b45d4c43196bd809781d47f53f66464",
     "ec7a195bb695841b70842506436625ba",
     "9e98e5c3a310960fca3545b32e2e4f59",
-    "2f2b7085b0336886ca43e1325e6cc00b"
+    "2f2b7085b0336886ca43e1325e6cc00b",
+    "ae9833dcd4da05db4786488e187a7312",
+    "7e37fa9cc8e1994b1a3f9fb3d5700ae1",
+    "3156d96574d682aad646e67613bed779",
+    "e361f44a1a18437a8c4af4b7e60bb2a8"
   ],
   "titles": [
-    "USA - Internationale Medien darunter das Deutschlandradio fordern von Trump-Regierung Verzicht auf Begrenzung von Journalisten-Visa",
-    "Nach Höchststrafe - Verurteilter Solingen-Attentäter legt Revision ein",
-    "Kultur - Münchner Philharmoniker mit ihrem israelischen Dirigenten ausgeladen - Weimer spricht von \"Schande für Europa\"",
-    "Europaparlament - Neue Misstrauensanträge gegen EU-Kommission",
     "GKV-Spitzenverband - Krankenkassen prüfen 10-Milliarden-Euro-Klage gegen Bund wegen \"systematischer Unterfinanzierung\"",
     "Bildung - Lehrerin seit 16 Jahren krankgeschrieben - NRW-Schulministerin Feller spricht von Einzelfall und macht im Landtag der Pädagogin schwere Vorwürfe",
     "Kandidatin Emmenegger: Sigrid, wer?",
@@ -3003,13 +2999,13 @@
     "Parteiverbot - SPD-Rechtspolitiker wollen AfD-Verbotsverfahren prüfen",
     "Infrastruktur - Bauindustrie warnt vor Vernachlässigung von Wasserstraßen",
     "Tag der Deutschen Einheit - Steinmeier weiht Deutsch-Deutsches Museum in Mödlareuth ein",
-    "Sachsen-Anhalt - Verdacht von Ausländer-raus-Rufen an Polizeischule"
+    "Sachsen-Anhalt - Verdacht von Ausländer-raus-Rufen an Polizeischule",
+    "Großbritannien - Zwei Tote und Verletzte nach Angriff vor Synagoge in Manchester",
+    "Frankreich - Zehntausende protestieren gegen Sparpläne der Regierung",
+    "Regierungsbericht - Arme Menschen beklagen sozialen Ausschluss",
+    "Terrorabwehr - Sicherheitsexperte: Behörden bei Überwachung stark eingeschränkt"
   ],
   "hashes": [
-    "208bc086611677728338586af5c7e009",
-    "d297b846ddedf99f57198df448faf626",
-    "c52bd73036b214306d9e3aa6e28f5a1e",
-    "768e89e9e5b05c61fff5409934973320",
     "a86981395e672e5d9adf685307ce5f98",
     "f7b4ef30d7109eae5e7ec642782380a0",
     "87ee5e1f13b196fc359ff922755d3dde",
@@ -4005,6 +4001,10 @@
     "7bfad63253f1e63908952ba01502bdee",
     "45b7b7a5e94991a23dfbd8fe3ba09cd7",
     "433e06bc4646ac1bb121b41724ea8161",
-    "9a3a57ed48000c211cc31f62b1113c6c"
+    "9a3a57ed48000c211cc31f62b1113c6c",
+    "824a9f8f79d840a284a07dcdcfc18280",
+    "6ff5e8cbb00a5e8e1ba494db849f2304",
+    "38296b31af849347ed7b4b4dd31a4f7e",
+    "76c4ade2e0084ff46353d6c3a9c539e8"
   ]
 }
