@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/9/11/south-sudan-charges-vp-machar-with-treason-murder-over-military-attack?traffic_source=rss",
-    "https://www.deutschlandfunk.de/suedsudans-vizepraesident-des-hochverrats-angeklagt-100.html",
     "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischen-hintergrund-fuer-moeglich-110681117.html",
     "https://www.faz.net/aktuell/politik/inland/neuer-bnd-chef-was-friedrich-merz-von-martin-jaeger-erwartet-110681459.html",
     "https://www.deutschlandfunk.de/medien-bundesregierung-unterstuetzt-erklaerung-fuer-zwei-staaten-loesung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-100.html",
     "https://www.deutschlandfunk.de/putin-warnt-usa-vor-tomahawk-lieferung-102.html",
     "https://www.deutschlandfunk.de/muehen-der-wiedervereinigung-haben-sich-gelohnt-102.html",
-    "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html"
+    "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html",
+    "https://www.deutschlandfunk.de/spahn-fuer-sofortigen-aufbau-von-abwehr-102.html",
+    "https://www.deutschlandfunk.de/israels-militaer-drei-hisbollah-mitglieder-getoetet-100.html"
   ],
   "content_hashes": [
-    "449760c9e81c05cee01141f2e243e62d",
-    "ee03a9fce9a39d73f687181c1b490345",
     "7a974f4244603164b2fa192b5ca0f485",
     "013dcc439d7434da84a091ef6d86dcc4",
     "b8efa32d0af5afe237af0e15831ee71a",
@@ -2001,11 +1999,11 @@
     "d3e26eefa36bbec6a6b5c907359ccf15",
     "9f304490b4792e01c1a68c7bb114fce2",
     "cfb3a7d1d6d4248a2563012032535a3a",
-    "192322be7eb9be548d37f5b32d1aee4b"
+    "192322be7eb9be548d37f5b32d1aee4b",
+    "0d92da1dc5f1a6cce77dcee6e7b3aff4",
+    "6202ee86ec391fb85f9df8582ab0e366"
   ],
   "titles": [
-    "South Sudan charges VP Machar with treason, murder over military attack",
-    "Ostafrika - Südsudans Vizepräsident des Hochverrats angeklagt",
     "Messerangriff in Essen: Reul hält islamistischen Hintergrund für möglich",
     "Neuer BND-Chef Jäger: „Werden unsere Gegner konfrontieren, wo immer dies nötig ist“",
     "Nahost-Konflikt - Medien: Bundesregierung unterstützt Erklärung für Zwei-Staaten-Lösung",
@@ -3003,11 +3001,11 @@
     "Drohnensichtungen - Ausfälle am Flughafen München",
     "Krieg gegen die Ukraine - Putin warnt USA vor Tomahawk-Lieferung",
     "SED-Opferbeauftragte - \"Mühen der Wiedervereinigung haben sich gelohnt\"",
-    "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\""
+    "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\"",
+    "Bedrohung durch Drohnen - Spahn für sofortigen Aufbau von Abwehr",
+    "Süd-Libanon - Israels Militär: \"Drei Hisbollah-Mitglieder getötet\""
   ],
   "hashes": [
-    "7f34712f1553e1d4dc283f8e873731b5",
-    "c82108715e5310b285d9475237505361",
     "1cf4c5f4a9f18ebea9c49db503bb9a0a",
     "9e0dbec21b34e083e627ed3f30be3c69",
     "ae6a6553b2560e38a4d2fd327a983076",
@@ -4005,6 +4003,8 @@
     "237dcf2480275235554e8c4b92f8fd0b",
     "82b91b37f891ab477e4d4ed3bcf5c407",
     "9b4bc10be82450b026002fac466e0be3",
-    "15f338588de362131332304ca4882754"
+    "15f338588de362131332304ca4882754",
+    "cc9c4b1ecaa95deb09c6a756b0ff19aa",
+    "3a7d15c95eefce33020dfb8a4c3dd595"
   ]
 }
