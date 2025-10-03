@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-bekraeftigt-vorschlag-eines-sozialen-pflichtdienstes-100.html",
     "https://www.deutschlandfunk.de/bundestag-diskutiert-ueber-bundeshilfen-fuer-laender-und-kommunen-klingbeil-raeumen-investitionsstau-100.html",
     "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-setzt-kommission-fuer-reform-der-gesetzlichen-krankenversicherung-100.html",
     "https://www.deutschlandfunk.de/belgiens-premier-de-wever-nennt-auftrittsverbot-fuer-israelischen-dirigenten-der-muenchner-philharmo-100.html",
@@ -996,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-verbietet-ewigkeitschemikalien-in-feuerloeschschaum-100.html",
     "https://www.deutschlandfunk.de/dobrindt-kuendigt-entwurf-fuer-ein-neues-luftsicherheitsgesetz-an-102.html",
     "https://www.deutschlandfunk.de/regierung-zahl-der-toten-durch-taifun-bualoi-auf-mehr-als-50-gestiegen-102.html",
+    "https://www.deutschlandfunk.de/hamas-stimmt-teilen-von-trumps-gaza-plan-zu-102.html",
     "https://www.deutschlandfunk.de/franzoesischer-fotograf-bei-drohnenangriff-getoetet-102.html",
     "https://www.deutschlandfunk.de/kanzler-merz-kuendigt-haertere-auseinandersetzung-mit-der-afd-an-100.html",
     "https://www.faz.net/aktuell/politik/ausland/sanktionen-gegen-iran-europas-stumpfes-schwert-110716026.html",
     "https://www.faz.net/aktuell/politik/inland/ein-liebesgruss-aus-moskau-zum-tag-der-deutschen-einheit-110715759.html"
   ],
   "content_hashes": [
-    "c0ad1948d8231779ae614a6251a0804b",
     "326555f88d42da6b122330fdbe31230b",
     "2b53a35dd21bb987879912575233aa99",
     "3117a9c80dc289872c5f473e93f6878d",
@@ -1998,13 +1997,13 @@
     "5bd1966f97878bb0f52efa93e2681de2",
     "9e3f041250dc3f15894f53b1c55fd364",
     "8ac03cd2d90f5869a5da11442b335ede",
+    "dafb46b0da89d2cf75a101dc9c18632a",
     "d54563f01b5fa20d6ee610196da74bba",
     "997a883cdb3eea2e5c1246d157595601",
     "f38a04e76536c2b871ad70245065802e",
     "5926e903ba792410dde3de10eda518e7"
   ],
   "titles": [
-    "Gesellschaftliches Engagement - Steinmeier bekräftigt Vorschlag eines sozialen Pflichtdienstes",
     "Infrastruktur - Bundestag diskutiert über Bundeshilfen für Länder und Kommunen - Klingbeil: räumen Investitionsstau beiseite - Kritik der Opposition",
     "Finanzierungslücke - Bundesgesundheitsministerin Warken setzt Kommission für Reform der gesetzlichen Krankenversicherung ein",
     "Lahav Shani - Belgiens Premier De Wever nennt Auftrittsverbot für israelischen Dirigenten der Münchner Philharmoniker \"unverantwortlich\"",
@@ -3000,13 +2999,13 @@
     "Gesundheit und Umwelt - EU verbietet \"Ewigkeitschemikalien\" in Feuerlöschschaum",
     "Drohnenabwehr durch Bundeswehr - Dobrindt kündigt Entwurf für ein neues Luftsicherheitsgesetz an",
     "Vietnam - Regierung: Zahl der Toten durch Taifun \"Bualoi\" auf mehr als 50 gestiegen",
+    "Nahost - Hamas stimmt Teilen von Trumps Gaza-Plan zu",
     "Russischer Angriffskrieg gegen die Ukraine - Französischer Fotograf bei Drohnenangriff getötet",
     "CDU - Kanzler Merz kündigt härtere Auseinandersetzung mit der AfD an",
     "Sanktionen gegen Iran: Europas stumpfes Schwert",
     "Drohne über Münchner Flughafen: Ein Liebesgruß aus Moskau zum Tag der Deutschen Einheit?"
   ],
   "hashes": [
-    "e276d4a8f87b913555eabae5a2f2891c",
     "71175217b6266f4c70838796ae21adb5",
     "70bb306f61a85e4606546f42f3bbe22c",
     "01a912a1e23d4413c9bde74fad4d0c3b",
@@ -4002,6 +4001,7 @@
     "d0deccb0e8f9fddb91c9dd93226c7c5a",
     "af3ce8eccce66833616f0fc45f1df357",
     "03adfe68ac9197bc98cafe7ebfd91a4b",
+    "3986d90f113305637cb94512746b780b",
     "6fd2896b20d3eba219120883d2304bb2",
     "52bd23e185e00e528048b5c5c4402909",
     "40e920eb534afb39520208c7d263b4b8",
