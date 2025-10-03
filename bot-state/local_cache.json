@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-klimaforscherin-und-rostschutzunternehmen-104.html",
     "https://www.deutschlandfunk.de/sapad-2025-belarus-und-russland-halten-militaermanoever-ab-100.html",
     "https://www.deutschlandfunk.de/ausladung-von-muenchner-philharmonikern-cdu-europapolitikerin-bentele-sieht-eine-ganz-besorgniserreg-102.html",
     "https://www.deutschlandfunk.de/audi-chef-doellner-debatte-um-verbrenner-aus-kontraproduktiv-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/ukraine-meldet-schwere-angriffe-auf-gasanlagen-100.html",
     "https://www.deutschlandfunk.de/werteunion-chef-maassen-will-sein-amt-niederlegen-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/alarm-am-flughafen-muenchen-politik-draengt-auf-zentrale-drohnenabwehr-accg-110715565.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html"
+    "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html",
+    "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html"
   ],
   "content_hashes": [
-    "ef3d30ac9656e65abc34a7ab1b4ca427",
     "19fa2867edb31c0405f71cb7ced97c88",
     "b29415c5c34f654cdc0bd9b2804ea3b4",
     "a47d7dae6d981d44325a76c229ffdad7",
@@ -2001,10 +2000,10 @@
     "864a4a5d127d64e262159096059e8593",
     "7da3d55fcb3c4b70f354842468bbe0ea",
     "78d0f2550e768fe0fb40dda318ab30e1",
-    "8cad4b2be25ad10162817e1a294441f1"
+    "8cad4b2be25ad10162817e1a294441f1",
+    "0a08247ab7ed9d36f1eb04ae99b70ed6"
   ],
   "titles": [
-    "Auszeichnung - Deutscher Umweltpreis für Klimaforscherin und Rostschutzunternehmen",
     "In der Nähe zu EU und NATO - Sapad 2025: Belarus und Russland halten Militärmanöver ab",
     "Ghent - Ausladung von Münchner Philharmonikern: CDU-Europapolitikerin Bentele sieht \"eine ganz besorgniserregende Tendenz\"",
     "Autoindustrie - Audi-Chef Döllner: Debatte um Verbrenner-Aus \"kontraproduktiv\"",
@@ -3003,10 +3002,10 @@
     "Russischer Angriffskrieg - Ukraine meldet schwere Angriffe auf Gasanlagen",
     "Machtkampf in rechter Kleinpartei - Werteunion-Chef Maaßen will sein Amt niederlegen",
     "Schutz von Flughäfen: Deutschland hat großen Nachholbedarf bei Drohnenabwehr",
-    "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?"
+    "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?",
+    "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend"
   ],
   "hashes": [
-    "39c8b62583c42cc83c3b57f4756bb86d",
     "97b8f93fe657aaa85370b4f4822728a9",
     "7ac8dd464bbe748a08de31acf2d3308b",
     "9408805c20ae09ab4647f159a5afbb98",
@@ -4005,6 +4004,7 @@
     "3807d8ce2c361b620f233a4cd265e773",
     "960570290371ac305cac8bcee309d9d6",
     "b64566e925cb4765dd275f0501c18f38",
-    "59ef287bc9c2e3ad1940268af3838f90"
+    "59ef287bc9c2e3ad1940268af3838f90",
+    "190eee75af70f109bf249b35113ad945"
   ]
 }
