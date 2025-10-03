@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/teilnehmer-von-potsdamer-treffen-bestaetigt-remigrationsplaene-110681458.html",
-    "https://www.faz.net/aktuell/politik/inland/ddr-moped-wie-die-simson-den-kulturkampf-in-thueringen-praegt-110681358.html",
-    "https://www.deutschlandfunk.de/muenchner-philharmoniker-mit-israelischem-dirigenten-ausgeladen-weimer-spricht-von-schande-fuer-euro-100.html",
-    "https://www.deutschlandfunk.de/britischer-botschafter-in-den-usa-wegen-kontakt-zu-sexualstraftaeter-epstein-abberufen-100.html",
     "https://www.aljazeera.com/news/2025/9/11/south-sudan-charges-vp-machar-with-treason-murder-over-military-attack?traffic_source=rss",
     "https://www.deutschlandfunk.de/suedsudans-vizepraesident-des-hochverrats-angeklagt-100.html",
     "https://www.faz.net/aktuell/politik/inland/messerangriff-in-essen-reul-haelt-islamistischen-hintergrund-fuer-moeglich-110681117.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/indien-und-china-nehmen-wieder-flugverbindungen-zwischen-ihren-laendern-auf-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/2/are-europe-and-russia-moving-closer-to-conflict-over-ukraine?traffic_source=rss",
     "https://www.deutschlandfunk.de/israel-bringt-pro-palaestinensische-aktivisten-an-land-102.html",
-    "https://www.deutschlandfunk.de/ex-ministerpraesident-babis-will-zurueck-an-die-macht-ukraine-unterstuetzung-auf-der-kippe-100.html"
+    "https://www.deutschlandfunk.de/ex-ministerpraesident-babis-will-zurueck-an-die-macht-ukraine-unterstuetzung-auf-der-kippe-100.html",
+    "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-100.html",
+    "https://www.deutschlandfunk.de/putin-warnt-usa-vor-tomahawk-lieferung-102.html",
+    "https://www.deutschlandfunk.de/muehen-der-wiedervereinigung-haben-sich-gelohnt-102.html",
+    "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html"
   ],
   "content_hashes": [
-    "f65462e3b20c77bd5025d9c47abe0c5b",
-    "f8c396a404000a60489f1d017e423d77",
-    "98a7e256d1868d7912cef27922ed7d60",
-    "5f8e9e7298d3cf771980c78a2cb495cb",
     "449760c9e81c05cee01141f2e243e62d",
     "ee03a9fce9a39d73f687181c1b490345",
     "7a974f4244603164b2fa192b5ca0f485",
@@ -2001,13 +1997,13 @@
     "96edc8a3c0ac308124d83750cf670cdb",
     "8727922d2d59a823081ceb87edec8610",
     "516837dd7044c9e89824aeb00f909640",
-    "b74ef23170c827d581258535361eb451"
+    "b74ef23170c827d581258535361eb451",
+    "d3e26eefa36bbec6a6b5c907359ccf15",
+    "9f304490b4792e01c1a68c7bb114fce2",
+    "cfb3a7d1d6d4248a2563012032535a3a",
+    "192322be7eb9be548d37f5b32d1aee4b"
   ],
   "titles": [
-    "Remigrationspläne: Kritik an sachsen-anhaltischem AfD-Spitzenkandidat Siegmund",
-    "„Freiheit auf Rädern“: Wie ein DDR-Moped den Kulturkampf in Thüringen prägt",
-    "Kultur - Münchner Philharmoniker mit israelischem Dirigenten ausgeladen - Weimer spricht von \"Schande für Europa\"",
-    "Diplomatie - Britischer Botschafter in den USA wegen Kontakt zu Sexualstraftäter Epstein abberufen",
     "South Sudan charges VP Machar with treason, murder over military attack",
     "Ostafrika - Südsudans Vizepräsident des Hochverrats angeklagt",
     "Messerangriff in Essen: Reul hält islamistischen Hintergrund für möglich",
@@ -3003,13 +2999,13 @@
     "Asien - Indien und China nehmen wieder Flugverbindungen zwischen ihren Ländern auf",
     "Are Europe and Russia moving closer to conflict over Ukraine?",
     "\"Global Sumud Flotilla\" - Israel bringt pro-palästinensische Aktivisten an Land",
-    "Parlamentswahl in Tschechien - Ex-Ministerpräsident Babis will zurück an die Macht - Ukraine-Unterstützung auf der Kippe"
+    "Parlamentswahl in Tschechien - Ex-Ministerpräsident Babis will zurück an die Macht - Ukraine-Unterstützung auf der Kippe",
+    "Drohnensichtungen - Ausfälle am Flughafen München",
+    "Krieg gegen die Ukraine - Putin warnt USA vor Tomahawk-Lieferung",
+    "SED-Opferbeauftragte - \"Mühen der Wiedervereinigung haben sich gelohnt\"",
+    "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\""
   ],
   "hashes": [
-    "35b373638d078e4972dcb68728b92822",
-    "65381eedda51579f5364a997d90b356e",
-    "b2e115f1aac958858841c528e6d3ef32",
-    "b8ef63dc18d03f5a7b427ea61a9e808c",
     "7f34712f1553e1d4dc283f8e873731b5",
     "c82108715e5310b285d9475237505361",
     "1cf4c5f4a9f18ebea9c49db503bb9a0a",
@@ -4005,6 +4001,10 @@
     "9f329157ccb0e95f3fa65d61b7e0abc8",
     "ffa6df6dc84bd63e7cf273e40b74713a",
     "76d73adb2d1f20a5590b5bdbdaa4cf45",
-    "43af68cb4e6df6bc5cf5709a22fa4a64"
+    "43af68cb4e6df6bc5cf5709a22fa4a64",
+    "237dcf2480275235554e8c4b92f8fd0b",
+    "82b91b37f891ab477e4d4ed3bcf5c407",
+    "9b4bc10be82450b026002fac466e0be3",
+    "15f338588de362131332304ca4882754"
   ]
 }
