@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sapad-2025-belarus-und-russland-halten-militaermanoever-ab-100.html",
-    "https://www.deutschlandfunk.de/ausladung-von-muenchner-philharmonikern-cdu-europapolitikerin-bentele-sieht-eine-ganz-besorgniserreg-102.html",
     "https://www.deutschlandfunk.de/audi-chef-doellner-debatte-um-verbrenner-aus-kontraproduktiv-100.html",
     "https://www.aljazeera.com/news/2025/9/12/russia-ukraine-war-list-of-key-events-day-1296?traffic_source=rss",
     "https://www.deutschlandfunk.de/thueringens-fdp-landeschef-kemmerich-tritt-aus-der-partei-aus-haben-uns-auseinanderentwickelt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/werteunion-chef-maassen-will-sein-amt-niederlegen-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/alarm-am-flughafen-muenchen-politik-draengt-auf-zentrale-drohnenabwehr-accg-110715565.html",
     "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html",
-    "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html"
+    "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html",
+    "https://www.deutschlandfunk.de/eu-verbietet-ewigkeitschemikalien-in-feuerloeschschaum-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ein-liebesgruss-aus-moskau-zum-tag-der-deutschen-einheit-110715759.html"
   ],
   "content_hashes": [
-    "19fa2867edb31c0405f71cb7ced97c88",
-    "b29415c5c34f654cdc0bd9b2804ea3b4",
     "a47d7dae6d981d44325a76c229ffdad7",
     "1a62fbb5716cf5d96943b741474e4c45",
     "fe7239c57ea56cbe6209200d97d99a82",
@@ -2001,11 +1999,11 @@
     "7da3d55fcb3c4b70f354842468bbe0ea",
     "78d0f2550e768fe0fb40dda318ab30e1",
     "8cad4b2be25ad10162817e1a294441f1",
-    "0a08247ab7ed9d36f1eb04ae99b70ed6"
+    "0a08247ab7ed9d36f1eb04ae99b70ed6",
+    "5889fa368164fef518549dcacd1f8e0d",
+    "5926e903ba792410dde3de10eda518e7"
   ],
   "titles": [
-    "In der Nähe zu EU und NATO - Sapad 2025: Belarus und Russland halten Militärmanöver ab",
-    "Ghent - Ausladung von Münchner Philharmonikern: CDU-Europapolitikerin Bentele sieht \"eine ganz besorgniserregende Tendenz\"",
     "Autoindustrie - Audi-Chef Döllner: Debatte um Verbrenner-Aus \"kontraproduktiv\"",
     "Russia-Ukraine war: List of key events, day 1,296",
     "Liberale - Thüringens FDP-Landeschef Kemmerich tritt aus der Partei aus: \"Haben uns auseinanderentwickelt\"",
@@ -3003,11 +3001,11 @@
     "Machtkampf in rechter Kleinpartei - Werteunion-Chef Maaßen will sein Amt niederlegen",
     "Schutz von Flughäfen: Deutschland hat großen Nachholbedarf bei Drohnenabwehr",
     "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?",
-    "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend"
+    "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend",
+    "Gesundheit und Umwelt - EU verbietet \"Ewigkeitschemikalien\" in Feuerlöschschaum",
+    "Drohne über Münchner Flughafen: Ein Liebesgruß aus Moskau zum Tag der Deutschen Einheit?"
   ],
   "hashes": [
-    "97b8f93fe657aaa85370b4f4822728a9",
-    "7ac8dd464bbe748a08de31acf2d3308b",
     "9408805c20ae09ab4647f159a5afbb98",
     "6edcfb546eb307f47d4dfb4cd1fa9d6d",
     "083b4f0966fa5f1dcc6f0973ca49b7d6",
@@ -4005,6 +4003,8 @@
     "960570290371ac305cac8bcee309d9d6",
     "b64566e925cb4765dd275f0501c18f38",
     "59ef287bc9c2e3ad1940268af3838f90",
-    "190eee75af70f109bf249b35113ad945"
+    "190eee75af70f109bf249b35113ad945",
+    "62a49e1df767c59b08e400e3ddccab6c",
+    "f683c973d51b8b74a5c72992ee260c0a"
   ]
 }
