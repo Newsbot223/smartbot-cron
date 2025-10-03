@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/neuer-bnd-chef-was-friedrich-merz-von-martin-jaeger-erwartet-110681459.html",
-    "https://www.deutschlandfunk.de/medien-bundesregierung-unterstuetzt-erklaerung-fuer-zwei-staaten-loesung-100.html",
-    "https://www.deutschlandfunk.de/proteste-gegen-ficos-treffen-mit-putin-100.html",
     "https://www.deutschlandfunk.de/richter-stimmen-fuer-verurteilung-von-ex-praesident-bolsonaro-104.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-befasst-sich-mit-russlands-drohnen-in-polen-100.html",
     "https://www.deutschlandfunk.de/belarus-und-russland-halten-militaermanoever-ab-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html",
     "https://www.deutschlandfunk.de/spahn-fuer-sofortigen-aufbau-von-abwehr-102.html",
     "https://www.deutschlandfunk.de/israels-militaer-drei-hisbollah-mitglieder-getoetet-100.html",
-    "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-3-000-passagiere-gestrandet-102.html"
+    "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-3-000-passagiere-gestrandet-102.html",
+    "https://www.deutschlandfunk.de/staatsspitze-spricht-zum-tag-der-deutschen-einheit-merkel-kritisiert-macron-einladung-100.html",
+    "https://www.deutschlandfunk.de/verfassungsgerichtspraesident-habarth-wuerdigt-rolle-von-notarinnen-und-notaren-auf-31-weltkongress--100.html",
+    "https://www.deutschlandfunk.de/fast-6-jahre-nach-verherrendem-silversterbrand-im-krefelder-zoo-affenhaus-wieder-geoeffnet-100.html"
   ],
   "content_hashes": [
-    "013dcc439d7434da84a091ef6d86dcc4",
-    "b8efa32d0af5afe237af0e15831ee71a",
-    "7a58bf5e512ac29a506f73adb261cc66",
     "d01b73f2d02ae5e19f8252f7b294194e",
     "7891f08736d9799b917ef0c354108bf0",
     "334870e1114da201a6086ec3e7f668cc",
@@ -2001,12 +1998,12 @@
     "192322be7eb9be548d37f5b32d1aee4b",
     "0d92da1dc5f1a6cce77dcee6e7b3aff4",
     "6202ee86ec391fb85f9df8582ab0e366",
-    "f87300ed83b634fd40527fa0ac87c48d"
+    "f87300ed83b634fd40527fa0ac87c48d",
+    "39e5d358a847492099c68c16619d13de",
+    "2bac067fa6fd4c69b7e4f3373fd851b5",
+    "137588bf8dd253d6286a1d518b9cc148"
   ],
   "titles": [
-    "Neuer BND-Chef Jäger: „Werden unsere Gegner konfrontieren, wo immer dies nötig ist“",
-    "Nahost-Konflikt - Medien: Bundesregierung unterstützt Erklärung für Zwei-Staaten-Lösung",
-    "Slowakei - Proteste gegen Ficos Treffen mit Putin",
     "Brasilien - Richter stimmen für Verurteilung von Ex-Präsident Bolsonaro",
     "Verletzung des Luftraums - UNO-Sicherheitsrat befasst sich mit Russlands Drohnen in Polen",
     "In Nähe zu EU und NATO - Belarus und Russland halten Militärmanöver ab",
@@ -3003,12 +3000,12 @@
     "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\"",
     "Bedrohung durch Drohnen - Spahn für sofortigen Aufbau von Abwehr",
     "Süd-Libanon - Israels Militär: \"Drei Hisbollah-Mitglieder getötet\"",
-    "Drohnensichtungen - Ausfälle am Flughafen München - 3.000 Passagiere gestrandet"
+    "Drohnensichtungen - Ausfälle am Flughafen München - 3.000 Passagiere gestrandet",
+    "Saarbrücken - Staatsspitze spricht zum Tag der Deutschen Einheit - Merkel kritisiert Macron-Einladung",
+    "Rechtsstaat - Verfassungsgerichtspräsident Habarth würdigt Rolle von Notarinnen und Notaren auf 31. Weltkongress in Berlin",
+    "50 Tiere verbrannt - Fast 6 Jahre nach verherrendem Silversterbrand im Krefelder Zoo: Affenhaus wieder geöffnet"
   ],
   "hashes": [
-    "9e0dbec21b34e083e627ed3f30be3c69",
-    "ae6a6553b2560e38a4d2fd327a983076",
-    "f16892fbe780004ad080a6868d4c49ac",
     "11b985ccb0361073911603459cc2a51b",
     "269b0cf3c7f5cefbd46a9890114d36c5",
     "5ec197a987c26dd69500b2af8ec1a2cb",
@@ -4005,6 +4002,9 @@
     "15f338588de362131332304ca4882754",
     "cc9c4b1ecaa95deb09c6a756b0ff19aa",
     "3a7d15c95eefce33020dfb8a4c3dd595",
-    "581c3002ffeb9329401a8df3f3a0a3b9"
+    "581c3002ffeb9329401a8df3f3a0a3b9",
+    "2edc34335cafe20b9c5ed17ad6960c2f",
+    "8b0f4463dd14198057843a761b0f8dc0",
+    "8e1e2aeca0e54b0bd2dd0bb91c29857d"
   ]
 }
