@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/audi-chef-doellner-debatte-um-verbrenner-aus-kontraproduktiv-100.html",
     "https://www.aljazeera.com/news/2025/9/12/russia-ukraine-war-list-of-key-events-day-1296?traffic_source=rss",
     "https://www.deutschlandfunk.de/thueringens-fdp-landeschef-kemmerich-tritt-aus-der-partei-aus-haben-uns-auseinanderentwickelt-100.html",
     "https://www.faz.net/agenturmeldungen/dpa/thomas-kemmerich-tritt-aus-fdp-aus-accg-110682390.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html",
     "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html",
     "https://www.deutschlandfunk.de/eu-verbietet-ewigkeitschemikalien-in-feuerloeschschaum-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ein-liebesgruss-aus-moskau-zum-tag-der-deutschen-einheit-110715759.html"
+    "https://www.deutschlandfunk.de/dobrindt-kuendigt-entwurf-fuer-ein-neues-luftsicherheitsgesetz-an-102.html",
+    "https://www.deutschlandfunk.de/regierung-zahl-der-toten-durch-taifun-bualoi-auf-mehr-als-50-gestiegen-102.html"
   ],
   "content_hashes": [
-    "a47d7dae6d981d44325a76c229ffdad7",
     "1a62fbb5716cf5d96943b741474e4c45",
     "fe7239c57ea56cbe6209200d97d99a82",
     "80a3d677a947907a3fa166a336f3fa89",
@@ -1999,12 +1998,12 @@
     "7da3d55fcb3c4b70f354842468bbe0ea",
     "78d0f2550e768fe0fb40dda318ab30e1",
     "8cad4b2be25ad10162817e1a294441f1",
-    "0a08247ab7ed9d36f1eb04ae99b70ed6",
-    "5889fa368164fef518549dcacd1f8e0d",
-    "5926e903ba792410dde3de10eda518e7"
+    "f67cd7101c4b9a2787f48c5d7c61108c",
+    "5bd1966f97878bb0f52efa93e2681de2",
+    "9e3f041250dc3f15894f53b1c55fd364",
+    "8ac03cd2d90f5869a5da11442b335ede"
   ],
   "titles": [
-    "Autoindustrie - Audi-Chef Döllner: Debatte um Verbrenner-Aus \"kontraproduktiv\"",
     "Russia-Ukraine war: List of key events, day 1,296",
     "Liberale - Thüringens FDP-Landeschef Kemmerich tritt aus der Partei aus: \"Haben uns auseinanderentwickelt\"",
     "Früherer Ministerpräsident: Thomas Kemmerich tritt aus FDP aus",
@@ -3003,10 +3002,10 @@
     "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?",
     "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend",
     "Gesundheit und Umwelt - EU verbietet \"Ewigkeitschemikalien\" in Feuerlöschschaum",
-    "Drohne über Münchner Flughafen: Ein Liebesgruß aus Moskau zum Tag der Deutschen Einheit?"
+    "Drohnenabwehr durch Bundeswehr - Dobrindt kündigt Entwurf für ein neues Luftsicherheitsgesetz an",
+    "Vietnam - Regierung: Zahl der Toten durch Taifun \"Bualoi\" auf mehr als 50 gestiegen"
   ],
   "hashes": [
-    "9408805c20ae09ab4647f159a5afbb98",
     "6edcfb546eb307f47d4dfb4cd1fa9d6d",
     "083b4f0966fa5f1dcc6f0973ca49b7d6",
     "b46283e9afa91d6a3069f0858a018602",
@@ -4003,8 +4002,9 @@
     "960570290371ac305cac8bcee309d9d6",
     "b64566e925cb4765dd275f0501c18f38",
     "59ef287bc9c2e3ad1940268af3838f90",
-    "190eee75af70f109bf249b35113ad945",
-    "62a49e1df767c59b08e400e3ddccab6c",
-    "f683c973d51b8b74a5c72992ee260c0a"
+    "cc5ac164247be1cead5649011eb285ad",
+    "d0deccb0e8f9fddb91c9dd93226c7c5a",
+    "af3ce8eccce66833616f0fc45f1df357",
+    "03adfe68ac9197bc98cafe7ebfd91a4b"
   ]
 }
