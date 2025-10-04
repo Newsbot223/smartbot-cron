@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-kuendigt-einsatz-der-nationalgarde-in-memphis-an-100.html",
     "https://www.faz.net/aktuell/politik/ausland/urteil-gegen-bolsonaro-welch-ein-kontrast-zu-den-usa-110683470.html",
     "https://www.deutschlandfunk.de/gouverneur-cox-kirk-attentat-war-angriff-auf-uns-alle-100.html",
     "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/bundeswehr-leistet-amtshilfe-in-bayern-100.html",
     "https://www.deutschlandfunk.de/mindestens-30-verletzte-nach-beschuss-von-bahnhof-in-schostka-104.html",
     "https://www.deutschlandfunk.de/parlamentswahl-beendet-auszaehlung-laeuft-102.html",
+    "https://www.deutschlandfunk.de/zahlreiche-gaza-flotten-aktivisten-aus-israel-abgeschoben-100.html",
     "https://www.aljazeera.com/video/people-power/2025/10/4/trapped-in-tunisia?traffic_source=rss"
   ],
   "content_hashes": [
-    "496562e530a5a9a17c11a6f06c5657cd",
     "bd547a6b6f1fdf80bf19e7ee7029f28f",
     "2c92a0a370d0081c26a41ca7d853a258",
     "2c6b243d7a29cc35681d3ad130289f7b",
@@ -2001,10 +2000,10 @@
     "0210eb59dacb05667253dac1d6a0924a",
     "2cdb044bdebe70b57eb1a7b1418a7fa7",
     "66ff88bb132be2738f965d7e0ee33736",
+    "aa379520245fc92b00d2bd0626d7d481",
     "c67e7272536286f02bb3e2d24e0cdcec"
   ],
   "titles": [
-    "USA - Trump kündigt Einsatz der Nationalgarde in Memphis an",
     "Justiz in Brasilien: Welch ein Kontrast zu den USA",
     "Utah - Gouverneur Cox: Kirk-Attentat war \"Angriff auf uns alle\"",
     "Abgewiesene Asylbewerber: Das Innenministerium zieht zurück",
@@ -3003,10 +3002,10 @@
     "Nach Drohnenvorfällen in München - Bundeswehr leistet Amtshilfe in Bayern",
     "Ukraine-Krieg - Mindestens 30 Verletzte nach Beschuss von Bahnhof in Schostka",
     "Tschechien - Parlamentswahl beendet - Auszählung läuft",
+    "Nahost - Zahlreiche Gaza-Flotten-Aktivisten aus Israel abgeschoben",
     "Trapped in Tunisia"
   ],
   "hashes": [
-    "f289537589b53178c5aa6448214dc2da",
     "4e3fc3820c1c24402be643cd984ddc6e",
     "81d2a17bbae22f70817d1841f327dc45",
     "55837aacfc9b7b6a91465598928ebff3",
@@ -4005,6 +4004,7 @@
     "f4d5a5d4067a2a1478cf2bbb124561f1",
     "cd2daa488f2490eb49f927846a2e9be5",
     "a477e8b12d19860dd288cde2ae108289",
+    "5267b187917ab33f8ae5aca47d0e7fe7",
     "b9b08bfeec65a2c8a3074bc90277540e"
   ]
 }
