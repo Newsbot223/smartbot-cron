@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nato-kuendigt-staerkung-der-ostflanke-an-100.html",
-    "https://www.deutschlandfunk.de/generalbundesanwalt-rommel-unterstuetzt-forderung-nach-vorratsdatenspeicherung-100.html",
     "https://www.faz.net/aktuell/politik/ausland/oestliche-wache-nato-militaeroperation-beginnt-in-den-naechsten-tagen-110684016.html",
     "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html",
     "https://www.deutschlandfunk.de/fruehere-oberste-richterin-ist-neue-regierungschefin-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-abwehreinheit-fuer-drohnen-bei-der-bundespolizei-an-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-30-verletzte-nach-beschuss-von-bahnhof-in-stadt-schostka-100.html",
     "https://www.deutschlandfunk.de/zehntausende-georgier-demonstrieren-gegen-die-regierung-100.html",
-    "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-behinderungen-sturmflutwarnung-fuer-die-nordseekueste-100.html"
+    "https://www.deutschlandfunk.de/verhandlungen-ueber-gaza-friedensplan-in-aegypten-geplant-100.html",
+    "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-behinderungen-sturmflutwarnung-fuer-die-nordseekueste-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-sieht-rechtliche-huerden-bei-abschiebezentren-in-drittstaaten-100.html"
   ],
   "content_hashes": [
-    "62f096bac0d9a1d6fb6ed1f52c6d4f3f",
-    "c2c39256c4cf822f139a44e56ee80f12",
     "e25f9c6fca761bbc59beaae3bd3c6105",
     "cc249f12b257f7eaa18b04158264a214",
     "74537916375006369435701618ca9818",
@@ -2001,11 +1999,11 @@
     "b7c62eb4fe998170e0b04ec71503166d",
     "e7ec82c58f5732432b935146d8923357",
     "606c61c23937f29ad3118011a89d6e83",
-    "d5ecdf920b911d977e2463eacb82f32a"
+    "0cad897c81d471c417efde9787458588",
+    "d5ecdf920b911d977e2463eacb82f32a",
+    "fc5d879039069c06fb7a575d9b7c13a0"
   ],
   "titles": [
-    "Nach Drohnen-Vorfall - NATO kündigt Stärkung der Ostflanke an",
-    "Interview der Woche - Generalbundesanwalt Rommel unterstützt Forderung nach Vorratsdatenspeicherung",
     "„Eastern Sentry“: Wie die NATO Lücken in der Überwachung ihres Luftraums schließen will",
     "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln",
     "Nepal - Frühere Oberste Richterin ist neue Regierungschefin",
@@ -3003,11 +3001,11 @@
     "Nach Drohnen-Vorfällen - Bundesinnenminister Dobrindt kündigt Abwehreinheit für Drohnen bei der Bundespolizei an",
     "Ukraine-Krieg - Ein Toter und 30 Verletzte nach Beschuss von Bahnhof in Stadt Schostka",
     "Politische Krise - Zehntausende Georgier demonstrieren gegen die Regierung",
-    "Europa - Sturmtief sorgt für Behinderungen - Sturmflutwarnung für die Nordseeküste"
+    "Nahost-Krieg - Verhandlungen über Gaza-Friedensplan in Ägypten geplant",
+    "Europa - Sturmtief sorgt für Behinderungen - Sturmflutwarnung für die Nordseeküste",
+    "Asylpolitik - Dobrindt sieht rechtliche Hürden bei Abschiebezentren in Drittstaaten"
   ],
   "hashes": [
-    "5dfb6a4963c20340f294c5f1bc4bda5d",
-    "57dd9a358cb3242bbeabeeb313ec9c48",
     "e4ca8eabacefc87c231e2ec5fc7fff43",
     "7bb22379bdfa7602278e4a512d91d6c5",
     "c708f423e40417b11e622528fdb99e23",
@@ -4005,6 +4003,8 @@
     "9694b22b4ad0531ca199e3b3e9090248",
     "d82128c1e0109f52cb633bcf5ef496d5",
     "053900a09506bdd94f333e571ea09712",
-    "67c5942bf6bf44182ba552bb17ef945d"
+    "a740611a0f9f9154d365b2370948b17c",
+    "67c5942bf6bf44182ba552bb17ef945d",
+    "c17ce2991b411631b8e3951fb65987d7"
   ]
 }
