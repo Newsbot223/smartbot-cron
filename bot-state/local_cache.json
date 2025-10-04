@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/berliner-spd-krach-kann-nicht-versprechen-dass-mieten-sinken-accg-110681168.html",
-    "https://www.deutschlandfunk.de/microsoft-einigt-sich-mit-eu-kommission-in-kartellstreit-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/trump-und-die-nato-europa-ist-im-zweifel-alleine-110681410.html",
-    "https://www.faz.net/aktuell/politik/inland/brandanschlag-in-berlin-auf-dem-weg-zum-linksterrorismus-110679253.html",
     "https://www.deutschlandfunk.de/sicherheitsexperte-bartels-belarus-wird-immer-weniger-selbststaendig-102.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-mahnt-handeln-bei-nikotinbeuteln-an-wir-muessen-alarmiert-sein-100.html",
     "https://www.deutschlandfunk.de/kein-eigenes-fach-fuer-medienbildung-bundeslaender-setzen-zumeist-weiter-auf-faecheruebergreifende-a-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/flughafen-muenchen-nimmt-flugbetrieb-um-5-uhr-wieder-auf-100.html",
     "https://www.deutschlandfunk.de/polizei-bestaetigt-erneute-drohnensichtung-102.html",
     "https://www.deutschlandfunk.de/drohenangriffe-unter-anderem-auf-dnipro-und-charkiw-100.html",
-    "https://www.deutschlandfunk.de/dobrindt-trifft-europaeische-amtskollegen-zu-migrationsgipfel-100.html"
+    "https://www.deutschlandfunk.de/dobrindt-trifft-europaeische-amtskollegen-zu-migrationsgipfel-100.html",
+    "https://www.deutschlandfunk.de/hamas-stimmt-freilassung-aller-geiseln-zu-trump-fordert-ende-der-israelischen-angriffe-100.html",
+    "https://www.deutschlandfunk.de/flugbetrieb-laeuft-nach-erneuten-drohnensichtungen-schrittweise-wieder-an-102.html",
+    "https://www.deutschlandfunk.de/bundespolizei-praesident-romann-kritisiert-viele-absagen-von-rueckfuehrungen-100.html",
+    "https://www.deutschlandfunk.de/linke-fordert-regionale-anpassung-der-wohnpauschale-im-bafoeg-102.html"
   ],
   "content_hashes": [
-    "d7ce25ddc86b36e2ed4bbbe445fabc1f",
-    "104f482f998469178f0d0af598c99fda",
-    "2c07b3d6e12fd40a0ffe8bf08a953431",
-    "7d4412bb1b0391799473a8a16103f25a",
     "2e7b8f923ee321786387683c6ae5baf3",
     "7af45271fb8bd08265f8fb1fd131afee",
     "255eae541100f4bd50d3c6494eb91272",
@@ -2001,13 +1997,13 @@
     "efad0bf12e9667c71a7d3ab42db533c6",
     "29a592a32bbd789a694f8451972e7a6a",
     "80d8c414d5149e011aabfdc547dac7b6",
-    "0e6c50bd252d2903f8d7470d0b815214"
+    "0e6c50bd252d2903f8d7470d0b815214",
+    "f8587e4d4624fe71bf8d162e21d97af2",
+    "9370b316b58a843fa1f21abfa26b205f",
+    "daea162d1350d9d001febcab15ebbc74",
+    "83ebbb8ed5a5fcedc4fc05d880ed540a"
   ],
   "titles": [
-    "Berliner SPD-Spitzenkandidat: „Ich kann nicht versprechen, dass die Mieten sinken“",
-    "US-Technologie-Konzern - Microsoft einigt sich mit EU-Kommission in Kartellstreit",
-    "Polnischer Luftraum: Europa ist im Zweifel alleine",
-    "Linksextremismus: Brandsätze gegen das System",
     "Militärmanöver \"Sapad 2025\" - Sicherheitsexperte Bartels: \"Belarus wird immer weniger selbstständig\"",
     "Nach Verbot in Frankreich - Drogenbeauftragter Streeck mahnt Handeln bei Nikotinbeuteln an: \"Wir müssen alarmiert sein\"",
     "Schulen - Kein eigenes Fach für Medienbildung: Bundesländer setzen zumeist weiter auf fächerübergreifende Ansätze",
@@ -3003,13 +2999,13 @@
     "Nach Drohnensichtung - Flughafen München nimmt Flugbetrieb um 5 Uhr wieder auf",
     "Flughafen München - Polizei bestätigt erneute Drohnensichtung",
     "Ukraine-Krieg - Drohenangriffe unter anderem auf Dnipro und Charkiw",
-    "München - Dobrindt trifft europäische Amtskollegen zu Migrationsgipfel"
+    "München - Dobrindt trifft europäische Amtskollegen zu Migrationsgipfel",
+    "Nahost - Hamas stimmt Freilassung aller Geiseln zu - Trump fordert Ende der israelischen Angriffe",
+    "Flughafen München - Flugbetrieb läuft nach erneuten Drohnensichtungen schrittweise wieder an",
+    "Migration - Bundespolizei-Präsident Romann kritisiert viele Absagen von Rückführungen",
+    "Interview im Deutschlandfunk - Linke fordert regionale Anpassung der Wohnpauschale im BAföG"
   ],
   "hashes": [
-    "5171ef0b3842610e2ea2763a30589485",
-    "4ef8a4c97adfbfddd99d17c7b12a2d13",
-    "4942f4fe68d5670d1dddfaa5ab10acdf",
-    "24ba00ca02aefe98c1ffbf48ebd5b901",
     "59b6768d59f5bab39258ccb8b58c96e6",
     "033e8899f71610f318a5aa3e94a55f4f",
     "d44096a26b69a025c06501a2fcf33e26",
@@ -4005,6 +4001,10 @@
     "98a0cf57a6b6be015f96b8a21ea12c1e",
     "b1920808517e590850b57f54b8015dc3",
     "f469f1f6f6dc50b6406b810cffc57564",
-    "5b369163020234ace76009d0003ddb3d"
+    "5b369163020234ace76009d0003ddb3d",
+    "cfe18c8ff42da82ee0cfdaebc4639f62",
+    "6b2fcb30bee86da29d9e7bc6abb071cc",
+    "f9863d6c0d034d69592f65480965fd66",
+    "c083754d3f5ca831a500c5d2878cb3f8"
   ]
 }
