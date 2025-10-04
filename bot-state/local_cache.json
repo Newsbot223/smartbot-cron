@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-attentat-auf-charlie-kirk-trump-gibt-festnahme-von-verdaechtigem-bekannt-100.html",
-    "https://www.deutschlandfunk.de/bundesanwaltschaft-uebernimmt-ermittlungen-nach-messerangriff-auf-lehrerin-in-essen-100.html",
-    "https://www.deutschlandfunk.de/streit-ueber-teilnahme-israelischer-kuenstler-an-grossveranstaltungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeswehr-ermittelt-gegen-panzergrenadiere-wegen-aufnahmeritual-110683290.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-einsatz-der-nationalgarde-in-memphis-an-100.html",
     "https://www.faz.net/aktuell/politik/ausland/urteil-gegen-bolsonaro-welch-ein-kontrast-zu-den-usa-110683470.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/debatte-um-besseren-schutz-an-flughaefen-104.html",
     "https://www.deutschlandfunk.de/klingbeil-und-bas-stahlproduktion-muss-zukunft-in-deutschland-haben-102.html",
     "https://www.deutschlandfunk.de/klage-gegen-erhoehte-neue-visagebuehr-der-trump-regierung-104.html",
-    "https://www.deutschlandfunk.de/dauerprotest-in-serbien-das-volk-gegen-vucic-100.html"
+    "https://www.deutschlandfunk.de/dauerprotest-in-serbien-das-volk-gegen-vucic-100.html",
+    "https://www.deutschlandfunk.de/bundeswehr-leistet-amtshilfe-in-bayern-100.html",
+    "https://www.deutschlandfunk.de/mindestens-30-verletzte-nach-beschuss-von-bahnhof-in-schostka-104.html",
+    "https://www.deutschlandfunk.de/parlamentswahl-beendet-auszaehlung-laeuft-102.html"
   ],
   "content_hashes": [
-    "8191689afa1c3ffb3a7216ad49898f54",
-    "6307903ee351ffe61991b7d9a3316fe6",
-    "df804a44b47aefcc5211eaffafa45ccf",
     "82210ea5409585b892862ca08d3d87c4",
     "496562e530a5a9a17c11a6f06c5657cd",
     "bd547a6b6f1fdf80bf19e7ee7029f28f",
@@ -2001,12 +1998,12 @@
     "6d0f8d46f0346d69cef57963f5f4b67c",
     "eb3b2aee5966cfb52f1b14ae3439b273",
     "739a2255548c0394e3fc41a72e5fae6e",
-    "09d7acfcf9f0b0837492007e7b683b6b"
+    "09d7acfcf9f0b0837492007e7b683b6b",
+    "0210eb59dacb05667253dac1d6a0924a",
+    "2cdb044bdebe70b57eb1a7b1418a7fa7",
+    "66ff88bb132be2738f965d7e0ee33736"
   ],
   "titles": [
-    "USA - Nach Attentat auf Charlie Kirk: Trump gibt Festnahme von Verdächtigem bekannt",
-    "Islamistisches Motiv - Bundesanwaltschaft übernimmt Ermittlungen nach Messerangriff auf Lehrerin in Essen",
-    "Kultur - Streit über Teilnahme israelischer Künstler an Großveranstaltungen",
     "Wegen Aufnahmeritual: Bundeswehr ermittelt gegen Panzergrenadiere",
     "USA - Trump kündigt Einsatz der Nationalgarde in Memphis an",
     "Justiz in Brasilien: Welch ein Kontrast zu den USA",
@@ -3003,12 +3000,12 @@
     "Nach Drohnenvorfällen in München - Debatte um besseren Schutz an Flughäfen",
     "Wirtschaft - Klingbeil und Bas: Stahlproduktion muss Zukunft in Deutschland haben",
     "USA - Klage gegen erhöhte neue Visagebühr der Trump-Regierung",
-    "Proteste in Serbien - Das Volk geht gegen Vučić auf die Straße"
+    "Proteste in Serbien - Das Volk geht gegen Vučić auf die Straße",
+    "Nach Drohnenvorfällen in München - Bundeswehr leistet Amtshilfe in Bayern",
+    "Ukraine-Krieg - Mindestens 30 Verletzte nach Beschuss von Bahnhof in Schostka",
+    "Tschechien - Parlamentswahl beendet - Auszählung läuft"
   ],
   "hashes": [
-    "cd6359234125ed361c0c705bb5b3895d",
-    "eb8e6209ec18ec3eda578aca8f073b5e",
-    "da26c27be224512b9b6eea994a52dac4",
     "356054a4d961e47c1d60c17eb39048ad",
     "f289537589b53178c5aa6448214dc2da",
     "4e3fc3820c1c24402be643cd984ddc6e",
@@ -4005,6 +4002,9 @@
     "1253c22d85043cece003d54c1740710d",
     "f0fe7fa585c519836b76c22222497b4a",
     "15987c4f9e1c4af08c0140d1dcf928d4",
-    "a0b68e829e4b63c348f34ef8a39fb4ea"
+    "a0b68e829e4b63c348f34ef8a39fb4ea",
+    "f4d5a5d4067a2a1478cf2bbb124561f1",
+    "cd2daa488f2490eb49f927846a2e9be5",
+    "a477e8b12d19860dd288cde2ae108289"
   ]
 }
