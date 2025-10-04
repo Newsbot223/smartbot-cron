@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/oestliche-wache-nato-militaeroperation-beginnt-in-den-naechsten-tagen-110684016.html",
     "https://www.faz.net/aktuell/politik/inland/migrationspolitik-aus-ueberzeugung-handeln-110683608.html",
     "https://www.deutschlandfunk.de/fruehere-oberste-richterin-ist-neue-regierungschefin-102.html",
     "https://www.faz.net/aktuell/politik/ukraine/drohnenangriff-auf-polen-die-nato-muesste-putin-dankbar-sein-110683707.html",
@@ -997,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-abwehreinheit-fuer-drohnen-bei-der-bundespolizei-an-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-30-verletzte-nach-beschuss-von-bahnhof-in-stadt-schostka-100.html",
     "https://www.deutschlandfunk.de/zehntausende-georgier-demonstrieren-gegen-die-regierung-100.html",
-    "https://www.deutschlandfunk.de/verhandlungen-ueber-gaza-friedensplan-in-aegypten-geplant-100.html",
+    "https://www.deutschlandfunk.de/israel-bestaetigt-verhandlungen-in-aegypten-ueber-trumps-gaza-friedensplan-100.html",
+    "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-einer-propalaestinensischen-organisation-100.html",
     "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-behinderungen-sturmflutwarnung-fuer-die-nordseekueste-100.html",
     "https://www.deutschlandfunk.de/dobrindt-sieht-rechtliche-huerden-bei-abschiebezentren-in-drittstaaten-100.html"
   ],
   "content_hashes": [
-    "e25f9c6fca761bbc59beaae3bd3c6105",
     "cc249f12b257f7eaa18b04158264a214",
     "74537916375006369435701618ca9818",
     "7d7f3aec0dfec9cb37b0e41152e1c388",
@@ -1999,12 +1998,12 @@
     "b7c62eb4fe998170e0b04ec71503166d",
     "e7ec82c58f5732432b935146d8923357",
     "606c61c23937f29ad3118011a89d6e83",
-    "0cad897c81d471c417efde9787458588",
+    "6543f3f1d13d4f994ce7dce1f1a113e0",
+    "f2a47e6477752fc9e799d0f085d5040e",
     "d5ecdf920b911d977e2463eacb82f32a",
     "fc5d879039069c06fb7a575d9b7c13a0"
   ],
   "titles": [
-    "„Eastern Sentry“: Wie die NATO Lücken in der Überwachung ihres Luftraums schließen will",
     "Migrationspolitik: Die Bundesregierung sollte aus Überzeugung handeln",
     "Nepal - Frühere Oberste Richterin ist neue Regierungschefin",
     "Russlands Drohnenkrieg: Die NATO müsste Putin dankbar sein",
@@ -3001,12 +3000,12 @@
     "Nach Drohnen-Vorfällen - Bundesinnenminister Dobrindt kündigt Abwehreinheit für Drohnen bei der Bundespolizei an",
     "Ukraine-Krieg - Ein Toter und 30 Verletzte nach Beschuss von Bahnhof in Stadt Schostka",
     "Politische Krise - Zehntausende Georgier demonstrieren gegen die Regierung",
-    "Nahost-Krieg - Verhandlungen über Gaza-Friedensplan in Ägypten geplant",
+    "Nahost-Krieg - Israel bestätigt Verhandlungen in Ägypten über Trumps Gaza-Friedensplan",
+    "Großbritannien - Hunderte Festnahmen bei Protest gegen Verbot einer propalästinensischen Organisation",
     "Europa - Sturmtief sorgt für Behinderungen - Sturmflutwarnung für die Nordseeküste",
     "Asylpolitik - Dobrindt sieht rechtliche Hürden bei Abschiebezentren in Drittstaaten"
   ],
   "hashes": [
-    "e4ca8eabacefc87c231e2ec5fc7fff43",
     "7bb22379bdfa7602278e4a512d91d6c5",
     "c708f423e40417b11e622528fdb99e23",
     "77824125652aa43da6aef7028f7ab679",
@@ -4003,7 +4002,8 @@
     "9694b22b4ad0531ca199e3b3e9090248",
     "d82128c1e0109f52cb633bcf5ef496d5",
     "053900a09506bdd94f333e571ea09712",
-    "a740611a0f9f9154d365b2370948b17c",
+    "4cc400c8b69a119e4d562eb236a83cd1",
+    "e1efae9de64df611ec6c7e146bb8d93c",
     "67c5942bf6bf44182ba552bb17ef945d",
     "c17ce2991b411631b8e3951fb65987d7"
   ]
