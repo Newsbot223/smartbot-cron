@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/drohnenangriff-auf-polen-die-nato-muesste-putin-dankbar-sein-110683707.html",
-    "https://www.deutschlandfunk.de/uno-vollversammlung-stimmt-fuer-zweistaatenloesung-zwischen-israel-und-palaestinensern-an-100.html",
     "https://www.deutschlandfunk.de/mutmasslicher-attentaeter-in-untersuchungshaft-100.html",
     "https://www.deutschlandfunk.de/wahl-der-drei-neuen-verfassungsrichter-am-25-september-100.html",
     "https://www.deutschlandfunk.de/uno-vollversammlung-befuerwortet-zweistaatenloesung-zwischen-israel-und-palaestinensern-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-behinderungen-sturmflutwarnung-fuer-die-nordseekueste-100.html",
     "https://www.deutschlandfunk.de/dobrindt-sieht-rechtliche-huerden-bei-abschiebezentren-in-drittstaaten-100.html",
     "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-die-nordseekueste-behinderungen-in-mehreren-europaeischen-staaten-100.html",
-    "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-in-syrien-beginnt-100.html"
+    "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-in-syrien-beginnt-100.html",
+    "https://www.deutschlandfunk.de/litauen-sperrt-flughafen-vilnius-102.html",
+    "https://www.faz.net/aktuell/politik/inland/zustimmung-zur-regierungskoalition-faellt-auf-rekordtief-accg-110717016.html"
   ],
   "content_hashes": [
-    "7d7f3aec0dfec9cb37b0e41152e1c388",
-    "906d9f7c793b066d6e3dc11aa9c3b7c8",
     "40fbf698164e9c6b13891a38817afff3",
     "65b840947d2243e1e62bbbd04fd66186",
     "0daff2ae383af57f0b9f048f2a5a2ce4",
@@ -2001,11 +1999,11 @@
     "d5ecdf920b911d977e2463eacb82f32a",
     "fc5d879039069c06fb7a575d9b7c13a0",
     "48835c0cc2fa5d36e5f1e2e4761aba8c",
-    "6ecf69715ffdcfa16361e150bc331918"
+    "6ecf69715ffdcfa16361e150bc331918",
+    "b25387ee900764a26b8b5600c0e415f7",
+    "64b7bac119f7e0815b3f6bdeba074980"
   ],
   "titles": [
-    "Russlands Drohnenkrieg: Die NATO müsste Putin dankbar sein",
-    "New York - UNO-Vollversammlung stimmt für Zweistaatenlösung zwischen Israel und Palästinensern an",
     "Fall Charlie Kirk - Mutmaßlicher Attentäter in Untersuchungshaft",
     "Bundestag - Wahl der drei neuen Verfassungsrichter am 25. September",
     "New York - UNO-Vollversammlung befürwortet Zweistaatenlösung zwischen Israel und Palästinensern",
@@ -3003,11 +3001,11 @@
     "Europa - Sturmtief sorgt für Behinderungen - Sturmflutwarnung für die Nordseeküste",
     "Asylpolitik - Dobrindt sieht rechtliche Hürden bei Abschiebezentren in Drittstaaten",
     "Europa - Sturmflutwarnung für die Nordseeküste - Behinderungen in mehreren europäischen Staaten",
-    "Nach Assad-Sturz - Umstrittene Parlamentswahl in Syrien beginnt"
+    "Nach Assad-Sturz - Umstrittene Parlamentswahl in Syrien beginnt",
+    "Flugverkehr - Litauen sperrt Flughafen Vilnius",
+    "Umfrage: Zustimmung zur Regierungskoalition fällt auf Rekordtief"
   ],
   "hashes": [
-    "77824125652aa43da6aef7028f7ab679",
-    "6641c0efb82031de11ec4aa447352074",
     "242b815e996ee483f7607b23aaf29158",
     "8f325b5dd99b4dfa82d010368e589255",
     "ffc3aae5417f7f24c67a9c49ee006617",
@@ -4005,6 +4003,8 @@
     "67c5942bf6bf44182ba552bb17ef945d",
     "c17ce2991b411631b8e3951fb65987d7",
     "9357f74f710cba540d9e2388d396ce86",
-    "5720606b6eef53f336e47e9958d75c9e"
+    "5720606b6eef53f336e47e9958d75c9e",
+    "89cdf4c24cad0198c63799f5832cd369",
+    "d70d1e89e9f6843333ec2926c42da1de"
   ]
 }
