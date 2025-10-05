@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mutmasslicher-attentaeter-in-untersuchungshaft-100.html",
-    "https://www.deutschlandfunk.de/wahl-der-drei-neuen-verfassungsrichter-am-25-september-100.html",
     "https://www.deutschlandfunk.de/uno-vollversammlung-befuerwortet-zweistaatenloesung-zwischen-israel-und-palaestinensern-100.html",
     "https://www.deutschlandfunk.de/ratingagentur-fitch-stuft-frankreichs-kreditwuerdigkeit-auf-a-herab-100.html",
     "https://www.deutschlandfunk.de/alarmierende-verletzung-des-luftraums-usa-bekennen-sich-im-uno-sicherheitsrat-zur-nato-russland-weis-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-die-nordseekueste-behinderungen-in-mehreren-europaeischen-staaten-100.html",
     "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-in-syrien-beginnt-100.html",
     "https://www.deutschlandfunk.de/litauen-sperrt-flughafen-vilnius-102.html",
-    "https://www.faz.net/aktuell/politik/inland/zustimmung-zur-regierungskoalition-faellt-auf-rekordtief-accg-110717016.html"
+    "https://www.faz.net/aktuell/politik/inland/zustimmung-zur-regierungskoalition-faellt-auf-rekordtief-accg-110717016.html",
+    "https://www.deutschlandfunk.de/polen-laesst-kampfjets-aufsteigen-102.html",
+    "https://www.deutschlandfunk.de/rechtspopulist-babis-strebt-minderheitsregierung-an-100.html"
   ],
   "content_hashes": [
-    "40fbf698164e9c6b13891a38817afff3",
-    "65b840947d2243e1e62bbbd04fd66186",
     "0daff2ae383af57f0b9f048f2a5a2ce4",
     "472b2467c796f115dd3a9e150fb71345",
     "dd1d3149bd036a4f50c2116711b3e03d",
@@ -2001,11 +1999,11 @@
     "48835c0cc2fa5d36e5f1e2e4761aba8c",
     "6ecf69715ffdcfa16361e150bc331918",
     "b25387ee900764a26b8b5600c0e415f7",
-    "64b7bac119f7e0815b3f6bdeba074980"
+    "64b7bac119f7e0815b3f6bdeba074980",
+    "fc8f0722979f725c27bbdabecb2dbe13",
+    "1b5de2190f7cb30fe3467abe841227b7"
   ],
   "titles": [
-    "Fall Charlie Kirk - Mutmaßlicher Attentäter in Untersuchungshaft",
-    "Bundestag - Wahl der drei neuen Verfassungsrichter am 25. September",
     "New York - UNO-Vollversammlung befürwortet Zweistaatenlösung zwischen Israel und Palästinensern",
     "Bonität - Ratingagentur Fitch stuft Frankreichs Kreditwürdigkeit auf \"A+\" herab",
     "Drohnenvorfall in Polen - \"Alarmierende Verletzung des Luftraums\" - USA bekennen sich im UNO-Sicherheitsrat zur NATO, Russland weist Vorwürfe erneut zurück",
@@ -3003,11 +3001,11 @@
     "Europa - Sturmflutwarnung für die Nordseeküste - Behinderungen in mehreren europäischen Staaten",
     "Nach Assad-Sturz - Umstrittene Parlamentswahl in Syrien beginnt",
     "Flugverkehr - Litauen sperrt Flughafen Vilnius",
-    "Umfrage: Zustimmung zur Regierungskoalition fällt auf Rekordtief"
+    "Umfrage: Zustimmung zur Regierungskoalition fällt auf Rekordtief",
+    "Ukraine-Krieg - Polen lässt Kampfjets aufsteigen",
+    "Tschechien - Rechtspopulist Babis strebt Minderheitsregierung an"
   ],
   "hashes": [
-    "242b815e996ee483f7607b23aaf29158",
-    "8f325b5dd99b4dfa82d010368e589255",
     "ffc3aae5417f7f24c67a9c49ee006617",
     "a07d6c5b59a4bf8ddea0f989c824ec98",
     "d18973417d8a2f696cec0739f1729efb",
@@ -4005,6 +4003,8 @@
     "9357f74f710cba540d9e2388d396ce86",
     "5720606b6eef53f336e47e9958d75c9e",
     "89cdf4c24cad0198c63799f5832cd369",
-    "d70d1e89e9f6843333ec2926c42da1de"
+    "d70d1e89e9f6843333ec2926c42da1de",
+    "d4675379d849523ef5590beff5a6c733",
+    "8396d13cab82873e051b620f45044d27"
   ]
 }
