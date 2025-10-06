@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/oppositionsfuehrer-in-haft-erdo-ans-kalkuel-scheint-aufzugehen-110683312.html",
-    "https://www.deutschlandfunk.de/chp-anhaenger-protestieren-gegen-moegliche-absetzung-des-parteivorsitzenden-102.html",
     "https://www.deutschlandfunk.de/medienberichte-deutsche-bahn-will-2026-zahlreiche-ice-und-intercity-verbindungen-streichen-konzern-d-100.html",
     "https://www.faz.net/aktuell/politik/inland/abschiebung-von-straftaetern-gespraeche-zu-regelmaessigen-rueckfuehrungen-nach-afghanistan-accg-110685417.html",
     "https://www.deutschlandfunk.de/selenskyj-bietet-nato-unterstuetzung-bei-der-abwehr-russischer-drohnen-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/russische-invasion-merkel-kritisiert-polen-und-balten-110719025.html",
     "https://www.deutschlandfunk.de/kanzler-merz-verspricht-juden-schutz-in-deutschland-100.html",
-    "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-102.html"
+    "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-102.html",
+    "https://www.deutschlandfunk.de/wadephul-lobt-gaza-vermittlungsbemuehungen-deutschland-eine-wiederaufbaukonferenz-organisieren-102.html",
+    "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-proteste-halten-weiter-an-100.html"
   ],
   "content_hashes": [
-    "2e83e135bbac06f743aa6dcfb66eedc1",
-    "f85dfb0495a407eac20daf84b25d8511",
     "dd6fb4442a84fb69c50d68c1d313d937",
     "1027d82741009ae7d27294d0bdcdc4e8",
     "6ba992f6c8b9c156217031ca74673741",
@@ -2001,11 +1999,11 @@
     "b0217c249e85f6d7f2902c037a4f7385",
     "158fc925927d02055e53a21e6e204098",
     "14f05e341161628e45f4deb015fce4c7",
-    "3e2a17637e2c4e1ab48aa7fe17d79911"
+    "3e2a17637e2c4e1ab48aa7fe17d79911",
+    "e7947d142c1314dd2235aed19b19b71a",
+    "6699f82597ddb1900260189b6012c168"
   ],
   "titles": [
-    "Opposition in der Türkei: Keine Kraft zu protestieren",
-    "Großdemonstration in der Türkei - CHP-Anhänger protestieren gegen mögliche Absetzung des Parteivorsitzenden",
     "Fernverkehr - Medienberichte: Deutsche Bahn will 2026 zahlreiche ICE- und Intercity-Verbindungen streichen - Konzern dementiert",
     "Abschiebung von Straftätern: Gespräche zu regelmäßigen Rückführungen nach Afghanistan",
     "Ukraine - Selenskyj bietet NATO Unterstützung bei der Abwehr russischer Drohnen an",
@@ -3003,11 +3001,11 @@
     "Gazastreifen: Johann Wadephul bietet Initiative für Wiederaufbaukonferenz an",
     "Russische Invasion: Merkel wirft Polen und Balten vor, Gespräche mit Putin blockiert zu haben",
     "Jahrestag des 7. Oktober 2023 - Kanzler Merz verspricht Juden Schutz in Deutschland",
-    "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef"
+    "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef",
+    "Nahost-Reise - Wadephul lobt Gaza-Vermittlungsbemühungen - \"Deutschland eine Wiederaufbaukonferenz organisieren\"",
+    "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef - Proteste halten weiter an"
   ],
   "hashes": [
-    "187d8cdae5d7fa4daac80095ac8dadcf",
-    "5299c55a5c32d7221e76a91545af22a4",
     "8802631f185ade73890f73207f7998dd",
     "68b75b4b326a5997566a8633e80a4ebd",
     "bb601f837c1929b5f8021cf690a56245",
@@ -4005,6 +4003,8 @@
     "0b13cd66c21f7ce08ee4799ea26eab19",
     "68ab86f0a661a4ef242321edbd3f5bf6",
     "99f87a74fe206537d719bb409c7c1b24",
-    "548ccac1512c4c0bf7ac309aba323b32"
+    "548ccac1512c4c0bf7ac309aba323b32",
+    "079a23410177def66488d860182eb844",
+    "2f0645bc4e37f623ebd209e38ae0a82d"
   ]
 }
