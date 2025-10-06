@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-100-000-bei-demonstration-gegen-einwanderung-in-london-100.html",
-    "https://www.deutschlandfunk.de/brand-in-stellwerk-verspaetungen-auf-der-bahnstrecke-hannover-berlin-100.html",
     "https://www.deutschlandfunk.de/attentat-auf-charlie-kirk-mutmasslicher-taeter-in-untersuchungshaft-witwe-will-bewegung-fortfuehren-100.html",
     "https://www.deutschlandfunk.de/wieder-propalaestinensische-proteste-bei-vuelta-in-spanien-102.html",
     "https://www.faz.net/aktuell/politik/inland/tausende-nehmen-an-demo-gegen-gazakrieg-in-berlin-teil-accg-110684415.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/eurovision-song-contest-friedrich-merz-fuer-esc-verzicht-von-deutschland-wenn-israel-ausgeschlossen-wird-a-cccf43f7-d8c4-456f-aaae-32236c088b75#ref=rss",
     "https://www.deutschlandfunk.de/jagdverband-raet-wildunfaelle-melden-und-langsamer-fahren-100.html",
     "https://www.deutschlandfunk.de/us-verteidigungsministerium-entsendet-natinalgarde-nach-oregon-100.html",
-    "https://www.deutschlandfunk.de/eu-parlament-diskutiert-misstrauensantraege-gegen-kommission-100.html"
+    "https://www.deutschlandfunk.de/eu-parlament-diskutiert-misstrauensantraege-gegen-kommission-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-kfz-steuerbefreiung-fuer-elektroautos-wird-verlaengert-100.html",
+    "https://www.deutschlandfunk.de/gruene-unterstuetzen-spd-vorhaben-zur-foerderung-von-stahl-aus-europa-100.html"
   ],
   "content_hashes": [
-    "af943f257550eb13eeafe288ae7bf11a",
-    "c3aed674ef3da2dafe83a72400ed46a6",
     "972c97e149c0136a8c695a37fe4e809c",
     "fe5ad282d5341a6b518551ea21d9f01b",
     "3ee035c7624770ed4a1c155d8c26a593",
@@ -2001,11 +1999,11 @@
     "657b9b06c6802c8400e14490f1e962eb",
     "1cd24fb8d147ab981db7ca942fd48637",
     "435af4ff1e999d14e898f99dbf9dd200",
-    "5e1b3571ffd2b3f2935e3137453f1086"
+    "5e1b3571ffd2b3f2935e3137453f1086",
+    "9749416aceb847dc186854147d333de4",
+    "36e48a75f947090b31f049e1390b8c90"
   ],
   "titles": [
-    "Großbritannien - Mehr als 100.000 bei Demonstration gegen Einwanderung in London",
-    "Zugverkehr - Brand in Stellwerk: Verspätungen auf der Bahnstrecke Hannover-Berlin",
     "USA - Attentat auf Charlie Kirk: Mutmaßlicher Täter in Untersuchungshaft - Witwe will Bewegung fortführen",
     "Radrennen - Wieder propalästinensische Proteste bei Vuelta in Spanien",
     "Kundgebung gegen den Gazakrieg: „Denen da oben“ die rote Karte zeigen",
@@ -3003,11 +3001,11 @@
     "Eurovision Song Contest: Friedrich Merz für ESC-Verzicht von Deutschland, wenn Israel ausgeschlossen wird",
     "Verkehr - Jagdverband rät: Wildunfälle melden und langsamer fahren",
     "Trotz Gerichtsentscheidung - US-Verteidigungsministerium entsendet Natinalgarde nach Oregon",
-    "Straßburg - EU-Parlament diskutiert Misstrauensanträge gegen Kommission"
+    "Straßburg - EU-Parlament diskutiert Misstrauensanträge gegen Kommission",
+    "Autoindustrie - Klingbeil: Kfz-Steuerbefreiung für Elektroautos wird verlängert",
+    "Buy European - Grüne unterstützen SPD-Vorhaben zur Förderung von Stahl aus Europa"
   ],
   "hashes": [
-    "a61f9dde044918368f45c962da84ce54",
-    "5e1cbdc0395e1195ca32bfa5b8bf75eb",
     "bb46b94a44d95de4a8e7029650df7d56",
     "87b4f3900313860d970cdbf66c9f8ebc",
     "6b7bc65a4539b6736a0744692c290900",
@@ -4005,6 +4003,8 @@
     "de40f10f49c91a6acdb06b6cda65400f",
     "63ee03933975a3a9cbe3016ebdea5f07",
     "0b992cedccdc82620150df86b363aba6",
-    "79f12927d18daacf8fa42c1619b37776"
+    "79f12927d18daacf8fa42c1619b37776",
+    "f1b0c4178c8676641caabe45735b8d9c",
+    "fd4dc1139d02b6adf2b8ed5a9b24ed94"
   ]
 }
