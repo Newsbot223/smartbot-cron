@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-bestaetigt-gespraeche-mit-taliban-ueber-abschiebungen-nach-afghanistan-100.html",
-    "https://www.deutschlandfunk.de/veranstalter-automesse-iaa-endet-mit-besucherzuwachs-100.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/reaktionen-auf-kirks-ermordung-nie-zu-rechtfertigen-110685091.html",
     "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-chance-110682812.html",
     "https://www.deutschlandfunk.de/cdu-laut-prognose-staerkste-kraft-vor-spd-afd-und-gruenen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rabbiner-fordern-mehr-einsatz-gegen-extremismus-in-europa-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-diskutiert-ueber-misstrauensantraege-gegen-europaeische-kommission-100.html",
     "https://www.deutschlandfunk.de/berufungsprozess-im-fall-pelicot-in-frankreich-hat-begonnen-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html"
+    "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html",
+    "https://www.deutschlandfunk.de/kommentar-zur-lage-in-georgien-auf-dem-weg-in-eine-finstere-zeit-100.html",
+    "https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss"
   ],
   "content_hashes": [
-    "5f09491cd73d72ccdeb370d1ccba47c6",
-    "33f7621c1405b0882b378823beb9b8f7",
     "e516c12f1f275a1f09e520437f7331e0",
     "5c479557e7457df800091742e4c9ce6b",
     "b87d63f3b69ec2edf4a67b553c0db56a",
@@ -2001,11 +1999,11 @@
     "79beb52dbaac8d2b02e5f4fb71414b3e",
     "d92d5023553e663ebf9ed56db2a93423",
     "fd82b93ce7fa3cb09a7d25e5bd8eb850",
-    "c4b9195596dd7f710f56c71ecccb8a64"
+    "c4b9195596dd7f710f56c71ecccb8a64",
+    "94b6076cfbb7e964062f701fd9ba49a7",
+    "b0217c249e85f6d7f2902c037a4f7385"
   ],
   "titles": [
-    "Nach Medienbericht - Bundesinnenminister Dobrindt bestätigt Gespräche mit Taliban über Abschiebungen nach Afghanistan",
-    "München - Veranstalter: Automesse IAA endet mit Besucherzuwachs",
     "Reaktionen auf Kirks Tod: Wer Gewalt relativiert, richtet sich selbst",
     "Frankreichs neuer Premier: Macrons letzte Chance",
     "NRW-Kommunalwahl - CDU laut Prognose stärkste Kraft vor SPD, AfD und Grünen",
@@ -3003,11 +3001,11 @@
     "Zwei Jahre nach Hamas-Angriff - Rabbiner fordern mehr Einsatz gegen Extremismus in Europa",
     "Straßburg - EU-Parlament diskutiert über Misstrauensanträge gegen Europäische Kommission",
     "Nîmes - Berufungsprozess im Fall Pelicot in Frankreich hat begonnen",
-    "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern"
+    "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern",
+    "Georgien - Kommentar: Auf dem Weg in eine finstere Zeit",
+    "Gazastreifen: Johann Wadephul bietet Initiative für Wiederaufbaukonferenz an"
   ],
   "hashes": [
-    "37d9a4b89344deef5bcef5eaf46ab197",
-    "82544515cb5ea2ffcd1cdfa690e5f2a9",
     "8afcd7baa3520b716ef5fc25d4aada17",
     "36e4044c59b3f38bac22be05d44202c4",
     "74e7164d208136fdfe38c6cf7c4c125e",
@@ -4005,6 +4003,8 @@
     "171e399927cbc65ae88d51abe3105ae9",
     "90337b074af04047aefda17d22594b3e",
     "58873a252d1e1a8d8a16dbb5c74bee82",
-    "be99fba70d8a039cadddfb2309fa3218"
+    "be99fba70d8a039cadddfb2309fa3218",
+    "1ff70657e7f94fe7b8c9fedeb473366c",
+    "0b13cd66c21f7ce08ee4799ea26eab19"
   ]
 }
