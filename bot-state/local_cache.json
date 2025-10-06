@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-patrone-110682812.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-bestaetigt-gespraeche-mit-taliban-ueber-abschiebungen-nach-afghanistan-100.html",
     "https://www.deutschlandfunk.de/veranstalter-automesse-iaa-endet-mit-besucherzuwachs-100.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/reaktionen-auf-kirks-ermordung-nie-zu-rechtfertigen-110685091.html",
@@ -996,13 +995,13 @@
     "https://www.deutschlandfunk.de/chance-auf-bewegung-in-nahost-interv-mit-politologe-jan-busse-100.html",
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-spricht-frueheren-sudanesischen-milizenchef-schuldig-100.html",
     "https://www.deutschlandfunk.de/vermittlungsgespraeche-ueber-gaza-plan-haben-begonnen-100.html",
+    "https://www.deutschlandfunk.de/macron-beauftragt-lecornu-noch-weiter-mit-parteien-zu-verhandeln-100.html",
     "https://www.deutschlandfunk.de/rabbiner-fordern-mehr-einsatz-gegen-extremismus-in-europa-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-diskutiert-ueber-misstrauensantraege-gegen-europaeische-kommission-100.html",
     "https://www.deutschlandfunk.de/berufungsprozess-im-fall-pelicot-in-frankreich-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html"
   ],
   "content_hashes": [
-    "33753789a5d69f074ad3c9019894cd4a",
     "5f09491cd73d72ccdeb370d1ccba47c6",
     "33f7621c1405b0882b378823beb9b8f7",
     "e516c12f1f275a1f09e520437f7331e0",
@@ -1998,13 +1997,13 @@
     "f901e8179c0ff2d6a988613d23ce2f5b",
     "a76fcd9f7923bf2a85bd0d1150eaf756",
     "8064c3c284b664b6d65bcf7d0ea1fbae",
+    "f5f852a1fc6f0ff26d6153baeef25dec",
     "79beb52dbaac8d2b02e5f4fb71414b3e",
     "d92d5023553e663ebf9ed56db2a93423",
     "fd82b93ce7fa3cb09a7d25e5bd8eb850",
     "c4b9195596dd7f710f56c71ecccb8a64"
   ],
   "titles": [
-    "Frankreichs neuer Premier: Macrons letzte Patrone",
     "Nach Medienbericht - Bundesinnenminister Dobrindt bestätigt Gespräche mit Taliban über Abschiebungen nach Afghanistan",
     "München - Veranstalter: Automesse IAA endet mit Besucherzuwachs",
     "Reaktionen auf Kirks Tod: Wer Gewalt relativiert, richtet sich selbst",
@@ -3000,13 +2999,13 @@
     "Krieg in Gaza - Nahost-Experte: Es kommt darauf an, wie lange Trump Druck macht",
     "Massaker von Darfur - Internationaler Strafgerichtshof spricht früheren sudanesischen Milizenchef schuldig",
     "Scharm el Scheich - Vermittlungsgespräche über Gaza-Plan haben begonnen",
+    "Regierungskrise in Frankreich - Macron beauftragt Lecornu, noch weiter mit Parteien zu verhandeln",
     "Zwei Jahre nach Hamas-Angriff - Rabbiner fordern mehr Einsatz gegen Extremismus in Europa",
     "Straßburg - EU-Parlament diskutiert über Misstrauensanträge gegen Europäische Kommission",
     "Nîmes - Berufungsprozess im Fall Pelicot in Frankreich hat begonnen",
     "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern"
   ],
   "hashes": [
-    "041dd9b338036ff00cafeff95e28f869",
     "37d9a4b89344deef5bcef5eaf46ab197",
     "82544515cb5ea2ffcd1cdfa690e5f2a9",
     "8afcd7baa3520b716ef5fc25d4aada17",
@@ -4002,6 +4001,7 @@
     "76c0a5319d189a9f499631b8b07455dc",
     "63b85576f07a21efb891604073ab7d51",
     "f2b2c5dd30698a50ffb0994d43d9d31f",
+    "fe8d38763a079eff985712e13aac8941",
     "171e399927cbc65ae88d51abe3105ae9",
     "90337b074af04047aefda17d22594b3e",
     "58873a252d1e1a8d8a16dbb5c74bee82",
