@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rund-6-000-historische-bauwerke-stehen-besuchern-heute-offen-102.html",
-    "https://www.deutschlandfunk.de/us-richterin-wirft-trump-regierung-gesetzesbruch-bei-abschiebungen-vor-102.html",
-    "https://www.deutschlandfunk.de/fdp-chef-duerr-will-seine-partei-neu-ausrichten-100.html",
     "https://www.deutschlandfunk.de/lieferengpaesse-sind-ein-dauerthema-100.html",
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-reist-nach-israel-100.html",
     "https://www.deutschlandfunk.de/russland-provoziert-erneut-mit-drohnen-alarm-in-polen-und-rumaenien-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/debatte-um-ausgestaltung-des-wehrdienstes-haelt-an-104.html",
     "https://www.deutschlandfunk.de/wohnungsmangel-immer-mehr-arbeitnehmer-schrecken-vor-jobwechsel-zurueck-100.html",
     "https://www.deutschlandfunk.de/zahl-der-offenen-ermittlungsverfahren-auf-hoechststand-100.html",
-    "https://www.faz.net/aktuell/politik/inland/antisemitismus-inzwischen-faengt-es-in-der-grundschule-an-accg-110718339.html"
+    "https://www.faz.net/aktuell/politik/inland/antisemitismus-inzwischen-faengt-es-in-der-grundschule-an-accg-110718339.html",
+    "https://www.deutschlandfunk.de/premierminister-lecornu-tritt-nach-nur-wenigen-wochen-zurueck-100.html",
+    "https://www.deutschlandfunk.de/russland-faengt-nach-eigenen-angaben-mehr-als-250-ukrainische-drohnen-ab-100.html",
+    "https://www.deutschlandfunk.de/antisemitismus-verbindet-verschiedene-politische-lager-100.html"
   ],
   "content_hashes": [
-    "417a9fccfe09c0d8a402e34c0afdb745",
-    "ba482bda71a53effa7fd258ebca4068b",
-    "4a9c40c41f7d353baa3675da48cb86fb",
     "8c5d7aa086bbb46e6b02415d10d1639e",
     "63bb7df14d18560229e853a23f5b1802",
     "93b27fa7aa6d763171dbb8a14dd580c2",
@@ -2001,12 +1998,12 @@
     "6d50f5e20828e6f8d0ff4f1d17a486a4",
     "da5cea59bc073df351d8d1412b891a89",
     "890223bf9b3bcbeb64b05b9d627a09f6",
-    "754d6673bee818cf17e48f0e1bc82044"
+    "754d6673bee818cf17e48f0e1bc82044",
+    "9365b206824fc7b97efa50daa1aff44c",
+    "c44e541179a4228e515e3347b9aa5d31",
+    "5ff583afa98b37de2ed463c94ed30156"
   ],
   "titles": [
-    "Tag des Denkmals - Rund 6.000 historische Bauwerke stehen Besuchern heute offen",
-    "Migrationspolitik - US-Richterin wirft Trump-Regierung Gesetzesbruch bei Abschiebungen vor",
-    "Nach verlorener Bundestagswahl - FDP-Chef Dürr will seine Partei neu ausrichten",
     "Apothekerverband warnt - Lieferengpässe sind ein Dauerthema",
     "Nahostkonflikt - US-Außenminister Rubio reist nach Israel",
     "Luftraumverletzungen - Russland provoziert erneut mit Drohnen - Alarm in Polen und Rumänien",
@@ -3003,12 +3000,12 @@
     "Bundeswehr - Debatte um Ausgestaltung des Wehrdienstes hält an",
     "Studie - Wohnungsmangel: Immer mehr Arbeitnehmer schrecken vor Jobwechsel zurück",
     "Statistisches Bundesamt - Zahl der offenen Ermittlungsverfahren auf Höchststand",
-    "Antisemitismus in Deutschland: Inzwischen fängt es in der Grundschule an"
+    "Antisemitismus in Deutschland: Inzwischen fängt es in der Grundschule an",
+    "Innenpolitische Krise in Frankreich - Premierminister Lecornu tritt nach nur wenigen Wochen zurück",
+    "Angriffskrieg gegen die Ukraine - Russland fängt nach eigenen Angaben mehr als 250 ukrainische Drohnen ab",
+    "RIAS-Bericht - Antisemitismus verbindet verschiedene politische Lager"
   ],
   "hashes": [
-    "e3d8ad5fb5f81d9fb45f687f2b307c6b",
-    "418642f93050ff72139f4333e225a786",
-    "38275fd3f3b9e6075fc1bfb208d59613",
     "97f4f8858e9d5ccb6d97014bcd12a486",
     "6eebdcb7c322004384ae6e4314b40b8c",
     "4189357a79b36c008acf3a05b2a43edb",
@@ -4005,6 +4002,9 @@
     "f3b1b4650e27b9ea4cb3bd630c40a3eb",
     "67b2023ab6b62f480db50c917e256da1",
     "e3f3ffe837ea71ded0afe030ee317758",
-    "b61d375a100f178c0fddd171544e6feb"
+    "b61d375a100f178c0fddd171544e6feb",
+    "04bd052a60ed0cc5aecd070600267b0e",
+    "234fd4ff84e40be8579bb70b5de138c3",
+    "117ece872ba2cf858f4684e946bd6da0"
   ]
 }
