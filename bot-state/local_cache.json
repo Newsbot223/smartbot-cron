@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uebergangs-regierungschefin-kuendigt-kampf-gegen-korruption-in-nepal-an-100.html",
-    "https://www.deutschlandfunk.de/interview-rommel-jens-generalbundesanwalt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/brutale-rituale-bei-der-bundeswehr-jeder-ein-zaepfchen-accg-110683146.html",
     "https://www.deutschlandfunk.de/sparzwang-und-blockade-in-frankreich-anja-czymmeck-leiterin-kas-paris-100.html",
     "https://www.deutschlandfunk.de/uebergangs-regierungschefin-in-nepal-will-randalierer-bestrafen-und-geht-inhaltlich-auf-demonstrante-102.html",
     "https://www.deutschlandfunk.de/kommunalwahlen-in-nordrhein-westfalen-104.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russland-weist-vorwuerfe-zu-drohnen-in-deutschland-zurueck-100.html",
     "https://www.deutschlandfunk.de/verfassungsschutz-sieht-erhebliche-gefaehrdungslage-fuer-juedinnen-und-juden-in-deutschland-100.html",
     "https://www.aljazeera.com/news/2025/10/6/nobel-prize-for-medicine-awarded-to-immune-system-researchers?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/ausland/die-autofahrerpartei-hilft-babi-zur-rueckkehr-in-prag-accg-110718645.html"
+    "https://www.faz.net/aktuell/politik/ausland/die-autofahrerpartei-hilft-babi-zur-rueckkehr-in-prag-accg-110718645.html",
+    "https://www.deutschlandfunk.de/mehr-elektroautos-neu-zugelassen-marktanteil-19-3-prozent-100.html",
+    "https://www.deutschlandfunk.de/deutsch-franzose-monterlos-im-spionage-prozess-freigesprochen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bsw-laedt-russischen-botschafter-nach-potsdam-ein-accg-110718787.html"
   ],
   "content_hashes": [
-    "9c1cf71b05c58a1124cc037e987c5a1c",
-    "0f1856f0b5d0e5771898cbfc58e8603b",
-    "0b305b896fbece8f405c0190b738c58a",
     "610e4b901b372d4d13478c68e43bf759",
     "816dd0668e8763bb1d769212f6dcc6c7",
     "cc370baf2ddd789303cfb3a552964c60",
@@ -2001,12 +1998,12 @@
     "0078c024c44012e42f93984cbb8e8dbb",
     "256514dc95a88627c2b6170d5eed8180",
     "87b99fada985da0e625d0dfb27900718",
-    "4c27a80d252595b578a47127a62cc603"
+    "4c27a80d252595b578a47127a62cc603",
+    "07d8aa13ac8f789ab8793b1b476d51c6",
+    "5264ef912d2bc47633bac1a49e686077",
+    "e8039384f28112321f7c99209b71b723"
   ],
   "titles": [
-    "Übergangs-Regierungschefin kündigt Kampf gegen Korruption in Nepal an",
-    "Generalbundesanwalt - Rommel sieht deutsche Justiz am Limit",
-    "Brutale Rituale in der Truppe: Jeder ein Zäpfchen",
     "Frankreich - Neue Regierung, alte Sorgen",
     "Südasien - Übergangs-Regierungschefin in Nepal will Randalierer bestrafen - und geht inhaltlich auf Demonstranten zu",
     "Bundespolitische Bedeutung - Kommunalwahlen in Nordrhein-Westfalen",
@@ -3003,12 +3000,12 @@
     "Sicherheit - Russland weist Vorwürfe zu Drohnen in Deutschland zurück",
     "Sicherheitsanalyse - Verfassungsschutz sieht \"erhebliche Gefährdungslage\" für Jüdinnen und Juden in Deutschland",
     "Nobel Prize for medicine awarded to immune system researchers",
-    "Babiš-Partner in Tschechien: Autofahrer an die Macht"
+    "Babiš-Partner in Tschechien: Autofahrer an die Macht",
+    "Mobilität - Mehr Elektroautos neu zugelassen - Marktanteil 19,3 Prozent",
+    "Iran - Deutsch-Franzose Monterlos im Spionage-Prozess freigesprochen",
+    "Brandenburg: BSW lädt russischen Botschafter ein"
   ],
   "hashes": [
-    "a962e0a21b3c66759c67f05515c5cd28",
-    "dca689472c2af29a4a24e0d15aa6853b",
-    "0969a14584bd58efb1dbd0b3cef5a34a",
     "30994cdb6e21d365fbb571a806b50836",
     "7e262262e94ef5a8405f83922a250935",
     "ab0ff59d9a0c4a4e0ec9f07a7a360ef9",
@@ -4005,6 +4002,9 @@
     "d2f8c3090fb65fb1e890b994b7302168",
     "abc191b94e723c927582324fc8c3931a",
     "02058f5a71a3a6d83e88c5b6b6b84967",
-    "111c14eafcc5d55add959103dfa363dd"
+    "111c14eafcc5d55add959103dfa363dd",
+    "62242c46f7dc529b525405e299c2fd19",
+    "6523622315ae6b9bc3ecdda8fcd11463",
+    "9bd00cef4d5d7dc334898edd15e8c4b6"
   ]
 }
