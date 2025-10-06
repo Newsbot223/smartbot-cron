@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israelische-armee-hunderttausende-menschen-haben-stadt-gaza-verlassen-100.html",
-    "https://www.deutschlandfunk.de/ueber-100-000-bei-demonstration-gegen-einwanderung-in-london-100.html",
-    "https://www.deutschlandfunk.de/ukraine-greift-eine-der-groessten-russischen-erdoelraffinerien-an-polen-und-rumaenien-in-alarmbereit-100.html",
     "https://www.deutschlandfunk.de/venezuela-wirft-us-marine-vor-grundlos-ein-fischerboot-aufgebracht-zu-haben-100.html",
     "https://www.deutschlandfunk.de/25-verletzte-bei-explosion-in-wohn-und-geschaeftshaus-in-madrid-100.html",
     "https://www.deutschlandfunk.de/rund-13-7-millionen-menschen-zu-kommunalwahl-in-nordrhein-westfalen-aufgerufen-abschneiden-der-afd-i-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruene-unterstuetzen-spd-vorhaben-zur-foerderung-von-stahl-aus-europa-100.html",
     "https://www.deutschlandfunk.de/bundesrichterin-untersagt-abermals-entsendung-von-nationalgarde-nach-portland-100.html",
     "https://www.deutschlandfunk.de/grund-fuer-sperrung-des-flughafens-vilnius-waren-schmugglerballons-100.html",
-    "https://www.deutschlandfunk.de/berufungsprozess-im-fall-pelicot-in-frankreich-beginnt-100.html"
+    "https://www.deutschlandfunk.de/berufungsprozess-im-fall-pelicot-in-frankreich-beginnt-100.html",
+    "https://www.deutschlandfunk.de/cdu-aussenpolitiker-hardt-hamas-darf-keine-politische-und-militaerische-rolle-mehr-spielen-102.html",
+    "https://www.deutschlandfunk.de/bislang-54-tote-nach-einsturz-der-koranschule-auf-java-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahlrecht-mehr-als-nur-schlechter-stil-110717653.html"
   ],
   "content_hashes": [
-    "fd0fb8ce9445570e4a32873b9d387231",
-    "2fed142a2657ef797979b3dfac57868f",
-    "7dbb63100766a7e38191121118cf0c92",
     "b730e5b6b17d131bf3b6b2fae8ffdb4f",
     "80f9749f6d3c65abf241dbdba143e054",
     "62428d691866e39b7aa9ba854c04b444",
@@ -2001,12 +1998,12 @@
     "36e48a75f947090b31f049e1390b8c90",
     "de8f8f877bf5d08c6068a5d45d6526f2",
     "82f5c6d41a241a3bc0af2a74bb2d81d6",
-    "5f4db2ee3ce0116ad5a881f51ff0b9b0"
+    "5f4db2ee3ce0116ad5a881f51ff0b9b0",
+    "0d03804222b7f5b514d52cbc26269ef0",
+    "eadbe5467ade83bbaece4a4f3d51ab25",
+    "13928679e6cbee5bcbd54e18a0f42295"
   ],
   "titles": [
-    "Nahost - Israelische Armee: Hunderttausende Menschen haben Stadt Gaza verlassen",
-    "Großbritannien - Über 100.000 bei Demonstration gegen Einwanderung in London",
-    "Krieg - Ukraine greift eine der größten russischen Erdölraffinerien an - Polen und Rumänien in Alarmbereitschaft wegen Drohnen",
     "Karibik - Venezuela wirft US-Marine vor, grundlos ein Fischerboot aufgebracht zu haben",
     "Spanien - 25 Verletzte bei Explosion in Wohn- und Geschäftshaus in Madrid",
     "Bundespolitische Bedeutung - Rund 13,7 Millionen Menschen zu Kommunalwahl in Nordrhein-Westfalen aufgerufen - Abschneiden der AfD im Ruhrgebiet im Fokus",
@@ -3003,12 +3000,12 @@
     "Buy European - Grüne unterstützen SPD-Vorhaben zur Förderung von Stahl aus Europa",
     "Oregon - Bundesrichterin untersagt abermals Entsendung von Nationalgarde nach Portland",
     "Litauen - Grund für Sperrung des Flughafens Vilnius waren Schmugglerballons",
-    "Nîmes - Berufungsprozess im Fall Pelicot in Frankreich beginnt"
+    "Nîmes - Berufungsprozess im Fall Pelicot in Frankreich beginnt",
+    "Nahost - CDU-Außenpolitiker Hardt: Hamas darf keine politische und militärische Rolle mehr spielen",
+    "Indonesien - Bislang 54 Tote nach Einsturz der Koranschule auf Java",
+    "Bundestagswahlrecht: Die nächste Retourkutsche"
   ],
   "hashes": [
-    "2d14435dd37de5243517b0836ff94197",
-    "49c903855bf8c25699cb198614712af2",
-    "f902ca6374f19eca871e1aa0d82a04bd",
     "7c743305f77d14b9a18f88fbb3a3d9db",
     "99d2bbc9636c566bb34bcd5ab58ecfa5",
     "1eb77df15873eb17abc6bacba875acfe",
@@ -4005,6 +4002,9 @@
     "fd4dc1139d02b6adf2b8ed5a9b24ed94",
     "39ff0c7a48a238b40f23520aab147bb6",
     "03c2914a76080a85c6a321080866e044",
-    "3ec0893af18851da790b84274636d60c"
+    "3ec0893af18851da790b84274636d60c",
+    "29bc7e860bc1dc8ca9a0174f7afd1428",
+    "5849a441623d446ccc75ec0c44a2c5a8",
+    "42b5242805eca4a0fcd310e9ad599805"
   ]
 }
