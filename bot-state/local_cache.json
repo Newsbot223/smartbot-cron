@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/roettgen-fordert-nato-beschaffungsprogramm-fuer-abwehrdrohnen-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-patrone-110682812.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-bestaetigt-gespraeche-mit-taliban-ueber-abschiebungen-nach-afghanistan-100.html",
     "https://www.deutschlandfunk.de/veranstalter-automesse-iaa-endet-mit-besucherzuwachs-100.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/reaktionen-auf-kirks-ermordung-nie-zu-rechtfertigen-110685091.html",
     "https://www.faz.net/aktuell/politik/ausland/frankreichs-neuer-premierminister-macrons-letzte-chance-110682812.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/vermittlungsgespraeche-ueber-gaza-plan-haben-begonnen-100.html",
     "https://www.deutschlandfunk.de/rabbiner-fordern-mehr-einsatz-gegen-extremismus-in-europa-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-diskutiert-ueber-misstrauensantraege-gegen-europaeische-kommission-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html"
+    "https://www.deutschlandfunk.de/berufungsprozess-im-fall-pelicot-in-frankreich-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html",
+    "https://www.deutschlandfunk.de/die-folgen-des-7-oktober-fuer-juedinnen-und-juden-100.html",
+    "https://www.faz.net/aktuell/politik/inland/russische-invasion-merkel-kritisiert-polen-und-balten-110719025.html"
   ],
   "content_hashes": [
-    "7b4443004a6f01b3514c192ba4cd23d0",
-    "33753789a5d69f074ad3c9019894cd4a",
-    "5f09491cd73d72ccdeb370d1ccba47c6",
     "33f7621c1405b0882b378823beb9b8f7",
     "e516c12f1f275a1f09e520437f7331e0",
     "5c479557e7457df800091742e4c9ce6b",
@@ -2001,12 +1998,12 @@
     "8064c3c284b664b6d65bcf7d0ea1fbae",
     "79beb52dbaac8d2b02e5f4fb71414b3e",
     "d92d5023553e663ebf9ed56db2a93423",
-    "c4b9195596dd7f710f56c71ecccb8a64"
+    "fd82b93ce7fa3cb09a7d25e5bd8eb850",
+    "c4b9195596dd7f710f56c71ecccb8a64",
+    "7179ae4baf201e77206323c4de9640f5",
+    "8ba3f033ccb3a18dcb60fd3eada99d2d"
   ],
   "titles": [
-    "Konflikt mit Russland - Röttgen fordert NATO-Beschaffungsprogramm für Abwehrdrohnen",
-    "Frankreichs neuer Premier: Macrons letzte Patrone",
-    "Nach Medienbericht - Bundesinnenminister Dobrindt bestätigt Gespräche mit Taliban über Abschiebungen nach Afghanistan",
     "München - Veranstalter: Automesse IAA endet mit Besucherzuwachs",
     "Reaktionen auf Kirks Tod: Wer Gewalt relativiert, richtet sich selbst",
     "Frankreichs neuer Premier: Macrons letzte Chance",
@@ -3003,12 +3000,12 @@
     "Scharm el Scheich - Vermittlungsgespräche über Gaza-Plan haben begonnen",
     "Zwei Jahre nach Hamas-Angriff - Rabbiner fordern mehr Einsatz gegen Extremismus in Europa",
     "Straßburg - EU-Parlament diskutiert über Misstrauensanträge gegen Europäische Kommission",
-    "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern"
+    "Nîmes - Berufungsprozess im Fall Pelicot in Frankreich hat begonnen",
+    "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern",
+    "Seit Hamas-Angriff - Antisemitische Vorfälle in Deutschland nehmen zu",
+    "Russische Invasion: Merkel kritisiert Polen und Balten"
   ],
   "hashes": [
-    "a47807e473f31600aa1522f9d5388769",
-    "041dd9b338036ff00cafeff95e28f869",
-    "37d9a4b89344deef5bcef5eaf46ab197",
     "82544515cb5ea2ffcd1cdfa690e5f2a9",
     "8afcd7baa3520b716ef5fc25d4aada17",
     "36e4044c59b3f38bac22be05d44202c4",
@@ -4005,6 +4002,9 @@
     "f2b2c5dd30698a50ffb0994d43d9d31f",
     "171e399927cbc65ae88d51abe3105ae9",
     "90337b074af04047aefda17d22594b3e",
-    "be99fba70d8a039cadddfb2309fa3218"
+    "58873a252d1e1a8d8a16dbb5c74bee82",
+    "be99fba70d8a039cadddfb2309fa3218",
+    "3e924de34ecd1b543476e39eecd1fdbb",
+    "b4f807ee3af247f64e79750580a105cb"
   ]
 }
