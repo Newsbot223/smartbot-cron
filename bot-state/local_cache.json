@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesident-trump-unterzeichnet-dekret-zur-entsendung-der-nationalgarde-auch-nach-memphis-100.html",
-    "https://www.deutschlandfunk.de/zwei-belarussen-nach-drohnenflug-ueber-regierungsgebaeude-in-warschau-festgenommen-102.html",
     "https://www.deutschlandfunk.de/cdu-experte-streeck-plaediert-fuer-selbstbeteiligung-von-patienten-100.html",
     "https://www.deutschlandfunk.de/augenzeugen-heftige-angriffe-auf-stadt-gaza-medienbericht-ueber-beginn-von-israelischer-bodenoffensi-100.html",
     "https://www.deutschlandfunk.de/berufungsgericht-bestaetigt-notenbank-vorstaendin-cook-bleibt-im-amt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesamt-fuer-bevoelkerungsschutz-giftige-rauchwolke-nach-ereignis-in-mainaschaff-100.html",
     "https://www.deutschlandfunk.de/lecornu-trifft-vorsitzende-beider-parlamentskammern-100.html",
     "https://www.deutschlandfunk.de/polizei-schliesst-politisches-tatmotiv-aus-100.html",
-    "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-strom-aus-erneuerbaren-als-aus-kohle-102.html"
+    "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-strom-aus-erneuerbaren-als-aus-kohle-102.html",
+    "https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-wegen-giftwolke-aus-galvanik-betrieb-100.html",
+    "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-bedroht-wie-nie-nach-dem-zweiten-weltkrieg-110720635.html"
   ],
   "content_hashes": [
-    "90c111ccf0983981715b642f4efac17e",
-    "78be072f3868b7801e3784b447e3f012",
     "3396bdc97aa1adb4db14f54be5d85b41",
     "25256c72d6e889b36f9f2bb1e77baa4e",
     "bfc263397f7e97de22004ebe09b72418",
@@ -2001,11 +1999,11 @@
     "af5006d2823dfa5572033f320a6eac1a",
     "7014b321914af50b4b227214bcd4d999",
     "97a9e94fcc3b45be7fda5c37931c5018",
-    "692707b3b76c4e4224a51ede7a31ee6b"
+    "692707b3b76c4e4224a51ede7a31ee6b",
+    "fde61e00ad0fe6e6f4deb0d6d169c5b2",
+    "464edce812715028ef115945f579f66d"
   ],
   "titles": [
-    "USA - Präsident Trump unterzeichnet Dekret zur Entsendung der Nationalgarde auch nach Memphis",
-    "Polen - Zwei Belarussen nach Drohnenflug über Regierungsgebäude in Warschau festgenommen",
     "Gesundheitspolitik - CDU-Experte Streeck plädiert für Selbstbeteiligung von Patienten",
     "Nahost-Krieg - Augenzeugen: Heftige Angriffe auf Stadt Gaza - Medienbericht über Beginn von israelischer Bodenoffensive",
     "USA - Berufungsgericht bestätigt: Notenbank-Vorständin Cook bleibt im Amt",
@@ -3003,11 +3001,11 @@
     "Gefahrendurchsage für Mainaschaff und Aschaffenburg - Bundesamt für Bevölkerungsschutz: Giftige Rauchwolke nach Ereignis in Mainaschaff",
     "Regierungskrise - Lecornu trifft Vorsitzende beider Parlamentskammern",
     "Messerangriff auf SPD-Politikerin - Polizei schließt politisches Tatmotiv aus",
-    "Studie - Weltweit erstmals mehr Strom aus Erneuerbaren als aus Kohle"
+    "Studie - Weltweit erstmals mehr Strom aus Erneuerbaren als aus Kohle",
+    "Störfall in Mainaschaff - Großeinsatz der Feuerwehr wegen Giftwolke aus Galvanik-Betrieb",
+    "Juden in Deutschland: Bedroht wie nie nach dem Zweiten Weltkrieg"
   ],
   "hashes": [
-    "90e466c8136bfc2e270558baa4de18b1",
-    "61db4e44709606fc35fb4a18cd3b0c5d",
     "4df823ced776bb46f0dee572f4f6449b",
     "e4a135044847456e51d434c2e62afa10",
     "3525dd40575d2d7dfd75bdf52340c736",
@@ -4005,6 +4003,8 @@
     "4c81b3a1167d97d65ecb9f6441e75e51",
     "18bf8588c7aaa8c53e2cba29599283fb",
     "f7a4107874187a2a1fcf5383a08a1140",
-    "83e28eb9395dd3f847109073bf2518b6"
+    "83e28eb9395dd3f847109073bf2518b6",
+    "af6f47233c9d05cd47a687878003fc19",
+    "ee60daf4c1c8d956eea0de2189c58ea5"
   ]
 }
