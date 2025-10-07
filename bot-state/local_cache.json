@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/the-studio-bricht-mit-13-emmy-auszeichnung-rekord-102.html",
-    "https://www.deutschlandfunk.de/sondergipfel-in-doha-aufruf-zu-haerterem-vorgehen-gegen-israel-100.html",
-    "https://www.spiegel.de/ausland/polen-fordert-reparationszahlungen-und-deutschland-bietet-sicherheitsgarantien-a-d306b6f9-d69c-4211-a2c2-b28a0a1137dd#ref=rss",
-    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-cdu-schlaegt-sicherheitsgarantien-statt-reparationen-vor-102.html",
     "https://www.deutschlandfunk.de/selenskyj-truppen-ruecken-in-region-sumy-vor-102.html",
     "https://www.deutschlandfunk.de/usa-suedkorea-und-japan-starten-gemeinsame-militaeruebung-100.html",
     "https://www.deutschlandfunk.de/interview-mit-robin-brooks-brookings-institution-sanktionen-gegen-russland-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/aussenminister-wadephul-kuendigt-wiederaufbaukonferenz-fuer-den-gazastreifen-an-100.html",
     "https://www.deutschlandfunk.de/kaum-frauen-und-minderheiten-gewaehlt-100.html",
     "https://www.deutschlandfunk.de/schwedisch-daenischer-islamfeind-rasmus-paludan-wegen-volksverhetzung-bei-koranverbrennungen-zu-vier-102.html",
-    "https://www.deutschlandfunk.de/jugendherbergen-bieten-studenten-verguenstigte-zimmer-an-100.html"
+    "https://www.deutschlandfunk.de/jugendherbergen-bieten-studenten-verguenstigte-zimmer-an-100.html",
+    "https://www.deutschlandfunk.de/ministerin-radovan-alabali-kuendigt-neuausrichtung-der-entwicklungshilfe-an-100.html",
+    "https://www.deutschlandfunk.de/zwei-maenner-wegen-brutaler-vergewaltigung-von-kindern-zu-langen-haftstrafen-mit-anschliessender-sic-100.html",
+    "https://www.deutschlandfunk.de/starmer-verurteilt-brandanschlag-auf-moschee-in-peacehaven-100.html",
+    "https://www.faz.net/aktuell/politik/inland/geldnot-zwingt-die-kirchen-zu-grundlegenden-reformen-accg-110717489.html"
   ],
   "content_hashes": [
-    "c31e0052dc7c183475c464a28996d536",
-    "5e1b4ef1cf70622285e6e46c4122c7bf",
-    "7bf892c6fefceb2dcf9b7cc7cf725baa",
-    "593a6f38e69fc7ae4aa9a798751aa0e3",
     "707a64c835cee6459663d61860c53772",
     "a74c0f82c0954b86f4195e249f00315d",
     "a24d881a83a953f9fa144c5cd5f6f82e",
@@ -2001,13 +1997,13 @@
     "8bf4f7bfb483f299f5122df7b6c54542",
     "02a29e8444c1429b336e901827629582",
     "41598521fc33e7c4b4f2a5f814082c1f",
-    "f64f9bf8de5592264fedc1c3b704ce8c"
+    "f64f9bf8de5592264fedc1c3b704ce8c",
+    "0e1cff9149648ba407c057a770fa2b2f",
+    "0d86bba264fe75e1e75e2c076919eaf1",
+    "fd56fb44faa8458b16263a80700f1169",
+    "cb8c86c650f5258d8bf1b753a4d628f6"
   ],
   "titles": [
-    "Preisverleihung in Los Angeles - \"The Studio\" bricht mit 13. Emmy-Auszeichnung Rekord",
-    "Nach Angriff in Katar - Sondergipfel in Doha - Aufruf zu härterem Vorgehen gegen Israel",
-    "Polen fordert Reparationszahlungen – und Deutschland bietet Sicherheitsgarantien",
-    "Bundesregierung - Polen-Beauftragter Abraham (CDU) schlägt Sicherheitsgarantien statt Reparationen vor",
     "Krieg in der Ukraine - Selenskyj: Truppen rücken in Region Sumy vor",
     "\"Freedom Edge\" - USA, Südkorea und Japan starten gemeinsame Militärübung",
     "Ökonom zu Sanktionen - Wie Russland wirklich geschwächt werden könnte",
@@ -3003,13 +2999,13 @@
     "Nahost - Außenminister Wadephul kündigt Wiederaufbaukonferenz für den Gazastreifen an",
     "Syrien-Wahl - Kaum Frauen und Minderheiten gewählt",
     "Rechtextremismus - Schwedisch-dänischer Islamfeind Rasmus Paludan wegen Volksverhetzung bei Koranverbrennungen zu vier Monaten Haft verurteilt",
-    "Wohnungsnot - Jugendherbergen bieten Studenten vergünstigte Zimmer an"
+    "Wohnungsnot - Jugendherbergen bieten Studenten vergünstigte Zimmer an",
+    "Internationale Zusammenarbeit - Ministerin Radovan Alabali kündigt Neuausrichtung der Entwicklungshilfe an",
+    "Sexualisierte Gewalt - Zwei Männer wegen brutaler Vergewaltigung von Kindern zu langen Haftstrafen mit anschließender Sicherungsverwahrung verurteilt",
+    "Großbritannien - Starmer verurteilt Brandanschlag auf Moschee in Peacehaven",
+    "Strukturen im Wandel: Geldnot zwingt die Kirchen zu grundlegenden Reformen"
   ],
   "hashes": [
-    "6341049a0af2ae71d3fd993fc78dc0cd",
-    "a5935ace3fdbc17d92c6ddfb0d5a636c",
-    "521e006b7214c513d8ab68f2c009b20b",
-    "7f786088e3cda224d9da3adfe8d853ea",
     "8e0d2e945f4104ab5044fb8e4f9951b7",
     "7306b89ad5125a3bece4892ecacdd7fb",
     "9a18596cf7940015f2203c9592a714eb",
@@ -4005,6 +4001,10 @@
     "5c33d523502a994b195cd790d580cb88",
     "c36a4e8caa703c52cfa59fe7838e074e",
     "8d56eff44f843bebdd605746abc28472",
-    "9c6bf1a941943070f121e681d8bb6188"
+    "9c6bf1a941943070f121e681d8bb6188",
+    "21510b014e6b24aac1ade405880b459c",
+    "3e0d6b3d8802cb4d40d200b5e3357095",
+    "f5645700db0955943043ceeebffbdd7c",
+    "35dc49257d6d811923b4fbb1023ce361"
   ]
 }
