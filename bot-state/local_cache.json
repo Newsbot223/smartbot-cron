@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-ringt-mit-traenen-bei-wiedereroeffnung-von-synagoge-in-muenchen-a-2c5572bd-a676-429e-bee8-9575305a4e21#ref=rss",
-    "https://www.deutschlandfunk.de/synagoge-in-muenchen-wiedereroeffnet-merz-kaempft-mit-den-traenen-100.html",
     "https://www.deutschlandfunk.de/vizepraesident-sinan-selen-rueckt-an-spitze-des-verfassungsschutzes-100.html",
     "https://www.deutschlandfunk.de/ex-bnd-chef-kahl-tritt-amt-als-deutscher-botschafter-bei-papst-leo-xiv-an-100.html",
     "https://www.deutschlandfunk.de/wir-sind-athen-und-sparta-israels-premier-netanjahu-bereitet-sein-land-auf-eine-zunehmende-internati-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/herdecke-in-nrw-neue-spd-buergermeisterin-bei-messerangriff-lebensgefaehrlich-verletzt-accg-110720325.html",
     "https://www.spiegel.de/ausland/spd-ministerin-alabali-radovan-will-entwicklungshilfe-an-wirtschaft-ausrichten-a-0c533b04-907f-45c6-bb7e-33483466ba4b#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/compact-magazin-feiert-lang-lebe-wladimir-putin-accg-110720433.html",
-    "https://www.faz.net/einspruch/bundesverfassungsgericht-diese-richter-schickt-der-bundestag-nach-karlsruhe-110701259.html"
+    "https://www.faz.net/einspruch/bundesverfassungsgericht-diese-richter-schickt-der-bundestag-nach-karlsruhe-110701259.html",
+    "https://www.deutschlandfunk.de/bisher-keine-einigung-bei-verhandlungen-ueber-gaza-friedensplan-102.html",
+    "https://www.deutschlandfunk.de/motiv-nach-messerattacke-auf-neugewaehlte-buergermeisterin-in-herdecke-bislang-nicht-bekannt-100.html"
   ],
   "content_hashes": [
-    "90e41a9c722dbfc0fc1e6f7feb944adc",
-    "97ca3a7eb43eb86b411e6054f53bc9d8",
     "7391085d6f3ca78d5a050b69db8488c7",
     "e41d009c58908e56fa15abbc4ca62058",
     "347c7ceb9d3e76c4314c4f7707f69e48",
@@ -2001,11 +1999,11 @@
     "f4f30183acdd33d42d1b3fb7321ed4a2",
     "599e783bca455681b032b4543146dc5d",
     "d372091643901d0663becd41ac843a0c",
-    "8e3c735bc62201bfa1bf1402aaf50e49"
+    "8e3c735bc62201bfa1bf1402aaf50e49",
+    "4213cb35509d7ae2d1fc3f1f6f31498a",
+    "8908e654b429947ebe4d1ed44c9e71b2"
   ],
   "titles": [
-    "Friedrich Merz ringt mit Tränen bei Wiedereröffnung von Synagoge in München",
-    "Reichenbachstraße - Synagoge in München wiedereröffnet - Merz kämpft mit den Tränen",
     "Geheimdienst - Vizepräsident Sinan Selen rückt an Spitze des Verfassungsschutzes",
     "Vatikan - Ex-BND-Chef Kahl tritt Amt als deutscher Botschafter bei Papst Leo XIV. an",
     "Gazakrieg - \"Wir sind Athen und Sparta\" - Israels Premier Netanjahu bereitet sein Land auf eine zunehmende internationale Isolation vor",
@@ -3003,11 +3001,11 @@
     "Herdecke in NRW: Neue SPD-Bürgermeisterin lebensgefährlich verletzt",
     "SPD-Ministerin Alabali Radovan will Entwicklungshilfe an Wirtschaft ausrichten",
     "„Compact“-Magazin: Berliner Geburtstagsgrüße für Wladimir Putin",
-    "Bundesverfassungsgericht: Das sind die neuen Richter für Karlsruhe"
+    "Bundesverfassungsgericht: Das sind die neuen Richter für Karlsruhe",
+    "Scharm el Scheich - Bisher keine Einigung bei Verhandlungen über Gaza-Friedensplan",
+    "Nordrhein-Westfalen - Motiv nach Messerattacke auf neugewählte Bürgermeisterin in Herdecke bislang nicht bekannt"
   ],
   "hashes": [
-    "4be216459545ba9f0a292b1829d10d8e",
-    "71e32401524f2144cdd4b5601b8b8a92",
     "ad74f8a6d0ac2a370a62487d29a1139b",
     "3686c0fce78910fef4a6af275b177adb",
     "3e8b125fb16702e64b95ab3940f92a21",
@@ -4005,6 +4003,8 @@
     "45b7a10870603167865e83e3224cb83a",
     "bf87a813bc366308b1e2e044337eca6d",
     "c2a17fead51c5ffc9fcf11e76e8d99d4",
-    "b5d147e68eefc031f34ea0bfce9f8628"
+    "b5d147e68eefc031f34ea0bfce9f8628",
+    "0343e50e249939e88f672afc4c6aeb38",
+    "daa27f07a3caddf50314640f8c9216d3"
   ]
 }
