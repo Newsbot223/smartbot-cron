@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/abschiebung-von-straftaetern-gespraeche-zu-regelmaessigen-rueckfuehrungen-nach-afghanistan-accg-110685417.html",
-    "https://www.deutschlandfunk.de/selenskyj-bietet-nato-unterstuetzung-bei-der-abwehr-russischer-drohnen-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/die-afd-auch-im-westen-der-stichwahl-schreck-110685456.html",
     "https://www.deutschlandfunk.de/medienberichte-sinan-selen-wird-neuer-verfassungsschutzpraesident-100.html",
     "https://www.deutschlandfunk.de/sondergipfel-zur-lage-in-israel-beginnt-in-doha-102.html",
     "https://www.deutschlandfunk.de/cdu-und-spd-wollen-sich-in-stichwahlen-gegen-afd-kandidaten-gegenseitig-helfen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-102.html",
     "https://www.deutschlandfunk.de/wadephul-lobt-gaza-vermittlungsbemuehungen-deutschland-eine-wiederaufbaukonferenz-organisieren-102.html",
     "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-proteste-halten-weiter-an-100.html",
-    "https://www.deutschlandfunk.de/medien-berichten-nach-erster-runde-von-positiver-atmosphaere-102.html"
+    "https://www.deutschlandfunk.de/medien-berichten-nach-erster-runde-von-positiver-atmosphaere-102.html",
+    "https://www.deutschlandfunk.de/deutscher-regisseur-holt-gold-104.html",
+    "https://www.deutschlandfunk.de/physik-nobelpreistraeger-werden-verkuendet-104.html",
+    "https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-friedrich-merz-warnt-vor-antisemitismus-in-altem-und-neuem-gewand-a-b0b5f88b-f2a9-4b09-8844-ca26c92d4a44#ref=rss"
   ],
   "content_hashes": [
-    "1027d82741009ae7d27294d0bdcdc4e8",
-    "6ba992f6c8b9c156217031ca74673741",
-    "2dd458af59148907f1c80a2379f450b3",
     "25113b046342f7332902f2f3a80b9158",
     "2d1f63154287feac6e02440b0e8a6109",
     "2578a248318f4168d30b76a0daadf73f",
@@ -2001,12 +1998,12 @@
     "3e2a17637e2c4e1ab48aa7fe17d79911",
     "e7947d142c1314dd2235aed19b19b71a",
     "6699f82597ddb1900260189b6012c168",
-    "0c0ab6c5f1df3666511d97902f84f8d7"
+    "0c0ab6c5f1df3666511d97902f84f8d7",
+    "8880fb10626de9fa3d0efca4ffc65c0b",
+    "a4a53f9c5c3ff32b15528e4bba7f1d27",
+    "eb87260c0de2481733e3896eea92ea8a"
   ],
   "titles": [
-    "Abschiebung von Straftätern: Gespräche zu regelmäßigen Rückführungen nach Afghanistan",
-    "Ukraine - Selenskyj bietet NATO Unterstützung bei der Abwehr russischer Drohnen an",
-    "Kommunalwahl in NRW: Parteien im Herbst der Demokratie",
     "Personalie - Medienberichte: Sinan Selen wird neuer Verfassungsschutzpräsident",
     "Nahost - Sondergipfel zur Lage in Israel beginnt in Doha",
     "Kommunalwahlen in NRW - CDU und SPD wollen sich in Stichwahlen gegen AfD-Kandidaten gegenseitig helfen",
@@ -3003,12 +3000,12 @@
     "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef",
     "Nahost-Reise - Wadephul lobt Gaza-Vermittlungsbemühungen - \"Deutschland eine Wiederaufbaukonferenz organisieren\"",
     "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef - Proteste halten weiter an",
-    "Gaza-Verhandlungen - Medien berichten nach erster Runde von \"positiver Atmosphäre\""
+    "Gaza-Verhandlungen - Medien berichten nach erster Runde von \"positiver Atmosphäre\"",
+    "Studenten-Oscars - Deutscher Regisseur holt Gold",
+    "Stockholm - Physik-Nobelpreisträger werden verkündet",
+    "Hamas-Überfall auf Israel: Friedrich Merz warnt vor Antisemitismus »in altem und neuem Gewand«"
   ],
   "hashes": [
-    "68b75b4b326a5997566a8633e80a4ebd",
-    "bb601f837c1929b5f8021cf690a56245",
-    "3624575e8c71610ca4cb54364e0de0cf",
     "9c0ebd1cb42fc977c0ff037765cca818",
     "deb57b8f23c3ad62f87683a1bdeba04c",
     "3b577e33e6c3678b2a7c0afe448156b0",
@@ -4005,6 +4002,9 @@
     "548ccac1512c4c0bf7ac309aba323b32",
     "079a23410177def66488d860182eb844",
     "2f0645bc4e37f623ebd209e38ae0a82d",
-    "99774c6c0372af95b212b33502702953"
+    "99774c6c0372af95b212b33502702953",
+    "281363cdb63231fde9234167d226a36a",
+    "2479253c4e1c35b83111a2d80201b286",
+    "19610faabb75fbbaf60de08dde27c3b0"
   ]
 }
