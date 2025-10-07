@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-truppen-ruecken-in-region-sumy-vor-102.html",
-    "https://www.deutschlandfunk.de/usa-suedkorea-und-japan-starten-gemeinsame-militaeruebung-100.html",
     "https://www.deutschlandfunk.de/interview-mit-robin-brooks-brookings-institution-sanktionen-gegen-russland-100.html",
     "https://www.faz.net/aktuell/politik/inland/verfassungsschutzbericht-mehr-rechtsextremisten-in-thueringen-accg-110686344.html",
     "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-in-nrw-diese-zahlen-spiegeln-den-afd-erfolg-accg-110681383.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ministerin-radovan-alabali-kuendigt-neuausrichtung-der-entwicklungshilfe-an-100.html",
     "https://www.deutschlandfunk.de/zwei-maenner-wegen-brutaler-vergewaltigung-von-kindern-zu-langen-haftstrafen-mit-anschliessender-sic-100.html",
     "https://www.deutschlandfunk.de/starmer-verurteilt-brandanschlag-auf-moschee-in-peacehaven-100.html",
-    "https://www.faz.net/aktuell/politik/inland/geldnot-zwingt-die-kirchen-zu-grundlegenden-reformen-accg-110717489.html"
+    "https://www.faz.net/aktuell/politik/inland/geldnot-zwingt-die-kirchen-zu-grundlegenden-reformen-accg-110717489.html",
+    "https://www.deutschlandfunk.de/gewinner-wusste-lange-nichts-von-auszeichnung-102.html",
+    "https://www.deutschlandfunk.de/tschechische-atomexpertin-dana-drabova-ist-tot-102.html"
   ],
   "content_hashes": [
-    "707a64c835cee6459663d61860c53772",
-    "a74c0f82c0954b86f4195e249f00315d",
     "a24d881a83a953f9fa144c5cd5f6f82e",
     "5db98d3702aa3cbb5d71684f54d424e4",
     "237d7016194eb4d9c03e78bfd91d8870",
@@ -2001,11 +1999,11 @@
     "0e1cff9149648ba407c057a770fa2b2f",
     "0d86bba264fe75e1e75e2c076919eaf1",
     "fd56fb44faa8458b16263a80700f1169",
-    "cb8c86c650f5258d8bf1b753a4d628f6"
+    "cb8c86c650f5258d8bf1b753a4d628f6",
+    "c857daf114d18e25375ddde3731e60ec",
+    "d3461153e5f344692a1eef51aae09891"
   ],
   "titles": [
-    "Krieg in der Ukraine - Selenskyj: Truppen rücken in Region Sumy vor",
-    "\"Freedom Edge\" - USA, Südkorea und Japan starten gemeinsame Militärübung",
     "Ökonom zu Sanktionen - Wie Russland wirklich geschwächt werden könnte",
     "Neuer Verfassungsschutzbericht: Immer mehr Rechtsextremisten in Thüringen",
     "Kommunalwahlen-Analyse: Diese Zahlen spiegeln den Erfolg der AfD",
@@ -3003,11 +3001,11 @@
     "Internationale Zusammenarbeit - Ministerin Radovan Alabali kündigt Neuausrichtung der Entwicklungshilfe an",
     "Sexualisierte Gewalt - Zwei Männer wegen brutaler Vergewaltigung von Kindern zu langen Haftstrafen mit anschließender Sicherungsverwahrung verurteilt",
     "Großbritannien - Starmer verurteilt Brandanschlag auf Moschee in Peacehaven",
-    "Strukturen im Wandel: Geldnot zwingt die Kirchen zu grundlegenden Reformen"
+    "Strukturen im Wandel: Geldnot zwingt die Kirchen zu grundlegenden Reformen",
+    "Medizin-Nobelpreis - Gewinner wusste lange nichts von Auszeichnung",
+    "Nukleare Sicherheit - Tschechische Atomexpertin Dana Drabova ist tot"
   ],
   "hashes": [
-    "8e0d2e945f4104ab5044fb8e4f9951b7",
-    "7306b89ad5125a3bece4892ecacdd7fb",
     "9a18596cf7940015f2203c9592a714eb",
     "f4afec2444ca07d63faf59b36b8284bf",
     "75118e728913776adb386141ac996cd4",
@@ -4005,6 +4003,8 @@
     "21510b014e6b24aac1ade405880b459c",
     "3e0d6b3d8802cb4d40d200b5e3357095",
     "f5645700db0955943043ceeebffbdd7c",
-    "35dc49257d6d811923b4fbb1023ce361"
+    "35dc49257d6d811923b4fbb1023ce361",
+    "16ca7da14397c60bc2abea358aa9c0c3",
+    "e0ba35416f29193f83504a30ad204702"
   ]
 }
