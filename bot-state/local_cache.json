@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interview-mit-robin-brooks-brookings-institution-sanktionen-gegen-russland-100.html",
-    "https://www.faz.net/aktuell/politik/inland/verfassungsschutzbericht-mehr-rechtsextremisten-in-thueringen-accg-110686344.html",
     "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-in-nrw-diese-zahlen-spiegeln-den-afd-erfolg-accg-110681383.html",
     "https://www.deutschlandfunk.de/uno-menschenrechtsrat-kuendigt-sondersitzung-zu-israelischen-angriffen-in-katar-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/sinan-selen-das-ist-der-neue-chef-des-verfassungsschutzes-accg-110686382.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/starmer-verurteilt-brandanschlag-auf-moschee-in-peacehaven-100.html",
     "https://www.faz.net/aktuell/politik/inland/geldnot-zwingt-die-kirchen-zu-grundlegenden-reformen-accg-110717489.html",
     "https://www.deutschlandfunk.de/gewinner-wusste-lange-nichts-von-auszeichnung-102.html",
-    "https://www.deutschlandfunk.de/tschechische-atomexpertin-dana-drabova-ist-tot-102.html"
+    "https://www.deutschlandfunk.de/tschechische-atomexpertin-dana-drabova-ist-tot-102.html",
+    "https://www.deutschlandfunk.de/gastro-gewerkschaft-ngg-wehrt-sich-gegen-drohendes-eu-namensverbot-fuer-veggie-produkte-100.html",
+    "https://www.deutschlandfunk.de/unbekannte-bespruehen-kieler-landtag-mit-anti-israelischen-parolen-100.html"
   ],
   "content_hashes": [
-    "a24d881a83a953f9fa144c5cd5f6f82e",
-    "5db98d3702aa3cbb5d71684f54d424e4",
     "237d7016194eb4d9c03e78bfd91d8870",
     "d0bc305dc13cea6520375d3680f23682",
     "ee6dbd12c40179ed069b9d0df018bafa",
@@ -2001,11 +1999,11 @@
     "fd56fb44faa8458b16263a80700f1169",
     "cb8c86c650f5258d8bf1b753a4d628f6",
     "c857daf114d18e25375ddde3731e60ec",
-    "d3461153e5f344692a1eef51aae09891"
+    "d3461153e5f344692a1eef51aae09891",
+    "8e8a2c2e3a03e334ce730ecf7e49ab71",
+    "592eb4c970d7fed97fafc9f2fd95f92d"
   ],
   "titles": [
-    "Ökonom zu Sanktionen - Wie Russland wirklich geschwächt werden könnte",
-    "Neuer Verfassungsschutzbericht: Immer mehr Rechtsextremisten in Thüringen",
     "Kommunalwahlen-Analyse: Diese Zahlen spiegeln den Erfolg der AfD",
     "Nahost - UNO-Menschenrechtsrat kündigt Sondersitzung zu israelischen Angriffen in Katar an",
     "Sinan Selen: Das ist der neue Chef des Verfassungsschutzes",
@@ -3003,11 +3001,11 @@
     "Großbritannien - Starmer verurteilt Brandanschlag auf Moschee in Peacehaven",
     "Strukturen im Wandel: Geldnot zwingt die Kirchen zu grundlegenden Reformen",
     "Medizin-Nobelpreis - Gewinner wusste lange nichts von Auszeichnung",
-    "Nukleare Sicherheit - Tschechische Atomexpertin Dana Drabova ist tot"
+    "Nukleare Sicherheit - Tschechische Atomexpertin Dana Drabova ist tot",
+    "Europäisches Parlament - Gastro-Gewerkschaft NGG wehrt sich gegen drohendes EU-Namensverbot für Veggie-Produkte",
+    "Jahrestag 7. Oktober - Unbekannte besprühen Kieler Landtag mit anti-israelischen Parolen"
   ],
   "hashes": [
-    "9a18596cf7940015f2203c9592a714eb",
-    "f4afec2444ca07d63faf59b36b8284bf",
     "75118e728913776adb386141ac996cd4",
     "a897d2bed2d32f85e3e3a0ed68859c40",
     "5d0bbc4d3d658a017de72b939547e9dd",
@@ -4005,6 +4003,8 @@
     "f5645700db0955943043ceeebffbdd7c",
     "35dc49257d6d811923b4fbb1023ce361",
     "16ca7da14397c60bc2abea358aa9c0c3",
-    "e0ba35416f29193f83504a30ad204702"
+    "e0ba35416f29193f83504a30ad204702",
+    "a8cc133a963793c30580218a99f4a9ea",
+    "452562bf8c96dcfd6f44a0b7c3ca84b4"
   ]
 }
