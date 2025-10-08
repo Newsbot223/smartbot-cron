@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/journalisten-spueren-fluechtigen-wirecard-manager-marsalek-in-moskau-auf-100.html",
-    "https://www.deutschlandfunk.de/niedersachsen-will-digitale-bildung-bei-jung-bis-alt-foerdern-landesweites-konzept-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/nikotinbeutel-experten-fuer-lungenheilkunde-warnen-vor-massiven-luecken-im-jugendschutz-100.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-plaediert-fuer-reform-des-sozialstaats-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-muss-sich-erneut-misstrauensantraegen-stellen-100.html",
     "https://www.deutschlandfunk.de/apotheken-sollen-mehr-leistungen-anbieten-koennen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russland-greift-erneut-energieversorgung-an-100.html",
     "https://www.deutschlandfunk.de/von-der-leyen-wirft-russland-hybriden-krieg-gegen-eu-vor-102.html",
     "https://www.faz.net/aktuell/politik/inland/fleisch-und-politik-thueringens-bratwurst-im-kulturkampf-accg-110714529.html",
-    "https://www.deutschlandfunk.de/flughafen-frankfurt-nimmt-terminal-3-am-22-april-in-betrieb-100.html"
+    "https://www.deutschlandfunk.de/flughafen-frankfurt-nimmt-terminal-3-am-22-april-in-betrieb-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-will-schaerfere-regeln-fuer-e-scooter-100.html",
+    "https://www.deutschlandfunk.de/cdu-politikerin-connemann-regt-abschaffung-des-evangelischen-reformationstags-an-102.html",
+    "https://www.deutschlandfunk.de/sambias-praesident-hichilema-ruft-zur-digitalen-transformation-in-afrika-auf-100.html"
   ],
   "content_hashes": [
-    "a736743ad416c06427dc756a213d21d3",
-    "6a3b1c346e36fddbc146a558e8526b72",
-    "422bdfa993e3014ed89606d81c96ee4b",
     "cd5dce24721e50a8997f4da3ccbd2632",
     "a535ff3f139d702fc3bcd66bfec7fab2",
     "69c8f1315ddd35a2152ab838d2c25775",
@@ -2001,12 +1998,12 @@
     "267ab57653fdd910d09c9158013c5e99",
     "922e532f4e3b2c1f8aafd3bdfd0c08ff",
     "d176c644b47ad294c9b95faec89f39e3",
-    "ff0f78ba92cc848e8ed0c1b2a2b42b93"
+    "ff0f78ba92cc848e8ed0c1b2a2b42b93",
+    "bc9edd2334d0cc7b45d0d745697b2357",
+    "2e3ded2ae570cba21de2e115ef3858be",
+    "ae74a74373cf01f6263a6ef2a3d91bcc"
   ],
   "titles": [
-    "Medienberichte - Journalisten spüren flüchtigen Wirecard-Manager Marsalek in Moskau auf",
-    "Medien - Niedersachsen will digitale Bildung bei jung bis alt fördern - landesweites Konzept beschlossen",
-    "Deutsche Gesellschaft für Pneumologie - Nikotinbeutel - Experten für Lungenheilkunde warnen vor massiven Lücken im Jugendschutz",
     "Gemeinwesen - Bundespräsident Steinmeier plädiert für Reform des Sozialstaats",
     "EU-Parlament - EU-Kommission muss sich erneut Misstrauensanträgen stellen",
     "Gesundheitsministerium - Apotheken sollen mehr Leistungen anbieten können",
@@ -3003,12 +3000,12 @@
     "Ukraine-Krieg - Russland greift erneut Energieversorgung an",
     "Debatte in Straßburg - Von der Leyen wirft Russland hybriden Krieg gegen EU vor",
     "Thüringen: Der Kulturkampf um die Wurst",
-    "Nach zehn Jahren Bauzeit - Flughafen Frankfurt nimmt Terminal 3 am 22. April in Betrieb"
+    "Nach zehn Jahren Bauzeit - Flughafen Frankfurt nimmt Terminal 3 am 22. April in Betrieb",
+    "Mobilität - Bundesregierung will schärfere Regeln für E-Scooter",
+    "Gesetzliche Feiertage - CDU-Politikerin Connemann regt Abschaffung des evangelischen Reformationstags an",
+    "Gipfel in Lusaka - Sambias Präsident Hichilema ruft zur digitalen Transformation in Afrika auf"
   ],
   "hashes": [
-    "cde6ce33cc0307c999ebb5ce7162a566",
-    "baf8539a8d2634cc25cef86ba3ecd699",
-    "9a3a6a2207a517b036f9538ed0be24d2",
     "e8945074137abfc5123fbedc1827cf40",
     "7c397e63cf3e07a2ee8633b717b492fa",
     "dc3ceab4fcf237f23127275636e886e3",
@@ -4005,6 +4002,9 @@
     "83afcf169d47c041130f249978c9f646",
     "7dc9f40483720a86ceb30be187f624fd",
     "16ef70e5543ddf284af7c8520d65cefc",
-    "7c92510e2f4d9dc4231a3845c8c1594e"
+    "7c92510e2f4d9dc4231a3845c8c1594e",
+    "2c8ada880d46a2a50d23484df525a778",
+    "11a6b62051ae3ec0cc607d3bc78aee4f",
+    "f84cbb69cf4c81dcf4ac3c504c0c41b8"
   ]
 }
