@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-unfalltote-an-bahnuebergaengen-100.html",
-    "https://www.deutschlandfunk.de/uno-menschenrechtsrat-wirft-israel-genozid-im-gazastreifen-vor-100.html",
     "https://www.deutschlandfunk.de/steinmeier-empfaengt-polens-praesidenten-nawrocki-100.html",
     "https://www.deutschlandfunk.de/israelisches-militaer-bodenoffensive-in-gaza-stadt-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/bundestag-abschlussberatungen-ueber-etat-fuer-laufendes-jahr-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-im-bayerischen-mainaschaff-102.html",
     "https://www.deutschlandfunk.de/fruehere-csu-vorsitzende-seehofer-und-huber-kritisieren-soeder-fuer-harte-abgrenzung-von-gruenen-102.html",
     "https://www.faz.net/aktuell/politik/ausland/was-man-von-dem-neuen-syrischen-parlament-erwarten-darf-110720731.html",
-    "https://www.deutschlandfunk.de/ringen-um-fortschritte-im-gazakrieg-israel-und-hamas-verhandeln-in-aegypten-100.html"
+    "https://www.deutschlandfunk.de/ringen-um-fortschritte-im-gazakrieg-israel-und-hamas-verhandeln-in-aegypten-100.html",
+    "https://www.deutschlandfunk.de/bundeskabinett-beraet-ueber-drohnenabwehr-krankenhausreform-und-e-scooter-100.html",
+    "https://www.deutschlandfunk.de/lange-nacht-de-impfens-in-praxen-und-apotheken-100.html"
   ],
   "content_hashes": [
-    "ad19414702569ea884827a4d34f98411",
-    "b11470b224037ecd319da2f2c64b14ee",
     "f6b3725716466153c9ed512e91d37bc7",
     "66c420787319c94ba441e77029c0aca5",
     "fe7360f635a9239f63e291529fd988e7",
@@ -2001,11 +1999,11 @@
     "33d59117bd950fe7e2722a9f6a8672d7",
     "3e8cb12ab08feaace6a3b79572b6570d",
     "ddca75ef1db2a188278e6dd31a4db315",
-    "062565b437dc43165b48c36f93d1a60d"
+    "062565b437dc43165b48c36f93d1a60d",
+    "c5e953b913e37e2f835b9ed01d3c5e4f",
+    "e38fe454234e1c1ffc04359f9423b5c7"
   ],
   "titles": [
-    "Verkehr - Mehr Unfalltote an Bahnübergängen",
-    "Genf - UNO-Menschenrechtsrat wirft Israel Genozid im Gazastreifen vor",
     "Antrittsbesuch in Berlin - Steinmeier empfängt Polens Präsidenten Nawrocki",
     "Nahost - Israelisches Militär: Bodenoffensive in Gaza-Stadt hat begonnen",
     "Finanzpolitik - Bundestag: Abschlussberatungen über Etat für laufendes Jahr",
@@ -3003,11 +3001,11 @@
     "Entwarnung - Kein giftiger Rauch mehr im bayerischen Mainaschaff",
     "Medienbericht - Frühere CSU-Vorsitzende Seehofer und Huber kritisieren Söder für harte Abgrenzung von Grünen",
     "Erste Wahlen nach Assad: Was man von Syriens neuem Parlament erwarten darf – und was nicht",
-    "Gespräche in Ägypten - Ringen um Fortschritte im Gazakrieg"
+    "Gespräche in Ägypten - Ringen um Fortschritte im Gazakrieg",
+    "Berlin - Bundeskabinett berät über Drohnenabwehr, Krankenhausreform und E-Scooter",
+    "Bundesweite Aktion - Lange Nacht de Impfens in Praxen und Apotheken"
   ],
   "hashes": [
-    "006152fe36b892d8c8426d286f978432",
-    "68f717c035f0d80d8f0f0475a5b98ee6",
     "a7c1a21cabbed62a8f00a3b9611abfa8",
     "c7540a580dd7f694e917dcc729a9245e",
     "e3290ea294db2712d874c7ee0419bfba",
@@ -4005,6 +4003,8 @@
     "7e82d30ca7e294af5c1e66a42b8d2320",
     "aad1860b39e517a3b267351441ea0bce",
     "9e666ca41921ab3d11d17c2f74f0fc98",
-    "10d032e432afee9f5fe1cba484ead669"
+    "10d032e432afee9f5fe1cba484ead669",
+    "54c70b79560c67eaa7fd33a0d61e48d9",
+    "4df3d253c97f9e3afa0315e454a0f2be"
   ]
 }
