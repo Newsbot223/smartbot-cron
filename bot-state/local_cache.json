@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-staatsanwaltschaft-erhebt-anklage-wegen-mordes-gegen-22-jaehrigen-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-setzt-trotz-heftiger-kritik-angriffe-auf-gaza-stadt-fort-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/meyer-burger-600-beschaeftigte-in-deutschland-gekuendigt-a-4fa30000-161d-4f02-81c2-82d4e0df7045#ref=rss",
-    "https://www.deutschlandfunk.de/papageien-und-schildkroeten-bei-razzien-gegen-tierhandel-gerettet-100.html",
-    "https://www.deutschlandfunk.de/trend-zu-groesseren-wohnungen-haelt-an-102.html",
     "https://www.deutschlandfunk.de/mutmasslicher-spion-hingerichtet-102.html",
     "https://www.deutschlandfunk.de/verdaechtiger-im-fall-maddie-aus-haft-entlassen-102.html",
     "https://www.spiegel.de/politik/deutschland/generaldebatte-im-bundestag-friedrich-merz-stellt-buerger-auf-tiefgreifende-veraenderungen-ein-a-a3bf26b3-7049-4306-ab66-ae874e2be38b#ref=rss",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/sinan-selen-als-neuer-praesident-des-bundesverfassungsschutz-im-amt-100.html",
     "https://www.deutschlandfunk.de/festnahme-nach-brandstiftung-an-parteibueros-von-csu-und-afd-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-stimmt-ueber-namensverbot-fuer-veggie-produkte-ab-100.html",
-    "https://www.deutschlandfunk.de/frist-fuer-ausweg-aus-regierungskrise-laeuft-ab-lecornu-will-informieren-100.html"
+    "https://www.deutschlandfunk.de/frist-fuer-ausweg-aus-regierungskrise-laeuft-ab-lecornu-will-informieren-100.html",
+    "https://www.deutschlandfunk.de/bundestag-macht-einbuergerung-nach-drei-jahren-aufenthalt-rueckgaengig-100.html",
+    "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-wichtige-themen-duerften-buergergeld-reform-und-streit-um-verbrenner-aus--100.html",
+    "https://www.deutschlandfunk.de/nach-anklage-frueherer-fbi-direktor-comey-plaediert-auf-nicht-schuldig-100.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-will-mehr-trump-wagen-zwei-antraege-der-partei-zeigen-kraefteverschiebung-110722421.html",
+    "https://www.faz.net/einspruch/warum-krahs-ex-mitarbeiter-wegen-spionage-verurteilt-wurde-110722413.html"
   ],
   "content_hashes": [
-    "719a585ac904343cde8852640ec91cc3",
-    "ff406f59638341254e54c257683ceb36",
-    "775bccc9d77023f6a6b0bd1f826a5b34",
-    "91c4514113b670b48b5497e8c333e61a",
-    "a2bca6651cbf29d331d0d9693afbbb20",
     "179a14b5b155ab0e034468f1bac0a167",
     "98e4a607a7f4cbd1751d5bf03be989ce",
     "58c9a7af06ca52df113f27b5d052237e",
@@ -2001,14 +1996,14 @@
     "b8b0d0152a9438e2714b1b2ae98b5f3f",
     "77f921cb6d4b73b95249216c805ae454",
     "15f24c1cfcbea02f0f8b39ee1297e550",
-    "77907656399f4e8c04d9fa1fe21ce363"
+    "77907656399f4e8c04d9fa1fe21ce363",
+    "e64199485545b35e9e269d6ba846047c",
+    "c3161dbca6a00cbdd61f34045ea3fe3e",
+    "f4533877d1a1ed701b49de6eae410db5",
+    "a58881d71b25f7135226916a3d4ad3a7",
+    "bf469ab6e1ee15f93abc0ce4b085ee7b"
   ],
   "titles": [
-    "Attentat auf Charlie Kirk - US-Staatsanwaltschaft erhebt Anklage wegen Mordes gegen 22-Jährigen",
-    "Offensive auf Gaza - Menschen können nur langsam fliehen",
-    "Meyer Burger: 600 Beschäftigte in Deutschland gekündigt",
-    "Brasilien - Papageien und Schildkröten bei Razzien gegen Tierhandel gerettet",
-    "Statistik - Trend zu größeren Wohnungen hält an",
     "Iran - Mutmaßlicher Spion hingerichtet",
     "Kriminalität - Verdächtiger im Fall Maddie aus Haft entlassen",
     "Generaldebatte im Bundestag: Friedrich Merz stellt Bürger auf tiefgreifende Veränderungen ein",
@@ -3003,14 +2998,14 @@
     "Sicherheitsbehörden - Sinan Selen als neuer Präsident des Bundesverfassungsschutz im Amt",
     "München - Festnahme nach Brandstiftung an Parteibüros von CSU und AfD",
     "EU-Parlament - Veggie-Produkte dürfen nicht mehr Wurst oder Schnitzel heißen",
-    "Frankreich - Frist für Ausweg aus Regierungskrise läuft ab - Lecornu will informieren"
+    "Frankreich - Frist für Ausweg aus Regierungskrise läuft ab - Lecornu will informieren",
+    "Gesetz der Ampelkoalition - Bundestag macht Einbürgerung nach drei Jahren Aufenthalt rückgängig",
+    "Berlin - Koalitionsausschuss berät - wichtige Themen dürften Bürgergeld-Reform und Streit um Verbrenner-Aus werden",
+    "USA - Nach Anklage: Früherer FBI-Direktor Comey plädiert auf nicht schuldig",
+    "Bundestagsanträge: Die AfD will mehr Trump wagen",
+    "F.A.Z. Einspruch Podcast: Warum Krahs Ex-Mitarbeiter wegen Spionage verurteilt wurde"
   ],
   "hashes": [
-    "2b6fffcf1a946caa2a83f1cac2532cb1",
-    "18905f26b3fdf432084a5dda62d99e20",
-    "e655bcd000a2eba543a0c0ef2751e236",
-    "b203d32b71a3fa72f751e373f17163cc",
-    "6e7963c2b5f0d440024414ff5fb7f7dd",
     "5171c135b65cebf19389599564994e65",
     "961a3e45ec5ea7e491d0181fc7d7743d",
     "048131db41425dd3e705f9aa62ab809d",
@@ -4005,6 +4000,11 @@
     "1696e7210cfb7617efe37e6d0cb01af5",
     "b511b1febc4b87f51f1192028f3994ca",
     "5b1171746ca21e8f6d21d60c1b832f42",
-    "e28d2971e614ffc3e650ad00d9e853dd"
+    "e28d2971e614ffc3e650ad00d9e853dd",
+    "6a39431fc439d8a87464eb87a7fe1486",
+    "5f99b17c5be39006cd71dbf20bd95bcd",
+    "7ddfb13e2aa84f1bbfdfe3528c12b405",
+    "274c82e3170299fb2fb6afcfd89c3e10",
+    "35b144c701c240bb67dba3f6de425a43"
   ]
 }
