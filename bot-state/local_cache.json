@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berufungsgericht-bestaetigt-notenbank-vorstaendin-cook-bleibt-im-amt-100.html",
-    "https://www.deutschlandfunk.de/kulturausschuss-laedt-israelischen-dirigenten-lahav-shani-nach-ausladung-in-belgien-zu-gespraech-ein-100.html",
     "https://www.deutschlandfunk.de/urteil-in-prozess-um-toedlichen-messerangriff-erwartet-104.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-fordert-bundesregierung-zu-umfassenden-sozialreformen-auf-100.html",
     "https://www.deutschlandfunk.de/usa-setzen-weiter-auf-katar-als-vermittler-im-gazakrieg-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-wegen-giftwolke-aus-galvanik-betrieb-100.html",
     "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-bedroht-wie-nie-nach-dem-zweiten-weltkrieg-110720635.html",
     "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-nach-ereignis-in-mainaschaff-100.html",
-    "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss"
+    "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss",
+    "https://www.deutschlandfunk.de/kabinett-will-hoehere-sozialbeitraege-fuer-gutverdiener-beschliessen-104.html",
+    "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-im-bayerischen-mainaschaff-102.html"
   ],
   "content_hashes": [
-    "bfc263397f7e97de22004ebe09b72418",
-    "65372a1aecd3c52fcdeaae1d966de38b",
     "1d34120fe0b05b837e3089c370f61c79",
     "acdbbd5e0b32a84f0b1dc9b01d16b6dd",
     "301360515ab4215cc99a1d71c491f034",
@@ -2001,11 +1999,11 @@
     "fde61e00ad0fe6e6f4deb0d6d169c5b2",
     "464edce812715028ef115945f579f66d",
     "b2b7ae6926c9865edadbd8f5ed06980c",
-    "006c19e39b938307764bd6a86f139fdf"
+    "006c19e39b938307764bd6a86f139fdf",
+    "79da6493fe2db647cb2e0a1c872bf60f",
+    "33d59117bd950fe7e2722a9f6a8672d7"
   ],
   "titles": [
-    "USA - Berufungsgericht bestätigt: Notenbank-Vorständin Cook bleibt im Amt",
-    "Deutscher Bundestag - Kulturausschuss lädt israelischen Dirigenten Lahav Shani nach Ausladung in Belgien zu Gespräch ein",
     "Mannheim - Urteil in Prozess um tödlichen Messerangriff erwartet",
     "Fürsorgetag in Erfurt - Bundespräsident Steinmeier fordert Bundesregierung zu umfassenden Sozialreformen auf",
     "Nahost - USA setzen weiter auf Katar als Vermittler im Gazakrieg",
@@ -3003,11 +3001,11 @@
     "Störfall in Mainaschaff - Großeinsatz der Feuerwehr wegen Giftwolke aus Galvanik-Betrieb",
     "Juden in Deutschland: Bedroht wie nie nach dem Zweiten Weltkrieg",
     "Entwarnung - Kein giftiger Rauch mehr nach Ereignis in Mainaschaff",
-    "How to fix France’s deepening political crisis?"
+    "How to fix France’s deepening political crisis?",
+    "Bericht - Kabinett will höhere Sozialbeiträge für Gutverdiener beschließen",
+    "Entwarnung - Kein giftiger Rauch mehr im bayerischen Mainaschaff"
   ],
   "hashes": [
-    "3525dd40575d2d7dfd75bdf52340c736",
-    "e957a2d3a0c209b72421ee373b03cb24",
     "061edc0348b3de568d7104bd59029098",
     "24ec319fc87e92c021c8316c9a8b9824",
     "9c4f587cee3f44341bc07c05b867bef8",
@@ -4005,6 +4003,8 @@
     "af6f47233c9d05cd47a687878003fc19",
     "ee60daf4c1c8d956eea0de2189c58ea5",
     "081fce386a38249dee6e3aaae3603f31",
-    "cc650747be425218eea6679bf2f2f84f"
+    "cc650747be425218eea6679bf2f2f84f",
+    "0d86d0869ba61cc0914056383e73286d",
+    "7e82d30ca7e294af5c1e66a42b8d2320"
   ]
 }
