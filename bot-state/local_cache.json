@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/brandenburg-bringt-ki-chatbot-an-alle-schulen-100.html",
-    "https://www.deutschlandfunk.de/inflation-im-euroraum-bleibt-auf-ezb-zielmarke-von-2-0-prozent-100.html",
-    "https://www.deutschlandfunk.de/mehrere-mitarbeiter-von-abgeordneten-erhalten-keine-hausausweise-106.html",
     "https://www.spiegel.de/politik/deutschland/polen-praesident-karol-nawrocki-verknuepft-reparationsforderung-mit-staerkung-der-nato-ost-flanke-a-b534cc85-66ff-4b52-8e96-fde317851b47#ref=rss",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-warnt-indien-vor-zusammenarbeit-mit-russland-100.html",
     "https://www.deutschlandfunk.de/verbindungsbuero-des-europaeischen-parlaments-in-kiew-eroeffnet-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/merz-union-und-spd-einig-bei-den-themen-buergergeld-und-verkehr-100.html",
     "https://www.deutschlandfunk.de/bundesverband-gluehwein-auf-weihnachtsmaerkten-wird-dieses-jahr-deutlich-teurer-100.html",
     "https://www.deutschlandfunk.de/neuer-premier-in-48-stunden-lecornu-praesentiert-ergebnisse-seiner-beratungen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsverbaende-zufrieden-mit-einigung-bei-buergergeld-und-verkehr-100.html"
+    "https://www.deutschlandfunk.de/wirtschaftsverbaende-zufrieden-mit-einigung-bei-buergergeld-und-verkehr-100.html",
+    "https://www.deutschlandfunk.de/schweineleber-in-lebenden-menschen-transplantiert-100.html",
+    "https://www.deutschlandfunk.de/zur-gaza-einigung-interview-simon-wolfgang-fuchs-universitaet-jerusalem-100.html",
+    "https://www.faz.net/aktuell/politik/inland/dobrindt-abschiebefluege-nach-afghanistan-weit-fortgeschritten-accg-110723666.html"
   ],
   "content_hashes": [
-    "a763e5cb259b7b5437d046356ab3e44c",
-    "669f8bf7d2fd4b8ebb8a5962e925a6cd",
-    "9c49549787dc878f2503e063fd8a78e3",
     "24bd7ca38ed1735cdca08956df88311a",
     "d3979546a1c7305aeb70690e26969733",
     "97c9b21d3c4e8fa57a989f8f4803d723",
@@ -2001,12 +1998,12 @@
     "9e74b88bbbc0bb7e359bbc5b171cd7b7",
     "e21e8103f0bfc85a70a491a6b2c1c4c5",
     "aab4abee9bbe00e375f68ec63932391f",
-    "bf509df2aef6084e7575bf5e88ca09ca"
+    "bf509df2aef6084e7575bf5e88ca09ca",
+    "d764c6bec6108f5de273fde8eacf8bad",
+    "ba885891e1ab0c4e37cfab7409ba5584",
+    "b753367713522d1cd04a07ec25d37316"
   ],
   "titles": [
-    "Bildungspolitik - Brandenburg bringt KI-Chatbot an alle Schulen",
-    "Eurostat - Inflation im Euroraum bleibt auf EZB-Zielmarke von 2,0 Prozent",
-    "Bundestag - Mehrere Mitarbeiter von Abgeordneten erhalten keine Hausausweise",
     "Polen: Präsident Karol Nawrocki verknüpft Reparationsforderung mit Stärkung der Nato-Ost-Flanke",
     "Handelsstreit - EU-Außenbeauftragte Kallas warnt Indien vor Zusammenarbeit mit Russland",
     "Ukraine - Verbindungsbüro des Europäischen Parlaments in Kiew eröffnet",
@@ -3003,12 +3000,12 @@
     "Koalitionsausschuss - Merz: Union und SPD einig bei den Themen Bürgergeld und Verkehr",
     "Deutsche Weinkellereien - Bundesverband: Glühwein auf Weihnachtsmärkten wird dieses Jahr deutlich teurer",
     "Krise in Frankreich - Ex-Premier Lecornu zeigt sich verhalten optimistisch",
-    "Koalitionsausschuss - Wirtschaftsverbände zufrieden mit Einigung bei Bürgergeld und Verkehr"
+    "Koalitionsausschuss - Wirtschaftsverbände zufrieden mit Einigung bei Bürgergeld und Verkehr",
+    "Wissenschaft - Schweineleber in lebenden Menschen transplantiert",
+    "Gaza-Einigung - Nahost-Experte Fuchs erwartet baldige Rückkehr der Geiseln",
+    "Afghanische Straftäter: Dobrindt: Gespräche über Abschiebeflüge „weit fortgeschritten“"
   ],
   "hashes": [
-    "5724725b6420004df644e9dbf3b366b0",
-    "bb01d1829622dfca938449a78ef3eed6",
-    "dea2439f884bce1385c7cfda18a48f5e",
     "97d78468497c235cabf2ffe930751a0c",
     "9ffb9943f971311e6ed8edb3c709ae90",
     "e6daf27c01e2137a0dbe9fd4f7a6d2db",
@@ -4005,6 +4002,9 @@
     "11ce5c12b7007a774a195adf68e2a609",
     "26f03b5660bf2ff7168e745df1b85451",
     "d2104be7943c88c27af0f0e9ef9b93ca",
-    "0954d203c3f8195c2041ddc3205ec088"
+    "0954d203c3f8195c2041ddc3205ec088",
+    "d5ecbba9018bf531688913916aab25d4",
+    "76ea26ded39c6287e2f990737dd68fe6",
+    "7b60f115ec7d339a32cc391e8c5825b7"
   ]
 }
