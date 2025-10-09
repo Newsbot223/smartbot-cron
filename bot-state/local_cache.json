@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/geldstrafe-fuer-ex-praesident-bolsonaro-wegen-rassistischer-aeusserungen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/waehlt-frankfurt-an-der-oder-den-ersten-afd-oberbuergermeister-110688672.html",
-    "https://www.faz.net/aktuell/politik/inland/haushaltsdebatte-die-ungelegten-eier-der-koalition-110690778.html",
-    "https://www.deutschlandfunk.de/patientenschuetzer-fordern-haertefallfonds-fuer-opfer-von-behandlungsfehlern-100.html",
     "https://www.deutschlandfunk.de/ministerin-alabali-radovan-bedauert-kuerzungen-entwicklungshilfe-ist-lebensnotwendig-100.html",
     "https://www.deutschlandfunk.de/merz-unterstuetzung-fuer-israel-ist-nicht-verhandelbar-100.html",
     "https://www.faz.net/aktuell/politik/ausland/die-eu-und-israel-sanktionen-bringen-nicht-viel-110690604.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/gesetzentwurf-fuer-schnelleres-bauen-beschlossen-100.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-und-autogipfel-100.html",
     "https://www.deutschlandfunk.de/durchbruch-bei-verhandlungen-zwischen-israel-und-hamas-102.html",
-    "https://www.aljazeera.com/video/quotable/2025/10/9/uk-and-india-weigh-trade-gains-against-migration-politics?traffic_source=rss"
+    "https://www.aljazeera.com/video/quotable/2025/10/9/uk-and-india-weigh-trade-gains-against-migration-politics?traffic_source=rss",
+    "https://www.deutschlandfunk.de/eu-kommission-prueft-spionagevorwuerfe-gegen-ungarn-100.html",
+    "https://www.deutschlandfunk.de/putin-raeumt-russische-verantwortung-fuer-absturz-eines-aserbaidschanischen-flugzeugs-ein-102.html",
+    "https://www.deutschlandfunk.de/estlands-praesident-wuerdigt-deutschlands-beistand-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/einigung-in-nahost-diese-leistung-sollten-auch-trumps-kritiker-anerkennen-110723871.html"
   ],
   "content_hashes": [
-    "d46cc4154b8b8fc23c83ac9bd86c7068",
-    "99b5c3b238622b30bbd696863df56562",
-    "e33af502e4fcdffb40e868ffd4340c1a",
-    "3058325657281fec579296ec1bd774a8",
     "fbfb21a053e2ae640b35d0e4317dc7f2",
     "e5c471a1de34ed738ac1016aec42e4ba",
     "b1f8102dd10282c667788bcae47134b6",
@@ -2001,13 +1997,13 @@
     "8d7438f9d1b825d94eab0ed70bdf08f0",
     "813306ff248a622f17ca0a9f3f4e4545",
     "7fe20c0ea7c3c5e9d1a6980dda7d8405",
-    "b7a74ffefe33fbffbe2e54e27ff12879"
+    "b7a74ffefe33fbffbe2e54e27ff12879",
+    "719abac35ce2fde36fd7aad2fe137d8f",
+    "2638d0c3b5c77f300f0c5070b2409d36",
+    "1921e170b80425fa405f8d4241155207",
+    "eb69800f3a21be7da3bac3105ae7a8f0"
   ],
   "titles": [
-    "Brasilien - Geldstrafe für Ex-Präsident Bolsonaro wegen rassistischer Äußerungen",
-    "Frankfurt an der Oder: „Ich wähle nur noch AfD“, hören sie am SPD-Stand",
-    "Haushaltsdebatte: Die ungelegten Eier der Koalition",
-    "Medizinische Versorgung - Patientenschützer fordern Härtefallfonds für Opfer von Behandlungsfehlern",
     "Generaldebatte - Ministerin Alabali Radovan bedauert Kürzungen: \"Entwicklungshilfe ist lebensnotwendig\"",
     "Zentralrat der Juden - Merz: Unterstützung für Israel ist nicht verhandelbar",
     "Angriff auf Gaza-Stadt: Sanktionen bringen nicht viel",
@@ -3003,13 +2999,13 @@
     "Bundestag - Gesetzentwurf für schnelleres Bauen beschlossen",
     "Bundesregierung - Koalition beschließt Aktivrente und Reform des Bürgergelds",
     "Nahost-Krieg - Erleichterung in arabischen Staaten über Gaza-Einigung",
-    "UK and India Weigh Trade Gains Against Migration Politics"
+    "UK and India Weigh Trade Gains Against Migration Politics",
+    "Medienberichte - EU-Kommission prüft Spionagevorwürfe gegen Ungarn",
+    "Luftfahrt - Putin räumt russische Verantwortung für Absturz eines aserbaidschanischen Flugzeugs ein",
+    "Steinmeier in Tallinn - Estlands Präsident würdigt Deutschlands Beistand",
+    "Einigung in Nahost: Netanjahu hat Trump unterschätzt"
   ],
   "hashes": [
-    "dbb6724390a0e7b1a2685ebaa85421b0",
-    "781173afecfb8d0dec699de91a5ad7fa",
-    "38af45d669cb642698a8e9a2208c90c9",
-    "2d530f1f876601beb19a973f92b091f8",
     "c36d271e52cc40dfd5b5017b73cd555b",
     "970ff11e97f75264d4ae8ece032e86c1",
     "0d49efc0205ee6c58a6eeb22919e8233",
@@ -4005,6 +4001,10 @@
     "f69767c08636de6e079b868303a54ab0",
     "13642395b8b16d5335de1874fabc5a25",
     "d1bdaf82a57ddb27a3d7151ae3036fff",
-    "9921aa4f352146c0192bd9b5b205262b"
+    "9921aa4f352146c0192bd9b5b205262b",
+    "6c2b35a5327d799cc8f5271a91f4e49d",
+    "c143038bbad66826f319271f7d2ca140",
+    "b638037354a2b1023053b88ef4a983c8",
+    "ca15adc391ba900504ab049508667d04"
   ]
 }
