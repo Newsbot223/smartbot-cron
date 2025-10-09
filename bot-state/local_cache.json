@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/litauen-nimmt-verdaechtige-mit-verbindungen-zu-russischem-geheimdienst-fest-102.html",
-    "https://www.deutschlandfunk.de/autobahnprojekte-verzoegern-sich-offenbar-wegen-milliarden-finanzluecke-100.html",
     "https://www.deutschlandfunk.de/daenemark-kauft-erstmals-langstrecken-praezisionswaffen-100.html",
     "https://www.deutschlandfunk.de/hunderttausende-zu-landesweiten-streiks-in-frankreich-erwartet-100.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-einstufung-von-antifa-als-terrorgruppe-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/drittwaermster-september-seit-beginn-der-aufzeichnungen-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-verlangt-rasche-humanitaere-hilfe-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/bundesforschungseinrichtung-wird-nicht-in-erfurt-angesiedelt-102.html",
-    "https://www.faz.net/aktuell/politik/inland/koalition-zu-buergergeld-und-rente-nicht-die-harten-bretter-110724402.html"
+    "https://www.faz.net/aktuell/politik/inland/koalition-zu-buergergeld-und-rente-nicht-die-harten-bretter-110724402.html",
+    "https://www.deutschlandfunk.de/500-nationalgardisten-nach-armeeangaben-im-grossraum-chicago-im-einsatz-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-klingbeil-wollen-andere-position-beim-verbrenner-aus-faz-110093143.html"
   ],
   "content_hashes": [
-    "621e993b5143ae6ac2b9d80e2330487d",
-    "65aa06d6bd81146b75a1a99827001273",
     "3aa12d4b0eb10e1be0f4541762b4c703",
     "1c9fe556f0ad20f3fb41ece4e772eb36",
     "ff12db2b24e85c623fc63ecfba4e04ec",
@@ -2001,11 +1999,11 @@
     "1376d6dcfd343025dc7a2bf32d9c8c43",
     "6d773758a4eac61b298cdbd4cd59c73b",
     "68feae05b5f1bf4be84f52b2d9695e22",
-    "f3f93d789aab7dec071861a655b85683"
+    "f3f93d789aab7dec071861a655b85683",
+    "c373f5594269c8fef019192f72f20349",
+    "263f0618ed8e330ff8351ccc075fef6d"
   ],
   "titles": [
-    "Nach Serie von Brandsätzen in Paketen - Litauen nimmt Verdächtige mit Verbindungen zu russischem Geheimdienst fest",
-    "Keine neuen Freigaben - Autobahnprojekte verzögern sich offenbar wegen Milliarden-Finanzlücke",
     "Bedrohung durch Russland - Dänemark kauft erstmals Langstrecken-Präzisionswaffen",
     "Protest gegen Sparhaushalt - Hunderttausende zu landesweiten Streiks in Frankreich erwartet",
     "Nach Kirk-Attentat - Trump kündigt Einstufung von Antifa als Terrorgruppe an",
@@ -3003,11 +3001,11 @@
     "EU-Klimadienst - Drittwärmster September seit Beginn der Aufzeichnungen",
     "Nach Einigung auf Waffenruhe - Außenminister Wadephul verlangt rasche humanitäre Hilfe im Gazastreifen",
     "DATI - Bundesforschungseinrichtung wird nicht in Erfurt angesiedelt",
-    "Koalitionsausschuss: Die Koalition bohrt dicke, aber nicht die harten Bretter"
+    "Koalitionsausschuss: Die Koalition bohrt dicke, aber nicht die harten Bretter",
+    "Illinois - 500 Nationalgardisten nach Armeeangaben im Großraum Chicago im Einsatz",
+    "Liveblog Bundespolitik: Klingbeil: Wollen andere Position beim Verbrenner-Aus"
   ],
   "hashes": [
-    "8626f29051a1f733c7b426afb83572ca",
-    "fe4fe3c3908135af60d6c47f1f763ec0",
     "93444423f9049b11c13b30bd6debbc90",
     "8ad6db7c79efbf69cc18188d6a87576f",
     "2be734db72bd9ecc34249efead92fed0",
@@ -4005,6 +4003,8 @@
     "18cc9c096cf601b0305958b36d4f820c",
     "37bf45ee17783aa99dee49f4d84117a8",
     "33178909197d0f86935f351df9350e44",
-    "5e91a3fb3e05bedd7d27097c7a576568"
+    "5e91a3fb3e05bedd7d27097c7a576568",
+    "215b215e14a2f40dfc009e988dc31fbc",
+    "dc6dfc975c88297e041cb9f658af802e"
   ]
 }
