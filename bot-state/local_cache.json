@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weidel-wirft-merz-vor-all-sein-wahlversprechen-gebrochen-zu-haben-102.html",
-    "https://www.deutschlandfunk.de/eu-kommission-schlaegt-sanktionen-gegen-israel-vor-102.html",
-    "https://www.deutschlandfunk.de/koenig-charles-empfaengt-trump-zu-staatsbesuch-112.html",
     "https://www.deutschlandfunk.de/anklage-gegen-aktivisten-der-letzten-generation-100.html",
     "https://www.deutschlandfunk.de/institut-der-deutschen-wirtschaft-geht-von-stagnation-in-deutschland-aus-100.html",
     "https://www.faz.net/aktuell/politik/inland/generaldebatte-im-bundestag-merz-will-die-spd-bei-der-ehre-packen-accg-110689829.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/un-ziel-fuer-beseitigung-des-hungers-bis-2030-kaum-erreichbar-100.html",
     "https://www.aljazeera.com/news/2025/10/9/russia-ukraine-war-list-of-key-events-day-1323?traffic_source=rss",
     "https://www.deutschlandfunk.de/macrons-entscheidung-zu-neuem-premier-erwartet-102.html",
-    "https://www.deutschlandfunk.de/eu-pruefer-decken-unregelmaessigkeiten-in-milliardenhoehe-auf-100.html"
+    "https://www.deutschlandfunk.de/eu-pruefer-decken-unregelmaessigkeiten-in-milliardenhoehe-auf-100.html",
+    "https://www.deutschlandfunk.de/afd-sachsen-anhalt-will-antirassismus-initiativen-an-schulen-unterbinden-100.html",
+    "https://www.deutschlandfunk.de/jahresthema-das-recht-des-staerkeren-100.html",
+    "https://www.deutschlandfunk.de/60-bekannte-persoenlichkeiten-rufen-koenig-zu-reformen-auf-102.html"
   ],
   "content_hashes": [
-    "68fae46fc256c9170e6ffb3325600e92",
-    "402e21c306bc1815c40ecb624ffce896",
-    "f445781a544df49faa620d20adbcc721",
     "e327b4200e4526e99b011cc915239a80",
     "7e100f60440c6fee43c4c8d98a40b2ac",
     "9969f729b38433a022261809ea0dc209",
@@ -2001,12 +1998,12 @@
     "4a639ed3959a131cd140d06be4b5aebe",
     "7ded9f025cec7a2a7fcedaf3cde7ed79",
     "6382b8b68ee2a7cffedd12808d7aa6df",
-    "0b21be837c0b6500d6d76c3e509d7fde"
+    "0b21be837c0b6500d6d76c3e509d7fde",
+    "9747680a697302069648cfc1e45ebd13",
+    "42824edebd110c44d7c94bbee1576e13",
+    "82dccb61f9b8543547b475f2a29ce49c"
   ],
   "titles": [
-    "Bundestag - Weidel wirft Merz vor, all sein Wahlversprechen gebrochen zu haben",
-    "Gaza-Krieg - EU-Kommission schlägt Sanktionen gegen Israel vor",
-    "Großbritannien - König Charles empfängt Trump zu Staatsbesuch",
     "Flughafen-Blockade - Anklage gegen Aktivisten der \"Letzten Generation\"",
     "Konjunkturprognose - Institut der Deutschen Wirtschaft geht von Stagnation in Deutschland aus",
     "Generaldebatte im Bundestag: Merz will die SPD bei der Ehre packen",
@@ -3003,12 +3000,12 @@
     "Welthungerhilfe - UN-Ziel für Beseitigung des Hungers bis 2030 kaum erreichbar",
     "Russia-Ukraine war: List of key events, day 1,323",
     "Frankreich - Macrons Entscheidung zu neuem Premier erwartet",
-    "Wirtschaft - EU-Prüfer decken Unregelmäßigkeiten in Milliardenhöhe auf"
+    "Wirtschaft - EU-Prüfer decken Unregelmäßigkeiten in Milliardenhöhe auf",
+    "Bildung - AfD Sachsen-Anhalt will Antirassismus-Initiativen an Schulen unterbinden",
+    "Deutschlandradio-Denkfabrik - Jahresthema: \"Das Recht des Stärkeren\"",
+    "Proteste in Marokko - 60 bekannte Persönlichkeiten rufen König zu Reformen auf"
   ],
   "hashes": [
-    "4b586a082c1956705fa6f9cdd6602cb4",
-    "4df15e9f281486942b09fecb1d116ff9",
-    "ad29704156dd49cdacc77764026d7e37",
     "c58386db471b8307fc45f1d1d77e2caa",
     "cbeb8d0ca79e859ec558ff93f21466d1",
     "b24595f0df2a8d85f8cb2ad2ac6634ae",
@@ -4005,6 +4002,9 @@
     "da201841eb957c9a992c0a4901e01600",
     "fe699ec8a3045d2de17cb6d37b8aafa3",
     "1f2513f525e7b7342eb66951cfd790a1",
-    "59c3d75f385638a5bb23cc8e2e810f42"
+    "59c3d75f385638a5bb23cc8e2e810f42",
+    "8502ad7fce539f305818eef609e8be76",
+    "047f9c07e924d5c92997ae8fbf051920",
+    "4c280c879cfaa4cad9bb1248dd03cbd2"
   ]
 }
