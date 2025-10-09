@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ministerin-alabali-radovan-bedauert-kuerzungen-entwicklungshilfe-ist-lebensnotwendig-100.html",
-    "https://www.deutschlandfunk.de/merz-unterstuetzung-fuer-israel-ist-nicht-verhandelbar-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/die-eu-und-israel-sanktionen-bringen-nicht-viel-110690604.html",
-    "https://www.deutschlandfunk.de/us-notenbank-senkt-erstmals-in-diesem-jahr-den-leitzins-100.html",
     "https://www.faz.net/aktuell/politik/inland/das-ist-jetzt-die-wirtschaftskrise-von-friedrich-merz-110690375.html",
     "https://www.deutschlandfunk.de/mehrere-bundeslaender-ermoeglichen-einsatz-von-ki-chatbot-102.html",
     "https://www.deutschlandfunk.de/arbeitsministerin-bas-wirbt-fuer-plaene-zur-buergergeld-reform-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-kommission-prueft-spionagevorwuerfe-gegen-ungarn-100.html",
     "https://www.deutschlandfunk.de/putin-raeumt-russische-verantwortung-fuer-absturz-eines-aserbaidschanischen-flugzeugs-ein-102.html",
     "https://www.deutschlandfunk.de/estlands-praesident-wuerdigt-deutschlands-beistand-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/einigung-in-nahost-diese-leistung-sollten-auch-trumps-kritiker-anerkennen-110723871.html"
+    "https://www.faz.net/aktuell/politik/ausland/einigung-in-nahost-diese-leistung-sollten-auch-trumps-kritiker-anerkennen-110723871.html",
+    "https://www.deutschlandfunk.de/papst-mahnt-einsatz-fuer-arme-menschen-an-reichtum-geschieht-oft-auf-kosten-anderer-100.html",
+    "https://www.deutschlandfunk.de/bundesgerichtshof-fordert-mehr-klarheit-100.html",
+    "https://www.faz.net/aktuell/wirtschaft/koalitionsausschuss-von-schwarz-rot-diese-beschluesse-sind-ein-guter-anfang-110723914.html",
+    "https://www.faz.net/aktuell/politik/inland/alexander-schweitzer-ist-der-einzige-vegane-spitzenpolitiker-die-leute-tuscheln-schon-110704731.html"
   ],
   "content_hashes": [
-    "fbfb21a053e2ae640b35d0e4317dc7f2",
-    "e5c471a1de34ed738ac1016aec42e4ba",
-    "b1f8102dd10282c667788bcae47134b6",
-    "4eb34ad473903407ef9b1ce23256a4c1",
     "bc89e897cd62bb7842db42617621d3b0",
     "aa8f74bb732404181c3976ca0bef7f72",
     "29e546cc65c744e81c3bb98bf4239f63",
@@ -2001,13 +1997,13 @@
     "719abac35ce2fde36fd7aad2fe137d8f",
     "2638d0c3b5c77f300f0c5070b2409d36",
     "1921e170b80425fa405f8d4241155207",
-    "eb69800f3a21be7da3bac3105ae7a8f0"
+    "eb69800f3a21be7da3bac3105ae7a8f0",
+    "126c933ad23e76c8856e483a754ab202",
+    "2d9945a8f9fa2e450d9484d3dcbcb95d",
+    "598bed08b2f26cb8b839f9ff4ddc28a8",
+    "0d8de639d0c14e9c40dfc9c01eb9e8e5"
   ],
   "titles": [
-    "Generaldebatte - Ministerin Alabali Radovan bedauert Kürzungen: \"Entwicklungshilfe ist lebensnotwendig\"",
-    "Zentralrat der Juden - Merz: Unterstützung für Israel ist nicht verhandelbar",
-    "Angriff auf Gaza-Stadt: Sanktionen bringen nicht viel",
-    "Schwacher Arbeitsmarkt - US-Notenbank senkt erstmals in diesem Jahr den Leitzins",
     "Friedrich Merz: Das ist jetzt seine Wirtschaftskrise",
     "Bildungspolitik - Mehrere Bundesländer ermöglichen Einsatz von KI-Chatbot",
     "Haushaltsdebatte im Bundestag - Arbeitsministerin Bas wirbt für Pläne zur Bürgergeld-Reform",
@@ -3003,13 +2999,13 @@
     "Medienberichte - EU-Kommission prüft Spionagevorwürfe gegen Ungarn",
     "Luftfahrt - Putin räumt russische Verantwortung für Absturz eines aserbaidschanischen Flugzeugs ein",
     "Steinmeier in Tallinn - Estlands Präsident würdigt Deutschlands Beistand",
-    "Einigung in Nahost: Netanjahu hat Trump unterschätzt"
+    "Einigung in Nahost: Netanjahu hat Trump unterschätzt",
+    "Erstes großes Lehrschreiben - Papst mahnt Einsatz für arme Menschen an - \"Reichtum geschieht oft auf Kosten anderer\"",
+    "Rabattwerbung - Bundesgerichtshof fordert mehr Klarheit",
+    "Schwarz-rote Koalition: Union und SPD haben den Schuss gehört",
+    "Alexander Schweitzer: Der einzige vegane Spitzenpolitiker Deutschlands"
   ],
   "hashes": [
-    "c36d271e52cc40dfd5b5017b73cd555b",
-    "970ff11e97f75264d4ae8ece032e86c1",
-    "0d49efc0205ee6c58a6eeb22919e8233",
-    "6dfff68a9cf3550e5918e45fc2cd3e8d",
     "f314ac38da45627b7e1c4c6ceda426e5",
     "036d2b5d8cf8a9da2a68ae43b7511399",
     "ea373110c8b576640b6fc8ac90c0619b",
@@ -4005,6 +4001,10 @@
     "6c2b35a5327d799cc8f5271a91f4e49d",
     "c143038bbad66826f319271f7d2ca140",
     "b638037354a2b1023053b88ef4a983c8",
-    "ca15adc391ba900504ab049508667d04"
+    "ca15adc391ba900504ab049508667d04",
+    "ad34f64c9f98b3515c7f4e952f94a618",
+    "95b61b14013dda3ed7f9ae456f287b15",
+    "7e54c31c8384fd7a098b24d9abc00117",
+    "f32e6ced1f99715fac596bd036a5d12a"
   ]
 }
