@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-reist-zu-antrittsbesuch-nach-madrid-100.html",
-    "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-haushalt-2025-ab-100.html",
     "https://www.deutschlandfunk.de/litauen-nimmt-verdaechtige-mit-verbindungen-zu-russischem-geheimdienst-fest-102.html",
     "https://www.deutschlandfunk.de/autobahnprojekte-verzoegern-sich-offenbar-wegen-milliarden-finanzluecke-100.html",
     "https://www.deutschlandfunk.de/daenemark-kauft-erstmals-langstrecken-praezisionswaffen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/urteil-verschaerft-zehn-jahre-haft-fuer-vergewaltiger-von-gis-le-pelicot-100.html",
     "https://www.deutschlandfunk.de/tarifabschluss-fuer-ostdeutsche-stahlindustrie-erzielt-100.html",
     "https://www.deutschlandfunk.de/drittwaermster-september-seit-beginn-der-aufzeichnungen-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-verlangt-rasche-humanitaere-hilfe-im-gazastreifen-100.html"
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-verlangt-rasche-humanitaere-hilfe-im-gazastreifen-100.html",
+    "https://www.deutschlandfunk.de/bundesforschungseinrichtung-wird-nicht-in-erfurt-angesiedelt-102.html",
+    "https://www.faz.net/aktuell/politik/inland/koalition-zu-buergergeld-und-rente-nicht-die-harten-bretter-110724402.html"
   ],
   "content_hashes": [
-    "f1612d08e756d510108480e9980ed42d",
-    "d3679bfe65c5dea4699083c4fd2d7ab2",
     "621e993b5143ae6ac2b9d80e2330487d",
     "65aa06d6bd81146b75a1a99827001273",
     "3aa12d4b0eb10e1be0f4541762b4c703",
@@ -2001,11 +1999,11 @@
     "e7169776c8bf06c93b881461b4095720",
     "6d1c73911764e15e48d010c577ebc3cf",
     "1376d6dcfd343025dc7a2bf32d9c8c43",
-    "6d773758a4eac61b298cdbd4cd59c73b"
+    "6d773758a4eac61b298cdbd4cd59c73b",
+    "68feae05b5f1bf4be84f52b2d9695e22",
+    "f3f93d789aab7dec071861a655b85683"
   ],
   "titles": [
-    "Spanien - Merz reist zu Antrittsbesuch nach Madrid",
-    "Nach Generaldebatte - Bundestag stimmt über Haushalt 2025 ab",
     "Nach Serie von Brandsätzen in Paketen - Litauen nimmt Verdächtige mit Verbindungen zu russischem Geheimdienst fest",
     "Keine neuen Freigaben - Autobahnprojekte verzögern sich offenbar wegen Milliarden-Finanzlücke",
     "Bedrohung durch Russland - Dänemark kauft erstmals Langstrecken-Präzisionswaffen",
@@ -3003,11 +3001,11 @@
     "Berufungsverfahren - Urteil verschärft: Zehn Jahre Haft für Vergewaltiger von Gisèle Pelicot",
     "Verhandlungen - Tarifabschluss für ostdeutsche Stahlindustrie erzielt",
     "EU-Klimadienst - Drittwärmster September seit Beginn der Aufzeichnungen",
-    "Nach Einigung auf Waffenruhe - Außenminister Wadephul verlangt rasche humanitäre Hilfe im Gazastreifen"
+    "Nach Einigung auf Waffenruhe - Außenminister Wadephul verlangt rasche humanitäre Hilfe im Gazastreifen",
+    "DATI - Bundesforschungseinrichtung wird nicht in Erfurt angesiedelt",
+    "Koalitionsausschuss: Die Koalition bohrt dicke, aber nicht die harten Bretter"
   ],
   "hashes": [
-    "1d483cfe5a424524f70346bbd17a6c97",
-    "6d905fb1cdf36c67226774265706c013",
     "8626f29051a1f733c7b426afb83572ca",
     "fe4fe3c3908135af60d6c47f1f763ec0",
     "93444423f9049b11c13b30bd6debbc90",
@@ -4005,6 +4003,8 @@
     "ac170d8abb1c0ed3c16595166d2da351",
     "b7e7e1ada66b3d1aad0d746ca01973ec",
     "18cc9c096cf601b0305958b36d4f820c",
-    "37bf45ee17783aa99dee49f4d84117a8"
+    "37bf45ee17783aa99dee49f4d84117a8",
+    "33178909197d0f86935f351df9350e44",
+    "5e91a3fb3e05bedd7d27097c7a576568"
   ]
 }
