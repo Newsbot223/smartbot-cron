@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verbindungsbuero-des-europaeischen-parlaments-in-kiew-eroeffnet-100.html",
-    "https://www.deutschlandfunk.de/europaeischer-rechnungshof-mahnt-mehr-kooperation-wegen-arzneimittel-engpaessen-an-100.html",
     "https://www.deutschlandfunk.de/durchsuchung-im-innenministerium-von-mecklenburg-vorpommern-wegen-untreueverdacht-100.html",
     "https://www.deutschlandfunk.de/weimer-wuerdigt-zentralrat-der-juden-in-deutschland-zu-dessen-75-jaehrigem-bestehen-100.html",
     "https://www.deutschlandfunk.de/neue-verhandlungen-zum-deutschlandticket-anhebung-auf-62-euro-im-gespraech-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zur-gaza-einigung-interview-simon-wolfgang-fuchs-universitaet-jerusalem-100.html",
     "https://www.faz.net/aktuell/politik/inland/dobrindt-abschiebefluege-nach-afghanistan-weit-fortgeschritten-accg-110723666.html",
     "https://www.deutschlandfunk.de/verurteilter-tadschike-darf-sofort-abgeschoben-werden-100.html",
-    "https://www.deutschlandfunk.de/praesident-rajoelina-lehnt-ruecktritt-ab-100.html"
+    "https://www.deutschlandfunk.de/praesident-rajoelina-lehnt-ruecktritt-ab-100.html",
+    "https://www.deutschlandfunk.de/eu-parlament-lehnt-zwei-misstrauensantraege-gegen-eu-kommission-ab-102.html",
+    "https://www.faz.net/aktuell/politik/inland/buergergeldeinigung-wenn-genossen-ueber-ihre-schatten-springen-accg-110723732.html"
   ],
   "content_hashes": [
-    "97c9b21d3c4e8fa57a989f8f4803d723",
-    "5fd34182ea19016cc3413095c1182fc6",
     "104ace22c11e63b45e2228440b3b5abd",
     "ed595f4bf8db46d9449371a60bdf4e88",
     "d1ad34558b122182d4019ea4c69cafd9",
@@ -2001,11 +1999,11 @@
     "ba885891e1ab0c4e37cfab7409ba5584",
     "b753367713522d1cd04a07ec25d37316",
     "48aaea2792b9bc7946d326744a8ff089",
-    "8febf4f335e9ae711956792708dba3d8"
+    "8febf4f335e9ae711956792708dba3d8",
+    "ca56d523e4703158e8c28c04f8c88475",
+    "2ec008f5f1413b62607d2a63134b30a7"
   ],
   "titles": [
-    "Ukraine - Verbindungsbüro des Europäischen Parlaments in Kiew eröffnet",
-    "Medikamente - Europäischer Rechnungshof mahnt mehr Kooperation wegen Arzneimittel-Engpässen an",
     "Schwerin - Durchsuchung im Innenministerium von Mecklenburg-Vorpommern wegen Untreueverdacht",
     "Religion - Weimer würdigt Zentralrat der Juden in Deutschland zu dessen 75-jährigem Bestehen",
     "Mobilität - Neue Verhandlungen zum Deutschlandticket - Anhebung auf 62 Euro im Gespräch",
@@ -3003,11 +3001,11 @@
     "Gaza-Einigung - Nahost-Experte Fuchs erwartet baldige Rückkehr der Geiseln",
     "Afghanische Straftäter: Dobrindt: Gespräche über Abschiebeflüge „weit fortgeschritten“",
     "Urteil - Verurteilter Tadschike darf sofort abgeschoben werden",
-    "Madagaskar - Präsident Rajoelina lehnt Rücktritt ab"
+    "Madagaskar - Präsident Rajoelina lehnt Rücktritt ab",
+    "Straßburg - EU-Parlament lehnt zwei Misstrauensanträge gegen EU-Kommission ab",
+    "Bürgergeld wird abgeschafft: Wenn Genossen über ihre Schatten springen"
   ],
   "hashes": [
-    "e6daf27c01e2137a0dbe9fd4f7a6d2db",
-    "569250e7e0ada6569b1d6b6ae5493f36",
     "711b2923402288d114df18231363d87f",
     "3bcae221ad2c359a0b76ab74df725171",
     "1010c68ac4e9c0fbe019019e20494688",
@@ -4005,6 +4003,8 @@
     "76ea26ded39c6287e2f990737dd68fe6",
     "7b60f115ec7d339a32cc391e8c5825b7",
     "4370c265f24c4f42727b0d97314fb7e9",
-    "c3de5f5adfd490c629eea44b83109867"
+    "c3de5f5adfd490c629eea44b83109867",
+    "18df16abae6cc30ab6ef89a26872f19d",
+    "b25554ae57ee398f2114444f52eebdd7"
   ]
 }
