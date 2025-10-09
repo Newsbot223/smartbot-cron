@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jugendarbeitslosigkeit-in-china-erreicht-neuen-hoechststand-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-laesst-erstes-medikament-gegen-wochenbett-depressionen-zu-100.html",
-    "https://www.deutschlandfunk.de/fruehere-bundesministerin-schulze-neue-praesidentin-von-help-100.html",
     "https://www.deutschlandfunk.de/generalbundesanwalt-soll-uebernahme-pruefen-102.html",
     "https://www.deutschlandfunk.de/brandenburg-bringt-ki-chatbot-an-alle-schulen-100.html",
     "https://www.deutschlandfunk.de/inflation-im-euroraum-bleibt-auf-ezb-zielmarke-von-2-0-prozent-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aenderungen-fuer-alltaegliche-bankgeschaefte-im-euroraum-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/interview-der-woche-carsten-spohr-100.html",
     "https://www.deutschlandfunk.de/lufthansa-chef-spohr-deutschland-darf-sich-nicht-lahmlegen-lassen-100.html",
-    "https://www.deutschlandfunk.de/gaza-friedensverhandlungen-in-sharm-el-sheikh-aktueller-stand-der-gespraeche-100.html"
+    "https://www.deutschlandfunk.de/gaza-friedensverhandlungen-in-sharm-el-sheikh-aktueller-stand-der-gespraeche-100.html",
+    "https://www.deutschlandfunk.de/merz-union-und-spd-einig-bei-den-themen-buergergeld-und-verkehr-100.html",
+    "https://www.deutschlandfunk.de/bundesverband-gluehwein-auf-weihnachtsmaerkten-wird-dieses-jahr-deutlich-teurer-100.html",
+    "https://www.deutschlandfunk.de/neuer-premier-in-48-stunden-lecornu-praesentiert-ergebnisse-seiner-beratungen-100.html"
   ],
   "content_hashes": [
-    "0cb79e666e38d24bdc809aaad86d759c",
-    "8a519eadbca3e7670f9c7228148eb37e",
-    "64a2805a83229df3211454cea80c3bff",
     "3dfd95cbb1c9e0c06abb56ae61acaa50",
     "a763e5cb259b7b5437d046356ab3e44c",
     "669f8bf7d2fd4b8ebb8a5962e925a6cd",
@@ -2001,12 +1998,12 @@
     "da668a76a4c86e386d76eb5c5253e431",
     "97708aebfcaed4080891624e6628497e",
     "0afbad10cbac0109a7e92f3a74ea70b8",
-    "7435572cb6a487fb58983a90a95b0059"
+    "7435572cb6a487fb58983a90a95b0059",
+    "9e74b88bbbc0bb7e359bbc5b171cd7b7",
+    "e21e8103f0bfc85a70a491a6b2c1c4c5",
+    "aab4abee9bbe00e375f68ec63932391f"
   ],
   "titles": [
-    "Peking - Jugendarbeitslosigkeit in China erreicht neuen Höchststand",
-    "Medizin - EU-Kommission lässt erstes Medikament gegen Wochenbett-Depressionen zu",
-    "Entwicklungshilfe - Frühere Bundesministerin Schulze neue Präsidentin von Help",
     "Weihnachtsmarkt-Attentat - Generalbundesanwalt soll Übernahme prüfen",
     "Bildungspolitik - Brandenburg bringt KI-Chatbot an alle Schulen",
     "Eurostat - Inflation im Euroraum bleibt auf EZB-Zielmarke von 2,0 Prozent",
@@ -3003,12 +3000,12 @@
     "Echtzeitüberweisungen - Änderungen für alltägliche Bankgeschäfte im Euroraum in Kraft getreten",
     "Lufthansa-Chef - Deutschland darf sich von Drohnen nicht lahmlegen lassen",
     "Drohnenflüge - Lufthansa-Chef Spohr: \"Deutschland darf sich nicht lahmlegen lassen\"",
-    "Nahost - Durchbruch in den Gesprächen zur Beendigung des Gaza-Kriegs"
+    "Nahost - Durchbruch in den Gesprächen zur Beendigung des Gaza-Kriegs",
+    "Koalitionsausschuss - Merz: Union und SPD einig bei den Themen Bürgergeld und Verkehr",
+    "Deutsche Weinkellereien - Bundesverband: Glühwein auf Weihnachtsmärkten wird dieses Jahr deutlich teurer",
+    "Krise in Frankreich - Ex-Premier Lecornu zeigt sich verhalten optimistisch"
   ],
   "hashes": [
-    "ec9b9732dac64d1198fab92e2beed6ef",
-    "33488aac0193a8746ae3e81929145cad",
-    "28d26dd08b4cb8aa8655e254a5796dd7",
     "f4bfe59d46fc9d8445db4b4e6a60fcdd",
     "5724725b6420004df644e9dbf3b366b0",
     "bb01d1829622dfca938449a78ef3eed6",
@@ -4005,6 +4002,9 @@
     "c50dec93c12b609c9fba911effc0b656",
     "ec506c63fa83ac78051277ef794aca3a",
     "1fc626f9081fdb0c7f38f469f9a81017",
-    "4edcd1482b039d9c5348dfa1be121cea"
+    "4edcd1482b039d9c5348dfa1be121cea",
+    "11ce5c12b7007a774a195adf68e2a609",
+    "26f03b5660bf2ff7168e745df1b85451",
+    "d2104be7943c88c27af0f0e9ef9b93ca"
   ]
 }
