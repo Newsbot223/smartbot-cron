@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weimer-wuerdigt-zentralrat-der-juden-in-deutschland-zu-dessen-75-jaehrigem-bestehen-100.html",
-    "https://www.deutschlandfunk.de/neue-verhandlungen-zum-deutschlandticket-anhebung-auf-62-euro-im-gespraech-100.html",
-    "https://www.deutschlandfunk.de/rechnungshof-kritisiert-geplante-neuverschuldung-100.html",
     "https://www.deutschlandfunk.de/geldstrafe-fuer-ex-praesident-bolsonaro-wegen-rassistischer-aeusserungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/waehlt-frankfurt-an-der-oder-den-ersten-afd-oberbuergermeister-110688672.html",
     "https://www.faz.net/aktuell/politik/inland/haushaltsdebatte-die-ungelegten-eier-der-koalition-110690778.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/praesident-rajoelina-lehnt-ruecktritt-ab-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-lehnt-zwei-misstrauensantraege-gegen-eu-kommission-ab-102.html",
     "https://www.faz.net/aktuell/politik/inland/buergergeldeinigung-wenn-genossen-ueber-ihre-schatten-springen-accg-110723732.html",
-    "https://www.deutschlandfunk.de/gesetzentwurf-fuer-schnelleres-bauen-beschlossen-100.html"
+    "https://www.deutschlandfunk.de/gesetzentwurf-fuer-schnelleres-bauen-beschlossen-100.html",
+    "https://www.deutschlandfunk.de/koalitionsausschuss-und-autogipfel-100.html",
+    "https://www.deutschlandfunk.de/durchbruch-bei-verhandlungen-zwischen-israel-und-hamas-102.html",
+    "https://www.aljazeera.com/video/quotable/2025/10/9/uk-and-india-weigh-trade-gains-against-migration-politics?traffic_source=rss"
   ],
   "content_hashes": [
-    "ed595f4bf8db46d9449371a60bdf4e88",
-    "d1ad34558b122182d4019ea4c69cafd9",
-    "a655d72af652f0225bd1c6fd27c7370c",
     "d46cc4154b8b8fc23c83ac9bd86c7068",
     "99b5c3b238622b30bbd696863df56562",
     "e33af502e4fcdffb40e868ffd4340c1a",
@@ -2001,12 +1998,12 @@
     "8febf4f335e9ae711956792708dba3d8",
     "ca56d523e4703158e8c28c04f8c88475",
     "2ec008f5f1413b62607d2a63134b30a7",
-    "8d7438f9d1b825d94eab0ed70bdf08f0"
+    "8d7438f9d1b825d94eab0ed70bdf08f0",
+    "813306ff248a622f17ca0a9f3f4e4545",
+    "7fe20c0ea7c3c5e9d1a6980dda7d8405",
+    "b7a74ffefe33fbffbe2e54e27ff12879"
   ],
   "titles": [
-    "Religion - Weimer würdigt Zentralrat der Juden in Deutschland zu dessen 75-jährigem Bestehen",
-    "Mobilität - Neue Verhandlungen zum Deutschlandticket - Anhebung auf 62 Euro im Gespräch",
-    "Bundeshaushalt - Rechnungshof kritisiert geplante Neuverschuldung",
     "Brasilien - Geldstrafe für Ex-Präsident Bolsonaro wegen rassistischer Äußerungen",
     "Frankfurt an der Oder: „Ich wähle nur noch AfD“, hören sie am SPD-Stand",
     "Haushaltsdebatte: Die ungelegten Eier der Koalition",
@@ -3003,12 +3000,12 @@
     "Madagaskar - Präsident Rajoelina lehnt Rücktritt ab",
     "Straßburg - EU-Parlament lehnt zwei Misstrauensanträge gegen EU-Kommission ab",
     "Bürgergeld wird abgeschafft: Wenn Genossen über ihre Schatten springen",
-    "Bundestag - Gesetzentwurf für schnelleres Bauen beschlossen"
+    "Bundestag - Gesetzentwurf für schnelleres Bauen beschlossen",
+    "Bundesregierung - Koalition beschließt Aktivrente und Reform des Bürgergelds",
+    "Nahost-Krieg - Erleichterung in arabischen Staaten über Gaza-Einigung",
+    "UK and India Weigh Trade Gains Against Migration Politics"
   ],
   "hashes": [
-    "3bcae221ad2c359a0b76ab74df725171",
-    "1010c68ac4e9c0fbe019019e20494688",
-    "e6f69ae4e5365bf3412385b162a86c68",
     "dbb6724390a0e7b1a2685ebaa85421b0",
     "781173afecfb8d0dec699de91a5ad7fa",
     "38af45d669cb642698a8e9a2208c90c9",
@@ -4005,6 +4002,9 @@
     "c3de5f5adfd490c629eea44b83109867",
     "18df16abae6cc30ab6ef89a26872f19d",
     "b25554ae57ee398f2114444f52eebdd7",
-    "f69767c08636de6e079b868303a54ab0"
+    "f69767c08636de6e079b868303a54ab0",
+    "13642395b8b16d5335de1874fabc5a25",
+    "d1bdaf82a57ddb27a3d7151ae3036fff",
+    "9921aa4f352146c0192bd9b5b205262b"
   ]
 }
