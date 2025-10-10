@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/counting-the-cost/2025/9/18/fed-rate-cuts-saving-american-jobs-or-stoking-inflation?traffic_source=rss",
-    "https://www.deutschlandfunk.de/mehrheit-sorgt-sich-um-zusammenhalt-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/bundeskartellamt-billigt-uebernahme-von-mediamarkt-saturn-durch-jd-com-100.html",
     "https://www.deutschlandfunk.de/ministerin-warken-cdu-wirbt-fuer-gemeinschaftspraxen-zur-sicherstellung-medizinischer-versorgung-auf-100.html",
     "https://www.deutschlandfunk.de/abgeordnete-fordern-schnellere-digitalisierung-der-justiz-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutscher-kulturrat-spricht-sich-gegen-gender-verbot-aus-102.html",
     "https://www.deutschlandfunk.de/trump-treue-juristin-reicht-klage-gegen-new-yorks-generalstaatsanwaeltin-james-ein-102.html",
     "https://www.deutschlandfunk.de/belgien-will-haeftlinge-im-kosovo-unterbringen-100.html",
-    "https://www.deutschlandfunk.de/dgb-vorsitzende-fahimi-kritisiert-ausnahmen-fuer-bundeswehr-100.html"
+    "https://www.deutschlandfunk.de/dgb-vorsitzende-fahimi-kritisiert-ausnahmen-fuer-bundeswehr-100.html",
+    "https://www.deutschlandfunk.de/merz-keine-militaerische-beteiligung-aber-umfassende-hilfe-102.html",
+    "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestarifttreuegesetz-100.html"
   ],
   "content_hashes": [
-    "679199962a118dd086bca6d93ad5a15f",
-    "8547f6b76249c0e1044766a5f7d92024",
     "11c814f91ebf5c6d53fc31582bc8d0bb",
     "b3bd281753038f911bbb8ca28953c6dd",
     "c7d0458dad9d116e8a2b96edf4f9bfc8",
@@ -2001,11 +1999,11 @@
     "73705e6b07727e63cb8d284e017a11e4",
     "7bfd35ea895fc7b06e533768ae7e5518",
     "a73936ca2ff4c36055c2a1e2e823776a",
-    "c7ea2c91aba3e9fd4248dc33db94d251"
+    "c7ea2c91aba3e9fd4248dc33db94d251",
+    "ca01e992ea9026334d7f4ebf64b3be91",
+    "dd3833e3faa0ca8032f65ee7e5252801"
   ],
   "titles": [
-    "Fed rate cuts: Saving American jobs or stoking inflation?",
-    "Studie - Mehrheit sorgt sich um Zusammenhalt in Deutschland",
     "China - Bundeskartellamt billigt Übernahme von MediaMarkt/Saturn durch JD.com",
     "Gesundheitspolitik - Ministerin Warken (CDU) wirbt für Gemeinschaftspraxen zur Sicherstellung medizinischer Versorgung auf dem Land",
     "Haushaltsberatungen - Abgeordnete fordern schnellere Digitalisierung der Justiz",
@@ -3003,11 +3001,11 @@
     "Sprachkonventionen - Deutscher Kulturrat spricht sich gegen Gender-Verbot aus",
     "USA - Trump-treue Juristin reicht Klage gegen New Yorks Generalstaatsanwältin James ein",
     "Mangel an Gefängnissen - Belgien will Häftlinge im Kosovo unterbringen",
-    "Tariftreuegesetz im Bundestag - DGB-Vorsitzende Fahimi kritisiert Ausnahmen für Bundeswehr"
+    "Tariftreuegesetz im Bundestag - DGB-Vorsitzende Fahimi kritisiert Ausnahmen für Bundeswehr",
+    "Gaza-Plan - Merz: Keine militärische Beteiligung, aber umfassende Hilfe",
+    "Arbeitsmarkt - Bundestag berät über das Bundestarifttreuegesetz"
   ],
   "hashes": [
-    "da42afe827301eeef200f5753f587617",
-    "5aa6c98717769b13190609d83b46279a",
     "4f29dd87ffa03c2baa95407b3ae80630",
     "76dd12ea00eda412f362d4f55ae202e5",
     "921211e648a5fe86a240ce008ff7936d",
@@ -4005,6 +4003,8 @@
     "ba9e218960d8c8f2820a7e05edce82e9",
     "3aaad2bbc1848ef77da3f62a2f42e172",
     "648f112dbcaed425b787871342a1d757",
-    "a8922ae1434517d7b460c25bf46bee26"
+    "a8922ae1434517d7b460c25bf46bee26",
+    "3eb1da29e74fbcb54374235e39da0e1c",
+    "1943415b401bdcc43c1926137fd9439c"
   ]
 }
