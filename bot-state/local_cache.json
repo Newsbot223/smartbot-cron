@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fdp-brachte-das-deutschlandticket-entlastung-trotz-preisanstieg-110692373.html",
-    "https://www.deutschlandfunk.de/holocaust-gedenkstaette-yad-vashem-plant-zentrum-in-deutschland-110.html",
     "https://www.deutschlandfunk.de/merz-und-sanchez-betonten-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
     "https://www.deutschlandfunk.de/gesamtzahl-der-in-deutschland-lebenden-fluechtlinge-erstmals-seit-2011-gesunken-100.html",
     "https://www.deutschlandfunk.de/zwoelf-militaers-in-kolumbien-fuer-morde-an-zivilisten-verurteilt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gaza-friedensplan-al-sisi-laedt-merz-nach-aegypten-ein-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-drei-politiker-der-spd-der-gruenen-und-der-linken-einen-podcast-machen-110720706.html",
     "https://www.deutschlandfunk.de/mutmassliche-anschlagsgefahr-rechtspopulist-wilders-setzt-wahlkampf-aus-102.html",
-    "https://www.aljazeera.com/video/inside-story/2025/10/10/what-is-next-for-the-palestinian-resistance-movements?traffic_source=rss"
+    "https://www.aljazeera.com/video/inside-story/2025/10/10/what-is-next-for-the-palestinian-resistance-movements?traffic_source=rss",
+    "https://www.deutschlandfunk.de/regierungskrise-in-frankreich-macron-ernennt-lecornu-erneut-zum-premier-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-mehr-als-700-000-haushalte-wieder-mit-strom-versorgt-100.html"
   ],
   "content_hashes": [
-    "e4d389eee7a5d242e7b23eec6876961a",
-    "666e01af7f7928fed054b2e5afea1c22",
     "0847d926c8a8fb73e610b9a1efb2c142",
     "35944db4cb8e82e54b7c77576bf11192",
     "0269fab8d6b086eeed478097dd44fb8b",
@@ -2001,11 +1999,11 @@
     "110d0b0730fb0dac7dded2880407ed1b",
     "a9abe3e882fe5a3a47b00bfd63586553",
     "2f8eff46d367142c8c90a1ee709e39ba",
-    "5cb987e995b15cb139a2287e63ccc8f7"
+    "5cb987e995b15cb139a2287e63ccc8f7",
+    "7dfc1ef1ab71e270dfb8b6af81c62e31",
+    "2b195b4138bc2a52ceac1cff2e6772ba"
   ],
   "titles": [
-    "Deutschlandticket: Liberales Geschenk an die Bürger",
-    "Bildung - Holocaust-Gedenkstätte Yad Vashem plant Zentrum in Deutschland",
     "Madrid - Merz und Sanchez betonten Meinungsverschiedenheiten über den Gazakrieg",
     "Anfrage der Linken - Gesamtzahl der in Deutschland lebenden Flüchtlinge erstmals seit 2011 gesunken",
     "Sondertribunal - Zwölf Militärs in Kolumbien für Morde an Zivilisten verurteilt",
@@ -3003,11 +3001,11 @@
     "Telefonat der Politiker - Gaza-Friedensplan: Al-Sisi lädt Merz nach Ägypten ein",
     "„Tassenkontrolle“: Ein rot-rot-grüner Podcast inspiriert von Merz",
     "Niederlande - Mutmaßliche Anschlagsgefahr: Rechtspopulist Wilders setzt Wahlkampf aus",
-    "What’s next for the Palestinian resistance movements?"
+    "What’s next for the Palestinian resistance movements?",
+    "Paris - Regierungskrise in Frankreich: Macron ernennt Lecornu erneut zum Premier",
+    "Ukraine - Selenskyj: Mehr als 700.000 Haushalte wieder mit Strom versorgt"
   ],
   "hashes": [
-    "2a6d737a0cc4d0561ecc276ee0057413",
-    "4cdcb29251c43f2fc10f3d0591497068",
     "2b0d12e36864d97d84ee5ccab90320cf",
     "8c085934111d59efb9b4fa3596c90998",
     "1b5d538db9b1f69f4c1d9302acfb61d9",
@@ -4005,6 +4003,8 @@
     "9411a59228ff5a8cc90d34c118793a1d",
     "e9e70877698942aca096b35c61d7cd57",
     "458cb2e85d6515e6ca6f668574740e84",
-    "1c14f11f0623bb8614d8d43b6e93f844"
+    "1c14f11f0623bb8614d8d43b6e93f844",
+    "533a575559f9f7404ab89b41d2796391",
+    "ddb277befa71cb7036434efb040925d2"
   ]
 }
