@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-regierung-zieht-gegen-notenbankerin-cook-vor-supreme-court-102.html",
-    "https://www.faz.net/aktuell/politik/inland/studie-der-adenauer-stiftung-warum-die-cdu-nicht-mit-der-afd-zusammenarbeiten-sollte-110692187.html",
     "https://www.faz.net/aktuell/politik/inland/fdp-brachte-das-deutschlandticket-entlastung-trotz-preisanstieg-110692373.html",
     "https://www.deutschlandfunk.de/holocaust-gedenkstaette-yad-vashem-plant-zentrum-in-deutschland-110.html",
     "https://www.deutschlandfunk.de/merz-und-sanchez-betonten-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/friedensnobelpreis-2025-eine-entscheidung-gegen-trump-110726972.html",
     "https://www.deutschlandfunk.de/deutschland-grossbritannien-und-frankreich-wollen-russische-gelder-fuer-ukraine-verwenden-100.html",
     "https://www.deutschlandfunk.de/gaza-friedensplan-al-sisi-laedt-merz-nach-aegypten-ein-100.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-drei-politiker-der-spd-der-gruenen-und-der-linken-einen-podcast-machen-110720706.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-drei-politiker-der-spd-der-gruenen-und-der-linken-einen-podcast-machen-110720706.html",
+    "https://www.deutschlandfunk.de/mutmassliche-anschlagsgefahr-rechtspopulist-wilders-setzt-wahlkampf-aus-102.html",
+    "https://www.aljazeera.com/video/inside-story/2025/10/10/what-is-next-for-the-palestinian-resistance-movements?traffic_source=rss"
   ],
   "content_hashes": [
-    "7b1062af81945c7b726360bb3b5f3e98",
-    "a4fd85f7fb87a27d82dbdb0c707534e7",
     "e4d389eee7a5d242e7b23eec6876961a",
     "666e01af7f7928fed054b2e5afea1c22",
     "0847d926c8a8fb73e610b9a1efb2c142",
@@ -2001,11 +1999,11 @@
     "33caf0ae147d271609d6be944a847b76",
     "c899f7cae2fb52165013970b3accf6f0",
     "110d0b0730fb0dac7dded2880407ed1b",
-    "a9abe3e882fe5a3a47b00bfd63586553"
+    "a9abe3e882fe5a3a47b00bfd63586553",
+    "2f8eff46d367142c8c90a1ee709e39ba",
+    "5cb987e995b15cb139a2287e63ccc8f7"
   ],
   "titles": [
-    "USA - US-Regierung zieht gegen Notenbankerin Cook vor Supreme Court",
-    "Studie der Adenauer-Stiftung: Warum die CDU nicht mit der AfD zusammenarbeiten sollte",
     "Deutschlandticket: Liberales Geschenk an die Bürger",
     "Bildung - Holocaust-Gedenkstätte Yad Vashem plant Zentrum in Deutschland",
     "Madrid - Merz und Sanchez betonten Meinungsverschiedenheiten über den Gazakrieg",
@@ -3003,11 +3001,11 @@
     "Friedensnobelpreis: Eine Entscheidung gegen Trump",
     "E3-Staaten - Deutschland, Großbritannien und Frankreich wollen russische Gelder für Ukraine verwenden",
     "Telefonat der Politiker - Gaza-Friedensplan: Al-Sisi lädt Merz nach Ägypten ein",
-    "„Tassenkontrolle“: Ein rot-rot-grüner Podcast inspiriert von Merz"
+    "„Tassenkontrolle“: Ein rot-rot-grüner Podcast inspiriert von Merz",
+    "Niederlande - Mutmaßliche Anschlagsgefahr: Rechtspopulist Wilders setzt Wahlkampf aus",
+    "What’s next for the Palestinian resistance movements?"
   ],
   "hashes": [
-    "1554e9670df7cc5ea2b549d845834c34",
-    "4bd0324a9a5c690e98f759dd8920af51",
     "2a6d737a0cc4d0561ecc276ee0057413",
     "4cdcb29251c43f2fc10f3d0591497068",
     "2b0d12e36864d97d84ee5ccab90320cf",
@@ -4005,6 +4003,8 @@
     "365a4714ad28ffdda106b1de0467216e",
     "8c8942fdea109ca316d497a48e0b13d6",
     "9411a59228ff5a8cc90d34c118793a1d",
-    "e9e70877698942aca096b35c61d7cd57"
+    "e9e70877698942aca096b35c61d7cd57",
+    "458cb2e85d6515e6ca6f668574740e84",
+    "1c14f11f0623bb8614d8d43b6e93f844"
   ]
 }
