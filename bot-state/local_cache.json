@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steigende-lebenshaltungskosten-erneut-groesste-angst-der-deutschen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/antisemitisches-plakat-in-flensburg-loest-entsetzen-aus-110692366.html",
-    "https://www.deutschlandfunk.de/landesweite-streiks-gegen-sparplaene-108.html",
-    "https://www.deutschlandfunk.de/preis-fuer-deutschlandticket-soll-von-derzeit-58-euro-auf-63-euro-steigen-100.html",
     "https://www.deutschlandfunk.de/russland-uebergibt-weitere-leichen-von-ukrainischen-soldaten-100.html",
     "https://www.deutschlandfunk.de/papst-will-sexual-lehre-der-kirche-nicht-aendern-102.html",
     "https://www.deutschlandfunk.de/mutmassliche-is-mitglieder-festgenommen-verdacht-auf-kriegsverbrechen-und-mord-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bahn-hebt-preise-im-fernverkehr-zum-fahrplanwechsel-nicht-an-100.html",
     "https://www.deutschlandfunk.de/unternehmenschefs-sehen-in-neuen-handelsbarrieren-erhebliche-finanzielle-belastung-100.html",
     "https://www.deutschlandfunk.de/csu-politiker-mayer-zum-neuen-praesidenten-gewaehlt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/fuer-fruehere-klarheit-wahlpruefung-nur-noch-in-karlsruhe-110717665.html"
+    "https://www.faz.net/aktuell/politik/inland/fuer-fruehere-klarheit-wahlpruefung-nur-noch-in-karlsruhe-110717665.html",
+    "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestariftreuegesetz-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss",
+    "https://www.faz.net/aktuell/politik/urban-diplomacy-in-bremen-us-buergermeister-gegen-trumps-zoelle-110726758.html",
+    "https://www.faz.net/aktuell/politik/inland/aerzte-haften-nicht-fuer-schaeden-nach-corona-impfung-110726930.html"
   ],
   "content_hashes": [
-    "a3a5b5adbe4998117a071ca9dc20cacb",
-    "c9a198c8844c4ce90c8fb1f7dfdf819d",
-    "ab9a79d00dd9ae3b8431f12db4a43c9c",
-    "4d2c7dc2c2527ea4b94f102f2782830f",
     "3180622564fa5fac28556c6c9dff114b",
     "0e98fa2ae403f9df053ff01656853287",
     "30d30b888e603f9a53d5cc79950f5632",
@@ -2001,13 +1997,13 @@
     "4aeae863a9472e853c729284a53a9a6e",
     "c0b8d2b5db4e2ab9e768db8aef6ba472",
     "732c923dd6de01f484621bcc2b891694",
-    "8ea9455270371a0e928967e66d47c6c5"
+    "8ea9455270371a0e928967e66d47c6c5",
+    "b3b94948aa631be20cc4dbd73851e53c",
+    "e8a6caa8acb0b540f387653b95e37962",
+    "c7a3f4efe720148da8b863533644b3e2",
+    "f10e12f63f6b09e7bdf0a90277e9dacf"
   ],
   "titles": [
-    "Langzeitstudie - Steigende Lebenshaltungskosten erneut größte Angst der Deutschen",
-    "„Juden haben Hausverbot“: Entsetzen über antisemitisches Plakat in Flensburg",
-    "Frankreich - Landesweite Streiks gegen Sparpläne",
-    "Verlehrsministerkonferenz - Preis für Deutschlandticket soll von derzeit 58 Euro auf 63 Euro steigen",
     "Ukraine - Russland übergibt weitere Leichen von ukrainischen Soldaten",
     "Interview - Papst will Sexual-Lehre der Kirche nicht ändern",
     "Bundesanwaltschaft - Mutmaßliche IS-Mitglieder festgenommen - Verdacht auf Kriegsverbrechen und Mord",
@@ -3003,13 +2999,13 @@
     "Zugverkehr - Bahn hebt Preise im Fernverkehr zum Fahrplanwechsel nicht an",
     "Wirtschaft - Unternehmenschefs sehen in neuen Handelsbarrieren erhebliche finanzielle Belastung",
     "Bund der Vertriebenen - CSU-Politiker Mayer zum neuen Präsidenten gewählt",
-    "Zu lange Verfahren: Bundestagswahlen nur noch in Karlsruhe prüfen"
+    "Zu lange Verfahren: Bundestagswahlen nur noch in Karlsruhe prüfen",
+    "Arbeitsmarkt - Bundestag berät über das Bundestariftreuegesetz",
+    "KI: EU plant sechs neue Gigafactorys, aber nicht in Deutschland",
+    "Besuch in Bremen: US-Bürgermeister gegen Trump",
+    "BGH-Urteil zur Haftung: Als die Impfung eine hoheitliche Betätigung war"
   ],
   "hashes": [
-    "8c4937e52cc1002720d4c39047f57497",
-    "ad771e7c7e801b01761cc9ac3409abc6",
-    "c1d545cdcda9a758d2b629fc8440595c",
-    "3903a10c883d72d9c9512bcb6415a848",
     "cd3566c5907f4ba00b92eed9be118953",
     "284e249fef98b5478b327fc5d81908c1",
     "822c6f17bf65036464ff3cc9c4371686",
@@ -4005,6 +4001,10 @@
     "de7889cba72fd0c5f1919cb8f062c913",
     "538638d53d4188c573eeeff1fb41bb83",
     "98fbd1de903bdfa079a3df0aa78a804d",
-    "39e0678bcb2a01ceaa05e1f18280109a"
+    "39e0678bcb2a01ceaa05e1f18280109a",
+    "4f50bdead2971d7450340241725e3bbf",
+    "c9985bdfadbd6890d23231453ffebf46",
+    "68c1ee9b009c35ba8cb06349e03574eb",
+    "3c1207b2ed4dcf12d9b852d5f26fad84"
   ]
 }
