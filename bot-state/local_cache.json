@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-und-sanchez-betonten-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
-    "https://www.deutschlandfunk.de/gesamtzahl-der-in-deutschland-lebenden-fluechtlinge-erstmals-seit-2011-gesunken-100.html",
     "https://www.deutschlandfunk.de/zwoelf-militaers-in-kolumbien-fuer-morde-an-zivilisten-verurteilt-100.html",
     "https://www.deutschlandfunk.de/thueringen-streicht-ab-kommenden-jahr-den-reparaturbonus-100.html",
     "https://www.deutschlandfunk.de/merz-und-sanchez-betonen-meinungsverschiedenheiten-ueber-den-gazakrieg-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mutmassliche-anschlagsgefahr-rechtspopulist-wilders-setzt-wahlkampf-aus-102.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/10/what-is-next-for-the-palestinian-resistance-movements?traffic_source=rss",
     "https://www.deutschlandfunk.de/regierungskrise-in-frankreich-macron-ernennt-lecornu-erneut-zum-premier-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-mehr-als-700-000-haushalte-wieder-mit-strom-versorgt-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-mehr-als-700-000-haushalte-wieder-mit-strom-versorgt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-die-merz-cdu-frauen-gewinnen-will-110726259.html",
+    "https://www.faz.net/aktuell/politik/ausland/regierungskrise-in-frankreich-ein-praesident-ohne-volk-110725995.html"
   ],
   "content_hashes": [
-    "0847d926c8a8fb73e610b9a1efb2c142",
-    "35944db4cb8e82e54b7c77576bf11192",
     "0269fab8d6b086eeed478097dd44fb8b",
     "9d3aa147f06a870a58f47002bedaedc1",
     "fa92e5078d06aee8c9c9e12bb94a4b07",
@@ -2001,11 +1999,11 @@
     "2f8eff46d367142c8c90a1ee709e39ba",
     "5cb987e995b15cb139a2287e63ccc8f7",
     "7dfc1ef1ab71e270dfb8b6af81c62e31",
-    "2b195b4138bc2a52ceac1cff2e6772ba"
+    "2b195b4138bc2a52ceac1cff2e6772ba",
+    "ead2fe8ee203c8841904187ca4d60b6b",
+    "f1501f48d69029e1dbf852a16eea4297"
   ],
   "titles": [
-    "Madrid - Merz und Sanchez betonten Meinungsverschiedenheiten über den Gazakrieg",
-    "Anfrage der Linken - Gesamtzahl der in Deutschland lebenden Flüchtlinge erstmals seit 2011 gesunken",
     "Sondertribunal - Zwölf Militärs in Kolumbien für Morde an Zivilisten verurteilt",
     "Abfallvermeidung - Thüringen streicht ab kommenden Jahr den Reparaturbonus",
     "Madrid - Merz und Sanchez betonen Meinungsverschiedenheiten über den Gazakrieg",
@@ -3003,11 +3001,11 @@
     "Niederlande - Mutmaßliche Anschlagsgefahr: Rechtspopulist Wilders setzt Wahlkampf aus",
     "What’s next for the Palestinian resistance movements?",
     "Paris - Regierungskrise in Frankreich: Macron ernennt Lecornu erneut zum Premier",
-    "Ukraine - Selenskyj: Mehr als 700.000 Haushalte wieder mit Strom versorgt"
+    "Ukraine - Selenskyj: Mehr als 700.000 Haushalte wieder mit Strom versorgt",
+    "Wenige Mandatsträgerinnen: Die CDU braucht mehr Frauen – doch woher sollen die kommen?",
+    "Regierungskrise in Frankreich: Ein Präsident ohne Volk"
   ],
   "hashes": [
-    "2b0d12e36864d97d84ee5ccab90320cf",
-    "8c085934111d59efb9b4fa3596c90998",
     "1b5d538db9b1f69f4c1d9302acfb61d9",
     "7327b6b1614323b803fcf58fbf83c57c",
     "2c891121fb08511013bcb8262e3a1bcd",
@@ -4005,6 +4003,8 @@
     "458cb2e85d6515e6ca6f668574740e84",
     "1c14f11f0623bb8614d8d43b6e93f844",
     "533a575559f9f7404ab89b41d2796391",
-    "ddb277befa71cb7036434efb040925d2"
+    "ddb277befa71cb7036434efb040925d2",
+    "3545fd15c24eb4cc551549b9056f9a6c",
+    "bd9c1c0da4952448c429e602db51d805"
   ]
 }
