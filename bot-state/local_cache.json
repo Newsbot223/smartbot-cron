@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/militaer-greift-raffinerien-in-russland-mit-drohnen-an-102.html",
-    "https://www.deutschlandfunk.de/preis-soll-von-derzeit-58-euro-auf-63-euro-steigen-100.html",
     "https://www.deutschlandfunk.de/buendnis-stellt-konkrete-forderungen-fuer-den-kampf-gegen-den-antisemitismus-100.html",
     "https://www.deutschlandfunk.de/langjaehriger-putin-vertrauter-verlaesst-den-kreml-100.html",
     "https://www.deutschlandfunk.de/schaeden-von-gut-289-milliarden-euro-fuer-die-deutsche-wirtschaft-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/volkswagen-konzern-kann-china-und-nordamerika-verluste-in-anderen-regionen-ausgleichen-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-eu-und-uno-wuerdigen-verdienste-mar-a-corina-machados-100.html",
     "https://www.deutschlandfunk.de/rund-vier-millionen-menschen-in-der-sahelzone-auf-der-flucht-102.html",
-    "https://www.deutschlandfunk.de/bedeutung-friedensnobelpreis-interview-mit-friedensforscher-ulrich-kuehn-100.html"
+    "https://www.deutschlandfunk.de/bedeutung-friedensnobelpreis-interview-mit-friedensforscher-ulrich-kuehn-100.html",
+    "https://www.deutschlandfunk.de/sechs-neue-grosse-rechenzentren-in-europa-geplant-100.html",
+    "https://www.deutschlandfunk.de/bahn-hebt-preise-im-fernverkehr-zum-fahrplanwechsel-nicht-an-100.html"
   ],
   "content_hashes": [
-    "c30441710dfa23008c6984eeb417c5bf",
-    "fd7d7f63efb797c41b36ee6a3cdcb491",
     "ddfa40d1bf87da14a99e441477851c75",
     "576538d364cfc5815e008fbe16f6a3d7",
     "ec8615b9ba767eb78a1626c527b31826",
@@ -2001,11 +1999,11 @@
     "69d368f7c8743b16c1a3328abe307020",
     "2088777b6598e1d35a59ed800de226ce",
     "66d86f6649b3e2ddfcf166d4b9fbefe6",
-    "95c0b233a6ae4de721f71a154a8dc183"
+    "95c0b233a6ae4de721f71a154a8dc183",
+    "1f4d61bbfebd261949c925d866798271",
+    "4aeae863a9472e853c729284a53a9a6e"
   ],
   "titles": [
-    "Ukraine - Militär greift Raffinerien in Russland mit Drohnen an",
-    "Deutschlandticket - Preis soll von derzeit 58 Euro auf 63 Euro steigen",
     "Jüdisches Leben - Bündnis stellt konkrete Forderungen für den Kampf gegen den Antisemitismus",
     "Moskau - Langjähriger Putin-Vertrauter verlässt den Kreml",
     "Spionage, Sabotage, Datendiebstahl - Schäden von gut 289 Milliarden Euro für die deutsche Wirtschaft",
@@ -3003,11 +3001,11 @@
     "Auto-Absatz - Volkswagen-Konzern kann China- und Nordamerika-Verluste in anderen Regionen ausgleichen",
     "Friedensnobelpreis - Bundesregierung, EU und UNO würdigen Verdienste María Corina Machados",
     "UNHCR - Rund vier Millionen Menschen in der Sahelzone auf der Flucht",
-    "Friedensnobelpreis 2025 - Politologe: Maria Corina Machado ist \"sehr diplomatische Wahl\""
+    "Friedensnobelpreis 2025 - Politologe: Maria Corina Machado ist \"sehr diplomatische Wahl\"",
+    "Künstliche Intelligenz - Sechs neue große Rechenzentren in Europa geplant",
+    "Zugverkehr - Bahn hebt Preise im Fernverkehr zum Fahrplanwechsel nicht an"
   ],
   "hashes": [
-    "cc7c9d40adfa56759e8f93b88cb39fd0",
-    "1d63f94c117716becfe409e694f04426",
     "591e073a205407167767df48eaaae0a0",
     "e57eda34ba5702538afb37c53a76cc30",
     "52d8d545b9b72ae5aaa83932574ddcc3",
@@ -4005,6 +4003,8 @@
     "e95bbc6c7760e7687c37c816c7908a3a",
     "0bde89426a4afb89c0f1f80c07a5d1ce",
     "cca26016d1c98f3f08a8d56a63f15f9c",
-    "0558c9b411719b3d4e683a88bed29f0d"
+    "0558c9b411719b3d4e683a88bed29f0d",
+    "d5b569077ed98b175ced7f99023ac0f9",
+    "de7889cba72fd0c5f1919cb8f062c913"
   ]
 }
