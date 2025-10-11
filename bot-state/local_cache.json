@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/heusgen-fuer-schaerfere-sanktionen-gegen-russland-102.html",
-    "https://www.spiegel.de/politik/deutschland/migration-erstmals-weniger-gefluechtete-in-deutschland-seit-2011-a-92fc00a6-045c-4733-8b88-cc75066c2a55#ref=rss",
-    "https://www.deutschlandfunk.de/massen-streiks-in-frankreich-100.html",
     "https://www.deutschlandfunk.de/aktivistin-jani-silva-das-leben-von-umweltschuetzern-in-kolumbien-ist-wertlos-100.html",
     "https://www.deutschlandfunk.de/diskussionen-in-eu-um-eingefrorene-russische-gelder-und-schaerfere-sanktionen-102.html",
     "https://www.deutschlandfunk.de/raeumungsklage-gegen-afd-partei-aeussert-vor-prozessauftakt-kompromissbereitschaft-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spritpreise-sollen-nur-noch-einmal-am-tag-steigen-duerfen-100.html",
     "https://www.deutschlandfunk.de/pazifikstaat-nauru-waehlt-neues-parlament-und-stimmt-ueber-verfassungsreferendum-ab-geopolitik-kaum--100.html",
     "https://www.deutschlandfunk.de/bischof-nennt-wohnungsnot-beschaemend-100.html",
-    "https://www.deutschlandfunk.de/100-prozent-zusaetzlich-us-praesident-trump-kuendigt-neue-zoelle-auf-chinesischen-waren-an-102.html"
+    "https://www.deutschlandfunk.de/100-prozent-zusaetzlich-us-praesident-trump-kuendigt-neue-zoelle-auf-chinesischen-waren-an-102.html",
+    "https://www.deutschlandfunk.de/israelische-armee-greift-ziele-im-sueden-an-102.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-generalsekretaer-tim-kluessendorf-die-leute-haben-angst-accg-110726540.html",
+    "https://www.faz.net/aktuell/politik/inland/fuer-die-fdp-geht-es-um-alles-oder-nichts-110726900.html"
   ],
   "content_hashes": [
-    "831e913da01a908face449a261e5aeaa",
-    "97e44556f5be2ab822eb48e9425c2324",
-    "6a06c2fb0012ad1b99be88505c97b05e",
     "a51e5ad254bf7e051bdef1012d8456fc",
     "ab913c692a02f31259c490734aba1b99",
     "03c28b574820e6df4b3976888319980c",
@@ -2001,12 +1998,12 @@
     "14a6e5c2de30f44979d2efd2216c3d61",
     "f8d69466e616df066515ab93d267ef80",
     "5e5fdc93e349d3914cef05b24adfb996",
-    "7be26860089347a21e69e5b4c4fe6932"
+    "7be26860089347a21e69e5b4c4fe6932",
+    "da936eecb3265ccb9fb71fb7835cec64",
+    "f1353f9eb6f527c396852ff9598766d1",
+    "65f21a4b66a3c8075e89cf8a54a4a7ad"
   ],
   "titles": [
-    "Krieg gegen Ukraine - Heusgen für schärfere Sanktionen gegen Russland",
-    "Migration: Erstmals weniger Geflüchtete in Deutschland seit 2011",
-    "Frankreich - Massenproteste gegen Sparpläne der Regierung",
     "Südamerika - Aktivistin Jani Silva: \"Das Leben von Umweltschützern in Kolumbien ist wertlos\"",
     "Krieg gegen Ukraine - Diskussionen in EU um eingefrorene russische Gelder und schärfere Sanktionen",
     "Berlin - Räumungsklage gegen AfD - Partei äußert vor Prozessauftakt Kompromissbereitschaft",
@@ -3003,12 +3000,12 @@
     "Vorstoß der Bundesländer - Spritpreise sollen nur noch einmal am Tag steigen dürfen",
     "Südsee - Pazifikstaat Nauru wählt neues Parlament und stimmt über Verfassungsreferendum ab - \"Geopolitik kaum ein Thema für die Bürger\"",
     "Berlin - Bischof nennt Wohnungsnot beschämend",
-    "Handelsstreit - 100 Prozent zusätzlich: US-Präsident Trump kündigt neue Zölle auf chinesischen Waren an"
+    "Handelsstreit - 100 Prozent zusätzlich: US-Präsident Trump kündigt neue Zölle auf chinesischen Waren an",
+    "Libanon - Israelische Armee greift Ziele im Süden an",
+    "SPD-Generalsekretär: „Wir haben als SPD oft nicht die Sprache der Leute gesprochen“",
+    "Wahl in Rheinland-Pfalz: Für die FDP geht es um alles oder nichts"
   ],
   "hashes": [
-    "702569545bed4f6da103ed901ea923a4",
-    "6dbc34ba13ca6bc7aa558959526ae672",
-    "8c98ff7583b2e8ad3f0e6fb443c43a9b",
     "37c3452d2b5f92dcf2fcf32efe186781",
     "c59ce62b3e3f03fa641549abe392ee61",
     "a1047f55b0e1e49025cca72cba499ed5",
@@ -4005,6 +4002,9 @@
     "bcba7a442eec77efa126bc14a2aec210",
     "3c2ceee1f98bc5e3ed703b1fff187717",
     "2b9f2c465f755e1b6be42d4988508fa1",
-    "ba1c6af3ede8623dc3d8ab5dc1027a3b"
+    "ba1c6af3ede8623dc3d8ab5dc1027a3b",
+    "8f07f6bf4f8f7cf26ff5bbbb6a2a5a7d",
+    "02adcb94e238ab72d32f05879568a04e",
+    "f3a8837b9646da3a8fd1e31bb7009f0e"
   ]
 }
