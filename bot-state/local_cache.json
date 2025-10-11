@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/raeumungsklage-gegen-afd-partei-aeussert-vor-prozessauftakt-kompromissbereitschaft-100.html",
-    "https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss",
     "https://www.deutschlandfunk.de/monika-schnitzer-als-vorsitzende-des-sachverstaendigenrats-wiedergewaehlt-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-schlaegt-19-sanktionspaket-gegen-russland-vor-102.html",
     "https://www.deutschlandfunk.de/bemuehungen-um-vergleich-gescheitert-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/spd-generalsekretaer-tim-kluessendorf-die-leute-haben-angst-accg-110726540.html",
     "https://www.faz.net/aktuell/politik/inland/fuer-die-fdp-geht-es-um-alles-oder-nichts-110726900.html",
     "https://www.deutschlandfunk.de/hilfsorganisationen-warten-auf-oeffnung-der-grenzuebergaenge-102.html",
-    "https://www.deutschlandfunk.de/linke-aktivisten-attackieren-erneut-einen-cdu-nahen-verband-in-berlin-100.html"
+    "https://www.deutschlandfunk.de/linke-aktivisten-attackieren-erneut-einen-cdu-nahen-verband-in-berlin-100.html",
+    "https://www.deutschlandfunk.de/csu-landesgruppenchef-hoffmann-verteidigt-soeder-gegen-parteiinterne-kritik-von-seehofer-und-huber-100.html",
+    "https://www.deutschlandfunk.de/erzbischof-burger-wuerdigt-hilfe-fuer-schwerkranke-und-sterbende-100.html"
   ],
   "content_hashes": [
-    "03c28b574820e6df4b3976888319980c",
-    "bdd4f6c0348e61ca227a2447f7d64751",
     "886d763dd5018af27ec041283ec71757",
     "e740ae830e6d56707bca51709374be48",
     "15f67dff45fe63c54c60e1442fd20b69",
@@ -2001,11 +1999,11 @@
     "f1353f9eb6f527c396852ff9598766d1",
     "65f21a4b66a3c8075e89cf8a54a4a7ad",
     "65689382c8e36f97e5575d8c99573e33",
-    "2d0cdfae3d34d87a5b123381af883d75"
+    "2d0cdfae3d34d87a5b123381af883d75",
+    "a5af61982234acd9904d882fee274ead",
+    "568ccafb44e7e71fd054e764e26eabe7"
   ],
   "titles": [
-    "Berlin - Räumungsklage gegen AfD - Partei äußert vor Prozessauftakt Kompromissbereitschaft",
-    "Yad Vashem: Holocaust-Gedenkstätte soll Außenstelle in Deutschland bekommen",
     "Wirtschaftsweisen - Monika Schnitzer als Vorsitzende des Sachverständigenrats wiedergewählt",
     "Krieg gegen Ukraine - EU-Kommission schlägt 19. Sanktionspaket gegen Russland vor",
     "Räumungsklage gegen AfD - Bemühungen um Vergleich gescheitert",
@@ -3003,11 +3001,11 @@
     "SPD-Generalsekretär: „Wir haben als SPD oft nicht die Sprache der Leute gesprochen“",
     "Wahl in Rheinland-Pfalz: Für die FDP geht es um alles oder nichts",
     "Waffenruhe im Gazastreifen - Hilfsorganisationen warten auf Öffnung der Grenzübergänge",
-    "\"Neue Generation\" - Linke Aktivisten attackieren erneut einen CDU-nahen Verband in Berlin"
+    "\"Neue Generation\" - Linke Aktivisten attackieren erneut einen CDU-nahen Verband in Berlin",
+    "Medienbericht - CSU-Landesgruppenchef Hoffmann verteidigt Söder gegen parteiinterne Kritik von Seehofer und Huber",
+    "Welthospiztag - Erzbischof Burger würdigt Hilfe für Schwerkranke und Sterbende"
   ],
   "hashes": [
-    "a1047f55b0e1e49025cca72cba499ed5",
-    "45b49e37bb84dd9f91d012a0a58c9191",
     "e82e154b5b4b118ef0eab927efc3bfec",
     "69aab58c6fa67e9d13f21a0c54e0c350",
     "8b5813a98715f38db30a4e70e57fadee",
@@ -4005,6 +4003,8 @@
     "02adcb94e238ab72d32f05879568a04e",
     "f3a8837b9646da3a8fd1e31bb7009f0e",
     "661b4583f83f1b8c4bf0424d8fbe2a88",
-    "dcc4add33faf0f88b42ea47c180521a1"
+    "dcc4add33faf0f88b42ea47c180521a1",
+    "c826891b6908c4c8cf8d57e503702f72",
+    "9e8a27ca8f76f0f0fb22e7d6777a0b78"
   ]
 }
