@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aktivistin-jani-silva-das-leben-von-umweltschuetzern-in-kolumbien-ist-wertlos-100.html",
-    "https://www.deutschlandfunk.de/diskussionen-in-eu-um-eingefrorene-russische-gelder-und-schaerfere-sanktionen-102.html",
     "https://www.deutschlandfunk.de/raeumungsklage-gegen-afd-partei-aeussert-vor-prozessauftakt-kompromissbereitschaft-100.html",
     "https://www.spiegel.de/panorama/bildung/yad-vashem-holocaust-gedenkstaette-soll-aussenstelle-in-deutschland-bekommen-a-751a3278-95db-49ed-8c62-868f3d933530#ref=rss",
     "https://www.deutschlandfunk.de/monika-schnitzer-als-vorsitzende-des-sachverstaendigenrats-wiedergewaehlt-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/100-prozent-zusaetzlich-us-praesident-trump-kuendigt-neue-zoelle-auf-chinesischen-waren-an-102.html",
     "https://www.deutschlandfunk.de/israelische-armee-greift-ziele-im-sueden-an-102.html",
     "https://www.faz.net/aktuell/politik/inland/spd-generalsekretaer-tim-kluessendorf-die-leute-haben-angst-accg-110726540.html",
-    "https://www.faz.net/aktuell/politik/inland/fuer-die-fdp-geht-es-um-alles-oder-nichts-110726900.html"
+    "https://www.faz.net/aktuell/politik/inland/fuer-die-fdp-geht-es-um-alles-oder-nichts-110726900.html",
+    "https://www.deutschlandfunk.de/hilfsorganisationen-warten-auf-oeffnung-der-grenzuebergaenge-102.html",
+    "https://www.deutschlandfunk.de/linke-aktivisten-attackieren-erneut-einen-cdu-nahen-verband-in-berlin-100.html"
   ],
   "content_hashes": [
-    "a51e5ad254bf7e051bdef1012d8456fc",
-    "ab913c692a02f31259c490734aba1b99",
     "03c28b574820e6df4b3976888319980c",
     "bdd4f6c0348e61ca227a2447f7d64751",
     "886d763dd5018af27ec041283ec71757",
@@ -2001,11 +1999,11 @@
     "7be26860089347a21e69e5b4c4fe6932",
     "da936eecb3265ccb9fb71fb7835cec64",
     "f1353f9eb6f527c396852ff9598766d1",
-    "65f21a4b66a3c8075e89cf8a54a4a7ad"
+    "65f21a4b66a3c8075e89cf8a54a4a7ad",
+    "65689382c8e36f97e5575d8c99573e33",
+    "2d0cdfae3d34d87a5b123381af883d75"
   ],
   "titles": [
-    "Südamerika - Aktivistin Jani Silva: \"Das Leben von Umweltschützern in Kolumbien ist wertlos\"",
-    "Krieg gegen Ukraine - Diskussionen in EU um eingefrorene russische Gelder und schärfere Sanktionen",
     "Berlin - Räumungsklage gegen AfD - Partei äußert vor Prozessauftakt Kompromissbereitschaft",
     "Yad Vashem: Holocaust-Gedenkstätte soll Außenstelle in Deutschland bekommen",
     "Wirtschaftsweisen - Monika Schnitzer als Vorsitzende des Sachverständigenrats wiedergewählt",
@@ -3003,11 +3001,11 @@
     "Handelsstreit - 100 Prozent zusätzlich: US-Präsident Trump kündigt neue Zölle auf chinesischen Waren an",
     "Libanon - Israelische Armee greift Ziele im Süden an",
     "SPD-Generalsekretär: „Wir haben als SPD oft nicht die Sprache der Leute gesprochen“",
-    "Wahl in Rheinland-Pfalz: Für die FDP geht es um alles oder nichts"
+    "Wahl in Rheinland-Pfalz: Für die FDP geht es um alles oder nichts",
+    "Waffenruhe im Gazastreifen - Hilfsorganisationen warten auf Öffnung der Grenzübergänge",
+    "\"Neue Generation\" - Linke Aktivisten attackieren erneut einen CDU-nahen Verband in Berlin"
   ],
   "hashes": [
-    "37c3452d2b5f92dcf2fcf32efe186781",
-    "c59ce62b3e3f03fa641549abe392ee61",
     "a1047f55b0e1e49025cca72cba499ed5",
     "45b49e37bb84dd9f91d012a0a58c9191",
     "e82e154b5b4b118ef0eab927efc3bfec",
@@ -4005,6 +4003,8 @@
     "ba1c6af3ede8623dc3d8ab5dc1027a3b",
     "8f07f6bf4f8f7cf26ff5bbbb6a2a5a7d",
     "02adcb94e238ab72d32f05879568a04e",
-    "f3a8837b9646da3a8fd1e31bb7009f0e"
+    "f3a8837b9646da3a8fd1e31bb7009f0e",
+    "661b4583f83f1b8c4bf0424d8fbe2a88",
+    "dcc4add33faf0f88b42ea47c180521a1"
   ]
 }
