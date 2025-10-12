@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/sondervermoegen-fuer-infrastruktur-selbst-im-fuellhorn-ist-zu-wenig-geld-110694286.html",
-    "https://www.deutschlandfunk.de/netzagentur-will-flexible-stromspeichernutzung-ermoeglichen-100.html",
     "https://www.deutschlandfunk.de/bischof-von-speyer-fordert-debatte-ueber-ehelosigkeit-von-priestern-100.html",
     "https://www.faz.net/aktuell/politik/inland/hamburg-baut-seine-zentrale-synagoge-wieder-auf-110694597.html",
     "https://www.deutschlandfunk.de/trump-klage-gegen-new-york-times-wegen-formaler-maengel-zurueckgewiesen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/machtwechsel-auf-den-seychellen-herminie-gewinnt-praesidentenwahl-100.html",
     "https://www.deutschlandfunk.de/stichwahl-um-oberbuergermeisteramt-in-ludwigshafen-kontroverse-um-ausschluss-des-afd-kandidaten-100.html",
     "https://www.deutschlandfunk.de/schuesse-in-wettbuero-in-giessen-drei-verletzte-festnahme-am-abend-100.html",
-    "https://www.deutschlandfunk.de/gefechte-im-grenzgebiet-zwischen-afghanistan-und-pakistan-102.html"
+    "https://www.deutschlandfunk.de/gefechte-im-grenzgebiet-zwischen-afghanistan-und-pakistan-102.html",
+    "https://www.deutschlandfunk.de/nach-trumps-zoll-ankuendigung-china-verteidigt-exportkontrollen-fuer-seltene-erden-102.html",
+    "https://www.deutschlandfunk.de/us-militaers-sollen-trotz-haushaltssperre-weiter-sold-bekommen-100.html"
   ],
   "content_hashes": [
-    "29fd0e6d20a2fbeec182c4ddbcadd20c",
-    "89fb4be3ac3193061a3bbb7b34826ea2",
     "3bf47b37619d51db1686e603a92f8065",
     "fc648ff0fc5d75dc657708ec3fa465ed",
     "75c0535b0f2dc57e2db72810777283fe",
@@ -2001,11 +1999,11 @@
     "9f9ec4e74fcc81e347008ffa586f0c4b",
     "7f9e260b853d61c54a762866430e5df8",
     "76baee003bc019e30939ca2eec19cde1",
-    "6084193befe6cac60b793633f05f99f1"
+    "6084193befe6cac60b793633f05f99f1",
+    "7cd7eb8e1a2b317e6fca6f42fb1d1e3c",
+    "b490887324d6bd971a8bd803d20c2413"
   ],
   "titles": [
-    "Sondervermögen für Infrastruktur: Selbst im Füllhorn ist zu wenig Geld",
-    "Energiewende - Netzagentur will flexible Stromspeichernutzung ermöglichen",
     "Katholische Kirche - Bischof von Speyer fordert Debatte über Ehelosigkeit von Priestern",
     "1939 abgerissen: Wie Hamburg seine zentrale Synagoge wieder aufbaut",
     "Richterliche Entscheidung - Trump-Klage gegen New York Times wegen formaler Mängel zurückgewiesen",
@@ -3003,11 +3001,11 @@
     "Stichwahl - Machtwechsel auf den Seychellen - Herminie gewinnt Präsidentenwahl",
     "Rheinland-Pfalz - Stichwahl um Oberbürgermeisteramt in Ludwigshafen - Kontroverse um Ausschluss des AfD-Kandidaten",
     "Hessen - Schüsse in Wettbüro in Gießen - drei Verletzte, Festnahme am Abend",
-    "Eskalation - Gefechte im Grenzgebiet zwischen Afghanistan und Pakistan"
+    "Eskalation - Gefechte im Grenzgebiet zwischen Afghanistan und Pakistan",
+    "Handelsstreit - Nach Trumps Zoll-Ankündigung: China verteidigt Exportkontrollen für Seltene Erden",
+    "Trump-Anordnung - US-Militärs sollen trotz Haushaltssperre weiter Sold bekommen"
   ],
   "hashes": [
-    "b1dfa0739256e3683be487937a4b0155",
-    "f090f64be58df8413bf5ce7fe145e084",
     "f003bcf8ab575c723faf9a68bc10ea14",
     "059723ee8f116ebd08968efbb11e61de",
     "f9e88c5b066085832d46e23979dcbcd6",
@@ -4005,6 +4003,8 @@
     "0b1097be12ea056111e428e9aa0ef819",
     "c8b27dda4696b3b97962a46e23a48b4d",
     "c885d56779fc89a314f5452fb7df742b",
-    "2475d80589d3dffafcf84b82674a9251"
+    "2475d80589d3dffafcf84b82674a9251",
+    "362c4cc3aa05f8416f8fe0c3ab6d6d7b",
+    "3e1d0612eed9aff5376293187036b103"
   ]
 }
