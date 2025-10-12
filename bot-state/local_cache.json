@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/markus-soeder-will-die-afd-wieder-klein-machen-die-brandmauer-steht-accg-110694362.html",
-    "https://www.deutschlandfunk.de/soeder-csu-wird-eu-sanktionen-gegen-israel-nicht-akzeptieren-102.html",
     "https://www.deutschlandfunk.de/us-konzerne-rufen-auslaendische-mitarbeiter-zurueck-100.html",
     "https://www.deutschlandfunk.de/cyberangriff-auf-flughafen-dienstleister-auch-ber-betroffen-100.html",
     "https://www.deutschlandfunk.de/vulkan-auf-insel-flores-erneut-ausgebrochen-hoechste-warnstufe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schwierige-regierungsbildung-unter-zeitdruck-102.html",
     "https://www.deutschlandfunk.de/gesundheitsministerin-will-krankenkassenbeitraege-stabil-halten-100.html",
     "https://www.faz.net/aktuell/politik/inland/parteiloser-axel-strasser-ist-neuer-oberbuergermeister-von-frankfurt-oder-110729135.html",
-    "https://www.deutschlandfunk.de/regierungsbildung-von-lecornu-unter-zeitdruck-verfassungsexperten-suchen-nach-auswegen-100.html"
+    "https://www.deutschlandfunk.de/regierungsbildung-von-lecornu-unter-zeitdruck-verfassungsexperten-suchen-nach-auswegen-100.html",
+    "https://www.deutschlandfunk.de/neue-regierung-ernannt-110.html",
+    "https://www.faz.net/aktuell/politik/inland/defizite-in-kitas-ein-weltfremder-kuschelkurs-110722729.html"
   ],
   "content_hashes": [
-    "9019decddec7aead1c6b95d4590f50d8",
-    "7dde332caa433e0443262e12f3b6c11c",
     "fac6f24432e90198e8acbcf23da1b88b",
     "ae081435f86b72a6db4952d2746edc8a",
     "cd1a843800241f945155910673ab3767",
@@ -2001,11 +1999,11 @@
     "5085638568fd61963d790da1ddf8957c",
     "42cabc01fcf578acbfaa566f089d6c42",
     "57cba57ac3be96b982b0070b064aa626",
-    "99981a76170c93a56d9c0ff98a2b81fd"
+    "99981a76170c93a56d9c0ff98a2b81fd",
+    "7f0bb8b737c43ceb7ae36ce9d172d9d4",
+    "b63f8cff5beaa7a8fc1ecea54cc4a688"
   ],
   "titles": [
-    "Markus Söder im Interview: „Die Grünen werden aggressiver und verlieren ihren Stil“",
-    "Nahost-Politik - Söder: CSU wird EU-Sanktionen gegen Israel nicht akzeptieren",
     "Höhere Visa-Gebühren - US-Konzerne rufen ausländische Mitarbeiter zurück",
     "Europäischer Luftverkehr - Cyberangriff auf Flughafen-Dienstleister - auch BER betroffen",
     "Indonesien - Vulkan auf Insel Flores erneut ausgebrochen - höchste Warnstufe",
@@ -3003,11 +3001,11 @@
     "Frankreich - Schwierige Regierungsbildung unter Zeitdruck",
     "Gesetzliche Krankenversicherung - Gesundheitsministerin will Krankenkassenbeiträge stabil halten",
     "Kommunalwahl in Brandenburg: Kein Oberbürgermeister von der AfD",
-    "Frankreich - Regierungsbildung von Lecornu unter Zeitdruck - Verfassungsexperten suchen nach Auswegen"
+    "Frankreich - Regierungsbildung von Lecornu unter Zeitdruck - Verfassungsexperten suchen nach Auswegen",
+    "Frankreich - Neue Regierung ernannt",
+    "Defizite in Kitas: Ein weltfremder Kuschelkurs"
   ],
   "hashes": [
-    "7f99b644eeb23ec241fe783d5693c232",
-    "16d9b5d8a462f9d21cd98324e7885bc0",
     "69249b47d8bf7878348c81237ba80928",
     "644e0eeb545816a9e8354b89d5ee9648",
     "b075cb6bbbcaed37a7f724bfb79baf2a",
@@ -4005,6 +4003,8 @@
     "5ffeb55dad10e6d98fb80e6759e909f1",
     "e527c2b28ce222f03d94eb4c583ae92e",
     "3fd60fe4d2057d243ffeeb62ea6338cc",
-    "53eafd0870512781bb984fe63ed4bdae"
+    "53eafd0870512781bb984fe63ed4bdae",
+    "aaae48d855286131152e3ff87518f1fb",
+    "72db6d07af11fbcecb55685d0161d10a"
   ]
 }
