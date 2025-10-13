@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-kritisiert-moegliche-wiedereinsetzung-von-uno-sanktionen-gegen-den-iran-100.html",
-    "https://www.deutschlandfunk.de/weisses-haus-praezisiert-einzelheiten-zu-100-000-dollar-forderung-100.html",
-    "https://www.deutschlandfunk.de/randalierer-in-innenstadt-von-den-haag-104.html",
-    "https://www.deutschlandfunk.de/verfassungsreferendum-in-guinea-4-jahre-nach-dem-putsch-100.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-uebergewinnsteuer-fuer-ruestungskonzerne-100.html",
     "https://www.deutschlandfunk.de/tausende-beim-marsch-fuer-das-leben-und-bei-gegenprotesten-in-berlin-und-koeln-100.html",
     "https://www.deutschlandfunk.de/offenbar-frauen-und-kinder-bei-bombenangriffen-der-syrischen-armee-auf-kurdische-kaempfer-getoetet-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/merz-reist-zu-gaza-friedensplan-unterzeichnung-nach-aegypten-100.html",
     "https://www.faz.net/aktuell/politik/cdu-parteivize-jung-beim-klimaschutz-geht-es-um-konservative-werte-accg-110728772.html",
     "https://www.deutschlandfunk.de/wadephul-zuversichtlich-ueber-weiteren-verlauf-des-friedensprozesses-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-bezeichnet-deutsche-infrastruktur-als-peinlich-und-fordert-schnellere-modernisierung-100.html"
+    "https://www.deutschlandfunk.de/klingbeil-bezeichnet-deutsche-infrastruktur-als-peinlich-und-fordert-schnellere-modernisierung-100.html",
+    "https://www.deutschlandfunk.de/verband-beklagt-zunehmende-klagen-und-politisch-motivierte-aktionen-gegen-schulleitungen-100.html",
+    "https://www.deutschlandfunk.de/neue-notfall-broschuere-mit-neuen-hinweisen-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/sebastien-lecornus-zweite-amtszeit-kaum-hoffnung-fuer-emmanuel-macron-accg-110728726.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-spd-waehler-fuer-sanktionen-beim-buergergeld-faz-110093143.html"
   ],
   "content_hashes": [
-    "06219811a48d1cc661ca8d26ef5c4c2d",
-    "ccf9a8898fbee44354171d5343b8190c",
-    "0c10c08d041664857c6d888d9b7be9b4",
-    "ef1ee6eebdc70abf19de9ea75441cc72",
     "18b96161c538aaec13ac6ff7a3e0a578",
     "6798bf09dbed2423d20c178054fc711b",
     "06004f43844e2edd739d8e7f07ccd1e8",
@@ -2001,13 +1997,13 @@
     "f30ae0cd780dc39e2a96b2b50e9a43f5",
     "535f2335653679ba90a05b28d1dec044",
     "65c0738a60ef7ef6144cddd7485c2a7a",
-    "8f00b0d4c4b437452a6618122c5c626b"
+    "8f00b0d4c4b437452a6618122c5c626b",
+    "7caecec6a2b2c0e82daaa32337c69863",
+    "130fc7667e5725f145d1c491a07e999b",
+    "e0dd37c0e5632da5c6b468acc746e8f1",
+    "dd089a74f8578c2a91c5802be63fc06e"
   ],
   "titles": [
-    "Atomstreit - Russland kritisiert mögliche Wiedereinsetzung von UNO-Sanktionen gegen den Iran",
-    "Höhere Visa-Gebühren - Weißes Haus präzisiert Einzelheiten zu 100.000-Dollar-Forderung",
-    "Nach Anti-Immigrations-Demonstration - Randalierer in Innenstadt von Den Haag",
-    "Westafrika - Verfassungsreferendum in Guinea 4 Jahre nach dem Putsch",
     "Kriege und Krisen - IG Metall fordert Übergewinnsteuer für Rüstungskonzerne",
     "Abtreibungen - Tausende beim \"Marsch für das Leben\" und bei Gegenprotesten in Berlin und Köln",
     "Provinz Aleppo - Offenbar Frauen und Kinder bei Bombenangriffen der syrischen Armee auf kurdische Kämpfer getötet",
@@ -3003,13 +2999,13 @@
     "Ägypten - Der Gaza-Friedensplan steht kurz vor der Unterzeichnung",
     "CDU-Parteivize Jung: „Verdammte Pflicht“, ökonomischen Klimaschutz hinzubekommen",
     "Nahost - Wadephul zuversichtlich über weiteren Verlauf des Friedensprozesses",
-    "Investitionsprogramm - Klingbeil bezeichnet deutsche Infrastruktur als \"peinlich\" und fordert schnellere Modernisierung"
+    "Investitionsprogramm - Klingbeil bezeichnet deutsche Infrastruktur als \"peinlich\" und fordert schnellere Modernisierung",
+    "Niedersachsen - Verband beklagt zunehmende Klagen und politisch motivierte Aktionen gegen Schulleitungen",
+    "Bundesamt für Bevölkerungsschutz - Neue Notfall-Broschüre mit neuen Hinweisen",
+    "Lecornus zweite Amtszeit: Kaum Hoffnung für Macron",
+    "Liveblog Bundespolitik: Auch SPD-Wähler für Komplettsanktionen beim Bürgergeld"
   ],
   "hashes": [
-    "74d4cb98194c792a74b5256f71b5a891",
-    "ebb6b633f70c6fe1a148174e4370f8bc",
-    "e5c70c107577ae93e72012e8ac0cb1e9",
-    "58bbe070340e8b5432e34983e02e22cc",
     "a3305c6359a208221da33d14ef4636a8",
     "90d985f05aa8a915e057af8cb85bf1a2",
     "bb880b490eea770bfcd32007a0ceeff5",
@@ -4005,6 +4001,10 @@
     "ecbd93026564302d482121c32f340ac7",
     "f1151f144fef0ec1d56d6f6d987270f2",
     "95818d037bb9d37bf71ab5a7e8d4c05b",
-    "0d19406a2eeffedcd493f92b5f937512"
+    "0d19406a2eeffedcd493f92b5f937512",
+    "f39c00017af7e529493d7325593935d2",
+    "9cac049d887f1619ad389883acae8884",
+    "5a5e3f7d02e7f0ce51198b95ab45f4c8",
+    "d01172f751075bd079824fa016f15a05"
   ]
 }
