@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/von-der-leyen-eigenstaendigkeit-europas-in-sicherheitsfragen-staerken-100.html",
-    "https://www.deutschlandfunk.de/london-will-palaestina-als-staat-anerkennen-entscheidung-von-starmer-fuer-heute-erwartet-104.html",
-    "https://www.deutschlandfunk.de/cdu-politiker-hardt-fordert-klare-botschaft-an-moskau-104.html",
     "https://www.deutschlandfunk.de/kenianer-sawe-gewinnt-marathon-104.html",
     "https://www.deutschlandfunk.de/russland-meldet-zwei-tote-nach-ukrainischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/cdu-politiker-hardt-haelt-abschuss-von-russischen-kampfjets-fuer-eine-moeglichkeit-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/klimapolitik-der-lange-abschied-vom-linkskurs-110728725.html",
     "https://www.deutschlandfunk.de/alle-restlichen-israelischen-geiseln-sind-frei-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsnobelpreis-fuer-forschungen-zu-innovationsgetriebenem-wachstum-100.html",
-    "https://www.deutschlandfunk.de/misstrauensantraege-gegen-neue-regierung-eingereicht-100.html"
+    "https://www.deutschlandfunk.de/misstrauensantraege-gegen-neue-regierung-eingereicht-100.html",
+    "https://www.deutschlandfunk.de/trump-neue-aera-in-nahem-osten-100.html",
+    "https://www.deutschlandfunk.de/viele-opfer-nach-gefechten-zwischen-hamas-und-mitgliedern-des-dughmush-clans-100.html",
+    "https://www.deutschlandfunk.de/misstrauensantraege-gegen-neue-regierung-100.html"
   ],
   "content_hashes": [
-    "f6efd9810a643aebb41ada36fa38c923",
-    "1e487ccfe9a6ee7f47f34a8705f10116",
-    "e5df63cd8b22aa5483f8e35cbb43f91b",
     "0f5573777f37ed0644271f72553056b3",
     "e5b711ddf6f382c6672c9f8b60ed6c35",
     "0ecc6684e9310d192f81adfccea4a933",
@@ -2001,12 +1998,12 @@
     "892b768a68ce0dc7d93e63edfcf4050a",
     "3c88918a5d653e4190638a21ac95c770",
     "c8b370d2ccd63623f5c7859eedf11131",
-    "8719636df47cc0b7b15f49254785ffce"
+    "8719636df47cc0b7b15f49254785ffce",
+    "ea8d8492c74aac2b20a8c21143994e09",
+    "9e12ac9be45e14038e374485f20ca579",
+    "5d756a23a0eaec811f752fc9c1000d11"
   ],
   "titles": [
-    "Russische Luftraumverletzungen - Von der Leyen: Eigenständigkeit Europas in Sicherheitsfragen stärken",
-    "Gazakrieg - London will Palästina als Staat anerkennen - Entscheidung von Starmer für heute erwartet",
-    "Russische Luftraumverletzungen - CDU-Politiker Hardt fordert klare Botschaft an Moskau",
     "Berlin - Kenianer Sawe gewinnt Marathon",
     "Ukraine-Krieg - Russland meldet zwei Tote nach ukrainischen Angriffen",
     "Luftraumverletzungen - CDU-Politiker Hardt hält Abschuss von russischen Kampfjets für eine Möglichkeit",
@@ -3003,12 +3000,12 @@
     "Klimapolitik: Der lange Abschied vom Linkskurs",
     "Nahost - Alle restlichen israelischen Geiseln sind frei",
     "Stockholm - Wirtschaftsnobelpreis für Forschungen zu innovationsgetriebenem Wachstum",
-    "Frankreich - Misstrauensanträge gegen neue Regierung eingereicht"
+    "Frankreich - Misstrauensanträge gegen neue Regierung eingereicht",
+    "US-Präsident vor der Knesset - Trump: Neue Ära in Nahem Osten",
+    "Gazastreifen - Viele Opfer nach Gefechten zwischen Hamas und Mitgliedern des Dughmush-Clans",
+    "Frankreich - Misstrauensanträge gegen neue Regierung"
   ],
   "hashes": [
-    "e9de85b96827e7bfd8cd41168ef4f71e",
-    "881599829a18f9ed243e43133ccaaa8f",
-    "b6ddac810c5b2d14b7ab5ba369683539",
     "bcd631fdf4674bc99cfb2e619ed46c17",
     "efccce37d9f1914675897872617c9498",
     "684330f3ff86afa5937ebfffbb78064f",
@@ -4005,6 +4002,9 @@
     "17b12c0dd517b92ef83f090705558572",
     "f1322b555c94fc4086a934822c56f9be",
     "fa50d4dcbe73362a57e551e9d6bace8c",
-    "f1565bf6ca1f0d9ebd7d5dcb0290d89f"
+    "f1565bf6ca1f0d9ebd7d5dcb0290d89f",
+    "e0d36884dc794e0c555a81d688233d14",
+    "deedaeb8b38d843890dc1b58446e4bf9",
+    "39613470d1f9847aeb6b12cd14958abd"
   ]
 }
