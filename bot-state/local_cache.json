@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-politiker-hardt-russische-kampfflugzeuge-notfalls-abschiessen-100.html",
     "https://www.deutschlandfunk.de/stichwahlen-in-frankfurt-oder-potsdam-und-ludwigshafen-102.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/kirk-attentat-haeme-statt-mitgefuehl-auch-in-deutschland-110693975.html",
     "https://www.deutschlandfunk.de/britische-regierung-genehmigt-zweite-startbahn-fuer-flughafen-london-gatwick-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/kommentar-zu-israel-und-hamas-ein-guter-tag-aber-fuer-frieden-braucht-es-mehr-100.html",
     "https://www.deutschlandfunk.de/kalifornien-beschliesst-regulierung-von-ki-chatbots-100.html",
     "https://www.deutschlandfunk.de/bnd-chef-jaeger-warnt-russland-zu-direkter-militaerischer-auseinandersetzung-mit-der-nato-bereit-100.html",
-    "https://www.deutschlandfunk.de/praesident-rajoelina-habe-mich-an-sicheren-ort-begeben-100.html"
+    "https://www.deutschlandfunk.de/praesident-rajoelina-habe-mich-an-sicheren-ort-begeben-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-charkiw-nach-russischen-bomben-angriffen-100.html"
   ],
   "content_hashes": [
-    "5c4e1506b2aa01ee871d363d4a3b0675",
     "c609b16c6f6a68499ff0b358de067e2b",
     "1812327d4e48f1a0817c05d0953b3fb4",
     "803a442aa168c963c19453d65a36f9e0",
@@ -2001,10 +2000,10 @@
     "75c64d02cc6ebb8052f9d78d0f50ac9a",
     "e5f775ef06db22373d74aaf9a6a84904",
     "e85b068dbb807d4950a1be37baba8a72",
-    "ec3cd021d440940cf5c2638411014176"
+    "ec3cd021d440940cf5c2638411014176",
+    "ecd6825e3f263d1067454ac13e267d23"
   ],
   "titles": [
-    "Luftraumverletzungen - CDU-Politiker Hardt: Russische Kampfflugzeuge notfalls abschießen",
     "Oberbürgermeisterwahlen - Stichwahlen in Frankfurt (Oder), Potsdam und Ludwigshafen",
     "Nach dem Kirk-Attentat: Auch in Deutschland sind die Sitten schon verroht",
     "Luftverkehr - Britische Regierung genehmigt zweite Startbahn für Flughafen London-Gatwick",
@@ -3003,10 +3002,10 @@
     "Israel und Hamas - Kommentar: Ein guter Tag, aber für Frieden braucht es mehr",
     "Künstliche Intelligenz - Kalifornien beschließt Regulierung von KI-Chatbots",
     "Anhörung im Bundestag - BND-Chef Jäger warnt: \"Russland zu direkter militärischer Auseinandersetzung mit der NATO bereit\"",
-    "Madagaskar -  Präsident Rajoelina: \"Habe mich an sicheren Ort begeben\""
+    "Madagaskar -  Präsident Rajoelina: \"Habe mich an sicheren Ort begeben\"",
+    "Ukraine - Stromausfall in Charkiw nach russischen Bomben-Angriffen"
   ],
   "hashes": [
-    "958877a0a75692bb50ba14c23c419c11",
     "829e6308e0311ab0c104fb2777033680",
     "dc991faaeca154472c52fb4c55bb6588",
     "83b21d92159282d7978f5e364e918546",
@@ -4005,6 +4004,7 @@
     "dab874aabee708a048257e7191159e5b",
     "253224dc889110c1dc0caead88568859",
     "418f15636aba9096082f9d10d5cd7e44",
-    "1bbb814ab450bdaf1ee5d0f0b04edb5f"
+    "1bbb814ab450bdaf1ee5d0f0b04edb5f",
+    "27871f5cd1fc01b8f11d6bedd7dadc69"
   ]
 }
