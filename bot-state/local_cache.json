@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zehnkaempfer-leo-neugebauer-gewinnt-gold-deutsche-frauen-staffel-erreicht-dritten-platz-100.html",
-    "https://www.deutschlandfunk.de/deutsche-luftwaffe-begleitet-russisches-aufklaerungsflugzeug-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-bei-protesten-gegen-korruption-100.html",
     "https://www.deutschlandfunk.de/ungerecht-und-schwer-erklaerbar-debatte-um-aktiv-rente-100.html",
     "https://www.deutschlandfunk.de/christopher-nolan-ist-neuer-praesident-der-us-regiegewerkschaft-102.html",
     "https://www.deutschlandfunk.de/cyberangriff-auf-flughafen-dienstleister-fuehrt-weiterhin-zu-einschraenkungen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/krankenkassen-befuerworten-sparplaene-der-bundesgesundheitsministerin-fuer-kliniken-100.html",
     "https://www.deutschlandfunk.de/deutsche-wolfs-population-entwickelt-sich-guenstig-abschuesse-kuenftig-erleichtert-100.html",
     "https://www.deutschlandfunk.de/who-warnt-vor-antibiotika-resistenzen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/chefs-der-geheimdienste-in-europa-herrscht-bestenfalls-ein-eisiger-frieden-110730178.html"
+    "https://www.faz.net/aktuell/politik/inland/chefs-der-geheimdienste-in-europa-herrscht-bestenfalls-ein-eisiger-frieden-110730178.html",
+    "https://www.deutschlandfunk.de/kubanischer-dissident-jos-daniel-ferrer-im-exil-in-florida-100.html",
+    "https://www.deutschlandfunk.de/keine-sondersitzung-zur-teilnahme-israels-beim-esc-102.html",
+    "https://www.deutschlandfunk.de/kommentar-zu-israel-und-hamas-ein-guter-tag-aber-fuer-frieden-braucht-es-mehr-100.html"
   ],
   "content_hashes": [
-    "5c68032e0e2253860e7b2d01a0039f51",
-    "638c9a92ad20c183f2b4027a1c222da5",
-    "a551bafd781ce3b65fc53653dc6568c9",
     "9e15c8783d1433fb3157c304e6acbfc1",
     "4d36a6bd64f176299ce0ea20635ef6b6",
     "31103ee64085f18b3699c2d8d5a3395d",
@@ -2001,12 +1998,12 @@
     "e7f6ca6a313e6d96d682f918212f6902",
     "292d0a930c4c2415f0ce0a42e81bc534",
     "9cb90a9f0a8e5dfe7780057af486a440",
-    "7ac70e4e58b5dae2c59d72dafcbe1430"
+    "7ac70e4e58b5dae2c59d72dafcbe1430",
+    "bb070b7e64ec509a77413e4fdec4b285",
+    "a5f3e33a38c069b87d2673d99f3466d8",
+    "75c64d02cc6ebb8052f9d78d0f50ac9a"
   ],
   "titles": [
-    "Leichtathletik-WM - Zehnkämpfer Leo Neugebauer gewinnt Gold, deutsche Frauen-Staffel erreicht dritten Platz",
-    "Ostsee - Deutsche Luftwaffe begleitet russisches Aufklärungsflugzeug",
-    "Philippinen - Zehntausende bei Protesten gegen Korruption",
     "Steuererleichterungen - Kritik an geplanter Aktivrente wächst",
     "Film - Christopher Nolan ist neuer Präsident der US-Regiegewerkschaft",
     "Europa - Cyberangriff auf Flughafen-Dienstleister führt weiterhin zu Einschränkungen",
@@ -3003,12 +3000,12 @@
     "Gesundheitspolitik - Krankenkassen befürworten Sparpläne der Bundesgesundheitsministerin für Kliniken",
     "Ministerium - Deutsche Wolfs-Population entwickelt sich günstig - Abschüsse künftig erleichtert",
     "Weltgesundheitsorganisation - WHO warnt vor Antibiotika-Resistenzen",
-    "Chefs der Geheimdienste: „In Europa herrscht bestenfalls ein eisiger Frieden“"
+    "Chefs der Geheimdienste: „In Europa herrscht bestenfalls ein eisiger Frieden“",
+    "USA - Kubanischer Dissident José Daniel Ferrer im Exil in Florida",
+    "EBU - Keine Sondersitzung zur Teilnahme Israels beim ESC",
+    "Israel und Hamas - Kommentar: Ein guter Tag, aber für Frieden braucht es mehr"
   ],
   "hashes": [
-    "54fb6449a5b2f1ebcb04731346616c3b",
-    "46a529d3c23afeed18c915072db5a83d",
-    "866fd3cf29ffd48d4090a4bda6bbf86e",
     "15dcd20041254abac4aa310f1657429b",
     "83476d03a2757e5084a592a8e22f76c8",
     "31eea0928de24fda078bbd4e05cdab52",
@@ -4005,6 +4002,9 @@
     "181eb58abe5a381b37340865b064d0d8",
     "29f6b8be562e8637db107f858678e62d",
     "3a5417cddf99f9fa4c7b61d670fd2e11",
-    "4c84b55c25d412f569b671d0791f5956"
+    "4c84b55c25d412f569b671d0791f5956",
+    "89abb74468f057cd761b8de7f4563b55",
+    "1d6fbe5337a80aa9ce263dbe4f4d528d",
+    "dab874aabee708a048257e7191159e5b"
   ]
 }
