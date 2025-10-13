@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stichwahlen-in-frankfurt-oder-potsdam-und-ludwigshafen-102.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/kirk-attentat-haeme-statt-mitgefuehl-auch-in-deutschland-110693975.html",
     "https://www.deutschlandfunk.de/britische-regierung-genehmigt-zweite-startbahn-fuer-flughafen-london-gatwick-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-stellt-bahn-strategie-vor-palla-soll-neue-konzernchefin-werden-100.html",
     "https://www.deutschlandfunk.de/verfassungsrichterwahl-ausschuss-beraet-ueber-spd-vorschlag-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kalifornien-beschliesst-regulierung-von-ki-chatbots-100.html",
     "https://www.deutschlandfunk.de/bnd-chef-jaeger-warnt-russland-zu-direkter-militaerischer-auseinandersetzung-mit-der-nato-bereit-100.html",
     "https://www.deutschlandfunk.de/praesident-rajoelina-habe-mich-an-sicheren-ort-begeben-100.html",
-    "https://www.deutschlandfunk.de/stromausfall-in-charkiw-nach-russischen-bomben-angriffen-100.html"
+    "https://www.deutschlandfunk.de/stromausfall-in-charkiw-nach-russischen-bomben-angriffen-100.html",
+    "https://www.deutschlandfunk.de/erste-kabinettssitzung-der-neuen-regierung-und-regierungserklaerung-100.html",
+    "https://www.deutschlandfunk.de/frankfurter-buchmesse-wird-eroeffnet-100.html"
   ],
   "content_hashes": [
-    "c609b16c6f6a68499ff0b358de067e2b",
-    "1812327d4e48f1a0817c05d0953b3fb4",
     "803a442aa168c963c19453d65a36f9e0",
     "39c588d15c23eb6b3ba6495dbc793aad",
     "425c598aed9056505345991ad6416c5a",
@@ -2001,11 +1999,11 @@
     "e5f775ef06db22373d74aaf9a6a84904",
     "e85b068dbb807d4950a1be37baba8a72",
     "ec3cd021d440940cf5c2638411014176",
-    "ecd6825e3f263d1067454ac13e267d23"
+    "ecd6825e3f263d1067454ac13e267d23",
+    "81c43cd28890de943b115c44661deb94",
+    "c99ebfe3572a93e2e6776d71d58f8fa0"
   ],
   "titles": [
-    "Oberbürgermeisterwahlen - Stichwahlen in Frankfurt (Oder), Potsdam und Ludwigshafen",
-    "Nach dem Kirk-Attentat: Auch in Deutschland sind die Sitten schon verroht",
     "Luftverkehr - Britische Regierung genehmigt zweite Startbahn für Flughafen London-Gatwick",
     "Staatskonzern - Bundesverkehrsminister Schnieder stellt Bahn-Strategie vor - Palla soll neue Konzernchefin werden",
     "Bundestag - Verfassungsrichterwahl: Ausschuss berät über SPD-Vorschlag",
@@ -3003,11 +3001,11 @@
     "Künstliche Intelligenz - Kalifornien beschließt Regulierung von KI-Chatbots",
     "Anhörung im Bundestag - BND-Chef Jäger warnt: \"Russland zu direkter militärischer Auseinandersetzung mit der NATO bereit\"",
     "Madagaskar -  Präsident Rajoelina: \"Habe mich an sicheren Ort begeben\"",
-    "Ukraine - Stromausfall in Charkiw nach russischen Bomben-Angriffen"
+    "Ukraine - Stromausfall in Charkiw nach russischen Bomben-Angriffen",
+    "Frankreich - Erste Kabinettssitzung der neuen Regierung und Regierungserklärung",
+    "Literatur - Frankfurter Buchmesse wird eröffnet"
   ],
   "hashes": [
-    "829e6308e0311ab0c104fb2777033680",
-    "dc991faaeca154472c52fb4c55bb6588",
     "83b21d92159282d7978f5e364e918546",
     "ac9c6e63819f96ca0c20a4587f7f14b7",
     "61de8025df66f07bf65a2a2b6a206145",
@@ -4005,6 +4003,8 @@
     "253224dc889110c1dc0caead88568859",
     "418f15636aba9096082f9d10d5cd7e44",
     "1bbb814ab450bdaf1ee5d0f0b04edb5f",
-    "27871f5cd1fc01b8f11d6bedd7dadc69"
+    "27871f5cd1fc01b8f11d6bedd7dadc69",
+    "d98f2d999316dbaa7a7027cbf0b52ebb",
+    "e600ca575bdf2dfdc8fb95b64970fe83"
   ]
 }
