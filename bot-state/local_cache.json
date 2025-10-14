@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/richterwahlausschuss-schlaegt-mit-zweidrittelmehrheit-emmenegger-fuer-verfassungsgericht-vor-102.html",
-    "https://www.deutschlandfunk.de/abgesetzte-late-night-show-von-jimmy-kimmel-geht-wieder-auf-sendung-104.html",
-    "https://www.deutschlandfunk.de/macron-verkuendet-anerkennung-von-staat-palaestina-100.html",
-    "https://www.deutschlandfunk.de/flugverkehr-am-flughafen-kopenhagen-wegen-drohnen-eingestellt-102.html",
     "https://www.deutschlandfunk.de/klingbeil-bringt-haushalt-2026-ins-parlament-ein-100.html",
     "https://www.deutschlandfunk.de/bahn-aufsichtsrat-tagt-zu-umstrittenem-wechsel-an-konzernspitze-100.html",
     "https://www.deutschlandfunk.de/auch-csu-fordert-von-eu-kommission-reform-der-freizuegigkeitsregeln-102.html",
@@ -999,13 +995,13 @@
     "https://www.aljazeera.com/news/2025/10/14/ngos-welcome-lebanons-push-for-justice-over-israeli-attack-on-journalists?traffic_source=rss",
     "https://www.deutschlandfunk.de/uno-draengt-auf-raschen-start-des-wiederaufbaus-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-verhaengt-strafen-gegen-modemarken-gucci-chlo-und-loewe-100.html",
-    "https://www.deutschlandfunk.de/riff-vor-ruegen-mit-640-tonnen-natursteinen-aufgefuellt-102.html"
+    "https://www.deutschlandfunk.de/riff-vor-ruegen-mit-640-tonnen-natursteinen-aufgefuellt-102.html",
+    "https://www.deutschlandfunk.de/iwf-prognose-weltwirtschaft-waechst-2025-staerker-als-erwartet-100.html",
+    "https://www.deutschlandfunk.de/erster-prozesstag-gegen-immobilenunternehmer-benko-dauerte-lediglich-zwei-stunden-100.html",
+    "https://www.deutschlandfunk.de/kolonialzeit-deutschland-will-rueckgabe-von-raubkunst-erleichtern-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-verlegt-amtssitz-fuer-drei-tage-nach-andernach-100.html"
   ],
   "content_hashes": [
-    "c39412bc1d98b4ce44396e74a961ab47",
-    "6e2ebde8155eb12bd0bee59c136a82ce",
-    "3380eb4151833ab6a57c190482f2c249",
-    "b870f722959f12bb546b4a29bfee9202",
     "b6e59bf54dce5285c8ac7ce171efadf0",
     "b1fc30f065d86de12fb0ea84bd7be01e",
     "1ac7a085cdf68db4cd21d65eec8a2678",
@@ -2001,13 +1997,13 @@
     "73cf2b09e02b0903fd5cfcf38674b16f",
     "3ad027fabcd61f89120a7ea45e5d579a",
     "cc8efc3b2d7057a05847c15fe98a6add",
-    "4108ec96d6d621a80376fc50c91c49ae"
+    "4108ec96d6d621a80376fc50c91c49ae",
+    "87fc980f3cd7f21a7bfaa3fa2a517a95",
+    "300ede52fbad34f95e5b3226cd7f3e5e",
+    "9622a3496fd396a8cd8146e27f3ef796",
+    "b5cb5e9c88a00ee78556f07d61183654"
   ],
   "titles": [
-    "Berlin - Richterwahlausschuss schlägt mit Zweidrittelmehrheit Emmenegger für Verfassungsgericht vor",
-    "USA - Abgesetzte Late-Night-Show von Jimmy Kimmel geht wieder auf Sendung",
-    "Vereinte Nationen - Macron verkündet Anerkennung von \"Staat Palästina\"",
-    "Dänemark - Flugverkehr am Flughafen Kopenhagen wegen Drohnen eingestellt",
     "Berlin - Klingbeil bringt Haushalt 2026 ins Parlament ein",
     "Berlin - Bahn-Aufsichtsrat tagt zu umstrittenem Wechsel an Konzernspitze",
     "Debatte um Sozialbetrug - Auch CSU fordert von EU-Kommission Reform der Freizügigkeitsregeln",
@@ -3003,13 +2999,13 @@
     "NGOs welcome Lebanon’s push for justice over Israeli attack on journalists",
     "Gazastreifen - UNO drängt auf raschen Start des Wiederaufbaus",
     "Wettbewerb - EU-Kommission verhängt Strafen gegen Modemarken Gucci, Chloé und Loewe",
-    "Ostsee - Riff vor Rügen mit 640 Tonnen Natursteinen aufgefüllt"
+    "Ostsee - Riff vor Rügen mit 640 Tonnen Natursteinen aufgefüllt",
+    "Internationaler Währungsfonds - IWF-Prognose: Weltwirtschaft wächst 2025 stärker als erwartet",
+    "Innsbruck - Erster Prozesstag gegen Immobilenunternehmer Benko dauerte lediglich zwei Stunden",
+    "Spitzentreffen in Berlin - Kolonialzeit: Deutschland will Rückgabe von Raubkunst erleichtern",
+    "Rheinland-Pfalz - Bundespräsident Steinmeier verlegt Amtssitz für drei Tage nach Andernach"
   ],
   "hashes": [
-    "84c72086ee39492a92a76a2ed042b0bc",
-    "e6611e5953c9de7b1971c8dd0350c131",
-    "ec1a30ee360aadde6b92c5d628473c2b",
-    "a67fb3ac57a6fe6f21c3ee1e8f86dd7f",
     "58b56502c841efebf47cbdefad2818d3",
     "2f0427a8d293a8db45a4a9e96b910331",
     "b66c58789e4ddf557bfbe0ac9af0cc06",
@@ -4005,6 +4001,10 @@
     "db8ad0d87b2340f950f2bc856b9e201e",
     "b6d7cf2eeb09861c89587c339f9435e8",
     "606f24c3bbfce6230cbe34e3442bcdee",
-    "477deb3955c5f902ad2b1594c31a7283"
+    "477deb3955c5f902ad2b1594c31a7283",
+    "045df5068f65c445ced93bb6e0b2d011",
+    "d634ee16690b7958ac447faef9373370",
+    "289444dca854987b51bc343a45151bd1",
+    "696069cc49c2a95b4dbf1042a8144344"
   ]
 }
