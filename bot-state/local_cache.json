@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/richterwahlausschuss-entscheidet-ueber-neue-kandidatin-fuer-das-bundesverfassungsgericht-100.html",
-    "https://www.deutschlandfunk.de/hunderte-us-stars-unterzeichnen-brief-fuer-meinungsfreiheit-102.html",
-    "https://www.deutschlandfunk.de/kommentar-zu-palaestina-als-staat-anerkennung-staerkt-voelkerrecht-100.html",
     "https://www.deutschlandfunk.de/richterwahlausschuss-schlaegt-mit-zweidrittelmehrheit-emmenegger-fuer-verfassungsgericht-vor-102.html",
     "https://www.deutschlandfunk.de/abgesetzte-late-night-show-von-jimmy-kimmel-geht-wieder-auf-sendung-104.html",
     "https://www.deutschlandfunk.de/macron-verkuendet-anerkennung-von-staat-palaestina-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/naurus-praesident-adeang-nach-parlamentswahl-im-amt-bestaetigt-verfassungsreferendum-in-kleinster-re-100.html",
     "https://www.deutschlandfunk.de/theologe-friedrich-magirius-gestorben-100.html",
     "https://www.deutschlandfunk.de/ins-exil-geflohener-staatschef-rajoelina-loest-parlament-auf-opposition-massnahme-rechtlich-unwirksa-100.html",
-    "https://www.aljazeera.com/news/2025/10/14/ngos-welcome-lebanons-push-for-justice-over-israeli-attack-on-journalists?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/10/14/ngos-welcome-lebanons-push-for-justice-over-israeli-attack-on-journalists?traffic_source=rss",
+    "https://www.deutschlandfunk.de/uno-draengt-auf-raschen-start-des-wiederaufbaus-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-verhaengt-strafen-gegen-modemarken-gucci-chlo-und-loewe-100.html",
+    "https://www.deutschlandfunk.de/riff-vor-ruegen-mit-640-tonnen-natursteinen-aufgefuellt-102.html"
   ],
   "content_hashes": [
-    "c0dff6de64ced9402e3efe554d37be3e",
-    "5cabec9637138675564f2a98f4cdeae9",
-    "08bd714e996e462235fdb4cc8d5e710e",
     "c39412bc1d98b4ce44396e74a961ab47",
     "6e2ebde8155eb12bd0bee59c136a82ce",
     "3380eb4151833ab6a57c190482f2c249",
@@ -2001,12 +1998,12 @@
     "f5fb8ae19d53630fef18bb6934c0490f",
     "4d80ee5f7b1367caee8fc39a070388a9",
     "3cc4e164fce89c3ec42862e511ea62ba",
-    "73cf2b09e02b0903fd5cfcf38674b16f"
+    "73cf2b09e02b0903fd5cfcf38674b16f",
+    "3ad027fabcd61f89120a7ea45e5d579a",
+    "cc8efc3b2d7057a05847c15fe98a6add",
+    "4108ec96d6d621a80376fc50c91c49ae"
   ],
   "titles": [
-    "Berlin - Richterwahlausschuss entscheidet über neue Kandidatin für das Bundesverfassungsgericht",
-    "Nach Absetzung von Kimmel-Show - Hunderte US-Stars unterzeichnen Brief für Meinungsfreiheit",
-    "Kommentar - Die Anerkennung Palästinas als Staat ist folgerichtig",
     "Berlin - Richterwahlausschuss schlägt mit Zweidrittelmehrheit Emmenegger für Verfassungsgericht vor",
     "USA - Abgesetzte Late-Night-Show von Jimmy Kimmel geht wieder auf Sendung",
     "Vereinte Nationen - Macron verkündet Anerkennung von \"Staat Palästina\"",
@@ -3003,12 +3000,12 @@
     "Südsee-Insel - Naurus Präsident Adeang nach Parlamentswahl im Amt bestätigt - Verfassungsreferendum in kleinster Republik der Welt abgelehnt",
     "Leipziger Friedensgebete - Theologe Friedrich Magirius gestorben",
     "Madagaskar -  Ins Exil geflohener Staatschef Rajoelina löst Parlament auf - Opposition: Maßnahme rechtlich unwirksam",
-    "NGOs welcome Lebanon’s push for justice over Israeli attack on journalists"
+    "NGOs welcome Lebanon’s push for justice over Israeli attack on journalists",
+    "Gazastreifen - UNO drängt auf raschen Start des Wiederaufbaus",
+    "Wettbewerb - EU-Kommission verhängt Strafen gegen Modemarken Gucci, Chloé und Loewe",
+    "Ostsee - Riff vor Rügen mit 640 Tonnen Natursteinen aufgefüllt"
   ],
   "hashes": [
-    "d25718e43752b3e3edd85943dce9c59a",
-    "7130f25b28b1cb4977eb95989536c358",
-    "7dd39bd1bc293104b9e035706f62cf81",
     "84c72086ee39492a92a76a2ed042b0bc",
     "e6611e5953c9de7b1971c8dd0350c131",
     "ec1a30ee360aadde6b92c5d628473c2b",
@@ -4005,6 +4002,9 @@
     "fb30ccd2d00228602ddbb542cd4de89e",
     "c6b067c8869f6405bf4712a11bc424bb",
     "a4e6676da07e41578120df0d35d2a305",
-    "db8ad0d87b2340f950f2bc856b9e201e"
+    "db8ad0d87b2340f950f2bc856b9e201e",
+    "b6d7cf2eeb09861c89587c339f9435e8",
+    "606f24c3bbfce6230cbe34e3442bcdee",
+    "477deb3955c5f902ad2b1594c31a7283"
   ]
 }
