@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/am-ber-und-anderen-flughaefen-in-europa-auch-am-morgen-noch-verspaetungen-und-warteschlangen-100.html",
-    "https://www.deutschlandfunk.de/kabel-durchtrennt-vandalismus-legt-pendler-strecke-koeln-duesseldorf-lahm-oberleitungsstoerung-in-no-100.html",
-    "https://www.deutschlandfunk.de/schnieder-bestaetigt-db-regio-chefin-palla-rueckt-an-die-spitze-der-deutschen-bahn-100.html",
     "https://www.deutschlandfunk.de/mehr-fahrgaeste-in-bus-und-bahn-im-ersten-halbjahr-100.html",
     "https://www.deutschlandfunk.de/db-regio-chefin-palla-rueckt-an-die-spitze-der-deutschen-bahn-tag-des-neuanfangs-100.html",
     "https://www.deutschlandfunk.de/prozess-gegen-bisherigen-vizepraesident-im-suedsudan-begonnen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rotes-kreuz-herausforderungen-fuer-humanitaere-hilfe-sind-riesig-100.html",
     "https://www.deutschlandfunk.de/trump-wird-bei-unterzeichnung-von-friedensabkommen-zwischen-thailand-und-kambodscha-dabei-sein-100.html",
     "https://www.deutschlandfunk.de/streiks-beeintraechtigen-verkehr-und-touristen-in-griechenland-100.html",
-    "https://www.deutschlandfunk.de/vodafone-will-technik-aus-suedkorea-fuer-modernisierung-nutzen-huawei-komponenten-werden-ersetzt-100.html"
+    "https://www.deutschlandfunk.de/vodafone-will-technik-aus-suedkorea-fuer-modernisierung-nutzen-huawei-komponenten-werden-ersetzt-100.html",
+    "https://www.deutschlandfunk.de/prozess-gegen-ex-milliardaer-benko-begonnen-100.html",
+    "https://www.deutschlandfunk.de/frueherer-wehrbeauftragter-bartels-wir-muessen-dazu-kommen-personalbedarf-zu-decken-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wo-die-geschichte-der-bundeswehr-ihren-anfang-nahm-accg-110726687.html"
   ],
   "content_hashes": [
-    "0493be7bf180aa557df942aaa287bb75",
-    "30702895db47188e6523436e83988006",
-    "ee3ea1b87de8a78df31d526ef5af6df9",
     "b8ac3778d954fb65bc6b59e1f76e07f0",
     "c23916ea8b3845423aeb21543017e040",
     "77d065ee619aaa9a4a7e5db610a66b8f",
@@ -2001,12 +1998,12 @@
     "1af2c9256cf3cf42d0c304a74588b6a9",
     "ae4f72849af284b12b67127a3b0cf9db",
     "185098d9bba8c18c0ccfd61817b67e28",
-    "73c85dced89ecf18723405419fb058b8"
+    "73c85dced89ecf18723405419fb058b8",
+    "1665f6f7004b2767ddbc59fc216a0f8e",
+    "144ccb028c6f710416a2ff35c1612105",
+    "ecba8205be92c4086f58d8dd72e8613c"
   ],
   "titles": [
-    "Nach Cyberangriff - Am BER und anderen Flughäfen in Europa auch am Morgen noch Verspätungen und Warteschlangen",
-    "Bahnverkehr - Kabel durchtrennt: Vandalismus legt Pendler-Strecke Köln-Düsseldorf lahm - Oberleitungsstörung in Norddeutschland",
-    "Bahn-Strategie - Schnieder bestätigt: DB-Regio-Chefin Palla rückt an die Spitze der Deutschen Bahn",
     "Nahverkehr - Mehr Fahrgäste in Bus und Bahn im ersten Halbjahr",
     "Neue Strategie - DB-Regio-Chefin Palla rückt an die Spitze der Deutschen Bahn - \"Tag des Neuanfangs\"",
     "Afrika - Prozess gegen bisherigen Vizepräsident im Südsudan begonnen",
@@ -3003,12 +3000,12 @@
     "Gazastreifen - Rotes Kreuz: Herausforderungen für humanitäre Hilfe sind riesig",
     "Malaysia - Trump wird bei Unterzeichnung von Friedensabkommen zwischen Thailand und Kambodscha dabei sein",
     "Streit um Arbeitszeit - Streiks beeinträchtigen Verkehr und Touristen in Griechenland",
-    "Mobilfunknetz - Vodafone will Technik aus Südkorea für Modernisierung nutzen - Huawei-Komponenten werden ersetzt"
+    "Mobilfunknetz - Vodafone will Technik aus Südkorea für Modernisierung nutzen - Huawei-Komponenten werden ersetzt",
+    "Innsbruck - Prozess gegen Ex-Milliardär Benko begonnen",
+    "Debatte um Wehrdienst - Früherer Wehrbeauftragter Bartels: \"Wir müssen dazu kommen Personalbedarf zu decken\"",
+    "Wiege der Bundeswehr: „Guten Morgen, Soldaten!“"
   ],
   "hashes": [
-    "1fc70ac1aa8434316c5c967ab9335c6b",
-    "738c391cd25780a93b5cf204c18aa924",
-    "f485fa86c7c839d376514cdb0e2681f3",
     "7d72009494812d08cdeccf9d44560acd",
     "8c5b3c65d7e2874a57f232ec02afc252",
     "f4e714f8e41ebc97bdf77e6b4b6751eb",
@@ -4005,6 +4002,9 @@
     "183b329faba62adbe8433d34631e2204",
     "42f6d281da2628b230d7e7670fd19523",
     "300ec3c6a4b8f09cb406a22a6ba367da",
-    "337f8ff37ded1a48ea57ef4badac96e0"
+    "337f8ff37ded1a48ea57ef4badac96e0",
+    "387332e2aff31ca4c4a89489b68c73ca",
+    "7652c27a7b2c970ee777322cfea2cac6",
+    "03bc4502ee522b9c5c7ff7ac23026673"
   ]
 }
