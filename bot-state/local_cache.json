@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-fahrgaeste-in-bus-und-bahn-im-ersten-halbjahr-100.html",
-    "https://www.deutschlandfunk.de/db-regio-chefin-palla-rueckt-an-die-spitze-der-deutschen-bahn-tag-des-neuanfangs-100.html",
-    "https://www.deutschlandfunk.de/prozess-gegen-bisherigen-vizepraesident-im-suedsudan-begonnen-102.html",
     "https://www.deutschlandfunk.de/bas-betont-mitwirkungspflichten-von-arbeitslosen-beim-buergergeld-102.html",
     "https://www.aljazeera.com/gallery/2025/9/22/pro-palestinian-protests-strikes-and-port-blockades-held-across-italy?traffic_source=rss",
     "https://www.deutschlandfunk.de/zugverkehr-im-norden-stark-eingeschraenkt-beeintraechtigungen-auch-auf-pendler-strecke-koeln-duessel-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/vodafone-will-technik-aus-suedkorea-fuer-modernisierung-nutzen-huawei-komponenten-werden-ersetzt-100.html",
     "https://www.deutschlandfunk.de/prozess-gegen-ex-milliardaer-benko-begonnen-100.html",
     "https://www.deutschlandfunk.de/frueherer-wehrbeauftragter-bartels-wir-muessen-dazu-kommen-personalbedarf-zu-decken-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wo-die-geschichte-der-bundeswehr-ihren-anfang-nahm-accg-110726687.html"
+    "https://www.faz.net/aktuell/politik/inland/wo-die-geschichte-der-bundeswehr-ihren-anfang-nahm-accg-110726687.html",
+    "https://www.deutschlandfunk.de/junge-unionsabgeordnete-stellen-sich-offenbar-gegen-rentenplaene-von-cdu-csu-und-spd-blockade-im-bun-100.html",
+    "https://www.deutschlandfunk.de/rotes-kreuz-herausforderungen-fuer-humanitaere-hilfe-im-gazstreifen-sind-riesig-100.html",
+    "https://www.deutschlandfunk.de/google-plant-bau-eines-ki-rechenzentrums-in-indien-fuer-15-milliarden-dollar-100.html"
   ],
   "content_hashes": [
-    "b8ac3778d954fb65bc6b59e1f76e07f0",
-    "c23916ea8b3845423aeb21543017e040",
-    "77d065ee619aaa9a4a7e5db610a66b8f",
     "754bbd9a4e7db29cb08c97064362181c",
     "9275d361c7e56b4b5bebd19f9878f68a",
     "28ac5c5cc3a77cb4717fa49a604c6345",
@@ -2001,12 +1998,12 @@
     "73c85dced89ecf18723405419fb058b8",
     "1665f6f7004b2767ddbc59fc216a0f8e",
     "144ccb028c6f710416a2ff35c1612105",
-    "ecba8205be92c4086f58d8dd72e8613c"
+    "ecba8205be92c4086f58d8dd72e8613c",
+    "5a38d9fac03e62452956f6cebed4605e",
+    "4a7a855780444bbca6b75b36b36cacbd",
+    "4681829f78df85196b40dc666e09e96a"
   ],
   "titles": [
-    "Nahverkehr - Mehr Fahrgäste in Bus und Bahn im ersten Halbjahr",
-    "Neue Strategie - DB-Regio-Chefin Palla rückt an die Spitze der Deutschen Bahn - \"Tag des Neuanfangs\"",
-    "Afrika - Prozess gegen bisherigen Vizepräsident im Südsudan begonnen",
     "Sozialreformen - Bas betont \"Mitwirkungspflichten\" von Arbeitslosen beim Bürgergeld",
     "Pro-Palestinian protests, strikes and port blockades held across Italy",
     "Bahn - Zugverkehr im Norden stark eingeschränkt - Beeinträchtigungen auch auf Pendler-Strecke Köln-Düsseldorf",
@@ -3003,12 +3000,12 @@
     "Mobilfunknetz - Vodafone will Technik aus Südkorea für Modernisierung nutzen - Huawei-Komponenten werden ersetzt",
     "Innsbruck - Prozess gegen Ex-Milliardär Benko begonnen",
     "Debatte um Wehrdienst - Früherer Wehrbeauftragter Bartels: \"Wir müssen dazu kommen Personalbedarf zu decken\"",
-    "Wiege der Bundeswehr: „Guten Morgen, Soldaten!“"
+    "Wiege der Bundeswehr: „Guten Morgen, Soldaten!“",
+    "Koalition - Junge Unionsabgeordnete stellen sich offenbar gegen Rentenpläne von CDU/CSU und SPD - Blockade im Bundestag möglich",
+    "Naher Osten - Rotes Kreuz: Herausforderungen für humanitäre Hilfe im Gazstreifen sind riesig",
+    "Künstliche Intelligenz - Google plant Bau eines KI-Rechenzentrums in Indien für 15 Milliarden Dollar"
   ],
   "hashes": [
-    "7d72009494812d08cdeccf9d44560acd",
-    "8c5b3c65d7e2874a57f232ec02afc252",
-    "f4e714f8e41ebc97bdf77e6b4b6751eb",
     "5ac9c1e7bc0cf487197950e1a28ba5af",
     "f48cfcc0b7202109eb825ba7ebb445c1",
     "e4e7c8459abd4edb3fb792acdcdbedc3",
@@ -4005,6 +4002,9 @@
     "337f8ff37ded1a48ea57ef4badac96e0",
     "387332e2aff31ca4c4a89489b68c73ca",
     "7652c27a7b2c970ee777322cfea2cac6",
-    "03bc4502ee522b9c5c7ff7ac23026673"
+    "03bc4502ee522b9c5c7ff7ac23026673",
+    "e2e34a0c7fb2eb27a5ba0784ebfebe04",
+    "86e16e227b2d1ee9e0108b8ff7543365",
+    "42046a3cd8ba5c0ce56ff558db8a6545"
   ]
 }
