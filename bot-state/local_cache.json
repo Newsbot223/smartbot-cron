@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-verlangt-auskunft-von-tech-unternehmen-zu-betrug-auf-plattformen-100.html",
     "https://www.deutschlandfunk.de/oecd-senkt-wachstumsprognose-fuer-deutschland-100.html",
     "https://www.deutschlandfunk.de/drohnen-am-flughafen-von-kopenhagen-daenemarks-ministerpraesidentin-frederiksen-spricht-vom-bislang--100.html",
     "https://www.spiegel.de/ausland/donald-trump-kritisiert-uno-bei-generaldebatte-scharf-a-4eb8fdf0-efa2-45f1-bed1-8c5735dd46c4#ref=rss",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-ausbeutung-der-literatur-durch-tech-konzerne-104.html",
     "https://www.deutschlandfunk.de/interview-mit-mirjana-spoljaric-egger-ikrk-praesidentin-zu-gazahilfe-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-warum-kiew-das-vertrauen-in-die-usa-verliert-110728638.html",
-    "https://www.deutschlandfunk.de/was-mit-der-aktivrente-geplant-ist-und-welche-kritik-es-daran-gibt-100.html"
+    "https://www.deutschlandfunk.de/was-mit-der-aktivrente-geplant-ist-und-welche-kritik-es-daran-gibt-100.html",
+    "https://www.deutschlandfunk.de/kabinett-billigt-sparpaket-um-krankenkassenbeitraege-stabil-zu-halten-100.html"
   ],
   "content_hashes": [
-    "f940a54669ce5fb075915b2e2a043389",
     "c999714a7d8a2ec58073814a06a7bcd2",
     "96a879f01df36dd751614b3cab90d111",
     "4318cf26ae096dcb3bc7e0b942b284bf",
@@ -2001,10 +2000,10 @@
     "c105e5babe23b3d52bbc6bb7bfe8fa45",
     "cc05d27f0b183131ee4ac35f72601893",
     "29104afac134c94ca06e5fd05d3f1ec2",
-    "27470c2f28705d9bbcbdd8dd4deb9649"
+    "27470c2f28705d9bbcbdd8dd4deb9649",
+    "30fd79c9a710a510dc4356cde6160d92"
   ],
   "titles": [
-    "Apple, Google, Microsoft, booking.com - EU-Kommission verlangt Auskunft von Tech-Unternehmen zu Betrug auf Plattformen",
     "Wirtschaft - OECD senkt Wachstumsprognose für Deutschland",
     "Vorfall - Drohnen am Flughafen von Kopenhagen: Dänemarks Ministerpräsidentin Frederiksen spricht vom \"bislang schwersten Anschlag auf kritische Infrastruktur\"",
     "Donald Trump kritisiert Uno bei Generaldebatte scharf",
@@ -3003,10 +3002,10 @@
     "Frankfurter Buchmesse - Kulturstaatsminister Weimer warnt vor Ausbeutung der Literatur durch Tech-Konzerne",
     "Gaza-Hilfe - Rotes Kreuz mahnt Einhaltung des humanitären Völkerrechts an",
     "Vierter Kriegswinter: Die Ukraine glaubt nicht mehr an Trump",
-    "Beschluss des Bundeskabinetts - Was mit der \"Aktivrente\" geplant ist - und welche Kritik es daran gibt"
+    "Beschluss des Bundeskabinetts - Was mit der \"Aktivrente\" geplant ist - und welche Kritik es daran gibt",
+    "Gesundheit - Kabinett billigt Sparpaket, um Krankenkassenbeiträge stabil zu halten"
   ],
   "hashes": [
-    "0c98b38b920ef1dc4a9e996f11800e27",
     "2079d097949b113f2792d248b096c9c4",
     "e127be39b8ae6cdf705f51f7cda4c3e5",
     "b575e35ff6a90f10a1ca68fb2d62ecfe",
@@ -4005,6 +4004,7 @@
     "779965813b490520fd9b41b76576f1e0",
     "43c5d4a4fdd5e658efc48fa8eb202147",
     "7374b49bb1ea0712640747eb2df681bd",
-    "b2c86c003f95492e026ca3d5cd715a9d"
+    "b2c86c003f95492e026ca3d5cd715a9d",
+    "e42f9c08a6050ad682f5192f56e4f766"
   ]
 }
