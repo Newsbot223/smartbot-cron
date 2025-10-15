@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spanisches-waffenembargo-gegen-israel-tritt-in-kraft-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-verlangt-auskunft-von-tech-unternehmen-zu-betrug-auf-plattformen-100.html",
     "https://www.deutschlandfunk.de/oecd-senkt-wachstumsprognose-fuer-deutschland-100.html",
     "https://www.deutschlandfunk.de/drohnen-am-flughafen-von-kopenhagen-daenemarks-ministerpraesidentin-frederiksen-spricht-vom-bislang--100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/erneut-gefechte-zwischen-afghanischen-und-pakistanischen-truppen-102.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-ausbeutung-der-literatur-durch-tech-konzerne-104.html",
     "https://www.deutschlandfunk.de/interview-mit-mirjana-spoljaric-egger-ikrk-praesidentin-zu-gazahilfe-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-warum-kiew-das-vertrauen-in-die-usa-verliert-110728638.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-warum-kiew-das-vertrauen-in-die-usa-verliert-110728638.html",
+    "https://www.deutschlandfunk.de/was-mit-der-aktivrente-geplant-ist-und-welche-kritik-es-daran-gibt-100.html"
   ],
   "content_hashes": [
-    "0a3190d3d77d480793c934357294f7e7",
     "f940a54669ce5fb075915b2e2a043389",
     "c999714a7d8a2ec58073814a06a7bcd2",
     "96a879f01df36dd751614b3cab90d111",
@@ -2001,10 +2000,10 @@
     "0846e641ec278fa00ef9341a3dbaf8b9",
     "c105e5babe23b3d52bbc6bb7bfe8fa45",
     "cc05d27f0b183131ee4ac35f72601893",
-    "29104afac134c94ca06e5fd05d3f1ec2"
+    "29104afac134c94ca06e5fd05d3f1ec2",
+    "27470c2f28705d9bbcbdd8dd4deb9649"
   ],
   "titles": [
-    "Gaza-Konflikt - Spanisches Waffenembargo gegen Israel tritt in Kraft",
     "Apple, Google, Microsoft, booking.com - EU-Kommission verlangt Auskunft von Tech-Unternehmen zu Betrug auf Plattformen",
     "Wirtschaft - OECD senkt Wachstumsprognose für Deutschland",
     "Vorfall - Drohnen am Flughafen von Kopenhagen: Dänemarks Ministerpräsidentin Frederiksen spricht vom \"bislang schwersten Anschlag auf kritische Infrastruktur\"",
@@ -3003,10 +3002,10 @@
     "Konflikt - Erneut Gefechte zwischen afghanischen und pakistanischen Truppen",
     "Frankfurter Buchmesse - Kulturstaatsminister Weimer warnt vor Ausbeutung der Literatur durch Tech-Konzerne",
     "Gaza-Hilfe - Rotes Kreuz mahnt Einhaltung des humanitären Völkerrechts an",
-    "Vierter Kriegswinter: Die Ukraine glaubt nicht mehr an Trump"
+    "Vierter Kriegswinter: Die Ukraine glaubt nicht mehr an Trump",
+    "Beschluss des Bundeskabinetts - Was mit der \"Aktivrente\" geplant ist - und welche Kritik es daran gibt"
   ],
   "hashes": [
-    "ef19cb807668a2460c62ac7989496666",
     "0c98b38b920ef1dc4a9e996f11800e27",
     "2079d097949b113f2792d248b096c9c4",
     "e127be39b8ae6cdf705f51f7cda4c3e5",
@@ -4005,6 +4004,7 @@
     "7d99bf95de4b9dd74316f7c1f59050c6",
     "779965813b490520fd9b41b76576f1e0",
     "43c5d4a4fdd5e658efc48fa8eb202147",
-    "7374b49bb1ea0712640747eb2df681bd"
+    "7374b49bb1ea0712640747eb2df681bd",
+    "b2c86c003f95492e026ca3d5cd715a9d"
   ]
 }
