@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutsch-franzoesisches-kampfflugzeug-kommt-nicht-voran-110699782.html",
     "https://www.deutschlandfunk.de/haushalt-2026-zweite-generaldebatte-innerhalb-von-nur-einer-woche-100.html",
     "https://www.deutschlandfunk.de/spd-chef-klingbeil-plaediert-fuer-gerechtigkeit-bei-sparmassnahmen-102.html",
     "https://www.deutschlandfunk.de/belgisches-abgeordnetenhaus-gibt-gemaelde-von-friedrich-nerly-nach-berlin-zurueck-106.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/daenemark-verlaengert-passkontrollen-102.html",
     "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-raum-hamburg-und-koeln-100.html",
     "https://www.deutschlandfunk.de/oberstes-gericht-in-italien-stoppt-auslieferung-von-ukrainischem-hauptverdaechtigen-nach-deutschland-100.html",
-    "https://www.deutschlandfunk.de/juristische-niederlage-fuer-rechtspopulistin-le-pen-kandidaturverbot-bleibt-102.html"
+    "https://www.deutschlandfunk.de/juristische-niederlage-fuer-rechtspopulistin-le-pen-kandidaturverbot-bleibt-102.html",
+    "https://www.deutschlandfunk.de/zusatzbeitraege-fuer-krankenkassen-bleiben-laut-schaetzerkreis-stabil-102.html"
   ],
   "content_hashes": [
-    "c0a6fc5fecee59f1284ee6a214570251",
     "29fc754d402b8a8689d719350c3ba9ec",
     "99107bf4220a1c7d20a443e176e9aca5",
     "9ac313cebaead096aaea4e651129cfa7",
@@ -2001,10 +2000,10 @@
     "2859d193b49cfbf531e13f307ef35365",
     "4b3bbc3f271285e8c2926e09618d0f90",
     "d67daf4fa1d4477b705bf39666104eb7",
-    "85c225ca5517bbd34ffc3e5f1d84f36a"
+    "85c225ca5517bbd34ffc3e5f1d84f36a",
+    "ff9ded16b4c3ac9a698454283e64787a"
   ],
   "titles": [
-    "Rüstungszusammenarbeit: Deutsch-französisches Kampfflugzeug kommt nicht voran",
     "Bundestag - Haushalt 2026: Zweite Generaldebatte innerhalb von nur einer Woche",
     "Berlin - SPD-Chef Klingbeil plädiert für Gerechtigkeit bei Sparmaßnahmen",
     "Stiftung Preußischer Kulturbesitz - Belgisches Abgeordnetenhaus gibt Gemälde von Friedrich Nerly nach Berlin zurück",
@@ -3003,10 +3002,10 @@
     "Grenze - Dänemark verlängert Passkontrollen",
     "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Raum Hamburg und Köln",
     "Nord-Stream-Anschläge - Oberstes Gericht in Italien stoppt Auslieferung von ukrainischem Hauptverdächtigen nach Deutschland",
-    "Frankreich - Juristische Niederlage für Rechtspopulistin Le Pen: Kandidaturverbot bleibt"
+    "Frankreich - Juristische Niederlage für Rechtspopulistin Le Pen: Kandidaturverbot bleibt",
+    "Kosten im Gesundheitswesen - Zusatzbeiträge für Krankenkassen bleiben laut Schätzerkreis stabil"
   ],
   "hashes": [
-    "a31034e2333b7abdbce9f3c7f36587bb",
     "6ae1255d28f4c140a6b26d9703bddc69",
     "afb8faf9f87345eb34e85351c7864741",
     "be327da076aab52f213973f9f0541a4a",
@@ -4005,6 +4004,7 @@
     "722cb61ac6d103b56efe469c5fda325f",
     "f20378ec84e3a367c36681699ec36f7a",
     "e34440fcf91b370833571a5e0ff312dd",
-    "ad88b12c154ad976cf7d741c522b0fae"
+    "ad88b12c154ad976cf7d741c522b0fae",
+    "499b6ce341ed8ffede02d60fb89c0c94"
   ]
 }
