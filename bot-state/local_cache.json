@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/haushalt-2026-zweite-generaldebatte-innerhalb-von-nur-einer-woche-100.html",
-    "https://www.deutschlandfunk.de/spd-chef-klingbeil-plaediert-fuer-gerechtigkeit-bei-sparmassnahmen-102.html",
-    "https://www.deutschlandfunk.de/belgisches-abgeordnetenhaus-gibt-gemaelde-von-friedrich-nerly-nach-berlin-zurueck-106.html",
     "https://www.deutschlandfunk.de/berlin-paris-und-london-fordern-rasches-einlenken-von-iran-frist-fuer-wiedereinfuehrung-von-uno-sank-100.html",
     "https://www.deutschlandfunk.de/14-todesopfer-und-ueber-120-vermisste-in-taiwan-102.html",
     "https://www.deutschlandfunk.de/zweite-generaldebatte-innerhalb-einer-woche-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-raum-hamburg-und-koeln-100.html",
     "https://www.deutschlandfunk.de/oberstes-gericht-in-italien-stoppt-auslieferung-von-ukrainischem-hauptverdaechtigen-nach-deutschland-100.html",
     "https://www.deutschlandfunk.de/juristische-niederlage-fuer-rechtspopulistin-le-pen-kandidaturverbot-bleibt-102.html",
-    "https://www.deutschlandfunk.de/zusatzbeitraege-fuer-krankenkassen-bleiben-laut-schaetzerkreis-stabil-102.html"
+    "https://www.deutschlandfunk.de/zusatzbeitraege-fuer-krankenkassen-bleiben-laut-schaetzerkreis-stabil-102.html",
+    "https://www.deutschlandfunk.de/chatgpt-soll-kuenftig-auch-erotik-inhalte-fuer-erwachsene-zeigen-100.html",
+    "https://www.deutschlandfunk.de/ukraine-schraenkt-stromversorgung-nach-russischen-angriffen-erneut-massiv-ein-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/wehrdienst-vorbild-daenemark-mit-los-aber-noch-ohne-zwang-110733098.html"
   ],
   "content_hashes": [
-    "29fc754d402b8a8689d719350c3ba9ec",
-    "99107bf4220a1c7d20a443e176e9aca5",
-    "9ac313cebaead096aaea4e651129cfa7",
     "4c18deca18a5f7b7773e16f1d278f9b4",
     "4fedb9af26ac2a63f29a6f0c2a1e52d5",
     "e10c515775a26a16df472faeb6a34adf",
@@ -2001,12 +1998,12 @@
     "4b3bbc3f271285e8c2926e09618d0f90",
     "d67daf4fa1d4477b705bf39666104eb7",
     "85c225ca5517bbd34ffc3e5f1d84f36a",
-    "ff9ded16b4c3ac9a698454283e64787a"
+    "ff9ded16b4c3ac9a698454283e64787a",
+    "7abf0eb464a99bbbbe4def8a6bc63b87",
+    "e2c51903f7c3a16f16d436c722780eaa",
+    "1896df1c381b992d9f1b1c230f939fc6"
   ],
   "titles": [
-    "Bundestag - Haushalt 2026: Zweite Generaldebatte innerhalb von nur einer Woche",
-    "Berlin - SPD-Chef Klingbeil plädiert für Gerechtigkeit bei Sparmaßnahmen",
-    "Stiftung Preußischer Kulturbesitz - Belgisches Abgeordnetenhaus gibt Gemälde von Friedrich Nerly nach Berlin zurück",
     "Atom-Konflikt - Berlin, Paris und London fordern rasches Einlenken von Iran - Frist für Wiedereinführung von UNO-Sanktionen läuft bald ab",
     "Taifun \"Ragasa\" - 14 Todesopfer und über 120 Vermisste in Taiwan",
     "Bundestag - Zweite Generaldebatte innerhalb einer Woche",
@@ -3003,12 +3000,12 @@
     "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Raum Hamburg und Köln",
     "Nord-Stream-Anschläge - Oberstes Gericht in Italien stoppt Auslieferung von ukrainischem Hauptverdächtigen nach Deutschland",
     "Frankreich - Juristische Niederlage für Rechtspopulistin Le Pen: Kandidaturverbot bleibt",
-    "Kosten im Gesundheitswesen - Zusatzbeiträge für Krankenkassen bleiben laut Schätzerkreis stabil"
+    "Kosten im Gesundheitswesen - Zusatzbeiträge für Krankenkassen bleiben laut Schätzerkreis stabil",
+    "Künstliche Intelligenz - ChatGPT soll künftig auch Erotik-Inhalte für Erwachsene zeigen",
+    "Luftangriffe - Ukraine schränkt Stromversorgung nach russischen Angriffen erneut massiv ein",
+    "Wehrdienst in Dänemark: Mit Los, aber noch ohne Zwang"
   ],
   "hashes": [
-    "6ae1255d28f4c140a6b26d9703bddc69",
-    "afb8faf9f87345eb34e85351c7864741",
-    "be327da076aab52f213973f9f0541a4a",
     "1bf965e2b7cd45ad954029b27a10f19a",
     "a985be330c5d4638dd83e4ecd7cb0b23",
     "9cd506478a4c0a102f2b24924f506dfa",
@@ -4005,6 +4002,9 @@
     "f20378ec84e3a367c36681699ec36f7a",
     "e34440fcf91b370833571a5e0ff312dd",
     "ad88b12c154ad976cf7d741c522b0fae",
-    "499b6ce341ed8ffede02d60fb89c0c94"
+    "499b6ce341ed8ffede02d60fb89c0c94",
+    "05bf9f0f9bf2989ade846532bfdb1949",
+    "aec8e9da2f912399ac13bcd0c44df6e8",
+    "187fc29690f4b9a3bea6ecd805af39af"
   ]
 }
