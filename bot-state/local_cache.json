@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/russische-luftraumverletzungen-die-nato-sollte-besonnen-bleiben-110699705.html",
     "https://www.deutschlandfunk.de/tuerkischer-praesident-erdogan-fordert-anerkennung-palaestinas-durch-weitere-staaten-und-erhebt-geno-100.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-sparen-und-zur-not-schulden-machen-110699835.html",
     "https://www.deutschlandfunk.de/polen-oeffnet-grenze-zu-belarus-wieder-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-100.html",
     "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-grossraum-koeln-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-toetung-von-palaestinensern-durch-die-hamas-102.html",
-    "https://www.deutschlandfunk.de/sparpaket-fuer-stabile-kassenbeitraege-im-kabinett-100.html"
+    "https://www.deutschlandfunk.de/sparpaket-fuer-stabile-kassenbeitraege-im-kabinett-100.html",
+    "https://www.deutschlandfunk.de/daenemark-verlaengert-passkontrollen-102.html"
   ],
   "content_hashes": [
-    "c3ea565b2d16d37157d09a923e7dc10b",
     "71d8ca15151ff1b89575dbb4f66c1d54",
     "3fb992ea1b72e97739b5cdf79720cdb5",
     "986542ed0ca2e2e1f8811317f5412a3d",
@@ -2001,10 +2000,10 @@
     "7b7f316f69261abcaee2844875d44754",
     "4e54a9a25bf59126b12a0be4e5a9b00d",
     "16a91be81128e64a3f9256052384cdd5",
-    "e013de29ea9c847fc5c45c1b4a7b0ce2"
+    "e013de29ea9c847fc5c45c1b4a7b0ce2",
+    "2859d193b49cfbf531e13f307ef35365"
   ],
   "titles": [
-    "Luftraumverletzungen: Die NATO sollte besonnen bleiben",
     "UNO-Generaldebatte - Türkischer Präsident Erdogan fordert Anerkennung Palästinas durch weitere Staaten - und erhebt \"Genozid\"-Vorwurf gegen Israel",
     "Klausur der CSU-Fraktion: Warum jetzt sogar Bayern sparen muss",
     "Nach Militärmanöver Sapad-2025 - Polen öffnet Grenze zu Belarus wieder",
@@ -3003,10 +3002,10 @@
     "Innsbruck - Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
     "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Großraum Köln",
     "Gazastreifen - Bundesregierung verurteilt Tötung von Palästinensern durch die Hamas",
-    "Bundesregierung - Sparpaket für stabile Kassenbeiträge beschlossen"
+    "Bundesregierung - Sparpaket für stabile Kassenbeiträge beschlossen",
+    "Grenze - Dänemark verlängert Passkontrollen"
   ],
   "hashes": [
-    "409cdbf5c4b78adc7ee129408303c03f",
     "d669176d0b121b6c3328c14a4a0c881b",
     "fa9bce1778dc1cadedcd5d6ec63bddf3",
     "cf73496a875382f3e14e77d5b47a6a17",
@@ -4005,6 +4004,7 @@
     "6d5de89daff17d18ed054a802945eeee",
     "a49b71eb23a30057d0e42fe51ee86014",
     "4fe6b0fddd1daa926045204cf6ed6ff1",
-    "fe90e9cadee3cd5b513a6204559c765a"
+    "fe90e9cadee3cd5b513a6204559c765a",
+    "722cb61ac6d103b56efe469c5fda325f"
   ]
 }
