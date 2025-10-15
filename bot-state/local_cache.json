@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-auf-dem-weg-nach-deutschland-100.html",
-    "https://www.spiegel.de/wirtschaft/airbus-gegen-dassault-europaeisches-kampfjet-projekt-droht-zu-scheitern-a-22770768-97b3-40c7-959a-0c5898c59e3d#ref=rss",
-    "https://www.deutschlandfunk.de/linken-abgeordneter-bartsch-kritisiert-geplante-ausgaben-fuer-verteidigung-102.html",
-    "https://www.deutschlandfunk.de/gruenen-politiker-von-notz-fordert-einheitliche-richtlinien-fuer-unternehmen-100.html",
     "https://www.deutschlandfunk.de/trump-droht-abc-wegen-kimmel-rueckkehr-100.html",
     "https://www.deutschlandfunk.de/russland-meldet-massiven-ukrainischen-drohnenangriff-110.html",
     "https://www.deutschlandfunk.de/normalbetrieb-am-flughafen-ber-noch-nicht-absehbar-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/afd-chefin-weidel-erwartet-absehbar-kooperationen-mit-cdu-und-csu-die-union-wird-sich-uns-nicht-mehr-100.html",
     "https://www.deutschlandfunk.de/us-kommando-fordert-von-hamas-ende-der-erschiessungen-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/alabali-radovan-kuendigt-200-millionen-euro-soforthilfe-fuer-den-gaza-streifen-an-100.html",
-    "https://www.deutschlandfunk.de/afrikanische-union-suspendiert-madagaskar-104.html"
+    "https://www.deutschlandfunk.de/afrikanische-union-suspendiert-madagaskar-104.html",
+    "https://www.deutschlandfunk.de/us-gericht-stoppt-trumps-massenentlassungen-im-shutdown-100.html",
+    "https://www.deutschlandfunk.de/hamas-gibt-zwei-weitere-tote-geiseln-an-israel-zurueck-104.html",
+    "https://www.deutschlandfunk.de/hunderte-haeftlinge-protestieren-mit-hungerstreik-gegen-steigende-zahl-von-hinrichtungen-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-auf-beiden-seiten-100.html"
   ],
   "content_hashes": [
-    "11d36c1b766663f42ae28898de7a1217",
-    "80ee0e05976bff275493d1d470a422eb",
-    "0d1835b1999ac61fcd724ade4b77dcb6",
-    "426ab48cc432ced9a2b7e4b61ac83366",
     "28f61b219a93e7649ada650a3bd7b5e5",
     "65d2d798c7270703f829a2705129ad15",
     "9437580142681a5f66b2a233bcaf57b7",
@@ -2001,13 +1997,13 @@
     "d1d13dc759eb140872820ac4e23318d2",
     "e223b6be4684eb732144ace966c1c08e",
     "4d1dfeb941c010501b79ce7b209ddfe8",
-    "19be59934ccccaa3855970b2148a9083"
+    "19be59934ccccaa3855970b2148a9083",
+    "e6f7de3b82868e1a3ea085bbc8a41025",
+    "027030bbd8c0470c9abea9ce7d73db79",
+    "0c6d993f43b4b8dd71179fd1ce176964",
+    "1c6e8dc12d48a8086e46bab1a43c0ad9"
   ],
   "titles": [
-    "Gefährdete Personen - Weitere Afghanen mit Aufnahmezusage auf dem Weg nach Deutschland",
-    "Airbus gegen Dassault: Europäisches Kampfjet-Projekt droht zu scheitern",
-    "Haushalt - Linken-Abgeordneter Bartsch kritisiert geplante Ausgaben für Verteidigung",
-    "Schutz vor Cyberattacken - Grünen-Politiker von Notz fordert einheitliche Richtlinien für Unternehmen",
     "Kontroverse um Late-Night-Show - Trump droht ABC wegen Kimmel-Rückkehr",
     "Ukraine-Krieg - Russland meldet massiven ukrainischen Drohnenangriff",
     "Nach Hackerangriff - Normalbetrieb am Flughafen BER noch nicht absehbar",
@@ -3003,13 +2999,13 @@
     "Konservatismus - AfD-Chefin Weidel erwartet absehbar Kooperationen mit CDU und CSU: \"Die Union wird sich uns nicht mehr verweigern können\"",
     "Nahost - US-Kommando fordert von Hamas Ende der Erschießungen im Gazastreifen",
     "Gaza-Krieg - Alabali Radovan kündigt 200 Millionen Euro Soforthilfe für den Gaza-Streifen an",
-    "Nach Machtübernahme durch Militär - Afrikanische Union suspendiert Madagaskar"
+    "Nach Machtübernahme durch Militär - Afrikanische Union suspendiert Madagaskar",
+    "Haushaltssperre - US-Gericht stoppt Trumps Massenentlassungen im Shutdown",
+    "Waffenruheabkommen - Hamas gibt zwei weitere tote Geiseln an Israel zurück",
+    "Iran - Hunderte Häftlinge protestieren mit Hungerstreik gegen steigende Zahl von Hinrichtungen",
+    "Russischer Angriffskrieg - Tote und Verletzte auf beiden Seiten"
   ],
   "hashes": [
-    "6b64001d5b7e7b0cf7de1f49ea3a1006",
-    "1c0ecc63d062f995185710c283514dc5",
-    "03b0bcc9ffa014ce889d0c77ac21c552",
-    "f97b963165537b5162a789a34c853f38",
     "255636dc69d04462fab37a2c82ae3a94",
     "0f900a4ef0540bcc247b797e15247151",
     "b46052e9fe8c3c539da55840792c94bd",
@@ -4005,6 +4001,10 @@
     "75ae37855fbc01639deee7f016ec3c7b",
     "1e2244409b22f0ed1c8ca2ee578ff47b",
     "afeee5a2b70cca9539fd05bd0cd6541d",
-    "f7c173444faf8423edb004457a2a1470"
+    "f7c173444faf8423edb004457a2a1470",
+    "c9caf5bb26cc7cc9b8b838299fb0c991",
+    "797ddd7e799cbb9466ceac9b4605cb8e",
+    "716e54540898038c66edb6f5a8b508cd",
+    "468fb20ada21815fcdbffe86be3f896b"
   ]
 }
