@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tuerkischer-praesident-erdogan-fordert-anerkennung-palaestinas-durch-weitere-staaten-und-erhebt-geno-100.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-sparen-und-zur-not-schulden-machen-110699835.html",
     "https://www.deutschlandfunk.de/polen-oeffnet-grenze-zu-belarus-wieder-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutsch-franzoesisches-kampfflugzeug-kommt-nicht-voran-110699782.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-grossraum-koeln-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-toetung-von-palaestinensern-durch-die-hamas-102.html",
     "https://www.deutschlandfunk.de/sparpaket-fuer-stabile-kassenbeitraege-im-kabinett-100.html",
-    "https://www.deutschlandfunk.de/daenemark-verlaengert-passkontrollen-102.html"
+    "https://www.deutschlandfunk.de/daenemark-verlaengert-passkontrollen-102.html",
+    "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-raum-hamburg-und-koeln-100.html"
   ],
   "content_hashes": [
-    "71d8ca15151ff1b89575dbb4f66c1d54",
     "3fb992ea1b72e97739b5cdf79720cdb5",
     "986542ed0ca2e2e1f8811317f5412a3d",
     "c0a6fc5fecee59f1284ee6a214570251",
@@ -2001,10 +2000,10 @@
     "4e54a9a25bf59126b12a0be4e5a9b00d",
     "16a91be81128e64a3f9256052384cdd5",
     "e013de29ea9c847fc5c45c1b4a7b0ce2",
-    "2859d193b49cfbf531e13f307ef35365"
+    "2859d193b49cfbf531e13f307ef35365",
+    "4b3bbc3f271285e8c2926e09618d0f90"
   ],
   "titles": [
-    "UNO-Generaldebatte - Türkischer Präsident Erdogan fordert Anerkennung Palästinas durch weitere Staaten - und erhebt \"Genozid\"-Vorwurf gegen Israel",
     "Klausur der CSU-Fraktion: Warum jetzt sogar Bayern sparen muss",
     "Nach Militärmanöver Sapad-2025 - Polen öffnet Grenze zu Belarus wieder",
     "Rüstungszusammenarbeit: Deutsch-französisches Kampfflugzeug kommt nicht voran",
@@ -3003,10 +3002,10 @@
     "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Großraum Köln",
     "Gazastreifen - Bundesregierung verurteilt Tötung von Palästinensern durch die Hamas",
     "Bundesregierung - Sparpaket für stabile Kassenbeiträge beschlossen",
-    "Grenze - Dänemark verlängert Passkontrollen"
+    "Grenze - Dänemark verlängert Passkontrollen",
+    "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Raum Hamburg und Köln"
   ],
   "hashes": [
-    "d669176d0b121b6c3328c14a4a0c881b",
     "fa9bce1778dc1cadedcd5d6ec63bddf3",
     "cf73496a875382f3e14e77d5b47a6a17",
     "a31034e2333b7abdbce9f3c7f36587bb",
@@ -4005,6 +4004,7 @@
     "a49b71eb23a30057d0e42fe51ee86014",
     "4fe6b0fddd1daa926045204cf6ed6ff1",
     "fe90e9cadee3cd5b513a6204559c765a",
-    "722cb61ac6d103b56efe469c5fda325f"
+    "722cb61ac6d103b56efe469c5fda325f",
+    "f20378ec84e3a367c36681699ec36f7a"
   ]
 }
