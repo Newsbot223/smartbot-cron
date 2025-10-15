@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-meldet-massiven-ukrainischen-drohnenangriff-110.html",
-    "https://www.deutschlandfunk.de/normalbetrieb-am-flughafen-ber-noch-nicht-absehbar-100.html",
     "https://www.deutschlandfunk.de/vorlaeufiges-ergebnis-mehrheit-in-guinea-stimmt-fuer-neue-verfassung-100.html",
     "https://www.deutschlandfunk.de/schutz-kritischer-infrastruktur-interview-mit-konstantin-von-notz-b-90-gruene-102.html",
     "https://www.faz.net/aktuell/politik/ausland/krise-der-sozialdemokraten-was-die-spd-im-norden-lernen-koennte-110699689.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hamas-gibt-zwei-weitere-tote-geiseln-an-israel-zurueck-104.html",
     "https://www.deutschlandfunk.de/hunderte-haeftlinge-protestieren-mit-hungerstreik-gegen-steigende-zahl-von-hinrichtungen-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-auf-beiden-seiten-100.html",
-    "https://www.deutschlandfunk.de/ex-unternehmer-benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-104.html"
+    "https://www.deutschlandfunk.de/ex-unternehmer-benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-104.html",
+    "https://www.deutschlandfunk.de/indien-will-laut-trump-kein-oel-mehr-in-russland-kaufen-102.html",
+    "https://www.deutschlandfunk.de/auch-heute-noch-stoerungen-des-zugverkehrs-im-raum-hamburg-100.html"
   ],
   "content_hashes": [
-    "65d2d798c7270703f829a2705129ad15",
-    "9437580142681a5f66b2a233bcaf57b7",
     "bba2c319425a5976c52131882571bb1e",
     "919a2f54a8aad8be7992c6e088e315fe",
     "84a20390615a487c591379d772cf7de0",
@@ -2001,11 +1999,11 @@
     "027030bbd8c0470c9abea9ce7d73db79",
     "0c6d993f43b4b8dd71179fd1ce176964",
     "1c6e8dc12d48a8086e46bab1a43c0ad9",
-    "840d666e1c06151a623fde9ee8b59434"
+    "840d666e1c06151a623fde9ee8b59434",
+    "4d89a948b162c0127ae4bc6c05dbde7b",
+    "ebcfcf60a3aa8b528124a86a23d97a3d"
   ],
   "titles": [
-    "Ukraine-Krieg - Russland meldet massiven ukrainischen Drohnenangriff",
-    "Nach Hackerangriff - Normalbetrieb am Flughafen BER noch nicht absehbar",
     "Referendum - Vorläufiges Ergebnis: Mehrheit in Guinea stimmt für neue Verfassung",
     "Kritische Infrastruktur - Von Notz (Grüne) fordert Schutz vor hybriden Angriffen",
     "Krise der Sozialdemokraten: Von wem die SPD etwas lernen könnte",
@@ -3003,11 +3001,11 @@
     "Waffenruheabkommen - Hamas gibt zwei weitere tote Geiseln an Israel zurück",
     "Iran - Hunderte Häftlinge protestieren mit Hungerstreik gegen steigende Zahl von Hinrichtungen",
     "Russischer Angriffskrieg - Tote und Verletzte auf beiden Seiten",
-    "Innsbruck - Ex-Unternehmer Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt"
+    "Innsbruck - Ex-Unternehmer Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
+    "Russland-Sanktionen - Indien will laut Trump kein Öl mehr in Russland kaufen",
+    "Deutsche Bahn - Auch heute noch Störungen des Zugverkehrs im Raum Hamburg"
   ],
   "hashes": [
-    "0f900a4ef0540bcc247b797e15247151",
-    "b46052e9fe8c3c539da55840792c94bd",
     "af6391dcae76f13c74feee192dd4e355",
     "020bd451a2b8db56b5a34d36d2967b20",
     "b6be845458feb343af6518131d8cfdac",
@@ -4005,6 +4003,8 @@
     "797ddd7e799cbb9466ceac9b4605cb8e",
     "716e54540898038c66edb6f5a8b508cd",
     "468fb20ada21815fcdbffe86be3f896b",
-    "13d64abc19c9718eca2fdb31b78b194d"
+    "13d64abc19c9718eca2fdb31b78b194d",
+    "21d8264a8eedfa3821dad1fc76016ea1",
+    "47bde6676ceabb4fe4ea1e319c78fdb7"
   ]
 }
