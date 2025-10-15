@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/60-wehrmachtssoldaten-in-lietzen-eingebettet-100.html",
-    "https://www.deutschlandfunk.de/trump-warnt-vor-impfungen-und-paracetamol-who-und-eu-arzneimittelbehoerde-weisen-darstellung-zurueck-102.html",
     "https://www.deutschlandfunk.de/flughafen-hongkong-streicht-hunderte-fluege-wegen-taifun-ragasa-100.html",
     "https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-kritisiert-ausladung-von-michel-friedman-100.html",
     "https://www.deutschlandfunk.de/spanisches-waffenembargo-gegen-israel-tritt-in-kraft-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/rente-und-junge-gruppe-in-der-union-lauch-statt-eiche-110731640.html",
     "https://www.deutschlandfunk.de/medienunternehmen-lehnen-beschraenkungen-des-pentagon-fuer-journalisten-ab-102.html",
     "https://www.deutschlandfunk.de/warken-cdu-verspricht-stabile-beitraege-102.html",
-    "https://www.deutschlandfunk.de/hamas-veroeffentlicht-video-von-oeffentlicher-hinrichtung-von-acht-kollaborateuren-102.html"
+    "https://www.deutschlandfunk.de/hamas-veroeffentlicht-video-von-oeffentlicher-hinrichtung-von-acht-kollaborateuren-102.html",
+    "https://www.deutschlandfunk.de/erneut-gefechte-zwischen-afghanischen-und-pakistanischen-truppen-102.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-warnt-vor-ausbeutung-der-literatur-durch-tech-konzerne-104.html"
   ],
   "content_hashes": [
-    "71d5a8f64b52a074e99adeeb3e5390ff",
-    "2581c270662669d30c3d1021e9d33fc0",
     "de576770fac236c722ae9c347fd7aeed",
     "de00f369955f184abcc63a68b84767e3",
     "0a3190d3d77d480793c934357294f7e7",
@@ -2001,11 +1999,11 @@
     "9ef5c6fe47951d694e3ebd61cae2fd85",
     "265e80752c21db20f8d42ad34a161500",
     "f485c782ad2f727ac6766ad4177aa98e",
-    "946ed5fe35a5848fe94906612b1b95a9"
+    "946ed5fe35a5848fe94906612b1b95a9",
+    "0846e641ec278fa00ef9341a3dbaf8b9",
+    "c105e5babe23b3d52bbc6bb7bfe8fa45"
   ],
   "titles": [
-    "Brandenburg - 60 Wehrmachtssoldaten in Lietzen eingebettet",
-    "Autismus - Trump warnt vor Impfungen und Paracetamol – WHO und EU-Arzneimittelbehörde weisen Darstellung zurück",
     "Asien - Flughafen Hongkong streicht Hunderte Flüge wegen Taifun \"Ragasa\"",
     "Mecklenburg-Vorpommern - Antisemitismusbeauftragter Klein kritisiert Ausladung von Michel Friedman",
     "Gaza-Konflikt - Spanisches Waffenembargo gegen Israel tritt in Kraft",
@@ -3003,11 +3001,11 @@
     "Junge Gruppe in der Union: Lauch statt Eiche",
     "USA - Medienunternehmen lehnen Beschränkungen des Pentagon für Journalisten ab",
     "Gesundheitspolitik - Warken (CDU) verspricht stabile Beiträge",
-    "Nahost - Hamas veröffentlicht Video von öffentlicher Hinrichtung von acht \"Kollaborateuren\""
+    "Nahost - Hamas veröffentlicht Video von öffentlicher Hinrichtung von acht \"Kollaborateuren\"",
+    "Konflikt - Erneut Gefechte zwischen afghanischen und pakistanischen Truppen",
+    "Frankfurter Buchmesse - Kulturstaatsminister Weimer warnt vor Ausbeutung der Literatur durch Tech-Konzerne"
   ],
   "hashes": [
-    "29eb28cb0528bdd5701b8a38e090d48d",
-    "3e89c0e3e815ac00a220f3ca888455c7",
     "ab2e9561dc2ece3866bf32cb7d0f18fc",
     "50d926ac445532dc6cf0a48993201b9a",
     "ef19cb807668a2460c62ac7989496666",
@@ -4005,6 +4003,8 @@
     "60efa32df6651ad463313e116602964a",
     "eec46aee3860a2664f9d9947aaff4184",
     "110605a12d833d6243928f526959ac3c",
-    "b304a5662e542f2cb31ef16dc5a6305b"
+    "b304a5662e542f2cb31ef16dc5a6305b",
+    "7d99bf95de4b9dd74316f7c1f59050c6",
+    "779965813b490520fd9b41b76576f1e0"
   ]
 }
