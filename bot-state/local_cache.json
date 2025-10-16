@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oesterreichs-parlament-stimmt-nach-amoklauf-in-graz-fuer-schaerferes-waffengesetz-100.html",
-    "https://www.deutschlandfunk.de/mindestens-zwei-tote-nach-angriff-auf-einwanderungsbehoerde-in-dallas-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-die-rede-von-der-islamisierung-ein-zerrbild-ist-110577410.html",
     "https://www.faz.net/aktuell/politik/inland/kriegsgraeberbund-zehn-jahre-warten-auf-ein-kreuz-110685141.html",
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-iran-bleiben-nur-noch-wenige-stunden-um-sanktionen-zu-verhindern-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/telefonat-zwischen-trump-und-putin-104.html",
     "https://www.deutschlandfunk.de/uno-gremium-kritisiert-frankreichs-umgang-mit-minderjaehrigen-fluechtlingen-100.html",
     "https://www.deutschlandfunk.de/etatstreit-weiter-ungeloest-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-treffen-mit-putin-in-budapest-an-104.html"
+    "https://www.deutschlandfunk.de/trump-kuendigt-treffen-mit-putin-in-budapest-an-104.html",
+    "https://www.deutschlandfunk.de/trump-warnt-hamas-vor-weiteren-hinrichtungen-drohung-von-us-einmarsch-100.html",
+    "https://www.deutschlandfunk.de/bundestag-verlaengert-einsatz-der-bundeswehr-im-roten-meer-um-ein-jahr-104.html"
   ],
   "content_hashes": [
-    "0d82cc0092786a3520e06f2f4c24e521",
-    "cb63875e4db213bc96211ba7f87469a1",
     "f05225318f7cace8b31b09af88632629",
     "b0ec54405cbf6b0462b4b7981d0c7509",
     "b426607106130f8f8b617b913b15d9d2",
@@ -2001,11 +1999,11 @@
     "e91cbc433645f0853248a42c97ccb855",
     "a31b3796d982c15ef90e3a3996c420d6",
     "90524812b6c7a8f1c26a5e5c110ff5ab",
-    "160a721e5de4da60f09632a67bda6014"
+    "160a721e5de4da60f09632a67bda6014",
+    "c16d81841613948375efa2d205b0c0cf",
+    "ac2de1fe84c48d21d6c347a52d33d601"
   ],
   "titles": [
-    "Wien - Österreichs Parlament stimmt nach Amoklauf in Graz für schärferes Waffengesetz",
-    "USA - Mindestens zwei Tote nach Angriff auf Einwanderungsbehörde in Dallas",
     "Muslime in Deutschland: Warum die Rede von der Islamisierung die Realität verzerrt",
     "Kriegsgräberbund: Zehn Jahre Warten auf ein Kreuz oder eine Stele",
     "Atomstreit mit dem Iran - Frankreichs Präsident Macron: Iran bleiben nur noch wenige Stunden, um Sanktionen zu verhindern",
@@ -3003,11 +3001,11 @@
     "Vor Selenskyj-Besuch - Telefonat zwischen Trump und Putin",
     "Frankreich - UNO-Gremium kritisiert Frankreichs Umgang mit minderjährigen Flüchtlingen",
     "USA - Etatstreit weiter ungelöst",
-    "Ukraine-Krieg - Trump kündigt Treffen mit Putin in Budapest an"
+    "Ukraine-Krieg - Trump kündigt Treffen mit Putin in Budapest an",
+    "Gazastreifen - Trump warnt Hamas vor weiteren Hinrichtungen - Drohung von US-Einmarsch",
+    "EU-Mission \"Aspides\" - Bundestag verlängert Einsatz der Bundeswehr im Roten Meer um ein Jahr"
   ],
   "hashes": [
-    "4c4a0d85eba95d00515dc65e36ab5032",
-    "d745ffc3b9708825487b4715a3a56c41",
     "606b76840e710719551496d9aad5057a",
     "78921a646ef5d69d8a8b7cfaa85761fa",
     "d52bb9dba75f29c82c9d70a1282d60f3",
@@ -4005,6 +4003,8 @@
     "9258253186e4edfdcfacb4881813f56b",
     "d2a9d2b8069fa7885227d4bea9a40c8c",
     "3b47fd90c6605bb671ff4b40ed0a670c",
-    "7163ca98ecfd37291fc3d7a1af7cbe6a"
+    "7163ca98ecfd37291fc3d7a1af7cbe6a",
+    "b3475df6d28b764c3766ae6770896b06",
+    "ea38e77ad7cb3aa7179096cf45508b98"
   ]
 }
