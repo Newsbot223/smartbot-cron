@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/klage-gegen-kohl-stiftung-110701165.html",
-    "https://www.faz.net/aktuell/politik/norbert-lammert-gibt-vorsitz-der-konrad-adenauer-stiftung-ab-110701690.html",
     "https://www.deutschlandfunk.de/eu-erwaegt-neue-zoelle-auf-russische-oelimporte-100.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-nach-drohneneinschlag-in-eilat-100.html",
     "https://www.deutschlandfunk.de/palaestinenser-melden-40-tote-nach-israelischen-luftangriffen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/haeusliche-gewalt-fussfessel-und-haftandrohung-gehoeren-zusammen-accg-110734631.html",
     "https://www.deutschlandfunk.de/huthi-miliz-gibt-tod-von-militaerchef-al-ghamari-bekannt-100.html",
     "https://www.deutschlandfunk.de/uno-fordert-dauerhaftes-ende-der-kaempfe-102.html",
-    "https://www.deutschlandfunk.de/eu-startet-neue-initiative-fuer-staerkere-zusammenarbeit-mit-mittelmeeranrainern-100.html"
+    "https://www.deutschlandfunk.de/eu-startet-neue-initiative-fuer-staerkere-zusammenarbeit-mit-mittelmeeranrainern-100.html",
+    "https://www.deutschlandfunk.de/eu-parlamentsausschuss-schlaegt-mindestalter-von-16-jahren-vor-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bildungstrend-erhebliche-defizite-in-mathematik-und-naturwissenschaften-110734798.html"
   ],
   "content_hashes": [
-    "3b92741b754da929148611cd9d114eb9",
-    "bd27a1e9b912c1b7bfe34a7f4279fe7f",
     "cba8e4e0a43770214a0db62e9b0bee31",
     "745d76057a5919a4709a03f9341733ba",
     "068dd6a2d4a0f7dfb049e7807d7cc54a",
@@ -2001,11 +1999,11 @@
     "bd2106232891809f866fd7a652229ad6",
     "8daf26a48f0888524b5e40b61890af25",
     "87dcf302dcc498be1153f07d46b21e5a",
-    "fdf5d96bf4fb8a7180911096815ffd7f"
+    "fdf5d96bf4fb8a7180911096815ffd7f",
+    "5907d9d16e5d6224f6475d49a90b7014",
+    "cbd579b74746748d4a308da66bbc2839"
   ],
   "titles": [
-    "Streit um das Kanzlergrab: Ein Denkmal für Helmut Kohl – und eine Klage",
-    "Ex-Bundestagspräsident: Norbert Lammert gibt Vorsitz der Konrad-Adenauer-Stiftung ab",
     "Wirtschaft - EU erwägt neue Zölle auf russische Ölimporte",
     "Israel - Mehrere Verletzte nach Drohneneinschlag in Eilat",
     "Gazastreifen - Palästinenser melden 40 Tote nach israelischen Luftangriffen",
@@ -3003,11 +3001,11 @@
     "Gesetz zu häuslicher Gewalt: „Fußfessel und Haftandrohung gehören zusammen“",
     "Jemen - Huthi-Miliz gibt Tod von Militärchef al-Ghamari bekannt",
     "Pakistan-Afghanistan - UNO fordert dauerhaftes Ende der Kämpfe",
-    "Brüssel - EU startet neue Initiative für stärkere Zusammenarbeit mit Mittelmeeranrainern"
+    "Brüssel - EU startet neue Initiative für stärkere Zusammenarbeit mit Mittelmeeranrainern",
+    "Onlinedienste - EU-Parlamentsausschuss schlägt Mindestalter von 16 Jahren vor",
+    "Bildungsstudie: Der Leistungsabfall betrifft alle Schüler"
   ],
   "hashes": [
-    "3cd930397e2811e6420baf1865b79871",
-    "1bd8b2e3e8531ecb46c4df2e367f582b",
     "194549c731ebc96fc1e861cef77388d9",
     "f9fee396d101aba8731b572580720f62",
     "8ecc3a9ef25494e871b2f719816c9054",
@@ -4005,6 +4003,8 @@
     "7cdf2c3033c9268075688ed54880d881",
     "0ef87f2dd157f81079d50140deac43db",
     "4b2e1f40a8401e402f8350ff62f0a0ca",
-    "f50945759c7c3c50beea471cd12563b3"
+    "f50945759c7c3c50beea471cd12563b3",
+    "c5b8c5eb0b25ccd205d44db52d0e1656",
+    "e685940a882d301b8c07a0aca2a0045c"
   ]
 }
