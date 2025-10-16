@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/krise-der-sozialdemokraten-was-die-spd-im-norden-lernen-koennte-110699689.html",
-    "https://www.deutschlandfunk.de/auch-japan-will-palaestinenserstaat-anerkennen-100.html",
     "https://www.deutschlandfunk.de/papst-leo-lobt-arbeit-der-exorzisten-sieg-ueber-satan-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-verspricht-wirtschaftswachstum-und-kontert-schulden-vorwuerfe-von-afd-chef-chrupa-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeslaender-wollen-neuen-anlauf-zur-reform-der-organspende-accg-110700562.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/indien-will-laut-trump-kein-oel-mehr-in-russland-kaufen-102.html",
     "https://www.deutschlandfunk.de/auch-heute-noch-stoerungen-des-zugverkehrs-im-raum-hamburg-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/15/whats-next-for-released-palestinian-prisoners?traffic_source=rss",
-    "https://www.deutschlandfunk.de/ngo-ueberpruefungen-durch-verfassungsschutz-im-auftrag-der-ministerien-102.html"
+    "https://www.deutschlandfunk.de/ngo-ueberpruefungen-durch-verfassungsschutz-im-auftrag-der-ministerien-102.html",
+    "https://www.deutschlandfunk.de/trump-genehmigt-cia-einsaetze-in-venezuela-102.html",
+    "https://www.deutschlandfunk.de/regierungskrise-nach-flucht-von-20-kriminellen-104.html"
   ],
   "content_hashes": [
-    "84a20390615a487c591379d772cf7de0",
-    "a72cb6886bdbc196e659bc333e0e2a7e",
     "6baac37f9fd3842c17162d7ebf7b1b61",
     "35254756a1a8422d9d4ab3aa7cd37142",
     "fb44969f27dd0e0c7fd15f0b83d00cd1",
@@ -2001,11 +1999,11 @@
     "4d89a948b162c0127ae4bc6c05dbde7b",
     "ebcfcf60a3aa8b528124a86a23d97a3d",
     "93d98fcf1b400d8deff6cb2a9f9914c6",
-    "279f1a1a9dd382fdd8286d487d95efdd"
+    "279f1a1a9dd382fdd8286d487d95efdd",
+    "d017ebedfcf0a10eee6c5dc1ba79e7a8",
+    "d4ebcbcd8b8795a3c29438c2c1b9c653"
   ],
   "titles": [
-    "Krise der Sozialdemokraten: Von wem die SPD etwas lernen könnte",
-    "Nahost - Auch Japan will Palästinenserstaat anerkennen",
     "Grußbotschaft - Papst Leo lobt Arbeit der Exorzisten: \"Sieg über Satan\"",
     "Generaldebatte im Bundestag - Bundeskanzler Merz verspricht Wirtschaftswachstum und kontert Schulden-Vorwürfe von AfD-Chef Chrupalla",
     "Für Widerspruchslösung: Bundesländer unternehmen neuen Anlauf für Reform der Organspende",
@@ -3003,11 +3001,11 @@
     "Russland-Sanktionen - Indien will laut Trump kein Öl mehr in Russland kaufen",
     "Deutsche Bahn - Auch heute noch Störungen des Zugverkehrs im Raum Hamburg",
     "What’s next for released Palestinian prisoners?",
-    "Medienbericht - NGO-Überprüfungen durch Verfassungsschutz im Auftrag der Ministerien"
+    "Medienbericht - NGO-Überprüfungen durch Verfassungsschutz im Auftrag der Ministerien",
+    "Kampf gegen Drogenschmuggel - Trump genehmigt CIA-Einsätze in Venezuela",
+    "Guatemala - Regierungskrise nach Flucht von 20 Kriminellen"
   ],
   "hashes": [
-    "b6be845458feb343af6518131d8cfdac",
-    "32c6c1d27534f00e46422bda4d373aad",
     "7c9253f5afb0b3786e4e6bb4f458a174",
     "2ed25f76eea9617a7bf4617234cf787f",
     "779a9e345920ea81cdf8d72cc6f0d2fe",
@@ -4005,6 +4003,8 @@
     "21d8264a8eedfa3821dad1fc76016ea1",
     "47bde6676ceabb4fe4ea1e319c78fdb7",
     "75af9126c2147afdee9b50490987a5fe",
-    "e0df081b9f6867760fa9f5b4ae74c26f"
+    "e0df081b9f6867760fa9f5b4ae74c26f",
+    "b08795b26ac010f948713f521e9ede9b",
+    "ff167f377086261bf26e192175145a4b"
   ]
 }
