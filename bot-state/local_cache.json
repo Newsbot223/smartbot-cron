@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/warum-die-rede-von-der-islamisierung-ein-zerrbild-ist-110577410.html",
     "https://www.faz.net/aktuell/politik/inland/kriegsgraeberbund-zehn-jahre-warten-auf-ein-kreuz-110685141.html",
     "https://www.deutschlandfunk.de/frankreichs-praesident-macron-iran-bleiben-nur-noch-wenige-stunden-um-sanktionen-zu-verhindern-102.html",
     "https://www.deutschlandfunk.de/al-scharaa-spricht-als-erster-syrischer-praesident-seit-60-jahren-bei-der-uno-generaldebatte-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/etatstreit-weiter-ungeloest-100.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-treffen-mit-putin-in-budapest-an-104.html",
     "https://www.deutschlandfunk.de/trump-warnt-hamas-vor-weiteren-hinrichtungen-drohung-von-us-einmarsch-100.html",
-    "https://www.deutschlandfunk.de/bundestag-verlaengert-einsatz-der-bundeswehr-im-roten-meer-um-ein-jahr-104.html"
+    "https://www.deutschlandfunk.de/bundestag-verlaengert-einsatz-der-bundeswehr-im-roten-meer-um-ein-jahr-104.html",
+    "https://www.deutschlandfunk.de/einsaetze-der-bundeswehr-im-roten-meer-und-im-sudan-verlaengert-100.html"
   ],
   "content_hashes": [
-    "f05225318f7cace8b31b09af88632629",
     "b0ec54405cbf6b0462b4b7981d0c7509",
     "b426607106130f8f8b617b913b15d9d2",
     "b07ffcf92f278f478f63350fd70dad2c",
@@ -2001,10 +2000,10 @@
     "90524812b6c7a8f1c26a5e5c110ff5ab",
     "160a721e5de4da60f09632a67bda6014",
     "c16d81841613948375efa2d205b0c0cf",
-    "ac2de1fe84c48d21d6c347a52d33d601"
+    "ac2de1fe84c48d21d6c347a52d33d601",
+    "a6919b3f5ec385c782a8a237e6470617"
   ],
   "titles": [
-    "Muslime in Deutschland: Warum die Rede von der Islamisierung die Realität verzerrt",
     "Kriegsgräberbund: Zehn Jahre Warten auf ein Kreuz oder eine Stele",
     "Atomstreit mit dem Iran - Frankreichs Präsident Macron: Iran bleiben nur noch wenige Stunden, um Sanktionen zu verhindern",
     "New York - Al-Scharaa spricht als erster syrischer Präsident seit 60 Jahren bei der UNO-Generaldebatte",
@@ -3003,10 +3002,10 @@
     "USA - Etatstreit weiter ungelöst",
     "Ukraine-Krieg - Trump kündigt Treffen mit Putin in Budapest an",
     "Gazastreifen - Trump warnt Hamas vor weiteren Hinrichtungen - Drohung von US-Einmarsch",
-    "EU-Mission \"Aspides\" - Bundestag verlängert Einsatz der Bundeswehr im Roten Meer um ein Jahr"
+    "EU-Mission \"Aspides\" - Bundestag verlängert Einsatz der Bundeswehr im Roten Meer um ein Jahr",
+    "Deutscher Bundestag - Einsätze der Bundeswehr im Roten Meer und im Sudan verlängert"
   ],
   "hashes": [
-    "606b76840e710719551496d9aad5057a",
     "78921a646ef5d69d8a8b7cfaa85761fa",
     "d52bb9dba75f29c82c9d70a1282d60f3",
     "e74f72561e954b1e3295d647f38c377d",
@@ -4005,6 +4004,7 @@
     "3b47fd90c6605bb671ff4b40ed0a670c",
     "7163ca98ecfd37291fc3d7a1af7cbe6a",
     "b3475df6d28b764c3766ae6770896b06",
-    "ea38e77ad7cb3aa7179096cf45508b98"
+    "ea38e77ad7cb3aa7179096cf45508b98",
+    "b5e823222a8dea0fb790b4d98295214e"
   ]
 }
