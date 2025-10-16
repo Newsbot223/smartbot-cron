@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanzler-merz-wirbt-fuer-mehr-veraenderungsbereitschaft-100.html",
-    "https://www.faz.net/aktuell/gesellschaft/menschen/hanna-steinmueller-im-bundestag-mit-baby-accg-110700619.html",
     "https://www.deutschlandfunk.de/17-tote-in-taiwan-zahl-der-vermissten-gesunken-104.html",
     "https://www.deutschlandfunk.de/russland-will-zur-kriegsfinanzierung-steuer-erhoehen-100.html",
     "https://www.deutschlandfunk.de/luftfahrtindustrie-kritisiert-unklare-zustaendigkeiten-bei-drohnenabwehr-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/russischer-angriff-auf-gasanlagen-in-region-poltawa-102.html",
     "https://www.deutschlandfunk.de/lebensmittelkonzern-nestle-will-16-000-stellen-abbauen-wirtschaftliche-lage-erholt-sich-etwas-102.html",
     "https://www.deutschlandfunk.de/wegen-hoher-kosten-ueber-fuenf-millionen-menschen-heizen-ihre-wohnungen-nur-unzureichend-100.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-parteizentrale-konrad-adenauer-haus-wird-denkfabrik-accg-110725798.html"
+    "https://www.faz.net/aktuell/politik/inland/cdu-parteizentrale-konrad-adenauer-haus-wird-denkfabrik-accg-110725798.html",
+    "https://www.deutschlandfunk.de/fast-alle-journalisten-verlassen-pentagon-aus-protest-gegen-neue-regeln-100.html",
+    "https://www.deutschlandfunk.de/ehec-infektionswelle-erreicht-schleswig-holstein-100.html"
   ],
   "content_hashes": [
-    "25f4a16e0c62a477382a6f1ca0ffe6cb",
-    "125f8809dfefdffa0804338a1f12ded1",
     "f8d4a4e523fee588294cb691908e108a",
     "6e0c31aba4e5d561b1baad1a3803ee6b",
     "d5f7b0b8c7c9fd39343bfbd0fce82a53",
@@ -2001,11 +1999,11 @@
     "5d88e9d6032ad4edc65676a09442dfcd",
     "d18c6e2238127b29d52d3ac5db3e1486",
     "ad3ba6de672236a1f0d53c1fabc2083f",
-    "18428d08cef1e0da8702ffa0c903b2f6"
+    "18428d08cef1e0da8702ffa0c903b2f6",
+    "fd85d67cdaacde0ea263c6bb2a51ab62",
+    "50405971a9d0b2ce7069508a6bda955e"
   ],
   "titles": [
-    "Generaldebatte im Bundestag - Kanzler Merz wirbt für mehr Veränderungsbereitschaft",
-    "Im Bundestag: Erstmals steht Abgeordnete mit Säugling am Redepult",
     "Taifun \"Ragasa\" - 17 Tote in Taiwan - Zahl der Vermissten gesunken",
     "Krieg gegen die Ukraine - Russland will zur Kriegsfinanzierung Steuer erhöhen",
     "Nach Drohnensichtungen - Luftfahrtindustrie kritisiert unklare Zuständigkeiten bei Drohnenabwehr",
@@ -3003,11 +3001,11 @@
     "Ukraine - Russischer Angriff auf Gasanlagen in Region Poltawa",
     "Schweiz - Lebensmittelkonzern Nestle will 16.000 Stellen abbauen - wirtschaftliche Lage erholt sich etwas",
     "Statistisches Bundesamt - Wegen hoher Kosten: Über fünf Millionen Menschen heizen ihre Wohnungen nur unzureichend",
-    "Adenauer-Haus wird Denkfabrik: Die CDU soll die modernste Partei Deutschlands, ach was, Europas werden"
+    "Adenauer-Haus wird Denkfabrik: Die CDU soll die modernste Partei Deutschlands, ach was, Europas werden",
+    "USA - Fast alle Journalisten verlassen Pentagon aus Protest gegen neue Regeln",
+    "Neuinfektion - EHEC-Infektionswelle erreicht Schleswig-Holstein"
   ],
   "hashes": [
-    "dc92086bfe95d7c36088d3274804797e",
-    "004fcf96d6c2ed10fb732ca4bec1d158",
     "d2b59aa36f0c0184b139506098f2f0a5",
     "3b0e35d5d8823103ea40493ede167c76",
     "e45aeffb48dfd4adfa20a7956735b3da",
@@ -4005,6 +4003,8 @@
     "99297fb0e30ba9ff24d67bbab3b87627",
     "1c176b3b5ddc1eb13f8dde2255bab9c7",
     "258b8258e247708c4a6d5d2ecf612b40",
-    "ea13fb126fadec1c0c8665b0683254ee"
+    "ea13fb126fadec1c0c8665b0683254ee",
+    "9b6dcfa31d77b84d917c3f2748a3fe31",
+    "04a1e2f513770f34c2707185cfd12417"
   ]
 }
