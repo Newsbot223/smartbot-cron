@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/grevesmuehlen-jugendliche-nach-angriff-auf-ghanaische-maedchen-verurteilt-110701191.html",
-    "https://www.deutschlandfunk.de/kreml-sieht-ergebnis-nahe-null-bei-annaeherung-an-die-usa-100.html",
-    "https://www.deutschlandfunk.de/belgische-stadt-loewen-wird-kulturhauptstadt-europas-102.html",
     "https://www.faz.net/aktuell/politik/inland/klage-gegen-kohl-stiftung-110701165.html",
     "https://www.faz.net/aktuell/politik/norbert-lammert-gibt-vorsitz-der-konrad-adenauer-stiftung-ab-110701690.html",
     "https://www.deutschlandfunk.de/eu-erwaegt-neue-zoelle-auf-russische-oelimporte-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/merz-fordert-in-regierungserklaerung-staerkeres-europa-100.html",
     "https://www.deutschlandfunk.de/wirtschaft-im-sommer-wohl-noch-nicht-zurueck-in-der-wachstumsspur-100.html",
     "https://www.deutschlandfunk.de/fahrlehrerverband-schlaegt-kompaktere-ausbildung-vor-102.html",
-    "https://www.faz.net/aktuell/politik/inland/haeusliche-gewalt-fussfessel-und-haftandrohung-gehoeren-zusammen-accg-110734631.html"
+    "https://www.faz.net/aktuell/politik/inland/haeusliche-gewalt-fussfessel-und-haftandrohung-gehoeren-zusammen-accg-110734631.html",
+    "https://www.deutschlandfunk.de/huthi-miliz-gibt-tod-von-militaerchef-al-ghamari-bekannt-100.html",
+    "https://www.deutschlandfunk.de/uno-fordert-dauerhaftes-ende-der-kaempfe-102.html",
+    "https://www.deutschlandfunk.de/eu-startet-neue-initiative-fuer-staerkere-zusammenarbeit-mit-mittelmeeranrainern-100.html"
   ],
   "content_hashes": [
-    "c1cead4a12f7ceb3cc2906389fbd5326",
-    "4692b90ae6c09239a4caa492c1400ffc",
-    "fdd65a9adf0615948d66fa80d5f8f746",
     "3b92741b754da929148611cd9d114eb9",
     "bd27a1e9b912c1b7bfe34a7f4279fe7f",
     "cba8e4e0a43770214a0db62e9b0bee31",
@@ -2001,12 +1998,12 @@
     "13483debabad24cbbcb3d6809b0d677d",
     "7b1ee2ce343489b30e887585ae196c64",
     "9d30a8b1205883a76b288a55048a519f",
-    "bd2106232891809f866fd7a652229ad6"
+    "bd2106232891809f866fd7a652229ad6",
+    "8daf26a48f0888524b5e40b61890af25",
+    "87dcf302dcc498be1153f07d46b21e5a",
+    "fdf5d96bf4fb8a7180911096815ffd7f"
   ],
   "titles": [
-    "Mecklenburg-Vorpommern: Jugendliche nach Angriff auf ghanaische Mädchen verurteilt",
-    "Nach Trump-Kritik an Russland - Kreml sieht \"Ergebnis nahe null\" bei Annäherung an die USA",
-    "2030 - Belgische Stadt Löwen wird Kulturhauptstadt Europas",
     "Streit um das Kanzlergrab: Ein Denkmal für Helmut Kohl – und eine Klage",
     "Ex-Bundestagspräsident: Norbert Lammert gibt Vorsitz der Konrad-Adenauer-Stiftung ab",
     "Wirtschaft - EU erwägt neue Zölle auf russische Ölimporte",
@@ -3003,12 +3000,12 @@
     "Bundestag - Merz fordert in Regierungserklärung stärkeres Europa",
     "Bundesbank - Wirtschaft im Sommer wohl noch nicht zurück in der Wachstumsspur",
     "Diskussion über Führerschein - Fahrlehrerverband schlägt kompaktere Ausbildung vor",
-    "Gesetz zu häuslicher Gewalt: „Fußfessel und Haftandrohung gehören zusammen“"
+    "Gesetz zu häuslicher Gewalt: „Fußfessel und Haftandrohung gehören zusammen“",
+    "Jemen - Huthi-Miliz gibt Tod von Militärchef al-Ghamari bekannt",
+    "Pakistan-Afghanistan - UNO fordert dauerhaftes Ende der Kämpfe",
+    "Brüssel - EU startet neue Initiative für stärkere Zusammenarbeit mit Mittelmeeranrainern"
   ],
   "hashes": [
-    "376dfb6eae448bd4299ceb8b5a9da446",
-    "0397236a5310021909d786e9bd112d48",
-    "94ede711db0add37c59ff2d433b68c19",
     "3cd930397e2811e6420baf1865b79871",
     "1bd8b2e3e8531ecb46c4df2e367f582b",
     "194549c731ebc96fc1e861cef77388d9",
@@ -4005,6 +4002,9 @@
     "a1ae1c7455af8bd3fc2a915931eb19a9",
     "9441ab5b8ca0b63a751b02b5cc8fdf43",
     "1595b3ae476fddbe5e87cd7549d2c642",
-    "7cdf2c3033c9268075688ed54880d881"
+    "7cdf2c3033c9268075688ed54880d881",
+    "0ef87f2dd157f81079d50140deac43db",
+    "4b2e1f40a8401e402f8350ff62f0a0ca",
+    "f50945759c7c3c50beea471cd12563b3"
   ]
 }
