@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-der-mitgliedschaft-in-krimineller-vereinigung-schuldig-gesprochen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsforscher-erwarten-leichtes-wachstum-fuer-das-kommenden-jahr-102.html",
     "https://www.deutschlandfunk.de/positive-entwicklung-im-zweiten-halbjahr-100.html",
     "https://www.deutschlandfunk.de/bbc-und-nachrichtenagenturen-fordern-zugang-zum-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/bdi-dringt-auf-aufholjagd-bei-raumfahrt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/juso-chef-tuermer-bezeichnet-plaene-von-ministerin-warken-zu-krankenkassen-als-akt-der-hilflosigkeit-102.html",
     "https://www.spiegel.de/panorama/nord-stream-mutmasslicher-saboteur-wird-nicht-von-polen-nach-deutschland-ausgeliefert-a-149f03d9-0425-4e2f-860c-1e174c7a4752#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/gerhard-schroeder-verteidigt-bau-von-nord-stream-2-accg-110736979.html",
-    "https://www.deutschlandfunk.de/kreml-trump-putin-treffen-nicht-auf-die-lange-bank-schieben-100.html"
+    "https://www.deutschlandfunk.de/kreml-trump-putin-treffen-nicht-auf-die-lange-bank-schieben-100.html",
+    "https://www.deutschlandfunk.de/russland-muss-yukos-aktionaere-entschaedigen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/merz-im-interview-wir-wollen-die-staerkste-konventionelle-armee-in-europa-aufbauen-110737192.html"
   ],
   "content_hashes": [
-    "d855fc5e26ab4bb4389c84ab5dd1fd38",
-    "b1c58ef3b00dabc43bde0f5861da11d2",
     "59b2afe36950360f8cb81cc994a97f4f",
     "caf6d409ec74cdca4be381143f3d2422",
     "30feeec3eff3c534fdab6b4e3bc53c0a",
@@ -2001,11 +1999,11 @@
     "291bf75c319355f72a18a31688ca0257",
     "7fc3f967fce2304f1c38f1dbc049766e",
     "9f73ff8c19bf55cf52631b37c732a594",
-    "9cf6834f92499516b79c33f999806a26"
+    "9cf6834f92499516b79c33f999806a26",
+    "44681032768631a53130dabc78de209b",
+    "8c180b56a18eb6ffa823601616555281"
   ],
   "titles": [
-    "Frankreich - Ex-Präsident Sarkozy der Mitgliedschaft in krimineller Vereinigung schuldig gesprochen",
-    "Ökonomie - Wirtschaftsforscher erwarten leichtes Wachstum für das kommenden Jahr",
     "Bauwirtschaft - Positive Entwicklung im zweiten Halbjahr 2025",
     "Appell an Israel - BBC und Nachrichtenagenturen fordern Zugang zum Gazastreifen",
     "Satelliten im All - BDI dringt auf Aufholjagd bei Raumfahrt",
@@ -3003,11 +3001,11 @@
     "Gesundheitsreform - Juso-Chef Türmer bezeichnet Pläne von Ministerin Warken zu Krankenkassen als \"Akt der Hilflosigkeit\"",
     "Nord Stream: Mutmaßlicher Saboteur wird nicht von Polen nach Deutschland ausgeliefert",
     "Schröder im U-Ausschuss: „Das geht Sie einen feuchten Kehricht an“",
-    "Ukraine-Krieg - Kreml: Trump-Putin-Treffen nicht auf die lange Bank schieben"
+    "Ukraine-Krieg - Kreml: Trump-Putin-Treffen nicht auf die lange Bank schieben",
+    "Urteil zu zerschlagenem Ölkonzern - Russland muss Yukos-Aktionäre entschädigen",
+    "Merz im Interview: „Wir wollen die stärkste konventionelle Armee in Europa aufbauen“"
   ],
   "hashes": [
-    "aaf5d65d2886363a9fdb7e97033bd418",
-    "857dd883b2c7d8187a88f076d3c14b14",
     "c3f4ef06901776dbfffce236c12d84b9",
     "59c8250ed9d047604da9ada122fd12f8",
     "45faa92917a5acb9a2e04d104327497c",
@@ -4005,6 +4003,8 @@
     "78887cecc1891eb7e2b3a511bd1d20d9",
     "a493190b3bb5562b6a205522c8db9ae6",
     "698b9b59effd031a219b6bb661114d73",
-    "b7d353a1a4189ae94886408b7f88908c"
+    "b7d353a1a4189ae94886408b7f88908c",
+    "77549de7f3b8e15a196333c2387dc63d",
+    "ac5b9fc86767d1171998c1ba4c323004"
   ]
 }
