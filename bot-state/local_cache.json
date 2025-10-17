@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/was-bedeutet-die-richterwahl-fuer-das-verhaeltnis-der-union-zur-linken-accg-110699502.html",
-    "https://www.deutschlandfunk.de/familienministerin-prien-plant-umstrukturierung-des-fonds-fuer-opfer-sexuellen-missbrauchs-102.html",
-    "https://www.deutschlandfunk.de/betroffeneninitiative-eckiger-tisch-fordert-mehr-transparenz-100.html",
     "https://www.deutschlandfunk.de/zahl-der-anerkannten-asylantraege-im-1-halbjahr-2025-deutlich-gesunken-100.html",
     "https://www.deutschlandfunk.de/suedkorea-warnt-vor-uranbestaenden-in-nordkorea-100.html",
     "https://www.spiegel.de/politik/deutschland/schutzquote-asyl-zahl-bewilligter-antraege-sinkt-deutlich-a-cfda5fac-faec-44f1-ba8f-be9d40750852#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/problem-im-stadtbild-merz-aeusserung-ueber-migranten-loest-kontroverse-aus-100.html",
     "https://www.deutschlandfunk.de/digitalminister-wildberger-kuendigt-umfassenden-buerokratieabbau-an-102.html",
     "https://www.deutschlandfunk.de/frankfurter-buchmesse-fuer-interessierte-geoeffnet-100.html",
-    "https://www.deutschlandfunk.de/bundesrat-beschliesst-regelungen-fuer-100-milliarden-paket-fuer-laender-100.html"
+    "https://www.deutschlandfunk.de/bundesrat-beschliesst-regelungen-fuer-100-milliarden-paket-fuer-laender-100.html",
+    "https://www.deutschlandfunk.de/neuer-ice-zug-mit-stufenlosem-einstieg-vorgestellt-100.html",
+    "https://www.deutschlandfunk.de/afd-europapolitiker-bystron-zu-geldstrafe-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/gesetzentwurf-fuer-buergergeld-reform-steht-102.html"
   ],
   "content_hashes": [
-    "fee1e8e1bbc25b78397becb59e0931c0",
-    "2c928099bfdf60a5bffafa8a7207cd8c",
-    "905979bd3891181616dcc7535189546e",
     "fb7a05d83d0c07d30d05bf9d8a8ad034",
     "0042ecb2c9ac549be04bdb34d0440c31",
     "94b7487da346333283d14d22ffd37455",
@@ -2001,12 +1998,12 @@
     "e06ff16e770d3caf6ebc153038ecea65",
     "cd76b381794829918d949bc4bea58c70",
     "2bb5726837382518c348c8a0e4afd4a2",
-    "051c6d77b6096a736554d7e55d1a79d4"
+    "051c6d77b6096a736554d7e55d1a79d4",
+    "b90b0b96bfeceb062c2acdfe83ccb95a",
+    "c7d2da764bf896a94d0410df9c6d8d87",
+    "d25c31919914985bde46db313518a26c"
   ],
   "titles": [
-    "Vor der Richterwahl: Können Stimmen Sünde sein?",
-    "Hilfe für Betroffene - Familienministerin Prien plant Umstrukturierung des Fonds für Opfer sexuellen Missbrauchs",
-    "Nach Missbrauchsstudie - Betroffeneninitiative Eckiger Tisch fordert mehr Transparenz",
     "Zahlen der Bundesregierung - Zahl der anerkannten Asylanträge im 1. Halbjahr 2025 deutlich gesunken",
     "Atomwaffen - Südkorea warnt vor Uranbeständen in Nordkorea",
     "Schutzquote Asyl: Zahl bewilligter Anträge sinkt deutlich",
@@ -3003,12 +3000,12 @@
     "Kritik von Grünen und Linken - \"Problem im Stadtbild\" - Merz-Äußerung über Migranten löst Kontroverse aus",
     "Bundestag - Digitalminister Wildberger kündigt umfassenden Bürokratieabbau an",
     "Literatur - Frankfurter Buchmesse für Interessierte geöffnet",
-    "Sondervermögen - Bundesrat beschließt Regelungen für 100-Milliarden-Paket für Länder"
+    "Sondervermögen - Bundesrat beschließt Regelungen für 100-Milliarden-Paket für Länder",
+    "Verkehr - Neuer ICE-Zug mit stufenlosem Einstieg vorgestellt",
+    "Hitlergruß-Posting - AfD-Europapolitiker Bystron zu Geldstrafe verurteilt",
+    "Bundesregierung - Gesetzentwurf für Bürgergeld-Reform steht"
   ],
   "hashes": [
-    "c3c2cad9d00854f4995c3b1be3cc04b0",
-    "7db7818465930941fc83006ae05b8096",
-    "ad8cf6e14b02117094d4edffdddb228f",
     "9d87d73ad836f5494b962c99b73cb397",
     "3f3b4fd5b03a2653c924ca5455b03793",
     "efba93157d5045a33b95ed4aa03ab0b0",
@@ -4005,6 +4002,9 @@
     "192bb403fc839079fb64f733e62dca99",
     "0582c3476a4d1108b8abdd7c72533a53",
     "e3f44a14e166618847dc7f5795d78f7b",
-    "b5e032905527729f41cb1122eff37d3d"
+    "b5e032905527729f41cb1122eff37d3d",
+    "63698aafe9104a2d578e2e714dfa899c",
+    "a32f687b38a7f2411dac0df7bf44f3a9",
+    "d54cb8d703eb412b3bf0aa4001032baf"
   ]
 }
