@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/positive-entwicklung-im-zweiten-halbjahr-100.html",
-    "https://www.deutschlandfunk.de/bbc-und-nachrichtenagenturen-fordern-zugang-zum-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/bdi-dringt-auf-aufholjagd-bei-raumfahrt-100.html",
     "https://www.deutschlandfunk.de/rompf-verzichtet-auf-chefposten-bei-bahn-infrago-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-ermittelt-gegen-sap-102.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-in-rheinland-pfalz-wer-kennt-gordon-schnieder-accg-110696564.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/gerhard-schroeder-verteidigt-bau-von-nord-stream-2-accg-110736979.html",
     "https://www.deutschlandfunk.de/kreml-trump-putin-treffen-nicht-auf-die-lange-bank-schieben-100.html",
     "https://www.deutschlandfunk.de/russland-muss-yukos-aktionaere-entschaedigen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-im-interview-wir-wollen-die-staerkste-konventionelle-armee-in-europa-aufbauen-110737192.html"
+    "https://www.faz.net/aktuell/politik/inland/merz-im-interview-wir-wollen-die-staerkste-konventionelle-armee-in-europa-aufbauen-110737192.html",
+    "https://www.deutschlandfunk.de/buergergeld-reform-bringt-wohl-keine-nennenswerten-einsparungen-100.html",
+    "https://www.deutschlandfunk.de/reform-erklaerung-unterzeichnet-wichtiger-schritt-zu-neuwahlen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/drogen-vorwuerfe-gegen-csu-buergermeister-in-bayern-110737814.html"
   ],
   "content_hashes": [
-    "59b2afe36950360f8cb81cc994a97f4f",
-    "caf6d409ec74cdca4be381143f3d2422",
-    "30feeec3eff3c534fdab6b4e3bc53c0a",
     "920d06cd27dcddd0f3857d458da6d37e",
     "55a850036dd2a2cf1176ce6fafe49698",
     "fba797ec61106bc21bd387470976dea4",
@@ -2001,12 +1998,12 @@
     "9f73ff8c19bf55cf52631b37c732a594",
     "9cf6834f92499516b79c33f999806a26",
     "44681032768631a53130dabc78de209b",
-    "8c180b56a18eb6ffa823601616555281"
+    "8c180b56a18eb6ffa823601616555281",
+    "89cf999df099c4612c91eb6f0bd9f43b",
+    "cfd255b02ed92d77a82b12c3c8e19742",
+    "072944d22eaf15a64d2b42d90e91ab3a"
   ],
   "titles": [
-    "Bauwirtschaft - Positive Entwicklung im zweiten Halbjahr 2025",
-    "Appell an Israel - BBC und Nachrichtenagenturen fordern Zugang zum Gazastreifen",
-    "Satelliten im All - BDI dringt auf Aufholjagd bei Raumfahrt",
     "Deutsche Bahn - Rompf verzichtet auf Chefposten bei Bahn-InfraGo",
     "Wettbewerbsregeln - EU-Kommission ermittelt gegen SAP",
     "Rheinland-Pfalz: Der CDU-Mann gegen die kleine Ampel",
@@ -3003,12 +3000,12 @@
     "Schröder im U-Ausschuss: „Das geht Sie einen feuchten Kehricht an“",
     "Ukraine-Krieg - Kreml: Trump-Putin-Treffen nicht auf die lange Bank schieben",
     "Urteil zu zerschlagenem Ölkonzern - Russland muss Yukos-Aktionäre entschädigen",
-    "Merz im Interview: „Wir wollen die stärkste konventionelle Armee in Europa aufbauen“"
+    "Merz im Interview: „Wir wollen die stärkste konventionelle Armee in Europa aufbauen“",
+    "Bundesregierung - Bürgergeld-Reform bringt wohl keine nennenswerten Einsparungen",
+    "Bangladesch - Reform-Erklärung unterzeichnet: \"Wichtiger Schritt zu Neuwahlen\"",
+    "Kokain-Fund: Drogen-Vorwürfe gegen CSU-Bürgermeister in Bayern"
   ],
   "hashes": [
-    "c3f4ef06901776dbfffce236c12d84b9",
-    "59c8250ed9d047604da9ada122fd12f8",
-    "45faa92917a5acb9a2e04d104327497c",
     "1b22647ef4ce1c667f0bf73406cfd100",
     "9e49a604bf32560aae4db3578a2f59a1",
     "bb1a7e3083e07719ab0465558ece3f80",
@@ -4005,6 +4002,9 @@
     "698b9b59effd031a219b6bb661114d73",
     "b7d353a1a4189ae94886408b7f88908c",
     "77549de7f3b8e15a196333c2387dc63d",
-    "ac5b9fc86767d1171998c1ba4c323004"
+    "ac5b9fc86767d1171998c1ba4c323004",
+    "4f351f3bd303f7364341e3fa89dd4c11",
+    "89efd94e055e58c6cffafd94d3883748",
+    "98dd30488b856fdce4a6e4558f27b536"
   ]
 }
