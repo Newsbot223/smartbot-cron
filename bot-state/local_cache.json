@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zulieferer-bosch-will-weitere-13-000-stellen-streichen-vor-allem-deutsche-standorte-betroffen-100.html",
-    "https://www.deutschlandfunk.de/helsing-will-unbemanntes-kampfflugzeug-bauen-102.html",
     "https://www.deutschlandfunk.de/eu-erteilt-zulassung-fuer-weiteres-alzheimer-medikament-100.html",
     "https://www.deutschlandfunk.de/libyen-affaire-lange-haftstrafe-fuer-sarkozy-100.html",
     "https://www.deutschlandfunk.de/zu-mpk-ost-interview-mit-politikwissenschaftler-janek-treiber-tu-dresden-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wadephul-fordert-einbeziehung-der-ukraine-in-jegliche-vereinbarung-102.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-sein-stadtbild-aeusserung-gruene-fordern-in-offenem-brief-entschuldigung-a-dbd8acd5-834a-47e9-a404-cdab2af85d69#ref=rss",
     "https://www.deutschlandfunk.de/die-schnelle-einbuergerung-wird-wieder-abgeschafft-100.html",
-    "https://www.deutschlandfunk.de/altkanzler-schroeder-verteidigt-bau-von-pipeline-ex-kanzleramtschef-braun-stiftungsgruendung-war-sac-100.html"
+    "https://www.deutschlandfunk.de/altkanzler-schroeder-verteidigt-bau-von-pipeline-ex-kanzleramtschef-braun-stiftungsgruendung-war-sac-100.html",
+    "https://www.deutschlandfunk.de/kloeckner-wir-schraenken-nicht-die-redefreiheit-ein-sondern-die-poebelfreiheit-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nach-stadtbild-aeusserung-solche-debatten-nutzen-den-rechtspopulisten-110737666.html"
   ],
   "content_hashes": [
-    "08e71bdf8eb02d55c7baf9bde27e2136",
-    "125f55bf2ad4f478693825765c76ef72",
     "34833b242c64ccbeaf68a2e4bf3473b1",
     "8ae4023772d01c426a33e29236c80ac4",
     "1d7791a0ab0edd36b631198b42550e3c",
@@ -2001,11 +1999,11 @@
     "7cc06f719ac32293c89ad911fdd3978f",
     "6db3e363187c11cf27dfe168459fc592",
     "dcc53d97b440b7ff8283115f785899b6",
-    "05a522de5873e63d2ee136e8bad5547a"
+    "05a522de5873e63d2ee136e8bad5547a",
+    "30c25528b19fcb9e1903e87800e24065",
+    "c9a4c1b2921a1119dbd1e5bbd7a44757"
   ],
   "titles": [
-    "Krise der Autobranche - Zulieferer Bosch will weitere 13.000 Stellen streichen - vor allem deutsche Standorte betroffen",
-    "Deutsches Startup - Helsing will unbemanntes Kampfflugzeug bauen",
     "Gesundheit - EU erteilt Zulassung für weiteres Alzheimer-Medikament",
     "Libyen-Affäre - Französischer Ex-Präsident Sarkozy zu fünf Jahren Haft verurteilt",
     "Ost-MPK - Ministerpräsidenten fordern Entlastung und Perspektiven",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Wadephul fordert Einbeziehung der Ukraine in jegliche Vereinbarung",
     "Friedrich Merz und sein »Stadtbild«-Äußerung: Grüne verlangen in offenem Brief Entschuldigung",
     "Bundesrat - Die schnelle Einbürgerung wird wieder abgeschafft",
-    "Nord Stream 2-Pipeline - Altkanzler Schröder verteidigt Bau von Pipeline - Ex-Kanzleramtschef Braun: Stiftungsgründung war Sache von Mecklenburg-Vorpommern"
+    "Nord Stream 2-Pipeline - Altkanzler Schröder verteidigt Bau von Pipeline - Ex-Kanzleramtschef Braun: Stiftungsgründung war Sache von Mecklenburg-Vorpommern",
+    "Interview der Woche - Klöckner: \"Wir schränken nicht die Redefreiheit ein, sondern die Pöbelfreiheit\"",
+    "Nach Stadtbild-Äußerung: „Solche Debatten nutzen den Rechtspopulisten“"
   ],
   "hashes": [
-    "c64298611d218a682e3b05596c24aebe",
-    "baecac5c5cce21ab082c04e2b750e775",
     "9e826781f02d6adaa4b091ae897c4281",
     "c46cfbefa13004adf4efe2eeec579465",
     "61243e6c4408ea6fef8c1c3f17fe8541",
@@ -4005,6 +4003,8 @@
     "de63b6dcede2fe38dfd95358bf683efc",
     "125130c5caceed7afcc30dfb26ddf66c",
     "93d4bc3de55d6f07cf4e1a245b7135f8",
-    "a1f43ae6e8a7803643d2356376095de3"
+    "a1f43ae6e8a7803643d2356376095de3",
+    "ac482153537c592dc9bebca737506241",
+    "02015a88d4c663e1c78566cb8ab84420"
   ]
 }
