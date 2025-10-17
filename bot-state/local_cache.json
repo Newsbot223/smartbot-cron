@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neun-fuehrende-europaeische-banken-fuehren-euro-stablecoin-ein-100.html",
-    "https://www.deutschlandfunk.de/spd-politiker-fordern-unterstuetzung-fuer-vorgeschlagene-eu-sanktionen-102.html",
     "https://www.deutschlandfunk.de/zulieferer-bosch-will-weitere-13-000-stellen-streichen-vor-allem-deutsche-standorte-betroffen-100.html",
     "https://www.deutschlandfunk.de/helsing-will-unbemanntes-kampfflugzeug-bauen-102.html",
     "https://www.deutschlandfunk.de/eu-erteilt-zulassung-fuer-weiteres-alzheimer-medikament-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/drogen-vorwuerfe-gegen-csu-buergermeister-in-bayern-110737814.html",
     "https://www.deutschlandfunk.de/buergergeld-reform-bringt-wohl-keine-direkten-einsparungen-100.html",
     "https://www.deutschlandfunk.de/wadephul-fordert-einbeziehung-der-ukraine-in-jegliche-vereinbarung-102.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-sein-stadtbild-aeusserung-gruene-fordern-in-offenem-brief-entschuldigung-a-dbd8acd5-834a-47e9-a404-cdab2af85d69#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-sein-stadtbild-aeusserung-gruene-fordern-in-offenem-brief-entschuldigung-a-dbd8acd5-834a-47e9-a404-cdab2af85d69#ref=rss",
+    "https://www.deutschlandfunk.de/die-schnelle-einbuergerung-wird-wieder-abgeschafft-100.html",
+    "https://www.deutschlandfunk.de/altkanzler-schroeder-verteidigt-bau-von-pipeline-ex-kanzleramtschef-braun-stiftungsgruendung-war-sac-100.html"
   ],
   "content_hashes": [
-    "b32bf59d151a5e2c87330122535a2bcd",
-    "e4c84a91be0d32d9cd1f83b56b45b4fa",
     "08e71bdf8eb02d55c7baf9bde27e2136",
     "125f55bf2ad4f478693825765c76ef72",
     "34833b242c64ccbeaf68a2e4bf3473b1",
@@ -2001,11 +1999,11 @@
     "072944d22eaf15a64d2b42d90e91ab3a",
     "7cd6307854487d6578a6e3d1b41aac8a",
     "7cc06f719ac32293c89ad911fdd3978f",
-    "6db3e363187c11cf27dfe168459fc592"
+    "6db3e363187c11cf27dfe168459fc592",
+    "dcc53d97b440b7ff8283115f785899b6",
+    "05a522de5873e63d2ee136e8bad5547a"
   ],
   "titles": [
-    "Finanzmarkt - Neun führende europäische Banken führen Euro-Stablecoin ein",
-    "Israel - SPD-Politiker fordern Unterstützung für vorgeschlagene EU-Sanktionen",
     "Krise der Autobranche - Zulieferer Bosch will weitere 13.000 Stellen streichen - vor allem deutsche Standorte betroffen",
     "Deutsches Startup - Helsing will unbemanntes Kampfflugzeug bauen",
     "Gesundheit - EU erteilt Zulassung für weiteres Alzheimer-Medikament",
@@ -3003,11 +3001,11 @@
     "Kokain-Fund: Drogen-Vorwürfe gegen CSU-Bürgermeister in Bayern",
     "Aus Bürgergeld wird Grundsicherung - Bürgergeld-Reform bringt wohl keine direkten Einsparungen",
     "Ukraine-Krieg - Wadephul fordert Einbeziehung der Ukraine in jegliche Vereinbarung",
-    "Friedrich Merz und sein »Stadtbild«-Äußerung: Grüne verlangen in offenem Brief Entschuldigung"
+    "Friedrich Merz und sein »Stadtbild«-Äußerung: Grüne verlangen in offenem Brief Entschuldigung",
+    "Bundesrat - Die schnelle Einbürgerung wird wieder abgeschafft",
+    "Nord Stream 2-Pipeline - Altkanzler Schröder verteidigt Bau von Pipeline - Ex-Kanzleramtschef Braun: Stiftungsgründung war Sache von Mecklenburg-Vorpommern"
   ],
   "hashes": [
-    "434e4ad4521e89e559b4b689a1c48e93",
-    "8cc0ae3ef2554944082434a6d93e9283",
     "c64298611d218a682e3b05596c24aebe",
     "baecac5c5cce21ab082c04e2b750e775",
     "9e826781f02d6adaa4b091ae897c4281",
@@ -4005,6 +4003,8 @@
     "98dd30488b856fdce4a6e4558f27b536",
     "7b7006f2d865da8ed4ce3f5c809e0826",
     "de63b6dcede2fe38dfd95358bf683efc",
-    "125130c5caceed7afcc30dfb26ddf66c"
+    "125130c5caceed7afcc30dfb26ddf66c",
+    "93d4bc3de55d6f07cf4e1a245b7135f8",
+    "a1f43ae6e8a7803643d2356376095de3"
   ]
 }
