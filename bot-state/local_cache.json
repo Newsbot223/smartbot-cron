@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-zu-fuenf-jahren-haft-verurteilt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/frank-walter-steinmeier-ueber-hugo-preuss-ein-demokratisches-vorbild-110702940.html",
-    "https://www.deutschlandfunk.de/bundestag-bestaetigt-drei-richter-kandidaten-fuer-bundesverfassungsgericht-100.html",
     "https://www.deutschlandfunk.de/steinmeier-wuerdigt-militaerische-zusammenarbeit-deutschlands-und-der-niederlande-100.html",
     "https://www.faz.net/aktuell/politik/inland/richterwahl-ein-nachmittag-mit-mitmachspirit-110703993.html",
     "https://www.faz.net/aktuell/politik/inland/bundestag-waehlt-drei-neue-richter-fuer-das-bundesverfassungsgericht-110703654.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-und-seine-kritiker-stadtbild-und-merzbild-110737122.html",
     "https://www.deutschlandfunk.de/bundeswehr-schickt-drei-soldaten-nach-israel-100.html",
     "https://www.deutschlandfunk.de/putsch-in-madagaskar-oberst-als-praesident-vereidigt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bevoelkerungsschutz-brauchen-wir-die-alten-bunker-noch-accg-110725898.html"
+    "https://www.faz.net/aktuell/politik/inland/bevoelkerungsschutz-brauchen-wir-die-alten-bunker-noch-accg-110725898.html",
+    "https://www.deutschlandfunk.de/20-staaten-verlangen-mehr-abschiebungen-nach-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/nach-krawallnacht-polizei-ermittelt-gegen-verdaechtige-100.html",
+    "https://www.deutschlandfunk.de/das-crazy-ist-jugendwort-des-jahres-104.html"
   ],
   "content_hashes": [
-    "f91fe733a1f218ae9e49d139c8a993d3",
-    "9edda6ed8ac868c0862cc24d4f45bb2b",
-    "1e7b5d9378050d0ac8955da8a82047e0",
     "b8177878aca35d04226c8c35ef794f86",
     "5420b728dc74a0291f7a35a8bb60f1f1",
     "b8f446dd4b77b5204d53681af082f0b6",
@@ -2001,12 +1998,12 @@
     "282dbcc2f5210a4f7d59b62b6c514422",
     "98e03ec34cb5020ecde822a7826e013b",
     "fc067a9766bc457acffef45fd0a3c6dc",
-    "20654862fcdd9f25f7ae85bcb3316a65"
+    "20654862fcdd9f25f7ae85bcb3316a65",
+    "67bc1173b0dc2cb9c1a24d4c7da1778d",
+    "3f097c9aa6f095c264fce0fdf5fc24c1",
+    "e05d3a696e14d1e7d19ee4897bfb0267"
   ],
   "titles": [
-    "Frankreich - Ex-Präsident Sarkozy zu fünf Jahren Haft verurteilt",
-    "Steinmeier über Hugo Preuß: Gegen Schlappheit und Servilität",
-    "Im zweiten Anlauf - Bundestag bestätigt drei Richter-Kandidaten für Bundesverfassungsgericht",
     "Besuch in Münster - Steinmeier würdigt militärische Zusammenarbeit Deutschlands und der Niederlande",
     "Richterwahl: Ein Nachmittag mit Mitmachspirit",
     "Nach Streit im Sommer: Bundestag wählt drei neue Verfassungsrichter",
@@ -3003,12 +3000,12 @@
     "Empörung über den Kanzler: Stadtbild und Merzbild",
     "Waffenruhe in Gaza - Bundeswehr schickt drei Soldaten nach Israel",
     "Madagaskar - Putschistenführer als Staatschef vereidigt",
-    "Bevölkerungsschutz: Brauchen wir die alten Bunker noch?"
+    "Bevölkerungsschutz: Brauchen wir die alten Bunker noch?",
+    "Brief an EU-Kommission - 20 Staaten verlangen mehr Abschiebungen nach Afghanistan",
+    "Leipzig - Nach Krawallnacht: Polizei ermittelt gegen Verdächtige",
+    "Frankfurter Buchmesse - \"Das crazy\" ist Jugendwort des Jahres"
   ],
   "hashes": [
-    "b615a03da97702db9a2bb6fdf951a9f8",
-    "cbf763eb8dda8677343ed94e1599c690",
-    "7e7d31253134d4713162ac2e5ce60ba5",
     "f5a7c93c8a9ff64a3226340eee1ff939",
     "f1c26d8d1aa83d0abd13d268caa9b40c",
     "b55ba7567e236d600de0dac3b84b2ed1",
@@ -4005,6 +4002,9 @@
     "80ec816c69ee0c2643f4859563c670fc",
     "866b2508d42d00962b94873d499e5d12",
     "81fd7047ccd499f9ac4f562e7fbe8f57",
-    "f9fd5ccd665583f93c815ea5a1270e9f"
+    "f9fd5ccd665583f93c815ea5a1270e9f",
+    "1dd89dd4b905d2761a731055b8da7356",
+    "d64dc6dda20c142963b7a50c31db6d84",
+    "21d9c77ca3274adf9dc1c5c70c136d97"
   ]
 }
