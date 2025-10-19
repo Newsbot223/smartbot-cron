@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrat-fordert-abschaffung-von-begleitetem-trinken-ab-14-jahren-100.html",
-    "https://www.faz.net/aktuell/politik/inland/absage-von-friedman-auftritt-buergermeister-tritt-zurueck-110705060.html",
     "https://www.deutschlandfunk.de/fuenf-jahre-haft-fuer-hanna-s-wegen-angriffen-auf-rechtsextreme-100.html",
     "https://www.deutschlandfunk.de/indien-deutschland-wirbt-nach-drastischer-erhoehung-von-visagebuehren-in-den-usa-verstaerkt-um-arbei-100.html",
     "https://www.deutschlandfunk.de/frankreichs-bauern-protestieren-gegen-geplantes-mercosur-abkommen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/noch-weniger-geschichtsunterricht-in-berlin-110739684.html",
     "https://www.deutschlandfunk.de/drohnensichtung-legt-mallorcas-flughafen-zeitweise-lahm-102.html",
     "https://www.deutschlandfunk.de/ft-bericht-trump-draengte-selenskyj-zur-annahme-russischer-friedensbedingungen-begegnung-verlief-off-100.html",
-    "https://www.deutschlandfunk.de/afd-nicht-erflogreich-bei-buergermeisterwahlen-in-oranienburg-und-bad-freienwalde-100.html"
+    "https://www.deutschlandfunk.de/afd-nicht-erflogreich-bei-buergermeisterwahlen-in-oranienburg-und-bad-freienwalde-100.html",
+    "https://www.deutschlandfunk.de/merz-will-am-vormittag-ergebnisse-praesentieren-104.html",
+    "https://www.deutschlandfunk.de/amtsinhaber-tatar-laut-wahlleitung-weit-abgeschlagen-110.html"
   ],
   "content_hashes": [
-    "98b63d7b33da33bed9028be419ea59c5",
-    "ab8ff0bc91a0b312e6a1a49864df554f",
     "0e1a25060641a49a78cc501dd14c66fe",
     "fe565e3d9b1fbf10043a93cf9cbe3aba",
     "40c34ec81d42a3945bf6b0db20cc2f6b",
@@ -2001,11 +1999,11 @@
     "4b4821144de57fa2f267f4b85f6b3ecb",
     "e96ed920c8cb0b03ad41ade7673400c8",
     "e6345798250d1831c0a29e3653407e95",
-    "c26406569d418de1b1e2d578138634e5"
+    "c26406569d418de1b1e2d578138634e5",
+    "5dacabb1ebeccf0ffbb789faa7bd9ea1",
+    "f9c235d90a539b53f6be5e4a4e9bab7f"
   ],
   "titles": [
-    "Gesundheit - Bundesrat fordert Abschaffung von begleitetem Trinken ab 14 Jahren",
-    "Mecklenburg-Vorpommern: Absage von Friedman-Auftritt: Bürgermeister tritt zurück",
     "München - Fünf Jahre Haft für Hanna S. wegen Angriffen auf Rechtsextreme",
     "Einwanderungspolitik - Indien: Deutschland wirbt nach drastischer Erhöhung von Visagebühren in den USA verstärkt um Arbeitskräfte",
     "Freihandel - Frankreichs Bauern protestieren gegen geplantes Mercosur-Abkommen",
@@ -3003,11 +3001,11 @@
     "Pflicht zur Berufsorientierung: Noch weniger Geschichtsunterricht in Berlin?",
     "Flugverkehr - Drohnensichtung legt Mallorcas Flughafen zeitweise lahm",
     "Nach dem Treffen in Washington - \"FT\"-Bericht: Trump drängte Selenskyj zur Annahme russischer Friedensbedingungen - Begegnung verlief offenbar kontroverser als bislang bekannt",
-    "Brandenburg - AfD nicht erflogreich bei Bürgermeisterwahlen in Oranienburg und Bad Freienwalde"
+    "Brandenburg - AfD nicht erflogreich bei Bürgermeisterwahlen in Oranienburg und Bad Freienwalde",
+    "CDU-Klausurtagung - Merz will am Vormittag Ergebnisse präsentieren",
+    "Präsidentenwahl in Nordzypern - Amtsinhaber Tatar laut Wahlleitung weit abgeschlagen"
   ],
   "hashes": [
-    "3e10f1f4f04d03165d2981a8880ed04b",
-    "909543ecf621de71aaa55249f2df5b6a",
     "ecac7ab427c17316c5bd70db64f68e01",
     "f4c5edca2c1574eecbfd24e16dd9e816",
     "877ee70dd94499497c944dfa2c2caf8c",
@@ -4005,6 +4003,8 @@
     "0fb9e55910ac77da3f540f12d19b2502",
     "ce33a45f6f63ede169c6ded806471217",
     "990d8c21234d1ff91ddf66cc81416762",
-    "ce78fa312945e27986ab850b570dfc54"
+    "ce78fa312945e27986ab850b570dfc54",
+    "de4658d80597e3e51822c818ca69f57b",
+    "afe6e6110f70d8b92fe760f41bb292dc"
   ]
 }
