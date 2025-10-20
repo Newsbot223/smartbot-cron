@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-wirft-ungarn-drohnenfluege-ueber-ukraine-vor-faz-110683325.html",
-    "https://www.deutschlandfunk.de/zwoelf-staaten-wollen-palaestinensische-autonomiebehoerde-finanziell-unterstuetzen-102.html",
     "https://www.spiegel.de/gesundheit/organspende-mehr-als-8000-menschen-in-deutschland-warten-auf-ein-spendeorgan-a-d29c6219-05df-4cd4-a6b7-9fa11c76f87b#ref=rss",
     "https://www.deutschlandfunk.de/usa-entziehen-kolumbiens-praesidenten-petro-das-visum-100.html",
     "https://www.deutschlandfunk.de/neuseeland-will-vorerst-keinen-palaestinensischen-staat-anerkennen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rheinmetall-erhaelt-milliardenauftrag-fuer-radschuetzenpanzer-150-fahrzeuge-fuer-bundeswehr-102.html",
     "https://www.deutschlandfunk.de/razzien-in-kambodscha-und-myanmar-100.html",
     "https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium-a-5b76f059-b499-41e1-bdad-32ab4e02a094#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/warum-papst-leo-milder-als-franziskus-ist-110736495.html"
+    "https://www.faz.net/aktuell/politik/ausland/warum-papst-leo-milder-als-franziskus-ist-110736495.html",
+    "https://www.deutschlandfunk.de/frueherer-cdu-bundestagsabgeordneter-in-muenchen-vor-gericht-100.html",
+    "https://www.deutschlandfunk.de/hunderttausende-arbeitskraefte-zur-bewaeltigung-von-buerokratie-in-firmen-noetig-100.html"
   ],
   "content_hashes": [
-    "f29d64887c45ae3d083c02e17948961a",
-    "cc3cf5176faa9ce4d0e9176bbedeac1a",
     "6aaffc888ee01aa66f4cc0959b214176",
     "00f9abb819ffac7641d28a66a18aa272",
     "81c355898957c19492f636ce4b6404c7",
@@ -2001,11 +1999,11 @@
     "f934537c5b61451ad3d1317779f3d190",
     "f65b4bf8567d972108b6126f9739de96",
     "80abcfa79a5cdd94201ad19e09a8f503",
-    "1c47f2b9a8a7bb51f781fd05a56eecae"
+    "1c47f2b9a8a7bb51f781fd05a56eecae",
+    "92b2ed0b1aa0135e7a25f6373aa6aa90",
+    "58dd0b5e7978d82b95002b76acd52ce3"
   ],
   "titles": [
-    "Krieg in der Ukraine: Selenskyj wirft Ungarn Drohnenflüge über Ukraine vor",
-    "Westjordanland - Zwölf Staaten wollen Palästinensische Autonomiebehörde finanziell unterstützen",
     "Organspende: Mehr als 8000 Menschen in Deutschland warten auf ein Spendeorgan",
     "Nach Äußerungen in New York - USA entziehen Kolumbiens Präsidenten Petro das Visum",
     "Nahost - Neuseeland will vorerst keinen palästinensischen Staat anerkennen",
@@ -3003,11 +3001,11 @@
     "\"Schakal\" - Rheinmetall erhält Milliardenauftrag für Radschützenpanzer - 150 Fahrzeuge für Bundeswehr",
     "Online-Betrug - Razzien in Kambodscha und Myanmar",
     "Altenberg in Sachsen: Staatsschutz ermittelt nach Angriff auf Gymnasium",
-    "Leo XIV.: Der neue Papst ist milder als Franziskus"
+    "Leo XIV.: Der neue Papst ist milder als Franziskus",
+    "Aserbaidschan-Affäre - Früherer CDU-Bundestagsabgeordneter in München vor Gericht",
+    "IAB-Studie - Hunderttausende Arbeitskräfte zur Bewältigung von Bürokratie in Firmen nötig"
   ],
   "hashes": [
-    "9575c22d18d9964ddf376b6548c87154",
-    "ffb22e6f0b47c57bb9e71e27b0da65ce",
     "bdb2598b727ceb2ddb2769f7d3e78cd6",
     "385c876ac599b5a89b753dcfc0a80a0b",
     "72e734b2310c1befee4aa6865318f983",
@@ -4005,6 +4003,8 @@
     "0a7404631535335fe61fe01c32b9eee0",
     "52dbb1d3c7f4c5c07d62cb3f9af0ac19",
     "3a964a0370d286415221c582382c44dd",
-    "5ec42689db61571c1f304ffed0b3d2e8"
+    "5ec42689db61571c1f304ffed0b3d2e8",
+    "dd4a13df57be820d3bf9c80d7af8fd9f",
+    "844e30cec757dd2bfebe039cdde81ebd"
   ]
 }
