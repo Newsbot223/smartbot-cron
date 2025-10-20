@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rainer-elf-millionen-tonnen-lebensmittel-landen-im-muell-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-organspenden-in-deutschland-hat-leicht-zugenommen-102.html",
-    "https://www.deutschlandfunk.de/kommentar-zur-widerspruechlichen-us-aussenpolitik-falsche-signale-foerdern-kriege-100.html",
     "https://www.deutschlandfunk.de/drohnen-ueber-daenemarks-groesstem-militaerstuetzpunkt-gesichtet-100.html",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-veroeffentlicht-endergebnis-des-referendums-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-drohnenangriff-auf-oelpumpstation-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ajatollah-chamenei-weist-trumps-gespraechsangebot-ueber-atomprogramm-zurueck-102.html",
     "https://www.deutschlandfunk.de/vogelgrippe-breitet-sich-in-deutschland-stark-aus-102.html",
     "https://www.deutschlandfunk.de/signa-gruender-benko-wehrt-sich-gegen-haftstrafe-100.html",
-    "https://www.deutschlandfunk.de/kallas-widerspricht-trumps-vorstoss-donbass-fuer-frieden-zu-zerteilen-100.html"
+    "https://www.deutschlandfunk.de/kallas-widerspricht-trumps-vorstoss-donbass-fuer-frieden-zu-zerteilen-100.html",
+    "https://www.deutschlandfunk.de/israel-greift-erneut-ziele-im-libanon-an-100.html",
+    "https://www.deutschlandfunk.de/merz-deutschland-offen-fuer-zuwanderung-100.html",
+    "https://www.deutschlandfunk.de/stoerungen-bei-cloudanbietern-dauern-an-100.html"
   ],
   "content_hashes": [
-    "ac03da28c65c87f634217aff91a13039",
-    "1c73199373e0e9e7be2b4b83b45a9393",
-    "5bfd5afe0379d48258943168b478738a",
     "29608e413622ded84f255f6fc22d21b8",
     "5ec17707f63f99f467a078008a1172a8",
     "057d4c6ea80de6c922297e296702c9e4",
@@ -2001,12 +1998,12 @@
     "6c15a64e2b0ffe42fbab7e692e1da366",
     "44fb8b8936bcc5cd92dd4380cd5710dd",
     "88d10f7b77550c87ed7c2454c4ba06fb",
-    "40ce15fc916a410aa6b7221a1b027afa"
+    "40ce15fc916a410aa6b7221a1b027afa",
+    "824d65b8cf4cb7d41976c0ff92d4bf5a",
+    "0282a72d201de5d3f79254229b702d04",
+    "35ab07ca33e0db47914035f552de9f3a"
   ],
   "titles": [
-    "Aktionswoche - Rainer: Elf Millionen Tonnen Lebensmittel landen im Müll",
-    "Medizin - Zahl der Organspenden in Deutschland hat leicht zugenommen",
-    "Kommentar - Falsche Signale in der US-Außenpolitik fördern Kriege",
     "Luftraum-Verletzungen - Drohnen über Dänemarks größtem Militärstützpunkt gesichtet",
     "Guinea - Oberster Gerichtshof veröffentlicht Endergebnis des Referendums",
     "Russland - Ukrainischer Drohnenangriff auf Ölpumpstation",
@@ -3003,12 +3000,12 @@
     "Iran - Ajatollah Chamenei weist Trumps Gesprächsangebot über Atomprogramm zurück",
     "Friedrich-Loeffler-Institut - Vogelgrippe breitet sich in Deutschland stark aus",
     "Innsbruck - Signa-Gründer Benko wehrt sich gegen Haftstrafe",
-    "Ukraine-Krieg - Kallas widerspricht Trumps Vorstoß, Donbass für Frieden zu \"zerteilen\""
+    "Ukraine-Krieg - Kallas widerspricht Trumps Vorstoß, Donbass für Frieden zu \"zerteilen\"",
+    "Nahost - Israel greift erneut Ziele im Libanon an",
+    "Arbeitsmarkt - Merz: Deutschland offen für Zuwanderung",
+    "Amazon AWS - Störungen bei Cloudanbietern dauern an"
   ],
   "hashes": [
-    "f2c4e0acc8e77ddcf3a75801df690b8f",
-    "500b3c9794e7c5f0e3d85b18bb711378",
-    "f45ef99d2ec7761308ccadaa70f75cfc",
     "f102312c18d34b91f1b7ed42bca8680b",
     "5671f2f95d40906cd13ca9938047bfe3",
     "fc6e901367e9d58143a266febd69a7be",
@@ -4005,6 +4002,9 @@
     "35f57ad8df54e3b65eb697ea416992ce",
     "e348ecf488f2df1ed96f7d4f896b3bf7",
     "f881eae93618673ff10226da05d71bfd",
-    "d24202ef4d062a5f08735a6765b16106"
+    "d24202ef4d062a5f08735a6765b16106",
+    "92f536fc50e90faebd2223b80e64b788",
+    "b962e7a1259ee797708afc7169287865",
+    "62345fe42b54d3fea3d3cf58d105e1e3"
   ]
 }
