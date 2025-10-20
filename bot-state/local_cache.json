@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/medienbericht-bundesregierung-treibt-plaene-fuer-aktivrente-voran-100.html",
-    "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-wegen-israels-militaeroffensive-vorerst-aus-100.html",
     "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-drogenproblematik-und-wirtsc-100.html",
     "https://www.faz.net/aktuell/politik/ausland/moskaus-drohnen-luftkaempfe-ueber-nato-gebiet-sind-keine-loesung-110704880.html",
     "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-enormen-druck-aus-moskau-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/designer-rudolf-horn-ist-tot-102.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-fordert-rueckkehr-zu-strengeren-regeln-102.html",
     "https://www.deutschlandfunk.de/ich-habe-gar-nichts-zurueckzunehmen-100.html",
-    "https://www.deutschlandfunk.de/trump-will-anfang-2026-nach-china-reisen-102.html"
+    "https://www.deutschlandfunk.de/trump-will-anfang-2026-nach-china-reisen-102.html",
+    "https://www.deutschlandfunk.de/sanierungskonzept-fuer-db-cargo-offenbar-ungeeignet-102.html",
+    "https://www.deutschlandfunk.de/wahlsieger-paz-will-sein-land-oeffnen-100.html"
   ],
   "content_hashes": [
-    "11b07aa3cc583d6b23eccbf38ed969f5",
-    "2b51c1d1d1401ebc957d3e009f4145ed",
     "82e07a518d163951d51b68783671dd17",
     "3ef9c5b6453915f3442cd587a1e6075a",
     "72659df7d5d6c1a9532512f6ac65ae5b",
@@ -2001,11 +1999,11 @@
     "86c4d3400d5b2f09e53ccc1d8d22f4dd",
     "6dd906e6e0e3f944c7b5ae144ef82a88",
     "229ea009294f746b3e06865f52a795fd",
-    "d92bd3930fdb4005fd78da513c8eb1d6"
+    "d92bd3930fdb4005fd78da513c8eb1d6",
+    "ee132d840e3dfc9cab6976fad2eb8774",
+    "48bb014d552ee325c483ad93e4461eea"
   ],
   "titles": [
-    "Sozialpolitik - Medienbericht: Bundesregierung treibt Pläne für Aktivrente voran",
-    "Nahost - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt wegen Israels Militäroffensive vorerst aus",
     "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden - Drogenproblematik und Wirtschaft im Fokus der Kandidaten",
     "Russische Provokationen: Luftkämpfe über NATO-Gebiet sind keine Lösung",
     "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt \"enormen Druck aus Moskau\"",
@@ -3003,11 +3001,11 @@
     "Schöpfer des MDW-Möbelprogramms - Designer Rudolf Horn ist tot",
     "Cannabis - Drogenbeauftragter Streeck fordert Rückkehr zu strengeren Regeln",
     "Merz zu \"Stadtbild\"-Äußerung - \"Ich habe gar nichts zurückzunehmen\"",
-    "Staatsbesuch geplant - Trump will Anfang 2026 nach China reisen"
+    "Staatsbesuch geplant - Trump will Anfang 2026 nach China reisen",
+    "Gutachten - Sanierungskonzept für DB Cargo offenbar ungeeignet",
+    "Präsidentschaftswahl in Bolivien - Wahlsieger Paz will sein Land öffnen"
   ],
   "hashes": [
-    "ecc5b6795293fbe55cbb65aa1bced002",
-    "6afee8a5891acb20687d74336c79727b",
     "1d7a695e4d7cd5ba8dfe8437ccc144c3",
     "5c54c3422515c175f9d92f58a921a4be",
     "894da62f41879b6e0e4cb47d0b01925d",
@@ -4005,6 +4003,8 @@
     "ab3cd25b59e9d2674dfcac8bf856bace",
     "2fccc2077426f2c04f6713fc8aef462c",
     "21201146b6b57d025daebbb044655aca",
-    "9a339a2ba65a4fe8b0d471f1568188dd"
+    "9a339a2ba65a4fe8b0d471f1568188dd",
+    "7df5e7eeb36c3a7e64780541753e792c",
+    "3b0b1052f347c2cfc715d828205bf194"
   ]
 }
