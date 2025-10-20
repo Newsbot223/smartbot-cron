@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kontrollen-gegen-schrottimmobilien-und-sozialbetrug-100.html",
-    "https://www.deutschlandfunk.de/feuergefahr-bmw-ruft-weltweit-hunderttausende-autos-zurueck-100.html",
-    "https://www.faz.net/aktuell/politik/inland/prozess-gegen-hanna-s-fuenf-jahre-haft-fuer-linksextremistin-110704559.html",
     "https://www.deutschlandfunk.de/netanjahu-spricht-vor-den-vereinten-nationen-dutzende-delegierte-verlassen-den-saal-100.html",
     "https://www.deutschlandfunk.de/landgericht-berlin-afd-muss-geschaeftsstelle-2026-raeumen-100.html",
     "https://www.faz.net/aktuell/politik/manoever-in-hamburg-teile-der-militaeruebung-sind-inzwischen-realitaet-110705730.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/afd-nicht-erfolgreich-bei-buergermeisterwahlen-in-oranienburg-und-bad-freienwalde-100.html",
     "https://www.deutschlandfunk.de/nordzypern-oppositionskandidat-gewinnt-praesidentschaftswahl-von-erdogan-unterstuetzter-amtsinhaber--100.html",
     "https://www.deutschlandfunk.de/stichwahl-in-bolivien-christdemokrat-paz-gewinnt-praesidentschaftswahl-100.html",
-    "https://www.spiegel.de/politik/bedrohung-aus-russland-deutschland-und-island-vereinbaren-engere-militaerkooperation-a-844c388d-9919-4204-8b4f-890730516e47#ref=rss"
+    "https://www.spiegel.de/politik/bedrohung-aus-russland-deutschland-und-island-vereinbaren-engere-militaerkooperation-a-844c388d-9919-4204-8b4f-890730516e47#ref=rss",
+    "https://www.deutschlandfunk.de/ukraine-krieg-trump-draengt-auf-waffenstillstand-an-aktueller-frontlinie-100.html",
+    "https://www.deutschlandfunk.de/thyssenkrupp-marine-systems-ab-heute-an-der-boerse-gehandelt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/debatte-um-wehrpflicht-prominente-gruene-wollen-verpflichtendes-gesellschaftsjahr-accg-110740087.html"
   ],
   "content_hashes": [
-    "9158868d1e164307ce851ea21c5b6a80",
-    "e5855cf9ada04df8a651973fc7e315e9",
-    "a96d71a65885279e3cf2eb555018162d",
     "af789c76c7cc11f78b7b8bc46e30c2be",
     "a948a56be45bf8b89b88c2ad469aacac",
     "dd08d2a6cc5d53af144f7ef5e1de4bc3",
@@ -2001,12 +1998,12 @@
     "433fb87a0a767c0f4841b2e3cec18796",
     "8564a2a335c90e7a9906b7e3cb78989d",
     "9c733010831e3082da6666aa5a5dad2b",
-    "f47cfcd3c805db419d509bf8a9838cfd"
+    "f47cfcd3c805db419d509bf8a9838cfd",
+    "dd235cad7c642ea36dc5e953b4224f4b",
+    "1c3dea8a9aa050029e42ce853eb54f87",
+    "b52933898fae5c72ee9e3b5d67e8cc72"
   ],
   "titles": [
-    "Nordrhein-Westfalen - Kontrollen gegen Schrottimmobilien und Sozialbetrug",
-    "Automobilbranche - Feuergefahr: BMW ruft weltweit hunderttausende Autos zurück",
-    "Oberlandesgericht München: Fünf Jahre Haft für Linksextremistin Hanna S.",
     "New York - Netanjahu spricht vor den Vereinten Nationen - Dutzende Delegierte verlassen den Saal",
     "Kündigung nach Party - AfD muss 2026 mit ihrer Geschäftsstelle umziehen",
     "Manöver in Hamburg: Teile der Militärübung sind inzwischen Realität",
@@ -3003,12 +3000,12 @@
     "Brandenburg - AfD nicht erfolgreich bei Bürgermeisterwahlen in Oranienburg und Bad Freienwalde",
     "Geteilte Insel - Nordzypern: Oppositionskandidat gewinnt Präsidentschaftswahl - von Erdogan unterstützter Amtsinhaber abgewählt",
     "Politischer Richtungswechsel - Stichwahl in Bolivien: Christdemokrat Paz gewinnt Präsidentschaftswahl",
-    "Bedrohung aus Russland: Deutschland und Island vereinbaren engere Militärkooperation"
+    "Bedrohung aus Russland: Deutschland und Island vereinbaren engere Militärkooperation",
+    "Nach Treffen mit Selenskyj - Ukraine-Krieg: Trump drängt auf Waffenstillstand an aktueller Frontlinie",
+    "Abspaltung vom Mutterkonzern - \"Thyssenkrupp Marine Systems\" ab heute an der Börse gehandelt",
+    "Debatte um Wehrpflicht: Prominente Grüne fordern verpflichtendes Gesellschaftsjahr"
   ],
   "hashes": [
-    "6a8a42199ca0a10ea46081557ff4f2d9",
-    "cfe617acc7186915a2f3852ac840c5df",
-    "c168468a3cfb4ef06167089296322695",
     "028172901f86061bfd81fa4d30e0eee9",
     "4c45e019f18af916f12604076d8446f4",
     "a3dcfea79d46e08208827d4a9542a37e",
@@ -4005,6 +4002,9 @@
     "075344ff229f4b0217efa5529883c3e3",
     "ca0fdff4334dc659e41a2985a066f2af",
     "7132e3fbeb31f5eac63b7d6441eb0a4d",
-    "3f44fc821783b842a9b4f071a10f909b"
+    "3f44fc821783b842a9b4f071a10f909b",
+    "1849d7dad56c63ca52b80d99cfc7dd0d",
+    "5aea93234fef80ed2f72d22483817b4b",
+    "cbe10ef28923d90d6e7730601b809c00"
   ]
 }
