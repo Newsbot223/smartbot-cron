@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-enormen-druck-aus-moskau-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-treibt-plaene-fuer-aktivrente-voran-kritik-von-der-caritas-100.html",
     "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-100.html",
     "https://www.deutschlandfunk.de/iran-sanktionen-kommen-zurueck-interview-mit-nahost-experte-michael-lueders-100.html",
     "https://www.spiegel.de/ausland/daenemark-neue-drohnen-sichtungen-dieses-mal-ueber-militaerstuetzpunkt-karup-air-base-a-ffbb78f9-2ffe-48c5-aac6-a2927dc9d0d2#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sanierungskonzept-fuer-db-cargo-offenbar-ungeeignet-102.html",
     "https://www.deutschlandfunk.de/wahlsieger-paz-will-sein-land-oeffnen-100.html",
     "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html",
-    "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html"
+    "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html",
+    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-heute-seine-haftstrafe-an-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wird-in-oesterreich-erwartet-100.html"
   ],
   "content_hashes": [
-    "72659df7d5d6c1a9532512f6ac65ae5b",
-    "3aaa7800ca040c76a5ef85a827d6c3a0",
     "4b820eda8f92022e3812c97e9ffc3643",
     "eff4ebf2be9a1916ee837110669335ac",
     "e0bf137ebfcc6413e3642de9129879fd",
@@ -2001,11 +1999,11 @@
     "ee132d840e3dfc9cab6976fad2eb8774",
     "48bb014d552ee325c483ad93e4461eea",
     "3cd262b0cd537d901530ffb8e8247abf",
-    "6a1378f8e66f0b852c0f25b209aa890c"
+    "6a1378f8e66f0b852c0f25b209aa890c",
+    "6ead7bf95166e1e33d12aa4b40316cdf",
+    "6c358a689ed8a58b506d17a0970a1db5"
   ],
   "titles": [
-    "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt \"enormen Druck aus Moskau\"",
-    "Medienbericht - Bundesregierung treibt Pläne für Aktivrente voran - Kritik von der Caritas",
     "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden",
     "Sanktionen gegen Iran - Politologe Lüders: \"Es gibt kein Vertrauen mehr, auf beiden Seiten\"",
     "Dänemark: Neue Drohnen-Sichtungen – dieses Mal über Militärstützpunkt Karup Air Base",
@@ -3003,11 +3001,11 @@
     "Gutachten - Sanierungskonzept für DB Cargo offenbar ungeeignet",
     "Präsidentschaftswahl in Bolivien - Wahlsieger Paz will sein Land öffnen",
     "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde",
-    "Amazon AWS - Störung bei Cloudanbieter behoben"
+    "Amazon AWS - Störung bei Cloudanbieter behoben",
+    "Frankreich - Ex-Präsident Sarkozy tritt heute seine Haftstrafe an",
+    "Staatsbesuch - Bundespräsident Steinmeier wird in Österreich erwartet"
   ],
   "hashes": [
-    "894da62f41879b6e0e4cb47d0b01925d",
-    "a42d86f083547b890307a0b85d217166",
     "f1ad6be77b97ee6fdb45bc33618aa363",
     "d2fcf2252a8b48623ea990e3fa5f27d7",
     "d3db054c028e0a1acdad9248eac2e8dd",
@@ -4005,6 +4003,8 @@
     "7df5e7eeb36c3a7e64780541753e792c",
     "3b0b1052f347c2cfc715d828205bf194",
     "25529709b4c3ea20ec2bd3c294f4d00a",
-    "208766d07c28638b1f44f257a20060be"
+    "208766d07c28638b1f44f257a20060be",
+    "8cd925ef3c16c196a9a3db664c7f6700",
+    "14fc64d79e2cd7bd312915c5618fb2a9"
   ]
 }
