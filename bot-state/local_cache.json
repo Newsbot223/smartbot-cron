@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/moskaus-drohnen-luftkaempfe-ueber-nato-gebiet-sind-keine-loesung-110704880.html",
     "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-enormen-druck-aus-moskau-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-treibt-plaene-fuer-aktivrente-voran-kritik-von-der-caritas-100.html",
     "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/trump-will-anfang-2026-nach-china-reisen-102.html",
     "https://www.deutschlandfunk.de/sanierungskonzept-fuer-db-cargo-offenbar-ungeeignet-102.html",
     "https://www.deutschlandfunk.de/wahlsieger-paz-will-sein-land-oeffnen-100.html",
-    "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html"
+    "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html",
+    "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html"
   ],
   "content_hashes": [
-    "3ef9c5b6453915f3442cd587a1e6075a",
     "72659df7d5d6c1a9532512f6ac65ae5b",
     "3aaa7800ca040c76a5ef85a827d6c3a0",
     "4b820eda8f92022e3812c97e9ffc3643",
@@ -2001,10 +2000,10 @@
     "d92bd3930fdb4005fd78da513c8eb1d6",
     "ee132d840e3dfc9cab6976fad2eb8774",
     "48bb014d552ee325c483ad93e4461eea",
-    "3cd262b0cd537d901530ffb8e8247abf"
+    "3cd262b0cd537d901530ffb8e8247abf",
+    "6a1378f8e66f0b852c0f25b209aa890c"
   ],
   "titles": [
-    "Russische Provokationen: Luftkämpfe über NATO-Gebiet sind keine Lösung",
     "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt \"enormen Druck aus Moskau\"",
     "Medienbericht - Bundesregierung treibt Pläne für Aktivrente voran - Kritik von der Caritas",
     "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden",
@@ -3003,10 +3002,10 @@
     "Staatsbesuch geplant - Trump will Anfang 2026 nach China reisen",
     "Gutachten - Sanierungskonzept für DB Cargo offenbar ungeeignet",
     "Präsidentschaftswahl in Bolivien - Wahlsieger Paz will sein Land öffnen",
-    "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde"
+    "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde",
+    "Amazon AWS - Störung bei Cloudanbieter behoben"
   ],
   "hashes": [
-    "5c54c3422515c175f9d92f58a921a4be",
     "894da62f41879b6e0e4cb47d0b01925d",
     "a42d86f083547b890307a0b85d217166",
     "f1ad6be77b97ee6fdb45bc33618aa363",
@@ -4005,6 +4004,7 @@
     "9a339a2ba65a4fe8b0d471f1568188dd",
     "7df5e7eeb36c3a7e64780541753e792c",
     "3b0b1052f347c2cfc715d828205bf194",
-    "25529709b4c3ea20ec2bd3c294f4d00a"
+    "25529709b4c3ea20ec2bd3c294f4d00a",
+    "208766d07c28638b1f44f257a20060be"
   ]
 }
