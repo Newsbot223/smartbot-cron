@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wiesn-gelaende-wegen-ueberfuellung-zeitweise-geschlossen-kritik-am-sicherheitskonzept-100.html",
-    "https://www.deutschlandfunk.de/monheim-muss-autonomfahrende-e-bus-linie-vorerst-einstellen-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-prueft-offenbar-abschaffung-des-pflegegrads-100.html",
     "https://www.deutschlandfunk.de/gabun-hat-zwei-jahre-nach-putsch-parlaments-und-kommunalwahlen-abgehalten-100.html",
     "https://www.deutschlandfunk.de/verband-der-automobilindustrie-fordert-verlaengerung-der-kfz-steuerbefreiung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/senat-beschliesst-umstrittene-regelabfrage-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-lehnt-hilfsangebot-fuer-kinder-aus-gaza-ab-102.html",
     "https://www.deutschlandfunk.de/us-amerikaner-gewinnt-den-chopin-wettbewerb-102.html",
-    "https://www.deutschlandfunk.de/chinas-handelsminister-wang-kommt-zu-gespraechen-ueber-seltene-erden-nach-bruessel-100.html"
+    "https://www.deutschlandfunk.de/chinas-handelsminister-wang-kommt-zu-gespraechen-ueber-seltene-erden-nach-bruessel-100.html",
+    "https://www.deutschlandfunk.de/baldiges-treffen-von-trump-und-putin-nicht-mehr-zu-erwarten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ki-zentrum-heilbronn-merz-und-kretschmann-foerdern-innovation-110742777.html"
   ],
   "content_hashes": [
-    "5afe7f093a428c5d2fc5fb287f53f57d",
-    "d5d970b6520345493a072d80558e99bc",
     "86f627c6147c9ab5808cc8c78518c9a6",
     "f3da2b2b3449e0c8d85d0421a146fc58",
     "3e6c30124eae002090ebb537d143b784",
@@ -2001,11 +1999,11 @@
     "c29c46ff8508c07b413a01bd8f2dfada",
     "135924ff33b8e48bbc57c8355448f8b7",
     "053171072511c1128d77ea148a0ba9ba",
-    "2f0a3c4b7fc15f9dca696926f2640f57"
+    "2f0a3c4b7fc15f9dca696926f2640f57",
+    "669a38baa41cf6b47b97ee24a5599633",
+    "0fa9f4c19bc68f4342d8a915dc68db67"
   ],
   "titles": [
-    "Oktoberfest - Wiesn-Gelände wegen Überfüllung zeitweise geschlossen - Kritik am Sicherheitskonzept",
-    "Verkehr - Monheim muss autonomfahrende E-Bus-Linie vorerst einstellen",
     "Sozialstaat - Bundesregierung prüft offenbar Abschaffung des Pflegegrads 1",
     "Zentralafrika - Gabun hat zwei Jahre nach Putsch Parlaments- und Kommunalwahlen abgehalten",
     "Elektroautos - Verband der Automobilindustrie fordert Verlängerung der Kfz-Steuerbefreiung",
@@ -3003,11 +3001,11 @@
     "Hamburg - Senat beschließt umstrittene Regelabfrage",
     "Initiative von Hannover - Bundesregierung lehnt Hilfsangebot für Kinder aus Gaza ab",
     "Warschau - US-Amerikaner gewinnt den Chopin-Wettbewerb",
-    "Einladung angenommen - Chinas Handelsminister Wang kommt zu Gesprächen über Seltene Erden nach Brüssel"
+    "Einladung angenommen - Chinas Handelsminister Wang kommt zu Gesprächen über Seltene Erden nach Brüssel",
+    "Krieg gegen die Ukraine - Baldiges Treffen von Trump und Putin nicht mehr zu erwarten",
+    "Kretschmann empfängt Merz: „Wir haben nur eine Chance, wenn wir die Technologieführerschaft haben“"
   ],
   "hashes": [
-    "e747b90cd4209e1af651e1844a696ae8",
-    "68906c2781bdad0a87e8d6c582d1fbb4",
     "5d390cca3b05367dda8706f3bd70aaf5",
     "c5d0a6692204f859816507e0c5058dc2",
     "a9ec96bd3403b66e3d3ee691ec1a6e7c",
@@ -4005,6 +4003,8 @@
     "d6907b0027c2219f42ba314fc923d7dd",
     "2a6f7dfb5e79c248855b501d9ac9c85b",
     "75d1da6b5c8caa03dd181e155ff93185",
-    "20375075e2356b488755b2abdef50ec8"
+    "20375075e2356b488755b2abdef50ec8",
+    "e8695c633222655981980109dbb165ef",
+    "d887a0c2f3361fc54be6da2b55a0c138"
   ]
 }
