@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verband-der-automobilindustrie-fordert-verlaengerung-der-kfz-steuerbefreiung-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/berlin-weitere-proteste-gegen-gaza-krieg-nach-grossdemo-geplant-a-08c05553-ee6a-435f-a098-2c946a97f4de#ref=rss",
     "https://www.deutschlandfunk.de/britischer-premier-starmer-schwoert-labour-auf-auseinandersetzung-mit-rechtspopulisten-ein-100.html",
     "https://www.deutschlandfunk.de/tote-fische-an-ostsee-straenden-in-rostock-angeschwemmt-stadt-richtet-krisenstab-ein-100.html",
     "https://www.deutschlandfunk.de/spd-gegen-abschaffung-des-pflegegrads-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/baldiges-treffen-von-trump-und-putin-nicht-mehr-zu-erwarten-100.html",
     "https://www.faz.net/aktuell/politik/inland/ki-zentrum-heilbronn-merz-und-kretschmann-foerdern-innovation-110742777.html",
     "https://www.deutschlandfunk.de/polizeigewerkschafter-unterstuetzt-merz-aussage-rund-2-000-menschen-bei-protestkundgebung-wir-sind-d-102.html",
-    "https://www.deutschlandfunk.de/grossbritannien-streicht-syrische-hts-von-terrorliste-102.html"
+    "https://www.deutschlandfunk.de/grossbritannien-streicht-syrische-hts-von-terrorliste-102.html",
+    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-noch-heute-zu-besuch-in-washington-erwartet-100.html",
+    "https://www.deutschlandfunk.de/merz-macron-und-meloni-fordern-kurswechsel-der-eu-zu-mehr-wettbewerbsfaehigkeit-100.html"
   ],
   "content_hashes": [
-    "3e6c30124eae002090ebb537d143b784",
-    "704a05ff919624b690c900ebbc44d1cb",
     "c2c537058e725f5082e0a3e0692b3376",
     "39d7527cabb6e1aa98aefa70377f0460",
     "a623faf9f26e71ac9cb616b39ee4b3ee",
@@ -2001,11 +1999,11 @@
     "669a38baa41cf6b47b97ee24a5599633",
     "0fa9f4c19bc68f4342d8a915dc68db67",
     "12d96d56caabeee183aa273a24d0d39d",
-    "4c2f5896b5c398ba54f8fc9a9e984fd5"
+    "4c2f5896b5c398ba54f8fc9a9e984fd5",
+    "dbfcdc2537a6e4a42c5fa16b9e8e4920",
+    "39d0f8d96d8b532e693d877c77c6e892"
   ],
   "titles": [
-    "Elektroautos - Verband der Automobilindustrie fordert Verlängerung der Kfz-Steuerbefreiung",
-    "Berlin: Weitere Proteste gegen Gaza-Krieg nach Großdemo geplant",
     "Parteitag in Liverpool - Britischer Premier Starmer schwört Labour auf Auseinandersetzung mit Rechtspopulisten ein",
     "Sauerstoffmangel im Meer? - Tote Fische an Ostsee-Stränden in Rostock angeschwemmt - Stadt richtet Krisenstab ein",
     "Sozialstaat - SPD gegen Abschaffung des Pflegegrads 1",
@@ -3003,11 +3001,11 @@
     "Krieg gegen die Ukraine - Baldiges Treffen von Trump und Putin nicht mehr zu erwarten",
     "Kretschmann empfängt Merz: „Wir haben nur eine Chance, wenn wir die Technologieführerschaft haben“",
     "\"Stadtbild\"-Debatte - Polizeigewerkschafter unterstützt Merz' Aussage - Rund 2.000 Menschen bei Protestkundgebung \"Wir sind die Töchter\"",
-    "London - Großbritannien streicht syrische HTS von Terrorliste"
+    "London - Großbritannien streicht syrische HTS von Terrorliste",
+    "Kurzfristige Reise - NATO-Generalsekretär Rutte noch heute zu Besuch in Washington erwartet",
+    "Vor Gipfel in Brüssel - Merz, Macron und Meloni fordern Kurswechsel der EU zu mehr Wettbewerbsfähigkeit"
   ],
   "hashes": [
-    "a9ec96bd3403b66e3d3ee691ec1a6e7c",
-    "530a3c14a1346bf648adc502cc7dc540",
     "ab2229fcba2a2fa303a0abb71b62b94f",
     "be9c33c127461d785b7b22dc3d3b48bb",
     "0b80bf0c305d71b407a942cbc5c6e08e",
@@ -4005,6 +4003,8 @@
     "e8695c633222655981980109dbb165ef",
     "d887a0c2f3361fc54be6da2b55a0c138",
     "095709c5d4773d359f4bcdfda8feec6a",
-    "f19c4bb428caedb3f970d56b276bb073"
+    "f19c4bb428caedb3f970d56b276bb073",
+    "ae0a030aa9a8ea9c86c370516e72065e",
+    "4394afba775d6b66adec20326a327ad8"
   ]
 }
