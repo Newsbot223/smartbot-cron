@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nato-beraet-reaktion-auf-wiederholte-drohnenueberfluege-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/berlin-und-duesseldorf-zehntausende-bei-gaza-demo-110706827.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-es-geht-donald-trump-nur-um-sein-ego-110704879.html",
-    "https://www.deutschlandfunk.de/nato-verstaerkt-praesenz-in-der-ostsee-120.html",
     "https://www.spiegel.de/politik/deutschland/in-berlin-wird-klar-dass-der-krieg-in-gaza-deutschland-geteilt-hat-a-63757b70-1f0d-4b85-8b18-3a2a8edda4fd#ref=rss",
     "https://www.deutschlandfunk.de/zehntausende-in-berlin-bei-demonstration-und-kundgebung-gegen-krieg-im-gazastreifen-108.html",
     "https://www.deutschlandfunk.de/parlamentswahl-in-moldau-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/ldp-chefin-takaichi-zur-ersten-regierungschefin-des-landes-ernannt-102.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-broeckelt-die-brandmauer-der-cdu-gegenueber-der-afd-100.html",
     "https://www.faz.net/aktuell/politik/inland/wehrdienst-oder-gesellschaftsjahr-niklas-wagener-von-den-gruenen-im-interview-accg-110741253.html",
-    "https://www.deutschlandfunk.de/europaeische-staats-und-regierungschefs-frontverlauf-fuer-beginn-von-verhandlungen-einfrieren-100.html"
+    "https://www.deutschlandfunk.de/europaeische-staats-und-regierungschefs-frontverlauf-fuer-beginn-von-verhandlungen-einfrieren-100.html",
+    "https://www.deutschlandfunk.de/verdi-12-000-beschaeftigten-von-us-militaer-in-deutschland-drohen-gehaltsausfaelle-100.html",
+    "https://www.deutschlandfunk.de/umweltorganisation-urgewald-prangert-ausbau-von-kohlechemie-an-104.html",
+    "https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/cannabisgesetz-die-aergsten-auswuechse-beschneiden-110741234.html"
   ],
   "content_hashes": [
-    "5288eb6ce9dc8328837407847a5885e7",
-    "6b3ca4484a12eddfbf595d26e24873c7",
-    "fba3a6ebac51bd95c6ea82c7bf1046e2",
-    "7695cb4fe7140bf1ff2acf8a1bd620f3",
     "77506e5331e523bba6c34ac12b7ad348",
     "dba3cedf4e06aab1a4e5885f49e61e7e",
     "8831b34a36ee2f12a8cdbd339ca64c03",
@@ -2001,13 +1997,13 @@
     "ca240effc7b44661ff1ff3bc4c2e030d",
     "6ad08a4c51ee1c70738ba74b16265d24",
     "30d1108cd0a821c3319b0b46a99c4dde",
-    "2776e4b1af0fb687b661ade6fa89e228"
+    "2776e4b1af0fb687b661ade6fa89e228",
+    "e5f2b000b6662332617ee4901075383f",
+    "72033e6516bd67f810c3ebc8f9a13cc1",
+    "96a75e142fbb2bd6cf49f83a47a8ffb2",
+    "27a551b8234166ba25853f4e1c014365"
   ],
   "titles": [
-    "Luftraumverletzungen - NATO berät Reaktion auf wiederholte Drohnenüberflüge",
-    "Kundgebung in Berlin: Zehntausende demonstrieren für Gaza",
-    "Ego des US-Präsidenten: Kann man Trump noch ernst nehmen?",
-    "Luftraumverletzungen - NATO verstärkt Präsenz in der Ostsee",
     "Palästina-Demo: In Berlin wird klar, dass der Krieg in Gaza Deutschland geteilt hat",
     "\"All Eyes on Gaza\" - Zehntausende in Berlin bei Demonstration und Kundgebung gegen Krieg im Gazastreifen",
     "Ex-Sowjetrepublik - Parlamentswahl in Moldau",
@@ -3003,13 +2999,13 @@
     "Japan - LDP-Chefin Takaichi zur ersten Regierungschefin des Landes ernannt",
     "Umgang mit der AfD - Bröckelt die Brandmauer der CDU?",
     "Grünen-Politiker Wagener: „Keiner will eine Rückkehr zu einer altbackenen Wehrpflicht“",
-    "Ukraine-Krieg - Europäische Staats- und Regierungschefs: Frontverlauf für Beginn von Verhandlungen einfrieren"
+    "Ukraine-Krieg - Europäische Staats- und Regierungschefs: Frontverlauf für Beginn von Verhandlungen einfrieren",
+    "US-Haushaltssperre - Verdi: 12.000 Beschäftigten von US-Militär in Deutschland drohen Gehaltsausfälle",
+    "Erderwärmung - Umweltorganisation \"Urgewald\" prangert Ausbau von Kohlechemie an",
+    "Shutdown USA: Ver.di fordert Gehaltszahlung für Beschäftigte der US-Streitkräfte in Deutschland",
+    "Cannabisgesetz: Die ärgsten Auswüchse beschneiden"
   ],
   "hashes": [
-    "abb6c95729fcf6645ecd8b9767794226",
-    "df38082ab9e8460663306dcad40402ed",
-    "6a06f6e527882f1831df00943e1f998e",
-    "84f60841b69f9a50a7e90fe8e78f789e",
     "f1cbf339b90abe2109e3992719d4012e",
     "b328fb632eef01f1596ba741dc037cea",
     "a3d196126dd99bc244bf04e77a0bcb1f",
@@ -4005,6 +4001,10 @@
     "dbcdbdf00aac29f7ccf36adc5d613379",
     "97b18c6ccb3a7684da2f6c8b80aa0ae8",
     "61fbb41c02c8f07a4e63b6330710f845",
-    "be4b605b90c3aafd2dc629354723e5ac"
+    "be4b605b90c3aafd2dc629354723e5ac",
+    "467aacaa2f8ab2ebbc797dee6e9517fa",
+    "7fa01b832389418ad00d91e46c00843d",
+    "e09252468fd5f7f2b007d58c172c7b74",
+    "333acd44206f17e0b5a8a8762a24a767"
   ]
 }
