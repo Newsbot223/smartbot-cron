@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-ordnet-einsatz-von-militaer-in-portland-an-angebliche-belagerung-durch-antifa-100.html",
-    "https://www.deutschlandfunk.de/demonstration-und-kundgebung-gegen-gaza-krieg-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/trump-ordnet-einsatz-von-militaer-in-portland-an-praesident-schwadroniert-von-angeblicher-belagerung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/rechtsruck-in-europa-michel-friedman-warnt-vor-zerstoerung-der-demokratie-in-deutschland-accg-110706772.html",
     "https://www.faz.net/aktuell/politik/inland/richterwahl-merz-scharade-schadet-der-cdu-110704882.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-den-iran-treten-wieder-in-kraft-102.html",
     "https://www.deutschlandfunk.de/zehntausende-demonstrieren-in-berlin-gegen-gaza-krieg-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-haftstrafe-an-100.html",
     "https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss",
     "https://www.deutschlandfunk.de/interims-staatschef-nominiert-neuen-premierminister-104.html",
-    "https://www.deutschlandfunk.de/ukrainische-veteranen-sollen-bei-ruestungskooperation-mit-dem-westen-helfen-100.html"
+    "https://www.deutschlandfunk.de/ukrainische-veteranen-sollen-bei-ruestungskooperation-mit-dem-westen-helfen-100.html",
+    "https://www.deutschlandfunk.de/junge-union-chef-winkel-grossteil-der-unionsfraktion-gegen-rentenplaene-von-ministerin-bas-100.html",
+    "https://www.deutschlandfunk.de/spiegel-eu-kommission-wird-deutsche-plaene-fuer-ausbau-von-gaskraftwerken-wohl-beschraenken-100.html",
+    "https://www.deutschlandfunk.de/bauarbeiten-fuer-neuen-ballsaal-im-weissen-haus-in-washington-haben-begonnen-100.html",
+    "https://www.deutschlandfunk.de/verteidigungsministerium-will-keine-weiteren-f-35-kaufen-110.html"
   ],
   "content_hashes": [
-    "dbcf354707f2ffda686f6d7c93efb440",
-    "6881e4e3d4f052785ec0048c2a57c163",
-    "5c36dbcc377e3bfa8b895b0e78a631a7",
-    "7ccd9c732878f78893d31bfff4f29d34",
     "08de2c7a4d96a71a0a03f5be7a6bcdee",
     "0fd37b92bdadd2be6123b0efb3f0d23b",
     "eaebbded00e0cb172d3760c1fb328197",
@@ -2001,13 +1997,13 @@
     "afdfde6527e3bf4da86de9ba001e05e9",
     "f06b2225ccb3e2c76791daa346c4b81b",
     "fba9d11ba9b217dfa0df81585dc30c98",
-    "bc1839a0d590d80c843d4b72b42b1310"
+    "bc1839a0d590d80c843d4b72b42b1310",
+    "014f6c5d2c9fbd7bbd239a2604d499be",
+    "2052e5aae6760dbdc3c970424076a9de",
+    "eb4c13c0a78c2a660dcb1a21fbc1c0e0",
+    "c38e3a86d8bf11b15f2f1b00160402e4"
   ],
   "titles": [
-    "USA - Trump ordnet Einsatz von Militär in Portland an - Angebliche Belagerung durch \"Antifa\"",
-    "\"All Eyes on Gaza\" - Demonstration und Kundgebung gegen Gaza-Krieg in Berlin",
-    "USA - Trump ordnet Einsatz von Militär in Portland an - Präsident schwadroniert von angeblicher Belagerung durch \"Antifa\"",
-    "Warnung des Publizisten: Friedman: Deutschland könnte in zehn Jahren keine Demokratie mehr sein",
     "Merz und die Richterwahl: So verliert man den Respekt der Wähler",
     "Atomprogramm - Sanktionen gegen den Iran treten wieder in Kraft",
     "\"All Eyes on Gaza\" - Zehntausende demonstrieren in Berlin gegen Gaza-Krieg",
@@ -3003,13 +2999,13 @@
     "Frankreich - Ex-Präsident Sarkozy tritt Haftstrafe an",
     "Russia-Ukraine war: List of key events, day 1,335",
     "Madagaskar - Interims-Staatschef nominiert neuen Premierminister",
-    "Rüstungskooperation - Ukrainische Veteranen sollen dem Westen helfen"
+    "Rüstungskooperation - Ukrainische Veteranen sollen dem Westen helfen",
+    "Koalitionsdebatte - Junge-Union-Chef Winkel: Großteil der Unionsfraktion gegen Rentenpläne von Ministerin Bas",
+    "Energie - \"Spiegel\": EU-Kommission wird deutsche Pläne für Ausbau von Gaskraftwerken wohl beschränken",
+    "USA - Bauarbeiten für neuen Ballsaal im Weißen Haus in Washington haben begonnen",
+    "Dementi - Verteidigungsministerium will keine weiteren F-35 kaufen"
   ],
   "hashes": [
-    "4e3c4e92fbe38a341efb2a4b3a37cc1c",
-    "b1588544db25b39da2dd688225465259",
-    "3578d46deef78b247ab38090abc33681",
-    "15844b921b50658f534ba5909d7af266",
     "6d07a478d3e1571bf42d43b2a076e066",
     "c7c23cb98a78da3d5098f71fa716bec0",
     "9f6254190141c9bf252d0a8753ff76dc",
@@ -4005,6 +4001,10 @@
     "eeda430e1e1395315948236b58d9bfab",
     "867062f0ab1f2e5e31b0556d378c5b55",
     "b306f1f68c1ac4bb7e7c8a2cc6bb4bf9",
-    "efdeb46568d99acc33dbd726bff09cdb"
+    "efdeb46568d99acc33dbd726bff09cdb",
+    "36829c4726fec364361b2e26a632c28c",
+    "e3a35f39011d1d2c1245c351a0288522",
+    "f407a10fcd2db777a4429945a92315c5",
+    "57a92b965b00277182400d5269084eac"
   ]
 }
