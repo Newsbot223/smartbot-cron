@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dreitaegige-praesidentschafts-und-parlamentswahlen-auf-seychellen-enden-100.html",
-    "https://www.deutschlandfunk.de/iran-sanktionen-kommen-zurueck-interview-mit-nahost-experte-michael-lueders-100.html",
     "https://www.spiegel.de/ausland/daenemark-neue-drohnen-sichtungen-dieses-mal-ueber-militaerstuetzpunkt-karup-air-base-a-ffbb78f9-2ffe-48c5-aac6-a2927dc9d0d2#ref=rss",
     "https://www.spiegel.de/panorama/gesellschaft/weihnachten-was-der-lebkuchen-verkauf-im-spaetsommer-in-kunden-ausloest-a-bb3fbfe5-f484-4273-acb9-a5f27f6444f2#ref=rss",
     "https://www.deutschlandfunk.de/weitere-prorussische-partei-ausgeschlossen-praesidentin-sandu-beklagt-druck-aus-moskau-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html",
     "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-heute-seine-haftstrafe-an-100.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wird-in-oesterreich-erwartet-100.html"
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wird-in-oesterreich-erwartet-100.html",
+    "https://www.deutschlandfunk.de/leichtes-steuerplus-im-september-wirtschaftliche-aussichten-weiter-gedaempft-102.html",
+    "https://www.deutschlandfunk.de/nagel-warnt-vor-politischem-einfluss-auf-unabhaengige-notenbanken-100.html"
   ],
   "content_hashes": [
-    "4b820eda8f92022e3812c97e9ffc3643",
-    "eff4ebf2be9a1916ee837110669335ac",
     "e0bf137ebfcc6413e3642de9129879fd",
     "47d4038548c89afbb8f682ef5db84317",
     "2835e8262c82979b70032a9c56922267",
@@ -2001,11 +1999,11 @@
     "3cd262b0cd537d901530ffb8e8247abf",
     "6a1378f8e66f0b852c0f25b209aa890c",
     "6ead7bf95166e1e33d12aa4b40316cdf",
-    "6c358a689ed8a58b506d17a0970a1db5"
+    "6c358a689ed8a58b506d17a0970a1db5",
+    "fc0a9c2ebd72e759232fbf90e49cf8e2",
+    "6c2fd65161bc199c294bdd0e6b906010"
   ],
   "titles": [
-    "Afrika - Dreitägige Präsidentschafts- und Parlamentswahlen auf Seychellen enden",
-    "Sanktionen gegen Iran - Politologe Lüders: \"Es gibt kein Vertrauen mehr, auf beiden Seiten\"",
     "Dänemark: Neue Drohnen-Sichtungen – dieses Mal über Militärstützpunkt Karup Air Base",
     "Weihnachten: Was der Lebkuchen-Verkauf im Spätsommer in Kunden auslöst",
     "Vor Wahl in Moldau - Weitere prorussische Partei ausgeschlossen - Präsidentin Sandu beklagt Druck aus Moskau",
@@ -3003,11 +3001,11 @@
     "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde",
     "Amazon AWS - Störung bei Cloudanbieter behoben",
     "Frankreich - Ex-Präsident Sarkozy tritt heute seine Haftstrafe an",
-    "Staatsbesuch - Bundespräsident Steinmeier wird in Österreich erwartet"
+    "Staatsbesuch - Bundespräsident Steinmeier wird in Österreich erwartet",
+    "BMF-Monatsbericht - Leichtes Steuerplus im September - wirtschaftliche Aussichten weiter gedämpft",
+    "Geldwert-Stabilität - Nagel warnt vor politischem Einfluss auf unabhängige Notenbanken"
   ],
   "hashes": [
-    "f1ad6be77b97ee6fdb45bc33618aa363",
-    "d2fcf2252a8b48623ea990e3fa5f27d7",
     "d3db054c028e0a1acdad9248eac2e8dd",
     "8950472bbaf9162a7c6748b0b9460808",
     "6afc2846f077b1cc0742ac1bc00272c4",
@@ -4005,6 +4003,8 @@
     "25529709b4c3ea20ec2bd3c294f4d00a",
     "208766d07c28638b1f44f257a20060be",
     "8cd925ef3c16c196a9a3db664c7f6700",
-    "14fc64d79e2cd7bd312915c5618fb2a9"
+    "14fc64d79e2cd7bd312915c5618fb2a9",
+    "5121f532eb17b8f23490d8b86e8f33d2",
+    "c67acdc6fdf55661889c142d4daf51da"
   ]
 }
