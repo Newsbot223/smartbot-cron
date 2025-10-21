@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/atom-verhandlungen-gescheitert-uno-sanktionen-gegen-iran-sind-wieder-in-kraft-a-85c9c115-0bfc-4a85-a8b2-fc19bac70e86#ref=rss",
-    "https://www.deutschlandfunk.de/zuerich-stimmt-ueber-strenge-laubblaeser-regeln-ab-100.html",
-    "https://www.deutschlandfunk.de/tote-und-verletzte-in-kiew-durch-russische-luftangriffe-102.html",
     "https://www.deutschlandfunk.de/bundesinnenministerium-bestaetigt-termin-und-ort-fuer-verhandlungen-mit-taliban-ueber-abschiebungen-100.html",
     "https://www.deutschlandfunk.de/wiesn-gelaende-wegen-ueberfuellung-zeitweise-geschlossen-kritik-am-sicherheitskonzept-100.html",
     "https://www.deutschlandfunk.de/monheim-muss-autonomfahrende-e-bus-linie-vorerst-einstellen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/frankreich-und-spanien-gegen-ausnahme-fuer-hybrid-pkw-100.html",
     "https://www.deutschlandfunk.de/polen-warnt-putin-vor-nutzung-seines-luftraumes-100.html",
     "https://www.deutschlandfunk.de/steinmeier-und-van-der-bellen-fuer-staerkere-abschreckung-102.html",
-    "https://www.deutschlandfunk.de/vassiliadis-bleibt-vorsitzender-der-industriegewerkschaft-ig-bce-100.html"
+    "https://www.deutschlandfunk.de/vassiliadis-bleibt-vorsitzender-der-industriegewerkschaft-ig-bce-100.html",
+    "https://www.deutschlandfunk.de/senat-beschliesst-umstrittene-regelabfrage-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-lehnt-hilfsangebot-fuer-kinder-aus-gaza-ab-102.html",
+    "https://www.deutschlandfunk.de/us-amerikaner-gewinnt-den-chopin-wettbewerb-102.html"
   ],
   "content_hashes": [
-    "3da700be14fe06e98394db5ad7fa43cd",
-    "bed671ecd3cde3d7efdddfc963ba946c",
-    "4e46c02d50d1971954ee5fee416a735e",
     "ea9d56c5084d2d3a8eb27e6239b12d57",
     "5afe7f093a428c5d2fc5fb287f53f57d",
     "d5d970b6520345493a072d80558e99bc",
@@ -2001,12 +1998,12 @@
     "c74d772d0210a932851936c3dfdbdad8",
     "20b98c40e904c3cb6fbb398943627c3b",
     "0a5e79935a4ba3e33f7a89b3720750db",
-    "b19afcb77dd2975ac8d922918894e18f"
+    "b19afcb77dd2975ac8d922918894e18f",
+    "c29c46ff8508c07b413a01bd8f2dfada",
+    "135924ff33b8e48bbc57c8355448f8b7",
+    "053171072511c1128d77ea148a0ba9ba"
   ],
   "titles": [
-    "Atom-Verhandlungen gescheitert: Uno-Sanktionen gegen Iran sind wieder in Kraft",
-    "Referendum in der Schweiz - Zürich stimmt über strenge Laubbläser-Regeln ab",
-    "Ukraine - Tote und Verletzte in Kiew durch russische Luftangriffe",
     "Afghanistan - Bundesinnenministerium bestätigt Termin und Ort für Verhandlungen mit Taliban über Abschiebungen",
     "Oktoberfest - Wiesn-Gelände wegen Überfüllung zeitweise geschlossen - Kritik am Sicherheitskonzept",
     "Verkehr - Monheim muss autonomfahrende E-Bus-Linie vorerst einstellen",
@@ -3003,12 +3000,12 @@
     "Verbrenner-Aus - Frankreich und Spanien gegen Ausnahme für Hybrid-Pkw",
     "Treffen mit Trump in Ungarn - Polen warnt Putin vor Nutzung seines Luftraumes",
     "Österreich - Steinmeier und Van der Bellen für stärkere Abschreckung",
-    "Personalien - Vassiliadis bleibt Vorsitzender der Industriegewerkschaft IG BCE"
+    "Personalien - Vassiliadis bleibt Vorsitzender der Industriegewerkschaft IG BCE",
+    "Hamburg - Senat beschließt umstrittene Regelabfrage",
+    "Initiative von Hannover - Bundesregierung lehnt Hilfsangebot für Kinder aus Gaza ab",
+    "Warschau - US-Amerikaner gewinnt den Chopin-Wettbewerb"
   ],
   "hashes": [
-    "5c69ffa6a06a8d6ec39818060cd65ba3",
-    "8ef8509da45b313cb69d56116d7f970f",
-    "6df321cecbb9147abb5895ed0b9fd910",
     "ab75679d1aa16ef890721d23b8f251eb",
     "e747b90cd4209e1af651e1844a696ae8",
     "68906c2781bdad0a87e8d6c582d1fbb4",
@@ -4005,6 +4002,9 @@
     "87edc8953b1f9b986b3169f593a5263b",
     "3b16181fac50ea7dce6754a8d5722959",
     "a751547b5c6dea5a35739ae72ed8c1d3",
-    "17a86a1774128f939308567ce745dba1"
+    "17a86a1774128f939308567ce745dba1",
+    "d6907b0027c2219f42ba314fc923d7dd",
+    "2a6f7dfb5e79c248855b501d9ac9c85b",
+    "75d1da6b5c8caa03dd181e155ff93185"
   ]
 }
