@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html",
-    "https://www.deutschlandfunk.de/bundeswehr-sichert-eu-gipfel-in-kopenhagen-ab-nato-verstaerkt-praesenz-in-der-ostsee-102.html",
     "https://www.deutschlandfunk.de/sanktionen-gegen-den-iran-sind-wieder-in-kraft-102.html",
     "https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss",
     "https://www.deutschlandfunk.de/gouverneurin-spricht-von-machtmissbrauch-praesident-von-angeblicher-belagerung-durch-antifa-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-vizepraesident-vance-in-tel-aviv-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/europaeisches-parlament-stimmt-fuer-neue-fuehrerscheinregeln-102.html",
     "https://www.spiegel.de/panorama/deutsche-staedte-scheitern-mit-hilfsangebot-fuer-kinder-aus-gaza-a-a431372d-b3db-4b25-96c5-e9b58cb880b0#ref=rss",
-    "https://www.deutschlandfunk.de/sanae-takaichi-zur-ersten-ministerpraesidentin-japans-gewaehlt-100.html"
+    "https://www.deutschlandfunk.de/sanae-takaichi-zur-ersten-ministerpraesidentin-japans-gewaehlt-100.html",
+    "https://www.deutschlandfunk.de/polen-warnt-putin-vor-nutzung-seines-luftraumes-fuer-treffen-mit-trump-100.html",
+    "https://www.deutschlandfunk.de/frankreich-und-spanien-gegen-ausnahme-fuer-hybrid-pkw-100.html"
   ],
   "content_hashes": [
-    "4c1183ab7d38c39b2bdf2153df48b908",
-    "fdb29a0ec3215bd959dd298e08947f0b",
     "ca4bdbef28d13207b66abc54999113ba",
     "c25d5dbdd03860c924cf1db9f2a91199",
     "0f6ff231d62cf3e615efc546d1b2a9cf",
@@ -2001,11 +1999,11 @@
     "cef87080dd05669f585ff993f78d9fd9",
     "78d060d826934692750819ce37f03bb9",
     "faa0d4ef2bfb74bfc6bd813b361a336a",
-    "24322dbb85de0147cd6d637982e0495d"
+    "24322dbb85de0147cd6d637982e0495d",
+    "1ecdf3660d09819b6ca8eba2c3d6330e",
+    "c74d772d0210a932851936c3dfdbdad8"
   ],
   "titles": [
-    "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus",
-    "Luftraumüberwachung - Bundeswehr sichert EU-Gipfel in Kopenhagen ab - NATO verstärkt Präsenz in der Ostsee",
     "Atomprogramm - Sanktionen gegen den Iran sind wieder in Kraft",
     "Russia-Ukraine war: List of key events, day 1,312",
     "Militär in Portland - Gouverneurin spricht von Machtmissbrauch, Präsident von angeblicher Belagerung durch \"Antifa\"",
@@ -3003,11 +3001,11 @@
     "Nahost - US-Vizepräsident Vance in Tel Aviv eingetroffen",
     "EU-weite Fahrverbote möglich - Europäisches Parlament stimmt für neue Führerscheinregeln",
     "Deutsche Städte scheitern mit Hilfsangebot für Kinder aus Gaza",
-    "Konservative Politikerin - Sanae Takaichi zur ersten Ministerpräsidentin Japans gewählt"
+    "Konservative Politikerin - Sanae Takaichi zur ersten Ministerpräsidentin Japans gewählt",
+    "Haftbefehl - Polen warnt Putin vor Nutzung seines Luftraumes für Treffen mit Trump",
+    "Verbrenner-Aus - Frankreich und Spanien gegen Ausnahme für Hybrid-Pkw"
   ],
   "hashes": [
-    "436971f86ac8b65364c11dc347c1db6d",
-    "168fd2bfdf30edb2f7863f605a049784",
     "3222c58f23e58420272df6856451b19d",
     "1640f3972b600a0f501cb4e4e01e99db",
     "64c85119b62d721cece58c0da87cd07e",
@@ -4005,6 +4003,8 @@
     "797650f340424fa3c7655bdfbbf4cb59",
     "1e2b616136d660fce561fa035b227caa",
     "34ec6752201e34c116f65281cde220bd",
-    "42c804068d0e6694895b5de29c844875"
+    "42c804068d0e6694895b5de29c844875",
+    "86c4a69bf457f2d5f11f90e42dd7dc81",
+    "87edc8953b1f9b986b3169f593a5263b"
   ]
 }
