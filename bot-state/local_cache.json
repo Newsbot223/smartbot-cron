@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlamentswahl-in-moldau-100.html",
-    "https://www.deutschlandfunk.de/britische-labourpartei-versammelt-sich-zu-parteitag-100.html",
     "https://www.deutschlandfunk.de/stichwahlen-um-oberbuergermeister-aemter-in-nordrhein-westfalen-100.html",
     "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-setzen-arbeit-in-gaza-stadt-vorerst-aus-102.html",
     "https://www.deutschlandfunk.de/bundeswehr-sichert-eu-gipfel-in-kopenhagen-ab-nato-verstaerkt-praesenz-in-der-ostsee-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/shutdown-usa-ver-di-fordert-gehaltszahlung-fuer-beschaeftigte-der-us-streitkraefte-in-deutschland-a-076ea44a-9c8e-491a-9265-2d1f23db21d7#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/cannabisgesetz-die-aergsten-auswuechse-beschneiden-110741234.html",
     "https://www.faz.net/aktuell/politik/inland/freie-waehler-in-bayern-hubert-aiwanger-bleibt-die-reizfigur-accg-110729948.html",
-    "https://www.deutschlandfunk.de/us-vizepraesident-vance-in-tel-aviv-eingetroffen-100.html"
+    "https://www.deutschlandfunk.de/us-vizepraesident-vance-in-tel-aviv-eingetroffen-100.html",
+    "https://www.deutschlandfunk.de/europaeisches-parlament-stimmt-fuer-neue-fuehrerscheinregeln-102.html",
+    "https://www.spiegel.de/panorama/deutsche-staedte-scheitern-mit-hilfsangebot-fuer-kinder-aus-gaza-a-a431372d-b3db-4b25-96c5-e9b58cb880b0#ref=rss"
   ],
   "content_hashes": [
-    "8831b34a36ee2f12a8cdbd339ca64c03",
-    "9652034a11d33fd3375888d212c13985",
     "9f6ac95c75be52f848f5e098dc15d29c",
     "4c1183ab7d38c39b2bdf2153df48b908",
     "fdb29a0ec3215bd959dd298e08947f0b",
@@ -2001,11 +1999,11 @@
     "96a75e142fbb2bd6cf49f83a47a8ffb2",
     "27a551b8234166ba25853f4e1c014365",
     "e9b33c37cf9fa20eeffb04baef967edb",
-    "cef87080dd05669f585ff993f78d9fd9"
+    "cef87080dd05669f585ff993f78d9fd9",
+    "78d060d826934692750819ce37f03bb9",
+    "faa0d4ef2bfb74bfc6bd813b361a336a"
   ],
   "titles": [
-    "Ex-Sowjetrepublik - Parlamentswahl in Moldau",
-    "Liverpool - Britische Labourpartei versammelt sich zu Parteitag",
     "Zwei Wochen nach Kommunalwahlen - Stichwahlen um Oberbürgermeister-Ämter in Nordrhein-Westfalen",
     "Israelische Offensive - Ärzte ohne Grenzen setzen Arbeit in Gaza-Stadt vorerst aus",
     "Luftraumüberwachung - Bundeswehr sichert EU-Gipfel in Kopenhagen ab - NATO verstärkt Präsenz in der Ostsee",
@@ -3003,11 +3001,11 @@
     "Shutdown USA: Ver.di fordert Gehaltszahlung für Beschäftigte der US-Streitkräfte in Deutschland",
     "Cannabisgesetz: Die ärgsten Auswüchse beschneiden",
     "Bayerns Freie Wähler: Aiwanger bleibt die Reizfigur",
-    "Nahost - US-Vizepräsident Vance in Tel Aviv eingetroffen"
+    "Nahost - US-Vizepräsident Vance in Tel Aviv eingetroffen",
+    "EU-weite Fahrverbote möglich - Europäisches Parlament stimmt für neue Führerscheinregeln",
+    "Deutsche Städte scheitern mit Hilfsangebot für Kinder aus Gaza"
   ],
   "hashes": [
-    "a3d196126dd99bc244bf04e77a0bcb1f",
-    "ee1db3dab3db75f125772cfda08be4b6",
     "756f72f1a67ae0adb382cff8809d9614",
     "436971f86ac8b65364c11dc347c1db6d",
     "168fd2bfdf30edb2f7863f605a049784",
@@ -4005,6 +4003,8 @@
     "e09252468fd5f7f2b007d58c172c7b74",
     "333acd44206f17e0b5a8a8762a24a767",
     "e895c5b9b658b0063da054427cb5458e",
-    "797650f340424fa3c7655bdfbbf4cb59"
+    "797650f340424fa3c7655bdfbbf4cb59",
+    "1e2b616136d660fce561fa035b227caa",
+    "34ec6752201e34c116f65281cde220bd"
   ]
 }
