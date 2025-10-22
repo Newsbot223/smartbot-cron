@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/todesopfer-nach-massenschlaegerei-in-gelsenkirchen-100.html",
-    "https://www.spiegel.de/panorama/deutschland-alter-zahl-der-hundertjaehrigen-stark-gestiegen-a-2643bc82-c4d7-4c0f-aa19-4daaf045b0df#ref=rss",
-    "https://www.deutschlandfunk.de/lufthansa-will-4-000-stellen-streichen-verdi-kuendigt-widerstand-an-100.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-afd-darf-als-verdachtsfall-eingestuft-werden-accg-110708613.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-wahlsieger-kalouti-in-dortmund-es-ist-ein-gefuehl-der-ueberwaeltigung-accg-110708503.html",
     "https://www.deutschlandfunk.de/selenskyj-schlaegt-europaeischen-staaten-aufbau-eines-gemeinsamen-luftabwehrschilds-vor-102.html",
     "https://www.deutschlandfunk.de/spd-politiker-pantazis-plaediert-fuer-beibehaltung-des-pflegegrads-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-db-cargo-chefin-nikutta-100.html",
     "https://www.deutschlandfunk.de/sacharow-preis-geht-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-100.html",
     "https://www.deutschlandfunk.de/branchenverband-vda-sieht-keine-anzeichen-fuer-trendwende-sorge-wegen-computerchips-100.html",
-    "https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss"
+    "https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss",
+    "https://www.deutschlandfunk.de/lieferprobleme-bei-chiphersteller-nexperia-volkswagen-schliesst-engpaesse-nicht-aus-100.html",
+    "https://www.deutschlandfunk.de/us-vizepraesident-vance-entwaffnung-der-hamas-schwierige-aufgabe-100.html",
+    "https://www.deutschlandfunk.de/kulturpreis-praemium-imperiale-unter-anderem-fuer-pianisten-andr-s-schiff-und-architekten-eduardo-so-100.html",
+    "https://www.spiegel.de/politik/deutschland/stadtbild-debatte-diw-chef-marcel-fratzscher-kritisiert-kanzler-friedrich-merz-fuer-wirtschaftliche-folgen-a-7e88d48c-62e8-4d5f-9893-e87b7da727f6#ref=rss"
   ],
   "content_hashes": [
-    "4018a949d5f8187f885e7e86844f9de5",
-    "7629df80230aea836f3af0a318ef1016",
-    "ebaaeb72aa4e4161a79888bed0240c46",
-    "1251f10e90161e0be81243a41606afc9",
     "eb20ffafec9fa592e66a77ede4d653ec",
     "58d68be2bd769c329f4e50439df58c3a",
     "e0abafd0c89d4f3454199bf38f004f26",
@@ -2001,13 +1997,13 @@
     "66b1b784f9a7950b5c18047cc51357c1",
     "b9233463852c89401317d16181b228fc",
     "5999c094e3241c935474d17f24eb9670",
-    "27485ae25c4fe0daa24d0bbf1bb9b096"
+    "27485ae25c4fe0daa24d0bbf1bb9b096",
+    "343f364ed67dd03d572fab5bdf32d4db",
+    "59c141f178e6655869669ce94193843a",
+    "9339ff1b91c412bf961d07619024fdba",
+    "2c355aeec0acd975c3987d54a9905b95"
   ],
   "titles": [
-    "Großeinsatz - Todesopfer nach Massenschlägerei in Gelsenkirchen",
-    "Deutschland / Alter: Zahl der Hundertjährigen stark gestiegen",
-    "Höheres Renditeziel - Lufthansa will 4.000 Stellen streichen - Verdi kündigt Widerstand an",
-    "Verfassungsschutz in Hessen: AfD darf als Verdachtsfall eingestuft werden",
     "Wahlsieger in Dortmund: „Es ist ein Gefühl der Überwältigung“",
     "Bedrohung aus Russland - Selenskyj schlägt europäischen Staaten Aufbau eines gemeinsamen Luftabwehrschilds vor",
     "Reformdebatte - SPD-Politiker Pantazis plädiert für Beibehaltung des Pflegegrads 1",
@@ -3003,13 +2999,13 @@
     "Güterverkehr - Deutsche Bahn trennt sich von DB-Cargo-Chefin Nikutta",
     "Auszeichnung - Sacharow-Preis geht an zwei in Belarus und Georgien inhaftierte Journalisten",
     "Autoindustrie - Branchenverband VDA sieht keine Anzeichen für Trendwende - Sorge wegen Computerchips",
-    "Einwanderer arbeiten besonders oft in Mangelberufen und selten als Polizisten"
+    "Einwanderer arbeiten besonders oft in Mangelberufen und selten als Polizisten",
+    "Autoindustrie - Lieferprobleme bei Chiphersteller Nexperia: Volkswagen schließt Engpässe nicht aus",
+    "Nahost - US-Vizepräsident Vance: Entwaffnung der Hamas \"schwierige Aufgabe\"",
+    "Tokio - Kulturpreis \"Praemium Imperiale\" unter anderem für Pianisten András Schiff und Architekten Eduardo Souto Moura",
+    "Stadtbild-Debatte: DIW-Chef Marcel Fratzscher kritisiert Kanzler Friedrich Merz für wirtschaftliche Folgen"
   ],
   "hashes": [
-    "3196cdf1b22f18fc1dfd2ba7b29d19fe",
-    "5696c12aa8b5a58c97124d706d3fd2aa",
-    "71895b68ee03b26e79998675df5794b3",
-    "7d8acbaccb4fea76b8e907db595bbb43",
     "af0600124dcbe84b2891221d70b83da2",
     "d95f9fe406ae344beb3234abf2c59c3e",
     "10bf41ea0591c319bbcef85c85db53ea",
@@ -4005,6 +4001,10 @@
     "7625b65d6c2101bc3d867509253f0b63",
     "7d6aee8465feb5139ab638829090a484",
     "debc6c46860bba602143bfed4a304819",
-    "58af574d41789dfa164d283b1c48be67"
+    "58af574d41789dfa164d283b1c48be67",
+    "ed87d423399cb51de3566d0a7dbb1301",
+    "397854fcc650d5034295b2ac85ecb4a8",
+    "057f4ef1674fe0a56f821cc96454237c",
+    "0b78dcd5e6cd066c20622334cadf847d"
   ]
 }
