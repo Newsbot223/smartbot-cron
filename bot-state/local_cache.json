@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-arbeitslosen-sinkt-wieder-auf-unter-3-millionen-102.html",
-    "https://www.deutschlandfunk.de/wie-umgehen-mit-russlands-nadelstichen-interview-mit-ulrich-kuehn-ifsh-104.html",
-    "https://www.faz.net/aktuell/politik/inland/panne-bei-auszaehlung-in-muelheim-liegt-doch-cdu-mann-vorne-accg-110709991.html",
-    "https://www.deutschlandfunk.de/ehemaliger-mitarbeiter-von-afd-politiker-krah-wegen-spionage-fuer-china-verurteilt-100.html",
     "https://www.faz.net/aktuell/politik/inland/ehemaliger-krah-mitarbeiter-jian-g-wegen-spionage-verurteilt-accg-110709960.html",
     "https://www.deutschlandfunk.de/merz-staatliche-leistungen-muessen-effizienter-werden-100.html",
     "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-fordert-neuauszaehlung-der-stimmen-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-gipfel-beraet-ueber-ukraine-unterstuetzung-und-eigene-verteidigungsfaehigkeit-100.html",
     "https://www.deutschlandfunk.de/italienisches-gericht-beraet-erneut-ueber-auslieferung-von-verdaechtigem-100.html",
     "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-stellt-heute-ergebnisse-der-steuerschaetzung-vor-100.html",
-    "https://www.deutschlandfunk.de/karlsruhe-prueft-streit-um-religionsvorgabe-100.html"
+    "https://www.deutschlandfunk.de/karlsruhe-prueft-streit-um-religionsvorgabe-100.html",
+    "https://www.deutschlandfunk.de/eu-gipfel-beraet-ueber-unterstuetzung-fuer-die-ukraine-und-ruestungsprojekte-100.html",
+    "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-stellt-ergebnisse-der-steuerschaetzung-vor-102.html",
+    "https://www.deutschlandfunk.de/us-militaer-greift-drogenschmuggler-boot-im-pazifik-an-100.html",
+    "https://www.deutschlandfunk.de/kommunikationsbehoerde-schraenkt-zugang-zu-whatsapp-und-telegram-ein-100.html"
   ],
   "content_hashes": [
-    "f0d42c407271be2ca766f983e13d1255",
-    "ccf23ff82ca97951c9b66f543ddfe9e0",
-    "b9103b518e37568d1ec6649fe83cb860",
-    "35bf371fcb466e309fcb1f00085c1f69",
     "9e76c81fea045af4003292959f06a338",
     "d780e209a11fa81faffb9e3b66655320",
     "9938d76a776127d699ba78f5fa3723e7",
@@ -2001,13 +1997,13 @@
     "24b4b7a0414cb8025e1903de9c5a7648",
     "c443a4472b47df979979434f88296133",
     "58579f4652c1d797b7d3860737e93f8d",
-    "36e94eb73c89c1ffc911f37e9bdbb16a"
+    "36e94eb73c89c1ffc911f37e9bdbb16a",
+    "39dd4e18b391d1041ea6ada5e9e8702b",
+    "ae972d824d071c766ba12112ee2c6d95",
+    "7f4651ba1ccfc27aa49f057f326f603a",
+    "878d41a3071b7813e19e7826fa8a3df6"
   ],
   "titles": [
-    "Bundesagentur für Arbeit - Zahl der Arbeitslosen sinkt wieder auf unter 3 Millionen",
-    "Umgang mit Russland - Sicherheitsexperte: \"NATO muss Einigkeit demonstrieren\"",
-    "Panne bei Auszählung: In Mülheim liegt doch CDU-Mann vorne",
-    "EU-Parlament - Ehemaliger Mitarbeiter von AfD-Politiker Krah wegen Spionage für China verurteilt",
     "Lange Haftstrafe für Jian G.: Fast fünf Jahre Haft für ehemaligen Mitarbeiter von Maximilian Krah",
     "Klausurtagung - Merz: Staatliche Leistungen müssen effizienter werden",
     "Kommunalwahlen in NRW - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin fordert Neuauszählung der Stimmen",
@@ -3003,13 +2999,13 @@
     "Brüssel - EU-Gipfel berät über Ukraine-Unterstützung und eigene Verteidigungsfähigkeit",
     "Nord-Stream-Anschlag - Italienisches Gericht berät erneut über Auslieferung von Verdächtigem",
     "Berlin - Bundesfinanzminister Klingbeil stellt heute Ergebnisse der Steuerschätzung vor",
-    "Kirchliche Jobs - Karlsruhe prüft Streit um Religionsvorgabe"
+    "Kirchliche Jobs - Karlsruhe prüft Streit um Religionsvorgabe",
+    "Brüssel - EU-Gipfel berät über Unterstützung für die Ukraine und Rüstungsprojekte",
+    "Berlin - Bundesfinanzminister Klingbeil stellt Ergebnisse der Steuerschätzung vor",
+    "Südamerika - US-Militär greift Drogenschmuggler-Boot im Pazifik an",
+    "Russland - Kommunikationsbehörde schränkt Zugang zu WhatsApp und Telegram ein"
   ],
   "hashes": [
-    "a73bbe1f5fbc4ef1843a40b9ebfc050a",
-    "6579d6d9394f907587393de09dbfa843",
-    "b51dcff265e2f50a60e15a32be600ba1",
-    "49f385233ddd05f29373abdfc9f84369",
     "765afb363b4f793bc43fb066c199dbb6",
     "40a7534a9e68939a21898ff660cc8176",
     "c5e4a29d3d6ec946bf8fa07cdd6cba1f",
@@ -4005,6 +4001,10 @@
     "09009177de068c704225cf7c5abb8fa5",
     "6296a2be9188ce7226afb95e97425cf4",
     "da9b6e452ff48f84f150c1aa53a065ca",
-    "7770300dd433f71e5053adbf97612b23"
+    "7770300dd433f71e5053adbf97612b23",
+    "9a38e0379e16b2283b1bd0153b4cb1e0",
+    "60c2852009a3b291a4818e8918635c7e",
+    "fa673120375afe091292d53bd5915d74",
+    "860384f68a31db581dc1f2792ff73f0d"
   ]
 }
