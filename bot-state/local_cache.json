@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-schlaegt-europaeischen-staaten-aufbau-eines-gemeinsamen-luftabwehrschilds-vor-102.html",
-    "https://www.deutschlandfunk.de/spd-politiker-pantazis-plaediert-fuer-beibehaltung-des-pflegegrads-102.html",
-    "https://www.deutschlandfunk.de/parlament-in-teheran-bereitet-austritt-aus-dem-atomwaffensperrvertrag-vor-100.html",
-    "https://www.faz.net/aktuell/politik/wahl-in-moldau-im-schattenkrieg-mit-russland-110708737.html",
     "https://www.deutschlandfunk.de/feuer-verwuestet-etosha-nationalpark-in-namibia-100.html",
     "https://www.deutschlandfunk.de/nachtzug-von-berlin-nach-paris-wird-im-dezember-eingestellt-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundeswehr-in-der-zeitenwende-mehr-scharnhorst-wagen-accg-110707547.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/us-vizepraesident-vance-entwaffnung-der-hamas-schwierige-aufgabe-100.html",
     "https://www.deutschlandfunk.de/kulturpreis-praemium-imperiale-unter-anderem-fuer-pianisten-andr-s-schiff-und-architekten-eduardo-so-100.html",
     "https://www.spiegel.de/politik/deutschland/stadtbild-debatte-diw-chef-marcel-fratzscher-kritisiert-kanzler-friedrich-merz-fuer-wirtschaftliche-folgen-a-7e88d48c-62e8-4d5f-9893-e87b7da727f6#ref=rss",
-    "https://www.deutschlandfunk.de/streit-um-lieferkettengesetz-geht-weiter-100.html"
+    "https://www.deutschlandfunk.de/streit-um-lieferkettengesetz-geht-weiter-100.html",
+    "https://www.deutschlandfunk.de/russlands-armee-beginnt-nukleares-uebungsmanoever-102.html",
+    "https://www.deutschlandfunk.de/steinmeier-feiert-neubau-der-deutschen-botschaft-in-wien-102.html",
+    "https://www.deutschlandfunk.de/klingbeil-fordert-von-unternehmen-mehr-standortpatriotismus-102.html",
+    "https://www.faz.net/aktuell/politik/inland/verfassungstreue-beamte-die-laender-pruefen-ganz-unterschiedlich-110741042.html"
   ],
   "content_hashes": [
-    "58d68be2bd769c329f4e50439df58c3a",
-    "e0abafd0c89d4f3454199bf38f004f26",
-    "0977316f2d262c481138a41c459ec016",
-    "d70cd0e1176f4f6ad18b0d84a419b475",
     "f3c29ef66ff8c371acc7341ec9143661",
     "25c5a2947186036829f4db14011245f7",
     "cd631068ce48c5e30bf6108f171dcbfd",
@@ -2001,13 +1997,13 @@
     "59c141f178e6655869669ce94193843a",
     "9339ff1b91c412bf961d07619024fdba",
     "2c355aeec0acd975c3987d54a9905b95",
-    "9ff841a187f71cc8947856b6f8690824"
+    "9ff841a187f71cc8947856b6f8690824",
+    "586867dfe50e3a0bec09113c9ef7625a",
+    "136753df797d632e0b102573cf90e633",
+    "33747769f80b41cc31c2e9eac94daaf4",
+    "372b6b6d641df08268cdd13ff93bce72"
   ],
   "titles": [
-    "Bedrohung aus Russland - Selenskyj schlägt europäischen Staaten Aufbau eines gemeinsamen Luftabwehrschilds vor",
-    "Reformdebatte - SPD-Politiker Pantazis plädiert für Beibehaltung des Pflegegrads 1",
-    "Iran - Parlament in Teheran bereitet Austritt aus dem Atomwaffensperrvertrag vor",
-    "Parlamentswahl: Moldau im Schattenkrieg mit Russland",
     "Wildreservat - Feuer verwüstet Etosha-Nationalpark in Namibia",
     "Nach zwei Jahren - Nachtzug von Berlin nach Paris wird im Dezember eingestellt",
     "Wie gelingt die Zeitenwende?: Die Bundeswehr entfesseln",
@@ -3003,13 +2999,13 @@
     "Nahost - US-Vizepräsident Vance: Entwaffnung der Hamas \"schwierige Aufgabe\"",
     "Tokio - Kulturpreis \"Praemium Imperiale\" unter anderem für Pianisten András Schiff und Architekten Eduardo Souto Moura",
     "Stadtbild-Debatte: DIW-Chef Marcel Fratzscher kritisiert Kanzler Friedrich Merz für wirtschaftliche Folgen",
-    "Europäische Union - Streit um Lieferkettengesetz geht weiter"
+    "Europäische Union - Streit um Lieferkettengesetz geht weiter",
+    "Nach NATO-Manöver-Start - Russlands Armee beginnt nukleares Übungsmanöver",
+    "Offizielle Eröffnung - Steinmeier feiert Neubau der Deutschen Botschaft in Wien",
+    "Wirtschaft - Klingbeil fordert von Unternehmen mehr \"Standortpatriotismus\"",
+    "Verfassungstreue-Prüfung: Wie die Bundesländer Extremisten im Staatsdienst verhindern wollen"
   ],
   "hashes": [
-    "d95f9fe406ae344beb3234abf2c59c3e",
-    "10bf41ea0591c319bbcef85c85db53ea",
-    "3a015a65216ba831d20dbbe02cf85ba4",
-    "1f260bf4ad45e64db259d0a8ddb9373c",
     "6fe62cc3bc9759489f2d19973ddf0518",
     "3a2e4b4823bab5c8b541e0f76b921c82",
     "897f69c78ee8e8b87e13f7d2b6f5c566",
@@ -4005,6 +4001,10 @@
     "397854fcc650d5034295b2ac85ecb4a8",
     "057f4ef1674fe0a56f821cc96454237c",
     "0b78dcd5e6cd066c20622334cadf847d",
-    "eaf1a147e62bbcee054a0d31245ad962"
+    "eaf1a147e62bbcee054a0d31245ad962",
+    "46b0a02ae25c16fb00ee13d0b2d51714",
+    "c74b12a219024490ca5dfcf31bb6b99f",
+    "ea36cf1d90ff7ea135a09531aaf5e7ef",
+    "ba7a68bea39216e65a247f42ea98b565"
   ]
 }
