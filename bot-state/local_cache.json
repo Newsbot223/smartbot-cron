@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneut-drohnen-in-norwegen-gesichtet-fluege-umgeleitet-100.html",
-    "https://www.deutschlandfunk.de/mindestens-vier-todesopfer-bei-schusswaffenangriff-auf-mormonen-kirche-auch-taeter-tot-100.html",
-    "https://www.deutschlandfunk.de/pro-europaeische-partei-gewinnt-parlamentswahl-100.html",
     "https://www.deutschlandfunk.de/pro-europaeische-partei-pas-gewinnt-parlamentswahl-ex-praesident-kuendigt-protest-an-100.html",
     "https://www.deutschlandfunk.de/erneut-drohnen-in-norwegen-gesichtet-daenemark-sperrt-luftraum-fuer-zivile-drohnen-100.html",
     "https://www.deutschlandfunk.de/spd-will-containern-entkriminalisieren-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/oesterreich-schiebt-nach-kabul-ab-ein-wichtiges-signal-110742604.html",
     "https://www.deutschlandfunk.de/merz-reist-zum-westbalkangipfel-nach-london-100.html",
     "https://www.deutschlandfunk.de/update-krieg-gegen-die-ukraine-mehr-geld-fuer-russische-propaganda-100.html",
-    "https://www.spiegel.de/politik/bundeswehr-und-wehrpflicht-genuegend-freiwillige-aber-zu-wenige-reservisten-a-374a6caf-ec84-49bf-9098-126d71e53730#ref=rss"
+    "https://www.spiegel.de/politik/bundeswehr-und-wehrpflicht-genuegend-freiwillige-aber-zu-wenige-reservisten-a-374a6caf-ec84-49bf-9098-126d71e53730#ref=rss",
+    "https://www.deutschlandfunk.de/autobranche-blickt-mit-sorge-auf-moeglichen-mangel-an-nexperia-chips-100.html",
+    "https://www.deutschlandfunk.de/mehrere-tote-bei-russischen-angriffen-auf-kiew-selenskyj-in-schweden-erwartet-100.html",
+    "https://www.deutschlandfunk.de/kuratorin-des-louvre-schaetzt-schaden-auf-88-millionen-euro-weiterer-fall-in-langres-102.html"
   ],
   "content_hashes": [
-    "e60a0f6c0d0fa19eb2eccb5183f3a51c",
-    "76aaa3b467eac94b9c48ce201ecd5636",
-    "e167a481ad9b2945b57071fee2ebf4cb",
     "fdabeb6ca52c016dc252aa8a5ab26ba7",
     "6a6eee63c483ab12651d04b84c371e59",
     "6e94975211c6fcbb0412cd6699320001",
@@ -2001,12 +1998,12 @@
     "967af20b262c19c84da9205ebac69203",
     "db905643a4bf9c6f6001f8f7a3e13179",
     "94ab6c8cd85aae03fda0bdcfda26600f",
-    "7b9f82dd95dae3b348ff29f9b06bb108"
+    "7b9f82dd95dae3b348ff29f9b06bb108",
+    "82f9d6cefacddb1187fd3f7060b3e778",
+    "6a0e4369333e9ae8327af2bceffdee82",
+    "748c29276d5500412d87f9a3cadefa74"
   ],
   "titles": [
-    "Luftraumverletzungen - Erneut Drohnen in Norwegen gesichtet - Flüge umgeleitet",
-    "USA - Mindestens vier Todesopfer bei Schusswaffenangriff auf Mormonen-Kirche - auch Täter tot",
-    "Moldau - Pro-europäische Partei gewinnt Parlamentswahl",
     "Moldau - Pro-europäische Partei PAS gewinnt Parlamentswahl - Ex-Präsident kündigt Protest an",
     "Luftraumverletzungen - Erneut Drohnen in Norwegen gesichtet - Dänemark sperrt Luftraum für zivile Drohnen",
     "Aktionswoche gegen Lebensmittelverschwendung - SPD will \"Containern\" entkriminalisieren",
@@ -3003,12 +3000,12 @@
     "Wien schiebt nach Kabul ab: Ein wichtiges Signal",
     "\"Berlin-Prozess\" - Merz reist zum Westbalkangipfel nach London",
     "Ukrainekrieg - Trump sagt Gipfel nach Blockade Russlands vorerst ab",
-    "Bundeswehr und Wehrpflicht: Genügend Freiwillige, aber zu wenige Reservisten"
+    "Bundeswehr und Wehrpflicht: Genügend Freiwillige, aber zu wenige Reservisten",
+    "Industrie - Autobranche blickt mit Sorge auf möglichen Mangel an Nexperia-Chips",
+    "Ukraine - Mehrere Tote bei russischen Angriffen auf Kiew - Selenskyj in Schweden erwartet",
+    "Nach Einbruch - Kuratorin des Louvre schätzt Schaden auf 88 Millionen Euro - weiterer Fall in Langres"
   ],
   "hashes": [
-    "b5ef8bcb39450a92fb3b4ee32fea63ab",
-    "458c3ed8b81aace52bb6898f6b7e50f0",
-    "b3458fda4ded2c6f479f3a3b9faf8215",
     "ef95d4177ca3b2877579ab9e6881262a",
     "a76a483047b9c0d5f548b578c8f372d7",
     "58d81c1894b8e7f3899365fa92f6ac97",
@@ -4005,6 +4002,9 @@
     "f5a95561c671a71220c336a49a2f2a8a",
     "b5fee0a1992f352c7e8b74c79675e797",
     "e656c5acc95e92d95f7ad7be054050a7",
-    "abe63375add7414cc424f9c1461e4382"
+    "abe63375add7414cc424f9c1461e4382",
+    "6348c3d9178d874959d9a87d3ceae24e",
+    "cae6a62a0329ed99450408f1ee1e63ae",
+    "6a06cd7dfa0cca28446db4fdb13d4275"
   ]
 }
