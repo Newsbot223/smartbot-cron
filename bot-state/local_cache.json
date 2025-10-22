@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pflege-interview-mit-christos-pastazis-spd-gesundheitspolitiker-100.html",
-    "https://www.spiegel.de/panorama/deutschland-zahl-der-hundertjaehrigen-stark-gestiegen-a-2643bc82-c4d7-4c0f-aa19-4daaf045b0df#ref=rss",
-    "https://www.deutschlandfunk.de/putin-laesst-135-000-soldaten-zum-wehrdienst-einziehen-102.html",
     "https://www.deutschlandfunk.de/umweltminister-schneider-will-moore-fuer-klimaschutz-nutzen-100.html",
     "https://www.deutschlandfunk.de/regierungspartei-will-proeuropaeischen-kurs-fortsetzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/autokrise-praegt-wahlkampf-in-baden-wuerttemberg-110709151.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/betrug-mit-eu-subventionen-37-festnahmen-100.html",
     "https://www.deutschlandfunk.de/inzwischen-120-000-unterschriften-unter-petition-gegen-merz-stadtbild-aeusserungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/spionageverdacht-afd-unter-druck-wegen-anfragen-zu-sicherheit-110744369.html",
-    "https://www.faz.net/aktuell/politik/inland/vorwuerfe-gegen-tilman-kuban-cdu-abgeordneter-laesst-fraktionsamt-ruhen-110744651.html"
+    "https://www.faz.net/aktuell/politik/inland/vorwuerfe-gegen-tilman-kuban-cdu-abgeordneter-laesst-fraktionsamt-ruhen-110744651.html",
+    "https://www.deutschlandfunk.de/krisensitzung-zu-lieferengpaessen-bei-halbleitern-100.html",
+    "https://www.deutschlandfunk.de/israel-uebergibt-weitere-palaestinensische-leichen-foltervorwuerfe-der-gaza-behoerden-100.html",
+    "https://www.faz.net/aktuell/politik/inland/innenminister-herrmann-aeussert-sich-zu-drohnensichtungen-110744454.html"
   ],
   "content_hashes": [
-    "9908b98747e6079a2e4f4c0f59f864d0",
-    "fba72739428321c2a4bbe19c0b1e404a",
-    "9f51a9896546ddc331975998506bcd36",
     "bd49f2c9c035923f7faa24dedc49881e",
     "5bd7fe3c2ecd1f7196cdc65dc69460ac",
     "b13238fb8647f63702ea09dadf2dc11c",
@@ -2001,12 +1998,12 @@
     "031714c520f0da4116078f788cb83c1f",
     "e5b1e0047485c8ebf1506210daf4aa82",
     "bd0cbb244047f264da60123c61271255",
-    "dbd65105b3ad9c5206ce4b346f2ee8fd"
+    "dbd65105b3ad9c5206ce4b346f2ee8fd",
+    "78c213f43366c8529cd5fe7aae956755",
+    "8d774507899df57b0cfbdb8b709cca7d",
+    "40b59fa4a22ad31e7e825155bd103eee"
   ],
   "titles": [
-    "Reformdiskussion - Der Pflegegrad 1 könnte wegfallen",
-    "Deutschland: Zahl der Hundertjährigen stark gestiegen",
-    "Russland - Putin lässt 135.000 Soldaten zum Wehrdienst einziehen",
     "Klimaschutz - Umweltminister Schneider will Moore für Klimaschutz nutzen",
     "Parlamentswahl in Moldau - Regierungspartei will proeuropäischen Kurs fortsetzen",
     "Baden-Württemberg: Autoland ist abgebrannt",
@@ -3003,12 +3000,12 @@
     "Griechenland - Betrug mit EU-Subventionen - 37 Festnahmen",
     "Inzwischen 120.000 Unterschriften unter Petition gegen Merz' \"Stadtbild\"-Äußerungen",
     "Spionageverdacht: Ein Landesverrat der AfD?",
-    "Ex-Junge-Union-Chef: CDU-Abgeordneter Kuban lässt Fraktionsamt ruhen"
+    "Ex-Junge-Union-Chef: CDU-Abgeordneter Kuban lässt Fraktionsamt ruhen",
+    "Wirtschaft - Krisensitzung zu Lieferengpässen bei Halbleitern",
+    "Nahost - Israel übergibt weitere palästinensische Leichen - Foltervorwürfe der Gaza-Behörden",
+    "Bayerns Innenminister: Mit starken Worten gegen Drohnen"
   ],
   "hashes": [
-    "81f6086078a5a2e7f329229c32ce52cc",
-    "a5e3457985f42ad62669919572a9ae75",
-    "a8a2873b8537b3884b13dabe5157ca16",
     "126b916d499973ca557f3a1d94bac48e",
     "653bea21d8c1fffc9ff90b198330e455",
     "d55072d44220a25b6cdbf82827521acd",
@@ -4005,6 +4002,9 @@
     "6d186b87160fd642163170a5aaa918dd",
     "34d3fe86a9317022578a6d14d3e945b7",
     "1aad5082613e3afd12f7e698fb616f95",
-    "46db322c4b22cb1a25847f63ea79b360"
+    "46db322c4b22cb1a25847f63ea79b360",
+    "e3c9cc5ba1352832b46d39c020ce45eb",
+    "320eeff57575ee34a22c082b827fe365",
+    "d7e3ffb0793ad7a3c4ac81954e47e133"
   ]
 }
