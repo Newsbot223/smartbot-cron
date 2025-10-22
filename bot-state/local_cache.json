@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-bittet-waehrend-treffen-mit-trump-katar-um-entschuldigung-fuer-angriff-auf-hamas-funktiona-100.html",
-    "https://www.deutschlandfunk.de/praesident-entlaesst-regierung-nach-gewalttaetigen-protesten-108.html",
     "https://www.deutschlandfunk.de/nrw-gesundheitsminister-laumann-cdu-offen-fuer-reform-der-pflegegrade-100.html",
     "https://www.deutschlandfunk.de/schule-eingestuerzt-mindestens-65-schueler-verschuettet-100.html",
     "https://www.faz.net/aktuell/politik/inland/wahl-studie-der-kas-afd-punktet-auch-in-migrantischen-milieus-accg-110709233.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/us-shutdown-warum-zahlen-wir-fuer-us-angestellte-110744342.html",
     "https://www.deutschlandfunk.de/aussenpolitiker-von-union-und-gruenen-begruessen-vorlaeufige-absage-des-trump-putin-treffens-100.html",
     "https://www.deutschlandfunk.de/kommunikationsbehoerde-schraenkt-erneut-messengerdienste-im-internet-ein-100.html",
-    "https://www.spiegel.de/politik/friedrich-merz-kanzler-konkretisiert-stadtbild-aussage-zu-einwanderern-a-79710163-8edf-4bf6-9a59-4c276ddbbc2c#ref=rss"
+    "https://www.spiegel.de/politik/friedrich-merz-kanzler-konkretisiert-stadtbild-aussage-zu-einwanderern-a-79710163-8edf-4bf6-9a59-4c276ddbbc2c#ref=rss",
+    "https://www.deutschlandfunk.de/merz-migranten-sind-unverzichtbarer-bestandteil-100.html",
+    "https://www.deutschlandfunk.de/lieferengpaesse-bei-halbleitern-bereiten-industrie-sorgen-100.html"
   ],
   "content_hashes": [
-    "24cdd1051c66a33724e2b2c388d990bf",
-    "b7dc37ec916d4ac0def6b54e2e71ac1c",
     "8d45f07e8c586426dcd82876268202f4",
     "b6b69cf2a043dfd9c459d89787732d51",
     "2490762c8431d88da799ee574ff70103",
@@ -2001,11 +1999,11 @@
     "b4242beace97ef8bdce22d4cb0909854",
     "42e189ec1e97134b3e24123b869658ec",
     "8c1b5cb73c274e10fd488a7143b13e85",
-    "d66530293980803f7cadf338286c04d3"
+    "d66530293980803f7cadf338286c04d3",
+    "b14a0df2b6f017a7d1600d93c534de35",
+    "9f8ef446ea1d395fd228ff5460188af3"
   ],
   "titles": [
-    "Washington - Netanjahu bittet während Treffen mit Trump Katar um Entschuldigung für Angriff auf Hamas-Funktionäre in Doha",
-    "Madagaskar - Präsident entlässt Regierung nach gewalttätigen Protesten",
     "Pflegeversicherung - NRW-Gesundheitsminister Laumann (CDU) offen für Reform der Pflegegrade",
     "Indonesien - Schule eingestürzt: Mindestens 65 Schüler verschüttet",
     "Neue Wahl-Studie: AfD punktet auch in migrantischen Milieus",
@@ -3003,11 +3001,11 @@
     "Folgen des Shutdowns: Warum zahlen wir für US-Angestellte?",
     "Ukraine-Krieg - Außenpolitiker von Union und Grünen begrüßen vorläufige Absage des Trump-Putin-Treffens",
     "Russland - Kommunikationsbehörde schränkt erneut Messengerdienste im Internet ein",
-    "Friedrich Merz: Kanzler konkretisiert »Stadtbild«-Aussage zu Einwanderern"
+    "Friedrich Merz: Kanzler konkretisiert »Stadtbild«-Aussage zu Einwanderern",
+    "\"Stadtbild\"-Äußerungen - Merz: Migranten sind \"unverzichtbarer Bestandteil\"",
+    "Wirtschaft - Lieferengpässe bei Halbleitern bereiten Industrie Sorgen"
   ],
   "hashes": [
-    "04c1f81c46ba93f8856261d03cb3de21",
-    "e8569d22bce8382d755759dbe836480c",
     "76f12b388948af7a05043c9a478d38a9",
     "28d24e8f38d250bd6f22779a87c285d6",
     "32259642c9172b6537cdfc6ef65ba60d",
@@ -4005,6 +4003,8 @@
     "33b830c02ce6ae8c95797b2c9315118b",
     "ef0ebf94d90e70dda126cf7c6efa108c",
     "8e83b9ac674cbdd006b0c8241685a9a3",
-    "08e56d715077fad39f8f87cdc878c75c"
+    "08e56d715077fad39f8f87cdc878c75c",
+    "788882c5f05a57265a419f47cd746aba",
+    "d610d5ced5a7e44d01f299642f75c633"
   ]
 }
