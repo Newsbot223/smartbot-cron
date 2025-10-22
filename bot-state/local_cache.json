@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-bezeichnet-cdu-erfolge-als-arbeitsauftrag-fuer-berlin-102.html",
-    "https://www.deutschlandfunk.de/kommentar-moldau-waehlt-europaeisch-nur-ein-kurzer-erfolgsmoment-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschlands-ungewoehnlichste-gerichtsgebaeude-millionen-fuer-prozesse-110703316.html",
-    "https://www.faz.net/aktuell/politik/inland/uns-eint-der-auftrag-zwei-generale-zur-armee-der-einheit-110707717.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-staatmodernisierung-auf-den-weg-bringen-100.html",
-    "https://www.deutschlandfunk.de/debatte-ueber-elektronische-patientenakte-epa-haelt-auch-kurz-vor-der-nutzungspflicht-fuer-aerzte-an-100.html",
     "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html",
     "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
     "https://www.deutschlandfunk.de/taliban-extremisten-blockieren-zugang-zu-internet-und-mobilfunk-in-afghanistan-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/mehr-als-120-000-unterschriften-gegen-merz-stadtbild-aeusserungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/klingbeil-widerspricht-merz-im-stadtbild-streit-110744453.html",
     "https://www.deutschlandfunk.de/ukraine-kauft-gripen-kampfjets-von-schweden-102.html",
-    "https://www.spiegel.de/politik/shutdown-usa-bund-will-notfalls-zahlungen-an-mitarbeiter-der-us-streitkraefte-in-deutschland-uebernehmen-a-e53e9d97-6205-4ad3-84f3-5273d35aaf31#ref=rss"
+    "https://www.spiegel.de/politik/shutdown-usa-bund-will-notfalls-zahlungen-an-mitarbeiter-der-us-streitkraefte-in-deutschland-uebernehmen-a-e53e9d97-6205-4ad3-84f3-5273d35aaf31#ref=rss",
+    "https://www.deutschlandfunk.de/ukraine-kauft-gripen-kampfjets-aus-schweden-100.html",
+    "https://www.deutschlandfunk.de/eurostar-kauft-franzoesische-doppeldecker-zuege-100.html",
+    "https://www.deutschlandfunk.de/40-migranten-sterben-bei-bootunsglueck-im-mittelmeer-100.html",
+    "https://www.deutschlandfunk.de/medienberichte-usa-greifen-drogenschmuggler-boot-im-pazifik-an-102.html",
+    "https://www.spiegel.de/kultur/kebab-influencer-zagros030-einmal-doener-extra-charme-a-9c212ab5-d751-475a-9cef-4dfb0146b911#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/us-shutdown-warum-zahlen-wir-fuer-us-angestellte-110744342.html"
   ],
   "content_hashes": [
-    "28c3cd3dae2848df33cdced4511ba401",
-    "84fae3ac320d26d075fe80b1ee151baf",
-    "a39761a2bf8d4b600671b81ac56fc67a",
-    "33612fc079ade1fc1064fea137a36dea",
-    "0088f0a16f7e7ce4713f3db446bb5bbe",
-    "fc6b6767c69f454ef2868ba3680a9a26",
     "e49126a756d2c802c8e305dca682378b",
     "8e73d549fa8cc2e10eab6ab79b39203d",
     "c51ed7e6ad2416182678ac3d37e32290",
@@ -2001,15 +1995,15 @@
     "80cf966aadc9c303d4f095c0f23f0194",
     "5aa08beda9895e6bef71ed0377d6a415",
     "ca6fda3dc1cb3193ca542c0b562d8de1",
-    "61c0838abfea151a6d75db88eca110e5"
+    "61c0838abfea151a6d75db88eca110e5",
+    "6c5498163e0168a11e86d7ca9e3a377a",
+    "7dac1d4c39d4847cc8af8f5c343d4efb",
+    "ff13d05c2c66a73678a0421dea7daccd",
+    "055335195e70aeb124efe167b9cbe0b8",
+    "3bb071e13b7d6d0e5668558160242332",
+    "b4242beace97ef8bdce22d4cb0909854"
   ],
   "titles": [
-    "Kommunalwahl in NRW - Bundeskanzler Merz bezeichnet CDU-Erfolge als Arbeitsauftrag für Berlin",
-    "Kommentar - Moldau trotzt dem Kreml - jetzt ist die EU am Zug",
-    "Temporäre Gerichtssäle: Wenn jeder den Angeklagten sehen will",
-    "Armee der Einheit: „Uns eint der Auftrag“",
-    "Kabinettsklausur - Bundesregierung will Staatmodernisierung auf den Weg bringen",
-    "Gesundheitspolitik - Debatte über elektronische Patientenakte (ePA) hält auch kurz vor der Nutzungspflicht für Ärzte an",
     "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht",
     "WDR-Bericht - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
     "Berichte - Taliban-Extremisten blockieren Zugang zu Internet und Mobilfunk in Afghanistan",
@@ -3003,15 +2997,15 @@
     "Petition - Mehr als 120.000 Unterschriften gegen Merz' \"Stadtbild\"-Äußerungen",
     "„Stadtbild“-Streit: Spahn springt Merz zur Seite, Klingbeil geht auf Distanz",
     "Skandinavien-Besuch - Ukraine kauft Gripen-Kampfjets von Schweden",
-    "Shutdown USA: Bund will notfalls Zahlungen an Mitarbeiter der US-Streitkräfte in Deutschland übernehmen"
+    "Shutdown USA: Bund will notfalls Zahlungen an Mitarbeiter der US-Streitkräfte in Deutschland übernehmen",
+    "Skandinavien-Besuch - Ukraine kauft Gripen-Kampfjets aus Schweden",
+    "Bahnverkehr - Eurostar kauft französische Doppeldecker-Züge",
+    "Tunesien - 40 Migranten sterben bei Bootunsglück im Mittelmeer",
+    "Südamerika - Medienberichte: USA greifen Drogenschmuggler-Boot im Pazifik an",
+    "Kebab-Influencer »Zagros030«: Einmal Döner, extra Charme",
+    "Folgen des Shutdowns: Warum zahlen wir für US-Angestellte?"
   ],
   "hashes": [
-    "a6a9155c11cd2f7b39ba36dfd02fe178",
-    "5b32df9768ea407f66abea6f0836075c",
-    "bca4fa724ad693b54244ff044f6bb9fe",
-    "f6ab0055a7b6aaeb1287ef33f764acca",
-    "1398f33139ad516421aae5113a354c30",
-    "ffbfcaa1a598f755e867f74ffd2d77f8",
     "8b17fbff13bf30fa0e50a4a75b6c8e9d",
     "fc81644cf04ae25ede8d5a51dc918d20",
     "51e5419617b88721ea2c427ef299890a",
@@ -4005,6 +3999,12 @@
     "48daa0703c4845ed76daed250a230bc2",
     "9b01ffb354d7de4f16354cc1730c82a0",
     "125936ebd5a20371bb0027e6210928ac",
-    "4198196ab77b5c1603c3fc076c1a34a9"
+    "4198196ab77b5c1603c3fc076c1a34a9",
+    "030f5b7eab9ea6dea4e05ca5f7e660ea",
+    "ed2bfd6dedd4969faf49f8ff63e36551",
+    "3596935be313d597b90172de5eb00b9d",
+    "b65d70f4e5a9cba9f1e78848f16c33e8",
+    "e44c6ef572697258ab760428703ebf04",
+    "33b830c02ce6ae8c95797b2c9315118b"
   ]
 }
