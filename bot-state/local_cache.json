@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spd-fordert-mehr-massnahmen-gegen-lebensmittel-verschwendung-102.html",
-    "https://www.deutschlandfunk.de/erster-zwischenbericht-zu-den-auswirkungen-100.html",
-    "https://www.deutschlandfunk.de/stadt-portland-und-bundesstaat-oregon-verklagen-trump-wegen-geplantem-einsatz-von-nationalgarde-100.html",
     "https://www.deutschlandfunk.de/erneut-drohnen-in-norwegen-gesichtet-fluege-umgeleitet-100.html",
     "https://www.deutschlandfunk.de/mindestens-vier-todesopfer-bei-schusswaffenangriff-auf-mormonen-kirche-auch-taeter-tot-100.html",
     "https://www.deutschlandfunk.de/pro-europaeische-partei-gewinnt-parlamentswahl-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nach-gewaltsamen-protesten-in-peru-ausnahmezustand-in-lima-fuer-30-tage-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-bei-russischen-angriffen-auf-kiew-selenskyj-in-schweden-erwartet-100.html",
     "https://www.deutschlandfunk.de/thueringens-innenminister-afd-anfragen-aehneln-kreml-auftragsliste-baumann-irrwitzige-verdaechtigung-100.html",
-    "https://www.faz.net/aktuell/politik/oesterreich-schiebt-nach-kabul-ab-ein-wichtiges-signal-110742604.html"
+    "https://www.faz.net/aktuell/politik/oesterreich-schiebt-nach-kabul-ab-ein-wichtiges-signal-110742604.html",
+    "https://www.deutschlandfunk.de/merz-reist-zum-westbalkangipfel-nach-london-100.html",
+    "https://www.deutschlandfunk.de/update-krieg-gegen-die-ukraine-mehr-geld-fuer-russische-propaganda-100.html",
+    "https://www.spiegel.de/politik/bundeswehr-und-wehrpflicht-genuegend-freiwillige-aber-zu-wenige-reservisten-a-374a6caf-ec84-49bf-9098-126d71e53730#ref=rss"
   ],
   "content_hashes": [
-    "a2f824685e853c539d7b11fdbdfd9fef",
-    "c7b233045e40e6cb4598bff476be1c46",
-    "e8fd9031c7299f09763cb9595d20c09a",
     "e60a0f6c0d0fa19eb2eccb5183f3a51c",
     "76aaa3b467eac94b9c48ce201ecd5636",
     "e167a481ad9b2945b57071fee2ebf4cb",
@@ -2001,12 +1998,12 @@
     "4b66fc079bfd9a858883d288ffc351f2",
     "44d736e833bf95269ec2ffd45ac12ca0",
     "df1bf6262cf334a2069118b9e535af9f",
-    "967af20b262c19c84da9205ebac69203"
+    "967af20b262c19c84da9205ebac69203",
+    "db905643a4bf9c6f6001f8f7a3e13179",
+    "94ab6c8cd85aae03fda0bdcfda26600f",
+    "7b9f82dd95dae3b348ff29f9b06bb108"
   ],
   "titles": [
-    "Aktionswoche \"Zu Gut für die Tonne\" - SPD fordert mehr Maßnahmen gegen Lebensmittel-Verschwendung",
-    "Cannabis-Teillegalisieirung - Erster Zwischenbericht zu den Auswirkungen",
-    "USA - Stadt Portland und Bundesstaat Oregon verklagen Trump wegen geplantem Einsatz von Nationalgarde",
     "Luftraumverletzungen - Erneut Drohnen in Norwegen gesichtet - Flüge umgeleitet",
     "USA - Mindestens vier Todesopfer bei Schusswaffenangriff auf Mormonen-Kirche - auch Täter tot",
     "Moldau - Pro-europäische Partei gewinnt Parlamentswahl",
@@ -3003,12 +3000,12 @@
     "Südamerika - Nach gewaltsamen Protesten in Peru: Ausnahmezustand in Lima für 30 Tage",
     "Ukraine - Zwei Tote bei russischen Angriffen auf Kiew - Selenskyj in Schweden erwartet",
     "Kritische Infrastruktur - Thüringens Innenminister: AfD-Anfragen ähneln \"Kreml-Auftragsliste\" - Baumann: \"irrwitzige Verdächtigungen\"",
-    "Wien schiebt nach Kabul ab: Ein wichtiges Signal"
+    "Wien schiebt nach Kabul ab: Ein wichtiges Signal",
+    "\"Berlin-Prozess\" - Merz reist zum Westbalkangipfel nach London",
+    "Ukrainekrieg - Trump sagt Gipfel nach Blockade Russlands vorerst ab",
+    "Bundeswehr und Wehrpflicht: Genügend Freiwillige, aber zu wenige Reservisten"
   ],
   "hashes": [
-    "e97e02e1e24097c11422c7a158a39f4a",
-    "80e6cb8fb9cc12d0caec0f3617999b72",
-    "c15beb6c1af0eabd3fb612b3ed496874",
     "b5ef8bcb39450a92fb3b4ee32fea63ab",
     "458c3ed8b81aace52bb6898f6b7e50f0",
     "b3458fda4ded2c6f479f3a3b9faf8215",
@@ -4005,6 +4002,9 @@
     "f9edc1e846304882bd0a172f6b5550ac",
     "cc86e6116a9aa7578886146ffcd68fe9",
     "ec0b129844bc427dedc06aa46ad80422",
-    "f5a95561c671a71220c336a49a2f2a8a"
+    "f5a95561c671a71220c336a49a2f2a8a",
+    "b5fee0a1992f352c7e8b74c79675e797",
+    "e656c5acc95e92d95f7ad7be054050a7",
+    "abe63375add7414cc424f9c1461e4382"
   ]
 }
