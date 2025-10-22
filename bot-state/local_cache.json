@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umweltminister-schneider-will-moore-fuer-klimaschutz-nutzen-100.html",
-    "https://www.deutschlandfunk.de/regierungspartei-will-proeuropaeischen-kurs-fortsetzen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/autokrise-praegt-wahlkampf-in-baden-wuerttemberg-110709151.html",
-    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
-    "https://www.deutschlandfunk.de/russland-zieht-sich-aus-europaeischer-antifolter-konvention-zurueck-104.html",
     "https://www.deutschlandfunk.de/mindestens-22-tote-bei-gewalttaetigen-protesten-102.html",
     "https://www.deutschlandfunk.de/trump-regierung-treibt-plaene-zur-wiederbelebung-des-kohleabbaus-voran-102.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-bezeichnet-cdu-erfolge-als-arbeitsauftrag-fuer-berlin-102.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/inland/vorwuerfe-gegen-tilman-kuban-cdu-abgeordneter-laesst-fraktionsamt-ruhen-110744651.html",
     "https://www.deutschlandfunk.de/krisensitzung-zu-lieferengpaessen-bei-halbleitern-100.html",
     "https://www.deutschlandfunk.de/israel-uebergibt-weitere-palaestinensische-leichen-foltervorwuerfe-der-gaza-behoerden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/innenminister-herrmann-aeussert-sich-zu-drohnensichtungen-110744454.html"
+    "https://www.faz.net/aktuell/politik/inland/innenminister-herrmann-aeussert-sich-zu-drohnensichtungen-110744454.html",
+    "https://www.deutschlandfunk.de/gerichtliche-anhoerung-ueber-zugang-internationaler-medien-zum-gazastreifen-geplant-100.html",
+    "https://www.deutschlandfunk.de/usa-dringen-auf-gespraeche-mit-china-wegen-exportverschaerfungen-100.html",
+    "https://www.deutschlandfunk.de/vogelgrippe-breitet-sich-in-ostdeutschen-laendern-weiter-aus-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-120-000-unterschriften-gegen-merz-stadtbild-aeusserungen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/klingbeil-widerspricht-merz-im-stadtbild-streit-110744453.html"
   ],
   "content_hashes": [
-    "bd49f2c9c035923f7faa24dedc49881e",
-    "5bd7fe3c2ecd1f7196cdc65dc69460ac",
-    "b13238fb8647f63702ea09dadf2dc11c",
-    "6334780347b5a9f80ee6dfc576d672cc",
-    "6c693f82f37a288daf545746ce268bf3",
     "8108ff0d247dc3b1512c891eb660704b",
     "287dd1e2b15374360181faf7ce15bb30",
     "28c3cd3dae2848df33cdced4511ba401",
@@ -2001,14 +1996,14 @@
     "dbd65105b3ad9c5206ce4b346f2ee8fd",
     "78c213f43366c8529cd5fe7aae956755",
     "8d774507899df57b0cfbdb8b709cca7d",
-    "40b59fa4a22ad31e7e825155bd103eee"
+    "40b59fa4a22ad31e7e825155bd103eee",
+    "18f5eb5b3973871bd4e7358a2e558057",
+    "96dfb5535d8069c65df9609646fefe8a",
+    "28121287127636cf9adc23b0cd684ae5",
+    "80cf966aadc9c303d4f095c0f23f0194",
+    "5aa08beda9895e6bef71ed0377d6a415"
   ],
   "titles": [
-    "Klimaschutz - Umweltminister Schneider will Moore für Klimaschutz nutzen",
-    "Parlamentswahl in Moldau - Regierungspartei will proeuropäischen Kurs fortsetzen",
-    "Baden-Württemberg: Autoland ist abgebrannt",
-    "WDR-Bericht - Wahl-Panne in Mülheim: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
-    "Neues Gesetz - Russland zieht sich aus europäischer Antifolter-Konvention zurück",
     "Madagaskar - Mindestens 22 Tote bei gewalttätigen Protesten",
     "USA - Trump-Regierung treibt Pläne zur Wiederbelebung des Kohleabbaus voran",
     "Kommunalwahl in NRW - Bundeskanzler Merz bezeichnet CDU-Erfolge als Arbeitsauftrag für Berlin",
@@ -3003,14 +2998,14 @@
     "Ex-Junge-Union-Chef: CDU-Abgeordneter Kuban lässt Fraktionsamt ruhen",
     "Wirtschaft - Krisensitzung zu Lieferengpässen bei Halbleitern",
     "Nahost - Israel übergibt weitere palästinensische Leichen - Foltervorwürfe der Gaza-Behörden",
-    "Bayerns Innenminister: Mit starken Worten gegen Drohnen"
+    "Bayerns Innenminister: Mit starken Worten gegen Drohnen",
+    "Nahost - Gerichtliche Anhörung über Zugang internationaler Medien zum Gazastreifen geplant",
+    "Seltene Erden - USA dringen auf Gespräche mit China wegen Exportverschärfungen",
+    "Tierkrankheit - Vogelgrippe breitet sich in ostdeutschen Ländern weiter aus",
+    "Petition - Mehr als 120.000 Unterschriften gegen Merz' \"Stadtbild\"-Äußerungen",
+    "„Stadtbild“-Streit: Spahn springt Merz zur Seite, Klingbeil geht auf Distanz"
   ],
   "hashes": [
-    "126b916d499973ca557f3a1d94bac48e",
-    "653bea21d8c1fffc9ff90b198330e455",
-    "d55072d44220a25b6cdbf82827521acd",
-    "212c2b25706025805c01cef83fb20d60",
-    "2912962d4df7ed834e0dbcbb5aaf08dc",
     "c2a2c9d1b60e73eef0768c0bce050089",
     "ae20e50c19176741b5a248ab80f6a693",
     "a6a9155c11cd2f7b39ba36dfd02fe178",
@@ -4005,6 +4000,11 @@
     "46db322c4b22cb1a25847f63ea79b360",
     "e3c9cc5ba1352832b46d39c020ce45eb",
     "320eeff57575ee34a22c082b827fe365",
-    "d7e3ffb0793ad7a3c4ac81954e47e133"
+    "d7e3ffb0793ad7a3c4ac81954e47e133",
+    "85d24995d34dd0a641acd6149579b100",
+    "0c5968aa0a91248876736b09831c6a78",
+    "7593777403bfc23ed3c8e447b130bb78",
+    "48daa0703c4845ed76daed250a230bc2",
+    "9b01ffb354d7de4f16354cc1730c82a0"
   ]
 }
