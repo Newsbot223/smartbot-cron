@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/harald-juhnke-platz-am-kurfuerstendamm-offiziell-eingeweiht-100.html",
-    "https://www.deutschlandfunk.de/wahl-panne-in-muelheim-an-der-ruhr-spd-kandidatin-wird-doch-nicht-oberbuergermeisterin-100.html",
-    "https://www.deutschlandfunk.de/taliban-extremisten-blockieren-zugang-zu-internet-und-mobilfunk-in-afghanistan-100.html",
     "https://www.deutschlandfunk.de/netanjahu-bittet-waehrend-treffen-mit-trump-katar-um-entschuldigung-fuer-angriff-auf-hamas-funktiona-100.html",
     "https://www.deutschlandfunk.de/praesident-entlaesst-regierung-nach-gewalttaetigen-protesten-108.html",
     "https://www.deutschlandfunk.de/nrw-gesundheitsminister-laumann-cdu-offen-fuer-reform-der-pflegegrade-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/40-migranten-sterben-bei-bootunsglueck-im-mittelmeer-100.html",
     "https://www.deutschlandfunk.de/medienberichte-usa-greifen-drogenschmuggler-boot-im-pazifik-an-102.html",
     "https://www.spiegel.de/kultur/kebab-influencer-zagros030-einmal-doener-extra-charme-a-9c212ab5-d751-475a-9cef-4dfb0146b911#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/us-shutdown-warum-zahlen-wir-fuer-us-angestellte-110744342.html"
+    "https://www.faz.net/aktuell/politik/inland/us-shutdown-warum-zahlen-wir-fuer-us-angestellte-110744342.html",
+    "https://www.deutschlandfunk.de/aussenpolitiker-von-union-und-gruenen-begruessen-vorlaeufige-absage-des-trump-putin-treffens-100.html",
+    "https://www.deutschlandfunk.de/kommunikationsbehoerde-schraenkt-erneut-messengerdienste-im-internet-ein-100.html",
+    "https://www.spiegel.de/politik/friedrich-merz-kanzler-konkretisiert-stadtbild-aussage-zu-einwanderern-a-79710163-8edf-4bf6-9a59-4c276ddbbc2c#ref=rss"
   ],
   "content_hashes": [
-    "e49126a756d2c802c8e305dca682378b",
-    "8e73d549fa8cc2e10eab6ab79b39203d",
-    "c51ed7e6ad2416182678ac3d37e32290",
     "24cdd1051c66a33724e2b2c388d990bf",
     "b7dc37ec916d4ac0def6b54e2e71ac1c",
     "8d45f07e8c586426dcd82876268202f4",
@@ -2001,12 +1998,12 @@
     "ff13d05c2c66a73678a0421dea7daccd",
     "055335195e70aeb124efe167b9cbe0b8",
     "3bb071e13b7d6d0e5668558160242332",
-    "b4242beace97ef8bdce22d4cb0909854"
+    "b4242beace97ef8bdce22d4cb0909854",
+    "42e189ec1e97134b3e24123b869658ec",
+    "8c1b5cb73c274e10fd488a7143b13e85",
+    "d66530293980803f7cadf338286c04d3"
   ],
   "titles": [
-    "Berlin - Harald-Juhnke-Platz am Kurfürstendamm offiziell eingeweiht",
-    "WDR-Bericht - Wahl-Panne in Mülheim an der Ruhr: SPD-Kandidatin wird doch nicht Oberbürgermeisterin",
-    "Berichte - Taliban-Extremisten blockieren Zugang zu Internet und Mobilfunk in Afghanistan",
     "Washington - Netanjahu bittet während Treffen mit Trump Katar um Entschuldigung für Angriff auf Hamas-Funktionäre in Doha",
     "Madagaskar - Präsident entlässt Regierung nach gewalttätigen Protesten",
     "Pflegeversicherung - NRW-Gesundheitsminister Laumann (CDU) offen für Reform der Pflegegrade",
@@ -3003,12 +3000,12 @@
     "Tunesien - 40 Migranten sterben bei Bootunsglück im Mittelmeer",
     "Südamerika - Medienberichte: USA greifen Drogenschmuggler-Boot im Pazifik an",
     "Kebab-Influencer »Zagros030«: Einmal Döner, extra Charme",
-    "Folgen des Shutdowns: Warum zahlen wir für US-Angestellte?"
+    "Folgen des Shutdowns: Warum zahlen wir für US-Angestellte?",
+    "Ukraine-Krieg - Außenpolitiker von Union und Grünen begrüßen vorläufige Absage des Trump-Putin-Treffens",
+    "Russland - Kommunikationsbehörde schränkt erneut Messengerdienste im Internet ein",
+    "Friedrich Merz: Kanzler konkretisiert »Stadtbild«-Aussage zu Einwanderern"
   ],
   "hashes": [
-    "8b17fbff13bf30fa0e50a4a75b6c8e9d",
-    "fc81644cf04ae25ede8d5a51dc918d20",
-    "51e5419617b88721ea2c427ef299890a",
     "04c1f81c46ba93f8856261d03cb3de21",
     "e8569d22bce8382d755759dbe836480c",
     "76f12b388948af7a05043c9a478d38a9",
@@ -4005,6 +4002,9 @@
     "3596935be313d597b90172de5eb00b9d",
     "b65d70f4e5a9cba9f1e78848f16c33e8",
     "e44c6ef572697258ab760428703ebf04",
-    "33b830c02ce6ae8c95797b2c9315118b"
+    "33b830c02ce6ae8c95797b2c9315118b",
+    "ef0ebf94d90e70dda126cf7c6efa108c",
+    "8e83b9ac674cbdd006b0c8241685a9a3",
+    "08e56d715077fad39f8f87cdc878c75c"
   ]
 }
