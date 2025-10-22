@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/meilensteine-helfen-nicht-gegen-putins-drohnen-110707676.html",
-    "https://www.deutschlandfunk.de/taliban-geben-freilassung-von-us-staatsbuerger-bekannt-100.html",
-    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-reist-zu-gespraechen-nach-polen-102.html",
     "https://www.deutschlandfunk.de/spd-fordert-mehr-massnahmen-gegen-lebensmittel-verschwendung-102.html",
     "https://www.deutschlandfunk.de/erster-zwischenbericht-zu-den-auswirkungen-100.html",
     "https://www.deutschlandfunk.de/stadt-portland-und-bundesstaat-oregon-verklagen-trump-wegen-geplantem-einsatz-von-nationalgarde-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nordkorea-feuert-erneut-rakete-richtung-meer-ab-110.html",
     "https://www.spiegel.de/panorama/wuppertal-unbekannte-attackieren-schwebebahn-polizei-ermittelt-a-53c79049-c0fd-4283-8f48-bd621c6b629b#ref=rss",
     "https://www.deutschlandfunk.de/brandenburgs-cdu-landeschef-redmann-unterstuetzt-merz-nach-stadtbild-aeusserung-100.html",
-    "https://www.deutschlandfunk.de/nach-gewaltsamen-protesten-in-peru-ausnahmezustand-in-lima-fuer-30-tage-100.html"
+    "https://www.deutschlandfunk.de/nach-gewaltsamen-protesten-in-peru-ausnahmezustand-in-lima-fuer-30-tage-100.html",
+    "https://www.deutschlandfunk.de/zwei-tote-bei-russischen-angriffen-auf-kiew-selenskyj-in-schweden-erwartet-100.html",
+    "https://www.deutschlandfunk.de/thueringens-innenminister-afd-anfragen-aehneln-kreml-auftragsliste-baumann-irrwitzige-verdaechtigung-100.html",
+    "https://www.faz.net/aktuell/politik/oesterreich-schiebt-nach-kabul-ab-ein-wichtiges-signal-110742604.html"
   ],
   "content_hashes": [
-    "e55ff4bdac0e7ebdf7a51ea351d4c9ee",
-    "c734027ee29a623546dc80a9ea20b069",
-    "16580d19da2a567e2d9c6619d75839dd",
     "a2f824685e853c539d7b11fdbdfd9fef",
     "c7b233045e40e6cb4598bff476be1c46",
     "e8fd9031c7299f09763cb9595d20c09a",
@@ -2001,12 +1998,12 @@
     "0a0d04f63d78440e23e3e87a9afb5a62",
     "06586bce8932b7b9e275464614a12280",
     "19d4f0f17e7e2b435771a1d3a4077c7b",
-    "4b66fc079bfd9a858883d288ffc351f2"
+    "4b66fc079bfd9a858883d288ffc351f2",
+    "44d736e833bf95269ec2ffd45ac12ca0",
+    "df1bf6262cf334a2069118b9e535af9f",
+    "967af20b262c19c84da9205ebac69203"
   ],
   "titles": [
-    "Luftsicherheitsgesetz: Meilensteine helfen nicht gegen Putins Drohnen",
-    "Afghanistan - Taliban geben Freilassung von US-Staatsbürger bekannt",
-    "Weimarer Dreieck-Format - Bundesaußenminister Wadephul reist zu Gesprächen nach Polen",
     "Aktionswoche \"Zu Gut für die Tonne\" - SPD fordert mehr Maßnahmen gegen Lebensmittel-Verschwendung",
     "Cannabis-Teillegalisieirung - Erster Zwischenbericht zu den Auswirkungen",
     "USA - Stadt Portland und Bundesstaat Oregon verklagen Trump wegen geplantem Einsatz von Nationalgarde",
@@ -3003,12 +3000,12 @@
     "Ost-Asien - Nordkorea feuert erneut Rakete Richtung Meer ab",
     "Wuppertal: Unbekannte attackieren Schwebebahn - Polizei ermittelt",
     "Debatte - Brandenburgs CDU-Landeschef Redmann unterstützt Merz nach \"Stadtbild\"-Äußerung",
-    "Südamerika - Nach gewaltsamen Protesten in Peru: Ausnahmezustand in Lima für 30 Tage"
+    "Südamerika - Nach gewaltsamen Protesten in Peru: Ausnahmezustand in Lima für 30 Tage",
+    "Ukraine - Zwei Tote bei russischen Angriffen auf Kiew - Selenskyj in Schweden erwartet",
+    "Kritische Infrastruktur - Thüringens Innenminister: AfD-Anfragen ähneln \"Kreml-Auftragsliste\" - Baumann: \"irrwitzige Verdächtigungen\"",
+    "Wien schiebt nach Kabul ab: Ein wichtiges Signal"
   ],
   "hashes": [
-    "6414ee8a6a05326873d5cd02c72e6e01",
-    "2bb7b9915c1d4277fe80665357aa1646",
-    "93bab86bb6acda42f2dad8a2192fb342",
     "e97e02e1e24097c11422c7a158a39f4a",
     "80e6cb8fb9cc12d0caec0f3617999b72",
     "c15beb6c1af0eabd3fb612b3ed496874",
@@ -4005,6 +4002,9 @@
     "e574046ad817eb07e27dca00b12fe381",
     "b21cdb8b921b982dac3b23f4867e105b",
     "66cac5a78d5f5945db188b15cfe4e053",
-    "f9edc1e846304882bd0a172f6b5550ac"
+    "f9edc1e846304882bd0a172f6b5550ac",
+    "cc86e6116a9aa7578886146ffcd68fe9",
+    "ec0b129844bc427dedc06aa46ad80422",
+    "f5a95561c671a71220c336a49a2f2a8a"
   ]
 }
