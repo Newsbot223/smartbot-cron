@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/feuer-verwuestet-etosha-nationalpark-in-namibia-100.html",
-    "https://www.deutschlandfunk.de/nachtzug-von-berlin-nach-paris-wird-im-dezember-eingestellt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bundeswehr-in-der-zeitenwende-mehr-scharnhorst-wagen-accg-110707547.html",
-    "https://www.faz.net/aktuell/politik/inland/geforderte-kanzlerpartei-cdu-pur-geht-so-nicht-accg-110707715.html",
     "https://www.faz.net/aktuell/politik/inland/was-die-afd-noch-nicht-einmal-geschenkt-haben-moechte-110692939.html",
     "https://www.deutschlandfunk.de/pflege-interview-mit-christos-pastazis-spd-gesundheitspolitiker-100.html",
     "https://www.spiegel.de/panorama/deutschland-zahl-der-hundertjaehrigen-stark-gestiegen-a-2643bc82-c4d7-4c0f-aa19-4daaf045b0df#ref=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/russlands-armee-beginnt-nukleares-uebungsmanoever-102.html",
     "https://www.deutschlandfunk.de/steinmeier-feiert-neubau-der-deutschen-botschaft-in-wien-102.html",
     "https://www.deutschlandfunk.de/klingbeil-fordert-von-unternehmen-mehr-standortpatriotismus-102.html",
-    "https://www.faz.net/aktuell/politik/inland/verfassungstreue-beamte-die-laender-pruefen-ganz-unterschiedlich-110741042.html"
+    "https://www.faz.net/aktuell/politik/inland/verfassungstreue-beamte-die-laender-pruefen-ganz-unterschiedlich-110741042.html",
+    "https://www.deutschlandfunk.de/bundeswirtschaftsministerium-spricht-mit-verbaenden-ueber-lieferprobleme-bei-halbleitern-100.html",
+    "https://www.deutschlandfunk.de/betrug-mit-eu-subventionen-37-festnahmen-100.html",
+    "https://www.deutschlandfunk.de/inzwischen-120-000-unterschriften-unter-petition-gegen-merz-stadtbild-aeusserungen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/spionageverdacht-afd-unter-druck-wegen-anfragen-zu-sicherheit-110744369.html"
   ],
   "content_hashes": [
-    "f3c29ef66ff8c371acc7341ec9143661",
-    "25c5a2947186036829f4db14011245f7",
-    "cd631068ce48c5e30bf6108f171dcbfd",
-    "8d6ab6d80abeff2bd513789df0cda714",
     "a087f3e355ce580755962effdd828c4b",
     "9908b98747e6079a2e4f4c0f59f864d0",
     "fba72739428321c2a4bbe19c0b1e404a",
@@ -2001,13 +1997,13 @@
     "586867dfe50e3a0bec09113c9ef7625a",
     "136753df797d632e0b102573cf90e633",
     "33747769f80b41cc31c2e9eac94daaf4",
-    "372b6b6d641df08268cdd13ff93bce72"
+    "372b6b6d641df08268cdd13ff93bce72",
+    "a82945087a8b65b11f6a27900d2a7be2",
+    "031714c520f0da4116078f788cb83c1f",
+    "e5b1e0047485c8ebf1506210daf4aa82",
+    "bd0cbb244047f264da60123c61271255"
   ],
   "titles": [
-    "Wildreservat - Feuer verwüstet Etosha-Nationalpark in Namibia",
-    "Nach zwei Jahren - Nachtzug von Berlin nach Paris wird im Dezember eingestellt",
-    "Wie gelingt die Zeitenwende?: Die Bundeswehr entfesseln",
-    "Geforderte Kanzlerpartei: „CDU pur“ geht so nicht",
     "Kulturzentrum, nein danke: Wenn die AfD bestimmt, was weg soll",
     "Reformdiskussion - Der Pflegegrad 1 könnte wegfallen",
     "Deutschland: Zahl der Hundertjährigen stark gestiegen",
@@ -3003,13 +2999,13 @@
     "Nach NATO-Manöver-Start - Russlands Armee beginnt nukleares Übungsmanöver",
     "Offizielle Eröffnung - Steinmeier feiert Neubau der Deutschen Botschaft in Wien",
     "Wirtschaft - Klingbeil fordert von Unternehmen mehr \"Standortpatriotismus\"",
-    "Verfassungstreue-Prüfung: Wie die Bundesländer Extremisten im Staatsdienst verhindern wollen"
+    "Verfassungstreue-Prüfung: Wie die Bundesländer Extremisten im Staatsdienst verhindern wollen",
+    "Wirtschaft - Bundeswirtschaftsministerium spricht mit Verbänden über Lieferprobleme bei Halbleitern",
+    "Griechenland - Betrug mit EU-Subventionen - 37 Festnahmen",
+    "Inzwischen 120.000 Unterschriften unter Petition gegen Merz' \"Stadtbild\"-Äußerungen",
+    "Spionageverdacht: Ein Landesverrat der AfD?"
   ],
   "hashes": [
-    "6fe62cc3bc9759489f2d19973ddf0518",
-    "3a2e4b4823bab5c8b541e0f76b921c82",
-    "897f69c78ee8e8b87e13f7d2b6f5c566",
-    "d3454736c43595708552da4bfa9d898a",
     "84b1211e4a124aee5950da6746e5edd4",
     "81f6086078a5a2e7f329229c32ce52cc",
     "a5e3457985f42ad62669919572a9ae75",
@@ -4005,6 +4001,10 @@
     "46b0a02ae25c16fb00ee13d0b2d51714",
     "c74b12a219024490ca5dfcf31bb6b99f",
     "ea36cf1d90ff7ea135a09531aaf5e7ef",
-    "ba7a68bea39216e65a247f42ea98b565"
+    "ba7a68bea39216e65a247f42ea98b565",
+    "1a4dc666aa971f6d2f85115c7dbd38a4",
+    "6d186b87160fd642163170a5aaa918dd",
+    "34d3fe86a9317022578a6d14d3e945b7",
+    "1aad5082613e3afd12f7e698fb616f95"
   ]
 }
