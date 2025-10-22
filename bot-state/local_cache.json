@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/kryptodienst-anom-fbi-operation-beruht-auf-fragwuerdigem-beschluss-accg-110707726.html",
-    "https://www.deutschlandfunk.de/mehrere-verletzte-bei-schwerem-busunglueck-100.html",
     "https://www.deutschlandfunk.de/todesopfer-nach-massenschlaegerei-in-gelsenkirchen-100.html",
     "https://www.spiegel.de/panorama/deutschland-alter-zahl-der-hundertjaehrigen-stark-gestiegen-a-2643bc82-c4d7-4c0f-aa19-4daaf045b0df#ref=rss",
     "https://www.deutschlandfunk.de/lufthansa-will-4-000-stellen-streichen-verdi-kuendigt-widerstand-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-chefin-nikutta-100.html",
     "https://www.deutschlandfunk.de/studie-ki-suche-bei-nachrichten-oft-fehlerhaft-100.html",
     "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-db-cargo-chefin-nikutta-100.html",
-    "https://www.deutschlandfunk.de/sacharow-preis-geht-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-100.html"
+    "https://www.deutschlandfunk.de/sacharow-preis-geht-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-100.html",
+    "https://www.deutschlandfunk.de/branchenverband-vda-sieht-keine-anzeichen-fuer-trendwende-sorge-wegen-computerchips-100.html",
+    "https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss"
   ],
   "content_hashes": [
-    "d3c634bc3c0d50f10686833f896ba8a5",
-    "80cd055569be5ddecfa643a230abeb33",
     "4018a949d5f8187f885e7e86844f9de5",
     "7629df80230aea836f3af0a318ef1016",
     "ebaaeb72aa4e4161a79888bed0240c46",
@@ -2001,11 +1999,11 @@
     "5678cc94a107ce8d0316daa570931517",
     "268f3108f78cbdca0f01f90c4f5c3ed3",
     "66b1b784f9a7950b5c18047cc51357c1",
-    "b9233463852c89401317d16181b228fc"
+    "b9233463852c89401317d16181b228fc",
+    "5999c094e3241c935474d17f24eb9670",
+    "27485ae25c4fe0daa24d0bbf1bb9b096"
   ],
   "titles": [
-    "Weltweite FBI-Operation: Wie Ermittler Tausende Kriminelle täuschten – und eine Richterin",
-    "Hamburg - Mehrere Verletzte bei schwerem Busunglück",
     "Großeinsatz - Todesopfer nach Massenschlägerei in Gelsenkirchen",
     "Deutschland / Alter: Zahl der Hundertjährigen stark gestiegen",
     "Höheres Renditeziel - Lufthansa will 4.000 Stellen streichen - Verdi kündigt Widerstand an",
@@ -3003,11 +3001,11 @@
     "DB Cargo - Deutsche Bahn trennt sich von Chefin Nikutta",
     "Europäische Rundfunkunion - Studie: KI-Suche bei Nachrichten oft fehlerhaft",
     "Güterverkehr - Deutsche Bahn trennt sich von DB-Cargo-Chefin Nikutta",
-    "Auszeichnung - Sacharow-Preis geht an zwei in Belarus und Georgien inhaftierte Journalisten"
+    "Auszeichnung - Sacharow-Preis geht an zwei in Belarus und Georgien inhaftierte Journalisten",
+    "Autoindustrie - Branchenverband VDA sieht keine Anzeichen für Trendwende - Sorge wegen Computerchips",
+    "Einwanderer arbeiten besonders oft in Mangelberufen und selten als Polizisten"
   ],
   "hashes": [
-    "d23a2584ab8e2ca690b5c883e6716907",
-    "98a6c34221c6f5a475e6a3b4c940e9a0",
     "3196cdf1b22f18fc1dfd2ba7b29d19fe",
     "5696c12aa8b5a58c97124d706d3fd2aa",
     "71895b68ee03b26e79998675df5794b3",
@@ -4005,6 +4003,8 @@
     "777c75a2e9f60b169a23a2c358a7427a",
     "f3c44bf040634219591a38024fcba753",
     "7625b65d6c2101bc3d867509253f0b63",
-    "7d6aee8465feb5139ab638829090a484"
+    "7d6aee8465feb5139ab638829090a484",
+    "debc6c46860bba602143bfed4a304819",
+    "58af574d41789dfa164d283b1c48be67"
   ]
 }
