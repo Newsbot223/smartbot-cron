@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berliner-gespraech-diskussion-um-drohnenabwehr-haelt-an-100.html",
-    "https://www.deutschlandfunk.de/mindestens-ein-toter-bei-protesten-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/demografischer-wandel-immer-mehr-deutsche-werden-sehr-alt-102.html",
     "https://www.deutschlandfunk.de/nach-den-nrw-stichwahlen-100.html",
     "https://www.faz.net/aktuell/politik/kryptodienst-anom-fbi-operation-beruht-auf-fragwuerdigem-beschluss-accg-110707726.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/menschen-mit-einwanderungsgeschichte-oft-in-engpassberufen-taetig-100.html",
     "https://www.deutschlandfunk.de/deutsche-forschungsinstitute-sind-fuehrend-bei-patentanmeldungen-102.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-zivile-verteidigung-in-deutschland-100.html",
-    "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-wie-schwesig-gegen-die-afd-ankaempft-accg-110735937.html"
+    "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-wie-schwesig-gegen-die-afd-ankaempft-accg-110735937.html",
+    "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-chefin-nikutta-100.html",
+    "https://www.deutschlandfunk.de/studie-ki-suche-bei-nachrichten-oft-fehlerhaft-100.html"
   ],
   "content_hashes": [
-    "081e4e112745b6d54870e3a6ef557ff4",
-    "332c352f1e6affbcaace4f60a609367c",
     "a9b26b57393898ad3f9ebfcbd655b33f",
     "4adee784ebb117bc08205a2e6eb76a39",
     "d3c634bc3c0d50f10686833f896ba8a5",
@@ -2001,11 +1999,11 @@
     "7c13c6667edc7f729cc8139bf2519de5",
     "7861134ed90363b71a8286f5032db908",
     "11659e84afa6b8d4e5a8b2ac37002c20",
-    "31d501d69458c85b99e51b01a3338f53"
+    "31d501d69458c85b99e51b01a3338f53",
+    "5678cc94a107ce8d0316daa570931517",
+    "268f3108f78cbdca0f01f90c4f5c3ed3"
   ],
   "titles": [
-    "Drohnenabwehr - Innenminister Dobrindt erwägt Amtshilfe durch die Bundeswehr",
-    "Ecuador - Mindestens ein Toter bei Protesten gegen die Regierung",
     "Demografischer Wandel Immer mehr Deutsche werden sehr alt",
     "Nordrhein-Westfalen - AfD-Kandidaten unterliegen bei Kommunal-Stichwahl",
     "Weltweite FBI-Operation: Wie Ermittler Tausende Kriminelle täuschten – und eine Richterin",
@@ -3003,11 +3001,11 @@
     "Statistisches Bundesamt - Menschen mit Einwanderungsgeschichte oft in Engpassberufen tätig",
     "Studie - Deutsche Forschungsinstitute sind führend bei Patentanmeldungen",
     "Länder beraten - Zivilschutz in Deutschland soll verbessert werden",
-    "Schwesig und die AfD: Die Landfrauen sind wütend"
+    "Schwesig und die AfD: Die Landfrauen sind wütend",
+    "DB Cargo - Deutsche Bahn trennt sich von Chefin Nikutta",
+    "Europäische Rundfunkunion - Studie: KI-Suche bei Nachrichten oft fehlerhaft"
   ],
   "hashes": [
-    "f76fbd99073ed0c21dc9a8afc706a991",
-    "0df22db7a8b8916d545b9fbe4844748b",
     "8921bde8c7a6f1529eecde59526986f6",
     "e1fc3ecc650901ddbf1d7151df7706c0",
     "d23a2584ab8e2ca690b5c883e6716907",
@@ -4005,6 +4003,8 @@
     "dfd670dc62c0b057e1071f0102ad7d60",
     "926fbf4dce8866d349bbf3d9e117a4f8",
     "352ca35248121fb68b75f62bffc64d7f",
-    "694afd7ae51fe5346e281b611a0bd02c"
+    "694afd7ae51fe5346e281b611a0bd02c",
+    "777c75a2e9f60b169a23a2c358a7427a",
+    "f3c44bf040634219591a38024fcba753"
   ]
 }
