@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lufthansa-will-4-000-stellen-in-der-verwaltung-streichen-100.html",
-    "https://www.deutschlandfunk.de/luftraum-ueber-flughafen-oslo-zeitweise-gesperrt-weitere-diskussionen-ueber-umgang-mit-drohnen-100.html",
-    "https://www.deutschlandfunk.de/mittelstand-beklagt-schleppendes-reformtempo-durch-die-regierung-100.html",
-    "https://www.deutschlandfunk.de/sozialverband-schocknachricht-verunsichert-die-menschen-100.html",
-    "https://www.deutschlandfunk.de/auch-die-union-erwaegt-staerkeren-jugendschutz-100.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-diskussion-um-drohnenabwehr-haelt-an-100.html",
     "https://www.deutschlandfunk.de/mindestens-ein-toter-bei-protesten-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/demografischer-wandel-immer-mehr-deutsche-werden-sehr-alt-102.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/niedersachsens-umweltminister-will-hersteller-von-feuchttuechern-zur-kasse-bitten-100.html",
     "https://www.deutschlandfunk.de/guatemalas-parlament-beschliesst-gesetz-gegen-kriminelle-banden-100.html",
     "https://www.deutschlandfunk.de/missbrauchsvorwuerfe-gegen-prinz-andrew-britische-krone-unter-druck-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/merkel-zur-ukraine-die-grenzen-des-dialogs-mit-putin-accg-110741235.html"
+    "https://www.faz.net/aktuell/politik/ausland/merkel-zur-ukraine-die-grenzen-des-dialogs-mit-putin-accg-110741235.html",
+    "https://www.deutschlandfunk.de/selenskyj-in-norwegen-und-schweden-mehrere-tote-bei-russischen-angriffen-auf-kiew-100.html",
+    "https://www.deutschlandfunk.de/menschen-mit-einwanderungsgeschichte-oft-in-engpassberufen-taetig-100.html",
+    "https://www.deutschlandfunk.de/deutsche-forschungsinstitute-sind-fuehrend-bei-patentanmeldungen-102.html",
+    "https://www.deutschlandfunk.de/berliner-gespraech-zivile-verteidigung-in-deutschland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-wie-schwesig-gegen-die-afd-ankaempft-accg-110735937.html"
   ],
   "content_hashes": [
-    "97358c02185006d881b7c7d450f72cd9",
-    "191ad03f37720a9c2a88ce930dd5826d",
-    "c2ec4266c75d20f3d36bf0751961848f",
-    "869bddb875ccc373e5819d167a83fa0e",
-    "8d22f4997cd9aec67b02aaf96c30c0b3",
     "081e4e112745b6d54870e3a6ef557ff4",
     "332c352f1e6affbcaace4f60a609367c",
     "a9b26b57393898ad3f9ebfcbd655b33f",
@@ -2001,14 +1996,14 @@
     "6fe4140d837023763d5da142807c933f",
     "22df72419aa4bcb4ffb06d033d8858c6",
     "3e914d5c3844b8cebeee6ec32725b357",
-    "d665c87464ceb9f13d12bd5d0e01e766"
+    "d665c87464ceb9f13d12bd5d0e01e766",
+    "4a15a3f47d2165596e094d7f8631a6f1",
+    "7c13c6667edc7f729cc8139bf2519de5",
+    "7861134ed90363b71a8286f5032db908",
+    "11659e84afa6b8d4e5a8b2ac37002c20",
+    "31d501d69458c85b99e51b01a3338f53"
   ],
   "titles": [
-    "Höheres Renditeziel - Lufthansa will 4.000 Stellen in der Verwaltung streichen",
-    "Neue Drohnen-Sichtungen - Luftraum über Flughafen Oslo zeitweise gesperrt - Weitere Diskussionen über Umgang mit Drohnen",
-    "Wirtschaft - Mittelstand beklagt schleppendes Reformtempo durch die Regierung",
-    "Debatte zum Pflegegrad 1 - Sozialverband: \"Schocknachricht\" verunsichert die Menschen",
-    "Social Media - Auch die Union erwägt stärkeren Jugendschutz",
     "Drohnenabwehr - Innenminister Dobrindt erwägt Amtshilfe durch die Bundeswehr",
     "Ecuador - Mindestens ein Toter bei Protesten gegen die Regierung",
     "Demografischer Wandel Immer mehr Deutsche werden sehr alt",
@@ -3003,14 +2998,14 @@
     "Abwasserreinigung - Niedersachsens Umweltminister will Hersteller von Feuchttüchern zur Kasse bitten",
     "Mittelamerika - Guatemalas Parlament beschließt Gesetz gegen kriminelle Banden",
     "Kommentar zu Missbrauchsvorwürfen - Prinz Andrew sollte ins Exil im Ausland gehen",
-    "Merkel und der Ukrainekrieg: Die Dialog-Altlasten der Kanzlerin"
+    "Merkel und der Ukrainekrieg: Die Dialog-Altlasten der Kanzlerin",
+    "Ukraine - Selenskyj in Norwegen und Schweden - Mehrere Tote bei russischen Angriffen auf Kiew",
+    "Statistisches Bundesamt - Menschen mit Einwanderungsgeschichte oft in Engpassberufen tätig",
+    "Studie - Deutsche Forschungsinstitute sind führend bei Patentanmeldungen",
+    "Länder beraten - Zivilschutz in Deutschland soll verbessert werden",
+    "Schwesig und die AfD: Die Landfrauen sind wütend"
   ],
   "hashes": [
-    "2f0c1b7690dd3fec5044a1f4d47f8832",
-    "2db5068b4b5c32edd150dc0e4ad8b3d7",
-    "3d0bea43a900341275436d9cd804a5c6",
-    "00588a110074019c3db750ba13e9218e",
-    "118c34cba14bee4d971383d2ab3c5009",
     "f76fbd99073ed0c21dc9a8afc706a991",
     "0df22db7a8b8916d545b9fbe4844748b",
     "8921bde8c7a6f1529eecde59526986f6",
@@ -4005,6 +4000,11 @@
     "4ec4669c8f5103c1c9b82e595315906c",
     "0a8561cda4e7ea3f06fdc03b8d3ad107",
     "552a76fcf4193110e6b168b4fb0187de",
-    "3003c43b5b2118e0878aea04078464b1"
+    "3003c43b5b2118e0878aea04078464b1",
+    "19ad62adb70fbe5511736dea663f4482",
+    "dfd670dc62c0b057e1071f0102ad7d60",
+    "926fbf4dce8866d349bbf3d9e117a4f8",
+    "352ca35248121fb68b75f62bffc64d7f",
+    "694afd7ae51fe5346e281b611a0bd02c"
   ]
 }
