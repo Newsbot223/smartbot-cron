@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mutmasslicher-syrischer-milizenfuehrer-festgenommen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/kabinettsklausur-merz-will-deutschland-wettbewerbsfaehig-machen-accg-110710235.html",
-    "https://www.deutschlandfunk.de/33-000-studierende-warten-zu-semesterbeginn-auf-wohnheimplatz-100.html",
-    "https://www.deutschlandfunk.de/ukrainer-wegen-nord-stream-anschlaegen-in-polen-festgenommen-100.html",
     "https://www.deutschlandfunk.de/usa-schieben-nach-absprache-mit-teheran-100-iraner-ab-102.html",
     "https://www.deutschlandfunk.de/plan-fuer-gaza-interview-nazih-musharbash-dt-palaest-gesellschaft-100.html",
     "https://www.deutschlandfunk.de/deutscher-kabarettpreis-geht-an-satiriker-christian-ehring-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-kritisiert-knesset-entscheidung-zum-westjordanland-100.html",
     "https://www.aljazeera.com/news/2025/10/23/russia-ukraine-war-list-of-key-events-day-1337?traffic_source=rss",
     "https://www.deutschlandfunk.de/us-militaer-greift-drogenschmuggler-boote-im-pazifik-an-fuenf-tote-100.html",
-    "https://www.deutschlandfunk.de/us-verteidigungsministerium-stellt-neue-presse-crew-vor-100.html"
+    "https://www.deutschlandfunk.de/us-verteidigungsministerium-stellt-neue-presse-crew-vor-100.html",
+    "https://www.deutschlandfunk.de/evp-vorsitzender-weber-spricht-sich-erneut-fuer-verwendung-russischen-staatsvermoegens-aus-102.html",
+    "https://www.deutschlandfunk.de/100-000-beschaeftigte-im-oeffentlichen-dienst-streiken-100.html",
+    "https://www.deutschlandfunk.de/eu-gipfel-in-bruessel-106.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-praezisiert-aussagen-in-stadtbild-debatte-faz-110093143.html"
   ],
   "content_hashes": [
-    "4b608502ed621efc0e01c6fe3db72581",
-    "03d2a267581a4d7f70e0c613557d8e2b",
-    "cb0d9df398d474f1a65bcf776cc578ee",
-    "0bf33e7254e04ef2e3702b6f2cc3c0ce",
     "e54ebf93fdd1dc72aeb946861293f7d2",
     "1b95b04799719c9a72d88afeda71ee51",
     "63e05a7b2d65d57a4073430809c481a6",
@@ -2001,13 +1997,13 @@
     "e282598c5724092404a1d9121347a99e",
     "6181ffc60db9fbd15a276413b5f3a632",
     "89bb1ef1c8fd6d258ed545143be7ee54",
-    "4178a406d0f7672a057934a4259fcc24"
+    "4178a406d0f7672a057934a4259fcc24",
+    "9c120bf0728563b095c3820b543898f2",
+    "a8eee159f5f1f32985387e59345f4b8e",
+    "8257b477580d3baeb1737ecb7169f550",
+    "b8ca472e07f9c6dcf2fd5b45506c390a"
   ],
   "titles": [
-    "Berlin - Mutmaßlicher syrischer Milizenführer festgenommen",
-    "Kabinettsklausur: Sie wollen das Land entknoten",
-    "Deutsches Studierendenwerk - 33.000 Studierende warten zu Semesterbeginn auf Wohnheimplatz",
-    "Medienbericht - Ukrainer wegen Nord-Stream-Anschlägen in Polen festgenommen",
     "Medienberichte - USA schieben nach Absprache mit Teheran 100 Iraner ab",
     "Trumps Plan für Gaza - Musharbash: \"Beide Seiten müssen auf Radikale Einfluss nehmen\"",
     "Auszeichnung - Deutscher Kabarettpreis geht an Satiriker Christian Ehring",
@@ -3003,13 +2999,13 @@
     "Israel - US-Außenminister Rubio kritisiert Knesset-Entscheidung zum Westjordanland",
     "Russia-Ukraine war: List of key events, day 1,337",
     "Südamerika - US-Militär greift Drogenschmuggler-Boote im Pazifik an - fünf Tote",
-    "Washington - US-Verteidigungsministerium stellt neue Presse-Crew vor"
+    "Washington - US-Verteidigungsministerium stellt neue Presse-Crew vor",
+    "EU-Unterstützung der Ukraine - EVP-Vorsitzender Weber spricht sich erneut für Verwendung russischen Staatsvermögens aus",
+    "Proteste gegen Regierung - 100.000 Beschäftigte im öffentlichen Dienst streiken",
+    "EU-Gipfel in Brüssel - Merz will Wettbewerbsfähigkeit in den Fokus rücken",
+    "Liveblog Bundespolitik: Merz präzisiert Aussagen zur „Stadtbild“-Debatte"
   ],
   "hashes": [
-    "8a3cac0e3adf69a438b0ba58b4f9b9c4",
-    "ba684c46aecf28777f0dd3593a906ad2",
-    "e29ae92fb63ec06ea8c21b6128da8c1d",
-    "f01a1d6555b7dc48001f483b68d28f92",
     "dd0f346fff6b7104742630b7c8ff19f7",
     "168ac118b5e1703cda926705b2d0d6db",
     "c80245eba8b3c3f1fcb50caf77b51542",
@@ -4005,6 +4001,10 @@
     "1ee7ea73e873a4f9af0c17c43289ea63",
     "4c1e7cd4f0367e936ab7ff64a5cbad17",
     "54cf0834eac560a62b843b1dee9e5b50",
-    "c08b252fd82726957e3f5eb827a9d75f"
+    "c08b252fd82726957e3f5eb827a9d75f",
+    "3d1dc5247f4aa6deb903202e498c5739",
+    "dd5085606bf462baba8b0a9ebc4658b1",
+    "a0ea140fae719f5a1d420be857e9fd78",
+    "b85a5c909884394377202c39f8fee7cc"
   ]
 }
