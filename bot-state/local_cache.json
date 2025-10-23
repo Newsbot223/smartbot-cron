@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/katar-sieht-noch-klaerungsbedarf-102.html",
-    "https://www.deutschlandfunk.de/praesidentenpartei-gewinnt-erste-runde-der-parlamentswahl-in-gabun-100.html",
     "https://www.faz.net/aktuell/politik/ausland/trumps-plan-fuer-gaza-ist-vernuenftig-110711115.html",
     "https://www.deutschlandfunk.de/eu-spitzentreffen-in-kopenhagen-unter-verstaerkten-sicherheitsvorkehrungen-100.html",
     "https://www.deutschlandfunk.de/bundesanwaltschaft-bestaetigt-weitere-festnahme-in-zusammenhang-mit-nord-stream-sabotage-110.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/brasiliens-praesident-lula-strebt-vierte-amtszeit-an-100.html",
     "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-von-aschaffenburg-drei-gaertner-kamen-mit-mistgabeln-110746112.html",
     "https://www.deutschlandfunk.de/selenskyj-dringt-auf-rasche-entscheidung-ueber-russisches-vermoegen-neue-eu-sanktionen-gegen-moskau--100.html",
-    "https://www.deutschlandfunk.de/warnung-vor-vogelgrippe-in-bisher-nicht-bekanntem-ausmass-100.html"
+    "https://www.deutschlandfunk.de/warnung-vor-vogelgrippe-in-bisher-nicht-bekanntem-ausmass-100.html",
+    "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-auf-die-strasse-102.html",
+    "https://www.faz.net/aktuell/politik/ausland/frank-walter-steinmeier-besucht-brenner-baustelle-in-oesterreich-110746342.html"
   ],
   "content_hashes": [
-    "12a9feb946745c0bfc13992f8d94d2fb",
-    "063dc456b24086c69436a672f3ffa45f",
     "525018c42415bde1b498290c5ca990e5",
     "3b63e870a7d35df089e72e64c4b85f27",
     "d3ab3fecf134b07fbc07de3dfcbd817f",
@@ -2001,11 +1999,11 @@
     "2bcbe8b0a36f264aa47c443c6c673e27",
     "596ade762c3197d2f16a40ed8ac53114",
     "d8febc248c8054618cb3727df4d98593",
-    "53d91aad5f7dda0a113b00262d66a40f"
+    "53d91aad5f7dda0a113b00262d66a40f",
+    "2e2ac983fb172ba9accaa4fc8c782b80",
+    "ca27e132781605d6c62f2ae32149a703"
   ],
   "titles": [
-    "Friedensplan für Gaza - Katar sieht noch Klärungsbedarf",
-    "Zwei Jahre nach Putsch - Präsidentenpartei gewinnt erste Runde der Parlamentswahl in Gabun",
     "Trumps 20 Punkte: Ein vernünftiger Plan für Gaza",
     "Nach Drohnenvorfällen - EU-Spitzentreffen in Kopenhagen unter verstärkten Sicherheitsvorkehrungen",
     "Sprengstoffexplosion - Bundesanwaltschaft bestätigt weitere Festnahme in Zusammenhang mit Nord-Stream-Sabotage",
@@ -3003,11 +3001,11 @@
     "Südamerika - Brasiliens Präsident Lula strebt vierte Amtszeit an",
     "Angriff von Aschaffenburg: Drei Gärtner kamen mit Mistgabeln",
     "EU-Gipfel in Brüssel - Selenskyj dringt auf rasche Entscheidung über russisches Vermögen - neue EU-Sanktionen gegen Moskau in Kraft getreten",
-    "2.000 Kraniche verendet - Warnung vor Vogelgrippe in bisher nicht bekanntem Ausmaß"
+    "2.000 Kraniche verendet - Warnung vor Vogelgrippe in bisher nicht bekanntem Ausmaß",
+    "Ungarischer Nationalfeiertag - Regierung und Opposition gehen auf die Straße",
+    "Steinmeier am Brenner: Ein Wink aus dem Tunnel nach Berlin"
   ],
   "hashes": [
-    "999136c2814383a3a9b3592ab8d9c179",
-    "e889193ff0b634fd45dc4007917fff1b",
     "bf91e592b6e8e59b682a8c67006c1a93",
     "9ae1ac9684afbadfc87a7c6ad50941fd",
     "6debce66a17f2b5342863be6dac3032f",
@@ -4005,6 +4003,8 @@
     "bc460273f0ed6e4cb735b2f568ea9e82",
     "aab5db17db6c699d58b5edf9acaa3049",
     "062a14d675910280904f43f3f16d13c1",
-    "75d807282bc3a6b55476c3c7eb06f3ac"
+    "75d807282bc3a6b55476c3c7eb06f3ac",
+    "8ce1fa110f6bef14d99c032249e8cee0",
+    "30a8c55443a9a9071f838ed20c9f5e2a"
   ]
 }
