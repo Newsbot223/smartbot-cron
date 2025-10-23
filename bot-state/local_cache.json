@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-entsendet-anti-drohnen-team-nach-daenemark-100.html",
-    "https://www.deutschlandfunk.de/studie-manche-bevoelkerungsgruppen-mit-migrationshintergrund-praeferieren-afd-100.html",
-    "https://www.deutschlandfunk.de/inflationsrate-in-deutschland-steigt-im-september-auf-2-4-prozent-100.html",
-    "https://www.deutschlandfunk.de/urteil-im-prozess-gegen-mitarbeiter-maximilian-krah-100.html",
     "https://www.faz.net/aktuell/politik/inland/nadia-khalaf-dann-bin-ich-wohl-oberbuergermeisterin-der-herzen-accg-110710486.html",
     "https://www.deutschlandfunk.de/hegseth-und-trump-verordnen-us-armee-ideologische-kehrtwende-100.html",
     "https://www.deutschlandfunk.de/krankheit-bleibt-haeufigster-grund-fuer-ueberschuldung-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/debatte-ueber-verwendung-von-russischem-staatsvermoegen-belgischer-ministerpraesident-de-wever-sieht-100.html",
     "https://www.deutschlandfunk.de/selbstbestimmungsgesetz-mehrere-tausend-menschen-haben-geschlechtseintrag-geaendert-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsgespraech-streit-um-nexperia-chips-deutsche-autobauer-unter-druck-100.html",
-    "https://www.faz.net/aktuell/politik/krise-der-kommunen-wer-am-ende-bezahlt-110744216.html"
+    "https://www.faz.net/aktuell/politik/krise-der-kommunen-wer-am-ende-bezahlt-110744216.html",
+    "https://www.deutschlandfunk.de/belgien-droht-mit-blockade-bei-eu-einigung-auf-nutzung-eingefrorener-russischer-vermoegen-102.html",
+    "https://www.deutschlandfunk.de/bundesverfassungsgericht-kirchliche-arbeitgeber-duerfen-konfessionslose-bewerber-ablehnen-102.html",
+    "https://www.deutschlandfunk.de/cdu-buergermeisterin-heidemann-keine-zusammenarbeit-mit-der-afd-aber-parlamentarischen-dialog-suchen-100.html",
+    "https://www.faz.net/aktuell/politik/stadtbild-debatte-lebensluegen-der-einwanderung-110744281.html"
   ],
   "content_hashes": [
-    "1ed83dd2a56281c4031f0421bf7a77de",
-    "a039cc973f6a497237fb98ab6fe45cf8",
-    "3f9c04806f128a6cf2186a2d7a8a8f68",
-    "0d2c24541920dbe8409c714a93efb00f",
     "12efe434da4a7ce1cd66830d15175f8b",
     "c5dfd3d8b2fbbd69f3637e6237c667f6",
     "c27684454f1ec89cbe5f20aa8f8b066e",
@@ -2001,13 +1997,13 @@
     "8a675c929d894c4b6d4b9f370c612b12",
     "6cd93a1f1c98a6c08add7ef5ee9f2e40",
     "2ed14af0ae7e37516dbd4d2c295959b5",
-    "334cd9b154a15f5aecafe7a41c53ed42"
+    "334cd9b154a15f5aecafe7a41c53ed42",
+    "f1e551e32ce0f5f71f03818bcfb7a0c8",
+    "b9af117d18fa0222803a537415c60496",
+    "0007cf76ccf05bc13d3f7de0aaa75e26",
+    "3254cd3ea94048606e482e6b071a3ada"
   ],
   "titles": [
-    "Sicherheit - Ukraine entsendet Anti-Drohnen-Team nach Dänemark",
-    "Migration - Studie: Manche Bevölkerungsgruppen mit Migrationshintergrund präferieren AfD",
-    "Statistisches Bundesamt - Inflationsrate in Deutschland steigt im September auf 2,4 Prozent",
-    "Spionage-Prozess - Fast fünf Jahre Haft für Ex-Mitarbeiter von Maximilian Krah",
     "Nadia Khalaf: „Dann bin ich wohl Oberbürgermeisterin der Herzen“",
     "USA - Hegseth und Trump verordnen US-Armee ideologische Kehrtwende",
     "Studie - Krankheit bleibt häufigster Grund für Überschuldung",
@@ -3003,13 +2999,13 @@
     "EU-Gipfel - Debatte über Verwendung von russischem Staatsvermögen - Belgischer Ministerpräsident De Wever sieht noch keine rechtliche Grundlage",
     "KNA-Recherche - Selbstbestimmungsgesetz: Mehrere tausend Menschen haben Geschlechtseintrag geändert",
     "Nexperia-Halbleiter - Deutsche Autobauer schlecht abgesichert gegen Lieferausfall",
-    "Kommunale Finanzkrise: Wer am Ende bezahlt"
+    "Kommunale Finanzkrise: Wer am Ende bezahlt",
+    "Vor EU-Gipfel in Brüssel - Belgien droht mit Blockade bei EU-Einigung auf Nutzung eingefrorener russischer Vermögen",
+    "Karlsruhe - Bundesverfassungsgericht: Kirchliche Arbeitgeber dürfen konfessionslose Bewerber ablehnen",
+    "Bad Freienwalde - CDU-Bürgermeisterin Heidemann: \"Keine Zusammenarbeit mit der AfD, aber parlamentarischen Dialog suchen\"",
+    "Stadtbild-Debatte: Lebenslügen der Einwanderung"
   ],
   "hashes": [
-    "0870e58df5ad541eec6f0f825a8ab491",
-    "d0f2d7a2722335271468aaae6aa09fec",
-    "969be7f93db5ca68a2da8fe4d81d17c2",
-    "76ccfd77487e35c1cfef8ce50850e884",
     "4b262cb6ca80936513814e60eed42e91",
     "0b49b13d6109435f42a2698223928491",
     "755a44fedc6643bd370f896a329d2b97",
@@ -4005,6 +4001,10 @@
     "3fec537c878f531c06f227c5003c5c88",
     "72021c58038b5a35a813b85780a2863f",
     "e5393ad3ce4d3cfd0deddf0e35629773",
-    "9ec443d39ec9a593fa3bb1284981325c"
+    "9ec443d39ec9a593fa3bb1284981325c",
+    "597f1467bcf35a60ada28c7f960cb85d",
+    "d24391c6308dcdfc3f0a3a204a370595",
+    "734fd92d01f31d371cdc1787e6f46f04",
+    "331b2c65a3c68e28de34e5de9e2ba16a"
   ]
 }
