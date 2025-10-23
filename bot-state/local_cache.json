@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/presserat-ruegt-diskriminierung-und-rassismus-in-medien-102.html",
-    "https://www.deutschlandfunk.de/uno-fordert-aufhebung-der-internet-blockade-durch-taliban-extremisten-in-afghanistan-100.html",
     "https://www.deutschlandfunk.de/frueherer-praesident-kabila-zum-tode-verurteilt-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-durchsucht-standorte-von-sanofi-in-deutschland-und-frankreich-102.html",
     "https://www.faz.net/aktuell/politik/ausland/labour-parteitag-die-grosse-erzaehlung-des-keir-starmer-110711004.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/frau-in-strassenbahn-angezuendet-prozessbeginn-in-gera-100.html",
     "https://www.faz.net/aktuell/politik/inland/abstimmung-ueber-saarstatut-die-kleine-wiedervereinigung-accg-110744343.html",
     "https://www.deutschlandfunk.de/konzernchefin-palla-2026-wird-das-jahr-des-grossen-umbaus-100.html",
-    "https://www.deutschlandfunk.de/feldrittersporn-als-beispiel-fuer-artenschwund-in-den-agrarlandschaften-ausgezeichnet-104.html"
+    "https://www.deutschlandfunk.de/feldrittersporn-als-beispiel-fuer-artenschwund-in-den-agrarlandschaften-ausgezeichnet-104.html",
+    "https://www.deutschlandfunk.de/vw-und-mercedes-suchen-nach-alternativen-bezugsquellen-100.html",
+    "https://www.deutschlandfunk.de/ex-soldat-in-prozess-um-massaker-in-nordirland-freigesprochen-102.html"
   ],
   "content_hashes": [
-    "40001644d561acd82eb2cfaa2b61e6df",
-    "c7eddb6a8724822752a6d2027b083839",
     "ce071b67e51ad6da614a1c618c5e521d",
     "6f7eaec0471bb4dfad4f895da8163176",
     "db2043cf1379b08cc671210371206e96",
@@ -2001,11 +1999,11 @@
     "7e3fa97b8553ec67a50391f8373e0a1c",
     "d220f8eb2ce9969ee9d4e070abfb63e5",
     "b36a729a810be68802951e185b657f21",
-    "cd155ce3b6369f46a9194d56eebeb46d"
+    "cd155ce3b6369f46a9194d56eebeb46d",
+    "2f0825973eb3ae5c1a73b3c928ad5601",
+    "e9408d1ceee2134c7110f2f0d2bbe93c"
   ],
   "titles": [
-    "Verstöße gegen Pressekodex - Presserat rügt Diskriminierung und Rassismus in Medien",
-    "Menschenrechte - UNO fordert Aufhebung der Internet-Blockade durch Taliban-Extremisten in Afghanistan",
     "Kongo - Früherer Präsident Kabila zum Tode verurteilt",
     "Verdacht auf Wettbewerbsverstöße - EU-Kommission durchsucht Standorte von Sanofi in Deutschland und Frankreich",
     "Labour-Parteitag: Das tiefe Loch des Keir Starmer",
@@ -3003,11 +3001,11 @@
     "Thüringen - Frau in Straßenbahn angezündet - Prozessbeginn in Gera",
     "Abstimmung im Saarland: Eine Abstimmung für oder gegen Deutschland",
     "Deutsche Bahn - Konzernchefin Palla: 2026 wird das Jahr des großen Umbaus",
-    "\"Blume des Jahres 2026\" - Feldrittersporn als Beispiel für Artenschwund in den Agrarlandschaften ausgezeichnet"
+    "\"Blume des Jahres 2026\" - Feldrittersporn als Beispiel für Artenschwund in den Agrarlandschaften ausgezeichnet",
+    "Drohende Chip-Engpässe - VW und Mercedes suchen nach alternativen Bezugsquellen",
+    "Bloody Sunday - Ex-Soldat in Prozess um Massaker in Nordirland freigesprochen"
   ],
   "hashes": [
-    "aafc528c7ee837905985de5d18dcf375",
-    "7c50281150b1c425b92e00c45d584e89",
     "d50c0aad71cbe49dbd74b5195d93c516",
     "eec7fc2b73c9f92048f4e3757fc08a7c",
     "29998d330759ef6357d997cfdcf3075f",
@@ -4005,6 +4003,8 @@
     "cb3368e796f1a380610a354e3923a4dc",
     "ca32fd80383b3a132138b7a23e3e0f46",
     "784b2343b501a551be212650d63f1941",
-    "67ae12aa636efd08741eae4b1d2f003d"
+    "67ae12aa636efd08741eae4b1d2f003d",
+    "387d96d1cb121830ec06dcdcd8e2b7b3",
+    "15a0df8cdb326b8b90d49131f87173f5"
   ]
 }
