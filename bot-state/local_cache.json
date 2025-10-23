@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nadia-khalaf-dann-bin-ich-wohl-oberbuergermeisterin-der-herzen-accg-110710486.html",
-    "https://www.deutschlandfunk.de/hegseth-und-trump-verordnen-us-armee-ideologische-kehrtwende-100.html",
     "https://www.deutschlandfunk.de/krankheit-bleibt-haeufigster-grund-fuer-ueberschuldung-100.html",
     "https://www.deutschlandfunk.de/politologin-ulrike-gu-rot-scheitert-auch-in-zweiter-instanz-vor-gericht-100.html",
     "https://www.deutschlandfunk.de/bundesanwaltschaft-bestaetigt-weitere-festnahme-in-zusammenhang-mit-nord-stream-sabotage-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/belgien-droht-mit-blockade-bei-eu-einigung-auf-nutzung-eingefrorener-russischer-vermoegen-102.html",
     "https://www.deutschlandfunk.de/bundesverfassungsgericht-kirchliche-arbeitgeber-duerfen-konfessionslose-bewerber-ablehnen-102.html",
     "https://www.deutschlandfunk.de/cdu-buergermeisterin-heidemann-keine-zusammenarbeit-mit-der-afd-aber-parlamentarischen-dialog-suchen-100.html",
-    "https://www.faz.net/aktuell/politik/stadtbild-debatte-lebensluegen-der-einwanderung-110744281.html"
+    "https://www.faz.net/aktuell/politik/stadtbild-debatte-lebensluegen-der-einwanderung-110744281.html",
+    "https://www.deutschlandfunk.de/russland-nennt-neue-us-sanktionen-extrem-kontraproduktiv-100.html",
+    "https://www.deutschlandfunk.de/84-prozent-der-unternehmen-sehen-geschaeftstaetigkeit-durch-schlechte-verkehrsinfrastruktur-beeintra-100.html"
   ],
   "content_hashes": [
-    "12efe434da4a7ce1cd66830d15175f8b",
-    "c5dfd3d8b2fbbd69f3637e6237c667f6",
     "c27684454f1ec89cbe5f20aa8f8b066e",
     "7e443ab030f67c39ee5b2f57f3e78ce3",
     "2ca330fbb3c19ae02872532dde0a764e",
@@ -2001,11 +1999,11 @@
     "f1e551e32ce0f5f71f03818bcfb7a0c8",
     "b9af117d18fa0222803a537415c60496",
     "0007cf76ccf05bc13d3f7de0aaa75e26",
-    "3254cd3ea94048606e482e6b071a3ada"
+    "3254cd3ea94048606e482e6b071a3ada",
+    "242f0a02a1975b770f9e78435b755a52",
+    "a9436a36cdfb608c332e00924b732ad4"
   ],
   "titles": [
-    "Nadia Khalaf: „Dann bin ich wohl Oberbürgermeisterin der Herzen“",
-    "USA - Hegseth und Trump verordnen US-Armee ideologische Kehrtwende",
     "Studie - Krankheit bleibt häufigster Grund für Überschuldung",
     "Kündigungsstreit mit Universität Bonn - Politologin Ulrike Guérot scheitert auch in zweiter Instanz vor Gericht",
     "Polen - Bundesanwaltschaft bestätigt weitere Festnahme in Zusammenhang mit Nord-Stream-Sabotage",
@@ -3003,11 +3001,11 @@
     "Vor EU-Gipfel in Brüssel - Belgien droht mit Blockade bei EU-Einigung auf Nutzung eingefrorener russischer Vermögen",
     "Karlsruhe - Bundesverfassungsgericht: Kirchliche Arbeitgeber dürfen konfessionslose Bewerber ablehnen",
     "Bad Freienwalde - CDU-Bürgermeisterin Heidemann: \"Keine Zusammenarbeit mit der AfD, aber parlamentarischen Dialog suchen\"",
-    "Stadtbild-Debatte: Lebenslügen der Einwanderung"
+    "Stadtbild-Debatte: Lebenslügen der Einwanderung",
+    "Krieg gegen die Ukraine - Russland nennt neue US-Sanktionen \"extrem kontraproduktiv\"",
+    "Umfrage des IW Köln - 84 Prozent der Unternehmen sehen Geschäftstätigkeit durch schlechte Verkehrsinfrastruktur beeinträchtigt"
   ],
   "hashes": [
-    "4b262cb6ca80936513814e60eed42e91",
-    "0b49b13d6109435f42a2698223928491",
     "755a44fedc6643bd370f896a329d2b97",
     "ee554d7a5fedfc8c1be407a2a5a54d15",
     "38dc2a9b49d4f8ebe93c5fee0c0f14a0",
@@ -4005,6 +4003,8 @@
     "597f1467bcf35a60ada28c7f960cb85d",
     "d24391c6308dcdfc3f0a3a204a370595",
     "734fd92d01f31d371cdc1787e6f46f04",
-    "331b2c65a3c68e28de34e5de9e2ba16a"
+    "331b2c65a3c68e28de34e5de9e2ba16a",
+    "be4faddc18b359122f5b5018d2adda6c",
+    "f716b86b05116a3d6d3bab3ffa71d7d5"
   ]
 }
