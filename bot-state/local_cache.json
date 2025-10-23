@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/9/30/us-deportation-drive-against-pro-palestine-students-is-illegal-judge-rules?traffic_source=rss",
-    "https://www.deutschlandfunk.de/tausende-menschen-protestieren-gegen-stromausfaelle-und-armut-100.html",
     "https://www.deutschlandfunk.de/katar-sieht-noch-klaerungsbedarf-102.html",
     "https://www.deutschlandfunk.de/praesidentenpartei-gewinnt-erste-runde-der-parlamentswahl-in-gabun-100.html",
     "https://www.faz.net/aktuell/politik/ausland/trumps-plan-fuer-gaza-ist-vernuenftig-110711115.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ex-soldat-in-prozess-um-massaker-in-nordirland-freigesprochen-102.html",
     "https://www.deutschlandfunk.de/airbus-leonardo-und-thales-wollen-raumfahrtgeschaeft-buendeln-104.html",
     "https://www.deutschlandfunk.de/brasiliens-praesident-lula-strebt-vierte-amtszeit-an-100.html",
-    "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-von-aschaffenburg-drei-gaertner-kamen-mit-mistgabeln-110746112.html"
+    "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-von-aschaffenburg-drei-gaertner-kamen-mit-mistgabeln-110746112.html",
+    "https://www.deutschlandfunk.de/selenskyj-dringt-auf-rasche-entscheidung-ueber-russisches-vermoegen-neue-eu-sanktionen-gegen-moskau--100.html",
+    "https://www.deutschlandfunk.de/warnung-vor-vogelgrippe-in-bisher-nicht-bekanntem-ausmass-100.html"
   ],
   "content_hashes": [
-    "697d01b9e1767f0771836d6337794b1a",
-    "de5021d401481d12eafffcb29fc76d82",
     "12a9feb946745c0bfc13992f8d94d2fb",
     "063dc456b24086c69436a672f3ffa45f",
     "525018c42415bde1b498290c5ca990e5",
@@ -2001,11 +1999,11 @@
     "e9408d1ceee2134c7110f2f0d2bbe93c",
     "33bd119494b7bd4e5f960663e567f243",
     "2bcbe8b0a36f264aa47c443c6c673e27",
-    "596ade762c3197d2f16a40ed8ac53114"
+    "596ade762c3197d2f16a40ed8ac53114",
+    "d8febc248c8054618cb3727df4d98593",
+    "53d91aad5f7dda0a113b00262d66a40f"
   ],
   "titles": [
-    "US deportation drive against pro-Palestine students is illegal, judge rules",
-    "Madagaskar - Tausende Menschen protestieren gegen Stromausfälle und Armut",
     "Friedensplan für Gaza - Katar sieht noch Klärungsbedarf",
     "Zwei Jahre nach Putsch - Präsidentenpartei gewinnt erste Runde der Parlamentswahl in Gabun",
     "Trumps 20 Punkte: Ein vernünftiger Plan für Gaza",
@@ -3003,11 +3001,11 @@
     "Bloody Sunday - Ex-Soldat in Prozess um Massaker in Nordirland freigesprochen",
     "Gegengewicht zu Musks Starlink - Airbus, Leonardo und Thales wollen Raumfahrtgeschäft bündeln",
     "Südamerika - Brasiliens Präsident Lula strebt vierte Amtszeit an",
-    "Angriff von Aschaffenburg: Drei Gärtner kamen mit Mistgabeln"
+    "Angriff von Aschaffenburg: Drei Gärtner kamen mit Mistgabeln",
+    "EU-Gipfel in Brüssel - Selenskyj dringt auf rasche Entscheidung über russisches Vermögen - neue EU-Sanktionen gegen Moskau in Kraft getreten",
+    "2.000 Kraniche verendet - Warnung vor Vogelgrippe in bisher nicht bekanntem Ausmaß"
   ],
   "hashes": [
-    "1aa3814d8d4ee33f583890cc79b63504",
-    "a9e2deddfb6f20e1df7f28afcbfedbfe",
     "999136c2814383a3a9b3592ab8d9c179",
     "e889193ff0b634fd45dc4007917fff1b",
     "bf91e592b6e8e59b682a8c67006c1a93",
@@ -4005,6 +4003,8 @@
     "15a0df8cdb326b8b90d49131f87173f5",
     "98f985393309814029f93004ff966e33",
     "bc460273f0ed6e4cb735b2f568ea9e82",
-    "aab5db17db6c699d58b5edf9acaa3049"
+    "aab5db17db6c699d58b5edf9acaa3049",
+    "062a14d675910280904f43f3f16d13c1",
+    "75d807282bc3a6b55476c3c7eb06f3ac"
   ]
 }
