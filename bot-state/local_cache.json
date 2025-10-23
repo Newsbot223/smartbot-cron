@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-schieben-nach-absprache-mit-teheran-100-iraner-ab-102.html",
-    "https://www.deutschlandfunk.de/plan-fuer-gaza-interview-nazih-musharbash-dt-palaest-gesellschaft-100.html",
-    "https://www.deutschlandfunk.de/deutscher-kabarettpreis-geht-an-satiriker-christian-ehring-100.html",
-    "https://www.spiegel.de/wirtschaft/service/verbraucherpreise-inflation-in-deutschland-zieht-wieder-an-a-46b4a8ad-1db7-437e-a687-37f9772d8155#ref=rss",
     "https://www.faz.net/aktuell/politik/wahlverhalten-in-nrw-die-afd-hat-fuer-jeden-etwas-110708958.html",
     "https://www.deutschlandfunk.de/ukraine-entsendet-anti-drohnen-team-nach-daenemark-100.html",
     "https://www.deutschlandfunk.de/studie-manche-bevoelkerungsgruppen-mit-migrationshintergrund-praeferieren-afd-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/evp-vorsitzender-weber-spricht-sich-erneut-fuer-verwendung-russischen-staatsvermoegens-aus-102.html",
     "https://www.deutschlandfunk.de/100-000-beschaeftigte-im-oeffentlichen-dienst-streiken-100.html",
     "https://www.deutschlandfunk.de/eu-gipfel-in-bruessel-106.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-praezisiert-aussagen-in-stadtbild-debatte-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-praezisiert-aussagen-in-stadtbild-debatte-faz-110093143.html",
+    "https://www.deutschlandfunk.de/iw-koeln-84-prozent-der-unternehmen-sehen-geschaeftstaetigkeit-durch-schlechte-verkehrsinfrastruktur-100.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-verwendung-von-russischem-staatsvermoegen-belgischer-ministerpraesident-de-wever-sieht-100.html",
+    "https://www.deutschlandfunk.de/selbstbestimmungsgesetz-mehrere-tausend-menschen-haben-geschlechtseintrag-geaendert-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsgespraech-streit-um-nexperia-chips-deutsche-autobauer-unter-druck-100.html"
   ],
   "content_hashes": [
-    "e54ebf93fdd1dc72aeb946861293f7d2",
-    "1b95b04799719c9a72d88afeda71ee51",
-    "63e05a7b2d65d57a4073430809c481a6",
-    "7618634d96ea381f61b18ea1fbcad739",
     "567125310c0d0dca52afaf19744590de",
     "1ed83dd2a56281c4031f0421bf7a77de",
     "a039cc973f6a497237fb98ab6fe45cf8",
@@ -2001,13 +1997,13 @@
     "9c120bf0728563b095c3820b543898f2",
     "a8eee159f5f1f32985387e59345f4b8e",
     "8257b477580d3baeb1737ecb7169f550",
-    "b8ca472e07f9c6dcf2fd5b45506c390a"
+    "b8ca472e07f9c6dcf2fd5b45506c390a",
+    "c5e6c67fa281c1184dfe54413aa55609",
+    "8a675c929d894c4b6d4b9f370c612b12",
+    "6cd93a1f1c98a6c08add7ef5ee9f2e40",
+    "2ed14af0ae7e37516dbd4d2c295959b5"
   ],
   "titles": [
-    "Medienberichte - USA schieben nach Absprache mit Teheran 100 Iraner ab",
-    "Trumps Plan für Gaza - Musharbash: \"Beide Seiten müssen auf Radikale Einfluss nehmen\"",
-    "Auszeichnung - Deutscher Kabarettpreis geht an Satiriker Christian Ehring",
-    "Verbraucherpreise: Inflation in Deutschland zieht wieder an",
     "Wahlverhalten: Die AfD hat für jeden etwas",
     "Sicherheit - Ukraine entsendet Anti-Drohnen-Team nach Dänemark",
     "Migration - Studie: Manche Bevölkerungsgruppen mit Migrationshintergrund präferieren AfD",
@@ -3003,13 +2999,13 @@
     "EU-Unterstützung der Ukraine - EVP-Vorsitzender Weber spricht sich erneut für Verwendung russischen Staatsvermögens aus",
     "Proteste gegen Regierung - 100.000 Beschäftigte im öffentlichen Dienst streiken",
     "EU-Gipfel in Brüssel - Merz will Wettbewerbsfähigkeit in den Fokus rücken",
-    "Liveblog Bundespolitik: Merz präzisiert Aussagen zur „Stadtbild“-Debatte"
+    "Liveblog Bundespolitik: Merz präzisiert Aussagen zur „Stadtbild“-Debatte",
+    "Wirtschaft - IW Köln: 84 Prozent der Unternehmen sehen Geschäftstätigkeit durch schlechte Verkehrsinfrastruktur beeinträchtigt",
+    "EU-Gipfel - Debatte über Verwendung von russischem Staatsvermögen - Belgischer Ministerpräsident De Wever sieht noch keine rechtliche Grundlage",
+    "KNA-Recherche - Selbstbestimmungsgesetz: Mehrere tausend Menschen haben Geschlechtseintrag geändert",
+    "Nexperia-Halbleiter - Deutsche Autobauer schlecht abgesichert gegen Lieferausfall"
   ],
   "hashes": [
-    "dd0f346fff6b7104742630b7c8ff19f7",
-    "168ac118b5e1703cda926705b2d0d6db",
-    "c80245eba8b3c3f1fcb50caf77b51542",
-    "b2866f82f9558738b4b0b2e0ce2fbb72",
     "5221da1232e3c7e2f14f3e23701060d2",
     "0870e58df5ad541eec6f0f825a8ab491",
     "d0f2d7a2722335271468aaae6aa09fec",
@@ -4005,6 +4001,10 @@
     "3d1dc5247f4aa6deb903202e498c5739",
     "dd5085606bf462baba8b0a9ebc4658b1",
     "a0ea140fae719f5a1d420be857e9fd78",
-    "b85a5c909884394377202c39f8fee7cc"
+    "b85a5c909884394377202c39f8fee7cc",
+    "fbf1b3304f95704a9129d56e4161fb86",
+    "3fec537c878f531c06f227c5003c5c88",
+    "72021c58038b5a35a813b85780a2863f",
+    "e5393ad3ce4d3cfd0deddf0e35629773"
   ]
 }
