@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dobrindt-bedrohungslage-war-konkret-100.html",
-    "https://www.deutschlandfunk.de/neue-beratungen-im-us-senat-ueber-den-haushalt-zur-beendigung-des-shutdown-gescheitert-100.html",
     "https://www.deutschlandfunk.de/franzoesisches-militaer-bringt-verdaechtigen-tanker-der-russischen-schattenflotte-auf-100.html",
     "https://www.deutschlandfunk.de/von-der-leyen-fordert-luftabwehr-gegen-drohnen-fuer-alle-eu-staaten-102.html",
     "https://www.deutschlandfunk.de/dobrindt-dringt-auf-europaeische-rueckkehrzentren-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ministerpraesidenten-gegen-verbrenner-aus-2035-soeder-klimaziele-in-europa-gefaehrden-wohlstand-100.html",
     "https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-rasant-aus-wie-gefaehrlich-ist-das-a-bef6ffee-aa64-4fae-a1bc-ab6fe70fd451#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/thueringer-afd-fpoe-mann-wird-hoecke-sprecher-110748561.html",
-    "https://www.faz.net/aktuell/politik/inland/ministerpraesidenten-gegen-starres-verbrenner-aus-2035-110748548.html"
+    "https://www.faz.net/aktuell/politik/inland/ministerpraesidenten-gegen-starres-verbrenner-aus-2035-110748548.html",
+    "https://www.deutschlandfunk.de/praesident-trump-bricht-handelsgespraeche-mit-kanada-ab-carney-hofft-auf-fortfuehrung-der-gespraeche-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/wadephuls-china-reise-abgesagt-man-kann-nicht-alles-haben-110748504.html"
   ],
   "content_hashes": [
-    "af4aa70f264ceaa48d3873b46984db96",
-    "9b376123e88b698cd70f77aa575d5f0d",
     "716b0e1a3075e1f7320ff9cfe231a121",
     "10fe730cd74f27ffe0a4281e440573b6",
     "ff32cf284b69e14e29c2e275d467bc38",
@@ -2001,11 +1999,11 @@
     "97c3963268be3f003fd826ba1b47defd",
     "a4f86e942d16fbde6b1f38ddbc867514",
     "66a060414ea386c88e4ab489ee7b3c55",
-    "ae698f3c879a1cc943000edc002557c3"
+    "ae698f3c879a1cc943000edc002557c3",
+    "f65ec007cba1a0d8a6ab44d7464f9d5c",
+    "6edd071c2b21293cbe1e948ead81392f"
   ],
   "titles": [
-    "Nach Festnahmen in Berlin - Dobrindt: Bedrohungslage war konkret",
-    "Washington - Neue Beratungen im US-Senat über den Haushalt zur Beendigung des \"Shutdown\" gescheitert",
     "Sicherheit - Französisches Militär bringt verdächtigen Tanker der russischen Schattenflotte auf",
     "EU-Gipfel in Kopenhagen - Von der Leyen fordert Luftabwehr gegen Drohnen für alle EU-Staaten",
     "Migrationspolitik - Dobrindt dringt auf europäische Rückkehrzentren",
@@ -3003,11 +3001,11 @@
     "Mainz - Ministerpräsidenten gegen Verbrenner-Aus 2035 - Söder: Klimaziele in Europa gefährden Wohlstand",
     "Vogelgrippe breitet sich rasant aus – wie gefährlich ist das?",
     "Thüringer AfD: FPÖ-Mann wird Höcke-Sprecher",
-    "Verhandlungen mit Bund: Ministerpräsidenten gegen „starres“ Verbrenner-Aus 2035"
+    "Verhandlungen mit Bund: Ministerpräsidenten gegen „starres“ Verbrenner-Aus 2035",
+    "USA - Präsident Trump bricht Handelsgespräche mit Kanada ab - Carney hofft auf Fortführung der Gespräche",
+    "Streit über Taiwan: Man kann nicht alles haben"
   ],
   "hashes": [
-    "534333a54e17a3cbf955829a8d9ff200",
-    "b31e4560bf74991e52590c3f73b4fd9c",
     "6b372507bf0eb11fcc8d90760b0086a3",
     "e37e5aaf7ac4d0b8d20bf1f7c07c6fce",
     "060cf95a79921b97c94b2083da1cdb23",
@@ -4005,6 +4003,8 @@
     "e32ac458f6e49d443e2a7779577bd2ab",
     "800c7e2d44d52ea68f129fd62da1347b",
     "22460de249045f16dfb19b8719ecf826",
-    "323d35f5a496b3f41883e48d5cee190e"
+    "323d35f5a496b3f41883e48d5cee190e",
+    "b8a070554c1061ef77cd3baa8327c31b",
+    "1e313eb776dd9796198c8cdd0d070451"
   ]
 }
