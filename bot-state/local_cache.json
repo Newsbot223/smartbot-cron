@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oktoberfest-in-muenchen-oeffnet-am-nachmittag-wieder-102.html",
-    "https://www.deutschlandfunk.de/weniger-menschen-stellen-asylantrag-in-deutschland-102.html",
-    "https://www.faz.net/aktuell/politik/inland/drohnen-sichtungen-in-norddeutschland-staatsanwaltschaft-ermittelt-110712574.html",
-    "https://www.deutschlandfunk.de/drei-mutmassliche-hamas-mitglieder-im-zusammenhang-mit-anschlagsplaenen-in-berlin-festgenommen-100.html",
     "https://www.deutschlandfunk.de/wieder-internet-in-afghanistan-102.html",
     "https://www.deutschlandfunk.de/neue-beratungen-im-us-senat-ueber-den-haushalt-zur-beendigung-des-shutdown-102.html",
     "https://www.deutschlandfunk.de/mehr-als-30-tote-nach-einsturz-von-baugeruest-an-kirche-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/gefaengnisbetreiber-muss-40-millionen-dollar-fuer-haeftlingstod-zahlen-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-sagt-kiew-weitere-hilfe-beim-wiederaufbau-der-energie-infrastrukt-102.html",
     "https://www.spiegel.de/panorama/wetter-in-deutschland-sturmtief-joshua-fordert-einsatzkraefte-heftige-orkanboeen-an-der-nordseekueste-erwartet-a-80529274-0393-44d9-9fdb-b005661195da#ref=rss",
-    "https://www.deutschlandfunk.de/mit-luftgewehr-auf-autos-geschossen-haftbefehl-wegen-mordversuchs-in-22-faellen-gegen-mutmasslichen--100.html"
+    "https://www.deutschlandfunk.de/mit-luftgewehr-auf-autos-geschossen-haftbefehl-wegen-mordversuchs-in-22-faellen-gegen-mutmasslichen--100.html",
+    "https://www.deutschlandfunk.de/keine-produktionsstopps-bei-volkswagen-102.html",
+    "https://www.deutschlandfunk.de/tuerkisches-gericht-sieht-keine-unregelmaessigkeiten-bei-chp-parteitag-102.html",
+    "https://www.deutschlandfunk.de/agrarminister-rainer-warnt-vor-schnellem-anstieg-der-infektionen-102.html",
+    "https://www.faz.net/aktuell/politik/fraktur/fraktur-das-merz-bild-der-hoeheren-toechter-accg-110747570.html"
   ],
   "content_hashes": [
-    "fd95f67da92530bb42d87bed3c5faad6",
-    "ccf6450e2fc80be6fa8f7a8682f15549",
-    "1ef3a3377be0132468c81d00c1a4ada1",
-    "103436142e84010c0a5db31f7cf1643c",
     "81aa8be39bc6f8229ce4c10f4c1d0557",
     "c3e42ab604a47c0d2a4416e40fa16fd2",
     "c360938dc8bdcad5d871cbf494b76cb5",
@@ -2001,13 +1997,13 @@
     "713954a8c5623da64e8f650be8f26eb1",
     "698cf399b0f6948accebe587c4596b6f",
     "13b5e41afc8038eec15101bb82422e87",
-    "8c3a5ac9e8f2ad5d36e95be73ecae42e"
+    "8c3a5ac9e8f2ad5d36e95be73ecae42e",
+    "335dab5475c0e13268af666dd0e2ef88",
+    "107ab9e059571ac9f653c6f23a9c860a",
+    "8c84064383c8f8ce6159e9a4456a796f",
+    "486ad8623b0fee48cbe609b81c26e510"
   ],
   "titles": [
-    "Nach Sprengstoffdrohung - Oktoberfest in München öffnet am Nachmittag wieder",
-    "Flucht - Weniger Menschen stellen Asylantrag in Deutschland",
-    "Norddeutschland: Drohnen überflogen auch kritische Infrastruktur",
-    "Bundesanwaltschaft - Drei mutmaßliche Hamas-Mitglieder im Zusammenhang mit Anschlagsplänen in Berlin festgenommen",
     "Kommunikation - Wieder Internet in Afghanistan",
     "Washington - Neue Beratungen im US-Senat über den Haushalt zur Beendigung des \"Shutdown\"",
     "Äthiopien - Mehr als 30 Tote nach Einsturz von Baugerüst an Kirche",
@@ -3003,13 +2999,13 @@
     "USA - Gefängnisbetreiber muss 40 Millionen Dollar für Häftlingstod zahlen",
     "Besuch in Kiew - Bundeswirtschaftsministerin Reiche sagt Kiew weitere Hilfe beim Wiederaufbau der Energie-Infrastruktur zu",
     "Wetter in Deutschland: Sturmtief »Joshua« fordert Einsatzkräfte – heftige Orkanböen an der Nordseeküste erwartet",
-    "Bayern - Mit Luftgewehr auf Autos geschossen - Haftbefehl wegen Mordversuchs in 22 Fällen gegen mutmaßlichen IS-Sympathisanten"
+    "Bayern - Mit Luftgewehr auf Autos geschossen - Haftbefehl wegen Mordversuchs in 22 Fällen gegen mutmaßlichen IS-Sympathisanten",
+    "Chip-Lieferengpass - Keine Produktionsstopps bei Volkswagen",
+    "Urteil - Türkisches Gericht sieht keine Unregelmäßigkeiten bei CHP-Parteitag",
+    "Vogelgrippe - Agrarminister Rainer warnt vor schnellem Anstieg der Infektionen",
+    "Fraktur: Herz statt Merz"
   ],
   "hashes": [
-    "56186e36f0d090c5c040c77d12e83eb5",
-    "38b7dd4607a746d9cb6917eb687af2af",
-    "f5917c4a170140667e3a99d42927b717",
-    "69be8a0e9563cfddb2d8c7568863c21a",
     "190c8329d47c0adfeb2a0bb8dafc2b38",
     "c2a22eb6eb311e59250155fa126e3c7f",
     "fb2482ff9839f4823c0f1670c4c2091b",
@@ -4005,6 +4001,10 @@
     "f9ab888cc7928452d320ed28c1c2e009",
     "0cae609329e019b788bc6df93f806e73",
     "171eae29d763f10e5ea28613f8a836e8",
-    "0dae37550a1fa72426ec0df373078734"
+    "0dae37550a1fa72426ec0df373078734",
+    "0450995a6f47c36fb818596259867bb2",
+    "9d3c017a7fb4b979b7a286e68d2297ac",
+    "a4ac989c5fe230fa2781f125a7d0edd4",
+    "0ede177915259125853e3018d942835a"
   ]
 }
