@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/werbung-fuer-ungesunde-lebensmittel-in-grossbritannien-eingeschraenkt-100.html",
-    "https://www.deutschlandfunk.de/antisemitismusbeauftragter-hensel-legt-amt-wegen-hass-und-persoenlicher-uebergriffe-nieder-100.html",
-    "https://www.spiegel.de/ausland/polen-verlaengert-grenzkontrollen-zu-deutschland-und-litauen-a-48db7d94-f804-433d-9f93-0c95d3c13da5#ref=rss",
-    "https://www.deutschlandfunk.de/daenische-ministerpraesidentin-frederiksen-appelliert-an-eu-partner-bei-verteidigung-nationale-persp-104.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-zoelle-auf-stahl-ausweiten-100.html",
     "https://www.deutschlandfunk.de/internationales-komitee-vom-roten-kreuz-setzt-hilfe-in-gaza-stadt-aus-100.html",
     "https://www.deutschlandfunk.de/oktoberfest-in-muenchen-oeffnet-am-nachmittag-wieder-102.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/politik/deutschland/bundeswehr-mehrheit-lehnt-losverfahren-bei-der-wehrpflicht-ab-a-cd2a4537-dead-4d7c-a1c2-d4b859e578b9#ref=rss",
     "https://www.spiegel.de/wirtschaft/friedrich-merz-irritiert-bei-eu-gipfel-mit-aeusserung-zu-mercosur-deal-a-b9d722d8-706a-4be6-b388-34e550519fd5#ref=rss",
     "https://www.deutschlandfunk.de/sinologin-shi-kupfer-eu-muss-diversifizierung-vorantreiben-china-am-laengeren-hebel-100.html",
-    "https://www.deutschlandfunk.de/cdu-aussenpolitiker-roettgen-kritisiert-abhaengigkeit-von-china-bei-halbleitern-104.html"
+    "https://www.deutschlandfunk.de/cdu-aussenpolitiker-roettgen-kritisiert-abhaengigkeit-von-china-bei-halbleitern-104.html",
+    "https://www.deutschlandfunk.de/organisierte-kriminalitaet-bleibt-auf-hohem-niveau-100.html",
+    "https://www.deutschlandfunk.de/neues-staatsoberhaupt-wird-gewaehlt-100.html",
+    "https://www.deutschlandfunk.de/gefaengnisbetreiber-muss-40-millionen-dollar-fuer-haeftlingstod-zahlen-100.html",
+    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-sagt-kiew-weitere-hilfe-beim-wiederaufbau-der-energie-infrastrukt-102.html"
   ],
   "content_hashes": [
-    "338a7de09f1ced3c1818344567e85d41",
-    "8207cf54525ce72c450c0cca1873a276",
-    "debdf49a1275ec7e20d1c42662c6dfab",
-    "ea9f0648a73194a271c73fe6903e9566",
     "165beb4e1f457061e23db5a6829d0fbc",
     "17a74602bcfd8252b4feafa774ad408d",
     "fd95f67da92530bb42d87bed3c5faad6",
@@ -2001,13 +1997,13 @@
     "7f53d6c8893306e0c34edd2cc9078a15",
     "b16f37460313234691e8dd02e8238bf3",
     "f588116d958d0f4a96f7d2c821f505a3",
-    "3f25682f14cd57ca925b8ac4e92679ad"
+    "3f25682f14cd57ca925b8ac4e92679ad",
+    "86bde8a8fe0e49390cd7ac4688e5d4a8",
+    "9550cb7682887c57dd446124f845a539",
+    "713954a8c5623da64e8f650be8f26eb1",
+    "698cf399b0f6948accebe587c4596b6f"
   ],
   "titles": [
-    "Kampf gegen Fettleibigkeit - Werbung für ungesunde Lebensmittel in Großbritannien eingeschränkt",
-    "Hamburg - Antisemitismusbeauftragter Hensel legt Amt wegen \"Hass und persönlicher Übergriffe\" nieder",
-    "Polen verlängert Kontrollen an Grenzen zu Deutschland und Litauen",
-    "Gipfel in Kopenhagen - Dänische Ministerpräsidentin Frederiksen appelliert an EU-Partner, bei Verteidigung \"nationale Perspektiven\" hinter sich zu lassen",
     "Wirtschaft - EU-Kommission will Zölle auf Stahl ausweiten",
     "Israelische Offensive - Internationales Komitee vom Roten Kreuz setzt Hilfe in Gaza-Stadt aus",
     "Nach Sprengstoffdrohung - Oktoberfest in München öffnet am Nachmittag wieder",
@@ -3003,13 +2999,13 @@
     "Bundeswehr: Mehrheit lehnt Losverfahren bei der Wehrpflicht ab",
     "Friedrich Merz irritiert bei EU-Gipfel mit Äußerung zu Mercosur-Deal",
     "Seltene Erden - Sinologin Shi-Kupfer: EU muss Diversifizierung vorantreiben - \"China am längeren Hebel\"",
-    "Automobilindustrie - CDU-Außenpolitiker Röttgen kritisiert Abhängigkeit von China bei Halbleitern"
+    "Automobilindustrie - CDU-Außenpolitiker Röttgen kritisiert Abhängigkeit von China bei Halbleitern",
+    "BKA - Organisierte Kriminalität bleibt auf hohem Niveau",
+    "Republik Irland - Neues Staatsoberhaupt wird gewählt",
+    "USA - Gefängnisbetreiber muss 40 Millionen Dollar für Häftlingstod zahlen",
+    "Besuch in Kiew - Bundeswirtschaftsministerin Reiche sagt Kiew weitere Hilfe beim Wiederaufbau der Energie-Infrastruktur zu"
   ],
   "hashes": [
-    "07d1ca3b866d183c493a8cee622196dc",
-    "eed0e934d055ae695cba1cba7fb589e0",
-    "10cc215b882a92cf9366fb90632cc99a",
-    "272d2b752c54337021af861e1a07d6ae",
     "104d4fdd94a117d98131b29b8539c98f",
     "fa9784efa68cfd15f7c26cef181d8f15",
     "56186e36f0d090c5c040c77d12e83eb5",
@@ -4005,6 +4001,10 @@
     "d9a1d67985cb2be20945bfeeca4bc664",
     "1995fbb0b0f1353cae4aad8a1edaffa2",
     "476d3f0801f7728cc4c03dcc8befa00c",
-    "8dcf3f3f69eaa74a10355149d7ae8eea"
+    "8dcf3f3f69eaa74a10355149d7ae8eea",
+    "0bac0b0888829a3f02f4dc685468d567",
+    "5b1745febebeff4fb66fdf2a2de2bb4a",
+    "f9ab888cc7928452d320ed28c1c2e009",
+    "0cae609329e019b788bc6df93f806e73"
   ]
 }
