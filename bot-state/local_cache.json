@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukrainischer-angriff-auf-russisches-kraftwerk-102.html",
-    "https://www.deutschlandfunk.de/haushaltsloch-der-kommunen-steigt-100.html",
-    "https://www.deutschlandfunk.de/us-forscher-nutzen-erstmals-dna-aus-menschlichen-hautzellen-um-embryo-herzustellen-102.html",
     "https://www.faz.net/aktuell/politik/inland/deutsche-mediziner-befuerchten-kompetenzverlust-accg-110708897.html",
     "https://www.deutschlandfunk.de/oesterreich-will-sich-staerker-in-afrika-engagieren-100.html",
     "https://www.deutschlandfunk.de/werbung-fuer-ungesunde-lebensmittel-in-grossbritannien-eingeschraenkt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/umweltplakette-fuer-e-autos-soll-wegfallen-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-zu-gespraechen-in-kiew-100.html",
     "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-in-budapest-auf-die-strasse-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/brandmauer-was-das-beispiel-oesterreich-lehrt-110745750.html"
+    "https://www.faz.net/aktuell/politik/ausland/brandmauer-was-das-beispiel-oesterreich-lehrt-110745750.html",
+    "https://www.deutschlandfunk.de/tuev-findet-mehr-schwere-maengel-an-autos-102.html",
+    "https://www.spiegel.de/politik/deutschland/bundeswehr-mehrheit-lehnt-losverfahren-bei-der-wehrpflicht-ab-a-cd2a4537-dead-4d7c-a1c2-d4b859e578b9#ref=rss",
+    "https://www.spiegel.de/wirtschaft/friedrich-merz-irritiert-bei-eu-gipfel-mit-aeusserung-zu-mercosur-deal-a-b9d722d8-706a-4be6-b388-34e550519fd5#ref=rss"
   ],
   "content_hashes": [
-    "969ebb78ecd2be15c83e888b0766aa21",
-    "0149d1e2f33b2ee4e54160356236fc76",
-    "ae5a5288d287385dd98981a04cdac934",
     "87803623ff9d5b1e13580338bf5659bd",
     "5fc6c93839b7e365d25013bc4b320554",
     "338a7de09f1ced3c1818344567e85d41",
@@ -2001,12 +1998,12 @@
     "3eada2ffaca454c5b1d4a90df4108739",
     "c887423160ee86cd615a299c925e2168",
     "5f5f1ee5afb5693b16f1da16f28a8910",
-    "186bce1a9043a1f0fa27ac566b4d2467"
+    "186bce1a9043a1f0fa27ac566b4d2467",
+    "c4f7a749989b06b5de680b1090551fcd",
+    "7f53d6c8893306e0c34edd2cc9078a15",
+    "b16f37460313234691e8dd02e8238bf3"
   ],
   "titles": [
-    "Putins Angriffskrieg - Ukraine sorgt im russischen Belgorod für Stromausfall",
-    "Finanzen - Haushaltsloch der Kommunen steigt",
-    "Fortschritt für Reproduktionsmedizin - US-Forscher nutzen erstmals DNA aus menschlichen Hautzellen, um Embryo herzustellen",
     "Wegen Trumps Kürzungen: Deutsche Mediziner befürchten Kompetenzverlust",
     "Konkurrenz mit China und Russland - Österreich will sich stärker in Afrika engagieren",
     "Kampf gegen Fettleibigkeit - Werbung für ungesunde Lebensmittel in Großbritannien eingeschränkt",
@@ -3003,12 +3000,12 @@
     "Verkehr - Umweltplakette für E-Autos soll wegfallen",
     "Ukraine - Bundeswirtschaftsministerin Reiche zu Gesprächen in Kiew",
     "Ungarischer Nationalfeiertag - Regierung und Opposition gehen in Budapest auf die Straße",
-    "Umgang mit der AfD: Was Österreich in der Brandmauer-Frage lehrt – und was nicht"
+    "Umgang mit der AfD: Was Österreich in der Brandmauer-Frage lehrt – und was nicht",
+    "Verkehrssicherheit - TÜV findet mehr schwere Mängel an Autos",
+    "Bundeswehr: Mehrheit lehnt Losverfahren bei der Wehrpflicht ab",
+    "Friedrich Merz irritiert bei EU-Gipfel mit Äußerung zu Mercosur-Deal"
   ],
   "hashes": [
-    "87cfb4a7955f70340661a85813db3219",
-    "afa9dd01f8389ed58232c12f05e5aea6",
-    "9b3e6bca198404406d9ccb3233b17f24",
     "0ec03edec9a7b9feb56d9bd641b7402c",
     "6e9135c1a3fa1c487da1c8230051ab22",
     "07d1ca3b866d183c493a8cee622196dc",
@@ -4005,6 +4002,9 @@
     "31582a94472bfade72ea6286978f872e",
     "427164ac55828701826879bf29d89bb4",
     "05e9379e1a196d1086e9a7e8b9aec6ef",
-    "b56b98ada079af0177dbd1e61d1a8b5e"
+    "b56b98ada079af0177dbd1e61d1a8b5e",
+    "299f2500d453d5d3e6de1d886708fe8c",
+    "d9a1d67985cb2be20945bfeeca4bc664",
+    "1995fbb0b0f1353cae4aad8a1edaffa2"
   ]
 }
