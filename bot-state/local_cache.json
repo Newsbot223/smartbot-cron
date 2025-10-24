@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wieder-internet-in-afghanistan-102.html",
-    "https://www.deutschlandfunk.de/neue-beratungen-im-us-senat-ueber-den-haushalt-zur-beendigung-des-shutdown-102.html",
     "https://www.deutschlandfunk.de/mehr-als-30-tote-nach-einsturz-von-baugeruest-an-kirche-100.html",
     "https://www.faz.net/einspruch/was-doris-koenig-in-karlsruhe-ueberrascht-hat-110712563.html",
     "https://www.faz.net/aktuell/politik/inland/drei-mutmassliche-hamas-mitglieder-in-berlin-festgenommen-110713096.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/keine-produktionsstopps-bei-volkswagen-102.html",
     "https://www.deutschlandfunk.de/tuerkisches-gericht-sieht-keine-unregelmaessigkeiten-bei-chp-parteitag-102.html",
     "https://www.deutschlandfunk.de/agrarminister-rainer-warnt-vor-schnellem-anstieg-der-infektionen-102.html",
-    "https://www.faz.net/aktuell/politik/fraktur/fraktur-das-merz-bild-der-hoeheren-toechter-accg-110747570.html"
+    "https://www.faz.net/aktuell/politik/fraktur/fraktur-das-merz-bild-der-hoeheren-toechter-accg-110747570.html",
+    "https://www.deutschlandfunk.de/freistaat-bayern-stellt-grundstueck-fuer-neue-synagoge-in-erlangen-zur-verfuegung-102.html",
+    "https://www.deutschlandfunk.de/soldatinnen-reichen-sammelklage-wegen-sexualisierter-gewalt-in-der-armee-ein-102.html"
   ],
   "content_hashes": [
-    "81aa8be39bc6f8229ce4c10f4c1d0557",
-    "c3e42ab604a47c0d2a4416e40fa16fd2",
     "c360938dc8bdcad5d871cbf494b76cb5",
     "b693894e9d8d5a3e87e7598c14f5fcf3",
     "3a23d81fc9f5fde4152092ff62349b0a",
@@ -2001,11 +1999,11 @@
     "335dab5475c0e13268af666dd0e2ef88",
     "107ab9e059571ac9f653c6f23a9c860a",
     "8c84064383c8f8ce6159e9a4456a796f",
-    "486ad8623b0fee48cbe609b81c26e510"
+    "486ad8623b0fee48cbe609b81c26e510",
+    "b143f4d4643efccefcc754e565ebd4e9",
+    "4b7a1a1fca4173e149d84b3276b3a066"
   ],
   "titles": [
-    "Kommunikation - Wieder Internet in Afghanistan",
-    "Washington - Neue Beratungen im US-Senat über den Haushalt zur Beendigung des \"Shutdown\"",
     "Äthiopien - Mehr als 30 Tote nach Einsturz von Baugerüst an Kirche",
     "F.A.Z. Einspruch Podcast: Was Doris König in Karlsruhe überrascht hat",
     "Waffen beschafft: Drei mutmaßliche Hamas-Mitglieder in Berlin festgenommen",
@@ -3003,11 +3001,11 @@
     "Chip-Lieferengpass - Keine Produktionsstopps bei Volkswagen",
     "Urteil - Türkisches Gericht sieht keine Unregelmäßigkeiten bei CHP-Parteitag",
     "Vogelgrippe - Agrarminister Rainer warnt vor schnellem Anstieg der Infektionen",
-    "Fraktur: Herz statt Merz"
+    "Fraktur: Herz statt Merz",
+    "Jüdisches Leben - Freistaat Bayern stellt Grundstück für neue Synagoge in Erlangen zur Verfügung",
+    "Australien - Soldatinnen reichen Sammelklage wegen sexualisierter Gewalt in der Armee ein"
   ],
   "hashes": [
-    "190c8329d47c0adfeb2a0bb8dafc2b38",
-    "c2a22eb6eb311e59250155fa126e3c7f",
     "fb2482ff9839f4823c0f1670c4c2091b",
     "165a488c45f0f24f948279c4314cde77",
     "250d79fc73504f85c0735b4c2f5a1a81",
@@ -4005,6 +4003,8 @@
     "0450995a6f47c36fb818596259867bb2",
     "9d3c017a7fb4b979b7a286e68d2297ac",
     "a4ac989c5fe230fa2781f125a7d0edd4",
-    "0ede177915259125853e3018d942835a"
+    "0ede177915259125853e3018d942835a",
+    "9e34957427799946598987a2b49e9a7a",
+    "80e71e024cfa0f26204f84a284f8aabc"
   ]
 }
