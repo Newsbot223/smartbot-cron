@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/buerokratiekosten-in-deutschland-sinken-bleiben-aber-auf-hohem-niveau-102.html",
-    "https://www.deutschlandfunk.de/fischsterben-in-der-neretva-forscher-sehen-artenvielfalt-bedroht-102.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-gedenkt-der-hamas-opfer-accg-110713937.html",
     "https://www.deutschlandfunk.de/mehrere-verletzte-bei-angriff-vor-synagoge-in-manchester-starmer-aeussert-sich-entsetzt-100.html",
     "https://www.deutschlandfunk.de/einweihung-deutsch-deutsches-museum-in-moedlareuth-mit-bundespraesident-steinmeier-100.html",
     "https://www.deutschlandfunk.de/jeder-fuenfte-mensch-in-rente-hat-mehr-als-2-800-euro-im-monat-zur-verfuegung-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-will-abhaengigkeit-von-rohstoffen-aus-china-verringern-102.html",
     "https://www.deutschlandfunk.de/die-uhrzeit-wird-von-sommer-auf-winterzeit-umgestellt-108.html",
     "https://www.aljazeera.com/video/101-east/2025/10/25/can-easter-islands-sustainable-way-of-life-inspire-the-world?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/aiwanger-bleibt-parteichef-aber-der-rueckhalt-broeckelt-accg-110749369.html"
+    "https://www.faz.net/aktuell/politik/inland/aiwanger-bleibt-parteichef-aber-der-rueckhalt-broeckelt-accg-110749369.html",
+    "https://www.deutschlandfunk.de/aiwanger-als-vorsitzender-der-freien-waehler-bestaetigt-100.html",
+    "https://www.deutschlandfunk.de/oesterreicherin-julia-scheib-gewinnt-saisonauftakt-im-riesenslalom-in-soelden-100.html",
+    "https://www.deutschlandfunk.de/linksgerichtete-kandidatin-connolly-bei-praesidentenwahl-in-fuehrung-102.html"
   ],
   "content_hashes": [
-    "2979177e5d74810b31353cb44d12a104",
-    "185ae8a9d09851597024b3af93e70311",
-    "43d7019c501cdb610c9dd90f87e7871d",
     "7f727bde2207439e7f065b83e3f4a87e",
     "09b6bab54bf9bf2a0ea4ab678059509b",
     "04199285509dd3a1777d0b58521d551c",
@@ -2001,12 +1998,12 @@
     "ff24cc1632422c33efdf023343881419",
     "2d94b47e86240cc9a31762c7edf24765",
     "65981d3cfb691859fede27dc700ab0cd",
-    "a07ecbcc535403761be2a9c24d8246d5"
+    "a07ecbcc535403761be2a9c24d8246d5",
+    "0a868ba65b5f15f2be2ad88297b5f9c7",
+    "8197d2683906027f24ef680ed6e8aad8",
+    "e5109fe7fee219804cd4e30cd5c0cc48"
   ],
   "titles": [
-    "Jahresbericht des Normenkontrollrats - Bürokratiekosten in Deutschland sinken - bleiben aber auf hohem Niveau",
-    "Bosnien - Fischsterben in der Neretva - Forscher sehen Artenvielfalt bedroht",
-    "Hessischer Landtag: Gedenken an Hamas-Opfer",
     "Großbritannien - Mehrere Verletzte bei Angriff vor Synagoge in Manchester - Starmer äußert sich \"entsetzt\"",
     "Tag der Deutschen Einheit - Einweihung Deutsch-Deutsches Museum in Mödlareuth – mit Bundespräsident Steinmeier",
     "Statistisches Bundesamt - Jeder fünfte Mensch in Rente hat mehr als 2.800 Euro im Monat zur Verfügung",
@@ -3003,12 +3000,12 @@
     "Industrie-Absicherung - EU will Abhängigkeit von Rohstoffen aus China verringern",
     "Zeitumstellung in der Nacht - Die Uhrzeit wird von Sommer- auf \"Winterzeit\" umgestellt",
     "Can Easter Island’s sustainable way of life inspire the world?",
-    "Freie Wähler in Bayern: Aiwanger bleibt Parteichef – aber der Rückhalt bröckelt"
+    "Freie Wähler in Bayern: Aiwanger bleibt Parteichef – aber der Rückhalt bröckelt",
+    "Bayern - Aiwanger als Vorsitzender der Freien Wähler bestätigt",
+    "Ski-Weltcup - Österreicherin Julia Scheib gewinnt Saisonauftakt im Riesenslalom in Sölden",
+    "Republik Irland - Linksgerichtete Kandidatin Connolly bei Präsidentenwahl in Führung"
   ],
   "hashes": [
-    "af89d300d155ff9715acba32149517f4",
-    "118a7578e5da77eea21c536efbb0a218",
-    "dbffc71646919f558f63d8f7261962d8",
     "16ea68f790d631e652b15bec546b5610",
     "3368fbca0d6c9775f0a8f5408c3391ec",
     "98e128e890072e6b16f6231b5db87caa",
@@ -4005,6 +4002,9 @@
     "5e52ee248315803c3157bbde99c2749f",
     "956685d978826a525f7634e1240e5c74",
     "b88f080d22fd4369bcd5eccc67d88725",
-    "5062c238e8c50e47ebc8bddb19af92d0"
+    "5062c238e8c50e47ebc8bddb19af92d0",
+    "23951583a8b5de0116a825a11718251a",
+    "dd70c6ef2d7819994b9dbd070be3f958",
+    "7d4b5cfbd6a8a14de62e79fa651d8cff"
   ]
 }
