@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spionagefluege-wir-brauchen-gemeinsame-drohnenabwehr-110712887.html",
-    "https://www.deutschlandfunk.de/bis-2040-fehlen-tausende-hausaerzte-vor-allem-auf-dem-land-100.html",
     "https://www.deutschlandfunk.de/weiterhin-grosses-interesse-an-persoenlicher-einsicht-100.html",
     "https://www.deutschlandfunk.de/suedkoreas-praesident-lee-bittet-um-entschuldigung-fuer-jahrzehntelange-missstaende-bei-auslandsadop-100.html",
     "https://www.deutschlandfunk.de/zehntausende-menschen-nach-erdbeben-vor-einem-monat-dringend-auf-hilfe-und-angemessene-unterkuenfte--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-entsenden-flugzeugtraeger-in-die-karibik-bekaempfung-des-drogenhandels-100.html",
     "https://www.deutschlandfunk.de/gefluegelhalter-fordern-bundesweite-stallpflicht-fuer-nutztiere-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-bei-raketen-und-drohnenangriffen-100.html",
-    "https://www.deutschlandfunk.de/hofreiter-gruene-bundeskanzler-merz-kann-eu-einigung-fuer-nutzung-russischer-vermoegenswerte-erreich-102.html"
+    "https://www.deutschlandfunk.de/hofreiter-gruene-bundeskanzler-merz-kann-eu-einigung-fuer-nutzung-russischer-vermoegenswerte-erreich-102.html",
+    "https://www.deutschlandfunk.de/csu-feiert-ihren-80-geburtstag-102.html",
+    "https://www.faz.net/aktuell/politik/inland/merz-klartext-geht-anders-110747752.html"
   ],
   "content_hashes": [
-    "a546fa7f2df1fd58adc912bcdb0b5691",
-    "73a2572ee1c12ecebb950b58818f05c8",
     "a4b14037b609cee2916551990016d2f3",
     "c6200fdd03c6c4617349fbb55f37c9da",
     "f64e2770ebaf8237c2c0b76999323696",
@@ -2001,11 +1999,11 @@
     "0223682cc1a9e7765314517ee38621c2",
     "c14122976bd0aa1c1a6d150fb11564b3",
     "be06fabbf48309ac65c0e6835b05e112",
-    "7dee9db6ecae4e3b9704db1cbfbb8609"
+    "7dee9db6ecae4e3b9704db1cbfbb8609",
+    "223f06ba79d3fc1ef0c62c2c1bc1afa9",
+    "e0d1e1441a92b0e9a90f521d7d19c987"
   ],
   "titles": [
-    "Spionageflüge: Bitte nicht wieder die alten Reflexe",
-    "Studie - Bis 2040 fehlen Tausende Hausärzte - vor allem auf dem Land",
     "Stasi-Akten - Weiterhin großes Interesse an persönlicher Einsicht",
     "Asien - Südkoreas Präsident Lee bittet um Entschuldigung für jahrzehntelange Missstände bei Auslandsadoptionen",
     "Afghanistan - Zehntausende Menschen nach Erdbeben vor einem Monat dringend auf Hilfe und angemessene Unterkünfte angewiesen",
@@ -3003,11 +3001,11 @@
     "Lateinamerika - USA entsenden Flugzeugträger in die Karibik - \"Bekämpfung des Drogenhandels\"",
     "Vogelgrippe - Geflügelhalter fordern bundesweite Stallpflicht für Nutztiere",
     "Russlands Krieg gegen die Ukraine - Zwei Tote bei Raketen- und Drohnenangriffen",
-    "Ukraine-Hilfen - Hofreiter (Grüne): Bundeskanzler Merz kann EU-Einigung für Nutzung russischer Vermögenswerte erreichen"
+    "Ukraine-Hilfen - Hofreiter (Grüne): Bundeskanzler Merz kann EU-Einigung für Nutzung russischer Vermögenswerte erreichen",
+    "Jubiläum - CSU feiert ihren 80. Geburtstag",
+    "„Stadtbild“-Debatte: Klartext geht anders"
   ],
   "hashes": [
-    "66adce3867985044c676f1b442ba962b",
-    "1059e32eec5df60302178c4b4017171a",
     "f8d484f4d3b38c8629782ce04710886d",
     "7215545e3dd70c65674e989827315bfe",
     "d29a688cc9675f000ef2ea164957c481",
@@ -4005,6 +4003,8 @@
     "e10795b5de270c847281f32b19936d47",
     "6f09c4730d477dc89265c54a1bcb787d",
     "b760a268daa13cba39660a39795a502a",
-    "d57cdb9e36af94e2b677f62b96a01b99"
+    "d57cdb9e36af94e2b677f62b96a01b99",
+    "e772417f10c25cdb2480ad81a8d70726",
+    "9189cdbf9a2b0091135f1940d14ba2cf"
   ]
 }
