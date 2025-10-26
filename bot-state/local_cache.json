@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/putin-warnt-usa-vor-tomahawk-lieferung-102.html",
-    "https://www.deutschlandfunk.de/muehen-der-wiedervereinigung-haben-sich-gelohnt-102.html",
     "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html",
     "https://www.deutschlandfunk.de/spahn-fuer-sofortigen-aufbau-von-abwehr-102.html",
     "https://www.deutschlandfunk.de/israels-militaer-drei-hisbollah-mitglieder-getoetet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/union-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-100.html",
     "https://www.deutschlandfunk.de/ergebnisse-der-praesidentenwahl-erwartet-100.html",
     "https://www.faz.net/aktuell/politik/inland/bayern-wie-sich-die-konfliktlinien-in-der-afd-verschieben-accg-110750504.html",
-    "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html"
+    "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
+    "https://www.deutschlandfunk.de/spanische-ermittler-stellen-6-5-tonnen-kokain-auf-hochseefrachter-sicher-100.html",
+    "https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss"
   ],
   "content_hashes": [
-    "9f304490b4792e01c1a68c7bb114fce2",
-    "cfb3a7d1d6d4248a2563012032535a3a",
     "192322be7eb9be548d37f5b32d1aee4b",
     "0d92da1dc5f1a6cce77dcee6e7b3aff4",
     "6202ee86ec391fb85f9df8582ab0e366",
@@ -2001,11 +1999,11 @@
     "57440a520a592a699a0861e0e97cb781",
     "16111602ab1d597dd902c0be4c5f2601",
     "8a691f94361ccc69cc8c6cab14ac9f19",
-    "d327040af16a7ddc3c9fa33aeffecd72"
+    "d327040af16a7ddc3c9fa33aeffecd72",
+    "016026f8d8e7f95fbddb50181520bbdf",
+    "d42376813ffe15d8dab24706c1bce354"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Putin warnt USA vor Tomahawk-Lieferung",
-    "SED-Opferbeauftragte - \"Mühen der Wiedervereinigung haben sich gelohnt\"",
     "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\"",
     "Bedrohung durch Drohnen - Spahn für sofortigen Aufbau von Abwehr",
     "Süd-Libanon - Israels Militär: \"Drei Hisbollah-Mitglieder getötet\"",
@@ -3003,11 +3001,11 @@
     "Umstrittene Merz-Äußerung - Union verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
     "Elfenbeinküste - Ergebnisse der Präsidentenwahl erwartet",
     "Parteitag in Bayern: Wie sich die Konfliktlinien in der AfD verschieben",
-    "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits"
+    "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
+    "Fahndungserfolg - Spanische Ermittler stellen 6,5 Tonnen Kokain auf Hochseefrachter sicher",
+    "Grünenchef Banaszak sieht »Angsträume«"
   ],
   "hashes": [
-    "82b91b37f891ab477e4d4ed3bcf5c407",
-    "9b4bc10be82450b026002fac466e0be3",
     "15f338588de362131332304ca4882754",
     "cc9c4b1ecaa95deb09c6a756b0ff19aa",
     "3a7d15c95eefce33020dfb8a4c3dd595",
@@ -4005,6 +4003,8 @@
     "92415f203d738c560bc3bdab0d053f3b",
     "3218e9ed047b393bc80245848296dcf0",
     "4bc787f45afebd6590983b9d21afd121",
-    "ec3f47d98ae29a5f9b7afd9fb5e946a8"
+    "ec3f47d98ae29a5f9b7afd9fb5e946a8",
+    "849d5f23c3cc49dc030b792c54bf7029",
+    "0a306b646379902319af8e911f09cc77"
   ]
 }
