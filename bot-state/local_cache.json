@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merkel-nennt-afd-menschenverachtende-partei-104.html",
-    "https://www.deutschlandfunk.de/spahn-fuer-sofortigen-aufbau-von-abwehr-102.html",
     "https://www.deutschlandfunk.de/israels-militaer-drei-hisbollah-mitglieder-getoetet-100.html",
     "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-3-000-passagiere-gestrandet-102.html",
     "https://www.deutschlandfunk.de/staatsspitze-spricht-zum-tag-der-deutschen-einheit-merkel-kritisiert-macron-einladung-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/bayern-wie-sich-die-konfliktlinien-in-der-afd-verschieben-accg-110750504.html",
     "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
     "https://www.deutschlandfunk.de/spanische-ermittler-stellen-6-5-tonnen-kokain-auf-hochseefrachter-sicher-100.html",
-    "https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss",
+    "https://www.deutschlandfunk.de/spahn-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-102.html",
+    "https://www.faz.net/aktuell/politik/inland/kritik-an-merz-will-die-spd-in-die-opposition-110750552.html"
   ],
   "content_hashes": [
-    "192322be7eb9be548d37f5b32d1aee4b",
-    "0d92da1dc5f1a6cce77dcee6e7b3aff4",
     "6202ee86ec391fb85f9df8582ab0e366",
     "f87300ed83b634fd40527fa0ac87c48d",
     "39e5d358a847492099c68c16619d13de",
@@ -2001,11 +1999,11 @@
     "8a691f94361ccc69cc8c6cab14ac9f19",
     "d327040af16a7ddc3c9fa33aeffecd72",
     "016026f8d8e7f95fbddb50181520bbdf",
-    "d42376813ffe15d8dab24706c1bce354"
+    "d42376813ffe15d8dab24706c1bce354",
+    "7d696a819b616b9614cecbdcf3c77de0",
+    "a98eb3a55a91fa50d3a71ad8dc74dc2f"
   ],
   "titles": [
-    "Ehemalige Bundeskanzlerin - Merkel nennt AfD \"menschenverachtende Partei\"",
-    "Bedrohung durch Drohnen - Spahn für sofortigen Aufbau von Abwehr",
     "Süd-Libanon - Israels Militär: \"Drei Hisbollah-Mitglieder getötet\"",
     "Drohnensichtungen - Ausfälle am Flughafen München - 3.000 Passagiere gestrandet",
     "Saarbrücken - Staatsspitze spricht zum Tag der Deutschen Einheit - Merkel kritisiert Macron-Einladung",
@@ -3003,11 +3001,11 @@
     "Parteitag in Bayern: Wie sich die Konfliktlinien in der AfD verschieben",
     "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
     "Fahndungserfolg - Spanische Ermittler stellen 6,5 Tonnen Kokain auf Hochseefrachter sicher",
-    "Grünenchef Banaszak sieht »Angsträume«"
+    "Grünenchef Banaszak sieht »Angsträume«",
+    "Umstrittene Merz-Äußerung - Spahn verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
+    "Kritik an Merz: Will die SPD unbedingt in die Opposition?"
   ],
   "hashes": [
-    "15f338588de362131332304ca4882754",
-    "cc9c4b1ecaa95deb09c6a756b0ff19aa",
     "3a7d15c95eefce33020dfb8a4c3dd595",
     "581c3002ffeb9329401a8df3f3a0a3b9",
     "2edc34335cafe20b9c5ed17ad6960c2f",
@@ -4005,6 +4003,8 @@
     "4bc787f45afebd6590983b9d21afd121",
     "ec3f47d98ae29a5f9b7afd9fb5e946a8",
     "849d5f23c3cc49dc030b792c54bf7029",
-    "0a306b646379902319af8e911f09cc77"
+    "0a306b646379902319af8e911f09cc77",
+    "6f7f04d32e8e16e2991b8914e5b7b331",
+    "df28a56af29d19b2962d7cf029c3db5f"
   ]
 }
