@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/arme-menschen-beklagen-sozialen-ausschluss-100.html",
-    "https://www.deutschlandfunk.de/wie-gross-ist-die-terrorgefahr-interv-sicherheitsexperte-hans-jakob-schindler-100.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-unterstellt-ard-zdf-und-deutschlandradio-politisch-links-geneigt-zu-sein-100.html",
     "https://www.deutschlandfunk.de/rwe-zieht-sich-aus-wasserstoff-projekt-in-namibia-zurueck-100.html",
     "https://www.deutschlandfunk.de/china-schraenkt-offenbar-den-einsatz-von-nokia-und-ericsson-in-telekommunikationsnetzen-ein-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
     "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
     "https://www.deutschlandfunk.de/mindestens-drei-tote-durch-russische-angriffe-auf-kiew-100.html",
-    "https://www.faz.net/aktuell/politik/inland/verpflichtendes-dienstjahr-sich-engagieren-fuer-das-land-110748057.html"
+    "https://www.faz.net/aktuell/politik/inland/verpflichtendes-dienstjahr-sich-engagieren-fuer-das-land-110748057.html",
+    "https://www.deutschlandfunk.de/wissenschaftler-fordert-fangstopp-von-dorsch-und-hering-102.html",
+    "https://www.faz.net/aktuell/politik/inland/seltene-erden-berlin-hat-die-rechnung-ohne-china-gemacht-110747790.html"
   ],
   "content_hashes": [
-    "3156d96574d682aad646e67613bed779",
-    "e361f44a1a18437a8c4af4b7e60bb2a8",
     "495b99c5501efdd7245e678d2825016d",
     "6fee14b6046d7a76c0b284b33f70b37f",
     "3878923f7629f9433d442cc09925a5a8",
@@ -2001,11 +1999,11 @@
     "f3186420df3c1c7993ba761133206242",
     "046f2e7c763c129f603aee0d20095dd6",
     "2d87dcca578dc2cb315a72164fe86f9f",
-    "c065273a8930831d3ae5e1d01131d314"
+    "c065273a8930831d3ae5e1d01131d314",
+    "35cca736ab1f02b19132ca8b2db06196",
+    "01c07b07c6198f906200f6796534339c"
   ],
   "titles": [
-    "Regierungsbericht - Arme Menschen beklagen sozialen Ausschluss",
-    "Terrorabwehr - Sicherheitsexperte: Behörden bei Überwachung stark eingeschränkt",
     "Öffentlich-Rechtliche Sender - Kulturstaatsminister Weimer unterstellt ARD, ZDF und Deutschlandradio \"politisch links geneigt\" zu sein - scharfe Kritik vom DJV",
     "Energiewende - RWE zieht sich aus Wasserstoff-Projekt in Namibia zurück",
     "Zensur - China schränkt offenbar den Einsatz von Nokia und Ericsson in Telekommunikationsnetzen ein",
@@ -3003,11 +3001,11 @@
     "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
     "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
     "Ukraine - Mindestens drei Tote durch russische Angriffe auf Kiew",
-    "Verpflichtendes Dienstjahr: Sich engagieren für das Land"
+    "Verpflichtendes Dienstjahr: Sich engagieren für das Land",
+    "Fischerei in der Ostsee - Wissenschaftler fordert Fangstopp von Dorsch und Hering",
+    "Aufrüstung und Seltene Erden: Berlin hat die Rechnung ohne China gemacht"
   ],
   "hashes": [
-    "38296b31af849347ed7b4b4dd31a4f7e",
-    "76c4ade2e0084ff46353d6c3a9c539e8",
     "27ffbee4d6fd4da32f42a272c5d34cf3",
     "344a43e064a284a40b9ffee9bac85edc",
     "dc9f20f401884bea05dad5814f60e185",
@@ -4005,6 +4003,8 @@
     "176c9f9c66519266906df8c9e60efc4c",
     "aec3de032736d87e71886b768d65638f",
     "624d68b937b5082e22960a3e62f6c0d9",
-    "d93eacfa0b114963b6c05ae82d2652fa"
+    "d93eacfa0b114963b6c05ae82d2652fa",
+    "5d09e6b7683b5eea2c583f4856b24a0c",
+    "4d61f631b4b73f57b047f30e258a6fbb"
   ]
 }
