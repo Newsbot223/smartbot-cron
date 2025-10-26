@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/inside-story/2025/10/2/are-europe-and-russia-moving-closer-to-conflict-over-ukraine?traffic_source=rss",
-    "https://www.deutschlandfunk.de/israel-bringt-pro-palaestinensische-aktivisten-an-land-102.html",
-    "https://www.deutschlandfunk.de/ex-ministerpraesident-babis-will-zurueck-an-die-macht-ukraine-unterstuetzung-auf-der-kippe-100.html",
     "https://www.deutschlandfunk.de/ausfaelle-am-flughafen-muenchen-100.html",
     "https://www.deutschlandfunk.de/putin-warnt-usa-vor-tomahawk-lieferung-102.html",
     "https://www.deutschlandfunk.de/muehen-der-wiedervereinigung-haben-sich-gelohnt-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-nordsee-kueste-und-hamburger-elbegebiet-100.html",
     "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
     "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-meldet-einnahme-der-stadt-al-faschir-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/trump-koennte-suedostasien-in-chinas-arme-treiben-110750488.html"
+    "https://www.faz.net/aktuell/politik/ausland/trump-koennte-suedostasien-in-chinas-arme-treiben-110750488.html",
+    "https://www.deutschlandfunk.de/union-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-100.html",
+    "https://www.deutschlandfunk.de/ergebnisse-der-praesidentenwahl-erwartet-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bayern-wie-sich-die-konfliktlinien-in-der-afd-verschieben-accg-110750504.html"
   ],
   "content_hashes": [
-    "8727922d2d59a823081ceb87edec8610",
-    "516837dd7044c9e89824aeb00f909640",
-    "b74ef23170c827d581258535361eb451",
     "d3e26eefa36bbec6a6b5c907359ccf15",
     "9f304490b4792e01c1a68c7bb114fce2",
     "cfb3a7d1d6d4248a2563012032535a3a",
@@ -2001,12 +1998,12 @@
     "eea55193029dbbc03e1eeee87263f772",
     "6b277422af3b8c527d4911b9ea982563",
     "44f250b3c355c6f4c3db69aa9530358c",
-    "51851f22c9baa84f042fbd845494c58c"
+    "51851f22c9baa84f042fbd845494c58c",
+    "57440a520a592a699a0861e0e97cb781",
+    "16111602ab1d597dd902c0be4c5f2601",
+    "8a691f94361ccc69cc8c6cab14ac9f19"
   ],
   "titles": [
-    "Are Europe and Russia moving closer to conflict over Ukraine?",
-    "\"Global Sumud Flotilla\" - Israel bringt pro-palästinensische Aktivisten an Land",
-    "Parlamentswahl in Tschechien - Ex-Ministerpräsident Babis will zurück an die Macht - Ukraine-Unterstützung auf der Kippe",
     "Drohnensichtungen - Ausfälle am Flughafen München",
     "Krieg gegen die Ukraine - Putin warnt USA vor Tomahawk-Lieferung",
     "SED-Opferbeauftragte - \"Mühen der Wiedervereinigung haben sich gelohnt\"",
@@ -3003,12 +3000,12 @@
     "Bundesamt für Seeschifffahrt und Hydrographie - Sturmflutwarnung für Nordsee-Küste und Hamburger Elbegebiet",
     "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
     "Region Dafur - Sudanesische RSF-Miliz meldet Einnahme der Stadt Al-Faschir",
-    "Trump in Südostasien: Der strategische Preis der Zölle"
+    "Trump in Südostasien: Der strategische Preis der Zölle",
+    "Umstrittene Merz-Äußerung - Union verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
+    "Elfenbeinküste - Ergebnisse der Präsidentenwahl erwartet",
+    "Parteitag in Bayern: Wie sich die Konfliktlinien in der AfD verschieben"
   ],
   "hashes": [
-    "ffa6df6dc84bd63e7cf273e40b74713a",
-    "76d73adb2d1f20a5590b5bdbdaa4cf45",
-    "43af68cb4e6df6bc5cf5709a22fa4a64",
     "237dcf2480275235554e8c4b92f8fd0b",
     "82b91b37f891ab477e4d4ed3bcf5c407",
     "9b4bc10be82450b026002fac466e0be3",
@@ -4005,6 +4002,9 @@
     "d295e8f0db5305aaab52e9e1c113d8f1",
     "cd6f5611309d65db17d8cc1c8990ce05",
     "286ddab2849c5cfea2ae321d0c8977b2",
-    "803bc85c4ce3f3e7367de5b3dadde48b"
+    "803bc85c4ce3f3e7367de5b3dadde48b",
+    "92415f203d738c560bc3bdab0d053f3b",
+    "3218e9ed047b393bc80245848296dcf0",
+    "4bc787f45afebd6590983b9d21afd121"
   ]
 }
