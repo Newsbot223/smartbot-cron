@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/menschenrechtler-fordern-entschaedigung-fuer-genozid-100.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-droht-demokraten-mit-weiteren-kuerzungen-100.html",
-    "https://www.deutschlandfunk.de/entsetzen-nach-anschlag-nahe-synagoge-100.html",
-    "https://www.deutschlandfunk.de/indien-und-china-nehmen-wieder-flugverbindungen-zwischen-ihren-laendern-auf-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/2/are-europe-and-russia-moving-closer-to-conflict-over-ukraine?traffic_source=rss",
     "https://www.deutschlandfunk.de/israel-bringt-pro-palaestinensische-aktivisten-an-land-102.html",
     "https://www.deutschlandfunk.de/ex-ministerpraesident-babis-will-zurueck-an-die-macht-ukraine-unterstuetzung-auf-der-kippe-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-nimmt-hauptquartier-der-armee-in-al-faschir-ein-100.html",
     "https://www.deutschlandfunk.de/tusk-warnt-vor-ewigem-krieg-in-der-ukraine-100.html",
     "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/10/26/estonias-top-diplomat-russia-testing-nato-resolve-amid-trump-uncertainty?traffic_source=rss",
-    "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html"
+    "https://www.deutschlandfunk.de/kosovos-ministerpraesident-scheitert-fast-neun-monate-nach-parlamentswahl-an-regierungsbildung-100.html",
+    "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-nordsee-kueste-und-hamburger-elbegebiet-100.html",
+    "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
+    "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-meldet-einnahme-der-stadt-al-faschir-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/trump-koennte-suedostasien-in-chinas-arme-treiben-110750488.html"
   ],
   "content_hashes": [
-    "ed862c729fea0f195f0d116702ecfb2b",
-    "d124ea1bb344acf1fd27f4111f4e3905",
-    "6cd1af145909339a9476b092ad1da6a9",
-    "96edc8a3c0ac308124d83750cf670cdb",
     "8727922d2d59a823081ceb87edec8610",
     "516837dd7044c9e89824aeb00f909640",
     "b74ef23170c827d581258535361eb451",
@@ -2001,13 +1997,13 @@
     "b361090721cf10ddc2e294ccb718a7b6",
     "30538caa9ad4084538dd22a395bd1f41",
     "bd64fa12904220bee25c939169dfc13a",
-    "48df9e596d174d60657fe3107396d51a"
+    "48df9e596d174d60657fe3107396d51a",
+    "eea55193029dbbc03e1eeee87263f772",
+    "6b277422af3b8c527d4911b9ea982563",
+    "44f250b3c355c6f4c3db69aa9530358c",
+    "51851f22c9baa84f042fbd845494c58c"
   ],
   "titles": [
-    "Herero und Nama - Menschenrechtler fordern Entschädigung für Genozid",
-    "Streit um Haushaltssperre - US-Präsident Trump droht Demokraten mit weiteren Kürzungen",
-    "Manchester - Entsetzen nach Anschlag nahe Synagoge",
-    "Asien - Indien und China nehmen wieder Flugverbindungen zwischen ihren Ländern auf",
     "Are Europe and Russia moving closer to conflict over Ukraine?",
     "\"Global Sumud Flotilla\" - Israel bringt pro-palästinensische Aktivisten an Land",
     "Parlamentswahl in Tschechien - Ex-Ministerpräsident Babis will zurück an die Macht - Ukraine-Unterstützung auf der Kippe",
@@ -3003,13 +2999,13 @@
     "Region Dafur - Sudanesische RSF-Miliz nimmt Hauptquartier der Armee in Al-Faschir ein",
     "Polens Regierungschef - Tusk warnt vor \"ewigem Krieg\" in der Ukraine",
     "Estonia’s top diplomat: Russia testing NATO resolve amid Trump uncertainty",
-    "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung"
+    "Möglicherweise bald Neuwahlen - Kosovos Ministerpräsident scheitert fast neun Monate nach Parlamentswahl an Regierungsbildung",
+    "Bundesamt für Seeschifffahrt und Hydrographie - Sturmflutwarnung für Nordsee-Küste und Hamburger Elbegebiet",
+    "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
+    "Region Dafur - Sudanesische RSF-Miliz meldet Einnahme der Stadt Al-Faschir",
+    "Trump in Südostasien: Der strategische Preis der Zölle"
   ],
   "hashes": [
-    "7e518541daa89d9534e20497762d2b9b",
-    "352fe0724b69c9da72c1446989f1f9fb",
-    "1dacdcd1b2a9538be8fb96eb55001c5f",
-    "9f329157ccb0e95f3fa65d61b7e0abc8",
     "ffa6df6dc84bd63e7cf273e40b74713a",
     "76d73adb2d1f20a5590b5bdbdaa4cf45",
     "43af68cb4e6df6bc5cf5709a22fa4a64",
@@ -4005,6 +4001,10 @@
     "2fd8c5d03fd24c0c8f1047f7957c6ccf",
     "069e7044f34a48cdca91de88bda2d861",
     "8c69a696573249610a968c394cc75e9f",
-    "f2746c6212fa229922a713df3e683fa3"
+    "f2746c6212fa229922a713df3e683fa3",
+    "d295e8f0db5305aaab52e9e1c113d8f1",
+    "cd6f5611309d65db17d8cc1c8990ce05",
+    "286ddab2849c5cfea2ae321d0c8977b2",
+    "803bc85c4ce3f3e7367de5b3dadde48b"
   ]
 }
