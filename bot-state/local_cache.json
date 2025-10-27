@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/finnisches-gericht-weist-klage-wegen-sabotage-von-unterseekabeln-ab-und-erklaert-sich-fuer-nicht-zus-100.html",
-    "https://www.deutschlandfunk.de/ukraine-meldet-schwere-angriffe-auf-gasanlagen-100.html",
-    "https://www.deutschlandfunk.de/werteunion-chef-maassen-will-sein-amt-niederlegen-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/alarm-am-flughafen-muenchen-politik-draengt-auf-zentrale-drohnenabwehr-accg-110715565.html",
     "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html",
     "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/prien-in-israel-eingetroffen-100.html",
     "https://www.aljazeera.com/news/2025/10/27/hong-kong-court-gives-trio-lengthy-jail-terms-over-bomb-plots?traffic_source=rss",
     "https://www.deutschlandfunk.de/ukraine-fliegt-wieder-gegenangriffe-auf-russisches-gebiet-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/deutsche-entwicklungshilfe-kein-geld-fuer-maertyrer-110750487.html"
+    "https://www.faz.net/aktuell/politik/ausland/deutsche-entwicklungshilfe-kein-geld-fuer-maertyrer-110750487.html",
+    "https://www.deutschlandfunk.de/praesident-milei-kuendigt-nach-wahlerfolg-intensivierung-seiner-wirtschaftspolitik-an-100.html",
+    "https://www.deutschlandfunk.de/haftbefehl-gegen-erdogan-konkurrent-imamoglu-wegen-spionagevorwuerfen-100.html",
+    "https://www.deutschlandfunk.de/amerikanischer-kampfjet-und-helikopter-stuerzen-im-suedchinesischen-meer-ab-100.html"
   ],
   "content_hashes": [
-    "0252fb50d12982ecc52be78d150e5d2c",
-    "864a4a5d127d64e262159096059e8593",
-    "7da3d55fcb3c4b70f354842468bbe0ea",
     "78d0f2550e768fe0fb40dda318ab30e1",
     "8cad4b2be25ad10162817e1a294441f1",
     "f67cd7101c4b9a2787f48c5d7c61108c",
@@ -2001,12 +1998,12 @@
     "71353950431ecdd6ba0a055294fc0883",
     "8985589444445445598e70065379c09b",
     "1478187d8c675a34e8d15646c9cb27be",
-    "dacb2b09d626f2c0b9ce58a5fb7df095"
+    "dacb2b09d626f2c0b9ce58a5fb7df095",
+    "93310a17051a529b89022cbb6e22927f",
+    "7162f0bb4ff08a35dfbd43415f87840f",
+    "2352fe465f9db74b15c6011635b09649"
   ],
   "titles": [
-    "Tanker \"Eagle S\" - Finnisches Gericht weist Klage wegen Sabotage von Unterseekabeln ab und erklärt sich für nicht zuständig",
-    "Russischer Angriffskrieg - Ukraine meldet schwere Angriffe auf Gasanlagen",
-    "Machtkampf in rechter Kleinpartei - Werteunion-Chef Maaßen will sein Amt niederlegen",
     "Schutz von Flughäfen: Deutschland hat großen Nachholbedarf bei Drohnenabwehr",
     "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?",
     "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend",
@@ -3003,12 +3000,12 @@
     "Jerusalem - Prien in Israel eingetroffen",
     "Hong Kong court gives trio lengthy jail terms over bomb plots",
     "Ukraine-Krieg - Ukraine fliegt wieder Gegenangriffe auf russisches Gebiet",
-    "Deutsche Entwicklungshilfe: Kein Geld für palästinensische „Märtyrer“"
+    "Deutsche Entwicklungshilfe: Kein Geld für palästinensische „Märtyrer“",
+    "Argentinien - Präsident Milei kündigt nach Wahlerfolg Intensivierung seiner Wirtschaftspolitik an",
+    "Türkei - Haftbefehl gegen Erdogan-Konkurrent Imamoglu wegen Spionagevorwürfen",
+    "US-Armee - Amerikanischer Kampfjet und Helikopter stürzen im Südchinesischen Meer ab"
   ],
   "hashes": [
-    "08ce9c7449d212e60e7d5fe4445ce0ad",
-    "3807d8ce2c361b620f233a4cd265e773",
-    "960570290371ac305cac8bcee309d9d6",
     "b64566e925cb4765dd275f0501c18f38",
     "59ef287bc9c2e3ad1940268af3838f90",
     "cc5ac164247be1cead5649011eb285ad",
@@ -4005,6 +4002,9 @@
     "0ce01b45791cae56603e5ba058976cca",
     "081ef3af64482bdb683e0e0cdc30dbae",
     "0c784d4a55c87ca69437fe84d0d69f96",
-    "6d115c65d735194ee59cbc7e060bf08a"
+    "6d115c65d735194ee59cbc7e060bf08a",
+    "ec8cdda2d24d9fd21dab89a4f0f7d4c2",
+    "2dee4d4f885fbdfaa4733e12fc2c934d",
+    "2f8449439427fb9584713a933d95efa9"
   ]
 }
