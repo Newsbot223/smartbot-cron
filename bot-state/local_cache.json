@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/people-power/2025/10/4/trapped-in-tunisia?traffic_source=rss",
     "https://www.deutschlandfunk.de/partei-von-rechtspopulist-babis-gewinnt-parlamentswahl-100.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-abwehreinheit-fuer-drohnen-bei-der-bundespolizei-an-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-30-verletzte-nach-beschuss-von-bahnhof-in-stadt-schostka-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/ukraine-verstaerkt-verteidigung-in-pokrowsk-102.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-setzen-auf-fairen-handel-mit-peking-100.html",
     "https://www.deutschlandfunk.de/500-000-tiere-getoetet-warnung-vor-weiterem-anstieg-der-zahlen-102.html",
-    "https://www.deutschlandfunk.de/hamas-uebergibt-16-tote-geisel-an-israel-100.html"
+    "https://www.deutschlandfunk.de/hamas-uebergibt-16-tote-geisel-an-israel-100.html",
+    "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-keine-meldungen-ueber-opfer-100.html"
   ],
   "content_hashes": [
-    "c67e7272536286f02bb3e2d24e0cdcec",
     "e50c456dd01b5d1754f0e56f51e72622",
     "b7c62eb4fe998170e0b04ec71503166d",
     "e7ec82c58f5732432b935146d8923357",
@@ -2001,10 +2000,10 @@
     "41d81ccf50c3ca5eb426966fd96da72c",
     "ce3c6a27f6f3743d1c023cebceaafd47",
     "2fd961a8af8a4ad1f4f25aa6990b8f1a",
-    "fb3a891164cbba2358df2d50c7a6ab2c"
+    "fb3a891164cbba2358df2d50c7a6ab2c",
+    "77ccaf528c3076fb82fda282cd6f5a22"
   ],
   "titles": [
-    "Trapped in Tunisia",
     "Tschechien - Partei von Rechtspopulist Babis gewinnt Parlamentswahl",
     "Nach Drohnen-Vorfällen - Bundesinnenminister Dobrindt kündigt Abwehreinheit für Drohnen bei der Bundespolizei an",
     "Ukraine-Krieg - Ein Toter und 30 Verletzte nach Beschuss von Bahnhof in Stadt Schostka",
@@ -3003,10 +3002,10 @@
     "Region Donezk - Ukraine verstärkt Verteidigung in Pokrowsk",
     "Nach Absage der China-Reise - Außenminister Wadephul: Setzen auf fairen Handel mit Peking",
     "Vogelgrippe - 500.000 Tiere getötet - Warnung vor weiterem Anstieg der Zahlen",
-    "Gazastreifen - Hamas übergibt 16. tote Geisel an Israel"
+    "Gazastreifen - Hamas übergibt 16. tote Geisel an Israel",
+    "Westtürkei - Erdbeben der Stärke 6,1 - keine Meldungen über Opfer"
   ],
   "hashes": [
-    "b9b08bfeec65a2c8a3074bc90277540e",
     "d9a385d3fa63805087d476178df253f2",
     "9694b22b4ad0531ca199e3b3e9090248",
     "d82128c1e0109f52cb633bcf5ef496d5",
@@ -4005,6 +4004,7 @@
     "56560bb49954937bd07f9154ffb56e0c",
     "8b6cd77a3a3d864f9ee400c51ecc00ba",
     "360fbbbcd6bd57dda526973a18e02b2a",
-    "07caf26b9487f12a0ca38d614e18bf1f"
+    "07caf26b9487f12a0ca38d614e18bf1f",
+    "ba4e704dfe840ee6bcaf18a0337adb1f"
   ]
 }
