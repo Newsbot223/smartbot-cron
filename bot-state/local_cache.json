@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/klage-gegen-erhoehte-neue-visagebuehr-der-trump-regierung-104.html",
-    "https://www.deutschlandfunk.de/dauerprotest-in-serbien-das-volk-gegen-vucic-100.html",
-    "https://www.deutschlandfunk.de/bundeswehr-leistet-amtshilfe-in-bayern-100.html",
-    "https://www.deutschlandfunk.de/mindestens-30-verletzte-nach-beschuss-von-bahnhof-in-schostka-104.html",
     "https://www.deutschlandfunk.de/parlamentswahl-beendet-auszaehlung-laeuft-102.html",
     "https://www.deutschlandfunk.de/zahlreiche-gaza-flotten-aktivisten-aus-israel-abgeschoben-100.html",
     "https://www.aljazeera.com/video/people-power/2025/10/4/trapped-in-tunisia?traffic_source=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/acht-punkte-vorschlag-zum-stadtbild-interview-mit-aydan-oezogus-mdb-spd-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/neue-afd-jugendorganisation-giessen-befuerchtet-umsatzverluste-accg-110751546.html",
     "https://www.deutschlandfunk.de/waffenarsenal-in-remscheid-entdeckt-100.html",
-    "https://www.deutschlandfunk.de/spanischer-ministerpraesident-sanchez-koennte-unterstuetzung-der-katalanischen-separatisten-verliere-100.html"
+    "https://www.deutschlandfunk.de/spanischer-ministerpraesident-sanchez-koennte-unterstuetzung-der-katalanischen-separatisten-verliere-100.html",
+    "https://www.deutschlandfunk.de/tuerkei-will-20-eurofighter-aus-britischer-produktion-kaufen-100.html",
+    "https://www.deutschlandfunk.de/hamas-kuendigt-uebergabe-der-16-toten-geisel-an-100.html",
+    "https://www.deutschlandfunk.de/ukraine-verstaerkt-verteidigung-in-pokrowsk-102.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-setzen-auf-fairen-handel-mit-peking-100.html"
   ],
   "content_hashes": [
-    "739a2255548c0394e3fc41a72e5fae6e",
-    "09d7acfcf9f0b0837492007e7b683b6b",
-    "0210eb59dacb05667253dac1d6a0924a",
-    "2cdb044bdebe70b57eb1a7b1418a7fa7",
     "66ff88bb132be2738f965d7e0ee33736",
     "aa379520245fc92b00d2bd0626d7d481",
     "c67e7272536286f02bb3e2d24e0cdcec",
@@ -2001,13 +1997,13 @@
     "19dc562f54a4897dd355cb45da92f5e1",
     "cc1c2e5d39475af1e1ea28256c633d03",
     "38fd8c643cf4b3818c9333c758cea71a",
-    "8b0dc7a30c565bb60dbd8768f73a8d09"
+    "8b0dc7a30c565bb60dbd8768f73a8d09",
+    "7f1c5d10fb491e5daff7d662aabfaf12",
+    "7d5ebd6cef120ad73a57822a48ffe046",
+    "41d81ccf50c3ca5eb426966fd96da72c",
+    "ce3c6a27f6f3743d1c023cebceaafd47"
   ],
   "titles": [
-    "USA - Klage gegen erhöhte neue Visagebühr der Trump-Regierung",
-    "Proteste in Serbien - Das Volk geht gegen Vučić auf die Straße",
-    "Nach Drohnenvorfällen in München - Bundeswehr leistet Amtshilfe in Bayern",
-    "Ukraine-Krieg - Mindestens 30 Verletzte nach Beschuss von Bahnhof in Schostka",
     "Tschechien - Parlamentswahl beendet - Auszählung läuft",
     "Nahost - Zahlreiche Gaza-Flotten-Aktivisten aus Israel abgeschoben",
     "Trapped in Tunisia",
@@ -3003,13 +2999,13 @@
     "SPD-Politikerin Özoğuz - Sicherheit ohne Stigmatisierung stärken",
     "Gegenproteste erwartet: Umsatzverluste wegen AfD-Jugend befürchtet",
     "Razzia - Waffenarsenal in Remscheid entdeckt",
-    "Minderheitsregierung - Spanischer Ministerpräsident Sanchez könnte Unterstützung der katalanischen Separatisten verlieren"
+    "Minderheitsregierung - Spanischer Ministerpräsident Sanchez könnte Unterstützung der katalanischen Separatisten verlieren",
+    "Abkommen in Ankara - Türkei will 20 Eurofighter aus britischer Produktion kaufen",
+    "Gazastreifen - Hamas kündigt Übergabe der 16. toten Geisel an",
+    "Region Donezk - Ukraine verstärkt Verteidigung in Pokrowsk",
+    "Nach Absage der China-Reise - Außenminister Wadephul: Setzen auf fairen Handel mit Peking"
   ],
   "hashes": [
-    "15987c4f9e1c4af08c0140d1dcf928d4",
-    "a0b68e829e4b63c348f34ef8a39fb4ea",
-    "f4d5a5d4067a2a1478cf2bbb124561f1",
-    "cd2daa488f2490eb49f927846a2e9be5",
     "a477e8b12d19860dd288cde2ae108289",
     "5267b187917ab33f8ae5aca47d0e7fe7",
     "b9b08bfeec65a2c8a3074bc90277540e",
@@ -4005,6 +4001,10 @@
     "575d90c5817396e0ebb7dfa50233ba60",
     "3c541496127d43b5a91229bce17f6d0d",
     "23292a7c446ed7ffe380ebc1cb2e14c4",
-    "44d19d6c74b0a3d7f5b6f5c25914e592"
+    "44d19d6c74b0a3d7f5b6f5c25914e592",
+    "d1aec41309a7ee055d1fb8e712584425",
+    "5dcf7acde471284e8d3fe513d875ece1",
+    "56560bb49954937bd07f9154ffb56e0c",
+    "8b6cd77a3a3d864f9ee400c51ecc00ba"
   ]
 }
