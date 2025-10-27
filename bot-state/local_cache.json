@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/debatte-um-besseren-schutz-an-flughaefen-104.html",
-    "https://www.deutschlandfunk.de/klingbeil-und-bas-stahlproduktion-muss-zukunft-in-deutschland-haben-102.html",
     "https://www.deutschlandfunk.de/klage-gegen-erhoehte-neue-visagebuehr-der-trump-regierung-104.html",
     "https://www.deutschlandfunk.de/dauerprotest-in-serbien-das-volk-gegen-vucic-100.html",
     "https://www.deutschlandfunk.de/bundeswehr-leistet-amtshilfe-in-bayern-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bildungsministerin-prien-besucht-yad-vashem-100.html",
     "https://www.deutschlandfunk.de/bas-kuendigt-bessere-vernetzung-von-behoerden-und-strafrechts-aenderung-an-100.html",
     "https://www.deutschlandfunk.de/acht-punkte-vorschlag-zum-stadtbild-interview-mit-aydan-oezogus-mdb-spd-100.html",
-    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/neue-afd-jugendorganisation-giessen-befuerchtet-umsatzverluste-accg-110751546.html"
+    "https://www.faz.net/aktuell/rhein-main/region-und-hessen/neue-afd-jugendorganisation-giessen-befuerchtet-umsatzverluste-accg-110751546.html",
+    "https://www.deutschlandfunk.de/waffenarsenal-in-remscheid-entdeckt-100.html",
+    "https://www.deutschlandfunk.de/spanischer-ministerpraesident-sanchez-koennte-unterstuetzung-der-katalanischen-separatisten-verliere-100.html"
   ],
   "content_hashes": [
-    "6d0f8d46f0346d69cef57963f5f4b67c",
-    "eb3b2aee5966cfb52f1b14ae3439b273",
     "739a2255548c0394e3fc41a72e5fae6e",
     "09d7acfcf9f0b0837492007e7b683b6b",
     "0210eb59dacb05667253dac1d6a0924a",
@@ -2001,11 +1999,11 @@
     "431adff9e23804b0f2e47b167549453e",
     "8fb8d0eb1159c57998187a2ae0f8f68a",
     "19dc562f54a4897dd355cb45da92f5e1",
-    "cc1c2e5d39475af1e1ea28256c633d03"
+    "cc1c2e5d39475af1e1ea28256c633d03",
+    "38fd8c643cf4b3818c9333c758cea71a",
+    "8b0dc7a30c565bb60dbd8768f73a8d09"
   ],
   "titles": [
-    "Nach Drohnenvorfällen in München - Debatte um besseren Schutz an Flughäfen",
-    "Wirtschaft - Klingbeil und Bas: Stahlproduktion muss Zukunft in Deutschland haben",
     "USA - Klage gegen erhöhte neue Visagebühr der Trump-Regierung",
     "Proteste in Serbien - Das Volk geht gegen Vučić auf die Straße",
     "Nach Drohnenvorfällen in München - Bundeswehr leistet Amtshilfe in Bayern",
@@ -3003,11 +3001,11 @@
     "Jerusalem - Bildungsministerin Prien besucht Yad Vashem",
     "Missbrauch von Sozialleistungen - Bas kündigt bessere Vernetzung von Behörden und Strafrechts-Änderung an",
     "SPD-Politikerin Özoğuz - Sicherheit ohne Stigmatisierung stärken",
-    "Gegenproteste erwartet: Umsatzverluste wegen AfD-Jugend befürchtet"
+    "Gegenproteste erwartet: Umsatzverluste wegen AfD-Jugend befürchtet",
+    "Razzia - Waffenarsenal in Remscheid entdeckt",
+    "Minderheitsregierung - Spanischer Ministerpräsident Sanchez könnte Unterstützung der katalanischen Separatisten verlieren"
   ],
   "hashes": [
-    "1253c22d85043cece003d54c1740710d",
-    "f0fe7fa585c519836b76c22222497b4a",
     "15987c4f9e1c4af08c0140d1dcf928d4",
     "a0b68e829e4b63c348f34ef8a39fb4ea",
     "f4d5a5d4067a2a1478cf2bbb124561f1",
@@ -4005,6 +4003,8 @@
     "580c8044aecd1ee722da56c5c57c9667",
     "1d9bf0869b3f2076703005571affbaec",
     "575d90c5817396e0ebb7dfa50233ba60",
-    "3c541496127d43b5a91229bce17f6d0d"
+    "3c541496127d43b5a91229bce17f6d0d",
+    "23292a7c446ed7ffe380ebc1cb2e14c4",
+    "44d19d6c74b0a3d7f5b6f5c25914e592"
   ]
 }
