@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tourismusausschuss-vorsitzende-warnt-vor-verlust-von-flugverbindungen-in-deutschland-fliegen-sei-zu--100.html",
-    "https://www.deutschlandfunk.de/vor-frankreich-festgehaltener-oeltanker-der-schattenflotte-setzt-fahrt-fort-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/drohnen-ueber-ostbelgischem-uebungsplatz-gesichtet-accg-110715343.html",
     "https://www.deutschlandfunk.de/nouripour-wuerdigt-parlamente-als-stimmen-der-voelker-100.html",
     "https://www.aljazeera.com/video/quotable/2025/10/3/pattern-emerging-of-eu-airports-disrupted-by-drones?traffic_source=rss",
     "https://www.deutschlandfunk.de/finnisches-gericht-weist-klage-wegen-sabotage-von-unterseekabeln-ab-und-erklaert-sich-fuer-nicht-zus-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/festakt-zum-75-jaehrigen-bestehen-des-verfassungsschutzes-100.html",
     "https://www.deutschlandfunk.de/prien-zu-israel-reise-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/erfolg-fuer-staatschef-milei-bei-kongresswahl-100.html",
-    "https://www.aljazeera.com/news/2025/10/27/russia-ukraine-war-list-of-key-events-day-1341?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/10/27/russia-ukraine-war-list-of-key-events-day-1341?traffic_source=rss",
+    "https://www.deutschlandfunk.de/jury-zeichnet-hauptbahnhof-von-magdeburg-aus-und-lobt-sanierung-100.html",
+    "https://www.deutschlandfunk.de/prien-in-israel-eingetroffen-100.html",
+    "https://www.aljazeera.com/news/2025/10/27/hong-kong-court-gives-trio-lengthy-jail-terms-over-bomb-plots?traffic_source=rss"
   ],
   "content_hashes": [
-    "422a5d8108d82945dc971f030d31f93d",
-    "398b914e9160b2169d57b749730bc6f1",
-    "e3fc43f8cbcd5e79bae7abf9f79a984e",
     "6951ee0fafb947b1be916ed9ef463e13",
     "32bac9e339e5da5151e207dcdf5a4762",
     "0252fb50d12982ecc52be78d150e5d2c",
@@ -2001,12 +1998,12 @@
     "99219fa8f5d41aca8f7c9d795b2e9480",
     "0798f1aea26a83ce56180e136463fd73",
     "8bf9fe1c9761129331f2b3d9f4e28dc6",
-    "fc40ded834052b171ec8d0db3b88a8d0"
+    "fc40ded834052b171ec8d0db3b88a8d0",
+    "51eaa5686e2cb1d3e44a8f78d1be7d78",
+    "71353950431ecdd6ba0a055294fc0883",
+    "8985589444445445598e70065379c09b"
   ],
   "titles": [
-    "Bundestag - Tourismusausschuss-Vorsitzende warnt vor Verlust von Flugverbindungen in Deutschland - Fliegen sei zu teuer",
-    "Russlands Ukrainekrieg - Vor Frankreich festgehaltener Öltanker der Schattenflotte setzt Fahrt fort",
-    "Nacht zu Freitag: Drohnen über ostbelgischem Übungsplatz gesichtet",
     "G20-Parlamentspräsidenten - Nouripour würdigt Parlamente als \"Stimmen der Völker\"",
     "“Pattern” emerging of EU airports disrupted by drones",
     "Tanker \"Eagle S\" - Finnisches Gericht weist Klage wegen Sabotage von Unterseekabeln ab und erklärt sich für nicht zuständig",
@@ -3003,12 +3000,12 @@
     "Berlin - Festakt zum 75-jährigen Bestehen des Verfassungsschutzes",
     "Jerusalem - Prien zu Israel-Reise eingetroffen",
     "Argentinien - Erfolg für Staatschef Milei bei Kongresswahl",
-    "Russia-Ukraine war: List of key events, day 1,341"
+    "Russia-Ukraine war: List of key events, day 1,341",
+    "\"Bahnhof des Jahres\" - Jury zeichnet Hauptbahnhof von Magdeburg aus und lobt Sanierung",
+    "Jerusalem - Prien in Israel eingetroffen",
+    "Hong Kong court gives trio lengthy jail terms over bomb plots"
   ],
   "hashes": [
-    "be384c2ff41af64252d8e8362fbe4067",
-    "98b4b013c7b89b1310ce2cf1b498ee0c",
-    "fb55c4c0eb17b3d31c8b71c39209d789",
     "34423bd4c9bc8873fe130f1bb8a9edde",
     "97f1a9642718c3966822dea116b8d170",
     "08ce9c7449d212e60e7d5fe4445ce0ad",
@@ -4005,6 +4002,9 @@
     "7bba119297869e512e5ba8f71e321c45",
     "034a0117977175e1a184648dcb7f5f9e",
     "a0eaed436d4379447720ee08860a4ad9",
-    "e21708367f85737262bd690c12ddabb1"
+    "e21708367f85737262bd690c12ddabb1",
+    "aea4578bed90e69defba2deb61f6c4ac",
+    "0ce01b45791cae56603e5ba058976cca",
+    "081ef3af64482bdb683e0e0cdc30dbae"
   ]
 }
