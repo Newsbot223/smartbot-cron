@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/boris-rhein-im-interview-nicht-immer-nur-das-schlechte-sehen-accg-110715334.html",
-    "https://www.deutschlandfunk.de/trump-fordert-ende-der-israelischen-angriffe-im-gazastreifen-kanzler-merz-vorsichtig-optimistisch-100.html",
-    "https://www.deutschlandfunk.de/regierungspartei-ldp-waehlt-erstmals-frau-zur-vorsitzenden-sanae-takaichi-koennte-auch-erste-premier-100.html",
     "https://www.deutschlandfunk.de/ukraine-attackiert-oel-raffinerie-nahe-st-petersburg-luftangriffe-auf-dnipro-und-charkiw-100.html",
     "https://www.faz.net/aktuell/politik/inland/schwarz-rote-koalition-wenn-nicht-mit-denen-mit-wem-sonst-accg-110715677.html",
     "https://www.deutschlandfunk.de/gaza-verhandlungen-in-aegypten-geplant-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/auswaertiges-amt-betont-wunsch-nach-dialog-mit-peking-auch-nach-abgesagter-wadephul-reise-100.html",
     "https://www.deutschlandfunk.de/amtsinhaber-paul-biya-zum-wahlsieger-in-kamerun-erklaert-100.html",
     "https://www.spiegel.de/politik/deutschland/china-fordert-gegenseitigen-respekt-zwischen-peking-und-berlin-a-dcef771d-3033-40b3-a97c-98d881aad57a#ref=rss",
-    "https://www.aljazeera.com/news/2025/10/27/sudanese-journalist-muammar-ibrahim-taken-by-rsf-in-el-fasher?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/10/27/sudanese-journalist-muammar-ibrahim-taken-by-rsf-in-el-fasher?traffic_source=rss",
+    "https://www.deutschlandfunk.de/kranich-experte-vogelgrippe-ausbruch-hat-historische-ausmasse-100.html",
+    "https://www.deutschlandfunk.de/zdf-beendet-vorerst-zusammenarbeit-mit-palaestinensischer-produktionsfirma-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/zwischenwahl-in-argentinien-javier-milei-verschafft-sich-luft-110751355.html"
   ],
   "content_hashes": [
-    "2a9a9c4dda340b386a71bafb2a67da41",
-    "c16a40e49a626a968127be409985b3b9",
-    "2aeaae80c2c34c390ee22f90e6f65f56",
     "3de88d20d2c9f7403b3b78ad878d4abb",
     "ea7e6352a356823c390d65c4d8c66c0d",
     "996e2b28f7ac7ab3fe958265b15a490c",
@@ -2001,12 +1998,12 @@
     "58c78bb4af714fd943ebf86173b1237e",
     "8e832c1713cc938a4269db9589010d91",
     "2790265c5f25c850857613fc662e6ccb",
-    "891ed03c0056fec9e8d7647b1afd0172"
+    "891ed03c0056fec9e8d7647b1afd0172",
+    "9ccc825da2a2fab912775b61d5735d61",
+    "aded49c033d09d134f8ae9c40757858e",
+    "b5451ea072d726eadd42c0073618f95b"
   ],
   "titles": [
-    "Boris Rhein im Interview: „Nicht immer nur überall das Schlechte sehen“",
-    "Nach Erklärung der Hamas - Trump fordert Ende der israelischen Angriffe im Gazastreifen - Kanzler Merz vorsichtig optimistisch",
-    "Japan - Regierungspartei LDP wählt erstmals Frau zur Vorsitzenden - Sanae Takaichi könnte auch erste Premierministerin werden",
     "Ukraine-Krieg - Ukraine attackiert Öl-Raffinerie nahe St. Petersburg - Luftangriffe auf Dnipro und Charkiw",
     "Schwarz-rote Koalition: Wenn nicht mit denen, mit wem sonst?",
     "Nach Hamas-Teilzustimmung - Gaza-Verhandlungen in Ägypten geplant",
@@ -3003,12 +3000,12 @@
     "Deutsch-chinesisches Verhältnis - Auswärtiges Amt betont Wunsch nach Dialog mit Peking auch nach abgesagter Wadephul-Reise",
     "Wahlen - Amtsinhaber Paul Biya zum Wahlsieger in Kamerun erklärt",
     "China fordert gegenseitigen Respekt zwischen Peking und Berlin",
-    "Sudanese journalist Muammar Ibrahim detained by RSF in el-Fasher"
+    "Sudanese journalist Muammar Ibrahim detained by RSF in el-Fasher",
+    "Tierseuche - Kranich-Experte: Vogelgrippe-Ausbruch hat historische Ausmaße",
+    "Gazastreifen - ZDF beendet vorerst Zusammenarbeit mit palästinensischer Produktionsfirma",
+    "Sieg bei der Zwischenwahl: Mileis Befreiungsschlag"
   ],
   "hashes": [
-    "e8df848f5be6fa80d735a4ba4ca7efae",
-    "e0770c5560fa8c61b692c181f1dd339d",
-    "7fb1daf33d399cbc4bb74f8f02c9f051",
     "e76fbaa1ac00c3d8542a618c608b10bd",
     "a8d600aaae680c1c589a3de59c57b584",
     "d5425ae376c252da5267ff80ba7bbc08",
@@ -4005,6 +4002,9 @@
     "d217436c704f150a5be5c84aa1ea9635",
     "8f96f9feaefa84ee00e0b885db2ba685",
     "4b27b7afc0f30a53d4b09795b8e64c72",
-    "e2f43043233a50436df994cfb4640ef0"
+    "e2f43043233a50436df994cfb4640ef0",
+    "477209c86855d82080e3b5f406040da1",
+    "45378388ce431c5207b97606cee692de",
+    "ea22f05a5ceed211a8f25e5bf27de796"
   ]
 }
