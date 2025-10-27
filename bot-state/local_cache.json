@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/partei-von-rechtspopulist-babis-gewinnt-parlamentswahl-100.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-abwehreinheit-fuer-drohnen-bei-der-bundespolizei-an-100.html",
     "https://www.deutschlandfunk.de/ein-toter-und-30-verletzte-nach-beschuss-von-bahnhof-in-stadt-schostka-100.html",
     "https://www.deutschlandfunk.de/zehntausende-georgier-demonstrieren-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/israel-bestaetigt-verhandlungen-in-aegypten-ueber-trumps-gaza-friedensplan-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aussenminister-wadephul-setzen-auf-fairen-handel-mit-peking-100.html",
     "https://www.deutschlandfunk.de/500-000-tiere-getoetet-warnung-vor-weiterem-anstieg-der-zahlen-102.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-16-tote-geisel-an-israel-100.html",
-    "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-keine-meldungen-ueber-opfer-100.html"
+    "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-keine-meldungen-ueber-opfer-100.html",
+    "https://www.deutschlandfunk.de/500-000-tiere-getoetet-warnung-vor-weiterem-anstieg-der-zahlen-108.html",
+    "https://www.deutschlandfunk.de/flughafen-alicante-wegen-drohnensichtung-voruebergehend-geschlossen-102.html"
   ],
   "content_hashes": [
-    "e50c456dd01b5d1754f0e56f51e72622",
-    "b7c62eb4fe998170e0b04ec71503166d",
     "e7ec82c58f5732432b935146d8923357",
     "606c61c23937f29ad3118011a89d6e83",
     "6543f3f1d13d4f994ce7dce1f1a113e0",
@@ -2001,11 +1999,11 @@
     "ce3c6a27f6f3743d1c023cebceaafd47",
     "2fd961a8af8a4ad1f4f25aa6990b8f1a",
     "fb3a891164cbba2358df2d50c7a6ab2c",
-    "77ccaf528c3076fb82fda282cd6f5a22"
+    "77ccaf528c3076fb82fda282cd6f5a22",
+    "e599c83370f17979f0c1d93dbff5e8eb",
+    "23d9c85ec53bff28fc1581b105ecd67b"
   ],
   "titles": [
-    "Tschechien - Partei von Rechtspopulist Babis gewinnt Parlamentswahl",
-    "Nach Drohnen-Vorfällen - Bundesinnenminister Dobrindt kündigt Abwehreinheit für Drohnen bei der Bundespolizei an",
     "Ukraine-Krieg - Ein Toter und 30 Verletzte nach Beschuss von Bahnhof in Stadt Schostka",
     "Politische Krise - Zehntausende Georgier demonstrieren gegen die Regierung",
     "Nahost-Krieg - Israel bestätigt Verhandlungen in Ägypten über Trumps Gaza-Friedensplan",
@@ -3003,11 +3001,11 @@
     "Nach Absage der China-Reise - Außenminister Wadephul: Setzen auf fairen Handel mit Peking",
     "Vogelgrippe - 500.000 Tiere getötet - Warnung vor weiterem Anstieg der Zahlen",
     "Gazastreifen - Hamas übergibt 16. tote Geisel an Israel",
-    "Westtürkei - Erdbeben der Stärke 6,1 - keine Meldungen über Opfer"
+    "Westtürkei - Erdbeben der Stärke 6,1 - keine Meldungen über Opfer",
+    "Ausbreitung der Vogelgrippe - 500.000 Tiere getötet - Warnung vor weiterem Anstieg der Zahlen",
+    "Spanien - Flughafen Alicante wegen Drohnensichtung vorübergehend geschlossen"
   ],
   "hashes": [
-    "d9a385d3fa63805087d476178df253f2",
-    "9694b22b4ad0531ca199e3b3e9090248",
     "d82128c1e0109f52cb633bcf5ef496d5",
     "053900a09506bdd94f333e571ea09712",
     "4cc400c8b69a119e4d562eb236a83cd1",
@@ -4005,6 +4003,8 @@
     "8b6cd77a3a3d864f9ee400c51ecc00ba",
     "360fbbbcd6bd57dda526973a18e02b2a",
     "07caf26b9487f12a0ca38d614e18bf1f",
-    "ba4e704dfe840ee6bcaf18a0337adb1f"
+    "ba4e704dfe840ee6bcaf18a0337adb1f",
+    "da0b349971cb899079da55cb6e57f275",
+    "f15570bd44eb27af3095269329a6f30a"
   ]
 }
