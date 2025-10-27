@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/merz-macron-und-die-einheit-fuer-das-deutsche-vaterland-110715926.html",
-    "https://www.deutschlandfunk.de/gaza-plan-trump-stellt-hamas-ultimatum-bis-sonntagabend-102.html",
     "https://www.deutschlandfunk.de/eu-verbietet-ewigkeitschemikalien-in-feuerloeschschaum-100.html",
     "https://www.deutschlandfunk.de/dobrindt-kuendigt-entwurf-fuer-ein-neues-luftsicherheitsgesetz-an-102.html",
     "https://www.deutschlandfunk.de/regierung-zahl-der-toten-durch-taifun-bualoi-auf-mehr-als-50-gestiegen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/praesident-milei-kuendigt-nach-wahlerfolg-intensivierung-seiner-wirtschaftspolitik-an-100.html",
     "https://www.deutschlandfunk.de/haftbefehl-gegen-erdogan-konkurrent-imamoglu-wegen-spionagevorwuerfen-100.html",
     "https://www.deutschlandfunk.de/amerikanischer-kampfjet-und-helikopter-stuerzen-im-suedchinesischen-meer-ab-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/gaza-aufbau-berlin-will-nicht-fuer-maertyrerrenten-zahlen-accg-110750502.html"
+    "https://www.faz.net/aktuell/politik/ausland/gaza-aufbau-berlin-will-nicht-fuer-maertyrerrenten-zahlen-accg-110750502.html",
+    "https://www.deutschlandfunk.de/praesident-selen-sieht-spionage-und-sabotage-als-groesste-bedrohungen-100.html",
+    "https://www.deutschlandfunk.de/ukraine-fliegt-wieder-gegenangriffe-auf-russische-gebiete-102.html"
   ],
   "content_hashes": [
-    "8cad4b2be25ad10162817e1a294441f1",
-    "f67cd7101c4b9a2787f48c5d7c61108c",
     "5bd1966f97878bb0f52efa93e2681de2",
     "9e3f041250dc3f15894f53b1c55fd364",
     "8ac03cd2d90f5869a5da11442b335ede",
@@ -2001,11 +1999,11 @@
     "93310a17051a529b89022cbb6e22927f",
     "7162f0bb4ff08a35dfbd43415f87840f",
     "2352fe465f9db74b15c6011635b09649",
-    "aec070c5b16a60691ba8db5eb8570064"
+    "aec070c5b16a60691ba8db5eb8570064",
+    "1463ebc7fb12cdded0538a092e56c9d8",
+    "4c510235f70663e54ac3793525ad49ef"
   ],
   "titles": [
-    "Merz und die Einheitsfeier: Wo bleibt das deutsche Vaterland?",
-    "Nahost - Gaza-Plan: Trump stellt Hamas Ultimatum bis Sonntagabend",
     "Gesundheit und Umwelt - EU verbietet \"Ewigkeitschemikalien\" in Feuerlöschschaum",
     "Drohnenabwehr durch Bundeswehr - Dobrindt kündigt Entwurf für ein neues Luftsicherheitsgesetz an",
     "Vietnam - Regierung: Zahl der Toten durch Taifun \"Bualoi\" auf mehr als 50 gestiegen",
@@ -3003,11 +3001,11 @@
     "Argentinien - Präsident Milei kündigt nach Wahlerfolg Intensivierung seiner Wirtschaftspolitik an",
     "Türkei - Haftbefehl gegen Erdogan-Konkurrent Imamoglu wegen Spionagevorwürfen",
     "US-Armee - Amerikanischer Kampfjet und Helikopter stürzen im Südchinesischen Meer ab",
-    "Unterstützung in Gaza: Deutsche Entwicklungshilfe will nicht für „Märtyrerrenten“ zahlen"
+    "Unterstützung in Gaza: Deutsche Entwicklungshilfe will nicht für „Märtyrerrenten“ zahlen",
+    "Verfassungsschutzamt wird 75 - Präsident Selen sieht Spionage und Sabotage als größte Bedrohungen",
+    "Ukraine-Krieg - Ukraine fliegt wieder Gegenangriffe auf russische Gebiete"
   ],
   "hashes": [
-    "59ef287bc9c2e3ad1940268af3838f90",
-    "cc5ac164247be1cead5649011eb285ad",
     "d0deccb0e8f9fddb91c9dd93226c7c5a",
     "af3ce8eccce66833616f0fc45f1df357",
     "03adfe68ac9197bc98cafe7ebfd91a4b",
@@ -4005,6 +4003,8 @@
     "ec8cdda2d24d9fd21dab89a4f0f7d4c2",
     "2dee4d4f885fbdfaa4733e12fc2c934d",
     "2f8449439427fb9584713a933d95efa9",
-    "5ccd1390c5dee6b494d5c2f1c195eec3"
+    "5ccd1390c5dee6b494d5c2f1c195eec3",
+    "61e370ef60b0429770995ca2831d7239",
+    "05be26a6b7ffa5f69b79dfff1fe2d134"
   ]
 }
