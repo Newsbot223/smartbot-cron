@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-ruft-zu-zurueckhaltung-in-georgien-auf-102.html",
-    "https://www.deutschlandfunk.de/erste-minister-der-neuen-regierung-vorgestellt-102.html",
     "https://www.deutschlandfunk.de/rechtspopulist-babis-strebt-nach-parlamentswahl-minderheitsregierung-seiner-ano-partei-an-106.html",
     "https://www.faz.net/aktuell/politik/zentralrat-der-juden-beklagt-fehlende-konsequenzen-fuer-antisemitismus-110718117.html",
     "https://www.deutschlandfunk.de/merz-russland-steckt-hinter-drohnenvorfaellen-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/schlagersaenger-als-vorsitzender-vorschlag-fuer-stiftungsvorsitz-sorgt-fuer-kritik-accg-110751948.html",
     "https://www.deutschlandfunk.de/stadbild-debatte-und-kein-ende-interview-mit-albrecht-von-lucke-politikwiss-100.html",
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/stadtbild-debatte-muss-der-kanzler-sich-entschuldigen-110753085.html",
-    "https://www.faz.net/aktuell/politik/inland/streit-in-der-koalition-stadtbild-buergergeld-und-spd-bild-110753552.html"
+    "https://www.faz.net/aktuell/politik/inland/streit-in-der-koalition-stadtbild-buergergeld-und-spd-bild-110753552.html",
+    "https://www.deutschlandfunk.de/bundeswehr-stoppt-umwandlung-von-liegenschaften-in-zivile-nutzung-kritik-von-kommunen-100.html",
+    "https://www.deutschlandfunk.de/deutsche-rosneft-tochter-nicht-von-us-sanktionen-gegen-russland-betroffen-100.html"
   ],
   "content_hashes": [
-    "8b49e126a55b8cff8a2190541bd6b92a",
-    "59880e02be7069101a2e0085164f0086",
     "82372af355297a1fc3ce1284103ea23b",
     "9b4159d7c077a82a10a98d719eaaeb2c",
     "5f976791f35d021dd3ea15166aa963b0",
@@ -2001,11 +1999,11 @@
     "c2f9312638896b2476adaf0513b3ea68",
     "714c05e076433265e324891d44083109",
     "1c050a9601335f9a4e7ed201f2facc12",
-    "1c1b66621cfee5b9d8fe3f559d80def8"
+    "1c1b66621cfee5b9d8fe3f559d80def8",
+    "ffa3bccdcc5422dddb76f1fb62f37507",
+    "4dd5f5545499892b4782ed42a15a9f1f"
   ],
   "titles": [
-    "Meinungsfreiheit - EU ruft zu Zurückhaltung in Georgien auf",
-    "Frankreich - Erste Minister der neuen Regierung vorgestellt",
     "Tschechien - Rechtspopulist Babis strebt nach Parlamentswahl Minderheitsregierung seiner ANO-Partei an",
     "Zentralrat der Juden: „Viel zu viele antisemitische Täter kommen ungestraft davon“",
     "Sicherheit - Merz: Russland steckt hinter Drohnenvorfällen",
@@ -3003,11 +3001,11 @@
     "Kritik an Personalie: Ein Schlagersänger als Stiftungsvorsitzender?",
     "Politologe von Lucke - Merz‘ Stadtbild-Aussagen könnten politische Landschaft verändern",
     "F.A.Z. Podcast für Deutschland: Stadtbild-Debatte: Muss der Kanzler sich entschuldigen?",
-    "Streit in der Koalition: Das SPD-Bild"
+    "Streit in der Koalition: Das SPD-Bild",
+    "Verteidigung - Bundeswehr stoppt Umwandlung von Liegenschaften in zivile Nutzung - Kritik von Kommunen",
+    "Strafmaßnahmen - Deutsche Rosneft-Tochter nicht von US-Sanktionen gegen Russland betroffen"
   ],
   "hashes": [
-    "9eaeeb5ee12ee9d4006e9de5c6082933",
-    "a8da75bf3d1eec0c78e427d4d1aec595",
     "6f5694b6f7223a642a5bae4d85fe53c6",
     "90450928c621ad66d3ca8d0b79243276",
     "bedd9e7766652789f7f1e7c676ab9321",
@@ -4005,6 +4003,8 @@
     "48751b5e995879b706677d33c5d4afaa",
     "7f45ca7db6f050ef576c551c91f6b7da",
     "9648808acda43f0b4f8f27977eb0d7d5",
-    "20bdf6adc07195ddb08f03cf9e4fec2c"
+    "20bdf6adc07195ddb08f03cf9e4fec2c",
+    "536f9461f205560c978fcf202850336f",
+    "894a33af2b4f76f11a00784aa0849410"
   ]
 }
