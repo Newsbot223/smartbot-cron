@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ein-toter-und-30-verletzte-nach-beschuss-von-bahnhof-in-stadt-schostka-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-georgier-demonstrieren-gegen-die-regierung-100.html",
     "https://www.deutschlandfunk.de/israel-bestaetigt-verhandlungen-in-aegypten-ueber-trumps-gaza-friedensplan-100.html",
     "https://www.deutschlandfunk.de/hunderte-festnahmen-bei-protest-gegen-verbot-einer-propalaestinensischen-organisation-100.html",
     "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-behinderungen-sturmflutwarnung-fuer-die-nordseekueste-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hamas-uebergibt-16-tote-geisel-an-israel-100.html",
     "https://www.deutschlandfunk.de/erdbeben-der-staerke-6-1-keine-meldungen-ueber-opfer-100.html",
     "https://www.deutschlandfunk.de/500-000-tiere-getoetet-warnung-vor-weiterem-anstieg-der-zahlen-108.html",
-    "https://www.deutschlandfunk.de/flughafen-alicante-wegen-drohnensichtung-voruebergehend-geschlossen-102.html"
+    "https://www.deutschlandfunk.de/flughafen-alicante-wegen-drohnensichtung-voruebergehend-geschlossen-102.html",
+    "https://www.deutschlandfunk.de/bericht-amazon-streicht-bis-zu-30-000-stellen-100.html",
+    "https://www.deutschlandfunk.de/hurrikan-melissa-mit-windgeschwindigkeiten-bis-zu-260-kilometern-pro-stunde-100.html"
   ],
   "content_hashes": [
-    "e7ec82c58f5732432b935146d8923357",
-    "606c61c23937f29ad3118011a89d6e83",
     "6543f3f1d13d4f994ce7dce1f1a113e0",
     "f2a47e6477752fc9e799d0f085d5040e",
     "d5ecdf920b911d977e2463eacb82f32a",
@@ -2001,11 +1999,11 @@
     "fb3a891164cbba2358df2d50c7a6ab2c",
     "77ccaf528c3076fb82fda282cd6f5a22",
     "e599c83370f17979f0c1d93dbff5e8eb",
-    "23d9c85ec53bff28fc1581b105ecd67b"
+    "23d9c85ec53bff28fc1581b105ecd67b",
+    "ee892deee84f42ad3e7f531fc57658e1",
+    "3e6195f0a225ab5b22c27fef6eb20f3e"
   ],
   "titles": [
-    "Ukraine-Krieg - Ein Toter und 30 Verletzte nach Beschuss von Bahnhof in Stadt Schostka",
-    "Politische Krise - Zehntausende Georgier demonstrieren gegen die Regierung",
     "Nahost-Krieg - Israel bestätigt Verhandlungen in Ägypten über Trumps Gaza-Friedensplan",
     "Großbritannien - Hunderte Festnahmen bei Protest gegen Verbot einer propalästinensischen Organisation",
     "Europa - Sturmtief sorgt für Behinderungen - Sturmflutwarnung für die Nordseeküste",
@@ -3003,11 +3001,11 @@
     "Gazastreifen - Hamas übergibt 16. tote Geisel an Israel",
     "Westtürkei - Erdbeben der Stärke 6,1 - keine Meldungen über Opfer",
     "Ausbreitung der Vogelgrippe - 500.000 Tiere getötet - Warnung vor weiterem Anstieg der Zahlen",
-    "Spanien - Flughafen Alicante wegen Drohnensichtung vorübergehend geschlossen"
+    "Spanien - Flughafen Alicante wegen Drohnensichtung vorübergehend geschlossen",
+    "Onlinehandel - Bericht: Amazon streicht bis zu 30.000 Stellen",
+    "Jamaika - Hurrikan Melissa mit Windgeschwindigkeiten bis zu 260 Kilometern pro Stunde"
   ],
   "hashes": [
-    "d82128c1e0109f52cb633bcf5ef496d5",
-    "053900a09506bdd94f333e571ea09712",
     "4cc400c8b69a119e4d562eb236a83cd1",
     "e1efae9de64df611ec6c7e146bb8d93c",
     "67c5942bf6bf44182ba552bb17ef945d",
@@ -4005,6 +4003,8 @@
     "07caf26b9487f12a0ca38d614e18bf1f",
     "ba4e704dfe840ee6bcaf18a0337adb1f",
     "da0b349971cb899079da55cb6e57f275",
-    "f15570bd44eb27af3095269329a6f30a"
+    "f15570bd44eb27af3095269329a6f30a",
+    "0978cd0881cf60ea5545536395acb134",
+    "15a64276c56d47bbac3c505e1ce23027"
   ]
 }
