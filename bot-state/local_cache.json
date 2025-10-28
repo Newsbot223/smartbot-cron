@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dobrindt-sieht-rechtliche-huerden-bei-abschiebezentren-in-drittstaaten-100.html",
-    "https://www.deutschlandfunk.de/sturmflutwarnung-fuer-die-nordseekueste-behinderungen-in-mehreren-europaeischen-staaten-100.html",
     "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-in-syrien-beginnt-100.html",
     "https://www.deutschlandfunk.de/litauen-sperrt-flughafen-vilnius-102.html",
     "https://www.faz.net/aktuell/politik/inland/zustimmung-zur-regierungskoalition-faellt-auf-rekordtief-accg-110717016.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hurrikan-melissa-mit-windgeschwindigkeiten-bis-zu-260-kilometern-pro-stunde-100.html",
     "https://www.deutschlandfunk.de/union-kritisiert-zdf-vertrauen-in-den-oeffentlich-rechtlichen-rundfunk-erschuettert-100.html",
     "https://www.deutschlandfunk.de/gegengewicht-zu-china-japan-und-usa-staerken-allianz-100.html",
-    "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-einer-israelischen-geisel-ans-rote-kreuz-108.html"
+    "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-einer-israelischen-geisel-ans-rote-kreuz-108.html",
+    "https://www.spiegel.de/politik/deutschland/deutschland-mehrheit-der-frauen-fuehlt-sich-an-oeffentlichen-orten-nicht-sicher-a-b8cc3c01-809b-4405-a38f-c526d7818ecb#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/stadtbild-gipfel-die-verantwortung-beginnt-im-ort-110751879.html"
   ],
   "content_hashes": [
-    "fc5d879039069c06fb7a575d9b7c13a0",
-    "48835c0cc2fa5d36e5f1e2e4761aba8c",
     "6ecf69715ffdcfa16361e150bc331918",
     "b25387ee900764a26b8b5600c0e415f7",
     "64b7bac119f7e0815b3f6bdeba074980",
@@ -2001,11 +1999,11 @@
     "3e6195f0a225ab5b22c27fef6eb20f3e",
     "7e6924e04409227df21cb4b381bed820",
     "97334b83d3c5c140352e24e4e690cc23",
-    "c7bd7d33de7de459e766d8f96cedda5c"
+    "c7bd7d33de7de459e766d8f96cedda5c",
+    "9ec6767baba57b415c9af3f6e67ab5f1",
+    "2ba622b7413abedf91a5d0d928219c52"
   ],
   "titles": [
-    "Asylpolitik - Dobrindt sieht rechtliche Hürden bei Abschiebezentren in Drittstaaten",
-    "Europa - Sturmflutwarnung für die Nordseeküste - Behinderungen in mehreren europäischen Staaten",
     "Nach Assad-Sturz - Umstrittene Parlamentswahl in Syrien beginnt",
     "Flugverkehr - Litauen sperrt Flughafen Vilnius",
     "Umfrage: Zustimmung zur Regierungskoalition fällt auf Rekordtief",
@@ -3003,11 +3001,11 @@
     "Jamaika - Hurrikan Melissa mit Windgeschwindigkeiten bis zu 260 Kilometern pro Stunde",
     "Tod von Hamas-Techniker im Gazastreifen - Union kritisiert ZDF: \"Vertrauen in den öffentlich-rechtlichen Rundfunk erschüttert\"",
     "Trump in Tokio - Gegengewicht zu China: Japan und USA stärken Allianz",
-    "Gazastreifen - Hamas übergibt weitere Leiche einer israelischen Geisel ans Rote Kreuz"
+    "Gazastreifen - Hamas übergibt weitere Leiche einer israelischen Geisel ans Rote Kreuz",
+    "Deutschland: Mehrheit der Frauen fühlt sich an öffentlichen Orten nicht sicher",
+    "„Stadtbild“-Debatte: Die Verantwortung beginnt im Ort"
   ],
   "hashes": [
-    "c17ce2991b411631b8e3951fb65987d7",
-    "9357f74f710cba540d9e2388d396ce86",
     "5720606b6eef53f336e47e9958d75c9e",
     "89cdf4c24cad0198c63799f5832cd369",
     "d70d1e89e9f6843333ec2926c42da1de",
@@ -4005,6 +4003,8 @@
     "15a64276c56d47bbac3c505e1ce23027",
     "45eafb54e615c726fc3e1e16f38a6d94",
     "752eccf358591f950942ec4f248540ae",
-    "027a6ad901b39a5b0a55486899c5e95e"
+    "027a6ad901b39a5b0a55486899c5e95e",
+    "6718581a565c150c07ac86c4c4dd5488",
+    "942fec5bd092bee2ad1c090333e4964f"
   ]
 }
