@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-mit-drohnen-raketen-und-marschflugkoerpern-102.html",
-    "https://www.deutschlandfunk.de/saenger-fadel-shaker-stellt-sich-nach-jahren-den-behoerden-102.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-es-keine-brandmauer-in-den-kommunen-gibt-110714854.html",
-    "https://www.faz.net/aktuell/politik/inland/kommentar-antisemitismus-ist-in-deutschland-allgegenwaertig-110714720.html",
     "https://www.deutschlandfunk.de/grund-fuer-sperrung-des-flughafen-vilnius-waren-schmugglerballons-100.html",
     "https://www.faz.net/aktuell/politik/inland/flughafen-muenchen-was-deutschland-fuer-die-drohnenabwehr-braucht-110717634.html",
     "https://www.faz.net/aktuell/politik/inland/viele-juden-erleben-antisemitismus-nach-dem-7-oktober-in-deutschland-accg-110717421.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/klimaaktivisten-scheitern-mit-klage-gegen-oelfoerderung-in-der-arktis-100.html",
     "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html",
     "https://www.deutschlandfunk.de/spd-mitgliederbegehren-stoesst-in-union-auf-unverstaendnis-100.html",
-    "https://www.deutschlandfunk.de/amazon-streicht-rund-14-000-buerojobs-104.html"
+    "https://www.deutschlandfunk.de/amazon-streicht-rund-14-000-buerojobs-104.html",
+    "https://www.deutschlandfunk.de/bundesrechnungshof-fordert-bundesregierung-bei-wasserstoff-zum-umsteuern-auf-100.html",
+    "https://www.deutschlandfunk.de/hoechststand-bei-angriffen-auf-csd-umzuege-100.html",
+    "https://www.deutschlandfunk.de/unhcr-befuerchtet-gewalt-gegen-zivilbevoelkerung-in-al-faschir-102.html",
+    "https://www.faz.net/aktuell/politik/inland/schlagersaenger-als-vorsitzender-vorschlag-fuer-stiftungsvorsitz-sorgt-fuer-kritik-accg-110751948.html"
   ],
   "content_hashes": [
-    "84d59141693af2c98a3b806e46f0ac05",
-    "0caa6d1cb4c6924ed5b84a687b28dad5",
-    "7b2d82c3d5df090f2bcab90ba91e30f6",
-    "8387325b9f94a5fd53e1bf2076e4189b",
     "22925b7b983be4ec2b38a601aa3fb44d",
     "445331b940de9d4ad454088632ceac31",
     "5f0ded7c56a37ff126cd91f51ac72d67",
@@ -2001,13 +1997,13 @@
     "7b9d462130d424bd18271cb59b714ef6",
     "9872adcc9387cca37010b759450cac66",
     "af717362526506ac311032977827c2d4",
-    "617b4fcf22bc844f35d10920e40737a6"
+    "617b4fcf22bc844f35d10920e40737a6",
+    "6257dd647e66ea030a316e2fafca9a13",
+    "15605143ee4f820a051ebce512c4ab2c",
+    "23d21663e21503b6c2e958c946a14ddb",
+    "c2f9312638896b2476adaf0513b3ea68"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Tote und Verletzte nach russischen Angriffen mit Drohnen, Raketen und Marschflugkörpern",
-    "Libanon - Sänger Fadel Shaker stellt sich nach Jahren den Behörden",
-    "Umgang mit der AfD: Es gibt keine Brandmauer in den Kommunen",
-    "Juden in Deutschland: Antisemitismus ist allgegenwärtig",
     "Litauen - Grund für Sperrung des Flughafen Vilnius waren Schmugglerballons",
     "Flughafen München: Was Deutschland für die Drohnenabwehr braucht",
     "Nach dem 7. Oktober: „Sag niemandem, dass du jüdisch bist“",
@@ -3003,13 +2999,13 @@
     "Straßburg - Klimaaktivisten scheitern mit Klage gegen Ölförderung in der Arktis",
     "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen",
     "Bürgergeld - SPD-Mitgliederbegehren stößt in Union auf Unverständnis",
-    "Wirtschaft - Amazon streicht rund 14.000 Bürojobs"
+    "Wirtschaft - Amazon streicht rund 14.000 Bürojobs",
+    "Sonderbericht - Bundesrechnungshof fordert Bundesregierung bei Wasserstoff zum Umsteuern auf",
+    "Bericht - Höchststand bei Angriffen auf CSD-Umzüge",
+    "Sudan - UNHCR befürchtet Gewalt gegen Zivilbevölkerung in Al-Faschir",
+    "Kritik an Personalie: Ein Schlagersänger als Stiftungsvorsitzender?"
   ],
   "hashes": [
-    "40c11b7eb5bdbc563d448d8c6c64999c",
-    "f860c763a5459837ab74358e687363e5",
-    "2c9c6a14b9d25736a039671e63a4f0f0",
-    "318a69b8cc4454b3e2443f75b5cd7955",
     "5bb6ba2e53d3d5f4fdf8908474131ef7",
     "ce15a03c944dd8d6d09bc28213bb3e90",
     "fc3d496bab267f480dff4be6dc6904f1",
@@ -4005,6 +4001,10 @@
     "f0c118d18ab444733a48059d4464ee48",
     "100b72a766593b871752dff47dbd85f4",
     "78bd534866bb2ff593694792a96e2361",
-    "6cb787c840b625bc49d040c5791c1f2a"
+    "6cb787c840b625bc49d040c5791c1f2a",
+    "4eb34b38546704fddf27a7416cc795b5",
+    "fbf4d39d7c5a7b96260b2231ba5e95f3",
+    "360a251ae05d8d6f63ac54f6f38108ac",
+    "48751b5e995879b706677d33c5d4afaa"
   ]
 }
