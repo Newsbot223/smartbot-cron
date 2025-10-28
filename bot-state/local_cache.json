@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-verteidigungsministerium-entsendet-natinalgarde-nach-oregon-100.html",
-    "https://www.deutschlandfunk.de/eu-parlament-diskutiert-misstrauensantraege-gegen-kommission-100.html",
     "https://www.deutschlandfunk.de/klingbeil-kfz-steuerbefreiung-fuer-elektroautos-wird-verlaengert-100.html",
     "https://www.deutschlandfunk.de/gruene-unterstuetzen-spd-vorhaben-zur-foerderung-von-stahl-aus-europa-100.html",
     "https://www.deutschlandfunk.de/bundesrichterin-untersagt-abermals-entsendung-von-nationalgarde-nach-portland-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/israels-regierungschef-netanjahu-ordnet-neue-angriffe-im-gazastreifen-an-100.html",
     "https://www.deutschlandfunk.de/neuzulassungen-in-der-eu-erneut-gestiegen-vor-allem-dank-e-autos-100.html",
     "https://www.deutschlandfunk.de/maenner-als-opfer-von-haeuslicher-gewalt-faelle-in-schutzeinrichtungen-erneut-gestiegen-100.html",
-    "https://www.deutschlandfunk.de/studie-windkraft-bescherte-verbrauchern-niedrigere-energiekosten-von-mehr-als-100-milliarden-pfund-100.html"
+    "https://www.deutschlandfunk.de/studie-windkraft-bescherte-verbrauchern-niedrigere-energiekosten-von-mehr-als-100-milliarden-pfund-100.html",
+    "https://www.deutschlandfunk.de/mindestens-60-tote-bei-anti-drogen-einsatz-der-polizei-102.html",
+    "https://www.deutschlandfunk.de/zdf-getoetetes-hamas-mitglied-war-nicht-in-journalistische-fragen-eingebunden-union-fordert-aufklaer-102.html"
   ],
   "content_hashes": [
-    "435af4ff1e999d14e898f99dbf9dd200",
-    "5e1b3571ffd2b3f2935e3137453f1086",
     "9749416aceb847dc186854147d333de4",
     "36e48a75f947090b31f049e1390b8c90",
     "de8f8f877bf5d08c6068a5d45d6526f2",
@@ -2001,11 +1999,11 @@
     "99f8980f04f254dd61a46b0b66ec6853",
     "ea86f68a9adaa8d71f07d3bb5f2eeed0",
     "cc613cc6357c9d6759701661d06472dd",
-    "fafa80cc0fb3be61a2e9c072373fece2"
+    "fafa80cc0fb3be61a2e9c072373fece2",
+    "305700c992ca9222718b4b197fdb4f44",
+    "27ab740cd846e0c822925f0af5a1fba3"
   ],
   "titles": [
-    "Trotz Gerichtsentscheidung - US-Verteidigungsministerium entsendet Natinalgarde nach Oregon",
-    "Straßburg - EU-Parlament diskutiert Misstrauensanträge gegen Kommission",
     "Autoindustrie - Klingbeil: Kfz-Steuerbefreiung für Elektroautos wird verlängert",
     "Buy European - Grüne unterstützen SPD-Vorhaben zur Förderung von Stahl aus Europa",
     "Oregon - Bundesrichterin untersagt abermals Entsendung von Nationalgarde nach Portland",
@@ -3003,11 +3001,11 @@
     "Naher Osten - Israels Regierungschef Netanjahu ordnet neue Angriffe im Gazastreifen an",
     "Fahrzeugmarkt - Neuzulassungen in der EU erneut gestiegen - vor allem dank E-Autos",
     "Bundesfachstelle - Männer als Opfer von häuslicher Gewalt - Fälle in Schutzeinrichtungen erneut gestiegen",
-    "Großbritannien - Studie: Windkraft bescherte Verbrauchern niedrigere Energiekosten von mehr als 100 Milliarden Pfund"
+    "Großbritannien - Studie: Windkraft bescherte Verbrauchern niedrigere Energiekosten von mehr als 100 Milliarden Pfund",
+    "Rio de Janeiro - Mindestens 60 Tote bei Anti-Drogen-Einsatz der Polizei",
+    "Medien - ZDF: Getötetes Hamas-Mitglied war nicht in journalistische Fragen eingebunden - Union fordert Aufklärung"
   ],
   "hashes": [
-    "0b992cedccdc82620150df86b363aba6",
-    "79f12927d18daacf8fa42c1619b37776",
     "f1b0c4178c8676641caabe45735b8d9c",
     "fd4dc1139d02b6adf2b8ed5a9b24ed94",
     "39ff0c7a48a238b40f23520aab147bb6",
@@ -4005,6 +4003,8 @@
     "a1d0ac491ebe34093a85252cc9a688d9",
     "6e9756be5c99eeaa9a6ac99b4ae6200a",
     "6c66810e885987d3bdb9471999150928",
-    "a498206a3676046acebc5f8f93891f3a"
+    "a498206a3676046acebc5f8f93891f3a",
+    "35f209e489b5b1eb4d735834ab5f9c21",
+    "e9cbcb45d084c193cb6d34caca73dcdf"
   ]
 }
