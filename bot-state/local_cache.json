@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/flughafen-muenchen-was-deutschland-fuer-die-drohnenabwehr-braucht-110717634.html",
-    "https://www.faz.net/aktuell/politik/inland/viele-juden-erleben-antisemitismus-nach-dem-7-oktober-in-deutschland-accg-110717421.html",
     "https://www.deutschlandfunk.de/eu-ruft-zu-zurueckhaltung-in-georgien-auf-102.html",
     "https://www.deutschlandfunk.de/erste-minister-der-neuen-regierung-vorgestellt-102.html",
     "https://www.deutschlandfunk.de/rechtspopulist-babis-strebt-nach-parlamentswahl-minderheitsregierung-seiner-ano-partei-an-106.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hoechststand-bei-angriffen-auf-csd-umzuege-100.html",
     "https://www.deutschlandfunk.de/unhcr-befuerchtet-gewalt-gegen-zivilbevoelkerung-in-al-faschir-102.html",
     "https://www.faz.net/aktuell/politik/inland/schlagersaenger-als-vorsitzender-vorschlag-fuer-stiftungsvorsitz-sorgt-fuer-kritik-accg-110751948.html",
-    "https://www.deutschlandfunk.de/stadbild-debatte-und-kein-ende-interview-mit-albrecht-von-lucke-politikwiss-100.html"
+    "https://www.deutschlandfunk.de/stadbild-debatte-und-kein-ende-interview-mit-albrecht-von-lucke-politikwiss-100.html",
+    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/stadtbild-debatte-muss-der-kanzler-sich-entschuldigen-110753085.html",
+    "https://www.faz.net/aktuell/politik/inland/streit-in-der-koalition-stadtbild-buergergeld-und-spd-bild-110753552.html"
   ],
   "content_hashes": [
-    "445331b940de9d4ad454088632ceac31",
-    "5f0ded7c56a37ff126cd91f51ac72d67",
     "8b49e126a55b8cff8a2190541bd6b92a",
     "59880e02be7069101a2e0085164f0086",
     "82372af355297a1fc3ce1284103ea23b",
@@ -2001,11 +1999,11 @@
     "15605143ee4f820a051ebce512c4ab2c",
     "23d21663e21503b6c2e958c946a14ddb",
     "c2f9312638896b2476adaf0513b3ea68",
-    "714c05e076433265e324891d44083109"
+    "714c05e076433265e324891d44083109",
+    "1c050a9601335f9a4e7ed201f2facc12",
+    "1c1b66621cfee5b9d8fe3f559d80def8"
   ],
   "titles": [
-    "Flughafen München: Was Deutschland für die Drohnenabwehr braucht",
-    "Nach dem 7. Oktober: „Sag niemandem, dass du jüdisch bist“",
     "Meinungsfreiheit - EU ruft zu Zurückhaltung in Georgien auf",
     "Frankreich - Erste Minister der neuen Regierung vorgestellt",
     "Tschechien - Rechtspopulist Babis strebt nach Parlamentswahl Minderheitsregierung seiner ANO-Partei an",
@@ -3003,11 +3001,11 @@
     "Bericht - Höchststand bei Angriffen auf CSD-Umzüge",
     "Sudan - UNHCR befürchtet Gewalt gegen Zivilbevölkerung in Al-Faschir",
     "Kritik an Personalie: Ein Schlagersänger als Stiftungsvorsitzender?",
-    "Politologe von Lucke - Merz‘ Stadtbild-Aussagen könnten politische Landschaft verändern"
+    "Politologe von Lucke - Merz‘ Stadtbild-Aussagen könnten politische Landschaft verändern",
+    "F.A.Z. Podcast für Deutschland: Stadtbild-Debatte: Muss der Kanzler sich entschuldigen?",
+    "Streit in der Koalition: Das SPD-Bild"
   ],
   "hashes": [
-    "ce15a03c944dd8d6d09bc28213bb3e90",
-    "fc3d496bab267f480dff4be6dc6904f1",
     "9eaeeb5ee12ee9d4006e9de5c6082933",
     "a8da75bf3d1eec0c78e427d4d1aec595",
     "6f5694b6f7223a642a5bae4d85fe53c6",
@@ -4005,6 +4003,8 @@
     "fbf4d39d7c5a7b96260b2231ba5e95f3",
     "360a251ae05d8d6f63ac54f6f38108ac",
     "48751b5e995879b706677d33c5d4afaa",
-    "7f45ca7db6f050ef576c551c91f6b7da"
+    "7f45ca7db6f050ef576c551c91f6b7da",
+    "9648808acda43f0b4f8f27977eb0d7d5",
+    "20bdf6adc07195ddb08f03cf9e4fec2c"
   ]
 }
