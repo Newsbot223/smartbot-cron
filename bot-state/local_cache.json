@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rechtspopulist-babis-strebt-nach-parlamentswahl-minderheitsregierung-seiner-ano-partei-an-106.html",
-    "https://www.faz.net/aktuell/politik/zentralrat-der-juden-beklagt-fehlende-konsequenzen-fuer-antisemitismus-110718117.html",
     "https://www.deutschlandfunk.de/merz-russland-steckt-hinter-drohnenvorfaellen-102.html",
     "https://www.spiegel.de/politik/deutschland-friedrich-merz-und-markus-soeder-vermuten-russland-hinter-den-meisten-gesichteten-drohnen-a-b610eb7b-f6c5-4dd0-a43b-88880d7c2a7e#ref=rss",
     "https://www.spiegel.de/politik/eurovision-song-contest-friedrich-merz-fuer-esc-verzicht-von-deutschland-wenn-israel-ausgeschlossen-wird-a-cccf43f7-d8c4-456f-aaae-32236c088b75#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/stadtbild-debatte-muss-der-kanzler-sich-entschuldigen-110753085.html",
     "https://www.faz.net/aktuell/politik/inland/streit-in-der-koalition-stadtbild-buergergeld-und-spd-bild-110753552.html",
     "https://www.deutschlandfunk.de/bundeswehr-stoppt-umwandlung-von-liegenschaften-in-zivile-nutzung-kritik-von-kommunen-100.html",
-    "https://www.deutschlandfunk.de/deutsche-rosneft-tochter-nicht-von-us-sanktionen-gegen-russland-betroffen-100.html"
+    "https://www.deutschlandfunk.de/deutsche-rosneft-tochter-nicht-von-us-sanktionen-gegen-russland-betroffen-100.html",
+    "https://www.deutschlandfunk.de/elf-tote-bei-absturz-eines-kleinflugzeug-mit-touristen-in-kenia-zwei-deutsche-unter-den-opfern-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/zwei-drittel-der-staaten-ohne-neuen-klimaplan-110753602.html"
   ],
   "content_hashes": [
-    "82372af355297a1fc3ce1284103ea23b",
-    "9b4159d7c077a82a10a98d719eaaeb2c",
     "5f976791f35d021dd3ea15166aa963b0",
     "fe1d5b655bbc107167f46471837c751e",
     "657b9b06c6802c8400e14490f1e962eb",
@@ -2001,11 +1999,11 @@
     "1c050a9601335f9a4e7ed201f2facc12",
     "1c1b66621cfee5b9d8fe3f559d80def8",
     "ffa3bccdcc5422dddb76f1fb62f37507",
-    "4dd5f5545499892b4782ed42a15a9f1f"
+    "4dd5f5545499892b4782ed42a15a9f1f",
+    "94cc5733a6477f47e6d4bed41d227619",
+    "f319326742319525ce7ec83f13cef484"
   ],
   "titles": [
-    "Tschechien - Rechtspopulist Babis strebt nach Parlamentswahl Minderheitsregierung seiner ANO-Partei an",
-    "Zentralrat der Juden: „Viel zu viele antisemitische Täter kommen ungestraft davon“",
     "Sicherheit - Merz: Russland steckt hinter Drohnenvorfällen",
     "Deutschland: Friedrich Merz und Markus Söder vermuten Russland hinter den meisten gesichteten Drohnen",
     "Eurovision Song Contest: Friedrich Merz für ESC-Verzicht von Deutschland, wenn Israel ausgeschlossen wird",
@@ -3003,11 +3001,11 @@
     "F.A.Z. Podcast für Deutschland: Stadtbild-Debatte: Muss der Kanzler sich entschuldigen?",
     "Streit in der Koalition: Das SPD-Bild",
     "Verteidigung - Bundeswehr stoppt Umwandlung von Liegenschaften in zivile Nutzung - Kritik von Kommunen",
-    "Strafmaßnahmen - Deutsche Rosneft-Tochter nicht von US-Sanktionen gegen Russland betroffen"
+    "Strafmaßnahmen - Deutsche Rosneft-Tochter nicht von US-Sanktionen gegen Russland betroffen",
+    "Kenia - Elf Tote bei Absturz eines Kleinflugzeug mit Touristen in Kenia - zwei Deutsche unter den Opfern",
+    "Klimakonferenz: Zwei Drittel der Staaten reisen ohne neuen Klimaplan nach Brasilien"
   ],
   "hashes": [
-    "6f5694b6f7223a642a5bae4d85fe53c6",
-    "90450928c621ad66d3ca8d0b79243276",
     "bedd9e7766652789f7f1e7c676ab9321",
     "61a8ec6657c18cbdc8e36a4b7be8f237",
     "de40f10f49c91a6acdb06b6cda65400f",
@@ -4005,6 +4003,8 @@
     "9648808acda43f0b4f8f27977eb0d7d5",
     "20bdf6adc07195ddb08f03cf9e4fec2c",
     "536f9461f205560c978fcf202850336f",
-    "894a33af2b4f76f11a00784aa0849410"
+    "894a33af2b4f76f11a00784aa0849410",
+    "f467ffd0f06e5ddce771674564759eed",
+    "703ea5324c6ce45714f454d3849d84ff"
   ]
 }
