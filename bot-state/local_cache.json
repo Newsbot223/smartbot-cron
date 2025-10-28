@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-cyberattacke-laeuft-it-system-am-flughafen-ber-wieder-100.html",
-    "https://www.deutschlandfunk.de/feuer-vor-csu-parteizentrale-staatsschutz-ermittelt-102.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-mit-drohnen-raketen-und-marschflugkoerpern-102.html",
     "https://www.deutschlandfunk.de/saenger-fadel-shaker-stellt-sich-nach-jahren-den-behoerden-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-es-keine-brandmauer-in-den-kommunen-gibt-110714854.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/deutsche-sparen-weniger-liegen-im-vergleich-aber-weit-vorn-a-2f873be1-fbb7-4533-a1ab-36912fa58dbc#ref=rss",
     "https://www.deutschlandfunk.de/hessen-meldet-mutmassliche-faelle-der-vogelgrippe-mehrere-bundeslaender-erwaegen-stallpflicht-100.html",
     "https://www.deutschlandfunk.de/klimaaktivisten-scheitern-mit-klage-gegen-oelfoerderung-in-der-arktis-100.html",
-    "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html"
+    "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html",
+    "https://www.deutschlandfunk.de/spd-mitgliederbegehren-stoesst-in-union-auf-unverstaendnis-100.html",
+    "https://www.deutschlandfunk.de/amazon-streicht-rund-14-000-buerojobs-104.html"
   ],
   "content_hashes": [
-    "755b3032840c8bf3ee5813bbb4387a8d",
-    "e3376a4bc1e60c80e953aa116ec34526",
     "84d59141693af2c98a3b806e46f0ac05",
     "0caa6d1cb4c6924ed5b84a687b28dad5",
     "7b2d82c3d5df090f2bcab90ba91e30f6",
@@ -2001,11 +1999,11 @@
     "c9a53ae062ded72f7dfe7c7e86a92ede",
     "b0abff0f2b66cab683e144a23a7bc8ca",
     "7b9d462130d424bd18271cb59b714ef6",
-    "9872adcc9387cca37010b759450cac66"
+    "9872adcc9387cca37010b759450cac66",
+    "af717362526506ac311032977827c2d4",
+    "617b4fcf22bc844f35d10920e40737a6"
   ],
   "titles": [
-    "Berlin - Nach Cyberattacke läuft IT-System am Flughafen BER wieder",
-    "München - Feuer vor CSU-Parteizentrale - Staatsschutz ermittelt",
     "Krieg gegen die Ukraine - Tote und Verletzte nach russischen Angriffen mit Drohnen, Raketen und Marschflugkörpern",
     "Libanon - Sänger Fadel Shaker stellt sich nach Jahren den Behörden",
     "Umgang mit der AfD: Es gibt keine Brandmauer in den Kommunen",
@@ -3003,11 +3001,11 @@
     "Deutsche sparen weniger, liegen im Vergleich aber weit vorn",
     "Seuche - Hessen meldet mutmaßliche Fälle der Vogelgrippe - mehrere Bundesländer erwägen Stallpflicht",
     "Straßburg - Klimaaktivisten scheitern mit Klage gegen Ölförderung in der Arktis",
-    "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen"
+    "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen",
+    "Bürgergeld - SPD-Mitgliederbegehren stößt in Union auf Unverständnis",
+    "Wirtschaft - Amazon streicht rund 14.000 Bürojobs"
   ],
   "hashes": [
-    "b35783fb24e8593da846f4d530e48494",
-    "60a913300fed77ea7b7b694462963f31",
     "40c11b7eb5bdbc563d448d8c6c64999c",
     "f860c763a5459837ab74358e687363e5",
     "2c9c6a14b9d25736a039671e63a4f0f0",
@@ -4005,6 +4003,8 @@
     "593b211e86ebc79cb517eba5a307de00",
     "710e9796289cfe7fd360bb0dfdf4c23e",
     "f0c118d18ab444733a48059d4464ee48",
-    "100b72a766593b871752dff47dbd85f4"
+    "100b72a766593b871752dff47dbd85f4",
+    "78bd534866bb2ff593694792a96e2361",
+    "6cb787c840b625bc49d040c5791c1f2a"
   ]
 }
