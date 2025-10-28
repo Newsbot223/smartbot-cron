@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umstrittene-parlamentswahl-in-syrien-hat-begonnen-102.html",
-    "https://www.deutschlandfunk.de/israel-geht-weiter-gegen-die-hamas-im-gazastreifen-vor-104.html",
-    "https://www.faz.net/aktuell/politik/inland/stephan-gruenewald-spricht-im-interview-ueber-die-krisenmueden-deutschen-accg-110714237.html",
     "https://www.deutschlandfunk.de/nach-cyberattacke-laeuft-it-system-am-flughafen-ber-wieder-100.html",
     "https://www.deutschlandfunk.de/feuer-vor-csu-parteizentrale-staatsschutz-ermittelt-102.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-mit-drohnen-raketen-und-marschflugkoerpern-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/japans-ministerpraesidentin-wirbt-um-frieden-in-der-region-100.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wirbt-fuer-ausbau-der-beziehungen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/anklage-gegen-i-mamo-lu-ein-schmaler-grat-fuer-merz-110751677.html",
-    "https://www.spiegel.de/wirtschaft/deutsche-sparen-weniger-liegen-im-vergleich-aber-weit-vorn-a-2f873be1-fbb7-4533-a1ab-36912fa58dbc#ref=rss"
+    "https://www.spiegel.de/wirtschaft/deutsche-sparen-weniger-liegen-im-vergleich-aber-weit-vorn-a-2f873be1-fbb7-4533-a1ab-36912fa58dbc#ref=rss",
+    "https://www.deutschlandfunk.de/hessen-meldet-mutmassliche-faelle-der-vogelgrippe-mehrere-bundeslaender-erwaegen-stallpflicht-100.html",
+    "https://www.deutschlandfunk.de/klimaaktivisten-scheitern-mit-klage-gegen-oelfoerderung-in-der-arktis-100.html",
+    "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html"
   ],
   "content_hashes": [
-    "98895e870463230f10b6f78929fb9744",
-    "d3ade7132eb9ac208360719238700fe9",
-    "114318e6efa9307c70ccab3b2581fc6b",
     "755b3032840c8bf3ee5813bbb4387a8d",
     "e3376a4bc1e60c80e953aa116ec34526",
     "84d59141693af2c98a3b806e46f0ac05",
@@ -2001,12 +1998,12 @@
     "9eae8436fc9e2ea4ffb421a11473c543",
     "4808d7a12b5d6aa6ae0bf958b73f321e",
     "126d22a634d8713475042facec96be94",
-    "c9a53ae062ded72f7dfe7c7e86a92ede"
+    "c9a53ae062ded72f7dfe7c7e86a92ede",
+    "b0abff0f2b66cab683e144a23a7bc8ca",
+    "7b9d462130d424bd18271cb59b714ef6",
+    "9872adcc9387cca37010b759450cac66"
   ],
   "titles": [
-    "Nach Assad-Sturz - Umstrittene Parlamentswahl in Syrien hat begonnen",
-    "Naher Osten - Israel geht weiter gegen die Hamas im Gazastreifen vor",
-    "Psychologe Grünewald: „Wir erleben eine große Rückzugsbewegung“",
     "Berlin - Nach Cyberattacke läuft IT-System am Flughafen BER wieder",
     "München - Feuer vor CSU-Parteizentrale - Staatsschutz ermittelt",
     "Krieg gegen die Ukraine - Tote und Verletzte nach russischen Angriffen mit Drohnen, Raketen und Marschflugkörpern",
@@ -3003,12 +3000,12 @@
     "Staatsbesuch von US-Präsident Trump - Japans Ministerpräsidentin wirbt um Frieden in der Region",
     "Zusammenarbeit mit Afrika - Bundespräsident Steinmeier wirbt für Ausbau der Beziehungen",
     "Anklage gegen İmamoğlu: Ein schmaler Grat für Merz in Ankara",
-    "Deutsche sparen weniger, liegen im Vergleich aber weit vorn"
+    "Deutsche sparen weniger, liegen im Vergleich aber weit vorn",
+    "Seuche - Hessen meldet mutmaßliche Fälle der Vogelgrippe - mehrere Bundesländer erwägen Stallpflicht",
+    "Straßburg - Klimaaktivisten scheitern mit Klage gegen Ölförderung in der Arktis",
+    "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen"
   ],
   "hashes": [
-    "e0263e8c5acf72a33fa0b6f6f10378ed",
-    "0a96d3e46afe29ae35a12b825fbb42d2",
-    "6a75057bc996d005c80031f3ff0201d4",
     "b35783fb24e8593da846f4d530e48494",
     "60a913300fed77ea7b7b694462963f31",
     "40c11b7eb5bdbc563d448d8c6c64999c",
@@ -4005,6 +4002,9 @@
     "0baef1d65d42a3d289393aba6003b9e4",
     "e43b81af0c61a4aa637d721a06f92341",
     "f5b380035c6afcf2433e43f2a25c5860",
-    "593b211e86ebc79cb517eba5a307de00"
+    "593b211e86ebc79cb517eba5a307de00",
+    "710e9796289cfe7fd360bb0dfdf4c23e",
+    "f0c118d18ab444733a48059d4464ee48",
+    "100b72a766593b871752dff47dbd85f4"
   ]
 }
