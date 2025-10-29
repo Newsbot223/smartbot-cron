@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oxfam-klimahilfen-sind-geschaeftsmodell-fuer-reiche-laender-100.html",
-    "https://www.deutschlandfunk.de/zurueckgetretener-premierminister-lecornu-wirft-parteien-politische-blockade-vor-100.html",
     "https://www.deutschlandfunk.de/lob-aus-cdu-spd-sieht-keine-umsetzungschance-102.html",
     "https://www.deutschlandfunk.de/eugh-soll-ueber-geschaeftsmodell-von-facebook-entscheiden-102.html",
     "https://www.deutschlandfunk.de/russland-weist-vorwuerfe-zu-drohnen-in-deutschland-zurueck-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/pille-danach-in-england-ab-sofort-kostenlos-erhaeltlich-100.html",
     "https://www.deutschlandfunk.de/ukraine-greift-erneut-ziele-in-russland-aus-der-luft-an-100.html",
     "https://www.deutschlandfunk.de/jamaika-wegen-hurrikan-zum-katastrophengebiet-erklaert-schwere-schaeden-und-ueberschwemmungen-100.html",
-    "https://www.deutschlandfunk.de/deutschen-flughaefen-fehlen-weiter-millionen-an-passagieren-100.html"
+    "https://www.deutschlandfunk.de/deutschen-flughaefen-fehlen-weiter-millionen-an-passagieren-100.html",
+    "https://www.deutschlandfunk.de/urteil-us-regierung-darf-waehrend-shutdown-keine-mitarbeiter-entlassen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/linkspartei-im-hoehenflug-gegen-rechts-als-erfolgsrezept-110753592.html"
   ],
   "content_hashes": [
-    "0405d6fdc4b6cb107d32161226a1575d",
-    "babac90d1f8c372fe13508508513204a",
     "2ca3bb02a083be3ed91428c1d4d4c78e",
     "3e6c5ea43e97f48becdcd2aba0590449",
     "0078c024c44012e42f93984cbb8e8dbb",
@@ -2001,11 +1999,11 @@
     "f5f981699165540ee4ed2d976e7897b4",
     "7505b2ce5f96222cd70d31c08beb4d90",
     "1788220f0c8d3c85a6e05d326d206242",
-    "4abbc7954276c4346d5d34c7c969d730"
+    "4abbc7954276c4346d5d34c7c969d730",
+    "3e82de8448623a39cc4dbd89cdec9312",
+    "135d07b455b0d46535e2d6f705373a57"
   ],
   "titles": [
-    "Bericht - Oxfam: Klimahilfen sind Geschäftsmodell für reiche Länder",
-    "Innenpolitische Krise in Frankreich - Zurückgetretener Premierminister Lecornu wirft Parteien politische Blockade vor",
     "Merz' Vorstoß zu Gesellschaftsjahr - Lob aus CDU - SPD sieht keine Umsetzungschance",
     "Rechtsstreit - EuGH soll über Geschäftsmodell von Facebook entscheiden",
     "Sicherheit - Russland weist Vorwürfe zu Drohnen in Deutschland zurück",
@@ -3003,11 +3001,11 @@
     "Großbritannien - \"Pille danach\" in England ab sofort kostenlos erhältlich",
     "Ukraine-Krieg - Ukraine greift erneut Ziele in Russland aus der Luft an",
     "Karibik - Jamaika wegen Hurrikan zum Katastrophengebiet erklärt - schwere Schäden und Überschwemmungen",
-    "Bundesverband BDF - Deutschen Flughäfen fehlen weiter Millionen an Passagieren"
+    "Bundesverband BDF - Deutschen Flughäfen fehlen weiter Millionen an Passagieren",
+    "USA - Urteil: US-Regierung darf während \"Shutdown\" keine Mitarbeiter entlassen",
+    "Parteiensystem: Gegen Rechts als Erfolgsrezept"
   ],
   "hashes": [
-    "f91c1267eed8f01bcf75f8c79ce82e2d",
-    "f21544936b3c34926cac631f51b194ef",
     "6c3a479adafa6b910e26a4f90efb4edc",
     "2a6da6ee7aafaef913b6212a6201e67f",
     "d2f8c3090fb65fb1e890b994b7302168",
@@ -4005,6 +4003,8 @@
     "e34dfa5bd5e321e4e54d0f7991f649bd",
     "553088f43776d1dba9dce53a15e9ae9a",
     "1562bdf9ba0c18596f96c27a014e0f54",
-    "5f3bbc5ff7d5b4769f7c22579eaff888"
+    "5f3bbc5ff7d5b4769f7c22579eaff888",
+    "d9ea6a15381125d07da13c7bdb891a7f",
+    "f3ca5c7d5c2e304c7bb8553c0a7a79e7"
   ]
 }
