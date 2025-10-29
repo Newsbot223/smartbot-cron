@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eugh-soll-ueber-geschaeftsmodell-von-facebook-entscheiden-102.html",
-    "https://www.deutschlandfunk.de/russland-weist-vorwuerfe-zu-drohnen-in-deutschland-zurueck-100.html",
     "https://www.deutschlandfunk.de/verfassungsschutz-sieht-erhebliche-gefaehrdungslage-fuer-juedinnen-und-juden-in-deutschland-100.html",
     "https://www.aljazeera.com/news/2025/10/6/nobel-prize-for-medicine-awarded-to-immune-system-researchers?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/ausland/die-autofahrerpartei-hilft-babi-zur-rueckkehr-in-prag-accg-110718645.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutschen-flughaefen-fehlen-weiter-millionen-an-passagieren-100.html",
     "https://www.deutschlandfunk.de/urteil-us-regierung-darf-waehrend-shutdown-keine-mitarbeiter-entlassen-100.html",
     "https://www.faz.net/aktuell/politik/inland/linkspartei-im-hoehenflug-gegen-rechts-als-erfolgsrezept-110753592.html",
-    "https://www.deutschlandfunk.de/dortmund-gewinnt-spitzenspiel-in-frankfurt-im-elfmeterschiessen-100.html"
+    "https://www.deutschlandfunk.de/dortmund-gewinnt-spitzenspiel-in-frankfurt-im-elfmeterschiessen-100.html",
+    "https://www.deutschlandfunk.de/trump-will-sich-um-beilegung-des-konflikts-auf-der-koreanischen-halbinsel-bemuehen-102.html",
+    "https://www.spiegel.de/panorama/verkehrstote-in-deutschland-taeglich-stirbt-mindestens-ein-mensch-bei-unfall-an-strassenbaum-a-214dfc84-7910-4af7-8ad2-84060c5594e3#ref=rss"
   ],
   "content_hashes": [
-    "3e6c5ea43e97f48becdcd2aba0590449",
-    "0078c024c44012e42f93984cbb8e8dbb",
     "256514dc95a88627c2b6170d5eed8180",
     "87b99fada985da0e625d0dfb27900718",
     "4c27a80d252595b578a47127a62cc603",
@@ -2001,11 +1999,11 @@
     "4abbc7954276c4346d5d34c7c969d730",
     "3e82de8448623a39cc4dbd89cdec9312",
     "135d07b455b0d46535e2d6f705373a57",
-    "9444a331bf331f8fe0c3897f0e2c14c0"
+    "9444a331bf331f8fe0c3897f0e2c14c0",
+    "b551bf76c4168295c2b11673d61f4ad3",
+    "d0677fe98d0b6f0cf911e89f7ac33951"
   ],
   "titles": [
-    "Rechtsstreit - EuGH soll über Geschäftsmodell von Facebook entscheiden",
-    "Sicherheit - Russland weist Vorwürfe zu Drohnen in Deutschland zurück",
     "Sicherheitsanalyse - Verfassungsschutz sieht \"erhebliche Gefährdungslage\" für Jüdinnen und Juden in Deutschland",
     "Nobel Prize for medicine awarded to immune system researchers",
     "Babiš-Partner in Tschechien: Autofahrer an die Macht",
@@ -3003,11 +3001,11 @@
     "Bundesverband BDF - Deutschen Flughäfen fehlen weiter Millionen an Passagieren",
     "USA - Urteil: US-Regierung darf während \"Shutdown\" keine Mitarbeiter entlassen",
     "Parteiensystem: Gegen Rechts als Erfolgsrezept",
-    "DFB-Pokal - Dortmund gewinnt Spitzenspiel in Frankfurt im Elfmeterschießen"
+    "DFB-Pokal - Dortmund gewinnt Spitzenspiel in Frankfurt im Elfmeterschießen",
+    "Südkorea - Trump will sich um Beilegung des Konflikts auf der koreanischen Halbinsel bemühen",
+    "Verkehrstote in Deutschland: Täglich stirbt mindestens ein Mensch bei Unfall an Straßenbaum"
   ],
   "hashes": [
-    "2a6da6ee7aafaef913b6212a6201e67f",
-    "d2f8c3090fb65fb1e890b994b7302168",
     "abc191b94e723c927582324fc8c3931a",
     "02058f5a71a3a6d83e88c5b6b6b84967",
     "111c14eafcc5d55add959103dfa363dd",
@@ -4005,6 +4003,8 @@
     "5f3bbc5ff7d5b4769f7c22579eaff888",
     "d9ea6a15381125d07da13c7bdb891a7f",
     "f3ca5c7d5c2e304c7bb8553c0a7a79e7",
-    "b5833c023231a9a4dd28206100201b80"
+    "b5833c023231a9a4dd28206100201b80",
+    "7caaf4b0ddd685fe2a9007fe3f546130",
+    "589d1395540a3958b14aa5ebdd4daeb2"
   ]
 }
