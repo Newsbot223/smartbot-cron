@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/10/6/nobel-prize-for-medicine-awarded-to-immune-system-researchers?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/ausland/die-autofahrerpartei-hilft-babi-zur-rueckkehr-in-prag-accg-110718645.html",
-    "https://www.deutschlandfunk.de/mehr-elektroautos-neu-zugelassen-marktanteil-19-3-prozent-100.html",
     "https://www.deutschlandfunk.de/deutsch-franzose-monterlos-im-spionage-prozess-freigesprochen-100.html",
     "https://www.faz.net/aktuell/politik/inland/bsw-laedt-russischen-botschafter-nach-potsdam-ein-accg-110718787.html",
     "https://www.deutschlandfunk.de/chance-auf-bewegung-in-nahost-interv-mit-politologe-jan-busse-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dortmund-gewinnt-spitzenspiel-in-frankfurt-im-elfmeterschiessen-100.html",
     "https://www.deutschlandfunk.de/trump-will-sich-um-beilegung-des-konflikts-auf-der-koreanischen-halbinsel-bemuehen-102.html",
     "https://www.spiegel.de/panorama/verkehrstote-in-deutschland-taeglich-stirbt-mindestens-ein-mensch-bei-unfall-an-strassenbaum-a-214dfc84-7910-4af7-8ad2-84060c5594e3#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/neue-studie-zu-migranten-warum-integration-auf-dem-land-schwierig-ist-accg-110753345.html"
+    "https://www.faz.net/aktuell/politik/inland/neue-studie-zu-migranten-warum-integration-auf-dem-land-schwierig-ist-accg-110753345.html",
+    "https://www.deutschlandfunk.de/deutsche-landeshauptstaedte-warnen-merz-100.html",
+    "https://www.deutschlandfunk.de/china-bestaetigt-begegnung-von-xi-und-trump-in-suedkorea-102.html",
+    "https://www.faz.net/aktuell/politik/inland/mutmasslich-rechter-messerangriff-in-dresdner-strassenbahn-accg-110754532.html"
   ],
   "content_hashes": [
-    "87b99fada985da0e625d0dfb27900718",
-    "4c27a80d252595b578a47127a62cc603",
-    "07d8aa13ac8f789ab8793b1b476d51c6",
     "5264ef912d2bc47633bac1a49e686077",
     "e8039384f28112321f7c99209b71b723",
     "f901e8179c0ff2d6a988613d23ce2f5b",
@@ -2001,12 +1998,12 @@
     "9444a331bf331f8fe0c3897f0e2c14c0",
     "b551bf76c4168295c2b11673d61f4ad3",
     "d0677fe98d0b6f0cf911e89f7ac33951",
-    "6336493a8c02e3f58ba4769445679e8b"
+    "6336493a8c02e3f58ba4769445679e8b",
+    "2509ddebb9f2bc070dc8d2464609078c",
+    "bc09058d73dc3f2ee6d769ee245d00e7",
+    "b7ff23dd42cf1cd09ca892e5006512bd"
   ],
   "titles": [
-    "Nobel Prize for medicine awarded to immune system researchers",
-    "Babiš-Partner in Tschechien: Autofahrer an die Macht",
-    "Mobilität - Mehr Elektroautos neu zugelassen - Marktanteil 19,3 Prozent",
     "Iran - Deutsch-Franzose Monterlos im Spionage-Prozess freigesprochen",
     "Brandenburg: BSW lädt russischen Botschafter ein",
     "Krieg in Gaza - Nahost-Experte: Es kommt darauf an, wie lange Trump Druck macht",
@@ -3003,12 +3000,12 @@
     "DFB-Pokal - Dortmund gewinnt Spitzenspiel in Frankfurt im Elfmeterschießen",
     "Südkorea - Trump will sich um Beilegung des Konflikts auf der koreanischen Halbinsel bemühen",
     "Verkehrstote in Deutschland: Täglich stirbt mindestens ein Mensch bei Unfall an Straßenbaum",
-    "Neue Studie: Warum die Integration von Migranten auf dem Land schwierig ist"
+    "Neue Studie: Warum die Integration von Migranten auf dem Land schwierig ist",
+    "Kommunale Finanzen - Deutsche Landeshauptstädte warnen Merz",
+    "Treffen am Rande des APEC-Gipfels - China bestätigt Begegnung von Xi und Trump in Südkorea",
+    "Staatsschutz ermittelt: Mutmaßlich rechter Messerangriff in Dresdner Straßenbahn"
   ],
   "hashes": [
-    "02058f5a71a3a6d83e88c5b6b6b84967",
-    "111c14eafcc5d55add959103dfa363dd",
-    "62242c46f7dc529b525405e299c2fd19",
     "6523622315ae6b9bc3ecdda8fcd11463",
     "9bd00cef4d5d7dc334898edd15e8c4b6",
     "76c0a5319d189a9f499631b8b07455dc",
@@ -4005,6 +4002,9 @@
     "b5833c023231a9a4dd28206100201b80",
     "7caaf4b0ddd685fe2a9007fe3f546130",
     "589d1395540a3958b14aa5ebdd4daeb2",
-    "55166aa6bd8b1ab4ba01986c0fe33244"
+    "55166aa6bd8b1ab4ba01986c0fe33244",
+    "3cd0628ac7a15429fda4865dc8b9c614",
+    "f49349cddbdb75936c2c14ac34cfdbb2",
+    "268bc3bb1db18efd7489d452f6dfdd19"
   ]
 }
