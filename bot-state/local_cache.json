@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/medien-berichten-nach-erster-runde-von-positiver-atmosphaere-102.html",
-    "https://www.deutschlandfunk.de/deutscher-regisseur-holt-gold-104.html",
-    "https://www.deutschlandfunk.de/physik-nobelpreistraeger-werden-verkuendet-104.html",
     "https://www.spiegel.de/ausland/hamas-ueberfall-auf-israel-friedrich-merz-warnt-vor-antisemitismus-in-altem-und-neuem-gewand-a-b0b5f88b-f2a9-4b09-8844-ca26c92d4a44#ref=rss",
     "https://www.deutschlandfunk.de/weiterhin-missstaende-beim-film-festival-cologne-102.html",
     "https://www.deutschlandfunk.de/mehr-als-128-000-unterschriften-fuer-rueckkehr-zur-familienreservierung-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/hoeflichkeit-in-der-politik-buergerlich-sind-weder-linke-noch-afd-110753255.html",
     "https://www.deutschlandfunk.de/vogelgrippe-stallpflicht-fuer-gefluegel-in-mehreren-bundeslaendern-100.html",
     "https://www.deutschlandfunk.de/baden-wuerttemberg-draengt-auf-mehr-transparenz-beim-laden-von-e-autos-100.html",
-    "https://www.deutschlandfunk.de/chipkonzern-nvidia-als-erstes-unternehmen-der-welt-fuenf-billionen-dollar-wert-100.html"
+    "https://www.deutschlandfunk.de/chipkonzern-nvidia-als-erstes-unternehmen-der-welt-fuenf-billionen-dollar-wert-100.html",
+    "https://www.deutschlandfunk.de/hightech-agenda-der-bundesregierung-vorgestellt-merz-usa-und-china-duerfen-nicht-allein-ueber-techno-100.html",
+    "https://www.deutschlandfunk.de/zwei-tote-nach-einsturz-eines-wohnhauses-nahe-istanbul-102.html",
+    "https://www.faz.net/einspruch/michael-kretschmer-im-f-a-z-einspruch-podcast-wie-tickt-der-osten-110755151.html"
   ],
   "content_hashes": [
-    "0c0ab6c5f1df3666511d97902f84f8d7",
-    "8880fb10626de9fa3d0efca4ffc65c0b",
-    "a4a53f9c5c3ff32b15528e4bba7f1d27",
     "eb87260c0de2481733e3896eea92ea8a",
     "9a5cff760df337b66d8c8328b339d466",
     "f25176bfc2b4c783af5bb1af2b53c569",
@@ -2001,12 +1998,12 @@
     "860babda3632a4055fb7455ba15b9e2d",
     "0a3678f4bf44fc666ee956b9b12a1f8e",
     "32ba5c40310f4efebadbbf4e764f58f9",
-    "e532d76a5d714c7b805f49bd03f1752e"
+    "e532d76a5d714c7b805f49bd03f1752e",
+    "ab9655c18354ca1bfebf94951f5a5e05",
+    "6dea3c13482743ef37f38359c9cf3221",
+    "5aa9b9fa271b65fef34dd9c50ad836a5"
   ],
   "titles": [
-    "Gaza-Verhandlungen - Medien berichten nach erster Runde von \"positiver Atmosphäre\"",
-    "Studenten-Oscars - Deutscher Regisseur holt Gold",
-    "Stockholm - Physik-Nobelpreisträger werden verkündet",
     "Hamas-Überfall auf Israel: Friedrich Merz warnt vor Antisemitismus »in altem und neuem Gewand«",
     "Dlf-Kulturrecherche - Weiterhin Missstände beim Film Festival Cologne",
     "Deutsche Bahn - Mehr als 128.000 Unterschriften für Rückkehr zur Familienreservierung",
@@ -3003,12 +3000,12 @@
     "Höflichkeit in der Politik: Das tut man nicht",
     "Maßnahme gegen Ausbreitung - Vogelgrippe: Stallpflicht für Geflügel in mehreren Bundesländern",
     "Kritik an Preisaufschlägen - Baden-Württemberg drängt auf mehr Transparenz beim Laden von E-Autos",
-    "Börse - Chipkonzern Nvidia als erstes Unternehmen der Welt fünf Billionen Dollar wert"
+    "Börse - Chipkonzern Nvidia als erstes Unternehmen der Welt fünf Billionen Dollar wert",
+    "Berlin - Hightech-Agenda der Bundesregierung vorgestellt - Merz: \"USA und China dürfen nicht allein über technologische Zukunft bestimmen\"",
+    "Türkei - Zwei Tote nach Einsturz eines Wohnhauses nahe Istanbul",
+    "F.A.Z. Einspruch Podcast: Wie tickt der Osten?"
   ],
   "hashes": [
-    "99774c6c0372af95b212b33502702953",
-    "281363cdb63231fde9234167d226a36a",
-    "2479253c4e1c35b83111a2d80201b286",
     "19610faabb75fbbaf60de08dde27c3b0",
     "0c27ff5c8e4877710d607c4819e0b28f",
     "1bf8066b2f084ed42f2af85936a1fef3",
@@ -4005,6 +4002,9 @@
     "c3ce2e8bc55fd571adea3cc8aec4f245",
     "6badf85feb65aac49f5bb27a9b6d632c",
     "d197041f6897f8ff88e9a0af5fa56ec2",
-    "9a097b8e8180ad39dd2b07f407f3730b"
+    "9a097b8e8180ad39dd2b07f407f3730b",
+    "187dd6d8e9c62ceaa5e388319b277509",
+    "06288e579854291b2f9182f6a11433a7",
+    "d76a5662f5bc9dc9f53d402535f91d1a"
   ]
 }
