@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-in-russischen-drohnen-gefundene-teile-stammen-von-westlichen-herstellern-102.html",
-    "https://www.deutschlandfunk.de/annaeherung-zwischen-trump-und-brasiliens-lula-100.html",
-    "https://www.deutschlandfunk.de/kommentar-zur-lage-in-georgien-auf-dem-weg-in-eine-finstere-zeit-100.html",
-    "https://www.spiegel.de/politik/deutschland/gazastreifen-johann-wadephul-bietet-initiative-fuer-wiederaufbaukonferenz-an-a-553b81ee-4d2b-442d-ab5b-82fb28bc5835#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/russische-invasion-merkel-kritisiert-polen-und-balten-110719025.html",
     "https://www.deutschlandfunk.de/kanzler-merz-verspricht-juden-schutz-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/praesident-rajoelina-ernennt-neuen-regierungschef-102.html",
     "https://www.deutschlandfunk.de/wadephul-lobt-gaza-vermittlungsbemuehungen-deutschland-eine-wiederaufbaukonferenz-organisieren-102.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/verkehrsminister-beraten-ueber-deutschlandticket-und-sondervermoegen-infrastruktur-102.html",
     "https://www.deutschlandfunk.de/saarland-verhaengt-stallpflicht-wegen-vogelgrippe-100.html",
     "https://www.faz.net/aktuell/politik/ausland/one-piece-proteste-die-globale-revolte-der-gen-z-110750280.html",
-    "https://www.deutschlandfunk.de/neuer-ueberschalljet-x-59-absolviert-ersten-testflug-102.html"
+    "https://www.deutschlandfunk.de/neuer-ueberschalljet-x-59-absolviert-ersten-testflug-102.html",
+    "https://www.deutschlandfunk.de/polizei-entdeckt-weiteres-versteck-von-kriegswaffen-100.html",
+    "https://www.deutschlandfunk.de/deutsche-bank-ueberrascht-mit-rekordgewinn-im-sommer-100.html",
+    "https://www.deutschlandfunk.de/auftaktveranstaltung-in-berlin-100.html",
+    "https://www.deutschlandfunk.de/suedkorea-und-usa-vereinbaren-kompromiss-bei-handelsabkommen-100.html",
+    "https://www.deutschlandfunk.de/bundeslaender-wollen-autonomes-fahren-voranbringen-fussverkehr-soll-in-den-mittelpunkt-ruecken-100.html"
   ],
   "content_hashes": [
-    "c4b9195596dd7f710f56c71ecccb8a64",
-    "4fae547df19b51e6387c66b7dba15adf",
-    "94b6076cfbb7e964062f701fd9ba49a7",
-    "b0217c249e85f6d7f2902c037a4f7385",
-    "158fc925927d02055e53a21e6e204098",
     "14f05e341161628e45f4deb015fce4c7",
     "3e2a17637e2c4e1ab48aa7fe17d79911",
     "e7947d142c1314dd2235aed19b19b71a",
@@ -2001,14 +1996,14 @@
     "1e06553f72129eadb0c37c2cff393004",
     "d2c0bff5f9fdc8fdc93b192523aa7599",
     "921379f063bce9a32b9546d82e4fdc3e",
-    "4846096cfae60e58094a8e68d013b563"
+    "4846096cfae60e58094a8e68d013b563",
+    "dedf1e58cefc9db4b3c3fc85d120e691",
+    "07e9ad723a9bc30310b9931413d42739",
+    "6872dc8100eb48d37060b6054c5b9000",
+    "3fa7e88050d6fe49cc2b65d8cbeb5ff3",
+    "c3c5953ecfe1d37789eaa010286fff44"
   ],
   "titles": [
-    "Angriffskrieg gegen die Ukraine - Selenskyj: In russischen Drohnen gefundene Teile stammen von westlichen Herstellern",
-    "US-Zollpolitik - Annäherung zwischen Trump und Brasiliens Lula",
-    "Georgien - Kommentar: Auf dem Weg in eine finstere Zeit",
-    "Gazastreifen: Johann Wadephul bietet Initiative für Wiederaufbaukonferenz an",
-    "Russische Invasion: Merkel wirft Polen und Balten vor, Gespräche mit Putin blockiert zu haben",
     "Jahrestag des 7. Oktober 2023 - Kanzler Merz verspricht Juden Schutz in Deutschland",
     "Madagaskar - Präsident Rajoelina ernennt neuen Regierungschef",
     "Nahost-Reise - Wadephul lobt Gaza-Vermittlungsbemühungen - \"Deutschland eine Wiederaufbaukonferenz organisieren\"",
@@ -3003,14 +2998,14 @@
     "Straubing - Verkehrsminister beraten über Deutschlandticket und Sondervermögen Infrastruktur",
     "Seuche - Saarland verhängt Stallpflicht wegen Vogelgrippe",
     "Weltweite Proteste: Die Jungen rebellieren unter der Piratenflagge",
-    "USA - Neuer Überschalljet X-59 absolviert ersten Testflug"
+    "USA - Neuer Überschalljet X-59 absolviert ersten Testflug",
+    "Remscheid - Polizei entdeckt weiteres Versteck von Kriegswaffen",
+    "Wirtschaft - Deutsche Bank überrascht mit Rekordgewinn im Sommer",
+    "Hightech-Agenda der Bundesregierung - Auftaktveranstaltung in Berlin",
+    "Gyeongju - Südkorea und USA vereinbaren Kompromiss bei Handelsabkommen",
+    "Konferenz in Straubing - Bundesländer wollen autonomes Fahren voranbringen - Fußverkehr soll in den Mittelpunkt rücken"
   ],
   "hashes": [
-    "be99fba70d8a039cadddfb2309fa3218",
-    "c8189b931533704c57264469becf783c",
-    "1ff70657e7f94fe7b8c9fedeb473366c",
-    "0b13cd66c21f7ce08ee4799ea26eab19",
-    "68ab86f0a661a4ef242321edbd3f5bf6",
     "99f87a74fe206537d719bb409c7c1b24",
     "548ccac1512c4c0bf7ac309aba323b32",
     "079a23410177def66488d860182eb844",
@@ -4005,6 +4000,11 @@
     "3b58fbdcf479bcc50936ada917132825",
     "1fefadfe481b86cb116fe2c1407719b1",
     "01deebef22f1dc1f257978ca21076bb1",
-    "dc28c8fab91b18ec577d1e80f877e407"
+    "dc28c8fab91b18ec577d1e80f877e407",
+    "052fc38a36381e4a4aeb8a3c15a0cf6d",
+    "3ba31326859b30ae7cddc967cd11498d",
+    "69a2c0fa47a1a7b35eb19bb679230ca9",
+    "5d20a1e370611b296704519777107e43",
+    "32aa417275eca6a867308a3cfb705be0"
   ]
 }
