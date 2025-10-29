@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jugendherbergen-bieten-studenten-verguenstigte-zimmer-an-100.html",
-    "https://www.deutschlandfunk.de/ministerin-radovan-alabali-kuendigt-neuausrichtung-der-entwicklungshilfe-an-100.html",
     "https://www.deutschlandfunk.de/zwei-maenner-wegen-brutaler-vergewaltigung-von-kindern-zu-langen-haftstrafen-mit-anschliessender-sic-100.html",
     "https://www.deutschlandfunk.de/starmer-verurteilt-brandanschlag-auf-moschee-in-peacehaven-100.html",
     "https://www.faz.net/aktuell/politik/inland/geldnot-zwingt-die-kirchen-zu-grundlegenden-reformen-accg-110717489.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-laeuft-wilders-partei-koennte-staerkste-kraft-werden-100.html",
     "https://www.deutschlandfunk.de/landtag-in-sachsen-stimmt-fuer-reformstaatsvertrag-zum-oeffentlich-rechtlichen-rundfunk-100.html",
     "https://www.deutschlandfunk.de/landtag-in-sachsen-stimmt-reform-des-oeffentlich-rechtlichen-rundfunks-zu-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bund-und-laender-leben-ueber-ihre-verhaeltnisse-die-notlage-der-staedte-110755085.html"
+    "https://www.faz.net/aktuell/politik/inland/bund-und-laender-leben-ueber-ihre-verhaeltnisse-die-notlage-der-staedte-110755085.html",
+    "https://www.deutschlandfunk.de/us-notenbank-senkt-leitzins-erneut-100.html",
+    "https://www.deutschlandfunk.de/frankreich-macht-explizite-zustimmung-zum-sex-zum-gesetzlichen-massstab-100.html"
   ],
   "content_hashes": [
-    "f64f9bf8de5592264fedc1c3b704ce8c",
-    "0e1cff9149648ba407c057a770fa2b2f",
     "0d86bba264fe75e1e75e2c076919eaf1",
     "fd56fb44faa8458b16263a80700f1169",
     "cb8c86c650f5258d8bf1b753a4d628f6",
@@ -2001,11 +1999,11 @@
     "69d06e4facd2d2d96abaf61b6f1a6d4c",
     "518c1a798e66844d01f2e45421ec9ce9",
     "761df9fef976204bbd52177332e7c97e",
-    "ec20c7d769cb0275455cfc235fb1c59e"
+    "ec20c7d769cb0275455cfc235fb1c59e",
+    "95b2e187e920a9a86ce56807d46569e9",
+    "092d97652a9750e0275d735097872d7c"
   ],
   "titles": [
-    "Wohnungsnot - Jugendherbergen bieten Studenten vergünstigte Zimmer an",
-    "Internationale Zusammenarbeit - Ministerin Radovan Alabali kündigt Neuausrichtung der Entwicklungshilfe an",
     "Sexualisierte Gewalt - Zwei Männer wegen brutaler Vergewaltigung von Kindern zu langen Haftstrafen mit anschließender Sicherungsverwahrung verurteilt",
     "Großbritannien - Starmer verurteilt Brandanschlag auf Moschee in Peacehaven",
     "Strukturen im Wandel: Geldnot zwingt die Kirchen zu grundlegenden Reformen",
@@ -3003,11 +3001,11 @@
     "Zweite Kammer - Parlamentswahl in den Niederlanden läuft - Wilders-Partei könnte stärkste Kraft werden",
     "Medien - Landtag in Sachsen stimmt für Reformstaatsvertrag zum öffentlich-rechtlichen Rundfunk",
     "Medien - Landtag in Sachsen stimmt Reform des öffentlich-rechtlichen Rundfunks zu",
-    "Notlage der Städte: Ein Blick in den Abgrund"
+    "Notlage der Städte: Ein Blick in den Abgrund",
+    "Finanzpolitik - US-Notenbank senkt Leitzins erneut",
+    "Paris - Frankreich macht explizite Zustimmung zum Sex zum gesetzlichen Maßstab"
   ],
   "hashes": [
-    "9c6bf1a941943070f121e681d8bb6188",
-    "21510b014e6b24aac1ade405880b459c",
     "3e0d6b3d8802cb4d40d200b5e3357095",
     "f5645700db0955943043ceeebffbdd7c",
     "35dc49257d6d811923b4fbb1023ce361",
@@ -4005,6 +4003,8 @@
     "b569308741c852620163c0b6469aa362",
     "bae6f3134358a5c0e27852acff2cb849",
     "833024ec619ef7b9a34dd0fe69e6dcfe",
-    "d99a95c436184aef6af8acef7284f3b8"
+    "d99a95c436184aef6af8acef7284f3b8",
+    "455708d5a80e152bbfad57e27bff6ca6",
+    "58db879a816caaf523350cb4165cd427"
   ]
 }
