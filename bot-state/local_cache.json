@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-offenen-ermittlungsverfahren-auf-hoechststand-100.html",
-    "https://www.faz.net/aktuell/politik/inland/antisemitismus-inzwischen-faengt-es-in-der-grundschule-an-accg-110718339.html",
     "https://www.deutschlandfunk.de/premierminister-lecornu-tritt-nach-nur-wenigen-wochen-zurueck-100.html",
     "https://www.deutschlandfunk.de/russland-faengt-nach-eigenen-angaben-mehr-als-250-ukrainische-drohnen-ab-100.html",
     "https://www.deutschlandfunk.de/antisemitismus-verbindet-verschiedene-politische-lager-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/reiche-cdu-warnt-vor-wirtschaftlichem-abstieg-deutschlands-102.html",
     "https://www.deutschlandfunk.de/zugausfaelle-einer-regionalbahn-in-nrw-haben-politisches-nachspiel-100.html",
     "https://www.deutschlandfunk.de/texas-verklagt-nach-trumps-unbelegten-behauptungen-ueber-paracetamol-gegen-tylenol-hersteller-100.html",
-    "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-in-den-niederlanden-partei-von-wilders-laut-umfragen-favorit-100.html"
+    "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-in-den-niederlanden-partei-von-wilders-laut-umfragen-favorit-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-60-tote-bei-polizei-grosseinsatz-gegen-verbrechersyndikat-100.html",
+    "https://www.deutschlandfunk.de/texas-verklagt-nach-trumps-unbelegten-behauptungen-ueber-paracetamol-hersteller-100.html"
   ],
   "content_hashes": [
-    "890223bf9b3bcbeb64b05b9d627a09f6",
-    "754d6673bee818cf17e48f0e1bc82044",
     "9365b206824fc7b97efa50daa1aff44c",
     "c44e541179a4228e515e3347b9aa5d31",
     "5ff583afa98b37de2ed463c94ed30156",
@@ -2001,11 +1999,11 @@
     "bfb8b25b85d77cde2f2a2a34c7b13ed7",
     "09dc6adcd05ab6fff95e10bc6664de0d",
     "371b9ebd2fcc91eef82168ce976d2b1f",
-    "66a2f74ffa6f88259cdb0d7ad9912ec8"
+    "66a2f74ffa6f88259cdb0d7ad9912ec8",
+    "278e4dd6bfdd08273ebee6062316e89f",
+    "4c7bf2a587d7fd6d07eb78f7b6b75a74"
   ],
   "titles": [
-    "Statistisches Bundesamt - Zahl der offenen Ermittlungsverfahren auf Höchststand",
-    "Antisemitismus in Deutschland: Inzwischen fängt es in der Grundschule an",
     "Innenpolitische Krise in Frankreich - Premierminister Lecornu tritt nach nur wenigen Wochen zurück",
     "Angriffskrieg gegen die Ukraine - Russland fängt nach eigenen Angaben mehr als 250 ukrainische Drohnen ab",
     "RIAS-Bericht - Antisemitismus verbindet verschiedene politische Lager",
@@ -3003,11 +3001,11 @@
     "Berlin - Reiche (CDU) warnt vor wirtschaftlichem Abstieg Deutschlands",
     "National Express Rail - Zugausfälle einer Regionalbahn in NRW haben politisches Nachspiel",
     "Autismus - Texas verklagt nach Trumps unbelegten Behauptungen über Paracetamol gegen Tylenol-Hersteller",
-    "Den Haag - Vorgezogene Parlamentswahl in den Niederlanden: Partei von Wilders laut Umfragen Favorit"
+    "Den Haag - Vorgezogene Parlamentswahl in den Niederlanden: Partei von Wilders laut Umfragen Favorit",
+    "Rio de Janeiro - Mehr als 60 Tote bei Polizei-Großeinsatz gegen Verbrechersyndikat",
+    "USA - Texas verklagt nach Trumps unbelegten Behauptungen über Paracetamol Hersteller"
   ],
   "hashes": [
-    "e3f3ffe837ea71ded0afe030ee317758",
-    "b61d375a100f178c0fddd171544e6feb",
     "04bd052a60ed0cc5aecd070600267b0e",
     "234fd4ff84e40be8579bb70b5de138c3",
     "117ece872ba2cf858f4684e946bd6da0",
@@ -4005,6 +4003,8 @@
     "fe80f90220e827202de4073bfacf8146",
     "b820e769be88810eda4c5374edf74907",
     "e7f986575e1003795ef718ce84a0a883",
-    "684e2c27959daab3a39a46871ffc83c7"
+    "684e2c27959daab3a39a46871ffc83c7",
+    "55c62582d272a301035b5983af27b9e6",
+    "2b6549b57346fa038836cf6d58de9fe8"
   ]
 }
