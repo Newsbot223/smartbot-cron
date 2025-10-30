@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lange-nacht-de-impfens-in-praxen-und-apotheken-100.html",
-    "https://www.deutschlandfunk.de/soldaten-der-nationalgarde-in-illinois-angekommen-100.html",
     "https://www.deutschlandfunk.de/fiedler-spd-kein-dissenz-ueber-zustaendigkeit-bei-drohnenabwehr-102.html",
     "https://www.deutschlandfunk.de/2024-erneut-rekordeinnahmen-durch-hundesteuer-100.html",
     "https://www.deutschlandfunk.de/erneut-attacke-auf-praesidentenfahrzeug-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/staatsanwaltschaft-will-gegen-cdu-politikerin-bosbach-ermitteln-110757306.html",
     "https://www.faz.net/aktuell/politik/inland/studie-zu-kindesmissbrauch-was-die-kirche-gelernt-hat-110756993.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-zwei-weitere-leichen-von-geiseln-an-israel-102.html",
-    "https://www.deutschlandfunk.de/stiko-empfiehlt-impfung-gegen-meningokokken-fuer-kinder-102.html"
+    "https://www.deutschlandfunk.de/stiko-empfiehlt-impfung-gegen-meningokokken-fuer-kinder-102.html",
+    "https://www.deutschlandfunk.de/wadephul-aeussert-sich-zurueckhaltend-zu-rueckfuehrungen-von-syrern-100.html",
+    "https://www.deutschlandfunk.de/bundesschuelerkonferenz-beklagt-krise-der-mentalen-gesundheit-an-schulen-100.html"
   ],
   "content_hashes": [
-    "e38fe454234e1c1ffc04359f9423b5c7",
-    "6a6fdaef57ae7ca1840f5fe9936a029f",
     "67f5eddc1ffcca6cd0715942d289e6e7",
     "e9fa6cdfa62d1504156a205fa862e11c",
     "6e1b5faceaf1ca2a54de47bc7b318d36",
@@ -2001,11 +1999,11 @@
     "a5ef7af0f31bed0df2497eed54a79610",
     "c7a1eae79f4c26d60375eda1bdc257a3",
     "08c9f857599a240b2916d15e74083d5b",
-    "419e388f08b5ae078548f116bcb6124f"
+    "419e388f08b5ae078548f116bcb6124f",
+    "893bf5bce03525bbd69a80d799aff345",
+    "445788093cf298daa29951d2a4640f53"
   ],
   "titles": [
-    "Bundesweite Aktion - Lange Nacht de Impfens in Praxen und Apotheken",
-    "USA - Soldaten der Nationalgarde in Illinois angekommen",
     "Kabinettsitzung - Fiedler (SPD): Kein Dissenz über Zuständigkeit bei Drohnenabwehr",
     "Kommunen - 2024 erneut Rekordeinnahmen durch Hundesteuer",
     "Ecuador - Erneut Attacke auf Präsidentenfahrzeug",
@@ -3003,11 +3001,11 @@
     "Betrugsvorwürfe: Anfangsverdacht gegen CDU-Politikerin Bosbach",
     "Studie zu Missbrauch: Was die Kirche gelernt hat",
     "Nahost - Hamas übergibt zwei weitere Leichen von Geiseln an Israel",
-    "Auslöser von Hirnhautentzündung - Stiko empfiehlt Impfung gegen Meningokokken für Kinder"
+    "Auslöser von Hirnhautentzündung - Stiko empfiehlt Impfung gegen Meningokokken für Kinder",
+    "Besuch in Damaskus - Wadephul äußert sich zurückhaltend zu Rückführungen von Syrern",
+    "Angststörungen - Bundesschülerkonferenz beklagt Krise der mentalen Gesundheit an Schulen"
   ],
   "hashes": [
-    "4df3d253c97f9e3afa0315e454a0f2be",
-    "88cb5ae54c84857b3b3b86ab6eae17e2",
     "08b99e11ae0ca9e26a8bb9bbe1a1d9eb",
     "8d990f28afa51d12029e88f7abffa440",
     "7c6040ae379d1f9427c64d7f35b78ef4",
@@ -4005,6 +4003,8 @@
     "6d1ccb7deca26c5eebb318412a12ff38",
     "fff7929ef607e5db0b558af410c942b8",
     "0a26b9952ab834baf97422bd0f9f8ab0",
-    "7f235c92fd499633bdcb83ffdea5825e"
+    "7f235c92fd499633bdcb83ffdea5825e",
+    "8f4390c417a589c476cb024372a4615d",
+    "7050713d2b4a4cbfa23ce7b507f3f3e5"
   ]
 }
