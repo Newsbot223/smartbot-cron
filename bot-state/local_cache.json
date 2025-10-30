@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizei-schliesst-politisches-tatmotiv-aus-100.html",
-    "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-strom-aus-erneuerbaren-als-aus-kohle-102.html",
-    "https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-wegen-giftwolke-aus-galvanik-betrieb-100.html",
-    "https://www.faz.net/aktuell/politik/inland/juden-in-deutschland-bedroht-wie-nie-nach-dem-zweiten-weltkrieg-110720635.html",
-    "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-nach-ereignis-in-mainaschaff-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss",
     "https://www.deutschlandfunk.de/kabinett-will-hoehere-sozialbeitraege-fuer-gutverdiener-beschliessen-104.html",
     "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-im-bayerischen-mainaschaff-102.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/ausland/wahl-in-den-niederlanden-ohne-brandmauer-geht-es-nicht-110756729.html",
     "https://www.deutschlandfunk.de/studien-ueber-umgang-mit-missbrauch-in-den-bistuemern-trier-und-augsburg-fuehren-fortschritte-auf-ab-100.html",
     "https://www.deutschlandfunk.de/justizreform-nimmt-im-parlament-letzte-huerde-102.html",
-    "https://www.deutschlandfunk.de/luftwaffe-faengt-erneut-russischen-aufklaerer-ab-102.html"
+    "https://www.deutschlandfunk.de/luftwaffe-faengt-erneut-russischen-aufklaerer-ab-102.html",
+    "https://www.deutschlandfunk.de/sozialliberale-d66-erhebt-anspruch-auf-regierungsbildung-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-bedeutung-tuerkischer-arbeitnehmer-fuer-die-deutsche-wirtschaft-100.html",
+    "https://www.deutschlandfunk.de/ezb-rat-laesst-leitzins-konstant-bei-zwei-prozent-102.html",
+    "https://www.deutschlandfunk.de/fortschritte-und-versaeumnisse-im-umgang-mit-missbrauch-in-den-bistuemern-trier-und-augsburg-festges-100.html",
+    "https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss"
   ],
   "content_hashes": [
-    "97a9e94fcc3b45be7fda5c37931c5018",
-    "692707b3b76c4e4224a51ede7a31ee6b",
-    "fde61e00ad0fe6e6f4deb0d6d169c5b2",
-    "464edce812715028ef115945f579f66d",
-    "b2b7ae6926c9865edadbd8f5ed06980c",
     "006c19e39b938307764bd6a86f139fdf",
     "79da6493fe2db647cb2e0a1c872bf60f",
     "33d59117bd950fe7e2722a9f6a8672d7",
@@ -2001,14 +1996,14 @@
     "1331440d864f3587743d5a6c24de3bde",
     "ae49610312fa1b12cd27cd77edcefa47",
     "fede789595951cb5a2495d702e2a5640",
-    "205d73799a6d612b4f6dc5fe79f2d6c4"
+    "205d73799a6d612b4f6dc5fe79f2d6c4",
+    "10489b8b3cac31c101767718b03ec1ba",
+    "1805372879a36fc2da343862c0a55de7",
+    "2d03c27866ced2a3c5c00e3db1a38293",
+    "282863879b4605ec8605e94e2ed634c8",
+    "9f6a43b8a852dc2b6db9efd0738be12d"
   ],
   "titles": [
-    "Messerangriff auf SPD-Politikerin - Polizei schließt politisches Tatmotiv aus",
-    "Studie - Weltweit erstmals mehr Strom aus Erneuerbaren als aus Kohle",
-    "Störfall in Mainaschaff - Großeinsatz der Feuerwehr wegen Giftwolke aus Galvanik-Betrieb",
-    "Juden in Deutschland: Bedroht wie nie nach dem Zweiten Weltkrieg",
-    "Entwarnung - Kein giftiger Rauch mehr nach Ereignis in Mainaschaff",
     "How to fix France’s deepening political crisis?",
     "Bericht - Kabinett will höhere Sozialbeiträge für Gutverdiener beschließen",
     "Entwarnung - Kein giftiger Rauch mehr im bayerischen Mainaschaff",
@@ -3003,14 +2998,14 @@
     "Wahl in den Niederlanden: Ohne Brandmauer geht es nicht",
     "Katholische Kirche - Studien über Umgang mit Missbrauch in den Bistümern Trier und Augsburg führen Fortschritte auf, aber auch Versäumnisse",
     "Italien - Justizreform nimmt im Parlament letzte Hürde",
-    "Polen - Luftwaffe fängt erneut russischen Aufklärer ab"
+    "Polen - Luftwaffe fängt erneut russischen Aufklärer ab",
+    "Niederlande - Sozialliberale D66 erhebt Anspruch auf Regierungsbildung",
+    "Antrittsbesuch bei Erdogan - Bundeskanzler Merz würdigt Bedeutung türkischer Arbeitnehmer für die deutsche Wirtschaft",
+    "Geldpolitik - EZB-Rat lässt Leitzins konstant bei zwei Prozent",
+    "Katholische Kirche - Fortschritte und Versäumnisse im Umgang mit Missbrauch in den Bistümern Trier und Augsburg festgestellt",
+    "Türkei-Reise von Friedrich Merz: Empfang mit militärischen Ehren – keine Gespräche mit Opposition"
   ],
   "hashes": [
-    "f7a4107874187a2a1fcf5383a08a1140",
-    "83e28eb9395dd3f847109073bf2518b6",
-    "af6f47233c9d05cd47a687878003fc19",
-    "ee60daf4c1c8d956eea0de2189c58ea5",
-    "081fce386a38249dee6e3aaae3603f31",
     "cc650747be425218eea6679bf2f2f84f",
     "0d86d0869ba61cc0914056383e73286d",
     "7e82d30ca7e294af5c1e66a42b8d2320",
@@ -4005,6 +4000,11 @@
     "af1fbf9d357ee4c9f217d9664ec62618",
     "de817bb5f61af6d9907f7c2d119fe81c",
     "07f13b58b845392ba4f67a50d35f67f5",
-    "f9cc27b3343526ee6e0c1692fe6f7f14"
+    "f9cc27b3343526ee6e0c1692fe6f7f14",
+    "d2ac8242f718c746ad8ef43c67b11cce",
+    "b3e0b8e5e285be4f2086c7b1193c7347",
+    "bff8aa010b45ff9403afd5a46a16acfc",
+    "77228711c4b1546bc168c9d8d1fd74c4",
+    "12f302bf1071a78a8298b3379851dc4a"
   ]
 }
