@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/inside-story/2025/10/7/how-to-fix-frances-deepening-political-crisis?traffic_source=rss",
-    "https://www.deutschlandfunk.de/kabinett-will-hoehere-sozialbeitraege-fuer-gutverdiener-beschliessen-104.html",
     "https://www.deutschlandfunk.de/kein-giftiger-rauch-mehr-im-bayerischen-mainaschaff-102.html",
     "https://www.deutschlandfunk.de/fruehere-csu-vorsitzende-seehofer-und-huber-kritisieren-soeder-fuer-harte-abgrenzung-von-gruenen-102.html",
     "https://www.faz.net/aktuell/politik/ausland/was-man-von-dem-neuen-syrischen-parlament-erwarten-darf-110720731.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-bedeutung-tuerkischer-arbeitnehmer-fuer-die-deutsche-wirtschaft-100.html",
     "https://www.deutschlandfunk.de/ezb-rat-laesst-leitzins-konstant-bei-zwei-prozent-102.html",
     "https://www.deutschlandfunk.de/fortschritte-und-versaeumnisse-im-umgang-mit-missbrauch-in-den-bistuemern-trier-und-augsburg-festges-100.html",
-    "https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/tuerkei-reise-von-friedrich-merz-empfang-mit-militaerischen-ehren-keine-gespraeche-mit-opposition-a-eea2dc30-aba0-459e-b630-e4ce560bad9d#ref=rss",
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-plant-ermittlungen-gegen-cdu-bundestagsabgeordnete-caroline-bosbach-102.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-fuer-vertiefte-europaeische-zusammenarbeit-mit-der-tuerkei-100.html"
   ],
   "content_hashes": [
-    "006c19e39b938307764bd6a86f139fdf",
-    "79da6493fe2db647cb2e0a1c872bf60f",
     "33d59117bd950fe7e2722a9f6a8672d7",
     "3e8cb12ab08feaace6a3b79572b6570d",
     "ddca75ef1db2a188278e6dd31a4db315",
@@ -2001,11 +1999,11 @@
     "1805372879a36fc2da343862c0a55de7",
     "2d03c27866ced2a3c5c00e3db1a38293",
     "282863879b4605ec8605e94e2ed634c8",
-    "9f6a43b8a852dc2b6db9efd0738be12d"
+    "9f6a43b8a852dc2b6db9efd0738be12d",
+    "9a142cc0fe26731feaf5c1bdc1306a1c",
+    "bccd64ba92deecd171bce39f736fc7cf"
   ],
   "titles": [
-    "How to fix France’s deepening political crisis?",
-    "Bericht - Kabinett will höhere Sozialbeiträge für Gutverdiener beschließen",
     "Entwarnung - Kein giftiger Rauch mehr im bayerischen Mainaschaff",
     "Medienbericht - Frühere CSU-Vorsitzende Seehofer und Huber kritisieren Söder für harte Abgrenzung von Grünen",
     "Erste Wahlen nach Assad: Was man von Syriens neuem Parlament erwarten darf – und was nicht",
@@ -3003,11 +3001,11 @@
     "Antrittsbesuch bei Erdogan - Bundeskanzler Merz würdigt Bedeutung türkischer Arbeitnehmer für die deutsche Wirtschaft",
     "Geldpolitik - EZB-Rat lässt Leitzins konstant bei zwei Prozent",
     "Katholische Kirche - Fortschritte und Versäumnisse im Umgang mit Missbrauch in den Bistümern Trier und Augsburg festgestellt",
-    "Türkei-Reise von Friedrich Merz: Empfang mit militärischen Ehren – keine Gespräche mit Opposition"
+    "Türkei-Reise von Friedrich Merz: Empfang mit militärischen Ehren – keine Gespräche mit Opposition",
+    "Betrugsverdacht - Staatsanwaltschaft plant Ermittlungen gegen CDU-Bundestagsabgeordnete Caroline Bosbach",
+    "Antrittsbesuch bei Erdogan - Bundeskanzler Merz für vertiefte europäische Zusammenarbeit mit der Türkei"
   ],
   "hashes": [
-    "cc650747be425218eea6679bf2f2f84f",
-    "0d86d0869ba61cc0914056383e73286d",
     "7e82d30ca7e294af5c1e66a42b8d2320",
     "aad1860b39e517a3b267351441ea0bce",
     "9e666ca41921ab3d11d17c2f74f0fc98",
@@ -4005,6 +4003,8 @@
     "b3e0b8e5e285be4f2086c7b1193c7347",
     "bff8aa010b45ff9403afd5a46a16acfc",
     "77228711c4b1546bc168c9d8d1fd74c4",
-    "12f302bf1071a78a8298b3379851dc4a"
+    "12f302bf1071a78a8298b3379851dc4a",
+    "7f517823a48b1889c9d86929fcb27a92",
+    "1049b5b4cbd45f47eb61d39dd1d20b75"
   ]
 }
