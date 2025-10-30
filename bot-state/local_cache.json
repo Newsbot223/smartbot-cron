@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/spd-ministerin-alabali-radovan-will-entwicklungshilfe-an-wirtschaft-ausrichten-a-0c533b04-907f-45c6-bb7e-33483466ba4b#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/compact-magazin-feiert-lang-lebe-wladimir-putin-accg-110720433.html",
     "https://www.faz.net/einspruch/bundesverfassungsgericht-diese-richter-schickt-der-bundestag-nach-karlsruhe-110701259.html",
     "https://www.deutschlandfunk.de/bisher-keine-einigung-bei-verhandlungen-ueber-gaza-friedensplan-102.html",
     "https://www.deutschlandfunk.de/motiv-nach-messerattacke-auf-neugewaehlte-buergermeisterin-in-herdecke-bislang-nicht-bekannt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/staedtetags-vize-conradt-warnt-vor-grossen-sparzwaengen-100.html",
     "https://www.deutschlandfunk.de/alabali-radovan-zu-besuch-in-kiew-eingetroffen-102.html",
     "https://www.deutschlandfunk.de/steinmeier-lehrer-duerfen-nicht-neutral-wegschauen-100.html",
-    "https://www.deutschlandfunk.de/fuenf-weitere-verdaechtige-festgenommen-104.html"
+    "https://www.deutschlandfunk.de/fuenf-weitere-verdaechtige-festgenommen-104.html",
+    "https://www.deutschlandfunk.de/trump-verkuendet-einigung-bei-seltenen-erden-und-senkung-von-zoellen-100.html",
+    "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss"
   ],
   "content_hashes": [
-    "599e783bca455681b032b4543146dc5d",
-    "d372091643901d0663becd41ac843a0c",
     "8e3c735bc62201bfa1bf1402aaf50e49",
     "4213cb35509d7ae2d1fc3f1f6f31498a",
     "8908e654b429947ebe4d1ed44c9e71b2",
@@ -2001,11 +1999,11 @@
     "fcf48c7ed36dcb882adf3b89abff6905",
     "fadbde5e7c34c5685a53fd4f4028999c",
     "1b9be6b75d0a8b408878b74ebb611b23",
-    "f8d15d293a18b2b6691ae25846a5af76"
+    "f8d15d293a18b2b6691ae25846a5af76",
+    "e068a959b4c41051166e7435f3693b02",
+    "81bf081e9bfd84b9e6b35819ab98bf4c"
   ],
   "titles": [
-    "SPD-Ministerin Alabali Radovan will Entwicklungshilfe an Wirtschaft ausrichten",
-    "„Compact“-Magazin: Berliner Geburtstagsgrüße für Wladimir Putin",
     "Bundesverfassungsgericht: Das sind die neuen Richter für Karlsruhe",
     "Scharm el Scheich - Bisher keine Einigung bei Verhandlungen über Gaza-Friedensplan",
     "Nordrhein-Westfalen - Motiv nach Messerattacke auf neugewählte Bürgermeisterin in Herdecke bislang nicht bekannt",
@@ -3003,11 +3001,11 @@
     "Kommunalfinanzen - Städtetags-Vize Conradt warnt vor großen Sparzwängen",
     "Ukraine - Alabali Radovan zu Besuch in Kiew eingetroffen",
     "Extremismus - Steinmeier: Lehrer dürfen \"nicht neutral wegschauen\"",
-    "Louvre-Einbruch - Fünf weitere Verdächtige festgenommen"
+    "Louvre-Einbruch - Fünf weitere Verdächtige festgenommen",
+    "Nach Treffen mit Xi - Trump verkündet Einigung bei Seltenen Erden und Senkung von Zöllen",
+    "Deutsche Wirtschaft stagniert – Arbeitslosenzahlen sinken nur leicht"
   ],
   "hashes": [
-    "bf87a813bc366308b1e2e044337eca6d",
-    "c2a17fead51c5ffc9fcf11e76e8d99d4",
     "b5d147e68eefc031f34ea0bfce9f8628",
     "0343e50e249939e88f672afc4c6aeb38",
     "daa27f07a3caddf50314640f8c9216d3",
@@ -4005,6 +4003,8 @@
     "5b134500226ef468fda9d5e941a1f057",
     "07bc9c791cf7b5099864294ae4947330",
     "2c83bb3ccf0bb70c27d81d46958bc198",
-    "0ac057eb182cddfe7c77c91358a5f85c"
+    "0ac057eb182cddfe7c77c91358a5f85c",
+    "495fc5bab1ad31eab924e829679dd40e",
+    "497f6975277a9b6c21a495bfe2b84ac3"
   ]
 }
