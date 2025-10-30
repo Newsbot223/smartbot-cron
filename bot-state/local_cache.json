@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-plant-50-prozent-zoelle-auf-stahlimporte-100.html",
-    "https://www.deutschlandfunk.de/bundesamt-fuer-bevoelkerungsschutz-giftige-rauchwolke-nach-ereignis-in-mainaschaff-100.html",
-    "https://www.deutschlandfunk.de/lecornu-trifft-vorsitzende-beider-parlamentskammern-100.html",
     "https://www.deutschlandfunk.de/polizei-schliesst-politisches-tatmotiv-aus-100.html",
     "https://www.deutschlandfunk.de/weltweit-erstmals-mehr-strom-aus-erneuerbaren-als-aus-kohle-102.html",
     "https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-wegen-giftwolke-aus-galvanik-betrieb-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-in-der-tuerkei-von-praesident-erdogan-empfangen-102.html",
     "https://www.deutschlandfunk.de/proteste-nach-wahl-dauern-an-102.html",
     "https://www.deutschlandfunk.de/drogenlabor-ausgehoben-haftantrag-gegen-zwei-maenner-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/wahl-in-den-niederlanden-ohne-brandmauer-geht-es-nicht-110756729.html"
+    "https://www.faz.net/aktuell/politik/ausland/wahl-in-den-niederlanden-ohne-brandmauer-geht-es-nicht-110756729.html",
+    "https://www.deutschlandfunk.de/studien-ueber-umgang-mit-missbrauch-in-den-bistuemern-trier-und-augsburg-fuehren-fortschritte-auf-ab-100.html",
+    "https://www.deutschlandfunk.de/justizreform-nimmt-im-parlament-letzte-huerde-102.html",
+    "https://www.deutschlandfunk.de/luftwaffe-faengt-erneut-russischen-aufklaerer-ab-102.html"
   ],
   "content_hashes": [
-    "4cd3419091d2009e061d5e7dff9f8a9c",
-    "af5006d2823dfa5572033f320a6eac1a",
-    "7014b321914af50b4b227214bcd4d999",
     "97a9e94fcc3b45be7fda5c37931c5018",
     "692707b3b76c4e4224a51ede7a31ee6b",
     "fde61e00ad0fe6e6f4deb0d6d169c5b2",
@@ -2001,12 +1998,12 @@
     "9b1c57e66316faf7ad3e56d4d1b85269",
     "f74634dd55a94caf6f4867dcd0568c2d",
     "557ef838845f5b2766d466d9012b14de",
-    "1331440d864f3587743d5a6c24de3bde"
+    "1331440d864f3587743d5a6c24de3bde",
+    "ae49610312fa1b12cd27cd77edcefa47",
+    "fede789595951cb5a2495d702e2a5640",
+    "205d73799a6d612b4f6dc5fe79f2d6c4"
   ],
   "titles": [
-    "Handelspolitik - EU-Kommission plant 50-Prozent-Zölle auf Stahlimporte",
-    "Gefahrendurchsage für Mainaschaff und Aschaffenburg - Bundesamt für Bevölkerungsschutz: Giftige Rauchwolke nach Ereignis in Mainaschaff",
-    "Regierungskrise - Lecornu trifft Vorsitzende beider Parlamentskammern",
     "Messerangriff auf SPD-Politikerin - Polizei schließt politisches Tatmotiv aus",
     "Studie - Weltweit erstmals mehr Strom aus Erneuerbaren als aus Kohle",
     "Störfall in Mainaschaff - Großeinsatz der Feuerwehr wegen Giftwolke aus Galvanik-Betrieb",
@@ -3003,12 +3000,12 @@
     "Antrittsbesuch - Bundeskanzler Merz in der Türkei von Präsident Erdogan empfangen",
     "Tansania - Proteste nach Wahl dauern an",
     "Havelland - Drogenlabor ausgehoben; Haftantrag gegen zwei Männer",
-    "Wahl in den Niederlanden: Ohne Brandmauer geht es nicht"
+    "Wahl in den Niederlanden: Ohne Brandmauer geht es nicht",
+    "Katholische Kirche - Studien über Umgang mit Missbrauch in den Bistümern Trier und Augsburg führen Fortschritte auf, aber auch Versäumnisse",
+    "Italien - Justizreform nimmt im Parlament letzte Hürde",
+    "Polen - Luftwaffe fängt erneut russischen Aufklärer ab"
   ],
   "hashes": [
-    "14db3345359cce174b723933c2a161f1",
-    "4c81b3a1167d97d65ecb9f6441e75e51",
-    "18bf8588c7aaa8c53e2cba29599283fb",
     "f7a4107874187a2a1fcf5383a08a1140",
     "83e28eb9395dd3f847109073bf2518b6",
     "af6f47233c9d05cd47a687878003fc19",
@@ -4005,6 +4002,9 @@
     "971c6d7b5f9f0c3e021e23f87c2986b5",
     "51995e749609f2b3c49209985a3be278",
     "90f8768c82fb72204b520822a70aba2a",
-    "af1fbf9d357ee4c9f217d9664ec62618"
+    "af1fbf9d357ee4c9f217d9664ec62618",
+    "de817bb5f61af6d9907f7c2d119fe81c",
+    "07f13b58b845392ba4f67a50d35f67f5",
+    "f9cc27b3343526ee6e0c1692fe6f7f14"
   ]
 }
