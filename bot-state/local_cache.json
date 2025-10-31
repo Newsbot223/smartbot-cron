@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-will-schaerfere-regeln-fuer-e-scooter-100.html",
     "https://www.deutschlandfunk.de/cdu-politikerin-connemann-regt-abschaffung-des-evangelischen-reformationstags-an-102.html",
     "https://www.deutschlandfunk.de/sambias-praesident-hichilema-ruft-zur-digitalen-transformation-in-afrika-auf-100.html",
     "https://www.deutschlandfunk.de/kabinett-verabschiedet-hoehere-beitragsgrenzen-fuer-sozialversicherungen-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-in-deutschland-gelandet-108.html",
     "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss",
     "https://www.deutschlandfunk.de/aufsichtsrat-billigt-neuen-vorstand-verkehrsminister-schnieder-fordert-schnell-spuerbare-verbesserun-100.html",
-    "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-hungerkatastrophe-104.html"
+    "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-hungerkatastrophe-104.html",
+    "https://www.deutschlandfunk.de/israel-identifiziert-zwei-weitere-von-der-hamas-uebergebene-geisel-leichen-100.html"
   ],
   "content_hashes": [
-    "bc9edd2334d0cc7b45d0d745697b2357",
     "2e3ded2ae570cba21de2e115ef3858be",
     "ae74a74373cf01f6263a6ef2a3d91bcc",
     "b664b0294a853f0cf7f2c06fcd12d50d",
@@ -2001,10 +2000,10 @@
     "5383596d0e52b9f3c9a6815e62dce2b3",
     "7f6188e4324ba10afa07f8a6f9bcbdc9",
     "8b690f0bae17ffdb6ada0c0fa70a0ab3",
-    "51393bfcfce6bb15b352c412e6a2a47e"
+    "51393bfcfce6bb15b352c412e6a2a47e",
+    "93f7220e01bca00fbc5313b1d6d80557"
   ],
   "titles": [
-    "Mobilität - Bundesregierung will schärfere Regeln für E-Scooter",
     "Gesetzliche Feiertage - CDU-Politikerin Connemann regt Abschaffung des evangelischen Reformationstags an",
     "Gipfel in Lusaka - Sambias Präsident Hichilema ruft zur digitalen Transformation in Afrika auf",
     "Bundesregierung - Kabinett verabschiedet höhere Beitragsgrenzen für Sozialversicherungen",
@@ -3003,10 +3002,10 @@
     "Hannover - Weitere Afghanen mit Aufnahmezusage in Deutschland gelandet",
     "EU verzichtet auf anlasslose Überwachung von Messengern",
     "Deutsche Bahn - Aufsichtsrat billigt neuen Vorstand - Verkehrsminister Schnieder fordert \"schnell spürbare Verbesserungen\"",
-    "Demokratische Republik Kongo - UNO-Organisationen warnen vor Hungerkatastrophe"
+    "Demokratische Republik Kongo - UNO-Organisationen warnen vor Hungerkatastrophe",
+    "Nahost - Israel identifiziert zwei weitere von der Hamas übergebene Geisel-Leichen"
   ],
   "hashes": [
-    "2c8ada880d46a2a50d23484df525a778",
     "11a6b62051ae3ec0cc607d3bc78aee4f",
     "f84cbb69cf4c81dcf4ac3c504c0c41b8",
     "8f42bab4018ff8c917c23bd92dab51b7",
@@ -4005,6 +4004,7 @@
     "9c1741d966bd95e3cb2c400952aedfb7",
     "e7e22cf0e8eae3dd926d5a6948280412",
     "86ca83e1748f6c787fdfcf027b35bf83",
-    "c10999b188494267b304884eeab3abf3"
+    "c10999b188494267b304884eeab3abf3",
+    "e51f16ec97fc0020ba92b773c63adcd8"
   ]
 }
