@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fleisch-und-politik-thueringens-bratwurst-im-kulturkampf-accg-110714529.html",
-    "https://www.deutschlandfunk.de/flughafen-frankfurt-nimmt-terminal-3-am-22-april-in-betrieb-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-schaerfere-regeln-fuer-e-scooter-100.html",
     "https://www.deutschlandfunk.de/cdu-politikerin-connemann-regt-abschaffung-des-evangelischen-reformationstags-an-102.html",
     "https://www.deutschlandfunk.de/sambias-praesident-hichilema-ruft-zur-digitalen-transformation-in-afrika-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/chemikalien-an-us-schule-pharmakonzern-bayer-zu-schadenersatz-verurteilt-100.html",
     "https://www.deutschlandfunk.de/die-pille-verliert-an-bedeutung-104.html",
     "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-in-deutschland-gelandet-108.html",
-    "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss"
+    "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss",
+    "https://www.deutschlandfunk.de/aufsichtsrat-billigt-neuen-vorstand-verkehrsminister-schnieder-fordert-schnell-spuerbare-verbesserun-100.html",
+    "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-hungerkatastrophe-104.html"
   ],
   "content_hashes": [
-    "d176c644b47ad294c9b95faec89f39e3",
-    "ff0f78ba92cc848e8ed0c1b2a2b42b93",
     "bc9edd2334d0cc7b45d0d745697b2357",
     "2e3ded2ae570cba21de2e115ef3858be",
     "ae74a74373cf01f6263a6ef2a3d91bcc",
@@ -2001,11 +1999,11 @@
     "5fbdc0e3090d30d5ad9edb6632b1ac98",
     "01d039a9ea7586212eb66061d9196b26",
     "5383596d0e52b9f3c9a6815e62dce2b3",
-    "7f6188e4324ba10afa07f8a6f9bcbdc9"
+    "7f6188e4324ba10afa07f8a6f9bcbdc9",
+    "8b690f0bae17ffdb6ada0c0fa70a0ab3",
+    "51393bfcfce6bb15b352c412e6a2a47e"
   ],
   "titles": [
-    "Thüringen: Der Kulturkampf um die Wurst",
-    "Nach zehn Jahren Bauzeit - Flughafen Frankfurt nimmt Terminal 3 am 22. April in Betrieb",
     "Mobilität - Bundesregierung will schärfere Regeln für E-Scooter",
     "Gesetzliche Feiertage - CDU-Politikerin Connemann regt Abschaffung des evangelischen Reformationstags an",
     "Gipfel in Lusaka - Sambias Präsident Hichilema ruft zur digitalen Transformation in Afrika auf",
@@ -3003,11 +3001,11 @@
     "USA - Chemikalien an US-Schule: Pharmakonzern Bayer zu Schadenersatz verurteilt",
     "Verhütung - Die Pille verliert an Bedeutung",
     "Hannover - Weitere Afghanen mit Aufnahmezusage in Deutschland gelandet",
-    "EU verzichtet auf anlasslose Überwachung von Messengern"
+    "EU verzichtet auf anlasslose Überwachung von Messengern",
+    "Deutsche Bahn - Aufsichtsrat billigt neuen Vorstand - Verkehrsminister Schnieder fordert \"schnell spürbare Verbesserungen\"",
+    "Demokratische Republik Kongo - UNO-Organisationen warnen vor Hungerkatastrophe"
   ],
   "hashes": [
-    "16ef70e5543ddf284af7c8520d65cefc",
-    "7c92510e2f4d9dc4231a3845c8c1594e",
     "2c8ada880d46a2a50d23484df525a778",
     "11a6b62051ae3ec0cc607d3bc78aee4f",
     "f84cbb69cf4c81dcf4ac3c504c0c41b8",
@@ -4005,6 +4003,8 @@
     "da8e3c6ac01f4de936c9f4566f9818b0",
     "1118d76316fc8c561e4a1ca835f6c9f2",
     "9c1741d966bd95e3cb2c400952aedfb7",
-    "e7e22cf0e8eae3dd926d5a6948280412"
+    "e7e22cf0e8eae3dd926d5a6948280412",
+    "86ca83e1748f6c787fdfcf027b35bf83",
+    "c10999b188494267b304884eeab3abf3"
   ]
 }
