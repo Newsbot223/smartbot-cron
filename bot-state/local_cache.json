@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/einspruch/warum-krahs-ex-mitarbeiter-wegen-spionage-verurteilt-wurde-110722413.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-berlin-weiter-eu-gesetz-gegen-kindesmissbrauch-blockiert-110722599.html",
-    "https://www.deutschlandfunk.de/google-suche-bekommt-neuen-ki-modus-in-deutschland-102.html",
     "https://www.faz.net/aktuell/politik/inland/einblick-in-messenger-das-ist-bruesseler-kontrollwut-110722643.html",
     "https://www.deutschlandfunk.de/polizei-angreifer-von-manchester-bekannte-sich-unmittelbar-vor-anschlag-auf-synagoge-zu-is-100.html",
     "https://www.deutschlandfunk.de/neuer-premier-in-den-kommenden-48-stunden-denkbar-lecornu-haelt-loesung-in-politischer-krise-fuer-mo-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/vereinte-nationen-melden-zehn-tote-bei-protesten-nach-wahlen-in-tansania-100.html",
     "https://www.deutschlandfunk.de/afd-klagt-auf-rueckgabe-von-millionenspende-100.html",
     "https://www.deutschlandfunk.de/suedkorea-laesst-wieder-schweinefleisch-importe-aus-deutschland-zu-100.html",
-    "https://www.deutschlandfunk.de/eu-verbietet-fischerei-mit-grundschleppnetzen-in-doggerbank-102.html"
+    "https://www.deutschlandfunk.de/eu-verbietet-fischerei-mit-grundschleppnetzen-in-doggerbank-102.html",
+    "https://www.deutschlandfunk.de/textilarbeiter-in-lesotho-demonstrieren-fuer-niedrigere-us-zoelle-100.html",
+    "https://www.deutschlandfunk.de/gefluegelbetriebe-in-zehn-bundeslaendern-betroffen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wadephul-muss-in-syrien-deutsche-interessen-vertreten-110759650.html"
   ],
   "content_hashes": [
-    "bf469ab6e1ee15f93abc0ce4b085ee7b",
-    "9f6b16a502645e5178cdbd928fad064d",
-    "ea6ff63bb8ecfc68b212170eb57d3b35",
     "5b16b5d1c313ce3a1141b0331f7a5402",
     "0fd813b6eaf46dff28c3e7608a33b904",
     "6ca043ffadb31edcc6728a7ac9fd697c",
@@ -2001,12 +1998,12 @@
     "8edaf5d3eb2e92ea99dd84e2e0fbfcd7",
     "ff35bec6073d82c0325dd39eb0c2ca32",
     "d6f16ba37d64d95a96bbf5637007414a",
-    "029e54a66d5791a4722656aa89bd83f3"
+    "029e54a66d5791a4722656aa89bd83f3",
+    "7acb3c7cc6eec79ede5b86c6eac66adf",
+    "87e147014855e89e90c5ea10321f6bca",
+    "44b35a2f64ac90a0565eb2c978181570"
   ],
   "titles": [
-    "F.A.Z. Einspruch Podcast: Warum Krahs Ex-Mitarbeiter wegen Spionage verurteilt wurde",
-    "Kampf gegen Kindesmissbrauch: Warum Deutschland die „Chatkontrolle“ blockiert",
-    "Chatfunktion wird freigeschaltet - Google-Suche bekommt neuen KI-Modus in Deutschland",
     "Einblick in Messenger: Das ist Brüsseler Kontrollwut",
     "Großbritannien - Polizei: Angreifer von Manchester bekannte sich unmittelbar vor Anschlag auf Synagoge zu IS",
     "Frankreich - Neuer Premier in den kommenden 48 Stunden denkbar - Lecornu hält Lösung in politischer Krise für möglich",
@@ -3003,12 +3000,12 @@
     "Ostafrika - Vereinte Nationen melden zehn Tote bei Protesten nach Wahlen in Tansania",
     "Verwaltungsgericht Berlin - AfD klagt auf Rückgabe von Millionenspende",
     "Wirtschaft - Südkorea lässt wieder Schweinefleisch-Importe aus Deutschland zu",
-    "Nordsee - EU verbietet Fischerei mit Grundschleppnetzen in Doggerbank"
+    "Nordsee - EU verbietet Fischerei mit Grundschleppnetzen in Doggerbank",
+    "Südliches Afrika - Textilarbeiter in Lesotho demonstrieren für niedrigere US-Zölle",
+    "Vogelgrippe - Geflügelbetriebe in zehn Bundesländern betroffen",
+    "Betroffenheitspolitik: Der Außenminister muss deutsche Interessen vertreten"
   ],
   "hashes": [
-    "35b144c701c240bb67dba3f6de425a43",
-    "bccc050d98d759969534c0a52df6d6e9",
-    "c415014c712455f1ac584f1ec96574ec",
     "22e84872cb00ba833e5229340413538c",
     "06b6f6ff6e48ce74450400c9e3862d18",
     "993c0519ec705a9e4d747e0ebf724b00",
@@ -4005,6 +4002,9 @@
     "f4e7e4b7e328bb77130458dfc92e52c1",
     "49841bf1bd923ada8ead11bfc3fd1785",
     "31023720d7ba05d7826c767453e9f05d",
-    "03cb6165c5bd714b878938246814a322"
+    "03cb6165c5bd714b878938246814a322",
+    "cfa15bb7ca0f608b9b968e0d1135f12f",
+    "817c0abe353900578bcb52515233c39d",
+    "61977f3263057f1dff9cc43e789b1c97"
   ]
 }
