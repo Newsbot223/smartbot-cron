@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/abstimmung-ueber-misstrauensantraege-gegen-von-der-leyen-100.html",
-    "https://www.deutschlandfunk.de/un-ziel-fuer-beseitigung-des-hungers-bis-2030-kaum-erreichbar-100.html",
     "https://www.aljazeera.com/news/2025/10/9/russia-ukraine-war-list-of-key-events-day-1323?traffic_source=rss",
     "https://www.deutschlandfunk.de/macrons-entscheidung-zu-neuem-premier-erwartet-102.html",
     "https://www.deutschlandfunk.de/eu-pruefer-decken-unregelmaessigkeiten-in-milliardenhoehe-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/spanien-raeumt-erstmals-leid-und-unrecht-durch-eroberer-ein-102.html",
     "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/herdecke-stalzer-uebt-nach-messerangriff-kritik-an-medien-110760218.html",
     "https://www.faz.net/aktuell/politik/ausland/es-geht-um-die-gender-ideologie-110759437.html",
-    "https://www.deutschlandfunk.de/spanien-raeumt-leid-und-unrecht-durch-eroberer-ein-100.html"
+    "https://www.deutschlandfunk.de/spanien-raeumt-leid-und-unrecht-durch-eroberer-ein-100.html",
+    "https://www.deutschlandfunk.de/bundesrichter-untersagen-aussetzen-von-lebensmittelhilfen-fuer-beduerftige-100.html",
+    "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/berlin-drohnensichtung-am-ber-stoert-flugbetrieb-110760268.html"
   ],
   "content_hashes": [
-    "c232f7adaa525d37ef48b92056a6d0a8",
-    "4a639ed3959a131cd140d06be4b5aebe",
     "7ded9f025cec7a2a7fcedaf3cde7ed79",
     "6382b8b68ee2a7cffedd12808d7aa6df",
     "0b21be837c0b6500d6d76c3e509d7fde",
@@ -2001,11 +1999,11 @@
     "9515d8ca2f1d31cdd8858bbc4bd24daf",
     "c6ef89a45de6f22ffdf2430b2fa21757",
     "bfc0a10417f6ea0ccfb967aacf1e33f0",
-    "96baece9c94ee2637d61be90b1423210"
+    "96baece9c94ee2637d61be90b1423210",
+    "e4aa6ed6a5fce6796f32087d484f4263",
+    "6226e20c1667f4e8247466cd0a021a67"
   ],
   "titles": [
-    "EU-Parlament - Abstimmung über Misstrauensanträge gegen von der Leyen",
-    "Welthungerhilfe - UN-Ziel für Beseitigung des Hungers bis 2030 kaum erreichbar",
     "Russia-Ukraine war: List of key events, day 1,323",
     "Frankreich - Macrons Entscheidung zu neuem Premier erwartet",
     "Wirtschaft - EU-Prüfer decken Unregelmäßigkeiten in Milliardenhöhe auf",
@@ -3003,11 +3001,11 @@
     "Kolonialgeschichte - Spanien räumt erstmals \"Leid und Unrecht\" durch Eroberer ein",
     "Stalzer kritisiert Merz: „Sich binnen Minuten zu Dingen zu äußern, von denen man so wenig weiß, finde ich extrem schwierig“",
     "Istanbul-Konvention: Es geht um die Gender-Ideologie",
-    "Mexiko - Spanien räumt Leid und Unrecht durch Eroberer ein"
+    "Mexiko - Spanien räumt Leid und Unrecht durch Eroberer ein",
+    "USA - Bundesrichter untersagen Aussetzen von Lebensmittelhilfen für Bedürftige",
+    "Ausfälle und Verspätungen: Gesichtete Drohne stört Betrieb am Berliner Flughafen"
   ],
   "hashes": [
-    "806455a72abfccbac141d252f4144b36",
-    "da201841eb957c9a992c0a4901e01600",
     "fe699ec8a3045d2de17cb6d37b8aafa3",
     "1f2513f525e7b7342eb66951cfd790a1",
     "59c3d75f385638a5bb23cc8e2e810f42",
@@ -4005,6 +4003,8 @@
     "00255cb3091ea1b63bb4e0556a0670a6",
     "7cadbe552f0d91bf8554f674d1de8ce8",
     "58f09432b10abfdebd5c3b4a709fb323",
-    "7aebcb54945025653e21daab91cd9380"
+    "7aebcb54945025653e21daab91cd9380",
+    "0b29bf3852c5b569f54053ecf29a919b",
+    "b8e104439d6ce8d36c6b6a153ca7dbd4"
   ]
 }
