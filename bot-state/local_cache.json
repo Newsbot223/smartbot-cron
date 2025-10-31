@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/einblick-in-messenger-das-ist-bruesseler-kontrollwut-110722643.html",
-    "https://www.deutschlandfunk.de/polizei-angreifer-von-manchester-bekannte-sich-unmittelbar-vor-anschlag-auf-synagoge-zu-is-100.html",
     "https://www.deutschlandfunk.de/neuer-premier-in-den-kommenden-48-stunden-denkbar-lecornu-haelt-loesung-in-politischer-krise-fuer-mo-100.html",
     "https://www.deutschlandfunk.de/kommentar-zum-rueckgang-der-industrieproduktion-wirtschaftswandel-unaufhaltbar-100.html",
     "https://www.deutschlandfunk.de/neuer-premier-in-den-kommenden-48-stunden-denkbar-lecornu-haelt-loesung-der-regierungskrise-fuer-moe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-verbietet-fischerei-mit-grundschleppnetzen-in-doggerbank-102.html",
     "https://www.deutschlandfunk.de/textilarbeiter-in-lesotho-demonstrieren-fuer-niedrigere-us-zoelle-100.html",
     "https://www.deutschlandfunk.de/gefluegelbetriebe-in-zehn-bundeslaendern-betroffen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wadephul-muss-in-syrien-deutsche-interessen-vertreten-110759650.html"
+    "https://www.faz.net/aktuell/politik/inland/wadephul-muss-in-syrien-deutsche-interessen-vertreten-110759650.html",
+    "https://www.deutschlandfunk.de/nexperia-stoppt-ausfuhr-von-vorprodukten-nach-china-100.html",
+    "https://www.faz.net/aktuell/politik/inland/traumatisierte-fluechtlinge-allein-mit-ihren-daemonen-110747822.html"
   ],
   "content_hashes": [
-    "5b16b5d1c313ce3a1141b0331f7a5402",
-    "0fd813b6eaf46dff28c3e7608a33b904",
     "6ca043ffadb31edcc6728a7ac9fd697c",
     "39ec89d54c8a1c950565ffa5a743f501",
     "bd3e5f9d5fc782113c757550e4acde70",
@@ -2001,11 +1999,11 @@
     "029e54a66d5791a4722656aa89bd83f3",
     "7acb3c7cc6eec79ede5b86c6eac66adf",
     "87e147014855e89e90c5ea10321f6bca",
-    "44b35a2f64ac90a0565eb2c978181570"
+    "44b35a2f64ac90a0565eb2c978181570",
+    "e739f42f51d1695fc88f982d8c613ca3",
+    "508efd22913a97e96c183627a06664a1"
   ],
   "titles": [
-    "Einblick in Messenger: Das ist Brüsseler Kontrollwut",
-    "Großbritannien - Polizei: Angreifer von Manchester bekannte sich unmittelbar vor Anschlag auf Synagoge zu IS",
     "Frankreich - Neuer Premier in den kommenden 48 Stunden denkbar - Lecornu hält Lösung in politischer Krise für möglich",
     "Industrie schwächelt - Kommentar: Der Wirtschaftswandel ist unaufhaltbar",
     "Frankreich - Neuer Premier in den kommenden 48 Stunden denkbar - Lecornu hält Lösung der Regierungskrise für möglich",
@@ -3003,11 +3001,11 @@
     "Nordsee - EU verbietet Fischerei mit Grundschleppnetzen in Doggerbank",
     "Südliches Afrika - Textilarbeiter in Lesotho demonstrieren für niedrigere US-Zölle",
     "Vogelgrippe - Geflügelbetriebe in zehn Bundesländern betroffen",
-    "Betroffenheitspolitik: Der Außenminister muss deutsche Interessen vertreten"
+    "Betroffenheitspolitik: Der Außenminister muss deutsche Interessen vertreten",
+    "Chipkrise - Nexperia stoppt Ausfuhr von Vorprodukten nach China",
+    "Traumatisierte Flüchtlinge: Allein mit ihren Dämonen"
   ],
   "hashes": [
-    "22e84872cb00ba833e5229340413538c",
-    "06b6f6ff6e48ce74450400c9e3862d18",
     "993c0519ec705a9e4d747e0ebf724b00",
     "543c68d3e3e936260a6081e98b770f92",
     "af4c4f33b0590750d039dbb9d7d8c7e5",
@@ -4005,6 +4003,8 @@
     "03cb6165c5bd714b878938246814a322",
     "cfa15bb7ca0f608b9b968e0d1135f12f",
     "817c0abe353900578bcb52515233c39d",
-    "61977f3263057f1dff9cc43e789b1c97"
+    "61977f3263057f1dff9cc43e789b1c97",
+    "2fc695d3df192217c52aedd3486657dc",
+    "b7c48b0ea33b06aef587d00b9bc868e7"
   ]
 }
