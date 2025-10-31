@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-premier-in-den-kommenden-48-stunden-denkbar-lecornu-haelt-loesung-in-politischer-krise-fuer-mo-100.html",
-    "https://www.deutschlandfunk.de/kommentar-zum-rueckgang-der-industrieproduktion-wirtschaftswandel-unaufhaltbar-100.html",
     "https://www.deutschlandfunk.de/neuer-premier-in-den-kommenden-48-stunden-denkbar-lecornu-haelt-loesung-der-regierungskrise-fuer-moe-100.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-mutmasslichen-brandstifter-fest-102.html",
     "https://www.deutschlandfunk.de/dritter-tag-der-gaza-verhandlungen-noch-keine-ergebnisse-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gefluegelbetriebe-in-zehn-bundeslaendern-betroffen-100.html",
     "https://www.faz.net/aktuell/politik/inland/wadephul-muss-in-syrien-deutsche-interessen-vertreten-110759650.html",
     "https://www.deutschlandfunk.de/nexperia-stoppt-ausfuhr-von-vorprodukten-nach-china-100.html",
-    "https://www.faz.net/aktuell/politik/inland/traumatisierte-fluechtlinge-allein-mit-ihren-daemonen-110747822.html"
+    "https://www.faz.net/aktuell/politik/inland/traumatisierte-fluechtlinge-allein-mit-ihren-daemonen-110747822.html",
+    "https://www.deutschlandfunk.de/angeklagter-aeussert-sich-bei-prozessauftakt-ueber-anwalt-104.html",
+    "https://www.deutschlandfunk.de/spanien-raeumt-erstmals-leid-und-unrecht-durch-eroberer-ein-102.html"
   ],
   "content_hashes": [
-    "6ca043ffadb31edcc6728a7ac9fd697c",
-    "39ec89d54c8a1c950565ffa5a743f501",
     "bd3e5f9d5fc782113c757550e4acde70",
     "abac73b2717bf950abedbaddd2df0b94",
     "ae95e41cef423b71220af282fff41774",
@@ -2001,11 +1999,11 @@
     "87e147014855e89e90c5ea10321f6bca",
     "44b35a2f64ac90a0565eb2c978181570",
     "e739f42f51d1695fc88f982d8c613ca3",
-    "508efd22913a97e96c183627a06664a1"
+    "508efd22913a97e96c183627a06664a1",
+    "06711a7abd3e78d05ac6d2c1f85b828b",
+    "9515d8ca2f1d31cdd8858bbc4bd24daf"
   ],
   "titles": [
-    "Frankreich - Neuer Premier in den kommenden 48 Stunden denkbar - Lecornu hält Lösung in politischer Krise für möglich",
-    "Industrie schwächelt - Kommentar: Der Wirtschaftswandel ist unaufhaltbar",
     "Frankreich - Neuer Premier in den kommenden 48 Stunden denkbar - Lecornu hält Lösung der Regierungskrise für möglich",
     "Großfeuer in Los Angeles - Polizei nimmt mutmaßlichen Brandstifter fest",
     "Ägypten - Dritter Tag der Gaza-Verhandlungen - noch keine Ergebnisse",
@@ -3003,11 +3001,11 @@
     "Vogelgrippe - Geflügelbetriebe in zehn Bundesländern betroffen",
     "Betroffenheitspolitik: Der Außenminister muss deutsche Interessen vertreten",
     "Chipkrise - Nexperia stoppt Ausfuhr von Vorprodukten nach China",
-    "Traumatisierte Flüchtlinge: Allein mit ihren Dämonen"
+    "Traumatisierte Flüchtlinge: Allein mit ihren Dämonen",
+    "Nach Amokfahrt von Mannheim - Angeklagter äußert sich bei Prozessauftakt über Anwalt",
+    "Kolonialgeschichte - Spanien räumt erstmals \"Leid und Unrecht\" durch Eroberer ein"
   ],
   "hashes": [
-    "993c0519ec705a9e4d747e0ebf724b00",
-    "543c68d3e3e936260a6081e98b770f92",
     "af4c4f33b0590750d039dbb9d7d8c7e5",
     "b9cb5eb1c08883a1fbb226f0a87fa6ee",
     "444c76a9310d079880d00f4d434a8ffa",
@@ -4005,6 +4003,8 @@
     "817c0abe353900578bcb52515233c39d",
     "61977f3263057f1dff9cc43e789b1c97",
     "2fc695d3df192217c52aedd3486657dc",
-    "b7c48b0ea33b06aef587d00b9bc868e7"
+    "b7c48b0ea33b06aef587d00b9bc868e7",
+    "e5fc95d4964ea0ef938667dfdd3c290b",
+    "00255cb3091ea1b63bb4e0556a0670a6"
   ]
 }
