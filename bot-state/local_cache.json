@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-politikerin-connemann-regt-abschaffung-des-evangelischen-reformationstags-an-102.html",
-    "https://www.deutschlandfunk.de/sambias-praesident-hichilema-ruft-zur-digitalen-transformation-in-afrika-auf-100.html",
-    "https://www.deutschlandfunk.de/kabinett-verabschiedet-hoehere-beitragsgrenzen-fuer-sozialversicherungen-100.html",
     "https://www.deutschlandfunk.de/universitaeten-goettingen-und-freiburg-uebergeben-menschliche-schaedel-an-die-marshallinseln-im-pazi-100.html",
     "https://www.deutschlandfunk.de/nobelpreis-fuer-chemie-geht-an-forscher-in-japan-australien-und-usa-100.html",
     "https://www.deutschlandfunk.de/datenschuetzer-warnen-vor-folgen-des-eu-entwurfs-zur-chatkontrolle-im-kampf-gegen-kindesmissbrauch-102.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss",
     "https://www.deutschlandfunk.de/aufsichtsrat-billigt-neuen-vorstand-verkehrsminister-schnieder-fordert-schnell-spuerbare-verbesserun-100.html",
     "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-hungerkatastrophe-104.html",
-    "https://www.deutschlandfunk.de/israel-identifiziert-zwei-weitere-von-der-hamas-uebergebene-geisel-leichen-100.html"
+    "https://www.deutschlandfunk.de/israel-identifiziert-zwei-weitere-von-der-hamas-uebergebene-geisel-leichen-100.html",
+    "https://www.deutschlandfunk.de/chinas-staatschef-xi-warnt-vor-gestoerten-lieferketten-102.html",
+    "https://www.deutschlandfunk.de/mordprozess-nach-todesfahrt-von-mannheim-100.html",
+    "https://www.faz.net/aktuell/politik/inland/prozess-gegen-maja-t-es-gibt-keine-gute-politische-gewalt-110733367.html"
   ],
   "content_hashes": [
-    "2e3ded2ae570cba21de2e115ef3858be",
-    "ae74a74373cf01f6263a6ef2a3d91bcc",
-    "b664b0294a853f0cf7f2c06fcd12d50d",
     "881812b91eab7834f12586efff685545",
     "031cad153901231e4e975f0ace9e6763",
     "f9f6e05ce1f2ab45fd200cbd2d83552e",
@@ -2001,12 +1998,12 @@
     "7f6188e4324ba10afa07f8a6f9bcbdc9",
     "8b690f0bae17ffdb6ada0c0fa70a0ab3",
     "51393bfcfce6bb15b352c412e6a2a47e",
-    "93f7220e01bca00fbc5313b1d6d80557"
+    "93f7220e01bca00fbc5313b1d6d80557",
+    "b143e27271839e1952a1f951eb588122",
+    "4f3ad8c65edbd09b89edaca3be615d79",
+    "3d23e5c0f2deaf6f0b3694a9e12ccc49"
   ],
   "titles": [
-    "Gesetzliche Feiertage - CDU-Politikerin Connemann regt Abschaffung des evangelischen Reformationstags an",
-    "Gipfel in Lusaka - Sambias Präsident Hichilema ruft zur digitalen Transformation in Afrika auf",
-    "Bundesregierung - Kabinett verabschiedet höhere Beitragsgrenzen für Sozialversicherungen",
     "Kolonialismus - Universitäten Göttingen und Freiburg übergeben menschliche Schädel an die Marshallinseln im Pazifischen Ozean",
     "Stockholm - Nobelpreis für Chemie geht an Forscher in Japan, Australien und USA",
     "Online-Dienste - Datenschützer warnen vor Folgen des EU-Entwurfs zur Chatkontrolle im Kampf gegen Kindesmissbrauch",
@@ -3003,12 +3000,12 @@
     "EU verzichtet auf anlasslose Überwachung von Messengern",
     "Deutsche Bahn - Aufsichtsrat billigt neuen Vorstand - Verkehrsminister Schnieder fordert \"schnell spürbare Verbesserungen\"",
     "Demokratische Republik Kongo - UNO-Organisationen warnen vor Hungerkatastrophe",
-    "Nahost - Israel identifiziert zwei weitere von der Hamas übergebene Geisel-Leichen"
+    "Nahost - Israel identifiziert zwei weitere von der Hamas übergebene Geisel-Leichen",
+    "APEC-Gipfel in Südkorea - Chinas Staatschef Xi warnt vor gestörten Lieferketten",
+    "Kriminalität - Mordprozess nach Todesfahrt von Mannheim",
+    "Prozess gegen Maja T.: Es gibt keine gute politische Gewalt"
   ],
   "hashes": [
-    "11a6b62051ae3ec0cc607d3bc78aee4f",
-    "f84cbb69cf4c81dcf4ac3c504c0c41b8",
-    "8f42bab4018ff8c917c23bd92dab51b7",
     "d23c0560868d70db9efdf05d66f237d8",
     "46bdbfe8340cd323678351ed3d43d3f4",
     "dc1df7787eaf66ccd6d9f780992274dc",
@@ -4005,6 +4002,9 @@
     "e7e22cf0e8eae3dd926d5a6948280412",
     "86ca83e1748f6c787fdfcf027b35bf83",
     "c10999b188494267b304884eeab3abf3",
-    "e51f16ec97fc0020ba92b773c63adcd8"
+    "e51f16ec97fc0020ba92b773c63adcd8",
+    "8c79d39c084ffa09f56d4c24dde684fa",
+    "0b5f41d779c5fa1afe6701c253994a1b",
+    "fa3a005e3fc1180ac4925860e160552b"
   ]
 }
