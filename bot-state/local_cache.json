@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gutverdiener-sollen-hoehere-sozialabgaben-leisten-100.html",
-    "https://www.faz.net/aktuell/politik/inland/csu-vor-kommunalwahlen-wie-weiter-mit-den-gruenen-110722482.html",
-    "https://www.faz.net/aktuell/politik/inland/seehofer-und-huber-zwei-parteigroessen-kritisieren-soeders-gruenen-bashing-110722482.html",
     "https://www.deutschlandfunk.de/regierungsbefragung-und-entscheidung-ueber-ende-von-turbo-einbuergerung-120.html",
     "https://www.deutschlandfunk.de/macrons-frist-fuer-ausweg-aus-regierungskrise-laeuft-am-abend-ab-100.html",
     "https://www.deutschlandfunk.de/bundeskartellamt-leitet-verfahren-gegen-temu-ein-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof-a-51a03b75-9cba-4c7f-b8ad-d7a8ead392a8#ref=rss",
     "https://www.deutschlandfunk.de/israel-uebergibt-leichen-von-30-palaestinensern-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-erwartet-2026-rentenerhoehung-um-3-73-prozent-100.html",
-    "https://www.deutschlandfunk.de/inflation-im-euroraum-im-oktober-zurueckgegangen-100.html"
+    "https://www.deutschlandfunk.de/inflation-im-euroraum-im-oktober-zurueckgegangen-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-stahlgipfel-findet-am-6-november-statt-100.html",
+    "https://www.deutschlandfunk.de/thyssenkrupp-trennt-sich-von-chef-seiner-stahl-sparte-100.html",
+    "https://www.deutschlandfunk.de/mordprozess-nach-todesfahrt-von-mannheim-begonnen-100.html"
   ],
   "content_hashes": [
-    "88ce921608dd51eb7c53e1fc22838226",
-    "3212ba7938afd14743636b64c0f0986c",
-    "0725b4c4ba294810543c17aec3d00b5b",
     "33f83871ad3a12984522cd8a39312967",
     "e9068b4c1ad11e056a45aa557b8f7e22",
     "ac34beb6b4cafc532fb1da352c6aea5d",
@@ -2001,12 +1998,12 @@
     "def1d0c3c5a7be2843c273f058ec0543",
     "65dbb8bea853e50c79a57056a065df5e",
     "d710fad30750837dae4d797eca796f17",
-    "162d2883e13a468c3dfc691459e2da98"
+    "162d2883e13a468c3dfc691459e2da98",
+    "9bcbf6c2ac780ced341046e3dc61d4c0",
+    "8f14b0fb183169269acd54420e5858cc",
+    "db9d1fa0634ea2da2f6f9c998e8ac788"
   ],
   "titles": [
-    "Bundesregierung - Gutverdiener sollen höhere Sozialabgaben leisten",
-    "Seehofer und Huber: Zwei Parteigrößen kritisieren Söders Grünen-Bashing",
-    "Seehofer und Huber: Kritik an Söders Grünen-Bashing",
     "Bundestag - Regierungsbefragung und Entscheidung über Ende von \"Turbo-Einbürgerung\"",
     "Frankreich - Macrons Frist für Ausweg aus Regierungskrise läuft am Abend ab",
     "Online-Marktplatz - Bundeskartellamt leitet Verfahren gegen Temu ein",
@@ -3003,12 +3000,12 @@
     "Frankfurt am Main: Anklage gegen acht Männer nach tödlichen Schüssen im Hauptbahnhof",
     "Nahost - Israel übergibt Leichen von 30 Palästinensern",
     "Entwurf - Bundesregierung erwartet 2026 Rentenerhöhung um 3,73 Prozent",
-    "Eurostat - Inflation im Euroraum im Oktober zurückgegangen"
+    "Eurostat - Inflation im Euroraum im Oktober zurückgegangen",
+    "Branchenkrise - Bundeskanzler Merz: \"Stahlgipfel\" findet am 6. November statt",
+    "Metallindustrie - Thyssenkrupp trennt sich von Chef seiner Stahl-Sparte",
+    "Kriminalität - Mordprozess nach Todesfahrt von Mannheim begonnen"
   ],
   "hashes": [
-    "2b3128245e6b88d9f3a17fd0e87f7434",
-    "ede16e245ed3b53e6b5ef571c55baa75",
-    "dcb52942e9a6218c7e6fdb2a0f5801ca",
     "0ccae0ce08f6a2629b566d28d910c4f3",
     "64c8d5f8774c3e078ec76f8089442be1",
     "189df60f413107fe11d0777419fed596",
@@ -4005,6 +4002,9 @@
     "a8f6aabd4f14d870848e741eca940abd",
     "6134d5f19ab06a5f19375fa8214f45f2",
     "f940acdf6c48749993aa7863e20bb992",
-    "b3c314e6ddbcf8e6e77215f41d4ddb03"
+    "b3c314e6ddbcf8e6e77215f41d4ddb03",
+    "b6e7036dc678f0d72328b9558bc54806",
+    "cf49db029b0ca8a6a4bb2758f2804c56",
+    "ed8e7bdf4ac45072140a159caa793e08"
   ]
 }
