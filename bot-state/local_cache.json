@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-will-co2-speicherung-unter-dem-meer-erlauben-100.html",
-    "https://www.deutschlandfunk.de/sommerferien-sollen-aus-sicht-des-lehrerverbands-fruehestens-ab-juli-beginnen-100.html",
     "https://www.deutschlandfunk.de/indiens-premierminister-modi-eroeffnet-neuen-flughafen-in-mumbai-100.html",
     "https://www.deutschlandfunk.de/neue-buergermeisterin-von-herdecke-ausser-lebensgefahr-adoptivtochter-unter-tatverdacht-100.html",
     "https://www.deutschlandfunk.de/zahl-der-fahrgaeste-im-nahverkehr-trotz-deutschlandticket-ruecklaeufig-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erste-hilfsmassnahmen-fuer-die-von-hurrikan-melissa-betroffenen-gebiete-sind-angelaufen-100.html",
     "https://www.deutschlandfunk.de/lettland-beschliesst-austritt-aus-istanbul-konvention-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-im-libanon-gespraeche-ueber-hisbollah-erwartet-100.html",
-    "https://www.deutschlandfunk.de/aufgrund-von-sinkenden-geburtenraten-sind-auch-die-zahlen-der-betreuten-kinder-ruecklaeufig-102.html"
+    "https://www.deutschlandfunk.de/aufgrund-von-sinkenden-geburtenraten-sind-auch-die-zahlen-der-betreuten-kinder-ruecklaeufig-102.html",
+    "https://www.deutschlandfunk.de/gespraeche-mit-vertretern-aus-peking-in-bruessel-begonnen-102.html",
+    "https://www.spiegel.de/panorama/justiz/frankfurt-am-main-anklage-gegen-acht-maenner-nach-toedlichen-schuessen-im-hauptbahnhof-a-51a03b75-9cba-4c7f-b8ad-d7a8ead392a8#ref=rss"
   ],
   "content_hashes": [
-    "cd6966e55115930222390cb935c3dfba",
-    "83e56cc2bfde9418b4536067b1838d0c",
     "10aba7d25ab9dac61873df5daa782642",
     "af2113eaa61d92ad42e744b03f40944a",
     "8c17fb5fb29c4589e4d9d13e59d3a415",
@@ -2001,11 +1999,11 @@
     "e71a0f965e5f8d3103baf5aed8c009dd",
     "185de19244015a2effe9aea15180a255",
     "bfb7b66fd987cf8445df1ffa2c444f88",
-    "7512814ece98bd5239711665b4b7e49c"
+    "7512814ece98bd5239711665b4b7e49c",
+    "9c8917167a8edf43813c45c2fd7788a9",
+    "def1d0c3c5a7be2843c273f058ec0543"
   ],
   "titles": [
-    "Klimakrise - Bundesregierung will CO2-Speicherung unter dem Meer erlauben",
-    "Urlaub - Sommerferien sollen aus Sicht des Lehrerverbands frühestens ab Juli beginnen",
     "Milliardenschwerer Neubau - Indiens Premierminister Modi eröffnet neuen Flughafen in Mumbai",
     "Messerangriff auf Iris Stalzer - Neue Bürgermeisterin von Herdecke außer Lebensgefahr - Adoptivtochter unter Tatverdacht",
     "ÖPNV - Zahl der Fahrgäste im Nahverkehr trotz Deutschlandticket rückläufig",
@@ -3003,11 +3001,11 @@
     "Karibik - Erste Hilfsmaßnahmen für die von Hurrikan \"Melissa\" betroffenen Gebiete sind angelaufen",
     "Schutz von Frauen - Lettland beschließt Austritt aus Istanbul-Konvention",
     "Reise in den Nahen Osten - Außenminister Wadephul im Libanon - Gespräche über Hisbollah erwartet",
-    "Kinderbetreuung - Aufgrund von sinkenden Geburtenraten sind auch die Zahlen der betreuten Kinder rückläufig"
+    "Kinderbetreuung - Aufgrund von sinkenden Geburtenraten sind auch die Zahlen der betreuten Kinder rückläufig",
+    "Seltene Erden - Gespräche mit Vertretern aus Peking in Brüssel begonnen",
+    "Frankfurt am Main: Anklage gegen acht Männer nach tödlichen Schüssen im Hauptbahnhof"
   ],
   "hashes": [
-    "d4ccaef1da7dab9a1258731e69715e91",
-    "d8aa7b6db42e8c30a62c3b29260a772e",
     "f2f05555f7b4a0f501d517dba62f8761",
     "d67c27422e325b8749ecef5608200583",
     "02a38ec08ae10f9fb5a45712cd696117",
@@ -4005,6 +4003,8 @@
     "087db7f16db9115b4a76105e5278f2d1",
     "fe28d0cba938c803fbc8fd14c6bceb23",
     "18b8a10d7525d890d445d53356e5a227",
-    "52775fbbfa61fdaa50258d1236c713df"
+    "52775fbbfa61fdaa50258d1236c713df",
+    "90871e87924699b46066cd326974e3bb",
+    "a8f6aabd4f14d870848e741eca940abd"
   ]
 }
