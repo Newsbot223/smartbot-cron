@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-premier-in-48-stunden-lecornu-praesentiert-ergebnisse-seiner-beratungen-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsverbaende-zufrieden-mit-einigung-bei-buergergeld-und-verkehr-100.html",
     "https://www.deutschlandfunk.de/schweineleber-in-lebenden-menschen-transplantiert-100.html",
     "https://www.deutschlandfunk.de/zur-gaza-einigung-interview-simon-wolfgang-fuchs-universitaet-jerusalem-100.html",
     "https://www.faz.net/aktuell/politik/inland/dobrindt-abschiebefluege-nach-afghanistan-weit-fortgeschritten-accg-110723666.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kanadas-premierminister-bittet-trump-um-entschuldigung-fuer-werbeclip-gegen-us-zoelle-100.html",
     "https://www.deutschlandfunk.de/vizepraesident-des-zentralrats-der-juden-protestiert-gegen-genozid-aussage-in-evangelischer-predigt-102.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-den-menschen-in-der-region-hoffnung-geben-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-drei-aus-gazastreifen-uebergebene-leichen-sind-nicht-die-von-geiseln-102.html"
+    "https://www.deutschlandfunk.de/israelische-armee-drei-aus-gazastreifen-uebergebene-leichen-sind-nicht-die-von-geiseln-102.html",
+    "https://www.deutschlandfunk.de/bundesnetzagentur-droht-der-deutschen-post-mit-geldstrafe-102.html",
+    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-massengedraenge-vor-tempel-100.html"
   ],
   "content_hashes": [
-    "aab4abee9bbe00e375f68ec63932391f",
-    "bf509df2aef6084e7575bf5e88ca09ca",
     "d764c6bec6108f5de273fde8eacf8bad",
     "ba885891e1ab0c4e37cfab7409ba5584",
     "b753367713522d1cd04a07ec25d37316",
@@ -2001,11 +1999,11 @@
     "6a17d776d9e1cb65284458fe93fa955d",
     "34faef56e3d0ebb31c90354187a4b53a",
     "158410afbf6c8e9f572b423644980a6c",
-    "2d90b3c285287fc23dd0e78143dd6eba"
+    "2d90b3c285287fc23dd0e78143dd6eba",
+    "ed7620f45a90e4e3502b982d0e850d86",
+    "978ca081b48924a0a5f091f31728cbd2"
   ],
   "titles": [
-    "Krise in Frankreich - Ex-Premier Lecornu zeigt sich verhalten optimistisch",
-    "Koalitionsausschuss - Wirtschaftsverbände zufrieden mit Einigung bei Bürgergeld und Verkehr",
     "Wissenschaft - Schweineleber in lebenden Menschen transplantiert",
     "Gaza-Einigung - Nahost-Experte Fuchs erwartet baldige Rückkehr der Geiseln",
     "Afghanische Straftäter: Dobrindt: Gespräche über Abschiebeflüge „weit fortgeschritten“",
@@ -3003,11 +3001,11 @@
     "Handelskonflikt - Kanadas Premierminister bittet Trump um Entschuldigung für Werbeclip gegen US-Zölle",
     "Eklat in Jerusalem - Vizepräsident des Zentralrats der Juden protestiert gegen Genozid-Aussage in evangelischer Predigt",
     "Nahostkonflikt - Bundesaußenminister Wadephul: Den Menschen in der Region Hoffnung geben",
-    "Nahost - Israelische Armee: Drei aus Gazastreifen übergebene Leichen sind nicht die von Geiseln"
+    "Nahost - Israelische Armee: Drei aus Gazastreifen übergebene Leichen sind nicht die von Geiseln",
+    "Zehntausende Beschwerden - Bundesnetzagentur droht der Deutschen Post mit Geldstrafe",
+    "Indien - Mindestens neun Tote bei Massengedränge vor Tempel"
   ],
   "hashes": [
-    "d2104be7943c88c27af0f0e9ef9b93ca",
-    "0954d203c3f8195c2041ddc3205ec088",
     "d5ecbba9018bf531688913916aab25d4",
     "76ea26ded39c6287e2f990737dd68fe6",
     "7b60f115ec7d339a32cc391e8c5825b7",
@@ -4005,6 +4003,8 @@
     "85c6f7834bcae56a144ba5006d7fbb1b",
     "87a4252d926f32a1f31c24ab628be94b",
     "c9c160dfd80e70a77790802929ba28c1",
-    "9e5ab5d8fa9b54fef2ca7058b7d38452"
+    "9e5ab5d8fa9b54fef2ca7058b7d38452",
+    "65b80dd6582425304f1bbb4fcb058f1c",
+    "b2985a44ab3b0c2ac8709f705ae4a79f"
   ]
 }
