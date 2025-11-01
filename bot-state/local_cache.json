@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aenderungen-fuer-alltaegliche-bankgeschaefte-im-euroraum-in-kraft-getreten-100.html",
-    "https://www.deutschlandfunk.de/interview-der-woche-carsten-spohr-100.html",
     "https://www.deutschlandfunk.de/lufthansa-chef-spohr-deutschland-darf-sich-nicht-lahmlegen-lassen-100.html",
     "https://www.deutschlandfunk.de/gaza-friedensverhandlungen-in-sharm-el-sheikh-aktueller-stand-der-gespraeche-100.html",
     "https://www.deutschlandfunk.de/merz-union-und-spd-einig-bei-den-themen-buergergeld-und-verkehr-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hauptstadtflughafen-voruebergehend-gesperrt-104.html",
     "https://www.deutschlandfunk.de/drei-weitere-leichen-aus-dem-gazastreifen-uebergeben-102.html",
     "https://www.deutschlandfunk.de/russland-berichtet-ueber-ukrainische-drohnenangriffe-104.html",
-    "https://www.deutschlandfunk.de/hebammen-klagen-ueber-schlechtere-bezahlung-102.html"
+    "https://www.deutschlandfunk.de/hebammen-klagen-ueber-schlechtere-bezahlung-102.html",
+    "https://www.deutschlandfunk.de/queer-beauftragte-koch-sieht-selbstbestimmungsgesetz-als-erfolg-100.html",
+    "https://www.deutschlandfunk.de/china-deutet-einlenken-im-streit-um-nexperia-an-102.html"
   ],
   "content_hashes": [
-    "da668a76a4c86e386d76eb5c5253e431",
-    "97708aebfcaed4080891624e6628497e",
     "0afbad10cbac0109a7e92f3a74ea70b8",
     "7435572cb6a487fb58983a90a95b0059",
     "9e74b88bbbc0bb7e359bbc5b171cd7b7",
@@ -2001,11 +1999,11 @@
     "2d22a955175bc5bf979e77c441b8697a",
     "9c08c393eeb9c6d9a10ba797f7042dbf",
     "bf2155a5058acde8251beffc1131c668",
-    "1133f774ef51d0371bdd4830bf0fc227"
+    "1133f774ef51d0371bdd4830bf0fc227",
+    "8e238c1e3807463b17b6c09e174647e9",
+    "4e3a2ee7f338d48f81819c13a7eaa79c"
   ],
   "titles": [
-    "Echtzeitüberweisungen - Änderungen für alltägliche Bankgeschäfte im Euroraum in Kraft getreten",
-    "Lufthansa-Chef - Deutschland darf sich von Drohnen nicht lahmlegen lassen",
     "Drohnenflüge - Lufthansa-Chef Spohr: \"Deutschland darf sich nicht lahmlegen lassen\"",
     "Nahost - Durchbruch in den Gesprächen zur Beendigung des Gaza-Kriegs",
     "Koalitionsausschuss - Merz: Union und SPD einig bei den Themen Bürgergeld und Verkehr",
@@ -3003,11 +3001,11 @@
     "Drohnen-Sichtung - Hauptstadtflughafen vorübergehend gesperrt",
     "Nahost - Drei weitere Leichen aus dem Gazastreifen übergeben",
     "Ukraine - Russland berichtet über ukrainische Drohnenangriffe",
-    "Gesundheitswesen - Hebammen klagen über schlechtere Bezahlung"
+    "Gesundheitswesen - Hebammen klagen über schlechtere Bezahlung",
+    "Ein Jahr in Kraft - Queer-Beauftragte Koch sieht Selbstbestimmungsgesetz als Erfolg",
+    "Chipkrise - China deutet Einlenken im Streit um Nexperia an"
   ],
   "hashes": [
-    "c50dec93c12b609c9fba911effc0b656",
-    "ec506c63fa83ac78051277ef794aca3a",
     "1fc626f9081fdb0c7f38f469f9a81017",
     "4edcd1482b039d9c5348dfa1be121cea",
     "11ce5c12b7007a774a195adf68e2a609",
@@ -4005,6 +4003,8 @@
     "8da90523d7eaf531090c65cc64aa2753",
     "8b77e84ee053952f690a669f1c4ad9d0",
     "b40c701f069ef96a2be752be6364007a",
-    "4e59592b59d816f9eecf3cf0828ccf89"
+    "4e59592b59d816f9eecf3cf0828ccf89",
+    "86d00e69a1f0b399987ec3659195fb3f",
+    "5b895a3efe1bf326d5737d01aa3825fe"
   ]
 }
