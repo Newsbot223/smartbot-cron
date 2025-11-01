@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verurteilter-tadschike-darf-sofort-abgeschoben-werden-100.html",
-    "https://www.deutschlandfunk.de/praesident-rajoelina-lehnt-ruecktritt-ab-100.html",
-    "https://www.deutschlandfunk.de/eu-parlament-lehnt-zwei-misstrauensantraege-gegen-eu-kommission-ab-102.html",
-    "https://www.faz.net/aktuell/politik/inland/buergergeldeinigung-wenn-genossen-ueber-ihre-schatten-springen-accg-110723732.html",
-    "https://www.deutschlandfunk.de/gesetzentwurf-fuer-schnelleres-bauen-beschlossen-100.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-und-autogipfel-100.html",
     "https://www.deutschlandfunk.de/durchbruch-bei-verhandlungen-zwischen-israel-und-hamas-102.html",
     "https://www.aljazeera.com/video/quotable/2025/10/9/uk-and-india-weigh-trade-gains-against-migration-politics?traffic_source=rss",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-massengedraenge-vor-tempel-100.html",
     "https://www.deutschlandfunk.de/rauchverbot-fuer-junge-generationen-auf-den-malediven-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/die-neretva-in-bosnien-und-herzegowina-wie-ein-fluss-verbindet-und-trennt-100.html",
-    "https://www.deutschlandfunk.de/nationalversammlung-stimmt-gegen-vermoegenssteuer-100.html"
+    "https://www.deutschlandfunk.de/nationalversammlung-stimmt-gegen-vermoegenssteuer-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-sieht-positive-signale-chinas-100.html",
+    "https://www.deutschlandfunk.de/pflegeloehne-steigen-kosten-fuer-heimbewohner-auch-102.html",
+    "https://www.deutschlandfunk.de/berliner-polizei-ermittelt-nach-drohnen-sichtung-100.html",
+    "https://www.deutschlandfunk.de/deutschland-grossbritannien-und-jordanien-fordern-waffenruhe-im-sudan-100.html",
+    "https://www.deutschlandfunk.de/papst-erklaert-heiligen-john-henry-newman-zum-kirchenlehrer-100.html"
   ],
   "content_hashes": [
-    "48aaea2792b9bc7946d326744a8ff089",
-    "8febf4f335e9ae711956792708dba3d8",
-    "ca56d523e4703158e8c28c04f8c88475",
-    "2ec008f5f1413b62607d2a63134b30a7",
-    "8d7438f9d1b825d94eab0ed70bdf08f0",
     "813306ff248a622f17ca0a9f3f4e4545",
     "7fe20c0ea7c3c5e9d1a6980dda7d8405",
     "b7a74ffefe33fbffbe2e54e27ff12879",
@@ -2001,14 +1996,14 @@
     "978ca081b48924a0a5f091f31728cbd2",
     "af2b67c349606afa537a61ebfa889126",
     "197d770cc9531776d2deb672fd2e23fe",
-    "3e4cbf34df1ede07677b9ee920c9df4d"
+    "3e4cbf34df1ede07677b9ee920c9df4d",
+    "8061c4fa9667b5096f532c86ecdf44f6",
+    "b8798729911e5167204a9f440f4daf07",
+    "2a6a25978a4286a91593b2dbee5929cb",
+    "6c98fcf27723f8504fb2e08f81c612b9",
+    "29d75856e6a1b96e2f1ca4dc10140b1f"
   ],
   "titles": [
-    "Urteil - Verurteilter Tadschike darf sofort abgeschoben werden",
-    "Madagaskar - Präsident Rajoelina lehnt Rücktritt ab",
-    "Straßburg - EU-Parlament lehnt zwei Misstrauensanträge gegen EU-Kommission ab",
-    "Bürgergeld wird abgeschafft: Wenn Genossen über ihre Schatten springen",
-    "Bundestag - Gesetzentwurf für schnelleres Bauen beschlossen",
     "Bundesregierung - Koalition beschließt Aktivrente und Reform des Bürgergelds",
     "Nahost-Krieg - Erleichterung in arabischen Staaten über Gaza-Einigung",
     "UK and India Weigh Trade Gains Against Migration Politics",
@@ -3003,14 +2998,14 @@
     "Indien - Mindestens neun Tote bei Massengedränge vor Tempel",
     "Ab Jahrgang 2007 - Rauchverbot für junge Generationen auf den Malediven in Kraft getreten",
     "Der Wildfluss Neretva - Ein bedrohtes Naturparadies verbindet und trennt",
-    "Frankreich - Nationalversammlung stimmt gegen Vermögenssteuer"
+    "Frankreich - Nationalversammlung stimmt gegen Vermögenssteuer",
+    "Streit um Nexperia - Bundesregierung sieht positive Signale Chinas",
+    "GKV-Spitzenverband - Pflegelöhne steigen - Kosten für Heimbewohner auch",
+    "Flughafen BER - Berliner Polizei ermittelt nach Drohnen-Sichtung",
+    "Sicherheitskonferenz - Deutschland, Großbritannien und Jordanien fordern Waffenruhe im Sudan",
+    "Katholische Bildung - Papst erklärt Heiligen John Henry Newman zum Kirchenlehrer"
   ],
   "hashes": [
-    "4370c265f24c4f42727b0d97314fb7e9",
-    "c3de5f5adfd490c629eea44b83109867",
-    "18df16abae6cc30ab6ef89a26872f19d",
-    "b25554ae57ee398f2114444f52eebdd7",
-    "f69767c08636de6e079b868303a54ab0",
     "13642395b8b16d5335de1874fabc5a25",
     "d1bdaf82a57ddb27a3d7151ae3036fff",
     "9921aa4f352146c0192bd9b5b205262b",
@@ -4005,6 +4000,11 @@
     "b2985a44ab3b0c2ac8709f705ae4a79f",
     "97b6d1cbaef25117f94486e6bb0b25fb",
     "03dd56475cb53590735b70a57188c0b9",
-    "5eb49e50bcc35db0a5d5fe8b924e9d55"
+    "5eb49e50bcc35db0a5d5fe8b924e9d55",
+    "74028da301109aa8f10de7edcaa9ff82",
+    "89aab714a2c105910163655ed0e6dc2a",
+    "1012697f0558c49f335a69df799060d9",
+    "c40e4d1654fb9dbf98ba1b59ef191de6",
+    "e278e507864ac90fb6184f74aca05a42"
   ]
 }
