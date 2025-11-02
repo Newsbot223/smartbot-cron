@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestarifttreuegesetz-100.html",
-    "https://www.deutschlandfunk.de/neuer-bahnhof-hamburg-altona-wird-zwei-jahre-spaeter-fertig-als-geplant-100.html",
     "https://www.deutschlandfunk.de/merz-bis-fruehjahr-2026-in-kraft-100.html",
     "https://www.deutschlandfunk.de/deutsche-bahn-verzichtet-auf-preiserhoehung-im-fernverkehr-100.html",
     "https://www.deutschlandfunk.de/wahl-von-neuer-regierungschefin-nach-koalitionsbruch-ungewiss-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/staatsanwaltschaft-berichtet-ueber-anschlagsplaene-und-festnahme-102.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-syrer-wegen-anschlagsverdachts-fest-100.html",
     "https://www.faz.net/aktuell/politik/inland/bsw-auf-der-suche-nach-einem-neuanfang-accg-110761575.html",
-    "https://www.deutschlandfunk.de/deutscher-karikaturenpreis-geht-an-piero-masztalerz-104.html"
+    "https://www.deutschlandfunk.de/deutscher-karikaturenpreis-geht-an-piero-masztalerz-104.html",
+    "https://www.deutschlandfunk.de/praesident-peseschkian-kuendigt-wiederaufbau-zerstoerter-atomanlagen-an-102.html",
+    "https://www.deutschlandfunk.de/britische-polizei-sieht-keinen-hinweis-auf-terroristisches-motiv-100.html"
   ],
   "content_hashes": [
-    "dd3833e3faa0ca8032f65ee7e5252801",
-    "2a31ac16124dc0a96689e7d278ea4f33",
     "cf748fe792df62f5c2e718d91a089c7f",
     "489a195d3eca6d8878a4f6da65f73a2b",
     "34e86dd6fff8db7860c32f8522da1ba1",
@@ -2001,11 +1999,11 @@
     "0a1db668b27a0f0426fa797c504cd723",
     "112c66ff7a990257a5c7fc808e714993",
     "ce4fd968c6a7f127b34f0f6e3864b959",
-    "1db48a0b9ea0ebef02119ff933e3c0e8"
+    "1db48a0b9ea0ebef02119ff933e3c0e8",
+    "4f7ee924554cb61b94fc921dcfd72483",
+    "d8df24d94bc9ce7bfd199045ad424e0d"
   ],
   "titles": [
-    "Arbeitsmarkt - Bundestag berät über das Bundestarifttreuegesetz",
-    "Bahnverkehr - Neuer Bahnhof Hamburg-Altona wird zwei Jahre später fertig als geplant",
     "Bürgergeld-Reform - Merz: \"Bis Frühjahr 2026 in Kraft\"",
     "Fahrplanwechsel im Dezember - Deutsche Bahn verzichtet auf Preiserhöhung im Fernverkehr",
     "Japan - Wahl von neuer Regierungschefin nach Koalitionsbruch ungewiss",
@@ -3003,11 +3001,11 @@
     "Berlin - Staatsanwaltschaft berichtet über Anschlagspläne und Festnahme",
     "Berlin - Polizei nimmt Syrer wegen Anschlagsverdachts fest",
     "Klausurtagung: BSW auf der Suche nach einem Neuanfang",
-    "\"Geflügelter Bleistift\" - Deutscher Karikaturenpreis geht an Piero Masztalerz"
+    "\"Geflügelter Bleistift\" - Deutscher Karikaturenpreis geht an Piero Masztalerz",
+    "Iran - Präsident Peseschkian kündigt Wiederaufbau zerstörter Atomanlagen an",
+    "Nach Messerangriff in Zug - Britische Polizei sieht keinen Hinweis auf terroristisches Motiv"
   ],
   "hashes": [
-    "1943415b401bdcc43c1926137fd9439c",
-    "5b150c743002d2b93ee7f6cd50d3580c",
     "2fe51fa45bfa1d8d95a0e2f6ed6470e0",
     "ae7e0980b10e04cf3515ff8332a2d91c",
     "2c490ad734cc5e29704c19fe771b789d",
@@ -4005,6 +4003,8 @@
     "ffa8d93fc2fb76c24588c798eade033b",
     "f390e069904f15d04502a24efe0cd5ff",
     "2f72d4f00b23de4bd0c7f66b1288c949",
-    "c8b36953d8507eb20c3e3f09d75f11c7"
+    "c8b36953d8507eb20c3e3f09d75f11c7",
+    "3c9f8946d58e480137d21a492c4324e1",
+    "a7e33c1e5109025bb707c6ec36197591"
   ]
 }
