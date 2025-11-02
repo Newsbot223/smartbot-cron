@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/belgien-will-haeftlinge-im-kosovo-unterbringen-100.html",
-    "https://www.deutschlandfunk.de/dgb-vorsitzende-fahimi-kritisiert-ausnahmen-fuer-bundeswehr-100.html",
     "https://www.deutschlandfunk.de/merz-keine-militaerische-beteiligung-aber-umfassende-hilfe-102.html",
     "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestarifttreuegesetz-100.html",
     "https://www.deutschlandfunk.de/neuer-bahnhof-hamburg-altona-wird-zwei-jahre-spaeter-fertig-als-geplant-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mehr-rechtsextremistische-vorfaelle-an-schulen-in-baden-wuerttemberg-104.html",
     "https://www.deutschlandfunk.de/festnahme-wegen-planung-eines-anschlags-102.html",
     "https://www.faz.net/aktuell/politik/inland/mann-wegen-anschlagsplaenen-in-berlin-festgenommen-accg-110761379.html",
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-berichtet-ueber-anschlagsplaene-und-festnahme-102.html"
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-berichtet-ueber-anschlagsplaene-und-festnahme-102.html",
+    "https://www.deutschlandfunk.de/polizei-nimmt-syrer-wegen-anschlagsverdachts-fest-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bsw-auf-der-suche-nach-einem-neuanfang-accg-110761575.html"
   ],
   "content_hashes": [
-    "a73936ca2ff4c36055c2a1e2e823776a",
-    "c7ea2c91aba3e9fd4248dc33db94d251",
     "ca01e992ea9026334d7f4ebf64b3be91",
     "dd3833e3faa0ca8032f65ee7e5252801",
     "2a31ac16124dc0a96689e7d278ea4f33",
@@ -2001,11 +1999,11 @@
     "f3794247adcde155c3f3df224915bb36",
     "161d21058c916d0c444d2e058659d80e",
     "420eb7873a8606a9cf43ecc8feaa87b4",
-    "0a1db668b27a0f0426fa797c504cd723"
+    "0a1db668b27a0f0426fa797c504cd723",
+    "112c66ff7a990257a5c7fc808e714993",
+    "ce4fd968c6a7f127b34f0f6e3864b959"
   ],
   "titles": [
-    "Mangel an Gefängnissen - Belgien will Häftlinge im Kosovo unterbringen",
-    "Tariftreuegesetz im Bundestag - DGB-Vorsitzende Fahimi kritisiert Ausnahmen für Bundeswehr",
     "Gaza-Plan - Merz: Keine militärische Beteiligung, aber umfassende Hilfe",
     "Arbeitsmarkt - Bundestag berät über das Bundestarifttreuegesetz",
     "Bahnverkehr - Neuer Bahnhof Hamburg-Altona wird zwei Jahre später fertig als geplant",
@@ -3003,11 +3001,11 @@
     "Hakenkreuz und Hitlergruß - Mehr rechtsextremistische Vorfälle an Schulen in Baden-Württemberg",
     "Berlin - Festnahme wegen Planung eines Anschlags",
     "Berlin: Mann wegen Anschlagsplänen festgenommen",
-    "Berlin - Staatsanwaltschaft berichtet über Anschlagspläne und Festnahme"
+    "Berlin - Staatsanwaltschaft berichtet über Anschlagspläne und Festnahme",
+    "Berlin - Polizei nimmt Syrer wegen Anschlagsverdachts fest",
+    "Klausurtagung: BSW auf der Suche nach einem Neuanfang"
   ],
   "hashes": [
-    "648f112dbcaed425b787871342a1d757",
-    "a8922ae1434517d7b460c25bf46bee26",
     "3eb1da29e74fbcb54374235e39da0e1c",
     "1943415b401bdcc43c1926137fd9439c",
     "5b150c743002d2b93ee7f6cd50d3580c",
@@ -4005,6 +4003,8 @@
     "be06f2983e5c7a846ce9221f5ea29f73",
     "d97bc1f9cff5852c3ff53635cc1bf9e7",
     "f5759ee1adbe3e7a3f83b372103347ba",
-    "ffa8d93fc2fb76c24588c798eade033b"
+    "ffa8d93fc2fb76c24588c798eade033b",
+    "f390e069904f15d04502a24efe0cd5ff",
+    "2f72d4f00b23de4bd0c7f66b1288c949"
   ]
 }
