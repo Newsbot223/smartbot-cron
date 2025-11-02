@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/koalition-zu-buergergeld-und-rente-nicht-die-harten-bretter-110724402.html",
-    "https://www.deutschlandfunk.de/500-nationalgardisten-nach-armeeangaben-im-grossraum-chicago-im-einsatz-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-klingbeil-wollen-andere-position-beim-verbrenner-aus-faz-110093143.html",
     "https://www.deutschlandfunk.de/bundestag-hebt-immunitaet-der-afd-abgeordneten-brandner-und-moosdorf-auf-100.html",
     "https://www.deutschlandfunk.de/grundstein-fuer-freiheits-und-einheitsdenkmal-gelegt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/messerangriff-in-zug-zehn-menschen-zum-teil-lebensbedrohlich-verletzt-100.html",
     "https://www.deutschlandfunk.de/die-gesetzlichen-krankenkassen-warnen-vor-weiter-steigenden-beitraegen-wegen-eines-zusaetzlichen-fin-100.html",
     "https://www.deutschlandfunk.de/steinmeier-bilaterale-gespraeche-mit-praesident-al-sisi-und-anderen-staats-und-regierungschefs-in-ka-100.html",
-    "https://www.deutschlandfunk.de/zahl-russischer-raketenangriffe-im-oktober-auf-hoechstem-stand-seit-100.html"
+    "https://www.deutschlandfunk.de/zahl-russischer-raketenangriffe-im-oktober-auf-hoechstem-stand-seit-100.html",
+    "https://www.deutschlandfunk.de/vorwurf-der-toetung-von-christen-trump-droht-nigeria-mit-us-militaereinsatz-100.html",
+    "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html"
   ],
   "content_hashes": [
-    "f3f93d789aab7dec071861a655b85683",
-    "c373f5594269c8fef019192f72f20349",
     "263f0618ed8e330ff8351ccc075fef6d",
     "26b1eed002286d52e86712dbefad7b24",
     "9ffcc546e3203c3acb20cfacab577d9b",
@@ -2001,11 +1999,11 @@
     "6269570a024da28c1c663822f2dfa929",
     "29e5674efbd1b2182cf09b312e9cb886",
     "b73e5ffc109df43c5525bbb895e565a7",
-    "f715d41ed2b6f32bc9342ba3138972ba"
+    "f715d41ed2b6f32bc9342ba3138972ba",
+    "5e62381408cfb1befdc2129149e78aad",
+    "03af4d130daf1b1e72b21e3c12aa1084"
   ],
   "titles": [
-    "Koalitionsausschuss: Die Koalition bohrt dicke, aber nicht die harten Bretter",
-    "Illinois - 500 Nationalgardisten nach Armeeangaben im Großraum Chicago im Einsatz",
     "Liveblog Bundespolitik: Klingbeil: Wollen andere Position beim Verbrenner-Aus",
     "Beschluss - Bundestag hebt Immunität der AfD-Abgeordneten Brandner und Moosdorf auf",
     "Leipzig - Grundstein für Freiheits- und Einheitsdenkmal gelegt",
@@ -3003,11 +3001,11 @@
     "Großbritannien - Messerangriff in Zug: Zehn Menschen zum Teil lebensbedrohlich verletzt",
     "Kassenbeiträge - Die gesetzlichen Krankenkassen warnen vor weiter steigenden Beiträgen wegen eines zusätzlichen Finanzbedarfs, trotz Sparpakets",
     "Afrika-Reise - Steinmeier: bilaterale Gespräche mit Präsident al-Sisi und anderen Staats- und Regierungschefs in Kairo",
-    "Ukraine - Zahl russischer Raketenangriffe im Oktober auf höchstem Stand seit 2023"
+    "Ukraine - Zahl russischer Raketenangriffe im Oktober auf höchstem Stand seit 2023",
+    "Afrika - Vorwurf der \"Tötung von Christen\": Trump droht Nigeria mit US-Militäreinsatz",
+    "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington"
   ],
   "hashes": [
-    "5e91a3fb3e05bedd7d27097c7a576568",
-    "215b215e14a2f40dfc009e988dc31fbc",
     "dc6dfc975c88297e041cb9f658af802e",
     "540abcf99e31527725f2fefe101190d2",
     "cce2e1a4f3fdcb321d6cac135c7af112",
@@ -4005,6 +4003,8 @@
     "3cc1a4547dfa28b0ec976ef57dfdefd6",
     "0563d62635bfc56011c84579402d0238",
     "3151658a371b531334ca0b129e36a054",
-    "8421574a042bf8debe11813c902bbc3b"
+    "8421574a042bf8debe11813c902bbc3b",
+    "4e181dfd69dfbb74cca38e67aad0bc84",
+    "14cd57ebf346ea1b0cd4df64435a7107"
   ]
 }
