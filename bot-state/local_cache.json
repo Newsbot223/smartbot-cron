@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-klingbeil-wollen-andere-position-beim-verbrenner-aus-faz-110093143.html",
-    "https://www.deutschlandfunk.de/bundestag-hebt-immunitaet-der-afd-abgeordneten-brandner-und-moosdorf-auf-100.html",
     "https://www.deutschlandfunk.de/grundstein-fuer-freiheits-und-einheitsdenkmal-gelegt-100.html",
     "https://www.deutschlandfunk.de/eu-finanzminister-beraten-ueber-ukraine-hilfe-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/steinmeier-bilaterale-gespraeche-mit-praesident-al-sisi-und-anderen-staats-und-regierungschefs-in-ka-100.html",
     "https://www.deutschlandfunk.de/zahl-russischer-raketenangriffe-im-oktober-auf-hoechstem-stand-seit-100.html",
     "https://www.deutschlandfunk.de/vorwurf-der-toetung-von-christen-trump-droht-nigeria-mit-us-militaereinsatz-100.html",
-    "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html"
+    "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html",
+    "https://www.deutschlandfunk.de/bayern-fordert-bund-laender-gipfel-fuer-gesundheitssystem-104.html",
+    "https://www.faz.net/aktuell/politik/inland/schnitzel-oder-tofu-der-kennzeichnungsstreit-hilft-keinem-accg-110759252.html"
   ],
   "content_hashes": [
-    "263f0618ed8e330ff8351ccc075fef6d",
-    "26b1eed002286d52e86712dbefad7b24",
     "9ffcc546e3203c3acb20cfacab577d9b",
     "6cce5d00277d94b79655bb313de022a3",
     "734516b88e8c0c83ab7dcf49cc32c77a",
@@ -2001,11 +1999,11 @@
     "b73e5ffc109df43c5525bbb895e565a7",
     "f715d41ed2b6f32bc9342ba3138972ba",
     "5e62381408cfb1befdc2129149e78aad",
-    "03af4d130daf1b1e72b21e3c12aa1084"
+    "03af4d130daf1b1e72b21e3c12aa1084",
+    "6d796d3bdc7e3939c5517f291c82a42e",
+    "ec6a9e8f1ef4907b9041c3548cc969f1"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Klingbeil: Wollen andere Position beim Verbrenner-Aus",
-    "Beschluss - Bundestag hebt Immunität der AfD-Abgeordneten Brandner und Moosdorf auf",
     "Leipzig - Grundstein für Freiheits- und Einheitsdenkmal gelegt",
     "Luxemburg - EU-Finanzminister beraten über Ukraine-Hilfe",
     "What impact has the genocide in Gaza had on US-Israeli relations?",
@@ -3003,11 +3001,11 @@
     "Afrika-Reise - Steinmeier: bilaterale Gespräche mit Präsident al-Sisi und anderen Staats- und Regierungschefs in Kairo",
     "Ukraine - Zahl russischer Raketenangriffe im Oktober auf höchstem Stand seit 2023",
     "Afrika - Vorwurf der \"Tötung von Christen\": Trump droht Nigeria mit US-Militäreinsatz",
-    "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington"
+    "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington",
+    "Vorbereitung auf Krisenfall - Bayern fordert Bund-Länder-Gipfel für Gesundheitssystem",
+    "Kennzeichnungsstreit: Diese „Schnitzeljagd“ hilft keinem"
   ],
   "hashes": [
-    "dc6dfc975c88297e041cb9f658af802e",
-    "540abcf99e31527725f2fefe101190d2",
     "cce2e1a4f3fdcb321d6cac135c7af112",
     "905435406204fd716361b1ac669ccd27",
     "56519418f8c89ab03d6943ae52fd3ed8",
@@ -4005,6 +4003,8 @@
     "3151658a371b531334ca0b129e36a054",
     "8421574a042bf8debe11813c902bbc3b",
     "4e181dfd69dfbb74cca38e67aad0bc84",
-    "14cd57ebf346ea1b0cd4df64435a7107"
+    "14cd57ebf346ea1b0cd4df64435a7107",
+    "dac613f59a10484749856ae0ff47a7e6",
+    "ebceb27e1107b2f6364d857df8385b6f"
   ]
 }
