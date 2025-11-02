@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-finanzminister-beraten-ueber-ukraine-hilfe-100.html",
-    "https://www.aljazeera.com/video/inside-story/2025/10/9/what-impact-has-the-genocide-in-gaza-had-on-us-israeli-relations?traffic_source=rss",
     "https://www.deutschlandfunk.de/merz-spaetestens-im-fruehjahr-2026-in-kraft-104.html",
     "https://www.deutschlandfunk.de/traeger-des-friedensnobelpreises-wird-bekanntgegeben-104.html",
     "https://www.deutschlandfunk.de/eu-finanzminister-beraten-ueber-ukraine-hilfen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html",
     "https://www.deutschlandfunk.de/bayern-fordert-bund-laender-gipfel-fuer-gesundheitssystem-104.html",
     "https://www.faz.net/aktuell/politik/inland/schnitzel-oder-tofu-der-kennzeichnungsstreit-hilft-keinem-accg-110759252.html",
-    "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html"
+    "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-verhalten-optimistisch-ueber-lage-im-nahen-osten-100.html",
+    "https://www.deutschlandfunk.de/interview-jung-burkhard-praes-d-deutschen-staedtetages-ob-v-leipzig-spd-100.html"
   ],
   "content_hashes": [
-    "6cce5d00277d94b79655bb313de022a3",
-    "734516b88e8c0c83ab7dcf49cc32c77a",
     "e6ac17ee3937289a4bbe2bc19459e313",
     "215faad9c546ec748f5aa948e719c8e6",
     "36475e95120f2e248373d0fb81a35561",
@@ -2001,11 +1999,11 @@
     "03af4d130daf1b1e72b21e3c12aa1084",
     "6d796d3bdc7e3939c5517f291c82a42e",
     "ec6a9e8f1ef4907b9041c3548cc969f1",
-    "99f5b45108e3b6d4b08521cc457123c8"
+    "99f5b45108e3b6d4b08521cc457123c8",
+    "353e2d675abce0516d64e67de6e3f603",
+    "1fea9504f9734f0fd77f59843bef4d02"
   ],
   "titles": [
-    "Luxemburg - EU-Finanzminister beraten über Ukraine-Hilfe",
-    "What impact has the genocide in Gaza had on US-Israeli relations?",
     "Bürgergeld-Reform - Merz: \"Spätestens im Frühjahr 2026 in Kraft\"",
     "Oslo - Träger des Friedensnobelpreises wird bekanntgegeben",
     "Luxemburg - EU-Finanzminister beraten über Ukraine-Hilfen",
@@ -3003,11 +3001,11 @@
     "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington",
     "Vorbereitung auf Krisenfall - Bayern fordert Bund-Länder-Gipfel für Gesundheitssystem",
     "Kennzeichnungsstreit: Diese „Schnitzeljagd“ hilft keinem",
-    "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an"
+    "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an",
+    "Afrika-Reise - Steinmeier verhalten optimistisch über Lage im Nahen Osten",
+    "Deutscher Städtetag - Burkhard Jung: \"Der Sozialstaat muss reformiert werden“"
   ],
   "hashes": [
-    "905435406204fd716361b1ac669ccd27",
-    "56519418f8c89ab03d6943ae52fd3ed8",
     "095f4da1aec2d476d5b89c01d904f240",
     "ddc6425d92fd3a6af499680d3bd24869",
     "35565024ec4a5ff553ae9f681d6150e4",
@@ -4005,6 +4003,8 @@
     "14cd57ebf346ea1b0cd4df64435a7107",
     "dac613f59a10484749856ae0ff47a7e6",
     "ebceb27e1107b2f6364d857df8385b6f",
-    "03cb95b462af4dfc5429f391c4cc5530"
+    "03cb95b462af4dfc5429f391c4cc5530",
+    "cba2180ea750122a6e8f97254026888d",
+    "85f88f34fdfe6c628d7aec5163e2d0a9"
   ]
 }
