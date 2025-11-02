@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/traeger-des-friedensnobelpreises-wird-bekanntgegeben-104.html",
-    "https://www.deutschlandfunk.de/eu-finanzminister-beraten-ueber-ukraine-hilfen-100.html",
-    "https://www.deutschlandfunk.de/gericht-stoppt-einsatz-der-nationalgarde-in-chicago-100.html",
-    "https://www.deutschlandfunk.de/immunitaet-der-afd-abgeordneten-brandner-und-moosdorf-aufgehoben-100.html",
-    "https://www.deutschlandfunk.de/die-gaza-friedensverhandlungen-und-die-usa-100.html",
     "https://www.aljazeera.com/news/2025/10/10/strong-magnitude-7-6-earthquake-strikes-off-southern-philippines?traffic_source=rss",
     "https://www.deutschlandfunk.de/praesident-macron-will-ueber-neuen-premier-entscheiden-102.html",
     "https://www.deutschlandfunk.de/deutscher-kulturrat-spricht-sich-gegen-gender-verbot-aus-102.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html",
     "https://www.deutschlandfunk.de/steinmeier-verhalten-optimistisch-ueber-lage-im-nahen-osten-100.html",
     "https://www.deutschlandfunk.de/interview-jung-burkhard-praes-d-deutschen-staedtetages-ob-v-leipzig-spd-100.html",
-    "https://www.deutschlandfunk.de/usa-und-vietnam-wollen-bei-ruestung-und-sicherheit-zusammenarbeiten-100.html"
+    "https://www.deutschlandfunk.de/usa-und-vietnam-wollen-bei-ruestung-und-sicherheit-zusammenarbeiten-100.html",
+    "https://www.deutschlandfunk.de/nach-messerangriff-in-zug-polizei-sieht-keinen-hinweis-auf-terrorismus-100.html",
+    "https://www.deutschlandfunk.de/tote-nach-russischen-angriffen-ukrainische-drohnen-treffen-oelterminal-in-russland-100.html",
+    "https://www.deutschlandfunk.de/nexperia-will-versorgung-der-kunden-sicherstellen-100.html",
+    "https://www.deutschlandfunk.de/letzte-vermisste-bergsteiger-aus-deutschland-tot-geborgen-100.html",
+    "https://www.deutschlandfunk.de/jedes-dritte-unternehmen-will-2026-stellen-abbauen-100.html"
   ],
   "content_hashes": [
-    "215faad9c546ec748f5aa948e719c8e6",
-    "36475e95120f2e248373d0fb81a35561",
-    "4670d2c716acdb3052483b8b2aab5d29",
-    "37896c91e89f0c3ef9aac8f0816f8f8b",
-    "3eef83e9b0b51c76baf413f2f722b3ee",
     "817380c6e94b72fda4d6006df1de944a",
     "f5da1fb6332de690c0cab1d4e382b95e",
     "73705e6b07727e63cb8d284e017a11e4",
@@ -2001,14 +1996,14 @@
     "99f5b45108e3b6d4b08521cc457123c8",
     "353e2d675abce0516d64e67de6e3f603",
     "1fea9504f9734f0fd77f59843bef4d02",
-    "bcbc2548175fb60d2aee7446c21aad27"
+    "bcbc2548175fb60d2aee7446c21aad27",
+    "a71609c3ced14fa17a6b441072fe7cad",
+    "2c57485a3cd80b0ca6b9ed7a04ddd6af",
+    "5a7aaa4a780c69b6d6c35a842d3707b0",
+    "810c650aa5e999725d95a4386cc06477",
+    "8f0f537fcd5e3626d172ecc49aec3620"
   ],
   "titles": [
-    "Oslo - Träger des Friedensnobelpreises wird bekanntgegeben",
-    "Luxemburg - EU-Finanzminister beraten über Ukraine-Hilfen",
-    "USA - Gericht stoppt Einsatz der Nationalgarde in Chicago",
-    "Bundestag - Immunität der AfD-Abgeordneten Brandner und Moosdorf aufgehoben",
-    "Einigung im Gaza-Krieg - USA wollen 200 Soldaten entsenden",
     "Tsunami threat passes for Philippines, Indonesia after 7.6 quake hits Davao",
     "Frankreich - Präsident Macron will über neuen Premier entscheiden",
     "Sprachkonventionen - Deutscher Kulturrat spricht sich gegen Gender-Verbot aus",
@@ -3003,14 +2998,14 @@
     "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an",
     "Afrika-Reise - Steinmeier verhalten optimistisch über Lage im Nahen Osten",
     "Deutscher Städtetag - Burkhard Jung: \"Der Sozialstaat muss reformiert werden“",
-    "Verteidigungsminister Hegseth in Hanoi - USA und Vietnam wollen bei Rüstung und Sicherheit zusammenarbeiten"
+    "Verteidigungsminister Hegseth in Hanoi - USA und Vietnam wollen bei Rüstung und Sicherheit zusammenarbeiten",
+    "Großbritannien - Nach Messerangriff in Zug: Polizei sieht keinen Hinweis auf Terrorismus",
+    "Ukraine-Krieg - Tote nach russischen Angriffen - Ukrainische Drohnen treffen Ölterminal in Russland",
+    "Chip-Krise - Nexperia will Versorgung der Kunden sicherstellen",
+    "Lawinenunglück in Südtirol - Letzte vermisste Bergsteiger aus Deutschland tot geborgen",
+    "IW-Umfrage - Jedes dritte Unternehmen will 2026 Stellen abbauen"
   ],
   "hashes": [
-    "ddc6425d92fd3a6af499680d3bd24869",
-    "35565024ec4a5ff553ae9f681d6150e4",
-    "5391cf8bcfecb985e36cbaa8240ed05e",
-    "768c3d7d09a72854d7733ba85d497386",
-    "b16c5bb9f69e9f4a091fca1be807e105",
     "6d1b2727a6d63c187876fca3ff0de3ab",
     "4cf5a527d6ea2f67db645b4d3cd8795e",
     "ba9e218960d8c8f2820a7e05edce82e9",
@@ -4005,6 +4000,11 @@
     "03cb95b462af4dfc5429f391c4cc5530",
     "cba2180ea750122a6e8f97254026888d",
     "85f88f34fdfe6c628d7aec5163e2d0a9",
-    "d59128da2e159cece1f092bb79ee1e40"
+    "d59128da2e159cece1f092bb79ee1e40",
+    "bc5c58d0441764c6f7ae483f26239714",
+    "a1e844adac6286e5f70c1ba660e3219b",
+    "e84f47d15b2e4636a75072dc4d358e9d",
+    "1e48a16d23a82d7d9c4b0c2767b34de7",
+    "85072bd26b67f2a1b94b4b28ee8e7b38"
   ]
 }
