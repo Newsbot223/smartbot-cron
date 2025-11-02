@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tarifabschluss-fuer-ostdeutsche-stahlindustrie-erzielt-100.html",
-    "https://www.deutschlandfunk.de/drittwaermster-september-seit-beginn-der-aufzeichnungen-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-verlangt-rasche-humanitaere-hilfe-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/bundesforschungseinrichtung-wird-nicht-in-erfurt-angesiedelt-102.html",
     "https://www.faz.net/aktuell/politik/inland/koalition-zu-buergergeld-und-rente-nicht-die-harten-bretter-110724402.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polizei-gibt-entwarnung-nach-knall-in-einkaufszentrum-in-frankfurt-am-main-100.html",
     "https://www.deutschlandfunk.de/drei-deutsche-bergsteiger-getoetet-100.html",
     "https://www.deutschlandfunk.de/trump-droht-nigeria-mit-us-militaereinsatz-100.html",
-    "https://www.deutschlandfunk.de/mehrere-menschen-in-zug-durch-stiche-verletzt-102.html"
+    "https://www.deutschlandfunk.de/mehrere-menschen-in-zug-durch-stiche-verletzt-102.html",
+    "https://www.deutschlandfunk.de/messerangriff-in-zug-zehn-menschen-zum-teil-lebensbedrohlich-verletzt-100.html",
+    "https://www.deutschlandfunk.de/die-gesetzlichen-krankenkassen-warnen-vor-weiter-steigenden-beitraegen-wegen-eines-zusaetzlichen-fin-100.html"
   ],
   "content_hashes": [
-    "6d1c73911764e15e48d010c577ebc3cf",
-    "1376d6dcfd343025dc7a2bf32d9c8c43",
     "6d773758a4eac61b298cdbd4cd59c73b",
     "68feae05b5f1bf4be84f52b2d9695e22",
     "f3f93d789aab7dec071861a655b85683",
@@ -2001,11 +1999,11 @@
     "9902c162181057683b5215730bfc38df",
     "942e7f4ae09eb2cc55ded397896fbe6f",
     "80839beafa7cd23294e04fa08254e5f8",
-    "39ecf61a89530b61b13a8aae5aa62911"
+    "39ecf61a89530b61b13a8aae5aa62911",
+    "6269570a024da28c1c663822f2dfa929",
+    "29e5674efbd1b2182cf09b312e9cb886"
   ],
   "titles": [
-    "Verhandlungen - Tarifabschluss für ostdeutsche Stahlindustrie erzielt",
-    "EU-Klimadienst - Drittwärmster September seit Beginn der Aufzeichnungen",
     "Nach Einigung auf Waffenruhe - Außenminister Wadephul verlangt rasche humanitäre Hilfe im Gazastreifen",
     "DATI - Bundesforschungseinrichtung wird nicht in Erfurt angesiedelt",
     "Koalitionsausschuss: Die Koalition bohrt dicke, aber nicht die harten Bretter",
@@ -3003,11 +3001,11 @@
     "Hessen - Polizei gibt Entwarnung nach Knall in Einkaufszentrum in Frankfurt am Main",
     "Südtirol - Drei deutsche Bergsteiger getötet",
     "Afrika - Trump droht Nigeria mit US-Militäreinsatz",
-    "Großbritannien - Mehrere Menschen in Zug durch Stiche verletzt"
+    "Großbritannien - Mehrere Menschen in Zug durch Stiche verletzt",
+    "Großbritannien - Messerangriff in Zug: Zehn Menschen zum Teil lebensbedrohlich verletzt",
+    "Kassenbeiträge - Die gesetzlichen Krankenkassen warnen vor weiter steigenden Beiträgen wegen eines zusätzlichen Finanzbedarfs, trotz Sparpakets"
   ],
   "hashes": [
-    "b7e7e1ada66b3d1aad0d746ca01973ec",
-    "18cc9c096cf601b0305958b36d4f820c",
     "37bf45ee17783aa99dee49f4d84117a8",
     "33178909197d0f86935f351df9350e44",
     "5e91a3fb3e05bedd7d27097c7a576568",
@@ -4005,6 +4003,8 @@
     "6cc6a8ee03db035673e72e243669998f",
     "9d9f20dfe740f6e3fd2c0085147bfd88",
     "b0431b1a0f3d4f1c7089700efccdf3d1",
-    "845f54984da202c3d1b241a3b14b5219"
+    "845f54984da202c3d1b241a3b14b5219",
+    "3cc1a4547dfa28b0ec976ef57dfdefd6",
+    "0563d62635bfc56011c84579402d0238"
   ]
 }
