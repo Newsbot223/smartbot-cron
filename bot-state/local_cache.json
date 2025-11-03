@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tausende-menschen-protestieren-in-warschau-gegen-eu-migrationspolitik-100.html",
-    "https://www.deutschlandfunk.de/premier-lecornu-will-von-parteien-unabhaengiges-kabinett-102.html",
-    "https://www.deutschlandfunk.de/militaers-sollen-trotz-haushaltssperre-weiter-sold-bekommen-102.html",
-    "https://www.deutschlandfunk.de/hamas-vertreter-geisel-freilassungen-sollen-am-montag-beginnen-100.html",
-    "https://www.deutschlandfunk.de/gruene-jugend-beendet-bundeskongress-100.html",
     "https://www.deutschlandfunk.de/linksrutsch-jetzt-gruene-jugend-beendet-bundeskongress-und-setzt-auf-staerkeren-linkskurs-der-partei-100.html",
     "https://www.deutschlandfunk.de/machtwechsel-auf-den-seychellen-herminie-gewinnt-praesidentenwahl-100.html",
     "https://www.deutschlandfunk.de/stichwahl-um-oberbuergermeisteramt-in-ludwigshafen-kontroverse-um-ausschluss-des-afd-kandidaten-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-zusammenarbeit-ausbauen-100.html",
     "https://www.deutschlandfunk.de/openai-und-microsoft-sichern-sich-ki-rechenleistung-bei-anderen-konzernen-102.html",
     "https://www.deutschlandfunk.de/bas-spd-plant-buerokratische-entlastung-beim-arbeitsschutz-100.html",
-    "https://www.deutschlandfunk.de/brandanschlag-auf-auto-von-afd-bundestagsabgeordnetem-baumann-100.html"
+    "https://www.deutschlandfunk.de/brandanschlag-auf-auto-von-afd-bundestagsabgeordnetem-baumann-100.html",
+    "https://www.deutschlandfunk.de/merz-beharrt-auf-abschiebungen-nach-syrien-100.html",
+    "https://www.deutschlandfunk.de/zivilprozess-gegen-boeing-nach-absturz-von-2019-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/lettlands-praesident-verhindert-vorerst-austritt-aus-konvention-zum-schutz-von-frauen-100.html",
+    "https://www.deutschlandfunk.de/fuehrende-vertreter-von-israels-gewerkschaftsbund-festgenommen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html"
   ],
   "content_hashes": [
-    "5f55de4eaa9f68a941b6e0fabed47de0",
-    "d352607e8c95456e92a3a2b05716d5de",
-    "25abe05386e8cc1731aecb87fd412e4e",
-    "67dcc387b912fc35b20426987644c282",
-    "53151a11cfdf3ab583e594053d12a29f",
     "465d28562611d6dacede738852108993",
     "9f9ec4e74fcc81e347008ffa586f0c4b",
     "7f9e260b853d61c54a762866430e5df8",
@@ -2001,14 +1996,14 @@
     "f5716981e1f479115472e8c1eb9d073b",
     "1335a2408ea01a840bfeee68d130f760",
     "4081ea3e3a068c1c468a40d61bd56ced",
-    "847558cd7f83372d482cfc50b841510e"
+    "847558cd7f83372d482cfc50b841510e",
+    "cf3e826a370f2c17b9041502a1db5a59",
+    "fa1df8be8300c271447dacb36b10e54d",
+    "97b7b19d9a07558ebcfa08d41f195779",
+    "7a124c5a55c014999e2e3d54959e44fe",
+    "6d27c7a6034b853693ae45b4936960d0"
   ],
   "titles": [
-    "Polen - Tausende Menschen protestieren in Warschau gegen EU-Migrationspolitik",
-    "Regierungskrise in Frankreich - Premier Lecornu will von Parteien unabhängiges Kabinett",
-    "Trump-Anordnung - Militärs sollen trotz Haushaltssperre weiter Sold bekommen",
-    "Gaza-Abkommen - Hamas-Vertreter: Geisel-Freilassungen sollen am Montag beginnen",
-    "Tagung in Leipzig - Grüne Jugend beendet Bundeskongress",
     "Leipzig - \"Linksrutsch jetzt\": Grüne Jugend beendet Bundeskongress und setzt auf stärkeren Linkskurs der Partei",
     "Stichwahl - Machtwechsel auf den Seychellen - Herminie gewinnt Präsidentenwahl",
     "Rheinland-Pfalz - Stichwahl um Oberbürgermeisteramt in Ludwigshafen - Kontroverse um Ausschluss des AfD-Kandidaten",
@@ -3003,14 +2998,14 @@
     "Afrika-Besuch - Deutschland und Ghana wollen Zusammenarbeit ausbauen",
     "Künstliche Intelligenz - OpenAI und Microsoft sichern sich KI-Rechenleistung bei anderen Konzernen",
     "Bundesarbeitsministerin - Bas (SPD) plant bürokratische Entlastung beim Arbeitsschutz",
-    "Hamburg - Brandanschlag auf Auto von AfD-Bundestagsabgeordnetem Baumann"
+    "Hamburg - Brandanschlag auf Auto von AfD-Bundestagsabgeordnetem Baumann",
+    "Nach Wadephuls Zweifeln - Merz beharrt auf Abschiebungen nach Syrien",
+    "727-MAX - Zivilprozess gegen Boeing nach Absturz von 2019 hat begonnen",
+    "Istanbul-Konvention - Lettlands Präsident verhindert vorerst Austritt aus Konvention zum Schutz von Frauen",
+    "Korruptionsvorwürfe - Führende Vertreter von Israels Gewerkschaftsbund festgenommen",
+    "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie"
   ],
   "hashes": [
-    "9c94727608c7ab0f198b8de291f4855a",
-    "affe74155c477191a2448fdf131098c2",
-    "492a48976f839a1224712b2d01d87c04",
-    "0344e492ab401b6efff0ca6437f8aff5",
-    "96c14ed20440b3be703c00cdd6ec1074",
     "84badb154a4a1f3edad7ae844b0eff1a",
     "0b1097be12ea056111e428e9aa0ef819",
     "c8b27dda4696b3b97962a46e23a48b4d",
@@ -4005,6 +4000,11 @@
     "e77bfaf09f2040bf026f689489f5ce70",
     "54a3c641bc97adf30eb3b9281cdf7a80",
     "ba68f3991ae8563ee783052f5ac14132",
-    "872cdd041de5450b5554ff059a8b23b4"
+    "872cdd041de5450b5554ff059a8b23b4",
+    "6a558acc9e7911f1050baba54380600a",
+    "96ac645f08b27f9dbb86ffb8089a665d",
+    "5f180623d25bd1afa9715de8b3e31883",
+    "f0db88f4e8ee3a515d902f70a443b64f",
+    "1ca0a8916cbbdfb23fa0ff102345cb89"
   ]
 }
