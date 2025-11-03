@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fuer-fruehere-klarheit-wahlpruefung-nur-noch-in-karlsruhe-110717665.html",
-    "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestariftreuegesetz-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss",
-    "https://www.faz.net/aktuell/politik/urban-diplomacy-in-bremen-us-buergermeister-gegen-trumps-zoelle-110726758.html",
     "https://www.faz.net/aktuell/politik/inland/aerzte-haften-nicht-fuer-schaeden-nach-corona-impfung-110726930.html",
     "https://www.deutschlandfunk.de/grosse-rechenzentren-sechs-weitere-ki-fabriken-in-europa-geplant-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-stellt-treffen-mit-chinas-praesident-xi-infrage-und-droht-mit-neuen-zoellen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/moeglicher-anschlagsplan-in-berlin-haftbefehl-gegen-verdaechtigen-100.html",
     "https://www.deutschlandfunk.de/parteiinterne-kritik-an-wadephuls-zurueckhaltenden-aeusserungen-zu-moeglichen-abschiebungen-nach-syr-100.html",
     "https://www.deutschlandfunk.de/nach-fall-der-koelner-joggerin-yanni-gentsch-bund-und-laender-wollen-voyeur-aufnahmen-strafbar-mache-100.html",
-    "https://www.deutschlandfunk.de/israels-ex-militaerstaatsanwaeltin-nach-freigegebenem-video-mit-misshandlungen-eines-palaestinensers-100.html"
+    "https://www.deutschlandfunk.de/israels-ex-militaerstaatsanwaeltin-nach-freigegebenem-video-mit-misshandlungen-eines-palaestinensers-100.html",
+    "https://www.deutschlandfunk.de/eine-million-baeume-fuer-berlin-abgeordnetenhaus-will-heute-erstmals-gesetzentwurf-einer-buergerinit-100.html",
+    "https://www.deutschlandfunk.de/dreitaegige-staatstrauer-in-haiti-nach-verheerendem-hurrikan-melissa-jamaika-plant-benefizkonzernte--100.html",
+    "https://www.spiegel.de/politik/deutschland/voyeuristische-aufnahmen-sollen-laut-justizministerin-strafbar-werden-a-3971b9f8-b4a8-4380-b383-1948398e4e6c#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/drohnensichtung-legt-bremer-flughafen-lahm-accg-110762106.html"
   ],
   "content_hashes": [
-    "8ea9455270371a0e928967e66d47c6c5",
-    "b3b94948aa631be20cc4dbd73851e53c",
-    "e8a6caa8acb0b540f387653b95e37962",
-    "c7a3f4efe720148da8b863533644b3e2",
     "f10e12f63f6b09e7bdf0a90277e9dacf",
     "e5d1df1da872ab778fac0f77a9034ee4",
     "695e4e82b375c0a523bd2681faecf6d8",
@@ -2001,13 +1997,13 @@
     "f7b0f66035e02162434e4e9ac9704051",
     "aeb3336ca74dcc7adfdcfb6307892ed0",
     "50abff6aca154c7541c88320300bcd60",
-    "664f766674cfed30a9970c1dbed2e1fd"
+    "664f766674cfed30a9970c1dbed2e1fd",
+    "94b8dc9b9318a1cdeb4ff76f3c08aac0",
+    "1f8845fcee21afee054cbef2c27d6d58",
+    "be637397029e58759395273875156f10",
+    "2387194a71a051cb87eee4b7b44031f2"
   ],
   "titles": [
-    "Zu lange Verfahren: Bundestagswahlen nur noch in Karlsruhe prüfen",
-    "Arbeitsmarkt - Bundestag berät über das Bundestariftreuegesetz",
-    "KI: EU plant sechs neue Gigafactorys, aber nicht in Deutschland",
-    "Besuch in Bremen: US-Bürgermeister gegen Trump",
     "BGH-Urteil zur Haftung: Als die Impfung eine hoheitliche Betätigung war",
     "Künstliche Intelligenz - Große Rechenzentren: Sechs weitere KI-Fabriken in Europa geplant",
     "Export von Seltenen Erden - US-Präsident Trump stellt Treffen mit Chinas Präsident Xi infrage und droht mit neuen Zöllen",
@@ -3003,13 +2999,13 @@
     "Dschihadismus - Möglicher Anschlagsplan in Berlin - Haftbefehl gegen Verdächtigen",
     "Bundesaußenminister - Parteiinterne Kritik an Wadephuls zurückhaltenden Äußerungen zu möglichen Abschiebungen nach Syrien hält an",
     "Justizministerkonferenz - Nach Fall der Kölner Joggerin Yanni Gentsch - Bund und Länder wollen Voyeur-Aufnahmen strafbar machen",
-    "Sde Teiman - Israels Ex-Militärstaatsanwältin nach freigegebenem Video mit Misshandlungen eines Palästinensers durch Soldaten festgenommen"
+    "Sde Teiman - Israels Ex-Militärstaatsanwältin nach freigegebenem Video mit Misshandlungen eines Palästinensers durch Soldaten festgenommen",
+    "Klimaanpassung - Eine Million Bäume für Berlin - Abgeordnetenhaus will heute erstmals Gesetzentwurf einer Bürgerinitiative beschließen",
+    "Bisher fast 60 Todesopfer - Dreitägige Staatstrauer in Haiti nach verheerendem Hurrikan \"Melissa\" - Jamaika plant Benefizkonzernte - USA helfen Kuba",
+    "Voyeuristische Aufnahmen sollen laut Justizministerin strafbar werden",
+    "Betrieb beeinträchtigt: Drohnensichtung am Bremer Flughafen und über Militärbasis in Belgien"
   ],
   "hashes": [
-    "39e0678bcb2a01ceaa05e1f18280109a",
-    "4f50bdead2971d7450340241725e3bbf",
-    "c9985bdfadbd6890d23231453ffebf46",
-    "68c1ee9b009c35ba8cb06349e03574eb",
     "3c1207b2ed4dcf12d9b852d5f26fad84",
     "e5b0e5a49f4a764f63e20e0ae4e50ff3",
     "5f3f16ef2ee44a4052616f9fd9507895",
@@ -4005,6 +4001,10 @@
     "bfb2c718e88e5f40b8ebd3543b478b74",
     "bda0f7ec5d78a237cf28bb2967dc95fe",
     "78046083261d89374369106dc6706592",
-    "dca647d7c905e9808f4e4198a11fbe3f"
+    "dca647d7c905e9808f4e4198a11fbe3f",
+    "b70eb7e7f2e7d80e67702cfef0aa6902",
+    "e4bddefbab13a2183786c626a35a0d1c",
+    "a41cc5465a9845bd1e6bc4e78a2e93af",
+    "0ad0284f5520043b0dd69b124ee7f277"
   ]
 }
