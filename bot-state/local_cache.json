@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/regierungskrise-in-frankreich-ein-praesident-ohne-volk-110725995.html",
-    "https://www.deutschlandfunk.de/aegyptens-praesident-al-sisi-laedt-merz-ein-trump-will-vor-israelischem-parlament-sprechen-100.html",
     "https://www.deutschlandfunk.de/trump-schickt-auch-nach-memphis-nationalgardisten-100.html",
     "https://www.deutschlandfunk.de/dutzende-verletzte-bei-siedler-attacken-auf-erntearbeiter-nahe-nablus-102.html",
     "https://www.deutschlandfunk.de/dittrich-fordert-beitragsmoratorium-bei-sozialversicherung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/politikwissenschaftler-muenkler-rechnet-nicht-mit-us-angriff-auf-venezuela-trump-will-symboltraechti-100.html",
     "https://www.deutschlandfunk.de/verbraucherstimmung-wieder-gesunken-100.html",
     "https://www.deutschlandfunk.de/betrieb-am-flughafen-wegen-drohnensichtung-kurzzeitig-unterbrochen-102.html",
-    "https://www.deutschlandfunk.de/bund-uebernimmt-keine-kosten-fuer-kleinere-flughaefen-niedersaechsischer-verkehrsminister-warnt-vor--100.html"
+    "https://www.deutschlandfunk.de/bund-uebernimmt-keine-kosten-fuer-kleinere-flughaefen-niedersaechsischer-verkehrsminister-warnt-vor--100.html",
+    "https://www.deutschlandfunk.de/die-situation-wurde-fuer-meine-familie-und-mich-unertraeglich-regionalpraesident-von-valencia-tritt--100.html",
+    "https://www.spiegel.de/politik/deutschland/cdu-parteikollegen-kritisieren-aussenminister-johann-wadephul-fuer-aussagen-zu-syrien-rueckkehr-a-a09fcad7-0903-4326-9f46-bd65370a566b#ref=rss"
   ],
   "content_hashes": [
-    "f1501f48d69029e1dbf852a16eea4297",
-    "ed0505fd1ced95a5a5cdd51c82b64656",
     "47bfc977c3310b6968b8fba57dd3d965",
     "3a7c643650384117aa57efa7c2c65f3c",
     "c3342939ea938c52c86dee5a87235a0d",
@@ -2001,11 +1999,11 @@
     "f31e43f66619fb2f150fd3167f0c865c",
     "661e089f8094b1cdda7a148fdc2d211c",
     "25e70b3c1813f8478f968ea607c91acc",
-    "9aae30d0838df1225f537ffd11a5017e"
+    "9aae30d0838df1225f537ffd11a5017e",
+    "a9f9a3d2ea194a9196824e21a864130a",
+    "4d8d2e4157317bc461a23870aeb81b2e"
   ],
   "titles": [
-    "Regierungskrise in Frankreich: Ein Präsident ohne Volk",
-    "Gaza-Friedensplan - Ägyptens Präsident Al-Sisi lädt Merz ein - Trump will vor israelischem Parlament sprechen",
     "USA - Trump schickt auch nach Memphis Nationalgardisten",
     "Westjordanland - Dutzende Verletzte bei Siedler-Attacken auf Erntearbeiter nahe Nablus",
     "Handwerkspräsident - Dittrich fordert Beitragsmoratorium bei Sozialversicherung",
@@ -3003,11 +3001,11 @@
     "Militärpräsenz in der Karibik - Politikwissenschaftler Münkler rechnet nicht mit US-Angriff auf Venezuela - \"Trump will symbolträchtige Bilder produzieren\"",
     "Handelsverband - Verbraucherstimmung wieder gesunken",
     "Bremen - Betrieb am Flughafen wegen Drohnensichtung kurzzeitig unterbrochen",
-    "Flugsicherung - Bund übernimmt keine Kosten für kleinere Flughäfen - niedersächsischer Verkehrsminister warnt vor Schließungen"
+    "Flugsicherung - Bund übernimmt keine Kosten für kleinere Flughäfen - niedersächsischer Verkehrsminister warnt vor Schließungen",
+    "Spanien - \"Die Situation wurde für meine Familie und mich unerträglich\": Regionalpräsident von Valencia tritt ein Jahr nach Flutkatastrophe zurück",
+    "CDU: Parteikollegen kritisieren Außenminister Johann Wadephul für Aussagen zu Syrien-Rückkehr"
   ],
   "hashes": [
-    "bd9c1c0da4952448c429e602db51d805",
-    "7d97b938513cc920b05f0d602701caf9",
     "e5fc4b2493838986dabd57d872a20f2d",
     "4fba37e41621c11107cf66a1dc07ff6b",
     "1f2e6cbbdb21ba80559f150e9e7fa7c8",
@@ -4005,6 +4003,8 @@
     "c55ee7add762ac338728bd7716e68c3e",
     "40f43b032f811dbc5740c77e18c92fed",
     "7437e7b68b017221f9d35fac9ea2452d",
-    "7c6a9fa0ed86c56810faf6af2d5ae958"
+    "7c6a9fa0ed86c56810faf6af2d5ae958",
+    "f03814e1504e5d2950d006f98f8e823c",
+    "d9045283a6e3411614ba7fb966472995"
   ]
 }
