@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bahn-hebt-preise-im-fernverkehr-zum-fahrplanwechsel-nicht-an-100.html",
-    "https://www.deutschlandfunk.de/unternehmenschefs-sehen-in-neuen-handelsbarrieren-erhebliche-finanzielle-belastung-100.html",
-    "https://www.deutschlandfunk.de/csu-politiker-mayer-zum-neuen-praesidenten-gewaehlt-100.html",
     "https://www.faz.net/aktuell/politik/inland/fuer-fruehere-klarheit-wahlpruefung-nur-noch-in-karlsruhe-110717665.html",
     "https://www.deutschlandfunk.de/bundestag-beraet-ueber-das-bundestariftreuegesetz-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/ki-eu-plant-sechs-neue-gigafactorys-aber-nicht-in-deutschland-a-ea481bbb-4e2f-455b-b923-c902462e3cb5#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-reist-nach-ghana-102.html",
     "https://www.deutschlandfunk.de/aus-fuer-eu-chatkontrolle-gegen-kinderpornografie-richter-draengen-auf-speicherpflicht-fuer-ip-adres-100.html",
     "https://www.deutschlandfunk.de/bsi-verlangt-zuegigen-schutz-von-wissenschaftlern-und-computer-hackern-mit-guten-absichten-100.html",
-    "https://www.deutschlandfunk.de/moeglicher-anschlagsplan-in-berlin-haftbefehl-gegen-verdaechtigen-100.html"
+    "https://www.deutschlandfunk.de/moeglicher-anschlagsplan-in-berlin-haftbefehl-gegen-verdaechtigen-100.html",
+    "https://www.deutschlandfunk.de/parteiinterne-kritik-an-wadephuls-zurueckhaltenden-aeusserungen-zu-moeglichen-abschiebungen-nach-syr-100.html",
+    "https://www.deutschlandfunk.de/nach-fall-der-koelner-joggerin-yanni-gentsch-bund-und-laender-wollen-voyeur-aufnahmen-strafbar-mache-100.html",
+    "https://www.deutschlandfunk.de/israels-ex-militaerstaatsanwaeltin-nach-freigegebenem-video-mit-misshandlungen-eines-palaestinensers-100.html"
   ],
   "content_hashes": [
-    "4aeae863a9472e853c729284a53a9a6e",
-    "c0b8d2b5db4e2ab9e768db8aef6ba472",
-    "732c923dd6de01f484621bcc2b891694",
     "8ea9455270371a0e928967e66d47c6c5",
     "b3b94948aa631be20cc4dbd73851e53c",
     "e8a6caa8acb0b540f387653b95e37962",
@@ -2001,12 +1998,12 @@
     "a2b077cfb774762f9edb73bf3de84808",
     "78b4c7ed8a0ce4d300343fa018ef976c",
     "2aa896904f4d30b12dc2b9ec75577fca",
-    "f7b0f66035e02162434e4e9ac9704051"
+    "f7b0f66035e02162434e4e9ac9704051",
+    "aeb3336ca74dcc7adfdcfb6307892ed0",
+    "50abff6aca154c7541c88320300bcd60",
+    "664f766674cfed30a9970c1dbed2e1fd"
   ],
   "titles": [
-    "Zugverkehr - Bahn hebt Preise im Fernverkehr zum Fahrplanwechsel nicht an",
-    "Wirtschaft - Unternehmenschefs sehen in neuen Handelsbarrieren erhebliche finanzielle Belastung",
-    "Bund der Vertriebenen - CSU-Politiker Mayer zum neuen Präsidenten gewählt",
     "Zu lange Verfahren: Bundestagswahlen nur noch in Karlsruhe prüfen",
     "Arbeitsmarkt - Bundestag berät über das Bundestariftreuegesetz",
     "KI: EU plant sechs neue Gigafactorys, aber nicht in Deutschland",
@@ -3003,12 +3000,12 @@
     "Afrika-Reise - Bundespräsident Steinmeier reist nach Ghana",
     "Strafverfolgung - Aus für EU-Chatkontrolle gegen Kinderpornografie: Richter drängen auf Speicherpflicht für IP-Adressen auf nationaler Ebene",
     "Software - BSI verlangt zügigen Schutz von Wissenschaftlern und Computer-Hackern mit \"guten Absichten\"",
-    "Dschihadismus - Möglicher Anschlagsplan in Berlin - Haftbefehl gegen Verdächtigen"
+    "Dschihadismus - Möglicher Anschlagsplan in Berlin - Haftbefehl gegen Verdächtigen",
+    "Bundesaußenminister - Parteiinterne Kritik an Wadephuls zurückhaltenden Äußerungen zu möglichen Abschiebungen nach Syrien hält an",
+    "Justizministerkonferenz - Nach Fall der Kölner Joggerin Yanni Gentsch - Bund und Länder wollen Voyeur-Aufnahmen strafbar machen",
+    "Sde Teiman - Israels Ex-Militärstaatsanwältin nach freigegebenem Video mit Misshandlungen eines Palästinensers durch Soldaten festgenommen"
   ],
   "hashes": [
-    "de7889cba72fd0c5f1919cb8f062c913",
-    "538638d53d4188c573eeeff1fb41bb83",
-    "98fbd1de903bdfa079a3df0aa78a804d",
     "39e0678bcb2a01ceaa05e1f18280109a",
     "4f50bdead2971d7450340241725e3bbf",
     "c9985bdfadbd6890d23231453ffebf46",
@@ -4005,6 +4002,9 @@
     "0a0cf6633b7a010da9b66a91ba5c98f3",
     "ef342cc30422605622fefdaead1576bb",
     "2bfdfd8ec584a7a1c60f5b9b7c605084",
-    "bfb2c718e88e5f40b8ebd3543b478b74"
+    "bfb2c718e88e5f40b8ebd3543b478b74",
+    "bda0f7ec5d78a237cf28bb2967dc95fe",
+    "78046083261d89374369106dc6706592",
+    "dca647d7c905e9808f4e4198a11fbe3f"
   ]
 }
