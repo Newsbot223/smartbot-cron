@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gewerkschaften-warnen-vor-gesellschaftlichem-grosskonflikt-100.html",
-    "https://www.deutschlandfunk.de/gruene-jugend-waehlt-nachfolger-von-nietzard-und-blasel-102.html",
     "https://www.deutschlandfunk.de/neues-fuehrungsduo-gewaehlt-100.html",
     "https://www.deutschlandfunk.de/eliteuniversitaet-mit-will-vorgaben-der-regierung-nicht-folgen-104.html",
     "https://www.deutschlandfunk.de/tausende-menschen-protestieren-in-warschau-gegen-eu-migrationspolitik-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-den-syrischen-fluechtlingen-viele-von-ihnen-muessen-zurueck-110763076.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-csu-will-kommunen-staerken-100.html",
     "https://www.deutschlandfunk.de/zehntausende-auch-in-region-kordofan-auf-der-flucht-vor-kaempfen-zwischen-armee-und-rsf-miliz-100.html",
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-caroline-bosbach-cdu-100.html"
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-caroline-bosbach-cdu-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-zusammenarbeit-ausbauen-100.html",
+    "https://www.deutschlandfunk.de/openai-und-microsoft-sichern-sich-ki-rechenleistung-bei-anderen-konzernen-102.html"
   ],
   "content_hashes": [
-    "f724b993f096118dc0b36c3c1227f737",
-    "d9baf3a109b1eac623ff112f38d95d33",
     "a1e7e5880330dc83a37d7e5e79ad4067",
     "7798a2f41ebc5fb4a2d0bd98e6e79938",
     "5f55de4eaa9f68a941b6e0fabed47de0",
@@ -2001,11 +1999,11 @@
     "e58478bb7396fbd2be5c833fc867da27",
     "291322b5ecc2d54a59af705daa5a0de4",
     "d7653291a03964f5639c139c8ec1a7c0",
-    "30650b8b551c5136e263b11d9e41f33a"
+    "30650b8b551c5136e263b11d9e41f33a",
+    "f5716981e1f479115472e8c1eb9d073b",
+    "1335a2408ea01a840bfeee68d130f760"
   ],
   "titles": [
-    "Koalitionsbeschlüsse - Gewerkschaften warnen vor \"gesellschaftlichem Großkonflikt\"",
-    "Bundeskongress in Leipzig - Grüne Jugend wählt Nachfolger von Nietzard und Blasel",
     "Grüne Jugend - Neues Führungsduo gewählt",
     "USA - Eliteuniversität MIT will Vorgaben der Regierung nicht folgen",
     "Polen - Tausende Menschen protestieren in Warschau gegen EU-Migrationspolitik",
@@ -3003,11 +3001,11 @@
     "Debatte um Flüchtlinge: Soll Syrien nur von Schwerverbrechern aufgebaut werden?",
     "Mannheim - Bundesinnenminister Dobrindt (CSU) will Kommunen stärken",
     "Sudan - Zehntausende auch in Region Kordofan auf der Flucht vor Kämpfen zwischen Armee und RSF-Miliz",
-    "Anfangsverdacht - Staatsanwaltschaft ermittelt gegen Caroline Bosbach (CDU)"
+    "Anfangsverdacht - Staatsanwaltschaft ermittelt gegen Caroline Bosbach (CDU)",
+    "Afrika-Besuch - Deutschland und Ghana wollen Zusammenarbeit ausbauen",
+    "Künstliche Intelligenz - OpenAI und Microsoft sichern sich KI-Rechenleistung bei anderen Konzernen"
   ],
   "hashes": [
-    "aa85cb3b5d0e4c4e24741607696bb8ff",
-    "6f5d84f75f5744214a6cf5f6bd93fee8",
     "38e9239a24b94606231e5e3a1c19b029",
     "6aa0901846a1806717aa2164ffd6b361",
     "9c94727608c7ab0f198b8de291f4855a",
@@ -4005,6 +4003,8 @@
     "2b12de1dcf6bb22d1dc5a1d6a7eaa850",
     "680349a12b8549b253596b15629ed85e",
     "72f53673e1d2fba68e7f4114e086717c",
-    "2f6eba7ebf482093aef66216ad398002"
+    "2f6eba7ebf482093aef66216ad398002",
+    "e77bfaf09f2040bf026f689489f5ce70",
+    "54a3c641bc97adf30eb3b9281cdf7a80"
   ]
 }
