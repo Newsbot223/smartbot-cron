@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fuer-die-fdp-geht-es-um-alles-oder-nichts-110726900.html",
-    "https://www.deutschlandfunk.de/hilfsorganisationen-warten-auf-oeffnung-der-grenzuebergaenge-102.html",
-    "https://www.deutschlandfunk.de/linke-aktivisten-attackieren-erneut-einen-cdu-nahen-verband-in-berlin-100.html",
     "https://www.deutschlandfunk.de/csu-landesgruppenchef-hoffmann-verteidigt-soeder-gegen-parteiinterne-kritik-von-seehofer-und-huber-100.html",
     "https://www.deutschlandfunk.de/erzbischof-burger-wuerdigt-hilfe-fuer-schwerkranke-und-sterbende-100.html",
     "https://www.deutschlandfunk.de/organisierte-kriminalitaet-die-machenschaften-der-clans-und-banden-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/das-dilemma-des-bsw-110761485.html",
     "https://www.deutschlandfunk.de/mehrere-eu-staaten-fordern-weniger-buerokratie-102.html",
     "https://www.faz.net/aktuell/politik/inland/gemeinschaftlicher-betrug-staatsanwaltschaft-ermittelt-gegen-cdu-abgeordnete-bosbach-accg-110762518.html",
-    "https://www.deutschlandfunk.de/noch-25-prozent-flaeche-deutschlands-kommen-fuer-endlager-in-frage-102.html"
+    "https://www.deutschlandfunk.de/noch-25-prozent-flaeche-deutschlands-kommen-fuer-endlager-in-frage-102.html",
+    "https://www.deutschlandfunk.de/telefonat-von-wadephul-mit-aussenminister-wang-yi-china-reise-soll-bald-nachgeholt-werden-102.html",
+    "https://www.deutschlandfunk.de/generalinspekteur-breuer-spricht-sich-gegen-losverfahren-aus-108.html",
+    "https://www.deutschlandfunk.de/mehr-abschiebungen-denkbar-interview-helge-lindh-spd-mdb-innenausschuss-100.html"
   ],
   "content_hashes": [
-    "65f21a4b66a3c8075e89cf8a54a4a7ad",
-    "65689382c8e36f97e5575d8c99573e33",
-    "2d0cdfae3d34d87a5b123381af883d75",
     "a5af61982234acd9904d882fee274ead",
     "568ccafb44e7e71fd054e764e26eabe7",
     "93d1e2cf9489946764dc3330cd95ce30",
@@ -2001,12 +1998,12 @@
     "e0370debed38908232dba6f600d1dd08",
     "9be4819857d88f384b19610ad7c885d5",
     "1716087466896cf6eefffc91c093efff",
-    "dc3ea162ec9f3119327a81f24ba38564"
+    "dc3ea162ec9f3119327a81f24ba38564",
+    "af662a34864c42d3f68344dfe18fa11e",
+    "6fbcfbb7e40a8ead822ca3e0927afc9a",
+    "831707d5ac57bf507a8f29f78ee7992e"
   ],
   "titles": [
-    "Wahl in Rheinland-Pfalz: Für die FDP geht es um alles oder nichts",
-    "Waffenruhe im Gazastreifen - Hilfsorganisationen warten auf Öffnung der Grenzübergänge",
-    "\"Neue Generation\" - Linke Aktivisten attackieren erneut einen CDU-nahen Verband in Berlin",
     "Medienbericht - CSU-Landesgruppenchef Hoffmann verteidigt Söder gegen parteiinterne Kritik von Seehofer und Huber",
     "Welthospiztag - Erzbischof Burger würdigt Hilfe für Schwerkranke und Sterbende",
     "Kriminalität - Die Machenschaften der Clans und Banden",
@@ -3003,12 +3000,12 @@
     "Sahra Wagenknecht: Das Dilemma des BSW",
     "Erklärung überreicht - Mehrere EU-Staaten fordern weniger Bürokratie",
     "Gemeinschaftlicher Betrug: Staatsanwaltschaft ermittelt gegen CDU-Abgeordnete Bosbach",
-    "Atommüll - Noch 25 Prozent Fläche Deutschlands kommen für Endlager in Frage"
+    "Atommüll - Noch 25 Prozent Fläche Deutschlands kommen für Endlager in Frage",
+    "Diplomatie - Telefonat von Wadephul mit Außenminister Wang Yi: China-Reise soll bald nachgeholt werden",
+    "Wehrdienst-Debatte - Generalinspekteur Breuer spricht sich gegen Losverfahren aus",
+    "Rückkehr nach Syrien - SPD-Politiker: Abschiebung von Straftätern und Gefährdern zumutbar"
   ],
   "hashes": [
-    "f3a8837b9646da3a8fd1e31bb7009f0e",
-    "661b4583f83f1b8c4bf0424d8fbe2a88",
-    "dcc4add33faf0f88b42ea47c180521a1",
     "c826891b6908c4c8cf8d57e503702f72",
     "9e8a27ca8f76f0f0fb22e7d6777a0b78",
     "c0014d6f8ddccd5dbb211857b45dcdc9",
@@ -4005,6 +4002,9 @@
     "8d4fb753fadb92ab783cbc66d6c09118",
     "43c4cf39e12fc813d9917227be26957d",
     "d321c5ae4d3129a17c87f96f34b502eb",
-    "52c7ed2e128c921252fc5c451c82242d"
+    "52c7ed2e128c921252fc5c451c82242d",
+    "2d2d5a3fc2b2d00a736943748e944633",
+    "b2f05629426e7bb92d657c4c90498412",
+    "c69b935d1cdaddfea9cabde55c0d47bf"
   ]
 }
