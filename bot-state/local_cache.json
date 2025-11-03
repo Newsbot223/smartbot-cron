@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/linksrutsch-jetzt-gruene-jugend-beendet-bundeskongress-und-setzt-auf-staerkeren-linkskurs-der-partei-100.html",
-    "https://www.deutschlandfunk.de/machtwechsel-auf-den-seychellen-herminie-gewinnt-praesidentenwahl-100.html",
     "https://www.deutschlandfunk.de/stichwahl-um-oberbuergermeisteramt-in-ludwigshafen-kontroverse-um-ausschluss-des-afd-kandidaten-100.html",
     "https://www.deutschlandfunk.de/schuesse-in-wettbuero-in-giessen-drei-verletzte-festnahme-am-abend-100.html",
     "https://www.deutschlandfunk.de/gefechte-im-grenzgebiet-zwischen-afghanistan-und-pakistan-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zivilprozess-gegen-boeing-nach-absturz-von-2019-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/lettlands-praesident-verhindert-vorerst-austritt-aus-konvention-zum-schutz-von-frauen-100.html",
     "https://www.deutschlandfunk.de/fuehrende-vertreter-von-israels-gewerkschaftsbund-festgenommen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html"
+    "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html",
+    "https://www.deutschlandfunk.de/russland-verzeichnet-laut-analyse-langsam-aber-stetig-gelaendegewinne-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-wirtschaftliche-zusammenarbeit-ausbauen-102.html"
   ],
   "content_hashes": [
-    "465d28562611d6dacede738852108993",
-    "9f9ec4e74fcc81e347008ffa586f0c4b",
     "7f9e260b853d61c54a762866430e5df8",
     "76baee003bc019e30939ca2eec19cde1",
     "6084193befe6cac60b793633f05f99f1",
@@ -2001,11 +1999,11 @@
     "fa1df8be8300c271447dacb36b10e54d",
     "97b7b19d9a07558ebcfa08d41f195779",
     "7a124c5a55c014999e2e3d54959e44fe",
-    "6d27c7a6034b853693ae45b4936960d0"
+    "6d27c7a6034b853693ae45b4936960d0",
+    "88e2ad6ddbbdd0f512356974663f207d",
+    "cfad5472ceaa01b472784c944cbc1a7e"
   ],
   "titles": [
-    "Leipzig - \"Linksrutsch jetzt\": Grüne Jugend beendet Bundeskongress und setzt auf stärkeren Linkskurs der Partei",
-    "Stichwahl - Machtwechsel auf den Seychellen - Herminie gewinnt Präsidentenwahl",
     "Rheinland-Pfalz - Stichwahl um Oberbürgermeisteramt in Ludwigshafen - Kontroverse um Ausschluss des AfD-Kandidaten",
     "Hessen - Schüsse in Wettbüro in Gießen - drei Verletzte, Festnahme am Abend",
     "Eskalation - Gefechte im Grenzgebiet zwischen Afghanistan und Pakistan",
@@ -3003,11 +3001,11 @@
     "727-MAX - Zivilprozess gegen Boeing nach Absturz von 2019 hat begonnen",
     "Istanbul-Konvention - Lettlands Präsident verhindert vorerst Austritt aus Konvention zum Schutz von Frauen",
     "Korruptionsvorwürfe - Führende Vertreter von Israels Gewerkschaftsbund festgenommen",
-    "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie"
+    "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie",
+    "Ukraine-Krieg - Russland verzeichnet laut Analyse langsam aber stetig Geländegewinne",
+    "Afrika-Besuch - Deutschland und Ghana wollen wirtschaftliche Zusammenarbeit ausbauen"
   ],
   "hashes": [
-    "84badb154a4a1f3edad7ae844b0eff1a",
-    "0b1097be12ea056111e428e9aa0ef819",
     "c8b27dda4696b3b97962a46e23a48b4d",
     "c885d56779fc89a314f5452fb7df742b",
     "2475d80589d3dffafcf84b82674a9251",
@@ -4005,6 +4003,8 @@
     "96ac645f08b27f9dbb86ffb8089a665d",
     "5f180623d25bd1afa9715de8b3e31883",
     "f0db88f4e8ee3a515d902f70a443b64f",
-    "1ca0a8916cbbdfb23fa0ff102345cb89"
+    "1ca0a8916cbbdfb23fa0ff102345cb89",
+    "2d057d27233b1ca2688b6802a31b08ba",
+    "cd046be52f4cb8113eecc95fd5446bda"
   ]
 }
