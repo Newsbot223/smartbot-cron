@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rund-vier-millionen-menschen-in-der-sahelzone-auf-der-flucht-102.html",
-    "https://www.deutschlandfunk.de/bedeutung-friedensnobelpreis-interview-mit-friedensforscher-ulrich-kuehn-100.html",
-    "https://www.deutschlandfunk.de/sechs-neue-grosse-rechenzentren-in-europa-geplant-100.html",
     "https://www.deutschlandfunk.de/bahn-hebt-preise-im-fernverkehr-zum-fahrplanwechsel-nicht-an-100.html",
     "https://www.deutschlandfunk.de/unternehmenschefs-sehen-in-neuen-handelsbarrieren-erhebliche-finanzielle-belastung-100.html",
     "https://www.deutschlandfunk.de/csu-politiker-mayer-zum-neuen-praesidenten-gewaehlt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-fordert-eu-einfuhrzoelle-auf-chinesischen-stahl-102.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-erneut-leichen-100.html",
     "https://www.deutschlandfunk.de/atomwaffentests-laut-energieminister-wright-vorerst-ohne-nukleare-explosionen-104.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-reist-nach-ghana-102.html"
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-reist-nach-ghana-102.html",
+    "https://www.deutschlandfunk.de/aus-fuer-eu-chatkontrolle-gegen-kinderpornografie-richter-draengen-auf-speicherpflicht-fuer-ip-adres-100.html",
+    "https://www.deutschlandfunk.de/bsi-verlangt-zuegigen-schutz-von-wissenschaftlern-und-computer-hackern-mit-guten-absichten-100.html",
+    "https://www.deutschlandfunk.de/moeglicher-anschlagsplan-in-berlin-haftbefehl-gegen-verdaechtigen-100.html"
   ],
   "content_hashes": [
-    "66d86f6649b3e2ddfcf166d4b9fbefe6",
-    "95c0b233a6ae4de721f71a154a8dc183",
-    "1f4d61bbfebd261949c925d866798271",
     "4aeae863a9472e853c729284a53a9a6e",
     "c0b8d2b5db4e2ab9e768db8aef6ba472",
     "732c923dd6de01f484621bcc2b891694",
@@ -2001,12 +1998,12 @@
     "d30d451de85eb32eece7ccefe1412114",
     "300479d18f49f837d8b71b38e360e024",
     "52dd67008dc597fd8a19fcbc3ed47b0b",
-    "a2b077cfb774762f9edb73bf3de84808"
+    "a2b077cfb774762f9edb73bf3de84808",
+    "78b4c7ed8a0ce4d300343fa018ef976c",
+    "2aa896904f4d30b12dc2b9ec75577fca",
+    "f7b0f66035e02162434e4e9ac9704051"
   ],
   "titles": [
-    "UNHCR - Rund vier Millionen Menschen in der Sahelzone auf der Flucht",
-    "Friedensnobelpreis 2025 - Politologe: Maria Corina Machado ist \"sehr diplomatische Wahl\"",
-    "Künstliche Intelligenz - Sechs neue große Rechenzentren in Europa geplant",
     "Zugverkehr - Bahn hebt Preise im Fernverkehr zum Fahrplanwechsel nicht an",
     "Wirtschaft - Unternehmenschefs sehen in neuen Handelsbarrieren erhebliche finanzielle Belastung",
     "Bund der Vertriebenen - CSU-Politiker Mayer zum neuen Präsidenten gewählt",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - CDU-Generalsekretär Linnemann fordert EU-Einfuhrzölle auf chinesischen Stahl",
     "Nahost - Hamas übergibt erneut Leichen",
     "USA - Atomwaffentests laut Energieminister Wright vorerst ohne nukleare Explosionen",
-    "Afrika-Reise - Bundespräsident Steinmeier reist nach Ghana"
+    "Afrika-Reise - Bundespräsident Steinmeier reist nach Ghana",
+    "Strafverfolgung - Aus für EU-Chatkontrolle gegen Kinderpornografie: Richter drängen auf Speicherpflicht für IP-Adressen auf nationaler Ebene",
+    "Software - BSI verlangt zügigen Schutz von Wissenschaftlern und Computer-Hackern mit \"guten Absichten\"",
+    "Dschihadismus - Möglicher Anschlagsplan in Berlin - Haftbefehl gegen Verdächtigen"
   ],
   "hashes": [
-    "cca26016d1c98f3f08a8d56a63f15f9c",
-    "0558c9b411719b3d4e683a88bed29f0d",
-    "d5b569077ed98b175ced7f99023ac0f9",
     "de7889cba72fd0c5f1919cb8f062c913",
     "538638d53d4188c573eeeff1fb41bb83",
     "98fbd1de903bdfa079a3df0aa78a804d",
@@ -4005,6 +4002,9 @@
     "f8d24c8a386da2389c2bd925d16507eb",
     "5dd2ded848443deb0965ce37280aa645",
     "b35c381ee395d958d25ce50bd7e93f19",
-    "0a0cf6633b7a010da9b66a91ba5c98f3"
+    "0a0cf6633b7a010da9b66a91ba5c98f3",
+    "ef342cc30422605622fefdaead1576bb",
+    "2bfdfd8ec584a7a1c60f5b9b7c605084",
+    "bfb2c718e88e5f40b8ebd3543b478b74"
   ]
 }
