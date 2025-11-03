@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/zwischen-putin-medaille-und-trump-verherrlichung-die-neue-zerrissenheit-der-afd-110726314.html",
-    "https://www.faz.net/aktuell/politik/ausland/friedensnobelpreis-2025-eine-entscheidung-gegen-trump-110726972.html",
-    "https://www.deutschlandfunk.de/deutschland-grossbritannien-und-frankreich-wollen-russische-gelder-fuer-ukraine-verwenden-100.html",
-    "https://www.deutschlandfunk.de/gaza-friedensplan-al-sisi-laedt-merz-nach-aegypten-ein-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-drei-politiker-der-spd-der-gruenen-und-der-linken-einen-podcast-machen-110720706.html",
     "https://www.deutschlandfunk.de/mutmassliche-anschlagsgefahr-rechtspopulist-wilders-setzt-wahlkampf-aus-102.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/10/what-is-next-for-the-palestinian-resistance-movements?traffic_source=rss",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/drohnensichtung-legt-bremer-flughafen-lahm-accg-110762106.html",
     "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-neuem-erdbeben-in-afghanistan-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-reist-zum-antrittsbesuch-nach-schleswig-holstein-100.html",
-    "https://www.spiegel.de/ausland/drohne-legt-flugverkehr-in-bremen-lahm-weitere-sichtung-in-belgien-a-d69ec088-4566-4943-8a5b-76aadaf9c950#ref=rss"
+    "https://www.spiegel.de/ausland/drohne-legt-flugverkehr-in-bremen-lahm-weitere-sichtung-in-belgien-a-d69ec088-4566-4943-8a5b-76aadaf9c950#ref=rss",
+    "https://www.deutschlandfunk.de/parteiinterne-kritik-an-wadephuls-aeusserungen-zu-moeglichen-abschiebungen-nach-syrien-haelt-an-100.html",
+    "https://www.deutschlandfunk.de/mindestens-20-tote-bei-neuem-erdbeben-in-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/generalinspekteur-breuer-spricht-sich-gegen-losverfahren-100.html",
+    "https://www.spiegel.de/wirtschaft/100-tage-handelsdeal-wie-donald-trumps-zoelle-die-wirtschaft-treffen-a-c66c92e5-890e-41be-bee5-a9b154187dec#ref=rss"
   ],
   "content_hashes": [
-    "d707acfd40d02c804b4ba78f4e41b50a",
-    "33caf0ae147d271609d6be944a847b76",
-    "c899f7cae2fb52165013970b3accf6f0",
-    "110d0b0730fb0dac7dded2880407ed1b",
     "a9abe3e882fe5a3a47b00bfd63586553",
     "2f8eff46d367142c8c90a1ee709e39ba",
     "5cb987e995b15cb139a2287e63ccc8f7",
@@ -2001,13 +1997,13 @@
     "2387194a71a051cb87eee4b7b44031f2",
     "a6fe2fc9b0ebfd74f54bac621d6cab86",
     "8668ba54a43676fbf0c71546e6148776",
-    "9b002cf9f43b949072e6e7ce7e49ebff"
+    "9b002cf9f43b949072e6e7ce7e49ebff",
+    "0473e0abe5c4dde74037f79f08226d5b",
+    "793628bb7f0c8d2c4db3172c398a02db",
+    "2b94c7267b30f30bb40d943449baf8d8",
+    "4263e7b36139c245d2d55ce2dc0c46e7"
   ],
   "titles": [
-    "F.A.Z. Podcast für Deutschland: Zwischen Putin-Medaille und Trump-Verherrlichung: Die neue Zerrissenheit der AfD",
-    "Friedensnobelpreis: Eine Entscheidung gegen Trump",
-    "E3-Staaten - Deutschland, Großbritannien und Frankreich wollen russische Gelder für Ukraine verwenden",
-    "Telefonat der Politiker - Gaza-Friedensplan: Al-Sisi lädt Merz nach Ägypten ein",
     "„Tassenkontrolle“: Ein rot-rot-grüner Podcast inspiriert von Merz",
     "Niederlande - Mutmaßliche Anschlagsgefahr: Rechtspopulist Wilders setzt Wahlkampf aus",
     "What’s next for the Palestinian resistance movements?",
@@ -3003,13 +2999,13 @@
     "Betrieb beeinträchtigt: Drohnensichtung am Bremer Flughafen und über Militärbasis in Belgien",
     "Naturkatastrophe - Mindestens neun Tote bei neuem Erdbeben in Afghanistan",
     "Husum - Bundeskanzler reist zum Antrittsbesuch nach Schleswig-Holstein",
-    "Drohne legt Flugverkehr in Bremen lahm – weitere Sichtung in Belgien"
+    "Drohne legt Flugverkehr in Bremen lahm – weitere Sichtung in Belgien",
+    "Bundesaußenminister - Parteiinterne Kritik an Wadephuls Äußerungen zu möglichen Abschiebungen nach Syrien hält an",
+    "Naturkatastrophe - Mindestens 20 Tote bei neuem Erdbeben in Afghanistan",
+    "Wehrdienst-Debatte - Generalinspekteur Breuer spricht sich gegen Losverfahren",
+    "100 Tage Handelsdeal: Wie Donald Trumps Zölle die Wirtschaft treffen"
   ],
   "hashes": [
-    "19be5708f0c585e74c47feb2a6f3a79a",
-    "365a4714ad28ffdda106b1de0467216e",
-    "8c8942fdea109ca316d497a48e0b13d6",
-    "9411a59228ff5a8cc90d34c118793a1d",
     "e9e70877698942aca096b35c61d7cd57",
     "458cb2e85d6515e6ca6f668574740e84",
     "1c14f11f0623bb8614d8d43b6e93f844",
@@ -4005,6 +4001,10 @@
     "0ad0284f5520043b0dd69b124ee7f277",
     "7ceb2c39c5782be0622e2135b80c70e2",
     "e3c846a81df5b191e04238fd85335fe5",
-    "d1249a127d9f088dbf32d9d1a3c7ff8d"
+    "d1249a127d9f088dbf32d9d1a3c7ff8d",
+    "21f176a56857ea7ce52031c766915445",
+    "eef9ea0d61ffa8992fdbf9d0d4ccfdd3",
+    "bef39bb6dd74b537db1c99adffbeb6ed",
+    "da1f905e09e6442b28afe1e8ac5b8f75"
   ]
 }
