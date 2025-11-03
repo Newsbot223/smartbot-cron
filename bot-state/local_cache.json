@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/aerzte-haften-nicht-fuer-schaeden-nach-corona-impfung-110726930.html",
-    "https://www.deutschlandfunk.de/grosse-rechenzentren-sechs-weitere-ki-fabriken-in-europa-geplant-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-stellt-treffen-mit-chinas-praesident-xi-infrage-und-droht-mit-neuen-zoellen-102.html",
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/zwischen-putin-medaille-und-trump-verherrlichung-die-neue-zerrissenheit-der-afd-110726314.html",
     "https://www.faz.net/aktuell/politik/ausland/friedensnobelpreis-2025-eine-entscheidung-gegen-trump-110726972.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eine-million-baeume-fuer-berlin-abgeordnetenhaus-will-heute-erstmals-gesetzentwurf-einer-buergerinit-100.html",
     "https://www.deutschlandfunk.de/dreitaegige-staatstrauer-in-haiti-nach-verheerendem-hurrikan-melissa-jamaika-plant-benefizkonzernte--100.html",
     "https://www.spiegel.de/politik/deutschland/voyeuristische-aufnahmen-sollen-laut-justizministerin-strafbar-werden-a-3971b9f8-b4a8-4380-b383-1948398e4e6c#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/drohnensichtung-legt-bremer-flughafen-lahm-accg-110762106.html"
+    "https://www.faz.net/aktuell/politik/inland/drohnensichtung-legt-bremer-flughafen-lahm-accg-110762106.html",
+    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-neuem-erdbeben-in-afghanistan-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-reist-zum-antrittsbesuch-nach-schleswig-holstein-100.html"
   ],
   "content_hashes": [
-    "f10e12f63f6b09e7bdf0a90277e9dacf",
-    "e5d1df1da872ab778fac0f77a9034ee4",
     "695e4e82b375c0a523bd2681faecf6d8",
     "d707acfd40d02c804b4ba78f4e41b50a",
     "33caf0ae147d271609d6be944a847b76",
@@ -2001,11 +1999,11 @@
     "94b8dc9b9318a1cdeb4ff76f3c08aac0",
     "1f8845fcee21afee054cbef2c27d6d58",
     "be637397029e58759395273875156f10",
-    "2387194a71a051cb87eee4b7b44031f2"
+    "2387194a71a051cb87eee4b7b44031f2",
+    "a6fe2fc9b0ebfd74f54bac621d6cab86",
+    "8668ba54a43676fbf0c71546e6148776"
   ],
   "titles": [
-    "BGH-Urteil zur Haftung: Als die Impfung eine hoheitliche Betätigung war",
-    "Künstliche Intelligenz - Große Rechenzentren: Sechs weitere KI-Fabriken in Europa geplant",
     "Export von Seltenen Erden - US-Präsident Trump stellt Treffen mit Chinas Präsident Xi infrage und droht mit neuen Zöllen",
     "F.A.Z. Podcast für Deutschland: Zwischen Putin-Medaille und Trump-Verherrlichung: Die neue Zerrissenheit der AfD",
     "Friedensnobelpreis: Eine Entscheidung gegen Trump",
@@ -3003,11 +3001,11 @@
     "Klimaanpassung - Eine Million Bäume für Berlin - Abgeordnetenhaus will heute erstmals Gesetzentwurf einer Bürgerinitiative beschließen",
     "Bisher fast 60 Todesopfer - Dreitägige Staatstrauer in Haiti nach verheerendem Hurrikan \"Melissa\" - Jamaika plant Benefizkonzernte - USA helfen Kuba",
     "Voyeuristische Aufnahmen sollen laut Justizministerin strafbar werden",
-    "Betrieb beeinträchtigt: Drohnensichtung am Bremer Flughafen und über Militärbasis in Belgien"
+    "Betrieb beeinträchtigt: Drohnensichtung am Bremer Flughafen und über Militärbasis in Belgien",
+    "Naturkatastrophe - Mindestens neun Tote bei neuem Erdbeben in Afghanistan",
+    "Husum - Bundeskanzler reist zum Antrittsbesuch nach Schleswig-Holstein"
   ],
   "hashes": [
-    "3c1207b2ed4dcf12d9b852d5f26fad84",
-    "e5b0e5a49f4a764f63e20e0ae4e50ff3",
     "5f3f16ef2ee44a4052616f9fd9507895",
     "19be5708f0c585e74c47feb2a6f3a79a",
     "365a4714ad28ffdda106b1de0467216e",
@@ -4005,6 +4003,8 @@
     "b70eb7e7f2e7d80e67702cfef0aa6902",
     "e4bddefbab13a2183786c626a35a0d1c",
     "a41cc5465a9845bd1e6bc4e78a2e93af",
-    "0ad0284f5520043b0dd69b124ee7f277"
+    "0ad0284f5520043b0dd69b124ee7f277",
+    "7ceb2c39c5782be0622e2135b80c70e2",
+    "e3c846a81df5b191e04238fd85335fe5"
   ]
 }
