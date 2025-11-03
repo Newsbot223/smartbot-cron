@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stichwahl-um-oberbuergermeisteramt-in-ludwigshafen-kontroverse-um-ausschluss-des-afd-kandidaten-100.html",
-    "https://www.deutschlandfunk.de/schuesse-in-wettbuero-in-giessen-drei-verletzte-festnahme-am-abend-100.html",
     "https://www.deutschlandfunk.de/gefechte-im-grenzgebiet-zwischen-afghanistan-und-pakistan-102.html",
     "https://www.deutschlandfunk.de/nach-trumps-zoll-ankuendigung-china-verteidigt-exportkontrollen-fuer-seltene-erden-102.html",
     "https://www.deutschlandfunk.de/us-militaers-sollen-trotz-haushaltssperre-weiter-sold-bekommen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/fuehrende-vertreter-von-israels-gewerkschaftsbund-festgenommen-100.html",
     "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html",
     "https://www.deutschlandfunk.de/russland-verzeichnet-laut-analyse-langsam-aber-stetig-gelaendegewinne-100.html",
-    "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-wirtschaftliche-zusammenarbeit-ausbauen-102.html"
+    "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-wirtschaftliche-zusammenarbeit-ausbauen-102.html",
+    "https://www.deutschlandfunk.de/trump-regierung-kuerzt-lebensmittelhilfen-fuer-beduerftige-100.html",
+    "https://www.spiegel.de/politik/syrien-friedrich-merz-plant-gespraeche-ueber-abschiebungen-mit-al-sharaa-a-782f1718-3626-4aa7-9b21-b39267477602#ref=rss"
   ],
   "content_hashes": [
-    "7f9e260b853d61c54a762866430e5df8",
-    "76baee003bc019e30939ca2eec19cde1",
     "6084193befe6cac60b793633f05f99f1",
     "7cd7eb8e1a2b317e6fca6f42fb1d1e3c",
     "b490887324d6bd971a8bd803d20c2413",
@@ -2001,11 +1999,11 @@
     "7a124c5a55c014999e2e3d54959e44fe",
     "6d27c7a6034b853693ae45b4936960d0",
     "88e2ad6ddbbdd0f512356974663f207d",
-    "cfad5472ceaa01b472784c944cbc1a7e"
+    "cfad5472ceaa01b472784c944cbc1a7e",
+    "3c1416f105b458d0db4ac21bc12d9e7f",
+    "f31826aa7cf43b620a0d5ee81870686f"
   ],
   "titles": [
-    "Rheinland-Pfalz - Stichwahl um Oberbürgermeisteramt in Ludwigshafen - Kontroverse um Ausschluss des AfD-Kandidaten",
-    "Hessen - Schüsse in Wettbüro in Gießen - drei Verletzte, Festnahme am Abend",
     "Eskalation - Gefechte im Grenzgebiet zwischen Afghanistan und Pakistan",
     "Handelsstreit - Nach Trumps Zoll-Ankündigung: China verteidigt Exportkontrollen für Seltene Erden",
     "Trump-Anordnung - US-Militärs sollen trotz Haushaltssperre weiter Sold bekommen",
@@ -3003,11 +3001,11 @@
     "Korruptionsvorwürfe - Führende Vertreter von Israels Gewerkschaftsbund festgenommen",
     "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie",
     "Ukraine-Krieg - Russland verzeichnet laut Analyse langsam aber stetig Geländegewinne",
-    "Afrika-Besuch - Deutschland und Ghana wollen wirtschaftliche Zusammenarbeit ausbauen"
+    "Afrika-Besuch - Deutschland und Ghana wollen wirtschaftliche Zusammenarbeit ausbauen",
+    "Haushaltssperre - Trump-Regierung kürzt Lebensmittelhilfen für Bedürftige",
+    "Syrien: Friedrich Merz plant Gespräche über Abschiebungen mit al-Sharaa"
   ],
   "hashes": [
-    "c8b27dda4696b3b97962a46e23a48b4d",
-    "c885d56779fc89a314f5452fb7df742b",
     "2475d80589d3dffafcf84b82674a9251",
     "362c4cc3aa05f8416f8fe0c3ab6d6d7b",
     "3e1d0612eed9aff5376293187036b103",
@@ -4005,6 +4003,8 @@
     "f0db88f4e8ee3a515d902f70a443b64f",
     "1ca0a8916cbbdfb23fa0ff102345cb89",
     "2d057d27233b1ca2688b6802a31b08ba",
-    "cd046be52f4cb8113eecc95fd5446bda"
+    "cd046be52f4cb8113eecc95fd5446bda",
+    "791953385d63598b731736f40a60be78",
+    "6c6e2701e48580046a8700033735afc0"
   ]
 }
