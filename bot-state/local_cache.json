@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lecornu-startet-zweiten-anlauf-als-premier-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/dgb-chefin-fahimi-attackiert-die-bundesregierung-und-droht-mit-streiks-a-df444839-0751-419a-bb0c-3e3be1235c26#ref=rss",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-henriette-held-wird-neue-ko-vorsitzende-der-gruenen-jugend-faz-110093143.html",
     "https://www.deutschlandfunk.de/gewerkschaften-warnen-vor-gesellschaftlichem-grosskonflikt-100.html",
     "https://www.deutschlandfunk.de/gruene-jugend-waehlt-nachfolger-von-nietzard-und-blasel-102.html",
     "https://www.deutschlandfunk.de/neues-fuehrungsduo-gewaehlt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/verschaerfte-grenzkontrollen-kein-anstieg-von-zurueckweisungen-100.html",
     "https://www.deutschlandfunk.de/weiterer-geheimraum-mit-waffen-in-remscheid-entdeckt-100.html",
     "https://www.faz.net/aktuell/politik/inland/thueringen-afd-mann-klagt-auf-stelle-im-staatsdienst-110763069.html",
-    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-den-syrischen-fluechtlingen-viele-von-ihnen-muessen-zurueck-110763076.html"
+    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-den-syrischen-fluechtlingen-viele-von-ihnen-muessen-zurueck-110763076.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-csu-will-kommunen-staerken-100.html",
+    "https://www.deutschlandfunk.de/zehntausende-auch-in-region-kordofan-auf-der-flucht-vor-kaempfen-zwischen-armee-und-rsf-miliz-100.html",
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-caroline-bosbach-cdu-100.html"
   ],
   "content_hashes": [
-    "1a59203ebd7d89c57411e8f3fed4f05c",
-    "ed46b9f16eb813616a34cde0ca4d8935",
-    "58b77847c17960e7573c8cbb1923fbb2",
     "f724b993f096118dc0b36c3c1227f737",
     "d9baf3a109b1eac623ff112f38d95d33",
     "a1e7e5880330dc83a37d7e5e79ad4067",
@@ -2001,12 +1998,12 @@
     "bc63dcbc5235f765c44c1f021ca96547",
     "21c975233c9555a93c508c786b9a8257",
     "aec4c0366757824602826283674022c4",
-    "e58478bb7396fbd2be5c833fc867da27"
+    "e58478bb7396fbd2be5c833fc867da27",
+    "291322b5ecc2d54a59af705daa5a0de4",
+    "d7653291a03964f5639c139c8ec1a7c0",
+    "30650b8b551c5136e263b11d9e41f33a"
   ],
   "titles": [
-    "Regierungskrise in Frankreich - Lecornu startet zweiten Anlauf als Premier",
-    "DGB-Chefin Yasmin Fahimi attackiert die Bundesregierung – und droht mit Streiks",
-    "Liveblog Bundespolitik: Henriette Held wird neue Ko-Vorsitzende der Grünen Jugend",
     "Koalitionsbeschlüsse - Gewerkschaften warnen vor \"gesellschaftlichem Großkonflikt\"",
     "Bundeskongress in Leipzig - Grüne Jugend wählt Nachfolger von Nietzard und Blasel",
     "Grüne Jugend - Neues Führungsduo gewählt",
@@ -3003,12 +3000,12 @@
     "Deutschland - Verschärfte Grenzkontrollen: Kein Anstieg von Zurückweisungen",
     "Kriminalität - Weiterer Geheimraum mit Waffen in Remscheid entdeckt",
     "Thüringen: AfD-Mann klagt auf Stelle im Staatsdienst",
-    "Debatte um Flüchtlinge: Soll Syrien nur von Schwerverbrechern aufgebaut werden?"
+    "Debatte um Flüchtlinge: Soll Syrien nur von Schwerverbrechern aufgebaut werden?",
+    "Mannheim - Bundesinnenminister Dobrindt (CSU) will Kommunen stärken",
+    "Sudan - Zehntausende auch in Region Kordofan auf der Flucht vor Kämpfen zwischen Armee und RSF-Miliz",
+    "Anfangsverdacht - Staatsanwaltschaft ermittelt gegen Caroline Bosbach (CDU)"
   ],
   "hashes": [
-    "c7a0a3d6c5d46c09adea5a80fa0673fb",
-    "d9d7a3f8a0e585b2e7f8fbea9c89e7e5",
-    "69e1d3d7ba14858c931b76177c595db5",
     "aa85cb3b5d0e4c4e24741607696bb8ff",
     "6f5d84f75f5744214a6cf5f6bd93fee8",
     "38e9239a24b94606231e5e3a1c19b029",
@@ -4005,6 +4002,9 @@
     "e2dfeb65b54b33c489c0f16346fdabcd",
     "1f24762c543be3715292b4b681261d9a",
     "94160c231193e7a788bdde29aa57b8e5",
-    "2b12de1dcf6bb22d1dc5a1d6a7eaa850"
+    "2b12de1dcf6bb22d1dc5a1d6a7eaa850",
+    "680349a12b8549b253596b15629ed85e",
+    "72f53673e1d2fba68e7f4114e086717c",
+    "2f6eba7ebf482093aef66216ad398002"
   ]
 }
