@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-spd-waehler-fuer-sanktionen-beim-buergergeld-faz-110093143.html",
-    "https://www.deutschlandfunk.de/russland-laut-bnd-chef-jaeger-zu-direkter-auseinandersetzung-mit-der-nato-bereit-100.html",
     "https://www.deutschlandfunk.de/expo-zu-ende-gegangen-mehr-als-27-millionen-besucher-100.html",
     "https://www.faz.net/aktuell/politik/klimapolitik-der-lange-abschied-vom-linkskurs-110728725.html",
     "https://www.deutschlandfunk.de/alle-restlichen-israelischen-geiseln-sind-frei-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-bietet-afghanen-in-pakistan-geld-statt-einreise-100.html",
     "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-100.html",
-    "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html"
+    "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/deutschkenntnisse-beschleunigen-integration-von-ukrainern-110764878.html",
+    "https://www.faz.net/aktuell/politik/inland/zwei-minister-gehen-suetterlin-waack-und-schwarz-110764473.html"
   ],
   "content_hashes": [
-    "dd089a74f8578c2a91c5802be63fc06e",
-    "822dcd0c34cd1facc1f345f48e71094d",
     "614e89301dcebc84bacc1fbc17dc35b8",
     "892b768a68ce0dc7d93e63edfcf4050a",
     "3c88918a5d653e4190638a21ac95c770",
@@ -2001,11 +1999,11 @@
     "58016158873307886dd7a362f1bc9642",
     "69edf0ef386d977f1488fc06cbacdcbd",
     "2890f0e32aac179bfe61831e288a1550",
-    "824b9be9e15adb18bc0a789af1aa1aee"
+    "824b9be9e15adb18bc0a789af1aa1aee",
+    "bee74b3cd74d557cb1e13d013f1b9560",
+    "80a87b68907ced9b17e46c1feb9be0e9"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Auch SPD-Wähler für Komplettsanktionen beim Bürgergeld",
-    "Anhörung im Bundestag - Russland laut BND-Chef Jäger zu direkter Auseinandersetzung mit der NATO bereit",
     "Japan - Expo zu Ende gegangen - mehr als 27 Millionen Besucher",
     "Klimapolitik: Der lange Abschied vom Linkskurs",
     "Nahost - Alle restlichen israelischen Geiseln sind frei",
@@ -3003,11 +3001,11 @@
     "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an",
     "ARD-Recherche - Bundesregierung bietet Afghanen in Pakistan Geld statt Einreise",
     "Nach Verfassungsgerichtsurteil - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
-    "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien"
+    "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien",
+    "Ukraine-Flüchtlinge: Besser Deutsch sprechen hilft",
+    "Schleswig-Holstein: Zwei weitere Minister verlassen Kabinett"
   ],
   "hashes": [
-    "d01172f751075bd079824fa016f15a05",
-    "de08e0fe156744e223a954c178af7308",
     "8800a537c89060faca4214f8cf8a769f",
     "17b12c0dd517b92ef83f090705558572",
     "f1322b555c94fc4086a934822c56f9be",
@@ -4005,6 +4003,8 @@
     "2f3935f58e3ef75445a0b3fcd1363ce9",
     "276db88ca4b91838e6b043a76eebed66",
     "8f66f0a6ca9c57d3b64a5f1b3823f828",
-    "0a494cea3a06ce486923bddfff88c238"
+    "0a494cea3a06ce486923bddfff88c238",
+    "b65505f775dd665234d160ad8f5d155b",
+    "e503aa35428e7a563099477208d4f959"
   ]
 }
