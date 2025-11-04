@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-zuversichtlich-ueber-weiteren-verlauf-des-friedensprozesses-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-bezeichnet-deutsche-infrastruktur-als-peinlich-und-fordert-schnellere-modernisierung-100.html",
     "https://www.deutschlandfunk.de/verband-beklagt-zunehmende-klagen-und-politisch-motivierte-aktionen-gegen-schulleitungen-100.html",
     "https://www.deutschlandfunk.de/neue-notfall-broschuere-mit-neuen-hinweisen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/sebastien-lecornus-zweite-amtszeit-kaum-hoffnung-fuer-emmanuel-macron-accg-110728726.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutsche-gesellschaft-ist-weniger-gespalten-als-viele-denken-102.html",
     "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-tritt-in-italien-in-hungerstreik-a-4604e676-6b02-4fb9-bcb0-e3cc27008c69#ref=rss",
     "https://www.deutschlandfunk.de/opposition-in-tansania-beklagt-hunderte-tote-bei-unruhen-und-vertuschung-durch-die-behoerden-100.html",
-    "https://www.deutschlandfunk.de/deutsche-telekom-investiert-mehr-als-eine-milliarde-euro-in-ki-fabrik-100.html"
+    "https://www.deutschlandfunk.de/deutsche-telekom-investiert-mehr-als-eine-milliarde-euro-in-ki-fabrik-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-kritisiert-stil-der-debatte-um-abschiebungen-100.html",
+    "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html"
   ],
   "content_hashes": [
-    "65c0738a60ef7ef6144cddd7485c2a7a",
-    "8f00b0d4c4b437452a6618122c5c626b",
     "7caecec6a2b2c0e82daaa32337c69863",
     "130fc7667e5725f145d1c491a07e999b",
     "e0dd37c0e5632da5c6b468acc746e8f1",
@@ -2001,11 +1999,11 @@
     "821d08e0dc9e5bf6f28c5896197d4a73",
     "b935466001fb3e73a7cf7a57b03e51a4",
     "df0e7ccc8545cc15431163689d4f8546",
-    "5a2068292a4f2e32ea8d1bfc4b5485e9"
+    "5a2068292a4f2e32ea8d1bfc4b5485e9",
+    "942beaf5d480d100668e2fbcd624a089",
+    "58016158873307886dd7a362f1bc9642"
   ],
   "titles": [
-    "Nahost - Wadephul zuversichtlich über weiteren Verlauf des Friedensprozesses",
-    "Investitionsprogramm - Klingbeil bezeichnet deutsche Infrastruktur als \"peinlich\" und fordert schnellere Modernisierung",
     "Niedersachsen - Verband beklagt zunehmende Klagen und politisch motivierte Aktionen gegen Schulleitungen",
     "Bundesamt für Bevölkerungsschutz - Neue Notfall-Broschüre mit neuen Hinweisen",
     "Lecornus zweite Amtszeit: Kaum Hoffnung für Macron",
@@ -3003,11 +3001,11 @@
     "Umfrage - Deutsche Gesellschaft ist weniger gespalten als viele denken",
     "Nord-Stream-Verdächtiger Serhij K. tritt in Italien in Hungerstreik",
     "Ostafrika - Opposition in Tansania beklagt Hunderte Tote bei Unruhen und Vertuschung durch die Behörden",
-    "Künstliche Intelligenz - Deutsche Telekom investiert mehr als eine Milliarde Euro in KI-Fabrik"
+    "Künstliche Intelligenz - Deutsche Telekom investiert mehr als eine Milliarde Euro in KI-Fabrik",
+    "Syrien-Debatte - Steinmeier kritisiert Stil der Debatte um Abschiebungen",
+    "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an"
   ],
   "hashes": [
-    "95818d037bb9d37bf71ab5a7e8d4c05b",
-    "0d19406a2eeffedcd493f92b5f937512",
     "f39c00017af7e529493d7325593935d2",
     "9cac049d887f1619ad389883acae8884",
     "5a5e3f7d02e7f0ce51198b95ab45f4c8",
@@ -4005,6 +4003,8 @@
     "54ddadbb4f53591ab9fc8559a4ff6b7f",
     "88d0bcdbdf5ec40c6f57306a5c2f1169",
     "0a2653ec8a9b7a87b8c682248073d0c9",
-    "45981c50873661892636bccabb76c58b"
+    "45981c50873661892636bccabb76c58b",
+    "e07e53565c983e9b48c761d35d32a7d3",
+    "2f3935f58e3ef75445a0b3fcd1363ce9"
   ]
 }
