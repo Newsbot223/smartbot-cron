@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-zu-israel-und-hamas-ein-guter-tag-aber-fuer-frieden-braucht-es-mehr-100.html",
-    "https://www.deutschlandfunk.de/kalifornien-beschliesst-regulierung-von-ki-chatbots-100.html",
-    "https://www.deutschlandfunk.de/bnd-chef-jaeger-warnt-russland-zu-direkter-militaerischer-auseinandersetzung-mit-der-nato-bereit-100.html",
     "https://www.deutschlandfunk.de/praesident-rajoelina-habe-mich-an-sicheren-ort-begeben-100.html",
     "https://www.deutschlandfunk.de/stromausfall-in-charkiw-nach-russischen-bomben-angriffen-100.html",
     "https://www.deutschlandfunk.de/erste-kabinettssitzung-der-neuen-regierung-und-regierungserklaerung-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ausland/eu-erweiterung-was-die-ukraine-braucht-110764921.html",
     "https://www.deutschlandfunk.de/franzoesisches-paar-nach-drei-jahren-haft-im-iran-entlassen-100.html",
     "https://www.deutschlandfunk.de/flugverkehr-nach-drohnensichtungen-gestoert-102.html",
-    "https://www.deutschlandfunk.de/internationale-razzien-gegen-finanzbetrugs-bande-102.html"
+    "https://www.deutschlandfunk.de/internationale-razzien-gegen-finanzbetrugs-bande-102.html",
+    "https://www.deutschlandfunk.de/urteil-in-aachener-prozess-um-mordserie-auf-palliativstation-erwartet-102.html",
+    "https://www.deutschlandfunk.de/regierung-beraet-ueber-massnahmen-zum-buerokratieabbau-100.html",
+    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-102.html"
   ],
   "content_hashes": [
-    "75c64d02cc6ebb8052f9d78d0f50ac9a",
-    "e5f775ef06db22373d74aaf9a6a84904",
-    "e85b068dbb807d4950a1be37baba8a72",
     "ec3cd021d440940cf5c2638411014176",
     "ecd6825e3f263d1067454ac13e267d23",
     "81c43cd28890de943b115c44661deb94",
@@ -2001,12 +1998,12 @@
     "95bf6e7a74a2295617c0b4934bd07e9e",
     "b8c93f7e48ca39f29fe4d463432d4177",
     "2c14190f1d24d72238b56bce1847d3dc",
-    "9b03eea274209e437661f6f93c42458a"
+    "9b03eea274209e437661f6f93c42458a",
+    "cbc45d9a492de24c61e1590da1e05fa6",
+    "61819f2daffade2d975946b9a91837bf",
+    "9ddbcc33d486f4a69696cb5dc81bfc1d"
   ],
   "titles": [
-    "Israel und Hamas - Kommentar: Ein guter Tag, aber für Frieden braucht es mehr",
-    "Künstliche Intelligenz - Kalifornien beschließt Regulierung von KI-Chatbots",
-    "Anhörung im Bundestag - BND-Chef Jäger warnt: \"Russland zu direkter militärischer Auseinandersetzung mit der NATO bereit\"",
     "Madagaskar -  Präsident Rajoelina: \"Habe mich an sicheren Ort begeben\"",
     "Ukraine - Stromausfall in Charkiw nach russischen Bomben-Angriffen",
     "Frankreich - Erste Kabinettssitzung der neuen Regierung und Regierungserklärung",
@@ -3003,12 +3000,12 @@
     "EU-Erweiterung: Was die Ukraine braucht",
     "\"Staatsgeiseln\" - Französisches Paar nach drei Jahren Haft im Iran entlassen",
     "Belgien - Flugverkehr nach Drohnensichtungen gestört",
-    "Fahndungserfolg - Internationale Razzien gegen Finanzbetrugs-Bande"
+    "Fahndungserfolg - Internationale Razzien gegen Finanzbetrugs-Bande",
+    "Kriminalität - Urteil in Aachener Prozess um Mordserie auf Palliativstation erwartet",
+    "Bundeskabinett - Regierung berät über Maßnahmen zum Bürokratieabbau",
+    "Nach Beschluss des Verfassungsgerichts - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen"
   ],
   "hashes": [
-    "dab874aabee708a048257e7191159e5b",
-    "253224dc889110c1dc0caead88568859",
-    "418f15636aba9096082f9d10d5cd7e44",
     "1bbb814ab450bdaf1ee5d0f0b04edb5f",
     "27871f5cd1fc01b8f11d6bedd7dadc69",
     "d98f2d999316dbaa7a7027cbf0b52ebb",
@@ -4005,6 +4002,9 @@
     "736edcbb3dbe242e0b9970e8a8c1a375",
     "9c2d0e4f71c52b2a52142ab84f89bd7e",
     "8d6c21f0504b09bc3936295bc341b7d0",
-    "72047300161b71e294fe12970d36bb1a"
+    "72047300161b71e294fe12970d36bb1a",
+    "84fb1657913488c56e87c5a96d054959",
+    "b7a3e242e6d6a48f07ed612a5f13f3c6",
+    "9c1e6b92168101e43dc0536889c1f554"
   ]
 }
