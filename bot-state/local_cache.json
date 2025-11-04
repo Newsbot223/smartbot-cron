@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verband-beklagt-zunehmende-klagen-und-politisch-motivierte-aktionen-gegen-schulleitungen-100.html",
-    "https://www.deutschlandfunk.de/neue-notfall-broschuere-mit-neuen-hinweisen-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/sebastien-lecornus-zweite-amtszeit-kaum-hoffnung-fuer-emmanuel-macron-accg-110728726.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-spd-waehler-fuer-sanktionen-beim-buergergeld-faz-110093143.html",
     "https://www.deutschlandfunk.de/russland-laut-bnd-chef-jaeger-zu-direkter-auseinandersetzung-mit-der-nato-bereit-100.html",
     "https://www.deutschlandfunk.de/expo-zu-ende-gegangen-mehr-als-27-millionen-besucher-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/opposition-in-tansania-beklagt-hunderte-tote-bei-unruhen-und-vertuschung-durch-die-behoerden-100.html",
     "https://www.deutschlandfunk.de/deutsche-telekom-investiert-mehr-als-eine-milliarde-euro-in-ki-fabrik-100.html",
     "https://www.deutschlandfunk.de/steinmeier-kritisiert-stil-der-debatte-um-abschiebungen-100.html",
-    "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html"
+    "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-bietet-afghanen-in-pakistan-geld-statt-einreise-100.html",
+    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-100.html",
+    "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html"
   ],
   "content_hashes": [
-    "7caecec6a2b2c0e82daaa32337c69863",
-    "130fc7667e5725f145d1c491a07e999b",
-    "e0dd37c0e5632da5c6b468acc746e8f1",
     "dd089a74f8578c2a91c5802be63fc06e",
     "822dcd0c34cd1facc1f345f48e71094d",
     "614e89301dcebc84bacc1fbc17dc35b8",
@@ -2001,12 +1998,12 @@
     "df0e7ccc8545cc15431163689d4f8546",
     "5a2068292a4f2e32ea8d1bfc4b5485e9",
     "942beaf5d480d100668e2fbcd624a089",
-    "58016158873307886dd7a362f1bc9642"
+    "58016158873307886dd7a362f1bc9642",
+    "69edf0ef386d977f1488fc06cbacdcbd",
+    "2890f0e32aac179bfe61831e288a1550",
+    "824b9be9e15adb18bc0a789af1aa1aee"
   ],
   "titles": [
-    "Niedersachsen - Verband beklagt zunehmende Klagen und politisch motivierte Aktionen gegen Schulleitungen",
-    "Bundesamt für Bevölkerungsschutz - Neue Notfall-Broschüre mit neuen Hinweisen",
-    "Lecornus zweite Amtszeit: Kaum Hoffnung für Macron",
     "Liveblog Bundespolitik: Auch SPD-Wähler für Komplettsanktionen beim Bürgergeld",
     "Anhörung im Bundestag - Russland laut BND-Chef Jäger zu direkter Auseinandersetzung mit der NATO bereit",
     "Japan - Expo zu Ende gegangen - mehr als 27 Millionen Besucher",
@@ -3003,12 +3000,12 @@
     "Ostafrika - Opposition in Tansania beklagt Hunderte Tote bei Unruhen und Vertuschung durch die Behörden",
     "Künstliche Intelligenz - Deutsche Telekom investiert mehr als eine Milliarde Euro in KI-Fabrik",
     "Syrien-Debatte - Steinmeier kritisiert Stil der Debatte um Abschiebungen",
-    "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an"
+    "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an",
+    "ARD-Recherche - Bundesregierung bietet Afghanen in Pakistan Geld statt Einreise",
+    "Nach Verfassungsgerichtsurteil - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
+    "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien"
   ],
   "hashes": [
-    "f39c00017af7e529493d7325593935d2",
-    "9cac049d887f1619ad389883acae8884",
-    "5a5e3f7d02e7f0ce51198b95ab45f4c8",
     "d01172f751075bd079824fa016f15a05",
     "de08e0fe156744e223a954c178af7308",
     "8800a537c89060faca4214f8cf8a769f",
@@ -4005,6 +4002,9 @@
     "0a2653ec8a9b7a87b8c682248073d0c9",
     "45981c50873661892636bccabb76c58b",
     "e07e53565c983e9b48c761d35d32a7d3",
-    "2f3935f58e3ef75445a0b3fcd1363ce9"
+    "2f3935f58e3ef75445a0b3fcd1363ce9",
+    "276db88ca4b91838e6b043a76eebed66",
+    "8f66f0a6ca9c57d3b64a5f1b3823f828",
+    "0a494cea3a06ce486923bddfff88c238"
   ]
 }
