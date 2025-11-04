@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/geiseln-frei-interview-bente-scheller-nahost-expertin-heinrich-boell-stiftung-100.html",
-    "https://www.deutschlandfunk.de/niederlande-uebernehmen-kontrolle-ueber-chip-hersteller-nexperia-100.html",
     "https://www.aljazeera.com/news/2025/10/13/conflict-sends-300000-people-fleeing-from-south-sudan-in-2025-un?traffic_source=rss",
     "https://www.deutschlandfunk.de/krankenkassen-befuerworten-sparplaene-der-bundesgesundheitsministerin-fuer-kliniken-100.html",
     "https://www.deutschlandfunk.de/deutsche-wolfs-population-entwickelt-sich-guenstig-abschuesse-kuenftig-erleichtert-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt-a-625fa9cc-4d91-42a9-a2e1-819df47c35fd#ref=rss",
     "https://www.deutschlandfunk.de/trump-versucht-massiven-einfluss-auf-buergermeisterwahl-zu-nehmen-aufruf-an-juden-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-will-stimm-vertretung-bei-mutterschutz-erlauben-100.html",
-    "https://www.deutschlandfunk.de/sondierungsgespraeche-zu-koalition-in-den-niederlanden-begonnen-100.html"
+    "https://www.deutschlandfunk.de/sondierungsgespraeche-zu-koalition-in-den-niederlanden-begonnen-100.html",
+    "https://www.deutschlandfunk.de/afghanen-mit-aufnahmezusage-in-deutschland-angekommen-100.html",
+    "https://www.deutschlandfunk.de/nach-messerangriff-spd-politikerin-stalzer-als-buergermeisterin-in-herdecke-vereidigt-100.html"
   ],
   "content_hashes": [
-    "bf81b354488dce6ffb7f87aa7c11323d",
-    "ce25516fa67b90c19738bb116ea26968",
     "dd2e7b61960c51e3f34376085293ae69",
     "e7f6ca6a313e6d96d682f918212f6902",
     "292d0a930c4c2415f0ce0a42e81bc534",
@@ -2001,11 +1999,11 @@
     "8907d8f156fabbd722a2f6998efb2495",
     "def50f88187374777311f51a4be352ef",
     "ddc6c79188d130561c4a39b12704dce7",
-    "14a59c3ce7e2a0e3663afab61035478b"
+    "14a59c3ce7e2a0e3663afab61035478b",
+    "02e18ec60ac33650c568283f2c41fda3",
+    "6aa13dbaac058ee5c32caf21392d3eda"
   ],
   "titles": [
-    "Geiseln sind frei - Nahost-Expertin: Es muss noch mehr erreicht werden",
-    "Sicherheitsinteressen als Grund - Niederlande übernehmen Kontrolle über Chip-Hersteller Nexperia",
     "Conflict sends 300,000 people fleeing from South Sudan in 2025: UN",
     "Gesundheitspolitik - Krankenkassen befürworten Sparpläne der Bundesgesundheitsministerin für Kliniken",
     "Ministerium - Deutsche Wolfs-Population entwickelt sich günstig - Abschüsse künftig erleichtert",
@@ -3003,11 +3001,11 @@
     "Offshore-Windparks: Viele Anlagen sind unzureichend für Extremwinde ausgelegt",
     "New York - Trump versucht, massiven Einfluss auf Bürgermeisterwahl zu nehmen: Aufruf an Juden",
     "Brüssel - EU-Parlament will Stimm-Vertretung bei Mutterschutz erlauben",
-    "Nach D66-Wahlsieg - Sondierungsgespräche zu Koalition in den Niederlanden begonnen"
+    "Nach D66-Wahlsieg - Sondierungsgespräche zu Koalition in den Niederlanden begonnen",
+    "Ehemalige Ortskräfte - Afghanen mit Aufnahmezusage in Deutschland angekommen",
+    "Nordrhein-Westfalen - Nach Messerangriff: SPD-Politikerin Stalzer als Bürgermeisterin in Herdecke vereidigt"
   ],
   "hashes": [
-    "0d64346b41897a0eaa9ba19de25e32f5",
-    "cc0471878e774b1911b6bc639aa61af6",
     "8371a8d3bf2583370f087a67b287b7ea",
     "181eb58abe5a381b37340865b064d0d8",
     "29f6b8be562e8637db107f858678e62d",
@@ -4005,6 +4003,8 @@
     "6b5fdd463689f908c74fbc8ac7096027",
     "650be539ed42d453bb94714effc84d5f",
     "4a850a432ef4e9974d8b1aaa497382d9",
-    "8a0ce53f038ece41f1a5e55412a93c3e"
+    "8a0ce53f038ece41f1a5e55412a93c3e",
+    "b0c1b152876ab13aab3a111f46ace910",
+    "529b6a8e1c4ec1552bf52e02c56aef9b"
   ]
 }
