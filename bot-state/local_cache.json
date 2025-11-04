@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/expo-zu-ende-gegangen-mehr-als-27-millionen-besucher-100.html",
-    "https://www.faz.net/aktuell/politik/klimapolitik-der-lange-abschied-vom-linkskurs-110728725.html",
-    "https://www.deutschlandfunk.de/alle-restlichen-israelischen-geiseln-sind-frei-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsnobelpreis-fuer-forschungen-zu-innovationsgetriebenem-wachstum-100.html",
     "https://www.deutschlandfunk.de/misstrauensantraege-gegen-neue-regierung-eingereicht-100.html",
     "https://www.deutschlandfunk.de/trump-neue-aera-in-nahem-osten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-100.html",
     "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/deutschkenntnisse-beschleunigen-integration-von-ukrainern-110764878.html",
-    "https://www.faz.net/aktuell/politik/inland/zwei-minister-gehen-suetterlin-waack-und-schwarz-110764473.html"
+    "https://www.faz.net/aktuell/politik/inland/zwei-minister-gehen-suetterlin-waack-und-schwarz-110764473.html",
+    "https://www.deutschlandfunk.de/gericht-stoppt-betriebsratswahl-bei-fraport-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-guenther-bildet-kabinett-um-100.html",
+    "https://www.deutschlandfunk.de/kritik-an-hohen-preisen-beim-laden-von-e-autos-100.html"
   ],
   "content_hashes": [
-    "614e89301dcebc84bacc1fbc17dc35b8",
-    "892b768a68ce0dc7d93e63edfcf4050a",
-    "3c88918a5d653e4190638a21ac95c770",
     "c8b370d2ccd63623f5c7859eedf11131",
     "8719636df47cc0b7b15f49254785ffce",
     "ea8d8492c74aac2b20a8c21143994e09",
@@ -2001,12 +1998,12 @@
     "2890f0e32aac179bfe61831e288a1550",
     "824b9be9e15adb18bc0a789af1aa1aee",
     "bee74b3cd74d557cb1e13d013f1b9560",
-    "80a87b68907ced9b17e46c1feb9be0e9"
+    "80a87b68907ced9b17e46c1feb9be0e9",
+    "e1b2765e351f3ad9b96ff44f91f7d178",
+    "6ce46bdcb3082f88a02a010aa792e8ad",
+    "0aba5b6bc651299e38e2ce57ded94b64"
   ],
   "titles": [
-    "Japan - Expo zu Ende gegangen - mehr als 27 Millionen Besucher",
-    "Klimapolitik: Der lange Abschied vom Linkskurs",
-    "Nahost - Alle restlichen israelischen Geiseln sind frei",
     "Stockholm - Wirtschaftsnobelpreis für Forschungen zu innovationsgetriebenem Wachstum",
     "Frankreich - Misstrauensanträge gegen neue Regierung eingereicht",
     "US-Präsident vor der Knesset - Trump: Neue Ära in Nahem Osten",
@@ -3003,12 +3000,12 @@
     "Nach Verfassungsgerichtsurteil - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
     "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien",
     "Ukraine-Flüchtlinge: Besser Deutsch sprechen hilft",
-    "Schleswig-Holstein: Zwei weitere Minister verlassen Kabinett"
+    "Schleswig-Holstein: Zwei weitere Minister verlassen Kabinett",
+    "Wirtschaft - Gericht stoppt Betriebsratswahl bei Fraport",
+    "Schleswig-Holstein - Ministerpräsident Günther bildet Kabinett um",
+    "Monopolkommission - Kritik an hohen Preisen beim Laden von E-Autos"
   ],
   "hashes": [
-    "8800a537c89060faca4214f8cf8a769f",
-    "17b12c0dd517b92ef83f090705558572",
-    "f1322b555c94fc4086a934822c56f9be",
     "fa50d4dcbe73362a57e551e9d6bace8c",
     "f1565bf6ca1f0d9ebd7d5dcb0290d89f",
     "e0d36884dc794e0c555a81d688233d14",
@@ -4005,6 +4002,9 @@
     "8f66f0a6ca9c57d3b64a5f1b3823f828",
     "0a494cea3a06ce486923bddfff88c238",
     "b65505f775dd665234d160ad8f5d155b",
-    "e503aa35428e7a563099477208d4f959"
+    "e503aa35428e7a563099477208d4f959",
+    "7008dfd65342aa2ee98363414b40a2a0",
+    "2e0bab1f78a99b8ea38dbf6e97d31d8a",
+    "75e20a4ef2cd5c47138649154cf12c6c"
   ]
 }
