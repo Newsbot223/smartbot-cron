@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-tote-nach-afghanischen-angriffen-auf-grenzposten-pakistan-kuendigt-harte-reaktion-an-104.html",
-    "https://www.deutschlandfunk.de/deutschland-gibt-eine-milliarde-fuer-globalen-fonds-100.html",
-    "https://www.deutschlandfunk.de/geisel-freilassung-soll-morgen-beginnen-trump-und-merz-zu-unterzeichnungszeremonie-erwartet-100.html",
-    "https://www.deutschlandfunk.de/praesident-rajoelina-spricht-nach-protesten-von-putschversuch-100.html",
     "https://www.deutschlandfunk.de/zahlreiche-tote-bei-gefechten-im-grenzgebiet-zwischen-afghanistan-und-pakistan-104.html",
     "https://www.deutschlandfunk.de/entlaufener-elch-erwin-eingefangen-102.html",
     "https://www.deutschlandfunk.de/praesidentschaftswahl-in-kamerun-92-jaehriger-staatschef-biya-strebt-achte-amtszeit-an-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/karlsruhe-entscheidet-ueber-klage-104.html",
     "https://www.deutschlandfunk.de/mamdani-favorit-bei-buergermeisterwahl-einmischung-von-trump-100.html",
     "https://www.aljazeera.com/news/liveblog/2025/11/4/live-joy-in-gaza-as-palestinians-freed-by-israel-reunite-with-families?traffic_source=rss",
-    "https://www.deutschlandfunk.de/cdu-verteidigungsausschusschef-roewekamp-rueckt-von-losverfahren-fuer-musterung-ab-100.html"
+    "https://www.deutschlandfunk.de/cdu-verteidigungsausschusschef-roewekamp-rueckt-von-losverfahren-fuer-musterung-ab-100.html",
+    "https://www.deutschlandfunk.de/demokrat-mamdani-favorit-bei-buergermeisterwahl-100.html",
+    "https://www.deutschlandfunk.de/eu-umweltminister-eroertern-klimaziele-gruenen-europaabgeordnete-reintke-mahnt-einigkeit-an-100.html",
+    "https://www.deutschlandfunk.de/welternaehrungsprogramm-startet-hilfsaufruf-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kommunalfinanzen-laender-saegen-am-ast-auf-dem-sie-sitzen-110762929.html"
   ],
   "content_hashes": [
-    "d1c9343123752bae47dd4a0b02493a5f",
-    "e3a4cd0b518c12b41e8cdf09e3a7ad5f",
-    "76819c206c0adcabd7afc119fbf28253",
-    "8cc8f746bfbc6fb32cf3625fdb6ecf43",
     "2c690a2e46bac8417e81253f071c9a97",
     "8d6504b0af1a2ce6efbe726eddf32b68",
     "989db57de2e13116f3cdd14ef52630a1",
@@ -2001,13 +1997,13 @@
     "253a667082f0f37600ad5bbe96a984c8",
     "ac60d5904ebb2d674eda03c4e5144755",
     "86db83adcd53098f5b2ee78a8da39719",
-    "818a7148d72ab8ef0a06806d82d688a3"
+    "818a7148d72ab8ef0a06806d82d688a3",
+    "1c57e16d3c50b747e8e5213319ca865e",
+    "7af525bed29d013ffb511cfa4ad5e5bf",
+    "f7141b19d17e9a999ada4a55bece4f7a",
+    "28d7d8038411c738a3b784c0e3aa47a6"
   ],
   "titles": [
-    "Afghanistan - Pakistan - Mehrere Tote nach afghanischen Angriffen auf Grenzposten - Pakistan kündigt harte Reaktion an",
-    "Aids, Tuberkulose, Malaria - Deutschland gibt eine Milliarde für Globalen Fonds",
-    "Gaza-Abkommen - Geisel-Freilassung soll morgen beginnen - Trump und Merz zu Unterzeichnungszeremonie erwartet",
-    "Madagaskar -  Präsident Rajoelina spricht nach Protesten von Putschversuch",
     "Mittlerer Osten - Zahlreiche Tote bei Gefechten im Grenzgebiet zwischen Afghanistan und Pakistan",
     "Schwarzwald - Entlaufener Elch \"Erwin\" eingefangen",
     "Zentralafrika - Präsidentschaftswahl in Kamerun - 92-jähriger Staatschef Biya strebt achte Amtszeit an",
@@ -3003,13 +2999,13 @@
     "\"Triage\"-Regel - Karlsruhe entscheidet über Klage",
     "New York - Mamdani Favorit bei Bürgermeisterwahl - Einmischung von Trump",
     "LIVE: Joy in Gaza as Palestinians freed by Israel reunite with families",
-    "Wehrdienst - CDU-Verteidigungsausschusschef Röwekamp rückt von Losverfahren für Musterung ab"
+    "Wehrdienst - CDU-Verteidigungsausschusschef Röwekamp rückt von Losverfahren für Musterung ab",
+    "New York - Demokrat Mamdani Favorit bei Bürgermeisterwahl",
+    "Brüssel - EU-Umweltminister erörtern Klimaziele - Grünen-Europaabgeordnete Reintke mahnt Einigkeit an",
+    "Hurrikan Melissa - Welternährungsprogramm startet Hilfsaufruf",
+    "Kommunalfinanzen: Die Länder sägen am Ast, auf dem sie sitzen"
   ],
   "hashes": [
-    "cd4bc0b2a0f89dcfc1c89b68d503ca9b",
-    "d8353d6ff9f3d874433457534f044993",
-    "5741017e2c04aa6a284c480f5b908a83",
-    "9755fd186a420a946bd3f1d6a8ae0c26",
     "9ded307160dae991e10a3d61c28ffbc9",
     "3aa29ece2fe70ccf099b8146ebfeb992",
     "ed6e2a0e0db2d826c79f22ef376bae97",
@@ -4005,6 +4001,10 @@
     "9dc72f59448f28269f17407f2f15c395",
     "7627a8389898225cab1c25d172e7dbaf",
     "47184e799b22283c0ebe474d6e957c15",
-    "541a97cfdf0b7a26f80abdf1530910e5"
+    "541a97cfdf0b7a26f80abdf1530910e5",
+    "43af7cd565af7b3e0fe14f088144726a",
+    "d0d862204fe78d85584705cae42b4cc4",
+    "65ddd8bf686fed1accdc6ed3ff5c34e8",
+    "c6ae1436d97e4308490e97650bf3ad5c"
   ]
 }
