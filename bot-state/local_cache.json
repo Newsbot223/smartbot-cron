@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/misstrauensantraege-gegen-neue-regierung-100.html",
-    "https://www.deutschlandfunk.de/impfkampagne-gegen-polio-in-pakistan-begonnen-100.html",
     "https://www.deutschlandfunk.de/geiseln-frei-interview-bente-scheller-nahost-expertin-heinrich-boell-stiftung-100.html",
     "https://www.deutschlandfunk.de/niederlande-uebernehmen-kontrolle-ueber-chip-hersteller-nexperia-100.html",
     "https://www.aljazeera.com/news/2025/10/13/conflict-sends-300000-people-fleeing-from-south-sudan-in-2025-un?traffic_source=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/stadtbild-und-migration-das-asylrecht-ist-kein-einwanderungsrecht-110764838.html",
     "https://www.deutschlandfunk.de/koeln-erlaesst-haushaltssperre-100.html",
     "https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt-a-625fa9cc-4d91-42a9-a2e1-819df47c35fd#ref=rss",
-    "https://www.deutschlandfunk.de/trump-versucht-massiven-einfluss-auf-buergermeisterwahl-zu-nehmen-aufruf-an-juden-100.html"
+    "https://www.deutschlandfunk.de/trump-versucht-massiven-einfluss-auf-buergermeisterwahl-zu-nehmen-aufruf-an-juden-100.html",
+    "https://www.deutschlandfunk.de/eu-parlament-will-stimm-vertretung-bei-mutterschutz-erlauben-100.html",
+    "https://www.deutschlandfunk.de/sondierungsgespraeche-zu-koalition-in-den-niederlanden-begonnen-100.html"
   ],
   "content_hashes": [
-    "5d756a23a0eaec811f752fc9c1000d11",
-    "4d47917cea9b20fc72e3088b970c27a4",
     "bf81b354488dce6ffb7f87aa7c11323d",
     "ce25516fa67b90c19738bb116ea26968",
     "dd2e7b61960c51e3f34376085293ae69",
@@ -2001,11 +1999,11 @@
     "8b87d6e61896e6160e49c6212d8b236c",
     "b8dbb6567da9d4842f0f84ffd4d8ece8",
     "8907d8f156fabbd722a2f6998efb2495",
-    "def50f88187374777311f51a4be352ef"
+    "def50f88187374777311f51a4be352ef",
+    "ddc6c79188d130561c4a39b12704dce7",
+    "14a59c3ce7e2a0e3663afab61035478b"
   ],
   "titles": [
-    "Frankreich - Misstrauensanträge gegen neue Regierung",
-    "Kinderlähmung - Impfkampagne gegen Polio in Pakistan begonnen",
     "Geiseln sind frei - Nahost-Expertin: Es muss noch mehr erreicht werden",
     "Sicherheitsinteressen als Grund - Niederlande übernehmen Kontrolle über Chip-Hersteller Nexperia",
     "Conflict sends 300,000 people fleeing from South Sudan in 2025: UN",
@@ -3003,11 +3001,11 @@
     "Stadtbild und Migration: Das Asylrecht ist kein Einwanderungsrecht",
     "Gestiegenes Defizit - Köln erlässt Haushaltssperre",
     "Offshore-Windparks: Viele Anlagen sind unzureichend für Extremwinde ausgelegt",
-    "New York - Trump versucht, massiven Einfluss auf Bürgermeisterwahl zu nehmen: Aufruf an Juden"
+    "New York - Trump versucht, massiven Einfluss auf Bürgermeisterwahl zu nehmen: Aufruf an Juden",
+    "Brüssel - EU-Parlament will Stimm-Vertretung bei Mutterschutz erlauben",
+    "Nach D66-Wahlsieg - Sondierungsgespräche zu Koalition in den Niederlanden begonnen"
   ],
   "hashes": [
-    "39613470d1f9847aeb6b12cd14958abd",
-    "1d9d49ba5cfeb7375fe716b6c44d5c6f",
     "0d64346b41897a0eaa9ba19de25e32f5",
     "cc0471878e774b1911b6bc639aa61af6",
     "8371a8d3bf2583370f087a67b287b7ea",
@@ -4005,6 +4003,8 @@
     "f7a4bd1b6cefb05628442ef159bcbeb2",
     "281def84da482b2a7392465726dcdb8c",
     "6b5fdd463689f908c74fbc8ac7096027",
-    "650be539ed42d453bb94714effc84d5f"
+    "650be539ed42d453bb94714effc84d5f",
+    "4a850a432ef4e9974d8b1aaa497382d9",
+    "8a0ce53f038ece41f1a5e55412a93c3e"
   ]
 }
