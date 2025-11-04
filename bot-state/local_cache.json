@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/lars-klingbeil-finanzminister-spricht-von-peinlicher-infrastruktur-in-deutschland-a-ba5125a5-b5e1-4565-aa37-02529566dc30#ref=rss",
-    "https://www.deutschlandfunk.de/ja-zur-klimaneutralitaet-nein-zum-grundeinkommen-116.html",
-    "https://www.deutschlandfunk.de/neue-regierung-ernannt-gruenen-vorsitzende-brantner-warnt-vor-weiterer-polarisierung-100.html",
-    "https://www.deutschlandfunk.de/wirtschaftsnobelpreis-zum-abschluss-der-diesjaehrigen-nobelpreise-104.html",
     "https://www.deutschlandfunk.de/merz-reist-zu-gaza-friedensplan-unterzeichnung-nach-aegypten-100.html",
     "https://www.faz.net/aktuell/politik/cdu-parteivize-jung-beim-klimaschutz-geht-es-um-konservative-werte-accg-110728772.html",
     "https://www.deutschlandfunk.de/wadephul-zuversichtlich-ueber-weiteren-verlauf-des-friedensprozesses-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/russland-attackiert-region-odessa-100.html",
     "https://www.deutschlandfunk.de/hoffnungstraeger-fuer-new-york-wer-ist-zohran-mamdani-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-macht-nordlaendern-hoffnung-100.html",
-    "https://www.deutschlandfunk.de/wadephul-keine-differenzen-mit-merz-bei-rueckfuehrungen-100.html"
+    "https://www.deutschlandfunk.de/wadephul-keine-differenzen-mit-merz-bei-rueckfuehrungen-100.html",
+    "https://www.deutschlandfunk.de/kabinettsumbau-zwei-weitere-minister-gehen-100.html",
+    "https://www.deutschlandfunk.de/kinderrechtsorganisationen-fordern-bei-klimapolitik-auch-das-wohl-junger-menschen-zu-beruecksichtige-102.html",
+    "https://www.deutschlandfunk.de/deutsche-gesellschaft-ist-weniger-gespalten-als-viele-denken-102.html",
+    "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-tritt-in-italien-in-hungerstreik-a-4604e676-6b02-4fb9-bcb0-e3cc27008c69#ref=rss"
   ],
   "content_hashes": [
-    "00c3154ba0a2609254142ffef00d147f",
-    "227658f9ca585c6d9142788b433a6958",
-    "8a8db7bd4f3b2e57b74d4eddba928f7a",
-    "0191b9465cd69747de6c21361a1bc597",
     "f30ae0cd780dc39e2a96b2b50e9a43f5",
     "535f2335653679ba90a05b28d1dec044",
     "65c0738a60ef7ef6144cddd7485c2a7a",
@@ -2001,13 +1997,13 @@
     "dc9b40d397b082d50cf080b9909a9984",
     "05b13da8deece0bed0ba96f8b4fcdc4e",
     "83c173afc544de8f08705782b85d26b1",
-    "3999b2682465e208838aa955221cae9e"
+    "3999b2682465e208838aa955221cae9e",
+    "a050fa84d4bc935838d8adc11004843e",
+    "38d89a8a74e3bdb60ebc23315a11cec7",
+    "821d08e0dc9e5bf6f28c5896197d4a73",
+    "b935466001fb3e73a7cf7a57b03e51a4"
   ],
   "titles": [
-    "Lars Klingbeil: Finanzminister spricht von »peinlicher« Infrastruktur in Deutschland",
-    "Volksentscheide in Hamburg - Ja zur Klimaneutralität, Nein zum Grundeinkommen",
-    "Frankreich - Neue Regierung ernannt - Grünen-Vorsitzende Brantner warnt vor weiterer Polarisierung",
-    "Stockholm - Wirtschaftsnobelpreis zum Abschluss der diesjährigen Nobelpreise",
     "Ägypten - Der Gaza-Friedensplan steht kurz vor der Unterzeichnung",
     "CDU-Parteivize Jung: „Verdammte Pflicht“, ökonomischen Klimaschutz hinzubekommen",
     "Nahost - Wadephul zuversichtlich über weiteren Verlauf des Friedensprozesses",
@@ -3003,13 +2999,13 @@
     "Ukraine-Krieg - Russland attackiert Region Odessa",
     "Bürgermeisterwahl - Hoffnungsträger für New York: Wer ist Zohran Mamdani?",
     "Mehr Geld für Häfen - Bundeskanzler Merz macht Nordländern Hoffnung",
-    "Syrien-Debatte - Wadephul: Keine Differenzen mit Merz bei Rückführungen"
+    "Syrien-Debatte - Wadephul: Keine Differenzen mit Merz bei Rückführungen",
+    "Schleswig-Holstein - Kabinettsumbau: Zwei weitere Minister gehen",
+    "Vor Weltklimakonferenz - Kinderrechtsorganisationen fordern, bei Klimapolitik auch das Wohl junger Menschen zu berücksichtigen",
+    "Umfrage - Deutsche Gesellschaft ist weniger gespalten als viele denken",
+    "Nord-Stream-Verdächtiger Serhij K. tritt in Italien in Hungerstreik"
   ],
   "hashes": [
-    "f9953e4f575d3db7c9ca496a343b370e",
-    "527246f662462624915be7ef929f9612",
-    "e8ceacb4d6090efbe15fd47ea2b8e345",
-    "dce55d2a2d31446347b6a25e4acbb0e3",
     "ecbd93026564302d482121c32f340ac7",
     "f1151f144fef0ec1d56d6f6d987270f2",
     "95818d037bb9d37bf71ab5a7e8d4c05b",
@@ -4005,6 +4001,10 @@
     "2a5891acae615198a31e216534ac9109",
     "6b2b4b4cd8c3b73c720077305b20301e",
     "5d145dd0989706f826998db03c1af1b4",
-    "d03bc1a6d8119bb4045591b6f26b3d59"
+    "d03bc1a6d8119bb4045591b6f26b3d59",
+    "1b2421c90d0bb8bf130347d0d3877dcf",
+    "8f365e34f1470df880784e08b21374d8",
+    "54ddadbb4f53591ab9fc8559a4ff6b7f",
+    "88d0bcdbdf5ec40c6f57306a5c2f1169"
   ]
 }
