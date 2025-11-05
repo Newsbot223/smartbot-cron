@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/immer-weniger-buchhandlungen-in-deutschland-102.html",
-    "https://www.deutschlandfunk.de/rotes-kreuz-herausforderungen-fuer-humanitaere-hilfe-sind-riesig-100.html",
-    "https://www.deutschlandfunk.de/trump-wird-bei-unterzeichnung-von-friedensabkommen-zwischen-thailand-und-kambodscha-dabei-sein-100.html",
     "https://www.deutschlandfunk.de/streiks-beeintraechtigen-verkehr-und-touristen-in-griechenland-100.html",
     "https://www.deutschlandfunk.de/vodafone-will-technik-aus-suedkorea-fuer-modernisierung-nutzen-huawei-komponenten-werden-ersetzt-100.html",
     "https://www.deutschlandfunk.de/prozess-gegen-ex-milliardaer-benko-begonnen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hoehere-kosten-fuer-neue-personalausweise-stossen-bei-unternehmen-auf-kritik-100.html",
     "https://www.deutschlandfunk.de/ig-metall-konkrete-verabredungen-muessen-getroffen-werden-fokus-auf-schutz-vor-billigstahl-aus-china-102.html",
     "https://www.deutschlandfunk.de/die-zitterpappel-ist-baum-des-jahres-2026-102.html",
-    "https://www.deutschlandfunk.de/eu-umweltminister-verstaendigen-sich-auf-klimaziel-bis-104.html"
+    "https://www.deutschlandfunk.de/eu-umweltminister-verstaendigen-sich-auf-klimaziel-bis-104.html",
+    "https://www.deutschlandfunk.de/russische-armee-konzentriert-angriffe-auf-pokrowsk-100.html",
+    "https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist-a-d69014ec-ca45-4c1f-b8bd-80e26fe75155#ref=rss",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/kommentar-die-demokraten-koennen-gegen-trump-gewinnen-jeder-auf-seine-art-110765741.html"
   ],
   "content_hashes": [
-    "785017f3128854ba270065dd987b2270",
-    "1af2c9256cf3cf42d0c304a74588b6a9",
-    "ae4f72849af284b12b67127a3b0cf9db",
     "185098d9bba8c18c0ccfd61817b67e28",
     "73c85dced89ecf18723405419fb058b8",
     "1665f6f7004b2767ddbc59fc216a0f8e",
@@ -2001,12 +1998,12 @@
     "f863c8f0aff91e4238c561f1ac066514",
     "48486ca09bac1015cb5289ab0836cbd8",
     "7e4932f0b6bae950502c05e088e284e8",
-    "77c9aaf887a0a5003e19aa910499a6d0"
+    "77c9aaf887a0a5003e19aa910499a6d0",
+    "1adc2630c253273ce19748aa785965d1",
+    "adfede8858951f720561847e4d2a3e2a",
+    "3fceec269e34bb730788999c78761e4e"
   ],
   "titles": [
-    "Statistisches Bundesamt - Immer weniger Buchhandlungen in Deutschland",
-    "Gazastreifen - Rotes Kreuz: Herausforderungen für humanitäre Hilfe sind riesig",
-    "Malaysia - Trump wird bei Unterzeichnung von Friedensabkommen zwischen Thailand und Kambodscha dabei sein",
     "Streit um Arbeitszeit - Streiks beeinträchtigen Verkehr und Touristen in Griechenland",
     "Mobilfunknetz - Vodafone will Technik aus Südkorea für Modernisierung nutzen - Huawei-Komponenten werden ersetzt",
     "Innsbruck - Prozess gegen Ex-Milliardär Benko begonnen",
@@ -3003,12 +3000,12 @@
     "Verwaltungsausgaben - Höhere Kosten für neue Personalausweise stoßen bei Unternehmen auf Kritik",
     "Vor Stahlgipfel - IG Metall: Konkrete Verabredungen müssen getroffen werden - Fokus auf Schutz vor Billigstahl aus China",
     "Botanik - Die Zitterpappel ist \"Baum des Jahres 2026\"",
-    "Brüssel - EU-Umweltminister verständigen sich auf Klimaziel bis 2040"
+    "Brüssel - EU-Umweltminister verständigen sich auf Klimaziel bis 2040",
+    "Ukraine-Krieg - Russische Armee konzentriert Angriffe auf Pokrowsk",
+    "Mond: Wo der Supermond am besten zu erkennen ist",
+    "US-Demokraten siegen: Wie die Demokraten aus ihrer Not eine Tugend machen"
   ],
   "hashes": [
-    "b1fcbcde4e5c8c07fea2a4b3b70cc7e2",
-    "183b329faba62adbe8433d34631e2204",
-    "42f6d281da2628b230d7e7670fd19523",
     "300ec3c6a4b8f09cb406a22a6ba367da",
     "337f8ff37ded1a48ea57ef4badac96e0",
     "387332e2aff31ca4c4a89489b68c73ca",
@@ -4005,6 +4002,9 @@
     "c6e020b3edae8d74a24f66854aee0e86",
     "2f29abbf4bca251f68e9d404100fca84",
     "7f088cd358693ab54fcae0862dc6e15c",
-    "7f6ec0c3e651b0f9bc45c45182742f10"
+    "7f6ec0c3e651b0f9bc45c45182742f10",
+    "03336deb98d56a07024c99ed47708180",
+    "daf95124197714c1bda220bad56addfa",
+    "04db489a7577b3eacd38145d03bcc437"
   ]
 }
