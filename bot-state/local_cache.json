@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israelische-spezialisten-identifizieren-vier-tote-geiseln-102.html",
-    "https://www.deutschlandfunk.de/naurus-praesident-adeang-nach-parlamentswahl-im-amt-bestaetigt-verfassungsreferendum-in-kleinster-re-100.html",
-    "https://www.deutschlandfunk.de/theologe-friedrich-magirius-gestorben-100.html",
-    "https://www.deutschlandfunk.de/ins-exil-geflohener-staatschef-rajoelina-loest-parlament-auf-opposition-massnahme-rechtlich-unwirksa-100.html",
     "https://www.aljazeera.com/news/2025/10/14/ngos-welcome-lebanons-push-for-justice-over-israeli-attack-on-journalists?traffic_source=rss",
     "https://www.deutschlandfunk.de/uno-draengt-auf-raschen-start-des-wiederaufbaus-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-verhaengt-strafen-gegen-modemarken-gucci-chlo-und-loewe-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/18-festnahmen-bei-razzien-gegen-internationales-betrugs-und-geldwaeschenetzwerk-ehemalige-verantwort-102.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-stellt-sich-in-syrien-diskussion-hinter-wadephul-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/kontakt-zu-iran-spion-mann-in-daenemark-festgenommen-accg-110766181.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesregierung-bietet-afghanen-geld-fuer-rueckkehr-accg-110766184.html"
+    "https://www.faz.net/aktuell/politik/inland/bundesregierung-bietet-afghanen-geld-fuer-rueckkehr-accg-110766184.html",
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-verurteilt-anschlag-auf-fahrzeug-von-afd-abgeordnetem-baumann-100.html",
+    "https://www.deutschlandfunk.de/mutmasslich-islamistischer-anschlag-auf-ile-d-oleron-autofahrer-ueberfaehrt-zahlreiche-menschen-100.html",
+    "https://www.faz.net/einspruch/bverfg-triage-regeln-verstossen-gegen-das-grundgesetz-110766002.html",
+    "https://www.faz.net/aktuell/politik/inland/aktivistinnen-gegen-digitalen-voyeurismus-110764922.html"
   ],
   "content_hashes": [
-    "ca6999a290436a6f127815d28d6d44f0",
-    "f5fb8ae19d53630fef18bb6934c0490f",
-    "4d80ee5f7b1367caee8fc39a070388a9",
-    "3cc4e164fce89c3ec42862e511ea62ba",
     "73cf2b09e02b0903fd5cfcf38674b16f",
     "3ad027fabcd61f89120a7ea45e5d579a",
     "cc8efc3b2d7057a05847c15fe98a6add",
@@ -2001,13 +1997,13 @@
     "628f8de0e069416da5afb876f8a8fe7d",
     "5b8f4d9fe4e4e201015e772e3e823d57",
     "433f615371d762e44cb4146c1649084e",
-    "3d61d35c572f6468aa0baee4bdf8b863"
+    "3d61d35c572f6468aa0baee4bdf8b863",
+    "08067f95f922aef31e3ad4cadd92ea03",
+    "93f026c04673bf8a82e68bf813223957",
+    "e52ba22609d6ad1ee23447057c48cb94",
+    "efacbeb8329cb5e6e6970fbc03cf3db7"
   ],
   "titles": [
-    "Nahost - Israelische Spezialisten identifizieren vier tote Geiseln",
-    "Südsee-Insel - Naurus Präsident Adeang nach Parlamentswahl im Amt bestätigt - Verfassungsreferendum in kleinster Republik der Welt abgelehnt",
-    "Leipziger Friedensgebete - Theologe Friedrich Magirius gestorben",
-    "Madagaskar -  Ins Exil geflohener Staatschef Rajoelina löst Parlament auf - Opposition: Maßnahme rechtlich unwirksam",
     "NGOs welcome Lebanon’s push for justice over Israeli attack on journalists",
     "Gazastreifen - UNO drängt auf raschen Start des Wiederaufbaus",
     "Wettbewerb - EU-Kommission verhängt Strafen gegen Modemarken Gucci, Chloé und Loewe",
@@ -3003,13 +2999,13 @@
     "Bundeskriminalamt - 18 Festnahmen bei Razzien gegen internationales Betrugs- und Geldwäschenetzwerk - ehemalige Verantwortliche deutscher Zahlungsdienstleister verdächtigt",
     "Liveblog Bundespolitik: „Selbstverständlich steht der Bundeskanzler hinter dem Außenminister“",
     "Kontakt zu Iran-Spion?: Weiterer Mann in Dänemark festgenommen",
-    "Geld für Afghanen: Für 5000 Euro zurück zu den Taliban"
+    "Geld für Afghanen: Für 5000 Euro zurück zu den Taliban",
+    "Extremismus - Bundestagspräsidentin Klöckner verurteilt Anschlag auf Fahrzeug von AfD-Abgeordnetem Baumann",
+    "Frankreich - Mutmaßlich islamistischer Anschlag auf Ile d'Oleron - Autofahrer überfährt zahlreiche Menschen",
+    "F.A.Z. Einspruch Podcast: Warum Karlsruhe die Triage-Regeln verworfen hat",
+    "Digitaler Voyeurismus: Wie betroffene Frauen Gesetzesänderungen bewirken"
   ],
   "hashes": [
-    "591604dd623156c25538622834857e8d",
-    "fb30ccd2d00228602ddbb542cd4de89e",
-    "c6b067c8869f6405bf4712a11bc424bb",
-    "a4e6676da07e41578120df0d35d2a305",
     "db8ad0d87b2340f950f2bc856b9e201e",
     "b6d7cf2eeb09861c89587c339f9435e8",
     "606f24c3bbfce6230cbe34e3442bcdee",
@@ -4005,6 +4001,10 @@
     "076ef997311216731440063daaaec254",
     "93295f46417dcacacd8bedf625712e7e",
     "f2c26f1022e965dcd3ebcad106438d25",
-    "95768c96c67fbd6df56985cc88a696a9"
+    "95768c96c67fbd6df56985cc88a696a9",
+    "fbac7d34f1c10bd87e69fa43c9477a35",
+    "95883830754dd138550b5032aca9648a",
+    "d8bd2f16d0b51a6980ca5302659b0279",
+    "8c0a4d496fbf79b217938bc1205d378c"
   ]
 }
