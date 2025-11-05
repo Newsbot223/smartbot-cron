@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-innenminister-wollen-rueckfuehrungen-nach-syrien-beschleunigen-100.html",
-    "https://www.deutschlandfunk.de/frankreichs-premier-lecornu-bietet-aussetzen-der-rentenreform-an-sozialisten-verzichten-zunaechst-au-100.html",
     "https://www.faz.net/aktuell/politik/inland/gruene-bringen-eigenen-gesetzentwurf-fuer-notfallreform-ein-110732018.html",
     "https://www.deutschlandfunk.de/israel-ueberstellt-erste-45-leichen-von-palaestinensern-nach-gaza-hamas-will-leichen-weiterer-geisel-100.html",
     "https://www.faz.net/aktuell/politik/inland/anne-spiegel-mit-fuenfstelligem-monatsgehalt-zurueck-in-die-politik-110731894.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/julia-kloeckners-blick-auf-prostitution-ist-einseitig-110766701.html",
     "https://www.deutschlandfunk.de/gremium-zu-erster-sitzung-zusammengekommen-102.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-an-rotes-kreuz-106.html",
-    "https://www.deutschlandfunk.de/aktivistin-karoline-preisler-mit-paul-spiegel-preis-fuer-zivilcourage-geehrt-104.html"
+    "https://www.deutschlandfunk.de/aktivistin-karoline-preisler-mit-paul-spiegel-preis-fuer-zivilcourage-geehrt-104.html",
+    "https://www.faz.net/aktuell/politik/inland/streit-ueber-wadephul-die-nervositaet-in-der-cdu-waechst-110766333.html",
+    "https://www.faz.net/aktuell/politik/inland/dolchstossprozess-1925-portraet-cossmann-und-suessheim-110739392.html"
   ],
   "content_hashes": [
-    "ffece43457fae12bafc000cd4bd03b7a",
-    "268479d257a7b6f1c6b274bcd54b0a1f",
     "7c9289ef1b41e28e64bd610a80c2fcfd",
     "1a022229763289d988c20a104791b918",
     "4c06e4c6de783ef9870b9705cdc9f88e",
@@ -2001,11 +1999,11 @@
     "4858e583335fd394ee2a9483f2cef9e7",
     "ab46e3d3e4f4ab49c0ed256cd4e83aee",
     "4e2d9b72674d6a618b0851af445e43e3",
-    "f98f5a14c117e31c4b04682a1e325a59"
+    "f98f5a14c117e31c4b04682a1e325a59",
+    "aa94affe121c231b9e8528fbb2d3ed17",
+    "84180b624a1b4c1f32f96b6839fd28f0"
   ],
   "titles": [
-    "Asylpolitik - EU-Innenminister wollen Rückführungen nach Syrien beschleunigen",
-    "Politische Krise - Frankreichs Premier Lecornu bietet Aussetzen der Rentenreform an - Sozialisten verzichten zunächst auf Sturz der Regierung",
     "F.A.Z. exklusiv: Grüne bringen eigenen Gesetzentwurf für Notfallreform ein",
     "Gaza-Krieg - Israel überstellt erste 45 Leichen von Palästinensern nach Gaza - Hamas will Leichen weiterer Geiseln übergeben",
     "Anne Spiegel: Mit fünfstelligem Monatsgehalt zurück in die Politik",
@@ -3003,11 +3001,11 @@
     "Klöckner zu Prostitution: Differenzierter Blick statt Schlagwörter",
     "Nationaler Sicherheitsrat - Gremium zu erster Sitzung zusammengekommen",
     "Gazastreifen - Hamas übergibt weitere Leiche an Rotes Kreuz",
-    "Berlin - Aktivistin Karoline Preisler mit Paul-Spiegel-Preis für Zivilcourage geehrt"
+    "Berlin - Aktivistin Karoline Preisler mit Paul-Spiegel-Preis für Zivilcourage geehrt",
+    "Streit über Wadephul: Die Nervosität in der CDU wächst",
+    "Dolchstoßprozess: Der Gerichtssaal als politisches Schlachtfeld"
   ],
   "hashes": [
-    "404379b5b7ec98ca756a3e1f4079279b",
-    "36dce1e5b797b7ca40b3ae4e3c9738fe",
     "a76e8301e04b4267bf4e3ba1c8eb5be4",
     "8d89e119c55c388afa91f36838f97497",
     "ca727a0f88b35b4581efb08d33ef527b",
@@ -4005,6 +4003,8 @@
     "71401d916254ab0243297dc7b57bb534",
     "49154aad3ecc667b49f9de16bc7aa19b",
     "c3cf6826cbedbf2238252b362a7ac5b6",
-    "e8fffae457aae5501112679dd6e2be44"
+    "e8fffae457aae5501112679dd6e2be44",
+    "fa2a3baeb53d53003a18dab6688db397",
+    "332f837bc247df4b8778f1591870eb4d"
   ]
 }
