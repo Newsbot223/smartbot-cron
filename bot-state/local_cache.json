@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesident-rajoelina-habe-mich-an-sicheren-ort-begeben-100.html",
-    "https://www.deutschlandfunk.de/stromausfall-in-charkiw-nach-russischen-bomben-angriffen-100.html",
-    "https://www.deutschlandfunk.de/erste-kabinettssitzung-der-neuen-regierung-und-regierungserklaerung-100.html",
     "https://www.deutschlandfunk.de/frankfurter-buchmesse-wird-eroeffnet-100.html",
     "https://www.deutschlandfunk.de/warken-wirkungen-der-pflegeleistungen-ueberpruefen-100.html",
     "https://www.aljazeera.com/news/liveblog/2025/10/14/live-trump-signs-gaza-ceasefire-deal-with-leaders-of-qatar-egypt-turkiye?traffic_source=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/internationale-razzien-gegen-finanzbetrugs-bande-102.html",
     "https://www.deutschlandfunk.de/urteil-in-aachener-prozess-um-mordserie-auf-palliativstation-erwartet-102.html",
     "https://www.deutschlandfunk.de/regierung-beraet-ueber-massnahmen-zum-buerokratieabbau-100.html",
-    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-102.html"
+    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-102.html",
+    "https://www.deutschlandfunk.de/beratungen-der-eu-umweltminister-bislang-ohne-einigung-102.html",
+    "https://www.deutschlandfunk.de/erdbeobachtungssatellit-sentinel-1d-ins-all-gestartet-104.html",
+    "https://www.deutschlandfunk.de/terre-des-hommes-kritisiert-eltern-fuer-zeigen-von-kindern-auf-social-media-106.html"
   ],
   "content_hashes": [
-    "ec3cd021d440940cf5c2638411014176",
-    "ecd6825e3f263d1067454ac13e267d23",
-    "81c43cd28890de943b115c44661deb94",
     "c99ebfe3572a93e2e6776d71d58f8fa0",
     "ae536f777f48de38ceee6a1bc7768cba",
     "5a8856cfc62d6de89b21afa01e107182",
@@ -2001,12 +1998,12 @@
     "9b03eea274209e437661f6f93c42458a",
     "cbc45d9a492de24c61e1590da1e05fa6",
     "61819f2daffade2d975946b9a91837bf",
-    "9ddbcc33d486f4a69696cb5dc81bfc1d"
+    "9ddbcc33d486f4a69696cb5dc81bfc1d",
+    "72422ef397932bba6d96b01299a549a6",
+    "88f08ee22ca9f1e28dd73a1ffa35211e",
+    "3b91d80e95f2a2bd7b266cc7f43f1b4a"
   ],
   "titles": [
-    "Madagaskar -  Präsident Rajoelina: \"Habe mich an sicheren Ort begeben\"",
-    "Ukraine - Stromausfall in Charkiw nach russischen Bomben-Angriffen",
-    "Frankreich - Erste Kabinettssitzung der neuen Regierung und Regierungserklärung",
     "Literatur - Frankfurter Buchmesse wird eröffnet",
     "Gesundheit - Warken: Wirkungen der Pflegeleistungen überprüfen",
     "LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye",
@@ -3003,12 +3000,12 @@
     "Fahndungserfolg - Internationale Razzien gegen Finanzbetrugs-Bande",
     "Kriminalität - Urteil in Aachener Prozess um Mordserie auf Palliativstation erwartet",
     "Bundeskabinett - Regierung berät über Maßnahmen zum Bürokratieabbau",
-    "Nach Beschluss des Verfassungsgerichts - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen"
+    "Nach Beschluss des Verfassungsgerichts - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
+    "Klimaziele - Beratungen der EU-Umweltminister bislang ohne Einigung",
+    "Copernicus-Programm - Erdbeobachtungssatellit Sentinel-1D ins All gestartet",
+    "\"Ausbeutung und Kinderarbeit\" - Terre des Hommes kritisiert Eltern für Zeigen von Kindern auf Social Media"
   ],
   "hashes": [
-    "1bbb814ab450bdaf1ee5d0f0b04edb5f",
-    "27871f5cd1fc01b8f11d6bedd7dadc69",
-    "d98f2d999316dbaa7a7027cbf0b52ebb",
     "e600ca575bdf2dfdc8fb95b64970fe83",
     "40362965dcea2ecddf9683a28a8cfa6d",
     "6fdd2a34de1d4a346715a8d791a1d396",
@@ -4005,6 +4002,9 @@
     "72047300161b71e294fe12970d36bb1a",
     "84fb1657913488c56e87c5a96d054959",
     "b7a3e242e6d6a48f07ed612a5f13f3c6",
-    "9c1e6b92168101e43dc0536889c1f554"
+    "9c1e6b92168101e43dc0536889c1f554",
+    "9e1a66cc70fdb19fd80ace8326f04c83",
+    "0107feb2d7f6b710c7e5381c8fe19ba6",
+    "a57a8acbf115abd7294338a4bc339297"
   ]
 }
