@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israelische-spezialisten-sollen-vier-tote-geiseln-identifizieren-102.html",
-    "https://www.deutschlandfunk.de/venezuela-schliesst-botschaft-in-norwegen-102.html",
     "https://www.deutschlandfunk.de/usa-und-china-erheben-jeweils-hafengebuehren-fuer-schiffe-der-anderen-seite-102.html",
     "https://www.deutschlandfunk.de/muslima-angegriffen-und-wurst-in-den-mund-gesteckt-66-jaehriger-deutscher-verurteilt-100.html",
     "https://www.deutschlandfunk.de/innenminister-beraten-ueber-migrations-und-asylpolitik-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/demokraten-gewinnen-gouverneurswahlen-in-new-jersey-und-virginia-102.html",
     "https://www.deutschlandfunk.de/neue-syrien-aeusserung-von-wadephul-stoesst-auf-unverstaendnis-102.html",
     "https://www.deutschlandfunk.de/mindestens-sieben-tote-bei-absturz-von-frachtflugzeug-in-us-bundesstaat-kentucky-102.html",
-    "https://www.deutschlandfunk.de/polizei-bewertet-antifa-bekennerschreiben-zum-brandanschlag-auf-auto-von-afd-politiker-baumann-als-a-100.html"
+    "https://www.deutschlandfunk.de/polizei-bewertet-antifa-bekennerschreiben-zum-brandanschlag-auf-auto-von-afd-politiker-baumann-als-a-100.html",
+    "https://www.deutschlandfunk.de/warken-pflegegrade-nicht-abschaffen-sondern-anpassen-100.html",
+    "https://www.deutschlandfunk.de/beratungen-der-eu-umweltminister-bislang-ohne-einigung-verhandlungen-werden-am-vormittag-fortgesetzt-100.html"
   ],
   "content_hashes": [
-    "510203bfe038fb34899bca3e68845a09",
-    "074f30ca1630462e5f2f7677852fecf6",
     "0a92bb89efbdbb4844a89a7e657383bb",
     "2a396f793a88c580b14b342d3dbb25ab",
     "40302c2e77215abd4a5781a1d69e24e1",
@@ -2001,11 +1999,11 @@
     "b64e103f89bfcea0f92bc71766b77430",
     "78c5c10c3c9c51fa26ef1640e46378e1",
     "a37e2bd7c377b28ea97a4a1132a12d34",
-    "369a287cdb375173f5d667f657a48371"
+    "369a287cdb375173f5d667f657a48371",
+    "a7838de17fe5b85a965a3bbdc9332754",
+    "9c7777c8ed463ee25965986f66c9b74e"
   ],
   "titles": [
-    "Nahost - Israelische Spezialisten sollen vier tote Geiseln identifizieren",
-    "Nach Friedensnobelpreis-Vergabe - Venezuela schließt Botschaft in Norwegen",
     "Handelskonflikt - USA und China erheben jeweils Hafengebühren für Schiffe der anderen Seite",
     "Österreich - Muslima angegriffen und Wurst in den Mund gesteckt - 66-jähriger Deutscher verurteilt",
     "Luxemburg - Innenminister beraten über Migrations- und Asylpolitik",
@@ -3003,11 +3001,11 @@
     "USA - Demokraten gewinnen Gouverneurswahlen in New Jersey und Virginia",
     "Unionsfraktion - Neue Syrien-Äußerung von Wadephul stößt auf Unverständnis",
     "Mindestens sieben Tote bei Absturz von Frachtflugzeug in US-Bundesstaat Kentucky",
-    "Linksextremismus - Polizei bewertet Antifa-Bekennerschreiben zum Brandanschlag auf Auto von AfD-Politiker Baumann als authentisch"
+    "Linksextremismus - Polizei bewertet Antifa-Bekennerschreiben zum Brandanschlag auf Auto von AfD-Politiker Baumann als authentisch",
+    "Gesundheit - Warken: Pflegegrade nicht abschaffen, sondern anpassen",
+    "Klimaziele - Beratungen der EU-Umweltminister bislang ohne Einigung, Verhandlungen werden am Vormittag fortgesetzt"
   ],
   "hashes": [
-    "b851f44777c3a869020668ea1e235645",
-    "a20e6816d239c7ecea35f3bcbf8aea72",
     "fa239e0dbbcd6a258547acbd9f5bd678",
     "46d1d1c84f5018188c74cb2796dc3f61",
     "0fb9d365b4054ffdf970fbf32cb38abf",
@@ -4005,6 +4003,8 @@
     "ba8903522d1df93b7ef0c49eda828008",
     "c4cbabcaaa5a1078810e2aef43a81a51",
     "537b65bb020b622937ea4eeb140db513",
-    "cf912436a5c07af6380accf65bce6746"
+    "cf912436a5c07af6380accf65bce6746",
+    "18346e109af1687bb24ddc4860e009e3",
+    "830d9c2f1fc9c11c363d514732998980"
   ]
 }
