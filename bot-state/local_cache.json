@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/europaeisches-lieferkettengesetz-soll-aufgeweicht-werden-100.html",
-    "https://www.deutschlandfunk.de/wadephul-palaestinenser-muessen-sich-von-hamas-lossagen-104.html",
-    "https://www.deutschlandfunk.de/weil-medikamente-nicht-mehr-wirken-die-zahl-der-todesopfer-steigt-100.html",
     "https://www.deutschlandfunk.de/weltgesundheitsorganisation-zehntausende-tote-in-europa-durch-krebserkrankungen-im-zusammenhang-mit--100.html",
     "https://www.deutschlandfunk.de/israelische-spezialisten-sollen-vier-tote-geiseln-identifizieren-102.html",
     "https://www.deutschlandfunk.de/venezuela-schliesst-botschaft-in-norwegen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/terre-des-hommes-kritisiert-eltern-fuer-zeigen-von-kindern-auf-social-media-106.html",
     "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-angekommen-106.html",
     "https://www.deutschlandfunk.de/von-hamas-uebergebene-leiche-als-israelischer-soldat-identifiziert-100.html",
-    "https://www.deutschlandfunk.de/demokrat-mamdani-gewinnt-buergermeisterwahl-100.html"
+    "https://www.deutschlandfunk.de/demokrat-mamdani-gewinnt-buergermeisterwahl-100.html",
+    "https://www.deutschlandfunk.de/demokraten-gewinnen-gouverneurswahlen-in-new-jersey-und-virginia-102.html",
+    "https://www.deutschlandfunk.de/neue-syrien-aeusserung-von-wadephul-stoesst-auf-unverstaendnis-102.html",
+    "https://www.deutschlandfunk.de/mindestens-sieben-tote-bei-absturz-von-frachtflugzeug-in-us-bundesstaat-kentucky-102.html"
   ],
   "content_hashes": [
-    "f803e24183a32ec6980d402f40d918ec",
-    "440925d11f10b8aab2fb696952d80277",
-    "1b99e2e06a1ff09965d3d8f1bb695b25",
     "7004bc8a4e69e47be6a5639dde9b584e",
     "510203bfe038fb34899bca3e68845a09",
     "074f30ca1630462e5f2f7677852fecf6",
@@ -2001,12 +1998,12 @@
     "3b91d80e95f2a2bd7b266cc7f43f1b4a",
     "f5b28ec97328efac8bd73734585f7223",
     "ba5363339ff376d8299e4dd4ef18e5ae",
-    "4750c67367972f867adf2db322724131"
+    "4750c67367972f867adf2db322724131",
+    "b64e103f89bfcea0f92bc71766b77430",
+    "78c5c10c3c9c51fa26ef1640e46378e1",
+    "a37e2bd7c377b28ea97a4a1132a12d34"
   ],
   "titles": [
-    "EU-Parlament - Europäisches Lieferkettengesetz soll aufgeweicht werden",
-    "Nahost - Wadephul: Palästinenser müssen sich von Hamas lossagen",
-    "Antibiotikaresistenzen - Weil Medikamente nicht mehr wirken – die Zahl der Todesopfer steigt",
     "Krebsprävention - Weltgesundheitsorganisation: Zehntausende Tote in Europa durch Krebserkrankungen im Zusammenhang mit Alkohol",
     "Nahost - Israelische Spezialisten sollen vier tote Geiseln identifizieren",
     "Nach Friedensnobelpreis-Vergabe - Venezuela schließt Botschaft in Norwegen",
@@ -3003,12 +3000,12 @@
     "\"Ausbeutung und Kinderarbeit\" - Terre des Hommes kritisiert Eltern für Zeigen von Kindern auf Social Media",
     "Hannover - Weitere Afghanen mit Aufnahmezusage angekommen",
     "Gazastreifen - Von Hamas übergebene Leiche als israelischer Soldat identifiziert",
-    "Politischer Stimmungstest in New York - Demokrat Mamdani gewinnt Bürgermeisterwahl"
+    "Politischer Stimmungstest in New York - Demokrat Mamdani gewinnt Bürgermeisterwahl",
+    "USA - Demokraten gewinnen Gouverneurswahlen in New Jersey und Virginia",
+    "Unionsfraktion - Neue Syrien-Äußerung von Wadephul stößt auf Unverständnis",
+    "Mindestens sieben Tote bei Absturz von Frachtflugzeug in US-Bundesstaat Kentucky"
   ],
   "hashes": [
-    "b230de7c3b00c47b02beab9b08519b90",
-    "b7f7137a16f4303d7b46356f5c29a68a",
-    "dde16f9448fc3503ffca0a5454ee72c0",
     "697cb12367f81bd8bdc745308e367ace",
     "b851f44777c3a869020668ea1e235645",
     "a20e6816d239c7ecea35f3bcbf8aea72",
@@ -4005,6 +4002,9 @@
     "a57a8acbf115abd7294338a4bc339297",
     "7515a62dbb8b3fe0815a7f5be78f13a1",
     "2c1f3869110ef7e6fa9cb09adb9f232d",
-    "af270cb509258d7d8371f2d762a4a05b"
+    "af270cb509258d7d8371f2d762a4a05b",
+    "ba8903522d1df93b7ef0c49eda828008",
+    "c4cbabcaaa5a1078810e2aef43a81a51",
+    "537b65bb020b622937ea4eeb140db513"
   ]
 }
