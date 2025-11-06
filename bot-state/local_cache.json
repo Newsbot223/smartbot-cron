@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/was-mit-der-aktivrente-geplant-ist-und-welche-kritik-es-daran-gibt-100.html",
-    "https://www.deutschlandfunk.de/kabinett-billigt-sparpaket-um-krankenkassenbeitraege-stabil-zu-halten-100.html",
-    "https://www.deutschlandfunk.de/regierung-setzt-auf-sparpaket-fuer-stabile-krankenkassenbeitraege-100.html",
     "https://www.deutschlandfunk.de/mehr-als-20-000-puten-in-niedersachsen-getoetet-100.html",
     "https://www.faz.net/aktuell/politik/ausland/friedensnobelpreis-fuer-machado-lateinamerika-zahlt-einen-hohen-preis-110731683.html",
     "https://www.deutschlandfunk.de/benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rehlinger-bekraeftigt-forderung-nach-hohen-eu-zoellen-auf-stahlimporte-106.html",
     "https://www.deutschlandfunk.de/unesco-beschliesst-empfehlung-zu-neurotechnologie-102.html",
     "https://www.deutschlandfunk.de/spitzentreffen-zur-zukunft-der-stahlbranche-im-kanzleramt-100.html",
-    "https://www.deutschlandfunk.de/prozess-gegen-mutmassliche-nsu-unterstuetzerin-beginnt-100.html"
+    "https://www.deutschlandfunk.de/prozess-gegen-mutmassliche-nsu-unterstuetzerin-beginnt-100.html",
+    "https://www.deutschlandfunk.de/mietkosten-nach-umzug-deutlich-hoeher-vor-allem-in-staedten-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-plant-hochgeschwindigkeitsnetz-fuer-bahnverbindungen-zwischen-metropolen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kein-wachstum-seit-2019-die-wirtschaftskrise-will-nicht-weichen-accg-110766645.html"
   ],
   "content_hashes": [
-    "27470c2f28705d9bbcbdd8dd4deb9649",
-    "30fd79c9a710a510dc4356cde6160d92",
-    "3e6bf5592a225c406a5fd3b24f3efb3e",
     "6a8c557513a6f529a9be886863eab8de",
     "fdbda93de335e2b548a7e8a9b35737a4",
     "7b7f316f69261abcaee2844875d44754",
@@ -2001,12 +1998,12 @@
     "14cac21ac45855b411c0ef1e2e15d1e5",
     "12720d90da6f69e2073ec6e39a4d8357",
     "e299cc72307f5209c711916c92ef4fcb",
-    "fb56712602c123aabf11cbd800e249ec"
+    "fb56712602c123aabf11cbd800e249ec",
+    "5347af4feaf1f0b9641017df1beec5ed",
+    "afd79ec2ecef738fe05c589cd9e32cc8",
+    "7773bc258bfe245dae5bf91a2f3272f7"
   ],
   "titles": [
-    "Beschluss des Bundeskabinetts - Was mit der \"Aktivrente\" geplant ist - und welche Kritik es daran gibt",
-    "Gesundheit - Kabinett billigt Sparpaket, um Krankenkassenbeiträge stabil zu halten",
-    "Kabinett - Regierung setzt auf Sparpaket für stabile Krankenkassenbeiträge",
     "Geflügelpest-Ausbruch - Mehr als 20.000 Puten in Niedersachsen getötet",
     "Demokratische Defizite: Lateinamerika zahlt einen hohen Preis",
     "Innsbruck - Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
@@ -3003,12 +3000,12 @@
     "Vor Stahlgipfel - Rehlinger bekräftigt Forderung nach hohen EU-Zöllen auf Stahlimporte",
     "Smartwatches und Wearables - Unesco beschließt Empfehlung zu Neurotechnologie",
     "Stahlgipfel - Spitzentreffen zur Zukunft der Stahlbranche im Kanzleramt",
-    "Dresden - Prozess gegen mutmaßliche NSU-Unterstützerin beginnt"
+    "Dresden - Prozess gegen mutmaßliche NSU-Unterstützerin beginnt",
+    "Studie - Mietkosten nach Umzug deutlich höher - vor allem in Städten",
+    "Zugverkehr - EU-Kommission plant Hochgeschwindigkeitsnetz für Bahnverbindungen zwischen Metropolen",
+    "Kein Wachstum seit 2019: Die Wirtschaftskrise will nicht weichen"
   ],
   "hashes": [
-    "b2c86c003f95492e026ca3d5cd715a9d",
-    "e42f9c08a6050ad682f5192f56e4f766",
-    "095b261a9b4bde2b0f663529321d6ad0",
     "abe87aa6c34197baf891dcdc21c27975",
     "902d41679be6df9f15d9f944adb34fcc",
     "6d5de89daff17d18ed054a802945eeee",
@@ -4005,6 +4002,9 @@
     "0d6b493f7d43c3596b7aeada9cc58482",
     "f3315e581f5e3205a8e01bf7daa6151f",
     "3e94fe63c0ab4aafa930deaaf1cce120",
-    "af0e4a3a06b7f4dc371d9e8fc200c5e7"
+    "af0e4a3a06b7f4dc371d9e8fc200c5e7",
+    "3bd0ace8676f12c7fecb853021d4f126",
+    "b7d8b1690dd1641953e3e27417234fef",
+    "c5057badc1621153f378cf3fa2d690a8"
   ]
 }
