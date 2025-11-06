@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fast-alle-journalisten-verlassen-pentagon-aus-protest-gegen-neue-regeln-100.html",
     "https://www.deutschlandfunk.de/ehec-infektionswelle-erreicht-schleswig-holstein-100.html",
     "https://www.faz.net/aktuell/cannabispolitik-defizite-mit-ansage-accg-110717650.html",
     "https://www.deutschlandfunk.de/israel-haelt-grenzuebergang-rafah-vorerst-geschlossen-102.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/klaus-esser-afd-spitze-mischt-sich-in-streit-im-nrw-landesverband-ein-110768311.html",
     "https://www.deutschlandfunk.de/anklage-gegen-ex-praesident-saakaschwili-wegen-umsturzvorwurf-100.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-fuer-gas-kunden-100.html",
-    "https://www.deutschlandfunk.de/lebenslang-fuer-russischen-soldaten-100.html"
+    "https://www.deutschlandfunk.de/lebenslang-fuer-russischen-soldaten-100.html",
+    "https://www.deutschlandfunk.de/erneute-proteste-gegen-austritt-aus-frauenschutz-abkommen-100.html"
   ],
   "content_hashes": [
-    "fd85d67cdaacde0ea263c6bb2a51ab62",
     "50405971a9d0b2ce7069508a6bda955e",
     "58891cf2d4853fe00484c34bba3e8d86",
     "57b3001b2353776ccbe1bdf645b48097",
@@ -2001,10 +2000,10 @@
     "7b3ff4d2af7a9dd829d3460da8dd3365",
     "0edf2fefb1b49e6256b63c70c56377ea",
     "6ddc35f7688793db1eea83dfb577f954",
-    "35480b98ed2a79be684553546d1bf26e"
+    "35480b98ed2a79be684553546d1bf26e",
+    "73c159be998555d8d7770ffedaac63ee"
   ],
   "titles": [
-    "USA - Fast alle Journalisten verlassen Pentagon aus Protest gegen neue Regeln",
     "Neuinfektion - EHEC-Infektionswelle erreicht Schleswig-Holstein",
     "Cannabispolitik: Defizite mit Ansage",
     "Nahost - Israel hält Grenzübergang Rafah vorerst geschlossen",
@@ -3003,10 +3002,10 @@
     "Fall Esser: AfD-Spitze mischt sich in Streit im Landesverband NRW ein",
     "Georgien - Anklage gegen Ex-Präsident Saakaschwili wegen Umsturzvorwurf",
     "Energiepreise - Bundestag beschließt Entlastung für Gas-Kunden",
-    "Ukraine-Krieg - Lebenslang für russischen Soldaten"
+    "Ukraine-Krieg - Lebenslang für russischen Soldaten",
+    "Lettland - Erneute Proteste gegen Austritt aus Frauenschutz-Abkommen"
   ],
   "hashes": [
-    "9b6dcfa31d77b84d917c3f2748a3fe31",
     "04a1e2f513770f34c2707185cfd12417",
     "6d546ea1710c68f38ce4ab2110d2fb1f",
     "c89178f83997dc6a58654e1769694a44",
@@ -4005,6 +4004,7 @@
     "6681ae35d677dc6f99f8e5a0cadffea7",
     "7bc0822fc0ddd67ba1e8090056a4c706",
     "62d00023ab91c7c2fcbeec9e37aca464",
-    "6f476ccfc9f8f1aeda088c13b85a687e"
+    "6f476ccfc9f8f1aeda088c13b85a687e",
+    "6026cf9d29a12ef9c739415b5418677d"
   ]
 }
