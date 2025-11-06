@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hamas-gibt-zwei-weitere-tote-geiseln-an-israel-zurueck-104.html",
-    "https://www.deutschlandfunk.de/hunderte-haeftlinge-protestieren-mit-hungerstreik-gegen-steigende-zahl-von-hinrichtungen-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-auf-beiden-seiten-100.html",
     "https://www.deutschlandfunk.de/ex-unternehmer-benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-104.html",
     "https://www.deutschlandfunk.de/indien-will-laut-trump-kein-oel-mehr-in-russland-kaufen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wagenknecht-will-sich-fuer-partei-weiter-in-fuehrender-rolle-einsetzen-100.html",
     "https://www.deutschlandfunk.de/europaeischer-gerichtshof-fuer-menschenrechte-verwirft-klage-von-katalanischen-aktivisten-gegen-ihre-100.html",
     "https://www.faz.net/aktuell/politik/inland/corona-enquete-franziska-hoppermann-im-interview-accg-110768198.html",
-    "https://www.faz.net/aktuell/politik/ausland/neuer-nationaler-sicherheitsrat-abstimmung-ist-bitter-noetig-110768265.html"
+    "https://www.faz.net/aktuell/politik/ausland/neuer-nationaler-sicherheitsrat-abstimmung-ist-bitter-noetig-110768265.html",
+    "https://www.deutschlandfunk.de/polen-will-buerger-in-militaerthemen-schulen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/linken-politikerin-buenger-faellt-bei-wahl-fuer-parlamentarisches-kontrollgremium-durch-110767912.html"
   ],
   "content_hashes": [
-    "027030bbd8c0470c9abea9ce7d73db79",
-    "0c6d993f43b4b8dd71179fd1ce176964",
     "1c6e8dc12d48a8086e46bab1a43c0ad9",
     "840d666e1c06151a623fde9ee8b59434",
     "4d89a948b162c0127ae4bc6c05dbde7b",
@@ -2001,11 +1999,11 @@
     "e80496c107bf3da0079709546895ea21",
     "d135186e3313efd73d659346b4b2e699",
     "9997f765053bfa286d4d033263d88ed0",
-    "2b61060da3eee40ea0948ce1a81e8cc3"
+    "2b61060da3eee40ea0948ce1a81e8cc3",
+    "95d819b3b41332a43756be6f40242f4b",
+    "563d79a6eeba2a6785a023e40e0fc654"
   ],
   "titles": [
-    "Waffenruheabkommen - Hamas gibt zwei weitere tote Geiseln an Israel zurück",
-    "Iran - Hunderte Häftlinge protestieren mit Hungerstreik gegen steigende Zahl von Hinrichtungen",
     "Russischer Angriffskrieg - Tote und Verletzte auf beiden Seiten",
     "Innsbruck - Ex-Unternehmer Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
     "Russland-Sanktionen - Indien will laut Trump kein Öl mehr in Russland kaufen",
@@ -3003,11 +3001,11 @@
     "BSW - Wagenknecht will sich für Partei \"weiter in führender Rolle einsetzen\"",
     "Straßburg - Europäischer Gerichtshof für Menschenrechte verwirft Klage von katalanischen Aktivisten gegen ihre Untersuchungshaft",
     "Vorsitzende der Corona-Enquete: Franziska Hoppermann sucht nach Konsens mit der AfD",
-    "Nationaler Sicherheitsrat: Abstimmung ist bitter nötig"
+    "Nationaler Sicherheitsrat: Abstimmung ist bitter nötig",
+    "\"In Bereitschaft\" - Polen will Bürger in Militärthemen schulen",
+    "Mehrheit verfehlt: Linken-Politikerin Bünger fällt bei Wahl für Parlamentarisches Kontrollgremium durch"
   ],
   "hashes": [
-    "797ddd7e799cbb9466ceac9b4605cb8e",
-    "716e54540898038c66edb6f5a8b508cd",
     "468fb20ada21815fcdbffe86be3f896b",
     "13d64abc19c9718eca2fdb31b78b194d",
     "21d8264a8eedfa3821dad1fc76016ea1",
@@ -4005,6 +4003,8 @@
     "dc6c61a0ec8d1748161f428a2234ea1e",
     "10cf04bc300f32868d529139afed49e2",
     "0b4ca864643b9bafdf7de740b3ce6b2a",
-    "e769c21e9bc2a24f356521a2c24a3b26"
+    "e769c21e9bc2a24f356521a2c24a3b26",
+    "8c15b6802458a15054b0806ef4678131",
+    "fcf7457b588af416bda811630fd8e55c"
   ]
 }
