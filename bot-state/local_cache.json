@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-haelt-grenzuebergang-rafah-vorerst-geschlossen-102.html",
-    "https://www.deutschlandfunk.de/bundesarbeitsministerin-bas-verteidigt-rentenplaene-102.html",
-    "https://www.deutschlandfunk.de/frau-soll-in-psychiatrie-100.html",
-    "https://www.deutschlandfunk.de/europa-soll-bis-2030-verteidigungsbereit-sein-100.html",
     "https://www.deutschlandfunk.de/merz-fordert-in-regierungserklaerung-staerkeres-europa-100.html",
     "https://www.deutschlandfunk.de/wirtschaft-im-sommer-wohl-noch-nicht-zurueck-in-der-wachstumsspur-100.html",
     "https://www.deutschlandfunk.de/fahrlehrerverband-schlaegt-kompaktere-ausbildung-vor-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/lebenslang-fuer-russischen-soldaten-100.html",
     "https://www.deutschlandfunk.de/erneute-proteste-gegen-austritt-aus-frauenschutz-abkommen-100.html",
     "https://www.deutschlandfunk.de/drohnensichtung-am-flughafen-goeteborg-flugverkehr-eingestellt-102.html",
-    "https://www.deutschlandfunk.de/einschraenkung-von-gender-auswahl-in-us-pass-erlaubt-100.html"
+    "https://www.deutschlandfunk.de/einschraenkung-von-gender-auswahl-in-us-pass-erlaubt-100.html",
+    "https://www.deutschlandfunk.de/cybermobbing-trifft-zunehmend-auch-erwachsene-100.html",
+    "https://www.deutschlandfunk.de/schlussabstimmung-ueber-finanzierung-von-deutschlandticket-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-beendet-afrika-reise-100.html",
+    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-flug-streichungen-114.html"
   ],
   "content_hashes": [
-    "57b3001b2353776ccbe1bdf645b48097",
-    "cd5f0f9171102fb2a0f36ce6cdac7e8d",
-    "dfbad24223511fce5b33e75f9058b3f9",
-    "2fc2a999fcd464cf17f36016106bbe09",
     "13483debabad24cbbcb3d6809b0d677d",
     "7b1ee2ce343489b30e887585ae196c64",
     "9d30a8b1205883a76b288a55048a519f",
@@ -2001,13 +1997,13 @@
     "35480b98ed2a79be684553546d1bf26e",
     "73c159be998555d8d7770ffedaac63ee",
     "508c17c77b22754703b00b7b83686f2f",
-    "40c1cc44a24c78c1a0676e3fd2cbf559"
+    "40c1cc44a24c78c1a0676e3fd2cbf559",
+    "50dbd3fbaa797babb1a52ede9fe2d45b",
+    "bc35ae1e6845b32863db0ffbf9ae64c5",
+    "d82e0358af8b6f1a288e7129d7a955cb",
+    "190ff35e4f9811b845b1b605d9fbbb97"
   ],
   "titles": [
-    "Nahost - Israel hält Grenzübergang Rafah vorerst geschlossen",
-    "Bundestag - Bundesarbeitsministerin Bas verteidigt Rentenpläne",
-    "Nach Messerangriff am Hamburg Hbf - Frau soll in Psychiatrie",
-    "EU-Kommission - Europa soll bis 2030 verteidigungsbereit sein",
     "Bundestag - Merz fordert in Regierungserklärung stärkeres Europa",
     "Bundesbank - Wirtschaft im Sommer wohl noch nicht zurück in der Wachstumsspur",
     "Diskussion über Führerschein - Fahrlehrerverband schlägt kompaktere Ausbildung vor",
@@ -3003,13 +2999,13 @@
     "Ukraine-Krieg - Lebenslang für russischen Soldaten",
     "Lettland - Erneute Proteste gegen Austritt aus Frauenschutz-Abkommen",
     "Schweden - Drohnensichtung am Flughafen Göteborg - Flugverkehr eingestellt",
-    "Oberstes Gericht in USA - Einschränkung von Gender-Auswahl in US-Pass erlaubt"
+    "Oberstes Gericht in USA - Einschränkung von Gender-Auswahl in US-Pass erlaubt",
+    "Bündnis legt Studie vor - Cybermobbing trifft zunehmend auch Erwachsene",
+    "Bundestag - Schlussabstimmung über Finanzierung von Deutschlandticket",
+    "Ägypten, Ghana, Angola - Bundespräsident Steinmeier beendet Afrika-Reise",
+    "USA - Shutdown führt zu Flug-Streichungen"
   ],
   "hashes": [
-    "c89178f83997dc6a58654e1769694a44",
-    "eb3bf815f46f355153f7eef6439a5eb8",
-    "8c427072689aade8885cdbadba8cdb0b",
-    "9fbcd1017d72d33d4daf9130b4c40fd5",
     "a1ae1c7455af8bd3fc2a915931eb19a9",
     "9441ab5b8ca0b63a751b02b5cc8fdf43",
     "1595b3ae476fddbe5e87cd7549d2c642",
@@ -4005,6 +4001,10 @@
     "6f476ccfc9f8f1aeda088c13b85a687e",
     "6026cf9d29a12ef9c739415b5418677d",
     "7dccedafb04c9d7b75fa2654f46463a6",
-    "fff4b6e684a390d45245a09e47682828"
+    "fff4b6e684a390d45245a09e47682828",
+    "19c9ea8106b5be14bed3a71236a38584",
+    "efed6d4b48cd073cdc0e0db763277da8",
+    "8d954a85ebb53092f9637459a2ffc834",
+    "aac1023c25d4d9f77de8a9e7edccb116"
   ]
 }
