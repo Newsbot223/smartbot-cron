@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afrikanische-union-suspendiert-madagaskar-104.html",
-    "https://www.deutschlandfunk.de/us-gericht-stoppt-trumps-massenentlassungen-im-shutdown-100.html",
     "https://www.deutschlandfunk.de/hamas-gibt-zwei-weitere-tote-geiseln-an-israel-zurueck-104.html",
     "https://www.deutschlandfunk.de/hunderte-haeftlinge-protestieren-mit-hungerstreik-gegen-steigende-zahl-von-hinrichtungen-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-auf-beiden-seiten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neue-mitte-studie-vorgestellt-rechtsextreme-einstellungen-wachsen-kaum-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-sich-manche-deutsche-einen-diktator-wuenschen-accg-110756791.html",
     "https://www.deutschlandfunk.de/wagenknecht-will-sich-fuer-partei-weiter-in-fuehrender-rolle-einsetzen-100.html",
-    "https://www.deutschlandfunk.de/europaeischer-gerichtshof-fuer-menschenrechte-verwirft-klage-von-katalanischen-aktivisten-gegen-ihre-100.html"
+    "https://www.deutschlandfunk.de/europaeischer-gerichtshof-fuer-menschenrechte-verwirft-klage-von-katalanischen-aktivisten-gegen-ihre-100.html",
+    "https://www.faz.net/aktuell/politik/inland/corona-enquete-franziska-hoppermann-im-interview-accg-110768198.html",
+    "https://www.faz.net/aktuell/politik/ausland/neuer-nationaler-sicherheitsrat-abstimmung-ist-bitter-noetig-110768265.html"
   ],
   "content_hashes": [
-    "19be59934ccccaa3855970b2148a9083",
-    "e6f7de3b82868e1a3ea085bbc8a41025",
     "027030bbd8c0470c9abea9ce7d73db79",
     "0c6d993f43b4b8dd71179fd1ce176964",
     "1c6e8dc12d48a8086e46bab1a43c0ad9",
@@ -2001,11 +1999,11 @@
     "374f7130c8361024e17e283a4ed5fcdb",
     "040e09cb011d145bd9c57ba6dc7ce4bd",
     "e80496c107bf3da0079709546895ea21",
-    "d135186e3313efd73d659346b4b2e699"
+    "d135186e3313efd73d659346b4b2e699",
+    "9997f765053bfa286d4d033263d88ed0",
+    "2b61060da3eee40ea0948ce1a81e8cc3"
   ],
   "titles": [
-    "Nach Machtübernahme durch Militär - Afrikanische Union suspendiert Madagaskar",
-    "Haushaltssperre - US-Gericht stoppt Trumps Massenentlassungen im Shutdown",
     "Waffenruheabkommen - Hamas gibt zwei weitere tote Geiseln an Israel zurück",
     "Iran - Hunderte Häftlinge protestieren mit Hungerstreik gegen steigende Zahl von Hinrichtungen",
     "Russischer Angriffskrieg - Tote und Verletzte auf beiden Seiten",
@@ -3003,11 +3001,11 @@
     "Mitte-Studie 2025 - Vorurteile gegen Minderheiten sind weit verbreitet",
     "Liberalismus in der Krise: Ein bisschen Repression, bitte!",
     "BSW - Wagenknecht will sich für Partei \"weiter in führender Rolle einsetzen\"",
-    "Straßburg - Europäischer Gerichtshof für Menschenrechte verwirft Klage von katalanischen Aktivisten gegen ihre Untersuchungshaft"
+    "Straßburg - Europäischer Gerichtshof für Menschenrechte verwirft Klage von katalanischen Aktivisten gegen ihre Untersuchungshaft",
+    "Vorsitzende der Corona-Enquete: Franziska Hoppermann sucht nach Konsens mit der AfD",
+    "Nationaler Sicherheitsrat: Abstimmung ist bitter nötig"
   ],
   "hashes": [
-    "f7c173444faf8423edb004457a2a1470",
-    "c9caf5bb26cc7cc9b8b838299fb0c991",
     "797ddd7e799cbb9466ceac9b4605cb8e",
     "716e54540898038c66edb6f5a8b508cd",
     "468fb20ada21815fcdbffe86be3f896b",
@@ -4005,6 +4003,8 @@
     "96b5112c5543caf8f8d4982de0448baa",
     "c6aafa0db3a3d2c079acad558c839d1f",
     "dc6c61a0ec8d1748161f428a2234ea1e",
-    "10cf04bc300f32868d529139afed49e2"
+    "10cf04bc300f32868d529139afed49e2",
+    "0b4ca864643b9bafdf7de740b3ce6b2a",
+    "e769c21e9bc2a24f356521a2c24a3b26"
   ]
 }
