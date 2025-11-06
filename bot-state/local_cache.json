@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tote-und-verletzte-auf-beiden-seiten-100.html",
-    "https://www.deutschlandfunk.de/ex-unternehmer-benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-104.html",
-    "https://www.deutschlandfunk.de/indien-will-laut-trump-kein-oel-mehr-in-russland-kaufen-102.html",
-    "https://www.deutschlandfunk.de/auch-heute-noch-stoerungen-des-zugverkehrs-im-raum-hamburg-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/10/15/whats-next-for-released-palestinian-prisoners?traffic_source=rss",
     "https://www.deutschlandfunk.de/ngo-ueberpruefungen-durch-verfassungsschutz-im-auftrag-der-ministerien-102.html",
     "https://www.deutschlandfunk.de/trump-genehmigt-cia-einsaetze-in-venezuela-102.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/corona-enquete-franziska-hoppermann-im-interview-accg-110768198.html",
     "https://www.faz.net/aktuell/politik/ausland/neuer-nationaler-sicherheitsrat-abstimmung-ist-bitter-noetig-110768265.html",
     "https://www.deutschlandfunk.de/polen-will-buerger-in-militaerthemen-schulen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/linken-politikerin-buenger-faellt-bei-wahl-fuer-parlamentarisches-kontrollgremium-durch-110767912.html"
+    "https://www.faz.net/aktuell/politik/inland/linken-politikerin-buenger-faellt-bei-wahl-fuer-parlamentarisches-kontrollgremium-durch-110767912.html",
+    "https://www.deutschlandfunk.de/ostdeutsche-bundeslaender-fordern-groesseren-anteil-an-eu-geldern-102.html",
+    "https://www.deutschlandfunk.de/waffenfund-in-oesterreich-100.html",
+    "https://www.deutschlandfunk.de/wagenknecht-will-weiterhin-fuehrende-rolle-in-partei-102.html",
+    "https://www.faz.net/aktuell/politik/tadschikistan-aus-deutschland-dorthin-abgeschoben-wo-folter-droht-110768398.html"
   ],
   "content_hashes": [
-    "1c6e8dc12d48a8086e46bab1a43c0ad9",
-    "840d666e1c06151a623fde9ee8b59434",
-    "4d89a948b162c0127ae4bc6c05dbde7b",
-    "ebcfcf60a3aa8b528124a86a23d97a3d",
     "93d98fcf1b400d8deff6cb2a9f9914c6",
     "279f1a1a9dd382fdd8286d487d95efdd",
     "d017ebedfcf0a10eee6c5dc1ba79e7a8",
@@ -2001,13 +1997,13 @@
     "9997f765053bfa286d4d033263d88ed0",
     "2b61060da3eee40ea0948ce1a81e8cc3",
     "95d819b3b41332a43756be6f40242f4b",
-    "563d79a6eeba2a6785a023e40e0fc654"
+    "563d79a6eeba2a6785a023e40e0fc654",
+    "4d3dc3b962b3e06233d98c04758b7349",
+    "f2a897167a08dbfbd8c0d60933662544",
+    "b750293c70a67be9ad3d99ee5e68e39f",
+    "59683bf9202176b1103c0fbff706732c"
   ],
   "titles": [
-    "Russischer Angriffskrieg - Tote und Verletzte auf beiden Seiten",
-    "Innsbruck - Ex-Unternehmer Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
-    "Russland-Sanktionen - Indien will laut Trump kein Öl mehr in Russland kaufen",
-    "Deutsche Bahn - Auch heute noch Störungen des Zugverkehrs im Raum Hamburg",
     "What’s next for released Palestinian prisoners?",
     "Medienbericht - NGO-Überprüfungen durch Verfassungsschutz im Auftrag der Ministerien",
     "Kampf gegen Drogenschmuggel - Trump genehmigt CIA-Einsätze in Venezuela",
@@ -3003,13 +2999,13 @@
     "Vorsitzende der Corona-Enquete: Franziska Hoppermann sucht nach Konsens mit der AfD",
     "Nationaler Sicherheitsrat: Abstimmung ist bitter nötig",
     "\"In Bereitschaft\" - Polen will Bürger in Militärthemen schulen",
-    "Mehrheit verfehlt: Linken-Politikerin Bünger fällt bei Wahl für Parlamentarisches Kontrollgremium durch"
+    "Mehrheit verfehlt: Linken-Politikerin Bünger fällt bei Wahl für Parlamentarisches Kontrollgremium durch",
+    "Treffen in Brüssel - Ostdeutsche Bundesländer fordern größeren Anteil an EU-Geldern",
+    "Nach Hamas-Festnahmen in Berlin - Waffenfund in Österreich",
+    "BSW - Wagenknecht will weiterhin führende Rolle in Partei",
+    "Tadschikistan: Für ein Visum ausgereist, nicht zurückgekommen"
   ],
   "hashes": [
-    "468fb20ada21815fcdbffe86be3f896b",
-    "13d64abc19c9718eca2fdb31b78b194d",
-    "21d8264a8eedfa3821dad1fc76016ea1",
-    "47bde6676ceabb4fe4ea1e319c78fdb7",
     "75af9126c2147afdee9b50490987a5fe",
     "e0df081b9f6867760fa9f5b4ae74c26f",
     "b08795b26ac010f948713f521e9ede9b",
@@ -4005,6 +4001,10 @@
     "0b4ca864643b9bafdf7de740b3ce6b2a",
     "e769c21e9bc2a24f356521a2c24a3b26",
     "8c15b6802458a15054b0806ef4678131",
-    "fcf7457b588af416bda811630fd8e55c"
+    "fcf7457b588af416bda811630fd8e55c",
+    "79946b5af8919aeb03d2b6ce6efc22ff",
+    "40fa287be57d20b7b86e9e0d9e2e0fda",
+    "b701b5bf63b93e854efdc8ee8d67ae6f",
+    "d529297c08f63cea2d57eb10dc776aec"
   ]
 }
