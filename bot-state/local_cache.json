@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/cannabispolitik-defizite-mit-ansage-accg-110717650.html",
     "https://www.deutschlandfunk.de/israel-haelt-grenzuebergang-rafah-vorerst-geschlossen-102.html",
     "https://www.deutschlandfunk.de/bundesarbeitsministerin-bas-verteidigt-rentenplaene-102.html",
     "https://www.deutschlandfunk.de/frau-soll-in-psychiatrie-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-fuer-gas-kunden-100.html",
     "https://www.deutschlandfunk.de/lebenslang-fuer-russischen-soldaten-100.html",
     "https://www.deutschlandfunk.de/erneute-proteste-gegen-austritt-aus-frauenschutz-abkommen-100.html",
-    "https://www.deutschlandfunk.de/drohnensichtung-am-flughafen-goeteborg-flugverkehr-eingestellt-102.html"
+    "https://www.deutschlandfunk.de/drohnensichtung-am-flughafen-goeteborg-flugverkehr-eingestellt-102.html",
+    "https://www.deutschlandfunk.de/einschraenkung-von-gender-auswahl-in-us-pass-erlaubt-100.html"
   ],
   "content_hashes": [
-    "58891cf2d4853fe00484c34bba3e8d86",
     "57b3001b2353776ccbe1bdf645b48097",
     "cd5f0f9171102fb2a0f36ce6cdac7e8d",
     "dfbad24223511fce5b33e75f9058b3f9",
@@ -2001,10 +2000,10 @@
     "6ddc35f7688793db1eea83dfb577f954",
     "35480b98ed2a79be684553546d1bf26e",
     "73c159be998555d8d7770ffedaac63ee",
-    "508c17c77b22754703b00b7b83686f2f"
+    "508c17c77b22754703b00b7b83686f2f",
+    "40c1cc44a24c78c1a0676e3fd2cbf559"
   ],
   "titles": [
-    "Cannabispolitik: Defizite mit Ansage",
     "Nahost - Israel hält Grenzübergang Rafah vorerst geschlossen",
     "Bundestag - Bundesarbeitsministerin Bas verteidigt Rentenpläne",
     "Nach Messerangriff am Hamburg Hbf - Frau soll in Psychiatrie",
@@ -3003,10 +3002,10 @@
     "Energiepreise - Bundestag beschließt Entlastung für Gas-Kunden",
     "Ukraine-Krieg - Lebenslang für russischen Soldaten",
     "Lettland - Erneute Proteste gegen Austritt aus Frauenschutz-Abkommen",
-    "Schweden - Drohnensichtung am Flughafen Göteborg - Flugverkehr eingestellt"
+    "Schweden - Drohnensichtung am Flughafen Göteborg - Flugverkehr eingestellt",
+    "Oberstes Gericht in USA - Einschränkung von Gender-Auswahl in US-Pass erlaubt"
   ],
   "hashes": [
-    "6d546ea1710c68f38ce4ab2110d2fb1f",
     "c89178f83997dc6a58654e1769694a44",
     "eb3bf815f46f355153f7eef6439a5eb8",
     "8c427072689aade8885cdbadba8cdb0b",
@@ -4005,6 +4004,7 @@
     "62d00023ab91c7c2fcbeec9e37aca464",
     "6f476ccfc9f8f1aeda088c13b85a687e",
     "6026cf9d29a12ef9c739415b5418677d",
-    "7dccedafb04c9d7b75fa2654f46463a6"
+    "7dccedafb04c9d7b75fa2654f46463a6",
+    "fff4b6e684a390d45245a09e47682828"
   ]
 }
