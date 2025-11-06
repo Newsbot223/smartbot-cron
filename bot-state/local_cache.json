@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-schraenkt-stromversorgung-nach-russischen-angriffen-erneut-massiv-ein-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/wehrdienst-vorbild-daenemark-mit-los-aber-noch-ohne-zwang-110733098.html",
-    "https://www.deutschlandfunk.de/afd-chefin-weidel-erwartet-absehbar-kooperationen-mit-cdu-und-csu-die-union-wird-sich-uns-nicht-mehr-100.html",
     "https://www.deutschlandfunk.de/us-kommando-fordert-von-hamas-ende-der-erschiessungen-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/alabali-radovan-kuendigt-200-millionen-euro-soforthilfe-fuer-den-gaza-streifen-an-100.html",
     "https://www.deutschlandfunk.de/afrikanische-union-suspendiert-madagaskar-104.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/emissionen-in-der-eu-um-2-5-prozent-gesunken-102.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-milliarden-sparpaket-fuer-krankenkassen-100.html",
     "https://www.deutschlandfunk.de/bueros-von-afd-abgeordneten-aus-bayern-durchsucht-100.html",
-    "https://www.deutschlandfunk.de/toter-nach-drohnenangriffen-auf-russische-stadt-wolgograd-acht-verletzte-in-der-ukraine-100.html"
+    "https://www.deutschlandfunk.de/toter-nach-drohnenangriffen-auf-russische-stadt-wolgograd-acht-verletzte-in-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/mieterbund-wohnkosten-zunehmend-auch-fuer-die-mittelschicht-eine-belastung-100.html",
+    "https://www.deutschlandfunk.de/neue-mitte-studie-vorgestellt-rechtsextreme-einstellungen-wachsen-kaum-100.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-sich-manche-deutsche-einen-diktator-wuenschen-accg-110756791.html"
   ],
   "content_hashes": [
-    "e2c51903f7c3a16f16d436c722780eaa",
-    "1896df1c381b992d9f1b1c230f939fc6",
-    "d1d13dc759eb140872820ac4e23318d2",
     "e223b6be4684eb732144ace966c1c08e",
     "4d1dfeb941c010501b79ce7b209ddfe8",
     "19be59934ccccaa3855970b2148a9083",
@@ -2001,12 +1998,12 @@
     "f5ba60e3c4d5bc83a562f816ccc53724",
     "c9d42c5e2f23b4689ffaa1f289d3c7c4",
     "607cf4840585bbfe7cf4ec76fd1ee106",
-    "176dea3be38bf4735d9dd53d7ca42a11"
+    "176dea3be38bf4735d9dd53d7ca42a11",
+    "b878316291ce771c76a16c323e1a0d70",
+    "374f7130c8361024e17e283a4ed5fcdb",
+    "040e09cb011d145bd9c57ba6dc7ce4bd"
   ],
   "titles": [
-    "Luftangriffe - Ukraine schränkt Stromversorgung nach russischen Angriffen erneut massiv ein",
-    "Wehrdienst in Dänemark: Mit Los, aber noch ohne Zwang",
-    "Konservatismus - AfD-Chefin Weidel erwartet absehbar Kooperationen mit CDU und CSU: \"Die Union wird sich uns nicht mehr verweigern können\"",
     "Nahost - US-Kommando fordert von Hamas Ende der Erschießungen im Gazastreifen",
     "Gaza-Krieg - Alabali Radovan kündigt 200 Millionen Euro Soforthilfe für den Gaza-Streifen an",
     "Nach Machtübernahme durch Militär - Afrikanische Union suspendiert Madagaskar",
@@ -3003,12 +3000,12 @@
     "Treibhausgase - Emissionen in der EU um 2,5 Prozent gesunken",
     "Gesundheitspolitik - Bundestag beschließt Milliarden-Sparpaket für Krankenkassen",
     "Verdacht auf Betrug - Büros von AfD-Abgeordneten aus Bayern durchsucht",
-    "Ukraine-Krieg - Toter nach Drohnenangriffen auf russische Stadt Wolgograd - acht Verletzte in der Ukraine"
+    "Ukraine-Krieg - Toter nach Drohnenangriffen auf russische Stadt Wolgograd - acht Verletzte in der Ukraine",
+    "Hohe Mietsteigerungen - Mieterbund: Wohnkosten zunehmend auch für die Mittelschicht eine Belastung",
+    "Mitte-Studie 2025 - Vorurteile gegen Minderheiten sind weit verbreitet",
+    "Liberalismus in der Krise: Ein bisschen Repression, bitte!"
   ],
   "hashes": [
-    "aec8e9da2f912399ac13bcd0c44df6e8",
-    "187fc29690f4b9a3bea6ecd805af39af",
-    "75ae37855fbc01639deee7f016ec3c7b",
     "1e2244409b22f0ed1c8ca2ee578ff47b",
     "afeee5a2b70cca9539fd05bd0cd6541d",
     "f7c173444faf8423edb004457a2a1470",
@@ -4005,6 +4002,9 @@
     "1f886a47776fc8beb889bbec9a83df7f",
     "3977da4cfc1443528369f137b819cae9",
     "e0d7002b01f2e134cbc9a6e4a06fc13d",
-    "cc38c4c523160193b1e5944f6aa5aec4"
+    "cc38c4c523160193b1e5944f6aa5aec4",
+    "4c0b38b209ff4f89fd59d1a9562ac195",
+    "96b5112c5543caf8f8d4982de0448baa",
+    "c6aafa0db3a3d2c079acad558c839d1f"
   ]
 }
