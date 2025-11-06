@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierungskrise-nach-flucht-von-20-kriminellen-104.html",
-    "https://www.deutschlandfunk.de/russischer-angriff-auf-gasanlagen-in-region-poltawa-102.html",
     "https://www.deutschlandfunk.de/lebensmittelkonzern-nestle-will-16-000-stellen-abbauen-wirtschaftliche-lage-erholt-sich-etwas-102.html",
     "https://www.deutschlandfunk.de/wegen-hoher-kosten-ueber-fuenf-millionen-menschen-heizen-ihre-wohnungen-nur-unzureichend-100.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-parteizentrale-konrad-adenauer-haus-wird-denkfabrik-accg-110725798.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/tadschikistan-aus-deutschland-dorthin-abgeschoben-wo-folter-droht-110768398.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-der-kunden-100.html",
     "https://www.deutschlandfunk.de/israels-armee-greift-ziele-im-suedlibanon-an-110.html",
-    "https://www.faz.net/aktuell/politik/inland/prozess-in-dresden-beate-zschaepes-freundin-schweigt-accg-110767539.html"
+    "https://www.faz.net/aktuell/politik/inland/prozess-in-dresden-beate-zschaepes-freundin-schweigt-accg-110767539.html",
+    "https://www.deutschlandfunk.de/linke-erneut-nicht-in-geheimdienst-ausschuss-gewaehlt-102.html",
+    "https://www.faz.net/aktuell/politik/inland/klaus-esser-afd-spitze-mischt-sich-in-streit-im-nrw-landesverband-ein-110768311.html"
   ],
   "content_hashes": [
-    "d4ebcbcd8b8795a3c29438c2c1b9c653",
-    "5d88e9d6032ad4edc65676a09442dfcd",
     "d18c6e2238127b29d52d3ac5db3e1486",
     "ad3ba6de672236a1f0d53c1fabc2083f",
     "18428d08cef1e0da8702ffa0c903b2f6",
@@ -2001,11 +1999,11 @@
     "59683bf9202176b1103c0fbff706732c",
     "ce2971857a026e504ab2ae754df1c497",
     "1cf39c43e0535ee2f26ed92cfc275be0",
-    "fbf63e8084a9394b1ad8001a795a858c"
+    "fbf63e8084a9394b1ad8001a795a858c",
+    "c9fb28ab0da3c9c621ccaa05e5c22597",
+    "7b3ff4d2af7a9dd829d3460da8dd3365"
   ],
   "titles": [
-    "Guatemala - Regierungskrise nach Flucht von 20 Kriminellen",
-    "Ukraine - Russischer Angriff auf Gasanlagen in Region Poltawa",
     "Schweiz - Lebensmittelkonzern Nestle will 16.000 Stellen abbauen - wirtschaftliche Lage erholt sich etwas",
     "Statistisches Bundesamt - Wegen hoher Kosten: Über fünf Millionen Menschen heizen ihre Wohnungen nur unzureichend",
     "Adenauer-Haus wird Denkfabrik: Die CDU soll die modernste Partei Deutschlands, ach was, Europas werden",
@@ -3003,11 +3001,11 @@
     "Tadschikistan: Für ein Visum ausgereist, nicht zurückgekommen",
     "Gaspreise - Bundestag beschließt Entlastung der Kunden",
     "Nahost - Israels Armee greift Ziele im Südlibanon an",
-    "Beate Zschäpes Freundin: Was wusste Susann E. von den Taten des NSU?"
+    "Beate Zschäpes Freundin: Was wusste Susann E. von den Taten des NSU?",
+    "Bundestag - Linke erneut nicht in Geheimdienst-Ausschuss gewählt",
+    "Fall Esser: AfD-Spitze mischt sich in Streit im Landesverband NRW ein"
   ],
   "hashes": [
-    "ff167f377086261bf26e192175145a4b",
-    "99297fb0e30ba9ff24d67bbab3b87627",
     "1c176b3b5ddc1eb13f8dde2255bab9c7",
     "258b8258e247708c4a6d5d2ecf612b40",
     "ea13fb126fadec1c0c8665b0683254ee",
@@ -4005,6 +4003,8 @@
     "d529297c08f63cea2d57eb10dc776aec",
     "2e568d2463ec262c61479964d00adaf8",
     "aad3d994c11448f2f8f7fc55627bdd6a",
-    "6cf2ce36512926655a3d4708f5a96ab4"
+    "6cf2ce36512926655a3d4708f5a96ab4",
+    "765285e81687196004daa5ff0f193a05",
+    "6681ae35d677dc6f99f8e5a0cadffea7"
   ]
 }
