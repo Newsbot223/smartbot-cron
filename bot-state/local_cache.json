@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-20-000-puten-in-niedersachsen-getoetet-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/friedensnobelpreis-fuer-machado-lateinamerika-zahlt-einen-hohen-preis-110731683.html",
-    "https://www.deutschlandfunk.de/benko-wegen-insolvenzbetrugs-zu-zwei-jahren-haft-verurteilt-100.html",
-    "https://www.deutschlandfunk.de/erhebliche-stoerungen-des-zugverkehrs-im-grossraum-koeln-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-toetung-von-palaestinensern-durch-die-hamas-102.html",
     "https://www.deutschlandfunk.de/sparpaket-fuer-stabile-kassenbeitraege-im-kabinett-100.html",
     "https://www.deutschlandfunk.de/daenemark-verlaengert-passkontrollen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/prozess-gegen-mutmassliche-nsu-unterstuetzerin-beginnt-100.html",
     "https://www.deutschlandfunk.de/mietkosten-nach-umzug-deutlich-hoeher-vor-allem-in-staedten-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-plant-hochgeschwindigkeitsnetz-fuer-bahnverbindungen-zwischen-metropolen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kein-wachstum-seit-2019-die-wirtschaftskrise-will-nicht-weichen-accg-110766645.html"
+    "https://www.faz.net/aktuell/politik/inland/kein-wachstum-seit-2019-die-wirtschaftskrise-will-nicht-weichen-accg-110766645.html",
+    "https://www.deutschlandfunk.de/bericht-google-plant-bis-dato-groesste-investition-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/bafin-verhaengt-rekordbusse-von-45-millionen-euro-gegen-jpmorgan-100.html",
+    "https://www.spiegel.de/wirtschaft/marktkorrektur-bei-aktien-und-anleihen-bundesbank-sieht-wachsendes-risiko-fallender-kurse-a-a4941df4-088e-4814-8644-ce7856e7e960#ref=rss",
+    "https://www.spiegel.de/politik/deutschland/nina-warken-gesundheitsministerin-ist-fuer-sexkaufverbot-a-edf56c25-9b2d-4e29-9a3a-61f422afd5b6#ref=rss"
   ],
   "content_hashes": [
-    "6a8c557513a6f529a9be886863eab8de",
-    "fdbda93de335e2b548a7e8a9b35737a4",
-    "7b7f316f69261abcaee2844875d44754",
-    "4e54a9a25bf59126b12a0be4e5a9b00d",
     "16a91be81128e64a3f9256052384cdd5",
     "e013de29ea9c847fc5c45c1b4a7b0ce2",
     "2859d193b49cfbf531e13f307ef35365",
@@ -2001,13 +1997,13 @@
     "fb56712602c123aabf11cbd800e249ec",
     "5347af4feaf1f0b9641017df1beec5ed",
     "afd79ec2ecef738fe05c589cd9e32cc8",
-    "7773bc258bfe245dae5bf91a2f3272f7"
+    "7773bc258bfe245dae5bf91a2f3272f7",
+    "a02708abce168513106b2e8ab1766b5a",
+    "9ba47cfe4b8785f88226270b7166ba77",
+    "88811933d971646cac2facc7799b1b65",
+    "290bc95d74dea802c5ec8d036ccb0e21"
   ],
   "titles": [
-    "Geflügelpest-Ausbruch - Mehr als 20.000 Puten in Niedersachsen getötet",
-    "Demokratische Defizite: Lateinamerika zahlt einen hohen Preis",
-    "Innsbruck - Benko wegen Insolvenzbetrugs zu zwei Jahren Haft verurteilt",
-    "Deutsche Bahn - Erhebliche Störungen des Zugverkehrs im Großraum Köln",
     "Gazastreifen - Bundesregierung verurteilt Tötung von Palästinensern durch die Hamas",
     "Bundesregierung - Sparpaket für stabile Kassenbeiträge beschlossen",
     "Grenze - Dänemark verlängert Passkontrollen",
@@ -3003,13 +2999,13 @@
     "Dresden - Prozess gegen mutmaßliche NSU-Unterstützerin beginnt",
     "Studie - Mietkosten nach Umzug deutlich höher - vor allem in Städten",
     "Zugverkehr - EU-Kommission plant Hochgeschwindigkeitsnetz für Bahnverbindungen zwischen Metropolen",
-    "Kein Wachstum seit 2019: Die Wirtschaftskrise will nicht weichen"
+    "Kein Wachstum seit 2019: Die Wirtschaftskrise will nicht weichen",
+    "Internet-Infrastruktur - Bericht: Google plant \"bis dato größte Investition\" in Deutschland",
+    "Mangelnde Geldwäsche-Prävention - BaFin verhängt Rekordbuße von 45 Millionen Euro gegen JPMorgan",
+    "Marktkorrektur bei Aktien und Anleihen: Bundesbank sieht wachsendes Risiko fallender Kurse",
+    "Nina Warken: Gesundheitsministerin ist für Sexkaufverbot"
   ],
   "hashes": [
-    "abe87aa6c34197baf891dcdc21c27975",
-    "902d41679be6df9f15d9f944adb34fcc",
-    "6d5de89daff17d18ed054a802945eeee",
-    "a49b71eb23a30057d0e42fe51ee86014",
     "4fe6b0fddd1daa926045204cf6ed6ff1",
     "fe90e9cadee3cd5b513a6204559c765a",
     "722cb61ac6d103b56efe469c5fda325f",
@@ -4005,6 +4001,10 @@
     "af0e4a3a06b7f4dc371d9e8fc200c5e7",
     "3bd0ace8676f12c7fecb853021d4f126",
     "b7d8b1690dd1641953e3e27417234fef",
-    "c5057badc1621153f378cf3fa2d690a8"
+    "c5057badc1621153f378cf3fa2d690a8",
+    "8cdbef5d14dc4390a20ab0647eb1dfe7",
+    "71479b0d7dec3339465977ef52856d77",
+    "288ca49843b708dedb36d032105d700b",
+    "9ebf6fbbb30b8c2b51eb85494dc24b64"
   ]
 }
