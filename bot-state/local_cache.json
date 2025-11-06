@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wegen-hoher-kosten-ueber-fuenf-millionen-menschen-heizen-ihre-wohnungen-nur-unzureichend-100.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-parteizentrale-konrad-adenauer-haus-wird-denkfabrik-accg-110725798.html",
     "https://www.deutschlandfunk.de/fast-alle-journalisten-verlassen-pentagon-aus-protest-gegen-neue-regeln-100.html",
     "https://www.deutschlandfunk.de/ehec-infektionswelle-erreicht-schleswig-holstein-100.html",
     "https://www.faz.net/aktuell/cannabispolitik-defizite-mit-ansage-accg-110717650.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/prozess-in-dresden-beate-zschaepes-freundin-schweigt-accg-110767539.html",
     "https://www.deutschlandfunk.de/linke-erneut-nicht-in-geheimdienst-ausschuss-gewaehlt-102.html",
     "https://www.faz.net/aktuell/politik/inland/klaus-esser-afd-spitze-mischt-sich-in-streit-im-nrw-landesverband-ein-110768311.html",
-    "https://www.deutschlandfunk.de/anklage-gegen-ex-praesident-saakaschwili-wegen-umsturzvorwurf-100.html"
+    "https://www.deutschlandfunk.de/anklage-gegen-ex-praesident-saakaschwili-wegen-umsturzvorwurf-100.html",
+    "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-fuer-gas-kunden-100.html",
+    "https://www.deutschlandfunk.de/lebenslang-fuer-russischen-soldaten-100.html"
   ],
   "content_hashes": [
-    "ad3ba6de672236a1f0d53c1fabc2083f",
-    "18428d08cef1e0da8702ffa0c903b2f6",
     "fd85d67cdaacde0ea263c6bb2a51ab62",
     "50405971a9d0b2ce7069508a6bda955e",
     "58891cf2d4853fe00484c34bba3e8d86",
@@ -2001,11 +1999,11 @@
     "fbf63e8084a9394b1ad8001a795a858c",
     "c9fb28ab0da3c9c621ccaa05e5c22597",
     "7b3ff4d2af7a9dd829d3460da8dd3365",
-    "0edf2fefb1b49e6256b63c70c56377ea"
+    "0edf2fefb1b49e6256b63c70c56377ea",
+    "6ddc35f7688793db1eea83dfb577f954",
+    "35480b98ed2a79be684553546d1bf26e"
   ],
   "titles": [
-    "Statistisches Bundesamt - Wegen hoher Kosten: Über fünf Millionen Menschen heizen ihre Wohnungen nur unzureichend",
-    "Adenauer-Haus wird Denkfabrik: Die CDU soll die modernste Partei Deutschlands, ach was, Europas werden",
     "USA - Fast alle Journalisten verlassen Pentagon aus Protest gegen neue Regeln",
     "Neuinfektion - EHEC-Infektionswelle erreicht Schleswig-Holstein",
     "Cannabispolitik: Defizite mit Ansage",
@@ -3003,11 +3001,11 @@
     "Beate Zschäpes Freundin: Was wusste Susann E. von den Taten des NSU?",
     "Bundestag - Linke erneut nicht in Geheimdienst-Ausschuss gewählt",
     "Fall Esser: AfD-Spitze mischt sich in Streit im Landesverband NRW ein",
-    "Georgien - Anklage gegen Ex-Präsident Saakaschwili wegen Umsturzvorwurf"
+    "Georgien - Anklage gegen Ex-Präsident Saakaschwili wegen Umsturzvorwurf",
+    "Energiepreise - Bundestag beschließt Entlastung für Gas-Kunden",
+    "Ukraine-Krieg - Lebenslang für russischen Soldaten"
   ],
   "hashes": [
-    "258b8258e247708c4a6d5d2ecf612b40",
-    "ea13fb126fadec1c0c8665b0683254ee",
     "9b6dcfa31d77b84d917c3f2748a3fe31",
     "04a1e2f513770f34c2707185cfd12417",
     "6d546ea1710c68f38ce4ab2110d2fb1f",
@@ -4005,6 +4003,8 @@
     "6cf2ce36512926655a3d4708f5a96ab4",
     "765285e81687196004daa5ff0f193a05",
     "6681ae35d677dc6f99f8e5a0cadffea7",
-    "7bc0822fc0ddd67ba1e8090056a4c706"
+    "7bc0822fc0ddd67ba1e8090056a4c706",
+    "62d00023ab91c7c2fcbeec9e37aca464",
+    "6f476ccfc9f8f1aeda088c13b85a687e"
   ]
 }
