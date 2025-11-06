@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/inside-story/2025/10/15/whats-next-for-released-palestinian-prisoners?traffic_source=rss",
-    "https://www.deutschlandfunk.de/ngo-ueberpruefungen-durch-verfassungsschutz-im-auftrag-der-ministerien-102.html",
-    "https://www.deutschlandfunk.de/trump-genehmigt-cia-einsaetze-in-venezuela-102.html",
     "https://www.deutschlandfunk.de/regierungskrise-nach-flucht-von-20-kriminellen-104.html",
     "https://www.deutschlandfunk.de/russischer-angriff-auf-gasanlagen-in-region-poltawa-102.html",
     "https://www.deutschlandfunk.de/lebensmittelkonzern-nestle-will-16-000-stellen-abbauen-wirtschaftliche-lage-erholt-sich-etwas-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ostdeutsche-bundeslaender-fordern-groesseren-anteil-an-eu-geldern-102.html",
     "https://www.deutschlandfunk.de/waffenfund-in-oesterreich-100.html",
     "https://www.deutschlandfunk.de/wagenknecht-will-weiterhin-fuehrende-rolle-in-partei-102.html",
-    "https://www.faz.net/aktuell/politik/tadschikistan-aus-deutschland-dorthin-abgeschoben-wo-folter-droht-110768398.html"
+    "https://www.faz.net/aktuell/politik/tadschikistan-aus-deutschland-dorthin-abgeschoben-wo-folter-droht-110768398.html",
+    "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-der-kunden-100.html",
+    "https://www.deutschlandfunk.de/israels-armee-greift-ziele-im-suedlibanon-an-110.html",
+    "https://www.faz.net/aktuell/politik/inland/prozess-in-dresden-beate-zschaepes-freundin-schweigt-accg-110767539.html"
   ],
   "content_hashes": [
-    "93d98fcf1b400d8deff6cb2a9f9914c6",
-    "279f1a1a9dd382fdd8286d487d95efdd",
-    "d017ebedfcf0a10eee6c5dc1ba79e7a8",
     "d4ebcbcd8b8795a3c29438c2c1b9c653",
     "5d88e9d6032ad4edc65676a09442dfcd",
     "d18c6e2238127b29d52d3ac5db3e1486",
@@ -2001,12 +1998,12 @@
     "4d3dc3b962b3e06233d98c04758b7349",
     "f2a897167a08dbfbd8c0d60933662544",
     "b750293c70a67be9ad3d99ee5e68e39f",
-    "59683bf9202176b1103c0fbff706732c"
+    "59683bf9202176b1103c0fbff706732c",
+    "ce2971857a026e504ab2ae754df1c497",
+    "1cf39c43e0535ee2f26ed92cfc275be0",
+    "fbf63e8084a9394b1ad8001a795a858c"
   ],
   "titles": [
-    "What’s next for released Palestinian prisoners?",
-    "Medienbericht - NGO-Überprüfungen durch Verfassungsschutz im Auftrag der Ministerien",
-    "Kampf gegen Drogenschmuggel - Trump genehmigt CIA-Einsätze in Venezuela",
     "Guatemala - Regierungskrise nach Flucht von 20 Kriminellen",
     "Ukraine - Russischer Angriff auf Gasanlagen in Region Poltawa",
     "Schweiz - Lebensmittelkonzern Nestle will 16.000 Stellen abbauen - wirtschaftliche Lage erholt sich etwas",
@@ -3003,12 +3000,12 @@
     "Treffen in Brüssel - Ostdeutsche Bundesländer fordern größeren Anteil an EU-Geldern",
     "Nach Hamas-Festnahmen in Berlin - Waffenfund in Österreich",
     "BSW - Wagenknecht will weiterhin führende Rolle in Partei",
-    "Tadschikistan: Für ein Visum ausgereist, nicht zurückgekommen"
+    "Tadschikistan: Für ein Visum ausgereist, nicht zurückgekommen",
+    "Gaspreise - Bundestag beschließt Entlastung der Kunden",
+    "Nahost - Israels Armee greift Ziele im Südlibanon an",
+    "Beate Zschäpes Freundin: Was wusste Susann E. von den Taten des NSU?"
   ],
   "hashes": [
-    "75af9126c2147afdee9b50490987a5fe",
-    "e0df081b9f6867760fa9f5b4ae74c26f",
-    "b08795b26ac010f948713f521e9ede9b",
     "ff167f377086261bf26e192175145a4b",
     "99297fb0e30ba9ff24d67bbab3b87627",
     "1c176b3b5ddc1eb13f8dde2255bab9c7",
@@ -4005,6 +4002,9 @@
     "79946b5af8919aeb03d2b6ce6efc22ff",
     "40fa287be57d20b7b86e9e0d9e2e0fda",
     "b701b5bf63b93e854efdc8ee8d67ae6f",
-    "d529297c08f63cea2d57eb10dc776aec"
+    "d529297c08f63cea2d57eb10dc776aec",
+    "2e568d2463ec262c61479964d00adaf8",
+    "aad3d994c11448f2f8f7fc55627bdd6a",
+    "6cf2ce36512926655a3d4708f5a96ab4"
   ]
 }
