@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/haeusliche-gewalt-fussfessel-und-haftandrohung-gehoeren-zusammen-accg-110734631.html",
-    "https://www.deutschlandfunk.de/huthi-miliz-gibt-tod-von-militaerchef-al-ghamari-bekannt-100.html",
-    "https://www.deutschlandfunk.de/uno-fordert-dauerhaftes-ende-der-kaempfe-102.html",
-    "https://www.deutschlandfunk.de/eu-startet-neue-initiative-fuer-staerkere-zusammenarbeit-mit-mittelmeeranrainern-100.html",
     "https://www.deutschlandfunk.de/eu-parlamentsausschuss-schlaegt-mindestalter-von-16-jahren-vor-100.html",
     "https://www.faz.net/aktuell/politik/inland/bildungstrend-erhebliche-defizite-in-mathematik-und-naturwissenschaften-110734798.html",
     "https://www.deutschlandfunk.de/telefonat-zwischen-trump-und-putin-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-flug-streichungen-114.html",
     "https://www.deutschlandfunk.de/agrardiesel-subvention-kommt-zurueck-bundestag-schafft-ampel-gesetz-wieder-ab-100.html",
     "https://www.deutschlandfunk.de/verdaechtiger-nach-blutigen-hakenkreuz-schmierereien-in-hanau-gefasst-100.html",
-    "https://www.deutschlandfunk.de/gruenen-politikerin-paul-gegen-sexkauf-verbot-100.html"
+    "https://www.deutschlandfunk.de/gruenen-politikerin-paul-gegen-sexkauf-verbot-100.html",
+    "https://www.deutschlandfunk.de/trump-verkuendet-kasachstans-beitritt-zu-abraham-abkommen-ueber-kooperationen-mit-israel-bedeutung-u-100.html",
+    "https://www.deutschlandfunk.de/gesundheitsschutz-am-arbeitsplatz-zum-ein-menschenrecht-erhoben-100.html",
+    "https://www.deutschlandfunk.de/fachkraefte-in-der-pflege-erhalten-mehr-kompetenzen-einige-aufgaben-von-aerzten-duerfen-kuenftig-ueb-100.html",
+    "https://www.deutschlandfunk.de/beschlossenes-gesetz-soll-anstieg-von-krankenkassen-beitraegen-im-kommenden-jahr-verhindern-100.html"
   ],
   "content_hashes": [
-    "bd2106232891809f866fd7a652229ad6",
-    "8daf26a48f0888524b5e40b61890af25",
-    "87dcf302dcc498be1153f07d46b21e5a",
-    "fdf5d96bf4fb8a7180911096815ffd7f",
     "5907d9d16e5d6224f6475d49a90b7014",
     "cbd579b74746748d4a308da66bbc2839",
     "e91cbc433645f0853248a42c97ccb855",
@@ -2001,13 +1997,13 @@
     "190ff35e4f9811b845b1b605d9fbbb97",
     "c21fa62ff690931980aad060c4e50f55",
     "a996b2ce7d77332f8589282ddc383d5e",
-    "3f331903ef3f0f564230fdd8e3a5e657"
+    "3f331903ef3f0f564230fdd8e3a5e657",
+    "d43b569780292a7716ed7fa37fd658ed",
+    "92ee80bbcdf31c0ab53295d9fca74ca1",
+    "d7e2492203174880555b116d380118a9",
+    "1ceb6ef0e83479d7a46a8719f61ad3bb"
   ],
   "titles": [
-    "Gesetz zu häuslicher Gewalt: „Fußfessel und Haftandrohung gehören zusammen“",
-    "Jemen - Huthi-Miliz gibt Tod von Militärchef al-Ghamari bekannt",
-    "Pakistan-Afghanistan - UNO fordert dauerhaftes Ende der Kämpfe",
-    "Brüssel - EU startet neue Initiative für stärkere Zusammenarbeit mit Mittelmeeranrainern",
     "Onlinedienste - EU-Parlamentsausschuss schlägt Mindestalter von 16 Jahren vor",
     "Bildungsstudie: Der Leistungsabfall betrifft alle Schüler",
     "Vor Selenskyj-Besuch - Telefonat zwischen Trump und Putin",
@@ -3003,13 +2999,13 @@
     "USA - Shutdown führt zu Flug-Streichungen",
     "Landwirtschaft - Agrardiesel-Subvention kommt zurück - Bundestag schafft Ampel-Gesetz wieder ab",
     "Hessen - Verdächtiger nach blutigen Hakenkreuz-Schmierereien in Hanau gefasst",
-    "Prostitution - Grünen-Politikerin Paul gegen Sexkauf-Verbot"
+    "Prostitution - Grünen-Politikerin Paul gegen Sexkauf-Verbot",
+    "Diplomatie - Trump verkündet Kasachstans Beitritt zu Abraham-Abkommen über Kooperationen mit Israel - Bedeutung unklar",
+    "Bundestag - Gesundheitsschutz am Arbeitsplatz zum ein Menschenrecht erhoben",
+    "Gesundheitspolitik - Fachkräfte in der Pflege erhalten mehr Kompetenzen - einige Aufgaben von Ärzten dürfen künftig übernommen werden",
+    "Bundestag - Beschlossenes Gesetz soll Anstieg von Krankenkassen-Beiträgen im kommenden Jahr verhindern"
   ],
   "hashes": [
-    "7cdf2c3033c9268075688ed54880d881",
-    "0ef87f2dd157f81079d50140deac43db",
-    "4b2e1f40a8401e402f8350ff62f0a0ca",
-    "f50945759c7c3c50beea471cd12563b3",
     "c5b8c5eb0b25ccd205d44db52d0e1656",
     "e685940a882d301b8c07a0aca2a0045c",
     "9258253186e4edfdcfacb4881813f56b",
@@ -4005,6 +4001,10 @@
     "aac1023c25d4d9f77de8a9e7edccb116",
     "daffce1731302bc27d865ce6900a1bd8",
     "01f20d5cb8cfd7b5c6b70656ed603818",
-    "4983ff41265aef174a888dfb78b385b7"
+    "4983ff41265aef174a888dfb78b385b7",
+    "0e5731d4f288e2489a9b38cd652b3b39",
+    "5e9321180681fcbe8263f9e8fe536297",
+    "ccd4bcea17af04eed51cf212eab8a010",
+    "bf8ce48bcd95dd61ca27840945647a44"
   ]
 }
