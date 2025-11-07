@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-parlamentsausschuss-schlaegt-mindestalter-von-16-jahren-vor-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bildungstrend-erhebliche-defizite-in-mathematik-und-naturwissenschaften-110734798.html",
     "https://www.deutschlandfunk.de/telefonat-zwischen-trump-und-putin-104.html",
     "https://www.deutschlandfunk.de/uno-gremium-kritisiert-frankreichs-umgang-mit-minderjaehrigen-fluechtlingen-100.html",
     "https://www.deutschlandfunk.de/etatstreit-weiter-ungeloest-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-verkuendet-kasachstans-beitritt-zu-abraham-abkommen-ueber-kooperationen-mit-israel-bedeutung-u-100.html",
     "https://www.deutschlandfunk.de/gesundheitsschutz-am-arbeitsplatz-zum-ein-menschenrecht-erhoben-100.html",
     "https://www.deutschlandfunk.de/fachkraefte-in-der-pflege-erhalten-mehr-kompetenzen-einige-aufgaben-von-aerzten-duerfen-kuenftig-ueb-100.html",
-    "https://www.deutschlandfunk.de/beschlossenes-gesetz-soll-anstieg-von-krankenkassen-beitraegen-im-kommenden-jahr-verhindern-100.html"
+    "https://www.deutschlandfunk.de/beschlossenes-gesetz-soll-anstieg-von-krankenkassen-beitraegen-im-kommenden-jahr-verhindern-100.html",
+    "https://www.deutschlandfunk.de/millionen-deutsche-sind-laut-mitte-studie-offen-fuer-antidemokratische-einstellungen-100.html",
+    "https://www.deutschlandfunk.de/medizinischer-dienst-warnt-werdende-eltern-vor-unnoetigen-ultraschalluntersuchungen-embryos-keiner-u-100.html"
   ],
   "content_hashes": [
-    "5907d9d16e5d6224f6475d49a90b7014",
-    "cbd579b74746748d4a308da66bbc2839",
     "e91cbc433645f0853248a42c97ccb855",
     "a31b3796d982c15ef90e3a3996c420d6",
     "90524812b6c7a8f1c26a5e5c110ff5ab",
@@ -2001,11 +1999,11 @@
     "d43b569780292a7716ed7fa37fd658ed",
     "92ee80bbcdf31c0ab53295d9fca74ca1",
     "d7e2492203174880555b116d380118a9",
-    "1ceb6ef0e83479d7a46a8719f61ad3bb"
+    "1ceb6ef0e83479d7a46a8719f61ad3bb",
+    "94ba591ff25582c76a0c7c26ba53c9da",
+    "bb58a1d20d774fa02f834fe88044b542"
   ],
   "titles": [
-    "Onlinedienste - EU-Parlamentsausschuss schlägt Mindestalter von 16 Jahren vor",
-    "Bildungsstudie: Der Leistungsabfall betrifft alle Schüler",
     "Vor Selenskyj-Besuch - Telefonat zwischen Trump und Putin",
     "Frankreich - UNO-Gremium kritisiert Frankreichs Umgang mit minderjährigen Flüchtlingen",
     "USA - Etatstreit weiter ungelöst",
@@ -3003,11 +3001,11 @@
     "Diplomatie - Trump verkündet Kasachstans Beitritt zu Abraham-Abkommen über Kooperationen mit Israel - Bedeutung unklar",
     "Bundestag - Gesundheitsschutz am Arbeitsplatz zum ein Menschenrecht erhoben",
     "Gesundheitspolitik - Fachkräfte in der Pflege erhalten mehr Kompetenzen - einige Aufgaben von Ärzten dürfen künftig übernommen werden",
-    "Bundestag - Beschlossenes Gesetz soll Anstieg von Krankenkassen-Beiträgen im kommenden Jahr verhindern"
+    "Bundestag - Beschlossenes Gesetz soll Anstieg von Krankenkassen-Beiträgen im kommenden Jahr verhindern",
+    "Rechtsextremismus - Millionen Deutsche sind laut Mitte-Studie offen für antidemokratische Einstellungen",
+    "\"Babyfernsehen\" - Medizinischer Dienst warnt werdende Eltern vor unnötigen Ultraschalluntersuchungen - \"Embryos keiner unnötigen Strahlung aussetzen\""
   ],
   "hashes": [
-    "c5b8c5eb0b25ccd205d44db52d0e1656",
-    "e685940a882d301b8c07a0aca2a0045c",
     "9258253186e4edfdcfacb4881813f56b",
     "d2a9d2b8069fa7885227d4bea9a40c8c",
     "3b47fd90c6605bb671ff4b40ed0a670c",
@@ -4005,6 +4003,8 @@
     "0e5731d4f288e2489a9b38cd652b3b39",
     "5e9321180681fcbe8263f9e8fe536297",
     "ccd4bcea17af04eed51cf212eab8a010",
-    "bf8ce48bcd95dd61ca27840945647a44"
+    "bf8ce48bcd95dd61ca27840945647a44",
+    "8823caa2e7f8bc1387e5cdc071b42404",
+    "e13c6d44a3dfa37e62ef9cc19489ff53"
   ]
 }
