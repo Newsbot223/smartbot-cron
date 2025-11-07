@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-tote-nach-schuessen-bei-trauerfeier-fuer-oppositionspolitiker-odinga-100.html",
-    "https://www.deutschlandfunk.de/hoehere-strafen-fuer-poebelnde-abgeordnete-100.html",
-    "https://www.deutschlandfunk.de/ostdeutsche-cdu-politiker-fuer-anderen-umgang-mit-afd-108.html",
-    "https://www.deutschlandfunk.de/bundespolizisten-erhalten-taser-gesetz-zum-schutz-von-paketboten-verlaengert-102.html",
     "https://www.deutschlandfunk.de/bremens-buergermeister-bovenschulte-soll-zum-neuen-praesidenten-gewaehlt-werden-100.html",
     "https://www.deutschlandfunk.de/wadephul-cdu-fordert-von-der-tuerkei-anhaltenden-druck-auf-hamas-102.html",
     "https://www.faz.net/aktuell/wirtschaft/f-a-z-elite-panel-fuehrungsspitzen-sehen-kanzler-merz-als-starken-kanzler-accg-110735280.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundeswehr-ueberstuetzt-belgien-bei-der-drohnenabwehr-100.html",
     "https://www.deutschlandfunk.de/weniger-syrer-nach-deutschland-gekommen-100.html",
     "https://www.deutschlandfunk.de/gesundheitsschutz-am-arbeitsplatz-zum-menschenrecht-erhoben-100.html",
-    "https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss"
+    "https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss",
+    "https://www.deutschlandfunk.de/siemens-baut-s-bahn-zuege-fuer-die-schweiz-102.html",
+    "https://www.deutschlandfunk.de/partei-d66-offiziell-als-siegerin-der-parlamentswahl-bestaetigt-100.html",
+    "https://www.deutschlandfunk.de/visa-vergabe-fuer-russische-staatsbuerger-eingeschraenkt-102.html",
+    "https://www.spiegel.de/politik/deutschland/syrien-zuwanderung-sinkt-laut-statistischem-bundesamt-deutlich-a-95ade16c-43eb-4baf-9480-ca2f7fdabe12#ref=rss"
   ],
   "content_hashes": [
-    "ce2219ffb0ab4cda9f0e48cde7e85319",
-    "3c987847e7565c3d6bc242ca29b683b1",
-    "e870d231eb5a813029cb674e707a60b1",
-    "852a9545f7cb75908767e3b42b15f29b",
     "9cdac26b5abf0745b5cfe87d7b14ece0",
     "5052ea25222fadddb4cbdcd9abe8e99b",
     "44ce45b69f947f18de6f470b1ea042b7",
@@ -2001,13 +1997,13 @@
     "2c941ec3bd6328d46ac117f0e98fb0b6",
     "7d2f6ac9d4f80545ec43727c240a1f94",
     "537bef1e918b0c0ac78776195440b1c6",
-    "7597517f5f2ad024a12181e8dacb2df8"
+    "7597517f5f2ad024a12181e8dacb2df8",
+    "7a3256e6f9e94df823b9fa118d791e53",
+    "84aaf2a85c33be6d5e026fc900a466f0",
+    "10b73a97d4c3957c1d0a591a67ea03fd",
+    "42ad947920c043044557204cb64cf576"
   ],
   "titles": [
-    "Kenia - Mehrere Tote nach Schüssen bei Trauerfeier für Oppositionspolitiker Odinga",
-    "Bundestag - Höhere Strafen für pöbelnde Abgeordnete",
-    "Debatte um \"Brandmauer\" - Ostdeutsche CDU-Politiker für anderen Umgang mit AfD",
-    "Parlaments-Entscheidungen - Bundespolizisten erhalten Taser - Gesetz zum Schutz von Paketboten verlängert",
     "Bundesrat - Bremens Bürgermeister Bovenschulte soll zum neuen Präsidenten gewählt werden",
     "Gaza-Waffenruhe - Wadephul (CDU) fordert von der Türkei anhaltenden Druck auf Hamas",
     "F.A.Z.-Elite-Panel: Eliten sehen in Merz einen starken Kanzler",
@@ -3003,13 +2999,13 @@
     "Luftfahrt - Bundeswehr überstützt Belgien bei der Drohnenabwehr",
     "Statistisches Bundesamt - Weniger Syrer nach Deutschland gekommen",
     "Bundestag - Gesundheitsschutz am Arbeitsplatz zum Menschenrecht erhoben",
-    "Mobbing und Cybermobbing: Millionen Deutsche laut Studie betroffen"
+    "Mobbing und Cybermobbing: Millionen Deutsche laut Studie betroffen",
+    "Milliardenauftrag - Siemens baut S-Bahn-Züge für die Schweiz",
+    "Niederlande - Partei D66 offiziell als Siegerin der Parlamentswahl bestätigt",
+    "Europäische Union - Visa-Vergabe für russische Staatsbürger eingeschränkt",
+    "Syrien: Zuwanderung sinkt laut Statistischem Bundesamt deutlich"
   ],
   "hashes": [
-    "bcd8a2abb1377a9271a467c2226b9683",
-    "ac851d575213c087da2ed7d16882f3a8",
-    "591c22c1b5bd75d73781bfb8c6940b11",
-    "ea2fb1c24cebab727465dd76cdc4ca08",
     "709dfba42219618418b16d2315e18446",
     "1ba02f452a8eb207212f161813aeed9b",
     "967baf9b4ff89539d872de5f14b5ef5c",
@@ -4005,6 +4001,10 @@
     "5c198bf7f0a1b1de9bc04ab78ec0214a",
     "e14b50c0169bba6f29301c904a43dcd8",
     "d439649f5a96213789df4dff72ac611e",
-    "28b4d18f18232f942eb0f4fb606e2747"
+    "28b4d18f18232f942eb0f4fb606e2747",
+    "9a6b22c2783e644943309a8f4886f893",
+    "2f3d270e51a6ff3f5f8eb4b2f9286861",
+    "f9a3e0c0509d56d271a50cd2613a6541",
+    "8af7b984fe0909a9519319d9e15bc22a"
   ]
 }
