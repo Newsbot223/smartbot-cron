@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-fordert-in-regierungserklaerung-staerkeres-europa-100.html",
-    "https://www.deutschlandfunk.de/wirtschaft-im-sommer-wohl-noch-nicht-zurueck-in-der-wachstumsspur-100.html",
-    "https://www.deutschlandfunk.de/fahrlehrerverband-schlaegt-kompaktere-ausbildung-vor-102.html",
     "https://www.faz.net/aktuell/politik/inland/haeusliche-gewalt-fussfessel-und-haftandrohung-gehoeren-zusammen-accg-110734631.html",
     "https://www.deutschlandfunk.de/huthi-miliz-gibt-tod-von-militaerchef-al-ghamari-bekannt-100.html",
     "https://www.deutschlandfunk.de/uno-fordert-dauerhaftes-ende-der-kaempfe-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/cybermobbing-trifft-zunehmend-auch-erwachsene-100.html",
     "https://www.deutschlandfunk.de/schlussabstimmung-ueber-finanzierung-von-deutschlandticket-100.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-beendet-afrika-reise-100.html",
-    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-flug-streichungen-114.html"
+    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-flug-streichungen-114.html",
+    "https://www.deutschlandfunk.de/agrardiesel-subvention-kommt-zurueck-bundestag-schafft-ampel-gesetz-wieder-ab-100.html",
+    "https://www.deutschlandfunk.de/verdaechtiger-nach-blutigen-hakenkreuz-schmierereien-in-hanau-gefasst-100.html",
+    "https://www.deutschlandfunk.de/gruenen-politikerin-paul-gegen-sexkauf-verbot-100.html"
   ],
   "content_hashes": [
-    "13483debabad24cbbcb3d6809b0d677d",
-    "7b1ee2ce343489b30e887585ae196c64",
-    "9d30a8b1205883a76b288a55048a519f",
     "bd2106232891809f866fd7a652229ad6",
     "8daf26a48f0888524b5e40b61890af25",
     "87dcf302dcc498be1153f07d46b21e5a",
@@ -2001,12 +1998,12 @@
     "50dbd3fbaa797babb1a52ede9fe2d45b",
     "bc35ae1e6845b32863db0ffbf9ae64c5",
     "d82e0358af8b6f1a288e7129d7a955cb",
-    "190ff35e4f9811b845b1b605d9fbbb97"
+    "190ff35e4f9811b845b1b605d9fbbb97",
+    "c21fa62ff690931980aad060c4e50f55",
+    "a996b2ce7d77332f8589282ddc383d5e",
+    "3f331903ef3f0f564230fdd8e3a5e657"
   ],
   "titles": [
-    "Bundestag - Merz fordert in Regierungserklärung stärkeres Europa",
-    "Bundesbank - Wirtschaft im Sommer wohl noch nicht zurück in der Wachstumsspur",
-    "Diskussion über Führerschein - Fahrlehrerverband schlägt kompaktere Ausbildung vor",
     "Gesetz zu häuslicher Gewalt: „Fußfessel und Haftandrohung gehören zusammen“",
     "Jemen - Huthi-Miliz gibt Tod von Militärchef al-Ghamari bekannt",
     "Pakistan-Afghanistan - UNO fordert dauerhaftes Ende der Kämpfe",
@@ -3003,12 +3000,12 @@
     "Bündnis legt Studie vor - Cybermobbing trifft zunehmend auch Erwachsene",
     "Bundestag - Schlussabstimmung über Finanzierung von Deutschlandticket",
     "Ägypten, Ghana, Angola - Bundespräsident Steinmeier beendet Afrika-Reise",
-    "USA - Shutdown führt zu Flug-Streichungen"
+    "USA - Shutdown führt zu Flug-Streichungen",
+    "Landwirtschaft - Agrardiesel-Subvention kommt zurück - Bundestag schafft Ampel-Gesetz wieder ab",
+    "Hessen - Verdächtiger nach blutigen Hakenkreuz-Schmierereien in Hanau gefasst",
+    "Prostitution - Grünen-Politikerin Paul gegen Sexkauf-Verbot"
   ],
   "hashes": [
-    "a1ae1c7455af8bd3fc2a915931eb19a9",
-    "9441ab5b8ca0b63a751b02b5cc8fdf43",
-    "1595b3ae476fddbe5e87cd7549d2c642",
     "7cdf2c3033c9268075688ed54880d881",
     "0ef87f2dd157f81079d50140deac43db",
     "4b2e1f40a8401e402f8350ff62f0a0ca",
@@ -4005,6 +4002,9 @@
     "19c9ea8106b5be14bed3a71236a38584",
     "efed6d4b48cd073cdc0e0db763277da8",
     "8d954a85ebb53092f9637459a2ffc834",
-    "aac1023c25d4d9f77de8a9e7edccb116"
+    "aac1023c25d4d9f77de8a9e7edccb116",
+    "daffce1731302bc27d865ce6900a1bd8",
+    "01f20d5cb8cfd7b5c6b70656ed603818",
+    "4983ff41265aef174a888dfb78b385b7"
   ]
 }
