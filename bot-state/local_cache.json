@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/wirtschaft/f-a-z-elite-panel-fuehrungsspitzen-sehen-kanzler-merz-als-starken-kanzler-accg-110735280.html",
-    "https://www.deutschlandfunk.de/paritaetischer-gesamtverband-buergergeld-sichert-nur-das-nackte-ueberleben-100.html",
-    "https://www.deutschlandfunk.de/frueherer-premierminister-murayama-im-alter-von-101-jahren-gestorben-100.html",
     "https://www.deutschlandfunk.de/industriegewerkschaft-zehntausende-arbeitsplaetze-in-deutschland-sind-bedroht-100.html",
     "https://www.deutschlandfunk.de/entwicklungsministerin-reem-alabali-radovan-zur-soforthilfe-fuer-gaza-100.html",
     "https://www.deutschlandfunk.de/bovenschulte-spd-turnusgemaess-zum-neuen-bundesratspraesidenten-gewaehlt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/visa-vergabe-fuer-russische-staatsbuerger-eingeschraenkt-102.html",
     "https://www.spiegel.de/politik/deutschland/syrien-zuwanderung-sinkt-laut-statistischem-bundesamt-deutlich-a-95ade16c-43eb-4baf-9480-ca2f7fdabe12#ref=rss",
     "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-will-mit-us-firma-europaeisches-satellitennetzwerk-bauen-a-f9052664-2c6a-4bf7-b1a1-a91931d30cc4#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/stadtbild-debatte-die-gruenen-auf-der-suche-nach-dem-ausweg-accg-110768359.html"
+    "https://www.faz.net/aktuell/politik/inland/stadtbild-debatte-die-gruenen-auf-der-suche-nach-dem-ausweg-accg-110768359.html",
+    "https://www.deutschlandfunk.de/abstimmung-regionalisierungsgesetz-deutschlandticket-a-63-euro-100.html",
+    "https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-die-us-armee-in-deutschland-den-gang-zu-tafeln-empfiehlt-110770498.html"
   ],
   "content_hashes": [
-    "44ce45b69f947f18de6f470b1ea042b7",
-    "2a11a4dae14f1da8ecdc4808a98498af",
-    "6516c087c6d6d8b696b41a23cc0114bc",
     "831d1df30b85ebe93d0464ca7496f9a6",
     "797439a1201b6c9881870134ff69c15a",
     "da53c41c04ee123023f2cc148020fc70",
@@ -2001,12 +1998,12 @@
     "10b73a97d4c3957c1d0a591a67ea03fd",
     "42ad947920c043044557204cb64cf576",
     "4f5c323aaca8bbbbfa7b7a8a270b6886",
-    "c21a2bd30cb67a7e7b0c09704c127be0"
+    "c21a2bd30cb67a7e7b0c09704c127be0",
+    "8863c7c8887890bb10e88ddf72b2b0da",
+    "d081932e93a61ce400e98062409102af",
+    "920597da8ec5900bc7150cc467acc5af"
   ],
   "titles": [
-    "F.A.Z.-Elite-Panel: Eliten sehen in Merz einen starken Kanzler",
-    "Studie - Paritätischer Gesamtverband: Bürgergeld sichert nur \"das nackte Überleben\"",
-    "Japan - Früherer Premierminister Murayama im Alter von 101 Jahren gestorben",
     "Wirtschaft - Industriegewerkschaft: Zehntausende Arbeitsplätze in Deutschland sind bedroht",
     "Gaza-Hilfe - Entwicklungsministerin: Wiederaufbau-Gelder werden streng geprüft",
     "Bremer Bürgermeister - Bovenschulte (SPD) turnusgemäß zum neuen Bundesratspräsidenten gewählt",
@@ -3003,12 +3000,12 @@
     "Europäische Union - Visa-Vergabe für russische Staatsbürger eingeschränkt",
     "Syrien: Zuwanderung sinkt laut Statistischem Bundesamt deutlich",
     "Vodafone will mit US-Firma europäisches Satellitennetzwerk bauen",
-    "„Stadtbild“-Debatte: Die Grünen auf der Suche nach dem Ausweg"
+    "„Stadtbild“-Debatte: Die Grünen auf der Suche nach dem Ausweg",
+    "Regionalisierungsgesetz - Bundestag beschließt Finanzierung des Deutschlandtickets",
+    "Bundesagentur für Arbeit erwartet erneut Milliardenloch",
+    "Folgen des Shutdowns: Warum die US-Armee in Deutschland den Gang zu Tafeln empfiehlt"
   ],
   "hashes": [
-    "967baf9b4ff89539d872de5f14b5ef5c",
-    "f12d7d897baec05d0b7e495c323957a8",
-    "b8bc5e4475dcffac3269f2a2758aa415",
     "ab4bfa7116e509fb0ef4d4b49db6a13e",
     "7d939ed2d2c41553d3d1966ccc59eefd",
     "6f5dd3627cde4fb757700a6c3fee6b18",
@@ -4005,6 +4002,9 @@
     "f9a3e0c0509d56d271a50cd2613a6541",
     "8af7b984fe0909a9519319d9e15bc22a",
     "394388d4b884977d51e3633ca3f8aee2",
-    "b82146ab48596d6952d554632fbea2a9"
+    "b82146ab48596d6952d554632fbea2a9",
+    "fa613ea5ae172f3174fe66fa1e82f684",
+    "6ec01c4128fbc4382797fda0adb16d14",
+    "a1a7b58e68ed23120f4c210c5dd98d58"
   ]
 }
