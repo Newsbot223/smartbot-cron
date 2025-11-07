@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-gremium-kritisiert-frankreichs-umgang-mit-minderjaehrigen-fluechtlingen-100.html",
-    "https://www.deutschlandfunk.de/etatstreit-weiter-ungeloest-100.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-treffen-mit-putin-in-budapest-an-104.html",
     "https://www.deutschlandfunk.de/trump-warnt-hamas-vor-weiteren-hinrichtungen-drohung-von-us-einmarsch-100.html",
     "https://www.deutschlandfunk.de/bundestag-verlaengert-einsatz-der-bundeswehr-im-roten-meer-um-ein-jahr-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/beschlossenes-gesetz-soll-anstieg-von-krankenkassen-beitraegen-im-kommenden-jahr-verhindern-100.html",
     "https://www.deutschlandfunk.de/millionen-deutsche-sind-laut-mitte-studie-offen-fuer-antidemokratische-einstellungen-100.html",
     "https://www.deutschlandfunk.de/medizinischer-dienst-warnt-werdende-eltern-vor-unnoetigen-ultraschalluntersuchungen-embryos-keiner-u-100.html",
-    "https://www.deutschlandfunk.de/gipfeltreffen-mit-zentralasiatischen-staaten-im-weissen-haus-trump-verkuendet-milliardenschweres-abk-100.html"
+    "https://www.deutschlandfunk.de/gipfeltreffen-mit-zentralasiatischen-staaten-im-weissen-haus-trump-verkuendet-milliardenschweres-abk-100.html",
+    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-strafrechtlich-gegen-digitalen-voyeurismus-vorgehen-102.html",
+    "https://www.deutschlandfunk.de/estlands-verteidigungsminister-pevkur-fordert-hoehere-europaeische-ruestungsausgaben-100.html"
   ],
   "content_hashes": [
-    "a31b3796d982c15ef90e3a3996c420d6",
-    "90524812b6c7a8f1c26a5e5c110ff5ab",
     "160a721e5de4da60f09632a67bda6014",
     "c16d81841613948375efa2d205b0c0cf",
     "ac2de1fe84c48d21d6c347a52d33d601",
@@ -2001,11 +1999,11 @@
     "1ceb6ef0e83479d7a46a8719f61ad3bb",
     "94ba591ff25582c76a0c7c26ba53c9da",
     "bb58a1d20d774fa02f834fe88044b542",
-    "958903cc9edf32cee2ff4fa98d87fd99"
+    "958903cc9edf32cee2ff4fa98d87fd99",
+    "09272ec52aa56095e4f93faa77843adc",
+    "9dc55aa95894e5f7432bcf4a7f393d0e"
   ],
   "titles": [
-    "Frankreich - UNO-Gremium kritisiert Frankreichs Umgang mit minderjährigen Flüchtlingen",
-    "USA - Etatstreit weiter ungelöst",
     "Ukraine-Krieg - Trump kündigt Treffen mit Putin in Budapest an",
     "Gazastreifen - Trump warnt Hamas vor weiteren Hinrichtungen - Drohung von US-Einmarsch",
     "EU-Mission \"Aspides\" - Bundestag verlängert Einsatz der Bundeswehr im Roten Meer um ein Jahr",
@@ -3003,11 +3001,11 @@
     "Bundestag - Beschlossenes Gesetz soll Anstieg von Krankenkassen-Beiträgen im kommenden Jahr verhindern",
     "Rechtsextremismus - Millionen Deutsche sind laut Mitte-Studie offen für antidemokratische Einstellungen",
     "\"Babyfernsehen\" - Medizinischer Dienst warnt werdende Eltern vor unnötigen Ultraschalluntersuchungen - \"Embryos keiner unnötigen Strahlung aussetzen\"",
-    "USA - Gipfeltreffen mit zentralasiatischen Staaten im Weißen Haus - Trump verkündet milliardenschweres Abkommen mit Usbekistan"
+    "USA - Gipfeltreffen mit zentralasiatischen Staaten im Weißen Haus - Trump verkündet milliardenschweres Abkommen mit Usbekistan",
+    "Gesetzentwurf - Bundesjustizministerin Hubig will strafrechtlich gegen digitalen Voyeurismus vorgehen",
+    "Verteidigung - Estlands Verteidigungsminister Pevkur fordert höhere europäische Rüstungsausgaben"
   ],
   "hashes": [
-    "d2a9d2b8069fa7885227d4bea9a40c8c",
-    "3b47fd90c6605bb671ff4b40ed0a670c",
     "7163ca98ecfd37291fc3d7a1af7cbe6a",
     "b3475df6d28b764c3766ae6770896b06",
     "ea38e77ad7cb3aa7179096cf45508b98",
@@ -4005,6 +4003,8 @@
     "bf8ce48bcd95dd61ca27840945647a44",
     "8823caa2e7f8bc1387e5cdc071b42404",
     "e13c6d44a3dfa37e62ef9cc19489ff53",
-    "3c2df3941b7ce6cbfe84e7978bd30b12"
+    "3c2df3941b7ce6cbfe84e7978bd30b12",
+    "593e372ae2ed6491190c05de446bfa1a",
+    "a9aae872a5b13f5ed0f4da5f07630056"
   ]
 }
