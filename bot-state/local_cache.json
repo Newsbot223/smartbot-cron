@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/china-kuendigt-baldiges-treffen-mit-den-usa-an-100.html",
-    "https://www.deutschlandfunk.de/europaeische-verbuendete-sagen-selenskyj-unterstuetzung-zu-100.html",
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-und-seine-kritiker-stadtbild-und-merzbild-110737122.html",
     "https://www.deutschlandfunk.de/bundeswehr-schickt-drei-soldaten-nach-israel-100.html",
     "https://www.deutschlandfunk.de/putsch-in-madagaskar-oberst-als-praesident-vereidigt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/friedensgespraeche-zwischen-pakistan-und-afghanistan-gescheitert-100.html",
     "https://www.deutschlandfunk.de/massenprotest-in-lissabon-gegen-reform-der-arbeitsgesetze-100.html",
     "https://www.deutschlandfunk.de/in-den-us-haushaltsstreit-kommt-offenbar-bewegung-102.html",
-    "https://www.deutschlandfunk.de/syrische-polizei-geht-landesweit-gegen-is-zellen-vor-100.html"
+    "https://www.deutschlandfunk.de/syrische-polizei-geht-landesweit-gegen-is-zellen-vor-100.html",
+    "https://www.deutschlandfunk.de/israels-ex-premier-olmert-verurteilt-gewalt-extremistischer-siedler-102.html",
+    "https://www.deutschlandfunk.de/gipfeltreffen-von-eu-und-lateinamerika-in-kolumbien-beginnt-102.html"
   ],
   "content_hashes": [
-    "89369751b382dad21ceb99d96e75582a",
-    "d21886de557c6f467790a11a00e48e6e",
     "282dbcc2f5210a4f7d59b62b6c514422",
     "98e03ec34cb5020ecde822a7826e013b",
     "fc067a9766bc457acffef45fd0a3c6dc",
@@ -2001,11 +1999,11 @@
     "b5c439750ee40d3f0dab2b5a8939b8ff",
     "b59a690c267da35e859d7c88b890aa5b",
     "322acd10c26a381ceee7d100f2bf1bda",
-    "271f905cbcbd0ce7ba99490c643cf5dd"
+    "271f905cbcbd0ce7ba99490c643cf5dd",
+    "58a1c0ae9fb80930917d07318d455104",
+    "911e9ffbd0884498eba343e828b0c448"
   ],
   "titles": [
-    "Handelsstreit - China kündigt baldiges Treffen mit den USA an",
-    "Nach Treffen mit Trump - Europäische Verbündete sagen Selenskyj Unterstützung zu",
     "Empörung über den Kanzler: Stadtbild und Merzbild",
     "Waffenruhe in Gaza - Bundeswehr schickt drei Soldaten nach Israel",
     "Madagaskar - Putschistenführer als Staatschef vereidigt",
@@ -3003,11 +3001,11 @@
     "Verhandlungen in der Türkei - Friedensgespräche zwischen Pakistan und Afghanistan gescheitert",
     "Portugal - Massenprotest in Lissabon gegen Reform der Arbeitsgesetze",
     "Staatsfinanzen - In den US-Haushaltsstreit kommt offenbar Bewegung",
-    "Terrorismus - Syrische Polizei geht landesweit gegen IS-Zellen vor"
+    "Terrorismus - Syrische Polizei geht landesweit gegen IS-Zellen vor",
+    "\"Interview der Woche\" - Israels Ex-Premier Olmert verurteilt Gewalt extremistischer Siedler",
+    "Diplomatie - Gipfeltreffen von EU und Lateinamerika in Kolumbien beginnt"
   ],
   "hashes": [
-    "c377b0e381e51df42aa7e81f9eabf49e",
-    "01ce88ea2cf4256dfd5af7b934e77129",
     "80ec816c69ee0c2643f4859563c670fc",
     "866b2508d42d00962b94873d499e5d12",
     "81fd7047ccd499f9ac4f562e7fbe8f57",
@@ -4005,6 +4003,8 @@
     "0f034b6b073f5c9bd816f8ad18971be2",
     "7c22f8f2c4d65ea43aea58c01e51afee",
     "99c5489b5f3181fb1705a33d100b8101",
-    "8648ee0a27c63b5cd3b2535afd260003"
+    "8648ee0a27c63b5cd3b2535afd260003",
+    "1e937972aa629127e24d010f22a1f4a4",
+    "88a1e8a30d0cddf3f65e9135cb0d547f"
   ]
 }
