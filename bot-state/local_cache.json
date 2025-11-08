@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/juso-chef-tuermer-bezeichnet-plaene-von-ministerin-warken-zu-krankenkassen-als-akt-der-hilflosigkeit-102.html",
-    "https://www.spiegel.de/panorama/nord-stream-mutmasslicher-saboteur-wird-nicht-von-polen-nach-deutschland-ausgeliefert-a-149f03d9-0425-4e2f-860c-1e174c7a4752#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/gerhard-schroeder-verteidigt-bau-von-nord-stream-2-accg-110736979.html",
     "https://www.deutschlandfunk.de/kreml-trump-putin-treffen-nicht-auf-die-lange-bank-schieben-100.html",
     "https://www.deutschlandfunk.de/russland-muss-yukos-aktionaere-entschaedigen-100.html",
     "https://www.faz.net/aktuell/politik/inland/merz-im-interview-wir-wollen-die-staerkste-konventionelle-armee-in-europa-aufbauen-110737192.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gabriel-und-altmaier-bestreiten-enge-zusammenarbeit-von-bundesregierung-und-landesregierung-100.html",
     "https://www.faz.net/aktuell/politik/inland/justiz-soll-gegen-vergewaltigungsvideos-vorgehen-110770597.html",
     "https://www.deutschlandfunk.de/trump-stellt-ungarn-ausnahmeregelung-in-aussicht-orban-spricht-schon-von-einigung-100.html",
-    "https://www.deutschlandfunk.de/praesident-trump-sagt-teilnahme-der-usa-am-g20-gipfel-in-suedafrika-ab-100.html"
+    "https://www.deutschlandfunk.de/praesident-trump-sagt-teilnahme-der-usa-am-g20-gipfel-in-suedafrika-ab-100.html",
+    "https://www.deutschlandfunk.de/weimer-warnt-vor-wachsendem-antisemitismus-100.html",
+    "https://www.deutschlandfunk.de/wadephul-muss-suedamerika-reise-umplanen-100.html",
+    "https://www.deutschlandfunk.de/toter-in-region-saporischschja-100.html"
   ],
   "content_hashes": [
-    "291bf75c319355f72a18a31688ca0257",
-    "7fc3f967fce2304f1c38f1dbc049766e",
-    "9f73ff8c19bf55cf52631b37c732a594",
     "9cf6834f92499516b79c33f999806a26",
     "44681032768631a53130dabc78de209b",
     "8c180b56a18eb6ffa823601616555281",
@@ -2001,12 +1998,12 @@
     "7df264d44b2fbed25b7e8a7c44ea28e9",
     "ba1a76bc741592da3787047f64948f6e",
     "ba7a6d0a7d145baa883dd2d4ed95f5c1",
-    "8979434e8c83174168fec6e15f32d7f4"
+    "8979434e8c83174168fec6e15f32d7f4",
+    "0f5f58cfe5ff35fb3e79973d91d69167",
+    "3eeb7ba5b2b265dcd2839a2ea494e14a",
+    "d2b0cb23d3de03dbe174794a97ad863e"
   ],
   "titles": [
-    "Gesundheitsreform - Juso-Chef Türmer bezeichnet Pläne von Ministerin Warken zu Krankenkassen als \"Akt der Hilflosigkeit\"",
-    "Nord Stream: Mutmaßlicher Saboteur wird nicht von Polen nach Deutschland ausgeliefert",
-    "Schröder im U-Ausschuss: „Das geht Sie einen feuchten Kehricht an“",
     "Ukraine-Krieg - Kreml: Trump-Putin-Treffen nicht auf die lange Bank schieben",
     "Urteil zu zerschlagenem Ölkonzern - Russland muss Yukos-Aktionäre entschädigen",
     "Merz im Interview: „Wir wollen die stärkste konventionelle Armee in Europa aufbauen“",
@@ -3003,12 +3000,12 @@
     "Bau von Nord Stream 2 - Gabriel und Altmaier bestreiten enge Zusammenarbeit von Bundesregierung und Landesregierung",
     "Justizministerkonferenz: Besitz von Vergewaltigungsvideos soll verboten werden",
     "Russland-Sanktionen - Trump stellt Ungarn Ausnahmeregelung in Aussicht - Orban spricht schon von Einigung",
-    "Washington - Präsident Trump sagt Teilnahme der USA am G20-Gipfel in Südafrika ab"
+    "Washington - Präsident Trump sagt Teilnahme der USA am G20-Gipfel in Südafrika ab",
+    "Gedenken an Pogromnacht - Weimer warnt vor wachsendem Antisemitismus",
+    "Defekt am Regierungsflieger - Wadephul muss Südamerika-Reise umplanen",
+    "Ukraine-Krieg - Toter in Region Saporischschja"
   ],
   "hashes": [
-    "78887cecc1891eb7e2b3a511bd1d20d9",
-    "a493190b3bb5562b6a205522c8db9ae6",
-    "698b9b59effd031a219b6bb661114d73",
     "b7d353a1a4189ae94886408b7f88908c",
     "77549de7f3b8e15a196333c2387dc63d",
     "ac5b9fc86767d1171998c1ba4c323004",
@@ -4005,6 +4002,9 @@
     "f6b4a10ba522b456b179c5154eabe4a0",
     "8dced872357cbee686f6a12f2c7c67e7",
     "014276faef5a3d6d5d0ec772ff326313",
-    "ad83c8c0f7897054572cb6c272e3dda3"
+    "ad83c8c0f7897054572cb6c272e3dda3",
+    "80734e80ff957a66c0bb4279b1f16ebd",
+    "30837fb493d3cac57a3dd1c7e9859e9c",
+    "53f72e861061a4ed7088ecee09f001e1"
   ]
 }
