@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-schnelle-einbuergerung-wird-wieder-abgeschafft-100.html",
-    "https://www.deutschlandfunk.de/altkanzler-schroeder-verteidigt-bau-von-pipeline-ex-kanzleramtschef-braun-stiftungsgruendung-war-sac-100.html",
-    "https://www.deutschlandfunk.de/kloeckner-wir-schraenken-nicht-die-redefreiheit-ein-sondern-die-poebelfreiheit-100.html",
     "https://www.faz.net/aktuell/politik/inland/nach-stadtbild-aeusserung-solche-debatten-nutzen-den-rechtspopulisten-110737666.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-berlin-und-ankara-streben-engere-zusammenarbeit-an-100.html",
     "https://www.deutschlandfunk.de/eu-schlaegt-nutzung-eingefrorener-russischer-vermoegen-fuer-ukrainische-waffenkaeufe-in-europa-vor-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/oberster-gerichtshof-verfuegt-verwaltungsaufschub-regierung-muss-zunaechst-keine-lebensmittelhilfen--100.html",
     "https://www.faz.net/aktuell/politik/inland/kontrolle-der-nachrichtendienste-nahe-am-skandal-110770614.html",
     "https://www.deutschlandfunk.de/spahn-fordert-deutschen-boykott-bei-esc-ausschluss-israels-102.html",
-    "https://www.deutschlandfunk.de/ukrainische-energieinfrastruktur-beschossen-verletzte-und-tote-in-dnipro-100.html"
+    "https://www.deutschlandfunk.de/ukrainische-energieinfrastruktur-beschossen-verletzte-und-tote-in-dnipro-100.html",
+    "https://www.deutschlandfunk.de/ukrainische-behoerden-berichten-ueber-tote-und-verletzte-in-dnipro-100.html",
+    "https://www.spiegel.de/wirtschaft/soziales/deutschland-jeder-vierte-minderjaehrige-ist-auf-sozialleistungen-angewiesen-a-31372c47-6192-4e61-ac83-73a8e94c2b83#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/soeder-und-hagel-ein-launiger-plausch-ueber-essen-und-migration-accg-110771487.html"
   ],
   "content_hashes": [
-    "dcc53d97b440b7ff8283115f785899b6",
-    "05a522de5873e63d2ee136e8bad5547a",
-    "30c25528b19fcb9e1903e87800e24065",
     "c9a4c1b2921a1119dbd1e5bbd7a44757",
     "044c1c10fa3faa099821db0c3751a25b",
     "83dc3f1fb12b574ee87fe17710dcb171",
@@ -2001,12 +1998,12 @@
     "ae95eaa8121b788eeb4da043ded343e1",
     "82a7216de58ccff4a950ea8c85f1fe1b",
     "871513c3213838f762269ba97e251f1e",
-    "ca7c42f095976207ce68723305e8b22e"
+    "ca7c42f095976207ce68723305e8b22e",
+    "b0e3323b1717cb1af2d0652202aef170",
+    "871c574c10f3c008e2f2e12a6c5c31ac",
+    "16e27a413546ae479721bc541e183039"
   ],
   "titles": [
-    "Bundesrat - Die schnelle Einbürgerung wird wieder abgeschafft",
-    "Nord Stream 2-Pipeline - Altkanzler Schröder verteidigt Bau von Pipeline - Ex-Kanzleramtschef Braun: Stiftungsgründung war Sache von Mecklenburg-Vorpommern",
-    "Interview der Woche - Klöckner: \"Wir schränken nicht die Redefreiheit ein, sondern die Pöbelfreiheit\"",
     "Nach Stadtbild-Äußerung: „Solche Debatten nutzen den Rechtspopulisten“",
     "Türkei-Besuch - Außenminister Wadephul: Berlin und Ankara streben engere Zusammenarbeit an",
     "Bericht - EU schlägt Nutzung eingefrorener russischer Vermögen für ukrainische Waffenkäufe in Europa vor",
@@ -3003,12 +3000,12 @@
     "USA - Oberster Gerichtshof verfügt Verwaltungsaufschub - Regierung muss zunächst keine Lebensmittelhilfen auszahlen",
     "Nachrichtendienst-Kontrolle: Ein Zustand nahe am Skandal",
     "Eurovision Song Contest - Spahn fordert deutschen Boykott bei ESC-Ausschluss Israels",
-    "Russischer Angriffskrieg - Ukrainische Energieinfrastruktur beschossen - Verletzte und Tote in Dnipro"
+    "Russischer Angriffskrieg - Ukrainische Energieinfrastruktur beschossen - Verletzte und Tote in Dnipro",
+    "Russischer Angriffskrieg - Ukrainische Behörden berichten über Tote und Verletzte in Dnipro",
+    "Deutschland: Jeder vierte Minderjährige ist auf Sozialleistungen angewiesen",
+    "Söder und Hagel: Ein launiger Plausch über Essen und Migration"
   ],
   "hashes": [
-    "93d4bc3de55d6f07cf4e1a245b7135f8",
-    "a1f43ae6e8a7803643d2356376095de3",
-    "ac482153537c592dc9bebca737506241",
     "02015a88d4c663e1c78566cb8ab84420",
     "77e80e2610760cc0c16b165bd5f91844",
     "5918869f702e87a9e216df8fb7fc8f10",
@@ -4005,6 +4002,9 @@
     "da2d1edf6cfd4bddde4eca589dab0973",
     "10e6cb9ff27dbd0bc44bc0593a7cc876",
     "c11a021bf101d23858a07af37196a851",
-    "f7962daf14e4295ad751bae1b628e8cb"
+    "f7962daf14e4295ad751bae1b628e8cb",
+    "bcbfc2fe04be5159d3f73a5ef1bbaa8f",
+    "4f7cfe8d7a5c772a6496d22d031909ea",
+    "81a7fba26f861d52e5742e0cebd0a8eb"
   ]
 }
