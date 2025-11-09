@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-greift-mehrere-ukrainische-staedte-aus-der-luft-an-100.html",
-    "https://www.deutschlandfunk.de/netanjahu-kuendigt-erneute-kandidatur-fuer-amt-des-israelischen-regierungschefs-an-100.html",
     "https://www.deutschlandfunk.de/republika-srpska-in-bosnien-und-herzegowina-ernennt-uebergangspraesidentin-100.html",
     "https://www.deutschlandfunk.de/cdu-fuehrung-beraet-auf-klausurtagung-ueber-umgang-mit-afd-100.html",
     "https://www.deutschlandfunk.de/vorstandschefin-palla-kuendigt-kompletten-neuanfang-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/feuerwehrverband-jeder-ist-ein-stueck-weit-verpflichtet-sich-im-katastrophen-oder-kriegsfall-selbst--100.html",
     "https://www.deutschlandfunk.de/marburger-bund-fordert-hoehere-steuern-auf-nikotin-und-alkohol-und-einfuehrung-einer-zuckersteuer-100.html",
     "https://www.deutschlandfunk.de/3sat-und-arte-dokumentarfilmpreise-fuer-beitraege-ueber-palliativstationen-eine-queere-baumarktbetre-100.html",
-    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-in-den-usa-100.html"
+    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-in-den-usa-100.html",
+    "https://www.deutschlandfunk.de/israels-botschafter-prosor-linker-antisemitismus-gefaehrlicher-als-der-von-rechts-und-von-islamisten-100.html",
+    "https://www.spiegel.de/wissenschaft/natur/elche-in-deutschland-kommt-der-elch-zurueck-nach-deutschland-a-e041f45f-e870-453a-9a3d-0c06fea3a3b1#ref=rss"
   ],
   "content_hashes": [
-    "2f641b402f524065700ae2faba864b96",
-    "464edd4e53f39a273838edafa3af6b06",
     "d0ae4d1ebeb93c21f6df28178b50e547",
     "c468fe187749b6fe34a68d1c73706758",
     "f2759b09842286a078fc6c56da5edd9e",
@@ -2001,11 +1999,11 @@
     "b3e95c8d83a71878862e01314330f053",
     "fbce2daeeb0023b00b59a291022ea3fa",
     "7aa390bad39decd7b34ae7c2622d2e60",
-    "4eae7fd4ec6923ca01cdc153e6870bdc"
+    "4eae7fd4ec6923ca01cdc153e6870bdc",
+    "ed0bc25be8aec91a7c881f5add82a383",
+    "5d1efac31e0a006a2ecf0d1125f92866"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Russland greift mehrere ukrainische Städte aus der Luft an",
-    "Interview - Netanjahu kündigt erneute Kandidatur für Amt des israelischen Regierungschefs an",
     "Nach Dodik-Absetzung - Republika Srpska in Bosnien und Herzegowina ernennt Übergangspräsidentin",
     "Berlin - CDU-Führung berät auf Klausurtagung über Umgang mit AfD",
     "Deutsche Bahn - Vorstandschefin Palla kündigt kompletten Neuanfang an",
@@ -3003,11 +3001,11 @@
     "Delegiertenversammlung - Feuerwehrverband: \"Jeder ist ein Stück weit verpflichtet, sich im Katastrophen- oder Kriegsfall selbst zu schützen\"",
     "Gesundheitspolitik - Marburger Bund fordert höhere Steuern auf Nikotin und Alkohol - und Einführung einer Zuckersteuer",
     "Duisburger Filmwoche - 3sat- und Arte-Dokumentarfilmpreise für Beiträge über Palliativstationen, eine queere Baumarktbetreiberin in den USA und Flüchtlingsrouten",
-    "Haushaltssperre - Shutdown führt zu Hunderten Flugausfällen in den USA"
+    "Haushaltssperre - Shutdown führt zu Hunderten Flugausfällen in den USA",
+    "9. November - Israels Botschafter Prosor: Linker Antisemitismus gefährlicher als der von rechts und von Islamisten",
+    "Elche in Deutschland: Kommt der Elch zurück nach Deutschland?"
   ],
   "hashes": [
-    "172daec8b108addb359faf85c4fd8943",
-    "77a899cec7817417e0cd180be38dbfe3",
     "b6bb4468ef42d01166431b343bb4c0e4",
     "89c615f1ea782c7878eec9e422482363",
     "47fbe6d0b248ca5bc408dde9f49a91eb",
@@ -4005,6 +4003,8 @@
     "75a863dfb3d824cd8efc7ea99703c8da",
     "cf43c00644b2c2c682096231ac7ad26d",
     "9870e47555a5bd752da92e3bed9ddbcc",
-    "64e30d6f4001d6559ed295269bd9e1d9"
+    "64e30d6f4001d6559ed295269bd9e1d9",
+    "19cf6b466efe58753b8c9b4859ad92ef",
+    "80950da98df01256f1f2dcc2140d6e25"
   ]
 }
