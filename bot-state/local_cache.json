@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/co2-debatten-ueber-jahreszahlen-helfen-dem-klima-nicht-110735788.html",
-    "https://www.deutschlandfunk.de/britische-marine-meldet-feuer-auf-von-geschoss-getroffenem-schiff-102.html",
     "https://www.faz.net/aktuell/politik/ausland/viele-staaten-geben-keine-klimaplaene-fuer-cop-30-ab-accg-110737663.html",
     "https://www.deutschlandfunk.de/landesweite-protestkundgebungen-no-kings-begonnen-100.html",
     "https://www.spiegel.de/panorama/goerlitz-buecher-an-holocaust-mahnmal-verbrannt-staatsschutz-ermittelt-a-9d2ec383-5417-4f95-844f-5b80ffc8d692#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-absturz-flugverbot-fuer-alle-md-11-maschinen-100.html",
     "https://www.deutschlandfunk.de/tornado-zerstoert-stadt-fast-vollstaendig-100.html",
     "https://www.deutschlandfunk.de/bolivien-und-usa-nehmen-diplomatische-beziehungen-wieder-auf-100.html",
-    "https://www.deutschlandfunk.de/gipfeltreffen-von-eu-und-lateinamerika-in-kolumbien-beginnt-heute-102.html"
+    "https://www.deutschlandfunk.de/gipfeltreffen-von-eu-und-lateinamerika-in-kolumbien-beginnt-heute-102.html",
+    "https://www.deutschlandfunk.de/veranstaltungen-zum-87-jahrestag-der-pogromnacht-mahnen-zur-wachsamkeit-100.html",
+    "https://www.deutschlandfunk.de/evp-chef-weber-fuer-ausnahmen-bei-syrer-abschiebungen-102.html"
   ],
   "content_hashes": [
-    "a397ea56a0259a43ca71fa9fab86747e",
-    "72b9ec610fcf03ea6efe6f3f5b3d1198",
     "f4e183e953f41751855795d08b9b4d92",
     "0b6940f236a6b4469cf275b563245f39",
     "c9c49804aa6627a46a1507e7f02f9291",
@@ -2001,11 +1999,11 @@
     "455422cb7be594e1c237d315c088b78b",
     "1c05500034e41d5c78c4a45776fd8622",
     "0516b4880290490b07540de46f808e8b",
-    "25608820a314fa1d4e0663b034352c7d"
+    "25608820a314fa1d4e0663b034352c7d",
+    "4885b249ab86b2e9139691c85fe4c157",
+    "404da8280bd295d5232051a814c59c39"
   ],
   "titles": [
-    "CO2-Neutralität: Debatten über Jahreszahlen helfen dem Klima nicht",
-    "Golf von Aden - Britische Marine meldet Feuer auf von Geschoss getroffenem Schiff",
     "Vor der Weltklimakonferenz: Ohne Europa übernimmt China die Führung",
     "USA - Landesweite Protestkundgebungen \"No Kings\" begonnen",
     "Görlitz: Bücher an Holocaust-Mahnmal verbrannt - Staatsschutz ermittelt",
@@ -3003,11 +3001,11 @@
     "USA - Nach Absturz: Flugverbot für alle MD-11-Maschinen",
     "Brasilien - Tornado zerstört Stadt fast vollständig",
     "Nach Amtsantritt von Präsident Paz - Bolivien und USA nehmen diplomatische Beziehungen wieder auf",
-    "Diplomatie - Gipfeltreffen von EU und Lateinamerika in Kolumbien beginnt heute"
+    "Diplomatie - Gipfeltreffen von EU und Lateinamerika in Kolumbien beginnt heute",
+    "NS-Regime und Judenverfolgung - Veranstaltungen zum 87. Jahrestag der Pogromnacht mahnen zur Wachsamkeit",
+    "Migration - EVP-Chef Weber für Ausnahmen bei Syrer-Abschiebungen"
   ],
   "hashes": [
-    "059fe765841986b732b9262110f6fe94",
-    "33be638412a3e11821e2be44bab03db7",
     "dc0f83e3e45e75b7e5bf66c7656fb9c0",
     "6bc95600dea3ad8fbf81bf18b1310889",
     "0cc3682e2ac73dffec196519e1f3b981",
@@ -4005,6 +4003,8 @@
     "961e2f8135016aaaba366dac31b06af0",
     "5ba10cc385a98fff1dc77811360bd03f",
     "3e69bdd65ecdecc4233244f67e3f803b",
-    "2ec3edb8bd6242e79467fe9a3e504307"
+    "2ec3edb8bd6242e79467fe9a3e504307",
+    "e76a30c92364c1cc559e1fdd604baf45",
+    "1395c58f5570356f6ccab5fd066f00db"
   ]
 }
