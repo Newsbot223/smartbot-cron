@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mindestens-zwei-tote-in-der-region-donezk-100.html",
-    "https://www.deutschlandfunk.de/bundespraesidenten-deutschlands-und-oesterreichs-werben-fuer-selbstbewussteres-europa-102.html",
     "https://www.deutschlandfunk.de/israels-ministerpraesident-netanjahu-ordnet-militaerisches-vorgehen-gegen-ziele-in-gaza-an-102.html",
     "https://www.deutschlandfunk.de/richtungswahl-im-norden-100.html",
     "https://www.faz.net/aktuell/politik/inland/langsame-gerichte-wenn-das-asylverfahren-84-monate-dauert-accg-110720647.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/oesterreichische-aussenministerin-verurteilt-drohnenangriff-auf-internationale-journalisten-und-helf-100.html",
     "https://www.deutschlandfunk.de/buergermeisterin-im-irak-warnt-vor-gezielter-vertreibung-von-christen-100.html",
     "https://www.faz.net/aktuell/feuilleton/debatten/private-leihgabe-an-merz-wie-kommt-anselm-kiefer-ins-kanzleramt-accg-110769711.html",
-    "https://www.deutschlandfunk.de/aktionstag-gegen-wehrpflicht-geplant-100.html"
+    "https://www.deutschlandfunk.de/aktionstag-gegen-wehrpflicht-geplant-100.html",
+    "https://www.deutschlandfunk.de/illouz-bezeichnet-trump-als-faschistischen-fuehrer-102.html",
+    "https://www.deutschlandfunk.de/mutmasslich-leiche-des-israelischen-soldaten-goldin-uebergeben-identifizierung-steht-aus-100.html"
   ],
   "content_hashes": [
-    "717f79be9a41aee22539f1656e8eba2b",
-    "cb68c0269a12f0d793b28ac7c897e392",
     "213e9e6421ec6db5849ac86263bfe1fc",
     "4a541545e0e6a6e704234eb697c0253a",
     "29ae14990c24659802ab696578ae389b",
@@ -2001,11 +1999,11 @@
     "6ac6dd4629a1e94d85b98ebb4109c99a",
     "367da20c11c154afa26c410970b82fe3",
     "c8850cac4dbbbfa74d85831409e3ee2f",
-    "7c8e423102f688bb03c4463c6e554fd9"
+    "7c8e423102f688bb03c4463c6e554fd9",
+    "fac3a159ab4b11f7fa180e111670f92c",
+    "04583276b26895fede94e1ba44d1c6fa"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Mindestens zwei Tote in der Region Donezk",
-    "Gemeinsame Erklärung - Bundespräsidenten Deutschlands und Österreichs werben für \"selbstbewussteres Europa\"",
     "Nach Berichten über Angriffe der Hamas - Israels Ministerpräsident Netanjahu ordnet militärisches Vorgehen gegen Ziele in Gaza an",
     "Zypern - Richtungswahl im Norden",
     "Langsame Gerichte: Wenn das Asylverfahren 84 Monate dauert",
@@ -3003,11 +3001,11 @@
     "Ukraine - Österreichische Außenministerin verurteilt Drohnenangriff auf internationale Journalisten und Helfer",
     "Schiitische Milizen - Bürgermeisterin im Irak warnt vor gezielter Vertreibung von Christen",
     "Leihgabe im Regierungszimmer: Wie kommt das Anselm-Kiefer-Bild ins Kanzler-Büro?",
-    "Friedensinitiativen - Aktionstag gegen Wehrpflicht geplant"
+    "Friedensinitiativen - Aktionstag gegen Wehrpflicht geplant",
+    "Schillerrede - Illouz bezeichnet Trump als faschistischen Führer",
+    "Gaza - Mutmaßlich Leiche des israelischen Soldaten Goldin übergeben - Identifizierung steht aus"
   ],
   "hashes": [
-    "e1813fae0a675aeaee37fce9a34a87f7",
-    "d9fe918cb3d3afd0816e71c8fc2e10b0",
     "abf44f71b47d5df8be373a2a4eabf759",
     "b1e043e049b4622e3b6817927d224287",
     "02f774fe557a80a7730e8e794d46a007",
@@ -4005,6 +4003,8 @@
     "5248d2ab9a2787debc76634ee16665de",
     "c419456f23d32162f433b1da1980de7a",
     "eb7eb570ec823d16f0ffe34ab93dc451",
-    "101906403ef0acfb1d3cd72dcfcedd37"
+    "101906403ef0acfb1d3cd72dcfcedd37",
+    "f3be8b91f31b036ced1e5051251c7c1f",
+    "4ea5d7004ee49b0f6bc01ddc1616f65a"
   ]
 }
