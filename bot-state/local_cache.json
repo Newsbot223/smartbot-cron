@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/iqb-bildungstrend-ploetzlich-soll-corona-an-allem-schuld-sein-accg-110739429.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/no-kings-proteste-gegen-trump-folgt-daraus-was-110739697.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-frei-verteidigt-stadtbild-aussage-von-kanzler-merz-gruenen-politiker-oezdemir-kritis-102.html",
     "https://www.deutschlandfunk.de/amtsinhaber-tatar-laut-wahlleitung-weit-abgeschlagen-102.html",
     "https://www.faz.net/aktuell/politik/inland/noch-weniger-geschichtsunterricht-in-berlin-110739684.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-aeusserungen-des-israelischen-botschafters-linkspartei-wehrt-sich-gegen-schuldzuweisungen-bezue-100.html",
     "https://www.deutschlandfunk.de/israel-bestaetigt-identitaet-des-uebergebenen-leichnams-verschleppter-soldat-hadar-goldin-100.html",
     "https://www.deutschlandfunk.de/bundesumweltminister-schneider-haelt-an-foerderung-fuer-heizungstausch-fest-102.html",
-    "https://www.faz.net/aktuell/politik/inland/kommentar-zu-kirchen-und-beflaggung-wie-viel-symbolik-vertraegt-die-kirche-110772463.html"
+    "https://www.faz.net/aktuell/politik/inland/kommentar-zu-kirchen-und-beflaggung-wie-viel-symbolik-vertraegt-die-kirche-110772463.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-ruft-zu-gegenwehr-gegen-extremisten-auf-100.html",
+    "https://www.deutschlandfunk.de/afrikanische-union-fordert-internationale-antwort-auf-benzin-blockade-100.html"
   ],
   "content_hashes": [
-    "8c368c919c8f2b99e894a9fc8944d00b",
-    "b829b7ddf28e299f0bf80a4fccd27051",
     "20efdce1b1650d09b95fc911edef0206",
     "49621fcf19de93a9c223bd9c43ee65b9",
     "4b4821144de57fa2f267f4b85f6b3ecb",
@@ -2001,11 +1999,11 @@
     "8ab944fd31a609b7cb260f1799f2bf70",
     "652f5905e7d4be56f82fb92f09661b0e",
     "07bfe00c34b31e7d97158c80005f466e",
-    "66aacb209d302bf7da193886bd253f32"
+    "66aacb209d302bf7da193886bd253f32",
+    "25c957e0a7c2b1520a509b7e7889b772",
+    "98fc0d7833852adf1a579e1bca378f2e"
   ],
   "titles": [
-    "Geringe Mathekenntnisse: Plötzlich soll Corona an allem schuld sein",
-    "Proteste gegen Trump: Mehr als eine Randnotiz?",
     "Migrationsdiskussion - Kanzleramtschef Frei verteidigt Stadtbild-Aussage von Kanzler Merz - Grünen-Politiker Özdemir kritisiert Regierungsarbeit",
     "Präsidentenwahl in Zypern - Amtsinhaber Tatar laut Wahlleitung weit abgeschlagen",
     "Pflicht zur Berufsorientierung: Noch weniger Geschichtsunterricht in Berlin?",
@@ -3003,11 +3001,11 @@
     "Berlin - Nach Äußerungen des israelischen Botschafters: Linkspartei wehrt sich gegen Schuldzuweisungen bezüglich Antisemitismus",
     "Gaza - Israel bestätigt Identität des übergebenen Leichnams - verschleppter Soldat Hadar Goldin",
     "Berlin - Bundesumweltminister Schneider hält an Förderung für Heizungstausch fest",
-    "Kirchliche Beflaggung: Wo bleibt die eigene Botschaft?"
+    "Kirchliche Beflaggung: Wo bleibt die eigene Botschaft?",
+    "9. November - Bundespräsident Steinmeier ruft zu Gegenwehr gegen Extremisten auf",
+    "Mali - Afrikanische Union fordert internationale Antwort auf Benzin-Blockade"
   ],
   "hashes": [
-    "e3c6c422226214703cf3cc2e363951d7",
-    "c90d1262aba91f59e33deccb8d8d2897",
     "1500b7e7fd69751421a0f8632e50eb33",
     "73736e538899ff454502766901716fcd",
     "0fb9e55910ac77da3f540f12d19b2502",
@@ -4005,6 +4003,8 @@
     "9b29a8866c9458f751beaec920184108",
     "d8943e0543b706efa653ff2694672f50",
     "f4ea85d9c3e0d2c44612a29cc6e03a25",
-    "222330f53a44fc32dba95c57b56db930"
+    "222330f53a44fc32dba95c57b56db930",
+    "a1272ae10e14a8d71bf9a674283d3ab1",
+    "f15ad893247ddfb2fe395bf6ee95b790"
   ]
 }
