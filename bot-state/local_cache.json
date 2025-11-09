@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afghanistan-und-pakistan-vereinbaren-erneute-waffenruhe-100.html",
-    "https://www.deutschlandfunk.de/mitglieder-der-huthi-miliz-dringen-in-uno-quartier-ein-100.html",
     "https://www.deutschlandfunk.de/limp-bizkit-bassist-sam-rivers-ist-tot-102.html",
     "https://www.deutschlandfunk.de/erasmus-begruenderin-corradi-mit-91-jahren-gestorben-102.html",
     "https://www.deutschlandfunk.de/israel-fliegt-luftangriffe-auf-gazastreifen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/protest-gegen-wahl-von-ex-bundesministerin-spiegel-zur-sozialdezernentin-in-hannover-100.html",
     "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-annaeherung-im-haushaltsstreit-100.html",
     "https://www.deutschlandfunk.de/proteste-gegen-geplante-arbeitsmarktreform-102.html",
-    "https://www.deutschlandfunk.de/interview-olmert-ehud-ministerpraesident-a-d-des-staates-israel-100.html"
+    "https://www.deutschlandfunk.de/interview-olmert-ehud-ministerpraesident-a-d-des-staates-israel-100.html",
+    "https://www.deutschlandfunk.de/pflegebevollmaechtigte-staffler-stoesst-mit-aenderungsvorschlag-beim-pflegegrad-1-auf-kritik-100.html",
+    "https://www.deutschlandfunk.de/oesterreichische-aussenministerin-verurteilt-drohnenangriff-auf-internationale-journalisten-und-helf-100.html"
   ],
   "content_hashes": [
-    "6b22f781e5bedb211fbb8aef6c234b02",
-    "592eaf76f7e1bb9da61d0af9bda28ea7",
     "2c11e8358010d4da99bb9b49eddd3793",
     "3020b0f435077c951a03ec1e200922e8",
     "d0c8e0d244bd3567badc8e707bced482",
@@ -2001,11 +1999,11 @@
     "312e33b5847ebd5e05f06755f2da7a2e",
     "cab39d09f10e5af3222da958cbde86d7",
     "2e6a7ef2c1a9151f82477023ac665ac7",
-    "0c3a56fe5c1e7667284745f58a03c7b9"
+    "0c3a56fe5c1e7667284745f58a03c7b9",
+    "cc548b77295a2bd1c1ac4bbe209b4cee",
+    "6ac6dd4629a1e94d85b98ebb4109c99a"
   ],
   "titles": [
-    "Vermittlung durch Katar - Afghanistan und Pakistan vereinbaren erneute Waffenruhe",
-    "Jemen - Mitglieder der Huthi-Miliz dringen in UNO-Quartier ein",
     "Metal - Limp-Bizkit-Bassist Sam Rivers ist tot",
     "EU-Austauschprogramm - \"Erasmus\"-Begründerin Corradi mit 91 Jahren gestorben",
     "Nach mutmaßlichem Waffenruhe-Verstoß der Hamas - Israel fliegt Luftangriffe auf Gazastreifen",
@@ -3003,11 +3001,11 @@
     "Wegen Ahrtal-Flut - Protest gegen Wahl von Ex-Bundesministerin Spiegel zur Sozialdezernentin in Hannover",
     "USA - Shutdown führt zu Hunderten Flugausfällen - Annäherung im Haushaltsstreit",
     "Portugal - Proteste gegen geplante Arbeitsmarktreform",
-    "Ehud Olmert - Israels Ex-Premier kritisiert Siedlergewalt als unerträglich"
+    "Ehud Olmert - Israels Ex-Premier kritisiert Siedlergewalt als unerträglich",
+    "Sozialleistungen - Pflegebevollmächtigte Staffler stößt mit Änderungsvorschlag beim Pflegegrad 1 auf Kritik",
+    "Ukraine - Österreichische Außenministerin verurteilt Drohnenangriff auf internationale Journalisten und Helfer"
   ],
   "hashes": [
-    "d7f2e20b46eb4146dc8ea03df857dbda",
-    "31956ee979eef20bde2d8273c37a6612",
     "a26fd5c0d279c2080ada8c2fbcd2a974",
     "f253fcf95edea006667a7aca985351ed",
     "d5ba2829fdafc12c90f70b957f90bf84",
@@ -4005,6 +4003,8 @@
     "48c9c16eb81f1b96aaafc15c6ed3565c",
     "84003dd8f7a76262e0b33fc4c3a25505",
     "dd21350ac88126c1850938d7cd356422",
-    "ba3bd8b8804b00e5ff7de56c381c4301"
+    "ba3bd8b8804b00e5ff7de56c381c4301",
+    "74cda88ece8b7dd4a57f00eaea44e057",
+    "5248d2ab9a2787debc76634ee16665de"
   ]
 }
