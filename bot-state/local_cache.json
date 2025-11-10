@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-krieg-trump-draengt-auf-waffenstillstand-an-aktueller-frontlinie-100.html",
-    "https://www.deutschlandfunk.de/thyssenkrupp-marine-systems-ab-heute-an-der-boerse-gehandelt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/debatte-um-wehrpflicht-prominente-gruene-wollen-verpflichtendes-gesellschaftsjahr-accg-110740087.html",
     "https://www.deutschlandfunk.de/toedlicher-flugzeug-unfall-in-hongkong-boeing-747-rutscht-ueber-landebahn-ins-meer-100.html",
     "https://www.faz.net/aktuell/politik/inland/afd-will-trump-zum-ehrenbuerger-von-bad-duerkheim-machen-accg-110740137.html",
     "https://www.deutschlandfunk.de/prominente-gruene-wollen-verpflichtendes-gesellschaftsjahr-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-den-magdeburger-weihnachtsmarkt-beginnt-100.html",
     "https://www.deutschlandfunk.de/schuelerzahl-in-deutschland-steigt-bis-2032-deutlich-an-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-cdu-beraet-in-bolivien-ueber-lithium-lieferungen-100.html",
-    "https://www.deutschlandfunk.de/bewegung-im-us-haushaltsstreit-ausweg-aus-dem-shutdown-in-sicht-100.html"
+    "https://www.deutschlandfunk.de/bewegung-im-us-haushaltsstreit-ausweg-aus-dem-shutdown-in-sicht-100.html",
+    "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-beratungen-ueber-einen-uebergangsetat-102.html",
+    "https://www.deutschlandfunk.de/weitere-anklage-gegen-ex-praesidenten-yoon-100.html",
+    "https://www.deutschlandfunk.de/steinmeiers-rede-zum-9-november-100.html"
   ],
   "content_hashes": [
-    "dd235cad7c642ea36dc5e953b4224f4b",
-    "1c3dea8a9aa050029e42ce853eb54f87",
-    "b52933898fae5c72ee9e3b5d67e8cc72",
     "582b8fdf72db76df2b556786052b79a9",
     "5eee78b7a5c7faebeef77728a75ff9e6",
     "4d5edd67ca0339edf44fe68cb44cfd1e",
@@ -2001,12 +1998,12 @@
     "eed07ecba3feab8a75214c5aea732f37",
     "e7a49c4a134c12b452ec94858c7ad2e9",
     "c67defd5164eaba2e6b77fc7854788b4",
-    "9b2839127e6d514c0818e145a1df7e05"
+    "9b2839127e6d514c0818e145a1df7e05",
+    "422de0c39a1292cf4d4b11ba0667d486",
+    "375602f3c3d0af1695e04951e6791153",
+    "f6688f1516ccbadd2b56e3cb0642efd5"
   ],
   "titles": [
-    "Nach Treffen mit Selenskyj - Ukraine-Krieg: Trump drängt auf Waffenstillstand an aktueller Frontlinie",
-    "Abspaltung vom Mutterkonzern - \"Thyssenkrupp Marine Systems\" ab heute an der Börse gehandelt",
-    "Debatte um Wehrpflicht: Prominente Grüne fordern verpflichtendes Gesellschaftsjahr",
     "China - Tödlicher Flugzeug-Unfall in Hongkong: Boeing 747 rutscht über Landebahn ins Meer",
     "Rheinland-Pfalz: AfD will Trump zum Ehrenbürger von Bad Dürkheim machen",
     "Diskussion über Wehrpflicht - Prominente Grüne wollen \"verpflichtendes Gesellschaftsjahr\"",
@@ -3003,12 +3000,12 @@
     "Landgericht - Prozess um Anschlag auf den Magdeburger Weihnachtsmarkt beginnt",
     "Kultusministerkonferenz - Schülerzahl in Deutschland steigt bis 2032 deutlich an",
     "Bolivien - Bundesaußenminister Wadephul (CDU) berät in Bolivien über Lithium-Lieferungen",
-    "US-Haushaltsstreit - Ausweg aus dem Shutdown in Sicht"
+    "US-Haushaltsstreit - Ausweg aus dem Shutdown in Sicht",
+    "Haushaltssperre - US-Senat stimmt für Beratungen über einen Übergangsetat",
+    "Südkorea - Weitere Anklage gegen Ex-Präsidenten Yoon",
+    "Grundsatzrede - Bundespräsident verlangt Widerstand gegen Rechtsextremismus"
   ],
   "hashes": [
-    "1849d7dad56c63ca52b80d99cfc7dd0d",
-    "5aea93234fef80ed2f72d22483817b4b",
-    "cbe10ef28923d90d6e7730601b809c00",
     "98e61ed414c501a9198c648f35a25bf5",
     "0878c8c3fa33abf5a042d0f35d10cac4",
     "33f99c3b403055ad0f898787ef6bb9c6",
@@ -4005,6 +4002,9 @@
     "a533db0e989f4e19284f9c2795564f98",
     "ba22000d591a9d36c5f4bd0f4bb3ada4",
     "68c9c975bff3cf4c871c5e487365b39f",
-    "a5b0b0ce454394ec8a4679c7e7694c03"
+    "a5b0b0ce454394ec8a4679c7e7694c03",
+    "d5006a9f2b715937b3dc814ac2dcff06",
+    "a86350c2114086747cf50067aa3ba0c9",
+    "39490708f9c8af64eaf35bdd74389535"
   ]
 }
