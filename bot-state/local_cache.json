@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rheinmetall-erhaelt-milliardenauftrag-fuer-radschuetzenpanzer-150-fahrzeuge-fuer-bundeswehr-102.html",
-    "https://www.deutschlandfunk.de/razzien-in-kambodscha-und-myanmar-100.html",
     "https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium-a-5b76f059-b499-41e1-bdad-32ab4e02a094#ref=rss",
     "https://www.faz.net/aktuell/politik/ausland/warum-papst-leo-milder-als-franziskus-ist-110736495.html",
     "https://www.deutschlandfunk.de/frueherer-cdu-bundestagsabgeordneter-in-muenchen-vor-gericht-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/kramp-karrenbauer-will-vorsitz-der-konrad-adenauer-stiftung-uebernehmen-accg-110773415.html",
     "https://www.deutschlandfunk.de/wahl-zum-unterhaus-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/afghanisches-konsulat-in-bonn-oeffnet-wieder-als-taliban-vertretung-100.html",
-    "https://www.deutschlandfunk.de/trump-begnadigt-giuliani-und-76-weitere-beschuldigte-100.html"
+    "https://www.deutschlandfunk.de/trump-begnadigt-giuliani-und-76-weitere-beschuldigte-100.html",
+    "https://www.deutschlandfunk.de/wagenknecht-gibt-bsw-vorsitz-an-de-masi-ab-102.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-wagenknecht-gibt-parteivorsitz-des-bsw-ab-faz-110093143.html"
   ],
   "content_hashes": [
-    "f934537c5b61451ad3d1317779f3d190",
-    "f65b4bf8567d972108b6126f9739de96",
     "80abcfa79a5cdd94201ad19e09a8f503",
     "1c47f2b9a8a7bb51f781fd05a56eecae",
     "92b2ed0b1aa0135e7a25f6373aa6aa90",
@@ -2001,11 +1999,11 @@
     "bc0a28055deaca63bb49bc13069d9a6a",
     "dc8345d039305aee834d7534e8e9c16f",
     "7125117817c6595e71597b7a86c1c78e",
-    "f9cfa2bb71033380e85713c1a080de10"
+    "f9cfa2bb71033380e85713c1a080de10",
+    "76a972dd6dea8b09175f4221640d3cfb",
+    "c42e726e875818a24edc9aff91a0d4fa"
   ],
   "titles": [
-    "\"Schakal\" - Rheinmetall erhält Milliardenauftrag für Radschützenpanzer - 150 Fahrzeuge für Bundeswehr",
-    "Online-Betrug - Razzien in Kambodscha und Myanmar",
     "Altenberg in Sachsen: Staatsschutz ermittelt nach Angriff auf Gymnasium",
     "Leo XIV.: Der neue Papst ist milder als Franziskus",
     "Aserbaidschan-Affäre - Früherer CDU-Bundestagsabgeordneter in München vor Gericht",
@@ -3003,11 +3001,11 @@
     "Personalie: Kramp-Karrenbauer will Vorsitz der Konrad-Adenauer-Stiftung übernehmen",
     "Ägypten - Wahl zum Unterhaus hat begonnen",
     "Diplomatie - Afghanisches Konsulat in Bonn öffnet wieder - als Taliban-Vertretung",
-    "Versuchte Manipulation der Wahl 2020 - Trump begnadigt Giuliani und 76 weitere Beschuldigte"
+    "Versuchte Manipulation der Wahl 2020 - Trump begnadigt Giuliani und 76 weitere Beschuldigte",
+    "Parteien - Wagenknecht gibt BSW-Vorsitz an de Masi ab",
+    "Liveblog Bundespolitik: Sahra Wagenknecht gibt Parteivorsitz des BSW ab"
   ],
   "hashes": [
-    "0a7404631535335fe61fe01c32b9eee0",
-    "52dbb1d3c7f4c5c07d62cb3f9af0ac19",
     "3a964a0370d286415221c582382c44dd",
     "5ec42689db61571c1f304ffed0b3d2e8",
     "dd4a13df57be820d3bf9c80d7af8fd9f",
@@ -4005,6 +4003,8 @@
     "3132b5095c7a5f2496711e61e5654a04",
     "c14b444f97bb1a27c6ae11cc1f9c3bbf",
     "f213c116ef9f7900d81363b99bbbf815",
-    "9117b344711a84484aa89f2aa48e7341"
+    "9117b344711a84484aa89f2aa48e7341",
+    "5ffee111bbb8ff146b23529ec09d2d8e",
+    "59512ce03092100512b281151cab1d63"
   ]
 }
