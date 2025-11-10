@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/altenberg-in-sachsen-staatsschutz-ermittelt-nach-angriff-auf-gymnasium-a-5b76f059-b499-41e1-bdad-32ab4e02a094#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/warum-papst-leo-milder-als-franziskus-ist-110736495.html",
     "https://www.deutschlandfunk.de/frueherer-cdu-bundestagsabgeordneter-in-muenchen-vor-gericht-100.html",
     "https://www.deutschlandfunk.de/hunderttausende-arbeitskraefte-zur-bewaeltigung-von-buerokratie-in-firmen-noetig-100.html",
     "https://www.deutschlandfunk.de/spd-generalsekretaer-kluessendorf-richtet-appell-an-unionsfraktionschef-spahn-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/afghanisches-konsulat-in-bonn-oeffnet-wieder-als-taliban-vertretung-100.html",
     "https://www.deutschlandfunk.de/trump-begnadigt-giuliani-und-76-weitere-beschuldigte-100.html",
     "https://www.deutschlandfunk.de/wagenknecht-gibt-bsw-vorsitz-an-de-masi-ab-102.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-wagenknecht-gibt-parteivorsitz-des-bsw-ab-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-wagenknecht-gibt-parteivorsitz-des-bsw-ab-faz-110093143.html",
+    "https://www.deutschlandfunk.de/wagenknecht-zieht-sich-vom-vorsitz-zurueck-debatte-um-den-kuenftigen-namen-der-partei-102.html",
+    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-kommt-unter-auflagen-aus-dem-gefaengnis-102.html"
   ],
   "content_hashes": [
-    "80abcfa79a5cdd94201ad19e09a8f503",
-    "1c47f2b9a8a7bb51f781fd05a56eecae",
     "92b2ed0b1aa0135e7a25f6373aa6aa90",
     "58dd0b5e7978d82b95002b76acd52ce3",
     "b947f28951ba08a7ad8bb35d39bf364d",
@@ -2001,11 +1999,11 @@
     "7125117817c6595e71597b7a86c1c78e",
     "f9cfa2bb71033380e85713c1a080de10",
     "76a972dd6dea8b09175f4221640d3cfb",
-    "c42e726e875818a24edc9aff91a0d4fa"
+    "c42e726e875818a24edc9aff91a0d4fa",
+    "937fc2bb2ce454bf4034afc2b83e532d",
+    "49f0e10dd5e8fec897738a00a9b87ff4"
   ],
   "titles": [
-    "Altenberg in Sachsen: Staatsschutz ermittelt nach Angriff auf Gymnasium",
-    "Leo XIV.: Der neue Papst ist milder als Franziskus",
     "Aserbaidschan-Affäre - Früherer CDU-Bundestagsabgeordneter in München vor Gericht",
     "IAB-Studie - Hunderttausende Arbeitskräfte zur Bewältigung von Bürokratie in Firmen nötig",
     "Zustimmung zum Rentenpaket - SPD-Generalsekretär Klüssendorf richtet Appell an Unionsfraktionschef Spahn",
@@ -3003,11 +3001,11 @@
     "Diplomatie - Afghanisches Konsulat in Bonn öffnet wieder - als Taliban-Vertretung",
     "Versuchte Manipulation der Wahl 2020 - Trump begnadigt Giuliani und 76 weitere Beschuldigte",
     "Parteien - Wagenknecht gibt BSW-Vorsitz an de Masi ab",
-    "Liveblog Bundespolitik: Sahra Wagenknecht gibt Parteivorsitz des BSW ab"
+    "Liveblog Bundespolitik: Sahra Wagenknecht gibt Parteivorsitz des BSW ab",
+    "BSW - Wagenknecht zieht sich vom Vorsitz zurück - Debatte um den künftigen Namen der Partei",
+    "Frankreich - Ex-Präsident Sarkozy kommt unter Auflagen aus dem Gefängnis"
   ],
   "hashes": [
-    "3a964a0370d286415221c582382c44dd",
-    "5ec42689db61571c1f304ffed0b3d2e8",
     "dd4a13df57be820d3bf9c80d7af8fd9f",
     "844e30cec757dd2bfebe039cdde81ebd",
     "6088842773ae5aacad96a46da7d2487b",
@@ -4005,6 +4003,8 @@
     "f213c116ef9f7900d81363b99bbbf815",
     "9117b344711a84484aa89f2aa48e7341",
     "5ffee111bbb8ff146b23529ec09d2d8e",
-    "59512ce03092100512b281151cab1d63"
+    "59512ce03092100512b281151cab1d63",
+    "7dac5efb2ec38e248844ecfb05a493c7",
+    "5652ec446b389a5e17419dfd7b3c3a2c"
   ]
 }
