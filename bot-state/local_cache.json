@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/senat-beschliesst-umstrittene-regelabfrage-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-lehnt-hilfsangebot-fuer-kinder-aus-gaza-ab-102.html",
     "https://www.deutschlandfunk.de/us-amerikaner-gewinnt-den-chopin-wettbewerb-102.html",
     "https://www.deutschlandfunk.de/chinas-handelsminister-wang-kommt-zu-gespraechen-ueber-seltene-erden-nach-bruessel-100.html",
     "https://www.deutschlandfunk.de/baldiges-treffen-von-trump-und-putin-nicht-mehr-zu-erwarten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutschland-kann-sich-voraussichtlich-gegen-zusaetzliche-fluechtlings-aufnahmeforderungen-wehren-100.html",
     "https://www.faz.net/aktuell/politik/inland/anne-spiegel-feiert-politisches-comeback-trotz-protesten-110776311.html",
     "https://www.deutschlandfunk.de/deutschland-muss-nicht-mehr-migranten-aufnehmen-100.html",
-    "https://www.deutschlandfunk.de/us-flugzeugtraeger-gerald-r-ford-erreicht-lateinamerika-100.html"
+    "https://www.deutschlandfunk.de/us-flugzeugtraeger-gerald-r-ford-erreicht-lateinamerika-100.html",
+    "https://www.deutschlandfunk.de/erneut-afghanen-aus-aufnahmeprogrammen-in-deutschland-angekommen-100.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-drohnensichtungen-gehen-zum-teil-von-russischer-schattenflotte-aus-100.html"
   ],
   "content_hashes": [
-    "c29c46ff8508c07b413a01bd8f2dfada",
-    "135924ff33b8e48bbc57c8355448f8b7",
     "053171072511c1128d77ea148a0ba9ba",
     "2f0a3c4b7fc15f9dca696926f2640f57",
     "669a38baa41cf6b47b97ee24a5599633",
@@ -2001,11 +1999,11 @@
     "a70dea316bc006d8a4dda93c049cb17b",
     "4d76aa64a58a2d8537e27fad7063aacf",
     "d69451077523fe4e9f055c48aff3e565",
-    "d08a57a0c4fe6e27951b9a6b2d80bcc8"
+    "d08a57a0c4fe6e27951b9a6b2d80bcc8",
+    "dc649c8b01ef30648007c8cc6c9365e4",
+    "f87e871c792dd2ff25c07fbad7aa6195"
   ],
   "titles": [
-    "Hamburg - Senat beschließt umstrittene Regelabfrage",
-    "Initiative von Hannover - Bundesregierung lehnt Hilfsangebot für Kinder aus Gaza ab",
     "Warschau - US-Amerikaner gewinnt den Chopin-Wettbewerb",
     "Einladung angenommen - Chinas Handelsminister Wang kommt zu Gesprächen über Seltene Erden nach Brüssel",
     "Krieg gegen die Ukraine - Baldiges Treffen von Trump und Putin nicht mehr zu erwarten",
@@ -3003,11 +3001,11 @@
     "EU-Migrationsanalyse - Deutschland kann sich voraussichtlich gegen zusätzliche Flüchtlings-Aufnahmeforderungen wehren",
     "In Hannover: Anne Spiegel feiert politisches Comeback",
     "EU-Analyse - Deutschland muss nicht mehr Migranten aufnehmen",
-    "US-Angriffe auf angebliche Drogenschmuggler-Boote - US-Flugzeugträger \"Gerald R. Ford\" erreicht Lateinamerika"
+    "US-Angriffe auf angebliche Drogenschmuggler-Boote - US-Flugzeugträger \"Gerald R. Ford\" erreicht Lateinamerika",
+    "Hannover - Erneut Afghanen aus Aufnahmeprogrammen in Deutschland angekommen",
+    "Drohnenabwehr - Bundesinnenminister Dobrindt: \"Drohnensichtungen gehen zum Teil von russischer Schattenflotte aus\""
   ],
   "hashes": [
-    "d6907b0027c2219f42ba314fc923d7dd",
-    "2a6f7dfb5e79c248855b501d9ac9c85b",
     "75d1da6b5c8caa03dd181e155ff93185",
     "20375075e2356b488755b2abdef50ec8",
     "e8695c633222655981980109dbb165ef",
@@ -4005,6 +4003,8 @@
     "59ecf0cbfc4d0d0b549e2ab95627c5ce",
     "46b9ef28616b10d78b43fa895766a48f",
     "97f7a2314c792f1508273202372169bf",
-    "222a8a509d88bab0142318c59ee826b4"
+    "222a8a509d88bab0142318c59ee826b4",
+    "e0e328ab56699f646087cea0c2056f52",
+    "05842333705cf5f7e91a1e68ff6541ab"
   ]
 }
