@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-vizepraesident-vance-in-tel-aviv-eingetroffen-100.html",
-    "https://www.deutschlandfunk.de/europaeisches-parlament-stimmt-fuer-neue-fuehrerscheinregeln-102.html",
-    "https://www.spiegel.de/panorama/deutsche-staedte-scheitern-mit-hilfsangebot-fuer-kinder-aus-gaza-a-a431372d-b3db-4b25-96c5-e9b58cb880b0#ref=rss",
     "https://www.deutschlandfunk.de/sanae-takaichi-zur-ersten-ministerpraesidentin-japans-gewaehlt-100.html",
     "https://www.deutschlandfunk.de/polen-warnt-putin-vor-nutzung-seines-luftraumes-fuer-treffen-mit-trump-100.html",
     "https://www.deutschlandfunk.de/frankreich-und-spanien-gegen-ausnahme-fuer-hybrid-pkw-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wirtschaft/soziales/agenda-2030-von-katherina-reiche-kuerzungen-bei-kranken-und-geringerer-kuendigungsschutz-a-5ff8508f-28ea-4431-951f-1071c8b921b5#ref=rss",
     "https://www.deutschlandfunk.de/angeklagter-gesteht-tat-102.html",
     "https://www.deutschlandfunk.de/cdu-politiker-nacke-fuer-abschaffung-der-minijobs-verdi-chef-begruesst-vorstoss-100.html",
-    "https://www.deutschlandfunk.de/lagebericht-bundesamt-sicherheit-informationstechnik-100.html"
+    "https://www.deutschlandfunk.de/lagebericht-bundesamt-sicherheit-informationstechnik-100.html",
+    "https://www.deutschlandfunk.de/cdu-politiker-tritt-debatte-um-abschaffung-von-minijobs-los-lob-vom-verdi-chef-100.html",
+    "https://www.deutschlandfunk.de/google-investiert-5-5-milliarden-euro-in-deutschland-102.html",
+    "https://www.deutschlandfunk.de/boykottaufruf-ueberschattet-parlamentswahl-100.html"
   ],
   "content_hashes": [
-    "cef87080dd05669f585ff993f78d9fd9",
-    "78d060d826934692750819ce37f03bb9",
-    "faa0d4ef2bfb74bfc6bd813b361a336a",
     "24322dbb85de0147cd6d637982e0495d",
     "1ecdf3660d09819b6ca8eba2c3d6330e",
     "c74d772d0210a932851936c3dfdbdad8",
@@ -2001,12 +1998,12 @@
     "a4721842bf57939b62409b0fee6efae6",
     "1118c42e35c6360e4d91979682e89082",
     "46951d93df3f979a9fede2b843153ed8",
-    "0cde81bb0ec8a67a709a216e9e324b83"
+    "0cde81bb0ec8a67a709a216e9e324b83",
+    "ff72a2f5ebfafb80ad85cd4b47093fcc",
+    "ec7602206076c61789e113246e7b6d8c",
+    "db3b7b856939ccf63e598efd682bff92"
   ],
   "titles": [
-    "Nahost - US-Vizepräsident Vance in Tel Aviv eingetroffen",
-    "EU-weite Fahrverbote möglich - Europäisches Parlament stimmt für neue Führerscheinregeln",
-    "Deutsche Städte scheitern mit Hilfsangebot für Kinder aus Gaza",
     "Konservative Politikerin - Sanae Takaichi zur ersten Ministerpräsidentin Japans gewählt",
     "Haftbefehl - Polen warnt Putin vor Nutzung seines Luftraumes für Treffen mit Trump",
     "Verbrenner-Aus - Frankreich und Spanien gegen Ausnahme für Hybrid-Pkw",
@@ -3003,12 +3000,12 @@
     "Agenda 2030 von Katherina Reiche: Kürzungen bei Kranken und geringerer Kündigungsschutz",
     "Magdeburg - Angeklagter gesteht Tat",
     "Geringfügige Beschäftigung - CDU-Politiker Nacke für Abschaffung der Minijobs - Verdi-Chef begrüßt Vorstoß",
-    "Cybersicherheit - Deutschland bleibt im digitalen Raum verwundbar"
+    "Cybersicherheit - Deutschland bleibt im digitalen Raum verwundbar",
+    "Geringfügige Beschäftigung - CDU-Politiker tritt Debatte um Abschaffung von Minijobs los - Lob vom Verdi-Chef",
+    "Wirtschaft - Google investiert 5,5 Milliarden Euro in Deutschland",
+    "Irak - Boykottaufruf überschattet Parlamentswahl"
   ],
   "hashes": [
-    "797650f340424fa3c7655bdfbbf4cb59",
-    "1e2b616136d660fce561fa035b227caa",
-    "34ec6752201e34c116f65281cde220bd",
     "42c804068d0e6694895b5de29c844875",
     "86c4a69bf457f2d5f11f90e42dd7dc81",
     "87edc8953b1f9b986b3169f593a5263b",
@@ -4005,6 +4002,9 @@
     "3ba4345bf6a64a4121fd38be85f4d154",
     "5705897fe5305b26e7a1ba8c6cd07019",
     "6df9682d0c36572fc72d57ae720f0ca6",
-    "559142e205fcdf2c416fa172362236f9"
+    "559142e205fcdf2c416fa172362236f9",
+    "2c3b10286196f544f5a70c5547c14f05",
+    "9c73bc1e2d697f5106532cba38020b3b",
+    "e3590acc8468d85532bf46c9452e24c0"
   ]
 }
