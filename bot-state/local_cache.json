@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html",
-    "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-heute-seine-haftstrafe-an-100.html",
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wird-in-oesterreich-erwartet-100.html",
     "https://www.deutschlandfunk.de/leichtes-steuerplus-im-september-wirtschaftliche-aussichten-weiter-gedaempft-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/auftakt-zur-fuenften-jahreszeit-104.html",
     "https://www.deutschlandfunk.de/senat-beraet-ueber-ausweg-aus-shutdown-abstimmung-noch-in-dieser-nacht-denkbar-100.html",
     "https://www.deutschlandfunk.de/stabiles-syrien-von-grosser-bedeutung-us-praesident-trump-empfaengt-uebergangspraesident-al-scharaa--100.html",
-    "https://www.deutschlandfunk.de/parlament-stimmt-in-erster-lesung-fuer-todesstrafe-fuer-terroristen-100.html"
+    "https://www.deutschlandfunk.de/parlament-stimmt-in-erster-lesung-fuer-todesstrafe-fuer-terroristen-100.html",
+    "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-uebergangsetat-ende-von-shutdown-rueckt-naeher-102.html",
+    "https://www.deutschlandfunk.de/wadephul-dringt-auf-engere-partnerschaft-zwischen-bolivien-und-eu-100.html"
   ],
   "content_hashes": [
-    "3cd262b0cd537d901530ffb8e8247abf",
-    "6a1378f8e66f0b852c0f25b209aa890c",
     "6ead7bf95166e1e33d12aa4b40316cdf",
     "6c358a689ed8a58b506d17a0970a1db5",
     "fc0a9c2ebd72e759232fbf90e49cf8e2",
@@ -2001,11 +1999,11 @@
     "c224b7d615206a348f88172880dcb15d",
     "f646bb17aaa62332c96c57fd746c57e1",
     "8083d2ee3a5b126d36d950e2fbb730c9",
-    "ba8266b6608dd035a268570058c3e45f"
+    "ba8266b6608dd035a268570058c3e45f",
+    "17e6172e80c923ba4aa535d2d14bb06d",
+    "6163eb48cbe1afe45dff468d7b14caf5"
   ],
   "titles": [
-    "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde",
-    "Amazon AWS - Störung bei Cloudanbieter behoben",
     "Frankreich - Ex-Präsident Sarkozy tritt heute seine Haftstrafe an",
     "Staatsbesuch - Bundespräsident Steinmeier wird in Österreich erwartet",
     "BMF-Monatsbericht - Leichtes Steuerplus im September - wirtschaftliche Aussichten weiter gedämpft",
@@ -3003,11 +3001,11 @@
     "Karneval - Auftakt zur fünften Jahreszeit",
     "USA - Senat berät über Ausweg aus Shutdown - Abstimmung noch in dieser Nacht denkbar",
     "Washington - \"Stabiles Syrien von großer Bedeutung\": US-Präsident Trump empfängt Übergangspräsident al-Scharaa - Sanktionen bleiben ausgesetzt",
-    "Israel - Parlament stimmt in erster Lesung für Todesstrafe für Terroristen"
+    "Israel - Parlament stimmt in erster Lesung für Todesstrafe für Terroristen",
+    "Washington - US-Senat stimmt für Übergangsetat - Ende von Shutdown rückt näher",
+    "Südamerika - Wadephul dringt auf engere Partnerschaft zwischen Bolivien und EU"
   ],
   "hashes": [
-    "25529709b4c3ea20ec2bd3c294f4d00a",
-    "208766d07c28638b1f44f257a20060be",
     "8cd925ef3c16c196a9a3db664c7f6700",
     "14fc64d79e2cd7bd312915c5618fb2a9",
     "5121f532eb17b8f23490d8b86e8f33d2",
@@ -4005,6 +4003,8 @@
     "d8a496fa86a9d382b7b53967afbebc19",
     "ea977772bb1adf1e5667d62c06916fa8",
     "0a02e36396fdfcedff00f063194eb29d",
-    "7529f770a5730765067196231abb4a38"
+    "7529f770a5730765067196231abb4a38",
+    "68d86ceda318e7b8b814438fa7ee8e6f",
+    "b88d92ab3fa46264f1499196d0ff73d3"
   ]
 }
