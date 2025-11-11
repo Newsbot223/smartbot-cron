@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nagel-warnt-vor-politischem-einfluss-auf-unabhaengige-notenbanken-100.html",
-    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-haftstrafe-an-100.html",
     "https://www.aljazeera.com/news/2025/10/20/russia-ukraine-war-list-of-key-events-day-1335?traffic_source=rss",
     "https://www.deutschlandfunk.de/interims-staatschef-nominiert-neuen-premierminister-104.html",
     "https://www.deutschlandfunk.de/ukrainische-veteranen-sollen-bei-ruestungskooperation-mit-dem-westen-helfen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wadephul-dringt-auf-engere-partnerschaft-zwischen-bolivien-und-eu-100.html",
     "https://www.deutschlandfunk.de/unhcr-ruft-zu-spenden-auf-fehlende-staatliche-mittel-erschweren-winter-versorgung-100.html",
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wird-70-nicht-mehr-so-heimelig-wie-unter-merkel-accg-110773957.html",
-    "https://www.deutschlandfunk.de/union-besteht-nicht-auf-losverfahren-fuer-rekrutenauswahl-100.html"
+    "https://www.deutschlandfunk.de/union-besteht-nicht-auf-losverfahren-fuer-rekrutenauswahl-100.html",
+    "https://www.deutschlandfunk.de/gema-gegen-chatgpt-firma-openai-landgericht-muenchen-i-verkuendet-entscheidung-100.html",
+    "https://www.faz.net/aktuell/politik/ein-jahr-nach-anschlag-magdeburgs-weihnachtsmarkt-vorerst-gestoppt-accg-110774829.html"
   ],
   "content_hashes": [
-    "6c2fd65161bc199c294bdd0e6b906010",
-    "afdfde6527e3bf4da86de9ba001e05e9",
     "f06b2225ccb3e2c76791daa346c4b81b",
     "fba9d11ba9b217dfa0df81585dc30c98",
     "bc1839a0d590d80c843d4b72b42b1310",
@@ -2001,11 +1999,11 @@
     "6163eb48cbe1afe45dff468d7b14caf5",
     "ba5aad97680baadf65ffbfd3947ed37a",
     "5927c6304154213cc625517fa8912e2e",
-    "6ffc08d1beb57b8e902804d3fc46604d"
+    "6ffc08d1beb57b8e902804d3fc46604d",
+    "947111cca2581ec7826e01d522e21bf5",
+    "0dd3334d3b83be9e842541b3cc711c4f"
   ],
   "titles": [
-    "Geldwert-Stabilität - Nagel warnt vor politischem Einfluss auf unabhängige Notenbanken",
-    "Frankreich - Ex-Präsident Sarkozy tritt Haftstrafe an",
     "Russia-Ukraine war: List of key events, day 1,335",
     "Madagaskar - Interims-Staatschef nominiert neuen Premierminister",
     "Rüstungskooperation - Ukrainische Veteranen sollen dem Westen helfen",
@@ -3003,11 +3001,11 @@
     "Südamerika - Wadephul dringt auf engere Partnerschaft zwischen Bolivien und EU",
     "Appell - UNHCR ruft zu Spenden auf - fehlende staatliche Mittel erschweren Winter-Versorgung",
     "Friedrich Merz wird 70: Nicht mehr so heimelig wie unter Merkel",
-    "Wehrdienst-Debatte - Union besteht nicht auf Losverfahren für Rekrutenauswahl"
+    "Wehrdienst-Debatte - Union besteht nicht auf Losverfahren für Rekrutenauswahl",
+    "Verwertungsgesellschaft - Gema gegen ChatGPT-Firma OpenAI: Landgericht München I verkündet Entscheidung",
+    "Ein Jahr nach dem Anschlag: Magdeburgs Weihnachtsmarkt vorerst gestoppt"
   ],
   "hashes": [
-    "c67acdc6fdf55661889c142d4daf51da",
-    "eeda430e1e1395315948236b58d9bfab",
     "867062f0ab1f2e5e31b0556d378c5b55",
     "b306f1f68c1ac4bb7e7c8a2cc6bb4bf9",
     "efdeb46568d99acc33dbd726bff09cdb",
@@ -4005,6 +4003,8 @@
     "b88d92ab3fa46264f1499196d0ff73d3",
     "e565f86a7ee49be1b662ea383dd983b0",
     "e7e19faaf04bbc0abb52e41be31387db",
-    "a96263f8357a2e9d35b280aa7f647f68"
+    "a96263f8357a2e9d35b280aa7f647f68",
+    "7185aad64234d7fcd4342796c8ee2659",
+    "f54a0e0733bdf4d9d770ae81cdee1fc6"
   ]
 }
