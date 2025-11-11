@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sanierungskonzept-fuer-db-cargo-offenbar-ungeeignet-102.html",
-    "https://www.deutschlandfunk.de/wahlsieger-paz-will-sein-land-oeffnen-100.html",
     "https://www.deutschlandfunk.de/us-berufungsgericht-erlaubt-praesident-trump-entsendung-der-nationalgarde-100.html",
     "https://www.deutschlandfunk.de/stoerung-bei-cloudanbieter-behoben-100.html",
     "https://www.deutschlandfunk.de/ex-praesident-sarkozy-tritt-heute-seine-haftstrafe-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-verschaerft-laut-rheinischer-post-gesetzentwurf-gegen-schwarzarbeit-auch-lieferdiens-100.html",
     "https://www.deutschlandfunk.de/entscheidung-ueber-eu-richtlinie-fuer-angemessene-mindestloehne-100.html",
     "https://www.deutschlandfunk.de/auftakt-zur-fuenften-jahreszeit-104.html",
-    "https://www.deutschlandfunk.de/senat-beraet-ueber-ausweg-aus-shutdown-abstimmung-noch-in-dieser-nacht-denkbar-100.html"
+    "https://www.deutschlandfunk.de/senat-beraet-ueber-ausweg-aus-shutdown-abstimmung-noch-in-dieser-nacht-denkbar-100.html",
+    "https://www.deutschlandfunk.de/stabiles-syrien-von-grosser-bedeutung-us-praesident-trump-empfaengt-uebergangspraesident-al-scharaa--100.html",
+    "https://www.deutschlandfunk.de/parlament-stimmt-in-erster-lesung-fuer-todesstrafe-fuer-terroristen-100.html"
   ],
   "content_hashes": [
-    "ee132d840e3dfc9cab6976fad2eb8774",
-    "48bb014d552ee325c483ad93e4461eea",
     "3cd262b0cd537d901530ffb8e8247abf",
     "6a1378f8e66f0b852c0f25b209aa890c",
     "6ead7bf95166e1e33d12aa4b40316cdf",
@@ -2001,11 +1999,11 @@
     "1886402d0dbf96981abb97aea3f2bd52",
     "a7e4b9f7160ca863f23d5350c43a7de8",
     "c224b7d615206a348f88172880dcb15d",
-    "f646bb17aaa62332c96c57fd746c57e1"
+    "f646bb17aaa62332c96c57fd746c57e1",
+    "8083d2ee3a5b126d36d950e2fbb730c9",
+    "ba8266b6608dd035a268570058c3e45f"
   ],
   "titles": [
-    "Gutachten - Sanierungskonzept für DB Cargo offenbar ungeeignet",
-    "Präsidentschaftswahl in Bolivien - Wahlsieger Paz will sein Land öffnen",
     "Portland - US-Berufungsgericht erlaubt Präsident Trump Entsendung der Nationalgarde",
     "Amazon AWS - Störung bei Cloudanbieter behoben",
     "Frankreich - Ex-Präsident Sarkozy tritt heute seine Haftstrafe an",
@@ -3003,11 +3001,11 @@
     "Medienbericht - Bundesregierung verschärft laut \"Rheinischer Post\" Gesetzentwurf gegen Schwarzarbeit - auch Lieferdienste für Essen im Visier",
     "Europäischer Gerichtshof - Entscheidung über EU-Richtlinie für angemessene Mindestlöhne",
     "Karneval - Auftakt zur fünften Jahreszeit",
-    "USA - Senat berät über Ausweg aus Shutdown - Abstimmung noch in dieser Nacht denkbar"
+    "USA - Senat berät über Ausweg aus Shutdown - Abstimmung noch in dieser Nacht denkbar",
+    "Washington - \"Stabiles Syrien von großer Bedeutung\": US-Präsident Trump empfängt Übergangspräsident al-Scharaa - Sanktionen bleiben ausgesetzt",
+    "Israel - Parlament stimmt in erster Lesung für Todesstrafe für Terroristen"
   ],
   "hashes": [
-    "7df5e7eeb36c3a7e64780541753e792c",
-    "3b0b1052f347c2cfc715d828205bf194",
     "25529709b4c3ea20ec2bd3c294f4d00a",
     "208766d07c28638b1f44f257a20060be",
     "8cd925ef3c16c196a9a3db664c7f6700",
@@ -4005,6 +4003,8 @@
     "850659ca7980fd3bd7719bdcd2ee2062",
     "69f4cf043828796d87fac296527c7128",
     "d8a496fa86a9d382b7b53967afbebc19",
-    "ea977772bb1adf1e5667d62c06916fa8"
+    "ea977772bb1adf1e5667d62c06916fa8",
+    "0a02e36396fdfcedff00f063194eb29d",
+    "7529f770a5730765067196231abb4a38"
   ]
 }
