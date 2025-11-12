@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lieferprobleme-bei-chiphersteller-nexperia-volkswagen-schliesst-engpaesse-nicht-aus-100.html",
-    "https://www.deutschlandfunk.de/us-vizepraesident-vance-entwaffnung-der-hamas-schwierige-aufgabe-100.html",
-    "https://www.deutschlandfunk.de/kulturpreis-praemium-imperiale-unter-anderem-fuer-pianisten-andr-s-schiff-und-architekten-eduardo-so-100.html",
     "https://www.spiegel.de/politik/deutschland/stadtbild-debatte-diw-chef-marcel-fratzscher-kritisiert-kanzler-friedrich-merz-fuer-wirtschaftliche-folgen-a-7e88d48c-62e8-4d5f-9893-e87b7da727f6#ref=rss",
     "https://www.deutschlandfunk.de/streit-um-lieferkettengesetz-geht-weiter-100.html",
     "https://www.deutschlandfunk.de/russlands-armee-beginnt-nukleares-uebungsmanoever-102.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wirtschaft/service/streit-ueber-veggie-wurst-klare-mehrheit-lehnt-namensverbot-ab-a-e45724a9-0c16-4fe0-8d71-f2fa2709ac17#ref=rss",
     "https://www.deutschlandfunk.de/angeklagter-gesteht-anschlag-auf-weihnachtsmarkt-100.html",
     "https://www.deutschlandfunk.de/steuergerechtigkeit-muessen-reiche-staerker-besteuert-werden-102.html",
-    "https://www.faz.net/aktuell/politik/inland/bsw-koalitionskrise-brandenburg-neuwahlen-waeren-woidkes-schlechteste-option-110776800.html"
+    "https://www.faz.net/aktuell/politik/inland/bsw-koalitionskrise-brandenburg-neuwahlen-waeren-woidkes-schlechteste-option-110776800.html",
+    "https://www.deutschlandfunk.de/mutmassliche-emails-von-sexualstraftaeter-ueber-trump-veroeffentlicht-100.html",
+    "https://www.deutschlandfunk.de/weiteres-mutmassliches-mitglied-der-hamas-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/neue-eu-debatte-um-migration-interview-mit-birgit-sippel-spd-mdep-100.html"
   ],
   "content_hashes": [
-    "343f364ed67dd03d572fab5bdf32d4db",
-    "59c141f178e6655869669ce94193843a",
-    "9339ff1b91c412bf961d07619024fdba",
     "2c355aeec0acd975c3987d54a9905b95",
     "9ff841a187f71cc8947856b6f8690824",
     "586867dfe50e3a0bec09113c9ef7625a",
@@ -2001,12 +1998,12 @@
     "dc9ae7d21d2675071153e4e0dccc00da",
     "51653dfbd7f2cabdedd1b70019f1b957",
     "6ea8153a2797393e9a003f3dbd14d3f8",
-    "b3aafb41f4fe99731b071287ce4cded6"
+    "b3aafb41f4fe99731b071287ce4cded6",
+    "06819a7ee877b40ff079ebbd00dd1656",
+    "a2b47bf9b1e178b0300c5e469fbea934",
+    "37f7d246f1ca7056dca2add7f15f2434"
   ],
   "titles": [
-    "Autoindustrie - Lieferprobleme bei Chiphersteller Nexperia: Volkswagen schließt Engpässe nicht aus",
-    "Nahost - US-Vizepräsident Vance: Entwaffnung der Hamas \"schwierige Aufgabe\"",
-    "Tokio - Kulturpreis \"Praemium Imperiale\" unter anderem für Pianisten András Schiff und Architekten Eduardo Souto Moura",
     "Stadtbild-Debatte: DIW-Chef Marcel Fratzscher kritisiert Kanzler Friedrich Merz für wirtschaftliche Folgen",
     "Europäische Union - Streit um Lieferkettengesetz geht weiter",
     "Nach NATO-Manöver-Start - Russlands Armee beginnt nukleares Übungsmanöver",
@@ -3003,12 +3000,12 @@
     "Streit über »Veggie-Wurst« – klare Mehrheit lehnt Namensverbot ab",
     "Magdeburg - Angeklagter gesteht Anschlag auf Weihnachtsmarkt",
     "Steuergerechtigkeit - Müssen Reiche stärker besteuert werden?",
-    "Koalitionskrise in Brandenburg: BSW-Chaos in Potsdam"
+    "Koalitionskrise in Brandenburg: BSW-Chaos in Potsdam",
+    "Epstein-Affäre - Mutmaßliche Emails von Sexualstraftäter über Trump veröffentlicht",
+    "Terrorismus - Weiteres mutmaßliches Mitglied der Hamas festgenommen",
+    "EU-Asylreform - Sippel (SPD) sieht Deutschland in besonderer Verantwortung"
   ],
   "hashes": [
-    "ed87d423399cb51de3566d0a7dbb1301",
-    "397854fcc650d5034295b2ac85ecb4a8",
-    "057f4ef1674fe0a56f821cc96454237c",
     "0b78dcd5e6cd066c20622334cadf847d",
     "eaf1a147e62bbcee054a0d31245ad962",
     "46b0a02ae25c16fb00ee13d0b2d51714",
@@ -4005,6 +4002,9 @@
     "e40d7c5086f9454bb281e86588fb6f1a",
     "9a59149240267320c465a3d05a0f028d",
     "3383ea7d3890ba2986c43be93951bcd9",
-    "1e56366a88f7a629da033fd923883d92"
+    "1e56366a88f7a629da033fd923883d92",
+    "c7b6ea0c7f909b110b8f8edd2f33d171",
+    "6af8dde32f4898b837415ea9ffaccb0b",
+    "a6bbb5467573479a5710e72639315880"
   ]
 }
