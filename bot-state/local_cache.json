@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeswirtschaftsministerium-spricht-mit-verbaenden-ueber-lieferprobleme-bei-halbleitern-100.html",
-    "https://www.deutschlandfunk.de/betrug-mit-eu-subventionen-37-festnahmen-100.html",
-    "https://www.deutschlandfunk.de/inzwischen-120-000-unterschriften-unter-petition-gegen-merz-stadtbild-aeusserungen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/spionageverdacht-afd-unter-druck-wegen-anfragen-zu-sicherheit-110744369.html",
     "https://www.faz.net/aktuell/politik/inland/vorwuerfe-gegen-tilman-kuban-cdu-abgeordneter-laesst-fraktionsamt-ruhen-110744651.html",
     "https://www.deutschlandfunk.de/krisensitzung-zu-lieferengpaessen-bei-halbleitern-100.html",
     "https://www.deutschlandfunk.de/israel-uebergibt-weitere-palaestinensische-leichen-foltervorwuerfe-der-gaza-behoerden-100.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/politik/deutschland/wehrpflicht-frank-walter-steinmeier-findet-pflichtzeit-fuer-alle-am-gerechtesten-a-85b103c6-6494-40bf-a338-6235e98ed057#ref=rss",
     "https://www.spiegel.de/panorama/justiz/tschechien-ermittler-verhaften-weiteres-mutmassliches-hamas-mitglied-a-6ec3e4fd-5ab0-483e-81a5-3c72fbc03ed8#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/soziale-medien-prien-fordert-bildschirmverzicht-fuer-kleinkinder-110777550.html",
-    "https://www.deutschlandfunk.de/studie-lichtverschmutzung-wirkt-sich-auf-co2-ausstoss-von-pflanzen-und-damit-auf-das-weltklima-aus-102.html"
+    "https://www.deutschlandfunk.de/studie-lichtverschmutzung-wirkt-sich-auf-co2-ausstoss-von-pflanzen-und-damit-auf-das-weltklima-aus-102.html",
+    "https://www.deutschlandfunk.de/mehr-als-eine-million-kinder-in-deutschland-wachsen-laut-unicef-in-armut-auf-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-zufrieden-ueber-einstufung-der-eu-kommission-102.html",
+    "https://www.deutschlandfunk.de/gericht-weist-klagen-gegen-deutsche-waffenexporte-an-israel-ab-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-dankt-algerischem-praesidenten-fuer-begnadigung-des-schriftstellers-sans-100.html"
   ],
   "content_hashes": [
-    "a82945087a8b65b11f6a27900d2a7be2",
-    "031714c520f0da4116078f788cb83c1f",
-    "e5b1e0047485c8ebf1506210daf4aa82",
-    "bd0cbb244047f264da60123c61271255",
     "dbd65105b3ad9c5206ce4b346f2ee8fd",
     "78c213f43366c8529cd5fe7aae956755",
     "8d774507899df57b0cfbdb8b709cca7d",
@@ -2001,13 +1997,13 @@
     "9199b0ec67f58a62834e7b7209979461",
     "51ad7e97e52730eac1f99f333825a65f",
     "f20b39284d7baaef338609060dbfc6ef",
-    "4b0c837b562e20962b1cde5b0544e522"
+    "4b0c837b562e20962b1cde5b0544e522",
+    "2db6451184de439eb440d8c95204a63f",
+    "4f188ab9623a24e129d7aa18645d7c6e",
+    "c55d4b504ac1093027c8373cd51845a3",
+    "a4eaec541701f91aad23093049ee9849"
   ],
   "titles": [
-    "Wirtschaft - Bundeswirtschaftsministerium spricht mit Verbänden über Lieferprobleme bei Halbleitern",
-    "Griechenland - Betrug mit EU-Subventionen - 37 Festnahmen",
-    "Inzwischen 120.000 Unterschriften unter Petition gegen Merz' \"Stadtbild\"-Äußerungen",
-    "Spionageverdacht: Ein Landesverrat der AfD?",
     "Ex-Junge-Union-Chef: CDU-Abgeordneter Kuban lässt Fraktionsamt ruhen",
     "Wirtschaft - Krisensitzung zu Lieferengpässen bei Halbleitern",
     "Nahost - Israel übergibt weitere palästinensische Leichen - Foltervorwürfe der Gaza-Behörden",
@@ -3003,13 +2999,13 @@
     "Wehrpflicht: Frank-Walter Steinmeier findet Pflichtzeit für alle am gerechtesten",
     "Tschechien: Ermittler verhaften weiteres mutmaßliches Hamas-Mitglied",
     "Soziale Medien: Bildungsministerin Prien fordert Bildschirmverzicht für Kleinkinder",
-    "Klimawandel - Studie: Lichtverschmutzung wirkt sich auf CO2-Ausstoß von Pflanzen und damit auf das Weltklima aus"
+    "Klimawandel - Studie: Lichtverschmutzung wirkt sich auf CO2-Ausstoß von Pflanzen und damit auf das Weltklima aus",
+    "Kinderarmut - Mehr als eine Million Kinder in Deutschland wachsen laut Unicef in Armut auf",
+    "EU-Asylrechtsreform - Bundesregierung zufrieden über Einstufung der EU-Kommission",
+    "Berlin - Gericht weist Klagen gegen deutsche Waffenexporte an Israel ab",
+    "Nach Freilassung - Bundespräsident Steinmeier dankt algerischem Präsidenten für Begnadigung des Schriftstellers Sansal"
   ],
   "hashes": [
-    "1a4dc666aa971f6d2f85115c7dbd38a4",
-    "6d186b87160fd642163170a5aaa918dd",
-    "34d3fe86a9317022578a6d14d3e945b7",
-    "1aad5082613e3afd12f7e698fb616f95",
     "46db322c4b22cb1a25847f63ea79b360",
     "e3c9cc5ba1352832b46d39c020ce45eb",
     "320eeff57575ee34a22c082b827fe365",
@@ -4005,6 +4001,10 @@
     "7770cdb1305bbd51b2300b661d6f1fd8",
     "3ae07586cbfa8c75bf24a8461a682ad6",
     "cad3b1abdc758682d2d08d97559436f4",
-    "eb22673f681eb4f11757ec55f159c4d7"
+    "eb22673f681eb4f11757ec55f159c4d7",
+    "1d944b826cdbb2029a713192f840889b",
+    "17638b1f101ac500b802335d4959e6d4",
+    "3b23616be7650af8e94cac59b3e1ed88",
+    "d88ec37fc16e36169135b40aa50462a7"
   ]
 }
