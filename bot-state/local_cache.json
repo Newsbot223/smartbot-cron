@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-gewaltsamen-protesten-in-peru-ausnahmezustand-in-lima-fuer-30-tage-100.html",
-    "https://www.deutschlandfunk.de/zwei-tote-bei-russischen-angriffen-auf-kiew-selenskyj-in-schweden-erwartet-100.html",
-    "https://www.deutschlandfunk.de/thueringens-innenminister-afd-anfragen-aehneln-kreml-auftragsliste-baumann-irrwitzige-verdaechtigung-100.html",
-    "https://www.faz.net/aktuell/politik/oesterreich-schiebt-nach-kabul-ab-ein-wichtiges-signal-110742604.html",
     "https://www.deutschlandfunk.de/merz-reist-zum-westbalkangipfel-nach-london-100.html",
     "https://www.deutschlandfunk.de/update-krieg-gegen-die-ukraine-mehr-geld-fuer-russische-propaganda-100.html",
     "https://www.spiegel.de/politik/bundeswehr-und-wehrpflicht-genuegend-freiwillige-aber-zu-wenige-reservisten-a-374a6caf-ec84-49bf-9098-126d71e53730#ref=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-parlament-beraet-ueber-verteilung-von-asylsuchenden-100.html",
     "https://www.deutschlandfunk.de/ryanair-verlangt-digitale-bordkarten-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-pistorius-kuendigt-rasche-einigung-ueber-den-wehrdienst-an-faz-110093143.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-korruptionsskandal-bei-energoatom-110775828.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-korruptionsskandal-bei-energoatom-110775828.html",
+    "https://www.deutschlandfunk.de/arbeitgeberverband-haelt-abschaffung-von-minijobs-fuer-nicht-zielfuehrend-100.html",
+    "https://www.deutschlandfunk.de/inflationsrate-sinkt-im-oktober-auf-2-3-prozent-100.html",
+    "https://www.deutschlandfunk.de/populismus-forscherin-von-wiese-warnt-vor-gefahr-fuer-die-pressefreiheit-100.html",
+    "https://www.faz.net/aktuell/politik/inland/70-jahre-bundeswehr-soldatenernennung-in-bonn-accg-110775829.html"
   ],
   "content_hashes": [
-    "4b66fc079bfd9a858883d288ffc351f2",
-    "44d736e833bf95269ec2ffd45ac12ca0",
-    "df1bf6262cf334a2069118b9e535af9f",
-    "967af20b262c19c84da9205ebac69203",
     "db905643a4bf9c6f6001f8f7a3e13179",
     "94ab6c8cd85aae03fda0bdcfda26600f",
     "7b9f82dd95dae3b348ff29f9b06bb108",
@@ -2001,13 +1997,13 @@
     "f20955ffe77d7670377ea0b5cbd6d5f2",
     "e1b0fe35c0cdfb61936bbf9891b06ab1",
     "3426e367411998c2fb9c99ac8ce1e4eb",
-    "998e83de9df5538c4cc584a56b295a02"
+    "998e83de9df5538c4cc584a56b295a02",
+    "8f6fde71724f4f467eb2f1fe39edb4e9",
+    "7506079ff8ed1f919908cdb1b0021be7",
+    "0507a01186b2889dce085b50f02f5f93",
+    "a3de25e38dd42213bdbc9f6b978acb15"
   ],
   "titles": [
-    "Südamerika - Nach gewaltsamen Protesten in Peru: Ausnahmezustand in Lima für 30 Tage",
-    "Ukraine - Zwei Tote bei russischen Angriffen auf Kiew - Selenskyj in Schweden erwartet",
-    "Kritische Infrastruktur - Thüringens Innenminister: AfD-Anfragen ähneln \"Kreml-Auftragsliste\" - Baumann: \"irrwitzige Verdächtigungen\"",
-    "Wien schiebt nach Kabul ab: Ein wichtiges Signal",
     "\"Berlin-Prozess\" - Merz reist zum Westbalkangipfel nach London",
     "Ukrainekrieg - Trump sagt Gipfel nach Blockade Russlands vorerst ab",
     "Bundeswehr und Wehrpflicht: Genügend Freiwillige, aber zu wenige Reservisten",
@@ -3003,13 +2999,13 @@
     "Migration - EU-Parlament berät über Verteilung von Asylsuchenden",
     "Flugverkehr - Ryanair verlangt digitale Bordkarten",
     "Liveblog Bundespolitik: Pistorius kündigt rasche Einigung über den Wehrdienst an",
-    "Korruption in der Ukraine: Was der Skandal in der Energiebranche zeigt"
+    "Korruption in der Ukraine: Was der Skandal in der Energiebranche zeigt",
+    "Arbeitsmarkt - Arbeitgeberverband hält Abschaffung von Minijobs für nicht zielführend",
+    "Wirtschaft - Inflationsrate sinkt im Oktober auf 2,3 Prozent",
+    "BBC in der Krise - Populismus-Forscherin von Wiese warnt vor Gefahr für die Pressefreiheit",
+    "70 Jahre Bundeswehr: Die Uniformen waren nicht rechtzeitig fertiggeworden"
   ],
   "hashes": [
-    "f9edc1e846304882bd0a172f6b5550ac",
-    "cc86e6116a9aa7578886146ffcd68fe9",
-    "ec0b129844bc427dedc06aa46ad80422",
-    "f5a95561c671a71220c336a49a2f2a8a",
     "b5fee0a1992f352c7e8b74c79675e797",
     "e656c5acc95e92d95f7ad7be054050a7",
     "abe63375add7414cc424f9c1461e4382",
@@ -4005,6 +4001,10 @@
     "eae32f057c3a0f0019837d5b387b4ec9",
     "dacb98a0e0cd7b5f258eae0850724240",
     "7e7fba6d26269c0d4739005cac3181ea",
-    "327c2d2d273c986210773f36c1e48970"
+    "327c2d2d273c986210773f36c1e48970",
+    "3d72ebd372684dc2d5941abfc9d9053d",
+    "31cdb709b4810b545f6ad8ba88a78099",
+    "117767809256bf45d404b5c6abcc4ed5",
+    "2bce48430452bd270bc0fcafb2a04808"
   ]
 }
