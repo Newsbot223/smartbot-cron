@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/innenminister-herrmann-aeussert-sich-zu-drohnensichtungen-110744454.html",
-    "https://www.deutschlandfunk.de/gerichtliche-anhoerung-ueber-zugang-internationaler-medien-zum-gazastreifen-geplant-100.html",
     "https://www.deutschlandfunk.de/usa-dringen-auf-gespraeche-mit-china-wegen-exportverschaerfungen-100.html",
     "https://www.deutschlandfunk.de/vogelgrippe-breitet-sich-in-ostdeutschen-laendern-weiter-aus-100.html",
     "https://www.deutschlandfunk.de/mehr-als-120-000-unterschriften-gegen-merz-stadtbild-aeusserungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundespraesident-steinmeier-dankt-algerischem-praesidenten-fuer-begnadigung-des-schriftstellers-sans-100.html",
     "https://www.deutschlandfunk.de/weihnachtsmarkt-kann-mit-nachgeschaerften-sicherheitsmassnahmen-oeffnen-100.html",
     "https://www.deutschlandfunk.de/parlament-setzt-umstrittene-rentenreform-von-praesident-macron-aus-100.html",
-    "https://www.deutschlandfunk.de/regierung-will-pharma-standort-deutschland-attraktiver-machen-100.html"
+    "https://www.deutschlandfunk.de/regierung-will-pharma-standort-deutschland-attraktiver-machen-100.html",
+    "https://www.deutschlandfunk.de/staedtebund-kritisiert-hohe-sicherheitskosten-und-fordert-beteiligung-von-bund-und-land-100.html",
+    "https://www.deutschlandfunk.de/letzter-penny-in-den-usa-gepraegt-ein-cent-muenzen-weiter-gueltig-100.html"
   ],
   "content_hashes": [
-    "40b59fa4a22ad31e7e825155bd103eee",
-    "18f5eb5b3973871bd4e7358a2e558057",
     "96dfb5535d8069c65df9609646fefe8a",
     "28121287127636cf9adc23b0cd684ae5",
     "80cf966aadc9c303d4f095c0f23f0194",
@@ -2001,11 +1999,11 @@
     "a4eaec541701f91aad23093049ee9849",
     "d5f437678166613fd180ddecbea87ac3",
     "041d7aca95d00895c8bf97e47335a6f4",
-    "04c4b21646513ae6a5f857c421f1d077"
+    "04c4b21646513ae6a5f857c421f1d077",
+    "f7035a4d883c7d1fc95189102a962ca5",
+    "63165c68aeca4e046ba2f1bc2d8a8338"
   ],
   "titles": [
-    "Bayerns Innenminister: Mit starken Worten gegen Drohnen",
-    "Nahost - Gerichtliche Anhörung über Zugang internationaler Medien zum Gazastreifen geplant",
     "Seltene Erden - USA dringen auf Gespräche mit China wegen Exportverschärfungen",
     "Tierkrankheit - Vogelgrippe breitet sich in ostdeutschen Ländern weiter aus",
     "Petition - Mehr als 120.000 Unterschriften gegen Merz' \"Stadtbild\"-Äußerungen",
@@ -3003,11 +3001,11 @@
     "Nach Freilassung - Bundespräsident Steinmeier dankt algerischem Präsidenten für Begnadigung des Schriftstellers Sansal",
     "Stadt Magdeburg - Weihnachtsmarkt kann mit nachgeschärften Sicherheitsmaßnahmen öffnen",
     "Frankreich - Parlament setzt umstrittene Rentenreform von Präsident Macron aus",
-    "Treffen im Kanzleramt - Regierung will Pharma-Standort Deutschland attraktiver machen"
+    "Treffen im Kanzleramt - Regierung will Pharma-Standort Deutschland attraktiver machen",
+    "Weihnachtsmärkte - Städtebund kritisiert hohe Sicherheitskosten und fordert Beteiligung von Bund und Land",
+    "Hohe Herstellungskosten - Letzter \"Penny\" in den USA geprägt - Ein-Cent-Münzen weiter gültig"
   ],
   "hashes": [
-    "d7e3ffb0793ad7a3c4ac81954e47e133",
-    "85d24995d34dd0a641acd6149579b100",
     "0c5968aa0a91248876736b09831c6a78",
     "7593777403bfc23ed3c8e447b130bb78",
     "48daa0703c4845ed76daed250a230bc2",
@@ -4005,6 +4003,8 @@
     "d88ec37fc16e36169135b40aa50462a7",
     "c68c5f637ce245d52c60780e5deba4ea",
     "5a56565df312e552d0bfc4deca972e48",
-    "37f2c9c34519fb5243546ae7c0b6d79b"
+    "37f2c9c34519fb5243546ae7c0b6d79b",
+    "d1c7d021ff1629829bbb02f771b8de91",
+    "ade0d754e7d56c62d53ecb9de8bbafe2"
   ]
 }
