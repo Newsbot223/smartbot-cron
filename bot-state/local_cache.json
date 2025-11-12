@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-feiert-neubau-der-deutschen-botschaft-in-wien-102.html",
-    "https://www.deutschlandfunk.de/klingbeil-fordert-von-unternehmen-mehr-standortpatriotismus-102.html",
     "https://www.faz.net/aktuell/politik/inland/verfassungstreue-beamte-die-laender-pruefen-ganz-unterschiedlich-110741042.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerium-spricht-mit-verbaenden-ueber-lieferprobleme-bei-halbleitern-100.html",
     "https://www.deutschlandfunk.de/betrug-mit-eu-subventionen-37-festnahmen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neue-eu-debatte-um-migration-interview-mit-birgit-sippel-spd-mdep-100.html",
     "https://www.deutschlandfunk.de/praesident-nawrocki-verweigert-ernennung-von-46-richtern-100.html",
     "https://www.spiegel.de/kultur/literatur/boualem-sansal-schriftsteller-auf-bitten-steinmeiers-in-algerien-begnadigt-a-25ddf450-a685-4c74-abec-8b371a0cfb0d#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/wehrpflicht-frank-walter-steinmeier-findet-pflichtzeit-fuer-alle-am-gerechtesten-a-85b103c6-6494-40bf-a338-6235e98ed057#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/wehrpflicht-frank-walter-steinmeier-findet-pflichtzeit-fuer-alle-am-gerechtesten-a-85b103c6-6494-40bf-a338-6235e98ed057#ref=rss",
+    "https://www.spiegel.de/panorama/justiz/tschechien-ermittler-verhaften-weiteres-mutmassliches-hamas-mitglied-a-6ec3e4fd-5ab0-483e-81a5-3c72fbc03ed8#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/soziale-medien-prien-fordert-bildschirmverzicht-fuer-kleinkinder-110777550.html"
   ],
   "content_hashes": [
-    "136753df797d632e0b102573cf90e633",
-    "33747769f80b41cc31c2e9eac94daaf4",
     "372b6b6d641df08268cdd13ff93bce72",
     "a82945087a8b65b11f6a27900d2a7be2",
     "031714c520f0da4116078f788cb83c1f",
@@ -2001,11 +1999,11 @@
     "37f7d246f1ca7056dca2add7f15f2434",
     "d84fd226d23551341b28a1109e86fbb3",
     "9ae4209bfd87f196ed7feb8c0b6a26c9",
-    "9199b0ec67f58a62834e7b7209979461"
+    "9199b0ec67f58a62834e7b7209979461",
+    "51ad7e97e52730eac1f99f333825a65f",
+    "f20b39284d7baaef338609060dbfc6ef"
   ],
   "titles": [
-    "Offizielle Eröffnung - Steinmeier feiert Neubau der Deutschen Botschaft in Wien",
-    "Wirtschaft - Klingbeil fordert von Unternehmen mehr \"Standortpatriotismus\"",
     "Verfassungstreue-Prüfung: Wie die Bundesländer Extremisten im Staatsdienst verhindern wollen",
     "Wirtschaft - Bundeswirtschaftsministerium spricht mit Verbänden über Lieferprobleme bei Halbleitern",
     "Griechenland - Betrug mit EU-Subventionen - 37 Festnahmen",
@@ -3003,11 +3001,11 @@
     "EU-Asylreform - Sippel (SPD) sieht Deutschland in besonderer Verantwortung",
     "Polen - Präsident Nawrocki verweigert Ernennung von 46 Richtern",
     "Boualem Sansal: Schriftsteller auf Bitten Steinmeiers in Algerien begnadigt",
-    "Wehrpflicht: Frank-Walter Steinmeier findet Pflichtzeit für alle am gerechtesten"
+    "Wehrpflicht: Frank-Walter Steinmeier findet Pflichtzeit für alle am gerechtesten",
+    "Tschechien: Ermittler verhaften weiteres mutmaßliches Hamas-Mitglied",
+    "Soziale Medien: Bildungsministerin Prien fordert Bildschirmverzicht für Kleinkinder"
   ],
   "hashes": [
-    "c74b12a219024490ca5dfcf31bb6b99f",
-    "ea36cf1d90ff7ea135a09531aaf5e7ef",
     "ba7a68bea39216e65a247f42ea98b565",
     "1a4dc666aa971f6d2f85115c7dbd38a4",
     "6d186b87160fd642163170a5aaa918dd",
@@ -4005,6 +4003,8 @@
     "a6bbb5467573479a5710e72639315880",
     "ca817d4ff06a2b0edf89a9101860d31a",
     "26262ee1ac981a8a141289737634515d",
-    "7770cdb1305bbd51b2300b661d6f1fd8"
+    "7770cdb1305bbd51b2300b661d6f1fd8",
+    "3ae07586cbfa8c75bf24a8461a682ad6",
+    "cad3b1abdc758682d2d08d97559436f4"
   ]
 }
