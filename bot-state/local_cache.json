@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/studie-ki-suche-bei-nachrichten-oft-fehlerhaft-100.html",
-    "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-db-cargo-chefin-nikutta-100.html",
     "https://www.deutschlandfunk.de/sacharow-preis-geht-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-100.html",
     "https://www.deutschlandfunk.de/branchenverband-vda-sieht-keine-anzeichen-fuer-trendwende-sorge-wegen-computerchips-100.html",
     "https://www.spiegel.de/wirtschaft/einwanderer-arbeiten-besonders-oft-in-mangelberufen-und-selten-als-polizisten-a-354f5ba6-b2b7-44fb-a3df-52d5a687b674#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-fordert-erneut-begnadigung-fuer-netanjahu-100.html",
     "https://www.deutschlandfunk.de/eu-abgeordnete-sippel-spd-fordert-auch-2026-migranten-in-deutschland-aufzunehmen-102.html",
     "https://www.deutschlandfunk.de/weniger-ueberlastung-bei-unterbringung-von-gefluechteten-100.html",
-    "https://www.faz.net/aktuell/politik/inland/die-bundeswehr-ist-nach-70-jahren-klein-und-schwach-110775771.html"
+    "https://www.faz.net/aktuell/politik/inland/die-bundeswehr-ist-nach-70-jahren-klein-und-schwach-110775771.html",
+    "https://www.deutschlandfunk.de/palaestinenser-klagen-gegen-deutsche-waffenlieferungen-an-israel-102.html",
+    "https://www.spiegel.de/wirtschaft/service/streit-ueber-veggie-wurst-klare-mehrheit-lehnt-namensverbot-ab-a-e45724a9-0c16-4fe0-8d71-f2fa2709ac17#ref=rss"
   ],
   "content_hashes": [
-    "268f3108f78cbdca0f01f90c4f5c3ed3",
-    "66b1b784f9a7950b5c18047cc51357c1",
     "b9233463852c89401317d16181b228fc",
     "5999c094e3241c935474d17f24eb9670",
     "27485ae25c4fe0daa24d0bbf1bb9b096",
@@ -2001,11 +1999,11 @@
     "fc51e938174c8ead10a10b992c61c7bc",
     "8661b39b1d26496af95b4828b2009415",
     "7f24331e7d0871f5dc9498ab42e8d906",
-    "731d760bc9741921a6fc8686dd1b706e"
+    "731d760bc9741921a6fc8686dd1b706e",
+    "fa6605c6c14d16864ac80d87bdb49e50",
+    "dc9ae7d21d2675071153e4e0dccc00da"
   ],
   "titles": [
-    "Europäische Rundfunkunion - Studie: KI-Suche bei Nachrichten oft fehlerhaft",
-    "Güterverkehr - Deutsche Bahn trennt sich von DB-Cargo-Chefin Nikutta",
     "Auszeichnung - Sacharow-Preis geht an zwei in Belarus und Georgien inhaftierte Journalisten",
     "Autoindustrie - Branchenverband VDA sieht keine Anzeichen für Trendwende - Sorge wegen Computerchips",
     "Einwanderer arbeiten besonders oft in Mangelberufen und selten als Polizisten",
@@ -3003,11 +3001,11 @@
     "Israel - Trump fordert erneut Begnadigung für Netanjahu",
     "EU-Asylreform - EU-Abgeordnete Sippel (SPD) fordert auch 2026 Migranten in Deutschland aufzunehmen",
     "Umfrage unter Kommunen - Weniger Überlastung bei Unterbringung von Geflüchteten",
-    "Nach 70 Jahren: Unsere kleine, schwache Bundeswehr"
+    "Nach 70 Jahren: Unsere kleine, schwache Bundeswehr",
+    "Verwaltungsgericht Berlin - Palästinenser klagen gegen deutsche Waffenlieferungen an Israel",
+    "Streit über »Veggie-Wurst« – klare Mehrheit lehnt Namensverbot ab"
   ],
   "hashes": [
-    "f3c44bf040634219591a38024fcba753",
-    "7625b65d6c2101bc3d867509253f0b63",
     "7d6aee8465feb5139ab638829090a484",
     "debc6c46860bba602143bfed4a304819",
     "58af574d41789dfa164d283b1c48be67",
@@ -4005,6 +4003,8 @@
     "8455560f027e174c0e6bfb6ff7dd005a",
     "56cb2a3461fde42bfa625dfe54948514",
     "62fd63787e059e071327ae1c2d94f79f",
-    "1984298153fafd87ac79caaf9ac6e5d4"
+    "1984298153fafd87ac79caaf9ac6e5d4",
+    "f8030002246c14195dd96c4c52e7d1bf",
+    "e40d7c5086f9454bb281e86588fb6f1a"
   ]
 }
