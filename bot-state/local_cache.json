@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-macron-und-meloni-fordern-kurswechsel-der-eu-zu-mehr-wettbewerbsfaehigkeit-100.html",
-    "https://www.deutschlandfunk.de/merz-reist-zum-eu-westbalkangipfel-nach-london-100.html",
-    "https://www.deutschlandfunk.de/internationaler-gerichtshof-beurteilt-israels-hilfsgueter-blockade-100.html",
     "https://www.deutschlandfunk.de/steinmeier-eroeffnet-neue-deutsche-botschaft-in-wien-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-lehnt-hilfsangebot-fuer-kinder-aus-gaza-ab-110.html",
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-zu-besuch-in-washington-erwartet-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/regierungschef-haseloff-kuendigt-krisengespraech-fuer-heute-an-100.html",
     "https://www.deutschlandfunk.de/repraesentantenhaus-beraet-ueber-uebergangshaushalt-100.html",
     "https://www.deutschlandfunk.de/ex-bundesfamilienministerin-spiegel-gruene-trotz-protesten-zur-sozialdezernentin-der-region-hannover-100.html",
-    "https://www.deutschlandfunk.de/gema-siegt-vor-gericht-gegen-openai-im-streit-um-nutzung-der-liedtexte-von-herbert-groenemeyer-reinh-100.html"
+    "https://www.deutschlandfunk.de/gema-siegt-vor-gericht-gegen-openai-im-streit-um-nutzung-der-liedtexte-von-herbert-groenemeyer-reinh-100.html",
+    "https://www.deutschlandfunk.de/ex-fdp-chef-lindner-wechselt-in-die-autobranche-100.html",
+    "https://www.deutschlandfunk.de/mutmasslicher-rechtsextremist-wegen-aufrufen-zu-politiker-morden-und-zu-spenden-fuer-kopfgelder-in-u-100.html",
+    "https://www.deutschlandfunk.de/100-000-bei-rechter-kundgebung-in-warschau-mit-dabei-polens-neuer-praesident-nawrocki-100.html"
   ],
   "content_hashes": [
-    "39d0f8d96d8b532e693d877c77c6e892",
-    "150458e5b3e23dc4c507e97453bc6815",
-    "d0c81cb27bf9bf85dd7df44e7e6d8952",
     "c512beac22f365ee30f983d3ad666c0e",
     "cdac615cb34d444b84fdf561a5f25448",
     "5e4fba2974dbe70610ce48569bb1e1ca",
@@ -2001,12 +1998,12 @@
     "10f492ae6bc56c680a5fb1d3f21db96f",
     "eaaa387e74ed839a91b23d6f60a13cb8",
     "3e9f70435a1e3df6e8769de9b29fbc9a",
-    "28a4c02ca018f8372d20fb1739c60157"
+    "28a4c02ca018f8372d20fb1739c60157",
+    "125c8e15527fbb9e7ad3880a48005a1c",
+    "b631f470d89aa4eed30619c8042282c9",
+    "a2247f37652d6aba3d42e759a90ee629"
   ],
   "titles": [
-    "Vor Gipfel in Brüssel - Merz, Macron und Meloni fordern Kurswechsel der EU zu mehr Wettbewerbsfähigkeit",
-    "Diplomatie - Merz reist zum EU-Westbalkangipfel nach London",
-    "Nahost - Internationaler Gerichtshof beurteilt Israels Hilfsgüter-Blockade",
     "Staatsbesuch - Steinmeier eröffnet neue Deutsche Botschaft in Wien",
     "Initiative mehrer Städte - Bundesregierung lehnt Hilfsangebot für Kinder aus Gaza ab",
     "Kurzfristige Reise - NATO-Generalsekretär Rutte zu Besuch in Washington erwartet",
@@ -3003,12 +3000,12 @@
     "Magdeburger Weihnachtsmarkt - Regierungschef Haseloff kündigt Krisengespräch für heute an",
     "USA - Repräsentantenhaus berät über Übergangshaushalt",
     "Rückkehr in die Politik - Ex-Bundesfamilienministerin Spiegel (Grüne) trotz Protesten zur Sozialdezernentin der Region Hannover gewählt",
-    "ChatGPT - Gema siegt vor Gericht gegen OpenAI im Streit um Nutzung der Liedtexte von Herbert Grönemeyer, Reinhard Mey, Helene Fischer und Co"
+    "ChatGPT - Gema siegt vor Gericht gegen OpenAI im Streit um Nutzung der Liedtexte von Herbert Grönemeyer, Reinhard Mey, Helene Fischer und Co",
+    "Wirtschaft - Ex-FDP-Chef Lindner wechselt in die Autobranche",
+    "Darknet - Mutmaßlicher Rechtsextremist wegen Aufrufen zu Politiker-Morden und zu Spenden für Kopfgelder in U-Haft",
+    "Unabhängigkeitsmarsch - 100.000 bei rechter Kundgebung in Warschau - mit dabei Polens neuer Präsident Nawrocki"
   ],
   "hashes": [
-    "4394afba775d6b66adec20326a327ad8",
-    "1433fd55e7300614e14f459d94be4e78",
-    "dc34048f7b550708f1392622f8a8ac56",
     "be490520b0c8afaace0eda09d1983a32",
     "a02c1f98d3368e2d937d9279977cfbd7",
     "734313a41060c0061e029d97bce25940",
@@ -4005,6 +4002,9 @@
     "a4d86beedd28036da3e2bf129bfa67d9",
     "3f0007d109bbfd546a5d2d0564567211",
     "1ce826b0b197d6bc7a29e27f82152252",
-    "1e500bac609b541880899bbac34edc27"
+    "1e500bac609b541880899bbac34edc27",
+    "e8f3f0c9d0ad197352903e0022ac77f6",
+    "b65433e8383a39b0451a8fb54f2bca73",
+    "1e6fc72b2f77839377c6001c4e0ca618"
   ]
 }
