@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/menschen-mit-einwanderungsgeschichte-oft-in-engpassberufen-taetig-100.html",
-    "https://www.deutschlandfunk.de/deutsche-forschungsinstitute-sind-fuehrend-bei-patentanmeldungen-102.html",
-    "https://www.deutschlandfunk.de/berliner-gespraech-zivile-verteidigung-in-deutschland-100.html",
-    "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-wie-schwesig-gegen-die-afd-ankaempft-accg-110735937.html",
-    "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-chefin-nikutta-100.html",
     "https://www.deutschlandfunk.de/studie-ki-suche-bei-nachrichten-oft-fehlerhaft-100.html",
     "https://www.deutschlandfunk.de/deutsche-bahn-trennt-sich-von-db-cargo-chefin-nikutta-100.html",
     "https://www.deutschlandfunk.de/sacharow-preis-geht-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/weinproduktion-erholt-sich-leicht-102.html",
     "https://www.deutschlandfunk.de/landesministerium-170-000-tiere-wegen-vogelgrippe-getoetet-100.html",
     "https://www.faz.net/aktuell/politik/inland/zettel-mit-hausverbot-fuer-juden-anklage-wegen-volksverhetzung-accg-110776852.html",
-    "https://www.spiegel.de/politik/deutschland/deutschland-rueckgang-der-asylsuchende-entlastet-kommunen-a-b0c30c9a-eded-4aec-9b71-67a810a80b83#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/deutschland-rueckgang-der-asylsuchende-entlastet-kommunen-a-b0c30c9a-eded-4aec-9b71-67a810a80b83#ref=rss",
+    "https://www.deutschlandfunk.de/wirtschaftsweise-schlagen-reform-der-erbschaftssteuer-vor-100.html",
+    "https://www.deutschlandfunk.de/trump-fordert-erneut-begnadigung-fuer-netanjahu-100.html",
+    "https://www.deutschlandfunk.de/eu-abgeordnete-sippel-spd-fordert-auch-2026-migranten-in-deutschland-aufzunehmen-102.html",
+    "https://www.deutschlandfunk.de/weniger-ueberlastung-bei-unterbringung-von-gefluechteten-100.html",
+    "https://www.faz.net/aktuell/politik/inland/die-bundeswehr-ist-nach-70-jahren-klein-und-schwach-110775771.html"
   ],
   "content_hashes": [
-    "7c13c6667edc7f729cc8139bf2519de5",
-    "7861134ed90363b71a8286f5032db908",
-    "11659e84afa6b8d4e5a8b2ac37002c20",
-    "31d501d69458c85b99e51b01a3338f53",
-    "5678cc94a107ce8d0316daa570931517",
     "268f3108f78cbdca0f01f90c4f5c3ed3",
     "66b1b784f9a7950b5c18047cc51357c1",
     "b9233463852c89401317d16181b228fc",
@@ -2001,14 +1996,14 @@
     "259e428c808e205f16678676fd4001dd",
     "0abc9206e6d952f4e04681a80c065acc",
     "b9c2773c80aecb73bb5076b28a0e2bff",
-    "0a9645aa56cb077f03ef9014243746b1"
+    "0a9645aa56cb077f03ef9014243746b1",
+    "e1940a976e7d7f770b8fd64e5a5ada31",
+    "fc51e938174c8ead10a10b992c61c7bc",
+    "8661b39b1d26496af95b4828b2009415",
+    "7f24331e7d0871f5dc9498ab42e8d906",
+    "731d760bc9741921a6fc8686dd1b706e"
   ],
   "titles": [
-    "Statistisches Bundesamt - Menschen mit Einwanderungsgeschichte oft in Engpassberufen tätig",
-    "Studie - Deutsche Forschungsinstitute sind führend bei Patentanmeldungen",
-    "Länder beraten - Zivilschutz in Deutschland soll verbessert werden",
-    "Schwesig und die AfD: Die Landfrauen sind wütend",
-    "DB Cargo - Deutsche Bahn trennt sich von Chefin Nikutta",
     "Europäische Rundfunkunion - Studie: KI-Suche bei Nachrichten oft fehlerhaft",
     "Güterverkehr - Deutsche Bahn trennt sich von DB-Cargo-Chefin Nikutta",
     "Auszeichnung - Sacharow-Preis geht an zwei in Belarus und Georgien inhaftierte Journalisten",
@@ -3003,14 +2998,14 @@
     "Internationale Organisation - Weinproduktion erholt sich leicht",
     "Brandenburg - Landesministerium: 170.000 Tiere wegen Vogelgrippe getötet",
     "Flensburger Ladenbesitzer: Anklage wegen Volksverhetzung nach „Hausverbot“ für Juden",
-    "Deutschland: Rückgang der Asylsuchende entlastet Kommunen"
+    "Deutschland: Rückgang der Asylsuchende entlastet Kommunen",
+    "Jahresgutachten übergeben - Wirtschaftsweise schlagen Reform der Erbschaftssteuer vor",
+    "Israel - Trump fordert erneut Begnadigung für Netanjahu",
+    "EU-Asylreform - EU-Abgeordnete Sippel (SPD) fordert auch 2026 Migranten in Deutschland aufzunehmen",
+    "Umfrage unter Kommunen - Weniger Überlastung bei Unterbringung von Geflüchteten",
+    "Nach 70 Jahren: Unsere kleine, schwache Bundeswehr"
   ],
   "hashes": [
-    "dfd670dc62c0b057e1071f0102ad7d60",
-    "926fbf4dce8866d349bbf3d9e117a4f8",
-    "352ca35248121fb68b75f62bffc64d7f",
-    "694afd7ae51fe5346e281b611a0bd02c",
-    "777c75a2e9f60b169a23a2c358a7427a",
     "f3c44bf040634219591a38024fcba753",
     "7625b65d6c2101bc3d867509253f0b63",
     "7d6aee8465feb5139ab638829090a484",
@@ -4005,6 +4000,11 @@
     "5974352e1ec5d77eae98d268978ac083",
     "4134828d898a9a485558839bb4eeab18",
     "a7c95c7466f4734c6861cf9604f2a765",
-    "bd9be9ef16e74c0b953e3b41095de435"
+    "bd9be9ef16e74c0b953e3b41095de435",
+    "58c7ad282e19e6c4769a0bbb16a4304a",
+    "8455560f027e174c0e6bfb6ff7dd005a",
+    "56cb2a3461fde42bfa625dfe54948514",
+    "62fd63787e059e071327ae1c2d94f79f",
+    "1984298153fafd87ac79caaf9ac6e5d4"
   ]
 }
