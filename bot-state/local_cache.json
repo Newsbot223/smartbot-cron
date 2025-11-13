@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iw-koeln-84-prozent-der-unternehmen-sehen-geschaeftstaetigkeit-durch-schlechte-verkehrsinfrastruktur-100.html",
-    "https://www.deutschlandfunk.de/debatte-ueber-verwendung-von-russischem-staatsvermoegen-belgischer-ministerpraesident-de-wever-sieht-100.html",
     "https://www.deutschlandfunk.de/selbstbestimmungsgesetz-mehrere-tausend-menschen-haben-geschlechtseintrag-geaendert-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsgespraech-streit-um-nexperia-chips-deutsche-autobauer-unter-druck-100.html",
     "https://www.faz.net/aktuell/politik/krise-der-kommunen-wer-am-ende-bezahlt-110744216.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/polioviren-im-abwasser-in-hamburg-gefunden-100.html",
     "https://www.deutschlandfunk.de/behoerden-melden-cyberattacke-auf-mehrere-regierungs-internetseiten-100.html",
     "https://www.deutschlandfunk.de/landtag-in-rheinland-pfalz-fuer-beitragsreform-100.html",
-    "https://www.deutschlandfunk.de/eu-ermittelt-gegen-google-wegen-benachteiligung-von-verlagen-100.html"
+    "https://www.deutschlandfunk.de/eu-ermittelt-gegen-google-wegen-benachteiligung-von-verlagen-100.html",
+    "https://www.deutschlandfunk.de/beim-handykauf-auf-strahlungswerte-achten-102.html",
+    "https://www.faz.net/aktuell/politik/chrupalla-und-weidel-fundis-gegen-realos-in-der-afd-110779173.html"
   ],
   "content_hashes": [
-    "c5e6c67fa281c1184dfe54413aa55609",
-    "8a675c929d894c4b6d4b9f370c612b12",
     "6cd93a1f1c98a6c08add7ef5ee9f2e40",
     "2ed14af0ae7e37516dbd4d2c295959b5",
     "334cd9b154a15f5aecafe7a41c53ed42",
@@ -2001,11 +1999,11 @@
     "9f7b92cff61d778547e246dacb13e53a",
     "77d2fd10bcafe1885842cd157662b211",
     "e22d801d8038b221e4ec89fc77313d1f",
-    "592f93b556fff0fa012e0304376a2afb"
+    "592f93b556fff0fa012e0304376a2afb",
+    "01af98ddb15006b68b08b008e632010c",
+    "7db0cf30628826bb3f923e50fd16a128"
   ],
   "titles": [
-    "Wirtschaft - IW Köln: 84 Prozent der Unternehmen sehen Geschäftstätigkeit durch schlechte Verkehrsinfrastruktur beeinträchtigt",
-    "EU-Gipfel - Debatte über Verwendung von russischem Staatsvermögen - Belgischer Ministerpräsident De Wever sieht noch keine rechtliche Grundlage",
     "KNA-Recherche - Selbstbestimmungsgesetz: Mehrere tausend Menschen haben Geschlechtseintrag geändert",
     "Nexperia-Halbleiter - Deutsche Autobauer schlecht abgesichert gegen Lieferausfall",
     "Kommunale Finanzkrise: Wer am Ende bezahlt",
@@ -3003,11 +3001,11 @@
     "Seuchen - Polioviren im Abwasser in Hamburg gefunden",
     "Dänemark - Behörden melden Cyberattacke auf mehrere Regierungs-Internetseiten",
     "Öffentlich-rechtlicher Rundfunk - Landtag in Rheinland-Pfalz für Beitragsreform",
-    "Digital Markets Act - EU ermittelt gegen Google wegen Benachteiligung von Verlagen"
+    "Digital Markets Act - EU ermittelt gegen Google wegen Benachteiligung von Verlagen",
+    "Bundesamt für Strahlenschutz - Beim Handykauf auf Strahlungswerte achten",
+    "Chrupalla und Weidel: Fundis gegen Realos in der AfD"
   ],
   "hashes": [
-    "fbf1b3304f95704a9129d56e4161fb86",
-    "3fec537c878f531c06f227c5003c5c88",
     "72021c58038b5a35a813b85780a2863f",
     "e5393ad3ce4d3cfd0deddf0e35629773",
     "9ec443d39ec9a593fa3bb1284981325c",
@@ -4005,6 +4003,8 @@
     "2887c28a0dac8cd0063e372334cf46fd",
     "3f1a4f70104c7bfb23c6676493ba5a6c",
     "f8c95c0e7131510028f99ce976b673b8",
-    "b389963412b8a6d9a740c400b76360d0"
+    "b389963412b8a6d9a740c400b76360d0",
+    "88588d286857e64fde923835dd920a6d",
+    "4993fe485cc374855cd973d6bc173870"
   ]
 }
