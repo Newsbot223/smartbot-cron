@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/100-000-beschaeftigte-im-oeffentlichen-dienst-streiken-100.html",
-    "https://www.deutschlandfunk.de/eu-gipfel-in-bruessel-106.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-praezisiert-aussagen-in-stadtbild-debatte-faz-110093143.html",
     "https://www.deutschlandfunk.de/iw-koeln-84-prozent-der-unternehmen-sehen-geschaeftstaetigkeit-durch-schlechte-verkehrsinfrastruktur-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-verwendung-von-russischem-staatsvermoegen-belgischer-ministerpraesident-de-wever-sieht-100.html",
     "https://www.deutschlandfunk.de/selbstbestimmungsgesetz-mehrere-tausend-menschen-haben-geschlechtseintrag-geaendert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/schwarzarbeit-soll-besser-bekaempft-werden-114.html",
     "https://www.deutschlandfunk.de/mehrere-nato-staaten-finanzieren-us-waffen-fuer-ukraine-100.html",
     "https://www.deutschlandfunk.de/bund-will-pflegeversicherung-mit-milliarden-darlehen-unterstuetzen-100.html",
-    "https://www.deutschlandfunk.de/polioviren-im-abwasser-in-hamburg-gefunden-100.html"
+    "https://www.deutschlandfunk.de/polioviren-im-abwasser-in-hamburg-gefunden-100.html",
+    "https://www.deutschlandfunk.de/behoerden-melden-cyberattacke-auf-mehrere-regierungs-internetseiten-100.html",
+    "https://www.deutschlandfunk.de/landtag-in-rheinland-pfalz-fuer-beitragsreform-100.html",
+    "https://www.deutschlandfunk.de/eu-ermittelt-gegen-google-wegen-benachteiligung-von-verlagen-100.html"
   ],
   "content_hashes": [
-    "a8eee159f5f1f32985387e59345f4b8e",
-    "8257b477580d3baeb1737ecb7169f550",
-    "b8ca472e07f9c6dcf2fd5b45506c390a",
     "c5e6c67fa281c1184dfe54413aa55609",
     "8a675c929d894c4b6d4b9f370c612b12",
     "6cd93a1f1c98a6c08add7ef5ee9f2e40",
@@ -2001,12 +1998,12 @@
     "92ab6a15f5e944b2183d8966fcdb2167",
     "e7cf7ee179d55629e8f77a62e24a0668",
     "7136900b515795f73cedaaf97c448dda",
-    "9f7b92cff61d778547e246dacb13e53a"
+    "9f7b92cff61d778547e246dacb13e53a",
+    "77d2fd10bcafe1885842cd157662b211",
+    "e22d801d8038b221e4ec89fc77313d1f",
+    "592f93b556fff0fa012e0304376a2afb"
   ],
   "titles": [
-    "Proteste gegen Regierung - 100.000 Beschäftigte im öffentlichen Dienst streiken",
-    "EU-Gipfel in Brüssel - Merz will Wettbewerbsfähigkeit in den Fokus rücken",
-    "Liveblog Bundespolitik: Merz präzisiert Aussagen zur „Stadtbild“-Debatte",
     "Wirtschaft - IW Köln: 84 Prozent der Unternehmen sehen Geschäftstätigkeit durch schlechte Verkehrsinfrastruktur beeinträchtigt",
     "EU-Gipfel - Debatte über Verwendung von russischem Staatsvermögen - Belgischer Ministerpräsident De Wever sieht noch keine rechtliche Grundlage",
     "KNA-Recherche - Selbstbestimmungsgesetz: Mehrere tausend Menschen haben Geschlechtseintrag geändert",
@@ -3003,12 +3000,12 @@
     "Bundestag - Schwarzarbeit soll besser bekämpft werden",
     "Militärhilfe - Mehrere NATO-Staaten finanzieren US-Waffen für Ukraine",
     "Haushaltsausschuss des Bundestags - Bund will Pflegeversicherung mit Milliarden-Darlehen unterstützen",
-    "Seuchen - Polioviren im Abwasser in Hamburg gefunden"
+    "Seuchen - Polioviren im Abwasser in Hamburg gefunden",
+    "Dänemark - Behörden melden Cyberattacke auf mehrere Regierungs-Internetseiten",
+    "Öffentlich-rechtlicher Rundfunk - Landtag in Rheinland-Pfalz für Beitragsreform",
+    "Digital Markets Act - EU ermittelt gegen Google wegen Benachteiligung von Verlagen"
   ],
   "hashes": [
-    "dd5085606bf462baba8b0a9ebc4658b1",
-    "a0ea140fae719f5a1d420be857e9fd78",
-    "b85a5c909884394377202c39f8fee7cc",
     "fbf1b3304f95704a9129d56e4161fb86",
     "3fec537c878f531c06f227c5003c5c88",
     "72021c58038b5a35a813b85780a2863f",
@@ -4005,6 +4002,9 @@
     "7ed71d7c1c3a7655542dc72e1d9b8be8",
     "7b0d490693c023f7c85c57b1077764e5",
     "49111784c0116675ef21a2d1ae30c7d3",
-    "2887c28a0dac8cd0063e372334cf46fd"
+    "2887c28a0dac8cd0063e372334cf46fd",
+    "3f1a4f70104c7bfb23c6676493ba5a6c",
+    "f8c95c0e7131510028f99ce976b673b8",
+    "b389963412b8a6d9a740c400b76360d0"
   ]
 }
