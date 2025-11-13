@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-migranten-sind-unverzichtbarer-bestandteil-100.html",
-    "https://www.deutschlandfunk.de/lieferengpaesse-bei-halbleitern-bereiten-industrie-sorgen-100.html",
-    "https://www.deutschlandfunk.de/aussenpolitiker-von-union-und-gruenen-begruessen-vorlaeufige-absage-von-trump-putin-treffen-100.html",
-    "https://www.deutschlandfunk.de/rutte-nur-trump-kann-ende-des-ukraine-kriegs-erreichen-100.html",
     "https://www.deutschlandfunk.de/eu-gipfel-beraet-ueber-ukraine-unterstuetzung-und-eigene-verteidigungsfaehigkeit-100.html",
     "https://www.deutschlandfunk.de/italienisches-gericht-beraet-erneut-ueber-auslieferung-von-verdaechtigem-100.html",
     "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-stellt-heute-ergebnisse-der-steuerschaetzung-vor-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/laengster-shutdown-der-geschichte-beendet-trump-unterschreibt-den-vom-kongress-zuvor-verabschiedeten-100.html",
     "https://www.deutschlandfunk.de/buendnis-von-regierungschef-al-sudani-gewinnt-parlamentswahl-im-irak-100.html",
     "https://www.deutschlandfunk.de/abstimmung-repraesentantenhaus-shutdown-ende-in-den-usa-100.html",
-    "https://www.deutschlandfunk.de/bgh-entscheidet-zu-aktionaers-forderungen-102.html"
+    "https://www.deutschlandfunk.de/bgh-entscheidet-zu-aktionaers-forderungen-102.html",
+    "https://www.deutschlandfunk.de/bgh-weist-klage-von-aktionaeren-ab-100.html",
+    "https://www.deutschlandfunk.de/boeing-erstmals-zu-schadenersatz-fuer-737-max-absturzopfer-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-hightech-agenda-deutschland-102.html",
+    "https://www.deutschlandfunk.de/us-bischoefe-kritisieren-trumps-migrationspolitik-100.html"
   ],
   "content_hashes": [
-    "b14a0df2b6f017a7d1600d93c534de35",
-    "9f8ef446ea1d395fd228ff5460188af3",
-    "0d3ae03a39382c0df24337739d703a40",
-    "15e27b8cb74b4a35c1781ca11a65f87c",
     "24b4b7a0414cb8025e1903de9c5a7648",
     "c443a4472b47df979979434f88296133",
     "58579f4652c1d797b7d3860737e93f8d",
@@ -2001,13 +1997,13 @@
     "4a5249ea5a851b1638600618b485e965",
     "c75bd791b5e3eb6ed38348691824ff96",
     "ccf42cac5eeb71e69b51647d69947534",
-    "d3572daa48ed89d748ac9fb4cf8952c2"
+    "d3572daa48ed89d748ac9fb4cf8952c2",
+    "7ffea7f2edca5035231aa5a6e4a18184",
+    "3b2bfcf1fdc90bba7da22e1aaadd394b",
+    "eac9edc77ddaea41c30fc4089abb0cd4",
+    "848bcabc4b1e18e28f38971839ec40d3"
   ],
   "titles": [
-    "\"Stadtbild\"-Äußerungen - Merz: Migranten sind \"unverzichtbarer Bestandteil\"",
-    "Wirtschaft - Lieferengpässe bei Halbleitern bereiten Industrie Sorgen",
-    "Ukraine-Krieg - Außenpolitiker von Union und Grünen begrüßen vorläufige Absage von Trump-Putin-Treffen",
-    "NATO-Generalsekretär - Rutte: Nur Trump kann Ende des Ukraine-Kriegs erreichen",
     "Brüssel - EU-Gipfel berät über Ukraine-Unterstützung und eigene Verteidigungsfähigkeit",
     "Nord-Stream-Anschlag - Italienisches Gericht berät erneut über Auslieferung von Verdächtigem",
     "Berlin - Bundesfinanzminister Klingbeil stellt heute Ergebnisse der Steuerschätzung vor",
@@ -3003,13 +2999,13 @@
     "USA - Längster \"Shutdown\" der Geschichte beendet - Trump unterschreibt den vom Kongress zuvor verabschiedeten Übergangshaushalt",
     "Bagdad - Bündnis von Regierungschef al-Sudani gewinnt Parlamentswahl im Irak",
     "USA - Ende des Shutdowns und neuer Ärger für Trump",
-    "Wirecard-Pleite - BGH entscheidet zu Aktionärs-Forderungen"
+    "Wirecard-Pleite - BGH entscheidet zu Aktionärs-Forderungen",
+    "Wirecard-Pleite - BGH weist Klage von Aktionären ab",
+    "USA - Boeing erstmals zu Schadenersatz für 737 MAX-Absturzopfer verurteilt",
+    "Bundestag - Debatte über Hightech Agenda Deutschland",
+    "Vollversammlung in Baltimore - US-Bischöfe kritisieren Trumps Migrationspolitik"
   ],
   "hashes": [
-    "788882c5f05a57265a419f47cd746aba",
-    "d610d5ced5a7e44d01f299642f75c633",
-    "b1352590f984795f19622dd21a470c09",
-    "79c2ee9e555bde36a4ac3651bd4f49e0",
     "09009177de068c704225cf7c5abb8fa5",
     "6296a2be9188ce7226afb95e97425cf4",
     "da9b6e452ff48f84f150c1aa53a065ca",
@@ -4005,6 +4001,10 @@
     "9e27f6323f442fa21bc588ba805861f9",
     "3fdf1d19bf12aa30c79d43712b69734b",
     "3535b70dd77709a75bbdf4355d249b52",
-    "bef7516af6e0c859b965bedb0fceb85b"
+    "bef7516af6e0c859b965bedb0fceb85b",
+    "bade9ceef2b7701ca2f5b369d691d287",
+    "a000aaa370f58229773afa433abe40b5",
+    "c317cfb6f3e8bafe6d2fa3631f3feb84",
+    "0eb2b4ac69ece64928bc685cbe0986a1"
   ]
 }
