@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/us-shutdown-warum-zahlen-wir-fuer-us-angestellte-110744342.html",
     "https://www.deutschlandfunk.de/aussenpolitiker-von-union-und-gruenen-begruessen-vorlaeufige-absage-des-trump-putin-treffens-100.html",
     "https://www.deutschlandfunk.de/kommunikationsbehoerde-schraenkt-erneut-messengerdienste-im-internet-ein-100.html",
     "https://www.spiegel.de/politik/friedrich-merz-kanzler-konkretisiert-stadtbild-aussage-zu-einwanderern-a-79710163-8edf-4bf6-9a59-4c276ddbbc2c#ref=rss",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/der-penny-ist-geschichte-us-muenzanstalten-haben-herstellung-der-legendaeren-1-cent-muenzen-eingeste-100.html",
     "https://www.deutschlandfunk.de/mit-ki-erstellte-taeuschend-echte-internet-shops-lka-und-verbraucherschuetzer-warnen-vor-betrugsmasc-100.html",
     "https://www.deutschlandfunk.de/haftbefehl-doku-im-schulunterricht-berlin-neukoellns-integrationsbeauftragte-balci-ist-dafuer-100.html",
-    "https://www.deutschlandfunk.de/bezirksregierung-hebt-dortmunder-brandmauer-beschluss-gegen-afd-als-rechtswidrig-auf-100.html"
+    "https://www.deutschlandfunk.de/bezirksregierung-hebt-dortmunder-brandmauer-beschluss-gegen-afd-als-rechtswidrig-auf-100.html",
+    "https://www.deutschlandfunk.de/laengster-shutdown-der-geschichte-beendet-trump-unterschreibt-den-vom-kongress-zuvor-verabschiedeten-100.html"
   ],
   "content_hashes": [
-    "b4242beace97ef8bdce22d4cb0909854",
     "42e189ec1e97134b3e24123b869658ec",
     "8c1b5cb73c274e10fd488a7143b13e85",
     "d66530293980803f7cadf338286c04d3",
@@ -2001,10 +2000,10 @@
     "c82d3de0109ad3e7e279e705f490307a",
     "bf9306bf59ba0053044970903ea25a51",
     "064406fdea131a364e9967b782a1b481",
-    "2bd5734b22f775c5f29cd32f338b5a4c"
+    "2bd5734b22f775c5f29cd32f338b5a4c",
+    "4a5249ea5a851b1638600618b485e965"
   ],
   "titles": [
-    "Folgen des Shutdowns: Warum zahlen wir für US-Angestellte?",
     "Ukraine-Krieg - Außenpolitiker von Union und Grünen begrüßen vorläufige Absage des Trump-Putin-Treffens",
     "Russland - Kommunikationsbehörde schränkt erneut Messengerdienste im Internet ein",
     "Friedrich Merz: Kanzler konkretisiert »Stadtbild«-Aussage zu Einwanderern",
@@ -3003,10 +3002,10 @@
     "Bargeld - Der \"Penny\" ist Geschichte - US-Münzanstalten haben Herstellung der legendären 1-Cent-Münzen eingestellt",
     "Fake-Shops - Mit KI erstellte täuschend echte Internet-Shops - LKA und Verbraucherschützer warnen vor Betrugsmaschen",
     "Deutschrapper Aykut Anhan - \"Haftbefehl\"-Doku im Schulunterricht - Berlin-Neuköllns Integrationsbeauftragte Balci ist dafür",
-    "Kommunalpolitik - Bezirksregierung hebt Dortmunder Brandmauer-Beschluss gegen AfD als rechtswidrig auf"
+    "Kommunalpolitik - Bezirksregierung hebt Dortmunder Brandmauer-Beschluss gegen AfD als rechtswidrig auf",
+    "USA - Längster \"Shutdown\" der Geschichte beendet - Trump unterschreibt den vom Kongress zuvor verabschiedeten Übergangshaushalt"
   ],
   "hashes": [
-    "33b830c02ce6ae8c95797b2c9315118b",
     "ef0ebf94d90e70dda126cf7c6efa108c",
     "8e83b9ac674cbdd006b0c8241685a9a3",
     "08e56d715077fad39f8f87cdc878c75c",
@@ -4005,6 +4004,7 @@
     "e28842fde40bb80fb7cf7d0e1184934b",
     "66ebf05f7e9ea4cbabe726d17e82e9fe",
     "e928539291be55ba33fd28c8a08d0904",
-    "47260c660d3a7806a590c07d4ab57ac2"
+    "47260c660d3a7806a590c07d4ab57ac2",
+    "9e27f6323f442fa21bc588ba805861f9"
   ]
 }
