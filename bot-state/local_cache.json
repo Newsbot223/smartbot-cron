@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-stellt-ergebnisse-der-steuerschaetzung-vor-102.html",
     "https://www.deutschlandfunk.de/us-militaer-greift-drogenschmuggler-boot-im-pazifik-an-100.html",
     "https://www.deutschlandfunk.de/kommunikationsbehoerde-schraenkt-zugang-zu-whatsapp-und-telegram-ein-100.html",
     "https://www.deutschlandfunk.de/vier-tote-bei-explosion-in-russischer-fabrik-im-ural-berichte-ueber-drohnenalarm-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/bundesforschungsministerin-baer-stellt-hightech-agenda-vor-104.html",
     "https://www.faz.net/aktuell/politik/inland/wer-bestellt-der-bezahlt-die-robin-hoods-der-republik-110777382.html",
     "https://www.deutschlandfunk.de/junge-union-schlaegt-hoehere-beitraege-fuer-kinderlose-vor-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-organspenden-in-deutschland-leicht-gestiegen-100.html"
+    "https://www.deutschlandfunk.de/zahl-der-organspenden-in-deutschland-leicht-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/bundesverfassungsgericht-urteilt-versammlungsfreiheit-hat-klare-grenzen-100.html"
   ],
   "content_hashes": [
-    "ae972d824d071c766ba12112ee2c6d95",
     "7f4651ba1ccfc27aa49f057f326f603a",
     "878d41a3071b7813e19e7826fa8a3df6",
     "822cb41875964e65cd68475d926cac40",
@@ -2001,10 +2000,10 @@
     "8dc51959a3089b86de4356e94add1141",
     "926b5023d6f79714f11ec4c00f30bf63",
     "831cc9bbb12b4248fdc4019599a2c759",
-    "231452597b2ceb19c67eeaa5de6d7366"
+    "231452597b2ceb19c67eeaa5de6d7366",
+    "2c189d060e89fc506b1f0e1c7cb4b98e"
   ],
   "titles": [
-    "Berlin - Bundesfinanzminister Klingbeil stellt Ergebnisse der Steuerschätzung vor",
     "Südamerika - US-Militär greift Drogenschmuggler-Boot im Pazifik an",
     "Russland - Kommunikationsbehörde schränkt Zugang zu WhatsApp und Telegram ein",
     "Russland - Vier Tote bei Explosion in russischer Fabrik im Ural - Berichte über Drohnenalarm",
@@ -3003,10 +3002,10 @@
     "Bundestag - Bundesforschungsministerin Bär stellt \"Hightech Agenda\" vor",
     "„Wer bestellt, der bezahlt“: Die Robin Hoods der Republik",
     "Rentenversicherung - Junge Union schlägt höhere Beiträge für Kinderlose vor",
-    "Medizin - Zahl der Organspenden in Deutschland leicht gestiegen"
+    "Medizin - Zahl der Organspenden in Deutschland leicht gestiegen",
+    "Justiz - Bundesverfassungsgericht urteilt: Versammlungsfreiheit hat klare Grenzen"
   ],
   "hashes": [
-    "60c2852009a3b291a4818e8918635c7e",
     "fa673120375afe091292d53bd5915d74",
     "860384f68a31db581dc1f2792ff73f0d",
     "b2bc6332e84d3dfd585789085662381b",
@@ -4005,6 +4004,7 @@
     "8f1ae327020aae4685d552bcab45f04c",
     "94178ef6e8a3734cebeca307cfa49825",
     "99f8fe42eaacddeec0caa90f9093ed42",
-    "641ec4e97354917092a542adb7062bdf"
+    "641ec4e97354917092a542adb7062bdf",
+    "c655c870d5206a4cba16474b765bb61d"
   ]
 }
