@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-militaer-greift-drogenschmuggler-boote-im-pazifik-an-fuenf-tote-100.html",
-    "https://www.deutschlandfunk.de/us-verteidigungsministerium-stellt-neue-presse-crew-vor-100.html",
-    "https://www.deutschlandfunk.de/evp-vorsitzender-weber-spricht-sich-erneut-fuer-verwendung-russischen-staatsvermoegens-aus-102.html",
     "https://www.deutschlandfunk.de/100-000-beschaeftigte-im-oeffentlichen-dienst-streiken-100.html",
     "https://www.deutschlandfunk.de/eu-gipfel-in-bruessel-106.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-praezisiert-aussagen-in-stadtbild-debatte-faz-110093143.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/neuer-wehrdienst-auf-was-sich-union-und-spd-geeinigt-haben-accg-110778405.html",
     "https://www.deutschlandfunk.de/mehrheit-fuer-klimaziel-fuer-2040-weitreichende-lockerungen-fuer-lieferkettengesetz-beschlossen-100.html",
     "https://www.deutschlandfunk.de/radikale-siedler-zuenden-moschee-an-und-verbrennen-korane-102.html",
-    "https://www.deutschlandfunk.de/schwarzarbeit-soll-besser-bekaempft-werden-114.html"
+    "https://www.deutschlandfunk.de/schwarzarbeit-soll-besser-bekaempft-werden-114.html",
+    "https://www.deutschlandfunk.de/mehrere-nato-staaten-finanzieren-us-waffen-fuer-ukraine-100.html",
+    "https://www.deutschlandfunk.de/bund-will-pflegeversicherung-mit-milliarden-darlehen-unterstuetzen-100.html",
+    "https://www.deutschlandfunk.de/polioviren-im-abwasser-in-hamburg-gefunden-100.html"
   ],
   "content_hashes": [
-    "89bb1ef1c8fd6d258ed545143be7ee54",
-    "4178a406d0f7672a057934a4259fcc24",
-    "9c120bf0728563b095c3820b543898f2",
     "a8eee159f5f1f32985387e59345f4b8e",
     "8257b477580d3baeb1737ecb7169f550",
     "b8ca472e07f9c6dcf2fd5b45506c390a",
@@ -2001,12 +1998,12 @@
     "47d3c2360ce680b961e7c202462d6fa7",
     "fd07537eb52f90fffda0600e5f7b1702",
     "1f818acf89a784aeaf36fc93a5567a9f",
-    "92ab6a15f5e944b2183d8966fcdb2167"
+    "92ab6a15f5e944b2183d8966fcdb2167",
+    "e7cf7ee179d55629e8f77a62e24a0668",
+    "7136900b515795f73cedaaf97c448dda",
+    "9f7b92cff61d778547e246dacb13e53a"
   ],
   "titles": [
-    "Südamerika - US-Militär greift Drogenschmuggler-Boote im Pazifik an - fünf Tote",
-    "Washington - US-Verteidigungsministerium stellt neue Presse-Crew vor",
-    "EU-Unterstützung der Ukraine - EVP-Vorsitzender Weber spricht sich erneut für Verwendung russischen Staatsvermögens aus",
     "Proteste gegen Regierung - 100.000 Beschäftigte im öffentlichen Dienst streiken",
     "EU-Gipfel in Brüssel - Merz will Wettbewerbsfähigkeit in den Fokus rücken",
     "Liveblog Bundespolitik: Merz präzisiert Aussagen zur „Stadtbild“-Debatte",
@@ -3003,12 +3000,12 @@
     "Neuer Wehrdienst: Auf was sich Union und SPD geeinigt haben",
     "EU-Parlament - Mehrheit für Klimaziel für 2040 - weitreichende Lockerungen für Lieferkettengesetz beschlossen",
     "Westjordanland - Radikale Siedler zünden Moschee an und verbrennen Korane",
-    "Bundestag - Schwarzarbeit soll besser bekämpft werden"
+    "Bundestag - Schwarzarbeit soll besser bekämpft werden",
+    "Militärhilfe - Mehrere NATO-Staaten finanzieren US-Waffen für Ukraine",
+    "Haushaltsausschuss des Bundestags - Bund will Pflegeversicherung mit Milliarden-Darlehen unterstützen",
+    "Seuchen - Polioviren im Abwasser in Hamburg gefunden"
   ],
   "hashes": [
-    "54cf0834eac560a62b843b1dee9e5b50",
-    "c08b252fd82726957e3f5eb827a9d75f",
-    "3d1dc5247f4aa6deb903202e498c5739",
     "dd5085606bf462baba8b0a9ebc4658b1",
     "a0ea140fae719f5a1d420be857e9fd78",
     "b85a5c909884394377202c39f8fee7cc",
@@ -4005,6 +4002,9 @@
     "c27e5c07c148ec86253efed57cc7a218",
     "a565c48233dae1e04ac7fd70ad9cadb6",
     "af970acbdbb6dd03f0a7b1cce3dba1d5",
-    "7ed71d7c1c3a7655542dc72e1d9b8be8"
+    "7ed71d7c1c3a7655542dc72e1d9b8be8",
+    "7b0d490693c023f7c85c57b1077764e5",
+    "49111784c0116675ef21a2d1ae30c7d3",
+    "2887c28a0dac8cd0063e372334cf46fd"
   ]
 }
