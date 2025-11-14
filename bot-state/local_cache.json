@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rheinmetall-steht-vor-satelliten-auftrag-der-bundeswehr-102.html",
-    "https://www.deutschlandfunk.de/soft-cell-musiker-dave-ball-gestorben-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zieht-trotz-fehlender-entscheidung-ueber-russland-gelder-positives-fazit-des-eu-gipfels-100.html",
     "https://www.deutschlandfunk.de/gewerkschaften-kuendigen-aktionen-gegen-sozialabbau-an-100.html",
     "https://www.spiegel.de/panorama/vogelgrippe-breitet-sich-weiter-aus-agrarminister-beraten-a-69690ed4-0eb5-49bd-b3ab-8b69264cebc6#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/supermarkt-bietet-arzttermine-zwischen-kaese-und-kasse-an-bundesweit-einzigartiges-projekt-gestartet-100.html",
     "https://www.deutschlandfunk.de/chinesen-bauen-beteiligung-an-mediamarkt-saturn-aus-100.html",
     "https://www.deutschlandfunk.de/chinas-taikonauten-wieder-auf-der-erde-104.html",
-    "https://www.faz.net/aktuell/politik/inland/mutmassliches-is-mitglied-in-duesseldorf-wegen-kriegsverbrechen-in-syrien-angeklagt-accg-110780682.html"
+    "https://www.faz.net/aktuell/politik/inland/mutmassliches-is-mitglied-in-duesseldorf-wegen-kriegsverbrechen-in-syrien-angeklagt-accg-110780682.html",
+    "https://www.deutschlandfunk.de/polizei-nimmt-mutmassliche-mitglieder-von-schleuserbande-fest-100.html",
+    "https://www.deutschlandfunk.de/macron-empfaengt-selenskyj-am-montag-in-paris-100.html"
   ],
   "content_hashes": [
-    "0c7db5772385a1c3808c799ec4670f50",
-    "1af4ed99c3b3d5898262530b4e6a11d3",
     "a7240e5dd2b84f0b41a0f184baeaa6fc",
     "97b4791410495edc92f39b496ba861a7",
     "9ca8f8d50a70a07a190ef94a956ea557",
@@ -2001,11 +1999,11 @@
     "acef762d9cdc4af83769879a8c871fb0",
     "f35c761662d2ec84c89394502b96e791",
     "2dfe89bc9032340d026df96e67927dea",
-    "ea34c7f0f9f4492db56825a8466a8ef7"
+    "ea34c7f0f9f4492db56825a8466a8ef7",
+    "d6be8f80ce33911377e5ce19f3ccd4a6",
+    "b0dadc08c9e52775224fb5e26997a89a"
   ],
   "titles": [
-    "Rüstungsindustrie - Rheinmetall steht vor Satelliten-Auftrag der Bundeswehr",
-    "\"Tainted Love\" - \"Soft Cell\"-Musiker Dave Ball gestorben",
     "Ukraine-Kriegl - Selenskyj zieht trotz fehlender Entscheidung über Russland-Gelder positives Fazit des EU-Gipfels",
     "IG Metall und Verdi - Gewerkschaften kündigen Aktionen gegen Sozialabbau an",
     "Vogelgrippe breitet sich weiter aus – Agrarminister beraten",
@@ -3003,11 +3001,11 @@
     "Wegen Medizinermangels - Supermarkt bietet Arzttermine zwischen Käse und Kasse an - bundesweit einzigartiges Projekt gestartet",
     "JD.com - Chinesen bauen Beteiligung an Mediamarkt-Saturn aus",
     "Rückkehr geglückt - Chinas Taikonauten wieder auf der Erde",
-    "Folter und Mord: Mutmaßliches IS-Mitglied wegen Kriegsverbrechen in Syrien angeklagt"
+    "Folter und Mord: Mutmaßliches IS-Mitglied wegen Kriegsverbrechen in Syrien angeklagt",
+    "Razzien - Polizei nimmt mutmaßliche Mitglieder von Schleuserbande fest",
+    "Ukraine-Krieg - Macron empfängt Selenskyj am Montag in Paris"
   ],
   "hashes": [
-    "f12571cf6a6ce59afc0e2b1614de1320",
-    "fb3a1bbb061f1eefe0169bd93ae9ce34",
     "3861c8e0b047311a69e9a1caca29e091",
     "abba2661a7b02dce2f48bd32815f0eac",
     "abead6bed401b8628abb21d08c97c0e7",
@@ -4005,6 +4003,8 @@
     "b4b2c2aa3f14131d8d1dd35f5ea8711d",
     "ab693ba9a44ff29e494c7fa831c5ca33",
     "958121ebc8846e59d75642ab7def15a7",
-    "7fa8b617f116c4591c75cd78c7a3c70a"
+    "7fa8b617f116c4591c75cd78c7a3c70a",
+    "a400bbe8479be882b00018c8a1b5a681",
+    "3530d5b5c4fd58157e2f2d6c918feebc"
   ]
 }
