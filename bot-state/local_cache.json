@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/umweltplakette-fuer-e-autos-soll-wegfallen-100.html",
-    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-zu-gespraechen-in-kiew-100.html",
     "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-in-budapest-auf-die-strasse-100.html",
     "https://www.faz.net/aktuell/politik/ausland/brandmauer-was-das-beispiel-oesterreich-lehrt-110745750.html",
     "https://www.deutschlandfunk.de/tuev-findet-mehr-schwere-maengel-an-autos-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/macron-empfaengt-selenskyj-am-montag-in-paris-100.html",
     "https://www.deutschlandfunk.de/gericht-bhp-group-verantwortlich-fuer-dammbruch-in-rueckhaltebecken-eines-eisenerzbergwerks-in-brasi-100.html",
     "https://www.deutschlandfunk.de/muenchen-weiter-teuerste-stadt-deutschlands-102.html",
-    "https://www.faz.net/aktuell/politik/fraktur/fraktur-afd-chef-chrupalla-ist-moskaus-liebster-malermeister-110780985.html"
+    "https://www.faz.net/aktuell/politik/fraktur/fraktur-afd-chef-chrupalla-ist-moskaus-liebster-malermeister-110780985.html",
+    "https://www.deutschlandfunk.de/unklare-bewertung-zu-entlastung-von-passagieren-102.html",
+    "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-im-laendle-brennt-die-huette-110781621.html"
   ],
   "content_hashes": [
-    "3eada2ffaca454c5b1d4a90df4108739",
-    "c887423160ee86cd615a299c925e2168",
     "5f5f1ee5afb5693b16f1da16f28a8910",
     "186bce1a9043a1f0fa27ac566b4d2467",
     "c4f7a749989b06b5de680b1090551fcd",
@@ -2001,11 +1999,11 @@
     "b0dadc08c9e52775224fb5e26997a89a",
     "1b1d8efccdb0400ca098516d4f51a909",
     "5d4f4ac50ac8d876a70f367a851762e1",
-    "cf0ddcf7c9861b7277c8d359920c06f8"
+    "cf0ddcf7c9861b7277c8d359920c06f8",
+    "990713961cef2f87d8d8b1bfeec48378",
+    "4fd910a16130cf822fdf0217386f1fc1"
   ],
   "titles": [
-    "Verkehr - Umweltplakette für E-Autos soll wegfallen",
-    "Ukraine - Bundeswirtschaftsministerin Reiche zu Gesprächen in Kiew",
     "Ungarischer Nationalfeiertag - Regierung und Opposition gehen in Budapest auf die Straße",
     "Umgang mit der AfD: Was Österreich in der Brandmauer-Frage lehrt – und was nicht",
     "Verkehrssicherheit - TÜV findet mehr schwere Mängel an Autos",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Macron empfängt Selenskyj am Montag in Paris",
     "London - Gericht: BHP Group verantwortlich für Dammbruch in Rückhaltebecken eines Eisenerzbergwerks in Brasilien",
     "Wohn- und Lebenshaltungskosten - München weiter teuerste Stadt Deutschlands",
-    "Fraktur: Putins liebster Pinsel"
+    "Fraktur: Putins liebster Pinsel",
+    "Ticketsteuer-Senkung - Unklare Bewertung zu Entlastung von Passagieren",
+    "Baden-Württemberg: Im Ländle brennt die Hütte"
   ],
   "hashes": [
-    "31582a94472bfade72ea6286978f872e",
-    "427164ac55828701826879bf29d89bb4",
     "05e9379e1a196d1086e9a7e8b9aec6ef",
     "b56b98ada079af0177dbd1e61d1a8b5e",
     "299f2500d453d5d3e6de1d886708fe8c",
@@ -4005,6 +4003,8 @@
     "3530d5b5c4fd58157e2f2d6c918feebc",
     "1c8236b634a37cfb6ad784ab22d0f3c5",
     "9a7f94fc93eb22c8adb0f8ec204232e2",
-    "1802e4383b3d2c8781bf4e77139727ec"
+    "1802e4383b3d2c8781bf4e77139727ec",
+    "d64f582e55ceb8e124b30865555df11c",
+    "a02e6cd53ee09ab9848a6472bd3c72ca"
   ]
 }
