@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-in-budapest-auf-die-strasse-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/brandmauer-was-das-beispiel-oesterreich-lehrt-110745750.html",
-    "https://www.deutschlandfunk.de/tuev-findet-mehr-schwere-maengel-an-autos-102.html",
     "https://www.spiegel.de/politik/deutschland/bundeswehr-mehrheit-lehnt-losverfahren-bei-der-wehrpflicht-ab-a-cd2a4537-dead-4d7c-a1c2-d4b859e578b9#ref=rss",
     "https://www.spiegel.de/wirtschaft/friedrich-merz-irritiert-bei-eu-gipfel-mit-aeusserung-zu-mercosur-deal-a-b9d722d8-706a-4be6-b388-34e550519fd5#ref=rss",
     "https://www.deutschlandfunk.de/sinologin-shi-kupfer-eu-muss-diversifizierung-vorantreiben-china-am-laengeren-hebel-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/muenchen-weiter-teuerste-stadt-deutschlands-102.html",
     "https://www.faz.net/aktuell/politik/fraktur/fraktur-afd-chef-chrupalla-ist-moskaus-liebster-malermeister-110780985.html",
     "https://www.deutschlandfunk.de/unklare-bewertung-zu-entlastung-von-passagieren-102.html",
-    "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-im-laendle-brennt-die-huette-110781621.html"
+    "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-im-laendle-brennt-die-huette-110781621.html",
+    "https://www.deutschlandfunk.de/mareika-wulf-zur-kinderbeauftragten-der-bundesregierung-ernannt-100.html",
+    "https://www.deutschlandfunk.de/nokia-baut-stellen-ab-standort-muenchen-soll-2030-schliessen-100.html",
+    "https://www.deutschlandfunk.de/studie-deutsche-putzen-zaehne-oft-genug-aber-nicht-ausreichend-gruendlich-102.html"
   ],
   "content_hashes": [
-    "5f5f1ee5afb5693b16f1da16f28a8910",
-    "186bce1a9043a1f0fa27ac566b4d2467",
-    "c4f7a749989b06b5de680b1090551fcd",
     "7f53d6c8893306e0c34edd2cc9078a15",
     "b16f37460313234691e8dd02e8238bf3",
     "f588116d958d0f4a96f7d2c821f505a3",
@@ -2001,12 +1998,12 @@
     "5d4f4ac50ac8d876a70f367a851762e1",
     "cf0ddcf7c9861b7277c8d359920c06f8",
     "990713961cef2f87d8d8b1bfeec48378",
-    "4fd910a16130cf822fdf0217386f1fc1"
+    "4fd910a16130cf822fdf0217386f1fc1",
+    "a1e7904ccb675e4000f2dea094e1e183",
+    "86125f9c7b6e4b182427381845031a5a",
+    "26e6c253084828bf2a9176154aae9e07"
   ],
   "titles": [
-    "Ungarischer Nationalfeiertag - Regierung und Opposition gehen in Budapest auf die Straße",
-    "Umgang mit der AfD: Was Österreich in der Brandmauer-Frage lehrt – und was nicht",
-    "Verkehrssicherheit - TÜV findet mehr schwere Mängel an Autos",
     "Bundeswehr: Mehrheit lehnt Losverfahren bei der Wehrpflicht ab",
     "Friedrich Merz irritiert bei EU-Gipfel mit Äußerung zu Mercosur-Deal",
     "Seltene Erden - Sinologin Shi-Kupfer: EU muss Diversifizierung vorantreiben - \"China am längeren Hebel\"",
@@ -3003,12 +3000,12 @@
     "Wohn- und Lebenshaltungskosten - München weiter teuerste Stadt Deutschlands",
     "Fraktur: Putins liebster Pinsel",
     "Ticketsteuer-Senkung - Unklare Bewertung zu Entlastung von Passagieren",
-    "Baden-Württemberg: Im Ländle brennt die Hütte"
+    "Baden-Württemberg: Im Ländle brennt die Hütte",
+    "Schutz und Förderung - Mareika Wulf zur Kinderbeauftragten der Bundesregierung ernannt",
+    "Finnischer Konzern - Nokia baut Stellen ab - Standort München soll 2030 schließen",
+    "Universität Gießen - Studie: Deutsche putzen Zähne oft genug - aber nicht ausreichend gründlich"
   ],
   "hashes": [
-    "05e9379e1a196d1086e9a7e8b9aec6ef",
-    "b56b98ada079af0177dbd1e61d1a8b5e",
-    "299f2500d453d5d3e6de1d886708fe8c",
     "d9a1d67985cb2be20945bfeeca4bc664",
     "1995fbb0b0f1353cae4aad8a1edaffa2",
     "476d3f0801f7728cc4c03dcc8befa00c",
@@ -4005,6 +4002,9 @@
     "9a7f94fc93eb22c8adb0f8ec204232e2",
     "1802e4383b3d2c8781bf4e77139727ec",
     "d64f582e55ceb8e124b30865555df11c",
-    "a02e6cd53ee09ab9848a6472bd3c72ca"
+    "a02e6cd53ee09ab9848a6472bd3c72ca",
+    "2f2ff16ce796342942d7be7542303d9a",
+    "a578e3bb96d17c84f2597aec0be72168",
+    "6e1cccff570dc0b72f7c135e8c989101"
   ]
 }
