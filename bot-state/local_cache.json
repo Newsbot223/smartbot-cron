@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-zieht-trotz-fehlender-entscheidung-ueber-russland-gelder-positives-fazit-des-eu-gipfels-100.html",
-    "https://www.deutschlandfunk.de/gewerkschaften-kuendigen-aktionen-gegen-sozialabbau-an-100.html",
-    "https://www.spiegel.de/panorama/vogelgrippe-breitet-sich-weiter-aus-agrarminister-beraten-a-69690ed4-0eb5-49bd-b3ab-8b69264cebc6#ref=rss",
     "https://www.deutschlandfunk.de/umweltplakette-fuer-e-autos-soll-wegfallen-100.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-zu-gespraechen-in-kiew-100.html",
     "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-in-budapest-auf-die-strasse-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/chinas-taikonauten-wieder-auf-der-erde-104.html",
     "https://www.faz.net/aktuell/politik/inland/mutmassliches-is-mitglied-in-duesseldorf-wegen-kriegsverbrechen-in-syrien-angeklagt-accg-110780682.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-mutmassliche-mitglieder-von-schleuserbande-fest-100.html",
-    "https://www.deutschlandfunk.de/macron-empfaengt-selenskyj-am-montag-in-paris-100.html"
+    "https://www.deutschlandfunk.de/macron-empfaengt-selenskyj-am-montag-in-paris-100.html",
+    "https://www.deutschlandfunk.de/gericht-bhp-group-verantwortlich-fuer-dammbruch-in-rueckhaltebecken-eines-eisenerzbergwerks-in-brasi-100.html",
+    "https://www.deutschlandfunk.de/muenchen-weiter-teuerste-stadt-deutschlands-102.html",
+    "https://www.faz.net/aktuell/politik/fraktur/fraktur-afd-chef-chrupalla-ist-moskaus-liebster-malermeister-110780985.html"
   ],
   "content_hashes": [
-    "a7240e5dd2b84f0b41a0f184baeaa6fc",
-    "97b4791410495edc92f39b496ba861a7",
-    "9ca8f8d50a70a07a190ef94a956ea557",
     "3eada2ffaca454c5b1d4a90df4108739",
     "c887423160ee86cd615a299c925e2168",
     "5f5f1ee5afb5693b16f1da16f28a8910",
@@ -2001,12 +1998,12 @@
     "2dfe89bc9032340d026df96e67927dea",
     "ea34c7f0f9f4492db56825a8466a8ef7",
     "d6be8f80ce33911377e5ce19f3ccd4a6",
-    "b0dadc08c9e52775224fb5e26997a89a"
+    "b0dadc08c9e52775224fb5e26997a89a",
+    "1b1d8efccdb0400ca098516d4f51a909",
+    "5d4f4ac50ac8d876a70f367a851762e1",
+    "cf0ddcf7c9861b7277c8d359920c06f8"
   ],
   "titles": [
-    "Ukraine-Kriegl - Selenskyj zieht trotz fehlender Entscheidung über Russland-Gelder positives Fazit des EU-Gipfels",
-    "IG Metall und Verdi - Gewerkschaften kündigen Aktionen gegen Sozialabbau an",
-    "Vogelgrippe breitet sich weiter aus – Agrarminister beraten",
     "Verkehr - Umweltplakette für E-Autos soll wegfallen",
     "Ukraine - Bundeswirtschaftsministerin Reiche zu Gesprächen in Kiew",
     "Ungarischer Nationalfeiertag - Regierung und Opposition gehen in Budapest auf die Straße",
@@ -3003,12 +3000,12 @@
     "Rückkehr geglückt - Chinas Taikonauten wieder auf der Erde",
     "Folter und Mord: Mutmaßliches IS-Mitglied wegen Kriegsverbrechen in Syrien angeklagt",
     "Razzien - Polizei nimmt mutmaßliche Mitglieder von Schleuserbande fest",
-    "Ukraine-Krieg - Macron empfängt Selenskyj am Montag in Paris"
+    "Ukraine-Krieg - Macron empfängt Selenskyj am Montag in Paris",
+    "London - Gericht: BHP Group verantwortlich für Dammbruch in Rückhaltebecken eines Eisenerzbergwerks in Brasilien",
+    "Wohn- und Lebenshaltungskosten - München weiter teuerste Stadt Deutschlands",
+    "Fraktur: Putins liebster Pinsel"
   ],
   "hashes": [
-    "3861c8e0b047311a69e9a1caca29e091",
-    "abba2661a7b02dce2f48bd32815f0eac",
-    "abead6bed401b8628abb21d08c97c0e7",
     "31582a94472bfade72ea6286978f872e",
     "427164ac55828701826879bf29d89bb4",
     "05e9379e1a196d1086e9a7e8b9aec6ef",
@@ -4005,6 +4002,9 @@
     "958121ebc8846e59d75642ab7def15a7",
     "7fa8b617f116c4591c75cd78c7a3c70a",
     "a400bbe8479be882b00018c8a1b5a681",
-    "3530d5b5c4fd58157e2f2d6c918feebc"
+    "3530d5b5c4fd58157e2f2d6c918feebc",
+    "1c8236b634a37cfb6ad784ab22d0f3c5",
+    "9a7f94fc93eb22c8adb0f8ec204232e2",
+    "1802e4383b3d2c8781bf4e77139727ec"
   ]
 }
