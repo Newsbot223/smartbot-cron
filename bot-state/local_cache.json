@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-von-aschaffenburg-drei-gaertner-kamen-mit-mistgabeln-110746112.html",
-    "https://www.deutschlandfunk.de/selenskyj-dringt-auf-rasche-entscheidung-ueber-russisches-vermoegen-neue-eu-sanktionen-gegen-moskau--100.html",
     "https://www.deutschlandfunk.de/warnung-vor-vogelgrippe-in-bisher-nicht-bekanntem-ausmass-100.html",
     "https://www.deutschlandfunk.de/regierung-und-opposition-gehen-auf-die-strasse-102.html",
     "https://www.faz.net/aktuell/politik/ausland/frank-walter-steinmeier-besucht-brenner-baustelle-in-oesterreich-110746342.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/fridays-for-future-ruft-zu-klimaprotesten-auf-100.html",
     "https://www.deutschlandfunk.de/usa-kuendigen-militaeroperation-gegen-drogenhaendler-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-gruene-kritik-und-luftfahrt-lob-fuer-schwarz-rote-beschluesse-accg-110780155.html",
-    "https://www.deutschlandfunk.de/bundeshaushalt-fuer-2026-steht-100.html"
+    "https://www.deutschlandfunk.de/bundeshaushalt-fuer-2026-steht-100.html",
+    "https://www.deutschlandfunk.de/fliegen-soll-wieder-billiger-werden-100.html",
+    "https://www.deutschlandfunk.de/trump-ultimatum-bbc-zahlt-keine-entschaedigung-102.html"
   ],
   "content_hashes": [
-    "596ade762c3197d2f16a40ed8ac53114",
-    "d8febc248c8054618cb3727df4d98593",
     "53d91aad5f7dda0a113b00262d66a40f",
     "2e2ac983fb172ba9accaa4fc8c782b80",
     "ca27e132781605d6c62f2ae32149a703",
@@ -2001,11 +1999,11 @@
     "50ebf44a9ae4e189c0199fce1a3df86f",
     "5e381d4dc021facd0d6fb57850084737",
     "0b8daa88160796b4477cc8d66680bac3",
-    "396cc7c463814173cae2e00edc9c3c0c"
+    "396cc7c463814173cae2e00edc9c3c0c",
+    "e2b684ec9026d7fa493a22103d1f12e3",
+    "e6d006aa0e8977f872f878f5dcfe7b1b"
   ],
   "titles": [
-    "Angriff von Aschaffenburg: Drei Gärtner kamen mit Mistgabeln",
-    "EU-Gipfel in Brüssel - Selenskyj dringt auf rasche Entscheidung über russisches Vermögen - neue EU-Sanktionen gegen Moskau in Kraft getreten",
     "2.000 Kraniche verendet - Warnung vor Vogelgrippe in bisher nicht bekanntem Ausmaß",
     "Ungarischer Nationalfeiertag - Regierung und Opposition gehen auf die Straße",
     "Steinmeier am Brenner: Ein Wink aus dem Tunnel nach Berlin",
@@ -3003,11 +3001,11 @@
     "Klimaschutz - \"Fridays for Future\" ruft zu Klimaprotesten auf",
     "Lateinamerika - USA kündigen Militäroperation gegen Drogenhändler an",
     "Koalitionsausschuss: Grüne Kritik und Luftfahrt-Lob für schwarz-rote Beschlüsse",
-    "Finanzen - Bundeshaushalt für 2026 steht"
+    "Finanzen - Bundeshaushalt für 2026 steht",
+    "Ticketsteuer-Senkung - Fliegen soll wieder billiger werden",
+    "Streit um TV-Doku - BBC zahlt Trump keine Entschädigung"
   ],
   "hashes": [
-    "aab5db17db6c699d58b5edf9acaa3049",
-    "062a14d675910280904f43f3f16d13c1",
     "75d807282bc3a6b55476c3c7eb06f3ac",
     "8ce1fa110f6bef14d99c032249e8cee0",
     "30a8c55443a9a9071f838ed20c9f5e2a",
@@ -4005,6 +4003,8 @@
     "7fde6c07d5b89ca553f23407eb154b4e",
     "e17c747ac46a16300597ea9b4e760517",
     "897205f206565528857fc62a8462b65d",
-    "598db77029d239cdd9eaf20bb35361b5"
+    "598db77029d239cdd9eaf20bb35361b5",
+    "136617f028d4b6be56045151116634a9",
+    "1e0166220c99c43d566af291a6e51bd8"
   ]
 }
