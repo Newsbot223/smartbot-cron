@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gefaengnisbetreiber-muss-40-millionen-dollar-fuer-haeftlingstod-zahlen-100.html",
-    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-sagt-kiew-weitere-hilfe-beim-wiederaufbau-der-energie-infrastrukt-102.html",
     "https://www.spiegel.de/panorama/wetter-in-deutschland-sturmtief-joshua-fordert-einsatzkraefte-heftige-orkanboeen-an-der-nordseekueste-erwartet-a-80529274-0393-44d9-9fdb-b005661195da#ref=rss",
     "https://www.deutschlandfunk.de/mit-luftgewehr-auf-autos-geschossen-haftbefehl-wegen-mordversuchs-in-22-faellen-gegen-mutmasslichen--100.html",
     "https://www.deutschlandfunk.de/keine-produktionsstopps-bei-volkswagen-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-so-wollen-junge-politiker-das-land-gestalten-110779252.html",
     "https://www.deutschlandfunk.de/saarlaendische-ministerpraesidentin-rehlinger-bleibt-spd-landeschefin-102.html",
     "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-tritt-in-den-hungerstreik-100.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-dass-junge-ukrainer-zu-hause-bleiben-a-84f78f4d-3b7d-4a48-b4f0-75c14db4a3c7#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-dass-junge-ukrainer-zu-hause-bleiben-a-84f78f4d-3b7d-4a48-b4f0-75c14db4a3c7#ref=rss",
+    "https://www.deutschlandfunk.de/koelner-hauptbahnhof-zehn-tage-gesperrt-zentraler-knotenpunkt-fuer-den-bahnverkehr-im-westen-100.html",
+    "https://www.spiegel.de/politik/afd-putin-treibt-einen-keil-zwischen-alice-weidel-und-tino-chrupalla-a-e0ce5940-f24c-47e9-a58a-3802708ba88d#ref=rss"
   ],
   "content_hashes": [
-    "713954a8c5623da64e8f650be8f26eb1",
-    "698cf399b0f6948accebe587c4596b6f",
     "13b5e41afc8038eec15101bb82422e87",
     "8c3a5ac9e8f2ad5d36e95be73ecae42e",
     "335dab5475c0e13268af666dd0e2ef88",
@@ -2001,11 +1999,11 @@
     "0bcc15e916f869644d60f16c388091d9",
     "f0da5c0a936a76e4655dd3a553c6240c",
     "c25150c75aba472faa3ab980db4f0abd",
-    "f3c746a0f09a6318ded4834fa30d409c"
+    "f3c746a0f09a6318ded4834fa30d409c",
+    "d69c8690ec7335ca6acc8a09f30d5164",
+    "f5779ccfb4c8c2620151fc9237198224"
   ],
   "titles": [
-    "USA - Gefängnisbetreiber muss 40 Millionen Dollar für Häftlingstod zahlen",
-    "Besuch in Kiew - Bundeswirtschaftsministerin Reiche sagt Kiew weitere Hilfe beim Wiederaufbau der Energie-Infrastruktur zu",
     "Wetter in Deutschland: Sturmtief »Joshua« fordert Einsatzkräfte – heftige Orkanböen an der Nordseeküste erwartet",
     "Bayern - Mit Luftgewehr auf Autos geschossen - Haftbefehl wegen Mordversuchs in 22 Fällen gegen mutmaßlichen IS-Sympathisanten",
     "Chip-Lieferengpass - Keine Produktionsstopps bei Volkswagen",
@@ -3003,11 +3001,11 @@
     "Die Zukunft der Politik: So wollen junge Politiker Deutschland gestalten",
     "Fast 100 Prozent - Saarländische Ministerpräsidentin Rehlinger bleibt SPD-Landeschefin",
     "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala tritt in den Hungerstreik",
-    "Friedrich Merz will, dass junge Ukrainer zu Hause bleiben"
+    "Friedrich Merz will, dass junge Ukrainer zu Hause bleiben",
+    "Bauarbeiten - Kölner Hauptbahnhof zehn Tage gesperrt - Zentraler Knotenpunkt für den Bahnverkehr im Westen",
+    "AfD: Putin treibt einen Keil zwischen Alice Weidel und Tino Chrupalla"
   ],
   "hashes": [
-    "f9ab888cc7928452d320ed28c1c2e009",
-    "0cae609329e019b788bc6df93f806e73",
     "171eae29d763f10e5ea28613f8a836e8",
     "0dae37550a1fa72426ec0df373078734",
     "0450995a6f47c36fb818596259867bb2",
@@ -4005,6 +4003,8 @@
     "48f7510118dab82671756f51c0dee616",
     "8b53163d84bde974aa82669ca09d1c9b",
     "f757ee6aa4b33ea7f3dcee31e92f13fe",
-    "48541bbe0581fd10577d84d73da58603"
+    "48541bbe0581fd10577d84d73da58603",
+    "0c44b91d0159478799c3ce317709f5ae",
+    "2962403e6fe8d6102e237a0bb2528fe0"
   ]
 }
