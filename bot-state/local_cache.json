@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/brasiliens-praesident-lula-strebt-vierte-amtszeit-an-100.html",
     "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/angriff-von-aschaffenburg-drei-gaertner-kamen-mit-mistgabeln-110746112.html",
     "https://www.deutschlandfunk.de/selenskyj-dringt-auf-rasche-entscheidung-ueber-russisches-vermoegen-neue-eu-sanktionen-gegen-moskau--100.html",
     "https://www.deutschlandfunk.de/warnung-vor-vogelgrippe-in-bisher-nicht-bekanntem-ausmass-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-kiew-106.html",
     "https://www.deutschlandfunk.de/fridays-for-future-ruft-zu-klimaprotesten-auf-100.html",
     "https://www.deutschlandfunk.de/usa-kuendigen-militaeroperation-gegen-drogenhaendler-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-gruene-kritik-und-luftfahrt-lob-fuer-schwarz-rote-beschluesse-accg-110780155.html"
+    "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-gruene-kritik-und-luftfahrt-lob-fuer-schwarz-rote-beschluesse-accg-110780155.html",
+    "https://www.deutschlandfunk.de/bundeshaushalt-fuer-2026-steht-100.html"
   ],
   "content_hashes": [
-    "2bcbe8b0a36f264aa47c443c6c673e27",
     "596ade762c3197d2f16a40ed8ac53114",
     "d8febc248c8054618cb3727df4d98593",
     "53d91aad5f7dda0a113b00262d66a40f",
@@ -2001,10 +2000,10 @@
     "76e832ebdfb61202ca4c4a069bceeab9",
     "50ebf44a9ae4e189c0199fce1a3df86f",
     "5e381d4dc021facd0d6fb57850084737",
-    "0b8daa88160796b4477cc8d66680bac3"
+    "0b8daa88160796b4477cc8d66680bac3",
+    "396cc7c463814173cae2e00edc9c3c0c"
   ],
   "titles": [
-    "Südamerika - Brasiliens Präsident Lula strebt vierte Amtszeit an",
     "Angriff von Aschaffenburg: Drei Gärtner kamen mit Mistgabeln",
     "EU-Gipfel in Brüssel - Selenskyj dringt auf rasche Entscheidung über russisches Vermögen - neue EU-Sanktionen gegen Moskau in Kraft getreten",
     "2.000 Kraniche verendet - Warnung vor Vogelgrippe in bisher nicht bekanntem Ausmaß",
@@ -3003,10 +3002,10 @@
     "Ukraine-Krieg - Neue russische Angriffe auf Kiew",
     "Klimaschutz - \"Fridays for Future\" ruft zu Klimaprotesten auf",
     "Lateinamerika - USA kündigen Militäroperation gegen Drogenhändler an",
-    "Koalitionsausschuss: Grüne Kritik und Luftfahrt-Lob für schwarz-rote Beschlüsse"
+    "Koalitionsausschuss: Grüne Kritik und Luftfahrt-Lob für schwarz-rote Beschlüsse",
+    "Finanzen - Bundeshaushalt für 2026 steht"
   ],
   "hashes": [
-    "bc460273f0ed6e4cb735b2f568ea9e82",
     "aab5db17db6c699d58b5edf9acaa3049",
     "062a14d675910280904f43f3f16d13c1",
     "75d807282bc3a6b55476c3c7eb06f3ac",
@@ -4005,6 +4004,7 @@
     "fba07f47c50dafe24b4c643f8aa049bb",
     "7fde6c07d5b89ca553f23407eb154b4e",
     "e17c747ac46a16300597ea9b4e760517",
-    "897205f206565528857fc62a8462b65d"
+    "897205f206565528857fc62a8462b65d",
+    "598db77029d239cdd9eaf20bb35361b5"
   ]
 }
