@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/keine-entscheidung-ueber-eingefrorenes-russisches-vermoegen-104.html",
-    "https://www.deutschlandfunk.de/treffen-der-koalition-der-willigen-100.html",
-    "https://www.deutschlandfunk.de/merz-us-sanktionen-betreffen-rosneft-deutschland-nicht-100.html",
-    "https://www.deutschlandfunk.de/trump-schickt-vorerst-keine-nationalgarde-nach-san-francisco-100.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-verlagerung-des-drogenhandels-nach-deutschland-100.html",
     "https://www.deutschlandfunk.de/merz-einigung-auf-ratifizierung-des-mercosur-abkommens-macron-widerspricht-100.html",
     "https://www.deutschlandfunk.de/15-000-tiere-in-gefluegelhof-in-baden-wuerttemberg-gekeult-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/junge-union-bekraeftigt-nein-zu-rentenpaket-des-bundeskabinetts-100.html",
     "https://www.deutschlandfunk.de/erste-lesung-der-sogenannten-aktivrente-steht-an-106.html",
     "https://www.deutschlandfunk.de/koelner-hauptbahnhof-wird-mehrere-tage-fuer-fernverkehr-gesperrt-100.html",
-    "https://www.faz.net/aktuell/rhein-main/vor-gruendung-von-afd-jugend-mitarbeiter-der-messe-giessen-angefeindet-accg-110780300.html"
+    "https://www.faz.net/aktuell/rhein-main/vor-gruendung-von-afd-jugend-mitarbeiter-der-messe-giessen-angefeindet-accg-110780300.html",
+    "https://www.deutschlandfunk.de/erste-lesung-zur-aktivrente-im-bundestag-100.html",
+    "https://www.deutschlandfunk.de/iw-studie-attraktivitaet-des-wehrdienstes-wird-entscheidend-sein-100.html",
+    "https://www.deutschlandfunk.de/berliner-gespraech-haushaltsausschuss-beraet-abschliessend-ueber-etat-100.html",
+    "https://www.faz.net/aktuell/politik/inland/stuttgart-bueros-der-staatsanwaltschaft-nach-schuessen-in-tamm-durchsucht-accg-110780442.html"
   ],
   "content_hashes": [
-    "84b5ec6b8bc918a169b57b6f60936945",
-    "4f803116819e725abfe1a3d5377d6883",
-    "8950491873197db25fe8366fe064fbd5",
-    "dfb25031b291d17d3dc81702188cda5a",
     "565a3221b773aa0d5f639f1b18021c7d",
     "e58d78d96181bbeb6113bad139efd8e7",
     "8e415bc72b447d57518945e8785a1b1a",
@@ -2001,13 +1997,13 @@
     "2f4ef4ad816626bb23fbbccaa26d6652",
     "9710b8c797ff653bfdbe0c9f28f67b0c",
     "8d4080576cf37ca73ebde5c217ad1ff1",
-    "ec34e0282c8e9e3d28330361e790d529"
+    "ec34e0282c8e9e3d28330361e790d529",
+    "147fb6b5d90f5bea5632d08e450a73af",
+    "8af64ff54f3ee704cbff8d57d0829ded",
+    "cb41819bc0bf8ad3918c6ce083c385ce",
+    "c7a60ee4ba8a4d085f2132a358fbeac4"
   ],
   "titles": [
-    "EU-Gipfel in Brüssel - Keine Entscheidung über eingefrorenes russisches Vermögen",
-    "Ukraine - Treffen der Koalition der Willigen",
-    "US-Strafmaßnahmen gegen Russland - Merz: US-Sanktionen betreffen Rosneft-Deutschland nicht",
-    "USA - Trump schickt vorerst keine Nationalgarde nach San Francisco",
     "Kriminalität - Drogenbeauftragter Streeck warnt vor Verlagerung des Drogenhandels nach Deutschland",
     "EU-Gipfel - Merz: Einigung auf Ratifizierung des Mercosur-Abkommens - Macron widerspricht",
     "Vogelgrippe - 15.000 Tiere in Geflügelhof in Baden-Württemberg gekeult",
@@ -3003,13 +2999,13 @@
     "Vor JU-Jahreskongress - Junge Union bekräftigt Nein zu Rentenpaket des Bundeskabinetts",
     "Bundestag - Erste Lesung der sogenannten Aktivrente steht an",
     "Bauarbeiten - Kölner Hauptbahnhof wird mehrere Tage für Fernverkehr gesperrt",
-    "Aufruhr in Gießen: Anfeindungen gegen Messe-Mitarbeiter wegen AfD-Vermietung"
+    "Aufruhr in Gießen: Anfeindungen gegen Messe-Mitarbeiter wegen AfD-Vermietung",
+    "Arbeiten im Alter - Erste Lesung zur \"Aktivrente\" im Bundestag",
+    "Bundeswehr - IW-Studie: Attraktivität des Wehrdienstes wird entscheidend sein",
+    "Bundesetat 2026 - Neuverschuldung höher als ursprünglich geplant",
+    "Nach Schüssen in Tamm: Büros der Stuttgarter Staatsanwaltschaft durchsucht"
   ],
   "hashes": [
-    "32ee06bc17fd96433ce171b8699169ae",
-    "0ecf04ecce131fe5b9bd4249e05344ec",
-    "c50426a9000679ce0b1b083ee0107776",
-    "ef7286c964d8873d1a87c614121410c6",
     "d9e9badc3f607c6fb9974bd6a8df1a19",
     "bea07d8f2404fc0eb9f5b7842c11bc85",
     "34512b541dcfa2e34af40806aed77e9e",
@@ -4005,6 +4001,10 @@
     "04707bb7c2fe264b0f1ea25a53cca3c0",
     "0eb144b48dace94ca138d4a22f0e834e",
     "d0cbb0ff7ce165aa1da54d149c0cce7b",
-    "5f45d19d2b4244eb39f92cc7f8fbeee8"
+    "5f45d19d2b4244eb39f92cc7f8fbeee8",
+    "f8ebfcf9117fc5f9405decf8b74db110",
+    "75ca7fa667568386c87d4cc07b849ee2",
+    "2beb483238ca951ad5390bcc163be4c0",
+    "913cb206b172113ccf4bd31ec4a8b244"
   ]
 }
