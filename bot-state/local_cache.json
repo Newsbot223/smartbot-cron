@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-verlagerung-des-drogenhandels-nach-deutschland-100.html",
-    "https://www.deutschlandfunk.de/merz-einigung-auf-ratifizierung-des-mercosur-abkommens-macron-widerspricht-100.html",
-    "https://www.deutschlandfunk.de/15-000-tiere-in-gefluegelhof-in-baden-wuerttemberg-gekeult-102.html",
     "https://www.deutschlandfunk.de/trump-bricht-handelsgespraeche-mit-kanada-ab-116.html",
     "https://www.deutschlandfunk.de/rheinmetall-steht-vor-satelliten-auftrag-der-bundeswehr-102.html",
     "https://www.deutschlandfunk.de/soft-cell-musiker-dave-ball-gestorben-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/erste-lesung-zur-aktivrente-im-bundestag-100.html",
     "https://www.deutschlandfunk.de/iw-studie-attraktivitaet-des-wehrdienstes-wird-entscheidend-sein-100.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-haushaltsausschuss-beraet-abschliessend-ueber-etat-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-bueros-der-staatsanwaltschaft-nach-schuessen-in-tamm-durchsucht-accg-110780442.html"
+    "https://www.faz.net/aktuell/politik/inland/stuttgart-bueros-der-staatsanwaltschaft-nach-schuessen-in-tamm-durchsucht-accg-110780442.html",
+    "https://www.deutschlandfunk.de/supermarkt-bietet-arzttermine-zwischen-kaese-und-kasse-an-bundesweit-einzigartiges-projekt-gestartet-100.html",
+    "https://www.deutschlandfunk.de/chinesen-bauen-beteiligung-an-mediamarkt-saturn-aus-100.html",
+    "https://www.deutschlandfunk.de/chinas-taikonauten-wieder-auf-der-erde-104.html"
   ],
   "content_hashes": [
-    "565a3221b773aa0d5f639f1b18021c7d",
-    "e58d78d96181bbeb6113bad139efd8e7",
-    "8e415bc72b447d57518945e8785a1b1a",
     "e8f044b95ffacf7e72cb40dfb842866e",
     "0c7db5772385a1c3808c799ec4670f50",
     "1af4ed99c3b3d5898262530b4e6a11d3",
@@ -2001,12 +1998,12 @@
     "147fb6b5d90f5bea5632d08e450a73af",
     "8af64ff54f3ee704cbff8d57d0829ded",
     "cb41819bc0bf8ad3918c6ce083c385ce",
-    "c7a60ee4ba8a4d085f2132a358fbeac4"
+    "c7a60ee4ba8a4d085f2132a358fbeac4",
+    "acef762d9cdc4af83769879a8c871fb0",
+    "f35c761662d2ec84c89394502b96e791",
+    "2dfe89bc9032340d026df96e67927dea"
   ],
   "titles": [
-    "Kriminalität - Drogenbeauftragter Streeck warnt vor Verlagerung des Drogenhandels nach Deutschland",
-    "EU-Gipfel - Merz: Einigung auf Ratifizierung des Mercosur-Abkommens - Macron widerspricht",
-    "Vogelgrippe - 15.000 Tiere in Geflügelhof in Baden-Württemberg gekeult",
     "USA - Trump bricht Handelsgespräche mit Kanada ab",
     "Rüstungsindustrie - Rheinmetall steht vor Satelliten-Auftrag der Bundeswehr",
     "\"Tainted Love\" - \"Soft Cell\"-Musiker Dave Ball gestorben",
@@ -3003,12 +3000,12 @@
     "Arbeiten im Alter - Erste Lesung zur \"Aktivrente\" im Bundestag",
     "Bundeswehr - IW-Studie: Attraktivität des Wehrdienstes wird entscheidend sein",
     "Bundesetat 2026 - Neuverschuldung höher als ursprünglich geplant",
-    "Nach Schüssen in Tamm: Büros der Stuttgarter Staatsanwaltschaft durchsucht"
+    "Nach Schüssen in Tamm: Büros der Stuttgarter Staatsanwaltschaft durchsucht",
+    "Wegen Medizinermangels - Supermarkt bietet Arzttermine zwischen Käse und Kasse an - bundesweit einzigartiges Projekt gestartet",
+    "JD.com - Chinesen bauen Beteiligung an Mediamarkt-Saturn aus",
+    "Rückkehr geglückt - Chinas Taikonauten wieder auf der Erde"
   ],
   "hashes": [
-    "d9e9badc3f607c6fb9974bd6a8df1a19",
-    "bea07d8f2404fc0eb9f5b7842c11bc85",
-    "34512b541dcfa2e34af40806aed77e9e",
     "c97a15fb83bf453035bcb46244f8172d",
     "f12571cf6a6ce59afc0e2b1614de1320",
     "fb3a1bbb061f1eefe0169bd93ae9ce34",
@@ -4005,6 +4002,9 @@
     "f8ebfcf9117fc5f9405decf8b74db110",
     "75ca7fa667568386c87d4cc07b849ee2",
     "2beb483238ca951ad5390bcc163be4c0",
-    "913cb206b172113ccf4bd31ec4a8b244"
+    "913cb206b172113ccf4bd31ec4a8b244",
+    "b4b2c2aa3f14131d8d1dd35f5ea8711d",
+    "ab693ba9a44ff29e494c7fa831c5ca33",
+    "958121ebc8846e59d75642ab7def15a7"
   ]
 }
