@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/kultur/picasso-kahlo-rubens-millionenschwerer-betrugsversuch-mit-gefaelschten-meisterwerken-aufgedeckt-a-cfb117ba-d5fa-4772-9cec-1dfa2d5a74f4#ref=rss",
-    "https://www.deutschlandfunk.de/bundesregierung-will-hoehere-entschaedigungszahlungen-fuer-landwirte-102.html",
     "https://www.deutschlandfunk.de/ministerpraesidenten-gegen-verbrenner-aus-2035-soeder-klimaziele-in-europa-gefaehrden-wohlstand-100.html",
     "https://www.spiegel.de/wissenschaft/natur/vogelgrippe-breitet-sich-rasant-aus-wie-gefaehrlich-ist-das-a-bef6ffee-aa64-4fae-a1bc-ab6fe70fd451#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/thueringer-afd-fpoe-mann-wird-hoecke-sprecher-110748561.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/explosionen-in-hauptstadt-damaskus-hintergrund-zunaechst-unklar-100.html",
     "https://www.deutschlandfunk.de/trump-haelt-an-androhung-einer-klage-gegen-die-bbc-fest-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-weist-aeusserungen-des-drogenbeauftragten-zu-behandlung-hochbetagter-menschen-zuruec-100.html",
-    "https://www.deutschlandfunk.de/kinderhilfswerk-lehnt-pauschales-verbot-sozialer-medien-fuer-kinder-und-jugendliche-ab-100.html"
+    "https://www.deutschlandfunk.de/kinderhilfswerk-lehnt-pauschales-verbot-sozialer-medien-fuer-kinder-und-jugendliche-ab-100.html",
+    "https://www.deutschlandfunk.de/mindestens-ein-toter-bei-luftangriffen-auf-dnipro-100.html",
+    "https://www.deutschlandfunk.de/gerhard-richter-bleibt-wichtigster-kuenstler-der-welt-100.html"
   ],
   "content_hashes": [
-    "79901825f2843baed8a9a0c4b6efe297",
-    "bdf890cfb7ab7e7fdf35fb65b806db8f",
     "97c3963268be3f003fd826ba1b47defd",
     "a4f86e942d16fbde6b1f38ddbc867514",
     "66a060414ea386c88e4ab489ee7b3c55",
@@ -2001,11 +1999,11 @@
     "9cec9fe0d63b74a4fb02015b5535f0fc",
     "bc0542e80d9492192f64170884922f69",
     "fa5a2f07b23a3efe9d4f644326e70885",
-    "ba0405a18e05fc03a6e915fa22182a84"
+    "ba0405a18e05fc03a6e915fa22182a84",
+    "3e0bf4f928339ea0f64c56b608b0e080",
+    "b07e2003e258caa4cb0d0b5fa25a32ac"
   ],
   "titles": [
-    "Picasso, Kahlo, Rubens: Millionenschwerer Betrugsversuch mit gefälschten Meisterwerken aufgedeckt",
-    "Vogelgrippe - Bundesregierung will höhere Entschädigungszahlungen für Landwirte",
     "Mainz - Ministerpräsidenten gegen Verbrenner-Aus 2035 - Söder: Klimaziele in Europa gefährden Wohlstand",
     "Vogelgrippe breitet sich rasant aus – wie gefährlich ist das?",
     "Thüringer AfD: FPÖ-Mann wird Höcke-Sprecher",
@@ -3003,11 +3001,11 @@
     "Syrien - Explosionen in Hauptstadt Damaskus - Hintergrund zunächst unklar",
     "Irreführender Beitrag - Trump hält an Androhung einer Klage gegen die BBC fest",
     "\"Nicht unsere Haltung\" - Bundesregierung weist Äußerungen des Drogenbeauftragten zu Behandlung hochbetagter Menschen zurück",
-    "Kontroverse Debatte - Kinderhilfswerk lehnt pauschales Verbot sozialer Medien für Kinder und Jugendliche ab"
+    "Kontroverse Debatte - Kinderhilfswerk lehnt pauschales Verbot sozialer Medien für Kinder und Jugendliche ab",
+    "Ukraine - Mindestens ein Toter bei Luftangriffen auf Dnipro",
+    "\"Kunstkompass\" - Gerhard Richter bleibt wichtigster Künstler der Welt"
   ],
   "hashes": [
-    "612745224f1b1674528fe65460fae24c",
-    "57aeb89d3fc0d783479c4b94ef56cd12",
     "e32ac458f6e49d443e2a7779577bd2ab",
     "800c7e2d44d52ea68f129fd62da1347b",
     "22460de249045f16dfb19b8719ecf826",
@@ -4005,6 +4003,8 @@
     "727a851bc6646519ee4312676ab85a35",
     "b4d6ff1fa16cad89c27e28841cff7c57",
     "229fb24e21de393fd7cf12a4f3cbad58",
-    "598b6d527fe15035688ed86d9143efb4"
+    "598b6d527fe15035688ed86d9143efb4",
+    "456d7ce0a77cbc5ca46fe6bc44c9f58c",
+    "accd37fbd13fc52aacef95a3b8aa47c4"
   ]
 }
