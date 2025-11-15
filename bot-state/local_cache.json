@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/porsche-mit-fast-einer-milliarde-euro-quartalsverlust-100.html",
-    "https://www.deutschlandfunk.de/ex-stahlmanager-osburg-soll-fuehrung-von-db-cargo-uebernehmen-102.html",
-    "https://www.deutschlandfunk.de/prozess-auf-betreiben-von-trump-generalstaatsanwaeltin-james-plaediert-auf-nicht-schuldig-100.html",
-    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-sieht-putin-wegen-neuer-us-sanktionen-unter-druck-102.html",
     "https://www.deutschlandfunk.de/amtsinhaber-ouattara-geht-als-klarer-favorit-in-die-praesidentschaftswahl-100.html",
     "https://www.deutschlandfunk.de/zahl-der-abschiebungen-ist-gestiegen-104.html",
     "https://www.deutschlandfunk.de/spd-generalsekretaer-glaubt-an-einigung-in-dieser-legislatur-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/junge-union-lehnt-kompromiss-mit-spd-ab-100.html",
     "https://www.faz.net/aktuell/politik/inland/rede-von-bundeskanzler-friedrich-merz-bei-junger-union-im-livestream-110782331.html",
     "https://www.deutschlandfunk.de/sperrung-des-koelner-hauptbahnhofs-ohne-probleme-angelaufen-100.html",
-    "https://www.deutschlandfunk.de/merz-ruft-junge-union-im-rentenstreit-zu-zusammenarbeit-auf-102.html"
+    "https://www.deutschlandfunk.de/merz-ruft-junge-union-im-rentenstreit-zu-zusammenarbeit-auf-102.html",
+    "https://www.deutschlandfunk.de/spd-waehlt-steffen-krach-zum-spitzenkandidaten-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-kretschmer-will-rueckkehr-zu-energie-aus-russland-100.html",
+    "https://www.deutschlandfunk.de/bereits-1-5-millionen-tiere-wegen-vogelgrippe-getoetet-100.html",
+    "https://www.deutschlandfunk.de/us-regierung-wirft-plattform-alibaba-hilfestellung-bei-chinesischen-cyberattacken-vor-100.html"
   ],
   "content_hashes": [
-    "495d65e0504e09b0f332e7364e8c3f9f",
-    "458c27aae0b1d919734b484d250531c3",
-    "dba41df6d71096b936e9b01fe9cd886b",
-    "a2a44880a60d5f9bee77e92220698be6",
     "f51c3263f45a36b03b2c1d84fb6e1010",
     "f13308b1b9ec519fb9f190ca6b12f808",
     "c9bcc9dc9d76a669c19aca7c8102b334",
@@ -2001,13 +1997,13 @@
     "c0f3baeac73588cb9fbb1dd28f2788f2",
     "3e11b2d5ea3419e4fabe1b4862e22324",
     "38856815460c73f428d715ea928ab355",
-    "8102a7d34b4a58db6b1d3e0439ef5d58"
+    "8102a7d34b4a58db6b1d3e0439ef5d58",
+    "dd86dd0b5bd4b08be500818aab5cf55c",
+    "228f112d16ba807abe1e96586f9b010e",
+    "d6513ed205d8cd91270bf9baf41aa96c",
+    "3df9d254f22a891c8776d36892dde9a5"
   ],
   "titles": [
-    "Autohersteller - Porsche mit fast einer Milliarde Euro Quartalsverlust",
-    "Güterverkehr - Ex-Stahlmanager Osburg soll Führung von DB Cargo übernehmen",
-    "USA - Prozess auf Betreiben von Trump: Generalstaatsanwältin James plädiert auf nicht schuldig",
-    "\"Koalition der Willigen\" - NATO-Generalsekretär Rutte sieht Putin wegen neuer US-Sanktionen unter Druck",
     "Elfenbeinküste - Amtsinhaber Ouattara geht als klarer Favorit in die Präsidentschaftswahl",
     "Migration - Zahl der Abschiebungen ist gestiegen",
     "Rentenreform - SPD-Generalsekretär glaubt an Einigung in dieser Legislatur",
@@ -3003,13 +2999,13 @@
     "Rentenpaket - Junge Union lehnt Kompromiss mit SPD ab",
     "Kanzler im Livestream: Welches Angebot macht Merz der Jungen Union?",
     "Stellwerk-Neubau - Sperrung des Kölner Hauptbahnhofs ohne Probleme angelaufen",
-    "Union - Merz ruft Junge Union im Rentenstreit zu Zusammenarbeit auf"
+    "Union - Merz ruft Junge Union im Rentenstreit zu Zusammenarbeit auf",
+    "Wahl zum Abgeordnetenhaus - SPD wählt Steffen Krach zum Spitzenkandidaten",
+    "Sachsen - Ministerpräsident Kretschmer will Rückkehr zu Energie aus Russland",
+    "Friedrich-Loeffler-Institut - Bereits 1,5 Millionen Tiere wegen Vogelgrippe getötet",
+    "Washington - US-Regierung wirft Plattform \"Alibaba\" Hilfestellung bei chinesischen Cyberattacken vor"
   ],
   "hashes": [
-    "7ffe56e2ad235e2e8851b961d33c440c",
-    "2cbfc92cbde4568502591925b8b58597",
-    "20b977c1bd145bf31f5a494d182ef951",
-    "e440e1c9441499cc05d715564e761370",
     "6c100fdadf07fa5e66f45b2038c5275e",
     "d6e4c1564ef0ea15a9d3467738a9fe99",
     "1ffa7866ef7164a99ff6f2da8f170221",
@@ -4005,6 +4001,10 @@
     "6019718abd49c9a284e1c5dd8a74c1ae",
     "dde0fbb45af59cdfc9e3d55092ed6427",
     "e62366bbd2f2abf1e2bd806b58fb1e6a",
-    "66098a7289699beed853c7d0a2a9464b"
+    "66098a7289699beed853c7d0a2a9464b",
+    "c425329c5ad08053a1d477b117ba6a5d",
+    "a65b46d8f6461698b8194302dbac3499",
+    "33c47c09838a7c4adda1adafd675ccaf",
+    "556539a0b33032c2839b78978284a4eb"
   ]
 }
