@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/freistaat-bayern-stellt-grundstueck-fuer-neue-synagoge-in-erlangen-zur-verfuegung-102.html",
     "https://www.deutschlandfunk.de/soldatinnen-reichen-sammelklage-wegen-sexualisierter-gewalt-in-der-armee-ein-102.html",
     "https://www.deutschlandfunk.de/cdu-generalsekretaer-linnemann-fordert-geringeren-zuzug-wehrfaehiger-ukrainer-nach-deutschland-100.html",
     "https://www.deutschlandfunk.de/vier-tote-und-zwoelf-verletzte-bei-explosion-in-ukrainischem-bahnhof-102.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-100.html",
     "https://www.deutschlandfunk.de/ataman-fordert-besseren-schutz-102.html",
     "https://www.spiegel.de/wirtschaft/koeln-bauarbeiten-am-hauptbahnhof-fuehren-zu-massiven-einschraenkungen-a-7edd8a7a-fb37-4730-9238-563d0072406c#ref=rss",
-    "https://www.deutschlandfunk.de/haeftling-durch-erschiessungskommando-hingerichtet-100.html"
+    "https://www.deutschlandfunk.de/haeftling-durch-erschiessungskommando-hingerichtet-100.html",
+    "https://www.deutschlandfunk.de/explosionen-in-hauptstadt-damaskus-hintergrund-zunaechst-unklar-100.html"
   ],
   "content_hashes": [
-    "b143f4d4643efccefcc754e565ebd4e9",
     "4b7a1a1fca4173e149d84b3276b3a066",
     "49c431ee512ccd15c0be1811914f1f88",
     "2b501ff16bed990608f87b75a7719503",
@@ -2001,10 +2000,10 @@
     "4dc8d8bae3f1686960e0cf7d82d82a38",
     "7fa88a82738587c35188137f32b34c0e",
     "cce38ec9f7f0cb5021d0f62bd93a8978",
-    "f9c5f03b02039a76a458b05899fb5bf5"
+    "f9c5f03b02039a76a458b05899fb5bf5",
+    "9cec9fe0d63b74a4fb02015b5535f0fc"
   ],
   "titles": [
-    "Jüdisches Leben - Freistaat Bayern stellt Grundstück für neue Synagoge in Erlangen zur Verfügung",
     "Australien - Soldatinnen reichen Sammelklage wegen sexualisierter Gewalt in der Armee ein",
     "Nach Gesetzesänderung - CDU-Generalsekretär Linnemann fordert geringeren Zuzug wehrfähiger Ukrainer nach Deutschland",
     "Grenze zu Belarus - Vier Tote und zwölf Verletzte bei Explosion in ukrainischem Bahnhof",
@@ -3003,10 +3002,10 @@
     "Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss",
     "Sexuelle Belästigung im Alltag - Ataman fordert besseren Schutz",
     "Köln: Bauarbeiten am Hauptbahnhof führen zu massiven Einschränkungen",
-    "US-Bundesstaat South Carolina - Häftling durch Erschießungskommando hingerichtet"
+    "US-Bundesstaat South Carolina - Häftling durch Erschießungskommando hingerichtet",
+    "Syrien - Explosionen in Hauptstadt Damaskus - Hintergrund zunächst unklar"
   ],
   "hashes": [
-    "9e34957427799946598987a2b49e9a7a",
     "80e71e024cfa0f26204f84a284f8aabc",
     "cbe621546dab81a0fe21b850a3a65cb4",
     "232bd6f27eaa0cfb611f17f483b1f838",
@@ -4005,6 +4004,7 @@
     "4e76aca7426266b6f5af20fcc0fdbd09",
     "e9b875bf6c2899a9823a605032530fca",
     "723d8af88a9448eecf0af315e0052df3",
-    "b17e50fcec39de3f0edbc03202439c52"
+    "b17e50fcec39de3f0edbc03202439c52",
+    "727a851bc6646519ee4312676ab85a35"
   ]
 }
