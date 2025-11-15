@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hofreiter-gruene-bundeskanzler-merz-kann-eu-einigung-fuer-nutzung-russischer-vermoegenswerte-erreich-102.html",
-    "https://www.deutschlandfunk.de/csu-feiert-ihren-80-geburtstag-102.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-klartext-geht-anders-110747752.html",
     "https://www.deutschlandfunk.de/berichte-louvre-verlegt-wertvolle-juwelen-in-tresore-der-zentralbank-102.html",
     "https://www.deutschlandfunk.de/buerger-in-c-te-d-ivoire-waehlen-praesidenten-100.html",
     "https://www.faz.net/aktuell/politik/inland/stuttgart-kaempft-gegen-angstraeume-sicherheit-und-integration-im-fokus-accg-110748098.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/fruehere-us-botschafterin-gutmann-und-physiker-zajfman-erhalten-preis-fuer-verstaendigung-und-tolera-100.html",
     "https://www.deutschlandfunk.de/auschwitz-komitee-kritisiert-geplante-auktion-in-neuss-100.html",
     "https://www.deutschlandfunk.de/kiew-will-gefangenenaustausch-mit-moskau-wieder-aufnehmen-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/korruption-in-der-ukraine-selenskyj-muss-seine-fuehrung-teilen-110780976.html"
+    "https://www.faz.net/aktuell/politik/ukraine/korruption-in-der-ukraine-selenskyj-muss-seine-fuehrung-teilen-110780976.html",
+    "https://www.deutschlandfunk.de/finanzminister-klingbeil-reist-nach-peking-102.html",
+    "https://www.deutschlandfunk.de/chilenen-waehlen-neuen-staatschef-102.html",
+    "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-122.html"
   ],
   "content_hashes": [
-    "7dee9db6ecae4e3b9704db1cbfbb8609",
-    "223f06ba79d3fc1ef0c62c2c1bc1afa9",
-    "e0d1e1441a92b0e9a90f521d7d19c987",
     "38c7d9f33dcc2931326b58145cfd5ca3",
     "ef6024e7883ec759774a55085ddce865",
     "590789299f40cab869d68407bd852801",
@@ -2001,12 +1998,12 @@
     "f5e80150fc37c5924ba65841ec1dacf4",
     "f7434769ae92c6e9c63214cbb56da6cb",
     "a841fe04c77e93f8071d97f12bf44208",
-    "e3ffba25759d29456338fde45fdcaa82"
+    "e3ffba25759d29456338fde45fdcaa82",
+    "96e91d18d9372924fea2d0586f586b6f",
+    "f32906bf3edb6ec58b4fa516cbe16673",
+    "585cfa66350348e98f9231966ccdb40d"
   ],
   "titles": [
-    "Ukraine-Hilfen - Hofreiter (Grüne): Bundeskanzler Merz kann EU-Einigung für Nutzung russischer Vermögenswerte erreichen",
-    "Jubiläum - CSU feiert ihren 80. Geburtstag",
-    "„Stadtbild“-Debatte: Klartext geht anders",
     "Nach Diebstahl - Berichte: Louvre verlegt wertvolle Juwelen in Tresore der Zentralbank",
     "Westafrika - Bürger in Côte d'Ivoire wählen Präsidenten",
     "Stadtbild-Debatte: Wenn ein Ort Angst macht",
@@ -3003,12 +3000,12 @@
     "Jüdisches Museum Berlin - Frühere US-Botschafterin Gutmann und Physiker Zajfman erhalten Preis für Verständigung und Toleranz",
     "Dokumente von NS-Opfern - Auschwitz-Komitee kritisiert geplante Auktion in Neuss",
     "Russlands Angriffskrieg - Kiew will Gefangenenaustausch mit Moskau wieder aufnehmen",
-    "Korruption in der Ukraine: Selenskyj muss seine Führung teilen"
+    "Korruption in der Ukraine: Selenskyj muss seine Führung teilen",
+    "Deutsch-Chinesischer Finanzdialog - Finanzminister Klingbeil reist nach Peking",
+    "Rechts gegen Links - Chilenen wählen neuen Staatschef",
+    "Dlf-\"Interview der Woche\" - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss"
   ],
   "hashes": [
-    "d57cdb9e36af94e2b677f62b96a01b99",
-    "e772417f10c25cdb2480ad81a8d70726",
-    "9189cdbf9a2b0091135f1940d14ba2cf",
     "bbb5dd87973332484c036484a99947ee",
     "f7d42c632973d0372a76075990f8d9c5",
     "ee132f171f414520408a7dda97df6e9d",
@@ -4005,6 +4002,9 @@
     "6d63b602a7f1448ba792d406af6bdb04",
     "5844d64281e3e9fff413cd13b734e21f",
     "f05d729f08c19f2c2bb9453f5643a250",
-    "ec9f65289aa84a211b670fca753fc675"
+    "ec9f65289aa84a211b670fca753fc675",
+    "97abb2b4de2063a0bdedbb2d40fe7871",
+    "52c1d12b9d99194c1ddea56057182d7f",
+    "a0af5dac4b4fb586328454294ad74beb"
   ]
 }
