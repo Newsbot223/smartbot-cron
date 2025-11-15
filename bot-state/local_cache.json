@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/klitschko-berichtet-ueber-raketenangriff-auf-kiew-102.html",
-    "https://www.deutschlandfunk.de/usa-entsenden-flugzeugtraeger-in-die-karibik-bekaempfung-des-drogenhandels-100.html",
     "https://www.deutschlandfunk.de/gefluegelhalter-fordern-bundesweite-stallpflicht-fuer-nutztiere-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-bei-raketen-und-drohnenangriffen-100.html",
     "https://www.deutschlandfunk.de/hofreiter-gruene-bundeskanzler-merz-kann-eu-einigung-fuer-nutzung-russischer-vermoegenswerte-erreich-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-regierung-wirft-plattform-alibaba-hilfestellung-bei-chinesischen-cyberattacken-vor-100.html",
     "https://www.deutschlandfunk.de/ulla-schmidt-als-bundesvorsitzende-der-lebenshilfe-bestaetigt-102.html",
     "https://www.faz.net/aktuell/politik/inland/krise-bei-hessens-gruenen-kein-powerhouse-mehr-accg-110781585.html",
-    "https://www.spiegel.de/politik/deutschland/michael-kretschmer-will-nach-waffenstillstand-energie-aus-russland-a-0bed849f-0826-4765-ae54-7809e041dc12#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/michael-kretschmer-will-nach-waffenstillstand-energie-aus-russland-a-0bed849f-0826-4765-ae54-7809e041dc12#ref=rss",
+    "https://www.deutschlandfunk.de/fruehere-us-botschafterin-gutmann-und-physiker-zajfman-erhalten-preis-fuer-verstaendigung-und-tolera-100.html",
+    "https://www.deutschlandfunk.de/auschwitz-komitee-kritisiert-geplante-auktion-in-neuss-100.html"
   ],
   "content_hashes": [
-    "4d10a5acbe9aebd2838159aa0c9a11f7",
-    "0223682cc1a9e7765314517ee38621c2",
     "c14122976bd0aa1c1a6d150fb11564b3",
     "be06fabbf48309ac65c0e6835b05e112",
     "7dee9db6ecae4e3b9704db1cbfbb8609",
@@ -2001,11 +1999,11 @@
     "3df9d254f22a891c8776d36892dde9a5",
     "5d183b151ab5bc214c46cdb2291b1bcc",
     "6544c9c37b5ef9062c2acfd50012258e",
-    "2239a22b67027e9415c768970d70fc0c"
+    "2239a22b67027e9415c768970d70fc0c",
+    "f5e80150fc37c5924ba65841ec1dacf4",
+    "f7434769ae92c6e9c63214cbb56da6cb"
   ],
   "titles": [
-    "Ukraine - Klitschko berichtet über Raketenangriff auf Kiew",
-    "Lateinamerika - USA entsenden Flugzeugträger in die Karibik - \"Bekämpfung des Drogenhandels\"",
     "Vogelgrippe - Geflügelhalter fordern bundesweite Stallpflicht für Nutztiere",
     "Russlands Krieg gegen die Ukraine - Zwei Tote bei Raketen- und Drohnenangriffen",
     "Ukraine-Hilfen - Hofreiter (Grüne): Bundeskanzler Merz kann EU-Einigung für Nutzung russischer Vermögenswerte erreichen",
@@ -3003,11 +3001,11 @@
     "Washington - US-Regierung wirft Plattform \"Alibaba\" Hilfestellung bei chinesischen Cyberattacken vor",
     "Mitgliederversammlung - Ulla Schmidt als Bundesvorsitzende der Lebenshilfe bestätigt",
     "Krise bei Hessens Grünen: Kein Powerhouse mehr",
-    "Michael Kretschmer will nach Waffenstillstand Energie aus Russland"
+    "Michael Kretschmer will nach Waffenstillstand Energie aus Russland",
+    "Jüdisches Museum Berlin - Frühere US-Botschafterin Gutmann und Physiker Zajfman erhalten Preis für Verständigung und Toleranz",
+    "Dokumente von NS-Opfern - Auschwitz-Komitee kritisiert geplante Auktion in Neuss"
   ],
   "hashes": [
-    "87ddd689a5dc3635addc5b28d46a8452",
-    "e10795b5de270c847281f32b19936d47",
     "6f09c4730d477dc89265c54a1bcb787d",
     "b760a268daa13cba39660a39795a502a",
     "d57cdb9e36af94e2b677f62b96a01b99",
@@ -4005,6 +4003,8 @@
     "556539a0b33032c2839b78978284a4eb",
     "8a9d8f839b969661a611b3822ad37cc5",
     "4790a66185ed6fd31d2529bcd8a3e21b",
-    "dbc73378447ab335326a34596e9d366a"
+    "dbc73378447ab335326a34596e9d366a",
+    "6d63b602a7f1448ba792d406af6bdb04",
+    "5844d64281e3e9fff413cd13b734e21f"
   ]
 }
