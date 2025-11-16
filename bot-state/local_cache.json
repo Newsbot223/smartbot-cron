@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berichte-louvre-verlegt-wertvolle-juwelen-in-tresore-der-zentralbank-102.html",
-    "https://www.deutschlandfunk.de/buerger-in-c-te-d-ivoire-waehlen-praesidenten-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-kaempft-gegen-angstraeume-sicherheit-und-integration-im-fokus-accg-110748098.html",
     "https://www.deutschlandfunk.de/limbacher-spd-resilienz-muss-top-prioritaet-in-unternehmen-werden-102.html",
     "https://www.spiegel.de/wirtschaft/gefluegelpest-forderung-nach-bundesweiter-stallpflicht-wegen-vogelgrippe-a-bb436597-6344-4b37-949e-987b4726c697#ref=rss",
     "https://www.deutschlandfunk.de/eu-will-abhaengigkeit-von-rohstoffen-aus-china-verringern-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ukraine/korruption-in-der-ukraine-selenskyj-muss-seine-fuehrung-teilen-110780976.html",
     "https://www.deutschlandfunk.de/finanzminister-klingbeil-reist-nach-peking-102.html",
     "https://www.deutschlandfunk.de/chilenen-waehlen-neuen-staatschef-102.html",
-    "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-122.html"
+    "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-122.html",
+    "https://www.deutschlandfunk.de/praesident-des-volksbundes-warnt-vor-einem-verfall-der-kriegsgraeber-102.html",
+    "https://www.deutschlandfunk.de/grossbritannien-plant-deutliche-asylrechts-verschaerfung-nach-daenischem-vorbild-100.html",
+    "https://www.deutschlandfunk.de/unions-verkehrspolitiker-flug-ticketpreise-muessen-runter-102.html"
   ],
   "content_hashes": [
-    "38c7d9f33dcc2931326b58145cfd5ca3",
-    "ef6024e7883ec759774a55085ddce865",
-    "590789299f40cab869d68407bd852801",
     "f88adf708b754a1c8a4ce3f4145ca15b",
     "cf2e4f7eba545abb3b76eccb29413849",
     "ff24cc1632422c33efdf023343881419",
@@ -2001,12 +1998,12 @@
     "e3ffba25759d29456338fde45fdcaa82",
     "96e91d18d9372924fea2d0586f586b6f",
     "f32906bf3edb6ec58b4fa516cbe16673",
-    "585cfa66350348e98f9231966ccdb40d"
+    "585cfa66350348e98f9231966ccdb40d",
+    "58fbdaa96b334a3e4df9a4ae3d3bee15",
+    "0aa955df7b748bdabe973ebc140d2088",
+    "e60c9043aaa3c9f74c9ce7f3d95e355a"
   ],
   "titles": [
-    "Nach Diebstahl - Berichte: Louvre verlegt wertvolle Juwelen in Tresore der Zentralbank",
-    "Westafrika - Bürger in Côte d'Ivoire wählen Präsidenten",
-    "Stadtbild-Debatte: Wenn ein Ort Angst macht",
     "Halbleiter-Krise - Limbacher (SPD): Resilienz muss Top-Priorität in Unternehmen werden",
     "Geflügelpest: Forderung nach bundesweiter Stallpflicht wegen Vogelgrippe",
     "Industrie-Absicherung - EU will Abhängigkeit von Rohstoffen aus China verringern",
@@ -3003,12 +3000,12 @@
     "Korruption in der Ukraine: Selenskyj muss seine Führung teilen",
     "Deutsch-Chinesischer Finanzdialog - Finanzminister Klingbeil reist nach Peking",
     "Rechts gegen Links - Chilenen wählen neuen Staatschef",
-    "Dlf-\"Interview der Woche\" - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss"
+    "Dlf-\"Interview der Woche\" - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss",
+    "Volkstrauertag - Präsident des Volksbundes warnt vor einem Verfall der Kriegsgräber",
+    "Migrations-Politik - Großbritannien plant deutliche Asylrechts-Verschärfung nach dänischem Vorbild",
+    "Sinkende Luftverkehrsteuer - Unions-Verkehrspolitiker: \"Flug-Ticketpreise müssen runter\""
   ],
   "hashes": [
-    "bbb5dd87973332484c036484a99947ee",
-    "f7d42c632973d0372a76075990f8d9c5",
-    "ee132f171f414520408a7dda97df6e9d",
     "fa2e60e4a11e04d427bbed69aa60286e",
     "a36c1b02a63baa54b41676e3065daee5",
     "5e52ee248315803c3157bbde99c2749f",
@@ -4005,6 +4002,9 @@
     "ec9f65289aa84a211b670fca753fc675",
     "97abb2b4de2063a0bdedbb2d40fe7871",
     "52c1d12b9d99194c1ddea56057182d7f",
-    "a0af5dac4b4fb586328454294ad74beb"
+    "a0af5dac4b4fb586328454294ad74beb",
+    "7ad765cb2c657520018f1dc8e24b7634",
+    "284e1ba119050e0936da4f3791a5c9c7",
+    "151c3b2d0e116b20f1766db18398fcb6"
   ]
 }
