@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/10/26/russia-ukraine-war-list-of-key-events-day-1340?traffic_source=rss",
-    "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
-    "https://www.deutschlandfunk.de/thailand-und-kambodscha-unterzeichnen-friedensabkommen-in-anwesenheit-von-us-praesident-trump-102.html",
-    "https://www.deutschlandfunk.de/mindestens-drei-tote-durch-russische-angriffe-auf-kiew-100.html",
     "https://www.faz.net/aktuell/politik/inland/verpflichtendes-dienstjahr-sich-engagieren-fuer-das-land-110748057.html",
     "https://www.deutschlandfunk.de/wissenschaftler-fordert-fangstopp-von-dorsch-und-hering-102.html",
     "https://www.faz.net/aktuell/politik/inland/seltene-erden-berlin-hat-die-rechnung-ohne-china-gemacht-110747790.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/spanien-und-frankreich-fuer-abgabe-auf-luxus-flugreisen-100.html",
     "https://www.deutschlandfunk.de/aegypten-museum-beschraenkt-besuchszeit-102.html",
     "https://www.deutschlandfunk.de/auktionshaus-nimmt-judenstern-versteigerung-offline-104.html",
-    "https://www.deutschlandfunk.de/radtke-fuer-verschiebung-der-rentenreform-102.html"
+    "https://www.deutschlandfunk.de/radtke-fuer-verschiebung-der-rentenreform-102.html",
+    "https://www.deutschlandfunk.de/netanjahu-gehen-gegen-siedlergewalt-vor-verantwortlich-ist-kleine-minderheit-100.html",
+    "https://www.faz.net/aktuell/politik/inland/vor-der-wahl-2026-zumindest-auf-krach-kann-sich-die-berliner-spd-einigen-accg-110783444.html",
+    "https://www.faz.net/aktuell/politik/inland/schwarz-rote-koalition-das-raunen-ueber-eine-minderheitsregierung-accg-110780902.html",
+    "https://www.faz.net/aktuell/politik/inland/volkstrauertag-mattarella-warnt-vor-nachfolgern-dunkler-zeiten-accg-110783360.html"
   ],
   "content_hashes": [
-    "85cfa7f5d1085474f791145b9eb58fca",
-    "f3186420df3c1c7993ba761133206242",
-    "046f2e7c763c129f603aee0d20095dd6",
-    "2d87dcca578dc2cb315a72164fe86f9f",
     "c065273a8930831d3ae5e1d01131d314",
     "35cca736ab1f02b19132ca8b2db06196",
     "01c07b07c6198f906200f6796534339c",
@@ -2001,13 +1997,13 @@
     "a9f90543fa0fddd0f435213f0736b03f",
     "2a400f697fd883d73d017c2e81d08ee5",
     "a6e4618de63d955c75d113920e10e676",
-    "61beb130749e3f392b850564c02ac02c"
+    "61beb130749e3f392b850564c02ac02c",
+    "cea3781ff203478fc9530a7bba8c9008",
+    "6fd584f8940038e1d14cb3fe0f78af7f",
+    "a793dab1c1a1c776f299948e191972cd",
+    "63cc61ab301fdd0bca91ebfaa2eb036f"
   ],
   "titles": [
-    "Russia-Ukraine war: List of key events, day 1,340",
-    "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
-    "Asien - Thailand und Kambodscha unterzeichnen Friedensabkommen in Anwesenheit von US-Präsident Trump",
-    "Ukraine - Mindestens drei Tote durch russische Angriffe auf Kiew",
     "Verpflichtendes Dienstjahr: Sich engagieren für das Land",
     "Fischerei in der Ostsee - Wissenschaftler fordert Fangstopp von Dorsch und Hering",
     "Aufrüstung und Seltene Erden: Berlin hat die Rechnung ohne China gemacht",
@@ -3003,13 +2999,13 @@
     "Klimakonferenz - Spanien und Frankreich für Abgabe auf Luxus-Flugreisen",
     "Kurz nach Eröffnung - Ägypten-Museum beschränkt Besuchszeit",
     "Nach Kritik - Auktionshaus nimmt Judenstern-Versteigerung offline",
-    "CDU-Sozialflügel - Radtke für Verschiebung der Rentenreform"
+    "CDU-Sozialflügel - Radtke für Verschiebung der Rentenreform",
+    "Israel - Netanjahu: Gehen gegen Siedlergewalt vor, verantwortlich ist kleine Minderheit",
+    "Vor der Wahl 2026: Zumindest auf Krach kann sich die Berliner SPD einigen",
+    "Schwarz-Rot: Wo bitte geht’s zum Notausgang?",
+    "Volkstrauertag: Mattarella warnt vor Nachfolgern dunkler Zeiten"
   ],
   "hashes": [
-    "4ef88917bae29caafadee73097efc444",
-    "176c9f9c66519266906df8c9e60efc4c",
-    "aec3de032736d87e71886b768d65638f",
-    "624d68b937b5082e22960a3e62f6c0d9",
     "d93eacfa0b114963b6c05ae82d2652fa",
     "5d09e6b7683b5eea2c583f4856b24a0c",
     "4d61f631b4b73f57b047f30e258a6fbb",
@@ -4005,6 +4001,10 @@
     "240a9b056822876140834bc80aaeb119",
     "712e936d28a9efb7717be44e031f175e",
     "98a1f6abe35cc0a3ae509632d486b937",
-    "e7ef8f406dbe5bf9da858ec79cd556ff"
+    "e7ef8f406dbe5bf9da858ec79cd556ff",
+    "0c40108702995a38e890fa0c75e06862",
+    "40776ce938ef37ad257fba7fdfc230e5",
+    "7f999eed259780218fa632a6056d84c7",
+    "caea3148d4206aec94e9ff1db5cf6a87"
   ]
 }
