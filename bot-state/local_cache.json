@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutscher-umweltpreis-fuer-innovatives-verzinkungsverfahren-und-forschungen-zum-klimasystem-102.html",
-    "https://www.deutschlandfunk.de/ifo-praesident-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
     "https://www.aljazeera.com/news/2025/10/26/two-suspects-from-louvre-jewellery-heist-arrested-by-french-police-reports?traffic_source=rss",
     "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-wetterballons-voruebergehend-ausgesetzt-100.html",
     "https://www.deutschlandfunk.de/ifo-praesident-fuest-warnt-wohlstand-in-deutschland-akut-bedroht-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/volkstrauertag-mattarella-warnt-vor-nachfolgern-dunkler-zeiten-accg-110783360.html",
     "https://www.deutschlandfunk.de/auktionshaus-sagt-judenstern-versteigerung-ab-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-aussenminister-bittet-um-geld-fuer-drohnen-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss"
+    "https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss",
+    "https://www.deutschlandfunk.de/us-militaer-meldet-ankunft-von-flugzeugtraeger-in-der-karibik-102.html",
+    "https://www.spiegel.de/gesundheit/vogelgrippe-mensch-in-den-usa-laut-behoerden-mit-h5n5-infiziert-a-bc5a15bc-721f-47fb-b37d-7ff8b8b1b367#ref=rss"
   ],
   "content_hashes": [
-    "4295cd752ac18d3a1778f3390025fba7",
-    "ad5d705fbf8b6d5a260f1f2549851297",
     "edd2675b6a93363de15ea947e2994c75",
     "294fafc347dffa7122c068d6e2679c78",
     "d459771ec5ac4a761326ac2175c6dd5c",
@@ -2001,11 +1999,11 @@
     "63cc61ab301fdd0bca91ebfaa2eb036f",
     "285ea6183b394c4116c1913be9901f1b",
     "8bf5201085dfb743991a24fbcfde8a69",
-    "9b8c309cda6011cbcbe940bdf2f82af0"
+    "9b8c309cda6011cbcbe940bdf2f82af0",
+    "bf362003b500bef76972be3637543661",
+    "0da5bd846502dadc64c21eff26c6d171"
   ],
   "titles": [
-    "Chemnitz - Deutscher Umweltpreis für innovatives Verzinkungsverfahren und Forschungen zum Klimasystem",
-    "Deutsche Wirtschaft - Ifo-Präsident warnt: \"Wohlstand in Deutschland akut bedroht\"",
     "Two suspects from Louvre jewellery heist arrested by French police: Reports",
     "Litauen - Flugbetrieb in Vilnius erneut wegen Wetterballons vorübergehend ausgesetzt",
     "Deutsche Wirtschaft - Ifo-Präsident Fuest warnt: \"Wohlstand in Deutschland akut bedroht\"",
@@ -3003,11 +3001,11 @@
     "Volkstrauertag: Mattarella warnt vor Nachfolgern dunkler Zeiten",
     "Nach Kritik - Auktionshaus sagt Judenstern-Versteigerung ab",
     "Russischer Angriffskrieg - Ukrainischer Außenminister bittet um Geld für Drohnen",
-    "Neuss: Auktionshaus sagt Versteigerung von Holocaust-Dokumenten ab"
+    "Neuss: Auktionshaus sagt Versteigerung von Holocaust-Dokumenten ab",
+    "Kampf gegen Drogenschmuggel - US-Militär meldet Ankunft von Flugzeugträger in der Karibik",
+    "Vogelgrippe: Mensch in den USA laut Behörden mit H5N5 infiziert"
   ],
   "hashes": [
-    "9613dbede0b8bafa1ee3ae6532d2ee64",
-    "aeb09ff8713685e12957fbed3106cab5",
     "d015325271929d1ae10fbac5b95a3495",
     "a9a90079336f3f6e937eef13165e95e8",
     "9ad742d21f070764c1cf7bbfcfae61bd",
@@ -4005,6 +4003,8 @@
     "caea3148d4206aec94e9ff1db5cf6a87",
     "b07a8f21b77f3b4a74209a3b79e4a0ad",
     "7fb18087042787ff15470d3e984edd5d",
-    "5999961509503759ac34353156a86509"
+    "5999961509503759ac34353156a86509",
+    "ad3538e807c77acc94a1f23f4f6a82f1",
+    "14da1aa52b0d946847438fbe77c48de7"
   ]
 }
