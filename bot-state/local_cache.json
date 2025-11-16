@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kommentar-zu-chips-und-seltene-erden-deutschlands-abhaengigkeit-von-china-100.html",
-    "https://www.deutschlandfunk.de/neue-regierungschefin-takaichi-staerkung-der-beziehungen-zu-usa-hoechste-prioritaet-100.html",
-    "https://www.deutschlandfunk.de/frankreich-droht-wegen-staatsfinanzen-zu-ersticken-100.html",
     "https://www.deutschlandfunk.de/uhrzeit-wieder-von-sommer-auf-normalzeit-umgestellt-102.html",
     "https://www.deutschlandfunk.de/kamala-harris-haelt-sich-erneute-praesidentschaftskandidatur-offen-102.html",
     "https://www.spiegel.de/politik/bundesregierung-66-prozent-der-buerger-laut-umfrage-unzufrieden-mit-regierungsarbeit-a-147f5eef-ae0a-4e86-b181-0da9c847ded1#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/praesidentschaftswahl-hat-begonnen-164.html",
     "https://www.deutschlandfunk.de/kranzniederlegung-an-der-zentralen-gedenkstaette-in-berlin-102.html",
     "https://www.faz.net/aktuell/politik/inland/laender-fordern-besseren-schutz-von-anwaelten-accg-110783022.html",
-    "https://www.deutschlandfunk.de/kranzniederlegungen-an-der-zentralen-gedenkstaette-in-berlin-100.html"
+    "https://www.deutschlandfunk.de/kranzniederlegungen-an-der-zentralen-gedenkstaette-in-berlin-100.html",
+    "https://www.deutschlandfunk.de/gedenkfeier-im-bundestag-schneiderhan-1945-lag-deutschland-in-truemmern-auch-moralisch-102.html",
+    "https://www.deutschlandfunk.de/griechenland-liefert-us-fluessigerdgas-an-die-ukraine-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-soeder-will-gemeinsame-loesung-in-rentenstreit-finden-faz-110093143.html"
   ],
   "content_hashes": [
-    "20493277bef70a9e0f84b52c003fe664",
-    "cd26bf4d6e2e67854ba078410de25289",
-    "f656feed98c2862ddcf84b029af6cdc6",
     "da8d36f284b081680153e67be1327390",
     "8669b55840e0ef7d4be9b2aeba7871bb",
     "ac3f84c0f8bacef2f8a88253a7122325",
@@ -2001,12 +1998,12 @@
     "096e35a058df0d42c1b5d7d908b95a97",
     "80ee867d56bec94923bdb7dd63b45e5d",
     "038659499a474c92d4ecbd5ea17ac919",
-    "063ea99ebd899d65c1ac94d8c86bf395"
+    "063ea99ebd899d65c1ac94d8c86bf395",
+    "b7d2b947bd0b9247ed7d6531a1afc606",
+    "931a98ced84515b7d8710ed8d613f88b",
+    "5402a721127901ff582481159f04a3e9"
   ],
   "titles": [
-    "Kommentar zu Chips - Deutschlands Abhängigkeit von China muss enden",
-    "Japan - Neue Regierungschefin Takaichi: \"Stärkung der Beziehungen zu USA höchste Priorität\"",
-    "Französischer Zentralbank-Chef - \"Frankreich droht wegen Staatsfinanzen zu ersticken\"",
     "Zeitumstellung - Uhrzeit wieder von Sommer- auf Normalzeit umgestellt",
     "BBC-Interview - Kamala Harris hält sich erneute Präsidentschaftskandidatur offen",
     "Bundesregierung: 66 Prozent der Bürger laut Umfrage unzufrieden mit Regierungsarbeit",
@@ -3003,12 +3000,12 @@
     "Chile - Präsidentschaftswahl hat begonnen",
     "Volkstrauertag - Kranzniederlegung an der Zentralen Gedenkstätte in Berlin",
     "Grundgesetzänderung: Länder fordern besseren Schutz von Anwälten",
-    "Volkstrauertag - Kranzniederlegungen an der Zentralen Gedenkstätte in Berlin"
+    "Volkstrauertag - Kranzniederlegungen an der Zentralen Gedenkstätte in Berlin",
+    "Volkstrauertag - Gedenkfeier im Bundestag - Schneiderhan: \"1945 lag Deutschland in Trümmern - auch moralisch\"",
+    "Energieversorgung - Griechenland liefert US-Flüssigerdgas an die Ukraine",
+    "Liveblog Bundespolitik: Söder will gemeinsame Lösung in Rentenstreit finden"
   ],
   "hashes": [
-    "241cde9a2421fa920941b9e793f3fb8f",
-    "8da37ff3ddbd21d8b5b25002460e5010",
-    "048e743926327b8c75fc488d996fb4e9",
     "45d1e93047e41b44f208d4f58b4b5dda",
     "f9a5d0575db3a4559862539b9b0c76a4",
     "7b35d9ad9a922e705d986cf67817408f",
@@ -4005,6 +4002,9 @@
     "6d5f2d86a34ea0c2d904d7a5617885bd",
     "7c8dd86f09cdfd4edc0913c54f537151",
     "ea7a5c4cb3b0f9db2e8548f2337fe064",
-    "c3d850e5daa761674795a4909cb1f830"
+    "c3d850e5daa761674795a4909cb1f830",
+    "ea8c0b0f319deabd6a0db59c6cc10d95",
+    "9256c428458644190c1ef180c5252f94",
+    "f67b8af9b9bee46a446626f017b605c0"
   ]
 }
