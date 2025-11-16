@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uhrzeit-wieder-von-sommer-auf-normalzeit-umgestellt-102.html",
-    "https://www.deutschlandfunk.de/kamala-harris-haelt-sich-erneute-praesidentschaftskandidatur-offen-102.html",
-    "https://www.spiegel.de/politik/bundesregierung-66-prozent-der-buerger-laut-umfrage-unzufrieden-mit-regierungsarbeit-a-147f5eef-ae0a-4e86-b181-0da9c847ded1#ref=rss",
     "https://www.deutschlandfunk.de/26-verletzte-bei-russsichem-angriff-auf-kiew-gemeldet-100.html",
     "https://www.aljazeera.com/news/2025/10/26/russia-ukraine-war-list-of-key-events-day-1340?traffic_source=rss",
     "https://www.deutschlandfunk.de/sommerzeit-zu-ende-uhren-auf-normalzeit-zurueckgestellt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kranzniederlegungen-an-der-zentralen-gedenkstaette-in-berlin-100.html",
     "https://www.deutschlandfunk.de/gedenkfeier-im-bundestag-schneiderhan-1945-lag-deutschland-in-truemmern-auch-moralisch-102.html",
     "https://www.deutschlandfunk.de/griechenland-liefert-us-fluessigerdgas-an-die-ukraine-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-soeder-will-gemeinsame-loesung-in-rentenstreit-finden-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-soeder-will-gemeinsame-loesung-in-rentenstreit-finden-faz-110093143.html",
+    "https://www.deutschlandfunk.de/spanien-und-frankreich-fuer-abgabe-auf-luxus-flugreisen-100.html",
+    "https://www.deutschlandfunk.de/aegypten-museum-beschraenkt-besuchszeit-102.html",
+    "https://www.deutschlandfunk.de/auktionshaus-nimmt-judenstern-versteigerung-offline-104.html"
   ],
   "content_hashes": [
-    "da8d36f284b081680153e67be1327390",
-    "8669b55840e0ef7d4be9b2aeba7871bb",
-    "ac3f84c0f8bacef2f8a88253a7122325",
     "7344183b1a03cbeae09cd713ccf99d56",
     "85cfa7f5d1085474f791145b9eb58fca",
     "f3186420df3c1c7993ba761133206242",
@@ -2001,12 +1998,12 @@
     "063ea99ebd899d65c1ac94d8c86bf395",
     "b7d2b947bd0b9247ed7d6531a1afc606",
     "931a98ced84515b7d8710ed8d613f88b",
-    "5402a721127901ff582481159f04a3e9"
+    "5402a721127901ff582481159f04a3e9",
+    "a9f90543fa0fddd0f435213f0736b03f",
+    "2a400f697fd883d73d017c2e81d08ee5",
+    "a6e4618de63d955c75d113920e10e676"
   ],
   "titles": [
-    "Zeitumstellung - Uhrzeit wieder von Sommer- auf Normalzeit umgestellt",
-    "BBC-Interview - Kamala Harris hält sich erneute Präsidentschaftskandidatur offen",
-    "Bundesregierung: 66 Prozent der Bürger laut Umfrage unzufrieden mit Regierungsarbeit",
     "Ukraine-Krieg - 26 Verletzte bei russsichem Angriff auf Kiew gemeldet",
     "Russia-Ukraine war: List of key events, day 1,340",
     "Zeitumstellung - Sommerzeit zu Ende - Uhren auf Normalzeit zurückgestellt",
@@ -3003,12 +3000,12 @@
     "Volkstrauertag - Kranzniederlegungen an der Zentralen Gedenkstätte in Berlin",
     "Volkstrauertag - Gedenkfeier im Bundestag - Schneiderhan: \"1945 lag Deutschland in Trümmern - auch moralisch\"",
     "Energieversorgung - Griechenland liefert US-Flüssigerdgas an die Ukraine",
-    "Liveblog Bundespolitik: Söder will gemeinsame Lösung in Rentenstreit finden"
+    "Liveblog Bundespolitik: Söder will gemeinsame Lösung in Rentenstreit finden",
+    "Klimakonferenz - Spanien und Frankreich für Abgabe auf Luxus-Flugreisen",
+    "Kurz nach Eröffnung - Ägypten-Museum beschränkt Besuchszeit",
+    "Nach Kritik - Auktionshaus nimmt Judenstern-Versteigerung offline"
   ],
   "hashes": [
-    "45d1e93047e41b44f208d4f58b4b5dda",
-    "f9a5d0575db3a4559862539b9b0c76a4",
-    "7b35d9ad9a922e705d986cf67817408f",
     "ef5ccc5af6aabefe825d1fc82d8e3ebe",
     "4ef88917bae29caafadee73097efc444",
     "176c9f9c66519266906df8c9e60efc4c",
@@ -4005,6 +4002,9 @@
     "c3d850e5daa761674795a4909cb1f830",
     "ea8c0b0f319deabd6a0db59c6cc10d95",
     "9256c428458644190c1ef180c5252f94",
-    "f67b8af9b9bee46a446626f017b605c0"
+    "f67b8af9b9bee46a446626f017b605c0",
+    "240a9b056822876140834bc80aaeb119",
+    "712e936d28a9efb7717be44e031f175e",
+    "98a1f6abe35cc0a3ae509632d486b937"
   ]
 }
