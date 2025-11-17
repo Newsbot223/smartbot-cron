@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bayern-wie-sich-die-konfliktlinien-in-der-afd-verschieben-accg-110750504.html",
-    "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
-    "https://www.deutschlandfunk.de/spanische-ermittler-stellen-6-5-tonnen-kokain-auf-hochseefrachter-sicher-100.html",
     "https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss",
     "https://www.deutschlandfunk.de/spahn-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-102.html",
     "https://www.faz.net/aktuell/politik/inland/kritik-an-merz-will-die-spd-in-die-opposition-110750552.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stimmung-truebt-sich-ein-fehlende-auftraege-104.html",
     "https://www.deutschlandfunk.de/mehr-als-36-000-haushalte-nach-russischem-angriff-ohne-strom-102.html",
     "https://www.deutschlandfunk.de/anschlagsdrohung-gegen-viele-schulen-ueber-900-notrufe-104.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-bei-ob-wahl-in-kiel-vorn-stichwahl-gegen-gruenen-accg-110784027.html"
+    "https://www.faz.net/aktuell/politik/inland/cdu-bei-ob-wahl-in-kiel-vorn-stichwahl-gegen-gruenen-accg-110784027.html",
+    "https://www.deutschlandfunk.de/ex-regierungschefin-hasina-zum-tod-verurteilt-100.html",
+    "https://www.spiegel.de/politik/israel-gaza-krieg-bundesregierung-will-wieder-alle-ruestungsgueter-an-israel-liefern-a-e4fede08-8b7a-4fec-8197-066063411264#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/kleine-konfliktgeschichte-des-schwangerschaftsabbruchs-accg-110728654.html"
   ],
   "content_hashes": [
-    "8a691f94361ccc69cc8c6cab14ac9f19",
-    "d327040af16a7ddc3c9fa33aeffecd72",
-    "016026f8d8e7f95fbddb50181520bbdf",
     "d42376813ffe15d8dab24706c1bce354",
     "7d696a819b616b9614cecbdcf3c77de0",
     "a98eb3a55a91fa50d3a71ad8dc74dc2f",
@@ -2001,12 +1998,12 @@
     "b688c673e9bbed757da81f9ed742f1d4",
     "74bc06959b57c9391a8f20dcd5db440b",
     "8908ea4a54803703fcbc1d3ac7ff3142",
-    "9c594bc4285be432e89af799abeb76ad"
+    "9c594bc4285be432e89af799abeb76ad",
+    "d1ba60c49d548ab06e5d1decb4521fbd",
+    "48d98661935f678ec75bc0ac842a394c",
+    "e343ffe520ac9b8da1d4f78380506eb0"
   ],
   "titles": [
-    "Parteitag in Bayern: Wie sich die Konfliktlinien in der AfD verschieben",
-    "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
-    "Fahndungserfolg - Spanische Ermittler stellen 6,5 Tonnen Kokain auf Hochseefrachter sicher",
     "Grünenchef Banaszak sieht »Angsträume«",
     "Umstrittene Merz-Äußerung - Spahn verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
     "Kritik an Merz: Will die SPD unbedingt in die Opposition?",
@@ -3003,12 +3000,12 @@
     "Wohnungsbau - Stimmung trübt sich ein - \"Fehlende Aufträge\"",
     "Odessa - Mehr als 36.000 Haushalte nach russischem Angriff ohne Strom",
     "Berlin - Anschlagsdrohung gegen viele Schulen - über 900 Notrufe",
-    "Schleswig-Holstein: CDU liegt bei OB-Wahl in Kiel vorn"
+    "Schleswig-Holstein: CDU liegt bei OB-Wahl in Kiel vorn",
+    "Bangladesch - Ex-Regierungschefin Hasina zum Tod verurteilt",
+    "Israel-Gaza-Krieg: Bundesregierung will wieder alle Rüstungsgüter an Israel liefern",
+    "Paragraph 218 StGB: Kleine Konfliktgeschichte des Schwangerschaftsabbruchs"
   ],
   "hashes": [
-    "4bc787f45afebd6590983b9d21afd121",
-    "ec3f47d98ae29a5f9b7afd9fb5e946a8",
-    "849d5f23c3cc49dc030b792c54bf7029",
     "0a306b646379902319af8e911f09cc77",
     "6f7f04d32e8e16e2991b8914e5b7b331",
     "df28a56af29d19b2962d7cf029c3db5f",
@@ -4005,6 +4002,9 @@
     "50912209557779e54eba362c533c60c3",
     "4a2355aa7abb4fbe977ce8392783cab0",
     "41ee996cd38d47e6630374a9ae941d56",
-    "00397cdee98fe71d3d26964697b9e898"
+    "00397cdee98fe71d3d26964697b9e898",
+    "ca47e057bdf3578f9873260794d03b71",
+    "118eeeec226f9e4c3c60f4f24568b4db",
+    "d2304e482a74cd182ef6426881159661"
   ]
 }
