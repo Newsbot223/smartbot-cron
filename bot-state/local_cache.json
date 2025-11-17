@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-fliegt-wieder-gegenangriffe-auf-russische-gebiete-102.html",
-    "https://www.deutschlandfunk.de/zahl-der-bestattungen-in-deutschland-hat-deutlich-zugenommen-preise-fuer-beerdigungen-aber-auch-100.html",
     "https://www.deutschlandfunk.de/erster-direktflug-zwischen-indien-und-china-102.html",
     "https://www.spiegel.de/wirtschaft/seltene-erden-china-fordert-sensible-geschaeftsdaten-fuer-ausfuhrgenehmigungen-a-68f08eaa-54b8-454d-ba9c-1f658f1a1726#ref=rss",
     "https://www.deutschlandfunk.de/agarminister-rainer-will-gemeinsamen-vorgehen-in-eu-zur-vogelgrippe-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/cdu-unternehmer-stephan-schambach-spendet-halbe-million-euro-a-37b2a0ff-1aed-4791-9658-d0c515200f20#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/der-unbequeme-ju-vorsitzende-johannes-winkel-110784595.html",
     "https://www.deutschlandfunk.de/wadephul-mahnt-eu-beitritts-kandidaten-zu-mehr-reformen-100.html",
-    "https://www.deutschlandfunk.de/katrin-gottschalk-zu-dritter-taz-chefredakteurin-berufen-102.html"
+    "https://www.deutschlandfunk.de/katrin-gottschalk-zu-dritter-taz-chefredakteurin-berufen-102.html",
+    "https://www.deutschlandfunk.de/bundespolizei-beschlagnahmt-300-gefaehrliche-gegenstaende-100.html",
+    "https://www.faz.net/aktuell/politik/inland/weltklimakonferenz-ein-bisschen-cottbus-auf-der-cop-110784688.html"
   ],
   "content_hashes": [
-    "4c510235f70663e54ac3793525ad49ef",
-    "c5c87cffcb81b4dc86622c1bb0237649",
     "937047b6d4b42ffa9b0afeb3ead1f280",
     "99b382fb6a28c1d6c92fd3f29d4ea79b",
     "dadd704f79b8fe940924cc8554357131",
@@ -2001,11 +1999,11 @@
     "de53bc583f596e80fcf21acb1e5b580f",
     "1e7253885d1b499e232e6c72f495aac6",
     "5c80c45a6c16bdbb36f691ded49a67f1",
-    "1d671cc7cf59c90cdd87765e5e4b928c"
+    "1d671cc7cf59c90cdd87765e5e4b928c",
+    "93d0a5663b1a3945e4db866ad63ee1d9",
+    "3f1c54b9a005b8666e9efa33b2531174"
   ],
   "titles": [
-    "Ukraine-Krieg - Ukraine fliegt wieder Gegenangriffe auf russische Gebiete",
-    "Gesellschaft - Zahl der Bestattungen in Deutschland hat deutlich zugenommen - Preise für Beerdigungen aber auch",
     "Nach fünf Jahren Unterbrechung - Erster Direktflug zwischen Indien und China",
     "Seltene Erden: China fordert sensible Geschäftsdaten für Ausfuhrgenehmigungen",
     "Tierseuche - Agarminister Rainer will gemeinsamen Vorgehen in EU zur Vogelgrippe",
@@ -3003,11 +3001,11 @@
     "CDU: Unternehmer Stephan Schambach spendet halbe Million Euro",
     "Johannes Winkel: Der unbequeme JU-Vorsitzende",
     "Westbalkan-Reise - Wadephul mahnt EU-Beitritts-Kandidaten zu mehr Reformen",
-    "Medien - Katrin Gottschalk zu dritter \"taz\"-Chefredakteurin berufen"
+    "Medien - Katrin Gottschalk zu dritter \"taz\"-Chefredakteurin berufen",
+    "Schwerpunkteinsatz an Bahnhöfen - Bundespolizei beschlagnahmt 300 gefährliche Gegenstände",
+    "COP in Brasilien: Ein Hauch von Cottbus auf der Weltklimakonferenz"
   ],
   "hashes": [
-    "05be26a6b7ffa5f69b79dfff1fe2d134",
-    "d1675a0df621975b9a2df88770a2d705",
     "3d4057ab2a07f8fecc5fd5ee746ab738",
     "b5ede9bc837dcd5454a2b01e4edcadbe",
     "52f71c35c0a0c08d392ca1ddb19d2311",
@@ -4005,6 +4003,8 @@
     "673633bdfbaa0d1e26e0fa8bb7b91070",
     "31eceeeef97d9ebbf01b59f0812d0b38",
     "783ce97a9da3397d3fa281f4e037d26a",
-    "6f6eeb5ccb6ed9b0f094c704d48ebffe"
+    "6f6eeb5ccb6ed9b0f094c704d48ebffe",
+    "aec253df880a38fffdfec0517bf0bd61",
+    "53eb9752acafd8739b5e53955d970f5d"
   ]
 }
