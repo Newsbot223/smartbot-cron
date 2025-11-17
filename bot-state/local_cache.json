@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/gruenenchef-banaszak-sieht-angstraeume-a-82a192e1-78b6-4994-a405-f3b5abbe6613#ref=rss",
-    "https://www.deutschlandfunk.de/spahn-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-102.html",
     "https://www.faz.net/aktuell/politik/inland/kritik-an-merz-will-die-spd-in-die-opposition-110750552.html",
     "https://www.deutschlandfunk.de/chrupalla-nennt-spionage-vorwuerfe-gegen-afd-bodenlose-frechheit-102.html",
     "https://www.deutschlandfunk.de/familienministerin-prien-zu-israel-reise-eingetroffen-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/cdu-bei-ob-wahl-in-kiel-vorn-stichwahl-gegen-gruenen-accg-110784027.html",
     "https://www.deutschlandfunk.de/ex-regierungschefin-hasina-zum-tod-verurteilt-100.html",
     "https://www.spiegel.de/politik/israel-gaza-krieg-bundesregierung-will-wieder-alle-ruestungsgueter-an-israel-liefern-a-e4fede08-8b7a-4fec-8197-066063411264#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/kleine-konfliktgeschichte-des-schwangerschaftsabbruchs-accg-110728654.html"
+    "https://www.faz.net/aktuell/politik/inland/kleine-konfliktgeschichte-des-schwangerschaftsabbruchs-accg-110728654.html",
+    "https://www.spiegel.de/wirtschaft/fehmarn-lolland-anbindung-zum-ostseetunnel-verzoegert-sich-und-wird-teurer-a-a3a67cd5-132f-4ad5-b460-61c63cbad55b#ref=rss",
+    "https://www.faz.net/aktuell/politik/ausland/waffen-drohnen-flugabwehr-europa-lernt-sich-zu-verteidigen-accg-110773523.html"
   ],
   "content_hashes": [
-    "d42376813ffe15d8dab24706c1bce354",
-    "7d696a819b616b9614cecbdcf3c77de0",
     "a98eb3a55a91fa50d3a71ad8dc74dc2f",
     "d9537b59d328c72148794cf5bfcc4da3",
     "76b11cda79e54584e43ea53fab9f8404",
@@ -2001,11 +1999,11 @@
     "9c594bc4285be432e89af799abeb76ad",
     "d1ba60c49d548ab06e5d1decb4521fbd",
     "48d98661935f678ec75bc0ac842a394c",
-    "e343ffe520ac9b8da1d4f78380506eb0"
+    "e343ffe520ac9b8da1d4f78380506eb0",
+    "7e92f95979a3c485377c6fc1ea7d335b",
+    "4512be0fdfcd94e44a97c166464e88ff"
   ],
   "titles": [
-    "Grünenchef Banaszak sieht »Angsträume«",
-    "Umstrittene Merz-Äußerung - Spahn verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
     "Kritik an Merz: Will die SPD unbedingt in die Opposition?",
     "ZDF-Interview - Chrupalla nennt Spionage-Vorwürfe gegen AfD \"bodenlose Frechheit\"",
     "Jerusalem - Familienministerin Prien zu Israel-Reise eingetroffen",
@@ -3003,11 +3001,11 @@
     "Schleswig-Holstein: CDU liegt bei OB-Wahl in Kiel vorn",
     "Bangladesch - Ex-Regierungschefin Hasina zum Tod verurteilt",
     "Israel-Gaza-Krieg: Bundesregierung will wieder alle Rüstungsgüter an Israel liefern",
-    "Paragraph 218 StGB: Kleine Konfliktgeschichte des Schwangerschaftsabbruchs"
+    "Paragraph 218 StGB: Kleine Konfliktgeschichte des Schwangerschaftsabbruchs",
+    "Fehmarn-Lolland: Anbindung zum Ostseetunnel verzögert sich und wird teurer",
+    "Waffen, Drohnen, Flugabwehr: Europa lernt, sich zu verteidigen"
   ],
   "hashes": [
-    "0a306b646379902319af8e911f09cc77",
-    "6f7f04d32e8e16e2991b8914e5b7b331",
     "df28a56af29d19b2962d7cf029c3db5f",
     "e0df4c0879dcbca7fb9733119cd5d00f",
     "a9d3ae639bbab06986225d313b7fefdb",
@@ -4005,6 +4003,8 @@
     "00397cdee98fe71d3d26964697b9e898",
     "ca47e057bdf3578f9873260794d03b71",
     "118eeeec226f9e4c3c60f4f24568b4db",
-    "d2304e482a74cd182ef6426881159661"
+    "d2304e482a74cd182ef6426881159661",
+    "b228262e4c90d3e1234716df772f59d2",
+    "315b39733f25960ad2350c002b8da261"
   ]
 }
