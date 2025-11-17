@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erfolg-fuer-staatschef-milei-bei-kongresswahl-100.html",
-    "https://www.aljazeera.com/news/2025/10/27/russia-ukraine-war-list-of-key-events-day-1341?traffic_source=rss",
-    "https://www.deutschlandfunk.de/jury-zeichnet-hauptbahnhof-von-magdeburg-aus-und-lobt-sanierung-100.html",
-    "https://www.deutschlandfunk.de/prien-in-israel-eingetroffen-100.html",
     "https://www.aljazeera.com/news/2025/10/27/hong-kong-court-gives-trio-lengthy-jail-terms-over-bomb-plots?traffic_source=rss",
     "https://www.deutschlandfunk.de/ukraine-fliegt-wieder-gegenangriffe-auf-russisches-gebiet-100.html",
     "https://www.faz.net/aktuell/politik/ausland/deutsche-entwicklungshilfe-kein-geld-fuer-maertyrer-110750487.html",
@@ -999,13 +995,13 @@
     "https://www.spiegel.de/wirtschaft/handelskrieg-mit-den-usa-chinesische-produkte-ueberschwemmen-deutschen-markt-a-348b77af-ee3f-4848-a924-e5a39036b7da#ref=rss",
     "https://www.deutschlandfunk.de/ex-regierungschefin-hasina-bezeichnet-todesurteil-als-politisch-motiviert-100.html",
     "https://www.spiegel.de/wirtschaft/schwarz-gruppe-investiert-elf-milliarden-in-rechenzentrum-a-a65653de-2e13-4bde-9d72-58fd33a918bf#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/linkes-lager-in-der-krise-hoffen-auf-mamdani-effekt-bleibt-wunschdenken-accg-110783116.html"
+    "https://www.faz.net/aktuell/politik/inland/linkes-lager-in-der-krise-hoffen-auf-mamdani-effekt-bleibt-wunschdenken-accg-110783116.html",
+    "https://www.deutschlandfunk.de/afd-klage-gegen-ex-polizeipraesidenten-teilweise-erfolgreich-102.html",
+    "https://www.deutschlandfunk.de/pianist-lang-lang-erhaelt-hoch-dotierten-musikpreis-102.html",
+    "https://www.spiegel.de/politik/lars-klingbeil-bundesfinanzminister-pocht-in-china-auf-zugang-zu-kritischen-rohstoffen-a-bdc81d22-f3d5-415e-91bd-1bd6cb972f01#ref=rss",
+    "https://www.spiegel.de/politik/deutschland/hendrik-streeck-cdu-politiker-will-aussage-zur-versorgung-alter-menschen-klarstellen-a-536cd9ae-428b-4c75-a810-a02d60fb1f9d#ref=rss"
   ],
   "content_hashes": [
-    "8bf9fe1c9761129331f2b3d9f4e28dc6",
-    "fc40ded834052b171ec8d0db3b88a8d0",
-    "51eaa5686e2cb1d3e44a8f78d1be7d78",
-    "71353950431ecdd6ba0a055294fc0883",
     "8985589444445445598e70065379c09b",
     "1478187d8c675a34e8d15646c9cb27be",
     "dacb2b09d626f2c0b9ce58a5fb7df095",
@@ -2001,13 +1997,13 @@
     "61421356f5fb2bc456067fe9cbd67312",
     "f3d8985425c0010a1119664dc4def74d",
     "60b9775b970b3f6e548bd6902cc30059",
-    "0cfbaa907b085c713e667c4a5b69574c"
+    "0cfbaa907b085c713e667c4a5b69574c",
+    "ba28697b8d0f49df545472bd39dba7d5",
+    "2777a5dfbc15912ae1c7bb273f7bebae",
+    "cceb4798b661dea8d0ecefd32d0e463b",
+    "c471eec1ee7cdab6b18b0e76faf45f90"
   ],
   "titles": [
-    "Argentinien - Erfolg für Staatschef Milei bei Kongresswahl",
-    "Russia-Ukraine war: List of key events, day 1,341",
-    "\"Bahnhof des Jahres\" - Jury zeichnet Hauptbahnhof von Magdeburg aus und lobt Sanierung",
-    "Jerusalem - Prien in Israel eingetroffen",
     "Hong Kong court gives trio lengthy jail terms over bomb plots",
     "Ukraine-Krieg - Ukraine fliegt wieder Gegenangriffe auf russisches Gebiet",
     "Deutsche Entwicklungshilfe: Kein Geld für palästinensische „Märtyrer“",
@@ -3003,13 +2999,13 @@
     "Handelskrieg mit den USA: Chinesische Produkte überschwemmen deutschen Markt",
     "Bangladesch - Ex-Regierungschefin Hasina bezeichnet Todesurteil als \"politisch motiviert\"",
     "Schwarz-Gruppe investiert elf Milliarden in Rechenzentrum",
-    "Linkes Lager in der Krise: Die Hoffnung auf den Mamdani-Effekt bleibt Wunschdenken"
+    "Linkes Lager in der Krise: Die Hoffnung auf den Mamdani-Effekt bleibt Wunschdenken",
+    "Oldenburg - AfD-Klage gegen Ex-Polizeipräsidenten teilweise erfolgreich",
+    "Daphne Music Award - Pianist Lang Lang erhält hoch dotierten Musikpreis",
+    "Lars Klingbeil: Bundesfinanzminister pocht in China auf Zugang zu kritischen Rohstoffen",
+    "Hendrik Streeck: CDU-Politiker will Aussage zur Versorgung alter Menschen klarstellen"
   ],
   "hashes": [
-    "a0eaed436d4379447720ee08860a4ad9",
-    "e21708367f85737262bd690c12ddabb1",
-    "aea4578bed90e69defba2deb61f6c4ac",
-    "0ce01b45791cae56603e5ba058976cca",
     "081ef3af64482bdb683e0e0cdc30dbae",
     "0c784d4a55c87ca69437fe84d0d69f96",
     "6d115c65d735194ee59cbc7e060bf08a",
@@ -4005,6 +4001,10 @@
     "9794b575710e4cf11187488f600f1990",
     "4e91168f0e253fb320ed4ff9b5a3f1ff",
     "403c04dc8d049dcd34dc2cac06c4f5b1",
-    "087bc34bc2bcef2a3e1497417610687e"
+    "087bc34bc2bcef2a3e1497417610687e",
+    "28e8c42ce545c791dffd2228fd3f8820",
+    "fcdf8ac2ca880336282044f943958bba",
+    "9cedaf58d182f6c82b411078a79fe14d",
+    "523ca07e57bf36f741aa017f899b2b87"
   ]
 }
