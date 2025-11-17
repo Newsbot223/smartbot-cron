@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/palaestinenser-praesident-abbas-legt-nachfolgeregelung-fest-104.html",
-    "https://www.deutschlandfunk.de/amtsinhaber-ouattara-siegt-offenbar-bei-praesidentenwahl-100.html",
-    "https://www.deutschlandfunk.de/erneut-sturmflut-an-nordsee-kueste-und-im-hamburger-elbegebiet-100.html",
     "https://www.faz.net/aktuell/politik/ausland/japans-neue-ministerpraesidentin-ganz-nach-trumps-geschmack-110748427.html",
     "https://www.deutschlandfunk.de/festakt-zum-75-jaehrigen-bestehen-des-verfassungsschutzes-100.html",
     "https://www.deutschlandfunk.de/prien-zu-israel-reise-eingetroffen-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ausland/waffen-drohnen-flugabwehr-europa-lernt-sich-zu-verteidigen-accg-110773523.html",
     "https://www.deutschlandfunk.de/wachstumsprognose-fuer-deutschland-angehoben-102.html",
     "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-waechst-aber-langsamer-als-eu-durchschnitt-a-c5fdff91-5cc7-4662-a06f-bb5e537f33bc#ref=rss",
-    "https://www.deutschlandfunk.de/krebsforscher-hallek-weist-streeck-vorstoss-zur-therapiebegrenzung-fuer-hochbetagte-patienten-scharf-100.html"
+    "https://www.deutschlandfunk.de/krebsforscher-hallek-weist-streeck-vorstoss-zur-therapiebegrenzung-fuer-hochbetagte-patienten-scharf-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-40-tote-bei-busunglueck-in-medina-100.html",
+    "https://www.deutschlandfunk.de/deutscher-krankenhaustag-medica-und-compamed-messe-gesundheitsexperten-beraten-zur-zukunft-der-mediz-104.html",
+    "https://www.spiegel.de/wirtschaft/handelskrieg-mit-den-usa-chinesische-produkte-ueberschwemmen-deutschen-markt-a-348b77af-ee3f-4848-a924-e5a39036b7da#ref=rss"
   ],
   "content_hashes": [
-    "c942ce26491f54a7fdc9f1d8952c2b12",
-    "674296e9a190912460abcdc49af534d4",
-    "9ea879688f07f4229d31a899edfdd267",
     "a08b87f3d0705276adc220e86fd5af85",
     "99219fa8f5d41aca8f7c9d795b2e9480",
     "0798f1aea26a83ce56180e136463fd73",
@@ -2001,12 +1998,12 @@
     "4512be0fdfcd94e44a97c166464e88ff",
     "5dd8e75718f89b4deb5fa20667bdcf58",
     "5a2c54fcf38242c37400b22f0dd6f3c9",
-    "dd9c01c5116bb63d6564f3ddd51763e6"
+    "dd9c01c5116bb63d6564f3ddd51763e6",
+    "0187d2c276a0dfc9e759e2ee2e014bbf",
+    "a1b058867143f695c6d896034c7c8996",
+    "61421356f5fb2bc456067fe9cbd67312"
   ],
   "titles": [
-    "Ramallah - Palästinenser-Präsident Abbas legt Nachfolgeregelung fest",
-    "Elfenbeinküste - Amtsinhaber Ouattara siegt offenbar bei Präsidentenwahl",
-    "Bundesamt für Seeschifffahrt und Hydrographie - Erneut Sturmflut an Nordsee-Küste und im Hamburger Elbegebiet",
     "Neue Regierung in Japan: Eine Ministerpräsidentin ganz nach Trumps Geschmack",
     "Berlin - Festakt zum 75-jährigen Bestehen des Verfassungsschutzes",
     "Jerusalem - Prien zu Israel-Reise eingetroffen",
@@ -3003,12 +3000,12 @@
     "Waffen, Drohnen, Flugabwehr: Europa lernt, sich zu verteidigen",
     "EU-Kommission - Wachstumsprognose für Deutschland angehoben",
     "Wirtschaft in Deutschland wächst – aber langsamer als EU-Durchschnitt",
-    "Gesundheitssystem - Krebsforscher Hallek weist Streeck-Vorstoß zur Therapiebegrenzung für hochbetagte Patienten scharf zurück"
+    "Gesundheitssystem - Krebsforscher Hallek weist Streeck-Vorstoß zur Therapiebegrenzung für hochbetagte Patienten scharf zurück",
+    "Saudi-Arabien - Mehr als 40 Tote bei Busunglück in Medina",
+    "Düsseldorf - Deutscher Krankenhaustag, Medica- und Compamed-Messe - Gesundheitsexperten beraten zur Zukunft der Medizin",
+    "Handelskrieg mit den USA: Chinesische Produkte überschwemmen deutschen Markt"
   ],
   "hashes": [
-    "121ca4b41722fb1b5f9245004915d43a",
-    "e6896def2378cade39d5bc0571c413ee",
-    "527a4c5747a39ef32829783d765c20df",
     "39d0f473757c67b9de997ffed12cb2cc",
     "7bba119297869e512e5ba8f71e321c45",
     "034a0117977175e1a184648dcb7f5f9e",
@@ -4005,6 +4002,9 @@
     "315b39733f25960ad2350c002b8da261",
     "dda3606ed79f845e62aaa0f32931299c",
     "d8b186ad34bbec88517035363ee20cbe",
-    "da35128fd740037ee940d119dc600379"
+    "da35128fd740037ee940d119dc600379",
+    "c0c409a7c6d0b033c9956bf2b1a89147",
+    "bf29281b63a3e638ee4b365f544f8cee",
+    "9794b575710e4cf11187488f600f1990"
   ]
 }
