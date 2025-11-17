@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russische-armee-dringt-in-umkaempfte-stadt-pokrowsk-ein-100.html",
-    "https://www.deutschlandfunk.de/sudanesische-rsf-miliz-meldet-einnahme-der-stadt-al-faschir-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/trump-koennte-suedostasien-in-chinas-arme-treiben-110750488.html",
-    "https://www.deutschlandfunk.de/union-veraergert-ueber-spd-teilnahme-an-stadtbild-demonstration-100.html",
     "https://www.deutschlandfunk.de/ergebnisse-der-praesidentenwahl-erwartet-100.html",
     "https://www.faz.net/aktuell/politik/inland/bayern-wie-sich-die-konfliktlinien-in-der-afd-verschieben-accg-110750504.html",
     "https://www.deutschlandfunk.de/praesidenten-trump-und-lula-einigen-sich-auf-baldige-gespraeche-zur-beilegung-des-handelsstreits-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/konflikt-zwischen-venezuela-und-usa-aktuelle-entwicklungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/zielzahlen-der-koalition-langsam-soll-die-truppe-wachsen-accg-110783419.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-debatte-um-gaslieferungen-an-russland-100.html",
-    "https://www.spiegel.de/wirtschaft/service/gesundheitsorganisation-wirft-der-tabakindustrie-ablenkung-vor-a-4d5ff102-0975-435f-b018-718cfaec78f7#ref=rss"
+    "https://www.spiegel.de/wirtschaft/service/gesundheitsorganisation-wirft-der-tabakindustrie-ablenkung-vor-a-4d5ff102-0975-435f-b018-718cfaec78f7#ref=rss",
+    "https://www.deutschlandfunk.de/schwarz-gruppe-baut-ki-rechenzentrum-im-spreewald-100.html",
+    "https://www.deutschlandfunk.de/stimmung-truebt-sich-ein-fehlende-auftraege-104.html",
+    "https://www.deutschlandfunk.de/mehr-als-36-000-haushalte-nach-russischem-angriff-ohne-strom-102.html",
+    "https://www.deutschlandfunk.de/anschlagsdrohung-gegen-viele-schulen-ueber-900-notrufe-104.html"
   ],
   "content_hashes": [
-    "6b277422af3b8c527d4911b9ea982563",
-    "44f250b3c355c6f4c3db69aa9530358c",
-    "51851f22c9baa84f042fbd845494c58c",
-    "57440a520a592a699a0861e0e97cb781",
     "16111602ab1d597dd902c0be4c5f2601",
     "8a691f94361ccc69cc8c6cab14ac9f19",
     "d327040af16a7ddc3c9fa33aeffecd72",
@@ -2001,13 +1997,13 @@
     "ff05e4ac0ff5d5ff35322e957f3fd7e3",
     "b93089621f9985c9e83563864947e174",
     "7d3ac44fefd5a540c2a0aed098eed65b",
-    "6bb4fae782687ebe3a5b4b5aa5dcdeb5"
+    "6bb4fae782687ebe3a5b4b5aa5dcdeb5",
+    "4529176a3c405c91b448aa44e59e5776",
+    "b688c673e9bbed757da81f9ed742f1d4",
+    "74bc06959b57c9391a8f20dcd5db440b",
+    "8908ea4a54803703fcbc1d3ac7ff3142"
   ],
   "titles": [
-    "Ukraine - Russische Armee dringt in umkämpfte Stadt Pokrowsk ein",
-    "Region Dafur - Sudanesische RSF-Miliz meldet Einnahme der Stadt Al-Faschir",
-    "Trump in Südostasien: Der strategische Preis der Zölle",
-    "Umstrittene Merz-Äußerung - Union verärgert über SPD-Teilnahme an \"Stadtbild\"-Demonstration",
     "Elfenbeinküste - Ergebnisse der Präsidentenwahl erwartet",
     "Parteitag in Bayern: Wie sich die Konfliktlinien in der AfD verschieben",
     "ASEAN-Gipfel - Präsidenten Trump und Lula einigen sich auf baldige Gespräche zur Beilegung des Handelsstreits",
@@ -3003,13 +2999,13 @@
     "USA und Venezuela - Sorge vor einer Militärintervention",
     "Zielzahlen der Koalition: Langsam soll die Truppe wachsen",
     "Gas aus Russland - Kretschmer entfacht wieder eine Debatte",
-    "Gesundheitsorganisation wirft der Tabakindustrie Ablenkung vor"
+    "Gesundheitsorganisation wirft der Tabakindustrie Ablenkung vor",
+    "Wirtschaft - Schwarz Gruppe baut KI-Rechenzentrum im Spreewald",
+    "Wohnungsbau - Stimmung trübt sich ein - \"Fehlende Aufträge\"",
+    "Odessa - Mehr als 36.000 Haushalte nach russischem Angriff ohne Strom",
+    "Berlin - Anschlagsdrohung gegen viele Schulen - über 900 Notrufe"
   ],
   "hashes": [
-    "cd6f5611309d65db17d8cc1c8990ce05",
-    "286ddab2849c5cfea2ae321d0c8977b2",
-    "803bc85c4ce3f3e7367de5b3dadde48b",
-    "92415f203d738c560bc3bdab0d053f3b",
     "3218e9ed047b393bc80245848296dcf0",
     "4bc787f45afebd6590983b9d21afd121",
     "ec3f47d98ae29a5f9b7afd9fb5e946a8",
@@ -4005,6 +4001,10 @@
     "3ff6e09b36d9e79b93c56977176ecd9f",
     "001dfe9656385efb6500e6e65296346f",
     "79d4fbfdea2c2ed596117b7b6baf23f2",
-    "afcbfd7ec15d918e9e5eec3c1477ddb4"
+    "afcbfd7ec15d918e9e5eec3c1477ddb4",
+    "1e57c06a6b15187ae9de8073802988bc",
+    "50912209557779e54eba362c533c60c3",
+    "4a2355aa7abb4fbe977ce8392783cab0",
+    "41ee996cd38d47e6630374a9ae941d56"
   ]
 }
