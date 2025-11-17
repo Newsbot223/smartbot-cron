@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesident-milei-kuendigt-nach-wahlerfolg-intensivierung-seiner-wirtschaftspolitik-an-100.html",
-    "https://www.deutschlandfunk.de/haftbefehl-gegen-erdogan-konkurrent-imamoglu-wegen-spionagevorwuerfen-100.html",
     "https://www.deutschlandfunk.de/amerikanischer-kampfjet-und-helikopter-stuerzen-im-suedchinesischen-meer-ab-100.html",
     "https://www.faz.net/aktuell/politik/ausland/gaza-aufbau-berlin-will-nicht-fuer-maertyrerrenten-zahlen-accg-110750502.html",
     "https://www.deutschlandfunk.de/praesident-selen-sieht-spionage-und-sabotage-als-groesste-bedrohungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/hendrik-streeck-cdu-politiker-will-aussage-zur-versorgung-alter-menschen-klarstellen-a-536cd9ae-428b-4c75-a810-a02d60fb1f9d#ref=rss",
     "https://www.deutschlandfunk.de/spd-bleibt-in-renten-debatte-hart-100.html",
     "https://www.deutschlandfunk.de/weinachtsmaerkte-starten-innenminister-rufen-zu-unbeschwertem-feiern-auf-100.html",
-    "https://www.faz.net/aktuell/politik/inland/worum-es-beim-rentenstreit-in-der-union-geht-110784426.html"
+    "https://www.faz.net/aktuell/politik/inland/worum-es-beim-rentenstreit-in-der-union-geht-110784426.html",
+    "https://www.deutschlandfunk.de/weiter-keine-einigung-in-der-koalition-merz-hofft-auf-einigung-bis-jahresende-100.html",
+    "https://www.spiegel.de/politik/deutschland/cdu-unternehmer-stephan-schambach-spendet-halbe-million-euro-a-37b2a0ff-1aed-4791-9658-d0c515200f20#ref=rss"
   ],
   "content_hashes": [
-    "93310a17051a529b89022cbb6e22927f",
-    "7162f0bb4ff08a35dfbd43415f87840f",
     "2352fe465f9db74b15c6011635b09649",
     "aec070c5b16a60691ba8db5eb8570064",
     "1463ebc7fb12cdded0538a092e56c9d8",
@@ -2001,11 +1999,11 @@
     "c471eec1ee7cdab6b18b0e76faf45f90",
     "f3fd3b499a3a2fad1a44f93dffc2c474",
     "e929d5917da8e70a7aec89dd9c34f578",
-    "868bd4f65ad7e031382768ce1e22a596"
+    "868bd4f65ad7e031382768ce1e22a596",
+    "317bf10920c613ec0b2e6978879b6a6f",
+    "de53bc583f596e80fcf21acb1e5b580f"
   ],
   "titles": [
-    "Argentinien - Präsident Milei kündigt nach Wahlerfolg Intensivierung seiner Wirtschaftspolitik an",
-    "Türkei - Haftbefehl gegen Erdogan-Konkurrent Imamoglu wegen Spionagevorwürfen",
     "US-Armee - Amerikanischer Kampfjet und Helikopter stürzen im Südchinesischen Meer ab",
     "Unterstützung in Gaza: Deutsche Entwicklungshilfe will nicht für „Märtyrerrenten“ zahlen",
     "Verfassungsschutzamt wird 75 - Präsident Selen sieht Spionage und Sabotage als größte Bedrohungen",
@@ -3003,11 +3001,11 @@
     "Hendrik Streeck: CDU-Politiker will Aussage zur Versorgung alter Menschen klarstellen",
     "Streit mit der Union - SPD bleibt in Renten-Debatte hart",
     "Brauchtum - Weinachtsmärkte starten - Innenminister rufen zu unbeschwertem Feiern auf",
-    "Umstrittener Gesetzentwurf: Worum es beim Rentenstreit geht"
+    "Umstrittener Gesetzentwurf: Worum es beim Rentenstreit geht",
+    "Rentenreform - Weiter keine Einigung in der Koalition - Merz hofft auf Einigung bis Jahresende",
+    "CDU: Unternehmer Stephan Schambach spendet halbe Million Euro"
   ],
   "hashes": [
-    "ec8cdda2d24d9fd21dab89a4f0f7d4c2",
-    "2dee4d4f885fbdfaa4733e12fc2c934d",
     "2f8449439427fb9584713a933d95efa9",
     "5ccd1390c5dee6b494d5c2f1c195eec3",
     "61e370ef60b0429770995ca2831d7239",
@@ -4005,6 +4003,8 @@
     "523ca07e57bf36f741aa017f899b2b87",
     "55fbbe7f1ca94fb7fc6e2ed5125dbe9d",
     "761f6e979b70c145cd583921517c0a1f",
-    "c5cd71eb4ea8464d367fc655d7e032a4"
+    "c5cd71eb4ea8464d367fc655d7e032a4",
+    "f567b5a3c3a6c46a16806c8d37566855",
+    "673633bdfbaa0d1e26e0fa8bb7b91070"
   ]
 }
