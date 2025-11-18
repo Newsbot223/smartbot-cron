@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berufungsgericht-italien-darf-mutmasslichen-nord-stream-saboteur-ausliefern-100.html",
-    "https://www.spiegel.de/panorama/justiz/italien-gericht-erlaubt-auslieferung-von-nord-stream-saboteur-serhij-k-a-4729947f-2239-4350-a535-fe3488fff118#ref=rss",
     "https://www.deutschlandfunk.de/dobrindt-will-bessere-abwehr-von-spionage-und-cyberangriffen-102.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-betont-wunsch-nach-dialog-mit-peking-auch-nach-abgesagter-wadephul-reise-100.html",
     "https://www.deutschlandfunk.de/amtsinhaber-paul-biya-zum-wahlsieger-in-kamerun-erklaert-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/merz-macron-und-eu-minister-beraten-heute-ueber-digitale-souveraenitaet-100.html",
     "https://www.faz.net/aktuell/politik/inland/afd-abgeordnete-reisen-nach-sotschi-trotz-streit-in-der-partei-110784826.html",
     "https://www.deutschlandfunk.de/tausende-rinder-auf-schiff-aktivisten-fuerchten-tod-der-tiere-102.html",
-    "https://www.deutschlandfunk.de/junge-unionsabgeordnete-beharren-auf-aenderungen-am-rentenpaket-100.html"
+    "https://www.deutschlandfunk.de/junge-unionsabgeordnete-beharren-auf-aenderungen-am-rentenpaket-100.html",
+    "https://www.deutschlandfunk.de/repraesentantenhaus-stimmt-heute-ueber-freigabe-der-epstein-akten-ab-100.html",
+    "https://www.deutschlandfunk.de/deutsche-marine-kauft-waffensteuerungs-und-kommunikationssystem-aus-kanada-100.html"
   ],
   "content_hashes": [
-    "497eb66d51521c19a68125e3351d3042",
-    "badb5ca7f49edd3cba34516db5a420b0",
     "225cf1e67e11aa651741b6c69c347369",
     "58c78bb4af714fd943ebf86173b1237e",
     "8e832c1713cc938a4269db9589010d91",
@@ -2001,11 +1999,11 @@
     "24c481e3b9d2d1324868d9e035d0ff30",
     "2227cb1527c8a98c683d82a8d2d899f9",
     "c2506690cd5d39fc02631aa7f8411fbe",
-    "7dc506ce05b7e5ed1139f3b4e135f135"
+    "7dc506ce05b7e5ed1139f3b4e135f135",
+    "3b1080d4b2167ce589e4156431957e26",
+    "c741734b3acc44824861b7eee8bd0fb9"
   ],
   "titles": [
-    "Urteil - Berufungsgericht: Italien darf mutmaßlichen Nord-Stream-Saboteur ausliefern",
-    "Italien: Gericht erlaubt Auslieferung von Nord-Stream-Saboteur Serhij K.",
     "Verfassungsschutzamt wird 75 - Dobrindt will bessere Abwehr von Spionage und Cyberangriffen",
     "Deutsch-chinesisches Verhältnis - Auswärtiges Amt betont Wunsch nach Dialog mit Peking auch nach abgesagter Wadephul-Reise",
     "Wahlen - Amtsinhaber Paul Biya zum Wahlsieger in Kamerun erklärt",
@@ -3003,11 +3001,11 @@
     "Berlin - Merz, Macron und EU-Minister beraten heute über digitale Souveränität",
     "AfD-Abgeordnete auf Reisen: Rechte Videogrüße aus Sotschi",
     "Vor der türkischen Küste - Tausende Rinder auf Schiff - Aktivisten fürchten Tod der Tiere",
-    "Bundestag - Junge Unionsabgeordnete beharren auf Änderungen am Rentenpaket"
+    "Bundestag - Junge Unionsabgeordnete beharren auf Änderungen am Rentenpaket",
+    "USA - Repräsentantenhaus stimmt heute über Freigabe der Epstein-Akten ab",
+    "Rüstungsgeschäft - Deutsche Marine kauft Waffensteuerungs- und Kommunikationssystem aus Kanada"
   ],
   "hashes": [
-    "148f989fc8540646e321a637f5375f40",
-    "f22d5241dc93880cf123ea9ec206b57c",
     "68c3e07f1f089e8b4d01ba260b0bfe91",
     "d217436c704f150a5be5c84aa1ea9635",
     "8f96f9feaefa84ee00e0b885db2ba685",
@@ -4005,6 +4003,8 @@
     "cd3c50e409603f734753aa278b10dc58",
     "e28738a8282a130a718fe6730755c2dc",
     "ec3bb483f6b54792aaf164bfdea1a04f",
-    "b7752c7122ec71600f834d8860893792"
+    "b7752c7122ec71600f834d8860893792",
+    "8b09eb17989a6ce3f3c2d65bb1ef2716",
+    "d2341b72bcd44ba953b510db878193bd"
   ]
 }
