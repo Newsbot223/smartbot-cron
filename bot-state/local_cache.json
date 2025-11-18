@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hurrikan-melissa-koennte-zum-schlimmsten-sturm-in-der-geschichte-jamaikas-werden-100.html",
-    "https://www.deutschlandfunk.de/japans-ministerpraesidentin-wirbt-um-frieden-in-der-region-100.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-wirbt-fuer-ausbau-der-beziehungen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/anklage-gegen-i-mamo-lu-ein-schmaler-grat-fuer-merz-110751677.html",
     "https://www.spiegel.de/wirtschaft/deutsche-sparen-weniger-liegen-im-vergleich-aber-weit-vorn-a-2f873be1-fbb7-4533-a1ab-36912fa58dbc#ref=rss",
     "https://www.deutschlandfunk.de/hessen-meldet-mutmassliche-faelle-der-vogelgrippe-mehrere-bundeslaender-erwaegen-stallpflicht-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-komission-genehmigt-milliarden-entschaedigung-fuer-ostdeutschen-energiekonzern-leag-102.html",
     "https://www.deutschlandfunk.de/taeter-sind-nachbarn-bekannte-verwandte-menschen-denen-man-vertraut-neue-initiativen-gegen-kindesmis-100.html",
     "https://www.deutschlandfunk.de/erneuerbare-energien-bundesumweltminister-schneider-spd-sagt-geld-fuer-ausbau-von-netzen-im-ausland--100.html",
-    "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-100.html"
+    "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-100.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-unterstreicht-bedeutung-des-bundeswehr-einsatzes-im-kosovo-102.html",
+    "https://www.deutschlandfunk.de/us-gericht-lehnt-abspaltung-von-instagram-und-whatsapp-ab-100.html",
+    "https://www.deutschlandfunk.de/kiew-meldet-atacms-angriff-auf-ziele-in-russland-spanien-stellt-ukraine-817-mio-euro-hilfe-in-aussic-102.html"
   ],
   "content_hashes": [
-    "5d335bdc617ed6862a05dedc368adfc6",
-    "9eae8436fc9e2ea4ffb421a11473c543",
-    "4808d7a12b5d6aa6ae0bf958b73f321e",
     "126d22a634d8713475042facec96be94",
     "c9a53ae062ded72f7dfe7c7e86a92ede",
     "b0abff0f2b66cab683e144a23a7bc8ca",
@@ -2001,12 +1998,12 @@
     "1c08ded0d57440e38bef634377751288",
     "a5fd9a27a874a8841a7470d5166c3290",
     "80182b7801efa0c968f7e6cfe40c29ac",
-    "da131328e08e192f5806e28a30c8e4a8"
+    "da131328e08e192f5806e28a30c8e4a8",
+    "f466c0d00f1e3f3669f0176ea80466a1",
+    "b443ed37176505d8988cfcb66d54bfc3",
+    "ccbf5820da7fac94fe1b8f1ad30b82bf"
   ],
   "titles": [
-    "Wirbelsturm - Hurrikan \"Melissa\" könnte zum schlimmsten Sturm in der Geschichte Jamaikas werden",
-    "Staatsbesuch von US-Präsident Trump - Japans Ministerpräsidentin wirbt um Frieden in der Region",
-    "Zusammenarbeit mit Afrika - Bundespräsident Steinmeier wirbt für Ausbau der Beziehungen",
     "Anklage gegen İmamoğlu: Ein schmaler Grat für Merz in Ankara",
     "Deutsche sparen weniger, liegen im Vergleich aber weit vorn",
     "Seuche - Hessen meldet mutmaßliche Fälle der Vogelgrippe - mehrere Bundesländer erwägen Stallpflicht",
@@ -3003,12 +3000,12 @@
     "Kohleausstieg - EU-Komission genehmigt Milliarden-Entschädigung für ostdeutschen Energiekonzern Leag",
     "Sexualisierte Gewalt - \"Täter sind Nachbarn, Bekannte, Verwandte, Menschen, denen man vertraut\" - neue Initiativen gegen Kindesmissbrauch vorgestellt",
     "Weltklimakonferenz - Erneuerbare Energien: Bundesumweltminister Schneider (SPD) sagt Geld für Ausbau von Netzen im Ausland zu",
-    "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards"
+    "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards",
+    "Balkan - Bundesaußenminister Wadephul unterstreicht Bedeutung des Bundeswehr-Einsatzes im Kosovo",
+    "Monopolvorwürfe - US-Gericht lehnt Abspaltung von Instagram und WhatsApp ab",
+    "Ukraine-Krieg - Kiew meldet ATACMS-Angriff auf Ziele in Russland - Spanien stellt Ukraine 817 Mio Euro Hilfe in Aussicht"
   ],
   "hashes": [
-    "c6ee0960cdab818fd086d404990ceca4",
-    "0baef1d65d42a3d289393aba6003b9e4",
-    "e43b81af0c61a4aa637d721a06f92341",
     "f5b380035c6afcf2433e43f2a25c5860",
     "593b211e86ebc79cb517eba5a307de00",
     "710e9796289cfe7fd360bb0dfdf4c23e",
@@ -4005,6 +4002,9 @@
     "f1be76ef20f0e48c1445c032eeb91291",
     "f039616016ec32636d2048876d391754",
     "930efc3399cab163e0a50d4b5a748bd6",
-    "6dab04d675b035b6085de91508a93b6f"
+    "6dab04d675b035b6085de91508a93b6f",
+    "1929569e8a4395fc241ff32ddae2db3b",
+    "31bef1cd4c29df4ff23a2eb2772b2727",
+    "b0438ac35ab3da5f3775591d803816d9"
   ]
 }
