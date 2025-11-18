@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hessen-meldet-mutmassliche-faelle-der-vogelgrippe-mehrere-bundeslaender-erwaegen-stallpflicht-100.html",
-    "https://www.deutschlandfunk.de/klimaaktivisten-scheitern-mit-klage-gegen-oelfoerderung-in-der-arktis-100.html",
     "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html",
     "https://www.deutschlandfunk.de/spd-mitgliederbegehren-stoesst-in-union-auf-unverstaendnis-100.html",
     "https://www.deutschlandfunk.de/amazon-streicht-rund-14-000-buerojobs-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-gericht-lehnt-abspaltung-von-instagram-und-whatsapp-ab-100.html",
     "https://www.deutschlandfunk.de/kiew-meldet-atacms-angriff-auf-ziele-in-russland-spanien-stellt-ukraine-817-mio-euro-hilfe-in-aussic-102.html",
     "https://www.deutschlandfunk.de/mehrere-todesopfer-nach-israelischem-luftangriff-im-libanon-gemeldet-102.html",
-    "https://www.faz.net/aktuell/politik/inland/brandenburg-das-zerstrittene-bsw-wird-fuer-woidke-zum-problem-110786112.html"
+    "https://www.faz.net/aktuell/politik/inland/brandenburg-das-zerstrittene-bsw-wird-fuer-woidke-zum-problem-110786112.html",
+    "https://www.deutschlandfunk.de/italien-entscheidet-ueber-auslieferung-des-mutmasslichen-drahtziehers-nach-deutschland-102.html",
+    "https://www.deutschlandfunk.de/evangelische-christen-begehen-heute-buss-und-bettag-102.html"
   ],
   "content_hashes": [
-    "b0abff0f2b66cab683e144a23a7bc8ca",
-    "7b9d462130d424bd18271cb59b714ef6",
     "9872adcc9387cca37010b759450cac66",
     "af717362526506ac311032977827c2d4",
     "617b4fcf22bc844f35d10920e40737a6",
@@ -2001,11 +1999,11 @@
     "b443ed37176505d8988cfcb66d54bfc3",
     "ccbf5820da7fac94fe1b8f1ad30b82bf",
     "519a56248e0aff54324a1e8938c531e1",
-    "c88577df3ad29cb38012805256484bea"
+    "c88577df3ad29cb38012805256484bea",
+    "d77d6cfecaf5cf2bb2c764cbfda65e6b",
+    "52e2c5c1c0829d68b84d9ca65ab6717f"
   ],
   "titles": [
-    "Seuche - Hessen meldet mutmaßliche Fälle der Vogelgrippe - mehrere Bundesländer erwägen Stallpflicht",
-    "Straßburg - Klimaaktivisten scheitern mit Klage gegen Ölförderung in der Arktis",
     "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen",
     "Bürgergeld - SPD-Mitgliederbegehren stößt in Union auf Unverständnis",
     "Wirtschaft - Amazon streicht rund 14.000 Bürojobs",
@@ -3003,11 +3001,11 @@
     "Monopolvorwürfe - US-Gericht lehnt Abspaltung von Instagram und WhatsApp ab",
     "Ukraine-Krieg - Kiew meldet ATACMS-Angriff auf Ziele in Russland - Spanien stellt Ukraine 817 Mio Euro Hilfe in Aussicht",
     "Nahost - Mehrere Todesopfer nach israelischem Luftangriff im Libanon gemeldet",
-    "Abstimmung in Brandenburg: Das zerstrittene BSW wird für Woidke zum Problem"
+    "Abstimmung in Brandenburg: Das zerstrittene BSW wird für Woidke zum Problem",
+    "Nord Stream - Italien entscheidet über Auslieferung des mutmaßlichen Drahtziehers nach Deutschland",
+    "Feiertag - Evangelische Christen begehen heute Buß- und Bettag"
   ],
   "hashes": [
-    "710e9796289cfe7fd360bb0dfdf4c23e",
-    "f0c118d18ab444733a48059d4464ee48",
     "100b72a766593b871752dff47dbd85f4",
     "78bd534866bb2ff593694792a96e2361",
     "6cb787c840b625bc49d040c5791c1f2a",
@@ -4005,6 +4003,8 @@
     "31bef1cd4c29df4ff23a2eb2772b2727",
     "b0438ac35ab3da5f3775591d803816d9",
     "3ce221211eea9e0dfb6307e17d003732",
-    "45fe5fd6f6873b803304e8dcd50c2f44"
+    "45fe5fd6f6873b803304e8dcd50c2f44",
+    "f1c988c445e6161ab20000284016ad2b",
+    "98bf3e3cae5bed9c1286ef8e36ec23ec"
   ]
 }
