@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/anklage-gegen-i-mamo-lu-ein-schmaler-grat-fuer-merz-110751677.html",
-    "https://www.spiegel.de/wirtschaft/deutsche-sparen-weniger-liegen-im-vergleich-aber-weit-vorn-a-2f873be1-fbb7-4533-a1ab-36912fa58dbc#ref=rss",
     "https://www.deutschlandfunk.de/hessen-meldet-mutmassliche-faelle-der-vogelgrippe-mehrere-bundeslaender-erwaegen-stallpflicht-100.html",
     "https://www.deutschlandfunk.de/klimaaktivisten-scheitern-mit-klage-gegen-oelfoerderung-in-der-arktis-100.html",
     "https://www.deutschlandfunk.de/trotz-fangverboten-deutsche-ostsee-fischer-duerfen-weiter-hering-fischen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-unterstreicht-bedeutung-des-bundeswehr-einsatzes-im-kosovo-102.html",
     "https://www.deutschlandfunk.de/us-gericht-lehnt-abspaltung-von-instagram-und-whatsapp-ab-100.html",
-    "https://www.deutschlandfunk.de/kiew-meldet-atacms-angriff-auf-ziele-in-russland-spanien-stellt-ukraine-817-mio-euro-hilfe-in-aussic-102.html"
+    "https://www.deutschlandfunk.de/kiew-meldet-atacms-angriff-auf-ziele-in-russland-spanien-stellt-ukraine-817-mio-euro-hilfe-in-aussic-102.html",
+    "https://www.deutschlandfunk.de/mehrere-todesopfer-nach-israelischem-luftangriff-im-libanon-gemeldet-102.html",
+    "https://www.faz.net/aktuell/politik/inland/brandenburg-das-zerstrittene-bsw-wird-fuer-woidke-zum-problem-110786112.html"
   ],
   "content_hashes": [
-    "126d22a634d8713475042facec96be94",
-    "c9a53ae062ded72f7dfe7c7e86a92ede",
     "b0abff0f2b66cab683e144a23a7bc8ca",
     "7b9d462130d424bd18271cb59b714ef6",
     "9872adcc9387cca37010b759450cac66",
@@ -2001,11 +1999,11 @@
     "da131328e08e192f5806e28a30c8e4a8",
     "f466c0d00f1e3f3669f0176ea80466a1",
     "b443ed37176505d8988cfcb66d54bfc3",
-    "ccbf5820da7fac94fe1b8f1ad30b82bf"
+    "ccbf5820da7fac94fe1b8f1ad30b82bf",
+    "519a56248e0aff54324a1e8938c531e1",
+    "c88577df3ad29cb38012805256484bea"
   ],
   "titles": [
-    "Anklage gegen İmamoğlu: Ein schmaler Grat für Merz in Ankara",
-    "Deutsche sparen weniger, liegen im Vergleich aber weit vorn",
     "Seuche - Hessen meldet mutmaßliche Fälle der Vogelgrippe - mehrere Bundesländer erwägen Stallpflicht",
     "Straßburg - Klimaaktivisten scheitern mit Klage gegen Ölförderung in der Arktis",
     "Ausnahmeregelung - Trotz Fangverboten: Deutsche Ostsee-Fischer dürfen weiter Hering fischen",
@@ -3003,11 +3001,11 @@
     "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards",
     "Balkan - Bundesaußenminister Wadephul unterstreicht Bedeutung des Bundeswehr-Einsatzes im Kosovo",
     "Monopolvorwürfe - US-Gericht lehnt Abspaltung von Instagram und WhatsApp ab",
-    "Ukraine-Krieg - Kiew meldet ATACMS-Angriff auf Ziele in Russland - Spanien stellt Ukraine 817 Mio Euro Hilfe in Aussicht"
+    "Ukraine-Krieg - Kiew meldet ATACMS-Angriff auf Ziele in Russland - Spanien stellt Ukraine 817 Mio Euro Hilfe in Aussicht",
+    "Nahost - Mehrere Todesopfer nach israelischem Luftangriff im Libanon gemeldet",
+    "Abstimmung in Brandenburg: Das zerstrittene BSW wird für Woidke zum Problem"
   ],
   "hashes": [
-    "f5b380035c6afcf2433e43f2a25c5860",
-    "593b211e86ebc79cb517eba5a307de00",
     "710e9796289cfe7fd360bb0dfdf4c23e",
     "f0c118d18ab444733a48059d4464ee48",
     "100b72a766593b871752dff47dbd85f4",
@@ -4005,6 +4003,8 @@
     "6dab04d675b035b6085de91508a93b6f",
     "1929569e8a4395fc241ff32ddae2db3b",
     "31bef1cd4c29df4ff23a2eb2772b2727",
-    "b0438ac35ab3da5f3775591d803816d9"
+    "b0438ac35ab3da5f3775591d803816d9",
+    "3ce221211eea9e0dfb6307e17d003732",
+    "45fe5fd6f6873b803304e8dcd50c2f44"
   ]
 }
