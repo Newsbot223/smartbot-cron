@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kartellamt-erlaubt-uebernahme-von-niedersaechsischen-zeitungen-durch-madsack-verlag-100.html",
-    "https://www.deutschlandfunk.de/rainer-will-sich-nun-doch-gegen-europaeische-namensvorgaben-zu-fleischersatzprodukten-einsetzen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/spd-chefin-im-portraet-wagt-baerbel-bas-den-ruck-accg-110748551.html",
     "https://www.deutschlandfunk.de/bundespolizei-rund-230-verstoesse-seit-anfang-oktober-gegen-waffenverbot-an-bahnhoefen-in-berlin-und-100.html",
     "https://www.deutschlandfunk.de/mindestens-vier-migranten-bei-bootsunglueck-vor-lesbos-ums-leben-gekommen-102.html",
     "https://www.deutschlandfunk.de/berufungsgericht-italien-darf-mutmasslichen-nord-stream-saboteur-ausliefern-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutschland-kuendigt-60-millionen-euro-fuer-globalen-klimafonds-an-102.html",
     "https://www.deutschlandfunk.de/grossbritannien-verschaerft-asylrecht-aufenthalt-nur-noch-30-monate-102.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-billigt-resolution-zum-gaza-friedensplan-von-us-praesident-trump-102.html",
-    "https://www.deutschlandfunk.de/uno-sicherheitsrat-stimmt-fuer-militaerische-absicherung-von-gaza-friedensplan-der-usa-100.html"
+    "https://www.deutschlandfunk.de/uno-sicherheitsrat-stimmt-fuer-militaerische-absicherung-von-gaza-friedensplan-der-usa-100.html",
+    "https://www.deutschlandfunk.de/us-finanzministerium-sanktionen-gegen-russische-oelkonzerne-zeigen-bereits-wirkung-102.html",
+    "https://www.deutschlandfunk.de/merz-macron-und-eu-minister-beraten-heute-ueber-digitale-souveraenitaet-100.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-abgeordnete-reisen-nach-sotschi-trotz-streit-in-der-partei-110784826.html"
   ],
   "content_hashes": [
-    "e6fffd6e307fd3041f90a3e439880c19",
-    "1df823ce616fbdaab0485d8121fd87cf",
-    "ffde7b0ea6947eddb8612a70507ee997",
     "be69e69299bbce1a716b883bed57cbe1",
     "a716c2090f9f850cec9b580fc940cd6c",
     "497eb66d51521c19a68125e3351d3042",
@@ -2001,12 +1998,12 @@
     "2adef0b2ba6809e470d07d7f9ce20a4e",
     "587f7dae2b08e72416fda933f5349e06",
     "549293acc5bcf1b85bbc12dcdcf5601f",
-    "75f065daf9ceacfe275a88a13e0afd33"
+    "75f065daf9ceacfe275a88a13e0afd33",
+    "4be607dbcf0dc7782ec1337a44105101",
+    "24c481e3b9d2d1324868d9e035d0ff30",
+    "2227cb1527c8a98c683d82a8d2d899f9"
   ],
   "titles": [
-    "Wirtschaft - Kartellamt erlaubt Übernahme von niedersächsischen Zeitungen durch Madsack-Verlag",
-    "Bundeslandwirtschaftminister - Rainer will sich nun doch gegen europäische Namensvorgaben zu Fleischersatzprodukten einsetzen",
-    "SPD-Chefin im Porträt: Wagt Bärbel Bas den Ruck?",
     "Kontrollen - Bundespolizei: Rund 230 Verstöße seit Anfang Oktober gegen Waffenverbot an Bahnhöfen in Berlin und Potsdam",
     "Mittelmeer - Mindestens vier Migranten bei Bootsunglück vor Lesbos ums Leben gekommen",
     "Urteil - Berufungsgericht: Italien darf mutmaßlichen Nord-Stream-Saboteur ausliefern",
@@ -3003,12 +3000,12 @@
     "COP30 in Belém - Deutschland kündigt 60 Millionen Euro für globalen Klimafonds an",
     "Migrations-Politik - Großbritannien verschärft Asylrecht - Aufenthalt nur noch 30 Monate",
     "New York - UNO-Sicherheitsrat billigt Resolution zum Gaza-Friedensplan von US-Präsident Trump",
-    "New York - UNO-Sicherheitsrat stimmt für militärische Absicherung von Gaza-Friedensplan der USA"
+    "New York - UNO-Sicherheitsrat stimmt für militärische Absicherung von Gaza-Friedensplan der USA",
+    "Ukraine-Krieg - US-Finanzministerium: Sanktionen gegen russische Ölkonzerne zeigen bereits Wirkung",
+    "Berlin - Merz, Macron und EU-Minister beraten heute über digitale Souveränität",
+    "AfD-Abgeordnete auf Reisen: Rechte Videogrüße aus Sotschi"
   ],
   "hashes": [
-    "fd0234eee6e35ae223655386fb95ae9a",
-    "8655928467dc092d5bf7824236a7b135",
-    "3bb9aa0a6d58929c47b7237a6aceeebd",
     "316619d03f28703a3c178c988cc51bf5",
     "5e20a949ec76d61de1343dd3279170d7",
     "148f989fc8540646e321a637f5375f40",
@@ -4005,6 +4002,9 @@
     "6b9473bf9a85e20cef40bfcba92b7f1c",
     "dc5cf2fdd2ab63e810d546c2edd83590",
     "d081946b072c2e64ce3b81aa9fb0e81b",
-    "3b5e82c37dc6ebf4918c3cbde6cbb6cf"
+    "3b5e82c37dc6ebf4918c3cbde6cbb6cf",
+    "8a7fbe56a8e6af47888ffbbae84b1cfe",
+    "cd3c50e409603f734753aa278b10dc58",
+    "e28738a8282a130a718fe6730755c2dc"
   ]
 }
