@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bildungsministerin-prien-besucht-yad-vashem-100.html",
-    "https://www.deutschlandfunk.de/bas-kuendigt-bessere-vernetzung-von-behoerden-und-strafrechts-aenderung-an-100.html",
     "https://www.deutschlandfunk.de/acht-punkte-vorschlag-zum-stadtbild-interview-mit-aydan-oezogus-mdb-spd-100.html",
     "https://www.faz.net/aktuell/rhein-main/region-und-hessen/neue-afd-jugendorganisation-giessen-befuerchtet-umsatzverluste-accg-110751546.html",
     "https://www.deutschlandfunk.de/waffenarsenal-in-remscheid-entdeckt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/saudi-arabien-soll-us-kampfjets-bekommen-trump-empfaengt-kronprinzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-positioniert-sich-in-rentendebatte-die-csu-als-ausweg-und-problem-110784850.html",
     "https://www.deutschlandfunk.de/ines-fuellstand-der-gasspeicher-derzeit-sehr-niedrig-100.html",
-    "https://www.deutschlandfunk.de/deutlich-mehr-baugenehmigungen-fuer-wohnungen-im-september-100.html"
+    "https://www.deutschlandfunk.de/deutlich-mehr-baugenehmigungen-fuer-wohnungen-im-september-100.html",
+    "https://www.deutschlandfunk.de/cop30-in-belem-brasilien-dringt-auf-mehr-tempo-bei-klimaverhandlungen-100.html",
+    "https://www.deutschlandfunk.de/kein-land-in-europa-kann-sich-selbst-verteidigen-strack-zimmermann-fuer-bessere-vernetzung-100.html"
   ],
   "content_hashes": [
-    "431adff9e23804b0f2e47b167549453e",
-    "8fb8d0eb1159c57998187a2ae0f8f68a",
     "19dc562f54a4897dd355cb45da92f5e1",
     "cc1c2e5d39475af1e1ea28256c633d03",
     "38fd8c643cf4b3818c9333c758cea71a",
@@ -2001,11 +1999,11 @@
     "0c67b64f95572904089a860a55d91000",
     "492972a36ded6e41b9f7173d42b8f164",
     "dbc9279dae70577362af43aba2a9f7eb",
-    "2b50fdc9c8243b9266f994b17d684d71"
+    "2b50fdc9c8243b9266f994b17d684d71",
+    "61e5a7313514bd10c5474b83eb35cd12",
+    "056392e088e704fcdd5e7e2c665fb493"
   ],
   "titles": [
-    "Jerusalem - Bildungsministerin Prien besucht Yad Vashem",
-    "Missbrauch von Sozialleistungen - Bas kündigt bessere Vernetzung von Behörden und Strafrechts-Änderung an",
     "SPD-Politikerin Özoğuz - Sicherheit ohne Stigmatisierung stärken",
     "Gegenproteste erwartet: Umsatzverluste wegen AfD-Jugend befürchtet",
     "Razzia - Waffenarsenal in Remscheid entdeckt",
@@ -3003,11 +3001,11 @@
     "Mohammed bin Salman - Saudi-Arabien soll US-Kampfjets bekommen - Trump empfängt Kronprinzen",
     "Streit in der Union: Die CSU als Ausweg und Problem in der Rentendebatte",
     "Energieversorgung - INES: Füllstand der Gasspeicher derzeit sehr niedrig",
-    "Statistisches Bundesamt - Deutlich mehr Baugenehmigungen für Wohnungen im September"
+    "Statistisches Bundesamt - Deutlich mehr Baugenehmigungen für Wohnungen im September",
+    "Weltklimakonferenz - COP30 in Belem: Brasilien dringt auf mehr Tempo bei Klimaverhandlungen",
+    "Berliner Sicherheitskonferenz - \"Kein Land in Europa kann sich selbst verteidigen\": Strack-Zimmermann für bessere Vernetzung"
   ],
   "hashes": [
-    "580c8044aecd1ee722da56c5c57c9667",
-    "1d9bf0869b3f2076703005571affbaec",
     "575d90c5817396e0ebb7dfa50233ba60",
     "3c541496127d43b5a91229bce17f6d0d",
     "23292a7c446ed7ffe380ebc1cb2e14c4",
@@ -4005,6 +4003,8 @@
     "761998ac64e387c9e4c76f7cb3dbb246",
     "5b85921a300a4ae3f9730aedf1bb29c5",
     "b6b2f6584097cd6424c611cf780fb7ee",
-    "937afe74b0ce2cd5ba4b0827304d5ed8"
+    "937afe74b0ce2cd5ba4b0827304d5ed8",
+    "f6abd76b5e8a85a3fb6f20ee44d1eddf",
+    "a23b6aabc9f19006b6652c89ae5253af"
   ]
 }
