@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/verkehrstote-in-deutschland-taeglich-stirbt-mindestens-ein-mensch-bei-unfall-an-strassenbaum-a-214dfc84-7910-4af7-8ad2-84060c5594e3#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/neue-studie-zu-migranten-warum-integration-auf-dem-land-schwierig-ist-accg-110753345.html",
     "https://www.deutschlandfunk.de/deutsche-landeshauptstaedte-warnen-merz-100.html",
     "https://www.deutschlandfunk.de/china-bestaetigt-begegnung-von-xi-und-trump-in-suedkorea-102.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/zehn-tote-bei-israelischem-angriff-auf-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/erdogan-ruft-zur-wiederaufnahme-der-verhandlungen-zwischen-russland-und-der-ukraine-auf-100.html",
     "https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss",
-    "https://www.faz.net/aktuell/politik/die-vergifteten-ratschlaege-der-sahra-wagenknecht-110786942.html"
+    "https://www.faz.net/aktuell/politik/die-vergifteten-ratschlaege-der-sahra-wagenknecht-110786942.html",
+    "https://www.deutschlandfunk.de/hamas-meldet-25-tote-nach-israelischen-angriffen-auf-gazastreifen-100.html"
   ],
   "content_hashes": [
-    "d0677fe98d0b6f0cf911e89f7ac33951",
     "6336493a8c02e3f58ba4769445679e8b",
     "2509ddebb9f2bc070dc8d2464609078c",
     "bc09058d73dc3f2ee6d769ee245d00e7",
@@ -2001,10 +2000,10 @@
     "60147acde372d0b5ee8c46415004f3e5",
     "1ca73bbc67196969df803fb8fa0d6eba",
     "1c9ada42b6e1e570631307fc89c41751",
-    "52351c1e675a33f3a5faca1bce53f2c9"
+    "52351c1e675a33f3a5faca1bce53f2c9",
+    "0c74c1b21649796d92b9209f4a3cb77a"
   ],
   "titles": [
-    "Verkehrstote in Deutschland: Täglich stirbt mindestens ein Mensch bei Unfall an Straßenbaum",
     "Neue Studie: Warum die Integration von Migranten auf dem Land schwierig ist",
     "Kommunale Finanzen - Deutsche Landeshauptstädte warnen Merz",
     "Treffen am Rande des APEC-Gipfels - China bestätigt Begegnung von Xi und Trump in Südkorea",
@@ -3003,10 +3002,10 @@
     "Gaza - Zehn Tote bei israelischem Angriff auf Gazastreifen",
     "Ankara - Erdogan ruft zur Wiederaufnahme der Verhandlungen zwischen Russland und der Ukraine auf",
     "Merz hält Beziehungen zu Brasilien nicht für belastet und will am Wochenende mit Lula sprechen",
-    "Empfehlungen zur AfD: Die vergifteten Ratschläge der Sahra Wagenknecht"
+    "Empfehlungen zur AfD: Die vergifteten Ratschläge der Sahra Wagenknecht",
+    "Gaza - Hamas meldet 25 Tote nach israelischen Angriffen auf Gazastreifen"
   ],
   "hashes": [
-    "589d1395540a3958b14aa5ebdd4daeb2",
     "55166aa6bd8b1ab4ba01986c0fe33244",
     "3cd0628ac7a15429fda4865dc8b9c614",
     "f49349cddbdb75936c2c14ac34cfdbb2",
@@ -4005,6 +4004,7 @@
     "decfa1392c2f6bf11190031413697bf4",
     "570df05a1507d95c05a9c22808a5871b",
     "fb28690eb96abaece0b18ce0f141cc55",
-    "6449b152ebae76a94ee25b20f8624ea8"
+    "6449b152ebae76a94ee25b20f8624ea8",
+    "d05edffde32041fc5993eeb5818cebf7"
   ]
 }
