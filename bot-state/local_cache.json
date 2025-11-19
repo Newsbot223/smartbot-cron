@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/mutmasslich-rechter-messerangriff-in-dresdner-strassenbahn-accg-110754532.html",
-    "https://www.faz.net/aktuell/politik/inland/linke-befragt-neumitglieder-jung-urban-am-klima-eher-desinteressiert-accg-110753603.html",
-    "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-hat-begonnen-wilders-partei-koennte-wieder-staerkste-kraft-werden-100.html",
     "https://www.deutschlandfunk.de/human-rights-watch-bundeskanzler-merz-muss-in-ankara-klare-position-zur-lage-der-menschenrechte-bezi-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-schrittweise-anhebung-des-mindestlohns-100.html",
     "https://www.deutschlandfunk.de/bundesforschungsministerin-baer-schluesseltechnologien-fuer-wirtschaft-nutzbar-machen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hamas-meldet-25-tote-nach-israelischen-angriffen-auf-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/italien-erlaubt-auslieferung-von-mutmasslichem-nord-stream-saboteur-100.html",
     "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-21-es-faehrt-kein-zug-nach-nirgendwo-110786689.html"
+    "https://www.faz.net/aktuell/politik/inland/stuttgart-21-es-faehrt-kein-zug-nach-nirgendwo-110786689.html",
+    "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-102.html",
+    "https://www.deutschlandfunk.de/usa-und-russland-handeln-plan-fuer-kriegsende-aus-104.html",
+    "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html"
   ],
   "content_hashes": [
-    "b7ff23dd42cf1cd09ca892e5006512bd",
-    "42e3d6546ff46d9a0b57c65167661698",
-    "d3779f5274565d123d0b1bde5787cb55",
     "307dbcfc400c73f5358ef1151a1ef48d",
     "af0afa5a1435391fb665a70ac4e765cc",
     "84993d705c8e718d83be84d7b82a5379",
@@ -2001,12 +1998,12 @@
     "0c74c1b21649796d92b9209f4a3cb77a",
     "cb99ee4f8adf24a44fa5a8016c3bcbe5",
     "11b7ebd11fe27ef9a642ff3f36e19e79",
-    "df8233aa68d98f81b75bc7ef2886afac"
+    "df8233aa68d98f81b75bc7ef2886afac",
+    "051778bd6488ae9cd53567c6f1c5bc7a",
+    "f755457d81499e1050f455ae1533835b",
+    "57a3678d29c2e25ce08193c3a785f245"
   ],
   "titles": [
-    "Staatsschutz ermittelt: Mutmaßlich rechter Messerangriff in Dresdner Straßenbahn",
-    "Neue Linken-Mitglieder: Jung, urban – aber Klimaschutz interessiert sie nicht sehr",
-    "Zweite Kammer - Parlamentswahl in den Niederlanden hat begonnen - Wilders-Partei könnte wieder stärkste Kraft werden",
     "Besuch in der Türkei - Human Rights Watch: Bundeskanzler Merz muss in Ankara klare Position zur Lage der Menschenrechte beziehen",
     "Berlin - Bundeskabinett beschließt schrittweise Anhebung des Mindestlohns",
     "\"Hightech-Agenda\" - Bundesforschungsministerin Bär: \"Schlüsseltechnologien für Wirtschaft nutzbar machen\"",
@@ -3003,12 +3000,12 @@
     "Gaza - Hamas meldet 25 Tote nach israelischen Angriffen auf Gazastreifen",
     "Rom - Italien erlaubt Auslieferung von mutmaßlichem Nord-Stream-Saboteur",
     "Schanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
-    "Nicht nur Stuttgart 21: Es fährt kein Zug nach nirgendwo"
+    "Nicht nur Stuttgart 21: Es fährt kein Zug nach nirgendwo",
+    "Wirtschaft - Nvidia steigert Gewinn im dritten Quartal deutlich",
+    "Medienberichte - USA und Russland handeln Plan für Kriegsende aus",
+    "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden"
   ],
   "hashes": [
-    "268bc3bb1db18efd7489d452f6dfdd19",
-    "ef00d7fb634e45de44bb5b02b1684375",
-    "7cf48e775b64f0b541562c95dbfe675f",
     "b32cf2e3f898b83209259bfe2f6524e4",
     "884aaf574649008bff605aa0283437b8",
     "56b52ed8fa62bcc68536c673d401200f",
@@ -4005,6 +4002,9 @@
     "d05edffde32041fc5993eeb5818cebf7",
     "01c7ff158f697470988b59813547e6ac",
     "d7bd9c316f0b84b1b7d51fd9a0aa5537",
-    "abc11efbfe219b1ad6a96defa3c60089"
+    "abc11efbfe219b1ad6a96defa3c60089",
+    "506640507054cbef1d56fe4f94ffe61a",
+    "34db84e67a5825accc183ba7ef52f17e",
+    "2e3f56f5e7062bb6e2f28d43ec7e6dac"
   ]
 }
