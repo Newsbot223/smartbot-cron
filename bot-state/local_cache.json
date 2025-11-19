@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kiel-siegt-in-wolfsburg-hamburg-gewinnt-in-heidenheim-100.html",
-    "https://www.aljazeera.com/video/the-stream/2025/10/28/is-africa-the-wests-human-dumping-ground?traffic_source=rss",
-    "https://www.deutschlandfunk.de/extrem-starker-hurrikan-melissa-trifft-in-jamaika-auf-land-100.html",
-    "https://www.deutschlandfunk.de/merz-milliarden-investition-von-global-foundries-in-dresden-ist-signal-fuer-deutschland-und-europa-102.html",
     "https://www.spiegel.de/panorama/weiter-hering-fischen-erlaubt-an-deutscher-ostsee-fischer-trotz-fangverboten-a-f6bfd243-4ec0-4245-8a4d-2a27168e1652#ref=rss",
     "https://www.deutschlandfunk.de/reiche-cdu-warnt-vor-wirtschaftlichem-abstieg-deutschlands-102.html",
     "https://www.deutschlandfunk.de/zugausfaelle-einer-regionalbahn-in-nrw-haben-politisches-nachspiel-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/niederlande-gibt-staatliche-kontrolle-ueber-chip-hersteller-nexperia-wieder-ab-102.html",
     "https://www.deutschlandfunk.de/weimer-ich-halte-mich-an-die-regeln-des-ministergesetzes-100.html",
     "https://www.deutschlandfunk.de/dringend-bessere-medizinische-und-soziale-versorgung-bei-chronischen-erschoepfungssyndromen-angemahn-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-verteidigt-merz-bin-dafuer-dass-politiker-auch-mal-frei-reden-duerfen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-verteidigt-merz-bin-dafuer-dass-politiker-auch-mal-frei-reden-duerfen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/bundesregierung-beschliesst-gesetz-zur-drohnenabwehr-100.html",
+    "https://www.deutschlandfunk.de/elektronische-fussfessel-im-kampf-gegen-haeusliche-gewalt-bundesregierung-billigt-gesetzentwurf-vorb-100.html",
+    "https://www.deutschlandfunk.de/bahn-verschiebt-start-von-stuttgart-21-erneut-100.html",
+    "https://www.faz.net/aktuell/politik/inland/femizid-warum-deutschland-eine-definition-braucht-200238763.html"
   ],
   "content_hashes": [
-    "9089e87c37338689eb76cc909d348f51",
-    "fd547eb9a95ed4ba28395d8dc41748aa",
-    "39e0721eaced02bf08cf4d42def4877a",
-    "1a965a46df7dd14c9962f05a49617e82",
     "bf1e3da3c0a1aa36e7603530d69107ec",
     "bfb8b25b85d77cde2f2a2a34c7b13ed7",
     "09dc6adcd05ab6fff95e10bc6664de0d",
@@ -2001,13 +1997,13 @@
     "515d5c78513f821f00661d1826f2f143",
     "705738599ccb3efdb052142303693208",
     "7bbfa6cddb483c9e129ede220d02492d",
-    "05498dd7c7667a91feba191c6c49f66f"
+    "05498dd7c7667a91feba191c6c49f66f",
+    "715743bef343ba326f7336a8c8c15d7d",
+    "0e3798285a4c735724ae3a56d5903276",
+    "6ea6853eb09c282cc2a113e5fcb5a794",
+    "199090d1310cd791b847924198bf3e2f"
   ],
   "titles": [
-    "DFB-Pokal - Kiel siegt in Wolfsburg, Hamburg gewinnt in Heidenheim",
-    "Is Africa the West’s ‘Human Dumping Ground’?",
-    "Wirbelsturm - Extrem starker Hurrikan \"Melissa\" trifft in Jamaika auf Land",
-    "Wirtschaft - Merz: Milliarden-Investition von \"Global Foundries\" in Dresden ist Signal für Deutschland und Europa",
     "Weiter Hering-Fischen erlaubt an deutscher Ostsee-Fischer trotz Fangverboten",
     "Berlin - Reiche (CDU) warnt vor wirtschaftlichem Abstieg Deutschlands",
     "National Express Rail - Zugausfälle einer Regionalbahn in NRW haben politisches Nachspiel",
@@ -3003,13 +2999,13 @@
     "Halbleiter-Produktion - Niederlande gibt staatliche Kontrolle über Chip-Hersteller Nexperia wieder ab",
     "Diskussion über Interessenkonflikte - Weimer: \"Ich halte mich an die Regeln des Ministergesetzes\"",
     "LongCovid und ME/CFS - Dringend bessere medizinische und soziale Versorgung bei chronischen Erschöpfungssyndromen angemahnt",
-    "Liveblog Bundespolitik: Klingbeil verteidigt Merz: „Bin dafür, dass Politiker auch mal frei reden dürfen“"
+    "Liveblog Bundespolitik: Klingbeil verteidigt Merz: „Bin dafür, dass Politiker auch mal frei reden dürfen“",
+    "Neues Luftsicherheitsgesetz - Bundesregierung beschließt Gesetz zur Drohnenabwehr",
+    "Kabinett - Elektronische Fußfessel im Kampf gegen häusliche Gewalt - Bundesregierung billigt Gesetzentwurf - Vorbild Spanien",
+    "Medienbericht - Bahn verschiebt Start von Stuttgart 21 erneut",
+    "Gewalt an Frauen: Warum Deutschland eine Femizid-Definition braucht"
   ],
   "hashes": [
-    "99ef7522bb12af5410962e4222ab4dfc",
-    "187b3273c1279a9cfbba460bea7d647e",
-    "444874432fd43f082db6987a07c627a6",
-    "48e692e8048a7cd27cc458e0f7734625",
     "afbb9ef28b25cc41342e16bf54bbaedd",
     "fe80f90220e827202de4073bfacf8146",
     "b820e769be88810eda4c5374edf74907",
@@ -4005,6 +4001,10 @@
     "966ffe283c5f55e36a51da6aa18fd32f",
     "32834af4b2976c9ccf960250a8bff6ef",
     "e3d2c036bd6c9b7551340c0c50c36e2f",
-    "61b28376185e3b05190830eb7cdd57d6"
+    "61b28376185e3b05190830eb7cdd57d6",
+    "ac7e28d18f6b855385844d1c53db6e38",
+    "cad47018f6ca6b60598d710d79918dbe",
+    "8ca9c4a7b57ec7ffebbed82525d07574",
+    "f24a779594571a571e8d15e4cf10b579"
   ]
 }
