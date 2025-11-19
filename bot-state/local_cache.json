@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrechnungshof-fordert-bundesregierung-bei-wasserstoff-zum-umsteuern-auf-100.html",
-    "https://www.deutschlandfunk.de/hoechststand-bei-angriffen-auf-csd-umzuege-100.html",
-    "https://www.deutschlandfunk.de/unhcr-befuerchtet-gewalt-gegen-zivilbevoelkerung-in-al-faschir-102.html",
     "https://www.faz.net/aktuell/politik/inland/schlagersaenger-als-vorsitzender-vorschlag-fuer-stiftungsvorsitz-sorgt-fuer-kritik-accg-110751948.html",
     "https://www.deutschlandfunk.de/stadbild-debatte-und-kein-ende-interview-mit-albrecht-von-lucke-politikwiss-100.html",
     "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/stadtbild-debatte-muss-der-kanzler-sich-entschuldigen-110753085.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/evangelische-christen-begehen-heute-buss-und-bettag-102.html",
     "https://www.deutschlandfunk.de/us-repraesentantenhaus-und-senat-stimmen-fuer-veroeffentlichung-der-epstein-akten-100.html",
     "https://www.deutschlandfunk.de/20-verletzte-nach-russischem-angriff-auf-charkiw-102.html",
-    "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-junger-union-unehrlichkeit-vor-100.html"
+    "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-junger-union-unehrlichkeit-vor-100.html",
+    "https://www.deutschlandfunk.de/auch-senat-stellt-weichen-fuer-freigabe-von-epstein-akten-100.html",
+    "https://www.deutschlandfunk.de/kabinett-stimmt-ueber-aenderungen-am-luftsicherheitsgesetz-ab-102.html",
+    "https://www.spiegel.de/politik/olaf-scholz-ex-kanzler-kritisiert-afd-bei-buergergespraech-in-brandenburg-als-antidemokratisch-a-6afa7d2c-77cf-4879-a4b9-c8aed01591c2#ref=rss"
   ],
   "content_hashes": [
-    "6257dd647e66ea030a316e2fafca9a13",
-    "15605143ee4f820a051ebce512c4ab2c",
-    "23d21663e21503b6c2e958c946a14ddb",
     "c2f9312638896b2476adaf0513b3ea68",
     "714c05e076433265e324891d44083109",
     "1c050a9601335f9a4e7ed201f2facc12",
@@ -2001,12 +1998,12 @@
     "52e2c5c1c0829d68b84d9ca65ab6717f",
     "280454ae895239ade28a23d5fd7ff6e4",
     "1002c84a20e812b61aa21a51f7438844",
-    "ae0bd152b515d4abb28ce096919316f5"
+    "ae0bd152b515d4abb28ce096919316f5",
+    "cdffeccf01a34ecb8b9da77ad75d6d68",
+    "b87014b813e0788940d9c1f20006591c",
+    "22e0b998368b7b975ebd2a0c2cc025f6"
   ],
   "titles": [
-    "Sonderbericht - Bundesrechnungshof fordert Bundesregierung bei Wasserstoff zum Umsteuern auf",
-    "Bericht - Höchststand bei Angriffen auf CSD-Umzüge",
-    "Sudan - UNHCR befürchtet Gewalt gegen Zivilbevölkerung in Al-Faschir",
     "Kritik an Personalie: Ein Schlagersänger als Stiftungsvorsitzender?",
     "Politologe von Lucke - Merz‘ Stadtbild-Aussagen könnten politische Landschaft verändern",
     "F.A.Z. Podcast für Deutschland: Stadtbild-Debatte: Muss der Kanzler sich entschuldigen?",
@@ -3003,12 +3000,12 @@
     "Feiertag - Evangelische Christen begehen heute Buß- und Bettag",
     "Washington - US-Repräsentantenhaus und Senat stimmen für Veröffentlichung der Epstein-Akten",
     "Ukraine-Krieg - 20 Verletzte nach russischem Angriff auf Charkiw",
-    "Rentenpaket - Grünen-Chefin Brantner wirft Junger Union Unehrlichkeit vor"
+    "Rentenpaket - Grünen-Chefin Brantner wirft Junger Union Unehrlichkeit vor",
+    "Washington - Auch Senat stellt Weichen für Freigabe von Epstein-Akten",
+    "Drohnenabwehr - Kabinett stimmt über Änderungen am Luftsicherheitsgesetz ab",
+    "Olaf Scholz: Ex-Kanzler kritisiert AfD bei Bürgergespräch in Brandenburg als »antidemokratisch«"
   ],
   "hashes": [
-    "4eb34b38546704fddf27a7416cc795b5",
-    "fbf4d39d7c5a7b96260b2231ba5e95f3",
-    "360a251ae05d8d6f63ac54f6f38108ac",
     "48751b5e995879b706677d33c5d4afaa",
     "7f45ca7db6f050ef576c551c91f6b7da",
     "9648808acda43f0b4f8f27977eb0d7d5",
@@ -4005,6 +4002,9 @@
     "98bf3e3cae5bed9c1286ef8e36ec23ec",
     "d0c7906f114e2dc1e51068846a5deecc",
     "cb704d8ef8bc1648ebfa238da6bc04f9",
-    "6c41c7ee1bbecd0953086a4dc5d2c494"
+    "6c41c7ee1bbecd0953086a4dc5d2c494",
+    "8facb223ea8b5adc3ecb71b664103628",
+    "1b1feb41af5564b8c96511a2e05d879e",
+    "bfbe425efb230278e8704ea560c96c7b"
   ]
 }
