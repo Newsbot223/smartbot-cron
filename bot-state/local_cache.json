@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/suedkorea-und-usa-vereinbaren-kompromiss-bei-handelsabkommen-100.html",
-    "https://www.deutschlandfunk.de/bundeslaender-wollen-autonomes-fahren-voranbringen-fussverkehr-soll-in-den-mittelpunkt-ruecken-100.html",
     "https://www.faz.net/aktuell/politik/inland/hoeflichkeit-in-der-politik-buergerlich-sind-weder-linke-noch-afd-110753255.html",
     "https://www.deutschlandfunk.de/vogelgrippe-stallpflicht-fuer-gefluegel-in-mehreren-bundeslaendern-100.html",
     "https://www.deutschlandfunk.de/baden-wuerttemberg-draengt-auf-mehr-transparenz-beim-laden-von-e-autos-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-unterzeichnet-gesetz-zur-freigabe-der-epstein-akten-100.html",
     "https://www.deutschlandfunk.de/usa-und-russland-handeln-laut-medienberichten-plan-fuer-kriegsende-aus-100.html",
     "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
-    "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html"
+    "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html",
+    "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-in-singapur-deutschland-strebt-engere-zusammenarbeit-an-100.html"
   ],
   "content_hashes": [
-    "3fa7e88050d6fe49cc2b65d8cbeb5ff3",
-    "c3c5953ecfe1d37789eaa010286fff44",
     "860babda3632a4055fb7455ba15b9e2d",
     "0a3678f4bf44fc666ee956b9b12a1f8e",
     "32ba5c40310f4efebadbbf4e764f58f9",
@@ -2001,11 +1999,11 @@
     "d72268c6005211643f3fe3a7f40530b4",
     "f416c10c3646b043e72a5d76381eecad",
     "336bdeaa8c085027a9a8b5b69bbeea42",
-    "f4f2de29685816a16d996e3db8f24f1f"
+    "f4f2de29685816a16d996e3db8f24f1f",
+    "d33294bdcdf527347915273a67b005ac",
+    "79098a8a3f565028fa3bacf2c587723a"
   ],
   "titles": [
-    "Gyeongju - Südkorea und USA vereinbaren Kompromiss bei Handelsabkommen",
-    "Konferenz in Straubing - Bundesländer wollen autonomes Fahren voranbringen - Fußverkehr soll in den Mittelpunkt rücken",
     "Höflichkeit in der Politik: Das tut man nicht",
     "Maßnahme gegen Ausbreitung - Vogelgrippe: Stallpflicht für Geflügel in mehreren Bundesländern",
     "Kritik an Preisaufschlägen - Baden-Württemberg drängt auf mehr Transparenz beim Laden von E-Autos",
@@ -3003,11 +3001,11 @@
     "USA - Trump unterzeichnet Gesetz zur Freigabe der Epstein-Akten",
     "Ukraine-Krieg - USA und Russland handeln laut Medienberichten Plan für Kriegsende aus",
     "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
-    "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau"
+    "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau",
+    "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
+    "Bundesfinanzminister - Klingbeil in Singapur: Deutschland strebt engere Zusammenarbeit an"
   ],
   "hashes": [
-    "5d20a1e370611b296704519777107e43",
-    "32aa417275eca6a867308a3cfb705be0",
     "c3ce2e8bc55fd571adea3cc8aec4f245",
     "6badf85feb65aac49f5bb27a9b6d632c",
     "d197041f6897f8ff88e9a0af5fa56ec2",
@@ -4005,6 +4003,8 @@
     "57687b24e76e9c419c0fa6079fe3323f",
     "9d4d4afe5b9d1b4df4d365bb7cc1febe",
     "44800a55eeb779b9311c1d34b09b4523",
-    "3e3ec12b08ab0205e28f77778b598ea8"
+    "3e3ec12b08ab0205e28f77778b598ea8",
+    "4b1e82a39b291823594e72d37ad1beb1",
+    "01a5b500c93590d5c51cbd89f3f04452"
   ]
 }
