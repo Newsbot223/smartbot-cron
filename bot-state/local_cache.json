@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesforschungsministerin-baer-schluesseltechnologien-fuer-wirtschaft-nutzbar-machen-102.html",
-    "https://www.deutschlandfunk.de/verkehrsminister-beraten-ueber-deutschlandticket-und-sondervermoegen-infrastruktur-102.html",
-    "https://www.deutschlandfunk.de/saarland-verhaengt-stallpflicht-wegen-vogelgrippe-100.html",
     "https://www.faz.net/aktuell/politik/ausland/one-piece-proteste-die-globale-revolte-der-gen-z-110750280.html",
     "https://www.deutschlandfunk.de/neuer-ueberschalljet-x-59-absolviert-ersten-testflug-102.html",
     "https://www.deutschlandfunk.de/polizei-entdeckt-weiteres-versteck-von-kriegswaffen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/usa-und-russland-handeln-plan-fuer-kriegsende-aus-104.html",
     "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html",
     "https://www.deutschlandfunk.de/kassenaerztliche-vereinigungen-gegen-neue-praxisgebuehr-100.html",
-    "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-krieg-gaza-und-den-sudan-102.html"
+    "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-krieg-gaza-und-den-sudan-102.html",
+    "https://www.deutschlandfunk.de/trump-gesetz-zur-freigabe-der-epstein-akten-unterzeichnet-104.html",
+    "https://www.spiegel.de/politik/deutschland/friedrich-merz-gruene-politikerin-lisa-badum-schickt-aus-belem-protestschreiben-an-den-kanzler-a-916efa41-95aa-4c6c-846a-0232560637fe#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/kanzleramtschef-thorsten-frei-verteidigt-rentenpaket-accg-200248162.html"
   ],
   "content_hashes": [
-    "84993d705c8e718d83be84d7b82a5379",
-    "1e06553f72129eadb0c37c2cff393004",
-    "d2c0bff5f9fdc8fdc93b192523aa7599",
     "921379f063bce9a32b9546d82e4fdc3e",
     "4846096cfae60e58094a8e68d013b563",
     "dedf1e58cefc9db4b3c3fc85d120e691",
@@ -2001,12 +1998,12 @@
     "f755457d81499e1050f455ae1533835b",
     "57a3678d29c2e25ce08193c3a785f245",
     "f31c294a25b2a577943a481cf6829b06",
-    "59182e856501a8c40a4ec8e8fa45b796"
+    "59182e856501a8c40a4ec8e8fa45b796",
+    "c3708a277310728c3b1b8419ac97a2aa",
+    "ec69d71e6062863537cf74a9b48d9f9d",
+    "b784b919fb6ce0e545c92dbd2e8dc56a"
   ],
   "titles": [
-    "\"Hightech-Agenda\" - Bundesforschungsministerin Bär: \"Schlüsseltechnologien für Wirtschaft nutzbar machen\"",
-    "Straubing - Verkehrsminister beraten über Deutschlandticket und Sondervermögen Infrastruktur",
-    "Seuche - Saarland verhängt Stallpflicht wegen Vogelgrippe",
     "Weltweite Proteste: Die Jungen rebellieren unter der Piratenflagge",
     "USA - Neuer Überschalljet X-59 absolviert ersten Testflug",
     "Remscheid - Polizei entdeckt weiteres Versteck von Kriegswaffen",
@@ -3003,12 +3000,12 @@
     "Medienberichte - USA und Russland handeln Plan für Kriegsende aus",
     "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
     "Gesundheit - Kassenärztliche Vereinigungen gegen neue Praxisgebühr",
-    "Brüssel - EU-Außenminister beraten über Ukraine-Krieg, Gaza und den Sudan"
+    "Brüssel - EU-Außenminister beraten über Ukraine-Krieg, Gaza und den Sudan",
+    "USA - Trump: Gesetz zur Freigabe der Epstein-Akten unterzeichnet",
+    "Friedrich Merz: Grüne Politikerin Lisa Badum schickt aus Belém Protestschreiben an den Kanzler",
+    "Rentenpolitik: Kanzleramtschef Frei verteidigt  Rentenpaket"
   ],
   "hashes": [
-    "56b52ed8fa62bcc68536c673d401200f",
-    "3b58fbdcf479bcc50936ada917132825",
-    "1fefadfe481b86cb116fe2c1407719b1",
     "01deebef22f1dc1f257978ca21076bb1",
     "dc28c8fab91b18ec577d1e80f877e407",
     "052fc38a36381e4a4aeb8a3c15a0cf6d",
@@ -4005,6 +4002,9 @@
     "34db84e67a5825accc183ba7ef52f17e",
     "2e3f56f5e7062bb6e2f28d43ec7e6dac",
     "32fb233f2a4cf44445c50b99f8562b9f",
-    "95a2da7ddc321a6d42ffe0d979ab2b07"
+    "95a2da7ddc321a6d42ffe0d979ab2b07",
+    "7020a588a9a7184e73adc2002d891e75",
+    "f033bf9228d6caf430a0d48cea223301",
+    "c655ae0c6451d29351e30bd8a199c5b8"
   ]
 }
