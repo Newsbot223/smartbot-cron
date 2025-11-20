@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-stagniert-arbeitslosenzahlen-sinken-nur-leicht-a-59e76d16-bb9e-4952-ba22-b3b33a76bacc#ref=rss",
-    "https://www.deutschlandfunk.de/arbeitslosigkeit-sinkt-im-oktober-herbstbelebung-bleibt-schwach-102.html",
-    "https://www.deutschlandfunk.de/eu-muss-mit-china-zu-seltenen-erden-ins-gespraech-kommen-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-in-der-tuerkei-von-praesident-erdogan-empfangen-102.html",
     "https://www.deutschlandfunk.de/proteste-nach-wahl-dauern-an-102.html",
     "https://www.deutschlandfunk.de/drogenlabor-ausgehoben-haftantrag-gegen-zwei-maenner-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ukraine-zu-beratungen-ueber-neuen-us-vorstoss-fuer-frieden-bereit-100.html",
     "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-unter-kontrolle-100.html",
     "https://www.deutschlandfunk.de/klingbeil-klare-zusage-chinas-fuer-lieferung-seltener-erden-102.html",
-    "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-geloescht-100.html"
+    "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-geloescht-100.html",
+    "https://www.deutschlandfunk.de/weisses-haus-unser-plan-ist-gut-fuer-russland-und-die-ukraine-102.html",
+    "https://www.deutschlandfunk.de/weltklimakonferenz-wegen-brand-unterbrochen-102.html",
+    "https://www.faz.net/aktuell/politik/inland/doppelhaushalt-in-thueringen-auf-die-linke-kommt-es-an-110787852.html"
   ],
   "content_hashes": [
-    "81bf081e9bfd84b9e6b35819ab98bf4c",
-    "917f6737416d4c91f5568a313dd17092",
-    "224ccd6fd83e6f947038f1b8014c9d8f",
     "9b1c57e66316faf7ad3e56d4d1b85269",
     "f74634dd55a94caf6f4867dcd0568c2d",
     "557ef838845f5b2766d466d9012b14de",
@@ -2001,12 +1998,12 @@
     "7cd1e3ebac1ebc26c2fa2253e1d26ff4",
     "31e5debd7c693a5e3395554a445ebe62",
     "73a0e04c816991cd7ce3da6dadcae16e",
-    "85ec707f740c6c142d1b0e927a0a4b16"
+    "85ec707f740c6c142d1b0e927a0a4b16",
+    "823a701a507bd45d3ab22f4f23054fbc",
+    "40dd0926633ccb95ea1a6d0f4a8bda51",
+    "0694edf1eae6c03828a323c791a74518"
   ],
   "titles": [
-    "Deutsche Wirtschaft stagniert – Arbeitslosenzahlen sinken nur leicht",
-    "Statistisches Bundesamt - Arbeitslosigkeit sinkt im Oktober - Herbstbelebung bleibt schwach",
-    "DIHK - EU muss mit China zu Seltenen Erden ins Gespräch kommen",
     "Antrittsbesuch - Bundeskanzler Merz in der Türkei von Präsident Erdogan empfangen",
     "Tansania - Proteste nach Wahl dauern an",
     "Havelland - Drogenlabor ausgehoben; Haftantrag gegen zwei Männer",
@@ -3003,12 +3000,12 @@
     "Nach angeblichen Geheimgesprächen zwischen USA und Russland - Ukraine zu Beratungen über neuen US-Vorstoß für Frieden bereit",
     "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz unter Kontrolle",
     "Kritische Rohstoffe - Klingbeil: \"Klare Zusage\" Chinas für Lieferung Seltener Erden",
-    "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz gelöscht"
+    "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz gelöscht",
+    "Ukraine-Krieg - Weißes Haus: Unser Plan ist gut für Russland und die Ukraine",
+    "Brasilien - Weltklimakonferenz wegen Brand unterbrochen",
+    "Doppelhaushalt in Thüringen: Auf die Linkspartei kommt es an – und die pokert"
   ],
   "hashes": [
-    "497f6975277a9b6c21a495bfe2b84ac3",
-    "6ac30939d711df0270c404e3e615a64f",
-    "96de1a79657e794b2853aa6f9da2c9b3",
     "971c6d7b5f9f0c3e021e23f87c2986b5",
     "51995e749609f2b3c49209985a3be278",
     "90f8768c82fb72204b520822a70aba2a",
@@ -4005,6 +4002,9 @@
     "a093594bbb8e12ae9c0a43616be87f5a",
     "b2acb0217adc3c05ba7ec459b6ecbe29",
     "45cdc1193b9d684ef5d2782678b85413",
-    "05a49027299f56b35d6a7ffd290a4d6e"
+    "05a49027299f56b35d6a7ffd290a4d6e",
+    "fab87a812717cadea1e049d3cae723a1",
+    "7d79ea71b9ca4f5dedb26e0e2ac30c6d",
+    "a7306b1d4af86a803e8d89b8aa1a6548"
   ]
 }
