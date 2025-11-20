@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/hoeflichkeit-in-der-politik-buergerlich-sind-weder-linke-noch-afd-110753255.html",
-    "https://www.deutschlandfunk.de/vogelgrippe-stallpflicht-fuer-gefluegel-in-mehreren-bundeslaendern-100.html",
-    "https://www.deutschlandfunk.de/baden-wuerttemberg-draengt-auf-mehr-transparenz-beim-laden-von-e-autos-100.html",
     "https://www.deutschlandfunk.de/chipkonzern-nvidia-als-erstes-unternehmen-der-welt-fuenf-billionen-dollar-wert-100.html",
     "https://www.deutschlandfunk.de/hightech-agenda-der-bundesregierung-vorgestellt-merz-usa-und-china-duerfen-nicht-allein-ueber-techno-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-nach-einsturz-eines-wohnhauses-nahe-istanbul-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
     "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html",
     "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-in-singapur-deutschland-strebt-engere-zusammenarbeit-an-100.html"
+    "https://www.deutschlandfunk.de/klingbeil-in-singapur-deutschland-strebt-engere-zusammenarbeit-an-100.html",
+    "https://www.deutschlandfunk.de/organisationen-kritisieren-buergergeld-reform-102.html",
+    "https://www.deutschlandfunk.de/ig-metall-warnt-vor-verlagerung-von-teilen-der-produktion-nach-polen-100.html",
+    "https://www.deutschlandfunk.de/tschechien-zahlreiche-verletzte-bei-zugunglueck-100.html"
   ],
   "content_hashes": [
-    "860babda3632a4055fb7455ba15b9e2d",
-    "0a3678f4bf44fc666ee956b9b12a1f8e",
-    "32ba5c40310f4efebadbbf4e764f58f9",
     "e532d76a5d714c7b805f49bd03f1752e",
     "ab9655c18354ca1bfebf94951f5a5e05",
     "6dea3c13482743ef37f38359c9cf3221",
@@ -2001,12 +1998,12 @@
     "336bdeaa8c085027a9a8b5b69bbeea42",
     "f4f2de29685816a16d996e3db8f24f1f",
     "d33294bdcdf527347915273a67b005ac",
-    "79098a8a3f565028fa3bacf2c587723a"
+    "79098a8a3f565028fa3bacf2c587723a",
+    "21d2b63e006109b6a4f37d64233c066f",
+    "9579022bc150b979a9d3f052cda5f808",
+    "40942227e8b4f5e1ba6734c3a0b7acd1"
   ],
   "titles": [
-    "Höflichkeit in der Politik: Das tut man nicht",
-    "Maßnahme gegen Ausbreitung - Vogelgrippe: Stallpflicht für Geflügel in mehreren Bundesländern",
-    "Kritik an Preisaufschlägen - Baden-Württemberg drängt auf mehr Transparenz beim Laden von E-Autos",
     "Börse - Chipkonzern Nvidia als erstes Unternehmen der Welt fünf Billionen Dollar wert",
     "Berlin - Hightech-Agenda der Bundesregierung vorgestellt - Merz: \"USA und China dürfen nicht allein über technologische Zukunft bestimmen\"",
     "Türkei - Zwei Tote nach Einsturz eines Wohnhauses nahe Istanbul",
@@ -3003,12 +3000,12 @@
     "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
     "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau",
     "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
-    "Bundesfinanzminister - Klingbeil in Singapur: Deutschland strebt engere Zusammenarbeit an"
+    "Bundesfinanzminister - Klingbeil in Singapur: Deutschland strebt engere Zusammenarbeit an",
+    "\"Keine Überwindung der Armut\" - Organisationen kritisieren Bürgergeld-Reform",
+    "Lkw-Hersteller MAN - IG Metall warnt vor Verlagerung von Teilen der Produktion nach Polen",
+    "Nahe der Stadt Budweis - Tschechien: Zahlreiche Verletzte bei Zugunglück"
   ],
   "hashes": [
-    "c3ce2e8bc55fd571adea3cc8aec4f245",
-    "6badf85feb65aac49f5bb27a9b6d632c",
-    "d197041f6897f8ff88e9a0af5fa56ec2",
     "9a097b8e8180ad39dd2b07f407f3730b",
     "187dd6d8e9c62ceaa5e388319b277509",
     "06288e579854291b2f9182f6a11433a7",
@@ -4005,6 +4002,9 @@
     "44800a55eeb779b9311c1d34b09b4523",
     "3e3ec12b08ab0205e28f77778b598ea8",
     "4b1e82a39b291823594e72d37ad1beb1",
-    "01a5b500c93590d5c51cbd89f3f04452"
+    "01a5b500c93590d5c51cbd89f3f04452",
+    "d4d9f4a3be41b2f80596682ba2937fe8",
+    "8643692d26bb5c07714e1f76037a15b0",
+    "d2ab37230b7474a19fd3a72aea5a43a1"
   ]
 }
