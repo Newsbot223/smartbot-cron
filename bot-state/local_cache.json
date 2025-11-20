@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/wahl-in-den-niederlanden-ohne-brandmauer-geht-es-nicht-110756729.html",
-    "https://www.deutschlandfunk.de/studien-ueber-umgang-mit-missbrauch-in-den-bistuemern-trier-und-augsburg-fuehren-fortschritte-auf-ab-100.html",
     "https://www.deutschlandfunk.de/justizreform-nimmt-im-parlament-letzte-huerde-102.html",
     "https://www.deutschlandfunk.de/luftwaffe-faengt-erneut-russischen-aufklaerer-ab-102.html",
     "https://www.deutschlandfunk.de/sozialliberale-d66-erhebt-anspruch-auf-regierungsbildung-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/doppelhaushalt-in-thueringen-auf-die-linke-kommt-es-an-110787852.html",
     "https://www.deutschlandfunk.de/italien-liefert-nord-stream-verdaechtigen-kommende-woche-aus-100.html",
     "https://www.deutschlandfunk.de/52-afghanen-aus-pakistan-in-deutschland-angekommen-100.html",
-    "https://www.deutschlandfunk.de/neuwahlen-im-kosovo-am-28-dezember-102.html"
+    "https://www.deutschlandfunk.de/neuwahlen-im-kosovo-am-28-dezember-102.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-reist-zu-zwei-gipfeln-nach-afrika-102.html",
+    "https://www.deutschlandfunk.de/bundesrat-befasst-sich-mit-krankenkassen-deutschlandticket-und-aktivrente-100.html"
   ],
   "content_hashes": [
-    "1331440d864f3587743d5a6c24de3bde",
-    "ae49610312fa1b12cd27cd77edcefa47",
     "fede789595951cb5a2495d702e2a5640",
     "205d73799a6d612b4f6dc5fe79f2d6c4",
     "10489b8b3cac31c101767718b03ec1ba",
@@ -2001,11 +1999,11 @@
     "0694edf1eae6c03828a323c791a74518",
     "5ec54059e028d837bf2e71f35dc7f85c",
     "457f4f5875219130f7632e3c0559e4b4",
-    "4453c6f2c5abdce9df1a97592fa6d36f"
+    "4453c6f2c5abdce9df1a97592fa6d36f",
+    "38f2097a1129fe23ee71e2a24111ec4c",
+    "b88f359e33a6747d4e36033a714db371"
   ],
   "titles": [
-    "Wahl in den Niederlanden: Ohne Brandmauer geht es nicht",
-    "Katholische Kirche - Studien über Umgang mit Missbrauch in den Bistümern Trier und Augsburg führen Fortschritte auf, aber auch Versäumnisse",
     "Italien - Justizreform nimmt im Parlament letzte Hürde",
     "Polen - Luftwaffe fängt erneut russischen Aufklärer ab",
     "Niederlande - Sozialliberale D66 erhebt Anspruch auf Regierungsbildung",
@@ -3003,11 +3001,11 @@
     "Doppelhaushalt in Thüringen: Auf die Linkspartei kommt es an – und die pokert",
     "Rechtsanwälte - Italien liefert Nord-Stream-Verdächtigen kommende Woche aus",
     "Aufnahmezusagen - 52 Afghanen aus Pakistan in Deutschland angekommen",
-    "Regierungsbildung gescheitert - Neuwahlen im Kosovo am 28. Dezember"
+    "Regierungsbildung gescheitert - Neuwahlen im Kosovo am 28. Dezember",
+    "Internationale Treffen - Bundeskanzler Merz reist zu zwei Gipfeln nach Afrika",
+    "Länderkammer - Bundesrat befasst sich mit Krankenkassen, Deutschlandticket und Aktivrente"
   ],
   "hashes": [
-    "af1fbf9d357ee4c9f217d9664ec62618",
-    "de817bb5f61af6d9907f7c2d119fe81c",
     "07f13b58b845392ba4f67a50d35f67f5",
     "f9cc27b3343526ee6e0c1692fe6f7f14",
     "d2ac8242f718c746ad8ef43c67b11cce",
@@ -4005,6 +4003,8 @@
     "a7306b1d4af86a803e8d89b8aa1a6548",
     "8d8b669b7f85cb7aeb0ca46bed9b69cf",
     "68351b450beeb64d4bcf5d83bd33c5b1",
-    "0e2d782f28f9a2a16fbc66fbf156b4ab"
+    "0e2d782f28f9a2a16fbc66fbf156b4ab",
+    "c63e52dd6455efdbfecfcfa8b2aaafd3",
+    "a32f8d79a51fc89b8b11849aeb3e63e5"
   ]
 }
