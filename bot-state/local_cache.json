@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/einspruch/michael-kretschmer-im-f-a-z-einspruch-podcast-wie-tickt-der-osten-110755151.html",
-    "https://www.deutschlandfunk.de/zahl-der-todesopfer-bei-polizeieinsatz-in-rio-de-janeiro-erhoeht-sich-auf-mehr-als-100.html",
     "https://www.deutschlandfunk.de/aerzte-ohne-grenzen-aus-libyen-ausgewiesen-100.html",
     "https://www.faz.net/aktuell/rhein-main/frankfurt/verteidigungsministerium-stoppt-zivile-nutzung-von-14-liegenschaften-in-hessen-110755488.html",
     "https://www.deutschlandfunk.de/usa-bestaetigen-abzug-von-soldaten-aus-osteuropa-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tschechien-zahlreiche-verletzte-bei-zugunglueck-100.html",
     "https://www.deutschlandfunk.de/einigung-mit-musikkonzern-warner-ki-musikplattform-udio-darf-songs-gegen-verguetung-nutzen-102.html",
     "https://www.deutschlandfunk.de/krise-in-der-autoindustrie-binnen-eines-jahres-fast-50-000-stellen-abgebaut-100.html",
-    "https://www.deutschlandfunk.de/aussenbeauftragte-kallas-mahnt-beteiligung-kiews-an-kanzleramtschef-frei-meldungen-verstoerend-100.html"
+    "https://www.deutschlandfunk.de/aussenbeauftragte-kallas-mahnt-beteiligung-kiews-an-kanzleramtschef-frei-meldungen-verstoerend-100.html",
+    "https://www.faz.net/aktuell/politik/inland/karlsruhe-gibt-beschwerde-von-asylbewerber-statt-accg-200249052.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-aus-protest-verlassen-stipendiaten-bei-merz-rede-den-raum-faz-110093143.html"
   ],
   "content_hashes": [
-    "5aa9b9fa271b65fef34dd9c50ad836a5",
-    "4a933e1968e41ccd793d64a398ea56b5",
     "1844dc9fbbe0aabcef0899b8fa33efad",
     "44d187d39faff9d7736a4e7275aa4b0b",
     "d3d9a995b86b0b067f7974d4924bf41f",
@@ -2001,11 +1999,11 @@
     "40942227e8b4f5e1ba6734c3a0b7acd1",
     "68865b297af1668585405f24692b2c69",
     "2e9b194b54bef29b74b4c9689b4045eb",
-    "f337537f2b833dd5b4425a66cd6b1c2f"
+    "f337537f2b833dd5b4425a66cd6b1c2f",
+    "620e1386a7e714fcc1f389c1a15327fb",
+    "bf724f8cabb883127516bf6cfbdd6004"
   ],
   "titles": [
-    "F.A.Z. Einspruch Podcast: Wie tickt der Osten?",
-    "Brasilien - Zahl der Todesopfer bei Polizeieinsatz in Rio de Janeiro erhöht sich auf mehr als 130",
     "Hilfsorganisation - \"Ärzte ohne Grenzen\" aus Libyen ausgewiesen",
     "Konversionsstopp: Bundeswehr beansprucht 14 Standorte in Hessen",
     "Sicherheitspolitik - USA bestätigen Abzug von Soldaten aus Osteuropa",
@@ -3003,11 +3001,11 @@
     "Nahe der Stadt Budweis - Tschechien: Zahlreiche Verletzte bei Zugunglück",
     "Künstliche Intelligenz - Einigung mit Musikkonzern Warner: KI-Musikplattform Udio darf Songs gegen Vergütung nutzen",
     "Wirtschaft - Krise in der Autoindustrie: Binnen eines Jahres fast 50.000 Stellen abgebaut",
-    "Angeblicher Geheimplan von Russland und USA - Außenbeauftragte Kallas mahnt Beteiligung Kiews an - Kanzleramtschef Frei: Meldungen \"verstörend\""
+    "Angeblicher Geheimplan von Russland und USA - Außenbeauftragte Kallas mahnt Beteiligung Kiews an - Kanzleramtschef Frei: Meldungen \"verstörend\"",
+    "Beschwerde wegen Abschiebung: Karlsruhe: Durchsuchung von Gemeinschaftszimmer nur mit richterlichem Beschluss",
+    "Liveblog Bundespolitik: Protest bei Merz-Rede: Stipendiaten verlassen Raum"
   ],
   "hashes": [
-    "d76a5662f5bc9dc9f53d402535f91d1a",
-    "9e03b80e43745bc66394fb17294ae507",
     "236b8025677fc0869783f3f120a02b33",
     "2b407d466ee41a36a45b4a11f04a2e61",
     "8f29752ba5856c666f2cf6378f84575d",
@@ -4005,6 +4003,8 @@
     "d2ab37230b7474a19fd3a72aea5a43a1",
     "eccbeac9bac4036c29a3d37815d89f87",
     "2f72c80d6016ce77005a6be7ad240996",
-    "031699c50c090ee7bcfca0545a719ed9"
+    "031699c50c090ee7bcfca0545a719ed9",
+    "e37c2b1041055502cf6364904af3614c",
+    "485330924d1b461f3ce4a6033c1657fa"
   ]
 }
