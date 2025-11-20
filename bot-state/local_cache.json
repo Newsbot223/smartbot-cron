@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/rhein-main/frankfurt/verteidigungsministerium-stoppt-zivile-nutzung-von-14-liegenschaften-in-hessen-110755488.html",
-    "https://www.deutschlandfunk.de/usa-bestaetigen-abzug-von-soldaten-aus-osteuropa-100.html",
-    "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-laeuft-wilders-partei-koennte-staerkste-kraft-werden-100.html",
     "https://www.deutschlandfunk.de/landtag-in-sachsen-stimmt-fuer-reformstaatsvertrag-zum-oeffentlich-rechtlichen-rundfunk-100.html",
     "https://www.deutschlandfunk.de/landtag-in-sachsen-stimmt-reform-des-oeffentlich-rechtlichen-rundfunks-zu-100.html",
     "https://www.faz.net/aktuell/politik/inland/bund-und-laender-leben-ueber-ihre-verhaeltnisse-die-notlage-der-staedte-110755085.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aussenbeauftragte-kallas-mahnt-beteiligung-kiews-an-kanzleramtschef-frei-meldungen-verstoerend-100.html",
     "https://www.faz.net/aktuell/politik/inland/karlsruhe-gibt-beschwerde-von-asylbewerber-statt-accg-200249052.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-aus-protest-verlassen-stipendiaten-bei-merz-rede-den-raum-faz-110093143.html",
-    "https://www.spiegel.de/wirtschaft/soziales/einkommen-lohnungleichheit-steigt-auf-rekordniveau-a-b9198ccb-1d3c-4777-b4f1-fff67fa77ec5#ref=rss"
+    "https://www.spiegel.de/wirtschaft/soziales/einkommen-lohnungleichheit-steigt-auf-rekordniveau-a-b9198ccb-1d3c-4777-b4f1-fff67fa77ec5#ref=rss",
+    "https://www.deutschlandfunk.de/franzoesische-handelsverbaende-verklagen-shein-vorwurf-unlauterer-wettbewerb-100.html",
+    "https://www.deutschlandfunk.de/elf-monate-nach-anschlag-magdeburger-weihnachtsmarkt-eroeffnet-100.html",
+    "https://www.spiegel.de/wirtschaft/soziales/rente-wo-die-altersbezuege-in-deutschland-am-hoechsten-sind-a-c2760941-f1f4-4483-9897-7da851e02ddd#ref=rss"
   ],
   "content_hashes": [
-    "44d187d39faff9d7736a4e7275aa4b0b",
-    "d3d9a995b86b0b067f7974d4924bf41f",
-    "69d06e4facd2d2d96abaf61b6f1a6d4c",
     "518c1a798e66844d01f2e45421ec9ce9",
     "761df9fef976204bbd52177332e7c97e",
     "ec20c7d769cb0275455cfc235fb1c59e",
@@ -2001,12 +1998,12 @@
     "f337537f2b833dd5b4425a66cd6b1c2f",
     "620e1386a7e714fcc1f389c1a15327fb",
     "bf724f8cabb883127516bf6cfbdd6004",
-    "55ec99079463e961ceba59b08dd0a871"
+    "55ec99079463e961ceba59b08dd0a871",
+    "c416e51c84030cd3700e0c918394e02e",
+    "305759deb726bbbb8f15c189af613889",
+    "2294f2bbb85eb0b36af6f54526945e8a"
   ],
   "titles": [
-    "Konversionsstopp: Bundeswehr beansprucht 14 Standorte in Hessen",
-    "Sicherheitspolitik - USA bestätigen Abzug von Soldaten aus Osteuropa",
-    "Zweite Kammer - Parlamentswahl in den Niederlanden läuft - Wilders-Partei könnte stärkste Kraft werden",
     "Medien - Landtag in Sachsen stimmt für Reformstaatsvertrag zum öffentlich-rechtlichen Rundfunk",
     "Medien - Landtag in Sachsen stimmt Reform des öffentlich-rechtlichen Rundfunks zu",
     "Notlage der Städte: Ein Blick in den Abgrund",
@@ -3003,12 +3000,12 @@
     "Angeblicher Geheimplan von Russland und USA - Außenbeauftragte Kallas mahnt Beteiligung Kiews an - Kanzleramtschef Frei: Meldungen \"verstörend\"",
     "Beschwerde wegen Abschiebung: Karlsruhe: Durchsuchung von Gemeinschaftszimmer nur mit richterlichem Beschluss",
     "Liveblog Bundespolitik: Protest bei Merz-Rede: Stipendiaten verlassen Raum",
-    "Einkommen: Lohnungleichheit steigt auf Rekordniveau"
+    "Einkommen: Lohnungleichheit steigt auf Rekordniveau",
+    "Fast-Fashion-Konzern - Französische Handelsverbände verklagen Shein - Vorwurf: unlauterer Wettbewerb",
+    "Sachsen-Anhalt - Elf Monate nach Anschlag: Magdeburger Weihnachtsmarkt eröffnet",
+    "Rente: Wo die Altersbezüge in Deutschland am höchsten sind"
   ],
   "hashes": [
-    "2b407d466ee41a36a45b4a11f04a2e61",
-    "8f29752ba5856c666f2cf6378f84575d",
-    "b569308741c852620163c0b6469aa362",
     "bae6f3134358a5c0e27852acff2cb849",
     "833024ec619ef7b9a34dd0fe69e6dcfe",
     "d99a95c436184aef6af8acef7284f3b8",
@@ -4005,6 +4002,9 @@
     "031699c50c090ee7bcfca0545a719ed9",
     "e37c2b1041055502cf6364904af3614c",
     "485330924d1b461f3ce4a6033c1657fa",
-    "c8f9f7efdb29a46cc42d432b5c8f4fc5"
+    "c8f9f7efdb29a46cc42d432b5c8f4fc5",
+    "16a0f1fc4eb9c20399635049d5da6e21",
+    "cf6ccfd78b9dbf2c877f5fe79ddeaf88",
+    "9de0c007e7095236b7ef145ccbb7cff7"
   ]
 }
