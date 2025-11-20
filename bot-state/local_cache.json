@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auftaktveranstaltung-in-berlin-100.html",
     "https://www.deutschlandfunk.de/suedkorea-und-usa-vereinbaren-kompromiss-bei-handelsabkommen-100.html",
     "https://www.deutschlandfunk.de/bundeslaender-wollen-autonomes-fahren-voranbringen-fussverkehr-soll-in-den-mittelpunkt-ruecken-100.html",
     "https://www.faz.net/aktuell/politik/inland/hoeflichkeit-in-der-politik-buergerlich-sind-weder-linke-noch-afd-110753255.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/52-afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-100.html",
     "https://www.deutschlandfunk.de/trump-unterzeichnet-gesetz-zur-freigabe-der-epstein-akten-100.html",
     "https://www.deutschlandfunk.de/usa-und-russland-handeln-laut-medienberichten-plan-fuer-kriegsende-aus-100.html",
-    "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html"
+    "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
+    "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html"
   ],
   "content_hashes": [
-    "6872dc8100eb48d37060b6054c5b9000",
     "3fa7e88050d6fe49cc2b65d8cbeb5ff3",
     "c3c5953ecfe1d37789eaa010286fff44",
     "860babda3632a4055fb7455ba15b9e2d",
@@ -2001,10 +2000,10 @@
     "c78b6182633df39d2792b2e1d3387e72",
     "d72268c6005211643f3fe3a7f40530b4",
     "f416c10c3646b043e72a5d76381eecad",
-    "336bdeaa8c085027a9a8b5b69bbeea42"
+    "336bdeaa8c085027a9a8b5b69bbeea42",
+    "f4f2de29685816a16d996e3db8f24f1f"
   ],
   "titles": [
-    "Hightech-Agenda der Bundesregierung - Auftaktveranstaltung in Berlin",
     "Gyeongju - Südkorea und USA vereinbaren Kompromiss bei Handelsabkommen",
     "Konferenz in Straubing - Bundesländer wollen autonomes Fahren voranbringen - Fußverkehr soll in den Mittelpunkt rücken",
     "Höflichkeit in der Politik: Das tut man nicht",
@@ -3003,10 +3002,10 @@
     "Aus Pakistan - 52 Afghanen mit Aufnahmezusage fliegen nach Deutschland",
     "USA - Trump unterzeichnet Gesetz zur Freigabe der Epstein-Akten",
     "Ukraine-Krieg - USA und Russland handeln laut Medienberichten Plan für Kriegsende aus",
-    "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase"
+    "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
+    "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau"
   ],
   "hashes": [
-    "69a2c0fa47a1a7b35eb19bb679230ca9",
     "5d20a1e370611b296704519777107e43",
     "32aa417275eca6a867308a3cfb705be0",
     "c3ce2e8bc55fd571adea3cc8aec4f245",
@@ -4005,6 +4004,7 @@
     "882d07e31b53a3a390f2888b37618a27",
     "57687b24e76e9c419c0fa6079fe3323f",
     "9d4d4afe5b9d1b4df4d365bb7cc1febe",
-    "44800a55eeb779b9311c1d34b09b4523"
+    "44800a55eeb779b9311c1d34b09b4523",
+    "3e3ec12b08ab0205e28f77778b598ea8"
   ]
 }
