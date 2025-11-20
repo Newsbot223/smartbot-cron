@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-trifft-heute-praesident-erdogan-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-in-den-libanon-102.html",
-    "https://www.deutschlandfunk.de/us-praesident-trump-trifft-chinas-staatschef-xi-102.html",
-    "https://www.deutschlandfunk.de/keine-parteistaende-mehr-auf-bildungsmesse-didacta-102.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-wiederaufnahme-von-us-atomwaffentests-an-104.html",
     "https://www.deutschlandfunk.de/cda-chef-warnt-spd-vor-parteiinterner-rebellion-100.html",
     "https://www.deutschlandfunk.de/frankreich-macht-ausdrueckliche-zustimmung-zum-sex-zum-gesetzlichen-massstab-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/greenpeace-stichprobe-chemikalien-in-shein-textilien-festgestellt-100.html",
     "https://www.deutschlandfunk.de/who-bericht-zu-wenig-hilfe-fuer-frauen-in-europa-nach-gewalterfahrungen-100.html",
     "https://www.deutschlandfunk.de/karrosserie-fertigung-kuenftig-in-polen-ig-metall-kuendigt-widerstand-gegen-stellenabbau-an-102.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-hagel-sich-gegen-merz-stellt-110786968.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-hagel-sich-gegen-merz-stellt-110786968.html",
+    "https://www.deutschlandfunk.de/angeblicher-geheimplan-rubio-spricht-nur-von-liste-von-ideen-fuer-kriegsende-100.html",
+    "https://www.deutschlandfunk.de/oesterreich-schafft-klebe-vignette-ab-102.html",
+    "https://www.deutschlandfunk.de/razzien-gegen-schattenbank-netzwerk-in-vier-bundeslaendern-100.html",
+    "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-zugunglueck-nahe-budweis-100.html"
   ],
   "content_hashes": [
-    "d6391df75af2007d159f37db5ecf981a",
-    "afc520169e9ba613354778362ed1e443",
-    "b23c99454463fe483b1822c169376caf",
-    "086933bda3b8fb2fbdb8f790a2c0aa20",
     "d06d677bb13fa6f6a1b6ef9d309c3993",
     "fdfe3d1a4cda0dfeddac5dec790bc183",
     "bd96bbb4efdfdb1c9d58ba03ab43e0bf",
@@ -2001,13 +1997,13 @@
     "3904c6fd12cceba21cc1147d48dafb35",
     "556a3a4cbb6e877226425c3df8b7329c",
     "bb4457226005044f80479be6e48d9b9e",
-    "965fd6b0e0c86eadde820cee1c44fa23"
+    "965fd6b0e0c86eadde820cee1c44fa23",
+    "8d865b5fe2187ca8c3364e67797cac8f",
+    "3516c611614812f0590b83854a0b9b7d",
+    "a253ac0c74df74f94ddaa0b1b9c4e4aa",
+    "814a10a2b6e8e66dafd4083ecb5bf284"
   ],
   "titles": [
-    "Antrittsbesuch in der Türkei - Merz trifft heute Präsident Erdogan",
-    "Nahost - Außenminister Wadephul reist in den Libanon",
-    "Südkorea - US-Präsident Trump trifft Chinas Staatschef Xi",
-    "Nach Eklat um AfD-Stand - Keine Parteistände mehr auf Bildungsmesse Didacta",
     "Unmittelbar vor Treffen mit XI - Trump kündigt Wiederaufnahme von US-Atomwaffentests an",
     "Bürgergeldreform - CDA-Chef warnt SPD vor parteiinterner Rebellion",
     "Strafrecht - Frankreich macht ausdrückliche Zustimmung zum Sex zum gesetzlichen Maßstab",
@@ -3003,13 +2999,13 @@
     "Fast Fashion - Greenpeace-Stichprobe: Chemikalien in Shein-Textilien festgestellt",
     "Weltgesundheitsorganisation - WHO-Bericht: Zu wenig Hilfe für Frauen in Europa nach Gewalterfahrungen",
     "Lkw-Hersteller MAN - Karrosserie-Fertigung künftig in Polen: IG Metall kündigt Widerstand gegen Stellenabbau an",
-    "CDU-Mann Manuel Hagel: Für den Sieg auf Distanz zu Merz"
+    "CDU-Mann Manuel Hagel: Für den Sieg auf Distanz zu Merz",
+    "Ukraine-Krieg - Angeblicher Geheimplan: Rubio spricht nur von \"Liste von Ideen\" für Kriegsende",
+    "Autobahnen - Österreich schafft Klebe-Vignette ab",
+    "Geldwäsche - Razzien gegen \"Schattenbank\"-Netzwerk in vier Bundesländern",
+    "Tschechien - Zahlreiche Verletzte bei Zugunglück nahe Budweis"
   ],
   "hashes": [
-    "588c7ec874bf310f614f6afd5dedb050",
-    "efd5077088a8c3242d46ece99ecc4b0b",
-    "2463c925de68264d2e7bf0166ff48221",
-    "c0dcfc15176cff1231e4643524c4db4f",
     "533726cdeef0452f0f6a72b9531db3f1",
     "11ba8691dbff3e4d3dc98918494a5777",
     "726fa7364cde27942cab63b6e2fc6cdc",
@@ -4005,6 +4001,10 @@
     "e0ee2f5051b24b5a31ecf899135e23d3",
     "e97856ff367c178f647f20811dda6c35",
     "39cef0e47a8d5b6438cccb3f4fa7fe1d",
-    "5b2b7aa591eb9d3df8435ea18f9bbc3e"
+    "5b2b7aa591eb9d3df8435ea18f9bbc3e",
+    "b25a84adde03063183cee27577fb9dd6",
+    "d9baf733fee6444fab3cc34533aca905",
+    "73befd2e6b08d1b0e09bd01d3eca8c5b",
+    "f4afc3b9d5b7a774b6f01264f3bb0bcc"
   ]
 }
