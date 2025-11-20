@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-in-den-libanon-weiter-102.html",
-    "https://www.deutschlandfunk.de/kopf-an-kopf-rennen-zwischen-sozialliberaler-d66-und-rechtspopulistischer-pvv-102.html",
-    "https://www.deutschlandfunk.de/afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-102.html",
-    "https://www.deutschlandfunk.de/trump-verkuendigt-einigung-bei-seltenen-erden-und-senkung-von-zoellen-102.html",
     "https://www.deutschlandfunk.de/us-regierung-will-atomwaffentests-wieder-aufnehmen-100.html",
     "https://www.deutschlandfunk.de/rechte-aktivistin-naomi-seibt-beantragt-asyl-in-den-usa-100.html",
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-will-buerosoftware-von-microsoft-durch-deutsches-produkt-ersetzen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-zugunglueck-nahe-budweis-100.html",
     "https://www.deutschlandfunk.de/sudetendeutscher-tag-erstmals-in-tschechien-100.html",
     "https://www.faz.net/aktuell/politik/inland/guenter-krings-erklaert-kandidatur-fuer-den-kas-vorsitz-accg-200250256.html",
-    "https://www.deutschlandfunk.de/oberster-staatsanwalt-spaniens-zu-geldstrafe-und-berufsverbot-verurteilt-102.html"
+    "https://www.deutschlandfunk.de/oberster-staatsanwalt-spaniens-zu-geldstrafe-und-berufsverbot-verurteilt-102.html",
+    "https://www.deutschlandfunk.de/aidshilfe-fordert-mehr-vorsorge-und-drogenhilfe-102.html",
+    "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-zugunglueck-112.html",
+    "https://www.faz.net/aktuell/politik/inland/brandenburger-regierungskrise-die-cdu-als-woidkes-politischer-lebensretter-110787720.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html"
   ],
   "content_hashes": [
-    "d33c868558f414551e681b77057092b8",
-    "3ad033086379067e5ce112b57118bd49",
-    "b79392b7f8ce69a742a89173fdcc32ee",
-    "9811c9abf1b48970c7dc78664299b4bc",
     "f150b98bde7ffb71fe6035b02477d16a",
     "731ca5bb4c8dac593efdaf960e4bd701",
     "52357e2d79d85467c15c495fa46f80bd",
@@ -2001,13 +1997,13 @@
     "814a10a2b6e8e66dafd4083ecb5bf284",
     "762c9b48c4d27af18eefc66bcc7bccce",
     "29769396a2adb44ce52c66f923920fce",
-    "1eb428a3b46f0575623f531e216376d1"
+    "1eb428a3b46f0575623f531e216376d1",
+    "9de166ed2539e75b9aafc34ad6d0ffe1",
+    "6b20d9578329e950eaf84e7316f77a28",
+    "82e4b72eb3b0fbeda72463075f021bef",
+    "fa8d5cd8f522cc15b37ea999189b94d0"
   ],
   "titles": [
-    "Nahost - Außenminister Wadephul reist in den Libanon weiter",
-    "Neuwahl in den Niederlanden - Kopf-an-Kopf-Rennen zwischen sozialliberaler D66 und rechtspopulistischer PVV",
-    "Über Islamabad und Istanbul - Afghanen mit Aufnahmezusage fliegen nach Deutschland",
-    "Nach Treffen mit Xi - Trump verkündigt Einigung bei Seltenen Erden und Senkung von Zöllen",
     "Erstmals seit 1992 - US-Regierung will Atomwaffentests wieder aufnehmen",
     "Soziale Medien - Rechte Aktivistin Naomi Seibt beantragt Asyl in den USA",
     "Bericht - Internationaler Strafgerichtshof will Bürosoftware von Microsoft durch deutsches Produkt ersetzen",
@@ -3003,13 +2999,13 @@
     "Tschechien - Zahlreiche Verletzte bei Zugunglück nahe Budweis",
     "Rund 80 Jahre nach Kriegsende - Sudetendeutscher Tag erstmals in Tschechien",
     "Auf Vorschlag von Merz: Krings kandidiert für den Vorsitz der Adenauer-Stiftung",
-    "Wegen Verletzung des Justizgeheimnisses - Oberster Staatsanwalt Spaniens zu Geldstrafe und Berufsverbot verurteilt"
+    "Wegen Verletzung des Justizgeheimnisses - Oberster Staatsanwalt Spaniens zu Geldstrafe und Berufsverbot verurteilt",
+    "Anstieg der HIV-Infektionen - Aidshilfe fordert mehr Vorsorge und Drogenhilfe",
+    "Tschechien - Zahlreiche Verletzte bei Zugunglück",
+    "Krise in Brandenburg: Die CDU als Woidkes Retter",
+    "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf"
   ],
   "hashes": [
-    "c81549d68fbf72f30da1d941a0c609ec",
-    "b18a56ee895c9335d218a8fd6576da6b",
-    "a7d731d5cdda778f9790cc1e4f817e63",
-    "2d311a47d621c046d323cf40cd41bd93",
     "a55afc15b4449004613d9c38c379090f",
     "6fc4ba781694cbbb7dd8d8274b9dcd4b",
     "5014a0036d33f8b053dad46b9262ce51",
@@ -4005,6 +4001,10 @@
     "f4afc3b9d5b7a774b6f01264f3bb0bcc",
     "11066acec50a779980a74188f94d2da6",
     "c35675918fc6f0cc6a9350ab00934984",
-    "8f2dd80ae76dc86cdfde563ae3e47cc4"
+    "8f2dd80ae76dc86cdfde563ae3e47cc4",
+    "389671bb1b261cbc221c0094ac29a283",
+    "043287ea9f969ff8bdd2649274fd3f3c",
+    "9693f184d20a667eb623eeedae24d97d",
+    "3d464e4637320ee825a2ec90e13282c3"
   ]
 }
