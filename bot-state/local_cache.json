@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/human-rights-watch-bundeskanzler-merz-muss-in-ankara-klare-position-zur-lage-der-menschenrechte-bezi-100.html",
-    "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-schrittweise-anhebung-des-mindestlohns-100.html",
     "https://www.deutschlandfunk.de/bundesforschungsministerin-baer-schluesseltechnologien-fuer-wirtschaft-nutzbar-machen-102.html",
     "https://www.deutschlandfunk.de/verkehrsminister-beraten-ueber-deutschlandticket-und-sondervermoegen-infrastruktur-102.html",
     "https://www.deutschlandfunk.de/saarland-verhaengt-stallpflicht-wegen-vogelgrippe-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/stuttgart-21-es-faehrt-kein-zug-nach-nirgendwo-110786689.html",
     "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-102.html",
     "https://www.deutschlandfunk.de/usa-und-russland-handeln-plan-fuer-kriegsende-aus-104.html",
-    "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html"
+    "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html",
+    "https://www.deutschlandfunk.de/kassenaerztliche-vereinigungen-gegen-neue-praxisgebuehr-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenminister-beraten-ueber-ukraine-krieg-gaza-und-den-sudan-102.html"
   ],
   "content_hashes": [
-    "307dbcfc400c73f5358ef1151a1ef48d",
-    "af0afa5a1435391fb665a70ac4e765cc",
     "84993d705c8e718d83be84d7b82a5379",
     "1e06553f72129eadb0c37c2cff393004",
     "d2c0bff5f9fdc8fdc93b192523aa7599",
@@ -2001,11 +1999,11 @@
     "df8233aa68d98f81b75bc7ef2886afac",
     "051778bd6488ae9cd53567c6f1c5bc7a",
     "f755457d81499e1050f455ae1533835b",
-    "57a3678d29c2e25ce08193c3a785f245"
+    "57a3678d29c2e25ce08193c3a785f245",
+    "f31c294a25b2a577943a481cf6829b06",
+    "59182e856501a8c40a4ec8e8fa45b796"
   ],
   "titles": [
-    "Besuch in der Türkei - Human Rights Watch: Bundeskanzler Merz muss in Ankara klare Position zur Lage der Menschenrechte beziehen",
-    "Berlin - Bundeskabinett beschließt schrittweise Anhebung des Mindestlohns",
     "\"Hightech-Agenda\" - Bundesforschungsministerin Bär: \"Schlüsseltechnologien für Wirtschaft nutzbar machen\"",
     "Straubing - Verkehrsminister beraten über Deutschlandticket und Sondervermögen Infrastruktur",
     "Seuche - Saarland verhängt Stallpflicht wegen Vogelgrippe",
@@ -3003,11 +3001,11 @@
     "Nicht nur Stuttgart 21: Es fährt kein Zug nach nirgendwo",
     "Wirtschaft - Nvidia steigert Gewinn im dritten Quartal deutlich",
     "Medienberichte - USA und Russland handeln Plan für Kriegsende aus",
-    "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden"
+    "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
+    "Gesundheit - Kassenärztliche Vereinigungen gegen neue Praxisgebühr",
+    "Brüssel - EU-Außenminister beraten über Ukraine-Krieg, Gaza und den Sudan"
   ],
   "hashes": [
-    "b32cf2e3f898b83209259bfe2f6524e4",
-    "884aaf574649008bff605aa0283437b8",
     "56b52ed8fa62bcc68536c673d401200f",
     "3b58fbdcf479bcc50936ada917132825",
     "1fefadfe481b86cb116fe2c1407719b1",
@@ -4005,6 +4003,8 @@
     "abc11efbfe219b1ad6a96defa3c60089",
     "506640507054cbef1d56fe4f94ffe61a",
     "34db84e67a5825accc183ba7ef52f17e",
-    "2e3f56f5e7062bb6e2f28d43ec7e6dac"
+    "2e3f56f5e7062bb6e2f28d43ec7e6dac",
+    "32fb233f2a4cf44445c50b99f8562b9f",
+    "95a2da7ddc321a6d42ffe0d979ab2b07"
   ]
 }
