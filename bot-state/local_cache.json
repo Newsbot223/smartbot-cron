@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frankreich-macht-ausdrueckliche-zustimmung-zu-sex-zum-gesetzlichen-massstab-100.html",
-    "https://www.deutschlandfunk.de/vw-mit-milliardenverlust-im-dritten-quartal-102.html",
-    "https://www.deutschlandfunk.de/staedtetags-vize-conradt-warnt-vor-grossen-sparzwaengen-100.html",
     "https://www.deutschlandfunk.de/alabali-radovan-zu-besuch-in-kiew-eingetroffen-102.html",
     "https://www.deutschlandfunk.de/steinmeier-lehrer-duerfen-nicht-neutral-wegschauen-100.html",
     "https://www.deutschlandfunk.de/fuenf-weitere-verdaechtige-festgenommen-104.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-ukraine-muss-gestaerkt-und-russland-geschwaecht-werden-100.html",
     "https://www.deutschlandfunk.de/guterres-verlangt-zum-abschluss-der-klimakonferenz-mutige-entscheidungen-100.html",
-    "https://www.deutschlandfunk.de/susanne-schwarzbach-wird-als-dlf-chefredakteurin-nachfolgerin-von-birgit-wentzien-100.html"
+    "https://www.deutschlandfunk.de/susanne-schwarzbach-wird-als-dlf-chefredakteurin-nachfolgerin-von-birgit-wentzien-100.html",
+    "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-teilnehmer-in-sicherheit-gebracht-100.html",
+    "https://www.deutschlandfunk.de/eu-erlaesst-sanktionen-gegen-stellvertretenden-chef-der-rsf-miliz-im-sudan-100.html",
+    "https://www.faz.net/aktuell/politik/kommentar-ein-friedensplan-fuer-die-ukraine-der-keinen-frieden-bringt-110787583.html"
   ],
   "content_hashes": [
-    "b5675cf2a06012316acb365b15b09a2c",
-    "5b1f59260146570f3d12fb1ac36d2da9",
-    "fcf48c7ed36dcb882adf3b89abff6905",
     "fadbde5e7c34c5685a53fd4f4028999c",
     "1b9be6b75d0a8b408878b74ebb611b23",
     "f8d15d293a18b2b6691ae25846a5af76",
@@ -2001,12 +1998,12 @@
     "fa8d5cd8f522cc15b37ea999189b94d0",
     "82c32cd91f3f8063995bdf28f61f98e6",
     "5ac63b06537f18b66e6d9ab651a1900a",
-    "1b39c0d852d817b97e02818de991c3f6"
+    "1b39c0d852d817b97e02818de991c3f6",
+    "d231843ca76bc26f36ef33cb0e15fcb5",
+    "f354fef66b9a0ff8b02fcc3d99cd242d",
+    "769f75f4f0bd654106d7c18b6d77f4cc"
   ],
   "titles": [
-    "Strafrecht - Frankreich macht ausdrückliche Zustimmung zu Sex zum gesetzlichen Maßstab",
-    "Porsche-Debakel - VW mit Milliardenverlust im dritten Quartal",
-    "Kommunalfinanzen - Städtetags-Vize Conradt warnt vor großen Sparzwängen",
     "Ukraine - Alabali Radovan zu Besuch in Kiew eingetroffen",
     "Extremismus - Steinmeier: Lehrer dürfen \"nicht neutral wegschauen\"",
     "Louvre-Einbruch - Fünf weitere Verdächtige festgenommen",
@@ -3003,12 +3000,12 @@
     "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf",
     "Krieg in der Ukraine - EU-Außenbeauftragte Kallas: Ukraine muss gestärkt und Russland geschwächt werden",
     "COP30 in Belém - Guterres verlangt zum Abschluss der Klimakonferenz mutige Entscheidungen",
-    "In eigener Sache - Susanne Schwarzbach wird als DLF-Chefredakteurin Nachfolgerin von Birgit Wentzien"
+    "In eigener Sache - Susanne Schwarzbach wird als DLF-Chefredakteurin Nachfolgerin von Birgit Wentzien",
+    "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz - Teilnehmer in Sicherheit gebracht",
+    "Nordostafrika - EU erlässt Sanktionen gegen stellvertretenden Chef der RSF-Miliz im Sudan",
+    "Friedensplan für Ukraine: Der Versailler Vertrag lässt grüßen"
   ],
   "hashes": [
-    "f9dd1837c0509988d10ab8f355acdb7c",
-    "8ffa41d366f901f8fdd3b74962dd7d83",
-    "5b134500226ef468fda9d5e941a1f057",
     "07bc9c791cf7b5099864294ae4947330",
     "2c83bb3ccf0bb70c27d81d46958bc198",
     "0ac057eb182cddfe7c77c91358a5f85c",
@@ -4005,6 +4002,9 @@
     "3d464e4637320ee825a2ec90e13282c3",
     "48d96ca92eb7a27846ed4dead072c4d2",
     "7fdeac13e42faa8ce7028b52e607506b",
-    "cd8d13cc150ab65fd2c92443556b9ddc"
+    "cd8d13cc150ab65fd2c92443556b9ddc",
+    "aa1e83ac67e4d7be08de8117b35e0fa5",
+    "05e26d7e682d9cfa368ed00165c99a7a",
+    "0e974bcda568f34d9380f4b36ab51914"
   ]
 }
