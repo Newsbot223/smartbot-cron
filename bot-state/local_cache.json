@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bund-und-laender-leben-ueber-ihre-verhaeltnisse-die-notlage-der-staedte-110755085.html",
-    "https://www.deutschlandfunk.de/us-notenbank-senkt-leitzins-erneut-100.html",
-    "https://www.deutschlandfunk.de/frankreich-macht-explizite-zustimmung-zum-sex-zum-gesetzlichen-massstab-100.html",
-    "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-prognose-sieht-linksliberale-demokraten-66-vorne-partei-von-recht-100.html",
     "https://www.spiegel.de/ausland/vergewaltigung-frankreich-stellt-sex-ohne-zustimmung-unter-strafe-a-116af3e9-8368-4709-a6e3-a27d39f172fb#ref=rss",
     "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-prognose-sieht-linksliberale-demokraten-66-knapp-vorne-partei-von-100.html",
     "https://www.faz.net/aktuell/politik/inland/rosneft-deutschland-warum-die-us-sanktionen-nicht-die-raffinerie-in-schwedt-treffen-110755475.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/elf-monate-nach-anschlag-magdeburger-weihnachtsmarkt-eroeffnet-100.html",
     "https://www.spiegel.de/wirtschaft/soziales/rente-wo-die-altersbezuege-in-deutschland-am-hoechsten-sind-a-c2760941-f1f4-4483-9897-7da851e02ddd#ref=rss",
     "https://www.deutschlandfunk.de/landesweite-stromabschaltungen-in-der-ukraine-102.html",
-    "https://www.deutschlandfunk.de/bundesverfassungsgericht-setzt-grenzen-bei-abschiebungen-100.html"
+    "https://www.deutschlandfunk.de/bundesverfassungsgericht-setzt-grenzen-bei-abschiebungen-100.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-uebertraegt-seine-anteile-an-weimer-media-group-auf-treuhaender-102.html",
+    "https://www.deutschlandfunk.de/meta-soll-in-spanien-479-millionen-euro-strafe-zahlen-100.html",
+    "https://www.deutschlandfunk.de/angeblicher-geheimplan-rubio-spricht-nur-von-liste-von-ideen-fuer-kriegsende-und-notwendigen-zugesta-100.html",
+    "https://www.deutschlandfunk.de/austausch-von-leichen-getoeteter-soldaten-mit-russland-100.html"
   ],
   "content_hashes": [
-    "ec20c7d769cb0275455cfc235fb1c59e",
-    "95b2e187e920a9a86ce56807d46569e9",
-    "092d97652a9750e0275d735097872d7c",
-    "cb0c3abd5a32e6b797c51bdce61d3909",
     "046bf8d51400a274d90ab2c71796af65",
     "cb12b45df89b1cb31e483b6b3278b8e1",
     "ed6a022679bc97a370af1ec32afd3ad9",
@@ -2001,13 +1997,13 @@
     "305759deb726bbbb8f15c189af613889",
     "2294f2bbb85eb0b36af6f54526945e8a",
     "ac44999905201b6fcb4fa7aff0135238",
-    "15a9b207367922174e4d436eabca8086"
+    "15a9b207367922174e4d436eabca8086",
+    "d96cd406274294b1d4f0f2d6602a2d23",
+    "c7d4dcaa970edaef1f73d4345e257028",
+    "e08607b6e0432dd2795db20cbaee1221",
+    "66bc1e2bc909ff52d83c602abdcad204"
   ],
   "titles": [
-    "Notlage der Städte: Ein Blick in den Abgrund",
-    "Finanzpolitik - US-Notenbank senkt Leitzins erneut",
-    "Paris - Frankreich macht explizite Zustimmung zum Sex zum gesetzlichen Maßstab",
-    "Zweite Kammer - Parlamentswahl in den Niederlanden: Prognose sieht linksliberale Demokraten 66 vorne - Partei von Rechtspopulist Wilders knapp dahinter",
     "Vergewaltigung: Frankreich stellt Sex ohne Zustimmung unter Strafe",
     "Den Haag - Parlamentswahl in den Niederlanden: Prognose sieht linksliberale Demokraten 66 knapp vorne - Partei von Rechtspopulist Wilders mit deutlichen Verlusten",
     "Rosneft Deutschland: Warum die US-Sanktionen nicht die Raffinerie in Schwedt treffen",
@@ -3003,13 +2999,13 @@
     "Sachsen-Anhalt - Elf Monate nach Anschlag: Magdeburger Weihnachtsmarkt eröffnet",
     "Rente: Wo die Altersbezüge in Deutschland am höchsten sind",
     "Russischer Angriffskrieg - Landesweite Stromabschaltungen in der Ukraine",
-    "Nach Rammbock-Einsatz - Bundesverfassungsgericht setzt Grenzen bei Abschiebungen"
+    "Nach Rammbock-Einsatz - Bundesverfassungsgericht setzt Grenzen bei Abschiebungen",
+    "Diskussion über Interessenkonflikte - Kulturstaatsminister Weimer überträgt seine Anteile an Weimer Media Group auf Treuhänder",
+    "Datenschutzverstoß - Meta soll in Spanien 479 Millionen Euro Strafe zahlen",
+    "Ukraine-Krieg - Angeblicher Geheimplan: Rubio spricht nur von \"Liste von Ideen\" für Kriegsende - und notwendigen Zugeständnissen",
+    "Ukraine-Krieg - Austausch von Leichen getöteter Soldaten mit Russland"
   ],
   "hashes": [
-    "d99a95c436184aef6af8acef7284f3b8",
-    "455708d5a80e152bbfad57e27bff6ca6",
-    "58db879a816caaf523350cb4165cd427",
-    "07eec451d2dc8c164b56d70b5a1135c3",
     "f158706cd3e75f9711b557b5fa724809",
     "23688fc52ff1e39d144bcd1601b1bbac",
     "db73395afe3a20a34caffef84e8f475e",
@@ -4005,6 +4001,10 @@
     "cf6ccfd78b9dbf2c877f5fe79ddeaf88",
     "9de0c007e7095236b7ef145ccbb7cff7",
     "9f5e7e8f7908754a17053f428408a1e3",
-    "2c8a34bf153c0a3195b89ae58458986d"
+    "2c8a34bf153c0a3195b89ae58458986d",
+    "e190a9117d53ac9caa7429e32a3aeafc",
+    "88e01b1126fd72189883cec5d2afe8f3",
+    "fb4b269892a772fd8423e94c22f25159",
+    "d91f04f0501cd4ecb444297957fef5bc"
   ]
 }
