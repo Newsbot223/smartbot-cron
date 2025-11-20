@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/vergewaltigung-frankreich-stellt-sex-ohne-zustimmung-unter-strafe-a-116af3e9-8368-4709-a6e3-a27d39f172fb#ref=rss",
-    "https://www.deutschlandfunk.de/parlamentswahl-in-den-niederlanden-prognose-sieht-linksliberale-demokraten-66-knapp-vorne-partei-von-100.html",
-    "https://www.faz.net/aktuell/politik/inland/rosneft-deutschland-warum-die-us-sanktionen-nicht-die-raffinerie-in-schwedt-treffen-110755475.html",
-    "https://www.deutschlandfunk.de/sozialliberale-d66-knapp-staerkste-kraft-bei-parlamentswahl-in-den-niederlanden-104.html",
     "https://www.deutschlandfunk.de/merz-trifft-heute-praesident-erdogan-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-in-den-libanon-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-trifft-chinas-staatschef-xi-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-uebertraegt-seine-anteile-an-weimer-media-group-auf-treuhaender-102.html",
     "https://www.deutschlandfunk.de/meta-soll-in-spanien-479-millionen-euro-strafe-zahlen-100.html",
     "https://www.deutschlandfunk.de/angeblicher-geheimplan-rubio-spricht-nur-von-liste-von-ideen-fuer-kriegsende-und-notwendigen-zugesta-100.html",
-    "https://www.deutschlandfunk.de/austausch-von-leichen-getoeteter-soldaten-mit-russland-100.html"
+    "https://www.deutschlandfunk.de/austausch-von-leichen-getoeteter-soldaten-mit-russland-100.html",
+    "https://www.deutschlandfunk.de/greenpeace-stichprobe-chemikalien-in-shein-textilien-festgestellt-100.html",
+    "https://www.deutschlandfunk.de/who-bericht-zu-wenig-hilfe-fuer-frauen-in-europa-nach-gewalterfahrungen-100.html",
+    "https://www.deutschlandfunk.de/karrosserie-fertigung-kuenftig-in-polen-ig-metall-kuendigt-widerstand-gegen-stellenabbau-an-102.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-hagel-sich-gegen-merz-stellt-110786968.html"
   ],
   "content_hashes": [
-    "046bf8d51400a274d90ab2c71796af65",
-    "cb12b45df89b1cb31e483b6b3278b8e1",
-    "ed6a022679bc97a370af1ec32afd3ad9",
-    "5891f47446aeba34457ea0b80912e45a",
     "d6391df75af2007d159f37db5ecf981a",
     "afc520169e9ba613354778362ed1e443",
     "b23c99454463fe483b1822c169376caf",
@@ -2001,13 +1997,13 @@
     "d96cd406274294b1d4f0f2d6602a2d23",
     "c7d4dcaa970edaef1f73d4345e257028",
     "e08607b6e0432dd2795db20cbaee1221",
-    "66bc1e2bc909ff52d83c602abdcad204"
+    "66bc1e2bc909ff52d83c602abdcad204",
+    "3904c6fd12cceba21cc1147d48dafb35",
+    "556a3a4cbb6e877226425c3df8b7329c",
+    "bb4457226005044f80479be6e48d9b9e",
+    "965fd6b0e0c86eadde820cee1c44fa23"
   ],
   "titles": [
-    "Vergewaltigung: Frankreich stellt Sex ohne Zustimmung unter Strafe",
-    "Den Haag - Parlamentswahl in den Niederlanden: Prognose sieht linksliberale Demokraten 66 knapp vorne - Partei von Rechtspopulist Wilders mit deutlichen Verlusten",
-    "Rosneft Deutschland: Warum die US-Sanktionen nicht die Raffinerie in Schwedt treffen",
-    "Vorgezogene Abstimmung - Sozialliberale D66 knapp stärkste Kraft bei Parlamentswahl in den Niederlanden",
     "Antrittsbesuch in der Türkei - Merz trifft heute Präsident Erdogan",
     "Nahost - Außenminister Wadephul reist in den Libanon",
     "Südkorea - US-Präsident Trump trifft Chinas Staatschef Xi",
@@ -3003,13 +2999,13 @@
     "Diskussion über Interessenkonflikte - Kulturstaatsminister Weimer überträgt seine Anteile an Weimer Media Group auf Treuhänder",
     "Datenschutzverstoß - Meta soll in Spanien 479 Millionen Euro Strafe zahlen",
     "Ukraine-Krieg - Angeblicher Geheimplan: Rubio spricht nur von \"Liste von Ideen\" für Kriegsende - und notwendigen Zugeständnissen",
-    "Ukraine-Krieg - Austausch von Leichen getöteter Soldaten mit Russland"
+    "Ukraine-Krieg - Austausch von Leichen getöteter Soldaten mit Russland",
+    "Fast Fashion - Greenpeace-Stichprobe: Chemikalien in Shein-Textilien festgestellt",
+    "Weltgesundheitsorganisation - WHO-Bericht: Zu wenig Hilfe für Frauen in Europa nach Gewalterfahrungen",
+    "Lkw-Hersteller MAN - Karrosserie-Fertigung künftig in Polen: IG Metall kündigt Widerstand gegen Stellenabbau an",
+    "CDU-Mann Manuel Hagel: Für den Sieg auf Distanz zu Merz"
   ],
   "hashes": [
-    "f158706cd3e75f9711b557b5fa724809",
-    "23688fc52ff1e39d144bcd1601b1bbac",
-    "db73395afe3a20a34caffef84e8f475e",
-    "a84a4a45b4a577fc4c51500e4c8610be",
     "588c7ec874bf310f614f6afd5dedb050",
     "efd5077088a8c3242d46ece99ecc4b0b",
     "2463c925de68264d2e7bf0166ff48221",
@@ -4005,6 +4001,10 @@
     "e190a9117d53ac9caa7429e32a3aeafc",
     "88e01b1126fd72189883cec5d2afe8f3",
     "fb4b269892a772fd8423e94c22f25159",
-    "d91f04f0501cd4ecb444297957fef5bc"
+    "d91f04f0501cd4ecb444297957fef5bc",
+    "e0ee2f5051b24b5a31ecf899135e23d3",
+    "e97856ff367c178f647f20811dda6c35",
+    "39cef0e47a8d5b6438cccb3f4fa7fe1d",
+    "5b2b7aa591eb9d3df8435ea18f9bbc3e"
   ]
 }
