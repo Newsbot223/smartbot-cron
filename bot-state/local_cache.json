@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-regierung-will-atomwaffentests-wieder-aufnehmen-100.html",
-    "https://www.deutschlandfunk.de/rechte-aktivistin-naomi-seibt-beantragt-asyl-in-den-usa-100.html",
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-will-buerosoftware-von-microsoft-durch-deutsches-produkt-ersetzen-102.html",
     "https://www.deutschlandfunk.de/frankreich-macht-ausdrueckliche-zustimmung-zu-sex-zum-gesetzlichen-massstab-100.html",
     "https://www.deutschlandfunk.de/vw-mit-milliardenverlust-im-dritten-quartal-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aidshilfe-fordert-mehr-vorsorge-und-drogenhilfe-102.html",
     "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-zugunglueck-112.html",
     "https://www.faz.net/aktuell/politik/inland/brandenburger-regierungskrise-die-cdu-als-woidkes-politischer-lebensretter-110787720.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-ukraine-muss-gestaerkt-und-russland-geschwaecht-werden-100.html",
+    "https://www.deutschlandfunk.de/guterres-verlangt-zum-abschluss-der-klimakonferenz-mutige-entscheidungen-100.html"
   ],
   "content_hashes": [
-    "f150b98bde7ffb71fe6035b02477d16a",
-    "731ca5bb4c8dac593efdaf960e4bd701",
     "52357e2d79d85467c15c495fa46f80bd",
     "b5675cf2a06012316acb365b15b09a2c",
     "5b1f59260146570f3d12fb1ac36d2da9",
@@ -2001,11 +1999,11 @@
     "9de166ed2539e75b9aafc34ad6d0ffe1",
     "6b20d9578329e950eaf84e7316f77a28",
     "82e4b72eb3b0fbeda72463075f021bef",
-    "fa8d5cd8f522cc15b37ea999189b94d0"
+    "fa8d5cd8f522cc15b37ea999189b94d0",
+    "82c32cd91f3f8063995bdf28f61f98e6",
+    "5ac63b06537f18b66e6d9ab651a1900a"
   ],
   "titles": [
-    "Erstmals seit 1992 - US-Regierung will Atomwaffentests wieder aufnehmen",
-    "Soziale Medien - Rechte Aktivistin Naomi Seibt beantragt Asyl in den USA",
     "Bericht - Internationaler Strafgerichtshof will Bürosoftware von Microsoft durch deutsches Produkt ersetzen",
     "Strafrecht - Frankreich macht ausdrückliche Zustimmung zu Sex zum gesetzlichen Maßstab",
     "Porsche-Debakel - VW mit Milliardenverlust im dritten Quartal",
@@ -3003,11 +3001,11 @@
     "Anstieg der HIV-Infektionen - Aidshilfe fordert mehr Vorsorge und Drogenhilfe",
     "Tschechien - Zahlreiche Verletzte bei Zugunglück",
     "Krise in Brandenburg: Die CDU als Woidkes Retter",
-    "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf"
+    "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf",
+    "Krieg in der Ukraine - EU-Außenbeauftragte Kallas: Ukraine muss gestärkt und Russland geschwächt werden",
+    "COP30 in Belém - Guterres verlangt zum Abschluss der Klimakonferenz mutige Entscheidungen"
   ],
   "hashes": [
-    "a55afc15b4449004613d9c38c379090f",
-    "6fc4ba781694cbbb7dd8d8274b9dcd4b",
     "5014a0036d33f8b053dad46b9262ce51",
     "f9dd1837c0509988d10ab8f355acdb7c",
     "8ffa41d366f901f8fdd3b74962dd7d83",
@@ -4005,6 +4003,8 @@
     "389671bb1b261cbc221c0094ac29a283",
     "043287ea9f969ff8bdd2649274fd3f3c",
     "9693f184d20a667eb623eeedae24d97d",
-    "3d464e4637320ee825a2ec90e13282c3"
+    "3d464e4637320ee825a2ec90e13282c3",
+    "48d96ca92eb7a27846ed4dead072c4d2",
+    "7fdeac13e42faa8ce7028b52e607506b"
   ]
 }
