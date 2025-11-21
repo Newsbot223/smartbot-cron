@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mordprozess-nach-todesfahrt-von-mannheim-100.html",
-    "https://www.faz.net/aktuell/politik/inland/prozess-gegen-maja-t-es-gibt-keine-gute-politische-gewalt-110733367.html",
-    "https://www.deutschlandfunk.de/pharmakonzern-bayer-zu-schadenersatz-verurteilt-108.html",
     "https://www.deutschlandfunk.de/neuerliche-naechtliche-drohnenangriffe-100.html",
     "https://www.deutschlandfunk.de/erste-hilfsmassnahmen-fuer-die-von-hurrikan-melissa-betroffenen-gebiete-sind-angelaufen-100.html",
     "https://www.deutschlandfunk.de/lettland-beschliesst-austritt-aus-istanbul-konvention-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/interview-klingbeil-lars-bundesfinanzminister-spd-vorsitzender-100.html",
     "https://www.deutschlandfunk.de/us-entwurf-fuer-kriegsende-selenskyj-erwartet-steigenden-druck-auf-sein-land-ukraine-verliere-wuerde-100.html",
     "https://www.deutschlandfunk.de/israelische-regierung-beraet-ueber-siedlergewalt-bundesentwicklungsministerin-alabali-radovan-forder-100.html",
-    "https://www.deutschlandfunk.de/uno-hunderttausende-menschen-im-gazastreifen-ohne-ausreichend-essen-100.html"
+    "https://www.deutschlandfunk.de/uno-hunderttausende-menschen-im-gazastreifen-ohne-ausreichend-essen-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-ukraine-verliert-wuerde-oder-wichtigen-partner-trump-setzt-frist-bis-donnerstag-100.html",
+    "https://www.deutschlandfunk.de/arabischer-staatskonzern-adnoc-kann-chemiefirma-covestro-uebernehmen-100.html",
+    "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss"
   ],
   "content_hashes": [
-    "4f3ad8c65edbd09b89edaca3be615d79",
-    "3d23e5c0f2deaf6f0b3694a9e12ccc49",
-    "0dd3c832a50b4f138fbb6c2729c3381d",
     "507acd1ad00e8eec1a2b2326db6dd09e",
     "e71a0f965e5f8d3103baf5aed8c009dd",
     "185de19244015a2effe9aea15180a255",
@@ -2001,12 +1998,12 @@
     "0882b5bcf2c90433c4c431b4f51151c5",
     "cd5901aaeb120405655c1158fe5d311a",
     "0f0dd4a0ce6f3b0d6d9e6285606e88f6",
-    "ac92429fcafac8102ee81d4414776d5c"
+    "ac92429fcafac8102ee81d4414776d5c",
+    "94d03b10b8f6c917ce61559c2952c0f0",
+    "70b0c3aef395b324c7b646480697431a",
+    "a7dc3a2666305cc5d6cbe4118e606481"
   ],
   "titles": [
-    "Kriminalität - Mordprozess nach Todesfahrt von Mannheim",
-    "Prozess gegen Maja T.: Es gibt keine gute politische Gewalt",
-    "Chemikalien an US-Schule - Pharmakonzern Bayer zu Schadenersatz verurteilt",
     "Krieg in der Ukraine - Neuerliche nächtliche Drohnenangriffe",
     "Karibik - Erste Hilfsmaßnahmen für die von Hurrikan \"Melissa\" betroffenen Gebiete sind angelaufen",
     "Schutz von Frauen - Lettland beschließt Austritt aus Istanbul-Konvention",
@@ -3003,12 +3000,12 @@
     "Finanzminister Klingbeil - Der Staat sollte \"eine vernünftige Rente im Alter garantieren\"",
     "Ukraine-Krieg - US-Entwurf für Kriegsende: Selenskyj erwartet steigenden Druck auf sein Land - Ukraine verliere Würde oder wichtigen Partner",
     "Nahost - Israelische Regierung berät über Siedlergewalt - Bundesentwicklungsministerin Alabali Radovan fordert entschlossenes Vorgehen",
-    "Lage in Nahost - UNO: Hunderttausende Menschen im Gazastreifen ohne ausreichend Essen"
+    "Lage in Nahost - UNO: Hunderttausende Menschen im Gazastreifen ohne ausreichend Essen",
+    "US-Entwurf für Kriegsende - Selenskyj: Ukraine verliert Würde oder wichtigen Partner - Trump setzt Frist bis Donnerstag",
+    "Zustimmung der Bundesregierung - Arabischer Staatskonzern Adnoc kann Chemiefirma Covestro übernehmen",
+    "Alexander Dobrindt: Bundesinnenminister soll Innenausschuss Auskunft in Sondersitzung zum Schicksal von Afghanen geben"
   ],
   "hashes": [
-    "0b5f41d779c5fa1afe6701c253994a1b",
-    "fa3a005e3fc1180ac4925860e160552b",
-    "17217e87ad10c22d16e0c16e5cbd09d3",
     "77f92915f2beda4774567ffc9da27bba",
     "087db7f16db9115b4a76105e5278f2d1",
     "fe28d0cba938c803fbc8fd14c6bceb23",
@@ -4005,6 +4002,9 @@
     "1758f8c96213237687d5b24d31f6bda1",
     "04e406d4833a21bed49abd03dc0e297b",
     "d272d722197527273ba1126ee2ea24f0",
-    "7d2b40edc549b256216362ae63799776"
+    "7d2b40edc549b256216362ae63799776",
+    "ea4c0498ea88217320cf8a877c4de148",
+    "bd36920ec5848ccf55b72dd5e9f1f328",
+    "5235566c8e0936b272bd594bcd8b44da"
   ]
 }
