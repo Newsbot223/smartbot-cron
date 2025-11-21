@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sozialliberale-d66-erhebt-nach-parlamentswahl-anspruch-auf-regierungsbildung-100.html",
-    "https://www.faz.net/aktuell/politik/inland/staatsanwaltschaft-will-gegen-cdu-politikerin-bosbach-ermitteln-110757306.html",
     "https://www.faz.net/aktuell/politik/inland/studie-zu-kindesmissbrauch-was-die-kirche-gelernt-hat-110756993.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-zwei-weitere-leichen-von-geiseln-an-israel-102.html",
     "https://www.deutschlandfunk.de/stiko-empfiehlt-impfung-gegen-meningokokken-fuer-kinder-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/synodaler-rat-was-ist-von-dem-reformprojekt-uebrig-geblieben-110787652.html",
     "https://www.deutschlandfunk.de/neue-details-bekanntgeworden-ukraine-muesste-regionen-donezk-und-luhansk-an-russland-abtreten-102.html",
     "https://www.deutschlandfunk.de/kritik-von-verbaenden-und-unternehmer-104.html",
-    "https://www.deutschlandfunk.de/mehrere-tote-bei-erdbeben-144.html"
+    "https://www.deutschlandfunk.de/mehrere-tote-bei-erdbeben-144.html",
+    "https://www.deutschlandfunk.de/durchsuchung-in-nordrhein-westfalen-verstoss-gegen-sanktionen-100.html",
+    "https://www.deutschlandfunk.de/handelskommissar-eu-plant-direkte-beteiligungen-an-rohstoffprojekten-104.html"
   ],
   "content_hashes": [
-    "db825c8e7941913a43e9ca065499dc48",
-    "a5ef7af0f31bed0df2497eed54a79610",
     "c7a1eae79f4c26d60375eda1bdc257a3",
     "08c9f857599a240b2916d15e74083d5b",
     "419e388f08b5ae078548f116bcb6124f",
@@ -2001,11 +1999,11 @@
     "d5f7f327cfedf1d5e964e284c4a88448",
     "69a18a6a29e5b1ef325c8a743240c7ba",
     "07cccf6497ccf0f1f62eb32e4be1da15",
-    "9151661d9aab1acd179f4c2b2360c5a4"
+    "9151661d9aab1acd179f4c2b2360c5a4",
+    "c1861af2d5848e7ecb9185cd17c2e5f2",
+    "96476692ba10ead50588b0ae5673a124"
   ],
   "titles": [
-    "Niederlande - Sozialliberale D66 erhebt nach Parlamentswahl Anspruch auf Regierungsbildung",
-    "Betrugsvorwürfe: Anfangsverdacht gegen CDU-Politikerin Bosbach",
     "Studie zu Missbrauch: Was die Kirche gelernt hat",
     "Nahost - Hamas übergibt zwei weitere Leichen von Geiseln an Israel",
     "Auslöser von Hirnhautentzündung - Stiko empfiehlt Impfung gegen Meningokokken für Kinder",
@@ -3003,11 +3001,11 @@
     "Streit über „Synodalen Rat“: Nach fünf Jahren ein weichgespültes Statut",
     "US-Plan-Entwurf - Neue Details bekanntgeworden: Ukraine müsste Regionen Donezk und Luhansk an Russland abtreten",
     "Wirtschaftspolitik der Regierung - Kritik von Verbänden und Unternehmer",
-    "Bangladesch - Mehrere Tote bei Erdbeben"
+    "Bangladesch - Mehrere Tote bei Erdbeben",
+    "Russlandgeschäfte - Durchsuchung in Nordrhein-Westfalen - Verstoß gegen Sanktionen",
+    "Australien - Handelskommissar: EU plant direkte Beteiligungen an Rohstoffprojekten"
   ],
   "hashes": [
-    "3b0b5b454bab16bac086b86724b01541",
-    "6d1ccb7deca26c5eebb318412a12ff38",
     "fff7929ef607e5db0b558af410c942b8",
     "0a26b9952ab834baf97422bd0f9f8ab0",
     "7f235c92fd499633bdcb83ffdea5825e",
@@ -4005,6 +4003,8 @@
     "9837b4b41e288d4670e168aa81cd5a4b",
     "152648593153310cac1cae37a85ea659",
     "a79f8e4e41e55cb6ed1fe527b2918930",
-    "7abebc80083ebae90227d641b79317ba"
+    "7abebc80083ebae90227d641b79317ba",
+    "d16233c58720f5678d39e279399c50bb",
+    "65535f7c02946068a9ca320ed0797f90"
   ]
 }
