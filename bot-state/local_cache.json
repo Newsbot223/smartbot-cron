@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/ein-gesetz-soll-die-landeszentrale-fuer-politische-bildung-in-nrw-unabhaengig-machen-110751663.html",
-    "https://www.deutschlandfunk.de/chemikalien-an-us-schule-pharmakonzern-bayer-zu-schadenersatz-verurteilt-100.html",
     "https://www.deutschlandfunk.de/die-pille-verliert-an-bedeutung-104.html",
     "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-in-deutschland-gelandet-108.html",
     "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/japans-kabinett-beschliesst-groesstes-konjunkturprogramm-seit-jahren-100.html",
     "https://www.deutschlandfunk.de/eu-leitet-vertragsverletzungsverfahren-gegen-die-slowakei-ein-102.html",
     "https://www.deutschlandfunk.de/bundesrat-fordert-mehr-schutz-vor-gewalt-fuer-aerzte-und-pfleger-neue-regeln-zur-rueckgabe-von-elekt-100.html",
-    "https://www.deutschlandfunk.de/katholische-geistliche-verklagen-trump-regierung-100.html"
+    "https://www.deutschlandfunk.de/katholische-geistliche-verklagen-trump-regierung-100.html",
+    "https://www.deutschlandfunk.de/merz-fuehrt-kurzfristig-gespraeche-mit-selenskyj-macron-und-starmer-beratungen-ueber-us-plan-fuer-kr-104.html",
+    "https://www.deutschlandfunk.de/e-autos-werden-fuer-selbe-strecken-genutzt-wie-verbrenner-zu-fuss-gehen-gewinnt-an-bedeutung-100.html"
   ],
   "content_hashes": [
-    "00d088247caaa63610c31cded431a086",
-    "5fbdc0e3090d30d5ad9edb6632b1ac98",
     "01d039a9ea7586212eb66061d9196b26",
     "5383596d0e52b9f3c9a6815e62dce2b3",
     "7f6188e4324ba10afa07f8a6f9bcbdc9",
@@ -2001,11 +1999,11 @@
     "84b7ff8f13b39848d8b7f33735113221",
     "3b88260dad129786b91d316f29f158cc",
     "bda9a82d017e3116510615eec1bf4d50",
-    "89752a863915f1d2959526ac58ff5dda"
+    "89752a863915f1d2959526ac58ff5dda",
+    "a1333f0db5e0b09dc8af7a486d2e5dbf",
+    "c96a0563d98871a5bd3fa4f968778368"
   ],
   "titles": [
-    "Gesetz in NRW: Wie unabhängig ist politische Bildung?",
-    "USA - Chemikalien an US-Schule: Pharmakonzern Bayer zu Schadenersatz verurteilt",
     "Verhütung - Die Pille verliert an Bedeutung",
     "Hannover - Weitere Afghanen mit Aufnahmezusage in Deutschland gelandet",
     "EU verzichtet auf anlasslose Überwachung von Messengern",
@@ -3003,11 +3001,11 @@
     "Wirtschaftspolitik - Japans Kabinett beschließt größtes Konjunkturprogramm seit Jahren",
     "Wegen Verfassungsänderung - EU leitet Vertragsverletzungsverfahren gegen die Slowakei ein",
     "Berlin - Bundesrat fordert mehr Schutz vor Gewalt für Ärzte und Pfleger - Neue Regeln zur Rückgabe von Elektroschrott",
-    "Seelsorge für Migranten - Katholische Geistliche verklagen Trump-Regierung"
+    "Seelsorge für Migranten - Katholische Geistliche verklagen Trump-Regierung",
+    "Ukraine-Krieg - Merz führt kurzfristig Gespräche mit Selenskyj, Macron und Starmer - Beratungen über US-Plan für Kriegsende",
+    "Mobilitäts-Studie - E-Autos werden für selbe Strecken genutzt wie Verbrenner - Zu-Fuß-Gehen gewinnt an Bedeutung"
   ],
   "hashes": [
-    "4441d89a93d879a0f53a04cb8ff4326b",
-    "da8e3c6ac01f4de936c9f4566f9818b0",
     "1118d76316fc8c561e4a1ca835f6c9f2",
     "9c1741d966bd95e3cb2c400952aedfb7",
     "e7e22cf0e8eae3dd926d5a6948280412",
@@ -4005,6 +4003,8 @@
     "28afe830e59f4281186f1108787afa2a",
     "ddde6c93cd78708174e7e6d4269a0019",
     "b3e16da59fb4c145bb09ab27cb8920cd",
-    "6efb9275d947325ebc7969e126eee3f2"
+    "6efb9275d947325ebc7969e126eee3f2",
+    "ecea06d17c2fcd35ebd837df623bdaa0",
+    "c930fb4528f7cbf201f656aedc3909f8"
   ]
 }
