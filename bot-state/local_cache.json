@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-identifiziert-zwei-weitere-von-der-hamas-uebergebene-geisel-leichen-100.html",
-    "https://www.deutschlandfunk.de/chinas-staatschef-xi-warnt-vor-gestoerten-lieferketten-102.html",
     "https://www.deutschlandfunk.de/mordprozess-nach-todesfahrt-von-mannheim-100.html",
     "https://www.faz.net/aktuell/politik/inland/prozess-gegen-maja-t-es-gibt-keine-gute-politische-gewalt-110733367.html",
     "https://www.deutschlandfunk.de/pharmakonzern-bayer-zu-schadenersatz-verurteilt-108.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/monopolkommission-sieht-anstieg-der-marktmacht-von-einzelhaendlern-und-herstellern-100.html",
     "https://www.deutschlandfunk.de/israelische-sicherheitskraefte-erschiessen-zwei-junge-palaestinenser-bei-zusammenstoessen-in-ost-jer-100.html",
     "https://www.deutschlandfunk.de/interview-klingbeil-lars-bundesfinanzminister-spd-vorsitzender-100.html",
-    "https://www.deutschlandfunk.de/us-entwurf-fuer-kriegsende-selenskyj-erwartet-steigenden-druck-auf-sein-land-ukraine-verliere-wuerde-100.html"
+    "https://www.deutschlandfunk.de/us-entwurf-fuer-kriegsende-selenskyj-erwartet-steigenden-druck-auf-sein-land-ukraine-verliere-wuerde-100.html",
+    "https://www.deutschlandfunk.de/israelische-regierung-beraet-ueber-siedlergewalt-bundesentwicklungsministerin-alabali-radovan-forder-100.html",
+    "https://www.deutschlandfunk.de/uno-hunderttausende-menschen-im-gazastreifen-ohne-ausreichend-essen-100.html"
   ],
   "content_hashes": [
-    "93f7220e01bca00fbc5313b1d6d80557",
-    "b143e27271839e1952a1f951eb588122",
     "4f3ad8c65edbd09b89edaca3be615d79",
     "3d23e5c0f2deaf6f0b3694a9e12ccc49",
     "0dd3c832a50b4f138fbb6c2729c3381d",
@@ -2001,11 +1999,11 @@
     "5aa6b730c5c29c50d0880553ad0812fd",
     "5321e27fb6bccec0fea6fd46e76a4055",
     "0882b5bcf2c90433c4c431b4f51151c5",
-    "cd5901aaeb120405655c1158fe5d311a"
+    "cd5901aaeb120405655c1158fe5d311a",
+    "0f0dd4a0ce6f3b0d6d9e6285606e88f6",
+    "ac92429fcafac8102ee81d4414776d5c"
   ],
   "titles": [
-    "Nahost - Israel identifiziert zwei weitere von der Hamas übergebene Geisel-Leichen",
-    "APEC-Gipfel in Südkorea - Chinas Staatschef Xi warnt vor gestörten Lieferketten",
     "Kriminalität - Mordprozess nach Todesfahrt von Mannheim",
     "Prozess gegen Maja T.: Es gibt keine gute politische Gewalt",
     "Chemikalien an US-Schule - Pharmakonzern Bayer zu Schadenersatz verurteilt",
@@ -3003,11 +3001,11 @@
     "Lebensmittel - Monopolkommission sieht Anstieg der Marktmacht von Einzelhändlern und Herstellern",
     "Nahost - Israelische Sicherheitskräfte erschießen zwei junge Palästinenser bei Zusammenstößen in Ost-Jerusalem",
     "Finanzminister Klingbeil - Der Staat sollte \"eine vernünftige Rente im Alter garantieren\"",
-    "Ukraine-Krieg - US-Entwurf für Kriegsende: Selenskyj erwartet steigenden Druck auf sein Land - Ukraine verliere Würde oder wichtigen Partner"
+    "Ukraine-Krieg - US-Entwurf für Kriegsende: Selenskyj erwartet steigenden Druck auf sein Land - Ukraine verliere Würde oder wichtigen Partner",
+    "Nahost - Israelische Regierung berät über Siedlergewalt - Bundesentwicklungsministerin Alabali Radovan fordert entschlossenes Vorgehen",
+    "Lage in Nahost - UNO: Hunderttausende Menschen im Gazastreifen ohne ausreichend Essen"
   ],
   "hashes": [
-    "e51f16ec97fc0020ba92b773c63adcd8",
-    "8c79d39c084ffa09f56d4c24dde684fa",
     "0b5f41d779c5fa1afe6701c253994a1b",
     "fa3a005e3fc1180ac4925860e160552b",
     "17217e87ad10c22d16e0c16e5cbd09d3",
@@ -4005,6 +4003,8 @@
     "64885bff430d46cb284399256e763d3e",
     "087e44b66c9208c3c2783bf47b23fcf7",
     "1758f8c96213237687d5b24d31f6bda1",
-    "04e406d4833a21bed49abd03dc0e297b"
+    "04e406d4833a21bed49abd03dc0e297b",
+    "d272d722197527273ba1126ee2ea24f0",
+    "7d2b40edc549b256216362ae63799776"
   ]
 }
