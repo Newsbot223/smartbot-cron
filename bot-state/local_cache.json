@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-pille-verliert-an-bedeutung-104.html",
-    "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-in-deutschland-gelandet-108.html",
-    "https://www.spiegel.de/politik/eu-verzichtet-auf-anlasslose-ueberwachung-von-messengern-a-78f9a6ea-7007-4a9e-9d37-7e05589f6df3#ref=rss",
     "https://www.deutschlandfunk.de/aufsichtsrat-billigt-neuen-vorstand-verkehrsminister-schnieder-fordert-schnell-spuerbare-verbesserun-100.html",
     "https://www.deutschlandfunk.de/uno-organisationen-warnen-vor-hungerkatastrophe-104.html",
     "https://www.deutschlandfunk.de/israel-identifiziert-zwei-weitere-von-der-hamas-uebergebene-geisel-leichen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesrat-fordert-mehr-schutz-vor-gewalt-fuer-aerzte-und-pfleger-neue-regeln-zur-rueckgabe-von-elekt-100.html",
     "https://www.deutschlandfunk.de/katholische-geistliche-verklagen-trump-regierung-100.html",
     "https://www.deutschlandfunk.de/merz-fuehrt-kurzfristig-gespraeche-mit-selenskyj-macron-und-starmer-beratungen-ueber-us-plan-fuer-kr-104.html",
-    "https://www.deutschlandfunk.de/e-autos-werden-fuer-selbe-strecken-genutzt-wie-verbrenner-zu-fuss-gehen-gewinnt-an-bedeutung-100.html"
+    "https://www.deutschlandfunk.de/e-autos-werden-fuer-selbe-strecken-genutzt-wie-verbrenner-zu-fuss-gehen-gewinnt-an-bedeutung-100.html",
+    "https://www.deutschlandfunk.de/bundesrat-stoppt-sparpaket-fuer-stabile-krankenkassenbeitraege-vorerst-100.html",
+    "https://www.deutschlandfunk.de/monopolkommission-sieht-anstieg-der-marktmacht-von-einzelhaendlern-und-herstellern-100.html",
+    "https://www.deutschlandfunk.de/israelische-sicherheitskraefte-erschiessen-zwei-junge-palaestinenser-bei-zusammenstoessen-in-ost-jer-100.html"
   ],
   "content_hashes": [
-    "01d039a9ea7586212eb66061d9196b26",
-    "5383596d0e52b9f3c9a6815e62dce2b3",
-    "7f6188e4324ba10afa07f8a6f9bcbdc9",
     "8b690f0bae17ffdb6ada0c0fa70a0ab3",
     "51393bfcfce6bb15b352c412e6a2a47e",
     "93f7220e01bca00fbc5313b1d6d80557",
@@ -2001,12 +1998,12 @@
     "bda9a82d017e3116510615eec1bf4d50",
     "89752a863915f1d2959526ac58ff5dda",
     "a1333f0db5e0b09dc8af7a486d2e5dbf",
-    "c96a0563d98871a5bd3fa4f968778368"
+    "c96a0563d98871a5bd3fa4f968778368",
+    "d94dc92ffc406810a0d136ab7cec4481",
+    "5aa6b730c5c29c50d0880553ad0812fd",
+    "5321e27fb6bccec0fea6fd46e76a4055"
   ],
   "titles": [
-    "Verhütung - Die Pille verliert an Bedeutung",
-    "Hannover - Weitere Afghanen mit Aufnahmezusage in Deutschland gelandet",
-    "EU verzichtet auf anlasslose Überwachung von Messengern",
     "Deutsche Bahn - Aufsichtsrat billigt neuen Vorstand - Verkehrsminister Schnieder fordert \"schnell spürbare Verbesserungen\"",
     "Demokratische Republik Kongo - UNO-Organisationen warnen vor Hungerkatastrophe",
     "Nahost - Israel identifiziert zwei weitere von der Hamas übergebene Geisel-Leichen",
@@ -3003,12 +3000,12 @@
     "Berlin - Bundesrat fordert mehr Schutz vor Gewalt für Ärzte und Pfleger - Neue Regeln zur Rückgabe von Elektroschrott",
     "Seelsorge für Migranten - Katholische Geistliche verklagen Trump-Regierung",
     "Ukraine-Krieg - Merz führt kurzfristig Gespräche mit Selenskyj, Macron und Starmer - Beratungen über US-Plan für Kriegsende",
-    "Mobilitäts-Studie - E-Autos werden für selbe Strecken genutzt wie Verbrenner - Zu-Fuß-Gehen gewinnt an Bedeutung"
+    "Mobilitäts-Studie - E-Autos werden für selbe Strecken genutzt wie Verbrenner - Zu-Fuß-Gehen gewinnt an Bedeutung",
+    "Vermittlungsausschuss angerufen - Bundesrat stoppt Sparpaket für stabile Krankenkassenbeiträge vorerst",
+    "Lebensmittel - Monopolkommission sieht Anstieg der Marktmacht von Einzelhändlern und Herstellern",
+    "Nahost - Israelische Sicherheitskräfte erschießen zwei junge Palästinenser bei Zusammenstößen in Ost-Jerusalem"
   ],
   "hashes": [
-    "1118d76316fc8c561e4a1ca835f6c9f2",
-    "9c1741d966bd95e3cb2c400952aedfb7",
-    "e7e22cf0e8eae3dd926d5a6948280412",
     "86ca83e1748f6c787fdfcf027b35bf83",
     "c10999b188494267b304884eeab3abf3",
     "e51f16ec97fc0020ba92b773c63adcd8",
@@ -4005,6 +4002,9 @@
     "b3e16da59fb4c145bb09ab27cb8920cd",
     "6efb9275d947325ebc7969e126eee3f2",
     "ecea06d17c2fcd35ebd837df623bdaa0",
-    "c930fb4528f7cbf201f656aedc3909f8"
+    "c930fb4528f7cbf201f656aedc3909f8",
+    "330d087e979a534aeb9e08e93c528c49",
+    "64885bff430d46cb284399256e763d3e",
+    "087e44b66c9208c3c2783bf47b23fcf7"
   ]
 }
