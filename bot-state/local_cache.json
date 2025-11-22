@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/queer-beauftragte-koch-sieht-selbstbestimmungsgesetz-als-erfolg-100.html",
-    "https://www.deutschlandfunk.de/china-deutet-einlenken-im-streit-um-nexperia-an-102.html",
     "https://www.deutschlandfunk.de/kanadas-premierminister-bittet-trump-um-entschuldigung-fuer-werbeclip-gegen-us-zoelle-100.html",
     "https://www.deutschlandfunk.de/vizepraesident-des-zentralrats-der-juden-protestiert-gegen-genozid-aussage-in-evangelischer-predigt-102.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-den-menschen-in-der-region-hoffnung-geben-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zverev-gewinnt-struff-verliert-100.html",
     "https://www.deutschlandfunk.de/europaeische-staaten-fordern-aenderungen-am-us-friedensplan-trump-relativiert-kein-endgueltiges-ange-100.html",
     "https://www.deutschlandfunk.de/selenskyj-ordnet-ueberpruefung-von-verteidigungsindustrie-an-102.html",
-    "https://www.faz.net/aktuell/politik/inland/weimers-anteil-110788840.html"
+    "https://www.faz.net/aktuell/politik/inland/weimers-anteil-110788840.html",
+    "https://www.deutschlandfunk.de/beratungen-der-industrie-und-schwellenlaender-ueber-seltene-erden-und-kuenstliche-intelligenz-102.html",
+    "https://www.deutschlandfunk.de/bischoefe-und-laien-verstaendigen-sich-auf-nationales-kirchengremium-106.html"
   ],
   "content_hashes": [
-    "8e238c1e3807463b17b6c09e174647e9",
-    "4e3a2ee7f338d48f81819c13a7eaa79c",
     "6a17d776d9e1cb65284458fe93fa955d",
     "34faef56e3d0ebb31c90354187a4b53a",
     "158410afbf6c8e9f572b423644980a6c",
@@ -2001,11 +1999,11 @@
     "eeee23b72c35e158e0f0019c2502977a",
     "71c49cc6a35a937d229c6694a082a022",
     "5f777b588af1125616bcb6d3c43d3c9c",
-    "0a9ec179a870783dbe2a08080cfc9668"
+    "0a9ec179a870783dbe2a08080cfc9668",
+    "a48ce0fe9f691ee566548ba25edcff36",
+    "3656fb6772fcac420fb6a8dca6ce4edd"
   ],
   "titles": [
-    "Ein Jahr in Kraft - Queer-Beauftragte Koch sieht Selbstbestimmungsgesetz als Erfolg",
-    "Chipkrise - China deutet Einlenken im Streit um Nexperia an",
     "Handelskonflikt - Kanadas Premierminister bittet Trump um Entschuldigung für Werbeclip gegen US-Zölle",
     "Eklat in Jerusalem - Vizepräsident des Zentralrats der Juden protestiert gegen Genozid-Aussage in evangelischer Predigt",
     "Nahostkonflikt - Bundesaußenminister Wadephul: Den Menschen in der Region Hoffnung geben",
@@ -3003,11 +3001,11 @@
     "Davis-Cup - Zverev gewinnt - Struff verliert",
     "G20-Gipfel in Johannesburg - Europäische Staaten fordern Änderungen am US-Friedensplan -Trump relativiert: kein \"endgültiges Angebot\"",
     "Korruption in der Ukraine - Selenskyj ordnet Überprüfung von Verteidigungsindustrie an",
-    "Wolfram Weimer: Die AfD-Nähe seiner Kritiker ist sein Glück"
+    "Wolfram Weimer: Die AfD-Nähe seiner Kritiker ist sein Glück",
+    "G20-Gipfel geht zu Ende - Beratungen der Industrie- und Schwellenländer über Seltene Erden und Künstliche Intelligenz",
+    "Katholische Kirche - Bischöfe und Laien verständigen sich auf nationales Kirchengremium"
   ],
   "hashes": [
-    "86d00e69a1f0b399987ec3659195fb3f",
-    "5b895a3efe1bf326d5737d01aa3825fe",
     "85c6f7834bcae56a144ba5006d7fbb1b",
     "87a4252d926f32a1f31c24ab628be94b",
     "c9c160dfd80e70a77790802929ba28c1",
@@ -4005,6 +4003,8 @@
     "b0e8391c08bc2fdcb80ec24817a04dee",
     "a05ba8cf8518fea9b2a4c38e5e602eb1",
     "0ea1d9e56c8b7745ab6cb3f5b830153b",
-    "9e30046037f33ef4a5766d79abc199c6"
+    "9e30046037f33ef4a5766d79abc199c6",
+    "cf926480fab58f17360641aa41d7b3d5",
+    "18b321106cd3138a2c4d9fa0369d3d40"
   ]
 }
