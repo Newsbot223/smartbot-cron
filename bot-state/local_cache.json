@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-reist-nach-aegypten-ghana-und-angola-102.html",
-    "https://www.deutschlandfunk.de/hauptstadtflughafen-voruebergehend-gesperrt-104.html",
     "https://www.deutschlandfunk.de/drei-weitere-leichen-aus-dem-gazastreifen-uebergeben-102.html",
     "https://www.deutschlandfunk.de/russland-berichtet-ueber-ukrainische-drohnenangriffe-104.html",
     "https://www.deutschlandfunk.de/hebammen-klagen-ueber-schlechtere-bezahlung-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/europaeische-staaten-fordern-aenderungen-am-us-friedensplan-100.html",
     "https://www.deutschlandfunk.de/guenther-als-cdu-landeschef-wiedergewaehlt-102.html",
     "https://www.deutschlandfunk.de/weltklimakonferenz-steuert-auf-abschluss-mit-gemeinsamer-erklaerung-zu-102.html",
-    "https://www.deutschlandfunk.de/csu-dringt-auf-mehr-abschiebungen-102.html"
+    "https://www.deutschlandfunk.de/csu-dringt-auf-mehr-abschiebungen-102.html",
+    "https://www.deutschlandfunk.de/mehr-als-20-tote-bei-israelischen-luftangriffen-auf-gaza-100.html",
+    "https://www.deutschlandfunk.de/zverev-gewinnt-struff-verliert-100.html"
   ],
   "content_hashes": [
-    "1d21fe6485205c53213ba69a2893e81e",
-    "2d22a955175bc5bf979e77c441b8697a",
     "9c08c393eeb9c6d9a10ba797f7042dbf",
     "bf2155a5058acde8251beffc1131c668",
     "1133f774ef51d0371bdd4830bf0fc227",
@@ -2001,11 +1999,11 @@
     "48ca8bbd2e0482a1fe0c89fceeb88d42",
     "251c00e08721a09e7a9a13975b96d007",
     "47f65699236b9eb3470ef538c06812f6",
-    "4a1f581efc20a99a27e7f8f6d563f4f3"
+    "4a1f581efc20a99a27e7f8f6d563f4f3",
+    "ffb98dfb079dd903b77c48f03a853447",
+    "eeee23b72c35e158e0f0019c2502977a"
   ],
   "titles": [
-    "Afrika - Steinmeier reist nach Ägypten, Ghana und Angola",
-    "Drohnen-Sichtung - Hauptstadtflughafen vorübergehend gesperrt",
     "Nahost - Drei weitere Leichen aus dem Gazastreifen übergeben",
     "Ukraine - Russland berichtet über ukrainische Drohnenangriffe",
     "Gesundheitswesen - Hebammen klagen über schlechtere Bezahlung",
@@ -3003,11 +3001,11 @@
     "G20-Gipfel in Johannesburg - Europäische Staaten fordern Änderungen am US-Friedensplan",
     "Schleswig-Holstein - Günther als CDU-Landeschef wiedergewählt",
     "COP30 - Weltklimakonferenz steuert auf Abschluss mit gemeinsamer Erklärung zu",
-    "Parteiklausur in München - CSU dringt auf mehr Abschiebungen"
+    "Parteiklausur in München - CSU dringt auf mehr Abschiebungen",
+    "Nahost - Mehr als 20 Tote bei israelischen Luftangriffen auf Gaza",
+    "Davis-Cup - Zverev gewinnt - Struff verliert"
   ],
   "hashes": [
-    "f45c392e8b7ad39ebe0fefa84404ca13",
-    "8da90523d7eaf531090c65cc64aa2753",
     "8b77e84ee053952f690a669f1c4ad9d0",
     "b40c701f069ef96a2be752be6364007a",
     "4e59592b59d816f9eecf3cf0828ccf89",
@@ -4005,6 +4003,8 @@
     "25837ff932bbf0e3cb3a32d0e57e06a3",
     "e393c1dcf3a9a25d51fe96b8f37ea9ce",
     "b006a76086aa825aea30edba4a567dbd",
-    "30162516f98383d95e8d6b58778089d4"
+    "30162516f98383d95e8d6b58778089d4",
+    "d0185960c56a4bf963f542a01947a95a",
+    "b0e8391c08bc2fdcb80ec24817a04dee"
   ]
 }
