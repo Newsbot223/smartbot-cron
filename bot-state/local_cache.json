@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wadephul-muss-in-syrien-deutsche-interessen-vertreten-110759650.html",
-    "https://www.deutschlandfunk.de/nexperia-stoppt-ausfuhr-von-vorprodukten-nach-china-100.html",
-    "https://www.faz.net/aktuell/politik/inland/traumatisierte-fluechtlinge-allein-mit-ihren-daemonen-110747822.html",
     "https://www.deutschlandfunk.de/angeklagter-aeussert-sich-bei-prozessauftakt-ueber-anwalt-104.html",
     "https://www.deutschlandfunk.de/spanien-raeumt-erstmals-leid-und-unrecht-durch-eroberer-ein-102.html",
     "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/herdecke-stalzer-uebt-nach-messerangriff-kritik-an-medien-110760218.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bestreiten-des-existenzrechts-israels-darf-nicht-generell-untersagt-werden-106.html",
     "https://www.faz.net/aktuell/politik/inland/anton-hofreiter-warnt-vor-angriffen-von-russland-und-autos-aus-china-110788748.html",
     "https://www.deutschlandfunk.de/g-20-gipfel-in-johannesburg-beginnt-boykott-der-usa-100.html",
-    "https://www.deutschlandfunk.de/neue-massenhafte-entfuehrung-mehr-als-300-schueler-von-bewaffneten-verschleppt-102.html"
+    "https://www.deutschlandfunk.de/neue-massenhafte-entfuehrung-mehr-als-300-schueler-von-bewaffneten-verschleppt-102.html",
+    "https://www.deutschlandfunk.de/zwei-tote-nach-ukrainischen-drohnenangriffen-in-russischer-region-samara-gemeldet-100.html",
+    "https://www.deutschlandfunk.de/neue-massenhafte-entfuehrung-mehr-als-300-schuelerinnen-und-schueler-von-bewaffneten-verschleppt-100.html",
+    "https://www.deutschlandfunk.de/unions-rentenstreit-und-brandmauer-debatte-int-johannes-steup-bw-uni-mchn-100.html"
   ],
   "content_hashes": [
-    "44b35a2f64ac90a0565eb2c978181570",
-    "e739f42f51d1695fc88f982d8c613ca3",
-    "508efd22913a97e96c183627a06664a1",
     "06711a7abd3e78d05ac6d2c1f85b828b",
     "9515d8ca2f1d31cdd8858bbc4bd24daf",
     "c6ef89a45de6f22ffdf2430b2fa21757",
@@ -2001,12 +1998,12 @@
     "802cf71b49ec738e80cf0d5d361f76db",
     "97b9e84473aed696524e056557ff9643",
     "cf4873fd0596fd2b6bcc3c94638f165d",
-    "d42bab26518fea522f3c354aacc5917b"
+    "d42bab26518fea522f3c354aacc5917b",
+    "6def4de3a05ab1c109e0246cfa676186",
+    "9fa26a4c0c4ec825f5eb869fb5dbae09",
+    "c1356759a0380ff577bd71904e4ec774"
   ],
   "titles": [
-    "Betroffenheitspolitik: Der Außenminister muss deutsche Interessen vertreten",
-    "Chipkrise - Nexperia stoppt Ausfuhr von Vorprodukten nach China",
-    "Traumatisierte Flüchtlinge: Allein mit ihren Dämonen",
     "Nach Amokfahrt von Mannheim - Angeklagter äußert sich bei Prozessauftakt über Anwalt",
     "Kolonialgeschichte - Spanien räumt erstmals \"Leid und Unrecht\" durch Eroberer ein",
     "Stalzer kritisiert Merz: „Sich binnen Minuten zu Dingen zu äußern, von denen man so wenig weiß, finde ich extrem schwierig“",
@@ -3003,12 +3000,12 @@
     "Gerichtsbeschluss - Bestreiten des Existenzrechts Israels darf nicht generell untersagt werden",
     "Anton Hofreiter im Gespräch: „Alles, was das Auto sieht, kann auch jemand in China sehen “",
     "Südafrika - G-20-Gipfel in Johannesburg beginnt - Boykott der USA",
-    "Nigeria - Neue massenhafte Entführung: Mehr als 300 Schüler von Bewaffneten verschleppt"
+    "Nigeria - Neue massenhafte Entführung: Mehr als 300 Schüler von Bewaffneten verschleppt",
+    "Ukraine-Krieg - Zwei Tote nach ukrainischen Drohnenangriffen in russischer Region Samara gemeldet",
+    "Nigeria - Neue massenhafte Entführung: Mehr als 300 Schülerinnen und Schüler von Bewaffneten verschleppt",
+    "Friedrich Merz - Der Krisenmodus als Regierungsprogramm"
   ],
   "hashes": [
-    "61977f3263057f1dff9cc43e789b1c97",
-    "2fc695d3df192217c52aedd3486657dc",
-    "b7c48b0ea33b06aef587d00b9bc868e7",
     "e5fc95d4964ea0ef938667dfdd3c290b",
     "00255cb3091ea1b63bb4e0556a0670a6",
     "7cadbe552f0d91bf8554f674d1de8ce8",
@@ -4005,6 +4002,9 @@
     "919da673f0162be8558cdf5c216f2a44",
     "75b1f2b265a080291c70807a7a6db9b7",
     "a2180e116aa84cee2bf04a2a31add192",
-    "52cd467d05648b95b466f5b4e7c4fce3"
+    "52cd467d05648b95b466f5b4e7c4fce3",
+    "91f35b3e50d5bd02d060afcdaeac212e",
+    "4d74de3002d52c7925eda4bcff248e8a",
+    "36a6bcae6ccbc9a0e1e30755c3f65546"
   ]
 }
