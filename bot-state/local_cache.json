@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizei-gibt-entwarnung-nach-knall-in-einkaufszentrum-in-frankfurt-am-main-100.html",
-    "https://www.deutschlandfunk.de/drei-deutsche-bergsteiger-getoetet-100.html",
     "https://www.deutschlandfunk.de/trump-droht-nigeria-mit-us-militaereinsatz-100.html",
     "https://www.deutschlandfunk.de/mehrere-menschen-in-zug-durch-stiche-verletzt-102.html",
     "https://www.deutschlandfunk.de/messerangriff-in-zug-zehn-menschen-zum-teil-lebensbedrohlich-verletzt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/soeder-will-sich-von-der-afd-den-kopf-nicht-wirr-machen-lassen-110789678.html",
     "https://www.deutschlandfunk.de/warnung-vor-fake-shops-rund-um-den-black-friday-100.html",
     "https://www.faz.net/aktuell/politik/inland/assistierter-suizid-freier-sterben-110788881.html",
-    "https://www.faz.net/aktuell/politik/ausland/belem-was-europa-fuer-die-naechste-klimakonferenz-lernen-muss-110789672.html"
+    "https://www.faz.net/aktuell/politik/ausland/belem-was-europa-fuer-die-naechste-klimakonferenz-lernen-muss-110789672.html",
+    "https://www.spiegel.de/politik/deutschland/christian-wulff-ueber-kanzler-friedrich-merz-die-stadtbild-aeusserung-ist-absolut-missglueckt-a-0a880244-0a77-47e7-8a1e-88b9933ad449#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/chefs-der-berliner-spd-treten-zurueck-110790127.html"
   ],
   "content_hashes": [
-    "9902c162181057683b5215730bfc38df",
-    "942e7f4ae09eb2cc55ded397896fbe6f",
     "80839beafa7cd23294e04fa08254e5f8",
     "39ecf61a89530b61b13a8aae5aa62911",
     "6269570a024da28c1c663822f2dfa929",
@@ -2001,11 +1999,11 @@
     "81be582a9de7db7d4177c3bc0fb59509",
     "bdee4d682230a94f8e41ff7f08dc3686",
     "cbe4d3145155ef9fb0d4d70dda286584",
-    "10da8054a5aef9cf2205873f29f6d2ff"
+    "10da8054a5aef9cf2205873f29f6d2ff",
+    "b23800be74eca5b3593b7df229f0f887",
+    "d30cdf24d67f136bea4af63b8cf494f3"
   ],
   "titles": [
-    "Hessen - Polizei gibt Entwarnung nach Knall in Einkaufszentrum in Frankfurt am Main",
-    "Südtirol - Drei deutsche Bergsteiger getötet",
     "Afrika - Trump droht Nigeria mit US-Militäreinsatz",
     "Großbritannien - Mehrere Menschen in Zug durch Stiche verletzt",
     "Großbritannien - Messerangriff in Zug: Zehn Menschen zum Teil lebensbedrohlich verletzt",
@@ -3003,11 +3001,11 @@
     "CSU-Klausurtagung: Söder will sich von der AfD den Kopf nicht wirr machen lassen",
     "Online-Handel - Warnung vor Fake-Shops rund um den Black Friday",
     "Assistierter Suizid: Freier sterben?",
-    "Nach der Klimakonferenz: Die kleinen Botschaften von Belém"
+    "Nach der Klimakonferenz: Die kleinen Botschaften von Belém",
+    "Christian Wulff über Kanzler Friedrich Merz: »Die ›Stadtbild‹-Äußerung ist absolut missglückt«",
+    "Fehlender Rückhalt: Chefs der Berliner SPD kündigen Rücktritt an"
   ],
   "hashes": [
-    "6cc6a8ee03db035673e72e243669998f",
-    "9d9f20dfe740f6e3fd2c0085147bfd88",
     "b0431b1a0f3d4f1c7089700efccdf3d1",
     "845f54984da202c3d1b241a3b14b5219",
     "3cc1a4547dfa28b0ec976ef57dfdefd6",
@@ -4005,6 +4003,8 @@
     "fa54840c1034791ae4a9eeed84a32754",
     "cc09a0c05ca30c7ccbb8e9db4f3460e5",
     "e884e1213782e92081be0c2c8df20b68",
-    "dd2f59897370054a8c7669daaf5a2a88"
+    "dd2f59897370054a8c7669daaf5a2a88",
+    "e6645e6374f76ff3d880920fbdb77f83",
+    "7c3d18a3c4bb9b9a037afb82608a033a"
   ]
 }
