@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bayern-fordert-bund-laender-gipfel-fuer-gesundheitssystem-104.html",
-    "https://www.faz.net/aktuell/politik/inland/schnitzel-oder-tofu-der-kennzeichnungsstreit-hilft-keinem-accg-110759252.html",
     "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html",
     "https://www.deutschlandfunk.de/steinmeier-verhalten-optimistisch-ueber-lage-im-nahen-osten-100.html",
     "https://www.deutschlandfunk.de/interview-jung-burkhard-praes-d-deutschen-staedtetages-ob-v-leipzig-spd-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ukraine/28-punkte-plan-fuer-ukraine-nicht-die-europaeer-sind-blind-110789935.html",
     "https://www.deutschlandfunk.de/bsw-fraktionsvize-dorst-tritt-zurueck-wegen-post-zu-afd-spitzenkandidat-siegmund-100.html",
     "https://www.faz.net/aktuell/politik/inland/katholische-kirche-satzung-fuer-synodalkonferenz-verabschiedet-110789928.html",
-    "https://www.faz.net/aktuell/politik/inland/mitbestimmung-in-katholischer-kirche-vatikan-siegt-110790009.html"
+    "https://www.faz.net/aktuell/politik/inland/mitbestimmung-in-katholischer-kirche-vatikan-siegt-110790009.html",
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-idealerweise-bis-donnerstag-zum-abschluss-kommen-100.html",
+    "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-104.html"
   ],
   "content_hashes": [
-    "6d796d3bdc7e3939c5517f291c82a42e",
-    "ec6a9e8f1ef4907b9041c3548cc969f1",
     "99f5b45108e3b6d4b08521cc457123c8",
     "353e2d675abce0516d64e67de6e3f603",
     "1fea9504f9734f0fd77f59843bef4d02",
@@ -2001,11 +1999,11 @@
     "dfb325acff7ec238179eb20e4753390b",
     "7afb8c4e25dccead06e6dbd322a6bf89",
     "9906d100382d3d823d2ba4bbd316890e",
-    "73c8f4c3a7540f6dd010fff2dae95efc"
+    "73c8f4c3a7540f6dd010fff2dae95efc",
+    "3bb573aec2a4380a1b12e949662b1a3f",
+    "6102e3451f8c546eb312d7c26f10b77a"
   ],
   "titles": [
-    "Vorbereitung auf Krisenfall - Bayern fordert Bund-Länder-Gipfel für Gesundheitssystem",
-    "Kennzeichnungsstreit: Diese „Schnitzeljagd“ hilft keinem",
     "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an",
     "Afrika-Reise - Steinmeier verhalten optimistisch über Lage im Nahen Osten",
     "Deutscher Städtetag - Burkhard Jung: \"Der Sozialstaat muss reformiert werden“",
@@ -3003,11 +3001,11 @@
     "Trumps Ukraine-Plan: Wer solche Freunde hat, braucht keinen Putin mehr",
     "Brandenburger Landtag - BSW-Fraktionsvize Dorst tritt zurück - wegen Post zu AfD-Spitzenkandidat Siegmund",
     "Fünf Jahre Streit mit Rom: Satzung für Synodalkonferenz verabschiedet",
-    "Katholiken in Deutschland: Der Vatikan hat sich durchgesetzt"
+    "Katholiken in Deutschland: Der Vatikan hat sich durchgesetzt",
+    "Ukraine-Gespräche - US-Außenminister Rubio: \"Idealerweise bis Donnerstag zum Abschluss kommen\"",
+    "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt"
   ],
   "hashes": [
-    "dac613f59a10484749856ae0ff47a7e6",
-    "ebceb27e1107b2f6364d857df8385b6f",
     "03cb95b462af4dfc5429f391c4cc5530",
     "cba2180ea750122a6e8f97254026888d",
     "85f88f34fdfe6c628d7aec5163e2d0a9",
@@ -4005,6 +4003,8 @@
     "bba77d0804ae671ae4808ae9cb88eed5",
     "660b0855b97b3b4f96334810094ed2bd",
     "1d155d45073104f328072503ce958b50",
-    "74b559422aef4e809286cd6ab87005cd"
+    "74b559422aef4e809286cd6ab87005cd",
+    "e99807c300ce5f5b133310d7e1e1db2b",
+    "58f12829a3ee0129802d85c4732d36b4"
   ]
 }
