@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israelische-armee-drei-aus-gazastreifen-uebergebene-leichen-sind-nicht-die-von-geiseln-102.html",
-    "https://www.deutschlandfunk.de/bundesnetzagentur-droht-der-deutschen-post-mit-geldstrafe-102.html",
     "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-massengedraenge-vor-tempel-100.html",
     "https://www.deutschlandfunk.de/rauchverbot-fuer-junge-generationen-auf-den-malediven-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/die-neretva-in-bosnien-und-herzegowina-wie-ein-fluss-verbindet-und-trennt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bischoefe-und-laien-verstaendigen-sich-auf-nationales-kirchengremium-106.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-cdu-wirbt-fuer-social-leasing-bei-e-autos-100.html",
     "https://www.deutschlandfunk.de/praesidentenwahl-im-serbischen-landesteil-von-bosnien-100.html",
-    "https://www.deutschlandfunk.de/verfassungsschutz-besorgt-um-integritaet-des-oeffentlichen-diskurses-durch-einseitiges-informieren-i-100.html"
+    "https://www.deutschlandfunk.de/verfassungsschutz-besorgt-um-integritaet-des-oeffentlichen-diskurses-durch-einseitiges-informieren-i-100.html",
+    "https://www.deutschlandfunk.de/katholische-bischoefe-und-laien-in-deutschland-beschliessen-schaffung-eines-neuen-nationalen-kirchen-100.html",
+    "https://www.deutschlandfunk.de/islamfeindlichkeit-hat-laut-studie-wenig-mit-christlichem-glauben-zu-tun-ursachen-liegen-im-autorita-102.html"
   ],
   "content_hashes": [
-    "2d90b3c285287fc23dd0e78143dd6eba",
-    "ed7620f45a90e4e3502b982d0e850d86",
     "978ca081b48924a0a5f091f31728cbd2",
     "af2b67c349606afa537a61ebfa889126",
     "197d770cc9531776d2deb672fd2e23fe",
@@ -2001,11 +1999,11 @@
     "3656fb6772fcac420fb6a8dca6ce4edd",
     "f5ae113baeecd0762f6922268472b408",
     "6427754bc9ee7d1d90ae7ed6b3f1f185",
-    "3b925c0b2e258f80555cd742fc0626a0"
+    "3b925c0b2e258f80555cd742fc0626a0",
+    "9b25e38cc2a98c9ed31a53de7187b1c9",
+    "63f8a7013e74c0bd6909ad040eb6898b"
   ],
   "titles": [
-    "Nahost - Israelische Armee: Drei aus Gazastreifen übergebene Leichen sind nicht die von Geiseln",
-    "Zehntausende Beschwerden - Bundesnetzagentur droht der Deutschen Post mit Geldstrafe",
     "Indien - Mindestens neun Tote bei Massengedränge vor Tempel",
     "Ab Jahrgang 2007 - Rauchverbot für junge Generationen auf den Malediven in Kraft getreten",
     "Der Wildfluss Neretva - Ein bedrohtes Naturparadies verbindet und trennt",
@@ -3003,11 +3001,11 @@
     "Katholische Kirche - Bischöfe und Laien verständigen sich auf nationales Kirchengremium",
     "Elektromobilität - Bundesverkehrsminister Schnieder (CDU) wirbt für \"Social Leasing\" bei E-Autos",
     "Balkan - Präsidentenwahl im serbischen Landesteil von Bosnien",
-    "\"Wir verlieren Menschen in Filterblasen\" - Verfassungsschutz besorgt um Integrität des öffentlichen Diskurses durch einseitiges Informieren im Internet"
+    "\"Wir verlieren Menschen in Filterblasen\" - Verfassungsschutz besorgt um Integrität des öffentlichen Diskurses durch einseitiges Informieren im Internet",
+    "Religion - Katholische Bischöfe und Laien in Deutschland beschließen Schaffung eines neuen nationalen Kirchengremiums",
+    "Gesellschaft - Islamfeindlichkeit hat laut Studie wenig mit christlichem Glauben zu tun - Ursachen liegen im Autoritarismus und Rechtspopulismus"
   ],
   "hashes": [
-    "9e5ab5d8fa9b54fef2ca7058b7d38452",
-    "65b80dd6582425304f1bbb4fcb058f1c",
     "b2985a44ab3b0c2ac8709f705ae4a79f",
     "97b6d1cbaef25117f94486e6bb0b25fb",
     "03dd56475cb53590735b70a57188c0b9",
@@ -4005,6 +4003,8 @@
     "18b321106cd3138a2c4d9fa0369d3d40",
     "8d8baa01af955d1c4d1c17bdb1b68d11",
     "97f7e873972cd7c63aa084a2fecab620",
-    "3d1290bcd3ae7fa7555cb0151715f78c"
+    "3d1290bcd3ae7fa7555cb0151715f78c",
+    "22dfc33ecef1c2fdb708d34f44859c5c",
+    "666bbc75914b3bdc3b35dc6e6098619a"
   ]
 }
