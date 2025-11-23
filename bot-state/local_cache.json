@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pflegeloehne-steigen-kosten-fuer-heimbewohner-auch-102.html",
-    "https://www.deutschlandfunk.de/berliner-polizei-ermittelt-nach-drohnen-sichtung-100.html",
     "https://www.deutschlandfunk.de/deutschland-grossbritannien-und-jordanien-fordern-waffenruhe-im-sudan-100.html",
     "https://www.deutschlandfunk.de/papst-erklaert-heiligen-john-henry-newman-zum-kirchenlehrer-100.html",
     "https://www.deutschlandfunk.de/westsahara-soll-teil-marokkos-werden-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verstappen-gewinnt-in-las-vegas-und-haelt-wm-chance-am-leben-102.html",
     "https://www.aljazeera.com/news/liveblog/2025/11/23/ukraine-live?traffic_source=rss",
     "https://www.deutschlandfunk.de/brasiliens-ex-praesident-bolsonaro-wollte-elektronische-fussfessel-aufbrechen-wegen-fluchtgefahr-inh-100.html",
-    "https://www.deutschlandfunk.de/merz-und-carney-fordern-die-ukraine-einzubeziehen-us-aussenminister-rubio-tritt-kritik-entgegen-trum-100.html"
+    "https://www.deutschlandfunk.de/merz-und-carney-fordern-die-ukraine-einzubeziehen-us-aussenminister-rubio-tritt-kritik-entgegen-trum-100.html",
+    "https://www.deutschlandfunk.de/drohnensichtungen-flughafen-eindhoven-voruebergehend-gesperrt-100.html",
+    "https://www.deutschlandfunk.de/republika-srpska-praesidentenwahl-im-serbischen-landesteil-von-bosnien-herzegowina-100.html"
   ],
   "content_hashes": [
-    "b8798729911e5167204a9f440f4daf07",
-    "2a6a25978a4286a91593b2dbee5929cb",
     "6c98fcf27723f8504fb2e08f81c612b9",
     "29d75856e6a1b96e2f1ca4dc10140b1f",
     "3d8c8730decabdc3060b5fb519a8fa9f",
@@ -2001,11 +1999,11 @@
     "2a43e27e050b6cdde1901d53b26c0f30",
     "b29f522790bc76418c9b5a5335eb4c45",
     "8cf0b45709fa76c48f64ea94b4f91267",
-    "7f844f3f02bc8c178765eecd6648cc38"
+    "7f844f3f02bc8c178765eecd6648cc38",
+    "da44859a355c4303f9f2ea351629da84",
+    "cfd7d45aaf263ad7ee28eb098dd14a00"
   ],
   "titles": [
-    "GKV-Spitzenverband - Pflegelöhne steigen - Kosten für Heimbewohner auch",
-    "Flughafen BER - Berliner Polizei ermittelt nach Drohnen-Sichtung",
     "Sicherheitskonferenz - Deutschland, Großbritannien und Jordanien fordern Waffenruhe im Sudan",
     "Katholische Bildung - Papst erklärt Heiligen John Henry Newman zum Kirchenlehrer",
     "UNO-Sicherheitsrat - Westsahara soll Teil Marokkos werden",
@@ -3003,11 +3001,11 @@
     "Formel 1 - Verstappen gewinnt in Las Vegas und hält WM-Chance am Leben",
     "Russia-Ukraine war live: US, European officials to discuss Trump’s plan",
     "Südamerika - Brasiliens Ex-Präsident Bolsonaro wollte elektronische Fußfessel aufbrechen - wegen Fluchtgefahr inhaftiert",
-    "US-Plan für Ende des Ukraine-Kriegs - Merz und Carney fordern, die Ukraine einzubeziehen - US-Außenminister Rubio tritt Kritik entgegen - Trump: nicht letztes Angebot"
+    "US-Plan für Ende des Ukraine-Kriegs - Merz und Carney fordern, die Ukraine einzubeziehen - US-Außenminister Rubio tritt Kritik entgegen - Trump: nicht letztes Angebot",
+    "Niederlande - Drohnensichtungen: Flughafen Eindhoven vorübergehend gesperrt",
+    "Nach Absetzung Dodiks - Republika Srpska: Präsidentenwahl im serbischen Landesteil von Bosnien-Herzegowina"
   ],
   "hashes": [
-    "89aab714a2c105910163655ed0e6dc2a",
-    "1012697f0558c49f335a69df799060d9",
     "c40e4d1654fb9dbf98ba1b59ef191de6",
     "e278e507864ac90fb6184f74aca05a42",
     "3fb603f519b8c366d6cbaa882af871ea",
@@ -4005,6 +4003,8 @@
     "fb3d4281a9817dc07b8b72aff235e9d5",
     "2b6ed7090ffa868092692a9f53a1ca5a",
     "262396277f4a93222c24cf536f71d1b0",
-    "9d32509210349bd1624ebdaf24bc21f4"
+    "9d32509210349bd1624ebdaf24bc21f4",
+    "4d6e12479010d3426ed4b64a90a3e9d1",
+    "3704a085b0e1e9bbbab197b2b2616438"
   ]
 }
