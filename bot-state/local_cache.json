@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/widerspruechliche-angaben-zur-lage-in-ukrainischer-stadt-pokrowsk-102.html",
-    "https://www.deutschlandfunk.de/queer-beauftragte-koch-sieht-selbstbestimmungsgesetz-als-erfolg-unendliche-erleichterung-100.html",
     "https://www.faz.net/aktuell/politik/inland/pro-und-contra-wehrpflicht-oder-berufsarmee-accg-110759183.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-will-reisewarnung-fuer-israel-abschwaechen-100.html",
     "https://www.deutschlandfunk.de/grosses-aegyptisches-museum-an-den-pyramiden-eroeffnet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-zu-beratungen-in-genf-eingetroffen-selenskyj-fordert-partner-zur-staerkung-d-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-legen-eigenes-rentenkonzept-vor-faz-110093143.html",
     "https://www.deutschlandfunk.de/slowenien-haelt-referendum-ueber-legalisierung-von-sterbehilfe-ab-102.html",
-    "https://www.deutschlandfunk.de/ex-bundespraesident-wulff-bundeskanzler-merz-sollte-von-stadtbild-aeusserung-abruecken-100.html"
+    "https://www.deutschlandfunk.de/ex-bundespraesident-wulff-bundeskanzler-merz-sollte-von-stadtbild-aeusserung-abruecken-100.html",
+    "https://www.deutschlandfunk.de/strack-zimmermann-fdp-auch-frauen-sollten-zur-musterung-100.html",
+    "https://www.faz.net/aktuell/politik/inland/soeder-will-sich-von-der-afd-den-kopf-nicht-wirr-machen-lassen-110789678.html"
   ],
   "content_hashes": [
-    "18d2a404292c3bd9a681d3e7b5cec032",
-    "1d0709189a98fbf24e55ce326456d9b0",
     "e97ce488483d5b747802ed42fbab828e",
     "c6dbfe6db9e9743ea4090c8acb0bf08b",
     "8b31ec6081d2cddfc7064f7467ed8dab",
@@ -2001,11 +1999,11 @@
     "3caf348c4ae13dfab1ca5e75372b7e6b",
     "3d63865caa21c71d0a582fccde0b66e1",
     "43b6d0c03e7197167409c74bd5ce202c",
-    "2ba1dae84b7cd1f0ae3c1d5a04b4b1c6"
+    "2ba1dae84b7cd1f0ae3c1d5a04b4b1c6",
+    "621324c941ec6e6a5b40defe08e56734",
+    "81be582a9de7db7d4177c3bc0fb59509"
   ],
   "titles": [
-    "Krieg in der Ukraine - Widersprüchliche Angaben zur Lage in ukrainischer Stadt Pokrowsk",
-    "Ein Jahr in Kraft - Queer-Beauftragte Koch sieht Selbstbestimmungsgesetz als Erfolg - \"unendliche Erleichterung\"",
     "Pro und Contra: Was für die Wehrpflicht spricht – und was nicht",
     "Nahost - Außenminister Wadephul will Reisewarnung für Israel abschwächen",
     "Kultur - Großes Ägyptisches Museum an den Pyramiden eröffnet",
@@ -3003,11 +3001,11 @@
     "US-Plan für Ende des Ukraine-Kriegs - US-Außenminister Rubio zu Beratungen in Genf eingetroffen - Selenskyj fordert Partner zur Stärkung der Flugabwehr auf",
     "Liveblog Bundespolitik: Grüne legen eigenes Rentenkonzept vor",
     "EU-Staat - Slowenien hält Referendum über Legalisierung von Sterbehilfe ab",
-    "Debatte - Ex-Bundespräsident Wulff: Bundeskanzler Merz sollte von Stadtbild-Äußerung abrücken"
+    "Debatte - Ex-Bundespräsident Wulff: Bundeskanzler Merz sollte von Stadtbild-Äußerung abrücken",
+    "Wehrdienst - Strack-Zimmermann (FDP): Auch Frauen sollten zur Musterung",
+    "CSU-Klausurtagung: Söder will sich von der AfD den Kopf nicht wirr machen lassen"
   ],
   "hashes": [
-    "870008cdfa3d24f62fbe4326714f5860",
-    "ee43e43b6cf77a86d2332bf32c56176c",
     "8111b261fbc46999b6f5181e90bee4f4",
     "b9cd7b7e7d8c9655cb9cc0de30e54f6d",
     "e9b5808998ea0b0bc1879c6103604cd8",
@@ -4005,6 +4003,8 @@
     "11b4391a40f01f94a474cd7675f75720",
     "bff81a42609ed0793e415661e4ae7b1b",
     "cc52b0da93b7e93d70a2647653e492f4",
-    "92784fbe7735f35db95f30aede9a4e43"
+    "92784fbe7735f35db95f30aede9a4e43",
+    "ee0e9143e4d1afaba7158bf933a8add4",
+    "fa54840c1034791ae4a9eeed84a32754"
   ]
 }
