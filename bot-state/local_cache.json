@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vorwurf-der-toetung-von-christen-trump-droht-nigeria-mit-us-militaereinsatz-100.html",
-    "https://www.deutschlandfunk.de/syrischer-interimspraesident-al-scharaa-reist-diesen-monat-nach-washington-106.html",
     "https://www.deutschlandfunk.de/bayern-fordert-bund-laender-gipfel-fuer-gesundheitssystem-104.html",
     "https://www.faz.net/aktuell/politik/inland/schnitzel-oder-tofu-der-kennzeichnungsstreit-hilft-keinem-accg-110759252.html",
     "https://www.deutschlandfunk.de/ergebnis-gefaelscht-opposition-erkennt-wahlsieg-von-praesidentin-hassan-nicht-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-die-suedwest-afd-glaubt-an-platz-eins-110789717.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-stellt-sich-hinter-kulturstaatsminister-weimer-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/ukraine/28-punkte-plan-fuer-ukraine-nicht-die-europaeer-sind-blind-110789935.html",
-    "https://www.deutschlandfunk.de/bsw-fraktionsvize-dorst-tritt-zurueck-wegen-post-zu-afd-spitzenkandidat-siegmund-100.html"
+    "https://www.deutschlandfunk.de/bsw-fraktionsvize-dorst-tritt-zurueck-wegen-post-zu-afd-spitzenkandidat-siegmund-100.html",
+    "https://www.faz.net/aktuell/politik/inland/katholische-kirche-satzung-fuer-synodalkonferenz-verabschiedet-110789928.html",
+    "https://www.faz.net/aktuell/politik/inland/mitbestimmung-in-katholischer-kirche-vatikan-siegt-110790009.html"
   ],
   "content_hashes": [
-    "5e62381408cfb1befdc2129149e78aad",
-    "03af4d130daf1b1e72b21e3c12aa1084",
     "6d796d3bdc7e3939c5517f291c82a42e",
     "ec6a9e8f1ef4907b9041c3548cc969f1",
     "99f5b45108e3b6d4b08521cc457123c8",
@@ -2001,11 +1999,11 @@
     "e8fa70718f53a236cf73d6dcdb7fd797",
     "24f13f424f039cbcbd6c879ede16d3d9",
     "dfb325acff7ec238179eb20e4753390b",
-    "7afb8c4e25dccead06e6dbd322a6bf89"
+    "7afb8c4e25dccead06e6dbd322a6bf89",
+    "9906d100382d3d823d2ba4bbd316890e",
+    "73c8f4c3a7540f6dd010fff2dae95efc"
   ],
   "titles": [
-    "Afrika - Vorwurf der \"Tötung von Christen\": Trump droht Nigeria mit US-Militäreinsatz",
-    "Nahost - Syrischer Interimspräsident al-Scharaa reist diesen Monat nach Washington",
     "Vorbereitung auf Krisenfall - Bayern fordert Bund-Länder-Gipfel für Gesundheitssystem",
     "Kennzeichnungsstreit: Diese „Schnitzeljagd“ hilft keinem",
     "Tansania - \"Ergebnis gefälscht\": Opposition erkennt Wahlsieg von Präsidentin Hassan nicht an",
@@ -3003,11 +3001,11 @@
     "Landtagswahl im März: Die AfD in Baden-Württemberg glaubt an Platz eins",
     "Liveblog Bundespolitik: Merz stellt sich hinter Kulturstaatsminister Weimer",
     "Trumps Ukraine-Plan: Wer solche Freunde hat, braucht keinen Putin mehr",
-    "Brandenburger Landtag - BSW-Fraktionsvize Dorst tritt zurück - wegen Post zu AfD-Spitzenkandidat Siegmund"
+    "Brandenburger Landtag - BSW-Fraktionsvize Dorst tritt zurück - wegen Post zu AfD-Spitzenkandidat Siegmund",
+    "Fünf Jahre Streit mit Rom: Satzung für Synodalkonferenz verabschiedet",
+    "Katholiken in Deutschland: Der Vatikan hat sich durchgesetzt"
   ],
   "hashes": [
-    "4e181dfd69dfbb74cca38e67aad0bc84",
-    "14cd57ebf346ea1b0cd4df64435a7107",
     "dac613f59a10484749856ae0ff47a7e6",
     "ebceb27e1107b2f6364d857df8385b6f",
     "03cb95b462af4dfc5429f391c4cc5530",
@@ -4005,6 +4003,8 @@
     "0a8430ecf729b64415471cc590881e31",
     "6d5de09edb7f1f39b6c36e949ef08fa2",
     "bba77d0804ae671ae4808ae9cb88eed5",
-    "660b0855b97b3b4f96334810094ed2bd"
+    "660b0855b97b3b4f96334810094ed2bd",
+    "1d155d45073104f328072503ce958b50",
+    "74b559422aef4e809286cd6ab87005cd"
   ]
 }
