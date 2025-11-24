@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-berichtet-ueber-anschlagsplaene-und-festnahme-102.html",
-    "https://www.deutschlandfunk.de/polizei-nimmt-syrer-wegen-anschlagsverdachts-fest-100.html",
-    "https://www.faz.net/aktuell/politik/inland/bsw-auf-der-suche-nach-einem-neuanfang-accg-110761575.html",
     "https://www.deutschlandfunk.de/deutscher-karikaturenpreis-geht-an-piero-masztalerz-104.html",
     "https://www.deutschlandfunk.de/praesident-peseschkian-kuendigt-wiederaufbau-zerstoerter-atomanlagen-an-102.html",
     "https://www.deutschlandfunk.de/britische-polizei-sieht-keinen-hinweis-auf-terroristisches-motiv-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-und-afrikanische-staaten-beraten-auf-gipfel-ueber-engere-zusammenarbeit-104.html",
     "https://www.deutschlandfunk.de/koelner-hauptbahnhof-nimmt-nach-vollsperrung-wieder-den-betrieb-auf-100.html",
     "https://www.deutschlandfunk.de/spd-chefs-boecker-giannini-und-hikel-wollen-sich-zu-ihren-ruecktritten-aeussern-100.html",
-    "https://www.deutschlandfunk.de/usa-aeussern-sich-optimistisch-selenskyj-finden-gehoer-europaeer-mit-eigenen-vorschlaegen-100.html"
+    "https://www.deutschlandfunk.de/usa-aeussern-sich-optimistisch-selenskyj-finden-gehoer-europaeer-mit-eigenen-vorschlaegen-100.html",
+    "https://www.deutschlandfunk.de/trumps-friedens-plan-und-die-reaktionen-aus-der-ukraine-100.html",
+    "https://www.spiegel.de/wirtschaft/iw-koeln-erklaert-deutschland-zum-spitzenreiter-bei-sozialausgaben-a-52675ab7-1107-41c2-8aae-6b215658554b#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/einfach-mal-machen-wenn-es-fuer-die-cdu-so-einfach-waere-110790007.html"
   ],
   "content_hashes": [
-    "0a1db668b27a0f0426fa797c504cd723",
-    "112c66ff7a990257a5c7fc808e714993",
-    "ce4fd968c6a7f127b34f0f6e3864b959",
     "1db48a0b9ea0ebef02119ff933e3c0e8",
     "4f7ee924554cb61b94fc921dcfd72483",
     "d8df24d94bc9ce7bfd199045ad424e0d",
@@ -2001,12 +1998,12 @@
     "79b6127782756aba057cc52896f7f99c",
     "fa01e9f20fd0ebeb440af22c46d33153",
     "f8e205d82317e3a2dba7cc85590216a3",
-    "a68971f2110a00675846f2cbd7e3cbc3"
+    "a68971f2110a00675846f2cbd7e3cbc3",
+    "086306ff2ca9c9282a40bb0c95290f7a",
+    "3ad2a6167947c04177e29b7afd1a4b0c",
+    "c84d555529089b1ab727fb2a9aedaa62"
   ],
   "titles": [
-    "Berlin - Staatsanwaltschaft berichtet über Anschlagspläne und Festnahme",
-    "Berlin - Polizei nimmt Syrer wegen Anschlagsverdachts fest",
-    "Klausurtagung: BSW auf der Suche nach einem Neuanfang",
     "\"Geflügelter Bleistift\" - Deutscher Karikaturenpreis geht an Piero Masztalerz",
     "Iran - Präsident Peseschkian kündigt Wiederaufbau zerstörter Atomanlagen an",
     "Nach Messerangriff in Zug - Britische Polizei sieht keinen Hinweis auf terroristisches Motiv",
@@ -3003,12 +3000,12 @@
     "Luanda - EU und afrikanische Staaten beraten auf Gipfel über engere Zusammenarbeit",
     "Bauarbeiten - Kölner Hauptbahnhof nimmt nach Vollsperrung wieder den Betrieb auf",
     "Berlin - SPD-Chefs Böcker-Giannini und Hikel wollen sich zu ihren Rücktritten äußern",
-    "Ukraine-Gespräche in Genf - USA äußern sich optimistisch - Selenskyj: \"Finden Gehör\" - Europäer mit eigenen Vorschlägen"
+    "Ukraine-Gespräche in Genf - USA äußern sich optimistisch - Selenskyj: \"Finden Gehör\" - Europäer mit eigenen Vorschlägen",
+    "Ukraine-Friedensplan - Selenskyj äußert sich vorsichtig optimistisch",
+    "IW-Köln erklärt Deutschland zum Spitzenreiter bei Sozialausgaben",
+    "Regieren in Deutschland: CDU vor der Zerreißprobe"
   ],
   "hashes": [
-    "ffa8d93fc2fb76c24588c798eade033b",
-    "f390e069904f15d04502a24efe0cd5ff",
-    "2f72d4f00b23de4bd0c7f66b1288c949",
     "c8b36953d8507eb20c3e3f09d75f11c7",
     "3c9f8946d58e480137d21a492c4324e1",
     "a7e33c1e5109025bb707c6ec36197591",
@@ -4005,6 +4002,9 @@
     "d7c98cf820136778ee770f57df30ff25",
     "f2d0dcafb883cf2dae80708682c7358a",
     "6e971468a4bca423ce97711c7823bf63",
-    "ec736fb729a8ad8733cd6803f3bcb2a9"
+    "ec736fb729a8ad8733cd6803f3bcb2a9",
+    "1e64c03b99adfd81ea2218cee868a66a",
+    "f52fac52d60afc6f6dda03ad54202e59",
+    "ed3ffdfb95c5db3f3c4f99db0bbb5b64"
   ]
 }
