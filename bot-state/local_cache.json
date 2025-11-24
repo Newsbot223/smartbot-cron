@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/drohnensichtung-legt-bremer-flughafen-lahm-accg-110762106.html",
-    "https://www.deutschlandfunk.de/mindestens-neun-tote-bei-neuem-erdbeben-in-afghanistan-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-reist-zum-antrittsbesuch-nach-schleswig-holstein-100.html",
     "https://www.spiegel.de/ausland/drohne-legt-flugverkehr-in-bremen-lahm-weitere-sichtung-in-belgien-a-d69ec088-4566-4943-8a5b-76aadaf9c950#ref=rss",
     "https://www.deutschlandfunk.de/parteiinterne-kritik-an-wadephuls-aeusserungen-zu-moeglichen-abschiebungen-nach-syrien-haelt-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-kommission-stoppt-vorerst-fusion-von-universal-und-downtown-100.html",
     "https://www.deutschlandfunk.de/staatsschutz-bereits-frueh-vor-spaeterem-taeter-von-magdeburg-gewarnt-100.html",
     "https://www.deutschlandfunk.de/familienunternehmer-oeffnen-sich-fuer-gespraeche-mit-der-afd-100.html",
-    "https://www.deutschlandfunk.de/dreitaegiger-streik-in-belgien-einschraenkungen-auch-im-deutschen-bahnverkehr-100.html"
+    "https://www.deutschlandfunk.de/dreitaegiger-streik-in-belgien-einschraenkungen-auch-im-deutschen-bahnverkehr-100.html",
+    "https://www.deutschlandfunk.de/us-handelsminister-lutnick-verlangt-aenderungen-der-eu-digitalregeln-100.html",
+    "https://www.deutschlandfunk.de/vulkan-erstmals-seit-jahrtausenden-ausgebrochen-100.html"
   ],
   "content_hashes": [
-    "2387194a71a051cb87eee4b7b44031f2",
-    "a6fe2fc9b0ebfd74f54bac621d6cab86",
     "8668ba54a43676fbf0c71546e6148776",
     "9b002cf9f43b949072e6e7ce7e49ebff",
     "0473e0abe5c4dde74037f79f08226d5b",
@@ -2001,11 +1999,11 @@
     "b758c1644443ab6aa8fb5f6e37614c66",
     "cf91fe4e4c33c2594f8ecb28c9d7d679",
     "98afc7503ebfc0812628987945775225",
-    "69d9b59c66b9654245c0d33fa0d006f2"
+    "69d9b59c66b9654245c0d33fa0d006f2",
+    "52a0e1bfeaa54607673a83b8162105f2",
+    "a51a3cc1fd1e9841d158194966347a58"
   ],
   "titles": [
-    "Betrieb beeinträchtigt: Drohnensichtung am Bremer Flughafen und über Militärbasis in Belgien",
-    "Naturkatastrophe - Mindestens neun Tote bei neuem Erdbeben in Afghanistan",
     "Husum - Bundeskanzler reist zum Antrittsbesuch nach Schleswig-Holstein",
     "Drohne legt Flugverkehr in Bremen lahm – weitere Sichtung in Belgien",
     "Bundesaußenminister - Parteiinterne Kritik an Wadephuls Äußerungen zu möglichen Abschiebungen nach Syrien hält an",
@@ -3003,11 +3001,11 @@
     "Musikindustrie - EU-Kommission stoppt vorerst Fusion von Universal und Downtown",
     "Untersuchungsausschuss - Staatsschutz: Bereits früh vor späterem Täter von Magdeburg gewarnt",
     "Wirtschaft - Familienunternehmer öffnen sich für Gespräche mit der AfD",
-    "Streit um Sozialreformen - Dreitägiger Streik in Belgien - Einschränkungen auch im deutschen Bahnverkehr"
+    "Streit um Sozialreformen - Dreitägiger Streik in Belgien - Einschränkungen auch im deutschen Bahnverkehr",
+    "Brüssel - US-Handelsminister Lutnick verlangt Änderungen der EU-Digitalregeln",
+    "Äthiopien - Vulkan erstmals seit Jahrtausenden ausgebrochen"
   ],
   "hashes": [
-    "0ad0284f5520043b0dd69b124ee7f277",
-    "7ceb2c39c5782be0622e2135b80c70e2",
     "e3c846a81df5b191e04238fd85335fe5",
     "d1249a127d9f088dbf32d9d1a3c7ff8d",
     "21f176a56857ea7ce52031c766915445",
@@ -4005,6 +4003,8 @@
     "ecdc5c1a097e4739146a8d56a0956b45",
     "df25a3d029af0fd668fc31a4a65cb3e5",
     "9ae1cd950e848f694cdfe8bd8edf5f9b",
-    "230d835244a5bd57c318fe342affb511"
+    "230d835244a5bd57c318fe342affb511",
+    "c76faa2333186fe713c42eb81aefbd65",
+    "59c61c73d5d6bfd4179ab2f9fe55bfb1"
   ]
 }
