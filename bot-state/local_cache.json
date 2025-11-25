@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/die-situation-wurde-fuer-meine-familie-und-mich-unertraeglich-regionalpraesident-von-valencia-tritt--100.html",
-    "https://www.spiegel.de/politik/deutschland/cdu-parteikollegen-kritisieren-aussenminister-johann-wadephul-fuer-aussagen-zu-syrien-rueckkehr-a-a09fcad7-0903-4326-9f46-bd65370a566b#ref=rss",
-    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-industriestrompreis-kommt-zum-1-januar-102.html",
     "https://www.aljazeera.com/gallery/2025/11/3/day-of-the-dead-celebrations-around-the-world?traffic_source=rss",
     "https://www.deutschlandfunk.de/umweltminister-schneider-emissionshandel-soll-nicht-zur-verdraengung-europaeischer-unternehmen-fuehr-100.html",
     "https://www.deutschlandfunk.de/75-millionen-neue-jobs-in-afrika-bis-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kommission-fuer-mehr-schutz-von-prostituierten-eingesetzt-102.html",
     "https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-haertere-strafen-fuer-k-o-tropfen-a-14ac7500-27fc-4b90-842c-76561fcd200b#ref=rss",
     "https://www.deutschlandfunk.de/selenskyj-und-trump-sehen-fortschritte-in-gespraechen-ueber-us-plan-fuer-ende-des-ukraine-kriegs-100.html",
-    "https://www.deutschlandfunk.de/start-der-haushaltswoche-100.html"
+    "https://www.deutschlandfunk.de/start-der-haushaltswoche-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-von-taiwan-schliesst-wiedereingliederung-in-den-chinesischen-staat-aus-100.html",
+    "https://www.deutschlandfunk.de/mdr-serie-auf-fritzis-spuren-wie-war-das-so-in-der-ddr-mit-international-emmy-ausgezeichnet-100.html",
+    "https://www.deutschlandfunk.de/nasa-kuerzt-fluege-mit-starliner-raumkapseln-von-boeing-100.html"
   ],
   "content_hashes": [
-    "a9f9a3d2ea194a9196824e21a864130a",
-    "4d8d2e4157317bc461a23870aeb81b2e",
-    "96940252a8d8e02f6e906304bd70817e",
     "7976123976ab0158f68576e5e830fe19",
     "67be251aa75c7fd0b61179d3d4e55802",
     "2a3ef98b76486ee9fe1767ec8617151c",
@@ -2001,12 +1998,12 @@
     "d1fde21952fdbf36db6eb40446c2fd54",
     "95e90fa8d8ffe9035fd2e3f3aa18d0bd",
     "f6cbd45b4b91c40e2986f89cb6194d2b",
-    "e24759710455ed6d6bf87873909028f6"
+    "e24759710455ed6d6bf87873909028f6",
+    "579fc2ccc4e4dcaaaf93514a3b9ea1e6",
+    "5bc102dd907a54ae8215d4c965738096",
+    "8ba4b6e89df474f6bf42edebfd753e9c"
   ],
   "titles": [
-    "Spanien - \"Die Situation wurde für meine Familie und mich unerträglich\": Regionalpräsident von Valencia tritt ein Jahr nach Flutkatastrophe zurück",
-    "CDU: Parteikollegen kritisieren Außenminister Johann Wadephul für Aussagen zu Syrien-Rückkehr",
-    "Standort Deutschland - Wirtschaftsministerin Reiche: Industriestrompreis kommt zum 1. Januar 2026",
     "Day of the Dead celebrations around the world",
     "CO2 - Umweltminister Schneider: Emissionshandel soll nicht zur Verdrängung europäischer Unternehmen führen",
     "Studie - 75 Millionen neue Jobs in Afrika bis 2029",
@@ -3003,12 +3000,12 @@
     "Nach bundesweiter Debatte - Kommission für mehr Schutz von Prostituierten eingesetzt",
     "Stefanie Hubig: Justizministerin will härtere Strafen für K.-o.-Tropfen",
     "Nach Verhandlungen in Genf - Selenskyj und Trump sehen Fortschritte in Gesprächen über US-Plan für Ende des Ukraine-Kriegs",
-    "Bundestag - Start der Haushaltswoche"
+    "Bundestag - Start der Haushaltswoche",
+    "Nach Telefonat von Xi und Trump - Ministerpräsident von Taiwan schließt Wiedereingliederung in den chinesischen Staat aus",
+    "Preisverleihung - MDR-Serie \"Auf Fritzis Spuren - Wie war das so in der DDR\" mit International Emmy ausgezeichnet",
+    "Raumfahrt - NASA kürzt Flüge mit Starliner-Raumkapseln von Boeing"
   ],
   "hashes": [
-    "f03814e1504e5d2950d006f98f8e823c",
-    "d9045283a6e3411614ba7fb966472995",
-    "2da7e409d19c9ca14251a5b3b06775a0",
     "5935eab34de2c8ea4372da5447d72f0a",
     "9547f3d33b315506d9da00ce3231c76f",
     "6eb1ee495f942472cfb7ba629384bc93",
@@ -4005,6 +4002,9 @@
     "dc1247bbf2d1d5a6ca8c0dfb068ff561",
     "7dca317d78ae857aa7d7398848f67010",
     "f5fea7cc185212d6b2dc5fbd734169ac",
-    "2d4b0872211e370bb810a9f8ed725842"
+    "2d4b0872211e370bb810a9f8ed725842",
+    "4128b172280213fc27591890838792f1",
+    "7f35d00983880a5c2a0f84f762746488",
+    "b9008fa591c0cc059454dc604e177c15"
   ]
 }
