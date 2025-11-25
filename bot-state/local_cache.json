@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lettlands-praesident-verhindert-vorerst-austritt-aus-konvention-zum-schutz-von-frauen-100.html",
-    "https://www.deutschlandfunk.de/fuehrende-vertreter-von-israels-gewerkschaftsbund-festgenommen-100.html",
     "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html",
     "https://www.deutschlandfunk.de/russland-verzeichnet-laut-analyse-langsam-aber-stetig-gelaendegewinne-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-wirtschaftliche-zusammenarbeit-ausbauen-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/unternehmen/arbeitgebertag-in-berlin-katherina-reiche-stellt-erneut-reformen-in-aussicht-a-047fb752-6c3e-4e22-924b-60de3dff8bd9#ref=rss",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-reiche-wirtschaftsstandort-deutschland-braucht-fitnessprogramm-faz-110093143.html",
     "https://www.deutschlandfunk.de/reiche-fuer-braucht-erneuerungskur-arbeitgeber-fordern-von-politik-mehr-ambitionen-102.html",
-    "https://www.deutschlandfunk.de/pflege-mindestlohn-soll-steigen-100.html"
+    "https://www.deutschlandfunk.de/pflege-mindestlohn-soll-steigen-100.html",
+    "https://www.deutschlandfunk.de/vw-kann-nach-eigenen-angaben-autos-vollstaendig-in-china-entwickeln-und-bauen-100.html",
+    "https://www.deutschlandfunk.de/kuerzlich-freigelassener-dissident-statkewitsch-wieder-in-haft-100.html"
   ],
   "content_hashes": [
-    "97b7b19d9a07558ebcfa08d41f195779",
-    "7a124c5a55c014999e2e3d54959e44fe",
     "6d27c7a6034b853693ae45b4936960d0",
     "88e2ad6ddbbdd0f512356974663f207d",
     "cfad5472ceaa01b472784c944cbc1a7e",
@@ -2001,11 +1999,11 @@
     "c8879f2b5d63a7168a03b8a4e77f35f2",
     "b16cf2f3fb603c9aaa44fa3e94738459",
     "14e0fe18e3933a6b934d01e0e365badd",
-    "ec26b52aacf48e81bba9e52316870ff5"
+    "ec26b52aacf48e81bba9e52316870ff5",
+    "a56729e6fee8311b9e67de0878fb0b72",
+    "454f7a4cbf2588bbe32eb55b4f3e9d59"
   ],
   "titles": [
-    "Istanbul-Konvention - Lettlands Präsident verhindert vorerst Austritt aus Konvention zum Schutz von Frauen",
-    "Korruptionsvorwürfe - Führende Vertreter von Israels Gewerkschaftsbund festgenommen",
     "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie",
     "Ukraine-Krieg - Russland verzeichnet laut Analyse langsam aber stetig Geländegewinne",
     "Afrika-Besuch - Deutschland und Ghana wollen wirtschaftliche Zusammenarbeit ausbauen",
@@ -3003,11 +3001,11 @@
     "Arbeitgebertag in Berlin: Katherina Reiche stellt erneut Reformen in Aussicht",
     "Liveblog Bundespolitik: Reiche: Wirtschaftsstandort Deutschland braucht Fitnessprogramm",
     "Wirtschaftsstandort Deutschland - Reiche für braucht Erneuerungskur - Arbeitgeber fordern von Politik mehr Ambitionen",
-    "Kommission - Pflege-Mindestlohn soll steigen"
+    "Kommission - Pflege-Mindestlohn soll steigen",
+    "Autobranche - VW kann nach eigenen Angaben Autos vollständig in China entwickeln und bauen",
+    "Belarus - Kürzlich freigelassener Dissident Statkewitsch wieder in Haft"
   ],
   "hashes": [
-    "5f180623d25bd1afa9715de8b3e31883",
-    "f0db88f4e8ee3a515d902f70a443b64f",
     "1ca0a8916cbbdfb23fa0ff102345cb89",
     "2d057d27233b1ca2688b6802a31b08ba",
     "cd046be52f4cb8113eecc95fd5446bda",
@@ -4005,6 +4003,8 @@
     "66ea41e5b22f78d78f01979e61a56eaf",
     "54917838a8b782b544e22f2f436c2cbd",
     "e97b3a353355190159f8da85ff86f0c4",
-    "181d1fa08537967a71d0d205fb81e0c8"
+    "181d1fa08537967a71d0d205fb81e0c8",
+    "5dd21590df10484d99c3a9a7bb293f3b",
+    "c33254835e46b45f647cb779891cb01a"
   ]
 }
