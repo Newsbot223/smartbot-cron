@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/versorgung-mit-ladesaeulen-verbessert-sich-leicht-102.html",
-    "https://www.deutschlandfunk.de/chef-des-verteidigungsausschusses-rueckt-von-losverfahren-fuer-musterung-ab-100.html",
     "https://www.deutschlandfunk.de/eu-umweltminister-eroertern-klimaziele-schneider-sind-kompromissbereit-102.html",
     "https://www.deutschlandfunk.de/nigerias-aussenminister-tuggar-weist-trump-vorwurf-der-christenverfolgung-zurueck-102.html",
     "https://www.deutschlandfunk.de/rund-die-haelfte-der-ukrainerinnen-und-ukrainer-in-deutschland-erwerbstaetig-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kommentar-zum-friedensplan-fuer-die-ukraine-fuenf-nach-zwoelf-fuer-die-europaeer-100.html",
     "https://www.faz.net/aktuell/politik/ausland/auswaertiges-amt-deutsche-interessen-muss-man-erkennen-koennen-110791395.html",
     "https://www.deutschlandfunk.de/wadephul-stoesst-umstrukturierung-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-vermisste-in-luanda-deutsches-brot-110791304.html"
+    "https://www.faz.net/aktuell/politik/inland/merz-vermisste-in-luanda-deutsches-brot-110791304.html",
+    "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-heute-in-generaldebatte-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html"
   ],
   "content_hashes": [
-    "3eebc6a71163ee8069bbe28b9dd20202",
-    "2660504005dda65160655083b4bed7c4",
     "c9d23c9b4d185c7ea0a1aff8d86711e9",
     "51d7702bda1cae9d001c0bfa9f9826c0",
     "6ac6cb1e38cc1ad8e5382c1e45d3e240",
@@ -2001,11 +1999,11 @@
     "0c884f461c48c3694bc61f620072a27b",
     "d2006e11207e2f5f29cfb3626d7369be",
     "5bdf97aec34b975db5dcddd7aa120323",
-    "9151d4567845a9152dfe8bfcbc63f367"
+    "9151d4567845a9152dfe8bfcbc63f367",
+    "09d9e7ecbd1597ca5de143ef8c3b5240",
+    "26d6dfdaac9a681756a5b150459824fc"
   ],
   "titles": [
-    "Verkehr - Versorgung mit Ladesäulen verbessert sich leicht",
-    "Wehrdienst - Chef des Verteidigungsausschusses rückt von Losverfahren für Musterung ab",
     "Brüssel - EU-Umweltminister erörtern Klimaziele - Schneider: Sind kompromissbereit",
     "Besuch in Berlin - Nigerias Außenminister Tuggar weist Trump-Vorwurf der Christenverfolgung zurück",
     "Arbeitsmarkt - Rund die Hälfte der Ukrainerinnen und Ukrainer in Deutschland erwerbstätig",
@@ -3003,11 +3001,11 @@
     "Kommentar - Sicherheit für Europa und die Ukraine erfordert radikales Umdenken",
     "Außenpolitik: Deutsche Interessen muss man erkennen können",
     "Auswärtiges Amt - Wadephul stößt Umstrukturierung an",
-    "Merz in Hamburg: „Was man am deutschen Brot hat, merkt man, wenn man im Ausland ist“"
+    "Merz in Hamburg: „Was man am deutschen Brot hat, merkt man, wenn man im Ausland ist“",
+    "Bundestag - Regierung und Opposition debattieren heute in Generaldebatte",
+    "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien"
   ],
   "hashes": [
-    "6898b06216b58ef843ea97da0896fc3d",
-    "606c7e7528a26db5a876109204641c12",
     "ba5c3213c1138feb8f6c58f9bb67c2ae",
     "b323501f9ef7d41d4e69743c5b455263",
     "fed97703bf3cbc216f711c9ce424761f",
@@ -4005,6 +4003,8 @@
     "31497da004c57fa478297746e9341164",
     "b0f6465f4a95e7bdd8f034cdbfef9497",
     "0beca5ef6f586332c8d209935ebb05fc",
-    "c8384b699a319cd3c4cfc6ed6376ebaa"
+    "c8384b699a319cd3c4cfc6ed6376ebaa",
+    "4a2e70a711ce650607197024bc08dea0",
+    "9e6bf82e2715967866bf51c6eca0c8ab"
   ]
 }
