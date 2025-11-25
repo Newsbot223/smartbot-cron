@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/betrieb-am-flughafen-wegen-drohnensichtung-kurzzeitig-unterbrochen-102.html",
-    "https://www.deutschlandfunk.de/bund-uebernimmt-keine-kosten-fuer-kleinere-flughaefen-niedersaechsischer-verkehrsminister-warnt-vor--100.html",
     "https://www.deutschlandfunk.de/die-situation-wurde-fuer-meine-familie-und-mich-unertraeglich-regionalpraesident-von-valencia-tritt--100.html",
     "https://www.spiegel.de/politik/deutschland/cdu-parteikollegen-kritisieren-aussenminister-johann-wadephul-fuer-aussagen-zu-syrien-rueckkehr-a-a09fcad7-0903-4326-9f46-bd65370a566b#ref=rss",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-industriestrompreis-kommt-zum-1-januar-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/kommission-wie-erzieher-besser-gehalten-werden-koennen-110790510.html",
     "https://www.faz.net/aktuell/politik/inland/spd-spitzenkandidat-steffen-krach-gibt-sich-gelassen-110790756.html",
     "https://www.deutschlandfunk.de/kommission-fuer-mehr-schutz-von-prostituierten-eingesetzt-102.html",
-    "https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-haertere-strafen-fuer-k-o-tropfen-a-14ac7500-27fc-4b90-842c-76561fcd200b#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-haertere-strafen-fuer-k-o-tropfen-a-14ac7500-27fc-4b90-842c-76561fcd200b#ref=rss",
+    "https://www.deutschlandfunk.de/selenskyj-und-trump-sehen-fortschritte-in-gespraechen-ueber-us-plan-fuer-ende-des-ukraine-kriegs-100.html",
+    "https://www.deutschlandfunk.de/start-der-haushaltswoche-100.html"
   ],
   "content_hashes": [
-    "25e70b3c1813f8478f968ea607c91acc",
-    "9aae30d0838df1225f537ffd11a5017e",
     "a9f9a3d2ea194a9196824e21a864130a",
     "4d8d2e4157317bc461a23870aeb81b2e",
     "96940252a8d8e02f6e906304bd70817e",
@@ -2001,11 +1999,11 @@
     "9641734be582b66d98d330a0a5673c49",
     "e126227ce6b3ecd244e0502be473adfd",
     "d1fde21952fdbf36db6eb40446c2fd54",
-    "95e90fa8d8ffe9035fd2e3f3aa18d0bd"
+    "95e90fa8d8ffe9035fd2e3f3aa18d0bd",
+    "f6cbd45b4b91c40e2986f89cb6194d2b",
+    "e24759710455ed6d6bf87873909028f6"
   ],
   "titles": [
-    "Bremen - Betrieb am Flughafen wegen Drohnensichtung kurzzeitig unterbrochen",
-    "Flugsicherung - Bund übernimmt keine Kosten für kleinere Flughäfen - niedersächsischer Verkehrsminister warnt vor Schließungen",
     "Spanien - \"Die Situation wurde für meine Familie und mich unerträglich\": Regionalpräsident von Valencia tritt ein Jahr nach Flutkatastrophe zurück",
     "CDU: Parteikollegen kritisieren Außenminister Johann Wadephul für Aussagen zu Syrien-Rückkehr",
     "Standort Deutschland - Wirtschaftsministerin Reiche: Industriestrompreis kommt zum 1. Januar 2026",
@@ -3003,11 +3001,11 @@
     "Erzieher in Kitas: Wenn die Zeit fehlt, sich intensiv um die Kleinen zu kümmern",
     "SPD-Spitzenkandidat: „Die Berliner haben keine Lust mehr auf Kai Wegner“",
     "Nach bundesweiter Debatte - Kommission für mehr Schutz von Prostituierten eingesetzt",
-    "Stefanie Hubig: Justizministerin will härtere Strafen für K.-o.-Tropfen"
+    "Stefanie Hubig: Justizministerin will härtere Strafen für K.-o.-Tropfen",
+    "Nach Verhandlungen in Genf - Selenskyj und Trump sehen Fortschritte in Gesprächen über US-Plan für Ende des Ukraine-Kriegs",
+    "Bundestag - Start der Haushaltswoche"
   ],
   "hashes": [
-    "7437e7b68b017221f9d35fac9ea2452d",
-    "7c6a9fa0ed86c56810faf6af2d5ae958",
     "f03814e1504e5d2950d006f98f8e823c",
     "d9045283a6e3411614ba7fb966472995",
     "2da7e409d19c9ca14251a5b3b06775a0",
@@ -4005,6 +4003,8 @@
     "1af1f6d60b5c7692638787ca1ac4eb6b",
     "e65fd71482679eabf50b80cbd16f75b8",
     "dc1247bbf2d1d5a6ca8c0dfb068ff561",
-    "7dca317d78ae857aa7d7398848f67010"
+    "7dca317d78ae857aa7d7398848f67010",
+    "f5fea7cc185212d6b2dc5fbd734169ac",
+    "2d4b0872211e370bb810a9f8ed725842"
   ]
 }
