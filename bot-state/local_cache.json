@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/demokrat-mamdani-favorit-bei-buergermeisterwahl-100.html",
-    "https://www.deutschlandfunk.de/eu-umweltminister-eroertern-klimaziele-gruenen-europaabgeordnete-reintke-mahnt-einigkeit-an-100.html",
-    "https://www.deutschlandfunk.de/welternaehrungsprogramm-startet-hilfsaufruf-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kommunalfinanzen-laender-saegen-am-ast-auf-dem-sie-sitzen-110762929.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-debatte-um-rueckkehr-und-abschiebungen-nach-syrien-100.html",
     "https://www.deutschlandfunk.de/afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-112.html",
     "https://www.deutschlandfunk.de/regelungen-zur-triage-mit-dem-grundgesetz-unvereinbar-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/klingbeil-warnt-wirtschaft-vor-annaeherung-an-afd-102.html",
     "https://www.deutschlandfunk.de/merz-fordert-staerkere-beteiligung-von-arbeitnehmern-an-wohlstandsgewinnen-102.html",
     "https://www.deutschlandfunk.de/us-vertreter-zu-gespraechen-mit-russland-in-abu-dhabi-102.html",
-    "https://www.deutschlandfunk.de/klimaaktivisten-muessen-rund-400-000-euro-zahlen-100.html"
+    "https://www.deutschlandfunk.de/klimaaktivisten-muessen-rund-400-000-euro-zahlen-100.html",
+    "https://www.deutschlandfunk.de/eu-will-hunde-und-katzen-durch-chip-pflicht-schuetzen-102.html",
+    "https://www.deutschlandfunk.de/klimaaktivisten-muessen-rund-400-000-euro-strafe-zahlen-plus-700-000-prozesskosten-100.html",
+    "https://www.deutschlandfunk.de/gericht-bestaetigt-bolsonaro-muss-27-jaehrige-gefaengnisstrafe-vollstaendig-verbuessen-100.html",
+    "https://www.deutschlandfunk.de/kommentar-zum-friedensplan-fuer-die-ukraine-fuenf-nach-zwoelf-fuer-die-europaeer-100.html"
   ],
   "content_hashes": [
-    "1c57e16d3c50b747e8e5213319ca865e",
-    "7af525bed29d013ffb511cfa4ad5e5bf",
-    "f7141b19d17e9a999ada4a55bece4f7a",
-    "28d7d8038411c738a3b784c0e3aa47a6",
     "e7e4089f32fa2ed7ff26d20eca33131f",
     "0a3337371a1532ec92a0e857a6b40438",
     "ca37aa6a4ef52ae01a10231eeea99e75",
@@ -2001,13 +1997,13 @@
     "0cb6d4ee87d560239ea5cb62febe8d79",
     "fe3b0972be1b4b67d69beb77f34a7574",
     "edeb056d295e14e94e034a4ad55436a8",
-    "28c8236ac60335c8430dae7897ce6e91"
+    "28c8236ac60335c8430dae7897ce6e91",
+    "c33b420c81c2171d764be58eb2c330c7",
+    "fc5d216d4a8d42a50f28789b2d16d272",
+    "24f0f973ecb8a0d35bef05a762e88964",
+    "0c884f461c48c3694bc61f620072a27b"
   ],
   "titles": [
-    "New York - Demokrat Mamdani Favorit bei Bürgermeisterwahl",
-    "Brüssel - EU-Umweltminister erörtern Klimaziele - Grünen-Europaabgeordnete Reintke mahnt Einigkeit an",
-    "Hurrikan Melissa - Welternährungsprogramm startet Hilfsaufruf",
-    "Kommunalfinanzen: Die Länder sägen am Ast, auf dem sie sitzen",
     "Geflüchtete - Merz dringt auf Abschiebungen nach Syrien",
     "Afghanen mit Aufnahmezusage fliegen nach Deutschland",
     "Bundesverfassungsgericht - Regelungen zur Triage mit dem Grundgesetz unvereinbar",
@@ -3003,13 +2999,13 @@
     "SPD-Chef - Klingbeil warnt Wirtschaft vor Annäherung an AfD",
     "Arbeitgebertag - Merz fordert stärkere Beteiligung von Arbeitnehmern an Wohlstandsgewinnen",
     "Ukraine-Krieg - US-Vertreter zu Gesprächen mit Russland in Abu Dhabi",
-    "Letzte Generation - Klimaaktivisten müssen rund 400.000 Euro zahlen"
+    "Letzte Generation - Klimaaktivisten müssen rund 400.000 Euro zahlen",
+    "Illegaler Tierhandel - EU will Hunde und Katzen durch Chip-Pflicht schützen",
+    "Letzte Generation - Klimaaktivisten müssen rund 400.000 Euro Strafe zahlen - plus 700.000 Prozesskosten",
+    "Brasilien - Gericht bestätigt: Bolsonaro muss 27-jährige Gefängnisstrafe vollständig verbüßen",
+    "Kommentar - Sicherheit für Europa und die Ukraine erfordert radikales Umdenken"
   ],
   "hashes": [
-    "43af7cd565af7b3e0fe14f088144726a",
-    "d0d862204fe78d85584705cae42b4cc4",
-    "65ddd8bf686fed1accdc6ed3ff5c34e8",
-    "c6ae1436d97e4308490e97650bf3ad5c",
     "145ab966ebee6b010aad65b07039dbfc",
     "6c1a41717d54ec8e9683d79013f9d775",
     "a8000de10c4b9ca95be469333a618491",
@@ -4005,6 +4001,10 @@
     "0401d52180098904e37ef2f2662d1c20",
     "ae633dced31df3c10f381e07d76344de",
     "b77fda28e75ca4f491b4470c5991fc98",
-    "ea99f7ac9e2d958c2f46b15a8ba14e56"
+    "ea99f7ac9e2d958c2f46b15a8ba14e56",
+    "caea666326190ba8795e5bebf42ab157",
+    "fbc68f957d08dd0b6aa5fff9d40d6098",
+    "09ae6f98dacbf307b1127010068b2be6",
+    "31497da004c57fa478297746e9341164"
   ]
 }
