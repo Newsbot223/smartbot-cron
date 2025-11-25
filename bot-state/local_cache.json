@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/juristen-kritisieren-zu-starken-fokus-auf-virologie-110763228.html",
-    "https://www.deutschlandfunk.de/russland-verzeichnet-laut-analyse-langsam-aber-stetig-gelaendegewinne-100.html",
-    "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-wirtschaftliche-zusammenarbeit-ausbauen-102.html",
     "https://www.deutschlandfunk.de/trump-regierung-kuerzt-lebensmittelhilfen-fuer-beduerftige-100.html",
     "https://www.spiegel.de/politik/syrien-friedrich-merz-plant-gespraeche-ueber-abschiebungen-mit-al-sharaa-a-782f1718-3626-4aa7-9b21-b39267477602#ref=rss",
     "https://www.deutschlandfunk.de/hunderte-bagger-bei-schlag-gegen-goldabbau-im-amazonas-zerstoert-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/reiche-fuer-braucht-erneuerungskur-arbeitgeber-fordern-von-politik-mehr-ambitionen-102.html",
     "https://www.deutschlandfunk.de/pflege-mindestlohn-soll-steigen-100.html",
     "https://www.deutschlandfunk.de/vw-kann-nach-eigenen-angaben-autos-vollstaendig-in-china-entwickeln-und-bauen-100.html",
-    "https://www.deutschlandfunk.de/kuerzlich-freigelassener-dissident-statkewitsch-wieder-in-haft-100.html"
+    "https://www.deutschlandfunk.de/kuerzlich-freigelassener-dissident-statkewitsch-wieder-in-haft-100.html",
+    "https://www.deutschlandfunk.de/dulger-mahnt-mehr-reformen-an-100.html",
+    "https://www.deutschlandfunk.de/medien-vierter-hauptverdaechtiger-des-kunstraubs-im-louvre-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/festnahmen-nach-razzia-gegen-ausbeuter-netzwerk-darunter-sicherheitskraefte-100.html"
   ],
   "content_hashes": [
-    "6d27c7a6034b853693ae45b4936960d0",
-    "88e2ad6ddbbdd0f512356974663f207d",
-    "cfad5472ceaa01b472784c944cbc1a7e",
     "3c1416f105b458d0db4ac21bc12d9e7f",
     "f31826aa7cf43b620a0d5ee81870686f",
     "b7c495de115f0eab9abbc2f7474fe7ff",
@@ -2001,12 +1998,12 @@
     "14e0fe18e3933a6b934d01e0e365badd",
     "ec26b52aacf48e81bba9e52316870ff5",
     "a56729e6fee8311b9e67de0878fb0b72",
-    "454f7a4cbf2588bbe32eb55b4f3e9d59"
+    "454f7a4cbf2588bbe32eb55b4f3e9d59",
+    "b1cd76cbf5e942c1e04d69001c991915",
+    "f2053cf37dbc522a69ed52371cd4e037",
+    "f37f8046b1262747644e2f0ec1639fb1"
   ],
   "titles": [
-    "Corona-Kommission: Juristen kritisieren zu starken Fokus auf Virologie",
-    "Ukraine-Krieg - Russland verzeichnet laut Analyse langsam aber stetig Geländegewinne",
-    "Afrika-Besuch - Deutschland und Ghana wollen wirtschaftliche Zusammenarbeit ausbauen",
     "Haushaltssperre - Trump-Regierung kürzt Lebensmittelhilfen für Bedürftige",
     "Syrien: Friedrich Merz plant Gespräche über Abschiebungen mit al-Sharaa",
     "Südamerika - Hunderte Bagger bei Schlag gegen Goldabbau im Amazonas zerstört",
@@ -3003,12 +3000,12 @@
     "Wirtschaftsstandort Deutschland - Reiche für braucht Erneuerungskur - Arbeitgeber fordern von Politik mehr Ambitionen",
     "Kommission - Pflege-Mindestlohn soll steigen",
     "Autobranche - VW kann nach eigenen Angaben Autos vollständig in China entwickeln und bauen",
-    "Belarus - Kürzlich freigelassener Dissident Statkewitsch wieder in Haft"
+    "Belarus - Kürzlich freigelassener Dissident Statkewitsch wieder in Haft",
+    "Arbeitgebertag in Berlin - Dulger mahnt mehr Reformen an",
+    "Paris - Medien: Vierter Hauptverdächtiger des Kunstraubs im Louvre festgenommen",
+    "Portugal - Festnahmen nach Razzia gegen Ausbeuter-Netzwerk - darunter Sicherheitskräfte"
   ],
   "hashes": [
-    "1ca0a8916cbbdfb23fa0ff102345cb89",
-    "2d057d27233b1ca2688b6802a31b08ba",
-    "cd046be52f4cb8113eecc95fd5446bda",
     "791953385d63598b731736f40a60be78",
     "6c6e2701e48580046a8700033735afc0",
     "b183d76402b6f1142a9509d706507e01",
@@ -4005,6 +4002,9 @@
     "e97b3a353355190159f8da85ff86f0c4",
     "181d1fa08537967a71d0d205fb81e0c8",
     "5dd21590df10484d99c3a9a7bb293f3b",
-    "c33254835e46b45f647cb779891cb01a"
+    "c33254835e46b45f647cb779891cb01a",
+    "c990ccebbf1199ffa806a4f240c87477",
+    "49f2354362c8c7a384fff53036b8b389",
+    "ab2a517d72ee695bab1824ccad23223f"
   ]
 }
