@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-den-syrischen-fluechtlingen-viele-von-ihnen-muessen-zurueck-110763076.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-csu-will-kommunen-staerken-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-auch-in-region-kordofan-auf-der-flucht-vor-kaempfen-zwischen-armee-und-rsf-miliz-100.html",
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-ermittelt-gegen-caroline-bosbach-cdu-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-ghana-wollen-zusammenarbeit-ausbauen-100.html",
     "https://www.deutschlandfunk.de/openai-und-microsoft-sichern-sich-ki-rechenleistung-bei-anderen-konzernen-102.html",
     "https://www.deutschlandfunk.de/bas-spd-plant-buerokratische-entlastung-beim-arbeitsschutz-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/app-soll-alle-stolpersteine-deutschlands-erfassen-100.html",
     "https://www.deutschlandfunk.de/interview-mit-ferda-ataman-antidiskriminierungsbeauftragte-zu-gewalt-gg-frauen-100.html",
     "https://www.deutschlandfunk.de/mehrere-tote-bei-pakistanischen-angriffen-darunter-viele-kinder-100.html",
-    "https://www.deutschlandfunk.de/razzia-gegen-gruppe-wegen-hunderter-bombendrohungen-bundesweit-100.html"
+    "https://www.deutschlandfunk.de/razzia-gegen-gruppe-wegen-hunderter-bombendrohungen-bundesweit-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-kuendigt-reformen-der-sozialen-sicherungssysteme-an-100.html",
+    "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matviichuk-ueber-die-lage-in-der-ukraine-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-bauhauptgewerbe-verzeichnet-deutlich-mehr-auftraege-bip-stagniert-a-bfe9cbbd-de4d-41e0-bbc1-3b1ac0e74736#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/warum-die-kritik-an-friedrich-merz-widersinnig-ist-110790778.html"
   ],
   "content_hashes": [
-    "e58478bb7396fbd2be5c833fc867da27",
-    "291322b5ecc2d54a59af705daa5a0de4",
-    "d7653291a03964f5639c139c8ec1a7c0",
-    "30650b8b551c5136e263b11d9e41f33a",
     "f5716981e1f479115472e8c1eb9d073b",
     "1335a2408ea01a840bfeee68d130f760",
     "4081ea3e3a068c1c468a40d61bd56ced",
@@ -2001,13 +1997,13 @@
     "2d692a836fe361916f0541874761ca17",
     "df13f9b9878659a2da5763c9b78e3f47",
     "4dc9c7c3b9bf7f4be6c56650651e1e56",
-    "121758c114843ce6003dc72a46087e5b"
+    "121758c114843ce6003dc72a46087e5b",
+    "2b330fbf2939c18e56a1264525c739bb",
+    "e70e91a8af0b6d94a4e8fcf7d7f1445a",
+    "acf20009e3e41380991e0b8feaf792a2",
+    "85a6b879f47d7e255ebeb5c11f337433"
   ],
   "titles": [
-    "Debatte um Flüchtlinge: Soll Syrien nur von Schwerverbrechern aufgebaut werden?",
-    "Mannheim - Bundesinnenminister Dobrindt (CSU) will Kommunen stärken",
-    "Sudan - Zehntausende auch in Region Kordofan auf der Flucht vor Kämpfen zwischen Armee und RSF-Miliz",
-    "Anfangsverdacht - Staatsanwaltschaft ermittelt gegen Caroline Bosbach (CDU)",
     "Afrika-Besuch - Deutschland und Ghana wollen Zusammenarbeit ausbauen",
     "Künstliche Intelligenz - OpenAI und Microsoft sichern sich KI-Rechenleistung bei anderen Konzernen",
     "Bundesarbeitsministerin - Bas (SPD) plant bürokratische Entlastung beim Arbeitsschutz",
@@ -3003,13 +2999,13 @@
     "Erinnerung an NS-Opfer - App soll alle Stolpersteine Deutschlands erfassen",
     "Gewalt im Alltag - Ataman: Frauen müssen sich gesetzlich wehren können",
     "Afghanistan - Mehrere Tote bei pakistanischen Angriffen, darunter viele Kinder",
-    "Kriminalität - Razzia gegen Gruppe wegen hunderter Bombendrohungen bundesweit"
+    "Kriminalität - Razzia gegen Gruppe wegen hunderter Bombendrohungen bundesweit",
+    "Etatberatungen im Bundestag - Klingbeil kündigt Reformen der sozialen Sicherungssysteme an",
+    "Krieg in der Ukraine - Menschenrechtlerin: \"Wenn du deiner Müdigkeit nachgibst, wirst du getötet\"",
+    "Konjunktur: Bauhauptgewerbe verzeichnet deutlich mehr Aufträge – BIP stagniert",
+    "Schwierige Koalition: Die widersinnige Kritik am Kanzler"
   ],
   "hashes": [
-    "2b12de1dcf6bb22d1dc5a1d6a7eaa850",
-    "680349a12b8549b253596b15629ed85e",
-    "72f53673e1d2fba68e7f4114e086717c",
-    "2f6eba7ebf482093aef66216ad398002",
     "e77bfaf09f2040bf026f689489f5ce70",
     "54a3c641bc97adf30eb3b9281cdf7a80",
     "ba68f3991ae8563ee783052f5ac14132",
@@ -4005,6 +4001,10 @@
     "5f0f58b308fb0118df4f90604d686bfa",
     "031eefd358448af86952ca184599be51",
     "943bf6a3fb4bb17392483aab157cc8f4",
-    "b39f2addbbd65f2acff872911b82baac"
+    "b39f2addbbd65f2acff872911b82baac",
+    "f801df2648aafc68f0e5eb7d61660c41",
+    "d6eea3f2c0ffa9968543fa63c55aa992",
+    "f19117f232f31a414daba46c31305f52",
+    "74f2873b30ea86250290b77d37de4995"
   ]
 }
