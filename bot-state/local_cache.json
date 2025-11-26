@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-bietet-afghanen-in-pakistan-geld-statt-einreise-100.html",
-    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-100.html",
-    "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/deutschkenntnisse-beschleunigen-integration-von-ukrainern-110764878.html",
     "https://www.faz.net/aktuell/politik/inland/zwei-minister-gehen-suetterlin-waack-und-schwarz-110764473.html",
     "https://www.deutschlandfunk.de/gericht-stoppt-betriebsratswahl-bei-fraport-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/chefin-palla-werden-rund-um-weihnachtsfeiertage-arbeiten-an-baustellen-einschraenken-100.html",
     "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html",
     "https://www.spiegel.de/wirtschaft/eu-beitrag-deutschland-bleibt-groesster-nettozahler-trotz-wirtschaftskrise-a-32a6eb4f-6396-45ea-98d3-665165017a11#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/thueringen-darf-extremisten-von-juristischer-ausbildung-ausschliessen-110791601.html"
+    "https://www.faz.net/aktuell/politik/inland/thueringen-darf-extremisten-von-juristischer-ausbildung-ausschliessen-110791601.html",
+    "https://www.deutschlandfunk.de/verhandlungen-fuer-kriegsende-interview-oleksii-makeiev-botschafter-der-ukraine-102.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-niemand-minderheitsregierungen-mag-110791281.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-stellt-sich-dem-bundestag-in-der-generaldebatte-faz-110093143.html"
   ],
   "content_hashes": [
-    "69edf0ef386d977f1488fc06cbacdcbd",
-    "2890f0e32aac179bfe61831e288a1550",
-    "824b9be9e15adb18bc0a789af1aa1aee",
     "bee74b3cd74d557cb1e13d013f1b9560",
     "80a87b68907ced9b17e46c1feb9be0e9",
     "e1b2765e351f3ad9b96ff44f91f7d178",
@@ -2001,12 +1998,12 @@
     "93d6746dd2f76f86f5aa1a8764168178",
     "682c0b42be39f9d039cbdd11a931aaf7",
     "23b5883d210f5ffb053c5a1079dc8c8a",
-    "c0533c52a35ba50400751d40b7afd1c6"
+    "c0533c52a35ba50400751d40b7afd1c6",
+    "738a62848953a9d7b303b2c06bae6cbe",
+    "e50f876486b4cb8017d5b9cfc823b62e",
+    "32c31f4b321c89c80a7ffbb2eb9d99d3"
   ],
   "titles": [
-    "ARD-Recherche - Bundesregierung bietet Afghanen in Pakistan Geld statt Einreise",
-    "Nach Verfassungsgerichtsurteil - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
-    "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien",
     "Ukraine-Flüchtlinge: Besser Deutsch sprechen hilft",
     "Schleswig-Holstein: Zwei weitere Minister verlassen Kabinett",
     "Wirtschaft - Gericht stoppt Betriebsratswahl bei Fraport",
@@ -3003,12 +3000,12 @@
     "Deutsche Bahn - Chefin Palla: Werden rund um Weihnachtsfeiertage Arbeiten an Baustellen einschränken",
     "Statistik - Süßigkeitenpreise teils deutlich gestiegen",
     "EU-Beitrag: Deutschland bleibt größter Nettozahler trotz Wirtschaftskrise",
-    "Gerichtsurteil: Thüringen darf Extremisten von juristischer Ausbildung ausschließen"
+    "Gerichtsurteil: Thüringen darf Extremisten von juristischer Ausbildung ausschließen",
+    "Zukunft der Ukraine - Botschafter schließt Gebietsabtretungen an Russland aus",
+    "Regieren ohne Mehrheit: Warum niemand Minderheitsregierungen mag",
+    "Liveblog Bundespolitik: Merz: Werden bei Unterstützung der Ukraine nicht nachlassen"
   ],
   "hashes": [
-    "276db88ca4b91838e6b043a76eebed66",
-    "8f66f0a6ca9c57d3b64a5f1b3823f828",
-    "0a494cea3a06ce486923bddfff88c238",
     "b65505f775dd665234d160ad8f5d155b",
     "e503aa35428e7a563099477208d4f959",
     "7008dfd65342aa2ee98363414b40a2a0",
@@ -4005,6 +4002,9 @@
     "69263281372fa5a07e867e95a87a2fa6",
     "95c75e96db3b3359938f1d438588033e",
     "79119bf96a6eedfab0422e380648fdf2",
-    "2cb094c015a6d98a6821e3a46a85353a"
+    "2cb094c015a6d98a6821e3a46a85353a",
+    "406b389d4b1addb2862a73eee1349f7f",
+    "f62e047fc79e536d9c6fa88a09dba3f4",
+    "f9eeb5febf9cf416d4963c655d308df4"
   ]
 }
