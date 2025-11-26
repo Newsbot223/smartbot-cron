@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-102.html",
-    "https://www.deutschlandfunk.de/beratungen-der-eu-umweltminister-bislang-ohne-einigung-102.html",
-    "https://www.deutschlandfunk.de/erdbeobachtungssatellit-sentinel-1d-ins-all-gestartet-104.html",
     "https://www.deutschlandfunk.de/terre-des-hommes-kritisiert-eltern-fuer-zeigen-von-kindern-auf-social-media-106.html",
     "https://www.deutschlandfunk.de/weitere-afghanen-mit-aufnahmezusage-angekommen-106.html",
     "https://www.deutschlandfunk.de/von-hamas-uebergebene-leiche-als-israelischer-soldat-identifiziert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/georgia-chefanklaeger-laesst-anklage-gegen-trump-wegen-versuchter-wahlbeeinflussung-fallen-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-will-mehr-druck-auf-putin-100.html",
     "https://www.deutschlandfunk.de/aliexpress-sperrt-anbieter-von-kinder-sexpuppen-100.html",
-    "https://www.deutschlandfunk.de/interesse-an-stasi-akten-weiterhin-gross-100.html"
+    "https://www.deutschlandfunk.de/interesse-an-stasi-akten-weiterhin-gross-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-bei-hochausbrand-steigt-auf-36-tote-mehr-als-270-vermisste-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-warnt-in-spanien-vor-erstarken-autoritaerer-und-extremistischer-tendenzen-in-europa-100.html",
+    "https://www.deutschlandfunk.de/strassenzeitung-hinz-kunzt-startet-digitale-ausgabe-weltweit-erstmals-102.html"
   ],
   "content_hashes": [
-    "9ddbcc33d486f4a69696cb5dc81bfc1d",
-    "72422ef397932bba6d96b01299a549a6",
-    "88f08ee22ca9f1e28dd73a1ffa35211e",
     "3b91d80e95f2a2bd7b266cc7f43f1b4a",
     "f5b28ec97328efac8bd73734585f7223",
     "ba5363339ff376d8299e4dd4ef18e5ae",
@@ -2001,12 +1998,12 @@
     "a41c276032de68693fbdf13954271943",
     "54de98510c1e7e45d5785eb42c56c245",
     "8487283c15c5e706e1e1ab80303493e1",
-    "6835a74c51c5c2d64450398a6cbe4c60"
+    "6835a74c51c5c2d64450398a6cbe4c60",
+    "b5e62843aa82c2ef156790854ebc310f",
+    "9b2c0e983a176a3d5891dc53ffae9eb0",
+    "774a5c983de82291b0d64d7a932f91c3"
   ],
   "titles": [
-    "Nach Beschluss des Verfassungsgerichts - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
-    "Klimaziele - Beratungen der EU-Umweltminister bislang ohne Einigung",
-    "Copernicus-Programm - Erdbeobachtungssatellit Sentinel-1D ins All gestartet",
     "\"Ausbeutung und Kinderarbeit\" - Terre des Hommes kritisiert Eltern für Zeigen von Kindern auf Social Media",
     "Hannover - Weitere Afghanen mit Aufnahmezusage angekommen",
     "Gazastreifen - Von Hamas übergebene Leiche als israelischer Soldat identifiziert",
@@ -3003,12 +3000,12 @@
     "US-Wahl 2020 - Georgia: Chefankläger lässt Anklage gegen Trump wegen versuchter Wahlbeeinflussung fallen",
     "Krieg gegen die Ukraine - EU-Außenbeauftragte Kallas will mehr Druck auf Putin",
     "Handelsplattform - AliExpress sperrt Anbieter von Kinder-Sexpuppen",
-    "DDR - Interesse an Stasi-Akten weiterhin groß"
+    "DDR - Interesse an Stasi-Akten weiterhin groß",
+    "Hongkong - Zahl der Toten bei Hochausbrand steigt auf 36 Tote - mehr als 270 Vermisste",
+    "Staatsbesuch - Steinmeier warnt in Spanien vor Erstarken autoritärer und extremistischer Tendenzen in Europa",
+    "Medien - Straßenzeitung \"Hinz & Kunzt\" startet digitale Ausgabe - \"weltweit erstmals\""
   ],
   "hashes": [
-    "9c1e6b92168101e43dc0536889c1f554",
-    "9e1a66cc70fdb19fd80ace8326f04c83",
-    "0107feb2d7f6b710c7e5381c8fe19ba6",
     "a57a8acbf115abd7294338a4bc339297",
     "7515a62dbb8b3fe0815a7f5be78f13a1",
     "2c1f3869110ef7e6fa9cb09adb9f232d",
@@ -4005,6 +4002,9 @@
     "c832d5376b37684b8a8803ad8dda48a6",
     "8678e3af6fdf9c5f923057e2c0fa7dc5",
     "33898f68251da803eb5b7fec82d27ad2",
-    "27c2fca18a3a54c5406a1fd1ca181c80"
+    "27c2fca18a3a54c5406a1fd1ca181c80",
+    "40f6ced415a20af9bb02c9fc270640e1",
+    "445046af59892659f31a0f2f866c00e9",
+    "2029d714c3cacad3b64ac3504e24d7e4"
   ]
 }
