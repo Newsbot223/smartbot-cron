@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/demokraten-gewinnen-gouverneurswahlen-in-new-jersey-und-virginia-102.html",
-    "https://www.deutschlandfunk.de/neue-syrien-aeusserung-von-wadephul-stoesst-auf-unverstaendnis-102.html",
     "https://www.deutschlandfunk.de/mindestens-sieben-tote-bei-absturz-von-frachtflugzeug-in-us-bundesstaat-kentucky-102.html",
     "https://www.deutschlandfunk.de/polizei-bewertet-antifa-bekennerschreiben-zum-brandanschlag-auf-auto-von-afd-politiker-baumann-als-a-100.html",
     "https://www.deutschlandfunk.de/warken-pflegegrade-nicht-abschaffen-sondern-anpassen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/putsch-in-guinea-bissau-militaer-verkuendet-machtuebernahme-100.html",
     "https://www.deutschlandfunk.de/14-jahre-haft-fuer-frueheren-praesidenten-vizcarra-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-muss-sich-um-gefolgschaft-sorgen-110791977.html",
-    "https://www.deutschlandfunk.de/hochausbrand-bislang-36-tote-noch-rund-280-vermisste-drei-festnahmen-100.html"
+    "https://www.deutschlandfunk.de/hochausbrand-bislang-36-tote-noch-rund-280-vermisste-drei-festnahmen-100.html",
+    "https://www.deutschlandfunk.de/praesident-tinubu-erklaert-wegen-entfuehrungen-nationalen-sicherheitsnotstand-100.html",
+    "https://www.deutschlandfunk.de/trump-werde-suedafrika-nicht-zu-g20-gipfel-im-kommenden-jahr-einladen-100.html"
   ],
   "content_hashes": [
-    "b64e103f89bfcea0f92bc71766b77430",
-    "78c5c10c3c9c51fa26ef1640e46378e1",
     "a37e2bd7c377b28ea97a4a1132a12d34",
     "369a287cdb375173f5d667f657a48371",
     "a7838de17fe5b85a965a3bbdc9332754",
@@ -2001,11 +1999,11 @@
     "efe673e426d2340938af877e2847f407",
     "27f8bfbd4a724afd9295696dadb0b9b8",
     "f3351ace9e6efee0bbb0e2ec846fc5c9",
-    "a7e99d6cd0df3d151b065f4e8da7885a"
+    "a7e99d6cd0df3d151b065f4e8da7885a",
+    "ad90b9737afd5902daf2fec394c37f1d",
+    "6e70efad1ecda7e02e2db1e9338c4a2c"
   ],
   "titles": [
-    "USA - Demokraten gewinnen Gouverneurswahlen in New Jersey und Virginia",
-    "Unionsfraktion - Neue Syrien-Äußerung von Wadephul stößt auf Unverständnis",
     "Mindestens sieben Tote bei Absturz von Frachtflugzeug in US-Bundesstaat Kentucky",
     "Linksextremismus - Polizei bewertet Antifa-Bekennerschreiben zum Brandanschlag auf Auto von AfD-Politiker Baumann als authentisch",
     "Gesundheit - Warken: Pflegegrade nicht abschaffen, sondern anpassen",
@@ -3003,11 +3001,11 @@
     "Westafrika - Putsch in Guinea-Bissau: Militär verkündet Machtübernahme",
     "Peru - 14 Jahre Haft für früheren Präsidenten Vizcarra",
     "Der Kanzler und seine Truppen: Merz muss mehr liefern",
-    "Hongkong - Hochausbrand: Bislang 36 Tote, noch rund 280 Vermisste - drei Festnahmen"
+    "Hongkong - Hochausbrand: Bislang 36 Tote, noch rund 280 Vermisste - drei Festnahmen",
+    "Nigeria - Präsident Tinubu erklärt wegen Entführungen nationalen Sicherheitsnotstand",
+    "USA - Trump: \"Werde Südafrika nicht zu G20-Gipfel im kommenden Jahr einladen\""
   ],
   "hashes": [
-    "ba8903522d1df93b7ef0c49eda828008",
-    "c4cbabcaaa5a1078810e2aef43a81a51",
     "537b65bb020b622937ea4eeb140db513",
     "cf912436a5c07af6380accf65bce6746",
     "18346e109af1687bb24ddc4860e009e3",
@@ -4005,6 +4003,8 @@
     "53f2ae246642e09ac16686d142f558ec",
     "34ff494743ed94ef73113f4ed69f52b7",
     "4b8ad853c6cba1f054b903a5375c5173",
-    "df4c60894e3a61c0344b8afb2f189f8f"
+    "df4c60894e3a61c0344b8afb2f189f8f",
+    "788bde64034813d2afe8840ef7c33891",
+    "94662cfd6232eccac1e297320959add5"
   ]
 }
