@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kritik-an-hohen-preisen-beim-laden-von-e-autos-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stadtbild-und-migration-das-asylrecht-ist-kein-einwanderungsrecht-110764838.html",
-    "https://www.deutschlandfunk.de/koeln-erlaesst-haushaltssperre-100.html",
     "https://www.spiegel.de/wissenschaft/technik/offshore-windparks-viele-anlagen-sind-unzureichend-fuer-extremwinde-ausgelegt-a-625fa9cc-4d91-42a9-a2e1-819df47c35fd#ref=rss",
     "https://www.deutschlandfunk.de/trump-versucht-massiven-einfluss-auf-buergermeisterwahl-zu-nehmen-aufruf-an-juden-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-will-stimm-vertretung-bei-mutterschutz-erlauben-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/merz-frieden-und-freiheit-gibt-es-nicht-umsonst-100.html",
     "https://www.deutschlandfunk.de/verwaltungsgerichtshof-kippt-kiff-verbot-im-englischen-garten-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-hasselmann-kritisiert-union-als-fraktion-komplett-unberechenbar-faz-110093143.html",
-    "https://www.deutschlandfunk.de/weitere-anstrengungen-fuer-frieden-in-der-ukraine-noetig-100.html"
+    "https://www.deutschlandfunk.de/weitere-anstrengungen-fuer-frieden-in-der-ukraine-noetig-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-deutschland-wird-weitere-afghanen-mit-zusage-aufnehmen-100.html",
+    "https://www.deutschlandfunk.de/indischer-ordensmann-pottackal-wird-mainzer-weihbischof-100.html",
+    "https://www.aljazeera.com/video/quotable/2025/11/26/eu-au-summit-shows-west-now-taking-africa-quite?traffic_source=rss"
   ],
   "content_hashes": [
-    "0aba5b6bc651299e38e2ce57ded94b64",
-    "8b87d6e61896e6160e49c6212d8b236c",
-    "b8dbb6567da9d4842f0f84ffd4d8ece8",
     "8907d8f156fabbd722a2f6998efb2495",
     "def50f88187374777311f51a4be352ef",
     "ddc6c79188d130561c4a39b12704dce7",
@@ -2001,12 +1998,12 @@
     "f5914bb62081af9355e7e5f317d5bd37",
     "43287c0a6759214400c4de778cd2b402",
     "bd3965a4e8044e97a9354caf64cfc0a2",
-    "1e565f9b6ece11dbdde28d1c0a6df9eb"
+    "1e565f9b6ece11dbdde28d1c0a6df9eb",
+    "aa7d65314f76748f01489f4236d3afea",
+    "e308458a2d7238fdc1e591ce2887d484",
+    "6ced54315d66026304f28ddf9f0275df"
   ],
   "titles": [
-    "Monopolkommission - Kritik an hohen Preisen beim Laden von E-Autos",
-    "Stadtbild und Migration: Das Asylrecht ist kein Einwanderungsrecht",
-    "Gestiegenes Defizit - Köln erlässt Haushaltssperre",
     "Offshore-Windparks: Viele Anlagen sind unzureichend für Extremwinde ausgelegt",
     "New York - Trump versucht, massiven Einfluss auf Bürgermeisterwahl zu nehmen: Aufruf an Juden",
     "Brüssel - EU-Parlament will Stimm-Vertretung bei Mutterschutz erlauben",
@@ -3003,12 +3000,12 @@
     "Generaldebatte im Bundestag - Merz: \"Frieden und Freiheit gibt es nicht umsonst\"",
     "Cannabiskonsum in München - Verwaltungsgerichtshof kippt Kiff-Verbot im Englischen Garten",
     "Liveblog Bundespolitik: Haßelmann: „Sie sind als Fraktion komplett unberechenbar“",
-    "Von der Leyen - Weitere Anstrengungen für Frieden in der Ukraine nötig"
+    "Von der Leyen - Weitere Anstrengungen für Frieden in der Ukraine nötig",
+    "Ortskräfte und Menschenrechtler - Dobrindt: \"Deutschland wird weitere Afghanen mit Zusage aufnehmen\"",
+    "Katholische Kirche - Indischer Ordensmann Pottackal wird Mainzer Weihbischof",
+    "EU–AU Summit Shows West now Taking Africa “Quite Seriously”"
   ],
   "hashes": [
-    "75e20a4ef2cd5c47138649154cf12c6c",
-    "f7a4bd1b6cefb05628442ef159bcbeb2",
-    "281def84da482b2a7392465726dcdb8c",
     "6b5fdd463689f908c74fbc8ac7096027",
     "650be539ed42d453bb94714effc84d5f",
     "4a850a432ef4e9974d8b1aaa497382d9",
@@ -4005,6 +4002,9 @@
     "248d056d3d9fff1d57219c9aac59cfe5",
     "ba8a3e676c1a36854912c97f7a618f7a",
     "b01e69a53e8483db1538219c0dcb7957",
-    "ea8e5c5c4e2bfa5f9f412f95e530fc2b"
+    "ea8e5c5c4e2bfa5f9f412f95e530fc2b",
+    "77da9600223fcc2dc4d2e42cc7897a87",
+    "731c9df7a01c5291bcdba51b6534f3d9",
+    "4e4f30ea02ec5f25bccaafac503c091a"
   ]
 }
