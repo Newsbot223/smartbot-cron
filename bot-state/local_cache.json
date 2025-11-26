@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-parlament-will-stimm-vertretung-bei-mutterschutz-erlauben-100.html",
-    "https://www.deutschlandfunk.de/sondierungsgespraeche-zu-koalition-in-den-niederlanden-begonnen-100.html",
-    "https://www.deutschlandfunk.de/afghanen-mit-aufnahmezusage-in-deutschland-angekommen-100.html",
     "https://www.deutschlandfunk.de/nach-messerangriff-spd-politikerin-stalzer-als-buergermeisterin-in-herdecke-vereidigt-100.html",
     "https://www.deutschlandfunk.de/pianist-justus-frantz-erhaelt-freundschaftsorden-von-putin-102.html",
     "https://www.deutschlandfunk.de/entwarnung-fuer-trinkwasser-in-wiesbaden-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/indischer-ordensmann-pottackal-wird-mainzer-weihbischof-100.html",
     "https://www.aljazeera.com/video/quotable/2025/11/26/eu-au-summit-shows-west-now-taking-africa-quite?traffic_source=rss",
     "https://www.deutschlandfunk.de/rossmann-und-vorwerk-verlassen-verband-der-familienunternehmer-100.html",
-    "https://www.faz.net/aktuell/politik/inland/generaldebatte-im-bundestag-merz-gibt-sich-schwungvoll-accg-200267399.html"
+    "https://www.faz.net/aktuell/politik/inland/generaldebatte-im-bundestag-merz-gibt-sich-schwungvoll-accg-200267399.html",
+    "https://www.deutschlandfunk.de/wadephul-mahnt-geschlossene-europaeische-haltung-zu-ukraine-an-102.html",
+    "https://www.deutschlandfunk.de/berufungsgericht-bestaetigt-sechsmonatige-haftstrafe-gegen-ex-praesident-sarkozy-100.html",
+    "https://www.deutschlandfunk.de/umfrage-ki-nutzung-in-deutschland-steigt-deutlich-an-102.html"
   ],
   "content_hashes": [
-    "ddc6c79188d130561c4a39b12704dce7",
-    "14a59c3ce7e2a0e3663afab61035478b",
-    "02e18ec60ac33650c568283f2c41fda3",
     "6aa13dbaac058ee5c32caf21392d3eda",
     "1ee1419697ce2569cb8ded522117efc2",
     "374d510b892aff3eb03c77cb0fbcc36e",
@@ -2001,12 +1998,12 @@
     "e308458a2d7238fdc1e591ce2887d484",
     "6ced54315d66026304f28ddf9f0275df",
     "2ce53eaa2c329b0413ae367f2cbdb75e",
-    "441340cbbc5628581e0444035bf45472"
+    "441340cbbc5628581e0444035bf45472",
+    "77858ced2d01a666eeba563abaf86d05",
+    "f7f47fcb35c499ca053ec45d4c416cad",
+    "5d496b7a8ca81a95fc2c87782b1e0fe4"
   ],
   "titles": [
-    "Brüssel - EU-Parlament will Stimm-Vertretung bei Mutterschutz erlauben",
-    "Nach D66-Wahlsieg - Sondierungsgespräche zu Koalition in den Niederlanden begonnen",
-    "Ehemalige Ortskräfte - Afghanen mit Aufnahmezusage in Deutschland angekommen",
     "Nordrhein-Westfalen - Nach Messerangriff: SPD-Politikerin Stalzer als Bürgermeisterin in Herdecke vereidigt",
     "Umstrittene Auszeichnung - Pianist Justus Frantz erhält Freundschaftsorden von Putin",
     "Wasserversorgung - Entwarnung für Trinkwasser in Wiesbaden",
@@ -3003,12 +3000,12 @@
     "Katholische Kirche - Indischer Ordensmann Pottackal wird Mainzer Weihbischof",
     "EU–AU Summit Shows West now Taking Africa “Quite Seriously”",
     "Gespräche mit AfD - Rossmann und Vorwerk verlassen Verband der Familienunternehmer",
-    "Generaldebatte in Berlin: So schwungvoll hat man Merkel selten und Scholz nie erlebt"
+    "Generaldebatte in Berlin: So schwungvoll hat man Merkel selten und Scholz nie erlebt",
+    "Haushaltdebatte - Wadephul mahnt geschlossene europäische Haltung zu Ukraine an",
+    "Frankreich - Berufungsgericht bestätigt sechsmonatige Haftstrafe gegen Ex-Präsident Sarkozy",
+    "Chat GPT & Co. - Umfrage: KI-Nutzung in Deutschland steigt deutlich an"
   ],
   "hashes": [
-    "4a850a432ef4e9974d8b1aaa497382d9",
-    "8a0ce53f038ece41f1a5e55412a93c3e",
-    "b0c1b152876ab13aab3a111f46ace910",
     "529b6a8e1c4ec1552bf52e02c56aef9b",
     "2ae2c27dc416aa7f8d98fb60ad906f9a",
     "054e41935ac820f96ebbe893dff46142",
@@ -4005,6 +4002,9 @@
     "731c9df7a01c5291bcdba51b6534f3d9",
     "4e4f30ea02ec5f25bccaafac503c091a",
     "8d3a49ec182e6e63322f136c2a50fb0b",
-    "8226d267dc518b2ee17e2d52b1a8331e"
+    "8226d267dc518b2ee17e2d52b1a8331e",
+    "19527e3c81812c5cd073982e07593d2f",
+    "997b9fb9f1c171efd3bcf670ca240ba4",
+    "e92f03fc9f36a9f587d14f30163e33dc"
   ]
 }
