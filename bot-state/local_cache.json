@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-umweltminister-eroertern-klimaziele-schneider-sind-kompromissbereit-102.html",
-    "https://www.deutschlandfunk.de/nigerias-aussenminister-tuggar-weist-trump-vorwurf-der-christenverfolgung-zurueck-102.html",
-    "https://www.deutschlandfunk.de/rund-die-haelfte-der-ukrainerinnen-und-ukrainer-in-deutschland-erwerbstaetig-100.html",
     "https://www.deutschlandfunk.de/umweltverband-weist-chemikalien-in-trinkwasser-nach-100.html",
     "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-in-italien-tritt-in-hungerstreik-102.html",
     "https://www.deutschlandfunk.de/russland-attackiert-region-odessa-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wadephul-stoesst-umstrukturierung-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/merz-vermisste-in-luanda-deutsches-brot-110791304.html",
     "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-heute-in-generaldebatte-100.html",
-    "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html"
+    "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html",
+    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-daempft-hoffnung-auf-schnellen-frieden-vorwurf-der-russlandfreundlichkei-100.html",
+    "https://www.deutschlandfunk.de/touristen-muessen-hoehere-eintrittspreise-fuer-nationalparks-zahlen-104.html",
+    "https://www.deutschlandfunk.de/gerichtsvollzieher-bund-fordert-nach-todesfall-mehr-schutz-102.html"
   ],
   "content_hashes": [
-    "c9d23c9b4d185c7ea0a1aff8d86711e9",
-    "51d7702bda1cae9d001c0bfa9f9826c0",
-    "6ac6cb1e38cc1ad8e5382c1e45d3e240",
     "80f98ce2d2cf0b99fa24f237455befe5",
     "cb56f41d16aa7fe6f15d84b8106baba7",
     "dc9b40d397b082d50cf080b9909a9984",
@@ -2001,12 +1998,12 @@
     "5bdf97aec34b975db5dcddd7aa120323",
     "9151d4567845a9152dfe8bfcbc63f367",
     "09d9e7ecbd1597ca5de143ef8c3b5240",
-    "26d6dfdaac9a681756a5b150459824fc"
+    "26d6dfdaac9a681756a5b150459824fc",
+    "4b60b590998a58b6d5ef8d4e8f5bc67b",
+    "de50ce978954a14586ec7a7a29037855",
+    "1f0b159a1cb1f0544f5981458b126ba1"
   ],
   "titles": [
-    "Brüssel - EU-Umweltminister erörtern Klimaziele - Schneider: Sind kompromissbereit",
-    "Besuch in Berlin - Nigerias Außenminister Tuggar weist Trump-Vorwurf der Christenverfolgung zurück",
-    "Arbeitsmarkt - Rund die Hälfte der Ukrainerinnen und Ukrainer in Deutschland erwerbstätig",
     "Untersuchung - Umweltverband weist Chemikalien in Trinkwasser nach",
     "Urteil - Nord-Stream-Verdächtiger in Italien tritt in Hungerstreik",
     "Ukraine-Krieg - Russland attackiert Region Odessa",
@@ -3003,12 +3000,12 @@
     "Auswärtiges Amt - Wadephul stößt Umstrukturierung an",
     "Merz in Hamburg: „Was man am deutschen Brot hat, merkt man, wenn man im Ausland ist“",
     "Bundestag - Regierung und Opposition debattieren heute in Generaldebatte",
-    "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien"
+    "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien",
+    "Ukraine-Krieg - Nato-Generalsekretär Rutte dämpft Hoffnung auf schnellen Frieden - Vorwurf der Russlandfreundlichkeit gegen Witkoff",
+    "USA - Touristen müssen höhere Eintrittspreise für Nationalparks zahlen",
+    "\"Angriffe gehören zum Alltag\" - Gerichtsvollzieher Bund fordert nach Todesfall mehr Schutz"
   ],
   "hashes": [
-    "ba5c3213c1138feb8f6c58f9bb67c2ae",
-    "b323501f9ef7d41d4e69743c5b455263",
-    "fed97703bf3cbc216f711c9ce424761f",
     "1d23b441eaf427ae6e5fc4e74f30d21b",
     "46502cb47ee8744e7ac7b52f11c907fc",
     "2a5891acae615198a31e216534ac9109",
@@ -4005,6 +4002,9 @@
     "0beca5ef6f586332c8d209935ebb05fc",
     "c8384b699a319cd3c4cfc6ed6376ebaa",
     "4a2e70a711ce650607197024bc08dea0",
-    "9e6bf82e2715967866bf51c6eca0c8ab"
+    "9e6bf82e2715967866bf51c6eca0c8ab",
+    "3fa50af53d02a0425dfc5d62a9652e51",
+    "4369e559bf50cdefa4ae46d7dc8eff68",
+    "1c27c628fcd2c4993123de2db8b14fff"
   ]
 }
