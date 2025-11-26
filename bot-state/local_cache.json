@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-in-italien-tritt-in-hungerstreik-102.html",
-    "https://www.deutschlandfunk.de/russland-attackiert-region-odessa-100.html",
     "https://www.deutschlandfunk.de/hoffnungstraeger-fuer-new-york-wer-ist-zohran-mamdani-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-macht-nordlaendern-hoffnung-100.html",
     "https://www.deutschlandfunk.de/wadephul-keine-differenzen-mit-merz-bei-rueckfuehrungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-daempft-hoffnung-auf-schnellen-frieden-vorwurf-der-russlandfreundlichkei-100.html",
     "https://www.deutschlandfunk.de/touristen-muessen-hoehere-eintrittspreise-fuer-nationalparks-zahlen-104.html",
     "https://www.deutschlandfunk.de/gerichtsvollzieher-bund-fordert-nach-todesfall-mehr-schutz-102.html",
-    "https://www.deutschlandfunk.de/praesident-lai-legt-milliardenschweres-sonderbudget-fuer-verteidigung-vor-100.html"
+    "https://www.deutschlandfunk.de/praesident-lai-legt-milliardenschweres-sonderbudget-fuer-verteidigung-vor-100.html",
+    "https://www.deutschlandfunk.de/trump-keine-feste-frist-fuer-friedensabkommen-102.html",
+    "https://www.deutschlandfunk.de/gruene-zitieren-dobrindt-wegen-schutzsuchenden-afghanen-vor-innenausschuss-100.html"
   ],
   "content_hashes": [
-    "cb56f41d16aa7fe6f15d84b8106baba7",
-    "dc9b40d397b082d50cf080b9909a9984",
     "05b13da8deece0bed0ba96f8b4fcdc4e",
     "83c173afc544de8f08705782b85d26b1",
     "3999b2682465e208838aa955221cae9e",
@@ -2001,11 +1999,11 @@
     "4b60b590998a58b6d5ef8d4e8f5bc67b",
     "de50ce978954a14586ec7a7a29037855",
     "1f0b159a1cb1f0544f5981458b126ba1",
-    "fd526352bd7388463da168382cf0baaf"
+    "fd526352bd7388463da168382cf0baaf",
+    "f4fca0f05fe7321b8f8e66b6f43682f2",
+    "ac00d22248cd24344e53d8da076e4924"
   ],
   "titles": [
-    "Urteil - Nord-Stream-Verdächtiger in Italien tritt in Hungerstreik",
-    "Ukraine-Krieg - Russland attackiert Region Odessa",
     "Bürgermeisterwahl - Hoffnungsträger für New York: Wer ist Zohran Mamdani?",
     "Mehr Geld für Häfen - Bundeskanzler Merz macht Nordländern Hoffnung",
     "Syrien-Debatte - Wadephul: Keine Differenzen mit Merz bei Rückführungen",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Nato-Generalsekretär Rutte dämpft Hoffnung auf schnellen Frieden - Vorwurf der Russlandfreundlichkeit gegen Witkoff",
     "USA - Touristen müssen höhere Eintrittspreise für Nationalparks zahlen",
     "\"Angriffe gehören zum Alltag\" - Gerichtsvollzieher Bund fordert nach Todesfall mehr Schutz",
-    "Taiwan - Präsident Lai legt milliardenschweres Sonderbudget für Verteidigung vor"
+    "Taiwan - Präsident Lai legt milliardenschweres Sonderbudget für Verteidigung vor",
+    "Ukraine-Krieg - Trump: Keine feste Frist für Friedensabkommen",
+    "Bundestag - Grüne zitieren Dobrindt wegen schutzsuchenden Afghanen vor Innenausschuss"
   ],
   "hashes": [
-    "46502cb47ee8744e7ac7b52f11c907fc",
-    "2a5891acae615198a31e216534ac9109",
     "6b2b4b4cd8c3b73c720077305b20301e",
     "5d145dd0989706f826998db03c1af1b4",
     "d03bc1a6d8119bb4045591b6f26b3d59",
@@ -4005,6 +4003,8 @@
     "3fa50af53d02a0425dfc5d62a9652e51",
     "4369e559bf50cdefa4ae46d7dc8eff68",
     "1c27c628fcd2c4993123de2db8b14fff",
-    "b24b8dd323ba11e035287d5a17212e35"
+    "b24b8dd323ba11e035287d5a17212e35",
+    "eb64d3316b7b931a812ad049a6dda15e",
+    "9b6e64f1481126d574ecf64c10d585dd"
   ]
 }
