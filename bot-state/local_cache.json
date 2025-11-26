@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-kritisiert-stil-der-debatte-um-abschiebungen-100.html",
-    "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-bietet-afghanen-in-pakistan-geld-statt-einreise-100.html",
     "https://www.deutschlandfunk.de/warken-will-mit-laendern-schluesse-aus-triage-urteil-ziehen-100.html",
     "https://www.deutschlandfunk.de/kommissarin-kos-lobt-ukraine-kritik-an-serbien-und-georgien-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-in-generaldebatte-100.html",
     "https://www.deutschlandfunk.de/generaldebatte-hat-begonnen-weidel-deutschland-ist-in-der-krise-100.html",
     "https://www.deutschlandfunk.de/chefin-palla-werden-rund-um-weihnachtsfeiertage-arbeiten-an-baustellen-einschraenken-100.html",
-    "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html"
+    "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html",
+    "https://www.spiegel.de/wirtschaft/eu-beitrag-deutschland-bleibt-groesster-nettozahler-trotz-wirtschaftskrise-a-32a6eb4f-6396-45ea-98d3-665165017a11#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/thueringen-darf-extremisten-von-juristischer-ausbildung-ausschliessen-110791601.html"
   ],
   "content_hashes": [
-    "942beaf5d480d100668e2fbcd624a089",
-    "58016158873307886dd7a362f1bc9642",
     "69edf0ef386d977f1488fc06cbacdcbd",
     "2890f0e32aac179bfe61831e288a1550",
     "824b9be9e15adb18bc0a789af1aa1aee",
@@ -2001,11 +1999,11 @@
     "a84e442631813d42e3ca61f8bbd84b5b",
     "d960b1af8725f30996910d2bf6002b22",
     "93d6746dd2f76f86f5aa1a8764168178",
-    "682c0b42be39f9d039cbdd11a931aaf7"
+    "682c0b42be39f9d039cbdd11a931aaf7",
+    "23b5883d210f5ffb053c5a1079dc8c8a",
+    "c0533c52a35ba50400751d40b7afd1c6"
   ],
   "titles": [
-    "Syrien-Debatte - Steinmeier kritisiert Stil der Debatte um Abschiebungen",
-    "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an",
     "ARD-Recherche - Bundesregierung bietet Afghanen in Pakistan Geld statt Einreise",
     "Nach Verfassungsgerichtsurteil - Warken will mit Ländern Schlüsse aus Triage-Urteil ziehen",
     "EU-Erweiterung - Kommissarin Kos lobt Ukraine - Kritik an Serbien und Georgien",
@@ -3003,11 +3001,11 @@
     "Bundeshaushalt 2026 - Regierung und Opposition debattieren in Generaldebatte",
     "Haushalt im Bundestag - Generaldebatte hat begonnen - Weidel: Deutschland ist in der Krise",
     "Deutsche Bahn - Chefin Palla: Werden rund um Weihnachtsfeiertage Arbeiten an Baustellen einschränken",
-    "Statistik - Süßigkeitenpreise teils deutlich gestiegen"
+    "Statistik - Süßigkeitenpreise teils deutlich gestiegen",
+    "EU-Beitrag: Deutschland bleibt größter Nettozahler trotz Wirtschaftskrise",
+    "Gerichtsurteil: Thüringen darf Extremisten von juristischer Ausbildung ausschließen"
   ],
   "hashes": [
-    "e07e53565c983e9b48c761d35d32a7d3",
-    "2f3935f58e3ef75445a0b3fcd1363ce9",
     "276db88ca4b91838e6b043a76eebed66",
     "8f66f0a6ca9c57d3b64a5f1b3823f828",
     "0a494cea3a06ce486923bddfff88c238",
@@ -4005,6 +4003,8 @@
     "5d2d04fdbfca5507849ee103d1007af6",
     "04093b50a0ca787a03bf75faacd6d9b3",
     "69263281372fa5a07e867e95a87a2fa6",
-    "95c75e96db3b3359938f1d438588033e"
+    "95c75e96db3b3359938f1d438588033e",
+    "79119bf96a6eedfab0422e380648fdf2",
+    "2cb094c015a6d98a6821e3a46a85353a"
   ]
 }
