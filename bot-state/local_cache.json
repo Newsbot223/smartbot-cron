@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-tritt-in-italien-in-hungerstreik-a-4604e676-6b02-4fb9-bcb0-e3cc27008c69#ref=rss",
-    "https://www.deutschlandfunk.de/opposition-in-tansania-beklagt-hunderte-tote-bei-unruhen-und-vertuschung-durch-die-behoerden-100.html",
-    "https://www.deutschlandfunk.de/deutsche-telekom-investiert-mehr-als-eine-milliarde-euro-in-ki-fabrik-100.html",
     "https://www.deutschlandfunk.de/steinmeier-kritisiert-stil-der-debatte-um-abschiebungen-100.html",
     "https://www.deutschlandfunk.de/bosch-meldet-in-ansbach-und-salzgitter-kurzarbeit-an-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-bietet-afghanen-in-pakistan-geld-statt-einreise-100.html",
@@ -999,12 +996,12 @@
     "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss",
     "https://www.deutschlandfunk.de/mehr-als-690-000-menschen-in-thailand-von-verheerenden-ueberschwemmungen-betroffen-100.html",
     "https://www.deutschlandfunk.de/parlament-fuehrt-eigenen-straftatbestand-fuer-femizid-ein-100.html",
-    "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-in-generaldebatte-100.html"
+    "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-in-generaldebatte-100.html",
+    "https://www.deutschlandfunk.de/generaldebatte-hat-begonnen-weidel-deutschland-ist-in-der-krise-100.html",
+    "https://www.deutschlandfunk.de/chefin-palla-werden-rund-um-weihnachtsfeiertage-arbeiten-an-baustellen-einschraenken-100.html",
+    "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html"
   ],
   "content_hashes": [
-    "b935466001fb3e73a7cf7a57b03e51a4",
-    "df0e7ccc8545cc15431163689d4f8546",
-    "5a2068292a4f2e32ea8d1bfc4b5485e9",
     "942beaf5d480d100668e2fbcd624a089",
     "58016158873307886dd7a362f1bc9642",
     "69edf0ef386d977f1488fc06cbacdcbd",
@@ -2001,12 +1998,12 @@
     "6cf8a7b3fbcc52b89589d9afef314771",
     "9c6b6da7805406571216e0459031bc75",
     "da0bfffd998b2a4c66628571bf58e5fd",
-    "a84e442631813d42e3ca61f8bbd84b5b"
+    "a84e442631813d42e3ca61f8bbd84b5b",
+    "d960b1af8725f30996910d2bf6002b22",
+    "93d6746dd2f76f86f5aa1a8764168178",
+    "682c0b42be39f9d039cbdd11a931aaf7"
   ],
   "titles": [
-    "Nord-Stream-Verdächtiger Serhij K. tritt in Italien in Hungerstreik",
-    "Ostafrika - Opposition in Tansania beklagt Hunderte Tote bei Unruhen und Vertuschung durch die Behörden",
-    "Künstliche Intelligenz - Deutsche Telekom investiert mehr als eine Milliarde Euro in KI-Fabrik",
     "Syrien-Debatte - Steinmeier kritisiert Stil der Debatte um Abschiebungen",
     "Lieferprobleme - Bosch meldet in Ansbach und Salzgitter Kurzarbeit an",
     "ARD-Recherche - Bundesregierung bietet Afghanen in Pakistan Geld statt Einreise",
@@ -3003,12 +3000,12 @@
     "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
     "Südostasien - Mehr als 690.000 Menschen in Thailand von verheerenden Überschwemmungen betroffen",
     "Italien - Parlament führt eigenen Straftatbestand für Femizid ein",
-    "Bundeshaushalt 2026 - Regierung und Opposition debattieren in Generaldebatte"
+    "Bundeshaushalt 2026 - Regierung und Opposition debattieren in Generaldebatte",
+    "Haushalt im Bundestag - Generaldebatte hat begonnen - Weidel: Deutschland ist in der Krise",
+    "Deutsche Bahn - Chefin Palla: Werden rund um Weihnachtsfeiertage Arbeiten an Baustellen einschränken",
+    "Statistik - Süßigkeitenpreise teils deutlich gestiegen"
   ],
   "hashes": [
-    "88d0bcdbdf5ec40c6f57306a5c2f1169",
-    "0a2653ec8a9b7a87b8c682248073d0c9",
-    "45981c50873661892636bccabb76c58b",
     "e07e53565c983e9b48c761d35d32a7d3",
     "2f3935f58e3ef75445a0b3fcd1363ce9",
     "276db88ca4b91838e6b043a76eebed66",
@@ -4005,6 +4002,9 @@
     "dfb8e8e75eac0484be28d459d4d2896a",
     "a8edc60518e7fb49bc0518c53cc23da5",
     "c6c81ba08e08936ea952f3cff12adb08",
-    "5d2d04fdbfca5507849ee103d1007af6"
+    "5d2d04fdbfca5507849ee103d1007af6",
+    "04093b50a0ca787a03bf75faacd6d9b3",
+    "69263281372fa5a07e867e95a87a2fa6",
+    "95c75e96db3b3359938f1d438588033e"
   ]
 }
