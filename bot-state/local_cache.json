@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/dolchstossprozess-1925-portraet-cossmann-und-suessheim-110739392.html",
-    "https://www.deutschlandfunk.de/haertere-strafen-fuer-das-sprengen-von-geldautomaten-beschlossen-100.html",
-    "https://www.deutschlandfunk.de/merz-hebt-bedeutung-der-stahlindustrie-fuer-deutschland-hervor-108.html",
     "https://www.deutschlandfunk.de/steinmeier-beendet-afrika-reise-100.html",
     "https://www.deutschlandfunk.de/cdu-experte-fuer-flaechendeckende-musterung-bundesjugendring-gegen-wehrpflicht-100.html",
     "https://www.deutschlandfunk.de/polizei-haelt-demos-fuer-und-gegen-die-regierung-voneinander-fern-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-landesminister-nennen-reiches-energiepolitik-chaotisch-faz-110093143.html",
     "https://www.deutschlandfunk.de/us-vizepraesident-vance-usa-muessen-einsatz-fuer-abschiebungen-verdoppeln-106.html",
     "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-an-deutschland-ausgeliefert-a-d3fe3c4a-bfd3-4bdc-80b5-136774d21351#ref=rss",
-    "https://www.deutschlandfunk.de/hubertz-will-brachliegende-bauprojekte-mit-sonderfoerderung-retten-100.html"
+    "https://www.deutschlandfunk.de/hubertz-will-brachliegende-bauprojekte-mit-sonderfoerderung-retten-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-bei-hochhaus-brand-steigt-auf-83-regierungschef-lee-ordnet-ueberpruefung-von-baustell-100.html",
+    "https://www.deutschlandfunk.de/buergergeldempfaenger-muessen-selbst-guenstigeren-wohnraum-suchen-100.html",
+    "https://www.deutschlandfunk.de/nrw-bewirbt-sich-als-standort-fuer-yad-vashem-aussenstelle-102.html"
   ],
   "content_hashes": [
-    "84180b624a1b4c1f32f96b6839fd28f0",
-    "8de73f2b45288ae0d13b9c048b1df5e5",
-    "8ac5757f62743b3e7c34f1b2738e410e",
     "3b93eda659b271a55b8e235cabfaa246",
     "99dc5d077f841dbcf76a51bd272825c8",
     "f876088a428b6df273823d65144a08f5",
@@ -2001,12 +1998,12 @@
     "f43364d628c0fadb62f58473a42bff87",
     "b8ea3acd3056ca3bb556eeb9f78f61a4",
     "85b2de53b4f1a70ec103cf62a89c2383",
-    "19a8be0c14f57de80944832334b1faf9"
+    "19a8be0c14f57de80944832334b1faf9",
+    "21a0c925761c0d931307e42e83b6fe18",
+    "2bae8d259c99a463dbcfa03b5989f5aa",
+    "94750aca0f8d1d1d1f2c7836698974ac"
   ],
   "titles": [
-    "Dolchstoßprozess: Der Gerichtssaal als politisches Schlachtfeld",
-    "Bundestag - Härtere Strafen für das Sprengen von Geldautomaten beschlossen",
-    "Stahlgipfel im Kanzleramt - Merz hebt Bedeutung der Stahlindustrie für Deutschland hervor",
     "Angola - Steinmeier beendet Afrika-Reise",
     "Wehrdienstdebatte - CDU-Experte für flächendeckende Musterung, Bundesjugendring gegen Wehrpflicht",
     "Serbien - Polizei hält Demos für und gegen die Regierung voneinander fern",
@@ -3003,12 +3000,12 @@
     "Liveblog Bundespolitik: Grüne Landesminister nennen Reiches Energiepolitik chaotisch",
     "Nach Schüssen auf Nationalgardisten - US-Vizepräsident Vance: USA müssen Einsatz für Abschiebungen verdoppeln",
     "Nord-Stream: Verdächtiger Serhij K. an Deutschland ausgeliefert",
-    "Bundestag - Hubertz will brachliegende Bauprojekte mit Sonderförderung retten"
+    "Bundestag - Hubertz will brachliegende Bauprojekte mit Sonderförderung retten",
+    "Hongkong - Zahl der Toten bei Hochhaus-Brand steigt auf 83 - Regierungschef Lee ordnet Überprüfung von Baustellen an",
+    "Bundessozialgericht - Bürgergeldempfänger müssen selbst günstigeren Wohnraum suchen",
+    "Holocaust- Bildungszentrum - NRW bewirbt sich als Standort für Yad Vashem-Außenstelle"
   ],
   "hashes": [
-    "332f837bc247df4b8778f1591870eb4d",
-    "e8aaa2a9895c731133e91efec3c0b981",
-    "a0339418d06c13293d32c69cc2bc23f6",
     "2a6ce97f430d619d2760ccf5b30108ce",
     "a5e933466531cbae133d1f9a648e4df8",
     "589414a02852bad8b78e8ef5539d8f1c",
@@ -4005,6 +4002,9 @@
     "8af3d2ca8abaf7d28c09d028e8c5d1da",
     "31cdfd2309f31d4bdd4e36ffec125658",
     "f4fd34226399e4cc81b495d759cfb4ff",
-    "d19823b109a6248ec9a926210efd124b"
+    "d19823b109a6248ec9a926210efd124b",
+    "46a7ccc0f45019ec8e23edb98fb0423f",
+    "90d3241093c45cb7adfb8c7cc57fed8d",
+    "aea3a3fb3f6c9571248e0d6996d70678"
   ]
 }
