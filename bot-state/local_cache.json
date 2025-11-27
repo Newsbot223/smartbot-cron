@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizei-haelt-demos-fuer-und-gegen-die-regierung-voneinander-fern-100.html",
-    "https://www.deutschlandfunk.de/auch-bundesgesundheitsministerin-warken-fordert-sexkauf-verbot-100.html",
     "https://www.deutschlandfunk.de/mann-nach-sexueller-belaestigung-von-praesidentin-sheinbaum-festgenommen-100.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-sorglosem-umgang-mit-alkohol-100.html",
     "https://www.deutschlandfunk.de/us-reaktionen-auf-wahl-in-nyc-und-bundesstaaten-supreme-court-zu-trumps-zoellen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/buergergeldempfaenger-muessen-selbst-guenstigeren-wohnraum-suchen-100.html",
     "https://www.deutschlandfunk.de/nrw-bewirbt-sich-als-standort-fuer-yad-vashem-aussenstelle-102.html",
     "https://www.deutschlandfunk.de/putschisten-ernennen-uebergangspraesidenten-102.html",
-    "https://www.deutschlandfunk.de/merz-weist-us-einmischung-zurueck-102.html"
+    "https://www.deutschlandfunk.de/merz-weist-us-einmischung-zurueck-102.html",
+    "https://www.deutschlandfunk.de/merz-weist-us-einmischung-in-europaeische-migrationspolitik-zurueck-100.html",
+    "https://www.deutschlandfunk.de/preis-kita-des-jahres-geht-an-einrichtung-in-unkel-rheinland-pfalz-100.html"
   ],
   "content_hashes": [
-    "f876088a428b6df273823d65144a08f5",
-    "c9f031cf75ef55f88f709b5291a62801",
     "d456063b82155bf48371c4e8cc3d4162",
     "3d4ed5a962c4d3b68cadfa1542ff2c3e",
     "c721f245d1bb44d2c9533bbd6336beac",
@@ -2001,11 +1999,11 @@
     "2bae8d259c99a463dbcfa03b5989f5aa",
     "94750aca0f8d1d1d1f2c7836698974ac",
     "953a49f12919c8bda1fc220d33d08b5e",
-    "91f1ca57b8695957631da05f6ab1fb73"
+    "91f1ca57b8695957631da05f6ab1fb73",
+    "07c3a528d16f29bd513c61a0b2efbbcc",
+    "43f968ec5d332352f130e07a5263cf26"
   ],
   "titles": [
-    "Serbien - Polizei hält Demos für und gegen die Regierung voneinander fern",
-    "Nach Julia Klöckner - Auch Bundesgesundheitsministerin Warken fordert Sexkauf-Verbot",
     "Mexiko - Mann nach sexueller Belästigung von Präsidentin Sheinbaum festgenommen",
     "Gesundheit - Drogenbeauftragter Streeck warnt vor sorglosem Umgang mit Alkohol",
     "Wahlen in den USA - Trump macht Shutdown für Niederlage verantwortlich",
@@ -3003,11 +3001,11 @@
     "Bundessozialgericht - Bürgergeldempfänger müssen selbst günstigeren Wohnraum suchen",
     "Holocaust- Bildungszentrum - NRW bewirbt sich als Standort für Yad Vashem-Außenstelle",
     "Guinea-Bissau - Putschisten ernennen Übergangspräsidenten",
-    "Europas Migrationspolitik - Merz weist US-Einmischung zurück"
+    "Europas Migrationspolitik - Merz weist US-Einmischung zurück",
+    "Bundeskanzler - Merz weist US-Einmischung in Europäische Migrationspolitik zurück",
+    "Auszeichnung - Preis \"Kita des Jahres\" geht an Einrichtung in Unkel/Rheinland-Pfalz"
   ],
   "hashes": [
-    "589414a02852bad8b78e8ef5539d8f1c",
-    "40b8fbe8b22dd78cc30022cd0a5acbf4",
     "ed1673972f7f2a9af965bcbff5407997",
     "c7abf0bfbd884831dfee9b777278ef92",
     "2cbc8039eceb793f3a2576cdc3f6a093",
@@ -4005,6 +4003,8 @@
     "90d3241093c45cb7adfb8c7cc57fed8d",
     "aea3a3fb3f6c9571248e0d6996d70678",
     "91745701a3e72f6c9ea51638b54cca00",
-    "f05c097df070ddfc8ef2bda3384d93b6"
+    "f05c097df070ddfc8ef2bda3384d93b6",
+    "ffd9a0a0a8db766ac9eff0a17fbd9c50",
+    "bb95e21f5d006d794da77cebd85b0175"
   ]
 }
