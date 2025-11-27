@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-plant-hochgeschwindigkeitsnetz-fuer-zugverbindungen-zwischen-eu-metropolen-104.html",
-    "https://www.deutschlandfunk.de/putin-ordnet-vorbereitung-von-atomtests-an-104.html",
-    "https://www.faz.net/aktuell/politik/inland/aussenminister-in-der-kritik-warum-johann-wadephul-in-der-cdu-immer-wieder-irritiert-110766646.html",
-    "https://www.deutschlandfunk.de/deutsche-bahn-bestellt-erstmals-schienen-aus-gruenem-stahl-100.html",
     "https://www.deutschlandfunk.de/oberstes-us-gericht-befasst-sich-erstmals-mit-trumps-zoellen-100.html",
     "https://www.deutschlandfunk.de/merz-betont-strategische-bedeutung-der-stahlindustrie-fuer-deutschland-100.html",
     "https://www.faz.net/aktuell/politik/inland/julia-kloeckners-blick-auf-prostitution-ist-einseitig-110766701.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundespolizei-nimmt-mutmasslichen-ausweisfaelscher-fest-razzien-in-sieben-bundeslaendern-100.html",
     "https://www.deutschlandfunk.de/praesident-macron-stellt-neuen-freiwilligen-militaerdienst-vor-100.html",
     "https://www.deutschlandfunk.de/steinmeier-europa-braucht-mehr-oekonomisches-selbstbewusstsein-102.html",
-    "https://www.deutschlandfunk.de/thueringer-fraktionschefs-cdu-und-linke-finden-kompromiss-zu-doppelhaushalt-minderheitsregierung-auf-100.html"
+    "https://www.deutschlandfunk.de/thueringer-fraktionschefs-cdu-und-linke-finden-kompromiss-zu-doppelhaushalt-minderheitsregierung-auf-100.html",
+    "https://www.deutschlandfunk.de/deutscher-astronaut-soll-richtung-mond-fliegen-100.html",
+    "https://www.deutschlandfunk.de/venezuela-verhaengt-betriebsverbote-fuer-sechs-auslaendische-fluggesellschaften-100.html",
+    "https://www.spiegel.de/panorama/justiz/ansbach-rueckfuehrung-des-amoklaeufers-aus-kolumbien-kostete-195-000-euro-a-c21c2e67-9e18-4b07-b500-bca719085967#ref=rss",
+    "https://www.spiegel.de/wissenschaft/medizin/bekanntgabe-bei-der-esa-deutscher-soll-zum-mond-fliegen-a-7eb80ce8-eb8f-4c24-b423-d3229c243736#ref=rss"
   ],
   "content_hashes": [
-    "5041d9de9c61b0f425cc34c6c623e355",
-    "9560da0370b6e9fdf96f357b80aff05f",
-    "a7d541679543d9e30692a55e82e98380",
-    "7aa2ff02553b97ea0604424bcb64b17f",
     "5ec8091ef9e21b3e02477588f5cadce1",
     "e772059613250c43efca490b317428a0",
     "4858e583335fd394ee2a9483f2cef9e7",
@@ -2001,13 +1997,13 @@
     "7c4de805748c5f2088547e66bdf205b6",
     "20044e543325f53d0f1129e1555cbfb4",
     "f34bc1601f5fe3a41bfe3a3998f1f5ac",
-    "514696f825407fca226e6b46997a5f5e"
+    "514696f825407fca226e6b46997a5f5e",
+    "3340d4784814cd9fc45e3490b9e8ee5e",
+    "972c35c336f030b171c4cc25d9167536",
+    "2d9d74bc587bbfaba4be9e7dfceb6a6e",
+    "ad884bda6745605be0d53df8dc783cbc"
   ],
   "titles": [
-    "Zugverkehr - EU-Kommission plant Hochgeschwindigkeitsnetz für Zugverbindungen zwischen EU-Metropolen",
-    "Nach US-Ankündigung - Putin ordnet Vorbereitung von Atomtests an",
-    "Syrien, Israel, Verteidigung: Warum Wadephul immer wieder Irritation auslöst",
-    "Klimaschutz - Deutsche Bahn bestellt erstmals Schienen aus \"grünem\" Stahl",
     "USA - Oberstes US-Gericht befasst sich erstmals mit Trumps Zöllen",
     "\"Stahlgipfel\" - Merz betont strategische Bedeutung der Stahlindustrie für Deutschland",
     "Klöckner zu Prostitution: Differenzierter Blick statt Schlagwörter",
@@ -3003,13 +2999,13 @@
     "Darknet - Bundespolizei nimmt mutmaßlichen Ausweisfälscher fest - Razzien in sieben Bundesländern",
     "Frankreich - Präsident Macron stellt neuen freiwilligen Militärdienst vor",
     "Deutsch-spanisches Wirtschaftsforum - Steinmeier: Europa braucht mehr ökonomisches Selbstbewusstsein",
-    "Erfurt - Thüringer Fraktionschefs CDU und Linke finden Kompromiss zu Doppelhaushalt - Minderheitsregierung auf Opposition angewiesen"
+    "Erfurt - Thüringer Fraktionschefs CDU und Linke finden Kompromiss zu Doppelhaushalt - Minderheitsregierung auf Opposition angewiesen",
+    "\"Artemis\"-Mission - Deutscher Astronaut soll Richtung Mond fliegen",
+    "Südamerika - Venezuela verhängt Betriebsverbote für sechs ausländische Fluggesellschaften",
+    "Ansbach: Rückführung des Amokläufers aus Kolumbien kostete 195.000 Euro",
+    "Bekanntgabe bei der Esa: Deutscher soll zum Mond fliegen"
   ],
   "hashes": [
-    "20b23054a7bde1c9647dac5fd8d2f27a",
-    "bd22008843a1ead3728a65bda37e6ce4",
-    "32018b69e00bac532e117d087d50cd7d",
-    "f7681fd20b66fc624abd94f8c78f37e9",
     "306cbea090d9d0d4377d3e8d77c1fc79",
     "237000b26a907c3c7bab9a0fe9de5b48",
     "71401d916254ab0243297dc7b57bb534",
@@ -4005,6 +4001,10 @@
     "7ea619b94ee3f4aa83b4fe05ea5aca24",
     "566c1b19571786f5e5392f22b5dceb18",
     "6659313a84d5422c34e665d60a6dc367",
-    "5d123be540f796a2d17f1386a6300aad"
+    "5d123be540f796a2d17f1386a6300aad",
+    "dc4333169dfac26d1311b16495aaa338",
+    "9bdbcff50086fdd2db6c7b22f43d0da8",
+    "5cb021e530e7235abf6b6bff03d3b053",
+    "0b9c5edf095f0015b77fae1067c67c19"
   ]
 }
