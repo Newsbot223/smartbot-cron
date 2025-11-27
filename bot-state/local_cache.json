@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/aufsichtsraete-in-krisenzeiten-werden-mehr-maenner-fuer-vorstandsposten-rekrutiert-a-480d9e58-0b59-4f3a-b7ef-892b80aa7ff1#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/flughafen-hannover-wegen-drohnensichtung-kurzzeitig-gesperrt-accg-110767275.html",
     "https://www.deutschlandfunk.de/nrw-gesundheitsminister-laumann-mahnt-mehr-effizienz-in-der-pflege-an-haeusliche-betreuung-stabilisi-100.html",
     "https://www.deutschlandfunk.de/wichtige-beratungen-vor-offiziellem-start-der-fahrplan-zum-uno-klimagipfel-in-bel-m-100.html",
     "https://www.deutschlandfunk.de/lula-reiche-laender-muessen-ihre-klimaschulden-bezahlen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/preis-kita-des-jahres-geht-an-einrichtung-in-unkel-rheinland-pfalz-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-verbittet-sich-ermahnungen-zu-migration-aus-den-usa-faz-110093143.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-mohammadi-beklagt-dauerhaftes-reiseverbot-100.html",
-    "https://www.deutschlandfunk.de/medienberichte-israelische-soldaten-sollen-palaestinenser-erschossen-haben-die-sich-ergeben-hatten-100.html"
+    "https://www.deutschlandfunk.de/medienberichte-israelische-soldaten-sollen-palaestinenser-erschossen-haben-die-sich-ergeben-hatten-100.html",
+    "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-haushalt-2026-ab-104.html",
+    "https://www.deutschlandfunk.de/sloweniens-ministerpraesidenten-golob-zu-gast-in-berlin-100.html"
   ],
   "content_hashes": [
-    "efde322b25c10fb1f17587b92de8ac11",
-    "938969e2f4188b813a76bb4a5415a0c6",
     "87344622948388c809a9051682e6b470",
     "ac15d079a3ff970ff44abdefb68a16f4",
     "8d8f8218610fab601c238bdce3b8c7e7",
@@ -2001,11 +1999,11 @@
     "43f968ec5d332352f130e07a5263cf26",
     "7193f7feb80b1a7d36fbdb944660d6a3",
     "5a6efed2cbd63c205ce3e9b241fb7430",
-    "d6921974e9aa5b31be8eb2958198e846"
+    "d6921974e9aa5b31be8eb2958198e846",
+    "8fe59260adb7d16b3639b9cc63da4327",
+    "8a1e24ed5444c43a2bd76a228c05d6a3"
   ],
   "titles": [
-    "Aufsichtsräte: In Krisenzeiten werden mehr Männer für Vorstandsposten rekrutiert",
-    "Kurzzeitige Sperrung: Drohnensichtung am Flughafen Hannover",
     "Pflegekosten - NRW-Gesundheitsminister Laumann mahnt mehr Effizienz in der Pflege an: \"Häusliche Betreuung stabilisieren\"",
     "Brasilien - Wichtige Beratungen vor offiziellem Start - der Fahrplan zum UNO-Klimagipfel in Belém",
     "Weltklimakonferenz - Lula: Reiche Länder müssen ihre Klimaschulden bezahlen",
@@ -3003,11 +3001,11 @@
     "Auszeichnung - Preis \"Kita des Jahres\" geht an Einrichtung in Unkel/Rheinland-Pfalz",
     "Liveblog Bundespolitik: Merz verbittet sich „Ermahnungen“ der USA zur Migrationspolitik",
     "Iran - Friedensnobelpreisträgerin Mohammadi beklagt dauerhaftes Reiseverbot",
-    "Westjordanland - Medienberichte: Israelische Soldaten sollen Palästinenser erschossen haben, die sich ergeben hatten"
+    "Westjordanland - Medienberichte: Israelische Soldaten sollen Palästinenser erschossen haben, die sich ergeben hatten",
+    "Finanzen - Bundestag stimmt über Haushalt 2026 ab",
+    "Diplomatie - Sloweniens Ministerpräsidenten Golob zu Gast in Berlin"
   ],
   "hashes": [
-    "a31131db2e2b2f96b1b96fcf4cefd000",
-    "469a147eef9a59f9c93be17edae4a0d0",
     "98b4e63f56aceab7795016f60371e6b5",
     "cda933e7fca474bef2aff3477f563418",
     "a304b237a782b709db6a7c9eb5d79a64",
@@ -4005,6 +4003,8 @@
     "bb95e21f5d006d794da77cebd85b0175",
     "a2e65dd1b4bc29631e40ce76a6141299",
     "855c3f62ece9e418a7eb3fbebf2f52fc",
-    "20a10969c0596944d00fbd3ddddb245e"
+    "20a10969c0596944d00fbd3ddddb245e",
+    "b183b2d2a6ff85cb7f9027cd73b59c26",
+    "a1f05c9e49dcc919300de8ddb863372c"
   ]
 }
