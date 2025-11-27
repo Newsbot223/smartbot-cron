@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russische-armee-konzentriert-angriffe-auf-pokrowsk-100.html",
-    "https://www.spiegel.de/wissenschaft/weltall/mond-wo-der-supermond-am-besten-zu-erkennen-ist-a-d69014ec-ca45-4c1f-b8bd-80e26fe75155#ref=rss",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/kommentar-die-demokraten-koennen-gegen-trump-gewinnen-jeder-auf-seine-art-110765741.html",
-    "https://www.faz.net/aktuell/politik/inland/opfer-und-zeugen-von-straftaten-sollen-besser-geschuetzt-werden-accg-110765955.html",
     "https://www.spiegel.de/wirtschaft/service/weihnachtsgeld-wer-in-deutschland-wie-viel-bekommt-a-fd82d310-163d-4bb7-a18f-be12e83c5c76#ref=rss",
     "https://www.deutschlandfunk.de/ehemaliger-krankenpfleger-wegen-zehnfachen-mordes-schuldig-gesprochen-toedliche-spritzen-verabreich-100.html",
     "https://www.deutschlandfunk.de/mindestens-elf-tote-nach-brand-in-seniorenheim-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/schuesse-auf-nationalgardisten-trump-spricht-von-terrorakt-100.html",
     "https://www.deutschlandfunk.de/tausende-bulgaren-protestieren-gegen-steuererhoehungen-100.html",
     "https://www.deutschlandfunk.de/papst-leo-xiv-besucht-tuerkei-und-libanon-100.html",
-    "https://www.deutschlandfunk.de/regierung-macht-druck-auf-europa-wegen-migrationspolitik-100.html"
+    "https://www.deutschlandfunk.de/regierung-macht-druck-auf-europa-wegen-migrationspolitik-100.html",
+    "https://www.deutschlandfunk.de/soeder-csu-mahnt-beilegung-des-rentenstreits-in-den-naechsten-tagen-an-118.html",
+    "https://www.deutschlandfunk.de/hochhausbrand-regierungschef-lee-ordnet-ueberpruefung-an-welle-der-hilfsbereitschaft-100.html",
+    "https://www.faz.net/aktuell/politik/inland/stegner-kriege-werden-immer-durch-verhandlungen-beendet-accg-200268392.html",
+    "https://www.faz.net/aktuell/politik/ukraine/frieden-fuer-die-ukraine-wenn-sich-angriffskrieg-lohnt-110791972.html"
   ],
   "content_hashes": [
-    "1adc2630c253273ce19748aa785965d1",
-    "adfede8858951f720561847e4d2a3e2a",
-    "3fceec269e34bb730788999c78761e4e",
-    "2d34752a26438ed7a2165a5369c93b6e",
     "a4c28983c808b879f1f15978d4b440ce",
     "c4c6b18d7c379afeb674ea75b40cfd96",
     "5e42b49001ad1bf6a1c1cbde81d73311",
@@ -2001,13 +1997,13 @@
     "d25e1cf21bf15e2d3429be693c401783",
     "f64ca956117bca978eee128706022dda",
     "a78c47954cab20768220c44554f2c68e",
-    "3d0901e39b407d796e16467f1035416d"
+    "3d0901e39b407d796e16467f1035416d",
+    "6969479e202b108a1f0f53e57eb13da4",
+    "2fea18484d46f7e4cfef0381ef8bab0d",
+    "40f7a4a7ad2370f7166ac17342ee5e9b",
+    "3bea77b283282c8e4a5d637cc0e7d601"
   ],
   "titles": [
-    "Ukraine-Krieg - Russische Armee konzentriert Angriffe auf Pokrowsk",
-    "Mond: Wo der Supermond am besten zu erkennen ist",
-    "US-Demokraten siegen: Wie die Demokraten aus ihrer Not eine Tugend machen",
-    "Nach Anschlag in Magdeburg: Opfer und Zeugen von Straftaten sollen besser geschützt werden",
     "Weihnachtsgeld: Wer in Deutschland wie viel bekommt",
     "Aachen - Ehemaliger Krankenpfleger wegen zehnfachen Mordes schuldig gesprochen - tödliche Spritzen verabreich",
     "Bosnien-Herzegowina - Mindestens elf Tote nach Brand in Seniorenheim",
@@ -3003,13 +2999,13 @@
     "Washington - Schüsse auf Nationalgardisten: Trump spricht von Terrorakt",
     "Sofia - Tausende Bulgaren protestieren gegen Steuererhöhungen",
     "Erste Auslandsreise - Papst Leo XIV. besucht Türkei und Libanon",
-    "USA - Regierung macht Druck auf Europa wegen Migrationspolitik"
+    "USA - Regierung macht Druck auf Europa wegen Migrationspolitik",
+    "Vor dem Koalitionsausschuss - Söder (CSU) mahnt Beilegung des Rentenstreits in den nächsten Tagen an",
+    "Hongkong - Hochhausbrand: Regierungschef Lee ordnet Überprüfung an - Welle der Hilfsbereitschaft",
+    "Stegner über Friedensplan: „Auf Dauer brauchen wir Sicherheit mit Russland“",
+    "Frieden für die Ukraine?: Ein Angriffskrieg darf sich niemals lohnen"
   ],
   "hashes": [
-    "03336deb98d56a07024c99ed47708180",
-    "daf95124197714c1bda220bad56addfa",
-    "04db489a7577b3eacd38145d03bcc437",
-    "579a24f5a4c12053e1ff37b4ae2b8ac6",
     "f250961700a44c94a810d3e07579e7df",
     "557daf97714bedb879af1d976d5685b7",
     "7f3b1e58841406c9163f0cbca5a1812f",
@@ -4005,6 +4001,10 @@
     "21775eed3eb92156d466219e98929efb",
     "7749efedd87607cb09d1da54fa451270",
     "5dd726d282f4817e55532b09ed5d5f5a",
-    "b9ca1daa3f716400161382ca92bcb1f2"
+    "b9ca1daa3f716400161382ca92bcb1f2",
+    "9f0fe875a9e6138e0cd404bd027b38a8",
+    "36b46cf2962c983ad8b1aaddb572de07",
+    "62a40c1d7908bd7fe7dc81c3bcf5316a",
+    "4f4779ded85d65a8156f961127e22505"
   ]
 }
