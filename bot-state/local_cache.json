@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/julia-kloeckners-blick-auf-prostitution-ist-einseitig-110766701.html",
-    "https://www.deutschlandfunk.de/gremium-zu-erster-sitzung-zusammengekommen-102.html",
     "https://www.deutschlandfunk.de/hamas-uebergibt-weitere-leiche-an-rotes-kreuz-106.html",
     "https://www.deutschlandfunk.de/aktivistin-karoline-preisler-mit-paul-spiegel-preis-fuer-zivilcourage-geehrt-104.html",
     "https://www.faz.net/aktuell/politik/inland/streit-ueber-wadephul-die-nervositaet-in-der-cdu-waechst-110766333.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/panorama/justiz/ansbach-rueckfuehrung-des-amoklaeufers-aus-kolumbien-kostete-195-000-euro-a-c21c2e67-9e18-4b07-b500-bca719085967#ref=rss",
     "https://www.spiegel.de/wissenschaft/medizin/bekanntgabe-bei-der-esa-deutscher-soll-zum-mond-fliegen-a-7eb80ce8-eb8f-4c24-b423-d3229c243736#ref=rss",
     "https://www.deutschlandfunk.de/black-friday-verbraucherschutzministerin-hubig-warnt-vor-fallen-beim-online-handel-100.html",
-    "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-von-italien-an-deutschland-ausgeliefert-100.html"
+    "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-von-italien-an-deutschland-ausgeliefert-100.html",
+    "https://www.deutschlandfunk.de/robbensterben-ermittlungen-gegen-zwei-verdaechtige-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-landesminister-nennen-reiches-energiepolitik-chaotisch-faz-110093143.html"
   ],
   "content_hashes": [
-    "4858e583335fd394ee2a9483f2cef9e7",
-    "ab46e3d3e4f4ab49c0ed256cd4e83aee",
     "4e2d9b72674d6a618b0851af445e43e3",
     "f98f5a14c117e31c4b04682a1e325a59",
     "aa94affe121c231b9e8528fbb2d3ed17",
@@ -2001,11 +1999,11 @@
     "2d9d74bc587bbfaba4be9e7dfceb6a6e",
     "ad884bda6745605be0d53df8dc783cbc",
     "0f06ae705b247343162035baba4c43ae",
-    "25ed8d5305cce284a99c26150e991d79"
+    "25ed8d5305cce284a99c26150e991d79",
+    "1dc81cc8b60b5e2fafa486b48e1414de",
+    "f43364d628c0fadb62f58473a42bff87"
   ],
   "titles": [
-    "Klöckner zu Prostitution: Differenzierter Blick statt Schlagwörter",
-    "Nationaler Sicherheitsrat - Gremium zu erster Sitzung zusammengekommen",
     "Gazastreifen - Hamas übergibt weitere Leiche an Rotes Kreuz",
     "Berlin - Aktivistin Karoline Preisler mit Paul-Spiegel-Preis für Zivilcourage geehrt",
     "Streit über Wadephul: Die Nervosität in der CDU wächst",
@@ -3003,11 +3001,11 @@
     "Ansbach: Rückführung des Amokläufers aus Kolumbien kostete 195.000 Euro",
     "Bekanntgabe bei der Esa: Deutscher soll zum Mond fliegen",
     "Bundestag - \"Black Friday\": Verbraucherschutzministerin Hubig warnt vor Fallen beim Online-Handel",
-    "Ermittlungen - Nord-Stream-Verdächtiger von Italien an Deutschland ausgeliefert"
+    "Ermittlungen - Nord-Stream-Verdächtiger von Italien an Deutschland ausgeliefert",
+    "Rügen - Robbensterben: Ermittlungen gegen zwei Verdächtige",
+    "Liveblog Bundespolitik: Grüne Landesminister nennen Reiches Energiepolitik chaotisch"
   ],
   "hashes": [
-    "71401d916254ab0243297dc7b57bb534",
-    "49154aad3ecc667b49f9de16bc7aa19b",
     "c3cf6826cbedbf2238252b362a7ac5b6",
     "e8fffae457aae5501112679dd6e2be44",
     "fa2a3baeb53d53003a18dab6688db397",
@@ -4005,6 +4003,8 @@
     "5cb021e530e7235abf6b6bff03d3b053",
     "0b9c5edf095f0015b77fae1067c67c19",
     "c305b3138d0bd26df994a2849bada6c1",
-    "4a886308437bb9bc2f95c039e1489a37"
+    "4a886308437bb9bc2f95c039e1489a37",
+    "a19aefdde3ccbd7f950773e0f0e9d90b",
+    "8af3d2ca8abaf7d28c09d028e8c5d1da"
   ]
 }
