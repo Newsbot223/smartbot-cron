@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kontakt-zu-iran-spion-mann-in-daenemark-festgenommen-accg-110766181.html",
-    "https://www.faz.net/aktuell/politik/inland/bundesregierung-bietet-afghanen-geld-fuer-rueckkehr-accg-110766184.html",
-    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-verurteilt-anschlag-auf-fahrzeug-von-afd-abgeordnetem-baumann-100.html",
     "https://www.deutschlandfunk.de/mutmasslich-islamistischer-anschlag-auf-ile-d-oleron-autofahrer-ueberfaehrt-zahlreiche-menschen-100.html",
     "https://www.faz.net/einspruch/bverfg-triage-regeln-verstossen-gegen-das-grundgesetz-110766002.html",
     "https://www.faz.net/aktuell/politik/inland/aktivistinnen-gegen-digitalen-voyeurismus-110764922.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/innenminister-dobrindt-aeussert-sich-in-haushaltsdebatte-102.html",
     "https://www.deutschlandfunk.de/grundsatzeinigung-zwischen-iwf-und-ukraine-100.html",
     "https://www.deutschlandfunk.de/verdi-uebergibt-bundesweit-forderungen-fuer-tarifrunde-100.html",
-    "https://www.deutschlandfunk.de/polens-konsulat-in-irkutsk-wird-geschlossen-100.html"
+    "https://www.deutschlandfunk.de/polens-konsulat-in-irkutsk-wird-geschlossen-100.html",
+    "https://www.deutschlandfunk.de/innenminister-dobrindt-csu-verspricht-bessere-steuerung-der-migration-102.html",
+    "https://www.deutschlandfunk.de/ombudsfrau-kritisiert-verfahren-der-eu-kommission-als-uebereilt-102.html",
+    "https://www.deutschlandfunk.de/praesident-ramaphosa-reagiert-empoert-ankuendigung-trumps-suedafrika-nicht-zum-naechsten-g20-gipfel--100.html"
   ],
   "content_hashes": [
-    "433f615371d762e44cb4146c1649084e",
-    "3d61d35c572f6468aa0baee4bdf8b863",
-    "08067f95f922aef31e3ad4cadd92ea03",
     "93f026c04673bf8a82e68bf813223957",
     "e52ba22609d6ad1ee23447057c48cb94",
     "efacbeb8329cb5e6e6970fbc03cf3db7",
@@ -2001,12 +1998,12 @@
     "d7a5bb5efb8e2b99cb4673a895f71bbe",
     "b4d2d916b7eef11de38c69424a9e8933",
     "e11c916523e1518eeff6f13faaecc9ac",
-    "169f1d20d6e5d382946821fb5a0a4f56"
+    "169f1d20d6e5d382946821fb5a0a4f56",
+    "d9131d1ec0f5bfda86ee4315b4a938b0",
+    "6fc673dfedfeb555e80adab44af20887",
+    "50cd8b456cb2c1f506c924030fbda6c2"
   ],
   "titles": [
-    "Kontakt zu Iran-Spion?: Weiterer Mann in Dänemark festgenommen",
-    "Geld für Afghanen: Für 5000 Euro zurück zu den Taliban",
-    "Extremismus - Bundestagspräsidentin Klöckner verurteilt Anschlag auf Fahrzeug von AfD-Abgeordnetem Baumann",
     "Frankreich - Mutmaßlich islamistischer Anschlag auf Ile d'Oleron - Autofahrer überfährt zahlreiche Menschen",
     "F.A.Z. Einspruch Podcast: Warum Karlsruhe die Triage-Regeln verworfen hat",
     "Digitaler Voyeurismus: Wie betroffene Frauen Gesetzesänderungen bewirken",
@@ -3003,12 +3000,12 @@
     "Bundestag - Innenminister Dobrindt äußert sich in Haushaltsdebatte",
     "Milliarden-Hilfen - Grundsatzeinigung zwischen IWF und Ukraine",
     "Nahverkehr - Verdi übergibt bundesweit Forderungen für Tarifrunde",
-    "Russland - Polens Konsulat in Irkutsk wird geschlossen"
+    "Russland - Polens Konsulat in Irkutsk wird geschlossen",
+    "Bundestag - Innenminister Dobrindt (CSU) verspricht bessere Steuerung der Migration",
+    "Änderungen zum Lieferkettengesetz - Ombudsfrau kritisiert Verfahren der EU-Kommission als übereilt",
+    "Diplomatie - Präsident Ramaphosa reagiert empört Ankündigung Trumps, Südafrika nicht zum nächsten G20-Gipfel in Miami einzuladen"
   ],
   "hashes": [
-    "f2c26f1022e965dcd3ebcad106438d25",
-    "95768c96c67fbd6df56985cc88a696a9",
-    "fbac7d34f1c10bd87e69fa43c9477a35",
     "95883830754dd138550b5032aca9648a",
     "d8bd2f16d0b51a6980ca5302659b0279",
     "8c0a4d496fbf79b217938bc1205d378c",
@@ -4005,6 +4002,9 @@
     "3dddcfcf025e4579bd3abd7e9523eda5",
     "3cd4932919d20dbc07289de7fd5d9c65",
     "45e1fdeb60f6bb00ba412777cd6927f0",
-    "707571f311073aa2f729ad9988b165cd"
+    "707571f311073aa2f729ad9988b165cd",
+    "6336c321b09b3d34b93699251f7b3301",
+    "c3fb93697a33628078189c5c93349881",
+    "1bcb4be24d5de997154992b3d9121ace"
   ]
 }
