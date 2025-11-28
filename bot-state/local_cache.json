@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/agrardiesel-subvention-kommt-zurueck-bundestag-schafft-ampel-gesetz-wieder-ab-100.html",
-    "https://www.deutschlandfunk.de/verdaechtiger-nach-blutigen-hakenkreuz-schmierereien-in-hanau-gefasst-100.html",
     "https://www.deutschlandfunk.de/gruenen-politikerin-paul-gegen-sexkauf-verbot-100.html",
     "https://www.deutschlandfunk.de/trump-verkuendet-kasachstans-beitritt-zu-abraham-abkommen-ueber-kooperationen-mit-israel-bedeutung-u-100.html",
     "https://www.deutschlandfunk.de/gesundheitsschutz-am-arbeitsplatz-zum-ein-menschenrecht-erhoben-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeslaender-verlaengern-allianz-zum-schutz-der-meere-102.html",
     "https://www.deutschlandfunk.de/bundesparteitag-der-gruenen-vorsitzende-brantner-wirft-regierung-politik-zu-lasten-junger-menschen-v-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-wirbt-fuer-rentenpaket-vertraut-der-spd-110794031.html",
-    "https://www.deutschlandfunk.de/kanada-will-oelpipeline-zum-pazifik-bauen-mehr-unabhaengigkeit-von-usa-104.html"
+    "https://www.deutschlandfunk.de/kanada-will-oelpipeline-zum-pazifik-bauen-mehr-unabhaengigkeit-von-usa-104.html",
+    "https://www.deutschlandfunk.de/praesident-trump-kuendigt-aufhebung-fast-aller-dekrete-bidens-an-104.html",
+    "https://www.faz.net/aktuell/politik/inland/konsularbeamte-in-deutschland-die-taliban-kommen-110792847.html"
   ],
   "content_hashes": [
-    "c21fa62ff690931980aad060c4e50f55",
-    "a996b2ce7d77332f8589282ddc383d5e",
     "3f331903ef3f0f564230fdd8e3a5e657",
     "d43b569780292a7716ed7fa37fd658ed",
     "92ee80bbcdf31c0ab53295d9fca74ca1",
@@ -2001,11 +1999,11 @@
     "3454657b6b4681107548eb31107b481f",
     "43d0aba49067e07470fb72c3bbb58b47",
     "d10ace00d4515e3e665a68c30d40aca0",
-    "77dc0f4ab9eb385edd97ef54d2270777"
+    "77dc0f4ab9eb385edd97ef54d2270777",
+    "797eece0a1b02157ac125ce2120c5f1f",
+    "a2b6c82eb69a3d78377d68bc783aee41"
   ],
   "titles": [
-    "Landwirtschaft - Agrardiesel-Subvention kommt zurück - Bundestag schafft Ampel-Gesetz wieder ab",
-    "Hessen - Verdächtiger nach blutigen Hakenkreuz-Schmierereien in Hanau gefasst",
     "Prostitution - Grünen-Politikerin Paul gegen Sexkauf-Verbot",
     "Diplomatie - Trump verkündet Kasachstans Beitritt zu Abraham-Abkommen über Kooperationen mit Israel - Bedeutung unklar",
     "Bundestag - Gesundheitsschutz am Arbeitsplatz zum ein Menschenrecht erhoben",
@@ -3003,11 +3001,11 @@
     "Meeresforschung - Bundesländer verlängern Allianz zum Schutz der Meere",
     "Hannover - Bundesparteitag der Grünen: Vorsitzende Brantner wirft Regierung Politik zu Lasten junger Menschen vor",
     "Rentenkonflikt: Der Kanzler bittet: Vertraut der SPD",
-    "Energie - Kanada will Ölpipeline zum Pazifik bauen - mehr Unabhängigkeit von USA"
+    "Energie - Kanada will Ölpipeline zum Pazifik bauen - mehr Unabhängigkeit von USA",
+    "USA - Präsident Trump kündigt Aufhebung fast aller Dekrete Bidens an",
+    "Konsularbeamte in Deutschland: „Die Taliban kommen“"
   ],
   "hashes": [
-    "daffce1731302bc27d865ce6900a1bd8",
-    "01f20d5cb8cfd7b5c6b70656ed603818",
     "4983ff41265aef174a888dfb78b385b7",
     "0e5731d4f288e2489a9b38cd652b3b39",
     "5e9321180681fcbe8263f9e8fe536297",
@@ -4005,6 +4003,8 @@
     "a34249ab5d3a73846df8c283b9d1381c",
     "3a553c32ad7aafd8abc228b0de8289da",
     "d42b88a24b33334bf85815274e8f88cd",
-    "5a8407ffe6abd3247fe0806685333e55"
+    "5a8407ffe6abd3247fe0806685333e55",
+    "a66ba39351d12f1ccd4da9f82e90cbbc",
+    "8830a1bfce709e55d21cace0c3543266"
   ]
 }
