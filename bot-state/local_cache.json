@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/prozess-in-dresden-beate-zschaepes-freundin-schweigt-accg-110767539.html",
-    "https://www.deutschlandfunk.de/linke-erneut-nicht-in-geheimdienst-ausschuss-gewaehlt-102.html",
     "https://www.faz.net/aktuell/politik/inland/klaus-esser-afd-spitze-mischt-sich-in-streit-im-nrw-landesverband-ein-110768311.html",
     "https://www.deutschlandfunk.de/anklage-gegen-ex-praesident-saakaschwili-wegen-umsturzvorwurf-100.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-fuer-gas-kunden-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/warum-der-bsw-einspruch-wahrscheinlich-abgelehnt-wird-accg-200272063.html",
     "https://www.deutschlandfunk.de/haushalt-2026-mit-stimmen-der-schwarz-roten-koalition-beschlossen-100.html",
     "https://www.deutschlandfunk.de/inflationsrate-in-deutschland-liegt-im-november-bei-2-3-prozent-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nord-stream-und-klimastiftung-die-geloeschten-mails-des-ministers-110793618.html"
+    "https://www.faz.net/aktuell/politik/inland/nord-stream-und-klimastiftung-die-geloeschten-mails-des-ministers-110793618.html",
+    "https://www.deutschlandfunk.de/eu-will-deutsche-position-zum-verbrenner-aus-sorgfaeltig-pruefen-102.html",
+    "https://www.deutschlandfunk.de/ard-konkretisiert-aus-fuer-radiowellen-106.html"
   ],
   "content_hashes": [
-    "fbf63e8084a9394b1ad8001a795a858c",
-    "c9fb28ab0da3c9c621ccaa05e5c22597",
     "7b3ff4d2af7a9dd829d3460da8dd3365",
     "0edf2fefb1b49e6256b63c70c56377ea",
     "6ddc35f7688793db1eea83dfb577f954",
@@ -2001,11 +1999,11 @@
     "8761cdea97aecf6fb182fe8b95f42599",
     "4510e5bca451668b3a6c06f5295e4064",
     "ed2ca936c8899390702c73f4486e48cf",
-    "e4ba37aa55c1f9a8a2ccf5c2fb9f3ea4"
+    "e4ba37aa55c1f9a8a2ccf5c2fb9f3ea4",
+    "2d2f9abd64b8710a3553ddb527e38756",
+    "4697b90c8a8f5b965bbf5d8c3568fcc4"
   ],
   "titles": [
-    "Beate Zschäpes Freundin: Was wusste Susann E. von den Taten des NSU?",
-    "Bundestag - Linke erneut nicht in Geheimdienst-Ausschuss gewählt",
     "Fall Esser: AfD-Spitze mischt sich in Streit im Landesverband NRW ein",
     "Georgien - Anklage gegen Ex-Präsident Saakaschwili wegen Umsturzvorwurf",
     "Energiepreise - Bundestag beschließt Entlastung für Gas-Kunden",
@@ -3003,11 +3001,11 @@
     "Neuauszählung der Wahl?: Warum der BSW-Einspruch wahrscheinlich abgelehnt wird",
     "Bundestag - Haushalt 2026 mit Stimmen der schwarz-roten Koalition beschlossen",
     "Statistisches Bundesamt - Inflationsrate in Deutschland liegt im November bei 2,3 Prozent",
-    "Klimastiftung und Nord Stream: „Mit dem Wissen von heute würden wir so etwas nicht beginnen“"
+    "Klimastiftung und Nord Stream: „Mit dem Wissen von heute würden wir so etwas nicht beginnen“",
+    "Nach Entscheidung im Koalitionsausschuss - EU will deutsche Position zum Verbrenner-Aus \"sorgfältig prüfen\"",
+    "Medien - ARD konkretisiert Aus für Radiowellen"
   ],
   "hashes": [
-    "6cf2ce36512926655a3d4708f5a96ab4",
-    "765285e81687196004daa5ff0f193a05",
     "6681ae35d677dc6f99f8e5a0cadffea7",
     "7bc0822fc0ddd67ba1e8090056a4c706",
     "62d00023ab91c7c2fcbeec9e37aca464",
@@ -4005,6 +4003,8 @@
     "b1c4707e84be5bfd47558b5cc3c523b5",
     "98c87eddb593f78b6bd8a2ed2fd0d4e6",
     "d4f136d7a323e11afed994e3575df380",
-    "21fe1c411a0676546057d12e50137094"
+    "21fe1c411a0676546057d12e50137094",
+    "753c8bcd3869190f31dc29cb8bad56d9",
+    "0a8f51d8aabf024a2fafc62b204345ed"
   ]
 }
