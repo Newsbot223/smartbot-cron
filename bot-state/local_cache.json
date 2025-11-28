@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kein-wachstum-seit-2019-die-wirtschaftskrise-will-nicht-weichen-accg-110766645.html",
-    "https://www.deutschlandfunk.de/bericht-google-plant-bis-dato-groesste-investition-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/bafin-verhaengt-rekordbusse-von-45-millionen-euro-gegen-jpmorgan-100.html",
     "https://www.spiegel.de/wirtschaft/marktkorrektur-bei-aktien-und-anleihen-bundesbank-sieht-wachsendes-risiko-fallender-kurse-a-a4941df4-088e-4814-8644-ce7856e7e960#ref=rss",
     "https://www.spiegel.de/politik/deutschland/nina-warken-gesundheitsministerin-ist-fuer-sexkaufverbot-a-edf56c25-9b2d-4e29-9a3a-61f422afd5b6#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/berliner-gespraech-rente-und-koalitionsausschuss-100.html",
     "https://www.deutschlandfunk.de/orban-trifft-putin-thema-vor-allem-lieferung-von-oel-und-gas-100.html",
     "https://www.faz.net/aktuell/politik/inland/giessen-ruestet-sich-vor-gruendung-der-afd-jugend-110792741.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-vorsitzende-informieren-fraktionen-ueber-ergebnisse-des-koalitionsausschusses-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-vorsitzende-informieren-fraktionen-ueber-ergebnisse-des-koalitionsausschusses-faz-110093143.html",
+    "https://www.deutschlandfunk.de/medienberichte-rentenpaket-soll-bleiben-weitere-reformen-angepeilt-100.html",
+    "https://www.deutschlandfunk.de/lage-auf-arbeitsmarkt-verschlechtert-sich-fuer-menschen-mit-behinderung-102.html"
   ],
   "content_hashes": [
-    "7773bc258bfe245dae5bf91a2f3272f7",
-    "a02708abce168513106b2e8ab1766b5a",
     "9ba47cfe4b8785f88226270b7166ba77",
     "88811933d971646cac2facc7799b1b65",
     "290bc95d74dea802c5ec8d036ccb0e21",
@@ -2001,11 +1999,11 @@
     "eed8daeb6eb7f62d739734ca55606f2c",
     "1f4af8994073d56028d62b0927437539",
     "c8dc2a16022be2a1a5c74dafa0140e7f",
-    "e4d8ee2631b87e45a79097a5fb2d5092"
+    "e4d8ee2631b87e45a79097a5fb2d5092",
+    "6e332432369e92daaf2d202cc5eff5c1",
+    "530e3ea088f119490ee88bf2e3ba2dc3"
   ],
   "titles": [
-    "Kein Wachstum seit 2019: Die Wirtschaftskrise will nicht weichen",
-    "Internet-Infrastruktur - Bericht: Google plant \"bis dato größte Investition\" in Deutschland",
     "Mangelnde Geldwäsche-Prävention - BaFin verhängt Rekordbuße von 45 Millionen Euro gegen JPMorgan",
     "Marktkorrektur bei Aktien und Anleihen: Bundesbank sieht wachsendes Risiko fallender Kurse",
     "Nina Warken: Gesundheitsministerin ist für Sexkaufverbot",
@@ -3003,11 +3001,11 @@
     "Rentenpaket - Koalitionsausschuss tagt bis tief in die Nacht",
     "Moskau - Orban trifft Putin - Thema vor allem Lieferung von Öl und Gas",
     "Massenproteste erwartet: Gießen rüstet sich vor Gründung der AfD-Jugend",
-    "Liveblog Bundespolitik: Vorsitzende informieren Fraktionen über Rentenpläne"
+    "Liveblog Bundespolitik: Vorsitzende informieren Fraktionen über Rentenpläne",
+    "Koalitionsausschuss - Medienberichte: Rentenpaket soll bleiben, weitere Reformen angepeilt",
+    "\"Aktion Mensch\" - Lage auf Arbeitsmarkt verschlechtert sich für Menschen mit Behinderung"
   ],
   "hashes": [
-    "c5057badc1621153f378cf3fa2d690a8",
-    "8cdbef5d14dc4390a20ab0647eb1dfe7",
     "71479b0d7dec3339465977ef52856d77",
     "288ca49843b708dedb36d032105d700b",
     "9ebf6fbbb30b8c2b51eb85494dc24b64",
@@ -4005,6 +4003,8 @@
     "2a93df5b2b560e99ea86ba61bdac6d56",
     "f82e2da281718933231e5e69fdec75a3",
     "e78256af4b034e4811a6856913b3d156",
-    "af629080cbbced7c22b045f45fde765a"
+    "af629080cbbced7c22b045f45fde765a",
+    "9cca92120f4005c3b36e9dd55b0b095c",
+    "83f16c58ec4fede6bab166e044cfe92b"
   ]
 }
