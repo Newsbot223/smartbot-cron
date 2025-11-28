@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sexpuppen-waffen-unlautere-methoden-die-skandale-um-die-plattform-shein-100.html",
-    "https://www.deutschlandfunk.de/gedenkzeichen-fuer-juedische-haeftlinge-enthuellt-100.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-abbau-der-buerokratie-in-der-pflege-100.html",
     "https://www.deutschlandfunk.de/emissionen-in-der-eu-um-2-5-prozent-gesunken-102.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-milliarden-sparpaket-fuer-krankenkassen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/rentenstreit-merz-und-klingbeil-stellen-ergebnisse-vor-livestream-accg-200305198.html",
     "https://www.deutschlandfunk.de/debatte-ueber-sozialhaushalt-afd-politik-ueberfordert-die-sozialsysteme-102.html",
     "https://www.deutschlandfunk.de/abnahme-der-arbeitslosigkeit-im-november-104.html",
-    "https://www.deutschlandfunk.de/mindestens-fuenf-tote-durch-israelische-angriffe-im-sueden-syriens-100.html"
+    "https://www.deutschlandfunk.de/mindestens-fuenf-tote-durch-israelische-angriffe-im-sueden-syriens-100.html",
+    "https://www.deutschlandfunk.de/durchsuchungen-der-anti-korruptionsbehoerde-bei-praesidialamtsleiter-jermak-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-koalitionsspitzen-einig-zustimmung-der-jungen-gruppe-noch-unklar-faz-110093143.html"
   ],
   "content_hashes": [
-    "7d7aaebba24392d5bda39037959ae8c0",
-    "804e43a8abc384186a969d3a714795ae",
     "c5d4b906d77764833a429b0c312ee78d",
     "f5ba60e3c4d5bc83a562f816ccc53724",
     "c9d42c5e2f23b4689ffaa1f289d3c7c4",
@@ -2001,11 +1999,11 @@
     "3d57ba2ad0ba3893782450d6528dd50e",
     "23814a8880fe9eaec5dfc87b86c0033f",
     "cd8d4a2893a63b0f521ba7f7fe163f10",
-    "58346ff075b3190d617f93f10684d758"
+    "58346ff075b3190d617f93f10684d758",
+    "0cec16a5a3a3523648261e5b1f209caf",
+    "c31cfba4ec35d8d537258548f5e3e26f"
   ],
   "titles": [
-    "Online-Handel - Sexpuppen, Waffen, unlautere Methoden - die Skandale um die Plattform Shein",
-    "KZ Ravensbrück - Gedenkzeichen für jüdische Häftlinge enthüllt",
     "Gesundheitspolitik - Bundestag beschließt Abbau der Bürokratie in der Pflege",
     "Treibhausgase - Emissionen in der EU um 2,5 Prozent gesunken",
     "Gesundheitspolitik - Bundestag beschließt Milliarden-Sparpaket für Krankenkassen",
@@ -3003,11 +3001,11 @@
     "Livestream: Kommt es zu einer Einigung im Rentenstreit?",
     "Bundestag - Debatte über Sozialhaushalt - AfD: \"Politik überfordert die Sozialsysteme\"",
     "Statistik - Abnahme der Arbeitslosigkeit im November",
-    "Medienbericht - Mindestens fünf Tote durch israelische Angriffe im Süden Syriens"
+    "Medienbericht - Mindestens fünf Tote durch israelische Angriffe im Süden Syriens",
+    "Ukraine - Durchsuchungen der Anti-Korruptionsbehörde bei Präsidialamtsleiter Jermak",
+    "Liveblog Bundespolitik: Koalitionsspitzen einig – Zustimmung der Jungen Gruppe noch unklar"
   ],
   "hashes": [
-    "09d9f7879dc99d3ff9455a329752a4f5",
-    "3485c874b0969243925c110de9baa0b3",
     "9d6cda5952702f493fa11e6aa32d4c42",
     "1f886a47776fc8beb889bbec9a83df7f",
     "3977da4cfc1443528369f137b819cae9",
@@ -4005,6 +4003,8 @@
     "cf5a6544b16139ef5aeb928e99669c82",
     "0c5cb18ff105896418804c39cad35d0d",
     "8a08fd3bad784148874f0dc67ccaf0f0",
-    "f08efcfdd1edfcfc29c23a9a47f1cef2"
+    "f08efcfdd1edfcfc29c23a9a47f1cef2",
+    "96e61a0353088d7df0233d371d397ecf",
+    "5d40bb098a9993ccaabaae94791afc71"
   ]
 }
