@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wichtige-beratungen-vor-offiziellem-start-der-fahrplan-zum-uno-klimagipfel-in-bel-m-100.html",
-    "https://www.deutschlandfunk.de/lula-reiche-laender-muessen-ihre-klimaschulden-bezahlen-100.html",
-    "https://www.deutschlandfunk.de/leiter-des-new-yorker-goethe-instituts-sieht-euphorie-im-kulturbereich-102.html",
     "https://www.deutschlandfunk.de/rehlinger-bekraeftigt-forderung-nach-hohen-eu-zoellen-auf-stahlimporte-106.html",
     "https://www.deutschlandfunk.de/unesco-beschliesst-empfehlung-zu-neurotechnologie-102.html",
     "https://www.deutschlandfunk.de/spitzentreffen-zur-zukunft-der-stahlbranche-im-kanzleramt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/medienberichte-israelische-soldaten-sollen-palaestinenser-erschossen-haben-die-sich-ergeben-hatten-100.html",
     "https://www.deutschlandfunk.de/bundestag-stimmt-ueber-haushalt-2026-ab-104.html",
     "https://www.deutschlandfunk.de/sloweniens-ministerpraesidenten-golob-zu-gast-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/steinmeier-beendet-staatsbesuch-in-spanien-102.html"
+    "https://www.deutschlandfunk.de/steinmeier-beendet-staatsbesuch-in-spanien-102.html",
+    "https://www.deutschlandfunk.de/beratungen-nach-sechs-stunden-in-der-nacht-beendet-100.html",
+    "https://www.deutschlandfunk.de/entmachteter-praesident-in-den-senegal-ausgeflogen-putschisten-ernennen-uebergangs-staatschef-100.html",
+    "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-wird-richter-vorgefuehrt-102.html"
   ],
   "content_hashes": [
-    "ac15d079a3ff970ff44abdefb68a16f4",
-    "8d8f8218610fab601c238bdce3b8c7e7",
-    "9bc310006f24d018dfe7478fa15c0a74",
     "14cac21ac45855b411c0ef1e2e15d1e5",
     "12720d90da6f69e2073ec6e39a4d8357",
     "e299cc72307f5209c711916c92ef4fcb",
@@ -2001,12 +1998,12 @@
     "d6921974e9aa5b31be8eb2958198e846",
     "8fe59260adb7d16b3639b9cc63da4327",
     "8a1e24ed5444c43a2bd76a228c05d6a3",
-    "d04caf9ca5ce33b83db0880a732bd100"
+    "d04caf9ca5ce33b83db0880a732bd100",
+    "42e11768ff7b970b4019e43f9a8ff911",
+    "0374095405e6c2a7e96f441def67a605",
+    "adaaddb31a06489d6cb31013730db255"
   ],
   "titles": [
-    "Brasilien - Wichtige Beratungen vor offiziellem Start - der Fahrplan zum UNO-Klimagipfel in Belém",
-    "Weltklimakonferenz - Lula: Reiche Länder müssen ihre Klimaschulden bezahlen",
-    "Bürgermeister-Wahl - Leiter des New Yorker Goethe-Instituts sieht Euphorie im Kulturbereich",
     "Vor Stahlgipfel - Rehlinger bekräftigt Forderung nach hohen EU-Zöllen auf Stahlimporte",
     "Smartwatches und Wearables - Unesco beschließt Empfehlung zu Neurotechnologie",
     "Stahlgipfel - Spitzentreffen zur Zukunft der Stahlbranche im Kanzleramt",
@@ -3003,12 +3000,12 @@
     "Westjordanland - Medienberichte: Israelische Soldaten sollen Palästinenser erschossen haben, die sich ergeben hatten",
     "Finanzen - Bundestag stimmt über Haushalt 2026 ab",
     "Diplomatie - Sloweniens Ministerpräsidenten Golob zu Gast in Berlin",
-    "Bundespräsident - Steinmeier beendet Staatsbesuch in Spanien"
+    "Bundespräsident - Steinmeier beendet Staatsbesuch in Spanien",
+    "Koalitionsausschuss - Beratungen nach sechs Stunden in der Nacht beendet",
+    "Guinea-Bissau - Entmachteter Präsident in den Senegal ausgeflogen - Putschisten ernennen Übergangs-Staatschef",
+    "Nach Auslieferung - Nord-Stream-Verdächtiger wird Richter vorgeführt"
   ],
   "hashes": [
-    "cda933e7fca474bef2aff3477f563418",
-    "a304b237a782b709db6a7c9eb5d79a64",
-    "a56011e57fd0891e6f13edcf88909369",
     "0d6b493f7d43c3596b7aeada9cc58482",
     "f3315e581f5e3205a8e01bf7daa6151f",
     "3e94fe63c0ab4aafa930deaaf1cce120",
@@ -4005,6 +4002,9 @@
     "20a10969c0596944d00fbd3ddddb245e",
     "b183b2d2a6ff85cb7f9027cd73b59c26",
     "a1f05c9e49dcc919300de8ddb863372c",
-    "f892c56aa45a2172c81e7f25e1bede2f"
+    "f892c56aa45a2172c81e7f25e1bede2f",
+    "30d2090eca01cac14d426bb9e954cf58",
+    "0eecfb23607c3f261b70443a1bca1fb8",
+    "4e4ae090e83ebdb286c02b8b14860e78"
   ]
 }
