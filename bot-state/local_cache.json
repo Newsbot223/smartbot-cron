@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundestag-beschliesst-abbau-der-buerokratie-in-der-pflege-100.html",
-    "https://www.deutschlandfunk.de/emissionen-in-der-eu-um-2-5-prozent-gesunken-102.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-milliarden-sparpaket-fuer-krankenkassen-100.html",
     "https://www.deutschlandfunk.de/bueros-von-afd-abgeordneten-aus-bayern-durchsucht-100.html",
     "https://www.deutschlandfunk.de/toter-nach-drohnenangriffen-auf-russische-stadt-wolgograd-acht-verletzte-in-der-ukraine-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/abnahme-der-arbeitslosigkeit-im-november-104.html",
     "https://www.deutschlandfunk.de/mindestens-fuenf-tote-durch-israelische-angriffe-im-sueden-syriens-100.html",
     "https://www.deutschlandfunk.de/durchsuchungen-der-anti-korruptionsbehoerde-bei-praesidialamtsleiter-jermak-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-koalitionsspitzen-einig-zustimmung-der-jungen-gruppe-noch-unklar-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-koalitionsspitzen-einig-zustimmung-der-jungen-gruppe-noch-unklar-faz-110093143.html",
+    "https://www.faz.net/aktuell/politik/inland/jugendliche-aus-hessen-sollen-rechtsextremen-anschlag-geplant-haben-anklage-110793357.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-rechnet-mit-zustimmung-zum-rentenpaket-faz-110093143.html"
   ],
   "content_hashes": [
-    "c5d4b906d77764833a429b0c312ee78d",
-    "f5ba60e3c4d5bc83a562f816ccc53724",
     "c9d42c5e2f23b4689ffaa1f289d3c7c4",
     "607cf4840585bbfe7cf4ec76fd1ee106",
     "176dea3be38bf4735d9dd53d7ca42a11",
@@ -2001,11 +1999,11 @@
     "cd8d4a2893a63b0f521ba7f7fe163f10",
     "58346ff075b3190d617f93f10684d758",
     "0cec16a5a3a3523648261e5b1f209caf",
-    "c31cfba4ec35d8d537258548f5e3e26f"
+    "c31cfba4ec35d8d537258548f5e3e26f",
+    "17d7f081cc9b52fdbfbecd2d7660252b",
+    "8d11ccd4c47f88144d7d259400993ec3"
   ],
   "titles": [
-    "Gesundheitspolitik - Bundestag beschließt Abbau der Bürokratie in der Pflege",
-    "Treibhausgase - Emissionen in der EU um 2,5 Prozent gesunken",
     "Gesundheitspolitik - Bundestag beschließt Milliarden-Sparpaket für Krankenkassen",
     "Verdacht auf Betrug - Büros von AfD-Abgeordneten aus Bayern durchsucht",
     "Ukraine-Krieg - Toter nach Drohnenangriffen auf russische Stadt Wolgograd - acht Verletzte in der Ukraine",
@@ -3003,11 +3001,11 @@
     "Statistik - Abnahme der Arbeitslosigkeit im November",
     "Medienbericht - Mindestens fünf Tote durch israelische Angriffe im Süden Syriens",
     "Ukraine - Durchsuchungen der Anti-Korruptionsbehörde bei Präsidialamtsleiter Jermak",
-    "Liveblog Bundespolitik: Koalitionsspitzen einig – Zustimmung der Jungen Gruppe noch unklar"
+    "Liveblog Bundespolitik: Koalitionsspitzen einig – Zustimmung der Jungen Gruppe noch unklar",
+    "Rechtsextreme Motive: Jugendliche wegen Anschlagsplänen angeklagt",
+    "Liveblog Bundespolitik: Merz rechnet mit Zustimmung zum Rentenpaket"
   ],
   "hashes": [
-    "9d6cda5952702f493fa11e6aa32d4c42",
-    "1f886a47776fc8beb889bbec9a83df7f",
     "3977da4cfc1443528369f137b819cae9",
     "e0d7002b01f2e134cbc9a6e4a06fc13d",
     "cc38c4c523160193b1e5944f6aa5aec4",
@@ -4005,6 +4003,8 @@
     "8a08fd3bad784148874f0dc67ccaf0f0",
     "f08efcfdd1edfcfc29c23a9a47f1cef2",
     "96e61a0353088d7df0233d371d397ecf",
-    "5d40bb098a9993ccaabaae94791afc71"
+    "5d40bb098a9993ccaabaae94791afc71",
+    "feed94c5f6506230012bda12aa2d114a",
+    "9def0f90b6a653055e7b1ae00b4ab46c"
   ]
 }
