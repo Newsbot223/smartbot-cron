@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/marktkorrektur-bei-aktien-und-anleihen-bundesbank-sieht-wachsendes-risiko-fallender-kurse-a-a4941df4-088e-4814-8644-ce7856e7e960#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/nina-warken-gesundheitsministerin-ist-fuer-sexkaufverbot-a-edf56c25-9b2d-4e29-9a3a-61f422afd5b6#ref=rss",
-    "https://www.deutschlandfunk.de/rechnungshof-kritisiert-sicherheitsvorkehrungen-im-pariser-louvre-102.html",
     "https://www.deutschlandfunk.de/sexpuppen-waffen-unlautere-methoden-die-skandale-um-die-plattform-shein-100.html",
     "https://www.deutschlandfunk.de/gedenkzeichen-fuer-juedische-haeftlinge-enthuellt-100.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-abbau-der-buerokratie-in-der-pflege-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-vorsitzende-informieren-fraktionen-ueber-ergebnisse-des-koalitionsausschusses-faz-110093143.html",
     "https://www.deutschlandfunk.de/medienberichte-rentenpaket-soll-bleiben-weitere-reformen-angepeilt-100.html",
     "https://www.deutschlandfunk.de/lage-auf-arbeitsmarkt-verschlechtert-sich-fuer-menschen-mit-behinderung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/rentenstreit-merz-und-klingbeil-stellen-ergebnisse-vor-livestream-accg-200305198.html"
+    "https://www.faz.net/aktuell/politik/inland/rentenstreit-merz-und-klingbeil-stellen-ergebnisse-vor-livestream-accg-200305198.html",
+    "https://www.deutschlandfunk.de/debatte-ueber-sozialhaushalt-afd-politik-ueberfordert-die-sozialsysteme-102.html",
+    "https://www.deutschlandfunk.de/abnahme-der-arbeitslosigkeit-im-november-104.html",
+    "https://www.deutschlandfunk.de/mindestens-fuenf-tote-durch-israelische-angriffe-im-sueden-syriens-100.html"
   ],
   "content_hashes": [
-    "88811933d971646cac2facc7799b1b65",
-    "290bc95d74dea802c5ec8d036ccb0e21",
-    "0774a31214278401ba79c7c99fe794de",
     "7d7aaebba24392d5bda39037959ae8c0",
     "804e43a8abc384186a969d3a714795ae",
     "c5d4b906d77764833a429b0c312ee78d",
@@ -2001,12 +1998,12 @@
     "e4d8ee2631b87e45a79097a5fb2d5092",
     "6e332432369e92daaf2d202cc5eff5c1",
     "530e3ea088f119490ee88bf2e3ba2dc3",
-    "3d57ba2ad0ba3893782450d6528dd50e"
+    "3d57ba2ad0ba3893782450d6528dd50e",
+    "23814a8880fe9eaec5dfc87b86c0033f",
+    "cd8d4a2893a63b0f521ba7f7fe163f10",
+    "58346ff075b3190d617f93f10684d758"
   ],
   "titles": [
-    "Marktkorrektur bei Aktien und Anleihen: Bundesbank sieht wachsendes Risiko fallender Kurse",
-    "Nina Warken: Gesundheitsministerin ist für Sexkaufverbot",
-    "Frankreich - Rechnungshof kritisiert Sicherheitsvorkehrungen im Pariser Louvre",
     "Online-Handel - Sexpuppen, Waffen, unlautere Methoden - die Skandale um die Plattform Shein",
     "KZ Ravensbrück - Gedenkzeichen für jüdische Häftlinge enthüllt",
     "Gesundheitspolitik - Bundestag beschließt Abbau der Bürokratie in der Pflege",
@@ -3003,12 +3000,12 @@
     "Liveblog Bundespolitik: Vorsitzende informieren Fraktionen über Rentenpläne",
     "Koalitionsausschuss - Medienberichte: Rentenpaket soll bleiben, weitere Reformen angepeilt",
     "\"Aktion Mensch\" - Lage auf Arbeitsmarkt verschlechtert sich für Menschen mit Behinderung",
-    "Livestream: Kommt es zu einer Einigung im Rentenstreit?"
+    "Livestream: Kommt es zu einer Einigung im Rentenstreit?",
+    "Bundestag - Debatte über Sozialhaushalt - AfD: \"Politik überfordert die Sozialsysteme\"",
+    "Statistik - Abnahme der Arbeitslosigkeit im November",
+    "Medienbericht - Mindestens fünf Tote durch israelische Angriffe im Süden Syriens"
   ],
   "hashes": [
-    "288ca49843b708dedb36d032105d700b",
-    "9ebf6fbbb30b8c2b51eb85494dc24b64",
-    "72cfc21eeddf6d74c9462ed8693e2116",
     "09d9f7879dc99d3ff9455a329752a4f5",
     "3485c874b0969243925c110de9baa0b3",
     "9d6cda5952702f493fa11e6aa32d4c42",
@@ -4005,6 +4002,9 @@
     "af629080cbbced7c22b045f45fde765a",
     "9cca92120f4005c3b36e9dd55b0b095c",
     "83f16c58ec4fede6bab166e044cfe92b",
-    "cf5a6544b16139ef5aeb928e99669c82"
+    "cf5a6544b16139ef5aeb928e99669c82",
+    "0c5cb18ff105896418804c39cad35d0d",
+    "8a08fd3bad784148874f0dc67ccaf0f0",
+    "f08efcfdd1edfcfc29c23a9a47f1cef2"
   ]
 }
