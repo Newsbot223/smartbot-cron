@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waffenfund-in-oesterreich-100.html",
-    "https://www.deutschlandfunk.de/wagenknecht-will-weiterhin-fuehrende-rolle-in-partei-102.html",
     "https://www.faz.net/aktuell/politik/tadschikistan-aus-deutschland-dorthin-abgeschoben-wo-folter-droht-110768398.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-entlastung-der-kunden-100.html",
     "https://www.deutschlandfunk.de/israels-armee-greift-ziele-im-suedlibanon-an-110.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/steinmeier-gedenkt-in-guernica-der-opfer-von-ns-luftangriff-102.html",
     "https://www.deutschlandfunk.de/ungarn-will-weiter-oel-und-gas-aus-russland-kaufen-100.html",
     "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-in-u-haft-102.html",
-    "https://www.deutschlandfunk.de/koalitionsausschuss-interview-albrecht-von-lucke-politikwissenschaftler-100.html"
+    "https://www.deutschlandfunk.de/koalitionsausschuss-interview-albrecht-von-lucke-politikwissenschaftler-100.html",
+    "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-in-deutschland-in-u-haft-a-2c977ea1-7278-4135-bee5-d6a1e4ea2216#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/warum-der-bsw-einspruch-wahrscheinlich-abgelehnt-wird-accg-200272063.html"
   ],
   "content_hashes": [
-    "f2a897167a08dbfbd8c0d60933662544",
-    "b750293c70a67be9ad3d99ee5e68e39f",
     "59683bf9202176b1103c0fbff706732c",
     "ce2971857a026e504ab2ae754df1c497",
     "1cf39c43e0535ee2f26ed92cfc275be0",
@@ -2001,11 +1999,11 @@
     "33cae9aa11ef2bde5423b7b0a9d67bbe",
     "98318d141e9a1594fd7f7430765faca4",
     "1fed0b8be79ca382632c54a4a9a7a0c2",
-    "09ef538b48f06f9c95023d23c62411fe"
+    "09ef538b48f06f9c95023d23c62411fe",
+    "39d2d6913c767db85b1a066a38a11498",
+    "8761cdea97aecf6fb182fe8b95f42599"
   ],
   "titles": [
-    "Nach Hamas-Festnahmen in Berlin - Waffenfund in Österreich",
-    "BSW - Wagenknecht will weiterhin führende Rolle in Partei",
     "Tadschikistan: Für ein Visum ausgereist, nicht zurückgekommen",
     "Gaspreise - Bundestag beschließt Entlastung der Kunden",
     "Nahost - Israels Armee greift Ziele im Südlibanon an",
@@ -3003,11 +3001,11 @@
     "Spanien - Steinmeier gedenkt in Guernica der Opfer von NS-Luftangriff",
     "Orban-Besuch in Moskau - Ungarn will weiter Öl und Gas aus Russland kaufen",
     "Nach Auslieferung - Nord-Stream-Verdächtiger in U-Haft",
-    "Rentenpaket - Politologe geht davon aus, dass das Gesetz durchkommt"
+    "Rentenpaket - Politologe geht davon aus, dass das Gesetz durchkommt",
+    "Nord-Stream-Verdächtiger Serhij K. in Deutschland in U-Haft",
+    "Neuauszählung der Wahl?: Warum der BSW-Einspruch wahrscheinlich abgelehnt wird"
   ],
   "hashes": [
-    "40fa287be57d20b7b86e9e0d9e2e0fda",
-    "b701b5bf63b93e854efdc8ee8d67ae6f",
     "d529297c08f63cea2d57eb10dc776aec",
     "2e568d2463ec262c61479964d00adaf8",
     "aad3d994c11448f2f8f7fc55627bdd6a",
@@ -4005,6 +4003,8 @@
     "bdfbf2810a23f9990f25b1faad6e10e9",
     "25d2cf81bf4e831f1018c84ff9faf2f1",
     "81d801de27a4bc312069e5f2f3fd6d5d",
-    "fe58cf02e83f6c807725fa2651a37226"
+    "fe58cf02e83f6c807725fa2651a37226",
+    "62d74ca0ef7f0f0ca93a53b8e2e7af21",
+    "b1c4707e84be5bfd47558b5cc3c523b5"
   ]
 }
