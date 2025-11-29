@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/visa-vergabe-fuer-russische-staatsbuerger-eingeschraenkt-102.html",
-    "https://www.spiegel.de/politik/deutschland/syrien-zuwanderung-sinkt-laut-statistischem-bundesamt-deutlich-a-95ade16c-43eb-4baf-9480-ca2f7fdabe12#ref=rss",
-    "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-will-mit-us-firma-europaeisches-satellitennetzwerk-bauen-a-f9052664-2c6a-4bf7-b1a1-a91931d30cc4#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/stadtbild-debatte-die-gruenen-auf-der-suche-nach-dem-ausweg-accg-110768359.html",
     "https://www.deutschlandfunk.de/abstimmung-regionalisierungsgesetz-deutschlandticket-a-63-euro-100.html",
     "https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stromausfall-in-kiew-nach-russischen-angriffen-102.html",
     "https://www.deutschlandfunk.de/laut-bayerischem-ju-vorsitzenden-knoll-ist-zustimmung-der-jungen-gruppe-nicht-gesichert-100.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-gefahr-synthetischer-drogen-102.html",
-    "https://www.deutschlandfunk.de/gruene-beraten-ueber-klimaschutz-und-energiewende-102.html"
+    "https://www.deutschlandfunk.de/gruene-beraten-ueber-klimaschutz-und-energiewende-102.html",
+    "https://www.deutschlandfunk.de/sos-kinderdoerfer-verzeichnen-erfolge-bei-suche-nach-vermissten-kindern-in-syrien-assad-regime-hatte-100.html",
+    "https://www.deutschlandfunk.de/etwa-300-000-kitaplaetze-fehlen-vor-allem-in-westdeutschland-102.html",
+    "https://www.deutschlandfunk.de/pflegende-angehoerige-warum-sie-oft-am-limit-sind-100.html"
   ],
   "content_hashes": [
-    "10b73a97d4c3957c1d0a591a67ea03fd",
-    "42ad947920c043044557204cb64cf576",
-    "4f5c323aaca8bbbbfa7b7a8a270b6886",
     "c21a2bd30cb67a7e7b0c09704c127be0",
     "8863c7c8887890bb10e88ddf72b2b0da",
     "d081932e93a61ce400e98062409102af",
@@ -2001,12 +1998,12 @@
     "fa4afab48460c7e1078205e3578e58e0",
     "bd51757c6e6479636b86fac0d473aee6",
     "317a42511612fe00b634d0d83dba3557",
-    "d7e2b25bc3e1a0ef0f772f6157de9f76"
+    "d7e2b25bc3e1a0ef0f772f6157de9f76",
+    "dd62c0091976c1ea5b4eba54be65d44f",
+    "ab7113c9d6c8808223d4f0123998f5a7",
+    "37c96bdd19446bf8cbeb5c69e46e228a"
   ],
   "titles": [
-    "Europäische Union - Visa-Vergabe für russische Staatsbürger eingeschränkt",
-    "Syrien: Zuwanderung sinkt laut Statistischem Bundesamt deutlich",
-    "Vodafone will mit US-Firma europäisches Satellitennetzwerk bauen",
     "„Stadtbild“-Debatte: Die Grünen auf der Suche nach dem Ausweg",
     "Regionalisierungsgesetz - Bundestag beschließt Finanzierung des Deutschlandtickets",
     "Bundesagentur für Arbeit erwartet erneut Milliardenloch",
@@ -3003,12 +3000,12 @@
     "Krieg gegen die Ukraine - Stromausfall in Kiew nach russischen Angriffen",
     "Rentenreform - Laut bayerischem JU-Vorsitzenden Knoll ist Zustimmung der Jungen Gruppe nicht gesichert",
     "Interview der Woche - Drogenbeauftragter Streeck warnt vor Gefahr synthetischer Drogen",
-    "Bundesparteitag in Hannover - Grüne beraten über Klimaschutz und Energiewende"
+    "Bundesparteitag in Hannover - Grüne beraten über Klimaschutz und Energiewende",
+    "Nach Bürgerkrieg - SOS-Kinderdörfer verzeichnen Erfolge bei Suche nach vermissten Kindern in Syrien - Assad-Regime hatte sie Oppositionellen weggenommen",
+    "DIW-Berechnung - Etwa 300.000 Kitaplätze fehlen - vor allem in Westdeutschland",
+    "Betreuung zu Hause - Warum Angehörige oft am Limit sind"
   ],
   "hashes": [
-    "f9a3e0c0509d56d271a50cd2613a6541",
-    "8af7b984fe0909a9519319d9e15bc22a",
-    "394388d4b884977d51e3633ca3f8aee2",
     "b82146ab48596d6952d554632fbea2a9",
     "fa613ea5ae172f3174fe66fa1e82f684",
     "6ec01c4128fbc4382797fda0adb16d14",
@@ -4005,6 +4002,9 @@
     "cab7d7e0ca3a638fd57183a48fd81ed4",
     "8e2bbb2f9c0bc8d287af549e5127c44e",
     "a2dcd06339e2399d52bcc42b62a19367",
-    "1d2d5fed71141df5fa7c7a1c2f7715f8"
+    "1d2d5fed71141df5fa7c7a1c2f7715f8",
+    "2d6d4a71b1cf5ca915ab7c7d0d772b5c",
+    "c715684922984ea08daad666e8e275ef",
+    "f9982f510ada3e248030a7cf177d9f6b"
   ]
 }
