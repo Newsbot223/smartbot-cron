@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/weltklimakonferenz-cop30-merz-setzt-auf-technologie-und-innovation-110770769.html",
-    "https://www.faz.net/aktuell/politik/ausland/kommentar-zur-bedrohung-durch-putin-den-worten-taten-folgen-lassen-110770736.html",
-    "https://www.deutschlandfunk.de/erstmals-hunderte-fluege-innerhalb-der-usa-wegen-der-haushaltssperre-ausgefallen-100.html",
     "https://www.deutschlandfunk.de/hunderte-zusaetzliche-barrieren-fuer-magdeburger-weihnachtsmarkt-geplant-100.html",
     "https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss",
     "https://www.deutschlandfunk.de/trump-stellt-ungarn-ausnahmeregelung-bei-russland-oel-sanktionen-in-aussicht-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruenen-chef-banaszak-klimaschutz-mit-sozialem-anspruch-100.html",
     "https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/bsw-schliesst-koalition-mit-afd-in-sachsen-anhalt-aus-accg-200309276.html",
-    "https://www.deutschlandfunk.de/gruenen-chef-banaszak-wir-brauchen-klimaschutz-mit-sozialem-anspruch-100.html"
+    "https://www.deutschlandfunk.de/gruenen-chef-banaszak-wir-brauchen-klimaschutz-mit-sozialem-anspruch-100.html",
+    "https://www.deutschlandfunk.de/neugruendung-der-afd-jugendorganisation-generation-deutschland-experten-keine-maessigung-zu-erwarten-100.html",
+    "https://www.deutschlandfunk.de/kretschmer-bleibt-cdu-chef-in-sachsen-100.html",
+    "https://www.deutschlandfunk.de/erneut-verletzte-nach-uebergriffen-israelischer-extremisten-auf-palaestinenser-im-westjordanland-100.html"
   ],
   "content_hashes": [
-    "f7ca42fa96452845b3270738c80fc5ff",
-    "a9c9f86a8b92b26a74c1e8e714f91517",
-    "7e12b8b648524647c9cee35d8a17e731",
     "10d5d02d22df4f9eb7725e7b594c09f0",
     "3f7506b21b1935a9303abbfff0f2f1c8",
     "dfee15cdce2f40cf7b08b19b421bf185",
@@ -2001,12 +1998,12 @@
     "3c0c510285e12a0673567d35606f5da9",
     "d4ce4a5c00eadd6a7e712c9e33b21cc7",
     "baccae56f9aaf57fcd38145f30bb1c8d",
-    "b2fd2f73f3d3182361ca76dd51d0af1a"
+    "b2fd2f73f3d3182361ca76dd51d0af1a",
+    "3333e6c33aac8ced81b5e741dd634dd9",
+    "8b2959b05e64f24e64367155c2ce76f0",
+    "4099ab8fc9223d81678e0f2d1ca2880c"
   ],
   "titles": [
-    "Klimakonferenz: Merz setzt auf Technologie und einen „namhaften“ deutschen Beitrag",
-    "Droht Krieg mit Russland?: So schreckt man Putin nur bedingt ab",
-    "Shutdown - Erstmals hunderte Flüge innerhalb der USA wegen der Haushaltssperre ausgefallen",
     "Nach Anschlag - Hunderte zusätzliche Barrieren für Magdeburger Weihnachtsmarkt geplant",
     "Mecklenburg-Vorpommern: Bundespolizei stoppt lebensgefährliche Schleusungen",
     "Treffen mit Orban in Washington - Trump stellt Ungarn Ausnahmeregelung bei Russland-Öl-Sanktionen in Aussicht",
@@ -3003,12 +3000,12 @@
     "Bundesparteitag in Hannover - Grünen-Chef Banaszak: Klimaschutz mit sozialem Anspruch",
     "300.000 Kitaplätze fehlen: Wo in Deutschland am meisten gebraucht würden",
     "Sachsen-Anhalt: BSW schließt Koalition mit AfD aus",
-    "Bundesparteitag in Hannover - Grünen-Chef Banaszak: Wir brauchen Klimaschutz mit sozialem Anspruch"
+    "Bundesparteitag in Hannover - Grünen-Chef Banaszak: Wir brauchen Klimaschutz mit sozialem Anspruch",
+    "Gießen - Neugründung der AfD-Jugendorganisation \"Generation Deutschland\"- Experten: \"Keine Mäßigung zu erwarten\"",
+    "Leipzig - Kretschmer bleibt CDU-Chef in Sachsen",
+    "Siedlergewalt - Erneut Verletzte nach Übergriffen israelischer Extremisten auf Palästinenser im Westjordanland"
   ],
   "hashes": [
-    "432014d2e95c53b1e00b5a9d181c9f33",
-    "0f9891a7ad09879af6e09ff841ed7329",
-    "4d8ba5d0b3fa9e4bd75df079ca72094d",
     "f279d54cf7cccd82d9116a24d515e3c0",
     "05a961f3f6b2f40e1d34e95ab6d35187",
     "7c322521ea4ca580265cb901e51deaf4",
@@ -4005,6 +4002,9 @@
     "7129585e4424b5b82c374256b8c35f5f",
     "dba46980263cdfa1bf6a8744720431a9",
     "7b5b7b2c3308f5db8b49fd36a59cc94c",
-    "18350ff4ba88b4c2602ac49b4ed894e1"
+    "18350ff4ba88b4c2602ac49b4ed894e1",
+    "924597cc62cf693fd10b0f8297944fd8",
+    "b99240aaf77ece24e43185e582fc5f4d",
+    "bcdf5a9f6627b7e5d14c063eafe13961"
   ]
 }
