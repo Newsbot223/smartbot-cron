@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hunderte-zusaetzliche-barrieren-fuer-magdeburger-weihnachtsmarkt-geplant-100.html",
-    "https://www.spiegel.de/panorama/justiz/mecklenburg-vorpommern-bundespolizei-stoppt-lebensgefaehrliche-schleusungen-a-eef0d9e1-650d-4292-a69a-fc80563423fe#ref=rss",
-    "https://www.deutschlandfunk.de/trump-stellt-ungarn-ausnahmeregelung-bei-russland-oel-sanktionen-in-aussicht-100.html",
-    "https://www.deutschlandfunk.de/gabriel-und-altmaier-bestreiten-enge-zusammenarbeit-von-bundesregierung-und-landesregierung-100.html",
     "https://www.faz.net/aktuell/politik/inland/justiz-soll-gegen-vergewaltigungsvideos-vorgehen-110770597.html",
     "https://www.deutschlandfunk.de/trump-stellt-ungarn-ausnahmeregelung-in-aussicht-orban-spricht-schon-von-einigung-100.html",
     "https://www.deutschlandfunk.de/praesident-trump-sagt-teilnahme-der-usa-am-g20-gipfel-in-suedafrika-ab-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/gruenen-chef-banaszak-wir-brauchen-klimaschutz-mit-sozialem-anspruch-100.html",
     "https://www.deutschlandfunk.de/neugruendung-der-afd-jugendorganisation-generation-deutschland-experten-keine-maessigung-zu-erwarten-100.html",
     "https://www.deutschlandfunk.de/kretschmer-bleibt-cdu-chef-in-sachsen-100.html",
-    "https://www.deutschlandfunk.de/erneut-verletzte-nach-uebergriffen-israelischer-extremisten-auf-palaestinenser-im-westjordanland-100.html"
+    "https://www.deutschlandfunk.de/erneut-verletzte-nach-uebergriffen-israelischer-extremisten-auf-palaestinenser-im-westjordanland-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-erhoeht-druck-auf-eu-kommission-100.html",
+    "https://www.deutschlandfunk.de/parteiinterne-auseinandersetzungen-bsw-waehlt-teile-des-landesvorstands-ab-100.html",
+    "https://www.deutschlandfunk.de/hermann-groehe-zum-praesident-des-deutschen-roten-kreuzes-gewaehlt-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-generation-deutschland-jean-pascal-hohm-zum-vorsitzenden-der-afd-jugend-gewaehlt-faz-110093143.html"
   ],
   "content_hashes": [
-    "10d5d02d22df4f9eb7725e7b594c09f0",
-    "3f7506b21b1935a9303abbfff0f2f1c8",
-    "dfee15cdce2f40cf7b08b19b421bf185",
-    "7df264d44b2fbed25b7e8a7c44ea28e9",
     "ba1a76bc741592da3787047f64948f6e",
     "ba7a6d0a7d145baa883dd2d4ed95f5c1",
     "8979434e8c83174168fec6e15f32d7f4",
@@ -2001,13 +1997,13 @@
     "b2fd2f73f3d3182361ca76dd51d0af1a",
     "3333e6c33aac8ced81b5e741dd634dd9",
     "8b2959b05e64f24e64367155c2ce76f0",
-    "4099ab8fc9223d81678e0f2d1ca2880c"
+    "4099ab8fc9223d81678e0f2d1ca2880c",
+    "bcd1a7dc732aa0772adc99261aa703c3",
+    "77f2c9784de716e8d304db7fe394a0d5",
+    "0469a689455eecfe562bbf20d93016d8",
+    "4671fe2ba333ee662999d68a4d554859"
   ],
   "titles": [
-    "Nach Anschlag - Hunderte zusätzliche Barrieren für Magdeburger Weihnachtsmarkt geplant",
-    "Mecklenburg-Vorpommern: Bundespolizei stoppt lebensgefährliche Schleusungen",
-    "Treffen mit Orban in Washington - Trump stellt Ungarn Ausnahmeregelung bei Russland-Öl-Sanktionen in Aussicht",
-    "Bau von Nord Stream 2 - Gabriel und Altmaier bestreiten enge Zusammenarbeit von Bundesregierung und Landesregierung",
     "Justizministerkonferenz: Besitz von Vergewaltigungsvideos soll verboten werden",
     "Russland-Sanktionen - Trump stellt Ungarn Ausnahmeregelung in Aussicht - Orban spricht schon von Einigung",
     "Washington - Präsident Trump sagt Teilnahme der USA am G20-Gipfel in Südafrika ab",
@@ -3003,13 +2999,13 @@
     "Bundesparteitag in Hannover - Grünen-Chef Banaszak: Wir brauchen Klimaschutz mit sozialem Anspruch",
     "Gießen - Neugründung der AfD-Jugendorganisation \"Generation Deutschland\"- Experten: \"Keine Mäßigung zu erwarten\"",
     "Leipzig - Kretschmer bleibt CDU-Chef in Sachsen",
-    "Siedlergewalt - Erneut Verletzte nach Übergriffen israelischer Extremisten auf Palästinenser im Westjordanland"
+    "Siedlergewalt - Erneut Verletzte nach Übergriffen israelischer Extremisten auf Palästinenser im Westjordanland",
+    "Debatte um Verbrenner-Aus - Bundeskanzler Merz erhöht Druck auf EU-Kommission",
+    "Sonderparteitag in Burg - Parteiinterne Auseinandersetzungen - BSW wählt Teile des Landesvorstands ab",
+    "Hasselfeldt-Nachfolge beim DRK - Hermann Gröhe zum Präsident des Deutschen Roten Kreuzes gewählt",
+    "Liveblog Bundespolitik: Jean-Pascal Hohm zum Vorsitzenden der AfD-Jugend gewählt"
   ],
   "hashes": [
-    "f279d54cf7cccd82d9116a24d515e3c0",
-    "05a961f3f6b2f40e1d34e95ab6d35187",
-    "7c322521ea4ca580265cb901e51deaf4",
-    "f6b4a10ba522b456b179c5154eabe4a0",
     "8dced872357cbee686f6a12f2c7c67e7",
     "014276faef5a3d6d5d0ec772ff326313",
     "ad83c8c0f7897054572cb6c272e3dda3",
@@ -4005,6 +4001,10 @@
     "18350ff4ba88b4c2602ac49b4ed894e1",
     "924597cc62cf693fd10b0f8297944fd8",
     "b99240aaf77ece24e43185e582fc5f4d",
-    "bcdf5a9f6627b7e5d14c063eafe13961"
+    "bcdf5a9f6627b7e5d14c063eafe13961",
+    "aeff7ce43e71e64778a137ef0fc6cfaa",
+    "6e77883cae2be262f62cd183c49ddfb6",
+    "3f559ec2b8a7e913ee214b748ffe3194",
+    "320c09ce7c69feadb99c758c6ad74aca"
   ]
 }
