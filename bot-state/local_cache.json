@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/stadtbild-debatte-die-gruenen-auf-der-suche-nach-dem-ausweg-accg-110768359.html",
-    "https://www.deutschlandfunk.de/abstimmung-regionalisierungsgesetz-deutschlandticket-a-63-euro-100.html",
-    "https://www.spiegel.de/wirtschaft/bundesagentur-fuer-arbeit-erwartet-erneut-milliardenloch-a-620e1ecb-9436-41cc-aa03-bebd061e874a#ref=rss",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-die-us-armee-in-deutschland-den-gang-zu-tafeln-empfiehlt-110770498.html",
     "https://www.faz.net/aktuell/politik/inland/generalinspekteur-breuer-der-krieg-von-morgen-hat-begonnen-accg-110769668.html",
     "https://www.deutschlandfunk.de/deutschland-unterstuetzt-laut-merz-geplanten-regenwaldfonds-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruene-beraten-ueber-klimaschutz-und-energiewende-102.html",
     "https://www.deutschlandfunk.de/sos-kinderdoerfer-verzeichnen-erfolge-bei-suche-nach-vermissten-kindern-in-syrien-assad-regime-hatte-100.html",
     "https://www.deutschlandfunk.de/etwa-300-000-kitaplaetze-fehlen-vor-allem-in-westdeutschland-102.html",
-    "https://www.deutschlandfunk.de/pflegende-angehoerige-warum-sie-oft-am-limit-sind-100.html"
+    "https://www.deutschlandfunk.de/pflegende-angehoerige-warum-sie-oft-am-limit-sind-100.html",
+    "https://www.deutschlandfunk.de/weidel-nennt-proteste-gegen-afd-jugend-zutiefst-undemokratisch-100.html",
+    "https://www.deutschlandfunk.de/reiz-des-rechtsextremismus-forscherin-verweist-auf-ueberforderung-einsamkeit-und-vertrauensverluste--100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruendung-der-afd-jugend-in-giessen-faz-110093143.html"
   ],
   "content_hashes": [
-    "c21a2bd30cb67a7e7b0c09704c127be0",
-    "8863c7c8887890bb10e88ddf72b2b0da",
-    "d081932e93a61ce400e98062409102af",
     "920597da8ec5900bc7150cc467acc5af",
     "4638baf1e5325a6068137814e88bcfae",
     "8e1160b981696f33fc4dd0adf4716edf",
@@ -2001,12 +1998,12 @@
     "d7e2b25bc3e1a0ef0f772f6157de9f76",
     "dd62c0091976c1ea5b4eba54be65d44f",
     "ab7113c9d6c8808223d4f0123998f5a7",
-    "37c96bdd19446bf8cbeb5c69e46e228a"
+    "37c96bdd19446bf8cbeb5c69e46e228a",
+    "b6987a6154fd1954c5b9b098a1c3d95e",
+    "67b20c3026975511d669537fa0435b92",
+    "b7cd3819fc2d6bc5d4b0b3c7e833fa11"
   ],
   "titles": [
-    "„Stadtbild“-Debatte: Die Grünen auf der Suche nach dem Ausweg",
-    "Regionalisierungsgesetz - Bundestag beschließt Finanzierung des Deutschlandtickets",
-    "Bundesagentur für Arbeit erwartet erneut Milliardenloch",
     "Folgen des Shutdowns: Warum die US-Armee in Deutschland den Gang zu Tafeln empfiehlt",
     "Generalinspekteur Breuer: Der Krieg von morgen hat begonnen",
     "Treffen in Brasilien - Deutschland unterstützt laut Merz geplanten Regenwaldfonds",
@@ -3003,12 +3000,12 @@
     "Bundesparteitag in Hannover - Grüne beraten über Klimaschutz und Energiewende",
     "Nach Bürgerkrieg - SOS-Kinderdörfer verzeichnen Erfolge bei Suche nach vermissten Kindern in Syrien - Assad-Regime hatte sie Oppositionellen weggenommen",
     "DIW-Berechnung - Etwa 300.000 Kitaplätze fehlen - vor allem in Westdeutschland",
-    "Betreuung zu Hause - Warum Angehörige oft am Limit sind"
+    "Betreuung zu Hause - Warum Angehörige oft am Limit sind",
+    "Gießen - Weidel nennt Proteste gegen AfD-Jugend \"zutiefst undemokratisch\"",
+    "Neugründung AfD-Jugend - Reiz des Rechtsextremismus: Forscherin verweist auf Überforderung, Einsamkeit und Vertrauensverluste unter jungen Leuten",
+    "Liveblog Bundespolitik: Gauland: „Radikal zu sein ist Ihr Privileg“"
   ],
   "hashes": [
-    "b82146ab48596d6952d554632fbea2a9",
-    "fa613ea5ae172f3174fe66fa1e82f684",
-    "6ec01c4128fbc4382797fda0adb16d14",
     "a1a7b58e68ed23120f4c210c5dd98d58",
     "20bdc8b504e45cabd3d2c2b9e7c477cd",
     "df69c08371c2dc4b3ce9a81a9974df0f",
@@ -4005,6 +4002,9 @@
     "1d2d5fed71141df5fa7c7a1c2f7715f8",
     "2d6d4a71b1cf5ca915ab7c7d0d772b5c",
     "c715684922984ea08daad666e8e275ef",
-    "f9982f510ada3e248030a7cf177d9f6b"
+    "f9982f510ada3e248030a7cf177d9f6b",
+    "8a1d05a8587199e35351ca54a6bd8551",
+    "0c36fa021a418ab550405a4bfc90485a",
+    "e9173649c9d1d91546e79a75cee27c56"
   ]
 }
