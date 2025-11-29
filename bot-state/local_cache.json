@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/generalinspekteur-breuer-der-krieg-von-morgen-hat-begonnen-accg-110769668.html",
-    "https://www.deutschlandfunk.de/deutschland-unterstuetzt-laut-merz-geplanten-regenwaldfonds-100.html",
-    "https://www.deutschlandfunk.de/bundeswehr-unterstuetzt-belgien-bei-der-drohnenabwehr-100.html",
     "https://www.spiegel.de/panorama/gesellschaft/berlin-pfarrerin-lena-mueller-feiert-polyhochzeit-mit-vier-maennern-a-e0d09114-f016-434b-b3dd-dd23471a02e8#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/weltklimakonferenz-cop30-merz-setzt-auf-technologie-und-innovation-110770769.html",
     "https://www.faz.net/aktuell/politik/ausland/kommentar-zur-bedrohung-durch-putin-den-worten-taten-folgen-lassen-110770736.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/weidel-nennt-proteste-gegen-afd-jugend-zutiefst-undemokratisch-100.html",
     "https://www.deutschlandfunk.de/reiz-des-rechtsextremismus-forscherin-verweist-auf-ueberforderung-einsamkeit-und-vertrauensverluste--100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruendung-der-afd-jugend-in-giessen-faz-110093143.html",
-    "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-ganzen-reihe-von-problemen-gefuehrt-100.html"
+    "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-ganzen-reihe-von-problemen-gefuehrt-100.html",
+    "https://www.deutschlandfunk.de/gruenen-chef-banaszak-klimaschutz-mit-sozialem-anspruch-100.html",
+    "https://www.spiegel.de/panorama/bildung/300-000-kitaplaetze-fehlen-wo-in-deutschland-am-meisten-gebraucht-wuerden-a-89d41674-7bf4-41f2-b947-b5630e79a1a2#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/bsw-schliesst-koalition-mit-afd-in-sachsen-anhalt-aus-accg-200309276.html"
   ],
   "content_hashes": [
-    "4638baf1e5325a6068137814e88bcfae",
-    "8e1160b981696f33fc4dd0adf4716edf",
-    "21e4da9c7debee2466470a5b95ab7c64",
     "500173956eb4cf64d18f62b442fd0536",
     "f7ca42fa96452845b3270738c80fc5ff",
     "a9c9f86a8b92b26a74c1e8e714f91517",
@@ -2001,12 +1998,12 @@
     "b6987a6154fd1954c5b9b098a1c3d95e",
     "67b20c3026975511d669537fa0435b92",
     "b7cd3819fc2d6bc5d4b0b3c7e833fa11",
-    "6a0bf496267ccf19fa9fde6e787f7cf4"
+    "6a0bf496267ccf19fa9fde6e787f7cf4",
+    "3c0c510285e12a0673567d35606f5da9",
+    "d4ce4a5c00eadd6a7e712c9e33b21cc7",
+    "baccae56f9aaf57fcd38145f30bb1c8d"
   ],
   "titles": [
-    "Generalinspekteur Breuer: Der Krieg von morgen hat begonnen",
-    "Treffen in Brasilien - Deutschland unterstützt laut Merz geplanten Regenwaldfonds",
-    "Luftfahrt - Bundeswehr unterstützt Belgien bei der Drohnenabwehr",
     "Berlin: Pfarrerin Lena Müller feiert »Polyhochzeit« mit vier Männern",
     "Klimakonferenz: Merz setzt auf Technologie und einen „namhaften“ deutschen Beitrag",
     "Droht Krieg mit Russland?: So schreckt man Putin nur bedingt ab",
@@ -3003,12 +3000,12 @@
     "Gießen - Weidel nennt Proteste gegen AfD-Jugend \"zutiefst undemokratisch\"",
     "Neugründung AfD-Jugend - Reiz des Rechtsextremismus: Forscherin verweist auf Überforderung, Einsamkeit und Vertrauensverluste unter jungen Leuten",
     "Liveblog Bundespolitik: Gauland: „Radikal zu sein ist Ihr Privileg“",
-    "Drogenkonsum - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer ganzen Reihe von Problemen geführt"
+    "Drogenkonsum - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer ganzen Reihe von Problemen geführt",
+    "Bundesparteitag in Hannover - Grünen-Chef Banaszak: Klimaschutz mit sozialem Anspruch",
+    "300.000 Kitaplätze fehlen: Wo in Deutschland am meisten gebraucht würden",
+    "Sachsen-Anhalt: BSW schließt Koalition mit AfD aus"
   ],
   "hashes": [
-    "20bdc8b504e45cabd3d2c2b9e7c477cd",
-    "df69c08371c2dc4b3ce9a81a9974df0f",
-    "d8001baf846095edd36813f70a4445a7",
     "cda34a057a2dd66cf7e2ba3e783f968a",
     "432014d2e95c53b1e00b5a9d181c9f33",
     "0f9891a7ad09879af6e09ff841ed7329",
@@ -4005,6 +4002,9 @@
     "8a1d05a8587199e35351ca54a6bd8551",
     "0c36fa021a418ab550405a4bfc90485a",
     "e9173649c9d1d91546e79a75cee27c56",
-    "8e42e50120822e734f20f983e6090237"
+    "8e42e50120822e734f20f983e6090237",
+    "7129585e4424b5b82c374256b8c35f5f",
+    "dba46980263cdfa1bf6a8744720431a9",
+    "7b5b7b2c3308f5db8b49fd36a59cc94c"
   ]
 }
