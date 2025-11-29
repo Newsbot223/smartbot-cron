@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gesundheitsschutz-am-arbeitsplatz-zum-menschenrecht-erhoben-100.html",
     "https://www.spiegel.de/panorama/justiz/mobbing-und-cybermobbing-millionen-deutsche-laut-studie-betroffen-a-afd67abc-25c9-4683-9151-75c4fcba49cf#ref=rss",
     "https://www.deutschlandfunk.de/siemens-baut-s-bahn-zuege-fuer-die-schweiz-102.html",
     "https://www.deutschlandfunk.de/partei-d66-offiziell-als-siegerin-der-parlamentswahl-bestaetigt-100.html",
@@ -999,10 +998,10 @@
     "https://www.faz.net/aktuell/politik/inland/berliner-spd-noch-zu-retten-110792717.html",
     "https://www.deutschlandfunk.de/tausende-airbus-flugzeuge-benoetigen-neue-software-100.html",
     "https://www.deutschlandfunk.de/laut-bayerischem-ju-vorsitzende-knoll-ist-zustimmung-der-jungen-gruppe-nicht-gesichert-100.html",
-    "https://www.deutschlandfunk.de/papst-leo-xiv-besichtigt-blaue-moschee-in-istanbul-100.html"
+    "https://www.deutschlandfunk.de/papst-leo-xiv-besichtigt-blaue-moschee-in-istanbul-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-kiew-nach-russischen-angriffen-102.html"
   ],
   "content_hashes": [
-    "537bef1e918b0c0ac78776195440b1c6",
     "7597517f5f2ad024a12181e8dacb2df8",
     "7a3256e6f9e94df823b9fa118d791e53",
     "84aaf2a85c33be6d5e026fc900a466f0",
@@ -2001,10 +2000,10 @@
     "9dec480d1f5a6c1e7d23a0dce4036553",
     "67740ca1220c05ee55c1037ac8f42243",
     "969fa2b63a99cca8f5845d85770e879a",
-    "5e33526d28e733f06dfd2197f1eb6605"
+    "5e33526d28e733f06dfd2197f1eb6605",
+    "fa4afab48460c7e1078205e3578e58e0"
   ],
   "titles": [
-    "Bundestag - Gesundheitsschutz am Arbeitsplatz zum Menschenrecht erhoben",
     "Mobbing und Cybermobbing: Millionen Deutsche laut Studie betroffen",
     "Milliardenauftrag - Siemens baut S-Bahn-Züge für die Schweiz",
     "Niederlande - Partei D66 offiziell als Siegerin der Parlamentswahl bestätigt",
@@ -3003,10 +3002,10 @@
     "Konflikte und Umfragetief: Ist die Berliner SPD noch zu retten?",
     "Luftfahrt - Tausende Airbus-Flugzeuge benötigen neue Software",
     "Rentenreform - Laut bayerischem JU-Vorsitzende Knoll ist Zustimmung der Jungen Gruppe nicht gesichert",
-    "Türkei-Besuch - Papst Leo XIV. besichtigt Blaue Moschee in Istanbul"
+    "Türkei-Besuch - Papst Leo XIV. besichtigt Blaue Moschee in Istanbul",
+    "Krieg gegen die Ukraine - Stromausfall in Kiew nach russischen Angriffen"
   ],
   "hashes": [
-    "d439649f5a96213789df4dff72ac611e",
     "28b4d18f18232f942eb0f4fb606e2747",
     "9a6b22c2783e644943309a8f4886f893",
     "2f3d270e51a6ff3f5f8eb4b2f9286861",
@@ -4005,6 +4004,7 @@
     "462eefe56af9bddcab503830a7ab5baf",
     "a243a30ae87c7535d20e0618bcc80481",
     "7eda8fe377db05e35ef715649bc47613",
-    "2f7abaa6190447a23f8e1679309d7fa3"
+    "2f7abaa6190447a23f8e1679309d7fa3",
+    "cab7d7e0ca3a638fd57183a48fd81ed4"
   ]
 }
