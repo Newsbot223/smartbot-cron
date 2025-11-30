@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/wahlen-in-amerika-die-demokraten-schoepfen-wieder-mut-110770090.html",
-    "https://www.deutschlandfunk.de/friedensgespraeche-zwischen-pakistan-und-afghanistan-gescheitert-100.html",
-    "https://www.deutschlandfunk.de/massenprotest-in-lissabon-gegen-reform-der-arbeitsgesetze-100.html",
     "https://www.deutschlandfunk.de/in-den-us-haushaltsstreit-kommt-offenbar-bewegung-102.html",
     "https://www.deutschlandfunk.de/syrische-polizei-geht-landesweit-gegen-is-zellen-vor-100.html",
     "https://www.deutschlandfunk.de/israels-ex-premier-olmert-verurteilt-gewalt-extremistischer-siedler-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mutmassliche-jagd-auf-menschen-im-bosnien-krieg-hauptzeuge-bekraeftigt-anschuldigungen-gegen-westlic-100.html",
     "https://www.deutschlandfunk.de/militaer-gibt-bildung-von-uebergangsregierung-bekannt-100.html",
     "https://www.deutschlandfunk.de/netanjahu-reicht-wegen-korruptionsverfahren-gandengesuch-bei-staatspraesident-herzog-ein-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-toten-auf-146-gestiegen-noch-100-menschen-vermisst-102.html"
+    "https://www.deutschlandfunk.de/zahl-der-toten-auf-146-gestiegen-noch-100-menschen-vermisst-102.html",
+    "https://www.deutschlandfunk.de/oezdemir-autoindustrie-und-maschinenbau-stehen-vor-historischer-bewaehrungsprobe-102.html",
+    "https://www.deutschlandfunk.de/buendnis-widersetzen-wirft-polizei-massive-gewalt-bei-protesten-gegen-afd-jugend-vor-100.html",
+    "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-reihe-von-problemen-gefuehrt-102.html"
   ],
   "content_hashes": [
-    "81ddefc484408378f248742b1081e12f",
-    "b5c439750ee40d3f0dab2b5a8939b8ff",
-    "b59a690c267da35e859d7c88b890aa5b",
     "322acd10c26a381ceee7d100f2bf1bda",
     "271f905cbcbd0ce7ba99490c643cf5dd",
     "58a1c0ae9fb80930917d07318d455104",
@@ -2001,12 +1998,12 @@
     "90419ba410ce16eebe0f1863207789f6",
     "1252c864cb5c9ef31c9eb96580ab4c88",
     "7db31ea4635c0a547c8dd56679bf3a00",
-    "64580e1c6f5c7a84a1b9cf7441de6825"
+    "64580e1c6f5c7a84a1b9cf7441de6825",
+    "fe3bb5349ad6ac2650bed55ad8d8536d",
+    "2dfe1e9573531c7f7605b8ffdf637611",
+    "fddebfb1e8a4499a8cc875c06a81c0bb"
   ],
   "titles": [
-    "Wahlen in Amerika: Trumps Angst",
-    "Verhandlungen in der Türkei - Friedensgespräche zwischen Pakistan und Afghanistan gescheitert",
-    "Portugal - Massenprotest in Lissabon gegen Reform der Arbeitsgesetze",
     "Staatsfinanzen - In den US-Haushaltsstreit kommt offenbar Bewegung",
     "Terrorismus - Syrische Polizei geht landesweit gegen IS-Zellen vor",
     "\"Interview der Woche\" - Israels Ex-Premier Olmert verurteilt Gewalt extremistischer Siedler",
@@ -3003,12 +3000,12 @@
     "\"Sarajevo Safari\" - Mutmaßliche Jagd auf Menschen im Bosnien-Krieg: Hauptzeuge bekräftigt Anschuldigungen gegen westliche \"Sniper-Touristen\"",
     "Nach Putsch in Guinea-Bissau - Militär gibt Bildung von Übergangsregierung bekannt",
     "Israel - Netanjahu reicht wegen Korruptionsverfahren Gandengesuch bei Staatspräsident Herzog ein",
-    "Brandkatastrophe in Hongkong - Zahl der Toten auf 146 gestiegen, noch 100 Menschen vermisst"
+    "Brandkatastrophe in Hongkong - Zahl der Toten auf 146 gestiegen, noch 100 Menschen vermisst",
+    "Bundesparteitag in Hannover - Özdemir: \"Autoindustrie und Maschinenbau stehen vor historischer Bewährungsprobe\"",
+    "Gießen - Bündnis \"Widersetzen\" wirft Polizei massive Gewalt bei Protesten gegen AfD-Jugend vor",
+    "Interview der Woche - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer Reihe von Problemen geführt"
   ],
   "hashes": [
-    "30de6ca7b75a8adcbff7551ba7fe4dda",
-    "0f034b6b073f5c9bd816f8ad18971be2",
-    "7c22f8f2c4d65ea43aea58c01e51afee",
     "99c5489b5f3181fb1705a33d100b8101",
     "8648ee0a27c63b5cd3b2535afd260003",
     "1e937972aa629127e24d010f22a1f4a4",
@@ -4005,6 +4002,9 @@
     "304369dca15295444466e2a32efa250e",
     "243c77a54ed4753c19f179671f716eba",
     "bb9fa055be17d5da8e9ad3df4e58c59a",
-    "1aae88304529b057422cd866ad9e639b"
+    "1aae88304529b057422cd866ad9e639b",
+    "28d13921ee3640d63ef2839055f5fd76",
+    "325751855807eb26c20e4b5f884e9489",
+    "7acd18302bf15e81baad9682288a96b0"
   ]
 }
