@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/soeder-und-hagel-ein-launiger-plausch-ueber-essen-und-migration-accg-110771487.html",
-    "https://www.deutschlandfunk.de/brandenburger-cdu-bestaetigt-vorsitzenden-redmann-100.html",
     "https://www.deutschlandfunk.de/unhcr-im-sudan-rsf-laesst-die-menschen-bezahlen-um-fliehen-zu-duerfen-104.html",
     "https://www.deutschlandfunk.de/tote-bei-israelischen-luftangriffen-108.html",
     "https://www.deutschlandfunk.de/energieversorger-centrenergo-kann-nach-luftangriffen-keinen-strom-mehr-produzieren-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/volksentscheide-zur-dienstpflicht-und-erbschaftssteuer-100.html",
     "https://www.deutschlandfunk.de/hessens-regierungschef-rhein-cdu-verurteilt-gewalt-bei-protesten-gegen-gruendung-von-afd-jugendorgan-100.html",
     "https://www.deutschlandfunk.de/gruene-beziehen-position-zu-wehrdienst-ukraine-und-nahost-100.html",
-    "https://www.deutschlandfunk.de/gruene-wollen-luxusfluege-mit-extra-abgaben-belegen-102.html"
+    "https://www.deutschlandfunk.de/gruene-wollen-luxusfluege-mit-extra-abgaben-belegen-102.html",
+    "https://www.deutschlandfunk.de/parlamentswahlen-laufen-niedrige-wahlbeteiligung-102.html",
+    "https://www.faz.net/aktuell/politik/streit-ueber-wahlergebnis-nicht-sachgerecht-110793889.html"
   ],
   "content_hashes": [
-    "16e27a413546ae479721bc541e183039",
-    "db9cc3e294e58597d66abf1c30b3ff9f",
     "8e618d92f7a2fe6dc12b08464c1b1b2a",
     "75d89393e5fa2725d3d34c4617ca952c",
     "69bbf64fdf9e5d639a4995d7b140101c",
@@ -2001,11 +1999,11 @@
     "7636e4773d008737892bfcfe133da648",
     "f97fecc8305ab6e13db8f3f0baf3c519",
     "b97ed4280c19cda7116e821d0c5016d7",
-    "3b0d6a8354a37eb509099dcadbd84d8f"
+    "3b0d6a8354a37eb509099dcadbd84d8f",
+    "c47cb0957bcb247e6955c600d93004f2",
+    "e0f43fe1e1a48dc2338b81b82e0e5c52"
   ],
   "titles": [
-    "Söder und Hagel: Ein launiger Plausch über Essen und Migration",
-    "Christdemokraten - Brandenburger CDU bestätigt Vorsitzenden Redmann",
     "Flüchtlingshilfswerk - UNHCR im Sudan: RSF lässt die Menschen bezahlen, um fliehen zu dürfen",
     "Libanon - Tote bei israelischen Luftangriffen",
     "Ukraine - Energieversorger Centrenergo kann nach Luftangriffen keinen Strom mehr produzieren",
@@ -3003,11 +3001,11 @@
     "Schweiz - Volksentscheide zur Dienstpflicht und Erbschaftssteuer",
     "Gießen - Hessens Regierungschef Rhein (CDU) verurteilt Gewalt bei Protesten gegen Gründung von AfD-Jugendorganisation",
     "Bundesparteitag in Hannover - Grüne beziehen Position zu Wehrdienst, Ukraine und Nahost",
-    "Bundesparteitag in Hannover - Grüne wollen Luxusflüge mit Extra-Abgaben belegen"
+    "Bundesparteitag in Hannover - Grüne wollen Luxusflüge mit Extra-Abgaben belegen",
+    "Kirgisistan - Parlamentswahlen laufen - niedrige Wahlbeteiligung",
+    "Streit über Wahlergebnis: Nicht sachgerecht"
   ],
   "hashes": [
-    "81a7fba26f861d52e5742e0cebd0a8eb",
-    "147021b0438c2f98d2ccf4a7a654f3d9",
     "95b8d48cd684e69a28bba81eb2c0000d",
     "45660dbe35d7e1cf4df6edf1e1254abf",
     "b910234a3d388f7e11ad683e1135059d",
@@ -4005,6 +4003,8 @@
     "220948014e1829b179df96f233a355cc",
     "af33e273de94ad43f974c7740f804b4e",
     "ea1f7336fd20f4019955aa25696a75b6",
-    "e9166ca13bddcc6124d7f705b836e9e1"
+    "e9166ca13bddcc6124d7f705b836e9e1",
+    "a5aee9c046e462d18ce0372c81e362eb",
+    "9da8c998bea762bbfaddfef41d3f2e93"
   ]
 }
