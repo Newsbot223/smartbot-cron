@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/feuerwehrverband-jeder-ist-ein-stueck-weit-verpflichtet-sich-im-katastrophen-oder-kriegsfall-selbst--100.html",
-    "https://www.deutschlandfunk.de/marburger-bund-fordert-hoehere-steuern-auf-nikotin-und-alkohol-und-einfuehrung-einer-zuckersteuer-100.html",
     "https://www.deutschlandfunk.de/3sat-und-arte-dokumentarfilmpreise-fuer-beitraege-ueber-palliativstationen-eine-queere-baumarktbetre-100.html",
     "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-in-den-usa-100.html",
     "https://www.deutschlandfunk.de/israels-botschafter-prosor-linker-antisemitismus-gefaehrlicher-als-der-von-rechts-und-von-islamisten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/familienunternehmer-verband-macht-rueckzieher-und-raeumt-fehler-ein-100.html",
     "https://www.deutschlandfunk.de/chinas-aussenminister-zu-gespraechen-in-russland-100.html",
     "https://www.deutschlandfunk.de/proteste-und-kritik-nach-gnadengesuch-netanjahus-104.html",
-    "https://www.deutschlandfunk.de/amerikanische-und-einheimische-streitkraefte-zerstoeren-zahlreiche-waffenlager-von-is-terrormiliz-100.html"
+    "https://www.deutschlandfunk.de/amerikanische-und-einheimische-streitkraefte-zerstoeren-zahlreiche-waffenlager-von-is-terrormiliz-100.html",
+    "https://www.deutschlandfunk.de/weltweit-groesste-ruestungskonzerne-verzeichnen-erneut-hoehere-einnahmen-104.html",
+    "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-wirft-afd-fraktion-unterirdische-kommentare-gegen-weibliche-abgeo-100.html"
   ],
   "content_hashes": [
-    "b3e95c8d83a71878862e01314330f053",
-    "fbce2daeeb0023b00b59a291022ea3fa",
     "7aa390bad39decd7b34ae7c2622d2e60",
     "4eae7fd4ec6923ca01cdc153e6870bdc",
     "ed0bc25be8aec91a7c881f5add82a383",
@@ -2001,11 +1999,11 @@
     "b147ab84c9683b1204d215438a88d86d",
     "480965e720a7baa7105531788ca135aa",
     "33081eb8f8b99b72fc981fc122a0d1f1",
-    "4cec10cd71befd620564474361e65166"
+    "4cec10cd71befd620564474361e65166",
+    "a8523c72a77d0700111d05f0a7df9b19",
+    "81509bc6a37a955cebd51082cdc58309"
   ],
   "titles": [
-    "Delegiertenversammlung - Feuerwehrverband: \"Jeder ist ein Stück weit verpflichtet, sich im Katastrophen- oder Kriegsfall selbst zu schützen\"",
-    "Gesundheitspolitik - Marburger Bund fordert höhere Steuern auf Nikotin und Alkohol - und Einführung einer Zuckersteuer",
     "Duisburger Filmwoche - 3sat- und Arte-Dokumentarfilmpreise für Beiträge über Palliativstationen, eine queere Baumarktbetreiberin in den USA und Flüchtlingsrouten",
     "Haushaltssperre - Shutdown führt zu Hunderten Flugausfällen in den USA",
     "9. November - Israels Botschafter Prosor: Linker Antisemitismus gefährlicher als der von rechts und von Islamisten",
@@ -3003,11 +3001,11 @@
     "Nach Kritik und Austritten - Familienunternehmer-Verband macht Rückzieher und räumt Fehler ein",
     "Diplomatie - Chinas Außenminister zu Gesprächen in Russland",
     "Israel - Proteste und Kritik nach Gnadengesuch Netanjahus",
-    "Syrien - Amerikanische und einheimische Streitkräfte zerstören zahlreiche Waffenlager von IS-Terrormiliz"
+    "Syrien - Amerikanische und einheimische Streitkräfte zerstören zahlreiche Waffenlager von IS-Terrormiliz",
+    "Sipri-Bericht - Weltweit größte Rüstungskonzerne verzeichnen erneut höhere Einnahmen",
+    "Bundestag - Bundesgesundheitsministerin Warken wirft AfD-Fraktion \"unterirdische Kommentare\" gegen weibliche Abgeordnete vor"
   ],
   "hashes": [
-    "75a863dfb3d824cd8efc7ea99703c8da",
-    "cf43c00644b2c2c682096231ac7ad26d",
     "9870e47555a5bd752da92e3bed9ddbcc",
     "64e30d6f4001d6559ed295269bd9e1d9",
     "19cf6b466efe58753b8c9b4859ad92ef",
@@ -4005,6 +4003,8 @@
     "569299172fc97560f6b9914999ead7bf",
     "1742fc59a68c47f5288ac1288d91f0a5",
     "14c23fceceaf1c700d121504da1cac54",
-    "5a38871b7c5b408d27d2f00a667913ff"
+    "5a38871b7c5b408d27d2f00a667913ff",
+    "c7b74e1fea75f4ab6f62decd703b7b23",
+    "95c3fd6bda36558ffc91431935a6657f"
   ]
 }
