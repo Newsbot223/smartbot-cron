@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/illouz-bezeichnet-trump-als-faschistischen-fuehrer-102.html",
-    "https://www.deutschlandfunk.de/mutmasslich-leiche-des-israelischen-soldaten-goldin-uebergeben-identifizierung-steht-aus-100.html",
     "https://www.faz.net/aktuell/politik/inland/kommentar-zur-afd-wer-ein-parteiverbot-will-muss-die-folgen-tragen-110772503.html",
     "https://www.deutschlandfunk.de/nach-aeusserungen-des-israelischen-botschafters-linkspartei-wehrt-sich-gegen-schuldzuweisungen-bezue-100.html",
     "https://www.deutschlandfunk.de/israel-bestaetigt-identitaet-des-uebergebenen-leichnams-verschleppter-soldat-hadar-goldin-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-von-macron-empfangen-kallas-koennte-entscheidende-woche-fuer-kiew-sein-102.html",
     "https://www.deutschlandfunk.de/bollwerk-gegen-gleichgueltigkeit-bundespraesident-steinmeier-wuerdigt-ehrenamtler-100.html",
     "https://www.spiegel.de/politik/deutschland/rente-baerbel-bas-warnt-vor-scheitern-des-rentenpakets-a-5a5e920b-019f-404d-9f6e-4fe489a37888#ref=rss",
-    "https://www.deutschlandfunk.de/hessen-meldet-50-verletzte-polizeikraefte-buendnis-kritisiert-polizeigewalt-100.html"
+    "https://www.deutschlandfunk.de/hessen-meldet-50-verletzte-polizeikraefte-buendnis-kritisiert-polizeigewalt-100.html",
+    "https://www.spiegel.de/netzwelt/ermittler-zerschlagen-plattform-fuer-geldwaesche-mit-kryptowaehrungen-a-15e6b896-5b42-4446-afeb-2d38d399ffae#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/afd-in-herford-zieht-konsequenzen-nach-eichwald-auftritt-accg-200313859.html"
   ],
   "content_hashes": [
-    "fac3a159ab4b11f7fa180e111670f92c",
-    "04583276b26895fede94e1ba44d1c6fa",
     "7f21d727401ab426c3febd898988db70",
     "8ab944fd31a609b7cb260f1799f2bf70",
     "652f5905e7d4be56f82fb92f09661b0e",
@@ -2001,11 +1999,11 @@
     "be9fba10f3e69d075d834b3d4fc7f2c4",
     "707fc761dc4a0c8f9eb356baa1be6531",
     "b4c3544996814d143da3917cad793404",
-    "0b54cf50b5d34d582b2ac6fbec7e637a"
+    "0b54cf50b5d34d582b2ac6fbec7e637a",
+    "4186784ae006f56b50c50c3e0de4a9f3",
+    "18e6d804e29548d32d5be545b8b65708"
   ],
   "titles": [
-    "Schillerrede - Illouz bezeichnet Trump als faschistischen Führer",
-    "Gaza - Mutmaßlich Leiche des israelischen Soldaten Goldin übergeben - Identifizierung steht aus",
     "Brandmauer und Parteiverbot: Das schärfste Schwert ist keine Option im Meinungskampf",
     "Berlin - Nach Äußerungen des israelischen Botschafters: Linkspartei wehrt sich gegen Schuldzuweisungen bezüglich Antisemitismus",
     "Gaza - Israel bestätigt Identität des übergebenen Leichnams - verschleppter Soldat Hadar Goldin",
@@ -3003,11 +3001,11 @@
     "Ukraine-Verhandlungen - Selenskyj von Macron empfangen - Kallas: könnte entscheidende Woche für Kiew sein",
     "Berlin - \"Bollwerk gegen Gleichgültigkeit\": Bundespräsident Steinmeier würdigt Ehrenamtler",
     "Rente: Bärbel Bas warnt vor Scheitern des Rentenpakets",
-    "Protest gegen neue AfD-Jugend - Hessen meldet 50 verletzte Polizeikräfte - Bündnis kritisiert Polizeigewalt"
+    "Protest gegen neue AfD-Jugend - Hessen meldet 50 verletzte Polizeikräfte - Bündnis kritisiert Polizeigewalt",
+    "Ermittler zerschlagen Plattform für Geldwäsche mit Kryptowährungen",
+    "Nach Gründungsparteitag: AfD in Herford zieht Konsequenzen nach Eichwald-Auftritt"
   ],
   "hashes": [
-    "f3be8b91f31b036ced1e5051251c7c1f",
-    "4ea5d7004ee49b0f6bc01ddc1616f65a",
     "5cc7ac2e2f845ccdb907c7e7573c8d58",
     "9b29a8866c9458f751beaec920184108",
     "d8943e0543b706efa653ff2694672f50",
@@ -4005,6 +4003,8 @@
     "f2d6f707630f4da5317e3da08630852c",
     "ecf4b9d76d4d1207380873035d848a1b",
     "f4c9f40c6db0863bb2f03d89b62067e7",
-    "b52a9974ef63f68551048d05d54412e4"
+    "b52a9974ef63f68551048d05d54412e4",
+    "ee2069a000121de2d902d9483ffafdf2",
+    "4a48c46ecd55a9b3b353c7ba60d5f143"
   ]
 }
