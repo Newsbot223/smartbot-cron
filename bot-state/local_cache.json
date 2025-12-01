@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trumps-entsendung-der-nationalgarde-nach-portland-ist-rechtswidrig-100.html",
-    "https://www.deutschlandfunk.de/protest-gegen-wahl-von-ex-bundesministerin-spiegel-zur-sozialdezernentin-in-hannover-100.html",
-    "https://www.deutschlandfunk.de/shutdown-fuehrt-zu-hunderten-flugausfaellen-annaeherung-im-haushaltsstreit-100.html",
-    "https://www.deutschlandfunk.de/proteste-gegen-geplante-arbeitsmarktreform-102.html",
     "https://www.deutschlandfunk.de/interview-olmert-ehud-ministerpraesident-a-d-des-staates-israel-100.html",
     "https://www.deutschlandfunk.de/pflegebevollmaechtigte-staffler-stoesst-mit-aenderungsvorschlag-beim-pflegegrad-1-auf-kritik-100.html",
     "https://www.deutschlandfunk.de/oesterreichische-aussenministerin-verurteilt-drohnenangriff-auf-internationale-journalisten-und-helf-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/wochenausblick-vor-geplanter-rentenpaket-abstimmung-100.html",
     "https://www.deutschlandfunk.de/bundesbankvorstand-warnt-vor-boersenkorrektur-100.html",
     "https://www.deutschlandfunk.de/verschollen-geglaubtes-rubens-gemaelde-fuer-fast-drei-millionen-versteigert-102.html",
-    "https://www.deutschlandfunk.de/berichte-ueber-verhaftungswelle-gegen-oppositionelle-100.html"
+    "https://www.deutschlandfunk.de/berichte-ueber-verhaftungswelle-gegen-oppositionelle-100.html",
+    "https://www.deutschlandfunk.de/firmen-pruefen-wegen-exportkontrollen-abzug-aus-china-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-auf-151-gestiegen-noch-40-menschen-vermisst-100.html",
+    "https://www.deutschlandfunk.de/kontroverse-um-afd-brandmauer-und-familienunternehmer-100.html",
+    "https://www.faz.net/aktuell/politik/inland/synodalkonferenz-zdk-gibt-dem-vatikan-nach-110794681.html"
   ],
   "content_hashes": [
-    "32bd59c76f698b6781dae9f6a7965002",
-    "312e33b5847ebd5e05f06755f2da7a2e",
-    "cab39d09f10e5af3222da958cbde86d7",
-    "2e6a7ef2c1a9151f82477023ac665ac7",
     "0c3a56fe5c1e7667284745f58a03c7b9",
     "cc548b77295a2bd1c1ac4bbe209b4cee",
     "6ac6dd4629a1e94d85b98ebb4109c99a",
@@ -2001,13 +1997,13 @@
     "b17cf8e84baa7975f562e1c98affb775",
     "083370e41d810538202d40db39ed0060",
     "cab067cda3f6ff5120f829e8545eda22",
-    "77b683a520b8ebfdb94fd5917081f667"
+    "77b683a520b8ebfdb94fd5917081f667",
+    "f83a59cc7c70733a25c28d52ccc64bfa",
+    "45658911caa0ab1b4f70549c0fe9beea",
+    "14eaa273097ce80bf8e3109df9f6486b",
+    "1a7357fe8b6fcb5d8d75eb707e6c80c9"
   ],
   "titles": [
-    "Bundesrichterin - Trumps Entsendung der Nationalgarde nach Portland ist \"rechtswidrig\"",
-    "Wegen Ahrtal-Flut - Protest gegen Wahl von Ex-Bundesministerin Spiegel zur Sozialdezernentin in Hannover",
-    "USA - Shutdown führt zu Hunderten Flugausfällen - Annäherung im Haushaltsstreit",
-    "Portugal - Proteste gegen geplante Arbeitsmarktreform",
     "Ehud Olmert - Israels Ex-Premier kritisiert Siedlergewalt als unerträglich",
     "Sozialleistungen - Pflegebevollmächtigte Staffler stößt mit Änderungsvorschlag beim Pflegegrad 1 auf Kritik",
     "Ukraine - Österreichische Außenministerin verurteilt Drohnenangriff auf internationale Journalisten und Helfer",
@@ -3003,13 +2999,13 @@
     "Streit um Rentenpaket - Unions-Rebellen geben Widerstand offenbar auf",
     "Aktienmarkt - Bundesbankvorstand warnt vor Börsenkorrektur",
     "Kunstmarkt - Verschollen geglaubtes Rubens-Gemälde für fast drei Millionen versteigert",
-    "Venezuela - Berichte über Verhaftungswelle gegen Oppositionelle"
+    "Venezuela - Berichte über Verhaftungswelle gegen Oppositionelle",
+    "EU-Handelskammer - Firmen prüfen wegen Exportkontrollen Abzug aus China",
+    "Brandkatastrophe in Hongkong - Zahl der Toten auf 151 gestiegen, noch 40 Menschen vermisst",
+    "Umgang mit der AfD - Familienunternehmer-Verband vollzieht komplette Kehrtwende",
+    "Ringen mit dem Vatikan: ZdK beschließt Satzung der neuen Synodalkonferenz"
   ],
   "hashes": [
-    "8a16d1597383fd53abb47a193d62cfce",
-    "48c9c16eb81f1b96aaafc15c6ed3565c",
-    "84003dd8f7a76262e0b33fc4c3a25505",
-    "dd21350ac88126c1850938d7cd356422",
     "ba3bd8b8804b00e5ff7de56c381c4301",
     "74cda88ece8b7dd4a57f00eaea44e057",
     "5248d2ab9a2787debc76634ee16665de",
@@ -4005,6 +4001,10 @@
     "f74bf4337950b47f1de24fe7fbc66609",
     "387f572fe6268e76c8c2708330557f19",
     "587c5c7259321934005cd1a0bdb4677c",
-    "27baddca910c859abc2aa8bef483a491"
+    "27baddca910c859abc2aa8bef483a491",
+    "1f9b612721d51ca35773acf3bd344891",
+    "00c97f14382e56066d5e6847dc0554c2",
+    "fd599b5c3e6429dadfa86949aa7e5b70",
+    "4db6b82333892714135aad4b228c0839"
   ]
 }
