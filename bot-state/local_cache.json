@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wissenschaft/natur/elche-in-deutschland-kommt-der-elch-zurueck-nach-deutschland-a-e041f45f-e870-453a-9a3d-0c06fea3a3b1#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/deutschland-israelischer-botschafter-warnt-vor-linkem-antisemitismus-a-ceae1c22-757d-41de-a010-6288b2f236d8#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/mit-empathie-fuehlt-was-afd-waehler-fuehlen-accg-110769034.html",
     "https://www.deutschlandfunk.de/trumps-entsendung-der-nationalgarde-nach-portland-ist-rechtswidrig-100.html",
     "https://www.deutschlandfunk.de/protest-gegen-wahl-von-ex-bundesministerin-spiegel-zur-sozialdezernentin-in-hannover-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-wirft-afd-fraktion-unterirdische-kommentare-gegen-weibliche-abgeo-100.html",
     "https://www.deutschlandfunk.de/aktuelle-lage-in-der-ukraine-juengste-entwicklungen-im-korruptionsskandal-100.html",
     "https://www.deutschlandfunk.de/trumps-favorit-fuehrt-bei-praesidentschaftswahl-100.html",
-    "https://www.deutschlandfunk.de/wochenausblick-vor-geplanter-rentenpaket-abstimmung-100.html"
+    "https://www.deutschlandfunk.de/wochenausblick-vor-geplanter-rentenpaket-abstimmung-100.html",
+    "https://www.deutschlandfunk.de/bundesbankvorstand-warnt-vor-boersenkorrektur-100.html",
+    "https://www.deutschlandfunk.de/verschollen-geglaubtes-rubens-gemaelde-fuer-fast-drei-millionen-versteigert-102.html"
   ],
   "content_hashes": [
-    "5d1efac31e0a006a2ecf0d1125f92866",
-    "2543408b73daf95704d33b7d407498e1",
     "f89019acd0c68397107e553730ee9eab",
     "32bd59c76f698b6781dae9f6a7965002",
     "312e33b5847ebd5e05f06755f2da7a2e",
@@ -2001,11 +1999,11 @@
     "81509bc6a37a955cebd51082cdc58309",
     "f8e3cdc178d9cd36ca2aad9e0b9b7aed",
     "dcbe31881e979f983632bde9c6a998af",
-    "b17cf8e84baa7975f562e1c98affb775"
+    "b17cf8e84baa7975f562e1c98affb775",
+    "083370e41d810538202d40db39ed0060",
+    "cab067cda3f6ff5120f829e8545eda22"
   ],
   "titles": [
-    "Elche in Deutschland: Kommt der Elch zurück nach Deutschland?",
-    "Deutschland: Israelischer Botschafter warnt vor linkem Antisemitismus",
     "Was hilft gegen die AfD?: Fühlt, was AfD-Wähler fühlen!",
     "Bundesrichterin - Trumps Entsendung der Nationalgarde nach Portland ist \"rechtswidrig\"",
     "Wegen Ahrtal-Flut - Protest gegen Wahl von Ex-Bundesministerin Spiegel zur Sozialdezernentin in Hannover",
@@ -3003,11 +3001,11 @@
     "Bundestag - Bundesgesundheitsministerin Warken wirft AfD-Fraktion \"unterirdische Kommentare\" gegen weibliche Abgeordnete vor",
     "Krieg in der Ukraine - Kiew erneut mit Hunderten Drohnen und Raketen angegriffen",
     "Honduras - Trumps Favorit führt bei Präsidentschaftswahl",
-    "Streit um Rentenpaket - Unions-Rebellen geben Widerstand offenbar auf"
+    "Streit um Rentenpaket - Unions-Rebellen geben Widerstand offenbar auf",
+    "Aktienmarkt - Bundesbankvorstand warnt vor Börsenkorrektur",
+    "Kunstmarkt - Verschollen geglaubtes Rubens-Gemälde für fast drei Millionen versteigert"
   ],
   "hashes": [
-    "80950da98df01256f1f2dcc2140d6e25",
-    "bc8312ad94823109b083bd738f3fe6b9",
     "815d3a2b1bf97d9b17018dddb5babcbc",
     "8a16d1597383fd53abb47a193d62cfce",
     "48c9c16eb81f1b96aaafc15c6ed3565c",
@@ -4005,6 +4003,8 @@
     "95c3fd6bda36558ffc91431935a6657f",
     "a6dcfa68bbe066fe02651bd3d4d016e3",
     "1b89cf5a1022feb65edd2bd098706a06",
-    "f74bf4337950b47f1de24fe7fbc66609"
+    "f74bf4337950b47f1de24fe7fbc66609",
+    "387f572fe6268e76c8c2708330557f19",
+    "587c5c7259321934005cd1a0bdb4677c"
   ]
 }
