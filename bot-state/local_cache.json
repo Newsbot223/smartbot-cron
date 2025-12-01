@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/drohnen-ueber-kernkraftwerk-und-flughafen-gesichtet-102.html",
-    "https://www.deutschlandfunk.de/entscheidung-ueber-weitere-haft-von-ex-praesident-sarkozy-102.html",
     "https://www.deutschlandfunk.de/afd-kritisiert-steinmeiers-aeusserung-zu-parteiverbotsverfahren-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-ueber-zukunft-von-heizungsgesetz-weiter-uneins-100.html",
     "https://www.deutschlandfunk.de/kramp-karrenbauer-will-lammert-an-der-spitze-der-cdu-nahen-konrad-adenauer-stiftung-abloesen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/who-erklaert-ebola-ausbruch-fuer-beendet-100.html",
     "https://www.deutschlandfunk.de/rtl-will-800-bis-1000-stellen-abbauen-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschlands-rolle-in-europa-den-frieden-retten-110773512.html",
-    "https://www.deutschlandfunk.de/regisseur-panahi-in-abwesenheit-zu-einem-jahr-gefaengnis-verurteilt-100.html"
+    "https://www.deutschlandfunk.de/regisseur-panahi-in-abwesenheit-zu-einem-jahr-gefaengnis-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/kritik-aus-der-wirtschaft-an-kampfansage-von-arbeitsministerin-bas-100.html",
+    "https://www.deutschlandfunk.de/slowenien-verankert-recht-auf-barzahlung-in-verfassung-100.html"
   ],
   "content_hashes": [
-    "aadd312072b5a7a7f4451e479f430987",
-    "94d8ee6fc243e0ff235a1770a1869599",
     "e878953896badf5c9a0bd4b13ddd8396",
     "90c4d7ff9271925fb6f36046b6ad3840",
     "6cf71a60b3b83c314eaede93751aba84",
@@ -2001,11 +1999,11 @@
     "248481d0f92409ba75e7d604164e245a",
     "ffa3369d45d134b488ee251070cbe124",
     "fdbe000148074b6110069b1436725d87",
-    "af9049583d863384c067d4cafeafca6a"
+    "af9049583d863384c067d4cafeafca6a",
+    "5abe5a889c2551884381c2382d517f89",
+    "42f714ae61b4a365fcdb416ebb568793"
   ],
   "titles": [
-    "Belgien - Drohnen über Kernkraftwerk und Flughafen gesichtet",
-    "Paris - Entscheidung über weitere Haft von Ex-Präsident Sarkozy",
     "Rede zur Pogromnacht - AfD kritisiert Steinmeiers Äußerung zu Parteiverbotsverfahren",
     "Berlin - Bundesregierung über Zukunft von Heizungsgesetz weiter uneins",
     "Ex-Parteichefin - Kramp-Karrenbauer will Lammert an der Spitze der CDU-nahen Konrad-Adenauer-Stiftung ablösen",
@@ -3003,11 +3001,11 @@
     "Kongo - WHO erklärt Ebola-Ausbruch für beendet",
     "Werbekrise - RTL will 800 bis 1000 Stellen abbauen",
     "Deutschlands Rolle in Europa: Kann Merz den europäischen Frieden retten?",
-    "Iran - Regisseur Panahi in Abwesenheit zu einem Jahr Gefängnis verurteilt"
+    "Iran - Regisseur Panahi in Abwesenheit zu einem Jahr Gefängnis verurteilt",
+    "Nach Rede auf Juso-Kongress - Kritik aus der Wirtschaft an Kampfansage von Arbeitsministerin Bas",
+    "Zahlungsverkehr - Slowenien verankert Recht auf Barzahlung in Verfassung"
   ],
   "hashes": [
-    "24f8c96c1f2e5de318b84ff253dac8c5",
-    "69e4ea4be0e510cb5261bb26c1496057",
     "19a791e442b459561e1c2bbdf111b002",
     "2d56b8f2e2216bba4d9748c76f03b16d",
     "a19efbcd30399deceb8d8de4fbd58f00",
@@ -4005,6 +4003,8 @@
     "7e8fe2bf5e8d9d0c159dbd5d562099db",
     "45538106059815a344b493c046dcdc3e",
     "427f00e3aec910e14cc75ee3390dbbc6",
-    "6b0cd1f660a5680f3a0ff2577ab821b6"
+    "6b0cd1f660a5680f3a0ff2577ab821b6",
+    "a06e9dd666e3832346650a70d548db63",
+    "83d8db63caf216081c47eaf7af1afea1"
   ]
 }
