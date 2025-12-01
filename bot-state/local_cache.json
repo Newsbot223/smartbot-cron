@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interview-olmert-ehud-ministerpraesident-a-d-des-staates-israel-100.html",
-    "https://www.deutschlandfunk.de/pflegebevollmaechtigte-staffler-stoesst-mit-aenderungsvorschlag-beim-pflegegrad-1-auf-kritik-100.html",
     "https://www.deutschlandfunk.de/oesterreichische-aussenministerin-verurteilt-drohnenangriff-auf-internationale-journalisten-und-helf-100.html",
     "https://www.deutschlandfunk.de/buergermeisterin-im-irak-warnt-vor-gezielter-vertreibung-von-christen-100.html",
     "https://www.faz.net/aktuell/feuilleton/debatten/private-leihgabe-an-merz-wie-kommt-anselm-kiefer-ins-kanzleramt-accg-110769711.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/firmen-pruefen-wegen-exportkontrollen-abzug-aus-china-100.html",
     "https://www.deutschlandfunk.de/zahl-der-toten-auf-151-gestiegen-noch-40-menschen-vermisst-100.html",
     "https://www.deutschlandfunk.de/kontroverse-um-afd-brandmauer-und-familienunternehmer-100.html",
-    "https://www.faz.net/aktuell/politik/inland/synodalkonferenz-zdk-gibt-dem-vatikan-nach-110794681.html"
+    "https://www.faz.net/aktuell/politik/inland/synodalkonferenz-zdk-gibt-dem-vatikan-nach-110794681.html",
+    "https://www.deutschlandfunk.de/papst-leo-xiv-nach-tuerkei-jetzt-im-libanon-zum-politischen-kontext-der-reise-100.html",
+    "https://www.aljazeera.com/gallery/2025/12/1/over-1600-sudanese-civilians-flee-south-kordofan-in-single-day?traffic_source=rss"
   ],
   "content_hashes": [
-    "0c3a56fe5c1e7667284745f58a03c7b9",
-    "cc548b77295a2bd1c1ac4bbe209b4cee",
     "6ac6dd4629a1e94d85b98ebb4109c99a",
     "367da20c11c154afa26c410970b82fe3",
     "c8850cac4dbbbfa74d85831409e3ee2f",
@@ -2001,11 +1999,11 @@
     "f83a59cc7c70733a25c28d52ccc64bfa",
     "45658911caa0ab1b4f70549c0fe9beea",
     "14eaa273097ce80bf8e3109df9f6486b",
-    "1a7357fe8b6fcb5d8d75eb707e6c80c9"
+    "1a7357fe8b6fcb5d8d75eb707e6c80c9",
+    "9b6cbd2e7bb3c588afc472b5fa65342c",
+    "2b277497a9bc8cb690c1f9074203e322"
   ],
   "titles": [
-    "Ehud Olmert - Israels Ex-Premier kritisiert Siedlergewalt als unerträglich",
-    "Sozialleistungen - Pflegebevollmächtigte Staffler stößt mit Änderungsvorschlag beim Pflegegrad 1 auf Kritik",
     "Ukraine - Österreichische Außenministerin verurteilt Drohnenangriff auf internationale Journalisten und Helfer",
     "Schiitische Milizen - Bürgermeisterin im Irak warnt vor gezielter Vertreibung von Christen",
     "Leihgabe im Regierungszimmer: Wie kommt das Anselm-Kiefer-Bild ins Kanzler-Büro?",
@@ -3003,11 +3001,11 @@
     "EU-Handelskammer - Firmen prüfen wegen Exportkontrollen Abzug aus China",
     "Brandkatastrophe in Hongkong - Zahl der Toten auf 151 gestiegen, noch 40 Menschen vermisst",
     "Umgang mit der AfD - Familienunternehmer-Verband vollzieht komplette Kehrtwende",
-    "Ringen mit dem Vatikan: ZdK beschließt Satzung der neuen Synodalkonferenz"
+    "Ringen mit dem Vatikan: ZdK beschließt Satzung der neuen Synodalkonferenz",
+    "Papstreise - Leo XIV. auf Friedensmission im krisengeschüttelten Libanon",
+    "More than 1,600 people flee Sudan’s South Kordofan in single day"
   ],
   "hashes": [
-    "ba3bd8b8804b00e5ff7de56c381c4301",
-    "74cda88ece8b7dd4a57f00eaea44e057",
     "5248d2ab9a2787debc76634ee16665de",
     "c419456f23d32162f433b1da1980de7a",
     "eb7eb570ec823d16f0ffe34ab93dc451",
@@ -4005,6 +4003,8 @@
     "1f9b612721d51ca35773acf3bd344891",
     "00c97f14382e56066d5e6847dc0554c2",
     "fd599b5c3e6429dadfa86949aa7e5b70",
-    "4db6b82333892714135aad4b228c0839"
+    "4db6b82333892714135aad4b228c0839",
+    "53b72724a1cc35958b0deeb18574e4c7",
+    "85a031837ac6fc2389bfb48b008f4136"
   ]
 }
