@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-cdu-beraet-in-bolivien-ueber-lithium-lieferungen-100.html",
-    "https://www.deutschlandfunk.de/bewegung-im-us-haushaltsstreit-ausweg-aus-dem-shutdown-in-sicht-100.html",
     "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-beratungen-ueber-einen-uebergangsetat-102.html",
     "https://www.deutschlandfunk.de/weitere-anklage-gegen-ex-praesidenten-yoon-100.html",
     "https://www.deutschlandfunk.de/steinmeiers-rede-zum-9-november-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zehntausende-demonstrieren-gegen-korruption-100.html",
     "https://www.deutschlandfunk.de/junge-gruppe-bekraeftigt-ablehnung-der-rentenplaene-probeabstimmung-bei-der-union-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-rueckt-offenbar-von-verbrenner-aus-ab-100.html",
-    "https://www.deutschlandfunk.de/papst-wuerdigt-libanon-als-beispiel-fuer-religioese-koexistenz-102.html"
+    "https://www.deutschlandfunk.de/papst-wuerdigt-libanon-als-beispiel-fuer-religioese-koexistenz-102.html",
+    "https://www.deutschlandfunk.de/sos-kinderdoerfer-klimawandel-und-konflikte-fuehren-zu-immer-mehr-behinderungen-bei-kindern-102.html",
+    "https://www.deutschlandfunk.de/bundessozialgericht-verhandelt-zur-hoehe-des-buergergeldes-100.html"
   ],
   "content_hashes": [
-    "c67defd5164eaba2e6b77fc7854788b4",
-    "9b2839127e6d514c0818e145a1df7e05",
     "422de0c39a1292cf4d4b11ba0667d486",
     "375602f3c3d0af1695e04951e6791153",
     "f6688f1516ccbadd2b56e3cb0642efd5",
@@ -2001,11 +1999,11 @@
     "30e17d57241bd4c927a0676b9060c4ee",
     "95a9864a0c63c4032c6c9ce20c72a9c4",
     "2c3f02cfb0564fe92f40ea95b192c384",
-    "47e0c5dc028df84570f2c8f6ec89d4f5"
+    "47e0c5dc028df84570f2c8f6ec89d4f5",
+    "42f4359c59132958efd79fd8e8c449be",
+    "e920f8cc7fabf4e17b9e8e796b483e9b"
   ],
   "titles": [
-    "Bolivien - Bundesaußenminister Wadephul (CDU) berät in Bolivien über Lithium-Lieferungen",
-    "US-Haushaltsstreit - Ausweg aus dem Shutdown in Sicht",
     "Haushaltssperre - US-Senat stimmt für Beratungen über einen Übergangsetat",
     "Südkorea - Weitere Anklage gegen Ex-Präsidenten Yoon",
     "Grundsatzrede - Bundespräsident verlangt Widerstand gegen Rechtsextremismus",
@@ -3003,11 +3001,11 @@
     "Bulgarien - Zehntausende demonstrieren gegen Korruption",
     "Koalitionsstreit - Junge Gruppe bekräftigt Ablehnung der Rentenpläne - Probeabstimmung bei der Union",
     "Zukunft der Autoindustrie - EU-Kommission rückt offenbar von Verbrenner-Aus ab",
-    "Auslandreise - Papst würdigt Libanon als Beispiel für religiöse Koexistenz"
+    "Auslandreise - Papst würdigt Libanon als Beispiel für religiöse Koexistenz",
+    "Hilfsorganisation - SOS Kinderdörfer: Klimawandel und Konflikte führen zu immer mehr Behinderungen bei Kindern",
+    "Grundsatzklage - Bundessozialgericht verhandelt zur Höhe des Bürgergeldes"
   ],
   "hashes": [
-    "68c9c975bff3cf4c871c5e487365b39f",
-    "a5b0b0ce454394ec8a4679c7e7694c03",
     "d5006a9f2b715937b3dc814ac2dcff06",
     "a86350c2114086747cf50067aa3ba0c9",
     "39490708f9c8af64eaf35bdd74389535",
@@ -4005,6 +4003,8 @@
     "df7fc6d144f5a052e3037f0f1d807a1b",
     "53e4353bd53442a219fc8af446bd0077",
     "954e9447b71586c415f055904b631e5d",
-    "11f98f0e8bd655a1616599d37088f1f0"
+    "11f98f0e8bd655a1616599d37088f1f0",
+    "c460099b14d869da88e5f8f2c96bfc37",
+    "a269612618e4faad307e17c4345daef8"
   ]
 }
