@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/senat-beraet-ueber-ausweg-aus-shutdown-abstimmung-noch-in-dieser-nacht-denkbar-100.html",
-    "https://www.deutschlandfunk.de/stabiles-syrien-von-grosser-bedeutung-us-praesident-trump-empfaengt-uebergangspraesident-al-scharaa--100.html",
-    "https://www.deutschlandfunk.de/parlament-stimmt-in-erster-lesung-fuer-todesstrafe-fuer-terroristen-100.html",
-    "https://www.deutschlandfunk.de/us-senat-stimmt-fuer-uebergangsetat-ende-von-shutdown-rueckt-naeher-102.html",
     "https://www.deutschlandfunk.de/wadephul-dringt-auf-engere-partnerschaft-zwischen-bolivien-und-eu-100.html",
     "https://www.deutschlandfunk.de/unhcr-ruft-zu-spenden-auf-fehlende-staatliche-mittel-erschweren-winter-versorgung-100.html",
     "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wird-70-nicht-mehr-so-heimelig-wie-unter-merkel-accg-110773957.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/usa-eu-russland-28-friedensplan-trump-ukraine-selenskij-100.html",
     "https://www.deutschlandfunk.de/frueherer-praesident-von-honduras-nach-trumps-begnadigung-wieder-frei-100.html",
     "https://www.deutschlandfunk.de/deutschland-gibt-kulturgueter-mit-schaedeln-an-ghana-zurueck-102.html",
-    "https://www.spiegel.de/wirtschaft/service/schufa-veraendert-ihre-kreditwuerdigkeitsformel-a-9974f290-0123-457a-bd6e-1b69887bb8b4#ref=rss"
+    "https://www.spiegel.de/wirtschaft/service/schufa-veraendert-ihre-kreditwuerdigkeitsformel-a-9974f290-0123-457a-bd6e-1b69887bb8b4#ref=rss",
+    "https://www.deutschlandfunk.de/putin-empfaengt-witkoff-und-kushner-im-kreml-102.html",
+    "https://www.deutschlandfunk.de/paket-rekord-bei-dhl-12-4-millionen-sendungen-an-einem-tag-100.html",
+    "https://www.deutschlandfunk.de/steinmeier-erinnert-an-oekonomische-motive-der-ns-verbrechen-102.html",
+    "https://www.spiegel.de/politik/deutschland/deutschland-laesst-192-afghanen-per-charterflug-nach-erfurt-einfliegen-a-44f164d5-21ec-4f6f-bf95-08cedc349dcb#ref=rss"
   ],
   "content_hashes": [
-    "f646bb17aaa62332c96c57fd746c57e1",
-    "8083d2ee3a5b126d36d950e2fbb730c9",
-    "ba8266b6608dd035a268570058c3e45f",
-    "17e6172e80c923ba4aa535d2d14bb06d",
     "6163eb48cbe1afe45dff468d7b14caf5",
     "ba5aad97680baadf65ffbfd3947ed37a",
     "5927c6304154213cc625517fa8912e2e",
@@ -2001,13 +1997,13 @@
     "b2474305393d0ada4e770d8a245b53c1",
     "206cd529a32f97bef48ca15c04989004",
     "f3ead552b5c3f1769d33b2dda050a56b",
-    "2b23e6788a1a322d759fb562ed0cfb14"
+    "2b23e6788a1a322d759fb562ed0cfb14",
+    "1108000d65ec479722420dd2c16aafe1",
+    "333c6958788d155d9150f051484782bb",
+    "0ed26dfe6bf7e0159b03302d36973e32",
+    "be41c17d337cfd59edd257c1a8886068"
   ],
   "titles": [
-    "USA - Senat berät über Ausweg aus Shutdown - Abstimmung noch in dieser Nacht denkbar",
-    "Washington - \"Stabiles Syrien von großer Bedeutung\": US-Präsident Trump empfängt Übergangspräsident al-Scharaa - Sanktionen bleiben ausgesetzt",
-    "Israel - Parlament stimmt in erster Lesung für Todesstrafe für Terroristen",
-    "Washington - US-Senat stimmt für Übergangsetat - Ende von Shutdown rückt näher",
     "Südamerika - Wadephul dringt auf engere Partnerschaft zwischen Bolivien und EU",
     "Appell - UNHCR ruft zu Spenden auf - fehlende staatliche Mittel erschweren Winter-Versorgung",
     "Friedrich Merz wird 70: Nicht mehr so heimelig wie unter Merkel",
@@ -3003,13 +2999,13 @@
     "Friedensplan für die Ukraine - Ein schneller Erfolg der Gespräche nicht absehbar",
     "USA - Früherer Präsident von Honduras nach Trumps Begnadigung wieder frei",
     "Aufarbeitung der Kolonialgeschichte - Deutschland gibt Kulturgüter mit Schädeln an Ghana zurück",
-    "Schufa verändert ihre Kreditwürdigkeitsformel"
+    "Schufa verändert ihre Kreditwürdigkeitsformel",
+    "Verhandlungen zum Ukraine-Krieg - Putin empfängt Witkoff und Kushner im Kreml",
+    "Online-Shopping - Paket-Rekord bei DHL: 12,4 Millionen Sendungen an einem Tag",
+    "NS-Zwangsarbeit - Steinmeier erinnert an ökonomische Motive der NS-Verbrechen",
+    "Deutschland lässt 192 Afghanen per Charterflug nach Erfurt einfliegen"
   ],
   "hashes": [
-    "ea977772bb1adf1e5667d62c06916fa8",
-    "0a02e36396fdfcedff00f063194eb29d",
-    "7529f770a5730765067196231abb4a38",
-    "68d86ceda318e7b8b814438fa7ee8e6f",
     "b88d92ab3fa46264f1499196d0ff73d3",
     "e565f86a7ee49be1b662ea383dd983b0",
     "e7e19faaf04bbc0abb52e41be31387db",
@@ -4005,6 +4001,10 @@
     "c5578f7b3d76152d00814a519959ac20",
     "eef1a1cd200a8724569bf50ed8c3e6b9",
     "6f8490d616212bbdef7f96c38b7845aa",
-    "3eecbd858b37b9ae16655c3969d408e5"
+    "3eecbd858b37b9ae16655c3969d408e5",
+    "6b526db37c3300f2f0e9a4c88b63566e",
+    "050444efc50fc69f664310deae1307ca",
+    "ca0de45f06c561afc1651c351d37c9ee",
+    "786c3aa0d11c98a216b92f3862c80dec"
   ]
 }
