@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wagenknecht-gibt-bsw-vorsitz-an-de-masi-ab-102.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-wagenknecht-gibt-parteivorsitz-des-bsw-ab-faz-110093143.html",
-    "https://www.deutschlandfunk.de/wagenknecht-zieht-sich-vom-vorsitz-zurueck-debatte-um-den-kuenftigen-namen-der-partei-102.html",
-    "https://www.deutschlandfunk.de/ex-praesident-sarkozy-kommt-unter-auflagen-aus-dem-gefaengnis-102.html",
-    "https://www.deutschlandfunk.de/erneut-zahlreiche-flugausfaelle-wegen-shutdown-104.html",
     "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-schlaegt-neuausrichtung-der-wirtschaftspolitik-vor-100.html",
     "https://www.deutschlandfunk.de/explosion-in-neu-delhi-acht-tote-100.html",
     "https://www.deutschlandfunk.de/regierung-mit-neuer-strategie-gegen-antisemitismus-102.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/friedensprozess-koennte-schmerzhafte-zugestaendnisse-der-ukraine-erfordern-102.html",
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-haftung-bei-e-scooter-unfaellen-verschaerfen-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsstandort-deutschland-im-freien-fall-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen-a-8935cf6d-562f-4685-bd5f-8cbe03c2d4e5#ref=rss"
+    "https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen-a-8935cf6d-562f-4685-bd5f-8cbe03c2d4e5#ref=rss",
+    "https://www.deutschlandfunk.de/rtl-will-600-stellen-in-deutschland-abbauen-100.html",
+    "https://www.deutschlandfunk.de/umwelt-und-agrarverbaende-kritisieren-die-plaene-der-eu-kommission-zur-gemeinsamen-agrarpolitik-100.html",
+    "https://www.deutschlandfunk.de/durchsuchungen-in-vier-bundeslaendern-106.html",
+    "https://www.spiegel.de/politik/deutschland/den-haag-deutschland-ueberstellt-libyschen-folterknast-chef-wegen-kriegsverbrechen-a-bb119bd0-69e9-46b7-929d-73c4339915af#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/attentat-am-holocaust-mahnmal-opfer-will-aussagen-accg-200316613.html"
   ],
   "content_hashes": [
-    "76a972dd6dea8b09175f4221640d3cfb",
-    "c42e726e875818a24edc9aff91a0d4fa",
-    "937fc2bb2ce454bf4034afc2b83e532d",
-    "49f0e10dd5e8fec897738a00a9b87ff4",
-    "7b3f271d024c23b10b1c9e9271dea9e7",
     "be6f60b5e07142dc90ff8ab827dcba7b",
     "7250653dabf7085f5a164546f4629c52",
     "98089ff1ba966b55a9e726d5f1a9159f",
@@ -2001,14 +1996,14 @@
     "ca0eb336f8377f809ba16ec7d40c3ecf",
     "cf1a6074549ae729ff53f5783280d40f",
     "93ed199832695c7720a7ab506b84e1d2",
-    "34a4b4c5758d545e9197ec42abadc497"
+    "34a4b4c5758d545e9197ec42abadc497",
+    "8d55f949a4e18fc4b5a70347cabebde5",
+    "c39fe19d9a832ae84f2e0517f00b2d2e",
+    "f1de55c55f54004ca197da0aaae4c53d",
+    "a74cceb0475c042871bf21b70af1d986",
+    "5b6c78747d9a30d0660915e4209c8deb"
   ],
   "titles": [
-    "Parteien - Wagenknecht gibt BSW-Vorsitz an de Masi ab",
-    "Liveblog Bundespolitik: Sahra Wagenknecht gibt Parteivorsitz des BSW ab",
-    "BSW - Wagenknecht zieht sich vom Vorsitz zurück - Debatte um den künftigen Namen der Partei",
-    "Frankreich - Ex-Präsident Sarkozy kommt unter Auflagen aus dem Gefängnis",
-    "USA - Erneut zahlreiche Flugausfälle wegen Shutdown",
     "Standort Deutschland - Bundeswirtschaftsministerin Reiche schlägt Neuausrichtung der Wirtschaftspolitik vor",
     "Indien - Explosion in Neu-Delhi - acht Tote",
     "Österreich - Regierung mit neuer Strategie gegen Antisemitismus",
@@ -3003,14 +2998,14 @@
     "Wadephul - Friedensprozess könnte \"schmerzhafte Zugeständnisse\" der Ukraine erfordern",
     "Schadenersatz - Bundesjustizministerin Hubig will Haftung bei E-Scooter-Unfällen verschärfen",
     "Bundesverband der Deutschen Industrie - Wirtschaftsstandort Deutschland \"im freien Fall\"",
-    "TV: RTL streicht rund 600 Stellen in Deutschland"
+    "TV: RTL streicht rund 600 Stellen in Deutschland",
+    "Medien - RTL will 600 Stellen in Deutschland abbauen",
+    "Gemeinsame Stellungnahme - Umwelt- und Agrarverbände kritisieren die Pläne der EU-Kommission zur Gemeinsamen Agrarpolitik",
+    "Schwarzarbeit im Baugewerbe - Durchsuchungen in vier Bundesländern",
+    "Den Haag: Deutschland überstellt libyschen Folterknast-Chef wegen Kriegsverbrechen",
+    "Prozess in Berlin: Attentat am Holocaust-Mahnmal: Opfer will aussagen"
   ],
   "hashes": [
-    "5ffee111bbb8ff146b23529ec09d2d8e",
-    "59512ce03092100512b281151cab1d63",
-    "7dac5efb2ec38e248844ecfb05a493c7",
-    "5652ec446b389a5e17419dfd7b3c3a2c",
-    "82fddd6f5f703768c6150cd6fa3726a7",
     "182c732e5ee4097ab0b0942044d256a9",
     "dca6cb8ce1f40819bade169190513091",
     "2d4b15c3ac3a81e46848080f3ed96780",
@@ -4005,6 +4000,11 @@
     "4c31fa6412aaf9ccdfffc3fd8686883d",
     "b63b1222482d81ab0a58e9d8f22a7da4",
     "a5763d45791305e174d2a9b601115948",
-    "e340252e1c7b59d6119896bb20258584"
+    "e340252e1c7b59d6119896bb20258584",
+    "087c9df3ed356b1aa94646c6a87cd01d",
+    "36afa834e94ea938cec7da8b2ac36563",
+    "677b0cebad8028aac456c3f5d26aac5c",
+    "b4b79df03df8a40f7d64df397dddf839",
+    "f2b2e85177ae661a2e542d19aa1fc2f9"
   ]
 }
