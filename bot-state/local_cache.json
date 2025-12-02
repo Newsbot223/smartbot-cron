@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-dringt-auf-engere-partnerschaft-zwischen-bolivien-und-eu-100.html",
-    "https://www.deutschlandfunk.de/unhcr-ruft-zu-spenden-auf-fehlende-staatliche-mittel-erschweren-winter-versorgung-100.html",
-    "https://www.faz.net/aktuell/politik/inland/friedrich-merz-wird-70-nicht-mehr-so-heimelig-wie-unter-merkel-accg-110773957.html",
     "https://www.deutschlandfunk.de/union-besteht-nicht-auf-losverfahren-fuer-rekrutenauswahl-100.html",
     "https://www.deutschlandfunk.de/gema-gegen-chatgpt-firma-openai-landgericht-muenchen-i-verkuendet-entscheidung-100.html",
     "https://www.faz.net/aktuell/politik/ein-jahr-nach-anschlag-magdeburgs-weihnachtsmarkt-vorerst-gestoppt-accg-110774829.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/putin-empfaengt-witkoff-und-kushner-im-kreml-102.html",
     "https://www.deutschlandfunk.de/paket-rekord-bei-dhl-12-4-millionen-sendungen-an-einem-tag-100.html",
     "https://www.deutschlandfunk.de/steinmeier-erinnert-an-oekonomische-motive-der-ns-verbrechen-102.html",
-    "https://www.spiegel.de/politik/deutschland/deutschland-laesst-192-afghanen-per-charterflug-nach-erfurt-einfliegen-a-44f164d5-21ec-4f6f-bf95-08cedc349dcb#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/deutschland-laesst-192-afghanen-per-charterflug-nach-erfurt-einfliegen-a-44f164d5-21ec-4f6f-bf95-08cedc349dcb#ref=rss",
+    "https://www.deutschlandfunk.de/hegseth-kuendigt-weitere-angriffe-auf-drogenboote-an-100.html",
+    "https://www.deutschlandfunk.de/unions-abweichler-sollen-sich-bei-fraktionsspitze-melden-weiterer-fahrplan-steht-100.html",
+    "https://www.deutschlandfunk.de/kommentar-zu-den-verhandlungen-im-kreml-frieden-sieht-anders-aus-100.html"
   ],
   "content_hashes": [
-    "6163eb48cbe1afe45dff468d7b14caf5",
-    "ba5aad97680baadf65ffbfd3947ed37a",
-    "5927c6304154213cc625517fa8912e2e",
     "6ffc08d1beb57b8e902804d3fc46604d",
     "947111cca2581ec7826e01d522e21bf5",
     "0dd3334d3b83be9e842541b3cc711c4f",
@@ -2001,12 +1998,12 @@
     "1108000d65ec479722420dd2c16aafe1",
     "333c6958788d155d9150f051484782bb",
     "0ed26dfe6bf7e0159b03302d36973e32",
-    "be41c17d337cfd59edd257c1a8886068"
+    "be41c17d337cfd59edd257c1a8886068",
+    "71d9d994c5e4a0c0a22eaa23941faf9b",
+    "c74d7db4abb8f107e38c47c54dc37946",
+    "5099e0948221aa8596d39bc12847c88d"
   ],
   "titles": [
-    "Südamerika - Wadephul dringt auf engere Partnerschaft zwischen Bolivien und EU",
-    "Appell - UNHCR ruft zu Spenden auf - fehlende staatliche Mittel erschweren Winter-Versorgung",
-    "Friedrich Merz wird 70: Nicht mehr so heimelig wie unter Merkel",
     "Wehrdienst-Debatte - Union besteht nicht auf Losverfahren für Rekrutenauswahl",
     "Verwertungsgesellschaft - Gema gegen ChatGPT-Firma OpenAI: Landgericht München I verkündet Entscheidung",
     "Ein Jahr nach dem Anschlag: Magdeburgs Weihnachtsmarkt vorerst gestoppt",
@@ -3003,12 +3000,12 @@
     "Verhandlungen zum Ukraine-Krieg - Putin empfängt Witkoff und Kushner im Kreml",
     "Online-Shopping - Paket-Rekord bei DHL: 12,4 Millionen Sendungen an einem Tag",
     "NS-Zwangsarbeit - Steinmeier erinnert an ökonomische Motive der NS-Verbrechen",
-    "Deutschland lässt 192 Afghanen per Charterflug nach Erfurt einfliegen"
+    "Deutschland lässt 192 Afghanen per Charterflug nach Erfurt einfliegen",
+    "Umstrittener US-Einsatz in der Karibik - Hegseth kündigt weitere Angriffe auf \"Drogenboote\" an",
+    "Konflikt um Rentenpaket - Unions-Abweichler sollen sich bei Fraktionsspitze melden - weiterer Fahrplan steht",
+    "Kommentar - USA und Russland sind nicht auf Frieden aus, sie wollen zerstören"
   ],
   "hashes": [
-    "b88d92ab3fa46264f1499196d0ff73d3",
-    "e565f86a7ee49be1b662ea383dd983b0",
-    "e7e19faaf04bbc0abb52e41be31387db",
     "a96263f8357a2e9d35b280aa7f647f68",
     "7185aad64234d7fcd4342796c8ee2659",
     "f54a0e0733bdf4d9d770ae81cdee1fc6",
@@ -4005,6 +4002,9 @@
     "6b526db37c3300f2f0e9a4c88b63566e",
     "050444efc50fc69f664310deae1307ca",
     "ca0de45f06c561afc1651c351d37c9ee",
-    "786c3aa0d11c98a216b92f3862c80dec"
+    "786c3aa0d11c98a216b92f3862c80dec",
+    "e2473ade8c936ea74859cf2634b14d63",
+    "40ac3c47118ccb8fafe2b5dbbf13f7b6",
+    "d9c6fc4d09f61f1e76bba6e799bb6ebd"
   ]
 }
