@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kaunas-zum-neuen-verteidigungsminister-ernannt-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/endlager-fuer-atommuell-in-finnland-deutschland-kann-sich-ein-beispiel-nehmen-110769962.html",
-    "https://www.deutschlandfunk.de/warken-setzt-zusatzbeitrag-fuer-gesetzlich-versicherte-auf-2-9-prozent-fest-100.html",
     "https://www.deutschlandfunk.de/us-sonderberater-kushner-beraet-naechste-schritte-mit-israels-regierung-100.html",
     "https://www.deutschlandfunk.de/explosion-in-neu-delhi-mindestens-acht-tote-100.html",
     "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-den-magdeburger-weihnachtsmarkt-hat-begonnen-vorerst-keine-genehmigung-fuer--100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/knackpunkt-haltelinie-was-die-junge-gruppe-so-stoert-100.html",
     "https://www.deutschlandfunk.de/unabhaengige-untersuchung-zu-brand-mit-mehr-als-150-toten-angekuendigt-100.html",
     "https://www.deutschlandfunk.de/bundesverkehrsminister-schnieder-erteilt-baufreigabe-fuer-23-strassenprojekte-100.html",
-    "https://www.deutschlandfunk.de/im-januar-erneut-wochenlange-bahn-sperrung-im-ruhrgebiet-100.html"
+    "https://www.deutschlandfunk.de/im-januar-erneut-wochenlange-bahn-sperrung-im-ruhrgebiet-100.html",
+    "https://www.deutschlandfunk.de/drohnenabwehreinheit-der-bundespolizei-nimmt-dienst-auf-100.html",
+    "https://www.deutschlandfunk.de/aktivisten-stellen-walter-luebcke-statue-vor-cdu-zentrale-auf-partei-spricht-von-instrumentalisierun-100.html",
+    "https://www.deutschlandfunk.de/inflation-in-der-eurozone-steigt-unerwartet-auf-2-2-prozent-100.html"
   ],
   "content_hashes": [
-    "e1c7144cfc9c4f0cce14bf37a4f8ab83",
-    "966c13d0ec7402e9d72b603ed4a3b904",
-    "6c2f84064f95e4346693cb76165e2e98",
     "54dfb0bf1bb693efca9027bb1a68d96a",
     "4398cddf5c335f7a0d4d8ec798b7e47d",
     "bde0b083cbe3f5c0d4f12107fc9f2076",
@@ -2001,12 +1998,12 @@
     "c9dfc6d99888467a68d8e48297bad97d",
     "b61f9344a7923d803ef51de95f3c4284",
     "578b37dae6051f671073b4618139f53b",
-    "0ee48a147bb6df45f3c2120a1b420444"
+    "0ee48a147bb6df45f3c2120a1b420444",
+    "475a4f28ed3f6174cecff25835bed4cd",
+    "165a9595b2e30a2f6b4666b37b646f74",
+    "7917e6cd63c21b890f0dd31c52ea39f2"
   ],
   "titles": [
-    "Litauen - Kaunas zum neuen Verteidigungsminister ernannt",
-    "Atommüll: Endlagern wie die Finnen",
-    "Krankenversicherung - Warken setzt Zusatzbeitrag für gesetzlich Versicherte auf 2,9 Prozent fest",
     "Gaza-Friedensplan - US-Sonderberater Kushner berät nächste Schritte mit Israels Regierung",
     "Indien - Explosion in Neu-Delhi - mindestens acht Tote",
     "Landgericht - Prozess um Anschlag auf den Magdeburger Weihnachtsmarkt hat begonnen - Vorerst keine Genehmigung für Weihnachtsmarkt 2025",
@@ -3003,12 +3000,12 @@
     "Rentenstreit in der Koalition - Knackpunkt \"Haltelinie\": Was die Junge Gruppe so stört",
     "Hongkong - Unabhängige Untersuchung zu Brand mit mehr als 150 Toten angekündigt",
     "Infrastruktur - Bundesverkehrsminister Schnieder erteilt Baufreigabe für 23 Straßenprojekte",
-    "Bauarbeiten Kreuz Kaiserberg - Im Januar erneut wochenlange Bahn-Sperrung im Ruhrgebiet"
+    "Bauarbeiten Kreuz Kaiserberg - Im Januar erneut wochenlange Bahn-Sperrung im Ruhrgebiet",
+    "Schutz des Luftverkehrs - Drohnenabwehreinheit der Bundespolizei nimmt Dienst auf",
+    "Zentrum für Politische Schönheit - Aktivisten stellen Walter-Lübcke-Statue vor CDU-Zentrale auf - Partei spricht von \"Instrumentalisierung\" Lübckes",
+    "Statistikamt Eurostat - Inflation in der Eurozone steigt unerwartet auf 2,2 Prozent"
   ],
   "hashes": [
-    "5d9963b052d11287962af3ac2d2874b0",
-    "06c2cadb3d83102aaf8d9f5d4565145a",
-    "adbd6efc5036ac514fbd81c7c8fbceac",
     "6b06199b9d2278db422d152d48723148",
     "5976331e015af0d5dfc9d14c08efd813",
     "c548eeec8d84792b9ccb3439fef7bab6",
@@ -4005,6 +4002,9 @@
     "64b699e0ec78938a7169816cb8030f85",
     "d71ac543b5a754c1d853cb187cf09829",
     "94c7d94c0fafe726822638afe780ad25",
-    "bf22e779d9f8f6ea116e9c3a03025288"
+    "bf22e779d9f8f6ea116e9c3a03025288",
+    "c6f71276111ee22faec891dcd79783d9",
+    "269b2c981944d9534170eab0076498a4",
+    "97d1587736565cfae1e7803dae4018f4"
   ]
 }
