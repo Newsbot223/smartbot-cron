@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-frieden-schaffen-auch-mit-waffen-110769975.html",
-    "https://www.deutschlandfunk.de/kloeckner-weist-vorwuerfe-gegen-merz-wegen-stadtbild-aeusserung-als-boesartig-zurueck-100.html",
     "https://www.faz.net/aktuell/politik/inland/bundestagspraesidentin-kloeckner-ueber-die-stadtbild-debatte-accg-110772195.html",
     "https://www.deutschlandfunk.de/prozess-um-anschlag-auf-den-magdeburger-weihnachtsmarkt-hat-begonnen-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/shein-entgeht-vorerst-sperre-in-frankreich-a-4dc029f1-6b02-4efd-bda9-ffa765cf977d#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-sanktionen-gegen-internationalen-strafgerichtshof-gerichtspraesidentin-akane-pocht-auf-unabhaengi-100.html",
     "https://www.deutschlandfunk.de/rsf-milizen-nehmen-strategisch-wichtigen-ort-im-sudan-ein-100.html",
     "https://www.deutschlandfunk.de/kanada-schliesst-sich-eu-kreditfonds-fuer-ruestungsprojekte-an-100.html",
-    "https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/afd-chrupalla-will-hitler-redner-aus-der-partei-ausschliessen-a-801dca19-d882-412a-a163-ffc4a10ababa#ref=rss",
+    "https://www.deutschlandfunk.de/berliner-gespraech-debatte-um-die-rente-102.html",
+    "https://www.deutschlandfunk.de/ukraine-krieg-aktuelle-entwicklungen-106.html"
   ],
   "content_hashes": [
-    "67e568fc33d4cfe53e5f96aad5867f1f",
-    "cf6e97a4614c545a7870093c1e2157f3",
     "3a3b6587831a70587e577a272bd73981",
     "3b95cce0848e840f32e93c946c76f39d",
     "52c5b3ef6089bce91f2a1750219afbb0",
@@ -2001,11 +1999,11 @@
     "603796f93ae68faf3e9b4aa97b884038",
     "eb8c8062c14b3c56766ddb8be624e88f",
     "62b15b26dc42b72ac03a39e6e946b851",
-    "4b30ba127406c02a268cc48e39ca560c"
+    "4b30ba127406c02a268cc48e39ca560c",
+    "6008e11e36a2aa218dd96763197de6f3",
+    "ad34623afb9ad761be6a15bae58f60ca"
   ],
   "titles": [
-    "Evangelische Kirche: Das letzte Gefecht des Pazifismus?",
-    "Einwanderungs-Gesellschaft - Klöckner weist Vorwürfe gegen Merz wegen Stadtbild-Äußerung als \"bösartig\" zurück",
     "Bundestagspräsidentin: „Demokratie ist Zumutung, Handwerk – und hartes Geschäft“",
     "Landgericht - Prozess um Anschlag auf den Magdeburger Weihnachtsmarkt hat begonnen",
     "Shein entgeht vorerst Sperre in Frankreich",
@@ -3003,11 +3001,11 @@
     "Den Haag - US-Sanktionen gegen Internationalen Strafgerichtshof: Gerichtspräsidentin Akane pocht auf Unabhängigkeit",
     "Babanusa - RSF-Milizen nehmen strategisch wichtigen Ort im Sudan ein",
     "Verteidigungspolitik - Kanada schließt sich EU-Kreditfonds für Rüstungsprojekte an",
-    "AfD: Chrupalla will Hitler-Redner aus der Partei ausschließen"
+    "AfD: Chrupalla will Hitler-Redner aus der Partei ausschließen",
+    "Rentenpaket - Junge Gruppe in der Union stellt sich weiter quer",
+    "Witkoff in Moskau - Geringe Erwartungen vor Ukraine-Gesprächen mit Putin"
   ],
   "hashes": [
-    "9711c7328c417c5415b79a0976852a90",
-    "242303be18f4ca4cb617f568e2087a23",
     "b9534e79cf913723e2ef9ca492c3d48c",
     "6c928683d296d5a869a05a3ea98dd7f8",
     "4ed6f8e1eee80c6e41cc8a3a141558f0",
@@ -4005,6 +4003,8 @@
     "04bf48f1778b668cfb92df646260d677",
     "7b564c6dee42415a67986818f111c946",
     "9d8e576dc0ff28c4102c1f94d9d77572",
-    "1e6c5b3c5984631a77c7f844649ef09b"
+    "1e6c5b3c5984631a77c7f844649ef09b",
+    "a9ccec3b8d45cb5d8f677e3fb76f8de1",
+    "b5f1593fb26eb7c34e5186ed0f4532e3"
   ]
 }
