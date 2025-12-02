@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/senat-beraet-ueber-shutdown-erneut-zahlreiche-flugausfaelle-100.html",
-    "https://www.faz.net/aktuell/politik/inland/prozess-zum-weihnachtsmarkt-anschlag-in-magdeburg-hat-begonnen-110774282.html",
     "https://www.deutschlandfunk.de/vorerst-keine-genehmigung-fuer-weihnachtsmarkt-2025-prozess-um-anschlag-begonnen-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-verschaerft-laut-rheinischer-post-gesetzentwurf-gegen-schwarzarbeit-auch-lieferdiens-100.html",
     "https://www.deutschlandfunk.de/entscheidung-ueber-eu-richtlinie-fuer-angemessene-mindestloehne-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/unabhaengige-untersuchung-zu-brandkatatstrophe-angekuendigt-behoerden-gehen-gegen-kritiker-vor-100.html",
     "https://www.deutschlandfunk.de/buendnis-innenminister-sollen-private-silvesterboellerei-verbieten-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-rentenpaket-union-laesst-per-handzeichen-probeabstimmen-faz-110093143.html",
-    "https://www.faz.net/aktuell/politik/inland/buendnis-aus-mehr-als-55-organisationen-fordert-boellerverbot-accg-200317808.html"
+    "https://www.faz.net/aktuell/politik/inland/buendnis-aus-mehr-als-55-organisationen-fordert-boellerverbot-accg-200317808.html",
+    "https://www.deutschlandfunk.de/rund-190-weitere-afghanen-in-deutschland-angekommen-100.html",
+    "https://www.spiegel.de/auto/baustellen-auf-zahleichen-strassen-wo-in-deutschland-bald-die-bagger-anrollen-a-39ec5e05-a64e-49e4-934d-e5658991a8a0#ref=rss"
   ],
   "content_hashes": [
-    "742d8251e7574d8937d4acdd31bbea47",
-    "6a18f046baab3972f5660f59cd4244e4",
     "e3a3c27ad9162529c03337bcf90d4cd3",
     "1886402d0dbf96981abb97aea3f2bd52",
     "a7e4b9f7160ca863f23d5350c43a7de8",
@@ -2001,11 +1999,11 @@
     "e2ae9886fe6327c58091f27e33f75f78",
     "9e53749d86171aa4af7398e7fb69fb6f",
     "aa334788c1d5f6b99ac11bd82118a250",
-    "a662601346aae214106ce8783b267e1b"
+    "a662601346aae214106ce8783b267e1b",
+    "3aedbd3ffa2455174efb82115c7df812",
+    "760141211b616b418b252a849505a68f"
   ],
   "titles": [
-    "USA - Senat berät über Shutdown - Erneut zahlreiche Flugausfälle",
-    "Weihnachtsmarkt-Anschlag: Wirre Einlassungen, keine Reue",
     "Magdeburg - Vorerst keine Genehmigung für Weihnachtsmarkt 2025 - Prozess um Anschlag begonnen",
     "Medienbericht - Bundesregierung verschärft laut \"Rheinischer Post\" Gesetzentwurf gegen Schwarzarbeit - auch Lieferdienste für Essen im Visier",
     "Europäischer Gerichtshof - Entscheidung über EU-Richtlinie für angemessene Mindestlöhne",
@@ -3003,11 +3001,11 @@
     "Hongkong - Unabhängige Untersuchung zu Brandkatatstrophe angekündigt - Behörden gehen gegen Kritiker vor",
     "Appell von Organisationen - Bündnis: Innenminister sollen private Silvesterböllerei verbieten",
     "Liveblog Bundespolitik: Rentenkonflikt: Union lässt per Handzeichen probeabstimmen",
-    "Vor Innenministerkonferenz: Bündnis aus mehr als 55 Organisationen fordert Böllerverbot"
+    "Vor Innenministerkonferenz: Bündnis aus mehr als 55 Organisationen fordert Böllerverbot",
+    "Aufnahmeprogramm - Rund 190 weitere Afghanen in Deutschland angekommen",
+    "Baustellen auf zahleichen Straßen: Wo in Deutschland bald die Bagger anrollen"
   ],
   "hashes": [
-    "dd48e427928e93a0468c7ab7edb4eb31",
-    "67c8d153237cbceccbd1a12069a7b3ff",
     "d0af6d9475460460b42cbeba98464a3c",
     "850659ca7980fd3bd7719bdcd2ee2062",
     "69f4cf043828796d87fac296527c7128",
@@ -4005,6 +4003,8 @@
     "ef9c45d149c42bc1f338d5ab43643078",
     "3b6be780d207b89ebe1c4c11d7dad5aa",
     "7394f8dcc71596fb0edab75611e77e2f",
-    "1bab5ce2c67a52d5e70c204ab1946382"
+    "1bab5ce2c67a52d5e70c204ab1946382",
+    "5f115c566beffb46faa3353d3193d376",
+    "a22b1829ac3eb1aa8fab49f61f87c8e7"
   ]
 }
