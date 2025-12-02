@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afghanisches-konsulat-in-bonn-oeffnet-wieder-als-taliban-vertretung-100.html",
-    "https://www.deutschlandfunk.de/trump-begnadigt-giuliani-und-76-weitere-beschuldigte-100.html",
     "https://www.deutschlandfunk.de/wagenknecht-gibt-bsw-vorsitz-an-de-masi-ab-102.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-wagenknecht-gibt-parteivorsitz-des-bsw-ab-faz-110093143.html",
     "https://www.deutschlandfunk.de/wagenknecht-zieht-sich-vom-vorsitz-zurueck-debatte-um-den-kuenftigen-namen-der-partei-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss",
     "https://www.deutschlandfunk.de/moskau-erklaert-pokrowsk-fuer-erobert-ukraine-dementiert-100.html",
     "https://www.deutschlandfunk.de/friedensprozess-koennte-schmerzhafte-zugestaendnisse-der-ukraine-erfordern-102.html",
-    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-haftung-bei-e-scooter-unfaellen-verschaerfen-100.html"
+    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-haftung-bei-e-scooter-unfaellen-verschaerfen-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsstandort-deutschland-im-freien-fall-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/tv-rtl-will-rund-600-jobs-in-deutschland-streichen-a-8935cf6d-562f-4685-bd5f-8cbe03c2d4e5#ref=rss"
   ],
   "content_hashes": [
-    "7125117817c6595e71597b7a86c1c78e",
-    "f9cfa2bb71033380e85713c1a080de10",
     "76a972dd6dea8b09175f4221640d3cfb",
     "c42e726e875818a24edc9aff91a0d4fa",
     "937fc2bb2ce454bf4034afc2b83e532d",
@@ -2001,11 +1999,11 @@
     "5ed1cf317f009c916361170fe79d714c",
     "05a6c691bd03a06ddece6b029a40c4a2",
     "ca0eb336f8377f809ba16ec7d40c3ecf",
-    "cf1a6074549ae729ff53f5783280d40f"
+    "cf1a6074549ae729ff53f5783280d40f",
+    "93ed199832695c7720a7ab506b84e1d2",
+    "34a4b4c5758d545e9197ec42abadc497"
   ],
   "titles": [
-    "Diplomatie - Afghanisches Konsulat in Bonn öffnet wieder - als Taliban-Vertretung",
-    "Versuchte Manipulation der Wahl 2020 - Trump begnadigt Giuliani und 76 weitere Beschuldigte",
     "Parteien - Wagenknecht gibt BSW-Vorsitz an de Masi ab",
     "Liveblog Bundespolitik: Sahra Wagenknecht gibt Parteivorsitz des BSW ab",
     "BSW - Wagenknecht zieht sich vom Vorsitz zurück - Debatte um den künftigen Namen der Partei",
@@ -3003,11 +3001,11 @@
     "Verfassungsschützer sieht keine Mäßigung der AfD-Jugend",
     "Ukraine-Krieg - Moskau erklärt Pokrowsk für erobert - Ukraine dementiert",
     "Wadephul - Friedensprozess könnte \"schmerzhafte Zugeständnisse\" der Ukraine erfordern",
-    "Schadenersatz - Bundesjustizministerin Hubig will Haftung bei E-Scooter-Unfällen verschärfen"
+    "Schadenersatz - Bundesjustizministerin Hubig will Haftung bei E-Scooter-Unfällen verschärfen",
+    "Bundesverband der Deutschen Industrie - Wirtschaftsstandort Deutschland \"im freien Fall\"",
+    "TV: RTL streicht rund 600 Stellen in Deutschland"
   ],
   "hashes": [
-    "f213c116ef9f7900d81363b99bbbf815",
-    "9117b344711a84484aa89f2aa48e7341",
     "5ffee111bbb8ff146b23529ec09d2d8e",
     "59512ce03092100512b281151cab1d63",
     "7dac5efb2ec38e248844ecfb05a493c7",
@@ -4005,6 +4003,8 @@
     "b6b95a43642bd2b3923a415b8ed79ac5",
     "e26c6426938ff7f21210473eafc9c0b1",
     "4c31fa6412aaf9ccdfffc3fd8686883d",
-    "b63b1222482d81ab0a58e9d8f22a7da4"
+    "b63b1222482d81ab0a58e9d8f22a7da4",
+    "a5763d45791305e174d2a9b601115948",
+    "e340252e1c7b59d6119896bb20258584"
   ]
 }
