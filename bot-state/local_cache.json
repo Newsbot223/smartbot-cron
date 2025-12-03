@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-politiker-tritt-debatte-um-abschaffung-von-minijobs-los-lob-vom-verdi-chef-100.html",
-    "https://www.deutschlandfunk.de/google-investiert-5-5-milliarden-euro-in-deutschland-102.html",
-    "https://www.deutschlandfunk.de/boykottaufruf-ueberschattet-parlamentswahl-100.html",
-    "https://www.deutschlandfunk.de/g7-aussenminister-treffen-sich-zu-beratungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/magdeburger-weihnachtsmarkt-ein-jahr-nach-dem-anschlag-droht-das-aus-accg-110774829.html",
     "https://www.deutschlandfunk.de/deutschland-kann-sich-voraussichtlich-gegen-zusaetzliche-fluechtlings-aufnahmeforderungen-wehren-100.html",
     "https://www.faz.net/aktuell/politik/inland/anne-spiegel-feiert-politisches-comeback-trotz-protesten-110776311.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/israel-will-grenzuebergang-rafah-oeffnen-100.html",
     "https://www.deutschlandfunk.de/airbus-kappt-erneut-auslieferungsziel-fuer-flugzeuge-102.html",
     "https://www.deutschlandfunk.de/us-regierung-setzen-einwanderungsantraege-aus-19-laendern-aus-102.html",
-    "https://www.deutschlandfunk.de/missbrauch-an-deutschen-schulen-oftmals-vertuscht-100.html"
+    "https://www.deutschlandfunk.de/missbrauch-an-deutschen-schulen-oftmals-vertuscht-100.html",
+    "https://www.deutschlandfunk.de/ex-eu-aussenbeauftragte-mogherini-wegen-betrugs-und-korruption-angeklagt-100.html",
+    "https://www.deutschlandfunk.de/warzenbeisser-wird-insekt-des-jahres-100.html",
+    "https://www.spiegel.de/panorama/justiz/bundesanwaltschaft-klagt-mutmasslichen-messerangreifer-von-bielefeld-an-a-86c11272-8fb8-49d1-8895-4385e293df81#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/asylwende-vollbracht-herausforderungen-bleiben-110795923.html"
   ],
   "content_hashes": [
-    "ff72a2f5ebfafb80ad85cd4b47093fcc",
-    "ec7602206076c61789e113246e7b6d8c",
-    "db3b7b856939ccf63e598efd682bff92",
-    "ca80cd6cfae46fa5b2fefbef79d83979",
     "63027e6d8466dcb55f0652879bd8eb4f",
     "a70dea316bc006d8a4dda93c049cb17b",
     "4d76aa64a58a2d8537e27fad7063aacf",
@@ -2001,13 +1997,13 @@
     "073e452c7cb7f29b3423374dd23e6508",
     "95b70d934f73c8c9ad26f43085bcdee0",
     "95cdde54040d1fe9fd08285dab74a5a3",
-    "b670c1bf53dfe4f04915a1e2a1cf4831"
+    "b670c1bf53dfe4f04915a1e2a1cf4831",
+    "728bf274fd866fbbd44286f1ce89d0be",
+    "70891cf196721c4df26b41043a00ccbb",
+    "b85e2bd6d274b6154aa92f7a824c207d",
+    "10b7b5a2b61f6b52512c6a9bd4e9ce82"
   ],
   "titles": [
-    "Geringfügige Beschäftigung - CDU-Politiker tritt Debatte um Abschaffung von Minijobs los - Lob vom Verdi-Chef",
-    "Wirtschaft - Google investiert 5,5 Milliarden Euro in Deutschland",
-    "Irak - Boykottaufruf überschattet Parlamentswahl",
-    "Kanada - G7-Außenminister treffen sich zu Beratungen",
     "Magdeburg: Nun steht der nächste Weihnachtsmarkt auf der Kippe",
     "EU-Migrationsanalyse - Deutschland kann sich voraussichtlich gegen zusätzliche Flüchtlings-Aufnahmeforderungen wehren",
     "In Hannover: Anne Spiegel feiert politisches Comeback",
@@ -3003,13 +2999,13 @@
     "Gazastreifen - Israel will Grenzübergang Rafah öffnen",
     "Probleme mit Rumpfteilen - Airbus kappt erneut Auslieferungsziel für Flugzeuge",
     "Nach Angriff auf Nationalgardisten - US-Regierung setzen Einwanderungsanträge aus 19 Ländern aus",
-    "Studie - Missbrauch an deutschen Schulen oftmals vertuscht"
+    "Studie - Missbrauch an deutschen Schulen oftmals vertuscht",
+    "Verdacht geheimer Absprachen - Ex-EU-Außenbeauftragte Mogherini wegen Betrugs und Korruption angeklagt",
+    "Bedrohte Heuschrecke - \"Warzenbeißer\" wird Insekt des Jahres 2026",
+    "Bundesanwaltschaft klagt mutmaßlichen Messerangreifer von Bielefeld an",
+    "Migrationspolitik: Die Bindung an das Land stärken"
   ],
   "hashes": [
-    "2c3b10286196f544f5a70c5547c14f05",
-    "9c73bc1e2d697f5106532cba38020b3b",
-    "e3590acc8468d85532bf46c9452e24c0",
-    "2bd7f3ef5c58f1424237b3ddd103d776",
     "cca82b2cbe5a54e0c6d822bb787c0179",
     "59ecf0cbfc4d0d0b549e2ab95627c5ce",
     "46b9ef28616b10d78b43fa895766a48f",
@@ -4005,6 +4001,10 @@
     "897c2cba290c9207fe50bb309c5e652e",
     "47ae92e549609590c676006bdf3c6579",
     "0b03870ff7d408cd1c6059edcc60e423",
-    "d60d0cb199689dff4c8fb432b9dc4020"
+    "d60d0cb199689dff4c8fb432b9dc4020",
+    "78f2474136714d4010bb560c455081d6",
+    "c98a849d6218c21ef5fd9f19fb938778",
+    "68a930ff27475a1ef603aefd0029f6aa",
+    "23007bc585fb002c844a807bdc56838b"
   ]
 }
