@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mann-in-dortmund-festgenommen-der-zu-anschlaegen-auf-politiker-aufgerufen-haben-soll-100.html",
-    "https://www.deutschlandfunk.de/streit-um-liedtexte-gema-siegt-vor-gericht-gegen-openai-102.html",
-    "https://www.deutschlandfunk.de/vorsitzender-der-cdu-arbeitnehmergruppe-nacke-fuer-abschaffung-der-minijobs-102.html",
     "https://www.deutschlandfunk.de/keine-genehmigung-fuer-weihnachtsmarkt-wegen-sicherheitsbedenken-oberbuergermeisterin-wendet-sich-an-100.html",
     "https://www.deutschlandfunk.de/zehntausende-menschen-bei-begraebnis-von-verschlepptem-soldaten-hadar-goldin-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-durch-autobombe-in-islamabad-durchsuchungen-nach-explosion-mit-etlichen-toten-in--102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutscher-mittelstand-schickt-brandbrief-an-arbeitsministerin-bas-100.html",
     "https://www.deutschlandfunk.de/neues-flugabwehrsystem-arrow-geht-in-betrieb-100.html",
     "https://www.deutschlandfunk.de/steinmeier-fliegt-zu-staatsbesuch-nach-london-100.html",
-    "https://www.deutschlandfunk.de/buergergeld-war-2022-hoch-genug-106.html"
+    "https://www.deutschlandfunk.de/buergergeld-war-2022-hoch-genug-106.html",
+    "https://www.deutschlandfunk.de/eu-plant-komplettverzicht-auf-gas-aus-russland-102.html",
+    "https://www.deutschlandfunk.de/krankenkassen-fordern-50-milliarden-euro-sparpaket-102.html",
+    "https://www.deutschlandfunk.de/airbus-muss-628-maschinen-des-typs-a320-ueberpruefen-102.html"
   ],
   "content_hashes": [
-    "0e20771b2e6c17e850730f48a1436d0c",
-    "328f83337ddade6055612a4de81f26cb",
-    "f167a281ea4e3ce7fc9353396d55ec67",
     "0d6735a9a7ee4a1a97d0a8bf274cd0c3",
     "2d08ef25b6d1470ac9a2e47243235ef7",
     "f5d440ce5aa7f158ba3119b5fc74619f",
@@ -2001,12 +1998,12 @@
     "f6c11c684f182334d1173f44fdbab272",
     "7a22c561529735a51aaf295cda458122",
     "4fabfe923cdcad426ecb920e2d8c39a8",
-    "8f63ae777067a6cc7ed353ff370a0b21"
+    "8f63ae777067a6cc7ed353ff370a0b21",
+    "279484d685c5ff04557d075e8f4cb31a",
+    "a355c4d1f70108fb26c6a31d6338b98d",
+    "43108c2150b2152d1e03c6449c5ed425"
   ],
   "titles": [
-    "Bundesanwaltschaft - Mann in Dortmund festgenommen, der zu Anschlägen auf Politiker aufgerufen haben soll",
-    "ChatGPT-Betreiber - Streit um Liedtexte: Gema siegt vor Gericht gegen OpenAI",
-    "Geringfügige Beschäftigung - Vorsitzender der CDU-Arbeitnehmergruppe, Nacke, für Abschaffung der Minijobs",
     "Magdeburg - Keine Genehmigung für Weihnachtsmarkt wegen Sicherheitsbedenken - Oberbürgermeisterin wendet sich an Regierungschef Haseloff",
     "Israel - Zehntausende Menschen bei Begräbnis von verschlepptem Soldaten Hadar Goldin",
     "Pakistan und Indien - Tote und Verletzte durch Autobombe in Islamabad - Durchsuchungen nach Explosion mit etlichen Toten in Neu Delhi",
@@ -3003,12 +3000,12 @@
     "Nach Juso-Auftritt - Deutscher Mittelstand schickt Brandbrief an Arbeitsministerin Bas",
     "Verteidigung - Neues Flugabwehrsystem Arrow geht in Betrieb",
     "Großbritannien - Steinmeier fliegt zu Staatsbesuch nach London",
-    "Bundessozialgericht - Bürgergeld war 2022 hoch genug"
+    "Bundessozialgericht - Bürgergeld war 2022 hoch genug",
+    "Ukraine-Krieg - EU plant Komplettverzicht auf Gas aus Russland",
+    "Anstieg der Beiträge - Krankenkassen fordern 50-Milliarden-Euro Sparpaket",
+    "\"Qualitätsproblem\" - Airbus muss 628 Maschinen des Typs A320 überprüfen"
   ],
   "hashes": [
-    "ab37b038e7ece796434582bf4bbeb85a",
-    "bef6b62fda6df5c267d044c11b811696",
-    "1cdef5cff373ee2124c56410ad5dda0f",
     "c79f9202f23893aa03095d70508131f7",
     "342041b1f7cdee75df16888c2e45d1a7",
     "d91f8c65a659c3dd4ee6b5fef4d118ec",
@@ -4005,6 +4002,9 @@
     "390e5f8e9941c299b489e6ee30fbb62c",
     "25972f5ddfa185d85d5c2f911ffc0dbb",
     "2a10ab7676abbbc21330298f8ef23fd0",
-    "0711aecb68b6336034beac51a3a20107"
+    "0711aecb68b6336034beac51a3a20107",
+    "27b147bcab7869177fbfdd5b0cfc0685",
+    "12577ba93c57e29f366201d34ed52958",
+    "518970c951bd4da5bc15ae5a56ad6ef4"
   ]
 }
