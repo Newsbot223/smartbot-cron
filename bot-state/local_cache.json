@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gema-siegt-vor-gericht-gegen-openai-im-streit-um-nutzung-der-liedtexte-von-herbert-groenemeyer-reinh-100.html",
-    "https://www.deutschlandfunk.de/ex-fdp-chef-lindner-wechselt-in-die-autobranche-100.html",
     "https://www.deutschlandfunk.de/mutmasslicher-rechtsextremist-wegen-aufrufen-zu-politiker-morden-und-zu-spenden-fuer-kopfgelder-in-u-100.html",
     "https://www.deutschlandfunk.de/100-000-bei-rechter-kundgebung-in-warschau-mit-dabei-polens-neuer-praesident-nawrocki-100.html",
     "https://www.deutschlandfunk.de/dingolfings-buergermeister-legt-mit-verweis-auf-anfeindungen-und-bedrohungen-sein-amt-nieder-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/von-der-leyen-verteidigt-kommissionsvorschlag-100.html",
     "https://www.deutschlandfunk.de/nsu-terroristin-zschaepe-zeigt-erstmals-zeichen-von-reue-ich-schaeme-mich-100.html",
     "https://www.spiegel.de/kultur/spotify-wrapped-in-deutschland-haben-taylor-swift-zartmann-und-gemischtes-hack-die-nase-vorn-a-30fdbc5e-d171-4e8f-9082-8d637bbbbe11#ref=rss",
-    "https://www.faz.net/aktuell/politik/neue-heimat-110796247.html"
+    "https://www.faz.net/aktuell/politik/neue-heimat-110796247.html",
+    "https://www.deutschlandfunk.de/eu-kommission-will-vorrat-an-lithium-und-seltenen-erden-fuer-die-industrie-anlegen-100.html",
+    "https://www.spiegel.de/ausland/ukraine-krieg-eu-legt-plan-zur-nutzung-russischer-vermoegen-vor-a-4d081757-7b7d-42e3-8210-bde881a2c63c#ref=rss"
   ],
   "content_hashes": [
-    "28a4c02ca018f8372d20fb1739c60157",
-    "125c8e15527fbb9e7ad3880a48005a1c",
     "b631f470d89aa4eed30619c8042282c9",
     "a2247f37652d6aba3d42e759a90ee629",
     "0d9862971355f751303a3e014dde4b6a",
@@ -2001,11 +1999,11 @@
     "6b1de6eeb29a672f26d444094a6a0721",
     "124f8e863188ef8a3af06658c9a744f8",
     "5489c24ec7be094e8934bf239df072cf",
-    "20a944196604562025db59c638773a82"
+    "20a944196604562025db59c638773a82",
+    "d2f2f739dbd745e9bb80af3b5ca18dbc",
+    "44dce4c9ca7ba326848cc2a1399e235d"
   ],
   "titles": [
-    "ChatGPT - Gema siegt vor Gericht gegen OpenAI im Streit um Nutzung der Liedtexte von Herbert Grönemeyer, Reinhard Mey, Helene Fischer und Co",
-    "Wirtschaft - Ex-FDP-Chef Lindner wechselt in die Autobranche",
     "Darknet - Mutmaßlicher Rechtsextremist wegen Aufrufen zu Politiker-Morden und zu Spenden für Kopfgelder in U-Haft",
     "Unabhängigkeitsmarsch - 100.000 bei rechter Kundgebung in Warschau - mit dabei Polens neuer Präsident Nawrocki",
     "Bayern - Dingolfings Bürgermeister legt mit Verweis auf Anfeindungen und Bedrohungen sein Amt nieder",
@@ -3003,11 +3001,11 @@
     "Reparationsdarlehen für Kiew - Von der Leyen verteidigt Kommissionsvorschlag",
     "Dresden - NSU-Terroristin Zschäpe zeigt erstmals Zeichen von Reue: \"Ich schäme mich\"",
     "»Spotify Wrapped«: In Deutschland haben Taylor Swift, Zartmann und »Gemischtes Hack« die Nase vorn",
-    "AfD und SPD: Neue Heimat"
+    "AfD und SPD: Neue Heimat",
+    "Brüssel - EU-Kommission will Vorrat an Lithium und Seltenen Erden für die Industrie anlegen",
+    "Ukraine-Krieg: EU legt Plan zur Nutzung russischer Vermögen vor"
   ],
   "hashes": [
-    "1e500bac609b541880899bbac34edc27",
-    "e8f3f0c9d0ad197352903e0022ac77f6",
     "b65433e8383a39b0451a8fb54f2bca73",
     "1e6fc72b2f77839377c6001c4e0ca618",
     "c493552eede8f7a0bc39ae3db7a21538",
@@ -4005,6 +4003,8 @@
     "959f45bc79a49bbe0698b999107cc712",
     "e1550a552023d31e4ede2aafdfb23ad0",
     "398225c439fb8a74bf64f4257fd0c375",
-    "e4e6060a5b0a3b210cd36a8e802f8944"
+    "e4e6060a5b0a3b210cd36a8e802f8944",
+    "e6e56d4132a62967f3cdba6939daca84",
+    "e341bac23d8b5a1b520fba8c5d061ab7"
   ]
 }
