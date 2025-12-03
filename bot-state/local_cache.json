@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-parlament-beraet-ueber-verteilung-von-asylsuchenden-100.html",
-    "https://www.deutschlandfunk.de/ryanair-verlangt-digitale-bordkarten-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-pistorius-kuendigt-rasche-einigung-ueber-den-wehrdienst-an-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-korruptionsskandal-bei-energoatom-110775828.html",
     "https://www.deutschlandfunk.de/arbeitgeberverband-haelt-abschaffung-von-minijobs-fuer-nicht-zielfuehrend-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/hanns-joachim-friedrichs-preis-die-angriffe-auf-sophie-von-der-tann-sind-wutschaeumend-aber-substanzlos-a-618a0bd3-2ff5-40c8-b601-e940fa082bf9#ref=rss",
     "https://www.deutschlandfunk.de/nato-laender-kaufen-weitere-us-waffen-fuer-ukraine-100.html",
     "https://www.deutschlandfunk.de/fruehere-eu-aussenbeauftragte-mogherini-weist-vorwuerfe-zurueck-100.html",
-    "https://www.deutschlandfunk.de/hamas-uebergibt-erneut-leiche-an-rotes-kreuz-100.html"
+    "https://www.deutschlandfunk.de/hamas-uebergibt-erneut-leiche-an-rotes-kreuz-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-betont-freundschaft-zwischen-deutschland-und-grossbritannien-104.html",
+    "https://www.deutschlandfunk.de/wirtschaftsministerium-foerdert-offenbar-firma-an-der-ressortchefin-reiches-lebensgefaehrte-guttenbe-100.html"
   ],
   "content_hashes": [
-    "f20955ffe77d7670377ea0b5cbd6d5f2",
-    "e1b0fe35c0cdfb61936bbf9891b06ab1",
     "3426e367411998c2fb9c99ac8ce1e4eb",
     "998e83de9df5538c4cc584a56b295a02",
     "8f6fde71724f4f467eb2f1fe39edb4e9",
@@ -2001,11 +1999,11 @@
     "734386e59af442ec2ce58d523701568d",
     "9e205a3d59e5a81dd5cf98be38630ce0",
     "68a7c76469ea54fe00c21fea714bbd3b",
-    "9546578f7ce64542ebebce40e53b60c2"
+    "9546578f7ce64542ebebce40e53b60c2",
+    "c896c73e23062a0d1fbc88e1178835d4",
+    "e97fc9cf47ce055043e40baeb3270f03"
   ],
   "titles": [
-    "Migration - EU-Parlament berät über Verteilung von Asylsuchenden",
-    "Flugverkehr - Ryanair verlangt digitale Bordkarten",
     "Liveblog Bundespolitik: Pistorius kündigt rasche Einigung über den Wehrdienst an",
     "Korruption in der Ukraine: Was der Skandal in der Energiebranche zeigt",
     "Arbeitsmarkt - Arbeitgeberverband hält Abschaffung von Minijobs für nicht zielführend",
@@ -3003,11 +3001,11 @@
     "Hanns-Joachim-Friedrichs-Preis: Die Angriffe auf Sophie von der Tann sind wutschäumend, aber substanzlos",
     "Russischer Angriffskrieg - NATO-Länder kaufen weitere US-Waffen für Ukraine",
     "Nach Korruptionsvorwürfen - Frühere EU-Außenbeauftragte Mogherini weist Vorwürfe zurück",
-    "Nahost - Hamas übergibt erneut Leiche an Rotes Kreuz"
+    "Nahost - Hamas übergibt erneut Leiche an Rotes Kreuz",
+    "Staatsbesuch - Bundespräsident Steinmeier betont Freundschaft zwischen Deutschland und Großbritannien",
+    "\"Spiegel\"-Bericht - Wirtschaftsministerium fördert offenbar Firma, an der Ressortchefin Reiches Lebensgefährte Guttenberg beteiligt ist"
   ],
   "hashes": [
-    "eae32f057c3a0f0019837d5b387b4ec9",
-    "dacb98a0e0cd7b5f258eae0850724240",
     "7e7fba6d26269c0d4739005cac3181ea",
     "327c2d2d273c986210773f36c1e48970",
     "3d72ebd372684dc2d5941abfc9d9053d",
@@ -4005,6 +4003,8 @@
     "8b2501e0bf804784a29b92e928015bee",
     "7477d93474aebcaded759d25dec46e56",
     "67a0d98082f2b1bbc726395f0a5b1a4f",
-    "f802d774a465a0756f7da7eec87b944e"
+    "f802d774a465a0756f7da7eec87b944e",
+    "f33c81af7a8d5011825fd219c7f021f5",
+    "7610deedf03677c4d535a20b7178e92f"
   ]
 }
