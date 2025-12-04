@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/die-bundeswehr-ist-nach-70-jahren-klein-und-schwach-110775771.html",
-    "https://www.deutschlandfunk.de/palaestinenser-klagen-gegen-deutsche-waffenlieferungen-an-israel-102.html",
-    "https://www.spiegel.de/wirtschaft/service/streit-ueber-veggie-wurst-klare-mehrheit-lehnt-namensverbot-ab-a-e45724a9-0c16-4fe0-8d71-f2fa2709ac17#ref=rss",
     "https://www.deutschlandfunk.de/angeklagter-gesteht-anschlag-auf-weihnachtsmarkt-100.html",
     "https://www.deutschlandfunk.de/steuergerechtigkeit-muessen-reiche-staerker-besteuert-werden-102.html",
     "https://www.faz.net/aktuell/politik/inland/bsw-koalitionskrise-brandenburg-neuwahlen-waeren-woidkes-schlechteste-option-110776800.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/wer-ist-fuer-die-probleme-bei-stuttgart-21-verantwortlich-110796397.html",
     "https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job-a-04f5c207-0ccf-417e-9d13-d85a36f0133f#ref=rss",
     "https://www.aljazeera.com/video/counting-the-cost/2025/12/4/can-africa-choose-economic-partners-on-its-own-terms?traffic_source=rss",
-    "https://www.deutschlandfunk.de/deutschland-stellt-ukraine-weitere-100-millionen-euro-fuer-energieinfrastruktur-zur-verfuegung-102.html"
+    "https://www.deutschlandfunk.de/deutschland-stellt-ukraine-weitere-100-millionen-euro-fuer-energieinfrastruktur-zur-verfuegung-102.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-fordert-ard-zum-esc-boykott-bei-ausschluss-israels-auf-102.html",
+    "https://www.deutschlandfunk.de/osze-jahrestreffen-ohne-rubio-und-lawrow-106.html",
+    "https://www.spiegel.de/wirtschaft/arztpraxen-setzen-immer-staerker-auf-privatabrechnung-a-2f661155-def0-4e4b-8fc1-fa3fbdb2d690#ref=rss"
   ],
   "content_hashes": [
-    "731d760bc9741921a6fc8686dd1b706e",
-    "fa6605c6c14d16864ac80d87bdb49e50",
-    "dc9ae7d21d2675071153e4e0dccc00da",
     "51653dfbd7f2cabdedd1b70019f1b957",
     "6ea8153a2797393e9a003f3dbd14d3f8",
     "b3aafb41f4fe99731b071287ce4cded6",
@@ -2001,12 +1998,12 @@
     "cf1bb63888144f1a2603988ebceb5fd4",
     "24f20f71130c2a4eb7aef000c1905861",
     "35f93cc0451fd375cb7dc1254d36fe1b",
-    "642ccb4485bbda4a60c853dea9bf4588"
+    "642ccb4485bbda4a60c853dea9bf4588",
+    "5736cb4ffe78277ab4a0b9c722ed7608",
+    "9928c30302c953096a6fa534a20c651b",
+    "85656b4b6b5defef9901ff83ffe92c91"
   ],
   "titles": [
-    "Nach 70 Jahren: Unsere kleine, schwache Bundeswehr",
-    "Verwaltungsgericht Berlin - Palästinenser klagen gegen deutsche Waffenlieferungen an Israel",
-    "Streit über »Veggie-Wurst« – klare Mehrheit lehnt Namensverbot ab",
     "Magdeburg - Angeklagter gesteht Anschlag auf Weihnachtsmarkt",
     "Steuergerechtigkeit - Müssen Reiche stärker besteuert werden?",
     "Koalitionskrise in Brandenburg: BSW-Chaos in Potsdam",
@@ -3003,12 +3000,12 @@
     "Weitere Verzögerung: Niemand will Schuld haben am Stuttgart-21-Desaster",
     "Bürgergeld: Jeder zweite Bezieher sucht laut Befragung keinen Job",
     "Can Africa choose economic partners on its own terms?",
-    "Bundeswirtschaftsministerium - Deutschland stellt Ukraine weitere 100 Millionen Euro für Energieinfrastruktur zur Verfügung"
+    "Bundeswirtschaftsministerium - Deutschland stellt Ukraine weitere 100 Millionen Euro für Energieinfrastruktur zur Verfügung",
+    "Öffentlich-Rechtlicher Rundfunk - Kulturstaatsminister Weimer fordert ARD zum ESC-Boykott bei Ausschluss Israels auf",
+    "Wien - OSZE-Jahrestreffen ohne Rubio und Lawrow",
+    "Arztpraxen setzen immer stärker auf Privatabrechnung"
   ],
   "hashes": [
-    "1984298153fafd87ac79caaf9ac6e5d4",
-    "f8030002246c14195dd96c4c52e7d1bf",
-    "e40d7c5086f9454bb281e86588fb6f1a",
     "9a59149240267320c465a3d05a0f028d",
     "3383ea7d3890ba2986c43be93951bcd9",
     "1e56366a88f7a629da033fd923883d92",
@@ -4005,6 +4002,9 @@
     "683a87f2526ea462b5611b226f7d9bfa",
     "481c0ae26c273f9093c3edbf9d89f813",
     "a8cbdd3277bfe85e2d8dc2694d4cb5aa",
-    "dedd625052fca13843d1e9edee9e8156"
+    "dedd625052fca13843d1e9edee9e8156",
+    "26eb6a41244dd21cb06b18abf7e44983",
+    "b23fd3a97dcc4a7b33c5d7d99a6c7750",
+    "4e231ee4e7c1b27ade89275930954c5c"
   ]
 }
