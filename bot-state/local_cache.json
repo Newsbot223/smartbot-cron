@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/koelner-hauptbahnhof-droht-in-absehbarer-zeit-zweite-sperrung-104.html",
-    "https://www.deutschlandfunk.de/weinproduktion-erholt-sich-leicht-102.html",
     "https://www.deutschlandfunk.de/landesministerium-170-000-tiere-wegen-vogelgrippe-getoetet-100.html",
     "https://www.faz.net/aktuell/politik/inland/zettel-mit-hausverbot-fuer-juden-anklage-wegen-volksverhetzung-accg-110776852.html",
     "https://www.spiegel.de/politik/deutschland/deutschland-rueckgang-der-asylsuchende-entlastet-kommunen-a-b0c30c9a-eded-4aec-9b71-67a810a80b83#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/geheimdokumente-koennten-bei-strafverfolgung-gegen-syriens-assad-regime-helfen-100.html",
     "https://www.deutschlandfunk.de/wuest-cdu-erwartet-eigene-mehrheit-der-koalition-102.html",
     "https://www.deutschlandfunk.de/osze-jahrestreffen-heute-ohne-rubio-und-lawrow-100.html",
-    "https://www.deutschlandfunk.de/berichte-ueber-weiteres-treffen-zwischen-unterhaendlern-witkoff-und-umerow-100.html"
+    "https://www.deutschlandfunk.de/berichte-ueber-weiteres-treffen-zwischen-unterhaendlern-witkoff-und-umerow-100.html",
+    "https://www.deutschlandfunk.de/bankett-mit-koenig-charles-steinmeier-betont-freundschaft-zwischen-deutschland-und-grossbritannien-100.html",
+    "https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss"
   ],
   "content_hashes": [
-    "30c69b6edfd82e8a13cc3c600a09e0a3",
-    "259e428c808e205f16678676fd4001dd",
     "0abc9206e6d952f4e04681a80c065acc",
     "b9c2773c80aecb73bb5076b28a0e2bff",
     "0a9645aa56cb077f03ef9014243746b1",
@@ -2001,11 +1999,11 @@
     "1b58724ba12f6dce790126458792d473",
     "750e593cd26dd31602a3ca6742752a44",
     "aa652939b68d56b1bb94eb720a8349fe",
-    "b08de23f9496bcefd68e311c4129183a"
+    "b08de23f9496bcefd68e311c4129183a",
+    "8cbbc7e279980c45bfae986b5fb5e8ef",
+    "90b2bd42e216f1eb63cfdaee2ace6c50"
   ],
   "titles": [
-    "Deutsche Bahn - Kölner Hauptbahnhof droht \"in absehbarer Zeit\" zweite Sperrung",
-    "Internationale Organisation - Weinproduktion erholt sich leicht",
     "Brandenburg - Landesministerium: 170.000 Tiere wegen Vogelgrippe getötet",
     "Flensburger Ladenbesitzer: Anklage wegen Volksverhetzung nach „Hausverbot“ für Juden",
     "Deutschland: Rückgang der Asylsuchende entlastet Kommunen",
@@ -3003,11 +3001,11 @@
     "\"Damascus Dossier\" - Geheimdokumente könnten bei Strafverfolgung gegen Syriens Assad-Regime helfen",
     "Rentenpaket - Wüst (CDU) erwartet eigene Mehrheit der Koalition",
     "Wien - OSZE-Jahrestreffen heute ohne Rubio und Lawrow",
-    "Amerikanisch-russische Ukraine-Gespräche - Berichte über weiteres Treffen zwischen Unterhändlern Witkoff und Umerow"
+    "Amerikanisch-russische Ukraine-Gespräche - Berichte über weiteres Treffen zwischen Unterhändlern Witkoff und Umerow",
+    "Staatsbesuch - Bankett mit König Charles: Steinmeier betont Freundschaft zwischen Deutschland und Großbritannien",
+    "Bundesumweltminister verschiebt Programm gegen die Klimakrise"
   ],
   "hashes": [
-    "1680566eecd37e3c714e918583f5a6ea",
-    "5974352e1ec5d77eae98d268978ac083",
     "4134828d898a9a485558839bb4eeab18",
     "a7c95c7466f4734c6861cf9604f2a765",
     "bd9be9ef16e74c0b953e3b41095de435",
@@ -4005,6 +4003,8 @@
     "aee3d033b2ba69cdf225d96beccce924",
     "e380600909da0a60ee95d31e821adc92",
     "170bae84ebd8775e7d2a793536b97639",
-    "b771d5c72e0375e4507b86944f7a8c0c"
+    "b771d5c72e0375e4507b86944f7a8c0c",
+    "35836fb522838a788d3aafc15d4bda7a",
+    "7595a633e036bad542e23ad300e4633a"
   ]
 }
