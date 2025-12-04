@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/parlament-setzt-umstrittene-rentenreform-von-praesident-macron-aus-100.html",
-    "https://www.deutschlandfunk.de/regierung-will-pharma-standort-deutschland-attraktiver-machen-100.html",
-    "https://www.deutschlandfunk.de/staedtebund-kritisiert-hohe-sicherheitskosten-und-fordert-beteiligung-von-bund-und-land-100.html",
-    "https://www.deutschlandfunk.de/letzter-penny-in-den-usa-gepraegt-ein-cent-muenzen-weiter-gueltig-100.html",
     "https://www.aljazeera.com/video/the-take-2/2025/11/12/why-france-is-ready-to-pull-the-plug-on-shein?traffic_source=rss",
     "https://www.deutschlandfunk.de/afd-parteivorsitzender-chrupalla-erntet-in-eigener-partei-kritik-fuer-aeusserungen-ueber-russland-un-100.html",
     "https://www.deutschlandfunk.de/laengster-us-shutdown-der-geschichte-koennte-bald-zu-ende-sein-108.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/putin-trifft-zu-staatsbesuch-in-indien-ein-kreml-kuendigt-mehr-importe-an-100.html",
     "https://www.deutschlandfunk.de/einigung-auf-unterstuetzung-fuer-winzer-und-kennzeichnung-fuer-alkoholfreie-weine-102.html",
     "https://www.deutschlandfunk.de/neuer-medienrat-fuer-oeffentlich-rechtlichen-rundfunk-wird-in-weimar-angesiedelt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/neues-sturmgewehr-g95-hat-taktische-defizite-110796994.html"
+    "https://www.faz.net/aktuell/politik/inland/neues-sturmgewehr-g95-hat-taktische-defizite-110796994.html",
+    "https://www.deutschlandfunk.de/nato-verschiebt-wichtige-planungsaufgaben-fuer-nordeuropa-in-die-usa-100.html",
+    "https://www.deutschlandfunk.de/new-york-times-verklagt-das-pentagon-wegen-neuer-medienrichtlinien-102.html",
+    "https://www.deutschlandfunk.de/kinder-psychisch-weiter-stark-belastet-100.html",
+    "https://www.spiegel.de/politik/deutschland/rueckschlag-fuers-bsw-wahlausschuss-plaediert-gegen-neuauszaehlung-der-bundestagswahl-a-8e7f4e04-674d-4789-bd58-2369c1078aad#ref=rss"
   ],
   "content_hashes": [
-    "041d7aca95d00895c8bf97e47335a6f4",
-    "04c4b21646513ae6a5f857c421f1d077",
-    "f7035a4d883c7d1fc95189102a962ca5",
-    "63165c68aeca4e046ba2f1bc2d8a8338",
     "c9c4f4984df2c189a1564d675ff27691",
     "574635473351d54597f79ed5cc2ffa29",
     "be84b57e8e5cbd433824b6c08cdd433f",
@@ -2001,13 +1997,13 @@
     "2229aa81a472494ba8b52961325c80e1",
     "d2f0ccbb7a3e94cbf0f262d7dfb609a7",
     "8de6c9eb277eca32e56f36d5393033a7",
-    "eef5251ef8e81561ed391a39d59ca19a"
+    "eef5251ef8e81561ed391a39d59ca19a",
+    "abb04eb2cfa648845ff10313e75e6048",
+    "c5e27a10e7ca2c7d4598f4dd9cca2e80",
+    "90f25fcbc54e2ac7ed4ea5380d4f1692",
+    "86709d5c4f5294a54be6474b27e8bad2"
   ],
   "titles": [
-    "Frankreich - Parlament setzt umstrittene Rentenreform von Präsident Macron aus",
-    "Treffen im Kanzleramt - Regierung will Pharma-Standort Deutschland attraktiver machen",
-    "Weihnachtsmärkte - Städtebund kritisiert hohe Sicherheitskosten und fordert Beteiligung von Bund und Land",
-    "Hohe Herstellungskosten - Letzter \"Penny\" in den USA geprägt - Ein-Cent-Münzen weiter gültig",
     "Why France is ready to pull the plug on Shein",
     "ZDF-Sendung - AfD-Parteivorsitzender Chrupalla erntet in eigener Partei Kritik für Äußerungen über Russland und Polen",
     "Abstimmung im Repräsentantenhaus - Längster US-Shutdown der Geschichte könnte bald zu Ende sein",
@@ -3003,13 +2999,13 @@
     "Neu-Dehli - Putin trifft zu Staatsbesuch in Indien ein - Kreml kündigt mehr Importe an",
     "Europäische Union - Einigung auf Unterstützung für Winzer und Kennzeichnung für alkoholfreie Weine",
     "Reformstaatsvertrag - Neuer Medienrat für öffentlich-rechtlichen Rundfunk wird in Weimar angesiedelt",
-    "bundeswehr: Neues Sturmgewehr mit taktischen Defiziten"
+    "bundeswehr: Neues Sturmgewehr mit taktischen Defiziten",
+    "Verteidigungsbündnis - NATO verschiebt wichtige Planungsaufgaben für Nordeuropa in die USA",
+    "USA - New York Times verklagt das Pentagon wegen neuer Medienrichtlinien",
+    "Studie - Kinder psychisch weiter stark belastet",
+    "Rückschlag fürs BSW – Wahlausschuss plädiert gegen Neuauszählung der Bundestagswahl"
   ],
   "hashes": [
-    "5a56565df312e552d0bfc4deca972e48",
-    "37f2c9c34519fb5243546ae7c0b6d79b",
-    "d1c7d021ff1629829bbb02f771b8de91",
-    "ade0d754e7d56c62d53ecb9de8bbafe2",
     "9001b9e0daff9aa00b17bd06586516b3",
     "c4228e12dfd901fc4a63d87ec8d9bd75",
     "100fafbc3d4f86c19969e293ceeeaec3",
@@ -4005,6 +4001,10 @@
     "ae005d5bcdd571d01346c8ede33c71b4",
     "803e1ba86265903735917b1994b53716",
     "fef5ad3dc400da3337769fb184d075e2",
-    "8aa01cd3a9a962aa2c2974abe8361015"
+    "8aa01cd3a9a962aa2c2974abe8361015",
+    "899948cb0a89f540ae6780f7c07cfbf9",
+    "b67516e12490b71e3d650dc0ba103e16",
+    "1f9a736d1a63622c3116428612086f9f",
+    "6d4e1feebcd2488270037d929d10718e"
   ]
 }
