@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/der-penny-ist-geschichte-us-muenzanstalten-haben-herstellung-der-legendaeren-1-cent-muenzen-eingeste-100.html",
-    "https://www.deutschlandfunk.de/mit-ki-erstellte-taeuschend-echte-internet-shops-lka-und-verbraucherschuetzer-warnen-vor-betrugsmasc-100.html",
-    "https://www.deutschlandfunk.de/haftbefehl-doku-im-schulunterricht-berlin-neukoellns-integrationsbeauftragte-balci-ist-dafuer-100.html",
-    "https://www.deutschlandfunk.de/bezirksregierung-hebt-dortmunder-brandmauer-beschluss-gegen-afd-als-rechtswidrig-auf-100.html",
-    "https://www.deutschlandfunk.de/laengster-shutdown-der-geschichte-beendet-trump-unterschreibt-den-vom-kongress-zuvor-verabschiedeten-100.html",
-    "https://www.deutschlandfunk.de/buendnis-von-regierungschef-al-sudani-gewinnt-parlamentswahl-im-irak-100.html",
     "https://www.deutschlandfunk.de/abstimmung-repraesentantenhaus-shutdown-ende-in-den-usa-100.html",
     "https://www.deutschlandfunk.de/bgh-entscheidet-zu-aktionaers-forderungen-102.html",
     "https://www.deutschlandfunk.de/bgh-weist-klage-von-aktionaeren-ab-100.html",
@@ -999,15 +993,15 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/rueckschlag-fuer-bsw-merz-will-kanzlermehrheit-bei-renten-abstimmung-faz-110093143.html",
     "https://www.spiegel.de/kultur/musik/israel-kann-am-naechsten-eurovision-song-contest-teilnehmen-a-b759dd04-9dab-4766-acf6-2adf7f6f1c99#ref=rss",
     "https://www.deutschlandfunk.de/deutschland-soll-schnell-ueber-visa-antraege-eines-ex-richters-aus-afghanistan-entscheiden-102.html",
-    "https://www.deutschlandfunk.de/ard-korrespondentinnen-ausgezeichnet-100.html"
+    "https://www.deutschlandfunk.de/ard-korrespondentinnen-ausgezeichnet-100.html",
+    "https://www.deutschlandfunk.de/abstimmung-ueber-rentengesetz-und-wehrdienst-100.html",
+    "https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-wehrdienst-gesetz-102.html",
+    "https://www.deutschlandfunk.de/steinmeier-besucht-coventry-100.html",
+    "https://www.deutschlandfunk.de/abstimmung-ueber-rentengesetz-100.html",
+    "https://www.deutschlandfunk.de/merz-reist-nach-belgien-100.html",
+    "https://www.deutschlandfunk.de/putin-spricht-in-indien-mit-modi-ueber-handel-und-militaer-100.html"
   ],
   "content_hashes": [
-    "c82d3de0109ad3e7e279e705f490307a",
-    "bf9306bf59ba0053044970903ea25a51",
-    "064406fdea131a364e9967b782a1b481",
-    "2bd5734b22f775c5f29cd32f338b5a4c",
-    "4a5249ea5a851b1638600618b485e965",
-    "c75bd791b5e3eb6ed38348691824ff96",
     "ccf42cac5eeb71e69b51647d69947534",
     "d3572daa48ed89d748ac9fb4cf8952c2",
     "7ffea7f2edca5035231aa5a6e4a18184",
@@ -2001,15 +1995,15 @@
     "d029d74f24e1aee978667ec85ae17a7d",
     "2651943eec586d0bd378c09df4592a3c",
     "d38ce5519b9d214eb037c96bdcc38cd1",
-    "11bc7931ad1b02877f2504add92128c9"
+    "11bc7931ad1b02877f2504add92128c9",
+    "be32c436b6f057d5511419b4625b9683",
+    "a42228293ff020e9287d5dee7a603436",
+    "44549efb3209f488ef6daa2f29abbc50",
+    "ec9bd1beb4ad41fc0065b99a275c97d3",
+    "502648ee03bf624b9c7143be54b24034",
+    "29f4a2d1564bf2a0f2dbf28bec233704"
   ],
   "titles": [
-    "Bargeld - Der \"Penny\" ist Geschichte - US-Münzanstalten haben Herstellung der legendären 1-Cent-Münzen eingestellt",
-    "Fake-Shops - Mit KI erstellte täuschend echte Internet-Shops - LKA und Verbraucherschützer warnen vor Betrugsmaschen",
-    "Deutschrapper Aykut Anhan - \"Haftbefehl\"-Doku im Schulunterricht - Berlin-Neuköllns Integrationsbeauftragte Balci ist dafür",
-    "Kommunalpolitik - Bezirksregierung hebt Dortmunder Brandmauer-Beschluss gegen AfD als rechtswidrig auf",
-    "USA - Längster \"Shutdown\" der Geschichte beendet - Trump unterschreibt den vom Kongress zuvor verabschiedeten Übergangshaushalt",
-    "Bagdad - Bündnis von Regierungschef al-Sudani gewinnt Parlamentswahl im Irak",
     "USA - Ende des Shutdowns und neuer Ärger für Trump",
     "Wirecard-Pleite - BGH entscheidet zu Aktionärs-Forderungen",
     "Wirecard-Pleite - BGH weist Klage von Aktionären ab",
@@ -3003,15 +2997,15 @@
     "Liveblog Bundespolitik: Merz will „Kanzlermehrheit“ bei Renten-Abstimmung",
     "ESC 2026: Israel nimmt am nächsten Eurovision Song Contest teil – erste Länder reagieren mit Boykott",
     "Bundesverfassungsgericht - Deutschland soll schnell über Visa-Anträge eines Ex-Richters aus Afghanistan entscheiden",
-    "Hanns-Joachim-Friedrichs-Preis - ARD-Korrespondentinnen ausgezeichnet"
+    "Hanns-Joachim-Friedrichs-Preis - ARD-Korrespondentinnen ausgezeichnet",
+    "Bundestag - Abstimmung über Rentengesetz und Wehrdienst",
+    "Berlin - Bundestag entscheidet über Wehrdienst-Gesetz",
+    "Staatsbesuch in Großbritannien - Steinmeier besucht Coventry",
+    "Bundestag - Abstimmung über Rentengesetz",
+    "Diskussion über eingefrorene russische Vermögen - Merz reist nach Belgien",
+    "Neu-Dehli - Putin spricht in Indien mit Modi über Handel und Militär"
   ],
   "hashes": [
-    "e28842fde40bb80fb7cf7d0e1184934b",
-    "66ebf05f7e9ea4cbabe726d17e82e9fe",
-    "e928539291be55ba33fd28c8a08d0904",
-    "47260c660d3a7806a590c07d4ab57ac2",
-    "9e27f6323f442fa21bc588ba805861f9",
-    "3fdf1d19bf12aa30c79d43712b69734b",
     "3535b70dd77709a75bbdf4355d249b52",
     "bef7516af6e0c859b965bedb0fceb85b",
     "bade9ceef2b7701ca2f5b369d691d287",
@@ -4005,6 +3999,12 @@
     "78a4a5663bd0157df3048ac66feca42f",
     "a7689fbaef448fa92744a82026589e26",
     "92acee7b109156228028b9dfd6f38f29",
-    "75b8b5323595adb88524abd93d877188"
+    "75b8b5323595adb88524abd93d877188",
+    "da0bfee924deb8c01bf6ff1d35c71a00",
+    "bf08931288b43d4359110edf4a154887",
+    "ac7e92c7b86b76bdbd25b35ae7e57c60",
+    "d2e3ad04a6d0e0b05ec1f48ef2f2a0ad",
+    "9be872de7aa64319deab84b5e1593b18",
+    "c9a8ddfd47394be2ccb39f42d2b9756a"
   ]
 }
