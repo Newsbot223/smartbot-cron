@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/abstimmung-repraesentantenhaus-shutdown-ende-in-den-usa-100.html",
-    "https://www.deutschlandfunk.de/bgh-entscheidet-zu-aktionaers-forderungen-102.html",
-    "https://www.deutschlandfunk.de/bgh-weist-klage-von-aktionaeren-ab-100.html",
     "https://www.deutschlandfunk.de/boeing-erstmals-zu-schadenersatz-fuer-737-max-absturzopfer-verurteilt-100.html",
     "https://www.deutschlandfunk.de/debatte-ueber-hightech-agenda-deutschland-102.html",
     "https://www.deutschlandfunk.de/us-bischoefe-kritisieren-trumps-migrationspolitik-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/steinmeier-besucht-coventry-100.html",
     "https://www.deutschlandfunk.de/abstimmung-ueber-rentengesetz-100.html",
     "https://www.deutschlandfunk.de/merz-reist-nach-belgien-100.html",
-    "https://www.deutschlandfunk.de/putin-spricht-in-indien-mit-modi-ueber-handel-und-militaer-100.html"
+    "https://www.deutschlandfunk.de/putin-spricht-in-indien-mit-modi-ueber-handel-und-militaer-100.html",
+    "https://www.deutschlandfunk.de/us-supreme-court-erlaubt-neuen-zuschnitt-von-wahlkreisen-in-texas-102.html",
+    "https://www.deutschlandfunk.de/notre-dame-braucht-noch-140-millionen-euro-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-muss-schnell-ueber-visa-antraege-eines-ex-richters-aus-afghanistan-entscheiden-100.html"
   ],
   "content_hashes": [
-    "ccf42cac5eeb71e69b51647d69947534",
-    "d3572daa48ed89d748ac9fb4cf8952c2",
-    "7ffea7f2edca5035231aa5a6e4a18184",
     "3b2bfcf1fdc90bba7da22e1aaadd394b",
     "eac9edc77ddaea41c30fc4089abb0cd4",
     "848bcabc4b1e18e28f38971839ec40d3",
@@ -2001,12 +1998,12 @@
     "44549efb3209f488ef6daa2f29abbc50",
     "ec9bd1beb4ad41fc0065b99a275c97d3",
     "502648ee03bf624b9c7143be54b24034",
-    "29f4a2d1564bf2a0f2dbf28bec233704"
+    "29f4a2d1564bf2a0f2dbf28bec233704",
+    "f55bc62d6bdaa14cdf18712d7e5ae272",
+    "84cd94e7be3813d4f547794971eb9603",
+    "c23eaa780b7487371ed75ca1104a0062"
   ],
   "titles": [
-    "USA - Ende des Shutdowns und neuer Ärger für Trump",
-    "Wirecard-Pleite - BGH entscheidet zu Aktionärs-Forderungen",
-    "Wirecard-Pleite - BGH weist Klage von Aktionären ab",
     "USA - Boeing erstmals zu Schadenersatz für 737 MAX-Absturzopfer verurteilt",
     "Bundestag - Debatte über Hightech Agenda Deutschland",
     "Vollversammlung in Baltimore - US-Bischöfe kritisieren Trumps Migrationspolitik",
@@ -3003,12 +3000,12 @@
     "Staatsbesuch in Großbritannien - Steinmeier besucht Coventry",
     "Bundestag - Abstimmung über Rentengesetz",
     "Diskussion über eingefrorene russische Vermögen - Merz reist nach Belgien",
-    "Neu-Dehli - Putin spricht in Indien mit Modi über Handel und Militär"
+    "Neu-Dehli - Putin spricht in Indien mit Modi über Handel und Militär",
+    "Vorteil für die Republikaner - US-Supreme Court erlaubt neuen Zuschnitt von Wahlkreisen in Texas",
+    "Restaurierungsarbeiten - Notre-Dame braucht noch 140 Millionen Euro",
+    "Bundesverfassungsgericht - Bundesregierung muss schnell über Visa-Anträge eines Ex-Richters aus Afghanistan entscheiden"
   ],
   "hashes": [
-    "3535b70dd77709a75bbdf4355d249b52",
-    "bef7516af6e0c859b965bedb0fceb85b",
-    "bade9ceef2b7701ca2f5b369d691d287",
     "a000aaa370f58229773afa433abe40b5",
     "c317cfb6f3e8bafe6d2fa3631f3feb84",
     "0eb2b4ac69ece64928bc685cbe0986a1",
@@ -4005,6 +4002,9 @@
     "ac7e92c7b86b76bdbd25b35ae7e57c60",
     "d2e3ad04a6d0e0b05ec1f48ef2f2a0ad",
     "9be872de7aa64319deab84b5e1593b18",
-    "c9a8ddfd47394be2ccb39f42d2b9756a"
+    "c9a8ddfd47394be2ccb39f42d2b9756a",
+    "a573ab2e8cbb5eef690601911d5764c4",
+    "930bcbc2c1cc47fe024c39ad59a87800",
+    "547f67fe043301c827865b6364c92f99"
   ]
 }
