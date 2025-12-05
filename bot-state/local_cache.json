@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/lob-von-industrie-kritik-von-klimaschuetzern-100.html",
-    "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-kiew-106.html",
     "https://www.deutschlandfunk.de/fridays-for-future-ruft-zu-klimaprotesten-auf-100.html",
     "https://www.deutschlandfunk.de/usa-kuendigen-militaeroperation-gegen-drogenhaendler-an-100.html",
     "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-gruene-kritik-und-luftfahrt-lob-fuer-schwarz-rote-beschluesse-accg-110780155.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-kritisiert-esc-boykott-einiger-eu-staaten-wegen-israel-linke-will-auch-palaestinensi-100.html",
     "https://www.deutschlandfunk.de/merz-und-von-der-leyen-bemuehen-sich-um-belgische-zustimmung-zur-nutzung-russischer-staatsvermoegen-100.html",
     "https://www.deutschlandfunk.de/cdu-spitzenkandidat-hagel-als-landesvorsitzender-seiner-partei-bestaetigt-100.html",
-    "https://www.deutschlandfunk.de/ukraine-und-usa-kommen-in-miami-zu-gespraechen-zusammen-102.html"
+    "https://www.deutschlandfunk.de/ukraine-und-usa-kommen-in-miami-zu-gespraechen-zusammen-102.html",
+    "https://www.deutschlandfunk.de/justiz-geht-weiter-gegen-oppositionspolitiker-schlosberg-vor-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/teilnahme-am-esc-israel-ist-nicht-russland-110798638.html"
   ],
   "content_hashes": [
-    "c5f37b25dd0c40ab6bacf1c4b718f76c",
-    "76e832ebdfb61202ca4c4a069bceeab9",
     "50ebf44a9ae4e189c0199fce1a3df86f",
     "5e381d4dc021facd0d6fb57850084737",
     "0b8daa88160796b4477cc8d66680bac3",
@@ -2001,11 +1999,11 @@
     "5d221884f899c6e6c82a4b80922b7c5e",
     "dd5fab71f127a86854e17ac0944e55bc",
     "72be1a7b1868f0809f511509dfd0e885",
-    "d47eb92bf8e6775a1c1c2147348dfbe3"
+    "d47eb92bf8e6775a1c1c2147348dfbe3",
+    "e630f9bb4c0e30f899f40153b6789ffd",
+    "a7ead1eee450323c1be5eeb6d0b22bc4"
   ],
   "titles": [
-    "Ticketsteuer-Senkung - Lob von Industrie, Kritik von Klimaschützern",
-    "Ukraine-Krieg - Neue russische Angriffe auf Kiew",
     "Klimaschutz - \"Fridays for Future\" ruft zu Klimaprotesten auf",
     "Lateinamerika - USA kündigen Militäroperation gegen Drogenhändler an",
     "Koalitionsausschuss: Grüne Kritik und Luftfahrt-Lob für schwarz-rote Beschlüsse",
@@ -3003,11 +3001,11 @@
     "Eurovision Song Contest - Bundesregierung kritisiert ESC-Boykott einiger EU-Staaten wegen Israel - Linke will auch \"palästinensische Teilnahme\"",
     "Ukraine-Krieg - Merz und von der Leyen bemühen sich um belgische Zustimmung zur Nutzung russischer Staatsvermögen",
     "Baden-Württemberg - CDU-Spitzenkandidat Hagel als Landesvorsitzender seiner Partei bestätigt",
-    "Diplomatie - Ukraine und USA kommen in Miami zu Gesprächen zusammen"
+    "Diplomatie - Ukraine und USA kommen in Miami zu Gesprächen zusammen",
+    "Russland - Justiz geht weiter gegen Oppositionspolitiker Schlosberg vor",
+    "Teilnahme am ESC: Israel ist nicht Russland"
   ],
   "hashes": [
-    "5f5e6849a6c6dcd2f955e2e0a963f464",
-    "fba07f47c50dafe24b4c643f8aa049bb",
     "7fde6c07d5b89ca553f23407eb154b4e",
     "e17c747ac46a16300597ea9b4e760517",
     "897205f206565528857fc62a8462b65d",
@@ -4005,6 +4003,8 @@
     "5dbf8efcb97e39e12437039f38595f78",
     "3153be0d606a93b1eee31ee381c156d3",
     "c494a01872334150f73830a25ec86373",
-    "119205a82d6197832e0b43a6799d8748"
+    "119205a82d6197832e0b43a6799d8748",
+    "c5cca2be19707e6578e7551d5fddb8ff",
+    "1dceb4726e5f95b2960ac78c40fb2e15"
   ]
 }
