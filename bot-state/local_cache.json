@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/wer-bestellt-der-bezahlt-die-robin-hoods-der-republik-110777382.html",
-    "https://www.deutschlandfunk.de/junge-union-schlaegt-hoehere-beitraege-fuer-kinderlose-vor-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-organspenden-in-deutschland-leicht-gestiegen-100.html",
     "https://www.deutschlandfunk.de/bundesverfassungsgericht-urteilt-versammlungsfreiheit-hat-klare-grenzen-100.html",
     "https://www.deutschlandfunk.de/merz-fordert-aufklaerung-selenskyj-verhaengt-sanktionen-gegen-vertrauten-minditsch-102.html",
     "https://www.faz.net/aktuell/politik/inland/neuer-wehrdienst-auf-was-sich-union-und-spd-geeinigt-haben-accg-110778405.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/noem-usa-wollen-einreiseverbot-auf-mehr-als-30-laender-ausweiten-102.html",
     "https://www.faz.net/aktuell/politik/inland/rentenstreit-peter-altmaier-hat-ein-ungutes-gefuehl-accg-200325294.html",
     "https://www.deutschlandfunk.de/auftragseingang-legt-zu-100.html",
-    "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss"
+    "https://www.aljazeera.com/video/quotable/2025/12/5/israel-art-washing-its-war-crimes-through-eurovision?traffic_source=rss",
+    "https://www.deutschlandfunk.de/schueler-protestieren-bundesweit-gegen-wehrdienst-plaene-der-bundesregierung-100.html",
+    "https://www.deutschlandfunk.de/manuela-schwesig-als-letzte-zeugin-im-nord-stream-ausschuss-100.html",
+    "https://www.deutschlandfunk.de/ki-aera-ist-wort-des-jahres-102.html"
   ],
   "content_hashes": [
-    "926b5023d6f79714f11ec4c00f30bf63",
-    "831cc9bbb12b4248fdc4019599a2c759",
-    "231452597b2ceb19c67eeaa5de6d7366",
     "2c189d060e89fc506b1f0e1c7cb4b98e",
     "aa7f21cfabe5b97ab2b1c85e17e86467",
     "47d3c2360ce680b961e7c202462d6fa7",
@@ -2001,12 +1998,12 @@
     "963672433be03ad563ca2a473cc745a4",
     "c14ec54e8f4e8c3234fddd5a13613c42",
     "e8862225982b84cdf6e3de36d905bcb3",
-    "447a3a527697231353841a92d8213de3"
+    "447a3a527697231353841a92d8213de3",
+    "07038b040b6cc5d845efadae0e404438",
+    "cc5ed0a6f02e5a4fb0db18e1f56304a3",
+    "ca38ddba656c4324ec69bd5530b1201a"
   ],
   "titles": [
-    "„Wer bestellt, der bezahlt“: Die Robin Hoods der Republik",
-    "Rentenversicherung - Junge Union schlägt höhere Beiträge für Kinderlose vor",
-    "Medizin - Zahl der Organspenden in Deutschland leicht gestiegen",
     "Justiz - Bundesverfassungsgericht urteilt: Versammlungsfreiheit hat klare Grenzen",
     "Korruptionsaffäre in der Ukraine - Merz fordert Aufklärung - Selenskyj verhängt Sanktionen gegen Vertrauten Minditsch",
     "Neuer Wehrdienst: Auf was sich Union und SPD geeinigt haben",
@@ -3003,12 +3000,12 @@
     "Heimatschutzministerin - Noem: USA wollen Einreiseverbot auf mehr als 30 Länder ausweiten",
     "Altmaier zum Rentenpaket: „Der ganze Vorgang ist schon bemerkenswert“",
     "Statistik - Auftragseingang legt zu",
-    "Israel “art-washing its war crimes” through Eurovision"
+    "Israel “art-washing its war crimes” through Eurovision",
+    "\"Schulstreik\" - Schüler protestieren bundesweit gegen Wehrdienst-Pläne der Bundesregierung",
+    "Russischer Einfluss auf Pipelinebau? - Manuela Schwesig als letzte Zeugin im Nord-Stream-Ausschuss",
+    "Gesellschaft für deutsche Sprache - \"KI-Ära\" ist Wort des Jahres"
   ],
   "hashes": [
-    "94178ef6e8a3734cebeca307cfa49825",
-    "99f8fe42eaacddeec0caa90f9093ed42",
-    "641ec4e97354917092a542adb7062bdf",
     "c655c870d5206a4cba16474b765bb61d",
     "af1f4816b8b53a57deda6e8d5ce7bf6b",
     "c27e5c07c148ec86253efed57cc7a218",
@@ -4005,6 +4002,9 @@
     "13eef8cc5918333ce62b8c8162171329",
     "23f533d713c3598430b0f052e230426e",
     "5041d9b7251d6111e6dd2cbda07a359f",
-    "8db1767d7bad131efc57c6f436159661"
+    "8db1767d7bad131efc57c6f436159661",
+    "58df110341aa39b22fe79e66e303a4da",
+    "1cefaae2d6850d9e11b7b939aabdb6dd",
+    "65990aa42c54dfd98b3de361e9dd0f4a"
   ]
 }
