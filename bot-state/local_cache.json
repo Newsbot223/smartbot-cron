@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-so-wollen-junge-politiker-das-land-gestalten-110779252.html",
-    "https://www.deutschlandfunk.de/saarlaendische-ministerpraesidentin-rehlinger-bleibt-spd-landeschefin-102.html",
-    "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-tritt-in-den-hungerstreik-100.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-dass-junge-ukrainer-zu-hause-bleiben-a-84f78f4d-3b7d-4a48-b4f0-75c14db4a3c7#ref=rss",
     "https://www.deutschlandfunk.de/koelner-hauptbahnhof-zehn-tage-gesperrt-zentraler-knotenpunkt-fuer-den-bahnverkehr-im-westen-100.html",
     "https://www.spiegel.de/politik/afd-putin-treibt-einen-keil-zwischen-alice-weidel-und-tino-chrupalla-a-e0ce5940-f24c-47e9-a58a-3802708ba88d#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/statue-in-berlin-luebckes-familie-war-nicht-eingebunden-accg-200331916.html",
     "https://www.deutschlandfunk.de/ukraine-usa-und-westliche-verbuendete-hoffen-auf-bewegung-in-moskau-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-betont-in-jordanien-engagement-fuer-zweistaatenloesung-102.html",
-    "https://www.deutschlandfunk.de/mindestens-18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html"
+    "https://www.deutschlandfunk.de/mindestens-18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-in-peking-erwartet-100.html",
+    "https://www.deutschlandfunk.de/ausschreitungen-in-athen-102.html",
+    "https://www.deutschlandfunk.de/weiter-kopf-an-kopf-rennen-bei-praesidentenwahl-104.html"
   ],
   "content_hashes": [
-    "0bcc15e916f869644d60f16c388091d9",
-    "f0da5c0a936a76e4655dd3a553c6240c",
-    "c25150c75aba472faa3ab980db4f0abd",
     "f3c746a0f09a6318ded4834fa30d409c",
     "d69c8690ec7335ca6acc8a09f30d5164",
     "f5779ccfb4c8c2620151fc9237198224",
@@ -2001,12 +1998,12 @@
     "660e85bb46e151b807ed821e19014391",
     "27f10e396ccbd69dc5e1f76929ad1ceb",
     "3f8e5fc6c1a737012fbbb1858d999d1d",
-    "8386bcfd8a9c274fde0a86c6bc5b5ee9"
+    "8386bcfd8a9c274fde0a86c6bc5b5ee9",
+    "71f74346fdc699cb77f2d97a00bc5450",
+    "261c0ebaff32326245904d489a4a9b98",
+    "2e0d1279a4e30ae1a4bd5b577dd1283e"
   ],
   "titles": [
-    "Die Zukunft der Politik: So wollen junge Politiker Deutschland gestalten",
-    "Fast 100 Prozent - Saarländische Ministerpräsidentin Rehlinger bleibt SPD-Landeschefin",
-    "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala tritt in den Hungerstreik",
     "Friedrich Merz will, dass junge Ukrainer zu Hause bleiben",
     "Bauarbeiten - Kölner Hauptbahnhof zehn Tage gesperrt - Zentraler Knotenpunkt für den Bahnverkehr im Westen",
     "AfD: Putin treibt einen Keil zwischen Alice Weidel und Tino Chrupalla",
@@ -3003,12 +3000,12 @@
     "Statue in Berlin: Lübckes Familie war nicht eingebunden",
     "Gespräche in Miami und London - Ukraine, USA und westliche Verbündete hoffen auf Bewegung in Moskau",
     "Nahost-Reise - Bundeskanzler Merz betont in Jordanien Engagement für Zweistaatenlösung",
-    "Südlich von Kreta - Mindestens 18 Migranten sterben bei Bootsunglück im Mittelmeer"
+    "Südlich von Kreta - Mindestens 18 Migranten sterben bei Bootsunglück im Mittelmeer",
+    "China-Reise - Außenminister Wadephul in Peking erwartet",
+    "Griechenland - Ausschreitungen in Athen",
+    "Honduras - Weiter Kopf-an-Kopf-Rennen bei Präsidentenwahl"
   ],
   "hashes": [
-    "48f7510118dab82671756f51c0dee616",
-    "8b53163d84bde974aa82669ca09d1c9b",
-    "f757ee6aa4b33ea7f3dcee31e92f13fe",
     "48541bbe0581fd10577d84d73da58603",
     "0c44b91d0159478799c3ce317709f5ae",
     "2962403e6fe8d6102e237a0bb2528fe0",
@@ -4005,6 +4002,9 @@
     "26440e2bb6a186e9d98d10c4c2f67c75",
     "66e186a70bf85da9a53a699588bc1fef",
     "6623450fd07c81493685c02168c2c3d3",
-    "a63dd97ca18352c68b93e540226f0c79"
+    "a63dd97ca18352c68b93e540226f0c79",
+    "930623854f8b35300605acc9e8908590",
+    "2a4c95ee176012291c5082b44d015f42",
+    "a94965a07d2582067f03cfa27c1f206b"
   ]
 }
