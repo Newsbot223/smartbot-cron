@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/fraktur/fraktur-afd-chef-chrupalla-ist-moskaus-liebster-malermeister-110780985.html",
-    "https://www.deutschlandfunk.de/unklare-bewertung-zu-entlastung-von-passagieren-102.html",
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-im-laendle-brennt-die-huette-110781621.html",
     "https://www.deutschlandfunk.de/mareika-wulf-zur-kinderbeauftragten-der-bundesregierung-ernannt-100.html",
     "https://www.deutschlandfunk.de/nokia-baut-stellen-ab-standort-muenchen-soll-2030-schliessen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/katars-regierungschef-al-thani-waffenruhe-ohne-kompletten-abzug-israels-unvollstaendig-100.html",
     "https://www.deutschlandfunk.de/bsw-will-in-magdeburg-fuehrung-und-neuen-parteinamen-waehlen-112.html",
     "https://www.deutschlandfunk.de/russische-luftangriffe-auf-bahnhof-und-energieanlagen-iaea-erneut-in-sorge-um-akw-saporischschja-100.html",
-    "https://www.deutschlandfunk.de/cdu-kritisiert-schwesig-aussagen-im-untersuchungsausschuss-zu-nord-stream-100.html"
+    "https://www.deutschlandfunk.de/cdu-kritisiert-schwesig-aussagen-im-untersuchungsausschuss-zu-nord-stream-100.html",
+    "https://www.deutschlandfunk.de/nach-millionenstrafe-gegen-x-unternehmer-musk-empfiehlt-abschaffung-der-eu-100.html",
+    "https://www.deutschlandfunk.de/brandkatastrophe-in-hongkong-chinesische-sicherheitsbehoerde-bezichtigt-internationale-medien-der-fa-100.html"
   ],
   "content_hashes": [
-    "cf0ddcf7c9861b7277c8d359920c06f8",
-    "990713961cef2f87d8d8b1bfeec48378",
     "4fd910a16130cf822fdf0217386f1fc1",
     "a1e7904ccb675e4000f2dea094e1e183",
     "86125f9c7b6e4b182427381845031a5a",
@@ -2001,11 +1999,11 @@
     "5ca655f26bd99af8ca3e07f3358f37f3",
     "44a6f30b326ad296fe1eed447e0c3eaf",
     "a6e29d6368b76a8cbe2d8deef3ee1a7f",
-    "020ade27f1b4db3daff8087dcebeb524"
+    "020ade27f1b4db3daff8087dcebeb524",
+    "ac900c37e9d1d76c1b26acf45472eef2",
+    "745a2d4cfb8c29f960590c58cc3da8b7"
   ],
   "titles": [
-    "Fraktur: Putins liebster Pinsel",
-    "Ticketsteuer-Senkung - Unklare Bewertung zu Entlastung von Passagieren",
     "Baden-Württemberg: Im Ländle brennt die Hütte",
     "Schutz und Förderung - Mareika Wulf zur Kinderbeauftragten der Bundesregierung ernannt",
     "Finnischer Konzern - Nokia baut Stellen ab - Standort München soll 2030 schließen",
@@ -3003,11 +3001,11 @@
     "Gazastreifen - Katars Regierungschef al-Thani: Waffenruhe ohne kompletten Abzug Israels unvollständig",
     "Bundesparteitag - BSW will in Magdeburg Führung und neuen Parteinamen wählen",
     "Ukraine - Russische Luftangriffe auf Bahnhof und Energieanlagen - IAEA erneut in Sorge um AKW Saporischschja",
-    "Russischer Einfluss auf Pipelinebau? - CDU kritisiert Schwesig-Aussagen im Untersuchungsausschuss zu Nord Stream 2"
+    "Russischer Einfluss auf Pipelinebau? - CDU kritisiert Schwesig-Aussagen im Untersuchungsausschuss zu Nord Stream 2",
+    "USA - Nach Millionenstrafe gegen X: Unternehmer Musk empfiehlt Abschaffung der EU",
+    "Kurz vor Parlamentswahl - Brandkatastrophe in Hongkong: Chinesische Sicherheitsbehörde bezichtigt internationale Medien der Falschberichterstattung"
   ],
   "hashes": [
-    "1802e4383b3d2c8781bf4e77139727ec",
-    "d64f582e55ceb8e124b30865555df11c",
     "a02e6cd53ee09ab9848a6472bd3c72ca",
     "2f2ff16ce796342942d7be7542303d9a",
     "a578e3bb96d17c84f2597aec0be72168",
@@ -4005,6 +4003,8 @@
     "2eaa9355dbdb3a35fc5f5d72abfeac09",
     "735564f9d31afe74539094cb032d8131",
     "b489fce76405c8766b759404eb0ed2e6",
-    "cbb9d404e0c2af49a2510b60ef41012f"
+    "cbb9d404e0c2af49a2510b60ef41012f",
+    "cfddd490199480eaa526e7ea41acb546",
+    "65c03506be97f08e6bcc1f0662fea0c5"
   ]
 }
