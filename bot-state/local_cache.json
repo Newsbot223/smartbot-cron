@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/quentin-gaertner-generation-arbeit-und-verantwortung-accg-110781410.html",
-    "https://www.deutschlandfunk.de/streeck-praezisiert-haltung-zu-medikamenten-fuer-hochbetagte-100.html",
     "https://www.deutschlandfunk.de/junge-union-lehnt-kompromiss-mit-spd-ab-100.html",
     "https://www.faz.net/aktuell/politik/inland/rede-von-bundeskanzler-friedrich-merz-bei-junger-union-im-livestream-110782331.html",
     "https://www.deutschlandfunk.de/sperrung-des-koelner-hauptbahnhofs-ohne-probleme-angelaufen-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss",
     "https://www.deutschlandfunk.de/putschversuch-in-benin-praesident-offenbar-in-sicherheit-100.html",
     "https://www.deutschlandfunk.de/kirchliche-hilfswerke-mahnen-sachliche-debatte-ueber-syrische-fluechtlinge-an-100.html",
-    "https://www.deutschlandfunk.de/interview-hoffmann-alexander-vorsitzender-d-csu-landesgruppe-im-dt-bundestag-100.html"
+    "https://www.deutschlandfunk.de/interview-hoffmann-alexander-vorsitzender-d-csu-landesgruppe-im-dt-bundestag-100.html",
+    "https://www.deutschlandfunk.de/parlamentswahlen-in-hongkong-laufen-nur-pro-chinesische-kandidaten-zugelassen-102.html",
+    "https://www.spiegel.de/wirtschaft/mietwagenpreise-steigen-zu-weihnachten-um-mehr-als-ein-sechstel-a-9e543a76-bb07-4c2d-8354-6b6fc41cbb08#ref=rss"
   ],
   "content_hashes": [
-    "2870e1252e809003920408ceb6351093",
-    "04d081034aeae482ff508e3e4ac6ce4b",
     "c0f3baeac73588cb9fbb1dd28f2788f2",
     "3e11b2d5ea3419e4fabe1b4862e22324",
     "38856815460c73f428d715ea928ab355",
@@ -2001,11 +1999,11 @@
     "683bad3bdce5320f6dac6bf1bdf8bfbe",
     "e8d47c7a29a8d0469b0db603d388f4ea",
     "192f1de18dc8cd73321c7f3336281332",
-    "7249de68fe1a1f8acd72bc0c2841f71f"
+    "7249de68fe1a1f8acd72bc0c2841f71f",
+    "6044dd5f4419f3aad4c72e02c546efd6",
+    "951094ffdceb2448429d63186f203a1d"
   ],
   "titles": [
-    "Schülervertreter: Unsere Generation wird mehr geben als fordern",
-    "Nach umstrittener Äußerung - Streeck präzisiert Haltung zu Medikamenten für Hochbetagte",
     "Rentenpaket - Junge Union lehnt Kompromiss mit SPD ab",
     "Kanzler im Livestream: Welches Angebot macht Merz der Jungen Union?",
     "Stellwerk-Neubau - Sperrung des Kölner Hauptbahnhofs ohne Probleme angelaufen",
@@ -3003,11 +3001,11 @@
     "Bundeskanzler Friedrich Merz bekräftigt deutsche Verantwortung gegenüber Israel in Yad Vashem",
     "Westafrika - Putschversuch in Benin - Präsident offenbar in Sicherheit",
     "Diakonie und \"Brot für die Welt\" - Kirchliche Hilfswerke mahnen sachliche Debatte über syrische Flüchtlinge an",
-    "Rentenpaket - CSU-Politiker Hoffmann: Das wird uns noch öfter ins Haus stehen"
+    "Rentenpaket - CSU-Politiker Hoffmann: Das wird uns noch öfter ins Haus stehen",
+    "Hongkong - Parlamentswahlen in Hongkong laufen - nur pro-chinesische Kandidaten zugelassen",
+    "Mietwagenpreise steigen zu Weihnachten um mehr als ein Sechstel"
   ],
   "hashes": [
-    "fbee42ccb92ad08b1e132840b88dc46c",
-    "593d42d912558dbc5e1a94a1191e3af7",
     "6019718abd49c9a284e1c5dd8a74c1ae",
     "dde0fbb45af59cdfc9e3d55092ed6427",
     "e62366bbd2f2abf1e2bd806b58fb1e6a",
@@ -4005,6 +4003,8 @@
     "ef8cfbf80fa3dae5fceba331a309acb0",
     "64453a0d4984419f003decf784fa832b",
     "6491aaf53c594f96049a5e60d614388a",
-    "65b0fd9535200d26e505f9c151554ae4"
+    "65b0fd9535200d26e505f9c151554ae4",
+    "acac045186d25023543cb0f66246162b",
+    "bf30aa5b0414c6ca9f30b334a130d4ae"
   ]
 }
