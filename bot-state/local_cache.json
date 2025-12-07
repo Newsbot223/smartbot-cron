@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/junge-union-fordert-im-rentenkonflikt-machtwort-von-bundeskanzler-merz-100.html",
-    "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-100.html",
     "https://www.deutschlandfunk.de/ataman-fordert-besseren-schutz-102.html",
     "https://www.spiegel.de/wirtschaft/koeln-bauarbeiten-am-hauptbahnhof-fuehren-zu-massiven-einschraenkungen-a-7edd8a7a-fb37-4730-9238-563d0072406c#ref=rss",
     "https://www.deutschlandfunk.de/haeftling-durch-erschiessungskommando-hingerichtet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bis-zu-16-stunden-stromsperre-100.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matwijtschuk-fordert-deutschland-auf-russlandpolitik-aufzuarb-100.html",
     "https://www.deutschlandfunk.de/bahnchefin-palla-kuendigt-interne-untersuchung-zu-erneuter-verzoegerung-an-100.html",
-    "https://www.deutschlandfunk.de/russland-attackiert-ukraine-weiter-100.html"
+    "https://www.deutschlandfunk.de/russland-attackiert-ukraine-weiter-100.html",
+    "https://www.deutschlandfunk.de/japan-wirft-china-gefaehrliche-provokation-mit-kampfjets-vor-100.html",
+    "https://www.deutschlandfunk.de/mindestens-23-tote-bei-brand-in-club-im-bundesstaat-goa-100.html"
   ],
   "content_hashes": [
-    "5fcf109084d210f084e7c852517880c0",
-    "4dc8d8bae3f1686960e0cf7d82d82a38",
     "7fa88a82738587c35188137f32b34c0e",
     "cce38ec9f7f0cb5021d0f62bd93a8978",
     "f9c5f03b02039a76a458b05899fb5bf5",
@@ -2001,11 +1999,11 @@
     "e32d14eb93c88707a9930372a3caa9ca",
     "ce7432a4d7919b6a9498192bda6e0790",
     "545f0459d366aca32569d7742a41dbe1",
-    "9ffaf603a4f9867d4411cdfa34725f38"
+    "9ffaf603a4f9867d4411cdfa34725f38",
+    "06552585397313bf11ec2491e7b22bc3",
+    "21eb003f844c73bd41c14d5d35897cb2"
   ],
   "titles": [
-    "Deutschlandtag - Junge Union fordert im Rentenkonflikt Machtwort von Bundeskanzler Merz",
-    "Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss",
     "Sexuelle Belästigung im Alltag - Ataman fordert besseren Schutz",
     "Köln: Bauarbeiten am Hauptbahnhof führen zu massiven Einschränkungen",
     "US-Bundesstaat South Carolina - Häftling durch Erschießungskommando hingerichtet",
@@ -3003,11 +3001,11 @@
     "Ukraine - Bis zu 16 Stunden Stromsperre",
     "Ukraine-Krieg - Friedensnobelpreisträgerin Oleksandra Matwijtschuk fordert Deutschland auf, Russlandpolitik aufzuarbeiten",
     "Stuttgart 21 - Bahnchefin Palla kündigt interne Untersuchung zu erneuter Verzögerung an",
-    "Angriffe auf Energieinfrastruktur - Russland attackiert Ukraine weiter"
+    "Angriffe auf Energieinfrastruktur - Russland attackiert Ukraine weiter",
+    "Asien - Japan wirft China gefährliche Provokation mit Kampfjets vor",
+    "Indien - Mindestens 23 Tote bei Brand in Club im Bundesstaat Goa"
   ],
   "hashes": [
-    "4138384d52f2fc450adf9c2076524c3c",
-    "4e76aca7426266b6f5af20fcc0fdbd09",
     "e9b875bf6c2899a9823a605032530fca",
     "723d8af88a9448eecf0af315e0052df3",
     "b17e50fcec39de3f0edbc03202439c52",
@@ -4005,6 +4003,8 @@
     "79b5c2e7928d3ab33c9c64a934a07299",
     "8eacd4a6e2b6142626b80db3d04dc95f",
     "1646f34419df0dfeb1826fa3e7abaa1c",
-    "74e09cd27645d327910768c1ef851de0"
+    "74e09cd27645d327910768c1ef851de0",
+    "1345ccd257e39a68dc4207ba50cf8445",
+    "18623886b9f7ff1766f6ef7b65b5b70a"
   ]
 }
