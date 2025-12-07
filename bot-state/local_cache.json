@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gerhard-richter-bleibt-wichtigster-kuenstler-der-welt-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-milliardenklage-gegen-bbc-an-102.html",
-    "https://www.deutschlandfunk.de/naechstes-jahr-wahrscheinlich-rund-28-000-baustellen-bei-der-deutschen-bahn-102.html",
     "https://www.faz.net/aktuell/politik/inland/quentin-gaertner-generation-arbeit-und-verantwortung-accg-110781410.html",
     "https://www.deutschlandfunk.de/streeck-praezisiert-haltung-zu-medikamenten-fuer-hochbetagte-100.html",
     "https://www.deutschlandfunk.de/junge-union-lehnt-kompromiss-mit-spd-ab-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/queerfeindlicher-angriff-auf-zwei-frauen-in-strassenbahn-in-bremen-staatsschutz-ermittelt-100.html",
     "https://www.deutschlandfunk.de/wdr-recherche-polizei-in-nordrhein-westfalen-hat-videoueberwachung-stark-ausgebaut-100.html",
     "https://www.aljazeera.com/gallery/2025/12/7/week-in-pictures-syria-salutes-year-of-al-assad-fall-sudans-suffering?traffic_source=rss",
-    "https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-bekraeftigt-deutsche-verantwortung-gegenueber-israel-in-yad-vashem-a-72fae104-975e-4057-81d3-6d7aad1d500a#ref=rss",
+    "https://www.deutschlandfunk.de/putschversuch-in-benin-praesident-offenbar-in-sicherheit-100.html",
+    "https://www.deutschlandfunk.de/kirchliche-hilfswerke-mahnen-sachliche-debatte-ueber-syrische-fluechtlinge-an-100.html",
+    "https://www.deutschlandfunk.de/interview-hoffmann-alexander-vorsitzender-d-csu-landesgruppe-im-dt-bundestag-100.html"
   ],
   "content_hashes": [
-    "b07e2003e258caa4cb0d0b5fa25a32ac",
-    "4f8dd9662a9fb53867e8d5b34fc05b87",
-    "60625db6a48e49a9dd1a2b4f69113daa",
     "2870e1252e809003920408ceb6351093",
     "04d081034aeae482ff508e3e4ac6ce4b",
     "c0f3baeac73588cb9fbb1dd28f2788f2",
@@ -2001,12 +1998,12 @@
     "7439391cdef43dddcdc7544e855e6724",
     "d7a2675788385be83f433e31bdb55be8",
     "8a2544554633555b153fcdf370851ca2",
-    "683bad3bdce5320f6dac6bf1bdf8bfbe"
+    "683bad3bdce5320f6dac6bf1bdf8bfbe",
+    "e8d47c7a29a8d0469b0db603d388f4ea",
+    "192f1de18dc8cd73321c7f3336281332",
+    "7249de68fe1a1f8acd72bc0c2841f71f"
   ],
   "titles": [
-    "\"Kunstkompass\" - Gerhard Richter bleibt wichtigster Künstler der Welt",
-    "Irreführender Beitrag - Trump kündigt Milliardenklage gegen BBC an",
-    "Bahnchefin Palla - Nächstes Jahr wahrscheinlich rund 28.000 Baustellen bei der Deutschen Bahn",
     "Schülervertreter: Unsere Generation wird mehr geben als fordern",
     "Nach umstrittener Äußerung - Streeck präzisiert Haltung zu Medikamenten für Hochbetagte",
     "Rentenpaket - Junge Union lehnt Kompromiss mit SPD ab",
@@ -3003,12 +3000,12 @@
     "ÖPNV - Queerfeindlicher Angriff auf zwei Frauen in Straßenbahn in Bremen - Staatsschutz ermittelt",
     "NRW - WDR-Recherche: Polizei in Nordrhein-Westfalen hat Videoüberwachung stark ausgebaut",
     "Week in Pictures: Syria salutes year of al-Assad fall, Sudan’s suffering",
-    "Bundeskanzler Friedrich Merz bekräftigt deutsche Verantwortung gegenüber Israel in Yad Vashem"
+    "Bundeskanzler Friedrich Merz bekräftigt deutsche Verantwortung gegenüber Israel in Yad Vashem",
+    "Westafrika - Putschversuch in Benin - Präsident offenbar in Sicherheit",
+    "Diakonie und \"Brot für die Welt\" - Kirchliche Hilfswerke mahnen sachliche Debatte über syrische Flüchtlinge an",
+    "Rentenpaket - CSU-Politiker Hoffmann: Das wird uns noch öfter ins Haus stehen"
   ],
   "hashes": [
-    "accd37fbd13fc52aacef95a3b8aa47c4",
-    "adf9ff4c8416664dbcc06997d95b5cbf",
-    "f4e9984dcdef72501540b7877e08d0ba",
     "fbee42ccb92ad08b1e132840b88dc46c",
     "593d42d912558dbc5e1a94a1191e3af7",
     "6019718abd49c9a284e1c5dd8a74c1ae",
@@ -4005,6 +4002,9 @@
     "3f786139eb7737f9bc88466de7dc99fb",
     "ac0e0a6ac01bb4edff70ce047041031c",
     "f4d04631a1c32022dd161bf0795d472c",
-    "ef8cfbf80fa3dae5fceba331a309acb0"
+    "ef8cfbf80fa3dae5fceba331a309acb0",
+    "64453a0d4984419f003decf784fa832b",
+    "6491aaf53c594f96049a5e60d614388a",
+    "65b0fd9535200d26e505f9c151554ae4"
   ]
 }
