@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bereits-1-5-millionen-tiere-wegen-vogelgrippe-getoetet-100.html",
-    "https://www.deutschlandfunk.de/us-regierung-wirft-plattform-alibaba-hilfestellung-bei-chinesischen-cyberattacken-vor-100.html",
     "https://www.deutschlandfunk.de/ulla-schmidt-als-bundesvorsitzende-der-lebenshilfe-bestaetigt-102.html",
     "https://www.faz.net/aktuell/politik/inland/krise-bei-hessens-gruenen-kein-powerhouse-mehr-accg-110781585.html",
     "https://www.spiegel.de/politik/deutschland/michael-kretschmer-will-nach-waffenstillstand-energie-aus-russland-a-0bed849f-0826-4765-ae54-7809e041dc12#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/afd-und-wehrdienst-welches-parteimitglied-wuerde-im-kriegsfall-fuer-deutschland-kaempfen-110797751.html",
     "https://www.deutschlandfunk.de/macron-droht-peking-mit-handelsbeschraenkungen-100.html",
     "https://www.deutschlandfunk.de/lando-norris-erstmals-formel-1-weltmeister-100.html",
-    "https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss"
+    "https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss",
+    "https://www.deutschlandfunk.de/niedrige-beteiligung-an-parlamentswahl-100.html",
+    "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss"
   ],
   "content_hashes": [
-    "d6513ed205d8cd91270bf9baf41aa96c",
-    "3df9d254f22a891c8776d36892dde9a5",
     "5d183b151ab5bc214c46cdb2291b1bcc",
     "6544c9c37b5ef9062c2acfd50012258e",
     "2239a22b67027e9415c768970d70fc0c",
@@ -2001,11 +1999,11 @@
     "3d6a326c1551c4dadc3a4c61665d4f80",
     "3d297e1395417b4bbf226e73f2c098d8",
     "d2cc69273c1efc13e31a409fe4f499b0",
-    "4bd85124ac327980fa22ee167f5d0911"
+    "4bd85124ac327980fa22ee167f5d0911",
+    "7d2910af2e920a5fac40b2651cb9ed45",
+    "24f94cef6892207795776c462290141b"
   ],
   "titles": [
-    "Friedrich-Loeffler-Institut - Bereits 1,5 Millionen Tiere wegen Vogelgrippe getötet",
-    "Washington - US-Regierung wirft Plattform \"Alibaba\" Hilfestellung bei chinesischen Cyberattacken vor",
     "Mitgliederversammlung - Ulla Schmidt als Bundesvorsitzende der Lebenshilfe bestätigt",
     "Krise bei Hessens Grünen: Kein Powerhouse mehr",
     "Michael Kretschmer will nach Waffenstillstand Energie aus Russland",
@@ -3003,11 +3001,11 @@
     "Rechte Kriegsdienstverweigerung: Verrät die AfD das deutsche Vaterland?",
     "Nach China-Reise - Macron droht Peking mit Handelsbeschränkungen",
     "Motorsport - Lando Norris erstmals Formel-1-Weltmeister",
-    "Pete Hegseth: US-Verteidigungsminister nennt Deutschland »vorbildlichen Verbündeten«"
+    "Pete Hegseth: US-Verteidigungsminister nennt Deutschland »vorbildlichen Verbündeten«",
+    "Hongkong - Niedrige Beteiligung an Parlamentswahl",
+    "LIVE: Real Madrid vs Celta Vigo – La Liga"
   ],
   "hashes": [
-    "33c47c09838a7c4adda1adafd675ccaf",
-    "556539a0b33032c2839b78978284a4eb",
     "8a9d8f839b969661a611b3822ad37cc5",
     "4790a66185ed6fd31d2529bcd8a3e21b",
     "dbc73378447ab335326a34596e9d366a",
@@ -4005,6 +4003,8 @@
     "a528d30beedcf9ba4a6e3aeab38e55fe",
     "ace13ba3d1030c6c24465bf924deeca2",
     "bb87d9fc7e67125b6779e06bab22e0f5",
-    "bb0986f50289121cbe0707c6ce1fd840"
+    "bb0986f50289121cbe0707c6ce1fd840",
+    "c6da066771031234c9986cb160ec6947",
+    "b97544c68800f593adc06f9ea5e347de"
   ]
 }
