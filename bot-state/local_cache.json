@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-will-dass-junge-ukrainer-zu-hause-bleiben-a-84f78f4d-3b7d-4a48-b4f0-75c14db4a3c7#ref=rss",
-    "https://www.deutschlandfunk.de/koelner-hauptbahnhof-zehn-tage-gesperrt-zentraler-knotenpunkt-fuer-den-bahnverkehr-im-westen-100.html",
-    "https://www.spiegel.de/politik/afd-putin-treibt-einen-keil-zwischen-alice-weidel-und-tino-chrupalla-a-e0ce5940-f24c-47e9-a58a-3802708ba88d#ref=rss",
     "https://www.deutschlandfunk.de/junge-union-fordert-im-rentenstreit-machtwort-von-bundeskanzler-merz-102.html",
     "https://www.deutschlandfunk.de/junge-union-fordert-im-rentenkonflikt-machtwort-von-bundeskanzler-merz-100.html",
     "https://www.deutschlandfunk.de/wehrbeauftragter-otte-begruesst-wehrdienst-kompromiss-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mindestens-18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-in-peking-erwartet-100.html",
     "https://www.deutschlandfunk.de/ausschreitungen-in-athen-102.html",
-    "https://www.deutschlandfunk.de/weiter-kopf-an-kopf-rennen-bei-praesidentenwahl-104.html"
+    "https://www.deutschlandfunk.de/weiter-kopf-an-kopf-rennen-bei-praesidentenwahl-104.html",
+    "https://www.deutschlandfunk.de/bis-zu-16-stunden-stromsperre-100.html",
+    "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matwijtschuk-fordert-deutschland-auf-russlandpolitik-aufzuarb-100.html",
+    "https://www.deutschlandfunk.de/bahnchefin-palla-kuendigt-interne-untersuchung-zu-erneuter-verzoegerung-an-100.html"
   ],
   "content_hashes": [
-    "f3c746a0f09a6318ded4834fa30d409c",
-    "d69c8690ec7335ca6acc8a09f30d5164",
-    "f5779ccfb4c8c2620151fc9237198224",
     "d0dd640323eb4dbdab75d16de4b474a7",
     "5fcf109084d210f084e7c852517880c0",
     "4dc8d8bae3f1686960e0cf7d82d82a38",
@@ -2001,12 +1998,12 @@
     "8386bcfd8a9c274fde0a86c6bc5b5ee9",
     "71f74346fdc699cb77f2d97a00bc5450",
     "261c0ebaff32326245904d489a4a9b98",
-    "2e0d1279a4e30ae1a4bd5b577dd1283e"
+    "2e0d1279a4e30ae1a4bd5b577dd1283e",
+    "e32d14eb93c88707a9930372a3caa9ca",
+    "ce7432a4d7919b6a9498192bda6e0790",
+    "545f0459d366aca32569d7742a41dbe1"
   ],
   "titles": [
-    "Friedrich Merz will, dass junge Ukrainer zu Hause bleiben",
-    "Bauarbeiten - Kölner Hauptbahnhof zehn Tage gesperrt - Zentraler Knotenpunkt für den Bahnverkehr im Westen",
-    "AfD: Putin treibt einen Keil zwischen Alice Weidel und Tino Chrupalla",
     "Deutschlandtag - Junge Union fordert im Rentenstreit Machtwort von Bundeskanzler Merz",
     "Deutschlandtag - Junge Union fordert im Rentenkonflikt Machtwort von Bundeskanzler Merz",
     "Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss - Wehrbeauftragter Otte begrüßt Wehrdienst-Kompromiss",
@@ -3003,12 +3000,12 @@
     "Südlich von Kreta - Mindestens 18 Migranten sterben bei Bootsunglück im Mittelmeer",
     "China-Reise - Außenminister Wadephul in Peking erwartet",
     "Griechenland - Ausschreitungen in Athen",
-    "Honduras - Weiter Kopf-an-Kopf-Rennen bei Präsidentenwahl"
+    "Honduras - Weiter Kopf-an-Kopf-Rennen bei Präsidentenwahl",
+    "Ukraine - Bis zu 16 Stunden Stromsperre",
+    "Ukraine-Krieg - Friedensnobelpreisträgerin Oleksandra Matwijtschuk fordert Deutschland auf, Russlandpolitik aufzuarbeiten",
+    "Stuttgart 21 - Bahnchefin Palla kündigt interne Untersuchung zu erneuter Verzögerung an"
   ],
   "hashes": [
-    "48541bbe0581fd10577d84d73da58603",
-    "0c44b91d0159478799c3ce317709f5ae",
-    "2962403e6fe8d6102e237a0bb2528fe0",
     "3c14901fd4e56ae0af3db8ed9c21c747",
     "4138384d52f2fc450adf9c2076524c3c",
     "4e76aca7426266b6f5af20fcc0fdbd09",
@@ -4005,6 +4002,9 @@
     "a63dd97ca18352c68b93e540226f0c79",
     "930623854f8b35300605acc9e8908590",
     "2a4c95ee176012291c5082b44d015f42",
-    "a94965a07d2582067f03cfa27c1f206b"
+    "a94965a07d2582067f03cfa27c1f206b",
+    "79b5c2e7928d3ab33c9c64a934a07299",
+    "8eacd4a6e2b6142626b80db3d04dc95f",
+    "1646f34419df0dfeb1826fa3e7abaa1c"
   ]
 }
