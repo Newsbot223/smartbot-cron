@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-wollen-venezolanisches-kartell-auf-terrorliste-setzen-praesident-trump-gespraeche-mit-maduro-moe-100.html",
-    "https://www.aljazeera.com/news/2025/11/17/russia-ukraine-war-list-of-key-events-day-1362?traffic_source=rss",
-    "https://www.spiegel.de/politik/deutschland/lars-klingbeil-gruene-kritisieren-chinareise-scharf-a-216dc379-6e6b-48ea-889b-c3ff9b20f860#ref=rss",
     "https://www.deutschlandfunk.de/asienreise-vizekanzler-klingbeil-reist-nach-china-100.html",
     "https://www.deutschlandfunk.de/konflikt-zwischen-venezuela-und-usa-aktuelle-entwicklungen-100.html",
     "https://www.faz.net/aktuell/politik/inland/zielzahlen-der-koalition-langsam-soll-die-truppe-wachsen-accg-110783419.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mehr-als-41-000-ungueltige-stimmzettel-bei-wahl-in-hongkong-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-treffen-mit-merz-starmer-und-macron-in-london-100.html",
     "https://www.deutschlandfunk.de/zahl-der-firmeninsolvenzen-auf-hoechststand-104.html",
-    "https://www.deutschlandfunk.de/leipziger-buchpreis-geht-an-den-schriftsteller-miljenko-jergovi-102.html"
+    "https://www.deutschlandfunk.de/leipziger-buchpreis-geht-an-den-schriftsteller-miljenko-jergovi-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-russland-bleibt-gefahr-fuer-frieden-und-freiheit-102.html",
+    "https://www.deutschlandfunk.de/gericht-in-china-ordnet-schadenersatz-fuer-angehoerige-von-opfern-an-100.html",
+    "https://www.aljazeera.com/gallery/2025/12/8/syrians-celebrate-anniversary-of-bashar-al-assads-fall?traffic_source=rss"
   ],
   "content_hashes": [
-    "b0b60ab2055e2aa277f90e1b6035f3b7",
-    "da3f1cdec87e797f0343d59f5291f26f",
-    "8e7855be42c4781328c6e2106f635fd6",
     "34ecb8217b42a8efd0e71c85446a4e22",
     "ff05e4ac0ff5d5ff35322e957f3fd7e3",
     "b93089621f9985c9e83563864947e174",
@@ -2001,12 +1998,12 @@
     "e62ca8b9fbfbc2a0ee7e589285764c40",
     "02900bdc538edadef17a765a61ba9d4f",
     "24838f718f4ffc48827b035e4f065c96",
-    "3278cf560c6e0da8346a0270a013d502"
+    "3278cf560c6e0da8346a0270a013d502",
+    "64d1543464841d17beacfcff758d9b8d",
+    "4f9978db7bd162a61a05a0ba13d32104",
+    "b5a8ea1b23ac9d8699e0d46bd71eae23"
   ],
   "titles": [
-    "Kampf gegen Drogenschmuggel - USA wollen venezolanisches Kartell auf Terrorliste setzen; Präsident Trump: Gespräche mit Maduro möglich",
-    "Russia-Ukraine war: List of key events, day 1,362",
-    "Lars Klingbeil: Grüne kritisieren Chinareise scharf",
     "Asienreise - Vizekanzler Klingbeil reist nach China",
     "USA und Venezuela - Sorge vor einer Militärintervention",
     "Zielzahlen der Koalition: Langsam soll die Truppe wachsen",
@@ -3003,12 +3000,12 @@
     "Neuer Höchststand - Mehr als 41.000 ungültige Stimmzettel bei Wahl in Hongkong",
     "Ukraine-Krieg - Selenskyj zu Treffen mit Merz, Starmer und Macron in London",
     "Creditreform - Zahl der Firmeninsolvenzen auf Höchststand",
-    "Literatur - Leipziger Buchpreis geht an den Schriftsteller Miljenko Jergović"
+    "Literatur - Leipziger Buchpreis geht an den Schriftsteller Miljenko Jergović",
+    "Neue US-Sicherheitsstrategie - Bundesregierung: Russland bleibt Gefahr für Frieden und Freiheit",
+    "Flug MH370 - Gericht in China ordnet Schadenersatz für Angehörige von Opfern an",
+    "Syrians celebrate anniversary of Bashar al-Assad’s fall"
   ],
   "hashes": [
-    "874d80ef2b6f95fabc125df2d8aec39e",
-    "2539be683bc9cf886925ff5c223ebb0a",
-    "3dce1bf83d12a734d5dfd65489941798",
     "ecfd5062c01ee32eb8e7b1de40fea670",
     "3ff6e09b36d9e79b93c56977176ecd9f",
     "001dfe9656385efb6500e6e65296346f",
@@ -4005,6 +4002,9 @@
     "1f6551cf83db4e28d3875f9a4276f0b6",
     "309a8a7293b8e3dc679d91027e2e5f5a",
     "6408fd9c251546d77d0b56003631c186",
-    "8326062a0f096770f06e6cc5c87b368e"
+    "8326062a0f096770f06e6cc5c87b368e",
+    "997e8eeee1704b0b6ce03ff01f939f87",
+    "25969c2f66ab6acc67c037c6f4e62da3",
+    "cd2d7028b70a8e70ffdede91aaec406e"
   ]
 }
