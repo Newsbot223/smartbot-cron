@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-militaer-meldet-ankunft-von-flugzeugtraeger-in-der-karibik-102.html",
-    "https://www.spiegel.de/gesundheit/vogelgrippe-mensch-in-den-usa-laut-behoerden-mit-h5n5-infiziert-a-bc5a15bc-721f-47fb-b37d-7ff8b8b1b367#ref=rss",
     "https://www.deutschlandfunk.de/spd-stellt-kuenftig-nicht-mehr-oberbuergermeister-in-kiel-stichwahl-am-7-dezember-102.html",
     "https://www.deutschlandfunk.de/viele-tote-bei-minen-vorfall-im-kongo-100.html",
     "https://www.deutschlandfunk.de/who-konferenz-beraet-ueber-umgang-mit-tabak-und-nikotin-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/linke-kritisiert-kopplung-von-rente-an-beitragsjahre-wer-studiert-darf-nicht-bestraft-werden-100.html",
     "https://www.deutschlandfunk.de/massenhaft-von-betruegern-genutzte-telefonnummern-abgeschaltet-100.html",
     "https://www.deutschlandfunk.de/gewerkschaft-fordert-beim-gehalt-sechs-prozent-mehr-fuer-das-lufthansa-bodenpersonal-100.html",
-    "https://www.spiegel.de/panorama/justiz/aachen-mann-mit-28-aliasnamen-festgenommen-a-0c7cba1f-e004-4a85-abcd-ae7046a57cd2#ref=rss"
+    "https://www.spiegel.de/panorama/justiz/aachen-mann-mit-28-aliasnamen-festgenommen-a-0c7cba1f-e004-4a85-abcd-ae7046a57cd2#ref=rss",
+    "https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-verteilung-von-asylbewerbern-102.html",
+    "https://www.deutschlandfunk.de/nach-zwischenfall-mit-kampfflugzeugen-japan-bestellt-chinesischen-botschafter-ein-100.html"
   ],
   "content_hashes": [
-    "bf362003b500bef76972be3637543661",
-    "0da5bd846502dadc64c21eff26c6d171",
     "cbfd3bac1cc9adbee44b6dbc4d20400c",
     "40f0771fb27b99b8111b9e04942c642a",
     "4eac828f5f2326165a617dd2d1ef4e09",
@@ -2001,11 +1999,11 @@
     "e0da23a72259895c041a67caae275632",
     "4c95d168a747b199a4f980c1c940553e",
     "bcb95ebf3934906b5673260d7b1d8ef0",
-    "d56fcd97afdbdb6854f82752e5164cce"
+    "d56fcd97afdbdb6854f82752e5164cce",
+    "0ef7b8d8cdd076d595400241ef78d923",
+    "fbc9d08edf80c42b4b5255d807507bf8"
   ],
   "titles": [
-    "Kampf gegen Drogenschmuggel - US-Militär meldet Ankunft von Flugzeugträger in der Karibik",
-    "Vogelgrippe: Mensch in den USA laut Behörden mit H5N5 infiziert",
     "Schleswig-Holstein - SPD stellt künftig nicht mehr Oberbürgermeister in Kiel - Stichwahl am 7. Dezember",
     "Westafrika - Viele Tote bei Minen-Vorfall im Kongo",
     "Genf - WHO-Konferenz berät über Umgang mit Tabak und Nikotin",
@@ -3003,11 +3001,11 @@
     "Alterssicherung - Linke kritisiert Kopplung von Rente an Beitragsjahre: \"Wer studiert, darf nicht bestraft werden\"",
     "Enkeltrick und Anlagebetrug - Massenhaft von Betrügern genutzte Telefonnummern abgeschaltet",
     "Verdi - Gewerkschaft fordert beim Gehalt sechs Prozent mehr für das Lufthansa-Bodenpersonal",
-    "Aachen: Mann mit 28 Aliasnamen festgenommen"
+    "Aachen: Mann mit 28 Aliasnamen festgenommen",
+    "Brüssel - EU-Staaten einigen sich auf Verteilung von Asylbewerbern",
+    "Tokio - Nach Zwischenfall mit Kampfflugzeugen:Japan bestellt chinesischen Botschafter ein"
   ],
   "hashes": [
-    "ad3538e807c77acc94a1f23f4f6a82f1",
-    "14da1aa52b0d946847438fbe77c48de7",
     "364c46abefe717707f2a75e2f6443cc7",
     "f83c805731f9c7b244ae5c667cfa44a1",
     "9363e146a154c9f2ed33eda12b893a44",
@@ -4005,6 +4003,8 @@
     "5282b3174abe7c36e76b6056cce98de5",
     "3bad4da86de5a77a0a9a7427e265112f",
     "c9d86d852929b954cd1d02d24cbd0db5",
-    "916c6450876c6b2b1c84eff560458b57"
+    "916c6450876c6b2b1c84eff560458b57",
+    "77a198fe84532ab21a1fb30b4aacc0d2",
+    "4884480f4fcb47bfcaaed426cb6c7b06"
   ]
 }
