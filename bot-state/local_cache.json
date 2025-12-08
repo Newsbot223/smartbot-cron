@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stimmung-truebt-sich-ein-fehlende-auftraege-104.html",
-    "https://www.deutschlandfunk.de/mehr-als-36-000-haushalte-nach-russischem-angriff-ohne-strom-102.html",
-    "https://www.deutschlandfunk.de/anschlagsdrohung-gegen-viele-schulen-ueber-900-notrufe-104.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-bei-ob-wahl-in-kiel-vorn-stichwahl-gegen-gruenen-accg-110784027.html",
     "https://www.deutschlandfunk.de/ex-regierungschefin-hasina-zum-tod-verurteilt-100.html",
     "https://www.spiegel.de/politik/israel-gaza-krieg-bundesregierung-will-wieder-alle-ruestungsgueter-an-israel-liefern-a-e4fede08-8b7a-4fec-8197-066063411264#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/prozess-gegen-mutmasslichen-drahtzieher-des-koelner-drogenkriegs-begonnen-106.html",
     "https://www.deutschlandfunk.de/selenskyj-beraet-mit-merz-starmer-und-macron-in-london-102.html",
     "https://www.deutschlandfunk.de/macron-weitere-beratungen-ueber-us-plan-fuer-die-ukraine-100.html",
-    "https://www.deutschlandfunk.de/bieterstreit-mit-netflix-paramount-bietet-108-milliarden-dollar-fuer-warner-bros-102.html"
+    "https://www.deutschlandfunk.de/bieterstreit-mit-netflix-paramount-bietet-108-milliarden-dollar-fuer-warner-bros-102.html",
+    "https://www.deutschlandfunk.de/niederlande-steuern-auf-minderheitsregierung-zu-102.html",
+    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-serbischer-teilrepublik-srpska-wird-teilweise-neu-ausgezaehlt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kriminalitaet-und-migration-fatale-folgen-110799733.html"
   ],
   "content_hashes": [
-    "b688c673e9bbed757da81f9ed742f1d4",
-    "74bc06959b57c9391a8f20dcd5db440b",
-    "8908ea4a54803703fcbc1d3ac7ff3142",
     "9c594bc4285be432e89af799abeb76ad",
     "d1ba60c49d548ab06e5d1decb4521fbd",
     "48d98661935f678ec75bc0ac842a394c",
@@ -2001,12 +1998,12 @@
     "c3ffdc71b5a070a34c60bc855b631ae3",
     "a62b050e7a2f7213d9c6aa017c815aa8",
     "a3b2e32a67d6950ae5595bbc2b1af827",
-    "c039a9aa5988900991a5c14e22d34dfa"
+    "c039a9aa5988900991a5c14e22d34dfa",
+    "09518638494c0cbe0b474f97eeeae5ed",
+    "37e1c4c5917762fc5eb1fa635a7b2602",
+    "c6c6ee7501dabaff8f0021a09d0bc354"
   ],
   "titles": [
-    "Wohnungsbau - Stimmung trübt sich ein - \"Fehlende Aufträge\"",
-    "Odessa - Mehr als 36.000 Haushalte nach russischem Angriff ohne Strom",
-    "Berlin - Anschlagsdrohung gegen viele Schulen - über 900 Notrufe",
     "Schleswig-Holstein: CDU liegt bei OB-Wahl in Kiel vorn",
     "Bangladesch - Ex-Regierungschefin Hasina zum Tod verurteilt",
     "Israel-Gaza-Krieg: Bundesregierung will wieder alle Rüstungsgüter an Israel liefern",
@@ -3003,12 +3000,12 @@
     "Landgericht - Prozess gegen mutmaßlichen Drahtzieher des Kölner Drogenkriegs begonnen",
     "Ukraine-Krieg - Selenskyj berät mit Merz, Starmer und Macron in London",
     "Treffen in London - Macron: Weitere Beratungen über US-Plan für die Ukraine",
-    "Medien - Bieterstreit mit Netflix: Paramount bietet 108 Milliarden Dollar für Warner Bros"
+    "Medien - Bieterstreit mit Netflix: Paramount bietet 108 Milliarden Dollar für Warner Bros",
+    "Nach Parlamentswahl - Niederlande steuern auf Minderheitsregierung zu",
+    "Bosnien und Herzegowina - Präsidentschaftswahl in serbischer Teilrepublik Srpska wird teilweise neu ausgezählt",
+    "Migration und Kriminalität: Fatale Folgen des Kontrollverlustes"
   ],
   "hashes": [
-    "50912209557779e54eba362c533c60c3",
-    "4a2355aa7abb4fbe977ce8392783cab0",
-    "41ee996cd38d47e6630374a9ae941d56",
     "00397cdee98fe71d3d26964697b9e898",
     "ca47e057bdf3578f9873260794d03b71",
     "118eeeec226f9e4c3c60f4f24568b4db",
@@ -4005,6 +4002,9 @@
     "f744960d485eb8fcb0aa1a7bff9b19f4",
     "a381e06627aa45f3cb86acdf8bd1bc19",
     "9b9ed4029c4ba76db1107d79e908d458",
-    "83a8070d76fa7c51574ae10113b1e10a"
+    "83a8070d76fa7c51574ae10113b1e10a",
+    "ecba743105849d71549d7109fad3f50c",
+    "569c75327d183b1dac18222e993946df",
+    "aa07f57f50f0a249bb6a70e70761fe26"
   ]
 }
