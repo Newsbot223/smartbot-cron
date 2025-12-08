@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auktionshaus-sagt-judenstern-versteigerung-ab-100.html",
-    "https://www.deutschlandfunk.de/ukrainischer-aussenminister-bittet-um-geld-fuer-drohnen-100.html",
-    "https://www.spiegel.de/panorama/gesellschaft/neuss-auktionshaus-sagt-versteigerung-von-holocaust-dokumenten-ab-a-6feef458-a924-4c21-92ad-3f1b8a612383#ref=rss",
     "https://www.deutschlandfunk.de/us-militaer-meldet-ankunft-von-flugzeugtraeger-in-der-karibik-102.html",
     "https://www.spiegel.de/gesundheit/vogelgrippe-mensch-in-den-usa-laut-behoerden-mit-h5n5-infiziert-a-bc5a15bc-721f-47fb-b37d-7ff8b8b1b367#ref=rss",
     "https://www.deutschlandfunk.de/spd-stellt-kuenftig-nicht-mehr-oberbuergermeister-in-kiel-stichwahl-am-7-dezember-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rheinmetall-erhaelt-von-bundeswehr-grossauftrag-fuer-panzermunition-102.html",
     "https://www.spiegel.de/wirtschaft/erneuerbare-energie-wind-und-sonne-liefern-inzwischen-fast-zwei-drittel-des-stroms-a-343b8799-ce2a-4506-9470-8bccd8487ec2#ref=rss",
     "https://www.aljazeera.com/news/2025/12/8/how-many-syrians-have-returned-home-one-year-since-the-fall-of-al-assad?traffic_source=rss",
-    "https://www.deutschlandfunk.de/linke-kritisiert-kopplung-von-rente-an-beitragsjahre-wer-studiert-darf-nicht-bestraft-werden-100.html"
+    "https://www.deutschlandfunk.de/linke-kritisiert-kopplung-von-rente-an-beitragsjahre-wer-studiert-darf-nicht-bestraft-werden-100.html",
+    "https://www.deutschlandfunk.de/massenhaft-von-betruegern-genutzte-telefonnummern-abgeschaltet-100.html",
+    "https://www.deutschlandfunk.de/gewerkschaft-fordert-beim-gehalt-sechs-prozent-mehr-fuer-das-lufthansa-bodenpersonal-100.html",
+    "https://www.spiegel.de/panorama/justiz/aachen-mann-mit-28-aliasnamen-festgenommen-a-0c7cba1f-e004-4a85-abcd-ae7046a57cd2#ref=rss"
   ],
   "content_hashes": [
-    "285ea6183b394c4116c1913be9901f1b",
-    "8bf5201085dfb743991a24fbcfde8a69",
-    "9b8c309cda6011cbcbe940bdf2f82af0",
     "bf362003b500bef76972be3637543661",
     "0da5bd846502dadc64c21eff26c6d171",
     "cbfd3bac1cc9adbee44b6dbc4d20400c",
@@ -2001,12 +1998,12 @@
     "fdf380ea5ee3d37ec988771393bc578e",
     "96f494def482225e8086f1e47a9c2a14",
     "9efea851028ea22281739b37b002b0cc",
-    "e0da23a72259895c041a67caae275632"
+    "e0da23a72259895c041a67caae275632",
+    "4c95d168a747b199a4f980c1c940553e",
+    "bcb95ebf3934906b5673260d7b1d8ef0",
+    "d56fcd97afdbdb6854f82752e5164cce"
   ],
   "titles": [
-    "Nach Kritik - Auktionshaus sagt Judenstern-Versteigerung ab",
-    "Russischer Angriffskrieg - Ukrainischer Außenminister bittet um Geld für Drohnen",
-    "Neuss: Auktionshaus sagt Versteigerung von Holocaust-Dokumenten ab",
     "Kampf gegen Drogenschmuggel - US-Militär meldet Ankunft von Flugzeugträger in der Karibik",
     "Vogelgrippe: Mensch in den USA laut Behörden mit H5N5 infiziert",
     "Schleswig-Holstein - SPD stellt künftig nicht mehr Oberbürgermeister in Kiel - Stichwahl am 7. Dezember",
@@ -3003,12 +3000,12 @@
     "Rüstungsindustrie - Rheinmetall erhält von Bundeswehr Großauftrag für Panzermunition",
     "Erneuerbare Energie: Wind und Sonne liefern inzwischen fast zwei Drittel des Stroms",
     "How many Syrians have returned home one year since the fall of al-Assad?",
-    "Alterssicherung - Linke kritisiert Kopplung von Rente an Beitragsjahre: \"Wer studiert, darf nicht bestraft werden\""
+    "Alterssicherung - Linke kritisiert Kopplung von Rente an Beitragsjahre: \"Wer studiert, darf nicht bestraft werden\"",
+    "Enkeltrick und Anlagebetrug - Massenhaft von Betrügern genutzte Telefonnummern abgeschaltet",
+    "Verdi - Gewerkschaft fordert beim Gehalt sechs Prozent mehr für das Lufthansa-Bodenpersonal",
+    "Aachen: Mann mit 28 Aliasnamen festgenommen"
   ],
   "hashes": [
-    "b07a8f21b77f3b4a74209a3b79e4a0ad",
-    "7fb18087042787ff15470d3e984edd5d",
-    "5999961509503759ac34353156a86509",
     "ad3538e807c77acc94a1f23f4f6a82f1",
     "14da1aa52b0d946847438fbe77c48de7",
     "364c46abefe717707f2a75e2f6443cc7",
@@ -4005,6 +4002,9 @@
     "05c5ab55cb245203dd0af1c6bfad6566",
     "6ae000ad569d4f02e71fcc0ff409763d",
     "338e361ee689cadbe536522d16449494",
-    "5282b3174abe7c36e76b6056cce98de5"
+    "5282b3174abe7c36e76b6056cce98de5",
+    "3bad4da86de5a77a0a9a7427e265112f",
+    "c9d86d852929b954cd1d02d24cbd0db5",
+    "916c6450876c6b2b1c84eff560458b57"
   ]
 }
