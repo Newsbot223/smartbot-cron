@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/asienreise-vizekanzler-klingbeil-reist-nach-china-100.html",
-    "https://www.deutschlandfunk.de/konflikt-zwischen-venezuela-und-usa-aktuelle-entwicklungen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/zielzahlen-der-koalition-langsam-soll-die-truppe-wachsen-accg-110783419.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-debatte-um-gaslieferungen-an-russland-100.html",
     "https://www.spiegel.de/wirtschaft/service/gesundheitsorganisation-wirft-der-tabakindustrie-ablenkung-vor-a-4d5ff102-0975-435f-b018-718cfaec78f7#ref=rss",
     "https://www.deutschlandfunk.de/schwarz-gruppe-baut-ki-rechenzentrum-im-spreewald-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/leipziger-buchpreis-geht-an-den-schriftsteller-miljenko-jergovi-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-russland-bleibt-gefahr-fuer-frieden-und-freiheit-102.html",
     "https://www.deutschlandfunk.de/gericht-in-china-ordnet-schadenersatz-fuer-angehoerige-von-opfern-an-100.html",
-    "https://www.aljazeera.com/gallery/2025/12/8/syrians-celebrate-anniversary-of-bashar-al-assads-fall?traffic_source=rss"
+    "https://www.aljazeera.com/gallery/2025/12/8/syrians-celebrate-anniversary-of-bashar-al-assads-fall?traffic_source=rss",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-sieht-fortschritte-mit-china-in-handelsfragen-100.html",
+    "https://www.deutschlandfunk.de/meta-weniger-personalisierte-werbung-fuer-eu-nutzer-durch-bezahlmodell-moeglich-102.html",
+    "https://www.deutschlandfunk.de/prozess-gegen-mutmasslichen-drahtzieher-des-koelner-drogenkriegs-begonnen-106.html"
   ],
   "content_hashes": [
-    "34ecb8217b42a8efd0e71c85446a4e22",
-    "ff05e4ac0ff5d5ff35322e957f3fd7e3",
-    "b93089621f9985c9e83563864947e174",
     "7d3ac44fefd5a540c2a0aed098eed65b",
     "6bb4fae782687ebe3a5b4b5aa5dcdeb5",
     "4529176a3c405c91b448aa44e59e5776",
@@ -2001,12 +1998,12 @@
     "3278cf560c6e0da8346a0270a013d502",
     "64d1543464841d17beacfcff758d9b8d",
     "4f9978db7bd162a61a05a0ba13d32104",
-    "b5a8ea1b23ac9d8699e0d46bd71eae23"
+    "b5a8ea1b23ac9d8699e0d46bd71eae23",
+    "8b78ff14a39c31858cd0a5b98ddd7cb5",
+    "87a27ad9b273045efc5034083e890ed7",
+    "c3ffdc71b5a070a34c60bc855b631ae3"
   ],
   "titles": [
-    "Asienreise - Vizekanzler Klingbeil reist nach China",
-    "USA und Venezuela - Sorge vor einer Militärintervention",
-    "Zielzahlen der Koalition: Langsam soll die Truppe wachsen",
     "Gas aus Russland - Kretschmer entfacht wieder eine Debatte",
     "Gesundheitsorganisation wirft der Tabakindustrie Ablenkung vor",
     "Wirtschaft - Schwarz Gruppe baut KI-Rechenzentrum im Spreewald",
@@ -3003,12 +3000,12 @@
     "Literatur - Leipziger Buchpreis geht an den Schriftsteller Miljenko Jergović",
     "Neue US-Sicherheitsstrategie - Bundesregierung: Russland bleibt Gefahr für Frieden und Freiheit",
     "Flug MH370 - Gericht in China ordnet Schadenersatz für Angehörige von Opfern an",
-    "Syrians celebrate anniversary of Bashar al-Assad’s fall"
+    "Syrians celebrate anniversary of Bashar al-Assad’s fall",
+    "Peking - Außenminister Wadephul sieht Fortschritte mit China in Handelsfragen",
+    "Daten - Meta: Weniger personalisierte Werbung für EU-Nutzer durch Bezahlmodell möglich",
+    "Landgericht - Prozess gegen mutmaßlichen Drahtzieher des Kölner Drogenkriegs begonnen"
   ],
   "hashes": [
-    "ecfd5062c01ee32eb8e7b1de40fea670",
-    "3ff6e09b36d9e79b93c56977176ecd9f",
-    "001dfe9656385efb6500e6e65296346f",
     "79d4fbfdea2c2ed596117b7b6baf23f2",
     "afcbfd7ec15d918e9e5eec3c1477ddb4",
     "1e57c06a6b15187ae9de8073802988bc",
@@ -4005,6 +4002,9 @@
     "8326062a0f096770f06e6cc5c87b368e",
     "997e8eeee1704b0b6ce03ff01f939f87",
     "25969c2f66ab6acc67c037c6f4e62da3",
-    "cd2d7028b70a8e70ffdede91aaec406e"
+    "cd2d7028b70a8e70ffdede91aaec406e",
+    "2c519641e5bed7f7cf06dad553676aa5",
+    "2f378ffaba49b6236abf9802a831c063",
+    "f744960d485eb8fcb0aa1a7bff9b19f4"
   ]
 }
