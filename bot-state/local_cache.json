@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/weltklimakonferenz-ein-bisschen-cottbus-auf-der-cop-110784688.html",
-    "https://www.deutschlandfunk.de/deutsche-marine-kauft-waffensteuerungs-und-kommunikationssysteme-von-lockheed-martin-100.html",
-    "https://www.deutschlandfunk.de/deutschland-kuendigt-60-millionen-euro-fuer-globalen-klimafonds-an-102.html",
     "https://www.deutschlandfunk.de/grossbritannien-verschaerft-asylrecht-aufenthalt-nur-noch-30-monate-102.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-billigt-resolution-zum-gaza-friedensplan-von-us-praesident-trump-102.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-stimmt-fuer-militaerische-absicherung-von-gaza-friedensplan-der-usa-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/missbrauch-im-internet-der-kinderschutz-kommt-zu-kurz-110797218.html",
     "https://www.deutschlandfunk.de/andrej-babis-ist-neuer-ministerpraesident-der-tschechischen-republik-102.html",
     "https://www.deutschlandfunk.de/weitere-tote-bei-militaerischen-angriffen-zwischen-thailand-und-kambodscha-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-nach-gespraechen-mit-regierungsvertretern-in-peking-optimistisch-102.html"
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-nach-gespraechen-mit-regierungsvertretern-in-peking-optimistisch-102.html",
+    "https://www.deutschlandfunk.de/bundesverfassungsschutz-sieht-besorgniserregende-entwicklungen-im-linksextremismus-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-leitet-untersuchung-gegen-google-ein-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/ford-und-renault-wollen-gemeinsam-guenstige-e-autos-bauen-a-a0ac5d97-0f1f-4f60-812a-4e4c1d366d64#ref=rss"
   ],
   "content_hashes": [
-    "3f1c54b9a005b8666e9efa33b2531174",
-    "e224e8e8b31af8b18d8781c7278444e9",
-    "2adef0b2ba6809e470d07d7f9ce20a4e",
     "587f7dae2b08e72416fda933f5349e06",
     "549293acc5bcf1b85bbc12dcdcf5601f",
     "75f065daf9ceacfe275a88a13e0afd33",
@@ -2001,12 +1998,12 @@
     "6c093924d0cf95f65e49e4b23ec86589",
     "434c63141503205515ed5abefc086956",
     "d290839963c3063e605eae58e5f7c455",
-    "d51586f91080e7d86b53755171cc5f18"
+    "d51586f91080e7d86b53755171cc5f18",
+    "cc9f9a2de0c82d5104f22a5d79edbcd5",
+    "b6d9dcb890c4542a1b63baa66fad4195",
+    "0b3f53bf7b318fe948be407e3846a680"
   ],
   "titles": [
-    "COP in Brasilien: Ein Hauch von Cottbus auf der Weltklimakonferenz",
-    "Rüstungsgeschäft - Deutsche Marine kauft Waffensteuerungs- und Kommunikationssysteme von Lockheed Martin",
-    "COP30 in Belém - Deutschland kündigt 60 Millionen Euro für globalen Klimafonds an",
     "Migrations-Politik - Großbritannien verschärft Asylrecht - Aufenthalt nur noch 30 Monate",
     "New York - UNO-Sicherheitsrat billigt Resolution zum Gaza-Friedensplan von US-Präsident Trump",
     "New York - UNO-Sicherheitsrat stimmt für militärische Absicherung von Gaza-Friedensplan der USA",
@@ -3003,12 +3000,12 @@
     "EU-Gesetzgebung: Der Kinderschutz kommt zu kurz",
     "Machtwechsel - Andrej Babis ist neuer Ministerpräsident der Tschechischen Republik",
     "Grenzkonflikt - Weitere Tote bei militärischen Angriffen zwischen Thailand und Kambodscha",
-    "China-Reise - Außenminister Wadephul nach Gesprächen mit Regierungsvertretern in Peking optimistisch"
+    "China-Reise - Außenminister Wadephul nach Gesprächen mit Regierungsvertretern in Peking optimistisch",
+    "Medienbericht - Bundesverfassungsschutz sieht \"besorgniserregende Entwicklungen\" im Linksextremismus",
+    "Mögliche Verstöße gegen Wettbewerbsrecht - EU-Kommission leitet Untersuchung gegen Google ein",
+    "Ford und Renault wollen gemeinsam günstige E-Autos bauen"
   ],
   "hashes": [
-    "53eb9752acafd8739b5e53955d970f5d",
-    "f5546857ceb36aec402886aa1ad80019",
-    "6b9473bf9a85e20cef40bfcba92b7f1c",
     "dc5cf2fdd2ab63e810d546c2edd83590",
     "d081946b072c2e64ce3b81aa9fb0e81b",
     "3b5e82c37dc6ebf4918c3cbde6cbb6cf",
@@ -4005,6 +4002,9 @@
     "0b77228a589219588bec228aaed85969",
     "e593a03d2d84fa76aa9a35bf76a86bfc",
     "eb3feb570d81aea9d1c521f6f83cb6dc",
-    "571cc67ee588c6d670b6c34b1675e4d1"
+    "571cc67ee588c6d670b6c34b1675e4d1",
+    "64c96a484d7a90c82452e048280d2ce0",
+    "6aac341d9231c7f4851bcd8dff553834",
+    "69915e08823da4f47b2ff521d03da8cf"
   ]
 }
