@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/serbiens-aussenminister-bekennt-sich-zu-eu-kurs-seines-landes-100.html",
-    "https://www.deutschlandfunk.de/prozess-in-syrien-wegen-massaker-an-alawiten-100.html",
     "https://www.deutschlandfunk.de/bsw-europaabgeordnete-raeumt-kontakte-zu-kremltreuem-geschaeftsmann-ein-100.html",
     "https://www.deutschlandfunk.de/getoeteter-polizist-in-voelklingen-staatsanwaltschaft-morddanklage-gegen-18-jaehrigen-100.html",
     "https://www.faz.net/aktuell/politik/inland/zurueck-nach-syrien-wie-syrer-in-deutschland-ueber-abschiebungen-denken-110784735.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-europa-macht-keine-gute-arbeit-100.html",
     "https://www.deutschlandfunk.de/mindestens-150-000-menschen-fliehen-vor-aufgeflammten-grenzkonflikt-zwischen-thailand-und-kambodscha-100.html",
     "https://www.deutschlandfunk.de/bericht-haushaltsausschuss-liegen-neue-ruestungsprojekte-im-umfang-von-52-milliarden-euro-vor-rheinm-100.html",
-    "https://www.deutschlandfunk.de/australiens-premier-verteidigt-social-media-verbot-fuer-kinder-100.html"
+    "https://www.deutschlandfunk.de/australiens-premier-verteidigt-social-media-verbot-fuer-kinder-100.html",
+    "https://www.deutschlandfunk.de/pakistanische-taliban-toeten-sechs-soldaten-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-in-china-viele-differenzen-wenig-harmonie-102.html"
   ],
   "content_hashes": [
-    "3967f3f00f0aba23ba4a0b2aa38d78e2",
-    "690708f92b0aabe96f13659bd703a680",
     "2454d7d19b5176431b2b44e30157d4ab",
     "34a3e82faaea5db0a1083d45d97fbd36",
     "e3d9c98900eabb4c3beee4242f13fed1",
@@ -2001,11 +1999,11 @@
     "c1f8fab4753b11d3bc6c7f250d0744d5",
     "88c7579b6a459551babe02e03b2c5edd",
     "0cea2783cdc85212bf30c4abffb77220",
-    "7b1f7dcaa502ad8c02ce3e0af365a1d2"
+    "7b1f7dcaa502ad8c02ce3e0af365a1d2",
+    "0032bda5a5f6de18bd041ecaef70dd46",
+    "48c8cf8ed859c5f8de15689a5bd6d1e7"
   ],
   "titles": [
-    "Westbalkan-Reise - Serbiens Außenminister bekennt sich zu EU-Kurs seines Landes",
-    "Aleppo - Prozess in Syrien wegen Massaker an Alawiten",
     "Russland-Reise - BSW-Europaabgeordnete räumt Kontakte zu kremltreuem Geschäftsmann ein",
     "Saarland - Getöteter Polizist in Völklingen: Staatsanwaltschaft Morddanklage gegen 18-Jährigen",
     "Syrer in Deutschland: Nie wieder Syrien – oder doch?",
@@ -3003,11 +3001,11 @@
     "Transatlantische Verstimmung - Trump: Europa macht keine gute Arbeit",
     "Südostasien - Mindestens 150.000 Menschen fliehen vor aufgeflammten Grenzkonflikt zwischen Thailand und Kambodscha",
     "Militär - Bericht: Haushaltsausschuss liegen neue Rüstungsprojekte im Umfang von 52 Milliarden Euro vor - Rheinmetall soll Auftrag für Satellitensystem erhalten",
-    "Vor Inkrafttreten - Australiens Premier verteidigt Social-Media-Verbot für Kinder"
+    "Vor Inkrafttreten - Australiens Premier verteidigt Social-Media-Verbot für Kinder",
+    "Grenze zu Afghanistan - Pakistanische Taliban töten sechs Soldaten",
+    "Wadephuls Chinareise - Schwierige Treffen, aber von Eklat ist keine Rede mehr"
   ],
   "hashes": [
-    "0c04a69df2d34bc5adca638aa48d8f53",
-    "faacf0f53f84611e05e369fdd5f93a02",
     "020a1f0422b4f572836a1d6b0a0fea69",
     "cef906577dd0d0e9d864482c85d5b2a0",
     "170cd71cd1322bfdb6ca87d4e7eb8658",
@@ -4005,6 +4003,8 @@
     "4d945b00b1a1c56cedc0b6856d18d4b8",
     "4c5c1b8ca9cd58a77c4c55ff8953635a",
     "719e12427a6ccf008e11fa19a46d1022",
-    "6000ad0dabb9f09eb4292ca2409f2932"
+    "6000ad0dabb9f09eb4292ca2409f2932",
+    "2a01550d3fefca32b7acc91c4f69b3e7",
+    "af6ebbe5b534f0bc43d85a34d62a4819"
   ]
 }
