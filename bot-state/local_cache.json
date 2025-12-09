@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/linkes-lager-in-der-krise-hoffen-auf-mamdani-effekt-bleibt-wunschdenken-accg-110783116.html",
-    "https://www.deutschlandfunk.de/afd-klage-gegen-ex-polizeipraesidenten-teilweise-erfolgreich-102.html",
-    "https://www.deutschlandfunk.de/pianist-lang-lang-erhaelt-hoch-dotierten-musikpreis-102.html",
-    "https://www.spiegel.de/politik/lars-klingbeil-bundesfinanzminister-pocht-in-china-auf-zugang-zu-kritischen-rohstoffen-a-bdc81d22-f3d5-415e-91bd-1bd6cb972f01#ref=rss",
-    "https://www.spiegel.de/politik/deutschland/hendrik-streeck-cdu-politiker-will-aussage-zur-versorgung-alter-menschen-klarstellen-a-536cd9ae-428b-4c75-a810-a02d60fb1f9d#ref=rss",
-    "https://www.deutschlandfunk.de/spd-bleibt-in-renten-debatte-hart-100.html",
     "https://www.deutschlandfunk.de/weinachtsmaerkte-starten-innenminister-rufen-zu-unbeschwertem-feiern-auf-100.html",
     "https://www.faz.net/aktuell/politik/inland/worum-es-beim-rentenstreit-in-der-union-geht-110784426.html",
     "https://www.deutschlandfunk.de/weiter-keine-einigung-in-der-koalition-merz-hofft-auf-einigung-bis-jahresende-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/regierung-meldet-nach-putschversuch-mehrere-todesopfer-102.html",
     "https://www.deutschlandfunk.de/praesidentschaftswahl-in-serbischer-teilrepublik-wird-teilweise-neu-ausgezaehlt-102.html",
     "https://www.deutschlandfunk.de/niederlande-kuenftig-wohl-mit-minderheitsregierung-102.html",
-    "https://www.deutschlandfunk.de/kappe-cdu-auch-zwischen-berufsgruppen-differenzieren-100.html"
+    "https://www.deutschlandfunk.de/kappe-cdu-auch-zwischen-berufsgruppen-differenzieren-100.html",
+    "https://www.deutschlandfunk.de/merz-zeigt-selbstkritik-in-stadtbild-debatte-deutschland-braucht-migration-100.html",
+    "https://www.deutschlandfunk.de/ueberlegungen-zu-e-auto-foerderung-auch-fuer-gebrauchte-104.html",
+    "https://www.deutschlandfunk.de/reporter-ohne-grenzen-gaza-toedlichster-arbeitsplatz-fuer-journalisten-102.html",
+    "https://www.deutschlandfunk.de/abschiebungen-und-verteilung-eu-innenminister-einig-bei-schaerferen-asyl-regeln-100.html",
+    "https://www.spiegel.de/politik/deutschland/merz-zeigt-verstaendnis-fuer-empoerung-ueber-seine-stadtbild-aussage-a-5390f8f7-7fa1-480c-892c-05015407d36f#ref=rss",
+    "https://www.faz.net/aktuell/politik/ausland/wadephul-in-china-selbstbewusstsein-lohnt-sich-110799732.html"
   ],
   "content_hashes": [
-    "0cfbaa907b085c713e667c4a5b69574c",
-    "ba28697b8d0f49df545472bd39dba7d5",
-    "2777a5dfbc15912ae1c7bb273f7bebae",
-    "cceb4798b661dea8d0ecefd32d0e463b",
-    "c471eec1ee7cdab6b18b0e76faf45f90",
-    "f3fd3b499a3a2fad1a44f93dffc2c474",
     "e929d5917da8e70a7aec89dd9c34f578",
     "868bd4f65ad7e031382768ce1e22a596",
     "317bf10920c613ec0b2e6978879b6a6f",
@@ -2001,15 +1995,15 @@
     "de91ff53f53a32c11dc5fd4fa2172123",
     "8ab9facd4c20ea7fd5bec40219be56dc",
     "77db1e4d5ab26408a02c322e6d8214c0",
-    "42d81368128eec494abf544cd0fd8d56"
+    "42d81368128eec494abf544cd0fd8d56",
+    "aad491a2c7b461d2d79bac597a8f5a2d",
+    "146ca38774165cdd856eca62cda2d1c0",
+    "b3f82e9d3a7269d0dfe5c6924b127072",
+    "dd01248af82f410e31c1ce446400ac9f",
+    "bc2962e1cb00f8359423d91e6c364e8b",
+    "10bc355eed62a4acc964f501b5b8451a"
   ],
   "titles": [
-    "Linkes Lager in der Krise: Die Hoffnung auf den Mamdani-Effekt bleibt Wunschdenken",
-    "Oldenburg - AfD-Klage gegen Ex-Polizeipräsidenten teilweise erfolgreich",
-    "Daphne Music Award - Pianist Lang Lang erhält hoch dotierten Musikpreis",
-    "Lars Klingbeil: Bundesfinanzminister pocht in China auf Zugang zu kritischen Rohstoffen",
-    "Hendrik Streeck: CDU-Politiker will Aussage zur Versorgung alter Menschen klarstellen",
-    "Streit mit der Union - SPD bleibt in Renten-Debatte hart",
     "Brauchtum - Weinachtsmärkte starten - Innenminister rufen zu unbeschwertem Feiern auf",
     "Umstrittener Gesetzentwurf: Worum es beim Rentenstreit geht",
     "Rentenreform - Weiter keine Einigung in der Koalition - Merz hofft auf Einigung bis Jahresende",
@@ -3003,15 +2997,15 @@
     "Benin - Regierung meldet nach Putschversuch mehrere Todesopfer",
     "Bosnien und Herzegowina - Präsidentschaftswahl in serbischer Teilrepublik wird teilweise neu ausgezählt",
     "Nach Parlamentswahl - Niederlande künftig wohl mit Minderheitsregierung",
-    "Renteneintritts-Alter - Kappe (CDU): \"Auch zwischen Berufsgruppen differenzieren\""
+    "Renteneintritts-Alter - Kappe (CDU): \"Auch zwischen Berufsgruppen differenzieren\"",
+    "ARD-Fernsehen - Merz zeigt Selbstkritik in Stadtbild-Debatte: Deutschland braucht Migration",
+    "Bericht - Überlegungen zu E-Auto-Förderung auch für Gebrauchte",
+    "Jahresbericht - Reporter ohne Grenzen: Gaza tödlichster Arbeitsplatz für Journalisten",
+    "Migration - EU-Innenminister einigen sich auf schärfere Asylregeln",
+    "Merz zeigt Verständnis für Empörung über seine Stadtbild-Aussage",
+    "Wadephul in China: Selbstbewusstes Auftreten lohnt sich"
   ],
   "hashes": [
-    "087bc34bc2bcef2a3e1497417610687e",
-    "28e8c42ce545c791dffd2228fd3f8820",
-    "fcdf8ac2ca880336282044f943958bba",
-    "9cedaf58d182f6c82b411078a79fe14d",
-    "523ca07e57bf36f741aa017f899b2b87",
-    "55fbbe7f1ca94fb7fc6e2ed5125dbe9d",
     "761f6e979b70c145cd583921517c0a1f",
     "c5cd71eb4ea8464d367fc655d7e032a4",
     "f567b5a3c3a6c46a16806c8d37566855",
@@ -4005,6 +3999,12 @@
     "afb1a8ed2deff0c8f3a52b7fbdb72e1e",
     "b1f23c32203b56b8349c053583c0e7cd",
     "4eaaae291fa732d45c637186eec565aa",
-    "1d553d276c5014007ff0f1056c00ea0a"
+    "1d553d276c5014007ff0f1056c00ea0a",
+    "94f541651a9a797ed4ba94a7fe24e410",
+    "a30a0225e22ebdcd7ba9f05043c3e42a",
+    "b05ef6ebf54fd32fcdc01fe547c6a862",
+    "96204384506dd715a801e2afd09b2be3",
+    "ed4194f0719d5ba70bee51bdd62f3cee",
+    "8a10915a81b767ec307b7d39c66550c6"
   ]
 }
