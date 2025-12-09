@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/justiz-darf-nicht-binaere-person-mit-herr-anschreiben-wurde-in-dem-fall-als-hoeflichkeitsform-gewert-100.html",
-    "https://www.deutschlandfunk.de/eu-komission-genehmigt-milliarden-entschaedigung-fuer-ostdeutschen-energiekonzern-leag-102.html",
     "https://www.deutschlandfunk.de/taeter-sind-nachbarn-bekannte-verwandte-menschen-denen-man-vertraut-neue-initiativen-gegen-kindesmis-100.html",
     "https://www.deutschlandfunk.de/erneuerbare-energien-bundesumweltminister-schneider-spd-sagt-geld-fuer-ausbau-von-netzen-im-ausland--100.html",
     "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-angriffen-auf-energieanlagen-regierung-in-kiew-kuendigt-weitere-stromsperren-an-102.html",
     "https://www.deutschlandfunk.de/selenskyj-will-ueberarbeiteten-us-plan-fuer-kriegsende-bald-nach-washington-schicken-102.html",
     "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-102.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-im-fernsehen-im-kulturkampf-um-das-stadtbild-110800322.html"
+    "https://www.faz.net/aktuell/politik/inland/merz-im-fernsehen-im-kulturkampf-um-das-stadtbild-110800322.html",
+    "https://www.deutschlandfunk.de/selenskyj-will-neuwahlen-unter-kriegsrecht-moeglich-machen-102.html",
+    "https://www.deutschlandfunk.de/anlagenbauer-voith-will-bis-zu-2-500-stellen-streichen-100.html"
   ],
   "content_hashes": [
-    "15ba101fd16e5ce6b903bd712c093ea9",
-    "1c08ded0d57440e38bef634377751288",
     "a5fd9a27a874a8841a7470d5166c3290",
     "80182b7801efa0c968f7e6cfe40c29ac",
     "da131328e08e192f5806e28a30c8e4a8",
@@ -2001,11 +1999,11 @@
     "848f58f13857932744de98d4ce2d3aff",
     "31827c0d3415cc2712b59c4f286147e8",
     "73ae5388b6341c70e7f55899867660e4",
-    "280f1d87678c7291aab379d61ddb928d"
+    "280f1d87678c7291aab379d61ddb928d",
+    "ad4254fb8a2dc9f45d373f69f73a540c",
+    "663f3aac650f6c5453027cad01318064"
   ],
   "titles": [
-    "Oberlandesgericht Frankfurt a. M. - Justiz darf nicht-binäre Person mit \"Herr\" anschreiben - wurde in dem Fall als Höflichkeitsform gewertet",
-    "Kohleausstieg - EU-Komission genehmigt Milliarden-Entschädigung für ostdeutschen Energiekonzern Leag",
     "Sexualisierte Gewalt - \"Täter sind Nachbarn, Bekannte, Verwandte, Menschen, denen man vertraut\" - neue Initiativen gegen Kindesmissbrauch vorgestellt",
     "Weltklimakonferenz - Erneuerbare Energien: Bundesumweltminister Schneider (SPD) sagt Geld für Ausbau von Netzen im Ausland zu",
     "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards",
@@ -3003,11 +3001,11 @@
     "Russlands Ukrainekrieg - Nach Angriffen auf Energieanlagen: Regierung in Kiew kündigt weitere Stromsperren an",
     "Ukraine-krieg - Selenskyj will überarbeiteten US-Plan für Kriegsende bald nach Washington schicken",
     "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille",
-    "Der Kanzler in der „Arena“: Merz im Kulturkampf"
+    "Der Kanzler in der „Arena“: Merz im Kulturkampf",
+    "Ukraine-Krieg - Selenskyj will Neuwahlen unter Kriegsrecht möglich machen",
+    "Zehntel der Belegschaft - Anlagenbauer Voith will bis zu 2.500 Stellen streichen"
   ],
   "hashes": [
-    "5a47cc62db6286a70087fd0b7518e582",
-    "f1be76ef20f0e48c1445c032eeb91291",
     "f039616016ec32636d2048876d391754",
     "930efc3399cab163e0a50d4b5a748bd6",
     "6dab04d675b035b6085de91508a93b6f",
@@ -4005,6 +4003,8 @@
     "7b22c62b5762a08938062b4af76dbe9c",
     "e8af2b459472c0018d24765b8b567931",
     "0c510e4b1caf2ed668a62dd85c6a5026",
-    "e955289aaf5e3a16e20cea3e1cd3fd97"
+    "e955289aaf5e3a16e20cea3e1cd3fd97",
+    "ee1bc26ca1552b389014ef8f71d6825d",
+    "b4582427ccd33527255084de358d7403"
   ]
 }
