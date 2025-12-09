@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/taeter-sind-nachbarn-bekannte-verwandte-menschen-denen-man-vertraut-neue-initiativen-gegen-kindesmis-100.html",
-    "https://www.deutschlandfunk.de/erneuerbare-energien-bundesumweltminister-schneider-spd-sagt-geld-fuer-ausbau-von-netzen-im-ausland--100.html",
-    "https://www.deutschlandfunk.de/merz-fordert-fuer-weihnachtsmaerkte-staedteueberfreifende-sicherheitsstandards-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-unterstreicht-bedeutung-des-bundeswehr-einsatzes-im-kosovo-102.html",
     "https://www.deutschlandfunk.de/us-gericht-lehnt-abspaltung-von-instagram-und-whatsapp-ab-100.html",
     "https://www.deutschlandfunk.de/kiew-meldet-atacms-angriff-auf-ziele-in-russland-spanien-stellt-ukraine-817-mio-euro-hilfe-in-aussic-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-im-fernsehen-im-kulturkampf-um-das-stadtbild-110800322.html",
     "https://www.deutschlandfunk.de/selenskyj-will-neuwahlen-unter-kriegsrecht-moeglich-machen-102.html",
-    "https://www.deutschlandfunk.de/anlagenbauer-voith-will-bis-zu-2-500-stellen-streichen-100.html"
+    "https://www.deutschlandfunk.de/anlagenbauer-voith-will-bis-zu-2-500-stellen-streichen-100.html",
+    "https://www.deutschlandfunk.de/mittelstandsverbund-begruesst-eu-einigung-auf-lockerung-des-lieferkettengesetzes-100.html",
+    "https://www.deutschlandfunk.de/merz-weist-us-kritik-an-eu-strafe-fuer-x-zurueck-106.html",
+    "https://www.deutschlandfunk.de/erneute-regierungskrise-abgewendet-frankreichs-nationalversammlung-verabschiedet-sozialhaushalt-102.html"
   ],
   "content_hashes": [
-    "a5fd9a27a874a8841a7470d5166c3290",
-    "80182b7801efa0c968f7e6cfe40c29ac",
-    "da131328e08e192f5806e28a30c8e4a8",
     "f466c0d00f1e3f3669f0176ea80466a1",
     "b443ed37176505d8988cfcb66d54bfc3",
     "ccbf5820da7fac94fe1b8f1ad30b82bf",
@@ -2001,12 +1998,12 @@
     "73ae5388b6341c70e7f55899867660e4",
     "280f1d87678c7291aab379d61ddb928d",
     "ad4254fb8a2dc9f45d373f69f73a540c",
-    "663f3aac650f6c5453027cad01318064"
+    "663f3aac650f6c5453027cad01318064",
+    "821f123424fe19608ed3a7e8ad8d03f2",
+    "05857c9996076e06f03d28703960f02c",
+    "05e6c5b7fb37d0a4703b58031e5e21e9"
   ],
   "titles": [
-    "Sexualisierte Gewalt - \"Täter sind Nachbarn, Bekannte, Verwandte, Menschen, denen man vertraut\" - neue Initiativen gegen Kindesmissbrauch vorgestellt",
-    "Weltklimakonferenz - Erneuerbare Energien: Bundesumweltminister Schneider (SPD) sagt Geld für Ausbau von Netzen im Ausland zu",
-    "Brauchtum - Merz fordert für Weihnachtsmärkte städteüberfreifende Sicherheitsstandards",
     "Balkan - Bundesaußenminister Wadephul unterstreicht Bedeutung des Bundeswehr-Einsatzes im Kosovo",
     "Monopolvorwürfe - US-Gericht lehnt Abspaltung von Instagram und WhatsApp ab",
     "Ukraine-Krieg - Kiew meldet ATACMS-Angriff auf Ziele in Russland - Spanien stellt Ukraine 817 Mio Euro Hilfe in Aussicht",
@@ -3003,12 +3000,12 @@
     "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille",
     "Der Kanzler in der „Arena“: Merz im Kulturkampf",
     "Ukraine-Krieg - Selenskyj will Neuwahlen unter Kriegsrecht möglich machen",
-    "Zehntel der Belegschaft - Anlagenbauer Voith will bis zu 2.500 Stellen streichen"
+    "Zehntel der Belegschaft - Anlagenbauer Voith will bis zu 2.500 Stellen streichen",
+    "Dlf-Interview - Mittelstandsverbund begrüßt EU-Einigung auf Lockerung des Lieferkettengesetzes",
+    "Spannungen zwischen Europa und USA - Merz weist US-Kritik an EU-Strafe für X zurück",
+    "Paris - Erneute Regierungskrise abgewendet: Frankreichs Nationalversammlung verabschiedet Sozialhaushalt"
   ],
   "hashes": [
-    "f039616016ec32636d2048876d391754",
-    "930efc3399cab163e0a50d4b5a748bd6",
-    "6dab04d675b035b6085de91508a93b6f",
     "1929569e8a4395fc241ff32ddae2db3b",
     "31bef1cd4c29df4ff23a2eb2772b2727",
     "b0438ac35ab3da5f3775591d803816d9",
@@ -4005,6 +4002,9 @@
     "0c510e4b1caf2ed668a62dd85c6a5026",
     "e955289aaf5e3a16e20cea3e1cd3fd97",
     "ee1bc26ca1552b389014ef8f71d6825d",
-    "b4582427ccd33527255084de358d7403"
+    "b4582427ccd33527255084de358d7403",
+    "f7b15346ba8ffaf6cd5c5b328f5b68ae",
+    "ac0c3145bde8311f5d7254c88ad897c6",
+    "b6e5339317e8dfbe37aa69cbbb19482b"
   ]
 }
