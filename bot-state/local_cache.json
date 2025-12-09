@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-40-tote-bei-busunglueck-in-medina-100.html",
-    "https://www.deutschlandfunk.de/deutscher-krankenhaustag-medica-und-compamed-messe-gesundheitsexperten-beraten-zur-zukunft-der-mediz-104.html",
-    "https://www.spiegel.de/wirtschaft/handelskrieg-mit-den-usa-chinesische-produkte-ueberschwemmen-deutschen-markt-a-348b77af-ee3f-4848-a924-e5a39036b7da#ref=rss",
     "https://www.deutschlandfunk.de/ex-regierungschefin-hasina-bezeichnet-todesurteil-als-politisch-motiviert-100.html",
     "https://www.spiegel.de/wirtschaft/schwarz-gruppe-investiert-elf-milliarden-in-rechenzentrum-a-a65653de-2e13-4bde-9d72-58fd33a918bf#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/linkes-lager-in-der-krise-hoffen-auf-mamdani-effekt-bleibt-wunschdenken-accg-110783116.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/us-regierung-will-farmer-mit-zwoelf-milliarden-dollar-unterstuetzen-102.html",
     "https://www.deutschlandfunk.de/kommentar-zu-trumps-nationale-sicherheitsstrategie-america-first-in-reinform-100.html",
     "https://www.deutschlandfunk.de/streit-um-durchsuchung-des-uno-palaestinenserhilfswerks-durch-israelische-steuerbehoerde-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-will-ueberarbeitete-fassung-des-us-friedensplans-an-washington-uebermitteln-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-will-ueberarbeitete-fassung-des-us-friedensplans-an-washington-uebermitteln-100.html",
+    "https://www.deutschlandfunk.de/eu-einigung-auf-abschwaechung-von-lieferketten-vorgaben-102.html",
+    "https://www.deutschlandfunk.de/regierung-meldet-nach-putschversuch-mehrere-todesopfer-102.html",
+    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-serbischer-teilrepublik-wird-teilweise-neu-ausgezaehlt-102.html"
   ],
   "content_hashes": [
-    "0187d2c276a0dfc9e759e2ee2e014bbf",
-    "a1b058867143f695c6d896034c7c8996",
-    "61421356f5fb2bc456067fe9cbd67312",
     "f3d8985425c0010a1119664dc4def74d",
     "60b9775b970b3f6e548bd6902cc30059",
     "0cfbaa907b085c713e667c4a5b69574c",
@@ -2001,12 +1998,12 @@
     "54cbd966e866789bf9f98ebdd0eadaa4",
     "6970f7346c47beb58fd78fe41be9b481",
     "9f445f9519fbd2f10a1d4acd5e012909",
-    "4d0863707f87c1a1498250ec72231e6b"
+    "4d0863707f87c1a1498250ec72231e6b",
+    "b0cdb3a7586a48b1b4718c87d50c2559",
+    "de91ff53f53a32c11dc5fd4fa2172123",
+    "8ab9facd4c20ea7fd5bec40219be56dc"
   ],
   "titles": [
-    "Saudi-Arabien - Mehr als 40 Tote bei Busunglück in Medina",
-    "Düsseldorf - Deutscher Krankenhaustag, Medica- und Compamed-Messe - Gesundheitsexperten beraten zur Zukunft der Medizin",
-    "Handelskrieg mit den USA: Chinesische Produkte überschwemmen deutschen Markt",
     "Bangladesch - Ex-Regierungschefin Hasina bezeichnet Todesurteil als \"politisch motiviert\"",
     "Schwarz-Gruppe investiert elf Milliarden in Rechenzentrum",
     "Linkes Lager in der Krise: Die Hoffnung auf den Mamdani-Effekt bleibt Wunschdenken",
@@ -3003,12 +3000,12 @@
     "Hilfspaket - US-Regierung will Farmer mit zwölf Milliarden Dollar unterstützen",
     "Kommentar - Feindseligkeit gegenüber Europa ist jetzt offizielle US-Politik",
     "Ost-Jerusalem - Streit um Durchsuchung des UNO-Palästinenserhilfswerks durch israelische Steuerbehörde",
-    "Nach Treffen in London - Selenskyj will überarbeitete Fassung des US-Friedensplans an Washington übermitteln"
+    "Nach Treffen in London - Selenskyj will überarbeitete Fassung des US-Friedensplans an Washington übermitteln",
+    "Nach Verhandlungen in Brüssel - EU-Einigung auf Abschwächung von Lieferketten-Vorgaben",
+    "Benin - Regierung meldet nach Putschversuch mehrere Todesopfer",
+    "Bosnien und Herzegowina - Präsidentschaftswahl in serbischer Teilrepublik wird teilweise neu ausgezählt"
   ],
   "hashes": [
-    "c0c409a7c6d0b033c9956bf2b1a89147",
-    "bf29281b63a3e638ee4b365f544f8cee",
-    "9794b575710e4cf11187488f600f1990",
     "4e91168f0e253fb320ed4ff9b5a3f1ff",
     "403c04dc8d049dcd34dc2cac06c4f5b1",
     "087bc34bc2bcef2a3e1497417610687e",
@@ -4005,6 +4002,9 @@
     "c972f67c26de7bcaee02ea5ce7cf9e92",
     "e617b99916e48fd2c1684e5c327ab675",
     "54f3cce144d8bdaad592ba61b837c20b",
-    "e138b292feb019c40bd9f895cf111d46"
+    "e138b292feb019c40bd9f895cf111d46",
+    "99a8b38afc8315bcca158c2598a9ca3c",
+    "afb1a8ed2deff0c8f3a52b7fbdb72e1e",
+    "b1f23c32203b56b8349c053583c0e7cd"
   ]
 }
