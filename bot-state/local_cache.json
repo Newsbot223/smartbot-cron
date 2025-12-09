@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-und-linke-fordern-von-kulturstaatsminister-weimer-aufklaerung-104.html",
-    "https://www.deutschlandfunk.de/bundesverwaltungsgericht-weist-klage-gegen-ausbau-der-a1-ab-102.html",
     "https://www.deutschlandfunk.de/bayern-und-bremen-bieten-die-besten-moeglichkeiten-fuer-eine-direkte-demokratie-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/bundesnetzagentur-zu-fuellstand-der-gasspeicher-gefahr-einer-angespannten-versorgung-gering-auch-wir-100.html",
     "https://www.deutschlandfunk.de/kinder-und-jugendschutz-familienministerin-prien-stellt-kampagne-vor-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/resilientes-wahlrecht-statt-reformkarussell-110789720.html",
     "https://www.deutschlandfunk.de/social-media-verbot-fuer-jugendliche-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/tausende-demonstrieren-in-litauen-fuer-freie-presse-kritik-an-geplantem-rundfunk-gesetz-100.html",
-    "https://www.deutschlandfunk.de/uno-sonderberichterstatterin-rassistisches-ueberlegenheitsdenken-in-oesterreich-tief-verwurzelt-100.html"
+    "https://www.deutschlandfunk.de/uno-sonderberichterstatterin-rassistisches-ueberlegenheitsdenken-in-oesterreich-tief-verwurzelt-100.html",
+    "https://www.deutschlandfunk.de/britisches-verteidigungsministerium-mitglied-der-streitkraefte-bei-unfall-ums-leben-gekommen-100.html",
+    "https://www.deutschlandfunk.de/nach-angriffen-auf-energieanlagen-regierung-in-kiew-kuendigt-weitere-stromsperren-an-102.html"
   ],
   "content_hashes": [
-    "4f9af22eb31e96fbe9658d4bffeaa37c",
-    "c4e50b0ed4ef252f8d9b13e3471c226c",
     "dc9baa12a27df8ba4810c871cb8f4e76",
     "e980efddba916d0f807f918bb43bf078",
     "e29a1662edb60645cd080d8540c6c9de",
@@ -2001,11 +1999,11 @@
     "057f25dc4dea949edf4c39324eaf19f6",
     "5d420e46162f40dc9cd631faf761fe05",
     "ba63b5bca2f6e9d40955ca83f58c189f",
-    "1aad8f2061ca9b4c5e2d13b96a7d30a2"
+    "1aad8f2061ca9b4c5e2d13b96a7d30a2",
+    "19c60c891ee3c7572e0ff91fb0395e32",
+    "848f58f13857932744de98d4ce2d3aff"
   ],
   "titles": [
-    "Geschäfte um Medienunternehmen - Grüne und Linke fordern von Kulturstaatsminister Weimer Aufklärung",
-    "Autobahnlücke - Bundesverwaltungsgericht weist Klage gegen Ausbau der A1 ab",
     "Analyse - Bayern und Bremen bieten die besten Möglichkeiten für eine direkte Demokratie in Deutschland",
     "Energieversorgung - Bundesnetzagentur zu Füllstand der Gasspeicher: Gefahr einer angespannten Versorgung gering - auch Wirtschaftsministerin Reiche entspannt",
     "Jugendschutz - Familienministerin stellt Kampagne gegen sexuelle Gewalt vor",
@@ -3003,11 +3001,11 @@
     "Wahlrechtsreform: Ein resilientes Wahlrecht wäre möglich",
     "Australien - Social-Media-Verbot für Jugendliche in Kraft getreten",
     "Vilnius - Tausende demonstrieren in Litauen für freie Presse - Kritik an geplantem Rundfunk-Gesetz",
-    "Wien - UNO-Sonderberichterstatterin: \"Rassistisches Überlegenheitsdenken in Österreich tief verwurzelt\""
+    "Wien - UNO-Sonderberichterstatterin: \"Rassistisches Überlegenheitsdenken in Österreich tief verwurzelt\"",
+    "Ukraine - Britisches Verteidigungsministerium: Mitglied der Streitkräfte bei Unfall ums Leben gekommen",
+    "Russlands Ukrainekrieg - Nach Angriffen auf Energieanlagen: Regierung in Kiew kündigt weitere Stromsperren an"
   ],
   "hashes": [
-    "ccaad18b7864ea51f9cf2abd5eb31032",
-    "5d3da77b39f56c8b289a2270336fe438",
     "19c512dcbb2495f9746d94d5f6c54cd4",
     "e4d853494fd6479bc344c153a8b878a3",
     "5510d9c3d55b241f7b7f94a0142e5111",
@@ -4005,6 +4003,8 @@
     "615c05cce1d30e1138011d45f6fb113e",
     "d8d412b0b9df7c7f8080436f93f93761",
     "84827706084f1c1a4b1beacad8158eb0",
-    "0b66ac730fbb8c041791f0441dcb968f"
+    "0b66ac730fbb8c041791f0441dcb968f",
+    "9e502fe107f41c814f43d4d64999f853",
+    "7b22c62b5762a08938062b4af76dbe9c"
   ]
 }
