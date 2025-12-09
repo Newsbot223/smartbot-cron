@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weinachtsmaerkte-starten-innenminister-rufen-zu-unbeschwertem-feiern-auf-100.html",
-    "https://www.faz.net/aktuell/politik/inland/worum-es-beim-rentenstreit-in-der-union-geht-110784426.html",
-    "https://www.deutschlandfunk.de/weiter-keine-einigung-in-der-koalition-merz-hofft-auf-einigung-bis-jahresende-100.html",
-    "https://www.spiegel.de/politik/deutschland/cdu-unternehmer-stephan-schambach-spendet-halbe-million-euro-a-37b2a0ff-1aed-4791-9658-d0c515200f20#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/der-unbequeme-ju-vorsitzende-johannes-winkel-110784595.html",
     "https://www.deutschlandfunk.de/wadephul-mahnt-eu-beitritts-kandidaten-zu-mehr-reformen-100.html",
     "https://www.deutschlandfunk.de/katrin-gottschalk-zu-dritter-taz-chefredakteurin-berufen-102.html",
     "https://www.deutschlandfunk.de/bundespolizei-beschlagnahmt-300-gefaehrliche-gegenstaende-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/reporter-ohne-grenzen-gaza-toedlichster-arbeitsplatz-fuer-journalisten-102.html",
     "https://www.deutschlandfunk.de/abschiebungen-und-verteilung-eu-innenminister-einig-bei-schaerferen-asyl-regeln-100.html",
     "https://www.spiegel.de/politik/deutschland/merz-zeigt-verstaendnis-fuer-empoerung-ueber-seine-stadtbild-aussage-a-5390f8f7-7fa1-480c-892c-05015407d36f#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/wadephul-in-china-selbstbewusstsein-lohnt-sich-110799732.html"
+    "https://www.faz.net/aktuell/politik/ausland/wadephul-in-china-selbstbewusstsein-lohnt-sich-110799732.html",
+    "https://www.deutschlandfunk.de/kappe-cdu-bei-renteneintritts-alter-auch-zwischen-berufsgruppen-differenzieren-100.html",
+    "https://www.deutschlandfunk.de/gericht-hebt-trumps-unrechtmaessige-und-willkuerliche-blockade-von-windkraftprojekten-auf-sieg-im-ka-100.html",
+    "https://www.deutschlandfunk.de/nach-queerfeindlichem-angriff-auf-frauen-in-bremer-strassenbahn-verdaechtiger-in-der-psychiatrie-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftsweise-veronika-grimm-kritisiert-finanzpolitik-der-bundesregierung-als-sozial-ungerecht-a-3b00af97-341c-4a2d-8b65-d2432e94802e#ref=rss",
+    "https://www.faz.net/aktuell/politik/missbrauch-im-internet-der-kinderschutz-kommt-zu-kurz-110797218.html"
   ],
   "content_hashes": [
-    "e929d5917da8e70a7aec89dd9c34f578",
-    "868bd4f65ad7e031382768ce1e22a596",
-    "317bf10920c613ec0b2e6978879b6a6f",
-    "de53bc583f596e80fcf21acb1e5b580f",
-    "1e7253885d1b499e232e6c72f495aac6",
     "5c80c45a6c16bdbb36f691ded49a67f1",
     "1d671cc7cf59c90cdd87765e5e4b928c",
     "93d0a5663b1a3945e4db866ad63ee1d9",
@@ -2001,14 +1996,14 @@
     "b3f82e9d3a7269d0dfe5c6924b127072",
     "dd01248af82f410e31c1ce446400ac9f",
     "bc2962e1cb00f8359423d91e6c364e8b",
-    "10bc355eed62a4acc964f501b5b8451a"
+    "10bc355eed62a4acc964f501b5b8451a",
+    "67455337e4516c5fd42785958850ddde",
+    "a0c430985fa512ec4bab79c17a5b0b1d",
+    "2eecc5d4c25115d828c888e10ceb0f4e",
+    "a1ea4b2b44c10d86cdf016bcd7b8402c",
+    "6c093924d0cf95f65e49e4b23ec86589"
   ],
   "titles": [
-    "Brauchtum - Weinachtsmärkte starten - Innenminister rufen zu unbeschwertem Feiern auf",
-    "Umstrittener Gesetzentwurf: Worum es beim Rentenstreit geht",
-    "Rentenreform - Weiter keine Einigung in der Koalition - Merz hofft auf Einigung bis Jahresende",
-    "CDU: Unternehmer Stephan Schambach spendet halbe Million Euro",
-    "Johannes Winkel: Der unbequeme JU-Vorsitzende",
     "Westbalkan-Reise - Wadephul mahnt EU-Beitritts-Kandidaten zu mehr Reformen",
     "Medien - Katrin Gottschalk zu dritter \"taz\"-Chefredakteurin berufen",
     "Schwerpunkteinsatz an Bahnhöfen - Bundespolizei beschlagnahmt 300 gefährliche Gegenstände",
@@ -3003,14 +2998,14 @@
     "Jahresbericht - Reporter ohne Grenzen: Gaza tödlichster Arbeitsplatz für Journalisten",
     "Migration - EU-Innenminister einigen sich auf schärfere Asylregeln",
     "Merz zeigt Verständnis für Empörung über seine Stadtbild-Aussage",
-    "Wadephul in China: Selbstbewusstes Auftreten lohnt sich"
+    "Wadephul in China: Selbstbewusstes Auftreten lohnt sich",
+    "Junge Gruppe der Unionsfraktion - Kappe (CDU): Bei Renteneintritts-Alter auch zwischen Berufsgruppen differenzieren",
+    "USA - Gericht hebt Trumps \"unrechtmäßige und willkürliche\" Blockade von Windkraftprojekten auf - \"Sieg im Kampf gegen die Klimakrise\"",
+    "ÖPNV - Nach queerfeindlichem Angriff auf Frauen in Bremer Straßenbahn: Verdächtiger in der Psychiatrie",
+    "Wirtschaftsweise Veronika Grimm kritisiert Finanzpolitik der Bundesregierung als sozial ungerecht",
+    "EU-Gesetzgebung: Der Kinderschutz kommt zu kurz"
   ],
   "hashes": [
-    "761f6e979b70c145cd583921517c0a1f",
-    "c5cd71eb4ea8464d367fc655d7e032a4",
-    "f567b5a3c3a6c46a16806c8d37566855",
-    "673633bdfbaa0d1e26e0fa8bb7b91070",
-    "31eceeeef97d9ebbf01b59f0812d0b38",
     "783ce97a9da3397d3fa281f4e037d26a",
     "6f6eeb5ccb6ed9b0f094c704d48ebffe",
     "aec253df880a38fffdfec0517bf0bd61",
@@ -4005,6 +4000,11 @@
     "b05ef6ebf54fd32fcdc01fe547c6a862",
     "96204384506dd715a801e2afd09b2be3",
     "ed4194f0719d5ba70bee51bdd62f3cee",
-    "8a10915a81b767ec307b7d39c66550c6"
+    "8a10915a81b767ec307b7d39c66550c6",
+    "f56aa6a0d19d2429262726acda1c6c42",
+    "721cc0246b4ff9a3548b9c666a3073b3",
+    "ff00654fb86ea3e96fae95466d7280d8",
+    "15f94f71c5219a56dce24defa65e02af",
+    "0b77228a589219588bec228aaed85969"
   ]
 }
