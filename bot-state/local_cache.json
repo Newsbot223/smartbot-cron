@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruenen-vorsitzende-brantner-fordert-freiwilliges-register-fuer-aeltere-alle-generationen-muessen-ih-100.html",
-    "https://www.deutschlandfunk.de/intendantin-der-deutsche-welle-kritisiert-geplante-kuerzung-des-etats-100.html",
-    "https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/oezdemir-und-hagel-streiten-ueber-migrationspolitik-accg-200244265.html",
     "https://www.deutschlandfunk.de/niederlande-gibt-staatliche-kontrolle-ueber-chip-hersteller-nexperia-wieder-ab-102.html",
     "https://www.deutschlandfunk.de/weimer-ich-halte-mich-an-die-regeln-des-ministergesetzes-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesfinanzhof-erklaert-grundsteuer-fuer-verfassungskonform-100.html",
     "https://www.deutschlandfunk.de/italien-will-bislang-ungenutztes-asylzentrum-in-albanien-reaktivieren-102.html",
     "https://www.deutschlandfunk.de/militaerhilfen-fuer-ukraine-laut-berechnungen-zurueckgegangen-100.html",
-    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-europaeer-koennen-ukraine-positionen-nur-ueber-amerikaner-einbringen-100.html"
+    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-europaeer-koennen-ukraine-positionen-nur-ueber-amerikaner-einbringen-100.html",
+    "https://www.deutschlandfunk.de/europarat-sieht-schwere-maengel-in-zyperns-gefaengnissen-100.html",
+    "https://www.deutschlandfunk.de/eu-gericht-bestaetigt-strafe-gegen-chiphersteller-intel-reduziert-aber-geldbusse-100.html",
+    "https://www.deutschlandfunk.de/monopolkommission-fordert-ende-des-umsatzsteuer-privilegs-der-post-100.html"
   ],
   "content_hashes": [
-    "d019a41536d91a71fb52775502e1d0cc",
-    "7911a9a234699b2ca7e8d47336f7ca14",
-    "c888918529148b2b4f4e3dcbc901b087",
     "356a4e8eeaf137120ce32fc9c23a5039",
     "515d5c78513f821f00661d1826f2f143",
     "705738599ccb3efdb052142303693208",
@@ -2001,12 +1998,12 @@
     "5da308e785b8fae141f94a095b8999d5",
     "beac1118ecb8a7b2e4cbea94f3f6ece0",
     "49a657ea229d451cf82e9912eec577a8",
-    "d8367ed8c62451b05ead8069aa6201dc"
+    "d8367ed8c62451b05ead8069aa6201dc",
+    "cd40af390764edd4652c08d6ef2dcdbb",
+    "4596d7779f98a605809eb99422a4d56a",
+    "f6f5a8a2bb1a243eceb7c6a0c6f91ccd"
   ],
   "titles": [
-    "Wehrdienst - Grünen-Vorsitzende Brantner fordert freiwilliges Register für Ältere - \"Alle Generationen müssen ihren fairen Anteil leisten\"",
-    "Auslandssender - Intendantin der Deutsche Welle kritisiert geplante Kürzung des Etats",
-    "Afghanistan: Nur 62 Personen nehmen Geldangebot für Einreise-Verzicht an",
     "Migration im Wahlkampf: Wie viel Härte soll es sein?",
     "Halbleiter-Produktion - Niederlande gibt staatliche Kontrolle über Chip-Hersteller Nexperia wieder ab",
     "Diskussion über Interessenkonflikte - Weimer: \"Ich halte mich an die Regeln des Ministergesetzes\"",
@@ -3003,12 +3000,12 @@
     "Klagen abgewiesen - Bundesfinanzhof erklärt Grundsteuer für verfassungskonform",
     "Migration - Italien will bislang ungenutztes Asylzentrum in Albanien reaktivieren",
     "Russischer Angriffskrieg - Militärhilfen für Ukraine laut Berechnungen zurückgegangen",
-    "Russischer Angriffskrieg - Polen-Beauftragter Abraham: Europäer können Ukraine-Positionen nur über Amerikaner einbringen"
+    "Russischer Angriffskrieg - Polen-Beauftragter Abraham: Europäer können Ukraine-Positionen nur über Amerikaner einbringen",
+    "Straßburg - Europarat sieht schwere Mängel in Zyperns Gefängnissen",
+    "Monopolstellung - EU-Gericht bestätigt Strafe gegen Chiphersteller Intel, reduziert aber Geldbuße",
+    "Briefmarkt - Monopolkommission fordert Ende des Umsatzsteuer-Privilegs der Post"
   ],
   "hashes": [
-    "d7384276868d35b63e90fb0927052563",
-    "9b2fafecc5f9a710e7264a8bc66065d9",
-    "8de4960a4a1f2b07bca92eaf46e6f9bb",
     "37ee9d17c7aa2155d02a718becad8957",
     "966ffe283c5f55e36a51da6aa18fd32f",
     "32834af4b2976c9ccf960250a8bff6ef",
@@ -4005,6 +4002,9 @@
     "65c84e3b7dafa688bc0dabb054f35ba3",
     "e3e3a1ef4b887665c568534c10eadc3b",
     "6c7bef88329fbffac187e1328ef2fc41",
-    "8da7fe7bd039a64dc0c5f5e8229070b4"
+    "8da7fe7bd039a64dc0c5f5e8229070b4",
+    "9fdeb96a8058e85de7b10c19a4c7e485",
+    "8376f291d09865d69ea7cd13e577a46f",
+    "99a21b71ac2a6281c192334fa5fd0aac"
   ]
 }
