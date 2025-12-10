@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cop30-breites-buendnis-fordert-fahrplan-fuer-ausstieg-aus-fossilen-energien-100.html",
-    "https://www.deutschlandfunk.de/bericht-mercedes-benz-verabschiedet-sich-von-luxusstrategie-100.html",
-    "https://www.deutschlandfunk.de/spd-fraktionsvize-esdar-verteidigt-festhalten-am-rentenpaket-100.html",
     "https://www.deutschlandfunk.de/gruenen-vorsitzende-brantner-fordert-freiwilliges-register-fuer-aeltere-alle-generationen-muessen-ih-100.html",
     "https://www.deutschlandfunk.de/intendantin-der-deutsche-welle-kritisiert-geplante-kuerzung-des-etats-100.html",
     "https://www.spiegel.de/politik/deutschland/afghanistan-nur-62-personen-nehmen-geldangebot-fuer-einreise-verzicht-an-a-8acb0ca5-311f-414c-a142-b8b4b4032216#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/russlands-angriffskrieg-gegen-ukraine-diplomatisches-tauziehen-geht-weiter-102.html",
     "https://www.deutschlandfunk.de/uno-botschafter-melnyk-wahlen-in-der-ukraine-ohne-waffenruhe-unrealistisch-100.html",
     "https://www.deutschlandfunk.de/miami-hat-nach-jahrzehnten-eine-buergermeisterin-der-demokraten-102.html",
-    "https://www.deutschlandfunk.de/bundesfinanzhof-erklaert-grundsteuer-fuer-verfassungskonform-100.html"
+    "https://www.deutschlandfunk.de/bundesfinanzhof-erklaert-grundsteuer-fuer-verfassungskonform-100.html",
+    "https://www.deutschlandfunk.de/italien-will-bislang-ungenutztes-asylzentrum-in-albanien-reaktivieren-102.html",
+    "https://www.deutschlandfunk.de/militaerhilfen-fuer-ukraine-laut-berechnungen-zurueckgegangen-100.html",
+    "https://www.deutschlandfunk.de/polen-beauftragter-abraham-europaeer-koennen-ukraine-positionen-nur-ueber-amerikaner-einbringen-100.html"
   ],
   "content_hashes": [
-    "e211a1f7359b6bbd2f01b58ce817118d",
-    "a0893f06e2edaf7cf38c34ba8898b258",
-    "2b10a70cc854553a549dc6f8942b9d27",
     "d019a41536d91a71fb52775502e1d0cc",
     "7911a9a234699b2ca7e8d47336f7ca14",
     "c888918529148b2b4f4e3dcbc901b087",
@@ -2001,12 +1998,12 @@
     "69a06bb7fb96cb477bfba7bae0762d59",
     "2c2ea307f0596c51ad164656f66522d4",
     "e405e12a6b7a721afab98c0ea05f9432",
-    "5da308e785b8fae141f94a095b8999d5"
+    "5da308e785b8fae141f94a095b8999d5",
+    "beac1118ecb8a7b2e4cbea94f3f6ece0",
+    "49a657ea229d451cf82e9912eec577a8",
+    "d8367ed8c62451b05ead8069aa6201dc"
   ],
   "titles": [
-    "UN-Klimakonferenz - Breites Bündnis fordert Fahrplan für Fossil-Ausstieg",
-    "Autobranche - Bericht: Mercedes-Benz verabschiedet sich von Luxusstrategie",
-    "Streit in der Union - SPD-Fraktionsvize Esdar verteidigt Festhalten am Rentenpaket",
     "Wehrdienst - Grünen-Vorsitzende Brantner fordert freiwilliges Register für Ältere - \"Alle Generationen müssen ihren fairen Anteil leisten\"",
     "Auslandssender - Intendantin der Deutsche Welle kritisiert geplante Kürzung des Etats",
     "Afghanistan: Nur 62 Personen nehmen Geldangebot für Einreise-Verzicht an",
@@ -3003,12 +3000,12 @@
     "Ukraine - In absehbarer Zeit wird es eher keine Neuwahlen geben",
     "Russischer Angriffskrieg - UNO-Botschafter Melnyk: \"Wahlen in der Ukraine ohne Waffenruhe unrealistisch\"",
     "USA - Miami hat nach Jahrzehnten eine Bürgermeisterin der Demokraten",
-    "Klagen abgewiesen - Bundesfinanzhof erklärt Grundsteuer für verfassungskonform"
+    "Klagen abgewiesen - Bundesfinanzhof erklärt Grundsteuer für verfassungskonform",
+    "Migration - Italien will bislang ungenutztes Asylzentrum in Albanien reaktivieren",
+    "Russischer Angriffskrieg - Militärhilfen für Ukraine laut Berechnungen zurückgegangen",
+    "Russischer Angriffskrieg - Polen-Beauftragter Abraham: Europäer können Ukraine-Positionen nur über Amerikaner einbringen"
   ],
   "hashes": [
-    "cba978030480f927df3473d3a4f74afa",
-    "2fd5fbbc245a0f71ed5d363a75dc4776",
-    "28306938fe4eccd17e50f81a9e1fc55f",
     "d7384276868d35b63e90fb0927052563",
     "9b2fafecc5f9a710e7264a8bc66065d9",
     "8de4960a4a1f2b07bca92eaf46e6f9bb",
@@ -4005,6 +4002,9 @@
     "6b51844a905dab6d9b29ce4249756374",
     "139361e9ef6b1f39b7641d860f350644",
     "4ddf2c61cd3e6a140abb0388ec614c43",
-    "65c84e3b7dafa688bc0dabb054f35ba3"
+    "65c84e3b7dafa688bc0dabb054f35ba3",
+    "e3e3a1ef4b887665c568534c10eadc3b",
+    "6c7bef88329fbffac187e1328ef2fc41",
+    "8da7fe7bd039a64dc0c5f5e8229070b4"
   ]
 }
