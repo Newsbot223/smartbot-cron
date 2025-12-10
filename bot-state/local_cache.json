@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bahn-verschiebt-start-von-stuttgart-21-erneut-100.html",
-    "https://www.faz.net/aktuell/politik/inland/femizid-warum-deutschland-eine-definition-braucht-200238763.html",
     "https://www.deutschlandfunk.de/eu-will-rund-3-000-polizisten-im-gazastreifen-ausbilden-100.html",
     "https://www.deutschlandfunk.de/elektronische-fussfessel-im-kampf-gegen-haeusliche-gewalt-bundesregierung-billigt-gesetzentwurf-100.html",
     "https://www.faz.net/aktuell/politik/inland/wahlpruefungsausschuss-in-eigener-sache-110785929.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/unternehmer-dinglreiter-wird-chef-von-gesamtmetall-100.html",
     "https://www.deutschlandfunk.de/kabinettsbeschluss-bundesregierung-will-journalisten-besser-vor-einschuechterungsklagen-schuetzen-100.html",
     "https://www.deutschlandfunk.de/zahl-der-ausbildungsvertraege-sinkt-zum-zweiten-mal-in-folge-100.html",
-    "https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz-a-2e2745c2-58ca-4419-80c7-09be35fb0cee#ref=rss"
+    "https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz-a-2e2745c2-58ca-4419-80c7-09be35fb0cee#ref=rss",
+    "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-schaerferes-vorgehen-gegen-scheinvaterschaften-rolle-der-auslaenderbehoer-100.html",
+    "https://www.deutschlandfunk.de/italienische-kueche-zum-weltkulturerbe-erklaert-100.html"
   ],
   "content_hashes": [
-    "6ea6853eb09c282cc2a113e5fcb5a794",
-    "199090d1310cd791b847924198bf3e2f",
     "2f03fcbbaa5eb4b837f00ecb3044a73e",
     "efaad7df8bce3c83c8ccbea4e2c038dc",
     "8324675be26763a3a44a64a73c3ae369",
@@ -2001,11 +1999,11 @@
     "743194c8f2cdda4f1bd42dffec509b80",
     "d76baa41ffa4f18a1a04eb02a9e25cb9",
     "7ae4acf63379534e0e6a56e23407b033",
-    "01eed522c1dd6f33b3ace7f1ab19049a"
+    "01eed522c1dd6f33b3ace7f1ab19049a",
+    "a9ade15cd3cf14bfcc777560c2c50d2f",
+    "4a2d7b878bbf999c36245143e29be2aa"
   ],
   "titles": [
-    "Medienbericht - Bahn verschiebt Start von Stuttgart 21 erneut",
-    "Gewalt an Frauen: Warum Deutschland eine Femizid-Definition braucht",
     "Gaza-Friedensplan - EU will rund 3.000 Polizisten im Gazastreifen ausbilden",
     "Kabinett - Elektronische Fußfessel im Kampf gegen häusliche Gewalt - Bundesregierung billigt Gesetzentwurf",
     "Wahlprüfung im Bundestag: Wenn das Parlament in eigener Sache entscheidet",
@@ -3003,11 +3001,11 @@
     "Arbeitgeberverband - Unternehmer Dinglreiter wird Chef von Gesamtmetall",
     "\"Slapp-Klagen\" - Kabinettsbeschluss: Bundesregierung will Journalisten besser vor Einschüchterungsklagen schützen",
     "Statistik - Zahl der Ausbildungsverträge sinkt zum zweiten Mal in Folge",
-    "Glasfaserausbau: Monopolkommission warnt vor Telekom-Dominanz"
+    "Glasfaserausbau: Monopolkommission warnt vor Telekom-Dominanz",
+    "Betrug - Bundeskabinett beschließt schärferes Vorgehen gegen Scheinvaterschaften - Rolle der Ausländerbehörde gestärkt",
+    "Unesco - Italienische Küche zum Weltkulturerbe erklärt"
   ],
   "hashes": [
-    "8ca9c4a7b57ec7ffebbed82525d07574",
-    "f24a779594571a571e8d15e4cf10b579",
     "11bffced9faa7927a721b2abfe1380a8",
     "8d123d5623a393be27c4aaa8725fcc4c",
     "dff942773477832957e9e6dfec026cf6",
@@ -4005,6 +4003,8 @@
     "19615ef08b3f88a43603a7967ffbdc4d",
     "e4b5763bba2e2da50910eefc8d6694c4",
     "273d141d696f203b78c06024a70beef5",
-    "4bd883e5921dd04eb92f704a555c1545"
+    "4bd883e5921dd04eb92f704a555c1545",
+    "db3e0da05d5e65952dfdb1aa878c0ef7",
+    "71a94f83533be3dbffb106e85c07134b"
   ]
 }
