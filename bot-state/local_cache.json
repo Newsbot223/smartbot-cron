@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kabinett-stimmt-ueber-aenderungen-am-luftsicherheitsgesetz-ab-102.html",
-    "https://www.spiegel.de/politik/olaf-scholz-ex-kanzler-kritisiert-afd-bei-buergergespraech-in-brandenburg-als-antidemokratisch-a-6afa7d2c-77cf-4879-a4b9-c8aed01591c2#ref=rss",
-    "https://www.deutschlandfunk.de/bundesgericht-stoppt-neuzuschnitt-von-wahlkreisen-in-texas-100.html",
     "https://www.deutschlandfunk.de/spd-fraktionsvorsitzende-esdar-verteidigt-festhalten-am-rentenpaket-102.html",
     "https://www.deutschlandfunk.de/rothirsch-ist-tier-des-jahres-100.html",
     "https://www.deutschlandfunk.de/berliner-gespraech-bundesregierung-will-abschuss-von-drohnen-gesetzlich-regeln-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/social-media-verbot-ist-keine-loesung-102.html",
     "https://www.deutschlandfunk.de/erneute-regierungskrise-abgewendet-nationalversammlung-verabschiedet-sozialhaushalt-102.html",
     "https://www.deutschlandfunk.de/eu-ratspraesident-erwartet-einigung-ueber-nutzung-russischer-vermoegenswerte-vor-weihnachten-100.html",
-    "https://www.deutschlandfunk.de/australien-ab-heute-gilt-social-media-verbot-fuer-jugendliche-unter-16-jahren-100.html"
+    "https://www.deutschlandfunk.de/australien-ab-heute-gilt-social-media-verbot-fuer-jugendliche-unter-16-jahren-100.html",
+    "https://www.deutschlandfunk.de/vdk-praesidentin-warnt-vor-kuerzung-der-rentenbezuege-vieler-menschen-bei-hoeherem-eintrittsalter-100.html",
+    "https://www.deutschlandfunk.de/nach-china-reise-nouripour-fordert-deutschland-und-frankreich-auf-gemeinsam-mit-peking-zu-verhandeln-102.html",
+    "https://www.deutschlandfunk.de/russlands-angriffskrieg-gegen-ukraine-diplomatisches-tauziehen-geht-weiter-102.html"
   ],
   "content_hashes": [
-    "b87014b813e0788940d9c1f20006591c",
-    "22e0b998368b7b975ebd2a0c2cc025f6",
-    "8556e0e6ad1393d05da1cad12cf65a44",
     "d9a581e677459ab8997a1822b55ef834",
     "577c8f0ef3ce8af62fb6bc71a6a29312",
     "ec5eea14ec900856ecd85bbd98d85754",
@@ -2001,12 +1998,12 @@
     "fcb31751556272293225b0e0e462c6f3",
     "4aee020b29690dc936cd5525a289e808",
     "463224f3ccdc6b6b71c97b3f7c4bf5e6",
-    "7983adc0145a22d1902faf258b6ccd3e"
+    "7983adc0145a22d1902faf258b6ccd3e",
+    "730b092ef9c3319e63c5e95b88017f90",
+    "0a46f2e0e7d0a88b879ec3ccaf69cf3e",
+    "69a06bb7fb96cb477bfba7bae0762d59"
   ],
   "titles": [
-    "Drohnenabwehr - Kabinett stimmt über Änderungen am Luftsicherheitsgesetz ab",
-    "Olaf Scholz: Ex-Kanzler kritisiert AfD bei Bürgergespräch in Brandenburg als »antidemokratisch«",
-    "USA - Bundesgericht stoppt Neuzuschnitt von Wahlkreisen in Texas",
     "Streit in der Union - SPD-Fraktionsvorsitzende Esdar verteidigt Festhalten am Rentenpaket",
     "Deutsche Wildtier-Stiftung - Rothirsch ist Tier des Jahres 2026",
     "Innere Sicherheit - Bundesregierung will Abschuss von Drohnen gesetzlich neu regeln",
@@ -3003,12 +3000,12 @@
     "Schülervertreter - \"Social-Media-Verbot ist keine Lösung\"",
     "Frankreich - Erneute Regierungskrise abgewendet - Nationalversammlung verabschiedet Sozialhaushalt",
     "Ukraine-Hilfen - EU-Ratspräsident erwartet Einigung über Nutzung russischer Vermögenswerte vor Weihnachten",
-    "Australien - Social-Media-Verbot für Jugendliche tritt in Kraft"
+    "Australien - Social-Media-Verbot für Jugendliche tritt in Kraft",
+    "Sozialverband - VdK-Präsidentin warnt vor Kürzung der Rentenbezüge vieler Menschen bei höherem Eintrittsalter",
+    "Wirtschaft - Nach China-Reise: Nouripour fordert Deutschland und Frankreich auf, gemeinsam mit Peking zu verhandeln",
+    "Ukraine - In absehbarer Zeit wird es eher keine Neuwahlen geben"
   ],
   "hashes": [
-    "1b1feb41af5564b8c96511a2e05d879e",
-    "bfbe425efb230278e8704ea560c96c7b",
-    "a0b8ba377ad98f29d4cf283d5c6e09a9",
     "9433c82eb3038515eb1440a0df2fb492",
     "d6072bf6cbbb0066f75e8289cbbf7586",
     "fbb2dc585e7b2668135b044ff64bed78",
@@ -4005,6 +4002,9 @@
     "999da4cf74e8dab730d31421550351ba",
     "e3f2939e428c919c5954c005879572ab",
     "0a30500dfab13fc8af093a0eefff349e",
-    "688a335c97462d5875709c8563322fe2"
+    "688a335c97462d5875709c8563322fe2",
+    "7fd60d5679ab4d7f0e229a87026c5f77",
+    "402c9f4b527cc1cf9f115202e6672398",
+    "6b51844a905dab6d9b29ce4249756374"
   ]
 }
