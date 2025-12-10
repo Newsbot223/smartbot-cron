@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/die-vergifteten-ratschlaege-der-sahra-wagenknecht-110786942.html",
     "https://www.deutschlandfunk.de/hamas-meldet-25-tote-nach-israelischen-angriffen-auf-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/italien-erlaubt-auslieferung-von-mutmasslichem-nord-stream-saboteur-100.html",
     "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/us-richter-entscheidet-gegen-trumps-entsendung-der-nationalgarde-nach-los-angeles-100.html",
     "https://www.deutschlandfunk.de/veggie-burger-und-tofu-wurst-bleiben-in-der-eu-als-bezeichnungen-vorerst-erlaubt-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsminister-parmelin-wird-2026-erneut-bundespraesident-der-schweiz-100.html",
-    "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss",
+    "https://www.deutschlandfunk.de/us-notenbank-fed-senkt-erneut-den-leitzins-100.html"
   ],
   "content_hashes": [
-    "52351c1e675a33f3a5faca1bce53f2c9",
     "0c74c1b21649796d92b9209f4a3cb77a",
     "cb99ee4f8adf24a44fa5a8016c3bcbe5",
     "11b7ebd11fe27ef9a642ff3f36e19e79",
@@ -2001,10 +2000,10 @@
     "023eaa88768a60d3d0ef549a81270185",
     "e120b2cdce57fa9a7d259b3bbbfb9d50",
     "a94887e105724db9bce743deb4499fd0",
-    "6b3762a609b2fc5a94babf3208b4bcfc"
+    "6b3762a609b2fc5a94babf3208b4bcfc",
+    "f170752cc97f8e8b60d19236acf6a2f0"
   ],
   "titles": [
-    "Empfehlungen zur AfD: Die vergifteten Ratschläge der Sahra Wagenknecht",
     "Gaza - Hamas meldet 25 Tote nach israelischen Angriffen auf Gazastreifen",
     "Rom - Italien erlaubt Auslieferung von mutmaßlichem Nord-Stream-Saboteur",
     "Schanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
@@ -3003,10 +3002,10 @@
     "Truppeneinsatz - US-Richter entscheidet gegen Trumps Entsendung der Nationalgarde nach Los Angeles",
     "Streit um Namensverbot - \"Veggie-Burger\" und \"Tofu-Wurst\" bleiben in der EU als Bezeichnungen vorerst erlaubt",
     "SVP-Politiker - Wirtschaftsminister Parmelin wird 2026 erneut Bundespräsident der Schweiz",
-    "Trump administration seizes oil tanker off Venezuela coast: Reports"
+    "Trump administration seizes oil tanker off Venezuela coast: Reports",
+    "Federal Reserve - US-Notenbank Fed senkt erneut den Leitzins"
   ],
   "hashes": [
-    "6449b152ebae76a94ee25b20f8624ea8",
     "d05edffde32041fc5993eeb5818cebf7",
     "01c7ff158f697470988b59813547e6ac",
     "d7bd9c316f0b84b1b7d51fd9a0aa5537",
@@ -4005,6 +4004,7 @@
     "269d317b7f6c4dbaf4f6c97edcae6660",
     "b880fbed36f2c42e66b74a3346932c0d",
     "a039d74dedceaa1421f2fa652bbadaae",
-    "7ad3197c280c338e5ba8082f21703b81"
+    "7ad3197c280c338e5ba8082f21703b81",
+    "a00b0f58cc399f93dd6fd437187f9082"
   ]
 }
