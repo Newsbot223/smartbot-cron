@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-todesopfer-nach-israelischem-luftangriff-im-libanon-gemeldet-102.html",
-    "https://www.faz.net/aktuell/politik/inland/brandenburg-das-zerstrittene-bsw-wird-fuer-woidke-zum-problem-110786112.html",
-    "https://www.deutschlandfunk.de/italien-entscheidet-ueber-auslieferung-des-mutmasslichen-drahtziehers-nach-deutschland-102.html",
     "https://www.deutschlandfunk.de/evangelische-christen-begehen-heute-buss-und-bettag-102.html",
     "https://www.deutschlandfunk.de/us-repraesentantenhaus-und-senat-stimmen-fuer-veroeffentlichung-der-epstein-akten-100.html",
     "https://www.deutschlandfunk.de/20-verletzte-nach-russischem-angriff-auf-charkiw-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/erneute-regierungskrise-abgewendet-frankreichs-nationalversammlung-verabschiedet-sozialhaushalt-102.html",
     "https://www.faz.net/aktuell/politik/inland/winfried-kretschmann-ehrt-angela-merkel-mit-staufermedaille-accg-200341667.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-renten-heizung-und-krankenkassen-102.html",
-    "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-altkanzlerin-nennt-corona-pandemie-demokratische-zumutun-102.html"
+    "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-altkanzlerin-nennt-corona-pandemie-demokratische-zumutun-102.html",
+    "https://www.deutschlandfunk.de/eu-einigung-auf-klimaschutz-zwischenziel-fuer-100.html",
+    "https://www.deutschlandfunk.de/hoechste-unhcr-auszeichnung-geht-an-ortsvorsteher-aus-kamerun-102.html",
+    "https://www.spiegel.de/politik/bsw-reinhard-simon-und-melanie-matzies-sind-wieder-mitglieder-im-buendnis-sahra-wagenknecht-a-b485a1a2-fecb-4245-a8d8-c37274c6ac67#ref=rss"
   ],
   "content_hashes": [
-    "519a56248e0aff54324a1e8938c531e1",
-    "c88577df3ad29cb38012805256484bea",
-    "d77d6cfecaf5cf2bb2c764cbfda65e6b",
     "52e2c5c1c0829d68b84d9ca65ab6717f",
     "280454ae895239ade28a23d5fd7ff6e4",
     "1002c84a20e812b61aa21a51f7438844",
@@ -2001,12 +1998,12 @@
     "05e6c5b7fb37d0a4703b58031e5e21e9",
     "699c5275957fe2d39f0b941cf5560c49",
     "b23e0098c0790027f69734a567979bf2",
-    "073dcbb3490a6a938e81dc3c889e6e0b"
+    "073dcbb3490a6a938e81dc3c889e6e0b",
+    "182dc543eced53d1069a8d4704a5a786",
+    "b520a171a9c1193bc5808c9acc15b1da",
+    "a6929c25cc2a4d44da831fd41435bc93"
   ],
   "titles": [
-    "Nahost - Mehrere Todesopfer nach israelischem Luftangriff im Libanon gemeldet",
-    "Abstimmung in Brandenburg: Das zerstrittene BSW wird für Woidke zum Problem",
-    "Nord Stream - Italien entscheidet über Auslieferung des mutmaßlichen Drahtziehers nach Deutschland",
     "Feiertag - Evangelische Christen begehen heute Buß- und Bettag",
     "Washington - US-Repräsentantenhaus und Senat stimmen für Veröffentlichung der Epstein-Akten",
     "Ukraine-Krieg - 20 Verletzte nach russischem Angriff auf Charkiw",
@@ -3003,12 +3000,12 @@
     "Paris - Erneute Regierungskrise abgewendet: Frankreichs Nationalversammlung verabschiedet Sozialhaushalt",
     "Ehrung für Pandemie-Politik: Zwei schwarz-grüne Naturwissenschaftler",
     "Schwarz-Rotes Spitzengremium - Koalitionsausschuss berät über Renten, Heizung und Krankenkassen",
-    "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille - Altkanzlerin nennt Corona-Pandemie \"demokratische Zumutung\""
+    "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille - Altkanzlerin nennt Corona-Pandemie \"demokratische Zumutung\"",
+    "Nach Verhandlungen in Brüssel - EU-Einigung auf Klimaschutz-Zwischenziel für 2040",
+    "\"Nansen\"-Preis - Höchste UNHCR-Auszeichnung geht an Ortsvorsteher aus Kamerun",
+    "BSW: Reinhard Simon und Melanie Matzies sind wieder Mitglieder im Bündnis Sahra Wagenknecht"
   ],
   "hashes": [
-    "3ce221211eea9e0dfb6307e17d003732",
-    "45fe5fd6f6873b803304e8dcd50c2f44",
-    "f1c988c445e6161ab20000284016ad2b",
     "98bf3e3cae5bed9c1286ef8e36ec23ec",
     "d0c7906f114e2dc1e51068846a5deecc",
     "cb704d8ef8bc1648ebfa238da6bc04f9",
@@ -4005,6 +4002,9 @@
     "b6e5339317e8dfbe37aa69cbbb19482b",
     "f6981e4851878c455d0cbd505a94efdf",
     "43f14a6198fff88d9c08943a1a108261",
-    "1f8f0b37e269a4a91b8f36a34d9817b4"
+    "1f8f0b37e269a4a91b8f36a34d9817b4",
+    "0e6f5f5da99051c38204b6f31f094f83",
+    "353faf254a0cbe23bfc3ef59396618a6",
+    "69cc48250450f7a07ebde263bec3cf10"
   ]
 }
