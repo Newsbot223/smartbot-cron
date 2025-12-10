@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-repraesentantenhaus-und-senat-stimmen-fuer-veroeffentlichung-der-epstein-akten-100.html",
-    "https://www.deutschlandfunk.de/20-verletzte-nach-russischem-angriff-auf-charkiw-102.html",
     "https://www.deutschlandfunk.de/gruenen-chefin-brantner-wirft-junger-union-unehrlichkeit-vor-100.html",
     "https://www.deutschlandfunk.de/auch-senat-stellt-weichen-fuer-freigabe-von-epstein-akten-100.html",
     "https://www.deutschlandfunk.de/kabinett-stimmt-ueber-aenderungen-am-luftsicherheitsgesetz-ab-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-einigung-auf-klimaschutz-zwischenziel-fuer-100.html",
     "https://www.deutschlandfunk.de/hoechste-unhcr-auszeichnung-geht-an-ortsvorsteher-aus-kamerun-102.html",
     "https://www.spiegel.de/politik/bsw-reinhard-simon-und-melanie-matzies-sind-wieder-mitglieder-im-buendnis-sahra-wagenknecht-a-b485a1a2-fecb-4245-a8d8-c37274c6ac67#ref=rss",
-    "https://www.deutschlandfunk.de/bundesregierung-startet-gespraeche-mit-verbaenden-102.html"
+    "https://www.deutschlandfunk.de/bundesregierung-startet-gespraeche-mit-verbaenden-102.html",
+    "https://www.deutschlandfunk.de/social-media-verbot-ist-keine-loesung-102.html",
+    "https://www.deutschlandfunk.de/erneute-regierungskrise-abgewendet-nationalversammlung-verabschiedet-sozialhaushalt-102.html"
   ],
   "content_hashes": [
-    "280454ae895239ade28a23d5fd7ff6e4",
-    "1002c84a20e812b61aa21a51f7438844",
     "ae0bd152b515d4abb28ce096919316f5",
     "cdffeccf01a34ecb8b9da77ad75d6d68",
     "b87014b813e0788940d9c1f20006591c",
@@ -2001,11 +1999,11 @@
     "182dc543eced53d1069a8d4704a5a786",
     "b520a171a9c1193bc5808c9acc15b1da",
     "a6929c25cc2a4d44da831fd41435bc93",
-    "102719bd5fb47a51bb924ca5f4e85aa0"
+    "102719bd5fb47a51bb924ca5f4e85aa0",
+    "fcb31751556272293225b0e0e462c6f3",
+    "4aee020b29690dc936cd5525a289e808"
   ],
   "titles": [
-    "Washington - US-Repräsentantenhaus und Senat stimmen für Veröffentlichung der Epstein-Akten",
-    "Ukraine-Krieg - 20 Verletzte nach russischem Angriff auf Charkiw",
     "Rentenpaket - Grünen-Chefin Brantner wirft Junger Union Unehrlichkeit vor",
     "Washington - Auch Senat stellt Weichen für Freigabe von Epstein-Akten",
     "Drohnenabwehr - Kabinett stimmt über Änderungen am Luftsicherheitsgesetz ab",
@@ -3003,11 +3001,11 @@
     "Nach Verhandlungen in Brüssel - EU-Einigung auf Klimaschutz-Zwischenziel für 2040",
     "\"Nansen\"-Preis - Höchste UNHCR-Auszeichnung geht an Ortsvorsteher aus Kamerun",
     "BSW: Reinhard Simon und Melanie Matzies sind wieder Mitglieder im Bündnis Sahra Wagenknecht",
-    "Möglicher Zivildienst - Bundesregierung startet Gespräche mit Verbänden"
+    "Möglicher Zivildienst - Bundesregierung startet Gespräche mit Verbänden",
+    "Schülervertreter - \"Social-Media-Verbot ist keine Lösung\"",
+    "Frankreich - Erneute Regierungskrise abgewendet - Nationalversammlung verabschiedet Sozialhaushalt"
   ],
   "hashes": [
-    "d0c7906f114e2dc1e51068846a5deecc",
-    "cb704d8ef8bc1648ebfa238da6bc04f9",
     "6c41c7ee1bbecd0953086a4dc5d2c494",
     "8facb223ea8b5adc3ecb71b664103628",
     "1b1feb41af5564b8c96511a2e05d879e",
@@ -4005,6 +4003,8 @@
     "0e6f5f5da99051c38204b6f31f094f83",
     "353faf254a0cbe23bfc3ef59396618a6",
     "69cc48250450f7a07ebde263bec3cf10",
-    "2b13c0bcb6cff580027ce499138a8b3d"
+    "2b13c0bcb6cff580027ce499138a8b3d",
+    "999da4cf74e8dab730d31421550351ba",
+    "e3f2939e428c919c5954c005879572ab"
   ]
 }
