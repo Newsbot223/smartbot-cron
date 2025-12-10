@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/elektronische-fussfessel-im-kampf-gegen-haeusliche-gewalt-bundesregierung-billigt-gesetzentwurf-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wahlpruefungsausschuss-in-eigener-sache-110785929.html",
     "https://www.deutschlandfunk.de/bayerische-kz-gedenkstaetten-erhalten-vom-bund-21-8-millionen-euro-102.html",
     "https://www.deutschlandfunk.de/bessere-medizinische-und-soziale-versorgung-bei-chronischen-erschoepfungssyndromen-angemahnt-100.html",
     "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-koennte-deutschlands-wachstum-stark-befeuern-a-8a9c3ba1-4c95-4a74-afd2-de5ff903a2cf#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz-a-2e2745c2-58ca-4419-80c7-09be35fb0cee#ref=rss",
     "https://www.deutschlandfunk.de/bundeskabinett-beschliesst-schaerferes-vorgehen-gegen-scheinvaterschaften-rolle-der-auslaenderbehoer-100.html",
     "https://www.deutschlandfunk.de/italienische-kueche-zum-weltkulturerbe-erklaert-100.html",
-    "https://www.deutschlandfunk.de/us-grenzschutzbehoerde-will-touristen-zur-offenlegung-von-social-media-beitraegen-der-letzten-fuenf--100.html"
+    "https://www.deutschlandfunk.de/us-grenzschutzbehoerde-will-touristen-zur-offenlegung-von-social-media-beitraegen-der-letzten-fuenf--100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-buergergeld-reform-wird-kommende-woche-beschlossen-bericht-ueber-veto-von-reiche--100.html",
+    "https://www.deutschlandfunk.de/nach-trump-kritik-merz-verweist-auf-kurskorrektur-in-migrationspolitik-100.html"
   ],
   "content_hashes": [
-    "efaad7df8bce3c83c8ccbea4e2c038dc",
-    "8324675be26763a3a44a64a73c3ae369",
     "828c82cff2fb59d14fa55e9bb4d4f134",
     "e79d0af5a06ba24c0de333ce5aead279",
     "2c32c39eeaabe58b973881890df1d905",
@@ -2001,11 +1999,11 @@
     "01eed522c1dd6f33b3ace7f1ab19049a",
     "a9ade15cd3cf14bfcc777560c2c50d2f",
     "4a2d7b878bbf999c36245143e29be2aa",
-    "83dec4933988d8a1d080035d7fc7fac7"
+    "83dec4933988d8a1d080035d7fc7fac7",
+    "4292a523c49f5d82962373a856292673",
+    "e97d92bbf5f72cdd6c35c392c49f8d98"
   ],
   "titles": [
-    "Kabinett - Elektronische Fußfessel im Kampf gegen häusliche Gewalt - Bundesregierung billigt Gesetzentwurf",
-    "Wahlprüfung im Bundestag: Wenn das Parlament in eigener Sache entscheidet",
     "Modernisierung - Bayerische KZ-Gedenkstätten erhalten vom Bund 21,8 Millionen Euro",
     "LongCovid und ME/CFS - Bessere medizinische und soziale Versorgung bei chronischen Erschöpfungssyndromen angemahnt",
     "Künstliche Intelligenz könnte Deutschlands Wachstum stark befeuern",
@@ -3003,11 +3001,11 @@
     "Glasfaserausbau: Monopolkommission warnt vor Telekom-Dominanz",
     "Betrug - Bundeskabinett beschließt schärferes Vorgehen gegen Scheinvaterschaften - Rolle der Ausländerbehörde gestärkt",
     "Unesco - Italienische Küche zum Weltkulturerbe erklärt",
-    "Vereinigte Staaten - US-Grenzschutzbehörde will Touristen zur Offenlegung von Social-Media-Beiträgen der letzten fünf Jahre verpflichten"
+    "Vereinigte Staaten - US-Grenzschutzbehörde will Touristen zur Offenlegung von Social-Media-Beiträgen der letzten fünf Jahre verpflichten",
+    "Grundsicherung - Bundeskanzler Merz: Bürgergeld-Reform wird kommende Woche beschlossen - Bericht über Veto von Reiche und Dobrindt",
+    "Spannungen zwischen USA und EU - Nach Trump-Kritik: Merz verweist auf \"Kurskorrektur\" in Migrationspolitik"
   ],
   "hashes": [
-    "8d123d5623a393be27c4aaa8725fcc4c",
-    "dff942773477832957e9e6dfec026cf6",
     "ba7cc587b4b34cefe1cae2c54efc07eb",
     "ff3d35b053f8dc630c56fcd0f6f42558",
     "0fca3dd83872739bc7a62f7bf274b24e",
@@ -4005,6 +4003,8 @@
     "4bd883e5921dd04eb92f704a555c1545",
     "db3e0da05d5e65952dfdb1aa878c0ef7",
     "71a94f83533be3dbffb106e85c07134b",
-    "581064ef3691200695ed2724bc172a87"
+    "581064ef3691200695ed2724bc172a87",
+    "4f59cbe163d456653e459c903275e672",
+    "fdd27c06425ddab02950b3754060c9b9"
   ]
 }
