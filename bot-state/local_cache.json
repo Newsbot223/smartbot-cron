@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-verteidigt-merz-bin-dafuer-dass-politiker-auch-mal-frei-reden-duerfen-faz-110093143.html",
-    "https://www.deutschlandfunk.de/bundesregierung-beschliesst-gesetz-zur-drohnenabwehr-100.html",
-    "https://www.deutschlandfunk.de/elektronische-fussfessel-im-kampf-gegen-haeusliche-gewalt-bundesregierung-billigt-gesetzentwurf-vorb-100.html",
     "https://www.deutschlandfunk.de/bahn-verschiebt-start-von-stuttgart-21-erneut-100.html",
     "https://www.faz.net/aktuell/politik/inland/femizid-warum-deutschland-eine-definition-braucht-200238763.html",
     "https://www.deutschlandfunk.de/eu-will-rund-3-000-polizisten-im-gazastreifen-ausbilden-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesregierung-will-journalisten-besser-vor-einschuechterungsklagen-schuetzen-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-plant-billionen-investition-zur-verbesserung-der-versorgungssicherheit-102.html",
     "https://www.deutschlandfunk.de/koalition-der-willigen-beraet-morgen-ueber-weitere-unterstuetzung-der-ukraine-und-us-friexdensplan-100.html",
-    "https://www.deutschlandfunk.de/unternehmer-dinglreiter-wird-chef-von-gesamtmetall-100.html"
+    "https://www.deutschlandfunk.de/unternehmer-dinglreiter-wird-chef-von-gesamtmetall-100.html",
+    "https://www.deutschlandfunk.de/kabinettsbeschluss-bundesregierung-will-journalisten-besser-vor-einschuechterungsklagen-schuetzen-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-ausbildungsvertraege-sinkt-zum-zweiten-mal-in-folge-100.html",
+    "https://www.spiegel.de/netzwelt/glasfaserausbau-monopolkommission-warnt-vor-telekom-dominanz-a-2e2745c2-58ca-4419-80c7-09be35fb0cee#ref=rss"
   ],
   "content_hashes": [
-    "05498dd7c7667a91feba191c6c49f66f",
-    "715743bef343ba326f7336a8c8c15d7d",
-    "0e3798285a4c735724ae3a56d5903276",
     "6ea6853eb09c282cc2a113e5fcb5a794",
     "199090d1310cd791b847924198bf3e2f",
     "2f03fcbbaa5eb4b837f00ecb3044a73e",
@@ -2001,12 +1998,12 @@
     "798a6076d3f333c474ef5483e527e097",
     "6501eb26153e9c640eb2a98332a7d5d9",
     "c3e2377fd99821d1e350a3a2cf77bded",
-    "743194c8f2cdda4f1bd42dffec509b80"
+    "743194c8f2cdda4f1bd42dffec509b80",
+    "d76baa41ffa4f18a1a04eb02a9e25cb9",
+    "7ae4acf63379534e0e6a56e23407b033",
+    "01eed522c1dd6f33b3ace7f1ab19049a"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Klingbeil verteidigt Merz: „Bin dafür, dass Politiker auch mal frei reden dürfen“",
-    "Neues Luftsicherheitsgesetz - Bundesregierung beschließt Gesetz zur Drohnenabwehr",
-    "Kabinett - Elektronische Fußfessel im Kampf gegen häusliche Gewalt - Bundesregierung billigt Gesetzentwurf - Vorbild Spanien",
     "Medienbericht - Bahn verschiebt Start von Stuttgart 21 erneut",
     "Gewalt an Frauen: Warum Deutschland eine Femizid-Definition braucht",
     "Gaza-Friedensplan - EU will rund 3.000 Polizisten im Gazastreifen ausbilden",
@@ -3003,12 +3000,12 @@
     "Kabinettssitzung - Bundesregierung will Journalisten besser vor Einschüchterungsklagen schützen",
     "Energie - EU-Kommission plant Billionen-Investition zur Verbesserung der Versorgungssicherheit",
     "Videoschalte - \"Koalition der Willigen\" berät morgen über weitere Unterstützung der Ukraine und US-Friexdensplan",
-    "Arbeitgeberverband - Unternehmer Dinglreiter wird Chef von Gesamtmetall"
+    "Arbeitgeberverband - Unternehmer Dinglreiter wird Chef von Gesamtmetall",
+    "\"Slapp-Klagen\" - Kabinettsbeschluss: Bundesregierung will Journalisten besser vor Einschüchterungsklagen schützen",
+    "Statistik - Zahl der Ausbildungsverträge sinkt zum zweiten Mal in Folge",
+    "Glasfaserausbau: Monopolkommission warnt vor Telekom-Dominanz"
   ],
   "hashes": [
-    "61b28376185e3b05190830eb7cdd57d6",
-    "ac7e28d18f6b855385844d1c53db6e38",
-    "cad47018f6ca6b60598d710d79918dbe",
     "8ca9c4a7b57ec7ffebbed82525d07574",
     "f24a779594571a571e8d15e4cf10b579",
     "11bffced9faa7927a721b2abfe1380a8",
@@ -4005,6 +4002,9 @@
     "1f57e07acf8e744920c81e29e69c75cb",
     "5c5dd3bb7725337f6da1bcada83dc04b",
     "2083e097e18ed14dc66126828d507eeb",
-    "19615ef08b3f88a43603a7967ffbdc4d"
+    "19615ef08b3f88a43603a7967ffbdc4d",
+    "e4b5763bba2e2da50910eefc8d6694c4",
+    "273d141d696f203b78c06024a70beef5",
+    "4bd883e5921dd04eb92f704a555c1545"
   ]
 }
