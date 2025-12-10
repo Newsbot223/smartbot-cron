@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hamas-meldet-25-tote-nach-israelischen-angriffen-auf-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/italien-erlaubt-auslieferung-von-mutmasslichem-nord-stream-saboteur-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stuttgart-21-es-faehrt-kein-zug-nach-nirgendwo-110786689.html",
     "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-102.html",
     "https://www.deutschlandfunk.de/usa-und-russland-handeln-plan-fuer-kriegsende-aus-104.html",
     "https://www.deutschlandfunk.de/klingbeil-dringt-nach-china-besuch-auf-fairen-wettbewerb-und-zugang-zu-seltenen-erden-108.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/veggie-burger-und-tofu-wurst-bleiben-in-der-eu-als-bezeichnungen-vorerst-erlaubt-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsminister-parmelin-wird-2026-erneut-bundespraesident-der-schweiz-100.html",
     "https://www.aljazeera.com/news/2025/12/10/trump-admin-seizes-oil-tanker-off-venezuela-coast-reports?traffic_source=rss",
-    "https://www.deutschlandfunk.de/us-notenbank-fed-senkt-erneut-den-leitzins-100.html"
+    "https://www.deutschlandfunk.de/us-notenbank-fed-senkt-erneut-den-leitzins-100.html",
+    "https://www.deutschlandfunk.de/trump-usa-beschlagnahmen-oeltanker-vor-venezuela-100.html",
+    "https://www.deutschlandfunk.de/haus-grund-und-bund-der-steuerzahler-kuendigen-verfassungsbeschwerde-gegen-grundsteuer-reform-an-102.html",
+    "https://www.deutschlandfunk.de/200-000-liter-rohoel-in-brandenburg-aus-einer-pipeline-ausgetreten-100.html",
+    "https://www.deutschlandfunk.de/geschaetzte-zahl-der-opfer-weiblicher-genitalverstuemmelung-in-deutschland-deutlich-gestiegen-100.html"
   ],
   "content_hashes": [
-    "0c74c1b21649796d92b9209f4a3cb77a",
-    "cb99ee4f8adf24a44fa5a8016c3bcbe5",
-    "11b7ebd11fe27ef9a642ff3f36e19e79",
-    "df8233aa68d98f81b75bc7ef2886afac",
     "051778bd6488ae9cd53567c6f1c5bc7a",
     "f755457d81499e1050f455ae1533835b",
     "57a3678d29c2e25ce08193c3a785f245",
@@ -2001,13 +1997,13 @@
     "e120b2cdce57fa9a7d259b3bbbfb9d50",
     "a94887e105724db9bce743deb4499fd0",
     "6b3762a609b2fc5a94babf3208b4bcfc",
-    "f170752cc97f8e8b60d19236acf6a2f0"
+    "f170752cc97f8e8b60d19236acf6a2f0",
+    "7c22a839c9ec7aa9c5207c00cd74eac4",
+    "39fd52e36d2eb23a426b3086a60f7244",
+    "7130bea3dfd74b0d7fbb556a1e596e61",
+    "3103d02e4c133dbbc4e38154ea765c3a"
   ],
   "titles": [
-    "Gaza - Hamas meldet 25 Tote nach israelischen Angriffen auf Gazastreifen",
-    "Rom - Italien erlaubt Auslieferung von mutmaßlichem Nord-Stream-Saboteur",
-    "Schanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
-    "Nicht nur Stuttgart 21: Es fährt kein Zug nach nirgendwo",
     "Wirtschaft - Nvidia steigert Gewinn im dritten Quartal deutlich",
     "Medienberichte - USA und Russland handeln Plan für Kriegsende aus",
     "Shanghai - Klingbeil dringt nach China-Besuch auf fairen Wettbewerb und Zugang zu Seltenen Erden",
@@ -3003,13 +2999,13 @@
     "Streit um Namensverbot - \"Veggie-Burger\" und \"Tofu-Wurst\" bleiben in der EU als Bezeichnungen vorerst erlaubt",
     "SVP-Politiker - Wirtschaftsminister Parmelin wird 2026 erneut Bundespräsident der Schweiz",
     "Trump administration seizes oil tanker off Venezuela coast: Reports",
-    "Federal Reserve - US-Notenbank Fed senkt erneut den Leitzins"
+    "Federal Reserve - US-Notenbank Fed senkt erneut den Leitzins",
+    "Einsatz der US-Küstenwache - Trump: USA beschlagnahmen Öltanker vor Venezuela",
+    "Nach Bundesfinanzhof-Entscheidung - \"Haus & Grund\" und Bund der Steuerzahler kündigen Verfassungsbeschwerde gegen Grundsteuer-Reform an",
+    "Ölhavarie - 200.000 Liter Rohöl in Brandenburg aus einer Pipeline ausgetreten",
+    "Bundesfamilienministerium - Geschätzte Zahl der Opfer weiblicher Genitalverstümmelung in Deutschland deutlich gestiegen"
   ],
   "hashes": [
-    "d05edffde32041fc5993eeb5818cebf7",
-    "01c7ff158f697470988b59813547e6ac",
-    "d7bd9c316f0b84b1b7d51fd9a0aa5537",
-    "abc11efbfe219b1ad6a96defa3c60089",
     "506640507054cbef1d56fe4f94ffe61a",
     "34db84e67a5825accc183ba7ef52f17e",
     "2e3f56f5e7062bb6e2f28d43ec7e6dac",
@@ -4005,6 +4001,10 @@
     "b880fbed36f2c42e66b74a3346932c0d",
     "a039d74dedceaa1421f2fa652bbadaae",
     "7ad3197c280c338e5ba8082f21703b81",
-    "a00b0f58cc399f93dd6fd437187f9082"
+    "a00b0f58cc399f93dd6fd437187f9082",
+    "44b1ede671400d55bf709699f9cb399b",
+    "8f061e43830a471255d896e7eb06dff2",
+    "beaf3ef5a1f334a3458eabdcfb7d98f1",
+    "10d0092a87e6e8742fcd03320712de46"
   ]
 }
