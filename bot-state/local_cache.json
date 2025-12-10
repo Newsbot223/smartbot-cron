@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-e-auto-laden-soll-so-unkompliziert-werden-wie-tanken-100.html",
-    "https://www.deutschlandfunk.de/zehn-tote-bei-israelischem-angriff-auf-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/erdogan-ruft-zur-wiederaufnahme-der-verhandlungen-zwischen-russland-und-der-ukraine-auf-100.html",
     "https://www.spiegel.de/ausland/merz-haelt-beziehungen-zu-brasilien-nicht-fuer-belastet-und-will-am-wochenende-mit-lula-sprechen-a-5fbca3ec-e8d4-4a98-9680-6d44e7d34b1b#ref=rss",
     "https://www.faz.net/aktuell/politik/die-vergifteten-ratschlaege-der-sahra-wagenknecht-110786942.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/silber-preis-steigt-auf-neuen-hoechststand-100.html",
     "https://www.deutschlandfunk.de/bundeslanwirtschaftsminister-rainer-will-agrarexporte-staerker-foerdern-100.html",
     "https://www.deutschlandfunk.de/forscher-empfehlen-gesetzliche-pflicht-fuer-nutri-score-lebensmittelampel-laut-studie-von-mehrheit-d-100.html",
-    "https://www.deutschlandfunk.de/bundeskabinett-stimmt-unterzeichnung-von-mercosur-handelsabkommen-zu-100.html"
+    "https://www.deutschlandfunk.de/bundeskabinett-stimmt-unterzeichnung-von-mercosur-handelsabkommen-zu-100.html",
+    "https://www.deutschlandfunk.de/us-richter-entscheidet-gegen-trumps-entsendung-der-nationalgarde-nach-los-angeles-100.html",
+    "https://www.deutschlandfunk.de/veggie-burger-und-tofu-wurst-bleiben-in-der-eu-als-bezeichnungen-vorerst-erlaubt-100.html"
   ],
   "content_hashes": [
-    "6bcc0ea9b124173ff98e362f0bf3b347",
-    "60147acde372d0b5ee8c46415004f3e5",
     "1ca73bbc67196969df803fb8fa0d6eba",
     "1c9ada42b6e1e570631307fc89c41751",
     "52351c1e675a33f3a5faca1bce53f2c9",
@@ -2001,11 +1999,11 @@
     "c0ce02c6a2528aa1c23e496cbbeab80d",
     "e84721918864f5261616e3e033469f1c",
     "96850dbf2b9509a14446dd0cedbc8cad",
-    "9263d575df9ce5d2b470c31bf245b05b"
+    "9263d575df9ce5d2b470c31bf245b05b",
+    "023eaa88768a60d3d0ef549a81270185",
+    "e120b2cdce57fa9a7d259b3bbbfb9d50"
   ],
   "titles": [
-    "Elektromobilität - Bundesregierung: E-Auto-Laden soll so unkompliziert werden wie Tanken",
-    "Gaza - Zehn Tote bei israelischem Angriff auf Gazastreifen",
     "Ankara - Erdogan ruft zur Wiederaufnahme der Verhandlungen zwischen Russland und der Ukraine auf",
     "Merz hält Beziehungen zu Brasilien nicht für belastet und will am Wochenende mit Lula sprechen",
     "Empfehlungen zur AfD: Die vergifteten Ratschläge der Sahra Wagenknecht",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Silber-Preis steigt auf neuen Höchststand",
     "Internationale Märkte - Bundeslanwirtschaftsminister Rainer will Agrarexporte stärker fördern",
     "Ernährung - Forscher empfehlen gesetzliche Pflicht für Nutri-Score - \"Lebensmittelampel\" laut Studie von Mehrheit der Kunden befürwortet",
-    "Freihandel mit Südamerika - Bundeskabinett stimmt Unterzeichnung von Mercosur-Handelsabkommen zu"
+    "Freihandel mit Südamerika - Bundeskabinett stimmt Unterzeichnung von Mercosur-Handelsabkommen zu",
+    "Truppeneinsatz - US-Richter entscheidet gegen Trumps Entsendung der Nationalgarde nach Los Angeles",
+    "Streit um Namensverbot - \"Veggie-Burger\" und \"Tofu-Wurst\" bleiben in der EU als Bezeichnungen vorerst erlaubt"
   ],
   "hashes": [
-    "6a20023294b6e041659ab1e984160757",
-    "decfa1392c2f6bf11190031413697bf4",
     "570df05a1507d95c05a9c22808a5871b",
     "fb28690eb96abaece0b18ce0f141cc55",
     "6449b152ebae76a94ee25b20f8624ea8",
@@ -4005,6 +4003,8 @@
     "d37935f5683189ae1e84337d6bd5898b",
     "af642b85de83cb3fbca731db03a8cc8b",
     "14b6c4a7b7a5ee1cb2f3de6add86af1b",
-    "705f0ed7fb7cffa3df455337be28050d"
+    "705f0ed7fb7cffa3df455337be28050d",
+    "269d317b7f6c4dbaf4f6c97edcae6660",
+    "b880fbed36f2c42e66b74a3346932c0d"
   ]
 }
