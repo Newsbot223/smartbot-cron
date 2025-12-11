@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html",
-    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-ukraine-muss-gestaerkt-und-russland-geschwaecht-werden-100.html",
-    "https://www.deutschlandfunk.de/guterres-verlangt-zum-abschluss-der-klimakonferenz-mutige-entscheidungen-100.html",
-    "https://www.deutschlandfunk.de/susanne-schwarzbach-wird-als-dlf-chefredakteurin-nachfolgerin-von-birgit-wentzien-100.html",
-    "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-teilnehmer-in-sicherheit-gebracht-100.html",
     "https://www.deutschlandfunk.de/eu-erlaesst-sanktionen-gegen-stellvertretenden-chef-der-rsf-miliz-im-sudan-100.html",
     "https://www.faz.net/aktuell/politik/kommentar-ein-friedensplan-fuer-die-ukraine-der-keinen-frieden-bringt-110787583.html",
     "https://www.deutschlandfunk.de/ukraine-zu-beratungen-ueber-neuen-us-vorstoss-fuer-frieden-bereit-100.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/inland/rahmede-bruecke-an-a-45-wird-noch-vor-weihnachten-eroeffnet-accg-110801315.html",
     "https://www.deutschlandfunk.de/mehrere-haeuser-bei-sprengung-von-weltkriegs-bombe-in-hanau-beschaedigt-100.html",
     "https://www.deutschlandfunk.de/regierung-will-finanzierung-bis-ende-2026-neu-regeln-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/buergergeld-und-krankenkassen-koalition-rechnet-mit-einigung-noch-vor-weihnachten-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/buergergeld-und-krankenkassen-koalition-rechnet-mit-einigung-noch-vor-weihnachten-faz-110093143.html",
+    "https://www.deutschlandfunk.de/verbrenner-aus-offenbar-vom-tisch-100.html",
+    "https://www.deutschlandfunk.de/openai-muss-sich-wegen-anstiftung-zum-mord-verantworten-100.html",
+    "https://www.deutschlandfunk.de/bulgarien-regierung-ruecktritt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kurs-der-spd-mal-schroeder-sound-mal-klassenkampf-110801394.html",
+    "https://www.faz.net/aktuell/politik/inland/mehr-ist-eben-nicht-drin-110801524.html"
   ],
   "content_hashes": [
-    "fa8d5cd8f522cc15b37ea999189b94d0",
-    "82c32cd91f3f8063995bdf28f61f98e6",
-    "5ac63b06537f18b66e6d9ab651a1900a",
-    "1b39c0d852d817b97e02818de991c3f6",
-    "d231843ca76bc26f36ef33cb0e15fcb5",
     "f354fef66b9a0ff8b02fcc3d99cd242d",
     "769f75f4f0bd654106d7c18b6d77f4cc",
     "7cd1e3ebac1ebc26c2fa2253e1d26ff4",
@@ -2001,14 +1996,14 @@
     "6071b599924b51c4b2973310b2aa1a21",
     "4e5ee9253539a71742d50b98e8706b85",
     "ebebc4447d6673e568d5cc8c79bb3fd1",
-    "988d4067aa97d19241786bdb3e0ff126"
+    "988d4067aa97d19241786bdb3e0ff126",
+    "521129802ae894d66f98fcd75a1a8f88",
+    "4dc50a5f44279e344e9b9a282eff5334",
+    "1dbb9cb42a5a1358324475f72151dbef",
+    "ef711c974c2a2fc307257354e1d56a4e",
+    "3a7398852dbabd22396977e71abeeb1a"
   ],
   "titles": [
-    "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf",
-    "Krieg in der Ukraine - EU-Außenbeauftragte Kallas: Ukraine muss gestärkt und Russland geschwächt werden",
-    "COP30 in Belém - Guterres verlangt zum Abschluss der Klimakonferenz mutige Entscheidungen",
-    "In eigener Sache - Susanne Schwarzbach wird als DLF-Chefredakteurin Nachfolgerin von Birgit Wentzien",
-    "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz - Teilnehmer in Sicherheit gebracht",
     "Nordostafrika - EU erlässt Sanktionen gegen stellvertretenden Chef der RSF-Miliz im Sudan",
     "Friedensplan für Ukraine: Der Versailler Vertrag lässt grüßen",
     "Nach angeblichen Geheimgesprächen zwischen USA und Russland - Ukraine zu Beratungen über neuen US-Vorstoß für Frieden bereit",
@@ -3003,14 +2998,14 @@
     "Sauerlandlinie A 45: Rahmedalbrücke wird noch vor Weihnachten eröffnet",
     "Hessen - Mehrere Häuser bei Sprengung von Weltkriegs-Bombe in Hanau beschädigt",
     "Pflegeversicherung - Regierung will Finanzierung bis Ende 2026 neu regeln",
-    "Liveblog Bundespolitik: Bürgergeld und Krankenkassen: Koalition rechnet mit Einigung noch vor Weihnachten"
+    "Liveblog Bundespolitik: Bürgergeld und Krankenkassen: Koalition rechnet mit Einigung noch vor Weihnachten",
+    "EU-Kommission - Verbrenner-Aus offenbar vom Tisch",
+    "ChatGPT - OpenAI muss sich wegen Anstiftung zum Mord verantworten",
+    "Regierungsrücktritt - Politisches Beben in Bulgarien",
+    "Kurs der SPD: Mal Schröder-Sound, mal Klassenkampf",
+    "Zustand der Koalition: Krisen, Krampf und Kinkerlitzchen"
   ],
   "hashes": [
-    "3d464e4637320ee825a2ec90e13282c3",
-    "48d96ca92eb7a27846ed4dead072c4d2",
-    "7fdeac13e42faa8ce7028b52e607506b",
-    "cd8d13cc150ab65fd2c92443556b9ddc",
-    "aa1e83ac67e4d7be08de8117b35e0fa5",
     "05e26d7e682d9cfa368ed00165c99a7a",
     "0e974bcda568f34d9380f4b36ab51914",
     "a093594bbb8e12ae9c0a43616be87f5a",
@@ -4005,6 +4000,11 @@
     "95d8193fc57c16a0a5838b8c21343534",
     "b87d3f8b750439651882bd22e1e993d8",
     "853a9a152f716f79667f4ec7b560967c",
-    "aa97b5558cf92e26bc439432797cfc63"
+    "aa97b5558cf92e26bc439432797cfc63",
+    "e93d1f5145868ececc971948837509a1",
+    "926b65bd2916b52356efc8a54e1b1632",
+    "1ffe4189d5227f4d8335e3f609766ebe",
+    "399831aa506dbe829aa05721ca4ee02a",
+    "d8006a1e049aff695ac268038b9ab249"
   ]
 }
