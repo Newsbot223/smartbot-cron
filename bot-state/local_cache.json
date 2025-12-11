@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
-    "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html",
     "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
     "https://www.deutschlandfunk.de/klingbeil-in-singapur-deutschland-strebt-engere-zusammenarbeit-an-100.html",
     "https://www.deutschlandfunk.de/organisationen-kritisieren-buergergeld-reform-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ex-praesident-arce-wegen-korruptionsvorwuerfen-festgenommen-100.html",
     "https://www.deutschlandfunk.de/us-repraesentantenhaus-beschliesst-verteidigungshaushalt-im-umfang-von-fast-einer-billion-dollar-102.html",
     "https://www.deutschlandfunk.de/fast-jeder-zweite-in-deutschland-spendet-fuer-den-guten-zweck-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-bulgaren-fordern-den-ruecktritt-ihrer-regierung-108.html"
+    "https://www.deutschlandfunk.de/zehntausende-bulgaren-fordern-den-ruecktritt-ihrer-regierung-108.html",
+    "https://www.deutschlandfunk.de/kambodscha-fordert-uno-sicherheitsrat-zum-eingreifen-auf-100.html",
+    "https://www.deutschlandfunk.de/schweizer-jodeln-ist-immaterielles-kulturerbe-100.html"
   ],
   "content_hashes": [
-    "336bdeaa8c085027a9a8b5b69bbeea42",
-    "f4f2de29685816a16d996e3db8f24f1f",
     "d33294bdcdf527347915273a67b005ac",
     "79098a8a3f565028fa3bacf2c587723a",
     "21d2b63e006109b6a4f37d64233c066f",
@@ -2001,11 +1999,11 @@
     "1c937ad32120d57cdf0a32d7c0be5e62",
     "c932bc8b093a2b3e5865393b4d60d7ad",
     "ca79dae9699990cabf6eee4eb9311b4e",
-    "dae08d284ef201dfacb04c98bf10cd93"
+    "dae08d284ef201dfacb04c98bf10cd93",
+    "8f3827835064211166dcf59a196d2b14",
+    "9f1fbe24d94409ff05cf55698417e9cf"
   ],
   "titles": [
-    "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
-    "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau",
     "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
     "Bundesfinanzminister - Klingbeil in Singapur: Deutschland strebt engere Zusammenarbeit an",
     "\"Keine Überwindung der Armut\" - Organisationen kritisieren Bürgergeld-Reform",
@@ -3003,11 +3001,11 @@
     "Bolivien - Ex-Präsident Arce wegen Korruptionsvorwürfen festgenommen",
     "Washington - US-Repräsentantenhaus beschließt Verteidigungshaushalt im Umfang von fast einer Billion Dollar",
     "Soziales - Fast jeder Zweite in Deutschland spendet für den guten Zweck",
-    "Protestwelle - Zehntausende Bulgaren fordern den Rücktritt ihrer Regierung"
+    "Protestwelle - Zehntausende Bulgaren fordern den Rücktritt ihrer Regierung",
+    "Grenzkonflikt mit Thailand - Kambodscha fordert UNO-Sicherheitsrat zum Eingreifen auf",
+    "UNESCO - Schweizer Jodeln ist Immaterielles Kulturerbe"
   ],
   "hashes": [
-    "44800a55eeb779b9311c1d34b09b4523",
-    "3e3ec12b08ab0205e28f77778b598ea8",
     "4b1e82a39b291823594e72d37ad1beb1",
     "01a5b500c93590d5c51cbd89f3f04452",
     "d4d9f4a3be41b2f80596682ba2937fe8",
@@ -4005,6 +4003,8 @@
     "29144159a3c49d89d3acd0ca15382c46",
     "248396a677db003743b46eee0f1bbe21",
     "ae57742e2366f7184e52ccaa027fb873",
-    "db98d4bbf22c3dab7a451fe11f7de9dd"
+    "db98d4bbf22c3dab7a451fe11f7de9dd",
+    "6348d6b85f128a4c9cc09b8796b827d3",
+    "ace93116531481189678e4f66439b3bb"
   ]
 }
