@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahlreiche-verletzte-bei-zugunglueck-112.html",
-    "https://www.faz.net/aktuell/politik/inland/brandenburger-regierungskrise-die-cdu-als-woidkes-politischer-lebensretter-110787720.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-nimmt-52-afghanen-aus-pakistan-nach-klagen-auf-110787782.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-ukraine-muss-gestaerkt-und-russland-geschwaecht-werden-100.html",
     "https://www.deutschlandfunk.de/guterres-verlangt-zum-abschluss-der-klimakonferenz-mutige-entscheidungen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/baubranche-erwartet-trendwende-talsohle-durchschritten-100.html",
     "https://www.deutschlandfunk.de/koalition-will-grundzulage-auf-35-cent-je-euro-erhoehen-100.html",
     "https://www.faz.net/aktuell/politik/inland/rahmede-bruecke-an-a-45-wird-noch-vor-weihnachten-eroeffnet-accg-110801315.html",
-    "https://www.deutschlandfunk.de/mehrere-haeuser-bei-sprengung-von-weltkriegs-bombe-in-hanau-beschaedigt-100.html"
+    "https://www.deutschlandfunk.de/mehrere-haeuser-bei-sprengung-von-weltkriegs-bombe-in-hanau-beschaedigt-100.html",
+    "https://www.deutschlandfunk.de/regierung-will-finanzierung-bis-ende-2026-neu-regeln-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/buergergeld-und-krankenkassen-koalition-rechnet-mit-einigung-noch-vor-weihnachten-faz-110093143.html"
   ],
   "content_hashes": [
-    "6b20d9578329e950eaf84e7316f77a28",
-    "82e4b72eb3b0fbeda72463075f021bef",
     "fa8d5cd8f522cc15b37ea999189b94d0",
     "82c32cd91f3f8063995bdf28f61f98e6",
     "5ac63b06537f18b66e6d9ab651a1900a",
@@ -2001,11 +1999,11 @@
     "275e56338c87fe18382f22752fbb3ab3",
     "e19ed04713ea561b1c815e533bd122c9",
     "6071b599924b51c4b2973310b2aa1a21",
-    "4e5ee9253539a71742d50b98e8706b85"
+    "4e5ee9253539a71742d50b98e8706b85",
+    "ebebc4447d6673e568d5cc8c79bb3fd1",
+    "988d4067aa97d19241786bdb3e0ff126"
   ],
   "titles": [
-    "Tschechien - Zahlreiche Verletzte bei Zugunglück",
-    "Krise in Brandenburg: Die CDU als Woidkes Retter",
     "Nach Klagen: Deutschland nimmt 52 Afghanen aus Pakistan auf",
     "Krieg in der Ukraine - EU-Außenbeauftragte Kallas: Ukraine muss gestärkt und Russland geschwächt werden",
     "COP30 in Belém - Guterres verlangt zum Abschluss der Klimakonferenz mutige Entscheidungen",
@@ -3003,11 +3001,11 @@
     "ZDB - Baubranche erwartet Trendwende: \"Talsohle durchschritten\"",
     "Private Altersvorsorge - Koalition will Grundzulage auf 35 Cent je Euro erhöhen",
     "Sauerlandlinie A 45: Rahmedalbrücke wird noch vor Weihnachten eröffnet",
-    "Hessen - Mehrere Häuser bei Sprengung von Weltkriegs-Bombe in Hanau beschädigt"
+    "Hessen - Mehrere Häuser bei Sprengung von Weltkriegs-Bombe in Hanau beschädigt",
+    "Pflegeversicherung - Regierung will Finanzierung bis Ende 2026 neu regeln",
+    "Liveblog Bundespolitik: Bürgergeld und Krankenkassen: Koalition rechnet mit Einigung noch vor Weihnachten"
   ],
   "hashes": [
-    "043287ea9f969ff8bdd2649274fd3f3c",
-    "9693f184d20a667eb623eeedae24d97d",
     "3d464e4637320ee825a2ec90e13282c3",
     "48d96ca92eb7a27846ed4dead072c4d2",
     "7fdeac13e42faa8ce7028b52e607506b",
@@ -4005,6 +4003,8 @@
     "7bedd95be39f2d1ec49c470776bf163b",
     "01c28e195147e0fc92272be08826de4a",
     "95d8193fc57c16a0a5838b8c21343534",
-    "b87d3f8b750439651882bd22e1e993d8"
+    "b87d3f8b750439651882bd22e1e993d8",
+    "853a9a152f716f79667f4ec7b560967c",
+    "aa97b5558cf92e26bc439432797cfc63"
   ]
 }
