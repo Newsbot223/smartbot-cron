@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/52-afghanen-mit-aufnahmezusage-fliegen-nach-deutschland-100.html",
-    "https://www.deutschlandfunk.de/trump-unterzeichnet-gesetz-zur-freigabe-der-epstein-akten-100.html",
-    "https://www.deutschlandfunk.de/usa-und-russland-handeln-laut-medienberichten-plan-fuer-kriegsende-aus-100.html",
     "https://www.deutschlandfunk.de/nvidia-steigert-gewinn-im-dritten-quartal-deutlich-und-daempft-furcht-vor-ki-blase-100.html",
     "https://www.deutschlandfunk.de/ukraine-friedensplan-angebliche-absprachen-zwischen-washington-und-moskau-100.html",
     "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ergebnisse-von-spitzentreffen-am-morgen-104.html",
     "https://www.deutschlandfunk.de/zukunftspakt-pflege-stellt-eckpunkte-fuer-reform-vor-100.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-machado-tritt-bei-besuch-in-oslo-erstmals-wieder-oeffentlich-auf-100.html",
-    "https://www.deutschlandfunk.de/ex-praesident-arce-wegen-korruptionsvorwuerfen-festgenommen-100.html"
+    "https://www.deutschlandfunk.de/ex-praesident-arce-wegen-korruptionsvorwuerfen-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/us-repraesentantenhaus-beschliesst-verteidigungshaushalt-im-umfang-von-fast-einer-billion-dollar-102.html",
+    "https://www.deutschlandfunk.de/fast-jeder-zweite-in-deutschland-spendet-fuer-den-guten-zweck-100.html",
+    "https://www.deutschlandfunk.de/zehntausende-bulgaren-fordern-den-ruecktritt-ihrer-regierung-108.html"
   ],
   "content_hashes": [
-    "c78b6182633df39d2792b2e1d3387e72",
-    "d72268c6005211643f3fe3a7f40530b4",
-    "f416c10c3646b043e72a5d76381eecad",
     "336bdeaa8c085027a9a8b5b69bbeea42",
     "f4f2de29685816a16d996e3db8f24f1f",
     "d33294bdcdf527347915273a67b005ac",
@@ -2001,12 +1998,12 @@
     "069eed08f419dd525e1205e83d0f12b7",
     "4bd09a37f412e08c90ffe2c407ec601c",
     "fd90334044d8a073ee94400ab33e4edb",
-    "1c937ad32120d57cdf0a32d7c0be5e62"
+    "1c937ad32120d57cdf0a32d7c0be5e62",
+    "c932bc8b093a2b3e5865393b4d60d7ad",
+    "ca79dae9699990cabf6eee4eb9311b4e",
+    "dae08d284ef201dfacb04c98bf10cd93"
   ],
   "titles": [
-    "Aus Pakistan - 52 Afghanen mit Aufnahmezusage fliegen nach Deutschland",
-    "USA - Trump unterzeichnet Gesetz zur Freigabe der Epstein-Akten",
-    "Ukraine-Krieg - USA und Russland handeln laut Medienberichten Plan für Kriegsende aus",
     "Chip-Konzern - Nvidia steigert Gewinn im dritten Quartal deutlich und dämpft Furcht vor KI-Blase",
     "Ukraine-Friedensplan - Angebliche Absprachen zwischen Washington und Moskau",
     "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
@@ -3003,12 +3000,12 @@
     "Koalition - Ergebnisse von Spitzentreffen am Morgen",
     "Soziales - Zukunftspakt Pflege stellt Eckpunkte für Reform vor",
     "Norwegen - Friedensnobelpreisträgerin Machado tritt bei Besuch in Oslo erstmals wieder öffentlich auf",
-    "Bolivien - Ex-Präsident Arce wegen Korruptionsvorwürfen festgenommen"
+    "Bolivien - Ex-Präsident Arce wegen Korruptionsvorwürfen festgenommen",
+    "Washington - US-Repräsentantenhaus beschließt Verteidigungshaushalt im Umfang von fast einer Billion Dollar",
+    "Soziales - Fast jeder Zweite in Deutschland spendet für den guten Zweck",
+    "Protestwelle - Zehntausende Bulgaren fordern den Rücktritt ihrer Regierung"
   ],
   "hashes": [
-    "882d07e31b53a3a390f2888b37618a27",
-    "57687b24e76e9c419c0fa6079fe3323f",
-    "9d4d4afe5b9d1b4df4d365bb7cc1febe",
     "44800a55eeb779b9311c1d34b09b4523",
     "3e3ec12b08ab0205e28f77778b598ea8",
     "4b1e82a39b291823594e72d37ad1beb1",
@@ -4005,6 +4002,9 @@
     "7730d1e7559696cb9f871e5d901232d2",
     "c309d2ae6d47c1bec52813c0ebc45c25",
     "53f4c2b75f3c43c846df6848f6bc1eaa",
-    "29144159a3c49d89d3acd0ca15382c46"
+    "29144159a3c49d89d3acd0ca15382c46",
+    "248396a677db003743b46eee0f1bbe21",
+    "ae57742e2366f7184e52ccaa027fb873",
+    "db98d4bbf22c3dab7a451fe11f7de9dd"
   ]
 }
