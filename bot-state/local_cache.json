@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-erlaesst-sanktionen-gegen-stellvertretenden-chef-der-rsf-miliz-im-sudan-100.html",
-    "https://www.faz.net/aktuell/politik/kommentar-ein-friedensplan-fuer-die-ukraine-der-keinen-frieden-bringt-110787583.html",
     "https://www.deutschlandfunk.de/ukraine-zu-beratungen-ueber-neuen-us-vorstoss-fuer-frieden-bereit-100.html",
     "https://www.deutschlandfunk.de/feuer-auf-dem-gelaende-der-weltklimakonferenz-unter-kontrolle-100.html",
     "https://www.deutschlandfunk.de/klingbeil-klare-zusage-chinas-fuer-lieferung-seltener-erden-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/openai-muss-sich-wegen-anstiftung-zum-mord-verantworten-100.html",
     "https://www.deutschlandfunk.de/bulgarien-regierung-ruecktritt-100.html",
     "https://www.faz.net/aktuell/politik/inland/kurs-der-spd-mal-schroeder-sound-mal-klassenkampf-110801394.html",
-    "https://www.faz.net/aktuell/politik/inland/mehr-ist-eben-nicht-drin-110801524.html"
+    "https://www.faz.net/aktuell/politik/inland/mehr-ist-eben-nicht-drin-110801524.html",
+    "https://www.deutschlandfunk.de/selenskyj-usa-wollen-entmilitarisierte-zone-im-osten-der-ukraine-100.html",
+    "https://www.faz.net/aktuell/politik/inland/rahmede-bruecke-an-a45-wird-noch-vor-weihnachten-eroeffnet-accg-110801315.html"
   ],
   "content_hashes": [
-    "f354fef66b9a0ff8b02fcc3d99cd242d",
-    "769f75f4f0bd654106d7c18b6d77f4cc",
     "7cd1e3ebac1ebc26c2fa2253e1d26ff4",
     "31e5debd7c693a5e3395554a445ebe62",
     "73a0e04c816991cd7ce3da6dadcae16e",
@@ -2001,11 +1999,11 @@
     "4dc50a5f44279e344e9b9a282eff5334",
     "1dbb9cb42a5a1358324475f72151dbef",
     "ef711c974c2a2fc307257354e1d56a4e",
-    "3a7398852dbabd22396977e71abeeb1a"
+    "3a7398852dbabd22396977e71abeeb1a",
+    "a70f08582b25fb0962451536a8220442",
+    "5967bb32d1d84569902ee0faa951db9a"
   ],
   "titles": [
-    "Nordostafrika - EU erlässt Sanktionen gegen stellvertretenden Chef der RSF-Miliz im Sudan",
-    "Friedensplan für Ukraine: Der Versailler Vertrag lässt grüßen",
     "Nach angeblichen Geheimgesprächen zwischen USA und Russland - Ukraine zu Beratungen über neuen US-Vorstoß für Frieden bereit",
     "Brasilien - Feuer auf dem Gelände der Weltklimakonferenz unter Kontrolle",
     "Kritische Rohstoffe - Klingbeil: \"Klare Zusage\" Chinas für Lieferung Seltener Erden",
@@ -3003,11 +3001,11 @@
     "ChatGPT - OpenAI muss sich wegen Anstiftung zum Mord verantworten",
     "Regierungsrücktritt - Politisches Beben in Bulgarien",
     "Kurs der SPD: Mal Schröder-Sound, mal Klassenkampf",
-    "Zustand der Koalition: Krisen, Krampf und Kinkerlitzchen"
+    "Zustand der Koalition: Krisen, Krampf und Kinkerlitzchen",
+    "Russischer Angriffskrieg - Selenskyj: USA wollen entmilitarisierte Zone im Osten der Ukraine",
+    "Sauerlandlinie A 45: Rahmedetalbrücke wird noch vor Weihnachten eröffnet"
   ],
   "hashes": [
-    "05e26d7e682d9cfa368ed00165c99a7a",
-    "0e974bcda568f34d9380f4b36ab51914",
     "a093594bbb8e12ae9c0a43616be87f5a",
     "b2acb0217adc3c05ba7ec459b6ecbe29",
     "45cdc1193b9d684ef5d2782678b85413",
@@ -4005,6 +4003,8 @@
     "926b65bd2916b52356efc8a54e1b1632",
     "1ffe4189d5227f4d8335e3f609766ebe",
     "399831aa506dbe829aa05721ca4ee02a",
-    "d8006a1e049aff695ac268038b9ab249"
+    "d8006a1e049aff695ac268038b9ab249",
+    "0a67f75ac57acf78830862756239f517",
+    "7f804fe981702a8918ff7090053d0773"
   ]
 }
