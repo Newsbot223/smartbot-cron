@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iwf-prognose-wachstum-der-20-groessten-volkswirtschaften-auf-schwaechstem-stand-seit-finanzkrise-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-in-singapur-deutschland-strebt-engere-zusammenarbeit-an-100.html",
-    "https://www.deutschlandfunk.de/organisationen-kritisieren-buergergeld-reform-102.html",
     "https://www.deutschlandfunk.de/ig-metall-warnt-vor-verlagerung-von-teilen-der-produktion-nach-polen-100.html",
     "https://www.deutschlandfunk.de/tschechien-zahlreiche-verletzte-bei-zugunglueck-100.html",
     "https://www.deutschlandfunk.de/einigung-mit-musikkonzern-warner-ki-musikplattform-udio-darf-songs-gegen-verguetung-nutzen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/fast-jeder-zweite-in-deutschland-spendet-fuer-den-guten-zweck-100.html",
     "https://www.deutschlandfunk.de/zehntausende-bulgaren-fordern-den-ruecktritt-ihrer-regierung-108.html",
     "https://www.deutschlandfunk.de/kambodscha-fordert-uno-sicherheitsrat-zum-eingreifen-auf-100.html",
-    "https://www.deutschlandfunk.de/schweizer-jodeln-ist-immaterielles-kulturerbe-100.html"
+    "https://www.deutschlandfunk.de/schweizer-jodeln-ist-immaterielles-kulturerbe-100.html",
+    "https://www.deutschlandfunk.de/krankenkassen-spitzenverband-sparpaket-der-bundesregierung-reicht-nicht-aus-weiter-steigende-beitrae-102.html",
+    "https://www.deutschlandfunk.de/ukraine-greift-offenbar-erneut-tanker-im-schwarzen-meer-an-102.html",
+    "https://www.deutschlandfunk.de/cdu-politiker-schwab-europa-muss-im-streit-mit-der-us-regierung-ueber-digitalgesetze-selbstbewusst-b-100.html"
   ],
   "content_hashes": [
-    "d33294bdcdf527347915273a67b005ac",
-    "79098a8a3f565028fa3bacf2c587723a",
-    "21d2b63e006109b6a4f37d64233c066f",
     "9579022bc150b979a9d3f052cda5f808",
     "40942227e8b4f5e1ba6734c3a0b7acd1",
     "68865b297af1668585405f24692b2c69",
@@ -2001,12 +1998,12 @@
     "ca79dae9699990cabf6eee4eb9311b4e",
     "dae08d284ef201dfacb04c98bf10cd93",
     "8f3827835064211166dcf59a196d2b14",
-    "9f1fbe24d94409ff05cf55698417e9cf"
+    "9f1fbe24d94409ff05cf55698417e9cf",
+    "c9a55f8d2868fb5c57913d339cbadc23",
+    "b61b55aa52e488712e9643fbc7683a42",
+    "3e2eb7f9b20451230bf4b6ea243cb4ad"
   ],
   "titles": [
-    "Internationaler Währungsfonds - IWF-Prognose: Wachstum der 20 größten Volkswirtschaften auf schwächstem Stand seit Finanzkrise",
-    "Bundesfinanzminister - Klingbeil in Singapur: Deutschland strebt engere Zusammenarbeit an",
-    "\"Keine Überwindung der Armut\" - Organisationen kritisieren Bürgergeld-Reform",
     "Lkw-Hersteller MAN - IG Metall warnt vor Verlagerung von Teilen der Produktion nach Polen",
     "Nahe der Stadt Budweis - Tschechien: Zahlreiche Verletzte bei Zugunglück",
     "Künstliche Intelligenz - Einigung mit Musikkonzern Warner: KI-Musikplattform Udio darf Songs gegen Vergütung nutzen",
@@ -3003,12 +3000,12 @@
     "Soziales - Fast jeder Zweite in Deutschland spendet für den guten Zweck",
     "Protestwelle - Zehntausende Bulgaren fordern den Rücktritt ihrer Regierung",
     "Grenzkonflikt mit Thailand - Kambodscha fordert UNO-Sicherheitsrat zum Eingreifen auf",
-    "UNESCO - Schweizer Jodeln ist Immaterielles Kulturerbe"
+    "UNESCO - Schweizer Jodeln ist Immaterielles Kulturerbe",
+    "Gesundheit - Krankenkassen-Spitzenverband: Sparpaket der Bundesregierung reicht nicht aus - weiter steigende Beiträge erwartet",
+    "Medienberichte - Ukraine greift offenbar erneut Tanker im Schwarzen Meer an",
+    "Verfahren gegen Konzerne - CDU-Politiker Schwab: Europa muss im Streit mit der US-Regierung über Digitalgesetze selbstbewusst bleiben"
   ],
   "hashes": [
-    "4b1e82a39b291823594e72d37ad1beb1",
-    "01a5b500c93590d5c51cbd89f3f04452",
-    "d4d9f4a3be41b2f80596682ba2937fe8",
     "8643692d26bb5c07714e1f76037a15b0",
     "d2ab37230b7474a19fd3a72aea5a43a1",
     "eccbeac9bac4036c29a3d37815d89f87",
@@ -4005,6 +4002,9 @@
     "ae57742e2366f7184e52ccaa027fb873",
     "db98d4bbf22c3dab7a451fe11f7de9dd",
     "6348d6b85f128a4c9cc09b8796b827d3",
-    "ace93116531481189678e4f66439b3bb"
+    "ace93116531481189678e4f66439b3bb",
+    "ab4f82d61dc7613ce6ae70ecf487ddbd",
+    "8a01a3389b27525edb49294745b0826a",
+    "8814bc36e1cf6f69db7686c1d3c8326c"
   ]
 }
