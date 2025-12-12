@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rund-30-staaten-verlangen-fahrplan-gegen-fossile-104.html",
-    "https://www.deutschlandfunk.de/hubig-kuendigt-reformen-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/belem-und-berlin-nicht-die-saetze-des-kanzlers-sind-das-problem-110787644.html",
     "https://www.faz.net/aktuell/politik/inland/synodaler-rat-was-ist-von-dem-reformprojekt-uebrig-geblieben-110787652.html",
     "https://www.deutschlandfunk.de/neue-details-bekanntgeworden-ukraine-muesste-regionen-donezk-und-luhansk-an-russland-abtreten-102.html",
     "https://www.deutschlandfunk.de/kritik-von-verbaenden-und-unternehmer-104.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/flixtrain-will-neue-zuege-2028-auf-die-schiene-bringen-massiver-ausbau-von-verbindungen-geplant-100.html",
     "https://www.deutschlandfunk.de/nach-missbrauchsskandalen-an-thueringer-schulen-schutzkonzepte-sollen-nun-zuegiger-erarbeitet-werden-100.html",
     "https://www.deutschlandfunk.de/in-italien-rufen-gewerkschaften-zu-landesweiten-protesten-gegen-die-haushaltsplaene-der-regierung-me-100.html",
-    "https://www.deutschlandfunk.de/nach-gerichtsentscheidung-brego-garc-a-aus-abschiebehaft-entlassen-100.html"
+    "https://www.deutschlandfunk.de/nach-gerichtsentscheidung-brego-garc-a-aus-abschiebehaft-entlassen-100.html",
+    "https://www.deutschlandfunk.de/falsch-im-hausmuell-entsorgte-batterien-und-akkus-fuehren-immer-haeufiger-zu-braenden-in-entsorgungs-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-scheljaskow-gibt-nach-protesten-sein-amt-auf-104.html",
+    "https://www.deutschlandfunk.de/nemo-gibt-esc-pokal-wegen-teilnahme-israels-zurueck-104.html"
   ],
   "content_hashes": [
-    "252746a9dedcbbcaab66c80194be87c3",
-    "4e870dcca2ccb18c4a6794e0bc004869",
-    "5b82ee571a1c62fe0a4b5ada63c6ea56",
     "d5f7f327cfedf1d5e964e284c4a88448",
     "69a18a6a29e5b1ef325c8a743240c7ba",
     "07cccf6497ccf0f1f62eb32e4be1da15",
@@ -2001,12 +1998,12 @@
     "260c0d75c9014dde79ac9013c9bc6815",
     "9f786514fcd21d9fbd9d4f3b8172fb43",
     "83f680f90cb6093707ec099309a15678",
-    "25f842cab6e30ab3fec5ac186de19640"
+    "25f842cab6e30ab3fec5ac186de19640",
+    "78cee634a070d42926158ff5c269243f",
+    "95a439bdefde7a00402816d53c70f9fe",
+    "ad05ecaf1dbe964ce4707fe8f59f62de"
   ],
   "titles": [
-    "Brief an COP-Präsidentschaft - Rund 30 Staaten verlangen Fahrplan gegen Fossile",
-    "Gewalt gegen Frauen - Hubig kündigt Reformen an",
-    "Merz und die Stadtbilder: Belém und Berlin",
     "Streit über „Synodalen Rat“: Nach fünf Jahren ein weichgespültes Statut",
     "US-Plan-Entwurf - Neue Details bekanntgeworden: Ukraine müsste Regionen Donezk und Luhansk an Russland abtreten",
     "Wirtschaftspolitik der Regierung - Kritik von Verbänden und Unternehmer",
@@ -3003,12 +3000,12 @@
     "Fernverkehr - Flixtrain will neue Züge 2028 auf die Schiene bringen - massiver Ausbau von Verbindungen geplant",
     "Sexuelle Gewalt an Kindern - Nach Missbrauchsskandalen an Thüringer Schulen: Schutzkonzepte sollen nun zügiger erarbeitet werden",
     "Rom - In Italien rufen Gewerkschaften zu landesweiten Protesten gegen die Haushaltspläne der Regierung Meloni auf",
-    "USA - Nach Gerichtsentscheidung: Ábrego García aus Abschiebehaft entlassen"
+    "USA - Nach Gerichtsentscheidung: Ábrego García aus Abschiebehaft entlassen",
+    "E-Zigaretten und Co. - Falsch im Hausmüll entsorgte Batterien und Akkus führen immer häufiger zu Bränden in Entsorgungsanlagen",
+    "Bulgarien - Ministerpräsident Scheljaskow gibt nach Protesten sein Amt auf",
+    "Eurovision Song Contest - Nemo gibt ESC-Pokal wegen Teilnahme Israels zurück"
   ],
   "hashes": [
-    "8855adcb89d6cebf916e8fe5b79afb64",
-    "0b5d9c5bab85d32f66e514ca1ed73a8c",
-    "c58520fbfe653ed822784127f35b8430",
     "9837b4b41e288d4670e168aa81cd5a4b",
     "152648593153310cac1cae37a85ea659",
     "a79f8e4e41e55cb6ed1fe527b2918930",
@@ -4005,6 +4002,9 @@
     "4364b8841dcbaaa75a17636c0cd3d744",
     "f46367c8135def28e2f05b11fddc3afd",
     "6e182e6eb25dfd69b982bde60b815979",
-    "47cd1312c1a9cd83c0b3d4bdf255c5b7"
+    "47cd1312c1a9cd83c0b3d4bdf255c5b7",
+    "becf12138b88439ebdb73292202a3ef1",
+    "c646a7b166f641184990d743b3c40257",
+    "55330eca7ca2e3e392c85ea032bf8aff"
   ]
 }
