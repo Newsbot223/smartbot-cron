@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrat-fordert-mehr-schutz-vor-gewalt-fuer-aerzte-und-pfleger-neue-regeln-zur-rueckgabe-von-elekt-100.html",
-    "https://www.deutschlandfunk.de/katholische-geistliche-verklagen-trump-regierung-100.html",
     "https://www.deutschlandfunk.de/merz-fuehrt-kurzfristig-gespraeche-mit-selenskyj-macron-und-starmer-beratungen-ueber-us-plan-fuer-kr-104.html",
     "https://www.deutschlandfunk.de/e-autos-werden-fuer-selbe-strecken-genutzt-wie-verbrenner-zu-fuss-gehen-gewinnt-an-bedeutung-100.html",
     "https://www.deutschlandfunk.de/bundesrat-stoppt-sparpaket-fuer-stabile-krankenkassenbeitraege-vorerst-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zahl-der-firmeninsolvenzen-so-hoch-wie-zuletzt-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-macht-russland-fuer-cyber-angriffe-verantwortlich-102.html",
     "https://www.deutschlandfunk.de/shein-temu-aliexpress-eu-fuehrt-sonderabgabe-auf-billigimporte-ein-100.html",
-    "https://www.deutschlandfunk.de/gespraeche-zu-verbrenner-aus-dauern-an-100.html"
+    "https://www.deutschlandfunk.de/gespraeche-zu-verbrenner-aus-dauern-an-100.html",
+    "https://www.deutschlandfunk.de/moderate-steigerung-der-schienenmaut-fuer-bahnunternehmen-100.html",
+    "https://www.deutschlandfunk.de/fraport-will-erste-dividende-seit-der-corona-pandemie-zahlen-100.html"
   ],
   "content_hashes": [
-    "bda9a82d017e3116510615eec1bf4d50",
-    "89752a863915f1d2959526ac58ff5dda",
     "a1333f0db5e0b09dc8af7a486d2e5dbf",
     "c96a0563d98871a5bd3fa4f968778368",
     "d94dc92ffc406810a0d136ab7cec4481",
@@ -2001,11 +1999,11 @@
     "b751ede637c760818c8ad2a1842f61a7",
     "6e986b31f1af4fd13231ea53723e504f",
     "90863e9915b0109a6634d3e3afb24c65",
-    "62aae96a0ad7769b39f37f7cd54baced"
+    "62aae96a0ad7769b39f37f7cd54baced",
+    "e7698e1e1a3dd6f1ba4c55efb7296bdc",
+    "cea3a7b78f493996753b4100ec31b367"
   ],
   "titles": [
-    "Berlin - Bundesrat fordert mehr Schutz vor Gewalt für Ärzte und Pfleger - Neue Regeln zur Rückgabe von Elektroschrott",
-    "Seelsorge für Migranten - Katholische Geistliche verklagen Trump-Regierung",
     "Ukraine-Krieg - Merz führt kurzfristig Gespräche mit Selenskyj, Macron und Starmer - Beratungen über US-Plan für Kriegsende",
     "Mobilitäts-Studie - E-Autos werden für selbe Strecken genutzt wie Verbrenner - Zu-Fuß-Gehen gewinnt an Bedeutung",
     "Vermittlungsausschuss angerufen - Bundesrat stoppt Sparpaket für stabile Krankenkassenbeiträge vorerst",
@@ -3003,11 +3001,11 @@
     "Statistisches Bundesamt - Zahl der Firmeninsolvenzen so hoch wie zuletzt 2014",
     "Botschafter einbestellt - Bundesregierung macht Russland für Cyber-Angriffe verantwortlich",
     "Brüssel - Shein, Temu, AliExpress: EU führt Sonderabgabe auf Billigimporte ein",
-    "EU-Kommission - Gespräche zu Verbrenner-Aus dauern an"
+    "EU-Kommission - Gespräche zu Verbrenner-Aus dauern an",
+    "Bundesnetzagentur - Moderate Steigerung der Schienenmaut für Bahnunternehmen",
+    "Wirtschaft - Fraport will erste Dividende seit der Corona-Pandemie zahlen"
   ],
   "hashes": [
-    "b3e16da59fb4c145bb09ab27cb8920cd",
-    "6efb9275d947325ebc7969e126eee3f2",
     "ecea06d17c2fcd35ebd837df623bdaa0",
     "c930fb4528f7cbf201f656aedc3909f8",
     "330d087e979a534aeb9e08e93c528c49",
@@ -4005,6 +4003,8 @@
     "e2e656832bd4d2cf47b63621998f3055",
     "dbd0e878f0b658ab7362493f19244ebe",
     "48d642c707879f19cd18b1db2ac2d229",
-    "82349b222fa0e95541581a25c0444158"
+    "82349b222fa0e95541581a25c0444158",
+    "d7832ada40151ba3db4b174bbace8723",
+    "ef4a81e4bd74fc572d162a6b3bd3c720"
   ]
 }
