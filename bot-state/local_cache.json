@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/monopolkommission-sieht-anstieg-der-marktmacht-von-einzelhaendlern-und-herstellern-100.html",
-    "https://www.deutschlandfunk.de/israelische-sicherheitskraefte-erschiessen-zwei-junge-palaestinenser-bei-zusammenstoessen-in-ost-jer-100.html",
     "https://www.deutschlandfunk.de/interview-klingbeil-lars-bundesfinanzminister-spd-vorsitzender-100.html",
     "https://www.deutschlandfunk.de/us-entwurf-fuer-kriegsende-selenskyj-erwartet-steigenden-druck-auf-sein-land-ukraine-verliere-wuerde-100.html",
     "https://www.deutschlandfunk.de/israelische-regierung-beraet-ueber-siedlergewalt-bundesentwicklungsministerin-alabali-radovan-forder-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/fraport-will-erste-dividende-seit-der-corona-pandemie-zahlen-100.html",
     "https://www.deutschlandfunk.de/streik-gegen-haushaltsplaene-der-regierung-meloni-100.html",
     "https://www.deutschlandfunk.de/flutkatastrophe-im-ahrtal-zugstrecke-von-remagen-nach-ahrbrueck-wird-wieder-geoeffnet-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/migrationsbotschafter-davon-will-die-bundesregierung-ablenken-110802415.html"
+    "https://www.faz.net/aktuell/politik/ausland/migrationsbotschafter-davon-will-die-bundesregierung-ablenken-110802415.html",
+    "https://www.deutschlandfunk.de/neues-portal-fuer-hinweise-auf-ueberbordende-buerokratie-freigeschaltet-100.html",
+    "https://www.deutschlandfunk.de/auftrag-koennte-auslastung-des-unternehmens-bis-2036-sichern-100.html"
   ],
   "content_hashes": [
-    "5aa6b730c5c29c50d0880553ad0812fd",
-    "5321e27fb6bccec0fea6fd46e76a4055",
     "0882b5bcf2c90433c4c431b4f51151c5",
     "cd5901aaeb120405655c1158fe5d311a",
     "0f0dd4a0ce6f3b0d6d9e6285606e88f6",
@@ -2001,11 +1999,11 @@
     "cea3a7b78f493996753b4100ec31b367",
     "1ea6a8b6284a082672778fc08963efeb",
     "a440e2e700137741ce80b5d40fed24e6",
-    "546c28294eedb251028a91f9efbe7c21"
+    "546c28294eedb251028a91f9efbe7c21",
+    "6148c590d457582784828dce19b2e65f",
+    "6fa93c3b6c16e8aabd480e10edcdb450"
   ],
   "titles": [
-    "Lebensmittel - Monopolkommission sieht Anstieg der Marktmacht von Einzelhändlern und Herstellern",
-    "Nahost - Israelische Sicherheitskräfte erschießen zwei junge Palästinenser bei Zusammenstößen in Ost-Jerusalem",
     "Finanzminister Klingbeil - Der Staat sollte \"eine vernünftige Rente im Alter garantieren\"",
     "Ukraine-Krieg - US-Entwurf für Kriegsende: Selenskyj erwartet steigenden Druck auf sein Land - Ukraine verliere Würde oder wichtigen Partner",
     "Nahost - Israelische Regierung berät über Siedlergewalt - Bundesentwicklungsministerin Alabali Radovan fordert entschlossenes Vorgehen",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Fraport will erste Dividende seit der Corona-Pandemie zahlen",
     "Italien - Streik gegen Haushaltspläne der Regierung Meloni",
     "Flutkatastrophe im Ahrtal: Zugstrecke von Remagen nach Ahrbrück wird wieder geöffnet",
-    "Migrationsbotschafter: Ein Posten, der ablenken soll"
+    "Migrationsbotschafter: Ein Posten, der ablenken soll",
+    "\"Einfach Machen\" - Neues Portal für Hinweise auf überbordende Bürokratie freigeschaltet",
+    "Meyer Werft soll vier Kreuzfahrschiffe bauen - Auftrag könnte Auslastung des Unternehmens bis 2036 sichern"
   ],
   "hashes": [
-    "64885bff430d46cb284399256e763d3e",
-    "087e44b66c9208c3c2783bf47b23fcf7",
     "1758f8c96213237687d5b24d31f6bda1",
     "04e406d4833a21bed49abd03dc0e297b",
     "d272d722197527273ba1126ee2ea24f0",
@@ -4005,6 +4003,8 @@
     "ef4a81e4bd74fc572d162a6b3bd3c720",
     "b1f7d9de96f77e27202cc2a1d14e33f2",
     "097314e52b4f5972c64c766814c21889",
-    "544f3f1179b1d248609bf82afe9c079a"
+    "544f3f1179b1d248609bf82afe9c079a",
+    "20fbcced04470565bf0868bd2bf245aa",
+    "573789e36461d6bdbb45effb05ba76b9"
   ]
 }
