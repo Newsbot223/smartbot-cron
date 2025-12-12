@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/synodaler-rat-was-ist-von-dem-reformprojekt-uebrig-geblieben-110787652.html",
-    "https://www.deutschlandfunk.de/neue-details-bekanntgeworden-ukraine-muesste-regionen-donezk-und-luhansk-an-russland-abtreten-102.html",
-    "https://www.deutschlandfunk.de/kritik-von-verbaenden-und-unternehmer-104.html",
-    "https://www.deutschlandfunk.de/mehrere-tote-bei-erdbeben-144.html",
     "https://www.deutschlandfunk.de/durchsuchung-in-nordrhein-westfalen-verstoss-gegen-sanktionen-100.html",
     "https://www.deutschlandfunk.de/handelskommissar-eu-plant-direkte-beteiligungen-an-rohstoffprojekten-104.html",
     "https://www.spiegel.de/panorama/justiz/gewalt-gegen-frauen-bundesjustizministerin-hubig-kuendigt-reformen-an-a-9493ecd8-79bd-4127-9553-560ea4b6872d#ref=rss",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/nach-gerichtsentscheidung-brego-garc-a-aus-abschiebehaft-entlassen-100.html",
     "https://www.deutschlandfunk.de/falsch-im-hausmuell-entsorgte-batterien-und-akkus-fuehren-immer-haeufiger-zu-braenden-in-entsorgungs-100.html",
     "https://www.deutschlandfunk.de/ministerpraesident-scheljaskow-gibt-nach-protesten-sein-amt-auf-104.html",
-    "https://www.deutschlandfunk.de/nemo-gibt-esc-pokal-wegen-teilnahme-israels-zurueck-104.html"
+    "https://www.deutschlandfunk.de/nemo-gibt-esc-pokal-wegen-teilnahme-israels-zurueck-104.html",
+    "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-so-hoch-wie-zuletzt-100.html",
+    "https://www.deutschlandfunk.de/eu-besiegelt-reform-fuer-schnellere-zulassung-von-medikamenten-100.html",
+    "https://www.deutschlandfunk.de/debatte-um-rente-selbstaendige-durch-aktivrente-benachteiligt-100.html",
+    "https://www.spiegel.de/wirtschaft/die-bundesregierung-steigt-wohl-bei-stromnetzbetreiber-tennet-deutschland-ein-a-c535dc4f-c94a-44ee-a85d-7a6a5e76f20e#ref=rss"
   ],
   "content_hashes": [
-    "d5f7f327cfedf1d5e964e284c4a88448",
-    "69a18a6a29e5b1ef325c8a743240c7ba",
-    "07cccf6497ccf0f1f62eb32e4be1da15",
-    "9151661d9aab1acd179f4c2b2360c5a4",
     "c1861af2d5848e7ecb9185cd17c2e5f2",
     "96476692ba10ead50588b0ae5673a124",
     "54a3654ca6e7140dd3642016b328dff6",
@@ -2001,13 +1997,13 @@
     "25f842cab6e30ab3fec5ac186de19640",
     "78cee634a070d42926158ff5c269243f",
     "95a439bdefde7a00402816d53c70f9fe",
-    "ad05ecaf1dbe964ce4707fe8f59f62de"
+    "ad05ecaf1dbe964ce4707fe8f59f62de",
+    "37c40f90a7ed43a2154b7bab110ef84e",
+    "1af5e2941d671cd49c03a96ab0e59fbf",
+    "2d8a30007cb50608086560a79ddf994d",
+    "fc2ea85c8e1bf9c658c8de8b764185bd"
   ],
   "titles": [
-    "Streit über „Synodalen Rat“: Nach fünf Jahren ein weichgespültes Statut",
-    "US-Plan-Entwurf - Neue Details bekanntgeworden: Ukraine müsste Regionen Donezk und Luhansk an Russland abtreten",
-    "Wirtschaftspolitik der Regierung - Kritik von Verbänden und Unternehmer",
-    "Bangladesch - Mehrere Tote bei Erdbeben",
     "Russlandgeschäfte - Durchsuchung in Nordrhein-Westfalen - Verstoß gegen Sanktionen",
     "Australien - Handelskommissar: EU plant direkte Beteiligungen an Rohstoffprojekten",
     "Gewalt gegen Frauen: Bundesjustizministerin Hubig kündigt Reformen an",
@@ -3003,13 +2999,13 @@
     "USA - Nach Gerichtsentscheidung: Ábrego García aus Abschiebehaft entlassen",
     "E-Zigaretten und Co. - Falsch im Hausmüll entsorgte Batterien und Akkus führen immer häufiger zu Bränden in Entsorgungsanlagen",
     "Bulgarien - Ministerpräsident Scheljaskow gibt nach Protesten sein Amt auf",
-    "Eurovision Song Contest - Nemo gibt ESC-Pokal wegen Teilnahme Israels zurück"
+    "Eurovision Song Contest - Nemo gibt ESC-Pokal wegen Teilnahme Israels zurück",
+    "Statistisches Bundesamt - Zahl der Firmenpleiten so hoch wie zuletzt 2014",
+    "Arzneimittel - EU besiegelt Reform für schnellere Zulassung von Medikamenten",
+    "Aktivrente - Selbstständige fühlen sich benachteiligt",
+    "Die Bundesregierung steigt wohl bei Stromnetzbetreiber Tennet Deutschland ein"
   ],
   "hashes": [
-    "9837b4b41e288d4670e168aa81cd5a4b",
-    "152648593153310cac1cae37a85ea659",
-    "a79f8e4e41e55cb6ed1fe527b2918930",
-    "7abebc80083ebae90227d641b79317ba",
     "d16233c58720f5678d39e279399c50bb",
     "65535f7c02946068a9ca320ed0797f90",
     "e1cc76df6de3eb8df371ef58a6b6543d",
@@ -4005,6 +4001,10 @@
     "47cd1312c1a9cd83c0b3d4bdf255c5b7",
     "becf12138b88439ebdb73292202a3ef1",
     "c646a7b166f641184990d743b3c40257",
-    "55330eca7ca2e3e392c85ea032bf8aff"
+    "55330eca7ca2e3e392c85ea032bf8aff",
+    "752021c2a21564c0dccc11ca86cb9a81",
+    "959b7c651557d8a6f0b3335d41df87d6",
+    "3b1c563aee79404c7e251d7b07af5c21",
+    "fbc1e9addfa664df11c2b5e0d05b26a2"
   ]
 }
