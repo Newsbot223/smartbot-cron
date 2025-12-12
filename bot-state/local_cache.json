@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/oberschlesisches-landesmuseum-in-ratingen-einstweilen-gerettet-110787539.html",
-    "https://www.deutschlandfunk.de/merz-nimmt-an-kurzfristiger-telefonkonferenz-zu-us-friedensplan-teil-beratungen-ueber-gemeinsame-pos-102.html",
-    "https://www.faz.net/aktuell/politik/inland/was-hat-der-abgeordnete-streeck-auf-der-politischen-buehne-vor-110787850.html",
     "https://www.deutschlandfunk.de/bundesrat-stimmt-finanzierung-des-deutschlandtickets-bis-2030-zu-co2-speicherung-unterm-meer-beschlo-100.html",
     "https://www.deutschlandfunk.de/japans-kabinett-beschliesst-groesstes-konjunkturprogramm-seit-jahren-100.html",
     "https://www.deutschlandfunk.de/eu-leitet-vertragsverletzungsverfahren-gegen-die-slowakei-ein-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-will-mehr-rohstoffe-aus-schrottautos-gewinnen-einigung-auf-gesetzentwurf-100.html",
     "https://www.deutschlandfunk.de/linksfraktion-schuelerstreiks-gegen-wehrdienst-muessen-moeglich-sein-100.html",
     "https://www.deutschlandfunk.de/altkanzlerin-merkel-mahnt-internationale-regeln-fuer-ki-nutzung-an-100.html",
-    "https://www.deutschlandfunk.de/landesweite-proteste-in-italien-gegen-die-haushaltsplaene-der-regierung-meloni-102.html"
+    "https://www.deutschlandfunk.de/landesweite-proteste-in-italien-gegen-die-haushaltsplaene-der-regierung-meloni-102.html",
+    "https://www.deutschlandfunk.de/csu-laeutet-auf-ihrem-parteitag-den-kommunalwahlkampf-ein-102.html",
+    "https://www.deutschlandfunk.de/lindsey-vonn-siegt-mit-41-jahren-in-st-moritz-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-firmeninsolvenzen-so-hoch-wie-zuletzt-100.html"
   ],
   "content_hashes": [
-    "089f8acf855dec9b29036ccd8f9bb2a8",
-    "79f517e30eb773d31d2a37da2d19ba59",
-    "60aa53c665913cd82b5f6bc1c1bac4d0",
     "173066f7cebf0ebda4a8eb7890dfce5a",
     "84b7ff8f13b39848d8b7f33735113221",
     "3b88260dad129786b91d316f29f158cc",
@@ -2001,12 +1998,12 @@
     "623c52c0ba6dbd7adec38ca293ec2b3e",
     "abc46228735a306ca7bd458cb655d22b",
     "1d352ee7046b681f196360bf6984f1a4",
-    "d13a26a73dea47dda024860b394aae0e"
+    "d13a26a73dea47dda024860b394aae0e",
+    "f70e64b41d2d6b83eb38174ec4e34d4a",
+    "d558fe56d651ac6149da58e8059c5bfa",
+    "b751ede637c760818c8ad2a1842f61a7"
   ],
   "titles": [
-    "In Ratingen: Der Bund rettet das Oberschlesische Landesmuseum – vorerst",
-    "Ukraine-Krieg - Merz nimmt an kurzfristiger Telefonkonferenz zu US-Friedensplan teil - Beratungen über gemeinsame Position in Europa",
-    "Hendrik Streeck: Er ist gekommen, um gehört zu werden",
     "Länderkammer - Bundesrat stimmt Finanzierung des Deutschlandtickets bis 2030 zu - CO2-Speicherung unterm Meer beschlossen",
     "Wirtschaftspolitik - Japans Kabinett beschließt größtes Konjunkturprogramm seit Jahren",
     "Wegen Verfassungsänderung - EU leitet Vertragsverletzungsverfahren gegen die Slowakei ein",
@@ -3003,12 +3000,12 @@
     "Neue Recycling-Vorgaben - EU will mehr Rohstoffe aus Schrottautos gewinnen: Einigung auf Gesetzentwurf",
     "Sachsen-Anhalt - Linksfraktion: \"Schülerstreiks gegen Wehrdienst müssen möglich sein\"",
     "\"ChatGPT ist feige\" - Altkanzlerin Merkel mahnt internationale Regeln für KI-Nutzung an",
-    "Rom - Landesweite Proteste in Italien gegen die Haushaltspläne der Regierung Meloni"
+    "Rom - Landesweite Proteste in Italien gegen die Haushaltspläne der Regierung Meloni",
+    "Söder stellt sich zur Wiederwahl - CSU läutet auf ihrem Parteitag den Kommunalwahlkampf ein",
+    "Ski alpin - Lindsey Vonn siegt mit 41 Jahren in St. Moritz",
+    "Statistisches Bundesamt - Zahl der Firmeninsolvenzen so hoch wie zuletzt 2014"
   ],
   "hashes": [
-    "637bfe21eb5d67c5697c4cb949f016ec",
-    "ccf64f095a0505ea2b64e5aa91ba4227",
-    "605b537eb08e58546b3ee54f03da747e",
     "ef7ea1f9deed69d06f7cfa520edfb472",
     "28afe830e59f4281186f1108787afa2a",
     "ddde6c93cd78708174e7e6d4269a0019",
@@ -4005,6 +4002,9 @@
     "909b04ae8765ac1990744a2c1e7c2584",
     "11dad1535066b1266df7c6dac8a7c1a8",
     "e64705353a15ab43878bf9f61c49e2d2",
-    "1333e892d908118e49c08b9193b6e842"
+    "1333e892d908118e49c08b9193b6e842",
+    "706182522bd5eadbbd0dcb44ffccefca",
+    "2b1a37917ba5e3e497919a92f5d5a8a4",
+    "e2e656832bd4d2cf47b63621998f3055"
   ]
 }
