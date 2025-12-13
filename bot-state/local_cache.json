@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/mehr-schutz-110789168.html",
-    "https://www.deutschlandfunk.de/social-media-die-haelfte-der-jungen-erwachsenen-zeigt-suchtsymptome-104.html",
     "https://www.deutschlandfunk.de/iran-fordert-neuen-ansatz-fuer-die-inspektion-seiner-atomanlagen-102.html",
     "https://www.spiegel.de/politik/who-lars-klingbeil-draengt-auf-reform-der-globalen-gesundheitsarchitektur-a-462373e4-5a44-4c38-b703-f5b65491ad0c#ref=rss",
     "https://www.deutschlandfunk.de/trump-will-kuenftigem-new-yorker-buergermeister-helfen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weitverbreiteter-missbrauch-in-ungarischen-kinderheimen-festgestellt-100.html",
     "https://www.deutschlandfunk.de/landes-gruene-beraten-heute-wahlprogramm-100.html",
     "https://www.deutschlandfunk.de/us-gesandter-witkoff-trifft-an-diesem-wochenende-in-berlin-selenskyj-und-europaeer-100.html",
-    "https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss"
+    "https://www.spiegel.de/sport/fussball-wm-2026-fifa-meldet-fuenf-millionen-ticketanfragen-a-88240735-bef7-4684-81bb-dd82c7f541f1#ref=rss",
+    "https://www.deutschlandfunk.de/bundesrechnungshof-kritisiert-maskenkaeufe-des-gesundheitsministeriums-100.html",
+    "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/12/13/spains-fm-on-trumps-new-security-strategy-europe-and-palestine?traffic_source=rss"
   ],
   "content_hashes": [
-    "26ea80960423e7cb25b8b71322a4db61",
-    "27285abe266dcb4225aa9028a9ef28ac",
     "d4c21b7091350681ef77aa701571a92c",
     "59a7709d40f8f979f2e4bda71e526eb5",
     "0143766ccc5ad4dd462576c77770130e",
@@ -2001,11 +1999,11 @@
     "0b4dda5a86950170c08b585a0e3a5011",
     "7aa6c435b6833123471a56c859410524",
     "53d3bf1a9e28950c43406d8a8e82821b",
-    "eb0db914d7be66e211055aed4a308e64"
+    "eb0db914d7be66e211055aed4a308e64",
+    "baaca1effa09091a781ac00c5311db16",
+    "8bdab2c28927ab76618df427c36c336f"
   ],
   "titles": [
-    "Gewalt gegen Frauen: Dramatische Zahlen – doch es gibt Hoffnung",
-    "Studie der Ruhr-Universität Bochum - Social Media: Die Hälfte der jungen Erwachsenen zeigt Suchtsymptome",
     "Atomstreit - Iran fordert neuen Ansatz für die Inspektion seiner Atomanlagen",
     "WHO: Lars Klingbeil drängt auf Reform der globalen Gesundheitsarchitektur",
     "Nach Attacken im Wahlkampf - Trump will künftigem New Yorker Bürgermeister helfen",
@@ -3003,11 +3001,11 @@
     "Regierungsbericht - Weitverbreiteter Missbrauch in ungarischen Kinderheimen festgestellt",
     "Baden-Württemberg - Landes-Grüne beraten heute Wahlprogramm",
     "Ukraine-Krieg - US-Gesandter Witkoff trifft an diesem Wochenende in Berlin Selenskyj und Europäer",
-    "Fußball-WM 2026: FIFA meldet fünf Millionen Ticketanfragen"
+    "Fußball-WM 2026: FIFA meldet fünf Millionen Ticketanfragen",
+    "Corona-Pandemie - Bundesrechnungshof kritisiert Maskenkäufe des Gesundheitsministeriums",
+    "Spain’s FM on Trump’s new security strategy, Europe and Palestine"
   ],
   "hashes": [
-    "78a50dfa7c9c34b9a6067751165802ff",
-    "ef2d5b4bd2020be7bdba76e1f1ce0280",
     "19bed7a5fb016ba1e3b01e3cfa35f1da",
     "a960c64bf3466d85a7cbfeb90a99ace3",
     "98bbe42b9d8047b95004e510e6ec243c",
@@ -4005,6 +4003,8 @@
     "0afe366011ab250f69704c2e480277bb",
     "9061433f553aa291e33eb1122979d03d",
     "95b22c7897822f5b7cad4a121865238b",
-    "c714f1d1fc0631062696c42895b40548"
+    "c714f1d1fc0631062696c42895b40548",
+    "c5c69de40480052ff371f790573c3cb4",
+    "d31cf13cc79cc77e295d5874e83dcc96"
   ]
 }
