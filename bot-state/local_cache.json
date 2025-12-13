@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/republikanerin-greene-verlaesst-kongress-100.html",
-    "https://www.deutschlandfunk.de/ministerin-warken-lehnt-neuauflage-der-praxisgebuehr-ab-100.html",
     "https://www.faz.net/aktuell/politik/inland/krankenkassen-chef-erwartet-welle-an-beitragserhoehungen-accg-200255447.html",
     "https://www.deutschlandfunk.de/g-20-gipfel-in-johannesburg-beginnt-heute-boykott-der-usa-100.html",
     "https://www.deutschlandfunk.de/bolivien-will-us-antidrogenbehoerde-dea-wieder-ins-land-lassen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/csu-niemand-wagt-kritik-an-markus-soeder-110802206.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-festnahme-von-nobelpreistraegerin-mohammadi-100.html",
     "https://www.deutschlandfunk.de/gefechte-zwischen-thailand-und-kambodscha-halten-an-102.html",
-    "https://www.deutschlandfunk.de/eu-erweiterungskommissarin-kos-fuer-rasche-beitrittsverhandlungen-mit-der-ukraine-100.html"
+    "https://www.deutschlandfunk.de/eu-erweiterungskommissarin-kos-fuer-rasche-beitrittsverhandlungen-mit-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-odessa-nach-russischem-angriff-zwei-tote-in-suedrussischer-region-saratow-102.html",
+    "https://www.deutschlandfunk.de/emma-aicher-gewinnt-abfahrt-von-st-moritz-102.html"
   ],
   "content_hashes": [
-    "e57b1369d76ba4f17140f34848e521cc",
-    "f8da973e1774da89b3a6bebc00ac925c",
     "bdb416846deb99fb83962db9e5d220d9",
     "2c0adbd54ffd9aca3d45ad0c2968462c",
     "25a02598181e3ab12ce102ea54b3b7b2",
@@ -2001,11 +1999,11 @@
     "b7964078a2520de325e9990cb71f52f0",
     "2e6d25e8806438aba07fcbc23c32ab3c",
     "be8e7b9919c896bf65c3591553659478",
-    "7ec82dba4bb684ff7bccf5a6c67ee1dc"
+    "7ec82dba4bb684ff7bccf5a6c67ee1dc",
+    "f421477a47bac5478f3e45c5d0906074",
+    "dd88712c16477cd9abd2dcf821789b3f"
   ],
   "titles": [
-    "Nach Streit mit Trump - Republikanerin Greene verlässt Kongress",
-    "Gesundheitspolitik - Ministerin Warken lehnt Neuauflage der Praxisgebühr ab",
     "Stopp des Sparpakets: Krankenkassen-Chef erwartet Welle an Beitragserhöhungen",
     "Südafrikas - G-20-Gipfel in Johannesburg beginnt heute - Boykott der USA",
     "Internationale Beziehungen - Bolivien will US-Antidrogenbehörde DEA wieder ins Land lassen",
@@ -3003,11 +3001,11 @@
     "Parteitag der CSU: Söder im Herzen",
     "Iran - Bundesregierung verurteilt Festnahme von Nobelpreisträgerin Mohammadi",
     "Asien - Gefechte zwischen Thailand und Kambodscha halten an",
-    "Interview der Woche - EU-Erweiterungskommissarin Kos für rasche Beitrittsverhandlungen mit der Ukraine"
+    "Interview der Woche - EU-Erweiterungskommissarin Kos für rasche Beitrittsverhandlungen mit der Ukraine",
+    "Krieg gegen die Ukraine - Stromausfall in Odessa nach russischem Angriff, zwei Tote in südrussischer Region Saratow",
+    "Ski Alpin - Emma Aicher gewinnt Abfahrt von St. Moritz"
   ],
   "hashes": [
-    "bb9353eea3ea9ab67edb9ac44a4e0496",
-    "787a115598a09a8a60dcc55d3f0e42af",
     "6f26ffbeb905d6137ea8b007703970a6",
     "3bedcbca86263f24d8c90f7247379935",
     "f4d020f2c9c39faa42ebec15470a101a",
@@ -4005,6 +4003,8 @@
     "666d80ad163940c28167d3e82f4e8a67",
     "47997c13ed756afadc457f8d361cd497",
     "8901940000042a06acccecdfef1090f5",
-    "ad8d7dcfb7fe2f28a061769998bb5cdb"
+    "ad8d7dcfb7fe2f28a061769998bb5cdb",
+    "42f5d6f5005c6e6b4f54a615d7c0ee32",
+    "deb29cf519aed9f86e4d0d258c3be470"
   ]
 }
