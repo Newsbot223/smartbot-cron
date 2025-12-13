@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/alexander-dobrindt-bundesinnenminister-soll-innenausschus-auskunft-sondersitzung-zum-schicksal-von-afghanen-geben-a-c3de0ecf-a95e-430d-80ab-5f93d0e77a76#ref=rss",
-    "https://www.deutschlandfunk.de/is-nahe-rebellen-toeten-mindestens-89-menschen-im-ostkongo-100.html",
-    "https://www.deutschlandfunk.de/schriftstellerin-judith-schalansky-erhaelt-lessing-preis-102.html",
-    "https://www.deutschlandfunk.de/trump-erwartet-entscheidung-bis-donnerstag-selenskyj-ukraine-verliert-wuerde-oder-wichtigen-partner-100.html",
     "https://www.faz.net/aktuell/politik/inland/im-renten-zirkus-werden-die-falschen-gepruegelt-110789166.html",
     "https://www.deutschlandfunk.de/unterhaendler-des-g20-gipfeltreffens-in-suedafrika-bereiten-schlusserklaerung-ohne-usa-vor-102.html",
     "https://www.deutschlandfunk.de/oberverwaltungsgericht-muenster-bestreiten-des-existenzrechts-israels-darf-nicht-generell-untersagt--100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/verbrenner-aus-autoindustrie-eu-kommission-klima-100.html",
     "https://www.deutschlandfunk.de/demokraten-veroeffentlichen-weitere-fotos-100.html",
     "https://www.deutschlandfunk.de/eu-friert-russische-vermoegenswerte-unbefristet-ein-100.html",
-    "https://www.deutschlandfunk.de/filmproduzent-und-oscarpreistraeger-arthur-cohn-ist-tot-106.html"
+    "https://www.deutschlandfunk.de/filmproduzent-und-oscarpreistraeger-arthur-cohn-ist-tot-106.html",
+    "https://www.deutschlandfunk.de/ankuendigung-umgesetzt-eu-friert-russische-vermoegenswerte-unbefristet-ein-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-ruft-israel-zum-stopp-des-siedlungsausbaus-auf-102.html",
+    "https://www.deutschlandfunk.de/medienberichte-us-spezialkraefte-entern-frachter-auf-dem-weg-zum-iran-102.html",
+    "https://www.deutschlandfunk.de/krebsbehandlung-bei-charles-iii-zeigt-gute-wirkung-106.html"
   ],
   "content_hashes": [
-    "a7dc3a2666305cc5d6cbe4118e606481",
-    "f1a00236f769524f60edfa02256262ef",
-    "1d2beacb71388ac184cbdcddbff54669",
-    "8e8bf9d70ab002b6ad4dd7d660ae0d44",
     "55b619c8a5e4911a355c2d2d5558e94a",
     "4a8f68dc7317c2abf66eef17424cd306",
     "9595354e2b7e1fc7661eabc4be4b9da0",
@@ -2001,13 +1997,13 @@
     "acbfaf5f2c47ef847a451871dfdb5cba",
     "e300ae7265d89752a9b12333fe603a65",
     "ccd660c6815b2dc1c23f97d8311d8025",
-    "3cd8d9962c84164fb65ba86ff3dbc5c4"
+    "3cd8d9962c84164fb65ba86ff3dbc5c4",
+    "bba5f50264ca595298fcd0512c238a58",
+    "27b025de68a06e5f5cd1a4722d19e35a",
+    "72d338bba8ae990ff2d81c8f9d68bbd6",
+    "4ddd41c2bf92e9d5b073cf111ccb9872"
   ],
   "titles": [
-    "Alexander Dobrindt: Bundesinnenminister soll Innenausschuss Auskunft in Sondersitzung zum Schicksal von Afghanen geben",
-    "Massaker - IS-nahe Rebellen töten mindestens 89 Menschen im Ostkongo",
-    "Hamburg - Schriftstellerin Judith Schalansky erhält Lessing-Preis 2025",
-    "Plan für Kriegsende - Trump erwartet Entscheidung bis Donnerstag - Selenskyj: Ukraine verliert Würde oder wichtigen Partner",
     "Konflikt in der Koalition: Im Renten-Zirkus werden die Falschen geprügelt",
     "Medienbericht - Unterhändler des G20-Gipfeltreffens in Südafrika bereiten Schlusserklärung ohne USA vor",
     "Nicht anfechtbarer Beschluss - Oberverwaltungsgericht Münster: Bestreiten des Existenzrechts Israels darf nicht generell untersagt werden",
@@ -3003,13 +2999,13 @@
     "Kommentar zum Verbrenner-Aus - Die EU gibt der Autolobby nach",
     "Epstein-Affäre - Demokraten veröffentlichen weitere Fotos",
     "Ukraine - EU friert russische Vermögenswerte unbefristet ein",
-    "Kultur - Filmproduzent und Oscarpreisträger Arthur Cohn ist tot"
+    "Kultur - Filmproduzent und Oscarpreisträger Arthur Cohn ist tot",
+    "Ukraine - Ankündigung umgesetzt: EU friert russische Vermögenswerte unbefristet ein",
+    "Nahost-Konflikt - Bundesregierung ruft Israel zum Stopp des Siedlungsausbaus auf",
+    "Indischer Ozean - Medienberichte: US-Spezialkräfte entern Frachter auf dem Weg zum Iran",
+    "Vereinigtes Königreich - Krebsbehandlung bei Charles III. zeigt gute Wirkung"
   ],
   "hashes": [
-    "5235566c8e0936b272bd594bcd8b44da",
-    "437c98c3794c375fe53861c689bbc14a",
-    "e17195b17c1a164aa7b76ec4a2c2edf4",
-    "26fe0a8a5bd12b77bdf6e35db31e7de4",
     "62f363a128b023af4ef8b7b408018939",
     "162e9b26908d87f284d9607bc3958458",
     "cef2afcf3ee686269406e921716437a6",
@@ -4005,6 +4001,10 @@
     "0e9db4ead3163eb64228c0402c12aef0",
     "2255a3de3dd76d988c79f6f06ab407ee",
     "7323ca3a23da75d313de15788052bb6a",
-    "73ffce147f9c84b24feced78ce8bb3f1"
+    "73ffce147f9c84b24feced78ce8bb3f1",
+    "1d69ae1e5ebf1b1388b7dec470238697",
+    "4ad0862421022433a18101f7c2f19476",
+    "91212d7c1b1a7f9e168ae132dfc8a932",
+    "e468ce5133ce91b80616fca64227fbae"
   ]
 }
