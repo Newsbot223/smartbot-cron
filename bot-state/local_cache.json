@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/krankenkassen-chef-erwartet-welle-an-beitragserhoehungen-accg-200255447.html",
-    "https://www.deutschlandfunk.de/g-20-gipfel-in-johannesburg-beginnt-heute-boykott-der-usa-100.html",
     "https://www.deutschlandfunk.de/bolivien-will-us-antidrogenbehoerde-dea-wieder-ins-land-lassen-100.html",
     "https://www.deutschlandfunk.de/ratingagentur-moody-s-stuft-die-kreditwuerdigkeit-italiens-herauf-100.html",
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-raub-und-sexuellen-missbrauch-in-zusammenhang-mit-ko-tropfen-haert-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gefechte-zwischen-thailand-und-kambodscha-halten-an-102.html",
     "https://www.deutschlandfunk.de/eu-erweiterungskommissarin-kos-fuer-rasche-beitrittsverhandlungen-mit-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/stromausfall-in-odessa-nach-russischem-angriff-zwei-tote-in-suedrussischer-region-saratow-102.html",
-    "https://www.deutschlandfunk.de/emma-aicher-gewinnt-abfahrt-von-st-moritz-102.html"
+    "https://www.deutschlandfunk.de/emma-aicher-gewinnt-abfahrt-von-st-moritz-102.html",
+    "https://www.deutschlandfunk.de/deutsche-bahn-will-tausende-busse-bestellen-man-hauptlieferant-102.html",
+    "https://www.deutschlandfunk.de/kilometerlange-seilbahn-nach-paris-in-betrieb-genommen-100.html"
   ],
   "content_hashes": [
-    "bdb416846deb99fb83962db9e5d220d9",
-    "2c0adbd54ffd9aca3d45ad0c2968462c",
     "25a02598181e3ab12ce102ea54b3b7b2",
     "5b6bf2b100f088ff5ae448b412c19939",
     "92eceadc6e3382fa24ad0b824393b071",
@@ -2001,11 +1999,11 @@
     "be8e7b9919c896bf65c3591553659478",
     "7ec82dba4bb684ff7bccf5a6c67ee1dc",
     "f421477a47bac5478f3e45c5d0906074",
-    "dd88712c16477cd9abd2dcf821789b3f"
+    "dd88712c16477cd9abd2dcf821789b3f",
+    "e7b01c92325425c821ec05d8b2eb6e86",
+    "8f05a8d76a489384a76735bc56011ef6"
   ],
   "titles": [
-    "Stopp des Sparpakets: Krankenkassen-Chef erwartet Welle an Beitragserhöhungen",
-    "Südafrikas - G-20-Gipfel in Johannesburg beginnt heute - Boykott der USA",
     "Internationale Beziehungen - Bolivien will US-Antidrogenbehörde DEA wieder ins Land lassen",
     "Wirtschaft - Ratingagentur Moody's stuft die Kreditwürdigkeit Italiens herauf",
     "Berlin - Bundesjustizministerin Hubig will Raub und sexuellen Missbrauch in Zusammenhang mit KO-Tropfen härter bestrafen",
@@ -3003,11 +3001,11 @@
     "Asien - Gefechte zwischen Thailand und Kambodscha halten an",
     "Interview der Woche - EU-Erweiterungskommissarin Kos für rasche Beitrittsverhandlungen mit der Ukraine",
     "Krieg gegen die Ukraine - Stromausfall in Odessa nach russischem Angriff, zwei Tote in südrussischer Region Saratow",
-    "Ski Alpin - Emma Aicher gewinnt Abfahrt von St. Moritz"
+    "Ski Alpin - Emma Aicher gewinnt Abfahrt von St. Moritz",
+    "Verkehr - Deutsche Bahn will tausende Busse bestellen - MAN Hauptlieferant",
+    "Frankreich - Kilometerlange Seilbahn nach Paris in Betrieb genommen"
   ],
   "hashes": [
-    "6f26ffbeb905d6137ea8b007703970a6",
-    "3bedcbca86263f24d8c90f7247379935",
     "f4d020f2c9c39faa42ebec15470a101a",
     "5dfa98ae9ceb429fef6808e60966d236",
     "637cf17ff62161bf3c22fe9bfa00259e",
@@ -4005,6 +4003,8 @@
     "8901940000042a06acccecdfef1090f5",
     "ad8d7dcfb7fe2f28a061769998bb5cdb",
     "42f5d6f5005c6e6b4f54a615d7c0ee32",
-    "deb29cf519aed9f86e4d0d258c3be470"
+    "deb29cf519aed9f86e4d0d258c3be470",
+    "4b256ec9bdd78a7fec35701a5209896a",
+    "9a72029978bb1805eb1a85ee7a0a2083"
   ]
 }
