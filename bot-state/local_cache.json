@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-in-genf-eingetroffen-merz-und-carney-fordern-schutz-ukrainischer-interessen--100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-verspricht-lula-bessere-erkundung-von-belem-faz-110093143.html",
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-zu-beratungen-in-genf-eingetroffen-selenskyj-fordert-partner-zur-staerkung-d-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-legen-eigenes-rentenkonzept-vor-faz-110093143.html",
     "https://www.deutschlandfunk.de/slowenien-haelt-referendum-ueber-legalisierung-von-sterbehilfe-ab-102.html",
     "https://www.deutschlandfunk.de/ex-bundespraesident-wulff-bundeskanzler-merz-sollte-von-stadtbild-aeusserung-abruecken-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/china-deutsche-wirtschaft-100.html",
     "https://www.faz.net/aktuell/politik/inland/oezdemir-der-gesundprediger-der-gruenen-110803136.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-verdaechtigen-nach-schiesserei-an-universitaet-fest-100.html",
-    "https://www.deutschlandfunk.de/vermuteter-anschlagsplan-herrmann-attentat-stand-nicht-unmittelbar-bevor-100.html"
+    "https://www.deutschlandfunk.de/vermuteter-anschlagsplan-herrmann-attentat-stand-nicht-unmittelbar-bevor-100.html",
+    "https://www.deutschlandfunk.de/neue-gespraeche-ueber-us-friedensplan-begonnen-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
+    "https://www.deutschlandfunk.de/nach-festnahme-von-friedensnobelpreistraegerin-mohammadi-unterstuetzer-bisher-keinen-kontakt-104.html",
+    "https://www.faz.net/aktuell/politik/inland/schwaches-ergebnis-auf-csu-parteitag-ein-daempfer-fuer-soeder-110803240.html"
   ],
   "content_hashes": [
-    "e4d87c473aa3efe2fd606e0159850f86",
-    "1f34e7409bd8fd381a402a559c35ae2c",
-    "3caf348c4ae13dfab1ca5e75372b7e6b",
     "3d63865caa21c71d0a582fccde0b66e1",
     "43b6d0c03e7197167409c74bd5ce202c",
     "2ba1dae84b7cd1f0ae3c1d5a04b4b1c6",
@@ -2001,12 +1998,12 @@
     "65e2d1492c4bdfa5c0af8bf80bfba4a4",
     "e411770c0da239677e5a039b0f932022",
     "42900c4da9a08afc06d8aa80e7b43275",
-    "91e4d6348c3e9bb6f307af45ae4c280c"
+    "91e4d6348c3e9bb6f307af45ae4c280c",
+    "7152d739c7d86283806c46004c88d14c",
+    "ec7853d2ad8b491ee86d7fcacfe87167",
+    "bd3983f627e585abad7073850a10541a"
   ],
   "titles": [
-    "US-Plan für Ende des Ukraine-Kriegs - US-Außenminister Rubio in Genf eingetroffen - Merz und Carney fordern Schutz ukrainischer Interessen - Trump: nicht letztes Angebot",
-    "Liveblog Bundespolitik: Christian Wulff: Stadtbild-Aussage „absolut missglückt“",
-    "US-Plan für Ende des Ukraine-Kriegs - US-Außenminister Rubio zu Beratungen in Genf eingetroffen - Selenskyj fordert Partner zur Stärkung der Flugabwehr auf",
     "Liveblog Bundespolitik: Grüne legen eigenes Rentenkonzept vor",
     "EU-Staat - Slowenien hält Referendum über Legalisierung von Sterbehilfe ab",
     "Debatte - Ex-Bundespräsident Wulff: Bundeskanzler Merz sollte von Stadtbild-Äußerung abrücken",
@@ -3003,12 +3000,12 @@
     "Kommentar zu Wadephuls China-Reise - Deutsche Wirtschaft blickt naiv auf China",
     "Grünen-Parteitag: Özdemir, der Gesundprediger",
     "USA - Polizei nimmt Verdächtigen nach Schießerei an Universität fest",
-    "Niederbayern - Vermuteter Anschlagsplan - Herrmann: Attentat stand nicht unmittelbar bevor"
+    "Niederbayern - Vermuteter Anschlagsplan - Herrmann: Attentat stand nicht unmittelbar bevor",
+    "Berlin - Neue Gespräche über US-Friedensplan begonnen - Selenskyj rückt von NATO-Beitrittsplänen ab",
+    "Iran - Nach Festnahme von Friedensnobelpreisträgerin Mohammadi - Unterstützer: \"Bisher keinen Kontakt\"",
+    "CSU-Parteitag: Das ist ein Dämpfer für Markus Söder"
   ],
   "hashes": [
-    "9f1f2a910765fb7d8b6cf46ba687e39d",
-    "69804a44256a4ed2d6e7a7ae89f3b312",
-    "11b4391a40f01f94a474cd7675f75720",
     "bff81a42609ed0793e415661e4ae7b1b",
     "cc52b0da93b7e93d70a2647653e492f4",
     "92784fbe7735f35db95f30aede9a4e43",
@@ -4005,6 +4002,9 @@
     "608594e87403048a60427864a551f56c",
     "073558c7aded15c825794d3f4f2537fd",
     "d3b26eed85ab74a7f31cfce8c8c25fff",
-    "1b87dc27639c2a918f55e3399543504c"
+    "1b87dc27639c2a918f55e3399543504c",
+    "b176923c1c3d0d5f93a2814e1a2524bd",
+    "4b02b8203b0183209ad85733b5de1d4f",
+    "17d502f464bb62659372454cf99eb1ce"
   ]
 }
