@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zverev-gewinnt-struff-verliert-100.html",
-    "https://www.deutschlandfunk.de/europaeische-staaten-fordern-aenderungen-am-us-friedensplan-trump-relativiert-kein-endgueltiges-ange-100.html",
     "https://www.deutschlandfunk.de/selenskyj-ordnet-ueberpruefung-von-verteidigungsindustrie-an-102.html",
     "https://www.faz.net/aktuell/politik/inland/weimers-anteil-110788840.html",
     "https://www.deutschlandfunk.de/beratungen-der-industrie-und-schwellenlaender-ueber-seltene-erden-und-kuenstliche-intelligenz-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bayern-fuenf-maenner-wegen-anschlagsplaenen-auf-weihnachtsmarkt-in-haft-100.html",
     "https://www.deutschlandfunk.de/missbrauchsfaellen-in-staatlichen-kinder-und-jugendeinrichtungen-demonstration-gegen-orban-100.html",
     "https://www.deutschlandfunk.de/caspar-david-friedrich-gewidmete-galerie-der-romantik-oeffnet-100.html",
-    "https://www.deutschlandfunk.de/weiter-gefechte-zwischen-thailand-und-kambodscha-104.html"
+    "https://www.deutschlandfunk.de/weiter-gefechte-zwischen-thailand-und-kambodscha-104.html",
+    "https://www.deutschlandfunk.de/trump-droht-nach-angriff-auf-us-soldaten-mit-vergeltung-102.html",
+    "https://www.deutschlandfunk.de/neuer-fahrplan-in-kraft-mehr-sprinter-bei-der-bahn-100.html"
   ],
   "content_hashes": [
-    "eeee23b72c35e158e0f0019c2502977a",
-    "71c49cc6a35a937d229c6694a082a022",
     "5f777b588af1125616bcb6d3c43d3c9c",
     "0a9ec179a870783dbe2a08080cfc9668",
     "a48ce0fe9f691ee566548ba25edcff36",
@@ -2001,11 +1999,11 @@
     "00cceaf0f3fba9d8c1c22056327f44fd",
     "3c284766cef47dfac27dc34e2b41be90",
     "e635594ed9a87ce10d16b192b835c4ed",
-    "50b6f2e8b582955ecb375b943e9918f3"
+    "50b6f2e8b582955ecb375b943e9918f3",
+    "8ffc0e685cbd6d341fe6c70bac1163bb",
+    "85812a2213f403bf6d0be134f4e54779"
   ],
   "titles": [
-    "Davis-Cup - Zverev gewinnt - Struff verliert",
-    "G20-Gipfel in Johannesburg - Europäische Staaten fordern Änderungen am US-Friedensplan -Trump relativiert: kein \"endgültiges Angebot\"",
     "Korruption in der Ukraine - Selenskyj ordnet Überprüfung von Verteidigungsindustrie an",
     "Wolfram Weimer: Die AfD-Nähe seiner Kritiker ist sein Glück",
     "G20-Gipfel geht zu Ende - Beratungen der Industrie- und Schwellenländer über Seltene Erden und Künstliche Intelligenz",
@@ -3003,11 +3001,11 @@
     "Terrorverdacht - Bayern: Fünf Männer wegen Anschlagsplänen auf Weihnachtsmarkt in Haft",
     "Ungarn - Missbrauchsfällen in staatlichen Kinder- und Jugendeinrichtungen: Demonstration gegen Orban",
     "Greifswald - Caspar David Friedrich gewidmete \"Galerie der Romantik\" öffnet",
-    "Grenzkonflikt - Weiter Gefechte zwischen Thailand und Kambodscha"
+    "Grenzkonflikt - Weiter Gefechte zwischen Thailand und Kambodscha",
+    "Syrien - Trump droht nach Angriff auf US-Soldaten mit Vergeltung",
+    "Fernverkehr - Neuer Fahrplan in Kraft: Mehr Sprinter bei der Bahn"
   ],
   "hashes": [
-    "b0e8391c08bc2fdcb80ec24817a04dee",
-    "a05ba8cf8518fea9b2a4c38e5e602eb1",
     "0ea1d9e56c8b7745ab6cb3f5b830153b",
     "9e30046037f33ef4a5766d79abc199c6",
     "cf926480fab58f17360641aa41d7b3d5",
@@ -4005,6 +4003,8 @@
     "a3cfff721be1177962e5a92d40658a8c",
     "78fa1e62ec71e61f5878eef5fe0be4a9",
     "93da1c6cec05b1227379b616c56f6abe",
-    "8ac664f46cab929cbcf4a70cffff1d74"
+    "8ac664f46cab929cbcf4a70cffff1d74",
+    "50ee132eda5ac3cdaaeaeca1b801b7b3",
+    "7a3865b49a214680de05d1c6e9aa1f84"
   ]
 }
