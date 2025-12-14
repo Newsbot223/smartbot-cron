@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-legen-eigenes-rentenkonzept-vor-faz-110093143.html",
-    "https://www.deutschlandfunk.de/slowenien-haelt-referendum-ueber-legalisierung-von-sterbehilfe-ab-102.html",
-    "https://www.deutschlandfunk.de/ex-bundespraesident-wulff-bundeskanzler-merz-sollte-von-stadtbild-aeusserung-abruecken-100.html",
     "https://www.deutschlandfunk.de/strack-zimmermann-fdp-auch-frauen-sollten-zur-musterung-100.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-will-sich-von-der-afd-den-kopf-nicht-wirr-machen-lassen-110789678.html",
     "https://www.deutschlandfunk.de/warnung-vor-fake-shops-rund-um-den-black-friday-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/vermuteter-anschlagsplan-herrmann-attentat-stand-nicht-unmittelbar-bevor-100.html",
     "https://www.deutschlandfunk.de/neue-gespraeche-ueber-us-friedensplan-begonnen-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
     "https://www.deutschlandfunk.de/nach-festnahme-von-friedensnobelpreistraegerin-mohammadi-unterstuetzer-bisher-keinen-kontakt-104.html",
-    "https://www.faz.net/aktuell/politik/inland/schwaches-ergebnis-auf-csu-parteitag-ein-daempfer-fuer-soeder-110803240.html"
+    "https://www.faz.net/aktuell/politik/inland/schwaches-ergebnis-auf-csu-parteitag-ein-daempfer-fuer-soeder-110803240.html",
+    "https://www.deutschlandfunk.de/dobrindt-csu-kuendigt-aufnahme-von-belarussischen-oppositionellen-an-100.html",
+    "https://www.deutschlandfunk.de/gespraeche-ueber-us-friedensplan-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/freilassungen-in-belarus-europa-in-schlechtem-licht-110803137.html"
   ],
   "content_hashes": [
-    "3d63865caa21c71d0a582fccde0b66e1",
-    "43b6d0c03e7197167409c74bd5ce202c",
-    "2ba1dae84b7cd1f0ae3c1d5a04b4b1c6",
     "621324c941ec6e6a5b40defe08e56734",
     "81be582a9de7db7d4177c3bc0fb59509",
     "bdee4d682230a94f8e41ff7f08dc3686",
@@ -2001,12 +1998,12 @@
     "91e4d6348c3e9bb6f307af45ae4c280c",
     "7152d739c7d86283806c46004c88d14c",
     "ec7853d2ad8b491ee86d7fcacfe87167",
-    "bd3983f627e585abad7073850a10541a"
+    "bd3983f627e585abad7073850a10541a",
+    "31b7f02c1850da353d3cca9560bb012e",
+    "f594c72304ce49087ecd7793e8773cc5",
+    "e025d66ca93a53058a41639106f0b301"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Grüne legen eigenes Rentenkonzept vor",
-    "EU-Staat - Slowenien hält Referendum über Legalisierung von Sterbehilfe ab",
-    "Debatte - Ex-Bundespräsident Wulff: Bundeskanzler Merz sollte von Stadtbild-Äußerung abrücken",
     "Wehrdienst - Strack-Zimmermann (FDP): Auch Frauen sollten zur Musterung",
     "CSU-Klausurtagung: Söder will sich von der AfD den Kopf nicht wirr machen lassen",
     "Online-Handel - Warnung vor Fake-Shops rund um den Black Friday",
@@ -3003,12 +3000,12 @@
     "Niederbayern - Vermuteter Anschlagsplan - Herrmann: Attentat stand nicht unmittelbar bevor",
     "Berlin - Neue Gespräche über US-Friedensplan begonnen - Selenskyj rückt von NATO-Beitrittsplänen ab",
     "Iran - Nach Festnahme von Friedensnobelpreisträgerin Mohammadi - Unterstützer: \"Bisher keinen Kontakt\"",
-    "CSU-Parteitag: Das ist ein Dämpfer für Markus Söder"
+    "CSU-Parteitag: Das ist ein Dämpfer für Markus Söder",
+    "Nach Freilassung - Dobrindt (CSU) kündigt Aufnahme von belarussischen Oppositionellen an",
+    "Berlin - Gespräche über US-Friedensplan - Selenskyj rückt von NATO-Beitrittsplänen ab",
+    "Freilassungen in Belarus: Warum blieb die EU erfolglos?"
   ],
   "hashes": [
-    "bff81a42609ed0793e415661e4ae7b1b",
-    "cc52b0da93b7e93d70a2647653e492f4",
-    "92784fbe7735f35db95f30aede9a4e43",
     "ee0e9143e4d1afaba7158bf933a8add4",
     "fa54840c1034791ae4a9eeed84a32754",
     "cc09a0c05ca30c7ccbb8e9db4f3460e5",
@@ -4005,6 +4002,9 @@
     "1b87dc27639c2a918f55e3399543504c",
     "b176923c1c3d0d5f93a2814e1a2524bd",
     "4b02b8203b0183209ad85733b5de1d4f",
-    "17d502f464bb62659372454cf99eb1ce"
+    "17d502f464bb62659372454cf99eb1ce",
+    "f2098011890e87694cc2958c9751ff6e",
+    "e33ea26f50de3463ffe91109620c96c6",
+    "74db37d673d7d91607d9adfd09b1e321"
   ]
 }
