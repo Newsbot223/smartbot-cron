@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/brasiliens-ex-praesident-bolsonaro-wollte-elektronische-fussfessel-aufbrechen-wegen-fluchtgefahr-inh-100.html",
-    "https://www.deutschlandfunk.de/merz-und-carney-fordern-die-ukraine-einzubeziehen-us-aussenminister-rubio-tritt-kritik-entgegen-trum-100.html",
     "https://www.deutschlandfunk.de/drohnensichtungen-flughafen-eindhoven-voruebergehend-gesperrt-100.html",
     "https://www.deutschlandfunk.de/republika-srpska-praesidentenwahl-im-serbischen-landesteil-von-bosnien-herzegowina-100.html",
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-in-genf-eingetroffen-merz-und-carney-fordern-schutz-ukrainischer-interessen--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ermittlungen-wegen-vermutetem-islamistischen-anschlagsplan-gegen-weihnachtsmarkt-laufen-weiter-100.html",
     "https://www.deutschlandfunk.de/deutsche-welle-in-russland-zur-unerwuenschten-organisation-erklaert-102.html",
     "https://www.faz.net/aktuell/politik/ausland/anschlag-in-sidney-eine-eskalation-des-antisemitismus-110803102.html",
-    "https://www.deutschlandfunk.de/freiburg-und-dortmund-spielen-1-102.html"
+    "https://www.deutschlandfunk.de/freiburg-und-dortmund-spielen-1-102.html",
+    "https://www.deutschlandfunk.de/china-deutsche-wirtschaft-100.html",
+    "https://www.faz.net/aktuell/politik/inland/oezdemir-der-gesundprediger-der-gruenen-110803136.html"
   ],
   "content_hashes": [
-    "8cf0b45709fa76c48f64ea94b4f91267",
-    "7f844f3f02bc8c178765eecd6648cc38",
     "da44859a355c4303f9f2ea351629da84",
     "cfd7d45aaf263ad7ee28eb098dd14a00",
     "e4d87c473aa3efe2fd606e0159850f86",
@@ -2001,11 +1999,11 @@
     "df1fc10d776d45ee542b1b6c9dc4c962",
     "bb87029e60a855896beda27af343ea0f",
     "e66854972488372ea8573ec0b0c990f2",
-    "35aa9204f5e202fb2a4db92fb402697d"
+    "35aa9204f5e202fb2a4db92fb402697d",
+    "65e2d1492c4bdfa5c0af8bf80bfba4a4",
+    "e411770c0da239677e5a039b0f932022"
   ],
   "titles": [
-    "Südamerika - Brasiliens Ex-Präsident Bolsonaro wollte elektronische Fußfessel aufbrechen - wegen Fluchtgefahr inhaftiert",
-    "US-Plan für Ende des Ukraine-Kriegs - Merz und Carney fordern, die Ukraine einzubeziehen - US-Außenminister Rubio tritt Kritik entgegen - Trump: nicht letztes Angebot",
     "Niederlande - Drohnensichtungen: Flughafen Eindhoven vorübergehend gesperrt",
     "Nach Absetzung Dodiks - Republika Srpska: Präsidentenwahl im serbischen Landesteil von Bosnien-Herzegowina",
     "US-Plan für Ende des Ukraine-Kriegs - US-Außenminister Rubio in Genf eingetroffen - Merz und Carney fordern Schutz ukrainischer Interessen - Trump: nicht letztes Angebot",
@@ -3003,11 +3001,11 @@
     "Niederbayern - Ermittlungen wegen vermutetem islamistischen Anschlagsplan gegen Weihnachtsmarkt laufen weiter",
     "Auslandssender - Deutsche Welle in Russland zur \"unerwünschten Organisation\" erklärt",
     "Anschlag in Sydney: Eine absehbare Eskalation",
-    "Fußball-Bundesliga - Freiburg und Dortmund spielen 1:1"
+    "Fußball-Bundesliga - Freiburg und Dortmund spielen 1:1",
+    "Kommentar zu Wadephuls China-Reise - Deutsche Wirtschaft blickt naiv auf China",
+    "Grünen-Parteitag: Özdemir, der Gesundprediger"
   ],
   "hashes": [
-    "262396277f4a93222c24cf536f71d1b0",
-    "9d32509210349bd1624ebdaf24bc21f4",
     "4d6e12479010d3426ed4b64a90a3e9d1",
     "3704a085b0e1e9bbbab197b2b2616438",
     "9f1f2a910765fb7d8b6cf46ba687e39d",
@@ -4005,6 +4003,8 @@
     "85ae1d1ebfe8b40be8071d434130eb22",
     "e4f052f5115700fefe7a5514598c9681",
     "f17a8c09e3f7ffa44e91b974f07dc97c",
-    "8b4fdae02a8f1c2af9c4acc2e9e2dbc4"
+    "8b4fdae02a8f1c2af9c4acc2e9e2dbc4",
+    "608594e87403048a60427864a551f56c",
+    "073558c7aded15c825794d3f4f2537fd"
   ]
 }
