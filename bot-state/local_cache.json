@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-aeussern-sich-optimistisch-selenskyj-finden-gehoer-europaeer-mit-eigenen-vorschlaegen-100.html",
-    "https://www.deutschlandfunk.de/trumps-friedens-plan-und-die-reaktionen-aus-der-ukraine-100.html",
-    "https://www.spiegel.de/wirtschaft/iw-koeln-erklaert-deutschland-zum-spitzenreiter-bei-sozialausgaben-a-52675ab7-1107-41c2-8aae-6b215658554b#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/einfach-mal-machen-wenn-es-fuer-die-cdu-so-einfach-waere-110790007.html",
     "https://www.deutschlandfunk.de/wadephul-spricht-von-einem-grossen-erfolg-fuer-europa-100.html",
     "https://www.deutschlandfunk.de/internationale-artenschutzkonferenz-in-samarkans-hat-begonnen-185-staaten-nehmen-teil-100.html",
     "https://www.deutschlandfunk.de/regierungskoalition-einigt-sich-nach-monatelangen-verhandlungen-auf-haushalt-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/warum-der-donbass-ein-zentraler-knackpunkt-in-den-ukraine-verhandlungen-ist-100.html",
     "https://www.deutschlandfunk.de/eu-startet-luftbruecke-nach-darfur-100.html",
     "https://www.deutschlandfunk.de/presserat-ruegt-nahost-berichterstattung-in-mehreren-faellen-100.html",
-    "https://www.deutschlandfunk.de/spanien-belegt-airbnb-mit-millionen-bussgeld-100.html"
+    "https://www.deutschlandfunk.de/spanien-belegt-airbnb-mit-millionen-bussgeld-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-legt-zehn-punkte-plan-fuer-ruestungskooperation-mit-ukraine-vor-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-verurteilt-vorgehen-moskaus-gegen-deutsche-welle-100.html",
+    "https://www.deutschlandfunk.de/deutsche-umwelthilfe-stellt-strafanzeige-wegen-massenhaftem-oelaustritt-aus-pipeline-100.html",
+    "https://www.deutschlandfunk.de/ukraine-verhandlungen-116.html"
   ],
   "content_hashes": [
-    "a68971f2110a00675846f2cbd7e3cbc3",
-    "086306ff2ca9c9282a40bb0c95290f7a",
-    "3ad2a6167947c04177e29b7afd1a4b0c",
-    "c84d555529089b1ab727fb2a9aedaa62",
     "38e0773e9bbbf0bff68dc48dadd2497e",
     "8989a129e666410eaa564e3c731c698f",
     "a3c43b68cae9a50b3accfad08c4bf6bd",
@@ -2001,13 +1997,13 @@
     "ea158043c83f971a2b6c3d4233992f26",
     "81b95225363d03eb370611917b212f02",
     "a3fe18f28b6fc9eebbecfaf7f40a22cf",
-    "f97549fc49b82076f92bfc8659044f75"
+    "f97549fc49b82076f92bfc8659044f75",
+    "285429c16e886890d2e40175db93f46e",
+    "a6e70b39419fa9b5a6160677ca996ea2",
+    "8792f001c2aa4092ace8de8658769934",
+    "1ad316484178a9c995561517970b84bb"
   ],
   "titles": [
-    "Ukraine-Gespräche in Genf - USA äußern sich optimistisch - Selenskyj: \"Finden Gehör\" - Europäer mit eigenen Vorschlägen",
-    "Ukraine-Friedensplan - Selenskyj äußert sich vorsichtig optimistisch",
-    "IW-Köln erklärt Deutschland zum Spitzenreiter bei Sozialausgaben",
-    "Regieren in Deutschland: CDU vor der Zerreißprobe",
     "Ukraine-Gespräche in Genf - Wadephul spricht von einem großen Erfolg für Europa",
     "Usbekistan - Internationale Artenschutzkonferenz in Samarkans hat begonnen - 185 Staaten nehmen teil",
     "Belgien - Regierungskoalition einigt sich nach monatelangen Verhandlungen auf Haushalt",
@@ -3003,13 +2999,13 @@
     "Ukraine-Krieg - Warum der Donbass ein zentraler Knackpunkt in den Ukraine-Verhandlungen ist",
     "Bürgerkriegsregion - EU startet Luftbrücke nach Darfur",
     "Medien - Presserat rügt Nahost-Berichterstattung in mehreren Fällen",
-    "Wohnungsmangel - Spanien belegt \"Airbnb\" mit Millionen-Bußgeld"
+    "Wohnungsmangel - Spanien belegt \"Airbnb\" mit Millionen-Bußgeld",
+    "Russischer Angriffskrieg - Bundesregierung legt Zehn-Punkte-Plan für Rüstungskooperation mit Ukraine vor",
+    "Russland - Bundesregierung verurteilt Vorgehen Moskaus gegen Deutsche Welle",
+    "Brandenburg - Deutsche Umwelthilfe stellt Strafanzeige wegen massenhaftem Ölaustritt aus Pipeline",
+    "Ukraine-Gespräche - Sicherheitsexperte dämpft Hoffnung auf Waffenstillstand"
   ],
   "hashes": [
-    "ec736fb729a8ad8733cd6803f3bcb2a9",
-    "1e64c03b99adfd81ea2218cee868a66a",
-    "f52fac52d60afc6f6dda03ad54202e59",
-    "ed3ffdfb95c5db3f3c4f99db0bbb5b64",
     "4830251b5d343a3af372bead2539ad96",
     "a97f369260c842a0717113140d122b4d",
     "dcc8653e4e6d1d3cdddef762ed98e131",
@@ -4005,6 +4001,10 @@
     "c05cb33ae3a10f3c9f8a05450f3de811",
     "6262cb13deb2ad77359acd42bc2ff303",
     "5cbfdfdad74566641f31059885d3c76f",
-    "23a8acf4f108cf1dcf62f5f291eaf2a1"
+    "23a8acf4f108cf1dcf62f5f291eaf2a1",
+    "ded005862ef3753e0afe6d031e62e5be",
+    "38e58e85a115f4b95cd74121291211fe",
+    "264c1ed21d8976f78642aafeac2823d5",
+    "77eae5024bc5d137df3524c63c7d2bb4"
   ]
 }
