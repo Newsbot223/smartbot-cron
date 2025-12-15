@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/katholische-kirche-satzung-fuer-synodalkonferenz-verabschiedet-110789928.html",
-    "https://www.faz.net/aktuell/politik/inland/mitbestimmung-in-katholischer-kirche-vatikan-siegt-110790009.html",
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-idealerweise-bis-donnerstag-zum-abschluss-kommen-100.html",
     "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-104.html",
     "https://www.deutschlandfunk.de/brasiliens-praesident-lula-kuendigt-telefonat-mit-trump-an-100.html",
     "https://www.deutschlandfunk.de/nein-zu-legalisierung-von-sterbehilfe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rechtsgerichteter-kandidat-kast-gewinnt-stichwahl-fuer-praesidentenamt-100.html",
     "https://www.deutschlandfunk.de/hongkonger-verleger-jimmy-lai-erneut-schuldig-gesprochen-100.html",
     "https://www.deutschlandfunk.de/erdbebengefahr-fuer-istanbul-steigt-104.html",
-    "https://www.deutschlandfunk.de/nach-ukraine-treffen-in-berlin-reaktionen-aus-kiew-100.html"
+    "https://www.deutschlandfunk.de/nach-ukraine-treffen-in-berlin-reaktionen-aus-kiew-100.html",
+    "https://www.deutschlandfunk.de/wadephul-beratungen-so-ernsthaft-wie-nie-102.html",
+    "https://www.deutschlandfunk.de/fuehrende-oekonomen-ueben-scharfe-kritik-an-absehbarer-abkehr-vom-verbrenner-aus-in-der-eu-100.html",
+    "https://www.deutschlandfunk.de/herrmann-csu-bayerns-weihnachtsmaerkte-sind-sicher-102.html"
   ],
   "content_hashes": [
-    "9906d100382d3d823d2ba4bbd316890e",
-    "73c8f4c3a7540f6dd010fff2dae95efc",
-    "3bb573aec2a4380a1b12e949662b1a3f",
     "6102e3451f8c546eb312d7c26f10b77a",
     "e8e9d01a0e4607e443468b89c82285a8",
     "dc24e3f07e0844532cc97462a9be638a",
@@ -2001,12 +1998,12 @@
     "e5a2e571bd79b58d579d11369ada4fed",
     "a4935cc676546d48fe40f2a01f139188",
     "a05d6773bde88025341d1a17cae46b78",
-    "13b85dd12522abb7eff90b28b6e7eaa6"
+    "13b85dd12522abb7eff90b28b6e7eaa6",
+    "c29e2477649634fb4b10f4e77bf03715",
+    "dfa1cbb8dcf4f085906c15abd659b84c",
+    "a0b5871f4c4981412938b4151de53b5b"
   ],
   "titles": [
-    "Fünf Jahre Streit mit Rom: Satzung für Synodalkonferenz verabschiedet",
-    "Katholiken in Deutschland: Der Vatikan hat sich durchgesetzt",
-    "Ukraine-Gespräche - US-Außenminister Rubio: \"Idealerweise bis Donnerstag zum Abschluss kommen\"",
     "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt",
     "US-Militärpräsenz vor Venezuelas Küste - Brasiliens Präsident Lula kündigt Telefonat mit Trump an",
     "Referendum in Slowenien - Nein zu Legalisierung von Sterbehilfe",
@@ -3003,12 +3000,12 @@
     "Chile - Rechtsgerichteter Kandidat Kast gewinnt Stichwahl für Präsidentenamt",
     "China - Hongkonger Verleger Jimmy Lai erneut schuldig gesprochen",
     "Studie - Erdbebengefahr für Istanbul steigt",
-    "Treffen in Berlin - Diplomatische Bemühungen um Ende des Kriegs in der Ukraine"
+    "Treffen in Berlin - Diplomatische Bemühungen um Ende des Kriegs in der Ukraine",
+    "Ukraine-Gespräche in Berlin - Wadephul: Beratungen \"so ernsthaft wie nie\"",
+    "\"Symboldebatte\" - Führende Ökonomen üben scharfe Kritik an absehbarer Abkehr vom Verbrenner-Aus in der EU",
+    "Vereitelte Anschlagspläne - Herrmann (CSU): Bayerns Weihnachtsmärkte sind sicher"
   ],
   "hashes": [
-    "1d155d45073104f328072503ce958b50",
-    "74b559422aef4e809286cd6ab87005cd",
-    "e99807c300ce5f5b133310d7e1e1db2b",
     "58f12829a3ee0129802d85c4732d36b4",
     "580eb94f10da7e7a83e1f872ef301069",
     "845f3c7df2189664b03a275adc16b29b",
@@ -4005,6 +4002,9 @@
     "fda7159b9dbe39d34825fb395074d331",
     "b05c1d7a4f71c1d52fd7c37a59436cd3",
     "50ab98a343d689c41dd34afcdd073aae",
-    "d8eab9c2b5dfc5641ee3a18b7f57ba2e"
+    "d8eab9c2b5dfc5641ee3a18b7f57ba2e",
+    "a0b2784b55565ec0e734ce66188f3033",
+    "1521653965d71f2ea03035b33c0cda5b",
+    "2831de73cc2714a840f57737514b1421"
   ]
 }
