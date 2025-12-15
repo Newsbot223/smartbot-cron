@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ataman-fuer-laengere-beschwerdefristen-nach-faellen-von-diskriminierung-102.html",
-    "https://www.deutschlandfunk.de/us-handelsminister-lutnick-zu-gast-in-bruessel-100.html",
-    "https://www.deutschlandfunk.de/eu-und-afrikanische-staaten-beraten-auf-gipfel-ueber-engere-zusammenarbeit-104.html",
-    "https://www.deutschlandfunk.de/koelner-hauptbahnhof-nimmt-nach-vollsperrung-wieder-den-betrieb-auf-100.html",
     "https://www.deutschlandfunk.de/spd-chefs-boecker-giannini-und-hikel-wollen-sich-zu-ihren-ruecktritten-aeussern-100.html",
     "https://www.deutschlandfunk.de/usa-aeussern-sich-optimistisch-selenskyj-finden-gehoer-europaeer-mit-eigenen-vorschlaegen-100.html",
     "https://www.deutschlandfunk.de/trumps-friedens-plan-und-die-reaktionen-aus-der-ukraine-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/ukraine-laesst-zehntausende-drohnen-in-deutschland-herstellen-100.html",
     "https://www.deutschlandfunk.de/mitarbeiter-des-louvre-streiken-und-bemaengeln-arbeitsbedingungen-100.html",
     "https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-zahl-der-kindeswohlgefaehrdungen-erreicht-neuen-hoechstwert-a-611dc563-e88b-442a-ac28-f739b9ab58c0#ref=rss",
-    "https://www.deutschlandfunk.de/meyer-werft-erhaelt-grossauftrag-der-schweizer-reederei-msc-102.html"
+    "https://www.deutschlandfunk.de/meyer-werft-erhaelt-grossauftrag-der-schweizer-reederei-msc-102.html",
+    "https://www.deutschlandfunk.de/eu-aussenminister-beschliessen-sanktionen-gegen-unterstuetzer-vor-russischer-schattenflotte-100.html",
+    "https://www.deutschlandfunk.de/warum-der-donbass-ein-zentraler-knackpunkt-in-den-ukraine-verhandlungen-ist-100.html",
+    "https://www.deutschlandfunk.de/eu-startet-luftbruecke-nach-darfur-100.html",
+    "https://www.deutschlandfunk.de/presserat-ruegt-nahost-berichterstattung-in-mehreren-faellen-100.html"
   ],
   "content_hashes": [
-    "f90172c976f34c74df4a24864336e49c",
-    "8fb9cfb462153a022b0fcaa8d2ae1108",
-    "79b6127782756aba057cc52896f7f99c",
-    "fa01e9f20fd0ebeb440af22c46d33153",
     "f8e205d82317e3a2dba7cc85590216a3",
     "a68971f2110a00675846f2cbd7e3cbc3",
     "086306ff2ca9c9282a40bb0c95290f7a",
@@ -2001,13 +1997,13 @@
     "a0829b5c1e5028c355b35a1c60cc9c04",
     "d2e11d520236fd86e6216f1d9cc7289f",
     "79d25b7ba621eb63d593abb592c9a31a",
-    "11f8dea89b55e2bfc3698a14541bc77e"
+    "11f8dea89b55e2bfc3698a14541bc77e",
+    "fb0ae941798c86887cff265d6cc9ac0f",
+    "ea158043c83f971a2b6c3d4233992f26",
+    "81b95225363d03eb370611917b212f02",
+    "a3fe18f28b6fc9eebbecfaf7f40a22cf"
   ],
   "titles": [
-    "Antidiskriminierung-Beauftragte - Ataman für längere Beschwerdefristen nach Fällen von Diskriminierung",
-    "Wirtschaftsbeziehungen - US-Handelsminister Lutnick zu Gast in Brüssel",
-    "Luanda - EU und afrikanische Staaten beraten auf Gipfel über engere Zusammenarbeit",
-    "Bauarbeiten - Kölner Hauptbahnhof nimmt nach Vollsperrung wieder den Betrieb auf",
     "Berlin - SPD-Chefs Böcker-Giannini und Hikel wollen sich zu ihren Rücktritten äußern",
     "Ukraine-Gespräche in Genf - USA äußern sich optimistisch - Selenskyj: \"Finden Gehör\" - Europäer mit eigenen Vorschlägen",
     "Ukraine-Friedensplan - Selenskyj äußert sich vorsichtig optimistisch",
@@ -3003,13 +2999,13 @@
     "Russischer Angriffskrieg - Ukraine lässt zehntausende Drohnen in Deutschland herstellen",
     "Frankreich - Mitarbeiter des Louvre streiken - und bemängeln Arbeitsbedingungen",
     "Statistisches Bundesamt: Zahl der Kindeswohlgefährdungen erreicht neuen Höchstwert",
-    "Papenburg - Meyer-Werft erhält Großauftrag der Schweizer Reederei MSC"
+    "Papenburg - Meyer-Werft erhält Großauftrag der Schweizer Reederei MSC",
+    "Brüssel - EU-Außenminister beschließen Sanktionen gegen Unterstützer vor russischer Schattenflotte",
+    "Ukraine-Krieg - Warum der Donbass ein zentraler Knackpunkt in den Ukraine-Verhandlungen ist",
+    "Bürgerkriegsregion - EU startet Luftbrücke nach Darfur",
+    "Medien - Presserat rügt Nahost-Berichterstattung in mehreren Fällen"
   ],
   "hashes": [
-    "9dba7740c61ff9672dc99e1f7094c694",
-    "2358c67702161fe24965d3b481311c94",
-    "d7c98cf820136778ee770f57df30ff25",
-    "f2d0dcafb883cf2dae80708682c7358a",
     "6e971468a4bca423ce97711c7823bf63",
     "ec736fb729a8ad8733cd6803f3bcb2a9",
     "1e64c03b99adfd81ea2218cee868a66a",
@@ -4005,6 +4001,10 @@
     "eaa8c6dbd8b03269cb1ed503d99361f7",
     "ef8cde4e58617d8e0deb0519e1f85a49",
     "18de3d34505ea6aa140a077bf8cc9845",
-    "9f3a509cf1106e881ee64554136ea6ed"
+    "9f3a509cf1106e881ee64554136ea6ed",
+    "51a8be995e95eab8026215251bbe2520",
+    "c05cb33ae3a10f3c9f8a05450f3de811",
+    "6262cb13deb2ad77359acd42bc2ff303",
+    "5cbfdfdad74566641f31059885d3c76f"
   ]
 }
