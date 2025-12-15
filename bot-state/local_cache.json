@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-180-staaten-beraten-bei-artenschutzkonferenz-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-stellt-sich-hinter-weimer-100.html",
-    "https://www.aljazeera.com/news/liveblog/2025/11/24/russia-ukraine-war-live-eu-to-discuss-us-plan-several-killed-in-kharkiv?traffic_source=rss",
     "https://www.deutschlandfunk.de/iran-verurteilt-toetung-von-hisbollah-militaerchef-durch-israel-100.html",
     "https://www.deutschlandfunk.de/eu-dringt-vor-treffen-mit-us-handelsminister-auf-niedrigere-stahlzoelle-100.html",
     "https://www.faz.net/aktuell/politik/inland/hubig-will-einsatz-von-k-o-tropfen-haerter-bestrafen-110790383.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spahn-verteidigt-sein-vorgehen-bei-der-masken-beschaffung-100.html",
     "https://www.deutschlandfunk.de/ex-bundesverkehrsminister-scheuer-sagt-als-zeuge-im-untersuchungsausschuss-des-nrw-landtags-aus-102.html",
     "https://www.deutschlandfunk.de/kirchen-bekunden-solidaritaet-mit-juedischer-gemeinschaft-nach-anschlag-in-sydney-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-verhandlungen-trumps-plan-fuer-seinen-clan-110803745.html"
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-verhandlungen-trumps-plan-fuer-seinen-clan-110803745.html",
+    "https://www.deutschlandfunk.de/ukrainische-armee-trifft-nach-eigenen-angaben-russisches-u-boot-schwer-100.html",
+    "https://www.deutschlandfunk.de/cdu-und-spd-geben-erstes-personal-fuer-rentenkommission-bekannt-100.html",
+    "https://www.deutschlandfunk.de/franzoesischer-senat-verabschiedet-haushalt-vermittlungsausschuss-uebernimmt-100.html"
   ],
   "content_hashes": [
-    "d1816e408554670a7f0ca6200bc828e6",
-    "52f23eee70c90e856530d7b401d47f88",
-    "a50a8caebd7fb49a12c6bdcb35aef2a8",
     "c9c3cceda2c21520bf516435c478537e",
     "252f65f6c9149dc05d34f3ed5144d056",
     "0503de3b2992c617c752e299b2b119f7",
@@ -2001,12 +1998,12 @@
     "873dda730e7620ea1b159c2d3270ed60",
     "a3a0ac3c76441749982070e6d04da7c0",
     "8978638a4bdd71dc5de22cea976235f5",
-    "87aaffc12b9a6310c37362cc2aaf6759"
+    "87aaffc12b9a6310c37362cc2aaf6759",
+    "baeba1ba0f0ca2ea7421560cf3c9b2ca",
+    "17307399d1ffcc6898f1655c5b23834d",
+    "5f23fd23858f7a7bcd61f44463de2287"
   ],
   "titles": [
-    "Usbekistan - Mehr als 180 Staaten beraten bei Artenschutzkonferenz",
-    "Vorwürfe gegen Kulturstaatsminister - Bundeskanzler Merz stellt sich hinter Weimer",
-    "Russia-Ukraine war live: EU to discuss US plan, several killed in Kharkiv",
     "Nahost-Konflikt - Iran verurteilt Tötung von Hisbollah-Militärchef durch Israel",
     "Transatlantischer Handel - EU dringt vor Treffen mit US-Handelsminister auf niedrigere Stahlzölle",
     "Gesetzentwurf: Hubig will Einsatz von K.-o.-Tropfen härter bestrafen",
@@ -3003,12 +3000,12 @@
     "Corona-Pandemie - Spahn verteidigt sein Vorgehen bei der Masken-Beschaffung",
     "Rahmede - Ex-Bundesverkehrsminister Scheuer sagt als Zeuge im Untersuchungsausschuss des NRW-Landtags aus",
     "Terror - Kirchen bekunden Solidarität mit jüdischer Gemeinschaft nach Anschlag in Sydney",
-    "Ukraine-Gespräche in Berlin: Papiergarantien für die Ukraine genügen nicht"
+    "Ukraine-Gespräche in Berlin: Papiergarantien für die Ukraine genügen nicht",
+    "Ukraine-Krieg - Ukrainische Armee trifft nach eigenen Angaben russisches U-Boot schwer",
+    "Berlin - CDU und SPD geben erstes Personal für Rentenkommission bekannt",
+    "Paris - Französischer Senat verabschiedet Haushalt - Vermittlungsausschuss übernimmt"
   ],
   "hashes": [
-    "351252613d9199c03aa74fadff1ddef6",
-    "268be0e36680ef4c63b2a14310852a86",
-    "fa51c21a9354b2777b4be8fec6b862f9",
     "af37117b6e46860773208d21a0bae2d2",
     "0a8b02056172a05b8b0c33213712863c",
     "08e22a78fd18906bdd299041964bdfe9",
@@ -4005,6 +4002,9 @@
     "9dac5e81119c1275e1f7f36d24580f34",
     "bd4796975e5d99b6bb4d152fa207f733",
     "b98d4919bfe2e550f9a74bcb59f9f866",
-    "534822d0cecdf1a5d0d8a1d137b2c980"
+    "534822d0cecdf1a5d0d8a1d137b2c980",
+    "389230776131879565eb7701291268e7",
+    "c4993d8830f0288c3ff470d6581c1ca1",
+    "f3df23cf483b07c54d5fd6705f24f65b"
   ]
 }
