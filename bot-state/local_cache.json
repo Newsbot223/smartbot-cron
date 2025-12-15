@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oekonomen-fordern-stopp-von-geplantem-rentenpaket-102.html",
-    "https://www.deutschlandfunk.de/vertrauter-von-dodik-gewinnt-praesidentenwahl-100.html",
-    "https://www.deutschlandfunk.de/tote-und-und-verletzte-nach-russischen-angriffen-100.html",
     "https://www.deutschlandfunk.de/kretschmer-debatte-um-afd-zusammenarbeit-hilft-nicht-weiter-102.html",
     "https://www.deutschlandfunk.de/ataman-fuer-laengere-beschwerdefristen-nach-faellen-von-diskriminierung-102.html",
     "https://www.deutschlandfunk.de/us-handelsminister-lutnick-zu-gast-in-bruessel-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/herrmann-csu-bayerns-weihnachtsmaerkte-sind-sicher-102.html",
     "https://www.deutschlandfunk.de/kindeswohlgefaehrdungen-auf-neuem-hoechststand-112.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-erhebt-anklage-gegen-afd-abgeordneten-wegen-hitlergrusses-im-bundestagsgebaeude-102.html",
-    "https://www.aljazeera.com/news/liveblog/2025/12/15/russia-ukraine-war-live-zelenskyy-us-envoys-to-resume-berlin-talks?traffic_source=rss"
+    "https://www.aljazeera.com/news/liveblog/2025/12/15/russia-ukraine-war-live-zelenskyy-us-envoys-to-resume-berlin-talks?traffic_source=rss",
+    "https://www.deutschlandfunk.de/ukraine-laesst-zehntausende-drohnen-in-deutschland-herstellen-100.html",
+    "https://www.deutschlandfunk.de/mitarbeiter-des-louvre-streiken-und-bemaengeln-arbeitsbedingungen-100.html",
+    "https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-zahl-der-kindeswohlgefaehrdungen-erreicht-neuen-hoechstwert-a-611dc563-e88b-442a-ac28-f739b9ab58c0#ref=rss"
   ],
   "content_hashes": [
-    "0801d3b602f7ca22a2096a1985eec0d7",
-    "ccbb4d7f6100a584c733113e70690d1d",
-    "061c140c7e4b8ef33c8087bab34fa4be",
     "efe647c69a3136133db8f44b404a7399",
     "f90172c976f34c74df4a24864336e49c",
     "8fb9cfb462153a022b0fcaa8d2ae1108",
@@ -2001,12 +1998,12 @@
     "a0b5871f4c4981412938b4151de53b5b",
     "50699089496a620907a13efa153d7f71",
     "193116df1ccdf1e737bb316d9ab12360",
-    "7ad67aeabdc5eef8262b1c2747f0abf7"
+    "7ad67aeabdc5eef8262b1c2747f0abf7",
+    "a0829b5c1e5028c355b35a1c60cc9c04",
+    "d2e11d520236fd86e6216f1d9cc7289f",
+    "79d25b7ba621eb63d593abb592c9a31a"
   ],
   "titles": [
-    "Medienbericht - Ökonomen fordern Stopp von geplantem Rentenpaket",
-    "Republika Srpska - Vertrauter von Dodik gewinnt Präsidentenwahl",
-    "Ukrainekrieg - Tote und und Verletzte nach russischen Angriffen",
     "Sachsens Ministerpräsident - Kretschmer: \"Debatte um AfD-Zusammenarbeit hilft nicht weiter\"",
     "Antidiskriminierung-Beauftragte - Ataman für längere Beschwerdefristen nach Fällen von Diskriminierung",
     "Wirtschaftsbeziehungen - US-Handelsminister Lutnick zu Gast in Brüssel",
@@ -3003,12 +3000,12 @@
     "Vereitelte Anschlagspläne - Herrmann (CSU): Bayerns Weihnachtsmärkte sind sicher",
     "Statistisches Bundesamt - Kindeswohlgefährdungen auf neuem Höchststand",
     "Berlin - Staatsanwaltschaft erhebt Anklage gegen AfD-Abgeordneten wegen Hitlergrußes im Bundestagsgebäude",
-    "Russia-Ukraine war live: Zelenskyy, US envoys to resume Berlin talks"
+    "Russia-Ukraine war live: Zelenskyy, US envoys to resume Berlin talks",
+    "Russischer Angriffskrieg - Ukraine lässt zehntausende Drohnen in Deutschland herstellen",
+    "Frankreich - Mitarbeiter des Louvre streiken - und bemängeln Arbeitsbedingungen",
+    "Statistisches Bundesamt: Zahl der Kindeswohlgefährdungen erreicht neuen Höchstwert"
   ],
   "hashes": [
-    "034d1dab15d87944db6ef474a9799a95",
-    "808e1f8e25e4f5170961e4a33d4e4244",
-    "1e7ee926b5f6b9cb8b7e406680736dd8",
     "37816ee7911b08c09bbe27e5879d7f49",
     "9dba7740c61ff9672dc99e1f7094c694",
     "2358c67702161fe24965d3b481311c94",
@@ -4005,6 +4002,9 @@
     "2831de73cc2714a840f57737514b1421",
     "2cec365dfafc2a495911882aa97b5960",
     "882da7294e7507a9d265fd20ec343661",
-    "f623ba672a90188d2f3412f343d33c01"
+    "f623ba672a90188d2f3412f343d33c01",
+    "eaa8c6dbd8b03269cb1ed503d99361f7",
+    "ef8cde4e58617d8e0deb0519e1f85a49",
+    "18de3d34505ea6aa140a077bf8cc9845"
   ]
 }
