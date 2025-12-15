@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/chefs-der-berliner-spd-treten-zurueck-110790127.html",
-    "https://www.deutschlandfunk.de/spd-chefs-boecker-giannini-und-hikel-treten-zurueck-100.html",
-    "https://www.deutschlandfunk.de/us-seite-spricht-von-fortschritten-bei-ukraine-gespraechen-in-genf-100.html",
     "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-die-suedwest-afd-glaubt-an-platz-eins-110789717.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-stellt-sich-hinter-kulturstaatsminister-weimer-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/ukraine/28-punkte-plan-fuer-ukraine-nicht-die-europaeer-sind-blind-110789935.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stichwahl-um-praesidentenamt-rechter-kandidat-kast-laut-teilergebnissen-vorn-104.html",
     "https://www.deutschlandfunk.de/kommission-befragt-spahn-zu-masken-beschaffung-100.html",
     "https://www.deutschlandfunk.de/ex-bundesverkehrsminister-scheuer-und-wissing-vor-brueckendesaster-untersuchungsausschuss-des-nrw-la-100.html",
-    "https://www.deutschlandfunk.de/herrmann-csu-nach-festnahmen-im-raum-dingolfing-keine-konkrete-gefaehrdung-fuer-oertliche-weihnachts-102.html"
+    "https://www.deutschlandfunk.de/herrmann-csu-nach-festnahmen-im-raum-dingolfing-keine-konkrete-gefaehrdung-fuer-oertliche-weihnachts-102.html",
+    "https://www.deutschlandfunk.de/zivildienst-in-handwerksbetrieben-branchenverband-wirbt-dafuer-100.html",
+    "https://www.deutschlandfunk.de/meyer-werft-vor-milliardenschwerem-auftrag-100.html",
+    "https://www.deutschlandfunk.de/hongkonger-verleger-jimmy-lai-schuldig-gesprochen-100.html"
   ],
   "content_hashes": [
-    "d30cdf24d67f136bea4af63b8cf494f3",
-    "eba5e8bd225da832ea84334e0d0b1b38",
-    "aae1f05d806506631144cf22b61829cf",
     "e8fa70718f53a236cf73d6dcdb7fd797",
     "24f13f424f039cbcbd6c879ede16d3d9",
     "dfb325acff7ec238179eb20e4753390b",
@@ -2001,12 +1998,12 @@
     "7e86b7bc5fc81b6e014fc9d4af3f61bd",
     "05e0b3b425fe3ca29767a41de1b45cff",
     "70f31dc8f0e45e0aca4760daeb1cc4f0",
-    "489afba87fde296c3692ac1ec4d9e1f8"
+    "489afba87fde296c3692ac1ec4d9e1f8",
+    "20630994a05a58436a0a7cafb4c71d4e",
+    "b9149d9af6faadc26dc98c5575ca6787",
+    "6dbf6092cf8211c36c8e74574b980e6f"
   ],
   "titles": [
-    "Fehlender Rückhalt: Chefs der Berliner SPD kündigen Rücktritt an",
-    "Berlin - SPD-Chefs Böcker-Giannini und Hikel treten zurück",
-    "Russischer Angriffskrieg - US-Seite spricht von Fortschritten bei Ukraine-Gesprächen in Genf",
     "Landtagswahl im März: Die AfD in Baden-Württemberg glaubt an Platz eins",
     "Liveblog Bundespolitik: Merz stellt sich hinter Kulturstaatsminister Weimer",
     "Trumps Ukraine-Plan: Wer solche Freunde hat, braucht keinen Putin mehr",
@@ -3003,12 +3000,12 @@
     "Chile - Stichwahl um Präsidentenamt: Rechter Kandidat Kast laut Teilergebnissen vorn",
     "Corona-Pandemie - Kommission befragt Spahn zu Masken-Beschaffung",
     "Rahmede - Ex-Bundesverkehrsminister Scheuer und Wissing vor \"Brückendesaster\"-Untersuchungsausschuss des NRW-Landtags",
-    "Islamistische Anschlagspläne - Herrmann (CSU) nach Festnahmen im Raum Dingolfing: Keine konkrete Gefährdung für örtliche Weihnachtsmärkte"
+    "Islamistische Anschlagspläne - Herrmann (CSU) nach Festnahmen im Raum Dingolfing: Keine konkrete Gefährdung für örtliche Weihnachtsmärkte",
+    "Werdienst-Debatte - Zivildienst in Handwerksbetrieben: Branchenverband wirbt dafür",
+    "Papenburg - Meyer Werft vor milliardenschwerem Auftrag",
+    "China - Hongkonger Verleger Jimmy Lai schuldig gesprochen"
   ],
   "hashes": [
-    "7c3d18a3c4bb9b9a037afb82608a033a",
-    "ecf02f98470c69dc940489d5e7f50c82",
-    "044585bef15f6e7df8aaae40a52b9dec",
     "0a8430ecf729b64415471cc590881e31",
     "6d5de09edb7f1f39b6c36e949ef08fa2",
     "bba77d0804ae671ae4808ae9cb88eed5",
@@ -4005,6 +4002,9 @@
     "06a38a9b73a05bda0cf4976812d22d10",
     "428778abed5a3d3e4447e62feff11d58",
     "6162cb5f8d4f209a8b31efa4f741f3e6",
-    "32713767cb3360a597fb974dfef94b0c"
+    "32713767cb3360a597fb974dfef94b0c",
+    "3af8f7884a63c6dc5ba0f7ffb8950e29",
+    "f3739167f811fee56e04a069bf8e352f",
+    "a685724830b6f5e7d24b3b5739c787a9"
   ]
 }
