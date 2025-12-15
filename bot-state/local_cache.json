@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/hubig-will-einsatz-von-k-o-tropfen-haerter-bestrafen-110790383.html",
-    "https://www.faz.net/aktuell/politik/inland/geheimdienst-kontrolleure-schlecht-besetzt-koennen-sie-ihrer-arbeit-nachkommen-110788675.html",
     "https://www.deutschlandfunk.de/deutschland-schlusslicht-bei-ausgaben-fuer-bildung-100.html",
     "https://www.deutschlandfunk.de/festnahme-von-oppositionspolitikern-in-kirgistan-vor-parlamentswahlen-100.html",
     "https://www.deutschlandfunk.de/beobachter-sprechen-von-friedlichem-verlauf-der-parlaments-und-praesidentschaftswahlen-in-guinea-bis-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-und-spd-geben-erstes-personal-fuer-rentenkommission-bekannt-100.html",
     "https://www.deutschlandfunk.de/franzoesischer-senat-verabschiedet-haushalt-vermittlungsausschuss-uebernimmt-100.html",
     "https://www.spiegel.de/ausland/ukraine-krieg-europaeer-wollen-multinationale-truppe-als-sicherheitsgarantie-a-80b3c34e-0105-4e4a-a46a-7b3b100eb3f2#ref=rss",
-    "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-zu-30-jahren-haft-verurteilt-100.html"
+    "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-zu-30-jahren-haft-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-wird-in-den-haag-erwartet-100.html",
+    "https://www.deutschlandfunk.de/abkehr-vom-verbrenner-aus-eu-kommission-praesentiert-vorschlaege-fuer-neuwagen-regeln-ab-102.html"
   ],
   "content_hashes": [
-    "0503de3b2992c617c752e299b2b119f7",
-    "d174d53caf24c901b59638f290d798f3",
     "9fffaf8fe80843b6b4f3d1fdd6c5b418",
     "ecdd7e46aa36970faba41d7430a9e915",
     "d94eff6be70b285b444a713ec4047362",
@@ -2001,11 +1999,11 @@
     "17307399d1ffcc6898f1655c5b23834d",
     "5f23fd23858f7a7bcd61f44463de2287",
     "94235ef252b06643c487a1d625f1017f",
-    "c62bc3a9995f76b4ec6954055b0523e0"
+    "c62bc3a9995f76b4ec6954055b0523e0",
+    "bec3b6d1eeeb5b715c4919d7f138b0cf",
+    "be0c22b7e0e3036554de6dcecec4e0cc"
   ],
   "titles": [
-    "Gesetzentwurf: Hubig will Einsatz von K.-o.-Tropfen härter bestrafen",
-    "GeheimdienstGremium: Die Probleme der Geheimdienstkontrolleure",
     "Europäische Vergleichsstudie - Deutschland Schlusslicht bei Ausgaben für Bildung",
     "Zentralasien - Festnahme von Oppositionspolitikern in Kirgistan vor Parlamentswahlen",
     "Westafrika - Beobachter sprechen von friedlichem Verlauf der Parlaments- und Präsidentschaftswahlen in Guinea-Bissau",
@@ -3003,11 +3001,11 @@
     "Berlin - CDU und SPD geben erstes Personal für Rentenkommission bekannt",
     "Paris - Französischer Senat verabschiedet Haushalt - Vermittlungsausschuss übernimmt",
     "Ukraine-Krieg: Europäer wollen »multinationale Truppe« als Sicherheitsgarantie",
-    "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala zu 30 Jahren Haft verurteilt"
+    "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala zu 30 Jahren Haft verurteilt",
+    "Niederlande - Ukrainischer Präsident Selenskyj wird in Den Haag erwartet",
+    "Brüssel - Abkehr vom \"Verbrenner-Aus?\" - EU-Kommission präsentiert Vorschläge für Neuwagen-Regeln ab 2035"
   ],
   "hashes": [
-    "08e22a78fd18906bdd299041964bdfe9",
-    "aa01fdcaa76d0f54701a026764940be6",
     "6187deb547fc890e5c1a84c0f716fa1a",
     "0a4b87acafbf405fe7cf55e487bd7050",
     "9a53f5b75d02c0a5641af57bc9d57f36",
@@ -4005,6 +4003,8 @@
     "c4993d8830f0288c3ff470d6581c1ca1",
     "f3df23cf483b07c54d5fd6705f24f65b",
     "7d4604d9d956aef4a190b42a4e1f12bd",
-    "5fab750ecfd34b098de110a4858e5119"
+    "5fab750ecfd34b098de110a4858e5119",
+    "bc03aa5640fae3737266e0f8f26a7524",
+    "7dcd8b085b756bf4a629c59b6a7b2c79"
   ]
 }
