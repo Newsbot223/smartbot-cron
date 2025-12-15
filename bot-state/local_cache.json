@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flugbetrieb-in-vilnius-erneut-wegen-ballons-voruebergehend-ausgesetzt-104.html",
-    "https://www.deutschlandfunk.de/brasiliens-praesident-lula-kuendigt-telefonat-mit-trump-an-100.html",
     "https://www.deutschlandfunk.de/nein-zu-legalisierung-von-sterbehilfe-100.html",
     "https://www.deutschlandfunk.de/oekonomen-fordern-stopp-von-geplantem-rentenpaket-102.html",
     "https://www.deutschlandfunk.de/vertrauter-von-dodik-gewinnt-praesidentenwahl-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-ukraine-treffen-in-berlin-reaktionen-aus-kiew-100.html",
     "https://www.deutschlandfunk.de/wadephul-beratungen-so-ernsthaft-wie-nie-102.html",
     "https://www.deutschlandfunk.de/fuehrende-oekonomen-ueben-scharfe-kritik-an-absehbarer-abkehr-vom-verbrenner-aus-in-der-eu-100.html",
-    "https://www.deutschlandfunk.de/herrmann-csu-bayerns-weihnachtsmaerkte-sind-sicher-102.html"
+    "https://www.deutschlandfunk.de/herrmann-csu-bayerns-weihnachtsmaerkte-sind-sicher-102.html",
+    "https://www.deutschlandfunk.de/kindeswohlgefaehrdungen-auf-neuem-hoechststand-112.html",
+    "https://www.deutschlandfunk.de/staatsanwaltschaft-erhebt-anklage-gegen-afd-abgeordneten-wegen-hitlergrusses-im-bundestagsgebaeude-102.html"
   ],
   "content_hashes": [
-    "6102e3451f8c546eb312d7c26f10b77a",
-    "e8e9d01a0e4607e443468b89c82285a8",
     "dc24e3f07e0844532cc97462a9be638a",
     "0801d3b602f7ca22a2096a1985eec0d7",
     "ccbb4d7f6100a584c733113e70690d1d",
@@ -2001,11 +1999,11 @@
     "13b85dd12522abb7eff90b28b6e7eaa6",
     "c29e2477649634fb4b10f4e77bf03715",
     "dfa1cbb8dcf4f085906c15abd659b84c",
-    "a0b5871f4c4981412938b4151de53b5b"
+    "a0b5871f4c4981412938b4151de53b5b",
+    "50699089496a620907a13efa153d7f71",
+    "193116df1ccdf1e737bb316d9ab12360"
   ],
   "titles": [
-    "Litauen - Flugbetrieb in Vilnius erneut wegen Ballons vorübergehend ausgesetzt",
-    "US-Militärpräsenz vor Venezuelas Küste - Brasiliens Präsident Lula kündigt Telefonat mit Trump an",
     "Referendum in Slowenien - Nein zu Legalisierung von Sterbehilfe",
     "Medienbericht - Ökonomen fordern Stopp von geplantem Rentenpaket",
     "Republika Srpska - Vertrauter von Dodik gewinnt Präsidentenwahl",
@@ -3003,11 +3001,11 @@
     "Treffen in Berlin - Diplomatische Bemühungen um Ende des Kriegs in der Ukraine",
     "Ukraine-Gespräche in Berlin - Wadephul: Beratungen \"so ernsthaft wie nie\"",
     "\"Symboldebatte\" - Führende Ökonomen üben scharfe Kritik an absehbarer Abkehr vom Verbrenner-Aus in der EU",
-    "Vereitelte Anschlagspläne - Herrmann (CSU): Bayerns Weihnachtsmärkte sind sicher"
+    "Vereitelte Anschlagspläne - Herrmann (CSU): Bayerns Weihnachtsmärkte sind sicher",
+    "Statistisches Bundesamt - Kindeswohlgefährdungen auf neuem Höchststand",
+    "Berlin - Staatsanwaltschaft erhebt Anklage gegen AfD-Abgeordneten wegen Hitlergrußes im Bundestagsgebäude"
   ],
   "hashes": [
-    "58f12829a3ee0129802d85c4732d36b4",
-    "580eb94f10da7e7a83e1f872ef301069",
     "845f3c7df2189664b03a275adc16b29b",
     "034d1dab15d87944db6ef474a9799a95",
     "808e1f8e25e4f5170961e4a33d4e4244",
@@ -4005,6 +4003,8 @@
     "d8eab9c2b5dfc5641ee3a18b7f57ba2e",
     "a0b2784b55565ec0e734ce66188f3033",
     "1521653965d71f2ea03035b33c0cda5b",
-    "2831de73cc2714a840f57737514b1421"
+    "2831de73cc2714a840f57737514b1421",
+    "2cec365dfafc2a495911882aa97b5960",
+    "882da7294e7507a9d265fd20ec343661"
   ]
 }
