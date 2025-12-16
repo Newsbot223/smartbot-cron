@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehrere-tote-bei-pakistanischen-angriffen-darunter-viele-kinder-100.html",
-    "https://www.deutschlandfunk.de/razzia-gegen-gruppe-wegen-hunderter-bombendrohungen-bundesweit-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-kuendigt-reformen-der-sozialen-sicherungssysteme-an-100.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-oleksandra-matviichuk-ueber-die-lage-in-der-ukraine-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-bauhauptgewerbe-verzeichnet-deutlich-mehr-auftraege-bip-stagniert-a-bfe9cbbd-de4d-41e0-bbc1-3b1ac0e74736#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/warum-die-kritik-an-friedrich-merz-widersinnig-ist-110790778.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kommission-zur-bewertung-von-schadenersatzforderungen-zugunsten-der-ukraine-gegruendet-102.html",
     "https://www.deutschlandfunk.de/charterflug-bringt-160-afghanen-nach-berlin-100.html",
     "https://www.faz.net/aktuell/politik/ukraine-krieg-die-eu-muss-putin-zeigen-was-sie-kann-110804047.html",
-    "https://www.deutschlandfunk.de/europaeische-regierungschefs-fordern-besseren-schutz-der-eu-ostflanke-vor-russland-100.html"
+    "https://www.deutschlandfunk.de/europaeische-regierungschefs-fordern-besseren-schutz-der-eu-ostflanke-vor-russland-100.html",
+    "https://www.deutschlandfunk.de/nach-bootsunglueck-suedlich-von-kreta-zahl-der-todesopfer-steigt-auf-100.html",
+    "https://www.deutschlandfunk.de/haus-der-geschichte-muss-verkaeufer-von-schabowski-zettel-nennen-102.html",
+    "https://www.aljazeera.com/video/fault-lines/2025/12/16/irans-foreign-minister-says-strikes-wont-stop-nuclear-programme?traffic_source=rss"
   ],
   "content_hashes": [
-    "4dc9c7c3b9bf7f4be6c56650651e1e56",
-    "121758c114843ce6003dc72a46087e5b",
-    "2b330fbf2939c18e56a1264525c739bb",
     "e70e91a8af0b6d94a4e8fcf7d7f1445a",
     "acf20009e3e41380991e0b8feaf792a2",
     "85a6b879f47d7e255ebeb5c11f337433",
@@ -2001,12 +1998,12 @@
     "dcc08c67ec7ee07b7b053344c4a33cbf",
     "8e691a905ac410b3e67154987fa7e2d8",
     "adff79b3d25dff8c1c034b36ec3b1fd0",
-    "702f3231f13dbf677e5309ac08078434"
+    "702f3231f13dbf677e5309ac08078434",
+    "ed51a4608748f93a6f600bca1c83b119",
+    "0486e53477e39d9c8b06bb4783fd2419",
+    "7181dd653778b998017395ab539fc181"
   ],
   "titles": [
-    "Afghanistan - Mehrere Tote bei pakistanischen Angriffen, darunter viele Kinder",
-    "Kriminalität - Razzia gegen Gruppe wegen hunderter Bombendrohungen bundesweit",
-    "Etatberatungen im Bundestag - Klingbeil kündigt Reformen der sozialen Sicherungssysteme an",
     "Krieg in der Ukraine - Menschenrechtlerin: \"Wenn du deiner Müdigkeit nachgibst, wirst du getötet\"",
     "Konjunktur: Bauhauptgewerbe verzeichnet deutlich mehr Aufträge – BIP stagniert",
     "Schwierige Koalition: Die widersinnige Kritik am Kanzler",
@@ -3003,12 +3000,12 @@
     "Den Haag - Kommission zur Bewertung von Schadenersatzforderungen zugunsten der Ukraine gegründet",
     "Aufnahmezusage - Charterflug bringt 160 Afghanen nach Berlin",
     "Nach Berlin – vor Brüssel: Will Europa weiter ein Papiertiger sein?",
-    "Gemeinsame Erklärung - Europäische Regierungschefs fordern besseren Schutz der EU-Ostflanke vor Russland"
+    "Gemeinsame Erklärung - Europäische Regierungschefs fordern besseren Schutz der EU-Ostflanke vor Russland",
+    "Migration - Nach Bootsunglück südlich von Kreta - Zahl der Todesopfer steigt auf 32",
+    "DDR-Historie - Haus der Geschichte muss Verkäufer von Schabowski-Zettel nennen",
+    "Iran’s foreign minister says strikes won’t stop nuclear programme"
   ],
   "hashes": [
-    "943bf6a3fb4bb17392483aab157cc8f4",
-    "b39f2addbbd65f2acff872911b82baac",
-    "f801df2648aafc68f0e5eb7d61660c41",
     "d6eea3f2c0ffa9968543fa63c55aa992",
     "f19117f232f31a414daba46c31305f52",
     "74f2873b30ea86250290b77d37de4995",
@@ -4005,6 +4002,9 @@
     "a06f863677ffcb1f3f0e66a9a7cd0074",
     "caf853256d4ad94623cf6bca3e74da51",
     "3976704372978bfc842ea00cbf123e4f",
-    "f9218c2928f690d883ff4b189f5f17f8"
+    "f9218c2928f690d883ff4b189f5f17f8",
+    "50d1d4bee2b3600924475bcdc92cd733",
+    "f1ed43f8d04108ff49086862b595030e",
+    "755ea3d166dafd67d26a4c02c27aa8d1"
   ]
 }
