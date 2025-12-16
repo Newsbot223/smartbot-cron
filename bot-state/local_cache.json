@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spd-spitzenkandidat-steffen-krach-gibt-sich-gelassen-110790756.html",
-    "https://www.deutschlandfunk.de/kommission-fuer-mehr-schutz-von-prostituierten-eingesetzt-102.html",
     "https://www.spiegel.de/politik/deutschland/stefanie-hubig-justizministerin-will-haertere-strafen-fuer-k-o-tropfen-a-14ac7500-27fc-4b90-842c-76561fcd200b#ref=rss",
     "https://www.deutschlandfunk.de/selenskyj-und-trump-sehen-fortschritte-in-gespraechen-ueber-us-plan-fuer-ende-des-ukraine-kriegs-100.html",
     "https://www.deutschlandfunk.de/start-der-haushaltswoche-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/fahndung-nach-uni-schuetzen-von-providence-beginnt-von-neuem-verdaechtiger-frei-100.html",
     "https://www.deutschlandfunk.de/studie-bis-2100-koennte-es-nur-noch-drei-prozent-der-heutigen-gletscher-in-den-alpen-geben-100.html",
     "https://www.deutschlandfunk.de/mitbegruender-von-deichkind-malte-pittner-ist-gestorben-102.html",
-    "https://www.faz.net/aktuell/politik/inland/schwache-bildungsergebnisse-gefaehrden-deutschlands-zukunft-110803704.html"
+    "https://www.faz.net/aktuell/politik/inland/schwache-bildungsergebnisse-gefaehrden-deutschlands-zukunft-110803704.html",
+    "https://www.deutschlandfunk.de/stuerme-und-regen-lage-in-gaza-verschlechtert-sich-weiter-100.html",
+    "https://www.spiegel.de/panorama/justiz/magdeburg-mutmassliche-anschlagsplaene-auf-menschenmengen-verdaechtiger-reiste-legal-ein-a-5cbff990-2fdc-40c6-918e-0d3916d4737b#ref=rss"
   ],
   "content_hashes": [
-    "e126227ce6b3ecd244e0502be473adfd",
-    "d1fde21952fdbf36db6eb40446c2fd54",
     "95e90fa8d8ffe9035fd2e3f3aa18d0bd",
     "f6cbd45b4b91c40e2986f89cb6194d2b",
     "e24759710455ed6d6bf87873909028f6",
@@ -2001,11 +1999,11 @@
     "c730cafbf0b2a802155fd8194f9efb99",
     "c97f40cf6f08676bc978170d89007fb2",
     "3eccc5ab226e74b4cefac109998d3b35",
-    "2f97db2761117fcc8712c24d8f85f016"
+    "2f97db2761117fcc8712c24d8f85f016",
+    "c04664050a9940e8927b98decada5891",
+    "2d3b54a2e9987b62e4cc4105e41efe5b"
   ],
   "titles": [
-    "SPD-Spitzenkandidat: „Die Berliner haben keine Lust mehr auf Kai Wegner“",
-    "Nach bundesweiter Debatte - Kommission für mehr Schutz von Prostituierten eingesetzt",
     "Stefanie Hubig: Justizministerin will härtere Strafen für K.-o.-Tropfen",
     "Nach Verhandlungen in Genf - Selenskyj und Trump sehen Fortschritte in Gesprächen über US-Plan für Ende des Ukraine-Kriegs",
     "Bundestag - Start der Haushaltswoche",
@@ -3003,11 +3001,11 @@
     "USA - Fahndung nach Uni-Schützen von Providence beginnt von Neuem - Verdächtiger frei",
     "Klimawandel - Studie: Bis 2100 könnte es nur noch drei Prozent der heutigen Gletscher in den Alpen geben",
     "HipHop - Mitbegründer von \"Deichkind\", Malte Pittner, ist gestorben",
-    "Schülerleistungen: Schwache Bildungsergebnisse gefährden Deutschlands Zukunft"
+    "Schülerleistungen: Schwache Bildungsergebnisse gefährden Deutschlands Zukunft",
+    "Palästinensergebiet - Stürme und Regen - Lage in Gaza verschlechtert sich weiter",
+    "Magdeburg: Mutmaßliche Anschlagspläne auf Menschenmengen – Verdächtiger reiste legal ein"
   ],
   "hashes": [
-    "e65fd71482679eabf50b80cbd16f75b8",
-    "dc1247bbf2d1d5a6ca8c0dfb068ff561",
     "7dca317d78ae857aa7d7398848f67010",
     "f5fea7cc185212d6b2dc5fbd734169ac",
     "2d4b0872211e370bb810a9f8ed725842",
@@ -4005,6 +4003,8 @@
     "3facbf356c2db63711b4be3bf905290d",
     "17c72486e9b4db6ca1c60e1ba4d46077",
     "6b086a2bcc552b5dd94f96d2faf193d4",
-    "0bacd3d832586caa4b50b641ef635931"
+    "0bacd3d832586caa4b50b641ef635931",
+    "01c745d3054be8ea559706c809177115",
+    "18349b5b1c40c374db01d9d51b0a0efb"
   ]
 }
