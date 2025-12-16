@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommission-stoppt-vorerst-fusion-von-universal-und-downtown-100.html",
-    "https://www.deutschlandfunk.de/staatsschutz-bereits-frueh-vor-spaeterem-taeter-von-magdeburg-gewarnt-100.html",
     "https://www.deutschlandfunk.de/familienunternehmer-oeffnen-sich-fuer-gespraeche-mit-der-afd-100.html",
     "https://www.deutschlandfunk.de/dreitaegiger-streik-in-belgien-einschraenkungen-auch-im-deutschen-bahnverkehr-100.html",
     "https://www.deutschlandfunk.de/us-handelsminister-lutnick-verlangt-aenderungen-der-eu-digitalregeln-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/premier-albanese-is-ideologie-hat-zu-anschlag-gefuehrt-100.html",
     "https://www.deutschlandfunk.de/trump-bittet-xi-um-freilassung-von-verurteiltem-hongkonger-verleger-lai-102.html",
     "https://www.deutschlandfunk.de/fahndung-nach-uni-schuetzen-beginnt-von-neuem-verdaechtiger-frei-102.html",
-    "https://www.deutschlandfunk.de/kleinflugzeug-verunglueckt-mindestens-sieben-tote-100.html"
+    "https://www.deutschlandfunk.de/kleinflugzeug-verunglueckt-mindestens-sieben-tote-100.html",
+    "https://www.deutschlandfunk.de/us-militaer-acht-tote-bei-weiteren-angriffen-auf-mutmassliche-drogenboote-100.html",
+    "https://www.deutschlandfunk.de/ex-bundesverkehrsministear-scheuer-sagt-als-zeuge-im-untersuchungsausschuss-des-nrw-landtags-aus-100.html"
   ],
   "content_hashes": [
-    "b758c1644443ab6aa8fb5f6e37614c66",
-    "cf91fe4e4c33c2594f8ecb28c9d7d679",
     "98afc7503ebfc0812628987945775225",
     "69d9b59c66b9654245c0d33fa0d006f2",
     "52a0e1bfeaa54607673a83b8162105f2",
@@ -2001,11 +1999,11 @@
     "23585c16a57bfd7a7c88c27404436348",
     "27cb86cdd9365c2d4f3711fb7e5ba733",
     "5de6b600dc25728210a233e3d48cb16d",
-    "8eff798c9411d602d1d45090c7b27491"
+    "8eff798c9411d602d1d45090c7b27491",
+    "e39da290ea73d2ec08ec2c879969337d",
+    "2f53d48c22b4c2dafc13bb3845b7f44a"
   ],
   "titles": [
-    "Musikindustrie - EU-Kommission stoppt vorerst Fusion von Universal und Downtown",
-    "Untersuchungsausschuss - Staatsschutz: Bereits früh vor späterem Täter von Magdeburg gewarnt",
     "Wirtschaft - Familienunternehmer öffnen sich für Gespräche mit der AfD",
     "Streit um Sozialreformen - Dreitägiger Streik in Belgien - Einschränkungen auch im deutschen Bahnverkehr",
     "Brüssel - US-Handelsminister Lutnick verlangt Änderungen der EU-Digitalregeln",
@@ -3003,11 +3001,11 @@
     "Australien - Premier Albanese: IS-Ideologie hat zu Anschlag geführt",
     "Nach gestrigem Urteil - Trump bittet Xi um Freilassung von verurteiltem Hongkonger Verleger Lai",
     "USA - Fahndung nach Uni-Schützen beginnt von Neuem - Verdächtiger frei",
-    "Mexiko - Kleinflugzeug verunglückt: Mindestens sieben Tote"
+    "Mexiko - Kleinflugzeug verunglückt: Mindestens sieben Tote",
+    "Östlicher Pazifik - US-Militär: acht Tote bei weiteren Angriffen auf mutmaßliche Drogenboote",
+    "Rahmede - Ex-Bundesverkehrsministear Scheuer sagt als Zeuge im Untersuchungsausschuss des NRW-Landtags aus"
   ],
   "hashes": [
-    "ecdc5c1a097e4739146a8d56a0956b45",
-    "df25a3d029af0fd668fc31a4a65cb3e5",
     "9ae1cd950e848f694cdfe8bd8edf5f9b",
     "230d835244a5bd57c318fe342affb511",
     "c76faa2333186fe713c42eb81aefbd65",
@@ -4005,6 +4003,8 @@
     "9a2bf0175a4d72c65f29e3eff3b51a4c",
     "a67c2ec0b62f900a234cf7bdde337b72",
     "7574d7b9b7923ce0081200d5b99a8131",
-    "5c9fd2058b0f0bc082328360b87c9452"
+    "5c9fd2058b0f0bc082328360b87c9452",
+    "96dfee774a32d13475da18ab46b9bd8c",
+    "f782e6c3205eb12831786997e57b06f1"
   ]
 }
