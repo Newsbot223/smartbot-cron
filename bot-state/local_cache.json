@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-reiche-wirtschaftsstandort-deutschland-braucht-fitnessprogramm-faz-110093143.html",
-    "https://www.deutschlandfunk.de/reiche-fuer-braucht-erneuerungskur-arbeitgeber-fordern-von-politik-mehr-ambitionen-102.html",
-    "https://www.deutschlandfunk.de/pflege-mindestlohn-soll-steigen-100.html",
     "https://www.deutschlandfunk.de/vw-kann-nach-eigenen-angaben-autos-vollstaendig-in-china-entwickeln-und-bauen-100.html",
     "https://www.deutschlandfunk.de/kuerzlich-freigelassener-dissident-statkewitsch-wieder-in-haft-100.html",
     "https://www.deutschlandfunk.de/dulger-mahnt-mehr-reformen-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/arbeitslosenquote-in-den-usa-erreicht-im-november-vier-jahres-hoch-100.html",
     "https://www.deutschlandfunk.de/kanzler-merz-chancen-auf-einigung-in-der-eu-bei-50-50-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-stellt-massnahmen-gegen-wohnungsnot-vor-100.html",
-    "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michelle-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html"
+    "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michelle-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
+    "https://www.deutschlandfunk.de/kanzler-merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-debatte-ueber-russisches-staatsvermoegen-im-m-100.html",
+    "https://www.deutschlandfunk.de/bundeskabinett-beraet-ueber-mehrere-gesetzentwuerfe-buergergeld-reform-soll-beschlossen-werden-100.html",
+    "https://www.deutschlandfunk.de/usa-fuehren-generelle-einreiseverbote-fuer-weitere-sieben-laender-ein-100.html"
   ],
   "content_hashes": [
-    "b16cf2f3fb603c9aaa44fa3e94738459",
-    "14e0fe18e3933a6b934d01e0e365badd",
-    "ec26b52aacf48e81bba9e52316870ff5",
     "a56729e6fee8311b9e67de0878fb0b72",
     "454f7a4cbf2588bbe32eb55b4f3e9d59",
     "b1cd76cbf5e942c1e04d69001c991915",
@@ -2001,12 +1998,12 @@
     "6608475aedd182fdb8b2ed25c081c162",
     "9d6e59da18d2ae8dd92d575a860bdddf",
     "00474c5db91078aa5aabb56333d341c7",
-    "6a79d8c09a5c45b047efe381ebc106de"
+    "6a79d8c09a5c45b047efe381ebc106de",
+    "f9190997bcc1cfc880b77e0c99267de1",
+    "5b3ac1d0f03831c51b22e35ef635ea42",
+    "2af5ddc36d8d6f849457f9a1a5862df7"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Reiche: Wirtschaftsstandort Deutschland braucht Fitnessprogramm",
-    "Wirtschaftsstandort Deutschland - Reiche für braucht Erneuerungskur - Arbeitgeber fordern von Politik mehr Ambitionen",
-    "Kommission - Pflege-Mindestlohn soll steigen",
     "Autobranche - VW kann nach eigenen Angaben Autos vollständig in China entwickeln und bauen",
     "Belarus - Kürzlich freigelassener Dissident Statkewitsch wieder in Haft",
     "Arbeitgebertag in Berlin - Dulger mahnt mehr Reformen an",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Arbeitslosenquote in den USA erreicht im November Vier-Jahres-Hoch",
     "Eingefrorenes russisches Vermögen - Kanzler Merz: Chancen auf Einigung in der EU \"bei 50:50\"",
     "Brüssel - EU-Kommission stellt Maßnahmen gegen Wohnungsnot vor",
-    "US-Justiz - Tatverdächtiger Sohn von Rob und Michelle Reiner wird wegen zweifachen Mordes angeklagt"
+    "US-Justiz - Tatverdächtiger Sohn von Rob und Michelle Reiner wird wegen zweifachen Mordes angeklagt",
+    "Bundestag - Kanzler Merz gibt Regierungserklärung zu EU-Gipfel ab - Debatte über russisches Staatsvermögen im Mittelpunkt",
+    "Berlin - Bundeskabinett berät über mehrere Gesetzentwürfe - Bürgergeld-Reform soll beschlossen werden",
+    "Washington - USA führen generelle Einreiseverbote für weitere sieben Länder ein"
   ],
   "hashes": [
-    "54917838a8b782b544e22f2f436c2cbd",
-    "e97b3a353355190159f8da85ff86f0c4",
-    "181d1fa08537967a71d0d205fb81e0c8",
     "5dd21590df10484d99c3a9a7bb293f3b",
     "c33254835e46b45f647cb779891cb01a",
     "c990ccebbf1199ffa806a4f240c87477",
@@ -4005,6 +4002,9 @@
     "c062f279fd87ba1e26aefdbc4ee62f7b",
     "f17c0152c232ae27e6845759666a83f0",
     "f3de3c3b1ed94686f331cd387db4faea",
-    "660f079785d6eba9d1e057a524fb2481"
+    "660f079785d6eba9d1e057a524fb2481",
+    "22944ffbce06928993cb07b14571fd1d",
+    "5558ea35803e0e379088b9a7af7e752c",
+    "2d94f12a3e206986d55bd619348bf20c"
   ]
 }
