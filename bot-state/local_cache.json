@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dreitaegiger-streik-in-belgien-einschraenkungen-auch-im-deutschen-bahnverkehr-100.html",
-    "https://www.deutschlandfunk.de/us-handelsminister-lutnick-verlangt-aenderungen-der-eu-digitalregeln-100.html",
     "https://www.deutschlandfunk.de/vulkan-erstmals-seit-jahrtausenden-ausgebrochen-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/kommentar-kotau-vor-trump-die-strafe-fuer-die-abhaengigkeit-von-amerika-110790780.html",
     "https://www.deutschlandfunk.de/arbeitgeberpraesident-dulger-fuer-zwei-jahre-wiedergewaehlt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kleinflugzeug-verunglueckt-mindestens-sieben-tote-100.html",
     "https://www.deutschlandfunk.de/us-militaer-acht-tote-bei-weiteren-angriffen-auf-mutmassliche-drogenboote-100.html",
     "https://www.deutschlandfunk.de/ex-bundesverkehrsministear-scheuer-sagt-als-zeuge-im-untersuchungsausschuss-des-nrw-landtags-aus-100.html",
-    "https://www.deutschlandfunk.de/reaktionen-aus-kiew-und-moskau-auf-die-ukraine-gespraeche-in-berlin-100.html"
+    "https://www.deutschlandfunk.de/reaktionen-aus-kiew-und-moskau-auf-die-ukraine-gespraeche-in-berlin-100.html",
+    "https://www.deutschlandfunk.de/internet-ausfall-im-bundestag-war-kein-hackerangriff-100.html",
+    "https://www.faz.net/aktuell/politik/inland/durch-gauersheim-geht-ein-riss-accg-110803508.html"
   ],
   "content_hashes": [
-    "69d9b59c66b9654245c0d33fa0d006f2",
-    "52a0e1bfeaa54607673a83b8162105f2",
     "a51a3cc1fd1e9841d158194966347a58",
     "4f543fb70a01de250989c64086da2fcd",
     "b97391b99f061802d88e23c2845ada70",
@@ -2001,11 +1999,11 @@
     "8eff798c9411d602d1d45090c7b27491",
     "e39da290ea73d2ec08ec2c879969337d",
     "2f53d48c22b4c2dafc13bb3845b7f44a",
-    "527f9e60813e2372df6a0c96f477c7fc"
+    "527f9e60813e2372df6a0c96f477c7fc",
+    "37dd6c1b43dd43c74ced7868eb1f5742",
+    "045d326740c5399a5a06c793689e443e"
   ],
   "titles": [
-    "Streit um Sozialreformen - Dreitägiger Streik in Belgien - Einschränkungen auch im deutschen Bahnverkehr",
-    "Brüssel - US-Handelsminister Lutnick verlangt Änderungen der EU-Digitalregeln",
     "Äthiopien - Vulkan erstmals seit Jahrtausenden ausgebrochen",
     "Kotau vor Trump: Kiew bleibt nur die Wahl zwischen Pest und Cholera",
     "BDA - Arbeitgeberpräsident Dulger für zwei Jahre wiedergewählt",
@@ -3003,11 +3001,11 @@
     "Mexiko - Kleinflugzeug verunglückt: Mindestens sieben Tote",
     "Östlicher Pazifik - US-Militär: acht Tote bei weiteren Angriffen auf mutmaßliche Drogenboote",
     "Rahmede - Ex-Bundesverkehrsministear Scheuer sagt als Zeuge im Untersuchungsausschuss des NRW-Landtags aus",
-    "Ukraine-Verhandlungen - Die Skepsis überwiegt"
+    "Ukraine-Verhandlungen - Die Skepsis überwiegt",
+    "Technisches Problem - Internet-Ausfall im Bundestag war kein Hackerangriff",
+    "AfD übernimmt Gaststätte: Es geht ein Riss durch Gauersheim"
   ],
   "hashes": [
-    "230d835244a5bd57c318fe342affb511",
-    "c76faa2333186fe713c42eb81aefbd65",
     "59c61c73d5d6bfd4179ab2f9fe55bfb1",
     "427987297d561bd2f071d42538763268",
     "c7541ba9c72508606a9e4b9750b666e5",
@@ -4005,6 +4003,8 @@
     "5c9fd2058b0f0bc082328360b87c9452",
     "96dfee774a32d13475da18ab46b9bd8c",
     "f782e6c3205eb12831786997e57b06f1",
-    "c6533e0287026cfdee6bc999449d5d55"
+    "c6533e0287026cfdee6bc999449d5d55",
+    "94dd75dc81b7426698960cda601cc5f2",
+    "f7d86a006a2ab6abede82c6bf3c562c6"
   ]
 }
