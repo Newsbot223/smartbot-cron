@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vw-kann-nach-eigenen-angaben-autos-vollstaendig-in-china-entwickeln-und-bauen-100.html",
     "https://www.deutschlandfunk.de/kuerzlich-freigelassener-dissident-statkewitsch-wieder-in-haft-100.html",
     "https://www.deutschlandfunk.de/dulger-mahnt-mehr-reformen-an-100.html",
     "https://www.deutschlandfunk.de/medien-vierter-hauptverdaechtiger-des-kunstraubs-im-louvre-festgenommen-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michelle-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
     "https://www.deutschlandfunk.de/kanzler-merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-debatte-ueber-russisches-staatsvermoegen-im-m-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-beraet-ueber-mehrere-gesetzentwuerfe-buergergeld-reform-soll-beschlossen-werden-100.html",
-    "https://www.deutschlandfunk.de/usa-fuehren-generelle-einreiseverbote-fuer-weitere-sieben-laender-ein-100.html"
+    "https://www.deutschlandfunk.de/usa-fuehren-generelle-einreiseverbote-fuer-weitere-sieben-laender-ein-100.html",
+    "https://www.deutschlandfunk.de/trump-kuendigt-blockade-sanktionierter-oeltanker-nach-venezuela-an-100.html"
   ],
   "content_hashes": [
-    "a56729e6fee8311b9e67de0878fb0b72",
     "454f7a4cbf2588bbe32eb55b4f3e9d59",
     "b1cd76cbf5e942c1e04d69001c991915",
     "f2053cf37dbc522a69ed52371cd4e037",
@@ -2001,10 +2000,10 @@
     "6a79d8c09a5c45b047efe381ebc106de",
     "f9190997bcc1cfc880b77e0c99267de1",
     "5b3ac1d0f03831c51b22e35ef635ea42",
-    "2af5ddc36d8d6f849457f9a1a5862df7"
+    "2af5ddc36d8d6f849457f9a1a5862df7",
+    "8710a3e415f1a74bf85ce1ef28f6bc88"
   ],
   "titles": [
-    "Autobranche - VW kann nach eigenen Angaben Autos vollständig in China entwickeln und bauen",
     "Belarus - Kürzlich freigelassener Dissident Statkewitsch wieder in Haft",
     "Arbeitgebertag in Berlin - Dulger mahnt mehr Reformen an",
     "Paris - Medien: Vierter Hauptverdächtiger des Kunstraubs im Louvre festgenommen",
@@ -3003,10 +3002,10 @@
     "US-Justiz - Tatverdächtiger Sohn von Rob und Michelle Reiner wird wegen zweifachen Mordes angeklagt",
     "Bundestag - Kanzler Merz gibt Regierungserklärung zu EU-Gipfel ab - Debatte über russisches Staatsvermögen im Mittelpunkt",
     "Berlin - Bundeskabinett berät über mehrere Gesetzentwürfe - Bürgergeld-Reform soll beschlossen werden",
-    "Washington - USA führen generelle Einreiseverbote für weitere sieben Länder ein"
+    "Washington - USA führen generelle Einreiseverbote für weitere sieben Länder ein",
+    "Südamerika - Trump kündigt Blockade sanktionierter Öltanker nach Venezuela an"
   ],
   "hashes": [
-    "5dd21590df10484d99c3a9a7bb293f3b",
     "c33254835e46b45f647cb779891cb01a",
     "c990ccebbf1199ffa806a4f240c87477",
     "49f2354362c8c7a384fff53036b8b389",
@@ -4005,6 +4004,7 @@
     "660f079785d6eba9d1e057a524fb2481",
     "22944ffbce06928993cb07b14571fd1d",
     "5558ea35803e0e379088b9a7af7e752c",
-    "2d94f12a3e206986d55bd619348bf20c"
+    "2d94f12a3e206986d55bd619348bf20c",
+    "858256e71e93c7bcc878055179d6bd37"
   ]
 }
