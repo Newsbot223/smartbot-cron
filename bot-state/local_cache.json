@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-zitieren-dobrindt-wegen-schutzsuchenden-afghanen-vor-innenausschuss-100.html",
-    "https://www.deutschlandfunk.de/israelische-armee-startet-neuen-einsatz-im-norden-des-westjordanlands-100.html",
     "https://www.deutschlandfunk.de/ukraine-unterstuetzer-werben-fuer-robuste-sicherheitsgarantien-104.html",
     "https://www.aljazeera.com/news/liveblog/2025/11/26/live-ukraine-and-russia-launch-drone-strikes-during-us-led-peace-talks?traffic_source=rss",
     "https://www.deutschlandfunk.de/mehr-als-690-000-menschen-in-thailand-von-verheerenden-ueberschwemmungen-betroffen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/drohnenabwehrzentrum-wird-eroeffnet-102.html",
     "https://www.deutschlandfunk.de/kloeckner-warnt-vor-toedlichem-antisemitismus-auch-in-deutschland-102.html",
     "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-verlaengert-corona-notlage-das-steckt-dahinter-110804554.html",
-    "https://www.deutschlandfunk.de/gemeinsames-drohnenabwehrzentrum-von-bund-und-laendern-eroeffnet-100.html"
+    "https://www.deutschlandfunk.de/gemeinsames-drohnenabwehrzentrum-von-bund-und-laendern-eroeffnet-100.html",
+    "https://www.deutschlandfunk.de/haushaltsausschuss-billigt-ruestungskaeufe-fuer-rund-50-milliarden-euro-102.html",
+    "https://www.deutschlandfunk.de/haftung-fuer-hersteller-soll-ausgeweitet-werden-100.html"
   ],
   "content_hashes": [
-    "ac00d22248cd24344e53d8da076e4924",
-    "5e99d8f7b7f82dc6e22bae5fcca74fdb",
     "28ed9482f75cff0d7a9b2bdcae7ab17d",
     "6cf8a7b3fbcc52b89589d9afef314771",
     "9c6b6da7805406571216e0459031bc75",
@@ -2001,11 +1999,11 @@
     "717ca66bb5aa469b22b7a3956083c705",
     "55e6045b9a8bcad1a82e2e73e0dfd932",
     "0d0425334e9beb40170fa6bf27a46512",
-    "3157bb6fe48d4eebcab76c9772d62b19"
+    "3157bb6fe48d4eebcab76c9772d62b19",
+    "ef6589da6a31d62726413d846f716c2c",
+    "40a446d8d1eb602f60ca48c3692d8ec6"
   ],
   "titles": [
-    "Bundestag - Grüne zitieren Dobrindt wegen schutzsuchenden Afghanen vor Innenausschuss",
-    "Nahost - Israelische Armee startet neuen Einsatz im Norden des Westjordanlands",
     "Virtuelle Beratungen - Ukraine-Unterstützer werben für robuste Sicherheitsgarantien",
     "LIVE: Ukraine and Russia launch drone strikes during US-led peace talks",
     "Südostasien - Mehr als 690.000 Menschen in Thailand von verheerenden Überschwemmungen betroffen",
@@ -3003,11 +3001,11 @@
     "Sicherheit - Drohnenabwehrzentrum wird eröffnet",
     "Nach dem Anschlag von Sydney - Klöckner warnt vor tödlichem Antisemitismus auch in Deutschland",
     "Sachsen-Anhalt: Die Notlage geht weiter – auch ohne Pandemie",
-    "Berlin - Gemeinsames Drohnenabwehrzentrum von Bund und Ländern eröffnet"
+    "Berlin - Gemeinsames Drohnenabwehrzentrum von Bund und Ländern eröffnet",
+    "Bundestag - Haushaltsausschuss billigt Rüstungskäufe für rund 50 Milliarden Euro",
+    "Kabinett - Haftung für Hersteller soll ausgeweitet werden"
   ],
   "hashes": [
-    "9b6e64f1481126d574ecf64c10d585dd",
-    "54c72d2d61df2d9fb0e0b00c030e594f",
     "7770b3f808cbb982fd5b03c34e66cf89",
     "dfb8e8e75eac0484be28d459d4d2896a",
     "a8edc60518e7fb49bc0518c53cc23da5",
@@ -4005,6 +4003,8 @@
     "89d224e9436d5729e86ebee471c1dca2",
     "746ff4de1ad5a0b929c03ba26d1b5c53",
     "527bbaa2b031b38e90172fbad48c5411",
-    "a9fb460acc4e92c89040c0ae41086953"
+    "a9fb460acc4e92c89040c0ae41086953",
+    "6392dd89bf9ed4a8a3c25d1f510e39d9",
+    "a903f536ea2f5b7db84af81bcfa82e0b"
   ]
 }
