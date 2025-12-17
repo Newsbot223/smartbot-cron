@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/auswaertiges-amt-wie-wadephul-sein-ministerium-umbaut-110791083.html",
-    "https://www.deutschlandfunk.de/eu-afrika-gipfel-beendet-zukunft-liegt-in-zusammenarbeit-102.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-beharrt-auf-rentenpaket-faz-110093143.html",
-    "https://www.deutschlandfunk.de/abschlusserklaerung-zukunft-liegt-in-zusammenarbeit-100.html",
     "https://www.deutschlandfunk.de/investitionen-oder-haushaltsloecher-stopfen-int-mit-christian-haase-cdu-100.html",
     "https://www.deutschlandfunk.de/klingbeil-warnt-wirtschaft-vor-annaeherung-an-afd-102.html",
     "https://www.deutschlandfunk.de/merz-fordert-staerkere-beteiligung-von-arbeitnehmern-an-wohlstandsgewinnen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michele-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
     "https://www.deutschlandfunk.de/abstimmung-ueber-asylverfahren-in-nicht-eu-laendern-100.html",
     "https://www.deutschlandfunk.de/meyer-gruene-abkommen-mit-niederlanden-widerspricht-klimazielen-100.html",
-    "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-100.html"
+    "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-100.html",
+    "https://www.deutschlandfunk.de/machalet-spd-fordert-bundeseinheitliche-regelung-bei-kostenuebernahme-von-rettungseinsaetzen-100.html",
+    "https://www.deutschlandfunk.de/auftragspolster-der-deutschen-industrie-waechst-dritten-monat-in-folge-102.html",
+    "https://www.deutschlandfunk.de/iea-rekordnachfrage-nach-kohle-in-diesem-jahr-100.html",
+    "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-linnemann-haelt-sie-fuer-zumutbar-100.html"
   ],
   "content_hashes": [
-    "55a3ec9d0fef85b57e9e26894f983659",
-    "203dbc2962eb70f5b48732cc3ced6365",
-    "378ec11eee014b3b853eb12093f2b05c",
-    "b1a8a836666b0d4328fe1527b1102c1f",
     "f03411cf962e7fe364608c7d29ca570f",
     "0cb6d4ee87d560239ea5cb62febe8d79",
     "fe3b0972be1b4b67d69beb77f34a7574",
@@ -2001,13 +1997,13 @@
     "89c46ec7f2a0be2744e472e3d4b0dda9",
     "c0d02c2f4daccd076809d4c7d89ce5fe",
     "5d33341fff4468a9bc95cee72c73a50f",
-    "1ecec21f7f616967bedf59d390ad81bd"
+    "1ecec21f7f616967bedf59d390ad81bd",
+    "c11a01d376f6312b3853ff5e2d46b079",
+    "1aadce6238f46cbd68305221bb5b564d",
+    "28b13a3a70f0a3a169b9d4c33bce1e29",
+    "9d7aeb5414242f7d97dc360700334dc3"
   ],
   "titles": [
-    "Auswärtiges Amt: Wie Wadephul sein Ministerium umbaut",
-    "Luanda - EU-Afrika-Gipfel beendet: Zukunft liegt in Zusammenarbeit",
-    "Liveblog Bundespolitik: Merz beharrt auf Rentenpaket",
-    "EU-Afrika-Gipfel beendet - Abschlusserklärung: Zukunft liegt in Zusammenarbeit",
     "Haushaltsberatungen - Christian Haase (CDU): Schulden nicht mit Schulden bezahlen",
     "SPD-Chef - Klingbeil warnt Wirtschaft vor Annäherung an AfD",
     "Arbeitgebertag - Merz fordert stärkere Beteiligung von Arbeitnehmern an Wohlstandsgewinnen",
@@ -3003,13 +2999,13 @@
     "US-Justiz - Tatverdächtiger Sohn von Rob und Michele Reiner wird wegen zweifachen Mordes angeklagt",
     "EU-Parlament - Abstimmung über Asylverfahren in Nicht-EU-Ländern",
     "Gasförderung in der Nordsee - Meyer (Grüne): Abkommen mit Niederlanden widerspricht Klimazielen",
-    "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition"
+    "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition",
+    "Notfallversorgung - Machalet (SPD) fordert bundeseinheitliche Regelung bei Kostenübernahme von Rettungseinsätzen",
+    "Wirtschaft - Auftragspolster der deutschen Industrie wächst dritten Monat in Folge",
+    "Energie - IEA: Rekordnachfrage nach Kohle in diesem Jahr",
+    "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition - Linnemann hält sie für zumutbar"
   ],
   "hashes": [
-    "cb9f42b49b4a9ecbc989d91ef0de1dd2",
-    "3e64e0ea686b355e8c884b2a84e120bb",
-    "8e2732f8956cd8b59108c68c58215bb7",
-    "ffaa985ce9fb6e4324f1cce2227f32c4",
     "54ad1b89d1aa8f6494ceac9b104ee41e",
     "0401d52180098904e37ef2f2662d1c20",
     "ae633dced31df3c10f381e07d76344de",
@@ -4005,6 +4001,10 @@
     "f41d6d381ba70eed52595605c4492d06",
     "97f3a4619212de3bf9987bd964d5d91c",
     "4bb424c1f3a05a0d4347bc7c8a42b92c",
-    "c55647fdba1ef737f56b5d96ca2e6916"
+    "c55647fdba1ef737f56b5d96ca2e6916",
+    "ab2201323cf7d631f84a77d443e7f90a",
+    "f91498d3182f2e0d2f5948e08e9d6331",
+    "8d4982db059e9283cf90baba5714dbd1",
+    "45693d214a9e0c3cdf2e634a2e523bc4"
   ]
 }
