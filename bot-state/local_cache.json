@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html",
-    "https://www.spiegel.de/wirtschaft/eu-beitrag-deutschland-bleibt-groesster-nettozahler-trotz-wirtschaftskrise-a-32a6eb4f-6396-45ea-98d3-665165017a11#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/thueringen-darf-extremisten-von-juristischer-ausbildung-ausschliessen-110791601.html",
     "https://www.deutschlandfunk.de/verhandlungen-fuer-kriegsende-interview-oleksii-makeiev-botschafter-der-ukraine-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-niemand-minderheitsregierungen-mag-110791281.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-stellt-sich-dem-bundestag-in-der-generaldebatte-faz-110093143.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/brasilien-droht-mit-ausstieg-aus-mercosur-abkommen-frankreich-und-italien-stellen-sich-gegen-raschen-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-rechnet-mit-kompromiss-zu-russischen-vermoegen-fuer-ukrainehilfen-100.html",
     "https://www.deutschlandfunk.de/russland-gibt-erstmals-offizielle-schaetzung-von-kriegskosten-ab-umgerechnet-116-milliarden-euro-in--100.html",
-    "https://www.deutschlandfunk.de/zwischen-russland-und-den-usa-wie-kann-sich-europa-behaupten-100.html"
+    "https://www.deutschlandfunk.de/zwischen-russland-und-den-usa-wie-kann-sich-europa-behaupten-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-rechnet-mit-kompromiss-zu-russischem-vermoegen-fuer-ukrainehilfen-100.html",
+    "https://www.deutschlandfunk.de/assistenzaerzte-in-england-treten-in-fuenftaegigen-streik-100.html",
+    "https://www.deutschlandfunk.de/amazon-darf-prime-kunden-keine-werbung-aufzwaengen-100.html"
   ],
   "content_hashes": [
-    "682c0b42be39f9d039cbdd11a931aaf7",
-    "23b5883d210f5ffb053c5a1079dc8c8a",
-    "c0533c52a35ba50400751d40b7afd1c6",
     "738a62848953a9d7b303b2c06bae6cbe",
     "e50f876486b4cb8017d5b9cfc823b62e",
     "32c31f4b321c89c80a7ffbb2eb9d99d3",
@@ -2001,12 +1998,12 @@
     "ca4b80f67d9c50b568a4deb3cbf1332c",
     "cd162bb8e75d15a088c79c8f1f9680c8",
     "4bbed17507364df2b594610d7b2e2ab9",
-    "190f2875d5a00853f1c85a4344c128b4"
+    "190f2875d5a00853f1c85a4344c128b4",
+    "411ff5c39c9a16dadbabef192dae967f",
+    "469f4f808159d337d1567660c2438549",
+    "bc9da8fade6ae142cf4550a9c8d3fd05"
   ],
   "titles": [
-    "Statistik - Süßigkeitenpreise teils deutlich gestiegen",
-    "EU-Beitrag: Deutschland bleibt größter Nettozahler trotz Wirtschaftskrise",
-    "Gerichtsurteil: Thüringen darf Extremisten von juristischer Ausbildung ausschließen",
     "Zukunft der Ukraine - Botschafter schließt Gebietsabtretungen an Russland aus",
     "Regieren ohne Mehrheit: Warum niemand Minderheitsregierungen mag",
     "Liveblog Bundespolitik: Merz: Werden bei Unterstützung der Ukraine nicht nachlassen",
@@ -3003,12 +3000,12 @@
     "Freihandel - Brasilien droht mit Ausstieg aus Mercosur-Abkommen - Frankreich und Italien stellen sich gegen raschen Abschluss",
     "Vor EU-Gipfel - EU-Außenbeauftragte Kallas rechnet mit Kompromiss zu russischen Vermögen für Ukrainehilfen",
     "Verteidigungsministerium - Russland gibt erstmals offizielle Schätzung von Kriegskosten ab: umgerechnet 116 Milliarden Euro in diesem Jahr",
-    "Zukunft der Ukraine - Wie kann sich Europa zwischen Russland und den USA behaupten?"
+    "Zukunft der Ukraine - Wie kann sich Europa zwischen Russland und den USA behaupten?",
+    "Vor EU-Gipfel - EU-Außenbeauftragte Kallas rechnet mit Kompromiss zu russischem Vermögen für Ukrainehilfen",
+    "Mitten in Rekord-Grippewelle - Assistenzärzte in England treten in fünftägigen Streik",
+    "Urteil - Amazon darf Prime-Kunden keine Werbung aufzwängen"
   ],
   "hashes": [
-    "95c75e96db3b3359938f1d438588033e",
-    "79119bf96a6eedfab0422e380648fdf2",
-    "2cb094c015a6d98a6821e3a46a85353a",
     "406b389d4b1addb2862a73eee1349f7f",
     "f62e047fc79e536d9c6fa88a09dba3f4",
     "f9eeb5febf9cf416d4963c655d308df4",
@@ -4005,6 +4002,9 @@
     "13e8860d3e4fde30aced9284e10b7538",
     "0cb905a4d439ef4bc8885534a7e87e9b",
     "8ebb59c1207bdedfb51f02efe63360a1",
-    "b599958bfbc8a0ff3f8f5d9991b9681a"
+    "b599958bfbc8a0ff3f8f5d9991b9681a",
+    "1ef3efcf1b89f55c148d9135765a4094",
+    "0933c43c2b8017aae4c3e1945d2b1eda",
+    "62ad151052f9e3d1a7948de81fc84cf0"
   ]
 }
