@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/auswaertiges-amt-deutsche-interessen-muss-man-erkennen-koennen-110791395.html",
-    "https://www.deutschlandfunk.de/wadephul-stoesst-umstrukturierung-an-100.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-vermisste-in-luanda-deutsches-brot-110791304.html",
-    "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-heute-in-generaldebatte-100.html",
     "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html",
     "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-daempft-hoffnung-auf-schnellen-frieden-vorwurf-der-russlandfreundlichkei-100.html",
     "https://www.deutschlandfunk.de/touristen-muessen-hoehere-eintrittspreise-fuer-nationalparks-zahlen-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/geschaeftsklimaindex-sinkt-leicht-100.html",
     "https://www.deutschlandfunk.de/kirchen-kritisieren-neuausrichtung-der-regierung-100.html",
     "https://www.deutschlandfunk.de/grossbritannien-wird-ab-2027-wieder-am-erasmus-programm-teilnehmen-100.html",
-    "https://www.deutschlandfunk.de/grundsicherung-im-kabinett-interview-mit-cdu-generalsekretaer-carsten-linnemann-100.html"
+    "https://www.deutschlandfunk.de/grundsicherung-im-kabinett-interview-mit-cdu-generalsekretaer-carsten-linnemann-100.html",
+    "https://www.deutschlandfunk.de/kabinett-beschliesst-buergergeld-reform-linnemann-cdu-verteidigt-verschaerfungen-bei-pflichtverletzu-100.html",
+    "https://www.deutschlandfunk.de/beschaeftigte-im-louvre-wollen-weiter-streiken-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-bundesregierung-beschliesst-grundsicherung-faz-110093143.html",
+    "https://www.faz.net/aktuell/politik/ein-europaeisches-kampfflugzeug-110804278.html"
   ],
   "content_hashes": [
-    "d2006e11207e2f5f29cfb3626d7369be",
-    "5bdf97aec34b975db5dcddd7aa120323",
-    "9151d4567845a9152dfe8bfcbc63f367",
-    "09d9e7ecbd1597ca5de143ef8c3b5240",
     "26d6dfdaac9a681756a5b150459824fc",
     "4b60b590998a58b6d5ef8d4e8f5bc67b",
     "de50ce978954a14586ec7a7a29037855",
@@ -2001,13 +1997,13 @@
     "9be640b3e4f6c45efaa1172cd853a9a7",
     "5ec47142dc491c6ea332ed60dac016f6",
     "8a0bdeffe4b0967ed0299c01fa3f44fa",
-    "3b51180cd2a759cb7e4a2b75e157f38c"
+    "3b51180cd2a759cb7e4a2b75e157f38c",
+    "02e2dcb9524b89166b4139981aea617d",
+    "7505fc6b0289f828dd7023fb51a48800",
+    "b69acc2897b1dd9facfe3a1c59c482f4",
+    "fe5e3401b56a7bad3845e82ce14a1d5d"
   ],
   "titles": [
-    "Außenpolitik: Deutsche Interessen muss man erkennen können",
-    "Auswärtiges Amt - Wadephul stößt Umstrukturierung an",
-    "Merz in Hamburg: „Was man am deutschen Brot hat, merkt man, wenn man im Ausland ist“",
-    "Bundestag - Regierung und Opposition debattieren heute in Generaldebatte",
     "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien",
     "Ukraine-Krieg - Nato-Generalsekretär Rutte dämpft Hoffnung auf schnellen Frieden - Vorwurf der Russlandfreundlichkeit gegen Witkoff",
     "USA - Touristen müssen höhere Eintrittspreise für Nationalparks zahlen",
@@ -3003,13 +2999,13 @@
     "Ifo-Institut - Geschäftsklimaindex sinkt leicht",
     "Rüstungsexportpolitik - Kirchen kritisieren Neuausrichtung der Regierung",
     "EU Stipendium - Großbritannien wird ab 2027 wieder am Erasmus-Programm teilnehmen",
-    "Grundsicherung - Linnemann (CDU): Bürgergeldreform ist \"verfassungsfest“"
+    "Grundsicherung - Linnemann (CDU): Bürgergeldreform ist \"verfassungsfest“",
+    "Sozialstaat - Kabinett beschließt Bürgergeld-Reform - Linnemann (CDU) verteidigt Verschärfungen bei Pflichtverletzungen",
+    "Paris - Beschäftigte im Louvre wollen weiter streiken",
+    "Liveblog Bundespolitik: Bundesregierung beschließt Grundsicherung",
+    "Kampfflugzeug FCAS: Das eitle Gerangel schwächt Europa"
   ],
   "hashes": [
-    "b0f6465f4a95e7bdd8f034cdbfef9497",
-    "0beca5ef6f586332c8d209935ebb05fc",
-    "c8384b699a319cd3c4cfc6ed6376ebaa",
-    "4a2e70a711ce650607197024bc08dea0",
     "9e6bf82e2715967866bf51c6eca0c8ab",
     "3fa50af53d02a0425dfc5d62a9652e51",
     "4369e559bf50cdefa4ae46d7dc8eff68",
@@ -4005,6 +4001,10 @@
     "c609dff69ba76cdd8db13728740480ee",
     "ceb668e3ab9b4bcb084062980f07b0cc",
     "209e3c0e5f3ee3d17014811cc5eedc78",
-    "eed383bc6dff65a2c40738367222e477"
+    "eed383bc6dff65a2c40738367222e477",
+    "55a61b4261b4baf43d74f91057c2900d",
+    "c6083fa2d590cb6b3b39d4a75625c8e8",
+    "c91bd860f38a51727aa1bb03501ca6a1",
+    "84f1f7286e99f573986ee7254673d445"
   ]
 }
