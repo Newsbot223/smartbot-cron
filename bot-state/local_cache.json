@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-frieden-und-freiheit-gibt-es-nicht-umsonst-100.html",
-    "https://www.deutschlandfunk.de/verwaltungsgerichtshof-kippt-kiff-verbot-im-englischen-garten-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-hasselmann-kritisiert-union-als-fraktion-komplett-unberechenbar-faz-110093143.html",
     "https://www.deutschlandfunk.de/weitere-anstrengungen-fuer-frieden-in-der-ukraine-noetig-100.html",
     "https://www.deutschlandfunk.de/dobrindt-deutschland-wird-weitere-afghanen-mit-zusage-aufnehmen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/amazon-darf-prime-kunden-keine-werbung-aufzwaengen-100.html",
     "https://www.deutschlandfunk.de/anne-frank-bild-in-museum-loest-antisemitismus-vorwurf-aus-102.html",
     "https://www.deutschlandfunk.de/oscar-verleihung-ab-2029-nur-noch-auf-youtube-nicht-mehr-im-fernsehen-104.html",
-    "https://www.deutschlandfunk.de/polen-will-ostgrenze-mit-antipersonenminen-sichern-100.html"
+    "https://www.deutschlandfunk.de/polen-will-ostgrenze-mit-antipersonenminen-sichern-100.html",
+    "https://www.deutschlandfunk.de/rheinmetall-vor-verkauf-von-autozuliefer-sparte-100.html",
+    "https://www.deutschlandfunk.de/vertreter-der-usa-und-russlands-verhandeln-laut-politico-am-wochenende-ueber-moegliche-waffenruhe-100.html"
   ],
   "content_hashes": [
-    "f5914bb62081af9355e7e5f317d5bd37",
-    "43287c0a6759214400c4de778cd2b402",
     "bd3965a4e8044e97a9354caf64cfc0a2",
     "1e565f9b6ece11dbdde28d1c0a6df9eb",
     "aa7d65314f76748f01489f4236d3afea",
@@ -2001,11 +1999,11 @@
     "bc9da8fade6ae142cf4550a9c8d3fd05",
     "cc5bc2ce9aacb03e44604a0556bfd8a1",
     "9ac11623d2e2a5a234dd857a558e596b",
-    "5f7dd7eeab1d01917c3c029dc4fe1ec6"
+    "5f7dd7eeab1d01917c3c029dc4fe1ec6",
+    "41e2271ca1da5a757e4028dac5892393",
+    "01958d5ea183f96c80c7d9376e2a5eed"
   ],
   "titles": [
-    "Generaldebatte im Bundestag - Merz: \"Frieden und Freiheit gibt es nicht umsonst\"",
-    "Cannabiskonsum in München - Verwaltungsgerichtshof kippt Kiff-Verbot im Englischen Garten",
     "Liveblog Bundespolitik: Haßelmann: „Sie sind als Fraktion komplett unberechenbar“",
     "Von der Leyen - Weitere Anstrengungen für Frieden in der Ukraine nötig",
     "Ortskräfte und Menschenrechtler - Dobrindt: \"Deutschland wird weitere Afghanen mit Zusage aufnehmen\"",
@@ -3003,11 +3001,11 @@
     "Urteil - Amazon darf Prime-Kunden keine Werbung aufzwängen",
     "Potsdamer Museum Fluxus+ - Anne-Frank-Bild in Museum löst Antisemitismus-Vorwurf aus",
     "Filmpreise - \"Oscar\"-Verleihung ab 2029 nur noch auf Youtube - nicht mehr im Fernsehen",
-    "Russische Bedrohung - Polen will Ostgrenze mit Antipersonenminen sichern"
+    "Russische Bedrohung - Polen will Ostgrenze mit Antipersonenminen sichern",
+    "Rüstungskonzern - Rheinmetall vor Verkauf von Autozuliefer-Sparte",
+    "Ukraine-Krieg - Vertreter der USA und Russlands verhandeln laut \"Politico\" am Wochenende über mögliche Waffenruhe"
   ],
   "hashes": [
-    "248d056d3d9fff1d57219c9aac59cfe5",
-    "ba8a3e676c1a36854912c97f7a618f7a",
     "b01e69a53e8483db1538219c0dcb7957",
     "ea8e5c5c4e2bfa5f9f412f95e530fc2b",
     "77da9600223fcc2dc4d2e42cc7897a87",
@@ -4005,6 +4003,8 @@
     "62ad151052f9e3d1a7948de81fc84cf0",
     "282077a0ac8f22580ce52550b65b22c3",
     "d150187e408344a228d185d712bc1692",
-    "3ff2296855a55050857f178226d5ab0f"
+    "3ff2296855a55050857f178226d5ab0f",
+    "484fd07813354e5716a7f732f1198a6e",
+    "656e69deb9447ffa2f8c5d099e93a156"
   ]
 }
