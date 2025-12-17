@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-beginnt-staatsbesuch-in-spanien-100.html",
-    "https://www.deutschlandfunk.de/nato-generalsekretaer-rutte-daempft-hoffnung-auf-schnellen-frieden-vorwurf-der-russlandfreundlichkei-100.html",
-    "https://www.deutschlandfunk.de/touristen-muessen-hoehere-eintrittspreise-fuer-nationalparks-zahlen-104.html",
     "https://www.deutschlandfunk.de/gerichtsvollzieher-bund-fordert-nach-todesfall-mehr-schutz-102.html",
     "https://www.deutschlandfunk.de/praesident-lai-legt-milliardenschweres-sonderbudget-fuer-verteidigung-vor-100.html",
     "https://www.deutschlandfunk.de/trump-keine-feste-frist-fuer-friedensabkommen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kabinett-beschliesst-buergergeld-reform-linnemann-cdu-verteidigt-verschaerfungen-bei-pflichtverletzu-100.html",
     "https://www.deutschlandfunk.de/beschaeftigte-im-louvre-wollen-weiter-streiken-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-bundesregierung-beschliesst-grundsicherung-faz-110093143.html",
-    "https://www.faz.net/aktuell/politik/ein-europaeisches-kampfflugzeug-110804278.html"
+    "https://www.faz.net/aktuell/politik/ein-europaeisches-kampfflugzeug-110804278.html",
+    "https://www.deutschlandfunk.de/eu-parlament-stimmt-moeglichkeit-zur-abschiebung-in-nicht-eu-laender-zu-100.html",
+    "https://www.deutschlandfunk.de/weniger-badetote-im-gesamtjahr-2025-erwartet-102.html",
+    "https://www.deutschlandfunk.de/drohnenabwehrzentrum-wird-eroeffnet-102.html"
   ],
   "content_hashes": [
-    "26d6dfdaac9a681756a5b150459824fc",
-    "4b60b590998a58b6d5ef8d4e8f5bc67b",
-    "de50ce978954a14586ec7a7a29037855",
     "1f0b159a1cb1f0544f5981458b126ba1",
     "fd526352bd7388463da168382cf0baaf",
     "f4fca0f05fe7321b8f8e66b6f43682f2",
@@ -2001,12 +1998,12 @@
     "02e2dcb9524b89166b4139981aea617d",
     "7505fc6b0289f828dd7023fb51a48800",
     "b69acc2897b1dd9facfe3a1c59c482f4",
-    "fe5e3401b56a7bad3845e82ce14a1d5d"
+    "fe5e3401b56a7bad3845e82ce14a1d5d",
+    "8e92e66b04ca144ecdf4eed9b8fedb49",
+    "073584fb6e90beab5346764e96df3b70",
+    "717ca66bb5aa469b22b7a3956083c705"
   ],
   "titles": [
-    "Bundespräsident - Steinmeier beginnt Staatsbesuch in Spanien",
-    "Ukraine-Krieg - Nato-Generalsekretär Rutte dämpft Hoffnung auf schnellen Frieden - Vorwurf der Russlandfreundlichkeit gegen Witkoff",
-    "USA - Touristen müssen höhere Eintrittspreise für Nationalparks zahlen",
     "\"Angriffe gehören zum Alltag\" - Gerichtsvollzieher Bund fordert nach Todesfall mehr Schutz",
     "Taiwan - Präsident Lai legt milliardenschweres Sonderbudget für Verteidigung vor",
     "Ukraine-Krieg - Trump: Keine feste Frist für Friedensabkommen",
@@ -3003,12 +3000,12 @@
     "Sozialstaat - Kabinett beschließt Bürgergeld-Reform - Linnemann (CDU) verteidigt Verschärfungen bei Pflichtverletzungen",
     "Paris - Beschäftigte im Louvre wollen weiter streiken",
     "Liveblog Bundespolitik: Bundesregierung beschließt Grundsicherung",
-    "Kampfflugzeug FCAS: Das eitle Gerangel schwächt Europa"
+    "Kampfflugzeug FCAS: Das eitle Gerangel schwächt Europa",
+    "Asylpolitik - EU-Parlament stimmt Möglichkeit zur Abschiebung in Nicht-EU-Länder zu",
+    "DLRG - Weniger Badetote im Gesamtjahr 2025 erwartet",
+    "Sicherheit - Drohnenabwehrzentrum wird eröffnet"
   ],
   "hashes": [
-    "9e6bf82e2715967866bf51c6eca0c8ab",
-    "3fa50af53d02a0425dfc5d62a9652e51",
-    "4369e559bf50cdefa4ae46d7dc8eff68",
     "1c27c628fcd2c4993123de2db8b14fff",
     "b24b8dd323ba11e035287d5a17212e35",
     "eb64d3316b7b931a812ad049a6dda15e",
@@ -4005,6 +4002,9 @@
     "55a61b4261b4baf43d74f91057c2900d",
     "c6083fa2d590cb6b3b39d4a75625c8e8",
     "c91bd860f38a51727aa1bb03501ca6a1",
-    "84f1f7286e99f573986ee7254673d445"
+    "84f1f7286e99f573986ee7254673d445",
+    "4d236705583b35c6310e784a120295be",
+    "6b0b2409230a2dc168ced9db66bf52d0",
+    "89d224e9436d5729e86ebee471c1dca2"
   ]
 }
