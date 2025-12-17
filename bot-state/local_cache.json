@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gerichtsvollzieher-bund-fordert-nach-todesfall-mehr-schutz-102.html",
-    "https://www.deutschlandfunk.de/praesident-lai-legt-milliardenschweres-sonderbudget-fuer-verteidigung-vor-100.html",
     "https://www.deutschlandfunk.de/trump-keine-feste-frist-fuer-friedensabkommen-102.html",
     "https://www.deutschlandfunk.de/gruene-zitieren-dobrindt-wegen-schutzsuchenden-afghanen-vor-innenausschuss-100.html",
     "https://www.deutschlandfunk.de/israelische-armee-startet-neuen-einsatz-im-norden-des-westjordanlands-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ein-europaeisches-kampfflugzeug-110804278.html",
     "https://www.deutschlandfunk.de/eu-parlament-stimmt-moeglichkeit-zur-abschiebung-in-nicht-eu-laender-zu-100.html",
     "https://www.deutschlandfunk.de/weniger-badetote-im-gesamtjahr-2025-erwartet-102.html",
-    "https://www.deutschlandfunk.de/drohnenabwehrzentrum-wird-eroeffnet-102.html"
+    "https://www.deutschlandfunk.de/drohnenabwehrzentrum-wird-eroeffnet-102.html",
+    "https://www.deutschlandfunk.de/kloeckner-warnt-vor-toedlichem-antisemitismus-auch-in-deutschland-102.html",
+    "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-verlaengert-corona-notlage-das-steckt-dahinter-110804554.html"
   ],
   "content_hashes": [
-    "1f0b159a1cb1f0544f5981458b126ba1",
-    "fd526352bd7388463da168382cf0baaf",
     "f4fca0f05fe7321b8f8e66b6f43682f2",
     "ac00d22248cd24344e53d8da076e4924",
     "5e99d8f7b7f82dc6e22bae5fcca74fdb",
@@ -2001,11 +1999,11 @@
     "fe5e3401b56a7bad3845e82ce14a1d5d",
     "8e92e66b04ca144ecdf4eed9b8fedb49",
     "073584fb6e90beab5346764e96df3b70",
-    "717ca66bb5aa469b22b7a3956083c705"
+    "717ca66bb5aa469b22b7a3956083c705",
+    "55e6045b9a8bcad1a82e2e73e0dfd932",
+    "0d0425334e9beb40170fa6bf27a46512"
   ],
   "titles": [
-    "\"Angriffe gehören zum Alltag\" - Gerichtsvollzieher Bund fordert nach Todesfall mehr Schutz",
-    "Taiwan - Präsident Lai legt milliardenschweres Sonderbudget für Verteidigung vor",
     "Ukraine-Krieg - Trump: Keine feste Frist für Friedensabkommen",
     "Bundestag - Grüne zitieren Dobrindt wegen schutzsuchenden Afghanen vor Innenausschuss",
     "Nahost - Israelische Armee startet neuen Einsatz im Norden des Westjordanlands",
@@ -3003,11 +3001,11 @@
     "Kampfflugzeug FCAS: Das eitle Gerangel schwächt Europa",
     "Asylpolitik - EU-Parlament stimmt Möglichkeit zur Abschiebung in Nicht-EU-Länder zu",
     "DLRG - Weniger Badetote im Gesamtjahr 2025 erwartet",
-    "Sicherheit - Drohnenabwehrzentrum wird eröffnet"
+    "Sicherheit - Drohnenabwehrzentrum wird eröffnet",
+    "Nach dem Anschlag von Sydney - Klöckner warnt vor tödlichem Antisemitismus auch in Deutschland",
+    "Sachsen-Anhalt: Die Notlage geht weiter – auch ohne Pandemie"
   ],
   "hashes": [
-    "1c27c628fcd2c4993123de2db8b14fff",
-    "b24b8dd323ba11e035287d5a17212e35",
     "eb64d3316b7b931a812ad049a6dda15e",
     "9b6e64f1481126d574ecf64c10d585dd",
     "54c72d2d61df2d9fb0e0b00c030e594f",
@@ -4005,6 +4003,8 @@
     "84f1f7286e99f573986ee7254673d445",
     "4d236705583b35c6310e784a120295be",
     "6b0b2409230a2dc168ced9db66bf52d0",
-    "89d224e9436d5729e86ebee471c1dca2"
+    "89d224e9436d5729e86ebee471c1dca2",
+    "746ff4de1ad5a0b929c03ba26d1b5c53",
+    "527bbaa2b031b38e90172fbad48c5411"
   ]
 }
