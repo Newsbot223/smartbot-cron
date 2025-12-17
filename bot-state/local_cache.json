@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierung-und-opposition-debattieren-in-generaldebatte-100.html",
-    "https://www.deutschlandfunk.de/generaldebatte-hat-begonnen-weidel-deutschland-ist-in-der-krise-100.html",
-    "https://www.deutschlandfunk.de/chefin-palla-werden-rund-um-weihnachtsfeiertage-arbeiten-an-baustellen-einschraenken-100.html",
     "https://www.deutschlandfunk.de/suessigkeitenpreise-teils-deutlich-gestiegen-100.html",
     "https://www.spiegel.de/wirtschaft/eu-beitrag-deutschland-bleibt-groesster-nettozahler-trotz-wirtschaftskrise-a-32a6eb4f-6396-45ea-98d3-665165017a11#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/thueringen-darf-extremisten-von-juristischer-ausbildung-ausschliessen-110791601.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-deutsche-foerderung-von-lkw-ladepunkten-100.html",
     "https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss",
     "https://www.faz.net/aktuell/politik/ukraine/wladimir-putin-bezeichnet-europaeer-als-ferkel-110804738.html",
-    "https://www.deutschlandfunk.de/brasilien-droht-mit-ausstieg-aus-mercosur-abkommen-frankreich-und-italien-stellen-sich-gegen-raschen-100.html"
+    "https://www.deutschlandfunk.de/brasilien-droht-mit-ausstieg-aus-mercosur-abkommen-frankreich-und-italien-stellen-sich-gegen-raschen-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-rechnet-mit-kompromiss-zu-russischen-vermoegen-fuer-ukrainehilfen-100.html",
+    "https://www.deutschlandfunk.de/russland-gibt-erstmals-offizielle-schaetzung-von-kriegskosten-ab-umgerechnet-116-milliarden-euro-in--100.html",
+    "https://www.deutschlandfunk.de/zwischen-russland-und-den-usa-wie-kann-sich-europa-behaupten-100.html"
   ],
   "content_hashes": [
-    "a84e442631813d42e3ca61f8bbd84b5b",
-    "d960b1af8725f30996910d2bf6002b22",
-    "93d6746dd2f76f86f5aa1a8764168178",
     "682c0b42be39f9d039cbdd11a931aaf7",
     "23b5883d210f5ffb053c5a1079dc8c8a",
     "c0533c52a35ba50400751d40b7afd1c6",
@@ -2001,12 +1998,12 @@
     "8c7b278c172cb75122afa38c0ed89607",
     "0016828e5bf8b267da509c5bc8feda7c",
     "86f30f0df7ecce964448b1c82a637dc1",
-    "ca4b80f67d9c50b568a4deb3cbf1332c"
+    "ca4b80f67d9c50b568a4deb3cbf1332c",
+    "cd162bb8e75d15a088c79c8f1f9680c8",
+    "4bbed17507364df2b594610d7b2e2ab9",
+    "190f2875d5a00853f1c85a4344c128b4"
   ],
   "titles": [
-    "Bundeshaushalt 2026 - Regierung und Opposition debattieren in Generaldebatte",
-    "Haushalt im Bundestag - Generaldebatte hat begonnen - Weidel: Deutschland ist in der Krise",
-    "Deutsche Bahn - Chefin Palla: Werden rund um Weihnachtsfeiertage Arbeiten an Baustellen einschränken",
     "Statistik - Süßigkeitenpreise teils deutlich gestiegen",
     "EU-Beitrag: Deutschland bleibt größter Nettozahler trotz Wirtschaftskrise",
     "Gerichtsurteil: Thüringen darf Extremisten von juristischer Ausbildung ausschließen",
@@ -3003,12 +3000,12 @@
     "Verkehrs- und Klimapolitik - EU-Kommission genehmigt deutsche Förderung von Lkw-Ladepunkten",
     "Weihnachten: Physikprofessor Metin Tolan erklärt wie Quantenphysik den Weihnachtsmann rettet",
     "Krieg gegen die Ukraine: Putin und die europäischen Ferkel",
-    "Freihandel - Brasilien droht mit Ausstieg aus Mercosur-Abkommen - Frankreich und Italien stellen sich gegen raschen Abschluss"
+    "Freihandel - Brasilien droht mit Ausstieg aus Mercosur-Abkommen - Frankreich und Italien stellen sich gegen raschen Abschluss",
+    "Vor EU-Gipfel - EU-Außenbeauftragte Kallas rechnet mit Kompromiss zu russischen Vermögen für Ukrainehilfen",
+    "Verteidigungsministerium - Russland gibt erstmals offizielle Schätzung von Kriegskosten ab: umgerechnet 116 Milliarden Euro in diesem Jahr",
+    "Zukunft der Ukraine - Wie kann sich Europa zwischen Russland und den USA behaupten?"
   ],
   "hashes": [
-    "5d2d04fdbfca5507849ee103d1007af6",
-    "04093b50a0ca787a03bf75faacd6d9b3",
-    "69263281372fa5a07e867e95a87a2fa6",
     "95c75e96db3b3359938f1d438588033e",
     "79119bf96a6eedfab0422e380648fdf2",
     "2cb094c015a6d98a6821e3a46a85353a",
@@ -4005,6 +4002,9 @@
     "a49d3d0fb02e0d14ae5a64ccb1d8c18f",
     "ef6b893b835cfbc56ffe380fb02d8016",
     "6d01d259a8524a2767857b018392707e",
-    "13e8860d3e4fde30aced9284e10b7538"
+    "13e8860d3e4fde30aced9284e10b7538",
+    "0cb905a4d439ef4bc8885534a7e87e9b",
+    "8ebb59c1207bdedfb51f02efe63360a1",
+    "b599958bfbc8a0ff3f8f5d9991b9681a"
   ]
 }
