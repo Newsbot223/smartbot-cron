@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/dobrindt-kuendigt-einreise-weiterer-afghanen-an-110791781.html",
-    "https://www.deutschlandfunk.de/georgia-chefanklaeger-laesst-anklage-gegen-trump-wegen-versuchter-wahlbeeinflussung-fallen-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-will-mehr-druck-auf-putin-100.html",
     "https://www.deutschlandfunk.de/aliexpress-sperrt-anbieter-von-kinder-sexpuppen-100.html",
     "https://www.deutschlandfunk.de/interesse-an-stasi-akten-weiterhin-gross-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mehr-als-100-neue-arten-auf-franzoesischen-antillen-entdeckt-104.html",
     "https://www.deutschlandfunk.de/trump-haelt-rede-an-die-nation-100.html",
     "https://www.deutschlandfunk.de/usa-genehmigen-groesstes-waffenpaket-aller-zeiten-fuer-taiwan-102.html",
-    "https://www.aljazeera.com/news/liveblog/2025/12/18/russia-ukraine-war-live-eu-holds-key-summit-to-strengthen-kyivs-hand?traffic_source=rss"
+    "https://www.aljazeera.com/news/liveblog/2025/12/18/russia-ukraine-war-live-eu-holds-key-summit-to-strengthen-kyivs-hand?traffic_source=rss",
+    "https://www.deutschlandfunk.de/aussenministerium-meldet-illegalen-grenzuebertritt-durch-russische-grenzschuetzer-102.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-rechnet-mit-kompromiss-zu-russischem-vermoegen-fuer-ukrainehilfen-106.html"
   ],
   "content_hashes": [
-    "f5850fac22103a8d5b58598c3fa34f65",
-    "a41c276032de68693fbdf13954271943",
     "54de98510c1e7e45d5785eb42c56c245",
     "8487283c15c5e706e1e1ab80303493e1",
     "6835a74c51c5c2d64450398a6cbe4c60",
@@ -2001,11 +1999,11 @@
     "9a859d4c010788cd762e2b55aa2decd0",
     "cc0ad72e3d8b6a629e905a25aa4d96a0",
     "3c7d2d3eabbe0b30235e4a3f3724c363",
-    "8ef5621caa5b83aecd2765e123f776df"
+    "8ef5621caa5b83aecd2765e123f776df",
+    "f0404773d41d5470555ddfbc6c8df526",
+    "fdce3ef4e447d8642629d81b839bd45a"
   ],
   "titles": [
-    "Nach Aufnahmestopp: Dobrindt kündigt Einreise weiterer Afghanen an",
-    "US-Wahl 2020 - Georgia: Chefankläger lässt Anklage gegen Trump wegen versuchter Wahlbeeinflussung fallen",
     "Krieg gegen die Ukraine - EU-Außenbeauftragte Kallas will mehr Druck auf Putin",
     "Handelsplattform - AliExpress sperrt Anbieter von Kinder-Sexpuppen",
     "DDR - Interesse an Stasi-Akten weiterhin groß",
@@ -3003,11 +3001,11 @@
     "Tierforschung - Mehr als 100 neue Arten auf französischen Antillen entdeckt",
     "Rede an die Nation - Trump sparte nicht mit Übertreibungen",
     "Rüstungsgeschäft - USA genehmigen größtes Waffenpaket aller Zeiten für Taiwan",
-    "Russia-Ukraine war live: EU holds key summit to strengthen Kyiv’s hand"
+    "Russia-Ukraine war live: EU holds key summit to strengthen Kyiv’s hand",
+    "Estland - Außenministerium meldet Illegalen Grenzübertritt durch russische Grenzschützer",
+    "EU-Gipfel - EU-Außenbeauftragte Kallas rechnet mit Kompromiss zu russischem Vermögen für Ukrainehilfen"
   ],
   "hashes": [
-    "70d7ec2d34ba8f0ac281d730449a01ad",
-    "c832d5376b37684b8a8803ad8dda48a6",
     "8678e3af6fdf9c5f923057e2c0fa7dc5",
     "33898f68251da803eb5b7fec82d27ad2",
     "27c2fca18a3a54c5406a1fd1ca181c80",
@@ -4005,6 +4003,8 @@
     "c4a40895a47a1417b30f8fbcd032b850",
     "091b65e9d0b792a36da25e46083941d0",
     "441756d7438b290ffa6627c5d94db29f",
-    "4bcb7e0a0a9c76b6627af3339cb3ef5c"
+    "4bcb7e0a0a9c76b6627af3339cb3ef5c",
+    "bb6236ec9485e2afc17877bd765755ef",
+    "690e2f7b89718faa03f32a8607283f47"
   ]
 }
