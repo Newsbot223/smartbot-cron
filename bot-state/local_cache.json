@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hochhausbrand-regierungschef-lee-ordnet-ueberpruefung-an-welle-der-hilfsbereitschaft-100.html",
-    "https://www.faz.net/aktuell/politik/inland/stegner-kriege-werden-immer-durch-verhandlungen-beendet-accg-200268392.html",
     "https://www.faz.net/aktuell/politik/ukraine/frieden-fuer-die-ukraine-wenn-sich-angriffskrieg-lohnt-110791972.html",
     "https://www.deutschlandfunk.de/irland-will-einwanderungspolitik-verschaerfen-102.html",
     "https://www.deutschlandfunk.de/hochhausbrand-regierungschef-lee-ordnet-ueberpruefung-an-zahl-der-todesopfer-steigt-weiter-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-102.html",
     "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-merz-will-in-deutschland-eingefrorene-werte-nutzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/thueringen-verabschiedet-haushalt-dank-enthaltung-der-linkspartei-110805167.html",
-    "https://www.deutschlandfunk.de/warum-auch-nach-25-jahren-weiter-ueber-das-mercosur-abkommen-gestritten-wird-100.html"
+    "https://www.deutschlandfunk.de/warum-auch-nach-25-jahren-weiter-ueber-das-mercosur-abkommen-gestritten-wird-100.html",
+    "https://www.spiegel.de/panorama/gesellschaft/berlin-soll-yad-vashem-strasse-bekommen-a-31dc3703-662b-4008-9551-9e27e0933c75#ref=rss",
+    "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-macht-druck-auf-eu-gipfel-a-c09c8b82-b5e9-4689-81bf-93b6f9c80da3#ref=rss"
   ],
   "content_hashes": [
-    "2fea18484d46f7e4cfef0381ef8bab0d",
-    "40f7a4a7ad2370f7166ac17342ee5e9b",
     "3bea77b283282c8e4a5d637cc0e7d601",
     "16828d6c7be631c3801d9f4e81f454e8",
     "bb490b7871a5da1bebb068a824f57709",
@@ -2001,11 +1999,11 @@
     "6481a9371b0d17a820d386394e51d28c",
     "e5ab2fdafbb2cc316d19b9a253eb9c92",
     "25bcb2c3769cfadf702b436d584e8e23",
-    "e5dbbe79b59b82b18c472fe3d729536a"
+    "e5dbbe79b59b82b18c472fe3d729536a",
+    "2976c1d7ceab2f1ddefd90ff691650cc",
+    "89b3c5142b4da7ca16f16f49ffb861e4"
   ],
   "titles": [
-    "Hongkong - Hochhausbrand: Regierungschef Lee ordnet Überprüfung an - Welle der Hilfsbereitschaft",
-    "Stegner über Friedensplan: „Auf Dauer brauchen wir Sicherheit mit Russland“",
     "Frieden für die Ukraine?: Ein Angriffskrieg darf sich niemals lohnen",
     "Migration - Irland will Einwanderungspolitik verschärfen",
     "Hongkong - Hochhausbrand: Regierungschef Lee ordnet Überprüfung an - Zahl der Todesopfer steigt weiter",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert",
     "Russische Vermögen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" - Merz will in Deutschland eingefrorene Werte nutzen",
     "Haushalt beschlossen: Thüringen verschuldet sich",
-    "EU-Gipfel - Warum auch nach 25 Jahren weiter über das Mercosur-Abkommen gestritten wird"
+    "EU-Gipfel - Warum auch nach 25 Jahren weiter über das Mercosur-Abkommen gestritten wird",
+    "Berlin soll Yad-Vashem-Straße bekommen",
+    "Ukraine-Krieg: Wolodymyr Selenskyj macht Druck auf EU-Gipfel"
   ],
   "hashes": [
-    "36b46cf2962c983ad8b1aaddb572de07",
-    "62a40c1d7908bd7fe7dc81c3bcf5316a",
     "4f4779ded85d65a8156f961127e22505",
     "5038352c43a9d6c0e1850e8959dbdd78",
     "a810b1bb9431929515031b1fafd26887",
@@ -4005,6 +4003,8 @@
     "08e907076629f9704f4ec0ae33601355",
     "8687d6b5b6f286be1c14f859244ea008",
     "1f60d614429a24f21e1f65f62eac3631",
-    "e710490046b17fad939b93ccb6d1f289"
+    "e710490046b17fad939b93ccb6d1f289",
+    "6534949bda9e7aba6a79987b4fe099c7",
+    "784a5ad8a40770c7bcedb8e803a6cb29"
   ]
 }
