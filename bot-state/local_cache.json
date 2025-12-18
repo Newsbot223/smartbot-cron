@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/papst-leo-xiv-besucht-tuerkei-und-libanon-100.html",
-    "https://www.deutschlandfunk.de/regierung-macht-druck-auf-europa-wegen-migrationspolitik-100.html",
     "https://www.deutschlandfunk.de/soeder-csu-mahnt-beilegung-des-rentenstreits-in-den-naechsten-tagen-an-118.html",
     "https://www.deutschlandfunk.de/hochhausbrand-regierungschef-lee-ordnet-ueberpruefung-an-welle-der-hilfsbereitschaft-100.html",
     "https://www.faz.net/aktuell/politik/inland/stegner-kriege-werden-immer-durch-verhandlungen-beendet-accg-200268392.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/afd-gegen-verfassungsschutz-gericht-sieht-verstoss-gegen-neutralitaet-accg-110805021.html",
     "https://www.deutschlandfunk.de/bundesregierung-gibt-30-milliarden-euro-fuer-deutschlandfonds-100.html",
     "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-auf-nutzung-russischer-vermoegenswerte-100.html",
-    "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-102.html"
+    "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-102.html",
+    "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-merz-will-in-deutschland-eingefrorene-werte-nutzen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/thueringen-verabschiedet-haushalt-dank-enthaltung-der-linkspartei-110805167.html"
   ],
   "content_hashes": [
-    "a78c47954cab20768220c44554f2c68e",
-    "3d0901e39b407d796e16467f1035416d",
     "6969479e202b108a1f0f53e57eb13da4",
     "2fea18484d46f7e4cfef0381ef8bab0d",
     "40f7a4a7ad2370f7166ac17342ee5e9b",
@@ -2001,11 +1999,11 @@
     "bb7702fa36d6ce9bb3e374debfaf1798",
     "7255bbbcbb42381cdf66ae2577f45980",
     "de8eec640749ed6058cb5a23cb01acdf",
-    "6481a9371b0d17a820d386394e51d28c"
+    "6481a9371b0d17a820d386394e51d28c",
+    "e5ab2fdafbb2cc316d19b9a253eb9c92",
+    "25bcb2c3769cfadf702b436d584e8e23"
   ],
   "titles": [
-    "Erste Auslandsreise - Papst Leo XIV. besucht Türkei und Libanon",
-    "USA - Regierung macht Druck auf Europa wegen Migrationspolitik",
     "Vor dem Koalitionsausschuss - Söder (CSU) mahnt Beilegung des Rentenstreits in den nächsten Tagen an",
     "Hongkong - Hochhausbrand: Regierungschef Lee ordnet Überprüfung an - Welle der Hilfsbereitschaft",
     "Stegner über Friedensplan: „Auf Dauer brauchen wir Sicherheit mit Russland“",
@@ -3003,11 +3001,11 @@
     "Thüringen: AfD-Klage gegen Thüringens Verfassungsschutzchef teils erfolgreich",
     "Investitionen - Bundesregierung gibt 30 Milliarden Euro für \"Deutschlandfonds\"",
     "Finanzhilfen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" auf Nutzung russischer Vermögenswerte",
-    "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert"
+    "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert",
+    "Russische Vermögen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" - Merz will in Deutschland eingefrorene Werte nutzen",
+    "Haushalt beschlossen: Thüringen verschuldet sich"
   ],
   "hashes": [
-    "5dd726d282f4817e55532b09ed5d5f5a",
-    "b9ca1daa3f716400161382ca92bcb1f2",
     "9f0fe875a9e6138e0cd404bd027b38a8",
     "36b46cf2962c983ad8b1aaddb572de07",
     "62a40c1d7908bd7fe7dc81c3bcf5316a",
@@ -4005,6 +4003,8 @@
     "2533a1bfc808e9e07a8a6a1eee3d7fa9",
     "ca1ddfd84a05873e25c92cbe34717cec",
     "f3778c14ca003bfe5f2cab067b98069d",
-    "08e907076629f9704f4ec0ae33601355"
+    "08e907076629f9704f4ec0ae33601355",
+    "8687d6b5b6f286be1c14f859244ea008",
+    "1f60d614429a24f21e1f65f62eac3631"
   ]
 }
