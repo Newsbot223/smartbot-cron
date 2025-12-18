@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/trumps-eitelkeit-macht-ihn-zur-leichten-beute-fuer-putin-110791798.html",
-    "https://www.faz.net/aktuell/politik/buergerraete-als-feigenblatt-110791762.html",
     "https://www.deutschlandfunk.de/unionsfuehrung-und-junge-gruppe-rufen-zu-kompromissbereitschaft-im-rentenstreit-auf-100.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-aeussert-sich-in-haushaltsdebatte-102.html",
     "https://www.deutschlandfunk.de/grundsatzeinigung-zwischen-iwf-und-ukraine-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/ausland/ukraine-krieg-russland-stationiert-oreschnik-raketen-in-belarus-a-b3badcf4-8998-4bbb-8b85-2cd1768ec4c2#ref=rss",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-staerkt-rechte-indigener-gemeinschaften-104.html",
     "https://www.deutschlandfunk.de/italien-deutet-zustimmung-zu-mercosur-abkommen-an-aber-mit-verschiebung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/anklage-gegen-letzte-verteidigungswelle-kindersoldaten-der-rechtsextremisten-110805291.html"
+    "https://www.faz.net/aktuell/politik/inland/anklage-gegen-letzte-verteidigungswelle-kindersoldaten-der-rechtsextremisten-110805291.html",
+    "https://www.deutschlandfunk.de/bundestag-beschliesst-keine-neuauszaehlung-der-bundestagswahl-100.html",
+    "https://www.deutschlandfunk.de/forschungsorganisation-cern-erhaelt-von-privaten-geldgebern-millonenschwere-zusage-fuer-geplanten-ba-102.html"
   ],
   "content_hashes": [
-    "d60ee3096daffc58e767c923daaadc08",
-    "fb8dceed2584ece16bdd435418474505",
     "cd475fbc21361deaf891910a5a4b25e0",
     "d7a5bb5efb8e2b99cb4673a895f71bbe",
     "b4d2d916b7eef11de38c69424a9e8933",
@@ -2001,11 +1999,11 @@
     "6fa4a0d6873615ab16bfa8610486dce8",
     "0cd0bbda975748b3abe123139552f16d",
     "4810b02d57d318c89adcd28569fa1373",
-    "d1dbd10d320d72a7d05c3eba5dc8bad1"
+    "d1dbd10d320d72a7d05c3eba5dc8bad1",
+    "dc63581e932c27ddbcc31fcc56ccbeb8",
+    "0441eaf3710d54f766534e7882834f59"
   ],
   "titles": [
-    "Ukraine-Verhandlungen: Leichte Beute für Putin",
-    "Teilhabe und Demokratie: Bürgerräte als Feigenblatt",
     "Vor Koalitionsausschuss - Unionsführung und Junge Gruppe rufen zu Kompromissbereitschaft im Rentenstreit auf",
     "Bundestag - Innenminister Dobrindt äußert sich in Haushaltsdebatte",
     "Milliarden-Hilfen - Grundsatzeinigung zwischen IWF und Ukraine",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg: Russland stationiert Oreschnik-Raketen in Belarus",
     "Brasilien - Oberster Gerichtshof stärkt Rechte indigener Gemeinschaften",
     "Europäischer Rat - Italien deutet Zustimmung zu Mercosur-Abkommen an - aber mit Verschiebung",
-    "Anklage der Bundesanwaltschaft: Die Kindersoldaten der Rechtsextremisten"
+    "Anklage der Bundesanwaltschaft: Die Kindersoldaten der Rechtsextremisten",
+    "Berlin - Bundestag beschließt: Keine Neuauszählung der Bundestagswahl",
+    "Schweiz - Forschungsorganisation CERN erhält von privaten Geldgebern millonenschwere Zusage für geplanten Bau eines neuen Teilchenbeschleunigers"
   ],
   "hashes": [
-    "a5d6c4d1d2df06493355318277be3a5a",
-    "9db952bcb3e02f607a26de3ae504e91e",
     "db904e73a3141b7c540065b5233d929d",
     "3dddcfcf025e4579bd3abd7e9523eda5",
     "3cd4932919d20dbc07289de7fd5d9c65",
@@ -4005,6 +4003,8 @@
     "c5db0cd29813f905edc26781d22a35f3",
     "ce3d12e527b55fed93ce74020c0efbdf",
     "b94b37e2c1d99d187e9e7b55ce09aa0b",
-    "5d9f6b2e30230a0c20fdc2eb8b1764e5"
+    "5d9f6b2e30230a0c20fdc2eb8b1764e5",
+    "1875bc7a0758e0226cfbc4725a220028",
+    "31589f63fda6a145cc7309c891831133"
   ]
 }
