@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sloweniens-ministerpraesidenten-golob-zu-gast-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/steinmeier-beendet-staatsbesuch-in-spanien-102.html",
     "https://www.deutschlandfunk.de/beratungen-nach-sechs-stunden-in-der-nacht-beendet-100.html",
     "https://www.deutschlandfunk.de/entmachteter-praesident-in-den-senegal-ausgeflogen-putschisten-ernennen-uebergangs-staatschef-100.html",
     "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-wird-richter-vorgefuehrt-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/personalbestand-der-bundeswehr-in-diesem-jahr-um-3-000-soldaten-gewachsen-100.html",
     "https://www.deutschlandfunk.de/correctiv-siegt-vor-gericht-klagen-von-vosgerau-und-moerig-wegen-potsdamer-treffen-abgewiesen-100.html",
     "https://www.deutschlandfunk.de/wochelange-querelen-gruene-schliessen-abgeordneten-hannes-damm-aus-landtagsfraktion-aus-100.html",
-    "https://www.deutschlandfunk.de/us-regierung-haelt-frist-zur-veroeffentlichung-aller-epstein-akten-nicht-ein-100.html"
+    "https://www.deutschlandfunk.de/us-regierung-haelt-frist-zur-veroeffentlichung-aller-epstein-akten-nicht-ein-100.html",
+    "https://www.deutschlandfunk.de/us-regierung-beginnt-mit-freigabe-der-epstein-akten-100.html",
+    "https://www.deutschlandfunk.de/wochenlange-querelen-gruene-schliessen-abgeordneten-hannes-damm-aus-landtagsfraktion-aus-100.html"
   ],
   "content_hashes": [
-    "8a1e24ed5444c43a2bd76a228c05d6a3",
-    "d04caf9ca5ce33b83db0880a732bd100",
     "42e11768ff7b970b4019e43f9a8ff911",
     "0374095405e6c2a7e96f441def67a605",
     "adaaddb31a06489d6cb31013730db255",
@@ -2001,11 +1999,11 @@
     "e5d997f35c9844ed3ae25cd0ef20501b",
     "bb42adb267f7c83199b20ca2a2a131d4",
     "088ac6ee4c186254d92f68bacfa6de6a",
-    "3151a0938a4bc5594754613055f3f9f3"
+    "3151a0938a4bc5594754613055f3f9f3",
+    "7caeee87bbec902ad85862a7e390a048",
+    "d1ca4e52865b7bb907da9099056df2ff"
   ],
   "titles": [
-    "Diplomatie - Sloweniens Ministerpräsidenten Golob zu Gast in Berlin",
-    "Bundespräsident - Steinmeier beendet Staatsbesuch in Spanien",
     "Koalitionsausschuss - Beratungen nach sechs Stunden in der Nacht beendet",
     "Guinea-Bissau - Entmachteter Präsident in den Senegal ausgeflogen - Putschisten ernennen Übergangs-Staatschef",
     "Nach Auslieferung - Nord-Stream-Verdächtiger wird Richter vorgeführt",
@@ -3003,11 +3001,11 @@
     "Verteidigungsministerium - Personalbestand der Bundeswehr in diesem Jahr um 3.000 Soldaten gewachsen",
     "Rechtsextremismus - \"Correctiv\" siegt vor Gericht - Klagen von Vosgerau und Mörig wegen Potsdamer Treffen abgewiesen",
     "Mecklenburg-Vorpommern - Wochelange Querelen: Grüne schließen Abgeordneten Hannes Damm aus Landtagsfraktion aus",
-    "Missbrauchsskandal - US-Regierung hält Frist zur Veröffentlichung aller Epstein-Akten nicht ein"
+    "Missbrauchsskandal - US-Regierung hält Frist zur Veröffentlichung aller Epstein-Akten nicht ein",
+    "Missbrauchsskandal - US-Regierung beginnt mit Freigabe der Epstein-Akten",
+    "Mecklenburg-Vorpommern - Wochenlange Querelen: Grüne schließen Abgeordneten Hannes Damm aus Landtagsfraktion aus"
   ],
   "hashes": [
-    "a1f05c9e49dcc919300de8ddb863372c",
-    "f892c56aa45a2172c81e7f25e1bede2f",
     "30d2090eca01cac14d426bb9e954cf58",
     "0eecfb23607c3f261b70443a1bca1fb8",
     "4e4ae090e83ebdb286c02b8b14860e78",
@@ -4005,6 +4003,8 @@
     "e1f021cc997262386619d409b0769ecc",
     "2999efa3b8f8ef8786645e0a46c6e058",
     "ee83585324425abde149864e248bf486",
-    "589a815aacbf2c9cc80d7b65f0a06c56"
+    "589a815aacbf2c9cc80d7b65f0a06c56",
+    "db05b75ea76778f29ea0fcb87839a768",
+    "cf73dfad2b8bb8226a66695e27a5130d"
   ]
 }
