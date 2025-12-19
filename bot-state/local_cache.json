@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/putschisten-ernennen-uebergangspraesidenten-102.html",
-    "https://www.deutschlandfunk.de/merz-weist-us-einmischung-zurueck-102.html",
-    "https://www.deutschlandfunk.de/merz-weist-us-einmischung-in-europaeische-migrationspolitik-zurueck-100.html",
     "https://www.deutschlandfunk.de/preis-kita-des-jahres-geht-an-einrichtung-in-unkel-rheinland-pfalz-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-verbittet-sich-ermahnungen-zu-migration-aus-den-usa-faz-110093143.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-mohammadi-beklagt-dauerhaftes-reiseverbot-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/uno-erklaert-hungersnot-im-gazastreifen-fuer-beendet-situation-weiter-kritisch-100.html",
     "https://www.deutschlandfunk.de/bundestag-vereinfacht-widerruf-in-online-shops-100.html",
     "https://www.deutschlandfunk.de/vor-verhandlungen-zwischen-usa-und-russland-ukrainische-delegation-zu-gespraechen-in-miami-eingetrof-100.html",
-    "https://www.deutschlandfunk.de/unhcr-warnt-vor-not-in-burundi-100.html"
+    "https://www.deutschlandfunk.de/unhcr-warnt-vor-not-in-burundi-100.html",
+    "https://www.deutschlandfunk.de/bundesumweltminister-eu-beschluss-fuer-lockerungen-bei-gentechnik-schwerer-fehler-100.html",
+    "https://www.deutschlandfunk.de/frankreich-gericht-lehnt-dreimonatige-sperre-der-chinesischen-plattform-shein-ab-pflicht-zur-altersp-102.html",
+    "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-auf-dem-breitscheidplatz-100.html"
   ],
   "content_hashes": [
-    "953a49f12919c8bda1fc220d33d08b5e",
-    "91f1ca57b8695957631da05f6ab1fb73",
-    "07c3a528d16f29bd513c61a0b2efbbcc",
     "43f968ec5d332352f130e07a5263cf26",
     "7193f7feb80b1a7d36fbdb944660d6a3",
     "5a6efed2cbd63c205ce3e9b241fb7430",
@@ -2001,12 +1998,12 @@
     "ca2d3781ddb2807c883bac084e1f4d39",
     "340a55e87d65fac4e5a9994de42a21ef",
     "5c23188574a86a1e71b53dc35121dbe2",
-    "6a5355d487ed64335b7ffae26422b230"
+    "6a5355d487ed64335b7ffae26422b230",
+    "be7c934888f8798c7406e393973d20c5",
+    "0e7629b38a43099731ee645f11ddba35",
+    "fae25dc734637bf1a447c85f58af092a"
   ],
   "titles": [
-    "Guinea-Bissau - Putschisten ernennen Übergangspräsidenten",
-    "Europas Migrationspolitik - Merz weist US-Einmischung zurück",
-    "Bundeskanzler - Merz weist US-Einmischung in Europäische Migrationspolitik zurück",
     "Auszeichnung - Preis \"Kita des Jahres\" geht an Einrichtung in Unkel/Rheinland-Pfalz",
     "Liveblog Bundespolitik: Merz verbittet sich „Ermahnungen“ der USA zur Migrationspolitik",
     "Iran - Friedensnobelpreisträgerin Mohammadi beklagt dauerhaftes Reiseverbot",
@@ -3003,12 +3000,12 @@
     "Ernährungssicherheit - UNO erklärt Hungersnot im Gazastreifen für beendet - Situation weiter \"kritisch\"",
     "EU-Richtlinie - Bundestag vereinfacht Widerruf in Online-Shops",
     "Ukraine-Krieg - Vor Verhandlungen zwischen USA und Russland: Ukrainische Delegation zu Gesprächen in Miami eingetroffen",
-    "Ostafrika - UNHCR warnt vor Not in Burundi"
+    "Ostafrika - UNHCR warnt vor Not in Burundi",
+    "Brüssel - Bundesumweltminister: EU-Beschluss für Lockerungen bei Gentechnik \"schwerer Fehler\"",
+    "Online-Shopping - Frankreich: Gericht lehnt dreimonatige Sperre der chinesischen Plattform Shein ab - Pflicht zur Altersprüfung von Nutzern verhängt",
+    "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt auf dem Breitscheidplatz"
   ],
   "hashes": [
-    "91745701a3e72f6c9ea51638b54cca00",
-    "f05c097df070ddfc8ef2bda3384d93b6",
-    "ffd9a0a0a8db766ac9eff0a17fbd9c50",
     "bb95e21f5d006d794da77cebd85b0175",
     "a2e65dd1b4bc29631e40ce76a6141299",
     "855c3f62ece9e418a7eb3fbebf2f52fc",
@@ -4005,6 +4002,9 @@
     "b085e480810cdb91cf72b9b464a7c21e",
     "0a4b38096459bfd6f6b7873eae052722",
     "e7a5e70ead1e2dd948012974a366ceae",
-    "68be06643a112eb266c743508b018878"
+    "68be06643a112eb266c743508b018878",
+    "fca5ee9bc4b3fdaf4de89d9096c1d7e7",
+    "cbaba01451aa67d5b12136deea96a95c",
+    "f6e3d75128d85ec7a80d515562976118"
   ]
 }
