@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nord-stream-verdaechtiger-von-italien-an-deutschland-ausgeliefert-100.html",
-    "https://www.deutschlandfunk.de/robbensterben-ermittlungen-gegen-zwei-verdaechtige-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-landesminister-nennen-reiches-energiepolitik-chaotisch-faz-110093143.html",
     "https://www.deutschlandfunk.de/us-vizepraesident-vance-usa-muessen-einsatz-fuer-abschiebungen-verdoppeln-106.html",
     "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-an-deutschland-ausgeliefert-a-d3fe3c4a-bfd3-4bdc-80b5-136774d21351#ref=rss",
     "https://www.deutschlandfunk.de/hubertz-will-brachliegende-bauprojekte-mit-sonderfoerderung-retten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesverwaltungsgericht-kippt-hammerskins-verbot-100.html",
     "https://www.deutschlandfunk.de/auch-bundesrat-stimmt-rentenpaket-zu-100.html",
     "https://www.deutschlandfunk.de/bundesbank-fuer-die-deutsche-wirtschaft-geht-es-ab-2026-langsam-bergauf-inflation-bleibt-zaeh-100.html",
-    "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html"
+    "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html",
+    "https://www.deutschlandfunk.de/grossauftrag-fuer-ruestungsunternehmen-102.html",
+    "https://www.deutschlandfunk.de/gentechnik-knappe-mehrheit-der-eu-laender-segnet-lockerungen-ab-100.html",
+    "https://www.deutschlandfunk.de/ukraine-erhaelt-leichen-von-mehr-als-1-000-soldaten-zurueck-100.html"
   ],
   "content_hashes": [
-    "25ed8d5305cce284a99c26150e991d79",
-    "1dc81cc8b60b5e2fafa486b48e1414de",
-    "f43364d628c0fadb62f58473a42bff87",
     "b8ea3acd3056ca3bb556eeb9f78f61a4",
     "85b2de53b4f1a70ec103cf62a89c2383",
     "19a8be0c14f57de80944832334b1faf9",
@@ -2001,12 +1998,12 @@
     "f9a069233bc4158182d330d0fe765951",
     "d21c5a723dd3cf110fbd3b50d471b76f",
     "8e2778fd079c1c41b4a0a94c717806a9",
-    "f9eb8e4677b230a82777557cfc0ce6d2"
+    "f9eb8e4677b230a82777557cfc0ce6d2",
+    "392356601dcc5bd9a11cd573ed590e82",
+    "9071e26453a4659e9336aadac8fff8d3",
+    "d2e9ef1aa43c6af44724549d07cb435e"
   ],
   "titles": [
-    "Ermittlungen - Nord-Stream-Verdächtiger von Italien an Deutschland ausgeliefert",
-    "Rügen - Robbensterben: Ermittlungen gegen zwei Verdächtige",
-    "Liveblog Bundespolitik: Grüne Landesminister nennen Reiches Energiepolitik chaotisch",
     "Nach Schüssen auf Nationalgardisten - US-Vizepräsident Vance: USA müssen Einsatz für Abschiebungen verdoppeln",
     "Nord-Stream: Verdächtiger Serhij K. an Deutschland ausgeliefert",
     "Bundestag - Hubertz will brachliegende Bauprojekte mit Sonderförderung retten",
@@ -3003,12 +3000,12 @@
     "Rechtsextremismus - Bundesverwaltungsgericht kippt \"Hammerskins\"-Verbot",
     "Haltelinie, Mütter- und Aktivrente - Auch Bundesrat stimmt Rentenpaket zu",
     "Konjunktur - Bundesbank: Für die deutsche Wirtschaft geht es ab 2026 langsam bergauf - Inflation bleibt zäh",
-    "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt für Unmut in Industrie"
+    "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt für Unmut in Industrie",
+    "Bundeswehr - Großauftrag für Rüstungsunternehmen",
+    "Brüssel - Gentechnik: Knappe Mehrheit der EU-Länder segnet Lockerungen ab",
+    "Russischer Angriffskrieg - Ukraine erhält Leichen von mehr als 1.000 Soldaten zurück"
   ],
   "hashes": [
-    "4a886308437bb9bc2f95c039e1489a37",
-    "a19aefdde3ccbd7f950773e0f0e9d90b",
-    "8af3d2ca8abaf7d28c09d028e8c5d1da",
     "31cdfd2309f31d4bdd4e36ffec125658",
     "f4fd34226399e4cc81b495d759cfb4ff",
     "d19823b109a6248ec9a926210efd124b",
@@ -4005,6 +4002,9 @@
     "ca1b400e6a218e1c2e35b672749d9b37",
     "a14bd1496d337b6b695f29eeab28586a",
     "f4dadf310a073eebf758cd7e3d2fb2c8",
-    "89a37bbf2939f8457bff7a37ea13c31c"
+    "89a37bbf2939f8457bff7a37ea13c31c",
+    "6c8642a0973358c218127078abc1492c",
+    "db04f2b274391a130c9d870454f2429c",
+    "03903334e63e35c045ca5ab84de4ce38"
   ]
 }
