@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-europa-braucht-mehr-oekonomisches-selbstbewusstsein-102.html",
-    "https://www.deutschlandfunk.de/thueringer-fraktionschefs-cdu-und-linke-finden-kompromiss-zu-doppelhaushalt-minderheitsregierung-auf-100.html",
     "https://www.deutschlandfunk.de/deutscher-astronaut-soll-richtung-mond-fliegen-100.html",
     "https://www.deutschlandfunk.de/venezuela-verhaengt-betriebsverbote-fuer-sechs-auslaendische-fluggesellschaften-100.html",
     "https://www.spiegel.de/panorama/justiz/ansbach-rueckfuehrung-des-amoklaeufers-aus-kolumbien-kostete-195-000-euro-a-c21c2e67-9e18-4b07-b500-bca719085967#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/kupfer-europaeische-firmen-aurubis-und-viscaria-fuer-mehr-kupferminen-in-der-eu-a-c52bdee2-09d7-4e34-b8e8-53d3095ce578#ref=rss",
     "https://www.deutschlandfunk.de/regierung-will-massenhaft-schusswaffen-einziehen-102.html",
     "https://www.deutschlandfunk.de/ukraine-erhaelt-zinslosen-kredit-eingefrorene-russland-gelder-bleiben-zunaechst-aussen-vor-100.html",
-    "https://www.faz.net/aktuell/politik/inland/streit-um-lucassen-wie-bjoern-hoecke-die-afd-fraktion-beeinflusst-accg-110805231.html"
+    "https://www.faz.net/aktuell/politik/inland/streit-um-lucassen-wie-bjoern-hoecke-die-afd-fraktion-beeinflusst-accg-110805231.html",
+    "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-krankenkassen-sparpaket-100.html",
+    "https://www.deutschlandfunk.de/russische-gelder-bleiben-eingefroren-interview-wolfgang-ischinger-msc-102.html"
   ],
   "content_hashes": [
-    "f34bc1601f5fe3a41bfe3a3998f1f5ac",
-    "514696f825407fca226e6b46997a5f5e",
     "3340d4784814cd9fc45e3490b9e8ee5e",
     "972c35c336f030b171c4cc25d9167536",
     "2d9d74bc587bbfaba4be9e7dfceb6a6e",
@@ -2001,11 +1999,11 @@
     "cd8ce79faa7b02cadf77eaa58263cd55",
     "7a6d58bc58981143a497f7e9e0647536",
     "23380ad7b6283489788344be141e16aa",
-    "14ef4e64d28aebd02b45f16ebf587bdf"
+    "14ef4e64d28aebd02b45f16ebf587bdf",
+    "53acc23a78ffff9884c5d7d879413bb4",
+    "cc400289ae8c945f880953145d38e2f2"
   ],
   "titles": [
-    "Deutsch-spanisches Wirtschaftsforum - Steinmeier: Europa braucht mehr ökonomisches Selbstbewusstsein",
-    "Erfurt - Thüringer Fraktionschefs CDU und Linke finden Kompromiss zu Doppelhaushalt - Minderheitsregierung auf Opposition angewiesen",
     "\"Artemis\"-Mission - Deutscher Astronaut soll Richtung Mond fliegen",
     "Südamerika - Venezuela verhängt Betriebsverbote für sechs ausländische Fluggesellschaften",
     "Ansbach: Rückführung des Amokläufers aus Kolumbien kostete 195.000 Euro",
@@ -3003,11 +3001,11 @@
     "Kupfer: Europäische Firmen Aurubis und Viscaria für mehr Kupferminen in der EU",
     "Australien - Regierung will massenhaft Schusswaffen einziehen",
     "EU-Gipfel - Ukraine erhält zinslosen Kredit - eingefrorene Russland-Gelder bleiben zunächst außen vor",
-    "Streit in der AfD: Wie Höcke die AfD-Fraktion beeinflusst"
+    "Streit in der AfD: Wie Höcke die AfD-Fraktion beeinflusst",
+    "Gesundheitspolitik - Bundestag stimmt für Krankenkassen-Sparpaket",
+    "Ukraine-Finanzierung - Diplomat Ischinger sieht Glaubwürdigkeit der EU gefährdet"
   ],
   "hashes": [
-    "6659313a84d5422c34e665d60a6dc367",
-    "5d123be540f796a2d17f1386a6300aad",
     "dc4333169dfac26d1311b16495aaa338",
     "9bdbcff50086fdd2db6c7b22f43d0da8",
     "5cb021e530e7235abf6b6bff03d3b053",
@@ -4005,6 +4003,8 @@
     "47388fd7426dda357218493ba1daacc3",
     "3d79f63ecd63c14492dbf0718d0b305e",
     "4dba56ebb6c083631e5d224f6a06b13a",
-    "93c94aae69d47529238becac8e0ecdc4"
+    "93c94aae69d47529238becac8e0ecdc4",
+    "1f7e3d4f95ba6d75015264f3049726eb",
+    "58e989f2120dafa1492ed56c30acf3b3"
   ]
 }
