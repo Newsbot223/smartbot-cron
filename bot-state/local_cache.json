@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zahl-der-toten-bei-hochhaus-brand-steigt-auf-83-regierungschef-lee-ordnet-ueberpruefung-von-baustell-100.html",
-    "https://www.deutschlandfunk.de/buergergeldempfaenger-muessen-selbst-guenstigeren-wohnraum-suchen-100.html",
     "https://www.deutschlandfunk.de/nrw-bewirbt-sich-als-standort-fuer-yad-vashem-aussenstelle-102.html",
     "https://www.deutschlandfunk.de/putschisten-ernennen-uebergangspraesidenten-102.html",
     "https://www.deutschlandfunk.de/merz-weist-us-einmischung-zurueck-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ukraine-erhaelt-leichen-von-mehr-als-1-000-soldaten-zurueck-100.html",
     "https://www.deutschlandfunk.de/kramp-karrenbauer-zur-chefin-der-adenauer-stiftung-gewaehlt-niederlage-fuer-merz-kandidat-krings-100.html",
     "https://www.faz.net/aktuell/politik/inland/kramp-karrenbauer-wird-neue-kas-vorsitzende-200374046.html",
-    "https://www.deutschlandfunk.de/uno-erklaert-hungersnot-im-gazastreifen-fuer-beendet-situation-weiter-kritisch-100.html"
+    "https://www.deutschlandfunk.de/uno-erklaert-hungersnot-im-gazastreifen-fuer-beendet-situation-weiter-kritisch-100.html",
+    "https://www.deutschlandfunk.de/bundestag-vereinfacht-widerruf-in-online-shops-100.html",
+    "https://www.deutschlandfunk.de/vor-verhandlungen-zwischen-usa-und-russland-ukrainische-delegation-zu-gespraechen-in-miami-eingetrof-100.html"
   ],
   "content_hashes": [
-    "21a0c925761c0d931307e42e83b6fe18",
-    "2bae8d259c99a463dbcfa03b5989f5aa",
     "94750aca0f8d1d1d1f2c7836698974ac",
     "953a49f12919c8bda1fc220d33d08b5e",
     "91f1ca57b8695957631da05f6ab1fb73",
@@ -2001,11 +1999,11 @@
     "d2e9ef1aa43c6af44724549d07cb435e",
     "277f67f55ce9c359c5ee1eebfb364d9d",
     "1d4f1a3af33fc606df70cefe310f3f47",
-    "ca2d3781ddb2807c883bac084e1f4d39"
+    "ca2d3781ddb2807c883bac084e1f4d39",
+    "340a55e87d65fac4e5a9994de42a21ef",
+    "5c23188574a86a1e71b53dc35121dbe2"
   ],
   "titles": [
-    "Hongkong - Zahl der Toten bei Hochhaus-Brand steigt auf 83 - Regierungschef Lee ordnet Überprüfung von Baustellen an",
-    "Bundessozialgericht - Bürgergeldempfänger müssen selbst günstigeren Wohnraum suchen",
     "Holocaust- Bildungszentrum - NRW bewirbt sich als Standort für Yad Vashem-Außenstelle",
     "Guinea-Bissau - Putschisten ernennen Übergangspräsidenten",
     "Europas Migrationspolitik - Merz weist US-Einmischung zurück",
@@ -3003,11 +3001,11 @@
     "Russischer Angriffskrieg - Ukraine erhält Leichen von mehr als 1.000 Soldaten zurück",
     "CDU - Kramp-Karrenbauer zur Chefin der Adenauer-Stiftung gewählt - Niederlage für Merz-Kandidat Krings",
     "Adenauer-Stiftung: Schlappe für Merz – Kramp-Karrenbauer gewinnt Kampfabstimmung",
-    "Ernährungssicherheit - UNO erklärt Hungersnot im Gazastreifen für beendet - Situation weiter \"kritisch\""
+    "Ernährungssicherheit - UNO erklärt Hungersnot im Gazastreifen für beendet - Situation weiter \"kritisch\"",
+    "EU-Richtlinie - Bundestag vereinfacht Widerruf in Online-Shops",
+    "Ukraine-Krieg - Vor Verhandlungen zwischen USA und Russland: Ukrainische Delegation zu Gesprächen in Miami eingetroffen"
   ],
   "hashes": [
-    "46a7ccc0f45019ec8e23edb98fb0423f",
-    "90d3241093c45cb7adfb8c7cc57fed8d",
     "aea3a3fb3f6c9571248e0d6996d70678",
     "91745701a3e72f6c9ea51638b54cca00",
     "f05c097df070ddfc8ef2bda3384d93b6",
@@ -4005,6 +4003,8 @@
     "03903334e63e35c045ca5ab84de4ce38",
     "e829d79042c1320e71b7cafc23533828",
     "b4313fac9c2ffc2b511f9cdc968343b9",
-    "b085e480810cdb91cf72b9b464a7c21e"
+    "b085e480810cdb91cf72b9b464a7c21e",
+    "0a4b38096459bfd6f6b7873eae052722",
+    "e7a5e70ead1e2dd948012974a366ceae"
   ]
 }
