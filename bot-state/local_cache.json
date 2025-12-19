@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-vizepraesident-vance-usa-muessen-einsatz-fuer-abschiebungen-verdoppeln-106.html",
-    "https://www.spiegel.de/panorama/justiz/nord-stream-verdaechtiger-serhij-k-an-deutschland-ausgeliefert-a-d3fe3c4a-bfd3-4bdc-80b5-136774d21351#ref=rss",
     "https://www.deutschlandfunk.de/hubertz-will-brachliegende-bauprojekte-mit-sonderfoerderung-retten-100.html",
     "https://www.deutschlandfunk.de/zahl-der-toten-bei-hochhaus-brand-steigt-auf-83-regierungschef-lee-ordnet-ueberpruefung-von-baustell-100.html",
     "https://www.deutschlandfunk.de/buergergeldempfaenger-muessen-selbst-guenstigeren-wohnraum-suchen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html",
     "https://www.deutschlandfunk.de/grossauftrag-fuer-ruestungsunternehmen-102.html",
     "https://www.deutschlandfunk.de/gentechnik-knappe-mehrheit-der-eu-laender-segnet-lockerungen-ab-100.html",
-    "https://www.deutschlandfunk.de/ukraine-erhaelt-leichen-von-mehr-als-1-000-soldaten-zurueck-100.html"
+    "https://www.deutschlandfunk.de/ukraine-erhaelt-leichen-von-mehr-als-1-000-soldaten-zurueck-100.html",
+    "https://www.deutschlandfunk.de/kramp-karrenbauer-zur-chefin-der-adenauer-stiftung-gewaehlt-niederlage-fuer-merz-kandidat-krings-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kramp-karrenbauer-wird-neue-kas-vorsitzende-200374046.html"
   ],
   "content_hashes": [
-    "b8ea3acd3056ca3bb556eeb9f78f61a4",
-    "85b2de53b4f1a70ec103cf62a89c2383",
     "19a8be0c14f57de80944832334b1faf9",
     "21a0c925761c0d931307e42e83b6fe18",
     "2bae8d259c99a463dbcfa03b5989f5aa",
@@ -2001,11 +1999,11 @@
     "f9eb8e4677b230a82777557cfc0ce6d2",
     "392356601dcc5bd9a11cd573ed590e82",
     "9071e26453a4659e9336aadac8fff8d3",
-    "d2e9ef1aa43c6af44724549d07cb435e"
+    "d2e9ef1aa43c6af44724549d07cb435e",
+    "277f67f55ce9c359c5ee1eebfb364d9d",
+    "1d4f1a3af33fc606df70cefe310f3f47"
   ],
   "titles": [
-    "Nach Schüssen auf Nationalgardisten - US-Vizepräsident Vance: USA müssen Einsatz für Abschiebungen verdoppeln",
-    "Nord-Stream: Verdächtiger Serhij K. an Deutschland ausgeliefert",
     "Bundestag - Hubertz will brachliegende Bauprojekte mit Sonderförderung retten",
     "Hongkong - Zahl der Toten bei Hochhaus-Brand steigt auf 83 - Regierungschef Lee ordnet Überprüfung von Baustellen an",
     "Bundessozialgericht - Bürgergeldempfänger müssen selbst günstigeren Wohnraum suchen",
@@ -3003,11 +3001,11 @@
     "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt für Unmut in Industrie",
     "Bundeswehr - Großauftrag für Rüstungsunternehmen",
     "Brüssel - Gentechnik: Knappe Mehrheit der EU-Länder segnet Lockerungen ab",
-    "Russischer Angriffskrieg - Ukraine erhält Leichen von mehr als 1.000 Soldaten zurück"
+    "Russischer Angriffskrieg - Ukraine erhält Leichen von mehr als 1.000 Soldaten zurück",
+    "CDU - Kramp-Karrenbauer zur Chefin der Adenauer-Stiftung gewählt - Niederlage für Merz-Kandidat Krings",
+    "Adenauer-Stiftung: Schlappe für Merz – Kramp-Karrenbauer gewinnt Kampfabstimmung"
   ],
   "hashes": [
-    "31cdfd2309f31d4bdd4e36ffec125658",
-    "f4fd34226399e4cc81b495d759cfb4ff",
     "d19823b109a6248ec9a926210efd124b",
     "46a7ccc0f45019ec8e23edb98fb0423f",
     "90d3241093c45cb7adfb8c7cc57fed8d",
@@ -4005,6 +4003,8 @@
     "89a37bbf2939f8457bff7a37ea13c31c",
     "6c8642a0973358c218127078abc1492c",
     "db04f2b274391a130c9d870454f2429c",
-    "03903334e63e35c045ca5ab84de4ce38"
+    "03903334e63e35c045ca5ab84de4ce38",
+    "e829d79042c1320e71b7cafc23533828",
+    "b4313fac9c2ffc2b511f9cdc968343b9"
   ]
 }
