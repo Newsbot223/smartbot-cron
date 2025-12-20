@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/giessen-ruestet-sich-vor-gruendung-der-afd-jugend-110792741.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-vorsitzende-informieren-fraktionen-ueber-ergebnisse-des-koalitionsausschusses-faz-110093143.html",
     "https://www.deutschlandfunk.de/medienberichte-rentenpaket-soll-bleiben-weitere-reformen-angepeilt-100.html",
     "https://www.deutschlandfunk.de/lage-auf-arbeitsmarkt-verschlechtert-sich-fuer-menschen-mit-behinderung-102.html",
     "https://www.faz.net/aktuell/politik/inland/rentenstreit-merz-und-klingbeil-stellen-ergebnisse-vor-livestream-accg-200305198.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kramp-karrenbauer-zur-chefin-der-adenauer-stiftung-gewaehlt-108.html",
     "https://www.deutschlandfunk.de/renommiertes-us-kulturzentrum-kennedy-center-in-trump-kennedy-center-umbenannt-104.html",
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-verlaengert-friedensmission-in-dr-kongo-um-ein-jahr-102.html",
-    "https://www.deutschlandfunk.de/chef-des-parlamentarischen-kontrollgremiums-will-bnd-staerken-100.html"
+    "https://www.deutschlandfunk.de/chef-des-parlamentarischen-kontrollgremiums-will-bnd-staerken-100.html",
+    "https://www.deutschlandfunk.de/hegseth-us-militaer-fliegt-vergeltungsangriff-auf-den-is-102.html",
+    "https://www.faz.net/aktuell/politik/inland/israels-botschafter-fordert-mehr-haerte-gegen-linken-antisemitismus-accg-200375858.html"
   ],
   "content_hashes": [
-    "c8dc2a16022be2a1a5c74dafa0140e7f",
-    "e4d8ee2631b87e45a79097a5fb2d5092",
     "6e332432369e92daaf2d202cc5eff5c1",
     "530e3ea088f119490ee88bf2e3ba2dc3",
     "3d57ba2ad0ba3893782450d6528dd50e",
@@ -2001,11 +1999,11 @@
     "e6e78fc1ea47b01340379c82be2ba9b3",
     "e30cd167488b90b31734688481e15448",
     "6e371541266065699baa97717e1b9be5",
-    "b778b7d8136047b54948d06922477634"
+    "b778b7d8136047b54948d06922477634",
+    "33c3ddf6109d4a1fb960df9db91d6a08",
+    "e0a8be421cf5734fd8f5f7a3ec71c4b8"
   ],
   "titles": [
-    "Massenproteste erwartet: Gießen rüstet sich vor Gründung der AfD-Jugend",
-    "Liveblog Bundespolitik: Vorsitzende informieren Fraktionen über Rentenpläne",
     "Koalitionsausschuss - Medienberichte: Rentenpaket soll bleiben, weitere Reformen angepeilt",
     "\"Aktion Mensch\" - Lage auf Arbeitsmarkt verschlechtert sich für Menschen mit Behinderung",
     "Livestream: Kommt es zu einer Einigung im Rentenstreit?",
@@ -3003,11 +3001,11 @@
     "Nachfolge von Lammert - Kramp-Karrenbauer zur Chefin der Adenauer-Stiftung gewählt",
     "Washington - Renommiertes US-Kulturzentrum \"Kennedy Center\" in \"Trump-Kennedy Center\" umbenannt",
     "Afrika - UNO-Sicherheitsrat verlängert Friedensmission in DR Kongo um ein Jahr",
-    "Nachrichtendienste - Chef des Parlamentarischen Kontrollgremiums will BND stärken"
+    "Nachrichtendienste - Chef des Parlamentarischen Kontrollgremiums will BND stärken",
+    "Syrien - Hegseth: \"US-Militär fliegt Vergeltungsangriff auf den IS\"",
+    "Ron Prosor: Israels Botschafter fordert mehr Härte gegen linken Antisemitismus"
   ],
   "hashes": [
-    "e78256af4b034e4811a6856913b3d156",
-    "af629080cbbced7c22b045f45fde765a",
     "9cca92120f4005c3b36e9dd55b0b095c",
     "83f16c58ec4fede6bab166e044cfe92b",
     "cf5a6544b16139ef5aeb928e99669c82",
@@ -4005,6 +4003,8 @@
     "43dc84f9195ab5c8616bf8a399294763",
     "1921e716ade0778e0ad503edf8d2d285",
     "83431330dedad3727494f8457b1ca2aa",
-    "2825948b63974e8e577c9c812c67bb66"
+    "2825948b63974e8e577c9c812c67bb66",
+    "ca9a343e1e12f75cdb899672e9ed273b",
+    "b5ca7cacd07f553ef079319221c72ad6"
   ]
 }
