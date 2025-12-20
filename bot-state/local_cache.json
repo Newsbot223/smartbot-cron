@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/durchsuchungen-der-anti-korruptionsbehoerde-bei-praesidialamtsleiter-jermak-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-koalitionsspitzen-einig-zustimmung-der-jungen-gruppe-noch-unklar-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/jugendliche-aus-hessen-sollen-rechtsextremen-anschlag-geplant-haben-anklage-110793357.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-rechnet-mit-zustimmung-zum-rentenpaket-faz-110093143.html",
     "https://www.deutschlandfunk.de/beratungen-ueber-arbeits-und-sozialbudget-gesamtetat-wird-am-nachmittag-abgestimmt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/justizministerin-hubig-will-anstieg-bei-indexmieten-deckeln-accg-200375935.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-sicherheitsexperte-haelt-mehr-bnd-befugnisse-fuer-unabdingbar-accg-200375911.html",
     "https://www.deutschlandfunk.de/milliardenbelastung-offenbar-auch-fuer-deutschland-zu-erwarten-100.html",
-    "https://www.deutschlandfunk.de/nasa-verliert-kontakt-zu-mars-sonde-maven-100.html"
+    "https://www.deutschlandfunk.de/nasa-verliert-kontakt-zu-mars-sonde-maven-100.html",
+    "https://www.deutschlandfunk.de/ukraine-gespraeche-gehen-in-die-naechste-runde-102.html",
+    "https://www.spiegel.de/netzwelt/memes-und-social-media-trends-die-2025-gepraegt-haben-von-labubu-bis-italian-brainrot-a-150aed64-73c2-48a3-825a-0232a5e8ac17#ref=rss"
   ],
   "content_hashes": [
-    "0cec16a5a3a3523648261e5b1f209caf",
-    "c31cfba4ec35d8d537258548f5e3e26f",
     "17d7f081cc9b52fdbfbecd2d7660252b",
     "8d11ccd4c47f88144d7d259400993ec3",
     "a3b1c6a34224ede77a508ba65d7d4749",
@@ -2001,11 +1999,11 @@
     "969e454a861dad88e23e2a5161ce03d0",
     "8b7ae5a6426e044644f17ae6b46faf25",
     "689cb27273c4c433e6973d4147b5a828",
-    "b259dd46d49974e213970bad037e8391"
+    "b259dd46d49974e213970bad037e8391",
+    "04cb52713cd14757d1adc7d970129ca1",
+    "bc3b76dad5e449f495c49291b94b3e10"
   ],
   "titles": [
-    "Ukraine - Durchsuchungen der Anti-Korruptionsbehörde bei Präsidialamtsleiter Jermak",
-    "Liveblog Bundespolitik: Koalitionsspitzen einig – Zustimmung der Jungen Gruppe noch unklar",
     "Rechtsextreme Motive: Jugendliche wegen Anschlagsplänen angeklagt",
     "Liveblog Bundespolitik: Merz rechnet mit Zustimmung zum Rentenpaket",
     "Bundestag - Beratungen über Arbeits- und Sozialbudget - Gesamtetat wird am Nachmittag abgestimmt",
@@ -3003,11 +3001,11 @@
     "Wohnungsmarkt: Justizministerin Hubig will Anstieg bei Indexmieten deckeln",
     "Bundesnachrichtendienst: CDU-Sicherheitsexperte hält mehr BND-Befugnisse für unabdingbar",
     "Neuer Ukraine-Kredit der EU - Milliardenbelastung offenbar auch für Deutschland zu erwarten",
-    "Raumfahrt - Nasa verliert Kontakt zu Mars-Sonde \"Maven\""
+    "Raumfahrt - Nasa verliert Kontakt zu Mars-Sonde \"Maven\"",
+    "Treffen in Miami - Ukraine-Gespräche gehen in die nächste Runde",
+    "Memes und Social-Media-Trends, die 2025 geprägt haben: Von Labubu bis »Italian Brainrot«"
   ],
   "hashes": [
-    "96e61a0353088d7df0233d371d397ecf",
-    "5d40bb098a9993ccaabaae94791afc71",
     "feed94c5f6506230012bda12aa2d114a",
     "9def0f90b6a653055e7b1ae00b4ab46c",
     "33347762f537f0cab60d0d5b86b99e54",
@@ -4005,6 +4003,8 @@
     "a5866928baa17ea40d77a5b107bf282f",
     "6e0b1a18dbc8abee2ee45332fb56ff46",
     "73ffe40b5a427c6e727e66baec9707f4",
-    "19b56fa841ac2b85dace11c174544e3d"
+    "19b56fa841ac2b85dace11c174544e3d",
+    "b3f927511f185c7aa0da22f567d9d0aa",
+    "c699e688dee1f9ebaff52766e1310c79"
   ]
 }
