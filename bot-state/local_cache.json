@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/steinmeier-beendet-staatsaufenthalt-in-spanien-mit-besuch-in-guernica-102.html",
-    "https://www.deutschlandfunk.de/gemischte-reaktionen-auf-koalitionsbeschluss-100.html",
     "https://www.spiegel.de/politik/rente-friedrich-merz-und-markus-soeder-umschmeicheln-junge-abgeordnete-a-a564763c-89a0-4156-990c-a6c1da43d6bf#ref=rss",
     "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-philippinischer-ex-praesident-duterte-bleibt-in-haft-100.html",
     "https://www.deutschlandfunk.de/gemischte-reaktionen-auf-rentenbeschluss-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/netzwelt/memes-und-social-media-trends-die-2025-gepraegt-haben-von-labubu-bis-italian-brainrot-a-150aed64-73c2-48a3-825a-0232a5e8ac17#ref=rss",
     "https://www.deutschlandfunk.de/hubig-plant-begrenzung-auf-3-5-prozent-pro-jahr-einschraenkungen-auch-fuer-kurzzeitvermietungen-104.html",
     "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-108.html",
-    "https://www.deutschlandfunk.de/us-militaer-fliegt-angriffe-auf-70-ziele-in-syrien-hegseth-vergeltung-gegen-is-attacke-100.html"
+    "https://www.deutschlandfunk.de/us-militaer-fliegt-angriffe-auf-70-ziele-in-syrien-hegseth-vergeltung-gegen-is-attacke-100.html",
+    "https://www.deutschlandfunk.de/zweiter-startversuch-fuer-zwei-deutsche-mit-blue-origins-rakete-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/nach-terror-in-sydney-juden-muessen-geschuetzt-werden-110805889.html"
   ],
   "content_hashes": [
-    "5c0bddb3ed013c3ae7002ec9da7c58fe",
-    "9c7b649680acaeeba5a29378313c9010",
     "60048116cc11a816a6b78dba786124f5",
     "1143838dae401f0c83981dcc4a59f870",
     "6104a6a455c5133926dc6ff68ae9bc06",
@@ -2001,11 +1999,11 @@
     "bc3b76dad5e449f495c49291b94b3e10",
     "113b10cfaded2a5a3a2dbad65635c7b2",
     "b69b539d0800cec853c625e2201e463d",
-    "57f9bb58ed2c105339d671dd847aa875"
+    "57f9bb58ed2c105339d671dd847aa875",
+    "60d8b0c17cb48101a8cc0222e40dc67d",
+    "c55af129d32e45adab28fda4be9464e7"
   ],
   "titles": [
-    "Bundespräsident - Steinmeier beendet Staatsaufenthalt in Spanien mit Besuch in Guernica",
-    "Rentenpläne - Gemischte Reaktionen auf Koalitionsbeschluss",
     "Rente: Friedrich Merz und Markus Söder umschmeicheln junge Abgeordnete",
     "Den Haag - Internationaler Strafgerichtshof: Philippinischer Ex-Präsident Duterte bleibt in Haft",
     "Von \"guter Kompromissansatz\" bis \"schwerer Fehler\" - Gemischte Reaktionen auf Rentenbeschluss",
@@ -3003,11 +3001,11 @@
     "Memes und Social-Media-Trends, die 2025 geprägt haben: Von Labubu bis »Italian Brainrot«",
     "Indexmieten - Hubig plant Begrenzung auf 3,5 Prozent pro Jahr - Einschränkungen auch für Kurzzeitvermietungen",
     "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt",
-    "Regionalkommando Centcom - US-Militär fliegt Angriffe auf 70 Ziele in Syrien - Hegseth: \"Vergeltung gegen IS-Attacke\""
+    "Regionalkommando Centcom - US-Militär fliegt Angriffe auf 70 Ziele in Syrien - Hegseth: \"Vergeltung gegen IS-Attacke\"",
+    "Raumfahrt - Zweiter Startversuch für zwei Deutsche mit Blue-Origins-Rakete",
+    "Terror in Sydney: Juden müssen geschützt werden"
   ],
   "hashes": [
-    "b8075f040e3ea69c297142ea377ceb6a",
-    "095ab23811e68c929a187ceac17f4935",
     "691fafe4b2991aeb1396280e174084ac",
     "8dc70f276239510ceeaf6fa1658c0fe8",
     "8a7a1102f39bef8b909ec3ae4793c3fb",
@@ -4005,6 +4003,8 @@
     "c699e688dee1f9ebaff52766e1310c79",
     "fdab466f32b5d21adeaf089bd205570e",
     "331e0591609aa710ad4f685732d63430",
-    "a17dd9021bc31064db3e01d1ba4f0da6"
+    "a17dd9021bc31064db3e01d1ba4f0da6",
+    "39d048e45e60c69079de3a2f01dabbe3",
+    "dd0aa2cc11714ca6c6b3d0dd9b77572c"
   ]
 }
