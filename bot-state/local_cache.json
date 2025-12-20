@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/die-gruenen-katharina-droege-im-portraet-110793698.html",
-    "https://www.faz.net/aktuell/politik/inland/parteitag-der-gruenen-sie-reden-ueber-homoeopathie-und-sicherheitspolitik-110792794.html",
     "https://www.deutschlandfunk.de/bundeslaender-verlaengern-allianz-zum-schutz-der-meere-102.html",
     "https://www.deutschlandfunk.de/bundesparteitag-der-gruenen-vorsitzende-brantner-wirft-regierung-politik-zu-lasten-junger-menschen-v-102.html",
     "https://www.faz.net/aktuell/politik/inland/merz-wirbt-fuer-rentenpaket-vertraut-der-spd-110794031.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-beschlagnahmen-medienberichten-zufolge-tanker-mit-oel-aus-venezuela-100.html",
     "https://www.deutschlandfunk.de/usa-beschlagnahmen-tanker-mit-oel-aus-venezuela-100.html",
     "https://www.deutschlandfunk.de/zwei-tote-bei-israelischen-militaereinsaetzen-im-westjordanland-100.html",
-    "https://www.deutschlandfunk.de/zwei-tote-bei-israelischen-militaereinsaetzen-im-westjordanland-102.html"
+    "https://www.deutschlandfunk.de/zwei-tote-bei-israelischen-militaereinsaetzen-im-westjordanland-102.html",
+    "https://www.deutschlandfunk.de/kirchen-positionen-zu-migration-nur-noch-mit-gruenen-und-linken-decklungsgleich-bischof-baetzing-wei-100.html",
+    "https://www.deutschlandfunk.de/hauptbahnhof-stuttgart-nach-evakuierung-wieder-freigegeben-100.html"
   ],
   "content_hashes": [
-    "836036b9b74ceffa51446b765bfab801",
-    "c3aa58ebbfabd15971a341c962c0f3d6",
     "3454657b6b4681107548eb31107b481f",
     "43d0aba49067e07470fb72c3bbb58b47",
     "d10ace00d4515e3e665a68c30d40aca0",
@@ -2001,11 +1999,11 @@
     "d26092d3a8dd4001e7a65f194e3ed604",
     "360966193f5dcdea2ebecaacd2808ba8",
     "0efd1bb7abf38a81bfc237dd0fa2c72a",
-    "69f4f28827b9bad4085fa22a00927b33"
+    "69f4f28827b9bad4085fa22a00927b33",
+    "1856fae82fb7f3820503c9c4eed1916a",
+    "4fd0c8bb846f571edc7e915ac1f43d53"
   ],
   "titles": [
-    "Grüne Fraktionsvorsitzende: Katharina, die Harte",
-    "Parteitag der Grünen: Sie reden über Sicherheitspolitik und Homöopathie",
     "Meeresforschung - Bundesländer verlängern Allianz zum Schutz der Meere",
     "Hannover - Bundesparteitag der Grünen: Vorsitzende Brantner wirft Regierung Politik zu Lasten junger Menschen vor",
     "Rentenkonflikt: Der Kanzler bittet: Vertraut der SPD",
@@ -3003,11 +3001,11 @@
     "In internationalen Gewässern - USA beschlagnahmen Medienberichten zufolge Tanker mit Öl aus Venezuela",
     "In internationalen Gewässern - USA beschlagnahmen Tanker mit Öl aus Venezuela",
     "Zwei Tote bei israelischen Militäreinsätzen im Westjordanland",
-    "Nahostkonflikt - Zwei Tote bei israelischen Militäreinsätzen im Westjordanland"
+    "Nahostkonflikt - Zwei Tote bei israelischen Militäreinsätzen im Westjordanland",
+    "Interview der Woche - Kirchen-Positionen zu Migration nur noch mit Grünen und Linken decklungsgleich? Bischof Bätzing weist Vorwurf zurück",
+    "Verdächtiges Gepäckstück - Hauptbahnhof Stuttgart nach Evakuierung wieder freigegeben"
   ],
   "hashes": [
-    "fafce251e16aa2abe3772778755b9e53",
-    "ff6694d068cca94ae902d7238f9a0bd5",
     "a34249ab5d3a73846df8c283b9d1381c",
     "3a553c32ad7aafd8abc228b0de8289da",
     "d42b88a24b33334bf85815274e8f88cd",
@@ -4005,6 +4003,8 @@
     "391b78e7e9a158b92e1d178920858f83",
     "f96136bd4e502d40bae9e926ac5aba20",
     "f29ee82f2e9575ca8338614acb8c6e7b",
-    "1e4a65b779dfea4e02ad93765076dc63"
+    "1e4a65b779dfea4e02ad93765076dc63",
+    "0a14329be7d5b2e3c5e01fafa59c608e",
+    "3864bd315c4bd743b5f6bb183629e390"
   ]
 }
