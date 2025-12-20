@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/medienberichte-rentenpaket-soll-bleiben-weitere-reformen-angepeilt-100.html",
-    "https://www.deutschlandfunk.de/lage-auf-arbeitsmarkt-verschlechtert-sich-fuer-menschen-mit-behinderung-102.html",
-    "https://www.faz.net/aktuell/politik/inland/rentenstreit-merz-und-klingbeil-stellen-ergebnisse-vor-livestream-accg-200305198.html",
-    "https://www.deutschlandfunk.de/debatte-ueber-sozialhaushalt-afd-politik-ueberfordert-die-sozialsysteme-102.html",
     "https://www.deutschlandfunk.de/abnahme-der-arbeitslosigkeit-im-november-104.html",
     "https://www.deutschlandfunk.de/mindestens-fuenf-tote-durch-israelische-angriffe-im-sueden-syriens-100.html",
     "https://www.deutschlandfunk.de/durchsuchungen-der-anti-korruptionsbehoerde-bei-praesidialamtsleiter-jermak-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/uno-sicherheitsrat-verlaengert-friedensmission-in-dr-kongo-um-ein-jahr-102.html",
     "https://www.deutschlandfunk.de/chef-des-parlamentarischen-kontrollgremiums-will-bnd-staerken-100.html",
     "https://www.deutschlandfunk.de/hegseth-us-militaer-fliegt-vergeltungsangriff-auf-den-is-102.html",
-    "https://www.faz.net/aktuell/politik/inland/israels-botschafter-fordert-mehr-haerte-gegen-linken-antisemitismus-accg-200375858.html"
+    "https://www.faz.net/aktuell/politik/inland/israels-botschafter-fordert-mehr-haerte-gegen-linken-antisemitismus-accg-200375858.html",
+    "https://www.deutschlandfunk.de/us-militaer-fliegt-angriffe-auf-70-ziele-hegseth-vergeltung-gegen-is-attacke-102.html",
+    "https://www.deutschlandfunk.de/prosor-linker-antisemitismus-ist-der-gefaehrlichste-100.html",
+    "https://www.faz.net/aktuell/politik/inland/justizministerin-hubig-will-anstieg-bei-indexmieten-deckeln-accg-200375935.html",
+    "https://www.faz.net/aktuell/politik/inland/cdu-sicherheitsexperte-haelt-mehr-bnd-befugnisse-fuer-unabdingbar-accg-200375911.html"
   ],
   "content_hashes": [
-    "6e332432369e92daaf2d202cc5eff5c1",
-    "530e3ea088f119490ee88bf2e3ba2dc3",
-    "3d57ba2ad0ba3893782450d6528dd50e",
-    "23814a8880fe9eaec5dfc87b86c0033f",
     "cd8d4a2893a63b0f521ba7f7fe163f10",
     "58346ff075b3190d617f93f10684d758",
     "0cec16a5a3a3523648261e5b1f209caf",
@@ -2001,13 +1997,13 @@
     "6e371541266065699baa97717e1b9be5",
     "b778b7d8136047b54948d06922477634",
     "33c3ddf6109d4a1fb960df9db91d6a08",
-    "e0a8be421cf5734fd8f5f7a3ec71c4b8"
+    "e0a8be421cf5734fd8f5f7a3ec71c4b8",
+    "fe2dc46270939ae1cce34d6f598d9bd5",
+    "7e6ad46b66c1d82c78807aad062b70f8",
+    "969e454a861dad88e23e2a5161ce03d0",
+    "8b7ae5a6426e044644f17ae6b46faf25"
   ],
   "titles": [
-    "Koalitionsausschuss - Medienberichte: Rentenpaket soll bleiben, weitere Reformen angepeilt",
-    "\"Aktion Mensch\" - Lage auf Arbeitsmarkt verschlechtert sich für Menschen mit Behinderung",
-    "Livestream: Kommt es zu einer Einigung im Rentenstreit?",
-    "Bundestag - Debatte über Sozialhaushalt - AfD: \"Politik überfordert die Sozialsysteme\"",
     "Statistik - Abnahme der Arbeitslosigkeit im November",
     "Medienbericht - Mindestens fünf Tote durch israelische Angriffe im Süden Syriens",
     "Ukraine - Durchsuchungen der Anti-Korruptionsbehörde bei Präsidialamtsleiter Jermak",
@@ -3003,13 +2999,13 @@
     "Afrika - UNO-Sicherheitsrat verlängert Friedensmission in DR Kongo um ein Jahr",
     "Nachrichtendienste - Chef des Parlamentarischen Kontrollgremiums will BND stärken",
     "Syrien - Hegseth: \"US-Militär fliegt Vergeltungsangriff auf den IS\"",
-    "Ron Prosor: Israels Botschafter fordert mehr Härte gegen linken Antisemitismus"
+    "Ron Prosor: Israels Botschafter fordert mehr Härte gegen linken Antisemitismus",
+    "Syrien - US-Militär fliegt Angriffe auf 70 Ziele - Hegseth: \"Vergeltung gegen IS-Attacke\"",
+    "Israels Botschafter - Prosor \"Linker Antisemitismus ist der gefährlichste\"",
+    "Wohnungsmarkt: Justizministerin Hubig will Anstieg bei Indexmieten deckeln",
+    "Bundesnachrichtendienst: CDU-Sicherheitsexperte hält mehr BND-Befugnisse für unabdingbar"
   ],
   "hashes": [
-    "9cca92120f4005c3b36e9dd55b0b095c",
-    "83f16c58ec4fede6bab166e044cfe92b",
-    "cf5a6544b16139ef5aeb928e99669c82",
-    "0c5cb18ff105896418804c39cad35d0d",
     "8a08fd3bad784148874f0dc67ccaf0f0",
     "f08efcfdd1edfcfc29c23a9a47f1cef2",
     "96e61a0353088d7df0233d371d397ecf",
@@ -4005,6 +4001,10 @@
     "83431330dedad3727494f8457b1ca2aa",
     "2825948b63974e8e577c9c812c67bb66",
     "ca9a343e1e12f75cdb899672e9ed273b",
-    "b5ca7cacd07f553ef079319221c72ad6"
+    "b5ca7cacd07f553ef079319221c72ad6",
+    "e75c08f5063218e3d41686c9acc72f4f",
+    "43bf1591eb087237f4e6fec1e81dccce",
+    "a5866928baa17ea40d77a5b107bf282f",
+    "6e0b1a18dbc8abee2ee45332fb56ff46"
   ]
 }
