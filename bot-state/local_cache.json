@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/jugendliche-aus-hessen-sollen-rechtsextremen-anschlag-geplant-haben-anklage-110793357.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-rechnet-mit-zustimmung-zum-rentenpaket-faz-110093143.html",
     "https://www.deutschlandfunk.de/beratungen-ueber-arbeits-und-sozialbudget-gesamtetat-wird-am-nachmittag-abgestimmt-100.html",
     "https://www.deutschlandfunk.de/steinmeier-beendet-staatsaufenthalt-in-spanien-mit-besuch-in-guernica-102.html",
     "https://www.deutschlandfunk.de/gemischte-reaktionen-auf-koalitionsbeschluss-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/milliardenbelastung-offenbar-auch-fuer-deutschland-zu-erwarten-100.html",
     "https://www.deutschlandfunk.de/nasa-verliert-kontakt-zu-mars-sonde-maven-100.html",
     "https://www.deutschlandfunk.de/ukraine-gespraeche-gehen-in-die-naechste-runde-102.html",
-    "https://www.spiegel.de/netzwelt/memes-und-social-media-trends-die-2025-gepraegt-haben-von-labubu-bis-italian-brainrot-a-150aed64-73c2-48a3-825a-0232a5e8ac17#ref=rss"
+    "https://www.spiegel.de/netzwelt/memes-und-social-media-trends-die-2025-gepraegt-haben-von-labubu-bis-italian-brainrot-a-150aed64-73c2-48a3-825a-0232a5e8ac17#ref=rss",
+    "https://www.deutschlandfunk.de/hubig-plant-begrenzung-auf-3-5-prozent-pro-jahr-einschraenkungen-auch-fuer-kurzzeitvermietungen-104.html",
+    "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-108.html"
   ],
   "content_hashes": [
-    "17d7f081cc9b52fdbfbecd2d7660252b",
-    "8d11ccd4c47f88144d7d259400993ec3",
     "a3b1c6a34224ede77a508ba65d7d4749",
     "5c0bddb3ed013c3ae7002ec9da7c58fe",
     "9c7b649680acaeeba5a29378313c9010",
@@ -2001,11 +1999,11 @@
     "689cb27273c4c433e6973d4147b5a828",
     "b259dd46d49974e213970bad037e8391",
     "04cb52713cd14757d1adc7d970129ca1",
-    "bc3b76dad5e449f495c49291b94b3e10"
+    "bc3b76dad5e449f495c49291b94b3e10",
+    "113b10cfaded2a5a3a2dbad65635c7b2",
+    "b69b539d0800cec853c625e2201e463d"
   ],
   "titles": [
-    "Rechtsextreme Motive: Jugendliche wegen Anschlagsplänen angeklagt",
-    "Liveblog Bundespolitik: Merz rechnet mit Zustimmung zum Rentenpaket",
     "Bundestag - Beratungen über Arbeits- und Sozialbudget - Gesamtetat wird am Nachmittag abgestimmt",
     "Bundespräsident - Steinmeier beendet Staatsaufenthalt in Spanien mit Besuch in Guernica",
     "Rentenpläne - Gemischte Reaktionen auf Koalitionsbeschluss",
@@ -3003,11 +3001,11 @@
     "Neuer Ukraine-Kredit der EU - Milliardenbelastung offenbar auch für Deutschland zu erwarten",
     "Raumfahrt - Nasa verliert Kontakt zu Mars-Sonde \"Maven\"",
     "Treffen in Miami - Ukraine-Gespräche gehen in die nächste Runde",
-    "Memes und Social-Media-Trends, die 2025 geprägt haben: Von Labubu bis »Italian Brainrot«"
+    "Memes und Social-Media-Trends, die 2025 geprägt haben: Von Labubu bis »Italian Brainrot«",
+    "Indexmieten - Hubig plant Begrenzung auf 3,5 Prozent pro Jahr - Einschränkungen auch für Kurzzeitvermietungen",
+    "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt"
   ],
   "hashes": [
-    "feed94c5f6506230012bda12aa2d114a",
-    "9def0f90b6a653055e7b1ae00b4ab46c",
     "33347762f537f0cab60d0d5b86b99e54",
     "b8075f040e3ea69c297142ea377ceb6a",
     "095ab23811e68c929a187ceac17f4935",
@@ -4005,6 +4003,8 @@
     "73ffe40b5a427c6e727e66baec9707f4",
     "19b56fa841ac2b85dace11c174544e3d",
     "b3f927511f185c7aa0da22f567d9d0aa",
-    "c699e688dee1f9ebaff52766e1310c79"
+    "c699e688dee1f9ebaff52766e1310c79",
+    "fdab466f32b5d21adeaf089bd205570e",
+    "331e0591609aa710ad4f685732d63430"
   ]
 }
