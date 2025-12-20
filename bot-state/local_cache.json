@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/rente-friedrich-merz-und-markus-soeder-umschmeicheln-junge-abgeordnete-a-a564763c-89a0-4156-990c-a6c1da43d6bf#ref=rss",
-    "https://www.deutschlandfunk.de/internationaler-strafgerichtshof-philippinischer-ex-praesident-duterte-bleibt-in-haft-100.html",
     "https://www.deutschlandfunk.de/gemischte-reaktionen-auf-rentenbeschluss-100.html",
     "https://www.deutschlandfunk.de/laut-schaetzungen-jeder-sechste-mensch-betroffen-who-startet-kampagne-gegen-unfruchtbarkeit-102.html",
     "https://www.deutschlandfunk.de/wadephul-sagt-tuerkei-neuen-anlauf-fuer-eu-beitritt-zu-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-108.html",
     "https://www.deutschlandfunk.de/us-militaer-fliegt-angriffe-auf-70-ziele-in-syrien-hegseth-vergeltung-gegen-is-attacke-100.html",
     "https://www.deutschlandfunk.de/zweiter-startversuch-fuer-zwei-deutsche-mit-blue-origins-rakete-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/nach-terror-in-sydney-juden-muessen-geschuetzt-werden-110805889.html"
+    "https://www.faz.net/aktuell/politik/ausland/nach-terror-in-sydney-juden-muessen-geschuetzt-werden-110805889.html",
+    "https://www.deutschlandfunk.de/russischer-angriff-auf-odessa-und-ukrainische-angriffe-im-kaspischen-meer-102.html",
+    "https://www.aljazeera.com/video/talk-to-al-jazeera/2025/12/20/uruguays-fm-on-us-claims-to-police-latin-america-and-rising-tensions?traffic_source=rss"
   ],
   "content_hashes": [
-    "60048116cc11a816a6b78dba786124f5",
-    "1143838dae401f0c83981dcc4a59f870",
     "6104a6a455c5133926dc6ff68ae9bc06",
     "1e6d5587d48c9502f25adace4011ce71",
     "0b41c7c1cc9aad84ec9343e165a3f6c1",
@@ -2001,11 +1999,11 @@
     "b69b539d0800cec853c625e2201e463d",
     "57f9bb58ed2c105339d671dd847aa875",
     "60d8b0c17cb48101a8cc0222e40dc67d",
-    "c55af129d32e45adab28fda4be9464e7"
+    "c55af129d32e45adab28fda4be9464e7",
+    "e3f1104b0b25eead5ed27fef65e1fa85",
+    "58df0b35e4e6b4c015f7ffcbb93bec91"
   ],
   "titles": [
-    "Rente: Friedrich Merz und Markus Söder umschmeicheln junge Abgeordnete",
-    "Den Haag - Internationaler Strafgerichtshof: Philippinischer Ex-Präsident Duterte bleibt in Haft",
     "Von \"guter Kompromissansatz\" bis \"schwerer Fehler\" - Gemischte Reaktionen auf Rentenbeschluss",
     "Leitfaden - Laut Schätzungen jeder sechste Mensch betroffen: WHO startet Kampagne gegen Unfruchtbarkeit",
     "Berlin - Wadephul sagt Türkei neuen Anlauf für EU-Beitritt zu",
@@ -3003,11 +3001,11 @@
     "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt",
     "Regionalkommando Centcom - US-Militär fliegt Angriffe auf 70 Ziele in Syrien - Hegseth: \"Vergeltung gegen IS-Attacke\"",
     "Raumfahrt - Zweiter Startversuch für zwei Deutsche mit Blue-Origins-Rakete",
-    "Terror in Sydney: Juden müssen geschützt werden"
+    "Terror in Sydney: Juden müssen geschützt werden",
+    "Ukraine-Krieg - Russischer Angriff auf Odessa und ukrainische Angriffe im Kaspischen Meer",
+    "Uruguay’s FM on US claims to police Latin America and rising tensions"
   ],
   "hashes": [
-    "691fafe4b2991aeb1396280e174084ac",
-    "8dc70f276239510ceeaf6fa1658c0fe8",
     "8a7a1102f39bef8b909ec3ae4793c3fb",
     "4d6953136fdb05d0d6a5907889e045e8",
     "002426fedbf93b09977af764e81568d5",
@@ -4005,6 +4003,8 @@
     "331e0591609aa710ad4f685732d63430",
     "a17dd9021bc31064db3e01d1ba4f0da6",
     "39d048e45e60c69079de3a2f01dabbe3",
-    "dd0aa2cc11714ca6c6b3d0dd9b77572c"
+    "dd0aa2cc11714ca6c6b3d0dd9b77572c",
+    "c1911eb6835037864673ff284faf1853",
+    "e23d9105ebedded25a04e6fffac258b1"
   ]
 }
