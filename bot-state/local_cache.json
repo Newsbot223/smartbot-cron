@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanada-will-oelpipeline-zum-pazifik-bauen-mehr-unabhaengigkeit-von-usa-104.html",
-    "https://www.deutschlandfunk.de/praesident-trump-kuendigt-aufhebung-fast-aller-dekrete-bidens-an-104.html",
-    "https://www.faz.net/aktuell/politik/inland/konsularbeamte-in-deutschland-die-taliban-kommen-110792847.html",
     "https://www.deutschlandfunk.de/spd-europa-abgeordneter-woelken-kritisiert-deutsche-aenderungsvorschlaege-zum-verbrenner-aus-100.html",
     "https://www.faz.net/aktuell/politik/ausland/leos-tuerkei-reise-zurueckhaltender-gegenueber-erdogan-110793890.html",
     "https://www.aljazeera.com/video/inside-story/2025/11/28/could-conscription-return-in-europe?traffic_source=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/hauptbahnhof-stuttgart-nach-evakuierung-wieder-freigegeben-100.html",
     "https://www.deutschlandfunk.de/usa-beschlagnahmen-erneut-einen-tanker-mit-oel-aus-venezuela-100.html",
     "https://www.deutschlandfunk.de/brasiliens-praesident-fordert-mehr-mut-von-den-europaeern-100.html",
-    "https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss"
+    "https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss",
+    "https://www.deutschlandfunk.de/bericht-regierung-will-internet-anbieter-zu-speicherung-von-ip-adressen-verpflichten-100.html",
+    "https://www.deutschlandfunk.de/einige-veroeffentlichte-datensaetze-der-epstein-akten-offenbar-wieder-von-der-internetseite-des-us-j-100.html",
+    "https://www.spiegel.de/politik/antisemitismus-schuster-hofft-auf-neuen-aufstand-der-anstaendigen-in-deutschland-a-4ec6b734-4335-4c31-85dc-02286a6d821a#ref=rss"
   ],
   "content_hashes": [
-    "77dc0f4ab9eb385edd97ef54d2270777",
-    "797eece0a1b02157ac125ce2120c5f1f",
-    "a2b6c82eb69a3d78377d68bc783aee41",
     "c1e4870b056e0afa26103773c4e7086f",
     "474d9bb2dd871c96627f54f726a015ab",
     "8f180652a6b9d6a1b57640814b2b7aca",
@@ -2001,12 +1998,12 @@
     "4fd0c8bb846f571edc7e915ac1f43d53",
     "c3a609ee5c6315f7df0b9370d2760f5d",
     "e697c3f08541babb365ec06f261b1d8a",
-    "7d5715b727ccbc86247dbacadb3e5cec"
+    "7d5715b727ccbc86247dbacadb3e5cec",
+    "fc92079763d1566b34a1909f0833fb4d",
+    "19e0f24e952f97694f3210feaba6b846",
+    "094197badec1ab4108845fbf7ab7520a"
   ],
   "titles": [
-    "Energie - Kanada will Ölpipeline zum Pazifik bauen - mehr Unabhängigkeit von USA",
-    "USA - Präsident Trump kündigt Aufhebung fast aller Dekrete Bidens an",
-    "Konsularbeamte in Deutschland: „Die Taliban kommen“",
     "Klimapolitik - SPD-Europa-Abgeordneter Wölken kritisiert deutsche Änderungsvorschläge zum Verbrenner-Aus",
     "Türkei-Reise: Leos Bewährungsprobe",
     "Could conscription return in Europe?",
@@ -3003,12 +3000,12 @@
     "Verdächtiges Gepäckstück - Hauptbahnhof Stuttgart nach Evakuierung wieder freigegeben",
     "Karibik - USA beschlagnahmen erneut einen Tanker mit Öl aus Venezuela",
     "Mercosur-Abkommen - Brasiliens Präsident fordert mehr Mut von den Europäern",
-    "Russia-Ukraine war: List of key events, day 1,396"
+    "Russia-Ukraine war: List of key events, day 1,396",
+    "Kriminalität im Netz - Bericht: Regierung will Internet-Anbieter zu Speicherung von IP-Adressen verpflichten",
+    "Missbrauchsskandal - Einige veröffentlichte Datensätze der Epstein-Akten offenbar wieder von der Internetseite des US-Justizministeriums entfernt",
+    "Antisemitismus: Schuster hofft auf »neuen Aufstand der Anständigen« in Deutschland"
   ],
   "hashes": [
-    "5a8407ffe6abd3247fe0806685333e55",
-    "a66ba39351d12f1ccd4da9f82e90cbbc",
-    "8830a1bfce709e55d21cace0c3543266",
     "a372ef417f597a8a960d543eb40b69fc",
     "5208e2fac407ec1f0055fbfcab36e33b",
     "dc6734e986294a6bff6d28bf54135474",
@@ -4005,6 +4002,9 @@
     "3864bd315c4bd743b5f6bb183629e390",
     "cd3af42f187a1148577e9b2eca8d81d1",
     "c705b5f4b0b8b1d11c0f54c6a890197f",
-    "b338f6354aa3ed2d4dfea0cddf081d5a"
+    "b338f6354aa3ed2d4dfea0cddf081d5a",
+    "b60d11e1d2a97fab7de233a01efdb9a3",
+    "eada97bd7b731c13f52339c40d3e767f",
+    "d92d6764d1da6925931e345a5091ef69"
   ]
 }
