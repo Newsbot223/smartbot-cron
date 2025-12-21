@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kiew-meldet-erneut-russische-angriffe-100.html",
-    "https://www.deutschlandfunk.de/soziologe-nachtwey-erwartet-weitere-debatten-ueber-brandmauer-102.html",
     "https://www.deutschlandfunk.de/proteste-gegen-gruendung-von-neuer-afd-jugendorganisation-100.html",
     "https://www.faz.net/aktuell/politik/inland/neue-afd-jugend-alles-ganz-harmlos-110793528.html",
     "https://www.faz.net/aktuell/politik/inland/berliner-spd-noch-zu-retten-110792717.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/enquetekommission-das-darf-kein-corona-tribunal-werden-110806017.html",
     "https://www.faz.net/aktuell/politik/inland/schuster-hofft-auf-mehr-einsatz-gegen-antisemitismus-accg-200377575.html",
     "https://www.deutschlandfunk.de/missbrauchsskandal-einige-veroeffentlichte-datensaetze-der-epstein-akten-offenbar-wieder-von-der-int-100.html",
-    "https://www.deutschlandfunk.de/hunderttausende-menschen-vertrieben-102.html"
+    "https://www.deutschlandfunk.de/hunderttausende-menschen-vertrieben-102.html",
+    "https://www.deutschlandfunk.de/vermoegen-von-elon-musk-betraegt-749-milliarden-euro-100.html",
+    "https://www.deutschlandfunk.de/hilfswerk-missio-115-entfuehrte-kinder-in-nigeria-freigelassen-100.html"
   ],
   "content_hashes": [
-    "decce93f064bbd265f88c9f39ef3fec9",
-    "4c478044c983168432525566b6ec3c5e",
     "fe1bca5ffd06dcf1c228f9b1a31687be",
     "5104152f3a6f6aba629f964c0da0583a",
     "9dec480d1f5a6c1e7d23a0dce4036553",
@@ -2001,11 +1999,11 @@
     "7073966da6d670b7d46443d730372463",
     "bf9c9c571a17f5a13670a89ab263ab32",
     "40eae0414e4c695de51985f2cb0fd9c3",
-    "507ff044a5d834e8fcd4077ae78ab073"
+    "507ff044a5d834e8fcd4077ae78ab073",
+    "3f5f802f811095d3b25399d49cb27b11",
+    "326894d6e8aafe1a7b40b3c88ace723d"
   ],
   "titles": [
-    "Krieg gegen die Ukraine - Kiew meldet erneut russische Angriffe",
-    "AfD - Soziologe Nachtwey erwartet weitere Debatten über \"Brandmauer\"",
     "Gießen - Proteste gegen Gründung von neuer AfD-Jugendorganisation",
     "„Remigration!“: Alles ganz harmlos bei der neuen AfD-Jugend?",
     "Konflikte und Umfragetief: Ist die Berliner SPD noch zu retten?",
@@ -3003,11 +3001,11 @@
     "Spahn vor Enquetekommission: Das darf kein Corona-Tribunal werden!",
     "Zentralrat der Juden: Schuster hofft auf mehr Einsatz gegen Antisemitismus",
     "Missbrauchsskandal\n    Einige veröffentlichte Datensätze der Epstein-Akten offenbar wieder von der Internetseite des US-Justizministeriums entfernt",
-    "Grenzkonflikt zwischen Thailand und Kambodscha - Hunderttausende Menschen vertrieben"
+    "Grenzkonflikt zwischen Thailand und Kambodscha - Hunderttausende Menschen vertrieben",
+    "Forbes-Bericht - Vermögen von Elon Musk beträgt 749 Milliarden Euro",
+    "Nigeria - Hilfswerk missio: 115 entführte Kinder in Nigeria freigelassen"
   ],
   "hashes": [
-    "b0cc3ed932ffc14679b120a10ad002b3",
-    "d0402ed5e4e7e924adc2bf4815c785f9",
     "7bc57b81dfaee24260a128f39066ccae",
     "56a69ea2ae120faa5e3e112e265cde8c",
     "462eefe56af9bddcab503830a7ab5baf",
@@ -4005,6 +4003,8 @@
     "9bfa0c07e522106680cc2baf3ede327b",
     "3850d94381cba57c4752be3be3e50c4e",
     "9150b246b37aba29ce053f64dc4c39df",
-    "e6d7af40323ebcc879dd69cd104248b8"
+    "e6d7af40323ebcc879dd69cd104248b8",
+    "fb386f0fac0511df658ba3bddf4c1179",
+    "df472f9706ddd21d9e692e90d9d95d1a"
   ]
 }
