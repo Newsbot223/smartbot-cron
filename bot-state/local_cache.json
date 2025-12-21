@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/papst-leo-xiv-besichtigt-blaue-moschee-in-istanbul-100.html",
-    "https://www.deutschlandfunk.de/stromausfall-in-kiew-nach-russischen-angriffen-102.html",
     "https://www.deutschlandfunk.de/laut-bayerischem-ju-vorsitzenden-knoll-ist-zustimmung-der-jungen-gruppe-nicht-gesichert-100.html",
     "https://www.deutschlandfunk.de/drogenbeauftragter-streeck-warnt-vor-gefahr-synthetischer-drogen-102.html",
     "https://www.deutschlandfunk.de/gruene-beraten-ueber-klimaschutz-und-energiewende-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/san-francisco-nach-brand-im-umspannwerk-130-000-haushalte-zwischenzeitlich-ohne-strom-102.html",
     "https://www.deutschlandfunk.de/regierung-will-internet-anbieter-zu-speicherung-von-ip-adressen-verpflichten-100.html",
     "https://www.deutschlandfunk.de/weitere-ukraine-gespraeche-in-florida-putin-wohl-zu-gespraech-mit-macron-bereit-100.html",
-    "https://www.deutschlandfunk.de/israelisches-kabinett-genehmigt-weitere-siedlungen-im-westjordanland-102.html"
+    "https://www.deutschlandfunk.de/israelisches-kabinett-genehmigt-weitere-siedlungen-im-westjordanland-102.html",
+    "https://www.deutschlandfunk.de/knapp-ueber-100-000-visa-fuer-familiennachzug-102.html",
+    "https://www.faz.net/aktuell/politik/inland/gegen-taeter-im-netz-ip-adressen-sollen-fuer-drei-monate-gespeichert-werden-accg-200377976.html"
   ],
   "content_hashes": [
-    "5e33526d28e733f06dfd2197f1eb6605",
-    "fa4afab48460c7e1078205e3578e58e0",
     "bd51757c6e6479636b86fac0d473aee6",
     "317a42511612fe00b634d0d83dba3557",
     "d7e2b25bc3e1a0ef0f772f6157de9f76",
@@ -2001,11 +1999,11 @@
     "af782cad14c3a0f76b58fac335abaf4b",
     "f2216c452ddeea5ebae330f8609e2deb",
     "5a1e7f222fee9c3b1d2d2698569160cd",
-    "fddee9de0d55786af2bb859366331a52"
+    "fddee9de0d55786af2bb859366331a52",
+    "86f5875092110bc69b36ca437c597d70",
+    "8f58aa27aefd20a969bb7798c0813086"
   ],
   "titles": [
-    "Türkei-Besuch - Papst Leo XIV. besichtigt Blaue Moschee in Istanbul",
-    "Krieg gegen die Ukraine - Stromausfall in Kiew nach russischen Angriffen",
     "Rentenreform - Laut bayerischem JU-Vorsitzenden Knoll ist Zustimmung der Jungen Gruppe nicht gesichert",
     "Interview der Woche - Drogenbeauftragter Streeck warnt vor Gefahr synthetischer Drogen",
     "Bundesparteitag in Hannover - Grüne beraten über Klimaschutz und Energiewende",
@@ -3003,11 +3001,11 @@
     "USA - San Francisco: Nach Brand im Umspannwerk 130.000 Haushalte zwischenzeitlich ohne Strom",
     "Kriminalität im Netz - Regierung will Internet-Anbieter zu Speicherung von IP-Adressen verpflichten",
     "USA - Weitere Ukraine-Gespräche in Florida - Putin wohl zu Gespräch mit Macron bereit",
-    "Palästinensergebiete - Israelisches Kabinett genehmigt weitere Siedlungen im Westjordanland"
+    "Palästinensergebiete - Israelisches Kabinett genehmigt weitere Siedlungen im Westjordanland",
+    "Medienbericht - Knapp über 100.000 Visa für Familiennachzug",
+    "Gegen Kriminelle im Netz: Hubig plant Speicherung von IP-Adressen für drei Monate"
   ],
   "hashes": [
-    "2f7abaa6190447a23f8e1679309d7fa3",
-    "cab7d7e0ca3a638fd57183a48fd81ed4",
     "8e2bbb2f9c0bc8d287af549e5127c44e",
     "a2dcd06339e2399d52bcc42b62a19367",
     "1d2d5fed71141df5fa7c7a1c2f7715f8",
@@ -4005,6 +4003,8 @@
     "3fd86adad4d018a62fcdc36ac09763fd",
     "a993088502475ec11d5c79f86ad1e284",
     "0c9a281eec7a61237b92f6d524740431",
-    "0cbf62e0c86d86d5d47cb57d5b272386"
+    "0cbf62e0c86d86d5d47cb57d5b272386",
+    "9095e35b1570143ea49ad03c69093ab6",
+    "5d822b1742217b7d8c4378d1b1ad39a8"
   ]
 }
