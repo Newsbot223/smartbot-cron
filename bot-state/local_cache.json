@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/neue-afd-jugend-alles-ganz-harmlos-110793528.html",
-    "https://www.faz.net/aktuell/politik/inland/berliner-spd-noch-zu-retten-110792717.html",
     "https://www.deutschlandfunk.de/tausende-airbus-flugzeuge-benoetigen-neue-software-100.html",
     "https://www.deutschlandfunk.de/laut-bayerischem-ju-vorsitzende-knoll-ist-zustimmung-der-jungen-gruppe-nicht-gesichert-100.html",
     "https://www.deutschlandfunk.de/papst-leo-xiv-besichtigt-blaue-moschee-in-istanbul-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/hunderttausende-menschen-vertrieben-102.html",
     "https://www.deutschlandfunk.de/vermoegen-von-elon-musk-betraegt-749-milliarden-euro-100.html",
     "https://www.deutschlandfunk.de/hilfswerk-missio-115-entfuehrte-kinder-in-nigeria-freigelassen-100.html",
-    "https://www.deutschlandfunk.de/interview-baetzing-georg-bischof-vorsitzender-der-deutschen-bischofskonferenz-100.html"
+    "https://www.deutschlandfunk.de/interview-baetzing-georg-bischof-vorsitzender-der-deutschen-bischofskonferenz-100.html",
+    "https://www.deutschlandfunk.de/san-francisco-nach-brand-im-umspannwerk-130-000-haushalte-zwischenzeitlich-ohne-strom-102.html",
+    "https://www.deutschlandfunk.de/regierung-will-internet-anbieter-zu-speicherung-von-ip-adressen-verpflichten-100.html"
   ],
   "content_hashes": [
-    "5104152f3a6f6aba629f964c0da0583a",
-    "9dec480d1f5a6c1e7d23a0dce4036553",
     "67740ca1220c05ee55c1037ac8f42243",
     "969fa2b63a99cca8f5845d85770e879a",
     "5e33526d28e733f06dfd2197f1eb6605",
@@ -2001,11 +1999,11 @@
     "507ff044a5d834e8fcd4077ae78ab073",
     "3f5f802f811095d3b25399d49cb27b11",
     "326894d6e8aafe1a7b40b3c88ace723d",
-    "96ee40923acb77b1c79d3d228935e900"
+    "96ee40923acb77b1c79d3d228935e900",
+    "af782cad14c3a0f76b58fac335abaf4b",
+    "f2216c452ddeea5ebae330f8609e2deb"
   ],
   "titles": [
-    "„Remigration!“: Alles ganz harmlos bei der neuen AfD-Jugend?",
-    "Konflikte und Umfragetief: Ist die Berliner SPD noch zu retten?",
     "Luftfahrt - Tausende Airbus-Flugzeuge benötigen neue Software",
     "Rentenreform - Laut bayerischem JU-Vorsitzende Knoll ist Zustimmung der Jungen Gruppe nicht gesichert",
     "Türkei-Besuch - Papst Leo XIV. besichtigt Blaue Moschee in Istanbul",
@@ -3003,11 +3001,11 @@
     "Grenzkonflikt zwischen Thailand und Kambodscha - Hunderttausende Menschen vertrieben",
     "Forbes-Bericht - Vermögen von Elon Musk beträgt 749 Milliarden Euro",
     "Nigeria - Hilfswerk missio: 115 entführte Kinder in Nigeria freigelassen",
-    "Katholische Kirche - Bischof Georg Bätzing wirft der AfD Menschenverachtung vor"
+    "Katholische Kirche - Bischof Georg Bätzing wirft der AfD Menschenverachtung vor",
+    "USA - San Francisco: Nach Brand im Umspannwerk 130.000 Haushalte zwischenzeitlich ohne Strom",
+    "Kriminalität im Netz - Regierung will Internet-Anbieter zu Speicherung von IP-Adressen verpflichten"
   ],
   "hashes": [
-    "56a69ea2ae120faa5e3e112e265cde8c",
-    "462eefe56af9bddcab503830a7ab5baf",
     "a243a30ae87c7535d20e0618bcc80481",
     "7eda8fe377db05e35ef715649bc47613",
     "2f7abaa6190447a23f8e1679309d7fa3",
@@ -4005,6 +4003,8 @@
     "e6d7af40323ebcc879dd69cd104248b8",
     "fb386f0fac0511df658ba3bddf4c1179",
     "df472f9706ddd21d9e692e90d9d95d1a",
-    "d06d28142514393f99ac12f08df251f9"
+    "d06d28142514393f99ac12f08df251f9",
+    "3fd86adad4d018a62fcdc36ac09763fd",
+    "a993088502475ec11d5c79f86ad1e284"
   ]
 }
