@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesparteitag-der-gruenen-vorsitzende-brantner-wirft-regierung-politik-zu-lasten-junger-menschen-v-102.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-wirbt-fuer-rentenpaket-vertraut-der-spd-110794031.html",
     "https://www.deutschlandfunk.de/kanada-will-oelpipeline-zum-pazifik-bauen-mehr-unabhaengigkeit-von-usa-104.html",
     "https://www.deutschlandfunk.de/praesident-trump-kuendigt-aufhebung-fast-aller-dekrete-bidens-an-104.html",
     "https://www.faz.net/aktuell/politik/inland/konsularbeamte-in-deutschland-die-taliban-kommen-110792847.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zwei-tote-bei-israelischen-militaereinsaetzen-im-westjordanland-102.html",
     "https://www.deutschlandfunk.de/kirchen-positionen-zu-migration-nur-noch-mit-gruenen-und-linken-decklungsgleich-bischof-baetzing-wei-100.html",
     "https://www.deutschlandfunk.de/hauptbahnhof-stuttgart-nach-evakuierung-wieder-freigegeben-100.html",
-    "https://www.deutschlandfunk.de/usa-beschlagnahmen-erneut-einen-tanker-mit-oel-aus-venezuela-100.html"
+    "https://www.deutschlandfunk.de/usa-beschlagnahmen-erneut-einen-tanker-mit-oel-aus-venezuela-100.html",
+    "https://www.deutschlandfunk.de/brasiliens-praesident-fordert-mehr-mut-von-den-europaeern-100.html",
+    "https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss"
   ],
   "content_hashes": [
-    "43d0aba49067e07470fb72c3bbb58b47",
-    "d10ace00d4515e3e665a68c30d40aca0",
     "77dc0f4ab9eb385edd97ef54d2270777",
     "797eece0a1b02157ac125ce2120c5f1f",
     "a2b6c82eb69a3d78377d68bc783aee41",
@@ -2001,11 +1999,11 @@
     "69f4f28827b9bad4085fa22a00927b33",
     "1856fae82fb7f3820503c9c4eed1916a",
     "4fd0c8bb846f571edc7e915ac1f43d53",
-    "c3a609ee5c6315f7df0b9370d2760f5d"
+    "c3a609ee5c6315f7df0b9370d2760f5d",
+    "e697c3f08541babb365ec06f261b1d8a",
+    "7d5715b727ccbc86247dbacadb3e5cec"
   ],
   "titles": [
-    "Hannover - Bundesparteitag der Grünen: Vorsitzende Brantner wirft Regierung Politik zu Lasten junger Menschen vor",
-    "Rentenkonflikt: Der Kanzler bittet: Vertraut der SPD",
     "Energie - Kanada will Ölpipeline zum Pazifik bauen - mehr Unabhängigkeit von USA",
     "USA - Präsident Trump kündigt Aufhebung fast aller Dekrete Bidens an",
     "Konsularbeamte in Deutschland: „Die Taliban kommen“",
@@ -3003,11 +3001,11 @@
     "Nahostkonflikt - Zwei Tote bei israelischen Militäreinsätzen im Westjordanland",
     "Interview der Woche - Kirchen-Positionen zu Migration nur noch mit Grünen und Linken decklungsgleich? Bischof Bätzing weist Vorwurf zurück",
     "Verdächtiges Gepäckstück - Hauptbahnhof Stuttgart nach Evakuierung wieder freigegeben",
-    "Karibik - USA beschlagnahmen erneut einen Tanker mit Öl aus Venezuela"
+    "Karibik - USA beschlagnahmen erneut einen Tanker mit Öl aus Venezuela",
+    "Mercosur-Abkommen - Brasiliens Präsident fordert mehr Mut von den Europäern",
+    "Russia-Ukraine war: List of key events, day 1,396"
   ],
   "hashes": [
-    "3a553c32ad7aafd8abc228b0de8289da",
-    "d42b88a24b33334bf85815274e8f88cd",
     "5a8407ffe6abd3247fe0806685333e55",
     "a66ba39351d12f1ccd4da9f82e90cbbc",
     "8830a1bfce709e55d21cace0c3543266",
@@ -4005,6 +4003,8 @@
     "1e4a65b779dfea4e02ad93765076dc63",
     "0a14329be7d5b2e3c5e01fafa59c608e",
     "3864bd315c4bd743b5f6bb183629e390",
-    "cd3af42f187a1148577e9b2eca8d81d1"
+    "cd3af42f187a1148577e9b2eca8d81d1",
+    "c705b5f4b0b8b1d11c0f54c6a890197f",
+    "b338f6354aa3ed2d4dfea0cddf081d5a"
   ]
 }
