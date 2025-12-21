@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pflegende-angehoerige-warum-sie-oft-am-limit-sind-100.html",
-    "https://www.deutschlandfunk.de/weidel-nennt-proteste-gegen-afd-jugend-zutiefst-undemokratisch-100.html",
     "https://www.deutschlandfunk.de/reiz-des-rechtsextremismus-forscherin-verweist-auf-ueberforderung-einsamkeit-und-vertrauensverluste--100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruendung-der-afd-jugend-in-giessen-faz-110093143.html",
     "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-ganzen-reihe-von-problemen-gefuehrt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ausland/epstein-akten-das-justizministerium-wird-zu-trumps-kanzlei-110806841.html",
     "https://www.faz.net/aktuell/politik/inland/vorratsdatenspeicherung-kampf-um-einen-popanz-110806902.html",
     "https://www.deutschlandfunk.de/ukraine-kuendigt-weitere-gespraechsrunde-mit-us-vertretern-an-102.html",
-    "https://www.deutschlandfunk.de/asean-staaten-befassen-sich-mit-thailand-kambodscha-konflikt-104.html"
+    "https://www.deutschlandfunk.de/asean-staaten-befassen-sich-mit-thailand-kambodscha-konflikt-104.html",
+    "https://www.deutschlandfunk.de/unterhaendler-berichten-von-konstruktiven-gespraechen-102.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukrainegespraeche-anreize-fuer-putins-gewaltpolitik-110806932.html"
   ],
   "content_hashes": [
-    "37c96bdd19446bf8cbeb5c69e46e228a",
-    "b6987a6154fd1954c5b9b098a1c3d95e",
     "67b20c3026975511d669537fa0435b92",
     "b7cd3819fc2d6bc5d4b0b3c7e833fa11",
     "6a0bf496267ccf19fa9fde6e787f7cf4",
@@ -2001,11 +1999,11 @@
     "89d6006fa29ac15eae03aae2f298e19c",
     "e0fa5a449f54c15b719ea1c28954b97a",
     "830392664d666f22b411719c60acd5c3",
-    "64a3cfe134821ac07be93a123037dd6b"
+    "64a3cfe134821ac07be93a123037dd6b",
+    "41ac6649e5eee54e78672df72e89fd18",
+    "1d8b58096e5f5f638c279571173a3ef5"
   ],
   "titles": [
-    "Betreuung zu Hause - Warum Angehörige oft am Limit sind",
-    "Gießen - Weidel nennt Proteste gegen AfD-Jugend \"zutiefst undemokratisch\"",
     "Neugründung AfD-Jugend - Reiz des Rechtsextremismus: Forscherin verweist auf Überforderung, Einsamkeit und Vertrauensverluste unter jungen Leuten",
     "Liveblog Bundespolitik: Gauland: „Radikal zu sein ist Ihr Privileg“",
     "Drogenkonsum - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer ganzen Reihe von Problemen geführt",
@@ -3003,11 +3001,11 @@
     "Epstein Files: Das Justizministerium wird Trumps Kanzlei",
     "Vorratsdatenspeicherung: Kampf um einen Popanz",
     "Verhandlungen in Miami - Ukraine kündigt weitere Gesprächsrunde mit US-Vertretern an",
-    "Sondertreffen - Asean-Staaten befassen sich mit Thailand-Kambodscha-Konflikt"
+    "Sondertreffen - Asean-Staaten befassen sich mit Thailand-Kambodscha-Konflikt",
+    "Ukraine-Verhandlungen in Miami - Unterhändler berichten von \"konstruktiven\" Gesprächen",
+    "Ukrainegespräche: Anreize für Putins Gewaltpolitik"
   ],
   "hashes": [
-    "f9982f510ada3e248030a7cf177d9f6b",
-    "8a1d05a8587199e35351ca54a6bd8551",
     "0c36fa021a418ab550405a4bfc90485a",
     "e9173649c9d1d91546e79a75cee27c56",
     "8e42e50120822e734f20f983e6090237",
@@ -4005,6 +4003,8 @@
     "ba3b2a9727b60401180446dac17277fd",
     "d28e301a46a379f6cc090d12263dfcbc",
     "2d314410b162acad48f6b387d059331f",
-    "537728221774d9a11ff7ab809cd471e1"
+    "537728221774d9a11ff7ab809cd471e1",
+    "c7019ffed3f4fc2c9e777c0c620fca81",
+    "1b879468edaccd3d35f7a45fe4d7a001"
   ]
 }
