@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oezdemir-autoindustrie-und-maschinenbau-stehen-vor-historischer-bewaehrungsprobe-102.html",
-    "https://www.deutschlandfunk.de/buendnis-widersetzen-wirft-polizei-massive-gewalt-bei-protesten-gegen-afd-jugend-vor-100.html",
-    "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-reihe-von-problemen-gefuehrt-102.html",
     "https://www.deutschlandfunk.de/papst-setzt-zeichen-fuer-einheit-der-christen-102.html",
     "https://www.deutschlandfunk.de/notaufnahmen-verzeichnen-mehr-schwerverletzte-durch-messergewalt-100.html",
     "https://www.deutschlandfunk.de/diskussion-um-polizeieinsatz-in-giessen-buendnis-widersetzen-spricht-von-massiver-gewalt-hessens-inn-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/missbrauchsbeauftragte-claus-begruesst-plaene-zur-speicherung-von-ip-adressen-100.html",
     "https://www.deutschlandfunk.de/nach-vorstoss-von-ministerpraesident-guenther-bundesfinanzministerium-sieht-keine-grundlage-fuer-zuc-100.html",
     "https://www.deutschlandfunk.de/erneut-russische-angriffe-auf-hafenstadt-odessa-102.html",
-    "https://www.deutschlandfunk.de/kopernikus-buch-aus-dem-16-jahrhundert-in-lund-wiedergefunden-102.html"
+    "https://www.deutschlandfunk.de/kopernikus-buch-aus-dem-16-jahrhundert-in-lund-wiedergefunden-102.html",
+    "https://www.deutschlandfunk.de/eu-ueberweist-weitere-2-3-milliarden-an-kiew-100.html",
+    "https://www.deutschlandfunk.de/bekannter-demokratie-aktivist-duma-an-ausreise-gehindert-100.html",
+    "https://www.deutschlandfunk.de/russischer-generalleutnant-durch-autobombe-getoetet-100.html"
   ],
   "content_hashes": [
-    "fe3bb5349ad6ac2650bed55ad8d8536d",
-    "2dfe1e9573531c7f7605b8ffdf637611",
-    "fddebfb1e8a4499a8cc875c06a81c0bb",
     "25fb15a21214511402c00f2c010f20d6",
     "afdaa2fe770d638a16c053cfaa4fc5a3",
     "3c1b12064851af0872c8bde9668925c9",
@@ -2001,12 +1998,12 @@
     "f2998d81bf79bc9f0874464218924641",
     "63fc80caa6e6aeaea68d05dd28182f99",
     "40ade4665a19e45bb1dddcab17158c05",
-    "6425e8fef0ffeeb85b103e20a1c90833"
+    "6425e8fef0ffeeb85b103e20a1c90833",
+    "ff7c65386365a1b5eeb1dba6d28ad303",
+    "8e78da0ca0549ce09ee89ba4f6a9167a",
+    "ad31fbd093d79abbe778b34bfdb920fe"
   ],
   "titles": [
-    "Bundesparteitag in Hannover - Özdemir: \"Autoindustrie und Maschinenbau stehen vor historischer Bewährungsprobe\"",
-    "Gießen - Bündnis \"Widersetzen\" wirft Polizei massive Gewalt bei Protesten gegen AfD-Jugend vor",
-    "Interview der Woche - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer Reihe von Problemen geführt",
     "Türkei-Besuch - Papst setzt Zeichen für Einheit der Christen",
     "Kriminalität - Notaufnahmen verzeichnen mehr Schwerverletzte durch Messergewalt",
     "Proteste gegen AfD-Jugend - Diskussion um Polizeieinsatz in Gießen - Bündnis \"Widersetzen\" spricht von massiver Gewalt, Hessens Innenminister lobt Beamte",
@@ -3003,12 +3000,12 @@
     "\"Entscheidende Wende\" - Missbrauchsbeauftragte Claus begrüßt Pläne zur Speicherung von IP-Adressen",
     "\"Nicht im Koalitionsvertrag\" - Nach Vorstoß von Ministerpräsident Günther: Bundesfinanzministerium sieht keine Grundlage für Zuckersteuer",
     "Krieg in der Ukraine - Erneut russische Angriffe auf Hafenstadt Odessa",
-    "Schweden - Kopernikus-Buch aus dem 16. Jahrhundert in Lund wiedergefunden"
+    "Schweden - Kopernikus-Buch aus dem 16. Jahrhundert in Lund wiedergefunden",
+    "Finanzhilfen für die Ukraine - EU überweist weitere 2,3 Milliarden an Kiew",
+    "Ägypten - Bekannter Demokratie-Aktivist Duma an Ausreise gehindert",
+    "Moskau - Russischer Generalleutnant durch Autobombe getötet"
   ],
   "hashes": [
-    "28d13921ee3640d63ef2839055f5fd76",
-    "325751855807eb26c20e4b5f884e9489",
-    "7acd18302bf15e81baad9682288a96b0",
     "dcd49a30333ee42ed89d39b525b18bf9",
     "90e46fdee90364f3b54ca05974d51daf",
     "d707e96fd6cd884bc39a01c900bc78bb",
@@ -4005,6 +4002,9 @@
     "ef4672e33dbf945ce4f5ea496135786a",
     "fed0b9de22711872e4b998210c295dc3",
     "93f67b4cc604bd8c99048780ad591ec8",
-    "3a5c8d18e1583ae814c35d53407b3e91"
+    "3a5c8d18e1583ae814c35d53407b3e91",
+    "1c6612b7054b17f82d2dde795fe916c1",
+    "9af81129625e0c7623c4a94345fc0ebc",
+    "f73e668617d68f7aca0328203a6850ba"
   ]
 }
