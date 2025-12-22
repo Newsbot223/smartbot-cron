@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hessens-regierungschef-rhein-cdu-verurteilt-gewalt-bei-protesten-gegen-gruendung-von-afd-jugendorgan-100.html",
-    "https://www.deutschlandfunk.de/gruene-beziehen-position-zu-wehrdienst-ukraine-und-nahost-100.html",
     "https://www.deutschlandfunk.de/gruene-wollen-luxusfluege-mit-extra-abgaben-belegen-102.html",
     "https://www.deutschlandfunk.de/parlamentswahlen-laufen-niedrige-wahlbeteiligung-102.html",
     "https://www.faz.net/aktuell/politik/streit-ueber-wahlergebnis-nicht-sachgerecht-110793889.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/15-grosse-drogen-labore-seit-assad-sturz-geschlossen-100.html",
     "https://www.deutschlandfunk.de/2025-mehr-als-1-000-verdaechtige-drohnenfluege-in-deutschland-festgestellt-102.html",
     "https://www.spiegel.de/wirtschaft/deutsche-autoindustrie-leidet-am-staerksten-unter-us-zoellen-a-bcc7f4a6-9ef5-4e38-9c19-bffd75406c5c#ref=rss",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-haftbefehl-gegen-ehemaligen-cdu-abgeordneten-axel-fischer-erlassen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-haftbefehl-gegen-ehemaligen-cdu-abgeordneten-axel-fischer-erlassen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/anklage-gegen-syrer-wegen-verbrechen-gegen-die-menschlichkeit-und-mord-100.html",
+    "https://www.deutschlandfunk.de/guerillagruppen-in-kolumbien-vereinbaren-waffenruhe-ueber-weihnachten-102.html"
   ],
   "content_hashes": [
-    "f97fecc8305ab6e13db8f3f0baf3c519",
-    "b97ed4280c19cda7116e821d0c5016d7",
     "3b0d6a8354a37eb509099dcadbd84d8f",
     "c47cb0957bcb247e6955c600d93004f2",
     "e0f43fe1e1a48dc2338b81b82e0e5c52",
@@ -2001,11 +1999,11 @@
     "3e45e37f4ab5459d79e66557f34b47a4",
     "576f801a1432c461ea47b2a8ad8a7045",
     "3ed6efc5f1688bb670013496a7859d16",
-    "aace0e6ca8a2ec27d7d51df4c28baa6d"
+    "aace0e6ca8a2ec27d7d51df4c28baa6d",
+    "1d838577bd58ea7ae22d08c5f468490f",
+    "8e2177953220ce5360b9dc49f97e4b74"
   ],
   "titles": [
-    "Gießen - Hessens Regierungschef Rhein (CDU) verurteilt Gewalt bei Protesten gegen Gründung von AfD-Jugendorganisation",
-    "Bundesparteitag in Hannover - Grüne beziehen Position zu Wehrdienst, Ukraine und Nahost",
     "Bundesparteitag in Hannover - Grüne wollen Luxusflüge mit Extra-Abgaben belegen",
     "Kirgisistan - Parlamentswahlen laufen - niedrige Wahlbeteiligung",
     "Streit über Wahlergebnis: Nicht sachgerecht",
@@ -3003,11 +3001,11 @@
     "UNO-Bericht - 15 große Drogen-Labore seit Assad-Sturz geschlossen",
     "Bericht - 2025 mehr als 1.000 \"verdächtige Drohnenflüge\" in Deutschland festgestellt",
     "Trumps Zölle: Deutsche Autoindustrie leidet am stärksten unter US-Zöllen",
-    "Liveblog Bundespolitik: Haftbefehl gegen ehemaligen CDU-Abgeordneten erlassen"
+    "Liveblog Bundespolitik: Haftbefehl gegen ehemaligen CDU-Abgeordneten erlassen",
+    "Bundesanwaltschaft - Anklage gegen Syrer wegen Verbrechen gegen die Menschlichkeit und Mord",
+    "ELN und EMC - Guerillagruppen in Kolumbien vereinbaren Waffenruhe über Weihnachten"
   ],
   "hashes": [
-    "af33e273de94ad43f974c7740f804b4e",
-    "ea1f7336fd20f4019955aa25696a75b6",
     "e9166ca13bddcc6124d7f705b836e9e1",
     "a5aee9c046e462d18ce0372c81e362eb",
     "9da8c998bea762bbfaddfef41d3f2e93",
@@ -4005,6 +4003,8 @@
     "a2edb9d1556a8e412519d91e772f4ec0",
     "8ef51405137cf9e44ab00d01151b3f97",
     "348bde28b21afeae2879b17c32eee290",
-    "2fa39a21e8f90d67bd62aa0be0fa9b8c"
+    "2fa39a21e8f90d67bd62aa0be0fa9b8c",
+    "53f17b9059519d7164c660985e5c33f5",
+    "896b97acfa95952a9b889f903cff573c"
   ]
 }
