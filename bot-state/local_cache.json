@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rubio-und-witkoff-treffen-ukrainische-delegation-100.html",
-    "https://www.deutschlandfunk.de/neues-parlament-wird-gewaehlt-256.html",
-    "https://www.deutschlandfunk.de/luftverteidigung-in-polen-reagiert-auf-russische-kampfjets-bundeswehr-beteiligt-100.html",
     "https://www.deutschlandfunk.de/trump-luftraum-ueber-venezuela-gilt-als-geschlossen-100.html",
     "https://www.deutschlandfunk.de/praesidentschaftswahl-in-honduras-manipulationsvorwuerfe-und-trump-einmischung-100.html",
     "https://www.deutschlandfunk.de/gruene-beziehen-position-zu-wehrdienst-nahost-und-ukraine-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/rahmede-talbruecke-soll-heute-fuer-den-verkehr-freigegeben-werden-100.html",
     "https://www.deutschlandfunk.de/selenskyj-und-witkoff-sprechen-von-konstruktiven-gespraechen-100.html",
     "https://www.deutschlandfunk.de/gericht-laesst-klima-klage-von-vier-indonesischen-fischern-gegen-zementkonzern-zu-100.html",
-    "https://www.deutschlandfunk.de/2025-mehr-1-000-verdaechtige-drohnenfluege-in-deutschland-festgestellt-102.html"
+    "https://www.deutschlandfunk.de/2025-mehr-1-000-verdaechtige-drohnenfluege-in-deutschland-festgestellt-102.html",
+    "https://www.deutschlandfunk.de/russischer-general-durch-autobombe-in-moskau-getoetet-102.html",
+    "https://www.deutschlandfunk.de/kirchlicher-armutsbeauftragter-fordert-mehr-staatliche-hilfe-fuer-arme-menschen-100.html",
+    "https://www.deutschlandfunk.de/gruenen-europaabgeordnete-reintke-noch-keine-bereitschaft-in-moskau-zu-waffenruhe-erkennbar-102.html"
   ],
   "content_hashes": [
-    "5340a81e7d6e8c2f8052d85fd24b8e85",
-    "684af6b4fcd484536cf62e667fb38088",
-    "70c7e956960f73a965a1eb776dcbf5a8",
     "90b399f1330ebf580d4482c0c826fb7d",
     "a95b46274ad5dff17e64d04bbc34def6",
     "4ddb568da3287b8c42a299186658b352",
@@ -2001,12 +1998,12 @@
     "4ef7e53f828108cec01000f80a82d341",
     "10913fde6947a5272cdd5c2901d455a4",
     "ac3552cdf7ae5e4afd1d7ab22de90cd3",
-    "3ef6a024d1b1e2234bde6f2bc5b2ae7c"
+    "3ef6a024d1b1e2234bde6f2bc5b2ae7c",
+    "47cae5a65305b3760e60875bea6627aa",
+    "6322e3139db0ea617d128d92c8899b6b",
+    "fd514b5553601e59b1093495df91d8ec"
   ],
   "titles": [
-    "Ukraine-Krieg - Rubio und Witkoff treffen ukrainische Delegation",
-    "Kirgistan - Neues Parlament wird gewählt",
-    "Medienbericht - Luftverteidigung in Polen reagiert auf russische Kampfjets - Bundeswehr beteiligt",
     "Wachsende Spannungen - Trump: Luftraum über Venezuela gilt als geschlossen",
     "Mittelamerika - Präsidentschaftswahl in Honduras: Manipulationsvorwürfe und Trump-Einmischung",
     "Bundesparteitag in Hannover - Grüne beziehen Position zu Wehrdienst, Nahost und Ukraine",
@@ -3003,12 +3000,12 @@
     "A45 - Rahmede-Talbrücke soll heute für den Verkehr freigegeben werden",
     "Ukraine-Verhandlungen in Miami - Selenskyj und Witkoff sprechen von konstruktiven Gesprächen",
     "Schweiz - Gericht lässt Klima-Klage von vier indonesischen Fischern gegen Zementkonzern zu",
-    "Bericht - 2025 mehr 1.000 \"verdächtige Drohnenflüge\" in Deutschland festgestellt"
+    "Bericht - 2025 mehr 1.000 \"verdächtige Drohnenflüge\" in Deutschland festgestellt",
+    "Moskau - Russischer General durch Autobombe in Moskau getötet",
+    "Berlin - Kirchlicher Armutsbeauftragter fordert mehr staatliche Hilfe für arme Menschen",
+    "Ukraine-Krieg - Grünen-Europaabgeordnete Reintke: Noch keine Bereitschaft in Moskau zu Waffenruhe erkennbar"
   ],
   "hashes": [
-    "46a02468c50b8be1d25fb760591d0785",
-    "2b4c53bc3065b7f08a373feda5bf2fdc",
-    "991cd76367f918bf640e70dbdac0314a",
     "1ca84d60bc7b61d6a915e96cb02c84aa",
     "234e48df3318eea98856f6e75282c6f4",
     "201429c972ecb51d0dbe47829f7edca9",
@@ -4005,6 +4002,9 @@
     "f669da4f641345d8e59bb6453df05b30",
     "59aeccd69840de985229331dafe03c19",
     "3cef116a8f9891eecc9faa1e78133460",
-    "91605afee9aa966f60ebcbd29cc3d8d7"
+    "91605afee9aa966f60ebcbd29cc3d8d7",
+    "31f33807951846abaa51b7d3b9d09d2a",
+    "8696bfd14a9c05cf3b72bb51c4c17091",
+    "c6803514d629b4a945115f045eb5b750"
   ]
 }
