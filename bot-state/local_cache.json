@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/netanjahu-reicht-wegen-korruptionsverfahren-gandengesuch-bei-staatspraesident-herzog-ein-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-toten-auf-146-gestiegen-noch-100-menschen-vermisst-102.html",
     "https://www.deutschlandfunk.de/oezdemir-autoindustrie-und-maschinenbau-stehen-vor-historischer-bewaehrungsprobe-102.html",
     "https://www.deutschlandfunk.de/buendnis-widersetzen-wirft-polizei-massive-gewalt-bei-protesten-gegen-afd-jugend-vor-100.html",
     "https://www.deutschlandfunk.de/streeck-cdu-teillegalisierung-von-cannabis-hat-zu-einer-reihe-von-problemen-gefuehrt-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/russischer-general-durch-autobombe-getoetet-100.html",
     "https://www.deutschlandfunk.de/neue-autobahnbruecke-rahmede-in-suedwestfalen-freigegeben-102.html",
     "https://www.deutschlandfunk.de/missbrauchsbeauftragte-claus-begruesst-plaene-zur-speicherung-von-ip-adressen-100.html",
-    "https://www.deutschlandfunk.de/nach-vorstoss-von-ministerpraesident-guenther-bundesfinanzministerium-sieht-keine-grundlage-fuer-zuc-100.html"
+    "https://www.deutschlandfunk.de/nach-vorstoss-von-ministerpraesident-guenther-bundesfinanzministerium-sieht-keine-grundlage-fuer-zuc-100.html",
+    "https://www.deutschlandfunk.de/erneut-russische-angriffe-auf-hafenstadt-odessa-102.html",
+    "https://www.deutschlandfunk.de/kopernikus-buch-aus-dem-16-jahrhundert-in-lund-wiedergefunden-102.html"
   ],
   "content_hashes": [
-    "7db31ea4635c0a547c8dd56679bf3a00",
-    "64580e1c6f5c7a84a1b9cf7441de6825",
     "fe3bb5349ad6ac2650bed55ad8d8536d",
     "2dfe1e9573531c7f7605b8ffdf637611",
     "fddebfb1e8a4499a8cc875c06a81c0bb",
@@ -2001,11 +1999,11 @@
     "4344987b3a8abfbdaf64d47ca56021d7",
     "b7ee31e1758cd4c0fc851d89b5afee29",
     "f2998d81bf79bc9f0874464218924641",
-    "63fc80caa6e6aeaea68d05dd28182f99"
+    "63fc80caa6e6aeaea68d05dd28182f99",
+    "40ade4665a19e45bb1dddcab17158c05",
+    "6425e8fef0ffeeb85b103e20a1c90833"
   ],
   "titles": [
-    "Israel - Netanjahu reicht wegen Korruptionsverfahren Gandengesuch bei Staatspräsident Herzog ein",
-    "Brandkatastrophe in Hongkong - Zahl der Toten auf 146 gestiegen, noch 100 Menschen vermisst",
     "Bundesparteitag in Hannover - Özdemir: \"Autoindustrie und Maschinenbau stehen vor historischer Bewährungsprobe\"",
     "Gießen - Bündnis \"Widersetzen\" wirft Polizei massive Gewalt bei Protesten gegen AfD-Jugend vor",
     "Interview der Woche - Streeck (CDU): Teillegalisierung von Cannabis hat zu einer Reihe von Problemen geführt",
@@ -3003,11 +3001,11 @@
     "Moskau - Russischer General durch Autobombe getötet",
     "Verkehr - Neue Autobahnbrücke Rahmede in Südwestfalen freigegeben",
     "\"Entscheidende Wende\" - Missbrauchsbeauftragte Claus begrüßt Pläne zur Speicherung von IP-Adressen",
-    "\"Nicht im Koalitionsvertrag\" - Nach Vorstoß von Ministerpräsident Günther: Bundesfinanzministerium sieht keine Grundlage für Zuckersteuer"
+    "\"Nicht im Koalitionsvertrag\" - Nach Vorstoß von Ministerpräsident Günther: Bundesfinanzministerium sieht keine Grundlage für Zuckersteuer",
+    "Krieg in der Ukraine - Erneut russische Angriffe auf Hafenstadt Odessa",
+    "Schweden - Kopernikus-Buch aus dem 16. Jahrhundert in Lund wiedergefunden"
   ],
   "hashes": [
-    "bb9fa055be17d5da8e9ad3df4e58c59a",
-    "1aae88304529b057422cd866ad9e639b",
     "28d13921ee3640d63ef2839055f5fd76",
     "325751855807eb26c20e4b5f884e9489",
     "7acd18302bf15e81baad9682288a96b0",
@@ -4005,6 +4003,8 @@
     "346d6a9dde8348e2c42574973f312552",
     "e4a32a403b5d93f2cfbcd6ea51fe2bf4",
     "ef4672e33dbf945ce4f5ea496135786a",
-    "fed0b9de22711872e4b998210c295dc3"
+    "fed0b9de22711872e4b998210c295dc3",
+    "93f67b4cc604bd8c99048780ad591ec8",
+    "3a5c8d18e1583ae814c35d53407b3e91"
   ]
 }
