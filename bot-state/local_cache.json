@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/andrew-ullmann-der-missbrauch-des-gesundheitssystems-110791799.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-gruene-fuer-verpflichtende-musterung-junger-maenner-faz-110093143.html",
-    "https://www.deutschlandfunk.de/oppositionspolitiker-ekane-in-haft-verstorben-100.html",
-    "https://www.deutschlandfunk.de/tschechien-verschaerft-regeln-fuer-feuerwerk-102.html",
     "https://www.spiegel.de/politik/deutschland/generation-deutschland-afd-zieht-konsequenzen-nach-rede-im-hitler-stil-a-0d6cbdc5-c887-45e5-a69c-812ca1be7e6a#ref=rss",
     "https://www.deutschlandfunk.de/who-erklaert-ebola-ausbruch-fuer-beendet-100.html",
     "https://www.deutschlandfunk.de/rtl-will-800-bis-1000-stellen-abbauen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/weltkirchenrat-prangert-missbrauch-des-christentums-durch-afd-trump-und-putin-an-100.html",
     "https://www.deutschlandfunk.de/oeffentlich-rechtlicher-rundfunk-in-der-schweiz-wollen-ukw-sender-wieder-einschalten-100.html",
     "https://www.deutschlandfunk.de/was-hat-trump-mit-venezuela-vor-interview-mit-joachim-krause-100.html",
-    "https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss"
+    "https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss",
+    "https://www.deutschlandfunk.de/eu-kommission-weitet-staatliche-hilfen-fuer-energieintensive-branchen-aus-100.html",
+    "https://www.deutschlandfunk.de/umwelthilfe-chef-resch-scheitert-auch-vor-kammergericht-mit-klage-auf-loeschung-kritischer-facebook--100.html",
+    "https://www.deutschlandfunk.de/adac-warnt-nach-eingeleiteter-abkehr-vom-verbrenner-aus-vor-aufweichen-der-klimaschutzsziele-im-verk-100.html",
+    "https://www.deutschlandfunk.de/hessischer-innenminister-poseck-sieht-keinen-hinweis-auf-terror-102.html"
   ],
   "content_hashes": [
-    "f0e96e1fc63fdf8c65a596b50ce9334b",
-    "832e5e2380eb78cdd7aec0672e2ca96d",
-    "3626fc7f549569179e8020c70a69172f",
-    "ad4cff9e68a0678423bf73ae89adfaf2",
     "8b0191a231df63ffa08f8dfa33d81b6e",
     "248481d0f92409ba75e7d604164e245a",
     "ffa3369d45d134b488ee251070cbe124",
@@ -2001,13 +1997,13 @@
     "c925ab7676badbb28216857696f9955f",
     "5c26011ffa72edf3ab6ff0bd63b7c9cd",
     "0c5b88037f755f1897a5e728444a90d0",
-    "7a0fac9a386f74f9a70b0b6ac9773d12"
+    "7a0fac9a386f74f9a70b0b6ac9773d12",
+    "fa2fc8622ed904e2428b79e4eb2755e1",
+    "d7aada3846757090ff92ae7f9a4eaba9",
+    "a8e1a3707e449a9fee901db3057f1b53",
+    "9e7e474c02aa0160c9e3d419c009069f"
   ],
   "titles": [
-    "Fehlende Reformen: Das Gesundheitssystem wird missbraucht",
-    "Liveblog Bundespolitik: Junge Gruppe weiter gegen Rentenpaket, aber keine einheitliche Abstimmung angekündigt",
-    "Kamerun - Oppositionspolitiker Ekane in Haft verstorben",
-    "Verbotszonen und Verkaufseinschränkungen - Tschechien verschärft Regeln für Feuerwerk",
     "»Generation Deutschland«: AfD zieht Konsequenzen nach Rede im Hitler-Stil",
     "Kongo - WHO erklärt Ebola-Ausbruch für beendet",
     "Werbekrise - RTL will 800 bis 1000 Stellen abbauen",
@@ -3003,13 +2999,13 @@
     "Religion - Weltkirchenrat prangert Missbrauch des Christentums durch AfD, Trump und Putin an",
     "Mangelnde Akzeptanz für Digitalradio DAB+ - Öffentlich-rechtlicher Rundfunk in der Schweiz wollen UKW-Sender wieder einschalten",
     "USA und Venezuela - Politologe Krause: \"Was Trump macht, ist so absurd\"",
-    "Die Deutschen trinken weniger Sekt und Champagner"
+    "Die Deutschen trinken weniger Sekt und Champagner",
+    "Strompreis - EU-Kommission weitet staatliche Hilfen für energieintensive Branchen aus",
+    "Hasspostings - Umwelthilfe-Chef Resch scheitert auch vor Kammergericht mit Klage auf Löschung kritischer Facebook-Gruppen",
+    "Mobilität - ADAC warnt nach eingeleiteter Abkehr vom Verbrenner-Aus vor Aufweichen der Klimaschutzsziele im Verkehrsbereich",
+    "Vorfall mit Auto in Gießen - Hessischer Innenminister Poseck sieht keinen Hinweis auf Terror"
   ],
   "hashes": [
-    "8ee21c828ddbef0f6fe65186ad2dfff4",
-    "7da6397fea02ae5c9bc48b95ed89c48e",
-    "563524941bf5116b3aa29b1984928206",
-    "ac73c913117cbbde6e3e87c1b20f5249",
     "c6efd25fe0068110e7668270c25605b4",
     "7e8fe2bf5e8d9d0c159dbd5d562099db",
     "45538106059815a344b493c046dcdc3e",
@@ -4005,6 +4001,10 @@
     "1d32bb86ae2796b07456a25f9494bb69",
     "4f794c0f028b9bec716bc8f9e127859c",
     "35bb939714b37c31657ece1f30243a1f",
-    "50a078e7ad40ed2f6d1e09ad7a7f7fe6"
+    "50a078e7ad40ed2f6d1e09ad7a7f7fe6",
+    "afea4ae3ea5e69eba0000c989d987392",
+    "2be20a69c3899da2d3e8369be9aa2155",
+    "c1b7c6a6f74692f80735a07d2d5f43bb",
+    "0ba4982c943cbf333c838705c63bf17b"
   ]
 }
