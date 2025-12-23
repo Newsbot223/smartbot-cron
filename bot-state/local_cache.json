@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sos-kinderdoerfer-klimawandel-und-konflikte-fuehren-zu-immer-mehr-behinderungen-bei-kindern-102.html",
-    "https://www.deutschlandfunk.de/bundessozialgericht-verhandelt-zur-hoehe-des-buergergeldes-100.html",
-    "https://www.deutschlandfunk.de/cdu-csu-fraktion-plant-fuer-heute-probeabstimmung-ueber-rentenpaket-100.html",
-    "https://www.deutschlandfunk.de/grosse-menge-an-bundeswehr-munition-in-sachsen-anhalt-entwendet-100.html",
     "https://www.deutschlandfunk.de/us-sanktionen-gegen-internationalen-strafgerichtshof-gerichtspraesidentin-akane-pocht-auf-unabhaengi-100.html",
     "https://www.deutschlandfunk.de/rsf-milizen-nehmen-strategisch-wichtigen-ort-im-sudan-ein-100.html",
     "https://www.deutschlandfunk.de/kanada-schliesst-sich-eu-kreditfonds-fuer-ruestungsprojekte-an-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/sender-cbs-stoppt-kritischen-bericht-zu-gefaengnis-in-el-salvador-vorwurf-der-zensur-100.html",
     "https://www.deutschlandfunk.de/prominente-frauen-weltweit-fordern-freilassung-von-aktivistin-tabari-102.html",
     "https://www.faz.net/aktuell/politik/inland/zukunft-der-villa-hammerschmidt-ein-haus-der-republik-110803064.html",
-    "https://www.deutschlandfunk.de/libyscher-armeechef-stirbt-bei-flugzeugabsturz-100.html"
+    "https://www.deutschlandfunk.de/libyscher-armeechef-stirbt-bei-flugzeugabsturz-100.html",
+    "https://www.deutschlandfunk.de/wohnungslosenhilfe-fordert-warme-und-sichere-schutzraeume-fuer-obdachlose-100.html",
+    "https://www.deutschlandfunk.de/gesetz-gegen-blockade-von-oeltankern-durch-die-usa-dringlichkeitssitzung-im-uno-sicherheitsrat-102.html",
+    "https://www.deutschlandfunk.de/papst-leo-xiv-feiert-erste-christmette-im-petersdom-100.html",
+    "https://www.faz.net/aktuell/politik/inland/weihnachtsansprache-steinmeier-ermuntert-deutsche-110808678.html"
   ],
   "content_hashes": [
-    "42f4359c59132958efd79fd8e8c449be",
-    "e920f8cc7fabf4e17b9e8e796b483e9b",
-    "7da96d18eac2aedffdd228a2fa7f577c",
-    "b07a336300aa241f942399b8bcd4d0fa",
     "603796f93ae68faf3e9b4aa97b884038",
     "eb8c8062c14b3c56766ddb8be624e88f",
     "62b15b26dc42b72ac03a39e6e946b851",
@@ -2001,13 +1997,13 @@
     "a313ec3d6125e06a41ba9ff2ba94cb55",
     "781e0ed4ed11b47da8de81a5322a423d",
     "3a721e56840c6cce59d77d14ff800a3a",
-    "b42f281a4105fdb7db3e094ac6b8b203"
+    "b42f281a4105fdb7db3e094ac6b8b203",
+    "73556cee45ca8eaa2958a4b98205597a",
+    "aa2bfe25679aac4d0e50ffe2f8af936f",
+    "d7a73332fd507b3ff0bd5f71be2f57b7",
+    "449d8b6810831e658574afc2cd9fcb9d"
   ],
   "titles": [
-    "Hilfsorganisation - SOS Kinderdörfer: Klimawandel und Konflikte führen zu immer mehr Behinderungen bei Kindern",
-    "Grundsatzklage - Bundessozialgericht verhandelt zur Höhe des Bürgergeldes",
-    "Bundestag - CDU/CSU-Fraktion plant für heute Probeabstimmung über Rentenpaket",
-    "Medienberichte - Große Menge an Bundeswehr-Munition in Sachsen-Anhalt entwendet",
     "Den Haag - US-Sanktionen gegen Internationalen Strafgerichtshof: Gerichtspräsidentin Akane pocht auf Unabhängigkeit",
     "Babanusa - RSF-Milizen nehmen strategisch wichtigen Ort im Sudan ein",
     "Verteidigungspolitik - Kanada schließt sich EU-Kreditfonds für Rüstungsprojekte an",
@@ -3003,13 +2999,13 @@
     "Medien in den USA - Sender CBS stoppt kritischen Bericht zu Gefängnis in El Salvador - Vorwurf der Zensur",
     "Iran - Prominente Frauen weltweit fordern Freilassung von Aktivistin Tabari",
     "Villa Hammerschmidt: Ein Haus der Republik",
-    "Türkei - Libyscher Armeechef stirbt bei Flugzeugabsturz"
+    "Türkei - Libyscher Armeechef stirbt bei Flugzeugabsturz",
+    "Kältewelle - Wohnungslosenhilfe fordert warme und sichere Schutzräume für Obdachlose",
+    "Venezuela - Gesetz gegen Blockade von Öltankern durch die USA - Dringlichkeitssitzung im UNO-Sicherheitsrat",
+    "Vatikan - Papst Leo XIV. feiert erste Christmette im Petersdom",
+    "Weihnachtsansprache: Steinmeier ermuntert die Deutschen, mutig zu sein"
   ],
   "hashes": [
-    "c460099b14d869da88e5f8f2c96bfc37",
-    "a269612618e4faad307e17c4345daef8",
-    "44a71c7ed25f1152289752904afc1625",
-    "5421913d8e1cfbc7665ada90de4a5956",
     "04bf48f1778b668cfb92df646260d677",
     "7b564c6dee42415a67986818f111c946",
     "9d8e576dc0ff28c4102c1f94d9d77572",
@@ -4005,6 +4001,10 @@
     "fb5260ec40624eff18036bd896364a92",
     "d9bf7df6c09c368171b5dfbf3067bddf",
     "4f9ca9d83d4e7ced161cc6e3dada5300",
-    "87bb5cfc6fc429b3730dad0bdf64ba50"
+    "87bb5cfc6fc429b3730dad0bdf64ba50",
+    "0ff58fa81531bb496637e7f2d9d38919",
+    "476ec3e2053d5d8cd3110b5a4ccd8d7c",
+    "240497a68b4eb11b7e0c80cc72137ed7",
+    "11ff70af4b672de5c44776317418356a"
   ]
 }
