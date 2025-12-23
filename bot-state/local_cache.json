@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trumps-favorit-fuehrt-bei-praesidentschaftswahl-100.html",
-    "https://www.deutschlandfunk.de/wochenausblick-vor-geplanter-rentenpaket-abstimmung-100.html",
     "https://www.deutschlandfunk.de/bundesbankvorstand-warnt-vor-boersenkorrektur-100.html",
     "https://www.deutschlandfunk.de/verschollen-geglaubtes-rubens-gemaelde-fuer-fast-drei-millionen-versteigert-102.html",
     "https://www.deutschlandfunk.de/berichte-ueber-verhaftungswelle-gegen-oppositionelle-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/grosse-windkraft-projekte-vor-den-kuesten-gestoppt-nationale-sicherheitsrisiken-102.html",
     "https://www.deutschlandfunk.de/steuerminus-im-november-wirtschaftliche-aussichten-weiter-gedaempft-102.html",
     "https://www.deutschlandfunk.de/gefechte-zwischen-syrischen-truppen-und-kurdischen-kaempfern-100.html",
-    "https://www.deutschlandfunk.de/duesseldorfer-karnevalswagenbauer-tilly-putin-wird-jetzt-erst-recht-als-motiv-beim-naechsten-rosenmo-100.html"
+    "https://www.deutschlandfunk.de/duesseldorfer-karnevalswagenbauer-tilly-putin-wird-jetzt-erst-recht-als-motiv-beim-naechsten-rosenmo-100.html",
+    "https://www.deutschlandfunk.de/28-menschen-auf-dem-weg-zu-muslimischem-fest-entfuehrt-102.html",
+    "https://www.spiegel.de/wirtschaft/soziales/tafeln-armut-in-deutschland-fast-jeder-dritte-kunde-ist-ein-kind-a-d80ccc09-e06f-4471-b5cd-11b7eb481eba#ref=rss"
   ],
   "content_hashes": [
-    "dcbe31881e979f983632bde9c6a998af",
-    "b17cf8e84baa7975f562e1c98affb775",
     "083370e41d810538202d40db39ed0060",
     "cab067cda3f6ff5120f829e8545eda22",
     "77b683a520b8ebfdb94fd5917081f667",
@@ -2001,11 +1999,11 @@
     "e07b16dcd420cc6fef9a6c2829fde62d",
     "b4dba3cabcc609135bf7469bcede87f7",
     "a3868ff9ffb9b4e75be347ad008ee8d9",
-    "4161fc591e8f9fe291080302be5de057"
+    "4161fc591e8f9fe291080302be5de057",
+    "b97fd06381cd569c395737e75ce3a565",
+    "0c423b88e7d56216265c414090b4d550"
   ],
   "titles": [
-    "Honduras - Trumps Favorit führt bei Präsidentschaftswahl",
-    "Streit um Rentenpaket - Unions-Rebellen geben Widerstand offenbar auf",
     "Aktienmarkt - Bundesbankvorstand warnt vor Börsenkorrektur",
     "Kunstmarkt - Verschollen geglaubtes Rubens-Gemälde für fast drei Millionen versteigert",
     "Venezuela - Berichte über Verhaftungswelle gegen Oppositionelle",
@@ -3003,11 +3001,11 @@
     "USA - Große Windkraft-Projekte vor den Küsten gestoppt - \"nationale Sicherheitsrisiken\"",
     "BMF-Monatsbericht - Steuerminus im November - wirtschaftliche Aussichten weiter gedämpft",
     "Aleppo - Gefechte zwischen syrischen Truppen und kurdischen Kämpfern",
-    "Nach russischer Klage - Düsseldorfer Karnevalswagenbauer Tilly: \"Putin wird jetzt erst recht als Motiv beim nächsten Rosenmontagszug auftauchen\""
+    "Nach russischer Klage - Düsseldorfer Karnevalswagenbauer Tilly: \"Putin wird jetzt erst recht als Motiv beim nächsten Rosenmontagszug auftauchen\"",
+    "Nigeria - 28 Menschen auf dem Weg zu muslimischem Fest entführt",
+    "Tafeln: Armut in Deutschland – Fast jeder dritte Kunde ist ein Kind"
   ],
   "hashes": [
-    "1b89cf5a1022feb65edd2bd098706a06",
-    "f74bf4337950b47f1de24fe7fbc66609",
     "387f572fe6268e76c8c2708330557f19",
     "587c5c7259321934005cd1a0bdb4677c",
     "27baddca910c859abc2aa8bef483a491",
@@ -4005,6 +4003,8 @@
     "dae42675ac34d48fdc6943403b130568",
     "e1689f1bc7e0327aa67cab49f577567b",
     "032c375326dad1d45b312221d58f6fce",
-    "fd7af6331feea1cea75f25ad75534b42"
+    "fd7af6331feea1cea75f25ad75534b42",
+    "32d0be2ee84bfb2af52c37babc6eda61",
+    "8cf1e0d91ee083a186493dcfb3cb741e"
   ]
 }
