@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/familienunternehmer-verband-macht-rueckzieher-und-raeumt-fehler-ein-100.html",
-    "https://www.deutschlandfunk.de/chinas-aussenminister-zu-gespraechen-in-russland-100.html",
-    "https://www.deutschlandfunk.de/proteste-und-kritik-nach-gnadengesuch-netanjahus-104.html",
-    "https://www.deutschlandfunk.de/amerikanische-und-einheimische-streitkraefte-zerstoeren-zahlreiche-waffenlager-von-is-terrormiliz-100.html",
     "https://www.deutschlandfunk.de/weltweit-groesste-ruestungskonzerne-verzeichnen-erneut-hoehere-einnahmen-104.html",
     "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-wirft-afd-fraktion-unterirdische-kommentare-gegen-weibliche-abgeo-100.html",
     "https://www.deutschlandfunk.de/aktuelle-lage-in-der-ukraine-juengste-entwicklungen-im-korruptionsskandal-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/berichte-ueber-raketentest-in-teheran-isfahan-und-maschhad-100.html",
     "https://www.deutschlandfunk.de/netanjahu-gegen-unabhaengige-untersuchung-102.html",
     "https://www.spiegel.de/ausland/141-afghanen-mit-charterflugzeug-nach-deutschland-gebracht-a-f6832d86-0df1-4642-a247-589e682227f6#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/das-symbol-von-rahmede-110807748.html"
+    "https://www.faz.net/aktuell/politik/inland/das-symbol-von-rahmede-110807748.html",
+    "https://www.deutschlandfunk.de/selenskyj-erwarte-russische-angriffswelle-ueber-weihnachten-102.html",
+    "https://www.deutschlandfunk.de/rainer-csu-will-videoueberwachung-verpflichtend-machen-104.html",
+    "https://www.deutschlandfunk.de/krankenkassen-wollen-einheitliches-portal-fuer-arzttermine-102.html",
+    "https://www.deutschlandfunk.de/grosse-windkraft-projekte-vor-den-kuesten-gestoppt-nationale-sicherheitsrisiken-102.html"
   ],
   "content_hashes": [
-    "b147ab84c9683b1204d215438a88d86d",
-    "480965e720a7baa7105531788ca135aa",
-    "33081eb8f8b99b72fc981fc122a0d1f1",
-    "4cec10cd71befd620564474361e65166",
     "a8523c72a77d0700111d05f0a7df9b19",
     "81509bc6a37a955cebd51082cdc58309",
     "f8e3cdc178d9cd36ca2aad9e0b9b7aed",
@@ -2001,13 +1997,13 @@
     "5e1885273a79dbd5dd44f0dee61657af",
     "b8e0a00c86a4ad2fddf0df348c2cae60",
     "0f8bbe0933c2ec8d3a4479bf0fcabe6a",
-    "9d99dec7bdecc8772fb154c05bb26ec1"
+    "9d99dec7bdecc8772fb154c05bb26ec1",
+    "b59d50e6b2381623d26eabcbfe0ff239",
+    "cc9a6974d6a917403884e51b69dedaec",
+    "5599dba217e92700fd3d06eea9a11f3e",
+    "e07b16dcd420cc6fef9a6c2829fde62d"
   ],
   "titles": [
-    "Nach Kritik und Austritten - Familienunternehmer-Verband macht Rückzieher und räumt Fehler ein",
-    "Diplomatie - Chinas Außenminister zu Gesprächen in Russland",
-    "Israel - Proteste und Kritik nach Gnadengesuch Netanjahus",
-    "Syrien - Amerikanische und einheimische Streitkräfte zerstören zahlreiche Waffenlager von IS-Terrormiliz",
     "Sipri-Bericht - Weltweit größte Rüstungskonzerne verzeichnen erneut höhere Einnahmen",
     "Bundestag - Bundesgesundheitsministerin Warken wirft AfD-Fraktion \"unterirdische Kommentare\" gegen weibliche Abgeordnete vor",
     "Krieg in der Ukraine - Kiew erneut mit Hunderten Drohnen und Raketen angegriffen",
@@ -3003,13 +2999,13 @@
     "Iran - Berichte über Raketentest in Teheran, Isfahan und Maschhad",
     "Anschlag vom 7. Oktober - Netanjahu gegen unabhängige Untersuchung",
     "141 Afghanen mit Charterflugzeug nach Deutschland gebracht",
-    "Autobahnbrücke eröffnet: Das Symbol von Rahmede"
+    "Autobahnbrücke eröffnet: Das Symbol von Rahmede",
+    "Krieg gegen die Ukraine - Selenskyj: \"Erwarte russische Angriffswelle über Weihnachten\"",
+    "Arbeit in Schlachthöfen - Rainer (CSU) will Videoüberwachung verpflichtend machen",
+    "Suche nach Arztterminen - Krankenkassen wollen einheitliches Portal für Arzttermine",
+    "USA - Große Windkraft-Projekte vor den Küsten gestoppt - \"nationale Sicherheitsrisiken\""
   ],
   "hashes": [
-    "569299172fc97560f6b9914999ead7bf",
-    "1742fc59a68c47f5288ac1288d91f0a5",
-    "14c23fceceaf1c700d121504da1cac54",
-    "5a38871b7c5b408d27d2f00a667913ff",
     "c7b74e1fea75f4ab6f62decd703b7b23",
     "95c3fd6bda36558ffc91431935a6657f",
     "a6dcfa68bbe066fe02651bd3d4d016e3",
@@ -4005,6 +4001,10 @@
     "7dfead01460191b87a753707064ed48a",
     "7d884096d9dbdad9bd5c4a3e4c474c54",
     "83d4814e517c583277e960c1bafac5db",
-    "93e58728719c9e7367416ce20e4152d5"
+    "93e58728719c9e7367416ce20e4152d5",
+    "5f06a3294d0630d251df18cdd6e77dce",
+    "542d9ecf8943cd516b6663d7b04914ac",
+    "6266446521b6940146708bab62d1ca19",
+    "dae42675ac34d48fdc6943403b130568"
   ]
 }
