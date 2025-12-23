@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berichte-ueber-verhaftungswelle-gegen-oppositionelle-100.html",
-    "https://www.deutschlandfunk.de/firmen-pruefen-wegen-exportkontrollen-abzug-aus-china-100.html",
     "https://www.deutschlandfunk.de/zahl-der-toten-auf-151-gestiegen-noch-40-menschen-vermisst-100.html",
     "https://www.deutschlandfunk.de/kontroverse-um-afd-brandmauer-und-familienunternehmer-100.html",
     "https://www.faz.net/aktuell/politik/inland/synodalkonferenz-zdk-gibt-dem-vatikan-nach-110794681.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/28-menschen-auf-dem-weg-zu-muslimischem-fest-entfuehrt-102.html",
     "https://www.spiegel.de/wirtschaft/soziales/tafeln-armut-in-deutschland-fast-jeder-dritte-kunde-ist-ein-kind-a-d80ccc09-e06f-4471-b5cd-11b7eb481eba#ref=rss",
     "https://www.deutschlandfunk.de/ex-treuhandpraesidentin-breuel-fordert-von-bundesregierung-mutige-reformen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/weniger-besucher-auf-weihnachtsmaerkten-als-im-vorjahr-accg-200383177.html"
+    "https://www.faz.net/aktuell/politik/inland/weniger-besucher-auf-weihnachtsmaerkten-als-im-vorjahr-accg-200383177.html",
+    "https://www.deutschlandfunk.de/knapp-jeder-dritte-tafelkunde-ist-ein-kind-102.html",
+    "https://www.deutschlandfunk.de/anschlag-auf-polizisten-fuenf-tote-102.html"
   ],
   "content_hashes": [
-    "77b683a520b8ebfdb94fd5917081f667",
-    "f83a59cc7c70733a25c28d52ccc64bfa",
     "45658911caa0ab1b4f70549c0fe9beea",
     "14eaa273097ce80bf8e3109df9f6486b",
     "1a7357fe8b6fcb5d8d75eb707e6c80c9",
@@ -2001,11 +1999,11 @@
     "b97fd06381cd569c395737e75ce3a565",
     "0c423b88e7d56216265c414090b4d550",
     "e5229248460720026b6963cb16733ce5",
-    "8ca90ccdd95baa9f0a8ea8c876ff44e9"
+    "8ca90ccdd95baa9f0a8ea8c876ff44e9",
+    "b2f71b5e1a6e2e58422b17b2d2d02b65",
+    "b10c2c40b9285db2ce409b603873d2c2"
   ],
   "titles": [
-    "Venezuela - Berichte über Verhaftungswelle gegen Oppositionelle",
-    "EU-Handelskammer - Firmen prüfen wegen Exportkontrollen Abzug aus China",
     "Brandkatastrophe in Hongkong - Zahl der Toten auf 151 gestiegen, noch 40 Menschen vermisst",
     "Umgang mit der AfD - Familienunternehmer-Verband vollzieht komplette Kehrtwende",
     "Ringen mit dem Vatikan: ZdK beschließt Satzung der neuen Synodalkonferenz",
@@ -3003,11 +3001,11 @@
     "Nigeria - 28 Menschen auf dem Weg zu muslimischem Fest entführt",
     "Tafeln: Armut in Deutschland – Fast jeder dritte Kunde ist ein Kind",
     "Transformation - Ex-Treuhandpräsidentin Breuel fordert von Bundesregierung mutige Reformen",
-    "Laut Schaustellerverband: Weniger Besucher auf Weihnachtsmärkten als im Vorjahr"
+    "Laut Schaustellerverband: Weniger Besucher auf Weihnachtsmärkten als im Vorjahr",
+    "Soziales - Knapp jeder dritte Tafelkunde ist ein Kind",
+    "Pakistan - Anschlag auf Polizisten - fünf Tote"
   ],
   "hashes": [
-    "27baddca910c859abc2aa8bef483a491",
-    "1f9b612721d51ca35773acf3bd344891",
     "00c97f14382e56066d5e6847dc0554c2",
     "fd599b5c3e6429dadfa86949aa7e5b70",
     "4db6b82333892714135aad4b228c0839",
@@ -4005,6 +4003,8 @@
     "32d0be2ee84bfb2af52c37babc6eda61",
     "8cf1e0d91ee083a186493dcfb3cb741e",
     "b7f1b64f354ff3976b47ac6cea7de9d5",
-    "75928d9cfd218265884613b8cfb2ccf1"
+    "75928d9cfd218265884613b8cfb2ccf1",
+    "dc8a6945eb7ec3cc4f11e1241cdb7f1e",
+    "a3192e66f32ae765befc88df4b4ef976"
   ]
 }
