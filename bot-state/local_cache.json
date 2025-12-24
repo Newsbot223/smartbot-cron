@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukraine-krieg-aktuelle-entwicklungen-106.html",
-    "https://www.deutschlandfunk.de/ezb-verweigert-nutzung-von-russischem-vermoegen-fuer-die-ukraine-102.html",
     "https://www.spiegel.de/politik/deutschland/verfassungsschuetzer-sieht-keine-maessigung-der-afd-jugend-a-c0d03dd9-678c-4c48-b472-cf09615272bc#ref=rss",
     "https://www.deutschlandfunk.de/moskau-erklaert-pokrowsk-fuer-erobert-ukraine-dementiert-100.html",
     "https://www.deutschlandfunk.de/friedensprozess-koennte-schmerzhafte-zugestaendnisse-der-ukraine-erfordern-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schnitzer-unternehmens-erben-sollten-hoehere-steuern-zahlen-104.html",
     "https://www.deutschlandfunk.de/syrien-und-russland-wollen-militaerische-zusammenarbeit-ausbauen-100.html",
     "https://www.deutschlandfunk.de/offener-dissens-im-uno-sicherheitsrat-100.html",
-    "https://www.deutschlandfunk.de/supreme-court-erhaelt-stopp-fuer-einsatz-der-nationalgarde-in-chicago-aufrecht-100.html"
+    "https://www.deutschlandfunk.de/supreme-court-erhaelt-stopp-fuer-einsatz-der-nationalgarde-in-chicago-aufrecht-100.html",
+    "https://www.deutschlandfunk.de/zwei-polizisten-bei-mutmasslicher-explosion-in-moskau-verletzt-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wegen-zurueckweisungen-deutlich-weniger-kirchenasylfaelle-im-jahr-2025-accg-110808502.html"
   ],
   "content_hashes": [
-    "ad34623afb9ad761be6a15bae58f60ca",
-    "f8fb9e79ab41a1b56aa33bb333e7a123",
     "5ed1cf317f009c916361170fe79d714c",
     "05a6c691bd03a06ddece6b029a40c4a2",
     "ca0eb336f8377f809ba16ec7d40c3ecf",
@@ -2001,11 +1999,11 @@
     "f0b5f9232ecbcdca59e5afeb75d2804a",
     "b1440637843bb8286971fb6446a92c5c",
     "ce4bd9413505f1fea18c2b9ac93ea08f",
-    "de31c864ebf8bdd44e14e3e7ad43627d"
+    "de31c864ebf8bdd44e14e3e7ad43627d",
+    "471a15a7f6862a72bcc4c13f48db62c6",
+    "dd024a53f0ebbeb6ecd2ff74d4ffab74"
   ],
   "titles": [
-    "Witkoff in Moskau - Geringe Erwartungen vor Ukraine-Gesprächen mit Putin",
-    "Ukraine-Krieg - EZB verweigert Nutzung von russischem Vermögen für die Ukraine",
     "Verfassungsschützer sieht keine Mäßigung der AfD-Jugend",
     "Ukraine-Krieg - Moskau erklärt Pokrowsk für erobert - Ukraine dementiert",
     "Wadephul - Friedensprozess könnte \"schmerzhafte Zugeständnisse\" der Ukraine erfordern",
@@ -3003,11 +3001,11 @@
     "Wirtschaftsweisen-Vorsitzende - Schnitzer: \"Unternehmens-Erben sollten höhere Steuern zahlen\"",
     "Treffen im Kreml - Syrien und Russland wollen militärische Zusammenarbeit ausbauen",
     "Spannungen zwischen den USA und Venezuela - Offener Dissens im UNO-Sicherheitsrat",
-    "USA - Supreme Court erhält Stopp für Einsatz der Nationalgarde in Chicago aufrecht"
+    "USA - Supreme Court erhält Stopp für Einsatz der Nationalgarde in Chicago aufrecht",
+    "Behörden sprechen von \"Vorfall\" - Zwei Polizisten bei mutmaßlicher Explosion in Moskau verletzt",
+    "F.A.Z. exklusiv: Deutlich weniger Kirchenasylfälle im Jahr 2025"
   ],
   "hashes": [
-    "b5f1593fb26eb7c34e5186ed0f4532e3",
-    "836a190fcf8d6396d79455f1df5120f2",
     "b6b95a43642bd2b3923a415b8ed79ac5",
     "e26c6426938ff7f21210473eafc9c0b1",
     "4c31fa6412aaf9ccdfffc3fd8686883d",
@@ -4005,6 +4003,8 @@
     "e69ee6f95c6bf2f49b96f93b79778264",
     "1563fb723e8bf4c57d3974c7b1f2a422",
     "b4fa06544b70a5c5a86b5784f54e66c4",
-    "380e4ba1bc781a895938988631cf88a2"
+    "380e4ba1bc781a895938988631cf88a2",
+    "da8b5c11ad84352cce2d2309f50bcf9e",
+    "e6fc3ba892dc4ec48e855f21384febe0"
   ]
 }
