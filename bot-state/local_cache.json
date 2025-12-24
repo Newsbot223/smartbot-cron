@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/durchsuchungen-in-vier-bundeslaendern-106.html",
     "https://www.spiegel.de/politik/deutschland/den-haag-deutschland-ueberstellt-libyschen-folterknast-chef-wegen-kriegsverbrechen-a-bb119bd0-69e9-46b7-929d-73c4339915af#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/attentat-am-holocaust-mahnmal-opfer-will-aussagen-accg-200316613.html",
     "https://www.deutschlandfunk.de/knackpunkt-haltelinie-was-die-junge-gruppe-so-stoert-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/russland-schiesst-mehr-als-170-drohnen-ab-100.html",
     "https://www.deutschlandfunk.de/indiens-raumfahrtbehoerde-schickt-bislang-schwersten-satelliten-ins-all-102.html",
     "https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss",
-    "https://www.deutschlandfunk.de/ukraine-und-russland-greifen-einander-erneut-mit-drohnen-an-100.html"
+    "https://www.deutschlandfunk.de/ukraine-und-russland-greifen-einander-erneut-mit-drohnen-an-100.html",
+    "https://www.deutschlandfunk.de/blackbox-nach-tod-eines-libyschen-generals-geborgen-102.html"
   ],
   "content_hashes": [
-    "f1de55c55f54004ca197da0aaae4c53d",
     "a74cceb0475c042871bf21b70af1d986",
     "5b6c78747d9a30d0660915e4209c8deb",
     "c9dfc6d99888467a68d8e48297bad97d",
@@ -2001,10 +2000,10 @@
     "fa5919b32e5adebb504cae46b61b40e7",
     "b61dd5ba02e4defd578d5e86b2bb0eda",
     "e578c09ad99e939768b4534174bfd862",
-    "cd097f6b5eb491b1a8f38897c4ecb285"
+    "cd097f6b5eb491b1a8f38897c4ecb285",
+    "2fb30cfaed955fb1e90482511548e706"
   ],
   "titles": [
-    "Schwarzarbeit im Baugewerbe - Durchsuchungen in vier Bundesländern",
     "Den Haag: Deutschland überstellt libyschen Folterknast-Chef wegen Kriegsverbrechen",
     "Prozess in Berlin: Attentat am Holocaust-Mahnmal: Opfer will aussagen",
     "Rentenstreit in der Koalition - Knackpunkt \"Haltelinie\": Was die Junge Gruppe so stört",
@@ -3003,10 +3002,10 @@
     "Ukraine-Krieg - Russland schießt mehr als 170 Drohnen ab",
     "Indiens Raumfahrtbehörde schickt bislang schwersten Satelliten ins All",
     "Afghanistan: Offener Brief an Friedrich Merz zur Aufnahme von Afghanen",
-    "Ukraine-Krieg - Ukraine und Russland greifen einander erneut mit Drohnen an"
+    "Ukraine-Krieg - Ukraine und Russland greifen einander erneut mit Drohnen an",
+    "Flugzeugabsturz in der Türkei - Blackbox nach Tod eines libyschen Generals geborgen"
   ],
   "hashes": [
-    "677b0cebad8028aac456c3f5d26aac5c",
     "b4b79df03df8a40f7d64df397dddf839",
     "f2b2e85177ae661a2e542d19aa1fc2f9",
     "64b699e0ec78938a7169816cb8030f85",
@@ -4005,6 +4004,7 @@
     "c3d790f54e500e0305df1074f548bbd8",
     "b5f10c2699943d174df25ef386b11df9",
     "835625d78342a90ab3ed5152f75c01f5",
-    "3b8de7286388143ff0cba7ff26d6e11f"
+    "3b8de7286388143ff0cba7ff26d6e11f",
+    "eb86b74e67191fe12c47e9c4f5d4b51b"
   ]
 }
