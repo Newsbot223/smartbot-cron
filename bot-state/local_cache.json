@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/im-januar-erneut-wochenlange-bahn-sperrung-im-ruhrgebiet-100.html",
-    "https://www.deutschlandfunk.de/drohnenabwehreinheit-der-bundespolizei-nimmt-dienst-auf-100.html",
     "https://www.deutschlandfunk.de/aktivisten-stellen-walter-luebcke-statue-vor-cdu-zentrale-auf-partei-spricht-von-instrumentalisierun-100.html",
     "https://www.deutschlandfunk.de/inflation-in-der-eurozone-steigt-unerwartet-auf-2-2-prozent-100.html",
     "https://www.deutschlandfunk.de/unabhaengige-untersuchung-zu-brandkatatstrophe-angekuendigt-behoerden-gehen-gegen-kritiker-vor-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zwei-polizisten-und-eine-weitere-person-bei-explosion-getoetet-100.html",
     "https://www.faz.net/aktuell/politik/ukraine/reden-mit-putin-gespraeche-sind-kein-zweck-an-sich-110808714.html",
     "https://www.deutschlandfunk.de/merz-betont-herausforderungen-fuer-deutschland-und-europa-100.html",
-    "https://www.deutschlandfunk.de/prorussische-hacker-reklamieren-angriff-auf-post-fuer-sich-100.html"
+    "https://www.deutschlandfunk.de/prorussische-hacker-reklamieren-angriff-auf-post-fuer-sich-100.html",
+    "https://www.deutschlandfunk.de/us-einreiseverbot-fuer-deutsche-aktivistinnen-stoesst-auf-breite-kritik-100.html",
+    "https://www.deutschlandfunk.de/parlament-fordert-reparationen-von-frankreich-100.html"
   ],
   "content_hashes": [
-    "0ee48a147bb6df45f3c2120a1b420444",
-    "475a4f28ed3f6174cecff25835bed4cd",
     "165a9595b2e30a2f6b4666b37b646f74",
     "7917e6cd63c21b890f0dd31c52ea39f2",
     "e2ae9886fe6327c58091f27e33f75f78",
@@ -2001,11 +1999,11 @@
     "2e254451afe8775012501a2cc489b900",
     "0a5499a1ffb26f9db4f1fe16f9445881",
     "0a4abe9d068183e28cc79040ebf53267",
-    "54cc7398f5f01f7dfcb6f29a7a52dfd1"
+    "54cc7398f5f01f7dfcb6f29a7a52dfd1",
+    "c6c73eab0eb3c3db7df79dcb55c5ac18",
+    "3db56fe6f6686dd923f9d463ff5725b0"
   ],
   "titles": [
-    "Bauarbeiten Kreuz Kaiserberg - Im Januar erneut wochenlange Bahn-Sperrung im Ruhrgebiet",
-    "Schutz des Luftverkehrs - Drohnenabwehreinheit der Bundespolizei nimmt Dienst auf",
     "Zentrum für Politische Schönheit - Aktivisten stellen Walter-Lübcke-Statue vor CDU-Zentrale auf - Partei spricht von \"Instrumentalisierung\" Lübckes",
     "Statistikamt Eurostat - Inflation in der Eurozone steigt unerwartet auf 2,2 Prozent",
     "Hongkong - Unabhängige Untersuchung zu Brandkatatstrophe angekündigt - Behörden gehen gegen Kritiker vor",
@@ -3003,11 +3001,11 @@
     "Moskau - Zwei Polizisten und eine weitere Person bei Explosion getötet",
     "Reden mit Putin: Gespräche sind kein Zweck an sich",
     "Weihnachtsbotschaft des Kanzlers - Merz betont Herausforderungen für Deutschland und Europa",
-    "Frankreich - Prorussische Hacker reklamieren Angriff auf Post für sich"
+    "Frankreich - Prorussische Hacker reklamieren Angriff auf Post für sich",
+    "\"HateAid\" - US-Einreiseverbot für deutsche Aktivistinnen stößt auf breite Kritik",
+    "Algerien - Parlament fordert Reparationen von Frankreich"
   ],
   "hashes": [
-    "bf22e779d9f8f6ea116e9c3a03025288",
-    "c6f71276111ee22faec891dcd79783d9",
     "269b2c981944d9534170eab0076498a4",
     "97d1587736565cfae1e7803dae4018f4",
     "ef9c45d149c42bc1f338d5ab43643078",
@@ -4005,6 +4003,8 @@
     "d5d9991268f6ad8e9563c82526034d49",
     "df3d6d7a9404f0b6c3a2c006856d960c",
     "827f9e7c55180dda261183a3aa56096b",
-    "93396951eef160617eede0a990c0de17"
+    "93396951eef160617eede0a990c0de17",
+    "c23a7b3fdd6db8623543f4a361561c25",
+    "bdbe4b7feabf1790e61da92b69f5b0a3"
   ]
 }
