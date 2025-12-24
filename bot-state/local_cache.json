@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unabhaengige-untersuchung-zu-brandkatatstrophe-angekuendigt-behoerden-gehen-gegen-kritiker-vor-100.html",
-    "https://www.deutschlandfunk.de/buendnis-innenminister-sollen-private-silvesterboellerei-verbieten-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-rentenpaket-union-laesst-per-handzeichen-probeabstimmen-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/buendnis-aus-mehr-als-55-organisationen-fordert-boellerverbot-accg-200317808.html",
     "https://www.deutschlandfunk.de/rund-190-weitere-afghanen-in-deutschland-angekommen-100.html",
     "https://www.spiegel.de/auto/baustellen-auf-zahleichen-strassen-wo-in-deutschland-bald-die-bagger-anrollen-a-39ec5e05-a64e-49e4-934d-e5658991a8a0#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/us-einreiseverbot-fuer-deutsche-aktivistinnen-stoesst-auf-breite-kritik-100.html",
     "https://www.deutschlandfunk.de/parlament-fordert-reparationen-von-frankreich-100.html",
     "https://www.deutschlandfunk.de/eu-droht-usa-wegen-einreiseverbots-gegen-fuenf-europaeer-mit-konsequenzen-100.html",
-    "https://www.aljazeera.com/video/aljazeerauntangles/2025/12/24/french-empire-civilising-mission?traffic_source=rss"
+    "https://www.aljazeera.com/video/aljazeerauntangles/2025/12/24/french-empire-civilising-mission?traffic_source=rss",
+    "https://www.deutschlandfunk.de/milliarden-sollen-in-eigene-ruestungsindustrie-fliessen-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-praesentiert-entwurf-fuer-20-punkte-friedensplan-100.html",
+    "https://www.deutschlandfunk.de/drei-tote-bei-kaempfen-im-westen-syriens-102.html"
   ],
   "content_hashes": [
-    "e2ae9886fe6327c58091f27e33f75f78",
-    "9e53749d86171aa4af7398e7fb69fb6f",
-    "aa334788c1d5f6b99ac11bd82118a250",
     "a662601346aae214106ce8783b267e1b",
     "3aedbd3ffa2455174efb82115c7df812",
     "760141211b616b418b252a849505a68f",
@@ -2001,12 +1998,12 @@
     "c6c73eab0eb3c3db7df79dcb55c5ac18",
     "3db56fe6f6686dd923f9d463ff5725b0",
     "48e10abc1471c879691e96449ee0762a",
-    "c6035ce6131ca886fc193ae9de0c0d3e"
+    "c6035ce6131ca886fc193ae9de0c0d3e",
+    "8eb27d3df526af3dad0567f48bdd55de",
+    "6b0f6f44ed890a02593f38c9e6e65414",
+    "c5133aec2af3f9e69eeb53bef2a9f406"
   ],
   "titles": [
-    "Hongkong - Unabhängige Untersuchung zu Brandkatatstrophe angekündigt - Behörden gehen gegen Kritiker vor",
-    "Appell von Organisationen - Bündnis: Innenminister sollen private Silvesterböllerei verbieten",
-    "Liveblog Bundespolitik: Rentenkonflikt: Union lässt per Handzeichen probeabstimmen",
     "Vor Innenministerkonferenz: Bündnis aus mehr als 55 Organisationen fordert Böllerverbot",
     "Aufnahmeprogramm - Rund 190 weitere Afghanen in Deutschland angekommen",
     "Baustellen auf zahleichen Straßen: Wo in Deutschland bald die Bagger anrollen",
@@ -3003,12 +3000,12 @@
     "\"HateAid\" - US-Einreiseverbot für deutsche Aktivistinnen stößt auf breite Kritik",
     "Algerien - Parlament fordert Reparationen von Frankreich",
     "\"HateAid\" - EU droht USA wegen Einreiseverbots gegen fünf Europäer mit Konsequenzen",
-    "French Empire: Civilising Mission"
+    "French Empire: Civilising Mission",
+    "Israel - Milliarden sollen in eigene Rüstungsindustrie fließen",
+    "Krieg in der Ukraine - Selenskyj präsentiert Entwurf für 20-Punkte-Friedensplan",
+    "Berichte von Staatsmedien - Drei Tote bei Kämpfen im Westen Syriens"
   ],
   "hashes": [
-    "ef9c45d149c42bc1f338d5ab43643078",
-    "3b6be780d207b89ebe1c4c11d7dad5aa",
-    "7394f8dcc71596fb0edab75611e77e2f",
     "1bab5ce2c67a52d5e70c204ab1946382",
     "5f115c566beffb46faa3353d3193d376",
     "a22b1829ac3eb1aa8fab49f61f87c8e7",
@@ -4005,6 +4002,9 @@
     "c23a7b3fdd6db8623543f4a361561c25",
     "bdbe4b7feabf1790e61da92b69f5b0a3",
     "f8bd195330d97c8431d99fabe98a97fd",
-    "27e3319afbcbcbf4c0afbb72fba86551"
+    "27e3319afbcbcbf4c0afbb72fba86551",
+    "e01ea58ebdc650b7077749fd6a7f8092",
+    "7105370e9d1bb96b2ab435bd643fed7d",
+    "5c901dc7afcb8f0bb7ad3d6863abf7b4"
   ]
 }
