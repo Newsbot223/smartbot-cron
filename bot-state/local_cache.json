@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutschland-gibt-kulturgueter-mit-schaedeln-an-ghana-zurueck-102.html",
-    "https://www.spiegel.de/wirtschaft/service/schufa-veraendert-ihre-kreditwuerdigkeitsformel-a-9974f290-0123-457a-bd6e-1b69887bb8b4#ref=rss",
-    "https://www.deutschlandfunk.de/putin-empfaengt-witkoff-und-kushner-im-kreml-102.html",
     "https://www.deutschlandfunk.de/paket-rekord-bei-dhl-12-4-millionen-sendungen-an-einem-tag-100.html",
     "https://www.deutschlandfunk.de/steinmeier-erinnert-an-oekonomische-motive-der-ns-verbrechen-102.html",
     "https://www.spiegel.de/politik/deutschland/deutschland-laesst-192-afghanen-per-charterflug-nach-erfurt-einfliegen-a-44f164d5-21ec-4f6f-bf95-08cedc349dcb#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/papst-leo-haelt-seine-erste-christmette-102.html",
     "https://www.deutschlandfunk.de/trump-kandidat-asfura-zum-sieger-erklaert-100.html",
     "https://www.deutschlandfunk.de/israel-weist-kritik-an-neuen-siedlungen-im-westjordanland-zurueck-100.html",
-    "https://www.deutschlandfunk.de/hersteller-rechnen-mit-hoeheren-absatzmengen-von-feuerwerk-100.html"
+    "https://www.deutschlandfunk.de/hersteller-rechnen-mit-hoeheren-absatzmengen-von-feuerwerk-100.html",
+    "https://www.deutschlandfunk.de/bundespolizei-registriert-anstieg-an-grafitti-schmiererein-auf-zuegen-und-bahnanlagen-sachschaeden-i-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-lies-spd-wirbt-fuer-foerderung-gebrauchter-e-autos-100.html",
+    "https://www.deutschlandfunk.de/fuenf-tote-bei-bombenanschlag-auf-moschee-in-nigeria-102.html"
   ],
   "content_hashes": [
-    "f3ead552b5c3f1769d33b2dda050a56b",
-    "2b23e6788a1a322d759fb562ed0cfb14",
-    "1108000d65ec479722420dd2c16aafe1",
     "333c6958788d155d9150f051484782bb",
     "0ed26dfe6bf7e0159b03302d36973e32",
     "be41c17d337cfd59edd257c1a8886068",
@@ -2001,12 +1998,12 @@
     "c5619bd4c00d9eebe63522eb460238c5",
     "8b27a1594a946f29fab5465196aab61a",
     "7cca3e6a34357b1bb6a7425928857f19",
-    "62ae3685b14d4885bc2a2f5c0b7491c4"
+    "62ae3685b14d4885bc2a2f5c0b7491c4",
+    "fc3e69d5ab59be3c036f368ac819cf54",
+    "c4d7e9f6191712c016bb3b188e97bbe6",
+    "9cc3e7df41bfa417ca303eac3b462c72"
   ],
   "titles": [
-    "Aufarbeitung der Kolonialgeschichte - Deutschland gibt Kulturgüter mit Schädeln an Ghana zurück",
-    "Schufa verändert ihre Kreditwürdigkeitsformel",
-    "Verhandlungen zum Ukraine-Krieg - Putin empfängt Witkoff und Kushner im Kreml",
     "Online-Shopping - Paket-Rekord bei DHL: 12,4 Millionen Sendungen an einem Tag",
     "NS-Zwangsarbeit - Steinmeier erinnert an ökonomische Motive der NS-Verbrechen",
     "Deutschland lässt 192 Afghanen per Charterflug nach Erfurt einfliegen",
@@ -3003,12 +3000,12 @@
     "Rom - Papst Leo hält seine erste Christmette",
     "Umstrittene Wahl in Honduras - Trump-Kandidat Asfura zum Sieger erklärt",
     "Nahost - Israel weist Kritik an neuen Siedlungen im Westjordanland zurück",
-    "Jahreswechsel - Hersteller rechnen mit höheren Absatzmengen von Feuerwerk"
+    "Jahreswechsel - Hersteller rechnen mit höheren Absatzmengen von Feuerwerk",
+    "Medienbericht - Bundespolizei registriert Anstieg an Grafitti-Schmiererein auf Zügen und Bahnanlagen - Sachschäden in Millionenhöhe",
+    "Niedersachsen - Ministerpräsident Lies (SPD) wirbt für Förderung gebrauchter E-Autos",
+    "Borno - Fünf Tote bei Bombenanschlag auf Moschee in Nigeria"
   ],
   "hashes": [
-    "6f8490d616212bbdef7f96c38b7845aa",
-    "3eecbd858b37b9ae16655c3969d408e5",
-    "6b526db37c3300f2f0e9a4c88b63566e",
     "050444efc50fc69f664310deae1307ca",
     "ca0de45f06c561afc1651c351d37c9ee",
     "786c3aa0d11c98a216b92f3862c80dec",
@@ -4005,6 +4002,9 @@
     "2308f794b30ed14c2b06b5e5e5d27b6e",
     "e090d0aee82b897220e40e61ad46eeb9",
     "8961d6d10630a67bc93817d86be8b4a2",
-    "548a67aa8277081ca94a092794003ce9"
+    "548a67aa8277081ca94a092794003ce9",
+    "8a3caa2394bb783d304053749de203d8",
+    "86f4770867c8e664e93136af3f2c5d9a",
+    "e151b66be98e721d25812e0e5871dd6f"
   ]
 }
