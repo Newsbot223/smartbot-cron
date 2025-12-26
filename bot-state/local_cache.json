@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-stoppen-einwanderungsantraege-aus-19-laendern-102.html",
-    "https://www.deutschlandfunk.de/bundesregierung-warnt-vor-sozialen-verwerfungen-durch-klimapolitik-102.html",
-    "https://www.deutschlandfunk.de/keine-lizenzen-mehr-fuer-tiefseebergbau-102.html",
     "https://www.deutschlandfunk.de/tarifrunde-fuer-laenderbeschaeftigte-in-berlin-begonnen-102.html",
     "https://www.spiegel.de/wirtschaft/soziales/berlin-bundesregierung-warnt-vor-sozialen-spannungen-durch-klimapolitik-a-82ea6f30-aa84-4aaa-bd34-916494801f97#ref=rss",
     "https://www.deutschlandfunk.de/von-der-leyen-verteidigt-kommissionsvorschlag-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/israel-beschiesst-erneut-ziele-im-libanon-100.html",
     "https://www.deutschlandfunk.de/fuenf-tote-bei-explosion-in-einer-moschee-im-syrischem-homs-100.html",
     "https://www.deutschlandfunk.de/usa-greifen-is-stellungen-in-nigeria-an-einsatz-mit-dortiger-regierung-abgesprochen-100.html",
-    "https://www.deutschlandfunk.de/malaysias-ex-premier-najib-razak-erneut-wegen-veruntreuung-verurteilt-100.html"
+    "https://www.deutschlandfunk.de/malaysias-ex-premier-najib-razak-erneut-wegen-veruntreuung-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/inzwischen-acht-tote-bei-explosion-in-einer-moschee-im-syrischem-homs-100.html",
+    "https://www.deutschlandfunk.de/drk-verzeichnet-ein-fuenftel-weniger-spenden-100.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/hateaid-warum-die-trump-regierung-zensur-in-europa-wittert-110809335.html"
   ],
   "content_hashes": [
-    "0ea76098809a779b6f566d603fa9035d",
-    "cdccd368d1b3bd57c9c2fa22d0c9bb94",
-    "4c1caea6fc403112dae17f9f04edf765",
     "c882ed0f21ec59a13d1e1c2b4807bf1e",
     "a9fbf0541715a32ecfa9629626f024c4",
     "6b1de6eeb29a672f26d444094a6a0721",
@@ -2001,12 +1998,12 @@
     "55e7ed57285e77423c4423001b253238",
     "6a51c101162a82c6e3e887c7f1cbab63",
     "ff822c93294ba69d3bb7d1b28736b499",
-    "f5a9895b717cb9711f67b22010b63aff"
+    "f5a9895b717cb9711f67b22010b63aff",
+    "c19c178d0bbe984e04c6e623ba3aeff6",
+    "41380a6d7254609e36a7a8a54f90be1e",
+    "2ccf94f31a63cd3cbf404a8404cd5516"
   ],
   "titles": [
-    "Nach Angriff auf Nationalgardisten - USA stoppen Einwanderungsanträge aus 19 Ländern",
-    "Armuts- und Reichtumsbericht - Bundesregierung warnt vor sozialen Verwerfungen durch Klimapolitik",
-    "Norwegen - Keine Lizenzen mehr für Tiefseebergbau",
     "Öffentlicher Dienst - Tarifrunde für Länderbeschäftigte in Berlin begonnen",
     "Berlin: Bundesregierung warnt vor sozialen Spannungen durch Klimapolitik",
     "Reparationsdarlehen für Kiew - Von der Leyen verteidigt Kommissionsvorschlag",
@@ -3003,12 +3000,12 @@
     "Nahostkonflikt - Israel beschießt erneut Ziele im Libanon",
     "Anschlag - Fünf Tote bei Explosion in einer Moschee im syrischem Homs",
     "Bundesstaat Sokoto - USA greifen IS-Stellungen in Nigeria an - Einsatz mit dortiger Regierung abgesprochen",
-    "Staatlicher Investitionsfonds - Malaysias Ex-Premier Najib Razak erneut wegen Veruntreuung verurteilt"
+    "Staatlicher Investitionsfonds - Malaysias Ex-Premier Najib Razak erneut wegen Veruntreuung verurteilt",
+    "Anschlag in Syrien - Inzwischen acht Tote bei Explosion in einer Moschee im syrischem Homs",
+    "Spendeneinbruch - DRK verzeichnet ein Fünftel weniger Spenden",
+    "Sanktionen wegen „Zensur“: Für das Silicon Valley – und Europas radikale Rechte"
   ],
   "hashes": [
-    "124a33fd9b0f14276fd3c2cd038c96cd",
-    "4e6751f650c2f289ee8533cd630109dc",
-    "9568eb4c780e616950b7b604af1daeda",
     "e0590dcb92ca308a976f6c2dffed6817",
     "37fe6500a27c1934522f05b8b0fb4c74",
     "959f45bc79a49bbe0698b999107cc712",
@@ -4005,6 +4002,9 @@
     "34b6c98194c74079144af41893b1f87b",
     "e9a8e128821c96b5196593196801500e",
     "999135d8d683425a40b7b6897b4a4566",
-    "9d1aaaebc89b5b952c01e416d670145b"
+    "9d1aaaebc89b5b952c01e416d670145b",
+    "a5a46273416cec5b31d22126d3adcea4",
+    "908b674e30d4d64993dd33ce5568c6bb",
+    "4b2b37f880bc9f7de34a1c6e08645bd2"
   ]
 }
