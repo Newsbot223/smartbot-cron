@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/neuer-wehrdienst-wer-grundordnung-nicht-schuetzt-ist-untauglich-200324416.html",
-    "https://www.deutschlandfunk.de/merz-verschiebt-fuer-freitag-geplante-norwegen-reise-100.html",
-    "https://www.deutschlandfunk.de/pentagon-aufsicht-hegseth-brachte-moeglicherweise-soldaten-in-gefahr-100.html",
     "https://www.deutschlandfunk.de/deutschland-schneidet-bei-praevention-chronischer-erkrankungen-schlecht-ab-104.html",
     "https://www.deutschlandfunk.de/abgeordnete-duerfen-wieder-mehr-business-class-fliegen-100.html",
     "https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/luftalarm-in-der-ganzen-ukraine-hunderttausende-haushalte-ohne-strom-und-heizung-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-warnt-vor-einfuhr-illegalen-feuerwerks-faz-110093143.html",
     "https://www.deutschlandfunk.de/thailand-und-kambodscha-einigen-sich-auf-sofortige-waffenruhe-uno-generalsekretaer-reagiert-erfreut-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-juli-zeh-betrachtet-brandmauer-gegen-die-afd-als-gescheitert-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-juli-zeh-betrachtet-brandmauer-gegen-die-afd-als-gescheitert-faz-110093143.html",
+    "https://www.deutschlandfunk.de/verbuendete-sichern-ukraine-unterstuetzung-zu-selenskyj-kuendigt-abstimmung-mit-unterstuetzern-an-100.html",
+    "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-gilt-als-favoritin-100.html",
+    "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-beobachter-sprechen-von-farce-100.html"
   ],
   "content_hashes": [
-    "03bb999053cc04e1ae8dc2388b7bc851",
-    "20dfdaaa49dc74c2ca2230a0909aaf1d",
-    "a9c31afeca51df394ef74d83eb756450",
     "1681f98cb38a5189ed0c3617dfe9159e",
     "102013a6dca792ae99def2090e4c86d1",
     "a460c27a5ca8e5d659ae0addb5f162ac",
@@ -2001,12 +1998,12 @@
     "d86c3279e811762bda7e2aaf28813db7",
     "ea209a7ae93cc976aac7bb7d344b1927",
     "0fb4a71d275588e788c60efce5e54de6",
-    "caaa7113a3b5688da8e65c18dfcbb2d3"
+    "caaa7113a3b5688da8e65c18dfcbb2d3",
+    "e674c783dd4b59765138db6eca2acbb2",
+    "40914dfde85e9f7fab980e59ecb4e5cc",
+    "b2eacd0e81229d0b709e41edf6f710fc"
   ],
   "titles": [
-    "Wehrdienst: Wer dieses Land nicht für schützenswert hält, ist untauglich",
-    "Diskussion über eingefrorene russische Vermögen - Merz verschiebt für Freitag geplante Norwegen-Reise",
-    "Chat-Affäre - Pentagon-Aufsicht: Hegseth brachte möglicherweise Soldaten in Gefahr",
     "AOK-Analyse - Deutschland schneidet bei Prävention chronischer Erkrankungen schlecht ab",
     "Bundestag - Abgeordnete dürfen wieder mehr Business Class fliegen",
     "Rauchen und Alkohol: Deutschland tut nur wenig gegen Konsum",
@@ -3003,12 +3000,12 @@
     "Russischer Angriffskrieg - Luftalarm in der ganzen Ukraine - Hunderttausende Haushalte ohne Strom und Heizung",
     "Liveblog Bundespolitik: Klingbeil warnt vor Einfuhr illegalen Feuerwerks",
     "Gemeinsame Erklärung - Thailand und Kambodscha einigen sich auf \"sofortige\" Waffenruhe - UNO-Generalsekretär reagiert erfreut",
-    "Liveblog Bundespolitik: Juli Zeh betrachtet Brandmauer gegen die AfD als gescheitert"
+    "Liveblog Bundespolitik: Juli Zeh betrachtet Brandmauer gegen die AfD als gescheitert",
+    "Vor Treffen mit US-Präsident Trump - Verbündete sichern Ukraine Unterstützung zu - Selenskyj kündigt Abstimmung mit Unterstützern an",
+    "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti gilt als Favoritin",
+    "Myanmar - Militärjunta lässt Parlament wählen - Beobachter sprechen von \"Farce\""
   ],
   "hashes": [
-    "580b1078cd8285feff24c3ad5b3f6ef4",
-    "9b784c0394522415206f8c447d84bcb2",
-    "389dda87a55d9b4f479f362df1f3a1c4",
     "f517b08ee7ca7fd38d72c519075b326b",
     "271f57ff0ac2c65c6188ed3e7db8145f",
     "ec67403dec8247e28679bec9445bd998",
@@ -4005,6 +4002,9 @@
     "87fd89fc9bc1e0c8cdacb00fe4a11540",
     "9202c5e0354ff3bc2d3d14480bbe2a89",
     "83db67d3ed012a2b2ac5fdd4e259862c",
-    "69f9a0c5a80dded95eb684d5dea83f68"
+    "69f9a0c5a80dded95eb684d5dea83f68",
+    "077f086595f184cd8b4b60c509043cfd",
+    "df83d5d443802dae55240741a156d67c",
+    "30e5e45e27376987de182d504f33f80a"
   ]
 }
