@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hamas-uebergibt-erneut-leiche-an-rotes-kreuz-100.html",
-    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-betont-freundschaft-zwischen-deutschland-und-grossbritannien-104.html",
-    "https://www.deutschlandfunk.de/wirtschaftsministerium-foerdert-offenbar-firma-an-der-ressortchefin-reiches-lebensgefaehrte-guttenbe-100.html",
     "https://www.deutschlandfunk.de/bayern-muenchen-vfb-stuttgart-und-sc-freiburg-im-viertelfinale-des-dfb-pokals-102.html",
     "https://www.deutschlandfunk.de/putin-zu-staatsbesuch-in-indien-100.html",
     "https://www.deutschlandfunk.de/bayern-muenchen-holstein-kiel-vfb-stuttgart-und-sc-freiburg-im-viertelfinale-des-dfb-pokals-104.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bauernverband-bekraeftigt-warnungen-vor-historischer-krise-des-deutschen-weinanbaus-100.html",
     "https://www.deutschlandfunk.de/china-laengster-autobahntunnel-der-welt-fuer-den-verkehr-freigegeben-100.html",
     "https://www.deutschlandfunk.de/elfenbeinkueste-waehlt-neues-parlament-100.html",
-    "https://www.deutschlandfunk.de/us-forschern-zufolge-verlegt-russland-hyperschallraketen-nach-belarus-102.html"
+    "https://www.deutschlandfunk.de/us-forschern-zufolge-verlegt-russland-hyperschallraketen-nach-belarus-102.html",
+    "https://www.deutschlandfunk.de/weltweiter-rechtsruck-vosskuhle-sieht-auch-deutsche-demokratie-in-gefahr-100.html",
+    "https://www.deutschlandfunk.de/russlands-militaer-ueberzieht-ukraine-mit-raketenangriffen-100.html",
+    "https://www.deutschlandfunk.de/dihk-praesident-adrian-bezweifelt-erfolg-der-rentenkommission-100.html"
   ],
   "content_hashes": [
-    "9546578f7ce64542ebebce40e53b60c2",
-    "c896c73e23062a0d1fbc88e1178835d4",
-    "e97fc9cf47ce055043e40baeb3270f03",
     "b5e2d3fe52ad11fb890047a82f522467",
     "f5dc83acd9b1b0426242cdf2abc04972",
     "a7a6fe839ae1529859cd3892b1f0fa05",
@@ -2001,12 +1998,12 @@
     "fc7f2ac60b758e320f41c264b2bca35c",
     "87afbfd98d4d7f991d2b5da0daf224df",
     "715b8bce77ffe36367447123a24fc7d3",
-    "fb8083e1738cdde55ea3a840cb140821"
+    "fb8083e1738cdde55ea3a840cb140821",
+    "fe47772e6ecada658f7c43a6fdda056b",
+    "c531ef2c62d50b64e4e7fc8d406829cd",
+    "d564e7a4d1cc748114437b8bd85fe310"
   ],
   "titles": [
-    "Nahost - Hamas übergibt erneut Leiche an Rotes Kreuz",
-    "Staatsbesuch - Bundespräsident Steinmeier betont Freundschaft zwischen Deutschland und Großbritannien",
-    "\"Spiegel\"-Bericht - Wirtschaftsministerium fördert offenbar Firma, an der Ressortchefin Reiches Lebensgefährte Guttenberg beteiligt ist",
     "Fußball - Bayern München, VfB Stuttgart und SC Freiburg im Viertelfinale des DFB-Pokals",
     "Erstmals seit 2021 - Putin zu Staatsbesuch in Indien",
     "Fußball - Bayern München, Holstein Kiel, VfB Stuttgart und SC Freiburg im Viertelfinale des DFB-Pokals",
@@ -3003,12 +3000,12 @@
     "Landwirtschaft - Bauernverband bekräftigt Warnungen vor \"historischer Krise\" des deutschen Weinanbaus",
     "Tianshan-Shengli - China: Längster Autobahntunnel der Welt für den Verkehr freigegeben",
     "Afrika - Elfenbeinküste wählt neues Parlament",
-    "Reuters - US-Forschern zufolge verlegt Russland Hyperschallraketen nach Belarus"
+    "Reuters - US-Forschern zufolge verlegt Russland Hyperschallraketen nach Belarus",
+    "Ex-Präsident des Bundesverfassungsgerichts - Weltweiter Rechtsruck: Voßkuhle sieht auch deutsche Demokratie in Gefahr",
+    "Kiew - Russlands Militär überzieht Ukraine mit Raketenangriffen",
+    "Altersversorgung - DIHK-Präsident Adrian bezweifelt Erfolg der Rentenkommission"
   ],
   "hashes": [
-    "f802d774a465a0756f7da7eec87b944e",
-    "f33c81af7a8d5011825fd219c7f021f5",
-    "7610deedf03677c4d535a20b7178e92f",
     "a655e419b1c9d181a666eceffa53d2a6",
     "e4ecdf935c7f0572c3c2979647caa725",
     "30a30a68d87cb76a9ba01e692cd1d8d4",
@@ -4005,6 +4002,9 @@
     "47dc8d0df4ed00e2063ef93551ac384a",
     "226519f6b8654779e4fa730275772760",
     "c4acedd157f7e53c23e83b1fa5af9dc5",
-    "89a6693172d0b234204cffe762da2557"
+    "89a6693172d0b234204cffe762da2557",
+    "4f0d06fd38aedc5f7c0acaf4ec347c23",
+    "cfd6a0695b34a0b025b9413ded84c540",
+    "d0915c97442686a989edfaa32a93074c"
   ]
 }
