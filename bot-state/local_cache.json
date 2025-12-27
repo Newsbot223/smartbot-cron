@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/was-die-renten-abstimmung-fuer-union-und-spd-bedeutet-110796481.html",
-    "https://www.deutschlandfunk.de/ministerpraesidentenkonferenz-befasst-sich-mit-den-finanzbeziehungen-zwischen-bund-und-laendern-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wer-ist-fuer-die-probleme-bei-stuttgart-21-verantwortlich-110796397.html",
-    "https://www.spiegel.de/wirtschaft/soziales/buergergeld-jeder-zweite-bezieher-sucht-laut-befragung-keinen-job-a-04f5c207-0ccf-417e-9d13-d85a36f0133f#ref=rss",
     "https://www.aljazeera.com/video/counting-the-cost/2025/12/4/can-africa-choose-economic-partners-on-its-own-terms?traffic_source=rss",
     "https://www.deutschlandfunk.de/deutschland-stellt-ukraine-weitere-100-millionen-euro-fuer-energieinfrastruktur-zur-verfuegung-102.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-fordert-ard-zum-esc-boykott-bei-ausschluss-israels-auf-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/letzte-fahrt-zwischen-berlin-und-breslau-102.html",
     "https://www.deutschlandfunk.de/china-belegt-us-firmen-mit-sanktionen-reaktion-auf-ruestungslieferungen-an-taiwan-100.html",
     "https://www.deutschlandfunk.de/bundesnetzagentur-erwartet-fuer-2026-stabile-oder-sinkende-strompreise-100.html",
-    "https://www.deutschlandfunk.de/digitalisierung-koennte-bei-behoerdenanliegen-viel-zeit-sparen-102.html"
+    "https://www.deutschlandfunk.de/digitalisierung-koennte-bei-behoerdenanliegen-viel-zeit-sparen-102.html",
+    "https://www.deutschlandfunk.de/viele-verletzte-nach-russischen-luftangriffen-mehrere-hunderttausend-haushalte-ohne-strom-und-heizun-100.html",
+    "https://www.deutschlandfunk.de/justizministerin-hubig-gegen-klarnamenpflicht-im-internet-100.html",
+    "https://www.deutschlandfunk.de/metall-arbeitgeber-erwarten-arbeitsplatz-verluste-im-fuenfstelligen-bereich-102.html",
+    "https://www.deutschlandfunk.de/trump-kennedy-center-fordert-eine-million-dollar-schadenersatz-von-musiker-chuck-redd-wegen-absage-d-102.html"
   ],
   "content_hashes": [
-    "093549eb222fb253a16ad49f8c74780b",
-    "2299860c0dc412af0d99f75782c72ba9",
-    "cf1bb63888144f1a2603988ebceb5fd4",
-    "24f20f71130c2a4eb7aef000c1905861",
     "35f93cc0451fd375cb7dc1254d36fe1b",
     "642ccb4485bbda4a60c853dea9bf4588",
     "5736cb4ffe78277ab4a0b9c722ed7608",
@@ -2001,13 +1997,13 @@
     "b0f72e557e8ef8e702b6b52fac0cee11",
     "1dbba0af71a481fb1ab7c9ed0b7dcad0",
     "23484c6a7a4b6d6cd6b0d510fb8b8b29",
-    "8dc2051b928654980a1d9a659ff976e5"
+    "8dc2051b928654980a1d9a659ff976e5",
+    "e601dfdd41fb9e5d9532494af6b8b482",
+    "4115419fbc59986fe07d838920c0e022",
+    "be861338443fe3132b8fb754dd2b2cad",
+    "a507d83467ccb19e74d0028b71b091a4"
   ],
   "titles": [
-    "Rentenstreit: Die Koalition zwischen High Noon und Linken",
-    "Berlin - Ministerpräsidentenkonferenz befasst sich mit den Finanzbeziehungen zwischen Bund und Ländern",
-    "Weitere Verzögerung: Niemand will Schuld haben am Stuttgart-21-Desaster",
-    "Bürgergeld: Jeder zweite Bezieher sucht laut Befragung keinen Job",
     "Can Africa choose economic partners on its own terms?",
     "Bundeswirtschaftsministerium - Deutschland stellt Ukraine weitere 100 Millionen Euro für Energieinfrastruktur zur Verfügung",
     "Öffentlich-Rechtlicher Rundfunk - Kulturstaatsminister Weimer fordert ARD zum ESC-Boykott bei Ausschluss Israels auf",
@@ -3003,13 +2999,13 @@
     "\"Kulturzug\" - Letzte Fahrt zwischen Berlin und Breslau",
     "\"Ein-China-Prinzip verletzt\" - China belegt US-Firmen mit Sanktionen - Reaktion auf Rüstungslieferungen an Taiwan",
     "Medienbericht - Bundesnetzagentur erwartet für 2026 \"stabile oder sinkende\" Strompreise",
-    "Bitkom-Umfrage - Digitalisierung könnte bei Behördenanliegen viel Zeit sparen"
+    "Bitkom-Umfrage - Digitalisierung könnte bei Behördenanliegen viel Zeit sparen",
+    "Ukraine - Viele Verletzte nach russischen Luftangriffen - mehrere hunderttausend Haushalte ohne Strom und Heizung",
+    "Nach Vorstoß von Voßkuhle - Justizministerin Hubig gegen Klarnamenpflicht im Internet",
+    "Produktionskosten - Metall-Arbeitgeber erwarten Arbeitsplatz-Verluste im fünfstelligen Bereich",
+    "USA - Trump-Kennedy-Center fordert eine Million Dollar Schadenersatz von Musiker Chuck Redd wegen Absage des Weihnachtskonzerts"
   ],
   "hashes": [
-    "7aba9b3f7c4e47917d8a0d442cc2c859",
-    "5d0d3fb535dc3dfe3bcf482670017a61",
-    "683a87f2526ea462b5611b226f7d9bfa",
-    "481c0ae26c273f9093c3edbf9d89f813",
     "a8cbdd3277bfe85e2d8dc2694d4cb5aa",
     "dedd625052fca13843d1e9edee9e8156",
     "26eb6a41244dd21cb06b18abf7e44983",
@@ -4005,6 +4001,10 @@
     "859f76c4403319d3cffb2bedc3c87007",
     "0453be9aba7886363f6fdc0a8c499aa7",
     "99746ae836d9b4442624beeb708d28de",
-    "aa9b0891de43f2a94967e4cf88280ff7"
+    "aa9b0891de43f2a94967e4cf88280ff7",
+    "53112fd46fdca601fd285aaeed8e7320",
+    "a8b96287f4fd3010358c6547aaa10968",
+    "68af0e6c055491e8c8298a1b9046cb4c",
+    "c427b17910ce6153c0f6116615fcd4ab"
   ]
 }
