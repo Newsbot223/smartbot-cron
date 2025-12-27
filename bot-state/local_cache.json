@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/bundesumweltminister-verschiebt-programm-gegen-die-klimakrise-a-cda5a51e-94ef-4067-ac1a-f1fa0103b019#ref=rss",
-    "https://www.deutschlandfunk.de/nrw-ministerpraesident-wuest-cdu-unwuerdiges-geschacher-mit-dem-bund-muss-aufhoeren-102.html",
     "https://www.faz.net/aktuell/politik/inland/was-die-renten-abstimmung-fuer-union-und-spd-bedeutet-110796481.html",
     "https://www.deutschlandfunk.de/ministerpraesidentenkonferenz-befasst-sich-mit-den-finanzbeziehungen-zwischen-bund-und-laendern-100.html",
     "https://www.faz.net/aktuell/politik/inland/wer-ist-fuer-die-probleme-bei-stuttgart-21-verantwortlich-110796397.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/luftalarm-in-der-ganzen-ukraine-tausende-haushalte-ohne-strom-und-heizung-100.html",
     "https://www.deutschlandfunk.de/saudi-arabien-droht-separatisten-mit-militaerischen-schritten-102.html",
     "https://www.deutschlandfunk.de/letzte-fahrt-zwischen-berlin-und-breslau-102.html",
-    "https://www.deutschlandfunk.de/china-belegt-us-firmen-mit-sanktionen-reaktion-auf-ruestungslieferungen-an-taiwan-100.html"
+    "https://www.deutschlandfunk.de/china-belegt-us-firmen-mit-sanktionen-reaktion-auf-ruestungslieferungen-an-taiwan-100.html",
+    "https://www.deutschlandfunk.de/bundesnetzagentur-erwartet-fuer-2026-stabile-oder-sinkende-strompreise-100.html",
+    "https://www.deutschlandfunk.de/digitalisierung-koennte-bei-behoerdenanliegen-viel-zeit-sparen-102.html"
   ],
   "content_hashes": [
-    "90b2bd42e216f1eb63cfdaee2ace6c50",
-    "dff908261cd358c13a1c787c2867ff53",
     "093549eb222fb253a16ad49f8c74780b",
     "2299860c0dc412af0d99f75782c72ba9",
     "cf1bb63888144f1a2603988ebceb5fd4",
@@ -2001,11 +1999,11 @@
     "e9beb7a18489b473945413e489f7cdf0",
     "8617aa3b1f9b02104392b478969d9e1b",
     "b0f72e557e8ef8e702b6b52fac0cee11",
-    "1dbba0af71a481fb1ab7c9ed0b7dcad0"
+    "1dbba0af71a481fb1ab7c9ed0b7dcad0",
+    "23484c6a7a4b6d6cd6b0d510fb8b8b29",
+    "8dc2051b928654980a1d9a659ff976e5"
   ],
   "titles": [
-    "Bundesumweltminister verschiebt Programm gegen die Klimakrise",
-    "Lastenverteilung - NRW-Ministerpräsident Wüst (CDU): \"Unwürdiges Geschacher mit dem Bund muss aufhören\"",
     "Rentenstreit: Die Koalition zwischen High Noon und Linken",
     "Berlin - Ministerpräsidentenkonferenz befasst sich mit den Finanzbeziehungen zwischen Bund und Ländern",
     "Weitere Verzögerung: Niemand will Schuld haben am Stuttgart-21-Desaster",
@@ -3003,11 +3001,11 @@
     "Russischer Angriffskrieg - Luftalarm in der ganzen Ukraine - tausende Haushalte ohne Strom und Heizung",
     "Bürgerkrieg im Jemen - Saudi-Arabien droht Separatisten mit militärischen Schritten",
     "\"Kulturzug\" - Letzte Fahrt zwischen Berlin und Breslau",
-    "\"Ein-China-Prinzip verletzt\" - China belegt US-Firmen mit Sanktionen - Reaktion auf Rüstungslieferungen an Taiwan"
+    "\"Ein-China-Prinzip verletzt\" - China belegt US-Firmen mit Sanktionen - Reaktion auf Rüstungslieferungen an Taiwan",
+    "Medienbericht - Bundesnetzagentur erwartet für 2026 \"stabile oder sinkende\" Strompreise",
+    "Bitkom-Umfrage - Digitalisierung könnte bei Behördenanliegen viel Zeit sparen"
   ],
   "hashes": [
-    "7595a633e036bad542e23ad300e4633a",
-    "90af50bc337fff1229fd8927522d340c",
     "7aba9b3f7c4e47917d8a0d442cc2c859",
     "5d0d3fb535dc3dfe3bcf482670017a61",
     "683a87f2526ea462b5611b226f7d9bfa",
@@ -4005,6 +4003,8 @@
     "36edbd764b89b9451686e9db6cb6738f",
     "41ec4d3d1f4952ffd91757bdcc5135f4",
     "859f76c4403319d3cffb2bedc3c87007",
-    "0453be9aba7886363f6fdc0a8c499aa7"
+    "0453be9aba7886363f6fdc0a8c499aa7",
+    "99746ae836d9b4442624beeb708d28de",
+    "aa9b0891de43f2a94967e4cf88280ff7"
   ]
 }
