@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutschland-schneidet-bei-praevention-chronischer-erkrankungen-schlecht-ab-104.html",
-    "https://www.deutschlandfunk.de/abgeordnete-duerfen-wieder-mehr-business-class-fliegen-100.html",
-    "https://www.spiegel.de/wissenschaft/rauchen-und-alkohol-deutschland-tut-nur-wenig-gegen-konsum-a-c7867f83-5689-4887-82ff-bce00784d282#ref=rss",
-    "https://www.deutschlandfunk.de/lehrerverband-warnt-vor-folgen-102.html",
-    "https://www.deutschlandfunk.de/bahnchefin-palla-will-fuehrungsriege-verschlanken-102.html",
     "https://www.deutschlandfunk.de/bahn-treibt-direktverbindung-voran-102.html",
     "https://www.faz.net/aktuell/politik/inland/ruecktrittsforderungen-linken-politikerin-reisst-deutschlandflaggen-ab-110797055.html",
     "https://www.deutschlandfunk.de/putin-moralisch-verantwortlich-fuer-vergiftung-von-britin-100.html",
@@ -999,14 +994,14 @@
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-juli-zeh-betrachtet-brandmauer-gegen-die-afd-als-gescheitert-faz-110093143.html",
     "https://www.deutschlandfunk.de/verbuendete-sichern-ukraine-unterstuetzung-zu-selenskyj-kuendigt-abstimmung-mit-unterstuetzern-an-100.html",
     "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-gilt-als-favoritin-100.html",
-    "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-beobachter-sprechen-von-farce-100.html"
+    "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-beobachter-sprechen-von-farce-100.html",
+    "https://www.deutschlandfunk.de/verbuendete-sichern-selensyj-unterstuetzung-zu-104.html",
+    "https://www.deutschlandfunk.de/krankenkassen-spitzenverband-warnt-vor-drohenden-zahlungsschwierigkeiten-104.html",
+    "https://www.deutschlandfunk.de/armee-setzt-einsatz-in-stadt-in-westjordanland-fort-106.html",
+    "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-gilt-als-favorit-102.html",
+    "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-menschenrechtler-sprechen-von-farce-100.html"
   ],
   "content_hashes": [
-    "1681f98cb38a5189ed0c3617dfe9159e",
-    "102013a6dca792ae99def2090e4c86d1",
-    "a460c27a5ca8e5d659ae0addb5f162ac",
-    "a049fe942d746cf5734d44ec1603a0db",
-    "4363642304ca758bed017c5fe2586b83",
     "60dea12302f73929afcca7e2e67373d6",
     "fd9e86734855cb9b32d3cebe2ad5bd36",
     "3e63f5817324538cff756b0ee675e468",
@@ -2001,14 +1996,14 @@
     "caaa7113a3b5688da8e65c18dfcbb2d3",
     "e674c783dd4b59765138db6eca2acbb2",
     "40914dfde85e9f7fab980e59ecb4e5cc",
-    "b2eacd0e81229d0b709e41edf6f710fc"
+    "b2eacd0e81229d0b709e41edf6f710fc",
+    "c2280cb2f7173b667200483ab7c48ce6",
+    "be698db6526d59ff47e0436b49af9daf",
+    "181b8e209d08ab5a561b30746e538c71",
+    "ca00d2ad361694ae0decba629d3251f0",
+    "4f822074f342e0b4d35d1e9dbfebedc1"
   ],
   "titles": [
-    "AOK-Analyse - Deutschland schneidet bei Prävention chronischer Erkrankungen schlecht ab",
-    "Bundestag - Abgeordnete dürfen wieder mehr Business Class fliegen",
-    "Rauchen und Alkohol: Deutschland tut nur wenig gegen Konsum",
-    "\"Schulstreik gegen Wehrpflicht\" - Lehrerverband warnt vor Folgen",
-    "Stellenabbau im Bahn-Management - Bahnchefin Palla will Führungsriege verschlanken",
     "Ohne Umstieg nach London - Bahn treibt Direktverbindung voran",
     "Rücktrittsforderungen: Linken-Politikerin reißt Deutschlandflaggen ab",
     "Großbritannien - \"Putin moralisch verantwortlich für Vergiftung von Britin\"",
@@ -3003,14 +2998,14 @@
     "Liveblog Bundespolitik: Juli Zeh betrachtet Brandmauer gegen die AfD als gescheitert",
     "Vor Treffen mit US-Präsident Trump - Verbündete sichern Ukraine Unterstützung zu - Selenskyj kündigt Abstimmung mit Unterstützern an",
     "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti gilt als Favoritin",
-    "Myanmar - Militärjunta lässt Parlament wählen - Beobachter sprechen von \"Farce\""
+    "Myanmar - Militärjunta lässt Parlament wählen - Beobachter sprechen von \"Farce\"",
+    "Vor Treffen mit US-Präsident Trump - Verbündete sichern Selensyj Unterstützung zu",
+    "Pflegeversicherung - Krankenkassen-Spitzenverband warnt vor drohenden Zahlungsschwierigkeiten",
+    "Nach tödlichem Angriff in Israel - Armee setzt Einsatz in Stadt in Westjordanland fort",
+    "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti gilt als Favorit",
+    "Myanmar - Militärjunta lässt Parlament wählen - Menschenrechtler sprechen von \"Farce\""
   ],
   "hashes": [
-    "f517b08ee7ca7fd38d72c519075b326b",
-    "271f57ff0ac2c65c6188ed3e7db8145f",
-    "ec67403dec8247e28679bec9445bd998",
-    "ab5aa6b99b4b1549257a844f69c40645",
-    "dd447394574f2230db0f4fc9f7b4792a",
     "2842fe1cbd6dffb0d4251000f92b37df",
     "4e748fedadaefa21b649bdcaa0dacfc3",
     "66c077c75112c5a40641890f6be5a5a7",
@@ -4005,6 +4000,11 @@
     "69f9a0c5a80dded95eb684d5dea83f68",
     "077f086595f184cd8b4b60c509043cfd",
     "df83d5d443802dae55240741a156d67c",
-    "30e5e45e27376987de182d504f33f80a"
+    "30e5e45e27376987de182d504f33f80a",
+    "bf69633202fb0d95fed9e7793561b794",
+    "bd4a33309380cb4d88ec4dd849f6f96a",
+    "0ce40942b5b2a4259fd672fc4e71e099",
+    "3eba5c29fd60dbe39d0048f72704403f",
+    "e165bb8ea1ecf38b3fd7fdc2c94a021d"
   ]
 }
