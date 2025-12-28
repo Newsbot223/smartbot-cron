@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-medienrat-fuer-oeffentlich-rechtlichen-rundfunk-wird-in-weimar-angesiedelt-100.html",
-    "https://www.faz.net/aktuell/politik/inland/neues-sturmgewehr-g95-hat-taktische-defizite-110796994.html",
-    "https://www.deutschlandfunk.de/nato-verschiebt-wichtige-planungsaufgaben-fuer-nordeuropa-in-die-usa-100.html",
     "https://www.deutschlandfunk.de/new-york-times-verklagt-das-pentagon-wegen-neuer-medienrichtlinien-102.html",
     "https://www.deutschlandfunk.de/kinder-psychisch-weiter-stark-belastet-100.html",
     "https://www.spiegel.de/politik/deutschland/rueckschlag-fuers-bsw-wahlausschuss-plaediert-gegen-neuauszaehlung-der-bundestagswahl-a-8e7f4e04-674d-4789-bd58-2369c1078aad#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bauernverband-kraeftiges-umsatzplus-bei-bio-lebensmitteln-100.html",
     "https://www.deutschlandfunk.de/hausarrest-fuer-zehn-komplizen-von-brasiliens-ex-praesident-bolsonaro-102.html",
     "https://www.spiegel.de/panorama/sachsen-und-hessen-polizei-meldet-zahlreiche-verkehrsunfaelle-wegen-glatteis-a-e11b0426-f808-438c-9879-c5b7c5c03013#ref=rss",
-    "https://www.deutschlandfunk.de/geringe-beteiligung-bei-parlamentswahl-104.html"
+    "https://www.deutschlandfunk.de/geringe-beteiligung-bei-parlamentswahl-104.html",
+    "https://www.deutschlandfunk.de/verkehrsunfaelle-in-hessen-und-sachsen-102.html",
+    "https://www.deutschlandfunk.de/grossbritannien-bietet-jungen-menschen-einjaehrigen-wehrdienst-an-100.html",
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-buergergeldreform-spd-mitgliederbegehren-bleibt-wohl-folgenlos-faz-110093143.html"
   ],
   "content_hashes": [
-    "8de6c9eb277eca32e56f36d5393033a7",
-    "eef5251ef8e81561ed391a39d59ca19a",
-    "abb04eb2cfa648845ff10313e75e6048",
     "c5e27a10e7ca2c7d4598f4dd9cca2e80",
     "90f25fcbc54e2ac7ed4ea5380d4f1692",
     "86709d5c4f5294a54be6474b27e8bad2",
@@ -2001,12 +1998,12 @@
     "e812632bc6b6b308a5a7c8f060ee0968",
     "d13cdf26fde93bc458a346063a3d8d98",
     "f7ed1b261be66644234e4cc94bdf7fa2",
-    "4eeb6587df7779a5005e1365f70b45c4"
+    "4eeb6587df7779a5005e1365f70b45c4",
+    "2f579d5c757b22c5ff8d6273e20ad299",
+    "5a9cb71d5baebbe8410bb7d7a269aafd",
+    "cfe5d7a66eeb1f3d5bb802161cb8ee63"
   ],
   "titles": [
-    "Reformstaatsvertrag - Neuer Medienrat für öffentlich-rechtlichen Rundfunk wird in Weimar angesiedelt",
-    "bundeswehr: Neues Sturmgewehr mit taktischen Defiziten",
-    "Verteidigungsbündnis - NATO verschiebt wichtige Planungsaufgaben für Nordeuropa in die USA",
     "USA - New York Times verklagt das Pentagon wegen neuer Medienrichtlinien",
     "Studie - Kinder psychisch weiter stark belastet",
     "Rückschlag fürs BSW – Wahlausschuss plädiert gegen Neuauszählung der Bundestagswahl",
@@ -3003,12 +3000,12 @@
     "Landwirtschaft - Bauernverband: Kräftiges Umsatzplus bei Bio-Lebensmitteln",
     "Putschversuch - Hausarrest für zehn Komplizen von Brasiliens Ex-Präsident Bolsonaro",
     "Sachsen und Hessen: Polizei meldet zahlreiche Verkehrsunfälle wegen Glatteis",
-    "Elfenbeinküste - Geringe Beteiligung bei Parlamentswahl"
+    "Elfenbeinküste - Geringe Beteiligung bei Parlamentswahl",
+    "Glätte - Verkehrsunfälle in Hessen und Sachsen",
+    "Pilotprojekt ab März - Großbritannien bietet jungen Menschen einjährigen Wehrdienst an",
+    "Liveblog Bundespolitik: SPD-Mitgliederbegehren über Bürgergeldreform bleibt wohl folgenlos"
   ],
   "hashes": [
-    "fef5ad3dc400da3337769fb184d075e2",
-    "8aa01cd3a9a962aa2c2974abe8361015",
-    "899948cb0a89f540ae6780f7c07cfbf9",
     "b67516e12490b71e3d650dc0ba103e16",
     "1f9a736d1a63622c3116428612086f9f",
     "6d4e1feebcd2488270037d929d10718e",
@@ -4005,6 +4002,9 @@
     "463cc4244368a37bba6b0214943d2642",
     "8d71d915ac3ae42b7899f63f30da22ac",
     "66b172df6787ef2187f96798fb4c5ad2",
-    "70114d06b5bc30797dd181ee3b759ed3"
+    "70114d06b5bc30797dd181ee3b759ed3",
+    "5ab59b667b066db3414dbad43d9075d6",
+    "04a8dd602bd576848b33fe303440d155",
+    "5ab81de96d8c93a7c60e35daaff5e0b7"
   ]
 }
