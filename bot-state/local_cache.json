@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ladensterben-in-deutschland-hat-sich-beschleunigt-102.html",
-    "https://www.deutschlandfunk.de/deutschland-im-club-der-superreichen-vorn-dabei-102.html",
     "https://www.deutschlandfunk.de/putin-trifft-zu-staatsbesuch-in-indien-ein-kreml-kuendigt-mehr-importe-an-100.html",
     "https://www.deutschlandfunk.de/einigung-auf-unterstuetzung-fuer-winzer-und-kennzeichnung-fuer-alkoholfreie-weine-102.html",
     "https://www.deutschlandfunk.de/neuer-medienrat-fuer-oeffentlich-rechtlichen-rundfunk-wird-in-weimar-angesiedelt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-menschenrechtler-sprechen-von-farce-100.html",
     "https://www.deutschlandfunk.de/strack-zimmermann-deutsche-soldaten-in-der-ukraine-nur-im-rahmen-der-nato-moeglich-100.html",
     "https://www.deutschlandfunk.de/di-fabio-zurueckhaltend-zu-verbotsverfahren-pulver-vielleicht-lieber-noch-trocken-halten-104.html",
-    "https://www.deutschlandfunk.de/grossbritannien-verschaerft-gangart-bei-rueckfuehrungen-von-migranten-102.html"
+    "https://www.deutschlandfunk.de/grossbritannien-verschaerft-gangart-bei-rueckfuehrungen-von-migranten-102.html",
+    "https://www.deutschlandfunk.de/bauernverband-kraeftiges-umsatzplus-bei-bio-lebensmitteln-100.html",
+    "https://www.deutschlandfunk.de/hausarrest-fuer-zehn-komplizen-von-brasiliens-ex-praesident-bolsonaro-102.html"
   ],
   "content_hashes": [
-    "bcfe58b9ad8407dde0ba8d9cb59dae9e",
-    "c8f9bba52939e38aa5424651676699e0",
     "2229aa81a472494ba8b52961325c80e1",
     "d2f0ccbb7a3e94cbf0f262d7dfb609a7",
     "8de6c9eb277eca32e56f36d5393033a7",
@@ -2001,11 +1999,11 @@
     "4f822074f342e0b4d35d1e9dbfebedc1",
     "2d1375d0725453428e755864ce3478db",
     "acbe9cda435af37af3519c04839e1317",
-    "d291e7d4074113e5caa4bd9103b6ca23"
+    "d291e7d4074113e5caa4bd9103b6ca23",
+    "e812632bc6b6b308a5a7c8f060ee0968",
+    "d13cdf26fde93bc458a346063a3d8d98"
   ],
   "titles": [
-    "Wirtschaft - Ladensterben in Deutschland hat sich beschleunigt",
-    "Vermögen weltweit auf Rekordhöhe - Deutschland im Club der Superreichen vorn dabei",
     "Neu-Dehli - Putin trifft zu Staatsbesuch in Indien ein - Kreml kündigt mehr Importe an",
     "Europäische Union - Einigung auf Unterstützung für Winzer und Kennzeichnung für alkoholfreie Weine",
     "Reformstaatsvertrag - Neuer Medienrat für öffentlich-rechtlichen Rundfunk wird in Weimar angesiedelt",
@@ -3003,11 +3001,11 @@
     "Myanmar - Militärjunta lässt Parlament wählen - Menschenrechtler sprechen von \"Farce\"",
     "Nach möglichem Waffenstillstand - Strack-Zimmermann: \"Deutsche Soldaten in der Ukraine nur im Rahmen der NATO möglich\"",
     "Umgang mit der AfD - Di Fabio zurückhaltend zu Verbotsverfahren - \"Pulver vielleicht lieber noch trocken halten\"",
-    "Großbritannien verschärft Gangart bei Rückführungen von Migranten"
+    "Großbritannien verschärft Gangart bei Rückführungen von Migranten",
+    "Landwirtschaft - Bauernverband: Kräftiges Umsatzplus bei Bio-Lebensmitteln",
+    "Putschversuch - Hausarrest für zehn Komplizen von Brasiliens Ex-Präsident Bolsonaro"
   ],
   "hashes": [
-    "70fadabc345e280990d2bc8b28927d27",
-    "e846bc8bc9c12620fbb694352f65a42b",
     "ae005d5bcdd571d01346c8ede33c71b4",
     "803e1ba86265903735917b1994b53716",
     "fef5ad3dc400da3337769fb184d075e2",
@@ -4005,6 +4003,8 @@
     "e165bb8ea1ecf38b3fd7fdc2c94a021d",
     "4936fd22980675632f975c9f40bace05",
     "67fd349435ec4a799c38ff2df46cf328",
-    "88bc5aa608e5588a91491361f77a979b"
+    "88bc5aa608e5588a91491361f77a979b",
+    "463cc4244368a37bba6b0214943d2642",
+    "8d71d915ac3ae42b7899f63f30da22ac"
   ]
 }
