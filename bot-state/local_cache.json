@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/notre-dame-braucht-noch-140-millionen-euro-102.html",
-    "https://www.deutschlandfunk.de/bundesregierung-muss-schnell-ueber-visa-antraege-eines-ex-richters-aus-afghanistan-entscheiden-100.html",
     "https://www.faz.net/aktuell/politik/inland/peter-altmaier-zum-rentenstreit-gute-kompromisse-sind-mit-der-spd-moeglich-accg-200325294.html",
     "https://www.deutschlandfunk.de/noem-usa-wollen-einreiseverbot-auf-mehr-als-30-laender-ausweiten-102.html",
     "https://www.faz.net/aktuell/politik/inland/rentenstreit-peter-altmaier-hat-ein-ungutes-gefuehl-accg-200325294.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verbuendete-sichern-selenskyj-unterstuetzung-zu-100.html",
     "https://www.deutschlandfunk.de/erneut-schwere-russische-angriffe-auf-ukraine-100.html",
     "https://www.deutschlandfunk.de/afd-politiker-duerfen-wieder-an-muenchner-sicherheitskonferenz-teilnehmen-100.html",
-    "https://www.deutschlandfunk.de/tote-bei-zusammenstoessen-zwischen-alawiten-und-regierungskraeften-100.html"
+    "https://www.deutschlandfunk.de/tote-bei-zusammenstoessen-zwischen-alawiten-und-regierungskraeften-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-zu-gespraechen-mit-trump-in-palm-beach-us-praesident-lobt-telefonat-mit-putin-100.html",
+    "https://www.deutschlandfunk.de/zwei-kaeltebusse-durch-brand-schwer-beschaedigt-102.html"
   ],
   "content_hashes": [
-    "84cd94e7be3813d4f547794971eb9603",
-    "c23eaa780b7487371ed75ca1104a0062",
     "dfc375ae88468169945c99e3bd888cfd",
     "963672433be03ad563ca2a473cc745a4",
     "c14ec54e8f4e8c3234fddd5a13613c42",
@@ -2001,11 +1999,11 @@
     "8f7c9e5141df750a554a5ccbeb07bc32",
     "f8b8c1410b0a728ea716e9e1c0f252b9",
     "a8b499ff92e5abc9ed847e6477fdaaf0",
-    "cb2be17885fe12798d1c57aa599bf746"
+    "cb2be17885fe12798d1c57aa599bf746",
+    "c1bb06718b6be59f8dc77cc46513e4a5",
+    "c87cb8b0dd2abcf19eeb23b1fc1d093d"
   ],
   "titles": [
-    "Restaurierungsarbeiten - Notre-Dame braucht noch 140 Millionen Euro",
-    "Bundesverfassungsgericht - Bundesregierung muss schnell über Visa-Anträge eines Ex-Richters aus Afghanistan entscheiden",
     "Altmaier zum Rentenpaket: „Das Argument, die SPD stehe heute weiter links, lasse ich nicht gelten“",
     "Heimatschutzministerin - Noem: USA wollen Einreiseverbot auf mehr als 30 Länder ausweiten",
     "Altmaier zum Rentenpaket: „Der ganze Vorgang ist schon bemerkenswert“",
@@ -3003,11 +3001,11 @@
     "Vor Treffen mit US-Präsident Trump - Verbündete sichern Selenskyj Unterstützung zu",
     "Vor Selenskyjs Besuch bei Trump - Erneut schwere russische Angriffe auf Ukraine",
     "dpa-Bericht - AfD-Politiker dürfen wieder an Münchner Sicherheitskonferenz teilnehmen",
-    "Syrien - Tote bei Zusammenstößen zwischen Alawiten und Regierungskräften"
+    "Syrien - Tote bei Zusammenstößen zwischen Alawiten und Regierungskräften",
+    "Florida - Selenskyj zu Gesprächen mit Trump in Palm Beach - US-Präsident lobt Telefonat mit Putin",
+    "Berlin - Zwei Kältebusse durch Brand schwer beschädigt"
   ],
   "hashes": [
-    "930bcbc2c1cc47fe024c39ad59a87800",
-    "547f67fe043301c827865b6364c92f99",
     "8eb49e4bd92f4f62f9467323850b807f",
     "13eef8cc5918333ce62b8c8162171329",
     "23f533d713c3598430b0f052e230426e",
@@ -4005,6 +4003,8 @@
     "ceff88931550038e30cbf256e8d778d3",
     "4ffcd56d8d87de0a7009dfb085629736",
     "b01c3a09bd5e622503772077940d538d",
-    "ed730235accc1f90935af72c4387e56b"
+    "ed730235accc1f90935af72c4387e56b",
+    "e9797983992c2c465b31dffda5cafba0",
+    "af577b47c7dfba395e1ad31a9f07e4b0"
   ]
 }
