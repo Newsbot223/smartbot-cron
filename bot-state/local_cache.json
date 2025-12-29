@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/neues-auslaenderrecht-als-gruene-chance-110798521.html",
-    "https://www.deutschlandfunk.de/kef-senkt-empfehlung-fuer-erhoehung-des-rundfunkbeitrags-100.html",
     "https://www.faz.net/aktuell/politik/inland/untersuchungsausschuss-nord-stream-schwesig-verteidigt-sich-110798509.html",
     "https://www.deutschlandfunk.de/norwegen-kauft-von-deutschland-zwei-weitere-u-boote-102.html",
     "https://www.deutschlandfunk.de/impfkommission-sorgt-mit-neuer-empfehlung-zu-hepatitis-b-immunisierung-fuer-widerspruch-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bayern-richtet-landesweites-zentrum-fuer-infektionsschutz-ein-102.html",
     "https://www.deutschlandfunk.de/selenskyj-usa-bieten-sicherheitsgarantien-zunaechst-fuer-15-jahre-100.html",
     "https://www.deutschlandfunk.de/deutlicher-rueckgang-bei-deutschen-ruestungsexporten-erwartet-100.html",
-    "https://www.deutschlandfunk.de/feuergefecht-mit-mutmasslichen-is-kaempfern-drei-polizisten-und-sechs-islamisten-getoetet-100.html"
+    "https://www.deutschlandfunk.de/feuergefecht-mit-mutmasslichen-is-kaempfern-drei-polizisten-und-sechs-islamisten-getoetet-100.html",
+    "https://www.deutschlandfunk.de/china-startet-manoever-als-warnung-flugverkehr-gestoert-100.html",
+    "https://www.deutschlandfunk.de/jahresausblick-2026-jetzt-wirds-ernst-100.html"
   ],
   "content_hashes": [
-    "ee4a7b7a5e3cda2a4580587f3d0f8431",
-    "3d86f7a6fd699cc25417792452568318",
     "db4ff92428d221f115a131e824d2cb1d",
     "bbc2ef93010cc7e2cee1c9e355ea4c04",
     "f9d0ad3d88a8f6fd2b5405db924cc81b",
@@ -2001,11 +1999,11 @@
     "faf8a7f819f9a34990897ef94e9555ac",
     "bd962d4795c64cd291852e7a85f8d805",
     "79fc0027a07d89a2aeea327748c7f700",
-    "d0ec54f828f3b0e4c5820b05c572afa2"
+    "d0ec54f828f3b0e4c5820b05c572afa2",
+    "8daf4b829bd29fb4b899c45913f61e0a",
+    "163a942f18d58b4df78843f91f3aee8a"
   ],
   "titles": [
-    "Neues Ausländerrecht: Grüne Chance?",
-    "Medienberichte - KEF senkt Empfehlung für Erhöhung des Rundfunkbeitrags",
     "U-Ausschuss Nord Stream: Schwesig: „Niederträchtige Verschwörungstheorien“",
     "Aufrüstung - Norwegen kauft von Deutschland zwei weitere U-Boote",
     "USA - Impfkommission sorgt mit neuer Empfehlung zu Hepatitis-B-Immunisierung für Widerspruch",
@@ -3003,11 +3001,11 @@
     "Gesundheits - Bayern richtet landesweites Zentrum für Infektionsschutz ein",
     "Krieg in der Ukraine - Selenskyj: USA bieten Sicherheitsgarantien zunächst für 15 Jahre",
     "Wirtschaftsministerium - Deutlicher Rückgang bei deutschen Rüstungsexporten erwartet",
-    "Türkei - Feuergefecht mit mutmaßlichen IS-Kämpfern: Drei Polizisten und sechs Islamisten getötet"
+    "Türkei - Feuergefecht mit mutmaßlichen IS-Kämpfern: Drei Polizisten und sechs Islamisten getötet",
+    "Spannungen um Taiwan - China startet Manöver als Warnung - Flugverkehr gestört",
+    "Jahresausblick 2026 - Jetzt wird's ernst!"
   ],
   "hashes": [
-    "e202877bedabec5f11987fbcb25e51c8",
-    "7315fbf06cfbbfcc957b04f8250696f0",
     "1c7d50e8cd1ab688b2cfc98ac0eab9ad",
     "0d0ad444204965ba6fd26e4b5efa1328",
     "aaa7ee64fdc5d5930f5d88d63a53f53c",
@@ -4005,6 +4003,8 @@
     "f5c84090cb7677fa461423dc9a1f7e41",
     "74913e5beaa479d2db0bb50e4bbc0df2",
     "2aed90fd5535a288b6ec48d733c66ff8",
-    "d173e45fb86fa78c3d0a509548fe6e99"
+    "d173e45fb86fa78c3d0a509548fe6e99",
+    "1f804359f92bc9c7b8bdc2a1db961b64",
+    "632bf552c41bb8d23871ae9ee83919e7"
   ]
 }
