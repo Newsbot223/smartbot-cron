@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-bundestag-beschliesst-rentenpaket-schwarz-rot-erreicht-mehrheit-mit-eigenen-stimmen-faz-110093143.html",
-    "https://www.deutschlandfunk.de/bundestag-beschliesst-rentengesetz-mit-absoluter-mehrheit-104.html",
-    "https://www.deutschlandfunk.de/netanjahu-verspottet-sein-korruptionsverfahren-als-bugs-bunny-prozess-100.html",
     "https://www.faz.net/aktuell/politik/rentenreform-zustimmung-mit-bewaehrungsauflage-110798195.html",
     "https://www.deutschlandfunk.de/gleichstellungsbeauftragte-von-mecklenburg-vorpommern-bruedgam-tritt-zurueck-102.html",
     "https://www.deutschlandfunk.de/modi-und-putin-vereinbaren-engere-handelsbeziehungen-ihrer-laender-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/patientenbeauftragter-schwartze-fordert-aus-fuer-igel-angebote-in-arztpraxen-100.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-will-angriffe-auf-aerzte-und-polizisten-haerter-bestrafen-gewalt-gegen-polize-100.html",
     "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-klarer-sieg-fuer-partei-von-ministerpraesident-kurti-aussenministerin-ger-100.html",
-    "https://www.deutschlandfunk.de/heute-auftaktspringen-der-vierschanzentournee-in-oberstdorf-100.html"
+    "https://www.deutschlandfunk.de/heute-auftaktspringen-der-vierschanzentournee-in-oberstdorf-100.html",
+    "https://www.deutschlandfunk.de/studie-e-autos-auch-ohne-foerderung-erfolgreich-100.html",
+    "https://www.deutschlandfunk.de/das-kanu-des-manitu-bestbesuchter-kinofilm-des-jahres-102.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-in-deutschland-immer-mehr-privatflugzeuge-abheben-accg-110807701.html"
   ],
   "content_hashes": [
-    "b4c295098d1c063318222d5ffc05e7de",
-    "facf9ff74be510b50167493c1df4bb6b",
-    "ee791fd42c6106be34dfd533cc3d99f3",
     "0c71dc2cf3e44055615a5d9509603b73",
     "484f07764be11665231ce382311db5c2",
     "211502222915b5688d412a342163553a",
@@ -2001,12 +1998,12 @@
     "30414e98200d17b970d0e424aa996c6b",
     "12aef0a2e1432ecd5bddd55f73ca5c47",
     "f0c8dbcc518df25c2df08aadfeaaba9e",
-    "26a711f463dd9b26fcb648e437cd3109"
+    "26a711f463dd9b26fcb648e437cd3109",
+    "c4fb7df76e916caf9f8ddca004524cad",
+    "041c2fc8de60d64c546100f76b7fae04",
+    "5391348f7fc9fff6cfd4e734ff6819e0"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Bundestag beschließt Rentenpaket: Schwarz-Rot erreicht Mehrheit mit eigenen Stimmen",
-    "Sozialpolitik - Bundestag beschließt Rentengesetz mit absoluter Mehrheit",
-    "Israel - Netanjahu verspottet sein Korruptionsverfahren als \"Bugs-Bunny-Prozess\"",
     "Kanzlermehrheit für Rentenreform: Noch einmal darf Merz der SPD nicht bei der Flucht helfen",
     "Kosequenz aus Social-Media-Post - Gleichstellungsbeauftragte von Mecklenburg-Vorpommern, Brüdgam, tritt zurück",
     "Treffen in Neu-Delhi - Modi und Putin vereinbaren engere Handelsbeziehungen ihrer Länder",
@@ -3003,12 +3000,12 @@
     "Gesundheitspolitik - Patientenbeauftragter Schwartze fordert Aus für IGeL-Angebote in Arztpraxen",
     "Gesetzentwurf - Justizministerin Hubig will Angriffe auf Ärzte und Polizisten härter bestrafen - Gewalt gegen Polizei nimmt zu",
     "Kosovo - Vorgezogene Parlamentswahl: Klarer Sieg für Partei von Ministerpräsident Kurti - Außenministerin Gervalla-Schwarz: \"Reformen dringend nötig\"",
-    "Skispringen - Heute Auftaktspringen der Vierschanzentournee in Oberstdorf"
+    "Skispringen - Heute Auftaktspringen der Vierschanzentournee in Oberstdorf",
+    "Elektromobilität - Studie: E-Autos auch ohne Förderung erfolgreich",
+    "Bilanz - \"Das Kanu des Manitu\" bestbesuchter Kinofilm des Jahres",
+    "„kein Statussymbol“: Warum in Deutschland immer mehr Privatflugzeuge abheben"
   ],
   "hashes": [
-    "341a80ef01a09b1d36f7cb46fde6e10a",
-    "817e1082295760e4442c2d9e83c83816",
-    "22371b682280ad2500b151fbf18144ba",
     "645fcf219beb1e4e22dcb1e7f1a30cd2",
     "532e1233f7e5579a0a5cc24c75e957c0",
     "64d2c28bc7f933c4f5e565a1e17998da",
@@ -4005,6 +4002,9 @@
     "14d2da0e4fe2a7302fba6736c106bebc",
     "941069e7ba2855c76a36089a276134ac",
     "7721c1bc8f6bb74a0e82e3f693f79560",
-    "4ae66d3803250252a3270683d8888714"
+    "4ae66d3803250252a3270683d8888714",
+    "2309520d41b688ee0bdb1c27390fa9c0",
+    "6ef797bf549f1e95f2ba3855be98c6b8",
+    "56584a7cbea693da317b0208b91eccc9"
   ]
 }
