@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/impfkommission-sorgt-mit-neuer-empfehlung-zu-hepatitis-b-immunisierung-fuer-widerspruch-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-kritisiert-esc-boykott-einiger-eu-staaten-wegen-israel-linke-will-auch-palaestinensi-100.html",
     "https://www.deutschlandfunk.de/merz-und-von-der-leyen-bemuehen-sich-um-belgische-zustimmung-zur-nutzung-russischer-staatsvermoegen-100.html",
     "https://www.deutschlandfunk.de/cdu-spitzenkandidat-hagel-als-landesvorsitzender-seiner-partei-bestaetigt-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/china-startet-manoever-als-warnung-flugverkehr-gestoert-100.html",
     "https://www.deutschlandfunk.de/jahresausblick-2026-jetzt-wirds-ernst-100.html",
     "https://www.deutschlandfunk.de/bka-praesident-muench-warnt-vor-afd-regierungsbeteiligung-100.html",
-    "https://www.deutschlandfunk.de/thailaendische-armee-wirft-kambodscha-bruch-von-waffenruhe-vor-102.html"
+    "https://www.deutschlandfunk.de/thailaendische-armee-wirft-kambodscha-bruch-von-waffenruhe-vor-102.html",
+    "https://www.deutschlandfunk.de/krankenhausgesellschaft-fordert-von-bundesregierung-erleichterungen-bei-personalvorgaben-102.html"
   ],
   "content_hashes": [
-    "f9d0ad3d88a8f6fd2b5405db924cc81b",
     "5d221884f899c6e6c82a4b80922b7c5e",
     "dd5fab71f127a86854e17ac0944e55bc",
     "72be1a7b1868f0809f511509dfd0e885",
@@ -2001,10 +2000,10 @@
     "8daf4b829bd29fb4b899c45913f61e0a",
     "163a942f18d58b4df78843f91f3aee8a",
     "2ed1e66c7d177b06b263a38ab0f9584d",
-    "f1c68a846d590aeff1321d53b96cfc48"
+    "f1c68a846d590aeff1321d53b96cfc48",
+    "5f76e10068c139af9d56ee8d9d372b19"
   ],
   "titles": [
-    "USA - Impfkommission sorgt mit neuer Empfehlung zu Hepatitis-B-Immunisierung für Widerspruch",
     "Eurovision Song Contest - Bundesregierung kritisiert ESC-Boykott einiger EU-Staaten wegen Israel - Linke will auch \"palästinensische Teilnahme\"",
     "Ukraine-Krieg - Merz und von der Leyen bemühen sich um belgische Zustimmung zur Nutzung russischer Staatsvermögen",
     "Baden-Württemberg - CDU-Spitzenkandidat Hagel als Landesvorsitzender seiner Partei bestätigt",
@@ -3003,10 +3002,10 @@
     "Spannungen um Taiwan - China startet Manöver als Warnung - Flugverkehr gestört",
     "Jahresausblick 2026 - Jetzt wird's ernst!",
     "Bundeskriminalamt - BKA-Präsident Münch warnt vor AfD-Regierungsbeteiligung",
-    "Grenzkonflikt - Thailändische Armee wirft Kambodscha Bruch von Waffenruhe vor"
+    "Grenzkonflikt - Thailändische Armee wirft Kambodscha Bruch von Waffenruhe vor",
+    "Gesundheit - Krankenhausgesellschaft fordert von Bundesregierung Erleichterungen bei Personalvorgaben"
   ],
   "hashes": [
-    "aaa7ee64fdc5d5930f5d88d63a53f53c",
     "5dbf8efcb97e39e12437039f38595f78",
     "3153be0d606a93b1eee31ee381c156d3",
     "c494a01872334150f73830a25ec86373",
@@ -4005,6 +4004,7 @@
     "1f804359f92bc9c7b8bdc2a1db961b64",
     "632bf552c41bb8d23871ae9ee83919e7",
     "422b053b1e9c7a5c6217986489fe7faa",
-    "bc7a32581af6678d58e104f2bfc33125"
+    "bc7a32581af6678d58e104f2bfc33125",
+    "0e16fe05682a5a396bd1d2c2d770936d"
   ]
 }
