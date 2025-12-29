@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/manuela-schwesig-als-letzte-zeugin-im-nord-stream-ausschuss-100.html",
-    "https://www.deutschlandfunk.de/ki-aera-ist-wort-des-jahres-102.html",
     "https://www.deutschlandfunk.de/rehlinger-spd-macht-union-fuer-unbeliebtheit-der-bundesregierung-verantwortlich-100.html",
     "https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-linnemann-appelliert-bei-renten-abstimmung-an-die-eigenen-leute-faz-110093143.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-liegt-deutlich-vorne-100.html",
     "https://www.deutschlandfunk.de/trump-selenskyj-treffen-beendet-pressekonferenz-laeuft-100.html",
     "https://www.deutschlandfunk.de/trump-und-selenskyj-beenden-beratungen-viel-zuversicht-aber-wenig-details-102.html",
-    "https://www.deutschlandfunk.de/auftaktspringen-der-vierschanzentournee-in-oberstdorf-100.html"
+    "https://www.deutschlandfunk.de/auftaktspringen-der-vierschanzentournee-in-oberstdorf-100.html",
+    "https://www.deutschlandfunk.de/boellerverkauf-laeuft-an-102.html",
+    "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-klarer-sieg-fuer-kurti-102.html"
   ],
   "content_hashes": [
-    "cc5ed0a6f02e5a4fb0db18e1f56304a3",
-    "ca38ddba656c4324ec69bd5530b1201a",
     "7baebe723cbfeddd76c5f78f4bfba613",
     "200f757fcd7d6d793608c73f3ce8493d",
     "1487766930d55252bd9bc72f6ac7b2aa",
@@ -2001,11 +1999,11 @@
     "55e00478549817b70a6a22cf291979b9",
     "a0d669fdf9055033709ca852855c637e",
     "07f4b7dd0d0d34e99e286d16b351fb9a",
-    "82a8865d78903f4d47a3343d0233eb25"
+    "82a8865d78903f4d47a3343d0233eb25",
+    "ecccf685d9f4aa3c3e07a42432eaf26f",
+    "009c9d8842554011b04cb44d6343bf2d"
   ],
   "titles": [
-    "Russischer Einfluss auf Pipelinebau? - Manuela Schwesig als letzte Zeugin im Nord-Stream-Ausschuss",
-    "Gesellschaft für deutsche Sprache - \"KI-Ära\" ist Wort des Jahres",
     "Saarland - Rehlinger (SPD) macht Union für Unbeliebtheit der Bundesregierung verantwortlich",
     "Bundesverfassungsgericht: Afghanischer Ex-Richter erzielt Teilerfolg",
     "Liveblog Bundespolitik: Renten-Abstimmung: CDU-Generalsekretär Linnemann appelliert an die eigenen Leute",
@@ -3003,11 +3001,11 @@
     "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti liegt deutlich vorne",
     "Ukraine-Krieg - Trump-Selenskyj-Treffen beendet - Pressekonferenz läuft",
     "Treffen in Florida - Trump und Selenskyj beenden Beratungen - viel Zuversicht, aber wenig Details",
-    "Skispringen - Auftaktspringen der Vierschanzentournee in Oberstdorf"
+    "Skispringen - Auftaktspringen der Vierschanzentournee in Oberstdorf",
+    "Silvester - Böllerverkauf läuft an",
+    "Kosovo - Vorgezogene Parlamentswahl: Klarer Sieg für Kurti"
   ],
   "hashes": [
-    "1cefaae2d6850d9e11b7b939aabdb6dd",
-    "65990aa42c54dfd98b3de361e9dd0f4a",
     "1faa5cc0fd4e224161f22ac73ecdffac",
     "51edb8d377549b157ae3e9eb82de3eb9",
     "3915baf922e602b206f0a9773883ef34",
@@ -4005,6 +4003,8 @@
     "310d01ad0a677655728b35257f47b693",
     "1e5af31623af9c508eed09cc894c7117",
     "6ea5392c48aede949f5268f49e9fb5b4",
-    "430f5593d0a5aee5ebcda083b8f57767"
+    "430f5593d0a5aee5ebcda083b8f57767",
+    "16ef616366ae397481fe3837c7dc719c",
+    "4284e4eb1a8faab6ee1be49164064fbe"
   ]
 }
