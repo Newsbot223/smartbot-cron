@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/angriff-auf-frachter-gemeldet-102.html",
-    "https://www.faz.net/aktuell/politik/inland/das-ging-nochmal-gut-fuer-jens-spahn-accg-200329789.html",
-    "https://www.deutschlandfunk.de/grundstein-fuer-lithiumproduktion-gelegt-100.html",
     "https://www.faz.net/aktuell/politik/neues-auslaenderrecht-als-gruene-chance-110798521.html",
     "https://www.deutschlandfunk.de/kef-senkt-empfehlung-fuer-erhoehung-des-rundfunkbeitrags-100.html",
     "https://www.faz.net/aktuell/politik/inland/untersuchungsausschuss-nord-stream-schwesig-verteidigt-sich-110798509.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/internationales-jahr-der-frauen-in-der-landwirtschaft-100.html",
     "https://www.deutschlandfunk.de/feuergefecht-mit-mutmasslichen-is-kaempfern-sieben-polizisten-verletzt-100.html",
     "https://www.deutschlandfunk.de/zwei-von-drei-krankenhaeusern-schreiben-rote-zahlen-100.html",
-    "https://www.deutschlandfunk.de/bayern-richtet-landesweites-zentrum-fuer-infektionsschutz-ein-102.html"
+    "https://www.deutschlandfunk.de/bayern-richtet-landesweites-zentrum-fuer-infektionsschutz-ein-102.html",
+    "https://www.deutschlandfunk.de/selenskyj-usa-bieten-sicherheitsgarantien-zunaechst-fuer-15-jahre-100.html",
+    "https://www.deutschlandfunk.de/deutlicher-rueckgang-bei-deutschen-ruestungsexporten-erwartet-100.html",
+    "https://www.deutschlandfunk.de/feuergefecht-mit-mutmasslichen-is-kaempfern-drei-polizisten-und-sechs-islamisten-getoetet-100.html"
   ],
   "content_hashes": [
-    "6b6bf78a312f08e25aa36f9ccc3db7fa",
-    "d2d048cc3066a431f74a1d76f8c067e9",
-    "78448740546b7527199ba319fe69f751",
     "ee4a7b7a5e3cda2a4580587f3d0f8431",
     "3d86f7a6fd699cc25417792452568318",
     "db4ff92428d221f115a131e824d2cb1d",
@@ -2001,12 +1998,12 @@
     "3c991419092457e21e10e357e7674fb8",
     "fa84818b502821f56b773dc4d0098bd6",
     "848e40c1a8d7b83a7892a294810c6bfc",
-    "faf8a7f819f9a34990897ef94e9555ac"
+    "faf8a7f819f9a34990897ef94e9555ac",
+    "bd962d4795c64cd291852e7a85f8d805",
+    "79fc0027a07d89a2aeea327748c7f700",
+    "d0ec54f828f3b0e4c5820b05c572afa2"
   ],
   "titles": [
-    "Meeresenge vor Jemen - Angriff auf Frachter gemeldet",
-    "Rentenpaket beschlossen: Das ging nochmal gut für Spahn",
-    "Rheinland-Pfalz - Grundstein für Lithiumproduktion gelegt",
     "Neues Ausländerrecht: Grüne Chance?",
     "Medienberichte - KEF senkt Empfehlung für Erhöhung des Rundfunkbeitrags",
     "U-Ausschuss Nord Stream: Schwesig: „Niederträchtige Verschwörungstheorien“",
@@ -3003,12 +3000,12 @@
     "UNO - Internationales Jahr der Frauen in der Landwirtschaft 2026",
     "Türkei - Feuergefecht mit mutmaßlichen IS-Kämpfern: Sieben Polizisten verletzt",
     "Umfrage - Zwei von drei Krankenhäusern schreiben rote Zahlen",
-    "Gesundheits - Bayern richtet landesweites Zentrum für Infektionsschutz ein"
+    "Gesundheits - Bayern richtet landesweites Zentrum für Infektionsschutz ein",
+    "Krieg in der Ukraine - Selenskyj: USA bieten Sicherheitsgarantien zunächst für 15 Jahre",
+    "Wirtschaftsministerium - Deutlicher Rückgang bei deutschen Rüstungsexporten erwartet",
+    "Türkei - Feuergefecht mit mutmaßlichen IS-Kämpfern: Drei Polizisten und sechs Islamisten getötet"
   ],
   "hashes": [
-    "72364614446f08a5fa052ba1a2d48886",
-    "38539f9ae8d643304d7d4da3f4f0dcec",
-    "8f0955209848bfc94da7968f96baa7a0",
     "e202877bedabec5f11987fbcb25e51c8",
     "7315fbf06cfbbfcc957b04f8250696f0",
     "1c7d50e8cd1ab688b2cfc98ac0eab9ad",
@@ -4005,6 +4002,9 @@
     "3752cfd836ccf107d453809e8aa782b7",
     "d2c8bc97fce657a5053aef8d47974eb7",
     "f540deaa2ca6471fccaa297b7445d66c",
-    "f5c84090cb7677fa461423dc9a1f7e41"
+    "f5c84090cb7677fa461423dc9a1f7e41",
+    "74913e5beaa479d2db0bb50e4bbc0df2",
+    "2aed90fd5535a288b6ec48d733c66ff8",
+    "d173e45fb86fa78c3d0a509548fe6e99"
   ]
 }
