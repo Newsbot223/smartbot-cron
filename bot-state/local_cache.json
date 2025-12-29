@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rehlinger-spd-macht-union-fuer-unbeliebtheit-der-bundesregierung-verantwortlich-100.html",
-    "https://www.spiegel.de/panorama/justiz/bundesverfassungsgericht-afghanischer-ex-richter-erzielt-teilerfolg-a-837ecf6a-e272-403c-b6f9-19f58d31071a#ref=rss",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-linnemann-appelliert-bei-renten-abstimmung-an-die-eigenen-leute-faz-110093143.html",
     "https://www.deutschlandfunk.de/abschliessende-beratung-ueber-rentenpaket-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-verhaengt-millionen-strafe-gegen-x-wegen-mangelnder-transparenz-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-und-selenskyj-beenden-beratungen-viel-zuversicht-aber-wenig-details-102.html",
     "https://www.deutschlandfunk.de/auftaktspringen-der-vierschanzentournee-in-oberstdorf-100.html",
     "https://www.deutschlandfunk.de/boellerverkauf-laeuft-an-102.html",
-    "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-klarer-sieg-fuer-kurti-102.html"
+    "https://www.deutschlandfunk.de/vorgezogene-parlamentswahl-klarer-sieg-fuer-kurti-102.html",
+    "https://www.deutschlandfunk.de/tote-bei-zugunglueck-in-mexiko-102.html",
+    "https://www.deutschlandfunk.de/justizministerin-hubig-will-angriffe-auf-aerzte-und-polizisten-haerter-bestrafen-100.html"
   ],
   "content_hashes": [
-    "7baebe723cbfeddd76c5f78f4bfba613",
-    "200f757fcd7d6d793608c73f3ce8493d",
     "1487766930d55252bd9bc72f6ac7b2aa",
     "773b1835c4fd099cd686f5bc46de22ac",
     "1c9676d7f8ee42f554bda9c199a28ab0",
@@ -2001,11 +1999,11 @@
     "07f4b7dd0d0d34e99e286d16b351fb9a",
     "82a8865d78903f4d47a3343d0233eb25",
     "ecccf685d9f4aa3c3e07a42432eaf26f",
-    "009c9d8842554011b04cb44d6343bf2d"
+    "009c9d8842554011b04cb44d6343bf2d",
+    "987804b7399db3ae02f386b96c3befe4",
+    "6ce807727185699ffb0729518eb3f8ff"
   ],
   "titles": [
-    "Saarland - Rehlinger (SPD) macht Union für Unbeliebtheit der Bundesregierung verantwortlich",
-    "Bundesverfassungsgericht: Afghanischer Ex-Richter erzielt Teilerfolg",
     "Liveblog Bundespolitik: Renten-Abstimmung: CDU-Generalsekretär Linnemann appelliert an die eigenen Leute",
     "Bundestag - Abschließende Beratung über Rentenpaket",
     "Brüssel - EU-Kommission verhängt Millionen-Strafe gegen X wegen mangelnder Transparenz",
@@ -3003,11 +3001,11 @@
     "Treffen in Florida - Trump und Selenskyj beenden Beratungen - viel Zuversicht, aber wenig Details",
     "Skispringen - Auftaktspringen der Vierschanzentournee in Oberstdorf",
     "Silvester - Böllerverkauf läuft an",
-    "Kosovo - Vorgezogene Parlamentswahl: Klarer Sieg für Kurti"
+    "Kosovo - Vorgezogene Parlamentswahl: Klarer Sieg für Kurti",
+    "Mexiko - Tote bei Zugunglück in Mexiko",
+    "Gesetzentwurf - Justizministerin Hubig will Angriffe auf Ärzte und Polizisten härter bestrafen"
   ],
   "hashes": [
-    "1faa5cc0fd4e224161f22ac73ecdffac",
-    "51edb8d377549b157ae3e9eb82de3eb9",
     "3915baf922e602b206f0a9773883ef34",
     "6b7a8a81a9570ef3d838da848a6a23c2",
     "90004816c4ac25ea3e7263fbf3b57d3a",
@@ -4005,6 +4003,8 @@
     "6ea5392c48aede949f5268f49e9fb5b4",
     "430f5593d0a5aee5ebcda083b8f57767",
     "16ef616366ae397481fe3837c7dc719c",
-    "4284e4eb1a8faab6ee1be49164064fbe"
+    "4284e4eb1a8faab6ee1be49164064fbe",
+    "9f7fd02f5d2d5ab08834cdfdb4334cb2",
+    "3ecc5c174f3775300e40cb327585c519"
   ]
 }
