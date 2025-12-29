@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/isabel-gose-und-anna-elendt-gewinnen-titel-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-entlaesst-buerochef-jermak-auch-aus-sicherheitsrat-100.html",
-    "https://www.deutschlandfunk.de/kanzler-merz-in-jordanien-und-israel-100.html",
     "https://www.deutschlandfunk.de/erneute-gefechte-zwischen-afghanistan-und-pakistan-104.html",
     "https://www.spiegel.de/reise/reisen-politischer-beschluss-koennte-flugpreise-2026-daempfen-a-4c35071c-c005-4daa-83d3-f3b7fc13049c#ref=rss",
     "https://www.deutschlandfunk.de/einig-dass-die-ukraine-finanziert-werden-muss-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/parlament-in-bagdad-kommt-zu-erster-sitzung-zusammen-100.html",
     "https://www.deutschlandfunk.de/moskau-bezichtigt-kiew-des-angriffsversuchs-auf-putin-residenz-selenskyj-spricht-von-luege-100.html",
     "https://www.deutschlandfunk.de/topfavorit-domen-prevc-siegt-beim-auftaktspringen-102.html",
-    "https://www.deutschlandfunk.de/hamas-bekraeftigt-ablehnung-der-abgabe-ihrer-waffen-tod-von-hochrangigen-mitgliedern-bestaetigt-100.html"
+    "https://www.deutschlandfunk.de/hamas-bekraeftigt-ablehnung-der-abgabe-ihrer-waffen-tod-von-hochrangigen-mitgliedern-bestaetigt-100.html",
+    "https://www.deutschlandfunk.de/litauen-stellt-durchgehenden-zaun-an-russischer-grenze-fertig-102.html",
+    "https://www.deutschlandfunk.de/ischinger-verteidigt-einladung-von-afd-politikern-102.html",
+    "https://www.deutschlandfunk.de/regierungspartei-gewinnt-fast-200-von-255-sitzen-102.html"
   ],
   "content_hashes": [
-    "b57a408e87f2614026dd7bb658641fd7",
-    "870627455f6dc6fa4a6f4826ef379683",
-    "c086c63d5b2a46c6c9e12ecc70736aba",
     "a017dd6bb6c3f7a790bd5deb812dc019",
     "72b2ebefe9c3cf247b2143178913c796",
     "96ebb52b4abd52144c33ea4c6dd510bb",
@@ -2001,12 +1998,12 @@
     "57b50eb17a35659eec69352e3b860f84",
     "72df96d090876778ff1c94174d45df45",
     "6f049fb8f008f8c870b8a998f11d7978",
-    "14b62582420820dd244be460fa373ec0"
+    "14b62582420820dd244be460fa373ec0",
+    "79e627ecc5aec236a9c40848f0ed750f",
+    "057b46a2366f014fed7e92f8cb872cb5",
+    "470ce8af19169def08a54b7cc7f0b5f8"
   ],
   "titles": [
-    "Schwimm-Kurzbahn-Europameisterschaften - Isabel Gose und Anna Elendt gewinnen Titel",
-    "Ukraine - Selenskyj entlässt Bürochef Jermak auch aus Sicherheitsrat",
-    "Nahost-Reise - Kanzler Merz in Jordanien und Israel",
     "Kandahar - Erneute Gefechte zwischen Afghanistan und Pakistan",
     "Reisen: Politischer Beschluss könnte Flugpreise 2026 dämpfen",
     "Merz bei De Wever - Einig, dass die Ukraine finanziert werden muss",
@@ -3003,12 +3000,12 @@
     "Irak - Parlament in Bagdad kommt zu erster Sitzung zusammen",
     "Krieg gegen die Ukraine - Moskau bezichtigt Kiew des Angriffsversuchs auf Putin-Residenz - Selenskyj spricht von Lüge",
     "Oberstdorf - Topfavorit Domen Prevc siegt beim Auftaktspringen",
-    "Gaza-Friedensplan - Hamas bekräftigt Ablehnung der Abgabe ihrer Waffen - Tod von hochrangigen Mitgliedern bestätigt"
+    "Gaza-Friedensplan - Hamas bekräftigt Ablehnung der Abgabe ihrer Waffen - Tod von hochrangigen Mitgliedern bestätigt",
+    "Rund 280 Kilometer - Litauen stellt durchgehenden Zaun an russischer Grenze fertig",
+    "Münchner Sicherheitskonferenz - Ischinger verteidigt Einladung von AfD-Politikern",
+    "Elfenbeinküste - Regierungspartei gewinnt fast 200 von 255 Sitzen"
   ],
   "hashes": [
-    "e31e26d3ada62aedcd1d10c6bf57074b",
-    "d9c5df862e70128a57caf9f6215adb39",
-    "8ee1187e4bffde779cc9920cc2e9a06b",
     "0c8d2a53a440a05ac2d0492bc5fc9b1f",
     "843a2f3d8f8a4f95fad0a8b969d7587c",
     "be6fbe3056e6fcc20a54901270d3721c",
@@ -4005,6 +4002,9 @@
     "0aa63a3bc48e2a5a855cce07f684747b",
     "cd9f37b918e9ef0884d9b5b1515f1694",
     "3f425861f69cc810d5d6323763806986",
-    "a262c205a4cf1f01c4562d7475f2a6a3"
+    "a262c205a4cf1f01c4562d7475f2a6a3",
+    "3822e87c56645eaae249726d1ba87214",
+    "91eab38d96a8d6dd9701110b5cc19a1a",
+    "e2240fa50c317d6dcdcc779e43889f0a"
   ]
 }
