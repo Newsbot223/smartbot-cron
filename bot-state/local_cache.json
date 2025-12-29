@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gleichstellungsbeauftragte-von-mecklenburg-vorpommern-bruedgam-tritt-zurueck-102.html",
-    "https://www.deutschlandfunk.de/modi-und-putin-vereinbaren-engere-handelsbeziehungen-ihrer-laender-102.html",
-    "https://www.deutschlandfunk.de/bundestag-beschliesst-rentengesetz-mit-absoluter-mehrheit-merz-verspricht-umfassende-reform-100.html",
     "https://www.deutschlandfunk.de/angriff-auf-frachter-gemeldet-102.html",
     "https://www.faz.net/aktuell/politik/inland/das-ging-nochmal-gut-fuer-jens-spahn-accg-200329789.html",
     "https://www.deutschlandfunk.de/grundstein-fuer-lithiumproduktion-gelegt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/studie-e-autos-auch-ohne-foerderung-erfolgreich-100.html",
     "https://www.deutschlandfunk.de/das-kanu-des-manitu-bestbesuchter-kinofilm-des-jahres-102.html",
     "https://www.faz.net/aktuell/politik/inland/warum-in-deutschland-immer-mehr-privatflugzeuge-abheben-accg-110807701.html",
-    "https://www.deutschlandfunk.de/internationales-jahr-der-frauen-in-der-landwirtschaft-100.html"
+    "https://www.deutschlandfunk.de/internationales-jahr-der-frauen-in-der-landwirtschaft-100.html",
+    "https://www.deutschlandfunk.de/feuergefecht-mit-mutmasslichen-is-kaempfern-sieben-polizisten-verletzt-100.html",
+    "https://www.deutschlandfunk.de/zwei-von-drei-krankenhaeusern-schreiben-rote-zahlen-100.html",
+    "https://www.deutschlandfunk.de/bayern-richtet-landesweites-zentrum-fuer-infektionsschutz-ein-102.html"
   ],
   "content_hashes": [
-    "484f07764be11665231ce382311db5c2",
-    "211502222915b5688d412a342163553a",
-    "50627696c9cde8872d5dd71c0dada71b",
     "6b6bf78a312f08e25aa36f9ccc3db7fa",
     "d2d048cc3066a431f74a1d76f8c067e9",
     "78448740546b7527199ba319fe69f751",
@@ -2001,12 +1998,12 @@
     "c4fb7df76e916caf9f8ddca004524cad",
     "041c2fc8de60d64c546100f76b7fae04",
     "5391348f7fc9fff6cfd4e734ff6819e0",
-    "3c991419092457e21e10e357e7674fb8"
+    "3c991419092457e21e10e357e7674fb8",
+    "fa84818b502821f56b773dc4d0098bd6",
+    "848e40c1a8d7b83a7892a294810c6bfc",
+    "faf8a7f819f9a34990897ef94e9555ac"
   ],
   "titles": [
-    "Kosequenz aus Social-Media-Post - Gleichstellungsbeauftragte von Mecklenburg-Vorpommern, Brüdgam, tritt zurück",
-    "Treffen in Neu-Delhi - Modi und Putin vereinbaren engere Handelsbeziehungen ihrer Länder",
-    "Sozialpolitik - Bundestag beschließt Rentengesetz mit absoluter Mehrheit - Merz verspricht \"umfassende Reform\"",
     "Meeresenge vor Jemen - Angriff auf Frachter gemeldet",
     "Rentenpaket beschlossen: Das ging nochmal gut für Spahn",
     "Rheinland-Pfalz - Grundstein für Lithiumproduktion gelegt",
@@ -3003,12 +3000,12 @@
     "Elektromobilität - Studie: E-Autos auch ohne Förderung erfolgreich",
     "Bilanz - \"Das Kanu des Manitu\" bestbesuchter Kinofilm des Jahres",
     "„kein Statussymbol“: Warum in Deutschland immer mehr Privatflugzeuge abheben",
-    "UNO - Internationales Jahr der Frauen in der Landwirtschaft 2026"
+    "UNO - Internationales Jahr der Frauen in der Landwirtschaft 2026",
+    "Türkei - Feuergefecht mit mutmaßlichen IS-Kämpfern: Sieben Polizisten verletzt",
+    "Umfrage - Zwei von drei Krankenhäusern schreiben rote Zahlen",
+    "Gesundheits - Bayern richtet landesweites Zentrum für Infektionsschutz ein"
   ],
   "hashes": [
-    "532e1233f7e5579a0a5cc24c75e957c0",
-    "64d2c28bc7f933c4f5e565a1e17998da",
-    "1fdaa9d9ebfa1b8091e4d749b6c76d7a",
     "72364614446f08a5fa052ba1a2d48886",
     "38539f9ae8d643304d7d4da3f4f0dcec",
     "8f0955209848bfc94da7968f96baa7a0",
@@ -4005,6 +4002,9 @@
     "2309520d41b688ee0bdb1c27390fa9c0",
     "6ef797bf549f1e95f2ba3855be98c6b8",
     "56584a7cbea693da317b0208b91eccc9",
-    "3752cfd836ccf107d453809e8aa782b7"
+    "3752cfd836ccf107d453809e8aa782b7",
+    "d2c8bc97fce657a5053aef8d47974eb7",
+    "f540deaa2ca6471fccaa297b7445d66c",
+    "f5c84090cb7677fa461423dc9a1f7e41"
   ]
 }
