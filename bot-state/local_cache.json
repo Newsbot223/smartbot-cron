@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-kritisiert-schwesig-aussagen-im-untersuchungsausschuss-zu-nord-stream-100.html",
-    "https://www.deutschlandfunk.de/nach-millionenstrafe-gegen-x-unternehmer-musk-empfiehlt-abschaffung-der-eu-100.html",
-    "https://www.deutschlandfunk.de/brandkatastrophe-in-hongkong-chinesische-sicherheitsbehoerde-bezichtigt-internationale-medien-der-fa-100.html",
     "https://www.deutschlandfunk.de/merz-nach-gespraech-mit-belgiens-premier-de-wever-hoffnung-auf-einigung-noch-im-dezember-100.html",
     "https://www.deutschlandfunk.de/kef-aendert-empfehlung-rundfunkbeitrag-soll-weniger-ansteigen-100.html",
     "https://www.faz.net/aktuell/politik/inland/statue-in-berlin-luebckes-familie-war-nicht-eingebunden-accg-200331916.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/niederlande-expertin-rechnet-ab-kommendem-jahr-mit-grossem-andrang-auf-feuerwerks-verkauf-in-deutsch-100.html",
     "https://www.deutschlandfunk.de/koalitionspolitiker-machen-sparvorschlaege-100.html",
     "https://www.deutschlandfunk.de/suche-nach-wrack-der-malaysia-airlines-wird-fortgesetzt-106.html",
-    "https://www.deutschlandfunk.de/prozess-gegen-duesseldorfer-karnevalswagenbauer-jacques-tilly-verschoben-102.html"
+    "https://www.deutschlandfunk.de/prozess-gegen-duesseldorfer-karnevalswagenbauer-jacques-tilly-verschoben-102.html",
+    "https://www.deutschlandfunk.de/verbot-von-einweg-plastikbechern-um-vier-jahre-verschoben-102.html",
+    "https://www.deutschlandfunk.de/italien-gibt-gruenes-licht-fuer-alkoholfreien-wein-102.html",
+    "https://www.deutschlandfunk.de/sophia-und-noah-sind-die-beliebtesten-vornamen-fuer-neugeborene-kinder-in-102.html"
   ],
   "content_hashes": [
-    "020ade27f1b4db3daff8087dcebeb524",
-    "ac900c37e9d1d76c1b26acf45472eef2",
-    "745a2d4cfb8c29f960590c58cc3da8b7",
     "1dec50b15d8e65d7e9ec6856004915bc",
     "05e434b835c9a57a69156a161cb95e04",
     "660e85bb46e151b807ed821e19014391",
@@ -2001,12 +1998,12 @@
     "5f5c4d57b3045ce112431d0e35545772",
     "b4029a3b3a8d1b2325a37bbb2a4c6926",
     "08857810829bd62e9b76a6d153b11c44",
-    "a7a6a047cc6a4017429f55d72d2f5e9b"
+    "a7a6a047cc6a4017429f55d72d2f5e9b",
+    "531c01481b3cabf89afa8c9d55b193c4",
+    "3074ac0b29305e7a2123f93cd2711d5c",
+    "96791fb4809e675cdc2737bf0b35f116"
   ],
   "titles": [
-    "Russischer Einfluss auf Pipelinebau? - CDU kritisiert Schwesig-Aussagen im Untersuchungsausschuss zu Nord Stream 2",
-    "USA - Nach Millionenstrafe gegen X: Unternehmer Musk empfiehlt Abschaffung der EU",
-    "Kurz vor Parlamentswahl - Brandkatastrophe in Hongkong: Chinesische Sicherheitsbehörde bezichtigt internationale Medien der Falschberichterstattung",
     "Eingefrorene russische Gelder - Merz nach Gespräch mit Belgiens Premier De Wever: Hoffnung auf Einigung noch im Dezember",
     "Medienberichte - KEF ändert Empfehlung: Rundfunkbeitrag soll weniger ansteigen",
     "Statue in Berlin: Lübckes Familie war nicht eingebunden",
@@ -3003,12 +3000,12 @@
     "Böller-Verbot im Nachbarland - Niederlande-Expertin rechnet ab kommendem Jahr mit großem Andrang auf Feuerwerks-Verkauf in Deutschland",
     "Gesundheitsreform - Koalitionspolitiker machen Sparvorschläge",
     "Flug MH370 - Suche nach Wrack der Malaysia Airlines wird fortgesetzt",
-    "Moskau - Prozess gegen Düsseldorfer Karnevalswagenbauer Jacques Tilly verschoben"
+    "Moskau - Prozess gegen Düsseldorfer Karnevalswagenbauer Jacques Tilly verschoben",
+    "Frankreich - Verbot von Einweg-Plastikbechern um vier Jahre verschoben",
+    "Neue Rechtsverordnung - Italien gibt grünes Licht für alkoholfreien Wein",
+    "Erhebung - Sophia und Noah sind die beliebtesten Vornamen für neugeborene Kinder in 2025"
   ],
   "hashes": [
-    "cbb9d404e0c2af49a2510b60ef41012f",
-    "cfddd490199480eaa526e7ea41acb546",
-    "65c03506be97f08e6bcc1f0662fea0c5",
     "30b188b4d566fe37bb161acfc8dd930a",
     "03c1c96fd8028490983f99ca628ee38a",
     "26440e2bb6a186e9d98d10c4c2f67c75",
@@ -4005,6 +4002,9 @@
     "202c134c5036734e6ba4854d018360d0",
     "b9d4bba0ba2bcb282b81944c12228ef6",
     "0a5e3c145866da1b1603fd68d31fc40c",
-    "1375701f387e2e5c905bead9c2a0fe79"
+    "1375701f387e2e5c905bead9c2a0fe79",
+    "52717ba7208753be9d7b3f25aace960c",
+    "9e4eb332acdef015fc4f6ed447d9b7a2",
+    "8995508f923e2907d74a1c863049cb53"
   ]
 }
