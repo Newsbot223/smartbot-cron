@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zu-guttenberg-und-bundeswirtschaftsministerin-reiche-weisen-vorwuerfe-wegen-interessenkonflikten-zur-100.html",
-    "https://www.deutschlandfunk.de/habe-alles-getan-kulturstaatsminister-weimer-weist-vorwuerfe-erneut-zurueck-100.html",
     "https://www.deutschlandfunk.de/regierung-kann-kuenftig-ohne-bundesrat-sichere-herkunftsstaaten-bestimmen-100.html",
     "https://www.deutschlandfunk.de/tui-reisen-wird-2026-etwas-teurer-100.html",
     "https://www.deutschlandfunk.de/us-deportationen-nach-eswatini-unmut-ueber-geheimes-millionenabkommen-mit-washington-waechst-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/regierungspartei-gewinnt-fast-200-von-255-sitzen-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-bestaetigt-angriff-auf-eine-anlegestelle-fuer-mutmassliche-drogenboote-102.html",
     "https://www.deutschlandfunk.de/uno-generalsekretaer-fordert-einsatz-fuer-frieden-und-klimaschutz-100.html",
-    "https://www.deutschlandfunk.de/herzog-widerspricht-trump-behauptung-102.html"
+    "https://www.deutschlandfunk.de/herzog-widerspricht-trump-behauptung-102.html",
+    "https://www.deutschlandfunk.de/unicef-fast-jedes-fuenfte-kind-weltweit-waechst-in-krisen-und-konfliktgebieten-auf-100.html",
+    "https://www.deutschlandfunk.de/erneut-angriff-des-us-militaers-auf-boot-von-angeblichen-drogenschmugglern-im-ost-pazifik-100.html"
   ],
   "content_hashes": [
-    "0b6b2b014dfff2ddab2b1b12562df7ce",
-    "168cae29e03a784d4abfbe8e2fb58eaa",
     "1fd0cfffb285089e79b35e4486e027b4",
     "e30a2ff727f54fa8059fb9ad5cdcedfb",
     "7974b69e2cbd7795da98fc8a261523a9",
@@ -2001,11 +1999,11 @@
     "470ce8af19169def08a54b7cc7f0b5f8",
     "9566d1f701cc46a4eb7f4322cfcabd9a",
     "99cf9d62c1c50a6b4fd31a521314b02a",
-    "f69938487cb3795eb2b021d416ab7fc8"
+    "f69938487cb3795eb2b021d416ab7fc8",
+    "bad92fa3e01e4f313d88bc15f560367e",
+    "e19554733765d8614400bb664981d0de"
   ],
   "titles": [
-    "\"Spiegel\"-Bericht - Zu Guttenberg und Bundeswirtschaftsministerin Reiche weisen Vorwürfe wegen Interessenkonflikten zurück",
-    "Affäre um mutmaßliche Interessenkonflikte - \"Habe alles getan\" - Kulturstaatsminister Weimer weist Vorwürfe erneut zurück",
     "Bundestagsbeschluss zu Migrationspolitik - Regierung kann künftig ohne Bundesrat sichere Herkunftsstaaten bestimmen",
     "Tourismus - TUI: Reisen wird 2026 etwas teurer",
     "Südliches Afrika - US-Deportationen nach Eswatini: Unmut über geheimes Millionenabkommen mit Washington wächst",
@@ -3003,11 +3001,11 @@
     "Elfenbeinküste - Regierungspartei gewinnt fast 200 von 255 Sitzen",
     "Venezuela - US-Präsident Trump bestätigt Angriff auf eine Anlegestelle für mutmaßliche Drogenboote",
     "Neujahrsbotschaft - UNO-Generalsekretär fordert Einsatz für Frieden und Klimaschutz",
-    "Begnadigung im Korruptionsprozess für Netanjahu? - Herzog widerspricht Trump-Behauptung"
+    "Begnadigung im Korruptionsprozess für Netanjahu? - Herzog widerspricht Trump-Behauptung",
+    "Jahresbilanz - UNICEF: Fast jedes fünfte Kind weltweit wächst in Krisen- und Konfliktgebieten auf",
+    "Zwei Tote - Erneut Angriff des US-Militärs auf Boot von angeblichen Drogenschmugglern im Ost-Pazifik"
   ],
   "hashes": [
-    "1bf8d0bda1cbefebb18025ed402224eb",
-    "28962bdafec2003767bb790ac8708121",
     "605dec825161afa9f9d095c7200206e1",
     "d552fbf4523f60c391747fffb9424642",
     "b2e212ddcd373a19762f440c0769ce0f",
@@ -4005,6 +4003,8 @@
     "e2240fa50c317d6dcdcc779e43889f0a",
     "2ab491be0366c245b4882de2c77bb39d",
     "8b53b28e0e9a907cf3bb3be7e3f6a860",
-    "1a48ee6c27e683bfeee56b9bb64dd0c5"
+    "1a48ee6c27e683bfeee56b9bb64dd0c5",
+    "165c978fba9b2e1515eca15dee30caa7",
+    "149546f7c9a0a24fb01047c9428bc213"
   ]
 }
