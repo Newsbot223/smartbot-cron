@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/japan-wirft-china-gefaehrliche-provokation-mit-kampfjets-vor-100.html",
-    "https://www.deutschlandfunk.de/mindestens-23-tote-bei-brand-in-club-im-bundesstaat-goa-100.html",
     "https://www.deutschlandfunk.de/mindestens-25-tote-bei-brand-in-club-im-bundesstaat-goa-100.html",
     "https://www.deutschlandfunk.de/sed-opferbeauftragte-zupke-fordert-umbenennung-von-lenin-strassen-100.html",
     "https://www.deutschlandfunk.de/18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/junta-chef-doumbouya-bei-praesidentschaftswahl-in-guinea-in-fuehrung-102.html",
     "https://www.deutschlandfunk.de/parlament-verabschiedet-haushalt-100.html",
     "https://www.deutschlandfunk.de/neue-registrierungsvorschriften-israel-will-mehreren-hilfsorganisationen-zu-jahresbeginn-die-zulassu-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-pistorius-vorfaelle-bei-fallschirmjaegern-erschuetternd-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-pistorius-vorfaelle-bei-fallschirmjaegern-erschuetternd-faz-110093143.html",
+    "https://www.deutschlandfunk.de/selenskyj-kuendigt-weiteren-gipfel-in-paris-an-102.html",
+    "https://www.deutschlandfunk.de/eurotunnel-soll-nach-der-stoerung-im-der-nacht-wieder-in-normalbetrieb-gehen-100.html"
   ],
   "content_hashes": [
-    "06552585397313bf11ec2491e7b22bc3",
-    "21eb003f844c73bd41c14d5d35897cb2",
     "d8a86eceffa26136cad65cd5147074ca",
     "b6a68ba82f5f01e750c8a6491ace45b2",
     "b3ec8673766d9be7cf4f489a15b10faf",
@@ -2001,11 +1999,11 @@
     "7289aaa313411195be0d774a8145243c",
     "f8cf5f82c3941e47c1d2ee3debf19941",
     "d8e9ec231feb3927004176ef89dadbcd",
-    "3f539a5ee7773dc7b5654f30931fd296"
+    "3f539a5ee7773dc7b5654f30931fd296",
+    "593eb74431e149316d4d931225277d98",
+    "83b871185745ab5f0726ef12f5ffc5fd"
   ],
   "titles": [
-    "Asien - Japan wirft China gefährliche Provokation mit Kampfjets vor",
-    "Indien - Mindestens 23 Tote bei Brand in Club im Bundesstaat Goa",
     "Indien - Mindestens 25 Tote bei Brand in Club im Bundesstaat Goa",
     "Bild-Zeitung - SED-Opferbeauftragte Zupke fordert Umbenennung von Lenin-Straßen",
     "Südlich von Kreta - 18 Migranten sterben bei Bootsunglück im Mittelmeer",
@@ -3003,11 +3001,11 @@
     "Westafrika - Junta-Chef Doumbouya bei Präsidentschaftswahl in Guinea in Führung",
     "Italien - Parlament verabschiedet Haushalt 2026",
     "Gazastreifen - Neue Registrierungsvorschriften: Israel will mehreren Hilfsorganisationen zu Jahresbeginn die Zulassung entziehen",
-    "Liveblog Bundespolitik: Bouffier: Ich bin von Jens Spahn enttäuscht"
+    "Liveblog Bundespolitik: Bouffier: Ich bin von Jens Spahn enttäuscht",
+    "Verhandlungen über Kriegsende in der Ukraine - Selenskyj kündigt weiteren Gipfel in Paris an",
+    "Verkehr - Eurotunnel soll nach der Störung im der Nacht wieder in Normalbetrieb gehen"
   ],
   "hashes": [
-    "1345ccd257e39a68dc4207ba50cf8445",
-    "18623886b9f7ff1766f6ef7b65b5b70a",
     "aca2084ee4da51feec1f63d2452bcaad",
     "feb462e1cc5445e8b306b8ef7120b870",
     "c3e389aa06acd82c45ff21f594075b80",
@@ -4005,6 +4003,8 @@
     "9d8632b7cf5d1c43506a91c4d8298a8b",
     "c1e1776fbad872cf95534aa83dda4e74",
     "3b8856be4fd2a6186357a95519bedae3",
-    "bca66035b7f3131b3892dddc429f094e"
+    "bca66035b7f3131b3892dddc429f094e",
+    "82114bbe916eab6bab86dcb60a5c8fd6",
+    "20d8f98796f9d93f56b067b5035051ab"
   ]
 }
