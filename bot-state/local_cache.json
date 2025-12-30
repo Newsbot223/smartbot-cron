@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kef-aendert-empfehlung-rundfunkbeitrag-soll-weniger-ansteigen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/statue-in-berlin-luebckes-familie-war-nicht-eingebunden-accg-200331916.html",
-    "https://www.deutschlandfunk.de/ukraine-usa-und-westliche-verbuendete-hoffen-auf-bewegung-in-moskau-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-betont-in-jordanien-engagement-fuer-zweistaatenloesung-102.html",
-    "https://www.deutschlandfunk.de/mindestens-18-migranten-sterben-bei-bootsunglueck-im-mittelmeer-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-in-peking-erwartet-100.html",
     "https://www.deutschlandfunk.de/ausschreitungen-in-athen-102.html",
     "https://www.deutschlandfunk.de/weiter-kopf-an-kopf-rennen-bei-praesidentenwahl-104.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/verbot-von-einweg-plastikbechern-um-vier-jahre-verschoben-102.html",
     "https://www.deutschlandfunk.de/italien-gibt-gruenes-licht-fuer-alkoholfreien-wein-102.html",
     "https://www.deutschlandfunk.de/sophia-und-noah-sind-die-beliebtesten-vornamen-fuer-neugeborene-kinder-in-102.html",
-    "https://www.deutschlandfunk.de/europaeer-beraten-in-schaltkonferenz-102.html"
+    "https://www.deutschlandfunk.de/europaeer-beraten-in-schaltkonferenz-102.html",
+    "https://www.deutschlandfunk.de/russland-stationiert-hyperschall-raketen-in-belarus-102.html",
+    "https://www.deutschlandfunk.de/beute-im-wert-von-etwa-30-millionen-euro-gestohlen-100.html",
+    "https://www.deutschlandfunk.de/europaeer-und-kanadier-beraten-ueber-ukraine-102.html",
+    "https://www.deutschlandfunk.de/studenten-protestieren-gegen-wirtschaftliche-lage-102.html",
+    "https://www.deutschlandfunk.de/zugverkehr-am-aermelkanal-gestoert-keine-verbindungen-von-und-nach-london-102.html"
   ],
   "content_hashes": [
-    "05e434b835c9a57a69156a161cb95e04",
-    "660e85bb46e151b807ed821e19014391",
-    "27f10e396ccbd69dc5e1f76929ad1ceb",
-    "3f8e5fc6c1a737012fbbb1858d999d1d",
-    "8386bcfd8a9c274fde0a86c6bc5b5ee9",
     "71f74346fdc699cb77f2d97a00bc5450",
     "261c0ebaff32326245904d489a4a9b98",
     "2e0d1279a4e30ae1a4bd5b577dd1283e",
@@ -2001,14 +1996,14 @@
     "531c01481b3cabf89afa8c9d55b193c4",
     "3074ac0b29305e7a2123f93cd2711d5c",
     "96791fb4809e675cdc2737bf0b35f116",
-    "24c25534799f3cde072ac4dc26657fe0"
+    "24c25534799f3cde072ac4dc26657fe0",
+    "03bda240534d23313850af1b84e57b62",
+    "0bc03b563f8d10c54ec520ba2208432a",
+    "51949612dc4a016ed40f2c1f5244708c",
+    "1361f866d69f6142faae5cff08a65289",
+    "cd1fbd24b7cb98605cc689fb69944f58"
   ],
   "titles": [
-    "Medienberichte - KEF ändert Empfehlung: Rundfunkbeitrag soll weniger ansteigen",
-    "Statue in Berlin: Lübckes Familie war nicht eingebunden",
-    "Gespräche in Miami und London - Ukraine, USA und westliche Verbündete hoffen auf Bewegung in Moskau",
-    "Nahost-Reise - Bundeskanzler Merz betont in Jordanien Engagement für Zweistaatenlösung",
-    "Südlich von Kreta - Mindestens 18 Migranten sterben bei Bootsunglück im Mittelmeer",
     "China-Reise - Außenminister Wadephul in Peking erwartet",
     "Griechenland - Ausschreitungen in Athen",
     "Honduras - Weiter Kopf-an-Kopf-Rennen bei Präsidentenwahl",
@@ -3003,14 +2998,14 @@
     "Frankreich - Verbot von Einweg-Plastikbechern um vier Jahre verschoben",
     "Neue Rechtsverordnung - Italien gibt grünes Licht für alkoholfreien Wein",
     "Erhebung - Sophia und Noah sind die beliebtesten Vornamen für neugeborene Kinder in 2025",
-    "Ukraine-Krieg - Europäer beraten in Schaltkonferenz"
+    "Ukraine-Krieg - Europäer beraten in Schaltkonferenz",
+    "Aufrüstung - Russland stationiert Hyperschall-Raketen in Belarus",
+    "Bankeinbruch in Gelsenkirchen - Beute im Wert von etwa 30 Millionen Euro gestohlen",
+    "Schaltkonferenz - Europäer und Kanadier beraten über Ukraine",
+    "Iran - Studenten protestieren gegen wirtschaftliche Lage",
+    "Eurostar - Zugverkehr am Ärmelkanal gestört - keine Verbindungen von und nach London"
   ],
   "hashes": [
-    "03c1c96fd8028490983f99ca628ee38a",
-    "26440e2bb6a186e9d98d10c4c2f67c75",
-    "66e186a70bf85da9a53a699588bc1fef",
-    "6623450fd07c81493685c02168c2c3d3",
-    "a63dd97ca18352c68b93e540226f0c79",
     "930623854f8b35300605acc9e8908590",
     "2a4c95ee176012291c5082b44d015f42",
     "a94965a07d2582067f03cfa27c1f206b",
@@ -4005,6 +4000,11 @@
     "52717ba7208753be9d7b3f25aace960c",
     "9e4eb332acdef015fc4f6ed447d9b7a2",
     "8995508f923e2907d74a1c863049cb53",
-    "3866df4f96112805b0f2b3c278d68de1"
+    "3866df4f96112805b0f2b3c278d68de1",
+    "75ac6f626de72c39fffba50c479072bb",
+    "d474dbecce3a281be5fd136e42936061",
+    "e801a86fc523594d433fa1e09047f7d3",
+    "2895f1e0fcb3dba422a615ed540495a9",
+    "c8645e9eb4974212e57bc1423c3ab079"
   ]
 }
