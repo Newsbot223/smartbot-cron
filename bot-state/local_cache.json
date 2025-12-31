@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/mietwagenpreise-steigen-zu-weihnachten-um-mehr-als-ein-sechstel-a-9e543a76-bb07-4c2d-8354-6b6fc41cbb08#ref=rss",
-    "https://www.deutschlandfunk.de/luxus-schokolade-armut-in-deutschland-christoph-butterwegge-politologe-100.html",
-    "https://www.aljazeera.com/video/quotable/2025/12/7/killing-of-journalists-likely-to-become-more?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/inland/afd-und-wehrdienst-welches-parteimitglied-wuerde-im-kriegsfall-fuer-deutschland-kaempfen-110797751.html",
     "https://www.deutschlandfunk.de/macron-droht-peking-mit-handelsbeschraenkungen-100.html",
     "https://www.deutschlandfunk.de/lando-norris-erstmals-formel-1-weltmeister-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/richterbund-beklagt-so-viele-unerledigte-justizfaelle-wie-noch-nie-ermittlungen-muessen-oft-vorzeiti-100.html",
     "https://www.deutschlandfunk.de/usa-verhaengen-sanktionen-gegen-personen-und-firmen-aus-venezuela-und-dem-iran-100.html",
     "https://www.deutschlandfunk.de/japan-und-australien-verurteilen-chinesisches-grossmanoever-rund-um-taiwan-100.html",
-    "https://www.deutschlandfunk.de/unterlegener-kandidat-nasralla-geht-juristisch-gegen-wahlsieg-von-konkurrent-asfura-vor-102.html"
+    "https://www.deutschlandfunk.de/unterlegener-kandidat-nasralla-geht-juristisch-gegen-wahlsieg-von-konkurrent-asfura-vor-102.html",
+    "https://www.deutschlandfunk.de/china-weist-kritik-an-grossmanoever-rund-um-taiwan-zurueck-100.html",
+    "https://www.deutschlandfunk.de/ehrenvorsitzender-lammert-spricht-sich-gegen-afd-verbotsverfahren-aus-102.html",
+    "https://www.deutschlandfunk.de/thailand-laesst-18-kambodschanische-kriegsgefangene-frei-100.html"
   ],
   "content_hashes": [
-    "951094ffdceb2448429d63186f203a1d",
-    "e1a9c5fdda30a0f8803cd9a33ee67d8e",
-    "60092e3b1883efc57782e23944dc148f",
     "3d6a326c1551c4dadc3a4c61665d4f80",
     "3d297e1395417b4bbf226e73f2c098d8",
     "d2cc69273c1efc13e31a409fe4f499b0",
@@ -2001,12 +1998,12 @@
     "8cbb5f0ea94c1595a2bf837517f5500d",
     "9b98ea5899a8159ddb4f19b4d43a653e",
     "e8480357c647c9c59b25917a5fb764c6",
-    "edaede8a5700e81751aa1b824f3cf9cf"
+    "edaede8a5700e81751aa1b824f3cf9cf",
+    "aeefecb700f7bbc34574061164186872",
+    "55e5a3f306951350fd486d4a1114b2ee",
+    "fdbf0861afed3a29ba59b4e21266bea9"
   ],
   "titles": [
-    "Mietwagenpreise steigen zu Weihnachten um mehr als ein Sechstel",
-    "Armut in Deutschland - Politologe: Schokolade sollte in einem reichen Land kein Luxusgut sein",
-    "Killing of journalists “likely to become more common”",
     "Rechte Kriegsdienstverweigerung: Verrät die AfD das deutsche Vaterland?",
     "Nach China-Reise - Macron droht Peking mit Handelsbeschränkungen",
     "Motorsport - Lando Norris erstmals Formel-1-Weltmeister",
@@ -3003,12 +3000,12 @@
     "Personalmangel - Richterbund beklagt so viele unerledigte Justizfälle wie noch nie - Ermittlungen müssen oft vorzeitig eingestellt werden",
     "Drohnen- und Raketenprogramme - USA verhängen Sanktionen gegen Personen und Firmen aus Venezuela und dem Iran",
     "\"Destabilisierend\" - Japan und Australien verurteilen chinesisches Großmanöver rund um Taiwan",
-    "Honduras - Unterlegener Kandidat Nasralla geht juristisch gegen Wahlsieg von Konkurrent Asfura vor"
+    "Honduras - Unterlegener Kandidat Nasralla geht juristisch gegen Wahlsieg von Konkurrent Asfura vor",
+    "\"Verantwortungslos\" - China weist Kritik an Großmanöver rund um Taiwan zurück",
+    "Konrad-Adenauer-Stiftung - Ehrenvorsitzender Lammert spricht sich gegen AfD-Verbotsverfahren aus",
+    "Südostasien - Thailand lässt 18 kambodschanische Kriegsgefangene frei"
   ],
   "hashes": [
-    "bf30aa5b0414c6ca9f30b334a130d4ae",
-    "484d329c144e0aacd55a687e1e52c35d",
-    "4163982e6c0053a17d26218605f93e39",
     "a528d30beedcf9ba4a6e3aeab38e55fe",
     "ace13ba3d1030c6c24465bf924deeca2",
     "bb87d9fc7e67125b6779e06bab22e0f5",
@@ -4005,6 +4002,9 @@
     "52e5df7550a0eafd90eb24cfdf993272",
     "7354cdc6df6b3cd35ffea0e771410251",
     "4eb890a23a219d7764e21876894dc383",
-    "94e3a58dbe270506854e611de9c148cf"
+    "94e3a58dbe270506854e611de9c148cf",
+    "3e0a8bd5eaed3779c24844391174d834",
+    "c506628194fda0a880841c136e7ac9dc",
+    "5732a286a5b9778cf3e469d9ca521aaa"
   ]
 }
