@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/pete-hegseth-us-verteidigungsminister-nennt-deutschland-vorbildlichen-verbuendeten-a-b4640ffb-6dda-4718-aef3-bda4c541c8f4#ref=rss",
-    "https://www.deutschlandfunk.de/niedrige-beteiligung-an-parlamentswahl-100.html",
-    "https://www.aljazeera.com/sports/liveblog/2025/12/7/live-real-madrid-vs-celta-vigo-la-liga?traffic_source=rss",
-    "https://www.deutschlandfunk.de/niedrige-beteiligung-an-parlamentswahlen-104.html",
-    "https://www.deutschlandfunk.de/bas-lobt-vorschlag-rentenbeginn-an-beitragsjahre-zu-koppeln-100.html",
     "https://www.deutschlandfunk.de/haus-der-geschichte-bonn-zeigt-neue-dauerausstellung-nach-umbau-102.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-spaetere-rente-fuer-akademiker-bas-zeigt-sich-offen-fuer-die-idee-faz-110093143.html",
     "https://www.spiegel.de/politik/deutschland/us-sicherheitsstrategie-norbert-roettgen-sieht-usa-nicht-mehr-an-der-seite-von-europa-a-39ba112d-1ebc-4a23-929c-a200cb468fc0#ref=rss",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/thailand-laesst-18-kambodschanische-kriegsgefangene-frei-100.html",
     "https://www.aljazeera.com/news/2025/12/31/thailand-releases-18-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss",
     "https://www.deutschlandfunk.de/justiz-droht-demonstrierenden-festnahmen-nach-protesten-100.html",
-    "https://www.deutschlandfunk.de/41-junge-maenner-bei-traditionellen-beschneidungsritualen-gestorben-100.html"
+    "https://www.deutschlandfunk.de/41-junge-maenner-bei-traditionellen-beschneidungsritualen-gestorben-100.html",
+    "https://www.deutschlandfunk.de/erfolge-bei-der-bekaempfung-von-polio-100.html",
+    "https://www.deutschlandfunk.de/mh370-neue-suche-nach-dem-wrack-des-verschwundenen-flugzeugs-von-malaysia-airlines-angelaufen-100.html",
+    "https://www.deutschlandfunk.de/finnland-setzt-schiff-nach-beschaedigung-eines-seekabels-fest-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-spricht-von-gezieltem-ablenkungsmanoever-102.html",
+    "https://www.deutschlandfunk.de/moeglicher-lizenzentzug-fuer-hilfsorganisationen-stoesst-auf-kritik-102.html"
   ],
   "content_hashes": [
-    "4bd85124ac327980fa22ee167f5d0911",
-    "7d2910af2e920a5fac40b2651cb9ed45",
-    "24f94cef6892207795776c462290141b",
-    "50525e7ef437886a9aa9fb776f2d248b",
-    "2be4f939fd807cf46fd6b476cd6e5727",
     "786968a006e05c397a30902dec4062af",
     "7828843a7bb2eb2f8da3f53221f65608",
     "1f2ac827b5a13d383f664f845235bac4",
@@ -2001,14 +1996,14 @@
     "fdbf0861afed3a29ba59b4e21266bea9",
     "8e996089e6e6db3983b6b5e7d30f9bdf",
     "df7f7202f955d22a127cfd828685652e",
-    "a90b204673d5fc75ec8208508beff100"
+    "a90b204673d5fc75ec8208508beff100",
+    "e75439da84cb4929470ff17f72e0f927",
+    "4b5b932e47c9cc8214e760c740999f1d",
+    "b45dce10ba9e460b795643087ce0af85",
+    "079fe47c5de84177390bb90a5062e68d",
+    "d3b85d9f29cebdd4eee3839d4789b781"
   ],
   "titles": [
-    "Pete Hegseth: US-Verteidigungsminister nennt Deutschland »vorbildlichen Verbündeten«",
-    "Hongkong - Niedrige Beteiligung an Parlamentswahl",
-    "LIVE: Real Madrid vs Celta Vigo – La Liga",
-    "Hongkong - Niedrige Beteiligung an Parlamentswahlen",
-    "Altersversorgung - Bas lobt Vorschlag, Rentenbeginn an Beitragsjahre zu koppeln",
     "Geschichte der Bundesrepublik - Haus der Geschichte Bonn zeigt neue Dauerausstellung nach Umbau",
     "Liveblog Bundespolitik: Spätere Rente für Akademiker? Bas zeigt sich offen für die Idee",
     "US-Sicherheitsstrategie: Norbert Röttgen sieht USA nicht mehr an der Seite von Europa",
@@ -3003,14 +2998,14 @@
     "Südostasien - Thailand lässt 18 kambodschanische Kriegsgefangene frei",
     "Thailand releases 18 Cambodian soldiers as ceasefire holds",
     "Iran - Justiz droht Demonstrierenden - Festnahmen nach Protesten",
-    "Südafrika - 41 junge Männer bei traditionellen Beschneidungsritualen gestorben"
+    "Südafrika - 41 junge Männer bei traditionellen Beschneidungsritualen gestorben",
+    "Pakistan - Erfolge bei der Bekämpfung von Polio",
+    "Indischer Ozean - MH370: Neue Suche nach dem Wrack des verschwundenen Flugzeugs von Malaysia Airlines angelaufen",
+    "Ostsee - Finnland setzt Schiff nach Beschädigung eines Seekabels fest",
+    "Vermeintlicher ukrainischer Drohnenangriff auf Putins Residenz - EU-Außenbeauftragte Kallas spricht von gezieltem Ablenkungsmanöver",
+    "Israel - Möglicher Lizenzentzug für Hilfsorganisationen stößt auf Kritik"
   ],
   "hashes": [
-    "bb0986f50289121cbe0707c6ce1fd840",
-    "c6da066771031234c9986cb160ec6947",
-    "b97544c68800f593adc06f9ea5e347de",
-    "d5e9203e593fa841b4d0d5d60e91cf5a",
-    "ca24a64b2bde38995811fe0574f97d08",
     "d14666ee21c1424977550cd96de2762f",
     "cb81d00de0c615d105b121596b3ca622",
     "5c6b041e8e479dc06b9c62629d3f999e",
@@ -4005,6 +4000,11 @@
     "5732a286a5b9778cf3e469d9ca521aaa",
     "c6cf1e9a7cb35e2832949bf6d3776c91",
     "1a069812dcc71c4b89bc74f05d623c77",
-    "8a06fbf7088d258ccd5a3b3fc585f9a2"
+    "8a06fbf7088d258ccd5a3b3fc585f9a2",
+    "7c746b1347f617c4ae83840103472639",
+    "3a68395656d6e07880b4c43bb6a15a8d",
+    "48c9ce810d214c3adfae22ff36441b2d",
+    "5a3a9ca2d20f17f54a0cd59a84244e6c",
+    "778f634a432c4493cffcee9bbca16e8b"
   ]
 }
