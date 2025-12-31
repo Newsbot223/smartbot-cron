@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-spaetere-rente-fuer-akademiker-bas-zeigt-sich-offen-fuer-die-idee-faz-110093143.html",
-    "https://www.spiegel.de/politik/deutschland/us-sicherheitsstrategie-norbert-roettgen-sieht-usa-nicht-mehr-an-der-seite-von-europa-a-39ba112d-1ebc-4a23-929c-a200cb468fc0#ref=rss",
-    "https://www.deutschlandfunk.de/chef-der-techniker-krankenkasse-erwartet-hoehere-beitragssaetze-100.html",
     "https://www.deutschlandfunk.de/putschversuch-in-benin-offenbar-vereitelt-112.html",
     "https://www.spiegel.de/ausland/us-sicherheitsstrategie-europa-kritisiert-neue-ausrichtung-moskau-begruesst-kurswechsel-a-b3766b09-a5d4-4c07-81e0-02653732f179#ref=rss",
     "https://www.deutschlandfunk.de/100-entfuehrte-schulkinder-in-nigeria-offenbar-wieder-in-freiheit-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/finnland-setzt-schiff-nach-beschaedigung-eines-seekabels-fest-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-spricht-von-gezieltem-ablenkungsmanoever-102.html",
     "https://www.deutschlandfunk.de/moeglicher-lizenzentzug-fuer-hilfsorganisationen-stoesst-auf-kritik-102.html",
-    "https://www.faz.net/aktuell/politik/inland/frauenhass-zerstoert-kameradschaft-110811385.html"
+    "https://www.faz.net/aktuell/politik/inland/frauenhass-zerstoert-kameradschaft-110811385.html",
+    "https://www.deutschlandfunk.de/xi-bekraeftigt-anspruch-chinas-auf-taiwan-100.html",
+    "https://www.deutschlandfunk.de/justiz-droht-mit-entschiedenem-vorgehen-gegen-demonstranten-100.html",
+    "https://www.aljazeera.com/news/longform/2025/12/31/how-donald-trump-launched-a-new-push-to-amass-us-government-data-in-2025?traffic_source=rss"
   ],
   "content_hashes": [
-    "7828843a7bb2eb2f8da3f53221f65608",
-    "1f2ac827b5a13d383f664f845235bac4",
-    "0e6de021278928c6eca7bcdd9cddac36",
     "b32e72b8f9e997af890764725ac8cce8",
     "4bfdef7edf51c3b4a0382e9420abb0c5",
     "b77afb73ceaa44147ee50996311e56a3",
@@ -2001,12 +1998,12 @@
     "b45dce10ba9e460b795643087ce0af85",
     "079fe47c5de84177390bb90a5062e68d",
     "d3b85d9f29cebdd4eee3839d4789b781",
-    "1964d509c9fa0f725e0e887ea4837571"
+    "1964d509c9fa0f725e0e887ea4837571",
+    "0589210b40caeab50307273b61bd1f40",
+    "d6dfb52fe256f01e4c2c6e90fb5cd023",
+    "8517e283dbe0abff8943962f92780b98"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Spätere Rente für Akademiker? Bas zeigt sich offen für die Idee",
-    "US-Sicherheitsstrategie: Norbert Röttgen sieht USA nicht mehr an der Seite von Europa",
-    "Gesundheitskosten - Chef der Techniker Krankenkasse erwartet höhere Beitragssätze",
     "Westafrika - Putschversuch in Benin offenbar vereitelt",
     "US-Sicherheitsstrategie: Europa kritisiert neue Ausrichtung, Moskau begrüßt Kurswechsel",
     "Medienbericht - 100 entführte Schulkinder in Nigeria offenbar wieder in Freiheit",
@@ -3003,12 +3000,12 @@
     "Ostsee - Finnland setzt Schiff nach Beschädigung eines Seekabels fest",
     "Vermeintlicher ukrainischer Drohnenangriff auf Putins Residenz - EU-Außenbeauftragte Kallas spricht von gezieltem Ablenkungsmanöver",
     "Israel - Möglicher Lizenzentzug für Hilfsorganisationen stößt auf Kritik",
-    "Vorwürfe gegen Soldaten: Frauenhass zerstört Kameradschaft"
+    "Vorwürfe gegen Soldaten: Frauenhass zerstört Kameradschaft",
+    "Taiwan-Frage - Xi bekräftigt Anspruch Chinas auf Taiwan",
+    "Iran - Justiz droht mit entschiedenem Vorgehen gegen Demonstranten",
+    "How Donald Trump launched a new push to amass US government data in 2025"
   ],
   "hashes": [
-    "cb81d00de0c615d105b121596b3ca622",
-    "5c6b041e8e479dc06b9c62629d3f999e",
-    "6f244f458cc706af91d082f9c419b1c2",
     "10fee9f4ee28c11ba249353e24cc5fe3",
     "2b7de807dfd4aadfcbfa024a4627ba30",
     "d236892df9edf32c9d46ae3cfc67ddec",
@@ -4005,6 +4002,9 @@
     "48c9ce810d214c3adfae22ff36441b2d",
     "5a3a9ca2d20f17f54a0cd59a84244e6c",
     "778f634a432c4493cffcee9bbca16e8b",
-    "53abdbf60cb201d738f115f6bb56ed3c"
+    "53abdbf60cb201d738f115f6bb56ed3c",
+    "ff5c33b321e5de387a539ceb84ca02c2",
+    "eb01da2a841c3052c1680e4b871db731",
+    "0737afe7f0b1b21fda63d05f9797154c"
   ]
 }
