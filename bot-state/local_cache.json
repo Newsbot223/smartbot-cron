@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-russland-bleibt-gefahr-fuer-frieden-und-freiheit-102.html",
-    "https://www.deutschlandfunk.de/gericht-in-china-ordnet-schadenersatz-fuer-angehoerige-von-opfern-an-100.html",
     "https://www.aljazeera.com/gallery/2025/12/8/syrians-celebrate-anniversary-of-bashar-al-assads-fall?traffic_source=rss",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-sieht-fortschritte-mit-china-in-handelsfragen-100.html",
     "https://www.deutschlandfunk.de/meta-weniger-personalisierte-werbung-fuer-eu-nutzer-durch-bezahlmodell-moeglich-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erste-tote-bei-protesten-gemeldet-100.html",
     "https://www.deutschlandfunk.de/leon-weintraub-ist-100-jahre-alt-geworden-102.html",
     "https://www.deutschlandfunk.de/domen-prevc-gewinnt-neujahrsspringen-104.html",
-    "https://www.deutschlandfunk.de/polizei-geht-von-dutzenden-toten-in-crans-montana-aus-verpuffung-bei-brand-war-keine-sprengsatz-expl-110.html"
+    "https://www.deutschlandfunk.de/polizei-geht-von-dutzenden-toten-in-crans-montana-aus-verpuffung-bei-brand-war-keine-sprengsatz-expl-110.html",
+    "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silversterfeier-in-crans-montana-100.html",
+    "https://www.faz.net/aktuell/politik/inland/nach-gewalt-an-silvester-schnell-konsequenz-zeigen-110812124.html"
   ],
   "content_hashes": [
-    "64d1543464841d17beacfcff758d9b8d",
-    "4f9978db7bd162a61a05a0ba13d32104",
     "b5a8ea1b23ac9d8699e0d46bd71eae23",
     "8b78ff14a39c31858cd0a5b98ddd7cb5",
     "87a27ad9b273045efc5034083e890ed7",
@@ -2001,11 +1999,11 @@
     "4719baaa097e0eb83f4e2e50080333dd",
     "71ea54e2ac11135173f9c378b6bca82e",
     "77e9eeba756e613e476ef4dae9702cf3",
-    "9e50b30efb8142db776ace7998e7bba5"
+    "9e50b30efb8142db776ace7998e7bba5",
+    "1121fa32725a100103ade40101c76f83",
+    "94efea904903cc4ffce3ed74cc7bb622"
   ],
   "titles": [
-    "Neue US-Sicherheitsstrategie - Bundesregierung: Russland bleibt Gefahr für Frieden und Freiheit",
-    "Flug MH370 - Gericht in China ordnet Schadenersatz für Angehörige von Opfern an",
     "Syrians celebrate anniversary of Bashar al-Assad’s fall",
     "Peking - Außenminister Wadephul sieht Fortschritte mit China in Handelsfragen",
     "Daten - Meta: Weniger personalisierte Werbung für EU-Nutzer durch Bezahlmodell möglich",
@@ -3003,11 +3001,11 @@
     "Iran - Erste Tote bei Protesten gemeldet",
     "Holocaust-Überlebender - Leon Weintraub ist 100 Jahre alt geworden",
     "Vierschanzentournee - Domen Prevc gewinnt Neujahrsspringen",
-    "Schweiz - Polizei geht von Dutzenden Toten in Crans-Montana aus - Verpuffung bei Brand war keine Sprengsatz-Explosion"
+    "Schweiz - Polizei geht von Dutzenden Toten in Crans-Montana aus - Verpuffung bei Brand war keine Sprengsatz-Explosion",
+    "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silversterfeier in Crans-Montana",
+    "Gewalt an Silvester: Schnell ermitteln, schnell anklagen, schnell verurteilen"
   ],
   "hashes": [
-    "997e8eeee1704b0b6ce03ff01f939f87",
-    "25969c2f66ab6acc67c037c6f4e62da3",
     "cd2d7028b70a8e70ffdede91aaec406e",
     "2c519641e5bed7f7cf06dad553676aa5",
     "2f378ffaba49b6236abf9802a831c063",
@@ -4005,6 +4003,8 @@
     "87ba4bbebb86a08cf174e136fe3e40cf",
     "3e5b1d1e33be8938b4a67df7b72ab054",
     "386e9df7d254534bf639bb0f5807965c",
-    "08c1cd88d6e8228f7d0fa03888be3058"
+    "08c1cd88d6e8228f7d0fa03888be3058",
+    "8b4cd69a0752068a0beda1a70bfa0b67",
+    "b3415d4f8141f749fe79ac8f6caf5732"
   ]
 }
