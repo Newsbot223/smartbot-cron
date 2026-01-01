@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/justiz/aachen-mann-mit-28-aliasnamen-festgenommen-a-0c7cba1f-e004-4a85-abcd-ae7046a57cd2#ref=rss",
-    "https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-verteilung-von-asylbewerbern-102.html",
     "https://www.deutschlandfunk.de/nach-zwischenfall-mit-kampfflugzeugen-japan-bestellt-chinesischen-botschafter-ein-100.html",
     "https://www.deutschlandfunk.de/mehr-als-41-000-ungueltige-stimmzettel-bei-wahl-in-hongkong-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-treffen-mit-merz-starmer-und-macron-in-london-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/steuer-deutschlandticket-krankenkasse-was-sich-im-neuen-jahr-aendert-100.html",
     "https://www.deutschlandfunk.de/us-armee-greift-erneut-mutmassliche-drogenboote-an-100.html",
     "https://www.deutschlandfunk.de/staatsmedien-im-iran-berichten-ueber-getoetete-sicherheitskraft-100.html",
-    "https://www.deutschlandfunk.de/staatsmedien-berichten-ueber-getoetete-sicherheitskraft-100.html"
+    "https://www.deutschlandfunk.de/staatsmedien-berichten-ueber-getoetete-sicherheitskraft-100.html",
+    "https://www.deutschlandfunk.de/papst-leo-wuenscht-sich-jahr-des-friedens-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-sind-zehn-prozent-von-friedensabkommen-entfernt-100.html"
   ],
   "content_hashes": [
-    "d56fcd97afdbdb6854f82752e5164cce",
-    "0ef7b8d8cdd076d595400241ef78d923",
     "fbc9d08edf80c42b4b5255d807507bf8",
     "e62ca8b9fbfbc2a0ee7e589285764c40",
     "02900bdc538edadef17a765a61ba9d4f",
@@ -2001,11 +1999,11 @@
     "1ae4d2548710d0f4bbdff6bba29bae12",
     "8c6163cf5bef4e550cd67a85c6159b61",
     "5addd84ab4ddc521b9ac406bb7dfd3d1",
-    "1305ed5f231615db699fdd735b72a2fc"
+    "1305ed5f231615db699fdd735b72a2fc",
+    "bd67a385d54077e4bf7381e1443a6416",
+    "9a438345c2de8d00095895b88721307a"
   ],
   "titles": [
-    "Aachen: Mann mit 28 Aliasnamen festgenommen",
-    "Brüssel - EU-Staaten einigen sich auf Verteilung von Asylbewerbern",
     "Tokio - Nach Zwischenfall mit Kampfflugzeugen:Japan bestellt chinesischen Botschafter ein",
     "Neuer Höchststand - Mehr als 41.000 ungültige Stimmzettel bei Wahl in Hongkong",
     "Ukraine-Krieg - Selenskyj zu Treffen mit Merz, Starmer und Macron in London",
@@ -3003,11 +3001,11 @@
     "2026 - Steuer, Deutschlandticket, Krankenkasse - was sich im neuen Jahr ändert",
     "Mehrere Tote - US-Armee greift erneut mutmaßliche Drogenboote an",
     "Proteste dauern an - Staatsmedien im Iran berichten über getötete Sicherheitskraft",
-    "Proteste im Iran - Staatsmedien berichten über getötete Sicherheitskraft"
+    "Proteste im Iran - Staatsmedien berichten über getötete Sicherheitskraft",
+    "Predigt im Petersdom - Papst Leo wünscht sich\"Jahr des Friedens\"",
+    "Russischer Angriffskrieg - Ukrainischer Präsident Selenskyj: Sind \"zehn Prozent\" von Friedensabkommen entfernt"
   ],
   "hashes": [
-    "916c6450876c6b2b1c84eff560458b57",
-    "77a198fe84532ab21a1fb30b4aacc0d2",
     "4884480f4fcb47bfcaaed426cb6c7b06",
     "1f6551cf83db4e28d3875f9a4276f0b6",
     "309a8a7293b8e3dc679d91027e2e5f5a",
@@ -4005,6 +4003,8 @@
     "573051eaf400f6082e81e5a508418ac0",
     "cd466de6496272c1f39fc1f33cc47d24",
     "07a3b370d8c02fd70b1e11beece8a114",
-    "5ca8d9b438d0f1a5b4c4be39177dd65f"
+    "5ca8d9b438d0f1a5b4c4be39177dd65f",
+    "a8c741c3e5ad479a44e137bb76c0c33e",
+    "20929fe1e5b8a9d72e4359deb32249d3"
   ]
 }
