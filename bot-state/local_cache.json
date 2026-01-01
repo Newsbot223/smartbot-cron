@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-ueber-weidels-schmierige-stasi-spitzel-aeusserung-polizeigewerkschaft-fassungslos-ueber-afd-att-100.html",
-    "https://www.deutschlandfunk.de/sieben-staats-und-regierungschefs-fordern-rasche-nutzung-des-eingefrorenen-russischen-vermoegens-102.html",
-    "https://www.deutschlandfunk.de/passauer-missbrauchsstudie-veroeffentlicht-672-betroffene-seit-102.html",
     "https://www.faz.net/aktuell/politik/inland/gruener-samet-yilmaz-wird-neuer-oberbuergermeister-von-kiel-accg-200335640.html",
     "https://www.deutschlandfunk.de/reichinnek-fuer-offenen-umgang-mit-migraene-gerade-weil-frauen-hierbei-oft-nicht-ernst-genommen-werd-100.html",
     "https://www.deutschlandfunk.de/tk-chef-baas-kritisiert-politik-und-bereitet-versicherte-entgegen-warkens-versprechen-auf-steigende--100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/mehr-als-400-festnahmen-in-berlin-zwei-tote-in-bielefeld-100.html",
     "https://www.deutschlandfunk.de/aenderungen-bei-pendlerpauschale-deutschlandticket-und-mehrwertsteuer-in-der-gastronomie-100.html",
     "https://www.deutschlandfunk.de/polizei-mehrere-tote-bei-brand-in-bar-in-crans-montana-100.html",
-    "https://www.deutschlandfunk.de/bulgarien-fuehrt-als-21-land-den-euro-als-waehrung-ein-100.html"
+    "https://www.deutschlandfunk.de/bulgarien-fuehrt-als-21-land-den-euro-als-waehrung-ein-100.html",
+    "https://www.deutschlandfunk.de/etliche-tote-und-verletzte-nach-brand-in-bar-in-crans-montana-100.html",
+    "https://www.deutschlandfunk.de/gouverneur-mindestens-24-tote-nach-ukrainischem-angriff-in-der-region-cherson-102.html",
+    "https://www.deutschlandfunk.de/von-kiribati-bis-rio-so-startete-die-welt-ins-jahr-100.html"
   ],
   "content_hashes": [
-    "0ded9152ec14449eadbf1b3a145ec60d",
-    "df28702210c076efd9c3ba53b01cb299",
-    "fc652b961947168c77f53d62f2f82cec",
     "abb6d9549e46de95de5579d9993a4eca",
     "393896af4b35cf0a72d73acf2462483c",
     "b17ac7cb09ed203960206e27af9800ea",
@@ -2001,12 +1998,12 @@
     "562949590fc5da093555fe7b4c4725b7",
     "4f20aef95a56b4c5738be4e3340234c3",
     "4b67009f32c46080c87556b0db02050d",
-    "26fb286b384f3ac85269f09ddf99e082"
+    "26fb286b384f3ac85269f09ddf99e082",
+    "2b0da79ea7e043a06fad286ca8a654d5",
+    "f988ad9807b36dc22796c7d30d5e9b2b",
+    "ca39edc418ec320d8f852144e1bfa60c"
   ],
   "titles": [
-    "GdP - Nach über Weidels \"Schmierige Stasi-Spitzel\"-Äußerung: Polizeigewerkschaft fassungslos über AfD-Attacken gegen Verfassungsschutz",
-    "EU - Sieben Staats- und Regierungschefs fordern rasche Nutzung des eingefrorenen russischen Vermögens",
-    "Bistum - Passauer Missbrauchsstudie veröffentlicht: 672 Betroffene seit 1945",
     "Samet Yilmaz: Grüner wird neuer Oberbürgermeister von Kiel",
     "Linken-Fraktionschefin - Reichinnek für offenen Umgang mit Migräne: Gerade weil Frauen hierbei \"oft nicht ernst genommen\" werden",
     "Gesundheit - TK-Chef Baas kritisiert Politik und bereitet Versicherte entgegen Warkens Versprechen auf steigende Krankenkassenbeiträge vor",
@@ -3003,12 +3000,12 @@
     "Silvesternacht - Mehr als 400 Festnahmen in Berlin - zwei Tote in Bielefeld",
     "2026 - Änderungen bei Pendlerpauschale, Deutschlandticket und Mehrwertsteuer in der Gastronomie",
     "Schweiz - Polizei: Mehrere Tote bei Brand in Bar in Crans Montana",
-    "Europäische Union - Bulgarien führt als 21. Land den Euro als Währung ein"
+    "Europäische Union - Bulgarien führt als 21. Land den Euro als Währung ein",
+    "Schweizer Skiort - Etliche Tote und Verletzte nach Brand in Bar in Crans-Montana",
+    "Ukraine-Krieg - Gouverneur: Mindestens 24 Tote nach ukrainischem Angriff in der Region Cherson",
+    "Jahreswechsel - Von Kiribati bis Rio - so startete die Welt ins Jahr 2026"
   ],
   "hashes": [
-    "5376ec5126b7ba503b8c82729cac6e69",
-    "0d6d41da16d2a1f1f042515e51e27693",
-    "f1a954e27820eb7f04080a2ad7ae7804",
     "ce2e677bcb8ba9523a33925c423b8cbe",
     "3ea6c4b3891a27c33308fc6ef2642bcf",
     "8ab70bf4a5c2b76109b72a9843d159ae",
@@ -4005,6 +4002,9 @@
     "c1de219d393bc041d1d9da5b6cafc405",
     "28c9af76b4cf6c421bf41610c76d9bb4",
     "edd95ffb04570084382ae0bba6dca0d0",
-    "446037e944393ad9c562875dc6d83fee"
+    "446037e944393ad9c562875dc6d83fee",
+    "faa321e06f60e268636c40fd3f32011d",
+    "6dc939bcca9823c57df59c9a9d29d0dc",
+    "3d42a50f376d0b7c12ddad7550996c32"
   ]
 }
