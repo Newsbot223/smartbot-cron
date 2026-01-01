@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/gruener-samet-yilmaz-wird-neuer-oberbuergermeister-von-kiel-accg-200335640.html",
-    "https://www.deutschlandfunk.de/reichinnek-fuer-offenen-umgang-mit-migraene-gerade-weil-frauen-hierbei-oft-nicht-ernst-genommen-werd-100.html",
     "https://www.deutschlandfunk.de/tk-chef-baas-kritisiert-politik-und-bereitet-versicherte-entgegen-warkens-versprechen-auf-steigende--100.html",
     "https://www.deutschlandfunk.de/rheinmetall-erhaelt-von-bundeswehr-grossauftrag-fuer-panzermunition-102.html",
     "https://www.spiegel.de/wirtschaft/erneuerbare-energie-wind-und-sonne-liefern-inzwischen-fast-zwei-drittel-des-stroms-a-343b8799-ce2a-4506-9470-8bccd8487ec2#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bulgarien-fuehrt-als-21-land-den-euro-als-waehrung-ein-100.html",
     "https://www.deutschlandfunk.de/etliche-tote-und-verletzte-nach-brand-in-bar-in-crans-montana-100.html",
     "https://www.deutschlandfunk.de/gouverneur-mindestens-24-tote-nach-ukrainischem-angriff-in-der-region-cherson-102.html",
-    "https://www.deutschlandfunk.de/von-kiribati-bis-rio-so-startete-die-welt-ins-jahr-100.html"
+    "https://www.deutschlandfunk.de/von-kiribati-bis-rio-so-startete-die-welt-ins-jahr-100.html",
+    "https://www.deutschlandfunk.de/zahlreiche-zwischenfaelle-mit-feuerwerkskoerpern-vondelkirche-in-amsterdam-nach-brand-teilweise-eing-100.html",
+    "https://www.deutschlandfunk.de/eon-chef-birnbaum-mieter-sind-eher-verlierer-der-energiewende-100.html"
   ],
   "content_hashes": [
-    "abb6d9549e46de95de5579d9993a4eca",
-    "393896af4b35cf0a72d73acf2462483c",
     "b17ac7cb09ed203960206e27af9800ea",
     "fdf380ea5ee3d37ec988771393bc578e",
     "96f494def482225e8086f1e47a9c2a14",
@@ -2001,11 +1999,11 @@
     "26fb286b384f3ac85269f09ddf99e082",
     "2b0da79ea7e043a06fad286ca8a654d5",
     "f988ad9807b36dc22796c7d30d5e9b2b",
-    "ca39edc418ec320d8f852144e1bfa60c"
+    "ca39edc418ec320d8f852144e1bfa60c",
+    "b89d22cf3b8a0627f3b26d44aba0596f",
+    "7e7cf0626aef57cd2168aea75ee113a0"
   ],
   "titles": [
-    "Samet Yilmaz: Grüner wird neuer Oberbürgermeister von Kiel",
-    "Linken-Fraktionschefin - Reichinnek für offenen Umgang mit Migräne: Gerade weil Frauen hierbei \"oft nicht ernst genommen\" werden",
     "Gesundheit - TK-Chef Baas kritisiert Politik und bereitet Versicherte entgegen Warkens Versprechen auf steigende Krankenkassenbeiträge vor",
     "Rüstungsindustrie - Rheinmetall erhält von Bundeswehr Großauftrag für Panzermunition",
     "Erneuerbare Energie: Wind und Sonne liefern inzwischen fast zwei Drittel des Stroms",
@@ -3003,11 +3001,11 @@
     "Europäische Union - Bulgarien führt als 21. Land den Euro als Währung ein",
     "Schweizer Skiort - Etliche Tote und Verletzte nach Brand in Bar in Crans-Montana",
     "Ukraine-Krieg - Gouverneur: Mindestens 24 Tote nach ukrainischem Angriff in der Region Cherson",
-    "Jahreswechsel - Von Kiribati bis Rio - so startete die Welt ins Jahr 2026"
+    "Jahreswechsel - Von Kiribati bis Rio - so startete die Welt ins Jahr 2026",
+    "Niederlande - Zahlreiche Zwischenfälle mit Feuerwerkskörpern - Vondelkirche in Amsterdam nach Brand teilweise eingestürzt",
+    "Photovoltaik - EON-Chef Birnbaum: Mieter sind eher Verlierer der Energiewende"
   ],
   "hashes": [
-    "ce2e677bcb8ba9523a33925c423b8cbe",
-    "3ea6c4b3891a27c33308fc6ef2642bcf",
     "8ab70bf4a5c2b76109b72a9843d159ae",
     "05c5ab55cb245203dd0af1c6bfad6566",
     "6ae000ad569d4f02e71fcc0ff409763d",
@@ -4005,6 +4003,8 @@
     "446037e944393ad9c562875dc6d83fee",
     "faa321e06f60e268636c40fd3f32011d",
     "6dc939bcca9823c57df59c9a9d29d0dc",
-    "3d42a50f376d0b7c12ddad7550996c32"
+    "3d42a50f376d0b7c12ddad7550996c32",
+    "30e455420b970e52485ba04b082d8af1",
+    "c41f272101effcac6ed5a6d7db414d12"
   ]
 }
