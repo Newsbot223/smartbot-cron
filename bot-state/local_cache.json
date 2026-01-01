@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-daempft-hoffnungen-der-deutschen-industrie-auf-baldige-lizenzen-fuer-import-von-seltenen-er-100.html",
-    "https://www.deutschlandfunk.de/erneut-menschen-auf-teneriffa-von-hohen-wellen-ins-meer-gerissen-und-ertrunken-100.html",
-    "https://www.deutschlandfunk.de/drohnen-kriegsforschung-drohnenabwehr-100.html",
     "https://www.deutschlandfunk.de/syrien-ein-jahr-nach-dem-sturz-von-assad-100.html",
     "https://www.deutschlandfunk.de/sturz-der-assad-diktatur-syrer-feiern-ersten-jahrestag-100.html",
     "https://www.deutschlandfunk.de/soeder-sieht-bundestagsabstimmung-mit-afd-im-nachinein-als-moeglichen-fehler-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/aenderungen-bei-deutschlandticket-pendlerpauschale-und-mehrwertsteuer-in-der-gastronomie-100.html",
     "https://www.deutschlandfunk.de/letztes-silvester-vor-boellerverbot-zahlreiche-zwischenfaelle-mit-feuerwerkskoerpern-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-betont-notwendigkeit-von-starkem-frieden-100.html",
-    "https://www.deutschlandfunk.de/bulgarien-fuehrt-euro-als-waehrung-ein-100.html"
+    "https://www.deutschlandfunk.de/bulgarien-fuehrt-euro-als-waehrung-ein-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-300-festnahmen-in-berlin-zwei-tote-in-bielefeld-100.html",
+    "https://www.deutschlandfunk.de/berichte-cia-geht-nicht-von-ukrainischem-angriff-auf-putins-residenz-aus-100.html",
+    "https://www.aljazeera.com/news/2026/1/1/russia-ukraine-war-list-of-key-events-day-1407?traffic_source=rss"
   ],
   "content_hashes": [
-    "a46216dbaead027efee3d413b0921cd0",
-    "fe1dc2745ac89f2af36f08a1f41a1976",
-    "6578c3382e7e643a1a5ef0f0eb01bad0",
     "4add3e63f60d062b5f0fa610f2abb064",
     "8fc596924523f9abc2e6033a53742652",
     "29c9066906df7237c104cdfa9a793579",
@@ -2001,12 +1998,12 @@
     "26b1c92c4130c258212b42340a7246d9",
     "a118ead65469f1efb6753da00145f2db",
     "3e060327081574b289989a5c50259162",
-    "f8ab85bec85b952aef33710b73b4e5ea"
+    "f8ab85bec85b952aef33710b73b4e5ea",
+    "73324cef0e977710ae94d14fe334d2bb",
+    "0bdb9a3e947212a81a0bacbe0c730c03",
+    "6879ecbffe0299ac666f58cb2a89637a"
   ],
   "titles": [
-    "China-Reise - Wadephul dämpft Hoffnungen der deutschen Industrie auf baldige Lizenzen für Import von Seltenen Erden",
-    "Kanaren - Erneut Menschen auf Teneriffa von hohen Wellen ins Meer gerissen und ertrunken",
-    "Drohnenabwehr - Kriegsforschung in der Kampfzone",
     "Ein Jahr Assad-Sturz - Nicht allen in Syrien ist nach Feiern zumute",
     "Menschenmassen auf den Straßen - Sturz der Assad-Diktatur - Syrer feiern ersten Jahrestag",
     "Migrationspolitik - Söder sieht Bundestagsabstimmung mit AfD im Nachinein als möglichen Fehler",
@@ -3003,12 +3000,12 @@
     "2026 - Änderungen bei Deutschlandticket, Pendlerpauschale und Mehrwertsteuer in der Gastronomie",
     "Niederlande - Letztes Silvester vor Böllerverbot - zahlreiche Zwischenfälle mit Feuerwerkskörpern",
     "Russischer Angriffskrieg - Ukrainischer Präsident Selenskyj betont Notwendigkeit von \"starkem Frieden\"",
-    "Gemeinschaftwährung - Bulgarien führt Euro als Währung ein"
+    "Gemeinschaftwährung - Bulgarien führt Euro als Währung ein",
+    "Silvesternacht - Mehr als 300 Festnahmen in Berlin - zwei Tote in Bielefeld",
+    "Russischer Angriffskrieg - Berichte: CIA geht nicht von ukrainischem Angriff auf Putins Residenz aus",
+    "Russia-Ukraine war: List of key events, day 1,407"
   ],
   "hashes": [
-    "8021a89530e0e2ceeb81f26cd6133d5d",
-    "7bd285341aabfba06a0866de448ac15d",
-    "5bed08212eab9d936857b2197deda887",
     "3c929f485ec551abcdcb95c77832607b",
     "67a86e489cd9170ca0b4c465461e75e0",
     "9b406bbaf6ed3ca361c15c965626ab99",
@@ -4005,6 +4002,9 @@
     "b5ada996c3536d908799a2f18de22959",
     "8e894a6ac3e12768804dd1b9272b195e",
     "035729768ddaa510351259b5973b9222",
-    "174bdc1c11e11aa2b20f3d578b7e3680"
+    "174bdc1c11e11aa2b20f3d578b7e3680",
+    "246247c2fc196b5c537d21e92e667862",
+    "c14d5ea1a4eb791949ee991e192478e8",
+    "479985efb38bae2c4d0f7ed08a150031"
   ]
 }
