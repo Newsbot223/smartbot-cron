@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/selenskyj-beraet-mit-merz-starmer-und-macron-in-london-102.html",
-    "https://www.deutschlandfunk.de/macron-weitere-beratungen-ueber-us-plan-fuer-die-ukraine-100.html",
-    "https://www.deutschlandfunk.de/bieterstreit-mit-netflix-paramount-bietet-108-milliarden-dollar-fuer-warner-bros-102.html",
     "https://www.deutschlandfunk.de/niederlande-steuern-auf-minderheitsregierung-zu-102.html",
     "https://www.deutschlandfunk.de/praesidentschaftswahl-in-serbischer-teilrepublik-srpska-wird-teilweise-neu-ausgezaehlt-100.html",
     "https://www.faz.net/aktuell/politik/inland/kriminalitaet-und-migration-fatale-folgen-110799733.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silvesterfeier-in-crans-montana-100.html",
     "https://www.deutschlandfunk.de/87-politische-haeftlinge-unter-auflagen-freigelassen-100.html",
     "https://www.deutschlandfunk.de/nika-prevc-entscheidet-tour-fuer-sich-102.html",
-    "https://www.deutschlandfunk.de/neuer-hoechststand-bei-hinrichtungen-100.html"
+    "https://www.deutschlandfunk.de/neuer-hoechststand-bei-hinrichtungen-100.html",
+    "https://www.deutschlandfunk.de/csu-setzt-auf-rueckkehr-der-atomkraft-102.html",
+    "https://www.deutschlandfunk.de/mehrere-tote-bei-protesten-gemeldet-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/angriff-auf-putins-residenz-eine-farce-des-kremls-110812321.html"
   ],
   "content_hashes": [
-    "a62b050e7a2f7213d9c6aa017c815aa8",
-    "a3b2e32a67d6950ae5595bbc2b1af827",
-    "c039a9aa5988900991a5c14e22d34dfa",
     "09518638494c0cbe0b474f97eeeae5ed",
     "37e1c4c5917762fc5eb1fa635a7b2602",
     "c6c6ee7501dabaff8f0021a09d0bc354",
@@ -2001,12 +1998,12 @@
     "112925b366f04337547edb481f52e55a",
     "fca7b205419c669320652780c741f59d",
     "ec3a36a441a1c1c3fff7afdfd7aa92f9",
-    "bc8cb5f5ef02a8c4551f8fb97a523dc3"
+    "bc8cb5f5ef02a8c4551f8fb97a523dc3",
+    "640641b4ac89d0ab6d75126167cb0e1f",
+    "6d9e16cf107d1d5203382ff017a548d1",
+    "d8c7fd3de65e3a29765aa43b2dda0245"
   ],
   "titles": [
-    "Ukraine-Krieg - Selenskyj berät mit Merz, Starmer und Macron in London",
-    "Treffen in London - Macron: Weitere Beratungen über US-Plan für die Ukraine",
-    "Medien - Bieterstreit mit Netflix: Paramount bietet 108 Milliarden Dollar für Warner Bros",
     "Nach Parlamentswahl - Niederlande steuern auf Minderheitsregierung zu",
     "Bosnien und Herzegowina - Präsidentschaftswahl in serbischer Teilrepublik Srpska wird teilweise neu ausgezählt",
     "Migration und Kriminalität: Fatale Folgen des Kontrollverlustes",
@@ -3003,12 +3000,12 @@
     "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silvesterfeier in Crans-Montana",
     "Venezuela - 87 politische Häftlinge unter Auflagen freigelassen",
     "\"Two-Nights-Tour\" - Nika Prevc entscheidet Tour für sich",
-    "Saudi-Arabien - Neuer Höchststand bei Hinrichtungen"
+    "Saudi-Arabien - Neuer Höchststand bei Hinrichtungen",
+    "Energieversorgung - CSU setzt auf Rückkehr der Atomkraft",
+    "Iran - Mehrere Tote bei Protesten gemeldet",
+    "Putins Residenz: Eine leicht durchschaubare Farce des Kremls"
   ],
   "hashes": [
-    "a381e06627aa45f3cb86acdf8bd1bc19",
-    "9b9ed4029c4ba76db1107d79e908d458",
-    "83a8070d76fa7c51574ae10113b1e10a",
     "ecba743105849d71549d7109fad3f50c",
     "569c75327d183b1dac18222e993946df",
     "aa07f57f50f0a249bb6a70e70761fe26",
@@ -4005,6 +4002,9 @@
     "36e88200d23e7aaed23067f95c43bd4a",
     "bc0c68aecf6f807266c843a87b13ca28",
     "231e471ada374cbc7e0e4a2369080e75",
-    "7fee17caaac1617e787322618bb132d9"
+    "7fee17caaac1617e787322618bb132d9",
+    "004b35acfe027e607a67bc8a23c8c11a",
+    "1b4278c46445a6ede77fc8b932d2c6a5",
+    "0f76f984e9ddab97bf9f62319381afde"
   ]
 }
