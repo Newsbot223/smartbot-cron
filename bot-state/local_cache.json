@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/gallery/2025/12/8/syrians-celebrate-anniversary-of-bashar-al-assads-fall?traffic_source=rss",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-sieht-fortschritte-mit-china-in-handelsfragen-100.html",
-    "https://www.deutschlandfunk.de/meta-weniger-personalisierte-werbung-fuer-eu-nutzer-durch-bezahlmodell-moeglich-102.html",
     "https://www.deutschlandfunk.de/prozess-gegen-mutmasslichen-drahtzieher-des-koelner-drogenkriegs-begonnen-106.html",
     "https://www.deutschlandfunk.de/selenskyj-beraet-mit-merz-starmer-und-macron-in-london-102.html",
     "https://www.deutschlandfunk.de/macron-weitere-beratungen-ueber-us-plan-fuer-die-ukraine-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/domen-prevc-gewinnt-neujahrsspringen-104.html",
     "https://www.deutschlandfunk.de/polizei-geht-von-dutzenden-toten-in-crans-montana-aus-verpuffung-bei-brand-war-keine-sprengsatz-expl-110.html",
     "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silversterfeier-in-crans-montana-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nach-gewalt-an-silvester-schnell-konsequenz-zeigen-110812124.html"
+    "https://www.faz.net/aktuell/politik/inland/nach-gewalt-an-silvester-schnell-konsequenz-zeigen-110812124.html",
+    "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silvesterfeier-in-crans-montana-100.html",
+    "https://www.deutschlandfunk.de/87-politische-haeftlinge-unter-auflagen-freigelassen-100.html",
+    "https://www.deutschlandfunk.de/nika-prevc-entscheidet-tour-fuer-sich-102.html"
   ],
   "content_hashes": [
-    "b5a8ea1b23ac9d8699e0d46bd71eae23",
-    "8b78ff14a39c31858cd0a5b98ddd7cb5",
-    "87a27ad9b273045efc5034083e890ed7",
     "c3ffdc71b5a070a34c60bc855b631ae3",
     "a62b050e7a2f7213d9c6aa017c815aa8",
     "a3b2e32a67d6950ae5595bbc2b1af827",
@@ -2001,12 +1998,12 @@
     "77e9eeba756e613e476ef4dae9702cf3",
     "9e50b30efb8142db776ace7998e7bba5",
     "1121fa32725a100103ade40101c76f83",
-    "94efea904903cc4ffce3ed74cc7bb622"
+    "94efea904903cc4ffce3ed74cc7bb622",
+    "112925b366f04337547edb481f52e55a",
+    "fca7b205419c669320652780c741f59d",
+    "ec3a36a441a1c1c3fff7afdfd7aa92f9"
   ],
   "titles": [
-    "Syrians celebrate anniversary of Bashar al-Assad’s fall",
-    "Peking - Außenminister Wadephul sieht Fortschritte mit China in Handelsfragen",
-    "Daten - Meta: Weniger personalisierte Werbung für EU-Nutzer durch Bezahlmodell möglich",
     "Landgericht - Prozess gegen mutmaßlichen Drahtzieher des Kölner Drogenkriegs begonnen",
     "Ukraine-Krieg - Selenskyj berät mit Merz, Starmer und Macron in London",
     "Treffen in London - Macron: Weitere Beratungen über US-Plan für die Ukraine",
@@ -3003,12 +3000,12 @@
     "Vierschanzentournee - Domen Prevc gewinnt Neujahrsspringen",
     "Schweiz - Polizei geht von Dutzenden Toten in Crans-Montana aus - Verpuffung bei Brand war keine Sprengsatz-Explosion",
     "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silversterfeier in Crans-Montana",
-    "Gewalt an Silvester: Schnell ermitteln, schnell anklagen, schnell verurteilen"
+    "Gewalt an Silvester: Schnell ermitteln, schnell anklagen, schnell verurteilen",
+    "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silvesterfeier in Crans-Montana",
+    "Venezuela - 87 politische Häftlinge unter Auflagen freigelassen",
+    "\"Two-Nights-Tour\" - Nika Prevc entscheidet Tour für sich"
   ],
   "hashes": [
-    "cd2d7028b70a8e70ffdede91aaec406e",
-    "2c519641e5bed7f7cf06dad553676aa5",
-    "2f378ffaba49b6236abf9802a831c063",
     "f744960d485eb8fcb0aa1a7bff9b19f4",
     "a381e06627aa45f3cb86acdf8bd1bc19",
     "9b9ed4029c4ba76db1107d79e908d458",
@@ -4005,6 +4002,9 @@
     "386e9df7d254534bf639bb0f5807965c",
     "08c1cd88d6e8228f7d0fa03888be3058",
     "8b4cd69a0752068a0beda1a70bfa0b67",
-    "b3415d4f8141f749fe79ac8f6caf5732"
+    "b3415d4f8141f749fe79ac8f6caf5732",
+    "36e88200d23e7aaed23067f95c43bd4a",
+    "bc0c68aecf6f807266c843a87b13ca28",
+    "231e471ada374cbc7e0e4a2369080e75"
   ]
 }
