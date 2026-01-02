@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gericht-hebt-trumps-unrechtmaessige-und-willkuerliche-blockade-von-windkraftprojekten-auf-sieg-im-ka-100.html",
-    "https://www.deutschlandfunk.de/nach-queerfeindlichem-angriff-auf-frauen-in-bremer-strassenbahn-verdaechtiger-in-der-psychiatrie-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftsweise-veronika-grimm-kritisiert-finanzpolitik-der-bundesregierung-als-sozial-ungerecht-a-3b00af97-341c-4a2d-8b65-d2432e94802e#ref=rss",
     "https://www.faz.net/aktuell/politik/missbrauch-im-internet-der-kinderschutz-kommt-zu-kurz-110797218.html",
     "https://www.deutschlandfunk.de/andrej-babis-ist-neuer-ministerpraesident-der-tschechischen-republik-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-brandkatastrophe-in-crans-montana-noch-mindestens-80-verletzte-in-lebensgefahr-102.html",
     "https://www.deutschlandfunk.de/integrationspolitische-sprecherin-der-spd-lehnt-pauschale-abschieberegeln-fuer-syrer-ab-100.html",
     "https://www.deutschlandfunk.de/daenischer-energiekonzern-plant-klage-gegen-baustopp-bei-windparkprojekt-an-us-ostkueste-100.html",
-    "https://www.deutschlandfunk.de/norwegen-naehert-sich-100-prozent-ziel-bei-neuzulassungen-104.html"
+    "https://www.deutschlandfunk.de/norwegen-naehert-sich-100-prozent-ziel-bei-neuzulassungen-104.html",
+    "https://www.deutschlandfunk.de/csu-papier-listet-zahlreiche-verschaerfungen-auf-kritik-von-spd-und-linken-100.html",
+    "https://www.deutschlandfunk.de/israel-greift-mehrere-ziele-im-sueden-des-libanons-an-100.html"
   ],
   "content_hashes": [
-    "a0c430985fa512ec4bab79c17a5b0b1d",
-    "2eecc5d4c25115d828c888e10ceb0f4e",
     "a1ea4b2b44c10d86cdf016bcd7b8402c",
     "6c093924d0cf95f65e49e4b23ec86589",
     "434c63141503205515ed5abefc086956",
@@ -2001,11 +1999,11 @@
     "dc3a91a6bd3f3155951ce24d9f6ad9c9",
     "41e7172fa357b6f10753c93d64b1d1cd",
     "cdfb3e36be09ef572c3436f096869a1d",
-    "06752df0ea521dc2cabbc96575a9d9b1"
+    "06752df0ea521dc2cabbc96575a9d9b1",
+    "6d9b8d2f12dc8ab294d9453c8c47e417",
+    "3e9822913aeecde32fc9e208b62f3e2b"
   ],
   "titles": [
-    "USA - Gericht hebt Trumps \"unrechtmäßige und willkürliche\" Blockade von Windkraftprojekten auf - \"Sieg im Kampf gegen die Klimakrise\"",
-    "ÖPNV - Nach queerfeindlichem Angriff auf Frauen in Bremer Straßenbahn: Verdächtiger in der Psychiatrie",
     "Wirtschaftsweise Veronika Grimm kritisiert Finanzpolitik der Bundesregierung als sozial ungerecht",
     "EU-Gesetzgebung: Der Kinderschutz kommt zu kurz",
     "Machtwechsel - Andrej Babis ist neuer Ministerpräsident der Tschechischen Republik",
@@ -3003,11 +3001,11 @@
     "Schweiz - Nach Brandkatastrophe in Crans-Montana noch mindestens 80 Verletzte in Lebensgefahr",
     "Koalition - Integrationspolitische Sprecherin der SPD lehnt pauschale Abschieberegeln für Syrer ab",
     "Örsted - Dänischer Energiekonzern plant Klage gegen Baustopp bei Windparkprojekt an US-Ostküste",
-    "Elektroautos - Norwegen nähert sich 100-Prozent-Ziel bei Neuzulassungen"
+    "Elektroautos - Norwegen nähert sich 100-Prozent-Ziel bei Neuzulassungen",
+    "Migration - CSU-Papier listet zahlreiche Verschärfungen auf - Kritik von SPD und Linken",
+    "Nahost-Konflikt - Israel greift mehrere Ziele im Süden des Libanons an"
   ],
   "hashes": [
-    "721cc0246b4ff9a3548b9c666a3073b3",
-    "ff00654fb86ea3e96fae95466d7280d8",
     "15f94f71c5219a56dce24defa65e02af",
     "0b77228a589219588bec228aaed85969",
     "e593a03d2d84fa76aa9a35bf76a86bfc",
@@ -4005,6 +4003,8 @@
     "b610709cf26589221e1b3aca12817152",
     "a9c303654491e37522ba47608f8c656a",
     "0edcc862e902c57977a65612cd8e1c84",
-    "a883700f675f5b971884712eade4dbca"
+    "a883700f675f5b971884712eade4dbca",
+    "22421850185caeb29e134b145c8d2e48",
+    "f4f257f7aceb48abd76b9031977e52ee"
   ]
 }
