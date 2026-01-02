@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-trump-will-im-kommenden-jahr-nach-deutschland-kommen-100.html",
-    "https://www.deutschlandfunk.de/generalbundesanwalt-ermittelt-nach-cyberattacke-auf-cdu-100.html",
     "https://www.deutschlandfunk.de/20-tote-bei-brand-eines-buerogebaeudes-in-jakarta-102.html",
     "https://www.deutschlandfunk.de/unsozial-veronika-grimm-kritisiert-renten-und-finanzpolitik-der-bundesregierung-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-merz-zeigt-sich-selbstkritisch-in-stadtbild-debatte-faz-110093143.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/iranische-fuehrung-warnt-usa-vor-eingreifen-und-droht-mit-angriff-auf-militaerbasen-100.html",
     "https://www.deutschlandfunk.de/verdaechtiger-ertappt-soziologin-beklagt-sozialdarwinismus-100.html",
     "https://www.deutschlandfunk.de/krankenkassen-zusatzbeitraege-steigen-im-schnitt-auf-3-13-prozent-100.html",
-    "https://www.deutschlandfunk.de/csu-papier-fordert-mehr-abschiebungen-kritik-von-spd-linken-und-aus-der-cdu-100.html"
+    "https://www.deutschlandfunk.de/csu-papier-fordert-mehr-abschiebungen-kritik-von-spd-linken-und-aus-der-cdu-100.html",
+    "https://www.deutschlandfunk.de/csu-papier-fordert-mehr-abschiebungen-kritik-aus-spd-und-cdu-100.html",
+    "https://www.deutschlandfunk.de/studie-ueber-moos-als-beweismittel-102.html"
   ],
   "content_hashes": [
-    "187dcd20e12d36619eda19762253f9c0",
-    "f8c135deb341c78291e4a181f0cd58b8",
     "31d1c55b47ed39051b1bc27d30a7fce9",
     "de44067505f6359b0d13da079a1d82fb",
     "1c362f0781955d8bf0b875897b864769",
@@ -2001,11 +1999,11 @@
     "609cd8351ea3ba5613324e77621cc857",
     "82fe955f4ff458b75086551b5f31d844",
     "69557f2678c54644b4c1802327657328",
-    "564991b18995bca4f2f9289909b045bc"
+    "564991b18995bca4f2f9289909b045bc",
+    "6cb7c9a70b297ce79b6b9acaf0a31755",
+    "6845e7a34eac8b9a73236847dee7cfb1"
   ],
   "titles": [
-    "Staatsbesuch - Merz: Trump will im kommenden Jahr nach Deutschland kommen",
-    "Spionageverdacht - Generalbundesanwalt ermittelt nach Cyberattacke auf CDU",
     "Indonesien - 20 Tote bei Brand eines Bürogebäudes in Jakarta",
     "Ökonomin - \"Unsozial\": Veronika Grimm kritisiert Renten- und Finanzpolitik der Bundesregierung",
     "Liveblog Bundespolitik: Merz: Teile der neuen US-Sicherheitsstrategie sind „inakzeptabel“",
@@ -3003,11 +3001,11 @@
     "Massenproteste - Iranische Führung warnt USA vor Eingreifen und droht mit Angriff auf Militärbasen",
     "Brandanschläge auf Kältebusse in Berlin - Verdächtiger ertappt - Soziologin beklagt Sozialdarwinismus",
     "Gesundheitssystem - Krankenkassen-Zusatzbeiträge steigen im Schnitt auf 3,13 Prozent",
-    "Asylpolitik - CSU-Papier fordert mehr Abschiebungen - Kritik von SPD, Linken und aus der CDU"
+    "Asylpolitik - CSU-Papier fordert mehr Abschiebungen - Kritik von SPD, Linken und aus der CDU",
+    "Asylpolitik - CSU-Papier fordert mehr Abschiebungen - Kritik aus SPD und CDU",
+    "Kriminologie - Studie über Moos als Beweismittel"
   ],
   "hashes": [
-    "824ca0e6f3d9669f24157a8385f2d7ed",
-    "55b033b12f3ac510ce05224891f0a7cd",
     "03c4f7897e4cdf221a1233ac4d47cebd",
     "11a79024a5e5d90caef155f93341b1ae",
     "a77574f80a66c6bf2a63310e69848520",
@@ -4005,6 +4003,8 @@
     "02277e7fac2b012fe87680bab9ddabed",
     "720b320b3b81c4722fbb73bda723f520",
     "40e561a7c54d2384d97da5cb8e1dcb10",
-    "3c5adcda4b7c5d37df19caf6058c9a57"
+    "3c5adcda4b7c5d37df19caf6058c9a57",
+    "dda5f76d534a3c9c0d3503c623aa6c7e",
+    "742828d9f9d8ed5b257b89286a38acf3"
   ]
 }
