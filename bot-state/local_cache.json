@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaftsweise-veronika-grimm-kritisiert-finanzpolitik-der-bundesregierung-als-sozial-ungerecht-a-3b00af97-341c-4a2d-8b65-d2432e94802e#ref=rss",
-    "https://www.faz.net/aktuell/politik/missbrauch-im-internet-der-kinderschutz-kommt-zu-kurz-110797218.html",
-    "https://www.deutschlandfunk.de/andrej-babis-ist-neuer-ministerpraesident-der-tschechischen-republik-102.html",
-    "https://www.deutschlandfunk.de/weitere-tote-bei-militaerischen-angriffen-zwischen-thailand-und-kambodscha-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-nach-gespraechen-mit-regierungsvertretern-in-peking-optimistisch-102.html",
     "https://www.deutschlandfunk.de/bundesverfassungsschutz-sieht-besorgniserregende-entwicklungen-im-linksextremismus-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-leitet-untersuchung-gegen-google-ein-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/daenischer-energiekonzern-plant-klage-gegen-baustopp-bei-windparkprojekt-an-us-ostkueste-100.html",
     "https://www.deutschlandfunk.de/norwegen-naehert-sich-100-prozent-ziel-bei-neuzulassungen-104.html",
     "https://www.deutschlandfunk.de/csu-papier-listet-zahlreiche-verschaerfungen-auf-kritik-von-spd-und-linken-100.html",
-    "https://www.deutschlandfunk.de/israel-greift-mehrere-ziele-im-sueden-des-libanons-an-100.html"
+    "https://www.deutschlandfunk.de/israel-greift-mehrere-ziele-im-sueden-des-libanons-an-100.html",
+    "https://www.deutschlandfunk.de/pilze-koennten-borkenkaefer-bekaempfen-100.html",
+    "https://www.deutschlandfunk.de/daenischer-energiekonzern-plant-klage-gegen-baustopp-an-us-ostkueste-100.html",
+    "https://www.deutschlandfunk.de/trump-weist-sorgen-um-seine-gesundheit-zurueck-100.html",
+    "https://www.faz.net/aktuell/politik/inland/weimar-1926-worueber-vor-hundert-jahren-regierungen-stuerzten-accg-110812123.html"
   ],
   "content_hashes": [
-    "a1ea4b2b44c10d86cdf016bcd7b8402c",
-    "6c093924d0cf95f65e49e4b23ec86589",
-    "434c63141503205515ed5abefc086956",
-    "d290839963c3063e605eae58e5f7c455",
     "d51586f91080e7d86b53755171cc5f18",
     "cc9f9a2de0c82d5104f22a5d79edbcd5",
     "b6d9dcb890c4542a1b63baa66fad4195",
@@ -2001,13 +1997,13 @@
     "cdfb3e36be09ef572c3436f096869a1d",
     "06752df0ea521dc2cabbc96575a9d9b1",
     "6d9b8d2f12dc8ab294d9453c8c47e417",
-    "3e9822913aeecde32fc9e208b62f3e2b"
+    "3e9822913aeecde32fc9e208b62f3e2b",
+    "744dd141703af3ae16edfce50927bf09",
+    "32f2db064d77d2f66c213931fd048a09",
+    "4a95c590a90ce0658bd921cf9fd878b5",
+    "505f6a61935601c429c544ad51cae60f"
   ],
   "titles": [
-    "Wirtschaftsweise Veronika Grimm kritisiert Finanzpolitik der Bundesregierung als sozial ungerecht",
-    "EU-Gesetzgebung: Der Kinderschutz kommt zu kurz",
-    "Machtwechsel - Andrej Babis ist neuer Ministerpräsident der Tschechischen Republik",
-    "Grenzkonflikt - Weitere Tote bei militärischen Angriffen zwischen Thailand und Kambodscha",
     "China-Reise - Außenminister Wadephul nach Gesprächen mit Regierungsvertretern in Peking optimistisch",
     "Medienbericht - Bundesverfassungsschutz sieht \"besorgniserregende Entwicklungen\" im Linksextremismus",
     "Mögliche Verstöße gegen Wettbewerbsrecht - EU-Kommission leitet Untersuchung gegen Google ein",
@@ -3003,13 +2999,13 @@
     "Örsted - Dänischer Energiekonzern plant Klage gegen Baustopp bei Windparkprojekt an US-Ostküste",
     "Elektroautos - Norwegen nähert sich 100-Prozent-Ziel bei Neuzulassungen",
     "Migration - CSU-Papier listet zahlreiche Verschärfungen auf - Kritik von SPD und Linken",
-    "Nahost-Konflikt - Israel greift mehrere Ziele im Süden des Libanons an"
+    "Nahost-Konflikt - Israel greift mehrere Ziele im Süden des Libanons an",
+    "Max-Planck-Institut - Pilze könnten Borkenkäfer bekämpfen",
+    "Windparkprojekt - Dänischer Energiekonzern plant Klage gegen Baustopp an US-Ostküste",
+    "USA - Trump weist Sorgen um seine Gesundheit zurück",
+    "Weimarer Republik 1926: Worüber Regierungen vor hundert Jahren stürzten"
   ],
   "hashes": [
-    "15f94f71c5219a56dce24defa65e02af",
-    "0b77228a589219588bec228aaed85969",
-    "e593a03d2d84fa76aa9a35bf76a86bfc",
-    "eb3feb570d81aea9d1c521f6f83cb6dc",
     "571cc67ee588c6d670b6c34b1675e4d1",
     "64c96a484d7a90c82452e048280d2ce0",
     "6aac341d9231c7f4851bcd8dff553834",
@@ -4005,6 +4001,10 @@
     "0edcc862e902c57977a65612cd8e1c84",
     "a883700f675f5b971884712eade4dbca",
     "22421850185caeb29e134b145c8d2e48",
-    "f4f257f7aceb48abd76b9031977e52ee"
+    "f4f257f7aceb48abd76b9031977e52ee",
+    "0a7134026310fa9964b0eb6193a8c6bb",
+    "64064a44faca44351574ec05e155a493",
+    "af8a9f2e82a14eb0c9f1db96e6698475",
+    "7ebb504b61112f587e26ba2ba70ef8f9"
   ]
 }
