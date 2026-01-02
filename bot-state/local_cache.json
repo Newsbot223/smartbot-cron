@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unsozial-veronika-grimm-kritisiert-renten-und-finanzpolitik-der-bundesregierung-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveticker-bundespolitik-merz-zeigt-sich-selbstkritisch-in-stadtbild-debatte-faz-110093143.html",
-    "https://www.deutschlandfunk.de/militaergeheimdienst-extremismus-und-spionage-so-praesent-wie-nie-100.html",
     "https://www.deutschlandfunk.de/china-sieht-sich-von-japan-militaerisch-bedroht-warnung-an-regierung-in-tokio-gerichtet-100.html",
     "https://www.deutschlandfunk.de/wadephul-muessen-bei-innovation-aufschliessen-102.html",
     "https://www.deutschlandfunk.de/taliban-toeten-sechs-pakistanische-soldaten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/csu-papier-fordert-mehr-abschiebungen-kritik-von-spd-linken-und-aus-der-cdu-100.html",
     "https://www.deutschlandfunk.de/csu-papier-fordert-mehr-abschiebungen-kritik-aus-spd-und-cdu-100.html",
     "https://www.deutschlandfunk.de/studie-ueber-moos-als-beweismittel-102.html",
-    "https://www.deutschlandfunk.de/treffen-mit-internationalen-sicherheitsberatern-in-kiew-geplant-100.html"
+    "https://www.deutschlandfunk.de/treffen-mit-internationalen-sicherheitsberatern-in-kiew-geplant-100.html",
+    "https://www.deutschlandfunk.de/wintereinbruch-ausfaelle-und-verspaetungen-am-amsterdamer-flughafen-schiphol-100.html",
+    "https://www.deutschlandfunk.de/haftbefehl-gegen-tatverdaechtigen-soziologin-beklagt-sozialdarwinismus-100.html",
+    "https://www.faz.net/aktuell/politik/inland/migrationspolitik-die-csu-laesst-nicht-locker-110813135.html"
   ],
   "content_hashes": [
-    "de44067505f6359b0d13da079a1d82fb",
-    "1c362f0781955d8bf0b875897b864769",
-    "f2e3b943765bf9a93ff15afa26b4e76b",
     "f4e5c0abf80d89bf842270521b5597af",
     "f955be6b2867a94d1ad49c7ca4008a3b",
     "a07e0d967731f3f86e395f2f4a15e1cd",
@@ -2001,12 +1998,12 @@
     "564991b18995bca4f2f9289909b045bc",
     "6cb7c9a70b297ce79b6b9acaf0a31755",
     "6845e7a34eac8b9a73236847dee7cfb1",
-    "74d01445cb906c2b70ff0de3ebcb686b"
+    "74d01445cb906c2b70ff0de3ebcb686b",
+    "a5f89ae1623cf091fe6adeb501cb52af",
+    "76731062c131861756648aea209c676d",
+    "89a0a1df19529ac8eb3a9093e91e691c"
   ],
   "titles": [
-    "Ökonomin - \"Unsozial\": Veronika Grimm kritisiert Renten- und Finanzpolitik der Bundesregierung",
-    "Liveblog Bundespolitik: Merz: Teile der neuen US-Sicherheitsstrategie sind „inakzeptabel“",
-    "Bundeswehr - Militärgeheimdienst: Extremismus und Spionage so präsent wie nie",
     "Gebietsansprüche auf Taiwan - China sieht sich von Japan militärisch bedroht: Warnung an Regierung in Tokio gerichtet",
     "Besuch in Guangzhou - Wadephul: Müssen bei Innovation aufschließen",
     "Grenze zu Afghanistan - Taliban töten sechs pakistanische Soldaten",
@@ -3003,12 +3000,12 @@
     "Asylpolitik - CSU-Papier fordert mehr Abschiebungen - Kritik von SPD, Linken und aus der CDU",
     "Asylpolitik - CSU-Papier fordert mehr Abschiebungen - Kritik aus SPD und CDU",
     "Kriminologie - Studie über Moos als Beweismittel",
-    "Krieg gegen Ukraine - Treffen mit internationalen Sicherheitsberatern in Kiew geplant"
+    "Krieg gegen Ukraine - Treffen mit internationalen Sicherheitsberatern in Kiew geplant",
+    "Niederlande - Wintereinbruch: Ausfälle und Verspätungen am Amsterdamer Flughafen Schiphol",
+    "Brandanschläge auf Kältebusse in Berlin - Haftbefehl gegen Tatverdächtigen - Soziologin beklagt Sozialdarwinismus",
+    "Flüchtlinge und Asylrecht: Die CSU lässt nicht locker"
   ],
   "hashes": [
-    "11a79024a5e5d90caef155f93341b1ae",
-    "a77574f80a66c6bf2a63310e69848520",
-    "3466ba1cc8b34bf46682c7d6382416d6",
     "48b88b784a5c049125365d1c393cc8a2",
     "7b1adddc9972d24834bf7a56cbd3d0da",
     "8c48ee0c014589771d5367df8210650e",
@@ -4005,6 +4002,9 @@
     "3c5adcda4b7c5d37df19caf6058c9a57",
     "dda5f76d534a3c9c0d3503c623aa6c7e",
     "742828d9f9d8ed5b257b89286a38acf3",
-    "899a6db7a23862992fc44abcf8644913"
+    "899a6db7a23862992fc44abcf8644913",
+    "96d370a85baf49d7a1f571204f316da9",
+    "d981b5e3359f6e33788a4373b78acf2d",
+    "22c5dd911b63c8f63d6a9037390da8fc"
   ]
 }
