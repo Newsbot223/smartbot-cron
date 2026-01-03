@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-kritisiert-teile-der-us-sicherheitsstrategie-als-inakzeptabel-100.html",
-    "https://www.deutschlandfunk.de/klima-aktivistinnen-wegen-farbattacke-auf-monet-gemaelde-freigesprochen-102.html",
     "https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-nennt-teile-von-neuer-us-sicherheitsstrategie-inakzeptabel-a-372c698c-12a6-4acb-a194-cddb6dc966e0#ref=rss",
     "https://www.deutschlandfunk.de/trump-europa-macht-keine-gute-arbeit-100.html",
     "https://www.deutschlandfunk.de/mindestens-150-000-menschen-fliehen-vor-aufgeflammten-grenzkonflikt-zwischen-thailand-und-kambodscha-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schweres-erdbeben-erschuettert-sueden-des-landes-112.html",
     "https://www.deutschlandfunk.de/fbi-anschlag-in-silvesternacht-in-north-carolina-vereitelt-100.html",
     "https://www.deutschlandfunk.de/berichte-ueber-neue-demonstrationen-in-teheran-100.html",
-    "https://www.deutschlandfunk.de/kambodscha-wirft-thailand-illegale-annexion-von-territorien-vor-102.html"
+    "https://www.deutschlandfunk.de/kambodscha-wirft-thailand-illegale-annexion-von-territorien-vor-102.html",
+    "https://www.deutschlandfunk.de/hilfsorganisationen-warnen-vor-arbeitsverbot-durch-israel-appell-von-guterres-102.html",
+    "https://www.deutschlandfunk.de/rwe-chef-gas-und-strom-werden-billiger-102.html"
   ],
   "content_hashes": [
-    "0a989b8bc4fbd2720e0f6fcdbf8ca6fa",
-    "2250a519448d63e5602270b7aaf1fc7d",
     "4d90582164e51a82b4266178ab6bfac7",
     "c1f8fab4753b11d3bc6c7f250d0744d5",
     "88c7579b6a459551babe02e03b2c5edd",
@@ -2001,11 +1999,11 @@
     "ab2965632b857598beaf9655177a184f",
     "d62b8095c48075d24ceccc7b391fb665",
     "7a7f52f84a6b5dc8be7b62fda6879ac6",
-    "2d1ac498a2c9721bc804b7efa341cfbb"
+    "2d1ac498a2c9721bc804b7efa341cfbb",
+    "8686c8a16d7fe7e655fa20f9fe407137",
+    "8cbc5d4149791419cb103677fb3d4505"
   ],
   "titles": [
-    "Transatlantische Verstimmung - Merz kritisiert Teile der US-Sicherheitsstrategie als inakzeptabel",
-    "Schweden - Klima-Aktivistinnen wegen Farbattacke auf Monet-Gemälde freigesprochen",
     "USA: Friedrich Merz nennt Teile von neuer US-Sicherheitsstrategie »inakzeptabel«",
     "Transatlantische Verstimmung - Trump: Europa macht keine gute Arbeit",
     "Südostasien - Mindestens 150.000 Menschen fliehen vor aufgeflammten Grenzkonflikt zwischen Thailand und Kambodscha",
@@ -3003,11 +3001,11 @@
     "Mexiko - Schweres Erdbeben erschüttert Süden des Landes",
     "USA - FBI: Anschlag in Silvesternacht in North Carolina vereitelt",
     "Massenproteste - Berichte über neue Demonstrationen in Teheran",
-    "Grenzkonflikt - Kambodscha wirft Thailand \"illegale Annexion\" von Territorien vor"
+    "Grenzkonflikt - Kambodscha wirft Thailand \"illegale Annexion\" von Territorien vor",
+    "Nahost - Hilfsorganisationen warnen vor Arbeitsverbot durch Israel - Appell von Guterres",
+    "Energiepreise - RWE-Chef: \"Gas und Strom werden billiger\""
   ],
   "hashes": [
-    "fd96a732f21d19165e3013290fa2c323",
-    "e0771ea6c2b62f51a8b68ab1af79b7af",
     "2d1423c32f76ffb6442597250a8357a9",
     "4d945b00b1a1c56cedc0b6856d18d4b8",
     "4c5c1b8ca9cd58a77c4c55ff8953635a",
@@ -4005,6 +4003,8 @@
     "81dd000f6d7c914966e087d0625573b7",
     "47b42624eeb902626daa161a00869282",
     "aa947f8bda6ae22b820c404cf89b94ec",
-    "34d8883e232b8c0a3274a67b6207bbc2"
+    "34d8883e232b8c0a3274a67b6207bbc2",
+    "9aa369cf1ab523a93c968b9b466e1841",
+    "8d1e6e239aa260f70f3fde0fdc278635"
   ]
 }
