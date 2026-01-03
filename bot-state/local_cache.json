@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/resilientes-wahlrecht-statt-reformkarussell-110789720.html",
-    "https://www.deutschlandfunk.de/social-media-verbot-fuer-jugendliche-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/tausende-demonstrieren-in-litauen-fuer-freie-presse-kritik-an-geplantem-rundfunk-gesetz-100.html",
     "https://www.deutschlandfunk.de/uno-sonderberichterstatterin-rassistisches-ueberlegenheitsdenken-in-oesterreich-tief-verwurzelt-100.html",
     "https://www.deutschlandfunk.de/britisches-verteidigungsministerium-mitglied-der-streitkraefte-bei-unfall-ums-leben-gekommen-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/politik/deutschland/ukraine-krieg-marie-agnes-strack-zimmermann-und-roderich-kiesewetter-halten-bundeswehrbeteiligung-nach-friedensplan-fuer-moeglich-a-c7ad4acf-859f-41e1-8582-a581fea033a0#ref=rss",
     "https://www.deutschlandfunk.de/trump-bestaetigt-us-angriff-praesident-maduro-festgenommen-und-ausgeflogen-100.html",
     "https://www.deutschlandfunk.de/bundesentwicklungsministerin-alabali-radovan-gegen-abschiebe-forderung-der-csu-100.html",
-    "https://www.deutschlandfunk.de/bsw-lehnt-treuebekenntnis-zur-koalition-mit-der-spd-ab-100.html"
+    "https://www.deutschlandfunk.de/bsw-lehnt-treuebekenntnis-zur-koalition-mit-der-spd-ab-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-und-eu-zeigen-sich-besorgt-russland-verurteilt-bewaffnete-aggression-102.html",
+    "https://www.deutschlandfunk.de/erste-vier-todesopfer-identifiziert-eu-unterstuetzt-bei-versorgung-von-verletzten-102.html"
   ],
   "content_hashes": [
-    "057f25dc4dea949edf4c39324eaf19f6",
-    "5d420e46162f40dc9cd631faf761fe05",
     "ba63b5bca2f6e9d40955ca83f58c189f",
     "1aad8f2061ca9b4c5e2d13b96a7d30a2",
     "19c60c891ee3c7572e0ff91fb0395e32",
@@ -2001,11 +1999,11 @@
     "6ebb5d98f7a47cdd5cc252067371d0f7",
     "e6911ba062add9f9005f55bdcb1492a0",
     "aae55bea8c56bbe6d824391f513e4720",
-    "0ff4ce301aba493ae6656c3ce0caecdc"
+    "0ff4ce301aba493ae6656c3ce0caecdc",
+    "ca99b9ff362d260ae4aa7904399e0c02",
+    "ea877a244d4138a076ea08d7d957eb05"
   ],
   "titles": [
-    "Wahlrechtsreform: Ein resilientes Wahlrecht wäre möglich",
-    "Australien - Social-Media-Verbot für Jugendliche in Kraft getreten",
     "Vilnius - Tausende demonstrieren in Litauen für freie Presse - Kritik an geplantem Rundfunk-Gesetz",
     "Wien - UNO-Sonderberichterstatterin: \"Rassistisches Überlegenheitsdenken in Österreich tief verwurzelt\"",
     "Ukraine - Britisches Verteidigungsministerium: Mitglied der Streitkräfte bei Unfall ums Leben gekommen",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg: Marie-Agnes Strack-Zimmermann und Roderich Kiesewetter halten Bundeswehrbeteiligung nach Friedensplan für möglich",
     "Venezuela - Trump bestätigt US-Angriff: Präsident Maduro \"festgenommen und ausgeflogen\"",
     "Flüchtlinge aus Syrien - Bundesentwicklungsministerin Alabali Radovan gegen Abschiebe-Forderung der CSU",
-    "Brandenburg - BSW lehnt Treuebekenntnis zur Koalition mit der SPD ab"
+    "Brandenburg - BSW lehnt Treuebekenntnis zur Koalition mit der SPD ab",
+    "Reaktionen auf US-Angriff in Venezuela - Bundesregierung und EU zeigen sich besorgt - Russland verurteilt \"bewaffnete Aggression\"",
+    "Nach Brandkatastrophe in Crans-Montana - Erste vier Todesopfer identifiziert - EU unterstützt bei Versorgung von Verletzten"
   ],
   "hashes": [
-    "615c05cce1d30e1138011d45f6fb113e",
-    "d8d412b0b9df7c7f8080436f93f93761",
     "84827706084f1c1a4b1beacad8158eb0",
     "0b66ac730fbb8c041791f0441dcb968f",
     "9e502fe107f41c814f43d4d64999f853",
@@ -4005,6 +4003,8 @@
     "90f27a3c9fe94f843eb458e96b64a78c",
     "261afc35d2ffd7a8620b7466c3bc47dc",
     "44f6594b451ec0fe9576d61b8e0856e3",
-    "9f83cdbbc09c4bc1b4cfd37adb628227"
+    "9f83cdbbc09c4bc1b4cfd37adb628227",
+    "8118f844b00f5b4ab2dac11e117f8301",
+    "b5cfda93a425dbad9eeb3cd3b891ea40"
   ]
 }
