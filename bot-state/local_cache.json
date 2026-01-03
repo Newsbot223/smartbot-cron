@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-sonderberichterstatterin-rassistisches-ueberlegenheitsdenken-in-oesterreich-tief-verwurzelt-100.html",
-    "https://www.deutschlandfunk.de/britisches-verteidigungsministerium-mitglied-der-streitkraefte-bei-unfall-ums-leben-gekommen-100.html",
     "https://www.deutschlandfunk.de/nach-angriffen-auf-energieanlagen-regierung-in-kiew-kuendigt-weitere-stromsperren-an-102.html",
     "https://www.deutschlandfunk.de/selenskyj-will-ueberarbeiteten-us-plan-fuer-kriegsende-bald-nach-washington-schicken-102.html",
     "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bsw-lehnt-treuebekenntnis-zur-koalition-mit-der-spd-ab-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-und-eu-zeigen-sich-besorgt-russland-verurteilt-bewaffnete-aggression-102.html",
     "https://www.deutschlandfunk.de/erste-vier-todesopfer-identifiziert-eu-unterstuetzt-bei-versorgung-von-verletzten-102.html",
-    "https://www.deutschlandfunk.de/vor-150-jahren-geboren-auf-den-spuren-von-konrad-adenauer-100.html"
+    "https://www.deutschlandfunk.de/vor-150-jahren-geboren-auf-den-spuren-von-konrad-adenauer-100.html",
+    "https://www.deutschlandfunk.de/eu-mahnt-zur-achtung-des-voelkerrechts-russland-verurteilt-bewaffnete-aggression-100.html",
+    "https://www.deutschlandfunk.de/unterschiedliche-reaktionen-aus-der-deutschen-politik-auf-us-einsatz-in-venezuela-100.html"
   ],
   "content_hashes": [
-    "1aad8f2061ca9b4c5e2d13b96a7d30a2",
-    "19c60c891ee3c7572e0ff91fb0395e32",
     "848f58f13857932744de98d4ce2d3aff",
     "31827c0d3415cc2712b59c4f286147e8",
     "73ae5388b6341c70e7f55899867660e4",
@@ -2001,11 +1999,11 @@
     "0ff4ce301aba493ae6656c3ce0caecdc",
     "ca99b9ff362d260ae4aa7904399e0c02",
     "ea877a244d4138a076ea08d7d957eb05",
-    "1413d06a34fa9af8a8e9183f73d704df"
+    "1413d06a34fa9af8a8e9183f73d704df",
+    "7e1e39870bad8fc13cba1166f146af6e",
+    "d4bbd7ab8a75a03638955068b7f190ae"
   ],
   "titles": [
-    "Wien - UNO-Sonderberichterstatterin: \"Rassistisches Überlegenheitsdenken in Österreich tief verwurzelt\"",
-    "Ukraine - Britisches Verteidigungsministerium: Mitglied der Streitkräfte bei Unfall ums Leben gekommen",
     "Russlands Ukrainekrieg - Nach Angriffen auf Energieanlagen: Regierung in Kiew kündigt weitere Stromsperren an",
     "Ukraine-krieg - Selenskyj will überarbeiteten US-Plan für Kriegsende bald nach Washington schicken",
     "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille",
@@ -3003,11 +3001,11 @@
     "Brandenburg - BSW lehnt Treuebekenntnis zur Koalition mit der SPD ab",
     "Reaktionen auf US-Angriff in Venezuela - Bundesregierung und EU zeigen sich besorgt - Russland verurteilt \"bewaffnete Aggression\"",
     "Nach Brandkatastrophe in Crans-Montana - Erste vier Todesopfer identifiziert - EU unterstützt bei Versorgung von Verletzten",
-    "Vor 150 Jahren geboren - Auf den Spuren von Konrad Adenauer"
+    "Vor 150 Jahren geboren - Auf den Spuren von Konrad Adenauer",
+    "Reaktionen auf US-Angriff in Venezuela - EU mahnt zur Achtung des Völkerrechts - Russland verurteilt \"bewaffnete Aggression\"",
+    "Berlin - Unterschiedliche Reaktionen aus der deutschen Politik auf US-Einsatz in Venezuela"
   ],
   "hashes": [
-    "0b66ac730fbb8c041791f0441dcb968f",
-    "9e502fe107f41c814f43d4d64999f853",
     "7b22c62b5762a08938062b4af76dbe9c",
     "e8af2b459472c0018d24765b8b567931",
     "0c510e4b1caf2ed668a62dd85c6a5026",
@@ -4005,6 +4003,8 @@
     "9f83cdbbc09c4bc1b4cfd37adb628227",
     "8118f844b00f5b4ab2dac11e117f8301",
     "b5cfda93a425dbad9eeb3cd3b891ea40",
-    "ed90bc4ac6ccf0664a76b81d378e8904"
+    "ed90bc4ac6ccf0664a76b81d378e8904",
+    "b393f2cf14ec5d0a2bead766dea9a74e",
+    "acc66d920da702045096b17669dbe5d0"
   ]
 }
