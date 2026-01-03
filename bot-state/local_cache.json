@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-102.html",
-    "https://www.faz.net/aktuell/politik/inland/merz-im-fernsehen-im-kulturkampf-um-das-stadtbild-110800322.html",
     "https://www.deutschlandfunk.de/selenskyj-will-neuwahlen-unter-kriegsrecht-moeglich-machen-102.html",
     "https://www.deutschlandfunk.de/anlagenbauer-voith-will-bis-zu-2-500-stellen-streichen-100.html",
     "https://www.deutschlandfunk.de/mittelstandsverbund-begruesst-eu-einigung-auf-lockerung-des-lieferkettengesetzes-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-mahnt-zur-achtung-des-voelkerrechts-russland-verurteilt-bewaffnete-aggression-100.html",
     "https://www.deutschlandfunk.de/unterschiedliche-reaktionen-aus-der-deutschen-politik-auf-us-einsatz-in-venezuela-100.html",
     "https://www.deutschlandfunk.de/weiteres-treffen-von-internationalen-sicherheitsberatern-in-kiew-100.html",
-    "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-104.html"
+    "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-104.html",
+    "https://www.deutschlandfunk.de/trump-kuendigt-voruebergehende-machtuebernahme-in-venezuela-an-100.html",
+    "https://www.deutschlandfunk.de/unterschiedliche-reaktionen-auf-us-einsatz-100.html"
   ],
   "content_hashes": [
-    "73ae5388b6341c70e7f55899867660e4",
-    "280f1d87678c7291aab379d61ddb928d",
     "ad4254fb8a2dc9f45d373f69f73a540c",
     "663f3aac650f6c5453027cad01318064",
     "821f123424fe19608ed3a7e8ad8d03f2",
@@ -2001,11 +1999,11 @@
     "7e1e39870bad8fc13cba1166f146af6e",
     "d4bbd7ab8a75a03638955068b7f190ae",
     "f85aeab32b9f196c8d4cb55523385fd6",
-    "d73d8df0f266b8bcf6a5a008d5488e1d"
+    "d73d8df0f266b8bcf6a5a008d5488e1d",
+    "7763344c78c730e90e019228c2642ab9",
+    "f22bc77bbb20b47ae0bb5c3f112a33ff"
   ],
   "titles": [
-    "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille",
-    "Der Kanzler in der „Arena“: Merz im Kulturkampf",
     "Ukraine-Krieg - Selenskyj will Neuwahlen unter Kriegsrecht möglich machen",
     "Zehntel der Belegschaft - Anlagenbauer Voith will bis zu 2.500 Stellen streichen",
     "Dlf-Interview - Mittelstandsverbund begrüßt EU-Einigung auf Lockerung des Lieferkettengesetzes",
@@ -3003,11 +3001,11 @@
     "Reaktionen auf US-Angriff in Venezuela - EU mahnt zur Achtung des Völkerrechts - Russland verurteilt \"bewaffnete Aggression\"",
     "Berlin - Unterschiedliche Reaktionen aus der deutschen Politik auf US-Einsatz in Venezuela",
     "Russischer Krieg in der Ukraine - Weiteres Treffen von internationalen Sicherheitsberatern in Kiew",
-    "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität"
+    "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität",
+    "Nach Militäreinsatz - Trump kündigt vorübergehende Machtübernahme in Venezuela an",
+    "Venezuela - Unterschiedliche Reaktionen auf US-Einsatz"
   ],
   "hashes": [
-    "0c510e4b1caf2ed668a62dd85c6a5026",
-    "e955289aaf5e3a16e20cea3e1cd3fd97",
     "ee1bc26ca1552b389014ef8f71d6825d",
     "b4582427ccd33527255084de358d7403",
     "f7b15346ba8ffaf6cd5c5b328f5b68ae",
@@ -4005,6 +4003,8 @@
     "b393f2cf14ec5d0a2bead766dea9a74e",
     "acc66d920da702045096b17669dbe5d0",
     "5f2f37b2f745ae3ce1ac71464cfca522",
-    "cd0fae461a0341bb0b16332a5cb020af"
+    "cd0fae461a0341bb0b16332a5cb020af",
+    "03af658fc3d26ffc783505f8e2e6c546",
+    "dc76a6e351b1fc441d7c554d99d04963"
   ]
 }
