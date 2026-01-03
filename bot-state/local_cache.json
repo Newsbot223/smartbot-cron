@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneute-regierungskrise-abgewendet-frankreichs-nationalversammlung-verabschiedet-sozialhaushalt-102.html",
-    "https://www.faz.net/aktuell/politik/inland/winfried-kretschmann-ehrt-angela-merkel-mit-staufermedaille-accg-200341667.html",
     "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-renten-heizung-und-krankenkassen-102.html",
     "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-altkanzlerin-nennt-corona-pandemie-demokratische-zumutun-102.html",
     "https://www.deutschlandfunk.de/eu-einigung-auf-klimaschutz-zwischenziel-fuer-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weltweit-stossen-literaturfans-auf-den-schriftsteller-j-r-r-tolkien-an-104.html",
     "https://www.deutschlandfunk.de/oesterreicher-hoerl-gewinnt-qualifikation-prevc-nur-auf-rang-102.html",
     "https://www.faz.net/aktuell/politik/inland/neujahrsansprache-von-merz-die-deutschen-wollen-lieber-taten-sehen-110812665.html",
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-betreiber-der-bar-erste-todesopfer-identifiziert-100.html"
+    "https://www.deutschlandfunk.de/ermittlungen-gegen-betreiber-der-bar-erste-todesopfer-identifiziert-100.html",
+    "https://www.deutschlandfunk.de/der-westen-dringt-auf-einen-geordneten-machtwechsel-102.html",
+    "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-staatsschutz-ermittelt-108.html"
   ],
   "content_hashes": [
-    "05e6c5b7fb37d0a4703b58031e5e21e9",
-    "699c5275957fe2d39f0b941cf5560c49",
     "b23e0098c0790027f69734a567979bf2",
     "073dcbb3490a6a938e81dc3c889e6e0b",
     "182dc543eced53d1069a8d4704a5a786",
@@ -2001,11 +1999,11 @@
     "8567e512432a51b8b449fea1fcfab6b6",
     "10bd201b1c68b71e19ce51c1d1f822bb",
     "251a691ab50ee65d4a69a9e3703bf464",
-    "d4c01160b0054c06f7e7a7e7aaec2840"
+    "d4c01160b0054c06f7e7a7e7aaec2840",
+    "06365c9d298a6b0937a81e011ff31951",
+    "838cda121105c6aa6913104a3ab22489"
   ],
   "titles": [
-    "Paris - Erneute Regierungskrise abgewendet: Frankreichs Nationalversammlung verabschiedet Sozialhaushalt",
-    "Ehrung für Pandemie-Politik: Zwei schwarz-grüne Naturwissenschaftler",
     "Schwarz-Rotes Spitzengremium - Koalitionsausschuss berät über Renten, Heizung und Krankenkassen",
     "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille - Altkanzlerin nennt Corona-Pandemie \"demokratische Zumutung\"",
     "Nach Verhandlungen in Brüssel - EU-Einigung auf Klimaschutz-Zwischenziel für 2040",
@@ -3003,11 +3001,11 @@
     "Weltweit stoßen Literaturfans auf den Schriftsteller J.R.R. Tolkien an",
     "Vierschanzentournee - Österreicher Hörl gewinnt Qualifikation - Prevc nur auf Rang 30",
     "Neujahrsreden: Die Deutschen wollen lieber Taten sehen",
-    "Nach Brandkatastrophe in Crans-Montana - Ermittlungen gegen Betreiber der Bar - erste Todesopfer identifiziert"
+    "Nach Brandkatastrophe in Crans-Montana - Ermittlungen gegen Betreiber der Bar - erste Todesopfer identifiziert",
+    "US-Militäreinsatz in Venezuela - Der Westen dringt auf einen geordneten Machtwechsel",
+    "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität - Staatsschutz ermittelt"
   ],
   "hashes": [
-    "b6e5339317e8dfbe37aa69cbbb19482b",
-    "f6981e4851878c455d0cbd505a94efdf",
     "43f14a6198fff88d9c08943a1a108261",
     "1f8f0b37e269a4a91b8f36a34d9817b4",
     "0e6f5f5da99051c38204b6f31f094f83",
@@ -4005,6 +4003,8 @@
     "acf79dca60e706c52a85cec1477eac79",
     "7bb5fc87fc1940965946f7346a05b7a1",
     "af0595c86fdfa8e575894bb5942420d4",
-    "f2d9d08505cbdc2bd60765d8e159decb"
+    "f2d9d08505cbdc2bd60765d8e159decb",
+    "5aa241509674c4c8c27087715bec29ff",
+    "0e93f3fc674edc8ff07a4106735a9d0f"
   ]
 }
