@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/deutschland/usa-friedrich-merz-nennt-teile-von-neuer-us-sicherheitsstrategie-inakzeptabel-a-372c698c-12a6-4acb-a194-cddb6dc966e0#ref=rss",
-    "https://www.deutschlandfunk.de/trump-europa-macht-keine-gute-arbeit-100.html",
-    "https://www.deutschlandfunk.de/mindestens-150-000-menschen-fliehen-vor-aufgeflammten-grenzkonflikt-zwischen-thailand-und-kambodscha-100.html",
     "https://www.deutschlandfunk.de/bericht-haushaltsausschuss-liegen-neue-ruestungsprojekte-im-umfang-von-52-milliarden-euro-vor-rheinm-100.html",
     "https://www.deutschlandfunk.de/australiens-premier-verteidigt-social-media-verbot-fuer-kinder-100.html",
     "https://www.deutschlandfunk.de/pakistanische-taliban-toeten-sechs-soldaten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/berichte-ueber-neue-demonstrationen-in-teheran-100.html",
     "https://www.deutschlandfunk.de/kambodscha-wirft-thailand-illegale-annexion-von-territorien-vor-102.html",
     "https://www.deutschlandfunk.de/hilfsorganisationen-warnen-vor-arbeitsverbot-durch-israel-appell-von-guterres-102.html",
-    "https://www.deutschlandfunk.de/rwe-chef-gas-und-strom-werden-billiger-102.html"
+    "https://www.deutschlandfunk.de/rwe-chef-gas-und-strom-werden-billiger-102.html",
+    "https://www.deutschlandfunk.de/csu-papier-fordert-bundeswehr-als-staerkste-armee-in-europa-102.html",
+    "https://www.deutschlandfunk.de/kambodscha-und-thailand-weiter-uneins-ueber-territorialfragen-108.html",
+    "https://www.deutschlandfunk.de/zwei-tote-nach-erdbeben-104.html"
   ],
   "content_hashes": [
-    "4d90582164e51a82b4266178ab6bfac7",
-    "c1f8fab4753b11d3bc6c7f250d0744d5",
-    "88c7579b6a459551babe02e03b2c5edd",
     "0cea2783cdc85212bf30c4abffb77220",
     "7b1f7dcaa502ad8c02ce3e0af365a1d2",
     "0032bda5a5f6de18bd041ecaef70dd46",
@@ -2001,12 +1998,12 @@
     "7a7f52f84a6b5dc8be7b62fda6879ac6",
     "2d1ac498a2c9721bc804b7efa341cfbb",
     "8686c8a16d7fe7e655fa20f9fe407137",
-    "8cbc5d4149791419cb103677fb3d4505"
+    "8cbc5d4149791419cb103677fb3d4505",
+    "54b74e0705812a35270f975b6290531e",
+    "9be6bc62658629e7a725e4052c752865",
+    "51e49fbec4d08dab2d770bf8a30209ac"
   ],
   "titles": [
-    "USA: Friedrich Merz nennt Teile von neuer US-Sicherheitsstrategie »inakzeptabel«",
-    "Transatlantische Verstimmung - Trump: Europa macht keine gute Arbeit",
-    "Südostasien - Mindestens 150.000 Menschen fliehen vor aufgeflammten Grenzkonflikt zwischen Thailand und Kambodscha",
     "Militär - Bericht: Haushaltsausschuss liegen neue Rüstungsprojekte im Umfang von 52 Milliarden Euro vor - Rheinmetall soll Auftrag für Satellitensystem erhalten",
     "Vor Inkrafttreten - Australiens Premier verteidigt Social-Media-Verbot für Kinder",
     "Grenze zu Afghanistan - Pakistanische Taliban töten sechs Soldaten",
@@ -3003,12 +3000,12 @@
     "Massenproteste - Berichte über neue Demonstrationen in Teheran",
     "Grenzkonflikt - Kambodscha wirft Thailand \"illegale Annexion\" von Territorien vor",
     "Nahost - Hilfsorganisationen warnen vor Arbeitsverbot durch Israel - Appell von Guterres",
-    "Energiepreise - RWE-Chef: \"Gas und Strom werden billiger\""
+    "Energiepreise - RWE-Chef: \"Gas und Strom werden billiger\"",
+    "Verteidigungspolitik - CSU-Papier fordert Bundeswehr als stärkste Armee in Europa",
+    "Grenzkonflikt - Kambodscha und Thailand weiter uneins über Territorialfragen",
+    "Mexiko - Zwei Tote nach Erdbeben"
   ],
   "hashes": [
-    "2d1423c32f76ffb6442597250a8357a9",
-    "4d945b00b1a1c56cedc0b6856d18d4b8",
-    "4c5c1b8ca9cd58a77c4c55ff8953635a",
     "719e12427a6ccf008e11fa19a46d1022",
     "6000ad0dabb9f09eb4292ca2409f2932",
     "2a01550d3fefca32b7acc91c4f69b3e7",
@@ -4005,6 +4002,9 @@
     "aa947f8bda6ae22b820c404cf89b94ec",
     "34d8883e232b8c0a3274a67b6207bbc2",
     "9aa369cf1ab523a93c968b9b466e1841",
-    "8d1e6e239aa260f70f3fde0fdc278635"
+    "8d1e6e239aa260f70f3fde0fdc278635",
+    "b13439d4052e7e8e4c8884cd982a0fa7",
+    "1a3a0772714f1b9d13db11ed171fa131",
+    "27560fa6d438175fcb5d0cc51ffb672f"
   ]
 }
