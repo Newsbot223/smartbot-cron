@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/koalitionsausschuss-beraet-ueber-renten-heizung-und-krankenkassen-102.html",
-    "https://www.deutschlandfunk.de/kretschmann-ehrt-merkel-mit-staufermedaille-altkanzlerin-nennt-corona-pandemie-demokratische-zumutun-102.html",
-    "https://www.deutschlandfunk.de/eu-einigung-auf-klimaschutz-zwischenziel-fuer-100.html",
     "https://www.deutschlandfunk.de/hoechste-unhcr-auszeichnung-geht-an-ortsvorsteher-aus-kamerun-102.html",
     "https://www.spiegel.de/politik/bsw-reinhard-simon-und-melanie-matzies-sind-wieder-mitglieder-im-buendnis-sahra-wagenknecht-a-b485a1a2-fecb-4245-a8d8-c37274c6ac67#ref=rss",
     "https://www.deutschlandfunk.de/bundesregierung-startet-gespraeche-mit-verbaenden-102.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/neujahrsansprache-von-merz-die-deutschen-wollen-lieber-taten-sehen-110812665.html",
     "https://www.deutschlandfunk.de/ermittlungen-gegen-betreiber-der-bar-erste-todesopfer-identifiziert-100.html",
     "https://www.deutschlandfunk.de/der-westen-dringt-auf-einen-geordneten-machtwechsel-102.html",
-    "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-staatsschutz-ermittelt-108.html"
+    "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-staatsschutz-ermittelt-108.html",
+    "https://www.deutschlandfunk.de/china-verurteilt-us-angriff-auf-venezuela-aufs-schaerfste-100.html",
+    "https://www.deutschlandfunk.de/westliche-laender-dringen-auf-einen-geordneten-machtwechsel-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-berlin-notunterkuenfte-eingerichtet-35-000-haushalte-voraussichtlich-mehrere-tage-oh-100.html"
   ],
   "content_hashes": [
-    "b23e0098c0790027f69734a567979bf2",
-    "073dcbb3490a6a938e81dc3c889e6e0b",
-    "182dc543eced53d1069a8d4704a5a786",
     "b520a171a9c1193bc5808c9acc15b1da",
     "a6929c25cc2a4d44da831fd41435bc93",
     "102719bd5fb47a51bb924ca5f4e85aa0",
@@ -2001,12 +1998,12 @@
     "251a691ab50ee65d4a69a9e3703bf464",
     "d4c01160b0054c06f7e7a7e7aaec2840",
     "06365c9d298a6b0937a81e011ff31951",
-    "838cda121105c6aa6913104a3ab22489"
+    "838cda121105c6aa6913104a3ab22489",
+    "e59e42b44fbc61d5f9373cb73909d0e3",
+    "97a4f168faddc8fcc5b66cbdbb22c3e3",
+    "db8f2e659aa2a3bd2a22dc78e110dd2a"
   ],
   "titles": [
-    "Schwarz-Rotes Spitzengremium - Koalitionsausschuss berät über Renten, Heizung und Krankenkassen",
-    "Auszeichnung in Stuttgart - Kretschmann ehrt Merkel mit Staufermedaille - Altkanzlerin nennt Corona-Pandemie \"demokratische Zumutung\"",
-    "Nach Verhandlungen in Brüssel - EU-Einigung auf Klimaschutz-Zwischenziel für 2040",
     "\"Nansen\"-Preis - Höchste UNHCR-Auszeichnung geht an Ortsvorsteher aus Kamerun",
     "BSW: Reinhard Simon und Melanie Matzies sind wieder Mitglieder im Bündnis Sahra Wagenknecht",
     "Möglicher Zivildienst - Bundesregierung startet Gespräche mit Verbänden",
@@ -3003,12 +3000,12 @@
     "Neujahrsreden: Die Deutschen wollen lieber Taten sehen",
     "Nach Brandkatastrophe in Crans-Montana - Ermittlungen gegen Betreiber der Bar - erste Todesopfer identifiziert",
     "US-Militäreinsatz in Venezuela - Der Westen dringt auf einen geordneten Machtwechsel",
-    "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität - Staatsschutz ermittelt"
+    "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität - Staatsschutz ermittelt",
+    "Außenministerium in Peking - China verurteilt US-Angriff auf Venezuela aufs Schärfste",
+    "US-Militäreinsatz in Venezuela - Westliche Länder dringen auf einen geordneten Machtwechsel",
+    "Südwesten der Hauptstadt - Stromausfall in Berlin: Notunterkünfte eingerichtet - 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität"
   ],
   "hashes": [
-    "43f14a6198fff88d9c08943a1a108261",
-    "1f8f0b37e269a4a91b8f36a34d9817b4",
-    "0e6f5f5da99051c38204b6f31f094f83",
     "353faf254a0cbe23bfc3ef59396618a6",
     "69cc48250450f7a07ebde263bec3cf10",
     "2b13c0bcb6cff580027ce499138a8b3d",
@@ -4005,6 +4002,9 @@
     "af0595c86fdfa8e575894bb5942420d4",
     "f2d9d08505cbdc2bd60765d8e159decb",
     "5aa241509674c4c8c27087715bec29ff",
-    "0e93f3fc674edc8ff07a4106735a9d0f"
+    "0e93f3fc674edc8ff07a4106735a9d0f",
+    "c5c94204a4ebb737dab5b07c3dea641d",
+    "8bb9e367139bb85adba84b08f2e876ae",
+    "0759bab8377da271fc6f0d017e9fcac7"
   ]
 }
