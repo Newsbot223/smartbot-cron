@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/silber-preis-steigt-auf-neuen-hoechststand-100.html",
-    "https://www.deutschlandfunk.de/bundeslanwirtschaftsminister-rainer-will-agrarexporte-staerker-foerdern-100.html",
-    "https://www.deutschlandfunk.de/forscher-empfehlen-gesetzliche-pflicht-fuer-nutri-score-lebensmittelampel-laut-studie-von-mehrheit-d-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-stimmt-unterzeichnung-von-mercosur-handelsabkommen-zu-100.html",
     "https://www.deutschlandfunk.de/us-richter-entscheidet-gegen-trumps-entsendung-der-nationalgarde-nach-los-angeles-100.html",
     "https://www.deutschlandfunk.de/veggie-burger-und-tofu-wurst-bleiben-in-der-eu-als-bezeichnungen-vorerst-erlaubt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-104.html",
     "https://www.faz.net/aktuell/politik/inland/theo-waigel-ueber-das-jahr-1976-freiheit-oder-sozialismus-accg-110812137.html",
     "https://www.deutschlandfunk.de/amnesty-beklagt-schwere-repressionen-gegen-opposition-in-uganda-100.html",
-    "https://www.deutschlandfunk.de/iran-wirft-netanjahu-vor-das-land-spalten-zu-wollen-100.html"
+    "https://www.deutschlandfunk.de/iran-wirft-netanjahu-vor-das-land-spalten-zu-wollen-100.html",
+    "https://www.deutschlandfunk.de/nestl-konzern-ruft-babynahrung-zurueck-100.html",
+    "https://www.deutschlandfunk.de/staedte-und-gemeindebund-dringt-auf-neuverteilung-der-sozialkosten-100.html",
+    "https://www.deutschlandfunk.de/jeder-fuenfte-nutzt-bei-der-arbeit-kuenstliche-intelligenz-102.html"
   ],
   "content_hashes": [
-    "c0ce02c6a2528aa1c23e496cbbeab80d",
-    "e84721918864f5261616e3e033469f1c",
-    "96850dbf2b9509a14446dd0cedbc8cad",
     "9263d575df9ce5d2b470c31bf245b05b",
     "023eaa88768a60d3d0ef549a81270185",
     "e120b2cdce57fa9a7d259b3bbbfb9d50",
@@ -2001,12 +1998,12 @@
     "9bd7c54bb15c43a52c21ab17e5f89d28",
     "a81527c4be72b04c9593a0176dd5dc1b",
     "d95b4aac7e3a747b03100292659f93b8",
-    "64bf53f1b7fa9371810c78892b56c207"
+    "64bf53f1b7fa9371810c78892b56c207",
+    "c56ad0531a731a3681d25eb74b406bfc",
+    "3760f4cbf21a11af1242735b1ffa6ebd",
+    "e440bf732de235482e80cb954ec569db"
   ],
   "titles": [
-    "Wirtschaft - Silber-Preis steigt auf neuen Höchststand",
-    "Internationale Märkte - Bundeslanwirtschaftsminister Rainer will Agrarexporte stärker fördern",
-    "Ernährung - Forscher empfehlen gesetzliche Pflicht für Nutri-Score - \"Lebensmittelampel\" laut Studie von Mehrheit der Kunden befürwortet",
     "Freihandel mit Südamerika - Bundeskabinett stimmt Unterzeichnung von Mercosur-Handelsabkommen zu",
     "Truppeneinsatz - US-Richter entscheidet gegen Trumps Entsendung der Nationalgarde nach Los Angeles",
     "Streit um Namensverbot - \"Veggie-Burger\" und \"Tofu-Wurst\" bleiben in der EU als Bezeichnungen vorerst erlaubt",
@@ -3003,12 +3000,12 @@
     "Krieg gegen die Ukraine - Tote und Verletzte nach russischen Angriffen",
     "Das Jahr 1976: Freiheit oder Sozialismus",
     "Vor der geplanten Präsidentenwahl - Amnesty beklagt schwere Repressionen gegen Opposition in Uganda",
-    "Proteste - Iran wirft Netanjahu vor, das Land spalten zu wollen"
+    "Proteste - Iran wirft Netanjahu vor, das Land spalten zu wollen",
+    "Gefahr von Übelkeit und Erbrechen - Nestlé-Konzern ruft Babynahrung zurück",
+    "Kommunen - Städte- und Gemeindebund dringt auf Neuverteilung der Sozialkosten",
+    "Münchner Ifo-Institut - Jeder Fünfte nutzt bei der Arbeit Künstliche Intelligenz"
   ],
   "hashes": [
-    "d37935f5683189ae1e84337d6bd5898b",
-    "af642b85de83cb3fbca731db03a8cc8b",
-    "14b6c4a7b7a5ee1cb2f3de6add86af1b",
     "705f0ed7fb7cffa3df455337be28050d",
     "269d317b7f6c4dbaf4f6c97edcae6660",
     "b880fbed36f2c42e66b74a3346932c0d",
@@ -4005,6 +4002,9 @@
     "67b0ccda217ba57f4eeb8df7a591a86c",
     "5e95a5ccb724dece08268cd460d2f065",
     "61222c88e2942382f576f2cfdb1341ee",
-    "5bc999771cf80e7c0ef7a330308c744b"
+    "5bc999771cf80e7c0ef7a330308c744b",
+    "9deb3bcec14b060ffe12b1444df85e32",
+    "1ae743ca05040288f685e0602b8e7b1c",
+    "98a606b2eb65fcb4a13fd0145a19b365"
   ]
 }
