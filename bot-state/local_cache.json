@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ex-milliardaer-benko-in-innsbruck-zu-bewaehrungsstrafe-verurteilt-100.html",
-    "https://www.deutschlandfunk.de/mit-island-zieht-sich-die-fuenfte-nation-vom-esc-zurueck-100.html",
     "https://www.deutschlandfunk.de/silber-preis-steigt-auf-neuen-hoechststand-100.html",
     "https://www.deutschlandfunk.de/bundeslanwirtschaftsminister-rainer-will-agrarexporte-staerker-foerdern-100.html",
     "https://www.deutschlandfunk.de/forscher-empfehlen-gesetzliche-pflicht-fuer-nutri-score-lebensmittelampel-laut-studie-von-mehrheit-d-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/photovoltaik-ueberholt-braunkohle-und-erdgas-bei-stromerzeugung-100.html",
     "https://www.deutschlandfunk.de/politologe-muenkler-und-rechtswissenschaftler-schiffbauer-einsatz-der-usa-war-voelkerrechtswidrig-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-nach-russischen-angriffen-104.html",
-    "https://www.faz.net/aktuell/politik/inland/theo-waigel-ueber-das-jahr-1976-freiheit-oder-sozialismus-accg-110812137.html"
+    "https://www.faz.net/aktuell/politik/inland/theo-waigel-ueber-das-jahr-1976-freiheit-oder-sozialismus-accg-110812137.html",
+    "https://www.deutschlandfunk.de/amnesty-beklagt-schwere-repressionen-gegen-opposition-in-uganda-100.html",
+    "https://www.deutschlandfunk.de/iran-wirft-netanjahu-vor-das-land-spalten-zu-wollen-100.html"
   ],
   "content_hashes": [
-    "114095ec39e77ffdbf473e352d6a32fa",
-    "213e0ccbefbb6d9e46add1ccb565566d",
     "c0ce02c6a2528aa1c23e496cbbeab80d",
     "e84721918864f5261616e3e033469f1c",
     "96850dbf2b9509a14446dd0cedbc8cad",
@@ -2001,11 +1999,11 @@
     "fdaa1c70560dee9861084ae899ce08ea",
     "b468bfdae2e7dbcd642dc4f5f2f3f78f",
     "9bd7c54bb15c43a52c21ab17e5f89d28",
-    "a81527c4be72b04c9593a0176dd5dc1b"
+    "a81527c4be72b04c9593a0176dd5dc1b",
+    "d95b4aac7e3a747b03100292659f93b8",
+    "64bf53f1b7fa9371810c78892b56c207"
   ],
   "titles": [
-    "Konkursvergehen - Ex-Milliardär Benko in Innsbruck zu Bewährungsstrafe verurteilt",
-    "Boykott wegen Israel weitet sich aus - Mit Island zieht sich die fünfte Nation vom ESC zurück",
     "Wirtschaft - Silber-Preis steigt auf neuen Höchststand",
     "Internationale Märkte - Bundeslanwirtschaftsminister Rainer will Agrarexporte stärker fördern",
     "Ernährung - Forscher empfehlen gesetzliche Pflicht für Nutri-Score - \"Lebensmittelampel\" laut Studie von Mehrheit der Kunden befürwortet",
@@ -3003,11 +3001,11 @@
     "Bilanz - Photovoltaik überholt Braunkohle und Erdgas bei Stromerzeugung",
     "US-Intervention in Venezuela - Politologe Münkler und Rechtswissenschaftler Schiffbauer: Einsatz der USA war völkerrechtswidrig",
     "Krieg gegen die Ukraine - Tote und Verletzte nach russischen Angriffen",
-    "Das Jahr 1976: Freiheit oder Sozialismus"
+    "Das Jahr 1976: Freiheit oder Sozialismus",
+    "Vor der geplanten Präsidentenwahl - Amnesty beklagt schwere Repressionen gegen Opposition in Uganda",
+    "Proteste - Iran wirft Netanjahu vor, das Land spalten zu wollen"
   ],
   "hashes": [
-    "6fe0b8316f7ea584f0156831b4a3039b",
-    "3870d4029b736b370aecb36d3d2dd332",
     "d37935f5683189ae1e84337d6bd5898b",
     "af642b85de83cb3fbca731db03a8cc8b",
     "14b6c4a7b7a5ee1cb2f3de6add86af1b",
@@ -4005,6 +4003,8 @@
     "23f7ef74e190ba19b8ad1bce7277958d",
     "832e7a93e3a242b9b3cbba5b1f5af94c",
     "67b0ccda217ba57f4eeb8df7a591a86c",
-    "5e95a5ccb724dece08268cd460d2f065"
+    "5e95a5ccb724dece08268cd460d2f065",
+    "61222c88e2942382f576f2cfdb1341ee",
+    "5bc999771cf80e7c0ef7a330308c744b"
   ]
 }
