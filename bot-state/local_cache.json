@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-genehmigt-ausbau-von-siedlungen-im-westjordanland-102.html",
-    "https://www.deutschlandfunk.de/kein-politisches-interesse-mehr-bundesregierung-will-aufnahmezusage-an-hunderte-afghanen-zuruecknehm-102.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-journalisten-wissenschaftler-und-aktivisten-besser-vor-einschuechterungsklagen--104.html",
     "https://www.deutschlandfunk.de/friedensnobelpreistraegerin-machado-in-oslo-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/ergebnisse-von-spitzentreffen-am-morgen-104.html",
     "https://www.deutschlandfunk.de/zukunftspakt-pflege-stellt-eckpunkte-fuer-reform-vor-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zerrissenheit-suedamerika-interview-claudia-zilla-lateinamerika-expertin-swp-100.html",
     "https://www.deutschlandfunk.de/eu-oppositionspolitiker-machado-und-gonz-lez-muessen-teil-des-demokratischen-uebergangs-sein-102.html",
     "https://www.deutschlandfunk.de/brandenburgs-finanzminister-crumbach-tritt-aus-bsw-aus-100.html",
-    "https://www.deutschlandfunk.de/mehrere-millionen-unterschriften-gesammelt-100.html"
+    "https://www.deutschlandfunk.de/mehrere-millionen-unterschriften-gesammelt-100.html",
+    "https://www.deutschlandfunk.de/dringlichkeitssitzung-des-uno-sicherheitsrats-auf-antrag-venezuelas-102.html",
+    "https://www.deutschlandfunk.de/wadephul-verteidigt-haltung-der-bundesregierung-nach-us-angriff-auf-venezuela-102.html",
+    "https://www.spiegel.de/politik/bundesregierung-reagiert-scharf-auf-russischen-spruch-ueber-entfuehrung-von-kanzler-merz-a-489484c6-85d9-4db0-9784-5124a17f83ee#ref=rss"
   ],
   "content_hashes": [
-    "caae346537f38d6dd5839e9e5f28661f",
-    "0cc123a9216443724defcc492b6f9de1",
-    "08ef89f2a5f934e9c72cc84d5bfbbe8b",
     "20513895c1d898651bc09196e970ad31",
     "069eed08f419dd525e1205e83d0f12b7",
     "4bd09a37f412e08c90ffe2c407ec601c",
@@ -2001,12 +1998,12 @@
     "c72dfea63fde1d8f90ab8cb98925ee7f",
     "300bc36701093a1539e8ac3dd5049ca7",
     "a0177f6028a304ecef0698b6375e92d7",
-    "54f2e2940459084c29fe4831a497382b"
+    "54f2e2940459084c29fe4831a497382b",
+    "66b828faf725c0dbb2c48b89ee8223b7",
+    "b2c9f8f03d7904d429e3e04dee043ad8",
+    "5da5eb3509910f2cba99cdccb2800a77"
   ],
   "titles": [
-    "Nahost - Israel genehmigt Ausbau von Siedlungen im Westjordanland",
-    "Innenministerium - \"Kein politisches Interesse mehr\" - Bundesregierung will Aufnahmezusage an Hunderte Afghanen zurücknehmen",
-    "Beschlüsse - Bundesregierung will Journalisten, Wissenschaftler und Aktivisten besser vor Einschüchterungsklagen schützen",
     "Nobelkomitee - Friedensnobelpreisträgerin Machado in Oslo eingetroffen",
     "Koalition - Ergebnisse von Spitzentreffen am Morgen",
     "Soziales - Zukunftspakt Pflege stellt Eckpunkte für Reform vor",
@@ -3003,12 +3000,12 @@
     "Südamerika-Expertin - US-Angriff schadet der Bevölkerung Venezuelas",
     "Venezuela - EU: Oppositionspolitiker Machado und González müssen Teil des demokratischen Übergangs sein",
     "Potsdam - Brandenburgs Finanzminister Crumbach tritt aus BSW aus",
-    "Forderung nach Böllerverbot - Mehrere Millionen Unterschriften gesammelt"
+    "Forderung nach Böllerverbot - Mehrere Millionen Unterschriften gesammelt",
+    "Nach Maduro-Festnahme - Dringlichkeitssitzung des UNO-Sicherheitsrats auf Antrag Venezuelas",
+    "Vilnius - Wadephul verteidigt Haltung der Bundesregierung nach US-Angriff auf Venezuela",
+    "Bundesregierung reagiert scharf auf russischen Spruch über Entführung von Kanzler Merz"
   ],
   "hashes": [
-    "9dd1e6302386941d3f48aade11ed5e28",
-    "e2fa9c8b29b2b6f836f55ec42c8a2352",
-    "05b98bf04859977666f34efdaff100ea",
     "9d7c5038670df8dafdeec546b1ed80d2",
     "7730d1e7559696cb9f871e5d901232d2",
     "c309d2ae6d47c1bec52813c0ebc45c25",
@@ -4005,6 +4002,9 @@
     "c301166e84d5363e99033ed726efde03",
     "59fd86ebb42c4d405cb5f2d8decc9141",
     "08b6e225e7dbb5da56751d9034b6f0d5",
-    "1082bf4642e618629af08b4c1c94c30c"
+    "1082bf4642e618629af08b4c1c94c30c",
+    "6df971d78d88f5f6e5b6b1fcd4a582b2",
+    "75f2f2b358deb9bb4b81434c19eeb21d",
+    "d668e956527fae4e34ad863905929f87"
   ]
 }
