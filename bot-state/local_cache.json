@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/soeder-stellt-sich-zur-wiederwahl-als-csu-chef-102.html",
-    "https://www.deutschlandfunk.de/time-magazine-kuert-ki-architekten-zu-person-des-jahres-108.html",
     "https://www.deutschlandfunk.de/parlament-in-thailand-aufgeloest-100.html",
     "https://www.deutschlandfunk.de/online-forum-reddit-klagt-gegen-social-media-verbot-fuer-kinder-unter-16-in-australien-100.html",
     "https://www.deutschlandfunk.de/neue-ahrtalbahn-wieder-durchgaengig-befahrbar-104.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/55-soldaten-aus-kuba-und-venezuela-bei-us-einsatz-getoetet-100.html",
     "https://www.deutschlandfunk.de/slowene-prevc-gewinnt-vierschanzentournee-102.html",
     "https://www.deutschlandfunk.de/verbuendete-einigen-sich-auf-sicherheitsgarantien-100.html",
-    "https://www.deutschlandfunk.de/schriften-zum-beginn-der-aufklaerung-werden-digitalisiert-102.html"
+    "https://www.deutschlandfunk.de/schriften-zum-beginn-der-aufklaerung-werden-digitalisiert-102.html",
+    "https://www.deutschlandfunk.de/italien-will-offenbar-mercosur-abkommen-unterzeichnen-100.html",
+    "https://www.deutschlandfunk.de/festgenommener-soll-alle-drei-kaeltebusse-angezuendet-haben-100.html"
   ],
   "content_hashes": [
-    "e4ad35516a281648d2e0189cd74884d5",
-    "9818bfe2af1ed07945453f651c10cd06",
     "cb945007205d109bbf80f4291c93d6d6",
     "25ef3cbfbd59145fc79d970213c07a28",
     "45a547f62e4bf104dd66ce73658136bc",
@@ -2001,11 +1999,11 @@
     "1df5c97450ad8a90ef83010eb63593b2",
     "4a202358824742f2c2ea564bcebb4741",
     "515e57ac9a5bec484e76506fd89c7fbf",
-    "751f64c7bd48ae0a33c6c3ff9c48a55d"
+    "751f64c7bd48ae0a33c6c3ff9c48a55d",
+    "4ca946cf0acd1202ab48150373cde8ec",
+    "4f72fb0f0a9ed53deb72ff6363f43d17"
   ],
   "titles": [
-    "München - Söder stellt sich zur Wiederwahl als CSU-Chef",
-    "Entwickler von Künstlicher Intelligenz - \"Time-Magazine\" kürt KI-Architekten zu Person des Jahres",
     "Antrag des Regierungschefs - Parlament in Thailand aufgelöst",
     "High Court - Online-Forum Reddit klagt gegen Social-Media-Verbot für Kinder unter 16 in Australien",
     "Nach Hochwasserkatastrophe 2021 - Neue Ahrtalbahn wieder durchgängig befahrbar",
@@ -3003,11 +3001,11 @@
     "Neue Bilanz - 55 Soldaten aus Kuba und Venezuela bei US-Einsatz getötet",
     "Skispringen - Slowene Prevc gewinnt Vierschanzentournee",
     "Ukraine-Gipfel in Paris - Verbündete einigen sich auf Sicherheitsgarantien",
-    "Wissenschaftsprojekt - Schriften zum Beginn der Aufklärung werden digitalisiert"
+    "Wissenschaftsprojekt - Schriften zum Beginn der Aufklärung werden digitalisiert",
+    "Nach EU-Zugeständnissen - Italien will offenbar Mercosur-Abkommen unterzeichnen",
+    "Berlin - Festgenommener soll alle drei Kältebusse angezündet haben"
   ],
   "hashes": [
-    "9e680e18f7008641c13c617df47f965c",
-    "0697d9088355c77431a4141f904789a3",
     "77f84a2fc3f610be24dd8590824b932e",
     "5832f837b4b960e363d88a7aecfad1d6",
     "bee09b2f91b232e0858048042d1e68c3",
@@ -4005,6 +4003,8 @@
     "15c0ba5908e5dbf4dfa05bf6d67c0d41",
     "7a00ad586391f6ef9e944b583899abcd",
     "3995e2ff3e6bf1a20d93f1ea6665567d",
-    "344a81af569799766bfc624c8e9c0e23"
+    "344a81af569799766bfc624c8e9c0e23",
+    "cf1731581696476a40da3dde816f7969",
+    "6b78c5e13428020b4023cf251ca76dcf"
   ]
 }
