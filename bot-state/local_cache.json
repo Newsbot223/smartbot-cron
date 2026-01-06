@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/fahnen-abgerissen-ermittlungsverfahren-gegen-wenke-bruedgam-accg-200347391.html",
     "https://www.deutschlandfunk.de/rheinland-pfalz-schafft-als-erstes-bundesland-landesbeauftragten-gegen-sexualisierte-gewalt-an-kinde-100.html",
     "https://www.deutschlandfunk.de/psychisch-kranke-gewalttaeter-landtag-in-hessen-beschliesst-gesetzreform-100.html",
     "https://www.deutschlandfunk.de/ifo-institut-senkt-wirtschaftsprognose-erosion-des-standorts-droht-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-reist-nach-frankreich-104.html",
     "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-beschlussvorlagen-mit-zahlreichen-forderu-102.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-indischer-jindal-konzern-zum-handeln-auf-104.html",
-    "https://www.deutschlandfunk.de/tote-bei-drohnenangriff-in-al-obeid-100.html"
+    "https://www.deutschlandfunk.de/tote-bei-drohnenangriff-in-al-obeid-100.html",
+    "https://www.deutschlandfunk.de/rodr-guez-legt-amtseid-ab-trump-geht-nicht-von-schneller-neuwahl-aus-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-nach-protesten-im-iran-steigt-weiter-102.html"
   ],
   "content_hashes": [
-    "b6d769576664c9a6f20f9b58a68686b5",
-    "35e348ee580aec0aa60600bd4ed5d1a7",
     "0242c199e2fff3982a8678379a454e72",
     "0cf15f3bfd07112d4167db0b1b234ad5",
     "2ef969ae2e465e84058162d9ae011982",
@@ -2001,11 +1999,11 @@
     "41ecaace3aa761ee6056c2c7ca10e8a4",
     "9947a6d226e72e8480f863a455bf45b5",
     "b845486641ea3b083badf0e1b9e70358",
-    "ab6cf942e93f2f1bbf99332ea1dfb9fa"
+    "ab6cf942e93f2f1bbf99332ea1dfb9fa",
+    "0099c334669b6d5acad5626c8fb6c511",
+    "be3e1960531e00d1d160102989545144"
   ],
   "titles": [
-    "Deutschland: Bevölkerungszahl sinkt möglicherweise auf weniger als 75 Millionen",
-    "Fahnen heruntergerissen: Ermittlungsverfahren gegen Ex-Gleichstellungsbeauftragte Brüdgam",
     "Landtag - Rheinland-Pfalz schafft als erstes Bundesland Landesbeauftragten gegen sexualisierte Gewalt an Kindern und Jugendlichen",
     "Verpflichtender Hilfeplan - Psychisch kranke Gewalttäter: Landtag in Hessen beschließt Gesetzreform",
     "Konjunktur-Aussichten - Ifo-Institut senkt Wirtschaftsprognose - \"Erosion des Standorts droht\"",
@@ -3003,11 +3001,11 @@
     "Ukraine-Treffen - Bundeskanzler Merz reist nach Frankreich",
     "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten - Beschlussvorlagen mit zahlreichen Forderungen",
     "Übernahme-Poker um Thyssenkrupp Steel - IG Metall fordert indischer Jindal-Konzern zum Handeln auf",
-    "Sudan - Tote bei Drohnenangriff in al-Obeid"
+    "Sudan - Tote bei Drohnenangriff in al-Obeid",
+    "Venezuela - Rodríguez legt Amtseid ab - Trump geht nicht von schneller Neuwahl aus",
+    "Wirtschaftskrise und Regimekritik - Zahl der Toten nach Protesten im Iran steigt weiter"
   ],
   "hashes": [
-    "6fb732b5290db6921524f3dbb8e59ebe",
-    "3a3c5ae4650d4630833b396a28c83a4f",
     "2c8431f52de46d77c4afbbe7a7dff8df",
     "c601083efc9a1e5b3489d026ba7c3a46",
     "731a9255ca8ede7306ff74754c584a3b",
@@ -4005,6 +4003,8 @@
     "88faea9c2c17740f4b1e75528b61386b",
     "1fdd5b32e28fef3937defe610c0b1c78",
     "4e578db341cea8237293bdbd6c87a6fa",
-    "67f3021cf628ba53e201b061cf4a92a7"
+    "67f3021cf628ba53e201b061cf4a92a7",
+    "a24f49b59482b8918401280c5f362e04",
+    "8af792fc3d167d8a8f21cd20ec620c55"
   ]
 }
