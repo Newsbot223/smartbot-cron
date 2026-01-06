@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bevoelkerungszahl-in-deutschland-sinkt-bis-2070-auf-75-millionen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/statistisches-bundesamt-bis-2070-nur-noch-75-millionen-einwohner-in-deutschland-accg-200347057.html",
     "https://www.spiegel.de/panorama/gesellschaft/deutschland-bevoelkerungszahl-sinkt-moeglicherweise-auf-weniger-als-75-millionen-a-998f52d5-0957-450c-b8a9-9b4f782ee524#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/fahnen-abgerissen-ermittlungsverfahren-gegen-wenke-bruedgam-accg-200347391.html",
     "https://www.deutschlandfunk.de/rheinland-pfalz-schafft-als-erstes-bundesland-landesbeauftragten-gegen-sexualisierte-gewalt-an-kinde-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rodr-guez-legt-amtseid-ab-maduro-beteuert-vor-gericht-seine-unschuld-schlagabtausch-im-uno-sicherhei-104.html",
     "https://www.deutschlandfunk.de/staatschef-touad-ra-laut-behoerde-fuer-dritte-amtszeit-gewaehlt-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-reist-nach-frankreich-104.html",
-    "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-beschlussvorlagen-mit-zahlreichen-forderu-102.html"
+    "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-beschlussvorlagen-mit-zahlreichen-forderu-102.html",
+    "https://www.deutschlandfunk.de/ig-metall-fordert-indischer-jindal-konzern-zum-handeln-auf-104.html",
+    "https://www.deutschlandfunk.de/tote-bei-drohnenangriff-in-al-obeid-100.html"
   ],
   "content_hashes": [
-    "ec0846e0ee0f3137c057284589d8d755",
-    "f831aa16285be2cbe9473253a7fbf986",
     "b6d769576664c9a6f20f9b58a68686b5",
     "35e348ee580aec0aa60600bd4ed5d1a7",
     "0242c199e2fff3982a8678379a454e72",
@@ -2001,11 +1999,11 @@
     "1ecab4740b4af9a3b75e7bfb94894eff",
     "eda74f79b93308634b360fe6532f1841",
     "41ecaace3aa761ee6056c2c7ca10e8a4",
-    "9947a6d226e72e8480f863a455bf45b5"
+    "9947a6d226e72e8480f863a455bf45b5",
+    "b845486641ea3b083badf0e1b9e70358",
+    "ab6cf942e93f2f1bbf99332ea1dfb9fa"
   ],
   "titles": [
-    "Berechnung - Bevölkerungszahl in Deutschland sinkt bis 2070 auf 75 Millionen",
-    "Demografische Entwicklung: Statistisches Bundesamt: Bis 2070 nur noch 75 Millionen Einwohner in Deutschland",
     "Deutschland: Bevölkerungszahl sinkt möglicherweise auf weniger als 75 Millionen",
     "Fahnen heruntergerissen: Ermittlungsverfahren gegen Ex-Gleichstellungsbeauftragte Brüdgam",
     "Landtag - Rheinland-Pfalz schafft als erstes Bundesland Landesbeauftragten gegen sexualisierte Gewalt an Kindern und Jugendlichen",
@@ -3003,11 +3001,11 @@
     "Venezuela - Rodríguez legt Amtseid ab - Maduro beteuert vor Gericht seine Unschuld - Schlagabtausch im UNO-Sicherheitsrat",
     "Zentralafrikanische Republik - Staatschef Touadéra laut Behörde für dritte Amtszeit gewählt",
     "Ukraine-Treffen - Bundeskanzler Merz reist nach Frankreich",
-    "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten - Beschlussvorlagen mit zahlreichen Forderungen"
+    "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten - Beschlussvorlagen mit zahlreichen Forderungen",
+    "Übernahme-Poker um Thyssenkrupp Steel - IG Metall fordert indischer Jindal-Konzern zum Handeln auf",
+    "Sudan - Tote bei Drohnenangriff in al-Obeid"
   ],
   "hashes": [
-    "3c451b84ffb60da14c8c2719801715ba",
-    "30897922775dbe8f1d04c6ce142a7089",
     "6fb732b5290db6921524f3dbb8e59ebe",
     "3a3c5ae4650d4630833b396a28c83a4f",
     "2c8431f52de46d77c4afbbe7a7dff8df",
@@ -4005,6 +4003,8 @@
     "db0d3915f5d35251f4521e1a406fce32",
     "d89b4afdfe85cb1fb34f1d5486c6ba6d",
     "88faea9c2c17740f4b1e75528b61386b",
-    "1fdd5b32e28fef3937defe610c0b1c78"
+    "1fdd5b32e28fef3937defe610c0b1c78",
+    "4e578db341cea8237293bdbd6c87a6fa",
+    "67f3021cf628ba53e201b061cf4a92a7"
   ]
 }
