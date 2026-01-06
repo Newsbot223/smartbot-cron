@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verbrenner-aus-fuer-neu-zugelassene-fahrzeuge-offenbar-vom-tisch-100.html",
-    "https://www.deutschlandfunk.de/erdbeben-und-tsunami-warnung-102.html",
-    "https://www.deutschlandfunk.de/schwere-ueberschwemmungen-zehntausende-menschen-muessen-haeuser-verlassen-100.html",
     "https://www.faz.net/aktuell/politik/ausland/proteste-in-bulgarien-der-ruecktritt-der-regierung-ist-kein-weg-aus-der-krise-110801576.html",
     "https://www.deutschlandfunk.de/flixtrain-will-neue-zuege-2028-auf-die-schiene-bringen-massiver-ausbau-von-verbindungen-geplant-100.html",
     "https://www.deutschlandfunk.de/nach-missbrauchsskandalen-an-thueringer-schulen-schutzkonzepte-sollen-nun-zuegiger-erarbeitet-werden-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/festgenommener-soll-alle-drei-kaeltebusse-angezuendet-haben-100.html",
     "https://www.deutschlandfunk.de/italien-will-mercosur-abkommen-unterzeichnen-100.html",
     "https://www.deutschlandfunk.de/ein-toter-bei-protesten-gegen-wehrpflicht-fuer-ultraorthodoxe-in-jerusalem-100.html",
-    "https://www.deutschlandfunk.de/polizei-durchsucht-sparkasse-nach-tresoreinbruch-100.html"
+    "https://www.deutschlandfunk.de/polizei-durchsucht-sparkasse-nach-tresoreinbruch-100.html",
+    "https://www.deutschlandfunk.de/deutschland-frankreich-und-polen-beraten-ueber-ukraine-hilfe-100.html",
+    "https://www.deutschlandfunk.de/eu-landwirtschaftsminister-diskutieren-ueber-agrarpolitik-und-mercosur-abkommen-100.html",
+    "https://www.deutschlandfunk.de/us-regierung-und-venezuela-sprechen-ueber-oelexporte-in-die-usa-102.html"
   ],
   "content_hashes": [
-    "ad614fa8e8c3c2c10c5f9478a853ffca",
-    "9268e01fb9feaeabfcbeb02f44eb7aef",
-    "f11a61250c42b9bb2812b95c21fd38df",
     "501831dc4946e4b9a0e802bd4a0f28ac",
     "260c0d75c9014dde79ac9013c9bc6815",
     "9f786514fcd21d9fbd9d4f3b8172fb43",
@@ -2001,12 +1998,12 @@
     "4f72fb0f0a9ed53deb72ff6363f43d17",
     "0a3f7dc488101d14517675745349711c",
     "022a0a62c0114877572dddf095e14a84",
-    "65343f10161d6dc8b42ea5a210e77856"
+    "65343f10161d6dc8b42ea5a210e77856",
+    "cb35255338f0268f13dd4a9ecd85936a",
+    "bf2f72f4acdc4adcf364f1a1ea11e997",
+    "ba27e4fea99e54d0cce1c29000e1d3cb"
   ],
   "titles": [
-    "EU-Kommission - Verbrenner-Aus für neu zugelassene Fahrzeuge offenbar vom Tisch",
-    "Japan - Erdbeben und Tsunami-Warnung",
-    "USA und Kanada - Schwere Überschwemmungen - zehntausende Menschen müssen Häuser verlassen",
     "Krise in Bulgarien: Der Rücktritt ist kein Ausweg",
     "Fernverkehr - Flixtrain will neue Züge 2028 auf die Schiene bringen - massiver Ausbau von Verbindungen geplant",
     "Sexuelle Gewalt an Kindern - Nach Missbrauchsskandalen an Thüringer Schulen: Schutzkonzepte sollen nun zügiger erarbeitet werden",
@@ -3003,12 +3000,12 @@
     "Berlin - Festgenommener soll alle drei Kältebusse angezündet haben",
     "Nach EU-Zugeständnissen - Italien will Mercosur-Abkommen unterzeichnen",
     "Israel - Ein Toter bei Protesten gegen Wehrpflicht für Ultraorthodoxe in Jerusalem",
-    "Gelsenkirchen - Polizei durchsucht Sparkasse nach Tresoreinbruch"
+    "Gelsenkirchen - Polizei durchsucht Sparkasse nach Tresoreinbruch",
+    "\"Weimarer Dreieck\" - Deutschland, Frankreich und Polen beraten über Ukraine-Hilfe",
+    "Brüssel - EU-Landwirtschaftsminister diskutieren über Agrarpolitik und Mercosur-Abkommen",
+    "Insiderberichte - US-Regierung und Venezuela sprechen über Ölexporte in die USA"
   ],
   "hashes": [
-    "bd0e9e165f32d5ecc8d47f4174135cb5",
-    "f03454cb99718e9484b2c7c8022a9cd7",
-    "942fb917ad0b4def0af736625a0eb913",
     "4f4fa545be95999d8ff891edff727fdb",
     "4364b8841dcbaaa75a17636c0cd3d744",
     "f46367c8135def28e2f05b11fddc3afd",
@@ -4005,6 +4002,9 @@
     "6b78c5e13428020b4023cf251ca76dcf",
     "861ecad7eb4920551dfc9237e4c6ccfb",
     "f315bbd4616032b257dbb9862fef65e9",
-    "c2ac246f6331adcb023122df3ded81c9"
+    "c2ac246f6331adcb023122df3ded81c9",
+    "e5f58047b876527571f5a90d8081eda0",
+    "2ca25ef18b36ccdeb23c0a25aca3b11b",
+    "1682b8dbe2ab273fdbd851df7440b16c"
   ]
 }
