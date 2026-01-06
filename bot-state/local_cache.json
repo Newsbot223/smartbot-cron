@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/eu-gibt-623-millionen-euro-fuer-deutsche-chipfabriken-in-dresden-und-erfurt-frei-a-136431c4-388a-4f09-88de-b95e4679d455#ref=rss",
-    "https://www.spiegel.de/panorama/justiz/schmuggel-von-wildtieren-einsatzkraefte-beschlagnahmen-zehntausende-lebende-tiere-a-ed59ed47-43ba-4e8e-b0c5-1f809518ae37#ref=rss",
-    "https://www.deutschlandfunk.de/rutte-wir-sind-russlands-naechstes-ziel-100.html",
     "https://www.deutschlandfunk.de/baubranche-erwartet-trendwende-talsohle-durchschritten-100.html",
     "https://www.deutschlandfunk.de/koalition-will-grundzulage-auf-35-cent-je-euro-erhoehen-100.html",
     "https://www.faz.net/aktuell/politik/inland/rahmede-bruecke-an-a-45-wird-noch-vor-weihnachten-eroeffnet-accg-110801315.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/koalition-aus-spd-und-bsw-zerbrochen-102.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-innenpolitik-spd-in-brandenburg-kuendigt-koalition-mit-bsw-auf-faz-110093143.html",
     "https://www.deutschlandfunk.de/klausur-der-csu-bundestagsabgeordneten-hat-begonnen-100.html",
-    "https://www.deutschlandfunk.de/noch-mehr-als-zwei-millionen-epstein-akten-nicht-veroeffentlicht-100.html"
+    "https://www.deutschlandfunk.de/noch-mehr-als-zwei-millionen-epstein-akten-nicht-veroeffentlicht-100.html",
+    "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/ig-metall-fordert-indischen-jindal-konzern-zum-handeln-auf-100.html",
+    "https://www.spiegel.de/wirtschaft/service/lebensmittel-verbraucherschutz-warnt-vor-folgen-hoher-alltagskosten-a-dc6da208-59e2-4c01-9a9b-e85acb6fddac#ref=rss"
   ],
   "content_hashes": [
-    "e5c0bc17f71e09245f31d5905adc9552",
-    "ff71c4e6bbe2f27de9b9dfb0797f1b99",
-    "862daef40b40ae5982b818d53c8a2437",
     "275e56338c87fe18382f22752fbb3ab3",
     "e19ed04713ea561b1c815e533bd122c9",
     "6071b599924b51c4b2973310b2aa1a21",
@@ -2001,12 +1998,12 @@
     "8f8bde2e1dd852b24151fc213562262d",
     "353991d9c98928c3d755d27d46c1b460",
     "3db9bee7ac013ab7d76b41c4799a6b68",
-    "f15fb22783eb01449d2f8ec82691090f"
+    "f15fb22783eb01449d2f8ec82691090f",
+    "b6f3e1a2d9b5473c87f5e2418c1c45fb",
+    "cba638e2bcb7aa3e8f684b02133644fb",
+    "67f9a070257e005b8a745b5f316072ce"
   ],
   "titles": [
-    "EU gibt 623 Millionen Euro für deutsche Chipfabriken in Dresden und Erfurt frei",
-    "Schmuggel von Wildtieren: Einsatzkräfte beschlagnahmen Zehntausende lebende Tiere",
-    "NATO-Generalsekretär - Rutte: \"Wir sind Russlands nächstes Ziel\"",
     "ZDB - Baubranche erwartet Trendwende: \"Talsohle durchschritten\"",
     "Private Altersvorsorge - Koalition will Grundzulage auf 35 Cent je Euro erhöhen",
     "Sauerlandlinie A 45: Rahmedalbrücke wird noch vor Weihnachten eröffnet",
@@ -3003,12 +3000,12 @@
     "Brandenburg - Koalition aus SPD und BSW zerbrochen",
     "Liveblog Innenpolitik: SPD in Brandenburg kündigt Koalition mit BSW auf",
     "Seeon - Klausur der CSU-Bundestagsabgeordneten hat begonnen",
-    "US-Justizministerium - Noch mehr als zwei Millionen Epstein-Akten nicht veröffentlicht"
+    "US-Justizministerium - Noch mehr als zwei Millionen Epstein-Akten nicht veröffentlicht",
+    "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten hat begonnen",
+    "Übernahme-Poker um Thyssenkrupp Steel - IG Metall fordert indischen Jindal-Konzern zum Handeln auf",
+    "Lebensmittel: Verbraucherschutz warnt vor Folgen hoher Alltagskosten"
   ],
   "hashes": [
-    "26b91f93dcfd6ae4d532236102d5f938",
-    "514d74c762349e4f488a895fb95e22c5",
-    "1bb799a33b40405b15e3febd76f4a26f",
     "7bedd95be39f2d1ec49c470776bf163b",
     "01c28e195147e0fc92272be08826de4a",
     "95d8193fc57c16a0a5838b8c21343534",
@@ -4005,6 +4002,9 @@
     "45dcf88e316cccd1f0dbe5c9a96c2dcd",
     "4d9a418ce0d27f1dc0b740c29eb401be",
     "52967f2272ea2ff42f86e25eaeb37bd8",
-    "171fdc21f209697d499e616a2a05ea4a"
+    "171fdc21f209697d499e616a2a05ea4a",
+    "74e7b36c0d9f036771769a4606234ded",
+    "fe3763fd9aa66d986515fdba30ea1a3e",
+    "bc1d17434130249570a534fe3e3e4021"
   ]
 }
