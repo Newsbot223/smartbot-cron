@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/private-altersvorsorge-koalition-will-grundzulage-auf-35-cent-je-euro-erhoehen-100.html",
-    "https://www.deutschlandfunk.de/landtag-in-muenchen-will-aussenstelle-der-holocaust-gedenkstaette-yad-vashem-nach-bayern-holen-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-billigt-foerderung-fuer-chipfabriken-in-erfurt-und-dresden-104.html",
-    "https://www.deutschlandfunk.de/auto-verkehr-pendlerpauschale-steuer-klimaschutz-100.html",
     "https://www.aljazeera.com/news/2025/12/11/is-trumps-686m-f-16-upgrade-for-pakistan-a-message-to-india?traffic_source=rss",
     "https://www.deutschlandfunk.de/bulgariens-regierung-tritt-nach-protesten-zurueck-100.html",
     "https://www.deutschlandfunk.de/20-maenner-wegen-kaufs-kinderpornographischer-sexpuppen-festgenommen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/zahl-der-toten-nach-protesten-im-iran-steigt-weiter-102.html",
     "https://www.deutschlandfunk.de/merz-lage-der-wirtschaft-sehr-kritisch-deutschland-muss-probleme-selbst-loesen-100.html",
     "https://www.deutschlandfunk.de/ukraine-kontaktgruppe-trifft-sich-in-paris-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-dobrindt-linksterrorismus-mit-steigender-intensitaet-in-deutschland-zurueck-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-dobrindt-linksterrorismus-mit-steigender-intensitaet-in-deutschland-zurueck-faz-110093143.html",
+    "https://www.deutschlandfunk.de/spd-und-bsw-verlieren-mehrheit-im-landtag-crumbach-wechselt-von-bsw-in-spd-fraktion-100.html",
+    "https://www.deutschlandfunk.de/kluessendorf-thema-bezahlbarkeit-des-lebens-staerker-in-mittelpunkt-stellen-100.html",
+    "https://www.deutschlandfunk.de/koalition-der-willigen-trifft-sich-in-paris-100.html",
+    "https://www.faz.net/aktuell/politik/ausland/der-druck-auf-irans-fuehrung-waechst-durch-die-proteste-110814337.html"
   ],
   "content_hashes": [
-    "38eaa22b026ecff2889d4e247e1a62d2",
-    "c9c4abd5124ae7b07c8c6d4c68a041b7",
-    "ba84fe5d7c56574df8ea5c99facbb6bb",
-    "8ce8d28561bcf70ce9623cf3b1bb18e6",
     "c81453b26950a2941f186aa4f07408e5",
     "b9229a81e12071da66edd3925ae086c8",
     "eebe8fe53e094f6f1791fa091ec742df",
@@ -2001,13 +1997,13 @@
     "be3e1960531e00d1d160102989545144",
     "0b85cc93938f63af242cf4d342ff7d51",
     "e813adacc439a05abba914df55eea9eb",
-    "46ec935504e6fa95e15f3131a5cbb286"
+    "46ec935504e6fa95e15f3131a5cbb286",
+    "1be0901763c86bb8d66cb7506013449d",
+    "c208f77e44bea4742f8cd273e5fd9ccd",
+    "a4dbcf3cf713e4fd5cbfb855447e880a",
+    "935635589ddc9ae4da984c174c397317"
   ],
   "titles": [
-    "Private Altersvorsorge: Koalition will Grundzulage auf 35 Cent je Euro erhöhen",
-    "Interfraktioneller Antrag - Landtag in München will Außenstelle der Holocaust-Gedenkstätte Yad Vashem nach Bayern holen",
-    "Technologiebranche - EU-Kommission billigt Förderung für Chipfabriken in Erfurt und Dresden",
-    "Reform - Neue Pendlerpauschale – klimaschädlich und ungerecht?",
     "Is Trump’s $686m F-16 upgrade for Pakistan a message to India?",
     "Korruptionsvorwürfe - Bulgariens Regierung tritt nach Protesten zurück",
     "Frankreich - 20 Männer wegen Kaufs kinderpornographischer Sexpuppen festgenommen",
@@ -3003,13 +2999,13 @@
     "Wirtschaftskrise und Regimekritik - Zahl der Toten nach Protesten im Iran steigt weiter",
     "Brief an Koalitionsabgeordnete - Merz: Lage der Wirtschaft sehr kritisch - Deutschland muss Probleme selbst lösen",
     "Russischer Angriffs-Krieg - Ukraine-Kontaktgruppe trifft sich in Paris",
-    "Liveblog Bundespolitik: Dobrindt: Linksterrorismus mit steigender Intensität in Deutschland zurück"
+    "Liveblog Bundespolitik: Dobrindt: Linksterrorismus mit steigender Intensität in Deutschland zurück",
+    "Brandenburg - SPD und BSW verlieren Mehrheit im Landtag - Crumbach wechselt von BSW- in SPD-Fraktion",
+    "SPD - Klüssendorf: Thema \"Bezahlbarkeit des Lebens\" stärker in Mittelpunkt stellen",
+    "Ukraine-Krieg - \"Koalition der Willigen\" trifft sich in Paris",
+    "Proteste in Iran: Teheran gerät immer mehr unter Druck"
   ],
   "hashes": [
-    "eef5baa2115bdd03bf28b06e29fedef4",
-    "3320efcd115f0383b8d48999ff2a590a",
-    "4493dbba5157820aa9471766a2f52315",
-    "fcaaf42fbff73c010940fc12dbd53209",
     "e29687b0f03ceca11f16c301a0b00a98",
     "72c5045dfaccaf42e29284919f261ea4",
     "c5ca9c66fd360bc31fa54a5ab663166d",
@@ -4005,6 +4001,10 @@
     "8af792fc3d167d8a8f21cd20ec620c55",
     "910f5b1be39621022b1e676400344ee8",
     "4d6ea845b7d7e51710dcdd31d033cbdd",
-    "5c966fe5a358eafca8e02eb9082ad1a3"
+    "5c966fe5a358eafca8e02eb9082ad1a3",
+    "98f11d3125f2af18eb0130856a92dece",
+    "0e6ef31c31e36a24f5490ff4671d1161",
+    "4bb96b2bc67f15df8d989f7aff550305",
+    "e11052af5126141a963682eef272e241"
   ]
 }
