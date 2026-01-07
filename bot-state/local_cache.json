@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/landesweite-proteste-in-italien-gegen-die-haushaltsplaene-der-regierung-meloni-102.html",
-    "https://www.deutschlandfunk.de/csu-laeutet-auf-ihrem-parteitag-den-kommunalwahlkampf-ein-102.html",
-    "https://www.deutschlandfunk.de/lindsey-vonn-siegt-mit-41-jahren-in-st-moritz-100.html",
     "https://www.deutschlandfunk.de/zahl-der-firmeninsolvenzen-so-hoch-wie-zuletzt-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-macht-russland-fuer-cyber-angriffe-verantwortlich-102.html",
     "https://www.deutschlandfunk.de/shein-temu-aliexpress-eu-fuehrt-sonderabgabe-auf-billigimporte-ein-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/journalistin-sahebi-die-proteste-fuehlen-sich-diesmal-anders-an-100.html",
     "https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss",
     "https://www.deutschlandfunk.de/mehr-arbeitslose-im-dezember-nahles-einiges-deutet-darauf-hin-dass-wir-die-talsohle-erreicht-haben-100.html",
-    "https://www.deutschlandfunk.de/wie-geht-s-weiter-in-brandenburg-interview-robert-crumbach-finanzminister-100.html"
+    "https://www.deutschlandfunk.de/wie-geht-s-weiter-in-brandenburg-interview-robert-crumbach-finanzminister-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-soll-im-lauf-des-tages-behoben-werden-versorgung-angelaufen-100.html",
+    "https://www.deutschlandfunk.de/inflation-in-der-eurozone-im-dezember-auf-2-0-prozent-gesunken-100.html",
+    "https://www.deutschlandfunk.de/rtl-strukturiert-programm-um-und-streicht-230-stellen-im-nachrichtenbereich-100.html"
   ],
   "content_hashes": [
-    "d13a26a73dea47dda024860b394aae0e",
-    "f70e64b41d2d6b83eb38174ec4e34d4a",
-    "d558fe56d651ac6149da58e8059c5bfa",
     "b751ede637c760818c8ad2a1842f61a7",
     "6e986b31f1af4fd13231ea53723e504f",
     "90863e9915b0109a6634d3e3afb24c65",
@@ -2001,12 +1998,12 @@
     "6cf4e376fb0c243bfed0748612139965",
     "26ab572a82722e0daeb50c80df2b881d",
     "449b506076d9668d4fc2a6f26c45df75",
-    "1189c913dd5695541675af0f1f3822bd"
+    "1189c913dd5695541675af0f1f3822bd",
+    "0c248707133c6338420d88ee33dd4285",
+    "8244da1288eb739ce742dc98e536ff62",
+    "761a0c8f93b8eac1bf25c868f66ccc48"
   ],
   "titles": [
-    "Rom - Landesweite Proteste in Italien gegen die Haushaltspläne der Regierung Meloni",
-    "Söder stellt sich zur Wiederwahl - CSU läutet auf ihrem Parteitag den Kommunalwahlkampf ein",
-    "Ski alpin - Lindsey Vonn siegt mit 41 Jahren in St. Moritz",
     "Statistisches Bundesamt - Zahl der Firmeninsolvenzen so hoch wie zuletzt 2014",
     "Botschafter einbestellt - Bundesregierung macht Russland für Cyber-Angriffe verantwortlich",
     "Brüssel - Shein, Temu, AliExpress: EU führt Sonderabgabe auf Billigimporte ein",
@@ -3003,12 +3000,12 @@
     "Wirtschaftskrise im Iran - Journalistin Sahebi: \"Die Proteste fühlen sich diesmal anders an\"",
     "Bundesagentur für Arbeit: Arbeitslosenzahl steigt im Dezember wieder",
     "Bundesagentur - Mehr Arbeitslose im Dezember - Nahles: \"Einiges deutet darauf hin, dass wir die Talsohle erreicht haben\"",
-    "Brandenburg - Finanzminster Crumbach: Das Land kommt vor der Partei"
+    "Brandenburg - Finanzminster Crumbach: Das Land kommt vor der Partei",
+    "Berlin - Stromausfall soll im Lauf des Tages behoben werden - Versorgung angelaufen",
+    "Eurostat - Inflation in der Eurozone im Dezember auf 2,0 Prozent gesunken",
+    "Medien - RTL strukturiert Programm um und streicht 230 Stellen im Nachrichtenbereich"
   ],
   "hashes": [
-    "1333e892d908118e49c08b9193b6e842",
-    "706182522bd5eadbbd0dcb44ffccefca",
-    "2b1a37917ba5e3e497919a92f5d5a8a4",
     "e2e656832bd4d2cf47b63621998f3055",
     "dbd0e878f0b658ab7362493f19244ebe",
     "48d642c707879f19cd18b1db2ac2d229",
@@ -4005,6 +4002,9 @@
     "23c303f48e1cf0d00f99712057d1a392",
     "b38973530c2d25e0d6c227adc644416b",
     "e76c3e9adec54f7f639ddcd6c9b321e4",
-    "91d334531d7b8bf8fa46c6447c8f52ef"
+    "91d334531d7b8bf8fa46c6447c8f52ef",
+    "fb75643ff1c37d700a4d4dcb9c0fc663",
+    "670a93392d05e2ce27df375c6d305bf2",
+    "15654df8e86ff8d2fd45cf908cb69ba2"
   ]
 }
