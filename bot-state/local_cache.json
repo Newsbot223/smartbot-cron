@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nemo-gibt-esc-pokal-wegen-teilnahme-israels-zurueck-104.html",
-    "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-so-hoch-wie-zuletzt-100.html",
     "https://www.deutschlandfunk.de/eu-besiegelt-reform-fuer-schnellere-zulassung-von-medikamenten-100.html",
     "https://www.deutschlandfunk.de/debatte-um-rente-selbstaendige-durch-aktivrente-benachteiligt-100.html",
     "https://www.spiegel.de/wirtschaft/die-bundesregierung-steigt-wohl-bei-stromnetzbetreiber-tennet-deutschland-ein-a-c535dc4f-c94a-44ee-a85d-7a6a5e76f20e#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/emissionshandel-bringt-deutschland-rekordeinnahmen-100.html",
     "https://www.deutschlandfunk.de/teilung-des-westjordanlands-israel-macht-weg-fuer-umstrittenes-siedlungsprojekt-e1-bei-jerusalem-fre-100.html",
     "https://www.deutschlandfunk.de/spd-kritik-an-csu-vorstoss-kinder-gehoeren-nicht-vor-gericht-100.html",
-    "https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben-a-76979f06-0857-4cfd-a82e-bbc0eac5e5c0#ref=rss"
+    "https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben-a-76979f06-0857-4cfd-a82e-bbc0eac5e5c0#ref=rss",
+    "https://www.deutschlandfunk.de/us-regierung-erneuert-forderung-nach-kontrolle-ueber-groenland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/bamf-zahlen-so-viele-asyl-folgeantraege-wie-nie-zuvor-accg-110814659.html"
   ],
   "content_hashes": [
-    "ad05ecaf1dbe964ce4707fe8f59f62de",
-    "37c40f90a7ed43a2154b7bab110ef84e",
     "1af5e2941d671cd49c03a96ab0e59fbf",
     "2d8a30007cb50608086560a79ddf994d",
     "fc2ea85c8e1bf9c658c8de8b764185bd",
@@ -2001,11 +1999,11 @@
     "5c42574f87e5fa79db259c7f0e08c4ae",
     "d66dd6fa838125bee2cd656c30db9b2b",
     "4701138cb883d396ad97828b824d38d1",
-    "b130a32e7c1b4fa1b1ce4d6fc2ec1872"
+    "b130a32e7c1b4fa1b1ce4d6fc2ec1872",
+    "2d2c2886851f61dab6666e31fe6b57cd",
+    "cec1c02e6c77eace26b331526092681e"
   ],
   "titles": [
-    "Eurovision Song Contest - Nemo gibt ESC-Pokal wegen Teilnahme Israels zurück",
-    "Statistisches Bundesamt - Zahl der Firmenpleiten so hoch wie zuletzt 2014",
     "Arzneimittel - EU besiegelt Reform für schnellere Zulassung von Medikamenten",
     "Aktivrente - Selbstständige fühlen sich benachteiligt",
     "Die Bundesregierung steigt wohl bei Stromnetzbetreiber Tennet Deutschland ein",
@@ -3003,11 +3001,11 @@
     "Klimaschutz - Emissionshandel bringt Deutschland Rekordeinnahmen",
     "Jerusalem - Teilung des Westjordanlands: Israel macht Weg für umstrittenes Siedlungsprojekt E1 bei Jerusalem frei",
     "\"Verantwortungsverfahren\" - SPD-Kritik an CSU-Vorstoß: \"Kinder gehören nicht vor Gericht\"",
-    "Aschaffenburg: Zeuge des Attentats zur Festnahme ausgeschrieben"
+    "Aschaffenburg: Zeuge des Attentats zur Festnahme ausgeschrieben",
+    "Königreich Dänemark - US-Regierung erneuert Forderung nach Kontrolle über Grönland",
+    "Rekord in 2025: So viele Asyl-Folgeanträge wie nie zuvor"
   ],
   "hashes": [
-    "55330eca7ca2e3e392c85ea032bf8aff",
-    "752021c2a21564c0dccc11ca86cb9a81",
     "959b7c651557d8a6f0b3335d41df87d6",
     "3b1c563aee79404c7e251d7b07af5c21",
     "fbc1e9addfa664df11c2b5e0d05b26a2",
@@ -4005,6 +4003,8 @@
     "c8d86313cd0c60157572bc117f6b4afc",
     "dfc31a2f3817976fb51499b2df6d7856",
     "8cbb5c1c7148a4737867d1bd20cd0c13",
-    "a8d002bfa592b2980d3accba052c44f4"
+    "a8d002bfa592b2980d3accba052c44f4",
+    "74eba1ca7cce85c1079202fc8c8aaf97",
+    "e0c51b023431cb99851644415b6cdf20"
   ]
 }
