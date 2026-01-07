@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/flixtrain-will-neue-zuege-2028-auf-die-schiene-bringen-massiver-ausbau-von-verbindungen-geplant-100.html",
-    "https://www.deutschlandfunk.de/nach-missbrauchsskandalen-an-thueringer-schulen-schutzkonzepte-sollen-nun-zuegiger-erarbeitet-werden-100.html",
     "https://www.deutschlandfunk.de/in-italien-rufen-gewerkschaften-zu-landesweiten-protesten-gegen-die-haushaltsplaene-der-regierung-me-100.html",
     "https://www.deutschlandfunk.de/nach-gerichtsentscheidung-brego-garc-a-aus-abschiebehaft-entlassen-100.html",
     "https://www.deutschlandfunk.de/falsch-im-hausmuell-entsorgte-batterien-und-akkus-fuehren-immer-haeufiger-zu-braenden-in-entsorgungs-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/deutschland-frankreich-und-polen-beraten-ueber-ukraine-hilfe-100.html",
     "https://www.deutschlandfunk.de/eu-landwirtschaftsminister-diskutieren-ueber-agrarpolitik-und-mercosur-abkommen-100.html",
     "https://www.deutschlandfunk.de/us-regierung-und-venezuela-sprechen-ueber-oelexporte-in-die-usa-102.html",
-    "https://www.deutschlandfunk.de/bayer-verklagt-hersteller-wegen-patentverletzung-102.html"
+    "https://www.deutschlandfunk.de/bayer-verklagt-hersteller-wegen-patentverletzung-102.html",
+    "https://www.deutschlandfunk.de/drk-fordert-mehr-investitionen-in-bevoelkerungsschutz-102.html",
+    "https://www.deutschlandfunk.de/us-regierung-erneuert-besitzansprueche-massiv-102.html"
   ],
   "content_hashes": [
-    "260c0d75c9014dde79ac9013c9bc6815",
-    "9f786514fcd21d9fbd9d4f3b8172fb43",
     "83f680f90cb6093707ec099309a15678",
     "25f842cab6e30ab3fec5ac186de19640",
     "78cee634a070d42926158ff5c269243f",
@@ -2001,11 +1999,11 @@
     "cb35255338f0268f13dd4a9ecd85936a",
     "bf2f72f4acdc4adcf364f1a1ea11e997",
     "ba27e4fea99e54d0cce1c29000e1d3cb",
-    "4e083cae83ed20685455f119629eb0fa"
+    "4e083cae83ed20685455f119629eb0fa",
+    "307ee025279b54fa468a369e7d9ed48f",
+    "01e9ac51a33a39a1e1adfd99aeda7ee0"
   ],
   "titles": [
-    "Fernverkehr - Flixtrain will neue Züge 2028 auf die Schiene bringen - massiver Ausbau von Verbindungen geplant",
-    "Sexuelle Gewalt an Kindern - Nach Missbrauchsskandalen an Thüringer Schulen: Schutzkonzepte sollen nun zügiger erarbeitet werden",
     "Rom - In Italien rufen Gewerkschaften zu landesweiten Protesten gegen die Haushaltspläne der Regierung Meloni auf",
     "USA - Nach Gerichtsentscheidung: Ábrego García aus Abschiebehaft entlassen",
     "E-Zigaretten und Co. - Falsch im Hausmüll entsorgte Batterien und Akkus führen immer häufiger zu Bränden in Entsorgungsanlagen",
@@ -3003,11 +3001,11 @@
     "\"Weimarer Dreieck\" - Deutschland, Frankreich und Polen beraten über Ukraine-Hilfe",
     "Brüssel - EU-Landwirtschaftsminister diskutieren über Agrarpolitik und Mercosur-Abkommen",
     "Insiderberichte - US-Regierung und Venezuela sprechen über Ölexporte in die USA",
-    "Corona-Impfstoffe - Bayer verklagt Hersteller wegen Patentverletzung"
+    "Corona-Impfstoffe - Bayer verklagt Hersteller wegen Patentverletzung",
+    "Stromausfall in Berlin - DRK fordert mehr Investitionen in Bevölkerungsschutz",
+    "Grönland - US-Regierung erneuert Besitzansprüche massiv"
   ],
   "hashes": [
-    "4364b8841dcbaaa75a17636c0cd3d744",
-    "f46367c8135def28e2f05b11fddc3afd",
     "6e182e6eb25dfd69b982bde60b815979",
     "47cd1312c1a9cd83c0b3d4bdf255c5b7",
     "becf12138b88439ebdb73292202a3ef1",
@@ -4005,6 +4003,8 @@
     "e5f58047b876527571f5a90d8081eda0",
     "2ca25ef18b36ccdeb23c0a25aca3b11b",
     "1682b8dbe2ab273fdbd851df7440b16c",
-    "4fe71934ef361822df4e0cacbee04805"
+    "4fe71934ef361822df4e0cacbee04805",
+    "b57d6f724368807f1d39d31e744946bb",
+    "45df1f42e2cbc6fbebdf6c10f1c76c66"
   ]
 }
