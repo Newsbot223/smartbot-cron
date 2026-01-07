@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/die-bundesregierung-steigt-wohl-bei-stromnetzbetreiber-tennet-deutschland-ein-a-c535dc4f-c94a-44ee-a85d-7a6a5e76f20e#ref=rss",
-    "https://www.deutschlandfunk.de/ju-vorsitzender-knoll-streichung-des-bayerischen-kinderstartgeldes-kein-leichter-schritt-aber-notwen-100.html",
     "https://www.deutschlandfunk.de/portal-fuer-hinweise-von-buergern-und-unternehmen-auf-ueberbordende-buerokratie-ist-online-100.html",
     "https://www.deutschlandfunk.de/eu-will-mehr-rohstoffe-aus-schrottautos-gewinnen-einigung-auf-gesetzentwurf-100.html",
     "https://www.deutschlandfunk.de/linksfraktion-schuelerstreiks-gegen-wehrdienst-muessen-moeglich-sein-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-regierung-erneuert-forderung-nach-kontrolle-ueber-groenland-100.html",
     "https://www.faz.net/aktuell/politik/inland/bamf-zahlen-so-viele-asyl-folgeantraege-wie-nie-zuvor-accg-110814659.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/co2-rechte-deutschland-erzielt-einnahmerekord-im-emissionshandel-a-6ae44a84-8b4b-4d54-b25b-9068b98660c5#ref=rss",
-    "https://www.deutschlandfunk.de/finanzminister-crumbach-bsw-macht-krawallopposition-102.html"
+    "https://www.deutschlandfunk.de/finanzminister-crumbach-bsw-macht-krawallopposition-102.html",
+    "https://www.deutschlandfunk.de/umsatz-im-einzelhandel-2025-um-2-4-prozent-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/ifo-insitut-wirtschaftsleistung-in-haelfte-der-bundeslaender-gewachsen-102.html"
   ],
   "content_hashes": [
-    "fc2ea85c8e1bf9c658c8de8b764185bd",
-    "8d13a9e191599f1ab84f4ca9a742ddef",
     "07073604c078b7b07c1d8144ce2c5aad",
     "623c52c0ba6dbd7adec38ca293ec2b3e",
     "abc46228735a306ca7bd458cb655d22b",
@@ -2001,11 +1999,11 @@
     "2d2c2886851f61dab6666e31fe6b57cd",
     "cec1c02e6c77eace26b331526092681e",
     "c4a5fc1c0ea80728a7a51780105f1d53",
-    "329f977d6132335f028fa5db20c5cb87"
+    "329f977d6132335f028fa5db20c5cb87",
+    "3ad0f7430ddc14fb3ec3c7c1635c5c2d",
+    "3600c21f0249f92ee3396588e007854f"
   ],
   "titles": [
-    "Die Bundesregierung steigt wohl bei Stromnetzbetreiber Tennet Deutschland ein",
-    "Familienleistungen - JU-Vorsitzender Knoll: Streichung des bayerischen \"Kinderstartgeldes\" kein leichter Schritt, aber notwendig",
     "Bundesregierung - Portal für Hinweise von Bürgern und Unternehmen auf überbordende Bürokratie ist online",
     "Neue Recycling-Vorgaben - EU will mehr Rohstoffe aus Schrottautos gewinnen: Einigung auf Gesetzentwurf",
     "Sachsen-Anhalt - Linksfraktion: \"Schülerstreiks gegen Wehrdienst müssen möglich sein\"",
@@ -3003,11 +3001,11 @@
     "Königreich Dänemark - US-Regierung erneuert Forderung nach Kontrolle über Grönland",
     "Rekord in 2025: So viele Asyl-Folgeanträge wie nie zuvor",
     "CO2-Rechte: Deutschland erzielt Einnahmerekord im Emissionshandel",
-    "Brandenburg - Finanzminister Crumbach: BSW macht \"Krawallopposition\""
+    "Brandenburg - Finanzminister Crumbach: BSW macht \"Krawallopposition\"",
+    "Wirtschaft - Umsatz im Einzelhandel 2025 um 2,4 Prozent gestiegen",
+    "Konjunktur - Ifo-Insitut: Wirtschaftsleistung in Hälfte der Bundesländer gewachsen"
   ],
   "hashes": [
-    "fbc1e9addfa664df11c2b5e0d05b26a2",
-    "3290bff44a063f620eaca87b4be57d9f",
     "778c4fac525bea257e1f6a31776f8395",
     "909b04ae8765ac1990744a2c1e7c2584",
     "11dad1535066b1266df7c6dac8a7c1a8",
@@ -4005,6 +4003,8 @@
     "74eba1ca7cce85c1079202fc8c8aaf97",
     "e0c51b023431cb99851644415b6cdf20",
     "3bf6d1acdcf9f37eedbf5eec4a5bbf64",
-    "18066cb95d6501617d73b70286078721"
+    "18066cb95d6501617d73b70286078721",
+    "a3f946f32f8c57c59b917a3d6acb8b1f",
+    "dbadbbd319cce8524cc05a52dd2d6b2c"
   ]
 }
