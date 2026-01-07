@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-friert-russische-vermoegenswerte-unbefristet-ein-100.html",
-    "https://www.deutschlandfunk.de/filmproduzent-und-oscarpreistraeger-arthur-cohn-ist-tot-106.html",
     "https://www.deutschlandfunk.de/ankuendigung-umgesetzt-eu-friert-russische-vermoegenswerte-unbefristet-ein-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-ruft-israel-zum-stopp-des-siedlungsausbaus-auf-102.html",
     "https://www.deutschlandfunk.de/medienberichte-us-spezialkraefte-entern-frachter-auf-dem-weg-zum-iran-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/eu-kommission-schenkt-40-000-jungen-erwachsenen-europa-zugtickets-100.html",
     "https://www.deutschlandfunk.de/wieder-angriffe-auf-gebaeude-und-infrastruktur-100.html",
     "https://www.deutschlandfunk.de/aussenminister-beraten-ueber-entwicklung-der-robusten-sicherheitsgarantien-fuer-die-ukraine-102.html",
-    "https://www.deutschlandfunk.de/usa-beschlagnahmen-russischen-oeltanker-in-atlantik-zwischen-schottland-und-island-102.html"
+    "https://www.deutschlandfunk.de/usa-beschlagnahmen-russischen-oeltanker-in-atlantik-zwischen-schottland-und-island-102.html",
+    "https://www.deutschlandfunk.de/bundesregierung-kritisiert-us-einsatz-in-venezuela-und-ansprueche-auf-groenland-100.html",
+    "https://www.deutschlandfunk.de/praesident-peseschkian-ermahnt-sicherheitskraefte-zur-zurueckhaltung-bei-friedlichen-demonstranten-z-100.html"
   ],
   "content_hashes": [
-    "ccd660c6815b2dc1c23f97d8311d8025",
-    "3cd8d9962c84164fb65ba86ff3dbc5c4",
     "bba5f50264ca595298fcd0512c238a58",
     "27b025de68a06e5f5cd1a4722d19e35a",
     "72d338bba8ae990ff2d81c8f9d68bbd6",
@@ -2001,11 +1999,11 @@
     "ec2b6eb331451e662677ce0e251edc6d",
     "4dbd02d74b6314dc33ce4ccb2d502231",
     "758e9733f045f2b0408733093f4d5ee3",
-    "012836ca5d4a7264c3c831cb946e4015"
+    "012836ca5d4a7264c3c831cb946e4015",
+    "3d0c6b8f07a1fd2f7ab71f41fb611561",
+    "11544333dc5b3a67674de9d0aac3d24f"
   ],
   "titles": [
-    "Ukraine - EU friert russische Vermögenswerte unbefristet ein",
-    "Kultur - Filmproduzent und Oscarpreisträger Arthur Cohn ist tot",
     "Ukraine - Ankündigung umgesetzt: EU friert russische Vermögenswerte unbefristet ein",
     "Nahost-Konflikt - Bundesregierung ruft Israel zum Stopp des Siedlungsausbaus auf",
     "Indischer Ozean - Medienberichte: US-Spezialkräfte entern Frachter auf dem Weg zum Iran",
@@ -3003,11 +3001,11 @@
     "Europa - EU-Kommission schenkt 40.000 jungen Erwachsenen Europa-Zugtickets",
     "Russlands Ukraine-Krieg - Wieder Angriffe auf Gebäude und Infrastruktur",
     "Weimarer Dreieck - Außenminister beraten über Entwicklung der robusten Sicherheitsgarantien für die Ukraine",
-    "Verbindungen zu Venezuela - USA beschlagnahmen russischen Öltanker in Atlantik zwischen Schottland und Island"
+    "Verbindungen zu Venezuela - USA beschlagnahmen russischen Öltanker in Atlantik zwischen Schottland und Island",
+    "Völkerrecht - Bundesregierung kritisiert US-Einsatz in Venezuela und Ansprüche auf Grönland",
+    "Iran - Präsident Peseschkian ermahnt Sicherheitskräfte zur Zurückhaltung bei friedlichen Demonstranten - zwei Tote bei gewaltsamen Zusammenstößen"
   ],
   "hashes": [
-    "7323ca3a23da75d313de15788052bb6a",
-    "73ffce147f9c84b24feced78ce8bb3f1",
     "1d69ae1e5ebf1b1388b7dec470238697",
     "4ad0862421022433a18101f7c2f19476",
     "91212d7c1b1a7f9e168ae132dfc8a932",
@@ -4005,6 +4003,8 @@
     "52ef17ea364c3341fd59252c5bbb22bf",
     "83c08f7a9c09825d00ab46125d2db675",
     "67d365243c2e17343cc7e6c90ef1e9db",
-    "8e858b15d4694a5099cbcd3874c569f7"
+    "8e858b15d4694a5099cbcd3874c569f7",
+    "de35641d97fd0f691e2957982b63a22e",
+    "ea40bfcd6308e3b98c294f201540a1e2"
   ]
 }
