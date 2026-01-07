@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ankuendigung-umgesetzt-eu-friert-russische-vermoegenswerte-unbefristet-ein-102.html",
-    "https://www.deutschlandfunk.de/bundesregierung-ruft-israel-zum-stopp-des-siedlungsausbaus-auf-102.html",
     "https://www.deutschlandfunk.de/medienberichte-us-spezialkraefte-entern-frachter-auf-dem-weg-zum-iran-102.html",
     "https://www.deutschlandfunk.de/krebsbehandlung-bei-charles-iii-zeigt-gute-wirkung-106.html",
     "https://www.deutschlandfunk.de/kassenaerzte-chef-gassen-schlaegt-hoehere-steuern-auf-tabak-und-alkohol-vor-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/aussenminister-beraten-ueber-entwicklung-der-robusten-sicherheitsgarantien-fuer-die-ukraine-102.html",
     "https://www.deutschlandfunk.de/usa-beschlagnahmen-russischen-oeltanker-in-atlantik-zwischen-schottland-und-island-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-kritisiert-us-einsatz-in-venezuela-und-ansprueche-auf-groenland-100.html",
-    "https://www.deutschlandfunk.de/praesident-peseschkian-ermahnt-sicherheitskraefte-zur-zurueckhaltung-bei-friedlichen-demonstranten-z-100.html"
+    "https://www.deutschlandfunk.de/praesident-peseschkian-ermahnt-sicherheitskraefte-zur-zurueckhaltung-bei-friedlichen-demonstranten-z-100.html",
+    "https://www.deutschlandfunk.de/neue-russische-angriffe-auf-hafenanlagen-bei-odessa-100.html",
+    "https://www.deutschlandfunk.de/erste-touristen-koennen-insel-sokotra-verlassen-100.html"
   ],
   "content_hashes": [
-    "bba5f50264ca595298fcd0512c238a58",
-    "27b025de68a06e5f5cd1a4722d19e35a",
     "72d338bba8ae990ff2d81c8f9d68bbd6",
     "4ddd41c2bf92e9d5b073cf111ccb9872",
     "843a87bb7ccf7074cf5308a1776d8f79",
@@ -2001,11 +1999,11 @@
     "758e9733f045f2b0408733093f4d5ee3",
     "012836ca5d4a7264c3c831cb946e4015",
     "3d0c6b8f07a1fd2f7ab71f41fb611561",
-    "11544333dc5b3a67674de9d0aac3d24f"
+    "11544333dc5b3a67674de9d0aac3d24f",
+    "fdb5fca4af752363b908190b6fc5eb4e",
+    "cdfd5e7b755cfa0e6c32b9927dbe3358"
   ],
   "titles": [
-    "Ukraine - Ankündigung umgesetzt: EU friert russische Vermögenswerte unbefristet ein",
-    "Nahost-Konflikt - Bundesregierung ruft Israel zum Stopp des Siedlungsausbaus auf",
     "Indischer Ozean - Medienberichte: US-Spezialkräfte entern Frachter auf dem Weg zum Iran",
     "Vereinigtes Königreich - Krebsbehandlung bei Charles III. zeigt gute Wirkung",
     "Gesundheit - Kassenärzte-Chef Gassen schlägt höhere Steuern auf Tabak und Alkohol vor",
@@ -3003,11 +3001,11 @@
     "Weimarer Dreieck - Außenminister beraten über Entwicklung der robusten Sicherheitsgarantien für die Ukraine",
     "Verbindungen zu Venezuela - USA beschlagnahmen russischen Öltanker in Atlantik zwischen Schottland und Island",
     "Völkerrecht - Bundesregierung kritisiert US-Einsatz in Venezuela und Ansprüche auf Grönland",
-    "Iran - Präsident Peseschkian ermahnt Sicherheitskräfte zur Zurückhaltung bei friedlichen Demonstranten - zwei Tote bei gewaltsamen Zusammenstößen"
+    "Iran - Präsident Peseschkian ermahnt Sicherheitskräfte zur Zurückhaltung bei friedlichen Demonstranten - zwei Tote bei gewaltsamen Zusammenstößen",
+    "Ukraine-Krieg - Neue russische Angriffe auf Hafenanlagen bei Odessa",
+    "Jemen - Erste Touristen können Insel Sokotra verlassen"
   ],
   "hashes": [
-    "1d69ae1e5ebf1b1388b7dec470238697",
-    "4ad0862421022433a18101f7c2f19476",
     "91212d7c1b1a7f9e168ae132dfc8a932",
     "e468ce5133ce91b80616fca64227fbae",
     "2c7c5ce8f389cf5a8979ccdabdf5d615",
@@ -4005,6 +4003,8 @@
     "67d365243c2e17343cc7e6c90ef1e9db",
     "8e858b15d4694a5099cbcd3874c569f7",
     "de35641d97fd0f691e2957982b63a22e",
-    "ea40bfcd6308e3b98c294f201540a1e2"
+    "ea40bfcd6308e3b98c294f201540a1e2",
+    "09f8255a60008dd68ec1b7f3a1715d66",
+    "15589b31e7569f81d1f457913ce5b77d"
   ]
 }
