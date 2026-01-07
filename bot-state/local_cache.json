@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neues-portal-fuer-hinweise-auf-ueberbordende-buerokratie-freigeschaltet-100.html",
-    "https://www.deutschlandfunk.de/auftrag-koennte-auslastung-des-unternehmens-bis-2036-sichern-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/ukraine-verhandlungen-trump-macht-putin-weiter-geschenke-110802681.html",
-    "https://www.deutschlandfunk.de/soeder-vor-der-wiederwahl-als-parteivorsitzender-100.html",
     "https://www.deutschlandfunk.de/verbrenner-aus-autoindustrie-eu-kommission-klima-100.html",
     "https://www.deutschlandfunk.de/demokraten-veroeffentlichen-weitere-fotos-100.html",
     "https://www.deutschlandfunk.de/eu-friert-russische-vermoegenswerte-unbefristet-ein-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/armee-sperrt-kurdische-stadtviertel-in-aleppo-ab-100.html",
     "https://www.deutschlandfunk.de/sicherheitsvorkehrungen-nach-brandanschlag-und-morddrohung-gegen-antisemitismusbeauftragten-buettner-100.html",
     "https://www.deutschlandfunk.de/laut-kinoverband-2025-wieder-mehr-tickets-verkauft-102.html",
-    "https://www.faz.net/aktuell/politik/ukraine/europa-und-russland-ohne-abschreckung-geht-es-nicht-110814923.html"
+    "https://www.faz.net/aktuell/politik/ukraine/europa-und-russland-ohne-abschreckung-geht-es-nicht-110814923.html",
+    "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-ruft-sicherheitskraefte-auf-nicht-gegen-friedliche-demonstranten-v-100.html",
+    "https://www.deutschlandfunk.de/uebergangsregierung-kuendigt-begrenzte-militaeroperation-in-aleppo-an-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-schenkt-40-000-jungen-erwachsenen-europa-zugtickets-100.html",
+    "https://www.deutschlandfunk.de/wieder-angriffe-auf-gebaeude-und-infrastruktur-100.html"
   ],
   "content_hashes": [
-    "6148c590d457582784828dce19b2e65f",
-    "6fa93c3b6c16e8aabd480e10edcdb450",
-    "6e5988fb934d7915e54904c2331a5b8a",
-    "48fb288a29c29b7e6ecb12958a4a1547",
     "acbfaf5f2c47ef847a451871dfdb5cba",
     "e300ae7265d89752a9b12333fe603a65",
     "ccd660c6815b2dc1c23f97d8311d8025",
@@ -2001,13 +1997,13 @@
     "b34c5cc3b659edb0d3e69fb981fb1098",
     "864d575997f1dbe42f26230f7e14305c",
     "3c1a8285074eeaa76e8f11f594ad319b",
-    "571337fe66e9bfeaa054b089f24d7f6d"
+    "571337fe66e9bfeaa054b089f24d7f6d",
+    "fa173a384c1b75c5cfbef4314ef3ecab",
+    "72e33b23f53f843586e64902b3840e13",
+    "ec2b6eb331451e662677ce0e251edc6d",
+    "4dbd02d74b6314dc33ce4ccb2d502231"
   ],
   "titles": [
-    "\"Einfach Machen\" - Neues Portal für Hinweise auf überbordende Bürokratie freigeschaltet",
-    "Meyer Werft soll vier Kreuzfahrschiffe bauen - Auftrag könnte Auslastung des Unternehmens bis 2036 sichern",
-    "Ukraine-Verhandlungen: Trumps nächstes Geschenk für Putin",
-    "CSU-Parteitag - Söder vor der Wiederwahl als Parteivorsitzender",
     "Kommentar zum Verbrenner-Aus - Die EU gibt der Autolobby nach",
     "Epstein-Affäre - Demokraten veröffentlichen weitere Fotos",
     "Ukraine - EU friert russische Vermögenswerte unbefristet ein",
@@ -3003,13 +2999,13 @@
     "Syrien - Armee sperrt kurdische Stadtviertel in Aleppo ab",
     "Brandenburg - Sicherheitsvorkehrungen nach Brandanschlag und Morddrohung gegen Antisemitismusbeauftragten Büttner erhöht",
     "Filmkultur - Laut Kinoverband 2025 wieder mehr Tickets verkauft",
-    "Russlands Ukrainekrieg: Jetzt kennt Putin den Preis für Frieden"
+    "Russlands Ukrainekrieg: Jetzt kennt Putin den Preis für Frieden",
+    "Proteste - Iranischer Präsident Peseschkian ruft Sicherheitskräfte auf, nicht gegen friedliche Demonstranten vorzugehen",
+    "Syrien - Übergangsregierung kündigt \"begrenzte Militäroperation\" in Aleppo an",
+    "Europa - EU-Kommission schenkt 40.000 jungen Erwachsenen Europa-Zugtickets",
+    "Russlands Ukraine-Krieg - Wieder Angriffe auf Gebäude und Infrastruktur"
   ],
   "hashes": [
-    "20fbcced04470565bf0868bd2bf245aa",
-    "573789e36461d6bdbb45effb05ba76b9",
-    "2929c7d6ce8d28de21c7695e0d93194b",
-    "efc407573add6333aae365a64a3e0eb1",
     "0e9db4ead3163eb64228c0402c12aef0",
     "2255a3de3dd76d988c79f6f06ab407ee",
     "7323ca3a23da75d313de15788052bb6a",
@@ -4005,6 +4001,10 @@
     "73b327e8a9c91ef8f8b39101c04c66fe",
     "9d4300298b868f62f64fa525f709d189",
     "aab8b93f22d5b04fa3a6d11b7781dce1",
-    "20d35943c2424583e76a94adc1059fde"
+    "20d35943c2424583e76a94adc1059fde",
+    "9f61371904c84c34a7918b825b4ad646",
+    "f791ce0019cc153d28a91fb60d1afa70",
+    "52ef17ea364c3341fd59252c5bbb22bf",
+    "83c08f7a9c09825d00ab46125d2db675"
   ]
 }
