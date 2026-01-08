@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/caspar-david-friedrich-gewidmete-galerie-der-romantik-oeffnet-100.html",
-    "https://www.deutschlandfunk.de/weiter-gefechte-zwischen-thailand-und-kambodscha-104.html",
     "https://www.deutschlandfunk.de/trump-droht-nach-angriff-auf-us-soldaten-mit-vergeltung-102.html",
     "https://www.deutschlandfunk.de/neuer-fahrplan-in-kraft-mehr-sprinter-bei-der-bahn-100.html",
     "https://www.deutschlandfunk.de/aenderungen-2026-co2-emissionen-und-deutschlandticket-werden-teurer-100.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss",
     "https://www.deutschlandfunk.de/tote-und-grossflaechiger-stromausfall-im-sueden-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/arbeitslosigkeit-in-der-eurozone-geht-leicht-zurueck-100.html",
-    "https://www.faz.net/aktuell/politik/inland/fluechtling-oder-in-wahrheit-is-terrorist-110815842.html"
+    "https://www.faz.net/aktuell/politik/inland/fluechtling-oder-in-wahrheit-is-terrorist-110815842.html",
+    "https://www.deutschlandfunk.de/toedliche-schusse-von-ice-beamten-behoerden-in-minnesota-beklagen-behinderung-bei-ermittlungen-100.html",
+    "https://www.deutschlandfunk.de/eu-stellt-forderungen-an-musks-unternehmen-x-100.html"
   ],
   "content_hashes": [
-    "e635594ed9a87ce10d16b192b835c4ed",
-    "50b6f2e8b582955ecb375b943e9918f3",
     "8ffc0e685cbd6d341fe6c70bac1163bb",
     "85812a2213f403bf6d0be134f4e54779",
     "863a4178335e94ea24606035cde9354e",
@@ -2001,11 +1999,11 @@
     "9e1520ade24dd0c471c3ec51f5fe1d9e",
     "00a626646a0602df5cabfbb119857c12",
     "2ffaaa45d74f1a8fcdbe5d8fb5a77e2e",
-    "b5596ad85440f90b44b7f3cbbfdd5958"
+    "b5596ad85440f90b44b7f3cbbfdd5958",
+    "af64f60bcb2b8e63393f5df52518855c",
+    "1f7b0911b1db9d3cb33afda56b0badd8"
   ],
   "titles": [
-    "Greifswald - Caspar David Friedrich gewidmete \"Galerie der Romantik\" öffnet",
-    "Grenzkonflikt - Weiter Gefechte zwischen Thailand und Kambodscha",
     "Syrien - Trump droht nach Angriff auf US-Soldaten mit Vergeltung",
     "Fernverkehr - Neuer Fahrplan in Kraft: Mehr Sprinter bei der Bahn",
     "Jahreswechsel - Änderungen 2026: CO2-Emissionen und Deutschlandticket werden teurer",
@@ -3003,11 +3001,11 @@
     "Schweinfurt: Katze fährt Tausende Kilometer als Blinder Passagier von der Türkei",
     "Russischer Angriffskrieg - Tote und großflächiger Stromausfall im Süden der Ukraine",
     "Quote bei 6,3 Prozent - Arbeitslosigkeit in der Eurozone geht leicht zurück",
-    "Prozess in Düsseldorf: Flüchtling oder in Wahrheit IS-Terrorist?"
+    "Prozess in Düsseldorf: Flüchtling oder in Wahrheit IS-Terrorist?",
+    "USA - Tödliche Schusse von ICE-Beamten: Behörden in Minnesota beklagen Behinderung bei Ermittlungen",
+    "KI-Chatbot Grok - EU stellt Forderungen an Musks Unternehmen X"
   ],
   "hashes": [
-    "93da1c6cec05b1227379b616c56f6abe",
-    "8ac664f46cab929cbcf4a70cffff1d74",
     "50ee132eda5ac3cdaaeaeca1b801b7b3",
     "7a3865b49a214680de05d1c6e9aa1f84",
     "bd02b51c89bb1d1e2363b420b6cfbfc9",
@@ -4005,6 +4003,8 @@
     "db60eb3ab2c980966d791187d2dcce0e",
     "5de6ca91b061f7b6ed8e2275caa7c2e5",
     "e3c18cac6ac5c021329817b8ea7ddbfb",
-    "51a6c287c055c73d2f80b2d3b1282fb5"
+    "51a6c287c055c73d2f80b2d3b1282fb5",
+    "04aaf363ae2a004a6fa55607ba6a1369",
+    "66d3b983be46bb73d274c956fc5de1cf"
   ]
 }
