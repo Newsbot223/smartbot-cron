@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-fahrplan-in-kraft-mehr-sprinter-bei-der-bahn-100.html",
-    "https://www.deutschlandfunk.de/aenderungen-2026-co2-emissionen-und-deutschlandticket-werden-teurer-100.html",
     "https://www.deutschlandfunk.de/zehn-tote-bei-schusswaffenangriff-auf-juedisches-chanukka-fest-in-sydney-100.html",
     "https://www.deutschlandfunk.de/zwoelf-tote-bei-angriff-am-bondi-beach-behoerden-sprechen-von-terroranschlag-auf-juedische-gemeinsch-100.html",
     "https://www.deutschlandfunk.de/aelteste-pro-demokratische-partei-gibt-ihre-aufloesung-bekannt-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/fluechtling-oder-in-wahrheit-is-terrorist-110815842.html",
     "https://www.deutschlandfunk.de/toedliche-schusse-von-ice-beamten-behoerden-in-minnesota-beklagen-behinderung-bei-ermittlungen-100.html",
     "https://www.deutschlandfunk.de/eu-stellt-forderungen-an-musks-unternehmen-x-100.html",
-    "https://www.deutschlandfunk.de/venezuela-entlaesst-zahlreiche-haeftlinge-100.html"
+    "https://www.deutschlandfunk.de/venezuela-entlaesst-zahlreiche-haeftlinge-100.html",
+    "https://www.deutschlandfunk.de/grosskundgebung-in-teheran-zusammenstoesse-mit-der-polizei-100.html",
+    "https://www.deutschlandfunk.de/behoerden-verhaengen-ausgangssperre-fuer-viertel-in-aleppo-102.html"
   ],
   "content_hashes": [
-    "85812a2213f403bf6d0be134f4e54779",
-    "863a4178335e94ea24606035cde9354e",
     "a29d02271666dccb47a7b044714b5d18",
     "c5c95652a29c06a36429eddeb9d6a3da",
     "1801dd75d3ff2db8c3c5fcc90c8df3c9",
@@ -2001,11 +1999,11 @@
     "b5596ad85440f90b44b7f3cbbfdd5958",
     "af64f60bcb2b8e63393f5df52518855c",
     "1f7b0911b1db9d3cb33afda56b0badd8",
-    "4ffefb3803ab6d7202b845871434f7f5"
+    "4ffefb3803ab6d7202b845871434f7f5",
+    "1b8dec027abfe9c7e8e53ab909223011",
+    "eda5ca5914cf0795b4f52bf44c3089b0"
   ],
   "titles": [
-    "Fernverkehr - Neuer Fahrplan in Kraft: Mehr Sprinter bei der Bahn",
-    "Jahreswechsel - Änderungen 2026: CO2-Emissionen und Deutschlandticket werden teurer",
     "Australien - Zehn Tote bei Schusswaffenangriff auf jüdisches Chanukka-Fest in Sydney",
     "Australien - Zwölf Tote bei Angriff am Bondi Beach - Behörden sprechen von Terroranschlag auf jüdische Gemeinschaft",
     "Hongkong - Älteste pro-demokratische Partei gibt ihre Auflösung bekannt",
@@ -3003,11 +3001,11 @@
     "Prozess in Düsseldorf: Flüchtling oder in Wahrheit IS-Terrorist?",
     "USA - Tödliche Schusse von ICE-Beamten: Behörden in Minnesota beklagen Behinderung bei Ermittlungen",
     "KI-Chatbot Grok - EU stellt Forderungen an Musks Unternehmen X",
-    "Nach US-Intervention - Venezuela entlässt zahlreiche Häftlinge"
+    "Nach US-Intervention - Venezuela entlässt zahlreiche Häftlinge",
+    "Iran - Großkundgebung in Teheran - Zusammenstöße mit der Polizei",
+    "Syrien - Behörden verhängen Ausgangssperre für Viertel in Aleppo"
   ],
   "hashes": [
-    "7a3865b49a214680de05d1c6e9aa1f84",
-    "bd02b51c89bb1d1e2363b420b6cfbfc9",
     "ef02f0ea607130d8700968a627943b60",
     "276fc958a0da7d1a1c8b8b6af08950a7",
     "9d49167e7fc1f07dc1f80074e2ccfa3e",
@@ -4005,6 +4003,8 @@
     "51a6c287c055c73d2f80b2d3b1282fb5",
     "04aaf363ae2a004a6fa55607ba6a1369",
     "66d3b983be46bb73d274c956fc5de1cf",
-    "f5fb6d5e520d0b3adc8ac4536851ea49"
+    "f5fb6d5e520d0b3adc8ac4536851ea49",
+    "daa19fc3e936067dd896b2b209f7d3ba",
+    "17ad7bef6392e36d537cf2fac32b9c67"
   ]
 }
