@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kilometerlange-seilbahn-nach-paris-in-betrieb-genommen-100.html",
-    "https://www.deutschlandfunk.de/tschechien-und-ungarn-stellen-sich-quer-102.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-soeder-zum-csu-chef-wiedergewaehlt-faz-110093143.html",
     "https://www.deutschlandfunk.de/abbas-stellt-wahlen-erst-nach-ende-des-gaza-kriegs-in-aussicht-100.html",
     "https://www.deutschlandfunk.de/belarus-laesst-politische-gefangene-frei-darunter-buergerrechtlerin-kolesnikowa-und-friedensnobelpre-100.html",
     "https://www.deutschlandfunk.de/eu-staaten-einigen-sich-auf-fischereiquoten-fuer-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wohngebaeude-in-albstadt-stuerzt-nach-explosion-ein-100.html",
     "https://www.deutschlandfunk.de/boom-um-ki-startup-gruendungen-steigen-auf-rekordwert-100.html",
     "https://www.spiegel.de/ausland/deutschland-schiebt-weiteren-straftaeter-nach-syrien-ab-a-ab7b25ac-3150-4469-acd1-f33b670207f1#ref=rss",
-    "https://www.deutschlandfunk.de/protest-gegen-mercosur-abkommen-bauernverband-fordert-weitere-nachverhandlungen-100.html"
+    "https://www.deutschlandfunk.de/protest-gegen-mercosur-abkommen-bauernverband-fordert-weitere-nachverhandlungen-100.html",
+    "https://www.deutschlandfunk.de/bedauerlich-und-ungluecklich-eu-klimakommissar-kritisiert-us-ausstieg-aus-uno-klimarahmenkonvention-100.html",
+    "https://www.deutschlandfunk.de/industrie-mit-groesstem-auftragsplus-seit-knapp-einem-jahr-100.html",
+    "https://www.deutschlandfunk.de/weltraumspaziergang-aus-medizinischen-gruenden-abgesagt-100.html"
   ],
   "content_hashes": [
-    "8f05a8d76a489384a76735bc56011ef6",
-    "79ca4a2065d80f323793f63eb7ca04ab",
-    "0e356124511bcf7613b03db4766a5b00",
     "7a4bac7ed4543dfd9cf29a2395247d86",
     "2fef7bdaac1a8948b5ed39570954bc30",
     "6db65f33b3e495b7ad531815306a56b8",
@@ -2001,12 +1998,12 @@
     "c7e75a138661034f9190ce082cf9c76a",
     "262619e800ba8e05c9a017792b6c3ea1",
     "6849d6906c40cab6b36e8825ca13ecbb",
-    "b6e5cbad0510e1eb918d75eb8ef8cc30"
+    "b6e5cbad0510e1eb918d75eb8ef8cc30",
+    "3cfa59ecd59f99d6cab0be5793f27e64",
+    "d5638701e80f523a32e2ecda94d8e97d",
+    "4c63c5acf5332c37ddbc8f5aacf628d9"
   ],
   "titles": [
-    "Frankreich - Kilometerlange Seilbahn nach Paris in Betrieb genommen",
-    "EU-Kredit für die Ukraine - Tschechien und Ungarn stellen sich quer",
-    "Liveblog Bundespolitik: Merz: Wettbewerbs- und Verteidigungsfähigkeit wichtigste Aufgaben",
     "Palästinensergebiete - Abbas stellt Wahlen erst nach Ende des Gaza-Kriegs in Aussicht",
     "Begnadigung - Belarus lässt politische Gefangene frei, darunter Bürgerrechtlerin Kolesnikowa und Friedensnobelpreisträger Beljazki",
     "Fangmengen - EU-Staaten einigen sich auf Fischereiquoten für 2026",
@@ -3003,12 +3000,12 @@
     "Baden-Württemberg - Wohngebäude in Albstadt stürzt nach Explosion ein",
     "2025 - Boom um KI: Startup-Gründungen steigen auf Rekordwert",
     "Deutschland schiebt weiteren Straftäter nach Syrien ab",
-    "Brandenburg und Mecklenburg-Vorpommern - Protest gegen Mercosur-Abkommen - Bauernverband fordert weitere Nachverhandlungen"
+    "Brandenburg und Mecklenburg-Vorpommern - Protest gegen Mercosur-Abkommen - Bauernverband fordert weitere Nachverhandlungen",
+    "Reaktion - \"Bedauerlich und unglücklich\": EU-Klimakommissar kritisiert US-Ausstieg aus UNO-Klimarahmenkonvention",
+    "November - Industrie mit größtem Auftragsplus seit knapp einem Jahr",
+    "Raumfahrt - Weltraumspaziergang aus medizinischen Gründen abgesagt"
   ],
   "hashes": [
-    "9a72029978bb1805eb1a85ee7a0a2083",
-    "726700af9b0bbee544bae5b046b495b9",
-    "f733995813d98f932117d1ae5a1123e1",
     "30c5314343e39b7654f25259d922cf9e",
     "f2ee2c0918de1b687dd6b0be1b453092",
     "585a1d20ffc4977a47e6ea39d375b851",
@@ -4005,6 +4002,9 @@
     "8d11488dc3dff033330d3d272a262094",
     "66f639a6299b8427457ddbb660e1ae08",
     "f6d45578cf03ce5eae4e120e40539b75",
-    "3477497f579cca2163912e60ba59528a"
+    "3477497f579cca2163912e60ba59528a",
+    "3b734d4dff0e75703cb4c04f68cd3cec",
+    "a4ffb7c7d9fd5481d44a83af1735ea50",
+    "d56195e0a158f23518ef2ecfb69590d5"
   ]
 }
