@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-welle-in-russland-zur-unerwuenschten-organisation-erklaert-102.html",
-    "https://www.faz.net/aktuell/politik/ausland/anschlag-in-sidney-eine-eskalation-des-antisemitismus-110803102.html",
-    "https://www.deutschlandfunk.de/freiburg-und-dortmund-spielen-1-102.html",
     "https://www.deutschlandfunk.de/china-deutsche-wirtschaft-100.html",
     "https://www.faz.net/aktuell/politik/inland/oezdemir-der-gesundprediger-der-gruenen-110803136.html",
     "https://www.deutschlandfunk.de/polizei-nimmt-verdaechtigen-nach-schiesserei-an-universitaet-fest-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/venezuela-kuendigt-freilassung-politischer-haeftlinge-an-100.html",
     "https://www.deutschlandfunk.de/damaskus-fordert-kurdische-kaempfer-zum-verlassen-aleppos-auf-und-kuendigt-voruebergehend-waffenruhe-100.html",
     "https://www.deutschlandfunk.de/vance-relativiert-trumps-drohungen-gegen-groenland-102.html",
-    "https://www.deutschlandfunk.de/landtag-tagt-nach-koalitionsbruch-afd-fordert-neuwahlen-100.html"
+    "https://www.deutschlandfunk.de/landtag-tagt-nach-koalitionsbruch-afd-fordert-neuwahlen-100.html",
+    "https://www.deutschlandfunk.de/tote-und-verletzte-durch-russische-angriffe-auf-kiew-100.html",
+    "https://www.deutschlandfunk.de/berichte-treffen-zu-groenland-im-weissen-haus-102.html",
+    "https://www.deutschlandfunk.de/ramelow-kritisiert-cdu-in-sachsen-anhalt-hinsichtlich-ministerpraesidenten-nachfolge-100.html"
   ],
   "content_hashes": [
-    "bb87029e60a855896beda27af343ea0f",
-    "e66854972488372ea8573ec0b0c990f2",
-    "35aa9204f5e202fb2a4db92fb402697d",
     "65e2d1492c4bdfa5c0af8bf80bfba4a4",
     "e411770c0da239677e5a039b0f932022",
     "42900c4da9a08afc06d8aa80e7b43275",
@@ -2001,12 +1998,12 @@
     "56f2022bc8031d077eb20b76462e275c",
     "2d75a91b121984a4590138fe81fbd1e0",
     "836f891f9d3fecf4ddaefa955498ea82",
-    "2061183b416b513f7e0947b03e88dd47"
+    "2061183b416b513f7e0947b03e88dd47",
+    "763ecb88d25f20606b0bfb1cc5480cc3",
+    "ffadf185e6d88a7443d3dac1b52ff30e",
+    "5570ad02b851aa26ad37c801c12563c3"
   ],
   "titles": [
-    "Auslandssender - Deutsche Welle in Russland zur \"unerwünschten Organisation\" erklärt",
-    "Anschlag in Sydney: Eine absehbare Eskalation",
-    "Fußball-Bundesliga - Freiburg und Dortmund spielen 1:1",
     "Kommentar zu Wadephuls China-Reise - Deutsche Wirtschaft blickt naiv auf China",
     "Grünen-Parteitag: Özdemir, der Gesundprediger",
     "USA - Polizei nimmt Verdächtigen nach Schießerei an Universität fest",
@@ -3003,12 +3000,12 @@
     "Nach US-Intervention - Venezuela kündigt Freilassung politischer Häftlinge an",
     "Syrien - Damaskus fordert kurdische Kämpfer zum Verlassen Aleppos auf und kündigt vorübergehend Waffenruhe dazu an",
     "USA - Vance relativiert Trumps Drohungen gegen Grönland",
-    "Brandenburg - Landtag tagt nach Koalitionsbruch - AfD fordert Neuwahlen"
+    "Brandenburg - Landtag tagt nach Koalitionsbruch - AfD fordert Neuwahlen",
+    "Ukraine - Tote und Verletzte durch russische Angriffe auf Kiew",
+    "Washington - Berichte: Treffen zu Grönland im Weißen Haus",
+    "Wahlen in Ostdeutschland - Ramelow kritisiert CDU in Sachsen-Anhalt hinsichtlich Ministerpräsidenten-Nachfolge"
   ],
   "hashes": [
-    "e4f052f5115700fefe7a5514598c9681",
-    "f17a8c09e3f7ffa44e91b974f07dc97c",
-    "8b4fdae02a8f1c2af9c4acc2e9e2dbc4",
     "608594e87403048a60427864a551f56c",
     "073558c7aded15c825794d3f4f2537fd",
     "d3b26eed85ab74a7f31cfce8c8c25fff",
@@ -4005,6 +4002,9 @@
     "2d829b94f5019a56b44f797f4492a7ac",
     "5a78bf608528b6d17398df060515d06c",
     "b56486c8fc59db5f074faedec94ed83c",
-    "57fdf32e5d07277f7979e76b6eb445db"
+    "57fdf32e5d07277f7979e76b6eb445db",
+    "ba01c6c15549b3f50efee81a9484e51d",
+    "a0dd612629242ab36bceea824f78a920",
+    "8ef43288b080ac107c25ae6fbffa4cd7"
   ]
 }
