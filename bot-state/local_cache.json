@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/polizei-nimmt-verdaechtigen-nach-schiesserei-an-universitaet-fest-100.html",
-    "https://www.deutschlandfunk.de/vermuteter-anschlagsplan-herrmann-attentat-stand-nicht-unmittelbar-bevor-100.html",
     "https://www.deutschlandfunk.de/neue-gespraeche-ueber-us-friedensplan-begonnen-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
     "https://www.deutschlandfunk.de/nach-festnahme-von-friedensnobelpreistraegerin-mohammadi-unterstuetzer-bisher-keinen-kontakt-104.html",
     "https://www.faz.net/aktuell/politik/inland/schwaches-ergebnis-auf-csu-parteitag-ein-daempfer-fuer-soeder-110803240.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/berichte-treffen-zu-groenland-im-weissen-haus-102.html",
     "https://www.deutschlandfunk.de/ramelow-kritisiert-cdu-in-sachsen-anhalt-hinsichtlich-ministerpraesidenten-nachfolge-100.html",
     "https://www.deutschlandfunk.de/thw-praesidentin-sieht-deutschland-gut-vorbereitet-100.html",
-    "https://www.deutschlandfunk.de/von-der-leyen-und-costa-von-syriens-praesident-al-scharaa-empfangen-100.html"
+    "https://www.deutschlandfunk.de/von-der-leyen-und-costa-von-syriens-praesident-al-scharaa-empfangen-100.html",
+    "https://www.deutschlandfunk.de/bsw-im-brandenburger-landtag-will-afd-antrag-auf-vorzeitige-neuwahl-zustimmen-102.html",
+    "https://www.deutschlandfunk.de/spd-spitze-will-sich-gegen-abbau-des-sozialstaats-stemmen-102.html"
   ],
   "content_hashes": [
-    "42900c4da9a08afc06d8aa80e7b43275",
-    "91e4d6348c3e9bb6f307af45ae4c280c",
     "7152d739c7d86283806c46004c88d14c",
     "ec7853d2ad8b491ee86d7fcacfe87167",
     "bd3983f627e585abad7073850a10541a",
@@ -2001,11 +1999,11 @@
     "ffadf185e6d88a7443d3dac1b52ff30e",
     "5570ad02b851aa26ad37c801c12563c3",
     "f29d93efa47b0d24b8d02e47dce6d893",
-    "16a5c872708413ee6cecaf2e282f1d7c"
+    "16a5c872708413ee6cecaf2e282f1d7c",
+    "bf8ec44c5f2b35b36729b7e84abe19ec",
+    "271f7b7e7e6b298073ee4df90c04dd29"
   ],
   "titles": [
-    "USA - Polizei nimmt Verdächtigen nach Schießerei an Universität fest",
-    "Niederbayern - Vermuteter Anschlagsplan - Herrmann: Attentat stand nicht unmittelbar bevor",
     "Berlin - Neue Gespräche über US-Friedensplan begonnen - Selenskyj rückt von NATO-Beitrittsplänen ab",
     "Iran - Nach Festnahme von Friedensnobelpreisträgerin Mohammadi - Unterstützer: \"Bisher keinen Kontakt\"",
     "CSU-Parteitag: Das ist ein Dämpfer für Markus Söder",
@@ -3003,11 +3001,11 @@
     "Washington - Berichte: Treffen zu Grönland im Weißen Haus",
     "Wahlen in Ostdeutschland - Ramelow kritisiert CDU in Sachsen-Anhalt hinsichtlich Ministerpräsidenten-Nachfolge",
     "Winterwetter - THW-Präsidentin sieht Deutschland gut vorbereitet",
-    "Damaskus - Von der Leyen und Costa von Syriens Präsident al-Scharaa empfangen"
+    "Damaskus - Von der Leyen und Costa von Syriens Präsident al-Scharaa empfangen",
+    "Nach Koalitionsbruch - BSW im Brandenburger Landtag will AfD-Antrag auf vorzeitige Neuwahl zustimmen",
+    "Parteien - SPD-Spitze will sich gegen Abbau des Sozialstaats stemmen"
   ],
   "hashes": [
-    "d3b26eed85ab74a7f31cfce8c8c25fff",
-    "1b87dc27639c2a918f55e3399543504c",
     "b176923c1c3d0d5f93a2814e1a2524bd",
     "4b02b8203b0183209ad85733b5de1d4f",
     "17d502f464bb62659372454cf99eb1ce",
@@ -4005,6 +4003,8 @@
     "a0dd612629242ab36bceea824f78a920",
     "8ef43288b080ac107c25ae6fbffa4cd7",
     "10db697c5b0bcbede0e1c96d5feecb74",
-    "270eeaf8b9a465d05f486e5abeb7b73b"
+    "270eeaf8b9a465d05f486e5abeb7b73b",
+    "f0325d69c7b23928cfb1cfbf5aff9a5c",
+    "83416df25cab7ebada0912975f0abe1e"
   ]
 }
