@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-festnahme-von-friedensnobelpreistraegerin-mohammadi-unterstuetzer-bisher-keinen-kontakt-104.html",
-    "https://www.faz.net/aktuell/politik/inland/schwaches-ergebnis-auf-csu-parteitag-ein-daempfer-fuer-soeder-110803240.html",
-    "https://www.deutschlandfunk.de/dobrindt-csu-kuendigt-aufnahme-von-belarussischen-oppositionellen-an-100.html",
     "https://www.deutschlandfunk.de/gespraeche-ueber-us-friedensplan-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
     "https://www.faz.net/aktuell/politik/ausland/freilassungen-in-belarus-europa-in-schlechtem-licht-110803137.html",
     "https://www.deutschlandfunk.de/vier-sicherheitskraefte-getoetet-antiterroreinsatz-gegen-is-mitglieder-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/von-der-leyen-und-costa-von-syriens-praesident-al-scharaa-empfangen-100.html",
     "https://www.deutschlandfunk.de/bsw-im-brandenburger-landtag-will-afd-antrag-auf-vorzeitige-neuwahl-zustimmen-102.html",
     "https://www.deutschlandfunk.de/spd-spitze-will-sich-gegen-abbau-des-sozialstaats-stemmen-102.html",
-    "https://www.deutschlandfunk.de/eu-staaten-billigen-abkommen-mit-mercosur-staaten-100.html"
+    "https://www.deutschlandfunk.de/eu-staaten-billigen-abkommen-mit-mercosur-staaten-100.html",
+    "https://www.deutschlandfunk.de/trump-brauche-kein-voelkerrecht-100.html",
+    "https://www.deutschlandfunk.de/justiz-kuendigt-harte-strafen-gegen-demonstrierende-an-100.html",
+    "https://www.deutschlandfunk.de/deutschland-fordert-israel-auf-siedlungsprojekt-e1-im-westjordanland-zu-stoppen-100.html"
   ],
   "content_hashes": [
-    "ec7853d2ad8b491ee86d7fcacfe87167",
-    "bd3983f627e585abad7073850a10541a",
-    "31b7f02c1850da353d3cca9560bb012e",
     "f594c72304ce49087ecd7793e8773cc5",
     "e025d66ca93a53058a41639106f0b301",
     "6a94ea39e2d0a1dc293527f921616b34",
@@ -2001,12 +1998,12 @@
     "16a5c872708413ee6cecaf2e282f1d7c",
     "bf8ec44c5f2b35b36729b7e84abe19ec",
     "271f7b7e7e6b298073ee4df90c04dd29",
-    "1f3aa4a371906199bab7b0d4254dda92"
+    "1f3aa4a371906199bab7b0d4254dda92",
+    "654606fe23ed8426731fe74f6f84be49",
+    "491808ce8c04cef5415c8ab18ef50493",
+    "05f0b57f4443e1af575f6f63c776bec6"
   ],
   "titles": [
-    "Iran - Nach Festnahme von Friedensnobelpreisträgerin Mohammadi - Unterstützer: \"Bisher keinen Kontakt\"",
-    "CSU-Parteitag: Das ist ein Dämpfer für Markus Söder",
-    "Nach Freilassung - Dobrindt (CSU) kündigt Aufnahme von belarussischen Oppositionellen an",
     "Berlin - Gespräche über US-Friedensplan - Selenskyj rückt von NATO-Beitrittsplänen ab",
     "Freilassungen in Belarus: Warum blieb die EU erfolglos?",
     "Syrien - Vier Sicherheitskräfte getötet - Antiterroreinsatz gegen IS-Mitglieder",
@@ -3003,12 +3000,12 @@
     "Damaskus - Von der Leyen und Costa von Syriens Präsident al-Scharaa empfangen",
     "Nach Koalitionsbruch - BSW im Brandenburger Landtag will AfD-Antrag auf vorzeitige Neuwahl zustimmen",
     "Parteien - SPD-Spitze will sich gegen Abbau des Sozialstaats stemmen",
-    "Freihandelsabkommen - EU-Staaten billigen Abkommen mit Mercosur-Staaten"
+    "Freihandelsabkommen - EU-Staaten billigen Abkommen mit Mercosur-Staaten",
+    "US-Präsident - Trump: \"Brauche kein Völkerrecht\"",
+    "Iran - Justiz kündigt harte Strafen gegen Demonstrierende an",
+    "Nahost - Deutschland fordert Israel auf, Siedlungsprojekt E1 im Westjordanland zu stoppen"
   ],
   "hashes": [
-    "4b02b8203b0183209ad85733b5de1d4f",
-    "17d502f464bb62659372454cf99eb1ce",
-    "f2098011890e87694cc2958c9751ff6e",
     "e33ea26f50de3463ffe91109620c96c6",
     "74db37d673d7d91607d9adfd09b1e321",
     "275923618bb6e3c895cb84eb52bd6555",
@@ -4005,6 +4002,9 @@
     "270eeaf8b9a465d05f486e5abeb7b73b",
     "f0325d69c7b23928cfb1cfbf5aff9a5c",
     "83416df25cab7ebada0912975f0abe1e",
-    "fd27934ed163ee687283f254ad980649"
+    "fd27934ed163ee687283f254ad980649",
+    "9874141b0c45076845bef28646295e8d",
+    "a28aba29f0655a4f28c66f8ef897e0e2",
+    "566a0135963b7cdcb07ebb4922deb834"
   ]
 }
