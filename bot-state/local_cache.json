@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gespraeche-ueber-us-friedensplan-selenskyj-rueckt-von-nato-beitrittsplaenen-ab-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/freilassungen-in-belarus-europa-in-schlechtem-licht-110803137.html",
-    "https://www.deutschlandfunk.de/vier-sicherheitskraefte-getoetet-antiterroreinsatz-gegen-is-mitglieder-100.html",
     "https://www.aljazeera.com/video/inside-story/2025/12/14/what-is-the-significance-of-trumps-deal-with-belarus?traffic_source=rss",
     "https://www.deutschlandfunk.de/stichwahl-um-praesidentenamt-rechter-kandidat-kast-laut-teilergebnissen-vorn-104.html",
     "https://www.deutschlandfunk.de/kommission-befragt-spahn-zu-masken-beschaffung-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-staaten-billigen-abkommen-mit-mercosur-staaten-100.html",
     "https://www.deutschlandfunk.de/trump-brauche-kein-voelkerrecht-100.html",
     "https://www.deutschlandfunk.de/justiz-kuendigt-harte-strafen-gegen-demonstrierende-an-100.html",
-    "https://www.deutschlandfunk.de/deutschland-fordert-israel-auf-siedlungsprojekt-e1-im-westjordanland-zu-stoppen-100.html"
+    "https://www.deutschlandfunk.de/deutschland-fordert-israel-auf-siedlungsprojekt-e1-im-westjordanland-zu-stoppen-100.html",
+    "https://www.deutschlandfunk.de/kurdische-kaempfer-wollen-aleppo-nicht-verlassen-damaskus-fordert-kurdische-kaempfer-zum-gehen-auf-100.html",
+    "https://www.deutschlandfunk.de/schwere-not-im-sudan-nach-1-000-tagen-buergerkrieg-102.html",
+    "https://www.faz.net/aktuell/politik/inland/union-und-spd-streiten-ueber-die-steuern-110816556.html"
   ],
   "content_hashes": [
-    "f594c72304ce49087ecd7793e8773cc5",
-    "e025d66ca93a53058a41639106f0b301",
-    "6a94ea39e2d0a1dc293527f921616b34",
     "94a7d3649ec1581e4c7eb8ad1e3cfd18",
     "7e86b7bc5fc81b6e014fc9d4af3f61bd",
     "05e0b3b425fe3ca29767a41de1b45cff",
@@ -2001,12 +1998,12 @@
     "1f3aa4a371906199bab7b0d4254dda92",
     "654606fe23ed8426731fe74f6f84be49",
     "491808ce8c04cef5415c8ab18ef50493",
-    "05f0b57f4443e1af575f6f63c776bec6"
+    "05f0b57f4443e1af575f6f63c776bec6",
+    "95497e2b31164b185b43056d78f1be0b",
+    "2499a9e504527031f93956f03ed9322d",
+    "b8615d35fd515646b852b06312c5994a"
   ],
   "titles": [
-    "Berlin - Gespräche über US-Friedensplan - Selenskyj rückt von NATO-Beitrittsplänen ab",
-    "Freilassungen in Belarus: Warum blieb die EU erfolglos?",
-    "Syrien - Vier Sicherheitskräfte getötet - Antiterroreinsatz gegen IS-Mitglieder",
     "What is the significance of Trump’s deal with Belarus?",
     "Chile - Stichwahl um Präsidentenamt: Rechter Kandidat Kast laut Teilergebnissen vorn",
     "Corona-Pandemie - Kommission befragt Spahn zu Masken-Beschaffung",
@@ -3003,12 +3000,12 @@
     "Freihandelsabkommen - EU-Staaten billigen Abkommen mit Mercosur-Staaten",
     "US-Präsident - Trump: \"Brauche kein Völkerrecht\"",
     "Iran - Justiz kündigt harte Strafen gegen Demonstrierende an",
-    "Nahost - Deutschland fordert Israel auf, Siedlungsprojekt E1 im Westjordanland zu stoppen"
+    "Nahost - Deutschland fordert Israel auf, Siedlungsprojekt E1 im Westjordanland zu stoppen",
+    "Syrien - Kurdische Kämpfer wollen Aleppo nicht verlassen - Damaskus fordert kurdische Kämpfer zum Gehen auf",
+    "UNO-Bericht - Schwere Not im Sudan nach 1.000 Tagen Bürgerkrieg",
+    "Reformvorschlag: Union und SPD streiten über Steuern"
   ],
   "hashes": [
-    "e33ea26f50de3463ffe91109620c96c6",
-    "74db37d673d7d91607d9adfd09b1e321",
-    "275923618bb6e3c895cb84eb52bd6555",
     "9968ae7a26361b222cb24b63543b5bfa",
     "06a38a9b73a05bda0cf4976812d22d10",
     "428778abed5a3d3e4447e62feff11d58",
@@ -4005,6 +4002,9 @@
     "fd27934ed163ee687283f254ad980649",
     "9874141b0c45076845bef28646295e8d",
     "a28aba29f0655a4f28c66f8ef897e0e2",
-    "566a0135963b7cdcb07ebb4922deb834"
+    "566a0135963b7cdcb07ebb4922deb834",
+    "a77f4c9d6d7e750d9fa741bb425f879f",
+    "036a5ef15ee3e99691127967b05ba3c3",
+    "8ccc9148d48d866e03593882cfe7e98f"
   ]
 }
