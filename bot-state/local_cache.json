@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/inside-story/2025/12/14/what-is-the-significance-of-trumps-deal-with-belarus?traffic_source=rss",
-    "https://www.deutschlandfunk.de/stichwahl-um-praesidentenamt-rechter-kandidat-kast-laut-teilergebnissen-vorn-104.html",
-    "https://www.deutschlandfunk.de/kommission-befragt-spahn-zu-masken-beschaffung-100.html",
     "https://www.deutschlandfunk.de/ex-bundesverkehrsminister-scheuer-und-wissing-vor-brueckendesaster-untersuchungsausschuss-des-nrw-la-100.html",
     "https://www.deutschlandfunk.de/herrmann-csu-nach-festnahmen-im-raum-dingolfing-keine-konkrete-gefaehrdung-fuer-oertliche-weihnachts-102.html",
     "https://www.deutschlandfunk.de/zivildienst-in-handwerksbetrieben-branchenverband-wirbt-dafuer-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutschland-fordert-israel-auf-siedlungsprojekt-e1-im-westjordanland-zu-stoppen-100.html",
     "https://www.deutschlandfunk.de/kurdische-kaempfer-wollen-aleppo-nicht-verlassen-damaskus-fordert-kurdische-kaempfer-zum-gehen-auf-100.html",
     "https://www.deutschlandfunk.de/schwere-not-im-sudan-nach-1-000-tagen-buergerkrieg-102.html",
-    "https://www.faz.net/aktuell/politik/inland/union-und-spd-streiten-ueber-die-steuern-110816556.html"
+    "https://www.faz.net/aktuell/politik/inland/union-und-spd-streiten-ueber-die-steuern-110816556.html",
+    "https://www.deutschlandfunk.de/bundesregierung-kritisiert-gewalt-gegen-demonstranten-100.html",
+    "https://www.deutschlandfunk.de/verdi-ruft-zu-warnstreiks-an-mehreren-unikliniken-auf-102.html",
+    "https://www.deutschlandfunk.de/linke-im-bundestag-will-alltag-bezahlbarer-machen-100.html"
   ],
   "content_hashes": [
-    "94a7d3649ec1581e4c7eb8ad1e3cfd18",
-    "7e86b7bc5fc81b6e014fc9d4af3f61bd",
-    "05e0b3b425fe3ca29767a41de1b45cff",
     "70f31dc8f0e45e0aca4760daeb1cc4f0",
     "489afba87fde296c3692ac1ec4d9e1f8",
     "20630994a05a58436a0a7cafb4c71d4e",
@@ -2001,12 +1998,12 @@
     "05f0b57f4443e1af575f6f63c776bec6",
     "95497e2b31164b185b43056d78f1be0b",
     "2499a9e504527031f93956f03ed9322d",
-    "b8615d35fd515646b852b06312c5994a"
+    "b8615d35fd515646b852b06312c5994a",
+    "f8e9369fd2bd34b288dc2884b1115657",
+    "6dc7def9914746da30a9ca8c55261443",
+    "a96d645752f52c47e80f87d6f46bbdc4"
   ],
   "titles": [
-    "What is the significance of Trump’s deal with Belarus?",
-    "Chile - Stichwahl um Präsidentenamt: Rechter Kandidat Kast laut Teilergebnissen vorn",
-    "Corona-Pandemie - Kommission befragt Spahn zu Masken-Beschaffung",
     "Rahmede - Ex-Bundesverkehrsminister Scheuer und Wissing vor \"Brückendesaster\"-Untersuchungsausschuss des NRW-Landtags",
     "Islamistische Anschlagspläne - Herrmann (CSU) nach Festnahmen im Raum Dingolfing: Keine konkrete Gefährdung für örtliche Weihnachtsmärkte",
     "Werdienst-Debatte - Zivildienst in Handwerksbetrieben: Branchenverband wirbt dafür",
@@ -3003,12 +3000,12 @@
     "Nahost - Deutschland fordert Israel auf, Siedlungsprojekt E1 im Westjordanland zu stoppen",
     "Syrien - Kurdische Kämpfer wollen Aleppo nicht verlassen - Damaskus fordert kurdische Kämpfer zum Gehen auf",
     "UNO-Bericht - Schwere Not im Sudan nach 1.000 Tagen Bürgerkrieg",
-    "Reformvorschlag: Union und SPD streiten über Steuern"
+    "Reformvorschlag: Union und SPD streiten über Steuern",
+    "Iran - Bundesregierung kritisiert Gewalt gegen Demonstranten",
+    "Öffentlicher Dienst der Länder - Verdi ruft zu Warnstreiks an mehreren Unikliniken auf",
+    "Jahresauftaktklausur - Linke im Bundestag will Alltag bezahlbarer machen"
   ],
   "hashes": [
-    "9968ae7a26361b222cb24b63543b5bfa",
-    "06a38a9b73a05bda0cf4976812d22d10",
-    "428778abed5a3d3e4447e62feff11d58",
     "6162cb5f8d4f209a8b31efa4f741f3e6",
     "32713767cb3360a597fb974dfef94b0c",
     "3af8f7884a63c6dc5ba0f7ffb8950e29",
@@ -4005,6 +4002,9 @@
     "566a0135963b7cdcb07ebb4922deb834",
     "a77f4c9d6d7e750d9fa741bb425f879f",
     "036a5ef15ee3e99691127967b05ba3c3",
-    "8ccc9148d48d866e03593882cfe7e98f"
+    "8ccc9148d48d866e03593882cfe7e98f",
+    "db91cf14827bf9bf28f91f11a9916b03",
+    "4f04c5c29997d237e7dd9fa1771def23",
+    "1a78c5e2c1bfc80c452a018757bf837e"
   ]
 }
