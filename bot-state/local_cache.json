@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/herrmann-csu-bayerns-weihnachtsmaerkte-sind-sicher-102.html",
-    "https://www.deutschlandfunk.de/kindeswohlgefaehrdungen-auf-neuem-hoechststand-112.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-erhebt-anklage-gegen-afd-abgeordneten-wegen-hitlergrusses-im-bundestagsgebaeude-102.html",
     "https://www.aljazeera.com/news/liveblog/2025/12/15/russia-ukraine-war-live-zelenskyy-us-envoys-to-resume-berlin-talks?traffic_source=rss",
     "https://www.deutschlandfunk.de/ukraine-laesst-zehntausende-drohnen-in-deutschland-herstellen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/grossbritannien-frankreich-und-deutschland-fordern-fuerung-des-iran-zu-gewaltverzicht-auf-100.html",
     "https://www.deutschlandfunk.de/grossbritannien-frankreich-und-deutschland-fordern-fuehrung-des-iran-zu-gewaltverzicht-auf-102.html",
     "https://www.deutschlandfunk.de/grossbritannien-frankreich-und-deutschland-fordern-fuehrung-des-iran-zu-gewaltverzicht-auf-100.html",
-    "https://www.deutschlandfunk.de/armee-ruft-bevoelkerung-zum-verlassen-der-stadtviertel-auf-kurdische-kaempfer-wollen-aleppo-nicht-ve-102.html"
+    "https://www.deutschlandfunk.de/armee-ruft-bevoelkerung-zum-verlassen-der-stadtviertel-auf-kurdische-kaempfer-wollen-aleppo-nicht-ve-102.html",
+    "https://www.deutschlandfunk.de/32-afghanen-aus-aufnahmeprogramm-nach-deutschland-gebracht-104.html",
+    "https://www.deutschlandfunk.de/fachpolitiker-fordern-hoehere-steuern-auf-alkohol-104.html"
   ],
   "content_hashes": [
-    "a0b5871f4c4981412938b4151de53b5b",
-    "50699089496a620907a13efa153d7f71",
     "193116df1ccdf1e737bb316d9ab12360",
     "7ad67aeabdc5eef8262b1c2747f0abf7",
     "a0829b5c1e5028c355b35a1c60cc9c04",
@@ -2001,11 +1999,11 @@
     "8eb8dff1064e7952fc814a1df72ba9ec",
     "234522af5329af0af256a20a636c4c0a",
     "db8799280753720e5991da3ad75e94c3",
-    "9babd7c3b5735f6b8cd78369da882260"
+    "9babd7c3b5735f6b8cd78369da882260",
+    "23a6363402496e27412f0787e2a6347b",
+    "5d54de90f31d8552059f6692278aa1d5"
   ],
   "titles": [
-    "Vereitelte Anschlagspläne - Herrmann (CSU): Bayerns Weihnachtsmärkte sind sicher",
-    "Statistisches Bundesamt - Kindeswohlgefährdungen auf neuem Höchststand",
     "Berlin - Staatsanwaltschaft erhebt Anklage gegen AfD-Abgeordneten wegen Hitlergrußes im Bundestagsgebäude",
     "Russia-Ukraine war live: Zelenskyy, US envoys to resume Berlin talks",
     "Russischer Angriffskrieg - Ukraine lässt zehntausende Drohnen in Deutschland herstellen",
@@ -3003,11 +3001,11 @@
     "Demonstrationen gegen Führung in Teheran - Großbritannien, Frankreich und Deutschland fordern Fürung des Iran zu Gewaltverzicht auf",
     "Demonstrationen in mehreren Städten - Großbritannien, Frankreich und Deutschland fordern Führung des Iran zu Gewaltverzicht auf",
     "Proteste in mehreren Städten - Großbritannien, Frankreich und Deutschland fordern Führung des Iran zu Gewaltverzicht auf",
-    "Syrien - Armee ruft Bevölkerung zum Verlassen der Stadtviertel auf - Kurdische Kämpfer wollen Aleppo nicht verlassen"
+    "Syrien - Armee ruft Bevölkerung zum Verlassen der Stadtviertel auf - Kurdische Kämpfer wollen Aleppo nicht verlassen",
+    "Migration - 32 Afghanen aus Aufnahmeprogramm nach Deutschland gebracht",
+    "Gesundheit - Fachpolitiker fordern höhere Steuern auf Alkohol"
   ],
   "hashes": [
-    "2831de73cc2714a840f57737514b1421",
-    "2cec365dfafc2a495911882aa97b5960",
     "882da7294e7507a9d265fd20ec343661",
     "f623ba672a90188d2f3412f343d33c01",
     "eaa8c6dbd8b03269cb1ed503d99361f7",
@@ -4005,6 +4003,8 @@
     "1cd4eaea968bf64501b176aeb078a46b",
     "b46b60415837cadb72a6e9fa24123c98",
     "e432c13530feaa6061073a7ba7633846",
-    "306a9ee6e57b0b3ff5cb14a0b874c49d"
+    "306a9ee6e57b0b3ff5cb14a0b874c49d",
+    "260040e3e9cd8f78791a277ca1753c9a",
+    "895f35d0611dbe5976fc0c2da3fafa2b"
   ]
 }
