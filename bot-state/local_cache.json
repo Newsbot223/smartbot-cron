@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spanien-belegt-airbnb-mit-millionen-bussgeld-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-legt-zehn-punkte-plan-fuer-ruestungskooperation-mit-ukraine-vor-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-vorgehen-moskaus-gegen-deutsche-welle-100.html",
     "https://www.deutschlandfunk.de/deutsche-umwelthilfe-stellt-strafanzeige-wegen-massenhaftem-oelaustritt-aus-pipeline-100.html",
     "https://www.deutschlandfunk.de/ukraine-verhandlungen-116.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesregierung-will-hersteller-von-wegwerf-kleidung-an-entsorgungskosten-beteiligen-altkleidersamml-100.html",
     "https://www.deutschlandfunk.de/fachpolitiker-fordern-hoehere-steuern-auf-alkohol-110.html",
     "https://www.deutschlandfunk.de/machtkampf-zwischen-kurden-und-uebergangsregierung-heftige-gefechte-aus-aleppo-nach-ablauf-von-waffe-100.html",
-    "https://www.deutschlandfunk.de/spacex-erhaelt-gruenes-licht-fuer-7-500-weitere-starlink-satelliten-100.html"
+    "https://www.deutschlandfunk.de/spacex-erhaelt-gruenes-licht-fuer-7-500-weitere-starlink-satelliten-100.html",
+    "https://www.deutschlandfunk.de/lage-in-ukraine-spitzt-sich-wegen-frost-bis-minus-17-grad-und-russischer-angriffe-auf-energieversorg-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-kiew-moskauer-staatsterrorismus-110816906.html"
   ],
   "content_hashes": [
-    "f97549fc49b82076f92bfc8659044f75",
-    "285429c16e886890d2e40175db93f46e",
     "a6e70b39419fa9b5a6160677ca996ea2",
     "8792f001c2aa4092ace8de8658769934",
     "1ad316484178a9c995561517970b84bb",
@@ -2001,11 +1999,11 @@
     "61033354a5af9b0cf7ecafad5afa2c4a",
     "de1647d5ad6de06c3bc54243161b9716",
     "edbbbb5f31bcc6e24692659690b03607",
-    "c4ac6709499e11181b935a40dad19832"
+    "c4ac6709499e11181b935a40dad19832",
+    "99e2f9a29c25fc1157d5aa1434ac9710",
+    "87525d3185caad311c2270f5cf4b0925"
   ],
   "titles": [
-    "Wohnungsmangel - Spanien belegt \"Airbnb\" mit Millionen-Bußgeld",
-    "Russischer Angriffskrieg - Bundesregierung legt Zehn-Punkte-Plan für Rüstungskooperation mit Ukraine vor",
     "Russland - Bundesregierung verurteilt Vorgehen Moskaus gegen Deutsche Welle",
     "Brandenburg - Deutsche Umwelthilfe stellt Strafanzeige wegen massenhaftem Ölaustritt aus Pipeline",
     "Ukraine-Gespräche - Sicherheitsexperte dämpft Hoffnung auf Waffenstillstand",
@@ -3003,11 +3001,11 @@
     "Fast Fashion - Bundesregierung will Hersteller von Wegwerf-Kleidung an Entsorgungskosten beteiligen: \"Altkleidersammlung funktioniert nicht mehr\"",
     "Bundesregierung - Fachpolitiker fordern höhere Steuern auf Alkohol",
     "Syrien - Machtkampf zwischen Kurden und Übergangsregierung: Heftige Gefechte aus Aleppo nach Ablauf von Waffenruhe gemeldet",
-    "USA - SpaceX erhält grünes Licht für 7.500 weitere Starlink-Satelliten"
+    "USA - SpaceX erhält grünes Licht für 7.500 weitere Starlink-Satelliten",
+    "Ohne Heizung, Strom, Wasser - Lage in Ukraine spitzt sich wegen Frost bis minus 17 Grad und russischer Angriffe auf Energieversorgung zu",
+    "Luftangriffe auf die Ukraine: Staatsterrorismus aus Moskau"
   ],
   "hashes": [
-    "23a8acf4f108cf1dcf62f5f291eaf2a1",
-    "ded005862ef3753e0afe6d031e62e5be",
     "38e58e85a115f4b95cd74121291211fe",
     "264c1ed21d8976f78642aafeac2823d5",
     "77eae5024bc5d137df3524c63c7d2bb4",
@@ -4005,6 +4003,8 @@
     "9039ba4b1ef4bdfaca57561e94f40e28",
     "d90d4885ccfedfae0a31caa14cceaf82",
     "d2317f90df96dbb03c1aadfbff7084b0",
-    "a54fedaef0fdff4a2a156f5170d15421"
+    "a54fedaef0fdff4a2a156f5170d15421",
+    "6d7e4531937af2b2834c5de4dceb6923",
+    "48024005c6299dc46ccde5c1a5b4d40f"
   ]
 }
