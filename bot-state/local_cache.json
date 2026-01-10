@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-erhebt-anklage-gegen-afd-abgeordneten-wegen-hitlergrusses-im-bundestagsgebaeude-102.html",
-    "https://www.aljazeera.com/news/liveblog/2025/12/15/russia-ukraine-war-live-zelenskyy-us-envoys-to-resume-berlin-talks?traffic_source=rss",
-    "https://www.deutschlandfunk.de/ukraine-laesst-zehntausende-drohnen-in-deutschland-herstellen-100.html",
     "https://www.deutschlandfunk.de/mitarbeiter-des-louvre-streiken-und-bemaengeln-arbeitsbedingungen-100.html",
     "https://www.spiegel.de/panorama/gesellschaft/statistisches-bundesamt-zahl-der-kindeswohlgefaehrdungen-erreicht-neuen-hoechstwert-a-611dc563-e88b-442a-ac28-f739b9ab58c0#ref=rss",
     "https://www.deutschlandfunk.de/meyer-werft-erhaelt-grossauftrag-der-schweizer-reederei-msc-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/grossbritannien-frankreich-und-deutschland-fordern-fuehrung-des-iran-zu-gewaltverzicht-auf-100.html",
     "https://www.deutschlandfunk.de/armee-ruft-bevoelkerung-zum-verlassen-der-stadtviertel-auf-kurdische-kaempfer-wollen-aleppo-nicht-ve-102.html",
     "https://www.deutschlandfunk.de/32-afghanen-aus-aufnahmeprogramm-nach-deutschland-gebracht-104.html",
-    "https://www.deutschlandfunk.de/fachpolitiker-fordern-hoehere-steuern-auf-alkohol-104.html"
+    "https://www.deutschlandfunk.de/fachpolitiker-fordern-hoehere-steuern-auf-alkohol-104.html",
+    "https://www.deutschlandfunk.de/dgb-warnt-vor-verlorenem-jahr-fuer-beschaeftigte-102.html",
+    "https://www.deutschlandfunk.de/drk-praesident-im-winter-verschlimmert-sich-lage-in-gaza-102.html",
+    "https://www.deutschlandfunk.de/proteste-nach-toedlichen-schuessen-in-minneapolis-halten-an-102.html"
   ],
   "content_hashes": [
-    "193116df1ccdf1e737bb316d9ab12360",
-    "7ad67aeabdc5eef8262b1c2747f0abf7",
-    "a0829b5c1e5028c355b35a1c60cc9c04",
     "d2e11d520236fd86e6216f1d9cc7289f",
     "79d25b7ba621eb63d593abb592c9a31a",
     "11f8dea89b55e2bfc3698a14541bc77e",
@@ -2001,12 +1998,12 @@
     "db8799280753720e5991da3ad75e94c3",
     "9babd7c3b5735f6b8cd78369da882260",
     "23a6363402496e27412f0787e2a6347b",
-    "5d54de90f31d8552059f6692278aa1d5"
+    "5d54de90f31d8552059f6692278aa1d5",
+    "d7bbd23ddc2159611c276a1351b82bd7",
+    "1020dd98ca2c55564e6b10e7e020a3f0",
+    "a61b7345647b26fd49b946f818039df0"
   ],
   "titles": [
-    "Berlin - Staatsanwaltschaft erhebt Anklage gegen AfD-Abgeordneten wegen Hitlergrußes im Bundestagsgebäude",
-    "Russia-Ukraine war live: Zelenskyy, US envoys to resume Berlin talks",
-    "Russischer Angriffskrieg - Ukraine lässt zehntausende Drohnen in Deutschland herstellen",
     "Frankreich - Mitarbeiter des Louvre streiken - und bemängeln Arbeitsbedingungen",
     "Statistisches Bundesamt: Zahl der Kindeswohlgefährdungen erreicht neuen Höchstwert",
     "Papenburg - Meyer-Werft erhält Großauftrag der Schweizer Reederei MSC",
@@ -3003,12 +3000,12 @@
     "Proteste in mehreren Städten - Großbritannien, Frankreich und Deutschland fordern Führung des Iran zu Gewaltverzicht auf",
     "Syrien - Armee ruft Bevölkerung zum Verlassen der Stadtviertel auf - Kurdische Kämpfer wollen Aleppo nicht verlassen",
     "Migration - 32 Afghanen aus Aufnahmeprogramm nach Deutschland gebracht",
-    "Gesundheit - Fachpolitiker fordern höhere Steuern auf Alkohol"
+    "Gesundheit - Fachpolitiker fordern höhere Steuern auf Alkohol",
+    "Wirtschaft - DGB warnt vor verlorenem Jahr für Beschäftigte",
+    "Nahost - DRK-Präsident: Im Winter verschlimmert sich Lage in Gaza",
+    "USA - Proteste nach tödlichen Schüssen in Minneapolis halten an"
   ],
   "hashes": [
-    "882da7294e7507a9d265fd20ec343661",
-    "f623ba672a90188d2f3412f343d33c01",
-    "eaa8c6dbd8b03269cb1ed503d99361f7",
     "ef8cde4e58617d8e0deb0519e1f85a49",
     "18de3d34505ea6aa140a077bf8cc9845",
     "9f3a509cf1106e881ee64554136ea6ed",
@@ -4005,6 +4002,9 @@
     "e432c13530feaa6061073a7ba7633846",
     "306a9ee6e57b0b3ff5cb14a0b874c49d",
     "260040e3e9cd8f78791a277ca1753c9a",
-    "895f35d0611dbe5976fc0c2da3fafa2b"
+    "895f35d0611dbe5976fc0c2da3fafa2b",
+    "a886841d865b189fb560c67abce62c27",
+    "889b9f53b0b28ac3eafe1a8e7ad4965b",
+    "d71aa077d0a6b0d83c58d5c966289493"
   ]
 }
