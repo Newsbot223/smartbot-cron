@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-verhandlungen-trumps-plan-fuer-seinen-clan-110803745.html",
-    "https://www.deutschlandfunk.de/ukrainische-armee-trifft-nach-eigenen-angaben-russisches-u-boot-schwer-100.html",
-    "https://www.deutschlandfunk.de/cdu-und-spd-geben-erstes-personal-fuer-rentenkommission-bekannt-100.html",
     "https://www.deutschlandfunk.de/franzoesischer-senat-verabschiedet-haushalt-vermittlungsausschuss-uebernimmt-100.html",
     "https://www.spiegel.de/ausland/ukraine-krieg-europaeer-wollen-multinationale-truppe-als-sicherheitsgarantie-a-80b3c34e-0105-4e4a-a46a-7b3b100eb3f2#ref=rss",
     "https://www.deutschlandfunk.de/ehemaliger-kongolesischer-rebellenfuehrer-lumbala-zu-30-jahren-haft-verurteilt-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/parteitag-in-rostock-cdu-bestimmt-landes-und-fraktionschef-peters-zum-spitzenkandidaten-fuer-landtag-100.html",
     "https://www.deutschlandfunk.de/parteien-in-groenland-wir-wollen-keine-amerikaner-sein-100.html",
     "https://www.deutschlandfunk.de/grosskundgebung-in-irland-gegen-mercorsur-abkommen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/philipp-birkenmaier-wer-ist-der-neue-bueroleiter-von-merz-accg-110816792.html"
+    "https://www.faz.net/aktuell/politik/inland/philipp-birkenmaier-wer-ist-der-neue-bueroleiter-von-merz-accg-110816792.html",
+    "https://www.deutschlandfunk.de/proteste-im-iran-dauern-an-staatsfuehrung-verschaerft-drohung-gegen-demonstranten-100.html",
+    "https://www.deutschlandfunk.de/syrische-armee-meldet-kontrolle-ueber-aleppo-kurdische-kaempfer-dementieren-102.html",
+    "https://www.deutschlandfunk.de/ukrainischer-maidan-aktivist-nayyem-wir-trauen-diesem-friedensprozess-nicht-100.html"
   ],
   "content_hashes": [
-    "87aaffc12b9a6310c37362cc2aaf6759",
-    "baeba1ba0f0ca2ea7421560cf3c9b2ca",
-    "17307399d1ffcc6898f1655c5b23834d",
     "5f23fd23858f7a7bcd61f44463de2287",
     "94235ef252b06643c487a1d625f1017f",
     "c62bc3a9995f76b4ec6954055b0523e0",
@@ -2001,12 +1998,12 @@
     "82da9f74f52433994aa3bba428d0a8fe",
     "e45c0202e3ebf36dc39bc7885f66b4ca",
     "ed3b96a2a46a0c6dd242531c136a8389",
-    "c1f4e9a9f61476f9373230f22d0bc931"
+    "c1f4e9a9f61476f9373230f22d0bc931",
+    "8c998a501a68b26975b9f7eedb89b37f",
+    "a7c619d7140ccc3d2d46eba67a14eb72",
+    "444590e7837f46abab479e3f549ac514"
   ],
   "titles": [
-    "Ukraine-Gespräche in Berlin: Papiergarantien für die Ukraine genügen nicht",
-    "Ukraine-Krieg - Ukrainische Armee trifft nach eigenen Angaben russisches U-Boot schwer",
-    "Berlin - CDU und SPD geben erstes Personal für Rentenkommission bekannt",
     "Paris - Französischer Senat verabschiedet Haushalt - Vermittlungsausschuss übernimmt",
     "Ukraine-Krieg: Europäer wollen »multinationale Truppe« als Sicherheitsgarantie",
     "Prozess in Paris - Ehemaliger kongolesischer Rebellenführer Lumbala zu 30 Jahren Haft verurteilt",
@@ -3003,12 +3000,12 @@
     "Mecklenburg-Vorpommern - Parteitag in Rostock: CDU bestimmt Landes- und Fraktionschef Peters zum Spitzenkandidaten für Landtagswahl",
     "Nach neuer Trump-Drohung - Parteien in Grönland: \"Wir wollen keine Amerikaner sein\"",
     "Freihandelsabkommen - Großkundgebung in Irland gegen Mercorsur-Abkommen",
-    "Philipp Birkenmaier: Wer ist der neue Büroleiter des Kanzlers?"
+    "Philipp Birkenmaier: Wer ist der neue Büroleiter des Kanzlers?",
+    "Zweiter Abend in Folge - Proteste im Iran dauern an: Staatsführung verschärft Drohung gegen Demonstranten",
+    "Anhaltende Gefechte - Syrische Armee meldet Kontrolle über Aleppo - Kurdische Kämpfer dementieren",
+    "Interview der Woche - Ukrainischer Maidan-Aktivist Nayyem: \"Wir trauen diesem Friedensprozess nicht\""
   ],
   "hashes": [
-    "534822d0cecdf1a5d0d8a1d137b2c980",
-    "389230776131879565eb7701291268e7",
-    "c4993d8830f0288c3ff470d6581c1ca1",
     "f3df23cf483b07c54d5fd6705f24f65b",
     "7d4604d9d956aef4a190b42a4e1f12bd",
     "5fab750ecfd34b098de110a4858e5119",
@@ -4005,6 +4002,9 @@
     "6ae711b9aa9b4e63d3dc122cf98456a6",
     "1fdb7cfd9d27dfac4622db37d3a9df12",
     "0c7038e61e45a0bf56a6eb0862340815",
-    "0f19829d2390518b7b80f63f1bf45de3"
+    "0f19829d2390518b7b80f63f1bf45de3",
+    "851293a74c09387417c694ccde689dab",
+    "96781198ec1b5b48172d6b5190fec0c6",
+    "8faf34b7a95ea2d69706e9e608512c26"
   ]
 }
