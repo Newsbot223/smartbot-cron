@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/will-gegen-wohnungsnot-vorgehen-100.html",
-    "https://www.deutschlandfunk.de/parlament-in-japan-verabschiedet-milliardenschweren-nachtragshaushalt-100.html",
-    "https://www.deutschlandfunk.de/kommission-zur-bewertung-von-schadenersatzforderungen-zugunsten-der-ukraine-gegruendet-102.html",
     "https://www.deutschlandfunk.de/charterflug-bringt-160-afghanen-nach-berlin-100.html",
     "https://www.faz.net/aktuell/politik/ukraine-krieg-die-eu-muss-putin-zeigen-was-sie-kann-110804047.html",
     "https://www.deutschlandfunk.de/europaeische-regierungschefs-fordern-besseren-schutz-der-eu-ostflanke-vor-russland-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zahl-der-toten-bei-protesten-im-iran-steigt-erheblich-an-102.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-mehr-kooperation-mit-israel-fuer-sicherheit-deutschlands-102.html",
     "https://www.deutschlandfunk.de/schweden-investiert-weitere-1-4-milliarden-euro-in-luftabwehr-102.html",
-    "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-102.html"
+    "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-102.html",
+    "https://www.deutschlandfunk.de/iranisches-regime-ruft-zu-kundgebungen-fuer-islamische-republik-auf-104.html",
+    "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-106.html",
+    "https://www.deutschlandfunk.de/parteien-in-sachsen-anhalt-beraten-ueber-moeglichen-amtsverzicht-von-ministerpraesident-haseloff-100.html"
   ],
   "content_hashes": [
-    "16cabbdb9c6f331a834be580e2d36165",
-    "7d5b9d52ecbdcc6eab08034b4926794f",
-    "dcc08c67ec7ee07b7b053344c4a33cbf",
     "8e691a905ac410b3e67154987fa7e2d8",
     "adff79b3d25dff8c1c034b36ec3b1fd0",
     "702f3231f13dbf677e5309ac08078434",
@@ -2001,12 +1998,12 @@
     "f9cba04243bbfc455ba3ffa960831989",
     "ba96bee741609fcbc5b0beefbca1fb17",
     "7904a67e6aec1aebe37afea8113cea5a",
-    "1efd8c237a7914fb755000dd4ad20833"
+    "1efd8c237a7914fb755000dd4ad20833",
+    "3117c65d248e3b63ab4310802587aa59",
+    "f400e0cba0be27da02d31f9dd86c2484",
+    "2a44f909379d6dd92b20200f3e3d677b"
   ],
   "titles": [
-    "EU-Kommission - Will gegen Wohnungsnot vorgehen",
-    "Tokio - Parlament in Japan verabschiedet milliardenschweren Nachtragshaushalt",
-    "Den Haag - Kommission zur Bewertung von Schadenersatzforderungen zugunsten der Ukraine gegründet",
     "Aufnahmezusage - Charterflug bringt 160 Afghanen nach Berlin",
     "Nach Berlin – vor Brüssel: Will Europa weiter ein Papiertiger sein?",
     "Gemeinsame Erklärung - Europäische Regierungschefs fordern besseren Schutz der EU-Ostflanke vor Russland",
@@ -3003,12 +3000,12 @@
     "Demonstrationen - Zahl der Toten bei Protesten im Iran steigt erheblich an",
     "Besuch in Jerusalem - Innenminister Dobrindt: Mehr Kooperation mit Israel für Sicherheit Deutschlands",
     "Bedrohung durch Russland - Schweden investiert weitere 1,4 Milliarden Euro in Luftabwehr",
-    "Nach Protesten - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken"
+    "Nach Protesten - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
+    "Teheran - Iranisches Regime ruft zu Kundgebungen für Islamische Republik auf",
+    "Nach tödlichen Schüssen - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
+    "Magdeburg - Parteien in Sachsen-Anhalt beraten über möglichen Amtsverzicht von Ministerpräsident Haseloff"
   ],
   "hashes": [
-    "91e3e58ea5231ae6cd8d8b43cc1b7404",
-    "ba445b4afa7c2f7dd9c8736864d682cd",
-    "a06f863677ffcb1f3f0e66a9a7cd0074",
     "caf853256d4ad94623cf6bca3e74da51",
     "3976704372978bfc842ea00cbf123e4f",
     "f9218c2928f690d883ff4b189f5f17f8",
@@ -4005,6 +4002,9 @@
     "cf47741ec81aa8787dd303a5bb63d75a",
     "e76a49ca277a0d620593cee73b35bd89",
     "c244d50261ff63979f9f28985aa3a26b",
-    "6f70e81d76742409f5b1b7cba33ff733"
+    "6f70e81d76742409f5b1b7cba33ff733",
+    "976459d4c44840887259cacc790be72d",
+    "bc9c401dc7db7c2ef49b9580766473bc",
+    "9191c16314d09e2ecf9ae1b454c6d35e"
   ]
 }
