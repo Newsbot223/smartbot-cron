@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kleinflugzeug-verunglueckt-mindestens-sieben-tote-100.html",
-    "https://www.deutschlandfunk.de/us-militaer-acht-tote-bei-weiteren-angriffen-auf-mutmassliche-drogenboote-100.html",
     "https://www.deutschlandfunk.de/ex-bundesverkehrsministear-scheuer-sagt-als-zeuge-im-untersuchungsausschuss-des-nrw-landtags-aus-100.html",
     "https://www.deutschlandfunk.de/reaktionen-aus-kiew-und-moskau-auf-die-ukraine-gespraeche-in-berlin-100.html",
     "https://www.deutschlandfunk.de/internet-ausfall-im-bundestag-war-kein-hackerangriff-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/cdu-in-mecklenburg-vorpommern-bestimmt-landeschef-peters-zum-spitzenkandidaten-100.html",
     "https://www.deutschlandfunk.de/hilfswerk-missio-kanzler-merz-soll-sich-in-indien-fuer-den-schutz-von-christen-einsetzen-100.html",
     "https://www.deutschlandfunk.de/baustart-von-groesstem-flughafen-afrikas-in-aethiopien-100.html",
-    "https://www.deutschlandfunk.de/iran-neue-proteste-in-teheran-und-weiteren-staedten-100.html"
+    "https://www.deutschlandfunk.de/iran-neue-proteste-in-teheran-und-weiteren-staedten-100.html",
+    "https://www.deutschlandfunk.de/warken-weist-vorwuerfe-von-us-minister-kennedy-wegen-angeblicher-verfolgung-tausender-aerzte-und-pat-102.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-massnahmenpaket-gegen-linksextremismus-an-100.html"
   ],
   "content_hashes": [
-    "8eff798c9411d602d1d45090c7b27491",
-    "e39da290ea73d2ec08ec2c879969337d",
     "2f53d48c22b4c2dafc13bb3845b7f44a",
     "527f9e60813e2372df6a0c96f477c7fc",
     "37dd6c1b43dd43c74ced7868eb1f5742",
@@ -2001,11 +1999,11 @@
     "51e92dad8f53bbbbc63942e648ce8eda",
     "29fe6856bcd962405d26636ccb8518cb",
     "e1b0127bed8ece4e9191289c7ff2395b",
-    "f4cfebe9dcfcccec3b857b303f481577"
+    "f4cfebe9dcfcccec3b857b303f481577",
+    "9c24fec8ee8d7093ecc5fab60b729de5",
+    "98c9515f19b1efd655db44f2e47c97a9"
   ],
   "titles": [
-    "Mexiko - Kleinflugzeug verunglückt: Mindestens sieben Tote",
-    "Östlicher Pazifik - US-Militär: acht Tote bei weiteren Angriffen auf mutmaßliche Drogenboote",
     "Rahmede - Ex-Bundesverkehrsministear Scheuer sagt als Zeuge im Untersuchungsausschuss des NRW-Landtags aus",
     "Ukraine-Verhandlungen - Die Skepsis überwiegt",
     "Technisches Problem - Internet-Ausfall im Bundestag war kein Hackerangriff",
@@ -3003,11 +3001,11 @@
     "Vor Landtagswahl - CDU in Mecklenburg-Vorpommern bestimmt Landeschef Peters zum Spitzenkandidaten",
     "Zweitägige Reise - Hilfswerk Missio: Kanzler Merz soll sich in Indien für den Schutz von Christen einsetzen",
     "Addis Abeba - Baustart von größtem Flughafen Afrikas in Äthiopien",
-    "Dritter Tag in Folge - Iran: Neue Proteste in Teheran und weiteren Städten"
+    "Dritter Tag in Folge - Iran: Neue Proteste in Teheran und weiteren Städten",
+    "Bundesgesundheitsministerin - Warken weist Vorwürfe von US-Minister Kennedy wegen angeblicher Verfolgung tausender Ärzte und Patienten in Deutschland zurück",
+    "Nach Strom-Anschlag - Bundesinnenminister Dobrindt kündigt Maßnahmenpaket gegen Linksextremismus an"
   ],
   "hashes": [
-    "5c9fd2058b0f0bc082328360b87c9452",
-    "96dfee774a32d13475da18ab46b9bd8c",
     "f782e6c3205eb12831786997e57b06f1",
     "c6533e0287026cfdee6bc999449d5d55",
     "94dd75dc81b7426698960cda601cc5f2",
@@ -4005,6 +4003,8 @@
     "6b0312918755f17e998a47cbfb4c3c5b",
     "c9fdc7b25574ed919ed2ea5aa3f33f2a",
     "110f99059acf711f3bed8b2df3b37601",
-    "edcc5b8c1f94b23be23c5662dfb033db"
+    "edcc5b8c1f94b23be23c5662dfb033db",
+    "4962a26b8be71a30f444d3af4bb5d4f1",
+    "a2693394f64329b82f787087e7693e1d"
   ]
 }
