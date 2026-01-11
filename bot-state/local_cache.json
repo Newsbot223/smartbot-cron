@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ex-bundesverkehrsministear-scheuer-sagt-als-zeuge-im-untersuchungsausschuss-des-nrw-landtags-aus-100.html",
-    "https://www.deutschlandfunk.de/reaktionen-aus-kiew-und-moskau-auf-die-ukraine-gespraeche-in-berlin-100.html",
-    "https://www.deutschlandfunk.de/internet-ausfall-im-bundestag-war-kein-hackerangriff-100.html",
     "https://www.faz.net/aktuell/politik/inland/durch-gauersheim-geht-ein-riss-accg-110803508.html",
     "https://www.deutschlandfunk.de/laschet-cdu-so-weit-war-man-noch-nie-102.html",
     "https://www.deutschlandfunk.de/brutales-patt-im-krieg-sudan-fuehrt-auch-2026-rangliste-von-krisenlaendern-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/baustart-von-groesstem-flughafen-afrikas-in-aethiopien-100.html",
     "https://www.deutschlandfunk.de/iran-neue-proteste-in-teheran-und-weiteren-staedten-100.html",
     "https://www.deutschlandfunk.de/warken-weist-vorwuerfe-von-us-minister-kennedy-wegen-angeblicher-verfolgung-tausender-aerzte-und-pat-102.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-massnahmenpaket-gegen-linksextremismus-an-100.html"
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-massnahmenpaket-gegen-linksextremismus-an-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-getoeteten-demonstranten-im-iran-steigt-laut-aktivisten-auf-mehr-als-100.html",
+    "https://www.deutschlandfunk.de/syrische-armee-verkuendet-ende-des-einsatzes-in-aleppo-102.html",
+    "https://www.deutschlandfunk.de/zweite-runde-der-parlamentswahl-in-myanmar-hat-begonnen-102.html"
   ],
   "content_hashes": [
-    "2f53d48c22b4c2dafc13bb3845b7f44a",
-    "527f9e60813e2372df6a0c96f477c7fc",
-    "37dd6c1b43dd43c74ced7868eb1f5742",
     "045d326740c5399a5a06c793689e443e",
     "48c1793b449d9a5e7597aab3b4f33f11",
     "7ac223b0932c85495e70fe599d1b4e5d",
@@ -2001,12 +1998,12 @@
     "e1b0127bed8ece4e9191289c7ff2395b",
     "f4cfebe9dcfcccec3b857b303f481577",
     "9c24fec8ee8d7093ecc5fab60b729de5",
-    "98c9515f19b1efd655db44f2e47c97a9"
+    "98c9515f19b1efd655db44f2e47c97a9",
+    "d86445fc2eac6bc3db05b0b88810b4d1",
+    "d47cca1b63ad8191b5034fd55efd19ac",
+    "d3f74d70539ce704d098555135d3745b"
   ],
   "titles": [
-    "Rahmede - Ex-Bundesverkehrsministear Scheuer sagt als Zeuge im Untersuchungsausschuss des NRW-Landtags aus",
-    "Ukraine-Verhandlungen - Die Skepsis überwiegt",
-    "Technisches Problem - Internet-Ausfall im Bundestag war kein Hackerangriff",
     "AfD übernimmt Gaststätte: Es geht ein Riss durch Gauersheim",
     "Ukraine-Gespräche - Laschet (CDU): \"So weit war man noch nie\"",
     "Hilfsorganisation IRC - \"Brutales Patt im Krieg\": Sudan führt auch 2026 Rangliste von Krisenländern an",
@@ -3003,12 +3000,12 @@
     "Addis Abeba - Baustart von größtem Flughafen Afrikas in Äthiopien",
     "Dritter Tag in Folge - Iran: Neue Proteste in Teheran und weiteren Städten",
     "Bundesgesundheitsministerin - Warken weist Vorwürfe von US-Minister Kennedy wegen angeblicher Verfolgung tausender Ärzte und Patienten in Deutschland zurück",
-    "Nach Strom-Anschlag - Bundesinnenminister Dobrindt kündigt Maßnahmenpaket gegen Linksextremismus an"
+    "Nach Strom-Anschlag - Bundesinnenminister Dobrindt kündigt Maßnahmenpaket gegen Linksextremismus an",
+    "Proteste gegen das Regime - Zahl der getöteten Demonstranten im Iran steigt laut Aktivisten auf mehr als 100",
+    "Nach tagelangen Kämpfen - Syrische Armee verkündet Ende des Einsatzes in Aleppo",
+    "Myanmar - Zweite Runde der Parlamentswahl in Myanmar hat begonnen"
   ],
   "hashes": [
-    "f782e6c3205eb12831786997e57b06f1",
-    "c6533e0287026cfdee6bc999449d5d55",
-    "94dd75dc81b7426698960cda601cc5f2",
     "f7d86a006a2ab6abede82c6bf3c562c6",
     "ca95a794d851b8ea7fb21045c56e84fb",
     "4b07ad9019cd752ef7e0da83adc050d2",
@@ -4005,6 +4002,9 @@
     "110f99059acf711f3bed8b2df3b37601",
     "edcc5b8c1f94b23be23c5662dfb033db",
     "4962a26b8be71a30f444d3af4bb5d4f1",
-    "a2693394f64329b82f787087e7693e1d"
+    "a2693394f64329b82f787087e7693e1d",
+    "c3be65139d25d741138f00f663c33fdd",
+    "d4bf593e6843d1c5e78adcb4c1a6a830",
+    "08b9decb2ad94e1e295e2e2e2e428b78"
   ]
 }
