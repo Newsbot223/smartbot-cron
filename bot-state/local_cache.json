@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/china-senkt-zoelle-auf-eu-schweinefleisch-deutlich-102.html",
-    "https://www.deutschlandfunk.de/21-jaehriger-in-sachsen-anhalt-unter-terrorverdacht-102.html",
-    "https://www.deutschlandfunk.de/sacharow-preis-an-zwei-in-belarus-und-georgien-inhaftierte-journalisten-verliehen-102.html",
     "https://www.deutschlandfunk.de/deutlicher-anstieg-der-bewerbungen-aus-den-usa-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-einigt-sich-offenbar-bei-buergergeld-reform-100.html",
     "https://www.deutschlandfunk.de/bbc-will-sich-gegen-trumps-milliardenklage-wehren-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/klingbeil-spd-wirbt-vor-us-reise-fuer-mehr-kooperation-bei-kritischen-rohstoffen-102.html",
     "https://www.deutschlandfunk.de/bangladesch-will-sich-an-stabilisierungstruppe-fuer-gaza-beteiligen-100.html",
     "https://www.deutschlandfunk.de/syrische-armee-bringt-ganz-aleppo-unter-kontrolle-kurdische-kaempfer-abgezogen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/dobrindt-verspricht-antworten-auf-brandanschlag-accg-110817516.html"
+    "https://www.faz.net/aktuell/politik/inland/dobrindt-verspricht-antworten-auf-brandanschlag-accg-110817516.html",
+    "https://www.deutschlandfunk.de/signal-der-wertschaetzung-merz-erste-grosse-asienreise-fuehrt-nach-indien-statt-nach-china-oder-japa-100.html",
+    "https://www.deutschlandfunk.de/iran-experte-vali-nasr-hat-zweifel-dass-schah-sohn-pahlavi-ein-zentraler-akteur-eines-wandels-im-lan-100.html",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/iran-maga-wird-trump-nicht-von-militaerschlaegen-abhalten-110817654.html"
   ],
   "content_hashes": [
-    "6aa503090c07cbf185e9b700929a67e1",
-    "7bce4acc257d90ae86913854315027a4",
-    "affd6b82ccc2ad9ad98e034697545b75",
     "1d820b6fd65db7d07a71d52df9d0d61f",
     "abcb81ca0d3161c52e5f9e0cc8346968",
     "c8edd62f268a827e05e1686cece658ae",
@@ -2001,12 +1998,12 @@
     "0051398e41fa41e8c35ed15637adec76",
     "b00adb447971ea7b46621275360126f0",
     "c1abc195e6b688953eda4855d33aa98a",
-    "60725937edbd2c926e3feb9c14aa4c5e"
+    "60725937edbd2c926e3feb9c14aa4c5e",
+    "111ad7072cae690bdad529c48cd5d6cb",
+    "fcc9263a743d5a0dd171f2e26ab5d46a",
+    "9a22fe1183a366b9d7bfbe1516f06ac8"
   ],
   "titles": [
-    "Bis zu 19,8 Prozent - China senkt Zölle auf EU-Schweinefleisch deutlich",
-    "Sachsen-Anhalt - 21-Jähriger in Sachsen-Anhalt unter Terrorverdacht",
-    "Auszeichnung - Sacharow-Preis an zwei in Belarus und Georgien inhaftierte Journalisten verliehen",
     "Stipendien - Deutlicher Anstieg der Bewerbungen aus den USA",
     "Regierungskreise - Bundesregierung einigt sich offenbar bei Bürgergeld-Reform",
     "Medien - BBC will sich gegen Trumps Milliardenklage wehren",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Klingbeil (SPD) wirbt vor US-Reise für mehr Kooperation bei kritischen Rohstoffen",
     "Nahost - Bangladesch will sich an Stabilisierungstruppe für Gaza beteiligen",
     "Nach tagelangen Gefechten - Syrische Armee bringt ganz Aleppo unter Kontrolle - kurdische Kämpfer abgezogen",
-    "Nach Stromausfall: Dobrindt verspricht Antworten auf Brandanschlag"
+    "Nach Stromausfall: Dobrindt verspricht Antworten auf Brandanschlag",
+    "Diplomatie - Signal der Wertschätzung: Merz erste große Asienreise führt nach Indien statt nach China oder Japan",
+    "\"Cicero\"-Interview - Iran-Experte Vali Nasr hat Zweifel, dass Schah-Sohn Pahlavi ein zentraler Akteur eines Wandels im Land sein könnte",
+    "Drohung gegen Iran: Trump und der Stachel im amerikanischen Fleisch"
   ],
   "hashes": [
-    "43df9a1fb96ce19128bdc1b906ef9f98",
-    "c9ecd93e133cdb366654756eca432f76",
-    "3b4884457572cb8e94a718efa3374702",
     "bd721144abd2eb30dbbd74da05e221f2",
     "ce2775e6409b7099d5fc61d56febe095",
     "529705b361e9feb6004faf6be82fa3d4",
@@ -4005,6 +4002,9 @@
     "a9e8dbc1caf646d040f07a0796f6d44f",
     "aadcdbadb6be0df3fc40e84401d414af",
     "fc54761f90470566661dda2350d431d2",
-    "367da2a29a3d43c92edd81f1a8e1ec95"
+    "367da2a29a3d43c92edd81f1a8e1ec95",
+    "388c011a4c6747b0c164212efae671ba",
+    "7cf72f201984def4ef29f0925e6a9fb4",
+    "fb8d38b382aaf5a34d84d2957f7b353a"
   ]
 }
