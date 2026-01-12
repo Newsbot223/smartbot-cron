@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-autobauer-tesla-will-werk-bei-berlin-erweitern-100.html",
-    "https://www.faz.net/aktuell/politik/inland/passau-deutscher-gibt-sich-bei-sprachpruefung-als-afghane-aus-200364035.html",
     "https://www.deutschlandfunk.de/arbeitslosenquote-in-den-usa-erreicht-im-november-vier-jahres-hoch-100.html",
     "https://www.deutschlandfunk.de/kanzler-merz-chancen-auf-einigung-in-der-eu-bei-50-50-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-stellt-massnahmen-gegen-wohnungsnot-vor-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kubilius-schlaegt-gruendung-europaeischer-armee-vor-102.html",
     "https://www.deutschlandfunk.de/waldbraende-in-patagonien-breiten-sich-weiter-aus-15-000-hektar-flaeche-zerstoert-100.html",
     "https://www.deutschlandfunk.de/trump-iran-hat-verhandlungen-vorgeschlagen-100.html",
-    "https://www.deutschlandfunk.de/justiz-ermittelt-offenbar-gegen-notenbank-chef-powell-102.html"
+    "https://www.deutschlandfunk.de/justiz-ermittelt-offenbar-gegen-notenbank-chef-powell-102.html",
+    "https://www.deutschlandfunk.de/indiens-premier-modi-empfaengt-bundeskanzler-merz-besuch-in-gandhi-gedenkstaette-100.html",
+    "https://www.deutschlandfunk.de/klingbeil-spd-wirbt-vor-gespraechen-in-den-usa-fuer-mehr-kooperation-bei-kritischen-rohstoffen-100.html"
   ],
   "content_hashes": [
-    "715b6540553d2b261c449ff442678e2a",
-    "6e81414bab36f6058240cb2be1faf9f5",
     "6608475aedd182fdb8b2ed25c081c162",
     "9d6e59da18d2ae8dd92d575a860bdddf",
     "00474c5db91078aa5aabb56333d341c7",
@@ -2001,11 +1999,11 @@
     "1b68119c397d205cdd4c977021980551",
     "9f2cca9a1513d8e3530b9bea555a951a",
     "97c1df241645098ff963d2a923a46493",
-    "d3b5bd96ec2e3e08bc578a52fa90f993"
+    "d3b5bd96ec2e3e08bc578a52fa90f993",
+    "66c0d22d03668259409dc4d4d6e20426",
+    "4e76a401301561ddb5bf7ff1170ec106"
   ],
   "titles": [
-    "Brandenburg - US-Autobauer Tesla will Werk bei Berlin erweitern",
-    "Betrug mit falschem Pass: Deutscher gibt sich bei Sprachprüfung als Afghane aus",
     "Wirtschaft - Arbeitslosenquote in den USA erreicht im November Vier-Jahres-Hoch",
     "Eingefrorenes russisches Vermögen - Kanzler Merz: Chancen auf Einigung in der EU \"bei 50:50\"",
     "Brüssel - EU-Kommission stellt Maßnahmen gegen Wohnungsnot vor",
@@ -3003,11 +3001,11 @@
     "EU-Verteidigungskommissar - Kubilius schlägt Gründung europäischer Armee vor",
     "Argentinien - Waldbrände in Patagonien breiten sich weiter aus: 15.000 Hektar Fläche zerstört",
     "USA - Trump: Iran hat Verhandlungen vorgeschlagen",
-    "USA - Justiz ermittelt offenbar gegen Notenbank-Chef Powell"
+    "USA - Justiz ermittelt offenbar gegen Notenbank-Chef Powell",
+    "Auslandreise - Indiens Premier Modi empfängt Bundeskanzler Merz - Besuch in Gandhi-Gedenkstätte",
+    "Finanzminister - Klingbeil (SPD) wirbt vor Gesprächen in den USA für mehr Kooperation bei kritischen Rohstoffen"
   ],
   "hashes": [
-    "ac13546c4c28332f28bf5839c05c0cf9",
-    "eaa5bee32479265565882406572e6a45",
     "c062f279fd87ba1e26aefdbc4ee62f7b",
     "f17c0152c232ae27e6845759666a83f0",
     "f3de3c3b1ed94686f331cd387db4faea",
@@ -4005,6 +4003,8 @@
     "c56ba82d95b3beebf3a2a89febac32c8",
     "2458462bc55ecfeadca8821d53f2bef6",
     "73649a8ba1630b071206054f76db5b94",
-    "2f10b2c5d5c8013cc6a4f96e9fc79164"
+    "2f10b2c5d5c8013cc6a4f96e9fc79164",
+    "7feb560cc4f3e2969f1c504dd71ad1d3",
+    "d801d4dcc3699b5e888e7121d1004c56"
   ]
 }
