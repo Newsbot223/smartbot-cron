@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gebuehren-fuer-rettungsdienste-interview-mit-tanja-machalet-spd-mdb-100.html",
-    "https://www.spiegel.de/wirtschaft/quantentechnologie-oecd-und-epa-studie-deutschland-auf-platz-fuenf-im-globalen-quantenrennen-a-170c4fae-70a4-484c-88aa-8b639565e450#ref=rss",
     "https://www.deutschlandfunk.de/kabinett-beraet-ueber-buergergeld-reform-linnemann-verteidigt-verschaerfungen-bei-pflichtverletzunge-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-co2-importgebuehr-auf-maschinen-ausweiten-100.html",
     "https://www.deutschlandfunk.de/klassenzimmer-in-u-bahn-station-unicef-macht-auf-lage-der-kinder-in-der-ukraine-aufmerksam-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gasversorgung-trotz-niedrigerer-speicherstaende-gesichert-100.html",
     "https://www.deutschlandfunk.de/posttraumatische-belastungsstoerung-ist-laut-urteil-berufskrankheit-100.html",
     "https://www.deutschlandfunk.de/pflegekraefte-abwanderung-erhoeht-sterblichkeit-im-suedwesten-102.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-will-mehr-verfassungsschuetzer-gegen-linksextremisten-einsetzen-102.html"
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-will-mehr-verfassungsschuetzer-gegen-linksextremisten-einsetzen-102.html",
+    "https://www.deutschlandfunk.de/frankreich-startet-rekrutierungskampagne-fuer-freiwilligen-wehrdienst-100.html",
+    "https://www.deutschlandfunk.de/britische-behoerde-ermittelt-gegen-x-wegen-sexualisierter-bilder-der-ki-grok-102.html"
   ],
   "content_hashes": [
-    "c128f29fdb9824032dcd275d8d116e39",
-    "9de6f18806cdd88a927523730206e746",
     "ad08369ad2578eecc355b8b181e2ebc1",
     "39af06621d95c8a3402c7db6bdeab3e0",
     "8e90681fba305c12b3868fd2c8f98128",
@@ -2001,11 +1999,11 @@
     "ef6655e845dae6b503cbce80bd8eedd1",
     "431524ca8c7dc5bc0d6ecdeb3ff112c5",
     "02468e3f4c66c28c29b55198885db3a6",
-    "e0b68c5111fe476adba140f5b5a2b9be"
+    "e0b68c5111fe476adba140f5b5a2b9be",
+    "a149a91290a407950c29e3ae2fcd0eee",
+    "c0d97346bd04d26ab47b88b918815fde"
   ],
   "titles": [
-    "Patientenversorgung - Wer zahlt für den Rettungsdienst?",
-    "Quantentechnologie: OECD- und EPA-Studie - Deutschland auf Platz fünf im globalen Quantenrennen",
     "Sozialstaat - Kabinett berät über Bürgergeld-Reform - Linnemann verteidigt Verschärfungen bei Pflichtverletzungen",
     "Stahl und Aluminium - EU-Kommission will CO2-Importgebühr auf Maschinen ausweiten",
     "Ukraine-Krieg - Klassenzimmer in U-Bahn-Station - Unicef macht auf Lage der Kinder in der Ukraine aufmerksam",
@@ -3003,11 +3001,11 @@
     "Bundesnetzagentur - Gasversorgung trotz niedrigerer Speicherstände gesichert",
     "Landessozialgericht Baden-Württemberg - Posttraumatische Belastungsstörung ist laut Urteil Berufskrankheit",
     "Soziales - Pflegekräfte-Abwanderung erhöht Sterblichkeit im Südwesten",
-    "Nach Anschlag auf Stromversorgung - Bundesinnenminister Dobrindt will mehr Verfassungsschützer gegen Linksextremisten einsetzen"
+    "Nach Anschlag auf Stromversorgung - Bundesinnenminister Dobrindt will mehr Verfassungsschützer gegen Linksextremisten einsetzen",
+    "Reaktion auf russische Bedrohung - Frankreich startet Rekrutierungskampagne für freiwilligen Wehrdienst",
+    "London - Britische Behörde ermittelt gegen X wegen sexualisierter Bilder der KI Grok"
   ],
   "hashes": [
-    "dff5eac193487a46f0b7ceb97fd97596",
-    "8b2a10d68d2452315dbb8e3335ec356b",
     "929a5fc8ddacbfb2b40b04244f2fde47",
     "03a4badc85ea3bf05f327e043e44aa0c",
     "58bbad3f270fbf1a91e41644d21a27d3",
@@ -4005,6 +4003,8 @@
     "003d13526fa85dc3fe348cd64ddcca43",
     "f73f7160df8bafa1c0ace1048a6c28c2",
     "4ddf5211be6182cab6842ec7256365e3",
-    "dc79b5cc36620e7fdd5bf44f3b7a5965"
+    "dc79b5cc36620e7fdd5bf44f3b7a5965",
+    "08b1d1027613999d06fd4c55f566ee0a",
+    "b173bd2f15a331dd102173e8dd52324f"
   ]
 }
