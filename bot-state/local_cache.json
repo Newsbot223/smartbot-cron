@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kirchen-kritisieren-neuausrichtung-der-regierung-100.html",
-    "https://www.deutschlandfunk.de/grossbritannien-wird-ab-2027-wieder-am-erasmus-programm-teilnehmen-100.html",
     "https://www.deutschlandfunk.de/grundsicherung-im-kabinett-interview-mit-cdu-generalsekretaer-carsten-linnemann-100.html",
     "https://www.deutschlandfunk.de/kabinett-beschliesst-buergergeld-reform-linnemann-cdu-verteidigt-verschaerfungen-bei-pflichtverletzu-100.html",
     "https://www.deutschlandfunk.de/beschaeftigte-im-louvre-wollen-weiter-streiken-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/soeder-laesst-schirmherrschaft-fuer-weimer-gipfel-ruhen-110817861.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-entwicklungszusammenarbeit-neu-ausrichten-fokus-auf-aermste-laender-der-welt-102.html",
     "https://www.deutschlandfunk.de/deutsche-autohersteller-verkaufen-weniger-autos-in-china-und-den-usa-zugewinne-in-europa-102.html",
-    "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-von-rund-einer-million-euro-fuer-private-erbschaften-und-hoehere-steuern-a-100.html"
+    "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-von-rund-einer-million-euro-fuer-private-erbschaften-und-hoehere-steuern-a-100.html",
+    "https://www.deutschlandfunk.de/cdu-in-sachsen-anhalt-stimmt-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
+    "https://www.deutschlandfunk.de/im-vergangenen-jahr-mehr-als-2-500-ukrainische-zivilisten-durch-russische-angriffe-getoetet-100.html"
   ],
   "content_hashes": [
-    "5ec47142dc491c6ea332ed60dac016f6",
-    "8a0bdeffe4b0967ed0299c01fa3f44fa",
     "3b51180cd2a759cb7e4a2b75e157f38c",
     "02e2dcb9524b89166b4139981aea617d",
     "7505fc6b0289f828dd7023fb51a48800",
@@ -2001,11 +1999,11 @@
     "3980e84f83f9e4796dabca51db04abb9",
     "9e146470292c5ecc1138565bdbf88135",
     "e460ea1383f2febedb14d3031a60bedd",
-    "de46ed48202be2ee24bbd2a03d019484"
+    "de46ed48202be2ee24bbd2a03d019484",
+    "d3d00bd78687aca8527161362bdf76c0",
+    "f57e32474eb83c5fa483090bb7bd2920"
   ],
   "titles": [
-    "Rüstungsexportpolitik - Kirchen kritisieren Neuausrichtung der Regierung",
-    "EU Stipendium - Großbritannien wird ab 2027 wieder am Erasmus-Programm teilnehmen",
     "Grundsicherung - Linnemann (CDU): Bürgergeldreform ist \"verfassungsfest“",
     "Sozialstaat - Kabinett beschließt Bürgergeld-Reform - Linnemann (CDU) verteidigt Verschärfungen bei Pflichtverletzungen",
     "Paris - Beschäftigte im Louvre wollen weiter streiken",
@@ -3003,11 +3001,11 @@
     "Tegernsee-Gipfel: Bayerische Staatsregierung zieht sich aus Weimer-Gipfel zurück",
     "Einsparungen - Bundesregierung will Entwicklungszusammenarbeit neu ausrichten - Fokus auf ärmste Länder der Welt",
     "VW, Mercedes, BMW - Deutsche Autohersteller verkaufen weniger Autos in China und den USA - Zugewinne in Europa",
-    "Erbschaftssteuer - SPD will Lebensfreibetrag von rund einer Million Euro für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften"
+    "Erbschaftssteuer - SPD will Lebensfreibetrag von rund einer Million Euro für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften",
+    "Magdeburg - CDU in Sachsen-Anhalt stimmt für vorzeitigen Wechsel des Ministerpräsidenten",
+    "Bilanz für 2025 - Im vergangenen Jahr mehr als 2.500 ukrainische Zivilisten durch russische Angriffe getötet"
   ],
   "hashes": [
-    "ceb668e3ab9b4bcb084062980f07b0cc",
-    "209e3c0e5f3ee3d17014811cc5eedc78",
     "eed383bc6dff65a2c40738367222e477",
     "55a61b4261b4baf43d74f91057c2900d",
     "c6083fa2d590cb6b3b39d4a75625c8e8",
@@ -4005,6 +4003,8 @@
     "374478902ba8b768530b52b236933dd8",
     "dd2aed98e3317d38fcd132723e201941",
     "aa21cf4aa576af8b081b38175412eb25",
-    "47c82301dbeade3769ead666dd4a6dc6"
+    "47c82301dbeade3769ead666dd4a6dc6",
+    "3e555717c3ce8c8310b2700f2cbd755e",
+    "c47566a921df7c1f265ecb1ebb99ed67"
   ]
 }
