@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trump-kuendigt-blockade-sanktionierter-oeltanker-nach-venezuela-an-100.html",
-    "https://www.deutschlandfunk.de/krankenkassen-dringen-auf-einigung-fuer-ausgabenbremse-102.html",
-    "https://www.deutschlandfunk.de/tausende-slowaken-protestieren-gegen-ende-der-whistleblower-behoerde-100.html",
-    "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michele-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
     "https://www.deutschlandfunk.de/abstimmung-ueber-asylverfahren-in-nicht-eu-laendern-100.html",
     "https://www.deutschlandfunk.de/meyer-gruene-abkommen-mit-niederlanden-widerspricht-klimazielen-100.html",
     "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-dobrindt-will-nach-anschlag-haerter-gegen-linksextremisten-vorgehen-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-deutschland-und-israel-unterzeichnen-sicherheitspakt-faz-110093143.html",
     "https://www.deutschlandfunk.de/china-warnt-usa-vor-einmischung-im-iran-100.html",
-    "https://www.deutschlandfunk.de/merz-haelt-abschluss-von-eu-indien-freihandelsabkommen-ende-januar-fuer-moeglich-100.html"
+    "https://www.deutschlandfunk.de/merz-haelt-abschluss-von-eu-indien-freihandelsabkommen-ende-januar-fuer-moeglich-100.html",
+    "https://www.deutschlandfunk.de/merz-setzt-auf-unterzeichnung-des-freihandelskommens-zwischen-eu-und-indien-schon-ende-januar-100.html",
+    "https://www.deutschlandfunk.de/teheran-bestellt-britischen-botschafter-ein-demonstrant-riss-flagge-von-iranischer-botschaft-in-lond-100.html",
+    "https://www.deutschlandfunk.de/goldpreis-auf-neuem-rekordhoch-100.html",
+    "https://www.deutschlandfunk.de/dresdner-hauptbahnhof-nach-abschluss-der-bauarbeiten-wieder-geoeffnet-100.html"
   ],
   "content_hashes": [
-    "8710a3e415f1a74bf85ce1ef28f6bc88",
-    "1c7714f063ecaba9e8a41c8db0c1ebfb",
-    "2a11c59a7b6b88cdfb978fd39a8bb5ca",
-    "89c46ec7f2a0be2744e472e3d4b0dda9",
     "c0d02c2f4daccd076809d4c7d89ce5fe",
     "5d33341fff4468a9bc95cee72c73a50f",
     "1ecec21f7f616967bedf59d390ad81bd",
@@ -2001,13 +1997,13 @@
     "fac86db257ca85eb73d2911bfc8c5624",
     "d9a65a7ed7f58e1dcd1713e8937a49a5",
     "4943ad242d63e51cc2bd12c8a0e71291",
-    "a3d28e809afe11220e1a45358bf21e05"
+    "a3d28e809afe11220e1a45358bf21e05",
+    "dce38e9c3c9b3ca8d6a7e85ae65059ad",
+    "129faf0b071e2824d412cd21fcd237fd",
+    "35d7f4685dcc0a6fea9068f929cd58f9",
+    "8d1e624840d83aa20f394dd9c55b0ce8"
   ],
   "titles": [
-    "Südamerika - Trump kündigt Blockade sanktionierter Öltanker nach Venezuela an",
-    "Vermittlungsausschuss - Krankenkassen dringen auf Einigung für Ausgabenbremse",
-    "Schutz von Informanten - Tausende Slowaken protestieren gegen Ende der Whistleblower-Behörde",
-    "US-Justiz - Tatverdächtiger Sohn von Rob und Michele Reiner wird wegen zweifachen Mordes angeklagt",
     "EU-Parlament - Abstimmung über Asylverfahren in Nicht-EU-Ländern",
     "Gasförderung in der Nordsee - Meyer (Grüne): Abkommen mit Niederlanden widerspricht Klimazielen",
     "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition",
@@ -3003,13 +2999,13 @@
     "Deutschland-Blog: Dobrindt will nach Anschlag härter gegen Linksextremisten vorgehen",
     "Deutschland-Blog: Bei Besuch Dobrindts: Deutschland und Israel unterzeichnen Sicherheitspakt",
     "Gewalt gegen Protestierende - China warnt USA vor Einmischung im Iran",
-    "Ahmedabad - Merz hält Abschluss von EU-Indien-Freihandelsabkommen Ende Januar für möglich"
+    "Ahmedabad - Merz hält Abschluss von EU-Indien-Freihandelsabkommen Ende Januar für möglich",
+    "Ahmedabad - Merz setzt auf Unterzeichnung des Freihandelskommens zwischen EU und Indien schon Ende Januar",
+    "Islamistisches Regime - Teheran bestellt britischen Botschafter ein: Demonstrant riss Flagge von iranischer Botschaft in London",
+    "Anlageklasse - Goldpreis auf neuem Rekordhoch",
+    "Bahnverkehr - Dresdner Hauptbahnhof nach Abschluss der Bauarbeiten wieder geöffnet"
   ],
   "hashes": [
-    "858256e71e93c7bcc878055179d6bd37",
-    "916338dff3c8d59590ee9ca825799b91",
-    "3f41b372976df60b2e1fcb51e7f942e9",
-    "f41d6d381ba70eed52595605c4492d06",
     "97f3a4619212de3bf9987bd964d5d91c",
     "4bb424c1f3a05a0d4347bc7c8a42b92c",
     "c55647fdba1ef737f56b5d96ca2e6916",
@@ -4005,6 +4001,10 @@
     "61892f9d6dcc1c77d728e0d3ea3aa23c",
     "553d7b5dc7f930a785f720b36a54233f",
     "358b108ed47a35cf884637d0b9b95786",
-    "75ed8d7f4bf74babae6ffc286e599000"
+    "75ed8d7f4bf74babae6ffc286e599000",
+    "d500fb481878388f0863f8bf5b379767",
+    "e24257c0dddf7a96159631e2005f8aa7",
+    "641b67c78cd4a239205320d6a62adbd5",
+    "c66161393aa07e22655f9f3c70c30dff"
   ]
 }
