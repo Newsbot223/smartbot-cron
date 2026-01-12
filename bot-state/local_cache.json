@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/grundsicherung-im-kabinett-interview-mit-cdu-generalsekretaer-carsten-linnemann-100.html",
-    "https://www.deutschlandfunk.de/kabinett-beschliesst-buergergeld-reform-linnemann-cdu-verteidigt-verschaerfungen-bei-pflichtverletzu-100.html",
-    "https://www.deutschlandfunk.de/beschaeftigte-im-louvre-wollen-weiter-streiken-100.html",
     "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-bundesregierung-beschliesst-grundsicherung-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/ein-europaeisches-kampfflugzeug-110804278.html",
     "https://www.deutschlandfunk.de/eu-parlament-stimmt-moeglichkeit-zur-abschiebung-in-nicht-eu-laender-zu-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutsche-autohersteller-verkaufen-weniger-autos-in-china-und-den-usa-zugewinne-in-europa-102.html",
     "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-von-rund-einer-million-euro-fuer-private-erbschaften-und-hoehere-steuern-a-100.html",
     "https://www.deutschlandfunk.de/cdu-in-sachsen-anhalt-stimmt-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
-    "https://www.deutschlandfunk.de/im-vergangenen-jahr-mehr-als-2-500-ukrainische-zivilisten-durch-russische-angriffe-getoetet-100.html"
+    "https://www.deutschlandfunk.de/im-vergangenen-jahr-mehr-als-2-500-ukrainische-zivilisten-durch-russische-angriffe-getoetet-100.html",
+    "https://www.deutschlandfunk.de/cdu-und-spd-in-sachsen-anhalt-stimmen-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
+    "https://www.deutschlandfunk.de/spanische-ermittler-entdecken-zehn-tonnen-kokain-in-frachter-im-atlantik-100.html",
+    "https://www.deutschlandfunk.de/sirenenfehlalarm-in-halle-stadt-geht-von-angriff-aus-100.html"
   ],
   "content_hashes": [
-    "3b51180cd2a759cb7e4a2b75e157f38c",
-    "02e2dcb9524b89166b4139981aea617d",
-    "7505fc6b0289f828dd7023fb51a48800",
     "b69acc2897b1dd9facfe3a1c59c482f4",
     "fe5e3401b56a7bad3845e82ce14a1d5d",
     "8e92e66b04ca144ecdf4eed9b8fedb49",
@@ -2001,12 +1998,12 @@
     "e460ea1383f2febedb14d3031a60bedd",
     "de46ed48202be2ee24bbd2a03d019484",
     "d3d00bd78687aca8527161362bdf76c0",
-    "f57e32474eb83c5fa483090bb7bd2920"
+    "f57e32474eb83c5fa483090bb7bd2920",
+    "c888980978b517bb0da7d202dbc7529f",
+    "40e1b4a0ec6d5c666385d7ae4fe81921",
+    "e393857ebbbf6b262759e8ad4813a7f0"
   ],
   "titles": [
-    "Grundsicherung - Linnemann (CDU): Bürgergeldreform ist \"verfassungsfest“",
-    "Sozialstaat - Kabinett beschließt Bürgergeld-Reform - Linnemann (CDU) verteidigt Verschärfungen bei Pflichtverletzungen",
-    "Paris - Beschäftigte im Louvre wollen weiter streiken",
     "Liveblog Bundespolitik: Bundesregierung beschließt Grundsicherung",
     "Kampfflugzeug FCAS: Das eitle Gerangel schwächt Europa",
     "Asylpolitik - EU-Parlament stimmt Möglichkeit zur Abschiebung in Nicht-EU-Länder zu",
@@ -3003,12 +3000,12 @@
     "VW, Mercedes, BMW - Deutsche Autohersteller verkaufen weniger Autos in China und den USA - Zugewinne in Europa",
     "Erbschaftssteuer - SPD will Lebensfreibetrag von rund einer Million Euro für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften",
     "Magdeburg - CDU in Sachsen-Anhalt stimmt für vorzeitigen Wechsel des Ministerpräsidenten",
-    "Bilanz für 2025 - Im vergangenen Jahr mehr als 2.500 ukrainische Zivilisten durch russische Angriffe getötet"
+    "Bilanz für 2025 - Im vergangenen Jahr mehr als 2.500 ukrainische Zivilisten durch russische Angriffe getötet",
+    "Magdeburg - CDU und SPD in Sachsen-Anhalt stimmen für vorzeitigen Wechsel des Ministerpräsidenten",
+    "Drogenschmuggel - Spanische Ermittler entdecken zehn Tonnen Kokain in Frachter im Atlantik",
+    "Kritische Infrastruktur - Sirenenfehlalarm in Halle: Stadt geht von Angriff aus"
   ],
   "hashes": [
-    "eed383bc6dff65a2c40738367222e477",
-    "55a61b4261b4baf43d74f91057c2900d",
-    "c6083fa2d590cb6b3b39d4a75625c8e8",
     "c91bd860f38a51727aa1bb03501ca6a1",
     "84f1f7286e99f573986ee7254673d445",
     "4d236705583b35c6310e784a120295be",
@@ -4005,6 +4002,9 @@
     "aa21cf4aa576af8b081b38175412eb25",
     "47c82301dbeade3769ead666dd4a6dc6",
     "3e555717c3ce8c8310b2700f2cbd755e",
-    "c47566a921df7c1f265ecb1ebb99ed67"
+    "c47566a921df7c1f265ecb1ebb99ed67",
+    "0e14bcb97c4e77f7d895614bcfd4d4a2",
+    "90b5fe25802c429b5d8edabd7254814e",
+    "32fdc1392293326193beb3b8a5b8c083"
   ]
 }
