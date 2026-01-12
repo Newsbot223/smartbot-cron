@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/meyer-gruene-abkommen-mit-niederlanden-widerspricht-klimazielen-100.html",
-    "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-100.html",
-    "https://www.deutschlandfunk.de/machalet-spd-fordert-bundeseinheitliche-regelung-bei-kostenuebernahme-von-rettungseinsaetzen-100.html",
     "https://www.deutschlandfunk.de/auftragspolster-der-deutschen-industrie-waechst-dritten-monat-in-folge-102.html",
     "https://www.deutschlandfunk.de/iea-rekordnachfrage-nach-kohle-in-diesem-jahr-100.html",
     "https://www.deutschlandfunk.de/arbeiterwohlfahrt-kritisiert-geplante-reform-der-koalition-linnemann-haelt-sie-fuer-zumutbar-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/teheran-bestellt-britischen-botschafter-ein-demonstrant-riss-flagge-von-iranischer-botschaft-in-lond-100.html",
     "https://www.deutschlandfunk.de/goldpreis-auf-neuem-rekordhoch-100.html",
     "https://www.deutschlandfunk.de/dresdner-hauptbahnhof-nach-abschluss-der-bauarbeiten-wieder-geoeffnet-100.html",
-    "https://www.deutschlandfunk.de/tieraerzte-fordern-ende-der-anbindehaltung-von-rindern-100.html"
+    "https://www.deutschlandfunk.de/tieraerzte-fordern-ende-der-anbindehaltung-von-rindern-100.html",
+    "https://www.deutschlandfunk.de/china-und-eu-einigen-sich-auf-mindestpreise-fuer-chinesische-e-autos-100.html",
+    "https://www.deutschlandfunk.de/diskussion-ueber-verzicht-auf-schriftliches-dividieren-in-der-grundschule-102.html",
+    "https://www.deutschlandfunk.de/gasversorgung-trotz-niedrigerer-speicherstaende-gesichert-100.html"
   ],
   "content_hashes": [
-    "5d33341fff4468a9bc95cee72c73a50f",
-    "1ecec21f7f616967bedf59d390ad81bd",
-    "c11a01d376f6312b3853ff5e2d46b079",
     "1aadce6238f46cbd68305221bb5b564d",
     "28b13a3a70f0a3a169b9d4c33bce1e29",
     "9d7aeb5414242f7d97dc360700334dc3",
@@ -2001,12 +1998,12 @@
     "129faf0b071e2824d412cd21fcd237fd",
     "35d7f4685dcc0a6fea9068f929cd58f9",
     "8d1e624840d83aa20f394dd9c55b0ce8",
-    "14de3728ff8d3039ec2ae44c3e20cc6e"
+    "14de3728ff8d3039ec2ae44c3e20cc6e",
+    "e16df16ff2651b0b8f236ac6fe29c217",
+    "ebc10cc1bd14f1c9d17f18b90bc8bd75",
+    "ef6655e845dae6b503cbce80bd8eedd1"
   ],
   "titles": [
-    "Gasförderung in der Nordsee - Meyer (Grüne): Abkommen mit Niederlanden widerspricht Klimazielen",
-    "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition",
-    "Notfallversorgung - Machalet (SPD) fordert bundeseinheitliche Regelung bei Kostenübernahme von Rettungseinsätzen",
     "Wirtschaft - Auftragspolster der deutschen Industrie wächst dritten Monat in Folge",
     "Energie - IEA: Rekordnachfrage nach Kohle in diesem Jahr",
     "Diskussion über Bürgergeld - Arbeiterwohlfahrt kritisiert geplante Reform der Koalition - Linnemann hält sie für zumutbar",
@@ -3003,12 +3000,12 @@
     "Islamistisches Regime - Teheran bestellt britischen Botschafter ein: Demonstrant riss Flagge von iranischer Botschaft in London",
     "Anlageklasse - Goldpreis auf neuem Rekordhoch",
     "Bahnverkehr - Dresdner Hauptbahnhof nach Abschluss der Bauarbeiten wieder geöffnet",
-    "Offener Brief - Tierärzte fordern Ende der Anbindehaltung von Rindern"
+    "Offener Brief - Tierärzte fordern Ende der Anbindehaltung von Rindern",
+    "Wirtschaft - China und EU einigen sich auf Mindestpreise für chinesische E-Autos",
+    "Niedersachsen - Diskussion über Verzicht auf schriftliches Dividieren in der Grundschule",
+    "Bundesnetzagentur - Gasversorgung trotz niedrigerer Speicherstände gesichert"
   ],
   "hashes": [
-    "4bb424c1f3a05a0d4347bc7c8a42b92c",
-    "c55647fdba1ef737f56b5d96ca2e6916",
-    "ab2201323cf7d631f84a77d443e7f90a",
     "f91498d3182f2e0d2f5948e08e9d6331",
     "8d4982db059e9283cf90baba5714dbd1",
     "45693d214a9e0c3cdf2e634a2e523bc4",
@@ -4005,6 +4002,9 @@
     "e24257c0dddf7a96159631e2005f8aa7",
     "641b67c78cd4a239205320d6a62adbd5",
     "c66161393aa07e22655f9f3c70c30dff",
-    "d1f31668745ff5121d49c6b6a204b950"
+    "d1f31668745ff5121d49c6b6a204b950",
+    "0fb53e37975022ea43af3a0ab17f29d1",
+    "a59a975b8239bfabb935431c0b114af9",
+    "003d13526fa85dc3fe348cd64ddcca43"
   ]
 }
