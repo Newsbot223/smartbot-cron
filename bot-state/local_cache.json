@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kloeckner-warnt-vor-toedlichem-antisemitismus-auch-in-deutschland-102.html",
-    "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-verlaengert-corona-notlage-das-steckt-dahinter-110804554.html",
-    "https://www.deutschlandfunk.de/gemeinsames-drohnenabwehrzentrum-von-bund-und-laendern-eroeffnet-100.html",
     "https://www.deutschlandfunk.de/haushaltsausschuss-billigt-ruestungskaeufe-fuer-rund-50-milliarden-euro-102.html",
     "https://www.deutschlandfunk.de/haftung-fuer-hersteller-soll-ausgeweitet-werden-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-deutsche-foerderung-von-lkw-ladepunkten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/cdu-spd-und-fdp-in-sachsen-anhalt-stimmen-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
     "https://www.deutschlandfunk.de/finanzminister-klingbeil-fordert-absicherung-bei-versorgung-mit-seltenen-erden-100.html",
     "https://www.deutschlandfunk.de/selenskyj-warnt-vor-neuen-russischen-grossangriffen-auf-ziele-in-der-ukraine-100.html",
-    "https://www.deutschlandfunk.de/trump-kuendigt-strafzoelle-fuer-laender-mit-iran-geschaeften-an-102.html"
+    "https://www.deutschlandfunk.de/trump-kuendigt-strafzoelle-fuer-laender-mit-iran-geschaeften-an-102.html",
+    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-betont-einigkeit-mit-den-usa-zuversicht-ueber-eine-nato-loesung-zu-gro-102.html",
+    "https://www.deutschlandfunk.de/berufungsverfahren-zu-verurteilung-von-franzoesischer-rechtspopulistin-le-pen-beginnt-100.html",
+    "https://www.deutschlandfunk.de/sondersitzung-im-innenausschuss-zu-einbruch-in-sparkasse-100.html"
   ],
   "content_hashes": [
-    "55e6045b9a8bcad1a82e2e73e0dfd932",
-    "0d0425334e9beb40170fa6bf27a46512",
-    "3157bb6fe48d4eebcab76c9772d62b19",
     "ef6589da6a31d62726413d846f716c2c",
     "40a446d8d1eb602f60ca48c3692d8ec6",
     "8c7b278c172cb75122afa38c0ed89607",
@@ -2001,12 +1998,12 @@
     "ea5c687fc4cd4baf95889787945de29d",
     "0546147f03748704fdcda6cdf26f4790",
     "bbc8126e6f49b25e44dbfc07946fcbc3",
-    "83e5cc3f47f01c84c18716806076d8d4"
+    "83e5cc3f47f01c84c18716806076d8d4",
+    "8767ec54cba8169adb48bf6acff9ed34",
+    "1e0185380e7e172fe227bce7bf759f8b",
+    "88aaabac4d99c6ae699c2da22bf9b096"
   ],
   "titles": [
-    "Nach dem Anschlag von Sydney - Klöckner warnt vor tödlichem Antisemitismus auch in Deutschland",
-    "Sachsen-Anhalt: Die Notlage geht weiter – auch ohne Pandemie",
-    "Berlin - Gemeinsames Drohnenabwehrzentrum von Bund und Ländern eröffnet",
     "Bundestag - Haushaltsausschuss billigt Rüstungskäufe für rund 50 Milliarden Euro",
     "Kabinett - Haftung für Hersteller soll ausgeweitet werden",
     "Verkehrs- und Klimapolitik - EU-Kommission genehmigt deutsche Förderung von Lkw-Ladepunkten",
@@ -3003,12 +3000,12 @@
     "Magdeburg - CDU, SPD und FDP in Sachsen-Anhalt stimmen für vorzeitigen Wechsel des Ministerpräsidenten",
     "Treffen in Washington - Finanzminister Klingbeil fordert Absicherung bei Versorgung mit Seltenen Erden",
     "Ukraine-Krieg - Selenskyj warnt vor neuen russischen Großangriffen auf Ziele in der Ukraine",
-    "Gewalt gegen Demonstranten - Trump kündigt Strafzölle für Länder mit Iran-Geschäften an"
+    "Gewalt gegen Demonstranten - Trump kündigt Strafzölle für Länder mit Iran-Geschäften an",
+    "Besuch in Washington - Bundesaußenminister Wadephul betont Einigkeit mit den USA - Zuversicht über eine Nato-Lösung zu Grönland",
+    "Frankreich - Berufungsverfahren zu Verurteilung von französischer Rechtspopulistin Le Pen beginnt",
+    "Nordrhein-Westfalen - Sondersitzung im Innenausschuss zu Einbruch in Sparkasse"
   ],
   "hashes": [
-    "746ff4de1ad5a0b929c03ba26d1b5c53",
-    "527bbaa2b031b38e90172fbad48c5411",
-    "a9fb460acc4e92c89040c0ae41086953",
     "6392dd89bf9ed4a8a3c25d1f510e39d9",
     "a903f536ea2f5b7db84af81bcfa82e0b",
     "a49d3d0fb02e0d14ae5a64ccb1d8c18f",
@@ -4005,6 +4002,9 @@
     "0e2e908f6dfc0914dd2a5d51909397a3",
     "631c8b5089d4e23e6af49cc13848f767",
     "b7cde2452852957e2fa75ca46738f3f7",
-    "e5361040e6e3544802a1ebbc7aee780c"
+    "e5361040e6e3544802a1ebbc7aee780c",
+    "500720274614c298c190527e9ed09d94",
+    "9757dbd75ed8e1f08219275e1541b198",
+    "659d7301f6dbbedff2e7226f05108f6f"
   ]
 }
