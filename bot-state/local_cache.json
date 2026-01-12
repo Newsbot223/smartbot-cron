@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/arbeitslosenquote-in-den-usa-erreicht-im-november-vier-jahres-hoch-100.html",
-    "https://www.deutschlandfunk.de/kanzler-merz-chancen-auf-einigung-in-der-eu-bei-50-50-102.html",
-    "https://www.deutschlandfunk.de/eu-kommission-stellt-massnahmen-gegen-wohnungsnot-vor-100.html",
-    "https://www.deutschlandfunk.de/tatverdaechtiger-sohn-von-rob-und-michelle-reiner-wird-wegen-zweifachen-mordes-angeklagt-100.html",
     "https://www.deutschlandfunk.de/kanzler-merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-debatte-ueber-russisches-staatsvermoegen-im-m-100.html",
     "https://www.deutschlandfunk.de/bundeskabinett-beraet-ueber-mehrere-gesetzentwuerfe-buergergeld-reform-soll-beschlossen-werden-100.html",
     "https://www.deutschlandfunk.de/usa-fuehren-generelle-einreiseverbote-fuer-weitere-sieben-laender-ein-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/trump-iran-hat-verhandlungen-vorgeschlagen-100.html",
     "https://www.deutschlandfunk.de/justiz-ermittelt-offenbar-gegen-notenbank-chef-powell-102.html",
     "https://www.deutschlandfunk.de/indiens-premier-modi-empfaengt-bundeskanzler-merz-besuch-in-gandhi-gedenkstaette-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-spd-wirbt-vor-gespraechen-in-den-usa-fuer-mehr-kooperation-bei-kritischen-rohstoffen-100.html"
+    "https://www.deutschlandfunk.de/klingbeil-spd-wirbt-vor-gespraechen-in-den-usa-fuer-mehr-kooperation-bei-kritischen-rohstoffen-100.html",
+    "https://www.deutschlandfunk.de/spd-verlangt-vom-handel-guenstigere-grundnahrungsmittel-100.html",
+    "https://www.deutschlandfunk.de/beamtenbund-verteidigt-forderung-nach-7-prozent-mehr-geld-es-braucht-einen-handlungsfaehigen-staat-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wird-aus-dem-bnd-ein-echter-geheimdienst-accg-110817464.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-dobrindt-will-nach-anschlag-haerter-gegen-linksextremisten-vorgehen-faz-110093143.html"
   ],
   "content_hashes": [
-    "6608475aedd182fdb8b2ed25c081c162",
-    "9d6e59da18d2ae8dd92d575a860bdddf",
-    "00474c5db91078aa5aabb56333d341c7",
-    "6a79d8c09a5c45b047efe381ebc106de",
     "f9190997bcc1cfc880b77e0c99267de1",
     "5b3ac1d0f03831c51b22e35ef635ea42",
     "2af5ddc36d8d6f849457f9a1a5862df7",
@@ -2001,13 +1997,13 @@
     "97c1df241645098ff963d2a923a46493",
     "d3b5bd96ec2e3e08bc578a52fa90f993",
     "66c0d22d03668259409dc4d4d6e20426",
-    "4e76a401301561ddb5bf7ff1170ec106"
+    "4e76a401301561ddb5bf7ff1170ec106",
+    "d2b0315c7f4ce7d5f93519c12b9fa3a8",
+    "e2afa1ee670dcb67275f1b8d105b0a2c",
+    "3958e02e21193fc7569502c39c83b9d4",
+    "fac86db257ca85eb73d2911bfc8c5624"
   ],
   "titles": [
-    "Wirtschaft - Arbeitslosenquote in den USA erreicht im November Vier-Jahres-Hoch",
-    "Eingefrorenes russisches Vermögen - Kanzler Merz: Chancen auf Einigung in der EU \"bei 50:50\"",
-    "Brüssel - EU-Kommission stellt Maßnahmen gegen Wohnungsnot vor",
-    "US-Justiz - Tatverdächtiger Sohn von Rob und Michelle Reiner wird wegen zweifachen Mordes angeklagt",
     "Bundestag - Kanzler Merz gibt Regierungserklärung zu EU-Gipfel ab - Debatte über russisches Staatsvermögen im Mittelpunkt",
     "Berlin - Bundeskabinett berät über mehrere Gesetzentwürfe - Bürgergeld-Reform soll beschlossen werden",
     "Washington - USA führen generelle Einreiseverbote für weitere sieben Länder ein",
@@ -3003,13 +2999,13 @@
     "USA - Trump: Iran hat Verhandlungen vorgeschlagen",
     "USA - Justiz ermittelt offenbar gegen Notenbank-Chef Powell",
     "Auslandreise - Indiens Premier Modi empfängt Bundeskanzler Merz - Besuch in Gandhi-Gedenkstätte",
-    "Finanzminister - Klingbeil (SPD) wirbt vor Gesprächen in den USA für mehr Kooperation bei kritischen Rohstoffen"
+    "Finanzminister - Klingbeil (SPD) wirbt vor Gesprächen in den USA für mehr Kooperation bei kritischen Rohstoffen",
+    "Lebenshaltungskosten - SPD verlangt vom Handel günstigere Grundnahrungsmittel",
+    "Öffentlicher Dienst - Beamtenbund verteidigt Forderung nach 7 Prozent mehr Geld: \"Es braucht einen handlungsfähigen Staat\"",
+    "Reform des BND: Bekommt Deutschland einen echten Geheimdienst?",
+    "Deutschland-Blog: Dobrindt will nach Anschlag härter gegen Linksextremisten vorgehen"
   ],
   "hashes": [
-    "c062f279fd87ba1e26aefdbc4ee62f7b",
-    "f17c0152c232ae27e6845759666a83f0",
-    "f3de3c3b1ed94686f331cd387db4faea",
-    "660f079785d6eba9d1e057a524fb2481",
     "22944ffbce06928993cb07b14571fd1d",
     "5558ea35803e0e379088b9a7af7e752c",
     "2d94f12a3e206986d55bd619348bf20c",
@@ -4005,6 +4001,10 @@
     "73649a8ba1630b071206054f76db5b94",
     "2f10b2c5d5c8013cc6a4f96e9fc79164",
     "7feb560cc4f3e2969f1c504dd71ad1d3",
-    "d801d4dcc3699b5e888e7121d1004c56"
+    "d801d4dcc3699b5e888e7121d1004c56",
+    "60c529ba210a184bd9e93ec798893d8f",
+    "df99c395910ba7314771803c59e875f0",
+    "ca2b997bf8b0548b8113a366f6b26e4e",
+    "61892f9d6dcc1c77d728e0d3ea3aa23c"
   ]
 }
