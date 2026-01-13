@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wissenschaft/mensch/weihnachten-physikprofessor-metin-tolan-erklaert-wie-quantenphysik-den-weihnachtsmann-rettet-a-4f66476d-652a-4c8b-be8c-c811c7b042a9#ref=rss",
-    "https://www.faz.net/aktuell/politik/ukraine/wladimir-putin-bezeichnet-europaeer-als-ferkel-110804738.html",
     "https://www.deutschlandfunk.de/brasilien-droht-mit-ausstieg-aus-mercosur-abkommen-frankreich-und-italien-stellen-sich-gegen-raschen-100.html",
     "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-rechnet-mit-kompromiss-zu-russischen-vermoegen-fuer-ukrainehilfen-100.html",
     "https://www.deutschlandfunk.de/russland-gibt-erstmals-offizielle-schaetzung-von-kriegskosten-ab-umgerechnet-116-milliarden-euro-in--100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/sondersitzung-im-innenausschuss-zu-einbruch-in-sparkasse-100.html",
     "https://www.deutschlandfunk.de/gericht-kippt-baustopp-fuer-offshore-windpark-100.html",
     "https://www.deutschlandfunk.de/minnesota-und-minneapolis-verklagen-trump-regierun-102.html",
-    "https://www.deutschlandfunk.de/finanzminister-klingbeil-fordert-absicherung-bei-versorgung-mit-seltenen-erden-104.html"
+    "https://www.deutschlandfunk.de/finanzminister-klingbeil-fordert-absicherung-bei-versorgung-mit-seltenen-erden-104.html",
+    "https://www.deutschlandfunk.de/trumps-berater-draengen-auf-nicht-militaerische-option-102.html",
+    "https://www.deutschlandfunk.de/usa-kuendigen-strafzoelle-fuer-laender-mit-iran-geschaeften-an-100.html"
   ],
   "content_hashes": [
-    "0016828e5bf8b267da509c5bc8feda7c",
-    "86f30f0df7ecce964448b1c82a637dc1",
     "ca4b80f67d9c50b568a4deb3cbf1332c",
     "cd162bb8e75d15a088c79c8f1f9680c8",
     "4bbed17507364df2b594610d7b2e2ab9",
@@ -2001,11 +1999,11 @@
     "88aaabac4d99c6ae699c2da22bf9b096",
     "311e1d31d824e9621a793a53f19d349a",
     "c71f393b653b49b317f72e83805eee65",
-    "17847246eea00d4780a83b25d39f931a"
+    "17847246eea00d4780a83b25d39f931a",
+    "2a738940a282b27ec6f32f253bcbe532",
+    "f22e27d7f67839868773a86a54ae90c0"
   ],
   "titles": [
-    "Weihnachten: Physikprofessor Metin Tolan erklärt wie Quantenphysik den Weihnachtsmann rettet",
-    "Krieg gegen die Ukraine: Putin und die europäischen Ferkel",
     "Freihandel - Brasilien droht mit Ausstieg aus Mercosur-Abkommen - Frankreich und Italien stellen sich gegen raschen Abschluss",
     "Vor EU-Gipfel - EU-Außenbeauftragte Kallas rechnet mit Kompromiss zu russischen Vermögen für Ukrainehilfen",
     "Verteidigungsministerium - Russland gibt erstmals offizielle Schätzung von Kriegskosten ab: umgerechnet 116 Milliarden Euro in diesem Jahr",
@@ -3003,11 +3001,11 @@
     "Nordrhein-Westfalen - Sondersitzung im Innenausschuss zu Einbruch in Sparkasse",
     "USA - Gericht kippt Baustopp für Offshore-Windpark",
     "Nach tödlichen Schüssen - Minnesota und Minneapolis verklagen Trump-Regierun",
-    "Gespräche in Washington - Finanzminister Klingbeil fordert Absicherung bei Versorgung mit Seltenen Erden"
+    "Gespräche in Washington - Finanzminister Klingbeil fordert Absicherung bei Versorgung mit Seltenen Erden",
+    "Lage im Iran - Trumps Berater drängen auf nicht-militärische Option",
+    "Gewalt gegen Demonstranten - USA kündigen Strafzölle für Länder mit Iran-Geschäften an"
   ],
   "hashes": [
-    "ef6b893b835cfbc56ffe380fb02d8016",
-    "6d01d259a8524a2767857b018392707e",
     "13e8860d3e4fde30aced9284e10b7538",
     "0cb905a4d439ef4bc8885534a7e87e9b",
     "8ebb59c1207bdedfb51f02efe63360a1",
@@ -4005,6 +4003,8 @@
     "659d7301f6dbbedff2e7226f05108f6f",
     "338c306d9207a252b3eddeb4d473cdd3",
     "d1c636ceb0ab0aedd646be6f65db4165",
-    "37e3708fcbf2daf9b135547f25400849"
+    "37e3708fcbf2daf9b135547f25400849",
+    "981fa41728493fa9e3f3816636927da7",
+    "085c04fa9e9d6b739ffeb50c8ed1974d"
   ]
 }
