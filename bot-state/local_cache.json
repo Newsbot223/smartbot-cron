@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-meldet-tote-bei-ukrainischem-angriff-auf-schiff-in-rostow-am-don-verletzte-bei-russischer-a-102.html",
-    "https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-bsw-forderung-nach-neuauszaehlung-der-bundestagswahl-104.html",
-    "https://www.aljazeera.com/news/liveblog/2025/12/17/live-trump-to-highlight-achievements-amid-venezuela-economic-tensions?traffic_source=rss",
     "https://www.deutschlandfunk.de/vertreter-der-usa-und-russlands-verhandeln-am-wochenende-ueber-waffenruhe-100.html",
     "https://www.deutschlandfunk.de/ansprache-an-die-nation-trump-verteidigt-zollpolitik-und-kuendigt-krieger-dividende-an-100.html",
     "https://www.deutschlandfunk.de/youtube-erwirbt-exklusiv-rechte-fuer-oscar-verleihung-ab-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/daenemarks-aussenminister-trifft-vance-und-rubio-102.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/rekordzahlen-des-deutschen-aktieninstituts-mehr-als-14-millionen-deutsche-besitzen-aktien-a-ebc734c3-f3c3-4551-a700-24fcd559ac5e#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/geschaefte-mit-kokainhaendlern-angeklagter-staatsanwalt-legt-gestaendnis-ab-accg-200434010.html",
-    "https://www.deutschlandfunk.de/berufungsverfahren-zu-verurteilung-von-franzoesischer-rechtspopulistin-le-pen-hat-begonnen-102.html"
+    "https://www.deutschlandfunk.de/berufungsverfahren-zu-verurteilung-von-franzoesischer-rechtspopulistin-le-pen-hat-begonnen-102.html",
+    "https://www.deutschlandfunk.de/daenemarks-aussenminister-trifft-vance-und-rubio-frederiksen-haerteste-phase-im-konflikt-steht-noch--102.html",
+    "https://www.deutschlandfunk.de/behoerden-ordnen-sperrung-der-internetzugaenge-vor-praesidentschafts-und-parlamentswahlen-an-102.html",
+    "https://www.spiegel.de/auto/fahrkultur/bahn-skizziert-szenario-fuer-idealen-nahverkehr-der-zukunft-a-273f4a72-a24a-4f94-a167-1985a0162e55#ref=rss"
   ],
   "content_hashes": [
-    "3d5a6512567c8e43d610f3236940e413",
-    "8c55a29d9bf055db82f12d9698a6a7d3",
-    "8078afd7f6433ca6c6a6ac17b9148dc0",
     "14ae3ab9bec3d6e1db51e022c0e091b0",
     "8ab577824edde5820d8ba468f66a16eb",
     "5b0419796445581762f80561ad4dd892",
@@ -2001,12 +1998,12 @@
     "cbaad7769b06e7b27b451a0c3ba25b53",
     "9816b3cabaae0bc2c316a8b95b247350",
     "8b4fe6ce4e92d8cf0c6bf951c8a5080d",
-    "c1fd0aa4ed7c3699e3a5411f10ad4ddb"
+    "c1fd0aa4ed7c3699e3a5411f10ad4ddb",
+    "dcb849e0244a14df5a2585f1ce4a598f",
+    "c680f5a596a88b0f3bafb9b76a1b0f54",
+    "9f81d08d735a5db15704f6499510e346"
   ],
   "titles": [
-    "Ukraine-Krieg - Russland meldet Tote bei ukrainischem Angriff auf Schiff in Rostow am Don - Verletzte bei russischer Attacke auf Saporischschja",
-    "Fünfprozenthürde - Bundestag entscheidet über BSW-Forderung nach Neuauszählung der Bundestagswahl",
-    "Live: Trump promises ‘economic boom’ in 2026, touts immigration record",
     "Ukraine-Krieg - Vertreter der USA und Russlands verhandeln am Wochenende über Waffenruhe",
     "TV-Rede - Ansprache an die Nation: Trump verteidigt Zollpolitik und kündigt \"Krieger-Dividende an\"",
     "Filmpreise - Youtube erwirbt Exklusiv-Rechte für \"Oscar\"-Verleihung ab 2029",
@@ -3003,12 +3000,12 @@
     "Grönland - Dänemarks Außenminister trifft Vance und Rubio",
     "Rekordzahlen des Deutschen Aktieninstituts: Mehr als 14 Millionen Deutsche besitzen Aktien",
     "Geschäfte mit Kokainhändlern: Angeklagter Staatsanwalt legt Geständnis für einige Taten ab",
-    "Frankreich - Berufungsverfahren zu Verurteilung von französischer Rechtspopulistin Le Pen hat begonnen"
+    "Frankreich - Berufungsverfahren zu Verurteilung von französischer Rechtspopulistin Le Pen hat begonnen",
+    "Grönland - Dänemarks Außenminister trifft Vance und Rubio - Frederiksen: Härteste Phase im Konflikt steht noch bevor",
+    "Uganda - Behörden ordnen Sperrung der Internetzugänge vor Präsidentschafts- und Parlamentswahlen an",
+    "Bahn skizziert Szenario für idealen Nahverkehr der Zukunft"
   ],
   "hashes": [
-    "142333305b667fceabbf08c875c51bf8",
-    "1bf95310cced8ff679de4e637de94d56",
-    "1a256899e75964b48acae0eb535e6109",
     "e5a1adcd85596aa45bd8d6a68b603c12",
     "5f9da163d5e1ed906d7246056642c70d",
     "5e894b48f7401484d4645650dd942025",
@@ -4005,6 +4002,9 @@
     "8597c570c12ae4afe8d1065f00e64b71",
     "be1adbf1ff5f182465931d11e8ef8827",
     "afb5e50e8780b6abc3c8e1b6752f5821",
-    "42bc7e39f06cd8a56716881947b05f48"
+    "42bc7e39f06cd8a56716881947b05f48",
+    "ce5590dfcf81512cfc99542ff072c71d",
+    "97a655b624c77c8eee4a5447811cd5c9",
+    "ebd61fd84921bc4b1c98cb1c2533096e"
   ]
 }
