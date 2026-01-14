@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesregierung-gibt-30-milliarden-euro-fuer-deutschlandfonds-100.html",
-    "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-auf-nutzung-russischer-vermoegenswerte-100.html",
-    "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-102.html",
     "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-merz-will-in-deutschland-eingefrorene-werte-nutzen-100.html",
     "https://www.faz.net/aktuell/politik/inland/thueringen-verabschiedet-haushalt-dank-enthaltung-der-linkspartei-110805167.html",
     "https://www.deutschlandfunk.de/warum-auch-nach-25-jahren-weiter-ueber-das-mercosur-abkommen-gestritten-wird-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruenen-eu-abgeordnete-neumann-fordert-ausweisung-von-iranischen-diplomaten-aus-der-europaeischen-un-104.html",
     "https://www.deutschlandfunk.de/bundeslandwirtschaftsminister-verteidigt-geplanten-leichteren-abschuss-von-woelfen-102.html",
     "https://www.deutschlandfunk.de/cdu-verteidigungsexperte-roewekamp-vorfaelle-in-zweibruecken-schaden-dem-ansehen-der-bundeswehr-100.html",
-    "https://www.faz.net/aktuell/politik/inland/spd-legt-plan-fuer-reform-der-erbschaftssteuer-vor-accg-110818502.html"
+    "https://www.faz.net/aktuell/politik/inland/spd-legt-plan-fuer-reform-der-erbschaftssteuer-vor-accg-110818502.html",
+    "https://www.deutschlandfunk.de/weitere-warnstreiks-an-unikliniken-100.html",
+    "https://www.deutschlandfunk.de/mindestens-25-tote-bei-zugunglueck-in-thailand-100.html",
+    "https://www.deutschlandfunk.de/zahl-der-wehrdienstverweigerer-deutlich-gestiegen-100.html"
   ],
   "content_hashes": [
-    "7255bbbcbb42381cdf66ae2577f45980",
-    "de8eec640749ed6058cb5a23cb01acdf",
-    "6481a9371b0d17a820d386394e51d28c",
     "e5ab2fdafbb2cc316d19b9a253eb9c92",
     "25bcb2c3769cfadf702b436d584e8e23",
     "e5dbbe79b59b82b18c472fe3d729536a",
@@ -2001,12 +1998,12 @@
     "95738954b787dbfbb68125540382b816",
     "57242bc4f439be0c1e4ae44dac71932c",
     "e8a97ba3548fe08b4efba7f415311963",
-    "478f5da36f0ddb94810ecb0f94e616f0"
+    "478f5da36f0ddb94810ecb0f94e616f0",
+    "e8d5baae2dd1122af83ea5ff2bc9575b",
+    "4684923b5aae33cd6ac02ee630fdde7d",
+    "d3e47de083dea9c41f37ca3035761184"
   ],
   "titles": [
-    "Investitionen - Bundesregierung gibt 30 Milliarden Euro für \"Deutschlandfonds\"",
-    "Finanzhilfen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" auf Nutzung russischer Vermögenswerte",
-    "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert",
     "Russische Vermögen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" - Merz will in Deutschland eingefrorene Werte nutzen",
     "Haushalt beschlossen: Thüringen verschuldet sich",
     "EU-Gipfel - Warum auch nach 25 Jahren weiter über das Mercosur-Abkommen gestritten wird",
@@ -3003,12 +3000,12 @@
     "Niederschlagung der Massenproteste im Iran - Grünen EU-Abgeordnete Neumann fordert Ausweisung von iranischen Diplomaten aus der Europäischen Union",
     "Jagdgesetz - Bundeslandwirtschaftsminister verteidigt geplanten leichteren Abschuss von Wölfen",
     "Exzesse bei Fallschirmjägern - CDU-Verteidigungsexperte Röwekamp: Vorfälle in Zweibrücken schaden dem Ansehen der Bundeswehr",
-    "Schwarz-rote Koalition: Die Chancen auf Streit stehen gut im neuen Jahr"
+    "Schwarz-rote Koalition: Die Chancen auf Streit stehen gut im neuen Jahr",
+    "Tarifstreit des öffentlichen Dienstes - Weitere Warnstreiks an Unikliniken",
+    "Baukran stürzt auf Gleise - Mindestens 25 Tote bei Zugunglück in Thailand",
+    "Bundeswehr - Zahl der Wehrdienstverweigerer deutlich gestiegen"
   ],
   "hashes": [
-    "ca1ddfd84a05873e25c92cbe34717cec",
-    "f3778c14ca003bfe5f2cab067b98069d",
-    "08e907076629f9704f4ec0ae33601355",
     "8687d6b5b6f286be1c14f859244ea008",
     "1f60d614429a24f21e1f65f62eac3631",
     "e710490046b17fad939b93ccb6d1f289",
@@ -4005,6 +4002,9 @@
     "675f40dfe5eee1f336f8a2321f41c39b",
     "acc5aa5b07d02001bd1d56b8c84e33ef",
     "690a38b6c25b53799b78d6584eb197d4",
-    "aac1c283938c23a233f02d2c69c955a8"
+    "aac1c283938c23a233f02d2c69c955a8",
+    "3137c8c521ee7bac478c972877dc9d64",
+    "6ca2117ef8fe51def7acd5102900ff42",
+    "df590600f83a130687195521351e0afb"
   ]
 }
