@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundestag-stimmt-fuer-krankenkassen-sparpaket-100.html",
-    "https://www.deutschlandfunk.de/russische-gelder-bleiben-eingefroren-interview-wolfgang-ischinger-msc-102.html",
-    "https://www.aljazeera.com/video/witness/2025/12/19/the-age-of-water-how-radioactivity-is-costing-lives-in-a-mexican-town?traffic_source=rss",
-    "https://www.deutschlandfunk.de/bundesverwaltungsgericht-kippt-hammerskins-verbot-100.html",
     "https://www.deutschlandfunk.de/auch-bundesrat-stimmt-rentenpaket-zu-100.html",
     "https://www.deutschlandfunk.de/bundesbank-fuer-die-deutsche-wirtschaft-geht-es-ab-2026-langsam-bergauf-inflation-bleibt-zaeh-100.html",
     "https://www.deutschlandfunk.de/verschobene-unterzeichnung-des-mercosur-abkommens-sorgt-fuer-unmut-in-industrie-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/csu-aussenpolitiker-mayer-fordert-mehr-einigkeit-der-europaeer-gegenueber-iran-100.html",
     "https://www.deutschlandfunk.de/evp-chef-weber-fordert-eu-botschaften-in-teheran-als-schutzraeume-fuer-demonstranten-zu-oeffnen-100.html",
     "https://www.deutschlandfunk.de/weitere-absagen-von-kabinettsmitgliedern-auch-landwirtschaftsminister-rainer-kommt-nicht-zum-ludwig--100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-thueringens-landesaerztekammer-warnt-vor-abschiebung-syrischer-aerzte-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-thueringens-landesaerztekammer-warnt-vor-abschiebung-syrischer-aerzte-faz-110093143.html",
+    "https://www.deutschlandfunk.de/usa-gaza-friedensplan-geht-in-die-zweite-phase-palaestinenser-einigen-sich-auf-uebergangsverwaltung-104.html",
+    "https://www.deutschlandfunk.de/streit-um-mercosur-freihandelsabkommen-lecornu-uebersteht-misstrauensvoten-in-nationalversammlung-102.html",
+    "https://www.deutschlandfunk.de/klingbeil-transatlantisches-verhaeltnis-loest-sich-gerade-auf-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-muss-sich-viertem-misstrauensvotum-stellen-100.html"
   ],
   "content_hashes": [
-    "53acc23a78ffff9884c5d7d879413bb4",
-    "cc400289ae8c945f880953145d38e2f2",
-    "7abc9a1b261fe6da0d7c90a8124db74c",
-    "f9a069233bc4158182d330d0fe765951",
     "d21c5a723dd3cf110fbd3b50d471b76f",
     "8e2778fd079c1c41b4a0a94c717806a9",
     "f9eb8e4677b230a82777557cfc0ce6d2",
@@ -2001,13 +1997,13 @@
     "2e49305b94f52af27e6514d032424541",
     "822481ead390629c71ba3e38cc71f0b9",
     "63af0619517d5a224576f1fa5120d34d",
-    "899e4f230126d27bd69bb78372599b2a"
+    "899e4f230126d27bd69bb78372599b2a",
+    "5a1f0ada3ca3bce1c3584eb57961e278",
+    "fff133d69dc6045e813728ed82e09697",
+    "26982dd3b2db9ece0ca4d8602368c808",
+    "7811dafd8da8039423888b171f199254"
   ],
   "titles": [
-    "Gesundheitspolitik - Bundestag stimmt für Krankenkassen-Sparpaket",
-    "Ukraine-Finanzierung - Diplomat Ischinger sieht Glaubwürdigkeit der EU gefährdet",
-    "The Age of Water: How radioactivity is costing lives in a Mexican town",
-    "Rechtsextremismus - Bundesverwaltungsgericht kippt \"Hammerskins\"-Verbot",
     "Haltelinie, Mütter- und Aktivrente - Auch Bundesrat stimmt Rentenpaket zu",
     "Konjunktur - Bundesbank: Für die deutsche Wirtschaft geht es ab 2026 langsam bergauf - Inflation bleibt zäh",
     "EU-Gipfel - Verschobene Unterzeichnung des Mercosur-Abkommens sorgt für Unmut in Industrie",
@@ -3003,13 +2999,13 @@
     "Sanktionen - CSU-Außenpolitiker Mayer fordert mehr Einigkeit der Europäer gegenüber Iran",
     "Proteste im Iran - EVP-Chef Weber fordert, EU-Botschaften in Teheran als Schutzräume für Demonstranten zu öffnen",
     "Weimer Media Group - Weitere Absagen von Kabinettsmitgliedern: Auch Landwirtschaftsminister Rainer kommt nicht zum Ludwig-Erhard-Gipfel",
-    "Deutschland-Blog: Thüringens Landesärztekammer warnt vor Abschiebung syrischer Ärzte"
+    "Deutschland-Blog: Thüringens Landesärztekammer warnt vor Abschiebung syrischer Ärzte",
+    "Nahost - USA: Gaza-Friedensplan geht in die zweite Phase - Palästinenser einigen sich auf Übergangsverwaltung",
+    "Frankreich - Streit um Mercosur-Freihandelsabkommen: Lecornu übersteht Misstrauensvoten in Nationalversammlung",
+    "Rede vor Institut für Wirtschaftsforschung - Klingbeil: Transatlantisches Verhältnis löst sich gerade auf",
+    "Europaparlament - EU-Kommission muss sich viertem Misstrauensvotum stellen"
   ],
   "hashes": [
-    "1f7e3d4f95ba6d75015264f3049726eb",
-    "58e989f2120dafa1492ed56c30acf3b3",
-    "404777cae9691aba9590f004744f9e5c",
-    "ca1b400e6a218e1c2e35b672749d9b37",
     "a14bd1496d337b6b695f29eeab28586a",
     "f4dadf310a073eebf758cd7e3d2fb2c8",
     "89a37bbf2939f8457bff7a37ea13c31c",
@@ -4005,6 +4001,10 @@
     "b1f85b22310aee2f59b244fcc2ee1f9e",
     "9462b79a943beac517dee80da6419368",
     "9200fe960ee569e5997491b473564887",
-    "fda390eef2a9846d8f2374050af6745f"
+    "fda390eef2a9846d8f2374050af6745f",
+    "420babd00bd756f521188adb71d861f6",
+    "756a8e42c4611ee9a8c5176a3b8b3a1f",
+    "aeeb6447bbc370a463e9bf3c488c4fee",
+    "9f14edf28d0bea06694624ba55ed718b"
   ]
 }
