@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrat-stimmt-ueber-wehrdienstgesetz-rentengesetze-und-entlastungspaket-ab-100.html",
-    "https://www.deutschlandfunk.de/kulturzentrum-kennedy-center-soll-zusaetzlich-den-namen-von-us-praesident-trump-tragen-102.html",
     "https://www.deutschlandfunk.de/manche-beamte-erhalten-im-januar-etwas-weniger-geld-100.html",
     "https://www.spiegel.de/wirtschaft/kupfer-europaeische-firmen-aurubis-und-viscaria-fuer-mehr-kupferminen-in-der-eu-a-c52bdee2-09d7-4e34-b8e8-53d3095ce578#ref=rss",
     "https://www.deutschlandfunk.de/regierung-will-massenhaft-schusswaffen-einziehen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/justizopfer-genditzki-bekommt-1-3-mio-euro-entschaedigung-100.html",
     "https://www.deutschlandfunk.de/mindestens-32-tote-bei-zugunglueck-in-thailand-100.html",
     "https://www.deutschlandfunk.de/dobrindt-beruft-migrationsbotschafter-100.html",
-    "https://www.deutschlandfunk.de/razzien-in-nagelstudios-in-fuenf-bundeslaendern-100.html"
+    "https://www.deutschlandfunk.de/razzien-in-nagelstudios-in-fuenf-bundeslaendern-100.html",
+    "https://www.deutschlandfunk.de/heeresinspekteur-neun-entlassungen-aus-luftlandetruppe-102.html",
+    "https://www.deutschlandfunk.de/verdi-stimmt-auf-weitere-warnstreiks-ein-102.html"
   ],
   "content_hashes": [
-    "59f2509ec01a2164ad718e8093b22db5",
-    "45dc85046a909d32d9f4243fefd3eacf",
     "874104fc636a0cb8f072c83c35cfa7d2",
     "cd8ce79faa7b02cadf77eaa58263cd55",
     "7a6d58bc58981143a497f7e9e0647536",
@@ -2001,11 +1999,11 @@
     "8528bd4703291aabdce4b5a717a336a6",
     "c5d1f13d1fc1c5cb3b15217626b14ae0",
     "56a8ad3bc75bd924610c1a68789c3429",
-    "28b63ceda35e10f0817840d1e6aa090e"
+    "28b63ceda35e10f0817840d1e6aa090e",
+    "57fe7256bdcd25c77c7ceb84717e9a76",
+    "6cc57db9dd0a4cc49b3b77beafc6a6d1"
   ],
   "titles": [
-    "Sitzungen in Berlin - Bundesrat stimmt über Wehrdienstgesetz, Rentengesetze und Entlastungspaket ab",
-    "Washington D.C. - Kulturzentrum Kennedy Center soll zusätzlich den Namen von US-Präsident Trump tragen",
     "Panne beim Bundeszentralamt für Steuern - Manche Beamte erhalten im Januar etwas weniger Geld",
     "Kupfer: Europäische Firmen Aurubis und Viscaria für mehr Kupferminen in der EU",
     "Australien - Regierung will massenhaft Schusswaffen einziehen",
@@ -3003,11 +3001,11 @@
     "Bayern - Justizopfer Genditzki bekommt 1,3 Mio. Euro Entschädigung",
     "Baukran stürzt auf Gleise - Mindestens 32 Tote bei Zugunglück in Thailand",
     "Abschiebungen - Dobrindt beruft Migrationsbotschafter",
-    "Schwarzarbeit - Razzien in Nagelstudios in fünf Bundesländern"
+    "Schwarzarbeit - Razzien in Nagelstudios in fünf Bundesländern",
+    "Exzesse bei den Fallschirmjägern - Heeresinspekteur: Neun Entlassungen aus Luftlandetruppe",
+    "Öffentlicher Dienst - Verdi stimmt auf weitere Warnstreiks ein"
   ],
   "hashes": [
-    "d3b935b3b94cb24ee60efbc337939f1c",
-    "2d3c0d2ba386fb38da8670f8fb86c623",
     "7212641abae4f53537ea646c5442a6b8",
     "47388fd7426dda357218493ba1daacc3",
     "3d79f63ecd63c14492dbf0718d0b305e",
@@ -4005,6 +4003,8 @@
     "96f84650423948b327fe0057afc3f990",
     "881ab318e5129ee2316ea3f51ec96ed8",
     "0185c2debd85694cd35ecc84d4509f59",
-    "3ebb37ec6ccd5916f1645809be4bf3ac"
+    "3ebb37ec6ccd5916f1645809be4bf3ac",
+    "f4c95623d2dd0c2c1ba97dff34bd201a",
+    "c43d7a1fb37b087acbe8e951a0a09af4"
   ]
 }
