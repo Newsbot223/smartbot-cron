@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/panorama/fentanyl-so-gross-ist-die-droge-in-deutschland-a-91a5854f-4260-4007-b216-20a94d330cc5#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/aufnahmeprogramm-afghanen-aus-pakistan-duerfen-einreisen-accg-110805063.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-gegen-verfassungsschutz-gericht-sieht-verstoss-gegen-neutralitaet-accg-110805021.html",
     "https://www.deutschlandfunk.de/bundesregierung-gibt-30-milliarden-euro-fuer-deutschlandfonds-100.html",
     "https://www.deutschlandfunk.de/tusk-spricht-von-grundsaetzlicher-einigung-auf-nutzung-russischer-vermoegenswerte-100.html",
     "https://www.deutschlandfunk.de/ezb-laesst-leitzinsen-im-euroraum-unveraendert-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-erleichterten-abschuss-von-woelfen-100.html",
     "https://www.deutschlandfunk.de/warnstreiks-an-unikliniken-fortgesetzt-102.html",
     "https://www.deutschlandfunk.de/usa-fordern-landsleute-auf-den-iran-umgehend-zu-verlassen-102.html",
-    "https://www.deutschlandfunk.de/gruenen-eu-abgeordnete-neumann-fordert-ausweisung-von-iranischen-diplomaten-aus-der-europaeischen-un-104.html"
+    "https://www.deutschlandfunk.de/gruenen-eu-abgeordnete-neumann-fordert-ausweisung-von-iranischen-diplomaten-aus-der-europaeischen-un-104.html",
+    "https://www.deutschlandfunk.de/bundeslandwirtschaftsminister-verteidigt-geplanten-leichteren-abschuss-von-woelfen-102.html",
+    "https://www.deutschlandfunk.de/cdu-verteidigungsexperte-roewekamp-vorfaelle-in-zweibruecken-schaden-dem-ansehen-der-bundeswehr-100.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-legt-plan-fuer-reform-der-erbschaftssteuer-vor-accg-110818502.html"
   ],
   "content_hashes": [
-    "0ce05e5d391f399c08956010d8a9ae42",
-    "9cc087ebe181d74de2f213fb79112656",
-    "bb7702fa36d6ce9bb3e374debfaf1798",
     "7255bbbcbb42381cdf66ae2577f45980",
     "de8eec640749ed6058cb5a23cb01acdf",
     "6481a9371b0d17a820d386394e51d28c",
@@ -2001,12 +1998,12 @@
     "94ebec593a93220cfd698d11eb0d186f",
     "7ce473786eb0a0ef8ce335e46f23f824",
     "49f7dd60042a708d223485759c92825d",
-    "95738954b787dbfbb68125540382b816"
+    "95738954b787dbfbb68125540382b816",
+    "57242bc4f439be0c1e4ae44dac71932c",
+    "e8a97ba3548fe08b4efba7f415311963",
+    "478f5da36f0ddb94810ecb0f94e616f0"
   ],
   "titles": [
-    "Fentanyl: So groß ist die Droge in Deutschland",
-    "Bundesaufnahmeprogramm: Afghanen dürfen einreisen",
-    "Thüringen: AfD-Klage gegen Thüringens Verfassungsschutzchef teils erfolgreich",
     "Investitionen - Bundesregierung gibt 30 Milliarden Euro für \"Deutschlandfonds\"",
     "Finanzhilfen für die Ukraine - Tusk spricht von \"grundsätzlicher Einigung\" auf Nutzung russischer Vermögenswerte",
     "Wirtschaft - EZB lässt Leitzinsen im Euroraum unverändert",
@@ -3003,12 +3000,12 @@
     "Landwirtschaft - Bundestag debattiert über erleichterten Abschuss von Wölfen",
     "Öffentlicher Dienst - Warnstreiks an Unikliniken fortgesetzt",
     "Reisewarnung - USA fordern Landsleute auf, den Iran umgehend zu verlassen",
-    "Niederschlagung der Massenproteste im Iran - Grünen EU-Abgeordnete Neumann fordert Ausweisung von iranischen Diplomaten aus der Europäischen Union"
+    "Niederschlagung der Massenproteste im Iran - Grünen EU-Abgeordnete Neumann fordert Ausweisung von iranischen Diplomaten aus der Europäischen Union",
+    "Jagdgesetz - Bundeslandwirtschaftsminister verteidigt geplanten leichteren Abschuss von Wölfen",
+    "Exzesse bei Fallschirmjägern - CDU-Verteidigungsexperte Röwekamp: Vorfälle in Zweibrücken schaden dem Ansehen der Bundeswehr",
+    "Schwarz-rote Koalition: Die Chancen auf Streit stehen gut im neuen Jahr"
   ],
   "hashes": [
-    "10d66fc84fcc2ca5b22eca52a67b5947",
-    "df21a447685aa9caf9945f0e7d636bc8",
-    "2533a1bfc808e9e07a8a6a1eee3d7fa9",
     "ca1ddfd84a05873e25c92cbe34717cec",
     "f3778c14ca003bfe5f2cab067b98069d",
     "08e907076629f9704f4ec0ae33601355",
@@ -4005,6 +4002,9 @@
     "5c271c8e7dc7aee5250c643f2c3d6023",
     "dd0bc2671d280456a65409192b2ffa89",
     "5bf6148e7605d0c0f5da917596ae025f",
-    "675f40dfe5eee1f336f8a2321f41c39b"
+    "675f40dfe5eee1f336f8a2321f41c39b",
+    "acc5aa5b07d02001bd1d56b8c84e33ef",
+    "690a38b6c25b53799b78d6584eb197d4",
+    "aac1c283938c23a233f02d2c69c955a8"
   ]
 }
