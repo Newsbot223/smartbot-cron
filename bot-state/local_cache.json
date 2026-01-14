@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/forschungsorganisation-cern-erhaelt-von-privaten-geldgebern-millonenschwere-zusage-fuer-geplanten-ba-102.html",
-    "https://www.deutschlandfunk.de/eu-gipfel-beraet-weiterhin-ueber-verwendung-russischer-vermoegenswerte-fuer-ukraine-102.html",
     "https://www.deutschlandfunk.de/bundesrat-stimmt-ueber-gesetzesvorhaben-ab-100.html",
     "https://www.deutschlandfunk.de/dihk-chef-adrian-fuer-deutsche-industrie-nicht-bezahlbar-100.html",
     "https://www.deutschlandfunk.de/kompromiss-fuer-weitere-ukraine-finanzierung-erzielt-eingefrorene-russland-gelder-nun-doch-zunaechst-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/urteil-post-zu-ehemaligen-bundesinnenministerin-faeser-nicht-verleumdend-journalist-freigesprochen-100.html",
     "https://www.deutschlandfunk.de/techniker-krankenkasse-fordert-geringere-medikamentenpreise-102.html",
     "https://www.spiegel.de/panorama/justiz/david-bendels-gericht-spricht-chefredakteur-von-afd-nahem-medium-frei-a-b6c2eaaa-1224-4635-971e-d4a83a6c111d#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-zahl-der-wehrdienstverweigerer-deutlich-gestiegen-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-zahl-der-wehrdienstverweigerer-deutlich-gestiegen-faz-110093143.html",
+    "https://www.deutschlandfunk.de/oeffentliche-schauprozesse-und-schnellverfahren-gegen-festgenommene-demonstranten-angekuendigt-prote-100.html",
+    "https://www.deutschlandfunk.de/parlament-billigt-frueheren-ministerpraesidenten-schmyhal-als-neuen-energieminister-102.html"
   ],
   "content_hashes": [
-    "0441eaf3710d54f766534e7882834f59",
-    "28f96c141640f0b45e0d00229019fdcb",
     "a4e04a0b4e298c94414c3e705b5f9068",
     "2c4e180db185f388c60268df937d64a0",
     "713001231f5ac8593216df30c91b610d",
@@ -2001,11 +1999,11 @@
     "60fb1dde8227c86375273921b30ca9f2",
     "9142b97169441adeec87899ab5a1d00b",
     "99cb1fd2de51dc81b26553bbd2a8e6d4",
-    "6877322a8c46a39bb5e2b24e83e50715"
+    "6877322a8c46a39bb5e2b24e83e50715",
+    "26e3095f7e6b84eb32b06e24a681e99f",
+    "a38eca9a9e4ace5d59717b384032e80d"
   ],
   "titles": [
-    "Schweiz - Forschungsorganisation CERN erhält von privaten Geldgebern millonenschwere Zusage für geplanten Bau eines neuen Teilchenbeschleunigers",
-    "Brüssel - EU-Gipfel berät weiterhin über Verwendung russischer Vermögenswerte für Ukraine",
     "Sitzung in Berlin - Bundesrat stimmt über Gesetzesvorhaben ab",
     "Klimaneutrale Transformation - DIHK-Chef Adrian: \"Für deutsche Industrie nicht bezahlbar\"",
     "EU-Gipfel in Brüssel - Kompromiss für weitere Ukraine-Finanzierung erzielt - eingefrorene Russland-Gelder nun doch zunächst außen vor",
@@ -3003,11 +3001,11 @@
     "Meinungsfreiheit - Urteil: Post zu ehemaligen Bundesinnenministerin Faeser nicht verleumdend - Journalist freigesprochen",
     "Gesundheit - Techniker Krankenkasse fordert geringere Medikamentenpreise",
     "David Bendels: Gericht spricht Chefredakteur von AfD-nahem Medium frei",
-    "Deutschland-Blog: Zahl der Wehrdienstverweigerer deutlich gestiegen"
+    "Deutschland-Blog: Zahl der Wehrdienstverweigerer deutlich gestiegen",
+    "Newsblog zur Lage im Iran - Öffentliche Schauprozesse und Schnellverfahren gegen festgenommene Demonstranten angekündigt - Proteste flachen ab",
+    "Kiew - Parlament billigt früheren Ministerpräsidenten Schmyhal als neuen Energieminister"
   ],
   "hashes": [
-    "31589f63fda6a145cc7309c891831133",
-    "dbb495bd255840f65de0ea945b9a1f9b",
     "cf61f0224476849f975d36184e6ce02a",
     "f47b945ea357b7335dda7757a45b952b",
     "2da19f1d21bbcf406b2a8492365ce6cb",
@@ -4005,6 +4003,8 @@
     "830cd23b3f3b0137cbcd28ae6c90dd4e",
     "538a7ecbc64e04cd315bc99e2729dbd2",
     "932b803db1cdc70ecd9ab778e58b0432",
-    "ed4c460f78d53070cafaf01b725a28c0"
+    "ed4c460f78d53070cafaf01b725a28c0",
+    "4a0f8da16e281efbdc9a1a161e0acad5",
+    "306d62b3814e59c5237c053c920199a6"
   ]
 }
