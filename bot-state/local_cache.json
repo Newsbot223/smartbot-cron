@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/australien-kuendigt-verschaerftes-vorgehen-gegen-antisemitismus-an-100.html",
-    "https://www.deutschlandfunk.de/daenisches-gesetz-das-zwangsumsiedlungen-ermoeglicht-koennte-diskriminierend-sein-100.html",
     "https://www.deutschlandfunk.de/rsf-miliz-toetete-im-sudan-mehr-als-1-000-fluechtlinge-100.html",
     "https://www.spiegel.de/panorama/fentanyl-so-gross-ist-die-droge-in-deutschland-a-91a5854f-4260-4007-b216-20a94d330cc5#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/aufnahmeprogramm-afghanen-aus-pakistan-duerfen-einreisen-accg-110805063.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ki-generierte-sexbilder-bundesregierung-kuendigt-schaerfere-massnahmen-100.html",
     "https://www.deutschlandfunk.de/rechtsextreme-terroristen-aus-dem-kinderzimmer-sicherheitsbehoerden-warnen-vor-wachsender-online-rad-100.html",
     "https://www.deutschlandfunk.de/parteichefin-bas-ich-werde-nicht-kanzlerkandidatin-der-spd-100.html",
-    "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-erleichterten-abschuss-von-woelfen-100.html"
+    "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-erleichterten-abschuss-von-woelfen-100.html",
+    "https://www.deutschlandfunk.de/warnstreiks-an-unikliniken-fortgesetzt-102.html",
+    "https://www.deutschlandfunk.de/usa-fordern-landsleute-auf-den-iran-umgehend-zu-verlassen-102.html"
   ],
   "content_hashes": [
-    "f1fef3cf94a452ce042ae131b14615ff",
-    "da6a88ed04caa2fb56d6d2866fd0c1d9",
     "9e33d9fddbf2c18d605fca6633381049",
     "0ce05e5d391f399c08956010d8a9ae42",
     "9cc087ebe181d74de2f213fb79112656",
@@ -2001,11 +1999,11 @@
     "7ef254746a6c6a2ce73d959715e11994",
     "64fcc2c803b51836584521f5085534ae",
     "a459f01a93c5d2c7664f817e5829a31a",
-    "94ebec593a93220cfd698d11eb0d186f"
+    "94ebec593a93220cfd698d11eb0d186f",
+    "7ce473786eb0a0ef8ce335e46f23f824",
+    "49f7dd60042a708d223485759c92825d"
   ],
   "titles": [
-    "Nach Anschlag in Sydney - Australien kündigt verschärftes Vorgehen gegen Antisemitismus an",
-    "Europäischer Gerichtshof - Dänisches Gesetz, das Zwangsumsiedlungen ermöglicht, könnte diskriminierend sein",
     "UNO-Bericht - RSF-Miliz tötete im Sudan mehr als 1.000 Flüchtlinge",
     "Fentanyl: So groß ist die Droge in Deutschland",
     "Bundesaufnahmeprogramm: Afghanen dürfen einreisen",
@@ -3003,11 +3001,11 @@
     "Grok-Trend auf X - KI-generierte Sexbilder: Bundesregierung kündigt schärfere Maßnahmen",
     "\"Terrorgram\"-Szene - Rechtsextreme Terroristen aus dem Kinderzimmer: Sicherheitsbehörden warnen vor wachsender Online-Radikalisierung",
     "Sozialdemokraten - Parteichefin Bas: Ich werde nicht Kanzlerkandidatin der SPD",
-    "Landwirtschaft - Bundestag debattiert über erleichterten Abschuss von Wölfen"
+    "Landwirtschaft - Bundestag debattiert über erleichterten Abschuss von Wölfen",
+    "Öffentlicher Dienst - Warnstreiks an Unikliniken fortgesetzt",
+    "Reisewarnung - USA fordern Landsleute auf, den Iran umgehend zu verlassen"
   ],
   "hashes": [
-    "8106379d7d654247bd8062d03f440afc",
-    "54c2e100d22dc414c58051599375522f",
     "337b85625c9706a81ad385a86c959d4e",
     "10d66fc84fcc2ca5b22eca52a67b5947",
     "df21a447685aa9caf9945f0e7d636bc8",
@@ -4005,6 +4003,8 @@
     "6ec768d32817762f85e566d26471c9ea",
     "5b260b9dc991aa724f28c442e1909647",
     "63a562addb7abd562a489caa48b02584",
-    "5c271c8e7dc7aee5250c643f2c3d6023"
+    "5c271c8e7dc7aee5250c643f2c3d6023",
+    "dd0bc2671d280456a65409192b2ffa89",
+    "5bf6148e7605d0c0f5da917596ae025f"
   ]
 }
