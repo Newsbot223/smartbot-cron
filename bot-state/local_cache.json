@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/stressforscher-wir-menschen-brauchen-gelegentlich-das-ausgeschaltetsein-102.html",
-    "https://www.deutschlandfunk.de/ex-regierungschef-khan-zu-17-jahren-haft-verurteilt-102.html",
     "https://www.deutschlandfunk.de/russland-experte-yusupov-erwartet-keinen-kurswechsel-im-kreml-102.html",
     "https://www.deutschlandfunk.de/weidle-winkelmann-faehrt-in-val-d-isere-aufs-podium-102.html",
     "https://www.deutschlandfunk.de/trauer-um-getoeteten-studentenfuehrer-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nato-beginnt-grossmanoever-steadfast-dart-26-in-deutschland-102.html",
     "https://www.deutschlandfunk.de/australien-plattformen-loeschen-4-7-millionen-social-media-accounts-von-kindern-und-jugendlichen-102.html",
     "https://www.deutschlandfunk.de/trump-droht-mit-militaereinsatz-gegen-proteste-in-minneapolis-verletzter-bei-erneutem-schussvorfall-100.html",
-    "https://www.deutschlandfunk.de/bundestag-beschliesst-beschleunigten-waffenkauf-fuer-die-bundeswehr-100.html"
+    "https://www.deutschlandfunk.de/bundestag-beschliesst-beschleunigten-waffenkauf-fuer-die-bundeswehr-100.html",
+    "https://www.deutschlandfunk.de/staatliches-tierhaltungslogo-kommt-erst-100.html",
+    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-opposition-berichtet-von-wahlfaelschungen-102.html"
   ],
   "content_hashes": [
-    "a4833fc7db47a2d9103eeb07e9dfe74e",
-    "a3a21d59cb4051969e7fce70ff01af4c",
     "df3cdd187088dc5accf90ca5b5ae4cb8",
     "5978ac4a7b13efd5484b5d4436aeaf1a",
     "eafbddfbbf406da9e7aef8f4c03d45d5",
@@ -2001,11 +1999,11 @@
     "92238c3344a6d0dae91b353fe7539213",
     "97d913162a4a305f3b94622fb356fc1d",
     "b3a5f2e0e74502cf54fc871799f867ef",
-    "cebda46ef477f11c79ffbc8f2f3d226f"
+    "cebda46ef477f11c79ffbc8f2f3d226f",
+    "33beb687c3635f7bb14299a21d00e1f9",
+    "c78aef1a681532ec007225590ba9f647"
   ],
   "titles": [
-    "Reizüberflutung - Stressforscher: Wir Menschen brauchen gelegentlich das Ausgeschaltetsein",
-    "Pakistan - Ex-Regierungschef Khan zu 17 Jahren Haft verurteilt",
     "Ukraine - Russland-Experte Yusupov erwartet keinen Kurswechsel im Kreml",
     "Ski-Alpin - Weidle-Winkelmann fährt in Val d'Isere aufs Podium",
     "Bangladesch - Trauer um getöteten Studentenführer",
@@ -3003,11 +3001,11 @@
     "Verteidigung - NATO beginnt Großmanöver \"Steadfast Dart 26\" in Deutschland",
     "Seit Verbot - Australien: Plattformen löschen 4,7 Millionen Social-Media-Accounts von Kindern und Jugendlichen",
     "USA - Trump droht mit Militäreinsatz gegen Proteste in Minneapolis - Verletzter bei erneutem Schussvorfall",
-    "Bedrohung durch Russland - Bundestag beschließt beschleunigten Waffenkauf für die Bundeswehr"
+    "Bedrohung durch Russland - Bundestag beschließt beschleunigten Waffenkauf für die Bundeswehr",
+    "Fleischkauf - Staatliches Tierhaltungslogo kommt erst 2027",
+    "Afrika - Präsidentschaftswahl in Uganda - Opposition berichtet von Wahlfälschungen"
   ],
   "hashes": [
-    "bc03fb1c2cbbba4d3087c125fa567b44",
-    "c0b4d4b89de3b14e2c88fc71592c1e64",
     "aec62537c3e5c12a852c1c67ef1a1a5e",
     "6119c76ec423cdc222b7880dbb43cd33",
     "1289d527c133843c04ae41408e666585",
@@ -4005,6 +4003,8 @@
     "2b26ca8f1ee35a1fd619b08032176ba8",
     "43adb672b3ec01ee16e79fb7ae4d9332",
     "a346bd5158185a20f6eb33b00b2eec21",
-    "604e6c47b8052544f332e4582d00386e"
+    "604e6c47b8052544f332e4582d00386e",
+    "193c0df4e58df0274094d6541dbb7db7",
+    "ec7ef01c897bb0f8953212d5cf77875f"
   ]
 }
