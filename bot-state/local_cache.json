@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-sicherheitsrat-verlaengert-friedensmission-in-dr-kongo-um-ein-jahr-102.html",
-    "https://www.deutschlandfunk.de/chef-des-parlamentarischen-kontrollgremiums-will-bnd-staerken-100.html",
-    "https://www.deutschlandfunk.de/hegseth-us-militaer-fliegt-vergeltungsangriff-auf-den-is-102.html",
     "https://www.faz.net/aktuell/politik/inland/israels-botschafter-fordert-mehr-haerte-gegen-linken-antisemitismus-accg-200375858.html",
     "https://www.deutschlandfunk.de/us-militaer-fliegt-angriffe-auf-70-ziele-hegseth-vergeltung-gegen-is-attacke-102.html",
     "https://www.deutschlandfunk.de/prosor-linker-antisemitismus-ist-der-gefaehrlichste-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/fluggesellschaften-meiden-iranischen-luftraum-bericht-grosse-angst-in-der-bevoelkerung-100.html",
     "https://www.deutschlandfunk.de/japan-und-die-philippinen-unterzeichnen-weiteres-verteidigungsabkommen-100.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-2025-leicht-gewachsen-exporte-schwaecheln-weiter-100.html",
-    "https://www.deutschlandfunk.de/frontex-zahl-der-irregulaeren-grenzuebertritte-2025-gesunken-100.html"
+    "https://www.deutschlandfunk.de/frontex-zahl-der-irregulaeren-grenzuebertritte-2025-gesunken-100.html",
+    "https://www.deutschlandfunk.de/welche-wirtschaftsbeziehungen-es-noch-zwischen-dem-iran-und-deutschland-gibt-100.html",
+    "https://www.deutschlandfunk.de/zweite-runde-der-tarifgespraeche-im-oeffentlichen-dienst-104.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2026/1/15/eu-latin-america-trade-deal-who-wins-2?traffic_source=rss"
   ],
   "content_hashes": [
-    "6e371541266065699baa97717e1b9be5",
-    "b778b7d8136047b54948d06922477634",
-    "33c3ddf6109d4a1fb960df9db91d6a08",
     "e0a8be421cf5734fd8f5f7a3ec71c4b8",
     "fe2dc46270939ae1cce34d6f598d9bd5",
     "7e6ad46b66c1d82c78807aad062b70f8",
@@ -2001,12 +1998,12 @@
     "14f99c26716494b34d621b0e15e84539",
     "b16a8bb3cbfae9d231409e09d61d0df4",
     "24cf831a19c537f351f64df936aaff01",
-    "b5a2c03133ae33b1f8525ab75cd0ac22"
+    "b5a2c03133ae33b1f8525ab75cd0ac22",
+    "0cc40a62d11ce44aa5a3d318b8351080",
+    "06e81baa3908634eaaadd7bf53b871e8",
+    "66b99b4bae0395cfe65da2bf2049a529"
   ],
   "titles": [
-    "Afrika - UNO-Sicherheitsrat verlängert Friedensmission in DR Kongo um ein Jahr",
-    "Nachrichtendienste - Chef des Parlamentarischen Kontrollgremiums will BND stärken",
-    "Syrien - Hegseth: \"US-Militär fliegt Vergeltungsangriff auf den IS\"",
     "Ron Prosor: Israels Botschafter fordert mehr Härte gegen linken Antisemitismus",
     "Syrien - US-Militär fliegt Angriffe auf 70 Ziele - Hegseth: \"Vergeltung gegen IS-Attacke\"",
     "Israels Botschafter - Prosor \"Linker Antisemitismus ist der gefährlichste\"",
@@ -3003,12 +3000,12 @@
     "Newsblog zur Lage im Iran - Fluggesellschaften meiden iranischen Luftraum - Bericht: \"Große Angst\" in der Bevölkerung\"",
     "Südostasien - Japan und die Philippinen unterzeichnen weiteres Verteidigungsabkommen",
     "Statistisches Bundesamt - Deutsche Wirtschaft 2025 leicht gewachsen - Exporte schwächeln weiter",
-    "Migration - Frontex: Zahl der irregulären Grenzübertritte 2025 gesunken"
+    "Migration - Frontex: Zahl der irregulären Grenzübertritte 2025 gesunken",
+    "Sanktionen - Welche Wirtschaftsbeziehungen es noch zwischen dem Iran und Deutschland gibt",
+    "Potsdam - Zweite Runde der Tarifgespräche im öffentlichen Dienst",
+    "EU-Latin America trade deal: Who wins?"
   ],
   "hashes": [
-    "83431330dedad3727494f8457b1ca2aa",
-    "2825948b63974e8e577c9c812c67bb66",
-    "ca9a343e1e12f75cdb899672e9ed273b",
     "b5ca7cacd07f553ef079319221c72ad6",
     "e75c08f5063218e3d41686c9acc72f4f",
     "43bf1591eb087237f4e6fec1e81dccce",
@@ -4005,6 +4002,9 @@
     "755918d5c621484ca3ed73aa891de076",
     "229d9a0f9051ebd44287002633f80347",
     "555c62435d5b1ddfa439c208af29031b",
-    "7039f7ead1dc2c8d2eb410bd12ba735e"
+    "7039f7ead1dc2c8d2eb410bd12ba735e",
+    "47a421ebf7d3dc35de06e29d6f09c6bb",
+    "9da1a49916d60168ecb408208237f47a",
+    "d354371b819a6c8c014416a03d1f3420"
   ]
 }
