@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/uno-erklaert-hungersnot-im-gazastreifen-fuer-beendet-situation-weiter-kritisch-100.html",
-    "https://www.deutschlandfunk.de/bundestag-vereinfacht-widerruf-in-online-shops-100.html",
-    "https://www.deutschlandfunk.de/vor-verhandlungen-zwischen-usa-und-russland-ukrainische-delegation-zu-gespraechen-in-miami-eingetrof-100.html",
     "https://www.deutschlandfunk.de/unhcr-warnt-vor-not-in-burundi-100.html",
     "https://www.deutschlandfunk.de/bundesumweltminister-eu-beschluss-fuer-lockerungen-bei-gentechnik-schwerer-fehler-100.html",
     "https://www.deutschlandfunk.de/frankreich-gericht-lehnt-dreimonatige-sperre-der-chinesischen-plattform-shein-ab-pflicht-zur-altersp-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/langzeitherrscher-museveni-tritt-bei-praesidentschaftswahl-erneut-an-uno-kritisert-internetsperre-un-100.html",
     "https://www.deutschlandfunk.de/chatbot-grok-von-elon-musk-schraenkt-moeglichkeiten-fuer-ki-generierte-sexbilder-ein-100.html",
     "https://www.deutschlandfunk.de/iranischer-aussenminister-keine-hinrichtungen-mit-dem-strick-geplant-100.html",
-    "https://www.deutschlandfunk.de/warnstreiks-im-oeffentlichen-dienst-gehen-heute-weiter-100.html"
+    "https://www.deutschlandfunk.de/warnstreiks-im-oeffentlichen-dienst-gehen-heute-weiter-100.html",
+    "https://www.deutschlandfunk.de/sachsen-cdu-aeussert-verstaendnis-fuer-soeder-vorstoss-zur-fusion-von-bundeslaendern-100.html",
+    "https://www.deutschlandfunk.de/weitere-absagen-von-kabinettsmitgliedern-100.html",
+    "https://www.deutschlandfunk.de/auslaender-muessen-hausordnung-einhalten-koalition-in-oesterreich-will-regeln-fuer-asylberechtigte-e-100.html"
   ],
   "content_hashes": [
-    "ca2d3781ddb2807c883bac084e1f4d39",
-    "340a55e87d65fac4e5a9994de42a21ef",
-    "5c23188574a86a1e71b53dc35121dbe2",
     "6a5355d487ed64335b7ffae26422b230",
     "be7c934888f8798c7406e393973d20c5",
     "0e7629b38a43099731ee645f11ddba35",
@@ -2001,12 +1998,12 @@
     "fcdd1a7d8d6e65e84b431d5af1f08f48",
     "b46ef60e17e0cc7a708d5ceb0ddc9f04",
     "7a42df3e11160f9a3c3441b790d7bfe7",
-    "6efb98d098c6ff3e8fe87b514d0f6bb7"
+    "6efb98d098c6ff3e8fe87b514d0f6bb7",
+    "7e789da4f72625b37204f1eb8ed16182",
+    "8a19953cc1ba77eaefc57308ee52e8bd",
+    "6c1cb5aeb1da9aeea3de9d3410b08a9c"
   ],
   "titles": [
-    "Ernährungssicherheit - UNO erklärt Hungersnot im Gazastreifen für beendet - Situation weiter \"kritisch\"",
-    "EU-Richtlinie - Bundestag vereinfacht Widerruf in Online-Shops",
-    "Ukraine-Krieg - Vor Verhandlungen zwischen USA und Russland: Ukrainische Delegation zu Gesprächen in Miami eingetroffen",
     "Ostafrika - UNHCR warnt vor Not in Burundi",
     "Brüssel - Bundesumweltminister: EU-Beschluss für Lockerungen bei Gentechnik \"schwerer Fehler\"",
     "Online-Shopping - Frankreich: Gericht lehnt dreimonatige Sperre der chinesischen Plattform Shein ab - Pflicht zur Altersprüfung von Nutzern verhängt",
@@ -3003,12 +3000,12 @@
     "Uganda - Langzeitherrscher Museveni tritt bei Präsidentschaftswahl erneut an - UNO kritisert Internetsperre und Unterdrückung der Opposition",
     "Nach internationaler Kritik - Chatbot \"Grok\" von Elon Musk schränkt Möglichkeiten für KI-generierte Sexbilder ein",
     "Proteste gegen Regime - Iranischer Außenminister: Keine Hinrichtungen mit dem Strick geplant",
-    "Tarifkonflikt - Warnstreiks im öffentlichen Dienst gehen heute weiter"
+    "Tarifkonflikt - Warnstreiks im öffentlichen Dienst gehen heute weiter",
+    "Föderalismus - Sachsen-CDU äußert Verständnis für Söder-Vorstoß zur Fusion von Bundesländern",
+    "Weimer Media Group - Weitere Absagen von Kabinettsmitgliedern",
+    "ÖVP, SPÖ und Neos - Ausländer müssen \"Hausordnung\" einhalten: Koalition in Österreich will Regeln für Asylberechtigte erneut verschärfen"
   ],
   "hashes": [
-    "b085e480810cdb91cf72b9b464a7c21e",
-    "0a4b38096459bfd6f6b7873eae052722",
-    "e7a5e70ead1e2dd948012974a366ceae",
     "68be06643a112eb266c743508b018878",
     "fca5ee9bc4b3fdaf4de89d9096c1d7e7",
     "cbaba01451aa67d5b12136deea96a95c",
@@ -4005,6 +4002,9 @@
     "cdac47117522fb2187082fea83447b09",
     "57f89893affb9077e32326d81cda282d",
     "00f9205bdbef26d4e961e6104253756b",
-    "f6a81d3f08df61c709312088457df7ff"
+    "f6a81d3f08df61c709312088457df7ff",
+    "3388176ba503f7d2b6e6e6a90aeb3e24",
+    "f7180b2bc3483056a12ac40d4fd5a68a",
+    "0d2d6bf50671587ff124c9a167ba1639"
   ]
 }
