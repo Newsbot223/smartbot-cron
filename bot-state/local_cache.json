@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-experte-yusupov-erwartet-keinen-kurswechsel-im-kreml-102.html",
-    "https://www.deutschlandfunk.de/weidle-winkelmann-faehrt-in-val-d-isere-aufs-podium-102.html",
     "https://www.deutschlandfunk.de/trauer-um-getoeteten-studentenfuehrer-102.html",
     "https://www.deutschlandfunk.de/neue-angriffe-selenskyj-nennt-lage-in-der-kuestenregion-odessa-schwierig-100.html",
     "https://www.deutschlandfunk.de/jugendorganisation-generation-deutschland-in-bayern-gegruendet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-droht-mit-militaereinsatz-gegen-proteste-in-minneapolis-verletzter-bei-erneutem-schussvorfall-100.html",
     "https://www.deutschlandfunk.de/bundestag-beschliesst-beschleunigten-waffenkauf-fuer-die-bundeswehr-100.html",
     "https://www.deutschlandfunk.de/staatliches-tierhaltungslogo-kommt-erst-100.html",
-    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-opposition-berichtet-von-wahlfaelschungen-102.html"
+    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-opposition-berichtet-von-wahlfaelschungen-102.html",
+    "https://www.deutschlandfunk.de/plaene-fuer-neue-gaskraftwerke-in-deutschland-102.html",
+    "https://www.deutschlandfunk.de/steinmeier-betont-bei-eroeffnung-bedeutung-der-landwirtschaft-fuer-gesellschaft-100.html"
   ],
   "content_hashes": [
-    "df3cdd187088dc5accf90ca5b5ae4cb8",
-    "5978ac4a7b13efd5484b5d4436aeaf1a",
     "eafbddfbbf406da9e7aef8f4c03d45d5",
     "5aa331dc020a66e864bbf1c07b351068",
     "587aaa9f2c4f4ce45663918da336af56",
@@ -2001,11 +1999,11 @@
     "b3a5f2e0e74502cf54fc871799f867ef",
     "cebda46ef477f11c79ffbc8f2f3d226f",
     "33beb687c3635f7bb14299a21d00e1f9",
-    "c78aef1a681532ec007225590ba9f647"
+    "c78aef1a681532ec007225590ba9f647",
+    "b55aef3ba944ad268dbdf15eb305ca5c",
+    "9a6cb64ac763f9b1a6fd69a00760a31e"
   ],
   "titles": [
-    "Ukraine - Russland-Experte Yusupov erwartet keinen Kurswechsel im Kreml",
-    "Ski-Alpin - Weidle-Winkelmann fährt in Val d'Isere aufs Podium",
     "Bangladesch - Trauer um getöteten Studentenführer",
     "Ukraine - Neue Angriffe: Selenskyj nennt Lage in der Küstenregion Odessa schwierig",
     "AfD - Jugendorganisation \"Generation Deutschland\" in Bayern gegründet",
@@ -3003,11 +3001,11 @@
     "USA - Trump droht mit Militäreinsatz gegen Proteste in Minneapolis - Verletzter bei erneutem Schussvorfall",
     "Bedrohung durch Russland - Bundestag beschließt beschleunigten Waffenkauf für die Bundeswehr",
     "Fleischkauf - Staatliches Tierhaltungslogo kommt erst 2027",
-    "Afrika - Präsidentschaftswahl in Uganda - Opposition berichtet von Wahlfälschungen"
+    "Afrika - Präsidentschaftswahl in Uganda - Opposition berichtet von Wahlfälschungen",
+    "Erste Einigung mit EU-Kommission - Pläne für neue Gaskraftwerke in Deutschland",
+    "Grüne Woche Berlin - Steinmeier betont bei Eröffnung Bedeutung der Landwirtschaft für Gesellschaft"
   ],
   "hashes": [
-    "aec62537c3e5c12a852c1c67ef1a1a5e",
-    "6119c76ec423cdc222b7880dbb43cd33",
     "1289d527c133843c04ae41408e666585",
     "516802ddc6c83b44f8df425ff16dc14a",
     "f642f7ff0fd8deea8c0357e04def9305",
@@ -4005,6 +4003,8 @@
     "a346bd5158185a20f6eb33b00b2eec21",
     "604e6c47b8052544f332e4582d00386e",
     "193c0df4e58df0274094d6541dbb7db7",
-    "ec7ef01c897bb0f8953212d5cf77875f"
+    "ec7ef01c897bb0f8953212d5cf77875f",
+    "03c7d8c4f6ea39ce645b066b24af19ee",
+    "12fc410e76145da4badbe70b3a73996e"
   ]
 }
