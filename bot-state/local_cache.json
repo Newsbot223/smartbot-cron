@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/unhcr-warnt-vor-not-in-burundi-100.html",
-    "https://www.deutschlandfunk.de/bundesumweltminister-eu-beschluss-fuer-lockerungen-bei-gentechnik-schwerer-fehler-100.html",
-    "https://www.deutschlandfunk.de/frankreich-gericht-lehnt-dreimonatige-sperre-der-chinesischen-plattform-shein-ab-pflicht-zur-altersp-102.html",
-    "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-auf-dem-breitscheidplatz-100.html",
     "https://www.deutschlandfunk.de/drei-menschen-bei-messerangriff-in-taipeh-getoetet-100.html",
     "https://www.deutschlandfunk.de/personalbestand-der-bundeswehr-in-diesem-jahr-um-3-000-soldaten-gewachsen-100.html",
     "https://www.deutschlandfunk.de/correctiv-siegt-vor-gericht-klagen-von-vosgerau-und-moerig-wegen-potsdamer-treffen-abgewiesen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/warnstreiks-im-oeffentlichen-dienst-gehen-heute-weiter-100.html",
     "https://www.deutschlandfunk.de/sachsen-cdu-aeussert-verstaendnis-fuer-soeder-vorstoss-zur-fusion-von-bundeslaendern-100.html",
     "https://www.deutschlandfunk.de/weitere-absagen-von-kabinettsmitgliedern-100.html",
-    "https://www.deutschlandfunk.de/auslaender-muessen-hausordnung-einhalten-koalition-in-oesterreich-will-regeln-fuer-asylberechtigte-e-100.html"
+    "https://www.deutschlandfunk.de/auslaender-muessen-hausordnung-einhalten-koalition-in-oesterreich-will-regeln-fuer-asylberechtigte-e-100.html",
+    "https://www.deutschlandfunk.de/iranischer-luftraum-fuer-mehrere-stunden-zahl-der-todesopfer-steigt-laut-menschenrechtsorganisation--100.html",
+    "https://www.deutschlandfunk.de/eu-recht-bundesregierung-will-recht-auf-reparatur-fuer-elektronische-geraete-schaffen-100.html",
+    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-begonnen-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-kuendigt-nach-massiven-russischen-angriffen-energienotstand-an-100.html"
   ],
   "content_hashes": [
-    "6a5355d487ed64335b7ffae26422b230",
-    "be7c934888f8798c7406e393973d20c5",
-    "0e7629b38a43099731ee645f11ddba35",
-    "fae25dc734637bf1a447c85f58af092a",
     "a214e883fee5062a7c3d1326586eb7d1",
     "e5d997f35c9844ed3ae25cd0ef20501b",
     "bb42adb267f7c83199b20ca2a2a131d4",
@@ -2001,13 +1997,13 @@
     "6efb98d098c6ff3e8fe87b514d0f6bb7",
     "7e789da4f72625b37204f1eb8ed16182",
     "8a19953cc1ba77eaefc57308ee52e8bd",
-    "6c1cb5aeb1da9aeea3de9d3410b08a9c"
+    "6c1cb5aeb1da9aeea3de9d3410b08a9c",
+    "fd12c3bc19efb07bd88a501e860100d5",
+    "2fbe5b4fbe9417262fe0b65834d60b18",
+    "331b0da5da81590e2d534044384f0eca",
+    "f76e3d9f77e031cf25daf43bc3071f2a"
   ],
   "titles": [
-    "Ostafrika - UNHCR warnt vor Not in Burundi",
-    "Brüssel - Bundesumweltminister: EU-Beschluss für Lockerungen bei Gentechnik \"schwerer Fehler\"",
-    "Online-Shopping - Frankreich: Gericht lehnt dreimonatige Sperre der chinesischen Plattform Shein ab - Pflicht zur Altersprüfung von Nutzern verhängt",
-    "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt auf dem Breitscheidplatz",
     "Taiwan - Drei Menschen bei Messerangriff in Taipeh getötet",
     "Verteidigungsministerium - Personalbestand der Bundeswehr in diesem Jahr um 3.000 Soldaten gewachsen",
     "Rechtsextremismus - \"Correctiv\" siegt vor Gericht - Klagen von Vosgerau und Mörig wegen Potsdamer Treffen abgewiesen",
@@ -3003,13 +2999,13 @@
     "Tarifkonflikt - Warnstreiks im öffentlichen Dienst gehen heute weiter",
     "Föderalismus - Sachsen-CDU äußert Verständnis für Söder-Vorstoß zur Fusion von Bundesländern",
     "Weimer Media Group - Weitere Absagen von Kabinettsmitgliedern",
-    "ÖVP, SPÖ und Neos - Ausländer müssen \"Hausordnung\" einhalten: Koalition in Österreich will Regeln für Asylberechtigte erneut verschärfen"
+    "ÖVP, SPÖ und Neos - Ausländer müssen \"Hausordnung\" einhalten: Koalition in Österreich will Regeln für Asylberechtigte erneut verschärfen",
+    "Newsblog zur Lage im Iran - Iranischer Luftraum für mehrere Stunden - Zahl der Todesopfer steigt laut Menschenrechtsorganisation weiter",
+    "Nachhaltigkeit - EU-Recht: Bundesregierung will \"Recht auf Reparatur\" für elektronische Geräte schaffen",
+    "Afrika - Präsidentschaftswahl in Uganda begonnen",
+    "Ukraine-Krieg - Selenskyj kündigt nach massiven russischen Angriffen Energienotstand an"
   ],
   "hashes": [
-    "68be06643a112eb266c743508b018878",
-    "fca5ee9bc4b3fdaf4de89d9096c1d7e7",
-    "cbaba01451aa67d5b12136deea96a95c",
-    "f6e3d75128d85ec7a80d515562976118",
     "aef8499467e43d83e14a8dc9825641e1",
     "e1f021cc997262386619d409b0769ecc",
     "2999efa3b8f8ef8786645e0a46c6e058",
@@ -4005,6 +4001,10 @@
     "f6a81d3f08df61c709312088457df7ff",
     "3388176ba503f7d2b6e6e6a90aeb3e24",
     "f7180b2bc3483056a12ac40d4fd5a68a",
-    "0d2d6bf50671587ff124c9a167ba1639"
+    "0d2d6bf50671587ff124c9a167ba1639",
+    "2b8149a9689538950b564624089577b4",
+    "6461eb2b3c360e60a6528f6a3488d24f",
+    "57ea23591b07b9d8ed43beea15c3aaa5",
+    "2328ffe40b0fdbff1d2127e2dede06ff"
   ]
 }
