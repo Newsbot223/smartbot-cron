@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nasa-verliert-kontakt-zu-mars-sonde-maven-100.html",
-    "https://www.deutschlandfunk.de/ukraine-gespraeche-gehen-in-die-naechste-runde-102.html",
     "https://www.spiegel.de/netzwelt/memes-und-social-media-trends-die-2025-gepraegt-haben-von-labubu-bis-italian-brainrot-a-150aed64-73c2-48a3-825a-0232a5e8ac17#ref=rss",
     "https://www.deutschlandfunk.de/hubig-plant-begrenzung-auf-3-5-prozent-pro-jahr-einschraenkungen-auch-fuer-kurzzeitvermietungen-104.html",
     "https://www.deutschlandfunk.de/gedenkandacht-fuer-anschlagsopfer-vom-weihnachtsmarkt-108.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gesellschaft-schlaegt-doppelten-eigenanteil-fuer-patienten-vor-100.html",
     "https://www.deutschlandfunk.de/deutsche-luftfahrtbehoerden-empfehlen-vermeidung-des-iranischen-luftraums-100.html",
     "https://www.deutschlandfunk.de/amazon-startet-eigenstaendige-cloud-fuer-europa-106.html",
-    "https://www.faz.net/aktuell/politik/inland/masslose-geschichtsvergessenheit-110818981.html"
+    "https://www.faz.net/aktuell/politik/inland/masslose-geschichtsvergessenheit-110818981.html",
+    "https://www.spiegel.de/ausland/nato-grossmanoever-steadfast-dart-26-in-deutschland-gestartet-a-3c48b59d-8c4a-4650-b5e7-f07048469770#ref=rss",
+    "https://www.spiegel.de/politik/deutschland/daniel-guenther-lehnt-markus-soeders-vorschlag-zur-bundeslaenderfusion-ab-a-6a276351-1e9f-4222-ba17-28ec8e66bec3#ref=rss"
   ],
   "content_hashes": [
-    "b259dd46d49974e213970bad037e8391",
-    "04cb52713cd14757d1adc7d970129ca1",
     "bc3b76dad5e449f495c49291b94b3e10",
     "113b10cfaded2a5a3a2dbad65635c7b2",
     "b69b539d0800cec853c625e2201e463d",
@@ -2001,11 +1999,11 @@
     "8abd17a0fe13a06d1529bffc72e335db",
     "51a385b4cfe9d2fda259168ac2c78fc7",
     "a31a1d0b5b74370aa0a64777da750aa2",
-    "4ba325f95c0a9bc14c1b9413ad782cb0"
+    "4ba325f95c0a9bc14c1b9413ad782cb0",
+    "0e6b39c52a0ab95c149001462a5cdb59",
+    "8b241b855cba21d03201bc0abd36107c"
   ],
   "titles": [
-    "Raumfahrt - Nasa verliert Kontakt zu Mars-Sonde \"Maven\"",
-    "Treffen in Miami - Ukraine-Gespräche gehen in die nächste Runde",
     "Memes und Social-Media-Trends, die 2025 geprägt haben: Von Labubu bis »Italian Brainrot«",
     "Indexmieten - Hubig plant Begrenzung auf 3,5 Prozent pro Jahr - Einschränkungen auch für Kurzzeitvermietungen",
     "Berlin - Gedenkandacht für Anschlagsopfer vom Weihnachtsmarkt",
@@ -3003,11 +3001,11 @@
     "Krankenhaus-Aufenthalt - Gesellschaft schlägt doppelten Eigenanteil für Patienten vor",
     "Verkehr - Deutsche Luftfahrtbehörden empfehlen Vermeidung des iranischen Luftraums",
     "Digitalwirtschaft - Amazon startet eigenständige Cloud für Europa",
-    "DDR im Schulunterricht: Maßlose Geschichtsvergessenheit"
+    "DDR im Schulunterricht: Maßlose Geschichtsvergessenheit",
+    "Nato: Großmanöver »Steadfast Dart 26« in Deutschland gestartet",
+    "Daniel Günther lehnt Markus Söders Vorschlag zur Bundesländerfusion ab"
   ],
   "hashes": [
-    "19b56fa841ac2b85dace11c174544e3d",
-    "b3f927511f185c7aa0da22f567d9d0aa",
     "c699e688dee1f9ebaff52766e1310c79",
     "fdab466f32b5d21adeaf089bd205570e",
     "331e0591609aa710ad4f685732d63430",
@@ -4005,6 +4003,8 @@
     "a97dbebef472d7b8a96e42cf935f82ad",
     "2256c5ae4cbaad59e1fe8dd23b0311c8",
     "5f058ae5eee3f94e8d5c0526100a5539",
-    "7c64c1546923f37316dc3da682bb8a74"
+    "7c64c1546923f37316dc3da682bb8a74",
+    "3f2e88ade3da4c1cca9eeafa04cd1c68",
+    "afa171d6281ff63f095554005972e2d3"
   ]
 }
