@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/san-francisco-nach-brand-im-umspannwerk-130-000-haushalte-zwischenzeitlich-ohne-strom-102.html",
-    "https://www.deutschlandfunk.de/regierung-will-internet-anbieter-zu-speicherung-von-ip-adressen-verpflichten-100.html",
     "https://www.deutschlandfunk.de/weitere-ukraine-gespraeche-in-florida-putin-wohl-zu-gespraech-mit-macron-bereit-100.html",
     "https://www.deutschlandfunk.de/israelisches-kabinett-genehmigt-weitere-siedlungen-im-westjordanland-102.html",
     "https://www.deutschlandfunk.de/knapp-ueber-100-000-visa-fuer-familiennachzug-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/linken-fraktionschefin-reichinnek-gegen-pflichtdienst-fuer-buergergeld-empfaenger-100.html",
     "https://www.deutschlandfunk.de/spd-und-cdu-in-brandenburg-nehmen-koalitionsverhandlungen-auf-102.html",
     "https://www.deutschlandfunk.de/grossbritiannien-unterstuetzt-ukrainische-energie-infrastruktur-mit-20-millionen-pfund-100.html",
-    "https://www.deutschlandfunk.de/landesverfassungsgerichtshof-ueberprueft-lockerungen-im-ladenschlussgesetz-100.html"
+    "https://www.deutschlandfunk.de/landesverfassungsgerichtshof-ueberprueft-lockerungen-im-ladenschlussgesetz-100.html",
+    "https://www.deutschlandfunk.de/grossauftrag-fuer-daimler-truck-7-000-militaerische-lkw-fuer-franzoesische-armee-100.html",
+    "https://www.spiegel.de/panorama/justiz/berlin-gericht-verurteilt-19-jaehrigen-is-unterstuetzer-zu-drei-jahren-jugendstrafe-a-e953eb7c-e9f7-4f8e-ad45-ea71a867023f#ref=rss"
   ],
   "content_hashes": [
-    "af782cad14c3a0f76b58fac335abaf4b",
-    "f2216c452ddeea5ebae330f8609e2deb",
     "5a1e7f222fee9c3b1d2d2698569160cd",
     "fddee9de0d55786af2bb859366331a52",
     "86f5875092110bc69b36ca437c597d70",
@@ -2001,11 +1999,11 @@
     "73fb896d7de575608c47bc4b0fa28e14",
     "0f3cf8b05c62cfe365e11e28f5174c10",
     "5a2ff71a7ede649580921455098ecf54",
-    "2e60517ab5aa2b34afd8f9358ed249f7"
+    "2e60517ab5aa2b34afd8f9358ed249f7",
+    "1f2bb0efc1cc5e46c529ab2752f66955",
+    "c7ad7c2fbb4acfb88b38fa291117f126"
   ],
   "titles": [
-    "USA - San Francisco: Nach Brand im Umspannwerk 130.000 Haushalte zwischenzeitlich ohne Strom",
-    "Kriminalität im Netz - Regierung will Internet-Anbieter zu Speicherung von IP-Adressen verpflichten",
     "USA - Weitere Ukraine-Gespräche in Florida - Putin wohl zu Gespräch mit Macron bereit",
     "Palästinensergebiete - Israelisches Kabinett genehmigt weitere Siedlungen im Westjordanland",
     "Medienbericht - Knapp über 100.000 Visa für Familiennachzug",
@@ -3003,11 +3001,11 @@
     "Kritik an CDU-Vorschlag - Linken-Fraktionschefin Reichinnek gegen Pflichtdienst für Bürgergeld-Empfänger",
     "Nach Koalitionsbruch mit BSW - SPD und CDU in Brandenburg nehmen Koalitionsverhandlungen auf",
     "Russischer Angriffskrieg - Großbritiannien unterstützt ukrainische Energie-Infrastruktur mit 20 Millionen Pfund",
-    "Bayern - Landesverfassungsgerichtshof überprüft Lockerungen im Ladenschlussgesetz"
+    "Bayern - Landesverfassungsgerichtshof überprüft Lockerungen im Ladenschlussgesetz",
+    "Rüstungsindustrie - Großauftrag für Daimler Truck: 7.000 militärische Lkw für französische Armee",
+    "Berlin: Gericht verurteilt 19-jährigen IS-Unterstützer zu drei Jahren Jugendstrafe"
   ],
   "hashes": [
-    "3fd86adad4d018a62fcdc36ac09763fd",
-    "a993088502475ec11d5c79f86ad1e284",
     "0c9a281eec7a61237b92f6d524740431",
     "0cbf62e0c86d86d5d47cb57d5b272386",
     "9095e35b1570143ea49ad03c69093ab6",
@@ -4005,6 +4003,8 @@
     "2f3d4ce26fa0e2a20abfb577be00d075",
     "ee2f103094b7d7ad12828ead5e73269a",
     "c78830439cd7fe633c1d036d82674676",
-    "14980f68c75acc64e37d089e15afb2da"
+    "14980f68c75acc64e37d089e15afb2da",
+    "b297f371ccb6c6dbe93ae34680781116",
+    "e142f1036de08f9ca3b4bdc3cc20ebed"
   ]
 }
