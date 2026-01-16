@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hunderttausende-menschen-vertrieben-102.html",
-    "https://www.deutschlandfunk.de/vermoegen-von-elon-musk-betraegt-749-milliarden-euro-100.html",
-    "https://www.deutschlandfunk.de/hilfswerk-missio-115-entfuehrte-kinder-in-nigeria-freigelassen-100.html",
-    "https://www.deutschlandfunk.de/interview-baetzing-georg-bischof-vorsitzender-der-deutschen-bischofskonferenz-100.html",
     "https://www.deutschlandfunk.de/san-francisco-nach-brand-im-umspannwerk-130-000-haushalte-zwischenzeitlich-ohne-strom-102.html",
     "https://www.deutschlandfunk.de/regierung-will-internet-anbieter-zu-speicherung-von-ip-adressen-verpflichten-100.html",
     "https://www.deutschlandfunk.de/weitere-ukraine-gespraeche-in-florida-putin-wohl-zu-gespraech-mit-macron-bereit-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/mehr-als-4-000-waffen-in-besitz-von-rechtsextremisten-und-reichsbuergern-100.html",
     "https://www.deutschlandfunk.de/junta-in-myanmar-weist-vorwurf-des-voelkermords-an-den-rohingya-zurueck-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-belegt-wichtigen-rohstoff-aus-china-fuer-herstellung-von-stahl-und-keramik-mit-zoellen-100.html",
-    "https://www.deutschlandfunk.de/drei-deutsche-politische-haeftlinge-in-venezuela-freigelassen-100.html"
+    "https://www.deutschlandfunk.de/drei-deutsche-politische-haeftlinge-in-venezuela-freigelassen-100.html",
+    "https://www.deutschlandfunk.de/linken-fraktionschefin-reichinnek-gegen-pflichtdienst-fuer-buergergeld-empfaenger-100.html",
+    "https://www.deutschlandfunk.de/spd-und-cdu-in-brandenburg-nehmen-koalitionsverhandlungen-auf-102.html",
+    "https://www.deutschlandfunk.de/grossbritiannien-unterstuetzt-ukrainische-energie-infrastruktur-mit-20-millionen-pfund-100.html",
+    "https://www.deutschlandfunk.de/landesverfassungsgerichtshof-ueberprueft-lockerungen-im-ladenschlussgesetz-100.html"
   ],
   "content_hashes": [
-    "507ff044a5d834e8fcd4077ae78ab073",
-    "3f5f802f811095d3b25399d49cb27b11",
-    "326894d6e8aafe1a7b40b3c88ace723d",
-    "96ee40923acb77b1c79d3d228935e900",
     "af782cad14c3a0f76b58fac335abaf4b",
     "f2216c452ddeea5ebae330f8609e2deb",
     "5a1e7f222fee9c3b1d2d2698569160cd",
@@ -2001,13 +1997,13 @@
     "b4b86045eefea7b122a7dcf8e51d0178",
     "9fb9129bf882a5746ddf8137bc868048",
     "464e50150d640302405072eb6730c8d4",
-    "c30defdfc206466548127b0623b1eaaa"
+    "c30defdfc206466548127b0623b1eaaa",
+    "73fb896d7de575608c47bc4b0fa28e14",
+    "0f3cf8b05c62cfe365e11e28f5174c10",
+    "5a2ff71a7ede649580921455098ecf54",
+    "2e60517ab5aa2b34afd8f9358ed249f7"
   ],
   "titles": [
-    "Grenzkonflikt zwischen Thailand und Kambodscha - Hunderttausende Menschen vertrieben",
-    "Forbes-Bericht - Vermögen von Elon Musk beträgt 749 Milliarden Euro",
-    "Nigeria - Hilfswerk missio: 115 entführte Kinder in Nigeria freigelassen",
-    "Katholische Kirche - Bischof Georg Bätzing wirft der AfD Menschenverachtung vor",
     "USA - San Francisco: Nach Brand im Umspannwerk 130.000 Haushalte zwischenzeitlich ohne Strom",
     "Kriminalität im Netz - Regierung will Internet-Anbieter zu Speicherung von IP-Adressen verpflichten",
     "USA - Weitere Ukraine-Gespräche in Florida - Putin wohl zu Gespräch mit Macron bereit",
@@ -3003,13 +2999,13 @@
     "Bericht - Mehr als 4.000 Waffen in Besitz von Rechtsextremisten und Reichsbürgern",
     "Internationaler Gerichtshof - Junta in Myanmar weist Vorwurf des Völkermords an den Rohingya zurück",
     "Anti-Dumping-Maßnahme - EU-Kommission belegt wichtigen Rohstoff aus China für Herstellung von Stahl und Keramik mit Zöllen",
-    "Nach US-Intervention - Drei deutsche politische Häftlinge in Venezuela freigelassen"
+    "Nach US-Intervention - Drei deutsche politische Häftlinge in Venezuela freigelassen",
+    "Kritik an CDU-Vorschlag - Linken-Fraktionschefin Reichinnek gegen Pflichtdienst für Bürgergeld-Empfänger",
+    "Nach Koalitionsbruch mit BSW - SPD und CDU in Brandenburg nehmen Koalitionsverhandlungen auf",
+    "Russischer Angriffskrieg - Großbritiannien unterstützt ukrainische Energie-Infrastruktur mit 20 Millionen Pfund",
+    "Bayern - Landesverfassungsgerichtshof überprüft Lockerungen im Ladenschlussgesetz"
   ],
   "hashes": [
-    "e6d7af40323ebcc879dd69cd104248b8",
-    "fb386f0fac0511df658ba3bddf4c1179",
-    "df472f9706ddd21d9e692e90d9d95d1a",
-    "d06d28142514393f99ac12f08df251f9",
     "3fd86adad4d018a62fcdc36ac09763fd",
     "a993088502475ec11d5c79f86ad1e284",
     "0c9a281eec7a61237b92f6d524740431",
@@ -4005,6 +4001,10 @@
     "15c80979806b584f5850104d7ad531c8",
     "219a0273ccc797376b1574b4be8ec479",
     "5a0abdf94567ef5e2b1e21da129d703f",
-    "9573f90f853c5acb3981a438ed6d845c"
+    "9573f90f853c5acb3981a438ed6d845c",
+    "2f3d4ce26fa0e2a20abfb577be00d075",
+    "ee2f103094b7d7ad12828ead5e73269a",
+    "c78830439cd7fe633c1d036d82674676",
+    "14980f68c75acc64e37d089e15afb2da"
   ]
 }
