@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zwei-tote-bei-israelischen-militaereinsaetzen-im-westjordanland-102.html",
-    "https://www.deutschlandfunk.de/kirchen-positionen-zu-migration-nur-noch-mit-gruenen-und-linken-decklungsgleich-bischof-baetzing-wei-100.html",
-    "https://www.deutschlandfunk.de/hauptbahnhof-stuttgart-nach-evakuierung-wieder-freigegeben-100.html",
     "https://www.deutschlandfunk.de/usa-beschlagnahmen-erneut-einen-tanker-mit-oel-aus-venezuela-100.html",
     "https://www.deutschlandfunk.de/brasiliens-praesident-fordert-mehr-mut-von-den-europaeern-100.html",
     "https://www.aljazeera.com/news/2025/12/21/russia-ukraine-war-list-of-key-events-day-1396?traffic_source=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/cdu-politiker-stegemann-sieht-normalisierung-bei-lebensmittelpreisen-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-antisemitismusbeauftragte-wie-buettner-selbst-opfer-werden-accg-110819575.html",
     "https://www.spiegel.de/wirtschaft/soziales/sven-schulze-in-sachsen-anhalt-fordert-dienstpflicht-fuer-leistungsempfaenger-a-b5bc37fa-927c-4e80-b24d-6f484b17f4cf#ref=rss",
-    "https://www.deutschlandfunk.de/bekanntgabe-der-details-zur-kaufpraemie-fuer-elektroautos-kurzfristig-verschoben-letzte-abstimmungen-100.html"
+    "https://www.deutschlandfunk.de/bekanntgabe-der-details-zur-kaufpraemie-fuer-elektroautos-kurzfristig-verschoben-letzte-abstimmungen-100.html",
+    "https://www.deutschlandfunk.de/ukrainisches-militaer-heftige-kaempfe-im-osten-armeechef-meldet-steigende-russische-verluste-100.html",
+    "https://www.deutschlandfunk.de/amtsinhaber-museveni-liegt-laut-wahlkommission-in-uganda-vorne-100.html",
+    "https://www.deutschlandfunk.de/fast-fuenf-millionen-accounts-in-australien-deaktiviert-104.html"
   ],
   "content_hashes": [
-    "69f4f28827b9bad4085fa22a00927b33",
-    "1856fae82fb7f3820503c9c4eed1916a",
-    "4fd0c8bb846f571edc7e915ac1f43d53",
     "c3a609ee5c6315f7df0b9370d2760f5d",
     "e697c3f08541babb365ec06f261b1d8a",
     "7d5715b727ccbc86247dbacadb3e5cec",
@@ -2001,12 +1998,12 @@
     "bdc4cba3d1b90e5572f20c569a890005",
     "143bc47b6082540ded50a5c69032a8cb",
     "d7e2b5559ac6d9d7edfaa5da4d301f1e",
-    "d74526051ad59ff0de1f47cd0d04b444"
+    "d74526051ad59ff0de1f47cd0d04b444",
+    "6e8bffa71f02c8cd1da81dd10f76c39d",
+    "1d5b2c84c5fe231173f81fad05e14a26",
+    "819b981bce2b7077c53e2b5641753834"
   ],
   "titles": [
-    "Nahostkonflikt - Zwei Tote bei israelischen Militäreinsätzen im Westjordanland",
-    "Interview der Woche - Kirchen-Positionen zu Migration nur noch mit Grünen und Linken decklungsgleich? Bischof Bätzing weist Vorwurf zurück",
-    "Verdächtiges Gepäckstück - Hauptbahnhof Stuttgart nach Evakuierung wieder freigegeben",
     "Karibik - USA beschlagnahmen erneut einen Tanker mit Öl aus Venezuela",
     "Mercosur-Abkommen - Brasiliens Präsident fordert mehr Mut von den Europäern",
     "Russia-Ukraine war: List of key events, day 1,396",
@@ -3003,12 +3000,12 @@
     "Inflation - CDU-Politiker Stegemann sieht Normalisierung bei Lebensmittelpreisen",
     "Antisemitismusbeauftragte: Sie werden selbst zur Zielscheibe",
     "Sven Schulze in Sachsen-Anhalt fordert Dienstpflicht für Leistungsempfänger",
-    "Umweltministerium - Bekanntgabe der Details zur Kaufprämie für Elektroautos kurzfristig verschoben - \"letzte Abstimmungen in der Bundesregierung\""
+    "Umweltministerium - Bekanntgabe der Details zur Kaufprämie für Elektroautos kurzfristig verschoben - \"letzte Abstimmungen in der Bundesregierung\"",
+    "Ukraine-Krieg - Ukrainisches Militär: Heftige Kämpfe im Osten - Armeechef meldet steigende russische Verluste",
+    "Präsidentschaftswahl - Amtsinhaber Museveni liegt laut Wahlkommission in Uganda vorne",
+    "Social Media - Fast fünf Millionen Accounts in Australien deaktiviert"
   ],
   "hashes": [
-    "1e4a65b779dfea4e02ad93765076dc63",
-    "0a14329be7d5b2e3c5e01fafa59c608e",
-    "3864bd315c4bd743b5f6bb183629e390",
     "cd3af42f187a1148577e9b2eca8d81d1",
     "c705b5f4b0b8b1d11c0f54c6a890197f",
     "b338f6354aa3ed2d4dfea0cddf081d5a",
@@ -4005,6 +4002,9 @@
     "fbe01933f8777cebeda4f7fdfea4f54a",
     "f816c8524c146f464dc477f0297ebdfd",
     "bb37f2b426ba2baf10a4220bce051705",
-    "aa79875fb386914ae376bcb266ee325e"
+    "aa79875fb386914ae376bcb266ee325e",
+    "e0484d832dd43c5ec43dbb5883dd695a",
+    "761faac92302e57c279519632774c56c",
+    "c25524b7502af6f20c6b039a9feb0c68"
   ]
 }
