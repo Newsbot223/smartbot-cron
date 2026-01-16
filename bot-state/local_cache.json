@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/epstein-akten-das-justizministerium-wird-zu-trumps-kanzlei-110806841.html",
-    "https://www.faz.net/aktuell/politik/inland/vorratsdatenspeicherung-kampf-um-einen-popanz-110806902.html",
     "https://www.deutschlandfunk.de/ukraine-kuendigt-weitere-gespraechsrunde-mit-us-vertretern-an-102.html",
     "https://www.deutschlandfunk.de/asean-staaten-befassen-sich-mit-thailand-kambodscha-konflikt-104.html",
     "https://www.deutschlandfunk.de/unterhaendler-berichten-von-konstruktiven-gespraechen-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/trump-droht-gegnern-seiner-groenland-plaene-mit-strafzoellen-100.html",
     "https://www.deutschlandfunk.de/afd-veranstaltung-mit-rechtsextremist-sellner-in-brandenburg-wird-abgesagt-100.html",
     "https://www.deutschlandfunk.de/erneute-gefechte-befuerchtet-tausende-syrer-fliehen-aus-region-aleppo-100.html",
-    "https://www.faz.net/aktuell/politik/ausland/der-friedensnobelpreis-fuer-maria-corina-machado-war-ein-irrtum-110820900.html"
+    "https://www.faz.net/aktuell/politik/ausland/der-friedensnobelpreis-fuer-maria-corina-machado-war-ein-irrtum-110820900.html",
+    "https://www.deutschlandfunk.de/bau-des-fehmarnbelt-tunnels-duerfte-sich-um-zwei-jahre-verlaengern-eroeffnung-wohl-erst-100.html",
+    "https://www.faz.net/aktuell/politik/inland/warum-deutschland-ueber-die-atombombe-nachdenken-muss-110820923.html"
   ],
   "content_hashes": [
-    "89d6006fa29ac15eae03aae2f298e19c",
-    "e0fa5a449f54c15b719ea1c28954b97a",
     "830392664d666f22b411719c60acd5c3",
     "64a3cfe134821ac07be93a123037dd6b",
     "41ac6649e5eee54e78672df72e89fd18",
@@ -2001,11 +1999,11 @@
     "cafaa354babd9aafe1cb67d703dd58d2",
     "a4205f769fe6a72c31d82359b71cd672",
     "50900f9059d219b5634e8bb85b186fb0",
-    "5241f84010f55a632c26fdb1cf825049"
+    "5241f84010f55a632c26fdb1cf825049",
+    "4367942fa57611e23c91f54827defb27",
+    "60a4541668ed6e97ff0e9c8a5c916c43"
   ],
   "titles": [
-    "Epstein Files: Das Justizministerium wird Trumps Kanzlei",
-    "Vorratsdatenspeicherung: Kampf um einen Popanz",
     "Verhandlungen in Miami - Ukraine kündigt weitere Gesprächsrunde mit US-Vertretern an",
     "Sondertreffen - Asean-Staaten befassen sich mit Thailand-Kambodscha-Konflikt",
     "Ukraine-Verhandlungen in Miami - Unterhändler berichten von \"konstruktiven\" Gesprächen",
@@ -3003,11 +3001,11 @@
     "USA - Trump droht Gegnern seiner Grönland-Pläne mit Strafzöllen",
     "Medienberichte - AfD-Veranstaltung mit Rechtsextremist Sellner in Brandenburg wird abgesagt",
     "Machtkampf mit Kurden - Erneute Gefechte befürchtet: Tausende Syrer fliehen aus Region Aleppo",
-    "Friedensnobelpreis: Die Entscheidung für Machado war ein Irrtum"
+    "Friedensnobelpreis: Die Entscheidung für Machado war ein Irrtum",
+    "Dänemark - Bau des Fehmarnbelt-Tunnels dürfte sich um zwei Jahre verlängern: Eröffnung wohl erst 2031",
+    "Debatte über Atomwaffen: Wenn Putin nicht mehr glaubt, dass Trump auf den Knopf drückt"
   ],
   "hashes": [
-    "ba3b2a9727b60401180446dac17277fd",
-    "d28e301a46a379f6cc090d12263dfcbc",
     "2d314410b162acad48f6b387d059331f",
     "537728221774d9a11ff7ab809cd471e1",
     "c7019ffed3f4fc2c9e777c0c620fca81",
@@ -4005,6 +4003,8 @@
     "2ae9123344ecdf16d2d9082fed7bd84c",
     "c4a5beb5f94e2464277433e9f3eed2db",
     "291d70d612b4330ae3f942705deceeb2",
-    "042c941829eabb39e4583526ec272a23"
+    "042c941829eabb39e4583526ec272a23",
+    "1e82ac33f2260c09c5a58169a115c7df",
+    "3bffd483691479c63376958587fa91e0"
   ]
 }
