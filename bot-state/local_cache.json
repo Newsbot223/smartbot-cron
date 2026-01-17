@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gericht-laesst-klima-klage-von-vier-indonesischen-fischern-gegen-zementkonzern-zu-100.html",
-    "https://www.deutschlandfunk.de/2025-mehr-1-000-verdaechtige-drohnenfluege-in-deutschland-festgestellt-102.html",
     "https://www.deutschlandfunk.de/russischer-general-durch-autobombe-in-moskau-getoetet-102.html",
     "https://www.deutschlandfunk.de/kirchlicher-armutsbeauftragter-fordert-mehr-staatliche-hilfe-fuer-arme-menschen-100.html",
     "https://www.deutschlandfunk.de/gruenen-europaabgeordnete-reintke-noch-keine-bereitschaft-in-moskau-zu-waffenruhe-erkennbar-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/armee-meldet-einnahme-der-stadt-deir-hafer-oestlich-von-aleppo-100.html",
     "https://www.deutschlandfunk.de/europaeischer-filmpreis-wird-verliehen-102.html",
     "https://www.deutschlandfunk.de/chamenei-trump-ist-verantwortlich-fuer-die-unruhen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/ludwig-erhard-gipfel-immer-mehr-absagen-110820220.html"
+    "https://www.faz.net/aktuell/politik/inland/ludwig-erhard-gipfel-immer-mehr-absagen-110820220.html",
+    "https://www.deutschlandfunk.de/ugandischer-oppositionsfuehrer-wine-entkommt-nach-eigenen-angaben-entfuehrungsversuch-100.html",
+    "https://www.deutschlandfunk.de/organisationen-mahnen-den-schutz-von-wasser-als-gemeingut-an-100.html"
   ],
   "content_hashes": [
-    "ac3552cdf7ae5e4afd1d7ab22de90cd3",
-    "3ef6a024d1b1e2234bde6f2bc5b2ae7c",
     "47cae5a65305b3760e60875bea6627aa",
     "6322e3139db0ea617d128d92c8899b6b",
     "fd514b5553601e59b1093495df91d8ec",
@@ -2001,11 +1999,11 @@
     "a10c6a68b8a8732b9d2f6272d6c19d7d",
     "f43f50fcacfd760ed8c604ff073cfa2d",
     "b4d5137a4fecee4b8971f27c191ac986",
-    "8497d9bee6f989c42c7e3dc40bb2abdd"
+    "8497d9bee6f989c42c7e3dc40bb2abdd",
+    "54a625df54cbb98bc142f8858f36df83",
+    "af4e44b037944fac3ece7681765cd0a1"
   ],
   "titles": [
-    "Schweiz - Gericht lässt Klima-Klage von vier indonesischen Fischern gegen Zementkonzern zu",
-    "Bericht - 2025 mehr 1.000 \"verdächtige Drohnenflüge\" in Deutschland festgestellt",
     "Moskau - Russischer General durch Autobombe in Moskau getötet",
     "Berlin - Kirchlicher Armutsbeauftragter fordert mehr staatliche Hilfe für arme Menschen",
     "Ukraine-Krieg - Grünen-Europaabgeordnete Reintke: Noch keine Bereitschaft in Moskau zu Waffenruhe erkennbar",
@@ -3003,11 +3001,11 @@
     "Syrien - Armee meldet Einnahme der Stadt Deir Hafer östlich von Aleppo",
     "Berlin - Europäischer Filmpreis wird verliehen",
     "Proteste im Iran - Chamenei: \"Trump ist verantwortlich für die Unruhen\"",
-    "Ludwig-Erhard-Gipfel: Flucht aus der Grauzone"
+    "Ludwig-Erhard-Gipfel: Flucht aus der Grauzone",
+    "Nach der Präsidentenwahl - Ugandischer Oppositionsführer Wine entkommt nach eigenen Angaben Entführungsversuch",
+    "Agrarministerkonferenz - Organisationen mahnen den Schutz von Wasser als Gemeingut an"
   ],
   "hashes": [
-    "3cef116a8f9891eecc9faa1e78133460",
-    "91605afee9aa966f60ebcbd29cc3d8d7",
     "31f33807951846abaa51b7d3b9d09d2a",
     "8696bfd14a9c05cf3b72bb51c4c17091",
     "c6803514d629b4a945115f045eb5b750",
@@ -4005,6 +4003,8 @@
     "f392028bf27b873ba5df60f1ff7af2c8",
     "b640dae1b56ffc156389544232cda4d1",
     "aaffa0ae422fd1d588b349c5a8860afd",
-    "b3e4ca6e01d40ab218aca5ab51a170b9"
+    "b3e4ca6e01d40ab218aca5ab51a170b9",
+    "ac0cbb54246d35c4d75aac8b0c972ecf",
+    "4a897a32dcee5b9ce4d8efcaa2f07c56"
   ]
 }
