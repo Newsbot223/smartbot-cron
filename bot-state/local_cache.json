@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gruene-werfen-union-und-spd-wegen-angekuendigter-anhebungen-trotz-sparpaket-politisches-versagen-vor-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-guenther-cdu-will-zuckersteuer-bundesratsinitiative-angekuendigt-100.html",
-    "https://www.deutschlandfunk.de/nettogehalt-vieler-gut-und-topverdiener-wird-2026-geringer-ausfallen-100.html",
     "https://www.deutschlandfunk.de/herbe-niederlage-fuer-s-nchez-sozialisten-bei-regionalwahl-in-der-extremadura-rechtsextreme-vox-legt-100.html",
     "https://www.deutschlandfunk.de/mindestens-46-katholische-kirchen-wurden-2025-dauerhaft-aufgegeben-100.html",
     "https://www.deutschlandfunk.de/unhcr-deutschland-warnt-vor-folgen-ungleicher-finanzierung-humanitaerer-krisen-wegen-ukraine-krieg-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/syriens-praesident-scharaa-staerkt-rechte-der-kurdischen-minderheit-102.html",
     "https://www.deutschlandfunk.de/eu-behoerde-empfiehlt-fluggesellschaften-den-iranischen-luftraum-zu-meiden-104.html",
     "https://www.deutschlandfunk.de/lula-europa-und-mercosur-staaten-schreiben-geschichte-104.html",
-    "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss",
+    "https://www.deutschlandfunk.de/muenchner-sicherheitskonferenz-zieht-einladung-an-iranische-regierungsvertreter-zurueck-102.html",
+    "https://www.deutschlandfunk.de/usa-zu-uebungen-in-groenland-eingeladen-102.html",
+    "https://www.deutschlandfunk.de/trump-beruft-blair-und-rubio-in-friedensrat-fuer-gazastreifen-keine-deutsche-beteiligung-100.html"
   ],
   "content_hashes": [
-    "063843e2698641385b45ec5919e0d6ca",
-    "3c1b2620d9e59001296c8abd33dfc8b5",
-    "d2e60c4cce1404a628a109790476421b",
     "11b9c33177a8c86a60e217a7f420da61",
     "37b5d84b1e28e2031365f00269093d9a",
     "a59f140c041850376a507ec7ec2792b3",
@@ -2001,12 +1998,12 @@
     "06bdfb972aecfbac30104669523b5acf",
     "8ed0d975e16083d65c3bc389a1c6674c",
     "fc7e57ef768d2f199f988f03091c3642",
-    "773009ffde53fb88fc0b1daf32d2050c"
+    "773009ffde53fb88fc0b1daf32d2050c",
+    "ab142eaf8718038515b4e0c83ff9a80b",
+    "0add3188ed497ceb9a8e903fcab38ba8",
+    "d5136be3036dee33195804c3044e9564"
   ],
   "titles": [
-    "Krankenkassen-Zusatzbeiträge - Grüne werfen Union und SPD wegen angekündigter Anhebungen trotz Sparpaket \"politisches Versagen\" vor",
-    "Schleswig-Holstein - Ministerpräsident Günther (CDU) will Zuckersteuer: Bundesratsinitiative angekündigt",
-    "Medienbericht - Nettogehalt vieler Gut- und Topverdiener wird 2026 geringer ausfallen",
     "Spanien - Herbe Niederlage für Sánchez' Sozialisten bei Regionalwahl in der Extremadura - rechtsextreme Vox legt deutlich zu",
     "Religion - Mindestens 46 katholische Kirchen wurden 2025 dauerhaft aufgegeben",
     "Flüchtlinge - UNHCR Deutschland warnt vor Folgen ungleicher Finanzierung humanitärer Krisen wegen Ukraine-Krieg",
@@ -3003,12 +3000,12 @@
     "Nach Gefechten - Syriens Präsident Scharaa stärkt Rechte der kurdischen Minderheit",
     "Warnung - EU-Behörde empfiehlt Fluggesellschaften, den iranischen Luftraum zu meiden",
     "Freihandelsabkommen wird unterzeichnet - Lula: Europa und Mercosur-Staaten schreiben Geschichte",
-    "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’"
+    "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’",
+    "Medienberichte - Münchner Sicherheitskonferenz zieht Einladung an iranische Regierungsvertreter zurück",
+    "Dänisches Arktis-Kommando - USA zu Übungen in Grönland eingeladen",
+    "Nachkriegsordnung - Trump beruft Blair und Rubio in \"Friedensrat\" für Gazastreifen - keine deutsche Beteiligung"
   ],
   "hashes": [
-    "a61bbc7a52785f5ec948921c502515f7",
-    "696456b4b2be055679c5af6fbb8a091e",
-    "ff15701feeaec22a33b9b145a77b4447",
     "57c7a569a7ccf70ac75c129b01fb5ffe",
     "60a1a4d1dc56729c41f766258aa16625",
     "c493f266e1adbf827de320efa2392cc6",
@@ -4005,6 +4002,9 @@
     "d01d5143d6fd68fae1077c8d0765585e",
     "a912ab2b1e69214e5980fab4f61a511f",
     "1571999b67f6285ffdf2e973feb57cf5",
-    "a50d2211b74ca4995e26def66a4f63f2"
+    "a50d2211b74ca4995e26def66a4f63f2",
+    "86d04c326ac5e80054e19a520f4ba499",
+    "bd0ce2e4ff3987a2fdfdb8b692495b82",
+    "2251f626371222294b81c3a1e9e5893d"
   ]
 }
