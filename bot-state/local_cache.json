@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mindestens-46-katholische-kirchen-wurden-2025-dauerhaft-aufgegeben-100.html",
-    "https://www.deutschlandfunk.de/unhcr-deutschland-warnt-vor-folgen-ungleicher-finanzierung-humanitaerer-krisen-wegen-ukraine-krieg-100.html",
     "https://www.deutschlandfunk.de/hoehere-zusatzbeitraege-warken-cdu-weist-kritik-der-krankenkassen-zurueck-sie-machen-es-sich-zu-einf-100.html",
     "https://www.deutschlandfunk.de/unhcr-deutschland-chefin-eine-so-harte-situation-wie-im-sudan-habe-ich-in-ueber-20-jahren-noch-nicht-102.html",
     "https://www.deutschlandfunk.de/epstein-akten-entferntes-foto-von-trump-steht-wieder-online-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/muenchner-sicherheitskonferenz-zieht-einladung-an-iranische-regierungsvertreter-zurueck-102.html",
     "https://www.deutschlandfunk.de/usa-zu-uebungen-in-groenland-eingeladen-102.html",
     "https://www.deutschlandfunk.de/trump-beruft-blair-und-rubio-in-friedensrat-fuer-gazastreifen-keine-deutsche-beteiligung-100.html",
-    "https://www.deutschlandfunk.de/regierung-von-ecuador-schickt-10-000-soldaten-in-kuestenprovinzen-100.html"
+    "https://www.deutschlandfunk.de/regierung-von-ecuador-schickt-10-000-soldaten-in-kuestenprovinzen-100.html",
+    "https://www.deutschlandfunk.de/us-richterin-schraenkt-befugnisse-von-ice-beamten-in-minnesota-ein-102.html",
+    "https://www.deutschlandfunk.de/leichte-zunahme-der-internetverbindungen-im-iran-100.html"
   ],
   "content_hashes": [
-    "37b5d84b1e28e2031365f00269093d9a",
-    "a59f140c041850376a507ec7ec2792b3",
     "edd5988c9e71852552a07ad91d544194",
     "670ad74457a632ecd1b8e282a1c06168",
     "c0d855c2c4d5293eb1945e5b2fffa084",
@@ -2001,11 +1999,11 @@
     "ab142eaf8718038515b4e0c83ff9a80b",
     "0add3188ed497ceb9a8e903fcab38ba8",
     "d5136be3036dee33195804c3044e9564",
-    "eb4a4af0aa2ac9e3ad42d52b5e6d1836"
+    "eb4a4af0aa2ac9e3ad42d52b5e6d1836",
+    "dd851fc5a13e75b771c0006940e1ef83",
+    "4fdd9339098759bdbbc6018b647864e8"
   ],
   "titles": [
-    "Religion - Mindestens 46 katholische Kirchen wurden 2025 dauerhaft aufgegeben",
-    "Flüchtlinge - UNHCR Deutschland warnt vor Folgen ungleicher Finanzierung humanitärer Krisen wegen Ukraine-Krieg",
     "Gesundheitspolitik - Höhere Zusatzbeiträge: Warken (CDU) weist Kritik der Krankenkassen zurück: \"Sie machen es sich zu einfach\"",
     "Flüchtlinge - UNHCR-Deutschland-Chefin: Eine so harte Situation wie im Sudan habe ich in über 20 Jahren noch nicht erlebt",
     "Missbrauchsskandal - Epstein-Akten: Entferntes Foto von Trump steht wieder online",
@@ -3003,11 +3001,11 @@
     "Medienberichte - Münchner Sicherheitskonferenz zieht Einladung an iranische Regierungsvertreter zurück",
     "Dänisches Arktis-Kommando - USA zu Übungen in Grönland eingeladen",
     "Nachkriegsordnung - Trump beruft Blair und Rubio in \"Friedensrat\" für Gazastreifen - keine deutsche Beteiligung",
-    "Bekämpfung des Drogenhandels - Regierung von Ecuador schickt 10.000 Soldaten in Küstenprovinzen"
+    "Bekämpfung des Drogenhandels - Regierung von Ecuador schickt 10.000 Soldaten in Küstenprovinzen",
+    "Schüsse auf Renee Good - US-Richterin schränkt Befugnisse von ICE-Beamten in Minnesota ein",
+    "Netzblockade - Leichte Zunahme der Internetverbindungen im Iran"
   ],
   "hashes": [
-    "60a1a4d1dc56729c41f766258aa16625",
-    "c493f266e1adbf827de320efa2392cc6",
     "ec9893247a70ac2ae8e317929b4319fb",
     "4a4f0cd6fd6c39853ca5d766c425d3ae",
     "e97cdbf8d9e40f44b98a4c59ef10fce6",
@@ -4005,6 +4003,8 @@
     "86d04c326ac5e80054e19a520f4ba499",
     "bd0ce2e4ff3987a2fdfdb8b692495b82",
     "2251f626371222294b81c3a1e9e5893d",
-    "386b9b2399d7780e40c4e5d754f3fbe0"
+    "386b9b2399d7780e40c4e5d754f3fbe0",
+    "2609a0321241ca1f77edfe7dca3543f6",
+    "fdb3a6d16ed3368a12df27d1a48522ff"
   ]
 }
