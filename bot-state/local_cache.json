@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-haftbefehl-gegen-ehemaligen-cdu-abgeordneten-axel-fischer-erlassen-faz-110093143.html",
-    "https://www.deutschlandfunk.de/anklage-gegen-syrer-wegen-verbrechen-gegen-die-menschlichkeit-und-mord-100.html",
     "https://www.deutschlandfunk.de/guerillagruppen-in-kolumbien-vereinbaren-waffenruhe-ueber-weihnachten-102.html",
     "https://www.deutschlandfunk.de/rahmede-talbruecke-wird-fuer-den-verkehr-freigegeben-100.html",
     "https://www.deutschlandfunk.de/russischer-general-durch-autobombe-getoetet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rund-3000-menschen-bei-demos-in-leipzig-100.html",
     "https://www.faz.net/aktuell/politik/inland/vorstoss-von-stiftungen-gegen-silodenken-in-der-bildung-accg-110820889.html",
     "https://www.deutschlandfunk.de/freihandelsabkommen-der-eu-mit-den-mercosur-staaten-unterzeichnet-100.html",
-    "https://www.faz.net/aktuell/politik/inland/der-spd-ist-nicht-mehr-zu-helfen-110820704.html"
+    "https://www.faz.net/aktuell/politik/inland/der-spd-ist-nicht-mehr-zu-helfen-110820704.html",
+    "https://www.deutschlandfunk.de/tausende-demonstrieren-fuer-wandel-im-iran-102.html",
+    "https://www.spiegel.de/politik/demo-in-leipzig-linke-szene-streitet-ueber-nahost-a-b73a20bd-fadd-43ef-bc77-eecb46f9de1b#ref=rss"
   ],
   "content_hashes": [
-    "aace0e6ca8a2ec27d7d51df4c28baa6d",
-    "1d838577bd58ea7ae22d08c5f468490f",
     "8e2177953220ce5360b9dc49f97e4b74",
     "1a44b91891247cda49b4e306d8d6bb9d",
     "4344987b3a8abfbdaf64d47ca56021d7",
@@ -2001,11 +1999,11 @@
     "7126c129ed7ad2403ae13df676fe59e3",
     "621e84e0f9ab66143370b909ae74681e",
     "7a9363d2be15bcf5181934ac8e5c76a3",
-    "ed7ea67782c7da8077556ac6bee52c76"
+    "ed7ea67782c7da8077556ac6bee52c76",
+    "5909edbe9d53b88de0585164de4ff4e5",
+    "e8ee5b05a17a5943e02849a59817cabb"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Haftbefehl gegen ehemaligen CDU-Abgeordneten erlassen",
-    "Bundesanwaltschaft - Anklage gegen Syrer wegen Verbrechen gegen die Menschlichkeit und Mord",
     "ELN und EMC - Guerillagruppen in Kolumbien vereinbaren Waffenruhe über Weihnachten",
     "A45 - Rahmede-Talbrücke wird für den Verkehr freigegeben",
     "Moskau - Russischer General durch Autobombe getötet",
@@ -3003,11 +3001,11 @@
     "Pro-Palästina und Pro-Israel - Rund 3000 Menschen bei Demos in Leipzig",
     "Vorstoß von 20 Stiftungen: Gegen das Silodenken in der Bildung",
     "Paraguay - Freihandelsabkommen der EU mit den Mercosur-Staaten unterzeichnet",
-    "Reformpolitik: Der SPD ist nicht mehr zu helfen"
+    "Reformpolitik: Der SPD ist nicht mehr zu helfen",
+    "Proteste in mehreren deutschen Städten - Tausende demonstrieren für Wandel im Iran",
+    "Demo in Leipzig: Linke Szene streitet über Nahost"
   ],
   "hashes": [
-    "2fa39a21e8f90d67bd62aa0be0fa9b8c",
-    "53f17b9059519d7164c660985e5c33f5",
     "896b97acfa95952a9b889f903cff573c",
     "6397aca357f51e572fc0b2d777fbd91e",
     "346d6a9dde8348e2c42574973f312552",
@@ -4005,6 +4003,8 @@
     "bcbb884256a6e766ee9db24609364cc1",
     "275ce0c7f45ed1b6b55822b5a8e2704d",
     "ea7a4edb6db11a59b8230fdbf553488d",
-    "d9b251cd867848f2b0bfd28761831e44"
+    "d9b251cd867848f2b0bfd28761831e44",
+    "458d8c17a219cc0999f8ed06dcbfd4b1",
+    "8ff25b2afff2fcf887627401aba4a6d7"
   ]
 }
