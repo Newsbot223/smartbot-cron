@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/medizinischer-dienst-fordert-digitales-register-zur-dokumentation-von-behandlungsfehlern-102.html",
-    "https://www.deutschlandfunk.de/gericht-laesst-klima-klage-von-vier-indonesischen-fischen-gegen-zementkonzern-zu-100.html",
     "https://www.deutschlandfunk.de/rahmede-talbruecke-soll-heute-fuer-den-verkehr-freigegeben-werden-100.html",
     "https://www.deutschlandfunk.de/selenskyj-und-witkoff-sprechen-von-konstruktiven-gespraechen-100.html",
     "https://www.deutschlandfunk.de/gericht-laesst-klima-klage-von-vier-indonesischen-fischern-gegen-zementkonzern-zu-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/daenisches-arktis-kommando-laedt-usa-zu-gemeinsamen-uebungen-ein-erkundungsmission-beginnt-100.html",
     "https://www.deutschlandfunk.de/uno-abkommen-zum-schutz-der-meere-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/us-richterin-schraenkt-befugnisse-der-einwanderungspolizei-ice-ein-102.html",
-    "https://www.faz.net/aktuell/politik/inland/warum-weidel-und-chrupalla-auf-ausladung-sellners-dringen-110820899.html"
+    "https://www.faz.net/aktuell/politik/inland/warum-weidel-und-chrupalla-auf-ausladung-sellners-dringen-110820899.html",
+    "https://www.deutschlandfunk.de/armee-meldet-einnahme-der-stadt-deir-hafer-oestlich-von-aleppo-100.html",
+    "https://www.deutschlandfunk.de/europaeischer-filmpreis-wird-verliehen-102.html"
   ],
   "content_hashes": [
-    "6791641682776e7bd3edc54759c636dc",
-    "029a313a89d402d73564a5a10c3fc87e",
     "4ef7e53f828108cec01000f80a82d341",
     "10913fde6947a5272cdd5c2901d455a4",
     "ac3552cdf7ae5e4afd1d7ab22de90cd3",
@@ -2001,11 +1999,11 @@
     "f09e678ec16aaa070d55cfec12cbef5a",
     "3735bccf17c3f70607cf79a9319f5004",
     "da5d7cc2157dc11f0f43559f25f9560d",
-    "5c5d4c79b9a92ff0a588d583bbd13901"
+    "5c5d4c79b9a92ff0a588d583bbd13901",
+    "a10c6a68b8a8732b9d2f6272d6c19d7d",
+    "f43f50fcacfd760ed8c604ff073cfa2d"
   ],
   "titles": [
-    "Kranken- und Pflegekassen - Medizinischer Dienst fordert digitales Register zur Dokumentation von Behandlungsfehlern",
-    "Schweiz - Gericht lässt Klima-Klage von vier indonesischen Fischen gegen Zementkonzern zu",
     "A45 - Rahmede-Talbrücke soll heute für den Verkehr freigegeben werden",
     "Ukraine-Verhandlungen in Miami - Selenskyj und Witkoff sprechen von konstruktiven Gesprächen",
     "Schweiz - Gericht lässt Klima-Klage von vier indonesischen Fischern gegen Zementkonzern zu",
@@ -3003,11 +3001,11 @@
     "Streit um Grönland - Dänisches Arktis-Kommando lädt USA zu gemeinsamen Übungen ein - Erkundungsmission beginnt",
     "Umwelt - UNO-Abkommen zum Schutz der Meere in Kraft getreten",
     "Minnesota - US-Richterin schränkt Befugnisse der Einwanderungspolizei ICE ein",
-    "AfD und Identitäre: Sellner, die AfD und das Damoklesschwert Parteiverbot"
+    "AfD und Identitäre: Sellner, die AfD und das Damoklesschwert Parteiverbot",
+    "Syrien - Armee meldet Einnahme der Stadt Deir Hafer östlich von Aleppo",
+    "Berlin - Europäischer Filmpreis wird verliehen"
   ],
   "hashes": [
-    "27025fdd8e58ed1f7d983ab98356eb13",
-    "5048ddfc626049d66d1bea08a0911c11",
     "f669da4f641345d8e59bb6453df05b30",
     "59aeccd69840de985229331dafe03c19",
     "3cef116a8f9891eecc9faa1e78133460",
@@ -4005,6 +4003,8 @@
     "7453f7fef2c8c21e5244205dd96de859",
     "f76d1bca020a053c86af33829baa121a",
     "673ae203e595469784933dcfc7b7750f",
-    "c86b8555c6275ea5a4d0f716f4176084"
+    "c86b8555c6275ea5a4d0f716f4176084",
+    "f392028bf27b873ba5df60f1ff7af2c8",
+    "b640dae1b56ffc156389544232cda4d1"
   ]
 }
