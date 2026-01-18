@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berichte-ueber-raketentest-in-teheran-isfahan-und-maschhad-100.html",
-    "https://www.deutschlandfunk.de/netanjahu-gegen-unabhaengige-untersuchung-102.html",
-    "https://www.spiegel.de/ausland/141-afghanen-mit-charterflugzeug-nach-deutschland-gebracht-a-f6832d86-0df1-4642-a247-589e682227f6#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/das-symbol-von-rahmede-110807748.html",
     "https://www.deutschlandfunk.de/selenskyj-erwarte-russische-angriffswelle-ueber-weihnachten-102.html",
     "https://www.deutschlandfunk.de/rainer-csu-will-videoueberwachung-verpflichtend-machen-104.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/politik/syrer-in-deutschland-einbuergerung-statt-rueckkehr-nach-assad-sturz-a-c5bdd02a-a68a-44f0-87b5-9f6c1dbf9f91#ref=rss",
     "https://www.deutschlandfunk.de/deutsche-industrie-und-handelskammertag-kritisiert-angekuendigte-us-zoelle-scharf-100.html",
     "https://www.deutschlandfunk.de/jordaniens-koenig-abdullah-soll-in-den-friedensrat-einziehen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-proteste-gegen-besuch-des-syrischen-praesidenten-geplant-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-proteste-gegen-besuch-des-syrischen-praesidenten-geplant-faz-110093143.html",
+    "https://www.deutschlandfunk.de/deutsche-wirtschaft-zu-trumps-zolldrohungen-eu-muss-nun-geschlossen-handeln-100.html",
+    "https://www.deutschlandfunk.de/politologe-biebricher-zu-afd-problematisch-wenn-20-bis-30-prozent-der-waehler-davon-ausgehen-muessen-100.html",
+    "https://www.spiegel.de/panorama/deutschlands-aelteste-klosterbrauerei-wird-geschluckt-a-97127454-0758-4a0f-a8fa-130bd2341a55#ref=rss"
   ],
   "content_hashes": [
-    "5e1885273a79dbd5dd44f0dee61657af",
-    "b8e0a00c86a4ad2fddf0df348c2cae60",
-    "0f8bbe0933c2ec8d3a4479bf0fcabe6a",
     "9d99dec7bdecc8772fb154c05bb26ec1",
     "b59d50e6b2381623d26eabcbfe0ff239",
     "cc9a6974d6a917403884e51b69dedaec",
@@ -2001,12 +1998,12 @@
     "4b05f69f6dbfc3e784091cc6d57ae621",
     "d8e2685f8a4b68e38ea907f7b59e6996",
     "399724b3e99da55ee2f9a3ac1e2ec513",
-    "43e46775510c6c82da390e7e335d8ca5"
+    "43e46775510c6c82da390e7e335d8ca5",
+    "58b7864336a15585fe9858adce17c47c",
+    "c1d6f0917221932d66fb3b911ab32f36",
+    "cebec4be4e2089f83ce54b3f23e5fb30"
   ],
   "titles": [
-    "Iran - Berichte über Raketentest in Teheran, Isfahan und Maschhad",
-    "Anschlag vom 7. Oktober - Netanjahu gegen unabhängige Untersuchung",
-    "141 Afghanen mit Charterflugzeug nach Deutschland gebracht",
     "Autobahnbrücke eröffnet: Das Symbol von Rahmede",
     "Krieg gegen die Ukraine - Selenskyj: \"Erwarte russische Angriffswelle über Weihnachten\"",
     "Arbeit in Schlachthöfen - Rainer (CSU) will Videoüberwachung verpflichtend machen",
@@ -3003,12 +3000,12 @@
     "Syrer in Deutschland: Einbürgerung statt Rückkehr nach Assad-Sturz",
     "Streit um Grönland - Deutsche Industrie- und ​Handelskammertag kritisiert angekündigte US-Zölle scharf",
     "Gaza - Jordaniens König Abdullah soll in den \"Friedensrat\" einziehen",
-    "Deutschland-Blog: Proteste gegen Besuch des syrischen Präsidenten geplant"
+    "Deutschland-Blog: Proteste gegen Besuch des syrischen Präsidenten geplant",
+    "Streit um Grönland - Deutsche Wirtschaft zu Trumps Zolldrohungen: EU muss nun geschlossen handeln",
+    "Superwahljahr 2026 - Politologe Biebricher zu AfD: \"Problematisch, wenn 20 bis 30 Prozent der Wähler davon ausgehen müssen, dass ihre Partei nicht an die Macht kommt\"",
+    "Deutschlands älteste Klosterbrauerei wird geschluckt"
   ],
   "hashes": [
-    "7dfead01460191b87a753707064ed48a",
-    "7d884096d9dbdad9bd5c4a3e4c474c54",
-    "83d4814e517c583277e960c1bafac5db",
     "93e58728719c9e7367416ce20e4152d5",
     "5f06a3294d0630d251df18cdd6e77dce",
     "542d9ecf8943cd516b6663d7b04914ac",
@@ -4005,6 +4002,9 @@
     "4ec3553cb73a5c341737f58728269ce2",
     "40132d500ebd9bdb35ac2bb2a14eb01e",
     "cd36a16bfc4f67a296075a0024747778",
-    "ee9ecd5a649113aaa814bc0c42737e80"
+    "ee9ecd5a649113aaa814bc0c42737e80",
+    "0d0aab82a14f59f276a91232de7152c3",
+    "82aef189589702b03d427a3fa1b007c4",
+    "225601eb113e342efe41144195175d97"
   ]
 }
