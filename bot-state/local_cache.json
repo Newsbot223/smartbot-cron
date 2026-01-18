@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russischer-general-durch-autobombe-getoetet-100.html",
-    "https://www.deutschlandfunk.de/neue-autobahnbruecke-rahmede-in-suedwestfalen-freigegeben-102.html",
-    "https://www.deutschlandfunk.de/missbrauchsbeauftragte-claus-begruesst-plaene-zur-speicherung-von-ip-adressen-100.html",
-    "https://www.deutschlandfunk.de/nach-vorstoss-von-ministerpraesident-guenther-bundesfinanzministerium-sieht-keine-grundlage-fuer-zuc-100.html",
     "https://www.deutschlandfunk.de/erneut-russische-angriffe-auf-hafenstadt-odessa-102.html",
     "https://www.deutschlandfunk.de/kopernikus-buch-aus-dem-16-jahrhundert-in-lund-wiedergefunden-102.html",
     "https://www.deutschlandfunk.de/eu-ueberweist-weitere-2-3-milliarden-an-kiew-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/tausende-demonstrieren-fuer-wandel-im-iran-102.html",
     "https://www.spiegel.de/politik/demo-in-leipzig-linke-szene-streitet-ueber-nahost-a-b73a20bd-fadd-43ef-bc77-eecb46f9de1b#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/seltene-erden-das-macht-die-behoerde-fuer-rohstoffe-110816807.html",
-    "https://www.deutschlandfunk.de/russischer-besatzer-melden-stromausfaelle-nach-drohnenangriffen-102.html"
+    "https://www.deutschlandfunk.de/russischer-besatzer-melden-stromausfaelle-nach-drohnenangriffen-102.html",
+    "https://www.deutschlandfunk.de/israel-veraergert-wegen-besetzung-eines-gaza-gremiums-104.html",
+    "https://www.deutschlandfunk.de/trump-fordert-neue-fuehrung-im-iran-104.html",
+    "https://www.deutschlandfunk.de/erste-runde-der-praesidentschaftswahl-rechtsextremer-kandidat-ventura-ein-favorit-fuer-einzug-in-die-106.html",
+    "https://www.deutschlandfunk.de/gruene-jugend-chef-bobga-beleidigt-soeder-mit-haftbefehl-songzeile-ruecktrittsforderung-aus-csu-100.html"
   ],
   "content_hashes": [
-    "4344987b3a8abfbdaf64d47ca56021d7",
-    "b7ee31e1758cd4c0fc851d89b5afee29",
-    "f2998d81bf79bc9f0874464218924641",
-    "63fc80caa6e6aeaea68d05dd28182f99",
     "40ade4665a19e45bb1dddcab17158c05",
     "6425e8fef0ffeeb85b103e20a1c90833",
     "ff7c65386365a1b5eeb1dba6d28ad303",
@@ -2001,13 +1997,13 @@
     "5909edbe9d53b88de0585164de4ff4e5",
     "e8ee5b05a17a5943e02849a59817cabb",
     "779c820b4e655a53207c46c9174044fb",
-    "611d5c18cbe18b05ef35d41230686ddb"
+    "611d5c18cbe18b05ef35d41230686ddb",
+    "109858661c55d94355929541a5659496",
+    "af4b1a53210579b1f891824053c13bc2",
+    "25b38d47ecfd3c4d332a83dfaf91ccc5",
+    "11a4c0fb916227af01fb789eef89b37f"
   ],
   "titles": [
-    "Moskau - Russischer General durch Autobombe getötet",
-    "Verkehr - Neue Autobahnbrücke Rahmede in Südwestfalen freigegeben",
-    "\"Entscheidende Wende\" - Missbrauchsbeauftragte Claus begrüßt Pläne zur Speicherung von IP-Adressen",
-    "\"Nicht im Koalitionsvertrag\" - Nach Vorstoß von Ministerpräsident Günther: Bundesfinanzministerium sieht keine Grundlage für Zuckersteuer",
     "Krieg in der Ukraine - Erneut russische Angriffe auf Hafenstadt Odessa",
     "Schweden - Kopernikus-Buch aus dem 16. Jahrhundert in Lund wiedergefunden",
     "Finanzhilfen für die Ukraine - EU überweist weitere 2,3 Milliarden an Kiew",
@@ -3003,13 +2999,13 @@
     "Proteste in mehreren deutschen Städten - Tausende demonstrieren für Wandel im Iran",
     "Demo in Leipzig: Linke Szene streitet über Nahost",
     "Kritische Rohstoffe: Beamte auf Schatzsuche",
-    "Ukraine - Russischer Besatzer melden Stromausfälle nach Drohnenangriffen"
+    "Ukraine - Russischer Besatzer melden Stromausfälle nach Drohnenangriffen",
+    "Exekutivkomitee - Israel verärgert wegen Besetzung eines Gaza-Gremiums",
+    "Politico - Trump fordert neue Führung im Iran",
+    "Portugal - Erste Runde der Präsidentschaftswahl - Rechtsextremer Kandidat Ventura ein Favorit für Einzug in die Stichwahl",
+    "Instagram-Video - Grüne-Jugend-Chef Bobga beleidigt Söder mit Haftbefehl-Songzeile - Rücktrittsforderung aus CSU"
   ],
   "hashes": [
-    "346d6a9dde8348e2c42574973f312552",
-    "e4a32a403b5d93f2cfbcd6ea51fe2bf4",
-    "ef4672e33dbf945ce4f5ea496135786a",
-    "fed0b9de22711872e4b998210c295dc3",
     "93f67b4cc604bd8c99048780ad591ec8",
     "3a5c8d18e1583ae814c35d53407b3e91",
     "1c6612b7054b17f82d2dde795fe916c1",
@@ -4005,6 +4001,10 @@
     "458d8c17a219cc0999f8ed06dcbfd4b1",
     "8ff25b2afff2fcf887627401aba4a6d7",
     "497fb72c954f0763ac8cd60fd6b6d6e5",
-    "5462bca1d9eb8a62c8d3162eb793f3ee"
+    "5462bca1d9eb8a62c8d3162eb793f3ee",
+    "a308dedb9e2345122bf3a4db719ded77",
+    "c7a11a13f17ec055ea5762741e5e6cfe",
+    "c7158b159b1d90ff415bedf08707043a",
+    "386d1cdda353e2e7800694fc7b481dcb"
   ]
 }
