@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/was-hat-trump-mit-venezuela-vor-interview-mit-joachim-krause-100.html",
-    "https://www.spiegel.de/wirtschaft/die-deutschen-trinken-weniger-sekt-und-champagner-a-8d517636-949e-42d6-86e9-2b9b450373a2#ref=rss",
     "https://www.deutschlandfunk.de/eu-kommission-weitet-staatliche-hilfen-fuer-energieintensive-branchen-aus-100.html",
     "https://www.deutschlandfunk.de/umwelthilfe-chef-resch-scheitert-auch-vor-kammergericht-mit-klage-auf-loeschung-kritischer-facebook--100.html",
     "https://www.deutschlandfunk.de/adac-warnt-nach-eingeleiteter-abkehr-vom-verbrenner-aus-vor-aufweichen-der-klimaschutzsziele-im-verk-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weltwirtschaftsforum-in-davos-beginnt-geopolitische-themen-im-fokus-100.html",
     "https://www.deutschlandfunk.de/zentralrat-der-jesiden-kritisiert-fehlende-konsequenzen-aus-anerkennung-des-voelkermords-im-nordirak-100.html",
     "https://www.deutschlandfunk.de/sozialist-seguro-gewinnt-erste-runde-der-praesidentschaftswahl-auch-rechtspopulist-ventura-erreicht--100.html",
-    "https://www.spiegel.de/wirtschaft/oxfam-bericht-vor-davos-2026-die-reichen-der-welt-werden-immer-reicher-a-6ee1b508-f18a-44df-9b16-c21662c4d5bb#ref=rss"
+    "https://www.spiegel.de/wirtschaft/oxfam-bericht-vor-davos-2026-die-reichen-der-welt-werden-immer-reicher-a-6ee1b508-f18a-44df-9b16-c21662c4d5bb#ref=rss",
+    "https://www.deutschlandfunk.de/mindestens-24-tote-und-viele-schwerverletzte-bei-unglueck-mit-zwei-hochgeschwindigkeitszuegen-100.html",
+    "https://www.deutschlandfunk.de/mindestens-sechs-tote-nach-grossbrand-in-einkaufszentrum-in-pakistanischer-stadt-karachi-dutzende-ve-100.html"
   ],
   "content_hashes": [
-    "0c5b88037f755f1897a5e728444a90d0",
-    "7a0fac9a386f74f9a70b0b6ac9773d12",
     "fa2fc8622ed904e2428b79e4eb2755e1",
     "d7aada3846757090ff92ae7f9a4eaba9",
     "a8e1a3707e449a9fee901db3057f1b53",
@@ -2001,11 +1999,11 @@
     "189eb004342d704b3f17c3051d043cd1",
     "cef7fb53b9514b0b0157cd3d44e12d44",
     "6c3cde833a28e04634167d3386c599bf",
-    "02b60f904950f6c0808c789a1e24e70b"
+    "02b60f904950f6c0808c789a1e24e70b",
+    "2d1b75330a589c61db0f6d9478a89788",
+    "88c504ca211f482035084371171c9b66"
   ],
   "titles": [
-    "USA und Venezuela - Politologe Krause: \"Was Trump macht, ist so absurd\"",
-    "Die Deutschen trinken weniger Sekt und Champagner",
     "Strompreis - EU-Kommission weitet staatliche Hilfen für energieintensive Branchen aus",
     "Hasspostings - Umwelthilfe-Chef Resch scheitert auch vor Kammergericht mit Klage auf Löschung kritischer Facebook-Gruppen",
     "Mobilität - ADAC warnt nach eingeleiteter Abkehr vom Verbrenner-Aus vor Aufweichen der Klimaschutzsziele im Verkehrsbereich",
@@ -3003,11 +3001,11 @@
     "Schweiz - Weltwirtschaftsforum in Davos beginnt - geopolitische Themen im Fokus",
     "Drei Jahre nach Bundestags-Entscheidung - Zentralrat der Jesiden kritisiert fehlende Konsequenzen aus Anerkennung des Völkermords im Nordirak",
     "Portugal - Sozialist Seguro gewinnt erste Runde der Präsidentschaftswahl - auch Rechtspopulist Ventura erreicht Stichwahl",
-    "Oxfam-Bericht vor Davos 2026: Die Reichen der Welt werden immer reicher"
+    "Oxfam-Bericht vor Davos 2026: Die Reichen der Welt werden immer reicher",
+    "Spanien - Mindestens 24 Tote und viele Schwerverletzte bei Unglück mit zwei Hochgeschwindigkeitszügen",
+    "Unglück in Millionenstadt - Mindestens sechs Tote nach Großbrand in Einkaufszentrum in pakistanischer Stadt Karachi - Dutzende Vermisste"
   ],
   "hashes": [
-    "35bb939714b37c31657ece1f30243a1f",
-    "50a078e7ad40ed2f6d1e09ad7a7f7fe6",
     "afea4ae3ea5e69eba0000c989d987392",
     "2be20a69c3899da2d3e8369be9aa2155",
     "c1b7c6a6f74692f80735a07d2d5f43bb",
@@ -4005,6 +4003,8 @@
     "0b2975072627dca449677f863e95ef06",
     "672ef88f1dfd80504811f5ba99cb1d10",
     "bfb9f08ad245548f0d03a8469a559c93",
-    "804c1fe8c31e1bbf11c579dc889a0538"
+    "804c1fe8c31e1bbf11c579dc889a0538",
+    "7f931cf5670dde5662544dbd452ba0ba",
+    "524afc8f18d6d33cf5ca71098a569e8c"
   ]
 }
