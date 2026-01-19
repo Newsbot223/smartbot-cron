@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanzleramt-muss-ermittlungen-wegen-beleidigung-offenlegen-djv-merz-soll-recherchen-nicht-behindern-100.html",
-    "https://www.deutschlandfunk.de/indiens-kirche-beklagt-massive-angriffe-auf-christen-in-der-vorweihnachtszeit-100.html",
-    "https://www.deutschlandfunk.de/ukraine-verkuendet-rueckzug-aus-stadt-siwersk-in-der-region-donezk-102.html",
-    "https://www.faz.net/aktuell/politik/inland/abschiebung-nach-syrien-ein-gutes-signal-110808715.html",
     "https://www.deutschlandfunk.de/knapp-jeder-dritte-tafel-kunde-ist-ein-kind-100.html",
     "https://www.deutschlandfunk.de/debuetant-arno-merk-besiegt-ex-weltmeister-peter-wright-102.html",
     "https://www.deutschlandfunk.de/sammelklage-gegen-internetbeschraenkungen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/wie-die-eu-auf-die-us-strafzoelle-reagieren-koennte-100.html",
     "https://www.faz.net/aktuell/politik/inland/warum-gibt-es-keine-dunkelfeldstudie-der-bundeswehr-zu-fehlverhalten-accg-110821241.html",
     "https://www.deutschlandfunk.de/ost-agrarminister-wenden-sich-gegen-eu-kuerzungen-fuer-bauern-102.html",
-    "https://www.deutschlandfunk.de/bundesumweltminister-schneider-stellt-details-zur-foerderung-von-elektroautos-vor-102.html"
+    "https://www.deutschlandfunk.de/bundesumweltminister-schneider-stellt-details-zur-foerderung-von-elektroautos-vor-102.html",
+    "https://www.deutschlandfunk.de/putin-soll-laut-kreml-in-den-friedensrat-fuer-gaza-100.html",
+    "https://www.deutschlandfunk.de/iwf-rechnet-mit-staerkerem-wachstum-der-deutschen-wirtschaft-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesidentin-takaichi-setzt-neuwahlen-fuer-den-8-februar-an-102.html",
+    "https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss"
   ],
   "content_hashes": [
-    "2e3fe12bf45d97417ee609cd43499269",
-    "09db321a55b51cf157086c69e9a10f23",
-    "97cc2fed305855a4725ca1c2f8e3b080",
-    "1bbc718d101f6804844f52ab00ffe1b1",
     "53fb4816698530575514cc69bcbc7c4d",
     "840a412900236f8d45390847dc5d09bb",
     "71912eb827fe3bb89215b1cf2d8441f6",
@@ -2001,13 +1997,13 @@
     "17f2856e2a46242ca5ec1486de8260f3",
     "19e2561d53e6db9a69a64d12e9554284",
     "8495d84b1e4b1d689eea76617cb5a651",
-    "6b09ed252f87a6218f61801c87a4c0dc"
+    "6b09ed252f87a6218f61801c87a4c0dc",
+    "e1017bf9b2ea962b0f6dfdf7906f1d0c",
+    "236f3941227b480babfd9b6afbb55fb7",
+    "29d3fda9c65e4d85fd348fb43be374b4",
+    "3aefee6bc6607401ef01a736deb672de"
   ],
   "titles": [
-    "Gerichtsurteil - Kanzleramt muss Ermittlungen wegen Beleidigung offenlegen - DJV: Merz soll Recherchen nicht behindern",
-    "Hindunationalisten - Indiens Kirche beklagt massive Angriffe auf Christen in der Vorweihnachtszeit",
-    "Kiew - Ukraine verkündet Rückzug aus Stadt Siwersk in der Region Donezk",
-    "Abschiebung nach Syrien: Ein gutes Signal",
     "Soziales - Knapp jeder dritte Tafel-Kunde ist ein Kind",
     "Darts-WM - Debütant Arno Merk besiegt Ex-Weltmeister Peter Wright",
     "Russland - Sammelklage gegen Internetbeschränkungen",
@@ -3003,13 +2999,13 @@
     "Grönland-Streit - Wie die EU auf die US-Strafzölle reagieren könnte",
     "Bundeswehr: Der Minister und die Geisterstudie",
     "Landwirtschaft - Ost-Agrarminister wenden sich gegen EU-Kürzungen für Bauern",
-    "Förderkonzept - Bundesumweltminister Schneider stellt Details zur Förderung von Elektroautos vor"
+    "Förderkonzept - Bundesumweltminister Schneider stellt Details zur Förderung von Elektroautos vor",
+    "Nahost - Putin soll laut Kreml in den \"Friedensrat\" für Gaza",
+    "Washington - IWF rechnet mit stärkerem Wachstum der deutschen Wirtschaft",
+    "Japan - Ministerpräsidentin Takaichi setzt Neuwahlen für den 8. Februar an",
+    "Deutsche Start-ups erhielten 2025 mehr Geld"
   ],
   "hashes": [
-    "56b763d3f001e95e336dbbcdc6efb888",
-    "1252775c1032360902c451c7231a37d9",
-    "dd2db25b8a41a57eb53a1045bb3d5041",
-    "13a32ec02e4267ef94a321a17aa56dbb",
     "31a14e08310116245481d98d79390886",
     "400e90fad07bf3d63ae0258931c2f101",
     "c5c9a93ade5c5e9bedf81091df194d03",
@@ -4005,6 +4001,10 @@
     "8395b1b5e948e45495986367b20dc880",
     "a31a490a0d564364590f2b990be31193",
     "3ebf086fdd7f378d64c5187b63acced6",
-    "e161aaa4cf55797a2ca1f71bc50817cf"
+    "e161aaa4cf55797a2ca1f71bc50817cf",
+    "fa68c6ae3a91d6b4ab696f81cc5d23c4",
+    "6f99fc13157eef0e02c58b22e34954e0",
+    "2242d1aa0ccb5493f5dd51dac0d17237",
+    "13da9ab53ec832f05224301cdb2e6ae3"
   ]
 }
