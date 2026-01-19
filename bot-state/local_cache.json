@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/klage-der-amerikanischen-handelskammer-gegen-teure-arbeitsvisa-gescheitert-100.html",
-    "https://www.deutschlandfunk.de/russland-schiesst-mehr-als-170-drohnen-ab-100.html",
     "https://www.deutschlandfunk.de/indiens-raumfahrtbehoerde-schickt-bislang-schwersten-satelliten-ins-all-102.html",
     "https://www.spiegel.de/politik/afghanistan-offener-brief-an-friedrich-merz-zur-aufnahme-von-afghanen-a-07fb5069-a874-4ae1-a5a8-00547dcb3b04#ref=rss",
     "https://www.deutschlandfunk.de/ukraine-und-russland-greifen-einander-erneut-mit-drohnen-an-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mindestens-26-tote-nach-brand-in-pakistanischem-einkaufszentrum-100.html",
     "https://www.deutschlandfunk.de/drei-tage-staatstrauer-nach-zugunglueck-in-spanien-mindestens-39-tote-und-viele-schwerverletzte-100.html",
     "https://www.deutschlandfunk.de/ex-welt-chef-burgard-wehrt-sich-gegen-medienberichte-anwalt-spricht-von-verleumdungskampagne-100.html",
-    "https://www.deutschlandfunk.de/sorge-vor-ausbruechen-von-is-kaempfern-in-syrien-100.html"
+    "https://www.deutschlandfunk.de/sorge-vor-ausbruechen-von-is-kaempfern-in-syrien-100.html",
+    "https://www.deutschlandfunk.de/spd-aussenpolitiker-ahmetovic-wirft-spahn-naehe-zu-trumps-groenland-kurs-vor-100.html",
+    "https://www.faz.net/aktuell/politik/inland/polizisten-schildern-muenchener-attentat-200454288.html"
   ],
   "content_hashes": [
-    "a62ea331d31a2f5c3982fcaaf575dae1",
-    "fa5919b32e5adebb504cae46b61b40e7",
     "b61dd5ba02e4defd578d5e86b2bb0eda",
     "e578c09ad99e939768b4534174bfd862",
     "cd097f6b5eb491b1a8f38897c4ecb285",
@@ -2001,11 +1999,11 @@
     "3a245e3cd5f8d78470b97a42697f16e2",
     "beb407b38fc136b195db4b9275b99f52",
     "c7d0af835aba86c6dfe3cc58714ba15a",
-    "4790904ae37743ee47c5e72a1007180e"
+    "4790904ae37743ee47c5e72a1007180e",
+    "689b2b50dcc42ce68fd248d50153da27",
+    "3736e2b181628afb50081e1d5ec32c60"
   ],
   "titles": [
-    "USA - Klage der amerikanischen Handelskammer gegen teure Arbeitsvisa gescheitert",
-    "Ukraine-Krieg - Russland schießt mehr als 170 Drohnen ab",
     "Indiens Raumfahrtbehörde schickt bislang schwersten Satelliten ins All",
     "Afghanistan: Offener Brief an Friedrich Merz zur Aufnahme von Afghanen",
     "Ukraine-Krieg - Ukraine und Russland greifen einander erneut mit Drohnen an",
@@ -3003,11 +3001,11 @@
     "Karachi - Mindestens 26 Tote nach Brand in pakistanischem Einkaufszentrum",
     "Provinz Cordoba - Drei Tage Staatstrauer nach Zugunglück in Spanien - mindestens 39 Tote und viele Schwerverletzte",
     "Medien - Ex-\"Welt\"-Chef Burgard wehrt sich gegen Medienberichte - Anwalt spricht von Verleumdungskampagne",
-    "Unruhen - Sorge vor Ausbrüchen von IS-Kämpfern in Syrien"
+    "Unruhen - Sorge vor Ausbrüchen von IS-Kämpfern in Syrien",
+    "Bundestag - SPD-Außenpolitiker Ahmetovic wirft Spahn Nähe zu Trumps Grönland-Kurs vor",
+    "Prozess gegen Attentäter: „Es gibt keinen Tag, an dem ich nicht daran denke“"
   ],
   "hashes": [
-    "250290a5385d6caa8e91d453032f9d5a",
-    "c3d790f54e500e0305df1074f548bbd8",
     "b5f10c2699943d174df25ef386b11df9",
     "835625d78342a90ab3ed5152f75c01f5",
     "3b8de7286388143ff0cba7ff26d6e11f",
@@ -4005,6 +4003,8 @@
     "5fe30f9ba5e80f13de11d7567b047ed4",
     "c01b8523e3bddf8b00d669ae98c84e21",
     "d82835e2c7898bccf38a70fd4fd648de",
-    "cd68859127e306968fee949165030339"
+    "cd68859127e306968fee949165030339",
+    "dcabcf64d0460510165eeda92dc6f8a5",
+    "04e6aa2ee52dbee88df7d79d5e524120"
   ]
 }
