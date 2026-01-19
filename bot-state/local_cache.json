@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/knapp-jeder-dritte-tafel-kunde-ist-ein-kind-100.html",
-    "https://www.deutschlandfunk.de/debuetant-arno-merk-besiegt-ex-weltmeister-peter-wright-102.html",
-    "https://www.deutschlandfunk.de/sammelklage-gegen-internetbeschraenkungen-100.html",
-    "https://www.deutschlandfunk.de/sender-cbs-stoppt-kritischen-bericht-zu-gefaengnis-in-el-salvador-vorwurf-der-zensur-100.html",
     "https://www.deutschlandfunk.de/prominente-frauen-weltweit-fordern-freilassung-von-aktivistin-tabari-102.html",
     "https://www.faz.net/aktuell/politik/inland/zukunft-der-villa-hammerschmidt-ein-haus-der-republik-110803064.html",
     "https://www.deutschlandfunk.de/libyscher-armeechef-stirbt-bei-flugzeugabsturz-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/putin-soll-laut-kreml-in-den-friedensrat-fuer-gaza-100.html",
     "https://www.deutschlandfunk.de/iwf-rechnet-mit-staerkerem-wachstum-der-deutschen-wirtschaft-100.html",
     "https://www.deutschlandfunk.de/ministerpraesidentin-takaichi-setzt-neuwahlen-fuer-den-8-februar-an-102.html",
-    "https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss"
+    "https://www.spiegel.de/wirtschaft/deutsche-start-ups-erhielten-2025-mehr-geld-a-bd9f9c1a-6d94-4f82-890e-07cd476a2437#ref=rss",
+    "https://www.deutschlandfunk.de/regierungschefin-takaichi-kuendigt-neuwahlen-fuer-den-8-februar-an-100.html",
+    "https://www.deutschlandfunk.de/inflation-im-euroraum-sinkt-auf-1-9-prozent-100.html",
+    "https://www.deutschlandfunk.de/mindestens-39-tote-und-viele-schwerverletzte-bei-unglueck-mit-zwei-hochgeschwindigkeitszuegen-100.html",
+    "https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss"
   ],
   "content_hashes": [
-    "53fb4816698530575514cc69bcbc7c4d",
-    "840a412900236f8d45390847dc5d09bb",
-    "71912eb827fe3bb89215b1cf2d8441f6",
-    "a313ec3d6125e06a41ba9ff2ba94cb55",
     "781e0ed4ed11b47da8de81a5322a423d",
     "3a721e56840c6cce59d77d14ff800a3a",
     "b42f281a4105fdb7db3e094ac6b8b203",
@@ -2001,13 +1997,13 @@
     "e1017bf9b2ea962b0f6dfdf7906f1d0c",
     "236f3941227b480babfd9b6afbb55fb7",
     "29d3fda9c65e4d85fd348fb43be374b4",
-    "3aefee6bc6607401ef01a736deb672de"
+    "3aefee6bc6607401ef01a736deb672de",
+    "4113a5666f78180ddc64495161f3b041",
+    "42ad3f4d5d31ea92efc7bdeca416aa6e",
+    "37955af1d11d77f407da9aeb45440975",
+    "43ea7eebbee4bebb380351fe2f4b34d3"
   ],
   "titles": [
-    "Soziales - Knapp jeder dritte Tafel-Kunde ist ein Kind",
-    "Darts-WM - Debütant Arno Merk besiegt Ex-Weltmeister Peter Wright",
-    "Russland - Sammelklage gegen Internetbeschränkungen",
-    "Medien in den USA - Sender CBS stoppt kritischen Bericht zu Gefängnis in El Salvador - Vorwurf der Zensur",
     "Iran - Prominente Frauen weltweit fordern Freilassung von Aktivistin Tabari",
     "Villa Hammerschmidt: Ein Haus der Republik",
     "Türkei - Libyscher Armeechef stirbt bei Flugzeugabsturz",
@@ -3003,13 +2999,13 @@
     "Nahost - Putin soll laut Kreml in den \"Friedensrat\" für Gaza",
     "Washington - IWF rechnet mit stärkerem Wachstum der deutschen Wirtschaft",
     "Japan - Ministerpräsidentin Takaichi setzt Neuwahlen für den 8. Februar an",
-    "Deutsche Start-ups erhielten 2025 mehr Geld"
+    "Deutsche Start-ups erhielten 2025 mehr Geld",
+    "Japan - Regierungschefin Takaichi kündigt Neuwahlen für den 8. Februar an",
+    "EU-Statistikamt - Inflation im Euroraum sinkt auf 1,9 Prozent",
+    "Spanien - Mindestens 39 Tote und viele Schwerverletzte bei Unglück mit zwei Hochgeschwindigkeitszügen",
+    "E-Mobilität: Bund fördert Kauf von Elektroautos mit bis zu 6000 Euro"
   ],
   "hashes": [
-    "31a14e08310116245481d98d79390886",
-    "400e90fad07bf3d63ae0258931c2f101",
-    "c5c9a93ade5c5e9bedf81091df194d03",
-    "fb5260ec40624eff18036bd896364a92",
     "d9bf7df6c09c368171b5dfbf3067bddf",
     "4f9ca9d83d4e7ced161cc6e3dada5300",
     "87bb5cfc6fc429b3730dad0bdf64ba50",
@@ -4005,6 +4001,10 @@
     "fa68c6ae3a91d6b4ab696f81cc5d23c4",
     "6f99fc13157eef0e02c58b22e34954e0",
     "2242d1aa0ccb5493f5dd51dac0d17237",
-    "13da9ab53ec832f05224301cdb2e6ae3"
+    "13da9ab53ec832f05224301cdb2e6ae3",
+    "f33694acbf8f969769db79f16c7bec7a",
+    "e702e0df287e44154b5e21b4823426bd",
+    "e4c3df169be0f93b40ab7b2e78e3ab5f",
+    "0923edf7ed9b15f26a33c857bc62296e"
   ]
 }
