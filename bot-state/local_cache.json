@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hersteller-rechnen-mit-hoeheren-absatzmengen-von-feuerwerk-100.html",
-    "https://www.deutschlandfunk.de/bundespolizei-registriert-anstieg-an-grafitti-schmiererein-auf-zuegen-und-bahnanlagen-sachschaeden-i-100.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-lies-spd-wirbt-fuer-foerderung-gebrauchter-e-autos-100.html",
     "https://www.deutschlandfunk.de/fuenf-tote-bei-bombenanschlag-auf-moschee-in-nigeria-102.html",
     "https://www.deutschlandfunk.de/115-mutmassliche-is-mitglieder-in-tuerkei-festgenommen-anschlaege-auf-weihnachtsfeiern-geplant-100.html",
     "https://www.deutschlandfunk.de/von-trump-unterstuetzter-kandidat-asfura-zum-sieger-erklaert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trump-will-in-davos-ueber-groenland-sprechen-von-der-leyen-betont-souveraenitaet-100.html",
     "https://www.deutschlandfunk.de/afd-politiker-fordern-erneut-atomwaffen-fuer-deutschland-parteispitze-lehnt-kurs-bislang-ab-100.html",
     "https://www.spiegel.de/politik/deutschland/bundesregierung-widerruft-fast-zweite-aufnahmezusage-fuer-afghanische-ortskraefte-a-f460aae6-b7cf-4869-a0d5-afc138aaba91#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-umfrage-fast-jeder-zweite-lehnt-neue-kaufpraemie-fuer-e-autos-ab-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-umfrage-fast-jeder-zweite-lehnt-neue-kaufpraemie-fuer-e-autos-ab-faz-110093143.html",
+    "https://www.deutschlandfunk.de/zahl-der-toten-nach-zugunglueck-in-spanien-steigt-auf-104.html",
+    "https://www.deutschlandfunk.de/knappes-drittel-der-schulkinder-in-deutschland-mit-einwanderungsgeschichte-102.html",
+    "https://www.spiegel.de/wirtschaft/deutsche-exporte-in-die-usa-brechen-2025-ein-a-2ee85b07-072c-48aa-af9d-5a054577976d#ref=rss"
   ],
   "content_hashes": [
-    "62ae3685b14d4885bc2a2f5c0b7491c4",
-    "fc3e69d5ab59be3c036f368ac819cf54",
-    "c4d7e9f6191712c016bb3b188e97bbe6",
     "9cc3e7df41bfa417ca303eac3b462c72",
     "fb215f6467502ccd4b557759cf8a2697",
     "6a762391313b8e31ec52a0e192c3bc6e",
@@ -2001,12 +1998,12 @@
     "17333f7901bb38c9b680c5fe87ae77bd",
     "6989461ac7103c5f9be82ba975332735",
     "0309d396519ee23b8628aa40836ac5b6",
-    "b2a638d2da9dca9a12813c7b38731a1d"
+    "b2a638d2da9dca9a12813c7b38731a1d",
+    "7953ee64d11d1a45cb6d60e846b7cfa7",
+    "13c5441c5b6974c96fc6c109b597d996",
+    "89665ddc74a367a43141ca8423d2ad4c"
   ],
   "titles": [
-    "Jahreswechsel - Hersteller rechnen mit höheren Absatzmengen von Feuerwerk",
-    "Medienbericht - Bundespolizei registriert Anstieg an Grafitti-Schmiererein auf Zügen und Bahnanlagen - Sachschäden in Millionenhöhe",
-    "Niedersachsen - Ministerpräsident Lies (SPD) wirbt für Förderung gebrauchter E-Autos",
     "Borno - Fünf Tote bei Bombenanschlag auf Moschee in Nigeria",
     "Razzien - 115 mutmaßliche IS-Mitglieder in Türkei festgenommen: Anschläge auf Weihnachtsfeiern geplant",
     "Umstrittene Wahl in Honduras - Von Trump unterstützter Kandidat Asfura zum Sieger erklärt",
@@ -3003,12 +3000,12 @@
     "Weltwirtschaftsforum - Trump will in Davos über Grönland sprechen - von der Leyen betont Souveränität",
     "Parteiinterne Debatte - AfD-Politiker fordern erneut Atomwaffen für Deutschland - Parteispitze lehnt Kurs bislang ab",
     "Bundesregierung widerruft fast jede zweite Aufnahmezusage für afghanische Ortskräfte",
-    "Deutschland-Blog: Umfrage: Fast jeder Zweite lehnt neue Kaufprämie für E-Autos ab"
+    "Deutschland-Blog: Umfrage: Fast jeder Zweite lehnt neue Kaufprämie für E-Autos ab",
+    "Andalusien - Zahl der Toten nach Zugunglück in Spanien steigt auf 41",
+    "Statistisches Bundesamt - Knappes Drittel der Schulkinder in Deutschland mit Einwanderungsgeschichte",
+    "Deutsche Exporte in die USA brechen 2025 ein"
   ],
   "hashes": [
-    "548a67aa8277081ca94a092794003ce9",
-    "8a3caa2394bb783d304053749de203d8",
-    "86f4770867c8e664e93136af3f2c5d9a",
     "e151b66be98e721d25812e0e5871dd6f",
     "259531468cda579add4c6f3d5a3ba0f1",
     "7c2498efac8f503c113de1ab9267b01b",
@@ -4005,6 +4002,9 @@
     "86e164c651f81121bd25a47bd95e3dff",
     "7e134cfecc91ca9dca058fb72c31065d",
     "1dacdd1dbb9b9c0bda6957575ce1be0f",
-    "6ab817aaee9801d71abcac2bf104812f"
+    "6ab817aaee9801d71abcac2bf104812f",
+    "2fbb66ffcb2a676a1858bbb456e411c0",
+    "83ad6404fc484174cf1ed1c62ea2a689",
+    "5249f9c67c836e97b46fda9a54f78710"
   ]
 }
