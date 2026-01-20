@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-betont-herausforderungen-fuer-deutschland-und-europa-100.html",
-    "https://www.deutschlandfunk.de/prorussische-hacker-reklamieren-angriff-auf-post-fuer-sich-100.html",
     "https://www.deutschlandfunk.de/us-einreiseverbot-fuer-deutsche-aktivistinnen-stoesst-auf-breite-kritik-100.html",
     "https://www.deutschlandfunk.de/parlament-fordert-reparationen-von-frankreich-100.html",
     "https://www.deutschlandfunk.de/eu-droht-usa-wegen-einreiseverbots-gegen-fuenf-europaeer-mit-konsequenzen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/baetzings-rueckzug-die-luecke-ist-nicht-gross-110821871.html",
     "https://www.deutschlandfunk.de/frankreichs-premier-will-etat-2026-ohne-zustimmung-des-parlaments-durchsetzen-100.html",
     "https://www.deutschlandfunk.de/wahlbehoerde-ordnet-neuauszaehlung-der-stimmen-an-104.html",
-    "https://www.deutschlandfunk.de/iran-stellt-lockerung-der-internet-blockade-in-aussicht-102.html"
+    "https://www.deutschlandfunk.de/iran-stellt-lockerung-der-internet-blockade-in-aussicht-102.html",
+    "https://www.deutschlandfunk.de/republik-moldau-will-endgueltig-aus-der-gus-austreten-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-heute-soldaten-und-polizisten-im-auslandseinsatz-102.html"
   ],
   "content_hashes": [
-    "0a4abe9d068183e28cc79040ebf53267",
-    "54cc7398f5f01f7dfcb6f29a7a52dfd1",
     "c6c73eab0eb3c3db7df79dcb55c5ac18",
     "3db56fe6f6686dd923f9d463ff5725b0",
     "48e10abc1471c879691e96449ee0762a",
@@ -2001,11 +1999,11 @@
     "01c2e19fd7ff16ec2f3b20714b6f0c74",
     "156acbac9a41dfc03fae013ee7c35f8d",
     "d3073a1a421feaa195b40d99c321dee7",
-    "9751fa716fd455bdb1b4dd38829bb311"
+    "9751fa716fd455bdb1b4dd38829bb311",
+    "0ab384df60edd2486cd2067f6dd35fa7",
+    "9baba2d87545f2b82bd2e2be42acfb75"
   ],
   "titles": [
-    "Weihnachtsbotschaft des Kanzlers - Merz betont Herausforderungen für Deutschland und Europa",
-    "Frankreich - Prorussische Hacker reklamieren Angriff auf Post für sich",
     "\"HateAid\" - US-Einreiseverbot für deutsche Aktivistinnen stößt auf breite Kritik",
     "Algerien - Parlament fordert Reparationen von Frankreich",
     "\"HateAid\" - EU droht USA wegen Einreiseverbots gegen fünf Europäer mit Konsequenzen",
@@ -3003,11 +3001,11 @@
     "Bischofskonferenz: Bätzing hinterlässt eine kleine Lücke",
     "Haushaltsstreit - Frankreichs Premier will Etat 2026 ohne Zustimmung des Parlaments durchsetzen",
     "Parlamentswahl im Kosovo - Wahlbehörde ordnet Neuauszählung der Stimmen an",
-    "Wirtschaftliche Verluste - Iran stellt Lockerung der Internet-Blockade in Aussicht."
+    "Wirtschaftliche Verluste - Iran stellt Lockerung der Internet-Blockade in Aussicht.",
+    "Abkehr von Russland - Republik Moldau will endgültig aus der GUS austreten",
+    "Neujahrsempfang - Bundeskanzler Merz würdigt heute Soldaten und Polizisten im Auslandseinsatz"
   ],
   "hashes": [
-    "827f9e7c55180dda261183a3aa56096b",
-    "93396951eef160617eede0a990c0de17",
     "c23a7b3fdd6db8623543f4a361561c25",
     "bdbe4b7feabf1790e61da92b69f5b0a3",
     "f8bd195330d97c8431d99fabe98a97fd",
@@ -4005,6 +4003,8 @@
     "b795da685a70cda41ad4f07352ee6365",
     "1adc57dac3a94895f8c7158d88afc4a2",
     "3bd6b9df926323d9b59448d3d0e170a6",
-    "0ea37887fa43924a9c89e4098117552d"
+    "0ea37887fa43924a9c89e4098117552d",
+    "cc38d112ec315259eccefcd1bdb355f7",
+    "546d307499ff2ea17a609e16fcfea3f4"
   ]
 }
