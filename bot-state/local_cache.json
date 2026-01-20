@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-droht-usa-wegen-einreiseverbots-gegen-fuenf-europaeer-mit-konsequenzen-100.html",
-    "https://www.aljazeera.com/video/aljazeerauntangles/2025/12/24/french-empire-civilising-mission?traffic_source=rss",
-    "https://www.deutschlandfunk.de/milliarden-sollen-in-eigene-ruestungsindustrie-fliessen-100.html",
     "https://www.deutschlandfunk.de/selenskyj-praesentiert-entwurf-fuer-20-punkte-friedensplan-100.html",
     "https://www.deutschlandfunk.de/drei-tote-bei-kaempfen-im-westen-syriens-102.html",
     "https://www.deutschlandfunk.de/justizministerium-ueber-eine-million-mutmassliche-neue-epstein-akten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/republik-moldau-will-endgueltig-aus-der-gus-austreten-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-heute-soldaten-und-polizisten-im-auslandseinsatz-102.html",
     "https://www.deutschlandfunk.de/verdi-ruft-zu-neuen-warnstreiks-heute-im-oeffentlichen-dienst-auf-autofahrer-in-norddeutschland-betr-100.html",
-    "https://www.deutschlandfunk.de/studie-ueber-sexuelle-belaestigung-und-gewalt-in-truppe-soll-demnaechst-beginnen-100.html"
+    "https://www.deutschlandfunk.de/studie-ueber-sexuelle-belaestigung-und-gewalt-in-truppe-soll-demnaechst-beginnen-100.html",
+    "https://www.deutschlandfunk.de/massenhafte-ausbrueche-von-is-kaempfern-aus-gefangenenlagern-in-kurdischen-gebieten-104.html",
+    "https://www.deutschlandfunk.de/identifizierung-der-opfer-des-zugungluecks-dauert-an-vermutlich-deutsche-unter-den-opfern-100.html",
+    "https://www.deutschlandfunk.de/wahlbehoerde-im-kosovo-ordnet-komplette-neuauszaehlung-der-stimmen-an-100.html"
   ],
   "content_hashes": [
-    "48e10abc1471c879691e96449ee0762a",
-    "c6035ce6131ca886fc193ae9de0c0d3e",
-    "8eb27d3df526af3dad0567f48bdd55de",
     "6b0f6f44ed890a02593f38c9e6e65414",
     "c5133aec2af3f9e69eeb53bef2a9f406",
     "e743b89fda607d2fd03bacbc8e82ba7c",
@@ -2001,12 +1998,12 @@
     "0ab384df60edd2486cd2067f6dd35fa7",
     "9baba2d87545f2b82bd2e2be42acfb75",
     "3d4aa3c6f5462d8743e6f4496ae62e75",
-    "4756dd451d27bccd43355ced5aa826e7"
+    "4756dd451d27bccd43355ced5aa826e7",
+    "32e0824bb81974567fc0f40d8515888b",
+    "96e1c6902df5f1a01033a0d9a8144378",
+    "ede26a03ce728eb5bb9e9286272136a2"
   ],
   "titles": [
-    "\"HateAid\" - EU droht USA wegen Einreiseverbots gegen fünf Europäer mit Konsequenzen",
-    "French Empire: Civilising Mission",
-    "Israel - Milliarden sollen in eigene Rüstungsindustrie fließen",
     "Krieg in der Ukraine - Selenskyj präsentiert Entwurf für 20-Punkte-Friedensplan",
     "Berichte von Staatsmedien - Drei Tote bei Kämpfen im Westen Syriens",
     "USA - Justizministerium: Über eine Million mutmaßliche neue Epstein-Akten",
@@ -3003,12 +3000,12 @@
     "Abkehr von Russland - Republik Moldau will endgültig aus der GUS austreten",
     "Neujahrsempfang - Bundeskanzler Merz würdigt heute Soldaten und Polizisten im Auslandseinsatz",
     "Tarifkonflikt - Verdi ruft zu neuen Warnstreiks heute im Öffentlichen Dienst auf - Autofahrer in Norddeutschland betroffen",
-    "Bundeswehr - Studie über sexuelle Belästigung und Gewalt in Truppe soll demnächst beginnen"
+    "Bundeswehr - Studie über sexuelle Belästigung und Gewalt in Truppe soll demnächst beginnen",
+    "Syrien - Massenhafte Ausbrüche von IS-Kämpfern aus Gefangenenlagern in kurdischen Gebieten",
+    "Spanien - Identifizierung der Opfer des Zugunglücks dauert an - vermutlich Deutsche unter den Opfern",
+    "Nach der Parlamentswahl - Wahlbehörde im Kosovo ordnet komplette Neuauszählung der Stimmen an"
   ],
   "hashes": [
-    "f8bd195330d97c8431d99fabe98a97fd",
-    "27e3319afbcbcbf4c0afbb72fba86551",
-    "e01ea58ebdc650b7077749fd6a7f8092",
     "7105370e9d1bb96b2ab435bd643fed7d",
     "5c901dc7afcb8f0bb7ad3d6863abf7b4",
     "0d0e3dbc03795b380c8084b2293231a0",
@@ -4005,6 +4002,9 @@
     "cc38d112ec315259eccefcd1bdb355f7",
     "546d307499ff2ea17a609e16fcfea3f4",
     "c8e8794a94ff52a74cb3805132d89dd9",
-    "95a745a12e582bb9d2755e85e7535fcb"
+    "95a745a12e582bb9d2755e85e7535fcb",
+    "76ac78c56945aaf684ff602ed49292dc",
+    "98b7bb8fc0206ec8a0f33c9fc1a72ee8",
+    "4ec18d7faae59f90c372bd4be117a9ba"
   ]
 }
