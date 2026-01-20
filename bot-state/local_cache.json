@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-greifen-nach-angaben-von-praesident-trump-is-stellungen-in-nigeria-an-102.html",
-    "https://www.deutschlandfunk.de/erneut-toedlicher-zwischenfall-im-gazastreifen-100.html",
-    "https://www.deutschlandfunk.de/nahles-chancen-fuer-arbeitslose-bei-jobsuche-so-schlecht-wie-nie-100.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-frei-offen-fuer-ueberarbeitung-des-koalitionsvertrags-100.html",
     "https://www.deutschlandfunk.de/japan-plant-rekordausgaben-fuer-verteidigung-100.html",
     "https://www.deutschlandfunk.de/rutte-usa-stehen-auch-unter-trump-weiter-voll-und-ganz-zur-nato-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/verfassungsschuetzer-warnt-vor-datensammlung-durch-e-autos-100.html",
     "https://www.deutschlandfunk.de/bundesweite-auswirkungen-auf-den-strassenverkehr-108.html",
     "https://www.deutschlandfunk.de/mindestens-41-todesopfer-bei-zugunglueck-in-spanien-100.html",
-    "https://www.faz.net/aktuell/politik/inland/klimaschaedliches-gas-in-bad-wimpfen-umweltministerin-walker-gesteht-versaeumnisse-ein-110822490.html"
+    "https://www.faz.net/aktuell/politik/inland/klimaschaedliches-gas-in-bad-wimpfen-umweltministerin-walker-gesteht-versaeumnisse-ein-110822490.html",
+    "https://www.deutschlandfunk.de/kein-g7-treffen-mit-russland-in-paris-trump-verspottet-macron-100.html",
+    "https://www.aljazeera.com/gallery/2026/1/20/doha-hosts-maritime-defence-exhibition-amid-rising-regional-tensions?traffic_source=rss",
+    "https://www.faz.net/aktuell/politik/inland/jva-augsburg-gablingen-staatsanwaltschaft-erhebt-anklage-200457568.html"
   ],
   "content_hashes": [
-    "7a46f7f35bc8d6a915656392cc7f7621",
-    "851c684954547099d1be685abb66c85c",
-    "9dfa260009ce62fa110f18ff17d8ddf5",
     "d74ccfaf3f4d931b02f28ccc8bce0b7b",
     "6807e21d7c5eaeca9504cfce0a0daf32",
     "72541d3892062cb30ce2610f9920ea14",
@@ -2001,12 +1998,12 @@
     "7be6047e34a828bb71213bb1a20477c4",
     "c5a37e2d76d049cb931d7be7ec5dc316",
     "ebda67e2c6c54ddce33c46595cc0201e",
-    "a6b6d34be12b5c81b968cf3ee3797469"
+    "a6b6d34be12b5c81b968cf3ee3797469",
+    "d1c6e562cb9cd7a64bce2960e7315447",
+    "58d1295b9f6d79726af63f724c602ada",
+    "8fe864272370dc6b6cd833d150d5edab"
   ],
   "titles": [
-    "Militäreinsatz - USA greifen nach Angaben von Präsident Trump IS-Stellungen in Nigeria an",
-    "Nahost - Erneut tödlicher Zwischenfall im Gazastreifen",
-    "Arbeitsmarkt - Nahles: Chancen für Arbeitslose bei Jobsuche so schlecht wie nie",
     "Wirtschaftslage - Kanzleramtschef Frei offen für Überarbeitung des Koalitionsvertrags",
     "Haushalt - Japan plant Rekordausgaben für Verteidigung",
     "Interview - Rutte: USA stehen auch unter Trump weiter voll und ganz zur NATO",
@@ -3003,12 +3000,12 @@
     "Spionage - Verfassungsschützer warnt vor Datensammlung durch E-Autos",
     "Warnstreiks im Öffentlichen Dienst der Länder - Bundesweite Auswirkungen auf den Straßenverkehr",
     "Andalusien - Mindestens 41 Todesopfer bei Zugunglück in Spanien",
-    "Klimaschädliches Gas: Umweltministerin Walker räumt Versäumnisse ein"
+    "Klimaschädliches Gas: Umweltministerin Walker räumt Versäumnisse ein",
+    "USA - Kein G7-Treffen mit Russland in Paris - Trump verspottet Macron",
+    "Doha hosts maritime defence exhibition amid rising regional tensions",
+    "JVA Augsburg-Gablingen: Staatsanwaltschaft erhebt Anklage wegen Misshandlung von Häftlingen"
   ],
   "hashes": [
-    "407eafb064e68fb25e8ff85dc2c474f5",
-    "c9250bb320108c4cb92d5c37fe2044f9",
-    "f0af7ef716e61f0096767a382f242f0e",
     "99478995fe83da86cc90f7e0e67e0ead",
     "36cf5fddaecc5a6c54d3c30471c53cda",
     "4d3465f0330b3f9a413a4bbbc9a6eeea",
@@ -4005,6 +4002,9 @@
     "0dfd90a3a64200064a895475645b13cc",
     "962716a115f4684d516395159efeabeb",
     "97551f1bc63e9eb1ce5f5dade3553ed5",
-    "b59e01effb763c258808e59aeb01e1a9"
+    "b59e01effb763c258808e59aeb01e1a9",
+    "70bca8da81f83cbd5e451adebf7bbebe",
+    "ac3818ff4b3a4b58b95f416a18684a85",
+    "628e30088959f544d287733e96feedd2"
   ]
 }
