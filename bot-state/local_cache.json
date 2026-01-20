@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/kanzleramtschef-frei-offen-fuer-ueberarbeitung-des-koalitionsvertrags-100.html",
-    "https://www.deutschlandfunk.de/japan-plant-rekordausgaben-fuer-verteidigung-100.html",
-    "https://www.deutschlandfunk.de/rutte-usa-stehen-auch-unter-trump-weiter-voll-und-ganz-zur-nato-100.html",
-    "https://www.deutschlandfunk.de/bauernverband-warnt-vor-wein-krise-100.html",
     "https://www.deutschlandfunk.de/nach-us-einreiseverbot-leiter-von-britischer-ngo-verklagt-trump-regierung-100.html",
     "https://www.deutschlandfunk.de/aussenminister-wadephul-absehbar-keine-beteiligung-deutschlands-an-gaza-stabilisierungstruppe-100.html",
     "https://www.deutschlandfunk.de/bundesdigitalminister-wildberger-zeigt-sich-offen-fuer-social-media-verbot-fuer-junge-menschen-wie-i-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/klimaschaedliches-gas-in-bad-wimpfen-umweltministerin-walker-gesteht-versaeumnisse-ein-110822490.html",
     "https://www.deutschlandfunk.de/kein-g7-treffen-mit-russland-in-paris-trump-verspottet-macron-100.html",
     "https://www.aljazeera.com/gallery/2026/1/20/doha-hosts-maritime-defence-exhibition-amid-rising-regional-tensions?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/jva-augsburg-gablingen-staatsanwaltschaft-erhebt-anklage-200457568.html"
+    "https://www.faz.net/aktuell/politik/inland/jva-augsburg-gablingen-staatsanwaltschaft-erhebt-anklage-200457568.html",
+    "https://www.deutschlandfunk.de/wirtschaft-fordert-angesichts-us-politik-neue-freihandelsabkommen-100.html",
+    "https://www.deutschlandfunk.de/rufe-aus-cdu-und-spd-nach-harten-eu-gegenreaktionen-auf-trumps-zolldrohungen-100.html",
+    "https://www.deutschlandfunk.de/offenbar-chaotische-zustaende-in-is-internierungslagern-in-syrien-nach-rueckzug-der-kurden-miliz-weg-100.html",
+    "https://www.deutschlandfunk.de/macron-kein-g7-treffen-mit-russland-in-paris-100.html"
   ],
   "content_hashes": [
-    "d74ccfaf3f4d931b02f28ccc8bce0b7b",
-    "6807e21d7c5eaeca9504cfce0a0daf32",
-    "72541d3892062cb30ce2610f9920ea14",
-    "20f692c1552aa7556b0a9d378ca0dace",
     "5b3055e13f9036e900f5ddf21cf26131",
     "3dbd715c05002123c8008e0ff4532096",
     "dda24b3c98a3b150e8c24460eb84ad6a",
@@ -2001,13 +1997,13 @@
     "a6b6d34be12b5c81b968cf3ee3797469",
     "d1c6e562cb9cd7a64bce2960e7315447",
     "58d1295b9f6d79726af63f724c602ada",
-    "8fe864272370dc6b6cd833d150d5edab"
+    "8fe864272370dc6b6cd833d150d5edab",
+    "3384ddf0ae8039c47d462e2d58254d42",
+    "31370d368eb14a8c7932d570bae7d5ba",
+    "f841f92bfb0617c1b20f493f52969cc2",
+    "cb8963ac066c8a7635c6e17257b3472c"
   ],
   "titles": [
-    "Wirtschaftslage - Kanzleramtschef Frei offen für Überarbeitung des Koalitionsvertrags",
-    "Haushalt - Japan plant Rekordausgaben für Verteidigung",
-    "Interview - Rutte: USA stehen auch unter Trump weiter voll und ganz zur NATO",
-    "Wirtschaft - Bauernverband warnt vor Wein-Krise",
     "\"Center for Countering Digital Hate\" - Nach US-Einreiseverbot: Leiter von britischer NGO verklagt Trump-Regierung",
     "Nahost - Außenminister Wadephul: Absehbar keine Beteiligung Deutschlands an Gaza-Stabilisierungstruppe",
     "Online-Netzwerke - Bundesdigitalminister Wildberger zeigt sich offen für Social-Media-Verbot für junge Menschen wie in Australien",
@@ -3003,13 +2999,13 @@
     "Klimaschädliches Gas: Umweltministerin Walker räumt Versäumnisse ein",
     "USA - Kein G7-Treffen mit Russland in Paris - Trump verspottet Macron",
     "Doha hosts maritime defence exhibition amid rising regional tensions",
-    "JVA Augsburg-Gablingen: Staatsanwaltschaft erhebt Anklage wegen Misshandlung von Häftlingen"
+    "JVA Augsburg-Gablingen: Staatsanwaltschaft erhebt Anklage wegen Misshandlung von Häftlingen",
+    "Grönland-Konflikt - Wirtschaft fordert angesichts US-Politik neue Freihandelsabkommen",
+    "Grönland-Konflikt - Rufe aus CDU und SPD nach harten EU-Gegenreaktionen auf Trumps Zolldrohungen",
+    "al-Hol - Offenbar chaotische Zustände in IS-Internierungslagern in Syrien nach Rückzug der Kurden-Miliz wegen Gefechten mit der Armee",
+    "Diplomatie - Macron: Kein G7-Treffen mit Russland in Paris"
   ],
   "hashes": [
-    "99478995fe83da86cc90f7e0e67e0ead",
-    "36cf5fddaecc5a6c54d3c30471c53cda",
-    "4d3465f0330b3f9a413a4bbbc9a6eeea",
-    "0b200a344f79734c2cb8272268056cc1",
     "10a75160bb6ce8a0fbdaf1281dc3d403",
     "06336ea9e9ba5f7991f8003b494636e8",
     "2f5c427f152d20ce4ce2ea09fef7baa8",
@@ -4005,6 +4001,10 @@
     "b59e01effb763c258808e59aeb01e1a9",
     "70bca8da81f83cbd5e451adebf7bbebe",
     "ac3818ff4b3a4b58b95f416a18684a85",
-    "628e30088959f544d287733e96feedd2"
+    "628e30088959f544d287733e96feedd2",
+    "1f79b04cc61c2caec4b070e11bd965aa",
+    "ad1195a07adba48f4254c74266496216",
+    "846ec0297d1f6012c47688fb4ba42207",
+    "23f343cee2224fd1ec67a541cfabdfee"
   ]
 }
