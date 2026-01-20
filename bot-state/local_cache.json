@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-us-einreiseverbot-leiter-von-britischer-ngo-verklagt-trump-regierung-100.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-absehbar-keine-beteiligung-deutschlands-an-gaza-stabilisierungstruppe-100.html",
     "https://www.deutschlandfunk.de/bundesdigitalminister-wildberger-zeigt-sich-offen-fuer-social-media-verbot-fuer-junge-menschen-wie-i-100.html",
     "https://www.deutschlandfunk.de/nordkoreas-machthaber-kim-jong-un-kuendigt-ausbau-der-raketenproduktion-an-100.html",
     "https://www.deutschlandfunk.de/syrien-neue-geldscheine-sollen-fuer-stabilitaet-sorgen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/wirtschaft-fordert-angesichts-us-politik-neue-freihandelsabkommen-100.html",
     "https://www.deutschlandfunk.de/rufe-aus-cdu-und-spd-nach-harten-eu-gegenreaktionen-auf-trumps-zolldrohungen-100.html",
     "https://www.deutschlandfunk.de/offenbar-chaotische-zustaende-in-is-internierungslagern-in-syrien-nach-rueckzug-der-kurden-miliz-weg-100.html",
-    "https://www.deutschlandfunk.de/macron-kein-g7-treffen-mit-russland-in-paris-100.html"
+    "https://www.deutschlandfunk.de/macron-kein-g7-treffen-mit-russland-in-paris-100.html",
+    "https://www.deutschlandfunk.de/das-zeitalter-des-globalen-wasserbankrotts-hat-begonnen-100.html",
+    "https://www.deutschlandfunk.de/merz-ernaehrungssicherheit-rueckt-staerker-in-den-fokus-100.html"
   ],
   "content_hashes": [
-    "5b3055e13f9036e900f5ddf21cf26131",
-    "3dbd715c05002123c8008e0ff4532096",
     "dda24b3c98a3b150e8c24460eb84ad6a",
     "e047b9eeecf5b60d3ec24afa12c2ed67",
     "5599a0512d19ba47064a19971415d750",
@@ -2001,11 +1999,11 @@
     "3384ddf0ae8039c47d462e2d58254d42",
     "31370d368eb14a8c7932d570bae7d5ba",
     "f841f92bfb0617c1b20f493f52969cc2",
-    "cb8963ac066c8a7635c6e17257b3472c"
+    "cb8963ac066c8a7635c6e17257b3472c",
+    "a9da54cf6ba3c82df330cae11830007f",
+    "a4e40299f7b932672e3e7baad3467029"
   ],
   "titles": [
-    "\"Center for Countering Digital Hate\" - Nach US-Einreiseverbot: Leiter von britischer NGO verklagt Trump-Regierung",
-    "Nahost - Außenminister Wadephul: Absehbar keine Beteiligung Deutschlands an Gaza-Stabilisierungstruppe",
     "Online-Netzwerke - Bundesdigitalminister Wildberger zeigt sich offen für Social-Media-Verbot für junge Menschen wie in Australien",
     "Weitere Fabriken geplant - Nordkoreas Machthaber Kim Jong Un kündigt Ausbau der Raketenproduktion an",
     "Zentralbank - Syrien: Neue Geldscheine sollen für Stabilität sorgen",
@@ -3003,11 +3001,11 @@
     "Grönland-Konflikt - Wirtschaft fordert angesichts US-Politik neue Freihandelsabkommen",
     "Grönland-Konflikt - Rufe aus CDU und SPD nach harten EU-Gegenreaktionen auf Trumps Zolldrohungen",
     "al-Hol - Offenbar chaotische Zustände in IS-Internierungslagern in Syrien nach Rückzug der Kurden-Miliz wegen Gefechten mit der Armee",
-    "Diplomatie - Macron: Kein G7-Treffen mit Russland in Paris"
+    "Diplomatie - Macron: Kein G7-Treffen mit Russland in Paris",
+    "UNO-Bericht - Das \"Zeitalter des globalen Wasserbankrotts\" hat begonnen",
+    "Grüne Woche - Merz: \"Ernährungssicherheit rückt stärker in den Fokus\""
   ],
   "hashes": [
-    "10a75160bb6ce8a0fbdaf1281dc3d403",
-    "06336ea9e9ba5f7991f8003b494636e8",
     "2f5c427f152d20ce4ce2ea09fef7baa8",
     "619995fdad3b46cd8a282513651307f4",
     "c8f0279ec9e87debf8545131646c68a5",
@@ -4005,6 +4003,8 @@
     "1f79b04cc61c2caec4b070e11bd965aa",
     "ad1195a07adba48f4254c74266496216",
     "846ec0297d1f6012c47688fb4ba42207",
-    "23f343cee2224fd1ec67a541cfabdfee"
+    "23f343cee2224fd1ec67a541cfabdfee",
+    "9f5001a289c7c9d822f984bed4512932",
+    "0af91976486e4dee3f54782a37ec4fbd"
   ]
 }
