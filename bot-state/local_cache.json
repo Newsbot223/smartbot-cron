@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mann-wegen-mutmasslicher-spionage-fuer-iran-festgenommen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/social-media-verbot-es-braucht-klare-regeln-fuer-schueler-110806872.html",
-    "https://www.deutschlandfunk.de/kanzleramtschef-frei-cdu-will-leistungen-streichen-100.html",
-    "https://www.deutschlandfunk.de/kreml-unterbreitet-frankreich-vorschlag-zu-inhaftiertem-franzosen-vinatier-102.html",
     "https://www.deutschlandfunk.de/brite-verklagt-trump-regierung-104.html",
     "https://www.deutschlandfunk.de/usa-greifen-nach-angaben-von-praesident-trump-is-stellungen-in-nigeria-an-102.html",
     "https://www.deutschlandfunk.de/erneut-toedlicher-zwischenfall-im-gazastreifen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/deutscher-export-in-die-usa-bricht-ein-100.html",
     "https://www.deutschlandfunk.de/weltweit-noch-schaetzungsweise-197-000-holocaust-ueberlebende-100.html",
     "https://www.deutschlandfunk.de/farbanschlag-auf-tuerkische-botschaft-100.html",
-    "https://www.deutschlandfunk.de/eu-finanzminister-billigen-defizitverfahren-gegen-finnland-100.html"
+    "https://www.deutschlandfunk.de/eu-finanzminister-billigen-defizitverfahren-gegen-finnland-100.html",
+    "https://www.deutschlandfunk.de/macron-welt-erlebt-abkehr-von-internationalem-recht-europa-muss-sich-entschlossen-gegen-zolldrohunge-102.html",
+    "https://www.deutschlandfunk.de/verfassungsschuetzer-warnt-vor-datensammlung-durch-e-autos-100.html",
+    "https://www.deutschlandfunk.de/bundesweite-auswirkungen-auf-den-strassenverkehr-108.html",
+    "https://www.deutschlandfunk.de/mindestens-41-todesopfer-bei-zugunglueck-in-spanien-100.html"
   ],
   "content_hashes": [
-    "520802b882455490cc20e4067cf1a16e",
-    "a2f593146e1a673a8a91c467463ee150",
-    "1ba02f32307e28e1650df99606a0769c",
-    "eeb7285cecf950e8cae6a436d0bd9c91",
     "efcde52deb928c159d2adca429026b65",
     "7a46f7f35bc8d6a915656392cc7f7621",
     "851c684954547099d1be685abb66c85c",
@@ -2001,13 +1997,13 @@
     "397d6fb4782385f79d93ac499b7546d1",
     "59a555faff607f4e161850c76011617d",
     "200b623db197b840c29d9187086c5f2f",
-    "4753249eaddc3323edaf0f368d54127d"
+    "4753249eaddc3323edaf0f368d54127d",
+    "b92149eff6e7e1a0259a3a348694ce2d",
+    "7be6047e34a828bb71213bb1a20477c4",
+    "c5a37e2d76d049cb931d7be7ec5dc316",
+    "ebda67e2c6c54ddce33c46595cc0201e"
   ],
   "titles": [
-    "Israel - Mann wegen mutmaßlicher Spionage für Iran festgenommen",
-    "Social-Media-Verbot?: Es braucht klare Regeln für die Schüler",
-    "Gesundheitswese - Kanzleramtschef Frei (CDU) will Leistungen streichen",
-    "Russland - Kreml unterbreitet Frankreich Vorschlag zu inhaftiertem Franzosen Vinatier",
     "Nach US-Einreiseverbot - Brite verklagt Trump-Regierung",
     "Militäreinsatz - USA greifen nach Angaben von Präsident Trump IS-Stellungen in Nigeria an",
     "Nahost - Erneut tödlicher Zwischenfall im Gazastreifen",
@@ -3003,13 +2999,13 @@
     "Außenhandel - Deutscher Export in die USA bricht ein",
     "Claims Conference - Weltweit noch schätzungsweise 197.000 Holocaust-Überlebende",
     "Berlin - Farbanschlag auf türkische Botschaft",
-    "Wegen hoher Neuverschuldung - EU-Finanzminister billigen Defizitverfahren gegen Finnland"
+    "Wegen hoher Neuverschuldung - EU-Finanzminister billigen Defizitverfahren gegen Finnland",
+    "Davos - Macron: Welt erlebt Abkehr von internationalem Recht - Europa muss sich entschlossen gegen Zolldrohungen wehren",
+    "Spionage - Verfassungsschützer warnt vor Datensammlung durch E-Autos",
+    "Warnstreiks im Öffentlichen Dienst der Länder - Bundesweite Auswirkungen auf den Straßenverkehr",
+    "Andalusien - Mindestens 41 Todesopfer bei Zugunglück in Spanien"
   ],
   "hashes": [
-    "ca5ae72e91fac84133261109b0bffae3",
-    "adb1f953cb5a85f30578c7da6c2aced6",
-    "c7f02b744a8a7d14fdd4b50778aeb2a6",
-    "3cd9d6c91827914a62bf39f95ef10aa7",
     "f960c7834aab14499768b390edf389f1",
     "407eafb064e68fb25e8ff85dc2c474f5",
     "c9250bb320108c4cb92d5c37fe2044f9",
@@ -4005,6 +4001,10 @@
     "ffbcc8b71cbf7d41c1d8da89bcf7f007",
     "587866fc78278201f35bb84022cec8c7",
     "c5d3604cda6b18d572ccd8d8c68dbb47",
-    "17c47cb597ace4d97bfb2218ba93ff2f"
+    "17c47cb597ace4d97bfb2218ba93ff2f",
+    "4dcd9d7c204ab9a307af231296fcde9f",
+    "0dfd90a3a64200064a895475645b13cc",
+    "962716a115f4684d516395159efeabeb",
+    "97551f1bc63e9eb1ce5f5dade3553ed5"
   ]
 }
