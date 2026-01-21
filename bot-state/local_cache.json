@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russlands-militaer-ueberzieht-ukraine-mit-raketenangriffen-100.html",
-    "https://www.deutschlandfunk.de/dihk-praesident-adrian-bezweifelt-erfolg-der-rentenkommission-100.html",
     "https://www.deutschlandfunk.de/wir-fixieren-uns-zu-sehr-auf-die-vergangenheit-umweltbundesamt-chef-sieht-klimapolitische-fortschrit-100.html",
     "https://www.deutschlandfunk.de/kanzleramtschef-frei-cdu-fuer-koppelung-des-renteneintrittsalters-an-beitragsjahre-100.html",
     "https://www.deutschlandfunk.de/15-verletzte-bei-angriff-mit-messer-und-bleichmittel-in-japan-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/oesterreich-will-integrationsverweigerer-haerter-bestrafen-100.html",
     "https://www.deutschlandfunk.de/kabinett-bringt-digitales-fuehrungszeugnis-und-umweltgesetze-auf-den-weg-100.html",
     "https://www.deutschlandfunk.de/europaeisches-parlament-ruft-eugh-an-102.html",
-    "https://www.deutschlandfunk.de/spanische-lokfuehrergewerkschaft-ruft-zu-landesweitem-streik-auf-100.html"
+    "https://www.deutschlandfunk.de/spanische-lokfuehrergewerkschaft-ruft-zu-landesweitem-streik-auf-100.html",
+    "https://www.deutschlandfunk.de/europaeisches-parlament-ruft-eugh-an-merz-nennt-entscheidung-bedauerlich-100.html",
+    "https://www.deutschlandfunk.de/nigeria-militaer-befreit-62-geiseln-bei-schlag-gegen-bewaffnete-gruppen-100.html"
   ],
   "content_hashes": [
-    "c531ef2c62d50b64e4e7fc8d406829cd",
-    "d564e7a4d1cc748114437b8bd85fe310",
     "7bcd33dd9033fb94ab252a3f3a3f0f7c",
     "bb075349572d3c5c39146a77e1eca065",
     "ee455fef44ab7c97f03a322a2facd040",
@@ -2001,11 +1999,11 @@
     "0f517588fad9b7b04dec97d90fe5513f",
     "e8c509fbe7c1af67ddf00eebd0073fbc",
     "204331ad78bdf3e4a237d764349bf8d3",
-    "a0fe00f84aba84b79e7c9d24502ca5f4"
+    "a0fe00f84aba84b79e7c9d24502ca5f4",
+    "d341f46923bdd829976f7bb4f9721891",
+    "442874ec164cd84aa036fa2e700bb88d"
   ],
   "titles": [
-    "Kiew - Russlands Militär überzieht Ukraine mit Raketenangriffen",
-    "Altersversorgung - DIHK-Präsident Adrian bezweifelt Erfolg der Rentenkommission",
     "Verbrenner-Aus - \"Wir fixieren uns zu sehr auf die Vergangenheit\": Umweltbundesamt-Chef sieht klimapolitische Fortschritte der vergangenen Jahre in Gefahr",
     "Altersversorgung - Kanzleramtschef Frei (CDU) für Koppelung des Renteneintrittsalters an Beitragsjahre",
     "Mishima - 15 Verletzte bei Angriff mit Messer und Bleichmittel in Japan",
@@ -3003,11 +3001,11 @@
     "Abbruch von Werte- und Sprachkursen - Österreich will Integrationsverweigerer härter bestrafen",
     "Bundesregierung - Kabinett bringt digitales Führungszeugnis und Umweltgesetze auf den Weg",
     "Streit um Mercosur-Abkommen - Europäisches Parlament ruft EuGH an",
-    "Nach Zugunglücken - Spanische Lokführergewerkschaft ruft zu landesweitem Streik auf"
+    "Nach Zugunglücken - Spanische Lokführergewerkschaft ruft zu landesweitem Streik auf",
+    "Streit um Mercosur-Abkommen - Europäisches Parlament ruft EuGH an - Merz nennt Entscheidung \"bedauerlich\"",
+    "Kebbi und Zamfara - Nigeria: Militär befreit 62 Geiseln bei Schlag gegen bewaffnete Gruppen"
   ],
   "hashes": [
-    "cfd6a0695b34a0b025b9413ded84c540",
-    "d0915c97442686a989edfaa32a93074c",
     "9ecbc2feb5caf85259e36f0398c7d0c3",
     "f26f9d9de6cdd99132cb21e7794b61d8",
     "eee154b363c3b2e7c957988938f72540",
@@ -4005,6 +4003,8 @@
     "c7c3f52acf7a47572914a3cfceba2869",
     "87eda9430d37eb4558c564e8c0d17179",
     "ba3940ea7e149464d4faa8453e74cb1c",
-    "de8311c2cbe428776881245979a4a4a3"
+    "de8311c2cbe428776881245979a4a4a3",
+    "b38a0e1ea5ccd5cb50f4a43b012b47aa",
+    "5df4e6bf5f8d9c70c66980933e64802b"
   ]
 }
