@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bahnstrecke-zwischen-koeln-und-hagen-fuer-eine-woche-gesperrt-100.html",
-    "https://www.deutschlandfunk.de/israel-beschiesst-erneut-ziele-im-libanon-100.html",
     "https://www.deutschlandfunk.de/fuenf-tote-bei-explosion-in-einer-moschee-im-syrischem-homs-100.html",
     "https://www.deutschlandfunk.de/usa-greifen-is-stellungen-in-nigeria-an-einsatz-mit-dortiger-regierung-abgesprochen-100.html",
     "https://www.deutschlandfunk.de/malaysias-ex-premier-najib-razak-erneut-wegen-veruntreuung-verurteilt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/in-mehreren-deutschen-staedten-gehen-tausende-menschen-auf-die-strasse-100.html",
     "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-sieht-chance-fuer-europain-zweiter-amtszeit-von-trump-102.html",
     "https://www.deutschlandfunk.de/daenemark-bittet-nato-um-dauerhafte-praesenz-auf-arktisinsel-102.html",
-    "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-sieht-chance-fuer-europa-in-zweiter-amtszeit-von-trump-102.html"
+    "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-sieht-chance-fuer-europa-in-zweiter-amtszeit-von-trump-102.html",
+    "https://www.deutschlandfunk.de/hausaerzteverband-warnt-koalition-vor-abschaffung-der-telefonischen-krankschreibung-100.html",
+    "https://www.deutschlandfunk.de/trump-rede-in-davos-am-nachmittag-mit-spannung-erwartet-104.html"
   ],
   "content_hashes": [
-    "c18697622d3b8d3badd194a42ed257f3",
-    "55e7ed57285e77423c4423001b253238",
     "6a51c101162a82c6e3e887c7f1cbab63",
     "ff822c93294ba69d3bb7d1b28736b499",
     "f5a9895b717cb9711f67b22010b63aff",
@@ -2001,11 +1999,11 @@
     "74e085f9aa9f47f88ad89b7c860c7785",
     "bda75159788655bd265f78d21f0d6f27",
     "182e85b7a3d1f893410c1c114430982f",
-    "95a8b50e69d2c6b13969f74d22426da9"
+    "95a8b50e69d2c6b13969f74d22426da9",
+    "751a1821af5b8c13151b1fe4d15c0a17",
+    "e1dc012521a56cec1c2efc25e9125218"
   ],
   "titles": [
-    "Wichtige Verkehrsachse - Bahnstrecke zwischen Köln und Hagen für eine Woche gesperrt",
-    "Nahostkonflikt - Israel beschießt erneut Ziele im Libanon",
     "Anschlag - Fünf Tote bei Explosion in einer Moschee im syrischem Homs",
     "Bundesstaat Sokoto - USA greifen IS-Stellungen in Nigeria an - Einsatz mit dortiger Regierung abgesprochen",
     "Staatlicher Investitionsfonds - Malaysias Ex-Premier Najib Razak erneut wegen Veruntreuung verurteilt",
@@ -3003,11 +3001,11 @@
     "Pro-kurdische Demonstrationen - In mehreren deutschen Städten gehen tausende Menschen auf die Straße",
     "Kölner Forum für Journalismuskritik - Leutheusser-Schnarrenberger sieht Chance für Europain zweiter Amtszeit von Trump",
     "Grönland-Konflikt - Dänemark bittet NATO um dauerhafte Präsenz auf Arktisinsel",
-    "Kölner Forum für Journalismuskritik - Leutheusser-Schnarrenberger sieht Chance für Europa in zweiter Amtszeit von Trump"
+    "Kölner Forum für Journalismuskritik - Leutheusser-Schnarrenberger sieht Chance für Europa in zweiter Amtszeit von Trump",
+    "Krankenstand - Hausärzteverband warnt Koalition vor Abschaffung der telefonischen Krankschreibung",
+    "Schweiz - Trump-Rede in Davos am Nachmittag mit Spannung erwartet"
   ],
   "hashes": [
-    "5abb23b77bf3324032031605f26fe02b",
-    "34b6c98194c74079144af41893b1f87b",
     "e9a8e128821c96b5196593196801500e",
     "999135d8d683425a40b7b6897b4a4566",
     "9d1aaaebc89b5b952c01e416d670145b",
@@ -4005,6 +4003,8 @@
     "c3149f06f45c8736364d4ceb1e37819b",
     "64508537cb8d7525f6b4cc76c67ecbe9",
     "3e17ce3f47fa7c295d3dda00b9ca1412",
-    "e12ce1810bf8d92b4e8882fe5e8d9bef"
+    "e12ce1810bf8d92b4e8882fe5e8d9bef",
+    "2f2bb65860e4d0b217b5c244d13fdd76",
+    "200e954a798ca5d47563f06de1f3cf26"
   ]
 }
