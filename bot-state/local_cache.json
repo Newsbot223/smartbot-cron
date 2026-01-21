@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/usa-greifen-is-stellungen-in-nigeria-an-einsatz-mit-dortiger-regierung-abgesprochen-100.html",
-    "https://www.deutschlandfunk.de/malaysias-ex-premier-najib-razak-erneut-wegen-veruntreuung-verurteilt-100.html",
     "https://www.deutschlandfunk.de/inzwischen-acht-tote-bei-explosion-in-einer-moschee-im-syrischem-homs-100.html",
     "https://www.deutschlandfunk.de/drk-verzeichnet-ein-fuenftel-weniger-spenden-100.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/hateaid-warum-die-trump-regierung-zensur-in-europa-wittert-110809335.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/leutheusser-schnarrenberger-sieht-chance-fuer-europa-in-zweiter-amtszeit-von-trump-102.html",
     "https://www.deutschlandfunk.de/hausaerzteverband-warnt-koalition-vor-abschaffung-der-telefonischen-krankschreibung-100.html",
     "https://www.deutschlandfunk.de/trump-rede-in-davos-am-nachmittag-mit-spannung-erwartet-104.html",
-    "https://www.deutschlandfunk.de/warnstreiks-an-schulen-unter-anderem-in-nordrhein-westfalen-und-sachsen-100.html"
+    "https://www.deutschlandfunk.de/warnstreiks-an-schulen-unter-anderem-in-nordrhein-westfalen-und-sachsen-100.html",
+    "https://www.deutschlandfunk.de/premierminister-lecornu-setzt-haushalt-per-sonderklausel-ohne-parlamentsabstimmung-durch-100.html",
+    "https://www.deutschlandfunk.de/eu-parlament-stimmt-ueber-pruefung-durch-eugh-ab-100.html"
   ],
   "content_hashes": [
-    "ff822c93294ba69d3bb7d1b28736b499",
-    "f5a9895b717cb9711f67b22010b63aff",
     "c19c178d0bbe984e04c6e623ba3aeff6",
     "41380a6d7254609e36a7a8a54f90be1e",
     "2ccf94f31a63cd3cbf404a8404cd5516",
@@ -2001,11 +1999,11 @@
     "95a8b50e69d2c6b13969f74d22426da9",
     "751a1821af5b8c13151b1fe4d15c0a17",
     "e1dc012521a56cec1c2efc25e9125218",
-    "4d6dd3b4ee6498d90c9df0b537480c5e"
+    "4d6dd3b4ee6498d90c9df0b537480c5e",
+    "dd7a8fd8b48a6b4b8486663b18604b11",
+    "934bf115dab7ea97924d0ceb2c1f3187"
   ],
   "titles": [
-    "Bundesstaat Sokoto - USA greifen IS-Stellungen in Nigeria an - Einsatz mit dortiger Regierung abgesprochen",
-    "Staatlicher Investitionsfonds - Malaysias Ex-Premier Najib Razak erneut wegen Veruntreuung verurteilt",
     "Anschlag in Syrien - Inzwischen acht Tote bei Explosion in einer Moschee im syrischem Homs",
     "Spendeneinbruch - DRK verzeichnet ein Fünftel weniger Spenden",
     "Sanktionen wegen „Zensur“: Für das Silicon Valley – und Europas radikale Rechte",
@@ -3003,11 +3001,11 @@
     "Kölner Forum für Journalismuskritik - Leutheusser-Schnarrenberger sieht Chance für Europa in zweiter Amtszeit von Trump",
     "Krankenstand - Hausärzteverband warnt Koalition vor Abschaffung der telefonischen Krankschreibung",
     "Schweiz - Trump-Rede in Davos am Nachmittag mit Spannung erwartet",
-    "Arbeit - Warnstreiks an Schulen unter anderem in Nordrhein-Westfalen und Sachsen"
+    "Arbeit - Warnstreiks an Schulen unter anderem in Nordrhein-Westfalen und Sachsen",
+    "Frankreich - Premierminister Lecornu setzt Haushalt per Sonderklausel ohne Parlamentsabstimmung durch",
+    "Freihandelsabkommen Mercosur - EU-Parlament stimmt über Prüfung durch EuGH ab"
   ],
   "hashes": [
-    "999135d8d683425a40b7b6897b4a4566",
-    "9d1aaaebc89b5b952c01e416d670145b",
     "a5a46273416cec5b31d22126d3adcea4",
     "908b674e30d4d64993dd33ce5568c6bb",
     "4b2b37f880bc9f7de34a1c6e08645bd2",
@@ -4005,6 +4003,8 @@
     "e12ce1810bf8d92b4e8882fe5e8d9bef",
     "2f2bb65860e4d0b217b5c244d13fdd76",
     "200e954a798ca5d47563f06de1f3cf26",
-    "8c67bdc0635ff8fe25b5431eb368b48a"
+    "8c67bdc0635ff8fe25b5431eb368b48a",
+    "34bca8dbcc1c1fba16babed94aef6c9b",
+    "2a7491535391af9668d1dfed9dc78ef2"
   ]
 }
