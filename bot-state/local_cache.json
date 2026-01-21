@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/china-belegt-us-firmen-mit-sanktionen-reaktion-auf-ruestungslieferungen-an-taiwan-100.html",
-    "https://www.deutschlandfunk.de/bundesnetzagentur-erwartet-fuer-2026-stabile-oder-sinkende-strompreise-100.html",
     "https://www.deutschlandfunk.de/digitalisierung-koennte-bei-behoerdenanliegen-viel-zeit-sparen-102.html",
     "https://www.deutschlandfunk.de/viele-verletzte-nach-russischen-luftangriffen-mehrere-hunderttausend-haushalte-ohne-strom-und-heizun-100.html",
     "https://www.deutschlandfunk.de/justizministerin-hubig-gegen-klarnamenpflicht-im-internet-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/weltweite-erzeugungskapazitaet-von-atomkraft-auf-rekordniveau-ausbau-in-china-entscheidend-100.html",
     "https://www.deutschlandfunk.de/trump-kuendigt-fuer-morgen-treffen-mit-selenskyj-in-davos-an-100.html",
     "https://www.deutschlandfunk.de/trump-grundlage-fuer-groenland-vereinbarung-erzielt-keine-us-zusatzzoelle-ab-1-februar-100.html",
-    "https://www.spiegel.de/ausland/donald-trump-doch-keine-strafzoelle-gegen-europa-zum-1-februar-a-579057ff-538e-4be0-98b8-153c37415759#ref=rss"
+    "https://www.spiegel.de/ausland/donald-trump-doch-keine-strafzoelle-gegen-europa-zum-1-februar-a-579057ff-538e-4be0-98b8-153c37415759#ref=rss",
+    "https://www.deutschlandfunk.de/trump-kuendigt-fuer-heute-treffen-mit-selenskyj-in-davos-an-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-reist-nach-aethiopien-100.html"
   ],
   "content_hashes": [
-    "1dbba0af71a481fb1ab7c9ed0b7dcad0",
-    "23484c6a7a4b6d6cd6b0d510fb8b8b29",
     "8dc2051b928654980a1d9a659ff976e5",
     "e601dfdd41fb9e5d9532494af6b8b482",
     "4115419fbc59986fe07d838920c0e022",
@@ -2001,11 +1999,11 @@
     "193b2d2c432b237beac00caf9c807278",
     "fd520b3663db999d549392360742d583",
     "665f38949f8e63c38683967eb619e232",
-    "dc6997f3fa8e67d11ada03b747316ca6"
+    "dc6997f3fa8e67d11ada03b747316ca6",
+    "ab3d44071c55667daa4d8de7c3ffad91",
+    "c7c7abe7d167615e0dc31a7c20d560d1"
   ],
   "titles": [
-    "\"Ein-China-Prinzip verletzt\" - China belegt US-Firmen mit Sanktionen - Reaktion auf Rüstungslieferungen an Taiwan",
-    "Medienbericht - Bundesnetzagentur erwartet für 2026 \"stabile oder sinkende\" Strompreise",
     "Bitkom-Umfrage - Digitalisierung könnte bei Behördenanliegen viel Zeit sparen",
     "Ukraine - Viele Verletzte nach russischen Luftangriffen - mehrere hunderttausend Haushalte ohne Strom und Heizung",
     "Nach Vorstoß von Voßkuhle - Justizministerin Hubig gegen Klarnamenpflicht im Internet",
@@ -3003,11 +3001,11 @@
     "Atomkraft - Weltweite Erzeugungskapazität von Atomkraft auf Rekordniveau - Ausbau in China entscheidend",
     "Ukraine - Trump kündigt für morgen Treffen mit Selenskyj in Davos an",
     "Davos - Trump: Grundlage für Grönland-Vereinbarung ​erzielt ​- Keine US-Zusatzzölle ab ​1. Februar",
-    "Donald Trump: Doch keine Strafzölle gegen Europa zum 1. Februar"
+    "Donald Trump: Doch keine Strafzölle gegen Europa zum 1. Februar",
+    "Ukraine - Trump kündigt für heute Treffen mit Selenskyj in Davos an",
+    "Afrika - Außenminister Wadephul reist nach Äthiopien"
   ],
   "hashes": [
-    "0453be9aba7886363f6fdc0a8c499aa7",
-    "99746ae836d9b4442624beeb708d28de",
     "aa9b0891de43f2a94967e4cf88280ff7",
     "53112fd46fdca601fd285aaeed8e7320",
     "a8b96287f4fd3010358c6547aaa10968",
@@ -4005,6 +4003,8 @@
     "3001d5373ac5f56d988babecacfa04c7",
     "40ab9e63a7e343592a701f7124824da8",
     "f406b3bc3ee9e7513370ae5173d75495",
-    "0d7e6c80f216e972790c205b42c1d9a4"
+    "0d7e6c80f216e972790c205b42c1d9a4",
+    "66e3c2d9979da49602e46dec0bc5003a",
+    "000a2b016b0fd8ba17329139ea99fc53"
   ]
 }
