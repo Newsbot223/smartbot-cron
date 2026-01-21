@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/fuest-kritisiert-merz-alles-mit-geld-zuschuetten-dafuer-braucht-es-nicht-viel-mut-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/ukraine-aufruf-des-papstes-menschenfreundlich-aber-naiv-110809439.html",
-    "https://www.deutschlandfunk.de/kambodscha-wirft-thailand-verstaerkung-von-angriffen-vor-100.html",
     "https://www.deutschlandfunk.de/rubio-gratuliert-us-nahem-neuen-praesidenten-von-honduras-102.html",
     "https://www.deutschlandfunk.de/vosskuhle-warnt-vor-gefaehrdung-der-demokratie-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/deutscher-staedtetag-fordert-milliarden-soforthilfe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutsche-staatsschulden-steigen-um-2-1-prozent-100.html",
     "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss",
     "https://www.deutschlandfunk.de/canyon-baut-jede-fuenfte-stelle-ab-standort-koblenz-besonders-betroffen-100.html",
-    "https://www.spiegel.de/politik/deutschland/groenland-jens-spahn-warnt-vor-zu-viel-konfrontation-mit-donald-trump-a-5db15cc3-9032-44a1-8c49-29d42286575f#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/groenland-jens-spahn-warnt-vor-zu-viel-konfrontation-mit-donald-trump-a-5db15cc3-9032-44a1-8c49-29d42286575f#ref=rss",
+    "https://www.deutschlandfunk.de/von-der-leyen-sieht-eu-und-usa-wegen-groenland-konflikt-am-scheideweg-100.html",
+    "https://www.deutschlandfunk.de/ausschreitungen-bei-prokurdischen-demonstrationen-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/europol-groesster-einsatz-aller-zeiten-gegen-den-handel-mit-synthetischen-drogen-102.html"
   ],
   "content_hashes": [
-    "46dea0e1ecee5d302bc9cf7f6a916e7f",
-    "3dde195fa11b2f8a26a6a5ea8e14a394",
-    "8c05e6257b5d6346955ef627e7e9ca03",
     "8096fd439dd1d359e5ec90ca185c6e4e",
     "436f597dcf4ae7ba2013a1c76e635d9e",
     "add8b00aac27c7a0677b2d010dc48790",
@@ -2001,12 +1998,12 @@
     "b0affc78e8488f24ed7364b7f057dca4",
     "dab44fe014f448580936eec8a7612bd4",
     "257092bff43d6f79990c489fa9627334",
-    "979e1ee4656c9ae9dd49fc1403d5f752"
+    "979e1ee4656c9ae9dd49fc1403d5f752",
+    "0f99452a04ad6d43d93bfcd7b4eecca4",
+    "0b353de780dbd91727ec9099ac2a562e",
+    "f1ba3cf477cdd8c2cf638f5739a52499"
   ],
   "titles": [
-    "Ifo-Präsident - Fuest kritisiert Merz: \"Alles mit Geld zuschütten, dafür braucht es nicht viel Mut\"",
-    "Aufruf des Papstes: Menschenfreundlich, aber naiv",
-    "Grenzkonflikt - Kambodscha wirft Thailand Verstärkung von Angriffen vor",
     "Zentralamerika - Rubio gratuliert US-nahem neuen Präsidenten von Honduras",
     "Extremismus - Voßkuhle warnt vor Gefährdung der Demokratie in Deutschland",
     "Klamme Kommunen - Deutscher Städtetag fordert Milliarden-Soforthilfe",
@@ -3003,12 +3000,12 @@
     "Bund, Länder, Gemeinden - Deutsche Staatsschulden steigen um 2,1 Prozent",
     "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’",
     "Deutscher Fahrradhersteller - Canyon baut jede fünfte Stelle ab - Standort Koblenz besonders betroffen",
-    "Grönland: Jens Spahn warnt vor zu viel Konfrontation mit Donald Trump"
+    "Grönland: Jens Spahn warnt vor zu viel Konfrontation mit Donald Trump",
+    "Geopolitik - Von der Leyen sieht EU und USA wegen Grönland-Konflikt am Scheideweg",
+    "Lage in Syrien - Ausschreitungen bei prokurdischen Demonstrationen in Deutschland",
+    "Kriminalität - Europol: Größter Einsatz aller Zeiten gegen den Handel mit synthetischen Drogen"
   ],
   "hashes": [
-    "de10e601dc6eac21865fc0c51946d08c",
-    "8a5b70f50aaab7813e73e967ae0b75be",
-    "c09bd5d3d9e88fdc23073b4c5994882d",
     "f062fb99338b6e7f47a0381830d054cc",
     "c32a36ac6102dd7c1d07cf2ed7173bdb",
     "3efe4f8f75e869d6f2a2af9194626f00",
@@ -4005,6 +4002,9 @@
     "7156ace8969556613e782d69b4110b3a",
     "24e15c38a7b7ee561607617761adf76b",
     "34f16a9723ab516d022f178afa873b0d",
-    "4c28b13573a32d5f1008597b544fba92"
+    "4c28b13573a32d5f1008597b544fba92",
+    "120c3ae276d8770e7301c0abc22b2704",
+    "39e0437478399947f8b817af1ae79945",
+    "fb9e6f4a4f98aa912b8b4d8f9bd1a55b"
   ]
 }
