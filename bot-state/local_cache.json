@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-klingbeil-warnt-vor-einfuhr-illegalen-feuerwerks-faz-110093143.html",
-    "https://www.deutschlandfunk.de/thailand-und-kambodscha-einigen-sich-auf-sofortige-waffenruhe-uno-generalsekretaer-reagiert-erfreut-100.html",
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-juli-zeh-betrachtet-brandmauer-gegen-die-afd-als-gescheitert-faz-110093143.html",
     "https://www.deutschlandfunk.de/verbuendete-sichern-ukraine-unterstuetzung-zu-selenskyj-kuendigt-abstimmung-mit-unterstuetzern-an-100.html",
     "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-gilt-als-favoritin-100.html",
     "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-beobachter-sprechen-von-farce-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/oberhaus-stimmt-fuer-social-media-verbot-unter-16-jahren-100.html",
     "https://www.faz.net/aktuell/politik/inland/viele-afghanen-lehnen-aufnahmeverzicht-gegen-geld-ab-accg-200462620.html",
     "https://www.deutschlandfunk.de/kritik-an-gruenen-nach-mercosur-abstimmung-auch-in-eigenen-reihen-100.html",
-    "https://www.deutschlandfunk.de/ungewissheit-um-treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle--100.html"
+    "https://www.deutschlandfunk.de/ungewissheit-um-treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle--100.html",
+    "https://www.deutschlandfunk.de/barley-spd-kritisiert-abstimmung-im-eu-parlament-banaszak-gruene-mercosur-soll-vorlaeufig-in-kraft-t-102.html",
+    "https://www.deutschlandfunk.de/treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle-unterstuetzung-d-100.html",
+    "https://www.deutschlandfunk.de/auch-zweite-hausdurchsuchung-wegen-anti-merz-schmierereien-war-rechtswidrig-100.html"
   ],
   "content_hashes": [
-    "ea209a7ae93cc976aac7bb7d344b1927",
-    "0fb4a71d275588e788c60efce5e54de6",
-    "caaa7113a3b5688da8e65c18dfcbb2d3",
     "e674c783dd4b59765138db6eca2acbb2",
     "40914dfde85e9f7fab980e59ecb4e5cc",
     "b2eacd0e81229d0b709e41edf6f710fc",
@@ -2001,12 +1998,12 @@
     "005a7604cff745fedffce130d18f0fb3",
     "416132d78d22d290687f4e104dfcbfa7",
     "17d0277f151a7fc9e785a4e7a97c8580",
-    "5ddcef406ae7786704677a6a4caa0589"
+    "5ddcef406ae7786704677a6a4caa0589",
+    "e239caa9789fafc8ff493b6895af875d",
+    "e0f1681a36facb0c9156e15b2d836917",
+    "b17ae7bf9a23f084c92b98fd7710a92f"
   ],
   "titles": [
-    "Liveblog Bundespolitik: Klingbeil warnt vor Einfuhr illegalen Feuerwerks",
-    "Gemeinsame Erklärung - Thailand und Kambodscha einigen sich auf \"sofortige\" Waffenruhe - UNO-Generalsekretär reagiert erfreut",
-    "Liveblog Bundespolitik: Juli Zeh betrachtet Brandmauer gegen die AfD als gescheitert",
     "Vor Treffen mit US-Präsident Trump - Verbündete sichern Ukraine Unterstützung zu - Selenskyj kündigt Abstimmung mit Unterstützern an",
     "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti gilt als Favoritin",
     "Myanmar - Militärjunta lässt Parlament wählen - Beobachter sprechen von \"Farce\"",
@@ -3003,12 +3000,12 @@
     "Britisches Parlament - Oberhaus stimmt für Social-Media-Verbot unter 16 Jahren",
     "Aufnahme von Afghanen: Sicherheit ist ihnen wichtiger als Geld",
     "Freihandel - Kritik an Grünen nach Mercosur-Abstimmung auch in eigenen Reihen",
-    "Ukraine - Ungewissheit um Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum"
+    "Ukraine - Ungewissheit um Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum",
+    "EU-Mercosur-Freihandelsabkommen - Barley (SPD) kritisiert Abstimmung im EU-Parlament - Banaszak (Grüne): Mercosur soll vorläufig in Kraft treten",
+    "Ukraine - Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum",
+    "Im Fall Menden - Auch zweite Hausdurchsuchung wegen Anti-Merz-Schmierereien war rechtswidrig"
   ],
   "hashes": [
-    "9202c5e0354ff3bc2d3d14480bbe2a89",
-    "83db67d3ed012a2b2ac5fdd4e259862c",
-    "69f9a0c5a80dded95eb684d5dea83f68",
     "077f086595f184cd8b4b60c509043cfd",
     "df83d5d443802dae55240741a156d67c",
     "30e5e45e27376987de182d504f33f80a",
@@ -4005,6 +4002,9 @@
     "9d8a5ec25e30d8848d924238ae98a197",
     "b8914046051b9cc2897b3782a83adc72",
     "6d57cb6e0636c39721ec38713df701ef",
-    "074747766fa02659da2dfe8844f96da1"
+    "074747766fa02659da2dfe8844f96da1",
+    "f6cde19fbc0bb70a6edd949eac5c2cc7",
+    "a9e10f7123d6cd54c8cebd36e2d84f72",
+    "89a048a477d6e1e24a3ddcb553c91066"
   ]
 }
