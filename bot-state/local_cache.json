@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-gilt-als-favorit-102.html",
-    "https://www.deutschlandfunk.de/militaerjunta-laesst-parlament-waehlen-menschenrechtler-sprechen-von-farce-100.html",
     "https://www.deutschlandfunk.de/strack-zimmermann-deutsche-soldaten-in-der-ukraine-nur-im-rahmen-der-nato-moeglich-100.html",
     "https://www.deutschlandfunk.de/di-fabio-zurueckhaltend-zu-verbotsverfahren-pulver-vielleicht-lieber-noch-trocken-halten-104.html",
     "https://www.deutschlandfunk.de/grossbritannien-verschaerft-gangart-bei-rueckfuehrungen-von-migranten-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/davos-bundeskanzler-merz-verspricht-daenemark-und-groenland-schutz-100.html",
     "https://www.deutschlandfunk.de/gruendung-des-sogenannten-friedensrats-100.html",
     "https://www.deutschlandfunk.de/mehrheit-der-afghanen-lehnt-angebot-der-bundesregierung-ab-100.html",
-    "https://www.deutschlandfunk.de/weiterer-oppositionspolitiker-nach-der-praesidentschaftswahl-festgenommen-100.html"
+    "https://www.deutschlandfunk.de/weiterer-oppositionspolitiker-nach-der-praesidentschaftswahl-festgenommen-100.html",
+    "https://www.deutschlandfunk.de/misstrauensantrag-von-rechten-gegen-eu-kommission-erneut-gescheitert-100.html",
+    "https://www.faz.net/aktuell/politik/inland/syrer-in-deutschland-rechtssicherheit-schaffen-110822993.html"
   ],
   "content_hashes": [
-    "ca00d2ad361694ae0decba629d3251f0",
-    "4f822074f342e0b4d35d1e9dbfebedc1",
     "2d1375d0725453428e755864ce3478db",
     "acbe9cda435af37af3519c04839e1317",
     "d291e7d4074113e5caa4bd9103b6ca23",
@@ -2001,11 +1999,11 @@
     "9312fd3c4805ff2f92a10d922c9900f7",
     "d134c66191ad2d41ae1223ea855d5e80",
     "8830caab42eaaba75bcd11457ec06a9b",
-    "7d3184b566ab1d1224e14b53a03deff5"
+    "7d3184b566ab1d1224e14b53a03deff5",
+    "9c6bce031219761dc7cb88e9621a41ca",
+    "de85677c46b0d207c7952d8722fd7613"
   ],
   "titles": [
-    "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti gilt als Favorit",
-    "Myanmar - Militärjunta lässt Parlament wählen - Menschenrechtler sprechen von \"Farce\"",
     "Nach möglichem Waffenstillstand - Strack-Zimmermann: \"Deutsche Soldaten in der Ukraine nur im Rahmen der NATO möglich\"",
     "Umgang mit der AfD - Di Fabio zurückhaltend zu Verbotsverfahren - \"Pulver vielleicht lieber noch trocken halten\"",
     "Großbritannien verschärft Gangart bei Rückführungen von Migranten",
@@ -3003,11 +3001,11 @@
     "Weltwirtschaftsforum - Davos: Bundeskanzler Merz verspricht Dänemark und Grönland Schutz",
     "Weltwirtschaftsforum in Davos - Gründung des sogenannten \"Friedensrats\"",
     "Geld gegen Aufnahmeverzicht - Mehrheit der Afghanen lehnt Angebot der Bundesregierung ab",
-    "Uganda - Weiterer Oppositionspolitiker nach der Präsidentschaftswahl festgenommen"
+    "Uganda - Weiterer Oppositionspolitiker nach der Präsidentschaftswahl festgenommen",
+    "EU-Parlament - Misstrauensantrag von Rechten gegen EU-Kommission erneut gescheitert",
+    "Syrer in Deutschland: Rechtssicherheit für Abschiebungen - und fürs Bleiben"
   ],
   "hashes": [
-    "3eba5c29fd60dbe39d0048f72704403f",
-    "e165bb8ea1ecf38b3fd7fdc2c94a021d",
     "4936fd22980675632f975c9f40bace05",
     "67fd349435ec4a799c38ff2df46cf328",
     "88bc5aa608e5588a91491361f77a979b",
@@ -4005,6 +4003,8 @@
     "06c64d9ed74848a57305f33ebfbf56d7",
     "5b7ad12155bb8a9b7af0803786872d6c",
     "0cc5a9c8e2f1e18fbb72d9f54b249fa4",
-    "2b4477f46ff1a8c27e3d1d66e99b6c4f"
+    "2b4477f46ff1a8c27e3d1d66e99b6c4f",
+    "e92c44b73d66f4a8c2f42cf451083fa1",
+    "bd2106069c31080fc6d53a343669416d"
   ]
 }
