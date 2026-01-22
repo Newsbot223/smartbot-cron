@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-menschen-bereiten-teure-lebensmittel-probleme-102.html",
-    "https://www.deutschlandfunk.de/erste-runde-der-parlamentswahl-in-myanmar-beendet-menschenrechtler-sprechen-von-farce-102.html",
     "https://www.deutschlandfunk.de/hundefleisch-produzenten-geben-schon-ein-jahr-vor-verbot-auf-100.html",
     "https://www.aljazeera.com/video/quotable/2025/12/28/defence-spending-has-fundamentally-rebalanced-nato?traffic_source=rss",
     "https://www.deutschlandfunk.de/flugverkehr-in-moskau-wegen-ukrainischer-drohnenangriffe-stark-beeintraechtigt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/soeder-beleidigung-ermittlungen-gegen-gruene-jugend-chef-bobga-100.html",
     "https://www.deutschlandfunk.de/deutsche-frau-unter-toten-des-bahnungluecks-100.html",
     "https://www.deutschlandfunk.de/klingbeil-will-mit-frankreich-ueber-atomaren-schutz-sprechen-104.html",
-    "https://www.faz.net/aktuell/politik/ausland/abstimmung-zu-mercosur-die-gruenen-und-die-brandmauer-zur-afd-110823598.html"
+    "https://www.faz.net/aktuell/politik/ausland/abstimmung-zu-mercosur-die-gruenen-und-die-brandmauer-zur-afd-110823598.html",
+    "https://www.deutschlandfunk.de/grossbrand-in-fluechtlingslager-fuer-rohingya-100.html",
+    "https://www.faz.net/aktuell/politik/inland/brandenburg-will-gewalt-an-schulen-eindaemmen-110823594.html"
   ],
   "content_hashes": [
-    "bea35116ad2231375307d2bca477fed8",
-    "3cfd79a815893e6a928d24a5b24aac12",
     "56c46511b3ac32eea6c5b9cc645633f5",
     "c23d9d5c17f354800813f30fce81b215",
     "1053aee0d6f695b2ecb9170c9a096945",
@@ -2001,11 +1999,11 @@
     "f93e2c38dc1b16d2758583c26025ed60",
     "c686030a2f4b3907fccbdcc3b6fa42d2",
     "e9d3309c1cfa2283cc7cd02aa01588a2",
-    "dc4a19a4e81b8b1674ffbaa8c0b72bc3"
+    "dc4a19a4e81b8b1674ffbaa8c0b72bc3",
+    "cc26a531b361ac38189106898ebdf23b",
+    "c80a9438bd3fb2a9b739050fefef1480"
   ],
   "titles": [
-    "Umfrage - Mehr Menschen bereiten teure Lebensmittel Probleme",
-    "Myanmar - Erste Runde der Parlamentswahl in Myanmar beendet - Menschenrechtler sprechen von \"Farce\"",
     "Tierschutz - Hundefleisch-Produzenten geben schon ein Jahr vor Verbot auf",
     "Defence spending has “fundamentally rebalanced” NATO",
     "Ukraine-Krieg - Flugverkehr in Moskau wegen ukrainischer Drohnenangriffe stark beeinträchtigt",
@@ -3003,11 +3001,11 @@
     "Video-Clip - Söder-Beleidigung? Ermittlungen gegen Grüne-Jugend-Chef Bobga",
     "Spanien - Deutsche Frau unter Toten des Bahnunglücks",
     "Sicherheitslage - Klingbeil will mit Frankreich über atomaren Schutz sprechen",
-    "Grüne im Europaparlament: Und weg ist die Brandmauer"
+    "Grüne im Europaparlament: Und weg ist die Brandmauer",
+    "Bangladesch - Großbrand in Flüchtlingslager für Rohingya",
+    "Nach Brandbrief: Brandenburg will Gewalt an Schulen eindämmen"
   ],
   "hashes": [
-    "8a4378e5c8a30d25a84d808fce1dcbc8",
-    "8043832485896c9afccfebd34de4ca51",
     "599c32bfe07c8bc6f945a0fb6ad07c3e",
     "1283502361c240d004956931e71512c5",
     "5ee97fa5cd8466f17b4401a6a980141c",
@@ -4005,6 +4003,8 @@
     "8206ba57008984eb18d1f410cdb1e4b9",
     "fadc24457758aef74ac2df218c972510",
     "a816a6ae337ce29ae62806ec9c5a2372",
-    "76d94562f033cff310ee55ba0a677cb6"
+    "76d94562f033cff310ee55ba0a677cb6",
+    "129651eb592a087f822c7cbf5530a64b",
+    "19d0702a4c0daab7b55d476364372228"
   ]
 }
