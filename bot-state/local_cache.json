@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/amsterdam-postkolonial-neue-wege-des-erinnerns-100.html",
-    "https://www.deutschlandfunk.de/verbuendete-sichern-selenskyj-unterstuetzung-zu-100.html",
-    "https://www.deutschlandfunk.de/erneut-schwere-russische-angriffe-auf-ukraine-100.html",
     "https://www.deutschlandfunk.de/afd-politiker-duerfen-wieder-an-muenchner-sicherheitskonferenz-teilnehmen-100.html",
     "https://www.deutschlandfunk.de/tote-bei-zusammenstoessen-zwischen-alawiten-und-regierungskraeften-100.html",
     "https://www.deutschlandfunk.de/selenskyj-zu-gespraechen-mit-trump-in-palm-beach-us-praesident-lobt-telefonat-mit-putin-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/brandenburg-will-gewalt-an-schulen-eindaemmen-110823594.html",
     "https://www.deutschlandfunk.de/im-buergerkriegsland-sudan-kann-haelfte-der-kinder-nicht-zur-schule-gehen-100.html",
     "https://www.deutschlandfunk.de/ice-beamte-nehmen-kinder-in-gewahrsam-auch-fuenfjaehrigen-102.html",
-    "https://www.deutschlandfunk.de/frueherer-us-sonderermittler-verteidigt-strafverfolgung-trumps-100.html"
+    "https://www.deutschlandfunk.de/frueherer-us-sonderermittler-verteidigt-strafverfolgung-trumps-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-reist-mit-zehn-ministern-zu-deutsch-italienischen-regierungskonsultationen-102.html",
+    "https://www.deutschlandfunk.de/regierung-muss-sich-misstrauensabstimmungen-stellen-100.html",
+    "https://www.deutschlandfunk.de/eu-beraet-auf-sondergipfel-ueber-beziehungen-zu-den-usa-merz-geschlossenheit-europas-wirkt-112.html"
   ],
   "content_hashes": [
-    "d7ba2227cb86665379cf6a09663fbf02",
-    "8f7c9e5141df750a554a5ccbeb07bc32",
-    "f8b8c1410b0a728ea716e9e1c0f252b9",
     "a8b499ff92e5abc9ed847e6477fdaaf0",
     "cb2be17885fe12798d1c57aa599bf746",
     "c1bb06718b6be59f8dc77cc46513e4a5",
@@ -2001,12 +1998,12 @@
     "c80a9438bd3fb2a9b739050fefef1480",
     "64b1d78f7c99d281693ef3b99bc3f408",
     "84e9d1b7512bc5511386c1222698822d",
-    "060535bdcdadf14d68f56adfda7c7028"
+    "060535bdcdadf14d68f56adfda7c7028",
+    "56fa83968bdbdd4acc35fa84510c59b1",
+    "45c17e68c6a3648702125722593b1223",
+    "1748eb1eb9a881400ae9b352741cf9e3"
   ],
   "titles": [
-    "Niederlande - Das düstere Erbe einer Kolonialmacht sichtbar machen",
-    "Vor Treffen mit US-Präsident Trump - Verbündete sichern Selenskyj Unterstützung zu",
-    "Vor Selenskyjs Besuch bei Trump - Erneut schwere russische Angriffe auf Ukraine",
     "dpa-Bericht - AfD-Politiker dürfen wieder an Münchner Sicherheitskonferenz teilnehmen",
     "Syrien - Tote bei Zusammenstößen zwischen Alawiten und Regierungskräften",
     "Florida - Selenskyj zu Gesprächen mit Trump in Palm Beach - US-Präsident lobt Telefonat mit Putin",
@@ -3003,12 +3000,12 @@
     "Nach Brandbrief: Brandenburg will Gewalt an Schulen eindämmen",
     "Nordostafrika - Im Bürgerkriegsland Sudan kann Hälfte der Kinder nicht zur Schule gehen",
     "US-Bundesstaat Minnesota - ICE-Beamte nehmen Kinder in Gewahrsam - auch Fünfjährigen",
-    "Justiz - Früherer US-Sonderermittler verteidigt Strafverfolgung Trumps"
+    "Justiz - Früherer US-Sonderermittler verteidigt Strafverfolgung Trumps",
+    "Rom - Bundeskanzler Merz reist mit zehn Ministern zu deutsch-italienischen Regierungskonsultationen",
+    "Frankreich - Regierung muss sich Misstrauensabstimmungen stellen",
+    "Debatte um Grönland - EU berät auf Sondergipfel über Beziehungen zu den USA - Merz: Geschlossenheit Europas wirkt"
   ],
   "hashes": [
-    "69fd8d5e7159b195c25c2acb1c5a78a1",
-    "ceff88931550038e30cbf256e8d778d3",
-    "4ffcd56d8d87de0a7009dfb085629736",
     "b01c3a09bd5e622503772077940d538d",
     "ed730235accc1f90935af72c4387e56b",
     "e9797983992c2c465b31dffda5cafba0",
@@ -4005,6 +4002,9 @@
     "19d0702a4c0daab7b55d476364372228",
     "26247fcc555e76b6edba1e4eaa079589",
     "e86c5ddba4fd960db445576ee822a8c4",
-    "53e844b30311dacae4d176b09a11a2c1"
+    "53e844b30311dacae4d176b09a11a2c1",
+    "ccaf4413c17e7ab49c26b6b5143b5010",
+    "ca598e73420cdf452c59834ea107c957",
+    "d30bbb77523ef0dc77d2a2ff9e7a5f6f"
   ]
 }
