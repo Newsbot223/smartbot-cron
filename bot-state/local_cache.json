@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/jahresausblick-2026-jetzt-wirds-ernst-100.html",
-    "https://www.deutschlandfunk.de/bka-praesident-muench-warnt-vor-afd-regierungsbeteiligung-100.html",
-    "https://www.deutschlandfunk.de/thailaendische-armee-wirft-kambodscha-bruch-von-waffenruhe-vor-102.html",
-    "https://www.deutschlandfunk.de/krankenhausgesellschaft-fordert-von-bundesregierung-erleichterungen-bei-personalvorgaben-102.html",
     "https://www.deutschlandfunk.de/chinesischer-hersteller-byd-loest-tesla-als-weltgroesster-e-autobauer-ab-100.html",
     "https://www.faz.net/aktuell/politik/ausland/israel-ein-kurzes-durchatmen-bedeutet-noch-lange-keinen-frieden-110809927.html",
     "https://www.deutschlandfunk.de/parlament-in-bagdad-kommt-zu-erster-sitzung-zusammen-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/thueringen-will-hitlergruesse-an-schulen-unter-strafe-stellen-accg-110823525.html",
     "https://www.deutschlandfunk.de/bund-will-traeger-in-demokratiefoerderprogramm-staerker-pruefen-100.html",
     "https://www.deutschlandfunk.de/verdaechtiger-nach-explosion-vor-haus-von-gruenen-kommunalpolitikerin-gefasst-100.html",
-    "https://www.deutschlandfunk.de/eu-besorgt-nach-berichten-ueber-ausbrueche-von-is-mitgliedern-aus-der-haft-100.html"
+    "https://www.deutschlandfunk.de/eu-besorgt-nach-berichten-ueber-ausbrueche-von-is-mitgliedern-aus-der-haft-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-italien-vereinbaren-engere-partnerschaft-bei-ruestung-104.html",
+    "https://www.deutschlandfunk.de/trump-naher-us-unternehmer-kontrolliert-ein-fuenftel-der-deutschen-tanklager-100.html",
+    "https://www.deutschlandfunk.de/hinweise-auf-schienenbruch-als-ursache-fuer-zugunglueck-mit-45-toten-in-spanien-gefunden-100.html",
+    "https://www.deutschlandfunk.de/eu-nimmt-drohung-mit-sonderzoellen-gegen-us-produkte-zurueck-102.html"
   ],
   "content_hashes": [
-    "163a942f18d58b4df78843f91f3aee8a",
-    "2ed1e66c7d177b06b263a38ab0f9584d",
-    "f1c68a846d590aeff1321d53b96cfc48",
-    "5f76e10068c139af9d56ee8d9d372b19",
     "a5b23a6dd36b62f750a117fd7ad84392",
     "83e33381084ac134959b783f8e9b1b8e",
     "57b50eb17a35659eec69352e3b860f84",
@@ -2001,13 +1997,13 @@
     "bc524241398f7dd723d1a3f814858b0c",
     "6bec22fb91f99c1f2692af7c2d0ded55",
     "bd306817587f550efffd4914030b7a8f",
-    "a19df67ba3318525fa1f6a70b14fc09f"
+    "a19df67ba3318525fa1f6a70b14fc09f",
+    "1753daf21b5ea1f06b838ba71a023f1d",
+    "ec846f56533e35ab5a998c7f939f8ea1",
+    "6bfd9d2f3a1116be50b91eb992044c65",
+    "502451144627019b1fb9eeb42cfd0de2"
   ],
   "titles": [
-    "Jahresausblick 2026 - Jetzt wird's ernst!",
-    "Bundeskriminalamt - BKA-Präsident Münch warnt vor AfD-Regierungsbeteiligung",
-    "Grenzkonflikt - Thailändische Armee wirft Kambodscha Bruch von Waffenruhe vor",
-    "Gesundheit - Krankenhausgesellschaft fordert von Bundesregierung Erleichterungen bei Personalvorgaben",
     "Bericht - Chinesischer Hersteller BYD löst Tesla als weltgrößter E-Autobauer ab",
     "Nahostkonflikt: Ein kurzes Durchatmen in Israel",
     "Irak - Parlament in Bagdad kommt zu erster Sitzung zusammen",
@@ -3003,13 +2999,13 @@
     "Vorstoß aus Thüringen: Künftig soll der Hitlergruß auch an Schulen strafbar sein",
     "Familienministerin Prien - Bund will Träger in Demokratieförderprogramm stärker prüfen",
     "Hessen - Verdächtiger nach Explosion vor Haus von Grünen-Kommunalpolitikerin gefasst",
-    "Syrien - EU besorgt nach Berichten über Ausbrüche von IS-Mitgliedern aus der Haft"
+    "Syrien - EU besorgt nach Berichten über Ausbrüche von IS-Mitgliedern aus der Haft",
+    "Regierungskonsultationen in Rom - Deutschland und Italien vereinbaren engere Partnerschaft bei Rüstung",
+    "Medienbericht - Trump-naher US-Unternehmer kontrolliert ein Fünftel der deutschen Tanklager",
+    "Ermittlungen - Hinweise auf Schienenbruch als Ursache für Zugunglück mit 45 Toten in Spanien gefunden",
+    "Grönland-Konflikt - EU nimmt Drohung mit Sonderzöllen gegen US-Produkte zurück"
   ],
   "hashes": [
-    "632bf552c41bb8d23871ae9ee83919e7",
-    "422b053b1e9c7a5c6217986489fe7faa",
-    "bc7a32581af6678d58e104f2bfc33125",
-    "0e16fe05682a5a396bd1d2c2d770936d",
     "72c732d376df2b0c33485b76271ce844",
     "76c38e18dcddaf16ae5a67bd286bf690",
     "0aa63a3bc48e2a5a855cce07f684747b",
@@ -4005,6 +4001,10 @@
     "fecd66e6ecf739ff1660b7fad490a58e",
     "01c4d362bf02137f48054dbf5e688908",
     "41a0ae88e4478102ff9c2b0a526e6663",
-    "f88ec38f2a5d7c5e207a1932c18f1699"
+    "f88ec38f2a5d7c5e207a1932c18f1699",
+    "34c78351cb8fbb8f5ad2450e4a6ca9de",
+    "dd3a20278612a45115be658914853bf9",
+    "7d2f1d5f5901cbf962867d8c7c1888e7",
+    "90d1fa13dfafea6a33afa1e20b42c5ba"
   ]
 }
