@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/zwei-kaeltebusse-durch-brand-schwer-beschaedigt-102.html",
-    "https://www.deutschlandfunk.de/selenskyj-spricht-mit-trump-in-palm-beach-us-praesident-lobt-telefonat-mit-putin-100.html",
-    "https://www.deutschlandfunk.de/abstimmungen-in-zentralafrikanischer-republik-und-in-guinea-104.html",
     "https://www.deutschlandfunk.de/partei-von-ministerpraesident-kurti-liegt-deutlich-vorne-100.html",
     "https://www.deutschlandfunk.de/trump-selenskyj-treffen-beendet-pressekonferenz-laeuft-100.html",
     "https://www.deutschlandfunk.de/trump-und-selenskyj-beenden-beratungen-viel-zuversicht-aber-wenig-details-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-beraet-auf-sondergipfel-ueber-beziehungen-zu-den-usa-merz-geschlossenheit-europas-wirkt-112.html",
     "https://www.deutschlandfunk.de/eu-sondergipfel-zum-groenlandstreit-beendet-merz-geschlossenheit-kann-etwas-bewirken-100.html",
     "https://www.spiegel.de/politik/russland-botschaft-weist-deutschen-spionagevorwurf-als-provokation-zurueck-a-b09fb33e-fc74-4083-ba3c-12813172dde3#ref=rss",
-    "https://www.deutschlandfunk.de/eu-gesteht-fehler-in-der-arktis-ein-102.html"
+    "https://www.deutschlandfunk.de/eu-gesteht-fehler-in-der-arktis-ein-102.html",
+    "https://www.deutschlandfunk.de/regierungschefin-takaichi-loest-parlament-auf-100.html",
+    "https://www.deutschlandfunk.de/mindestens-60-tote-nach-brand-in-pakistanischem-einkaufszentrum-102.html",
+    "https://www.deutschlandfunk.de/ice-agenten-nehmen-kinder-in-gewahrsam-auch-fuenfjaehrigen-100.html"
   ],
   "content_hashes": [
-    "c87cb8b0dd2abcf19eeb23b1fc1d093d",
-    "53e498cd3d31cd87d154f528ca10ac70",
-    "42a13453f8c8ff4c3ac8e3c4bc76ced4",
     "55e00478549817b70a6a22cf291979b9",
     "a0d669fdf9055033709ca852855c637e",
     "07f4b7dd0d0d34e99e286d16b351fb9a",
@@ -2001,12 +1998,12 @@
     "1748eb1eb9a881400ae9b352741cf9e3",
     "4ee1483cf7d291c838fc3b81908e03f6",
     "962e292820c2c23b1703e6daa36f5419",
-    "cbfa3ab406a77a8be6ee65dd22e31602"
+    "cbfa3ab406a77a8be6ee65dd22e31602",
+    "7890caf856dde0efa842dd7856cc5a1e",
+    "0928f56edebe69c051abed58b6566406",
+    "c23ed0b6cdfda4bb7093930ff6052b11"
   ],
   "titles": [
-    "Berlin - Zwei Kältebusse durch Brand schwer beschädigt",
-    "Ukraine-Krieg - Selenskyj spricht mit Trump in Palm Beach - US-Präsident lobt Telefonat mit Putin",
-    "Präsidentschaftswahlen - Abstimmungen in Zentralafrikanischer Republik und in Guinea",
     "Neuwahl im Kosovo - Partei von Ministerpräsident Kurti liegt deutlich vorne",
     "Ukraine-Krieg - Trump-Selenskyj-Treffen beendet - Pressekonferenz läuft",
     "Treffen in Florida - Trump und Selenskyj beenden Beratungen - viel Zuversicht, aber wenig Details",
@@ -3003,12 +3000,12 @@
     "Debatte um Grönland - EU berät auf Sondergipfel über Beziehungen zu den USA - Merz: Geschlossenheit Europas wirkt",
     "Beziehungen zu den USA - EU-Sondergipfel zum Grönlandstreit beendet - Merz: \"Geschlossenheit kann etwas bewirken\"",
     "Russland: Botschaft weist deutschen Spionagevorwurf als Provokation zurück",
-    "Sondergipfel zum Grönlandstreit - EU gesteht Fehler in der Arktis ein"
+    "Sondergipfel zum Grönlandstreit - EU gesteht Fehler in der Arktis ein",
+    "Japan - Regierungschefin Takaichi löst Parlament auf",
+    "Karachi - Mindestens 60 Tote nach Brand in pakistanischem Einkaufszentrum",
+    "US-Bundesstaat Minnesota - ICE-Agenten nehmen Kinder in Gewahrsam - auch Fünfjährigen"
   ],
   "hashes": [
-    "af577b47c7dfba395e1ad31a9f07e4b0",
-    "cd19d17a00cce0a60ae0747621942dc4",
-    "6a31664892c277ece40cf0fdfd64e232",
     "310d01ad0a677655728b35257f47b693",
     "1e5af31623af9c508eed09cc894c7117",
     "6ea5392c48aede949f5268f49e9fb5b4",
@@ -4005,6 +4002,9 @@
     "d30bbb77523ef0dc77d2a2ff9e7a5f6f",
     "500b9593ddbf3cb5ff95cb5286fe28f1",
     "eac1fc09ab34c0609834cd60e1250792",
-    "29e5804ff3f17177a8f4bf732d650213"
+    "29e5804ff3f17177a8f4bf732d650213",
+    "57cfd57a082ab2ae1e5662e4b47cdecc",
+    "3c39f31f692676dd50fbdd25b0130bc0",
+    "55bc907f1913f38f215430b4eee5add2"
   ]
 }
