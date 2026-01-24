@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2025/12/30/which-countries-will-start-using-the-euro-in-2026?traffic_source=rss",
-    "https://www.deutschlandfunk.de/digitalverband-bitkom-deutsche-unternehmen-investieren-immer-mehr-in-kuenstliche-intelligenz-102.html",
     "https://www.deutschlandfunk.de/ermittlungen-gegen-oligarchen-usmanow-eingestellt-100.html",
     "https://www.spiegel.de/panorama/leute/idris-elba-wird-zum-ritter-geschlagen-a-c9459a11-669a-4dfd-85c8-ec50f0418fc0#ref=rss",
     "https://www.deutschlandfunk.de/polizei-nimmt-nach-razzien-mehr-als-350-verdaechtige-fest-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/lula-lehnt-trumps-friedensrat-als-gegenentwurf-zur-uno-ab-102.html",
     "https://www.deutschlandfunk.de/neue-verteidigungsstrategie-nimmt-verbuendete-in-die-pflicht-102.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-dobrindt-zu-cyberangriffen-wir-werden-zurueckschlagen-faz-110093143.html",
-    "https://www.deutschlandfunk.de/ukraine-russland-und-usa-verhandeln-weiter-zugleich-schwere-angriffe-auf-ukranische-staedte-100.html"
+    "https://www.deutschlandfunk.de/ukraine-russland-und-usa-verhandeln-weiter-zugleich-schwere-angriffe-auf-ukranische-staedte-100.html",
+    "https://www.deutschlandfunk.de/kommunistische-partei-laesst-gegen-zwei-hochrangige-militaeroffiziere-ermitteln-100.html",
+    "https://www.deutschlandfunk.de/mietwucher-app-der-linken-zeigt-zwei-drittel-der-ueberprueften-mieten-sind-zu-hoch-100.html"
   ],
   "content_hashes": [
-    "b37820cb12e450dfefb69abd45f103f9",
-    "693aa83d6715c6b3096245d30ba61084",
     "9ca355e4bd5b1720685ef4d2479d22ee",
     "f07988f5b92bd5e2d747f842db3da332",
     "ee50ec99781824b72f376dd61b53b4af",
@@ -2001,11 +1999,11 @@
     "db4294fa1bef7892d7014de2691a3b58",
     "99a00b373692188fed7173b2f398927b",
     "5eb4471cc35f9cf54184d191369a0b86",
-    "bc06faf54b981b0a5ad27939fa24ccdb"
+    "bc06faf54b981b0a5ad27939fa24ccdb",
+    "05e0fa66bf78bbbc58660794209ecf1e",
+    "f435441a293c8f27f5bed893cb522cfe"
   ],
   "titles": [
-    "Which countries will start using the euro in 2026?",
-    "Wirtschaft - Digitalverband Bitkom: Deutsche Unternehmen investieren immer mehr in Künstliche Intelligenz",
     "Staatsanwaltschaft München - Ermittlungen gegen Oligarchen Usmanow eingestellt",
     "Idris Elba wird zum Ritter geschlagen",
     "Türkei - Polizei nimmt nach Razzien mehr als 350 Verdächtige fest",
@@ -3003,11 +3001,11 @@
     "Brasilien - Lula lehnt Trumps \"Friedensrat\" als Gegenentwurf zur UNO ab",
     "USA - Neue Verteidigungsstrategie nimmt Verbündete in die Pflicht",
     "Deutschland-Blog: Dobrindt zu Cyberangriffen: „Wir werden zurückschlagen“",
-    "Abu Dhabi - Ukraine, Russland und USA verhandeln weiter - zugleich schwere Angriffe auf ukranische Städte"
+    "Abu Dhabi - Ukraine, Russland und USA verhandeln weiter - zugleich schwere Angriffe auf ukranische Städte",
+    "China - Kommunistische Partei lässt gegen zwei hochrangige Militäroffiziere ermitteln",
+    "Wohnungsmarkt - Mietwucher-App der Linken zeigt: Zwei Drittel der überprüften Mieten sind zu hoch"
   ],
   "hashes": [
-    "e1f7a58dca0701b0e69c660c07f6857e",
-    "f9d8880777aad26368e1b564a9c9238a",
     "dd0da5b227c50151292adb7b536e6226",
     "115f5d56304ecbc4b2c7a698c54c27b9",
     "9a09871a674ade135c6c38c9498a4939",
@@ -4005,6 +4003,8 @@
     "e5e0bf23ba42f90b545706d6a98c1f56",
     "13f45020c48a654557d5ad8b42159363",
     "876421eec49864362f9885c9c62aeb24",
-    "5285d508aab654267eeb471b15425252"
+    "5285d508aab654267eeb471b15425252",
+    "3b47a8ef833ecbf6373d5cfda6302475",
+    "e6d61ff218f713090436663a91934765"
   ]
 }
