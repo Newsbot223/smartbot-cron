@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/sicherheitsgarantien-fuer-die-ukraine-gegen-putins-willen-110810637.html",
-    "https://www.deutschlandfunk.de/adac-draengt-auf-hoeheres-tempo-bei-fuehrerschein-reform-102.html",
-    "https://www.deutschlandfunk.de/bundesweite-sternsinger-aktion-startet-104.html",
     "https://www.deutschlandfunk.de/wieder-razzien-gegen-mutmassliche-anhaenger-von-terrornetzwerk-is-100.html",
     "https://www.aljazeera.com/news/2025/12/30/which-countries-will-start-using-the-euro-in-2026?traffic_source=rss",
     "https://www.deutschlandfunk.de/digitalverband-bitkom-deutsche-unternehmen-investieren-immer-mehr-in-kuenstliche-intelligenz-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-voyeuristische-aufnahmen-an-oeffentlichen-orten-wie-saunen-strafba-100.html",
     "https://www.deutschlandfunk.de/woidke-will-unternehmen-mit-klimageld-unterstuetzen-100.html",
     "https://www.deutschlandfunk.de/erste-von-zwei-verhandlungsrunden-der-ukraine-russlands-und-der-usa-abgeschlossen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-maximilian-krah-wendet-sich-gegen-remigrationsbegriff-accg-110823963.html"
+    "https://www.faz.net/aktuell/politik/inland/afd-maximilian-krah-wendet-sich-gegen-remigrationsbegriff-accg-110823963.html",
+    "https://www.deutschlandfunk.de/lula-lehnt-trumps-friedensrat-als-gegenentwurf-zur-uno-ab-102.html",
+    "https://www.deutschlandfunk.de/neue-verteidigungsstrategie-nimmt-verbuendete-in-die-pflicht-102.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-dobrindt-zu-cyberangriffen-wir-werden-zurueckschlagen-faz-110093143.html"
   ],
   "content_hashes": [
-    "8888356dbfa56306fe60b2b8021d3c3e",
-    "77fea3b9262c96af90c72a5fce408aa4",
-    "3dd7474e87a7fddb3f0e68dba0223c6c",
     "e458201146d42cbd855c0d0321b558e7",
     "b37820cb12e450dfefb69abd45f103f9",
     "693aa83d6715c6b3096245d30ba61084",
@@ -2001,12 +1998,12 @@
     "3c03d6df6e5a677cc5f0de0b278cd280",
     "ad7d24eb3e4582781ead1e21907bd616",
     "8615f1c527d1161368c610005afa91ce",
-    "c67a262238c2c64e1e0d958aa050c844"
+    "c67a262238c2c64e1e0d958aa050c844",
+    "db4294fa1bef7892d7014de2691a3b58",
+    "99a00b373692188fed7173b2f398927b",
+    "5eb4471cc35f9cf54184d191369a0b86"
   ],
   "titles": [
-    "Sicherheitsgarantien für Kiew: Gegen Putins Willen?",
-    "Niedrigere Kosten und kürzere Wartezeiten - ADAC drängt auf höheres Tempo bei Führerschein-Reform",
-    "Katholische Kirche - Bundesweite Sternsinger-Aktion startet",
     "Türkei - Wieder Razzien gegen mutmaßliche Anhänger von Terrornetzwerk IS",
     "Which countries will start using the euro in 2026?",
     "Wirtschaft - Digitalverband Bitkom: Deutsche Unternehmen investieren immer mehr in Künstliche Intelligenz",
@@ -3003,12 +3000,12 @@
     "Heimliche Nacktfotos - Bundesjustizministerin Hubig will voyeuristische Aufnahmen an öffentlichen Orten wie Saunen strafbar machen",
     "CO2-Emissionshandel - Woidke will Unternehmen mit Klimageld unterstützen",
     "Abu Dhabi - Erste von zwei Verhandlungsrunden der Ukraine, Russlands und der USA abgeschlossen",
-    "Interview mit Maximilian Krah: „Der Begriff der Remigration ist ein Problem“"
+    "Interview mit Maximilian Krah: „Der Begriff der Remigration ist ein Problem“",
+    "Brasilien - Lula lehnt Trumps \"Friedensrat\" als Gegenentwurf zur UNO ab",
+    "USA - Neue Verteidigungsstrategie nimmt Verbündete in die Pflicht",
+    "Deutschland-Blog: Dobrindt zu Cyberangriffen: „Wir werden zurückschlagen“"
   ],
   "hashes": [
-    "a601cbf90878949cc89b5853b11d8070",
-    "e29808cbb4d71d20f72e42439c759a9f",
-    "4049492167e32bced5ba18588257feed",
     "edd351ea03121ed0049d947764bb6bec",
     "e1f7a58dca0701b0e69c660c07f6857e",
     "f9d8880777aad26368e1b564a9c9238a",
@@ -4005,6 +4002,9 @@
     "fca6cbd39934101fd3a0a274527a10f9",
     "76c62cae9f1503031d03355accb887cf",
     "67e32e782a7d43d936d8b900f7fb4b13",
-    "4fc78b4aa013ea2c571e760db6305317"
+    "4fc78b4aa013ea2c571e760db6305317",
+    "e5e0bf23ba42f90b545706d6a98c1f56",
+    "13f45020c48a654557d5ad8b42159363",
+    "876421eec49864362f9885c9c62aeb24"
   ]
 }
