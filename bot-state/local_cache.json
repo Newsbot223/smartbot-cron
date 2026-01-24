@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/beute-im-wert-von-etwa-30-millionen-euro-gestohlen-100.html",
-    "https://www.deutschlandfunk.de/europaeer-und-kanadier-beraten-ueber-ukraine-102.html",
-    "https://www.deutschlandfunk.de/studenten-protestieren-gegen-wirtschaftliche-lage-102.html",
     "https://www.deutschlandfunk.de/zugverkehr-am-aermelkanal-gestoert-keine-verbindungen-von-und-nach-london-102.html",
     "https://www.deutschlandfunk.de/was-ueber-den-angeblichen-angriff-auf-putins-residenz-bekannt-ist-100.html",
     "https://www.deutschlandfunk.de/vier-verletzte-bei-seilbahnunglueck-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dreier-gespraeche-in-abu-dhabi-bereits-beendet-schwere-angriffe-auf-ukrainische-staedte-100.html",
     "https://www.deutschlandfunk.de/kuehlstoffe-in-e-zigaretten-sind-schaedlich-104.html",
     "https://www.deutschlandfunk.de/kalifornien-trotzt-trump-fortsetzung-der-kooperation-mit-who-100.html",
-    "https://www.deutschlandfunk.de/wem-gehoert-die-stadt-wohnungsnot-in-lissabon-100.html"
+    "https://www.deutschlandfunk.de/wem-gehoert-die-stadt-wohnungsnot-in-lissabon-100.html",
+    "https://www.deutschlandfunk.de/gouverneur-bundesbeamte-erschiessen-erneut-person-100.html",
+    "https://www.deutschlandfunk.de/solidaritaetskundgebungen-fuer-kurden-in-syrien-in-mehreren-deutschen-staedten-100.html",
+    "https://www.spiegel.de/politik/deutschland/pistorius-verteidigt-die-bundeswehr-gegen-kritik-von-trump-a-02d98229-00a9-4032-b95d-4bf423905d9f#ref=rss"
   ],
   "content_hashes": [
-    "0bc03b563f8d10c54ec520ba2208432a",
-    "51949612dc4a016ed40f2c1f5244708c",
-    "1361f866d69f6142faae5cff08a65289",
     "cd1fbd24b7cb98605cc689fb69944f58",
     "01694f95f3f12a6ce1bb6c6d485c55b6",
     "e10d87008c42b74f51f1842b0650cad8",
@@ -2001,12 +1998,12 @@
     "d96f506c2c5765d127c1f65bad4fd9b4",
     "82ebc3c088bf92f2e28c750fd4629809",
     "c1a64e6731f4d0ae9ac0871aa56f4484",
-    "bd97838d34cc21556e605affdafc32aa"
+    "bd97838d34cc21556e605affdafc32aa",
+    "9ffe4a38db5d52abed8b57d4ecc1f913",
+    "1a1ff811c0153e7b620955493d6e80bf",
+    "c055a0a3c421ced48d734f4dd9804bce"
   ],
   "titles": [
-    "Bankeinbruch in Gelsenkirchen - Beute im Wert von etwa 30 Millionen Euro gestohlen",
-    "Schaltkonferenz - Europäer und Kanadier beraten über Ukraine",
-    "Iran - Studenten protestieren gegen wirtschaftliche Lage",
     "Eurostar - Zugverkehr am Ärmelkanal gestört - keine Verbindungen von und nach London",
     "Ukraine-Krieg - Was über den angeblichen Angriff auf Putins Residenz bekannt ist",
     "Norditalien - Vier Verletzte bei Seilbahnunglück",
@@ -3003,12 +3000,12 @@
     "Ukraine, Russland, USA - Dreier-Gespräche in Abu Dhabi bereits beendet - Schwere Angriffe auf ukrainische Städte",
     "Bundesinstitut für Risikobewertung - Kühlstoffe in E-Zigaretten sind schädlich",
     "USA - Kalifornien trotzt Trump: Fortsetzung der Kooperation mit WHO",
-    "Wohnungsnot - Die Wut der Menschen in Lissabon wächst"
+    "Wohnungsnot - Die Wut der Menschen in Lissabon wächst",
+    "USA - Gouverneur: Bundesbeamte erschießen erneut Person",
+    "Demonstrationen - Solidaritätskundgebungen für Kurden in Syrien in mehreren deutschen Städten",
+    "Pistorius verteidigt die Bundeswehr gegen Kritik von Trump"
   ],
   "hashes": [
-    "d474dbecce3a281be5fd136e42936061",
-    "e801a86fc523594d433fa1e09047f7d3",
-    "2895f1e0fcb3dba422a615ed540495a9",
     "c8645e9eb4974212e57bc1423c3ab079",
     "8393eb1f8f7aa7dcfb1d53a7981a97f7",
     "58ed69615c7809ca5781be3969468c53",
@@ -4005,6 +4002,9 @@
     "d2b5bc28abacb47b756b50641c30c7b1",
     "05788f8bc13ff824707ae8a0070dce15",
     "fbe7e82071139d6d87992fe0c49ed52b",
-    "c85be125dadd3879f8ec408354bc4ac3"
+    "c85be125dadd3879f8ec408354bc4ac3",
+    "aaca4c6854e42a57eecedfe3bd18809f",
+    "801a76811528112bbe11468cc9b14479",
+    "d2bc4ba471839c31e883c4dc737cdbe7"
   ]
 }
