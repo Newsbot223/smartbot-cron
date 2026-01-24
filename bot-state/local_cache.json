@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/koalitionspolitiker-machen-sparvorschlaege-100.html",
-    "https://www.deutschlandfunk.de/suche-nach-wrack-der-malaysia-airlines-wird-fortgesetzt-106.html",
-    "https://www.deutschlandfunk.de/prozess-gegen-duesseldorfer-karnevalswagenbauer-jacques-tilly-verschoben-102.html",
     "https://www.deutschlandfunk.de/verbot-von-einweg-plastikbechern-um-vier-jahre-verschoben-102.html",
     "https://www.deutschlandfunk.de/italien-gibt-gruenes-licht-fuer-alkoholfreien-wein-102.html",
     "https://www.deutschlandfunk.de/sophia-und-noah-sind-die-beliebtesten-vornamen-fuer-neugeborene-kinder-in-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/nawalnaja-und-scherbakowa-erhalten-den-ludwig-beck-preis-104.html",
     "https://www.faz.net/aktuell/politik/inland/berlin-mutmasslicher-hamas-waffenschmuggler-festgenommen-accg-200470774.html",
     "https://www.deutschlandfunk.de/einwanderungsbehoerde-ice-geht-weiter-gegen-kinder-vor-zweijaehrige-in-minneapolis-wieder-mit-mutter-102.html",
-    "https://www.deutschlandfunk.de/anschlag-bei-hochzeitsfeier-im-nordwesten-des-landes-102.html"
+    "https://www.deutschlandfunk.de/anschlag-bei-hochzeitsfeier-im-nordwesten-des-landes-102.html",
+    "https://www.deutschlandfunk.de/verhandlungen-der-ukraine-russlands-und-der-usa-bereits-beendet-schwere-angriffe-auf-ukrainische-sta-100.html",
+    "https://www.deutschlandfunk.de/italien-empoert-ueber-freilassung-von-bar-betreiber-100.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-zu-cyberangriffen-wir-werden-zurueckschlagen-auch-im-ausland-100.html"
   ],
   "content_hashes": [
-    "b4029a3b3a8d1b2325a37bbb2a4c6926",
-    "08857810829bd62e9b76a6d153b11c44",
-    "a7a6a047cc6a4017429f55d72d2f5e9b",
     "531c01481b3cabf89afa8c9d55b193c4",
     "3074ac0b29305e7a2123f93cd2711d5c",
     "96791fb4809e675cdc2737bf0b35f116",
@@ -2001,12 +1998,12 @@
     "570b14837085ea899abe488bc80017c5",
     "54a2df5ccda1546d2e95439dde340df2",
     "05554144ea1ab7e6bc6601755241df02",
-    "480c5d70831d74754892ba903e47d755"
+    "480c5d70831d74754892ba903e47d755",
+    "82b7b547d9bd94068a2337dd1e3f66e3",
+    "4c49f45efc523193973431fd41002e65",
+    "e5360dca1d0af10ff057ba54126dd1ee"
   ],
   "titles": [
-    "Gesundheitsreform - Koalitionspolitiker machen Sparvorschläge",
-    "Flug MH370 - Suche nach Wrack der Malaysia Airlines wird fortgesetzt",
-    "Moskau - Prozess gegen Düsseldorfer Karnevalswagenbauer Jacques Tilly verschoben",
     "Frankreich - Verbot von Einweg-Plastikbechern um vier Jahre verschoben",
     "Neue Rechtsverordnung - Italien gibt grünes Licht für alkoholfreien Wein",
     "Erhebung - Sophia und Noah sind die beliebtesten Vornamen für neugeborene Kinder in 2025",
@@ -3003,12 +3000,12 @@
     "Auszeichnung - Nawalnaja und Scherbakowa erhalten den Ludwig-Beck-Preis",
     "Berlin: Mutmaßlicher Hamas-Waffenschmuggler festgenommen",
     "USA - Einwanderungsbehörde ICE geht weiter gegen Kinder vor - Zweijährige in Minneapolis wieder mit Mutter vereint",
-    "Pakistan - Anschlag bei Hochzeitsfeier im Nordwesten des Landes"
+    "Pakistan - Anschlag bei Hochzeitsfeier im Nordwesten des Landes",
+    "Abu Dhabi - Verhandlungen der Ukraine, Russlands und der USA bereits beendet - schwere Angriffe auf ukrainische Städte",
+    "Nach Brandkatastrophe in Crans-Montana - Italien empört über Freilassung von Bar-Betreiber",
+    "Sicherheitspolitik - Bundesinnenminister Dobrindt zu Cyberangriffen: „Wir werden zurückschlagen - auch im Ausland“"
   ],
   "hashes": [
-    "b9d4bba0ba2bcb282b81944c12228ef6",
-    "0a5e3c145866da1b1603fd68d31fc40c",
-    "1375701f387e2e5c905bead9c2a0fe79",
     "52717ba7208753be9d7b3f25aace960c",
     "9e4eb332acdef015fc4f6ed447d9b7a2",
     "8995508f923e2907d74a1c863049cb53",
@@ -4005,6 +4002,9 @@
     "eeb6f7a673cd18322c89346c955c8cd9",
     "42df8b9b6913ce89b60998e5a5237306",
     "0e1c54a1d1dd39006fd8d7b04294e90a",
-    "2c54411e052b2cfa7853cc4031cf3fba"
+    "2c54411e052b2cfa7853cc4031cf3fba",
+    "8fbfb3590cf339c91ccdf79e6990c75a",
+    "2214837580319f39b0c75093e7c1ce91",
+    "9736b7c1a66259c6768f6a10cab2c553"
   ]
 }
