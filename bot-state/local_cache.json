@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/japan-und-australien-verurteilen-chinesisches-grossmanoever-rund-um-taiwan-100.html",
-    "https://www.deutschlandfunk.de/unterlegener-kandidat-nasralla-geht-juristisch-gegen-wahlsieg-von-konkurrent-asfura-vor-102.html",
-    "https://www.deutschlandfunk.de/china-weist-kritik-an-grossmanoever-rund-um-taiwan-zurueck-100.html",
     "https://www.deutschlandfunk.de/ehrenvorsitzender-lammert-spricht-sich-gegen-afd-verbotsverfahren-aus-102.html",
     "https://www.deutschlandfunk.de/thailand-laesst-18-kambodschanische-kriegsgefangene-frei-100.html",
     "https://www.aljazeera.com/news/2025/12/31/thailand-releases-18-cambodian-soldiers-as-ceasefire-holds?traffic_source=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/wirtschaftsfluegel-der-cdu-will-recht-auf-teilzeitarbeit-kippen-100.html",
     "https://www.deutschlandfunk.de/konzept-fuer-neue-entwicklungspolitik-100.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-konkrete-auftraege-fuer-offshore-windkraft-100.html",
-    "https://www.deutschlandfunk.de/bayerische-landesregierung-mangel-an-kita-personal-bis-2029-behoben-100.html"
+    "https://www.deutschlandfunk.de/bayerische-landesregierung-mangel-an-kita-personal-bis-2029-behoben-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsfluegel-will-recht-auf-teilzeitarbeit-kippen-kritik-vom-sozialfluegel-100.html",
+    "https://www.deutschlandfunk.de/interview-wadephul-johann-bundesaussenminister-cdu-102.html",
+    "https://www.faz.net/aktuell/politik/inland/zahl-der-asylantraege-ist-das-wirklich-die-migrationswende-110824365.html"
   ],
   "content_hashes": [
-    "e8480357c647c9c59b25917a5fb764c6",
-    "edaede8a5700e81751aa1b824f3cf9cf",
-    "aeefecb700f7bbc34574061164186872",
     "55e5a3f306951350fd486d4a1114b2ee",
     "fdbf0861afed3a29ba59b4e21266bea9",
     "8e996089e6e6db3983b6b5e7d30f9bdf",
@@ -2001,12 +1998,12 @@
     "8a9b65e6a7a5b2379abad911d4fb80d6",
     "8f61dacb23163801c8a86e96c1947db3",
     "e7b279055c60805ccffdaf898a74a12a",
-    "8d23af46c5126dce853fc8c1ea312d03"
+    "8d23af46c5126dce853fc8c1ea312d03",
+    "dc03ae5dd3e57a97f26bc3b21013504c",
+    "5c77b3d3332881bbed82ec1e4fd2aafc",
+    "c462524a7dcb1e12633a635f481dc298"
   ],
   "titles": [
-    "\"Destabilisierend\" - Japan und Australien verurteilen chinesisches Großmanöver rund um Taiwan",
-    "Honduras - Unterlegener Kandidat Nasralla geht juristisch gegen Wahlsieg von Konkurrent Asfura vor",
-    "\"Verantwortungslos\" - China weist Kritik an Großmanöver rund um Taiwan zurück",
     "Konrad-Adenauer-Stiftung - Ehrenvorsitzender Lammert spricht sich gegen AfD-Verbotsverfahren aus",
     "Südostasien - Thailand lässt 18 kambodschanische Kriegsgefangene frei",
     "Thailand releases 18 Cambodian soldiers as ceasefire holds",
@@ -3003,12 +3000,12 @@
     "Medienbericht - Wirtschaftsflügel der CDU will Recht auf Teilzeitarbeit kippen",
     "Institut für Weltwirtschaft - Konzept für neue Entwicklungspolitik",
     "Vor Nordsee-Gipfel - IG Metall fordert konkrete Aufträge für Offshore-Windkraft",
-    "Bildung - Bayerische Landesregierung: Mangel an Kita-Personal bis 2029 behoben"
+    "Bildung - Bayerische Landesregierung: Mangel an Kita-Personal bis 2029 behoben",
+    "CDU-Bundesparteitag - Wirtschaftsflügel will Recht auf Teilzeitarbeit kippen - Kritik vom Sozialflügel",
+    "Außenminister Wadephul - Mercosur-Abstimmung ist „große strategische Fehlentscheidung“",
+    "Zahl der Asylanträge: Ist das wirklich die Migrationswende?"
   ],
   "hashes": [
-    "4eb890a23a219d7764e21876894dc383",
-    "94e3a58dbe270506854e611de9c148cf",
-    "3e0a8bd5eaed3779c24844391174d834",
     "c506628194fda0a880841c136e7ac9dc",
     "5732a286a5b9778cf3e469d9ca521aaa",
     "c6cf1e9a7cb35e2832949bf6d3776c91",
@@ -4005,6 +4002,9 @@
     "17b14ecabbbf500e34e1430412f5766b",
     "903b7b52d7e06ebc495d87b13954bf92",
     "0b1fe6cff2e488002afa4fc460580994",
-    "50114a286ed9782ea7df2206be2e4f58"
+    "50114a286ed9782ea7df2206be2e4f58",
+    "3cd7c15d472776b07557b3a9eeff6f73",
+    "78f18200fc6371faf2e97ae3bc840184",
+    "3e86e240327746a3df42ba4367337688"
   ]
 }
