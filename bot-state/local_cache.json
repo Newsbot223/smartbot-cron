@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/finnland-setzt-schiff-nach-beschaedigung-eines-seekabels-fest-100.html",
-    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-spricht-von-gezieltem-ablenkungsmanoever-102.html",
-    "https://www.deutschlandfunk.de/moeglicher-lizenzentzug-fuer-hilfsorganisationen-stoesst-auf-kritik-102.html",
     "https://www.faz.net/aktuell/politik/inland/frauenhass-zerstoert-kameradschaft-110811385.html",
     "https://www.deutschlandfunk.de/xi-bekraeftigt-anspruch-chinas-auf-taiwan-100.html",
     "https://www.deutschlandfunk.de/justiz-droht-mit-entschiedenem-vorgehen-gegen-demonstranten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/deutliche-kritik-am-cdu-vorstoss-zu-rechtsanspruch-auf-teilzeit-100.html",
     "https://www.deutschlandfunk.de/deutliche-kritik-am-cdu-vorstoss-zur-teilzeitregelung-100.html",
     "https://www.deutschlandfunk.de/litauen-beschuldigt-russland-nicht-an-frieden-interessiert-zu-sein-verhandlungen-in-abu-dhabi-sollen-102.html",
-    "https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss"
+    "https://www.spiegel.de/wirtschaft/debatte-ueber-lifestyle-teilzeit-marcel-fratzscher-warnt-vor-einschraenkung-teilzeit-recht-a-88e00585-6abb-4a71-affe-e5413c7ed668#ref=rss",
+    "https://www.deutschlandfunk.de/cdu-wirtschaftsfluegel-entfacht-debatte-100.html",
+    "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss",
+    "https://www.faz.net/aktuell/politik/inland/jochen-ott-er-soll-nrw-fuer-die-spd-zurueckgewinnen-110825333.html"
   ],
   "content_hashes": [
-    "b45dce10ba9e460b795643087ce0af85",
-    "079fe47c5de84177390bb90a5062e68d",
-    "d3b85d9f29cebdd4eee3839d4789b781",
     "1964d509c9fa0f725e0e887ea4837571",
     "0589210b40caeab50307273b61bd1f40",
     "d6dfb52fe256f01e4c2c6e90fb5cd023",
@@ -2001,12 +1998,12 @@
     "0968a0a3cd8c4eb3449faecf24e608db",
     "63604eb62d6b4a2029ecaf1f6a12afd3",
     "f0ea7ede7f98da57247b9fecc7e6219c",
-    "3e98d05725ac9b093067d2abd79a2cb2"
+    "3e98d05725ac9b093067d2abd79a2cb2",
+    "2547c27cc8da9154ad8ac9f746d86ae2",
+    "1b131cdb0c03966f3de0d1127b79d7cd",
+    "1695c7b6a7c084edc854d0df2f13a7cd"
   ],
   "titles": [
-    "Ostsee - Finnland setzt Schiff nach Beschädigung eines Seekabels fest",
-    "Vermeintlicher ukrainischer Drohnenangriff auf Putins Residenz - EU-Außenbeauftragte Kallas spricht von gezieltem Ablenkungsmanöver",
-    "Israel - Möglicher Lizenzentzug für Hilfsorganisationen stößt auf Kritik",
     "Vorwürfe gegen Soldaten: Frauenhass zerstört Kameradschaft",
     "Taiwan-Frage - Xi bekräftigt Anspruch Chinas auf Taiwan",
     "Iran - Justiz droht mit entschiedenem Vorgehen gegen Demonstranten",
@@ -3003,12 +3000,12 @@
     "Arbeitszeit - Deutliche Kritik am CDU-Vorstoß zu Rechtsanspruch auf Teilzeit",
     "Arbeitszeit - Deutliche Kritik am CDU-Vorstoß zur Teilzeitregelung",
     "Ukraine-Krieg - Litauen beschuldigt Russland, nicht an Frieden interessiert zu sein - Verhandlungen in Abu Dhabi sollen nächste Woche weitergehen",
-    "Debatte über »Lifestyle-Teilzeit«: Marcel Fratzscher warnt vor Einschränkung Teilzeit-Recht"
+    "Debatte über »Lifestyle-Teilzeit«: Marcel Fratzscher warnt vor Einschränkung Teilzeit-Recht",
+    "Recht auf Teilzeit - CDU-Wirtschaftsflügel entfacht Debatte",
+    "Arsenal vs Manchester United 2-3: Premier League",
+    "Spitzenkandidat Jochen Ott: Er soll NRW für die SPD zurückgewinnen"
   ],
   "hashes": [
-    "48c9ce810d214c3adfae22ff36441b2d",
-    "5a3a9ca2d20f17f54a0cd59a84244e6c",
-    "778f634a432c4493cffcee9bbca16e8b",
     "53abdbf60cb201d738f115f6bb56ed3c",
     "ff5c33b321e5de387a539ceb84ca02c2",
     "eb01da2a841c3052c1680e4b871db731",
@@ -4005,6 +4002,9 @@
     "878f7ec66d7b4ec9699eb7126b5dcc67",
     "9392fe93e417319090a4b8586605f984",
     "aaf684a44e6856fa88732c4bc82e4529",
-    "6e2d758dbb0779ee0c0da4ec8633fcf4"
+    "6e2d758dbb0779ee0c0da4ec8633fcf4",
+    "b981d54c3141a9220e8637c06f2f99d1",
+    "03b7bc9882829bc929054e011b540009",
+    "d27e96867193b090d26d103cfb74ba6b"
   ]
 }
