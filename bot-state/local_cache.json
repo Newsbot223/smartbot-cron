@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/russland-attackiert-erneut-odessa-aus-der-luft-100.html",
-    "https://www.deutschlandfunk.de/skispringerinnen-starten-in-garmisch-partenkirchen-two-nights-tour-100.html",
     "https://www.deutschlandfunk.de/indien-verhaengt-neue-zoelle-auf-stahlimporte-aus-china-102.html",
     "https://www.deutschlandfunk.de/union-erhielt-2025-die-meisten-grossspenden-100.html",
     "https://www.deutschlandfunk.de/richterbund-beklagt-so-viele-unerledigte-justizfaelle-wie-noch-nie-ermittlungen-muessen-oft-vorzeiti-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bahn-bittet-kunden-erneut-um-geduld-angesichts-rekordzahl-an-sanierungsprojekten-100.html",
     "https://www.deutschlandfunk.de/erneut-tote-im-gazastreifen-102.html",
     "https://www.deutschlandfunk.de/uebergangspraesidentin-rodriguez-stellt-dialog-mit-opposition-in-aussicht-100.html",
-    "https://www.deutschlandfunk.de/myanmar-veranstaltet-dritte-und-letzte-phase-der-parlamentswahlen-100.html"
+    "https://www.deutschlandfunk.de/myanmar-veranstaltet-dritte-und-letzte-phase-der-parlamentswahlen-100.html",
+    "https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss",
+    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-iran-mit-gewalt-ist-kein-staat-zu-machen-110824396.html"
   ],
   "content_hashes": [
-    "7ab4fc17d0b51ae389acb7edfc022b29",
-    "003977c27277e43c2b97b17405193ebe",
     "69288444df9bd95b81fb96ac254233a1",
     "3643cb0235c01ddcfd9708abd5e569f8",
     "8cbb5f0ea94c1595a2bf837517f5500d",
@@ -2001,11 +1999,11 @@
     "9bb2504be7e7c46840975127f379047d",
     "e220d49c1815b57d2826aee03eb0e573",
     "ebbaf53657893040f75af5d5aae6cd8e",
-    "58dc7c4b809f0facc25c1300370f8a5b"
+    "58dc7c4b809f0facc25c1300370f8a5b",
+    "4f248ed1a237fd9e080c8de263ded7e0",
+    "600dbb29df41ef9e8b0d99a6296ead2b"
   ],
   "titles": [
-    "Ukraine-Krieg - Russland attackiert erneut Odessa aus der Luft",
-    "Wintersport - Skispringerinnen starten in Garmisch-Partenkirchen \"Two-Nights-Tour\"",
     "Protektionismus - Indien verhängt neue Zölle auf Stahlimporte aus China",
     "Parteienfinanzierung - Union erhielt 2025 die meisten Großspenden",
     "Personalmangel - Richterbund beklagt so viele unerledigte Justizfälle wie noch nie - Ermittlungen müssen oft vorzeitig eingestellt werden",
@@ -3003,11 +3001,11 @@
     "Verkehr - Bahn bittet Kunden erneut um Geduld angesichts Rekordzahl an Sanierungsprojekten",
     "Nahostkonflikt - Erneut Tote im Gazastreifen",
     "Venezuela - Übergangspräsidentin Rodriguez stellt Dialog mit Opposition in Aussicht",
-    "Asien - Myanmar veranstaltet dritte und letzte Phase der \"Parlamentswahlen\""
+    "Asien - Myanmar veranstaltet dritte und letzte Phase der \"Parlamentswahlen\"",
+    "Debatte über Arbeitszeit: CDU-Wirtschaftsflügel will Recht auf Teilzeit kippen",
+    "Proteste in Iran: Mit Gewalt ist kein Staat zu machen"
   ],
   "hashes": [
-    "0bbe8198ef833eb1e63079f014b55221",
-    "bd656933e763c3050f0493de7ab5ac2b",
     "00ff1b12c6cdd3b42f4f5eb21d056442",
     "aea1fbe61efe8e8f6330e730567b0b14",
     "52e5df7550a0eafd90eb24cfdf993272",
@@ -4005,6 +4003,8 @@
     "4c19a2e557d92ead359d909757b2ed19",
     "b6282ca3daded5d75a194793e758fdf3",
     "7cefd0e029afc7e156c2c8b3cbacbe1d",
-    "503f301d63f127434fa543bff2638a38"
+    "503f301d63f127434fa543bff2638a38",
+    "5193e1afd16e98ce57fe3058f5011fe0",
+    "226cd3b6f6c44eadadebf19724cb39b9"
   ]
 }
