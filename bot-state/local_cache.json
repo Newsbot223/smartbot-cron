@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/indien-verhaengt-neue-zoelle-auf-stahlimporte-aus-china-102.html",
-    "https://www.deutschlandfunk.de/union-erhielt-2025-die-meisten-grossspenden-100.html",
     "https://www.deutschlandfunk.de/richterbund-beklagt-so-viele-unerledigte-justizfaelle-wie-noch-nie-ermittlungen-muessen-oft-vorzeiti-100.html",
     "https://www.deutschlandfunk.de/usa-verhaengen-sanktionen-gegen-personen-und-firmen-aus-venezuela-und-dem-iran-100.html",
     "https://www.deutschlandfunk.de/japan-und-australien-verurteilen-chinesisches-grossmanoever-rund-um-taiwan-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/uebergangspraesidentin-rodriguez-stellt-dialog-mit-opposition-in-aussicht-100.html",
     "https://www.deutschlandfunk.de/myanmar-veranstaltet-dritte-und-letzte-phase-der-parlamentswahlen-100.html",
     "https://www.spiegel.de/politik/deutschland/debatte-ueber-arbeitszeit-cdu-wirtschaftsfluegel-will-recht-auf-teilzeit-kippen-a-51ed0263-448c-41d9-8f76-9a5d9cb36866#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-iran-mit-gewalt-ist-kein-staat-zu-machen-110824396.html"
+    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-iran-mit-gewalt-ist-kein-staat-zu-machen-110824396.html",
+    "https://www.deutschlandfunk.de/wirtschaftsfluegel-der-cdu-will-recht-auf-teilzeitarbeit-kippen-100.html",
+    "https://www.deutschlandfunk.de/konzept-fuer-neue-entwicklungspolitik-100.html"
   ],
   "content_hashes": [
-    "69288444df9bd95b81fb96ac254233a1",
-    "3643cb0235c01ddcfd9708abd5e569f8",
     "8cbb5f0ea94c1595a2bf837517f5500d",
     "9b98ea5899a8159ddb4f19b4d43a653e",
     "e8480357c647c9c59b25917a5fb764c6",
@@ -2001,11 +1999,11 @@
     "ebbaf53657893040f75af5d5aae6cd8e",
     "58dc7c4b809f0facc25c1300370f8a5b",
     "4f248ed1a237fd9e080c8de263ded7e0",
-    "600dbb29df41ef9e8b0d99a6296ead2b"
+    "600dbb29df41ef9e8b0d99a6296ead2b",
+    "8a9b65e6a7a5b2379abad911d4fb80d6",
+    "8f61dacb23163801c8a86e96c1947db3"
   ],
   "titles": [
-    "Protektionismus - Indien verhängt neue Zölle auf Stahlimporte aus China",
-    "Parteienfinanzierung - Union erhielt 2025 die meisten Großspenden",
     "Personalmangel - Richterbund beklagt so viele unerledigte Justizfälle wie noch nie - Ermittlungen müssen oft vorzeitig eingestellt werden",
     "Drohnen- und Raketenprogramme - USA verhängen Sanktionen gegen Personen und Firmen aus Venezuela und dem Iran",
     "\"Destabilisierend\" - Japan und Australien verurteilen chinesisches Großmanöver rund um Taiwan",
@@ -3003,11 +3001,11 @@
     "Venezuela - Übergangspräsidentin Rodriguez stellt Dialog mit Opposition in Aussicht",
     "Asien - Myanmar veranstaltet dritte und letzte Phase der \"Parlamentswahlen\"",
     "Debatte über Arbeitszeit: CDU-Wirtschaftsflügel will Recht auf Teilzeit kippen",
-    "Proteste in Iran: Mit Gewalt ist kein Staat zu machen"
+    "Proteste in Iran: Mit Gewalt ist kein Staat zu machen",
+    "Medienbericht - Wirtschaftsflügel der CDU will Recht auf Teilzeitarbeit kippen",
+    "Institut für Weltwirtschaft - Konzept für neue Entwicklungspolitik"
   ],
   "hashes": [
-    "00ff1b12c6cdd3b42f4f5eb21d056442",
-    "aea1fbe61efe8e8f6330e730567b0b14",
     "52e5df7550a0eafd90eb24cfdf993272",
     "7354cdc6df6b3cd35ffea0e771410251",
     "4eb890a23a219d7764e21876894dc383",
@@ -4005,6 +4003,8 @@
     "7cefd0e029afc7e156c2c8b3cbacbe1d",
     "503f301d63f127434fa543bff2638a38",
     "5193e1afd16e98ce57fe3058f5011fe0",
-    "226cd3b6f6c44eadadebf19724cb39b9"
+    "226cd3b6f6c44eadadebf19724cb39b9",
+    "17b14ecabbbf500e34e1430412f5766b",
+    "903b7b52d7e06ebc495d87b13954bf92"
   ]
 }
