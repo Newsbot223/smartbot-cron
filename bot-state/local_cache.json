@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/letztes-silvester-mit-legalem-privaten-feuerwerk-in-den-niederlanden-100.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-spricht-den-deutschen-mut-zu-102.html",
-    "https://www.deutschlandfunk.de/putschfuehrer-doumbouya-gewinnt-laut-behoerden-praesidentenwahl-in-guinea-100.html",
     "https://www.deutschlandfunk.de/russland-attackiert-erneut-odessa-aus-der-luft-100.html",
     "https://www.deutschlandfunk.de/skispringerinnen-starten-in-garmisch-partenkirchen-two-nights-tour-100.html",
     "https://www.deutschlandfunk.de/indien-verhaengt-neue-zoelle-auf-stahlimporte-aus-china-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/myanmar-dritte-und-letzte-phase-der-parlamentswahlen-102.html",
     "https://www.deutschlandfunk.de/reisefreiheit-russischer-diplomaten-und-konsularbeamte-per-eu-beschluss-eingeschraenkt-102.html",
     "https://www.deutschlandfunk.de/stichwahl-zwischen-cdu-und-afd-im-brandenburgischen-landkreis-oberspreewald-lausitz-102.html",
-    "https://www.deutschlandfunk.de/bahn-bittet-kunden-erneut-um-geduld-angesichts-rekordzahl-an-sanierungsprojekten-100.html"
+    "https://www.deutschlandfunk.de/bahn-bittet-kunden-erneut-um-geduld-angesichts-rekordzahl-an-sanierungsprojekten-100.html",
+    "https://www.deutschlandfunk.de/erneut-tote-im-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/uebergangspraesidentin-rodriguez-stellt-dialog-mit-opposition-in-aussicht-100.html",
+    "https://www.deutschlandfunk.de/myanmar-veranstaltet-dritte-und-letzte-phase-der-parlamentswahlen-100.html"
   ],
   "content_hashes": [
-    "1efa8b2af32f6695b5c9176cfae73c5b",
-    "4e28545a2047046f1161130126b3daab",
-    "cba622282e3bbafb9c51ff4fe884cfdb",
     "7ab4fc17d0b51ae389acb7edfc022b29",
     "003977c27277e43c2b97b17405193ebe",
     "69288444df9bd95b81fb96ac254233a1",
@@ -2001,12 +1998,12 @@
     "c13e096171e176f8cf3cee528bd5e3db",
     "8ceb711493fcf02ed1f197e35522e55a",
     "957fa23146cc24a487b53b8228510c8b",
-    "9bb2504be7e7c46840975127f379047d"
+    "9bb2504be7e7c46840975127f379047d",
+    "e220d49c1815b57d2826aee03eb0e573",
+    "ebbaf53657893040f75af5d5aae6cd8e",
+    "58dc7c4b809f0facc25c1300370f8a5b"
   ],
   "titles": [
-    "Böllerverbot - Letztes Silvester mit legalem privaten Feuerwerk in den Niederlanden",
-    "Neujahrsansprache - Bundeskanzler Merz spricht den Deutschen Mut zu",
-    "Westafrika - Putschführer Doumbouya gewinnt laut Behörden Präsidentenwahl in Guinea",
     "Ukraine-Krieg - Russland attackiert erneut Odessa aus der Luft",
     "Wintersport - Skispringerinnen starten in Garmisch-Partenkirchen \"Two-Nights-Tour\"",
     "Protektionismus - Indien verhängt neue Zölle auf Stahlimporte aus China",
@@ -3003,12 +3000,12 @@
     "Asien - Myanmar: Dritte und letzte Phase der Parlamentswahlen",
     "Brüssel - Reisefreiheit russischer Diplomaten und Konsularbeamte per EU-Beschluss eingeschränkt",
     "Landratswahl - Stichwahl zwischen CDU und AfD im brandenburgischen Landkreis Oberspreewald-Lausitz",
-    "Verkehr - Bahn bittet Kunden erneut um Geduld angesichts Rekordzahl an Sanierungsprojekten"
+    "Verkehr - Bahn bittet Kunden erneut um Geduld angesichts Rekordzahl an Sanierungsprojekten",
+    "Nahostkonflikt - Erneut Tote im Gazastreifen",
+    "Venezuela - Übergangspräsidentin Rodriguez stellt Dialog mit Opposition in Aussicht",
+    "Asien - Myanmar veranstaltet dritte und letzte Phase der \"Parlamentswahlen\""
   ],
   "hashes": [
-    "2a9fb45fa053d4244bfcfd3745c828f2",
-    "9790e24cbc5ea06b5b339e9f342ba8d8",
-    "097e9af89f6df8c5fc3b3d90f01a0804",
     "0bbe8198ef833eb1e63079f014b55221",
     "bd656933e763c3050f0493de7ab5ac2b",
     "00ff1b12c6cdd3b42f4f5eb21d056442",
@@ -4005,6 +4002,9 @@
     "dd579be5a78428496eeabedc306c7931",
     "a1297cd0e39b76261a1e6f9578020120",
     "ea88fb4e14eead5881aa397ea336a26a",
-    "4c19a2e557d92ead359d909757b2ed19"
+    "4c19a2e557d92ead359d909757b2ed19",
+    "b6282ca3daded5d75a194793e758fdf3",
+    "7cefd0e029afc7e156c2c8b3cbacbe1d",
+    "503f301d63f127434fa543bff2638a38"
   ]
 }
