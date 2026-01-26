@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berichte-cia-geht-nicht-von-ukrainischem-angriff-auf-putins-residenz-aus-100.html",
-    "https://www.aljazeera.com/news/2026/1/1/russia-ukraine-war-list-of-key-events-day-1407?traffic_source=rss",
     "https://www.deutschlandfunk.de/mehr-als-400-festnahmen-in-berlin-zwei-tote-in-bielefeld-100.html",
     "https://www.deutschlandfunk.de/aenderungen-bei-pendlerpauschale-deutschlandticket-und-mehrwertsteuer-in-der-gastronomie-100.html",
     "https://www.deutschlandfunk.de/polizei-mehrere-tote-bei-brand-in-bar-in-crans-montana-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/ministerpraesident-schweitzer-spd-kritisiert-cdu-plaene-zur-einschraenkung-des-teilzeit-anspruchs-100.html",
     "https://www.deutschlandfunk.de/mehr-als-100-weitere-politische-gefangene-in-venezuela-freigekommen-100.html",
     "https://www.deutschlandfunk.de/proteste-in-mehreren-staedten-obama-werte-der-nation-werden-zunehmend-angegriffen-100.html",
-    "https://www.deutschlandfunk.de/wadephul-reist-nach-lettland-und-schweden-100.html"
+    "https://www.deutschlandfunk.de/wadephul-reist-nach-lettland-und-schweden-100.html",
+    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-gemeinsam-kritische-infrastruktur-der-eu-sichern-100.html",
+    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-und-ratspraesident-costa-nehmen-an-parade-zum-nationalfeier-100.html"
   ],
   "content_hashes": [
-    "0bdb9a3e947212a81a0bacbe0c730c03",
-    "6879ecbffe0299ac666f58cb2a89637a",
     "562949590fc5da093555fe7b4c4725b7",
     "4f20aef95a56b4c5738be4e3340234c3",
     "4b67009f32c46080c87556b0db02050d",
@@ -2001,11 +1999,11 @@
     "4e43a18a41e6f1f3f0ee60f5401a391d",
     "6a1e635ec3c3dde9e0e6e8e5c0d40a52",
     "de39668d9acabb3da4d78d26bd814ec6",
-    "d8327328bd313a1fab92b9594bad6fe9"
+    "d8327328bd313a1fab92b9594bad6fe9",
+    "f89fbaae214ec87cb25f779536efbb2b",
+    "64cb33471ff4d9055de83c1564e84fd8"
   ],
   "titles": [
-    "Russischer Angriffskrieg - Berichte: CIA geht nicht von ukrainischem Angriff auf Putins Residenz aus",
-    "Russia-Ukraine war: List of key events, day 1,407",
     "Silvesternacht - Mehr als 400 Festnahmen in Berlin - zwei Tote in Bielefeld",
     "2026 - Änderungen bei Pendlerpauschale, Deutschlandticket und Mehrwertsteuer in der Gastronomie",
     "Schweiz - Polizei: Mehrere Tote bei Brand in Bar in Crans Montana",
@@ -3003,11 +3001,11 @@
     "Rheinland-Pfalz - Ministerpräsident Schweitzer (SPD) kritisiert CDU-Pläne zur Einschränkung des Teilzeit-Anspruchs",
     "Angaben von Menschenrechtlern - Mehr als 100 weitere politische Gefangene in Venezuela freigekommen",
     "Nach tödlichen Schüssen in Minneapolis - Proteste in mehreren Städten - Obama: Werte der Nation werden zunehmend angegriffen",
-    "Auslandsreise - Wadephul reist nach Lettland und Schweden"
+    "Auslandsreise - Wadephul reist nach Lettland und Schweden",
+    "Nordsee-Gipfel - Bundeswirtschaftsministerin Reiche: Gemeinsam kritische Infrastruktur der EU sichern",
+    "Indischer Nationalfeiertag - EU-Kommissionspräsidentin von der Leyen und Ratspräsident Costa nehmen an Parade zum Nationalfeiertag teil"
   ],
   "hashes": [
-    "c14d5ea1a4eb791949ee991e192478e8",
-    "479985efb38bae2c4d0f7ed08a150031",
     "c1de219d393bc041d1d9da5b6cafc405",
     "28c9af76b4cf6c421bf41610c76d9bb4",
     "edd95ffb04570084382ae0bba6dca0d0",
@@ -4005,6 +4003,8 @@
     "ed01a299a16c669fa00741b8ea916601",
     "ab7e467875a1516471cd7ba8482356cf",
     "6b38d185829bbe70762651d8e50be41a",
-    "e84c1caccefaa35dfc59f77e7837a4d8"
+    "e84c1caccefaa35dfc59f77e7837a4d8",
+    "b803524034081f2f8783d529eee82d5d",
+    "92fc4111e3db275b9de709cff11c4ba9"
   ]
 }
