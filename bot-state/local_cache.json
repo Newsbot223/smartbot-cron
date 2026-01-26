@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neujahrsspringen-in-garmisch-partenkirchen-100.html",
-    "https://www.deutschlandfunk.de/zwei-polizisten-bei-anschlag-in-aleppo-getoetet-100.html",
-    "https://www.deutschlandfunk.de/menschen-in-deutschland-feiern-das-neue-jahr-zwei-tote-in-bielefeld-102.html",
-    "https://www.deutschlandfunk.de/aenderungen-bei-deutschlandticket-pendlerpauschale-und-mehrwertsteuer-in-der-gastronomie-100.html",
     "https://www.deutschlandfunk.de/letztes-silvester-vor-boellerverbot-zahlreiche-zwischenfaelle-mit-feuerwerkskoerpern-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-betont-notwendigkeit-von-starkem-frieden-100.html",
     "https://www.deutschlandfunk.de/bulgarien-fuehrt-euro-als-waehrung-ein-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/zeitungsrecherche-immer-mehr-cannabis-aus-nordamerika-in-der-eu-beschlagnahmt-100.html",
     "https://www.deutschlandfunk.de/proteste-und-mahnwache-in-minneapolis-obama-werte-der-nation-werden-zunehmend-angegriffen-100.html",
     "https://www.deutschlandfunk.de/goldpreis-steigt-erstmals-auf-ueber-5-000-dollar-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-muss-staerke-zeigen-110825345.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-muss-staerke-zeigen-110825345.html",
+    "https://www.deutschlandfunk.de/ukrainischer-luftangriff-braende-in-zwei-russischen-betrieben-100.html",
+    "https://www.deutschlandfunk.de/digitales-tool-geplant-um-arztkontakte-zu-verringern-100.html",
+    "https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss",
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/cannabis-schmuggel-donald-trump-der-drogenpraesident-110825318.html"
   ],
   "content_hashes": [
-    "5c5427a0a53fdd8eca5c8cd4101057da",
-    "6232a5391ff1215eabd3f1fb65acb984",
-    "1cf557739e25b1c1ef4f56e8c525206f",
-    "26b1c92c4130c258212b42340a7246d9",
     "a118ead65469f1efb6753da00145f2db",
     "3e060327081574b289989a5c50259162",
     "f8ab85bec85b952aef33710b73b4e5ea",
@@ -2001,13 +1997,13 @@
     "46301e6b57970ac479db77eb58d0fa55",
     "c0e77f9c2edcfd6a9ad26d1c021a5900",
     "095c87ff57e092764653132a10975b56",
-    "98d52e00d8ed7037e202582952000029"
+    "98d52e00d8ed7037e202582952000029",
+    "df90259e2040f076b009c5b3bfe2bae7",
+    "50fc986063c3312d904c82df148c7432",
+    "47455c749785b5878f1a2244fcbb9f12",
+    "97431e12c2dfb463621465a3d61aefde"
   ],
   "titles": [
-    "Vierschanzentournee - Neujahrsspringen in Garmisch-Partenkirchen",
-    "Syrien - Zwei Polizisten bei Anschlag in Aleppo getötet",
-    "2026 - Menschen in Deutschland feiern das neue Jahr - zwei Tote in Bielefeld",
-    "2026 - Änderungen bei Deutschlandticket, Pendlerpauschale und Mehrwertsteuer in der Gastronomie",
     "Niederlande - Letztes Silvester vor Böllerverbot - zahlreiche Zwischenfälle mit Feuerwerkskörpern",
     "Russischer Angriffskrieg - Ukrainischer Präsident Selenskyj betont Notwendigkeit von \"starkem Frieden\"",
     "Gemeinschaftwährung - Bulgarien führt Euro als Währung ein",
@@ -3003,13 +2999,13 @@
     "Drogenhandel - Zeitungsrecherche: Immer mehr Cannabis aus Nordamerika in der EU beschlagnahmt",
     "Nach tödlichen Schüssen - Proteste und Mahnwache in Minneapolis - Obama: Werte der Nation werden zunehmend angegriffen",
     "Wirtschaft - Goldpreis steigt erstmals auf über 5.000 Dollar",
-    "Wenn Amerika ausfällt: Deutschland muss Stärke zeigen"
+    "Wenn Amerika ausfällt: Deutschland muss Stärke zeigen",
+    "Ukraine-Krieg - Ukrainischer Luftangriff: Brände in zwei russischen Betrieben",
+    "Krankenkassen - Digitales Tool geplant, um Arztkontakte zu verringern",
+    "Verteidigung: Viele deutsche Firmen sehen Nachholbedarf für Krisen- und Kriegsfall",
+    "Cannabisschmuggel: Donald Trump, der Drogenpräsident"
   ],
   "hashes": [
-    "bcde8f574aa63b0fae9febf4e3280e1a",
-    "f5aad299447e753e2b312d529e311350",
-    "f832644a7b596d161aa763c6f99686ec",
-    "b5ada996c3536d908799a2f18de22959",
     "8e894a6ac3e12768804dd1b9272b195e",
     "035729768ddaa510351259b5973b9222",
     "174bdc1c11e11aa2b20f3d578b7e3680",
@@ -4005,6 +4001,10 @@
     "65dcc2e7207cda6f0a2e71188437e641",
     "8e34a2df3199d409e02d1f540729acec",
     "b8b1ed5b1e9e0b6ecb6f3a1050030da4",
-    "47282e3934f160b364a8ec6bcf4b230f"
+    "47282e3934f160b364a8ec6bcf4b230f",
+    "e1ea412d987885c693f45f02420f64d3",
+    "c23b8d96f34e3d69fa1f3a158451d4b3",
+    "4906ad2208e6b27240bea542d5b81b54",
+    "4b8cee6e5915143c95dff26167eceb28"
   ]
 }
