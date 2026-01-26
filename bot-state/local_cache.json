@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nach-gewalt-an-silvester-schnell-konsequenz-zeigen-110812124.html",
-    "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silvesterfeier-in-crans-montana-100.html",
-    "https://www.deutschlandfunk.de/87-politische-haeftlinge-unter-auflagen-freigelassen-100.html",
     "https://www.deutschlandfunk.de/nika-prevc-entscheidet-tour-fuer-sich-102.html",
     "https://www.deutschlandfunk.de/neuer-hoechststand-bei-hinrichtungen-100.html",
     "https://www.deutschlandfunk.de/csu-setzt-auf-rueckkehr-der-atomkraft-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kommissionsvorschlag-fuer-sozialleistungen-buergergeld-wohngeld-und-kinderzuschlag-sollten-gebuendel-100.html",
     "https://www.deutschlandfunk.de/eu-und-indien-einig-ueber-geplantes-handelsabkommen-100.html",
     "https://www.deutschlandfunk.de/afd-verteidigungspolitiker-lucassen-wegen-wehrdienst-rede-und-kritik-an-hoecke-vom-eigenen-fraktions-100.html",
-    "https://www.deutschlandfunk.de/wadephul-europa-bei-nuklearer-abschreckung-noch-lange-von-den-usa-abhaengig-102.html"
+    "https://www.deutschlandfunk.de/wadephul-europa-bei-nuklearer-abschreckung-noch-lange-von-den-usa-abhaengig-102.html",
+    "https://www.deutschlandfunk.de/verhandlungen-ueber-freihandelsabkommen-zwischen-eu-und-indien-abgeschlossen-100.html",
+    "https://www.deutschlandfunk.de/vielfaeltiges-gedenken-an-holocaust-100.html",
+    "https://www.deutschlandfunk.de/bundesweiter-warnstreik-an-universitaetskliniken-102.html"
   ],
   "content_hashes": [
-    "94efea904903cc4ffce3ed74cc7bb622",
-    "112925b366f04337547edb481f52e55a",
-    "fca7b205419c669320652780c741f59d",
     "ec3a36a441a1c1c3fff7afdfd7aa92f9",
     "bc8cb5f5ef02a8c4551f8fb97a523dc3",
     "640641b4ac89d0ab6d75126167cb0e1f",
@@ -2001,12 +1998,12 @@
     "27efdb8c5507b2aad74f2310585356cd",
     "9232de51f187bc00435bc05855818c47",
     "184e592fa1d0d4515892137d5c5bef8c",
-    "88628c28deb31a113a413d98b6e240e8"
+    "88628c28deb31a113a413d98b6e240e8",
+    "90983b6f7faa12982b60b550f3ca5248",
+    "53876586aa76fa08168233f9b4cf8112",
+    "685f9d21c49545f9e9a7f000e654fb12"
   ],
   "titles": [
-    "Gewalt an Silvester: Schnell ermitteln, schnell anklagen, schnell verurteilen",
-    "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silvesterfeier in Crans-Montana",
-    "Venezuela - 87 politische Häftlinge unter Auflagen freigelassen",
     "\"Two-Nights-Tour\" - Nika Prevc entscheidet Tour für sich",
     "Saudi-Arabien - Neuer Höchststand bei Hinrichtungen",
     "Energieversorgung - CSU setzt auf Rückkehr der Atomkraft",
@@ -3003,12 +3000,12 @@
     "Abschlussbericht - Kommissionsvorschlag für Sozialleistungen: Bürgergeld, Wohngeld und Kinderzuschlag sollten gebündelt werden",
     "Vor Gipfeltreffen - EU und Indien einig über geplantes Handelsabkommen",
     "Bundestag - AfD-Verteidigungspolitiker Lucassen wegen Wehrdienst-Rede und Kritik an Höcke vom eigenen Fraktionsvorstand missbilligt",
-    "Außenminister in Schweden - Wadephul: Europa bei nuklearer Abschreckung noch lange von den USA abhängig"
+    "Außenminister in Schweden - Wadephul: Europa bei nuklearer Abschreckung noch lange von den USA abhängig",
+    "Gipfeltreffen - Verhandlungen über Freihandelsabkommen zwischen EU und Indien abgeschlossen",
+    "Zahlreiche Veranstaltungen - Vielfältiges Gedenken an Holocaust",
+    "Tarifverhandlungen - Bundesweiter Warnstreik an Universitätskliniken"
   ],
   "hashes": [
-    "b3415d4f8141f749fe79ac8f6caf5732",
-    "36e88200d23e7aaed23067f95c43bd4a",
-    "bc0c68aecf6f807266c843a87b13ca28",
     "231e471ada374cbc7e0e4a2369080e75",
     "7fee17caaac1617e787322618bb132d9",
     "004b35acfe027e607a67bc8a23c8c11a",
@@ -4005,6 +4002,9 @@
     "2e6323c23a829464eba789a3d39f88ea",
     "a6b09e0f8b34fe4448b71307ff243411",
     "f88ec22d781621d632c94fce8232fc77",
-    "f26f6b5f28b5a1e3df9cdcb6f5ad6995"
+    "f26f6b5f28b5a1e3df9cdcb6f5ad6995",
+    "2c4d5e33562fc55d0934f3a7e3d4edb5",
+    "0db5f2f14313ac07d0cac5b00813f40b",
+    "41cc6f4326dc1ad61553d5c362d9d7ed"
   ]
 }
