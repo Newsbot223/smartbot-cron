@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frankreich-will-online-plattformen-fuer-unter-15-jaehrige-verbieten-100.html",
-    "https://www.deutschlandfunk.de/kiew-meldet-angriffe-auf-russische-versorgungs-infrastruktur-100.html",
-    "https://www.deutschlandfunk.de/papst-kritisiert-aufteilung-der-welt-durch-grossmaechte-102.html",
     "https://www.deutschlandfunk.de/witkoff-mit-europaeern-ueber-sicherheitsgarantien-gesprochen-100.html",
     "https://www.deutschlandfunk.de/zypern-uebernimmt-ratspraesidentschaft-102.html",
     "https://www.deutschlandfunk.de/behoerden-melden-angriff-auf-gouverneursbuero-im-sueden-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/landesregierung-in-wiesbaden-prueft-angebot-fuer-schloesser-parks-und-museen-102.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/toedliche-schuesse-in-minneapolis-amerika-im-notstand-110825410.html",
     "https://www.deutschlandfunk.de/bundesumweltminister-schneider-trifft-saudischen-amtskollegen-100.html",
-    "https://www.deutschlandfunk.de/litauen-beschuldigt-russland-nicht-an-frieden-interessiert-zu-sein-verhandlungen-in-abu-dhabi-sollen-104.html"
+    "https://www.deutschlandfunk.de/litauen-beschuldigt-russland-nicht-an-frieden-interessiert-zu-sein-verhandlungen-in-abu-dhabi-sollen-104.html",
+    "https://www.deutschlandfunk.de/israel-sucht-nach-leiche-von-letzter-geisel-100.html",
+    "https://www.deutschlandfunk.de/faehre-mit-mehr-als-350-menschen-gesunken-behoerden-gehen-von-mindestens-15-toten-aus-100.html",
+    "https://www.deutschlandfunk.de/zeitungsrecherche-immer-mehr-cannabis-aus-nordamerika-in-der-eu-beschlagnahmt-100.html"
   ],
   "content_hashes": [
-    "59c4c291dcbcbf9ffa1b2413973f0d82",
-    "6fab97cc2776a003ce68099c0cefb6db",
-    "c7733aa97799e4f09227f59d2a75ef60",
     "5d98b8746c37aa7d9b194c4cd861c4a1",
     "6fca79d407ae0fccbe01523f62f3efc3",
     "06bed6b51b6d6e4d236ea0d8fb82138e",
@@ -2001,12 +1998,12 @@
     "e749ff85e1687c85b98b72700ea9d6fb",
     "37b4081a3a52098f68ebd11d7266ee0f",
     "943dc0a674c36b8d8a7e3a0a49e681b2",
-    "5ff66a5b594c4cc4f041243cad86aec5"
+    "5ff66a5b594c4cc4f041243cad86aec5",
+    "ba1860981f059b6781ae74bac65163c6",
+    "a2acf0e7301d82649baf9d339f3cb200",
+    "46301e6b57970ac479db77eb58d0fa55"
   ],
   "titles": [
-    "Social-Media-Verbot - Frankreich will Online-Plattformen für unter 15-Jährige verbieten",
-    "Ukraine-Krieg - Kiew meldet Angriffe auf russische Versorgungs-Infrastruktur",
-    "Zum Jahresende - Papst kritisiert Aufteilung der Welt durch Großmächte",
     "Ukraine-Krieg - Witkoff: Mit Europäern über Sicherheitsgarantien gesprochen",
     "EU - Zypern übernimmt Ratspräsidentschaft",
     "Proteste im Iran - Behörden melden Angriff auf Gouverneursbüro im Süden",
@@ -3003,12 +3000,12 @@
     "Kulturstiftung des Hauses Hessen - Landesregierung in Wiesbaden prüft Angebot für Schlösser, Parks und Museen",
     "Minneapolis: Amerika im Notstand?",
     "Saudi-Arabien-Reise - Bundesumweltminister Schneider trifft saudischen Amtskollegen",
-    "Ukraine-Krieg - Litauen beschuldigt Russland, nicht an Frieden interessiert zu sein - Verhandlungen in Abu Dhabi sollen diese Woche weitergehen"
+    "Ukraine-Krieg - Litauen beschuldigt Russland, nicht an Frieden interessiert zu sein - Verhandlungen in Abu Dhabi sollen diese Woche weitergehen",
+    "Gazastreifen - Israel sucht nach Leiche von letzter Geisel",
+    "Philippinen - Fähre mit mehr als 350 Menschen gesunken - Behörden gehen von mindestens 15 Toten aus",
+    "Drogenhandel - Zeitungsrecherche: Immer mehr Cannabis aus Nordamerika in der EU beschlagnahmt"
   ],
   "hashes": [
-    "82056258c3ea6b55ec00321a419fdf0a",
-    "cdb2f394fbcc0a1c076dfbafded15a17",
-    "73c7cc5cb3001bcda8128589fdd5ceed",
     "10262e7746b434dbd7fd9003babd6239",
     "95ac6546176ec0cccbf451dc65661713",
     "fd4bfff556de4a7af92f81caaf836936",
@@ -4005,6 +4002,9 @@
     "b2a0d76423d44e56949e3d27e2fbdd3b",
     "4402e4b3892695cff739d9468a4ee61f",
     "d49b6d88b8898a947bf77161da8bb706",
-    "ae71e57f969ad118e872185f71cd1e8c"
+    "ae71e57f969ad118e872185f71cd1e8c",
+    "86642e4b9eae95920daa5618834a22c9",
+    "a98d21fed202b6ed07fead17767c40bc",
+    "65dcc2e7207cda6f0a2e71188437e641"
   ]
 }
