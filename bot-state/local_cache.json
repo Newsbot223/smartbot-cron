@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/leon-weintraub-ist-100-jahre-alt-geworden-102.html",
-    "https://www.deutschlandfunk.de/domen-prevc-gewinnt-neujahrsspringen-104.html",
     "https://www.deutschlandfunk.de/polizei-geht-von-dutzenden-toten-in-crans-montana-aus-verpuffung-bei-brand-war-keine-sprengsatz-expl-110.html",
     "https://www.deutschlandfunk.de/behoerden-etwa-40-tote-nach-feuer-bei-silversterfeier-in-crans-montana-100.html",
     "https://www.faz.net/aktuell/politik/inland/nach-gewalt-an-silvester-schnell-konsequenz-zeigen-110812124.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neue-leitung-fuer-ice-einsaetze-in-minnesota-102.html",
     "https://www.deutschlandfunk.de/eu-kommission-will-whatsapp-strenger-auf-verbotene-inhalte-kontrollieren-102.html",
     "https://www.deutschlandfunk.de/auswaertiges-amt-erweitert-reisehinweise-fuer-die-usa-trump-ernennt-neuen-leiter-fuer-ice-einsaetze--100.html",
-    "https://www.deutschlandfunk.de/marburg-virus-ausbruch-in-aethiopien-laut-weltgesundheitsorganisation-eingedaemmt-102.html"
+    "https://www.deutschlandfunk.de/marburg-virus-ausbruch-in-aethiopien-laut-weltgesundheitsorganisation-eingedaemmt-102.html",
+    "https://www.deutschlandfunk.de/kommissionsvorschlag-fuer-sozialleistungen-buergergeld-wohngeld-und-kinderzuschlag-sollten-gebuendel-100.html",
+    "https://www.deutschlandfunk.de/eu-und-indien-einig-ueber-geplantes-handelsabkommen-100.html"
   ],
   "content_hashes": [
-    "71ea54e2ac11135173f9c378b6bca82e",
-    "77e9eeba756e613e476ef4dae9702cf3",
     "9e50b30efb8142db776ace7998e7bba5",
     "1121fa32725a100103ade40101c76f83",
     "94efea904903cc4ffce3ed74cc7bb622",
@@ -2001,11 +1999,11 @@
     "b60c1923c107fc98aa83e5197799dc04",
     "aef78c6f54f1c9e85ebbcdf0227d23c2",
     "6c8a01e8778abf2616dfbd6acf35e2d7",
-    "637a3d1a71c200b79959cb18929e63c1"
+    "637a3d1a71c200b79959cb18929e63c1",
+    "27efdb8c5507b2aad74f2310585356cd",
+    "9232de51f187bc00435bc05855818c47"
   ],
   "titles": [
-    "Holocaust-Überlebender - Leon Weintraub ist 100 Jahre alt geworden",
-    "Vierschanzentournee - Domen Prevc gewinnt Neujahrsspringen",
     "Schweiz - Polizei geht von Dutzenden Toten in Crans-Montana aus - Verpuffung bei Brand war keine Sprengsatz-Explosion",
     "Schweiz - Behörden: Etwa 40 Tote nach Feuer bei Silversterfeier in Crans-Montana",
     "Gewalt an Silvester: Schnell ermitteln, schnell anklagen, schnell verurteilen",
@@ -3003,11 +3001,11 @@
     "Nach tödlichen Schüssen - Neue Leitung für ICE-Einsätze in Minnesota",
     "Gesetz für Digitale Dienste - EU-Kommission will Whatsapp strenger auf verbotene Inhalte kontrollieren",
     "\"Ansammlungen meiden\" - Auswärtiges Amt erweitert Reisehinweise für die USA - Trump ernennt neuen Leiter für ICE-Einsätze in Minnesota",
-    "Ostafrika - Marburg-Virus: Ausbruch in Äthiopien laut Weltgesundheitsorganisation eingedämmt"
+    "Ostafrika - Marburg-Virus: Ausbruch in Äthiopien laut Weltgesundheitsorganisation eingedämmt",
+    "Abschlussbericht - Kommissionsvorschlag für Sozialleistungen: Bürgergeld, Wohngeld und Kinderzuschlag sollten gebündelt werden",
+    "Vor Gipfeltreffen - EU und Indien einig über geplantes Handelsabkommen"
   ],
   "hashes": [
-    "3e5b1d1e33be8938b4a67df7b72ab054",
-    "386e9df7d254534bf639bb0f5807965c",
     "08c1cd88d6e8228f7d0fa03888be3058",
     "8b4cd69a0752068a0beda1a70bfa0b67",
     "b3415d4f8141f749fe79ac8f6caf5732",
@@ -4005,6 +4003,8 @@
     "3e36277e9630904b3881183496153bd4",
     "e99c36ab904e0025a6eaa8892a047ceb",
     "459e14fede98a46f64cff2357ac8210f",
-    "0713b848ee2f0a0fc8f5c7fe16f01ff2"
+    "0713b848ee2f0a0fc8f5c7fe16f01ff2",
+    "2e6323c23a829464eba789a3d39f88ea",
+    "a6b09e0f8b34fe4448b71307ff243411"
   ]
 }
