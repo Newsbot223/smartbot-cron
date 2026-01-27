@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schwierige-identifizierung-der-opfer-102.html",
-    "https://www.deutschlandfunk.de/csu-papier-listet-zahlreiche-verschaerfungen-auf-102.html",
-    "https://www.deutschlandfunk.de/berufsverband-fordert-konsequentere-anwendung-bestehender-gesetze-104.html",
-    "https://www.deutschlandfunk.de/ueber-80-politische-haeftlinge-unter-auflagen-freigelassen-102.html",
     "https://www.deutschlandfunk.de/csu-fuer-neue-formen-der-kernenergie-104.html",
     "https://www.deutschlandfunk.de/neuer-hoechststand-bei-hinrichtungen-todesstrafe-oft-fuer-drogendelikte-100.html",
     "https://www.deutschlandfunk.de/viel-aspirin-ungesundes-essen-und-wenig-schlaf-trumps-weist-sorgen-um-seine-gesundheit-zurueck-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/solarausbau-stockt-verbaende-warnen-vor-einschnitten-bei-foerderung-100.html",
     "https://www.deutschlandfunk.de/alexander-zverev-erreicht-halbfinale-100.html",
     "https://www.deutschlandfunk.de/friedman-konstatiert-explosion-von-judenhass-102.html",
-    "https://www.deutschlandfunk.de/auto-neuzulassungen-in-der-eu-leicht-gestiegen-100.html"
+    "https://www.deutschlandfunk.de/auto-neuzulassungen-in-der-eu-leicht-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-will-kampf-gegen-linksextremismus-verstaerken-100.html",
+    "https://www.deutschlandfunk.de/nordrhein-westfaelische-fluechtlingsministerin-paul-gruene-tritt-zurueck-100.html",
+    "https://www.deutschlandfunk.de/nordkorea-soll-erneut-rakete-abgefeuert-haben-102.html",
+    "https://www.deutschlandfunk.de/rund-430-000-jahre-altes-holzwerkzeug-in-griechenland-entdeckt-102.html"
   ],
   "content_hashes": [
-    "f56dc27f793dc16478334cacc8e00299",
-    "9cfab9d90617e7c4a8609cfdb7ca7c87",
-    "733636f21a94af81dc78ff959ef771bf",
-    "9613bc07b3de6f332df01431d2b91bf9",
     "0d30b6f564444d792598e64961952e6d",
     "58f073f6efac69fa1201c825e81f7b41",
     "acc1ca7ca392fbce2d75fbc682c99685",
@@ -2001,13 +1997,13 @@
     "1f65496c313749518e99a7984c850d3b",
     "6ec6987afbb3c1435ac014bbc19e6950",
     "73dde436da9a7551b9bfdc2374e39b36",
-    "372e200d5d2a37464109588e6493a3b7"
+    "372e200d5d2a37464109588e6493a3b7",
+    "99183bab73ad86a5bd84785013f2c586",
+    "496192869c346b13b6a837fbf0de4e7e",
+    "c0e38a05ab28d36ab466af3fd677b245",
+    "ef73a35e874b517161834a647548aca8"
   ],
   "titles": [
-    "Nach Brandkatastrophe in der Schweiz - Schwierige Identifizierung der Opfer",
-    "Migrations-Politik - CSU-Papier listet zahlreiche Verschärfungen auf",
-    "Schutz von Rettungskräften - Berufsverband fordert konsequentere Anwendung bestehender Gesetze",
-    "Venezuela - Über 80 politische Häftlinge unter Auflagen freigelassen",
     "Energieversorgung - CSU für neue Formen der Kernenergie",
     "Saudi-Arabien - Neuer Höchststand bei Hinrichtungen - Todesstrafe oft für Drogendelikte",
     "USA - Viel Aspirin, ungesundes Essen und wenig Schlaf: Trumps weist Sorgen um seine Gesundheit zurück",
@@ -3003,13 +2999,13 @@
     "Energie - Solarausbau stockt, Verbände warnen vor Einschnitten bei Förderung",
     "Australian Open - Alexander Zverev erreicht Halbfinale",
     "Holocaust-Gedenktag - Friedman konstatiert \"Explosion von Judenhass\"",
-    "Herstellerverband Acea - Auto-Neuzulassungen in der EU leicht gestiegen"
+    "Herstellerverband Acea - Auto-Neuzulassungen in der EU leicht gestiegen",
+    "Nach Anschlag von Berlin - Dobrindt will Kampf gegen Linksextremismus verstärken",
+    "Düsseldorf - Nordrhein-westfälische Flüchtlingsministerin Paul (Grüne) tritt zurück",
+    "Angaben aus Südkorea und Japan - Nordkorea soll erneut Rakete abgefeuert haben",
+    "Archäologie - Rund 430.000 Jahre altes Holzwerkzeug in Griechenland entdeckt"
   ],
   "hashes": [
-    "e87d6352169be1b1e769b9ba0e01fc71",
-    "7c1db7632df4edc953e98a0885da832a",
-    "fc44c0a78cd6f6981a13f9beb0681f5a",
-    "e1f2bb828b05be32f74fa52db94ff2c4",
     "0997790a81835e666505add22e14c4b4",
     "c9e85223892a6eb2048123d1e4c8121c",
     "815c5a1609e2f2ae9bc0fdd2be01e7ab",
@@ -4005,6 +4001,10 @@
     "47cc74bd5188fbee5267058515259372",
     "fe65067788e1a05559f7cd3c1220ffa7",
     "89c8b97aaf55eece211ae8f68dc2f252",
-    "6d90e601e179d223175551615d30b6b5"
+    "6d90e601e179d223175551615d30b6b5",
+    "559d14646530298cb24b19127012a4ed",
+    "3c83273398e963ac2d47186ef156a0d1",
+    "9eb7a9470d9bbb25ac0e245da5475362",
+    "397eac6670fa5c56578abe99276aa82c"
   ]
 }
