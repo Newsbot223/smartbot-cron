@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nach-brandkatastrophe-in-crans-montana-noch-mindestens-80-verletzte-in-lebensgefahr-102.html",
-    "https://www.deutschlandfunk.de/integrationspolitische-sprecherin-der-spd-lehnt-pauschale-abschieberegeln-fuer-syrer-ab-100.html",
-    "https://www.deutschlandfunk.de/daenischer-energiekonzern-plant-klage-gegen-baustopp-bei-windparkprojekt-an-us-ostkueste-100.html",
     "https://www.deutschlandfunk.de/norwegen-naehert-sich-100-prozent-ziel-bei-neuzulassungen-104.html",
     "https://www.deutschlandfunk.de/csu-papier-listet-zahlreiche-verschaerfungen-auf-kritik-von-spd-und-linken-100.html",
     "https://www.deutschlandfunk.de/israel-greift-mehrere-ziele-im-sueden-des-libanons-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/gruene-klagen-gegen-neue-regelung-zu-sicheren-herkunftsstaaten-100.html",
     "https://www.deutschlandfunk.de/mehr-als-300-faelle-sexualisierter-gewalt-unter-christlichen-pfadfindern-100.html",
     "https://www.deutschlandfunk.de/arbeitslosenquote-in-spanien-auf-tiefstem-stand-seit-finanzkrise-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nrw-ministerin-paul-tritt-nach-kritik-wegen-solingen-zurueck-110826228.html"
+    "https://www.faz.net/aktuell/politik/inland/nrw-ministerin-paul-tritt-nach-kritik-wegen-solingen-zurueck-110826228.html",
+    "https://www.deutschlandfunk.de/streiks-an-unikliniken-und-hochschulen-100.html",
+    "https://www.deutschlandfunk.de/one-battle-after-another-und-blood-sinners-bei-bafta-nominierungen-vorn-102.html",
+    "https://www.faz.net/aktuell/politik/inland/verfahren-gegen-tilman-kuban-eingestellt-kein-hinreichender-tatverdacht-200480322.html"
   ],
   "content_hashes": [
-    "dc3a91a6bd3f3155951ce24d9f6ad9c9",
-    "41e7172fa357b6f10753c93d64b1d1cd",
-    "cdfb3e36be09ef572c3436f096869a1d",
     "06752df0ea521dc2cabbc96575a9d9b1",
     "6d9b8d2f12dc8ab294d9453c8c47e417",
     "3e9822913aeecde32fc9e208b62f3e2b",
@@ -2001,12 +1998,12 @@
     "53d77379ddb54fdbad2525b3b9c1d3d9",
     "b0fda9b9f86e65c0a54a60e846450795",
     "40606f55678bf63e79360bc596c78462",
-    "fdfd8cfb3432fe30b845ff45e315df15"
+    "fdfd8cfb3432fe30b845ff45e315df15",
+    "134f15bc585218b360e81183e1e321ac",
+    "88699947b868c8c6be1c228d09c2a01f",
+    "720a8a17e66c38e26c1d3646232979df"
   ],
   "titles": [
-    "Schweiz - Nach Brandkatastrophe in Crans-Montana noch mindestens 80 Verletzte in Lebensgefahr",
-    "Koalition - Integrationspolitische Sprecherin der SPD lehnt pauschale Abschieberegeln für Syrer ab",
-    "Örsted - Dänischer Energiekonzern plant Klage gegen Baustopp bei Windparkprojekt an US-Ostküste",
     "Elektroautos - Norwegen nähert sich 100-Prozent-Ziel bei Neuzulassungen",
     "Migration - CSU-Papier listet zahlreiche Verschärfungen auf - Kritik von SPD und Linken",
     "Nahost-Konflikt - Israel greift mehrere Ziele im Süden des Libanons an",
@@ -3003,12 +3000,12 @@
     "Migrationspolitik - Grüne klagen gegen neue Regelung zu sicheren Herkunftsstaaten",
     "Aktuelle Studie - Mehr als 300 Fälle sexualisierter Gewalt unter christlichen Pfadfindern",
     "Konjunkturbelebung - Arbeitslosenquote in Spanien auf tiefstem Stand seit Finanzkrise 2008",
-    "Anderthalb Jahre nach Solingen: Nordrhein-Westfalens Flüchtlingsministerin Paul tritt zurück"
+    "Anderthalb Jahre nach Solingen: Nordrhein-Westfalens Flüchtlingsministerin Paul tritt zurück",
+    "Aufruf von Verdi - Streiks an Unikliniken und Hochschulen",
+    "Filmpreis - \"One Battle After Another\" und \"Blood & Sinners\" bei Bafta-Nominierungen vorn",
+    "Staatsanwaltschaft Konstanz: Verfahren gegen Tilman Kuban eingestellt"
   ],
   "hashes": [
-    "b610709cf26589221e1b3aca12817152",
-    "a9c303654491e37522ba47608f8c656a",
-    "0edcc862e902c57977a65612cd8e1c84",
     "a883700f675f5b971884712eade4dbca",
     "22421850185caeb29e134b145c8d2e48",
     "f4f257f7aceb48abd76b9031977e52ee",
@@ -4005,6 +4002,9 @@
     "9bf555586380fd3846459b442d47e1b9",
     "25269f8d33559818776c2a16d8d7ac64",
     "dab9b764b88ba2396e54c20f0738ba29",
-    "a2234149e9788c3268a4b617b886287a"
+    "a2234149e9788c3268a4b617b886287a",
+    "1abf8163adf880d0459652f7ab161061",
+    "90e284407dc5149a678b31866940bfc7",
+    "08f847a176a56d1030a7d591d254c8f8"
   ]
 }
