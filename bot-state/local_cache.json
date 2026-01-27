@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nachbarlaender-druecken-mitgefuehl-aus-100.html",
-    "https://www.deutschlandfunk.de/streeck-warnt-vor-alkoholmissbrauch-bei-jugendlichen-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-droht-iran-wegen-gewalt-gegen-demonstranten-102.html",
     "https://www.deutschlandfunk.de/brasiliens-ex-praesident-bolsonaro-ins-gefaengnis-zurueckverlegt-102.html",
     "https://www.deutschlandfunk.de/nach-brandkatastrophe-in-crans-montana-noch-mindestens-80-verletzte-in-lebensgefahr-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verkehrsunternehmen-trotz-preiserhoehung-bisher-keine-kuendigungswelle-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-frankreich-rufen-neues-e6-format-ins-leben-100.html",
     "https://www.deutschlandfunk.de/oekonomin-veronika-grimm-wird-herausgeberin-bei-the-pioneer-102.html",
-    "https://www.faz.net/aktuell/politik/inland/traut-sich-die-spd-an-den-umbau-des-sozialstaats-accg-110826114.html"
+    "https://www.faz.net/aktuell/politik/inland/traut-sich-die-spd-an-den-umbau-des-sozialstaats-accg-110826114.html",
+    "https://www.deutschlandfunk.de/gruene-klagen-gegen-neue-regelung-zu-sicheren-herkunftsstaaten-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-300-faelle-sexualisierter-gewalt-unter-christlichen-pfadfindern-100.html"
   ],
   "content_hashes": [
-    "350bfeb0fb488d930d479567903b75fc",
-    "2ead3cf4dce237d69eba03e444ced3a5",
     "ba0a6514a92a059fa02032376267e542",
     "51f34fcbe2ab86f30c46e43b4e915f71",
     "dc3a91a6bd3f3155951ce24d9f6ad9c9",
@@ -2001,11 +1999,11 @@
     "ff004a0e0e676b66b9db5140e90ff10e",
     "93e0433ab3f4213dfdc0b50388737ba1",
     "cbf619ab112b80ff3dc9eb51cddb2193",
-    "54c1e1c616f4e20dc2143e2bb441a4a3"
+    "54c1e1c616f4e20dc2143e2bb441a4a3",
+    "53d77379ddb54fdbad2525b3b9c1d3d9",
+    "b0fda9b9f86e65c0a54a60e846450795"
   ],
   "titles": [
-    "Brandkatastrophe in der Schweiz - Nachbarländer drücken Mitgefühl aus",
-    "Bundesdrogenbeauftragte - Streeck warnt vor Alkoholmissbrauch bei Jugendlichen",
     "Proteste - US-Präsident Trump droht Iran wegen Gewalt gegen Demonstranten",
     "Eine Woche im Krankenhaus - Brasiliens Ex-Präsident Bolsonaro ins Gefängnis zurückverlegt",
     "Schweiz - Nach Brandkatastrophe in Crans-Montana noch mindestens 80 Verletzte in Lebensgefahr",
@@ -3003,11 +3001,11 @@
     "Deutschlandticket - Verkehrsunternehmen: Trotz Preiserhöhung bisher keine Kündigungswelle",
     "Europas Wettbewerbsfähigkeit stärken - Deutschland und Frankreich rufen neues E6-Format ins Leben",
     "Medien - Ökonomin Veronika Grimm wird Herausgeberin bei \"The Pioneer\"",
-    "Kommission macht Vorschläge: Traut sich die SPD an den Umbau des Sozialstaats?"
+    "Kommission macht Vorschläge: Traut sich die SPD an den Umbau des Sozialstaats?",
+    "Migrationspolitik - Grüne klagen gegen neue Regelung zu sicheren Herkunftsstaaten",
+    "Aktuelle Studie - Mehr als 300 Fälle sexualisierter Gewalt unter christlichen Pfadfindern"
   ],
   "hashes": [
-    "c31d533900d2111416e3453b37e931ed",
-    "7db2ab4b0484598d63721a9504750841",
     "b3e4a1955df8aa29744f7ace2301ce6d",
     "74ef46149494463c251b58690862c1f8",
     "b610709cf26589221e1b3aca12817152",
@@ -4005,6 +4003,8 @@
     "c92ec79a6d8680757ea702bd56e326f2",
     "5dab89090ef9bbd46e5a7dd220b698d1",
     "79433ceb0ebb01be52df5b6df942e887",
-    "f3cd921a24484a8179da837081244f04"
+    "f3cd921a24484a8179da837081244f04",
+    "9bf555586380fd3846459b442d47e1b9",
+    "25269f8d33559818776c2a16d8d7ac64"
   ]
 }
