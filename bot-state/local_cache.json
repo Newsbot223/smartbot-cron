@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/88-politische-haeftlinge-unter-auflagen-freigelassen-102.html",
-    "https://www.deutschlandfunk.de/fuer-mehr-personal-und-digitalisierung-richterbund-fordert-schnelle-neuauflage-des-rechtsstaatspakts-100.html",
     "https://www.spiegel.de/politik/deutschland/csu-und-die-fluechtlinge-partei-will-die-meisten-menschen-aus-syrien-abschieben-a-99e9f95a-3a42-4c5b-ba3b-206894b5749b#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/deutlich-weniger-illegale-einreisen-nach-deutschland-2025-accg-200401916.html",
     "https://www.deutschlandfunk.de/schwierige-identifizierung-der-opfer-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/einige-ice-beamte-sollen-ab-heute-minneapolis-verlassen-100.html",
     "https://www.deutschlandfunk.de/bundeswehr-will-offenbar-schon-bald-kampfdrohnen-anschaffen-100.html",
     "https://www.deutschlandfunk.de/verhandlungen-ueber-freihandelsabkommen-zwischen-eu-und-indien-laut-premier-modi-abgeschlossen-100.html",
-    "https://www.deutschlandfunk.de/mehrere-ice-agenten-sollen-minneapolis-verlassen-offenbar-auch-einsatzleiter-bovino-100.html"
+    "https://www.deutschlandfunk.de/mehrere-ice-agenten-sollen-minneapolis-verlassen-offenbar-auch-einsatzleiter-bovino-100.html",
+    "https://www.deutschlandfunk.de/solarausbau-stockt-verbaende-warnen-vor-einschnitten-bei-foerderung-100.html",
+    "https://www.deutschlandfunk.de/alexander-zverev-erreicht-halbfinale-100.html"
   ],
   "content_hashes": [
-    "7a6ea812fa9e95fe66ceaaecdfb8766b",
-    "be28608860ee43c263a77cbce046acb3",
     "56342184e65f157fdab5b4d32d27fea7",
     "c334e8f646023f7557d8cdb413b95e61",
     "f56dc27f793dc16478334cacc8e00299",
@@ -2001,11 +1999,11 @@
     "df04d4d535ac40b93c0965a0aeb7d48d",
     "98f0d82b3cb011b6173ead0257e0bc0c",
     "e7eb60940373bb7f89513868044531b5",
-    "f6f73af69c32c96f2fceb72209bba5be"
+    "f6f73af69c32c96f2fceb72209bba5be",
+    "1f65496c313749518e99a7984c850d3b",
+    "6ec6987afbb3c1435ac014bbc19e6950"
   ],
   "titles": [
-    "Venezuela - 88 politische Häftlinge unter Auflagen freigelassen",
-    "Justiz - Für mehr Personal und Digitalisierung: Richterbund fordert schnelle Neuauflage des Rechtsstaatspakts",
     "CSU und die Flüchtlinge: Partei will die meisten Menschen aus Syrien abschieben",
     "Grenzkontrollen: Deutlich weniger illegale Einreisen nach Deutschland 2025",
     "Nach Brandkatastrophe in der Schweiz - Schwierige Identifizierung der Opfer",
@@ -3003,11 +3001,11 @@
     "Nach tödlichen Schüssen - Einige ICE-Beamte sollen ab heute Minneapolis verlassen",
     "Verteidigung - Bundeswehr will offenbar schon bald Kampfdrohnen anschaffen",
     "Gipfeltreffen - Verhandlungen über Freihandelsabkommen zwischen EU und Indien laut Premier Modi abgeschlossen",
-    "Nach tödlichen Schüssen - Mehrere ICE-Agenten sollen Minneapolis verlassen - offenbar auch Einsatzleiter Bovino"
+    "Nach tödlichen Schüssen - Mehrere ICE-Agenten sollen Minneapolis verlassen - offenbar auch Einsatzleiter Bovino",
+    "Energie - Solarausbau stockt, Verbände warnen vor Einschnitten bei Förderung",
+    "Australian Open - Alexander Zverev erreicht Halbfinale"
   ],
   "hashes": [
-    "d2388947eb45d6a57c3e600fbc5cafc9",
-    "6e6e130bfbb9fba84a58ee8407ab71f2",
     "0bd21d855058be4281c6583c0d545042",
     "5c25903750293cd568dfd339618fc88d",
     "e87d6352169be1b1e769b9ba0e01fc71",
@@ -4005,6 +4003,8 @@
     "9f79990abf58472cf64046c3a92f8727",
     "60a150e30b90c469bb3298102ce7f4d7",
     "44ec68b71d2115832d10d9cc2ce4ac20",
-    "cecc0abfd8477fae8625fa04d1fc8e53"
+    "cecc0abfd8477fae8625fa04d1fc8e53",
+    "47cc74bd5188fbee5267058515259372",
+    "fe65067788e1a05559f7cd3c1220ffa7"
   ]
 }
