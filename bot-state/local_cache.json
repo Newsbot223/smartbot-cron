@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/oesterreicher-hoerl-gewinnt-qualifikation-prevc-nur-auf-rang-102.html",
-    "https://www.faz.net/aktuell/politik/inland/neujahrsansprache-von-merz-die-deutschen-wollen-lieber-taten-sehen-110812665.html",
-    "https://www.deutschlandfunk.de/ermittlungen-gegen-betreiber-der-bar-erste-todesopfer-identifiziert-100.html",
-    "https://www.deutschlandfunk.de/der-westen-dringt-auf-einen-geordneten-machtwechsel-102.html",
     "https://www.deutschlandfunk.de/rund-35-000-haushalte-voraussichtlich-mehrere-tage-ohne-elektrizitaet-staatsschutz-ermittelt-108.html",
     "https://www.deutschlandfunk.de/china-verurteilt-us-angriff-auf-venezuela-aufs-schaerfste-100.html",
     "https://www.deutschlandfunk.de/westliche-laender-dringen-auf-einen-geordneten-machtwechsel-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/oelpreise-auf-hoechstem-stand-seit-vier-monaten-100.html",
     "https://www.deutschlandfunk.de/trotz-druck-von-trump-us-leitzins-bleibt-unveraendert-100.html",
     "https://www.deutschlandfunk.de/grenzbeamte-nach-toedlichen-schuessen-in-minneapolis-suspendiert-100.html",
-    "https://www.deutschlandfunk.de/erneute-gespraeche-zwischen-russland-der-ukraine-und-den-usa-fuer-sonntag-angekuendigt-102.html"
+    "https://www.deutschlandfunk.de/erneute-gespraeche-zwischen-russland-der-ukraine-und-den-usa-fuer-sonntag-angekuendigt-102.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-will-weniger-oeffentlich-zugaengliche-informationen-zu-kritischer-infrastruktur-102.html",
+    "https://www.deutschlandfunk.de/iranischen-revolutionsgarden-vor-einstufung-als-terrororganisation-in-der-eu-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-friedrich-merz-und-lars-klingenbeil-wollen-schnelle-einfuehrung-von-digitalem-euro-faz-110093143.html",
+    "https://www.faz.net/aktuell/politik/inland/staatsgerichtshof-zu-kommunalparlamenten-bedrohte-keimzelle-110826835.html"
   ],
   "content_hashes": [
-    "10bd201b1c68b71e19ce51c1d1f822bb",
-    "251a691ab50ee65d4a69a9e3703bf464",
-    "d4c01160b0054c06f7e7a7e7aaec2840",
-    "06365c9d298a6b0937a81e011ff31951",
     "838cda121105c6aa6913104a3ab22489",
     "e59e42b44fbc61d5f9373cb73909d0e3",
     "97a4f168faddc8fcc5b66cbdbb22c3e3",
@@ -2001,13 +1997,13 @@
     "959f827bb20841cf6c3f2db335d6c102",
     "6396b73e6e5109481242780f5e6f98d0",
     "2447cef18ff53e1281487f96d5496348",
-    "42d19a6b68d2d9d341f3810671cb5796"
+    "42d19a6b68d2d9d341f3810671cb5796",
+    "97e7511cb1b025acddba22f2a1888461",
+    "108e67ba07f2188d2fe8888e0f301387",
+    "902d4073d4255a856dbeda620eec634d",
+    "e3aa06a47602fa777d6e55fe80f925e6"
   ],
   "titles": [
-    "Vierschanzentournee - Österreicher Hörl gewinnt Qualifikation - Prevc nur auf Rang 30",
-    "Neujahrsreden: Die Deutschen wollen lieber Taten sehen",
-    "Nach Brandkatastrophe in Crans-Montana - Ermittlungen gegen Betreiber der Bar - erste Todesopfer identifiziert",
-    "US-Militäreinsatz in Venezuela - Der Westen dringt auf einen geordneten Machtwechsel",
     "Stromausfall im Südwesten Berlins - Rund 35.000 Haushalte voraussichtlich mehrere Tage ohne Elektrizität - Staatsschutz ermittelt",
     "Außenministerium in Peking - China verurteilt US-Angriff auf Venezuela aufs Schärfste",
     "US-Militäreinsatz in Venezuela - Westliche Länder dringen auf einen geordneten Machtwechsel",
@@ -3003,13 +2999,13 @@
     "Geopolitische Lage - Ölpreise auf höchstem Stand seit vier Monaten",
     "Federal Reserve - Trotz Druck von Trump: US-Leitzins bleibt unverändert",
     "USA - Grenzbeamte nach tödlichen Schüssen in Minneapolis suspendiert",
-    "Abu Dhabi - Erneute Gespräche zwischen Russland, der Ukraine und den USA für Sonntag angekündigt"
+    "Abu Dhabi - Erneute Gespräche zwischen Russland, der Ukraine und den USA für Sonntag angekündigt",
+    "Nach Anschlag in Berlin - Bundeskanzler Merz will weniger öffentlich zugängliche Informationen zu kritischer Infrastruktur",
+    "Treffen der Außenminister - Iranischen Revolutionsgarden vor Einstufung als Terrororganisation in der EU",
+    "Deutschland-Blog: Merz und Klingenbeil dringen auf schnelle Einführung des digitalen Euro",
+    "Kommunalparlamente: Bedrohte Keimzelle"
   ],
   "hashes": [
-    "7bb5fc87fc1940965946f7346a05b7a1",
-    "af0595c86fdfa8e575894bb5942420d4",
-    "f2d9d08505cbdc2bd60765d8e159decb",
-    "5aa241509674c4c8c27087715bec29ff",
     "0e93f3fc674edc8ff07a4106735a9d0f",
     "c5c94204a4ebb737dab5b07c3dea641d",
     "8bb9e367139bb85adba84b08f2e876ae",
@@ -4005,6 +4001,10 @@
     "3e4b9daa2fd472c0a4aa609dae449a04",
     "6e7d86267f33faaf5d0ce771f07d3368",
     "92313aef78b7272fea945ba053b733a6",
-    "5ce661639f9f69a37f595b2224333509"
+    "5ce661639f9f69a37f595b2224333509",
+    "d7e880dbd0101cfb946c80e808c83ca3",
+    "9f57e6d37b3f1201b9c5b39d18cb57ef",
+    "cd1884968d71ba1c27b60137a1efe633",
+    "e591ab72c636d9682c7525056cdfed67"
   ]
 }
