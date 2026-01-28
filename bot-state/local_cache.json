@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/schweres-erdbeben-erschuettert-sueden-des-landes-112.html",
-    "https://www.deutschlandfunk.de/fbi-anschlag-in-silvesternacht-in-north-carolina-vereitelt-100.html",
     "https://www.deutschlandfunk.de/berichte-ueber-neue-demonstrationen-in-teheran-100.html",
     "https://www.deutschlandfunk.de/kambodscha-wirft-thailand-illegale-annexion-von-territorien-vor-102.html",
     "https://www.deutschlandfunk.de/hilfsorganisationen-warnen-vor-arbeitsverbot-durch-israel-appell-von-guterres-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/verkehrsgerichtstag-beginnt-100.html",
     "https://www.deutschlandfunk.de/cdu-fordert-mindestlohn-ausnahmen-fuer-saisonarbeiter-100.html",
     "https://www.faz.net/aktuell/politik/inland/feuer-in-juedischem-krankenhaus-womoeglich-politisch-motiviert-accg-200481904.html",
-    "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-die-afd-plaene-nicht-auf-die-leichte-schulter-nehmen-110826328.html"
+    "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-die-afd-plaene-nicht-auf-die-leichte-schulter-nehmen-110826328.html",
+    "https://www.deutschlandfunk.de/extremismusforscherin-kuepper-sieht-hohe-chancen-fuer-erste-afd-regierung-in-sachsen-anhalt-100.html",
+    "https://www.deutschlandfunk.de/ausbruch-des-nipah-virus-laut-behoerden-eingedaemmt-alle-kontaktpersonen-ermittelt-102.html"
   ],
   "content_hashes": [
-    "ab2965632b857598beaf9655177a184f",
-    "d62b8095c48075d24ceccc7b391fb665",
     "7a7f52f84a6b5dc8be7b62fda6879ac6",
     "2d1ac498a2c9721bc804b7efa341cfbb",
     "8686c8a16d7fe7e655fa20f9fe407137",
@@ -2001,11 +1999,11 @@
     "89d1b2a0e815dc1816d056fb181e8925",
     "8098bb94de4d129811964cde00c98562",
     "d5f4bc8691a5e9a3f175d27b51416442",
-    "4f1335655a059293077fc551707959f2"
+    "4f1335655a059293077fc551707959f2",
+    "f736699bb9b91840a5b07e975627b1eb",
+    "2ba7f262474e171ccd9a97181164d3a9"
   ],
   "titles": [
-    "Mexiko - Schweres Erdbeben erschüttert Süden des Landes",
-    "USA - FBI: Anschlag in Silvesternacht in North Carolina vereitelt",
     "Massenproteste - Berichte über neue Demonstrationen in Teheran",
     "Grenzkonflikt - Kambodscha wirft Thailand \"illegale Annexion\" von Territorien vor",
     "Nahost - Hilfsorganisationen warnen vor Arbeitsverbot durch Israel - Appell von Guterres",
@@ -3003,11 +3001,11 @@
     "Goslar - Verkehrsgerichtstag beginnt",
     "Antrag auf Bundesparteitag - CDU fordert Mindestlohn-Ausnahmen für Saisonarbeiter",
     "brand in Berlin: Feuer in Jüdischem Krankenhaus – Verdacht auf politisches Motiv",
-    "Programm für Sachsen-Anhalt: Die AfD-Pläne nicht auf die leichte Schulter nehmen"
+    "Programm für Sachsen-Anhalt: Die AfD-Pläne nicht auf die leichte Schulter nehmen",
+    "Landtagswahlen - Extremismusforscherin Küpper sieht hohe Chancen für erste AfD-Regierung in Sachsen-Anhalt",
+    "Indien - Ausbruch des Nipah-Virus laut Behörden eingedämmt: \"Alle Kontaktpersonen ermittelt\""
   ],
   "hashes": [
-    "81dd000f6d7c914966e087d0625573b7",
-    "47b42624eeb902626daa161a00869282",
     "aa947f8bda6ae22b820c404cf89b94ec",
     "34d8883e232b8c0a3274a67b6207bbc2",
     "9aa369cf1ab523a93c968b9b466e1841",
@@ -4005,6 +4003,8 @@
     "e1e3b242fd961127a3f710404e4e90df",
     "042ec53bc52f2692bdba120b767f0060",
     "26e34ec47d7e6063bb1a3870472162cc",
-    "3ef5bf1d3de14dcf926715fb6eef2aae"
+    "3ef5bf1d3de14dcf926715fb6eef2aae",
+    "7bb000c59ea65ba04992d42857bde179",
+    "23b79cb7c551421ad0add2a30ec4bd0f"
   ]
 }
