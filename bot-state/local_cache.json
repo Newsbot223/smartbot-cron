@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-besucht-litauen-108.html",
-    "https://www.deutschlandfunk.de/kiew-und-jelez-melden-angriffe-104.html",
     "https://www.faz.net/aktuell/politik/inland/die-versoehnung-der-spd-mit-den-privatpatienten-waere-riskant-110813533.html",
     "https://www.deutschlandfunk.de/inzwischen-mindestens-19-tote-regime-kuendigt-finanzhilfen-an-100.html",
     "https://www.deutschlandfunk.de/photovoltaik-ueberholt-braunkohle-und-erdgas-bei-stromerzeugung-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/austausch-toter-soldaten-zwischen-ukraine-und-russland-102.html",
     "https://www.deutschlandfunk.de/uno-millionen-fluechtlinge-im-sudan-trotz-zerstoerung-in-ihre-heimatorte-zurueckgekehrt-100.html",
     "https://www.deutschlandfunk.de/schwedische-musikschaffende-mobilisieren-gegen-waffengewalt-104.html",
-    "https://www.aljazeera.com/video/newsfeed/2026/1/29/anti-ice-protesters-tear-gassed-outside-texas-detention-centre?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/1/29/anti-ice-protesters-tear-gassed-outside-texas-detention-centre?traffic_source=rss",
+    "https://www.deutschlandfunk.de/streiktag-bildung-lehrkraefte-demonstrieren-bundesweit-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kritis-dachgesetz-regierung-will-kritische-infrastruktur-schuetzen-accg-200486644.html"
   ],
   "content_hashes": [
-    "ff18af6649ec912ee573ff344e93ea59",
-    "2840a3e1488b77e79a71accb4d30ec24",
     "d0f9e8a0b67e2fafa7b4f8efca61dbbb",
     "0935421a7e920617e4ff90468f3b252e",
     "fdaa1c70560dee9861084ae899ce08ea",
@@ -2001,11 +1999,11 @@
     "56aad3d91cc65e4d78779c024a09625c",
     "d31786e52f279bf3d3b5a6ae73ca3468",
     "101b9cb05934b7a219e97c537a7b67d5",
-    "22f0887f17e20f7a142de75198473f5d"
+    "22f0887f17e20f7a142de75198473f5d",
+    "4b8c03e0c3d481ad0b100e7faac54bd1",
+    "79c377bd9fa23366a32944ae2e69d026"
   ],
   "titles": [
-    "NATO-Ostflanke - Bundesaußenminister Wadephul besucht Litauen",
-    "Ukraine-Krieg - Kiew und Jelez melden Angriffe",
     "Bürgerversicherung: Die Versöhnung der SPD mit den Privatpatienten wäre riskant",
     "Proteste im Iran - Inzwischen mindestens 19 Tote - Regime kündigt Finanzhilfen an",
     "Bilanz - Photovoltaik überholt Braunkohle und Erdgas bei Stromerzeugung",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Austausch toter Soldaten zwischen Ukraine und Russland",
     "Bürgerkrieg - UNO: Millionen Flüchtlinge im Sudan trotz Zerstörung in ihre Heimatorte zurückgekehrt",
     "\"Es reicht\" - Schwedische Musikschaffende mobilisieren gegen Waffengewalt",
-    "Anti-ICE protesters tear-gassed outside Texas detention centre"
+    "Anti-ICE protesters tear-gassed outside Texas detention centre",
+    "Tarifkonflikt - \"Streiktag Bildung\": Lehrkräfte demonstrieren bundesweit",
+    "Vom Bundestag beschlossen: Mit diesem Gesetz soll die kritische Infrastruktur geschützt werden"
   ],
   "hashes": [
-    "409b47ec582f6d8febeb1762b91aa4cc",
-    "db6b178fedf4cc5a15e990e5cf6a5a35",
     "ab6f88307b714dc4b0ea115921f4e247",
     "034c0b3f49ecdd1e9266058f6d20f8ca",
     "23f7ef74e190ba19b8ad1bce7277958d",
@@ -4005,6 +4003,8 @@
     "6da376defe4cb2edfc90bc1e0b5f8707",
     "4e377b4114e1c4980d86ed238760cac8",
     "b73f46d65d6317eeb7448ba2830503e1",
-    "250e02e7bfefd019581bfac591e442a4"
+    "250e02e7bfefd019581bfac591e442a4",
+    "f3e924942db96cf67d962c6fc2c672c2",
+    "bd26b9b8af4319d9bcf351b99b355907"
   ]
 }
