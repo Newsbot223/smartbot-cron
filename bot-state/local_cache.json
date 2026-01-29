@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dihk-warnt-vor-vermehrter-abwanderung-von-unternehmen-102.html",
-    "https://www.deutschlandfunk.de/mehr-verspaetungen-bei-ice-und-intercity-zuegen-102.html",
     "https://www.deutschlandfunk.de/24-todesopfer-der-brandkatastrophe-in-crans-montana-identifiziert-ermittlungen-gegen-betreiber-der-b-100.html",
     "https://www.deutschlandfunk.de/venezuela-zur-lage-nach-dem-us-angriff-guenther-maihold-politikwissenschaftler-100.html",
     "https://www.deutschlandfunk.de/weitere-proteste-im-iran-regierung-schraenkt-internet-ein-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/britischer-premier-starmer-will-beziehungen-zu-peking-vertiefen-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsverbaende-verlangen-aussetzung-des-nationalen-lieferkettengesetzes-100.html",
     "https://www.deutschlandfunk.de/sachsen-anhalts-neuer-ministerpraesident-schulze-schliesst-zusammenarbeit-mit-afd-aus-100.html",
-    "https://www.deutschlandfunk.de/deutsche-bank-legt-rekordzahlen-vor-100.html"
+    "https://www.deutschlandfunk.de/deutsche-bank-legt-rekordzahlen-vor-100.html",
+    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-erwartet-einstufung-der-iranischen-revolutionsgarden-als-terrororganisat-100.html",
+    "https://www.deutschlandfunk.de/cdu-politiker-biadacz-erste-massnahmen-bereits-in-diesem-jahr-umsetzen-100.html"
   ],
   "content_hashes": [
-    "9020637858279aaf4724dcfe3fff1fa1",
-    "12b920a5aad6bc05d3b10ea4eae87cf5",
     "56db739b9ed1e0151de17fdf303d7807",
     "0e5777277711d3b1013bb694da8af9cd",
     "d91ab3ecb76984348a3eba39794648d8",
@@ -2001,11 +1999,11 @@
     "63b22b5dbd4d4176d97718dc3235a159",
     "cd2d9c6a395ed2b2ccc23446fb632dab",
     "9001e36f0b9c1133401f9e0dd652d7db",
-    "f1190bf9b8c59931199e26f29a5a39ec"
+    "f1190bf9b8c59931199e26f29a5a39ec",
+    "84a8f1aac1979a140df43a629255e7e1",
+    "553d4c21fe5ae5fea9f6e611bca5349c"
   ],
   "titles": [
-    "Industrie - DIHK warnt vor vermehrter Abwanderung von Unternehmen",
-    "Deutsche Bahn - Mehr Verspätungen bei ICE- und Intercity-Zügen",
     "Schweiz - 24 Todesopfer der Brandkatastrophe in Crans-Montana identifiziert - Ermittlungen gegen Betreiber der Bar",
     "Venezuela - US-Machtübernahme könnte Konflikte im Land verschärfen",
     "Wirtschaftskrise - Weitere Proteste im Iran - Regierung schränkt Internet ein",
@@ -3003,11 +3001,11 @@
     "China-Besuch - Britischer Premier Starmer will Beziehungen zu Peking vertiefen",
     "Brief an Bundestag - Wirtschaftsverbände verlangen Aussetzung des nationalen Lieferkettengesetzes",
     "Dlf-Interview - Sachsen-Anhalts neuer Ministerpräsident Schulze schließt Zusammenarbeit mit AfD aus",
-    "Wirtschaft - Deutsche Bank legt Rekordzahlen vor"
+    "Wirtschaft - Deutsche Bank legt Rekordzahlen vor",
+    "Niederschlagung von Protesten - EU-Außenbeauftragte Kallas erwartet Einstufung der iranischen Revolutionsgarden als Terrororganisation",
+    "Reform des Sozialstaats - CDU-Politiker Biadacz: \"Erste Maßnahmen bereits in diesem Jahr umsetzen\""
   ],
   "hashes": [
-    "400e4d4760f2ff6dd0bc24163491f59b",
-    "1f7ff2d25ab4d74e87cf2fe7a7f89a39",
     "5b41d9c59261f6ade64f6b624875b62e",
     "4e582cbde521bd97333e595e5843730a",
     "913c58382bc1f12d60c27f4d0af6b725",
@@ -4005,6 +4003,8 @@
     "b7b44011dbbef845358d43a5e5599c23",
     "41f4f6a28159672ac08c159b526585ad",
     "71809435fb62c6444e80a2fca829c005",
-    "dd288b408e4a3ba0bb72a31ef70afd0d"
+    "dd288b408e4a3ba0bb72a31ef70afd0d",
+    "3af328a3767301043d69439525d2b82d",
+    "08fd6f8f79bb4fa71594f1dd1c766597"
   ]
 }
