@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staedte-und-gemeindebund-dringt-auf-neuverteilung-der-sozialkosten-100.html",
-    "https://www.deutschlandfunk.de/jeder-fuenfte-nutzt-bei-der-arbeit-kuenstliche-intelligenz-102.html",
-    "https://www.deutschlandfunk.de/flughaefen-erwarten-mehr-passagiere-im-neuen-jahr-100.html",
     "https://www.spiegel.de/wirtschaft/alkohol-ist-in-deutschland-billiger-als-fast-ueberall-in-europa-a-eacf14b6-3742-449a-ad28-d2ec97041de8#ref=rss",
     "https://www.deutschlandfunk.de/finanzminister-crumbach-tritt-aus-bsw-aus-100.html",
     "https://www.deutschlandfunk.de/berliner-generalstaatsanwaltschaft-hat-ermittlungen-zu-brandanschlag-aufgenommen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-erhoeht-winterhilfe-deutschland-uebergibt-in-kiew-zwei-mobile-heizkraftwerke-100.html",
     "https://www.deutschlandfunk.de/irans-revolutionsgarden-kommen-auf-eu-terrorliste-100.html",
     "https://www.deutschlandfunk.de/trump-spricht-von-zusage-putins-zu-einwoechiger-waffenruhe-102.html",
-    "https://www.deutschlandfunk.de/israel-uebergibt-leichen-von-15-palaestinensern-102.html"
+    "https://www.deutschlandfunk.de/israel-uebergibt-leichen-von-15-palaestinensern-102.html",
+    "https://www.deutschlandfunk.de/uebergangshaushalt-der-usa-laeuft-morgen-aus-trump-administration-verhandelt-mit-demokratischer-part-102.html",
+    "https://www.deutschlandfunk.de/bundestag-verlaengert-das-irak-mandat-der-bundeswehr-um-ein-weiteres-jahr-102.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-karsten-wildberger-buerokratie-abbauen-will-200481077.html"
   ],
   "content_hashes": [
-    "3760f4cbf21a11af1242735b1ffa6ebd",
-    "e440bf732de235482e80cb954ec569db",
-    "b660fb30a3002ef6c6e698253a0c023c",
     "fc149929e7af31b21a6b37dd8dc54081",
     "76e7dd701ae874471907818ff0d17f91",
     "b245625a8a7930f8f4a509380c622ca6",
@@ -2001,12 +1998,12 @@
     "e6b782143a867820fe8c01b86d35f1d8",
     "490f1ab7067c8ddf421ea2726ca04290",
     "a606f590e7f59668c94a1f750e7f84d9",
-    "c768d55f579489d8e75d77b27dbf188d"
+    "c768d55f579489d8e75d77b27dbf188d",
+    "85f6e042c2323ffa4a9c68524a265782",
+    "72c2787596ace5b0127737448c86cd6e",
+    "974ad933ac31e877f03e2f2540a5029b"
   ],
   "titles": [
-    "Kommunen - Städte- und Gemeindebund dringt auf Neuverteilung der Sozialkosten",
-    "Münchner Ifo-Institut - Jeder Fünfte nutzt bei der Arbeit Künstliche Intelligenz",
-    "Branchenverband ADV - Flughäfen erwarten mehr Passagiere im neuen Jahr",
     "Alkohol ist in Deutschland billiger als fast überall in Europa",
     "Brandenburg - Finanzminister Crumbach tritt aus BSW aus",
     "Großer Stromausfall - Berliner Generalstaatsanwaltschaft hat Ermittlungen zu Brandanschlag aufgenommen",
@@ -3003,12 +3000,12 @@
     "Winterhilfe - EU erhöht Winterhilfe - Deutschland übergibt in Kiew zwei mobile Heizkraftwerke",
     "Einigung - Irans Revolutionsgarden kommen auf EU-Terrorliste",
     "Ukraine-Krieg - Trump spricht von Zusage Putins zu einwöchiger Waffenruhe",
-    "Nächste Phase des Friedensplans - Israel übergibt Leichen von 15 Palästinensern"
+    "Nächste Phase des Friedensplans - Israel übergibt Leichen von 15 Palästinensern",
+    "Drohender Shutdown - Übergangshaushalt der USA läuft morgen aus - Trump-Administration verhandelt mit Demokratischer Partei",
+    "Kampf gegen den IS - Bundestag verlängert das Irak-Mandat der Bundeswehr um ein weiteres Jahr",
+    "Bürokratieabbau: Endlich Licht am Ende des deutschen Amtsflurs?"
   ],
   "hashes": [
-    "1ae743ca05040288f685e0602b8e7b1c",
-    "98a606b2eb65fcb4a13fd0145a19b365",
-    "24cb3605f804ed9ffb695aaa7bd4b25b",
     "198059558153fbd8968e5d9fb87d62b5",
     "8eb531078c03715ed6fd293c672c7805",
     "bf11faebe131d168ffdbf09b286c2cb2",
@@ -4005,6 +4002,9 @@
     "5bb9fe3fc902f57cf481918150822fc4",
     "5fb374131e06083df19a6131965c3404",
     "3e2055ed39c3ad911314efefc3f73f16",
-    "e3c84344378d32eb74f4c4a01129b43f"
+    "e3c84344378d32eb74f4c4a01129b43f",
+    "2d128f0ddfafd4736501d64eba808901",
+    "dbc01e07a5f26b9d84a05c80913507fe",
+    "80677663218835854b714bf239ea8234"
   ]
 }
