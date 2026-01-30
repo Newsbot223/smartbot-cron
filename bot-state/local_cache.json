@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/merz-tauscht-ueberraschend-bueroleiter-aus-100.html",
-    "https://www.faz.net/aktuell/politik/inland/anschlag-der-vulkangruppe-in-berlin-verharmloster-terror-110813982.html",
-    "https://www.deutschlandfunk.de/wadephul-betont-bedeutung-von-bundeswehr-brigade-fuer-die-sicherheit-europas-100.html",
-    "https://www.faz.net/aktuell/politik/inland/koalitionskrise-in-brandenburg-lieber-ein-neues-buendnis-110813996.html",
     "https://www.deutschlandfunk.de/dax-erreicht-allzeithoch-100.html",
     "https://www.spiegel.de/politik/deutschland/friedrich-merz-das-steht-im-kanzler-brief-an-seine-regierungspartner-a-ebadf214-cd09-4fb5-9a31-8b8e40e60d70#ref=rss",
     "https://www.deutschlandfunk.de/zahl-der-toten-nach-protesten-im-iran-steigt-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/cdu-frauen-wollen-frauen-zum-ausfuellen-des-wehrdienst-fragebogens-verpflichten-102.html",
     "https://www.deutschlandfunk.de/junta-in-burkina-faso-loest-alle-parteien-auf-100.html",
     "https://www.deutschlandfunk.de/nach-entziehung-des-doktortitels-tu-chemnitz-weist-vorwuerfe-des-thueringischen-ministerpraesidenten-106.html",
-    "https://www.deutschlandfunk.de/europarat-beschliesst-resolution-gegen-konversionstherapien-100.html"
+    "https://www.deutschlandfunk.de/europarat-beschliesst-resolution-gegen-konversionstherapien-100.html",
+    "https://www.deutschlandfunk.de/verdi-ruft-zu-nahverkehr-warnstreiks-am-montag-auf-100.html",
+    "https://www.deutschlandfunk.de/trump-droht-kanada-in-flugzeug-streit-mit-zoellen-und-zulassungsentzug-100.html",
+    "https://www.deutschlandfunk.de/lobbyverband-die-familienunternehmer-draengt-auf-schnelle-kostensenkungen-fuer-betriebe-100.html",
+    "https://www.faz.net/aktuell/politik/inland/ist-die-afd-eine-volkspartei-accg-200270891.html"
   ],
   "content_hashes": [
-    "341706b48571eb164fd6c4b6a972d63c",
-    "01e95e4081e5a001827fadb985bcd652",
-    "e027cef09d373e50f0e93084ac784325",
-    "28dc9364d6f761046dca21d197f8f359",
     "afbe8f24e15d9a2066a72f6b742fdbf3",
     "63b232df1fbd3bddb7ef170bb431ae27",
     "10ad64cd364f125b35a2d925ad6804e9",
@@ -2001,13 +1997,13 @@
     "655e35422a03c09fbee9edd4ba64ad88",
     "eb9498050e8a4f9245ed5a3a097e93aa",
     "89ef51192253f008d71f1818a657653d",
-    "79729241c1d8c23e008860a4ab18d626"
+    "79729241c1d8c23e008860a4ab18d626",
+    "8fea081f7cc496f260483ac5c215273a",
+    "fe1bc7cc3b72c58f2feeb8ea77b23435",
+    "91dfabfdee0d954d755e9c48f2db7d31",
+    "28c957d0ffa2169ee8a5ae0411992707"
   ],
   "titles": [
-    "Berlin - Merz tauscht überraschend Büroleiter aus",
-    "Anschlag in Berlin: Der verharmloste Terror",
-    "Litauen - Wadephul betont Bedeutung von Bundeswehr-Brigade für die Sicherheit Europas",
-    "Koalitionskrise in Potsdam: Nutze den Tag, SPD",
     "Börse in Frankfurt am Main - Dax erreicht Allzeithoch",
     "Friedrich Merz: Das steht im Kanzler-Brief an seine Regierungspartner",
     "Wirtschaftskrise und Regimekritik - Zahl der Toten nach Protesten im Iran steigt",
@@ -3003,13 +2999,13 @@
     "Bundeswehr - CDU-Frauen wollen Frauen zum Ausfüllen des Wehrdienst-Fragebogens verpflichten",
     "Westafrika - Junta in Burkina Faso löst alle Parteien auf",
     "Plagiatsvorwürfe - Nach Entziehung des Doktortitels: TU Chemnitz weist Vorwürfe des thüringischen Ministerpräsidenten Voigt zurück",
-    "Sexualität - Europarat beschließt Resolution gegen \"Konversionstherapien\""
+    "Sexualität - Europarat beschließt Resolution gegen \"Konversionstherapien\"",
+    "Tarifstreit - Verdi ruft zu Nahverkehr-Warnstreiks am Montag auf",
+    "USA - Trump droht Kanada in Flugzeug-Streit mit Zöllen und Zulassungsentzug",
+    "Konjunktur - Lobbyverband \"Die Familienunternehmer\" drängt auf schnelle Kostensenkungen für Betriebe",
+    "Höhenflug in Umfragen: Ist die AfD eine Volkspartei?"
   ],
   "hashes": [
-    "390dd841c022041b6205d2bc1f1f9d67",
-    "a3f1fc906f21ef6c1f503b463a68e66e",
-    "7fc7b6dec4cfb35f5b9b79c77d3723f1",
-    "e7b9ea2ed33022328e848f6a327a2a69",
     "79a17cf51abc00621222117f1733a9c9",
     "cf7f91f479772fdf5c600ca1d51f3990",
     "04b926dd431c2e56563e88bf2ddad038",
@@ -4005,6 +4001,10 @@
     "4c10d7a4ad4bbedeb3512a0515c99a36",
     "d778bbed7a3d8d73adc73bae32df15ef",
     "908fdf2fac65b18164d6ad794070f700",
-    "e8f5676303ffdf433061bbc8a36de6c3"
+    "e8f5676303ffdf433061bbc8a36de6c3",
+    "aa33105127aa846b1a433e2c4fad585c",
+    "28a9847137c6bdb935126b2c0b09e03f",
+    "277029f00e75f978e12cbbdeb76a8c4c",
+    "382ba8f0b2c9039896316b7c6e84e67a"
   ]
 }
