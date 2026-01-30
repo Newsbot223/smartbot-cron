@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-innenpolitik-spd-in-brandenburg-kuendigt-koalition-mit-bsw-auf-faz-110093143.html",
-    "https://www.deutschlandfunk.de/klausur-der-csu-bundestagsabgeordneten-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/noch-mehr-als-zwei-millionen-epstein-akten-nicht-veroeffentlicht-100.html",
     "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-indischen-jindal-konzern-zum-handeln-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/irans-aussenminister-bereit-fuer-verhandlungen-und-fuer-krieg-100.html",
     "https://www.deutschlandfunk.de/wehr-fragebogen-fuer-frauen-interview-mit-carmen-wegge-vorsitzende-spd-frauen-100.html",
     "https://www.deutschlandfunk.de/widerruf-per-mausklick-greenwashing-bundeswehr-die-beschluesse-des-bundesrats-100.html",
-    "https://www.deutschlandfunk.de/deutsche-synchronsprecherinnen-und-sprecher-boykottieren-netflix-104.html"
+    "https://www.deutschlandfunk.de/deutsche-synchronsprecherinnen-und-sprecher-boykottieren-netflix-104.html",
+    "https://www.deutschlandfunk.de/notstand-in-argentinien-wegen-wochenlanger-waldbraende-ausgerufen-100.html",
+    "https://www.deutschlandfunk.de/panama-hafenvertraege-von-hongkonger-konzern-annulliert-100.html"
   ],
   "content_hashes": [
-    "353991d9c98928c3d755d27d46c1b460",
-    "3db9bee7ac013ab7d76b41c4799a6b68",
     "f15fb22783eb01449d2f8ec82691090f",
     "b6f3e1a2d9b5473c87f5e2418c1c45fb",
     "cba638e2bcb7aa3e8f684b02133644fb",
@@ -2001,11 +1999,11 @@
     "d4ab2be687fc714c8df15291499537ff",
     "7282424dde968aceaa6342568437f031",
     "6b573f8851616e26d30df005e21d467c",
-    "3b1faa174768fc34182b92148429b177"
+    "3b1faa174768fc34182b92148429b177",
+    "89a490560fbcc382ea09e140a4861e72",
+    "0f47a135277abb1827946da7591bfe40"
   ],
   "titles": [
-    "Liveblog Innenpolitik: SPD in Brandenburg kündigt Koalition mit BSW auf",
-    "Seeon - Klausur der CSU-Bundestagsabgeordneten hat begonnen",
     "US-Justizministerium - Noch mehr als zwei Millionen Epstein-Akten nicht veröffentlicht",
     "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten hat begonnen",
     "Übernahme-Poker um Thyssenkrupp Steel - IG Metall fordert indischen Jindal-Konzern zum Handeln auf",
@@ -3003,11 +3001,11 @@
     "Spannungen mit USA - Irans Außenminister: Bereit für Verhandlungen und für Krieg",
     "Bundeswehrdienst - SPD-Frauen gegen Zwang für Frauen, den Fragebogen auszufüllen",
     "Länderkammer - Widerruf per Mausklick, Greenwashing, Bundeswehr - die Beschlüsse des Bundesrats",
-    "Streit um KI-Einsatz - Deutsche Synchronsprecherinnen und -sprecher boykottieren Netflix"
+    "Streit um KI-Einsatz - Deutsche Synchronsprecherinnen und -sprecher boykottieren Netflix",
+    "Südamerika - Notstand in Argentinien wegen wochenlanger Waldbrände ausgerufen",
+    "Lateinamerika - Panama: Hafenverträge von Hongkonger Konzern annulliert"
   ],
   "hashes": [
-    "4d9a418ce0d27f1dc0b740c29eb401be",
-    "52967f2272ea2ff42f86e25eaeb37bd8",
     "171fdc21f209697d499e616a2a05ea4a",
     "74e7b36c0d9f036771769a4606234ded",
     "fe3763fd9aa66d986515fdba30ea1a3e",
@@ -4005,6 +4003,8 @@
     "34b45a79b642415f32122b63e7e6ce09",
     "68979ee1c68e61fedbb8bf808b4301c7",
     "d92ace336653257869fe6c06f829a266",
-    "b0d55243e50234aae3d79b481d127349"
+    "b0d55243e50234aae3d79b481d127349",
+    "f43f68762511a4ff43034f12bd6cb439",
+    "387cb1c75f3f5cb052ab54188cf5c3de"
   ]
 }
