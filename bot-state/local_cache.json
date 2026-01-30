@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dax-erreicht-allzeithoch-100.html",
-    "https://www.spiegel.de/politik/deutschland/friedrich-merz-das-steht-im-kanzler-brief-an-seine-regierungspartner-a-ebadf214-cd09-4fb5-9a31-8b8e40e60d70#ref=rss",
-    "https://www.deutschlandfunk.de/zahl-der-toten-nach-protesten-im-iran-steigt-102.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-nimmt-teil-112.html",
     "https://www.deutschlandfunk.de/traditionelle-winterklausur-der-csu-bundestagsabgeordneten-100.html",
     "https://www.deutschlandfunk.de/papst-leo-xiv-beendet-das-heilige-jahr-102.html",
     "https://www.deutschlandfunk.de/letztes-springen-der-vierschanzentournee-in-bischofshofen-topfavorit-prevc-gewinnt-qualifikation-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/verdi-ruft-zu-nahverkehr-warnstreiks-am-montag-auf-100.html",
     "https://www.deutschlandfunk.de/trump-droht-kanada-in-flugzeug-streit-mit-zoellen-und-zulassungsentzug-100.html",
     "https://www.deutschlandfunk.de/lobbyverband-die-familienunternehmer-draengt-auf-schnelle-kostensenkungen-fuer-betriebe-100.html",
-    "https://www.faz.net/aktuell/politik/inland/ist-die-afd-eine-volkspartei-accg-200270891.html"
+    "https://www.faz.net/aktuell/politik/inland/ist-die-afd-eine-volkspartei-accg-200270891.html",
+    "https://www.deutschlandfunk.de/deutsche-wirtschaft-ende-2025-um-0-3-prozent-gewachsen-100.html",
+    "https://www.deutschlandfunk.de/warnstreiks-im-nahverkehr-am-montag-102.html",
+    "https://www.deutschlandfunk.de/selenskyj-termin-fuer-naechste-verhandlungen-koennte-sich-verschieben-100.html",
+    "https://www.deutschlandfunk.de/opposition-zu-jahreswirtschaftsbericht-von-wirtschaftswende-keine-spur-102.html"
   ],
   "content_hashes": [
-    "afbe8f24e15d9a2066a72f6b742fdbf3",
-    "63b232df1fbd3bddb7ef170bb431ae27",
-    "10ad64cd364f125b35a2d925ad6804e9",
-    "67fc378388876c13d2af9f724246948a",
     "d00814841097ef475541ca58ee5aed29",
     "6cd7d11083a5e5be21787431b703ae52",
     "d787bed3fd8ba5567bdaeeb5b4a3bae9",
@@ -2001,13 +1997,13 @@
     "8fea081f7cc496f260483ac5c215273a",
     "fe1bc7cc3b72c58f2feeb8ea77b23435",
     "91dfabfdee0d954d755e9c48f2db7d31",
-    "28c957d0ffa2169ee8a5ae0411992707"
+    "28c957d0ffa2169ee8a5ae0411992707",
+    "be7b662f6e04812f8c406906447d37d7",
+    "0bf4d78ebd774e69ffbf44a09913ca66",
+    "fa207595ef0f70ec781a38be4358ccfa",
+    "f15800c2dbe9f920245d68a98b514b9d"
   ],
   "titles": [
-    "Börse in Frankfurt am Main - Dax erreicht Allzeithoch",
-    "Friedrich Merz: Das steht im Kanzler-Brief an seine Regierungspartner",
-    "Wirtschaftskrise und Regimekritik - Zahl der Toten nach Protesten im Iran steigt",
-    "Ukraine-Treffen in Paris - Bundeskanzler Merz nimmt teil",
     "Kloster Seeon - Traditionelle Winterklausur der CSU-Bundestagsabgeordneten",
     "Zeremonie in Rom - Papst Leo XIV beendet das Heilige Jahr",
     "Skispringen - Letztes Springen der Vierschanzentournee in Bischofshofen - Topfavorit Prevc gewinnt Qualifikation",
@@ -3003,13 +2999,13 @@
     "Tarifstreit - Verdi ruft zu Nahverkehr-Warnstreiks am Montag auf",
     "USA - Trump droht Kanada in Flugzeug-Streit mit Zöllen und Zulassungsentzug",
     "Konjunktur - Lobbyverband \"Die Familienunternehmer\" drängt auf schnelle Kostensenkungen für Betriebe",
-    "Höhenflug in Umfragen: Ist die AfD eine Volkspartei?"
+    "Höhenflug in Umfragen: Ist die AfD eine Volkspartei?",
+    "Konjunktur - Deutsche Wirtschaft Ende 2025 um 0,3 Prozent gewachsen",
+    "Einschränkungen bundesweit - Warnstreiks im Nahverkehr am Montag",
+    "Ukraine-Gespräche - Selenskyj: Termin für nächste Verhandlungen könnte sich verschieben",
+    "Bundestag - Opposition zu Jahreswirtschaftsbericht: Von Wirtschaftswende keine Spur"
   ],
   "hashes": [
-    "79a17cf51abc00621222117f1733a9c9",
-    "cf7f91f479772fdf5c600ca1d51f3990",
-    "04b926dd431c2e56563e88bf2ddad038",
-    "68e5e21a7a441b440dda9f34d8df10b5",
     "0e5865139583ff2a0a7ade5b4b6e2311",
     "7fae89e48cb2d9c454483edf4c1bfa6c",
     "cae68c6a0f965685fe7d0a95500414b5",
@@ -4005,6 +4001,10 @@
     "aa33105127aa846b1a433e2c4fad585c",
     "28a9847137c6bdb935126b2c0b09e03f",
     "277029f00e75f978e12cbbdeb76a8c4c",
-    "382ba8f0b2c9039896316b7c6e84e67a"
+    "382ba8f0b2c9039896316b7c6e84e67a",
+    "f2a91470b0435637bf8135ba0810f835",
+    "8e837fdcf9e9f73b0c618c15716854c4",
+    "a3d9c79e2d62da98fcdf279ce2749bdb",
+    "59c3f5ddb2651c5e1ba87d4207da002d"
   ]
 }
