@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-oppositionspolitiker-machado-und-gonz-lez-muessen-teil-des-demokratischen-uebergangs-sein-102.html",
-    "https://www.deutschlandfunk.de/brandenburgs-finanzminister-crumbach-tritt-aus-bsw-aus-100.html",
-    "https://www.deutschlandfunk.de/mehrere-millionen-unterschriften-gesammelt-100.html",
     "https://www.deutschlandfunk.de/dringlichkeitssitzung-des-uno-sicherheitsrats-auf-antrag-venezuelas-102.html",
     "https://www.deutschlandfunk.de/wadephul-verteidigt-haltung-der-bundesregierung-nach-us-angriff-auf-venezuela-102.html",
     "https://www.spiegel.de/politik/bundesregierung-reagiert-scharf-auf-russischen-spruch-ueber-entfuehrung-von-kanzler-merz-a-489484c6-85d9-4db0-9784-5124a17f83ee#ref=rss",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/uebergangshaushalt-der-usa-laeuft-aus-trump-administration-verhandelt-mit-demokratischer-partei-104.html",
     "https://www.deutschlandfunk.de/gruenes-licht-fuer-export-von-abgeschiedenem-co2-zur-einlagerung-irak-mandat-der-bundeswehr-verlaeng-102.html",
     "https://www.deutschlandfunk.de/kanzler-merz-einstufung-der-revolutionsgarden-als-terrororganisation-ist-klares-signal-104.html",
-    "https://www.deutschlandfunk.de/koalitionspolitiker-schlagen-hoehere-tabaksteuer-vor-102.html"
+    "https://www.deutschlandfunk.de/koalitionspolitiker-schlagen-hoehere-tabaksteuer-vor-102.html",
+    "https://www.deutschlandfunk.de/weisses-haus-meldet-haushalts-einigung-zur-abwendung-eines-shutdowns-100.html",
+    "https://www.deutschlandfunk.de/rki-meldet-rsv-welle-100.html",
+    "https://www.deutschlandfunk.de/bundesstatistiker-veroeffentlichen-konjunkturdaten-fuer-das-4-quartal-100.html"
   ],
   "content_hashes": [
-    "300bc36701093a1539e8ac3dd5049ca7",
-    "a0177f6028a304ecef0698b6375e92d7",
-    "54f2e2940459084c29fe4831a497382b",
     "66b828faf725c0dbb2c48b89ee8223b7",
     "b2c9f8f03d7904d429e3e04dee043ad8",
     "5da5eb3509910f2cba99cdccb2800a77",
@@ -2001,12 +1998,12 @@
     "e854a82f3a672d35af67a1ace3f9de62",
     "c877c1e81beb24d6a3730d450b4588af",
     "bd2b8196752470caf125005e44ce94d0",
-    "389ea7730f921ca9d39263263c58a5a9"
+    "389ea7730f921ca9d39263263c58a5a9",
+    "c37ff29aab959cb4ff55c7839aa98a0a",
+    "2511d77c90ab5d5fec41c77e63300a18",
+    "89dcc65c6142e421bd58d27c4d826350"
   ],
   "titles": [
-    "Venezuela - EU: Oppositionspolitiker Machado und González müssen Teil des demokratischen Übergangs sein",
-    "Potsdam - Brandenburgs Finanzminister Crumbach tritt aus BSW aus",
-    "Forderung nach Böllerverbot - Mehrere Millionen Unterschriften gesammelt",
     "Nach Maduro-Festnahme - Dringlichkeitssitzung des UNO-Sicherheitsrats auf Antrag Venezuelas",
     "Vilnius - Wadephul verteidigt Haltung der Bundesregierung nach US-Angriff auf Venezuela",
     "Bundesregierung reagiert scharf auf russischen Spruch über Entführung von Kanzler Merz",
@@ -3003,12 +3000,12 @@
     "Drohender Shutdown - Übergangshaushalt der USA läuft aus - Trump-Administration verhandelt mit Demokratischer Partei",
     "Bundestag-Beschlüsse - Grünes Licht für Export von abgeschiedenem CO2 zur Einlagerung - Irak-Mandat der Bundeswehr verlängert",
     "Iran - Kanzler Merz: Einstufung der Revolutionsgarden als Terrororganisation ist \"klares Signal\"",
-    "Zigaretten-Konsum - Koalitionspolitiker schlagen höhere Tabaksteuer vor"
+    "Zigaretten-Konsum - Koalitionspolitiker schlagen höhere Tabaksteuer vor",
+    "USA - Weißes Haus meldet Haushalts-Einigung zur Abwendung eines \"Shutdowns\"",
+    "Atemwegs-Infektion - RKI meldet RSV-Welle",
+    "Konjunktur - Bundesstatistiker veröffentlichen Konjunkturdaten für das 4. Quartal"
   ],
   "hashes": [
-    "59fd86ebb42c4d405cb5f2d8decc9141",
-    "08b6e225e7dbb5da56751d9034b6f0d5",
-    "1082bf4642e618629af08b4c1c94c30c",
     "6df971d78d88f5f6e5b6b1fcd4a582b2",
     "75f2f2b358deb9bb4b81434c19eeb21d",
     "d668e956527fae4e34ad863905929f87",
@@ -4005,6 +4002,9 @@
     "666ea41638edc5dbb8f46e9585a5690b",
     "90415dd8846fcc60232e9171dfc606dc",
     "1a115d53ecb316c923bde09bd99f9a69",
-    "4c0b8c1c6775056cb875a6df174f6be4"
+    "4c0b8c1c6775056cb875a6df174f6be4",
+    "8058184476b47be5c4cc6d8cdbf0f0a0",
+    "c0c25235f65e154f412a58a36e79aa57",
+    "03b9a8d065de39f7f9a51d8f3d3250bf"
   ]
 }
