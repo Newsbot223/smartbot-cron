@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/dreikoenigstreffen-duerr-sieht-liberalen-aufbruch-fuer-deutschland-accg-200413040.html",
-    "https://www.deutschlandfunk.de/inflation-im-gesamtjahr-bei-2-2-prozent-100.html",
     "https://www.deutschlandfunk.de/israels-aussenminister-saar-besucht-somaliland-102.html",
     "https://www.deutschlandfunk.de/proteste-gehen-weiter-sicherheitskraefte-beenden-demonstration-in-teheran-mit-traenengas-100.html",
     "https://www.deutschlandfunk.de/koalition-aus-spd-und-bsw-zerbrochen-cdu-bereit-fuer-gespraeche-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/starke-kursverluste-bei-gold-und-silber-100.html",
     "https://www.deutschlandfunk.de/praesident-vucic-unterzeichnet-gesetze-fuer-justizreform-trotz-kritik-der-eu-100.html",
     "https://www.deutschlandfunk.de/tausende-protestieren-in-minneapolis-erneut-gegen-vorgehen-der-ice-behoerde-100.html",
-    "https://www.deutschlandfunk.de/ostkongo-mehr-als-200-tote-bei-unglueck-in-coltan-mine-100.html"
+    "https://www.deutschlandfunk.de/ostkongo-mehr-als-200-tote-bei-unglueck-in-coltan-mine-100.html",
+    "https://www.deutschlandfunk.de/heizungsindustrie-2025-schwaechster-absatz-seit-15-jahren-100.html",
+    "https://www.deutschlandfunk.de/trump-regierung-billigt-neues-milliarden-ruestungspaket-fuer-israel-100.html"
   ],
   "content_hashes": [
-    "0e00d4bd7d87a25bf84db71c6961743a",
-    "0f3a59b7183281af278069b253761646",
     "572c164c2f00eec965c76d59938ab8a3",
     "3461ed2f9449b2145623e10f78194962",
     "911f35a8b44eb35ebcb394f3074991d6",
@@ -2001,11 +1999,11 @@
     "15e0fea6e53812d7da1363c5dee2f0aa",
     "ceb95f0480706a8dd6ffb830193fca35",
     "0ba46d5f14525894c28ca35b11692794",
-    "4c4d07e06fafbd3970868a79270e7e8f"
+    "4c4d07e06fafbd3970868a79270e7e8f",
+    "00059844a0847ff80b91e8ccfd309be1",
+    "5dc34b54d3e0f757fab57a5fd7084780"
   ],
   "titles": [
-    "Dreikönigstreffen: Dürr sieht „liberalen Aufbruch“ für Deutschland",
-    "Deutschland - Inflation im Gesamtjahr bei 2,2 Prozent",
     "Nach Anerkennung als souveräner Staat - Israels Außenminister Saar besucht Somaliland",
     "Iran - Proteste gehen weiter - Sicherheitskräfte beenden Demonstration in Teheran mit Tränengas",
     "Brandenburg - Koalition aus SPD und BSW zerbrochen - CDU bereit für Gespräche",
@@ -3003,11 +3001,11 @@
     "Börse - Starke Kursverluste bei Gold und Silber",
     "Serbien - Präsident Vucic unterzeichnet Gesetze für Justizreform trotz Kritik der EU",
     "USA - Tausende protestieren in Minneapolis erneut gegen Vorgehen der ICE-Behörde",
-    "Angaben von Rebellen - Ostkongo: Mehr als 200 Tote bei Unglück in Coltan-Mine"
+    "Angaben von Rebellen - Ostkongo: Mehr als 200 Tote bei Unglück in Coltan-Mine",
+    "Heizungsindustrie: 2025 schwächster Absatz seit 15 Jahren",
+    "Washington - Trump-Regierung billigt neues Milliarden-Rüstungspaket für Israel"
   ],
   "hashes": [
-    "66dc62568d3830909fba5f09cb1ff5de",
-    "735bd54b55668524aba72c56bc4ba828",
     "e17c31cd2e996df14f5f45f8b191e6a3",
     "5e049ac53c2288b4e1c4f264eab05e3c",
     "083240428d80bbfa3c5a0160fa6b28b0",
@@ -4005,6 +4003,8 @@
     "b204b05933d3f779701f6257ce598df7",
     "09d6a3dab8f78275ce1752b2f7328c71",
     "9cdf794ec9766b338192f9e33c4c48a5",
-    "3036ed872d7da99061c26eddaa4af798"
+    "3036ed872d7da99061c26eddaa4af798",
+    "546ccf9351ee12992164cfa5b71b4f4a",
+    "63d78dc2fd5d28b6b645d05bb6832f83"
   ]
 }
