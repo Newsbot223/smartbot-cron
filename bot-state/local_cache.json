@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/italien-will-offenbar-mercosur-abkommen-unterzeichnen-100.html",
-    "https://www.deutschlandfunk.de/festgenommener-soll-alle-drei-kaeltebusse-angezuendet-haben-100.html",
-    "https://www.deutschlandfunk.de/italien-will-mercosur-abkommen-unterzeichnen-100.html",
     "https://www.deutschlandfunk.de/ein-toter-bei-protesten-gegen-wehrpflicht-fuer-ultraorthodoxe-in-jerusalem-100.html",
     "https://www.deutschlandfunk.de/polizei-durchsucht-sparkasse-nach-tresoreinbruch-100.html",
     "https://www.deutschlandfunk.de/deutschland-frankreich-und-polen-beraten-ueber-ukraine-hilfe-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/stahlstadt-duisburg-arbeit-wandel-und-die-frage-nach-der-zukunft-102.html",
     "https://www.aljazeera.com/video/money-works/2026/1/31/has-brexit-achieved-its-objectives-six-years-on?traffic_source=rss",
     "https://www.deutschlandfunk.de/iran-streitkraefte-in-volle-verteidigungs-und-kampfbereitschaft-versetzt-102.html",
-    "https://www.deutschlandfunk.de/spiegel-recherche-muslimische-influencer-verbeiten-fragwuerdiges-frauenbild-100.html"
+    "https://www.deutschlandfunk.de/spiegel-recherche-muslimische-influencer-verbeiten-fragwuerdiges-frauenbild-100.html",
+    "https://www.deutschlandfunk.de/usa-warnen-iran-vor-riskanten-aktionen-bei-manoever-in-meerenge-102.html",
+    "https://www.deutschlandfunk.de/neue-epstein-akten-bringen-handelsminister-lutnick-in-erklaerungsnot-102.html",
+    "https://www.deutschlandfunk.de/synodaler-weg-der-katholischen-kirche-verabschiedet-abschlusserklaerung-reformen-sollen-weitergehen-102.html"
   ],
   "content_hashes": [
-    "4ca946cf0acd1202ab48150373cde8ec",
-    "4f72fb0f0a9ed53deb72ff6363f43d17",
-    "0a3f7dc488101d14517675745349711c",
     "022a0a62c0114877572dddf095e14a84",
     "65343f10161d6dc8b42ea5a210e77856",
     "cb35255338f0268f13dd4a9ecd85936a",
@@ -2001,12 +1998,12 @@
     "4bcea3ee4c4e6fb9c519983e1caf4dc7",
     "fe7bd1135afb0dbd4953fb57e60bed6f",
     "d2b6a1b18a8f641b638b773242dc84b4",
-    "e160920b435a02abddec08216a343284"
+    "e160920b435a02abddec08216a343284",
+    "177fa2f7eec3f11470108e66747612c4",
+    "0bbbf30014759b11d16bb2911e91a474",
+    "5216e2a9a8caa46c4928c9806afbcbfb"
   ],
   "titles": [
-    "Nach EU-Zugeständnissen - Italien will offenbar Mercosur-Abkommen unterzeichnen",
-    "Berlin - Festgenommener soll alle drei Kältebusse angezündet haben",
-    "Nach EU-Zugeständnissen - Italien will Mercosur-Abkommen unterzeichnen",
     "Israel - Ein Toter bei Protesten gegen Wehrpflicht für Ultraorthodoxe in Jerusalem",
     "Gelsenkirchen - Polizei durchsucht Sparkasse nach Tresoreinbruch",
     "\"Weimarer Dreieck\" - Deutschland, Frankreich und Polen beraten über Ukraine-Hilfe",
@@ -3003,12 +3000,12 @@
     "Stahlstadt Duisburg - Arbeit, Wandel und die Frage nach der Zukunft",
     "Has Brexit achieved its objectives six years on?",
     "Golfregion - Iran: Streitkräfte in volle Verteidigungs- und Kampfbereitschaft versetzt",
-    "Islam auf TikTok - Spiegel-Recherche: Muslimische Influencer verbeiten fragwürdiges Frauenbild"
+    "Islam auf TikTok - Spiegel-Recherche: Muslimische Influencer verbeiten fragwürdiges Frauenbild",
+    "Golfregion - USA warnen Iran vor riskanten Aktionen bei Manöver in Meerenge",
+    "USA - Neue Epstein-Akten bringen Handelsminister Lutnick in Erklärungsnot",
+    "Stuttgart - Synodaler Weg der katholischen Kirche verabschiedet Abschlusserklärung - Reformen sollen weitergehen"
   ],
   "hashes": [
-    "cf1731581696476a40da3dde816f7969",
-    "6b78c5e13428020b4023cf251ca76dcf",
-    "861ecad7eb4920551dfc9237e4c6ccfb",
     "f315bbd4616032b257dbb9862fef65e9",
     "c2ac246f6331adcb023122df3ded81c9",
     "e5f58047b876527571f5a90d8081eda0",
@@ -4005,6 +4002,9 @@
     "864fa90b4b35cdcb8d3a2303687fffa6",
     "207847f914acf8f473c7471be0f64695",
     "6631b9e7be812a0ffdf526bd6ad7e475",
-    "7169f342a1bd2597b584339342a4f73a"
+    "7169f342a1bd2597b584339342a4f73a",
+    "e7a12259a43a37c8cca1e9476b4693a3",
+    "d2f32b7a6b5158dd1748d91bf50b01d8",
+    "fd7c184e3db4339372b0087b006d4a43"
   ]
 }
