@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ein-toter-bei-protesten-gegen-wehrpflicht-fuer-ultraorthodoxe-in-jerusalem-100.html",
-    "https://www.deutschlandfunk.de/polizei-durchsucht-sparkasse-nach-tresoreinbruch-100.html",
-    "https://www.deutschlandfunk.de/deutschland-frankreich-und-polen-beraten-ueber-ukraine-hilfe-100.html",
     "https://www.deutschlandfunk.de/eu-landwirtschaftsminister-diskutieren-ueber-agrarpolitik-und-mercosur-abkommen-100.html",
     "https://www.deutschlandfunk.de/us-regierung-und-venezuela-sprechen-ueber-oelexporte-in-die-usa-102.html",
     "https://www.deutschlandfunk.de/bayer-verklagt-hersteller-wegen-patentverletzung-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/spiegel-recherche-muslimische-influencer-verbeiten-fragwuerdiges-frauenbild-100.html",
     "https://www.deutschlandfunk.de/usa-warnen-iran-vor-riskanten-aktionen-bei-manoever-in-meerenge-102.html",
     "https://www.deutschlandfunk.de/neue-epstein-akten-bringen-handelsminister-lutnick-in-erklaerungsnot-102.html",
-    "https://www.deutschlandfunk.de/synodaler-weg-der-katholischen-kirche-verabschiedet-abschlusserklaerung-reformen-sollen-weitergehen-102.html"
+    "https://www.deutschlandfunk.de/synodaler-weg-der-katholischen-kirche-verabschiedet-abschlusserklaerung-reformen-sollen-weitergehen-102.html",
+    "https://www.deutschlandfunk.de/usa-warnen-iran-vor-riskanten-aktionen-bei-manoever-in-meerenge-teheran-versetzt-streitkraefte-in-vo-100.html",
+    "https://www.deutschlandfunk.de/mehrere-explosionen-gemeldet-ursache-unklar-104.html",
+    "https://www.deutschlandfunk.de/ice-gewalt-minneapolis-minnesota-gruende-100.html"
   ],
   "content_hashes": [
-    "022a0a62c0114877572dddf095e14a84",
-    "65343f10161d6dc8b42ea5a210e77856",
-    "cb35255338f0268f13dd4a9ecd85936a",
     "bf2f72f4acdc4adcf364f1a1ea11e997",
     "ba27e4fea99e54d0cce1c29000e1d3cb",
     "4e083cae83ed20685455f119629eb0fa",
@@ -2001,12 +1998,12 @@
     "e160920b435a02abddec08216a343284",
     "177fa2f7eec3f11470108e66747612c4",
     "0bbbf30014759b11d16bb2911e91a474",
-    "5216e2a9a8caa46c4928c9806afbcbfb"
+    "5216e2a9a8caa46c4928c9806afbcbfb",
+    "3b7b88724ea64b3df959dab5ae76125b",
+    "5015551f4cc8d0616df03009d66bade0",
+    "bf245a558b3a247b0e2eb59ca28a4450"
   ],
   "titles": [
-    "Israel - Ein Toter bei Protesten gegen Wehrpflicht für Ultraorthodoxe in Jerusalem",
-    "Gelsenkirchen - Polizei durchsucht Sparkasse nach Tresoreinbruch",
-    "\"Weimarer Dreieck\" - Deutschland, Frankreich und Polen beraten über Ukraine-Hilfe",
     "Brüssel - EU-Landwirtschaftsminister diskutieren über Agrarpolitik und Mercosur-Abkommen",
     "Insiderberichte - US-Regierung und Venezuela sprechen über Ölexporte in die USA",
     "Corona-Impfstoffe - Bayer verklagt Hersteller wegen Patentverletzung",
@@ -3003,12 +3000,12 @@
     "Islam auf TikTok - Spiegel-Recherche: Muslimische Influencer verbeiten fragwürdiges Frauenbild",
     "Golfregion - USA warnen Iran vor riskanten Aktionen bei Manöver in Meerenge",
     "USA - Neue Epstein-Akten bringen Handelsminister Lutnick in Erklärungsnot",
-    "Stuttgart - Synodaler Weg der katholischen Kirche verabschiedet Abschlusserklärung - Reformen sollen weitergehen"
+    "Stuttgart - Synodaler Weg der katholischen Kirche verabschiedet Abschlusserklärung - Reformen sollen weitergehen",
+    "Golfregion - USA warnen Iran vor riskanten Aktionen bei Manöver in Meerenge - Teheran versetzt Streitkräfte in \"volle Verteidigungs- und Kampfbereitschaft\"",
+    "Iran - Mehrere Explosionen gemeldet - Ursache unklar",
+    "ICE in Minnesota - Welche Agenda Trump mit dem ICE-Einsatz verfolgt"
   ],
   "hashes": [
-    "f315bbd4616032b257dbb9862fef65e9",
-    "c2ac246f6331adcb023122df3ded81c9",
-    "e5f58047b876527571f5a90d8081eda0",
     "2ca25ef18b36ccdeb23c0a25aca3b11b",
     "1682b8dbe2ab273fdbd851df7440b16c",
     "4fe71934ef361822df4e0cacbee04805",
@@ -4005,6 +4002,9 @@
     "7169f342a1bd2597b584339342a4f73a",
     "e7a12259a43a37c8cca1e9476b4693a3",
     "d2f32b7a6b5158dd1748d91bf50b01d8",
-    "fd7c184e3db4339372b0087b006d4a43"
+    "fd7c184e3db4339372b0087b006d4a43",
+    "7ba201b07f7740b3dee9e672b5293f28",
+    "bf9a0bd064d90e84685d0edcf771bac7",
+    "8583d39ed1f7f5c395661b22fe9ba291"
   ]
 }
