@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/teilung-des-westjordanlands-israel-macht-weg-fuer-umstrittenes-siedlungsprojekt-e1-bei-jerusalem-fre-100.html",
-    "https://www.deutschlandfunk.de/spd-kritik-an-csu-vorstoss-kinder-gehoeren-nicht-vor-gericht-100.html",
     "https://www.spiegel.de/panorama/justiz/aschaffenburg-zeuge-des-attentats-zur-festnahme-ausgeschrieben-a-76979f06-0857-4cfd-a82e-bbc0eac5e5c0#ref=rss",
     "https://www.deutschlandfunk.de/us-regierung-erneuert-forderung-nach-kontrolle-ueber-groenland-100.html",
     "https://www.faz.net/aktuell/politik/inland/bamf-zahlen-so-viele-asyl-folgeantraege-wie-nie-zuvor-accg-110814659.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/flaechendeckende-stromausfaelle-in-der-ukraine-und-in-moldau-zum-teil-behoben-100.html",
     "https://www.deutschlandfunk.de/aegypten-mahnt-israel-und-hamas-zu-zurueckhaltung-100.html",
     "https://www.deutschlandfunk.de/neue-chefdiplomatin-der-usa-in-venezuela-eingetroffen-100.html",
-    "https://www.deutschlandfunk.de/katars-regierungschef-al-thani-zu-gespraechen-im-iran-100.html"
+    "https://www.deutschlandfunk.de/katars-regierungschef-al-thani-zu-gespraechen-im-iran-100.html",
+    "https://www.deutschlandfunk.de/irakisches-parlament-soll-neuen-praesidenten-bestimmen-100.html",
+    "https://www.deutschlandfunk.de/costa-rica-waehlt-neues-staatsoberhaupt-100.html"
   ],
   "content_hashes": [
-    "d66dd6fa838125bee2cd656c30db9b2b",
-    "4701138cb883d396ad97828b824d38d1",
     "b130a32e7c1b4fa1b1ce4d6fc2ec1872",
     "2d2c2886851f61dab6666e31fe6b57cd",
     "cec1c02e6c77eace26b331526092681e",
@@ -2001,11 +1999,11 @@
     "f94d8285611ecea23b135689626f25f5",
     "80752d525d61bee2a727fa99f1690338",
     "2b0cbc73be7d76d545aa83f0f81efd46",
-    "77b572a1aa9f573e75608472a9b15563"
+    "77b572a1aa9f573e75608472a9b15563",
+    "2656f162fd72185ecbf4188d4b617db8",
+    "c65a131b9ed1b7928e7e49e65cc08675"
   ],
   "titles": [
-    "Jerusalem - Teilung des Westjordanlands: Israel macht Weg für umstrittenes Siedlungsprojekt E1 bei Jerusalem frei",
-    "\"Verantwortungsverfahren\" - SPD-Kritik an CSU-Vorstoß: \"Kinder gehören nicht vor Gericht\"",
     "Aschaffenburg: Zeuge des Attentats zur Festnahme ausgeschrieben",
     "Königreich Dänemark - US-Regierung erneuert Forderung nach Kontrolle über Grönland",
     "Rekord in 2025: So viele Asyl-Folgeanträge wie nie zuvor",
@@ -3003,11 +3001,11 @@
     "Technische Störung - Flächendeckende Stromausfälle in der Ukraine und in Moldau zum Teil behoben",
     "Kairo - Ägypten mahnt Israel und Hamas zu Zurückhaltung",
     "Caracas - Neue Chefdiplomatin der USA in Venezuela eingetroffen",
-    "Teheran - Katars Regierungschef al-Thani zu Gesprächen im Iran"
+    "Teheran - Katars Regierungschef al-Thani zu Gesprächen im Iran",
+    "Bagdad - Irakisches Parlament soll neuen Präsidenten bestimmen",
+    "San José - Costa Rica wählt neues Staatsoberhaupt"
   ],
   "hashes": [
-    "dfc31a2f3817976fb51499b2df6d7856",
-    "8cbb5c1c7148a4737867d1bd20cd0c13",
     "a8d002bfa592b2980d3accba052c44f4",
     "74eba1ca7cce85c1079202fc8c8aaf97",
     "e0c51b023431cb99851644415b6cdf20",
@@ -4005,6 +4003,8 @@
     "fa5fb913a8537061bb4df62129f16e2c",
     "ba1e6da78fccf88888d3ee0c6f4b978b",
     "979b90c67d91d6c8403f0d2794237ee7",
-    "9e63d306020a6712f875d539bb050213"
+    "9e63d306020a6712f875d539bb050213",
+    "fd29b80f930ccc7ef5050b4ec40cff4f",
+    "4b997db45caef7404fbbcca6aadbb35b"
   ]
 }
