@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-regierung-und-venezuela-sprechen-ueber-oelexporte-in-die-usa-102.html",
-    "https://www.deutschlandfunk.de/bayer-verklagt-hersteller-wegen-patentverletzung-102.html",
     "https://www.deutschlandfunk.de/drk-fordert-mehr-investitionen-in-bevoelkerungsschutz-102.html",
     "https://www.deutschlandfunk.de/us-regierung-erneuert-besitzansprueche-massiv-102.html",
     "https://www.deutschlandfunk.de/emissionshandel-bringt-deutschland-rekordeinnahmen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-warnen-iran-vor-riskanten-aktionen-bei-manoever-in-meerenge-teheran-versetzt-streitkraefte-in-vo-100.html",
     "https://www.deutschlandfunk.de/mehrere-explosionen-gemeldet-ursache-unklar-104.html",
     "https://www.deutschlandfunk.de/ice-gewalt-minneapolis-minnesota-gruende-100.html",
-    "https://www.deutschlandfunk.de/tausende-bei-demonstrationen-in-bonn-und-duesseldorf-102.html"
+    "https://www.deutschlandfunk.de/tausende-bei-demonstrationen-in-bonn-und-duesseldorf-102.html",
+    "https://www.deutschlandfunk.de/tote-nach-israelischen-angriffen-auf-polizeistation-und-zeltlager-im-gazastreifen-104.html",
+    "https://www.deutschlandfunk.de/flaechendeckende-stromausfaelle-in-der-ukraine-und-in-moldau-zum-teil-behoben-100.html"
   ],
   "content_hashes": [
-    "ba27e4fea99e54d0cce1c29000e1d3cb",
-    "4e083cae83ed20685455f119629eb0fa",
     "307ee025279b54fa468a369e7d9ed48f",
     "01e9ac51a33a39a1e1adfd99aeda7ee0",
     "5c42574f87e5fa79db259c7f0e08c4ae",
@@ -2001,11 +1999,11 @@
     "3b7b88724ea64b3df959dab5ae76125b",
     "5015551f4cc8d0616df03009d66bade0",
     "bf245a558b3a247b0e2eb59ca28a4450",
-    "65939a1fb3532d13b94bc16c2a081d21"
+    "65939a1fb3532d13b94bc16c2a081d21",
+    "4d81ed4bb1cfeee0f36bab9cb6d21fc5",
+    "f94d8285611ecea23b135689626f25f5"
   ],
   "titles": [
-    "Insiderberichte - US-Regierung und Venezuela sprechen über Ölexporte in die USA",
-    "Corona-Impfstoffe - Bayer verklagt Hersteller wegen Patentverletzung",
     "Stromausfall in Berlin - DRK fordert mehr Investitionen in Bevölkerungsschutz",
     "Grönland - US-Regierung erneuert Besitzansprüche massiv",
     "Klimaschutz - Emissionshandel bringt Deutschland Rekordeinnahmen",
@@ -3003,11 +3001,11 @@
     "Golfregion - USA warnen Iran vor riskanten Aktionen bei Manöver in Meerenge - Teheran versetzt Streitkräfte in \"volle Verteidigungs- und Kampfbereitschaft\"",
     "Iran - Mehrere Explosionen gemeldet - Ursache unklar",
     "ICE in Minnesota - Welche Agenda Trump mit dem ICE-Einsatz verfolgt",
-    "Syrien - Tausende bei Demonstrationen in Bonn und Düsseldorf"
+    "Syrien - Tausende bei Demonstrationen in Bonn und Düsseldorf",
+    "Trotz Waffenruhe - Tote nach israelischen Angriffen auf Polizeistation und Zeltlager im Gazastreifen",
+    "Technische Störung - Flächendeckende Stromausfälle in der Ukraine und in Moldau zum Teil behoben"
   ],
   "hashes": [
-    "1682b8dbe2ab273fdbd851df7440b16c",
-    "4fe71934ef361822df4e0cacbee04805",
     "b57d6f724368807f1d39d31e744946bb",
     "45df1f42e2cbc6fbebdf6c10f1c76c66",
     "c8d86313cd0c60157572bc117f6b4afc",
@@ -4005,6 +4003,8 @@
     "7ba201b07f7740b3dee9e672b5293f28",
     "bf9a0bd064d90e84685d0edcf771bac7",
     "8583d39ed1f7f5c395661b22fe9ba291",
-    "a7388dbbb51acc7206354eab23923965"
+    "a7388dbbb51acc7206354eab23923965",
+    "df444cf6c909ffe87a28a35f10ce60e7",
+    "fa5fb913a8537061bb4df62129f16e2c"
   ]
 }
