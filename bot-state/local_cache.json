@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/trumps-aussenpolitik-staerke-kraft-und-macht-110814606.html",
-    "https://www.deutschlandfunk.de/55-soldaten-aus-kuba-und-venezuela-bei-us-einsatz-getoetet-100.html",
-    "https://www.deutschlandfunk.de/slowene-prevc-gewinnt-vierschanzentournee-102.html",
     "https://www.deutschlandfunk.de/verbuendete-einigen-sich-auf-sicherheitsgarantien-100.html",
     "https://www.deutschlandfunk.de/schriften-zum-beginn-der-aufklaerung-werden-digitalisiert-102.html",
     "https://www.deutschlandfunk.de/italien-will-offenbar-mercosur-abkommen-unterzeichnen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ministerin-reiche-fuehrt-gespraeche-in-saudi-arabien-102.html",
     "https://www.deutschlandfunk.de/robert-koch-institut-fast-jeder-zweite-erkrankt-im-leben-an-krebs-102.html",
     "https://www.deutschlandfunk.de/deutsche-synchronsprecher-boykottieren-netflix-100.html",
-    "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss"
+    "https://www.aljazeera.com/news/liveblog/2026/1/31/live-iran-announces-live-fire-naval-drills-near-us-warships-amid-tensions?traffic_source=rss",
+    "https://www.deutschlandfunk.de/fela-kuti-erhaelt-als-erster-afrikaner-einen-grammy-fuer-sein-lebenswerk-102.html",
+    "https://www.deutschlandfunk.de/stahlstadt-duisburg-arbeit-wandel-und-die-frage-nach-der-zukunft-102.html",
+    "https://www.aljazeera.com/video/money-works/2026/1/31/has-brexit-achieved-its-objectives-six-years-on?traffic_source=rss"
   ],
   "content_hashes": [
-    "142f560bba043d121e1da46a82f5e040",
-    "1df5c97450ad8a90ef83010eb63593b2",
-    "4a202358824742f2c2ea564bcebb4741",
     "515e57ac9a5bec484e76506fd89c7fbf",
     "751f64c7bd48ae0a33c6c3ff9c48a55d",
     "4ca946cf0acd1202ab48150373cde8ec",
@@ -2001,12 +1998,12 @@
     "93d9f63d46ac908ee82c434cfc193fad",
     "beda0097777df9c5997ab18c82bc865a",
     "58cc07977512ca2141d989caefcc57d8",
-    "06742075378bd19d3300fda4591a3908"
+    "06742075378bd19d3300fda4591a3908",
+    "a2c191517c202303a885f10410436311",
+    "4bcea3ee4c4e6fb9c519983e1caf4dc7",
+    "fe7bd1135afb0dbd4953fb57e60bed6f"
   ],
   "titles": [
-    "US-Außenpolitik: Stärke, Kraft und Macht",
-    "Neue Bilanz - 55 Soldaten aus Kuba und Venezuela bei US-Einsatz getötet",
-    "Skispringen - Slowene Prevc gewinnt Vierschanzentournee",
     "Ukraine-Gipfel in Paris - Verbündete einigen sich auf Sicherheitsgarantien",
     "Wissenschaftsprojekt - Schriften zum Beginn der Aufklärung werden digitalisiert",
     "Nach EU-Zugeständnissen - Italien will offenbar Mercosur-Abkommen unterzeichnen",
@@ -3003,12 +3000,12 @@
     "Wirtschaft - Ministerin Reiche führt Gespräche in Saudi-Arabien",
     "Weltkrebstag - Robert-Koch-Institut: Fast jeder Zweite erkrankt im Leben an Krebs",
     "Streit um KI-Einsatz - Deutsche Synchronsprecher boykottieren Netflix",
-    "LIVE: Iran announces live-fire naval drills near US warships amid tensions"
+    "LIVE: Iran announces live-fire naval drills near US warships amid tensions",
+    "Afrobeat-Legende - Fela Kuti erhält als erster Afrikaner einen Grammy für sein Lebenswerk",
+    "Stahlstadt Duisburg - Arbeit, Wandel und die Frage nach der Zukunft",
+    "Has Brexit achieved its objectives six years on?"
   ],
   "hashes": [
-    "08934a321aba5c9325a260e7834f47d2",
-    "15c0ba5908e5dbf4dfa05bf6d67c0d41",
-    "7a00ad586391f6ef9e944b583899abcd",
     "3995e2ff3e6bf1a20d93f1ea6665567d",
     "344a81af569799766bfc624c8e9c0e23",
     "cf1731581696476a40da3dde816f7969",
@@ -4005,6 +4002,9 @@
     "ab15d62e97e114b974b83acd840426d4",
     "dc471747f7e7415375d266cd3a441672",
     "afee8613cd23cc6d84a1c4917c0b517d",
-    "0615600c653a63604ddb75e42a70629f"
+    "0615600c653a63604ddb75e42a70629f",
+    "a16e25a8635865363f582d082aa3800d",
+    "864fa90b4b35cdcb8d3a2303687fffa6",
+    "207847f914acf8f473c7471be0f64695"
   ]
 }
