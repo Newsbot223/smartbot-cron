@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-ruft-sicherheitskraefte-auf-nicht-gegen-friedliche-demonstranten-v-100.html",
     "https://www.deutschlandfunk.de/uebergangsregierung-kuendigt-begrenzte-militaeroperation-in-aleppo-an-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-schenkt-40-000-jungen-erwachsenen-europa-zugtickets-100.html",
     "https://www.deutschlandfunk.de/wieder-angriffe-auf-gebaeude-und-infrastruktur-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/zahl-der-todesopfer-nach-brandkatastrophe-auf-41-gestiegen-100.html",
     "https://www.deutschlandfunk.de/mehr-als-100-verletzte-bei-krawallen-in-turin-100.html",
     "https://www.deutschlandfunk.de/serienmoerder-in-pflege-und-medizin-stoppen-opferzahlen-laut-stiftungschef-hoeher-als-bei-organisier-100.html",
-    "https://www.deutschlandfunk.de/wadephul-lassen-uns-vom-iran-nicht-einschuechtern-102.html"
+    "https://www.deutschlandfunk.de/wadephul-lassen-uns-vom-iran-nicht-einschuechtern-102.html",
+    "https://www.deutschlandfunk.de/parlament-im-irak-scheitert-erneut-bei-praesidentenwahl-100.html"
   ],
   "content_hashes": [
-    "fa173a384c1b75c5cfbef4314ef3ecab",
     "72e33b23f53f843586e64902b3840e13",
     "ec2b6eb331451e662677ce0e251edc6d",
     "4dbd02d74b6314dc33ce4ccb2d502231",
@@ -2001,10 +2000,10 @@
     "404d85f7c8c14ecbd58d9ca0adeb84f0",
     "1711f57e79476883feb6df74ff8b74b7",
     "bd6d30fc5309a096e1c92a074835c727",
-    "cb95328bffe28299d3a5cb673b7bc3b7"
+    "cb95328bffe28299d3a5cb673b7bc3b7",
+    "ef4c8e13c93612f56aed603fb61b1f0f"
   ],
   "titles": [
-    "Proteste - Iranischer Präsident Peseschkian ruft Sicherheitskräfte auf, nicht gegen friedliche Demonstranten vorzugehen",
     "Syrien - Übergangsregierung kündigt \"begrenzte Militäroperation\" in Aleppo an",
     "Europa - EU-Kommission schenkt 40.000 jungen Erwachsenen Europa-Zugtickets",
     "Russlands Ukraine-Krieg - Wieder Angriffe auf Gebäude und Infrastruktur",
@@ -3003,10 +3002,10 @@
     "Crans-Montana - Zahl der Todesopfer nach Brandkatastrophe auf 41 gestiegen",
     "Italien - Mehr als 100 Verletzte bei Krawallen in Turin",
     "Patientenschutz - Serienmörder in Pflege und Medizin stoppen: Opferzahlen laut Stiftungschef höher als bei organisierter Kriminalität",
-    "Naher Osten - Wadephul: Lassen uns vom Iran nicht einschüchtern"
+    "Naher Osten - Wadephul: Lassen uns vom Iran nicht einschüchtern",
+    "Bagdad - Parlament im Irak scheitert erneut bei Präsidentenwahl"
   ],
   "hashes": [
-    "9f61371904c84c34a7918b825b4ad646",
     "f791ce0019cc153d28a91fb60d1afa70",
     "52ef17ea364c3341fd59252c5bbb22bf",
     "83c08f7a9c09825d00ab46125d2db675",
@@ -4005,6 +4004,7 @@
     "8fb6bef4e1711aa0242fe4a68ef80138",
     "5f7e2aa110a85e3171adf81ca150863b",
     "0556219210e174abd6b9448255e57252",
-    "8dd5fb760e739b27a72508c38d50ee23"
+    "8dd5fb760e739b27a72508c38d50ee23",
+    "e3295f85486306372600d5b012584bed"
   ]
 }
