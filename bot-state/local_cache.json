@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dax-steigt-erstmals-ueber-25-000-punkte-106.html",
-    "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-fuer-private-erbschaften-und-hoehere-steuern-auf-unternehmens-erbschaften-100.html",
     "https://www.deutschlandfunk.de/armee-sperrt-kurdische-stadtviertel-in-aleppo-ab-100.html",
     "https://www.deutschlandfunk.de/sicherheitsvorkehrungen-nach-brandanschlag-und-morddrohung-gegen-antisemitismusbeauftragten-buettner-100.html",
     "https://www.deutschlandfunk.de/laut-kinoverband-2025-wieder-mehr-tickets-verkauft-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/nach-protesten-gegen-geplante-holocaust-auktion-dokumente-an-stiftung-auschwitz-birkenau-uebergeben-100.html",
     "https://www.aljazeera.com/gallery/2026/2/1/week-in-pictures-from-israels-gaza-killings-to-russian-strikes-in-ukraine?traffic_source=rss",
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-bekraeftigt-wunsch-nach-weiblichem-staatsoberhaupt-102.html",
-    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-engere-zusammenarbeit-deutschlands-und-saudi-arabien-bei-energie-verein-100.html"
+    "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-engere-zusammenarbeit-deutschlands-und-saudi-arabien-bei-energie-verein-100.html",
+    "https://www.deutschlandfunk.de/gerichtsvollzieher-bekommen-schutzwesten-100.html",
+    "https://www.deutschlandfunk.de/israel-untersagt-hilfsorganisation-aerzte-ohne-grenzen-vorerst-einsaetze-im-gazastreifen-102.html"
   ],
   "content_hashes": [
-    "f57e577af658a4deb264bbf8627869e8",
-    "d26e40bfc5c6eb2fe543aeeaf8a850a1",
     "b34c5cc3b659edb0d3e69fb981fb1098",
     "864d575997f1dbe42f26230f7e14305c",
     "3c1a8285074eeaa76e8f11f594ad319b",
@@ -2001,11 +1999,11 @@
     "00db751f7b75a077d4f4d11a75cf67e4",
     "b139663a2d5746d9dfac1a94f87e064a",
     "6f89ef5e38d4cb17724a531b3bca68f5",
-    "abcf638e68cbaf63ef8b2d6639573540"
+    "abcf638e68cbaf63ef8b2d6639573540",
+    "d0de4b0ff6772b5c4d759b86a0f03b29",
+    "37a83c06c9bf9da8c6ff82a5733949f4"
   ],
   "titles": [
-    "Börse - Dax steigt erstmals über 25.000 Punkte",
-    "Erbschaftssteuer - SPD will Lebensfreibetrag für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften",
     "Syrien - Armee sperrt kurdische Stadtviertel in Aleppo ab",
     "Brandenburg - Sicherheitsvorkehrungen nach Brandanschlag und Morddrohung gegen Antisemitismusbeauftragten Büttner erhöht",
     "Filmkultur - Laut Kinoverband 2025 wieder mehr Tickets verkauft",
@@ -3003,11 +3001,11 @@
     "NS-Geschichte - Nach Protesten gegen geplante Holocaust-Auktion: Dokumente an Stiftung Auschwitz-Birkenau übergeben",
     "Week in pictures: From Israel’s Gaza killings to Russian strikes in Ukraine",
     "Interview - Bundestagspräsidentin Klöckner bekräftigt Wunsch nach weiblichem Staatsoberhaupt",
-    "Riad - Wirtschaftsministerin Reiche: Engere Zusammenarbeit Deutschlands und Saudi-Arabien bei Energie vereinbart"
+    "Riad - Wirtschaftsministerin Reiche: Engere Zusammenarbeit Deutschlands und Saudi-Arabien bei Energie vereinbart",
+    "Baden-Württemberg - Gerichtsvollzieher bekommen Schutzwesten",
+    "Palästinener - Israel untersagt Hilfsorganisation Ärzte ohne Grenzen vorerst Einsätze im Gazastreifen"
   ],
   "hashes": [
-    "c55dbe3b6176cacf4c48f00d3fa07aa6",
-    "41906c0c1df35ee11b25e0d679623967",
     "73b327e8a9c91ef8f8b39101c04c66fe",
     "9d4300298b868f62f64fa525f709d189",
     "aab8b93f22d5b04fa3a6d11b7781dce1",
@@ -4005,6 +4003,8 @@
     "0a24306e476bd19f5674cdab7e4b8d18",
     "3f88f3cadd15906499dbb1bb5a3f93e7",
     "c875886d92aebda2ea6cbc90ab473be0",
-    "b31e1fe24a0e0c4944c3332bfe0e34b8"
+    "b31e1fe24a0e0c4944c3332bfe0e34b8",
+    "c169466df0806462276c5b4e9fc659e7",
+    "1b109cd61dad06601720dcc1a123afe1"
   ]
 }
