@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/wirtschaft/soziales/bundesagentur-fuer-arbeit-arbeitslosenzahl-steigt-im-dezember-wieder-a-2800f4a4-256d-490b-a7b5-fbdca8b8f677#ref=rss",
-    "https://www.deutschlandfunk.de/mehr-arbeitslose-im-dezember-nahles-einiges-deutet-darauf-hin-dass-wir-die-talsohle-erreicht-haben-100.html",
     "https://www.deutschlandfunk.de/wie-geht-s-weiter-in-brandenburg-interview-robert-crumbach-finanzminister-100.html",
     "https://www.deutschlandfunk.de/stromausfall-soll-im-lauf-des-tages-behoben-werden-versorgung-angelaufen-100.html",
     "https://www.deutschlandfunk.de/inflation-in-der-eurozone-im-dezember-auf-2-0-prozent-gesunken-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gemischte-bilanz-nach-ende-des-synodalen-wegs-100.html",
     "https://www.faz.net/aktuell/politik/inland/cdu-vize-laumann-kritisiert-wirtschaftsfluegel-seiner-partei-accg-200495056.html",
     "https://www.deutschlandfunk.de/patientenschuetzer-brysch-verbesserungen-fuer-chronisch-kranke-umsetzen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/kloeckner-fordert-mehr-selbstreflexion-von-ard-und-zdf-accg-200495096.html"
+    "https://www.faz.net/aktuell/politik/inland/kloeckner-fordert-mehr-selbstreflexion-von-ard-und-zdf-accg-200495096.html",
+    "https://www.deutschlandfunk.de/irans-praesident-peseschkian-krieg-ist-weder-im-interesse-teherans-noch-washingtons-112.html",
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-fordert-von-ard-und-zdf-mehr-selbstreflexion-100.html"
   ],
   "content_hashes": [
-    "26ab572a82722e0daeb50c80df2b881d",
-    "449b506076d9668d4fc2a6f26c45df75",
     "1189c913dd5695541675af0f1f3822bd",
     "0c248707133c6338420d88ee33dd4285",
     "8244da1288eb739ce742dc98e536ff62",
@@ -2001,11 +1999,11 @@
     "7ae27bc51eac107ea7186d4d5514a20d",
     "d9f6fbfc5f966dc41f52241bb360fb5b",
     "44121db0b755af91ee2a44423b9790ca",
-    "b505e13b088e0b4652d202a3a7d8a930"
+    "b505e13b088e0b4652d202a3a7d8a930",
+    "ade8e4750382566a6f709985690ea2b6",
+    "893727c616cc40ecd9ba161628e40cf4"
   ],
   "titles": [
-    "Bundesagentur für Arbeit: Arbeitslosenzahl steigt im Dezember wieder",
-    "Bundesagentur - Mehr Arbeitslose im Dezember - Nahles: \"Einiges deutet darauf hin, dass wir die Talsohle erreicht haben\"",
     "Brandenburg - Finanzminster Crumbach: Das Land kommt vor der Partei",
     "Berlin - Stromausfall soll im Lauf des Tages behoben werden - Versorgung angelaufen",
     "Eurostat - Inflation in der Eurozone im Dezember auf 2,0 Prozent gesunken",
@@ -3003,11 +3001,11 @@
     "Katholisches Reformprojekt - Gemischte Bilanz nach Ende des Synodalen Wegs",
     "Debatte in der CDU: „Die Deutschen sind nicht faul“",
     "Debatte um Vielzahl von Arztbesuchen - Patientenschützer Brysch: Verbesserungen für chronisch Kranke umsetzen",
-    "Öffentlich-Rechtliche: Klöckner fordert mehr Selbstreflexion von ARD und ZDF"
+    "Öffentlich-Rechtliche: Klöckner fordert mehr Selbstreflexion von ARD und ZDF",
+    "Spannungen mit den USA - Irans Präsident Peseschkian: \"Krieg ist weder im Interesse Teherans noch Washingtons\"",
+    "Öffentlich-rechtlicher Rundfunk - Bundestagspräsidentin Klöckner fordert von ARD und ZDF mehr Selbstreflexion"
   ],
   "hashes": [
-    "b38973530c2d25e0d6c227adc644416b",
-    "e76c3e9adec54f7f639ddcd6c9b321e4",
     "91d334531d7b8bf8fa46c6447c8f52ef",
     "fb75643ff1c37d700a4d4dcb9c0fc663",
     "670a93392d05e2ce27df375c6d305bf2",
@@ -4005,6 +4003,8 @@
     "994769f0d42d3f52a2285cafc602f66a",
     "3a7bc0810399c8e9fdca4ef564fbcdb7",
     "3521be1957af2dc541f5b8a3748be10f",
-    "155b16de90095351b4a038c2d5cf6278"
+    "155b16de90095351b4a038c2d5cf6278",
+    "ab5c2914619c7e5a504f1ce9df0fcc35",
+    "0b3615afa6cc59bb7179507e211522e5"
   ]
 }
