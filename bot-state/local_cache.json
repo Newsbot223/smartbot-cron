@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/armee-sperrt-kurdische-stadtviertel-in-aleppo-ab-100.html",
-    "https://www.deutschlandfunk.de/sicherheitsvorkehrungen-nach-brandanschlag-und-morddrohung-gegen-antisemitismusbeauftragten-buettner-100.html",
-    "https://www.deutschlandfunk.de/laut-kinoverband-2025-wieder-mehr-tickets-verkauft-102.html",
-    "https://www.faz.net/aktuell/politik/ukraine/europa-und-russland-ohne-abschreckung-geht-es-nicht-110814923.html",
     "https://www.deutschlandfunk.de/iranischer-praesident-peseschkian-ruft-sicherheitskraefte-auf-nicht-gegen-friedliche-demonstranten-v-100.html",
     "https://www.deutschlandfunk.de/uebergangsregierung-kuendigt-begrenzte-militaeroperation-in-aleppo-an-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-schenkt-40-000-jungen-erwachsenen-europa-zugtickets-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-bekraeftigt-wunsch-nach-weiblichem-staatsoberhaupt-102.html",
     "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-engere-zusammenarbeit-deutschlands-und-saudi-arabien-bei-energie-verein-100.html",
     "https://www.deutschlandfunk.de/gerichtsvollzieher-bekommen-schutzwesten-100.html",
-    "https://www.deutschlandfunk.de/israel-untersagt-hilfsorganisation-aerzte-ohne-grenzen-vorerst-einsaetze-im-gazastreifen-102.html"
+    "https://www.deutschlandfunk.de/israel-untersagt-hilfsorganisation-aerzte-ohne-grenzen-vorerst-einsaetze-im-gazastreifen-102.html",
+    "https://www.deutschlandfunk.de/zahl-der-todesopfer-nach-brandkatastrophe-auf-41-gestiegen-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-100-verletzte-bei-krawallen-in-turin-100.html",
+    "https://www.deutschlandfunk.de/serienmoerder-in-pflege-und-medizin-stoppen-opferzahlen-laut-stiftungschef-hoeher-als-bei-organisier-100.html",
+    "https://www.deutschlandfunk.de/wadephul-lassen-uns-vom-iran-nicht-einschuechtern-102.html"
   ],
   "content_hashes": [
-    "b34c5cc3b659edb0d3e69fb981fb1098",
-    "864d575997f1dbe42f26230f7e14305c",
-    "3c1a8285074eeaa76e8f11f594ad319b",
-    "571337fe66e9bfeaa054b089f24d7f6d",
     "fa173a384c1b75c5cfbef4314ef3ecab",
     "72e33b23f53f843586e64902b3840e13",
     "ec2b6eb331451e662677ce0e251edc6d",
@@ -2001,13 +1997,13 @@
     "6f89ef5e38d4cb17724a531b3bca68f5",
     "abcf638e68cbaf63ef8b2d6639573540",
     "d0de4b0ff6772b5c4d759b86a0f03b29",
-    "37a83c06c9bf9da8c6ff82a5733949f4"
+    "37a83c06c9bf9da8c6ff82a5733949f4",
+    "404d85f7c8c14ecbd58d9ca0adeb84f0",
+    "1711f57e79476883feb6df74ff8b74b7",
+    "bd6d30fc5309a096e1c92a074835c727",
+    "cb95328bffe28299d3a5cb673b7bc3b7"
   ],
   "titles": [
-    "Syrien - Armee sperrt kurdische Stadtviertel in Aleppo ab",
-    "Brandenburg - Sicherheitsvorkehrungen nach Brandanschlag und Morddrohung gegen Antisemitismusbeauftragten Büttner erhöht",
-    "Filmkultur - Laut Kinoverband 2025 wieder mehr Tickets verkauft",
-    "Russlands Ukrainekrieg: Jetzt kennt Putin den Preis für Frieden",
     "Proteste - Iranischer Präsident Peseschkian ruft Sicherheitskräfte auf, nicht gegen friedliche Demonstranten vorzugehen",
     "Syrien - Übergangsregierung kündigt \"begrenzte Militäroperation\" in Aleppo an",
     "Europa - EU-Kommission schenkt 40.000 jungen Erwachsenen Europa-Zugtickets",
@@ -3003,13 +2999,13 @@
     "Interview - Bundestagspräsidentin Klöckner bekräftigt Wunsch nach weiblichem Staatsoberhaupt",
     "Riad - Wirtschaftsministerin Reiche: Engere Zusammenarbeit Deutschlands und Saudi-Arabien bei Energie vereinbart",
     "Baden-Württemberg - Gerichtsvollzieher bekommen Schutzwesten",
-    "Palästinener - Israel untersagt Hilfsorganisation Ärzte ohne Grenzen vorerst Einsätze im Gazastreifen"
+    "Palästinener - Israel untersagt Hilfsorganisation Ärzte ohne Grenzen vorerst Einsätze im Gazastreifen",
+    "Crans-Montana - Zahl der Todesopfer nach Brandkatastrophe auf 41 gestiegen",
+    "Italien - Mehr als 100 Verletzte bei Krawallen in Turin",
+    "Patientenschutz - Serienmörder in Pflege und Medizin stoppen: Opferzahlen laut Stiftungschef höher als bei organisierter Kriminalität",
+    "Naher Osten - Wadephul: Lassen uns vom Iran nicht einschüchtern"
   ],
   "hashes": [
-    "73b327e8a9c91ef8f8b39101c04c66fe",
-    "9d4300298b868f62f64fa525f709d189",
-    "aab8b93f22d5b04fa3a6d11b7781dce1",
-    "20d35943c2424583e76a94adc1059fde",
     "9f61371904c84c34a7918b825b4ad646",
     "f791ce0019cc153d28a91fb60d1afa70",
     "52ef17ea364c3341fd59252c5bbb22bf",
@@ -4005,6 +4001,10 @@
     "c875886d92aebda2ea6cbc90ab473be0",
     "b31e1fe24a0e0c4944c3332bfe0e34b8",
     "c169466df0806462276c5b4e9fc659e7",
-    "1b109cd61dad06601720dcc1a123afe1"
+    "1b109cd61dad06601720dcc1a123afe1",
+    "8fb6bef4e1711aa0242fe4a68ef80138",
+    "5f7e2aa110a85e3171adf81ca150863b",
+    "0556219210e174abd6b9448255e57252",
+    "8dd5fb760e739b27a72508c38d50ee23"
   ]
 }
