@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erste-touristen-koennen-insel-sokotra-verlassen-100.html",
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-kuendigt-treffen-mit-daenemark-an-100.html",
-    "https://www.faz.net/aktuell/politik/ukraine/munition-fuer-die-ukraine-pragmatiker-andrej-babis-110815089.html",
     "https://www.faz.net/aktuell/politik/inland/nach-dem-berliner-anschlag-mit-angst-ohne-fuehrung-110815087.html",
     "https://www.deutschlandfunk.de/mercosur-handelsabkommen-offenbar-kurz-vor-abschluss-100.html",
     "https://www.deutschlandfunk.de/selenskyj-schliesst-ein-kriegsende-2026-nicht-aus-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/usa-unter-trump/trumps-armada-vor-irans-kueste-muss-khamenei-angst-machen-110829473.html",
     "https://www.deutschlandfunk.de/christlich-demokratische-arbeitnehmerschaft-kritisiert-vorschlaege-des-cdu-wirtschaftrats-100.html",
     "https://www.deutschlandfunk.de/us-justiz-plant-offenbar-keine-weiteren-anklagen-im-fall-epstein-102.html",
-    "https://www.deutschlandfunk.de/ministerpraesident-soeder-fordert-mehr-arbeitsbereitschaft-102.html"
+    "https://www.deutschlandfunk.de/ministerpraesident-soeder-fordert-mehr-arbeitsbereitschaft-102.html",
+    "https://www.deutschlandfunk.de/franzoesische-regierung-muss-sich-heute-im-haushaltsstreit-erneut-misstrauensvoten-stellen-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-100-verletzte-bei-krawallen-in-turin-106.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-beginnt-suedostasienreise-in-singapur-102.html"
   ],
   "content_hashes": [
-    "cdfd5e7b755cfa0e6c32b9927dbe3358",
-    "43bd5f74a16a461d77f72a514a31fd9d",
-    "8b8bbb70208b4523eaa7a951d1569e5c",
     "85e8a5b682e68e6cb63f1951a67088ff",
     "4e1a1ce3c749f14a4bfbd9216213add0",
     "b9ddaf7014c1edbca1e32e55126594b5",
@@ -2001,12 +1998,12 @@
     "daa4ad20aadde51bede99335fd328444",
     "8c52e1da7c3a5c40f269917412184b0f",
     "783285f2928eae776baa2d6bc1f1a328",
-    "9015157a8d2988f450848cf375b2fd9c"
+    "9015157a8d2988f450848cf375b2fd9c",
+    "c9a8f73b2a5f74a9eadf051adfd2796f",
+    "a0c837c4df2c54f7308956752ff55388",
+    "50d45cefbeccbd02549039eaaa8b1fc8"
   ],
   "titles": [
-    "Jemen - Erste Touristen können Insel Sokotra verlassen",
-    "Streit um Grönland - US-Außenminister Rubio kündigt Treffen mit Dänemark an",
-    "Munition für die Ukraine: Babiš zeigt sich als Pragmatiker – und Geschäftsmann",
     "Berliner Anschlag: Mit Angst, ohne Führung",
     "Freihandel mit Südamerika - Mercosur-Handelsabkommen offenbar kurz vor Abschluss",
     "Ukraine - Selenskyj schließt ein Kriegsende 2026 nicht aus",
@@ -3003,12 +3000,12 @@
     "Trump und Iran: Für Khamenei geht es ums Überleben",
     "Einsparungen bei Sozialabgaben - Christlich-Demokratische Arbeitnehmerschaft kritisiert Vorschläge des CDU-Wirtschaftrats",
     "Nach neuen Veröffentlichungen - US-Justiz plant offenbar keine weiteren Anklagen im Fall Epstein",
-    "Diskussion um Krankenstand - Ministerpräsident Söder fordert mehr Arbeitsbereitschaft"
+    "Diskussion um Krankenstand - Ministerpräsident Söder fordert mehr Arbeitsbereitschaft",
+    "Nationalversammlung - Französische Regierung muss sich heute im Haushaltsstreit erneut Misstrauensvoten stellen",
+    "Schließung eines linken Kulturzentrums - Mehr als 100 Verletzte bei Krawallen in Turin",
+    "Gespräche über Zusammenarbeit - Außenminister Wadephul beginnt Südostasienreise in Singapur"
   ],
   "hashes": [
-    "15589b31e7569f81d1f457913ce5b77d",
-    "80d8bc73f8de000aa71960a6cf8c42cd",
-    "7bc84a9a6f520be47d8afe5eb945309e",
     "7fb39b209ef074eb24be8131da4e7337",
     "5bd788509fa85a5347c2c31f0153f99e",
     "0c475297b06a6490b9ad8eec030ce3f6",
@@ -4005,6 +4002,9 @@
     "542b98b06f1b1715ed18f9cefad5f899",
     "781806411306fff3f7d9ef837aaeb40b",
     "5b515db5448bc269b064c13e55be30b5",
-    "8db34285999cf8503df4060b6a359456"
+    "8db34285999cf8503df4060b6a359456",
+    "6e9d0d77abfd8261bcfc1deeb5b6af35",
+    "1342ee3fa7e7f647c0f08a48444f125f",
+    "1cffb4aa822a17fd51c6453a5d635770"
   ]
 }
