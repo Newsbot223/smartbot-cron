@@ -1,11 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/fluechtling-oder-in-wahrheit-is-terrorist-110815842.html",
-    "https://www.deutschlandfunk.de/toedliche-schusse-von-ice-beamten-behoerden-in-minnesota-beklagen-behinderung-bei-ermittlungen-100.html",
-    "https://www.deutschlandfunk.de/eu-stellt-forderungen-an-musks-unternehmen-x-100.html",
-    "https://www.deutschlandfunk.de/venezuela-entlaesst-zahlreiche-haeftlinge-100.html",
-    "https://www.deutschlandfunk.de/grosskundgebung-in-teheran-zusammenstoesse-mit-der-polizei-100.html",
-    "https://www.deutschlandfunk.de/behoerden-verhaengen-ausgangssperre-fuer-viertel-in-aleppo-102.html",
     "https://www.deutschlandfunk.de/vance-europaeer-sollten-trumps-aeusserungen-zu-groenland-ernstnehmen-100.html",
     "https://www.deutschlandfunk.de/eu-staaten-stimmen-heute-ueber-mercosur-abkommen-ab-100.html",
     "https://www.deutschlandfunk.de/brandenburgischer-landtag-beraet-heute-ueber-afd-forderung-nach-neuwahl-100.html",
@@ -999,15 +993,15 @@
     "https://www.deutschlandfunk.de/regierung-weist-russischen-diplomaten-aus-102.html",
     "https://www.deutschlandfunk.de/analyse-eu-droht-engpass-bei-rohstoffen-fuer-energiewende-100.html",
     "https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd-a-84745fc1-e27a-4b2b-a386-abb166792a61#ref=rss",
-    "https://www.faz.net/aktuell/politik/ausland/wiedereroeffnung-des-uebergangs-rafah-keine-normalitaet-in-gaza-110829996.html"
+    "https://www.faz.net/aktuell/politik/ausland/wiedereroeffnung-des-uebergangs-rafah-keine-normalitaet-in-gaza-110829996.html",
+    "https://www.deutschlandfunk.de/zoelle-zwischen-usa-und-indien-sollen-sinken-bald-auch-kein-russisches-oel-mehr-102.html",
+    "https://www.deutschlandfunk.de/merz-pocht-auf-groessere-unabhaengigkeit-der-eu-von-den-usa-106.html",
+    "https://www.deutschlandfunk.de/iran-und-usa-wollen-ueber-atomprogramm-verhandeln-104.html",
+    "https://www.deutschlandfunk.de/epstein-akten-ziehen-immer-weitere-kreise-auch-europaeer-im-fokus-104.html",
+    "https://www.deutschlandfunk.de/konservative-laura-fern-ndez-gewinnt-praesidentschaftswahl-in-costa-rica-104.html",
+    "https://www.deutschlandfunk.de/haushalt-in-frankreich-nach-monatelangem-streit-beschlossen-108.html"
   ],
   "content_hashes": [
-    "b5596ad85440f90b44b7f3cbbfdd5958",
-    "af64f60bcb2b8e63393f5df52518855c",
-    "1f7b0911b1db9d3cb33afda56b0badd8",
-    "4ffefb3803ab6d7202b845871434f7f5",
-    "1b8dec027abfe9c7e8e53ab909223011",
-    "eda5ca5914cf0795b4f52bf44c3089b0",
     "54754730822eec9e38a4d9945f2cc616",
     "c0b672b458d06b6c6f02689818b6e7c3",
     "f2d7897b33f4de58f405bb1f2f47a846",
@@ -2001,15 +1995,15 @@
     "c2d24f4ccb7543ff2159eb322e77a319",
     "c0dc730045cc1ea4c71b277bbdf395c6",
     "9b699a89592febac24f160b98344861c",
-    "79c5d9bafb4c38dd9fe99ca6e39746e0"
+    "79c5d9bafb4c38dd9fe99ca6e39746e0",
+    "769a31bc027e1430ef8412310eb0b9d2",
+    "77535e1a669bcfdebb221cf57364d345",
+    "d1534022a0fd887929c07e47d3ec5fb2",
+    "ca0ed5a4485422ed647e3a3368ba5c8e",
+    "12532812c0385238af74a41e7784f429",
+    "f27b24e72bc4b06805e870b6592226ea"
   ],
   "titles": [
-    "Prozess in Düsseldorf: Flüchtling oder in Wahrheit IS-Terrorist?",
-    "USA - Tödliche Schusse von ICE-Beamten: Behörden in Minnesota beklagen Behinderung bei Ermittlungen",
-    "KI-Chatbot Grok - EU stellt Forderungen an Musks Unternehmen X",
-    "Nach US-Intervention - Venezuela entlässt zahlreiche Häftlinge",
-    "Iran - Großkundgebung in Teheran - Zusammenstöße mit der Polizei",
-    "Syrien - Behörden verhängen Ausgangssperre für Viertel in Aleppo",
     "USA - Vance: Europäer sollten Trumps Äußerungen zu Grönland ernstnehmen",
     "Brüssel - EU-Staaten stimmen heute über Mercosur-Abkommen ab",
     "Nach Koalitionsbruch - Brandenburgischer Landtag berät heute über AfD-Forderung nach Neuwahl",
@@ -3003,15 +2997,15 @@
     "Großbritannien - Regierung weist russischen Diplomaten aus",
     "Europäischer Rechnungshof - Analyse: EU droht Engpass bei Rohstoffen für Energiewende",
     "»Generation Deutschland«: Neue Jugendorganisation liefert Belege für Verfassungsfeindlichkeit der AfD",
-    "Nahost-Konflikt: Keine Normalität in Gaza"
+    "Nahost-Konflikt: Keine Normalität in Gaza",
+    "Handelsabkommen - Zölle zwischen USA und Indien sollen sinken - bald auch kein russisches Öl mehr?",
+    "Deutsche Börse - Merz pocht auf größere Unabhängigkeit der EU von den USA",
+    "Medienberichte - Iran und USA wollen über Atomprogramm verhandeln",
+    "Nach neuer Veröffentlichung - Epstein-Akten ziehen immer weitere Kreise - auch Europäer im Fokus",
+    "Mittelamerika - Konservative Laura Fernández gewinnt Präsidentschaftswahl in Costa Rica",
+    "Nationalversammlung - Haushalt in Frankreich nach monatelangem Streit beschlossen"
   ],
   "hashes": [
-    "51a6c287c055c73d2f80b2d3b1282fb5",
-    "04aaf363ae2a004a6fa55607ba6a1369",
-    "66d3b983be46bb73d274c956fc5de1cf",
-    "f5fb6d5e520d0b3adc8ac4536851ea49",
-    "daa19fc3e936067dd896b2b209f7d3ba",
-    "17ad7bef6392e36d537cf2fac32b9c67",
     "c09e90a0218aa6ef14188b698307c947",
     "98f7cc649efe1b5a06b963bb59d468af",
     "b9260596407ecf4a2c6f388149107c0d",
@@ -4005,6 +3999,12 @@
     "21f7b65cc078fa9b23b955dbd09ce904",
     "f47e02223ad599dae5030bc501f26893",
     "2207903a280b0ef610bd6ead83f54891",
-    "342f954bb6d126ee822aeff4d3a8383d"
+    "342f954bb6d126ee822aeff4d3a8383d",
+    "fb4fed023b64f48f3ee5c78796b0abac",
+    "04f0d6a32becbf3952f807e67f18f5a3",
+    "6c964fb099bc1dc0bfe1c456cd9b7124",
+    "b9086cced5231ccb8dd92f455f10f197",
+    "d30ef5eb65b7bce9f64ff47381b80e7f",
+    "2b59ce1ec284c9f5fd7344bf58c75418"
   ]
 }
