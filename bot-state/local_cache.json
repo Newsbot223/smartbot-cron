@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/nach-dem-berliner-anschlag-mit-angst-ohne-fuehrung-110815087.html",
-    "https://www.deutschlandfunk.de/mercosur-handelsabkommen-offenbar-kurz-vor-abschluss-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-schliesst-ein-kriegsende-2026-nicht-aus-100.html",
     "https://www.deutschlandfunk.de/deutschland-erkennt-mini-staat-niue-in-der-suedsee-an-102.html",
     "https://www.deutschlandfunk.de/zwei-tote-nach-russischem-luftangriff-auf-odessa-102.html",
     "https://www.deutschlandfunk.de/groenland-nimmt-an-treffen-mit-usa-und-daenemark-teil-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ministerpraesident-soeder-fordert-mehr-arbeitsbereitschaft-102.html",
     "https://www.deutschlandfunk.de/franzoesische-regierung-muss-sich-heute-im-haushaltsstreit-erneut-misstrauensvoten-stellen-100.html",
     "https://www.deutschlandfunk.de/mehr-als-100-verletzte-bei-krawallen-in-turin-106.html",
-    "https://www.deutschlandfunk.de/aussenminister-wadephul-beginnt-suedostasienreise-in-singapur-102.html"
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-beginnt-suedostasienreise-in-singapur-102.html",
+    "https://www.deutschlandfunk.de/praesidentschafts-und-parlamentswahlen-in-costa-rica-beendet-100.html",
+    "https://www.deutschlandfunk.de/nigerias-armee-meldet-toetung-von-hochrangigem-kommandeur-der-terrorgruppe-boko-haram-100.html",
+    "https://www.deutschlandfunk.de/ministerpraesident-soeder-fordert-in-diskussion-um-arbeits-und-krankheitstage-mehr-leistungsbereitsc-100.html"
   ],
   "content_hashes": [
-    "85e8a5b682e68e6cb63f1951a67088ff",
-    "4e1a1ce3c749f14a4bfbd9216213add0",
-    "b9ddaf7014c1edbca1e32e55126594b5",
     "581e08180b9d9df2e69ac9614af6eb12",
     "a63799963010c35b8a64cc7fc1082a63",
     "4eeda6c39b5bc56da9a22e21bbeac278",
@@ -2001,12 +1998,12 @@
     "9015157a8d2988f450848cf375b2fd9c",
     "c9a8f73b2a5f74a9eadf051adfd2796f",
     "a0c837c4df2c54f7308956752ff55388",
-    "50d45cefbeccbd02549039eaaa8b1fc8"
+    "50d45cefbeccbd02549039eaaa8b1fc8",
+    "34e47b3867c5db8404077fb87984a990",
+    "7301e539165758dc4f2c213920163e85",
+    "feee7f0aa844ec98dcf36ad89019a7d1"
   ],
   "titles": [
-    "Berliner Anschlag: Mit Angst, ohne Führung",
-    "Freihandel mit Südamerika - Mercosur-Handelsabkommen offenbar kurz vor Abschluss",
-    "Ukraine - Selenskyj schließt ein Kriegsende 2026 nicht aus",
     "So groß wie Erfurt - Deutschland erkennt Mini-Staat Niue in der Südsee an",
     "Ukraine - Zwei Tote nach russischem Luftangriff auf Odessa",
     "Nach Trump-Äußerungen - Grönland nimmt an Treffen mit USA und Dänemark teil",
@@ -3003,12 +3000,12 @@
     "Diskussion um Krankenstand - Ministerpräsident Söder fordert mehr Arbeitsbereitschaft",
     "Nationalversammlung - Französische Regierung muss sich heute im Haushaltsstreit erneut Misstrauensvoten stellen",
     "Schließung eines linken Kulturzentrums - Mehr als 100 Verletzte bei Krawallen in Turin",
-    "Gespräche über Zusammenarbeit - Außenminister Wadephul beginnt Südostasienreise in Singapur"
+    "Gespräche über Zusammenarbeit - Außenminister Wadephul beginnt Südostasienreise in Singapur",
+    "Mittelamerika - Präsidentschafts- und Parlamentswahlen in Costa Rica beendet",
+    "Westafrika - Nigerias Armee meldet Tötung von hochrangigem Kommandeur der Terrorgruppe Boko Haram",
+    "Bayern - Ministerpräsident Söder fordert in Diskussion um Arbeits- und Krankheitstage mehr Leistungsbereitschaft"
   ],
   "hashes": [
-    "7fb39b209ef074eb24be8131da4e7337",
-    "5bd788509fa85a5347c2c31f0153f99e",
-    "0c475297b06a6490b9ad8eec030ce3f6",
     "9f273b36f06806b52c96519f820bda0f",
     "9debf3b7c81672d023e0962d520883bd",
     "cbcd2905c65eb9910895189f98692df7",
@@ -4005,6 +4002,9 @@
     "8db34285999cf8503df4060b6a359456",
     "6e9d0d77abfd8261bcfc1deeb5b6af35",
     "1342ee3fa7e7f647c0f08a48444f125f",
-    "1cffb4aa822a17fd51c6453a5d635770"
+    "1cffb4aa822a17fd51c6453a5d635770",
+    "d94f40b6d785385f8c7586594cb87d8c",
+    "3eed4165068b499f1d263f930c3ba1ad",
+    "c896a74155e00cf2157bfd44d48bad78"
   ]
 }
