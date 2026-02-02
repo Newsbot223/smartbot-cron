@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/proteste-nach-toedlichen-schuessen-eines-ice-beamten-auf-eine-frau-in-minneapolis-100.html",
     "https://www.spiegel.de/panorama/schweinfurt-katze-faehrt-tausende-kilometer-als-blinder-passagier-von-der-tuerkei-a-c8039ff5-a7fe-498d-b0c9-48e945e5e01c#ref=rss",
     "https://www.deutschlandfunk.de/tote-und-grossflaechiger-stromausfall-im-sueden-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/arbeitslosigkeit-in-der-eurozone-geht-leicht-zurueck-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/nach-zahlreichen-austritten-adac-verkehrspraesident-hillebrand-legt-amt-nieder-102.html",
     "https://www.spiegel.de/gesundheit/krebs-was-neue-zahlen-ueber-die-krankheit-verraten-a-e180b702-dbec-4bd5-853f-75615b75d48e#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-warken-lehnt-kuerzungsvorschlag-des-cdu-wirtschaftsrates-ab-faz-110093143.html",
-    "https://www.deutschlandfunk.de/syrische-truppen-ruecken-in-kurden-hochburg-ein-102.html"
+    "https://www.deutschlandfunk.de/syrische-truppen-ruecken-in-kurden-hochburg-ein-102.html",
+    "https://www.deutschlandfunk.de/regierung-weist-russischen-diplomaten-aus-102.html"
   ],
   "content_hashes": [
-    "8b17fea5e2884c05ddac31dc24bcad2d",
     "9e1520ade24dd0c471c3ec51f5fe1d9e",
     "00a626646a0602df5cabfbb119857c12",
     "2ffaaa45d74f1a8fcdbe5d8fb5a77e2e",
@@ -2001,10 +2000,10 @@
     "545a656df7f209537fb9ab471c41d582",
     "fc37cb7387f5c6bb13a51a5cd493d06e",
     "1725fc2595b9ef17d758cfc7272a883e",
-    "1c028b3cc6d0a28ba906adaf591662d5"
+    "1c028b3cc6d0a28ba906adaf591662d5",
+    "c2d24f4ccb7543ff2159eb322e77a319"
   ],
   "titles": [
-    "USA - Proteste nach tödlichen Schüssen eines ICE-Beamten auf eine Frau in Minneapolis",
     "Schweinfurt: Katze fährt Tausende Kilometer als Blinder Passagier von der Türkei",
     "Russischer Angriffskrieg - Tote und großflächiger Stromausfall im Süden der Ukraine",
     "Quote bei 6,3 Prozent - Arbeitslosigkeit in der Eurozone geht leicht zurück",
@@ -3003,10 +3002,10 @@
     "Äußerungen über CO2-Bepreisung - Nach zahlreichen Austritten: ADAC-Verkehrspräsident Hillebrand legt Amt nieder",
     "Krebs: Was neue Zahlen über die Krankheit verraten",
     "Deutschland-Blog: Warken lehnt Kürzungsvorschlag des CDU-Wirtschaftsrates ab",
-    "Hasakeh - Syrische Truppen rücken in Kurden-Hochburg ein"
+    "Hasakeh - Syrische Truppen rücken in Kurden-Hochburg ein",
+    "Großbritannien - Regierung weist russischen Diplomaten aus"
   ],
   "hashes": [
-    "f49157451d71404cc6d0ca6ba00e28b0",
     "db60eb3ab2c980966d791187d2dcce0e",
     "5de6ca91b061f7b6ed8e2275caa7c2e5",
     "e3c18cac6ac5c021329817b8ea7ddbfb",
@@ -4005,6 +4004,7 @@
     "1fed5a1dc263a892cc160495767b57ed",
     "06eeaebb47f01f3c068abff20187952e",
     "fbfee14ca588ae0405f2d467badd6230",
-    "1165fd97066ca79ada92cbf141892a49"
+    "1165fd97066ca79ada92cbf141892a49",
+    "21f7b65cc078fa9b23b955dbd09ce904"
   ]
 }
