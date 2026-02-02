@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/tote-und-grossflaechiger-stromausfall-im-sueden-der-ukraine-100.html",
-    "https://www.deutschlandfunk.de/arbeitslosigkeit-in-der-eurozone-geht-leicht-zurueck-100.html",
     "https://www.faz.net/aktuell/politik/inland/fluechtling-oder-in-wahrheit-is-terrorist-110815842.html",
     "https://www.deutschlandfunk.de/toedliche-schusse-von-ice-beamten-behoerden-in-minnesota-beklagen-behinderung-bei-ermittlungen-100.html",
     "https://www.deutschlandfunk.de/eu-stellt-forderungen-an-musks-unternehmen-x-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-warken-lehnt-kuerzungsvorschlag-des-cdu-wirtschaftsrates-ab-faz-110093143.html",
     "https://www.deutschlandfunk.de/syrische-truppen-ruecken-in-kurden-hochburg-ein-102.html",
     "https://www.deutschlandfunk.de/regierung-weist-russischen-diplomaten-aus-102.html",
-    "https://www.deutschlandfunk.de/analyse-eu-droht-engpass-bei-rohstoffen-fuer-energiewende-100.html"
+    "https://www.deutschlandfunk.de/analyse-eu-droht-engpass-bei-rohstoffen-fuer-energiewende-100.html",
+    "https://www.spiegel.de/politik/deutschland/generation-deutschland-neue-jugendorganisation-liefert-belege-fuer-verfassungsfeindlichkeit-der-afd-a-84745fc1-e27a-4b2b-a386-abb166792a61#ref=rss",
+    "https://www.faz.net/aktuell/politik/ausland/wiedereroeffnung-des-uebergangs-rafah-keine-normalitaet-in-gaza-110829996.html"
   ],
   "content_hashes": [
-    "00a626646a0602df5cabfbb119857c12",
-    "2ffaaa45d74f1a8fcdbe5d8fb5a77e2e",
     "b5596ad85440f90b44b7f3cbbfdd5958",
     "af64f60bcb2b8e63393f5df52518855c",
     "1f7b0911b1db9d3cb33afda56b0badd8",
@@ -2001,11 +1999,11 @@
     "1725fc2595b9ef17d758cfc7272a883e",
     "1c028b3cc6d0a28ba906adaf591662d5",
     "c2d24f4ccb7543ff2159eb322e77a319",
-    "c0dc730045cc1ea4c71b277bbdf395c6"
+    "c0dc730045cc1ea4c71b277bbdf395c6",
+    "9b699a89592febac24f160b98344861c",
+    "79c5d9bafb4c38dd9fe99ca6e39746e0"
   ],
   "titles": [
-    "Russischer Angriffskrieg - Tote und großflächiger Stromausfall im Süden der Ukraine",
-    "Quote bei 6,3 Prozent - Arbeitslosigkeit in der Eurozone geht leicht zurück",
     "Prozess in Düsseldorf: Flüchtling oder in Wahrheit IS-Terrorist?",
     "USA - Tödliche Schusse von ICE-Beamten: Behörden in Minnesota beklagen Behinderung bei Ermittlungen",
     "KI-Chatbot Grok - EU stellt Forderungen an Musks Unternehmen X",
@@ -3003,11 +3001,11 @@
     "Deutschland-Blog: Warken lehnt Kürzungsvorschlag des CDU-Wirtschaftsrates ab",
     "Hasakeh - Syrische Truppen rücken in Kurden-Hochburg ein",
     "Großbritannien - Regierung weist russischen Diplomaten aus",
-    "Europäischer Rechnungshof - Analyse: EU droht Engpass bei Rohstoffen für Energiewende"
+    "Europäischer Rechnungshof - Analyse: EU droht Engpass bei Rohstoffen für Energiewende",
+    "»Generation Deutschland«: Neue Jugendorganisation liefert Belege für Verfassungsfeindlichkeit der AfD",
+    "Nahost-Konflikt: Keine Normalität in Gaza"
   ],
   "hashes": [
-    "5de6ca91b061f7b6ed8e2275caa7c2e5",
-    "e3c18cac6ac5c021329817b8ea7ddbfb",
     "51a6c287c055c73d2f80b2d3b1282fb5",
     "04aaf363ae2a004a6fa55607ba6a1369",
     "66d3b983be46bb73d274c956fc5de1cf",
@@ -4005,6 +4003,8 @@
     "fbfee14ca588ae0405f2d467badd6230",
     "1165fd97066ca79ada92cbf141892a49",
     "21f7b65cc078fa9b23b955dbd09ce904",
-    "f47e02223ad599dae5030bc501f26893"
+    "f47e02223ad599dae5030bc501f26893",
+    "2207903a280b0ef610bd6ead83f54891",
+    "342f954bb6d126ee822aeff4d3a8383d"
   ]
 }
