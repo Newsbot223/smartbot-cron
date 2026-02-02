@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/vereinte-nationen-vergleichen-lage-in-israel-mit-apartheid-system-104.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-kommt-nach-seeon-100.html",
     "https://www.deutschlandfunk.de/irans-praesident-peseschkian-ermahnt-sicherheitskraefte-zur-zurueckhaltung-bei-friedlichen-demonstra-100.html",
     "https://www.deutschlandfunk.de/tennisspiel-waehrend-des-stromausfalls-berlins-regierender-buergermeister-wegner-in-der-kritik-100.html",
     "https://www.deutschlandfunk.de/spd-politiker-drossmann-erst-waffenstillstand-in-der-ukraine-abwarten-dann-ueber-bundeswehr-beteilig-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/von-ice-inhaftierter-fuenfjaehriger-und-sein-vater-wieder-zu-hause-100.html",
     "https://www.deutschlandfunk.de/bundesaussenminister-wadephul-in-singapur-eingetroffen-kooperation-fuer-regelbasierten-handel-versta-100.html",
     "https://www.deutschlandfunk.de/zahl-der-freiwilligen-rueckkehrer-unter-asylsuchenden-gestiegen-102.html",
-    "https://www.deutschlandfunk.de/praesidentschafts-und-parlamentswahlen-in-costa-rica-beendet-rechtsgerichtete-kandidatin-vorn-100.html"
+    "https://www.deutschlandfunk.de/praesidentschafts-und-parlamentswahlen-in-costa-rica-beendet-rechtsgerichtete-kandidatin-vorn-100.html",
+    "https://www.deutschlandfunk.de/warnstreik-sorgt-bundesweit-fuer-einschraenkungen-im-oeffentlichen-nahverkehr-100.html",
+    "https://www.faz.net/aktuell/politik/inland/kloeckner-und-der-rundfunk-talkshow-oder-bundestag-wer-die-agenda-bestimmt-110829547.html"
   ],
   "content_hashes": [
-    "db79b61f4a2538558bb132e4ec1f6034",
-    "a53a4325bd5397182d26168c11f48359",
     "d0d8cbc1bb5d33909a8f99499a57b1ee",
     "dbaff6c06b044e637b0d8b9146ea7909",
     "c65238f524479d1ace9a92f51ed09d96",
@@ -2001,11 +1999,11 @@
     "dbfa500c3cd1f3ba1edcdd229ce81ec3",
     "214ad97f8c1cfa3cfdb0322c2e29144a",
     "95866276d33338c73054cdaeaecd2c26",
-    "cd6993be08fbd7c171cd86da0a39271f"
+    "cd6993be08fbd7c171cd86da0a39271f",
+    "74d4d1c1fe64384ddfc8d4a0137305f4",
+    "14bc3f7353679a587e13d06ad788c873"
   ],
   "titles": [
-    "Umgang mit Palästinensern - Vereinte Nationen vergleichen Lage in Israel mit Apartheid-System",
-    "CSU-Klausur - Bundeskanzler Merz kommt nach Seeon",
     "Tote bei Zusammenstößen - Irans Präsident Peseschkian ermahnt Sicherheitskräfte zur Zurückhaltung bei friedlichen Demonstranten",
     "Krisenmanagement - Tennisspiel während des Stromausfalls: Berlins Regierender Bürgermeister Wegner in der Kritik",
     "Verteidigung - SPD-Politiker Droßmann: Erst Waffenstillstand in der Ukraine abwarten, dann über Bundeswehr-Beteiligung sprechen",
@@ -3003,11 +3001,11 @@
     "USA - Von ICE inhaftierter Fünfjähriger und sein Vater wieder zu Hause",
     "Asienreise - Bundesaußenminister Wadephul in Singapur eingetroffen: \"Kooperation für regelbasierten Handel verstärken\"",
     "Bundesamt für Migration - Zahl der freiwilligen Rückkehrer unter Asylsuchenden gestiegen",
-    "Mittelamerika - Präsidentschafts- und Parlamentswahlen in Costa Rica beendet - rechtsgerichtete Kandidatin vorn"
+    "Mittelamerika - Präsidentschafts- und Parlamentswahlen in Costa Rica beendet - rechtsgerichtete Kandidatin vorn",
+    "Aufruf durch Verdi - Warnstreik sorgt bundesweit für Einschränkungen im öffentlichen Nahverkehr",
+    "Klöckner und Rundfunk: Talkshow oder Bundestag – wer die Agenda bestimmt"
   ],
   "hashes": [
-    "8e339cd020f3e6ec2b527e4eaa363263",
-    "f99c6a4b2f9293ebf77f8ca3a24aa17c",
     "5044fb6e6fc4a721c6474c2f10099526",
     "17384629644b055b790efcf8b10b8743",
     "2c50ef2ff7462633ae78c2325b6e32b0",
@@ -4005,6 +4003,8 @@
     "30c109e4dca92af933f6baeb36e45881",
     "c0f34e476ba9f4c76554385db42d25f9",
     "042f1bf941993a47ddc2914ff85c4136",
-    "af60059eda3aecee5f1a8d9661f26b86"
+    "af60059eda3aecee5f1a8d9661f26b86",
+    "5bfd5ee4cb6e924ec54e5406d5bb885e",
+    "6a8c5b28e0adf258acac2de2b51acfcb"
   ]
 }
