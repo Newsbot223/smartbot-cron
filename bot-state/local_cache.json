@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ein-echter-meilenstein-wirtschaft-freut-sich-ueber-mercosur-abkommen-mit-suedamerika-nach-mehr-als-2-100.html",
-    "https://www.deutschlandfunk.de/soeder-fordert-von-koalition-reformen-ohne-ruecksicht-auf-landtagswahlen-und-afd-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-hersteller-von-wegwerf-kleidung-an-entsorgungskosten-beteiligen-altkleidersamml-100.html",
     "https://www.deutschlandfunk.de/fachpolitiker-fordern-hoehere-steuern-auf-alkohol-110.html",
     "https://www.deutschlandfunk.de/machtkampf-zwischen-kurden-und-uebergangsregierung-heftige-gefechte-aus-aleppo-nach-ablauf-von-waffe-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/urteil-nach-handgranaten-wuerfen-nahe-israelischer-botschaft-102.html",
     "https://www.faz.net/aktuell/politik/inland/u-bahn-mord-in-hamburg-wieder-einmal-110830631.html",
     "https://www.deutschlandfunk.de/us-parlament-ebnet-weg-fuer-ende-des-shutdowns-102.html",
-    "https://www.deutschlandfunk.de/britische-polizei-eroeffnet-ermittlungsverfahren-gegen-frueheren-eu-handelskommissar-mandelson-100.html"
+    "https://www.deutschlandfunk.de/britische-polizei-eroeffnet-ermittlungsverfahren-gegen-frueheren-eu-handelskommissar-mandelson-100.html",
+    "https://www.deutschlandfunk.de/shutdown-beendet-trump-unterzeichnet-haushaltsgesetz-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-bricht-zu-erster-reise-in-die-golfregion-auf-100.html"
   ],
   "content_hashes": [
-    "263e6cbab987afa038e30941caed5394",
-    "ff7e68e619dc5173efaa52897cc63f80",
     "61033354a5af9b0cf7ecafad5afa2c4a",
     "de1647d5ad6de06c3bc54243161b9716",
     "edbbbb5f31bcc6e24692659690b03607",
@@ -2001,11 +1999,11 @@
     "01ef367df85ed0b05d1d87e4d2058f33",
     "9464a499594d94115c556dfc5860df74",
     "7e2e8d15d6592687460bc9f4519cfd27",
-    "2001171e2198db9895c5e379d4b456a2"
+    "2001171e2198db9895c5e379d4b456a2",
+    "164ce95c0a3123a7a3cc17d67a7f29b6",
+    "fe1fedf4a0b7321f3e5c727fa0d47daa"
   ],
   "titles": [
-    "EU - \"Ein echter Meilenstein\": Wirtschaft freut sich über Mercosur-Abkommen mit Südamerika nach mehr als 25 Jahren Verhandlungen",
-    "Bundespolitik - Söder fordert von Koalition Reformen ohne Rücksicht auf Landtagswahlen und AfD",
     "Fast Fashion - Bundesregierung will Hersteller von Wegwerf-Kleidung an Entsorgungskosten beteiligen: \"Altkleidersammlung funktioniert nicht mehr\"",
     "Bundesregierung - Fachpolitiker fordern höhere Steuern auf Alkohol",
     "Syrien - Machtkampf zwischen Kurden und Übergangsregierung: Heftige Gefechte aus Aleppo nach Ablauf von Waffenruhe gemeldet",
@@ -3003,11 +3001,11 @@
     "Schweden - Urteil nach Handgranaten-Würfen nahe israelischer Botschaft",
     "Hamburger U-Bahn-Mord: Wieder einmal",
     "Washington - US-Parlament ebnet Weg für Ende des Shutdowns",
-    "Epstein-Files - Britische Polizei eröffnet Ermittlungsverfahren gegen früheren EU-Handelskommissar Mandelson"
+    "Epstein-Files - Britische Polizei eröffnet Ermittlungsverfahren gegen früheren EU-Handelskommissar Mandelson",
+    "USA - Shutdown beendet - Trump unterzeichnet Haushaltsgesetz",
+    "Saudi-Arabien - Bundeskanzler Merz bricht zu erster Reise in die Golfregion auf"
   ],
   "hashes": [
-    "d03bd257df03e408e33ce6c4ef7a22cf",
-    "bb6886e4ebbcd20be375d6267f3cdef3",
     "9039ba4b1ef4bdfaca57561e94f40e28",
     "d90d4885ccfedfae0a31caa14cceaf82",
     "d2317f90df96dbb03c1aadfbff7084b0",
@@ -4005,6 +4003,8 @@
     "ab5d6be9edd48e1417c5a662b13f232e",
     "4230e880f2cb16eb2d60812646d81fd8",
     "555771f0ab6fb67ed661e38e307af198",
-    "d35afbfafad1af1d13a2a0cd56738ad5"
+    "d35afbfafad1af1d13a2a0cd56738ad5",
+    "99efc6049a0a094508fcc6d87050ee1a",
+    "7f18fb0fcbe0608e742d48ee82ad638e"
   ]
 }
