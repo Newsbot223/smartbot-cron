@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/proteste-nach-toedlichen-schuessen-in-minneapolis-halten-an-102.html",
-    "https://www.deutschlandfunk.de/nach-stromausfall-in-berlin-kommunen-fordern-vom-bund-blackout-reserve-100.html",
     "https://www.deutschlandfunk.de/ein-echter-meilenstein-wirtschaft-freut-sich-ueber-mercosur-abkommen-mit-suedamerika-nach-mehr-als-2-100.html",
     "https://www.deutschlandfunk.de/soeder-fordert-von-koalition-reformen-ohne-ruecksicht-auf-landtagswahlen-und-afd-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-hersteller-von-wegwerf-kleidung-an-entsorgungskosten-beteiligen-altkleidersamml-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/usa-schiessen-iranische-drohne-ab-116.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-fuenf-jahre-kandidaturverbot-fuer-le-pen-102.html",
     "https://www.deutschlandfunk.de/urteil-nach-handgranaten-wuerfen-nahe-israelischer-botschaft-102.html",
-    "https://www.faz.net/aktuell/politik/inland/u-bahn-mord-in-hamburg-wieder-einmal-110830631.html"
+    "https://www.faz.net/aktuell/politik/inland/u-bahn-mord-in-hamburg-wieder-einmal-110830631.html",
+    "https://www.deutschlandfunk.de/us-parlament-ebnet-weg-fuer-ende-des-shutdowns-102.html",
+    "https://www.deutschlandfunk.de/britische-polizei-eroeffnet-ermittlungsverfahren-gegen-frueheren-eu-handelskommissar-mandelson-100.html"
   ],
   "content_hashes": [
-    "a61b7345647b26fd49b946f818039df0",
-    "f4df93d80a33cce949ea8e87b29d6d67",
     "263e6cbab987afa038e30941caed5394",
     "ff7e68e619dc5173efaa52897cc63f80",
     "61033354a5af9b0cf7ecafad5afa2c4a",
@@ -2001,11 +1999,11 @@
     "abf18eda17dcb672dbf1ed9a588517ac",
     "a1a6373e80ae05efaedde8f99f66da57",
     "01ef367df85ed0b05d1d87e4d2058f33",
-    "9464a499594d94115c556dfc5860df74"
+    "9464a499594d94115c556dfc5860df74",
+    "7e2e8d15d6592687460bc9f4519cfd27",
+    "2001171e2198db9895c5e379d4b456a2"
   ],
   "titles": [
-    "USA - Proteste nach tödlichen Schüssen in Minneapolis halten an",
-    "Städtetag - Nach Stromausfall in Berlin: Kommunen fordern vom Bund \"Blackout-Reserve\"",
     "EU - \"Ein echter Meilenstein\": Wirtschaft freut sich über Mercosur-Abkommen mit Südamerika nach mehr als 25 Jahren Verhandlungen",
     "Bundespolitik - Söder fordert von Koalition Reformen ohne Rücksicht auf Landtagswahlen und AfD",
     "Fast Fashion - Bundesregierung will Hersteller von Wegwerf-Kleidung an Entsorgungskosten beteiligen: \"Altkleidersammlung funktioniert nicht mehr\"",
@@ -3003,11 +3001,11 @@
     "Arabisches Meer - USA schießen iranische Drohne ab",
     "Frankreich - Staatsanwaltschaft fordert fünf Jahre Kandidaturverbot für Le Pen",
     "Schweden - Urteil nach Handgranaten-Würfen nahe israelischer Botschaft",
-    "Hamburger U-Bahn-Mord: Wieder einmal"
+    "Hamburger U-Bahn-Mord: Wieder einmal",
+    "Washington - US-Parlament ebnet Weg für Ende des Shutdowns",
+    "Epstein-Files - Britische Polizei eröffnet Ermittlungsverfahren gegen früheren EU-Handelskommissar Mandelson"
   ],
   "hashes": [
-    "d71aa077d0a6b0d83c58d5c966289493",
-    "ee1eea71428518d47196d2bfab6559b0",
     "d03bd257df03e408e33ce6c4ef7a22cf",
     "bb6886e4ebbcd20be375d6267f3cdef3",
     "9039ba4b1ef4bdfaca57561e94f40e28",
@@ -4005,6 +4003,8 @@
     "492723e1c5be551f3f7e12fd398db202",
     "c97877baf852fe95bddb5db319d39201",
     "ab5d6be9edd48e1417c5a662b13f232e",
-    "4230e880f2cb16eb2d60812646d81fd8"
+    "4230e880f2cb16eb2d60812646d81fd8",
+    "555771f0ab6fb67ed661e38e307af198",
+    "d35afbfafad1af1d13a2a0cd56738ad5"
   ]
 }
