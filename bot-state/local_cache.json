@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/nationaler-trauertag-zum-gedenken-an-die-toten-von-crans-montana-100.html",
-    "https://www.deutschlandfunk.de/venezuela-kuendigt-freilassung-politischer-haeftlinge-an-100.html",
-    "https://www.deutschlandfunk.de/damaskus-fordert-kurdische-kaempfer-zum-verlassen-aleppos-auf-und-kuendigt-voruebergehend-waffenruhe-100.html",
-    "https://www.deutschlandfunk.de/vance-relativiert-trumps-drohungen-gegen-groenland-102.html",
     "https://www.deutschlandfunk.de/landtag-tagt-nach-koalitionsbruch-afd-fordert-neuwahlen-100.html",
     "https://www.deutschlandfunk.de/tote-und-verletzte-durch-russische-angriffe-auf-kiew-100.html",
     "https://www.deutschlandfunk.de/berichte-treffen-zu-groenland-im-weissen-haus-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/haushalt-in-frankreich-nach-monatelangem-streit-beschlossen-108.html",
     "https://www.deutschlandfunk.de/bundesweite-tarifverhandlungen-in-chemie-industrie-beginnen-100.html",
     "https://www.deutschlandfunk.de/deutschland-nimmt-diplomatische-beziehungen-zur-suedseeinsel-niue-auf-100.html",
-    "https://www.deutschlandfunk.de/linken-chefin-wirft-bundesregierung-mangelnde-unterstuetzung-der-iranischen-opposition-102.html"
+    "https://www.deutschlandfunk.de/linken-chefin-wirft-bundesregierung-mangelnde-unterstuetzung-der-iranischen-opposition-102.html",
+    "https://www.deutschlandfunk.de/iran-expertin-sahebi-erwartet-abkommen-mit-den-usa-regime-in-teheran-fuerchtet-um-seine-existenz-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-50-angriffe-auf-pressevertreter-in-deutschland-im-vergangenen-jahr-100.html",
+    "https://www.deutschlandfunk.de/einwanderungsrazzien-bundesbeamte-in-minneapolis-bekommen-koerperkameras-100.html",
+    "https://www.faz.net/aktuell/politik/inland/hamburger-u-bahn-mord-wider-kontrollverlust-110829906.html"
   ],
   "content_hashes": [
-    "7a244de8f0c321c81c32c49eb05bfe71",
-    "56f2022bc8031d077eb20b76462e275c",
-    "2d75a91b121984a4590138fe81fbd1e0",
-    "836f891f9d3fecf4ddaefa955498ea82",
     "2061183b416b513f7e0947b03e88dd47",
     "763ecb88d25f20606b0bfb1cc5480cc3",
     "ffadf185e6d88a7443d3dac1b52ff30e",
@@ -2001,13 +1997,13 @@
     "f27b24e72bc4b06805e870b6592226ea",
     "a3eda9d49031cff26f923571611d3810",
     "30a98e415a3e4b01a5f063dd485ecd51",
-    "a2e7ab7c970d74c5162ca04596e24d0b"
+    "a2e7ab7c970d74c5162ca04596e24d0b",
+    "ce416d509ea9b5f27f9248baaf2e55ba",
+    "b29fc7f2960810acf3db2cdbbe07b197",
+    "86d2842032f3685fcadacbab0f89b235",
+    "33e5708d9beb322a905b88bd7fceb5bc"
   ],
   "titles": [
-    "Brandkatastrophe - Nationaler Trauertag zum Gedenken an die Toten von Crans-Montana",
-    "Nach US-Intervention - Venezuela kündigt Freilassung politischer Häftlinge an",
-    "Syrien - Damaskus fordert kurdische Kämpfer zum Verlassen Aleppos auf und kündigt vorübergehend Waffenruhe dazu an",
-    "USA - Vance relativiert Trumps Drohungen gegen Grönland",
     "Brandenburg - Landtag tagt nach Koalitionsbruch - AfD fordert Neuwahlen",
     "Ukraine - Tote und Verletzte durch russische Angriffe auf Kiew",
     "Washington - Berichte: Treffen zu Grönland im Weißen Haus",
@@ -3003,13 +2999,13 @@
     "Nationalversammlung - Haushalt in Frankreich nach monatelangem Streit beschlossen",
     "Für 585.000 Beschäftigte - Bundesweite Tarifverhandlungen in Chemie-Industrie beginnen",
     "Pazifik-Region - Deutschland nimmt diplomatische Beziehungen zur Südseeinsel Niue auf",
-    "Islamistisches Regime - Linken-Chefin wirft Bundesregierung mangelnde Unterstützung der iranischen Opposition"
+    "Islamistisches Regime - Linken-Chefin wirft Bundesregierung mangelnde Unterstützung der iranischen Opposition",
+    "Verhandlungen in Istanbul - Iran-Expertin Sahebi erwartet Abkommen mit den USA: \"Regime in Teheran fürchtet um seine Existenz\"",
+    "\"Reporter ohne Grenzen\" - Mehr als 50 Angriffe auf Pressevertreter in Deutschland im vergangenen Jahr",
+    "USA - Einwanderungsrazzien: Bundesbeamte in Minneapolis bekommen Körperkameras",
+    "Hamburger u-Bahn-Mord: Wider den Kontrollverlust"
   ],
   "hashes": [
-    "e779cff613f557a92daad45ee95bea2a",
-    "2d829b94f5019a56b44f797f4492a7ac",
-    "5a78bf608528b6d17398df060515d06c",
-    "b56486c8fc59db5f074faedec94ed83c",
     "57fdf32e5d07277f7979e76b6eb445db",
     "ba01c6c15549b3f50efee81a9484e51d",
     "a0dd612629242ab36bceea824f78a920",
@@ -4005,6 +4001,10 @@
     "2b59ce1ec284c9f5fd7344bf58c75418",
     "b629d5c811ef5b6eb837ab9812880f90",
     "7121a65cf17714b22d1b79003568ae7b",
-    "b90ccf9f4af946d4d61d150be4df62fa"
+    "b90ccf9f4af946d4d61d150be4df62fa",
+    "8392a4e5c10ba875e1c4cc4aa8e79310",
+    "079501372096a83414d3afb243fac553",
+    "cea137d40cf2481fbd8cb375132b3e55",
+    "00c020e33c2a176f53291d8ca6b5588f"
   ]
 }
