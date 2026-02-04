@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kuendigt-massnahmenpaket-gegen-linksextremismus-an-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-getoeteten-demonstranten-im-iran-steigt-laut-aktivisten-auf-mehr-als-100.html",
-    "https://www.deutschlandfunk.de/syrische-armee-verkuendet-ende-des-einsatzes-in-aleppo-102.html",
     "https://www.deutschlandfunk.de/zweite-runde-der-parlamentswahl-in-myanmar-hat-begonnen-102.html",
     "https://www.deutschlandfunk.de/us-militaer-meldet-weitere-angriffe-auf-is-ziele-in-syrien-100.html",
     "https://www.deutschlandfunk.de/braende-in-patagonien-weiten-sich-aus-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/inhaftierte-friedensnobelpreistraegerin-mohammadi-tritt-in-hungerstreik-120.html",
     "https://www.deutschlandfunk.de/epstein-akten-werden-zur-politischen-belastung-fuer-britische-regierung-104.html",
     "https://www.deutschlandfunk.de/usa-und-iran-einigen-sich-auf-verlegung-der-gespraeche-in-den-oman-102.html",
-    "https://www.deutschlandfunk.de/59-jaehriger-zu-lebenslanger-haft-nach-attentatsversuch-auf-trump-verurteilt-100.html"
+    "https://www.deutschlandfunk.de/59-jaehriger-zu-lebenslanger-haft-nach-attentatsversuch-auf-trump-verurteilt-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-setzt-besuch-der-golfstaaten-fort-100.html",
+    "https://www.deutschlandfunk.de/cdu-aendert-antrag-zu-teilzeit-fuer-den-bundesparteitag-102.html",
+    "https://www.deutschlandfunk.de/warnstreiks-werden-heute-fortgesetzt-100.html"
   ],
   "content_hashes": [
-    "98c9515f19b1efd655db44f2e47c97a9",
-    "d86445fc2eac6bc3db05b0b88810b4d1",
-    "d47cca1b63ad8191b5034fd55efd19ac",
     "d3f74d70539ce704d098555135d3745b",
     "f9cc5e605418885dc078c768f0630c18",
     "4f1306b9b8a8df3595f2d1f9f3e00086",
@@ -2001,12 +1998,12 @@
     "3c4fa27e810a2693e0a6237e97ff5740",
     "da6eb42d3869de0c4366a46a733aff7e",
     "04bbe33ddccf71e79e10d37b2b36dd7f",
-    "49b117c0500901c22a07f7598ece70e8"
+    "49b117c0500901c22a07f7598ece70e8",
+    "d7e0dd1d25e9cd5ab2fcfcf338621baf",
+    "4f491513c3082f3355f034310f05f249",
+    "893c95c4a8fb75d5401c5d6381c80a6a"
   ],
   "titles": [
-    "Nach Strom-Anschlag - Bundesinnenminister Dobrindt kündigt Maßnahmenpaket gegen Linksextremismus an",
-    "Proteste gegen das Regime - Zahl der getöteten Demonstranten im Iran steigt laut Aktivisten auf mehr als 100",
-    "Nach tagelangen Kämpfen - Syrische Armee verkündet Ende des Einsatzes in Aleppo",
     "Myanmar - Zweite Runde der Parlamentswahl in Myanmar hat begonnen",
     "Syrien - US-Militär meldet weitere Angriffe auf IS-Ziele in Syrien",
     "Argentinien - Brände in Patagonien weiten sich aus",
@@ -3003,12 +3000,12 @@
     "Iran - Inhaftierte Friedensnobelpreisträgerin Mohammadi tritt in Hungerstreik",
     "Millionen Unterlagen veröffentlicht - Epstein-Akten werden zur politischen Belastung für britische Regierung",
     "Atomverhandlungen - USA und Iran einigen sich auf Verlegung der Gespräche in den Oman",
-    "Strafmaß verkündet - 59-Jähriger zu lebenslanger Haft nach Attentatsversuch auf Trump verurteilt"
+    "Strafmaß verkündet - 59-Jähriger zu lebenslanger Haft nach Attentatsversuch auf Trump verurteilt",
+    "Katar und Vereinigte Arabische Emirate - Bundeskanzler Merz setzt Besuch der Golfstaaten fort",
+    "Nach Kritik - CDU ändert Antrag zu Teilzeit für den Bundesparteitag",
+    "Tarifkonflikt im Öffentlichen Dienst - Warnstreiks werden heute fortgesetzt"
   ],
   "hashes": [
-    "a2693394f64329b82f787087e7693e1d",
-    "c3be65139d25d741138f00f663c33fdd",
-    "d4bf593e6843d1c5e78adcb4c1a6a830",
     "08b9decb2ad94e1e295e2e2e2e428b78",
     "32c2553ff9d2306adfa8e41922e7f189",
     "62d75e35c95de50c0f26cb052319c62d",
@@ -4005,6 +4002,9 @@
     "7ef7f73a45bb825d136811dfa8347b87",
     "597fa204f901e5a3853e1ee68f19d064",
     "dd20dc5ee663baa3f049481a29b4f612",
-    "5bfc891cd02a6cea854a2193a9e43be2"
+    "5bfc891cd02a6cea854a2193a9e43be2",
+    "a04114cfd97049107f55e0fd5b10d0f4",
+    "214ba79381af2946f08c47fc9de41a99",
+    "deea82a6f8470e249cfd69fa11f10432"
   ]
 }
