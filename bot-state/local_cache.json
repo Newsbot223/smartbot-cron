@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/proteste-im-iran-dauern-an-staatsfuehrung-verschaerft-drohung-gegen-demonstranten-100.html",
-    "https://www.deutschlandfunk.de/syrische-armee-meldet-kontrolle-ueber-aleppo-kurdische-kaempfer-dementieren-102.html",
     "https://www.deutschlandfunk.de/ukrainischer-maidan-aktivist-nayyem-wir-trauen-diesem-friedensprozess-nicht-100.html",
     "https://www.deutschlandfunk.de/ein-echter-meilenstein-wirtschaftsverbaende-freuen-sich-ueber-zustimmung-zum-mercosur-abkommen-mit-s-100.html",
     "https://www.deutschlandfunk.de/schah-sohn-ruft-zu-neuen-protesten-im-iran-auf-staatsfuehrung-verschaerft-drohung-gegen-demonstrante-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/inflation-in-eurozone-faellt-auf-tiefsten-stand-seit-100.html",
     "https://www.deutschlandfunk.de/papst-fordert-fortsetzung-des-new-start-vertrags-100.html",
     "https://www.deutschlandfunk.de/ermittlungen-gegen-afd-politiker-dornau-100.html",
-    "https://www.deutschlandfunk.de/sprecherin-der-missbrauchsbetroffenen-tritt-zurueck-104.html"
+    "https://www.deutschlandfunk.de/sprecherin-der-missbrauchsbetroffenen-tritt-zurueck-104.html",
+    "https://www.deutschlandfunk.de/telekom-eroeffnet-mit-nvidia-ausgebautes-ki-rechenzentrum-100.html",
+    "https://www.aljazeera.com/video/newsfeed/2026/2/4/video-shows-man-fighting-high-school-students-at-anti-ice-protest?traffic_source=rss"
   ],
   "content_hashes": [
-    "8c998a501a68b26975b9f7eedb89b37f",
-    "a7c619d7140ccc3d2d46eba67a14eb72",
     "444590e7837f46abab479e3f549ac514",
     "aacad84df0d856dac6aeaa7026520e5e",
     "04c24c30bfef055c9c983d65c8d924ca",
@@ -2001,11 +1999,11 @@
     "56582297b2ce6592f43937017b04ee6d",
     "637b4af42a7f26e2b987195ba32a6ba4",
     "4a27078a6a81c4f5911908eae48b6fad",
-    "d541502fa8770de93da8806175a108c2"
+    "d541502fa8770de93da8806175a108c2",
+    "aae7c814e46f8c26fd034652e65d8cbf",
+    "19ad09a061b4d81e1c01731b1b28a650"
   ],
   "titles": [
-    "Zweiter Abend in Folge - Proteste im Iran dauern an: Staatsführung verschärft Drohung gegen Demonstranten",
-    "Anhaltende Gefechte - Syrische Armee meldet Kontrolle über Aleppo - Kurdische Kämpfer dementieren",
     "Interview der Woche - Ukrainischer Maidan-Aktivist Nayyem: \"Wir trauen diesem Friedensprozess nicht\"",
     "Nach 25 Jahren Verhandlungen - \"Ein echter Meilenstein\": Wirtschaftsverbände freuen sich über Zustimmung zum Mercosur-Abkommen mit Südamerika",
     "Aus dem Exil - Schah-Sohn ruft zu neuen Protesten im Iran auf - Staatsführung verschärft Drohung gegen Demonstranten",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Inflation in Eurozone fällt auf tiefsten Stand seit 2021",
     "Atomare Abrüstung - Papst fordert Fortsetzung des \"New Start\"-Vertrags",
     "Sachsen - Ermittlungen gegen AfD-Politiker Dornau",
-    "Evangelische Kirche - Sprecherin der Missbrauchsbetroffenen tritt zurück"
+    "Evangelische Kirche - Sprecherin der Missbrauchsbetroffenen tritt zurück",
+    "München - Telekom eröffnet mit Nvidia ausgebautes KI-Rechenzentrum",
+    "Video shows man fighting high school students at anti-ICE protest"
   ],
   "hashes": [
-    "851293a74c09387417c694ccde689dab",
-    "96781198ec1b5b48172d6b5190fec0c6",
     "8faf34b7a95ea2d69706e9e608512c26",
     "1f821efc8975285ddad30ccacfa86e73",
     "79bfcf36d83e808f8d772db708c6f38c",
@@ -4005,6 +4003,8 @@
     "33cef82ee94be8c8fc11bde0b1bb2fd9",
     "01aee3e07129792598d674a2926c36ee",
     "fbf690c8f7bcb7df82aa4248202167ad",
-    "9c892baee8e8fcef7240e2daf95bec40"
+    "9c892baee8e8fcef7240e2daf95bec40",
+    "fc74f350ecbfd9f6db232f18ea65e4b7",
+    "262543a38841c2032ae11abd79354373"
   ]
 }
