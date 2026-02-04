@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-kiew-moskauer-staatsterrorismus-110816906.html",
-    "https://www.deutschlandfunk.de/lage-in-ukraine-spitzt-sich-wegen-extremer-kaelte-und-russischer-angriffe-auf-energieversorgung-zu-100.html",
     "https://www.deutschlandfunk.de/maidan-aktivist-nayyem-wir-trauen-diesem-friedensprozess-nicht-100.html",
     "https://www.deutschlandfunk.de/streitkraefte-chinas-russlands-und-des-irans-halten-einwoechige-marineuebung-vor-suedafrikas-kueste--100.html",
     "https://www.spiegel.de/politik/deutschland/gesundheitspolitik-hoehere-alkoholpreise-durch-steuererhoehung-gefordert-a-cffdfe0c-9734-496b-bc1b-f6c2fbd382c9#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/anteil-von-e-autos-in-deutschland-waechst-aber-zu-langsam-102.html",
     "https://www.deutschlandfunk.de/spacex-laesst-seine-traegerrakete-falcon-9-vorerst-am-boden-102.html",
     "https://www.deutschlandfunk.de/wadephul-erwartet-mehr-europaeische-anstrengungen-zum-schutz-der-kleinen-inselstaaten-im-pazifik-104.html",
-    "https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/saudi-arabien-katar-vae-gruene-verlangen-von-friedrich-merz-klare-worte-gegenueber-scheichs-a-0c4425ea-1edd-4f47-a51f-004011b45045#ref=rss",
+    "https://www.deutschlandfunk.de/ihw-praesident-gropp-fuerchtet-negative-folgen-fuer-die-wirtschaft-im-fall-eines-afd-wahlsiegs-100.html",
+    "https://www.deutschlandfunk.de/praesident-trump-unterzeichnet-haushaltsgesetz-100.html"
   ],
   "content_hashes": [
-    "87525d3185caad311c2270f5cf4b0925",
-    "b873e067a06b148f54ac3fb564ac168b",
     "49644ac0d7b4584928ad88029fe41de6",
     "6c2c229f6c1efa8274371eccd214456a",
     "a200ca554e965bfe6ec0c2c4cb12c32b",
@@ -2001,11 +1999,11 @@
     "e0888fff701f755d000ca53e77df4f71",
     "04dcc34199db8e0e806c804a723fc8f1",
     "e2622e860d6e8608f5e58cea4ddfe0b3",
-    "3f88767ed048fd7a9029b52459090fe2"
+    "3f88767ed048fd7a9029b52459090fe2",
+    "e0d17462c0415c65cd6eaee42c37b00c",
+    "9ea1df06dee6f0613b6a8244d55010de"
   ],
   "titles": [
-    "Luftangriffe auf die Ukraine: Staatsterrorismus aus Moskau",
-    "Ohne Heizung, Strom, Wasser - Lage in Ukraine spitzt sich wegen extremer Kälte und russischer Angriffe auf Energieversorgung zu",
     "Interview der Woche - Maidan-Aktivist Nayyem: \"Wir trauen diesem Friedensprozess nicht\"",
     "BRICS plus - Streitkräfte Chinas, Russlands und des Irans halten einwöchige Marineübung vor Südafrikas Küste ab",
     "Gesundheitspolitik: Höhere Alkoholpreise durch Steuererhöhung gefordert",
@@ -3003,11 +3001,11 @@
     "Elektromobilität - Anteil von E-Autos in Deutschland wächst, aber zu langsam",
     "ISS-Ablöse muss warten - SpaceX lässt seine Trägerrakete Falcon 9 vorerst am Boden",
     "Klimapolitik - Wadephul erwartet mehr europäische Anstrengungen zum Schutz der kleinen Inselstaaten im Pazifik",
-    "Saudi-Arabien, Katar, VAE: Grüne verlangen von Friedrich Merz klare Worte gegenüber Scheichs"
+    "Saudi-Arabien, Katar, VAE: Grüne verlangen von Friedrich Merz klare Worte gegenüber Scheichs",
+    "Sachsen-Anhalt - IHW-Präsident Gropp fürchtet negative Folgen für die Wirtschaft im Fall eines AfD-Wahlsiegs",
+    "USA - Präsident Trump unterzeichnet Haushaltsgesetz"
   ],
   "hashes": [
-    "48024005c6299dc46ccde5c1a5b4d40f",
-    "0fb55127aa8c9bb731df421704c874c9",
     "9af062c3242ce8ecd0c826778bdadf96",
     "805b253deb5110b13622034d3ad0dbd1",
     "c8a05fd338ab449a3dab544060528bf0",
@@ -4005,6 +4003,8 @@
     "6d7ab83d432b0d9bc51917523dd06b71",
     "d9db138e71e64c76ad8607c3f04e5adc",
     "befe72dceff19f0143ad353333f819c2",
-    "5fedd460d316c5290ff63cf91f34ab06"
+    "5fedd460d316c5290ff63cf91f34ab06",
+    "949fc8d1083599a5df3e4de2344c3bbb",
+    "d055a379f7f7bbf924c8a51380c098f0"
   ]
 }
