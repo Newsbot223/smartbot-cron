@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/waldbraende-in-patagonien-breiten-sich-weiter-aus-15-000-hektar-flaeche-zerstoert-100.html",
-    "https://www.deutschlandfunk.de/trump-iran-hat-verhandlungen-vorgeschlagen-100.html",
-    "https://www.deutschlandfunk.de/justiz-ermittelt-offenbar-gegen-notenbank-chef-powell-102.html",
-    "https://www.deutschlandfunk.de/indiens-premier-modi-empfaengt-bundeskanzler-merz-besuch-in-gandhi-gedenkstaette-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-spd-wirbt-vor-gespraechen-in-den-usa-fuer-mehr-kooperation-bei-kritischen-rohstoffen-100.html",
     "https://www.deutschlandfunk.de/spd-verlangt-vom-handel-guenstigere-grundnahrungsmittel-100.html",
     "https://www.deutschlandfunk.de/beamtenbund-verteidigt-forderung-nach-7-prozent-mehr-geld-es-braucht-einen-handlungsfaehigen-staat-100.html",
     "https://www.faz.net/aktuell/politik/inland/wird-aus-dem-bnd-ein-echter-geheimdienst-accg-110817464.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/mehr-als-1100-wohnblocks-in-kiew-nicht-mehr-beheizbar-102.html",
     "https://www.deutschlandfunk.de/us-praesident-trump-fuer-neuen-atomwaffenvertrag-mit-russland-kreml-bedauert-auslaufen-102.html",
     "https://www.deutschlandfunk.de/naechste-runde-der-friedensgespraeche-soll-in-den-usa-stattfinden-100.html",
-    "https://www.deutschlandfunk.de/trump-wirbt-fuer-wiederwahl-von-regierungschef-orban-100.html"
+    "https://www.deutschlandfunk.de/trump-wirbt-fuer-wiederwahl-von-regierungschef-orban-100.html",
+    "https://www.deutschlandfunk.de/gruene-suchen-nach-wegen-fuer-verfassungsklage-viele-milliarden-aus-sondertoepfen-wurden-zweckentfre-102.html",
+    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kann-verurteilung-von-maja-t-in-ungarn-nachvollziehen-102.html",
+    "https://www.deutschlandfunk.de/parlament-bringt-amnestiegesetz-auf-den-weg-oppositionsfuehrerin-machado-haelt-neuwahlen-fuer-moegli-100.html",
+    "https://www.deutschlandfunk.de/tote-bei-explosion-in-illegaler-kohlemiene-100.html",
+    "https://www.deutschlandfunk.de/gespraeche-zwischen-iran-und-usa-in-oman-angekuendigt-102.html"
   ],
   "content_hashes": [
-    "9f2cca9a1513d8e3530b9bea555a951a",
-    "97c1df241645098ff963d2a923a46493",
-    "d3b5bd96ec2e3e08bc578a52fa90f993",
-    "66c0d22d03668259409dc4d4d6e20426",
-    "4e76a401301561ddb5bf7ff1170ec106",
     "d2b0315c7f4ce7d5f93519c12b9fa3a8",
     "e2afa1ee670dcb67275f1b8d105b0a2c",
     "3958e02e21193fc7569502c39c83b9d4",
@@ -2001,14 +1996,14 @@
     "5cde7615a20adb73208472766ba68e64",
     "9024b939658b20c84ba111f57f5321f1",
     "e6021bad0ab6d6d98dced7e787a4ec0f",
-    "984f6b4fdb23518c4956160a04679c45"
+    "984f6b4fdb23518c4956160a04679c45",
+    "57e12fc0a18046a51ac3b05e62b9f621",
+    "536a8ebeffd35f4b3384e5f6ffc89470",
+    "478e64b4e2aeefae6e7f25c124cdbab0",
+    "5675b371199fecdc86d9f7f9e214da91",
+    "fce56499630bb025723b45b057f030bf"
   ],
   "titles": [
-    "Argentinien - Waldbrände in Patagonien breiten sich weiter aus: 15.000 Hektar Fläche zerstört",
-    "USA - Trump: Iran hat Verhandlungen vorgeschlagen",
-    "USA - Justiz ermittelt offenbar gegen Notenbank-Chef Powell",
-    "Auslandreise - Indiens Premier Modi empfängt Bundeskanzler Merz - Besuch in Gandhi-Gedenkstätte",
-    "Finanzminister - Klingbeil (SPD) wirbt vor Gesprächen in den USA für mehr Kooperation bei kritischen Rohstoffen",
     "Lebenshaltungskosten - SPD verlangt vom Handel günstigere Grundnahrungsmittel",
     "Öffentlicher Dienst - Beamtenbund verteidigt Forderung nach 7 Prozent mehr Geld: \"Es braucht einen handlungsfähigen Staat\"",
     "Reform des BND: Bekommt Deutschland einen echten Geheimdienst?",
@@ -3003,14 +2998,14 @@
     "Krieg gegen die Ukraine - Mehr als 1100 Wohnblocks in Kiew nicht mehr beheizbar",
     "New START - US-Präsident Trump für neuen Atomwaffenvertrag mit Russland - Kreml bedauert Auslaufen",
     "Ukraine-Krieg - Nächste Runde der Friedensgespräche soll in den USA stattfinden",
-    "Ungarn wählt im April - Trump wirbt für Wiederwahl von Regierungschef Orban"
+    "Ungarn wählt im April - Trump wirbt für Wiederwahl von Regierungschef Orban",
+    "Bundeshaushalt 2025 - Grüne suchen nach Wegen für Verfassungsklage - \"Viele Milliarden aus Sondertöpfen wurden zweckentfremdet\"",
+    "Justiz - Bundesinnenminister Dobrindt kann Verurteilung von Maja T. in Ungarn nachvollziehen",
+    "Venezuela - Parlament bringt Amnestiegesetz auf den Weg - Oppositionsführerin Machado hält Neuwahlen für möglich",
+    "Indien - Tote bei Explosion in illegaler Kohlemiene",
+    "Nach Kriegsdrohungen - Gespräche zwischen Iran und USA in Oman angekündigt"
   ],
   "hashes": [
-    "2458462bc55ecfeadca8821d53f2bef6",
-    "73649a8ba1630b071206054f76db5b94",
-    "2f10b2c5d5c8013cc6a4f96e9fc79164",
-    "7feb560cc4f3e2969f1c504dd71ad1d3",
-    "d801d4dcc3699b5e888e7121d1004c56",
     "60c529ba210a184bd9e93ec798893d8f",
     "df99c395910ba7314771803c59e875f0",
     "ca2b997bf8b0548b8113a366f6b26e4e",
@@ -4005,6 +4000,11 @@
     "ab11f142f56f9b20923cf8bfff477e53",
     "5b94ea4ef793c6f4dd6b2e254b26d2a6",
     "cd30d2e1e89384d24752cc6a6fed6d4a",
-    "bc0b724724049572854ee6ba0ed5efa6"
+    "bc0b724724049572854ee6ba0ed5efa6",
+    "32b81ab05dcb4d76d493618d481a68ea",
+    "088c52acd82901752796a9c818ce8b2a",
+    "4ce4138ee61a77f977bbda32352fcc43",
+    "323aec6cc244eaa8e106ee1e94a6ffca",
+    "aeef583106ac27c304590ee4032e915f"
   ]
 }
