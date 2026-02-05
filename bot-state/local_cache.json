@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/video/compare-contrast/2026/1/11/germanys-double-standard-on-peaceful-protests?traffic_source=rss",
-    "https://www.deutschlandfunk.de/zahl-der-toten-bei-protesten-im-iran-steigt-erheblich-an-102.html",
     "https://www.deutschlandfunk.de/innenminister-dobrindt-mehr-kooperation-mit-israel-fuer-sicherheit-deutschlands-102.html",
     "https://www.deutschlandfunk.de/schweden-investiert-weitere-1-4-milliarden-euro-in-luftabwehr-102.html",
     "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kurzzeitiger-stromausfall-in-stuttgart-100.html",
     "https://www.deutschlandfunk.de/union-und-spd-wollen-netflix-amazon-prime-co-sowie-tv-sender-zu-investitionen-verpflichtet-100.html",
     "https://www.deutschlandfunk.de/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-100.html",
-    "https://www.deutschlandfunk.de/verkehrsminister-wollen-zu-schutz-fuer-bahnpersonal-beraten-102.html"
+    "https://www.deutschlandfunk.de/verkehrsminister-wollen-zu-schutz-fuer-bahnpersonal-beraten-102.html",
+    "https://www.deutschlandfunk.de/grossteil-der-corona-schutzmasken-ungenutzt-verbrannt-102.html",
+    "https://www.deutschlandfunk.de/bundeskriminalamt-registriert-321-sabotageverdachtsfaelle-in-vergangenem-jahr-102.html"
   ],
   "content_hashes": [
-    "a17c9e821aeb3e0a329d66fd2ee041fa",
-    "f9cba04243bbfc455ba3ffa960831989",
     "ba96bee741609fcbc5b0beefbca1fb17",
     "7904a67e6aec1aebe37afea8113cea5a",
     "1efd8c237a7914fb755000dd4ad20833",
@@ -2001,11 +1999,11 @@
     "310502272e1d5ccc9922204b16a97849",
     "63a9aabd08b8920f0ed21b4fa9425ba6",
     "b2d17a644dc1f1d5e8dccede8b89ea8a",
-    "81187d50bd769a2eaa179305e0ceafec"
+    "81187d50bd769a2eaa179305e0ceafec",
+    "e3cbe11a6375c66fc4a572cd2a16a7ef",
+    "318b129f8c12cdb37a16e2a655fb3389"
   ],
   "titles": [
-    "Germany’s double standard on peaceful protests",
-    "Demonstrationen - Zahl der Toten bei Protesten im Iran steigt erheblich an",
     "Besuch in Jerusalem - Innenminister Dobrindt: Mehr Kooperation mit Israel für Sicherheit Deutschlands",
     "Bedrohung durch Russland - Schweden investiert weitere 1,4 Milliarden Euro in Luftabwehr",
     "Nach Protesten - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
@@ -3003,11 +3001,11 @@
     "Energieversorgung - Kurzzeitiger Stromausfall in Stuttgart",
     "Medien - Union und SPD wollen Netflix, Amazon Prime & Co sowie TV-Sender zu Investitionen verpflichtet",
     "EZB - Europäische Zentralbank belässt Leitzins bei 2,0 Prozent",
-    "Nach Tod eines Zugbegleiters - Verkehrsminister wollen zu Schutz für Bahnpersonal beraten"
+    "Nach Tod eines Zugbegleiters - Verkehrsminister wollen zu Schutz für Bahnpersonal beraten",
+    "Nach der Pandemie - Großteil der Corona-Schutzmasken ungenutzt verbrannt",
+    "Medienbericht - Bundeskriminalamt registriert 321 Sabotageverdachtsfälle in vergangenem Jahr"
   ],
   "hashes": [
-    "d51e8b75f8571d4360dae88070cb95a0",
-    "cf47741ec81aa8787dd303a5bb63d75a",
     "e76a49ca277a0d620593cee73b35bd89",
     "c244d50261ff63979f9f28985aa3a26b",
     "6f70e81d76742409f5b1b7cba33ff733",
@@ -4005,6 +4003,8 @@
     "064c54710ffd520a02d4c55128fc488b",
     "8c697fdf8985b20cd3494053d89585c4",
     "71d48a9b2210f18fa8c6c5b6f1bf5ef3",
-    "fc5f37e6c2c0bdaff328cc607289abc6"
+    "fc5f37e6c2c0bdaff328cc607289abc6",
+    "f274cc4a5c6f7c4326a4d271b66c0be0",
+    "2f99102139c762ad517e30a83fa95dc7"
   ]
 }
