@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-106.html",
-    "https://www.deutschlandfunk.de/parteien-in-sachsen-anhalt-beraten-ueber-moeglichen-amtsverzicht-von-ministerpraesident-haseloff-100.html",
-    "https://www.deutschlandfunk.de/forderungen-nach-weiteren-sanktionen-gegen-iran-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-zu-besuch-in-indien-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/kubilius-schlaegt-gruendung-europaeischer-armee-vor-102.html",
     "https://www.deutschlandfunk.de/waldbraende-in-patagonien-breiten-sich-weiter-aus-15-000-hektar-flaeche-zerstoert-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bahnchefin-palla-mitarbeiter-unter-schock-100.html",
     "https://www.faz.net/aktuell/politik/inland/klinik-darf-arzt-nicht-pauschal-abtreibungen-verbieten-200511021.html",
     "https://www.aljazeera.com/news/2026/2/5/us-envoy-shuns-polish-parliament-speaker-over-trump-remarks?traffic_source=rss",
-    "https://www.deutschlandfunk.de/olg-naumburg-meta-muss-nutzer-schadenersatz-zahlen-100.html"
+    "https://www.deutschlandfunk.de/olg-naumburg-meta-muss-nutzer-schadenersatz-zahlen-100.html",
+    "https://www.deutschlandfunk.de/verhandlungen-in-abu-dhabi-werden-in-den-naechsten-wochen-fortgesetzt-102.html",
+    "https://www.deutschlandfunk.de/mehr-als-1100-wohnblocks-in-kiew-nicht-mehr-beheizbar-102.html",
+    "https://www.deutschlandfunk.de/us-praesident-trump-fuer-neuen-atomwaffenvertrag-mit-russland-kreml-bedauert-auslaufen-102.html"
   ],
   "content_hashes": [
-    "f400e0cba0be27da02d31f9dd86c2484",
-    "2a44f909379d6dd92b20200f3e3d677b",
-    "72608d4e3d7892315d7330af6774bd55",
     "4e1a9c1113b113f2c750faa996cbb33e",
     "1b68119c397d205cdd4c977021980551",
     "9f2cca9a1513d8e3530b9bea555a951a",
@@ -2001,12 +1998,12 @@
     "b51ade38f0e451c47777d7039316ab3c",
     "edb047a597b59e7a1bc945dd3166ceaf",
     "3c65b440174eef1403e751539b3dc5d2",
-    "15c3e08b2b7598e75dac4bd3f31ac8da"
+    "15c3e08b2b7598e75dac4bd3f31ac8da",
+    "c18f733ff74d60ea8faf84f434c13c2f",
+    "5cde7615a20adb73208472766ba68e64",
+    "9024b939658b20c84ba111f57f5321f1"
   ],
   "titles": [
-    "Nach tödlichen Schüssen - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
-    "Magdeburg - Parteien in Sachsen-Anhalt beraten über möglichen Amtsverzicht von Ministerpräsident Haseloff",
-    "Proteste gegen das Regime - Forderungen nach weiteren Sanktionen gegen Iran",
     "Auslandreise - Bundeskanzler Merz zu Besuch in Indien eingetroffen",
     "EU-Verteidigungskommissar - Kubilius schlägt Gründung europäischer Armee vor",
     "Argentinien - Waldbrände in Patagonien breiten sich weiter aus: 15.000 Hektar Fläche zerstört",
@@ -3003,12 +3000,12 @@
     "Tod von Zugbegleiter - Bahnchefin Palla: Mitarbeiter unter Schock",
     "Streit um Abtreibungen: Verbot von Schwangerschaftsabbrüchen in Privatpraxis unwirksam",
     "US envoy shuns Polish parliament speaker over Trump remarks",
-    "Unerlaubte Datensammlung - OLG Naumburg: Meta muss Nutzer Schadenersatz zahlen"
+    "Unerlaubte Datensammlung - OLG Naumburg: Meta muss Nutzer Schadenersatz zahlen",
+    "Ukraine-Krieg - Verhandlungen in Abu Dhabi werden \"in den nächsten Wochen\" fortgesetzt",
+    "Krieg gegen die Ukraine - Mehr als 1100 Wohnblocks in Kiew nicht mehr beheizbar",
+    "New START - US-Präsident Trump für neuen Atomwaffenvertrag mit Russland - Kreml bedauert Auslaufen"
   ],
   "hashes": [
-    "bc9c401dc7db7c2ef49b9580766473bc",
-    "9191c16314d09e2ecf9ae1b454c6d35e",
-    "cd6da9af558d381405da82f6488ba1fd",
     "6b7f5725bed8589718d00799fc09fc83",
     "c56ba82d95b3beebf3a2a89febac32c8",
     "2458462bc55ecfeadca8821d53f2bef6",
@@ -4005,6 +4002,9 @@
     "0c3895be64527a00e5975eca95259ed1",
     "4b36dc1db1d8d6f7a9fabf29bb9f891b",
     "768139747df0da3632a6a99099e0fbc9",
-    "f84c394ab160197125b50b4db67322df"
+    "f84c394ab160197125b50b4db67322df",
+    "c68a13aa0c84dc4a4f82e483817b904f",
+    "ab11f142f56f9b20923cf8bfff477e53",
+    "5b94ea4ef793c6f4dd6b2e254b26d2a6"
   ]
 }
