@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/innenminister-dobrindt-mehr-kooperation-mit-israel-fuer-sicherheit-deutschlands-102.html",
-    "https://www.deutschlandfunk.de/schweden-investiert-weitere-1-4-milliarden-euro-in-luftabwehr-102.html",
     "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-102.html",
     "https://www.deutschlandfunk.de/iranisches-regime-ruft-zu-kundgebungen-fuer-islamische-republik-auf-104.html",
     "https://www.deutschlandfunk.de/us-heimatschutzministerin-noem-will-hunderte-bundesbeamte-nach-minneapolis-schicken-106.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/europaeische-zentralbank-belaesst-leitzins-bei-2-0-prozent-100.html",
     "https://www.deutschlandfunk.de/verkehrsminister-wollen-zu-schutz-fuer-bahnpersonal-beraten-102.html",
     "https://www.deutschlandfunk.de/grossteil-der-corona-schutzmasken-ungenutzt-verbrannt-102.html",
-    "https://www.deutschlandfunk.de/bundeskriminalamt-registriert-321-sabotageverdachtsfaelle-in-vergangenem-jahr-102.html"
+    "https://www.deutschlandfunk.de/bundeskriminalamt-registriert-321-sabotageverdachtsfaelle-in-vergangenem-jahr-102.html",
+    "https://www.deutschlandfunk.de/bahnchefin-palla-mitarbeiter-unter-schock-100.html",
+    "https://www.faz.net/aktuell/politik/inland/klinik-darf-arzt-nicht-pauschal-abtreibungen-verbieten-200511021.html"
   ],
   "content_hashes": [
-    "ba96bee741609fcbc5b0beefbca1fb17",
-    "7904a67e6aec1aebe37afea8113cea5a",
     "1efd8c237a7914fb755000dd4ad20833",
     "3117c65d248e3b63ab4310802587aa59",
     "f400e0cba0be27da02d31f9dd86c2484",
@@ -2001,11 +1999,11 @@
     "b2d17a644dc1f1d5e8dccede8b89ea8a",
     "81187d50bd769a2eaa179305e0ceafec",
     "e3cbe11a6375c66fc4a572cd2a16a7ef",
-    "318b129f8c12cdb37a16e2a655fb3389"
+    "318b129f8c12cdb37a16e2a655fb3389",
+    "b51ade38f0e451c47777d7039316ab3c",
+    "edb047a597b59e7a1bc945dd3166ceaf"
   ],
   "titles": [
-    "Besuch in Jerusalem - Innenminister Dobrindt: Mehr Kooperation mit Israel für Sicherheit Deutschlands",
-    "Bedrohung durch Russland - Schweden investiert weitere 1,4 Milliarden Euro in Luftabwehr",
     "Nach Protesten - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
     "Teheran - Iranisches Regime ruft zu Kundgebungen für Islamische Republik auf",
     "Nach tödlichen Schüssen - US-Heimatschutzministerin Noem will hunderte Bundesbeamte nach Minneapolis schicken",
@@ -3003,11 +3001,11 @@
     "EZB - Europäische Zentralbank belässt Leitzins bei 2,0 Prozent",
     "Nach Tod eines Zugbegleiters - Verkehrsminister wollen zu Schutz für Bahnpersonal beraten",
     "Nach der Pandemie - Großteil der Corona-Schutzmasken ungenutzt verbrannt",
-    "Medienbericht - Bundeskriminalamt registriert 321 Sabotageverdachtsfälle in vergangenem Jahr"
+    "Medienbericht - Bundeskriminalamt registriert 321 Sabotageverdachtsfälle in vergangenem Jahr",
+    "Tod von Zugbegleiter - Bahnchefin Palla: Mitarbeiter unter Schock",
+    "Streit um Abtreibungen: Verbot von Schwangerschaftsabbrüchen in Privatpraxis unwirksam"
   ],
   "hashes": [
-    "e76a49ca277a0d620593cee73b35bd89",
-    "c244d50261ff63979f9f28985aa3a26b",
     "6f70e81d76742409f5b1b7cba33ff733",
     "976459d4c44840887259cacc790be72d",
     "bc9c401dc7db7c2ef49b9580766473bc",
@@ -4005,6 +4003,8 @@
     "71d48a9b2210f18fa8c6c5b6f1bf5ef3",
     "fc5f37e6c2c0bdaff328cc607289abc6",
     "f274cc4a5c6f7c4326a4d271b66c0be0",
-    "2f99102139c762ad517e30a83fa95dc7"
+    "2f99102139c762ad517e30a83fa95dc7",
+    "0c3895be64527a00e5975eca95259ed1",
+    "4b36dc1db1d8d6f7a9fabf29bb9f891b"
   ]
 }
