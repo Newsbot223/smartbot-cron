@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/diskussion-ueber-verzicht-auf-schriftliches-dividieren-in-der-grundschule-102.html",
-    "https://www.deutschlandfunk.de/gasversorgung-trotz-niedrigerer-speicherstaende-gesichert-100.html",
-    "https://www.deutschlandfunk.de/posttraumatische-belastungsstoerung-ist-laut-urteil-berufskrankheit-100.html",
     "https://www.deutschlandfunk.de/pflegekraefte-abwanderung-erhoeht-sterblichkeit-im-suedwesten-102.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-will-mehr-verfassungsschuetzer-gegen-linksextremisten-einsetzen-102.html",
     "https://www.deutschlandfunk.de/frankreich-startet-rekrutierungskampagne-fuer-freiwilligen-wehrdienst-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/epstein-affaere-ermittlungen-gegen-norwegens-ex-regierungschef-jagland-100.html",
     "https://www.deutschlandfunk.de/spd-generalsekretaer-kluessendorf-fordert-rueckbesinnung-auf-grundwerte-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-will-beziehungen-zu-katar-saudi-arabien-und-den-vereinigten-arabischen-emiraten-a-100.html",
-    "https://www.deutschlandfunk.de/russischer-general-niedergeschossen-100.html"
+    "https://www.deutschlandfunk.de/russischer-general-niedergeschossen-100.html",
+    "https://www.deutschlandfunk.de/sicherheitspolitiker-fordern-deutsche-ermittlungen-zum-fall-epstein-100.html",
+    "https://www.deutschlandfunk.de/tausende-bundeseigene-wohnungen-stehen-leer-100.html",
+    "https://www.deutschlandfunk.de/kanada-streicht-vorgabe-von-100-prozent-e-autos-bei-neuwagen-bis-100.html"
   ],
   "content_hashes": [
-    "ebc10cc1bd14f1c9d17f18b90bc8bd75",
-    "ef6655e845dae6b503cbce80bd8eedd1",
-    "431524ca8c7dc5bc0d6ecdeb3ff112c5",
     "02468e3f4c66c28c29b55198885db3a6",
     "e0b68c5111fe476adba140f5b5a2b9be",
     "a149a91290a407950c29e3ae2fcd0eee",
@@ -2001,12 +1998,12 @@
     "37a218f27600158f5e802fc4ebf7ff4c",
     "cdf9b9c0ae60c99d5deffa7ea972ebf8",
     "68ece079597086f01d662b72ca7e21bf",
-    "4c21ff3b216c01de62cfc859ab68b118"
+    "4c21ff3b216c01de62cfc859ab68b118",
+    "ee4fdc2591b06cfd0c89272bd79bf6c3",
+    "c6ae358dcd5941ffee22061550e32778",
+    "65739365a7fbe2e917b303b7fa065fd9"
   ],
   "titles": [
-    "Niedersachsen - Diskussion über Verzicht auf schriftliches Dividieren in der Grundschule",
-    "Bundesnetzagentur - Gasversorgung trotz niedrigerer Speicherstände gesichert",
-    "Landessozialgericht Baden-Württemberg - Posttraumatische Belastungsstörung ist laut Urteil Berufskrankheit",
     "Soziales - Pflegekräfte-Abwanderung erhöht Sterblichkeit im Südwesten",
     "Nach Anschlag auf Stromversorgung - Bundesinnenminister Dobrindt will mehr Verfassungsschützer gegen Linksextremisten einsetzen",
     "Reaktion auf russische Bedrohung - Frankreich startet Rekrutierungskampagne für freiwilligen Wehrdienst",
@@ -3003,12 +3000,12 @@
     "Europa - Epstein-Affäre: Ermittlungen gegen Norwegens Ex-Regierungschef Jagland",
     "Vor Klausur - SPD-Generalsekretär Klüssendorf fordert Rückbesinnung auf Grundwerte",
     "Golfregion - Bundeskanzler Merz will Beziehungen zu Katar, Saudi-Arabien und den Vereinigten Arabischen Emiraten ausbauen",
-    "Moskau - Russischer General niedergeschossen"
+    "Moskau - Russischer General niedergeschossen",
+    "Bundestag - Sicherheitspolitiker fordern deutsche Ermittlungen zum Fall Epstein",
+    "Wohnungsmarkt - Tausende bundeseigene Wohnungen stehen leer",
+    "Mobilität - Kanada streicht Vorgabe von 100 Prozent E-Autos bei Neuwagen bis 2035"
   ],
   "hashes": [
-    "a59a975b8239bfabb935431c0b114af9",
-    "003d13526fa85dc3fe348cd64ddcca43",
-    "f73f7160df8bafa1c0ace1048a6c28c2",
     "4ddf5211be6182cab6842ec7256365e3",
     "dc79b5cc36620e7fdd5bf44f3b7a5965",
     "08b1d1027613999d06fd4c55f566ee0a",
@@ -4005,6 +4002,9 @@
     "df970279391e56f44a527f6470d1490c",
     "72a641d69c7d6eabdc0e78d4da331cf0",
     "63eeca1c147772d7bab983c2bbf8134f",
-    "3c0f5108b304158bb29a38fad1f4aa03"
+    "3c0f5108b304158bb29a38fad1f4aa03",
+    "93a800032f5ee08169d92df62bc1e8dc",
+    "f2b7560233ecdaa5118d0b6423ecf072",
+    "81f6678772d24e4f64ccb98d3ca2d007"
   ]
 }
