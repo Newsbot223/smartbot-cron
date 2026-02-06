@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spd-verlangt-vom-handel-guenstigere-grundnahrungsmittel-100.html",
-    "https://www.deutschlandfunk.de/beamtenbund-verteidigt-forderung-nach-7-prozent-mehr-geld-es-braucht-einen-handlungsfaehigen-staat-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wird-aus-dem-bnd-ein-echter-geheimdienst-accg-110817464.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-dobrindt-will-nach-anschlag-haerter-gegen-linksextremisten-vorgehen-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-deutschland-und-israel-unterzeichnen-sicherheitspakt-faz-110093143.html",
     "https://www.deutschlandfunk.de/china-warnt-usa-vor-einmischung-im-iran-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-kann-verurteilung-von-maja-t-in-ungarn-nachvollziehen-102.html",
     "https://www.deutschlandfunk.de/parlament-bringt-amnestiegesetz-auf-den-weg-oppositionsfuehrerin-machado-haelt-neuwahlen-fuer-moegli-100.html",
     "https://www.deutschlandfunk.de/tote-bei-explosion-in-illegaler-kohlemiene-100.html",
-    "https://www.deutschlandfunk.de/gespraeche-zwischen-iran-und-usa-in-oman-angekuendigt-102.html"
+    "https://www.deutschlandfunk.de/gespraeche-zwischen-iran-und-usa-in-oman-angekuendigt-102.html",
+    "https://www.deutschlandfunk.de/staatschef-diaz-canel-erklaert-sich-zu-dialog-mit-washington-bereit-100.html",
+    "https://www.deutschlandfunk.de/parlament-bringt-amnestiegesetz-auf-den-weg-100.html",
+    "https://www.deutschlandfunk.de/vertreter-der-usa-und-des-irans-treffen-sich-im-oman-100.html"
   ],
   "content_hashes": [
-    "d2b0315c7f4ce7d5f93519c12b9fa3a8",
-    "e2afa1ee670dcb67275f1b8d105b0a2c",
-    "3958e02e21193fc7569502c39c83b9d4",
     "fac86db257ca85eb73d2911bfc8c5624",
     "d9a65a7ed7f58e1dcd1713e8937a49a5",
     "4943ad242d63e51cc2bd12c8a0e71291",
@@ -2001,12 +1998,12 @@
     "536a8ebeffd35f4b3384e5f6ffc89470",
     "478e64b4e2aeefae6e7f25c124cdbab0",
     "5675b371199fecdc86d9f7f9e214da91",
-    "fce56499630bb025723b45b057f030bf"
+    "fce56499630bb025723b45b057f030bf",
+    "e344a8ab1c96a230422b349f45d06e93",
+    "5971170a16bb9d319aca5ccc2ebdf2c9",
+    "1c078db69ea59345f422098d788fd922"
   ],
   "titles": [
-    "Lebenshaltungskosten - SPD verlangt vom Handel günstigere Grundnahrungsmittel",
-    "Öffentlicher Dienst - Beamtenbund verteidigt Forderung nach 7 Prozent mehr Geld: \"Es braucht einen handlungsfähigen Staat\"",
-    "Reform des BND: Bekommt Deutschland einen echten Geheimdienst?",
     "Deutschland-Blog: Dobrindt will nach Anschlag härter gegen Linksextremisten vorgehen",
     "Deutschland-Blog: Bei Besuch Dobrindts: Deutschland und Israel unterzeichnen Sicherheitspakt",
     "Gewalt gegen Protestierende - China warnt USA vor Einmischung im Iran",
@@ -3003,12 +3000,12 @@
     "Justiz - Bundesinnenminister Dobrindt kann Verurteilung von Maja T. in Ungarn nachvollziehen",
     "Venezuela - Parlament bringt Amnestiegesetz auf den Weg - Oppositionsführerin Machado hält Neuwahlen für möglich",
     "Indien - Tote bei Explosion in illegaler Kohlemiene",
-    "Nach Kriegsdrohungen - Gespräche zwischen Iran und USA in Oman angekündigt"
+    "Nach Kriegsdrohungen - Gespräche zwischen Iran und USA in Oman angekündigt",
+    "Kuba - Staatschef Diaz-Canel erklärt sich zu Dialog mit Washington bereit",
+    "Venezuela - Parlament bringt Amnestiegesetz auf den Weg",
+    "Gespräche - Vertreter der USA und des Irans treffen sich im Oman"
   ],
   "hashes": [
-    "60c529ba210a184bd9e93ec798893d8f",
-    "df99c395910ba7314771803c59e875f0",
-    "ca2b997bf8b0548b8113a366f6b26e4e",
     "61892f9d6dcc1c77d728e0d3ea3aa23c",
     "553d7b5dc7f930a785f720b36a54233f",
     "358b108ed47a35cf884637d0b9b95786",
@@ -4005,6 +4002,9 @@
     "088c52acd82901752796a9c818ce8b2a",
     "4ce4138ee61a77f977bbda32352fcc43",
     "323aec6cc244eaa8e106ee1e94a6ffca",
-    "aeef583106ac27c304590ee4032e915f"
+    "aeef583106ac27c304590ee4032e915f",
+    "8e426537c9fd58e6fc4cd1a8e9a4bdab",
+    "96594ba69d1b5a2f77b65153408f544f",
+    "d3ebbbe25dd598f5759c0cd1c510bb27"
   ]
 }
