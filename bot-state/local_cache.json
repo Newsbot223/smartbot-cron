@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutsche-autohersteller-verkaufen-weniger-autos-in-china-und-den-usa-zugewinne-in-europa-102.html",
-    "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-von-rund-einer-million-euro-fuer-private-erbschaften-und-hoehere-steuern-a-100.html",
-    "https://www.deutschlandfunk.de/cdu-in-sachsen-anhalt-stimmt-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
     "https://www.deutschlandfunk.de/im-vergangenen-jahr-mehr-als-2-500-ukrainische-zivilisten-durch-russische-angriffe-getoetet-100.html",
     "https://www.deutschlandfunk.de/cdu-und-spd-in-sachsen-anhalt-stimmen-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
     "https://www.deutschlandfunk.de/spanische-ermittler-entdecken-zehn-tonnen-kokain-in-frachter-im-atlantik-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dobrindt-verteidigt-verfahren-gegen-maja-t-in-ungarn-100.html",
     "https://www.faz.net/aktuell/politik/inland/wie-sich-teenager-in-geheimen-chats-in-die-magersucht-treiben-accg-110828378.html",
     "https://www.deutschlandfunk.de/zahlreiche-tote-bei-selbstmordanschlag-in-pakistan-100.html",
-    "https://www.deutschlandfunk.de/melonis-regierung-beschliesst-scharfes-sicherheitspaket-kritik-aus-der-opposition-100.html"
+    "https://www.deutschlandfunk.de/melonis-regierung-beschliesst-scharfes-sicherheitspaket-kritik-aus-der-opposition-100.html",
+    "https://www.deutschlandfunk.de/merz-erfreut-ueber-wirtschaftliche-entwicklung-deutschlands-100.html",
+    "https://www.deutschlandfunk.de/missbrauchsskandal-an-erfurter-gymnasium-zweiter-lehrer-zur-haftstrafe-verurteilt-100.html",
+    "https://www.aljazeera.com/news/2026/2/6/explosion-rocks-mosque-in-pakistans-islamabad?traffic_source=rss"
   ],
   "content_hashes": [
-    "e460ea1383f2febedb14d3031a60bedd",
-    "de46ed48202be2ee24bbd2a03d019484",
-    "d3d00bd78687aca8527161362bdf76c0",
     "f57e32474eb83c5fa483090bb7bd2920",
     "c888980978b517bb0da7d202dbc7529f",
     "40e1b4a0ec6d5c666385d7ae4fe81921",
@@ -2001,12 +1998,12 @@
     "013cd7d0bd4a38e0ef98917b59ded880",
     "70fcd0aaac8cc6cda008f445933fb72f",
     "9470e62ae780213055018a5b4340cd92",
-    "4042e247cf2e0f904cd2347d71971863"
+    "4042e247cf2e0f904cd2347d71971863",
+    "2f2005de8828ba839c3dc9cb97661e80",
+    "b188dfb5e95ebc6851d516a84dee9dc4",
+    "46064a509501be3f7670054a55b287c1"
   ],
   "titles": [
-    "VW, Mercedes, BMW - Deutsche Autohersteller verkaufen weniger Autos in China und den USA - Zugewinne in Europa",
-    "Erbschaftssteuer - SPD will Lebensfreibetrag von rund einer Million Euro für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften",
-    "Magdeburg - CDU in Sachsen-Anhalt stimmt für vorzeitigen Wechsel des Ministerpräsidenten",
     "Bilanz für 2025 - Im vergangenen Jahr mehr als 2.500 ukrainische Zivilisten durch russische Angriffe getötet",
     "Magdeburg - CDU und SPD in Sachsen-Anhalt stimmen für vorzeitigen Wechsel des Ministerpräsidenten",
     "Drogenschmuggel - Spanische Ermittler entdecken zehn Tonnen Kokain in Frachter im Atlantik",
@@ -3003,12 +3000,12 @@
     "Linksextremismus - Dobrindt verteidigt Verfahren gegen Maja T. in Ungarn",
     "Magersucht in Geheimchats: Sie treiben sich gegenseitig ins Verderben",
     "Islamabad - Zahlreiche Tote bei Selbstmordanschlag in Pakistan",
-    "Italien - Melonis Regierung beschließt scharfes Sicherheitspaket - Kritik aus der Opposition"
+    "Italien - Melonis Regierung beschließt scharfes Sicherheitspaket - Kritik aus der Opposition",
+    "Konjunktur - Merz erfreut über wirtschaftliche Entwicklung Deutschlands",
+    "Sexualisierte Gewalt - Missbrauchsskandal an Erfurter Gymnasium: Zweiter Lehrer zur Haftstrafe verurteilt",
+    "At least 31 killed, dozens wounded in suicide blast at Islamabad mosque"
   ],
   "hashes": [
-    "aa21cf4aa576af8b081b38175412eb25",
-    "47c82301dbeade3769ead666dd4a6dc6",
-    "3e555717c3ce8c8310b2700f2cbd755e",
     "c47566a921df7c1f265ecb1ebb99ed67",
     "0e14bcb97c4e77f7d895614bcfd4d4a2",
     "90b5fe25802c429b5d8edabd7254814e",
@@ -4005,6 +4002,9 @@
     "29285808399277c30728cfe2a8ac452e",
     "c20657388eb14241ee8ba83e7ebc1450",
     "da5dac1d6ad5015a1d784f5d5f212ff5",
-    "dc6453b359daeb50bd5022bf8099be2e"
+    "dc6453b359daeb50bd5022bf8099be2e",
+    "2482e8846b9493c5c6de6af2441f82e8",
+    "7dde712f573bb803b1c4500236572fd6",
+    "c999dd541af6ff89401f137ac903c61b"
   ]
 }
