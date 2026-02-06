@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/soeder-laesst-schirmherrschaft-fuer-weimer-gipfel-ruhen-110817861.html",
-    "https://www.deutschlandfunk.de/bundesregierung-will-entwicklungszusammenarbeit-neu-ausrichten-fokus-auf-aermste-laender-der-welt-102.html",
     "https://www.deutschlandfunk.de/deutsche-autohersteller-verkaufen-weniger-autos-in-china-und-den-usa-zugewinne-in-europa-102.html",
     "https://www.deutschlandfunk.de/spd-will-lebensfreibetrag-von-rund-einer-million-euro-fuer-private-erbschaften-und-hoehere-steuern-a-100.html",
     "https://www.deutschlandfunk.de/cdu-in-sachsen-anhalt-stimmt-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/tiktok-macht-suechtig-eu-kommission-geht-gegen-mutterkonzern-bytedance-vor-100.html",
     "https://www.deutschlandfunk.de/merz-erwaegt-eu-freihandelsabkommen-auch-mit-vereinigten-arabischen-emiraten-100.html",
     "https://www.deutschlandfunk.de/dobrindt-verteidigt-verfahren-gegen-maja-t-in-ungarn-100.html",
-    "https://www.faz.net/aktuell/politik/inland/wie-sich-teenager-in-geheimen-chats-in-die-magersucht-treiben-accg-110828378.html"
+    "https://www.faz.net/aktuell/politik/inland/wie-sich-teenager-in-geheimen-chats-in-die-magersucht-treiben-accg-110828378.html",
+    "https://www.deutschlandfunk.de/zahlreiche-tote-bei-selbstmordanschlag-in-pakistan-100.html",
+    "https://www.deutschlandfunk.de/melonis-regierung-beschliesst-scharfes-sicherheitspaket-kritik-aus-der-opposition-100.html"
   ],
   "content_hashes": [
-    "3980e84f83f9e4796dabca51db04abb9",
-    "9e146470292c5ecc1138565bdbf88135",
     "e460ea1383f2febedb14d3031a60bedd",
     "de46ed48202be2ee24bbd2a03d019484",
     "d3d00bd78687aca8527161362bdf76c0",
@@ -2001,11 +1999,11 @@
     "8b6667d744eba8f5b7829e3995652022",
     "6553343e6ad05115182c2fb9ae81f966",
     "013cd7d0bd4a38e0ef98917b59ded880",
-    "70fcd0aaac8cc6cda008f445933fb72f"
+    "70fcd0aaac8cc6cda008f445933fb72f",
+    "9470e62ae780213055018a5b4340cd92",
+    "4042e247cf2e0f904cd2347d71971863"
   ],
   "titles": [
-    "Tegernsee-Gipfel: Bayerische Staatsregierung zieht sich aus Weimer-Gipfel zurück",
-    "Einsparungen - Bundesregierung will Entwicklungszusammenarbeit neu ausrichten - Fokus auf ärmste Länder der Welt",
     "VW, Mercedes, BMW - Deutsche Autohersteller verkaufen weniger Autos in China und den USA - Zugewinne in Europa",
     "Erbschaftssteuer - SPD will Lebensfreibetrag von rund einer Million Euro für private Erbschaften und höhere Steuern auf Unternehmens-Erbschaften",
     "Magdeburg - CDU in Sachsen-Anhalt stimmt für vorzeitigen Wechsel des Ministerpräsidenten",
@@ -3003,11 +3001,11 @@
     "Soziale Medien - \"TikTok macht süchtig\" - EU-Kommission geht gegen Mutterkonzern Bytedance vor",
     "Abu Dhabi - Merz erwägt EU-Freihandelsabkommen auch mit Vereinigten Arabischen Emiraten",
     "Linksextremismus - Dobrindt verteidigt Verfahren gegen Maja T. in Ungarn",
-    "Magersucht in Geheimchats: Sie treiben sich gegenseitig ins Verderben"
+    "Magersucht in Geheimchats: Sie treiben sich gegenseitig ins Verderben",
+    "Islamabad - Zahlreiche Tote bei Selbstmordanschlag in Pakistan",
+    "Italien - Melonis Regierung beschließt scharfes Sicherheitspaket - Kritik aus der Opposition"
   ],
   "hashes": [
-    "374478902ba8b768530b52b236933dd8",
-    "dd2aed98e3317d38fcd132723e201941",
     "aa21cf4aa576af8b081b38175412eb25",
     "47c82301dbeade3769ead666dd4a6dc6",
     "3e555717c3ce8c8310b2700f2cbd755e",
@@ -4005,6 +4003,8 @@
     "e8ba869ea709dc8cd16b064ff6dca652",
     "03dc317897e968e6bf62c2dce01a4a06",
     "29285808399277c30728cfe2a8ac452e",
-    "c20657388eb14241ee8ba83e7ebc1450"
+    "c20657388eb14241ee8ba83e7ebc1450",
+    "da5dac1d6ad5015a1d784f5d5f212ff5",
+    "dc6453b359daeb50bd5022bf8099be2e"
   ]
 }
