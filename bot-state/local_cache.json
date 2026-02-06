@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/pflegekraefte-abwanderung-erhoeht-sterblichkeit-im-suedwesten-102.html",
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-will-mehr-verfassungsschuetzer-gegen-linksextremisten-einsetzen-102.html",
-    "https://www.deutschlandfunk.de/frankreich-startet-rekrutierungskampagne-fuer-freiwilligen-wehrdienst-100.html",
-    "https://www.deutschlandfunk.de/britische-behoerde-ermittelt-gegen-x-wegen-sexualisierter-bilder-der-ki-grok-102.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-laesst-schirmherrschaft-fuer-weimer-gipfel-ruhen-110817861.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-entwicklungszusammenarbeit-neu-ausrichten-fokus-auf-aermste-laender-der-welt-102.html",
     "https://www.deutschlandfunk.de/deutsche-autohersteller-verkaufen-weniger-autos-in-china-und-den-usa-zugewinne-in-europa-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/russischer-general-niedergeschossen-100.html",
     "https://www.deutschlandfunk.de/sicherheitspolitiker-fordern-deutsche-ermittlungen-zum-fall-epstein-100.html",
     "https://www.deutschlandfunk.de/tausende-bundeseigene-wohnungen-stehen-leer-100.html",
-    "https://www.deutschlandfunk.de/kanada-streicht-vorgabe-von-100-prozent-e-autos-bei-neuwagen-bis-100.html"
+    "https://www.deutschlandfunk.de/kanada-streicht-vorgabe-von-100-prozent-e-autos-bei-neuwagen-bis-100.html",
+    "https://www.deutschlandfunk.de/tiktok-macht-suechtig-eu-kommission-geht-gegen-mutterkonzern-bytedance-vor-100.html",
+    "https://www.deutschlandfunk.de/merz-erwaegt-eu-freihandelsabkommen-auch-mit-vereinigten-arabischen-emiraten-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-verteidigt-verfahren-gegen-maja-t-in-ungarn-100.html",
+    "https://www.faz.net/aktuell/politik/inland/wie-sich-teenager-in-geheimen-chats-in-die-magersucht-treiben-accg-110828378.html"
   ],
   "content_hashes": [
-    "02468e3f4c66c28c29b55198885db3a6",
-    "e0b68c5111fe476adba140f5b5a2b9be",
-    "a149a91290a407950c29e3ae2fcd0eee",
-    "c0d97346bd04d26ab47b88b918815fde",
     "3980e84f83f9e4796dabca51db04abb9",
     "9e146470292c5ecc1138565bdbf88135",
     "e460ea1383f2febedb14d3031a60bedd",
@@ -2001,13 +1997,13 @@
     "4c21ff3b216c01de62cfc859ab68b118",
     "ee4fdc2591b06cfd0c89272bd79bf6c3",
     "c6ae358dcd5941ffee22061550e32778",
-    "65739365a7fbe2e917b303b7fa065fd9"
+    "65739365a7fbe2e917b303b7fa065fd9",
+    "8b6667d744eba8f5b7829e3995652022",
+    "6553343e6ad05115182c2fb9ae81f966",
+    "013cd7d0bd4a38e0ef98917b59ded880",
+    "70fcd0aaac8cc6cda008f445933fb72f"
   ],
   "titles": [
-    "Soziales - Pflegekräfte-Abwanderung erhöht Sterblichkeit im Südwesten",
-    "Nach Anschlag auf Stromversorgung - Bundesinnenminister Dobrindt will mehr Verfassungsschützer gegen Linksextremisten einsetzen",
-    "Reaktion auf russische Bedrohung - Frankreich startet Rekrutierungskampagne für freiwilligen Wehrdienst",
-    "London - Britische Behörde ermittelt gegen X wegen sexualisierter Bilder der KI Grok",
     "Tegernsee-Gipfel: Bayerische Staatsregierung zieht sich aus Weimer-Gipfel zurück",
     "Einsparungen - Bundesregierung will Entwicklungszusammenarbeit neu ausrichten - Fokus auf ärmste Länder der Welt",
     "VW, Mercedes, BMW - Deutsche Autohersteller verkaufen weniger Autos in China und den USA - Zugewinne in Europa",
@@ -3003,13 +2999,13 @@
     "Moskau - Russischer General niedergeschossen",
     "Bundestag - Sicherheitspolitiker fordern deutsche Ermittlungen zum Fall Epstein",
     "Wohnungsmarkt - Tausende bundeseigene Wohnungen stehen leer",
-    "Mobilität - Kanada streicht Vorgabe von 100 Prozent E-Autos bei Neuwagen bis 2035"
+    "Mobilität - Kanada streicht Vorgabe von 100 Prozent E-Autos bei Neuwagen bis 2035",
+    "Soziale Medien - \"TikTok macht süchtig\" - EU-Kommission geht gegen Mutterkonzern Bytedance vor",
+    "Abu Dhabi - Merz erwägt EU-Freihandelsabkommen auch mit Vereinigten Arabischen Emiraten",
+    "Linksextremismus - Dobrindt verteidigt Verfahren gegen Maja T. in Ungarn",
+    "Magersucht in Geheimchats: Sie treiben sich gegenseitig ins Verderben"
   ],
   "hashes": [
-    "4ddf5211be6182cab6842ec7256365e3",
-    "dc79b5cc36620e7fdd5bf44f3b7a5965",
-    "08b1d1027613999d06fd4c55f566ee0a",
-    "b173bd2f15a331dd102173e8dd52324f",
     "374478902ba8b768530b52b236933dd8",
     "dd2aed98e3317d38fcd132723e201941",
     "aa21cf4aa576af8b081b38175412eb25",
@@ -4005,6 +4001,10 @@
     "3c0f5108b304158bb29a38fad1f4aa03",
     "93a800032f5ee08169d92df62bc1e8dc",
     "f2b7560233ecdaa5118d0b6423ecf072",
-    "81f6678772d24e4f64ccb98d3ca2d007"
+    "81f6678772d24e4f64ccb98d3ca2d007",
+    "e8ba869ea709dc8cd16b064ff6dca652",
+    "03dc317897e968e6bf62c2dce01a4a06",
+    "29285808399277c30728cfe2a8ac452e",
+    "c20657388eb14241ee8ba83e7ebc1450"
   ]
 }
