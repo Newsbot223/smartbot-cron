@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/im-vergangenen-jahr-mehr-als-2-500-ukrainische-zivilisten-durch-russische-angriffe-getoetet-100.html",
-    "https://www.deutschlandfunk.de/cdu-und-spd-in-sachsen-anhalt-stimmen-fuer-vorzeitigen-wechsel-des-ministerpraesidenten-100.html",
     "https://www.deutschlandfunk.de/spanische-ermittler-entdecken-zehn-tonnen-kokain-in-frachter-im-atlantik-100.html",
     "https://www.deutschlandfunk.de/sirenenfehlalarm-in-halle-stadt-geht-von-angriff-aus-100.html",
     "https://www.deutschlandfunk.de/diplomatische-spannungen-zwischen-europa-und-iran-nehmen-zu-teheran-bestellt-botschafter-ein-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/melonis-regierung-beschliesst-scharfes-sicherheitspaket-kritik-aus-der-opposition-100.html",
     "https://www.deutschlandfunk.de/merz-erfreut-ueber-wirtschaftliche-entwicklung-deutschlands-100.html",
     "https://www.deutschlandfunk.de/missbrauchsskandal-an-erfurter-gymnasium-zweiter-lehrer-zur-haftstrafe-verurteilt-100.html",
-    "https://www.aljazeera.com/news/2026/2/6/explosion-rocks-mosque-in-pakistans-islamabad?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/2/6/explosion-rocks-mosque-in-pakistans-islamabad?traffic_source=rss",
+    "https://www.deutschlandfunk.de/eu-kommission-geht-gegen-mutterkonzern-bytedance-vor-plattform-weist-vorwuerfe-zurueck-100.html",
+    "https://www.spiegel.de/wirtschaft/unternehmen/mittelstandsverband-attackiert-cdu-politikerin-gitta-connemann-in-brandbrief-an-friedrich-merz-a-f715e2e0-2f9c-4933-92d6-ebf0e9063319#ref=rss"
   ],
   "content_hashes": [
-    "f57e32474eb83c5fa483090bb7bd2920",
-    "c888980978b517bb0da7d202dbc7529f",
     "40e1b4a0ec6d5c666385d7ae4fe81921",
     "e393857ebbbf6b262759e8ad4813a7f0",
     "4fa5fc2d2661a9a9e83385b9792598db",
@@ -2001,11 +1999,11 @@
     "4042e247cf2e0f904cd2347d71971863",
     "2f2005de8828ba839c3dc9cb97661e80",
     "b188dfb5e95ebc6851d516a84dee9dc4",
-    "46064a509501be3f7670054a55b287c1"
+    "46064a509501be3f7670054a55b287c1",
+    "a26c85a34a7c37de6a7525495ab5658f",
+    "2108c05365a1d43d3951a97b171a832e"
   ],
   "titles": [
-    "Bilanz für 2025 - Im vergangenen Jahr mehr als 2.500 ukrainische Zivilisten durch russische Angriffe getötet",
-    "Magdeburg - CDU und SPD in Sachsen-Anhalt stimmen für vorzeitigen Wechsel des Ministerpräsidenten",
     "Drogenschmuggel - Spanische Ermittler entdecken zehn Tonnen Kokain in Frachter im Atlantik",
     "Kritische Infrastruktur - Sirenenfehlalarm in Halle: Stadt geht von Angriff aus",
     "Proteste - Diplomatische Spannungen zwischen Europa und Iran nehmen zu - Teheran bestellt Botschafter ein",
@@ -3003,11 +3001,11 @@
     "Italien - Melonis Regierung beschließt scharfes Sicherheitspaket - Kritik aus der Opposition",
     "Konjunktur - Merz erfreut über wirtschaftliche Entwicklung Deutschlands",
     "Sexualisierte Gewalt - Missbrauchsskandal an Erfurter Gymnasium: Zweiter Lehrer zur Haftstrafe verurteilt",
-    "At least 31 killed, dozens wounded in suicide blast at Islamabad mosque"
+    "At least 31 killed, dozens wounded in suicide blast at Islamabad mosque",
+    "\"TikTok macht süchtig\" - EU-Kommission geht gegen Mutterkonzern Bytedance vor - Plattform weist Vorwürfe zurück",
+    "Mittelstandsverband attackiert CDU-Politikerin Gitta Connemann in Brandbrief an Friedrich Merz"
   ],
   "hashes": [
-    "c47566a921df7c1f265ecb1ebb99ed67",
-    "0e14bcb97c4e77f7d895614bcfd4d4a2",
     "90b5fe25802c429b5d8edabd7254814e",
     "32fdc1392293326193beb3b8a5b8c083",
     "2aafe13d30c4d52be33109db59be72a5",
@@ -4005,6 +4003,8 @@
     "dc6453b359daeb50bd5022bf8099be2e",
     "2482e8846b9493c5c6de6af2441f82e8",
     "7dde712f573bb803b1c4500236572fd6",
-    "c999dd541af6ff89401f137ac903c61b"
+    "c999dd541af6ff89401f137ac903c61b",
+    "3a54fa03eccc46d62b3600b17cf34044",
+    "5ac1f956e6ed173b6fbb2b89bcb42be3"
   ]
 }
