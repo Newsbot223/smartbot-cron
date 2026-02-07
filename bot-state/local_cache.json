@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/apple-geht-partnerschaft-mit-google-ein-100.html",
-    "https://www.deutschlandfunk.de/bundesregierung-fuer-gleiche-eu-umweltstandards-fuer-bauern-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-merz-sieht-baldiges-ende-des-mullah-regimes-faz-110093143.html",
     "https://www.deutschlandfunk.de/union-warnt-vor-belastung-der-unternehmen-102.html",
     "https://www.deutschlandfunk.de/internationale-notenbanker-stellen-sich-hinter-fed-chef-powell-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/corona-ukraine-us-zoelle-krisen-kosteten-deutschland-bisher-fast-eine-billion-euro-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-kritisiert-teilzeit-debatte-und-verteidigt-die-genz-100.html",
     "https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-wirtschaftsweise-monika-schnitzer-verteidigt-gen-z-a-1fccabf9-5dbd-4fa3-ac6c-73a485fbb787#ref=rss",
-    "https://www.faz.net/aktuell/politik/inland/vetternwirtschaft-gefaehrlich-fuer-der-afd-in-sachsen-anhalt-110833286.html"
+    "https://www.faz.net/aktuell/politik/inland/vetternwirtschaft-gefaehrlich-fuer-der-afd-in-sachsen-anhalt-110833286.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-weiten-teilen-der-ukraine-praesident-selenskyj-usa-setzen-frist-fuer-abkommen-bis-ju-100.html",
+    "https://www.deutschlandfunk.de/personalausweise-kosten-ab-heute-mehr-geld-100.html"
   ],
   "content_hashes": [
-    "9e380573838b5ffb1c7bfe9065f8dcb8",
-    "db244f61c1db0fc6e2202ee06450acab",
     "d660c4cbe4db929561f06b9b0970991e",
     "0655cdb81b2353faa7099f75d4dc8b9f",
     "0a7accb0347f77ea81f1bed57d30d6f3",
@@ -2001,11 +1999,11 @@
     "00e9d0a8fe06e428c0b87134b0351bc8",
     "4f4d886a17c35e1964a447f9b5a5534d",
     "80eb45619c1b24ac0b53ca8d9da5a709",
-    "49900bccbddb1fd6aed7d58485f322c0"
+    "49900bccbddb1fd6aed7d58485f322c0",
+    "20b4888532129020d4ce8b38e054637a",
+    "5840a041b5a60fd58ca3399de7d39da1"
   ],
   "titles": [
-    "Künstliche Intelligenz - Apple geht Partnerschaft mit Google ein",
-    "Landwirtschaft - Bundesregierung für gleiche EU-Umweltstandards für Bauern",
     "Deutschland-Blog: Merz sieht baldiges Ende des „Mullah-Regimes“",
     "SPD-Konzept zur Erbschaftssteuer - Union warnt vor Belastung der Unternehmen",
     "Finanzen - Internationale Notenbanker stellen sich hinter Fed-Chef Powell",
@@ -3003,11 +3001,11 @@
     "IW - Corona, Ukraine, US-Zölle: Krisen kosteten Deutschland bisher fast eine Billion Euro",
     "Arbeitsmoral - Wirtschaftsweise Schnitzer kritisiert Teilzeit-Debatte und verteidigt die \"GenZ\"",
     "Arbeitszeit: Wirtschaftsweise Monika Schnitzer verteidigt Gen Z",
-    "Vetternwirtschaft bei der AfD: Alles für die Familie"
+    "Vetternwirtschaft bei der AfD: Alles für die Familie",
+    "Russische Angriffe - Stromausfall in weiten Teilen der Ukraine - Präsident Selenskyj: \"USA setzen Frist für Abkommen bis Juni\"",
+    "Behörden - Personalausweise kosten ab heute mehr Geld"
   ],
   "hashes": [
-    "21e3210212a7c3b2a37f0d75f79dd715",
-    "559141b59b279305d855348b7e88f63c",
     "2fa9ec60febbd608859bd074eb549f9c",
     "f4a553558ada8c664d83636472ba39a0",
     "c12e9cdc3b55e283f8cc9b9aceea74bc",
@@ -4005,6 +4003,8 @@
     "679a12af29e30ecbecfc779735220525",
     "0845808971972dbca976df45e694af72",
     "5dff5a8ad7e63e1583e7f861cf1fabec",
-    "57f3daf602b1ae4e7306f599406685ad"
+    "57f3daf602b1ae4e7306f599406685ad",
+    "f590d25bf970e6d8ed394b4c89c94d4d",
+    "303b3ae60547bdbef03ba213860f156e"
   ]
 }
