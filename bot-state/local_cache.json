@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/trumps-berater-draengen-auf-nicht-militaerische-option-102.html",
-    "https://www.deutschlandfunk.de/usa-kuendigen-strafzoelle-fuer-laender-mit-iran-geschaeften-an-100.html",
     "https://www.deutschlandfunk.de/union-und-wirtschaft-kritisieren-spd-plaene-zur-erbschaftsteuer-100.html",
     "https://www.deutschlandfunk.de/zahl-der-organspender-in-deutschland-auf-hoechstem-stand-seit-100.html",
     "https://www.deutschlandfunk.de/warnstreiks-an-mehreren-unikliniken-gestartet-106.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/afd-jugendorganisation-generation-deutschland-will-landesverbaende-in-berlin-und-brandenburg-gruende-100.html",
     "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-kritisiert-teilzeit-debatte-100.html",
     "https://www.deutschlandfunk.de/spacex-rakete-kann-doch-wie-geplant-zur-iss-starten-100.html",
-    "https://www.deutschlandfunk.de/festakt-zu-40-jahr-nationalpark-wattenmeer-ein-auf-die-bedraengnis-der-damaligen-zeit-100.html"
+    "https://www.deutschlandfunk.de/festakt-zu-40-jahr-nationalpark-wattenmeer-ein-auf-die-bedraengnis-der-damaligen-zeit-100.html",
+    "https://www.deutschlandfunk.de/strecke-koeln-hagen-dicht-ice-fahrten-dauern-deutlich-laenger-100.html",
+    "https://www.deutschlandfunk.de/tiktok-macht-suechtig-plattform-weist-vorwuerfe-der-eu-kommission-entschieden-zurueck-100.html"
   ],
   "content_hashes": [
-    "2a738940a282b27ec6f32f253bcbe532",
-    "f22e27d7f67839868773a86a54ae90c0",
     "bd011d35a00270e32864d02463488cd4",
     "6ca584e068921f407496340c9552c538",
     "95d7125cffe50bda4c9894d7923fdcfe",
@@ -2001,11 +1999,11 @@
     "aeba6034c6dfb0614abc8632b6878977",
     "f9d2ce6fb7df15b0799e8531ec7d849a",
     "385c206d785e18cdbf3aca4a60dffaf6",
-    "1f67b26d3a24d2aabbd179913eb7cedf"
+    "1f67b26d3a24d2aabbd179913eb7cedf",
+    "30e94e065764b4ccb351cee2697cc4e6",
+    "41795effedbf6c8573c267818b833c24"
   ],
   "titles": [
-    "Lage im Iran - Trumps Berater drängen auf nicht-militärische Option",
-    "Gewalt gegen Demonstranten - USA kündigen Strafzölle für Länder mit Iran-Geschäften an",
     "\"Konzept aus der Mottenkiste\" - Union und Wirtschaft kritisieren SPD-Pläne zur Erbschaftsteuer",
     "Medizin - Zahl der Organspender in Deutschland auf höchstem Stand seit 2012",
     "Öffentlicher Dienst - Warnstreiks an mehreren Unikliniken gestartet",
@@ -3003,11 +3001,11 @@
     "Neugründung - AfD-Jugendorganisation \"Generation Deutschland\" will Landesverbände in Berlin und Brandenburg gründen",
     "Lieber mehr Investitionen in KI - Wirtschaftsweise Schnitzer kritisiert Teilzeit-Debatte",
     "Raumfahrt - SpaceX-Rakete kann doch wie geplant zur ISS starten",
-    "Niedersachsen - Festakt zu 40 Jahr Nationalpark Wattenmeer: \"Ein auf die Bedrängnis der damaligen Zeit\""
+    "Niedersachsen - Festakt zu 40 Jahr Nationalpark Wattenmeer: \"Ein auf die Bedrängnis der damaligen Zeit\"",
+    "Verkehr - Strecke Köln–Hagen dicht: ICE-Fahrten dauern deutlich länger",
+    "Soziale Medien - \"TikTok macht süchtig\" - Plattform weist Vorwürfe der EU-Kommission entschieden zurück"
   ],
   "hashes": [
-    "981fa41728493fa9e3f3816636927da7",
-    "085c04fa9e9d6b739ffeb50c8ed1974d",
     "152d3c8d351e6bab6a9d85fff4f80f22",
     "978ee5326c8ac89b2f5ddca82f89c3a5",
     "b4a96e0d2f2ad58754a79470f9991cf5",
@@ -4005,6 +4003,8 @@
     "60165325a769cf63bcad414dcebb492e",
     "efaa7d6fed7b597e2bb32397e5428709",
     "26f7d1e39a4ddb33aff68b9fe98f4ddb",
-    "fa291c935a4593341d26acaed545645c"
+    "fa291c935a4593341d26acaed545645c",
+    "685187a5af52ba02344264ded6ab6dd6",
+    "d57ae0dc0699d9b92b62a21fa83cbf35"
   ]
 }
