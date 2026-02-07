@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/berufungsverfahren-zu-verurteilung-von-franzoesischer-rechtspopulistin-le-pen-beginnt-100.html",
-    "https://www.deutschlandfunk.de/sondersitzung-im-innenausschuss-zu-einbruch-in-sparkasse-100.html",
-    "https://www.deutschlandfunk.de/gericht-kippt-baustopp-fuer-offshore-windpark-100.html",
-    "https://www.deutschlandfunk.de/minnesota-und-minneapolis-verklagen-trump-regierun-102.html",
     "https://www.deutschlandfunk.de/finanzminister-klingbeil-fordert-absicherung-bei-versorgung-mit-seltenen-erden-104.html",
     "https://www.deutschlandfunk.de/trumps-berater-draengen-auf-nicht-militaerische-option-102.html",
     "https://www.deutschlandfunk.de/usa-kuendigen-strafzoelle-fuer-laender-mit-iran-geschaeften-an-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/frankreich-und-kanada-eroeffnen-diplomatische-vertretungen-auf-groenland-100.html",
     "https://www.deutschlandfunk.de/indirekte-gespraeche-in-oman-beendet-trump-verhaengt-neue-sanktionen-100.html",
     "https://www.deutschlandfunk.de/us-strafzoelle-gegen-indien-zurueckgenommen-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-1500-kontrolleure-in-deutschland-fehlen-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-1500-kontrolleure-in-deutschland-fehlen-100.html",
+    "https://www.deutschlandfunk.de/is-reklamiert-anschlag-in-pakistan-fuer-sich-100.html",
+    "https://www.deutschlandfunk.de/afd-jugendorganisation-generation-deutschland-will-landesverbaende-in-berlin-und-brandenburg-gruende-100.html",
+    "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-kritisiert-teilzeit-debatte-100.html",
+    "https://www.deutschlandfunk.de/spacex-rakete-kann-doch-wie-geplant-zur-iss-starten-100.html"
   ],
   "content_hashes": [
-    "1e0185380e7e172fe227bce7bf759f8b",
-    "88aaabac4d99c6ae699c2da22bf9b096",
-    "311e1d31d824e9621a793a53f19d349a",
-    "c71f393b653b49b317f72e83805eee65",
     "17847246eea00d4780a83b25d39f931a",
     "2a738940a282b27ec6f32f253bcbe532",
     "f22e27d7f67839868773a86a54ae90c0",
@@ -2001,13 +1997,13 @@
     "23b5a6ecf831018b79a0406fe7a28f26",
     "f8e75694611c7e163d513a27f5dc83f5",
     "5bd46a644c92c956650fd714d96de458",
-    "c8661025c76b2517ac4295b39a512cfc"
+    "c8661025c76b2517ac4295b39a512cfc",
+    "e552c0a2448d1ec552d52d1dd17e8eef",
+    "aeba6034c6dfb0614abc8632b6878977",
+    "f9d2ce6fb7df15b0799e8531ec7d849a",
+    "385c206d785e18cdbf3aca4a60dffaf6"
   ],
   "titles": [
-    "Frankreich - Berufungsverfahren zu Verurteilung von französischer Rechtspopulistin Le Pen beginnt",
-    "Nordrhein-Westfalen - Sondersitzung im Innenausschuss zu Einbruch in Sparkasse",
-    "USA - Gericht kippt Baustopp für Offshore-Windpark",
-    "Nach tödlichen Schüssen - Minnesota und Minneapolis verklagen Trump-Regierun",
     "Gespräche in Washington - Finanzminister Klingbeil fordert Absicherung bei Versorgung mit Seltenen Erden",
     "Lage im Iran - Trumps Berater drängen auf nicht-militärische Option",
     "Gewalt gegen Demonstranten - USA kündigen Strafzölle für Länder mit Iran-Geschäften an",
@@ -3003,13 +2999,13 @@
     "\"Politisches Signal\" - Frankreich und Kanada eröffnen diplomatische Vertretungen auf Grönland",
     "USA - Iran - Indirekte Gespräche in Oman beendet - Trump verhängt neue Sanktionen",
     "Handel - US-Strafzölle gegen Indien zurückgenommen",
-    "Lebensmittelkontrollen - Mehr als 1500 Kontrolleure in Deutschland fehlen"
+    "Lebensmittelkontrollen - Mehr als 1500 Kontrolleure in Deutschland fehlen",
+    "Islamabad - IS reklamiert Anschlag in Pakistan für sich",
+    "Neugründung - AfD-Jugendorganisation \"Generation Deutschland\" will Landesverbände in Berlin und Brandenburg gründen",
+    "Lieber mehr Investitionen in KI - Wirtschaftsweise Schnitzer kritisiert Teilzeit-Debatte",
+    "Raumfahrt - SpaceX-Rakete kann doch wie geplant zur ISS starten"
   ],
   "hashes": [
-    "9757dbd75ed8e1f08219275e1541b198",
-    "659d7301f6dbbedff2e7226f05108f6f",
-    "338c306d9207a252b3eddeb4d473cdd3",
-    "d1c636ceb0ab0aedd646be6f65db4165",
     "37e3708fcbf2daf9b135547f25400849",
     "981fa41728493fa9e3f3816636927da7",
     "085c04fa9e9d6b739ffeb50c8ed1974d",
@@ -4005,6 +4001,10 @@
     "6b2420a65eb0e8f26b0ffb9729f60804",
     "b6aa54961f6dd3808ac632bb46af2f88",
     "bff36aec75758620272e0dbaab3ea7f7",
-    "984df92ce64f032496fcbd3b5f0adefb"
+    "984df92ce64f032496fcbd3b5f0adefb",
+    "e1c385bb164d1d89ba71e2f6ca22f069",
+    "60165325a769cf63bcad414dcebb492e",
+    "efaa7d6fed7b597e2bb32397e5428709",
+    "26f7d1e39a4ddb33aff68b9fe98f4ddb"
   ]
 }
