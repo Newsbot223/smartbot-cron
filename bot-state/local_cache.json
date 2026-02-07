@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-merz-sieht-baldiges-ende-des-mullah-regimes-faz-110093143.html",
-    "https://www.deutschlandfunk.de/union-warnt-vor-belastung-der-unternehmen-102.html",
     "https://www.deutschlandfunk.de/internationale-notenbanker-stellen-sich-hinter-fed-chef-powell-100.html",
     "https://www.deutschlandfunk.de/ex-frau-von-amazon-gruender-spendet-45-millionen-dollar-an-lgbtq-organisation-100.html",
     "https://www.deutschlandfunk.de/daenemarks-aussenminister-trifft-vance-und-rubio-102.html",
@@ -999,11 +997,11 @@
     "https://www.spiegel.de/wirtschaft/soziales/arbeitszeit-wirtschaftsweise-monika-schnitzer-verteidigt-gen-z-a-1fccabf9-5dbd-4fa3-ac6c-73a485fbb787#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/vetternwirtschaft-gefaehrlich-fuer-der-afd-in-sachsen-anhalt-110833286.html",
     "https://www.deutschlandfunk.de/stromausfall-in-weiten-teilen-der-ukraine-praesident-selenskyj-usa-setzen-frist-fuer-abkommen-bis-ju-100.html",
-    "https://www.deutschlandfunk.de/personalausweise-kosten-ab-heute-mehr-geld-100.html"
+    "https://www.deutschlandfunk.de/personalausweise-kosten-ab-heute-mehr-geld-100.html",
+    "https://www.deutschlandfunk.de/aigner-csu-eine-kandidatin-fuer-das-hoechste-staatsamt-muss-realistische-chancen-haben-100.html",
+    "https://www.deutschlandfunk.de/soziales-elend-auf-der-strasse-wie-staedte-reagieren-100.html"
   ],
   "content_hashes": [
-    "d660c4cbe4db929561f06b9b0970991e",
-    "0655cdb81b2353faa7099f75d4dc8b9f",
     "0a7accb0347f77ea81f1bed57d30d6f3",
     "29c7d384783128a20ac6d96d0e012f6a",
     "cbaad7769b06e7b27b451a0c3ba25b53",
@@ -2001,11 +1999,11 @@
     "80eb45619c1b24ac0b53ca8d9da5a709",
     "49900bccbddb1fd6aed7d58485f322c0",
     "20b4888532129020d4ce8b38e054637a",
-    "5840a041b5a60fd58ca3399de7d39da1"
+    "5840a041b5a60fd58ca3399de7d39da1",
+    "c7b2668dcd0ba99275dccb0325ac4ee5",
+    "466553c5927196c719d2573639697d56"
   ],
   "titles": [
-    "Deutschland-Blog: Merz sieht baldiges Ende des „Mullah-Regimes“",
-    "SPD-Konzept zur Erbschaftssteuer - Union warnt vor Belastung der Unternehmen",
     "Finanzen - Internationale Notenbanker stellen sich hinter Fed-Chef Powell",
     "USA - Ex-Frau von Amazon-Gründer spendet 45 Millionen Dollar an LGBTQ-Organisation",
     "Grönland - Dänemarks Außenminister trifft Vance und Rubio",
@@ -3003,11 +3001,11 @@
     "Arbeitszeit: Wirtschaftsweise Monika Schnitzer verteidigt Gen Z",
     "Vetternwirtschaft bei der AfD: Alles für die Familie",
     "Russische Angriffe - Stromausfall in weiten Teilen der Ukraine - Präsident Selenskyj: \"USA setzen Frist für Abkommen bis Juni\"",
-    "Behörden - Personalausweise kosten ab heute mehr Geld"
+    "Behörden - Personalausweise kosten ab heute mehr Geld",
+    "Nachfolge von Bundespräsident Steinmeier - Aigner (CSU): Eine Kandidatin für das höchste Staatsamt muss realistische Chancen haben",
+    "Innenstädte - Soziales Elend auf den Straßen"
   ],
   "hashes": [
-    "2fa9ec60febbd608859bd074eb549f9c",
-    "f4a553558ada8c664d83636472ba39a0",
     "c12e9cdc3b55e283f8cc9b9aceea74bc",
     "88e5635af2a49fedbace1ffbc11b31d3",
     "8597c570c12ae4afe8d1065f00e64b71",
@@ -4005,6 +4003,8 @@
     "5dff5a8ad7e63e1583e7f861cf1fabec",
     "57f3daf602b1ae4e7306f599406685ad",
     "f590d25bf970e6d8ed394b4c89c94d4d",
-    "303b3ae60547bdbef03ba213860f156e"
+    "303b3ae60547bdbef03ba213860f156e",
+    "7b84beae3b9759b71f2636c0b0e99829",
+    "c5f5467495c9579c2f298d399d71dc70"
   ]
 }
