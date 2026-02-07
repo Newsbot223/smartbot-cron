@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/union-und-wirtschaft-kritisieren-spd-plaene-zur-erbschaftsteuer-100.html",
-    "https://www.deutschlandfunk.de/zahl-der-organspender-in-deutschland-auf-hoechstem-stand-seit-100.html",
     "https://www.deutschlandfunk.de/warnstreiks-an-mehreren-unikliniken-gestartet-106.html",
     "https://www.deutschlandfunk.de/spd-stellt-konzept-fuer-neue-erbschaftsteuer-vor-kritik-von-union-und-wirtschaft-100.html",
     "https://www.deutschlandfunk.de/zahlreiche-mitglieder-der-drei-groessten-mafia-organisationen-verurteilt-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/spacex-rakete-kann-doch-wie-geplant-zur-iss-starten-100.html",
     "https://www.deutschlandfunk.de/festakt-zu-40-jahr-nationalpark-wattenmeer-ein-auf-die-bedraengnis-der-damaligen-zeit-100.html",
     "https://www.deutschlandfunk.de/strecke-koeln-hagen-dicht-ice-fahrten-dauern-deutlich-laenger-100.html",
-    "https://www.deutschlandfunk.de/tiktok-macht-suechtig-plattform-weist-vorwuerfe-der-eu-kommission-entschieden-zurueck-100.html"
+    "https://www.deutschlandfunk.de/tiktok-macht-suechtig-plattform-weist-vorwuerfe-der-eu-kommission-entschieden-zurueck-100.html",
+    "https://www.deutschlandfunk.de/stromausfall-in-weiten-teilen-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/mehr-als-1-500-kontrolleure-in-deutschland-fehlen-102.html"
   ],
   "content_hashes": [
-    "bd011d35a00270e32864d02463488cd4",
-    "6ca584e068921f407496340c9552c538",
     "95d7125cffe50bda4c9894d7923fdcfe",
     "408eaea0d20317b5d7a6aff433515187",
     "064f625ccf5c73a9c1eace4e001cd4ae",
@@ -2001,11 +1999,11 @@
     "385c206d785e18cdbf3aca4a60dffaf6",
     "1f67b26d3a24d2aabbd179913eb7cedf",
     "30e94e065764b4ccb351cee2697cc4e6",
-    "41795effedbf6c8573c267818b833c24"
+    "41795effedbf6c8573c267818b833c24",
+    "5af5e242ac2132937331ffe5ec81294d",
+    "ac06fa377317e489af18a5906fed95dd"
   ],
   "titles": [
-    "\"Konzept aus der Mottenkiste\" - Union und Wirtschaft kritisieren SPD-Pläne zur Erbschaftsteuer",
-    "Medizin - Zahl der Organspender in Deutschland auf höchstem Stand seit 2012",
     "Öffentlicher Dienst - Warnstreiks an mehreren Unikliniken gestartet",
     "Wirtschaft - SPD stellt Konzept für neue Erbschaftsteuer vor - Kritik von Union und Wirtschaft",
     "Italien - Zahlreiche Mitglieder der drei größten Mafia-Organisationen verurteilt",
@@ -3003,11 +3001,11 @@
     "Raumfahrt - SpaceX-Rakete kann doch wie geplant zur ISS starten",
     "Niedersachsen - Festakt zu 40 Jahr Nationalpark Wattenmeer: \"Ein auf die Bedrängnis der damaligen Zeit\"",
     "Verkehr - Strecke Köln–Hagen dicht: ICE-Fahrten dauern deutlich länger",
-    "Soziale Medien - \"TikTok macht süchtig\" - Plattform weist Vorwürfe der EU-Kommission entschieden zurück"
+    "Soziale Medien - \"TikTok macht süchtig\" - Plattform weist Vorwürfe der EU-Kommission entschieden zurück",
+    "\"Massiver russischer Angriff\" - Stromausfall in weiten Teilen der Ukraine",
+    "Lebensmittelkontrollen - Mehr als 1.500 Kontrolleure in Deutschland fehlen"
   ],
   "hashes": [
-    "152d3c8d351e6bab6a9d85fff4f80f22",
-    "978ee5326c8ac89b2f5ddca82f89c3a5",
     "b4a96e0d2f2ad58754a79470f9991cf5",
     "88ec0732bbf56a03bcc4a326e17be09c",
     "5f99253e17bc1c198ede9083ab6289e0",
@@ -4005,6 +4003,8 @@
     "26f7d1e39a4ddb33aff68b9fe98f4ddb",
     "fa291c935a4593341d26acaed545645c",
     "685187a5af52ba02344264ded6ab6dd6",
-    "d57ae0dc0699d9b92b62a21fa83cbf35"
+    "d57ae0dc0699d9b92b62a21fa83cbf35",
+    "6890ba91287076dff84c50adf01f41f4",
+    "70396ca04d80e3ce8e62735fd73fa26e"
   ]
 }
