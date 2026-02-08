@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/grok-hubig-will-haertere-strafen-fuer-ki-deepfakes-accg-200436072.html",
-    "https://www.deutschlandfunk.de/ki-generierte-sexbilder-bundesregierung-kuendigt-schaerfere-massnahmen-100.html",
     "https://www.deutschlandfunk.de/rechtsextreme-terroristen-aus-dem-kinderzimmer-sicherheitsbehoerden-warnen-vor-wachsender-online-rad-100.html",
     "https://www.deutschlandfunk.de/parteichefin-bas-ich-werde-nicht-kanzlerkandidatin-der-spd-100.html",
     "https://www.deutschlandfunk.de/bundestag-debattiert-ueber-erleichterten-abschuss-von-woelfen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/usa-unter-trump/kongresswahlen-jetzt-greift-trump-auch-die-wahlen-selbst-an-110832653.html",
     "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-mieter-staerken-gesetzentwurf-liegt-vor-100.html",
     "https://www.deutschlandfunk.de/suedafrika-zieht-truppen-ab-100.html",
-    "https://www.deutschlandfunk.de/stichwahl-um-das-praesidentenamt-278.html"
+    "https://www.deutschlandfunk.de/stichwahl-um-das-praesidentenamt-278.html",
+    "https://www.deutschlandfunk.de/spd-will-abgabe-auf-alle-einkommensarten-102.html",
+    "https://www.deutschlandfunk.de/bundesnetzagentur-zehntausende-beschwerden-ueber-rufnummernmissbrauch-102.html"
   ],
   "content_hashes": [
-    "fe4f6b848c51883a89c02a1ff8b64b15",
-    "7ef254746a6c6a2ce73d959715e11994",
     "64fcc2c803b51836584521f5085534ae",
     "a459f01a93c5d2c7664f817e5829a31a",
     "94ebec593a93220cfd698d11eb0d186f",
@@ -2001,11 +1999,11 @@
     "9997a0a2cd4623cd7eb8be0b33aa1156",
     "c0bc31753f6d8154dd01f95c5241226c",
     "6f4e65451b63538697fcf5601b24a753",
-    "ce08ad1baf00f5b41f10a2a6ca3dfc0e"
+    "ce08ad1baf00f5b41f10a2a6ca3dfc0e",
+    "92ddd743620fab0e05f5293710fca9ac",
+    "0ada5a1b14f236486c0a7ad67e0d9fff"
   ],
   "titles": [
-    "Justizministerin: Digitales Gewaltschutzgesetz soll mehr Deepfakes strafbar machen",
-    "Grok-Trend auf X - KI-generierte Sexbilder: Bundesregierung kündigt schärfere Maßnahmen",
     "\"Terrorgram\"-Szene - Rechtsextreme Terroristen aus dem Kinderzimmer: Sicherheitsbehörden warnen vor wachsender Online-Radikalisierung",
     "Sozialdemokraten - Parteichefin Bas: Ich werde nicht Kanzlerkandidatin der SPD",
     "Landwirtschaft - Bundestag debattiert über erleichterten Abschuss von Wölfen",
@@ -3003,11 +3001,11 @@
     "Kongresswahlen im Herbst: Jetzt greift Trump auch die Wahlen selbst an",
     "Wohnen - Bundesjustizministerin Hubig will Mieter stärken - Gesetzentwurf liegt vor",
     "UNO-Mission in DRKongo - Südafrika zieht Truppen ab",
-    "Portugal - Stichwahl um das Präsidentenamt"
+    "Portugal - Stichwahl um das Präsidentenamt",
+    "Gesundheitswesen - SPD will Abgabe auf alle Einkommensarten",
+    "Deutschland - Bundesnetzagentur: Zehntausende Beschwerden über Rufnummernmissbrauch"
   ],
   "hashes": [
-    "d7604a848e38f327bcdad5f8f0d977dd",
-    "6ec768d32817762f85e566d26471c9ea",
     "5b260b9dc991aa724f28c442e1909647",
     "63a562addb7abd562a489caa48b02584",
     "5c271c8e7dc7aee5250c643f2c3d6023",
@@ -4005,6 +4003,8 @@
     "a3dd60f3933daec1a067f50eb03a20e3",
     "dfa91b6383c66a8236c73048249640a7",
     "16b942e53d9abe6c2a3b9c3b42fdeaef",
-    "230137b321123f606d61efd953e535a2"
+    "230137b321123f606d61efd953e535a2",
+    "a7d04fb622205866c1f874baf335ecb7",
+    "a0e5687141df5cb2f35653e18f1d6d9a"
   ]
 }
