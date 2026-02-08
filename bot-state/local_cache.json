@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/geplante-regierungsumbildung-in-der-ukraine-scheitert-vorerst-im-parlament-100.html",
-    "https://www.faz.net/aktuell/politik/inland/gruene-werfen-regierung-realitaetsverweigerung-vor-200434556.html",
     "https://www.deutschlandfunk.de/dilbert-comics-us-buchautor-scott-adams-im-alter-von-68-jahren-gestorben-102.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-fordert-todesstrafe-gegen-ex-praesident-yoon-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-will-mehr-pflegekraefte-aus-indien-anwerben-skepsis-bei-patientenschuetzern-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/gladbach-und-leverkusen-trennen-sich-im-abendspiel-1-102.html",
     "https://www.deutschlandfunk.de/netanjahu-will-am-mittwoch-mit-trump-zusammenkommen-forderung-nach-harter-linie-100.html",
     "https://www.deutschlandfunk.de/hunderte-protestieren-in-jena-gegen-urteil-fuer-linksextreme-maja-t-100.html",
-    "https://www.deutschlandfunk.de/praesidentschafts-und-parlamentswahlen-in-europa-und-asien-100.html"
+    "https://www.deutschlandfunk.de/praesidentschafts-und-parlamentswahlen-in-europa-und-asien-100.html",
+    "https://www.deutschlandfunk.de/spd-papier-deutschland-muss-beziehung-zu-usa-neu-definieren-100.html",
+    "https://www.deutschlandfunk.de/erneut-massenhafte-entfuehrungen-durch-bewaffnete-gruppierungen-in-nigeria-102.html"
   ],
   "content_hashes": [
-    "51fb5be84c04e72bbf0280bcfbd14061",
-    "4c3f1bfc81dab9953e0c397a309a2d6f",
     "cf944c7d5ae8f7e8d342c8ef72ba5c4b",
     "fc1020831568dded5fad266fa4cfd840",
     "492a902b78b32712e304ef4bda972399",
@@ -2001,11 +1999,11 @@
     "630a6171e787d4904b183244d860c976",
     "c962e0cfddc4c94682689e574e2accee",
     "838fb16c7e7ab6801d8b50dda7114af1",
-    "8557a486286d99234c26974d5aa3fcf5"
+    "8557a486286d99234c26974d5aa3fcf5",
+    "1ac38ec5c0811bc71f6c45a25f735b96",
+    "9cc80b30a10b77b7753273faeddc4076"
   ],
   "titles": [
-    "Kiew - Geplante Regierungsumbildung in der Ukraine scheitert vorerst im Parlament",
-    "Umgang mit Trump: Grüne werfen Regierung außenpolitische „Realitätsverweigerung“ vor",
     "Zeichner - Dilbert-Comics: US-Buchautor Scott Adams im Alter von 68 Jahren gestorben",
     "Südkorea - Staatsanwaltschaft fordert Todesstrafe gegen Ex-Präsident Yoon",
     "Merz-Reise - Bundesregierung will mehr Pflegekräfte aus Indien anwerben - Skepsis bei Patientenschützern",
@@ -3003,11 +3001,11 @@
     "Fußball-Bundesliga - Gladbach und Leverkusen trennen sich im Abendspiel 1:1",
     "Iran-Gespräche - Netanjahu will am Mittwoch mit Trump zusammenkommen - Forderung nach harter Linie",
     "Langer Haftstrafe - Hunderte protestieren in Jena gegen Urteil für linksextreme Maja T.",
-    "Portugal, Bosnien, Thailand und Japan - Präsidentschafts- und Parlamentswahlen in Europa und Asien"
+    "Portugal, Bosnien, Thailand und Japan - Präsidentschafts- und Parlamentswahlen in Europa und Asien",
+    "Diplomatie - SPD-Papier: Deutschland muss Beziehung zu USA neu definieren",
+    "Kaduna - Erneut massenhafte Entführungen durch bewaffnete Gruppierungen in Nigeria"
   ],
   "hashes": [
-    "40d042f54a375417ea06295896366355",
-    "069fdad74d04d27dbe3e5111e6b689e4",
     "b899567db8d9117bab0582d83bb442c3",
     "8d0efd98a0325ea56a2fd95e61e47a5f",
     "0520ed5c2663e152efab1bb0c5249eb7",
@@ -4005,6 +4003,8 @@
     "1839a7395a53f9ce08a04e5f0d1f0412",
     "0327a508db0db26dc708fd6e8c6dc7e2",
     "0cfbc0e373f4e5b7d8d89f2fffffbaeb",
-    "ab66cfc78b1c2e5370b173fcc19178e1"
+    "ab66cfc78b1c2e5370b173fcc19178e1",
+    "00ba61f84c5b32f24774762650e038d2",
+    "97b49da8dfc4ef5c916109b4457fb093"
   ]
 }
