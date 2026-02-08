@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/rehlinger-spd-weist-soeder-vorstoss-zur-zusammenlegung-von-bundeslaendern-mit-spott-zurueck-100.html",
-    "https://www.deutschlandfunk.de/who-wirbt-fuer-hoehere-steuern-auf-limo-bier-wein-und-spirituosen-100.html",
-    "https://www.deutschlandfunk.de/afd-gericht-entzieht-bundestagsabgeordnetem-jan-wenzel-schmidt-wegen-mehrerer-vorwuerfe-die-mitglied-100.html",
     "https://www.faz.net/aktuell/politik/inland/grok-hubig-will-haertere-strafen-fuer-ki-deepfakes-accg-200436072.html",
     "https://www.deutschlandfunk.de/ki-generierte-sexbilder-bundesregierung-kuendigt-schaerfere-massnahmen-100.html",
     "https://www.deutschlandfunk.de/rechtsextreme-terroristen-aus-dem-kinderzimmer-sicherheitsbehoerden-warnen-vor-wachsender-online-rad-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/innenministerium-selbstmordanschlag-in-islamabad-wurde-in-afghanistan-geplant-100.html",
     "https://www.deutschlandfunk.de/verdaechtiger-nach-anschlag-auf-geheimdienst-general-gefasst-104.html",
     "https://www.deutschlandfunk.de/parteienforscherin-heinze-begriffe-wie-lifestyle-teilzeit-schaden-der-demokratie-100.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/kongresswahlen-jetzt-greift-trump-auch-die-wahlen-selbst-an-110832653.html"
+    "https://www.faz.net/aktuell/politik/usa-unter-trump/kongresswahlen-jetzt-greift-trump-auch-die-wahlen-selbst-an-110832653.html",
+    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-mieter-staerken-gesetzentwurf-liegt-vor-100.html",
+    "https://www.deutschlandfunk.de/suedafrika-zieht-truppen-ab-100.html",
+    "https://www.deutschlandfunk.de/stichwahl-um-das-praesidentenamt-278.html"
   ],
   "content_hashes": [
-    "916f59b0fbcc17f0d1e8201467dbe9cb",
-    "c38cfa916979f1389ea54f4c8f0c2c89",
-    "aad2ecdb1a38fbd5223ee198af04c006",
     "fe4f6b848c51883a89c02a1ff8b64b15",
     "7ef254746a6c6a2ce73d959715e11994",
     "64fcc2c803b51836584521f5085534ae",
@@ -2001,12 +1998,12 @@
     "539a04716c0485b4140543202ff0ae3b",
     "b129891758ee5b8d0980f239810850ff",
     "dda9ec59358848243a0765bd1a669415",
-    "9997a0a2cd4623cd7eb8be0b33aa1156"
+    "9997a0a2cd4623cd7eb8be0b33aa1156",
+    "c0bc31753f6d8154dd01f95c5241226c",
+    "6f4e65451b63538697fcf5601b24a753",
+    "ce08ad1baf00f5b41f10a2a6ca3dfc0e"
   ],
   "titles": [
-    "Saarland - Rehlinger (SPD) weist Söder-Vorstoß zur Zusammenlegung von Bundesländern mit Spott zurück",
-    "Zucker und Alkohol - WHO wirbt für höhere Steuern auf Limo, Bier, Wein und Spirituosen",
-    "Sachsen-Anhalt - AfD-Gericht entzieht Bundestagsabgeordnetem Jan Wenzel Schmidt wegen mehrerer Vorwürfe die Mitgliedsrechte",
     "Justizministerin: Digitales Gewaltschutzgesetz soll mehr Deepfakes strafbar machen",
     "Grok-Trend auf X - KI-generierte Sexbilder: Bundesregierung kündigt schärfere Maßnahmen",
     "\"Terrorgram\"-Szene - Rechtsextreme Terroristen aus dem Kinderzimmer: Sicherheitsbehörden warnen vor wachsender Online-Radikalisierung",
@@ -3003,12 +3000,12 @@
     "Pakistan - Innenministerium: Selbstmordanschlag in Islamabad wurde in Afghanistan geplant",
     "Russland - Verdächtiger nach Anschlag auf Geheimdienst-General gefasst",
     "Politik - Parteienforscherin Heinze: Begriffe wie \"Lifestyle-Teilzeit\" schaden der Demokratie",
-    "Kongresswahlen im Herbst: Jetzt greift Trump auch die Wahlen selbst an"
+    "Kongresswahlen im Herbst: Jetzt greift Trump auch die Wahlen selbst an",
+    "Wohnen - Bundesjustizministerin Hubig will Mieter stärken - Gesetzentwurf liegt vor",
+    "UNO-Mission in DRKongo - Südafrika zieht Truppen ab",
+    "Portugal - Stichwahl um das Präsidentenamt"
   ],
   "hashes": [
-    "093f8779a56653b3134f3e2a8a5b17da",
-    "d2d6339f4dce572dded75bc823f3659c",
-    "54b7b9df9700accb5257dcfecb8cf06a",
     "d7604a848e38f327bcdad5f8f0d977dd",
     "6ec768d32817762f85e566d26471c9ea",
     "5b260b9dc991aa724f28c442e1909647",
@@ -4005,6 +4002,9 @@
     "6895e7c79b4033c45f3f0a6ab6749dba",
     "1e4d59645159809e033c9620f3d941ef",
     "7af000c3d8a0c5f0fa450a7460f90d3a",
-    "a3dd60f3933daec1a067f50eb03a20e3"
+    "a3dd60f3933daec1a067f50eb03a20e3",
+    "dfa91b6383c66a8236c73048249640a7",
+    "16b942e53d9abe6c2a3b9c3b42fdeaef",
+    "230137b321123f606d61efd953e535a2"
   ]
 }
