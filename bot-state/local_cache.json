@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/spd-legt-plan-fuer-reform-der-erbschaftssteuer-vor-accg-110818502.html",
-    "https://www.deutschlandfunk.de/weitere-warnstreiks-an-unikliniken-100.html",
     "https://www.deutschlandfunk.de/mindestens-25-tote-bei-zugunglueck-in-thailand-100.html",
     "https://www.deutschlandfunk.de/zahl-der-wehrdienstverweigerer-deutlich-gestiegen-100.html",
     "https://www.deutschlandfunk.de/proteste-gegen-regime-in-teheran-nehmen-nach-staatlicher-repression-ab-erste-hinrichtungen-befuercht-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/japans-neue-regierungschefin-takaichi-erringt-wahlsieg-100.html",
     "https://www.deutschlandfunk.de/vorschlag-zu-verschaerften-mietrecht-stoesst-auf-kritik-100.html",
     "https://www.aljazeera.com/economy/2026/2/8/understanding-the-value-of-gold-prices-global-reserves-and-market-trends?traffic_source=rss",
-    "https://www.deutschlandfunk.de/epstein-skandal-stabschef-des-britischen-premierministers-starmer-zurueckgetreten-100.html"
+    "https://www.deutschlandfunk.de/epstein-skandal-stabschef-des-britischen-premierministers-starmer-zurueckgetreten-100.html",
+    "https://www.deutschlandfunk.de/spd-will-neue-finanzierung-fuer-gesundheit-und-pflege-100.html",
+    "https://www.deutschlandfunk.de/weitere-haftstrafe-fuer-friedensnobelpreistraegerin-100.html"
   ],
   "content_hashes": [
-    "478f5da36f0ddb94810ecb0f94e616f0",
-    "e8d5baae2dd1122af83ea5ff2bc9575b",
     "4684923b5aae33cd6ac02ee630fdde7d",
     "d3e47de083dea9c41f37ca3035761184",
     "43da4d302302f8d5005c80c49b5328ab",
@@ -2001,11 +1999,11 @@
     "30dfa7bb4abf69b2c9eafc73cd1978ab",
     "fdc6c08274fe620bf693163ac8749396",
     "6324729d589c394bcb93a27ecb6d2fae",
-    "d54a5e84c646898c4ddd9891561b012c"
+    "d54a5e84c646898c4ddd9891561b012c",
+    "ccac2d2a020e838a3248045247740d0f",
+    "5b3368d72fe759b2f60b722af657cc62"
   ],
   "titles": [
-    "Schwarz-rote Koalition: Die Chancen auf Streit stehen gut im neuen Jahr",
-    "Tarifstreit des öffentlichen Dienstes - Weitere Warnstreiks an Unikliniken",
     "Baukran stürzt auf Gleise - Mindestens 25 Tote bei Zugunglück in Thailand",
     "Bundeswehr - Zahl der Wehrdienstverweigerer deutlich gestiegen",
     "Iran - Proteste gegen Regime in Teheran nehmen nach staatlicher Repression ab - erste Hinrichtungen befürchtet",
@@ -3003,11 +3001,11 @@
     "Parlamentswahl - Japans neue Regierungschefin Takaichi erringt Wahlsieg",
     "Wohnungsmarkt - Vorschlag zu verschärften Mietrecht stößt auf Kritik",
     "Understanding the value of gold: Prices, global reserves, and market trends",
-    "London - Epstein-Skandal: Stabschef des britischen Premierministers Starmer zurückgetreten"
+    "London - Epstein-Skandal: Stabschef des britischen Premierministers Starmer zurückgetreten",
+    "Gesundheitskosten - SPD will neue Finanzierung für Gesundheit und Pflege",
+    "Iran - Weitere Haftstrafe für Friedensnobelpreisträgerin"
   ],
   "hashes": [
-    "aac1c283938c23a233f02d2c69c955a8",
-    "3137c8c521ee7bac478c972877dc9d64",
     "6ca2117ef8fe51def7acd5102900ff42",
     "df590600f83a130687195521351e0afb",
     "320bcf08863cc14e48159cca27890b1f",
@@ -4005,6 +4003,8 @@
     "7cf3f13d1d6d7edd84ed624703322158",
     "31d99d22d189fd34529f295d2afe6ef8",
     "175dcd48bf5d0b690bfaa6886c332810",
-    "711d061e01e8784fe29a86257edeb733"
+    "711d061e01e8784fe29a86257edeb733",
+    "70b80115c849efd13476c75225f2c4b8",
+    "80fe59565983106f3290f4020664da80"
   ]
 }
