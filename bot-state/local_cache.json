@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/dobrindt-beruft-migrationsbotschafter-100.html",
-    "https://www.deutschlandfunk.de/razzien-in-nagelstudios-in-fuenf-bundeslaendern-100.html",
-    "https://www.deutschlandfunk.de/heeresinspekteur-neun-entlassungen-aus-luftlandetruppe-102.html",
     "https://www.deutschlandfunk.de/verdi-stimmt-auf-weitere-warnstreiks-ein-102.html",
     "https://www.deutschlandfunk.de/server-des-kriminellen-cyberdiensts-redvds-in-deutschland-beschlagnahmt-100.html",
     "https://www.deutschlandfunk.de/csu-aussenpolitiker-mayer-fordert-mehr-einigkeit-der-europaeer-gegenueber-iran-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/arbeitspflicht-fuer-buergergeldempfaenger-bundesarbeitsministerium-reagiert-skeptisch-100.html",
     "https://www.deutschlandfunk.de/seahawks-bezwingen-patriots-im-super-bowl-bad-bunny-nutzt-halbzeitshow-fuer-politische-botschaften-100.html",
     "https://www.deutschlandfunk.de/klarer-sieg-des-sozialisten-seguro-bei-der-praesidentschaftswahl-in-portugal-100.html",
-    "https://www.deutschlandfunk.de/super-bowl-halbzeitshow-trump-kritisiert-bady-bunny-saenger-mit-politischen-botschaften-100.html"
+    "https://www.deutschlandfunk.de/super-bowl-halbzeitshow-trump-kritisiert-bady-bunny-saenger-mit-politischen-botschaften-100.html",
+    "https://www.deutschlandfunk.de/drei-tote-bei-russischen-angriffen-auf-odessa-und-die-region-charkiw-100.html",
+    "https://www.deutschlandfunk.de/israel-will-kontrolle-ueber-besetztes-westjordanland-ausweiten-100.html",
+    "https://www.deutschlandfunk.de/neuseeland-attentaeter-von-christchurch-will-schuldgestaendnis-anfechten-100.html"
   ],
   "content_hashes": [
-    "56a8ad3bc75bd924610c1a68789c3429",
-    "28b63ceda35e10f0817840d1e6aa090e",
-    "57fe7256bdcd25c77c7ceb84717e9a76",
     "6cc57db9dd0a4cc49b3b77beafc6a6d1",
     "71808806b4e8cd34eee0387af6f09724",
     "2e49305b94f52af27e6514d032424541",
@@ -2001,12 +1998,12 @@
     "5758a4f81bc12b4fa5e97e346106d254",
     "2f18b8f8acb273537c2655011f3b2a8b",
     "32da06cdb52d0d088c55dd73d7b821bc",
-    "098ac9ddfd399c555fb4c0debaa60b9a"
+    "098ac9ddfd399c555fb4c0debaa60b9a",
+    "5c67f11357ccfd7c556ee4dcd8599842",
+    "8fa5962c2dcfab1e129a8704963f1502",
+    "dd4b2cf08623d2abd3561ae94e918252"
   ],
   "titles": [
-    "Abschiebungen - Dobrindt beruft Migrationsbotschafter",
-    "Schwarzarbeit - Razzien in Nagelstudios in fünf Bundesländern",
-    "Exzesse bei den Fallschirmjägern - Heeresinspekteur: Neun Entlassungen aus Luftlandetruppe",
     "Öffentlicher Dienst - Verdi stimmt auf weitere Warnstreiks ein",
     "Cyberkriminalität - Server des kriminellen Cyberdiensts RedVDS in Deutschland beschlagnahmt",
     "Sanktionen - CSU-Außenpolitiker Mayer fordert mehr Einigkeit der Europäer gegenüber Iran",
@@ -3003,12 +3000,12 @@
     "Nach Vorstoß aus Magdeburg - Arbeitspflicht für Bürgergeldempfänger? Bundesarbeitsministerium reagiert skeptisch",
     "American Football - Seahawks bezwingen Patriots im Super Bowl - Bad Bunny nutzt Halbzeitshow für politische Botschaften",
     "Lissabon - Klarer Sieg des Sozialisten Seguro bei der Präsidentschaftswahl in Portugal",
-    "American Football - Super-Bowl-Halbzeitshow: Trump kritisiert Bady Bunny - Sänger mit politischen Botschaften"
+    "American Football - Super-Bowl-Halbzeitshow: Trump kritisiert Bady Bunny - Sänger mit politischen Botschaften",
+    "Ukraine - Drei Tote bei russischen Angriffen auf Odessa und die Region Charkiw",
+    "Nahostkonflikt - Israel will Kontrolle über besetztes Westjordanland ausweiten",
+    "Justiz - Neuseeland: Attentäter von Christchurch will Schuldgeständnis anfechten"
   ],
   "hashes": [
-    "0185c2debd85694cd35ecc84d4509f59",
-    "3ebb37ec6ccd5916f1645809be4bf3ac",
-    "f4c95623d2dd0c2c1ba97dff34bd201a",
     "c43d7a1fb37b087acbe8e951a0a09af4",
     "98555d87dc0c0ab72944ef63d702d704",
     "b1f85b22310aee2f59b244fcc2ee1f9e",
@@ -4005,6 +4002,9 @@
     "da4b2d3a76ad557efcbb5f06226698c6",
     "ce20000b7a3468057a831f2d3e304fb0",
     "dd9e46d29d0231e23365c6af46252424",
-    "e8d9bfeea3fd4f080a7eb6351351c30f"
+    "e8d9bfeea3fd4f080a7eb6351351c30f",
+    "e27e5860d002c36c8ebd345a7ffd2b67",
+    "971bf26e5decbba69fc1fea95badc51c",
+    "88b38ef97d61bac71912265d7c0cf4d4"
   ]
 }
