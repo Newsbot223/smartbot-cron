@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-begonnen-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-kuendigt-nach-massiven-russischen-angriffen-energienotstand-an-100.html",
-    "https://www.deutschlandfunk.de/iranischer-luftraum-fuer-mehrere-stunden-gesperrt-bericht-grosse-angst-in-der-bevoelkerung-100.html",
-    "https://www.deutschlandfunk.de/sicherheitsexperte-heusgen-europa-zeigt-sich-schwach-gegenueber-dem-mullah-regime-100.html",
     "https://www.deutschlandfunk.de/100-jahre-gruene-woche-bundespraesident-steinmeier-eroeffnet-landwirtschaftsmesse-am-abend-100.html",
     "https://www.deutschlandfunk.de/verletzter-nach-schuss-von-ice-beamten-in-minneapolis-100.html",
     "https://www.deutschlandfunk.de/spd-gegen-schaerfere-regeln-fuer-medizinisches-cannabis-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundesregierung-beschaeftigt-sich-mit-schaerferen-us-einreisebestimmungen-100.html",
     "https://www.deutschlandfunk.de/bsw-reicht-wahlpruefungsbeschwerde-beim-bundesverfassungsgericht-ein-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-verurteilt-hohe-strafe-gegen-hongkonger-aktivisten-lai-100.html",
-    "https://www.deutschlandfunk.de/eu-kommission-schraenkt-vernichtung-nicht-verkaufter-oder-zurueckgegebener-kleidungsstuecke-ein-100.html"
+    "https://www.deutschlandfunk.de/eu-kommission-schraenkt-vernichtung-nicht-verkaufter-oder-zurueckgegebener-kleidungsstuecke-ein-100.html",
+    "https://www.deutschlandfunk.de/japanische-regierungschefin-kuendigt-nach-wahlsieg-bedeutenden-politikwechsel-an-100.html",
+    "https://www.deutschlandfunk.de/warnung-vor-gefahren-durch-abkehr-der-usa-von-internationaler-ordnung-106.html",
+    "https://www.deutschlandfunk.de/dutzende-tote-bei-mittelmeerueberfahrt-102.html",
+    "https://www.deutschlandfunk.de/ohne-naturschutz-riskieren-unternehmen-ihre-zukunft-102.html"
   ],
   "content_hashes": [
-    "331b0da5da81590e2d534044384f0eca",
-    "f76e3d9f77e031cf25daf43bc3071f2a",
-    "6c8f1a00847deea3a91d3b2d2bcc8273",
-    "a4229aa11c497ec511068bcb2b8a8608",
     "e03d51907a873e4617ee079fcc69a09c",
     "cee4a8e7c4cb207fa08f37249566ef15",
     "289ced294327d107c288d0f89487b5e3",
@@ -2001,13 +1997,13 @@
     "6e8388836a1327979560427a586f838c",
     "d94b46f1517b295510db1b1e68a7da6e",
     "f6c289c5d8e041162d58a105a80dad1d",
-    "34642889e3e6ee2d08025226dab57bc9"
+    "34642889e3e6ee2d08025226dab57bc9",
+    "fa5fffe809e84763a5b27f07f0a560f5",
+    "23436780fab5b311471bcb851561e337",
+    "6ec6e1925d6fabc08f4fa62ef66e6f21",
+    "7fce9e4c27e1fefd1dacc3c9f5f3a42f"
   ],
   "titles": [
-    "Afrika - Präsidentschaftswahl in Uganda begonnen",
-    "Ukraine-Krieg - Selenskyj kündigt nach massiven russischen Angriffen Energienotstand an",
-    "Newsblog zur Lage im Iran - Iranischer Luftraum für mehrere Stunden gesperrt - Bericht: \"Große Angst\" in der Bevölkerung\"",
-    "Iran-Krise - Sicherheitsexperte Heusgen: Europa zeigt sich schwach gegenüber dem Mullah-Regime",
     "Agrarbranche - 100. Jahre Grüne Woche: Bundespräsident Steinmeier eröffnet Landwirtschaftsmesse am Abend",
     "USA - Verletzter nach Schuss von ICE-Beamten in Minneapolis",
     "Gesundheitspolitik - SPD gegen schärfere Regeln für medizinisches Cannabis",
@@ -3003,13 +2999,13 @@
     "USA-Reisen - Bundesregierung beschäftigt sich mit schärferen US-Einreisebestimmungen",
     "Karlsruhe - BSW reicht Wahlprüfungsbeschwerde beim Bundesverfassungsgericht ein",
     "20 Jahre Haft - Bundesregierung verurteilt hohe Strafe gegen Hongkonger Aktivisten Lai",
-    "Brüssel - EU-Kommission schränkt Vernichtung nicht verkaufter oder zurückgegebener Kleidungsstücke ein"
+    "Brüssel - EU-Kommission schränkt Vernichtung nicht verkaufter oder zurückgegebener Kleidungsstücke ein",
+    "Parlamentswahl - Japanische Regierungschefin kündigt nach Wahlsieg \"bedeutenden Politikwechsel\" an",
+    "Vor Münchner Sicherheitskonferenz - Warnung vor Gefahren durch Abkehr der USA von internationaler Ordnung",
+    "Libyen - Dutzende Tote bei Mittelmeerüberfahrt",
+    "Experten-Bericht - Ohne Naturschutz riskieren Unternehmen ihre Zukunft"
   ],
   "hashes": [
-    "57ea23591b07b9d8ed43beea15c3aaa5",
-    "2328ffe40b0fdbff1d2127e2dede06ff",
-    "a02afe486bdd63fa1b42bc8e1d008285",
-    "28600253e5e54f8988442126e418155b",
     "cc01048182e09c0c4f265b1e4c7df8df",
     "8114c4c9508abfc3fd52163998e594f2",
     "f4655852b5070097c0b2a41c09a451f2",
@@ -4005,6 +4001,10 @@
     "4233a761349b50eb8e4600b8b21ff91a",
     "f1f008321d6545904d3d48b365feb273",
     "40365e2d9106641b87ecca15d599ee25",
-    "c3e33e5e207914df653aa5ab77094b3d"
+    "c3e33e5e207914df653aa5ab77094b3d",
+    "984a872eb5d496a43250de5231aaabb6",
+    "8e9f9ec41262fd076dbcff4841ad30a3",
+    "f63b7648dd6ca7bc03dd2ea2174b07e9",
+    "7ea3ec53f7325aceef7db78e32ea5c3d"
   ]
 }
