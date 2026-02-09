@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/weitere-absagen-von-kabinettsmitgliedern-100.html",
-    "https://www.deutschlandfunk.de/auslaender-muessen-hausordnung-einhalten-koalition-in-oesterreich-will-regeln-fuer-asylberechtigte-e-100.html",
-    "https://www.deutschlandfunk.de/iranischer-luftraum-fuer-mehrere-stunden-zahl-der-todesopfer-steigt-laut-menschenrechtsorganisation--100.html",
-    "https://www.deutschlandfunk.de/eu-recht-bundesregierung-will-recht-auf-reparatur-fuer-elektronische-geraete-schaffen-100.html",
     "https://www.deutschlandfunk.de/praesidentschaftswahl-in-uganda-begonnen-100.html",
     "https://www.deutschlandfunk.de/selenskyj-kuendigt-nach-massiven-russischen-angriffen-energienotstand-an-100.html",
     "https://www.deutschlandfunk.de/iranischer-luftraum-fuer-mehrere-stunden-gesperrt-bericht-grosse-angst-in-der-bevoelkerung-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/muenchner-sicherheitskonferenz-us-delegation-wird-von-aussenminister-rubio-angefuehrt-auch-prominent-100.html",
     "https://www.deutschlandfunk.de/vier-palaestinenser-nach-angriff-auf-soldaten-in-gaza-getoetet-dutzende-hamas-kaempfer-in-tunneln-ve-102.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/buerger-kuendigt-investitionen-an-schaffe-schaffe-maultaschenproduktion-ausbauen-a-faaced84-b0a5-4c8e-a23d-99493d52a7d5#ref=rss",
-    "https://www.aljazeera.com/news/longform/2026/2/9/big-crisis-kasts-immigration-agenda-brings-uncertainty-to-chiles-north?traffic_source=rss"
+    "https://www.aljazeera.com/news/longform/2026/2/9/big-crisis-kasts-immigration-agenda-brings-uncertainty-to-chiles-north?traffic_source=rss",
+    "https://www.deutschlandfunk.de/bundesregierung-beschaeftigt-sich-mit-schaerferen-us-einreisebestimmungen-100.html",
+    "https://www.deutschlandfunk.de/bsw-reicht-wahlpruefungsbeschwerde-beim-bundesverfassungsgericht-ein-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-verurteilt-hohe-strafe-gegen-hongkonger-aktivisten-lai-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-schraenkt-vernichtung-nicht-verkaufter-oder-zurueckgegebener-kleidungsstuecke-ein-100.html"
   ],
   "content_hashes": [
-    "8a19953cc1ba77eaefc57308ee52e8bd",
-    "6c1cb5aeb1da9aeea3de9d3410b08a9c",
-    "fd12c3bc19efb07bd88a501e860100d5",
-    "2fbe5b4fbe9417262fe0b65834d60b18",
     "331b0da5da81590e2d534044384f0eca",
     "f76e3d9f77e031cf25daf43bc3071f2a",
     "6c8f1a00847deea3a91d3b2d2bcc8273",
@@ -2001,13 +1997,13 @@
     "6d1b570c5897428037248dbec67feb21",
     "47cd57ef8d54036959e45092e21e1951",
     "0c0640185e493b1c25c0c4dada7a7313",
-    "d3dea53bfce173d220c0d73d4e7b9174"
+    "d3dea53bfce173d220c0d73d4e7b9174",
+    "6e8388836a1327979560427a586f838c",
+    "d94b46f1517b295510db1b1e68a7da6e",
+    "f6c289c5d8e041162d58a105a80dad1d",
+    "34642889e3e6ee2d08025226dab57bc9"
   ],
   "titles": [
-    "Weimer Media Group - Weitere Absagen von Kabinettsmitgliedern",
-    "ÖVP, SPÖ und Neos - Ausländer müssen \"Hausordnung\" einhalten: Koalition in Österreich will Regeln für Asylberechtigte erneut verschärfen",
-    "Newsblog zur Lage im Iran - Iranischer Luftraum für mehrere Stunden - Zahl der Todesopfer steigt laut Menschenrechtsorganisation weiter",
-    "Nachhaltigkeit - EU-Recht: Bundesregierung will \"Recht auf Reparatur\" für elektronische Geräte schaffen",
     "Afrika - Präsidentschaftswahl in Uganda begonnen",
     "Ukraine-Krieg - Selenskyj kündigt nach massiven russischen Angriffen Energienotstand an",
     "Newsblog zur Lage im Iran - Iranischer Luftraum für mehrere Stunden gesperrt - Bericht: \"Große Angst\" in der Bevölkerung\"",
@@ -3003,13 +2999,13 @@
     "Transatlantische Beziehungen - Münchner Sicherheitskonferenz: US-Delegation wird von Außenminister Rubio angeführt - Auch prominente Demokraten erwartet",
     "Israel - Vier Palästinenser nach Angriff auf Soldaten in Gaza getötet - Dutzende Hamas-Kämpfer in Tunneln verschanzt",
     "Bürger kündigt Investitionen an: Schaffe, schaffe, Maultaschenproduktion ausbauen",
-    "‘Big crisis’: Kast’s immigration agenda brings uncertainty to Chile’s north"
+    "‘Big crisis’: Kast’s immigration agenda brings uncertainty to Chile’s north",
+    "USA-Reisen - Bundesregierung beschäftigt sich mit schärferen US-Einreisebestimmungen",
+    "Karlsruhe - BSW reicht Wahlprüfungsbeschwerde beim Bundesverfassungsgericht ein",
+    "20 Jahre Haft - Bundesregierung verurteilt hohe Strafe gegen Hongkonger Aktivisten Lai",
+    "Brüssel - EU-Kommission schränkt Vernichtung nicht verkaufter oder zurückgegebener Kleidungsstücke ein"
   ],
   "hashes": [
-    "f7180b2bc3483056a12ac40d4fd5a68a",
-    "0d2d6bf50671587ff124c9a167ba1639",
-    "2b8149a9689538950b564624089577b4",
-    "6461eb2b3c360e60a6528f6a3488d24f",
     "57ea23591b07b9d8ed43beea15c3aaa5",
     "2328ffe40b0fdbff1d2127e2dede06ff",
     "a02afe486bdd63fa1b42bc8e1d008285",
@@ -4005,6 +4001,10 @@
     "65ec72de74273d7f94373f92ad1d5e21",
     "f04388abd4b7f1dbc1b4d352e239da16",
     "194133dc5ffcc1dc34bd79b3cf719d61",
-    "735c759482bc947f59f7ed90805533e5"
+    "735c759482bc947f59f7ed90805533e5",
+    "4233a761349b50eb8e4600b8b21ff91a",
+    "f1f008321d6545904d3d48b365feb273",
+    "40365e2d9106641b87ecca15d599ee25",
+    "c3e33e5e207914df653aa5ab77094b3d"
   ]
 }
