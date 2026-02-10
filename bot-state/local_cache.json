@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/piraten-greifen-haeufiger-schiffe-auf-weltmeeren-an-100.html",
-    "https://www.deutschlandfunk.de/sed-opferbeauftragte-zupke-verlangt-gesetzliche-regelung-fuer-doping-opfer-102.html",
-    "https://www.deutschlandfunk.de/gesellschaft-schlaegt-doppelten-eigenanteil-fuer-patienten-vor-100.html",
     "https://www.deutschlandfunk.de/deutsche-luftfahrtbehoerden-empfehlen-vermeidung-des-iranischen-luftraums-100.html",
     "https://www.deutschlandfunk.de/amazon-startet-eigenstaendige-cloud-fuer-europa-106.html",
     "https://www.faz.net/aktuell/politik/inland/masslose-geschichtsvergessenheit-110818981.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/us-aussenminister-rubio-bestaetigt-teilnahme-auch-besuche-in-der-slowakei-und-ungarn-102.html",
     "https://www.deutschlandfunk.de/erneut-hunderte-angriffe-auf-journalisten-102.html",
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-reist-nach-israel-100.html",
-    "https://www.faz.net/aktuell/politik/inland/spd-und-linke-gegen-ein-social-media-verbot-fuer-jugendliche-accg-200523098.html"
+    "https://www.faz.net/aktuell/politik/inland/spd-und-linke-gegen-ein-social-media-verbot-fuer-jugendliche-accg-200523098.html",
+    "https://www.deutschlandfunk.de/verdaechtiger-randalierte-bereits-vor-toedlichem-angriff-auf-zugbegleiter-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-und-prien-stellen-dunkelfeldstudie-vor-102.html",
+    "https://www.deutschlandfunk.de/klimawandel-koennte-zahl-der-weideflaechen-bis-2100-halbieren-afrika-besonders-betroffen-102.html"
   ],
   "content_hashes": [
-    "1164a7860b9cb3202ea835cb5e403986",
-    "af047665d82419c20171f4d2c0358438",
-    "8abd17a0fe13a06d1529bffc72e335db",
     "51a385b4cfe9d2fda259168ac2c78fc7",
     "a31a1d0b5b74370aa0a64777da750aa2",
     "4ba325f95c0a9bc14c1b9413ad782cb0",
@@ -2001,12 +1998,12 @@
     "368df3598d27354f9d4a3e44a2603a7d",
     "0396815c8f667485c5e6a621423ae044",
     "ff1def964b455d98a3dfa7d046751b64",
-    "a68e8c71cc0a31becee453ab6b69b7d2"
+    "a68e8c71cc0a31becee453ab6b69b7d2",
+    "fabbf157365f8c3415f017e86c9331b9",
+    "08cf816f86f2612e7ef1f6c8dc794285",
+    "2fded02062dd2c35e1e85903ceefd5e9"
   ],
   "titles": [
-    "Internationale Schifffahrtsbüro - Piraten greifen häufiger Schiffe auf Weltmeeren an",
-    "Zwangsdoping in der DDR - SED-Opferbeauftragte Zupke verlangt gesetzliche Regelung für Doping-Opfer",
-    "Krankenhaus-Aufenthalt - Gesellschaft schlägt doppelten Eigenanteil für Patienten vor",
     "Verkehr - Deutsche Luftfahrtbehörden empfehlen Vermeidung des iranischen Luftraums",
     "Digitalwirtschaft - Amazon startet eigenständige Cloud für Europa",
     "DDR im Schulunterricht: Maßlose Geschichtsvergessenheit",
@@ -3003,12 +3000,12 @@
     "Münchner Sicherheitskonferenz - US-Außenminister Rubio bestätigt Teilnahme - auch Besuche in der Slowakei und Ungarn",
     "Medien in Deutschland - Erneut hunderte Angriffe auf Journalisten",
     "Antrittsbesuch - Bundestagspräsidentin Klöckner reist nach Israel",
-    "Soziale Medien: SPD und Linke gegen ein Social-Media-Verbot für Jugendliche"
+    "Soziale Medien: SPD und Linke gegen ein Social-Media-Verbot für Jugendliche",
+    "\"Spiegel\"-Bericht - Verdächtiger randalierte bereits vor tödlichem Angriff auf Zugbegleiter",
+    "Gewalt in verschiedenen Bereichen - Dobrindt und Prien stellen Dunkelfeldstudie vor",
+    "Studie - Klimawandel könnte Zahl der Weideflächen bis 2100 halbieren - Afrika besonders betroffen"
   ],
   "hashes": [
-    "920b83d911fbce29982e193c2574df51",
-    "52bf759432d2933be3a664ea4e29bc2a",
-    "a97dbebef472d7b8a96e42cf935f82ad",
     "2256c5ae4cbaad59e1fe8dd23b0311c8",
     "5f058ae5eee3f94e8d5c0526100a5539",
     "7c64c1546923f37316dc3da682bb8a74",
@@ -4005,6 +4002,9 @@
     "c06fc55b1d0f2f3d20c2db324faea7dc",
     "2e439336ba117fb7993149be26a3f24a",
     "54dadfa7b9c24f30b82f19ca331e10f5",
-    "d5b706b0294e5546dc51fbd30690c1b6"
+    "d5b706b0294e5546dc51fbd30690c1b6",
+    "79db280e682c187b1d47da6a991d5ccb",
+    "3a2bbcd7657a875decc55b6371d35893",
+    "11617e21e8c1062e8cea9747aa5ad51e"
   ]
 }
