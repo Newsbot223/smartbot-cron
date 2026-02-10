@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frontex-zahl-der-irregulaeren-grenzuebertritte-2025-gesunken-100.html",
-    "https://www.deutschlandfunk.de/welche-wirtschaftsbeziehungen-es-noch-zwischen-dem-iran-und-deutschland-gibt-100.html",
-    "https://www.deutschlandfunk.de/zweite-runde-der-tarifgespraeche-im-oeffentlichen-dienst-104.html",
-    "https://www.aljazeera.com/video/counting-the-cost/2026/1/15/eu-latin-america-trade-deal-who-wins-2?traffic_source=rss",
     "https://www.deutschlandfunk.de/piraten-greifen-haeufiger-schiffe-auf-weltmeeren-an-100.html",
     "https://www.deutschlandfunk.de/sed-opferbeauftragte-zupke-verlangt-gesetzliche-regelung-fuer-doping-opfer-102.html",
     "https://www.deutschlandfunk.de/gesellschaft-schlaegt-doppelten-eigenanteil-fuer-patienten-vor-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/soeder-trifft-babis-holprige-wege-nach-prag-110834273.html",
     "https://www.deutschlandfunk.de/erderwaermung-fuehrt-zu-verlust-von-weideflaechen-102.html",
     "https://www.deutschlandfunk.de/armenien-und-usa-vereinbaren-atom-kooperation-100.html",
-    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-in-israel-100.html"
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-in-israel-100.html",
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-bestaetigt-teilnahme-auch-besuche-in-der-slowakei-und-ungarn-102.html",
+    "https://www.deutschlandfunk.de/erneut-hunderte-angriffe-auf-journalisten-102.html",
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-reist-nach-israel-100.html",
+    "https://www.faz.net/aktuell/politik/inland/spd-und-linke-gegen-ein-social-media-verbot-fuer-jugendliche-accg-200523098.html"
   ],
   "content_hashes": [
-    "b5a2c03133ae33b1f8525ab75cd0ac22",
-    "0cc40a62d11ce44aa5a3d318b8351080",
-    "06e81baa3908634eaaadd7bf53b871e8",
-    "66b99b4bae0395cfe65da2bf2049a529",
     "1164a7860b9cb3202ea835cb5e403986",
     "af047665d82419c20171f4d2c0358438",
     "8abd17a0fe13a06d1529bffc72e335db",
@@ -2001,13 +1997,13 @@
     "71fa12ac1260821cdfa9a2fc38493cd4",
     "414348383e9e6285b75224be0d524713",
     "8a6f5b439e500e5a41940d4475f0410e",
-    "e443840d30e7b70694763ddb1b72fbb3"
+    "e443840d30e7b70694763ddb1b72fbb3",
+    "368df3598d27354f9d4a3e44a2603a7d",
+    "0396815c8f667485c5e6a621423ae044",
+    "ff1def964b455d98a3dfa7d046751b64",
+    "a68e8c71cc0a31becee453ab6b69b7d2"
   ],
   "titles": [
-    "Migration - Frontex: Zahl der irregulären Grenzübertritte 2025 gesunken",
-    "Sanktionen - Welche Wirtschaftsbeziehungen es noch zwischen dem Iran und Deutschland gibt",
-    "Potsdam - Zweite Runde der Tarifgespräche im öffentlichen Dienst",
-    "EU-Latin America trade deal: Who wins?",
     "Internationale Schifffahrtsbüro - Piraten greifen häufiger Schiffe auf Weltmeeren an",
     "Zwangsdoping in der DDR - SED-Opferbeauftragte Zupke verlangt gesetzliche Regelung für Doping-Opfer",
     "Krankenhaus-Aufenthalt - Gesellschaft schlägt doppelten Eigenanteil für Patienten vor",
@@ -3003,13 +2999,13 @@
     "Söder trifft Babiš: Die Wege nach Prag sind holprig",
     "Studie - Erderwärmung führt zu Verlust von Weideflächen",
     "Eriwan - Armenien und USA vereinbaren Atom-Kooperation",
-    "Antrittsbesuch - Bundestagspräsidentin Klöckner in Israel"
+    "Antrittsbesuch - Bundestagspräsidentin Klöckner in Israel",
+    "Münchner Sicherheitskonferenz - US-Außenminister Rubio bestätigt Teilnahme - auch Besuche in der Slowakei und Ungarn",
+    "Medien in Deutschland - Erneut hunderte Angriffe auf Journalisten",
+    "Antrittsbesuch - Bundestagspräsidentin Klöckner reist nach Israel",
+    "Soziale Medien: SPD und Linke gegen ein Social-Media-Verbot für Jugendliche"
   ],
   "hashes": [
-    "7039f7ead1dc2c8d2eb410bd12ba735e",
-    "47a421ebf7d3dc35de06e29d6f09c6bb",
-    "9da1a49916d60168ecb408208237f47a",
-    "d354371b819a6c8c014416a03d1f3420",
     "920b83d911fbce29982e193c2574df51",
     "52bf759432d2933be3a664ea4e29bc2a",
     "a97dbebef472d7b8a96e42cf935f82ad",
@@ -4005,6 +4001,10 @@
     "c9ead6aa15a26dfe85fc5082c5236478",
     "02a6d44ad9521feef97362f6ee9de810",
     "fa06573c548ab38673d54add45534a98",
-    "1c66ea779d24b58fe94210a51e8efdfa"
+    "1c66ea779d24b58fe94210a51e8efdfa",
+    "c06fc55b1d0f2f3d20c2db324faea7dc",
+    "2e439336ba117fb7993149be26a3f24a",
+    "54dadfa7b9c24f30b82f19ca331e10f5",
+    "d5b706b0294e5546dc51fbd30690c1b6"
   ]
 }
