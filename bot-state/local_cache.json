@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukrainisches-militaer-heftige-kaempfe-im-osten-armeechef-meldet-steigende-russische-verluste-100.html",
-    "https://www.deutschlandfunk.de/amtsinhaber-museveni-liegt-laut-wahlkommission-in-uganda-vorne-100.html",
-    "https://www.deutschlandfunk.de/fast-fuenf-millionen-accounts-in-australien-deaktiviert-104.html",
     "https://www.deutschlandfunk.de/prozess-um-toedliche-autoattacke-auf-verdi-demonstration-in-muenchen-begonnen-102.html",
     "https://www.deutschlandfunk.de/prozess-um-toedliche-autoattacke-auf-verdi-demonstration-hat-begonnen-100.html",
     "https://www.deutschlandfunk.de/bundestag-beraet-einfuehrung-digitaler-fuehrerscheine-und-digitaler-parkraumkontrollen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/2025-erneut-zehntausende-stellen-abgebaut-102.html",
     "https://www.deutschlandfunk.de/zwei-tote-nach-russischem-luftangriff-auf-slowjansk-100.html",
     "https://www.faz.net/aktuell/politik/inland/gewalt-studie-der-staat-kann-nicht-alles-durchleuchten-110835030.html",
-    "https://www.deutschlandfunk.de/eu-kommission-nimmt-cupra-modell-von-zoellen-auf-chinesische-e-autos-aus-102.html"
+    "https://www.deutschlandfunk.de/eu-kommission-nimmt-cupra-modell-von-zoellen-auf-chinesische-e-autos-aus-102.html",
+    "https://www.deutschlandfunk.de/schwere-ausschreitungen-bei-protesten-102.html",
+    "https://www.deutschlandfunk.de/medien-graf-lambsdorff-soll-botschafter-in-israel-werden-100.html",
+    "https://www.deutschlandfunk.de/eu-kommission-nimmt-cupra-modell-des-vw-konzerns-von-zoellen-auf-chinesische-e-autos-aus-100.html"
   ],
   "content_hashes": [
-    "6e8bffa71f02c8cd1da81dd10f76c39d",
-    "1d5b2c84c5fe231173f81fad05e14a26",
-    "819b981bce2b7077c53e2b5641753834",
     "d31790669da1bc1b903424a77bd577f8",
     "e9b60d5e23f6d358a59de2aa7da985c6",
     "162ac93b3a749f8be2a274fec6e6b249",
@@ -2001,12 +1998,12 @@
     "bd993a0fdea5cd2f47dfd50b477b1213",
     "4fa4670092c10e4d496e53f32c60e9c1",
     "8663e84dfc0aa209c55a4c7156ea74cf",
-    "aaccda4af7fd639e4edb99cd24e54380"
+    "aaccda4af7fd639e4edb99cd24e54380",
+    "c8cbc7562d4a121fb5a5acd790962a07",
+    "e167c8bc73f32eaadf7939bc77f43159",
+    "100501eee16778320e3da917a01c6f7e"
   ],
   "titles": [
-    "Ukraine-Krieg - Ukrainisches Militär: Heftige Kämpfe im Osten - Armeechef meldet steigende russische Verluste",
-    "Präsidentschaftswahl - Amtsinhaber Museveni liegt laut Wahlkommission in Uganda vorne",
-    "Social Media - Fast fünf Millionen Accounts in Australien deaktiviert",
     "Prozess um tödliche Autoattacke auf Verdi-Demonstration in München begonnen",
     "München - Prozess um tödliche Autoattacke auf Verdi-Demonstration hat begonnen",
     "Verkehrspolitik - Bundestag berät Einführung digitaler Führerscheine und digitaler Parkraumkontrollen",
@@ -3003,12 +3000,12 @@
     "Autoindustrie - 2025 erneut zehntausende Stellen abgebaut",
     "Ukraine-Krieg - Zwei Tote nach russischem Luftangriff auf Slowjansk",
     "Dunkelfeldstudie des BKA: Der Staat kann nicht einfach alles durchleuchten",
-    "Wettbewerb - EU-Kommission nimmt Cupra-Modell von Zöllen auf chinesische E-Autos aus"
+    "Wettbewerb - EU-Kommission nimmt Cupra-Modell von Zöllen auf chinesische E-Autos aus",
+    "Albanien - Schwere Ausschreitungen bei Protesten",
+    "Diplomatie - Medien: Graf Lambsdorff soll Botschafter in Israel werden",
+    "Wettbewerb - EU-Kommission nimmt Cupra-Modell des VW-Konzerns von Zöllen auf chinesische E-Autos aus"
   ],
   "hashes": [
-    "e0484d832dd43c5ec43dbb5883dd695a",
-    "761faac92302e57c279519632774c56c",
-    "c25524b7502af6f20c6b039a9feb0c68",
     "2c39771298d68ae9d24422c47f0ac8a4",
     "125866bd34d4924e54516330c37ae411",
     "3f851a00f8539fe09a5ffef9157eb3d6",
@@ -4005,6 +4002,9 @@
     "e33da96b5f5679d41e4445096d6368d9",
     "96d394ab152e19ed2fbfc4586bb2c79a",
     "42645bac6686edeb733990739978ea48",
-    "79effd246b1bea034c8e941ea6c7fd6d"
+    "79effd246b1bea034c8e941ea6c7fd6d",
+    "9ee00be3c13d18f3d68cdb93e37639ef",
+    "b5f5bf35e2c5597241b207a81573080f",
+    "af1542e0d01963254f38225a15ec4f93"
   ]
 }
