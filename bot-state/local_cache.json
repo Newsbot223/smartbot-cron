@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ovg-berlin-brandenburg-bestaetigt-verbot-von-schuelerpraktikum-bei-afd-bundestagsabgeordneten-100.html",
-    "https://www.deutschlandfunk.de/trump-droht-gegnern-seiner-groenland-plaene-mit-strafzoellen-100.html",
     "https://www.deutschlandfunk.de/afd-veranstaltung-mit-rechtsextremist-sellner-in-brandenburg-wird-abgesagt-100.html",
     "https://www.deutschlandfunk.de/erneute-gefechte-befuerchtet-tausende-syrer-fliehen-aus-region-aleppo-100.html",
     "https://www.faz.net/aktuell/politik/ausland/der-friedensnobelpreis-fuer-maria-corina-machado-war-ein-irrtum-110820900.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/angriffe-auf-verkehrsinfrastruktur-bericht-kiew-plant-praesidentschaftswahl-und-referendum-100.html",
     "https://www.deutschlandfunk.de/irans-regierung-mobilisiert-anhaenger-102.html",
     "https://www.deutschlandfunk.de/erdogan-ernennt-umstrittenen-istanbuler-generalstaatsanwalt-guerlek-zum-justizminister-100.html",
-    "https://www.deutschlandfunk.de/irland-fuehrt-grundeinkommen-fuer-kuenstler-ein-102.html"
+    "https://www.deutschlandfunk.de/irland-fuehrt-grundeinkommen-fuer-kuenstler-ein-102.html",
+    "https://www.deutschlandfunk.de/eu-kommission-will-flughaefen-mit-5g-gegen-drohnen-schuetzen-100.html",
+    "https://www.deutschlandfunk.de/bericht-ukraine-bereitet-praesidentschaftswahlen-bis-mitte-mai-vor-druck-von-us-regierung-100.html"
   ],
   "content_hashes": [
-    "aae1bfce52dcc1ba18d98359a4126a72",
-    "cafaa354babd9aafe1cb67d703dd58d2",
     "a4205f769fe6a72c31d82359b71cd672",
     "50900f9059d219b5634e8bb85b186fb0",
     "5241f84010f55a632c26fdb1cf825049",
@@ -2001,11 +1999,11 @@
     "611bacc343d3df7f031108eaa57931b5",
     "2a2806dbf12b786056e602dec8fa7f94",
     "0d0660ad645631a9838e1f0bfec22215",
-    "f6fd7c42702531241d81350eab0c99ac"
+    "f6fd7c42702531241d81350eab0c99ac",
+    "ceebd5fd9c3af1bc70c75052af998c52",
+    "59290603a7840cce64349e7aa80a7b38"
   ],
   "titles": [
-    "Rechtsextremismus - OVG Berlin-Brandenburg bestätigt Verbot von Schülerpraktikum bei AfD-Bundestagsabgeordneten",
-    "USA - Trump droht Gegnern seiner Grönland-Pläne mit Strafzöllen",
     "Medienberichte - AfD-Veranstaltung mit Rechtsextremist Sellner in Brandenburg wird abgesagt",
     "Machtkampf mit Kurden - Erneute Gefechte befürchtet: Tausende Syrer fliehen aus Region Aleppo",
     "Friedensnobelpreis: Die Entscheidung für Machado war ein Irrtum",
@@ -3003,11 +3001,11 @@
     "Ukraine - Angriffe auf Verkehrsinfrastruktur - Bericht: Kiew plant Präsidentschaftswahl und Referendum",
     "47. Jahrestag der Revolution - Irans Regierung mobilisiert Anhänger",
     "Türkei - Erdogan ernennt umstrittenen Istanbuler Generalstaatsanwalt Gürlek zum Justizminister",
-    "\"Basic Income for the Arts\" - Irland führt Grundeinkommen für Künstler ein"
+    "\"Basic Income for the Arts\" - Irland führt Grundeinkommen für Künstler ein",
+    "Straßburg - EU-Kommission will Flughäfen mit 5G gegen Drohnen schützen",
+    "Ukraine-Krieg - Bericht: Ukraine bereitet Präsidentschaftswahlen bis Mitte Mai vor - Druck von US-Regierung"
   ],
   "hashes": [
-    "e8ce5e351c0fdbbad5e9673607d533e6",
-    "2ae9123344ecdf16d2d9082fed7bd84c",
     "c4a5beb5f94e2464277433e9f3eed2db",
     "291d70d612b4330ae3f942705deceeb2",
     "042c941829eabb39e4583526ec272a23",
@@ -4005,6 +4003,8 @@
     "e3a9f449a930fc360b7d1e471c18363b",
     "e263a1c14b9e1e0f9b73371174d34cbd",
     "b791f9bccf4e19b9efdf6ab7ab72655d",
-    "0f592f541e7e60b8437c0a23215cbb84"
+    "0f592f541e7e60b8437c0a23215cbb84",
+    "222461ed7649c69cea76018b2595b113",
+    "6719d36574043d364e883db70df2195b"
   ]
 }
