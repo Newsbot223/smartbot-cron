@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss",
-    "https://www.deutschlandfunk.de/muenchner-sicherheitskonferenz-zieht-einladung-an-iranische-regierungsvertreter-zurueck-102.html",
-    "https://www.deutschlandfunk.de/usa-zu-uebungen-in-groenland-eingeladen-102.html",
     "https://www.deutschlandfunk.de/trump-beruft-blair-und-rubio-in-friedensrat-fuer-gazastreifen-keine-deutsche-beteiligung-100.html",
     "https://www.deutschlandfunk.de/regierung-von-ecuador-schickt-10-000-soldaten-in-kuestenprovinzen-100.html",
     "https://www.deutschlandfunk.de/us-richterin-schraenkt-befugnisse-von-ice-beamten-in-minnesota-ein-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/luftqualitaet-deutschland-hat-2025-alle-grenzwerte-eingehalten-100.html",
     "https://www.deutschlandfunk.de/expertenkommission-zu-ki-europa-braucht-deutlich-mehr-rechenzentren-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-billigt-90-milliarden-kredit-an-die-ukraine-102.html",
-    "https://www.faz.net/aktuell/politik/inland/verwandtenaffaere-in-der-afd-eigene-leute-sehen-wahlsieg-in-sachsen-anhalt-gefaehrdet-110835375.html"
+    "https://www.faz.net/aktuell/politik/inland/verwandtenaffaere-in-der-afd-eigene-leute-sehen-wahlsieg-in-sachsen-anhalt-gefaehrdet-110835375.html",
+    "https://www.deutschlandfunk.de/berufungsprozess-verteidigung-fordert-freispruch-fuer-rechtspopulistin-le-pen-100.html",
+    "https://www.deutschlandfunk.de/aussenminister-wadephul-appelliert-an-zentralasiatische-staaten-russland-sanktionen-nicht-zu-umgehen-100.html",
+    "https://www.deutschlandfunk.de/mobile-rampen-sollen-im-einzelhandel-verpflichtend-werden-beauftragter-massnahmen-nicht-ausreichend-100.html"
   ],
   "content_hashes": [
-    "773009ffde53fb88fc0b1daf32d2050c",
-    "ab142eaf8718038515b4e0c83ff9a80b",
-    "0add3188ed497ceb9a8e903fcab38ba8",
     "d5136be3036dee33195804c3044e9564",
     "eb4a4af0aa2ac9e3ad42d52b5e6d1836",
     "dd851fc5a13e75b771c0006940e1ef83",
@@ -2001,12 +1998,12 @@
     "58810a020d3c263bcdf285e47a60d1fb",
     "25bcfa149d5cbd4e8dab34b2731a2f70",
     "1d837d708a6b25be7af3ceee4d1e1e71",
-    "91fbfdc9d7714eca9c34d23cdccf356f"
+    "91fbfdc9d7714eca9c34d23cdccf356f",
+    "237b091791841a2e6fb47358bd96688e",
+    "e220828dd5ee1edf07c44f0c0c547934",
+    "72d5e22f369110f246f037ea11fc88d4"
   ],
   "titles": [
-    "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’",
-    "Medienberichte - Münchner Sicherheitskonferenz zieht Einladung an iranische Regierungsvertreter zurück",
-    "Dänisches Arktis-Kommando - USA zu Übungen in Grönland eingeladen",
     "Nachkriegsordnung - Trump beruft Blair und Rubio in \"Friedensrat\" für Gazastreifen - keine deutsche Beteiligung",
     "Bekämpfung des Drogenhandels - Regierung von Ecuador schickt 10.000 Soldaten in Küstenprovinzen",
     "Schüsse auf Renee Good - US-Richterin schränkt Befugnisse von ICE-Beamten in Minnesota ein",
@@ -3003,12 +3000,12 @@
     "Umweltbundesamt - Luftqualität: Deutschland hat 2025 alle Grenzwerte eingehalten",
     "Jahresgutachten - Expertenkommission zu KI: Europa braucht deutlich mehr Rechenzentren",
     "Straßburg - EU-Parlament billigt 90-Milliarden-Kredit an die Ukraine",
-    "Verwandtenaffäre: Eigene Leute sehen Wahlsieg in Sachsen-Anhalt gefährdet"
+    "Verwandtenaffäre: Eigene Leute sehen Wahlsieg in Sachsen-Anhalt gefährdet",
+    "Frankreich - Berufungsprozess: Verteidigung fordert Freispruch für Rechtspopulistin Le Pen",
+    "Treffen mit Amtskollegen - Außenminister Wadephul appelliert an zentralasiatische Staaten, Russland-Sanktionen nicht zu umgehen",
+    "Neues Gesetz zur Barrierefreiheit - Mobile Rampen sollen im Einzelhandel verpflichtend werden - Beauftragter: Maßnahmen nicht ausreichend"
   ],
   "hashes": [
-    "a50d2211b74ca4995e26def66a4f63f2",
-    "86d04c326ac5e80054e19a520f4ba499",
-    "bd0ce2e4ff3987a2fdfdb8b692495b82",
     "2251f626371222294b81c3a1e9e5893d",
     "386b9b2399d7780e40c4e5d754f3fbe0",
     "2609a0321241ca1f77edfe7dca3543f6",
@@ -4005,6 +4002,9 @@
     "c2b13e52f09308d04ac3e4b92fa63040",
     "fcb82cb2d9987518b337d7c3f333837b",
     "654bb940bd207bb2c144c51af0dd2cb5",
-    "cf816abfd1aa99e793204ce27d8af30a"
+    "cf816abfd1aa99e793204ce27d8af30a",
+    "89703043cd4fa16169d3adfe9745a3f2",
+    "a07f79b3c2539f61ba57ca4334581488",
+    "a0b67a3a176e0e4364ac9ccd650b4f91"
   ]
 }
