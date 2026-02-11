@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/grossbritiannien-unterstuetzt-ukrainische-energie-infrastruktur-mit-20-millionen-pfund-100.html",
-    "https://www.deutschlandfunk.de/landesverfassungsgerichtshof-ueberprueft-lockerungen-im-ladenschlussgesetz-100.html",
-    "https://www.deutschlandfunk.de/grossauftrag-fuer-daimler-truck-7-000-militaerische-lkw-fuer-franzoesische-armee-100.html",
-    "https://www.spiegel.de/panorama/justiz/berlin-gericht-verurteilt-19-jaehrigen-is-unterstuetzer-zu-drei-jahren-jugendstrafe-a-e953eb7c-e9f7-4f8e-ad45-ea71a867023f#ref=rss",
     "https://www.deutschlandfunk.de/ovg-berlin-brandenburg-bestaetigt-verbot-von-schuelerpraktikum-bei-afd-bundestagsabgeordneten-100.html",
     "https://www.deutschlandfunk.de/trump-droht-gegnern-seiner-groenland-plaene-mit-strafzoellen-100.html",
     "https://www.deutschlandfunk.de/afd-veranstaltung-mit-rechtsextremist-sellner-in-brandenburg-wird-abgesagt-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/tote-und-verletzte-durch-schuesse-an-schule-in-british-columbia-104.html",
     "https://www.deutschlandfunk.de/irans-oberster-fuehrer-chamenei-will-islamische-revolution-feiern-lassen-100.html",
     "https://www.deutschlandfunk.de/nach-dunkelfeldstudie-verbaende-rufen-zum-handeln-auf-100.html",
-    "https://www.spiegel.de/politik/deutschland/deutschland-linke-und-gruene-kritisieren-einsparungen-bei-integrationskursen-a-d03392e5-e31c-444d-8dce-44ee63ef92a5#ref=rss"
+    "https://www.spiegel.de/politik/deutschland/deutschland-linke-und-gruene-kritisieren-einsparungen-bei-integrationskursen-a-d03392e5-e31c-444d-8dce-44ee63ef92a5#ref=rss",
+    "https://www.deutschlandfunk.de/angriffe-auf-verkehrsinfrastruktur-bericht-kiew-plant-praesidentschaftswahl-und-referendum-100.html",
+    "https://www.deutschlandfunk.de/irans-regierung-mobilisiert-anhaenger-102.html",
+    "https://www.deutschlandfunk.de/erdogan-ernennt-umstrittenen-istanbuler-generalstaatsanwalt-guerlek-zum-justizminister-100.html",
+    "https://www.deutschlandfunk.de/irland-fuehrt-grundeinkommen-fuer-kuenstler-ein-102.html"
   ],
   "content_hashes": [
-    "5a2ff71a7ede649580921455098ecf54",
-    "2e60517ab5aa2b34afd8f9358ed249f7",
-    "1f2bb0efc1cc5e46c529ab2752f66955",
-    "c7ad7c2fbb4acfb88b38fa291117f126",
     "aae1bfce52dcc1ba18d98359a4126a72",
     "cafaa354babd9aafe1cb67d703dd58d2",
     "a4205f769fe6a72c31d82359b71cd672",
@@ -2001,13 +1997,13 @@
     "9a2565642bf50dfaed653598adc0cff5",
     "fcca7f050a3f322a6e707ff09171955b",
     "3b21deb8370578db92227734e2a8686f",
-    "79688efe103b6ce11791b3a5ad360035"
+    "79688efe103b6ce11791b3a5ad360035",
+    "611bacc343d3df7f031108eaa57931b5",
+    "2a2806dbf12b786056e602dec8fa7f94",
+    "0d0660ad645631a9838e1f0bfec22215",
+    "f6fd7c42702531241d81350eab0c99ac"
   ],
   "titles": [
-    "Russischer Angriffskrieg - Großbritiannien unterstützt ukrainische Energie-Infrastruktur mit 20 Millionen Pfund",
-    "Bayern - Landesverfassungsgerichtshof überprüft Lockerungen im Ladenschlussgesetz",
-    "Rüstungsindustrie - Großauftrag für Daimler Truck: 7.000 militärische Lkw für französische Armee",
-    "Berlin: Gericht verurteilt 19-jährigen IS-Unterstützer zu drei Jahren Jugendstrafe",
     "Rechtsextremismus - OVG Berlin-Brandenburg bestätigt Verbot von Schülerpraktikum bei AfD-Bundestagsabgeordneten",
     "USA - Trump droht Gegnern seiner Grönland-Pläne mit Strafzöllen",
     "Medienberichte - AfD-Veranstaltung mit Rechtsextremist Sellner in Brandenburg wird abgesagt",
@@ -3003,13 +2999,13 @@
     "Kanada - Tote und Verletzte durch Schüsse an Schule in British Columbia",
     "47. Jahrestag - Irans Oberster Führer Chamenei will Islamische Revolution feiern lassen",
     "Häusliche Gewalt - Nach Dunkelfeldstudie: Verbände rufen zum Handeln auf",
-    "Deutschland: Linke und Grüne kritisieren Einsparungen bei Integrationskursen"
+    "Deutschland: Linke und Grüne kritisieren Einsparungen bei Integrationskursen",
+    "Ukraine - Angriffe auf Verkehrsinfrastruktur - Bericht: Kiew plant Präsidentschaftswahl und Referendum",
+    "47. Jahrestag der Revolution - Irans Regierung mobilisiert Anhänger",
+    "Türkei - Erdogan ernennt umstrittenen Istanbuler Generalstaatsanwalt Gürlek zum Justizminister",
+    "\"Basic Income for the Arts\" - Irland führt Grundeinkommen für Künstler ein"
   ],
   "hashes": [
-    "c78830439cd7fe633c1d036d82674676",
-    "14980f68c75acc64e37d089e15afb2da",
-    "b297f371ccb6c6dbe93ae34680781116",
-    "e142f1036de08f9ca3b4bdc3cc20ebed",
     "e8ce5e351c0fdbbad5e9673607d533e6",
     "2ae9123344ecdf16d2d9082fed7bd84c",
     "c4a5beb5f94e2464277433e9f3eed2db",
@@ -4005,6 +4001,10 @@
     "1cea392863a0a7b3269d89fcae3152c3",
     "a0e94cc1b5cc6e168a3b531521b20ac6",
     "10b5775fb86b750be66b300010d11001",
-    "108b022c87271e9651c723f2fbd4451d"
+    "108b022c87271e9651c723f2fbd4451d",
+    "e3a9f449a930fc360b7d1e471c18363b",
+    "e263a1c14b9e1e0f9b73371174d34cbd",
+    "b791f9bccf4e19b9efdf6ab7ab72655d",
+    "0f592f541e7e60b8437c0a23215cbb84"
   ]
 }
