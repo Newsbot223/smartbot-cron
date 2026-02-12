@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/features/2026/1/18/everything-is-bad-fear-and-anxiety-grip-iranians-abroad-amid-protests?traffic_source=rss",
-    "https://www.deutschlandfunk.de/kurdische-kaempfer-ziehen-sich-im-norden-und-osten-weiter-zurueck-102.html",
-    "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/18/jagan-chapagain-is-the-global-humanitarian-system-breaking-down?traffic_source=rss",
     "https://www.faz.net/aktuell/politik/ausland/al-scharaa-der-schwierige-gast-aus-damaskus-in-berlin-110821352.html",
     "https://www.deutschlandfunk.de/israelische-siedler-greifen-beduinendorf-an-100.html",
     "https://www.deutschlandfunk.de/polizei-stuermt-hochsicherheitsgefaengnis-in-guatemala-festgehaltene-waerter-befreit-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/fall-epstein-durchsuchung-bei-norwegens-ex-regierungschef-jagland-100.html",
     "https://www.deutschlandfunk.de/katastrophentourismus-kritik-an-kloeckners-besuch-mit-israelischer-armee-im-gazastreifen-100.html",
     "https://www.deutschlandfunk.de/auch-tuerkische-gemeinde-kritisiert-zulassungsstopp-fuer-freiwillige-interessenten-an-integrationsku-100.html",
-    "https://www.deutschlandfunk.de/argentiniens-senat-billigt-umstrittene-arbeitsmarktreform-100.html"
+    "https://www.deutschlandfunk.de/argentiniens-senat-billigt-umstrittene-arbeitsmarktreform-100.html",
+    "https://www.deutschlandfunk.de/italiens-parlament-gibt-erste-finanzierung-fuer-gemeinsames-projekt-gcap-mit-grossbritannien-und-jap-100.html",
+    "https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-wechselt-zur-oecd-100.html",
+    "https://www.deutschlandfunk.de/syrische-armee-uebernimmt-stuetzpunkt-al-tanf-100.html"
   ],
   "content_hashes": [
-    "734398fbe0ca959c09f47a261225bcd0",
-    "a04fdd70a8f190ee96864cb374dcb3e5",
-    "f9a9fdc134cfce7b309850642b4e5ad0",
     "1af5223f51e514fad732fccc632dd98b",
     "57bfd22b34e8f8ac7203f223aac28786",
     "488b51df0acf9d4d767ccb40cd1b1e15",
@@ -2001,12 +1998,12 @@
     "5b8974cdc3a47410559a8a591b161a87",
     "b57fae2a83ca6c09fb318831ad03f380",
     "3040ca132ef98b99944f301915981a17",
-    "7d3dca7e2b3f8ccf5f8e2410731857eb"
+    "7d3dca7e2b3f8ccf5f8e2410731857eb",
+    "dd0ebd05a9b0957d33cb983747ffbdd5",
+    "36c840a5622ecd7941edb57d878d3feb",
+    "42b63165cc2be3418009da485fe330a4"
   ],
   "titles": [
-    "‘Everything is bad’: Fear and anxiety grip Iranians abroad amid protests",
-    "Syrien - Kurdische Kämpfer ziehen sich im Norden und Osten weiter zurück",
-    "Jagan Chapagain: Is the global humanitarian system breaking down?",
     "Al-Scharaa in Berlin: Der schwierige Gast aus Damaskus",
     "Westjordanland - Israelische Siedler greifen Beduinendorf an",
     "Gefängnismeuterei - Polizei stürmt Hochsicherheitsgefängnis in Guatemala - festgehaltene Wärter befreit",
@@ -3003,12 +3000,12 @@
     "Ermittlungen - Fall Epstein: Durchsuchung bei Norwegens Ex-Regierungschef Jagland",
     "Nahost - \"Katastrophentourismus\": Kritik an Klöckners Besuch mit israelischer Armee im Gazastreifen",
     "Migration - Auch Türkische Gemeinde kritisiert Zulassungsstopp für freiwillige Interessenten an Integrationskursen",
-    "Regierung Milei - Argentiniens Senat billigt umstrittene Arbeitsmarktreform"
+    "Regierung Milei - Argentiniens Senat billigt umstrittene Arbeitsmarktreform",
+    "Neue Kampfjetgeneration - Italiens Parlament gibt erste Finanzierung für gemeinsames Projekt GCAP mit Großbritannien und Japan frei",
+    "Personalie - Antisemitismusbeauftragter Klein wechselt zur OECD",
+    "Abzug von US-Soldaten - Syrische Armee übernimmt Stützpunkt al-Tanf"
   ],
   "hashes": [
-    "89b5115ec95a733f5480f67ff5d2b020",
-    "67618a052e852ce494d1ed813aa0e242",
-    "d887c2c5dfeac8a6274cdf91923594f8",
     "9d2a92b1977ecf86dcaef77aea71fe37",
     "d98e960b6f3cc8f435812393ff41e44f",
     "300780b527040cf35409afa6a9c0011f",
@@ -4005,6 +4002,9 @@
     "616ec59f43fb6a02f92bcc2afdd5a7ec",
     "d136c56558b22a2dd49ee0cb90a0cf21",
     "f812cb2eb4775d65ea41c09bcfbedb69",
-    "37279a1cbb05150e9c5110de9888c57e"
+    "37279a1cbb05150e9c5110de9888c57e",
+    "fc2b46e86e5902f8cf3281e1365223cc",
+    "a86ea4e8306edac36f782fb4a660c9fa",
+    "548171e40491d5bcef34016d35740875"
   ]
 }
