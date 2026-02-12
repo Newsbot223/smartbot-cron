@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/al-scharaa-der-schwierige-gast-aus-damaskus-in-berlin-110821352.html",
-    "https://www.deutschlandfunk.de/israelische-siedler-greifen-beduinendorf-an-100.html",
-    "https://www.deutschlandfunk.de/polizei-stuermt-hochsicherheitsgefaengnis-in-guatemala-festgehaltene-waerter-befreit-100.html",
-    "https://www.deutschlandfunk.de/regierung-und-kurdenmiliz-vereinbaren-sofortige-waffenruhe-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-syrischer-praesident-al-scharaa-sagt-besuch-in-deutschland-ab-faz-110093143.html",
     "https://www.deutschlandfunk.de/uebergangspraesident-al-scharaa-kommt-vorerst-nicht-nach-deutschland-100.html",
     "https://www.deutschlandfunk.de/reporterlegende-friedhelm-brebeck-im-alter-von-91-jahren-gestorben-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/argentiniens-senat-billigt-umstrittene-arbeitsmarktreform-100.html",
     "https://www.deutschlandfunk.de/italiens-parlament-gibt-erste-finanzierung-fuer-gemeinsames-projekt-gcap-mit-grossbritannien-und-jap-100.html",
     "https://www.deutschlandfunk.de/antisemitismusbeauftragter-klein-wechselt-zur-oecd-100.html",
-    "https://www.deutschlandfunk.de/syrische-armee-uebernimmt-stuetzpunkt-al-tanf-100.html"
+    "https://www.deutschlandfunk.de/syrische-armee-uebernimmt-stuetzpunkt-al-tanf-100.html",
+    "https://www.deutschlandfunk.de/kritik-an-kloeckners-besuch-mit-israelischer-armee-im-gazastreifen-100.html",
+    "https://www.deutschlandfunk.de/mehrheit-auslaendischer-is-familien-hat-lager-in-nordsyrien-verlassen-100.html",
+    "https://www.deutschlandfunk.de/ice-einsatz-in-minnesota-wird-beendet-nationalgarde-zieht-aus-staedten-ab-100.html",
+    "https://www.deutschlandfunk.de/fdp-scheitert-mit-klage-auf-teilnahme-an-tv-triell-beim-swr-vor-der-landtagswahl-in-einem-monat-100.html"
   ],
   "content_hashes": [
-    "1af5223f51e514fad732fccc632dd98b",
-    "57bfd22b34e8f8ac7203f223aac28786",
-    "488b51df0acf9d4d767ccb40cd1b1e15",
-    "65514c2bcba9bf8474c45853e6e528b1",
     "48c5cd963013dd921636bb61d4fd5e0d",
     "2848945b03ae464c5c88e60cfe00ff5b",
     "c0c28ecc2d82a38f8b3b5fe98cddb339",
@@ -2001,13 +1997,13 @@
     "7d3dca7e2b3f8ccf5f8e2410731857eb",
     "dd0ebd05a9b0957d33cb983747ffbdd5",
     "36c840a5622ecd7941edb57d878d3feb",
-    "42b63165cc2be3418009da485fe330a4"
+    "42b63165cc2be3418009da485fe330a4",
+    "6488aed8fb29510e0a0c89cf0de38cda",
+    "b9ec31bfe31a189f6a41d5a46c08d67b",
+    "5cbeb3e15dcdae2fd451437320c64f0a",
+    "a8e2699382986952780b636a91ae603b"
   ],
   "titles": [
-    "Al-Scharaa in Berlin: Der schwierige Gast aus Damaskus",
-    "Westjordanland - Israelische Siedler greifen Beduinendorf an",
-    "Gefängnismeuterei - Polizei stürmt Hochsicherheitsgefängnis in Guatemala - festgehaltene Wärter befreit",
-    "Syrien - Regierung und Kurdenmiliz vereinbaren sofortige Waffenruhe",
     "Deutschland-Blog: Syrischer Präsident sagt Besuch in Deutschland ab",
     "Syrien - Übergangspräsident al-Scharaa kommt vorerst nicht nach Deutschland",
     "Bayerischer Rundfunk - Reporterlegende Friedhelm Brebeck im Alter von 91 Jahren gestorben",
@@ -3003,13 +2999,13 @@
     "Regierung Milei - Argentiniens Senat billigt umstrittene Arbeitsmarktreform",
     "Neue Kampfjetgeneration - Italiens Parlament gibt erste Finanzierung für gemeinsames Projekt GCAP mit Großbritannien und Japan frei",
     "Personalie - Antisemitismusbeauftragter Klein wechselt zur OECD",
-    "Abzug von US-Soldaten - Syrische Armee übernimmt Stützpunkt al-Tanf"
+    "Abzug von US-Soldaten - Syrische Armee übernimmt Stützpunkt al-Tanf",
+    "Nahost-Reise - Kritik an Klöckners Besuch mit israelischer Armee im Gazastreifen",
+    "Medienberichte - Mehrheit ausländischer IS-Familien hat Lager in Nordsyrien verlassen",
+    "USA - ICE-Einsatz in Minnesota wird beendet - Nationalgarde zieht aus Städten ab",
+    "Verwaltungsgericht Stuttgart - FDP scheitert mit Klage auf Teilnahme an TV-Triell beim SWR vor der Landtagswahl in einem Monat"
   ],
   "hashes": [
-    "9d2a92b1977ecf86dcaef77aea71fe37",
-    "d98e960b6f3cc8f435812393ff41e44f",
-    "300780b527040cf35409afa6a9c0011f",
-    "1b081be85c47436da6de8a42db59490e",
     "7d2a9e56aa7af3caf7824b32a1a4418c",
     "3c8549f4a9f4aacb27b047961204d435",
     "5131052498056c1a7e121d463dcc9e3b",
@@ -4005,6 +4001,10 @@
     "37279a1cbb05150e9c5110de9888c57e",
     "fc2b46e86e5902f8cf3281e1365223cc",
     "a86ea4e8306edac36f782fb4a660c9fa",
-    "548171e40491d5bcef34016d35740875"
+    "548171e40491d5bcef34016d35740875",
+    "a0abfeb333ba178dd5b6e9e2cc9188cf",
+    "679198bda630ba7691c95ad5826b2b6e",
+    "99ce04c3201b68acb07b519fa4989b1c",
+    "b6c38bbd4c992ea3475842f6e9c870c2"
   ]
 }
