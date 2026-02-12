@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/katastrophenfall-aufgrund-von-waldbraenden-im-sueden-des-landes-100.html",
-    "https://www.deutschlandfunk.de/praesidentschaftswahl-in-portugal-wer-sind-die-kandidaten-und-wie-berechtigt-ist-die-sorge-vor-einem-100.html",
     "https://www.deutschlandfunk.de/erste-runde-der-praesidentschaftswahl-hat-begonnen-rechtsextremer-kandidat-ventura-einer-der-favorit-104.html",
     "https://www.spiegel.de/politik/syrer-in-deutschland-einbuergerung-statt-rueckkehr-nach-assad-sturz-a-c5bdd02a-a68a-44f0-87b5-9f6c1dbf9f91#ref=rss",
     "https://www.deutschlandfunk.de/deutsche-industrie-und-handelskammertag-kritisiert-angekuendigte-us-zoelle-scharf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/erneut-naechtliche-raketenangriffe-russlands-schwere-schaeden-in-kiew-sowie-odessa-102.html",
     "https://www.deutschlandfunk.de/bundesregierung-nominiert-bundeswehr-generalinspekteur-breuer-als-vorsitzenden-des-nato-militaerauss-102.html",
     "https://www.deutschlandfunk.de/umweltminister-schneider-will-us-energiepolitik-auf-muenchner-sicherheitskonferenz-hart-wiedersprech-100.html",
-    "https://www.deutschlandfunk.de/ioc-disqualifiziert-ukrainischen-skeleton-sportler-heraskewytsch-wegen-helm-in-erinnerung-an-getoete-102.html"
+    "https://www.deutschlandfunk.de/ioc-disqualifiziert-ukrainischen-skeleton-sportler-heraskewytsch-wegen-helm-in-erinnerung-an-getoete-102.html",
+    "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-im-gazastreifen-kritik-aus-der-spd-100.html",
+    "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-eines-palaestinensers-zurueck-102.html"
   ],
   "content_hashes": [
-    "109daeeb9a4106dec8f3fd6ad8c3732f",
-    "a526c3879e523573da90af53a3733dfa",
     "b45dbf478af4f10bdff1c363cf0171b0",
     "4b05f69f6dbfc3e784091cc6d57ae621",
     "d8e2685f8a4b68e38ea907f7b59e6996",
@@ -2001,11 +1999,11 @@
     "46541a7b8998d527cd0ab1e72ad0a0f1",
     "41b6ba6a6a592e5c0caf1d3a968bb058",
     "9abcc01252ea5f8964fddd437a96da2a",
-    "63f831e8b24f747277b1335074ef5cd3"
+    "63f831e8b24f747277b1335074ef5cd3",
+    "b1022b28d700fc744d6543004033502c",
+    "db3a4f39b42857c92e7be577ed2efa24"
   ],
   "titles": [
-    "Chile - Katastrophenfall aufgrund von Waldbränden im Süden des Landes",
-    "Staatsoberhaupt - Präsidentschaftswahl in Portugal: Wer sind die Kandidaten - und wie berechtigt ist die Sorge vor einem Rechtsruck?",
     "Portugal - Erste Runde der Präsidentschaftswahl hat begonnen - Rechtsextremer Kandidat Ventura einer der Favorit für Einzug in Stichwahl",
     "Syrer in Deutschland: Einbürgerung statt Rückkehr nach Assad-Sturz",
     "Streit um Grönland - Deutsche Industrie- und ​Handelskammertag kritisiert angekündigte US-Zölle scharf",
@@ -3003,11 +3001,11 @@
     "Ukraine-Krieg - Erneut nächtliche Raketenangriffe Russlands - Schwere Schäden in Kiew sowie Odessa",
     "Verteidigungsminister Pistorius - Bundesregierung nominiert Bundeswehr-Generalinspekteur Breuer als Vorsitzenden des NATO-Militärausschusses",
     "Klima und Energie - Umweltminister Schneider will US-Energiepolitik auf Münchner Sicherheitskonferenz \"hart wiedersprechen\"",
-    "Wintersport - IOC disqualifiziert ukrainischen Skeleton-Sportler Heraskewytsch wegen Helm in Erinnerung an getötete Athleten"
+    "Wintersport - IOC disqualifiziert ukrainischen Skeleton-Sportler Heraskewytsch wegen Helm in Erinnerung an getötete Athleten",
+    "Nahost - Bundestagspräsidentin Klöckner im Gazastreifen - Kritik aus der SPD",
+    "Rüstungsexporte nach Israel - Bundesverfassungsgericht weist Beschwerde eines Palästinensers zurück"
   ],
   "hashes": [
-    "70f515f0d8238874ef01308fcabc0243",
-    "2826b0ca8e23bcbe396d98d2c843bfa9",
     "1f2ffac80166d9b1055044d034558001",
     "4ec3553cb73a5c341737f58728269ce2",
     "40132d500ebd9bdb35ac2bb2a14eb01e",
@@ -4005,6 +4003,8 @@
     "adca9620d00092ee5aae69f18ebc5099",
     "9b44011e05dc6693fbdf26dae70ebe81",
     "ed0468f7e3107b279a095cd99a9d244f",
-    "2dec5fd1f0b20241069573cc0ce32c5a"
+    "2dec5fd1f0b20241069573cc0ce32c5a",
+    "cc7315a7935ead48fe1952af5bcf41fc",
+    "288692703073a5dd4836384ff5be0db6"
   ]
 }
