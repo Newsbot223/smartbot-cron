@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erste-runde-der-praesidentschaftswahl-hat-begonnen-rechtsextremer-kandidat-ventura-einer-der-favorit-104.html",
-    "https://www.spiegel.de/politik/syrer-in-deutschland-einbuergerung-statt-rueckkehr-nach-assad-sturz-a-c5bdd02a-a68a-44f0-87b5-9f6c1dbf9f91#ref=rss",
-    "https://www.deutschlandfunk.de/deutsche-industrie-und-handelskammertag-kritisiert-angekuendigte-us-zoelle-scharf-100.html",
     "https://www.deutschlandfunk.de/jordaniens-koenig-abdullah-soll-in-den-friedensrat-einziehen-102.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-proteste-gegen-besuch-des-syrischen-praesidenten-geplant-faz-110093143.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-zu-trumps-zolldrohungen-eu-muss-nun-geschlossen-handeln-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/umweltminister-schneider-will-us-energiepolitik-auf-muenchner-sicherheitskonferenz-hart-wiedersprech-100.html",
     "https://www.deutschlandfunk.de/ioc-disqualifiziert-ukrainischen-skeleton-sportler-heraskewytsch-wegen-helm-in-erinnerung-an-getoete-102.html",
     "https://www.deutschlandfunk.de/bundestagspraesidentin-kloeckner-im-gazastreifen-kritik-aus-der-spd-100.html",
-    "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-eines-palaestinensers-zurueck-102.html"
+    "https://www.deutschlandfunk.de/bundesverfassungsgericht-weist-beschwerde-eines-palaestinensers-zurueck-102.html",
+    "https://www.deutschlandfunk.de/china-verhaengt-zoelle-auf-eu-milchprodukte-100.html",
+    "https://www.spiegel.de/wirtschaft/service/zucker-deutschland-produziert-93-liter-an-cola-limo-und-co-pro-kopf-a-313de422-32be-4eb9-8f60-a6574d1a5de4#ref=rss",
+    "https://www.faz.net/aktuell/politik/inland/kloeckner-mit-israelischer-armee-im-gazastreifen-accg-200532212.html"
   ],
   "content_hashes": [
-    "b45dbf478af4f10bdff1c363cf0171b0",
-    "4b05f69f6dbfc3e784091cc6d57ae621",
-    "d8e2685f8a4b68e38ea907f7b59e6996",
     "399724b3e99da55ee2f9a3ac1e2ec513",
     "43e46775510c6c82da390e7e335d8ca5",
     "58b7864336a15585fe9858adce17c47c",
@@ -2001,12 +1998,12 @@
     "9abcc01252ea5f8964fddd437a96da2a",
     "63f831e8b24f747277b1335074ef5cd3",
     "b1022b28d700fc744d6543004033502c",
-    "db3a4f39b42857c92e7be577ed2efa24"
+    "db3a4f39b42857c92e7be577ed2efa24",
+    "aa6120bf92cf3d75a05c1c2e919d03ef",
+    "48c1fa668b094603478157f93899e472",
+    "ddbb420394c800a30a04daddbf7ec9de"
   ],
   "titles": [
-    "Portugal - Erste Runde der Präsidentschaftswahl hat begonnen - Rechtsextremer Kandidat Ventura einer der Favorit für Einzug in Stichwahl",
-    "Syrer in Deutschland: Einbürgerung statt Rückkehr nach Assad-Sturz",
-    "Streit um Grönland - Deutsche Industrie- und ​Handelskammertag kritisiert angekündigte US-Zölle scharf",
     "Gaza - Jordaniens König Abdullah soll in den \"Friedensrat\" einziehen",
     "Deutschland-Blog: Proteste gegen Besuch des syrischen Präsidenten geplant",
     "Streit um Grönland - Deutsche Wirtschaft zu Trumps Zolldrohungen: EU muss nun geschlossen handeln",
@@ -3003,12 +3000,12 @@
     "Klima und Energie - Umweltminister Schneider will US-Energiepolitik auf Münchner Sicherheitskonferenz \"hart wiedersprechen\"",
     "Wintersport - IOC disqualifiziert ukrainischen Skeleton-Sportler Heraskewytsch wegen Helm in Erinnerung an getötete Athleten",
     "Nahost - Bundestagspräsidentin Klöckner im Gazastreifen - Kritik aus der SPD",
-    "Rüstungsexporte nach Israel - Bundesverfassungsgericht weist Beschwerde eines Palästinensers zurück"
+    "Rüstungsexporte nach Israel - Bundesverfassungsgericht weist Beschwerde eines Palästinensers zurück",
+    "Handelsstreit - China verhängt Zölle auf EU-Milchprodukte",
+    "Zucker: Deutschland produziert 93 Liter an Cola, Limo und Co. pro Kopf",
+    "Trotz Kritik: Klöckner mit israelischer Armee im Gazastreifen"
   ],
   "hashes": [
-    "1f2ffac80166d9b1055044d034558001",
-    "4ec3553cb73a5c341737f58728269ce2",
-    "40132d500ebd9bdb35ac2bb2a14eb01e",
     "cd36a16bfc4f67a296075a0024747778",
     "ee9ecd5a649113aaa814bc0c42737e80",
     "0d0aab82a14f59f276a91232de7152c3",
@@ -4005,6 +4002,9 @@
     "ed0468f7e3107b279a095cd99a9d244f",
     "2dec5fd1f0b20241069573cc0ce32c5a",
     "cc7315a7935ead48fe1952af5bcf41fc",
-    "288692703073a5dd4836384ff5be0db6"
+    "288692703073a5dd4836384ff5be0db6",
+    "dda5eabdf0821f2cbb9df299e28fe996",
+    "f6f4d290e1cdfe8e0ca944dff8c56416",
+    "2fe95af42a24b8c916c3d15d46b95fc9"
   ]
 }
