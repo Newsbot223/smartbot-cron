@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/vorstoss-von-stiftungen-gegen-silodenken-in-der-bildung-accg-110820889.html",
-    "https://www.deutschlandfunk.de/freihandelsabkommen-der-eu-mit-den-mercosur-staaten-unterzeichnet-100.html",
-    "https://www.faz.net/aktuell/politik/inland/der-spd-ist-nicht-mehr-zu-helfen-110820704.html",
-    "https://www.deutschlandfunk.de/tausende-demonstrieren-fuer-wandel-im-iran-102.html",
     "https://www.spiegel.de/politik/demo-in-leipzig-linke-szene-streitet-ueber-nahost-a-b73a20bd-fadd-43ef-bc77-eecb46f9de1b#ref=rss",
     "https://www.faz.net/aktuell/politik/inland/seltene-erden-das-macht-die-behoerde-fuer-rohstoffe-110816807.html",
     "https://www.deutschlandfunk.de/russischer-besatzer-melden-stromausfaelle-nach-drohnenangriffen-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/kabinett-billigt-gesetzentwurf-zu-verpackungen-100.html",
     "https://www.deutschlandfunk.de/deutsche-filme-bescheren-kinos-umsatzplus-100.html",
     "https://www.deutschlandfunk.de/kind-stirbt-nach-hochhausbrand-im-osten-berlins-100.html",
-    "https://www.deutschlandfunk.de/us-repraesentantenhaus-stimmt-fuer-aufhebung-von-trumps-kanada-zoellen-100.html"
+    "https://www.deutschlandfunk.de/us-repraesentantenhaus-stimmt-fuer-aufhebung-von-trumps-kanada-zoellen-100.html",
+    "https://www.deutschlandfunk.de/menschenrechts-aktivisten-mehr-als-7-000-tote-bei-protesten-gegen-das-regime-102.html",
+    "https://www.deutschlandfunk.de/erneuter-naechtlicher-raketenangriff-russlands-auf-kiew-100.html",
+    "https://www.deutschlandfunk.de/bundesvereinigung-der-fahrlehrerverbaende-entsetzt-ueber-geplante-fuehrerscheinreform-100.html",
+    "https://www.deutschlandfunk.de/eroeffnung-der-berlinale-100.html"
   ],
   "content_hashes": [
-    "621e84e0f9ab66143370b909ae74681e",
-    "7a9363d2be15bcf5181934ac8e5c76a3",
-    "ed7ea67782c7da8077556ac6bee52c76",
-    "5909edbe9d53b88de0585164de4ff4e5",
     "e8ee5b05a17a5943e02849a59817cabb",
     "779c820b4e655a53207c46c9174044fb",
     "611d5c18cbe18b05ef35d41230686ddb",
@@ -2001,13 +1997,13 @@
     "29f948d49b0fb76852d5206d48ecf4db",
     "036bfed6ae66258f91933537b2e30c26",
     "2a68a95f0a51ef0ded9190c395df8b86",
-    "ced8a62e97e4edeb4d1d417805102d40"
+    "ced8a62e97e4edeb4d1d417805102d40",
+    "a7bb07b433616cf0caa1c93fa5e167a3",
+    "d4eb8bd3a8140344f746032d2901a218",
+    "2ff18b5d5d76351732a6d76bd0f31cb2",
+    "d258ef04a1625f7be89f3255b89b5cb3"
   ],
   "titles": [
-    "Vorstoß von 20 Stiftungen: Gegen das Silodenken in der Bildung",
-    "Paraguay - Freihandelsabkommen der EU mit den Mercosur-Staaten unterzeichnet",
-    "Reformpolitik: Der SPD ist nicht mehr zu helfen",
-    "Proteste in mehreren deutschen Städten - Tausende demonstrieren für Wandel im Iran",
     "Demo in Leipzig: Linke Szene streitet über Nahost",
     "Kritische Rohstoffe: Beamte auf Schatzsuche",
     "Ukraine - Russischer Besatzer melden Stromausfälle nach Drohnenangriffen",
@@ -3003,13 +2999,13 @@
     "Bundesregierung - Kabinett billigt Gesetzentwurf zu Verpackungen",
     "Filmförderungsanstalt - Deutsche Filme bescheren Kinos Umsatzplus",
     "Friedrichsfelde - Kind stirbt nach Hochhausbrand im Osten Berlins",
-    "Resolution - US-Repräsentantenhaus stimmt für Aufhebung von Trumps Kanada-Zöllen"
+    "Resolution - US-Repräsentantenhaus stimmt für Aufhebung von Trumps Kanada-Zöllen",
+    "Iran - Menschenrechts-Aktivisten: Mehr als 7.000 Tote bei Protesten gegen das Regime",
+    "Ukraine-Krieg - Erneuter nächtlicher Raketenangriff Russlands auf Kiew",
+    "Verkehrspolitik - Bundesvereinigung der Fahrlehrerverbände entsetzt über geplante Führerscheinreform",
+    "Kultur - Eröffnung der Berlinale"
   ],
   "hashes": [
-    "275ce0c7f45ed1b6b55822b5a8e2704d",
-    "ea7a4edb6db11a59b8230fdbf553488d",
-    "d9b251cd867848f2b0bfd28761831e44",
-    "458d8c17a219cc0999f8ed06dcbfd4b1",
     "8ff25b2afff2fcf887627401aba4a6d7",
     "497fb72c954f0763ac8cd60fd6b6d6e5",
     "5462bca1d9eb8a62c8d3162eb793f3ee",
@@ -4005,6 +4001,10 @@
     "c09358d63e7859b8f59d6c60eea25e2d",
     "cd1e70d88ff78d71514801b143226eac",
     "620a4f28e2419a90d8364a7f520d95ea",
-    "e70bd8ba9e07bb5b82e38681ab18af34"
+    "e70bd8ba9e07bb5b82e38681ab18af34",
+    "4c6dbc7bea870614d75594dc6f00007a",
+    "20b4591bf9382acac3ebe958bf11af3f",
+    "41f3aa47aa8035044ef0f09cf2898c3d",
+    "676f4d87b7d7cc085a97aa9b74096377"
   ]
 }
