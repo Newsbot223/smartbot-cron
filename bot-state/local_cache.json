@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/agrarministerkonferenz-fordert-effizientere-wassernutzung-in-der-landwirtschaft-100.html",
-    "https://www.deutschlandfunk.de/rund-3000-menschen-bei-demos-in-leipzig-100.html",
     "https://www.faz.net/aktuell/politik/inland/vorstoss-von-stiftungen-gegen-silodenken-in-der-bildung-accg-110820889.html",
     "https://www.deutschlandfunk.de/freihandelsabkommen-der-eu-mit-den-mercosur-staaten-unterzeichnet-100.html",
     "https://www.faz.net/aktuell/politik/inland/der-spd-ist-nicht-mehr-zu-helfen-110820704.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/selenskyj-widerspricht-zeitungsbericht-ueber-baldige-wahlen-108.html",
     "https://www.deutschlandfunk.de/erste-parlamentswahl-nach-sturz-hasinas-und-wegweisendes-referendum-100.html",
     "https://www.deutschlandfunk.de/kabinett-billigt-gesetzentwurf-zu-verpackungen-100.html",
-    "https://www.deutschlandfunk.de/deutsche-filme-bescheren-kinos-umsatzplus-100.html"
+    "https://www.deutschlandfunk.de/deutsche-filme-bescheren-kinos-umsatzplus-100.html",
+    "https://www.deutschlandfunk.de/kind-stirbt-nach-hochhausbrand-im-osten-berlins-100.html",
+    "https://www.deutschlandfunk.de/us-repraesentantenhaus-stimmt-fuer-aufhebung-von-trumps-kanada-zoellen-100.html"
   ],
   "content_hashes": [
-    "253f388639b0420bebf2ab129cf416cd",
-    "7126c129ed7ad2403ae13df676fe59e3",
     "621e84e0f9ab66143370b909ae74681e",
     "7a9363d2be15bcf5181934ac8e5c76a3",
     "ed7ea67782c7da8077556ac6bee52c76",
@@ -2001,11 +1999,11 @@
     "e25ce38cf3407ce5f3ec2767168a16a2",
     "9f75e3f7a3a8b868ec486d9e0de50c12",
     "29f948d49b0fb76852d5206d48ecf4db",
-    "036bfed6ae66258f91933537b2e30c26"
+    "036bfed6ae66258f91933537b2e30c26",
+    "2a68a95f0a51ef0ded9190c395df8b86",
+    "ced8a62e97e4edeb4d1d417805102d40"
   ],
   "titles": [
-    "Grüne Woche - Agrarministerkonferenz fordert effizientere Wassernutzung in der Landwirtschaft",
-    "Pro-Palästina und Pro-Israel - Rund 3000 Menschen bei Demos in Leipzig",
     "Vorstoß von 20 Stiftungen: Gegen das Silodenken in der Bildung",
     "Paraguay - Freihandelsabkommen der EU mit den Mercosur-Staaten unterzeichnet",
     "Reformpolitik: Der SPD ist nicht mehr zu helfen",
@@ -3003,11 +3001,11 @@
     "Ukraine - Selenskyj widerspricht Zeitungsbericht über baldige Wahlen",
     "Bangladesch - Erste Parlamentswahl nach Sturz Hasinas und wegweisendes Referendum",
     "Bundesregierung - Kabinett billigt Gesetzentwurf zu Verpackungen",
-    "Filmförderungsanstalt - Deutsche Filme bescheren Kinos Umsatzplus"
+    "Filmförderungsanstalt - Deutsche Filme bescheren Kinos Umsatzplus",
+    "Friedrichsfelde - Kind stirbt nach Hochhausbrand im Osten Berlins",
+    "Resolution - US-Repräsentantenhaus stimmt für Aufhebung von Trumps Kanada-Zöllen"
   ],
   "hashes": [
-    "516a6065b7b560e9cb555b89eb846fe5",
-    "bcbb884256a6e766ee9db24609364cc1",
     "275ce0c7f45ed1b6b55822b5a8e2704d",
     "ea7a4edb6db11a59b8230fdbf553488d",
     "d9b251cd867848f2b0bfd28761831e44",
@@ -4005,6 +4003,8 @@
     "e6c07e3684d0be7b8833552b308e83fb",
     "abbef480cd4d3785b4e14485f6d0df08",
     "c09358d63e7859b8f59d6c60eea25e2d",
-    "cd1e70d88ff78d71514801b143226eac"
+    "cd1e70d88ff78d71514801b143226eac",
+    "620a4f28e2419a90d8364a7f520d95ea",
+    "e70bd8ba9e07bb5b82e38681ab18af34"
   ]
 }
