@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mindestens-39-tote-und-viele-schwerverletzte-bei-unglueck-mit-zwei-hochgeschwindigkeitszuegen-100.html",
-    "https://www.spiegel.de/auto/e-mobilitaet-bund-foerdert-kauf-von-elektroautos-mit-bis-zu-6000-euro-a-24d866a7-3386-45c7-ac77-0c1b9b8ef0d0#ref=rss",
-    "https://www.aljazeera.com/news/2026/1/19/several-killed-in-kabul-blast-afghan-taliban-interior-ministry-says?traffic_source=rss",
     "https://www.deutschlandfunk.de/merz-es-gilt-das-prinzip-der-territorialen-integritaet-100.html",
     "https://www.faz.net/aktuell/politik/inland/bischof-georg-baetzing-gibt-vorsitz-der-bischofskonferenz-ab-accg-200453365.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-merz-amerikaner-mit-in-verantwortung-fuer-europa-halten-faz-110093143.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/paritaet-und-wahlrecht-rettet-die-afd-die-repraesentative-demokratie-110836450.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-spahn-erwartet-hoeheres-renteneintrittsalter-faz-110093143.html",
     "https://www.deutschlandfunk.de/erneut-russische-drohnenangriffe-auf-odessa-104.html",
-    "https://www.deutschlandfunk.de/nach-sicherheitsvorfall-am-flughafen-koeln-bonn-betrieb-wieder-angelaufen-aber-laengere-wartezeiten-100.html"
+    "https://www.deutschlandfunk.de/nach-sicherheitsvorfall-am-flughafen-koeln-bonn-betrieb-wieder-angelaufen-aber-laengere-wartezeiten-100.html",
+    "https://www.deutschlandfunk.de/redeverbot-fuer-hoecke-in-bayern-schutz-vor-rechtsextremismus-100.html",
+    "https://www.deutschlandfunk.de/singapur-und-suriname-bieten-die-groesste-religioese-vielfalt-aller-staaten-weltweit-100.html",
+    "https://www.deutschlandfunk.de/interview-mit-mirjana-spoljaric-egger-ikrk-hilfsorganisationen-in-kriegszeiten-100.html"
   ],
   "content_hashes": [
-    "37955af1d11d77f407da9aeb45440975",
-    "43ea7eebbee4bebb380351fe2f4b34d3",
-    "dda9ec7b995b16259aae4657b9d293d7",
     "22da8af1470f6d4d2d444e18abfa39a8",
     "c40733b57b05b05d6b22d933d8c86f6a",
     "38fdc7ad4a7d5378d04494a8863b2779",
@@ -2001,12 +1998,12 @@
     "7cc28e7d7bb379261ae0117ed2586e41",
     "65b6a43ae17a8a95ffb5f2c237af8d6c",
     "83996264d4eaf63818233fbfb869ff1b",
-    "7d188fe3790af96c7973031a6cf81c4f"
+    "7d188fe3790af96c7973031a6cf81c4f",
+    "a81f6a9ef064148ef350445b8dc8d95d",
+    "9e3d8d5072f656e7e201fe1709b02f94",
+    "72499713d5ce3b62a6a1b4008dab9d2d"
   ],
   "titles": [
-    "Spanien - Mindestens 39 Tote und viele Schwerverletzte bei Unglück mit zwei Hochgeschwindigkeitszügen",
-    "E-Mobilität: Bund fördert Kauf von Elektroautos mit bis zu 6000 Euro",
-    "Several killed in Kabul blast, Afghan Interior Ministry says",
     "Konflikt um Grönland - Merz: Es gilt das Prinzip der territorialen Integrität",
     "F.A.Z. exklusiv: Bätzing gibt Vorsitz der Bischofskonferenz ab",
     "Deutschland-Blog: Merz: Amerikaner mit in Verantwortung für Europa halten",
@@ -3003,12 +3000,12 @@
     "Debatte über Parität: Rettet die AfD die repräsentative Demokratie?",
     "Deutschland-Blog: Spahn erwartet höheres Renteneintrittsalter",
     "Krieg gegen die Ukraine - Erneut russische Drohnenangriffe auf Odessa",
-    "Luftverkehr - Nach Sicherheitsvorfall am Flughafen Köln/Bonn: Betrieb wieder angelaufen, aber längere Wartezeiten"
+    "Luftverkehr - Nach Sicherheitsvorfall am Flughafen Köln/Bonn: Betrieb wieder angelaufen, aber längere Wartezeiten",
+    "Verwaltungsgerichtsentscheidung - Redeverbot für Höcke in Bayern - Schutz vor Rechtsextremismus",
+    "Analyse des Pew Research Centers - Singapur und Suriname bieten die größte religiöse Vielfalt aller Staaten weltweit",
+    "Rotes Kreuz - „Es besteht kein Respekt mehr für die zivile Bevölkerung“"
   ],
   "hashes": [
-    "e4c3df169be0f93b40ab7b2e78e3ab5f",
-    "0923edf7ed9b15f26a33c857bc62296e",
-    "56b5304c84f15796026c194167335cd0",
     "e72705c60d0e93abd2fe11f0ce5230a7",
     "61ef105060a8e0a3d69a4033bb7d6880",
     "d71d369029576c0ce6cec92abf53d36f",
@@ -4005,6 +4002,9 @@
     "fd4dd6bb2bd3b598f53ac61a1fd2b871",
     "b506ca698ca0a824872549d837e18440",
     "66d3f8bd943405d46bb3d8c5b52e85b6",
-    "830a9e9cea5232a35e1ad64310d31da2"
+    "830a9e9cea5232a35e1ad64310d31da2",
+    "1aaf7f44c2961c7786f1318d115208fc",
+    "3ecc0ecf5004102a7c95383d6949a97f",
+    "a53feac73711877b553b55b1254edfea"
   ]
 }
