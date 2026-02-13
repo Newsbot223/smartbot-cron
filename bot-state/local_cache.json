@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/bischof-georg-baetzing-gibt-vorsitz-der-bischofskonferenz-ab-accg-200453365.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-merz-amerikaner-mit-in-verantwortung-fuer-europa-halten-faz-110093143.html",
-    "https://www.deutschlandfunk.de/baetzing-gibt-vorsitz-der-deutschen-bischofskonferenz-ab-100.html",
-    "https://www.deutschlandfunk.de/iranischer-aussenminister-von-weltwirtschaftsforum-in-davos-ausgeladen-100.html",
     "https://www.deutschlandfunk.de/erneute-hakenkreuz-schmierereien-auf-grab-von-helmut-schmidt-und-ehefrau-loki-stiftung-verurteilten--100.html",
     "https://www.deutschlandfunk.de/prozessauftakt-wegen-koranverbrennung-vor-dem-islamischen-zentrum-hamburg-100.html",
     "https://www.deutschlandfunk.de/mindestens-14-tote-nach-brand-in-pakistanischem-einkaufszentrum-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/redeverbot-fuer-hoecke-in-bayern-schutz-vor-rechtsextremismus-100.html",
     "https://www.deutschlandfunk.de/singapur-und-suriname-bieten-die-groesste-religioese-vielfalt-aller-staaten-weltweit-100.html",
     "https://www.deutschlandfunk.de/interview-mit-mirjana-spoljaric-egger-ikrk-hilfsorganisationen-in-kriegszeiten-100.html",
-    "https://www.deutschlandfunk.de/interview-mit-wolfgang-ischinger-vors-siko-wie-stark-ist-europa-100.html"
+    "https://www.deutschlandfunk.de/interview-mit-wolfgang-ischinger-vors-siko-wie-stark-ist-europa-100.html",
+    "https://www.deutschlandfunk.de/europaeische-bischoefe-mahnen-europaeische-grundwerte-an-100.html",
+    "https://www.deutschlandfunk.de/russland-erklaert-deutschen-akademischen-austauschdienst-daad-fuer-unerwuenscht-100.html",
+    "https://www.deutschlandfunk.de/high-court-haelt-terror-einstufung-von-palestine-action-fuer-unrechtmaessig-100.html",
+    "https://www.deutschlandfunk.de/neue-besatzung-auf-dem-weg-zur-iss-102.html"
   ],
   "content_hashes": [
-    "c40733b57b05b05d6b22d933d8c86f6a",
-    "38fdc7ad4a7d5378d04494a8863b2779",
-    "306e78a128939410358aeb37ef825894",
-    "afdbd4964c70cd46d210dc1df0a5c1a9",
     "dd8b82c934e6088680a9ca0eb29cfc9b",
     "0586d0a479a0dcf42d5d5da86addf807",
     "902efdb2d8d3c8172310ea5ae3cbe3b3",
@@ -2001,13 +1997,13 @@
     "a81f6a9ef064148ef350445b8dc8d95d",
     "9e3d8d5072f656e7e201fe1709b02f94",
     "72499713d5ce3b62a6a1b4008dab9d2d",
-    "877a299ff3b9d3007fd577727a671355"
+    "877a299ff3b9d3007fd577727a671355",
+    "18e674945f2c6fa5975dedab6c5208f2",
+    "36f3d3f4c86f1d796d3bf4963e2c64f8",
+    "8fc9a2b4355f9d81b60c2d6491fbee85",
+    "b76f2d1d467293e9d87aa4549db70631"
   ],
   "titles": [
-    "F.A.Z. exklusiv: Bätzing gibt Vorsitz der Bischofskonferenz ab",
-    "Deutschland-Blog: Merz: Amerikaner mit in Verantwortung für Europa halten",
-    "Limburger Bischof - Bätzing gibt Vorsitz der Deutschen Bischofskonferenz ab",
-    "Nach Niederschlagung von Protesten - Iranischer Außenminister von Weltwirtschaftsforum in Davos ausgeladen",
     "Altbundeskanzler - Erneute Hakenkreuz-Schmierereien auf Grab von Helmut Schmidt und Ehefrau Loki: Stiftung verurteilten \"geistlosen Vandalismus\"",
     "IZH - Prozessauftakt wegen Koranverbrennung vor dem Islamischen Zentrum Hamburg",
     "Karachi - Mindestens 14 Tote nach Brand in pakistanischem Einkaufszentrum",
@@ -3003,13 +2999,13 @@
     "Verwaltungsgerichtsentscheidung - Redeverbot für Höcke in Bayern - Schutz vor Rechtsextremismus",
     "Analyse des Pew Research Centers - Singapur und Suriname bieten die größte religiöse Vielfalt aller Staaten weltweit",
     "Rotes Kreuz - „Es besteht kein Respekt mehr für die zivile Bevölkerung“",
-    "Wolfgang Ischinger - Die Münchner Sicherheitskonferenz als Reparaturwerkstatt"
+    "Wolfgang Ischinger - Die Münchner Sicherheitskonferenz als Reparaturwerkstatt",
+    "Gemeinsamer Appell - Europäische Bischöfe mahnen europäische Grundwerte an",
+    "Justizministerium - Russland erklärt Deutschen Akademischen Austauschdienst (DAAD) für unerwünscht",
+    "Großbritannien - High Court hält Terror-Einstufung von Palestine Action für unrechtmäßig",
+    "Internationale Raumstation - Neue Besatzung auf dem Weg zur ISS"
   ],
   "hashes": [
-    "61ef105060a8e0a3d69a4033bb7d6880",
-    "d71d369029576c0ce6cec92abf53d36f",
-    "416372da792b1eb29d37ff479c1329bd",
-    "03fa2b1452122b18308da80cd830fefe",
     "fadcd119046c05393488e696180df383",
     "0ac6f889fe30a675317bc2c2c7d449e0",
     "08ad1afa58c1d25a7e4f49b02e6669d0",
@@ -4005,6 +4001,10 @@
     "1aaf7f44c2961c7786f1318d115208fc",
     "3ecc0ecf5004102a7c95383d6949a97f",
     "a53feac73711877b553b55b1254edfea",
-    "6a93e9d29ff2782145b054990cfb11d9"
+    "6a93e9d29ff2782145b054990cfb11d9",
+    "fc4360a61dbb624334b8de13992b9387",
+    "962f21326841439716a928a317da75fa",
+    "e592b1cfc88c682fdc18c140a7928a36",
+    "3be112d3a75e2beb888739aa095bf79e"
   ]
 }
