@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-heute-soldaten-und-polizisten-im-auslandseinsatz-102.html",
-    "https://www.deutschlandfunk.de/verdi-ruft-zu-neuen-warnstreiks-heute-im-oeffentlichen-dienst-auf-autofahrer-in-norddeutschland-betr-100.html",
-    "https://www.deutschlandfunk.de/studie-ueber-sexuelle-belaestigung-und-gewalt-in-truppe-soll-demnaechst-beginnen-100.html",
     "https://www.deutschlandfunk.de/massenhafte-ausbrueche-von-is-kaempfern-aus-gefangenenlagern-in-kurdischen-gebieten-104.html",
     "https://www.deutschlandfunk.de/identifizierung-der-opfer-des-zugungluecks-dauert-an-vermutlich-deutsche-unter-den-opfern-100.html",
     "https://www.deutschlandfunk.de/wahlbehoerde-im-kosovo-ordnet-komplette-neuauszaehlung-der-stimmen-an-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/datenschuetzer-kritisieren-den-geplanten-einsatz-von-koerperkameras-bei-der-deutschen-bahn-100.html",
     "https://www.deutschlandfunk.de/trump-will-wahlreform-notfalls-per-dekret-durchsetzen-100.html",
     "https://www.deutschlandfunk.de/deutliche-annaeherung-bei-verhandlungen-zwischen-bahn-und-lokfuehrergewerkschaft-102.html",
-    "https://www.deutschlandfunk.de/trump-bestaetigt-usa-schicken-weiteren-flugzeugtraeger-in-richtung-iran-102.html"
+    "https://www.deutschlandfunk.de/trump-bestaetigt-usa-schicken-weiteren-flugzeugtraeger-in-richtung-iran-102.html",
+    "https://www.deutschlandfunk.de/hubig-spd-gegen-senkung-der-strafmuendigkeit-bei-kindern-100.html",
+    "https://www.deutschlandfunk.de/teil-haushaltssperre-in-den-usa-hat-begonnen-102.html",
+    "https://www.deutschlandfunk.de/bnd-chef-jaeger-fuer-gegenaktionen-nach-hybriden-angriffen-russlands-100.html"
   ],
   "content_hashes": [
-    "9baba2d87545f2b82bd2e2be42acfb75",
-    "3d4aa3c6f5462d8743e6f4496ae62e75",
-    "4756dd451d27bccd43355ced5aa826e7",
     "32e0824bb81974567fc0f40d8515888b",
     "96e1c6902df5f1a01033a0d9a8144378",
     "ede26a03ce728eb5bb9e9286272136a2",
@@ -2001,12 +1998,12 @@
     "06452d53e511c151de9550c155845bfa",
     "328ff5b1ae7ad7f7e92dc6d315f9177c",
     "fb862813b6570d1ea3ffaf5d4dbef7af",
-    "1060b705be987507f7f344eacb8c28bd"
+    "1060b705be987507f7f344eacb8c28bd",
+    "c39f4b3e44509e7afb70c05450725a8c",
+    "f41147e99e3b28a73ff5343426bf27fb",
+    "3ed09ad11827227bbb01f9908aa66e73"
   ],
   "titles": [
-    "Neujahrsempfang - Bundeskanzler Merz würdigt heute Soldaten und Polizisten im Auslandseinsatz",
-    "Tarifkonflikt - Verdi ruft zu neuen Warnstreiks heute im Öffentlichen Dienst auf - Autofahrer in Norddeutschland betroffen",
-    "Bundeswehr - Studie über sexuelle Belästigung und Gewalt in Truppe soll demnächst beginnen",
     "Syrien - Massenhafte Ausbrüche von IS-Kämpfern aus Gefangenenlagern in kurdischen Gebieten",
     "Spanien - Identifizierung der Opfer des Zugunglücks dauert an - vermutlich Deutsche unter den Opfern",
     "Nach der Parlamentswahl - Wahlbehörde im Kosovo ordnet komplette Neuauszählung der Stimmen an",
@@ -3003,12 +3000,12 @@
     "Nach dem DB-Sicherheitsgipfel - Datenschützer kritisieren den geplanten Einsatz von Körperkameras bei der Deutschen Bahn",
     "USA - Trump will Wahlreform notfalls per Dekret durchsetzen",
     "Tarifstreit - Deutliche Annäherung bei Verhandlungen zwischen Bahn und Lokführergewerkschaft",
-    "Drohgebärde - Trump bestätigt: USA schicken weiteren Flugzeugträger in Richtung Iran"
+    "Drohgebärde - Trump bestätigt: USA schicken weiteren Flugzeugträger in Richtung Iran",
+    "Kriminalität - Hubig (SPD) gegen Senkung der Strafmündigkeit bei Kindern",
+    "Konflikt um ICE-Behörde - Teil-Haushaltssperre in den USA hat begonnen",
+    "Geheimdienst - BND-Chef Jäger für Gegenaktionen nach hybriden Angriffen Russlands"
   ],
   "hashes": [
-    "546d307499ff2ea17a609e16fcfea3f4",
-    "c8e8794a94ff52a74cb3805132d89dd9",
-    "95a745a12e582bb9d2755e85e7535fcb",
     "76ac78c56945aaf684ff602ed49292dc",
     "98b7bb8fc0206ec8a0f33c9fc1a72ee8",
     "4ec18d7faae59f90c372bd4be117a9ba",
@@ -4005,6 +4002,9 @@
     "335429e468fc99a215e9413f347b4c35",
     "978b1c3dc9d32a6319012ea34cfa1737",
     "4d8a3df48c8a4209b5fdc81e347e7bb7",
-    "7da127f25ccac3e8d2daac190d152a3d"
+    "7da127f25ccac3e8d2daac190d152a3d",
+    "711e3c3f3095c6c9f953a5f16ec39e1d",
+    "e6559734f04146ab03b531b6addecef3",
+    "c5714413bf6940708e2c7c11462b08b4"
   ]
 }
