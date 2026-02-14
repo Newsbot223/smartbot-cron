@@ -1,10 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/baetzings-rueckzug-die-luecke-ist-nicht-gross-110821871.html",
-    "https://www.deutschlandfunk.de/frankreichs-premier-will-etat-2026-ohne-zustimmung-des-parlaments-durchsetzen-100.html",
-    "https://www.deutschlandfunk.de/wahlbehoerde-ordnet-neuauszaehlung-der-stimmen-an-104.html",
-    "https://www.deutschlandfunk.de/iran-stellt-lockerung-der-internet-blockade-in-aussicht-102.html",
-    "https://www.deutschlandfunk.de/republik-moldau-will-endgueltig-aus-der-gus-austreten-100.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-wuerdigt-heute-soldaten-und-polizisten-im-auslandseinsatz-102.html",
     "https://www.deutschlandfunk.de/verdi-ruft-zu-neuen-warnstreiks-heute-im-oeffentlichen-dienst-auf-autofahrer-in-norddeutschland-betr-100.html",
     "https://www.deutschlandfunk.de/studie-ueber-sexuelle-belaestigung-und-gewalt-in-truppe-soll-demnaechst-beginnen-100.html",
@@ -999,14 +994,14 @@
     "https://www.deutschlandfunk.de/teil-haushaltssperre-in-den-usa-beginnt-in-der-nacht-102.html",
     "https://www.deutschlandfunk.de/tausende-bilden-menschenkette-100.html",
     "https://www.deutschlandfunk.de/usa-schicken-weiteren-flugzeugtraeger-in-richtung-iran-108.html",
-    "https://www.deutschlandfunk.de/teil-haushaltssperre-in-den-usa-beginnt-in-der-nacht-106.html"
+    "https://www.deutschlandfunk.de/teil-haushaltssperre-in-den-usa-beginnt-in-der-nacht-106.html",
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-spricht-heute-auf-der-muenchner-sicherheitskonferenz-102.html",
+    "https://www.deutschlandfunk.de/datenschuetzer-kritisieren-den-geplanten-einsatz-von-koerperkameras-bei-der-deutschen-bahn-100.html",
+    "https://www.deutschlandfunk.de/trump-will-wahlreform-notfalls-per-dekret-durchsetzen-100.html",
+    "https://www.deutschlandfunk.de/deutliche-annaeherung-bei-verhandlungen-zwischen-bahn-und-lokfuehrergewerkschaft-102.html",
+    "https://www.deutschlandfunk.de/trump-bestaetigt-usa-schicken-weiteren-flugzeugtraeger-in-richtung-iran-102.html"
   ],
   "content_hashes": [
-    "01c2e19fd7ff16ec2f3b20714b6f0c74",
-    "156acbac9a41dfc03fae013ee7c35f8d",
-    "d3073a1a421feaa195b40d99c321dee7",
-    "9751fa716fd455bdb1b4dd38829bb311",
-    "0ab384df60edd2486cd2067f6dd35fa7",
     "9baba2d87545f2b82bd2e2be42acfb75",
     "3d4aa3c6f5462d8743e6f4496ae62e75",
     "4756dd451d27bccd43355ced5aa826e7",
@@ -2001,14 +1996,14 @@
     "05c6a72a130c051b456a9c40f2530eab",
     "1ba87778ad61388f3e3fad3bca652dc6",
     "d5d7feb3564cde87cac8ed031f711480",
-    "dde9c2411539e23e56f30c596ef008e4"
+    "dde9c2411539e23e56f30c596ef008e4",
+    "03c10e6ec3b044777d6868b5a7638704",
+    "06452d53e511c151de9550c155845bfa",
+    "328ff5b1ae7ad7f7e92dc6d315f9177c",
+    "fb862813b6570d1ea3ffaf5d4dbef7af",
+    "1060b705be987507f7f344eacb8c28bd"
   ],
   "titles": [
-    "Bischofskonferenz: Bätzing hinterlässt eine kleine Lücke",
-    "Haushaltsstreit - Frankreichs Premier will Etat 2026 ohne Zustimmung des Parlaments durchsetzen",
-    "Parlamentswahl im Kosovo - Wahlbehörde ordnet Neuauszählung der Stimmen an",
-    "Wirtschaftliche Verluste - Iran stellt Lockerung der Internet-Blockade in Aussicht.",
-    "Abkehr von Russland - Republik Moldau will endgültig aus der GUS austreten",
     "Neujahrsempfang - Bundeskanzler Merz würdigt heute Soldaten und Polizisten im Auslandseinsatz",
     "Tarifkonflikt - Verdi ruft zu neuen Warnstreiks heute im Öffentlichen Dienst auf - Autofahrer in Norddeutschland betroffen",
     "Bundeswehr - Studie über sexuelle Belästigung und Gewalt in Truppe soll demnächst beginnen",
@@ -3003,14 +2998,14 @@
     "Streit um ICE-Behörde - Teil-Haushaltssperre in den USA beginnt in der Nacht",
     "Dresden-Gedenken - Tausende bilden Menschenkette",
     "Drohgebärde - USA schicken weiteren Flugzeugträger in Richtung Iran",
-    "Konflkt um ICE-Behörde - Teil-Haushaltssperre in den USA beginnt in der Nacht"
+    "Konflkt um ICE-Behörde - Teil-Haushaltssperre in den USA beginnt in der Nacht",
+    "Transatlantische Beziehungen - US-Außenminister Rubio spricht heute auf der Münchner Sicherheitskonferenz",
+    "Nach dem DB-Sicherheitsgipfel - Datenschützer kritisieren den geplanten Einsatz von Körperkameras bei der Deutschen Bahn",
+    "USA - Trump will Wahlreform notfalls per Dekret durchsetzen",
+    "Tarifstreit - Deutliche Annäherung bei Verhandlungen zwischen Bahn und Lokführergewerkschaft",
+    "Drohgebärde - Trump bestätigt: USA schicken weiteren Flugzeugträger in Richtung Iran"
   ],
   "hashes": [
-    "b795da685a70cda41ad4f07352ee6365",
-    "1adc57dac3a94895f8c7158d88afc4a2",
-    "3bd6b9df926323d9b59448d3d0e170a6",
-    "0ea37887fa43924a9c89e4098117552d",
-    "cc38d112ec315259eccefcd1bdb355f7",
     "546d307499ff2ea17a609e16fcfea3f4",
     "c8e8794a94ff52a74cb3805132d89dd9",
     "95a745a12e582bb9d2755e85e7535fcb",
@@ -4005,6 +4000,11 @@
     "43a38050aa297476be3b434fe53acd41",
     "563a139d39d81e487a08fc63027bfdd7",
     "d371fba0b1c8a0747dd7d6ae7f330016",
-    "3cef94aedc83bba2e339e981e55a6ba4"
+    "3cef94aedc83bba2e339e981e55a6ba4",
+    "272ccd600124b0c92c1254c1cf6160da",
+    "335429e468fc99a215e9413f347b4c35",
+    "978b1c3dc9d32a6319012ea34cfa1737",
+    "4d8a3df48c8a4209b5fdc81e347e7bb7",
+    "7da127f25ccac3e8d2daac190d152a3d"
   ]
 }
