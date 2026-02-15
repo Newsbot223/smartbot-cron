@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verfassungsschuetzer-warnt-vor-datensammlung-durch-e-autos-100.html",
-    "https://www.deutschlandfunk.de/bundesweite-auswirkungen-auf-den-strassenverkehr-108.html",
     "https://www.deutschlandfunk.de/mindestens-41-todesopfer-bei-zugunglueck-in-spanien-100.html",
     "https://www.faz.net/aktuell/politik/inland/klimaschaedliches-gas-in-bad-wimpfen-umweltministerin-walker-gesteht-versaeumnisse-ein-110822490.html",
     "https://www.deutschlandfunk.de/kein-g7-treffen-mit-russland-in-paris-trump-verspottet-macron-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neue-besatzung-in-iss-angekommen-102.html",
     "https://www.deutschlandfunk.de/grosseinsatz-der-feuerwehr-bei-einkaufszentrum-ein-todesopfer-102.html",
     "https://www.deutschlandfunk.de/genf-wird-ort-der-naechsten-vermittlung-zwischen-usa-und-iran-100.html",
-    "https://www.deutschlandfunk.de/cdu-arbeitnehmerfluegel-fordert-mehr-fuehrung-von-merz-102.html"
+    "https://www.deutschlandfunk.de/cdu-arbeitnehmerfluegel-fordert-mehr-fuehrung-von-merz-102.html",
+    "https://www.deutschlandfunk.de/bundesgesundheitsministerin-warken-will-zuegige-verstaendigung-fuer-jahresrezepte-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-hubig-gegen-strafmuendigkeit-von-kindern-unter-14-jahren-faz-110093143.html"
   ],
   "content_hashes": [
-    "7be6047e34a828bb71213bb1a20477c4",
-    "c5a37e2d76d049cb931d7be7ec5dc316",
     "ebda67e2c6c54ddce33c46595cc0201e",
     "a6b6d34be12b5c81b968cf3ee3797469",
     "d1c6e562cb9cd7a64bce2960e7315447",
@@ -2001,11 +1999,11 @@
     "2da795df7c5c3df1629ed5941310fe8b",
     "0ee12064ab09eefe91ad3fb6be63f1e5",
     "5a3b522af7f9e2816ef5375356c63b72",
-    "db83fae1e94c28a7041b9d07bc666dad"
+    "db83fae1e94c28a7041b9d07bc666dad",
+    "7282514d0ded06a362c6e63d368d40df",
+    "48bf40409aac7561debf89ed43f71cf6"
   ],
   "titles": [
-    "Spionage - Verfassungsschützer warnt vor Datensammlung durch E-Autos",
-    "Warnstreiks im Öffentlichen Dienst der Länder - Bundesweite Auswirkungen auf den Straßenverkehr",
     "Andalusien - Mindestens 41 Todesopfer bei Zugunglück in Spanien",
     "Klimaschädliches Gas: Umweltministerin Walker räumt Versäumnisse ein",
     "USA - Kein G7-Treffen mit Russland in Paris - Trump verspottet Macron",
@@ -3003,11 +3001,11 @@
     "Internationale Raumstation - Neue Besatzung in ISS angekommen",
     "Kiel - Großeinsatz der Feuerwehr bei Einkaufszentrum - ein Todesopfer",
     "Atomverhandlungen - Genf wird Ort der nächsten Vermittlung zwischen USA und Iran",
-    "Sozialstaatsdebatte - CDU-Arbeitnehmerflügel fordert mehr Führung von Merz"
+    "Sozialstaatsdebatte - CDU-Arbeitnehmerflügel fordert mehr Führung von Merz",
+    "Chronisch Kranke - Bundesgesundheitsministerin Warken will zügige Verständigung für Jahresrezepte",
+    "Deutschland-Blog: Linnemann dringt auf Steuerreform"
   ],
   "hashes": [
-    "0dfd90a3a64200064a895475645b13cc",
-    "962716a115f4684d516395159efeabeb",
     "97551f1bc63e9eb1ce5f5dade3553ed5",
     "b59e01effb763c258808e59aeb01e1a9",
     "70bca8da81f83cbd5e451adebf7bbebe",
@@ -4005,6 +4003,8 @@
     "e0ce0bc0074971613d92a6beb8f669ab",
     "ab2ec2ed9d1421e7a5989493b75caae6",
     "040bb8374e9ccda4eb187137ca8ed59d",
-    "fdd4a087332d8fd8b01fb11785d2e1a6"
+    "fdd4a087332d8fd8b01fb11785d2e1a6",
+    "e32dea91a146f104ebb2afc75d14f7ce",
+    "a7595d26945c2d9de6f8ca6413696766"
   ]
 }
