@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/spanische-lokfuehrergewerkschaft-ruft-zu-landesweitem-streik-auf-100.html",
-    "https://www.deutschlandfunk.de/europaeisches-parlament-ruft-eugh-an-merz-nennt-entscheidung-bedauerlich-100.html",
-    "https://www.deutschlandfunk.de/nigeria-militaer-befreit-62-geiseln-bei-schlag-gegen-bewaffnete-gruppen-100.html",
     "https://www.aljazeera.com/news/liveblog/2026/1/21/trump-live-news-us-president-in-davos-as-greenland-threats-spark-outrage?traffic_source=rss",
     "https://www.deutschlandfunk.de/spd-verteidigt-erneut-telefonische-krankschreibung-100.html",
     "https://www.deutschlandfunk.de/nordrhein-westfalen-haelt-an-islam-unterricht-fest-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dobrindt-verlaengert-grenzkontrollen-um-weitere-sechs-monate-106.html",
     "https://www.deutschlandfunk.de/herabfallende-eisstuecke-leverkusener-rheinbruecke-wieder-freigegeben-100.html",
     "https://www.deutschlandfunk.de/immer-mehr-ukraine-rueckkehrer-erwaegen-die-erneute-flucht-ins-ausland-100.html",
-    "https://www.deutschlandfunk.de/spd-chef-klingbeil-unterstuetzt-forderung-nach-verbot-fuer-kinder-unter-14-jahren-100.html"
+    "https://www.deutschlandfunk.de/spd-chef-klingbeil-unterstuetzt-forderung-nach-verbot-fuer-kinder-unter-14-jahren-100.html",
+    "https://www.deutschlandfunk.de/studierende-haben-kein-anrecht-auf-buergergeld-100.html",
+    "https://www.deutschlandfunk.de/vertraege-fuer-erdgas-erkundung-vor-griechischer-kueste-unterzeichnet-100.html",
+    "https://www.deutschlandfunk.de/deutsche-bobfahrer-auf-medaillenkurs-laura-nolte-faehrt-am-abend-um-gold-106.html"
   ],
   "content_hashes": [
-    "a0fe00f84aba84b79e7c9d24502ca5f4",
-    "d341f46923bdd829976f7bb4f9721891",
-    "442874ec164cd84aa036fa2e700bb88d",
     "cf9e00e15839cf08cd0a8ce65866e70f",
     "5891448317e4f8be05637c3e4fa3a947",
     "c36380f8b8a379968cbda9c687e14947",
@@ -2001,12 +1998,12 @@
     "3781e43982cdef013a3128b78c67b47b",
     "4d90828b2dd6bd371de0c59d3ca5700e",
     "42c5c5955bdf50852ad10351e6e06b14",
-    "60ea59737fc7c145cfe69b1f2d868c35"
+    "60ea59737fc7c145cfe69b1f2d868c35",
+    "8866dc6d3d269818c9cae7dea01cbd27",
+    "2c1223d053817c77e15fe066592af1e1",
+    "2fc8e73de905afe37652899fd7997a7e"
   ],
   "titles": [
-    "Nach Zugunglücken - Spanische Lokführergewerkschaft ruft zu landesweitem Streik auf",
-    "Streit um Mercosur-Abkommen - Europäisches Parlament ruft EuGH an - Merz nennt Entscheidung \"bedauerlich\"",
-    "Kebbi und Zamfara - Nigeria: Militär befreit 62 Geiseln bei Schlag gegen bewaffnete Gruppen",
     "Trump live news: US president in Davos as Greenland threats spark outrage",
     "Krankenstand - SPD verteidigt erneut telefonische Krankschreibung",
     "Religion - Nordrhein-Westfalen hält an Islam-Unterricht fest",
@@ -3003,12 +3000,12 @@
     "Migrationspolitik - Dobrindt verlängert Grenzkontrollen um weitere sechs Monate",
     "Verkehr - Herabfallende Eisstücke: Leverkusener Rheinbrücke wieder freigegeben",
     "Umfrage - Immer mehr Ukraine-Rückkehrer erwägen die erneute Flucht ins Ausland",
-    "Social Media - SPD-Chef Klingbeil unterstützt Forderung nach Verbot für Kinder unter 14 Jahren"
+    "Social Media - SPD-Chef Klingbeil unterstützt Forderung nach Verbot für Kinder unter 14 Jahren",
+    "Gericht bestätigt - Studierende haben kein Anrecht auf Bürgergeld",
+    "Mittelmeer - Verträge für Erdgas-Erkundung vor griechischer Küste unterzeichnet",
+    "Olympische Spiele - Deutsche Bobfahrer auf Medaillenkurs - Laura Nolte fährt am Abend um Gold"
   ],
   "hashes": [
-    "de8311c2cbe428776881245979a4a4a3",
-    "b38a0e1ea5ccd5cb50f4a43b012b47aa",
-    "5df4e6bf5f8d9c70c66980933e64802b",
     "ace5bbc33052602bc3f4dc7799710af1",
     "9d6ca5b0da6af0cf43ac00462170e338",
     "97ccfd3015af36a14f17397048fa378b",
@@ -4005,6 +4002,9 @@
     "37463a1bbf2da0a56ffe816967e1fc4d",
     "d1202c417ff75b6d04cbdf5d244176ab",
     "7474b36ce99ad2e439d386f20ede9d2d",
-    "ff775dfda8e31a5cf7358f1c4726a580"
+    "ff775dfda8e31a5cf7358f1c4726a580",
+    "827337d776efb9986dd232a2d5171c9d",
+    "b525b0469de0376dfcdd199248d6a4f6",
+    "d1872ae0a385accbc58de6bef18f4e81"
   ]
 }
