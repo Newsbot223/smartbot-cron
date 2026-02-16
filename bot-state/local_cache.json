@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/hausaerzteverband-fordert-striktere-regeln-fuer-online-krankschreibung-102.html",
-    "https://www.deutschlandfunk.de/mehr-strom-aus-wind-und-solar-als-aus-fossiler-energie-100.html",
-    "https://www.deutschlandfunk.de/oberhaus-stimmt-fuer-social-media-verbot-unter-16-jahren-100.html",
     "https://www.faz.net/aktuell/politik/inland/viele-afghanen-lehnen-aufnahmeverzicht-gegen-geld-ab-accg-200462620.html",
     "https://www.deutschlandfunk.de/kritik-an-gruenen-nach-mercosur-abstimmung-auch-in-eigenen-reihen-100.html",
     "https://www.deutschlandfunk.de/ungewissheit-um-treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle--100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/urteil-gegen-frankreichs-ex-premier-fillon-rechtskraeftig-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-warnt-vor-neuem-massiven-russischen-luftangriffen-100.html",
     "https://www.deutschlandfunk.de/vetternwirtschafts-vorwurf-gegen-afd-spd-fuer-verschaerfung-von-abgeordnetengesetz-102.html",
-    "https://www.deutschlandfunk.de/kampf-gegen-islamisten-weitere-100-us-soldaten-in-nigeria-eingetroffen-100.html"
+    "https://www.deutschlandfunk.de/kampf-gegen-islamisten-weitere-100-us-soldaten-in-nigeria-eingetroffen-100.html",
+    "https://www.deutschlandfunk.de/verkehrsbehinderungen-in-vielen-regionen-wegen-verdi-streikwoche-bei-autobahn-gmbh-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-warnt-vor-neuen-massiven-russischen-luftangriffen-106.html",
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-sagt-orban-vor-parlamentswahl-unterstuetzung-zu-ihr-erfolg-ist-unser-erfolg-114.html"
   ],
   "content_hashes": [
-    "46844c99f0a15c33b6357d86f0e9ce69",
-    "c9c8f26183c3ffe49bd22f3563ffa161",
-    "005a7604cff745fedffce130d18f0fb3",
     "416132d78d22d290687f4e104dfcbfa7",
     "17d0277f151a7fc9e785a4e7a97c8580",
     "5ddcef406ae7786704677a6a4caa0589",
@@ -2001,12 +1998,12 @@
     "d4d022288cec3d32772beb028944dae8",
     "8cf18a169658b893f68b121e1e402cbc",
     "356948fff6c05fa88a647a6974a14017",
-    "b1e7c79917fec9337ad62df967b1baed"
+    "b1e7c79917fec9337ad62df967b1baed",
+    "925af64402e59ef8c458325615dcff33",
+    "a66821cb0549ab7cd113f2f6b58ef116",
+    "fbe1453c970fee5c48d75a4a606824f7"
   ],
   "titles": [
-    "Gesundheitssystem - Hausärzteverband fordert striktere Regeln für Online-Krankschreibung",
-    "Europäische Union - Mehr Strom aus Wind und Solar als aus fossiler Energie",
-    "Britisches Parlament - Oberhaus stimmt für Social-Media-Verbot unter 16 Jahren",
     "Aufnahme von Afghanen: Sicherheit ist ihnen wichtiger als Geld",
     "Freihandel - Kritik an Grünen nach Mercosur-Abstimmung auch in eigenen Reihen",
     "Ukraine - Ungewissheit um Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum",
@@ -3003,12 +3000,12 @@
     "Scheinarbeitsaffäre - Urteil gegen Frankreichs Ex-Premier Fillon rechtskräftig",
     "Vor Gesprächen in Genf - Ukrainischer Präsident Selenskyj warnt vor neuem massiven russischen Luftangriffen",
     "Bundestag - Vetternwirtschafts-Vorwurf gegen AfD: SPD für Verschärfung von Abgeordnetengesetz",
-    "Westafrika - Kampf gegen Islamisten: Weitere 100 US-Soldaten in Nigeria eingetroffen"
+    "Westafrika - Kampf gegen Islamisten: Weitere 100 US-Soldaten in Nigeria eingetroffen",
+    "Tarifstreit - Verkehrsbehinderungen in vielen Regionen wegen Verdi-Streikwoche bei Autobahn GmbH",
+    "Vor Gesprächen in Genf - Ukrainischer Präsident Selenskyj warnt vor neuen massiven russischen Luftangriffen",
+    "Ungarn-Besuch - US-Außenminister Rubio sagt Orban vor Parlamentswahl Unterstützung zu - \"Ihr Erfolg ist unser Erfolg\""
   ],
   "hashes": [
-    "15db0ac6b424c0fd6af045cdc34fce11",
-    "5f76e47ba858b6af6b0a4ea45d4acec5",
-    "9d8a5ec25e30d8848d924238ae98a197",
     "b8914046051b9cc2897b3782a83adc72",
     "6d57cb6e0636c39721ec38713df701ef",
     "074747766fa02659da2dfe8844f96da1",
@@ -4005,6 +4002,9 @@
     "ccc69b3cee3e04c7767b1764e021d343",
     "28135bf7a85907ff4c51974865d39741",
     "b7b85d3f5d23fd518abec6488181de5d",
-    "42d55f09c60e00fb59df271d9d39083f"
+    "42d55f09c60e00fb59df271d9d39083f",
+    "88b277bd36db406e5a62c987d7d4a2d0",
+    "463f22307d7ac07e3cd0dca3af0d4ab1",
+    "7b143ede2928c0be1f048ced8f12fbde"
   ]
 }
