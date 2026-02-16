@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.aljazeera.com/news/2026/1/21/israels-netanyahu-to-join-board-of?traffic_source=rss",
-    "https://www.deutschlandfunk.de/canyon-baut-jede-fuenfte-stelle-ab-standort-koblenz-besonders-betroffen-100.html",
-    "https://www.spiegel.de/politik/deutschland/groenland-jens-spahn-warnt-vor-zu-viel-konfrontation-mit-donald-trump-a-5db15cc3-9032-44a1-8c49-29d42286575f#ref=rss",
     "https://www.deutschlandfunk.de/von-der-leyen-sieht-eu-und-usa-wegen-groenland-konflikt-am-scheideweg-100.html",
     "https://www.deutschlandfunk.de/ausschreitungen-bei-prokurdischen-demonstrationen-in-deutschland-100.html",
     "https://www.deutschlandfunk.de/europol-groesster-einsatz-aller-zeiten-gegen-den-handel-mit-synthetischen-drogen-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/frauen-bei-gesundheitsforschung-staerker-beruecksichtigen-gesellschaft-fuer-innere-medizin-erhoeht-d-100.html",
     "https://www.deutschlandfunk.de/einheitliches-deutschlandticket-mit-passfoto-gefordert-fuer-mehr-sicherheit-des-zugpersonals-100.html",
     "https://www.spiegel.de/panorama/bremen-verletzter-kormoran-klopft-in-notaufnahme-an-a-bafd85ef-d971-4932-bf91-7a692292b269#ref=rss",
-    "https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss",
+    "https://www.deutschlandfunk.de/ungarns-wahlkampf-spitzt-sich-zu-oppositionsfuehrer-magyar-spricht-nach-orb-ns-marionetten-vorwuerfe-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-reist-in-den-libanon-und-nach-jordanien-100.html",
+    "https://www.spiegel.de/politik/armin-laschet-bei-caren-miosga-europaeischer-atomschirm-keine-prioritaet-a-cf19afec-0e12-4d59-b601-3f73d03a1ffe#ref=rss"
   ],
   "content_hashes": [
-    "dab44fe014f448580936eec8a7612bd4",
-    "257092bff43d6f79990c489fa9627334",
-    "979e1ee4656c9ae9dd49fc1403d5f752",
     "0f99452a04ad6d43d93bfcd7b4eecca4",
     "0b353de780dbd91727ec9099ac2a562e",
     "f1ba3cf477cdd8c2cf638f5739a52499",
@@ -2001,12 +1998,12 @@
     "d2fd2373f55b49c846a9a74d25b1388c",
     "8109305e0464dd80a7b352e9a7736a1f",
     "8fcf885278ea4f634500c17d99c071ef",
-    "771923e01af907f51ea4e06d065492c7"
+    "771923e01af907f51ea4e06d065492c7",
+    "28fbc0967da05ca77b6f5b9b1afe30f1",
+    "39578c3fa7fa4e192448bb2f58745a0a",
+    "bd1cd6faeec39390e45f0153d64906e5"
   ],
   "titles": [
-    "Israel’s wanted war criminal Netanyahu joins Gaza ‘board of peace’",
-    "Deutscher Fahrradhersteller - Canyon baut jede fünfte Stelle ab - Standort Koblenz besonders betroffen",
-    "Grönland: Jens Spahn warnt vor zu viel Konfrontation mit Donald Trump",
     "Geopolitik - Von der Leyen sieht EU und USA wegen Grönland-Konflikt am Scheideweg",
     "Lage in Syrien - Ausschreitungen bei prokurdischen Demonstrationen in Deutschland",
     "Kriminalität - Europol: Größter Einsatz aller Zeiten gegen den Handel mit synthetischen Drogen",
@@ -3003,12 +3000,12 @@
     "Gender - Frauen bei Gesundheitsforschung stärker berücksichtigen: Gesellschaft für Innere Medizin erhöht Druck auf Bundesregierung",
     "Bahnverkehr - Einheitliches Deutschlandticket mit Passfoto gefordert - für mehr Sicherheit des Zugpersonals",
     "Bremen: Verletzter Kormoran klopft in Notaufnahme an",
-    "Russia-Ukraine war: List of key events, day 1,453"
+    "Russia-Ukraine war: List of key events, day 1,453",
+    "Budapest - Ungarns Wahlkampf spitzt sich zu: Oppositionsführer Magyar spricht nach Orbáns Marionetten-Vorwürfen von Hetze",
+    "Nahost - Bundespräsident Steinmeier reist in den Libanon und nach Jordanien",
+    "Armin Laschet bei »Caren Miosga«: Europäischer Atomschirm keine Priorität"
   ],
   "hashes": [
-    "24e15c38a7b7ee561607617761adf76b",
-    "34f16a9723ab516d022f178afa873b0d",
-    "4c28b13573a32d5f1008597b544fba92",
     "120c3ae276d8770e7301c0abc22b2704",
     "39e0437478399947f8b817af1ae79945",
     "fb9e6f4a4f98aa912b8b4d8f9bd1a55b",
@@ -4005,6 +4002,9 @@
     "7bb4afa45286b6aafbca55eaa4490bcd",
     "01c17b7adde1d5348fb77f31226a33ce",
     "e699bb5baaf34e5b67afa7c8d924a776",
-    "6854f2a88a7bbacc680ee63d736b8ed9"
+    "6854f2a88a7bbacc680ee63d736b8ed9",
+    "00c07487a433dc8c1aa9f7b5d9dc33fc",
+    "8ec5fe52cd16b7e906be5bac13e856a4",
+    "aae9689cd5cfe468af1a0c5afc2d9c78"
   ]
 }
