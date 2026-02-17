@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/regierungschefin-takaichi-loest-parlament-auf-100.html",
-    "https://www.deutschlandfunk.de/mindestens-60-tote-nach-brand-in-pakistanischem-einkaufszentrum-102.html",
-    "https://www.deutschlandfunk.de/ice-agenten-nehmen-kinder-in-gewahrsam-auch-fuenfjaehrigen-100.html",
     "https://www.deutschlandfunk.de/wie-die-eu-kuenftig-mehr-in-die-arktis-investieren-will-100.html",
     "https://www.deutschlandfunk.de/eu-parlament-will-terror-listung-von-irans-revolutionsgarden-100.html",
     "https://www.deutschlandfunk.de/bundesschuelerkonferenz-diskutiert-zu-fragen-der-mentalen-gesundheit-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/niedersachsens-landes-afd-als-extremistische-bestrebung-eingestuft-partei-geht-juristisch-dagegen-vo-100.html",
     "https://www.deutschlandfunk.de/zehntausende-protestieren-im-kosovo-gegen-den-haager-prozess-um-ex-praesident-thaci-100.html",
     "https://www.deutschlandfunk.de/angriffe-auf-drei-boote-mit-angeblichen-drogenschmugglern-100.html",
-    "https://www.deutschlandfunk.de/selenskyj-bislang-2-000-verschleppte-kinder-zurueck-in-der-ukraine-100.html"
+    "https://www.deutschlandfunk.de/selenskyj-bislang-2-000-verschleppte-kinder-zurueck-in-der-ukraine-100.html",
+    "https://www.deutschlandfunk.de/indischer-adani-konzern-will-das-land-mit-100-milliarden-investition-an-die-ki-spitze-bringen-100.html",
+    "https://www.deutschlandfunk.de/tote-bei-einsturz-eines-militaergebaeudes-bei-sankt-petersburg-ursache-zunaechst-unklar-100.html",
+    "https://www.faz.net/aktuell/politik/inland/verfassungsschutz-zu-afd-gesichert-rechtsextremistisch-110839069.html"
   ],
   "content_hashes": [
-    "7890caf856dde0efa842dd7856cc5a1e",
-    "0928f56edebe69c051abed58b6566406",
-    "c23ed0b6cdfda4bb7093930ff6052b11",
     "f7b68aa2dfad2b91e34f37bcaa24df91",
     "099f13c663107187eeb9c185b9ea4de0",
     "0e621779b38bc2b095af5d9ceb37a7ec",
@@ -2001,12 +1998,12 @@
     "a55cb2615aa51dd12998e528deb05ca1",
     "e4ad5a96409d2ebd33c7ff19cd1338a2",
     "7109b2fbb9df824876fe64c93753363e",
-    "2c1e078599eb378bbd129e22ab793ead"
+    "2c1e078599eb378bbd129e22ab793ead",
+    "8f125207fc28bc126704fca7212b7e0e",
+    "04301b0d472c3d34b43e2b78d52bb9d4",
+    "c79c78fdcba5d1bb568e22aa2d555fbd"
   ],
   "titles": [
-    "Japan - Regierungschefin Takaichi löst Parlament auf",
-    "Karachi - Mindestens 60 Tote nach Brand in pakistanischem Einkaufszentrum",
-    "US-Bundesstaat Minnesota - ICE-Agenten nehmen Kinder in Gewahrsam - auch Fünfjährigen",
     "Mehr Geld, mehr Kooperation und ein Eisbrecher  - Wie die EU künftig mehr in die Arktis investieren will",
     "EU-Parlament will Terror-Listung von Irans Revolutionsgarden",
     "Dreitägiger Kongress - Bundesschülerkonferenz diskutiert zu Fragen der mentalen Gesundheit",
@@ -3003,12 +3000,12 @@
     "Verfassungsschutz - Niedersachsens Landes-AfD als extremistische Bestrebung eingestuft - Partei geht juristisch dagegen vor",
     "Pristina - Zehntausende protestieren im Kosovo gegen Den Haager Prozess um Ex-Präsident Thaci",
     "US-Armee - Angriffe auf drei Boote mit angeblichen Drogenschmugglern",
-    "Russlands Angriffskrieg - Selenskyj: Bislang 2.000 verschleppte Kinder zurück in der Ukraine"
+    "Russlands Angriffskrieg - Selenskyj: Bislang 2.000 verschleppte Kinder zurück in der Ukraine",
+    "Gipfel zu Künstlicher Intelligenz - Indischer Adani-Konzern will das Land mit 100-Milliarden-Investition an die KI-Spitze bringen",
+    "Russland - Tote bei Einsturz eines Militärgebäudes bei Sankt Petersburg - Ursache zunächst unklar",
+    "Verfassungsschutz und AfD: Wer das Schwert nimmt"
   ],
   "hashes": [
-    "57cfd57a082ab2ae1e5662e4b47cdecc",
-    "3c39f31f692676dd50fbdd25b0130bc0",
-    "55bc907f1913f38f215430b4eee5add2",
     "bc109d6f7445da68e4d4f64c4eaa21e9",
     "0d8c60b865fe653a9c23611054f87296",
     "4ee20d13cae09955904190ec77d71046",
@@ -4005,6 +4002,9 @@
     "8d51211ef12cc6938c9d4666ef1a016d",
     "d67bc6ebf2e42f24c401d275c23d3e5a",
     "8469fffe3cd0f15e685df5ae07c22eb1",
-    "07ba65e5b64046cb6eda59a6783102d1"
+    "07ba65e5b64046cb6eda59a6783102d1",
+    "96a4ad22a7599be64fd1ad12e90278a6",
+    "254b677a993b82427b06598ca05d49ca",
+    "9e098ae1e93bb7bb17d524fe3de12695"
   ]
 }
