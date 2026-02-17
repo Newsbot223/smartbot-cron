@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/soeder-beleidigung-ermittlungen-gegen-gruene-jugend-chef-bobga-100.html",
-    "https://www.deutschlandfunk.de/deutsche-frau-unter-toten-des-bahnungluecks-100.html",
-    "https://www.deutschlandfunk.de/klingbeil-will-mit-frankreich-ueber-atomaren-schutz-sprechen-104.html",
     "https://www.faz.net/aktuell/politik/ausland/abstimmung-zu-mercosur-die-gruenen-und-die-brandmauer-zur-afd-110823598.html",
     "https://www.deutschlandfunk.de/grossbrand-in-fluechtlingslager-fuer-rohingya-100.html",
     "https://www.faz.net/aktuell/politik/inland/brandenburg-will-gewalt-an-schulen-eindaemmen-110823594.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/militaertribunal-soll-fuer-hamas-terroristen-vom-7-oktober-zustaendig-sein-102.html",
     "https://www.deutschlandfunk.de/neue-mitte-rechts-regierung-vereidigt-100.html",
     "https://www.deutschlandfunk.de/tote-bei-anschlaegen-und-schusswechseln-im-nordwesten-pakistans-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-afd-niedersachsen-wird-kuenftig-vom-verfassungschutz-beobachtet-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-afd-niedersachsen-wird-kuenftig-vom-verfassungschutz-beobachtet-faz-110093143.html",
+    "https://www.deutschlandfunk.de/vetternwirtschafts-vorwuerfe-gegen-afd-auch-union-offen-fuer-gesetzesaenderungen-100.html",
+    "https://www.deutschlandfunk.de/stellenabbau-in-der-deutschen-industrie-haelt-an-stimmung-in-unternehmen-leicht-verbessert-100.html",
+    "https://www.deutschlandfunk.de/umweltbundesamt-gefaehrlicher-weichmacher-mnhexp-weiterhin-im-urin-fast-aller-kinder-100.html"
   ],
   "content_hashes": [
-    "f93e2c38dc1b16d2758583c26025ed60",
-    "c686030a2f4b3907fccbdcc3b6fa42d2",
-    "e9d3309c1cfa2283cc7cd02aa01588a2",
     "dc4a19a4e81b8b1674ffbaa8c0b72bc3",
     "cc26a531b361ac38189106898ebdf23b",
     "c80a9438bd3fb2a9b739050fefef1480",
@@ -2001,12 +1998,12 @@
     "10dba64092a748629448bdad063c2f19",
     "235c0f1aca621ef1dc801838820f2184",
     "9a5c45f7d8b90ae1c6627f212ac6d6bf",
-    "e11ce400fbe466fd23916ba276bf506f"
+    "e11ce400fbe466fd23916ba276bf506f",
+    "1b0e0fb2bf4644e29daf39e762a0f0ad",
+    "e6b056fdc66565cace6b8932a5faf8ea",
+    "b7b1aaffcf2f014c60dc9013341c088d"
   ],
   "titles": [
-    "Video-Clip - Söder-Beleidigung? Ermittlungen gegen Grüne-Jugend-Chef Bobga",
-    "Spanien - Deutsche Frau unter Toten des Bahnunglücks",
-    "Sicherheitslage - Klingbeil will mit Frankreich über atomaren Schutz sprechen",
     "Grüne im Europaparlament: Und weg ist die Brandmauer",
     "Bangladesch - Großbrand in Flüchtlingslager für Rohingya",
     "Nach Brandbrief: Brandenburg will Gewalt an Schulen eindämmen",
@@ -3003,12 +3000,12 @@
     "Israel - Militärtribunal soll für Hamas-Terroristen vom 7. Oktober zuständig sein",
     "Bangladesch - Neue Mitte-Rechts-Regierung vereidigt",
     "Unruheregion Khyber Pakhtunkhwa - Tote bei Anschlägen und Schusswechseln im Nordwesten Pakistans",
-    "Deutschland-Blog: AfD Niedersachsen wird künftig vom Verfassungsschutz beobachtet"
+    "Deutschland-Blog: AfD Niedersachsen wird künftig vom Verfassungsschutz beobachtet",
+    "Bundestag - Vetternwirtschafts-Vorwürfe gegen AfD: Auch Union offen für Gesetzesänderungen",
+    "Konjunktur - Stellenabbau in der deutschen Industrie hält an - Stimmung in Unternehmen leicht verbessert",
+    "Schadstoffe - Umweltbundesamt: Gefährlicher Weichmacher \"MnHexP\" weiterhin im Urin fast aller Kinder"
   ],
   "hashes": [
-    "8206ba57008984eb18d1f410cdb1e4b9",
-    "fadc24457758aef74ac2df218c972510",
-    "a816a6ae337ce29ae62806ec9c5a2372",
     "76d94562f033cff310ee55ba0a677cb6",
     "129651eb592a087f822c7cbf5530a64b",
     "19d0702a4c0daab7b55d476364372228",
@@ -4005,6 +4002,9 @@
     "0993eeffcac8e3b0a756b64706651d54",
     "d437819df8c5b3f3a2fff10dcec91e77",
     "60369ddd193e18aa6ec4f2940d345997",
-    "8a2f4f675f6df51ee26d7c44d0cf7563"
+    "8a2f4f675f6df51ee26d7c44d0cf7563",
+    "12deb50cd0b58404c170adcde4e99552",
+    "a684b1e513a60d49c6c202162dbf3934",
+    "fba74657be10600f2ef95a7d88d20f3f"
   ]
 }
