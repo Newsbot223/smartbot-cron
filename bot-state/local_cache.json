@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/deutschland-weist-russischen-diplomaten-aus-104.html",
-    "https://www.deutschlandfunk.de/frankreich-warnt-vor-verstoss-gegen-demokratie-bei-vorlaeufiger-anwendung-von-mercosur-100.html",
-    "https://www.faz.net/aktuell/politik/inland/farbattacke-auf-merz-privatflugzeug-verhindert-200464448.html",
     "https://www.deutschlandfunk.de/selenskyj-erstes-treffen-zwischen-ukraine-russland-und-usa-100.html",
     "https://www.deutschlandfunk.de/30-prozent-der-managementposten-bei-bahn-sollen-wegfallen-100.html",
     "https://www.deutschlandfunk.de/ehemaliger-intendant-wilms-gestorben-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/verfassungsbeschwerde-gegen-mietpreisbremse-scheitert-104.html",
     "https://www.deutschlandfunk.de/nach-vergewaltigungen-und-gerichtsverfahren-gis-le-pelicot-veroeffentlicht-ihre-memoiren-102.html",
     "https://www.deutschlandfunk.de/integration-von-ukrainern-in-den-arbeitsmarkt-kommt-voran-100.html",
-    "https://www.deutschlandfunk.de/umweltexperten-aeussern-bedenken-gegen-infrastruktur-gesetze-100.html"
+    "https://www.deutschlandfunk.de/umweltexperten-aeussern-bedenken-gegen-infrastruktur-gesetze-100.html",
+    "https://www.deutschlandfunk.de/bundespraesident-steinmeier-gedenkt-der-opfer-der-explosionskatastrophe-von-beirut-100.html",
+    "https://www.deutschlandfunk.de/staerkerer-anstieg-der-lebensmittelpreise-treibt-inflation-zu-jahresbeginn-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-diw-praesident-rechnet-mit-mehrwertsteuererhoehung-faz-110093143.html"
   ],
   "content_hashes": [
-    "608e53ece6503e54364b31286197c41e",
-    "328fc7db646f85711f10f0c7dd3f85cf",
-    "d4e99b2d962fc46a7e238a6beeb5058e",
     "fb78edb4940df9c8ab4f78f349cd948c",
     "fb17f43be82c78727e4f27ea4354a625",
     "0fcaf4d6e597cfc523bd25ccd0c67107",
@@ -2001,12 +1998,12 @@
     "7ff70cd1ec03fef058af4741cbfaf8df",
     "59ce91e94b68df677139f8e63e9b6b76",
     "dc14342b13263b7d18227df71a750fbd",
-    "10213081dbd049e06308c9687c87d7b5"
+    "10213081dbd049e06308c9687c87d7b5",
+    "44c011a2809298aa9a7e9673b20c2c86",
+    "abcaed2c2fe9d0ad845c35f84f581044",
+    "36336a6bc0eed534af780f56838cec40"
   ],
   "titles": [
-    "Spionagevorwürfe - Deutschland weist russischen Diplomaten aus",
-    "Paris - Frankreich warnt vor Verstoß gegen Demokratie bei vorläufiger Anwendung von Mercosur",
-    "Drei Festnahmen: Farbattacke auf Flugzeug von Kanzler Merz verhindert",
     "Ukraine-Krieg - Selenskyj: Erstes Treffen zwischen Ukraine, Russland und USA",
     "Aufsichtsratschef Gatzer - 30 Prozent der Managementposten bei Bahn sollen wegfallen",
     "Deutsches Theater - Ehemaliger Intendant Wilms gestorben",
@@ -3003,12 +3000,12 @@
     "Karlsruhe - Verfassungsbeschwerde gegen Mietpreisbremse scheitert",
     "Frankreich - Nach Vergewaltigungen und Gerichtsverfahren: Gisèle Pelicot veröffentlicht ihre Memoiren",
     "Deutschland - Integration von Ukrainern in den Arbeitsmarkt kommt voran",
-    "Regierungspläne - Umweltexperten äußern Bedenken gegen Infrastruktur-Gesetze"
+    "Regierungspläne - Umweltexperten äußern Bedenken gegen Infrastruktur-Gesetze",
+    "Libanon - Bundespräsident Steinmeier gedenkt der Opfer der Explosionskatastrophe von Beirut",
+    "Teuerung - Stärkerer Anstieg der Lebensmittelpreise treibt Inflation zu Jahresbeginn",
+    "Deutschland-Blog: DIW-Präsident rechnet mit Mehrwertsteuer von 21 Prozent"
   ],
   "hashes": [
-    "cd0cb6587db846e9b8a3d99b44b1c327",
-    "fd1c113008c3df5b92be298f3b924128",
-    "1eda52237f100a22d7aab13c27aba691",
     "ec84ae9ec659be8f0dd5e73547e84e12",
     "00c5fc5e32b7a179a5a7bd937cd391c5",
     "f4f5083fc6224780ee993e8d121b9681",
@@ -4005,6 +4002,9 @@
     "9c6ffa11dcceab06b4b47ec898a8fbe1",
     "b2995e9d359e4a7cdab130bca6de9049",
     "1455a1194b7d0e09bbf5ace934241858",
-    "2ff03d1efd99563b0094501b7f296a2b"
+    "2ff03d1efd99563b0094501b7f296a2b",
+    "9fca6e4191c2f1575cbe77a66c02c4cb",
+    "820503b9240f905aeb0e8e86182a0191",
+    "08ca78d9a50ee4dfd2869bb85e18876a"
   ]
 }
