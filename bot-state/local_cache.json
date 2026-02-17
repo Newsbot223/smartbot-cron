@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-will-angesichts-der-weltlage-verbindungen-zu-afrika-staerken-104.html",
-    "https://www.deutschlandfunk.de/trump-und-selenskyj-sprechen-in-davos-miteinander-102.html",
     "https://www.deutschlandfunk.de/deutschland-weist-russischen-diplomaten-aus-104.html",
     "https://www.deutschlandfunk.de/frankreich-warnt-vor-verstoss-gegen-demokratie-bei-vorlaeufiger-anwendung-von-mercosur-100.html",
     "https://www.faz.net/aktuell/politik/inland/farbattacke-auf-merz-privatflugzeug-verhindert-200464448.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/vier-jahre-haft-in-russland-fuer-us-buerger-wegen-waffenschmuggels-102.html",
     "https://www.aljazeera.com/video/digital-dilemma/2026/2/17/how-ice-uses-facial-recognition-in-the-streets?traffic_source=rss",
     "https://www.deutschlandfunk.de/verfassungsbeschwerde-gegen-mietpreisbremse-scheitert-104.html",
-    "https://www.deutschlandfunk.de/nach-vergewaltigungen-und-gerichtsverfahren-gis-le-pelicot-veroeffentlicht-ihre-memoiren-102.html"
+    "https://www.deutschlandfunk.de/nach-vergewaltigungen-und-gerichtsverfahren-gis-le-pelicot-veroeffentlicht-ihre-memoiren-102.html",
+    "https://www.deutschlandfunk.de/integration-von-ukrainern-in-den-arbeitsmarkt-kommt-voran-100.html",
+    "https://www.deutschlandfunk.de/umweltexperten-aeussern-bedenken-gegen-infrastruktur-gesetze-100.html"
   ],
   "content_hashes": [
-    "701c3a133e5e6bceaf1a3480e56f1920",
-    "5541274f4e67a307aa23d18246f8a2ed",
     "608e53ece6503e54364b31286197c41e",
     "328fc7db646f85711f10f0c7dd3f85cf",
     "d4e99b2d962fc46a7e238a6beeb5058e",
@@ -2001,11 +1999,11 @@
     "03e1c306e0dc1194ab70269715359ce0",
     "d07263301fb2d90f4e7672de12ee08f0",
     "7ff70cd1ec03fef058af4741cbfaf8df",
-    "59ce91e94b68df677139f8e63e9b6b76"
+    "59ce91e94b68df677139f8e63e9b6b76",
+    "dc14342b13263b7d18227df71a750fbd",
+    "10213081dbd049e06308c9687c87d7b5"
   ],
   "titles": [
-    "Addis Abeba - Wadephul will angesichts der Weltlage Verbindungen zu Afrika stärken",
-    "Ukraine-Krieg - Trump und Selenskyj sprechen in Davos miteinander",
     "Spionagevorwürfe - Deutschland weist russischen Diplomaten aus",
     "Paris - Frankreich warnt vor Verstoß gegen Demokratie bei vorläufiger Anwendung von Mercosur",
     "Drei Festnahmen: Farbattacke auf Flugzeug von Kanzler Merz verhindert",
@@ -3003,11 +3001,11 @@
     "Moskau - Vier Jahre Haft in Russland für US-Bürger wegen Waffenschmuggels",
     "How ICE uses facial recognition in the streets",
     "Karlsruhe - Verfassungsbeschwerde gegen Mietpreisbremse scheitert",
-    "Frankreich - Nach Vergewaltigungen und Gerichtsverfahren: Gisèle Pelicot veröffentlicht ihre Memoiren"
+    "Frankreich - Nach Vergewaltigungen und Gerichtsverfahren: Gisèle Pelicot veröffentlicht ihre Memoiren",
+    "Deutschland - Integration von Ukrainern in den Arbeitsmarkt kommt voran",
+    "Regierungspläne - Umweltexperten äußern Bedenken gegen Infrastruktur-Gesetze"
   ],
   "hashes": [
-    "50c4681607c3cadd41d4869f3a44dce0",
-    "cdbecdac1cece54e4605c9b13df25157",
     "cd0cb6587db846e9b8a3d99b44b1c327",
     "fd1c113008c3df5b92be298f3b924128",
     "1eda52237f100a22d7aab13c27aba691",
@@ -4005,6 +4003,8 @@
     "eaa6ec9d3bb9564669a78cf24bb96017",
     "1272583adf9bf5f7f21e971e222f1d4d",
     "9c6ffa11dcceab06b4b47ec898a8fbe1",
-    "b2995e9d359e4a7cdab130bca6de9049"
+    "b2995e9d359e4a7cdab130bca6de9049",
+    "1455a1194b7d0e09bbf5ace934241858",
+    "2ff03d1efd99563b0094501b7f296a2b"
   ]
 }
