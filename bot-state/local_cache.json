@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/abstimmung-zu-mercosur-die-gruenen-und-die-brandmauer-zur-afd-110823598.html",
-    "https://www.deutschlandfunk.de/grossbrand-in-fluechtlingslager-fuer-rohingya-100.html",
-    "https://www.faz.net/aktuell/politik/inland/brandenburg-will-gewalt-an-schulen-eindaemmen-110823594.html",
     "https://www.deutschlandfunk.de/im-buergerkriegsland-sudan-kann-haelfte-der-kinder-nicht-zur-schule-gehen-100.html",
     "https://www.deutschlandfunk.de/ice-beamte-nehmen-kinder-in-gewahrsam-auch-fuenfjaehrigen-102.html",
     "https://www.deutschlandfunk.de/frueherer-us-sonderermittler-verteidigt-strafverfolgung-trumps-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-afd-niedersachsen-wird-kuenftig-vom-verfassungschutz-beobachtet-faz-110093143.html",
     "https://www.deutschlandfunk.de/vetternwirtschafts-vorwuerfe-gegen-afd-auch-union-offen-fuer-gesetzesaenderungen-100.html",
     "https://www.deutschlandfunk.de/stellenabbau-in-der-deutschen-industrie-haelt-an-stimmung-in-unternehmen-leicht-verbessert-100.html",
-    "https://www.deutschlandfunk.de/umweltbundesamt-gefaehrlicher-weichmacher-mnhexp-weiterhin-im-urin-fast-aller-kinder-100.html"
+    "https://www.deutschlandfunk.de/umweltbundesamt-gefaehrlicher-weichmacher-mnhexp-weiterhin-im-urin-fast-aller-kinder-100.html",
+    "https://www.deutschlandfunk.de/niedersachsens-landes-afd-als-extremistische-bestrebung-eingestuft-100.html",
+    "https://www.deutschlandfunk.de/bundesregierung-will-mit-fonds-kritische-infrastruktur-schuetzen-100.html",
+    "https://www.deutschlandfunk.de/indirekte-gespraeche-zwischen-iran-und-usa-beendet-102.html"
   ],
   "content_hashes": [
-    "dc4a19a4e81b8b1674ffbaa8c0b72bc3",
-    "cc26a531b361ac38189106898ebdf23b",
-    "c80a9438bd3fb2a9b739050fefef1480",
     "64b1d78f7c99d281693ef3b99bc3f408",
     "84e9d1b7512bc5511386c1222698822d",
     "060535bdcdadf14d68f56adfda7c7028",
@@ -2001,12 +1998,12 @@
     "e11ce400fbe466fd23916ba276bf506f",
     "1b0e0fb2bf4644e29daf39e762a0f0ad",
     "e6b056fdc66565cace6b8932a5faf8ea",
-    "b7b1aaffcf2f014c60dc9013341c088d"
+    "b7b1aaffcf2f014c60dc9013341c088d",
+    "ba479f7d73791ea2d3a967df354ce57d",
+    "19e12ea7765ae23f0b06ad10e791575e",
+    "d764f8b32b9792e31b2ecb7ed5d71c05"
   ],
   "titles": [
-    "Grüne im Europaparlament: Und weg ist die Brandmauer",
-    "Bangladesch - Großbrand in Flüchtlingslager für Rohingya",
-    "Nach Brandbrief: Brandenburg will Gewalt an Schulen eindämmen",
     "Nordostafrika - Im Bürgerkriegsland Sudan kann Hälfte der Kinder nicht zur Schule gehen",
     "US-Bundesstaat Minnesota - ICE-Beamte nehmen Kinder in Gewahrsam - auch Fünfjährigen",
     "Justiz - Früherer US-Sonderermittler verteidigt Strafverfolgung Trumps",
@@ -3003,12 +3000,12 @@
     "Deutschland-Blog: AfD Niedersachsen wird künftig vom Verfassungsschutz beobachtet",
     "Bundestag - Vetternwirtschafts-Vorwürfe gegen AfD: Auch Union offen für Gesetzesänderungen",
     "Konjunktur - Stellenabbau in der deutschen Industrie hält an - Stimmung in Unternehmen leicht verbessert",
-    "Schadstoffe - Umweltbundesamt: Gefährlicher Weichmacher \"MnHexP\" weiterhin im Urin fast aller Kinder"
+    "Schadstoffe - Umweltbundesamt: Gefährlicher Weichmacher \"MnHexP\" weiterhin im Urin fast aller Kinder",
+    "Verfassungsschutz - Niedersachsens Landes-AfD als extremistische Bestrebung eingestuft",
+    "\"Handelsblatt\"-Bericht - Bundesregierung will mit Fonds kritische Infrastruktur schützen",
+    "Iranisches Staatsfernsehen - Indirekte Gespräche zwischen Iran und USA beendet -"
   ],
   "hashes": [
-    "76d94562f033cff310ee55ba0a677cb6",
-    "129651eb592a087f822c7cbf5530a64b",
-    "19d0702a4c0daab7b55d476364372228",
     "26247fcc555e76b6edba1e4eaa079589",
     "e86c5ddba4fd960db445576ee822a8c4",
     "53e844b30311dacae4d176b09a11a2c1",
@@ -4005,6 +4002,9 @@
     "8a2f4f675f6df51ee26d7c44d0cf7563",
     "12deb50cd0b58404c170adcde4e99552",
     "a684b1e513a60d49c6c202162dbf3934",
-    "fba74657be10600f2ef95a7d88d20f3f"
+    "fba74657be10600f2ef95a7d88d20f3f",
+    "262ebedd7095230e19bafc3095421229",
+    "becb60c27ac67e030d842115c0b1bc2c",
+    "9799aed8c448f3bcc1f18f75bc42771a"
   ]
 }
