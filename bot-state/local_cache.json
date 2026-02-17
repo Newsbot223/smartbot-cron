@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/politik/russland-botschaft-weist-deutschen-spionagevorwurf-als-provokation-zurueck-a-b09fb33e-fc74-4083-ba3c-12813172dde3#ref=rss",
-    "https://www.deutschlandfunk.de/eu-gesteht-fehler-in-der-arktis-ein-102.html",
     "https://www.deutschlandfunk.de/regierungschefin-takaichi-loest-parlament-auf-100.html",
     "https://www.deutschlandfunk.de/mindestens-60-tote-nach-brand-in-pakistanischem-einkaufszentrum-102.html",
     "https://www.deutschlandfunk.de/ice-agenten-nehmen-kinder-in-gewahrsam-auch-fuenfjaehrigen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/umweltbundesamt-rueckstaende-von-gefaehrlichem-weichmacher-weiterhin-im-urin-fast-aller-kinder-102.html",
     "https://www.faz.net/aktuell/politik/inland/afd-niedersachsen-wegen-remigration-nun-gesichert-rechtsextrem-110839126.html",
     "https://www.deutschlandfunk.de/niedersachsens-landes-afd-als-extremistische-bestrebung-eingestuft-partei-geht-juristisch-dagegen-vo-100.html",
-    "https://www.deutschlandfunk.de/zehntausende-protestieren-im-kosovo-gegen-den-haager-prozess-um-ex-praesident-thaci-100.html"
+    "https://www.deutschlandfunk.de/zehntausende-protestieren-im-kosovo-gegen-den-haager-prozess-um-ex-praesident-thaci-100.html",
+    "https://www.deutschlandfunk.de/angriffe-auf-drei-boote-mit-angeblichen-drogenschmugglern-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-bislang-2-000-verschleppte-kinder-zurueck-in-der-ukraine-100.html"
   ],
   "content_hashes": [
-    "962e292820c2c23b1703e6daa36f5419",
-    "cbfa3ab406a77a8be6ee65dd22e31602",
     "7890caf856dde0efa842dd7856cc5a1e",
     "0928f56edebe69c051abed58b6566406",
     "c23ed0b6cdfda4bb7093930ff6052b11",
@@ -2001,11 +1999,11 @@
     "ac021ba5daa880dc7bfdb7beadc410c8",
     "bb91eb38520071e2ecac5f7b058de1c7",
     "a55cb2615aa51dd12998e528deb05ca1",
-    "e4ad5a96409d2ebd33c7ff19cd1338a2"
+    "e4ad5a96409d2ebd33c7ff19cd1338a2",
+    "7109b2fbb9df824876fe64c93753363e",
+    "2c1e078599eb378bbd129e22ab793ead"
   ],
   "titles": [
-    "Russland: Botschaft weist deutschen Spionagevorwurf als Provokation zurück",
-    "Sondergipfel zum Grönlandstreit - EU gesteht Fehler in der Arktis ein",
     "Japan - Regierungschefin Takaichi löst Parlament auf",
     "Karachi - Mindestens 60 Tote nach Brand in pakistanischem Einkaufszentrum",
     "US-Bundesstaat Minnesota - ICE-Agenten nehmen Kinder in Gewahrsam - auch Fünfjährigen",
@@ -3003,11 +3001,11 @@
     "Schadstoffe - Umweltbundesamt: Rückstände von gefährlichem Weichmacher weiterhin im Urin fast aller Kinder",
     "AfD in Niedersachsen: „Es geht um entlarven, entlassen, entwaffnen“",
     "Verfassungsschutz - Niedersachsens Landes-AfD als extremistische Bestrebung eingestuft - Partei geht juristisch dagegen vor",
-    "Pristina - Zehntausende protestieren im Kosovo gegen Den Haager Prozess um Ex-Präsident Thaci"
+    "Pristina - Zehntausende protestieren im Kosovo gegen Den Haager Prozess um Ex-Präsident Thaci",
+    "US-Armee - Angriffe auf drei Boote mit angeblichen Drogenschmugglern",
+    "Russlands Angriffskrieg - Selenskyj: Bislang 2.000 verschleppte Kinder zurück in der Ukraine"
   ],
   "hashes": [
-    "eac1fc09ab34c0609834cd60e1250792",
-    "29e5804ff3f17177a8f4bf732d650213",
     "57cfd57a082ab2ae1e5662e4b47cdecc",
     "3c39f31f692676dd50fbdd25b0130bc0",
     "55bc907f1913f38f215430b4eee5add2",
@@ -4005,6 +4003,8 @@
     "e40894691660211b9bc24f1d96ad7986",
     "066254ad5289fe3cad28a857c1ed7f6e",
     "8d51211ef12cc6938c9d4666ef1a016d",
-    "d67bc6ebf2e42f24c401d275c23d3e5a"
+    "d67bc6ebf2e42f24c401d275c23d3e5a",
+    "8469fffe3cd0f15e685df5ae07c22eb1",
+    "07ba65e5b64046cb6eda59a6783102d1"
   ]
 }
