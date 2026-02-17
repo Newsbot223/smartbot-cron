@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-beraet-auf-sondergipfel-ueber-beziehungen-zu-den-usa-merz-geschlossenheit-europas-wirkt-112.html",
-    "https://www.deutschlandfunk.de/eu-sondergipfel-zum-groenlandstreit-beendet-merz-geschlossenheit-kann-etwas-bewirken-100.html",
     "https://www.spiegel.de/politik/russland-botschaft-weist-deutschen-spionagevorwurf-als-provokation-zurueck-a-b09fb33e-fc74-4083-ba3c-12813172dde3#ref=rss",
     "https://www.deutschlandfunk.de/eu-gesteht-fehler-in-der-arktis-ein-102.html",
     "https://www.deutschlandfunk.de/regierungschefin-takaichi-loest-parlament-auf-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/europaeische-kommission-leitet-verfahren-gegen-chinesische-handelsplattform-shein-ein-104.html",
     "https://www.deutschlandfunk.de/versicherer-ergo-will-1-000-arbeitsplaetze-abbauen-100.html",
     "https://www.deutschlandfunk.de/umweltbundesamt-rueckstaende-von-gefaehrlichem-weichmacher-weiterhin-im-urin-fast-aller-kinder-102.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-niedersachsen-wegen-remigration-nun-gesichert-rechtsextrem-110839126.html"
+    "https://www.faz.net/aktuell/politik/inland/afd-niedersachsen-wegen-remigration-nun-gesichert-rechtsextrem-110839126.html",
+    "https://www.deutschlandfunk.de/niedersachsens-landes-afd-als-extremistische-bestrebung-eingestuft-partei-geht-juristisch-dagegen-vo-100.html",
+    "https://www.deutschlandfunk.de/zehntausende-protestieren-im-kosovo-gegen-den-haager-prozess-um-ex-praesident-thaci-100.html"
   ],
   "content_hashes": [
-    "1748eb1eb9a881400ae9b352741cf9e3",
-    "4ee1483cf7d291c838fc3b81908e03f6",
     "962e292820c2c23b1703e6daa36f5419",
     "cbfa3ab406a77a8be6ee65dd22e31602",
     "7890caf856dde0efa842dd7856cc5a1e",
@@ -2001,11 +1999,11 @@
     "3acfd15785666795fba2cd2f062359a2",
     "76d5d6d3079df73c88b78179054969ca",
     "ac021ba5daa880dc7bfdb7beadc410c8",
-    "bb91eb38520071e2ecac5f7b058de1c7"
+    "bb91eb38520071e2ecac5f7b058de1c7",
+    "a55cb2615aa51dd12998e528deb05ca1",
+    "e4ad5a96409d2ebd33c7ff19cd1338a2"
   ],
   "titles": [
-    "Debatte um Grönland - EU berät auf Sondergipfel über Beziehungen zu den USA - Merz: Geschlossenheit Europas wirkt",
-    "Beziehungen zu den USA - EU-Sondergipfel zum Grönlandstreit beendet - Merz: \"Geschlossenheit kann etwas bewirken\"",
     "Russland: Botschaft weist deutschen Spionagevorwurf als Provokation zurück",
     "Sondergipfel zum Grönlandstreit - EU gesteht Fehler in der Arktis ein",
     "Japan - Regierungschefin Takaichi löst Parlament auf",
@@ -3003,11 +3001,11 @@
     "Verbraucherschutz - Europäische Kommission leitet Verfahren gegen chinesische Handelsplattform Shein ein",
     "Mehr Einsatz von KI - Versicherer Ergo will 1.000 Arbeitsplätze abbauen",
     "Schadstoffe - Umweltbundesamt: Rückstände von gefährlichem Weichmacher weiterhin im Urin fast aller Kinder",
-    "AfD in Niedersachsen: „Es geht um entlarven, entlassen, entwaffnen“"
+    "AfD in Niedersachsen: „Es geht um entlarven, entlassen, entwaffnen“",
+    "Verfassungsschutz - Niedersachsens Landes-AfD als extremistische Bestrebung eingestuft - Partei geht juristisch dagegen vor",
+    "Pristina - Zehntausende protestieren im Kosovo gegen Den Haager Prozess um Ex-Präsident Thaci"
   ],
   "hashes": [
-    "d30bbb77523ef0dc77d2a2ff9e7a5f6f",
-    "500b9593ddbf3cb5ff95cb5286fe28f1",
     "eac1fc09ab34c0609834cd60e1250792",
     "29e5804ff3f17177a8f4bf732d650213",
     "57cfd57a082ab2ae1e5662e4b47cdecc",
@@ -4005,6 +4003,8 @@
     "ca67e87993a44b77eef0c7eded5a6431",
     "8e374c40acb67588d1f297c0bd910184",
     "e40894691660211b9bc24f1d96ad7986",
-    "066254ad5289fe3cad28a857c1ed7f6e"
+    "066254ad5289fe3cad28a857c1ed7f6e",
+    "8d51211ef12cc6938c9d4666ef1a016d",
+    "d67bc6ebf2e42f24c401d275c23d3e5a"
   ]
 }
