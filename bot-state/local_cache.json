@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/viele-afghanen-lehnen-aufnahmeverzicht-gegen-geld-ab-accg-200462620.html",
-    "https://www.deutschlandfunk.de/kritik-an-gruenen-nach-mercosur-abstimmung-auch-in-eigenen-reihen-100.html",
     "https://www.deutschlandfunk.de/ungewissheit-um-treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle--100.html",
     "https://www.deutschlandfunk.de/barley-spd-kritisiert-abstimmung-im-eu-parlament-banaszak-gruene-mercosur-soll-vorlaeufig-in-kraft-t-102.html",
     "https://www.deutschlandfunk.de/treffen-von-trump-und-selenskyj-in-davos-ukraine-expertin-melnyk-grosse-finanzielle-unterstuetzung-d-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/kampf-gegen-islamisten-weitere-100-us-soldaten-in-nigeria-eingetroffen-100.html",
     "https://www.deutschlandfunk.de/verkehrsbehinderungen-in-vielen-regionen-wegen-verdi-streikwoche-bei-autobahn-gmbh-100.html",
     "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-warnt-vor-neuen-massiven-russischen-luftangriffen-106.html",
-    "https://www.deutschlandfunk.de/us-aussenminister-rubio-sagt-orban-vor-parlamentswahl-unterstuetzung-zu-ihr-erfolg-ist-unser-erfolg-114.html"
+    "https://www.deutschlandfunk.de/us-aussenminister-rubio-sagt-orban-vor-parlamentswahl-unterstuetzung-zu-ihr-erfolg-ist-unser-erfolg-114.html",
+    "https://www.deutschlandfunk.de/verbraucherschuetzer-fordern-erhebliche-nachbesserungen-am-recht-auf-reparatur-100.html",
+    "https://www.deutschlandfunk.de/bildungsministerin-prien-will-gesellschaftsdienste-ausbauen-und-gemeinsam-regeln-100.html"
   ],
   "content_hashes": [
-    "416132d78d22d290687f4e104dfcbfa7",
-    "17d0277f151a7fc9e785a4e7a97c8580",
     "5ddcef406ae7786704677a6a4caa0589",
     "e239caa9789fafc8ff493b6895af875d",
     "e0f1681a36facb0c9156e15b2d836917",
@@ -2001,11 +1999,11 @@
     "b1e7c79917fec9337ad62df967b1baed",
     "925af64402e59ef8c458325615dcff33",
     "a66821cb0549ab7cd113f2f6b58ef116",
-    "fbe1453c970fee5c48d75a4a606824f7"
+    "fbe1453c970fee5c48d75a4a606824f7",
+    "e4cf8c8b41f7970dbd4ffec5e95030d0",
+    "e4337cd9e50feeb4e39f98e486ea087e"
   ],
   "titles": [
-    "Aufnahme von Afghanen: Sicherheit ist ihnen wichtiger als Geld",
-    "Freihandel - Kritik an Grünen nach Mercosur-Abstimmung auch in eigenen Reihen",
     "Ukraine - Ungewissheit um Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum",
     "EU-Mercosur-Freihandelsabkommen - Barley (SPD) kritisiert Abstimmung im EU-Parlament - Banaszak (Grüne): Mercosur soll vorläufig in Kraft treten",
     "Ukraine - Treffen von Trump und Selenskyj in Davos - Ukraine-Expertin Melnyk: Große finanzielle Unterstützung der USA steht im Raum",
@@ -3003,11 +3001,11 @@
     "Westafrika - Kampf gegen Islamisten: Weitere 100 US-Soldaten in Nigeria eingetroffen",
     "Tarifstreit - Verkehrsbehinderungen in vielen Regionen wegen Verdi-Streikwoche bei Autobahn GmbH",
     "Vor Gesprächen in Genf - Ukrainischer Präsident Selenskyj warnt vor neuen massiven russischen Luftangriffen",
-    "Ungarn-Besuch - US-Außenminister Rubio sagt Orban vor Parlamentswahl Unterstützung zu - \"Ihr Erfolg ist unser Erfolg\""
+    "Ungarn-Besuch - US-Außenminister Rubio sagt Orban vor Parlamentswahl Unterstützung zu - \"Ihr Erfolg ist unser Erfolg\"",
+    "Gesetzentwurf von Justizministerin Hubig - Verbraucherschützer fordern erhebliche Nachbesserungen am \"Recht auf Reparatur”",
+    "Gesetzentwurf - Bildungsministerin Prien will Gesellschaftsdienste ausbauen und gemeinsam regeln"
   ],
   "hashes": [
-    "b8914046051b9cc2897b3782a83adc72",
-    "6d57cb6e0636c39721ec38713df701ef",
     "074747766fa02659da2dfe8844f96da1",
     "f6cde19fbc0bb70a6edd949eac5c2cc7",
     "a9e10f7123d6cd54c8cebd36e2d84f72",
@@ -4005,6 +4003,8 @@
     "42d55f09c60e00fb59df271d9d39083f",
     "88b277bd36db406e5a62c987d7d4a2d0",
     "463f22307d7ac07e3cd0dca3af0d4ab1",
-    "7b143ede2928c0be1f048ced8f12fbde"
+    "7b143ede2928c0be1f048ced8f12fbde",
+    "e701624cc17cd3462e5adaefdc9aee57",
+    "8ea417b2a7ae450e8689bce27860d664"
   ]
 }
