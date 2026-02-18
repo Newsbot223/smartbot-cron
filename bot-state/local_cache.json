@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-will-voyeuristische-aufnahmen-auch-an-oeffentlichen-orten-wie-saunen-st-102.html",
-    "https://www.deutschlandfunk.de/parteivorsitzende-schwerdtner-zahl-der-mitglieder-innerhalb-eines-jahres-mehr-als-verdoppelt-104.html",
     "https://www.faz.net/aktuell/politik/inland/hubig-will-heimliches-filmen-in-saunen-strafbar-machen-accg-200470188.html",
     "https://www.faz.net/aktuell/politik/inland/linke-meldet-verdoppelung-der-mitgliederzahl-accg-200470219.html",
     "https://www.deutschlandfunk.de/nato-general-werden-an-der-ostgrenze-verstaerkt-auf-automatisierung-und-robotersysteme-setzen-100.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/ukraine/ukraine-gespraeche-in-genf-der-adressat-ist-donald-trump-110839652.html",
     "https://www.deutschlandfunk.de/selenskyj-enttaeuscht-ueber-ausgang-von-ukraine-gespraechen-in-genf-100.html",
     "https://www.deutschlandfunk.de/ungarn-stoppt-diesellieferungen-in-die-ukraine-100.html",
-    "https://www.deutschlandfunk.de/tuerkische-parlamentskommission-lehnt-amnestie-fuer-pkk-kaempfer-ab-100.html"
+    "https://www.deutschlandfunk.de/tuerkische-parlamentskommission-lehnt-amnestie-fuer-pkk-kaempfer-ab-100.html",
+    "https://www.deutschlandfunk.de/politischer-aschermittwoch-im-zeichen-der-anstehenden-wahlen-merz-fordert-klarnamen-im-internet-100.html",
+    "https://www.deutschlandfunk.de/mindestens-37-tote-bei-grubenunglueck-in-nigeria-kohlenmonoxidvergiftung-100.html"
   ],
   "content_hashes": [
-    "06afa6d70ca50c170f9e3c6bd88f5370",
-    "02f5d1793a91e5459b27c1ec437ff464",
     "e71b09e20912cfdffa22e89eb1aa3fe5",
     "1051caa1307da5eed563cf3387991f4d",
     "159a961b1affea8d9d07d0ee24ea6682",
@@ -2001,11 +1999,11 @@
     "b17cc3e2c44feae73d82bc323ac32174",
     "fff992a2cc680e57b30eee643ad3f15c",
     "b3d0c3bf513fe3e25b6567acd1811ab7",
-    "563b3b77b6922d57a844806834f74a3b"
+    "563b3b77b6922d57a844806834f74a3b",
+    "2ae43fabc5f81e1a959db59a47462287",
+    "9fe6726e52c96017a7b3d2025f20dcc7"
   ],
   "titles": [
-    "Heimliche Nacktfotos - Bundesjustizministerin Hubig will voyeuristische Aufnahmen auch an öffentlichen Orten wie Saunen strafbar machen",
-    "Die Linke - Parteivorsitzende Schwerdtner: Zahl der Mitglieder innerhalb eines Jahres mehr als verdoppelt",
     "Voyeurismus: Hubig will heimliches Filmen in Saunen strafbar machen",
     "Linkspartei: Linke meldet Verdoppelung der Mitgliederzahl",
     "Aufrüstung - NATO-General: Werden an der Ostgrenze verstärkt auf Automatisierung und Robotersysteme setzen",
@@ -3003,11 +3001,11 @@
     "Ukraine-Gespräche: Keine Schritte in Richtung Frieden",
     "Videobotschaft - Selenskyj enttäuscht über Ausgang von Ukraine-Gesprächen in Genf",
     "Streit um Öl-Pipeline - Ungarn stoppt Diesellieferungen in die Ukraine",
-    "Friedensprozess - Türkische Parlamentskommission lehnt Amnestie für PKK-Kämpfer ab"
+    "Friedensprozess - Türkische Parlamentskommission lehnt Amnestie für PKK-Kämpfer ab",
+    "Traditioneller Schlagabtausch - Politischer Aschermittwoch im Zeichen der anstehenden Wahlen - Merz fordert Klarnamen im Internet",
+    "Westafrika - Mindestens 37 Tote bei Grubenunglück in Nigeria - Kohlenmonoxidvergiftung"
   ],
   "hashes": [
-    "e389441f3b88a5bb166aabe08ce18eaa",
-    "bad0e898f9ae2a12bbcf32635155ed56",
     "e1eb9294882b89515488997f7950e232",
     "6ebe94b322cfbc451b8815b32fcf7f52",
     "e864e8170e181f70a77ac4cdbad11db6",
@@ -4005,6 +4003,8 @@
     "a363f655d10f979345d4abaf3d4dcbfa",
     "977231bece6d0084a7d817238b27a97b",
     "5156ea6802ed05b7882810fd578229eb",
-    "8237964c3a796fb466fdd0999d14b2d0"
+    "8237964c3a796fb466fdd0999d14b2d0",
+    "f5dc8f6fac30a95662459754f1a895c9",
+    "f905826caad5ab7b09f0750f57dd902a"
   ]
 }
