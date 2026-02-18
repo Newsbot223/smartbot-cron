@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/defizit-geringer-als-geplant-100.html",
-    "https://www.deutschlandfunk.de/cdu-politiker-ploss-fuer-schaerfere-promillegrenze-und-mehr-bussgeld-fuer-radfahrer-100.html",
-    "https://www.deutschlandfunk.de/vietnamesischer-generalsekretaer-to-lam-auf-fuenf-jahre-wiedergewaehlt-102.html",
     "https://www.deutschlandfunk.de/bundeshaushalt-2025-defizit-geringer-als-geplant-mehr-tempo-bei-investitionen-erforderlich-100.html",
     "https://www.deutschlandfunk.de/wadephul-nennt-mercosur-abstimmung-grosse-strategische-fehlentscheidung-100.html",
     "https://www.deutschlandfunk.de/trotz-kritik-der-afd-spitze-oesterreichischer-rechtsextremist-sellner-haelt-vortrag-mit-afd-landtags-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/parteien-laden-zum-politischen-aschermittwoch-landtags-und-kommunalwahlen-im-fokus-100.html",
     "https://www.deutschlandfunk.de/indirekte-gespraeche-zwischen-iran-und-usa-beendet-104.html",
     "https://www.deutschlandfunk.de/merz-weist-spd-steuer-forderungen-zurueck-102.html",
-    "https://www.deutschlandfunk.de/selenskyj-bislang-2-000-verschleppte-kinder-zurueck-in-der-ukraine-114.html"
+    "https://www.deutschlandfunk.de/selenskyj-bislang-2-000-verschleppte-kinder-zurueck-in-der-ukraine-114.html",
+    "https://www.deutschlandfunk.de/85-uno-mitgliedsstaaten-kritisieren-israel-fuer-juengste-plaene-fuer-das-westjordanland-100.html",
+    "https://www.deutschlandfunk.de/bundesdigitalminister-wildberger-sieht-deutschland-bei-ki-gut-aufgestellt-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/zivilschutz-was-wir-von-ukrainern-lernen-koennen-110839110.html"
   ],
   "content_hashes": [
-    "b3deac921ec7155be742ba3ab0754bca",
-    "d52326584f469ddf70213f52f2789b46",
-    "b9655cdca3f3be62a0da8af3e5f71ab8",
     "7d10d19cff45f5e4e26382b54ce58e03",
     "26050b30ebed8d3c9c937b661362917b",
     "b759f6b81ff23f0345f5d236ed1f2639",
@@ -2001,12 +1998,12 @@
     "20a8fa066ac482131c3f60e96776189d",
     "c856d8b558a990a2193f3a2626fc33e1",
     "b27136abce7a8aecdc9cd6c011aa80a3",
-    "3d9790f07abaff7e9895ba130384facb"
+    "3d9790f07abaff7e9895ba130384facb",
+    "462a9f625e6d2c7b0d6d028b270b915d",
+    "b8ced13f298cfdc1eae67b0bcd115e9f",
+    "b5cec084054ac5019fdd0669b16bc015"
   ],
   "titles": [
-    "Bundeshaushalt 2025 - Defizit geringer als geplant",
-    "Verkehr - CDU-Politiker Ploß für schärfere Promillegrenze und mehr Bußgeld für Radfahrer",
-    "Kommunistischen Partei - Vietnamesischer Generalsekretär To Lam auf fünf Jahre wiedergewählt",
     "Finanzministerium - Bundeshaushalt 2025: Defizit geringer als geplant, mehr Tempo bei Investitionen erforderlich",
     "Interview der Woche - Wadephul nennt Mercosur-Abstimmung \"große strategische Fehlentscheidung\"",
     "Brandenburg - Trotz Kritik der AfD-Spitze: Österreichischer Rechtsextremist Sellner hält Vortrag mit AfD-Landtagsabgeordneter Kotré",
@@ -3003,12 +3000,12 @@
     "Traditioneller Schlagabtausch - Parteien laden zum politischen Aschermittwoch: Landtags- und Kommunalwahlen im Fokus",
     "Iranisches Staatsfernsehen - Indirekte Gespräche zwischen Iran und USA beendet",
     "Schwarz-rote Koalition - Merz weist SPD-Steuer-Forderungen zurück",
-    "Russlands Angriffskrieg - Selenskyj: \"Bislang 2.000 verschleppte Kinder zurück in der Ukraine\""
+    "Russlands Angriffskrieg - Selenskyj: \"Bislang 2.000 verschleppte Kinder zurück in der Ukraine\"",
+    "New York - 85 UNO-Mitgliedsstaaten kritisieren Israel für jüngste Pläne für das Westjordanland",
+    "KI-Gipfel in Neu Delhi - Bundesdigitalminister Wildberger sieht Deutschland bei KI gut aufgestellt",
+    "Zivilschutz: Was wir von den Ukrainern lernen können"
   ],
   "hashes": [
-    "0e8a5c0f12475dac1fce4f71b3942e22",
-    "d793c1272f87853a8a0a7187f9c7521b",
-    "467b84dd610a5aac90dc7de66befbf35",
     "df5a80b6a1502cda2352475a28ccaf11",
     "31c4fe8b3ae56c16b14cb591fca21436",
     "52bf062f0ac105ed84c217a91bb63573",
@@ -4005,6 +4002,9 @@
     "3627ef3b0bc18eba0b6d60a9305f06d9",
     "a7c906301bc7c6b277a7a6470d429471",
     "d687ce7915d4458a2babbb582ccf3000",
-    "b66c16430fe003e4a74c2612c9c7edb7"
+    "b66c16430fe003e4a74c2612c9c7edb7",
+    "7680e0748b2cbd597abd711954805a89",
+    "971ac36168fd66e2be04054e7b2c6801",
+    "b367899c90b8832e418d4656489ae6c0"
   ]
 }
