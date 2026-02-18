@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auswertung-aerzte-verschreiben-weniger-antibiotika-in-deutschland-100.html",
-    "https://www.deutschlandfunk.de/britische-regierung-kritisiert-trump-aussage-ueber-angebliche-zurueckhaltung-von-nato-truppen-waehre-100.html",
-    "https://www.faz.net/aktuell/politik/kotre-und-sellner-die-afd-auf-irrfahrt-110824740.html",
     "https://www.deutschlandfunk.de/nach-mercosur-streit-gruenen-spitze-tritt-fuer-mehr-handelsabkommen-ein-100.html",
     "https://www.deutschlandfunk.de/erste-von-zwei-verhandlungsrunden-von-ukraine-russland-und-usa-abgeschlossen-102.html",
     "https://www.deutschlandfunk.de/tausende-menschen-demonstrieren-in-dortmund-zugunsten-kurdischer-minderheit-in-syrien-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/trumps-friedensrat-zu-gaza-kommt-erstmals-zusammen-deutschland-nimmt-auf-beamtenebene-teil-100.html",
     "https://www.deutschlandfunk.de/deutsche-welle-beschliesst-sparmassnahmen-angebote-auf-griechisch-werden-eingestellt-102.html",
     "https://www.deutschlandfunk.de/weitere-festnahmen-nach-tod-von-rechtem-aktivisten-in-lyon-100.html",
-    "https://www.spiegel.de/politik/aufnahmeprogramm-noch-rund-280-afghanen-warten-auf-einreise-nach-deutschland-a-c2cb3b2d-59b5-4ea1-a3ff-2245f8a3698e#ref=rss"
+    "https://www.spiegel.de/politik/aufnahmeprogramm-noch-rund-280-afghanen-warten-auf-einreise-nach-deutschland-a-c2cb3b2d-59b5-4ea1-a3ff-2245f8a3698e#ref=rss",
+    "https://www.deutschlandfunk.de/umweltverbaende-klagen-gegen-trump-entscheidung-zu-treibhausgasen-100.html",
+    "https://www.deutschlandfunk.de/trumps-friedensrat-zu-gaza-kommt-erstmals-zusammen-deutschland-nimmt-auf-hoher-beamtenebene-teil-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/ukraine-gespraeche-in-genf-der-adressat-ist-donald-trump-110839652.html"
   ],
   "content_hashes": [
-    "02c53ee8ac2623bf0aa2c0b7d95095f5",
-    "1260f1ce8deb6a20f3bcf57ccc31246c",
-    "63d375344c8c4598a7123110186c737b",
     "c0d2f13cc0157af202834dfe6bf5004c",
     "4b1d1e0cf00af2ae47666368beacae7b",
     "2b89223aeb36de0e13edd0f7f0b5c2dd",
@@ -2001,12 +1998,12 @@
     "adbee0f30d63a0e25a0a01ccab7e44e7",
     "ed30788eae8692480de58425037f066f",
     "dfd026c94de8ea182ddfe0971bc5ef85",
-    "7e6fd821d7d28f516e2358706b2c2e48"
+    "7e6fd821d7d28f516e2358706b2c2e48",
+    "9b2f47449808f0db849855c9723f9963",
+    "f3f53c07b87e79444733ffbd97f04c18",
+    "b17cc3e2c44feae73d82bc323ac32174"
   ],
   "titles": [
-    "Gesundheit - Auswertung: Ärzte verschreiben weniger Antibiotika in Deutschland",
-    "Nach Fernsehinterview - Britische Regierung kritisiert Trump-Aussage über angebliche Zurückhaltung von NATO-Truppen während Afghanistan-Einsatz",
-    "Kotré und Sellner: Die AfD auf Irrfahrt",
     "Wirtschaft - Nach Mercosur-Streit: Grünen-Spitze tritt für mehr Handelsabkommen ein",
     "Abu Dhabi - Erste von zwei Verhandlungsrunden von Ukraine, Russland und USA abgeschlossen",
     "Weitere Kundgebungen - Tausende Menschen demonstrieren in Dortmund zugunsten kurdischer Minderheit in Syrien",
@@ -3003,12 +3000,12 @@
     "Washington - Trumps \"Friedensrat\" zu Gaza kommt erstmals zusammen - Deutschland nimmt auf Beamtenebene teil",
     "Bonn - Deutsche Welle beschließt Sparmaßnahmen - Angebote auf Griechisch werden eingestellt",
     "Frankreich - Weitere Festnahmen nach Tod von rechtem Aktivisten in Lyon",
-    "Aufnahmeprogramm: Noch rund 280 Afghanen warten auf Einreise nach Deutschland"
+    "Aufnahmeprogramm: Noch rund 280 Afghanen warten auf Einreise nach Deutschland",
+    "USA - Umweltverbände klagen gegen Trump-Entscheidung zu Treibhausgasen",
+    "Washington - Trumps \"Friedensrat\" zu Gaza kommt erstmals zusammen - Deutschland nimmt auf hoher Beamtenebene teil",
+    "Ukraine-Gespräche: Keine Schritte in Richtung Frieden"
   ],
   "hashes": [
-    "b66751d4ef6d2f69e489037ca0ecab75",
-    "027573bd04f9e4cca17b1de42aa72ec7",
-    "31ed1aa320580d3d0a67512d49619039",
     "3773d65cf5c2a477145504b849ef111b",
     "1b4ae171ec9a8481635aacf8982b09c3",
     "41e1c19c3f2b19bae103d239ea71cf0b",
@@ -4005,6 +4002,9 @@
     "51266906a442528e3817313a29ba280a",
     "e0c9f4f3e19434578eabee2eccb4b5ef",
     "1272758bcc59acebbb8f616864294b98",
-    "4742431f7e446e3f89ee8ccf7e413dbe"
+    "4742431f7e446e3f89ee8ccf7e413dbe",
+    "486a32a198aad016e046e857659b8a56",
+    "d0abcef36e1cbaa8efdaba0c81d15e73",
+    "a363f655d10f979345d4abaf3d4dcbfa"
   ]
 }
