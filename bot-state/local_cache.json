@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/thueringen-will-hitlergruesse-an-schulen-unter-strafe-stellen-accg-110823525.html",
-    "https://www.deutschlandfunk.de/bund-will-traeger-in-demokratiefoerderprogramm-staerker-pruefen-100.html",
-    "https://www.deutschlandfunk.de/verdaechtiger-nach-explosion-vor-haus-von-gruenen-kommunalpolitikerin-gefasst-100.html",
     "https://www.deutschlandfunk.de/eu-besorgt-nach-berichten-ueber-ausbrueche-von-is-mitgliedern-aus-der-haft-100.html",
     "https://www.deutschlandfunk.de/deutschland-und-italien-vereinbaren-engere-partnerschaft-bei-ruestung-104.html",
     "https://www.deutschlandfunk.de/trump-naher-us-unternehmer-kontrolliert-ein-fuenftel-der-deutschen-tanklager-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/kritik-an-elektronischer-patientenakte-nur-eingeschraenkt-praxistauglich-100.html",
     "https://www.deutschlandfunk.de/zuwanderung-von-arbeitskraeften-aus-nicht-eu-staaten-hat-sich-verdoppelt-102.html",
     "https://www.aljazeera.com/news/2026/2/18/bulgaria-%e2%81%a0to-hold-snap-parliamentary-election-on-april-19-after-protests?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-soeder-schimpft-beim-politischen-aschermittwoch-auf-gruene-und-linke-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-soeder-schimpft-beim-politischen-aschermittwoch-auf-gruene-und-linke-faz-110093143.html",
+    "https://www.deutschlandfunk.de/ukraine-gespraeche-nach-zwei-tagen-beendet-weiter-keine-einigung-in-zentralen-fragen-100.html",
+    "https://www.deutschlandfunk.de/deutschland-und-indien-vereinbaren-zusammenarbeit-bei-kuenstlicher-intelligenz-100.html",
+    "https://www.deutschlandfunk.de/diskussion-um-afd-transparency-fordert-verschaerfte-gesetze-gegen-vetternwirtschaft-100.html"
   ],
   "content_hashes": [
-    "bc524241398f7dd723d1a3f814858b0c",
-    "6bec22fb91f99c1f2692af7c2d0ded55",
-    "bd306817587f550efffd4914030b7a8f",
     "a19df67ba3318525fa1f6a70b14fc09f",
     "1753daf21b5ea1f06b838ba71a023f1d",
     "ec846f56533e35ab5a998c7f939f8ea1",
@@ -2001,12 +1998,12 @@
     "8eff3dbe06b572f84f3a51f71be67f33",
     "e54f2f99df69509636df44b55897032b",
     "0cd6a25360270c2bf9c797818f7e1144",
-    "26e76fbf292799e4336e241a2e5851f8"
+    "26e76fbf292799e4336e241a2e5851f8",
+    "145531a3870b2f1c6f03ccbcb761e5c4",
+    "ab2b432120f22cd7ee12e4a59aa4ff5c",
+    "c51b0783600ae3c77040d3875ebccfc6"
   ],
   "titles": [
-    "Vorstoß aus Thüringen: Künftig soll der Hitlergruß auch an Schulen strafbar sein",
-    "Familienministerin Prien - Bund will Träger in Demokratieförderprogramm stärker prüfen",
-    "Hessen - Verdächtiger nach Explosion vor Haus von Grünen-Kommunalpolitikerin gefasst",
     "Syrien - EU besorgt nach Berichten über Ausbrüche von IS-Mitgliedern aus der Haft",
     "Regierungskonsultationen in Rom - Deutschland und Italien vereinbaren engere Partnerschaft bei Rüstung",
     "Medienbericht - Trump-naher US-Unternehmer kontrolliert ein Fünftel der deutschen Tanklager",
@@ -3003,12 +3000,12 @@
     "Hausärzteverband - Kritik an elektronischer Patientenakte: \"nur eingeschränkt praxistauglich\"",
     "Bundesagentur - Zuwanderung von Arbeitskräften aus Nicht-EU-Staaten hat sich verdoppelt",
     "Bulgaria ⁠to hold snap parliamentary election on April 19 after protests",
-    "Deutschland-Blog: Söder: „Der schlimmste Gegner sind diese NGOs“"
+    "Deutschland-Blog: Söder: „Der schlimmste Gegner sind diese NGOs“",
+    "Genf - Ukraine-Gespräche nach zwei Tagen beendet - weiter keine Einigung in zentralen Fragen",
+    "Neu-Delhi - Deutschland und Indien vereinbaren Zusammenarbeit bei Künstlicher Intelligenz",
+    "\"Moralisch anstößig\" - Diskussion um AfD: Transparency fordert verschärfte Gesetze gegen Vetternwirtschaft"
   ],
   "hashes": [
-    "fecd66e6ecf739ff1660b7fad490a58e",
-    "01c4d362bf02137f48054dbf5e688908",
-    "41a0ae88e4478102ff9c2b0a526e6663",
     "f88ec38f2a5d7c5e207a1932c18f1699",
     "34c78351cb8fbb8f5ad2450e4a6ca9de",
     "dd3a20278612a45115be658914853bf9",
@@ -4005,6 +4002,9 @@
     "e9190e347bbcd39830b0d297cad76228",
     "f9d9a63bdd4c9edae3d07fbb271da638",
     "7473a336ca6c0476e0afd8c1f14974de",
-    "05609d44b5fbab9d82cc4e7ccf4e2054"
+    "05609d44b5fbab9d82cc4e7ccf4e2054",
+    "7dfc0a8c4874c5750103da531b90eee5",
+    "cbb3d16e5e1c07bd7087ea6ffea4092e",
+    "3af57f4c10775f513b9753708584a163"
   ]
 }
