@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/anschlag-bei-hochzeitsfeier-im-nordwesten-des-landes-102.html",
-    "https://www.deutschlandfunk.de/verhandlungen-der-ukraine-russlands-und-der-usa-bereits-beendet-schwere-angriffe-auf-ukrainische-sta-100.html",
-    "https://www.deutschlandfunk.de/italien-empoert-ueber-freilassung-von-bar-betreiber-100.html",
     "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-zu-cyberangriffen-wir-werden-zurueckschlagen-auch-im-ausland-100.html",
     "https://www.deutschlandfunk.de/bundesbank-minuetlich-5-000-cyberangriffe-allein-auf-it-systeme-registriert-staendiger-wettlauf-100.html",
     "https://www.deutschlandfunk.de/dreier-gespraeche-in-abu-dhabi-bereits-beendet-schwere-angriffe-auf-ukrainische-staedte-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/zuckerberg-bestreitet-gezieltes-anlocken-von-kindern-durch-facebook-und-instagram-102.html",
     "https://www.deutschlandfunk.de/bildungsminister-wiederkehr-bekraeftigt-plaene-fuer-schulreform-informatik-und-ki-statt-latein-100.html",
     "https://www.deutschlandfunk.de/feuerwehreinsatz-im-reichstagsgebaeude-gefahrenstoff-loest-gasmelder-alarm-aus-100.html",
-    "https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss"
+    "https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss",
+    "https://www.deutschlandfunk.de/uno-menschenrechtsbuero-sieht-in-gaza-anzeichen-fuer-ethnische-saeuberungen-durch-israel-100.html",
+    "https://www.deutschlandfunk.de/db-cargo-will-fast-die-haelfte-aller-jobs-streichen-100.html",
+    "https://www.aljazeera.com/video/counting-the-cost/2026/2/19/can-europe-reduce-its-dependence-on-the-us-and-at-what-cost?traffic_source=rss"
   ],
   "content_hashes": [
-    "480c5d70831d74754892ba903e47d755",
-    "82b7b547d9bd94068a2337dd1e3f66e3",
-    "4c49f45efc523193973431fd41002e65",
     "e5360dca1d0af10ff057ba54126dd1ee",
     "c25afeed23ef9f1e78b043106eddf982",
     "d96f506c2c5765d127c1f65bad4fd9b4",
@@ -2001,12 +1998,12 @@
     "aea61e60f5efd8a9d8fa0dbdceabe325",
     "ba2e77033a10285507e37d8a1b1a2e0c",
     "52f547fb4e952d0ca4e90f2245e98341",
-    "496fb83c95e60cbd213887dea3237bc3"
+    "496fb83c95e60cbd213887dea3237bc3",
+    "d99eb3f665dc444a929219eb49bf93e7",
+    "819fd54b24b2cd25faa1831f2c16ae8b",
+    "e4a35c4154b769779d2f8082b768eafb"
   ],
   "titles": [
-    "Pakistan - Anschlag bei Hochzeitsfeier im Nordwesten des Landes",
-    "Abu Dhabi - Verhandlungen der Ukraine, Russlands und der USA bereits beendet - schwere Angriffe auf ukrainische Städte",
-    "Nach Brandkatastrophe in Crans-Montana - Italien empört über Freilassung von Bar-Betreiber",
     "Sicherheitspolitik - Bundesinnenminister Dobrindt zu Cyberangriffen: „Wir werden zurückschlagen - auch im Ausland“",
     "Hacker-Attacken - Bundesbank: Minütlich 5.000 Cyberangriffe allein auf IT-Systeme registriert - \"Ständiger Wettlauf\"",
     "Ukraine, Russland, USA - Dreier-Gespräche in Abu Dhabi bereits beendet - Schwere Angriffe auf ukrainische Städte",
@@ -3003,12 +3000,12 @@
     "Social-Media-Prozess - Zuckerberg bestreitet gezieltes Anlocken von Kindern durch Facebook und Instagram",
     "Österreich - Bildungsminister Wiederkehr bekräftigt Pläne für Schulreform - Informatik und KI statt Latein",
     "Berlin - Feuerwehreinsatz im Reichstagsgebäude - Gefahrenstoff löst Gasmelder-Alarm aus",
-    "Andrea Nahles hält Fachkräftemangel für schwerwiegender als Arbeitslosigkeit"
+    "Andrea Nahles hält Fachkräftemangel für schwerwiegender als Arbeitslosigkeit",
+    "Nahost - UNO-Menschenrechtsbüro sieht in Gaza Anzeichen für ethnische Säuberungen durch Israel",
+    "Deutsche Bahn-Tochter - DB Cargo will fast die Hälfte aller Jobs streichen",
+    "Can Europe reduce its dependence on the US and at what cost?"
   ],
   "hashes": [
-    "2c54411e052b2cfa7853cc4031cf3fba",
-    "8fbfb3590cf339c91ccdf79e6990c75a",
-    "2214837580319f39b0c75093e7c1ce91",
     "9736b7c1a66259c6768f6a10cab2c553",
     "1cc39df8c810550b4abf9d8d71da3f59",
     "d2b5bc28abacb47b756b50641c30c7b1",
@@ -4005,6 +4002,9 @@
     "10310987ba9b49b506db6cb8c9b5be00",
     "8d4bcef64ef3d3140961e6c7f1e49b30",
     "f6adb448f288571f739a30aae3324dc3",
-    "2b83cdd15d43d26c9578f5acc561f9ab"
+    "2b83cdd15d43d26c9578f5acc561f9ab",
+    "3ffa8a1f6200aa94f8674ff40b41a78e",
+    "5d4ee6cb2e45a61d9b58f76ed810a6b9",
+    "9b9a97aaee2c3d6a1b0146800cd3e066"
   ]
 }
