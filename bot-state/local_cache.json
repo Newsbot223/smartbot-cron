@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesinnenminister-dobrindt-zu-cyberangriffen-wir-werden-zurueckschlagen-auch-im-ausland-100.html",
-    "https://www.deutschlandfunk.de/bundesbank-minuetlich-5-000-cyberangriffe-allein-auf-it-systeme-registriert-staendiger-wettlauf-100.html",
-    "https://www.deutschlandfunk.de/dreier-gespraeche-in-abu-dhabi-bereits-beendet-schwere-angriffe-auf-ukrainische-staedte-100.html",
     "https://www.deutschlandfunk.de/kuehlstoffe-in-e-zigaretten-sind-schaedlich-104.html",
     "https://www.deutschlandfunk.de/kalifornien-trotzt-trump-fortsetzung-der-kooperation-mit-who-100.html",
     "https://www.deutschlandfunk.de/wem-gehoert-die-stadt-wohnungsnot-in-lissabon-100.html",
@@ -999,12 +996,12 @@
     "https://www.spiegel.de/wirtschaft/nahles-haelt-fachkraeftemangel-fuer-schwerwiegender-als-arbeitslosigkeit-a-d7c8669e-4be7-491c-b071-78115203acc2#ref=rss",
     "https://www.deutschlandfunk.de/uno-menschenrechtsbuero-sieht-in-gaza-anzeichen-fuer-ethnische-saeuberungen-durch-israel-100.html",
     "https://www.deutschlandfunk.de/db-cargo-will-fast-die-haelfte-aller-jobs-streichen-100.html",
-    "https://www.aljazeera.com/video/counting-the-cost/2026/2/19/can-europe-reduce-its-dependence-on-the-us-and-at-what-cost?traffic_source=rss"
+    "https://www.aljazeera.com/video/counting-the-cost/2026/2/19/can-europe-reduce-its-dependence-on-the-us-and-at-what-cost?traffic_source=rss",
+    "https://www.deutschlandfunk.de/ungarn-will-lieferung-von-strom-und-gas-an-die-ukraine-stoppen-102.html",
+    "https://www.deutschlandfunk.de/ezb-chefin-lagarde-bin-auf-job-konzentriert-100.html",
+    "https://www.deutschlandfunk.de/suedkoreas-ex-praesident-yoon-zu-lebenslanger-haft-verurteilt-100.html"
   ],
   "content_hashes": [
-    "e5360dca1d0af10ff057ba54126dd1ee",
-    "c25afeed23ef9f1e78b043106eddf982",
-    "d96f506c2c5765d127c1f65bad4fd9b4",
     "82ebc3c088bf92f2e28c750fd4629809",
     "c1a64e6731f4d0ae9ac0871aa56f4484",
     "bd97838d34cc21556e605affdafc32aa",
@@ -2001,12 +1998,12 @@
     "496fb83c95e60cbd213887dea3237bc3",
     "d99eb3f665dc444a929219eb49bf93e7",
     "819fd54b24b2cd25faa1831f2c16ae8b",
-    "e4a35c4154b769779d2f8082b768eafb"
+    "e4a35c4154b769779d2f8082b768eafb",
+    "a5bf1f4f50169475932a59a347971639",
+    "77bba947eee55ae89d7865094f76f302",
+    "734aee95e35181124ee6680fb737fa7a"
   ],
   "titles": [
-    "Sicherheitspolitik - Bundesinnenminister Dobrindt zu Cyberangriffen: „Wir werden zurückschlagen - auch im Ausland“",
-    "Hacker-Attacken - Bundesbank: Minütlich 5.000 Cyberangriffe allein auf IT-Systeme registriert - \"Ständiger Wettlauf\"",
-    "Ukraine, Russland, USA - Dreier-Gespräche in Abu Dhabi bereits beendet - Schwere Angriffe auf ukrainische Städte",
     "Bundesinstitut für Risikobewertung - Kühlstoffe in E-Zigaretten sind schädlich",
     "USA - Kalifornien trotzt Trump: Fortsetzung der Kooperation mit WHO",
     "Wohnungsnot - Die Wut der Menschen in Lissabon wächst",
@@ -3003,12 +3000,12 @@
     "Andrea Nahles hält Fachkräftemangel für schwerwiegender als Arbeitslosigkeit",
     "Nahost - UNO-Menschenrechtsbüro sieht in Gaza Anzeichen für ethnische Säuberungen durch Israel",
     "Deutsche Bahn-Tochter - DB Cargo will fast die Hälfte aller Jobs streichen",
-    "Can Europe reduce its dependence on the US and at what cost?"
+    "Can Europe reduce its dependence on the US and at what cost?",
+    "Beschädigte Druschba-Pipeline - Ungarn will Lieferung von Strom und Gas an die Ukraine stoppen",
+    "Nach Bericht über Rücktrittsplan - EZB-Chefin Lagarde: Bin auf Job konzentriert",
+    "Wegen Ausrufung des Kriegsrechts - Südkoreas Ex-Präsident Yoon zu lebenslanger Haft verurteilt"
   ],
   "hashes": [
-    "9736b7c1a66259c6768f6a10cab2c553",
-    "1cc39df8c810550b4abf9d8d71da3f59",
-    "d2b5bc28abacb47b756b50641c30c7b1",
     "05788f8bc13ff824707ae8a0070dce15",
     "fbe7e82071139d6d87992fe0c49ed52b",
     "c85be125dadd3879f8ec408354bc4ac3",
@@ -4005,6 +4002,9 @@
     "2b83cdd15d43d26c9578f5acc561f9ab",
     "3ffa8a1f6200aa94f8674ff40b41a78e",
     "5d4ee6cb2e45a61d9b58f76ed810a6b9",
-    "9b9a97aaee2c3d6a1b0146800cd3e066"
+    "9b9a97aaee2c3d6a1b0146800cd3e066",
+    "b2c1d08d2a412b1f6aa88b23e29d82c7",
+    "a51242adad99e5ccc74dd07fb9127ee2",
+    "8844b8a103504a6b86079ded45d9545e"
   ]
 }
