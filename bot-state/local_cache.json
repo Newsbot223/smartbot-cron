@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/ausland/kommentar-zu-iran-mit-gewalt-ist-kein-staat-zu-machen-110824396.html",
     "https://www.deutschlandfunk.de/wirtschaftsfluegel-der-cdu-will-recht-auf-teilzeitarbeit-kippen-100.html",
     "https://www.deutschlandfunk.de/konzept-fuer-neue-entwicklungspolitik-100.html",
     "https://www.deutschlandfunk.de/ig-metall-fordert-konkrete-auftraege-fuer-offshore-windkraft-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/friedensrat-sagt-hilfen-in-milliardenhoehe-fuer-gazastreifen-zu-100.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/belgien-us-botschafter-fuehrt-sich-auf-wie-ein-vizekoenig-110840466.html",
     "https://www.deutschlandfunk.de/friedensrat-sagt-finanzhilfen-und-friedenstruppen-fuer-gazastreifen-zu-100.html",
-    "https://www.deutschlandfunk.de/dissident-mikola-statkewitsch-aus-haft-entlassen-102.html"
+    "https://www.deutschlandfunk.de/dissident-mikola-statkewitsch-aus-haft-entlassen-102.html",
+    "https://www.deutschlandfunk.de/ezb-verhaengt-rekordstrafen-gegen-jp-morgan-se-100.html"
   ],
   "content_hashes": [
-    "600dbb29df41ef9e8b0d99a6296ead2b",
     "8a9b65e6a7a5b2379abad911d4fb80d6",
     "8f61dacb23163801c8a86e96c1947db3",
     "e7b279055c60805ccffdaf898a74a12a",
@@ -2001,10 +2000,10 @@
     "1f8f9bc6041c18d87ba202fc6298c130",
     "65e253e85bba034fbc6570ccf6adf848",
     "9fa256aaeb2573137502ba967f577036",
-    "d1e4430c35ff8c16aab03ce28ffa0044"
+    "d1e4430c35ff8c16aab03ce28ffa0044",
+    "55b7125488603a27e0ac5b6f49f74f4d"
   ],
   "titles": [
-    "Proteste in Iran: Mit Gewalt ist kein Staat zu machen",
     "Medienbericht - Wirtschaftsflügel der CDU will Recht auf Teilzeitarbeit kippen",
     "Institut für Weltwirtschaft - Konzept für neue Entwicklungspolitik",
     "Vor Nordsee-Gipfel - IG Metall fordert konkrete Aufträge für Offshore-Windkraft",
@@ -3003,10 +3002,10 @@
     "Washington - \"Friedensrat\" sagt Hilfen in Milliardenhöhe für Gazastreifen zu",
     "Eklat in Belgien: Wenn sich der Botschafter aufführt wie ein Vizekönig",
     "Erste Sitzung - \"Friedensrat\" sagt Finanzhilfen und Friedenstruppen für Gazastreifen zu",
-    "Belarus - Dissident Mikola Statkewitsch aus Haft entlassen"
+    "Belarus - Dissident Mikola Statkewitsch aus Haft entlassen",
+    "Finanzmarkt - EZB verhängt Rekordstrafen gegen JP Morgan SE"
   ],
   "hashes": [
-    "226cd3b6f6c44eadadebf19724cb39b9",
     "17b14ecabbbf500e34e1430412f5766b",
     "903b7b52d7e06ebc495d87b13954bf92",
     "0b1fe6cff2e488002afa4fc460580994",
@@ -4005,6 +4004,7 @@
     "46705786dd7b05f416908218fb9aaaf0",
     "0833b9c80282fde38a964a1b8b833164",
     "3ee15da5a7cfacc536d53acec4c41c71",
-    "21ec824eead571df8332f961e47634d1"
+    "21ec824eead571df8332f961e47634d1",
+    "eb4a8c3e8e4e2952ae977eceb6cfde13"
   ]
 }
