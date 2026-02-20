@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesumweltminister-schneider-trifft-saudischen-amtskollegen-100.html",
-    "https://www.deutschlandfunk.de/litauen-beschuldigt-russland-nicht-an-frieden-interessiert-zu-sein-verhandlungen-in-abu-dhabi-sollen-104.html",
-    "https://www.deutschlandfunk.de/israel-sucht-nach-leiche-von-letzter-geisel-100.html",
-    "https://www.deutschlandfunk.de/faehre-mit-mehr-als-350-menschen-gesunken-behoerden-gehen-von-mindestens-15-toten-aus-100.html",
     "https://www.deutschlandfunk.de/zeitungsrecherche-immer-mehr-cannabis-aus-nordamerika-in-der-eu-beschlagnahmt-100.html",
     "https://www.deutschlandfunk.de/proteste-und-mahnwache-in-minneapolis-obama-werte-der-nation-werden-zunehmend-angegriffen-100.html",
     "https://www.deutschlandfunk.de/goldpreis-steigt-erstmals-auf-ueber-5-000-dollar-100.html",
@@ -999,13 +995,13 @@
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-in-stuttgart-beginnt-faz-110093143.html",
     "https://www.deutschlandfunk.de/polizei-durchsucht-frueheres-anwesen-von-ex-prinz-andrew-100.html",
     "https://www.deutschlandfunk.de/kunstschaetze-in-dresden-erneut-im-visier-von-kriminellen-102.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-viel-applaus-fuer-angela-merkel-auf-cdu-parteitag-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-viel-applaus-fuer-angela-merkel-auf-cdu-parteitag-faz-110093143.html",
+    "https://www.deutschlandfunk.de/amazon-ueberholt-walmart-und-ist-jetzt-das-umsatzstaerkste-unternehmen-der-welt-102.html",
+    "https://www.deutschlandfunk.de/nach-ki-bildern-in-heute-journal-zdf-beruft-new-york-korrespondentin-ab-100.html",
+    "https://www.deutschlandfunk.de/interview-amy-kirchhoff-bsk-zu-social-media-verbot-fuer-jugendliche-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-merz-wir-sind-die-macherpartei-faz-110093143.html"
   ],
   "content_hashes": [
-    "943dc0a674c36b8d8a7e3a0a49e681b2",
-    "5ff66a5b594c4cc4f041243cad86aec5",
-    "ba1860981f059b6781ae74bac65163c6",
-    "a2acf0e7301d82649baf9d339f3cb200",
     "46301e6b57970ac479db77eb58d0fa55",
     "c0e77f9c2edcfd6a9ad26d1c021a5900",
     "095c87ff57e092764653132a10975b56",
@@ -2001,13 +1997,13 @@
     "281602890b9b4450e09cecc37752f805",
     "c4d4c4a0d679c1a172f5bbffbcfbe133",
     "3eb8b570ab3049dd96dbe75b51db4888",
-    "60a2a0aa51c0681f64bbb61b23b52d1f"
+    "60a2a0aa51c0681f64bbb61b23b52d1f",
+    "96b1b2a83b911b4d940e78149067d69b",
+    "6df5eee03367d03b9661f8ed6fb8653d",
+    "4e6bde4aed247adc328e41259756f74e",
+    "a6964139cb8d63f39c21f0fb1a5782cf"
   ],
   "titles": [
-    "Saudi-Arabien-Reise - Bundesumweltminister Schneider trifft saudischen Amtskollegen",
-    "Ukraine-Krieg - Litauen beschuldigt Russland, nicht an Frieden interessiert zu sein - Verhandlungen in Abu Dhabi sollen diese Woche weitergehen",
-    "Gazastreifen - Israel sucht nach Leiche von letzter Geisel",
-    "Philippinen - Fähre mit mehr als 350 Menschen gesunken - Behörden gehen von mindestens 15 Toten aus",
     "Drogenhandel - Zeitungsrecherche: Immer mehr Cannabis aus Nordamerika in der EU beschlagnahmt",
     "Nach tödlichen Schüssen - Proteste und Mahnwache in Minneapolis - Obama: Werte der Nation werden zunehmend angegriffen",
     "Wirtschaft - Goldpreis steigt erstmals auf über 5.000 Dollar",
@@ -3003,13 +2999,13 @@
     "Deutschland-Blog: CDU-Parteitag in Stuttgart beginnt",
     "Epstein-Ermittlungen - Polizei durchsucht früheres Anwesen von Ex-Prinz Andrew",
     "Seltene Schale - Kunstschätze in Dresden erneut im Visier von Kriminellen",
-    "Deutschland-Blog: Großer Ap­plaus für Merkel auf CDU-Parteitag"
+    "Deutschland-Blog: Großer Ap­plaus für Merkel auf CDU-Parteitag",
+    "Umsatzplus - Amazon überholt Walmart und ist jetzt das umsatzstärkste Unternehmen der Welt",
+    "Nach KI-Bildern in \"heute journal\": ZDF beruft New-York-Korrespondentin ab",
+    "Social-Media-Verbot - Bundesschülerkonferenz: Altersgrenze verschiebt das Problem nur",
+    "Deutschland-Blog: Merz: Wir sind die Macherpartei"
   ],
   "hashes": [
-    "d49b6d88b8898a947bf77161da8bb706",
-    "ae71e57f969ad118e872185f71cd1e8c",
-    "86642e4b9eae95920daa5618834a22c9",
-    "a98d21fed202b6ed07fead17767c40bc",
     "65dcc2e7207cda6f0a2e71188437e641",
     "8e34a2df3199d409e02d1f540729acec",
     "b8b1ed5b1e9e0b6ecb6f3a1050030da4",
@@ -4005,6 +4001,10 @@
     "4a146fd606d260d61246617b216d6caf",
     "81c303fde758c578430916d5577d6244",
     "72f2aa7a911417df683c2a33c87b9694",
-    "191098ad579c3a4fba740fc69ecb24a4"
+    "191098ad579c3a4fba740fc69ecb24a4",
+    "1ed063b9338b9fd2795fd00060617e3e",
+    "5787dd4f8177e61d2349e5060200f9b9",
+    "b7cadf836fb9fd7c5194b5c54ec5e2cd",
+    "63005b929e685303f7bef57f9610de96"
   ]
 }
