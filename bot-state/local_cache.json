@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/frau-muss-nach-messerangriff-am-hamburger-hauptbahnhof-in-die-psychiatrie-102.html",
-    "https://www.deutschlandfunk.de/spd-vize-kritisiert-cdu-plaene-zur-einschraenkung-des-teilzeit-anspruchs-auch-csu-chef-soeder-geht-a-100.html",
-    "https://www.deutschlandfunk.de/israel-sterbliche-ueberreste-von-letzter-geisel-im-gazastreifen-gefunden-100.html",
     "https://www.deutschlandfunk.de/nordsee-gipfel-investitionspakt-fuer-windenergie-beschlossen-kanzler-merz-hebt-die-sicherheit-im-nor-100.html",
     "https://www.deutschlandfunk.de/empoerung-nach-auftritt-des-oesterreichischen-rechtsextremisten-sellner-bei-afd-fraktion-im-thuering-100.html",
     "https://www.deutschlandfunk.de/neue-leitung-fuer-ice-einsaetze-in-minnesota-102.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/sagrada-fam-lia-in-barcelona-nun-hoechste-kirche-der-welt-hauptturm-der-basilika-fertiggestellt-100.html",
     "https://www.deutschlandfunk.de/zweiter-us-flugzeugtraeger-im-mittelmeer-eingetroffen-100.html",
     "https://www.aljazeera.com/video/the-stream/2026/2/20/the-truth-behind-wildlife-tourism?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-friedrich-merz-mit-91-17-prozent-wiedergewaehlt-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-friedrich-merz-mit-91-17-prozent-wiedergewaehlt-faz-110093143.html",
+    "https://www.deutschlandfunk.de/generalsekretaer-linnemann-mit-grosser-mehrheit-im-amt-bestaetigt-100.html",
+    "https://www.deutschlandfunk.de/neue-tageszeitung-gestartet-die-ostdeutsche-allgemeine-zeitung-oaz-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-das-praesidium-ist-gewaehlt-faz-110093143.html"
   ],
   "content_hashes": [
-    "2164028cf466b0a812fdee52547af68a",
-    "e7ff8bba398f6da5740f84529c26cb06",
-    "1cb513c63551373d4cfff99b52700b10",
     "f916946fee8f8c46348f5e2daecbe210",
     "666e74ee1202b078ee7cd2f3034d60de",
     "b60c1923c107fc98aa83e5197799dc04",
@@ -2001,12 +1998,12 @@
     "5f7c47f38ff5f0c944c73688a02527ae",
     "2775a25486e7f878e4a4cff1bdb5e003",
     "7841c1c42d1cae9a8854dc5b329bf666",
-    "f444533ffae3237a9e9cabb431f2a658"
+    "f444533ffae3237a9e9cabb431f2a658",
+    "4625fb20528d9c054da4b0cfb50ad298",
+    "5d6c16f5921c1c51644f5b8df8149ce4",
+    "28e28cf7462c3b2d29da99dcc04d5dcf"
   ],
   "titles": [
-    "Landgericht - Frau muss nach Messerangriff am Hamburger Hauptbahnhof in die Psychiatrie",
-    "Arbeit - SPD-Vize kritisiert CDU-Pläne zur Einschränkung des Teilzeit-Anspruchs - Auch CSU-Chef Söder geht auf Abstand",
-    "Nahost - Israel: Sterbliche Überreste von letzter Geisel im Gazastreifen gefunden",
     "Hamburg - Nordsee-Gipfel: Investitionspakt für Windenergie beschlossen - Kanzler Merz hebt die Sicherheit im Norden hervor",
     "Erfurt - Empörung nach Auftritt des österreichischen Rechtsextremisten Sellner bei AfD-Fraktion im Thüringer Landtag",
     "Nach tödlichen Schüssen - Neue Leitung für ICE-Einsätze in Minnesota",
@@ -3003,12 +3000,12 @@
     "Spanien - Sagrada Família in Barcelona nun höchste Kirche der Welt – Hauptturm der Basilika fertiggestellt",
     "Atom-Konflikt mit dem Iran - Zweiter US-Flugzeugträger im Mittelmeer eingetroffen",
     "The truth behind wildlife tourism",
-    "Deutschland-Blog: Friedrich Merz mit 91,17 Prozent wiedergewählt"
+    "Deutschland-Blog: Friedrich Merz mit 91,17 Prozent wiedergewählt",
+    "CDU-Bundesparteitag - Generalsekretär Linnemann mit großer Mehrheit im Amt bestätigt",
+    "Medien - Neue Tageszeitung gestartet: Die \"Ostdeutsche Allgemeine Zeitung\" (OAZ)",
+    "Deutschland-Blog: Das CDU-Präsidium ist gewählt"
   ],
   "hashes": [
-    "3a27110e6a1fdf99366135a57e81873a",
-    "840f474ddc1c1942c6d1feb7145998d2",
-    "92113e010eac708d18c709f18f224306",
     "c3adc8a9987ec98af560f289d8848193",
     "c00a5d9847687329e64589dcdc46507f",
     "3e36277e9630904b3881183496153bd4",
@@ -4005,6 +4002,9 @@
     "6cde133ad57c25c7063789c8f1d502ce",
     "fd86ed620a134904e4cd0269c416c488",
     "9d54910903eef9e41c670f6d6b63c204",
-    "a7c85b282619f5d2fa0b5a29330f501f"
+    "a7c85b282619f5d2fa0b5a29330f501f",
+    "aa473821f79d527000704ebb3d662031",
+    "1904adf3e99df1373a29faea3635473e",
+    "9ccf190222f749bc2e786826ac35a40d"
   ]
 }
