@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/wadephul-reist-nach-lettland-und-schweden-100.html",
-    "https://www.deutschlandfunk.de/bundeswirtschaftsministerin-reiche-gemeinsam-kritische-infrastruktur-der-eu-sichern-100.html",
     "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-und-ratspraesident-costa-nehmen-an-parade-zum-nationalfeier-100.html",
     "https://www.deutschlandfunk.de/eu-staaten-besiegeln-ausstieg-aus-russischem-erdgas-bis-ende-100.html",
     "https://www.deutschlandfunk.de/medienbericht-eu-kommission-eroeffnet-verfahren-gegen-elon-musks-ki-chatbot-grok-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/rundfunkbeitrag-soll-um-28-cent-steigen-100.html",
     "https://www.deutschlandfunk.de/china-ist-wieder-deutschlands-wichtigster-handelspartner-104.html",
     "https://www.deutschlandfunk.de/schueler-protestieren-in-hamburg-gegen-wehrdienstreform-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-eu-erlaubt-bund-uebernahme-von-kontrolle-a-c7bbb743-8530-43bb-80f7-584e4225bcc1#ref=rss"
+    "https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-eu-erlaubt-bund-uebernahme-von-kontrolle-a-c7bbb743-8530-43bb-80f7-584e4225bcc1#ref=rss",
+    "https://www.deutschlandfunk.de/oberster-gerichtshof-der-usa-kippt-trumps-zoelle-teilweise-100.html",
+    "https://www.faz.net/aktuell/politik/inland/cdu-die-junge-union-hat-genug-von-merz-ankuendigungen-110841447.html"
   ],
   "content_hashes": [
-    "d8327328bd313a1fab92b9594bad6fe9",
-    "f89fbaae214ec87cb25f779536efbb2b",
     "64cb33471ff4d9055de83c1564e84fd8",
     "257cfec4c29e3107c96f0221c84c825a",
     "2d87f6d12824c42277b350a827c38b52",
@@ -2001,11 +1999,11 @@
     "cfc4f844c6ab1444a377fe22abbe8568",
     "42423c6f8543fd8131fa64868c506319",
     "882979b6f6e9107bcf0374dc63af13cc",
-    "761eb8dee15a8b1b4128a577832987b6"
+    "761eb8dee15a8b1b4128a577832987b6",
+    "53db5c8c9036f8166635b7ed34fb4286",
+    "1b19fb4c76d90ff8c308cac231d02c5b"
   ],
   "titles": [
-    "Auslandsreise - Wadephul reist nach Lettland und Schweden",
-    "Nordsee-Gipfel - Bundeswirtschaftsministerin Reiche: Gemeinsam kritische Infrastruktur der EU sichern",
     "Indischer Nationalfeiertag - EU-Kommissionspräsidentin von der Leyen und Ratspräsident Costa nehmen an Parade zum Nationalfeiertag teil",
     "Gesetz verabschiedet - EU-Staaten besiegeln Ausstieg aus russischem Erdgas bis Ende 2027",
     "Digital Services Act - Medienbericht: EU-Kommission eröffnet Verfahren gegen Elon Musks KI-Chatbot Grok",
@@ -3003,11 +3001,11 @@
     "KEF-Empfehlung - Rundfunkbeitrag soll um 28 Cent steigen",
     "Wirtschaft - China ist wieder Deutschlands wichtigster Handelspartner",
     "\"Schulstreik\" - Schüler protestieren in Hamburg gegen Wehrdienstreform",
-    "Rosneft Deutschland: EU erlaubt Bund Übernahme von Kontrolle"
+    "Rosneft Deutschland: EU erlaubt Bund Übernahme von Kontrolle",
+    "Supreme Court - Oberster Gerichtshof der USA kippt Trumps Zölle teilweise",
+    "Streit in der CDU: Die Jungen haben genug"
   ],
   "hashes": [
-    "e84c1caccefaa35dfc59f77e7837a4d8",
-    "b803524034081f2f8783d529eee82d5d",
     "92fc4111e3db275b9de709cff11c4ba9",
     "35cb9acfa980b2a400cb112eaa82f714",
     "b56361bf8b3649c0459b423426bab029",
@@ -4005,6 +4003,8 @@
     "6aa73ec2c0ab43703a39c19fac52f956",
     "df7d514fd120076aa1f205540b4d3445",
     "5aecddd11591622522c6e6798abaadca",
-    "54b7dcb19182c24a829812c3c6f71d27"
+    "54b7dcb19182c24a829812c3c6f71d27",
+    "01f82b188b4d5072d971ef9124e010f3",
+    "caa9e79dbcdaeb15e5f444a430aa9034"
   ]
 }
