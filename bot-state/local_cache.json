@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neuer-prozess-wegen-des-mordes-an-journalist-kuciak-102.html",
-    "https://www.deutschlandfunk.de/unsichere-passwoerter-weiterhin-beliebt-102.html",
     "https://www.deutschlandfunk.de/spd-vize-schweitzer-kritisiert-cdu-plaene-zur-einschraenkung-des-teilzeit-anspruchs-100.html",
     "https://www.deutschlandfunk.de/ice-einsaetze-in-den-usa-dazu-interview-mit-thomas-jaeger-usa-experte-uni-koeln-100.html",
     "https://www.deutschlandfunk.de/bundesregierung-ruft-usa-zu-rechtsstaatlicher-untersuchung-der-schuesse-in-minneapolis-auf-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/angst-vor-us-angriff-auswaertiges-amt-ruft-deutsche-erneut-zum-verlassen-des-irans-auf-100.html",
     "https://www.deutschlandfunk.de/deutsche-erzeugerpreise-mit-staerkstem-rueckgang-seit-april-100.html",
     "https://www.deutschlandfunk.de/weitere-appelle-fuer-zuckersteuer-an-cdu-bundesparteitag-100.html",
-    "https://www.deutschlandfunk.de/denkmal-fuer-falco-in-dominikanischer-republik-errichtet-102.html"
+    "https://www.deutschlandfunk.de/denkmal-fuer-falco-in-dominikanischer-republik-errichtet-102.html",
+    "https://www.deutschlandfunk.de/vorsitzender-merz-mit-91-17-prozent-wiedergewaehlt-100.html",
+    "https://www.deutschlandfunk.de/sagrada-fam-lia-in-barcelona-nun-hoechste-kirche-der-welt-hauptturm-der-basilika-fertiggestellt-100.html"
   ],
   "content_hashes": [
-    "779f4e1e83d725fa70f25a57c9fe2f91",
-    "b8f3f400232cc0113746b1912bb5e860",
     "9238f028e1cdba33e4c46ad17cc68f8e",
     "96fb64cd105b93e07232e7aa49f0436b",
     "a495a0b807ac3a57590e0ee2461a4cba",
@@ -2001,11 +1999,11 @@
     "76989c59bb21337fa8e6dde55766c30f",
     "297ba468fb6f94086851fc009228e84c",
     "8a63993e9545184d2b6196cf1820e5ad",
-    "af33cde9f409057ffeb3d94f7c193154"
+    "af33cde9f409057ffeb3d94f7c193154",
+    "387dc2bb01252560a7ed16989f46e5ad",
+    "5f7c47f38ff5f0c944c73688a02527ae"
   ],
   "titles": [
-    "Slowakei - Neuer Prozess wegen des Mordes an Journalist Kuciak",
-    "Cybersicherheit - Unsichere Passwörter weiterhin beliebt",
     "Arbeit - SPD-Vize Schweitzer kritisiert CDU-Pläne zur Einschränkung des Teilzeit-Anspruchs",
     "Tödlicher ICE-Einsatz - Politologe Jäger: \"Trump will Gewalt provozieren\"",
     "Tödlicher ICE-Einsatz - Bundesregierung ruft USA zu rechtsstaatlicher Untersuchung der Schüsse in Minneapolis auf",
@@ -3003,11 +3001,11 @@
     "Berlin - Angst vor US-Angriff: Auswärtiges Amt ruft Deutsche erneut zum Verlassen des Irans auf",
     "Statistisches Bundesamt - Deutsche Erzeugerpreise mit stärkstem Rückgang seit April 2024",
     "Gesundheitspolitik - Weitere Appelle für Zuckersteuer an CDU-Bundesparteitag",
-    "30 Jahre nach dem Unfall - Denkmal für Falco in Dominikanischer Republik errichtet"
+    "30 Jahre nach dem Unfall - Denkmal für Falco in Dominikanischer Republik errichtet",
+    "CDU-Bundesparteitag - Vorsitzender Merz mit 91,17 Prozent wiedergewählt",
+    "Spanien - Sagrada Família in Barcelona nun höchste Kirche der Welt – Hauptturm der Basilika fertiggestellt"
   ],
   "hashes": [
-    "f804d7152e1a7daa1ad76aacbf6b796b",
-    "245a8c1e5e9cf56548c6ef7ecddd2fce",
     "6d9a702acd51c36244585631fbfeb243",
     "c438e4e987385a9be17db2e99880836e",
     "bb5a1c5e4b27889b7053ef82f990c6ff",
@@ -4005,6 +4003,8 @@
     "a6a0ae0fd4e40cc7a1f9b094b3c2d374",
     "c693bae2cef0f2c076089da628f1c7d5",
     "20770d62bc8bf94f3bd53c72819699ab",
-    "46619d52b25c52da511033a99d790f23"
+    "46619d52b25c52da511033a99d790f23",
+    "4774a23275822105b3de619e9804c31b",
+    "6cde133ad57c25c7063789c8f1d502ce"
   ]
 }
