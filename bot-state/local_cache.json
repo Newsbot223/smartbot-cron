@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-wirtschaftsfluegel-entfacht-debatte-100.html",
-    "https://www.aljazeera.com/sports/liveblog/2026/1/25/live-arsenal-vs-manchester-united-premier-league-2?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/jochen-ott-er-soll-nrw-fuer-die-spd-zurueckgewinnen-110825333.html",
     "https://www.deutschlandfunk.de/cdu-gewinnt-stichwahl-gegen-afd-im-brandenburgischen-landkreis-oberspreewald-lausitz-100.html",
     "https://www.deutschlandfunk.de/landesregierung-in-wiesbaden-prueft-angebot-fuer-schloesser-parks-und-museen-102.html",
     "https://www.faz.net/aktuell/politik/usa-unter-trump/toedliche-schuesse-in-minneapolis-amerika-im-notstand-110825410.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/unterhaus-billigt-arbeitsmarktreform-102.html",
     "https://www.faz.net/aktuell/politik/inland/soeder-rhein-hagel-erbschaftsteuer-muss-laendersache-sein-accg-110840227.html",
     "https://www.faz.net/aktuell/politik/ausland/us-abzug-aus-syrien-putin-ist-wieder-der-gewinner-110840465.html",
-    "https://www.deutschlandfunk.de/start-der-ostdeutschen-allgemeinen-zeitung-102.html"
+    "https://www.deutschlandfunk.de/start-der-ostdeutschen-allgemeinen-zeitung-102.html",
+    "https://www.deutschlandfunk.de/flughafen-in-palm-beach-soll-nach-trump-benannt-werden-100.html",
+    "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-fordert-freilassung-des-festgenommenen-deutsche-welle-journalisten-alica-102.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-in-stuttgart-beginnt-faz-110093143.html"
   ],
   "content_hashes": [
-    "2547c27cc8da9154ad8ac9f746d86ae2",
-    "1b131cdb0c03966f3de0d1127b79d7cd",
-    "1695c7b6a7c084edc854d0df2f13a7cd",
     "c84de3c77c89d0d505ba390f06c57135",
     "e749ff85e1687c85b98b72700ea9d6fb",
     "37b4081a3a52098f68ebd11d7266ee0f",
@@ -2001,12 +1998,12 @@
     "2eb3d0d81b5f623a527d286e5690adb0",
     "9af444178a30f1298a0a606665da8abd",
     "c7b5454a9dd343f31c28be8f2807b32c",
-    "183b7740705ad35715bf1e5324b81bc2"
+    "183b7740705ad35715bf1e5324b81bc2",
+    "84f25db34953c813685a2b1749873ced",
+    "7f3bfdbaa8689a79ee533c2c24ed1d94",
+    "281602890b9b4450e09cecc37752f805"
   ],
   "titles": [
-    "Recht auf Teilzeit - CDU-Wirtschaftsflügel entfacht Debatte",
-    "Arsenal vs Manchester United 2-3: Premier League",
-    "Spitzenkandidat Jochen Ott: Er soll NRW für die SPD zurückgewinnen",
     "Landratswahl - CDU gewinnt Stichwahl gegen AfD im brandenburgischen Landkreis Oberspreewald-Lausitz",
     "Kulturstiftung des Hauses Hessen - Landesregierung in Wiesbaden prüft Angebot für Schlösser, Parks und Museen",
     "Minneapolis: Amerika im Notstand?",
@@ -3003,12 +3000,12 @@
     "Argentinien - Unterhaus billigt Arbeitsmarktreform",
     "Länderfinanzausgleich: Wir sind solidarisch, haben aber nichts zu verschenken",
     "US-Politik in Nahost: Putin ist wieder der Gewinner",
-    "Medien - Start der \"Ostdeutschen Allgemeinen Zeitung\""
+    "Medien - Start der \"Ostdeutschen Allgemeinen Zeitung\"",
+    "Florida - Flughafen in Palm Beach soll nach Trump benannt werden",
+    "Türkei - Kulturstaatsminister Weimer fordert Freilassung des festgenommenen Deutsche-Welle-Journalisten Alican Uludağ",
+    "Deutschland-Blog: CDU-Parteitag in Stuttgart beginnt"
   ],
   "hashes": [
-    "b981d54c3141a9220e8637c06f2f99d1",
-    "03b7bc9882829bc929054e011b540009",
-    "d27e96867193b090d26d103cfb74ba6b",
     "a608cda8aa270f3ba07c2a8b2317576a",
     "b2a0d76423d44e56949e3d27e2fbdd3b",
     "4402e4b3892695cff739d9468a4ee61f",
@@ -4005,6 +4002,9 @@
     "9fdc0dd5073b3b258ca067e2ce1477bd",
     "87fc0a14f6154fea82723d6a61429a94",
     "01c601b14441bdb5e1f15bc5c1d7e21c",
-    "c79d8833874b6b298ddf8ea64d37d28f"
+    "c79d8833874b6b298ddf8ea64d37d28f",
+    "7554ed995309fe31710674870a783b4f",
+    "c28cec713602286eb64bb8706032c436",
+    "4a146fd606d260d61246617b216d6caf"
   ]
 }
