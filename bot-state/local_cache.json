@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/interview-wadephul-johann-bundesaussenminister-cdu-102.html",
-    "https://www.faz.net/aktuell/politik/inland/zahl-der-asylantraege-ist-das-wirklich-die-migrationswende-110824365.html",
-    "https://www.deutschlandfunk.de/papst-fordert-ende-des-krieges-verhandlungen-in-abu-dhabi-sollen-naechste-woche-weitergehen-100.html",
     "https://www.deutschlandfunk.de/forderung-nach-einschraenkung-des-rechts-auf-teilzeitarbeit-stoesst-auf-kritik-100.html",
     "https://www.deutschlandfunk.de/letzte-phase-der-von-der-militaerjunta-organisierten-parlamentswahlen-beendet-100.html",
     "https://www.deutschlandfunk.de/deutliche-kritik-am-cdu-vorstoss-zu-rechtsanspruch-auf-teilzeit-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/ezb-verhaengt-strafen-gegen-jp-morgan-se-100.html",
     "https://www.deutschlandfunk.de/trump-droht-iran-und-setzt-frist-100.html",
     "https://www.deutschlandfunk.de/frueherer-britischer-prinz-andrew-wieder-freigelassen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-linnemann-cdu-wohl-fuer-altersbeschraenkung-bei-social-media-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-linnemann-cdu-wohl-fuer-altersbeschraenkung-bei-social-media-faz-110093143.html",
+    "https://www.deutschlandfunk.de/polnischer-praesident-nawrocki-stoppt-reform-fuer-unabhaengigkeit-der-justiz-100.html",
+    "https://www.deutschlandfunk.de/nationalversammlung-in-venezuela-verabschiedet-amnestiegesetz-102.html",
+    "https://www.deutschlandfunk.de/journalist-alican-uludag-in-tuerkei-wegen-praesidentenbeleidigung-festgenommen-worden-102.html"
   ],
   "content_hashes": [
-    "5c77b3d3332881bbed82ec1e4fd2aafc",
-    "c462524a7dcb1e12633a635f481dc298",
-    "1af81cd1eb223549d64a168cd7b805a8",
     "48e86138e6acb186330b39b4e4698346",
     "d1ba8a5b142fe28b0f2442fa800ad027",
     "0968a0a3cd8c4eb3449faecf24e608db",
@@ -2001,12 +1998,12 @@
     "02ce97c8ee33bb791aaf60fcb18fbccb",
     "46fd80dea0b0b453df97801ca96c4df9",
     "ac9368f4b65dd7aaef2347a93165bb99",
-    "01fa596b36db01a3cac9286fd3a475b9"
+    "01fa596b36db01a3cac9286fd3a475b9",
+    "28e41172c94a69fd6bbee821eab1ad1f",
+    "929c33d7a691ffc192a77cc936f1423b",
+    "ba01e18207642ab4de4d4ef2ac2a573d"
   ],
   "titles": [
-    "Außenminister Wadephul - Mercosur-Abstimmung ist „große strategische Fehlentscheidung“",
-    "Zahl der Asylanträge: Ist das wirklich die Migrationswende?",
-    "Ukraine-Krieg - Papst fordert Ende des Krieges - Verhandlungen in Abu Dhabi sollen nächste Woche weitergehen",
     "CDU-Wirtschaftsflügel - Forderung nach Einschränkung des Rechts auf Teilzeitarbeit stößt auf Kritik",
     "Myanmar - Letzte Phase der von der Militärjunta organisierten Parlamentswahlen beendet",
     "Arbeitszeit - Deutliche Kritik am CDU-Vorstoß zu Rechtsanspruch auf Teilzeit",
@@ -3003,12 +3000,12 @@
     "Finanzmarkt - EZB verhängt Strafen gegen JP Morgan SE",
     "Naher Osten - Trump droht Iran und setzt Frist",
     "Epstein-Affäre - Früherer britischer Prinz Andrew wieder freigelassen",
-    "Deutschland-Blog: Linnemann: CDU wohl für Altersbeschränkung bei Social Media"
+    "Deutschland-Blog: Linnemann: CDU wohl für Altersbeschränkung bei Social Media",
+    "Veto - Polnischer Präsident Nawrocki stoppt Reform für Unabhängigkeit der Justiz",
+    "Politische Gefangene - Nationalversammlung in Venezuela verabschiedet Amnestiegesetz",
+    "Deutsche Welle - Journalist Alican Uludag in Türkei wegen \"Präsidentenbeleidigung\" festgenommen worden"
   ],
   "hashes": [
-    "78f18200fc6371faf2e97ae3bc840184",
-    "3e86e240327746a3df42ba4367337688",
-    "abde6f23620867d66f78561230521b14",
     "e64be26a325f9314cdfe7a2b305398ca",
     "a4c3aea99dc4c176c6ca0fc3751b9381",
     "878f7ec66d7b4ec9699eb7126b5dcc67",
@@ -4005,6 +4002,9 @@
     "1d4581aba62ad4a45421799ca2d4926c",
     "8c5facdb7104c7aacd2885be1ec262f3",
     "c9b67c654c7a5bf9cd9ac87f617c862f",
-    "80ccdeb7eaab52b9c3bc7ac403821c12"
+    "80ccdeb7eaab52b9c3bc7ac403821c12",
+    "735d4e7303f898a1d7ea7427171b8e23",
+    "916a985211099e1b0ae4d3ff3ed7f3c9",
+    "ecaec502adda5b2eb485664eaea0a0f0"
   ]
 }
