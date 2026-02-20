@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/eu-kommissionspraesidentin-von-der-leyen-und-ratspraesident-costa-nehmen-an-parade-zum-nationalfeier-100.html",
-    "https://www.deutschlandfunk.de/eu-staaten-besiegeln-ausstieg-aus-russischem-erdgas-bis-ende-100.html",
     "https://www.deutschlandfunk.de/medienbericht-eu-kommission-eroeffnet-verfahren-gegen-elon-musks-ki-chatbot-grok-100.html",
     "https://www.deutschlandfunk.de/kippt-recht-auf-teilzeit-interview-mit-alexander-schweitzer-stell-spd-vors-100.html",
     "https://www.deutschlandfunk.de/eu-kommission-eroeffnet-verfahren-gegen-elon-musks-ki-chatbot-grok-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/schueler-protestieren-in-hamburg-gegen-wehrdienstreform-100.html",
     "https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-eu-erlaubt-bund-uebernahme-von-kontrolle-a-c7bbb743-8530-43bb-80f7-584e4225bcc1#ref=rss",
     "https://www.deutschlandfunk.de/oberster-gerichtshof-der-usa-kippt-trumps-zoelle-teilweise-100.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-die-junge-union-hat-genug-von-merz-ankuendigungen-110841447.html"
+    "https://www.faz.net/aktuell/politik/inland/cdu-die-junge-union-hat-genug-von-merz-ankuendigungen-110841447.html",
+    "https://www.deutschlandfunk.de/gruene-bieten-regierung-zusammenarbeit-bei-sozialreformen-an-100.html",
+    "https://www.faz.net/aktuell/politik/inland/achtung-guru-110841490.html"
   ],
   "content_hashes": [
-    "64cb33471ff4d9055de83c1564e84fd8",
-    "257cfec4c29e3107c96f0221c84c825a",
     "2d87f6d12824c42277b350a827c38b52",
     "1b9db0638a8b8fe8ac18f28227c066cc",
     "853d747e66bc35dd06ccb1527428238a",
@@ -2001,11 +1999,11 @@
     "882979b6f6e9107bcf0374dc63af13cc",
     "761eb8dee15a8b1b4128a577832987b6",
     "53db5c8c9036f8166635b7ed34fb4286",
-    "1b19fb4c76d90ff8c308cac231d02c5b"
+    "1b19fb4c76d90ff8c308cac231d02c5b",
+    "cb73905d472d2732e0952c5363565789",
+    "bf0f84678fa8567c0c27437e847d5468"
   ],
   "titles": [
-    "Indischer Nationalfeiertag - EU-Kommissionspräsidentin von der Leyen und Ratspräsident Costa nehmen an Parade zum Nationalfeiertag teil",
-    "Gesetz verabschiedet - EU-Staaten besiegeln Ausstieg aus russischem Erdgas bis Ende 2027",
     "Digital Services Act - Medienbericht: EU-Kommission eröffnet Verfahren gegen Elon Musks KI-Chatbot Grok",
     "Fachkräftemangel - Schweitzer (SPD) kritisiert Debatte um \"Lifestyle-Freizeit\"",
     "Wegen sexualisierter Bilder - EU-Kommission eröffnet Verfahren gegen Elon Musks KI-Chatbot Grok",
@@ -3003,11 +3001,11 @@
     "\"Schulstreik\" - Schüler protestieren in Hamburg gegen Wehrdienstreform",
     "Rosneft Deutschland: EU erlaubt Bund Übernahme von Kontrolle",
     "Supreme Court - Oberster Gerichtshof der USA kippt Trumps Zölle teilweise",
-    "Streit in der CDU: Die Jungen haben genug"
+    "Streit in der CDU: Die Jungen haben genug",
+    "Sozialstaat - Grüne bieten Regierung Zusammenarbeit bei Sozialreformen an",
+    "Drohnen-Debatte: Achtung, Guru?"
   ],
   "hashes": [
-    "92fc4111e3db275b9de709cff11c4ba9",
-    "35cb9acfa980b2a400cb112eaa82f714",
     "b56361bf8b3649c0459b423426bab029",
     "ee56fddc55c8690ea7400390d8d4df1a",
     "9e33fd3e94e049ca670cc7c4ce6f6f91",
@@ -4005,6 +4003,8 @@
     "5aecddd11591622522c6e6798abaadca",
     "54b7dcb19182c24a829812c3c6f71d27",
     "01f82b188b4d5072d971ef9124e010f3",
-    "caa9e79dbcdaeb15e5f444a430aa9034"
+    "caa9e79dbcdaeb15e5f444a430aa9034",
+    "4d3aa45cbe7bdc3fa61c00d3721d797e",
+    "86e6b9d346b27bd59b6ef801afe7c616"
   ]
 }
