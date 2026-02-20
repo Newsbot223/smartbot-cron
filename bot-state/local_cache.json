@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-gewinnt-stichwahl-gegen-afd-im-brandenburgischen-landkreis-oberspreewald-lausitz-100.html",
-    "https://www.deutschlandfunk.de/landesregierung-in-wiesbaden-prueft-angebot-fuer-schloesser-parks-und-museen-102.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/toedliche-schuesse-in-minneapolis-amerika-im-notstand-110825410.html",
     "https://www.deutschlandfunk.de/bundesumweltminister-schneider-trifft-saudischen-amtskollegen-100.html",
     "https://www.deutschlandfunk.de/litauen-beschuldigt-russland-nicht-an-frieden-interessiert-zu-sein-verhandlungen-in-abu-dhabi-sollen-104.html",
     "https://www.deutschlandfunk.de/israel-sucht-nach-leiche-von-letzter-geisel-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/start-der-ostdeutschen-allgemeinen-zeitung-102.html",
     "https://www.deutschlandfunk.de/flughafen-in-palm-beach-soll-nach-trump-benannt-werden-100.html",
     "https://www.deutschlandfunk.de/kulturstaatsminister-weimer-fordert-freilassung-des-festgenommenen-deutsche-welle-journalisten-alica-102.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-in-stuttgart-beginnt-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-cdu-parteitag-in-stuttgart-beginnt-faz-110093143.html",
+    "https://www.deutschlandfunk.de/polizei-durchsucht-frueheres-anwesen-von-ex-prinz-andrew-100.html",
+    "https://www.deutschlandfunk.de/kunstschaetze-in-dresden-erneut-im-visier-von-kriminellen-102.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-viel-applaus-fuer-angela-merkel-auf-cdu-parteitag-faz-110093143.html"
   ],
   "content_hashes": [
-    "c84de3c77c89d0d505ba390f06c57135",
-    "e749ff85e1687c85b98b72700ea9d6fb",
-    "37b4081a3a52098f68ebd11d7266ee0f",
     "943dc0a674c36b8d8a7e3a0a49e681b2",
     "5ff66a5b594c4cc4f041243cad86aec5",
     "ba1860981f059b6781ae74bac65163c6",
@@ -2001,12 +1998,12 @@
     "183b7740705ad35715bf1e5324b81bc2",
     "84f25db34953c813685a2b1749873ced",
     "7f3bfdbaa8689a79ee533c2c24ed1d94",
-    "281602890b9b4450e09cecc37752f805"
+    "281602890b9b4450e09cecc37752f805",
+    "c4d4c4a0d679c1a172f5bbffbcfbe133",
+    "3eb8b570ab3049dd96dbe75b51db4888",
+    "60a2a0aa51c0681f64bbb61b23b52d1f"
   ],
   "titles": [
-    "Landratswahl - CDU gewinnt Stichwahl gegen AfD im brandenburgischen Landkreis Oberspreewald-Lausitz",
-    "Kulturstiftung des Hauses Hessen - Landesregierung in Wiesbaden prüft Angebot für Schlösser, Parks und Museen",
-    "Minneapolis: Amerika im Notstand?",
     "Saudi-Arabien-Reise - Bundesumweltminister Schneider trifft saudischen Amtskollegen",
     "Ukraine-Krieg - Litauen beschuldigt Russland, nicht an Frieden interessiert zu sein - Verhandlungen in Abu Dhabi sollen diese Woche weitergehen",
     "Gazastreifen - Israel sucht nach Leiche von letzter Geisel",
@@ -3003,12 +3000,12 @@
     "Medien - Start der \"Ostdeutschen Allgemeinen Zeitung\"",
     "Florida - Flughafen in Palm Beach soll nach Trump benannt werden",
     "Türkei - Kulturstaatsminister Weimer fordert Freilassung des festgenommenen Deutsche-Welle-Journalisten Alican Uludağ",
-    "Deutschland-Blog: CDU-Parteitag in Stuttgart beginnt"
+    "Deutschland-Blog: CDU-Parteitag in Stuttgart beginnt",
+    "Epstein-Ermittlungen - Polizei durchsucht früheres Anwesen von Ex-Prinz Andrew",
+    "Seltene Schale - Kunstschätze in Dresden erneut im Visier von Kriminellen",
+    "Deutschland-Blog: Großer Ap­plaus für Merkel auf CDU-Parteitag"
   ],
   "hashes": [
-    "a608cda8aa270f3ba07c2a8b2317576a",
-    "b2a0d76423d44e56949e3d27e2fbdd3b",
-    "4402e4b3892695cff739d9468a4ee61f",
     "d49b6d88b8898a947bf77161da8bb706",
     "ae71e57f969ad118e872185f71cd1e8c",
     "86642e4b9eae95920daa5618834a22c9",
@@ -4005,6 +4002,9 @@
     "c79d8833874b6b298ddf8ea64d37d28f",
     "7554ed995309fe31710674870a783b4f",
     "c28cec713602286eb64bb8706032c436",
-    "4a146fd606d260d61246617b216d6caf"
+    "4a146fd606d260d61246617b216d6caf",
+    "81c303fde758c578430916d5577d6244",
+    "72f2aa7a911417df683c2a33c87b9694",
+    "191098ad579c3a4fba740fc69ecb24a4"
   ]
 }
