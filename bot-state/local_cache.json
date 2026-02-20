@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/ukrainischer-luftangriff-braende-in-zwei-russischen-betrieben-100.html",
-    "https://www.deutschlandfunk.de/digitales-tool-geplant-um-arztkontakte-zu-verringern-100.html",
-    "https://www.spiegel.de/wirtschaft/verteidigung-viele-deutsche-firmen-sehen-nachholbedarf-fuer-krisen-und-kriegsfall-a-e9381d76-fd0a-4d6b-a7f1-1b4f1564b274#ref=rss",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/cannabis-schmuggel-donald-trump-der-drogenpraesident-110825318.html",
     "https://www.deutschlandfunk.de/ministerpraesident-schweitzer-spd-kritisiert-cdu-plaene-zur-einschraenkung-des-teilzeit-anspruchs-100.html",
     "https://www.deutschlandfunk.de/mehr-als-100-weitere-politische-gefangene-in-venezuela-freigekommen-100.html",
     "https://www.deutschlandfunk.de/proteste-in-mehreren-staedten-obama-werte-der-nation-werden-zunehmend-angegriffen-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/bundeskanzler-merz-auf-cdu-bundesparteitag-grosse-fragen-unserer-zeit-koennen-nur-europaeisch-beantw-100.html",
     "https://www.deutschlandfunk.de/polen-tritt-aus-konvention-zum-verbot-von-antipersonenminen-aus-100.html",
     "https://www.deutschlandfunk.de/frankreich-frischt-alte-tgv-zuege-auf-102.html",
-    "https://www.faz.net/aktuell/politik/inland/vetternwirtschaft-in-der-afd-weidel-will-schaerfere-regeln-110841164.html"
+    "https://www.faz.net/aktuell/politik/inland/vetternwirtschaft-in-der-afd-weidel-will-schaerfere-regeln-110841164.html",
+    "https://www.deutschlandfunk.de/umweltminister-schneider-fordert-mehr-gratis-co2-zertifikate-fuer-chemieindustrie-100.html",
+    "https://www.deutschlandfunk.de/eu-bund-darf-rosneft-deutschland-uebernehmen-102.html",
+    "https://www.deutschlandfunk.de/haftbefehl-gegen-deutsche-welle-reporter-alican-uluda-erlassen-bundesregierung-fordert-freilassung-104.html",
+    "https://www.deutschlandfunk.de/rundfunkbeitrag-soll-um-28-cent-steigen-100.html"
   ],
   "content_hashes": [
-    "df90259e2040f076b009c5b3bfe2bae7",
-    "50fc986063c3312d904c82df148c7432",
-    "47455c749785b5878f1a2244fcbb9f12",
-    "97431e12c2dfb463621465a3d61aefde",
     "4e43a18a41e6f1f3f0ee60f5401a391d",
     "6a1e635ec3c3dde9e0e6e8e5c0d40a52",
     "de39668d9acabb3da4d78d26bd814ec6",
@@ -2001,13 +1997,13 @@
     "37f9e4231d010a9f035636905d056718",
     "ed7c97949c304e22b6b8a464d6a62c89",
     "3b53bd9aefb3663b5c1a393b9538a7c9",
-    "c47f271c706ee1f2895c14c56f06ade8"
+    "c47f271c706ee1f2895c14c56f06ade8",
+    "c10ffbb67c1be76f8af050555a50e222",
+    "990cf37e51d40535aef631b22fa9cc35",
+    "1e95d6191a75efa20649c4a7ba7de924",
+    "cfc4f844c6ab1444a377fe22abbe8568"
   ],
   "titles": [
-    "Ukraine-Krieg - Ukrainischer Luftangriff: Brände in zwei russischen Betrieben",
-    "Krankenkassen - Digitales Tool geplant, um Arztkontakte zu verringern",
-    "Verteidigung: Viele deutsche Firmen sehen Nachholbedarf für Krisen- und Kriegsfall",
-    "Cannabisschmuggel: Donald Trump, der Drogenpräsident",
     "Rheinland-Pfalz - Ministerpräsident Schweitzer (SPD) kritisiert CDU-Pläne zur Einschränkung des Teilzeit-Anspruchs",
     "Angaben von Menschenrechtlern - Mehr als 100 weitere politische Gefangene in Venezuela freigekommen",
     "Nach tödlichen Schüssen in Minneapolis - Proteste in mehreren Städten - Obama: Werte der Nation werden zunehmend angegriffen",
@@ -3003,13 +2999,13 @@
     "Stuttgart - Bundeskanzler Merz auf CDU-Bundesparteitag: Große Fragen unserer Zeit können nur europäisch beantwortet werden",
     "Schutz der Ostflanke - Polen tritt aus Konvention zum Verbot von Antipersonenminen aus",
     "Mehr Fahrgäste - Frankreich frischt alte TGV-Züge auf",
-    "Fälle in der AFD: Weidel für schärfere Regeln gegen Vetternwirtschaft"
+    "Fälle in der AFD: Weidel für schärfere Regeln gegen Vetternwirtschaft",
+    "Emissionshandel - Umweltminister Schneider fordert mehr Gratis-CO2-Zertifikate für Chemieindustrie",
+    "Entscheidung - EU: Bund darf Rosneft Deutschland übernehmen",
+    "Türkei - Haftbefehl gegen Deutsche-Welle-Reporter Alican Uludağ erlassen - Bundesregierung fordert Freilassung",
+    "KEF-Empfehlung - Rundfunkbeitrag soll um 28 Cent steigen"
   ],
   "hashes": [
-    "e1ea412d987885c693f45f02420f64d3",
-    "c23b8d96f34e3d69fa1f3a158451d4b3",
-    "4906ad2208e6b27240bea542d5b81b54",
-    "4b8cee6e5915143c95dff26167eceb28",
     "ed01a299a16c669fa00741b8ea916601",
     "ab7e467875a1516471cd7ba8482356cf",
     "6b38d185829bbe70762651d8e50be41a",
@@ -4005,6 +4001,10 @@
     "5a62a3b2f8f2a49eb267537932e1e9b4",
     "1aa5e2b3614234d21d57be0bb367faa1",
     "940c255a2626d7ef84d730fa320a945f",
-    "2a83c2adba4da881eb6642cfaec0ae78"
+    "2a83c2adba4da881eb6642cfaec0ae78",
+    "8292597034f69db395730d97d6366564",
+    "bf78c0fcba68d85d5f6fe0dca011be1e",
+    "1bd3c906c2dde698acb4a034c457b8ea",
+    "6aa73ec2c0ab43703a39c19fac52f956"
   ]
 }
