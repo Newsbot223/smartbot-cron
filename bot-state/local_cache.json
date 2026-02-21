@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/afd-verteidigungspolitiker-lucassen-wegen-wehrdienst-rede-und-kritik-an-hoecke-vom-eigenen-fraktions-100.html",
-    "https://www.deutschlandfunk.de/wadephul-europa-bei-nuklearer-abschreckung-noch-lange-von-den-usa-abhaengig-102.html",
     "https://www.deutschlandfunk.de/verhandlungen-ueber-freihandelsabkommen-zwischen-eu-und-indien-abgeschlossen-100.html",
     "https://www.deutschlandfunk.de/vielfaeltiges-gedenken-an-holocaust-100.html",
     "https://www.deutschlandfunk.de/bundesweiter-warnstreik-an-universitaetskliniken-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/konflikt-zwischen-usa-und-iran-europaeer-treffen-sicherheitsvorkehrungen-100.html",
     "https://www.deutschlandfunk.de/ig-metall-warnt-vor-weiteren-verlagerungen-ins-ausland-100.html",
     "https://www.deutschlandfunk.de/gruene-dobrindt-laesst-leitung-wichtiger-bundesbehoerden-monatelang-unbesetzt-100.html",
-    "https://www.deutschlandfunk.de/bewaffnete-toeten-mindestens-50-menschen-100.html"
+    "https://www.deutschlandfunk.de/bewaffnete-toeten-mindestens-50-menschen-100.html",
+    "https://www.deutschlandfunk.de/ukrainische-drohnen-treffen-russische-raketenfabrik-100.html",
+    "https://www.deutschlandfunk.de/britische-regierung-erwaegt-ehemaligen-prinz-andrew-aus-thronfolge-zu-streichen-100.html"
   ],
   "content_hashes": [
-    "184e592fa1d0d4515892137d5c5bef8c",
-    "88628c28deb31a113a413d98b6e240e8",
     "90983b6f7faa12982b60b550f3ca5248",
     "53876586aa76fa08168233f9b4cf8112",
     "685f9d21c49545f9e9a7f000e654fb12",
@@ -2001,11 +1999,11 @@
     "083e09efbe560c3d2e76bb70bf4ae857",
     "4490ac940e9536503e92894583a7d754",
     "aaa6e8110c7c05bc0ebf481ae9d818aa",
-    "21f2f633e5cd7ed2fa40bca73289f858"
+    "21f2f633e5cd7ed2fa40bca73289f858",
+    "f6fdf1f600462f7b505635928a60fbc5",
+    "affafcfcb62310d55c475fd40bc2622b"
   ],
   "titles": [
-    "Bundestag - AfD-Verteidigungspolitiker Lucassen wegen Wehrdienst-Rede und Kritik an Höcke vom eigenen Fraktionsvorstand missbilligt",
-    "Außenminister in Schweden - Wadephul: Europa bei nuklearer Abschreckung noch lange von den USA abhängig",
     "Gipfeltreffen - Verhandlungen über Freihandelsabkommen zwischen EU und Indien abgeschlossen",
     "Zahlreiche Veranstaltungen - Vielfältiges Gedenken an Holocaust",
     "Tarifverhandlungen - Bundesweiter Warnstreik an Universitätskliniken",
@@ -3003,11 +3001,11 @@
     "Nahost - Konflikt zwischen USA und Iran: Europäer treffen Sicherheitsvorkehrungen",
     "Wirtschaftskrise - IG Metall warnt vor weiteren Verlagerungen ins Ausland",
     "BPB und BBK - Grüne: Dobrindt lässt Leitung wichtiger Bundesbehörden monatelang unbesetzt",
-    "Nigeria - Bewaffnete töten mindestens 50 Menschen"
+    "Nigeria - Bewaffnete töten mindestens 50 Menschen",
+    "Ukraine-Krieg - Ukrainische Drohnen treffen russische Raketenfabrik",
+    "Epstein-Affäre - Britische Regierung erwägt ehemaligen Prinz Andrew aus Thronfolge zu streichen"
   ],
   "hashes": [
-    "f88ec22d781621d632c94fce8232fc77",
-    "f26f6b5f28b5a1e3df9cdcb6f5ad6995",
     "2c4d5e33562fc55d0934f3a7e3d4edb5",
     "0db5f2f14313ac07d0cac5b00813f40b",
     "41cc6f4326dc1ad61553d5c362d9d7ed",
@@ -4005,6 +4003,8 @@
     "cbd2ce0f7206382687280966bc94d599",
     "e98f3a420a321f8509200c2cad398d72",
     "64ab200a97f09c59295c92498ec177be",
-    "e31355d1f2320a748dc5e7e683660785"
+    "e31355d1f2320a748dc5e7e683660785",
+    "0e294316fc42d4059bd5fba5bd933550",
+    "c3ef3c4a891129dc9cf92928e91aa94d"
   ]
 }
