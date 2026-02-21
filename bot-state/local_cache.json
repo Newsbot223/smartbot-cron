@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/auswaertiges-amt-erweitert-reisehinweise-fuer-die-usa-trump-ernennt-neuen-leiter-fuer-ice-einsaetze--100.html",
-    "https://www.deutschlandfunk.de/marburg-virus-ausbruch-in-aethiopien-laut-weltgesundheitsorganisation-eingedaemmt-102.html",
-    "https://www.deutschlandfunk.de/kommissionsvorschlag-fuer-sozialleistungen-buergergeld-wohngeld-und-kinderzuschlag-sollten-gebuendel-100.html",
-    "https://www.deutschlandfunk.de/eu-und-indien-einig-ueber-geplantes-handelsabkommen-100.html",
     "https://www.deutschlandfunk.de/afd-verteidigungspolitiker-lucassen-wegen-wehrdienst-rede-und-kritik-an-hoecke-vom-eigenen-fraktions-100.html",
     "https://www.deutschlandfunk.de/wadephul-europa-bei-nuklearer-abschreckung-noch-lange-von-den-usa-abhaengig-102.html",
     "https://www.deutschlandfunk.de/verhandlungen-ueber-freihandelsabkommen-zwischen-eu-und-indien-abgeschlossen-100.html",
@@ -999,13 +995,13 @@
     "https://www.aljazeera.com/video/inside-story/2026/2/20/whats-next-for-gaza-after-trumps-board-of-peace-meets-in-washington?traffic_source=rss",
     "https://www.deutschlandfunk.de/israel-angriff-auf-hisbollah-ziele-im-libanon-bericht-ueber-tote-100.html",
     "https://www.deutschlandfunk.de/bewaffnete-toeten-in-nigeria-mindestens-50-menschen-100.html",
-    "https://www.deutschlandfunk.de/cdu-beendet-parteitag-mit-antraegen-zu-sachthemen-merz-als-vorsitzender-bestaetigt-102.html"
+    "https://www.deutschlandfunk.de/cdu-beendet-parteitag-mit-antraegen-zu-sachthemen-merz-als-vorsitzender-bestaetigt-102.html",
+    "https://www.deutschlandfunk.de/konflikt-zwischen-usa-und-iran-europaeer-treffen-sicherheitsvorkehrungen-100.html",
+    "https://www.deutschlandfunk.de/ig-metall-warnt-vor-weiteren-verlagerungen-ins-ausland-100.html",
+    "https://www.deutschlandfunk.de/gruene-dobrindt-laesst-leitung-wichtiger-bundesbehoerden-monatelang-unbesetzt-100.html",
+    "https://www.deutschlandfunk.de/bewaffnete-toeten-mindestens-50-menschen-100.html"
   ],
   "content_hashes": [
-    "6c8a01e8778abf2616dfbd6acf35e2d7",
-    "637a3d1a71c200b79959cb18929e63c1",
-    "27efdb8c5507b2aad74f2310585356cd",
-    "9232de51f187bc00435bc05855818c47",
     "184e592fa1d0d4515892137d5c5bef8c",
     "88628c28deb31a113a413d98b6e240e8",
     "90983b6f7faa12982b60b550f3ca5248",
@@ -2001,13 +1997,13 @@
     "48a77adfbfa08609a42b686e759b81f1",
     "84494526a98fd8d58106cad4c082022f",
     "bb32888e95ac1102c8c51e802bc2a622",
-    "b5aaa7928b6d19d852d8070ed5031b81"
+    "b5aaa7928b6d19d852d8070ed5031b81",
+    "083e09efbe560c3d2e76bb70bf4ae857",
+    "4490ac940e9536503e92894583a7d754",
+    "aaa6e8110c7c05bc0ebf481ae9d818aa",
+    "21f2f633e5cd7ed2fa40bca73289f858"
   ],
   "titles": [
-    "\"Ansammlungen meiden\" - Auswärtiges Amt erweitert Reisehinweise für die USA - Trump ernennt neuen Leiter für ICE-Einsätze in Minnesota",
-    "Ostafrika - Marburg-Virus: Ausbruch in Äthiopien laut Weltgesundheitsorganisation eingedämmt",
-    "Abschlussbericht - Kommissionsvorschlag für Sozialleistungen: Bürgergeld, Wohngeld und Kinderzuschlag sollten gebündelt werden",
-    "Vor Gipfeltreffen - EU und Indien einig über geplantes Handelsabkommen",
     "Bundestag - AfD-Verteidigungspolitiker Lucassen wegen Wehrdienst-Rede und Kritik an Höcke vom eigenen Fraktionsvorstand missbilligt",
     "Außenminister in Schweden - Wadephul: Europa bei nuklearer Abschreckung noch lange von den USA abhängig",
     "Gipfeltreffen - Verhandlungen über Freihandelsabkommen zwischen EU und Indien abgeschlossen",
@@ -3003,13 +2999,13 @@
     "What’s next for Gaza after Trump’s Board of Peace meets in Washington?",
     "Naher Osten - Israel: Angriff auf Hisbollah-Ziele im Libanon - Bericht über Tote",
     "Bewaffnete töten in Nigeria mindestens 50 Menschen",
-    "Stuttgart - CDU beendet Parteitag mit Anträgen zu Sachthemen - Merz als Vorsitzender bestätigt"
+    "Stuttgart - CDU beendet Parteitag mit Anträgen zu Sachthemen - Merz als Vorsitzender bestätigt",
+    "Nahost - Konflikt zwischen USA und Iran: Europäer treffen Sicherheitsvorkehrungen",
+    "Wirtschaftskrise - IG Metall warnt vor weiteren Verlagerungen ins Ausland",
+    "BPB und BBK - Grüne: Dobrindt lässt Leitung wichtiger Bundesbehörden monatelang unbesetzt",
+    "Nigeria - Bewaffnete töten mindestens 50 Menschen"
   ],
   "hashes": [
-    "459e14fede98a46f64cff2357ac8210f",
-    "0713b848ee2f0a0fc8f5c7fe16f01ff2",
-    "2e6323c23a829464eba789a3d39f88ea",
-    "a6b09e0f8b34fe4448b71307ff243411",
     "f88ec22d781621d632c94fce8232fc77",
     "f26f6b5f28b5a1e3df9cdcb6f5ad6995",
     "2c4d5e33562fc55d0934f3a7e3d4edb5",
@@ -4005,6 +4001,10 @@
     "ea6a919ed4ab9f7270f8bf0d4b88f5de",
     "8ecb3d41ee05c0924019f652c8d9373c",
     "9ee38b2da89b2aae6b61142f078298f9",
-    "4f15e51d36198bd8fd11473ad3c17728"
+    "4f15e51d36198bd8fd11473ad3c17728",
+    "cbd2ce0f7206382687280966bc94d599",
+    "e98f3a420a321f8509200c2cad398d72",
+    "64ab200a97f09c59295c92498ec177be",
+    "e31355d1f2320a748dc5e7e683660785"
   ]
 }
