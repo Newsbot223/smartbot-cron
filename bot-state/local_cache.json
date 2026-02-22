@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/traut-sich-die-spd-an-den-umbau-des-sozialstaats-accg-110826114.html",
-    "https://www.deutschlandfunk.de/gruene-klagen-gegen-neue-regelung-zu-sicheren-herkunftsstaaten-100.html",
     "https://www.deutschlandfunk.de/mehr-als-300-faelle-sexualisierter-gewalt-unter-christlichen-pfadfindern-100.html",
     "https://www.deutschlandfunk.de/arbeitslosenquote-in-spanien-auf-tiefstem-stand-seit-finanzkrise-100.html",
     "https://www.faz.net/aktuell/politik/inland/nrw-ministerin-paul-tritt-nach-kritik-wegen-solingen-zurueck-110826228.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/mehr-als-1-500-politische-gefangene-beantragen-freilassung-100.html",
     "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-im-grenzgebiet-zu-afghanistan-angegriffen-100.html",
     "https://www.deutschlandfunk.de/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-accg-200561881.html"
+    "https://www.faz.net/aktuell/politik/inland/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-accg-200561881.html",
+    "https://www.deutschlandfunk.de/explosionen-in-kiew-nach-luftalarm-russischer-raketenangriff-auf-keksfabrik-im-osten-100.html",
+    "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-in-afghanistan-angegriffen-100.html"
   ],
   "content_hashes": [
-    "54c1e1c616f4e20dc2143e2bb441a4a3",
-    "53d77379ddb54fdbad2525b3b9c1d3d9",
     "b0fda9b9f86e65c0a54a60e846450795",
     "40606f55678bf63e79360bc596c78462",
     "fdfd8cfb3432fe30b845ff45e315df15",
@@ -2001,11 +1999,11 @@
     "16223ac18261fd91596612e86538cd10",
     "0049806b3ed84723c74070c9145dc655",
     "c072d33cdf625fe8e8600ff73fdeb90c",
-    "b84aed48cd094b67ffaa5598513c870b"
+    "b84aed48cd094b67ffaa5598513c870b",
+    "07ccf527eaa3beb661df674cb392fe61",
+    "759133b2776c6503efd1d334f2137cc5"
   ],
   "titles": [
-    "Kommission macht Vorschläge: Traut sich die SPD an den Umbau des Sozialstaats?",
-    "Migrationspolitik - Grüne klagen gegen neue Regelung zu sicheren Herkunftsstaaten",
     "Aktuelle Studie - Mehr als 300 Fälle sexualisierter Gewalt unter christlichen Pfadfindern",
     "Konjunkturbelebung - Arbeitslosenquote in Spanien auf tiefstem Stand seit Finanzkrise 2008",
     "Anderthalb Jahre nach Solingen: Nordrhein-Westfalens Flüchtlingsministerin Paul tritt zurück",
@@ -3003,11 +3001,11 @@
     "Amnestiegesetz in Venezuela - Mehr als 1.500 politische Gefangene beantragen Freilassung",
     "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen im Grenzgebiet zu Afghanistan angegriffen",
     "Integration - Dobrindt: Asylbewerber sollen schneller arbeiten dürfen",
-    "Dobrint plant: Asylbewerber sollen schneller arbeiten dürfen"
+    "Dobrint plant: Asylbewerber sollen schneller arbeiten dürfen",
+    "Ukraine - Explosionen in Kiew nach Luftalarm - russischer Raketenangriff auf Keksfabrik im Osten",
+    "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen in Afghanistan angegriffen"
   ],
   "hashes": [
-    "f3cd921a24484a8179da837081244f04",
-    "9bf555586380fd3846459b442d47e1b9",
     "25269f8d33559818776c2a16d8d7ac64",
     "dab9b764b88ba2396e54c20f0738ba29",
     "a2234149e9788c3268a4b617b886287a",
@@ -4005,6 +4003,8 @@
     "9dad8c44413e7b8cae28970a588b179d",
     "a52c2274c2f7d84fec75f10510982af5",
     "5ece78ba49a0edde85e30d96f47d94f8",
-    "32abf76102acc3d70bebf02b0d515bc6"
+    "32abf76102acc3d70bebf02b0d515bc6",
+    "3335c6d2bf17bbc056290cd630176404",
+    "1bd946a30cc1760d1ec2a03d0d5712a5"
   ]
 }
