@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-als-300-faelle-sexualisierter-gewalt-unter-christlichen-pfadfindern-100.html",
-    "https://www.deutschlandfunk.de/arbeitslosenquote-in-spanien-auf-tiefstem-stand-seit-finanzkrise-100.html",
-    "https://www.faz.net/aktuell/politik/inland/nrw-ministerin-paul-tritt-nach-kritik-wegen-solingen-zurueck-110826228.html",
     "https://www.deutschlandfunk.de/streiks-an-unikliniken-und-hochschulen-100.html",
     "https://www.deutschlandfunk.de/one-battle-after-another-und-blood-sinners-bei-bafta-nominierungen-vorn-102.html",
     "https://www.faz.net/aktuell/politik/inland/verfahren-gegen-tilman-kuban-eingestellt-kein-hinreichender-tatverdacht-200480322.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-100.html",
     "https://www.faz.net/aktuell/politik/inland/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-accg-200561881.html",
     "https://www.deutschlandfunk.de/explosionen-in-kiew-nach-luftalarm-russischer-raketenangriff-auf-keksfabrik-im-osten-100.html",
-    "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-in-afghanistan-angegriffen-100.html"
+    "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-in-afghanistan-angegriffen-100.html",
+    "https://www.deutschlandfunk.de/trump-will-globale-sonderabgabe-auf-15-prozent-erhoehen-112.html",
+    "https://www.deutschlandfunk.de/katholische-und-evangelische-kirche-starten-fastenaktionen-100.html",
+    "https://www.deutschlandfunk.de/scharfe-kritik-von-aerzten-an-cdu-wegen-absage-an-zuckersteuer-102.html"
   ],
   "content_hashes": [
-    "b0fda9b9f86e65c0a54a60e846450795",
-    "40606f55678bf63e79360bc596c78462",
-    "fdfd8cfb3432fe30b845ff45e315df15",
     "134f15bc585218b360e81183e1e321ac",
     "88699947b868c8c6be1c228d09c2a01f",
     "720a8a17e66c38e26c1d3646232979df",
@@ -2001,12 +1998,12 @@
     "c072d33cdf625fe8e8600ff73fdeb90c",
     "b84aed48cd094b67ffaa5598513c870b",
     "07ccf527eaa3beb661df674cb392fe61",
-    "759133b2776c6503efd1d334f2137cc5"
+    "759133b2776c6503efd1d334f2137cc5",
+    "c42416fb2503773b7a21f2ea7f8a7f1e",
+    "1867533017736048f5dec2967ed0667d",
+    "91a651c00ec1a4a42e0ad5a5f608d55a"
   ],
   "titles": [
-    "Aktuelle Studie - Mehr als 300 Fälle sexualisierter Gewalt unter christlichen Pfadfindern",
-    "Konjunkturbelebung - Arbeitslosenquote in Spanien auf tiefstem Stand seit Finanzkrise 2008",
-    "Anderthalb Jahre nach Solingen: Nordrhein-Westfalens Flüchtlingsministerin Paul tritt zurück",
     "Aufruf von Verdi - Streiks an Unikliniken und Hochschulen",
     "Filmpreis - \"One Battle After Another\" und \"Blood & Sinners\" bei Bafta-Nominierungen vorn",
     "Staatsanwaltschaft Konstanz: Verfahren gegen Tilman Kuban eingestellt",
@@ -3003,12 +3000,12 @@
     "Integration - Dobrindt: Asylbewerber sollen schneller arbeiten dürfen",
     "Dobrint plant: Asylbewerber sollen schneller arbeiten dürfen",
     "Ukraine - Explosionen in Kiew nach Luftalarm - russischer Raketenangriff auf Keksfabrik im Osten",
-    "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen in Afghanistan angegriffen"
+    "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen in Afghanistan angegriffen",
+    "Zoll-Chaos - Trump will \"globale\" Sonderabgabe auf 15 Prozent erhöhen",
+    "Christentum - Katholische und Evangelische Kirche starten Fastenaktionen",
+    "Marburger Bund - Scharfe Kritik von Ärzten an CDU wegen Absage an Zuckersteuer"
   ],
   "hashes": [
-    "25269f8d33559818776c2a16d8d7ac64",
-    "dab9b764b88ba2396e54c20f0738ba29",
-    "a2234149e9788c3268a4b617b886287a",
     "1abf8163adf880d0459652f7ab161061",
     "90e284407dc5149a678b31866940bfc7",
     "08f847a176a56d1030a7d591d254c8f8",
@@ -4005,6 +4002,9 @@
     "5ece78ba49a0edde85e30d96f47d94f8",
     "32abf76102acc3d70bebf02b0d515bc6",
     "3335c6d2bf17bbc056290cd630176404",
-    "1bd946a30cc1760d1ec2a03d0d5712a5"
+    "1bd946a30cc1760d1ec2a03d0d5712a5",
+    "9501595691128fc396fcd9181061c8f8",
+    "7acc26fbd2555eec388750838719a235",
+    "254d0f6743ca22c49ee5477e12e49b25"
   ]
 }
