@@ -1,6 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/streiks-an-unikliniken-und-hochschulen-100.html",
     "https://www.deutschlandfunk.de/one-battle-after-another-und-blood-sinners-bei-bafta-nominierungen-vorn-102.html",
     "https://www.faz.net/aktuell/politik/inland/verfahren-gegen-tilman-kuban-eingestellt-kein-hinreichender-tatverdacht-200480322.html",
     "https://www.deutschlandfunk.de/bundesrichter-laedt-leiter-der-einwanderungsbehoerde-ice-vor-100.html",
@@ -999,10 +998,10 @@
     "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-in-afghanistan-angegriffen-100.html",
     "https://www.deutschlandfunk.de/trump-will-globale-sonderabgabe-auf-15-prozent-erhoehen-112.html",
     "https://www.deutschlandfunk.de/katholische-und-evangelische-kirche-starten-fastenaktionen-100.html",
-    "https://www.deutschlandfunk.de/scharfe-kritik-von-aerzten-an-cdu-wegen-absage-an-zuckersteuer-102.html"
+    "https://www.deutschlandfunk.de/scharfe-kritik-von-aerzten-an-cdu-wegen-absage-an-zuckersteuer-102.html",
+    "https://www.spiegel.de/politik/asyl-alexander-dobrindt-plant-schnelleren-zugang-zum-arbeitsmarkt-fuer-asylsuchende-a-b9faa565-77c3-42d4-aaf5-932487126e1d#ref=rss"
   ],
   "content_hashes": [
-    "134f15bc585218b360e81183e1e321ac",
     "88699947b868c8c6be1c228d09c2a01f",
     "720a8a17e66c38e26c1d3646232979df",
     "e78303e7ddc63f4b5b593ad62e17e739",
@@ -2001,10 +2000,10 @@
     "759133b2776c6503efd1d334f2137cc5",
     "c42416fb2503773b7a21f2ea7f8a7f1e",
     "1867533017736048f5dec2967ed0667d",
-    "91a651c00ec1a4a42e0ad5a5f608d55a"
+    "91a651c00ec1a4a42e0ad5a5f608d55a",
+    "ffdceb9bafd1236d3d43bd62cc5cc10e"
   ],
   "titles": [
-    "Aufruf von Verdi - Streiks an Unikliniken und Hochschulen",
     "Filmpreis - \"One Battle After Another\" und \"Blood & Sinners\" bei Bafta-Nominierungen vorn",
     "Staatsanwaltschaft Konstanz: Verfahren gegen Tilman Kuban eingestellt",
     "Einsatz in Minnesota - Bundesrichter lädt Leiter der Einwanderungsbehörde ICE vor",
@@ -3003,10 +3002,10 @@
     "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen in Afghanistan angegriffen",
     "Zoll-Chaos - Trump will \"globale\" Sonderabgabe auf 15 Prozent erhöhen",
     "Christentum - Katholische und Evangelische Kirche starten Fastenaktionen",
-    "Marburger Bund - Scharfe Kritik von Ärzten an CDU wegen Absage an Zuckersteuer"
+    "Marburger Bund - Scharfe Kritik von Ärzten an CDU wegen Absage an Zuckersteuer",
+    "Asyl: Alexander Dobrindt plant schnelleren Zugang zum Arbeitsmarkt für Asylsuchende"
   ],
   "hashes": [
-    "1abf8163adf880d0459652f7ab161061",
     "90e284407dc5149a678b31866940bfc7",
     "08f847a176a56d1030a7d591d254c8f8",
     "b238295bd368175ed656b0f5fded1f76",
@@ -4005,6 +4004,7 @@
     "1bd946a30cc1760d1ec2a03d0d5712a5",
     "9501595691128fc396fcd9181061c8f8",
     "7acc26fbd2555eec388750838719a235",
-    "254d0f6743ca22c49ee5477e12e49b25"
+    "254d0f6743ca22c49ee5477e12e49b25",
+    "733cd8662dd34a0637c74c5a2342678d"
   ]
 }
