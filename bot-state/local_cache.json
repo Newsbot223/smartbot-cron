@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/verkehrsunternehmen-trotz-preiserhoehung-bisher-keine-kuendigungswelle-100.html",
-    "https://www.deutschlandfunk.de/deutschland-und-frankreich-rufen-neues-e6-format-ins-leben-100.html",
-    "https://www.deutschlandfunk.de/oekonomin-veronika-grimm-wird-herausgeberin-bei-the-pioneer-102.html",
     "https://www.faz.net/aktuell/politik/inland/traut-sich-die-spd-an-den-umbau-des-sozialstaats-accg-110826114.html",
     "https://www.deutschlandfunk.de/gruene-klagen-gegen-neue-regelung-zu-sicheren-herkunftsstaaten-100.html",
     "https://www.deutschlandfunk.de/mehr-als-300-faelle-sexualisierter-gewalt-unter-christlichen-pfadfindern-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/tausende-bei-trauermarsch-fuer-rechtsextremen-aktivisten-100.html",
     "https://www.deutschlandfunk.de/kiews-sicherheitsdienste-haben-offenbar-attentate-auf-prominente-ukrainer-vereitelt-102.html",
     "https://www.deutschlandfunk.de/ukraine-wirft-ungarn-und-slowakei-erpressung-vor-100.html",
-    "https://www.deutschlandfunk.de/mehr-als-1-500-politische-gefangene-beantragen-freilassung-100.html"
+    "https://www.deutschlandfunk.de/mehr-als-1-500-politische-gefangene-beantragen-freilassung-100.html",
+    "https://www.deutschlandfunk.de/ministerium-armee-hat-taliban-und-is-stellungen-im-grenzgebiet-zu-afghanistan-angegriffen-100.html",
+    "https://www.deutschlandfunk.de/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-100.html",
+    "https://www.faz.net/aktuell/politik/inland/dobrindt-asylbewerber-sollen-schneller-arbeiten-duerfen-accg-200561881.html"
   ],
   "content_hashes": [
-    "ff004a0e0e676b66b9db5140e90ff10e",
-    "93e0433ab3f4213dfdc0b50388737ba1",
-    "cbf619ab112b80ff3dc9eb51cddb2193",
     "54c1e1c616f4e20dc2143e2bb441a4a3",
     "53d77379ddb54fdbad2525b3b9c1d3d9",
     "b0fda9b9f86e65c0a54a60e846450795",
@@ -2001,12 +1998,12 @@
     "906b1063423730fb3f63e47327004574",
     "4a9db24dd5e0437dd4434ffa1bb3fefa",
     "ae3e18c4372ae7b92da8d79d1497e37c",
-    "16223ac18261fd91596612e86538cd10"
+    "16223ac18261fd91596612e86538cd10",
+    "0049806b3ed84723c74070c9145dc655",
+    "c072d33cdf625fe8e8600ff73fdeb90c",
+    "b84aed48cd094b67ffaa5598513c870b"
   ],
   "titles": [
-    "Deutschlandticket - Verkehrsunternehmen: Trotz Preiserhöhung bisher keine Kündigungswelle",
-    "Europas Wettbewerbsfähigkeit stärken - Deutschland und Frankreich rufen neues E6-Format ins Leben",
-    "Medien - Ökonomin Veronika Grimm wird Herausgeberin bei \"The Pioneer\"",
     "Kommission macht Vorschläge: Traut sich die SPD an den Umbau des Sozialstaats?",
     "Migrationspolitik - Grüne klagen gegen neue Regelung zu sicheren Herkunftsstaaten",
     "Aktuelle Studie - Mehr als 300 Fälle sexualisierter Gewalt unter christlichen Pfadfindern",
@@ -3003,12 +3000,12 @@
     "Frankreich - Tausende bei Trauermarsch für rechtsextremen Aktivisten",
     "Ukraine - Kiews Sicherheitsdienste haben offenbar Attentate auf prominente Ukrainer vereitelt",
     "Konflikt um Öl-Lieferungen - Ukraine wirft Ungarn und Slowakei Erpressung vor",
-    "Amnestiegesetz in Venezuela - Mehr als 1.500 politische Gefangene beantragen Freilassung"
+    "Amnestiegesetz in Venezuela - Mehr als 1.500 politische Gefangene beantragen Freilassung",
+    "Pakistan - Ministerium: Armee hat Taliban- und IS-Stellungen im Grenzgebiet zu Afghanistan angegriffen",
+    "Integration - Dobrindt: Asylbewerber sollen schneller arbeiten dürfen",
+    "Dobrint plant: Asylbewerber sollen schneller arbeiten dürfen"
   ],
   "hashes": [
-    "c92ec79a6d8680757ea702bd56e326f2",
-    "5dab89090ef9bbd46e5a7dd220b698d1",
-    "79433ceb0ebb01be52df5b6df942e887",
     "f3cd921a24484a8179da837081244f04",
     "9bf555586380fd3846459b442d47e1b9",
     "25269f8d33559818776c2a16d8d7ac64",
@@ -4005,6 +4002,9 @@
     "dc35e91f3a46cbf93f514cc4f0c02196",
     "7bdd82a0785f108a3b2c984a4b1cbac2",
     "104500fd5a8a613eb32ab3b1f2a475d7",
-    "9dad8c44413e7b8cae28970a588b179d"
+    "9dad8c44413e7b8cae28970a588b179d",
+    "a52c2274c2f7d84fec75f10510982af5",
+    "5ece78ba49a0edde85e30d96f47d94f8",
+    "32abf76102acc3d70bebf02b0d515bc6"
   ]
 }
