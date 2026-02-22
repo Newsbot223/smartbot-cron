@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/bundesrichter-laedt-leiter-der-einwanderungsbehoerde-ice-vor-100.html",
-    "https://www.faz.net/aktuell/politik/inland/skandale-bei-fallschirmjaegern-bundeswehr-will-vertrauen-zurueckgewinnen-110826350.html",
-    "https://www.faz.net/aktuell/politik/usa-unter-trump/in-minneapolis-beugt-sich-trump-der-stimmung-110826327.html",
     "https://www.deutschlandfunk.de/regierung-uebersteht-im-haushaltsstreit-zwei-weitere-misstrauensabstimmungen-100.html",
     "https://www.deutschlandfunk.de/trump-kandidat-asfura-als-praesident-von-honduras-vereidigt-100.html",
     "https://www.deutschlandfunk.de/auschwitz-ueberlebender-warnt-vor-zunehmendem-hass-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/scharfe-kritik-von-aerzten-an-cdu-wegen-absage-an-zuckersteuer-102.html",
     "https://www.spiegel.de/politik/asyl-alexander-dobrindt-plant-schnelleren-zugang-zum-arbeitsmarkt-fuer-asylsuchende-a-b9faa565-77c3-42d4-aaf5-932487126e1d#ref=rss",
     "https://www.deutschlandfunk.de/vor-china-reise-des-bundeskanzlers-dihk-fordert-faire-wettbewerbsbedingungen-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-spd-dringt-auf-rasches-handeln-bei-social-media-verbot-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-spd-dringt-auf-rasches-handeln-bei-social-media-verbot-faz-110093143.html",
+    "https://www.deutschlandfunk.de/spd-fordert-cdu-zu-rascher-umsetzung-auf-102.html",
+    "https://www.deutschlandfunk.de/russland-attackiert-erneut-mit-raketen-und-drohnen-die-energieversorgung-selenskyj-mindestens-ein-to-100.html",
+    "https://www.deutschlandfunk.de/idw-oleksii-makeiev-100.html"
   ],
   "content_hashes": [
-    "e78303e7ddc63f4b5b593ad62e17e739",
-    "1ff79698e80863ab1fd94a28062b1e96",
-    "a623882bbaec18fd455f75268c58f485",
     "353d57275a284421dce54851c89ca1c0",
     "c07c652e23fe916d30b973224732f553",
     "9453a5cfba7359a54fa558ecc2c5c810",
@@ -2001,12 +1998,12 @@
     "91a651c00ec1a4a42e0ad5a5f608d55a",
     "ffdceb9bafd1236d3d43bd62cc5cc10e",
     "653acf46732596460266e2d9cb778c08",
-    "ab58e595c00cd382f9341d381586fe2f"
+    "ab58e595c00cd382f9341d381586fe2f",
+    "de8b29829646aed72bc6ae8e6bbda33d",
+    "3f3f0c11b481a9583129c0a5b6ef7db8",
+    "82077a4b3d13a1c18deacb78e04999d0"
   ],
   "titles": [
-    "Einsatz in Minnesota - Bundesrichter lädt Leiter der Einwanderungsbehörde ICE vor",
-    "Fallschirmjäger: So will die Bundeswehr Fehlverhalten bei der Luftlandetruppe begegnen",
-    "ICE-Einsatz in Minneapolis: Trump beugt sich der Stimmung",
     "Frankreich - Regierung übersteht im Haushaltsstreit zwei weitere Misstrauensabstimmungen",
     "Umstrittene Wahl - Trump-Kandidat Asfura als Präsident von Honduras vereidigt",
     "Holocaust-Gedenktag - Auschwitz-Überlebender warnt vor zunehmendem Hass",
@@ -3003,12 +3000,12 @@
     "Marburger Bund - Scharfe Kritik von Ärzten an CDU wegen Absage an Zuckersteuer",
     "Asyl: Alexander Dobrindt plant schnelleren Zugang zum Arbeitsmarkt für Asylsuchende",
     "Außenhandel - Vor China-Reise des Bundeskanzlers: DIHK fordert faire Wettbewerbsbedingungen",
-    "Deutschland-Blog: SPD dringt auf rasches Handeln bei Social-Media-Verbot"
+    "Deutschland-Blog: SPD dringt auf rasches Handeln bei Social-Media-Verbot",
+    "Social-Media-Verbot für Kinder - SPD fordert CDU zu rascher Umsetzung auf",
+    "Ukrainekrieg - Russland attackiert erneut mit Raketen und Drohnen die Energieversorgung - Selenskyj: mindestens ein Toter und acht Verletzte",
+    "Botschafter der Ukraine - Deutsche Unternehmen finanzieren russische Raketen"
   ],
   "hashes": [
-    "b238295bd368175ed656b0f5fded1f76",
-    "894acb5801d11b3e1eb5cf2d641fc2be",
-    "82d3de962e29550adf70ced6491e625f",
     "0086cbceac2e6393261af7be559e147c",
     "1825fc038b51420a74cb1b6c50e2442c",
     "85a09893333f5f827522e5ede0db3b23",
@@ -4005,6 +4002,9 @@
     "254d0f6743ca22c49ee5477e12e49b25",
     "733cd8662dd34a0637c74c5a2342678d",
     "dee8a7071f42a3912892200be62b1629",
-    "22a83cfc55f3ed121e793bde5e5f4cf6"
+    "22a83cfc55f3ed121e793bde5e5f4cf6",
+    "5dcbd4831d13f959a2d5ff1869d81e36",
+    "5990e2d5367f460f78dbab4f606b0c78",
+    "d746029300914e80c429e87875298fca"
   ]
 }
