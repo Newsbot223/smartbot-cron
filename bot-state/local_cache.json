@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-landesvorsitzender-schulze-zum-ministerpraesidenten-von-sachsen-anhalt-gewaehlt-100.html",
-    "https://www.spiegel.de/wirtschaft/unternehmen/diw-forscher-rechnen-mit-mehr-wohnungsbau-a-e3458b89-b2ab-4f34-9b85-59ab8a047f00#ref=rss",
     "https://www.deutschlandfunk.de/sachsen-anhalt-vor-der-wahl-interview-mit-extremismusforscherin-beate-kuepper-100.html",
     "https://www.deutschlandfunk.de/zoll-entdeckt-400-kilogramm-heroin-100.html",
     "https://www.deutschlandfunk.de/wie-die-britische-regierung-versucht-die-einwanderungs-und-sicherheitspolitik-der-usa-zu-kopieren-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bischoefe-treffen-sich-in-wuerzburg-zur-wahl-eines-neuen-vorsitzenden-100.html",
     "https://www.deutschlandfunk.de/vorverfahren-gegen-philippinischen-ex-praesident-duterte-100.html",
     "https://www.deutschlandfunk.de/koenig-vereidigt-neue-regierung-der-niederlande-100.html",
-    "https://www.deutschlandfunk.de/nach-cdu-absage-schleswig-holsteins-ministerpraesident-guenther-haelt-einfuehrung-von-zuckersteuer-u-100.html"
+    "https://www.deutschlandfunk.de/nach-cdu-absage-schleswig-holsteins-ministerpraesident-guenther-haelt-einfuehrung-von-zuckersteuer-u-100.html",
+    "https://www.deutschlandfunk.de/unruhen-und-gewaltausbrueche-in-mexiko-nach-toetung-von-gesuchtem-drogenboss-el-mencho-100.html",
+    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-putin-will-weiteren-krieg-gegen-europaeische-laender-in-wenigen-ja-100.html"
   ],
   "content_hashes": [
-    "45b07ba2814551fc1d6cb6d2977e5687",
-    "38d6a40f964cd92ffa604295e5daca2c",
     "906580b67cfbea54606c5f00c58b2697",
     "4b8571324d980432332cc7690b7abddf",
     "c5e6167219fd48c6252156d227dea052",
@@ -2001,11 +1999,11 @@
     "275c461efe0dbfe7f2d8b2549831043e",
     "d82a2d745b1903e79d48150357bda5ec",
     "14c17c7cb935c741f1c8f3220ca57550",
-    "ab359873e732613e5afad0daa9b0eb1c"
+    "ab359873e732613e5afad0daa9b0eb1c",
+    "aad46d6ca3fcbe8d751dba0c85e4bd46",
+    "103eb6422efcb1eb5f868a5f4697fd71"
   ],
   "titles": [
-    "Nachfolger von Haseloff - CDU-Landesvorsitzender Schulze zum Ministerpräsidenten von Sachsen-Anhalt gewählt",
-    "DIW: Forscher rechnen mit mehr Wohnungsbau",
     "Sachsen-Anhalt - Sozialpsychologin: Eine AfD-Regierung hätte bundesweite Folgen",
     "Hamburger Hafen - Zoll entdeckt 400 Kilogramm Heroin",
     "Migration - Wie die britische Regierung versucht, die Einwanderungs- und Sicherheitspolitik der USA zu kopieren",
@@ -3003,11 +3001,11 @@
     "Katholische Kirche - Bischöfe treffen sich in Würzburg zur Wahl eines neuen Vorsitzenden",
     "Internationaler Strafgerichtshof - Vorverfahren gegen philippinischen Ex-Präsident Duterte",
     "Nach Parlamentswahl - König vereidigt neue Regierung der Niederlande",
-    "Gesundheit - Nach CDU-Absage: Schleswig-Holsteins Ministerpräsident Günther hält Einführung von Zuckersteuer über den Bundesrat für möglich"
+    "Gesundheit - Nach CDU-Absage: Schleswig-Holsteins Ministerpräsident Günther hält Einführung von Zuckersteuer über den Bundesrat für möglich",
+    "Lateinamerika - Unruhen und Gewaltausbrüche in Mexiko nach Tötung von gesuchtem Drogenboss \"El Mencho\"",
+    "BBC-Interview - Ukrainischer Präsident Selenskyj: Putin will weiteren Krieg gegen europäische Länder in wenigen Jahren"
   ],
   "hashes": [
-    "42c18f2a1c38268d7b67644381493c6f",
-    "3cb75dbb6d39d25be54dec75c965d4bf",
     "2687dbde43bb2ba967ca65a7203596ac",
     "bfdffde707cb9afc95d8ed7758c3bb75",
     "818ef47ef55243433f9956bcb4430aa2",
@@ -4005,6 +4003,8 @@
     "3601f8a53fc9307ba37ffd0083775fa3",
     "b1ce9908acadad6d36f73af1ebc2649f",
     "def5817a904ab1a43630a98274863d82",
-    "5a9e3273e5c92b49a9f014a39d48d8ff"
+    "5a9e3273e5c92b49a9f014a39d48d8ff",
+    "bb287ce1efc8a385e69823a47ad9f42b",
+    "d454f3159f28c5f60d543bf463ce725c"
   ]
 }
