@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/erneute-gespraeche-zwischen-russland-der-ukraine-und-den-usa-fuer-sonntag-angekuendigt-102.html",
-    "https://www.deutschlandfunk.de/bundeskanzler-merz-will-weniger-oeffentlich-zugaengliche-informationen-zu-kritischer-infrastruktur-102.html",
-    "https://www.deutschlandfunk.de/iranischen-revolutionsgarden-vor-einstufung-als-terrororganisation-in-der-eu-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-friedrich-merz-und-lars-klingenbeil-wollen-schnelle-einfuehrung-von-digitalem-euro-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/staatsgerichtshof-zu-kommunalparlamenten-bedrohte-keimzelle-110826835.html",
     "https://www.deutschlandfunk.de/gew-ruft-lehrkraefte-zum-streik-auf-unterrichtsausfaelle-vor-allem-im-osten-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/eu-aussenminister-ringen-um-ukraine-unterstuetzung-blockade-durch-ungarn-100.html",
     "https://www.deutschlandfunk.de/anhoerungen-im-fall-des-philippinischen-ex-praesidenten-duterte-begonnen-100.html",
     "https://www.deutschlandfunk.de/streit-in-tschechien-um-rechten-minister-beendet-politiker-der-autopartei-wird-umweltminister-102.html",
-    "https://www.deutschlandfunk.de/viele-werke-aus-michelangelo-nachlass-wohl-doch-nicht-verbrannt-102.html"
+    "https://www.deutschlandfunk.de/viele-werke-aus-michelangelo-nachlass-wohl-doch-nicht-verbrannt-102.html",
+    "https://www.deutschlandfunk.de/warnung-vor-gefahren-ki-manipulierter-bilder-100.html",
+    "https://www.deutschlandfunk.de/bundesagentur-fuer-arbeit-mindestlohn-sorgt-fuer-mehr-geschlechtergerechtigkeit-beim-verdienst-102.html",
+    "https://www.deutschlandfunk.de/usa-beginnen-abzug-von-wichtigem-stuetzpunkt-in-syrien-100.html"
   ],
   "content_hashes": [
-    "42d19a6b68d2d9d341f3810671cb5796",
-    "97e7511cb1b025acddba22f2a1888461",
-    "108e67ba07f2188d2fe8888e0f301387",
     "902d4073d4255a856dbeda620eec634d",
     "e3aa06a47602fa777d6e55fe80f925e6",
     "92cfad59b6199a783d4f193ba367c58e",
@@ -2001,12 +1998,12 @@
     "145332fa02fead1c16a3e78534be5e63",
     "d9ac01cd2488572508e5052e6f136a43",
     "6bc5438fc1dfe05a97f97e88e880531f",
-    "3c91b1bc0c4c54038b1ed4860e2ba896"
+    "3c91b1bc0c4c54038b1ed4860e2ba896",
+    "620ea15cf2607fd238ff5b05f5140dd7",
+    "3116b3381201d6ab1ffc1b4406b70b57",
+    "a6a65685260a0791d46e3e0f6339cbe8"
   ],
   "titles": [
-    "Abu Dhabi - Erneute Gespräche zwischen Russland, der Ukraine und den USA für Sonntag angekündigt",
-    "Nach Anschlag in Berlin - Bundeskanzler Merz will weniger öffentlich zugängliche Informationen zu kritischer Infrastruktur",
-    "Treffen der Außenminister - Iranischen Revolutionsgarden vor Einstufung als Terrororganisation in der EU",
     "Deutschland-Blog: Merz und Klingenbeil dringen auf schnelle Einführung des digitalen Euro",
     "Kommunalparlamente: Bedrohte Keimzelle",
     "Tarifkonflikt - GEW ruft Lehrkräfte zum Streik auf - Unterrichtsausfälle vor allem im Osten",
@@ -3003,12 +3000,12 @@
     "Treffen in Brüssel - EU-Außenminister ringen um Ukraine-Unterstützung - Blockade durch Ungarn",
     "Internationaler Strafgerichtshof - Anhörungen im Fall des philippinischen Ex-Präsidenten Duterte begonnen",
     "Regierungbildung - Streit in Tschechien um rechten Minister beendet - Politiker der \"Autopartei\" wird Umweltminister",
-    "Kunstgeschichte - Viele Werke aus Michelangelo-Nachlass wohl doch nicht verbrannt"
+    "Kunstgeschichte - Viele Werke aus Michelangelo-Nachlass wohl doch nicht verbrannt",
+    "Datenschutzbehörden - Warnung vor Gefahren KI-manipulierter Bilder",
+    "\"Gender Pay Gap\" - Bundesagentur für Arbeit: Mindestlohn sorgt für mehr Geschlechtergerechtigkeit beim Verdienst",
+    "Bericht von Aktivisten - USA beginnen Abzug von wichtigem Stützpunkt in Syrien"
   ],
   "hashes": [
-    "5ce661639f9f69a37f595b2224333509",
-    "d7e880dbd0101cfb946c80e808c83ca3",
-    "9f57e6d37b3f1201b9c5b39d18cb57ef",
     "cd1884968d71ba1c27b60137a1efe633",
     "e591ab72c636d9682c7525056cdfed67",
     "df695c10461cb72ef921fe637a306f51",
@@ -4005,6 +4002,9 @@
     "95064d5f9d4906c0b27f63f56d3bdb56",
     "f8451b747a9916fc620ad654c656d571",
     "bbd5692a779a2bf109639ab3fd4a732d",
-    "e7a1508bb4f1e191905a10103750d0d7"
+    "e7a1508bb4f1e191905a10103750d0d7",
+    "7f32203c8bcfe7865a5c8fd2f33177f4",
+    "9ce3adb76d9c70b85a5bce61a4717821",
+    "d7e7e59a5e180b03b30ea772a4e98ec3"
   ]
 }
