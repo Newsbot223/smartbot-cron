@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-friedrich-merz-und-lars-klingenbeil-wollen-schnelle-einfuehrung-von-digitalem-euro-faz-110093143.html",
-    "https://www.faz.net/aktuell/politik/inland/staatsgerichtshof-zu-kommunalparlamenten-bedrohte-keimzelle-110826835.html",
     "https://www.deutschlandfunk.de/gew-ruft-lehrkraefte-zum-streik-auf-unterrichtsausfaelle-vor-allem-im-osten-100.html",
     "https://www.deutschlandfunk.de/koalition-will-informationen-ueber-kritische-infrastruktur-einschraenken-100.html",
     "https://www.deutschlandfunk.de/us-demokraten-fordern-dass-ice-mitarbeiter-keine-masken-mehr-tragen-duerfen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/viele-werke-aus-michelangelo-nachlass-wohl-doch-nicht-verbrannt-102.html",
     "https://www.deutschlandfunk.de/warnung-vor-gefahren-ki-manipulierter-bilder-100.html",
     "https://www.deutschlandfunk.de/bundesagentur-fuer-arbeit-mindestlohn-sorgt-fuer-mehr-geschlechtergerechtigkeit-beim-verdienst-102.html",
-    "https://www.deutschlandfunk.de/usa-beginnen-abzug-von-wichtigem-stuetzpunkt-in-syrien-100.html"
+    "https://www.deutschlandfunk.de/usa-beginnen-abzug-von-wichtigem-stuetzpunkt-in-syrien-100.html",
+    "https://www.deutschlandfunk.de/blockade-durch-ungarn-keine-eingung-auf-neue-sanktionen-gegen-russland-100.html",
+    "https://www.faz.net/aktuell/politik/inland/cdu-zucker-110842561.html"
   ],
   "content_hashes": [
-    "902d4073d4255a856dbeda620eec634d",
-    "e3aa06a47602fa777d6e55fe80f925e6",
     "92cfad59b6199a783d4f193ba367c58e",
     "b0c789c99ad652bb6d6799ab036307e0",
     "1fde3e678d16f7818d2bf9ade4602d30",
@@ -2001,11 +1999,11 @@
     "3c91b1bc0c4c54038b1ed4860e2ba896",
     "620ea15cf2607fd238ff5b05f5140dd7",
     "3116b3381201d6ab1ffc1b4406b70b57",
-    "a6a65685260a0791d46e3e0f6339cbe8"
+    "a6a65685260a0791d46e3e0f6339cbe8",
+    "60fd36ef0ca8200624e30dd42b74fcd8",
+    "58011951bf6983cfdf87f020f501f7dc"
   ],
   "titles": [
-    "Deutschland-Blog: Merz und Klingenbeil dringen auf schnelle Einführung des digitalen Euro",
-    "Kommunalparlamente: Bedrohte Keimzelle",
     "Tarifkonflikt - GEW ruft Lehrkräfte zum Streik auf - Unterrichtsausfälle vor allem im Osten",
     "Schutz vor Sabotage - Koalition will Informationen über kritische Infrastruktur einschränken",
     "Streit um Einwanderungsbehörde - US-Demokraten fordern, dass ICE-Mitarbeiter keine Masken mehr tragen dürfen",
@@ -3003,11 +3001,11 @@
     "Kunstgeschichte - Viele Werke aus Michelangelo-Nachlass wohl doch nicht verbrannt",
     "Datenschutzbehörden - Warnung vor Gefahren KI-manipulierter Bilder",
     "\"Gender Pay Gap\" - Bundesagentur für Arbeit: Mindestlohn sorgt für mehr Geschlechtergerechtigkeit beim Verdienst",
-    "Bericht von Aktivisten - USA beginnen Abzug von wichtigem Stützpunkt in Syrien"
+    "Bericht von Aktivisten - USA beginnen Abzug von wichtigem Stützpunkt in Syrien",
+    "EU-Außenministertreffen - Blockade durch Ungarn: Keine Eingung auf neue Sanktionen gegen Russland",
+    "Neuer Vorstoß Günthers: Zucker ist kein Feind der Demokratie"
   ],
   "hashes": [
-    "cd1884968d71ba1c27b60137a1efe633",
-    "e591ab72c636d9682c7525056cdfed67",
     "df695c10461cb72ef921fe637a306f51",
     "b4da4bf1b3ab11c1b7e8bd8a1dfef46e",
     "871f5bdaab881dcccf058c995845d6a7",
@@ -4005,6 +4003,8 @@
     "e7a1508bb4f1e191905a10103750d0d7",
     "7f32203c8bcfe7865a5c8fd2f33177f4",
     "9ce3adb76d9c70b85a5bce61a4717821",
-    "d7e7e59a5e180b03b30ea772a4e98ec3"
+    "d7e7e59a5e180b03b30ea772a4e98ec3",
+    "d0c4e0db619adc70a749b457cab50bae",
+    "c3dfd00ae06010dd660a02e935c51964"
   ]
 }
