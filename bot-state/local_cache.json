@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/gew-ruft-lehrkraefte-zum-streik-auf-unterrichtsausfaelle-vor-allem-im-osten-100.html",
-    "https://www.deutschlandfunk.de/koalition-will-informationen-ueber-kritische-infrastruktur-einschraenken-100.html",
     "https://www.deutschlandfunk.de/us-demokraten-fordern-dass-ice-mitarbeiter-keine-masken-mehr-tragen-duerfen-100.html",
     "https://www.deutschlandfunk.de/bundesamt-fuer-migration-und-fluechtlinge-bestaetigt-bei-93-prozent-der-ueberpruefungen-den-bestehen-104.html",
     "https://www.faz.net/aktuell/politik/ausland/handelspolitik-trumps-gemischte-signale-an-china-110826506.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/bundesagentur-fuer-arbeit-mindestlohn-sorgt-fuer-mehr-geschlechtergerechtigkeit-beim-verdienst-102.html",
     "https://www.deutschlandfunk.de/usa-beginnen-abzug-von-wichtigem-stuetzpunkt-in-syrien-100.html",
     "https://www.deutschlandfunk.de/blockade-durch-ungarn-keine-eingung-auf-neue-sanktionen-gegen-russland-100.html",
-    "https://www.faz.net/aktuell/politik/inland/cdu-zucker-110842561.html"
+    "https://www.faz.net/aktuell/politik/inland/cdu-zucker-110842561.html",
+    "https://www.deutschlandfunk.de/tausende-menschen-protestieren-gegen-auftritt-von-thueringischem-afd-landeschef-hoecke-100.html",
+    "https://www.deutschlandfunk.de/neue-verhandlungen-zwischen-usa-und-iran-ueber-das-iranische-atomprogramm-100.html"
   ],
   "content_hashes": [
-    "92cfad59b6199a783d4f193ba367c58e",
-    "b0c789c99ad652bb6d6799ab036307e0",
     "1fde3e678d16f7818d2bf9ade4602d30",
     "f396a9e5043defeafefbbad934a693d4",
     "e7e5d16435f07dd4e95b7624445c2dcc",
@@ -2001,11 +1999,11 @@
     "3116b3381201d6ab1ffc1b4406b70b57",
     "a6a65685260a0791d46e3e0f6339cbe8",
     "60fd36ef0ca8200624e30dd42b74fcd8",
-    "58011951bf6983cfdf87f020f501f7dc"
+    "58011951bf6983cfdf87f020f501f7dc",
+    "15c333adb98208e05bf21a30466f139b",
+    "e38b82b5f8d69752e3243f86fde1803b"
   ],
   "titles": [
-    "Tarifkonflikt - GEW ruft Lehrkräfte zum Streik auf - Unterrichtsausfälle vor allem im Osten",
-    "Schutz vor Sabotage - Koalition will Informationen über kritische Infrastruktur einschränken",
     "Streit um Einwanderungsbehörde - US-Demokraten fordern, dass ICE-Mitarbeiter keine Masken mehr tragen dürfen",
     "Anfrage der Linksfraktion - Bundesamt für Migration und Flüchtlinge bestätigt bei 93 Prozent der Überprüfungen den bestehenden Schutzstatus",
     "HAndel mit China: Ist Amerikas Sicherheit käuflich?",
@@ -3003,11 +3001,11 @@
     "\"Gender Pay Gap\" - Bundesagentur für Arbeit: Mindestlohn sorgt für mehr Geschlechtergerechtigkeit beim Verdienst",
     "Bericht von Aktivisten - USA beginnen Abzug von wichtigem Stützpunkt in Syrien",
     "EU-Außenministertreffen - Blockade durch Ungarn: Keine Eingung auf neue Sanktionen gegen Russland",
-    "Neuer Vorstoß Günthers: Zucker ist kein Feind der Demokratie"
+    "Neuer Vorstoß Günthers: Zucker ist kein Feind der Demokratie",
+    "Düsseldorf - Tausende Menschen protestieren gegen Auftritt von thüringischem AfD-Landeschef Höcke",
+    "Genf - Neue Verhandlungen zwischen USA und Iran über das iranische Atomprogramm"
   ],
   "hashes": [
-    "df695c10461cb72ef921fe637a306f51",
-    "b4da4bf1b3ab11c1b7e8bd8a1dfef46e",
     "871f5bdaab881dcccf058c995845d6a7",
     "a8def1d93d7cbea6eb6dab8e4083441d",
     "7da4752bc346e6e92f6c6b4be028ac1e",
@@ -4005,6 +4003,8 @@
     "9ce3adb76d9c70b85a5bce61a4717821",
     "d7e7e59a5e180b03b30ea772a4e98ec3",
     "d0c4e0db619adc70a749b457cab50bae",
-    "c3dfd00ae06010dd660a02e935c51964"
+    "c3dfd00ae06010dd660a02e935c51964",
+    "52800991f52eaf811b42546e9553b5a8",
+    "1cac7f40bb9967f1d3fa5575b81b3c4c"
   ]
 }
