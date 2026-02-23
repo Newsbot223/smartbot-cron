@@ -1,12 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/staatsanwaltschaft-laesst-zentrale-der-deutschen-bank-durchsuchen-100.html",
-    "https://www.deutschlandfunk.de/nach-treffen-mit-al-scharaa-putin-sieht-beziehungen-zu-syrischer-fuehrung-verbessert-102.html",
-    "https://www.deutschlandfunk.de/bgh-bestaetigt-verurteilung-von-journalist-semsrott-wegen-veroeffentlichung-von-gerichtsdokumenten-100.html",
-    "https://www.deutschlandfunk.de/praesident-peseschkian-fordert-nach-niederschlagung-von-protesten-anderen-umgang-mit-kritik-am-staat-100.html",
-    "https://www.deutschlandfunk.de/oelpreise-auf-hoechstem-stand-seit-vier-monaten-100.html",
-    "https://www.deutschlandfunk.de/trotz-druck-von-trump-us-leitzins-bleibt-unveraendert-100.html",
-    "https://www.deutschlandfunk.de/grenzbeamte-nach-toedlichen-schuessen-in-minneapolis-suspendiert-100.html",
     "https://www.deutschlandfunk.de/erneute-gespraeche-zwischen-russland-der-ukraine-und-den-usa-fuer-sonntag-angekuendigt-102.html",
     "https://www.deutschlandfunk.de/bundeskanzler-merz-will-weniger-oeffentlich-zugaengliche-informationen-zu-kritischer-infrastruktur-102.html",
     "https://www.deutschlandfunk.de/iranischen-revolutionsgarden-vor-einstufung-als-terrororganisation-in-der-eu-100.html",
@@ -999,16 +992,16 @@
     "https://www.deutschlandfunk.de/hongkonger-gericht-bestaetigt-haftstrafen-fuer-zwoelf-demokratie-aktivisten-100.html",
     "https://www.deutschlandfunk.de/erste-signale-einer-belebung-100.html",
     "https://www.deutschlandfunk.de/geheimdienst-fasst-mutmasslichen-agenten-aus-belarus-102.html",
-    "https://www.deutschlandfunk.de/uno-generalsekretaer-guterres-menschenrechte-weltweit-unter-druck-100.html"
+    "https://www.deutschlandfunk.de/uno-generalsekretaer-guterres-menschenrechte-weltweit-unter-druck-100.html",
+    "https://www.deutschlandfunk.de/weitere-tarifrunde-bei-der-deutschen-bahn-angelaufen-100.html",
+    "https://www.deutschlandfunk.de/eu-rat-billigt-veraenderte-drittstaaten-asylregelung-100.html",
+    "https://www.deutschlandfunk.de/proteste-an-iranischen-universitaeten-gegen-regime-halten-an-102.html",
+    "https://www.deutschlandfunk.de/eu-aussenminister-ringen-um-ukraine-unterstuetzung-blockade-durch-ungarn-100.html",
+    "https://www.deutschlandfunk.de/anhoerungen-im-fall-des-philippinischen-ex-praesidenten-duterte-begonnen-100.html",
+    "https://www.deutschlandfunk.de/streit-in-tschechien-um-rechten-minister-beendet-politiker-der-autopartei-wird-umweltminister-102.html",
+    "https://www.deutschlandfunk.de/viele-werke-aus-michelangelo-nachlass-wohl-doch-nicht-verbrannt-102.html"
   ],
   "content_hashes": [
-    "c6af87151a3f4f1543e384cec9a9638f",
-    "cfb8a1703d296cd70ff62604292a3fa3",
-    "2eacd32f8b8e8dde853e6695ac4106e4",
-    "abca75a7a3154f2b794e8e3738a12c92",
-    "959f827bb20841cf6c3f2db335d6c102",
-    "6396b73e6e5109481242780f5e6f98d0",
-    "2447cef18ff53e1281487f96d5496348",
     "42d19a6b68d2d9d341f3810671cb5796",
     "97e7511cb1b025acddba22f2a1888461",
     "108e67ba07f2188d2fe8888e0f301387",
@@ -2001,16 +1994,16 @@
     "a577e52b2ee86fd149406dbb54403ae3",
     "7f9dd5c3447242c57e3341634130095c",
     "5e205afcf22710a8be62c467dd7f7b33",
-    "6ecb45dd5953862f0844f4420bae9448"
+    "6ecb45dd5953862f0844f4420bae9448",
+    "543745974048ee19448213b7276f6b01",
+    "446dd208b96f897627fab833db6505d4",
+    "178e3eb8e6022476351b8a879c7cd607",
+    "145332fa02fead1c16a3e78534be5e63",
+    "d9ac01cd2488572508e5052e6f136a43",
+    "6bc5438fc1dfe05a97f97e88e880531f",
+    "3c91b1bc0c4c54038b1ed4860e2ba896"
   ],
   "titles": [
-    "Verdachts der Geldwäsche - Staatsanwaltschaft lässt Zentrale der Deutschen Bank durchsuchen",
-    "Moskau - Nach Treffen mit al-Scharaa: Putin sieht Beziehungen zu syrischer Führung verbessert",
-    "Justiz - BGH bestätigt Verurteilung von Journalist Semsrott wegen Veröffentlichung von Gerichtsdokumenten",
-    "Iran - Präsident Peseschkian fordert nach Niederschlagung von Protesten anderen Umgang mit Kritik am Staat",
-    "Geopolitische Lage - Ölpreise auf höchstem Stand seit vier Monaten",
-    "Federal Reserve - Trotz Druck von Trump: US-Leitzins bleibt unverändert",
-    "USA - Grenzbeamte nach tödlichen Schüssen in Minneapolis suspendiert",
     "Abu Dhabi - Erneute Gespräche zwischen Russland, der Ukraine und den USA für Sonntag angekündigt",
     "Nach Anschlag in Berlin - Bundeskanzler Merz will weniger öffentlich zugängliche Informationen zu kritischer Infrastruktur",
     "Treffen der Außenminister - Iranischen Revolutionsgarden vor Einstufung als Terrororganisation in der EU",
@@ -3003,16 +2996,16 @@
     "Asien - Hongkonger Gericht bestätigt Haftstrafen für zwölf Demokratie-Aktivisten",
     "Ifo-Geschäftsklima-Index - \"Erste Signale einer Belebung\"",
     "Polen - Geheimdienst fasst mutmaßlichen Agenten aus Belarus",
-    "Genf - UNO-Generalsekretär Guterres: Menschenrechte weltweit unter Druck"
+    "Genf - UNO-Generalsekretär Guterres: Menschenrechte weltweit unter Druck",
+    "Berlin - Weitere Tarifrunde bei der Deutschen Bahn angelaufen",
+    "Flucht und Vertreibung - EU-Rat billigt veränderte Drittstaaten-Asylregelung",
+    "Semesterbeginn - Proteste an iranischen Universitäten gegen Regime halten an",
+    "Treffen in Brüssel - EU-Außenminister ringen um Ukraine-Unterstützung - Blockade durch Ungarn",
+    "Internationaler Strafgerichtshof - Anhörungen im Fall des philippinischen Ex-Präsidenten Duterte begonnen",
+    "Regierungbildung - Streit in Tschechien um rechten Minister beendet - Politiker der \"Autopartei\" wird Umweltminister",
+    "Kunstgeschichte - Viele Werke aus Michelangelo-Nachlass wohl doch nicht verbrannt"
   ],
   "hashes": [
-    "5c137c76bcc4a8669e95637aa98cae82",
-    "60e538ed274c7594ccd1512c7a7bd237",
-    "6d030a0ea3e86ce9448e3564fd575227",
-    "4eb075b59c3c01a1570e20d2bcf53e9e",
-    "3e4b9daa2fd472c0a4aa609dae449a04",
-    "6e7d86267f33faaf5d0ce771f07d3368",
-    "92313aef78b7272fea945ba053b733a6",
     "5ce661639f9f69a37f595b2224333509",
     "d7e880dbd0101cfb946c80e808c83ca3",
     "9f57e6d37b3f1201b9c5b39d18cb57ef",
@@ -4005,6 +3998,13 @@
     "6034fe149bf1f307aa2bd8f39e1a4a52",
     "f2d186ea1a9fc6f990dca64c8be8321f",
     "de2da831e05d25d019cc16babb3f7af6",
-    "f6f3685a000802a37d0f171717b66228"
+    "f6f3685a000802a37d0f171717b66228",
+    "fb629e462a314fd4c900fdec2d0d0d29",
+    "08f1ad3c6fe3d3c43ea6040e4efe3e2a",
+    "1f7dcffbe2379bbd46ba685ee69227bc",
+    "95064d5f9d4906c0b27f63f56d3bdb56",
+    "f8451b747a9916fc620ad654c656d571",
+    "bbd5692a779a2bf109639ab3fd4a732d",
+    "e7a1508bb4f1e191905a10103750d0d7"
   ]
 }
