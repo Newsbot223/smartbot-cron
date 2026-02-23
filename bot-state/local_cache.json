@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/durchsuchungen-bei-ermittlungen-gegen-organisierte-schwarzarbeit-am-bau-100.html",
-    "https://www.deutschlandfunk.de/verbraucherstimmung-hellt-sich-zu-jahresbeginn-auf-102.html",
-    "https://www.faz.net/aktuell/politik/inland/frauen-union-fuer-digitale-schutzzonen-bis-klasse-10-110826676.html",
-    "https://www.deutschlandfunk.de/wdr-verkauft-produktionsstaette-in-bocklemuend-ehemaliger-drehort-der-lindenstrasse-100.html",
     "https://www.deutschlandfunk.de/krisen-insbesondere-in-afrika-werden-kaum-beachtet-100.html",
     "https://www.deutschlandfunk.de/staatsanwaltschaft-laesst-zentrale-der-deutschen-bank-durchsuchen-100.html",
     "https://www.deutschlandfunk.de/nach-treffen-mit-al-scharaa-putin-sieht-beziehungen-zu-syrischer-fuehrung-verbessert-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-aussenminister-ringen-um-ukraine-unterstuetzung-102.html",
     "https://www.deutschlandfunk.de/widerstand-aus-spd-gegen-cdu-beschluesse-100.html",
     "https://www.spiegel.de/wirtschaft/deutschland-behauptet-platz-drei-der-weltgroessten-volkswirtschaften-a-f2a9b224-81db-49e1-a749-70ec94afb8d3#ref=rss",
-    "https://www.deutschlandfunk.de/fratzscher-begruesst-schnellere-arbeitserlaubnis-fuer-asylbewerber-100.html"
+    "https://www.deutschlandfunk.de/fratzscher-begruesst-schnellere-arbeitserlaubnis-fuer-asylbewerber-100.html",
+    "https://www.deutschlandfunk.de/gruene-begruessen-cdu-beschluss-ueber-social-media-mindestalter-100.html",
+    "https://www.deutschlandfunk.de/hongkonger-gericht-bestaetigt-haftstrafen-fuer-zwoelf-demokratie-aktivisten-100.html",
+    "https://www.deutschlandfunk.de/erste-signale-einer-belebung-100.html",
+    "https://www.deutschlandfunk.de/geheimdienst-fasst-mutmasslichen-agenten-aus-belarus-102.html"
   ],
   "content_hashes": [
-    "0db57bfd403188aa4313e9232065c207",
-    "f2b2b0379ef2eeaf750ba0d4cc5e0523",
-    "abce476fcb5c8ae956def5bd8fa78d6c",
-    "d18c8e328e018c3589b2f2eb331cc918",
     "db95d9643c47c201a9313282973ad70b",
     "c6af87151a3f4f1543e384cec9a9638f",
     "cfb8a1703d296cd70ff62604292a3fa3",
@@ -2001,13 +1997,13 @@
     "c1e4813acd623a2dd92a91630d814589",
     "b9252d37bf7960d85519e064da90552b",
     "2f2bb4278fe094af940f6e55133abdb9",
-    "677aaa081054662ce0d4e99d5e89292c"
+    "677aaa081054662ce0d4e99d5e89292c",
+    "77db31ab8a27d3427d6ac4889223a283",
+    "a577e52b2ee86fd149406dbb54403ae3",
+    "7f9dd5c3447242c57e3341634130095c",
+    "5e205afcf22710a8be62c467dd7f7b33"
   ],
   "titles": [
-    "Razzien in sieben Bundesländern - Durchsuchungen bei Ermittlungen gegen organisierte Schwarzarbeit am Bau",
-    "Konsumklima - Verbraucherstimmung hellt sich zu Jahresbeginn auf",
-    "Handys in der Schule: Frauen-Union will digitale Schutzzonen bis Klasse 10",
-    "Köln - WDR verkauft Produktionsstätte in Bocklemünd - ehemaliger Drehort der \"Lindenstraße\"",
     "Hilfsorganisation Care - Krisen insbesondere in Afrika werden kaum beachtet",
     "Verdachts der Geldwäsche - Staatsanwaltschaft lässt Zentrale der Deutschen Bank durchsuchen",
     "Moskau - Nach Treffen mit al-Scharaa: Putin sieht Beziehungen zu syrischer Führung verbessert",
@@ -3003,13 +2999,13 @@
     "Treffen in Brüssel - EU-Außenminister ringen um Ukraine-Unterstützung",
     "Koalition - Widerstand aus SPD gegen CDU-Beschlüsse",
     "Deutschland behauptet Platz drei der weltgrößten Volkswirtschaften",
-    "Integration - Fratzscher begrüßt schnellere Arbeitserlaubnis für Asylbewerber"
+    "Integration - Fratzscher begrüßt schnellere Arbeitserlaubnis für Asylbewerber",
+    "Jugendschutz - Grüne begrüßen CDU-Beschluss über Social-Media-Mindestalter",
+    "Asien - Hongkonger Gericht bestätigt Haftstrafen für zwölf Demokratie-Aktivisten",
+    "Ifo-Geschäftsklima-Index - \"Erste Signale einer Belebung\"",
+    "Polen - Geheimdienst fasst mutmaßlichen Agenten aus Belarus"
   ],
   "hashes": [
-    "bbd8085108f9635de3b02f7c7bcda9fd",
-    "bff6e24b598b25b8d9380e17bee98673",
-    "ad4e6c15d0b519e723bb6a0dc80c18a2",
-    "9a34dd194a1e55ab853e69c9d0a2373f",
     "a4cd34d25e87d4bffcd75064c5b39b6b",
     "5c137c76bcc4a8669e95637aa98cae82",
     "60e538ed274c7594ccd1512c7a7bd237",
@@ -4005,6 +4001,10 @@
     "71833c86e6547197858b7cf582d2f294",
     "4a330ed9072876be7f2f53b30c24f326",
     "126251832d75891010c8c6d41fa54404",
-    "dcd4d8e72ea3868bf9707a5a648646b0"
+    "dcd4d8e72ea3868bf9707a5a648646b0",
+    "f54bb4a8b0c66dee891db5605f4fe9c6",
+    "6034fe149bf1f307aa2bd8f39e1a4a52",
+    "f2d186ea1a9fc6f990dca64c8be8321f",
+    "de2da831e05d25d019cc16babb3f7af6"
   ]
 }
