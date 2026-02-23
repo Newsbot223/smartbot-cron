@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sachsen-anhalt-vor-der-wahl-interview-mit-extremismusforscherin-beate-kuepper-100.html",
-    "https://www.deutschlandfunk.de/zoll-entdeckt-400-kilogramm-heroin-100.html",
     "https://www.deutschlandfunk.de/wie-die-britische-regierung-versucht-die-einwanderungs-und-sicherheitspolitik-der-usa-zu-kopieren-100.html",
     "https://www.deutschlandfunk.de/erste-klagen-auf-schadenersatz-100.html",
     "https://www.spiegel.de/wissenschaft/natur/wetter-in-deutschland-winter-trotz-des-schnees-deutlich-zu-trocken-a-fd246a9d-ea08-416d-88b8-ea5d73704203#ref=rss",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/koenig-vereidigt-neue-regierung-der-niederlande-100.html",
     "https://www.deutschlandfunk.de/nach-cdu-absage-schleswig-holsteins-ministerpraesident-guenther-haelt-einfuehrung-von-zuckersteuer-u-100.html",
     "https://www.deutschlandfunk.de/unruhen-und-gewaltausbrueche-in-mexiko-nach-toetung-von-gesuchtem-drogenboss-el-mencho-100.html",
-    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-putin-will-weiteren-krieg-gegen-europaeische-laender-in-wenigen-ja-100.html"
+    "https://www.deutschlandfunk.de/ukrainischer-praesident-selenskyj-putin-will-weiteren-krieg-gegen-europaeische-laender-in-wenigen-ja-100.html",
+    "https://www.deutschlandfunk.de/international-herrscht-weiter-unklarheit-ueber-us-zollpolitik-nach-urteil-des-supreme-courts-100.html",
+    "https://www.deutschlandfunk.de/selenskyj-setzt-bei-verhandlungen-ueber-sicherheitsgarantien-auf-us-kongress-geht-nicht-allein-um-tr-100.html"
   ],
   "content_hashes": [
-    "906580b67cfbea54606c5f00c58b2697",
-    "4b8571324d980432332cc7690b7abddf",
     "c5e6167219fd48c6252156d227dea052",
     "08007be447492e62a107fd6cffd99519",
     "455522e1ecc5499949140a4f586ebc23",
@@ -2001,11 +1999,11 @@
     "14c17c7cb935c741f1c8f3220ca57550",
     "ab359873e732613e5afad0daa9b0eb1c",
     "aad46d6ca3fcbe8d751dba0c85e4bd46",
-    "103eb6422efcb1eb5f868a5f4697fd71"
+    "103eb6422efcb1eb5f868a5f4697fd71",
+    "4460b86a27f7add16a0c071dca135a74",
+    "b54a73da265d6ddbc95400c29f503347"
   ],
   "titles": [
-    "Sachsen-Anhalt - Sozialpsychologin: Eine AfD-Regierung hätte bundesweite Folgen",
-    "Hamburger Hafen - Zoll entdeckt 400 Kilogramm Heroin",
     "Migration - Wie die britische Regierung versucht, die Einwanderungs- und Sicherheitspolitik der USA zu kopieren",
     "Bankeinbruch in Gelsenkirchen - Erste Klagen auf Schadenersatz",
     "Wetter in Deutschland: Winter trotz des Schnees deutlich zu trocken",
@@ -3003,11 +3001,11 @@
     "Nach Parlamentswahl - König vereidigt neue Regierung der Niederlande",
     "Gesundheit - Nach CDU-Absage: Schleswig-Holsteins Ministerpräsident Günther hält Einführung von Zuckersteuer über den Bundesrat für möglich",
     "Lateinamerika - Unruhen und Gewaltausbrüche in Mexiko nach Tötung von gesuchtem Drogenboss \"El Mencho\"",
-    "BBC-Interview - Ukrainischer Präsident Selenskyj: Putin will weiteren Krieg gegen europäische Länder in wenigen Jahren"
+    "BBC-Interview - Ukrainischer Präsident Selenskyj: Putin will weiteren Krieg gegen europäische Länder in wenigen Jahren",
+    "Handel - International herrscht weiter Unklarheit über US-Zollpolitik nach Urteil des Supreme Courts",
+    "Ukraine-Krieg - Selenskyj setzt bei Verhandlungen über Sicherheitsgarantien auf US-Kongress: \"Geht nicht allein um Trump\""
   ],
   "hashes": [
-    "2687dbde43bb2ba967ca65a7203596ac",
-    "bfdffde707cb9afc95d8ed7758c3bb75",
     "818ef47ef55243433f9956bcb4430aa2",
     "ff3c230d7f829e167e0315cb7b249ec2",
     "c3278a068d98647bfc0dbdfa8abbfbc5",
@@ -4005,6 +4003,8 @@
     "def5817a904ab1a43630a98274863d82",
     "5a9e3273e5c92b49a9f014a39d48d8ff",
     "bb287ce1efc8a385e69823a47ad9f42b",
-    "d454f3159f28c5f60d543bf463ce725c"
+    "d454f3159f28c5f60d543bf463ce725c",
+    "af07ec63960ee2f7e84027a62c019904",
+    "7ad47bc46b913dcaabbb95862b8cfba2"
   ]
 }
