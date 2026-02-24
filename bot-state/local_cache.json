@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kritis-dachgesetz-regierung-will-kritische-infrastruktur-schuetzen-accg-200486644.html",
-    "https://www.deutschlandfunk.de/bundesregierung-erleidet-mit-klimaschutzprogramm-erneut-niederlage-vor-gericht-118.html",
     "https://www.deutschlandfunk.de/keine-annaeherung-bei-dritter-bahn-tarifrunde-102.html",
     "https://www.deutschlandfunk.de/grenzschutzbeauftragter-homan-einwanderungsbehoerde-ice-koennte-kraefte-teilweise-abziehen-102.html",
     "https://www.deutschlandfunk.de/eu-aussenminister-verabschieden-neue-sanktionen-gegen-iran-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/neue-us-zoelle-in-kraft-getreten-100.html",
     "https://www.deutschlandfunk.de/vorwurf-der-vetternwirtschaft-auch-afd-offen-fuer-gesetzesverschaerfung-100.html",
     "https://www.deutschlandfunk.de/verbaende-warnen-vor-gesetz-gegen-sogenannte-scheinvaterschaften-100.html",
-    "https://www.deutschlandfunk.de/hubig-will-den-schutz-von-kindern-in-prozessen-verbessern-100.html"
+    "https://www.deutschlandfunk.de/hubig-will-den-schutz-von-kindern-in-prozessen-verbessern-100.html",
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-trauerstaatsakt-fuer-verstorbene-fruehere-bundestagspraesidentin-rita-suessmuth-faz-110093143.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-im-landtag-so-will-sachsen-anhalt-sich-schuetzen-110843107.html"
   ],
   "content_hashes": [
-    "79c377bd9fa23366a32944ae2e69d026",
-    "85bb0a8f3e4a31342418b14fa20dc6c5",
     "987541b9346dab1c13db53cd19b2c1aa",
     "1973267b3cf6d6b1f1867e6c1088834a",
     "a63a4ee86917618f01b6ded8969d1599",
@@ -2001,11 +1999,11 @@
     "52920e1ba557795d224220251a1d25d7",
     "b6d3613723da5ef26292acfe461b733e",
     "6ad93f8ffeb88cd1b1d8d9567684b40a",
-    "7a14a0ff4f2eb98da3f25d10987c79cd"
+    "7a14a0ff4f2eb98da3f25d10987c79cd",
+    "723146cd1486ea9b5dc8c6b22cb9f0d6",
+    "7f464bba96a8da1876a0cdb54a7d76c1"
   ],
   "titles": [
-    "Vom Bundestag beschlossen: Mit diesem Gesetz soll die kritische Infrastruktur geschützt werden",
-    "Urteil - Bundesregierung erleidet mit Klimaschutzprogramm erneut Niederlage vor Gericht",
     "Wirtschaft - Keine Annäherung bei dritter Bahn-Tarifrunde",
     "Minneapolis - Grenzschutzbeauftragter Homan: Einwanderungsbehörde ICE könnte Kräfte teilweise abziehen",
     "Brüssel - EU-Außenminister verabschieden neue Sanktionen gegen Iran",
@@ -3003,11 +3001,11 @@
     "Wirtschaft - Neue US-Zölle in Kraft getreten",
     "Verwandtenaffäre - Vorwurf der Vetternwirtschaft: Auch AfD offen für Gesetzesverschärfung",
     "Soziales - Verbände warnen vor Gesetz gegen sogenannte Scheinvaterschaften",
-    "Justiz - Hubig will den Schutz von Kindern in Prozessen verbessern"
+    "Justiz - Hubig will den Schutz von Kindern in Prozessen verbessern",
+    "Deutschland-Blog: Merz: Süssmuth hat die CDU immer wieder gefordert",
+    "Parlamentsreform: So will Sachsen-Anhalt sich vor der AfD schützen"
   ],
   "hashes": [
-    "bd26b9b8af4319d9bcf351b99b355907",
-    "61815050f2ed2856f6a2df88535b3c0c",
     "1e0b27614f4dc909f863e649ccca601f",
     "ebe262aa7a3bc2a8256e2d48326e1fe2",
     "012fb33ec52b5e0015486a29a6e0024a",
@@ -4005,6 +4003,8 @@
     "844c474c37e6a1de46128dd409fa15bb",
     "bc607bfa25b59304a4172a523ed81f40",
     "5780851d9e9d7ddeeab150fe725f8930",
-    "10790790244f0077d4eed33e19e8ed7e"
+    "10790790244f0077d4eed33e19e8ed7e",
+    "1a26c22ed7880a33240d808c88618c94",
+    "b6c6bd0c9e614e52330332836abbafe9"
   ]
 }
