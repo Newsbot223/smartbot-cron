@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/neue-migrationsstrategie-eu-kommission-will-visavergabe-staerker-an-kooperation-mit-drittlaendern-kn-100.html",
-    "https://www.deutschlandfunk.de/eu-erhoeht-winterhilfe-deutschland-uebergibt-in-kiew-zwei-mobile-heizkraftwerke-100.html",
     "https://www.deutschlandfunk.de/irans-revolutionsgarden-kommen-auf-eu-terrorliste-100.html",
     "https://www.deutschlandfunk.de/trump-spricht-von-zusage-putins-zu-einwoechiger-waffenruhe-102.html",
     "https://www.deutschlandfunk.de/israel-uebergibt-leichen-von-15-palaestinensern-102.html",
@@ -999,11 +997,11 @@
     "https://www.faz.net/aktuell/politik/inland/afd-im-landtag-so-will-sachsen-anhalt-sich-schuetzen-110843107.html",
     "https://www.deutschlandfunk.de/ngos-fechten-israels-einsatzverbot-fuer-palaestinensergebiete-vor-oberstem-gericht-an-102.html",
     "https://www.deutschlandfunk.de/unternehmer-mueller-scheitert-mit-antrag-zu-afd-unterstuetzung-100.html",
-    "https://www.faz.net/aktuell/politik/inland/afd-fuehrung-hadert-mit-vorwuerfen-wegen-vetternwirtschaft-110843230.html"
+    "https://www.faz.net/aktuell/politik/inland/afd-fuehrung-hadert-mit-vorwuerfen-wegen-vetternwirtschaft-110843230.html",
+    "https://www.deutschlandfunk.de/union-und-spd-einigen-sich-auf-eckpunkte-fuer-reform-des-heizungsgesetzes-100.html",
+    "https://www.deutschlandfunk.de/gigantischer-braindrain-diese-folgen-hat-der-krieg-fuer-forschung-und-wissenschaft-in-der-ukraine-100.html"
   ],
   "content_hashes": [
-    "d648336849760073e9df39d4eb4745d6",
-    "e6b782143a867820fe8c01b86d35f1d8",
     "490f1ab7067c8ddf421ea2726ca04290",
     "a606f590e7f59668c94a1f750e7f84d9",
     "c768d55f579489d8e75d77b27dbf188d",
@@ -2001,11 +1999,11 @@
     "7f464bba96a8da1876a0cdb54a7d76c1",
     "a3fc0aae51882c603740266df5ebdedc",
     "f0e7e9e03528552b5c8ff21df8c89036",
-    "3f2d2b6d1262aeda10d82147c78d5f6a"
+    "3f2d2b6d1262aeda10d82147c78d5f6a",
+    "1ad8f530d4d2daf9f33b572bf45d584a",
+    "74ac6e298ae3782c20044425899b1a28"
   ],
   "titles": [
-    "Brüssel - Neue Migrationsstrategie: EU-Kommission will Visavergabe stärker an Kooperation mit Drittländern knüpfen",
-    "Winterhilfe - EU erhöht Winterhilfe - Deutschland übergibt in Kiew zwei mobile Heizkraftwerke",
     "Einigung - Irans Revolutionsgarden kommen auf EU-Terrorliste",
     "Ukraine-Krieg - Trump spricht von Zusage Putins zu einwöchiger Waffenruhe",
     "Nächste Phase des Friedensplans - Israel übergibt Leichen von 15 Palästinensern",
@@ -3003,11 +3001,11 @@
     "Parlamentsreform: So will Sachsen-Anhalt sich vor der AfD schützen",
     "Nahost - NGOs fechten Israels Einsatzverbot für Palästinensergebiete vor Oberstem Gericht an",
     "Hamburger Landgericht - Unternehmer Müller scheitert mit Antrag zu AfD-Unterstützung",
-    "Vetternwirtschaft: Die AfD-Führung steckt in der Klemme"
+    "Vetternwirtschaft: Die AfD-Führung steckt in der Klemme",
+    "Berlin - Union und SPD einigen sich auf Eckpunkte für Reform des Heizungsgesetzes",
+    "Vier Jahre russischer Angriffskrieg - \"Gigantischer Braindrain\" - Diese Folgen hat der Krieg für Forschung und Wissenschaft in der Ukraine"
   ],
   "hashes": [
-    "3e4506f4e324609733dbde01645c85a5",
-    "5bb9fe3fc902f57cf481918150822fc4",
     "5fb374131e06083df19a6131965c3404",
     "3e2055ed39c3ad911314efefc3f73f16",
     "e3c84344378d32eb74f4c4a01129b43f",
@@ -4005,6 +4003,8 @@
     "b6c6bd0c9e614e52330332836abbafe9",
     "fa386c7249e1709d29e3fd6b37b98d72",
     "0cac3a9a6f7355723a136613ce47e499",
-    "e9d06899a4a3abf91d6cb562f172e7b2"
+    "e9d06899a4a3abf91d6cb562f172e7b2",
+    "51bc051c302188898d8866ebbd29b171",
+    "b3fcfa1d80511087ca17a2b95219bf4a"
   ]
 }
