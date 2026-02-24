@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/kritis-dach-gesetz-regierung-will-kritische-infrastruktur-schuetzen-accg-200486644.html",
-    "https://www.deutschlandfunk.de/kritis-dachgesetz-staedtetag-haelt-vorschlag-zum-schutz-kritischer-infrastruktur-fuer-unzureichend-100.html",
     "https://www.deutschlandfunk.de/eu-aussenminister-verabschieden-neue-sanktionen-gegen-iran-einstufung-der-revolutionsgarden-als-terr-102.html",
     "https://www.deutschlandfunk.de/suedafrikanische-regierung-untersucht-umstrittene-teilnahme-des-irans-an-militaermanoever-100.html",
     "https://www.deutschlandfunk.de/litauen-kauft-deutsche-brueckenlegepanzer-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/us-lieferunternehmen-fedex-verklagt-us-regierung-102.html",
     "https://www.deutschlandfunk.de/suedkoreas-ex-praesident-yoon-legt-berufung-gegen-lebenslange-haftstrafe-ein-100.html",
     "https://www.deutschlandfunk.de/china-verhaengt-handelsbeschraenkungen-gegen-japanische-firmen-100.html",
-    "https://www.deutschlandfunk.de/brasilianische-regierung-stoppt-plaene-fuer-ausbau-der-wasserwege-im-amazonasgebiet-100.html"
+    "https://www.deutschlandfunk.de/brasilianische-regierung-stoppt-plaene-fuer-ausbau-der-wasserwege-im-amazonasgebiet-100.html",
+    "https://www.deutschlandfunk.de/prozess-um-dammbruch-mit-mehr-als-270-toten-hat-begonnen-100.html",
+    "https://www.faz.net/aktuell/politik/ukraine/vier-jahre-ukrainekrieg-waeren-wir-deutschen-so-tapfer-wie-die-ukrainer-110842824.html"
   ],
   "content_hashes": [
-    "703d9ad1d82fd1bb6fb59cf18799f610",
-    "5191b96bccbc7e7a90f916cd853fdaa5",
     "e1b1e1de5a5a60dd95b7f08d01843435",
     "545cd1802b822c875f190a53b4ea12d4",
     "ea3066cae70d833e2c76fb4f1c96a627",
@@ -2001,11 +1999,11 @@
     "43bd011c6b281cbada88ca090a60d86f",
     "18e1df3e59a51fae40389eb8375ac181",
     "c922a6e436580164f5a6800b400e903a",
-    "9a5597238e22a53f67f4c530f4c600fb"
+    "9a5597238e22a53f67f4c530f4c600fb",
+    "d3ea4bd158cacd64cd8752406a579015",
+    "474d6db6f643766b854fabe6095e3875"
   ],
   "titles": [
-    "Abstimmung im Bundestag: Mit diesem Gesetz soll die kritische Infrastruktur geschützt werden",
-    "Kritik - Kritis-Dachgesetz: Städtetag hält Vorschlag zum Schutz kritischer Infrastruktur für unzureichend",
     "Brüssel - EU-Außenminister verabschieden neue Sanktionen gegen Iran - Einstufung der Revolutionsgarden als Terrororganisation erwartet",
     "Pretoria - Südafrikanische Regierung untersucht umstrittene Teilnahme des Irans an Militärmanöver",
     "Verteidigung - Litauen kauft deutsche Brückenlegepanzer",
@@ -3003,11 +3001,11 @@
     "Nach Urteil gegen Trumps Zölle - US-Lieferunternehmen Fedex verklagt US-Regierung",
     "Justiz - Südkoreas Ex-Präsident Yoon legt Berufung gegen lebenslange Haftstrafe ein",
     "Wirtschaftsstreit - China verhängt Handelsbeschränkungen gegen japanische Firmen",
-    "Umweltschutz - Brasilianische Regierung stoppt Pläne für Ausbau der Wasserwege im Amazonasgebiet"
+    "Umweltschutz - Brasilianische Regierung stoppt Pläne für Ausbau der Wasserwege im Amazonasgebiet",
+    "Brasilien - Prozess um Dammbruch mit mehr als 270 Toten hat begonnen",
+    "Vier Jahre Krieg: Würden wir Deutschen so tapfer kämpfen wie die Ukrainer?"
   ],
   "hashes": [
-    "10aca565b3e0487e637022cbed944cb9",
-    "1e4b13588ec430aefcd08b4c771d5d01",
     "1399df6fd2465ba305597143a12c2bc7",
     "1295e773aa5d6e163a63c4b69208a0aa",
     "ee1c4d92d9751a393327325b5f1abb20",
@@ -4005,6 +4003,8 @@
     "1cc530ff7c9776c7fb68790734cd8563",
     "ff51f2d1af325a4ffebda70fd5e9db51",
     "ca4c10b7bbb1260016b1896cbc02e697",
-    "c1587812f5a06089a6c6d36e9717296c"
+    "c1587812f5a06089a6c6d36e9717296c",
+    "3c4605f397656da88a1285e514852139",
+    "27eec95beb154e899ad67d0b71e0d430"
   ]
 }
