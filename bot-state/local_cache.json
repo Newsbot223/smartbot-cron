@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/sachsen-anhalts-neuer-ministerpraesident-schulze-schliesst-zusammenarbeit-mit-afd-aus-100.html",
-    "https://www.deutschlandfunk.de/deutsche-bank-legt-rekordzahlen-vor-100.html",
-    "https://www.deutschlandfunk.de/eu-aussenbeauftragte-kallas-erwartet-einstufung-der-iranischen-revolutionsgarden-als-terrororganisat-100.html",
     "https://www.deutschlandfunk.de/cdu-politiker-biadacz-erste-massnahmen-bereits-in-diesem-jahr-umsetzen-100.html",
     "https://www.deutschlandfunk.de/streets-of-minneapolis-bruce-springsteen-veroeffentlicht-protestlied-gegen-ice-einsaetze-102.html",
     "https://www.deutschlandfunk.de/bundesgerichtshof-immobilienmakler-muss-wegen-diskriminierung-schadenersatz-zahlen-100.html",
@@ -999,12 +996,12 @@
     "https://www.deutschlandfunk.de/afd-landesverband-sachsen-anhalt-setzt-interne-kommission-ein-100.html",
     "https://www.faz.net/aktuell/politik/inland/die-vetternwirtschaft-affaeren-von-afd-und-csu-im-vergleich-110842120.html",
     "https://www.deutschlandfunk.de/antidiskriminierungsbeauftragte-ataman-sieht-versaeumnisse-bei-gehaltsunterschieden-zwischen-maenner-100.html",
-    "https://www.deutschlandfunk.de/katholische-bischoefe-waehlen-neuen-vorsitzenden-100.html"
+    "https://www.deutschlandfunk.de/katholische-bischoefe-waehlen-neuen-vorsitzenden-100.html",
+    "https://www.deutschlandfunk.de/ataman-fordert-kulturwandel-gegen-gender-pay-gap-102.html",
+    "https://www.deutschlandfunk.de/30-weitere-politische-gefangene-freigelassen-hunderte-weiter-in-haft-102.html",
+    "https://www.deutschlandfunk.de/tatverdaechtige-soll-zuvor-bei-openai-aufgefallen-sein-104.html"
   ],
   "content_hashes": [
-    "9001e36f0b9c1133401f9e0dd652d7db",
-    "f1190bf9b8c59931199e26f29a5a39ec",
-    "84a8f1aac1979a140df43a629255e7e1",
     "553d4c21fe5ae5fea9f6e611bca5349c",
     "75d3828d8ca31fd50886a03958312b8a",
     "26bb91c7c34143b988b3d9af15ea8b45",
@@ -2001,12 +1998,12 @@
     "3b0ee4488c87eb55eba375b16d2f1716",
     "f2df0671269a97ab89108a113c5ef462",
     "578dc20459e55035b6be065008f88c46",
-    "501fda9b4dce679b92d36ddb09dc613b"
+    "501fda9b4dce679b92d36ddb09dc613b",
+    "e5f14f516d828b613b8c7420b2bac2fc",
+    "6f66d6a55ba4cf95f2d97865fb89237a",
+    "30e67c7ef99d2491640183ac32e860d9"
   ],
   "titles": [
-    "Dlf-Interview - Sachsen-Anhalts neuer Ministerpräsident Schulze schließt Zusammenarbeit mit AfD aus",
-    "Wirtschaft - Deutsche Bank legt Rekordzahlen vor",
-    "Niederschlagung von Protesten - EU-Außenbeauftragte Kallas erwartet Einstufung der iranischen Revolutionsgarden als Terrororganisation",
     "Reform des Sozialstaats - CDU-Politiker Biadacz: \"Erste Maßnahmen bereits in diesem Jahr umsetzen\"",
     "USA - \"Streets of Minneapolis\": Bruce Springsteen veröffentlicht Protestlied gegen ICE-Einsätze",
     "Entscheidung - Bundesgerichtshof: Immobilienmakler muss wegen Diskriminierung Schadenersatz zahlen",
@@ -3003,12 +3000,12 @@
     "Vorwürfe um Anstellung von Verwandten - AfD-Landesverband Sachsen-Anhalt setzt interne Kommission ein",
     "Alte und neue Filz-Vorwürfe: Sind die Verwandtenaffären von CSU und AfD vergleichbar?",
     "Gleichberechtigung - Antidiskriminierungsbeauftragte Ataman sieht Versäumnisse bei Gehaltsunterschieden zwischen Männern und Frauen",
-    "Würzburg - Katholische Bischöfe wählen neuen Vorsitzenden"
+    "Würzburg - Katholische Bischöfe wählen neuen Vorsitzenden",
+    "Gleichberechtigung - Ataman fordert Kulturwandel gegen Gender Pay Gap",
+    "Venezuela - 30 weitere politische Gefangene freigelassen - Hunderte weiter in Haft",
+    "Nach tödlichen Schüssen in Kanada - Tatverdächtige soll zuvor bei OpenAI aufgefallen sein"
   ],
   "hashes": [
-    "71809435fb62c6444e80a2fca829c005",
-    "dd288b408e4a3ba0bb72a31ef70afd0d",
-    "3af328a3767301043d69439525d2b82d",
     "08fd6f8f79bb4fa71594f1dd1c766597",
     "264f4873fd2bd5ac72dea319797c7c81",
     "46392f029661f3daaa87aed61042711b",
@@ -4005,6 +4002,9 @@
     "84143f157162a77c4208155f700c19a8",
     "e3a7e45d6a6b41a0d8334a6a62ddda33",
     "626e6f61e6eb8a8c87e32ac291fa2f7a",
-    "897e5f1a7bd0daf1863169f3ebfd69ea"
+    "897e5f1a7bd0daf1863169f3ebfd69ea",
+    "d9b7a882a4f0160003c8ed1be4a8cae9",
+    "1759f941f0ede021d1e53ec8b2a9f690",
+    "1ba3c04525e3e11454693a8fd63b167c"
   ]
 }
