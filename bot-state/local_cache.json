@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/cdu-politiker-biadacz-erste-massnahmen-bereits-in-diesem-jahr-umsetzen-100.html",
-    "https://www.deutschlandfunk.de/streets-of-minneapolis-bruce-springsteen-veroeffentlicht-protestlied-gegen-ice-einsaetze-102.html",
-    "https://www.deutschlandfunk.de/bundesgerichtshof-immobilienmakler-muss-wegen-diskriminierung-schadenersatz-zahlen-100.html",
-    "https://www.deutschlandfunk.de/diskussion-um-arbeitszeitgesetz-gewerkschaften-drohen-mit-streiks-100.html",
     "https://www.faz.net/aktuell/politik/inland/deutschland-blog-streit-ueber-verhaeltnis-zu-amerika-nach-regierungserklaerung-faz-110093143.html",
     "https://www.faz.net/aktuell/politik/inland/kritis-dach-gesetz-regierung-will-kritische-infrastruktur-schuetzen-accg-200486644.html",
     "https://www.deutschlandfunk.de/kritis-dachgesetz-staedtetag-haelt-vorschlag-zum-schutz-kritischer-infrastruktur-fuer-unzureichend-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/katholische-bischoefe-waehlen-neuen-vorsitzenden-100.html",
     "https://www.deutschlandfunk.de/ataman-fordert-kulturwandel-gegen-gender-pay-gap-102.html",
     "https://www.deutschlandfunk.de/30-weitere-politische-gefangene-freigelassen-hunderte-weiter-in-haft-102.html",
-    "https://www.deutschlandfunk.de/tatverdaechtige-soll-zuvor-bei-openai-aufgefallen-sein-104.html"
+    "https://www.deutschlandfunk.de/tatverdaechtige-soll-zuvor-bei-openai-aufgefallen-sein-104.html",
+    "https://www.deutschlandfunk.de/blockade-von-ukraine-hilfen-forderungen-nach-stimmrechtsentzug-fuer-ungarn-100.html",
+    "https://www.deutschlandfunk.de/us-lieferunternehmen-fedex-verklagt-us-regierung-102.html",
+    "https://www.deutschlandfunk.de/suedkoreas-ex-praesident-yoon-legt-berufung-gegen-lebenslange-haftstrafe-ein-100.html",
+    "https://www.deutschlandfunk.de/china-verhaengt-handelsbeschraenkungen-gegen-japanische-firmen-100.html"
   ],
   "content_hashes": [
-    "553d4c21fe5ae5fea9f6e611bca5349c",
-    "75d3828d8ca31fd50886a03958312b8a",
-    "26bb91c7c34143b988b3d9af15ea8b45",
-    "e08860a3e3dd11fc8b5bfcdd312e5a51",
     "3d77fa85bbd63a36150d4672c1101876",
     "703d9ad1d82fd1bb6fb59cf18799f610",
     "5191b96bccbc7e7a90f916cd853fdaa5",
@@ -2001,13 +1997,13 @@
     "501fda9b4dce679b92d36ddb09dc613b",
     "e5f14f516d828b613b8c7420b2bac2fc",
     "6f66d6a55ba4cf95f2d97865fb89237a",
-    "30e67c7ef99d2491640183ac32e860d9"
+    "30e67c7ef99d2491640183ac32e860d9",
+    "61db2cb6dd29e81e3cbbfabac4f13b1d",
+    "43bd011c6b281cbada88ca090a60d86f",
+    "18e1df3e59a51fae40389eb8375ac181",
+    "c922a6e436580164f5a6800b400e903a"
   ],
   "titles": [
-    "Reform des Sozialstaats - CDU-Politiker Biadacz: \"Erste Maßnahmen bereits in diesem Jahr umsetzen\"",
-    "USA - \"Streets of Minneapolis\": Bruce Springsteen veröffentlicht Protestlied gegen ICE-Einsätze",
-    "Entscheidung - Bundesgerichtshof: Immobilienmakler muss wegen Diskriminierung Schadenersatz zahlen",
-    "Regierungs-Pläne - Diskussion um Arbeitszeitgesetz: Gewerkschaften drohen mit Streiks",
     "Deutschland-Blog: Viel Streit über Verhältnis zu Amerika in Aussprache zur Regierungserklärung",
     "Abstimmung im Bundestag: Mit diesem Gesetz soll die kritische Infrastruktur geschützt werden",
     "Kritik - Kritis-Dachgesetz: Städtetag hält Vorschlag zum Schutz kritischer Infrastruktur für unzureichend",
@@ -3003,13 +2999,13 @@
     "Würzburg - Katholische Bischöfe wählen neuen Vorsitzenden",
     "Gleichberechtigung - Ataman fordert Kulturwandel gegen Gender Pay Gap",
     "Venezuela - 30 weitere politische Gefangene freigelassen - Hunderte weiter in Haft",
-    "Nach tödlichen Schüssen in Kanada - Tatverdächtige soll zuvor bei OpenAI aufgefallen sein"
+    "Nach tödlichen Schüssen in Kanada - Tatverdächtige soll zuvor bei OpenAI aufgefallen sein",
+    "Europäische Union - Blockade von Ukraine-Hilfen: Forderungen nach Stimmrechtsentzug für Ungarn",
+    "Nach Urteil gegen Trumps Zölle - US-Lieferunternehmen Fedex verklagt US-Regierung",
+    "Justiz - Südkoreas Ex-Präsident Yoon legt Berufung gegen lebenslange Haftstrafe ein",
+    "Wirtschaftsstreit - China verhängt Handelsbeschränkungen gegen japanische Firmen"
   ],
   "hashes": [
-    "08fd6f8f79bb4fa71594f1dd1c766597",
-    "264f4873fd2bd5ac72dea319797c7c81",
-    "46392f029661f3daaa87aed61042711b",
-    "f2b7ccc277a1195ee04bfc6968bdf20c",
     "01ac95465d253c1d2c121953ef492256",
     "10aca565b3e0487e637022cbed944cb9",
     "1e4b13588ec430aefcd08b4c771d5d01",
@@ -4005,6 +4001,10 @@
     "897e5f1a7bd0daf1863169f3ebfd69ea",
     "d9b7a882a4f0160003c8ed1be4a8cae9",
     "1759f941f0ede021d1e53ec8b2a9f690",
-    "1ba3c04525e3e11454693a8fd63b167c"
+    "1ba3c04525e3e11454693a8fd63b167c",
+    "8809cbe98af64c4da91405420cd3f943",
+    "1cc530ff7c9776c7fb68790734cd8563",
+    "ff51f2d1af325a4ffebda70fd5e9db51",
+    "ca4c10b7bbb1260016b1896cbc02e697"
   ]
 }
