@@ -1,8 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/mehr-bundesbuerger-nutzen-sterbehilfevereine-100.html",
-    "https://www.spiegel.de/wissenschaft/mensch/usa-drastische-zunahme-von-adipositas-a-731169e5-d32f-4409-98af-98face0bf104#ref=rss",
-    "https://www.deutschlandfunk.de/kritis-dachgesetz-bundestag-beschliesst-gesetz-zum-schutz-kritischer-infrastruktur-100.html",
     "https://www.deutschlandfunk.de/deutschland-uebergibt-in-kiew-zwei-mobile-heizkraftwerke-100.html",
     "https://www.deutschlandfunk.de/austausch-toter-soldaten-zwischen-ukraine-und-russland-102.html",
     "https://www.deutschlandfunk.de/uno-millionen-fluechtlinge-im-sudan-trotz-zerstoerung-in-ihre-heimatorte-zurueckgekehrt-100.html",
@@ -999,12 +996,12 @@
     "https://www.faz.net/aktuell/politik/ukraine/vier-jahre-ukrainekrieg-waeren-wir-deutschen-so-tapfer-wie-die-ukrainer-110842824.html",
     "https://www.deutschlandfunk.de/vierter-jahrestag-des-russischen-angriffs-selenskyj-fordert-konkretes-datum-fuer-ukrainischen-eu-bei-100.html",
     "https://www.deutschlandfunk.de/verdi-ruft-zu-bundesweiten-warnstreiks-auf-100.html",
-    "https://www.deutschlandfunk.de/hilfsorganisationen-warnen-vor-den-auswirkungen-des-krieges-auf-ukrainische-kinder-100.html"
+    "https://www.deutschlandfunk.de/hilfsorganisationen-warnen-vor-den-auswirkungen-des-krieges-auf-ukrainische-kinder-100.html",
+    "https://www.deutschlandfunk.de/hildesheimer-bischof-wilmer-ist-neuer-vorsitzender-der-katholischen-deutschen-bischofskonferenz-102.html",
+    "https://www.deutschlandfunk.de/mehr-auslaendische-aerzte-in-deutschland-100.html",
+    "https://www.deutschlandfunk.de/anteil-der-offliner-weiter-gesunken-100.html"
   ],
   "content_hashes": [
-    "72089a5d26bc12924bd80eeae7d7d231",
-    "df5b2518b3b9670f698f4087bdf922e8",
-    "0187185a18f3acbadab83578aaa7a716",
     "24487196976b29ab0d9b58fc3ac6e39c",
     "56aad3d91cc65e4d78779c024a09625c",
     "d31786e52f279bf3d3b5a6ae73ca3468",
@@ -2001,12 +1998,12 @@
     "474d6db6f643766b854fabe6095e3875",
     "8187067774f391b83eb7972a275a9c79",
     "8a568f47ea720e5f4a798d9c55ca4b26",
-    "1d39e5a00b9e043566dfde98b008ea38"
+    "1d39e5a00b9e043566dfde98b008ea38",
+    "a72db2a68fbf150fbfab7e7db87ef082",
+    "6f2ade80451b79ad7173909b5d362ade",
+    "7db5f9a93f1cb728f8505714a44b4f60"
   ],
   "titles": [
-    "Bilanz - Mehr Bundesbürger nutzen Sterbehilfevereine",
-    "USA: Drastische Zunahme von Adipositas",
-    "Parlament - Kritis-Dachgesetz: Bundestag beschließt Gesetz zum Schutz kritischer Infrastruktur",
     "Winterhilfe - Deutschland übergibt in Kiew zwei mobile Heizkraftwerke",
     "Ukraine-Krieg - Austausch toter Soldaten zwischen Ukraine und Russland",
     "Bürgerkrieg - UNO: Millionen Flüchtlinge im Sudan trotz Zerstörung in ihre Heimatorte zurückgekehrt",
@@ -3003,12 +3000,12 @@
     "Vier Jahre Krieg: Würden wir Deutschen so tapfer kämpfen wie die Ukrainer?",
     "Berlin - Vierter Jahrestag des russischen Angriffs: Selenskyj fordert konkretes Datum für ukrainischen EU-Beitritt",
     "ÖPNV - Verdi ruft zu bundesweiten Warnstreiks auf",
-    "Vier Jahre russische Invasion - Hilfsorganisationen warnen vor den Auswirkungen des Krieges auf ukrainische Kinder"
+    "Vier Jahre russische Invasion - Hilfsorganisationen warnen vor den Auswirkungen des Krieges auf ukrainische Kinder",
+    "Würzburg - Hildesheimer Bischof Wilmer ist neuer Vorsitzender der katholischen Deutschen Bischofskonferenz",
+    "Statistik - Mehr ausländische Ärzte in Deutschland",
+    "Internetnutzung - Anteil der \"Offliner\" weiter gesunken"
   ],
   "hashes": [
-    "869353d4454a5f95ae536b8f747b86fd",
-    "fed5822e04640750678db0750a18fdab",
-    "f911eb17d765fdf7b8bd24c8acd26dc5",
     "7f8ef12b4a611a180c84381199715869",
     "6da376defe4cb2edfc90bc1e0b5f8707",
     "4e377b4114e1c4980d86ed238760cac8",
@@ -4005,6 +4002,9 @@
     "27eec95beb154e899ad67d0b71e0d430",
     "5a9d16e5557600180e4ca50965eb6634",
     "8111e1c0d654a245fe0c46b98a811213",
-    "a7e67ba94f159a7714d727c7c18f322b"
+    "a7e67ba94f159a7714d727c7c18f322b",
+    "05a4f0da71b066f7b9379d7bf285561a",
+    "166963023befaaae37e462708bf03ee1",
+    "ba9c9fbaf8ba6b633bf6a1b6459c77d7"
   ]
 }
