@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/israel-uebergibt-leichen-von-15-palaestinensern-102.html",
-    "https://www.deutschlandfunk.de/uebergangshaushalt-der-usa-laeuft-morgen-aus-trump-administration-verhandelt-mit-demokratischer-part-102.html",
-    "https://www.deutschlandfunk.de/bundestag-verlaengert-das-irak-mandat-der-bundeswehr-um-ein-weiteres-jahr-102.html",
-    "https://www.faz.net/aktuell/politik/inland/wie-karsten-wildberger-buerokratie-abbauen-will-200481077.html",
     "https://www.spiegel.de/politik/deutschland/entscheidung-des-bundestages-wegwerf-agenten-muessen-kuenftig-mit-haerteren-strafen-rechnen-a-e2bb0ef2-f8e8-4c4c-abcc-fceb98e06849#ref=rss",
     "https://www.spiegel.de/ausland/ukraine-heizkraftwerke-aus-deutschland-sollen-86-000-menschen-mit-strom-versorgen-a-6be69efe-64d8-46df-ab93-22930e283266#ref=rss",
     "https://www.deutschlandfunk.de/uebergangshaushalt-der-usa-laeuft-aus-trump-administration-verhandelt-mit-demokratischer-partei-104.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/union-und-spd-einigen-sich-auf-eckpunkte-fuer-reform-des-heizungsgesetzes-100.html",
     "https://www.deutschlandfunk.de/gigantischer-braindrain-diese-folgen-hat-der-krieg-fuer-forschung-und-wissenschaft-in-der-ukraine-100.html",
     "https://www.deutschlandfunk.de/koalition-verstaendigt-sich-auf-eckpunkte-fuer-reform-des-heizungsgesetzes-100.html",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-triell-zur-landtagswahl-hagel-und-oezdemir-grenzen-sich-von-afd-ab-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-triell-zur-landtagswahl-hagel-und-oezdemir-grenzen-sich-von-afd-ab-faz-110093143.html",
+    "https://www.deutschlandfunk.de/2025-wurden-rund-8-200-auslaender-ausgewiesen-102.html",
+    "https://www.deutschlandfunk.de/15-us-bundesstaaten-verklagen-trump-regierung-wegen-einschraenkungen-beim-kinderimpfplan-100.html",
+    "https://www.deutschlandfunk.de/ohne-eta-keine-einreise-mehr-nach-grossbritannien-moeglich-100.html",
+    "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss"
   ],
   "content_hashes": [
-    "c768d55f579489d8e75d77b27dbf188d",
-    "85f6e042c2323ffa4a9c68524a265782",
-    "72c2787596ace5b0127737448c86cd6e",
-    "974ad933ac31e877f03e2f2540a5029b",
     "566f4ebca79151fb91e19b90ae99841a",
     "de4a16fd685b6457bf96bdcf233c71e0",
     "e854a82f3a672d35af67a1ace3f9de62",
@@ -2001,13 +1997,13 @@
     "1ad8f530d4d2daf9f33b572bf45d584a",
     "74ac6e298ae3782c20044425899b1a28",
     "08cf8ca673ee1a14f00d9f7bf26d06fa",
-    "c168e12a11a04755ed65481057cc5b91"
+    "c168e12a11a04755ed65481057cc5b91",
+    "9eef4b1faf63b15de31dbc07495c19a4",
+    "3f1f46a0974a185bf89a1ed8f3484100",
+    "7b9a11077bf92ab58b4193c22d7bcc48",
+    "cfcf7bd26c11060150223f779d2316cf"
   ],
   "titles": [
-    "Nächste Phase des Friedensplans - Israel übergibt Leichen von 15 Palästinensern",
-    "Drohender Shutdown - Übergangshaushalt der USA läuft morgen aus - Trump-Administration verhandelt mit Demokratischer Partei",
-    "Kampf gegen den IS - Bundestag verlängert das Irak-Mandat der Bundeswehr um ein weiteres Jahr",
-    "Bürokratieabbau: Endlich Licht am Ende des deutschen Amtsflurs?",
     "Entscheidung des Bundestages: »Wegwerf-Agenten« müssen künftig mit härteren Strafen rechnen",
     "Ukraine: Heizkraftwerke aus Deutschland sollen 86.000 Menschen mit Strom versorgen",
     "Drohender Shutdown - Übergangshaushalt der USA läuft aus - Trump-Administration verhandelt mit Demokratischer Partei",
@@ -3003,13 +2999,13 @@
     "Berlin - Union und SPD einigen sich auf Eckpunkte für Reform des Heizungsgesetzes",
     "Vier Jahre russischer Angriffskrieg - \"Gigantischer Braindrain\" - Diese Folgen hat der Krieg für Forschung und Wissenschaft in der Ukraine",
     "Berlin - Koalition verständigt sich auf Eckpunkte für Reform des Heizungsgesetzes",
-    "Deutschland-Blog: Hagel und Özdemir grenzen sich von AfD ab"
+    "Deutschland-Blog: Hagel und Özdemir grenzen sich von AfD ab",
+    "Leichter Rückgang - 2025 wurden rund 8.200 Ausländer ausgewiesen",
+    "Gegen Kennedy - 15 US-Bundesstaaten verklagen Trump-Regierung wegen Einschränkungen beim Kinderimpfplan",
+    "Nach Kulanz-Zeit - Ohne ETA keine Einreise mehr nach Großbritannien möglich",
+    "Russia-Ukraine war: List of key events, day 1,462"
   ],
   "hashes": [
-    "e3c84344378d32eb74f4c4a01129b43f",
-    "2d128f0ddfafd4736501d64eba808901",
-    "dbc01e07a5f26b9d84a05c80913507fe",
-    "80677663218835854b714bf239ea8234",
     "f07769fd11003a1ab7b61a97b46152c7",
     "cc695f88ff02e98fd4508a423db58be0",
     "666ea41638edc5dbb8f46e9585a5690b",
@@ -4005,6 +4001,10 @@
     "51bc051c302188898d8866ebbd29b171",
     "b3fcfa1d80511087ca17a2b95219bf4a",
     "34c327de85951b8f3012b75821325732",
-    "ab765742a141b48b36dacb44efd88b02"
+    "ab765742a141b48b36dacb44efd88b02",
+    "02427e872aed09491570ff4e5057cab6",
+    "7765d3568a6a02a243e165ee0236353d",
+    "f885b5fd45791c9cd2e2e9eadbd94324",
+    "94df007ff5b93c55a88caa858352a823"
   ]
 }
