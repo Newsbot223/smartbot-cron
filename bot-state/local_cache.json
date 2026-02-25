@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.spiegel.de/ausland/ukraine-heizkraftwerke-aus-deutschland-sollen-86-000-menschen-mit-strom-versorgen-a-6be69efe-64d8-46df-ab93-22930e283266#ref=rss",
-    "https://www.deutschlandfunk.de/uebergangshaushalt-der-usa-laeuft-aus-trump-administration-verhandelt-mit-demokratischer-partei-104.html",
-    "https://www.deutschlandfunk.de/gruenes-licht-fuer-export-von-abgeschiedenem-co2-zur-einlagerung-irak-mandat-der-bundeswehr-verlaeng-102.html",
-    "https://www.deutschlandfunk.de/kanzler-merz-einstufung-der-revolutionsgarden-als-terrororganisation-ist-klares-signal-104.html",
     "https://www.deutschlandfunk.de/koalitionspolitiker-schlagen-hoehere-tabaksteuer-vor-102.html",
     "https://www.deutschlandfunk.de/weisses-haus-meldet-haushalts-einigung-zur-abwendung-eines-shutdowns-100.html",
     "https://www.deutschlandfunk.de/rki-meldet-rsv-welle-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/15-us-bundesstaaten-verklagen-trump-regierung-wegen-einschraenkungen-beim-kinderimpfplan-100.html",
     "https://www.deutschlandfunk.de/ohne-eta-keine-einreise-mehr-nach-grossbritannien-moeglich-100.html",
     "https://www.aljazeera.com/news/2026/2/25/russia-ukraine-war-list-of-key-events-day-1462?traffic_source=rss",
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-gruene-warnen-vor-neuer-heizkostenfalle-faz-110093143.html"
+    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-gruene-warnen-vor-neuer-heizkostenfalle-faz-110093143.html",
+    "https://www.deutschlandfunk.de/praesident-trump-haelt-rede-zur-lage-der-nation-goldenes-zeitalter-fuer-amerika-100.html",
+    "https://www.deutschlandfunk.de/deutsche-bischofskonferenz-nimmt-satzung-fuer-kuenftige-synodalkonferenz-an-100.html",
+    "https://www.deutschlandfunk.de/defizit-steigt-kraeftig-deutscher-staat-2025-tiefer-im-minus-102.html",
+    "https://www.spiegel.de/panorama/leute/olaf-scholz-altbundeskanzler-plant-offenbar-autobiografie-a-29bd68af-594c-457a-986d-7ed11d1b8f1c#ref=rss"
   ],
   "content_hashes": [
-    "de4a16fd685b6457bf96bdcf233c71e0",
-    "e854a82f3a672d35af67a1ace3f9de62",
-    "c877c1e81beb24d6a3730d450b4588af",
-    "bd2b8196752470caf125005e44ce94d0",
     "389ea7730f921ca9d39263263c58a5a9",
     "c37ff29aab959cb4ff55c7839aa98a0a",
     "2511d77c90ab5d5fec41c77e63300a18",
@@ -2001,13 +1997,13 @@
     "3f1f46a0974a185bf89a1ed8f3484100",
     "7b9a11077bf92ab58b4193c22d7bcc48",
     "cfcf7bd26c11060150223f779d2316cf",
-    "ac8c458d8f9fa95711a86c561c0bc3aa"
+    "ac8c458d8f9fa95711a86c561c0bc3aa",
+    "e9016013851f48c30a54c646bec5faf0",
+    "2b88348d981fd3d66ff00dfbcec83e6d",
+    "e154e04f0b5dc92211b5c28a135c4c72",
+    "170518acc1edddc19ddfd0edb2de610b"
   ],
   "titles": [
-    "Ukraine: Heizkraftwerke aus Deutschland sollen 86.000 Menschen mit Strom versorgen",
-    "Drohender Shutdown - Übergangshaushalt der USA läuft aus - Trump-Administration verhandelt mit Demokratischer Partei",
-    "Bundestag-Beschlüsse - Grünes Licht für Export von abgeschiedenem CO2 zur Einlagerung - Irak-Mandat der Bundeswehr verlängert",
-    "Iran - Kanzler Merz: Einstufung der Revolutionsgarden als Terrororganisation ist \"klares Signal\"",
     "Zigaretten-Konsum - Koalitionspolitiker schlagen höhere Tabaksteuer vor",
     "USA - Weißes Haus meldet Haushalts-Einigung zur Abwendung eines \"Shutdowns\"",
     "Atemwegs-Infektion - RKI meldet RSV-Welle",
@@ -3003,13 +2999,13 @@
     "Gegen Kennedy - 15 US-Bundesstaaten verklagen Trump-Regierung wegen Einschränkungen beim Kinderimpfplan",
     "Nach Kulanz-Zeit - Ohne ETA keine Einreise mehr nach Großbritannien möglich",
     "Russia-Ukraine war: List of key events, day 1,462",
-    "Deutschland-Blog: Grüne warnen vor „neuer Heizkostenfalle“"
+    "Deutschland-Blog: Grüne warnen vor „neuer Heizkostenfalle“",
+    "USA - Präsident Trump hält Rede zur Lage der Nation: \"Goldenes Zeitalter für Amerika\"",
+    "Würzburg - Deutsche Bischofskonferenz nimmt Satzung für künftige Synodalkonferenz an",
+    "Wirtschaft - Defizit steigt kräftig - deutscher Staat 2025 tiefer im Minus",
+    "Olaf Scholz: Altbundeskanzler plant offenbar Autobiografie"
   ],
   "hashes": [
-    "cc695f88ff02e98fd4508a423db58be0",
-    "666ea41638edc5dbb8f46e9585a5690b",
-    "90415dd8846fcc60232e9171dfc606dc",
-    "1a115d53ecb316c923bde09bd99f9a69",
     "4c0b8c1c6775056cb875a6df174f6be4",
     "8058184476b47be5c4cc6d8cdbf0f0a0",
     "c0c25235f65e154f412a58a36e79aa57",
@@ -4005,6 +4001,10 @@
     "7765d3568a6a02a243e165ee0236353d",
     "f885b5fd45791c9cd2e2e9eadbd94324",
     "94df007ff5b93c55a88caa858352a823",
-    "fa9d6f26fa5d2de877b4bf8efba9bf43"
+    "fa9d6f26fa5d2de877b4bf8efba9bf43",
+    "1f9ffbfe396f6d7f5a4c45b2259b6564",
+    "18d57b81577f6c2329dd2c7cb22e78ec",
+    "1fe27a55ca3c38b1271d9956f1172d39",
+    "da43bf6f632db4db6220f46d0b5ffa74"
   ]
 }
