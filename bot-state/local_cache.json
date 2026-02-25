@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/ist-die-afd-eine-volkspartei-accg-200270891.html",
-    "https://www.deutschlandfunk.de/deutsche-wirtschaft-ende-2025-um-0-3-prozent-gewachsen-100.html",
     "https://www.deutschlandfunk.de/warnstreiks-im-nahverkehr-am-montag-102.html",
     "https://www.deutschlandfunk.de/selenskyj-termin-fuer-naechste-verhandlungen-koennte-sich-verschieben-100.html",
     "https://www.deutschlandfunk.de/opposition-zu-jahreswirtschaftsbericht-von-wirtschaftswende-keine-spur-102.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/zwei-gesetzentwuerfe-zur-umsetzung-der-eu-asylrechtsreform-beschlossen-100.html",
     "https://www.deutschlandfunk.de/razzien-in-sicherheitsbranche-in-sieben-bundeslaendern-100.html",
     "https://www.deutschlandfunk.de/neuseeland-hofft-auf-kakapo-nachwuchs-102.html",
-    "https://www.faz.net/aktuell/politik/inland/linke-schliesst-linksjugendsprecherin-fuer-zwei-jahre-aus-110843608.html"
+    "https://www.faz.net/aktuell/politik/inland/linke-schliesst-linksjugendsprecherin-fuer-zwei-jahre-aus-110843608.html",
+    "https://www.deutschlandfunk.de/bundesregierung-will-staerker-gegen-organisierte-kriminalitaet-vorgehen-100.html",
+    "https://www.deutschlandfunk.de/indiens-premier-modi-von-ministerpraesident-netanjahu-empfangen-102.html"
   ],
   "content_hashes": [
-    "28c957d0ffa2169ee8a5ae0411992707",
-    "be7b662f6e04812f8c406906447d37d7",
     "0bf4d78ebd774e69ffbf44a09913ca66",
     "fa207595ef0f70ec781a38be4358ccfa",
     "f15800c2dbe9f920245d68a98b514b9d",
@@ -2001,11 +1999,11 @@
     "b360fd110c3139d8df2f545371291327",
     "7d8988ea561aa0dff77f7aa83502cf44",
     "474f2bb5fb55bc2face6cf3dbcd80362",
-    "72f805cf423d072fb87463f3b2c5842e"
+    "72f805cf423d072fb87463f3b2c5842e",
+    "fd1fbe9c9fd5688b2d7133c0f2b2a29e",
+    "65edc7a90727a56c70e112577b99d2c7"
   ],
   "titles": [
-    "Höhenflug in Umfragen: Ist die AfD eine Volkspartei?",
-    "Konjunktur - Deutsche Wirtschaft Ende 2025 um 0,3 Prozent gewachsen",
     "Einschränkungen bundesweit - Warnstreiks im Nahverkehr am Montag",
     "Ukraine-Gespräche - Selenskyj: Termin für nächste Verhandlungen könnte sich verschieben",
     "Bundestag - Opposition zu Jahreswirtschaftsbericht: Von Wirtschaftswende keine Spur",
@@ -3003,11 +3001,11 @@
     "Bundestags-Innenausschuss - Zwei Gesetzentwürfe zur Umsetzung der EU-Asylrechtsreform beschlossen",
     "Schwarzarbeit - Razzien in Sicherheitsbranche in sieben Bundesländern",
     "Viel Nahrung - Neuseeland hofft auf Kakapo-Nachwuchs",
-    "Nach Holocaust-Eklat: Linke schließt Sprecherin der Linksjugend für zwei Jahre aus"
+    "Nach Holocaust-Eklat: Linke schließt Sprecherin der Linksjugend für zwei Jahre aus",
+    "Aktionsplan - Bundesregierung will stärker gegen Organisierte Kriminalität vorgehen",
+    "Israel - Indiens Premier Modi von Ministerpräsident Netanjahu empfangen"
   ],
   "hashes": [
-    "382ba8f0b2c9039896316b7c6e84e67a",
-    "f2a91470b0435637bf8135ba0810f835",
     "8e837fdcf9e9f73b0c618c15716854c4",
     "a3d9c79e2d62da98fcdf279ce2749bdb",
     "59c3f5ddb2651c5e1ba87d4207da002d",
@@ -4005,6 +4003,8 @@
     "4973fe83060c0a3ae955795f72d14664",
     "5ddac776b1ffe3db45d71a38950bc565",
     "a8efbbd48ed345362ce59a90d51a33be",
-    "411f4f000b16f51347ee5b4cd36bec0e"
+    "411f4f000b16f51347ee5b4cd36bec0e",
+    "6ce9efdd68654cc2bc07a12483e9585d",
+    "e2a25a74efcc502a9f89549aad8b490a"
   ]
 }
