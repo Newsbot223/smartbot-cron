@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.faz.net/aktuell/politik/inland/deutschland-blog-ostbeauftragte-kaiser-soeder-legt-axt-an-foederale-solidaritaet-faz-110093143.html",
-    "https://www.deutschlandfunk.de/wirtschaft-in-der-eurozone-im-vergangenen-jahr-um-1-5-prozent-gewachsen-besonders-stark-in-spanien-100.html",
-    "https://www.deutschlandfunk.de/forschungsministerin-baer-ruft-dekade-gegen-postinfektioese-erkrankungen-aus-100.html",
-    "https://www.deutschlandfunk.de/bundesrat-gibt-gruenes-licht-fuer-besseren-verbraucherschutz-im-netz-100.html",
     "https://www.spiegel.de/panorama/justiz/christina-block-verliert-endgueltig-sorgerechtsstreit-in-daenemark-a-c32ece6a-fe18-46da-8de7-c807200d016a#ref=rss",
     "https://www.deutschlandfunk.de/experten-fordern-bussgeld-bei-1-1-promille-auf-dem-rad-100.html",
     "https://www.deutschlandfunk.de/cdu-frauen-wollen-frauen-zum-ausfuellen-des-wehrdienst-fragebogens-verpflichten-kritik-aus-der-spd-100.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/eu-kommission-genehmigt-weiteren-donauausbau-in-niederbayern-100.html",
     "https://www.deutschlandfunk.de/bislang-geheime-unterlagen-zum-umsturzversuch-in-spanien-im-jahr-1981-freigegeben-100.html",
     "https://www.deutschlandfunk.de/juden-und-muslime-hoffen-auf-starken-interreligioesen-dialog-100.html",
-    "https://www.faz.net/aktuell/politik/inland/beschaffung-von-drohnen-das-ist-kein-kamikaze-110843813.html"
+    "https://www.faz.net/aktuell/politik/inland/beschaffung-von-drohnen-das-ist-kein-kamikaze-110843813.html",
+    "https://www.deutschlandfunk.de/baldiges-referendum-ueber-eu-beitritt-angekuendigt-100.html",
+    "https://www.deutschlandfunk.de/israelische-siedler-greifen-palaestinensisches-dorf-an-102.html",
+    "https://www.deutschlandfunk.de/epstein-affaere-ehemaliger-us-finanzminister-summers-verlaesst-harvard-universitaet-100.html",
+    "https://www.faz.net/aktuell/politik/inland/afd-abgeordnete-martina-uhr-soll-aus-fraktion-fliegen-200574625.html"
   ],
   "content_hashes": [
-    "9f057dd7ea957ca87dc2454c025ada9e",
-    "999b1c3f069178ff804813baa369e9a3",
-    "97bcf879bdcaacd86bfe6e6834170176",
-    "dc19cfb66781f39ba7fa60b608ea4738",
     "e63eb5ac6992bb64f0484555f7677aac",
     "163e7e6ce8256ab0cd778196de055ddf",
     "eee471444a7faafae5f91383284a56b4",
@@ -2001,13 +1997,13 @@
     "03bf3727d04f4bba99bc81668eeb658c",
     "2094d7d7a16492d11b47e2ea988b6088",
     "46dc831821ef05f11b5b1c4e60111fae",
-    "66275f8d6e5043d3970172253161e41d"
+    "66275f8d6e5043d3970172253161e41d",
+    "f43c75068daef240028f7855582d959a",
+    "f1ce7a5dc821d43ce9b8c263ea6acf3a",
+    "0e7365b01bf101cc150200abc422bb86",
+    "9fc08d402b20efbdc413605f9d35e140"
   ],
   "titles": [
-    "Deutschland-Blog: Ostbeauftragte Kaiser: Söder legt Axt an föderale Solidarität",
-    "Eurostat - Wirtschaft in der Eurozone im vergangenen Jahr um 1,5 Prozent gewachsen - besonders stark in Spanien",
-    "Wissenschaft - Forschungsministerin Bär ruft Dekade gegen postinfektiöse Erkrankungen aus",
-    "Widerruf per Mausklick - Bundesrat gibt grünes Licht für besseren Verbraucherschutz im Netz",
     "Christina Block verliert endgültig Sorgerechtsstreit in Dänemark",
     "Verkehrsgerichtstag - Experten fordern Bußgeld bei 1,1 Promille auf dem Rad",
     "Bundeswehr - CDU-Frauen wollen Frauen zum Ausfüllen des Wehrdienst-Fragebogens verpflichten - Kritik aus der SPD",
@@ -3003,13 +2999,13 @@
     "Brüssel - EU-Kommission genehmigt weiteren Donauausbau in Niederbayern",
     "Geschichte - Bislang geheime Unterlagen zum Umsturzversuch in Spanien im Jahr 1981 freigegeben",
     "Nach Wahl Wilmers - Juden und Muslime hoffen auf starken interreligiösen Dialog",
-    "Beschaffung von Drohnen: Das ist kein Kamikaze"
+    "Beschaffung von Drohnen: Das ist kein Kamikaze",
+    "Island - Baldiges Referendum über EU-Beitritt angekündigt",
+    "Westjordanland - Israelische Siedler greifen palästinensisches Dorf an",
+    "Ex-Finanminister - Epstein-Affäre: Ehemaliger US-Finanzminister Summers verlässt Harvard-Universität",
+    "Vetternwirtschaft in AfD: AfD-Abgeordnete Uhr aus Landesgruppe ausgeschlossen"
   ],
   "hashes": [
-    "432a9711146dd2300c9a16fa2cfaa859",
-    "4c00485776f29a9818352be904959449",
-    "8c866c493639a737edd7292c0ec122d5",
-    "643ea5afd3ca52e86ed16efbab311ab2",
     "a761b8067e760a26b8c9139d932b4980",
     "94731c571b95b39065b9c143d8849201",
     "9c081996bf842cb04da9e37b492812d3",
@@ -4005,6 +4001,10 @@
     "9dd9981b8e32fc74fe0c36f481add392",
     "80fdceac1ba855bdb6eed1a92b754c87",
     "b02ee5eb3bc8ec29006df6679619074a",
-    "e8e222fbe3965b36211afe71e00eec92"
+    "e8e222fbe3965b36211afe71e00eec92",
+    "53664f2eafdc7d906ea05f8b4371c61f",
+    "5471db212867a2ef56f72e749cce3a8a",
+    "d2c0cecf1fe65090a781e1f8cee2d76c",
+    "ed90d5ce53b82a83ee300ab90cc0a2f0"
   ]
 }
