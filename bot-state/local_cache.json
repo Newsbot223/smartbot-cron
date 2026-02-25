@@ -1,9 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/europarat-beschliesst-resolution-gegen-konversionstherapien-100.html",
-    "https://www.deutschlandfunk.de/verdi-ruft-zu-nahverkehr-warnstreiks-am-montag-auf-100.html",
-    "https://www.deutschlandfunk.de/trump-droht-kanada-in-flugzeug-streit-mit-zoellen-und-zulassungsentzug-100.html",
-    "https://www.deutschlandfunk.de/lobbyverband-die-familienunternehmer-draengt-auf-schnelle-kostensenkungen-fuer-betriebe-100.html",
     "https://www.faz.net/aktuell/politik/inland/ist-die-afd-eine-volkspartei-accg-200270891.html",
     "https://www.deutschlandfunk.de/deutsche-wirtschaft-ende-2025-um-0-3-prozent-gewachsen-100.html",
     "https://www.deutschlandfunk.de/warnstreiks-im-nahverkehr-am-montag-102.html",
@@ -999,13 +995,13 @@
     "https://www.deutschlandfunk.de/presserat-erstmals-ueber-100-oeffentliche-ruegen-in-einem-jahr-100.html",
     "https://www.faz.net/aktuell/politik/inland/diesem-chauffeur-vertrauen-die-ministerpraesidenten-110840195.html",
     "https://www.faz.net/aktuell/politik/inland/mehr-als-100-betroffene-von-missbrauch-in-franziskanerorden-200572830.html",
-    "https://www.faz.net/aktuell/politik/inland/regierung-will-geld-von-organisierter-kriminalitaet-einziehen-accg-200572543.html"
+    "https://www.faz.net/aktuell/politik/inland/regierung-will-geld-von-organisierter-kriminalitaet-einziehen-accg-200572543.html",
+    "https://www.deutschlandfunk.de/zwei-gesetzentwuerfe-zur-umsetzung-der-eu-asylrechtsreform-beschlossen-100.html",
+    "https://www.deutschlandfunk.de/razzien-in-sicherheitsbranche-in-sieben-bundeslaendern-100.html",
+    "https://www.deutschlandfunk.de/neuseeland-hofft-auf-kakapo-nachwuchs-102.html",
+    "https://www.faz.net/aktuell/politik/inland/linke-schliesst-linksjugendsprecherin-fuer-zwei-jahre-aus-110843608.html"
   ],
   "content_hashes": [
-    "79729241c1d8c23e008860a4ab18d626",
-    "8fea081f7cc496f260483ac5c215273a",
-    "fe1bc7cc3b72c58f2feeb8ea77b23435",
-    "91dfabfdee0d954d755e9c48f2db7d31",
     "28c957d0ffa2169ee8a5ae0411992707",
     "be7b662f6e04812f8c406906447d37d7",
     "0bf4d78ebd774e69ffbf44a09913ca66",
@@ -2001,13 +1997,13 @@
     "b8732df59d708322a031d4e6a54f9012",
     "2547cecffbe2c3b92328e9b31453725f",
     "41c1a03c77ef19cb982079b2682052c9",
-    "13d9b1f33ce256df45b17e8b60206d1e"
+    "13d9b1f33ce256df45b17e8b60206d1e",
+    "b360fd110c3139d8df2f545371291327",
+    "7d8988ea561aa0dff77f7aa83502cf44",
+    "474f2bb5fb55bc2face6cf3dbcd80362",
+    "72f805cf423d072fb87463f3b2c5842e"
   ],
   "titles": [
-    "Sexualität - Europarat beschließt Resolution gegen \"Konversionstherapien\"",
-    "Tarifstreit - Verdi ruft zu Nahverkehr-Warnstreiks am Montag auf",
-    "USA - Trump droht Kanada in Flugzeug-Streit mit Zöllen und Zulassungsentzug",
-    "Konjunktur - Lobbyverband \"Die Familienunternehmer\" drängt auf schnelle Kostensenkungen für Betriebe",
     "Höhenflug in Umfragen: Ist die AfD eine Volkspartei?",
     "Konjunktur - Deutsche Wirtschaft Ende 2025 um 0,3 Prozent gewachsen",
     "Einschränkungen bundesweit - Warnstreiks im Nahverkehr am Montag",
@@ -3003,13 +2999,13 @@
     "Freiwillige Selbstkontrolle - Presserat: Erstmals über 100 öffentliche Rügen in einem Jahr",
     "Politiker-Chauffeur: Der Mann, dem die Ministerpräsidenten vertrauen",
     "Bericht vorgelegt: Mehr als 100 Fälle von Missbrauch in Franziskanerorden",
-    "Plan der Regierung: Vermögen von Kriminellen soll systematisch eingezogen werden"
+    "Plan der Regierung: Vermögen von Kriminellen soll systematisch eingezogen werden",
+    "Bundestags-Innenausschuss - Zwei Gesetzentwürfe zur Umsetzung der EU-Asylrechtsreform beschlossen",
+    "Schwarzarbeit - Razzien in Sicherheitsbranche in sieben Bundesländern",
+    "Viel Nahrung - Neuseeland hofft auf Kakapo-Nachwuchs",
+    "Nach Holocaust-Eklat: Linke schließt Sprecherin der Linksjugend für zwei Jahre aus"
   ],
   "hashes": [
-    "e8f5676303ffdf433061bbc8a36de6c3",
-    "aa33105127aa846b1a433e2c4fad585c",
-    "28a9847137c6bdb935126b2c0b09e03f",
-    "277029f00e75f978e12cbbdeb76a8c4c",
     "382ba8f0b2c9039896316b7c6e84e67a",
     "f2a91470b0435637bf8135ba0810f835",
     "8e837fdcf9e9f73b0c618c15716854c4",
@@ -4005,6 +4001,10 @@
     "454aa17459b3a33149bd998ce6b24c68",
     "ae7e65be9173a256268869463942853f",
     "9c04f2e1c15f20822cf79b92370212fd",
-    "b7008030fa3f9c021268ff5a498b75c3"
+    "b7008030fa3f9c021268ff5a498b75c3",
+    "4973fe83060c0a3ae955795f72d14664",
+    "5ddac776b1ffe3db45d71a38950bc565",
+    "a8efbbd48ed345362ce59a90d51a33be",
+    "411f4f000b16f51347ee5b4cd36bec0e"
   ]
 }
