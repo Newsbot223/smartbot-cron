@@ -1,7 +1,5 @@
 {
   "urls": [
-    "https://www.deutschlandfunk.de/irans-aussenminister-bereit-fuer-verhandlungen-und-fuer-krieg-100.html",
-    "https://www.deutschlandfunk.de/wehr-fragebogen-fuer-frauen-interview-mit-carmen-wegge-vorsitzende-spd-frauen-100.html",
     "https://www.deutschlandfunk.de/widerruf-per-mausklick-greenwashing-bundeswehr-die-beschluesse-des-bundesrats-100.html",
     "https://www.deutschlandfunk.de/deutsche-synchronsprecherinnen-und-sprecher-boykottieren-netflix-104.html",
     "https://www.deutschlandfunk.de/notstand-in-argentinien-wegen-wochenlanger-waldbraende-ausgerufen-100.html",
@@ -999,11 +997,11 @@
     "https://www.deutschlandfunk.de/franzoesische-regierung-uebersteht-weitere-misstrauensabstimmungen-100.html",
     "https://www.deutschlandfunk.de/bundestag-stimmt-heute-ueber-tariftreuegesetz-ab-100.html",
     "https://www.deutschlandfunk.de/aufsichtsrat-der-berlinale-traegergesellschaft-tagt-heute-abloesung-von-chefin-tuttle-100.html",
-    "https://www.deutschlandfunk.de/us-vizepraesident-vance-wirft-den-iran-vor-sein-atomprogramm-wieder-aufzubauen-100.html"
+    "https://www.deutschlandfunk.de/us-vizepraesident-vance-wirft-den-iran-vor-sein-atomprogramm-wieder-aufzubauen-100.html",
+    "https://www.deutschlandfunk.de/bundeskanzler-merz-besucht-tech-metropole-hangzhou-100.html",
+    "https://www.deutschlandfunk.de/schweiz-verbietet-kauf-und-import-von-fluessig-erdgas-aus-russland-100.html"
   ],
   "content_hashes": [
-    "d4ab2be687fc714c8df15291499537ff",
-    "7282424dde968aceaa6342568437f031",
     "6b573f8851616e26d30df005e21d467c",
     "3b1faa174768fc34182b92148429b177",
     "89a490560fbcc382ea09e140a4861e72",
@@ -2001,11 +1999,11 @@
     "cd8b23039e088ddb93b1608899929b98",
     "7fe3463e6b7fabe136daa9d19b38377b",
     "661c653b984e042692137b703bd415bc",
-    "6e4ee9f16759432bccac47b8b1aeeaad"
+    "6e4ee9f16759432bccac47b8b1aeeaad",
+    "41af0e86dd961a76008eee43577564a6",
+    "15fef62e7f61299c624a054414aa834e"
   ],
   "titles": [
-    "Spannungen mit USA - Irans Außenminister: Bereit für Verhandlungen und für Krieg",
-    "Bundeswehrdienst - SPD-Frauen gegen Zwang für Frauen, den Fragebogen auszufüllen",
     "Länderkammer - Widerruf per Mausklick, Greenwashing, Bundeswehr - die Beschlüsse des Bundesrats",
     "Streit um KI-Einsatz - Deutsche Synchronsprecherinnen und -sprecher boykottieren Netflix",
     "Südamerika - Notstand in Argentinien wegen wochenlanger Waldbrände ausgerufen",
@@ -3003,11 +3001,11 @@
     "Nationalversammlung - Französische Regierung übersteht weitere Misstrauensabstimmungen",
     "Wirtschaftspolitik - Bundestag stimmt heute über Tariftreuegesetz ab",
     "Filmfestival - Aufsichtsrat der Berlinale-Trägergesellschaft tagt - heute Ablösung von Chefin Tuttle?",
-    "Verhandlungen in Genf - US-Vizepräsident Vance wirft den Iran vor, sein Atomprogramm wieder aufzubauen"
+    "Verhandlungen in Genf - US-Vizepräsident Vance wirft den Iran vor, sein Atomprogramm wieder aufzubauen",
+    "China-Reise - Bundeskanzler Merz besucht Tech-Metropole Hangzhou",
+    "Sanktionen - Schweiz verbietet Kauf und Import von Flüssig-Erdgas aus Russland"
   ],
   "hashes": [
-    "34b45a79b642415f32122b63e7e6ce09",
-    "68979ee1c68e61fedbb8bf808b4301c7",
     "d92ace336653257869fe6c06f829a266",
     "b0d55243e50234aae3d79b481d127349",
     "f43f68762511a4ff43034f12bd6cb439",
@@ -4005,6 +4003,8 @@
     "9a542755721ff2e629a9ccdcbe4c1012",
     "3f274ccea5df5853aeef09e6e505ca15",
     "728be336e33875a31c999d97bd60e968",
-    "bac3a8faca7225d16cbf7f59d39ff2d7"
+    "bac3a8faca7225d16cbf7f59d39ff2d7",
+    "189ff87430f4fdd3a9163d674249fb2d",
+    "92cef9cc8c1fd83d3fe026bbfa73dfa2"
   ]
 }
